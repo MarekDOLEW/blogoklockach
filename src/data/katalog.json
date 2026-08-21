@@ -28,10 +28,9 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-20",
-      "uzupelnione_lacznie": 1332,
+      "data": "2026-08-21",
+      "uzupelnione_lacznie": 1452,
       "ostatnie_serie": [
-        "Icons",
         "Star Wars"
       ]
     }
@@ -3779,840 +3778,960 @@
       "nazwa": "TIE Fighter",
       "rok": 2001,
       "elementy": 171,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7166",
       "nazwa": "Imperial Shuttle",
       "rok": 2001,
       "elementy": 238,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7186",
       "nazwa": "Watto's Junkyard",
       "rok": 2001,
       "elementy": 443,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8007",
       "nazwa": "C-3PO",
       "rok": 2001,
       "elementy": 341,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8008",
       "nazwa": "Stormtrooper",
       "rok": 2001,
       "elementy": 361,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10026",
       "nazwa": "Special Edition Naboo Starfighter",
       "rok": 2002,
       "elementy": 187,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10030",
       "nazwa": "Imperial Star Destroyer",
       "rok": 2002,
       "elementy": 3096,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65081",
       "nazwa": "R2-D2 / C-3PO Droid Collectors Set",
       "rok": 2002,
       "elementy": 581,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65145",
       "nazwa": "X-wing Fighter / TIE Fighter & Y-wing Collectors Set",
       "rok": 2002,
       "elementy": 677,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65153",
       "nazwa": "Jango Fett's Slave I with Bonus Cargo Case",
       "rok": 2002,
       "elementy": 369,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7103",
       "nazwa": "Jedi Duel",
       "rok": 2002,
       "elementy": 82,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7113",
       "nazwa": "Tusken Raider Encounter",
       "rok": 2002,
       "elementy": 93,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7119",
       "nazwa": "Twin-Pod Cloud Car",
       "rok": 2002,
       "elementy": 118,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7133",
       "nazwa": "Bounty Hunter Pursuit",
       "rok": 2002,
       "elementy": 259,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7139",
       "nazwa": "Ewok Attack",
       "rok": 2002,
       "elementy": 121,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7142",
       "nazwa": "X-wing Fighter",
       "rok": 2002,
       "elementy": 267,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7143",
       "nazwa": "Jedi Starfighter",
       "rok": 2002,
       "elementy": 138,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7152",
       "nazwa": "TIE Fighter & Y-wing",
       "rok": 2002,
       "elementy": 410,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7153",
       "nazwa": "Jango Fett's Slave I",
       "rok": 2002,
       "elementy": 369,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7163",
       "nazwa": "Republic Gunship",
       "rok": 2002,
       "elementy": 686,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7194",
       "nazwa": "Yoda",
       "rok": 2002,
       "elementy": 1075,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7200",
       "nazwa": "Final Duel I",
       "rok": 2002,
       "elementy": 29,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7201",
       "nazwa": "Final Duel II",
       "rok": 2002,
       "elementy": 23,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7203",
       "nazwa": "Jedi Defense I",
       "rok": 2002,
       "elementy": 59,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7204",
       "nazwa": "Jedi Defense II",
       "rok": 2002,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8009",
       "nazwa": "R2-D2",
       "rok": 2002,
       "elementy": 240,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8010",
       "nazwa": "Darth Vader",
       "rok": 2002,
       "elementy": 391,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8011",
       "nazwa": "Jango Fett",
       "rok": 2002,
       "elementy": 422,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8012",
       "nazwa": "Super Battle Droid",
       "rok": 2002,
       "elementy": 379,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10123",
       "nazwa": "Cloud City",
       "rok": 2003,
       "elementy": 698,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10129",
       "nazwa": "Rebel Snowspeeder",
       "rok": 2003,
       "elementy": 1457,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3219",
       "nazwa": "Mini TIE Fighter",
       "rok": 2003,
       "elementy": 12,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4207901",
       "nazwa": "Star Wars MINI Bonus Pack",
       "rok": 2003,
       "elementy": 277,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4475",
       "nazwa": "Jabba's Message",
       "rok": 2003,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4476",
       "nazwa": "Jabba's Prize",
       "rok": 2003,
       "elementy": 40,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4477",
       "nazwa": "T-16 Skyhopper",
       "rok": 2003,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4478",
       "nazwa": "Geonosian Fighter",
       "rok": 2003,
       "elementy": 170,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4479",
       "nazwa": "TIE Bomber",
       "rok": 2003,
       "elementy": 230,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4480",
       "nazwa": "Jabba's Palace",
       "rok": 2003,
       "elementy": 231,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4481",
       "nazwa": "Hailfire Droid",
       "rok": 2003,
       "elementy": 681,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4482",
       "nazwa": "AT-TE",
       "rok": 2003,
       "elementy": 658,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4483",
       "nazwa": "AT-AT",
       "rok": 2003,
       "elementy": 1064,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4484",
       "nazwa": "X-wing Fighter & TIE Advanced",
       "rok": 2003,
       "elementy": 76,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4485",
       "nazwa": "Sebulba's Podracer & Anakin's Podracer",
       "rok": 2003,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4486",
       "nazwa": "AT-ST & Snowspeeder",
       "rok": 2003,
       "elementy": 76,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4487",
       "nazwa": "Jedi Starfighter & Slave I",
       "rok": 2003,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4488",
       "nazwa": "Millennium Falcon",
       "rok": 2003,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4489",
       "nazwa": "AT-AT",
       "rok": 2003,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4490",
       "nazwa": "Republic Gunship",
       "rok": 2003,
       "elementy": 102,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4491",
       "nazwa": "MTT",
       "rok": 2003,
       "elementy": 99,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10131",
       "nazwa": "TIE Fighter Collection",
       "rok": 2004,
       "elementy": 682,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10134",
       "nazwa": "Y-wing Attack Starfighter",
       "rok": 2004,
       "elementy": 1473,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4492",
       "nazwa": "Star Destroyer",
       "rok": 2004,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4493",
       "nazwa": "Sith Infiltrator",
       "rok": 2004,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4494",
       "nazwa": "Imperial Shuttle",
       "rok": 2004,
       "elementy": 82,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4495",
       "nazwa": "AT-TE",
       "rok": 2004,
       "elementy": 63,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4500",
       "nazwa": "Rebel Snowspeeder",
       "rok": 2004,
       "elementy": 214,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4501",
       "nazwa": "Mos Eisley Cantina",
       "rok": 2004,
       "elementy": 193,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4502",
       "nazwa": "X-wing Fighter",
       "rok": 2004,
       "elementy": 563,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4504",
       "nazwa": "Millennium Falcon",
       "rok": 2004,
       "elementy": 985,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65707",
       "nazwa": "Bonus/Value Pack",
       "rok": 2004,
       "elementy": 363,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6963",
       "nazwa": "X-wing Fighter",
       "rok": 2004,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6964",
       "nazwa": "Boba Fett's Slave I",
       "rok": 2004,
       "elementy": 25,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6965",
       "nazwa": "TIE Interceptor",
       "rok": 2004,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7262",
       "nazwa": "TIE Fighter and Y-wing",
       "rok": 2004,
       "elementy": 412,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10143",
       "nazwa": "Death Star II",
       "rok": 2005,
       "elementy": 3449,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10144",
       "nazwa": "Sandcrawler",
       "rok": 2005,
       "elementy": 1669,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65771",
       "nazwa": "Episode III Collectors' Set",
       "rok": 2005,
       "elementy": 544,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65828",
       "nazwa": "Bonus/Value Pack",
       "rok": 2005,
       "elementy": 244,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65844",
       "nazwa": "Bonus/Value Pack",
       "rok": 2005,
       "elementy": 280,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65845",
       "nazwa": "Bonus/Value Pack",
       "rok": 2005,
       "elementy": 371,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6966",
       "nazwa": "Mini Jedi Starfighter",
       "rok": 2005,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6967",
       "nazwa": "Mini ARC-170 Starfighter",
       "rok": 2005,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6968",
       "nazwa": "Wookiee Attack",
       "rok": 2005,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7250",
       "nazwa": "Clone Scout Walker",
       "rok": 2005,
       "elementy": 108,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7251",
       "nazwa": "Darth Vader Transformation",
       "rok": 2005,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7252",
       "nazwa": "Droid Tri-Fighter",
       "rok": 2005,
       "elementy": 148,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7255",
       "nazwa": "General Grievous Chase",
       "rok": 2005,
       "elementy": 111,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7256",
       "nazwa": "Jedi Starfighter and Vulture Droid",
       "rok": 2005,
       "elementy": 202,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7257",
       "nazwa": "Ultimate Lightsaber Duel",
       "rok": 2005,
       "elementy": 282,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7258",
       "nazwa": "Wookiee Attack",
       "rok": 2005,
       "elementy": 366,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7259",
       "nazwa": "ARC-170 Fighter",
       "rok": 2005,
       "elementy": 396,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7260",
       "nazwa": "Wookiee Catamaran",
       "rok": 2005,
       "elementy": 376,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7263",
       "nazwa": "TIE Fighter",
       "rok": 2005,
       "elementy": 159,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7264",
       "nazwa": "Imperial Inspection",
       "rok": 2005,
       "elementy": 367,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7283",
       "nazwa": "Ultimate Space Battle",
       "rok": 2005,
       "elementy": 567,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10174",
       "nazwa": "Imperial AT-ST",
       "rok": 2006,
       "elementy": 1068,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10175",
       "nazwa": "Vader's TIE Advanced",
       "rok": 2006,
       "elementy": 1212,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6205",
       "nazwa": "V-wing Fighter",
       "rok": 2006,
       "elementy": 118,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6206",
       "nazwa": "TIE Interceptor",
       "rok": 2006,
       "elementy": 212,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6207",
       "nazwa": "A-wing Fighter",
       "rok": 2006,
       "elementy": 194,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6208",
       "nazwa": "B-wing Fighter",
       "rok": 2006,
       "elementy": 435,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6209",
       "nazwa": "Slave I",
       "rok": 2006,
       "elementy": 537,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6210",
       "nazwa": "Jabba's Sail Barge",
       "rok": 2006,
       "elementy": 781,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6211",
       "nazwa": "Imperial Star Destroyer",
       "rok": 2006,
       "elementy": 1367,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6212",
       "nazwa": "X-wing Fighter",
       "rok": 2006,
       "elementy": 437,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66142",
       "nazwa": "Bonus/Value Pack",
       "rok": 2006,
       "elementy": 302,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66150",
       "nazwa": "Bonus/Value Pack",
       "rok": 2006,
       "elementy": 396,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66221",
       "nazwa": "Bonus/Value Pack",
       "rok": 2006,
       "elementy": 437,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7261",
       "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
       "rok": 2006,
       "elementy": 813,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7261-2",
       "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
       "rok": 2006,
       "elementy": 813,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10178",
       "nazwa": "Motorized Walking AT-AT",
       "rok": 2007,
       "elementy": 1137,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10179",
       "nazwa": "Ultimate Collector's Millennium Falcon",
       "rok": 2007,
       "elementy": 5197,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4521221",
       "nazwa": "Gold Chrome Plated C-3PO",
       "rok": 2007,
       "elementy": 3,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7654",
       "nazwa": "Droids Battle Pack",
       "rok": 2007,
       "elementy": 102,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7655",
       "nazwa": "Clone Troopers Battle Pack",
       "rok": 2007,
       "elementy": 58,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7656",
       "nazwa": "General Grievous Starfighter",
       "rok": 2007,
       "elementy": 232,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7657",
       "nazwa": "AT-ST",
       "rok": 2007,
       "elementy": 244,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7658",
       "nazwa": "Y-wing Fighter",
       "rok": 2007,
       "elementy": 454,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7659",
       "nazwa": "Imperial Landing Craft",
       "rok": 2007,
       "elementy": 471,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7660",
       "nazwa": "Naboo N-1 Starfighter with Vulture Droid",
       "rok": 2007,
       "elementy": 280,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7661",
       "nazwa": "Jedi Starfighter with Hyperdrive Booster Ring",
       "rok": 2007,
       "elementy": 575,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7662",
       "nazwa": "Trade Federation MTT",
       "rok": 2007,
       "elementy": 1330,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7663",
       "nazwa": "Sith Infiltrator",
       "rok": 2007,
       "elementy": 310,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7664",
       "nazwa": "TIE Crawler",
       "rok": 2007,
       "elementy": 548,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7665",
       "nazwa": "Republic Cruiser",
       "rok": 2007,
       "elementy": 919,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7666",
       "nazwa": "Hoth Rebel Base",
       "rok": 2007,
       "elementy": 548,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10186",
       "nazwa": "General Grievous",
       "rok": 2008,
       "elementy": 1085,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10188",
       "nazwa": "Death Star",
       "rok": 2008,
       "elementy": 3803,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1999.99
     },
     {
       "numer": "20006",
       "nazwa": "Clone Turbo Tank",
       "rok": 2008,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7667",
