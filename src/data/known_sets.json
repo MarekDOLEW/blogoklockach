@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-08-21",
+  "data_aktualizacji": "2026-08-22",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 237,
   "sety": [
@@ -288,10 +288,138 @@
       "nazwa": "Zestaw swiateczny / zimowa wioska (Icons)",
       "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna nazwe, cene i karte PL",
       "premiera": "2026-10"
+    },
+    {
+      "numer": "10371",
+      "nazwa": "nieujawniony zestaw Botanicals",
+      "premiera": null,
+      "status": "NOWE 2026-08-22: numer zarezerwowany w Brickset (rocznik 2026), karta bez nazwy, liczby elementów i ceny. Czekamy na ujawnienie."
+    },
+    {
+      "numer": "10481",
+      "nazwa": "nieujawniony zestaw DUPLO",
+      "premiera": null,
+      "status": "NOWE 2026-08-22: numer zarezerwowany w Brickset (rocznik 2026), karta bez danych."
+    },
+    {
+      "numer": "4000701",
+      "nazwa": "SMART Oran Berry Tag (Pokémon)",
+      "premiera": "2026",
+      "status": "NOWE 2026-08-22: 1-elementowy Smart Tag do linii SMART Play, gratis promocyjny wypatrzony w LEGOLAND (PromoBricks 2026-08-17), potwierdzony kartą w Brickset. Brak RRP i dystrybucji detalicznej — poza katalogiem serwisu, śledzimy na wypadek wejścia do sprzedaży."
+    },
+    {
+      "numer": "6626055",
+      "nazwa": "Monster Truck (promocyjny)",
+      "premiera": "2026-05",
+      "status": "NOWE 2026-08-22: polybag promocyjny, 49 elementów, brak RRP w Brickset. Poza katalogiem serwisu (nie do kupienia osobno) — śledzimy."
     }
   ],
   "luki_w_bazie": {
-    "opis": "Sety 2026 obecne w zrodlach, ale nieopisane w sety.json — backfill 2026-08-17 zamknal wszystkie luki",
-    "numery": []
+    "opis": "Sety 2026 obecne w Brickset, ale nieopisane w sety.json. Rewizja 2026-08-22 (Scout): przegląd strony 1/37 listy brickset.com/sets/year-2026 wykazał 14 numerów spoza bazy — poprzedni wpis „backfill 2026-08-17 zamknął wszystkie luki\" był nieaktualny. Blokada: Brickset podaje RRP wyłącznie w GBP/USD/EUR (sprawdzone na karcie 10465-1), a zasada projektu zabrania przeliczania walut — cena_katalogowa w zł wymaga źródła PL (LEGO.com PL / promoklocki), spoza trzech źródeł Scouta. Do zamknięcia przez backfill cen albo osobną sesję. Lista niepełna: przejrzano 1 z 37 stron rocznika 2026.",
+    "zrodlo": "brickset.com/sets/year-2026 (strona 1), odczyt 2026-08-22",
+    "numery": [
+      "10465",
+      "10466",
+      "10467",
+      "10468",
+      "10471",
+      "10473",
+      "10474",
+      "10475",
+      "10477",
+      "11206",
+      "11207"
+    ],
+    "szczegoly": [
+      {
+        "numer": "10465",
+        "nazwa_en": "Mickey Mouse Clubhouse with Minnie & Pluto",
+        "seria": "DUPLO",
+        "elementy": 87,
+        "wiek": "2+",
+        "premiera": "2026-03",
+        "rrp_usd": 49.99
+      },
+      {
+        "numer": "10466",
+        "nazwa_en": "Train Ride with Grandpa Pig",
+        "seria": "DUPLO",
+        "elementy": 35,
+        "premiera": "2026-03",
+        "rrp_usd": 39.99
+      },
+      {
+        "numer": "10467",
+        "nazwa_en": "Family House",
+        "seria": "DUPLO",
+        "elementy": 84,
+        "premiera": "2026-03",
+        "rrp_usd": 59.99
+      },
+      {
+        "numer": "10468",
+        "nazwa_en": "Tractor and Market",
+        "seria": "DUPLO",
+        "elementy": 18,
+        "premiera": "2026-03",
+        "rrp_usd": 19.99
+      },
+      {
+        "numer": "10471",
+        "nazwa_en": "Blue Police Motorcycle",
+        "seria": "DUPLO",
+        "elementy": 11,
+        "premiera": "2026-01",
+        "rrp_usd": 9.99
+      },
+      {
+        "numer": "10473",
+        "nazwa_en": "Fire Truck with Hose and Firefighter",
+        "seria": "DUPLO",
+        "elementy": 28,
+        "premiera": "2026-01",
+        "rrp_usd": 29.99
+      },
+      {
+        "numer": "10474",
+        "nazwa_en": "Creative Vehicles",
+        "seria": "DUPLO",
+        "elementy": 42,
+        "premiera": "2026-01",
+        "rrp_usd": 19.99
+      },
+      {
+        "numer": "10475",
+        "nazwa_en": "3 in 1 Construction Vehicles",
+        "seria": "DUPLO",
+        "elementy": 22,
+        "premiera": "2026-01",
+        "rrp_usd": 24.99
+      },
+      {
+        "numer": "10477",
+        "nazwa_en": "3 in 1 My First Creative Cute Pets",
+        "seria": "DUPLO",
+        "elementy": 24,
+        "premiera": "2026-01",
+        "rrp_usd": 9.99
+      },
+      {
+        "numer": "11206",
+        "nazwa_en": "Spidey on his Motorcycle vs. Rhino",
+        "seria": "Marvel",
+        "elementy": 61,
+        "premiera": "2026-01",
+        "rrp_usd": 9.99
+      },
+      {
+        "numer": "11207",
+        "nazwa_en": "Spidey: Underwater Vehicles",
+        "seria": "Marvel",
+        "elementy": 154,
+        "premiera": "2026-01",
+        "rrp_usd": 34.99
+      }
+    ]
   }
 }
