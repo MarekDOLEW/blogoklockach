@@ -1,9 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-21",
-    "przebieg": "scheduled 2026-08-21 popoludniowy",
-    "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
+    "ostatnia_aktualizacja": "2026-08-22",
+    "przebieg": "scheduled 2026-08-22 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -11,8 +10,8 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 43,
-    "dostep": "fanklockow.pl i promoklocki.pl zwracaja 403 na WebFetch. OBEJSCIE (od 2026-08-21): curl -A '<UA przegladarki>' https://fanklockow.pl/feed/ - kanal RSS przechodzi i daje pelna liste publikacji z datami. Strona glowna fanklockow pokazuje tylko wycinek wpisow, wiec RSS jest jedynym rzetelnym zrodlem ich kadencji. 2026-08-21 (popoludnie): RSS dziala takze dla faniklockow.pl/feed/ i ujawnia format 'Okazja Cenowa', ktorego nie widac na stronie glownej - RSS to odtad podstawowe zrodlo dla OBU blogow. promoklocki.pl/feed/ i zklockow.pl/feed/ stoja za challenge Cloudflare ('Just a moment...'), wiec te dwa serwisy monitorujemy wylacznie przez wyszukiwarke."
+    "liczba_wpisow": 58,
+    "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
     {
@@ -538,14 +537,182 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Rozbudowa watku marek spoza LEGO (Pantasy) - drugi dzien z rzedu. Potwierdza kierunek fanklockow: z 'LEGO' na 'klocki konstrukcyjne'."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery COBI na 08.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-cobi-na-08-2026/",
+      "data_publikacji": "2026-08-21",
+      "data_wykrycia": "2026-08-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Marka spoza LEGO (COBI). Sama tresc poza nasza persona, ale FORMAT wart przejecia: evergreen 'Aktualizowane premiery <marka> na <miesiac>' - jeden URL odswiezany przez caly miesiac zamiast serii jednorazowych newsow. Kandydat na nasz odpowiednik dla LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Pantasy na 08.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-pantasy-na-08-2026/",
+      "data_publikacji": "2026-08-21",
+      "data_wykrycia": "2026-08-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej, marka Pantasy. Trzeci dzien z rzedu wpis o markach spoza LEGO - kierunek fanklockow na 'klocki konstrukcyjne' potwierdzony."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Budowalny XBOX od Mattel Brick Shop",
+      "url": "https://fanklockow.pl/budowalny-xbox-od-mattel-brick-shop/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mattel Brick Shop - konkurencyjny system klockow. Poza nasza persona i asortymentem sklepow, ktore rozliczamy afiliacyjnie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 roku. Co w tym roku zniknie z rynku? Pelna lista!",
+      "url": "https://faniklockow.pl/2026/08/19/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "data_publikacji": "2026-08-19",
+      "data_wykrycia": "2026-08-22",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego.com"
+      ],
+      "notatki": "UWAGA STRUKTURALNA: to ten sam material co ich wpis z 2026-08-11 (jest w bazie), ale opublikowany pod NOWYM URL-em z nowa data zamiast aktualizacji starego. Efekt: dwa konkurujace ze soba adresy na te sama fraze. Nasza przewaga: /wycofania z 271 pozycjami w wycofania.json, filtrowalna i odswiezana codziennie przez runner - jeden trwaly URL zamiast duplikatow."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Fortnite) - 77076 Restauracja Durrr Burgerownia",
+      "url": "https://faniklockow.pl/2026/08/21/okazja-cenowa-fortnite-77076-restauracja-durrr-burgerownia-4/",
+      "data_publikacji": "2026-08-21",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czwarty (sufiks -4) osobny wpis o tym samym zestawie. Wzorzec: nowy post na kazda przecene zamiast jednego huba cenowego."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Pokemon) - 72152 Pikachu i Pokeball",
+      "url": "https://faniklockow.pl/2026/08/20/okazja-cenowa-pokemon-72152-pikachu-i-pokeball/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pokemon - mamy artykul o premierze serii; zestaw 72152 wart sprawdzenia w naszym feedzie ofert."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Speed Champions) - 77259 Bolid Audi Revolut F1 Team R26",
+      "url": "https://faniklockow.pl/2026/08/20/okazja-cenowa-speed-champions-77259-bolid-audi-revolut-f1-team-r26-2/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Speed Champions, drugi wpis o tym samym secie (sufiks -2)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 10318 Concorde",
+      "url": "https://faniklockow.pl/2026/08/19/okazja-cenowa-icons-10318-concorde-6/",
+      "data_publikacji": "2026-08-19",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Szosty (-6) wpis o Concorde. Set z topki AFOL, u nas brak karty i artykulu - kandydat na hub /zestaw/10318/."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (LOTR) - 10316 Rivendell",
+      "url": "https://faniklockow.pl/2026/08/18/okazja-cenowa-lotr-10316-rivendell-6/",
+      "data_publikacji": "2026-08-18",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Szosty (-6) wpis o Rivendell. Zestaw EOL-owy, wysoka wartosc koszyka - kandydat na hub cenowy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Creator) - 31167 Nawiedzona rezydencja",
+      "url": "https://faniklockow.pl/2026/08/17/okazja-cenowa-creator-31167-nawiedzona-rezydencja-4/",
+      "data_publikacji": "2026-08-17",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Creator 3w1, sezon Halloween przed nami - temat wraca w X."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Creator) - 31168 Sredniowieczny zamek rycerzy konnych",
+      "url": "https://faniklockow.pl/2026/08/17/okazja-cenowa-creator-31168-sredniowieczny-zamek-rycerzy-konnych-4/",
+      "data_publikacji": "2026-08-17",
+      "data_wykrycia": "2026-08-22",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "BEZPOSREDNIE NAKLADANIE: mamy pelna recenzje 31168 z progiem zakupu 380 zl (src/pages/artykuly/lego-31168-sredniowieczny-zamek-recenzja.md). Ich wpis to sam komunikat cenowy bez oceny zestawu. Do zrobienia: dopiac artykul do huba /zestaw/31168/ i sprawdzic, czy nasza drabina cenowa nadaza za ta przecena."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Dla programistow - publiczne API cenowe promoklocki",
+      "url": "https://promoklocki.pl/dla-programistow-s9",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-22",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRUKTURALNA (nowe w bazie 2026-08-22): promoklocki wystawiaja publiczne API (dokumentacja OpenAPI 3.1 pod api.promoklocki.pl/docs) zwracajace najnizsza aktualna cene dla podanych setow, dane synchronizowane co 5 minut. Konsekwencja dla nas: ich dane cenowe staja sie infrastruktura dla innych serwisow, wiec przewaga 'my mamy porownanie cen' slabnie - nasz wyroznik musi isc w ocene redakcyjna i prog zakupu, nie w sam fakt porownania. Sama dokumentacja niedostepna z naszej sieci (403 Cloudflare), ustalone z wyszukiwarki."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Klocki LEGO okazje - osobna sekcja obok /promocje-lego",
+      "url": "https://promoklocki.pl/okazje-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-22",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRUKTURALNA: sekcja /okazje-lego istnieje rownolegle do /promocje-lego - rozdzielili 'promocje sklepowe' od 'okazji cenowych'. Nie raportujemy zawartosci (ceny), tylko sam podzial informacyjny."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Nowosci LEGO - miesieczne podstrony archiwum (np. czerwiec 2026)",
+      "url": "https://promoklocki.pl/nowosci-lego/czerwiec-2026",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-22",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRUKTURALNA: /nowosci-lego ma podstrony per miesiac (pSEO na fraze 'nowosci LEGO <miesiac> <rok>'). U nas /nowosci to jedna strona bez archiwum miesiecznego - to jest gotowa, tania luka do zamkniecia przed sezonem XI-XII."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Rodzina auto-aktualizowanych rankingow 'Najwieksze/Najdrozsze zestawy LEGO <seria>'",
+      "url": "https://zklockow.pl/lego/10-najdrozszych-zestawow-lego-odkrywaj",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-22",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA W OCENIE SERWISU: blog zklockow jest martwy (ostatni wpis 2021), ale strony 'Odkrywaj' NIE sa statyczne - kazda deklaruje aktualnosc ('aktualne na sierpien 2026') i licznik 'ostatnia zmiana X dni temu' (36-155 dni). To programatyczne rankingi odswiezane z katalogu, zajmujace frazy typu 'najwieksze zestawy LEGO <seria>'. Nasza przewaga: mamy /serie/<seria> na danych katalog.json - dolozenie rankingu w obrebie serii kosztuje malo, a bije ich brakiem oceny redakcyjnej po ich stronie."
     }
   ],
   "obserwacje_strategiczne": {
-    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny.",
+    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny. | KOREKTA 2026-08-22: teza 'brak biezacych publikacji, tylko katalog' wymaga uszczegolowienia - strony 'Odkrywaj' deklaruja aktualnosc na biezacy miesiac i licza dni od ostatniej zmiany rankingu (36-155 dni), wiec sa odswiezane programatycznie. Konkurencja rankingowa jest zywa, choc redakcyjna nadal martwa.",
     "fanklockow.pl": "KOREKTA 2026-08-21 (dane z RSS): serwis publikuje ok. 10 WPISOW DZIENNIE, nie ~1 - strona glowna pokazuje tylko wycinek, co przez tydzien zanizalo nasza ocene ich tempa (mylnie: '4 publikacje / 4 dni'). 20.08: 10 wpisow. Formaty: codzienne zestawienia ofert z afiliacja do 5 sklepow (Amazon, Allegro, Media Expert, Smyk, Empik), miniPoradniki LEGO.pl, hub wycofan EOL, gazetki BlueOcean, huby zapowiedzi per rok i seria, kalendarz promocji. ROZSZERZENIE POZA LEGO: COBI, Pantasy, Mattel Brick Shop. Monetyzacja: afiliacja + Patronite + Discord + wlasny sklep + reklamy AMP (auto-ads). Taktyka URL: jeden adres aktualizowany codziennie zamiast republikacji. Dostep tylko przez RSS/curl z UA przegladarki.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO). KOREKTA 2026-08-21 (RSS): serwis publikuje duzo wiecej, niz pokazuje strona glowna - mikro-wpisy 'Okazja Cenowa' per zestaw, po kilka dziennie, kazdy z jednym sklepem i rabatem od ceny katalogowej (siec Performers). Ma tez PELNA APLIKACJE app.faniklockow.pl: katalog wlasnej kolekcji, marketplace, inwestycje, statystyki, sledzenie wycofan, konta uzytkownikow. Co najmniej dwoch autorow (Piotr Ksiezycki, 'Brick Head').",
-    "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
+    "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje. | 2026-08-22: wykryte publiczne API cenowe (api.promoklocki.pl, OpenAPI 3.1, sync co 5 min), sekcja /okazje-lego rozdzielona od /promocje-lego oraz miesieczne podstrony /nowosci-lego/<miesiac>-<rok>. Kierunek: z porownywarki w dostawce danych cenowych dla innych.",
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
-    "KOREKTA_2026-08-20_brak_wyroznika": "SPROSTOWANIE tezy powtarzanej od 16.08 ('zaden serwis nie porownuje cen miedzy sklepami ani nie podaje ceny za klocek'). Teza byla FALSZYWA i wpisano ja bledna do architektury SEO oraz raportow. Stan faktyczny na 20.08: (1) porownanie cen miedzy sklepami maja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepow) - to ich podstawowa funkcja; (2) cene za element ma promoklocki (sortowanie 'cena/el.'); (3) historie cen maja promoklocki i klockoradar; (4) alerty cenowe maja zklockow, promoklocki (aplikacja) i klockoradar; (5) afiliacje wielosklepowa ma faniklockow (5 sklepow), a fanklockow prowadzi wlasny sklep i regularne zestawienia ofert. WNIOSEK: na 20.08.2026 tylkoklocki.pl NIE MA zadnej funkcji ani formatu, ktorego nie ma juz ktos inny - mamy 9 artykulow wobec 3-6 publikacji dziennie u blogow i mniej zrodel cenowych niz porownywarki. Kazda przyszla teza o przewadze musi byc zweryfikowana na zywym serwisie konkurencji PRZED wpisaniem jej do dokumentow."
+    "KOREKTA_2026-08-20_brak_wyroznika": "SPROSTOWANIE tezy powtarzanej od 16.08 ('zaden serwis nie porownuje cen miedzy sklepami ani nie podaje ceny za klocek'). Teza byla FALSZYWA i wpisano ja bledna do architektury SEO oraz raportow. Stan faktyczny na 20.08: (1) porownanie cen miedzy sklepami maja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepow) - to ich podstawowa funkcja; (2) cene za element ma promoklocki (sortowanie 'cena/el.'); (3) historie cen maja promoklocki i klockoradar; (4) alerty cenowe maja zklockow, promoklocki (aplikacja) i klockoradar; (5) afiliacje wielosklepowa ma faniklockow (5 sklepow), a fanklockow prowadzi wlasny sklep i regularne zestawienia ofert. WNIOSEK: na 20.08.2026 tylkoklocki.pl NIE MA zadnej funkcji ani formatu, ktorego nie ma juz ktos inny - mamy 9 artykulow wobec 3-6 publikacji dziennie u blogow i mniej zrodel cenowych niz porownywarki. Kazda przyszla teza o przewadze musi byc zweryfikowana na zywym serwisie konkurencji PRZED wpisaniem jej do dokumentow.",
+    "faniklockow_wzorzec_okazji": "2026-08-22: 'Okazja Cenowa' to nie pojedyncze wpisy, tylko farma long-taila - na kazda kolejna przecene tego samego zestawu powstaje NOWY post (sufiksy -2, -3, -4, -6 w URL: Concorde 10318 i Rivendell 10316 maja po szesc). Ten sam wzorzec zastosowali do listy wycofan (nowy URL z data 19.08 zamiast aktualizacji wpisu z 11.08). Skutek u nich: kanibalizacja wlasnych adresow i tresci bez wartosci trwalej. Nasz kontrargument strukturalny: jeden hub /zestaw/<nr>/ z samoaktualizujaca sie tabela cen - kazda kolejna przecena wzmacnia ten sam URL zamiast go rozcienczac. Warto to utrzymac jako swiadoma roznice, nie kopiowac ich kadencji."
   }
 }
