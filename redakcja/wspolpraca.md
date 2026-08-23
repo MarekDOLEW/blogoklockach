@@ -1,5 +1,7 @@
 # Podział ról i zasady współpracy
 
+*Dotyczy podziału między ludźmi. Podział między narzędziami (Claude Code ↔ Cowork) opisuje `NARZEDZIA.md` w korzeniu repo.*
+
 | Osoba | Obszar | Pliki |
 |---|---|---|
 | **Piotr** (redakcja) | research, karty researchu, artykuły, standardy redakcyjne | `redakcja/`, `src/pages/artykuly/` |
