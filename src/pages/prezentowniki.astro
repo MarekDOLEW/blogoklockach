@@ -4,7 +4,8 @@ import Base from '../layouts/Base.astro';
 // Lista wylicza się z frontmattera artykułów (kategoria: "Prezentownik"),
 // a nie z ręcznej tablicy — nowy prezentownik pojawia się tu sam, bez edycji
 // tego pliku. Pola karta_* pozwalają dać karcie krótszy tytuł i opis niż
-// w samym artykule; gdy ich nie ma, karta bierze title i opis z frontmattera.
+// w samym artykule; gdy ich nie ma, karta bierze title i opis z frontmattera,
+// a znacznik — samą nazwę kategorii, żeby plakietka nie została pusta.
 //
 // Kolejność: malejąco po dacie. Trzy prezentowniki na 1 września mają tę samą
 // datę publikacji, a ich układ (najpierw rodzinny, potem warianty budżetowe)
@@ -23,7 +24,7 @@ const przewodniki = Object.entries({
   )
   .map((m) => ({
     url: m.url + '/',
-    znacznik: m.frontmatter.karta_znacznik,
+    znacznik: m.frontmatter.karta_znacznik ?? m.frontmatter.kategoria,
     tytul: m.frontmatter.karta_tytul ?? m.frontmatter.title,
     opis: m.frontmatter.karta_opis ?? m.frontmatter.opis,
   }));

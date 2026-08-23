@@ -9,6 +9,9 @@ const posts = Object.entries({
   ...import.meta.glob('../*.md', { eager: true }),
 })
   .map(([, m]) => m)
+  // obecność kategorii = plik jest artykułem; chroni przed wciągnięciem
+  // dowolnego innego .md, który trafi do src/pages
+  .filter((m) => m.frontmatter?.kategoria)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data));
 ---
 <Base title="Artykuły — poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
