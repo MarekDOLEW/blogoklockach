@@ -2,3 +2,6 @@ node_modules/
 dist/
 .astro/
 .wrangler/
+
+# metadane Findera (macOS) — tworzą się same w każdym otwartym katalogu
+.DS_Store
