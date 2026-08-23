@@ -25,6 +25,37 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-23 20:30 · COWORK · Porządkowanie dokumentacji + backlog
+
+**Zrobione:**
+- `WSPOLPRACA.md` → `NARZEDZIA.md`. Zmiana nazwy, bo `redakcja/wspolpraca.md`
+  opisuje inną oś podziału (Piotr ↔ Marek, ludzie) i identyczne nazwy myliły.
+  Zawężona klauzula nadrzędności — nie unieważnia ustaleń z `redakcja/`.
+  Usunięta lista długu (rotuje szybciej niż reguły, więc idzie tutaj).
+- `COWORK-INSTRUKCJA.md` → `RUNBOOK.md`. Wycięta tabela harmonogramu
+  (dubluje `materialy/zadania-cykliczne.md`), zachowana i poprawiona wiedza
+  operacyjna: opóźnienie feedu ME, blokada 403, półki cenowe, rollback,
+  `raw.githubusercontent`. Dopisane dwa nowe ustalenia z 23.08.
+- Ustalona zasada: harmonogram jest **generowany**, nie pisany ręcznie.
+
+**Stan:** gotowe do wgrania.
+
+**Dla drugiej strony (CODE) — do zrobienia, priorytet malejąco:**
+
+1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`). Wyłączony
+   od 18.08, dwa poniedziałki bez raportu finansowego. Sprawdź też `Social`
+   (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — nie odpalił się nigdy.
+2. **Zmierz repo:** `git count-objects -vH` + rozmiar 10 największych blobów
+   w historii. Bez tej liczby nie ma sensu decydować o cięciu.
+3. **Deterministyczna serializacja JSON** we wszystkich runnerach: sortowanie
+   kluczy, stałe wcięcie, stabilne liczby. Najtańsza naprawa o największym
+   efekcie — patrz `RUNBOOK.md`.
+4. **Zrzut harmonogramu:** zadanie cykliczne nadpisujące
+   `materialy/zadania-cykliczne.md` realną konfiguracją triggerów. Musi
+   zawierać flagę `enabled` i datę ostatniego odpalenia.
+5. Usuń sekcję „Podział ról" z `CLAUDE.md`, zostaw dwa odnośniki:
+   `redakcja/wspolpraca.md` (ludzie) i `NARZEDZIA.md` (narzędzia).
+   Dopisz w obu plikach odnośnik do
 
 ## 2026-08-23 19:00 · COWORK · Uruchomienie Search Console + ustalenie zasad współpracy
 
