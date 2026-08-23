@@ -1,15 +1,18 @@
 {
-  "data_aktualizacji": "2026-08-22",
+  "data_aktualizacji": "2026-08-23",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 237,
+  "liczba_setow": 242,
   "sety": [
     "10300",
     "10316",
     "10318",
     "10462",
+    "10463",
     "10464",
     "10469",
+    "10470",
     "10472",
+    "10476",
     "10478",
     "10479",
     "10480",
@@ -21,14 +24,20 @@
     "11216",
     "11217",
     "11221",
+    "11370",
+    "11371",
     "11374",
+    "11376",
     "11377",
+    "11378",
     "11380",
     "11381",
     "11382",
     "11383",
+    "11384",
     "11385",
     "11386",
+    "11387",
     "11505",
     "11507",
     "11511",
@@ -39,6 +48,7 @@
     "21066",
     "21067",
     "21348",
+    "21367",
     "21368",
     "21369",
     "21370",
@@ -109,6 +119,7 @@
     "42705",
     "43017",
     "43018",
+    "43020",
     "43023",
     "43024",
     "43026",
@@ -142,6 +153,7 @@
     "60512",
     "71052",
     "71053",
+    "71859",
     "71862",
     "71863",
     "71864",
@@ -188,6 +200,7 @@
     "75646",
     "75647",
     "75685",
+    "76332",
     "76339",
     "76340",
     "76345",
@@ -198,6 +211,7 @@
     "76350",
     "76352",
     "76354",
+    "76355",
     "76356",
     "76462",
     "76469",
@@ -217,6 +231,7 @@
     "77082",
     "77119",
     "77120",
+    "77256",
     "77260",
     "77261",
     "77262",
@@ -229,17 +244,7 @@
     "77983",
     "77985",
     "80120",
-    "80121",
-    "76355",
-    "11387",
-    "10463",
-    "10470",
-    "10476",
-    "43020",
-    "71859",
-    "77256",
-    "11384",
-    "76332"
+    "80121"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -312,11 +317,48 @@
       "nazwa": "Monster Truck (promocyjny)",
       "premiera": "2026-05",
       "status": "NOWE 2026-08-22: polybag promocyjny, 49 elementów, brak RRP w Brickset. Poza katalogiem serwisu (nie do kupienia osobno) — śledzimy."
+    },
+    {
+      "numer": "21371",
+      "nazwa": "Wallace & Gromit (Ideas)",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: karta w Brickset — 1038 elementow, licencja Aardman, status „jeszcze nie wydany”, brak RRP i daty. Zapowiedz potwierdzona katalogowo, ale bez ceny."
+    },
+    {
+      "numer": "21373",
+      "nazwa": "Downton Abbey (Ideas)",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. Brak w katalog.json."
+    },
+    {
+      "numer": "21375",
+      "nazwa": "Godzilla (Ideas)",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. W katalog.json numer jest, ale bez danych."
+    },
+    {
+      "numer": "11379",
+      "nazwa": "nieujawniony zestaw Icons",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: nietypowy przypadek — Brickset ma juz dane twarde (1690 elementow, 129,99 USD / 129,99 EUR), ale nazwa wciaz jako {?}. Zwykle oznacza set tuz przed ujawnieniem."
+    },
+    {
+      "numer": "11390",
+      "nazwa": "nieujawniony zestaw Icons",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
+    },
+    {
+      "numer": "21364",
+      "nazwa": "nieujawniony zestaw Ideas",
+      "premiera": null,
+      "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
     }
   ],
   "luki_w_bazie": {
-    "opis": "Sety 2026 obecne w Brickset, ale nieopisane w sety.json. Rewizja 2026-08-22 (Scout): przegląd strony 1/37 listy brickset.com/sets/year-2026 wykazał 14 numerów spoza bazy — poprzedni wpis „backfill 2026-08-17 zamknął wszystkie luki\" był nieaktualny. Blokada: Brickset podaje RRP wyłącznie w GBP/USD/EUR (sprawdzone na karcie 10465-1), a zasada projektu zabrania przeliczania walut — cena_katalogowa w zł wymaga źródła PL (LEGO.com PL / promoklocki), spoza trzech źródeł Scouta. Do zamknięcia przez backfill cen albo osobną sesję. Lista niepełna: przejrzano 1 z 37 stron rocznika 2026.",
-    "zrodlo": "brickset.com/sets/year-2026 (strona 1), odczyt 2026-08-22",
+    "opis": "Sety 2026 obecne w Brickset i w katalog.json, ale bez wpisu redakcyjnego w sety.json. Rewizja 2026-08-23 (Scout): przejrzano strony 1-4 z 37 listy brickset.com/sets/year-2026 — na 100 sprawdzonych numerow 51 nie mialo wpisu w sety.json, czyli okolo polowy rocznika. Dominujacy wzorzec: sety.json pokrywa fale czerwiec-grudzien 2026, a jest ubogi w fale styczen-maj. UWAGA: to nie sa sety nieznane serwisowi — katalog.json, opisy.json i zdjecia.json maja je (z polska nazwa i cena katalogowa w zl), wiec huby /zestaw/ dzialaja. Brakuje warstwy redakcyjnej: opis, dla_rodzica, dla_afol. Ceny w zl bierzemy z katalog.json (zrodlo PL), bo Brickset podaje RRP tylko w GBP/USD/EUR — sprawdzone na kartach 10465-1 i 11371-1.",
+    "zrodlo": "brickset.com/sets/year-2026 strony 1-4, odczyt 2026-08-22 i 2026-08-23; dane PL z src/data/katalog.json",
+    "postep": "strony 1-4 z 37 przejrzane; zamkniete 5 luk (11370, 11371, 11376, 11378, 21367)",
     "numery": [
       "10465",
       "10466",
@@ -328,98 +370,63 @@
       "10475",
       "10477",
       "11206",
-      "11207"
+      "11207",
+      "11208",
+      "11215",
+      "11372",
+      "11373",
+      "11375",
+      "11379",
+      "11389",
+      "11390",
+      "11501",
+      "11502",
+      "11503",
+      "11504",
+      "11506",
+      "11508",
+      "11509",
+      "11510",
+      "12010",
+      "12011",
+      "12015",
+      "21064",
+      "21364",
+      "21365",
+      "21366",
+      "21371",
+      "21373",
+      "21375",
+      "21376",
+      "21583",
+      "21584",
+      "21585",
+      "21586",
+      "21587",
+      "21588",
+      "21589",
+      "21590"
     ],
-    "szczegoly": [
-      {
-        "numer": "10465",
-        "nazwa_en": "Mickey Mouse Clubhouse with Minnie & Pluto",
-        "seria": "DUPLO",
-        "elementy": 87,
-        "wiek": "2+",
-        "premiera": "2026-03",
-        "rrp_usd": 49.99
-      },
-      {
-        "numer": "10466",
-        "nazwa_en": "Train Ride with Grandpa Pig",
-        "seria": "DUPLO",
-        "elementy": 35,
-        "premiera": "2026-03",
-        "rrp_usd": 39.99
-      },
-      {
-        "numer": "10467",
-        "nazwa_en": "Family House",
-        "seria": "DUPLO",
-        "elementy": 84,
-        "premiera": "2026-03",
-        "rrp_usd": 59.99
-      },
-      {
-        "numer": "10468",
-        "nazwa_en": "Tractor and Market",
-        "seria": "DUPLO",
-        "elementy": 18,
-        "premiera": "2026-03",
-        "rrp_usd": 19.99
-      },
-      {
-        "numer": "10471",
-        "nazwa_en": "Blue Police Motorcycle",
-        "seria": "DUPLO",
-        "elementy": 11,
-        "premiera": "2026-01",
-        "rrp_usd": 9.99
-      },
-      {
-        "numer": "10473",
-        "nazwa_en": "Fire Truck with Hose and Firefighter",
-        "seria": "DUPLO",
-        "elementy": 28,
-        "premiera": "2026-01",
-        "rrp_usd": 29.99
-      },
-      {
-        "numer": "10474",
-        "nazwa_en": "Creative Vehicles",
-        "seria": "DUPLO",
-        "elementy": 42,
-        "premiera": "2026-01",
-        "rrp_usd": 19.99
-      },
-      {
-        "numer": "10475",
-        "nazwa_en": "3 in 1 Construction Vehicles",
-        "seria": "DUPLO",
-        "elementy": 22,
-        "premiera": "2026-01",
-        "rrp_usd": 24.99
-      },
-      {
-        "numer": "10477",
-        "nazwa_en": "3 in 1 My First Creative Cute Pets",
-        "seria": "DUPLO",
-        "elementy": 24,
-        "premiera": "2026-01",
-        "rrp_usd": 9.99
-      },
-      {
-        "numer": "11206",
-        "nazwa_en": "Spidey on his Motorcycle vs. Rhino",
-        "seria": "Marvel",
-        "elementy": 61,
-        "premiera": "2026-01",
-        "rrp_usd": 9.99
-      },
-      {
-        "numer": "11207",
-        "nazwa_en": "Spidey: Underwater Vehicles",
-        "seria": "Marvel",
-        "elementy": 154,
-        "premiera": "2026-01",
-        "rrp_usd": 34.99
-      }
+    "priorytet_redakcyjny": [
+      "11372",
+      "11373",
+      "11375",
+      "11389",
+      "21365",
+      "21366",
+      "21376",
+      "11502",
+      "11504",
+      "11509"
+    ],
+    "bez_danych_w_katalog_json": [
+      "11215",
+      "11379",
+      "11390",
+      "12015",
+      "21064",
+      "21364",
+      "21373"
     ]
   }
 }
