@@ -28,8 +28,8 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-21",
-      "uzupelnione_lacznie": 1452,
+      "data": "2026-08-23",
+      "uzupelnione_lacznie": 1572,
       "ostatnie_serie": [
         "Star Wars"
       ]
@@ -4738,840 +4738,960 @@
       "nazwa": "Imperial Dropship",
       "rok": 2008,
       "elementy": 81,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7668",
       "nazwa": "Rebel Scout Speeder",
       "rok": 2008,
       "elementy": 82,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7669",
       "nazwa": "Anakin's Jedi Starfighter",
       "rok": 2008,
       "elementy": 153,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7670",
       "nazwa": "Hailfire Droid & Spider Droid",
       "rok": 2008,
       "elementy": 249,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7671",
       "nazwa": "AT-AP Walker",
       "rok": 2008,
       "elementy": 392,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7672",
       "nazwa": "Rogue Shadow",
       "rok": 2008,
       "elementy": 482,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7673",
       "nazwa": "Magna Guard Starfighter",
       "rok": 2008,
       "elementy": 431,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7674",
       "nazwa": "V-19 Torrent",
       "rok": 2008,
       "elementy": 471,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7675",
       "nazwa": "AT-TE Walker",
       "rok": 2008,
       "elementy": 798,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7676",
       "nazwa": "Republic Attack Gunship",
       "rok": 2008,
       "elementy": 1034,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7678",
       "nazwa": "Droid Gunship",
       "rok": 2008,
       "elementy": 329,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7679",
       "nazwa": "Republic Fighter Tank",
       "rok": 2008,
       "elementy": 592,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7680",
       "nazwa": "The Twilight",
       "rok": 2008,
       "elementy": 882,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7681",
       "nazwa": "Separatist Spider Droid",
       "rok": 2008,
       "elementy": 206,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8028",
       "nazwa": "TIE Fighter",
       "rok": 2008,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8029",
       "nazwa": "Mini Snowspeeder",
       "rok": 2008,
       "elementy": 66,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8031",
       "nazwa": "V-19 Torrent",
       "rok": 2008,
       "elementy": 66,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10195",
       "nazwa": "Republic Dropship with AT-OT",
       "rok": 2009,
       "elementy": 1758,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10198",
       "nazwa": "Tantive IV",
       "rok": 2009,
       "elementy": 1408,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20007",
       "nazwa": "Republic Attack Cruiser",
       "rok": 2009,
       "elementy": 84,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20009",
       "nazwa": "AT-TE Walker",
       "rok": 2009,
       "elementy": 94,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20010",
       "nazwa": "Republic Gunship",
       "rok": 2009,
       "elementy": 94,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30004",
       "nazwa": "Battle Droid on STAP",
       "rok": 2009,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30005",
       "nazwa": "Imperial Speeder Bike",
       "rok": 2009,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30006",
       "nazwa": "Clone Walker",
       "rok": 2009,
       "elementy": 31,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4547551",
       "nazwa": "Darth Vader",
       "rok": 2009,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66308",
       "nazwa": "3 in 1 Superpack",
       "rok": 2009,
       "elementy": 414,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7748",
       "nazwa": "Corporate Alliance Tank Droid",
       "rok": 2009,
       "elementy": 216,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.95
     },
     {
       "numer": "7749",
       "nazwa": "Echo Base",
       "rok": 2009,
       "elementy": 155,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 134.95
     },
     {
       "numer": "7751",
       "nazwa": "Ahsoka's Starfighter and Vulture Droid",
       "rok": 2009,
       "elementy": 291,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7752",
       "nazwa": "Count Dooku's Solar Sailer",
       "rok": 2009,
       "elementy": 385,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7753",
       "nazwa": "Pirate Tank",
       "rok": 2009,
       "elementy": 372,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7754",
       "nazwa": "Home One Mon Calamari Star Cruiser",
       "rok": 2009,
       "elementy": 789,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7778",
       "nazwa": "Midi-scale Millennium Falcon",
       "rok": 2009,
       "elementy": 356,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8014",
       "nazwa": "Clone Walker Battle Pack",
       "rok": 2009,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8015",
       "nazwa": "Assassin Droids Battle Pack",
       "rok": 2009,
       "elementy": 94,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8016",
       "nazwa": "Hyena Droid Bomber",
       "rok": 2009,
       "elementy": 232,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8017",
       "nazwa": "Darth Vader's TIE Fighter",
       "rok": 2009,
       "elementy": 251,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.95
     },
     {
       "numer": "8018",
       "nazwa": "Armored Assault Tank (AAT)",
       "rok": 2009,
       "elementy": 407,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8019",
       "nazwa": "Republic Attack Shuttle",
       "rok": 2009,
       "elementy": 636,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8033",
       "nazwa": "General Grievous' Starfighter",
       "rok": 2009,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8036",
       "nazwa": "Separatist Shuttle",
       "rok": 2009,
       "elementy": 259,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.95
     },
     {
       "numer": "8037",
       "nazwa": "Anakin's Y-wing Starfighter",
       "rok": 2009,
       "elementy": 570,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.95
     },
     {
       "numer": "8038",
       "nazwa": "The Battle of Endor",
       "rok": 2009,
       "elementy": 890,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.95
     },
     {
       "numer": "8039",
       "nazwa": "Venator-class Republic Attack Cruiser",
       "rok": 2009,
       "elementy": 1170,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 679.95
     },
     {
       "numer": "10212",
       "nazwa": "Imperial Shuttle",
       "rok": 2010,
       "elementy": 2503,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10215",
       "nazwa": "Obi-Wan's Jedi Starfighter",
       "rok": 2010,
       "elementy": 676,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20016",
       "nazwa": "Imperial Shuttle",
       "rok": 2010,
       "elementy": 70,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20018",
       "nazwa": "AT-AT Walker",
       "rok": 2010,
       "elementy": 83,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2853590",
       "nazwa": "Stormtrooper",
       "rok": 2010,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2853835",
       "nazwa": "Boba Fett",
       "rok": 2010,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30050",
       "nazwa": "Republic Attack Shuttle",
       "rok": 2010,
       "elementy": 54,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30051",
       "nazwa": "Mini X-wing",
       "rok": 2010,
       "elementy": 61,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66341",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2010,
       "elementy": 342,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66364",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2010,
       "elementy": 308,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66366",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2010,
       "elementy": 531,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66368",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2010,
       "elementy": 316,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8083",
       "nazwa": "Rebel Trooper Battle Pack",
       "rok": 2010,
       "elementy": 79,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "8084",
       "nazwa": "Snowtrooper Battle Pack",
       "rok": 2010,
       "elementy": 74,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "8085",
       "nazwa": "Freeco Speeder",
       "rok": 2010,
       "elementy": 177,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "8086",
       "nazwa": "Droid Tri-Fighter",
       "rok": 2010,
       "elementy": 268,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "8087",
       "nazwa": "TIE Defender",
       "rok": 2010,
       "elementy": 304,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "8088",
       "nazwa": "ARC-170 Starfighter",
       "rok": 2010,
       "elementy": 396,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "8089",
       "nazwa": "Hoth Wampa Cave",
       "rok": 2010,
       "elementy": 297,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "8091",
       "nazwa": "Republic Swamp Speeder",
       "rok": 2010,
       "elementy": 176,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8092",
       "nazwa": "Luke's Landspeeder",
       "rok": 2010,
       "elementy": 163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8093",
       "nazwa": "Plo Koon's Jedi Starfighter",
       "rok": 2010,
       "elementy": 175,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "8095",
       "nazwa": "General Grievous' Starfighter",
       "rok": 2010,
       "elementy": 454,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "8096",
       "nazwa": "Emperor Palpatine's Shuttle",
       "rok": 2010,
       "elementy": 592,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "8097",
       "nazwa": "Slave I",
       "rok": 2010,
       "elementy": 573,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "8098",
       "nazwa": "Clone Turbo Tank",
       "rok": 2010,
       "elementy": 1141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8099",
       "nazwa": "Midi-scale Imperial Star Destroyer",
       "rok": 2010,
       "elementy": 423,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8128",
       "nazwa": "Cad Bane's Speeder",
       "rok": 2010,
       "elementy": 318,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8129",
       "nazwa": "AT-AT Walker",
       "rok": 2010,
       "elementy": 815,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10221",
       "nazwa": "Super Star Destroyer",
       "rok": 2011,
       "elementy": 3152,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20019",
       "nazwa": "Slave I",
       "rok": 2011,
       "elementy": 76,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "20021",
       "nazwa": "Bounty Hunter Assault Gunship",
       "rok": 2011,
       "elementy": 81,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2856197",
       "nazwa": "Shadow ARF Trooper",
       "rok": 2011,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30052",
       "nazwa": "AAT",
       "rok": 2011,
       "elementy": 46,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30053",
       "nazwa": "Republic Attack Cruiser",
       "rok": 2011,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30054",
       "nazwa": "AT-ST",
       "rok": 2011,
       "elementy": 46,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30055",
       "nazwa": "Vulture Droid",
       "rok": 2011,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66377",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2011,
       "elementy": 484,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66378",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2011,
       "elementy": 330,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66395",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2011,
       "elementy": 367,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66396",
       "nazwa": "Star Wars Super Pack 3 in 1",
       "rok": 2011,
       "elementy": 644,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7868",
       "nazwa": "Mace Windu's Jedi Starfighter",
       "rok": 2011,
       "elementy": 309,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7869",
       "nazwa": "Battle for Geonosis",
       "rok": 2011,
       "elementy": 331,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7877",
       "nazwa": "Naboo Starfighter",
       "rok": 2011,
       "elementy": 318,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "7879",
       "nazwa": "Hoth Echo Base",
       "rok": 2011,
       "elementy": 773,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7913",
       "nazwa": "Clone Trooper Battle Pack",
       "rok": 2011,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "7914",
       "nazwa": "Mandalorian Battle Pack",
       "rok": 2011,
       "elementy": 68,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "7915",
       "nazwa": "Imperial V-wing Starfighter",
       "rok": 2011,
       "elementy": 139,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "7929",
       "nazwa": "The Battle of Naboo",
       "rok": 2011,
       "elementy": 241,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "7930",
       "nazwa": "Bounty Hunter Assault Gunship",
       "rok": 2011,
       "elementy": 389,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "7931",
       "nazwa": "T-6 Jedi Shuttle",
       "rok": 2011,
       "elementy": 389,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "7956",
       "nazwa": "Ewok Attack",
       "rok": 2011,
       "elementy": 166,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "7957",
       "nazwa": "Sith Nightspeeder",
       "rok": 2011,
       "elementy": 214,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "7958",
       "nazwa": "LEGO Star Wars Advent Calendar",
       "rok": 2011,
       "elementy": 266,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7959",
       "nazwa": "Geonosian Starfighter",
       "rok": 2011,
       "elementy": 155,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "7961",
       "nazwa": "Darth Maul's Sith Infiltrator",
       "rok": 2011,
       "elementy": 479,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "7962",
       "nazwa": "Anakin Skywalker and Sebulba's Podracers",
       "rok": 2011,
       "elementy": 810,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "7964",
       "nazwa": "Republic Frigate",
       "rok": 2011,
       "elementy": 1015,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 579.99
     },
     {
       "numer": "7965",
       "nazwa": "Millennium Falcon",
       "rok": 2011,
       "elementy": 1254,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "10225",
       "nazwa": "R2-D2",
       "rok": 2012,
       "elementy": 2127,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 819.99
     },
     {
       "numer": "10227",
       "nazwa": "B-wing Starfighter",
       "rok": 2012,
       "elementy": 1487,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30056",
       "nazwa": "Star Destroyer",
       "rok": 2012,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30057",
       "nazwa": "Anakin's Podracer",
       "rok": 2012,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30058",
       "nazwa": "STAP",
       "rok": 2012,
       "elementy": 24,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30059",
       "nazwa": "MTT",
       "rok": 2012,
       "elementy": 51,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5000062",
       "nazwa": "Darth Maul",
       "rok": 2012,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5000063",
       "nazwa": "TC-14",
       "rok": 2012,
       "elementy": 3,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66411",
       "nazwa": "Super Pack 3-in-1",
       "rok": 2012,
       "elementy": 633,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66431",
       "nazwa": "Super Pack 3-in-1",
       "rok": 2012,
       "elementy": 298,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66432",
       "nazwa": "Super Pack 3-in-1",
       "rok": 2012,
       "elementy": 763,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "9488",
       "nazwa": "Elite Clone Trooper & Commando Droid Battle Pack",
       "rok": 2012,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "9489",
       "nazwa": "Endor Rebel Trooper & Imperial Trooper Battle Pack",
       "rok": 2012,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "9490",
       "nazwa": "Droid Escape",
       "rok": 2012,
       "elementy": 137,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "9491",
       "nazwa": "Geonosian Cannon",
       "rok": 2012,
       "elementy": 132,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "9492",
       "nazwa": "TIE Fighter",
       "rok": 2012,
       "elementy": 413,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "9493",
