@@ -25,6 +25,64 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-23 22:00 · COWORK+CODE · Taksonomia artykułów i naprawa listingów
+
+**Zrobione:**
+- Ustalona zamknięta lista kategorii artykułów i właściciel każdej z nich —
+  zapisane w `NARZEDZIA.md`. Podział: Piotr pisze o zestawach (`Recenzja`),
+  Marek o cenach i okazjach (`Deal`, `Premiera`, `Prezentownik`, `Kalendarz`).
+  `Zapowiedzi` to kategoria graniczna — wymaga uzgodnienia przed pisaniem.
+- Zasada nadrzędna: o właścicielu i o tym, gdzie artykuł się pojawia,
+  decyduje pole `kategoria` we frontmatterze, **nie katalog**.
+- `prezentowniki.astro` (b50cbb4): ręczna tablica czterech pozycji zastąpiona
+  globem po `kategoria === "Prezentownik"`. Treść kart przeniesiona do
+  frontmattera jako `karta_znacznik`, `karta_tytul`, `karta_opis` z fallbackami.
+  Nowy prezentownik pojawia się teraz sam.
+- Rozszerzone globy w `/artykuly/` i w zajawkach na stronie głównej —
+  widzą komplet 12 artykułów zamiast 9.
+- Zabezpieczenia (b2695d2): filtr `m.frontmatter?.kategoria` w obu listingach,
+  fallback znacznika. Dziś nic nie odrzucają — zadziałają, gdy do `src/pages/`
+  trafi plik `.md`, który artykułem nie jest.
+
+**Stan:** gotowe, na produkcji. `/prezentowniki/` bajt w bajt jak przed zmianą.
+
+**Odstępstwo od specyfikacji:** dodano `karta_kolejnosc` (1–3) w trzech
+prezentownikach na 1 września. Powód: mają identyczną `data: 2026-08-18`,
+więc sortowanie po dacie nie odtwarzało ręcznie ułożonej kolejności
+(rodzinny → chłopiec → dziewczynka). Pole działa **wyłącznie przy remisie dat**,
+więc nowy prezentownik ze świeższą datą trafia na górę bez niego.
+Odrzucono wariant różnicowania dat — `data` idzie do JSON-LD jako
+`datePublished` i przesuwanie jej fałszowałoby dane strukturalne.
+
+**Decyzje, których NIE podjęto:**
+- Nie przenosimy prezentowników do jednego katalogu. Po analizie okazało się,
+  że kosztuje to 9 linków w 5 plikach, przekierowania 301 w workerze
+  (w Workers `public/_redirects` nie działa jak w Pages) i uszczuplenie
+  `/artykuly/` — przy zerowym zysku, bo o przynależności i tak decyduje
+  kategoria, nie katalog.
+- Nie dodajemy filtra kategorii na `/artykuly/`. Przy 12 artykułach nie ma
+  czego filtrować. Wrócić przy 20–25 tekstach, i wtedy **wyłącznie po stronie
+  przeglądarki** — osobne adresy `/artykuly/kategoria/...` dołożyłyby sześć
+  cienkich podstron do serwisu, który już ma problem z niedoindeksowaniem.
+
+**Dla drugiej strony (CODE):**
+1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`) —
+   wyłączony od 18.08, dwa poniedziałki bez raportu. Sprawdź `Social`
+   (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — nie odpalił się nigdy.
+2. Deterministyczna serializacja JSON w runnerach — sprawa czytelności
+   diffów, nie rozmiaru repo. Patrz `RUNBOOK.md`.
+3. Zrzut harmonogramu do `materialy/zadania-cykliczne.md` z flagą `enabled`
+   i datą ostatniego odpalenia. Ma objąć też zadania spoza LEGO.
+4. Odnośniki w `CLAUDE.md` (usunąć sekcję „Podział ról") i w
+   `redakcja/wspolpraca.md`. `_meta` w `known_sets.json` i `redirects.json`
+   do poprawienia. `README.md` do uzupełnienia.
+
+**Uwagi:**
+Jutro 9:00 zaplanowane zadanie Cowork odczyta raport indeksowania w GSC.
+To wraca do problemu właściwego: 4 748 adresów w sitemapie, jedna
+zindeksowana strona, ~4 691 szablonowych podstron `/zestaw/[nr]/`
+generowanych przez `src/lib/huby.js`. Nie planować działań przed odczytem.
+
 ## 2026-08-23 20:30 · COWORK · Porządkowanie dokumentacji + backlog
 
 **Zrobione:**
