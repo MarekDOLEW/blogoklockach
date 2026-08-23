@@ -55,7 +55,35 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
    zawierać flagę `enabled` i datę ostatniego odpalenia.
 5. Usuń sekcję „Podział ról" z `CLAUDE.md`, zostaw dwa odnośniki:
    `redakcja/wspolpraca.md` (ludzie) i `NARZEDZIA.md` (narzędzia).
-   Dopisz w obu plikach odnośnik do
+   Dopisz w obu plikach odnośnik do drugiego.
+6. Ujednolić format commitów runnerów: `<Runner>: <opis>`, bez polskich znaków.
+7. Drobne porządki:
+   - `.wrangler/` do `.gitignore`
+   - skasować `src/data/wycofania.astro` i `sprawdz3.mjs` (martwe)
+   - poprawić `_meta` w `known_sets.json` i `redirects.json` — opisują
+     nieprawdziwe źródło danych
+   - udokumentować opisowo konfigurację deployu (brak `.github/workflows`,
+     całość żyje w panelu Cloudflare — nie da się odtworzyć środowiska z repo)
+   - uzupełnić `README.md`
+
+**Dla Marka (poza repo):**
+- Odinstaluj z Cowork skille `klocki-scout-nowosci`, `klocki-lowca-promocji`,
+  `klocki-radar-konkurencji`, `klocki-kontroler` — uśpione duplikaty runnerów,
+  zapisują do martwej ścieżki. Zostaw `klocki-redaktor`, `klocki-social`,
+  `klocki-seo`, `klocki-afiliacje`.
+- Zarchiwizuj `~/Desktop/TYLKOKLOCKI/blogoklockach-astro/`,
+  `tylkoklocki-rebranding_1/` i `~/Documents/Claude/Projects/blogoklockach/`.
+
+**Uwagi:**
+Repo zmierzone: po `git gc` katalog `.git` waży 7,3 MB (przed: 26 MB).
+Wcześniejszy alarm o puchnięciu historii był chybiony — delty kompresują się
+dobrze mimo 17,4 MB surowych wersji `redirects.json`. Temat rozbijania pliku
+i wynoszenia danych do R2 odłożony, przegląd najwcześniej za pół roku.
+Deterministyczna serializacja JSON zostaje w planie, ale jako sprawa
+czytelności diffów, nie rozmiaru repo.
+
+Zrzut harmonogramu ma obejmować także zadania spoza LEGO (Herzfaden, XTB,
+angielski) — dziś nie opisuje ich żaden dokument.
 
 ## 2026-08-23 19:00 · COWORK · Uruchomienie Search Console + ustalenie zasad współpracy
 
