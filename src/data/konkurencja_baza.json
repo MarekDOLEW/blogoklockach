@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-22",
-    "przebieg": "scheduled 2026-08-22 08:00",
+    "ostatnia_aktualizacja": "2026-08-23",
+    "przebieg": "scheduled 2026-08-23 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 58,
+    "liczba_wpisow": 64,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -704,6 +704,83 @@
       "ocena": "PRZEBIJAMY",
       "sklepy_linkowane": [],
       "notatki": "ZMIANA W OCENIE SERWISU: blog zklockow jest martwy (ostatni wpis 2021), ale strony 'Odkrywaj' NIE sa statyczne - kazda deklaruje aktualnosc ('aktualne na sierpien 2026') i licznik 'ostatnia zmiana X dni temu' (36-155 dni). To programatyczne rankingi odswiezane z katalogu, zajmujace frazy typu 'najwieksze zestawy LEGO <seria>'. Nasza przewaga: mamy /serie/<seria> na danych katalog.json - dolozenie rankingu w obrebie serii kosztuje malo, a bije ich brakiem oceny redakcyjnej po ich stronie."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowe zasady odbioru nagrod Insiders na LEGO.com!",
+      "url": "https://fanklockow.pl/nowe-zasady-odbioru-nagrod-insders-na-lego-com/",
+      "data_publikacji": "2026-08-22",
+      "data_wykrycia": "2026-08-23",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego.com"
+      ],
+      "notatki": "TEMAT DNIA - oba blogi zlapaly go tego samego ranka. LEGO zmienilo 21.08.2026 odbior nagrod fizycznych Insiders: znikaja kody, nagrode wrzuca sie wprost do koszyka, do 3 nagrod na jedno zamowienie (w ramach limitu na nagrode), punkty schodza z konta dopiero po zlozeniu zamowienia. Znaczenie dla nas: to zmienia mechanike zakupow na LEGO.pl dokladnie przed Black Friday, gdy pojawia sie kilka nagrod na raz. U nas brak jakiejkolwiek tresci o Insiders. Uwaga afiliacyjna: lego.com mamy w rejestrze jako 'do zgloszenia' (Rakuten, mid=50641) - dzis linkujemy bez prowizji przez worker /idz/lego/."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Insiders - nowe zasady odbioru nagrod fizycznych",
+      "url": "https://faniklockow.pl/2026/08/22/lego-insiders-nowe-zasady-odbioru-nagrod-fizycznych/",
+      "data_publikacji": "2026-08-22",
+      "data_wykrycia": "2026-08-23",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego.com"
+      ],
+      "notatki": "Ten sam temat co wpis fanklockow z 07:13 (oni o 11:05). Pierwszy raz od poczatku monitoringu widzimy oba blogi na tym samym temacie tego samego dnia - sygnal, ze temat jest gorący, a nie niszowy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Harry Potter",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-harry-potter/",
+      "data_publikacji": "2026-08-22",
+      "data_wykrycia": "2026-08-23",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "KONKRETNA DZIURA W NASZYM ISTNIEJACYM TEKSCIE: /zapowiedzi-lego-2027 pokrywa Diune, Srodziemie, Wieze zegarowa i Star Wars, ale NIE MA Harry'ego Pottera - a to jedna z najmocniejszych linii prezentowych na XI-XII. Do zrobienia nie nowy artykul, tylko sekcja w istniejacym, z blokiem 'skompletuj kolekcje' linkujacym do /zestaw/<nr>/ wycofywanych setow HP."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2026: ICONS",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-icons/",
+      "data_publikacji": "2026-08-22",
+      "data_wykrycia": "2026-08-23",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Zapowiedzi na KONCOWKE biezacego roku, nie na 2027. U nas nie ma zadnej strony pod fraze 'zapowiedzi LEGO 2026' - mamy tylko 2027 i /nowosci bez horyzontu. Icons to wysoki koszyk AFOL, wiec luka jest kosztowna wlasnie teraz."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2026: IDEAS",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-ideas/",
+      "data_publikacji": "2026-08-22",
+      "data_wykrycia": "2026-08-23",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej, seria Ideas. Razem z ICONS pokazuje, ze fanklockow buduja rownolegle dwie osie zapowiedzi: 2026 (do kupienia teraz) i 2027 (do planowania). My mamy tylko te druga."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Rozszerzona lista porownywanych sklepow (m.in. SklepKlocki.pl, Znane Klocki, Krakowskie Klocki, ExpressBuy, Proshop, Oficjalny sklep LEGO)",
+      "url": "https://promoklocki.pl/sklep-sklepklocki-pl",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-23",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "sklepklocki.pl",
+        "znaneklocki.pl",
+        "krakowskieklocki.pl",
+        "expressbuy",
+        "proshop",
+        "lego.com"
+      ],
+      "notatki": "ZMIANA STRUKTURALNA (wykryta 2026-08-23; UWAGA - baza miala wczesniej tylko trzy podstrony sklepow, wiec nie da sie orzec, ktore z tych sa nowe, a ktore po prostu wczesniej nieodnotowane). Sygnal afiliacyjny: sklepy niszowe SklepKlocki.pl, Znane Klocki, Krakowskie Klocki i ExpressBuy NIE wystepuja w naszym afiliacje_rejestr.json - to leady do sprawdzenia, czy maja programy partnerskie. Proshop juz mamy (Awin, status 'wyslane'), lego.com mamy jako 'do zgloszenia'."
     }
   ],
   "obserwacje_strategiczne": {
@@ -713,6 +790,7 @@
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje. | 2026-08-22: wykryte publiczne API cenowe (api.promoklocki.pl, OpenAPI 3.1, sync co 5 min), sekcja /okazje-lego rozdzielona od /promocje-lego oraz miesieczne podstrony /nowosci-lego/<miesiac>-<rok>. Kierunek: z porownywarki w dostawce danych cenowych dla innych.",
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
     "KOREKTA_2026-08-20_brak_wyroznika": "SPROSTOWANIE tezy powtarzanej od 16.08 ('zaden serwis nie porownuje cen miedzy sklepami ani nie podaje ceny za klocek'). Teza byla FALSZYWA i wpisano ja bledna do architektury SEO oraz raportow. Stan faktyczny na 20.08: (1) porownanie cen miedzy sklepami maja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepow) - to ich podstawowa funkcja; (2) cene za element ma promoklocki (sortowanie 'cena/el.'); (3) historie cen maja promoklocki i klockoradar; (4) alerty cenowe maja zklockow, promoklocki (aplikacja) i klockoradar; (5) afiliacje wielosklepowa ma faniklockow (5 sklepow), a fanklockow prowadzi wlasny sklep i regularne zestawienia ofert. WNIOSEK: na 20.08.2026 tylkoklocki.pl NIE MA zadnej funkcji ani formatu, ktorego nie ma juz ktos inny - mamy 9 artykulow wobec 3-6 publikacji dziennie u blogow i mniej zrodel cenowych niz porownywarki. Kazda przyszla teza o przewadze musi byc zweryfikowana na zywym serwisie konkurencji PRZED wpisaniem jej do dokumentow.",
-    "faniklockow_wzorzec_okazji": "2026-08-22: 'Okazja Cenowa' to nie pojedyncze wpisy, tylko farma long-taila - na kazda kolejna przecene tego samego zestawu powstaje NOWY post (sufiksy -2, -3, -4, -6 w URL: Concorde 10318 i Rivendell 10316 maja po szesc). Ten sam wzorzec zastosowali do listy wycofan (nowy URL z data 19.08 zamiast aktualizacji wpisu z 11.08). Skutek u nich: kanibalizacja wlasnych adresow i tresci bez wartosci trwalej. Nasz kontrargument strukturalny: jeden hub /zestaw/<nr>/ z samoaktualizujaca sie tabela cen - kazda kolejna przecena wzmacnia ten sam URL zamiast go rozcienczac. Warto to utrzymac jako swiadoma roznice, nie kopiowac ich kadencji."
+    "faniklockow_wzorzec_okazji": "2026-08-22: 'Okazja Cenowa' to nie pojedyncze wpisy, tylko farma long-taila - na kazda kolejna przecene tego samego zestawu powstaje NOWY post (sufiksy -2, -3, -4, -6 w URL: Concorde 10318 i Rivendell 10316 maja po szesc). Ten sam wzorzec zastosowali do listy wycofan (nowy URL z data 19.08 zamiast aktualizacji wpisu z 11.08). Skutek u nich: kanibalizacja wlasnych adresow i tresci bez wartosci trwalej. Nasz kontrargument strukturalny: jeden hub /zestaw/<nr>/ z samoaktualizujaca sie tabela cen - kazda kolejna przecena wzmacnia ten sam URL zamiast go rozcienczac. Warto to utrzymac jako swiadoma roznice, nie kopiowac ich kadencji.",
+    "zbieznosc_tematow": "2026-08-23: pierwszy zaobserwowany przypadek, w ktorym fanklockow i faniklockow publikuja o TYM SAMYM tego samego dnia (zmiana zasad nagrod Insiders, 22.08 o 07:13 i 11:05). Do tej pory ich agendy sie rozmijaly: fanklockow schodzi w marki spoza LEGO i zapowiedzi, faniklockow w okazje cenowe. Zbieznosc traktujemy jako marker tematu goracego - warto ja logowac przy kolejnych przebiegach, bo jest tansza w wykryciu niz jakikolwiek pomiar ruchu."
   }
 }
