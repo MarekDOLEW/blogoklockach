@@ -63,8 +63,7 @@ jest ich zrzutem, nie konfiguracją — patrz sekcja „Harmonogram".
 | `scripts/` | Claude Code | tylko czyta |
 | `astro.config.mjs`, `wrangler.jsonc`, `package.json` | Claude Code | **nie dotyka** |
 | `public/` | Claude Code | tylko czyta |
-| `src/pages/artykuly/*.md` | **Cowork** | pisze |
-| `src/pages/prezentowniki/*.md` | **Cowork** | pisze |
+| artykuły `.md` | wg kategorii — patrz niżej | pisze wybrane |
 | `materialy/` | **Cowork** | pisze |
 | `redakcja/` | wspólnik + Cowork | pisze |
 | `DZIENNIK.md` | oba, append-only | dopisuje |
@@ -123,6 +122,51 @@ przepisania na tryb wyłącznie czytający.**
 
 Skille `klocki-redaktor`, `klocki-social`, `klocki-seo` i `klocki-afiliacje`
 zostają — to treść i research, czyli właściwa robota Coworka.
+
+## Artykuły: właściciel wynika z kategorii
+
+O tym, kto pisze artykuł, decyduje pole **`kategoria`** we frontmatterze —
+**nie katalog, w którym plik leży**. Katalog bywa przypadkowy (prezentowniki
+leżą dziś w dwóch miejscach), kategoria jest deklaracją intencji.
+
+| Kategoria | Co to jest | Kto pisze |
+|---|---|---|
+| `Recenzja` | omówienie zestawu, wrażenia z budowania, ocena | **Piotr** |
+| `Premiera` | debiut lub nowa seria, dane ze Scouta | Marek / Cowork |
+| `Prezentownik` | zestawienia „LEGO dla…", okazjonalne | Marek / Cowork |
+| `Deal` | pojedyncza okazja cenowa, dane z Łowcy | Marek / Cowork |
+| `Kalendarz` | kalendarz promocji, cykle sezonowe | Marek / Cowork |
+| `Zapowiedzi` | zestawy jeszcze niewydane | **graniczna** — patrz niżej |
+
+Linia podziału: **Piotr pisze o zestawach, Marek o cenach i okazjach.**
+Wszystko, co powstaje z danych Łowcy i Scouta, może być generowane
+półautomatycznie i należy do Coworka. To, co wymaga obcowania z zestawem,
+należy do Piotra.
+
+### Lista kategorii jest zamknięta
+
+Sześć wartości powyżej to komplet. `kategoria` nie jest dziś przez nic
+walidowana — to zwykły string, wypisywany dosłownie na plakietce artykułu,
+na `/artykuly/` i w zajawkach na stronie głównej. Nic nie stoi na
+przeszkodzie, żeby powstały obok siebie `Deal`, `deal` i `Okazja`.
+
+Dlatego: **nowa kategoria to decyzja, nie odruch.** Zanim jej użyjesz,
+dopisz ją do tej tabeli i odnotuj w `DZIENNIK.md` wraz z właścicielem.
+
+Pisownia dokładnie jak w tabeli — wielka litera, bez skrótów, bez liczby
+mnogiej.
+
+### Artykuły graniczne
+
+Gdy artykuł łączy warstwy (np. prezentownik z rozbudowaną częścią
+recenzencką), obowiązuje zasada z `redakcja/wspolpraca.md`: **redakcja
+Piotra, warstwa cenowo-linkowa Marka.**
+
+`Zapowiedzi` jest kategorią graniczną **z definicji** — to research
+o niewydanych zestawach (Piotr) połączony z doradztwem zakupowym i linkami
+(Marek). Każdy tekst z tej kategorii wymaga uzgodnienia, kto prowadzi;
+ustalenie zapisujemy w `DZIENNIK.md` przed rozpoczęciem pisania, żeby nie
+powstały dwie wersje tego samego.
 
 ### Co Cowork robi dobrze
 
