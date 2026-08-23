@@ -38,6 +38,37 @@ Przy weryfikacji dodaj `?t=<cokolwiek>` — cache CDN bywa nieświeży.
 
 ---
 
+## Mapa plików danych
+
+Który plik co zasila na stronie. Kolumna „co zasila" jest tu jedynym takim
+zestawieniem w całym repo — przed zmianą formatu któregokolwiek z tych plików
+sprawdź, co się posypie.
+
+Kolumna „kto zapisuje" odzwierciedla realną konfigurację triggerów
+(stan 23.08.2026) — przy rozbieżności rozstrzyga
+`materialy/zadania-cykliczne.md`.
+
+| Plik w `src/data/` | Kto zapisuje | Co zasila na stronie |
+|---|---|---|
+| `sety.json` | Scout 05:00 (nowe sety) + Łowca 07:00 (ceny, oferty, zdjęcia) | `/nowosci/`, podstrony `/zestaw/{nr}/`, sekcja „Śledzone" na stronach serii |
+| `wycofania.json` | Wycofania 06:00 | `/wycofania/` — lista, filtr, FAQ |
+| `katalog.json` | Backfill 12:00 (pole `cena_katalogowa`) + sesje ad hoc (dokładanie serii) | katalogi historyczne na `/serie/{seria}/` + kafelki na `/serie/` |
+| `redirects.json` | Łowca 07:00 (linki z feedu) + sesje ad hoc | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków sklepowych |
+| `sklepy.json` | Łowca 07:00 (nowe sklepy) | nazwy sklepów w tabelach cen |
+| `oferty_feed.json` | Łowca 07:00 | ceny i oferty w tabelach na podstronach zestawów |
+| `ceny_baza.json` | Łowca 07:00 | historia cen, drabina cenowa |
+| `known_sets.json` | Scout 05:00 | nic — stan runnera, nie zasila strony |
+| `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera, nie zasila strony |
+| `obrazy.json` | `scripts/generuj-obrazy.mjs` w prebuild | zdjęcia zestawów |
+| `afiliacje_rejestr.json` | ręcznie | nic — dokumentacja |
+| `raporty_mail.json` | ręcznie | odbiorcy raportów PDF |
+
+Trzy ostatnie pozycje w kolumnie „co zasila" to celowe „nic" — te pliki są
+dokumentacją albo stanem runnerów. Warto o tym wiedzieć, zanim ktoś uzna je
+za martwe i skasuje.
+
+---
+
 ## Media Expert *(ustalone 18.08.2026)*
 
 **Feed aktualizuje się 2× na dobę, ale z opóźnieniem uploadu.** Stemple

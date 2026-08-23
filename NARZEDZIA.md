@@ -47,6 +47,8 @@ Wszystko inne to kopie robocze. W szczególności **nie są źródłem prawdy**:
 - `~/Documents/Claude/Projects/blogoklockach/` — stara baza skilli Cowork.
   Repo nie odwołuje się do niej nigdzie (sprawdzone grepem: zero trafień).
 
+Wszystkie trzy **do archiwum** — przenieść do `_archiwum/`, nie kasować od razu.
+
 Uwaga osobno: **harmonogram runnerów też nie mieszka w repo.** Triggery są
 w koncie Claude Code Remote (Routines). Plik `materialy/zadania-cykliczne.md`
 jest ich zrzutem, nie konfiguracją — patrz sekcja „Harmonogram".
@@ -89,6 +91,8 @@ Obowiązuje obie strony, bez wyjątków.
 3. **W trakcie:** commituj tylko własne pliki. **Nigdy `git add -A`** —
    wciągnie cudze zmiany i artefakty.
 4. **Na koniec:** dopisz wpis do `DZIENNIK.md`, zacommituj, wypchnij na `main`.
+   Z sesji Claude Code: `git push origin <twoja-gałąź>:main` — lokalny `main`
+   bywa rozjechany, dlatego pushujemy jawnie gałąź na `main`.
 5. **Nie zostawiaj pracy niewypchniętej.**
 
 ### Format commitów
@@ -114,10 +118,18 @@ trwałe sesje Claude Code Remote i pushują do repo.
 `klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`
 zainstalowane w Cowork to uśpione duplikaty — zapisują do
 `~/Documents/Claude/Projects/blogoklockach/`, czyli w próżnię. Ich wynik nigdy
-nie dotrze na produkcję i nie zgłosi błędu. Do odinstalowania z Cowork.
+nie dotrze na produkcję i nie zgłosi błędu. **Do odinstalowania z Cowork albo
+przepisania na tryb wyłącznie czytający.**
 
 Skille `klocki-redaktor`, `klocki-social`, `klocki-seo` i `klocki-afiliacje`
 zostają — to treść i research, czyli właściwa robota Coworka.
+
+### Co Cowork robi dobrze
+
+Research, teksty artykułów, social, raporty, analityka przez przeglądarkę
+(Search Console, GA4, panele sieci afiliacyjnych), praca na dokumentach `.docx`
+wspólnika. Oddaje gotowe pliki `.md` do `src/pages/artykuly/`, zgodne ze
+standardem z `redakcja/standard-artykulow-biezacych.md`.
 
 ## Harmonogram: generowany, nie pisany
 
