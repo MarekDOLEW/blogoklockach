@@ -4,6 +4,10 @@ title: "LEGO na start roku szkolnego dla chłopca — 10 zestawów do 500 zł"
 opis: "Pierwszy dzwonek 1 września nie musi boleć. 10 sprawdzonych zestawów LEGO dla chłopców 4–12 lat w realnych promocjach — od 26 zł do 265 zł, rabaty liczone od cen katalogowych."
 data: "2026-08-18"
 kategoria: "Prezentownik"
+karta_kolejnosc: 2
+karta_znacznik: "do 500 zł"
+karta_tytul: "Dla chłopca do 500 zł"
+karta_opis: "10 zestawów 4–12 lat w realnych promocjach: pociąg City za 239 zł (−65%), Technic Ferrari, Minecraft i Mario."
 ---
 
 Pierwszy września zbliża się wielkimi krokami — i choć dzieci wolałyby, żeby wakacje trwały wiecznie, mała „osłoda" na start roku szkolnego potrafi zdziałać cuda. Zebraliśmy **10 zestawów LEGO dla chłopców w wieku 4–12 lat**, wszystkie **poniżej 500 zł** i wszystkie w realnych promocjach — rabaty liczymy wyłącznie od oficjalnych cen katalogowych LEGO, nie od cen „przekreślonych".

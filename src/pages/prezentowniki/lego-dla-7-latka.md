@@ -5,6 +5,9 @@ opis: "Nie lista dwudziestu zestawów, tylko decyzja: co kupić 7-latkowi, ile z
 data: "2026-08-20"
 zaktualizowano: "2026-08-20"
 kategoria: "Prezentownik"
+karta_znacznik: "7 lat"
+karta_tytul: "Jakie LEGO dla 7-latka?"
+karta_opis: "Jedna konkretna rekomendacja plus wersja tańsza i droższa. Czas budowy, czy trzeba pomagać, co po zbudowaniu — i czego nie kupować."
 faq:
   - q: "Czy 7-latek poradzi sobie z zestawem oznaczonym 8+?"
     a: "Zwykle tak. Oznaczenie wieku na pudełku LEGO to wskazówka producenta z dużym marginesem bezpieczeństwa, a nie granica umiejętności. Siedmiolatek, który składał już zestawy po 300–400 elementów, poradzi sobie z większością pudełek 8+ — czasem z pomocą przy jednym czy dwóch trudniejszych etapach. Odwrotna sytuacja jest gorsza: zestaw wyraźnie poniżej możliwości dziecka bywa rozczarowaniem, bo kończy się w kwadrans."

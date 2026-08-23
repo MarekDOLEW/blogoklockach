@@ -99,7 +99,11 @@ const topWycofania = wycofaniaDane.wycofania
 const liczbaWycofan = wycofaniaDane.wycofania.length;
 
 // ── Zajawki artykułów: 3 najnowsze ──
-const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: true }))
+const artykuly = Object.entries({
+  ...import.meta.glob('./artykuly/*.md', { eager: true }),
+  ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
+  ...import.meta.glob('./*.md', { eager: true }),
+})
   .map(([, m]) => m)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
   .slice(0, 3);

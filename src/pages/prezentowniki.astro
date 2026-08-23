@@ -1,32 +1,32 @@
 ---
 import Base from '../layouts/Base.astro';
 
-const przewodniki = [
-  {
-    url: '/prezentowniki/lego-dla-7-latka/',
-    tytul: 'Jakie LEGO dla 7-latka?',
-    opis: 'Jedna konkretna rekomendacja plus wersja tańsza i droższa. Czas budowy, czy trzeba pomagać, co po zbudowaniu — i czego nie kupować.',
-    znacznik: '7 lat',
-  },
-  {
-    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego/',
-    tytul: 'LEGO na rozpoczęcie roku szkolnego 2026',
-    opis: 'Wielki prezentownik na 1 września bez limitu cenowego — premiery Pokémon, pociągi, wieża Hogwartu i zestawy dla całej rodziny (4–12 lat).',
-    znacznik: '🎒 sezon',
-  },
-  {
-    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/',
-    tytul: 'Dla chłopca do 500 zł',
-    opis: '10 zestawów 4–12 lat w realnych promocjach: pociąg City za 239 zł (−65%), Technic Ferrari, Minecraft i Mario.',
-    znacznik: 'do 500 zł',
-  },
-  {
-    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/',
-    tytul: 'Dla dziewczynki do 500 zł',
-    opis: '10 zestawów 4–12 lat: Grand Hotel Heartlake za 458 zł (−30%), łódź ratunkowa, konie i Koci Domek Gabi.',
-    znacznik: 'do 500 zł',
-  },
-];
+// Lista wylicza się z frontmattera artykułów (kategoria: "Prezentownik"),
+// a nie z ręcznej tablicy — nowy prezentownik pojawia się tu sam, bez edycji
+// tego pliku. Pola karta_* pozwalają dać karcie krótszy tytuł i opis niż
+// w samym artykule; gdy ich nie ma, karta bierze title i opis z frontmattera.
+//
+// Kolejność: malejąco po dacie. Trzy prezentowniki na 1 września mają tę samą
+// datę publikacji, a ich układ (najpierw rodzinny, potem warianty budżetowe)
+// jest decyzją redakcyjną — rozstrzyga ją karta_kolejnosc, wyłącznie przy
+// remisie dat. Nowy prezentownik ze świeższą datą trafia na górę bez tego pola.
+const kolejnosc = (m) => m.frontmatter.karta_kolejnosc ?? 99;
+const przewodniki = Object.entries({
+  ...import.meta.glob('./artykuly/*.md', { eager: true }),
+  ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
+})
+  .map(([, m]) => m)
+  .filter((m) => m.frontmatter.kategoria === 'Prezentownik')
+  .sort(
+    (a, b) =>
+      new Date(b.frontmatter.data) - new Date(a.frontmatter.data) || kolejnosc(a) - kolejnosc(b),
+  )
+  .map((m) => ({
+    url: m.url + '/',
+    znacznik: m.frontmatter.karta_znacznik,
+    tytul: m.frontmatter.karta_tytul ?? m.frontmatter.title,
+    opis: m.frontmatter.karta_opis ?? m.frontmatter.opis,
+  }));
 ---
 <Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
   <article style="margin-top:28px">

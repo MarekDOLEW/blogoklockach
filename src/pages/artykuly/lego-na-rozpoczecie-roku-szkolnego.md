@@ -4,6 +4,10 @@ title: "LEGO na rozpoczęcie roku szkolnego 2026 — 10 zestawów dla 4–12 lat
 opis: "Wielki prezentownik na 1 września bez limitu cenowego: od kreatywnego pudełka za 146 zł po wieżę Hogwartu. Premiery Pokémon SMART Play, pociągi i zestawy dla całej rodziny."
 data: "2026-08-18"
 kategoria: "Prezentownik"
+karta_kolejnosc: 1
+karta_znacznik: "🎒 sezon"
+karta_tytul: "LEGO na rozpoczęcie roku szkolnego 2026"
+karta_opis: "Wielki prezentownik na 1 września bez limitu cenowego — premiery Pokémon, pociągi, wieża Hogwartu i zestawy dla całej rodziny (4–12 lat)."
 ---
 
 Rok szkolny 2026/2027 startuje 1 września — a wraz z nim tradycja „czegoś na osłodę". W tym prezentowniku zebraliśmy **10 zestawów LEGO dla dzieci 4–12 lat bez górnego limitu cenowego**: od uniwersalnego pudełka kreatywnego po tegoroczne premiery Pokémon SMART Play i wieżę Hogwartu, przy której budowa trwa dłużej niż niejedne wakacje. Jak zawsze — tylko realne promocje, liczone od oficjalnych cen katalogowych LEGO.

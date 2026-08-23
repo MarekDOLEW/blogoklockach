@@ -4,6 +4,10 @@ title: "LEGO na start roku szkolnego dla dziewczynki — 10 zestawów do 500 zł
 opis: "Mała nagroda na pierwszy dzwonek: 10 zestawów LEGO dla dziewczynek 4–12 lat, wszystkie do 500 zł i w realnych promocjach — od 24 zł po Grand Hotel Heartlake za 458 zł."
 data: "2026-08-18"
 kategoria: "Prezentownik"
+karta_kolejnosc: 3
+karta_znacznik: "do 500 zł"
+karta_tytul: "Dla dziewczynki do 500 zł"
+karta_opis: "10 zestawów 4–12 lat: Grand Hotel Heartlake za 458 zł (−30%), łódź ratunkowa, konie i Koci Domek Gabi."
 ---
 
 Nowy plecak i piórnik to obowiązek — ale to nie one osłodzą koniec wakacji. Wybraliśmy **10 zestawów LEGO dla dziewczynek w wieku 4–12 lat**, wszystkie **do 500 zł** i w prawdziwych promocjach: rabaty liczymy od oficjalnych cen katalogowych LEGO, nigdy od cen „przekreślonych" w sklepach. Od 24-złotowego stoiska z lodami po Grand Hotel, który robi wrażenie nawet na dorosłych.

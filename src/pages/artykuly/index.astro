@@ -1,6 +1,13 @@
 ---
 import Base from '../../layouts/Base.astro';
-const posts = Object.entries(import.meta.glob('./*.md', { eager: true }))
+// Wszystkie artykuły serwisu, niezależnie od katalogu: recenzje i deale
+// leżą w ./, prezentowniki w ../prezentowniki/, a kalendarz i zapowiedzi
+// bezpośrednio w src/pages/. Każdy plik .md w src/pages jest artykułem.
+const posts = Object.entries({
+  ...import.meta.glob('./*.md', { eager: true }),
+  ...import.meta.glob('../prezentowniki/*.md', { eager: true }),
+  ...import.meta.glob('../*.md', { eager: true }),
+})
   .map(([, m]) => m)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data));
 ---
