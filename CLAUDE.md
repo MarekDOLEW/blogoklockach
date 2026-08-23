@@ -5,16 +5,11 @@ przekierowania afiliacyjne `/idz/<sklep>/<nr>`) + R2. Deploy automatyczny
 z gałęzi `main`. Dane serwisu w `src/data/*.json`, aktualizowane przez
 zadania cykliczne (runnery) i sesje robocze.
 
-## Podział ról
-
-Dwóch współtwórców pracuje niezależnie (szczegóły: `redakcja/wspolpraca.md`):
-
-- **Piotr — redakcja**: `redakcja/`, `src/pages/artykuly/` (research, karty,
-  artykuły). Instrukcje: `redakcja/instrukcje-dla-claude-piotra.md`.
-- **Marek — sprzedaż**: `src/data/`, `src/worker.js`, `scripts/`, reszta
-  `src/pages/` (afiliacje, feedy, dane, infrastruktura).
-
-Zmiany w cudzym obszarze wymagają uzgodnienia.
+## Podzial pracy
+   - `redakcja/wspolpraca.md` — miedzy Piotrem a Markiem (ludzie)
+   - `NARZEDZIA.md` — miedzy Claude Code a Cowork (narzedzia)
+   - `RUNBOOK.md` — wiedza operacyjna, pulapki, procedury awaryjne
+   - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami
 
 ## Artykuły — zasada nadrzędna
 
