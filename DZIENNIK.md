@@ -45,8 +45,8 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`). Wyłączony
    od 18.08, dwa poniedziałki bez raportu finansowego. Sprawdź też `Social`
    (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — nie odpalił się nigdy.
-2. **Zmierz repo:** `git count-objects -vH` + rozmiar 10 największych blobów
-   w historii. Bez tej liczby nie ma sensu decydować o cięciu.
+2. ~~Zmierz repo~~ — ZROBIONE 23.08. Wynik w Uwagach niżej: .git = 7,3 MB
+   po gc. Temat cięcia repo zamknięty do odwołania.
 3. **Deterministyczna serializacja JSON** we wszystkich runnerach: sortowanie
    kluczy, stałe wcięcie, stabilne liczby. Najtańsza naprawa o największym
    efekcie — patrz `RUNBOOK.md`.
