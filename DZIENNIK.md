@@ -67,8 +67,9 @@ Odrzucono wariant różnicowania dat — `data` idzie do JSON-LD jako
 
 **Dla drugiej strony (CODE):**
 1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`) —
-   wyłączony od 18.08, dwa poniedziałki bez raportu. Sprawdź `Social`
-   (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — nie odpalił się nigdy.
+   wyłączony od 18.08, dwa poniedziałki bez raportu.
+   `Social` (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — **wstrzymany celowo przez
+   Marka, nie włączać.**
 2. Deterministyczna serializacja JSON w runnerach — sprawa czytelności
    diffów, nie rozmiaru repo. Patrz `RUNBOOK.md`.
 3. Zrzut harmonogramu do `materialy/zadania-cykliczne.md` z flagą `enabled`
