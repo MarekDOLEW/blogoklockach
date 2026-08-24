@@ -89,12 +89,31 @@ export function cenaKatalogowaSetu(nr, { sety = {} } = {}) {
   );
 }
 
+/**
+ * Sklepy, dla których worker potrafi zbudować link z samego numeru zestawu,
+ * bez wpisu w redirects.json (patrz trasa /idz/ w src/worker.js):
+ *   lego     — bezpośredni adres produktu na lego.com,
+ *   xkom     — wyszukiwarka x-kom z uniwersalnym kodem SalesMasters,
+ *   allegro  — link kampanii afiliacyjnej,
+ *   smyk     — deeplink Adtraction na kategorię LEGO,
+ *   empik    — deeplink Tradedoubler na wyszukiwarkę numeru,
+ *   ceneo    — deeplink Tradedoubler na wyszukiwarkę numeru.
+ * Lista musi zostać zgodna z workerem — inaczej strona pominie sklep, do
+ * którego i tak umiałaby wysłać czytelnika (albo zalinkuje w próżnię).
+ */
+const SKLEPY_Z_LINKIEM_Z_WORKERA = new Set(['lego', 'xkom', 'allegro', 'smyk', 'empik', 'ceneo']);
+
 /** Ścieżka przekierowania afiliacyjnego albo null, gdy nie mamy linku do sklepu. */
 export function linkAfiliacyjny(sklep, nr) {
   if (!sklep) return null;
-  // LEGO.com obsługuje worker dynamicznie (bezpośredni link z numeru zestawu)
-  if (sklep === 'lego') return `/idz/lego/${nr}`;
-  return redirectsMapa?.[sklep]?.[String(nr)] ? `/idz/${sklep}/${nr}` : null;
+  const klucz = String(nr);
+  // wpis z feedu (bezpośredni link produktowy) ma pierwszeństwo
+  if (redirectsMapa?.[sklep]?.[klucz]) return `/idz/${sklep}/${klucz}`;
+  // reszta: worker zbuduje link sam, o ile zna ten sklep i numer jest setem
+  if (SKLEPY_Z_LINKIEM_Z_WORKERA.has(sklep) && /^\d{4,7}$/.test(klucz)) {
+    return `/idz/${sklep}/${klucz}`;
+  }
+  return null;
 }
 
 /**

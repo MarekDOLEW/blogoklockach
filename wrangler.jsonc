@@ -11,5 +11,12 @@
   // Trwałe kopie zdjęć zestawów — kubełek utworzony ręcznie w panelu R2
   "r2_buckets": [
     { "binding": "OBRAZY", "bucket_name": "tylkoklocki-obrazy" }
+  ],
+  // Kliknięcia afiliacyjne z trasy /idz/. Worker wołał env.KLIKI.writeDataPoint()
+  // od początku, ale bez tego wiązania `env.KLIKI` było undefined, a opcjonalne
+  // wywołanie (`?.`) po cichu nic nie robiło — stąd zero danych o klikach.
+  // Odczyt: scripts/kliki-raport.mjs (SQL API Cloudflare).
+  "analytics_engine_datasets": [
+    { "binding": "KLIKI", "dataset": "idz_kliki" }
   ]
 }
