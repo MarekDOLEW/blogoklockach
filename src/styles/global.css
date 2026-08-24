@@ -627,14 +627,16 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .prose .prezent__media { margin: 0; }
 /* height:auto jest konieczne — bez niego atrybut height obrazka wygrywa
    z aspect-ratio i zdjęcie rozpycha kolumnę na całe 640 px wysokości */
+/* bez tła pod zdjęciem — zdjęcia zestawów są na białym, więc szara podkładka
+   tylko rysowała wokół nich ramkę */
 .prose .prezent__foto {
   width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; display: block;
-  background: var(--papier); border-radius: 10px;
+  border-radius: 10px;
 }
 .prose .prezent__miniatury { display: flex; gap: 8px; margin-top: 8px; }
 .prose .prezent__miniatury img {
   width: 33%; height: auto; aspect-ratio: 1 / 1; object-fit: contain;
-  background: var(--papier); border-radius: 6px; display: block;
+  border-radius: 6px; display: block;
 }
 .prose .prezent__tresc { margin-top: 18px; }
 .prose .prezent__tresc > :first-child { margin-top: 0; }
