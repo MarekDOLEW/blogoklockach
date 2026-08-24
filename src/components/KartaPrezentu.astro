@@ -2,6 +2,9 @@
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 import galerie from '../data/galerie.json';
+import sety from '../data/sety.json';
+import ofertyFeed from '../data/oferty_feed.json';
+import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena } from '../lib/oferty.js';
 
 // Karta jednego zestawu w prezentowniku serii.
 //
@@ -28,6 +31,20 @@ const rel = (s) => (s === 'lego' || !redirects?.[s]?.[nr] ? 'nofollow' : 'sponso
 const doPokazania = sklepyPublikacyjne.filter(maLink);
 // dodatkowe zdjęcia z galerie.json, jeśli redakcja je dla tego setu zebrała
 const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);
+
+// „Kup teraz": sklepy, które DZIŚ schodzą do progu dobrej ceny z drabiny powyżej.
+// Nie jest to ręczny snapshot — blok liczy się przy każdym budowaniu strony,
+// a build leci z każdą aktualizacją cen, więc odświeża się razem z tabelą huba.
+// O doborze decyduje wyłącznie cena: sortujemy od najtańszego i bierzemy do trzech
+// sklepów, niezależnie od tego, czy i ile płacą za polecenie. Ceneo pomijamy —
+// to porównywarka, a nie sklep, do którego można wysłać czytelnika po zestaw.
+const wProgu = dobra
+  ? polaczOferty(sety[nr]?.oferty ?? [], ofertyFeed?.sety?.[nr] ?? null, nr)
+      .filter((o) => o.sklep !== 'ceneo' && o.cena <= dobra && linkAfiliacyjny(o.sklep, nr))
+      .sort((a, b) => a.cena - b.cena)
+      .slice(0, 3)
+  : [];
+const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
 ---
 <div class="prezent" id={`zestaw-${nr}`}>
   {/* Góra karty: zdjęcie po lewej, obok nazwa zestawu, dane z pudełka
@@ -88,6 +105,30 @@ const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);
         </dl>
         {prog && <p class="prezent__prog"><span>Próg zakupu</span> {prog}</p>}
       </div>
+    )}
+
+    {dobra && (
+      wProgu.length > 0 ? (
+        <div class="prezent__kup">
+          <p class="prezent__kup-tytul">Kup teraz w</p>
+          <ul class="prezent__kup-lista">
+            {wProgu.map((o) => (
+              <li>
+                <a href={linkAfiliacyjny(o.sklep, nr)} rel={rel(o.sklep)}>{nazwaSklepu(o.sklep)}</a>
+                <b>{fmtCena(o.cena)}</b>
+                <span class={bardzoTanio(o.cena) ? 'prezent__kup-poziom prezent__kup-poziom--top' : 'prezent__kup-poziom'}>
+                  {bardzoTanio(o.cena) ? 'bardzo dobra cena' : 'dobra cena'}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ) : (
+        <p class="prezent__kup-brak">
+          Dziś żaden ze śledzonych sklepów nie schodzi do dobrej ceny — poczekaj albo sprawdź
+          {' '}<a href={`/zestaw/${nr}/`}>aktualne oferty</a>.
+        </p>
+      )
     )}
 
     <p class="prezent__cta">

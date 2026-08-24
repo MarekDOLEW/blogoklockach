@@ -690,6 +690,39 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
   text-transform: uppercase; color: var(--granat-60); margin-bottom: 1px;
 }
 
+/* „Kup teraz" — zieleń jak przy progu zakupu: to jedyne miejsce w karcie,
+   które mówi o cenie z dziś, więc musi się odcinać od trwałej drabiny */
+.prose .prezent__kup {
+  margin: 16px 0 12px; padding: 12px 14px;
+  background: #e7f3ec; border: 1px solid rgba(15,122,67,0.25); border-radius: 10px;
+}
+.prose .prezent__kup-tytul {
+  margin: 0 0 8px; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--zielen);
+}
+.prose .prezent__kup-lista { list-style: none; margin: 0; padding: 0; }
+.prose .prezent__kup-lista li {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px;
+  padding: 6px 0; border-top: 1px solid rgba(15,122,67,0.18);
+}
+.prose .prezent__kup-lista li:first-child { border-top: 0; padding-top: 0; }
+.prose .prezent__kup-lista a { font-weight: 700; }
+.prose .prezent__kup-lista b { margin-left: auto; white-space: nowrap; }
+.prose .prezent__kup-poziom {
+  flex: 0 0 auto; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.02em;
+  padding: 2px 9px; border-radius: 999px; white-space: nowrap;
+  background: #fff; color: var(--zielen); border: 1px solid rgba(15,122,67,0.3);
+}
+.prose .prezent__kup-poziom--top { background: var(--zielen); color: #fff; border-color: var(--zielen); }
+.prose .prezent__kup-brak {
+  margin: 16px 0 12px; font-size: 0.88rem; color: var(--granat-60);
+  padding: 10px 14px; background: var(--papier); border: 1px dashed var(--linia); border-radius: 10px;
+}
+@media (max-width: 480px) {
+  /* na wąskim ekranie cena i plakietka schodzą pod nazwę sklepu zamiast się ściskać */
+  .prose .prezent__kup-lista b { margin-left: 0; }
+}
+
 .prose .prezent__cta { margin: 0; font-size: 0.94rem; }
 .prose .prezent__cta a { font-weight: 700; }
 
@@ -736,3 +769,33 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
   /* na dotyku przewija się palcem — strzałki tylko zasłaniałyby zdjęcia */
   .gs-strzalka { display: none; }
 }
+
+/* ---------- Reakcja linków na kursor ----------
+   Kafle, przyciski i pozycje menu mają własne stany hover; brakowało ich
+   linkom tekstowym — a czytelnik rozpoznaje klikalny element po tym, że coś
+   się pod kursorem zmienia. Regułę bierze każdy link bez własnej klasy
+   (treść artykułów, akapity stron listingowych, linki w tabelach). */
+main a:not([class]) {
+  text-decoration-color: var(--zolty);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  border-radius: 3px;
+  transition: background-color 0.12s ease, text-decoration-color 0.12s ease;
+}
+main a:not([class]):hover {
+  background: #fff8e1;
+  text-decoration-color: var(--granat);
+}
+/* linki, których treścią jest zdjęcie — tło i podkreślenie nie mają tu sensu,
+   reagują całą ramką (niżej) */
+main a:not([class]):has(img) { background: none; text-decoration: none; }
+
+/* zdjęcia w slajderze: ramka slajdu odpowiada na kursor */
+.gs-slajd { transition: border-color 0.12s ease, box-shadow 0.12s ease; }
+.gs-slajd:hover { border-color: var(--granat); box-shadow: 0 6px 20px rgba(23,35,63,0.16); }
+
+/* linki tekstowe z własną klasą, którym brakowało stanu hover */
+.deal-wiecej { border-radius: 3px; transition: background-color 0.12s ease, text-decoration-color 0.12s ease; text-decoration-color: var(--zolty); text-decoration-thickness: 2px; text-underline-offset: 2px; }
+.deal-wiecej:hover { background: #fff8e1; text-decoration-color: var(--granat); }
+.site-footer a { transition: color 0.12s ease; text-underline-offset: 2px; }
+.site-footer a:hover { color: #fff; text-decoration-thickness: 2px; }
