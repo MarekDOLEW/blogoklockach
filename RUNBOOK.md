@@ -213,3 +213,47 @@ faktycznie dodanych zestawach. Poprawnie: Python z
 końcowego `\n` — wtedy diff to same dodania. **Node reorganizuje klucze
 wyglądające na liczby, więc do plików z numerami zestawów jako kluczami
 nie nadaje się do zapisu.**
+
+---
+
+## Brickset API v3 *(klucz wyrobiony 23.08.2026, zweryfikowany 24.08.2026)*
+
+Uzupełnia sekcję wyżej: crawl HTML zostaje jako awaryjny, API jest drogą
+podstawową dla metadanych katalogowych.
+
+**Endpoint:** `https://brickset.com/api/v3.asmx/{metoda}`, odpowiedzi w JSON.
+Parametry przez query string; `params` to zagnieżdżony JSON, np.
+`params={"theme":"Icons","year":"2026","pageSize":500}`.
+
+**Klucz:** w zmiennej środowiskowej `BRICKSET_API_KEY` (tam gdzie
+`GSC_KEY_JSON_B64` i `TD_TOKEN`). Konto MAREK1972. **Nigdy nie trafia do
+repo ani do commita.**
+
+**Weryfikacja klucza:** `checkKey` → `{"status":"success"}`. Nie liczy się
+do limitu.
+
+**Limity:** dzienny limit zapytań liczy **tylko `getSets`** — `checkKey`,
+`getThemes` i podobne są poza nim. Maksymalnie **500 rekordów na stronę**
+(`pageSize`), czyli cały rocznik schodzi dwoma wywołaniami zamiast ~60 stron
+HTML. Do pobierania przyrostowego: **`updatedSince`** w formacie `yyyy-mm-dd`
+— dzienny przebieg Scouta powinien pytać tylko o to, co zmieniło się od
+ostatniego uruchomienia.
+
+**Pole cenowe:** `LEGOCom.DE.retailPrice` — cena w EUR, rynek referencyjny
+dla Polski. **Cen w złotych w API NIE MA.** Obiekt `LEGOCom` zawiera
+wyłącznie rynki `US`, `UK`, `CA`, `DE`, każdy z `retailPrice`
+i `dateFirstAvailable`. Sprawdzone 24.08.2026 na 11371: DE 249,99 EUR przy
+1 099,99 zł w naszym `katalog.json`.
+
+**Pozostałe przydatne pola z `getSets`:** `number`, `name`, `pieces`,
+`minifigs`, `year`, `theme`, `subtheme`, `themeGroup`, `ageRange.min`,
+`launchDate`, `exitDate`, `availability`, `lastUpdated`, `dimensions`,
+`image`, `bricksetURL`, `rating`. To komplet tego, po co dotąd chodziliśmy
+na karty setów po jednym pobraniu na sztukę.
+
+**Regulamin — twarde ograniczenia.** Klucz przyznano od razu, ale Brickset
+przegląda wniosek po fakcie i może go cofnąć. Zadeklarowane zastosowanie:
+komplementarne metadane katalogowe, nie scraping. Trzymamy się tego
+dosłownie: **tylko odczyt, tylko metadane, przyrostowo po `updatedSince`.**
+Bez masowego zaciągania całej bazy „na zapas", bez odsprzedaży danych, bez
+budowania z tego kopii Bricksetu.

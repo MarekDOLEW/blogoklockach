@@ -183,3 +183,48 @@ Jutro pokaże, czy huby siedzą w „Wykryto – obecnie niezindeksowana" (Googl
 je zna i świadomie odpuszcza) czy „Zeskanowana – obecnie niezindeksowana"
 (odwiedził i uznał za zbyt ubogie). To dwie różne diagnozy i dwie różne
 strategie naprawy — nie planować działań przed odczytem.
+
+## 2026-08-24 · CODE (Scout) · Brickset API v3 — klucz i dokumentacja
+
+**Zrobione:**
+- Klucz Brickset API v3 (konto MAREK1972, wyrobiony 23.08) zweryfikowany:
+  `checkKey` zwraca `{"status":"success"}`.
+- Potwierdzony kształt danych na `getSets` dla 11371: `LEGOCom` zawiera
+  wyłącznie rynki US / UK / CA / DE, każdy z `retailPrice`
+  i `dateFirstAvailable`. **Ceny w złotych w API nie ma** — dla 11371 jest
+  DE 249,99 EUR przy 1 099,99 zł w naszym `katalog.json`.
+- `RUNBOOK.md`: nowa sekcja „Brickset API v3" — endpoint, klucz w env,
+  limit liczony tylko dla `getSets`, `pageSize` do 500, `updatedSince`
+  do przyrostów, pole cenowe, lista przydatnych pól, ograniczenia
+  regulaminowe.
+- Wcześniej dziś: pełny przegląd rocznika 2026 przez listy per seria
+  (commit `5cd9d62`) — 416 realnych zestawów, 212 bez opisu redakcyjnego,
+  dwie serie bez ani jednego opisu (Dreamzzz, The Legend of Zelda).
+
+**Stan:** klucz działa, dokumentacja gotowa. Backfill cen świadomie
+NIEZROBIONY — czeka na raport indeksowania GSC.
+
+**Dla Marka (poza repo) — BLOKER:**
+Klucz trzeba dodać jako `BRICKSET_API_KEY` w zmiennych środowiska CCR
+(`env_01YL3diD2yzP3UGYsU7Txvx7`), tam gdzie siedzą `GSC_KEY_JSON_B64`
+i `TD_TOKEN`. Sesja runnera nie ma do nich zapisu — wstrzykuje je
+konfiguracja środowiska spoza kontenera, a `export` w kontenerze ginie
+przy jego wygaszeniu. Do czasu dodania Scout nie może użyć API
+w automatycznym przebiegu.
+
+**Do ustalenia razem (po raporcie GSC):**
+1. Źródło kursu EUR→PLN. Sam kurs NBP nie wystarczy — LEGO nie przelicza
+   cen katalogowych kursem dnia. Dla 11371 implikowany przelicznik to 4,40,
+   podczas gdy kurs rynkowy jest niższy. Trzeba zdecydować, czy liczymy
+   mnożnikiem wyznaczonym z setów, dla których mamy obie ceny, czy
+   oznaczamy cenę jako szacunkową.
+2. Czy nadpisywać istniejące `cena_katalogowa` — ustalone, że NIE.
+3. Format zapisu — serializacja deterministyczna (patrz backlog i reguła
+   zapisu `sety.json` w RUNBOOKU).
+
+**Uwagi:**
+Wyznaczenie mnożnika EUR→PLN jest policzalne od ręki: w `katalog.json`
+mamy ceny w zł, a API da EUR dla tych samych numerów. Rozrzut mnożnika
+na kilkuset setach powie, czy LEGO trzyma stałe progi cenowe per rynek
+(wtedy przeliczanie jest bezpieczne), czy nie (wtedy cena z przeliczenia
+nie nadaje się do liczenia rabatu i lepiej zostawić puste pole).
