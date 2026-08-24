@@ -609,28 +609,36 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .prose .galeria__cena { font-size: 0.82rem; color: var(--granat-60); margin-top: 3px; }
 .prose .galeria__cena b { color: var(--granat); }
 
-/* karta pojedynczego zestawu */
+/* karta pojedynczego zestawu: nagłówek dwukolumnowy (zdjęcie + dane
+   z pudełka), pod nim opis, drabina cenowa i sklepy na pełną szerokość */
 .prose .prezent {
-  display: grid; grid-template-columns: minmax(0, 260px) minmax(0, 1fr); gap: 22px;
-  align-items: start; margin: 26px 0; padding: 20px;
+  margin: 26px 0; padding: 20px;
   background: #fff; border: 1px solid var(--linia); border-radius: 14px;
   /* pasek nawigacji jest przyklejony u góry — bez tego zapasu kotwica
      #zestaw-<nr> z galerii chowa nagłówek karty pod nawigacją */
   scroll-margin-top: 90px;
 }
-/* przy długich kartach zdjęcie jedzie z czytelnikiem zamiast zostawiać
-   pustą kolumnę; na wąskim ekranie sticky jest wyłączone niżej */
-.prose .prezent__media { margin: 0; position: sticky; top: 88px; }
+.prose .prezent__gora {
+  display: grid; grid-template-columns: minmax(0, 230px) minmax(0, 1fr);
+  gap: 22px; align-items: start;
+}
+.prose .prezent__szczyt > :first-child { margin-top: 0; }
+.prose .prezent__szczyt > :last-child { margin-bottom: 0; }
+.prose .prezent__media { margin: 0; }
+/* height:auto jest konieczne — bez niego atrybut height obrazka wygrywa
+   z aspect-ratio i zdjęcie rozpycha kolumnę na całe 640 px wysokości */
 .prose .prezent__foto {
-  width: 100%; aspect-ratio: 1 / 1; object-fit: contain; display: block;
+  width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; display: block;
   background: var(--papier); border-radius: 10px;
 }
 .prose .prezent__miniatury { display: flex; gap: 8px; margin-top: 8px; }
 .prose .prezent__miniatury img {
-  width: 33%; aspect-ratio: 1 / 1; object-fit: contain;
+  width: 33%; height: auto; aspect-ratio: 1 / 1; object-fit: contain;
   background: var(--papier); border-radius: 6px; display: block;
 }
+.prose .prezent__tresc { margin-top: 18px; }
 .prose .prezent__tresc > :first-child { margin-top: 0; }
+.prose .prezent__tresc > :last-child { margin-bottom: 0; }
 .prose .prezent__nagl { font-size: 1.12rem; font-weight: 800; line-height: 1.3; margin: 0 0 10px; }
 .prose .prezent__nagl a { text-decoration-thickness: 2px; }
 .prose .prezent__nagl .status { margin-left: 8px; vertical-align: 2px; }
@@ -684,8 +692,9 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .prose .prezent__cta a { font-weight: 700; }
 
 @media (max-width: 620px) {
-  .prose .prezent { grid-template-columns: 1fr; gap: 16px; padding: 16px; }
-  .prose .prezent__media { max-width: 260px; margin: 0 auto; position: static; }
+  .prose .prezent { padding: 16px; }
+  .prose .prezent__gora { grid-template-columns: 1fr; gap: 16px; }
+  .prose .prezent__media { max-width: 260px; margin: 0 auto; }
   .prose .galeria { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 10px; }
 }
 

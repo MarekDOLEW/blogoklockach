@@ -93,11 +93,13 @@ export function zajawkiArtykulow(moduly, opcje) {
  * (numer zestawu albo ścieżka), bo treści takiej strony nie da się przeszukać
  * regexpem jak markdownu.
  */
-export function zajawkaZMeta(meta) {
+export function zajawkaZMeta(meta, { karty = false } = {}) {
   return {
     url: meta.url,
     data: meta.data,
-    kategoria: meta.znacznik,
+    // tak samo jak w markdownie: listing działu pokazuje krótką plakietkę
+    // (znacznik), a wspólna lista artykułów — nazwę kategorii
+    kategoria: (karty ? meta.znacznik : null) ?? meta.kategoria ?? meta.znacznik,
     tytul: meta.tytul,
     opis: meta.opis,
     foto: zdjecieZWartosci(meta.okladka),

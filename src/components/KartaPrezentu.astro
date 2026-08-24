@@ -30,41 +30,49 @@ const doPokazania = sklepyPublikacyjne.filter(maLink);
 const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);
 ---
 <div class="prezent" id={`zestaw-${nr}`}>
-  <figure class="prezent__media">
-    <img
-      class="prezent__foto"
-      src={`/img/${nr}.jpg`}
-      alt={`LEGO ${nr} ${nazwa}`}
-      loading="lazy"
-      decoding="async"
-      width="640"
-      height="640"
-    />
-    {dodatkowe.length > 0 && (
-      <span class="prezent__miniatury">
-        {dodatkowe.map((u, i) => (
-          <img src={u} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
-        ))}
-      </span>
-    )}
-  </figure>
+  {/* Góra karty: zdjęcie po lewej, obok nazwa zestawu, dane z pudełka
+      i „dla kogo". Opis, drabina cenowa i sklepy idą niżej, na pełną
+      szerokość — tekst czyta się lepiej w jednej kolumnie niż w wąskiej
+      szpalcie obok zdjęcia. */}
+  <div class="prezent__gora">
+    <figure class="prezent__media">
+      <img
+        class="prezent__foto"
+        src={`/img/${nr}.jpg`}
+        alt={`LEGO ${nr} ${nazwa}`}
+        loading="lazy"
+        decoding="async"
+        width="640"
+        height="640"
+      />
+      {dodatkowe.length > 0 && (
+        <span class="prezent__miniatury">
+          {dodatkowe.map((u, i) => (
+            <img src={u} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
+          ))}
+        </span>
+      )}
+    </figure>
+
+    <div class="prezent__szczyt">
+      <p class="prezent__nagl">
+        <a href={`/zestaw/${nr}/`}>LEGO {nr} {nazwa}</a>
+        {status === 'eol' && <span class="status status--stop">wycofany</span>}
+        {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
+      </p>
+
+      <dl class="prezent__dane">
+        <div><dt>Elementy</dt><dd>{elementy}</dd></div>
+        {wiek && <div><dt>Wiek z pudełka</dt><dd>{wiek}</dd></div>}
+        <div><dt>Rocznik</dt><dd>{rocznik}</dd></div>
+        <div><dt>Cena katalogowa</dt><dd>{zl(rrp)}</dd></div>
+      </dl>
+
+      <p class="prezent__dlakogo"><span>Dla kogo</span> {dlaKogo}</p>
+    </div>
+  </div>
 
   <div class="prezent__tresc">
-    <p class="prezent__nagl">
-      <a href={`/zestaw/${nr}/`}>LEGO {nr} {nazwa}</a>
-      {status === 'eol' && <span class="status status--stop">wycofany</span>}
-      {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
-    </p>
-
-    <dl class="prezent__dane">
-      <div><dt>Elementy</dt><dd>{elementy}</dd></div>
-      {wiek && <div><dt>Wiek z pudełka</dt><dd>{wiek}</dd></div>}
-      <div><dt>Rocznik</dt><dd>{rocznik}</dd></div>
-      <div><dt>Cena katalogowa</dt><dd>{zl(rrp)}</dd></div>
-    </dl>
-
-    <p class="prezent__dlakogo"><span>Dla kogo</span> {dlaKogo}</p>
-
     <slot />
 
     {/* drabina cenowa świadomie NIE jest tabelą: globalne style .prose th

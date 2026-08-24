@@ -38,7 +38,7 @@ const zMarkdownu = zajawkiArtykulow(
 const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
   .map((m) => m.meta)
   .filter(Boolean)
-  .map(zajawkaZMeta);
+  .map((m) => zajawkaZMeta(m, { karty: true }));
 
 const przewodniki = [...zAstro, ...zMarkdownu].sort((a, b) => new Date(b.data) - new Date(a.data));
 ---
