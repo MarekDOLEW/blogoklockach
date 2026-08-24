@@ -25,6 +25,43 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-24 14:20 · CODE · Raport Kontrolera odpalony ręcznie
+
+**Zrobione:**
+- Raport Kontrolera za tydzień 18–24.08 wykonany i dostarczony jako PDF.
+  Przebieg o 09:00 nie odpalił się, bo zadanie było jeszcze wyłączone.
+
+**Ograniczenie warte zapamiętania:** `fire_trigger` NIE zadziała na Kontrolera.
+Zwraca: „this routine was created via http_api, not by an agent. Agents can
+only fire routines they created". Dotyczy każdej rutyny z `created_via:
+http_api` — w naszym zestawie to Kontroler, Łowca i „inwestycja IV kwartal".
+Rutyny z `created_via: meta_mcp` (Scout, Radar, Wycofania, Backfill) agent
+odpali bez problemu. Ręczny przebieg http_api-owej rutyny trzeba więc albo
+wykonać samodzielnie w sesji, albo sklonować jej prompt do jednorazowego
+zadania (`run_once_at`).
+
+**Co pokazał raport — jedno zdanie:** warstwa danych działa (248 śledzonych
+setów, 160 z rabatem ≥20%, 174 nowe minima w 7 dni), ale ruch z Google to
+**1 kliknięcie i 13 wyświetleń** w oknie 15–22.08, wyłącznie na stronie
+głównej. Żaden artykuł ani hub nie pojawił się w wynikach.
+
+**Trzy rzeczy nierozstrzygnięte, w kolejności ważności:**
+1. Kliknięcia afiliacyjne są niemierzalne z poziomu zadania cyklicznego —
+   brak dostępu do Analytics Engine (`idz_kliki`), brak `wrangler`, brak
+   tokenu API Cloudflare. Bez tego nie ma EPC, więc raport Kontrolera co
+   tydzień powtórzy „nie wiem". Potrzebny token w zmiennej środowiskowej
+   albo cotygodniowy eksport z panelu do repo.
+2. Indeksacja — potwierdza się obraz z 23.08. Przy jednej widocznej stronie
+   praca nad treścią i wyglądem ma zerowy zwrot do czasu rozstrzygnięcia.
+3. Cztery aktywne programy afiliacyjne mają ZERO linków w `redirects.json`:
+   Egmont (6% CPS — najwyższa stawka w miksie), Empik, Smyk (2,1%),
+   x-kom (2 linki). Cały ruch dealowy idzie do Allegro: 6 939 z 7 999 wpisów
+   w migawce ofert, 141 ze 174 nowych minimów, wszystkie czołowe deale.
+
+**Stan:** gotowe.
+
+**Dla drugiej strony:** nic — punkty 1–3 wyżej są dla Marka, nie dla Cowork.
+
 ## 2026-08-24 13:30 · CODE · Kontroler włączony + kalibracja crona
 
 **Zrobione:**
