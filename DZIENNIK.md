@@ -25,6 +25,73 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-24 16:50 · CODE · Kliki, linki afiliacyjne i indeksacja — trzy diagnozy
+
+**1. Kliknięcia afiliacyjne: nie brak dostępu, tylko brak zapisu.**
+`wrangler.jsonc` nigdy nie miał wiązania `analytics_engine_datasets`, więc
+`env.KLIKI` było `undefined`, a `env.KLIKI?.writeDataPoint()` po cichu nie
+robiło nic. Nie zapisał się ani jeden klik — żaden token Cloudflare tego by
+nie odczytał, bo nie ma czego czytać. Poprzedni raport Kontrolera mówił
+„brak dostępu do danych"; to była zła diagnoza.
+Dodanie wiązania **wywala deploy na tym koncie**: po pushu produkcja nie
+zaktualizowała się przez 17 minut przy zwykłym czasie ~2 minut, a po
+cofnięciu wróciła w 3 minuty. Wiązanie jest cofnięte, powód i pełna treść
+wpisu siedzą w komentarzu w `wrangler.jsonc`.
+Gotowy jest `scripts/kliki-raport.mjs` (kliki per sklep, per set, udział
+stanu „brak-linku", kraje) — czeka na `CF_ACCOUNT_ID` i `CF_API_TOKEN`.
+Prompt Kontrolera zaktualizowany: wywołuje ten skrypt i raportuje indeksację.
+**Do zrobienia po stronie Marka:** odczytać log builda w panelu Cloudflare
+(Workers & Pages → blogoklockach → Deployments) z okna 13:55–14:15 UTC 24.08.
+Najpewniejsza hipoteza: Analytics Engine wymaga płatnego planu Workers.
+
+**2. „Cztery aktywne programy mają zero linków" — mierzone na złym pliku.**
+`redirects.json` z założenia trzyma wyłącznie linki produktowe z feedów, więc
+sklep bez feedu nigdy tam nie trafi. Empik, Smyk i x-kom mają linki budowane
+przez worker z samego numeru zestawu i **są obecne na każdej podstronie
+`/zestaw/`** (sprawdzone na produkcji: 76467 i 31168 linkują empik, smyk,
+xkom, lego, allegro, mediaexpert, planetaklockow). Egmont faktycznie ma zero
+linków i tak ma zostać — wg rejestru to księgarnia Egmontu (komiksy, książki),
+nie sklep z zestawami.
+Realny rozjazd był w `linkAfiliacyjny()` w `src/lib/oferty.js`: funkcja nie
+znała fallbacków workera i zwracała `null` dla sklepów, do których worker
+umiałby przekierować. Naprawione (`SKLEPY_Z_LINKIEM_Z_WORKERA`). Zbudowane
+strony wychodzą bajt w bajt tak samo, bo wszyscy wołający podają dziś tylko
+sklepy z ofertą — to naprawa pułapki na przyszłość, nie zmiana widoczna.
+**Prawdziwy powód zerowych prowizji z tych programów jest inny:** linki są na
+podstronach zestawów, a te mają zerowy ruch. To ten sam problem co punkt 3.
+
+**3. Dlaczego nie widać nas w Google — jest twarda odpowiedź.**
+Inspekcja adresów przez API Search Console (24.08):
+- sitemapa pobrana dziś, 0 błędów: **4 874 adresy przesłane, 0 zindeksowanych**;
+- strona główna: PASS, zindeksowana, ale **ostatni crawl 15.08** — dziewięć dni;
+- `/artykuly/`, `/prezentowniki/`, `/serie/`, `/wycofania/`, hub `/zestaw/76467/`:
+  „Strona wykryta – obecnie niezindeksowana", **ostatni crawl: NIGDY**;
+- artykuł o zamku 31168: „Adres URL jest Google nieznany", mimo obecności
+  w sitemapie.
+To nie jest blokada techniczna: robots.txt przepuszcza (`ALLOWED`), kanoniczne
+zgadzają się z naszymi, `INDEXING_ALLOWED`, pobranie strony `SUCCESSFUL`.
+Google po prostu nie przydziela crawlowania. Skład sitemapy: **4 812 z 4 873
+adresów (98,7%) to huby `/zestaw/`**, przy 10 artykułach i 4 prezentownikach.
+Na jeden tekst przypada ~481 niemal identycznych podstron generowanych
+z szablonu.
+Naprawione od ręki: sitemapa nie stempluje już `lastmod` datą builda. Runnery
+pushują kilka razy dziennie, więc Google dostawał codziennie informację, że
+wszystkie 4 873 adresy zmieniły się przed chwilą — także artykuły nietknięte
+od tygodnia. Dokumentacja Google mówi wprost, że przy niewiarygodnym `lastmod`
+przestaje ufać temu polu w całej witrynie.
+
+**Stan:** gotowe, wdrożone, produkcja sprawdzona (strony 200, worker i /img
+działają, sitemapa bez lastmod).
+
+**Do decyzji Marka — przycięcie sitemapy:**
+Propozycja: zostawić w sitemapie huby z redakcyjnym opisem (248 z `sety.json`)
+plus artykuły, prezentowniki, serie i strony stałe — razem ~310 adresów zamiast
+4 873. Pozostałe 4 564 huby dalej istnieją i są linkowane wewnętrznie, tylko
+przestają zasysać crawl. Nie robię tego bez zgody, bo to decyzja o zasięgu
+serwisu, nie poprawka techniczna.
+
+**Dla drugiej strony:** nic.
+
 ## 2026-08-24 14:20 · CODE · Raport Kontrolera odpalony ręcznie
 
 **Zrobione:**
