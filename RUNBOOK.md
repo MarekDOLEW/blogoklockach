@@ -165,9 +165,23 @@ pustą listę zestawów (sama nawigacja serwisu). To nie jest blokada ani limit
 zapytań — sprawdzone: strona 20 pobrana ponownie po pustych 21–23 nadal
 zwraca komplet 25 numerów. Dostępne jest więc 500 pozycji z 913.
 
-**Obejście:** listy per seria, np. `brickset.com/sets/theme-Star-Wars/year-2026`
-(z własną paginacją, też do 20 stron, ale żadna seria tego nie dobija).
-Tak dobiera się zakres numerów powyżej ~75440.
+Logowanie tego nie zmienia z naszego poziomu dostępu — sprawdzone niezależnie
+dwiema drogami: WebFetch i `curl` widzą to samo (strony 21+ to 44 kB pustego
+szablonu, strona 20 nadal 196 kB z listą).
+
+**Obejście — pełny crawl per seria.** Sidebar strony rocznej
+(`brickset.com/sets/year-2026`) zawiera komplet serii rocznika z licznikami;
+sumy per seria zgadzają się z sumą roczną (913 dla 2026), więc pokrycie jest
+pełne. Największa seria ma 112 pozycji, czyli limit 500 nie zadziała.
+Schemat: `brickset.com/sets/theme-<seria>/year-2026[/page-N]`, 25 pozycji
+na stronę.
+
+**`curl` działa na brickset.com bez przeszkód** — ścieżka `/sets/` zwraca
+pełny HTML, więc numery wyciąga się lokalnie przez
+`grep -oE '/sets/[0-9]+-[0-9]+'`. Ścieżka `/article/` zwraca 403. To istotne
+kosztowo: cały rocznik (46 serii, ~60 stron) schodzi bez ani jednego wywołania
+WebFetch, czyli bez kosztu streszczania. Pełny przegląd rocznika 2026 zajął
+tak kilka minut.
 
 **Brickset nie podaje RRP w złotych** — tylko GBP/USD/EUR, także na kartach
 pojedynczych zestawów (sprawdzone na 10465-1, 11371-1, 11375-1). Ceny w zł
