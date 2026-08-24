@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-08-23",
+  "data_aktualizacji": "2026-08-24",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 242,
+  "liczba_setow": 248,
   "sety": [
     "10300",
     "10316",
@@ -26,7 +26,10 @@
     "11221",
     "11370",
     "11371",
+    "11372",
+    "11373",
     "11374",
+    "11375",
     "11376",
     "11377",
     "11378",
@@ -38,6 +41,7 @@
     "11385",
     "11386",
     "11387",
+    "11389",
     "11505",
     "11507",
     "11511",
@@ -48,11 +52,13 @@
     "21066",
     "21067",
     "21348",
+    "21366",
     "21367",
     "21368",
     "21369",
     "21370",
     "21372",
+    "21376",
     "21582",
     "21591",
     "21592",
@@ -358,7 +364,7 @@
   "luki_w_bazie": {
     "opis": "Sety 2026 obecne w Brickset i w katalog.json, ale bez wpisu redakcyjnego w sety.json. Rewizja 2026-08-23 (Scout): przejrzano strony 1-4 z 37 listy brickset.com/sets/year-2026 — na 100 sprawdzonych numerow 51 nie mialo wpisu w sety.json, czyli okolo polowy rocznika. Dominujacy wzorzec: sety.json pokrywa fale czerwiec-grudzien 2026, a jest ubogi w fale styczen-maj. UWAGA: to nie sa sety nieznane serwisowi — katalog.json, opisy.json i zdjecia.json maja je (z polska nazwa i cena katalogowa w zl), wiec huby /zestaw/ dzialaja. Brakuje warstwy redakcyjnej: opis, dla_rodzica, dla_afol. Ceny w zl bierzemy z katalog.json (zrodlo PL), bo Brickset podaje RRP tylko w GBP/USD/EUR — sprawdzone na kartach 10465-1 i 11371-1.",
     "zrodlo": "brickset.com/sets/year-2026 strony 1-4, odczyt 2026-08-22 i 2026-08-23; dane PL z src/data/katalog.json",
-    "postep": "strony 1-4 z 37 przejrzane; zamkniete 5 luk (11370, 11371, 11376, 11378, 21367)",
+    "postep": "strony 1-4 z 37 przejrzane; zamkniete 11 luk (2026-08-23: 11370, 11371, 11376, 11378, 21367; 2026-08-24: 11372, 11373, 11375, 11389, 21366, 21376)",
     "numery": [
       "10465",
       "10466",
@@ -373,11 +379,7 @@
       "11207",
       "11208",
       "11215",
-      "11372",
-      "11373",
-      "11375",
       "11379",
-      "11389",
       "11390",
       "11501",
       "11502",
@@ -393,11 +395,9 @@
       "21064",
       "21364",
       "21365",
-      "21366",
       "21371",
       "21373",
       "21375",
-      "21376",
       "21583",
       "21584",
       "21585",
@@ -408,13 +408,7 @@
       "21590"
     ],
     "priorytet_redakcyjny": [
-      "11372",
-      "11373",
-      "11375",
-      "11389",
       "21365",
-      "21366",
-      "21376",
       "11502",
       "11504",
       "11509"
@@ -427,6 +421,7 @@
       "21064",
       "21364",
       "21373"
-    ]
+    ],
+    "kontekst_seo": "Diagnoza z DZIENNIK.md 2026-08-23: sitemapa zglasza 4748 adresow, zindeksowana jedna strona; ~4691 to huby /zestaw/ generowane szablonowo. Wpis w sety.json (opis, dla_rodzica, dla_afol) jest jedyna warstwa, ktora odroznia hub od cienkiej tresci — domykanie tych luk to nie kosmetyka katalogu, tylko material na indeksacje."
   }
 }
