@@ -154,3 +154,48 @@ powodu, a prawdziwe zmiany giną w szumie i nie da się ich przejrzeć w diffie.
 
 Kierunek naprawy: sortowanie kluczy, stałe wcięcie, stabilne formatowanie
 liczb — po stronie każdego runnera, który zapisuje JSON.
+
+---
+
+## Brickset: limity dla niezalogowanych *(ustalone 24.08.2026)*
+
+**Paginacja urywa się na stronie 20.** Lista `brickset.com/sets/year-2026`
+zgłasza 913 dopasowań i 37 stron, ale strony 21 i dalsze zwracają dla nas
+pustą listę zestawów (sama nawigacja serwisu). To nie jest blokada ani limit
+zapytań — sprawdzone: strona 20 pobrana ponownie po pustych 21–23 nadal
+zwraca komplet 25 numerów. Dostępne jest więc 500 pozycji z 913.
+
+**Obejście:** listy per seria, np. `brickset.com/sets/theme-Star-Wars/year-2026`
+(z własną paginacją, też do 20 stron, ale żadna seria tego nie dobija).
+Tak dobiera się zakres numerów powyżej ~75440.
+
+**Brickset nie podaje RRP w złotych** — tylko GBP/USD/EUR, także na kartach
+pojedynczych zestawów (sprawdzone na 10465-1, 11371-1, 11375-1). Ceny w zł
+biorzemy z `katalog.json`; walut nie przeliczamy.
+
+**Czego Brickset użyć, a czego nie:** numer, nazwa EN, seria, liczba
+elementów, wiek, data premiery, wymiary, liczba minifigurek — tak. Cena —
+nie. Nazwa PL — nie ma jej tam w ogóle.
+
+**Parametry sortowania i rozmiaru strony są ignorowane.** `?sortBy=-DateAdded`
+i `?pageSize=100` nie zmieniają wyniku — kolejność zostaje po numerze
+zestawu, a strona ma 25 pozycji. Nie da się tanio zapytać „co doszło od
+wczoraj"; wykrywanie nowości opiera się na porównaniu z `known_sets.json`.
+
+### Uzupełnienie do „Stabilność formatu plików JSON"
+
+Zarzut wobec Scouta był trafny co do objawu, ale przyczyna była inna niż
+niedeterminizm. Scout zapisuje `known_sets.json` przez
+`json.dumps(indent=2, ensure_ascii=False)` — round-trip jest stabilny bajt
+w bajt, sprawdzone 24.08. Duże diffy z 22–23.08 to realna zmiana treści
+(przepisywany rejestr luk), nie szum formatowania.
+
+Pułapka, w którą Scout wpadł i z której warto wyciągnąć regułę: **`sety.json`
+ma wcięcie 1 spacji i nie kończy się znakiem nowej linii**, a klucze NIE są
+posortowane (plik zaczyna się od `21372`). Zapis przez Node z
+`JSON.stringify(obj, null, 2)` dał 7 594 wstawień i 7 514 usunięć przy pięciu
+faktycznie dodanych zestawach. Poprawnie: Python z
+`object_pairs_hook=OrderedDict`, `indent=1`, `ensure_ascii=False`, bez
+końcowego `\n` — wtedy diff to same dodania. **Node reorganizuje klucze
+wyglądające na liczby, więc do plików z numerami zestawów jako kluczami
+nie nadaje się do zapisu.**
