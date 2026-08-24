@@ -308,3 +308,51 @@ cena jest najpewniej zła:
 zawyżony rabat na stronie zestawu, czyli dokładnie ta pseudopromocja, której
 zakazuje `CLAUDE.md`. Do ręcznej weryfikacji na LEGO.com PL przed backfillem;
 te dziewięć poprawiamy niezależnie od decyzji o przeliczaniu.
+
+## Oferty podszywające się pod zestaw *(ustalone 24.08.2026)*
+
+Feedy marketplace'ów dopasowują ofertę po numerze zestawu **w tytule aukcji**,
+więc pod numer setu trafiają rzeczy, które zestawem nie są. Sprawdzone aukcje:
+
+| Set | Cena w feedzie | Co to naprawdę było |
+|---|---|---|
+| 21315 | 5,00 zł | „LEGO Ideas 21315 książka instrukcja" — sama instrukcja |
+| 42156 | 50,00 zł | mocowanie ścienne do modelu, bez klocków |
+| 43247 | 45,00 zł | zestaw oświetlenia „bez klocków" |
+| 76419 | 149,90 zł | akrylowa gablota na modele |
+| 60198 | 45,01 zł | zbiorcza aukcja z siedmioma innymi numerami w tytule |
+| 75372 | 29,99 zł | pojedynczy droid wyjęty z zestawu |
+| 10276 | 89,99 zł | „koloseum 3D kalendarz" — nie LEGO |
+
+Takie pozycje wchodziły do tabel jako **najtańsza oferta, której nie da się
+kupić**. Odsiew działa w `src/lib/odsiew.js` (jedna reguła: oferta poniżej
+**28% ceny katalogowej**) i wpina się w `ofertyZFeedu` w `src/lib/oferty.js`,
+czyli w jedyne miejsce, przez które ceny z feedów wchodzą na strony.
+
+**Filtrujemy przy odczycie, nie w danych.** `oferty_feed.json` zostaje surowy —
+Łowca zapisuje to, co przysłał feed, a serwis sam odsiewa. Dzięki temu żaden
+runner nie musi o tym pamiętać, a zmiana progu nie wymaga przeliczania danych.
+
+Kontrola: `node scripts/kontrola-ofert.mjs` wypisuje odrzucone oferty **z linkiem
+do konkretnej aukcji**, żeby dało się sprawdzić, czy odsiew nie kasuje realnych
+okazji. Warto zerknąć po każdej większej zmianie w feedach.
+
+### Czego NIE robić: porównania między sklepami
+
+Pierwsza wersja reguły odrzucała ofertę radykalnie tańszą od pozostałych
+sklepów. Brzmi rozsądnie, ale sprawdzenie linków pokazało, że **kasuje głównie
+prawdziwe okazje**: punktem odniesienia bywa oferta zawyżona. Polybagi mają
+katalogowo 16,99 zł, na Allegro chodzą po 8–10 zł, a w innym sklepie stoją po
+24,99 zł — czyli powyżej ceny katalogowej. Reguła odrzucała wtedy tę uczciwą,
+a zostawiała zawyżoną. Tak samo z wycofanymi seriami (VIDIYO, DOTS)
+wyprzedawanymi po ułamku ceny. Z 49 odrzuceń tej wersji tylko 11 było
+prawdziwymi podszywkami. Cena katalogowa jest jedynym stabilnym punktem
+odniesienia — nie wracać do porównań międzysklepowych.
+
+### Znany kompromis
+
+Sety bez znanej ceny katalogowej (ok. 6,7 tys. z 8 tys. wpisów w feedzie) nie
+są filtrowane wcale. To świadoma decyzja: lepiej pokazać tanią ofertę, która
+okaże się akcesorium, niż ukryć realną okazję. Ryzyko maleje z każdą partią
+**Backfillu cen katalogowych** (12:00) — im więcej setów ma RRP, tym szerzej
+działa odsiew.

@@ -13,29 +13,45 @@ import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
 import { wpisKatalogu } from './katalog.js';
 
+// Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
+// (akcesoria, gabloty, instrukcje, zbiorcze aukcje). Reguły i progi mieszkają
+// w odsiew.js, żeby serwis i skrypt kontrolny liczyły dokładnie to samo —
+// listę odrzuconych z linkami do aukcji wypisuje `node scripts/kontrola-ofert.mjs`.
+import { odsiej } from './odsiew.js';
+
+/** Cena katalogowa na potrzeby odsiewu — bez sety.json, żeby nie ciągnąć go tutaj. */
+const katalogowaDoOdsiewu = (nr) =>
+  cenyBaza[String(nr)]?.cena_katalogowa ?? wpisKatalogu(String(nr))?.cena_katalogowa ?? null;
+
 /**
  * Oferty sklepowe z migawki feedów dla jednego setu.
  * Obsługuje oba formaty wpisu: nowy `oferty: {sklep: cena}` (per sklep,
  * wypełnia go Łowca od 2026-08-15) i starszy pojedynczy `cena`+`sklep`.
+ *
+ * `nr` jest opcjonalny wyłącznie dla zgodności wstecznej — bez niego działa
+ * tylko reguła A odsiewu, więc wszystkie wywołania w serwisie go podają.
  */
-export function ofertyZFeedu(wpisFeedu) {
+export function ofertyZFeedu(wpisFeedu, nr = null) {
   if (!wpisFeedu) return [];
   const { data } = wpisFeedu;
-  if (wpisFeedu.oferty && typeof wpisFeedu.oferty === 'object') {
-    return Object.entries(wpisFeedu.oferty)
-      .filter(([, cena]) => typeof cena === 'number' && cena > 0)
-      .map(([sklep, cena]) => ({ sklep, cena, data }));
-  }
-  return wpisFeedu.cena ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }] : [];
+  const surowe =
+    wpisFeedu.oferty && typeof wpisFeedu.oferty === 'object'
+      ? Object.entries(wpisFeedu.oferty)
+          .filter(([, cena]) => typeof cena === 'number' && cena > 0)
+          .map(([sklep, cena]) => ({ sklep, cena, data }))
+      : wpisFeedu.cena
+        ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }]
+        : [];
+  return odsiej(surowe, katalogowaDoOdsiewu(nr));
 }
 
 /**
  * Pełna lista ofert do tabeli cen: redakcyjne z sety.json + feedowe,
  * jeden wiersz na sklep — przy dublu wygrywa niższa cena (jak w najlepszaOferta).
  */
-export function polaczOferty(ofertySetu = [], wpisFeedu = null) {
+export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
   const perSklep = new Map();
-  for (const o of [...ofertySetu, ...ofertyZFeedu(wpisFeedu)]) {
+  for (const o of [...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)]) {
     const stara = perSklep.get(o.sklep);
     if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
   }
@@ -52,7 +68,7 @@ export function polaczOferty(ofertySetu = [], wpisFeedu = null) {
  */
 export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
-  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz])].filter(
+  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz], klucz)].filter(
     (o) => o.sklep !== 'ceneo',
   );
   return kandydaci.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);

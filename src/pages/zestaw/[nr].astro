@@ -28,7 +28,7 @@ const rok = kat?.rok ?? null;
 const cenaKatalogowa = cenaKatalogowaSetu(nr, { sety });
 
 // redakcyjne oferty + ceny z feedów sklepowych w jednej tabeli (dubel sklepu -> niższa cena)
-const oferty = polaczOferty(s?.oferty ?? [], feedOferta);
+const oferty = polaczOferty(s?.oferty ?? [], feedOferta, nr);
 const najlepsza = oferty.length ? Math.min(...oferty.map((o) => o.cena)) : null;
 
 const zdj = s?.zdjecia ?? null;
