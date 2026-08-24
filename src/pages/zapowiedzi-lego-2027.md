@@ -47,6 +47,8 @@ Drugi zestaw Icons z uniwersum Diuny: brick-buildowy Shai-Hulud, ok. 1840 elemen
 >
 > Icons ma dziś tylko jeden inny zestaw z Arrakis i jest to pozycja **już wycofana z produkcji**: [10327 Ornitopter Królewski Atrydów](/zestaw/10327/). Zapasy krążą jeszcze po sklepach zewnętrznych, ale po premierze czerwia popyt na „tę drugą Diunę" zwykle rośnie, a wycofanych zestawów nikt nie wznawia. Jeśli planujesz komplet — to jest moment.
 
+<div class="galeria-setow" data-sety="10327"></div>
+
 ## Śródziemie: Oliphant (11395) i Helmowy Jar <span class="status status--maybe">przeciek</span>
 
 Oliphant to diorama z mûmakiem z „Powrotu króla" — ok. 2020 elementów, orientacyjnie ok. 950 zł, styczeń 2027. W przeciekach przewija się też **Helmowy Jar** (ponad 6000 elementów, ok. 2500 zł) z terminem 2027 lub 2028 — byłby to największy zestaw LOTR w historii serii po Rivendell i Minas Tirith.
@@ -58,6 +60,8 @@ Oliphant to diorama z mûmakiem z „Powrotu króla" — ok. 2020 elementów, or
 > - [11377 Władca Pierścieni: Minas Tirith](/zestaw/11377/) — 8278 elementów, 2799,99 zł katalogowo
 >
 > Historia serii pokazuje, że po zejściu z produkcji duże dioramy LOTR drożeją. Kupując teraz, kupujesz w najniższej cenie, jaką ten zestaw jeszcze zobaczy.
+
+<div class="galeria-setow" data-sety="10316,11377"></div>
 
 ## Wieża zegarowa (11391) <span class="status status--maybe">przeciek</span>
 
@@ -71,6 +75,8 @@ Duży budynek Icons: ok. 3260 elementów, orientacyjnie ok. 1100 zł, styczeń 2
 >
 > Muzeum jest tu pilniejsze: to ostatni rok, w którym kupisz je w normalnej cenie sklepowej.
 
+<div class="galeria-setow" data-sety="10326,21067"></div>
+
 ## Star Wars: 50-lecie „Nowej nadziei" <span class="status status--maybe">przeciek</span>
 
 Rok 2027 to okrągła, pięćdziesiąta rocznica premiery pierwszego filmu — i to jedyna pewna rzecz w tej sekcji. Reszta to przecieki, ale wyjątkowo spójne: kwietniowa fala rocznicowa ma wyjść poza schemat statków i zawierać nietypowe pozycje (hołd dla George'a Lucasa, „kino" Star Wars, plakat w stylu LEGO Art), a osobno mówi się o **zupełnie nowym UCS-owym Sokole Millennium**, który zastąpiłby obecną wersję.
@@ -78,6 +84,8 @@ Rok 2027 to okrągła, pięćdziesiąta rocznica premiery pierwszego filmu — i
 > **Zanim UCS się zmieni**
 >
 > [75192 Sokół Millennium](/zestaw/75192/) — obecna wersja UCS — ma **wycofanie zapowiedziane na grudzień 2026**. Jeśli przecieki o następcy się potwierdzą, ta wersja stanie się pozycją historyczną: 7500+ elementów, cena rynkowa dziś ok. 2500–2800 zł. Zestawy UCS schodzące z produkcji tuż przed premierą następcy zwykle drożeją, a nie tanieją — nowy model nie obniża wartości poprzedniego, tylko zamyka mu numer katalogowy.
+
+<div class="galeria-setow" data-sety="75192"></div>
 
 ## Harry Potter: restart serii? (76483, 76479) <span class="status status--maybe">przeciek</span>
 
@@ -110,6 +118,8 @@ Czyli: **linia jest sprzątana teraz, a nowa fala przychodzi w styczniu.** Dla k
 >
 > Oba łapią w sklepach zewnętrznych przeceny rzędu jednej trzeciej ceny katalogowej — aktualne oferty sprawdzisz w tabelach na podstronach zestawów. Modułu Wielkiej Sali nie polecamy już szukać w regularnej sprzedaży; jeśli koniecznie ma być w kolekcji, zostaje rynek wtórny i ceny wyższe niż katalogowe.
 
+<div class="galeria-setow" data-sety="76454,76473"></div>
+
 Osobna uwaga dla rodziców: jeśli kupujesz dziecku pierwszy zestaw Harry Potter, **restart serii nie jest powodem do czekania**. Zestawy z bieżącej oferty są dziś tańsze niż będą styczniowe premiery, a fabuła pierwszej części nie zmieni się przez nową ekranizację. Konkretne propozycje według wieku i budżetu zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
 
 ## Icons: motoryzacja w 2027 <span class="status status--maybe">wzorzec</span>
@@ -122,6 +132,8 @@ Tu nie mamy przecieku, mamy wzorzec: Icons wypuszcza co roku jeden–dwa duże m
 > - [11381 Jaguar Type E](/zestaw/11381/) — 1673 elementy, 599,99 zł katalogowo, rocznik 2026
 >
 > Obie pozycje są dziś w regularnej sprzedaży i regularnie łapią przeceny w sklepach zewnętrznych. Warto też wiedzieć, że [10337 Lamborghini Countach](/zestaw/10337/) ma wycofanie zapowiedziane na grudzień 2026 — jeśli miał być w kolekcji, zostaje kilka miesięcy.
+
+<div class="galeria-setow" data-sety="10357,11381"></div>
 
 ## Co robić z tą wiedzą
 

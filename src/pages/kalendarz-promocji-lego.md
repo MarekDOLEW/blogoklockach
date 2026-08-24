@@ -55,6 +55,10 @@ Co to znaczy w praktyce: dobijając do 525 zł na LEGO.com, płacisz mniej więc
 
 **Kiedy gratisu lepiej odpuścić:** jeśli mierzysz w duże zamki. [76473 Zamek Hogwart: Wschodnie skrzydło](/zestaw/76473/) i [76444 Magiczne sklepy na Ulicy Pokątnej](/zestaw/76444/) chodzą w sklepach zewnętrznych około jednej trzeciej poniżej katalogowej — przy tych kwotach oszczędzasz kilkaset złotych, a żaden gratis tego nie nadrobi.
 
+Zestawy z tego okna, o których mowa wyżej:
+
+<div class="galeria-setow" data-sety="76476,76440,76439,76477,76471,76474"></div>
+
 ### Jak dobić do 525 zł bez przepłacania
 
 Jeśli już decydujesz się kupować na LEGO.com, najsensowniej dobrać zestawy, które i tak są blisko ceny katalogowej wszędzie. Dwa praktyczne zestawienia:

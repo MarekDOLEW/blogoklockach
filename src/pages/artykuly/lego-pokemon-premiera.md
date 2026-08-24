@@ -8,6 +8,10 @@ kategoria: "Premiera"
 
 LEGO i Pokémon — na tę współpracę fani czekali latami. W sierpniu do sklepów trafiło **18 zestawów jednocześnie**: trzy duże modele kolekcjonerskie i cała linia interaktywna SMART Play.
 
+Premierowa fala w jednym miejscu — przewiń zdjęcia:
+
+<div class="galeria-setow" data-sety="72160,72150,72168,72164,72167"></div>
+
 ## Trzy modele kolekcjonerskie — nasz ranking opłacalności
 
 | Zestaw | Cena | Elementy | zł/klocek |

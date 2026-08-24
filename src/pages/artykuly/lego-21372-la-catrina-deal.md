@@ -8,6 +8,8 @@ kategoria: "Deal"
 
 Rzadko się zdarza, żeby zestaw taniał o niemal jedną trzecią **w miesiącu premiery** — a dokładnie to spotkało La Catrinę. Amazon wycenił sierpniową nowość Ideas na **359,90 zł** przy cenie katalogowej **519,99 zł**, czyli o 40–90 zł taniej niż w pozostałych sklepach.
 
+<div class="galeria-setow" data-sety="21372"></div>
+
 ## Porównanie cen (sprawdzone 11.08.2026)
 
 | Sklep | Cena | Rabat od katalogowej |
