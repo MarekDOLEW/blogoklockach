@@ -228,3 +228,35 @@ mamy ceny w zł, a API da EUR dla tych samych numerów. Rozrzut mnożnika
 na kilkuset setach powie, czy LEGO trzyma stałe progi cenowe per rynek
 (wtedy przeliczanie jest bezpieczne), czy nie (wtedy cena z przeliczenia
 nie nadaje się do liczenia rabatu i lepiej zostawić puste pole).
+
+## 2026-08-24 (2) · CODE (Scout) · Przelicznik EUR→PLN zbadany
+
+**Zrobione:**
+- Pobrane z API roczniki 2026 (913 setów, 2 wywołania `getSets`), 2024 i 2022
+  (po 1). Zestawione z cenami w zł z `katalog.json`.
+- **Przelicznik jest stabilny wewnątrz rocznika, ale dryfuje między nimi:**
+  2026 → 4,223 (n=345, odch. 0,077), 2024 → 4,303, 2022 → 4,348.
+  97,4% par mieści się w ±10% od mediany rocznika.
+- Wniosek: przeliczanie jest bezpieczne dla roczników 2024–2026 przy użyciu
+  mnożnika właściwego dla rocznika premiery. Jeden mnożnik globalny byłby
+  błędny. Dla starszych roczników rozrzut rośnie i cena z przeliczenia
+  przestaje nadawać się do liczenia rabatu.
+- Rozbicie per seria nie pokazuje różnic (wszystko 4,10–4,29), więc mnożnika
+  per seria nie trzeba. Per próg cenowy jest lekki wzrost (4,17 → 4,32),
+  efekt zaokrągleń do `,99`.
+- **Znalezione przy okazji: 9 zestawów rocznika 2026 ma najpewniej błędną
+  cenę katalogową u nas** — mnożnik od 3,5 do 12,2 przy zgodnej liczbie
+  elementów. Osiem z nich jest zawyżonych, czyli generują zawyżony rabat.
+  Lista w RUNBOOKU.
+- `RUNBOOK.md`: sekcje „Przelicznik EUR→PLN" i „Podejrzane ceny katalogowe".
+
+**Stan:** analiza gotowa, nic nie zapisane do `katalog.json` — zgodnie
+z ustaleniem czekamy na raport indeksowania GSC.
+
+**Do decyzji Marka:**
+1. Czy backfill ma używać mnożnika per rocznik (rekomendacja: tak) i czy
+   ograniczyć go do roczników 2024+.
+2. Czy ceny wyliczone oznaczać osobnym polem (rekomendacja: tak — inaczej
+   za pół roku nie odróżnimy odczytanej od policzonej).
+3. Dziewięć podejrzanych cen do weryfikacji na LEGO.com PL — to warto
+   poprawić niezależnie od backfillu, bo psuje wiarygodność rabatów już dziś.

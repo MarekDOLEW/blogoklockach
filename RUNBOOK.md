@@ -257,3 +257,54 @@ komplementarne metadane katalogowe, nie scraping. Trzymamy się tego
 dosłownie: **tylko odczyt, tylko metadane, przyrostowo po `updatedSince`.**
 Bez masowego zaciągania całej bazy „na zapas", bez odsprzedaży danych, bez
 budowania z tego kopii Bricksetu.
+
+### Przelicznik EUR→PLN dla cen katalogowych *(zbadane 24.08.2026)*
+
+LEGO **nie przelicza cen kursem walutowym** — trzyma osobne progi cenowe per
+rynek, ale progi są ze sobą powiązane na tyle mocno, że przelicznik jest
+stabilny wewnątrz rocznika. Zmierzone na parach, dla których mamy cenę w zł
+w `katalog.json` i cenę DE w EUR z API:
+
+| Rocznik | Par | Mediana | Odch. std | Odstających >10% |
+|---|---|---|---|---|
+| 2026 | 345 | **4,223** | 0,077 | 9 (2,6%) |
+| 2024 | 176 | **4,303** | 0,104 | 4 (2,3%) |
+| 2022 | 76 | **4,348** | 0,183 | 6 (7,9%) |
+
+**Przelicznik dryfuje między rocznikami — jeden mnożnik globalny byłby
+błędny.** Trzeba stosować mnożnik wyznaczony dla rocznika premiery zestawu.
+Rozrzut rośnie z wiekiem rocznika, więc dla setów starszych niż ~2022 cena
+z przeliczenia jest coraz mniej wiarygodna.
+
+W obrębie rocznika 2026 przelicznik lekko rośnie z ceną: 4,17 dla setów do
+40 EUR, 4,32 powyżej 150 EUR. To efekt zaokrąglania do progów `,99`.
+Rozbicie na serie nie pokazuje różnic — wszystkie mieszczą się w 4,10–4,29,
+więc mnożnika per seria nie trzeba.
+
+**Wniosek dla backfillu:** przeliczanie jest bezpieczne dla roczników
+2024–2026, pod warunkiem użycia mnożnika właściwego dla rocznika i oznaczenia
+ceny jako wyliczonej, a nie odczytanej. Dla starszych roczników — ostrożnie.
+
+### Podejrzane ceny katalogowe *(znalezione przy okazji, 24.08.2026)*
+
+Test przelicznika działa też jako audyt naszych danych. W roczniku 2026
+dziewięć zestawów ma mnożnik daleki od 4,22 **przy zgodnej liczbie
+elementów** (więc to nie jest pomyłka w dopasowaniu setu) — czyli to nasza
+cena jest najpewniej zła:
+
+| Numer | Nasze | EUR | Mnożnik | Z przelicznika |
+|---|---|---|---|---|
+| 42682 Nature Glamping Cabin | 304,99 | 24,99 | 12,20 | ~105 zł |
+| 43294 Rapunzel's Mini Tower | 179,99 | 19,99 | 9,00 | ~84 zł |
+| 42702 Spinning Flower & Fairy Teacup Ride | 309,99 | 39,99 | 7,75 | ~169 zł |
+| 43289 Belle & the Beast's Enchanted Castle | 279,99 | 39,99 | 7,00 | ~169 zł |
+| 11507 Olivia Rodrigo's Flower Bouquet | 289,99 | 44,99 | 6,45 | ~190 zł |
+| 76347 Avengers: Doomsday Quinjet | 349,99 | 59,99 | 5,83 | ~253 zł |
+| 42694 Pizza Truck | 84,99 | 14,99 | 5,67 | ~63 zł |
+| 43298 Disney Advent Calendar 2026 | 174,99 | 34,99 | 5,00 | ~148 zł |
+| 76474 Hogwarts Herbology Plants | 349,99 | 99,99 | 3,50 | ~422 zł |
+
+**Osiem z dziewięciu jest zawyżonych** — a zawyżona cena katalogowa to
+zawyżony rabat na stronie zestawu, czyli dokładnie ta pseudopromocja, której
+zakazuje `CLAUDE.md`. Do ręcznej weryfikacji na LEGO.com PL przed backfillem;
+te dziewięć poprawiamy niezależnie od decyzji o przeliczaniu.
