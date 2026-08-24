@@ -69,7 +69,8 @@ const jsonld = [artykulJsonld, okruszkiJsonld, ...(listaJsonld ? [listaJsonld] :
       </span>
     </p>
     <h1>{title}</h1>
-    <p class="disclosure">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej, a najtańszą ofertę pokazujemy zawsze.</p>
     <slot />
+    <!-- Nota afiliacyjna zamyka tekst — tak samo jak w Artykul.astro. -->
+    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej.</p>
   </article>
 </Base>

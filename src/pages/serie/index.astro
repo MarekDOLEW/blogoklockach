@@ -2,16 +2,76 @@
 import Base from '../../layouts/Base.astro';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
+import ofertyFeed from '../../data/oferty_feed.json';
+import { urlZdjecia } from '../../lib/media.js';
+
+const feed = ofertyFeed?.sety ?? {};
 const zSetow = Object.values(sety).map((s) => s.seria);
 const zKatalogu = Object.keys(katalog).filter((k) => k !== '_meta');
 const serie = [...new Set([...zSetow, ...zKatalogu])].sort((a, b) => a.localeCompare(b, 'pl'));
 const slug = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
+
+// Kafel serii pokazuje zdjęcia jej najświeższych zestawów — obrazek mówi
+// o serii więcej niż sama nazwa. Kolejność kandydatów: najpierw zestawy
+// śledzone cenowo (sety.json, po dacie premiery), potem reszta katalogu
+// (bez wycofanych, po roku). Bierzemy tylko te ze zdjęciem — puste okienko
+// psułoby kafel bardziej, niż pomaga.
+const LICZBA_FOTEK = 3;
+
+// „1 zestaw", „3 zestawy", „21 zestawów" — polska odmiana liczebnika
+const odmienZestaw = (n) => {
+  if (n === 1) return 'zestaw';
+  const dziesiatki = n % 100;
+  const jednosci = n % 10;
+  return jednosci >= 2 && jednosci <= 4 && !(dziesiatki >= 12 && dziesiatki <= 14) ? 'zestawy' : 'zestawów';
+};
+
+const sledzone = (seria) =>
+  Object.entries(sety)
+    .filter(([, s]) => s.seria === seria)
+    .map(([nr, s]) => ({ nr, premiera: s.premiera ?? '' }))
+    .sort((a, b) => b.premiera.localeCompare(a.premiera));
+
+const zKatalogu2 = (seria) =>
+  (katalog[seria] ?? [])
+    .filter((s) => s.status !== 'eol')
+    .slice()
+    .sort((a, b) => b.rok - a.rok)
+    .map((s) => ({ nr: s.numer, premiera: String(s.rok) }));
+
+const kafle = serie.map((seria) => {
+  const kandydaci = [...sledzone(seria), ...zKatalogu2(seria)];
+  const foty = [];
+  const uzyte = new Set();
+  for (const k of kandydaci) {
+    if (foty.length >= LICZBA_FOTEK || uzyte.has(k.nr)) continue;
+    const url = urlZdjecia(k.nr, { sety, feed });
+    if (!url) continue;
+    uzyte.add(k.nr);
+    foty.push(url);
+  }
+  const liczba = (katalog[seria] ?? []).length || Object.values(sety).filter((s) => s.seria === seria).length;
+  return { seria, url: `/serie/${slug(seria)}/`, foty, liczba };
+});
 ---
 <Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
   <h1 style="margin-top:28px">Serie LEGO</h1>
-  <div class="siatka">
-    {serie.map((seria) => (
-      <a class="karta set-karta" href={`/serie/${slug(seria)}/`}><h3>{seria}</h3><span class="za-klocek">zobacz zestawy →</span></a>
+  <p>Każda seria to osobny katalog z aktualnymi cenami i statusem wycofania. Na kaflach — najświeższe zestawy z danej serii.</p>
+  <div class="siatka siatka--serie">
+    {kafle.map((k) => (
+      <a class="karta seria-karta" href={k.url}>
+        {k.foty.length > 0 ? (
+          <span class="seria-foty" aria-hidden="true">
+            {k.foty.map((f) => <img src={f} alt="" loading="lazy" width="200" height="200" />)}
+          </span>
+        ) : (
+          <span class="seria-foty seria-foty--brak" aria-hidden="true">
+            <span class="studs studs--granat"><i></i><i></i><i></i><i></i></span>
+          </span>
+        )}
+        <h2>{k.seria}</h2>
+        <span class="seria-meta">{k.liczba > 0 ? `${k.liczba} ${odmienZestaw(k.liczba)} · ` : ''}zobacz ceny →</span>
+      </a>
     ))}
   </div>
 </Base>

@@ -1,56 +1,52 @@
 ---
 import Base from '../layouts/Base.astro';
+import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
+import { zajawkiArtykulow, zajawkaZMeta } from '../lib/artykuly.js';
 
 // Lista wylicza się z frontmattera artykułów (kategoria: "Prezentownik"),
 // a nie z ręcznej tablicy — nowy prezentownik pojawia się tu sam, bez edycji
 // tego pliku. Pola karta_* pozwalają dać karcie krótszy tytuł i opis niż
 // w samym artykule; gdy ich nie ma, karta bierze title i opis z frontmattera,
 // a znacznik — samą nazwę kategorii, żeby plakietka nie została pusta.
+// Zdjęcie karty wybiera się samo: pierwsze zdjęcie z treści artykułu
+// (patrz src/lib/artykuly.js).
 //
 // Kolejność: malejąco po dacie. Trzy prezentowniki na 1 września mają tę samą
 // datę publikacji, a ich układ (najpierw rodzinny, potem warianty budżetowe)
 // jest decyzją redakcyjną — rozstrzyga ją karta_kolejnosc, wyłącznie przy
 // remisie dat. Nowy prezentownik ze świeższą datą trafia na górę bez tego pola.
 const kolejnosc = (m) => m.frontmatter.karta_kolejnosc ?? 99;
-const zMarkdownu = Object.entries({
-  ...import.meta.glob('./artykuly/*.md', { eager: true }),
-  ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
-})
-  .map(([, m]) => m)
-  .filter((m) => m.frontmatter.kategoria === 'Prezentownik')
-  .sort(
-    (a, b) =>
-      new Date(b.frontmatter.data) - new Date(a.frontmatter.data) || kolejnosc(a) - kolejnosc(b),
-  )
-  .map((m) => ({
-    url: m.url + '/',
-    znacznik: m.frontmatter.karta_znacznik ?? m.frontmatter.kategoria,
-    tytul: m.frontmatter.karta_tytul ?? m.frontmatter.title,
-    opis: m.frontmatter.karta_opis ?? m.frontmatter.opis,
-    data: m.frontmatter.data,
-  }));
+const zMarkdownu = zajawkiArtykulow(
+  Object.entries({
+    ...import.meta.glob('./artykuly/*.md', { eager: true }),
+    ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
+  })
+    .map(([, m]) => m)
+    .filter((m) => m.frontmatter.kategoria === 'Prezentownik')
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.data) - new Date(a.frontmatter.data) || kolejnosc(a) - kolejnosc(b),
+    ),
+  { karty: true },
+);
 
 // Prezentowniki serii są stronami .astro (treść sterowana danymi z katalogu
 // i cen, więc markdown by ich nie udźwignął). Każda taka strona eksportuje
 // `meta` z danymi karty — hub czyta je tak samo jak frontmatter markdownu,
 // dzięki czemu nowa seria pojawia się tutaj bez edycji tego pliku.
+// Zdjęcie karty wskazuje pole `okladka` w `meta` (numer zestawu).
 const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
   .map((m) => m.meta)
-  .filter(Boolean);
+  .filter(Boolean)
+  .map(zajawkaZMeta);
 
 const przewodniki = [...zAstro, ...zMarkdownu].sort((a, b) => new Date(b.data) - new Date(a.data));
 ---
 <Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
-  <article style="margin-top:28px">
-    <h1>Prezentowniki</h1>
-    <p>Przewodniki prezentowe według wieku, budżetu i okazji. Każda cena z datą sprawdzenia, każdy rabat liczony od oficjalnej ceny katalogowej LEGO — bez pseudopromocji.</p>
+  <h1 style="margin-top:28px">Prezentowniki</h1>
+  <p>Przewodniki prezentowe według wieku, budżetu i okazji. Każda cena z datą sprawdzenia, każdy rabat liczony od oficjalnej ceny katalogowej LEGO — bez pseudopromocji.</p>
 
-    {przewodniki.map((p) => (
-      <a href={p.url} class="karta" style="display:block; padding:18px 20px; margin:14px 0; text-decoration:none;">
-        <span style="font-size:0.78rem; font-weight:700; color:var(--granat-60); text-transform:uppercase; letter-spacing:0.04em;">{p.znacznik}</span>
-        <h2 style="margin:4px 0 6px;">{p.tytul}</h2>
-        <p style="margin:0; color:var(--granat-60);">{p.opis}</p>
-      </a>
-    ))}
-  </article>
+  <div class="zajawki">
+    {przewodniki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}
+  </div>
 </Base>

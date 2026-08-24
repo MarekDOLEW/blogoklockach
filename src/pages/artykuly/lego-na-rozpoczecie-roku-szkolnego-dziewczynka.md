@@ -12,7 +12,9 @@ karta_opis: "10 zestawów 4–12 lat: Grand Hotel Heartlake za 458 zł (−30%),
 
 Nowy plecak i piórnik to obowiązek — ale to nie one osłodzą koniec wakacji. Wybraliśmy **10 zestawów LEGO dla dziewczynek w wieku 4–12 lat**, wszystkie **do 500 zł** i w prawdziwych promocjach: rabaty liczymy od oficjalnych cen katalogowych LEGO, nigdy od cen „przekreślonych" w sklepach. Od 24-złotowego stoiska z lodami po Grand Hotel, który robi wrażenie nawet na dorosłych.
 
-*Część linków to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc ani grosza więcej.*
+Wszystkie dziesięć zestawów z tego zestawienia — przewiń zdjęcia, żeby zobaczyć, co jest w środku:
+
+<div class="galeria-setow" data-sety="42704,41734,42649,71457,42686,31166,42695,42679,11212,42692"></div>
 
 ## TOP 3 w skrócie
 

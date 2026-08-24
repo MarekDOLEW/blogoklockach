@@ -67,9 +67,19 @@ a { color: inherit; }
 .logo em { font-style: normal; color: var(--czerwien); }
 .nav { display: flex; gap: 2px; flex-wrap: wrap; margin-left: auto; }
 .nav a { text-decoration: none; font-size: 0.88rem; font-weight: 600; padding: 8px 9px; border-radius: 6px; color: var(--granat-60); white-space: nowrap; }
-.nav a:hover, .nav a[aria-current="page"] { background: var(--papier); color: var(--granat); }
+.nav a:hover { background: var(--papier); color: var(--granat); }
 .nav a.nav--hot { background: var(--zolty); color: var(--granat); }
 .nav a.nav--hot:hover { background: var(--zolty-ciemny); }
+/* Bieżąca sekcja: żółta belka pod pozycją + mocniejszy tekst — użytkownik
+   na podstronie widzi, gdzie w serwisie jest. Sama zmiana koloru tekstu
+   nie wystarcza (WCAG 1.4.1: informacja nie może zależeć od samego koloru). */
+.nav a[aria-current] {
+  background: var(--papier);
+  color: var(--granat);
+  font-weight: 700;
+  box-shadow: inset 0 -3px 0 var(--zolty);
+}
+.nav a.nav--hot[aria-current] { background: var(--zolty); box-shadow: inset 0 -3px 0 var(--granat); }
 
 /* ---------- Karty i badge ---------- */
 .karta { background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); }
@@ -203,12 +213,51 @@ a { color: inherit; }
 .pg-przycisk:disabled { opacity: 0.4; cursor: default; }
 .pg-licznik { font-size: 0.88rem; color: var(--granat-60); font-variant-numeric: tabular-nums; }
 
-.zajawki { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+/* Zajawka artykułu — ten sam kafel na stronie głównej, w /artykuly/
+   i w /prezentownikach/. Kolejność w karcie: data i kategoria, zdjęcie
+   z tematu tekstu, tytuł, opis. Trzy w rzędzie na desktopie. */
+.zajawki { display: grid; gap: 16px; grid-template-columns: repeat(3, 1fr); margin-bottom: 40px; }
+@media (max-width: 900px) { .zajawki { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .zajawki { grid-template-columns: 1fr; } }
+/* min-width:0 — bez tego atrybut width obrazka wyznacza minimalną szerokość kolumny */
+.zajawki > * { min-width: 0; }
 .zajawka { padding: 18px; display: flex; flex-direction: column; gap: 6px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
 .zajawka:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
-.zajawka h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+.zajawka h2, .zajawka h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
 .zajawka p { margin: 0; font-size: 0.88rem; color: var(--granat-60); }
 .zajawka-wiecej { font-size: 0.85rem; font-weight: 700; margin-top: auto; padding-top: 6px; }
+.zajawka-foto {
+  /* height:auto jest konieczne — bez niego atrybut height obrazka wygrywa
+     z aspect-ratio i kafel rośnie do pełnej wysokości z HTML-a */
+  width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain;
+  background: #fff; border: 1px solid var(--linia); border-radius: 8px;
+  margin: 4px 0 2px;
+}
+.zajawka-foto--brak {
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(160deg, #fff 0%, var(--papier) 100%);
+  border-style: dashed;
+}
+
+/* ---------- Kafle serii ze zdjęciami najświeższych zestawów ---------- */
+.siatka--serie { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+.siatka--serie > * { min-width: 0; }
+.seria-karta { padding: 14px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
+.seria-karta:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
+.seria-karta h2 { margin: 0; font-size: 1.1rem; }
+/* Mozaika: pierwsze (najświeższe) zdjęcie duże, dwa kolejne mniejsze obok.
+   Stała wysokość paska — kafle serii mają wtedy równą wysokość niezależnie
+   od tego, ile zdjęć udało się znaleźć. */
+/* minmax(0, …) zamiast samego 1fr — inaczej własna wysokość zdjęcia wyznacza
+   minimum wiersza i pasek rozpycha się poza zadane 132 px, wchodząc na tytuł */
+.seria-foty { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) minmax(0, 1fr); gap: 6px; height: 132px; }
+.seria-foty img { width: 100%; height: 100%; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 6px; }
+.seria-foty img:first-child { grid-row: 1 / 3; }
+/* jedno zdjęcie zajmuje cały pasek, dwa — dwie kolumny na pełną wysokość */
+.seria-foty img:only-child { grid-column: 1 / 3; }
+.seria-foty img:nth-child(2):last-child { grid-row: 1 / 3; }
+.seria-foty--brak { height: 132px; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 6px; }
+.seria-meta { font-size: 0.82rem; color: var(--granat-60); font-weight: 600; margin-top: auto; }
 
 /* ---------- Zdjęcia setów ---------- */
 .set-hero { display: grid; gap: 24px; grid-template-columns: minmax(280px, 420px) 1fr; align-items: start; margin-top: 24px; }
@@ -372,8 +421,10 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
    mniejsze śródtytuły z sygnaturą wypustek, czytelne tabele. */
 .prose { line-height: 1.78; }
 .prose p { margin: 0 0 1.25em; }
-.prose > h1 + .disclosure + p:first-of-type,
+.prose > h1 + p,
 .prose > h1 ~ p.lead { font-size: 1.08rem; }
+/* nota afiliacyjna zamyka artykuł — trzyma dystans od ostatniego akapitu */
+.disclosure--stopka { margin: 2.4em 0 0; }
 .prose li { margin-bottom: 0.45em; }
 .prose ol, .prose ul { padding-left: 1.3em; margin: 0 0 1.4em; }
 
@@ -636,4 +687,41 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
   .prose .prezent { grid-template-columns: 1fr; gap: 16px; padding: 16px; }
   .prose .prezent__media { max-width: 260px; margin: 0 auto; position: static; }
   .prose .galeria { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 10px; }
+}
+
+/* ---------- Slajder zdjęć zestawów w treści artykułu ----------
+   Znacznik <div class="galeria-setow" data-sety="…"> zamienia się przy
+   budowaniu na ten układ (scripts/remark-galeria.mjs). Przewijanie robi
+   scroll-snap — palcem i trackpadem działa bez JS-a; skrypt w layoucie
+   artykułu dokłada strzałki i kropki. */
+.galeria-slajder { margin: 1.6em 0 2em; }
+.gs-okno { position: relative; }
+.gs-tor { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; padding: 2px; }
+.gs-tor::-webkit-scrollbar { display: none; }
+.gs-slajd {
+  flex: 0 0 min(300px, 78%); margin: 0; scroll-snap-align: start;
+  background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius);
+  box-shadow: var(--shadow); overflow: hidden;
+}
+.gs-slajd a { display: block; }
+.gs-slajd img { display: block; width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 0; }
+.gs-slajd figcaption { font-size: 0.78rem; line-height: 1.35; color: var(--granat-60); padding: 8px 12px 10px; border-top: 1px solid var(--linia); }
+.galeria-slajder--jedno .gs-slajd { max-width: 420px; }
+.gs-strzalka {
+  position: absolute; top: 50%; transform: translateY(-50%); z-index: 2;
+  width: 38px; height: 38px; border: 0; border-radius: 50%;
+  background: var(--granat); color: #fff; font-size: 1.35rem; line-height: 1;
+  cursor: pointer; box-shadow: 0 4px 16px rgba(23,35,63,0.25);
+}
+.gs-strzalka:hover:not(:disabled) { background: #0f1830; }
+.gs-strzalka:disabled { opacity: 0; pointer-events: none; }
+.gs-strzalka--wstecz { left: -10px; }
+.gs-strzalka--dalej { right: -10px; }
+.gs-kropki { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.gs-kropka { width: 10px; height: 10px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+.gs-kropka:hover { border-color: var(--granat); }
+.gs-kropka--aktywna { background: var(--zolty); border-color: var(--granat); }
+@media (max-width: 760px) {
+  /* na dotyku przewija się palcem — strzałki tylko zasłaniałyby zdjęcia */
+  .gs-strzalka { display: none; }
 }

@@ -25,6 +25,8 @@ Siedem lat to wiek, w którym dziecko zwykle buduje już samodzielnie z instrukc
 
 ## Nasz wybór: LEGO City 60496 Dostawa pizzy
 
+<div class="galeria-setow" data-sety="60496"></div>
+
 **Dlaczego akurat ten.** Ma trzy rzeczy, które przy siedmiolatku decydują: pojazdy (a nie statyczny model), rozsądną liczbę elementów i zabawę, która trwa po zbudowaniu. Skuter i furgonetka wjeżdżają od razu do każdej istniejącej kolekcji City — jeśli dziecko ma już jakikolwiek zestaw z tej serii, ten się z nim połączy zamiast leżeć obok.
 
 | Co warto wiedzieć | |
@@ -42,6 +44,8 @@ Realna cena w sklepach chodzi wyraźnie poniżej katalogowej — aktualne oferty
 
 ## Jeśli budżet jest mniejszy: Ninjago 71864 Pojazdy Kaia i Cole'a
 
+<div class="galeria-setow" data-sety="71864,76475,21593"></div>
+
 Dwa pojazdy i trzy postacie za mniej więcej połowę ceny powyższego zestawu. Dla dziecka, które nie zna jeszcze Ninjago, to dobry punkt wejścia — postacie są tu ważniejsze niż same pojazdy i to one napędzają późniejszą zabawę.
 
 | Co warto wiedzieć | |
@@ -58,6 +62,8 @@ Ceny w sklepach: [strona zestawu 71864](/zestaw/71864/).
 **Kiedy tego nie kupować:** jeśli dziecko nie ogląda Ninjago i nie zna postaci. Wtedy zostają dwa zwykłe pojazdy, a cała wartość serii przepada. W takim wypadku lepszy będzie [Zakazany Las z Harry'ego Pottera](/zestaw/76475/) w podobnej cenie albo [Minecraft: Przetrwanie pierwszej nocy](/zestaw/21593/), jeśli dziecko gra.
 
 ## Jeśli budżet jest większy: LEGO City 60506 Tramwaj przy plaży
+
+<div class="galeria-setow" data-sety="60506,60511"></div>
 
 Tu pojawia się efekt, którego brakuje tańszym pudełkom: duży, kolorowy model, który po zbudowaniu wygląda jak fragment miasta. Motyw komunikacji miejskiej jest w City rzadki, więc szansa, że dziecko ma już coś podobnego, jest mała.
 

@@ -12,7 +12,9 @@ karta_opis: "10 zestawów 4–12 lat w realnych promocjach: pociąg City za 239 
 
 Pierwszy września zbliża się wielkimi krokami — i choć dzieci wolałyby, żeby wakacje trwały wiecznie, mała „osłoda" na start roku szkolnego potrafi zdziałać cuda. Zebraliśmy **10 zestawów LEGO dla chłopców w wieku 4–12 lat**, wszystkie **poniżej 500 zł** i wszystkie w realnych promocjach — rabaty liczymy wyłącznie od oficjalnych cen katalogowych LEGO, nie od cen „przekreślonych".
 
-*Część linków to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc ani grosza więcej.*
+Wszystkie dziesięć zestawów z tego zestawienia — przewiń zdjęcia, żeby zobaczyć, co jest w środku:
+
+<div class="galeria-setow" data-sety="60337,42212,21268,60339,71441,75384,76459,42219,60404,42163"></div>
 
 ## TOP 3 w skrócie
 

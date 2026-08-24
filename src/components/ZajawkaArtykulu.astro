@@ -1,0 +1,27 @@
+---
+// Karta artykułu: data i kategoria, pod nimi zdjęcie z tematu tekstu,
+// dalej tytuł i opis. Ten sam komponent na stronie głównej, w /artykuly/
+// i w /prezentownikach/ — trzy listingi wyglądają identycznie.
+const { zajawka, poziom = 3 } = Astro.props;
+const Tytul = `h${poziom}`;
+---
+<a class="karta zajawka" href={zajawka.url}>
+  <span class="nr">{zajawka.data} · {zajawka.kategoria}</span>
+  {zajawka.foto ? (
+    <img
+      class="zajawka-foto"
+      src={zajawka.foto}
+      alt={zajawka.fotoAlt}
+      loading="lazy"
+      width="480"
+      height="360"
+    />
+  ) : (
+    <span class="zajawka-foto zajawka-foto--brak" aria-hidden="true">
+      <span class="studs studs--granat"><i></i><i></i><i></i><i></i></span>
+    </span>
+  )}
+  <Tytul>{zajawka.tytul}</Tytul>
+  <p>{zajawka.opis}</p>
+  <span class="zajawka-wiecej">Czytaj →</span>
+</a>

@@ -5,6 +5,8 @@ import sety from '../data/sety.json';
 import wycofaniaDane from '../data/wycofania.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia } from '../lib/media.js';
+import { zajawkaArtykulu } from '../lib/artykuly.js';
+import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 
@@ -109,7 +111,8 @@ const artykuly = Object.entries({
   // czy to artykuł (patrz NARZEDZIA.md)
   .filter((m) => m.frontmatter?.kategoria)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
-  .slice(0, 3);
+  .slice(0, 3)
+  .map((m) => zajawkaArtykulu(m));
 ---
 <Base
   title="Promocje LEGO dziś — prawdziwe rabaty"
@@ -247,14 +250,7 @@ const artykuly = Object.entries({
         <h2>Ostatnio na blogu</h2>
       </div>
       <div class="zajawki">
-        {artykuly.map((a) => (
-          <a class="karta zajawka" href={a.url + '/'}>
-            <span class="nr">{a.frontmatter.data} · {a.frontmatter.kategoria}</span>
-            <h3>{a.frontmatter.title}</h3>
-            <p>{a.frontmatter.opis}</p>
-            <span class="zajawka-wiecej">Czytaj →</span>
-          </a>
-        ))}
+        {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
       </div>
     </section>
   )}

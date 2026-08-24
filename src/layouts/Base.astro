@@ -5,6 +5,29 @@ import '../styles/global.css';
 const { title, description, jsonld, ogImage = '/og.png' } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
+
+// Menu główne w jednym miejscu — stąd bierze się też zaznaczenie bieżącej
+// sekcji. Bez tego użytkownik na podstronie nie wie, gdzie w serwisie jest.
+const MENU = [
+  { href: '/', etykieta: '🔥 Promocje dziś', klasa: 'nav--hot' },
+  { href: '/kalendarz-promocji-lego/', etykieta: 'Kalendarz' },
+  { href: '/nowosci/', etykieta: 'Nowości' },
+  { href: '/zapowiedzi-lego-2027/', etykieta: 'Zapowiedzi' },
+  { href: '/wycofania/', etykieta: 'Wycofania' },
+  { href: '/serie/', etykieta: 'Serie' },
+  { href: '/prezentowniki/', etykieta: 'Prezentowniki' },
+  { href: '/kolekcjoner/', etykieta: 'Kolekcjoner' },
+  { href: '/artykuly/', etykieta: 'Artykuły' },
+];
+// „/" tylko dla samej strony głównej; pozostałe pozycje świecą także na swoich
+// podstronach (/serie/technic/ podświetla „Serie", /artykuly/<tekst>/ — „Artykuły").
+// aria-current="page" dla dokładnego trafienia, "true" dla sekcji nadrzędnej.
+const sciezka = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+const stanPozycji = (href) => {
+  if (sciezka === href) return 'page';
+  if (href !== '/' && sciezka.startsWith(href)) return 'true';
+  return undefined;
+};
 ---
 <!doctype html>
 <html lang="pl">
@@ -50,15 +73,9 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
           <span class="nav-przycisk-tekst">Menu</span>
         </button>
         <nav class="nav" id="menu-glowne" aria-label="Menu główne">
-          <a class="nav--hot" href="/">🔥 Promocje dziś</a>
-          <a href="/kalendarz-promocji-lego/">Kalendarz</a>
-          <a href="/nowosci/">Nowości</a>
-          <a href="/zapowiedzi-lego-2027/">Zapowiedzi</a>
-          <a href="/wycofania/">Wycofania</a>
-          <a href="/serie/">Serie</a>
-          <a href="/prezentowniki/">Prezentowniki</a>
-          <a href="/kolekcjoner/">Kolekcjoner</a>
-          <a href="/artykuly/">Artykuły</a>
+          {MENU.map((poz) => (
+            <a class={poz.klasa} href={poz.href} aria-current={stanPozycji(poz.href)}>{poz.etykieta}</a>
+          ))}
         </nav>
       </div>
     </header>

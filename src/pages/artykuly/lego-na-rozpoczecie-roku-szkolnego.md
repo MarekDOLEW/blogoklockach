@@ -14,7 +14,9 @@ Rok szkolny 2026/2027 startuje 1 września — a wraz z nim tradycja „czegoś 
 
 Szukasz czegoś konkretnego w budżecie do 500 zł? Mamy osobne zestawienia: [dla chłopca](/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/) i [dla dziewczynki](/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/).
 
-*Część linków to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc ani grosza więcej.*
+Wszystkie dziesięć zestawów z tego zestawienia — przewiń zdjęcia, żeby zobaczyć, co jest w środku:
+
+<div class="galeria-setow" data-sety="76454,72164,60470,71425,10698,31168,71872,42175,42704,72167"></div>
 
 ## TOP 3 w skrócie
 

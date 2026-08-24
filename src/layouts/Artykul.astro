@@ -57,7 +57,62 @@ const jsonld = [artykulJsonld, okruszkiJsonld, ...(faqJsonld ? [faqJsonld] : [])
       </span>
     </p>
     <h1>{frontmatter.title}</h1>
-    <p class="disclosure">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej, a najtańszą ofertę pokazujemy zawsze.</p>
     <slot />
+    <!-- Nota afiliacyjna zamyka tekst: stoi pod treścią i pod linią „Zobacz też",
+         czyli jako ostatni element artykułu. -->
+    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej.</p>
   </article>
 </Base>
+
+<script>
+  // Slajdery zdjęć zestawów wstawione w treść znacznikiem
+  // <div class="galeria-setow" data-sety="…"> (scripts/remark-galeria.mjs).
+  // Samo przewijanie robi scroll-snap — palcem i trackpadem działa bez JS-a.
+  // Skrypt dokłada tylko strzałki, kropki i obsługę klawiszy.
+  for (const galeria of document.querySelectorAll('[data-galeria]')) {
+    const tor = galeria.querySelector('[data-gs-tor]');
+    const slajdy = [...tor.children];
+    const kropki = [...galeria.querySelectorAll('[data-gs-kropka]')];
+    if (slajdy.length < 2) continue;
+
+    // pozycje liczymy względem pierwszego slajdu — szerokość slajdu zmienia się
+    // z szerokością ekranu, więc przewijanie „o jedno okno" by nie trafiało
+    const bazowy = slajdy[0].offsetLeft;
+    let indeks = 0;
+
+    const wstecz = galeria.querySelector('[data-gs="wstecz"]');
+    const dalej = galeria.querySelector('[data-gs="dalej"]');
+
+    const zaznacz = () => {
+      kropki.forEach((k, i) => k.classList.toggle('gs-kropka--aktywna', i === indeks));
+      // strzałka na krańcu tylko myli — wygaszamy ją zamiast udawać, że działa
+      if (wstecz) wstecz.disabled = indeks === 0;
+      if (dalej) dalej.disabled = indeks === slajdy.length - 1;
+    };
+
+    const idz = (i) => {
+      indeks = Math.max(0, Math.min(slajdy.length - 1, i));
+      tor.scrollTo({ left: slajdy[indeks].offsetLeft - bazowy, behavior: 'smooth' });
+    };
+
+    galeria.addEventListener('click', (e) => {
+      const strzalka = e.target.closest('[data-gs]');
+      if (strzalka) idz(indeks + (strzalka.dataset.gs === 'dalej' ? 1 : -1));
+      const kropka = e.target.closest('[data-gs-kropka]');
+      if (kropka) idz(Number(kropka.dataset.gsKropka));
+    });
+
+    tor.addEventListener('scroll', () => {
+      const odleglosc = (i) => Math.abs(slajdy[i].offsetLeft - bazowy - tor.scrollLeft);
+      const najblizszy = slajdy.reduce((naj, _, i) => (odleglosc(i) < odleglosc(naj) ? i : naj), 0);
+      if (najblizszy !== indeks) { indeks = najblizszy; zaznacz(); }
+    }, { passive: true });
+
+    tor.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') { e.preventDefault(); idz(indeks + 1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); idz(indeks - 1); }
+    });
+
+    zaznacz();
+  }
+</script>
