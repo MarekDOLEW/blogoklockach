@@ -1,0 +1,23 @@
+---
+// Galeria zdjęć zestawów na górze prezentownika serii — wizualny spis treści.
+// Każdy kafelek prowadzi do własnej sekcji w tekście (kotwica #zestaw-<nr>),
+// a nie od razu na zewnątrz: czytelnik najpierw czyta uzasadnienie, dopiero
+// potem klika do sklepu. Zdjęcia idą przez worker (/img/<numer>.jpg), więc
+// serwujemy je z własnej domeny i mamy trwałą kopię w R2.
+const { zestawy } = Astro.props;
+const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+---
+<section class="galeria" aria-label="Zestawy opisane w tym przewodniku">
+  {zestawy.map((z) => (
+    <a class="galeria__kafel" href={`#zestaw-${z.nr}`}>
+      <span class="galeria__foto">
+        <img src={`/img/${z.nr}.jpg`} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" decoding="async" width="300" height="300" />
+      </span>
+      <span class="galeria__etykieta">{z.etykieta}</span>
+      <span class="galeria__nazwa">{z.nazwa}</span>
+      <span class="galeria__cena">
+        {z.dobra ? <>dobra cena od <b>{zl(z.dobra)}</b></> : <>katalogowo {zl(z.rrp)}</>}
+      </span>
+    </a>
+  ))}
+</section>

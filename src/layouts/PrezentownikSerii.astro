@@ -1,0 +1,75 @@
+---
+import Base from './Base.astro';
+
+// Layout prezentowników serii (strony .astro, bo treść jest sterowana danymi
+// z katalogu i cen — nie da się jej sensownie utrzymać w markdownie).
+// Odpowiednik Artykul.astro: te same dane strukturalne + disclosure, plus
+// ItemList z rekomendowanymi zestawami, żeby Google widziało listę produktów.
+const { title, opis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [] } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const artykulJsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: opis,
+  datePublished: data,
+  dateModified: zaktualizowano ?? data,
+  inLanguage: 'pl-PL',
+  mainEntityOfPage: canonical,
+  author: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+  publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+};
+
+const okruszkiJsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
+    { '@type': 'ListItem', position: 2, name: 'Prezentowniki', item: new URL('/prezentowniki/', Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: title },
+  ],
+};
+
+const listaJsonld = zestawy.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: title,
+      itemListElement: zestawy.map((z, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `LEGO ${z.nr} ${z.nazwa}`,
+        url: new URL(`/zestaw/${z.nr}/`, Astro.site).href,
+      })),
+    }
+  : null;
+
+const faqJsonld = faq.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faq.map((p) => ({
+        '@type': 'Question',
+        name: p.q,
+        acceptedAnswer: { '@type': 'Answer', text: p.a },
+      })),
+    }
+  : null;
+
+const jsonld = [artykulJsonld, okruszkiJsonld, ...(listaJsonld ? [listaJsonld] : []), ...(faqJsonld ? [faqJsonld] : [])];
+---
+<Base title={title} description={opis} jsonld={jsonld}>
+  <article class="prose" style="margin-top:28px">
+    <p>
+      <span class="badge-seria">{kategoria}</span>
+      <span style="font-size:0.85rem;color:var(--granat-60)">
+        {data}
+        {zaktualizowano && zaktualizowano !== data && <> · zaktualizowano {zaktualizowano}</>}
+      </span>
+    </p>
+    <h1>{title}</h1>
+    <p class="disclosure">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej, a najtańszą ofertę pokazujemy zawsze.</p>
+    <slot />
+  </article>
+</Base>

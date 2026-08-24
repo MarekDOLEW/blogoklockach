@@ -423,6 +423,8 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .status--trwa { background: var(--zielen); color: #fff; }
 .status--ok { background: #e7f3ec; color: var(--zielen); }
 .status--maybe { background: var(--papier); color: var(--granat-60); border: 1px dashed #b9c0cd; }
+/* zestaw zszedl z oficjalnej sprzedazy — ten sam czerwony co badge-status--pewny */
+.status--stop { background: rgba(224,49,47,0.10); color: var(--czerwien); border: 1px solid rgba(224,49,47,0.28); }
 .prose h2 .status { font-size: 0.7rem; }
 
 /* drobna nota (źródła, zastrzeżenia) na końcu artykułu */
@@ -519,4 +521,119 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 @media (max-width: 360px) {
   .nav-przycisk-tekst { display: none; }
   .nav-przycisk { padding: 9px 11px; }
+}
+
+/* ---------------------------------------------------------------------------
+   Prezentowniki serii — galeria zestawów + karty pozycji.
+   Widok współdzielony przez wszystkie prezentowniki po seriach: zmiana tutaj
+   przechodzi na każdą serię naraz, dlatego strony nie mają własnych stylów.
+   --------------------------------------------------------------------------- */
+
+/* galeria: wizualny spis treści na górze przewodnika */
+.prose .galeria {
+  display: grid; gap: 14px; margin: 26px 0 34px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+.prose .galeria__kafel {
+  display: flex; flex-direction: column; gap: 2px;
+  padding: 12px 12px 14px; text-decoration: none; color: inherit;
+  background: #fff; border: 1px solid var(--linia); border-radius: 12px;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+.prose .galeria__kafel:hover,
+.prose .galeria__kafel:focus-visible {
+  border-color: var(--granat); transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(20,32,58,0.10);
+}
+.prose .galeria__foto {
+  display: block; aspect-ratio: 1 / 1; margin-bottom: 8px;
+  background: var(--papier); border-radius: 8px; overflow: hidden;
+}
+.prose .galeria__foto img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.prose .galeria__etykieta {
+  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.05em;
+  text-transform: uppercase; color: var(--granat-60);
+}
+.prose .galeria__nazwa { font-weight: 700; font-size: 0.92rem; line-height: 1.28; }
+.prose .galeria__cena { font-size: 0.82rem; color: var(--granat-60); margin-top: 3px; }
+.prose .galeria__cena b { color: var(--granat); }
+
+/* karta pojedynczego zestawu */
+.prose .prezent {
+  display: grid; grid-template-columns: minmax(0, 260px) minmax(0, 1fr); gap: 22px;
+  align-items: start; margin: 26px 0; padding: 20px;
+  background: #fff; border: 1px solid var(--linia); border-radius: 14px;
+  /* pasek nawigacji jest przyklejony u góry — bez tego zapasu kotwica
+     #zestaw-<nr> z galerii chowa nagłówek karty pod nawigacją */
+  scroll-margin-top: 90px;
+}
+/* przy długich kartach zdjęcie jedzie z czytelnikiem zamiast zostawiać
+   pustą kolumnę; na wąskim ekranie sticky jest wyłączone niżej */
+.prose .prezent__media { margin: 0; position: sticky; top: 88px; }
+.prose .prezent__foto {
+  width: 100%; aspect-ratio: 1 / 1; object-fit: contain; display: block;
+  background: var(--papier); border-radius: 10px;
+}
+.prose .prezent__miniatury { display: flex; gap: 8px; margin-top: 8px; }
+.prose .prezent__miniatury img {
+  width: 33%; aspect-ratio: 1 / 1; object-fit: contain;
+  background: var(--papier); border-radius: 6px; display: block;
+}
+.prose .prezent__tresc > :first-child { margin-top: 0; }
+.prose .prezent__nagl { font-size: 1.12rem; font-weight: 800; line-height: 1.3; margin: 0 0 10px; }
+.prose .prezent__nagl a { text-decoration-thickness: 2px; }
+.prose .prezent__nagl .status { margin-left: 8px; vertical-align: 2px; }
+
+/* dane techniczne: pary etykieta/wartość zamiast tabeli, żeby zawijały się
+   sensownie na wąskim ekranie */
+.prose .prezent__dane {
+  display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 0 0 14px; padding: 0;
+}
+.prose .prezent__dane div { margin: 0; }
+.prose .prezent__dane dt {
+  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.04em;
+  text-transform: uppercase; color: var(--granat-60);
+}
+.prose .prezent__dane dd { margin: 0; font-weight: 700; }
+
+.prose .prezent__dlakogo {
+  margin: 0 0 12px; padding: 9px 12px; font-size: 0.94rem;
+  background: var(--papier); border-left: 3px solid var(--zolty); border-radius: 0 8px 8px 0;
+}
+.prose .prezent__dlakogo span {
+  display: block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--granat-60); margin-bottom: 1px;
+}
+.prose .prezent__drabina {
+  margin: 16px 0 14px; padding: 12px 14px;
+  background: var(--papier); border: 1px solid var(--linia); border-radius: 10px;
+}
+.prose .prezent__drabina-tytul {
+  margin: 0 0 8px; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--granat-60);
+}
+.prose .prezent__drabina dl { margin: 0; }
+.prose .prezent__drabina dl div {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
+  padding: 5px 0; border-top: 1px solid var(--linia);
+}
+.prose .prezent__drabina dl div:first-child { border-top: 0; padding-top: 0; }
+.prose .prezent__drabina dt { font-size: 0.9rem; color: var(--granat-60); }
+.prose .prezent__drabina dd { margin: 0; font-weight: 700; white-space: nowrap; }
+.prose .prezent__prog {
+  margin: 10px 0 0; padding-top: 10px; border-top: 1px solid var(--linia);
+  font-size: 0.92rem; font-weight: 700; color: var(--zielen);
+}
+.prose .prezent__prog span {
+  display: block; font-size: 0.68rem; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--granat-60); margin-bottom: 1px;
+}
+
+.prose .prezent__cta { margin: 0; font-size: 0.94rem; }
+.prose .prezent__cta a { font-weight: 700; }
+
+@media (max-width: 620px) {
+  .prose .prezent { grid-template-columns: 1fr; gap: 16px; padding: 16px; }
+  .prose .prezent__media { max-width: 260px; margin: 0 auto; position: static; }
+  .prose .galeria { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 10px; }
 }

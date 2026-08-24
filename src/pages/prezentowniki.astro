@@ -12,7 +12,7 @@ import Base from '../layouts/Base.astro';
 // jest decyzją redakcyjną — rozstrzyga ją karta_kolejnosc, wyłącznie przy
 // remisie dat. Nowy prezentownik ze świeższą datą trafia na górę bez tego pola.
 const kolejnosc = (m) => m.frontmatter.karta_kolejnosc ?? 99;
-const przewodniki = Object.entries({
+const zMarkdownu = Object.entries({
   ...import.meta.glob('./artykuly/*.md', { eager: true }),
   ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
 })
@@ -27,7 +27,18 @@ const przewodniki = Object.entries({
     znacznik: m.frontmatter.karta_znacznik ?? m.frontmatter.kategoria,
     tytul: m.frontmatter.karta_tytul ?? m.frontmatter.title,
     opis: m.frontmatter.karta_opis ?? m.frontmatter.opis,
+    data: m.frontmatter.data,
   }));
+
+// Prezentowniki serii są stronami .astro (treść sterowana danymi z katalogu
+// i cen, więc markdown by ich nie udźwignął). Każda taka strona eksportuje
+// `meta` z danymi karty — hub czyta je tak samo jak frontmatter markdownu,
+// dzięki czemu nowa seria pojawia się tutaj bez edycji tego pliku.
+const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
+  .map((m) => m.meta)
+  .filter(Boolean);
+
+const przewodniki = [...zAstro, ...zMarkdownu].sort((a, b) => new Date(b.data) - new Date(a.data));
 ---
 <Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
   <article style="margin-top:28px">

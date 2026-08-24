@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Artykul.astro
 title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
-opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
+opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, możliwy restart Harry'ego Pottera i Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
 data: "2026-08-20"
-zaktualizowano: "2026-08-20"
+zaktualizowano: "2026-08-24"
 kategoria: "Zapowiedzi"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
@@ -16,7 +16,7 @@ faq:
     a: "Zwykle nie w przypadku dużych zestawów kolekcjonerskich. Historycznie zapowiedź nowej wersji kultowego modelu — na przykład UCS-a — podnosiła ceny wersji schodzącej z produkcji, bo kolekcjonerzy dokupują ją, zanim zniknie. Odwrotny efekt zdarza się przy zwykłych zestawach z serii masowych."
 ---
 
-Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia i 50-lecie Gwiezdnych wojen. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
+Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO i 50-lecie Gwiezdnych wojen. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
 
 Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--maybe">przeciek</span> oznacza informację nieoficjalną. Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok — numery, ceny i liczby elementów mogą się zmienić. Nie podajemy plotek jako faktów.
 
@@ -30,6 +30,8 @@ Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--ma
 | Władca Pierścieni: Helmowy Jar | 6000+ | ~2500 zł | 2027/2028 | <span class="status status--maybe">przeciek</span> |
 | Star Wars: fala na 50-lecie | — | — | IV 2027 | <span class="status status--maybe">przeciek</span> |
 | Nowy UCS Sokół Millennium | — | — | 2027 | <span class="status status--maybe">przeciek</span> |
+| Harry Potter: 76483 Pierwszy rok w Hogwarcie | — | ~480 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
+| Harry Potter: 76479 Harry poznaje Zgredka | — | ~65 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 
 Poza tym w przeciekach przewijają się kolejne serie na 2027: Creator (numery 31396–31411, premiera w styczniu), Dragon Ball, Botanicals, Ninjago, City, Speed Champions, Marvel, Disney i nowa seria Cutelings. To zestawy z niższych półek cenowych — śledzimy je w [Nowościach](/nowosci/), a tutaj skupiamy się na tym, co kolekcjonerskie.
 
@@ -76,6 +78,39 @@ Rok 2027 to okrągła, pięćdziesiąta rocznica premiery pierwszego filmu — i
 > **Zanim UCS się zmieni**
 >
 > [75192 Sokół Millennium](/zestaw/75192/) — obecna wersja UCS — ma **wycofanie zapowiedziane na grudzień 2026**. Jeśli przecieki o następcy się potwierdzą, ta wersja stanie się pozycją historyczną: 7500+ elementów, cena rynkowa dziś ok. 2500–2800 zł. Zestawy UCS schodzące z produkcji tuż przed premierą następcy zwykle drożeją, a nie tanieją — nowy model nie obniża wartości poprzedniego, tylko zamyka mu numer katalogowy.
+
+## Harry Potter: restart serii? (76483, 76479) <span class="status status--maybe">przeciek</span>
+
+To najciekawsza — i najbardziej niepokojąca — zapowiedź w całym zestawieniu, bo nie chodzi o pojedynczy zestaw, tylko o możliwy zwrot całej serii.
+
+W przeciekach na styczeń 2027 przewijają się dwa zestawy Harry Potter: **76483 Pierwszy rok w Hogwarcie** (orientacyjnie 109,99 USD, czyli około 480 zł) oraz **76479 Harry poznaje Zgredka** (14,99 USD, około 65 zł). Nazwy i ceny podajemy za źródłami branżowymi; Grupa LEGO niczego nie potwierdziła.
+
+Uwagę zwracają dwie rzeczy. Po pierwsze, **nazewnictwo nie pasuje do obecnej serii** — od 2024 roku zestawy zamkowe nazywają się „Zamek Hogwart: …", a tu wraca ogólne „Pierwszy rok w Hogwarcie". Po drugie, **to powrót do wydarzeń z pierwszej części** — a więc do miejsca, w którym seria już raz startowała. Premiera wypada kilka tygodni po planowanym na koniec 2026 debiucie serialu Harry Potter od HBO. Stąd w środowisku fanów teza, że LEGO szykuje restart linii pod nową ekranizację.
+
+Podkreślamy: **to interpretacja, nie fakt.** 76483 mieści się cenowo dokładnie tam, gdzie [76450 Book nook: Ekspres do Hogwartu](/zestaw/76450/) i [76478 Book nook: Gabinet Dumbledore'a](/zestaw/76478/), więc równie dobrze może być kolejnym modelem ekspozycyjnym w istniejącej konwencji.
+
+### Dlaczego to ma znaczenie dla kupującego już dziś
+
+Niezależnie od tego, czy restart nastąpi, obecna linia Hogwartu **właśnie się domyka** — i to widać w naszych danych, a nie w spekulacjach. Modularny zamek składał się z trzech modułów wydawanych rok po roku:
+
+| Moduł | Rocznik | Elementy | Status |
+|---|---|---|---|
+| [76435 Zamek Hogwart: Wielka Sala](/zestaw/76435/) | 2024 | 1732 | <span class="status status--stop">wycofany</span> |
+| [76454 Zamek Hogwart: Główna wieża](/zestaw/76454/) | 2025 | 2135 | w sprzedaży |
+| [76473 Zamek Hogwart: Wschodnie skrzydło](/zestaw/76473/) | 2026 | 2164 | w sprzedaży |
+
+Pierwszy moduł już zniknął z oficjalnej sprzedaży. Do tego na grudzień 2026 mamy przewidziane wycofanie kilkunastu kolejnych zestawów Harry Potter — między innymi [76450 Ekspresu do Hogwartu](/zestaw/76450/), [76467 Domu Luny Lovegood](/zestaw/76467/) i [76451 Privet Drive](/zestaw/76451/). Pełną listę z terminami prowadzimy w dziale [Wycofania](/wycofania/).
+
+Czyli: **linia jest sprzątana teraz, a nowa fala przychodzi w styczniu.** Dla kogoś, kto składa modularny zamek, to nie jest neutralna informacja — brakujący moduł kupuje się dopóki jest, bo wycofane duże zestawy HP nie wracają, a ich ceny po zejściu z produkcji rosną.
+
+> **Domknij zamek, zanim seria się przełamie**
+>
+> - [76454 Zamek Hogwart: Główna wieża](/zestaw/76454/) — 2135 elementów, 1079,99 zł katalogowo, rocznik 2025, wciąż w regularnej sprzedaży
+> - [76473 Zamek Hogwart: Wschodnie skrzydło](/zestaw/76473/) — 2164 elementy, 1079,99 zł katalogowo, rocznik 2026, najświeższy moduł
+>
+> Oba łapią w sklepach zewnętrznych przeceny rzędu jednej trzeciej ceny katalogowej — aktualne oferty sprawdzisz w tabelach na podstronach zestawów. Modułu Wielkiej Sali nie polecamy już szukać w regularnej sprzedaży; jeśli koniecznie ma być w kolekcji, zostaje rynek wtórny i ceny wyższe niż katalogowe.
+
+Osobna uwaga dla rodziców: jeśli kupujesz dziecku pierwszy zestaw Harry Potter, **restart serii nie jest powodem do czekania**. Zestawy z bieżącej oferty są dziś tańsze niż będą styczniowe premiery, a fabuła pierwszej części nie zmieni się przez nową ekranizację. Konkretne propozycje według wieku i budżetu zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
 
 ## Icons: motoryzacja w 2027 <span class="status status--maybe">wzorzec</span>
 

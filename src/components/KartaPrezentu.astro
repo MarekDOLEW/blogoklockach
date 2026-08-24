@@ -1,0 +1,96 @@
+---
+import sklepy from '../data/sklepy.json';
+import redirects from '../data/redirects.json';
+import galerie from '../data/galerie.json';
+
+// Karta jednego zestawu w prezentowniku serii.
+//
+// Warstwa cenowa jest zgodna ze standardem redakcyjnym (§18–19): trwała
+// drabina RRP -> dobra cena -> bardzo dobra cena -> próg zakupu, bez daty
+// sprawdzenia i bez chwilowego snapshotu ofert. Bieżące kwoty czytelnik
+// znajdzie w tabeli na /zestaw/<nr>/, która odświeża się codziennie z feedów.
+//
+// Sklepy publikacyjne (2–3) dobiera redakcja w danych strony, nie kod —
+// afiliacja nie może decydować o tym doborze. Kod tylko sprawdza, czy dla
+// danego sklepu istnieje przekierowanie; jeśli nie, wiersz pomija.
+// wiek podajemy tylko wtedy, gdy mamy go w sety.json — to dana z pudełka
+// i nie zgadujemy jej. Niezależnie od niej każda karta ma redakcyjne
+// "dla kogo", bo w prezentowniku to ono jest właściwą odpowiedzią.
+const {
+  nr, nazwa, rocznik, elementy, rrp, dlaKogo,
+  wiek = null, dobra = null, bardzoDobra = null, prog = null,
+  status = null, sklepyPublikacyjne = [],
+} = Astro.props;
+
+const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const maLink = (s) => s === 'lego' || Boolean(redirects?.[s]?.[nr]) || Boolean(sklepy[s]?.szukaj);
+const rel = (s) => (s === 'lego' || !redirects?.[s]?.[nr] ? 'nofollow' : 'sponsored nofollow');
+const doPokazania = sklepyPublikacyjne.filter(maLink);
+// dodatkowe zdjęcia z galerie.json, jeśli redakcja je dla tego setu zebrała
+const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);
+---
+<div class="prezent" id={`zestaw-${nr}`}>
+  <figure class="prezent__media">
+    <img
+      class="prezent__foto"
+      src={`/img/${nr}.jpg`}
+      alt={`LEGO ${nr} ${nazwa}`}
+      loading="lazy"
+      decoding="async"
+      width="640"
+      height="640"
+    />
+    {dodatkowe.length > 0 && (
+      <span class="prezent__miniatury">
+        {dodatkowe.map((u, i) => (
+          <img src={u} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
+        ))}
+      </span>
+    )}
+  </figure>
+
+  <div class="prezent__tresc">
+    <p class="prezent__nagl">
+      <a href={`/zestaw/${nr}/`}>LEGO {nr} {nazwa}</a>
+      {status === 'eol' && <span class="status status--stop">wycofany</span>}
+      {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
+    </p>
+
+    <dl class="prezent__dane">
+      <div><dt>Elementy</dt><dd>{elementy}</dd></div>
+      {wiek && <div><dt>Wiek z pudełka</dt><dd>{wiek}</dd></div>}
+      <div><dt>Rocznik</dt><dd>{rocznik}</dd></div>
+      <div><dt>Cena katalogowa</dt><dd>{zl(rrp)}</dd></div>
+    </dl>
+
+    <p class="prezent__dlakogo"><span>Dla kogo</span> {dlaKogo}</p>
+
+    <slot />
+
+    {/* drabina cenowa świadomie NIE jest tabelą: globalne style .prose th
+        malują nagłówki na granatowo, co przy etykietach w wierszach wygląda
+        jak nagłówek tabeli, a nie jak lista progów */}
+    {(dobra || bardzoDobra) && (
+      <div class="prezent__drabina">
+        <p class="prezent__drabina-tytul">Kiedy warto kupić</p>
+        <dl>
+          <div><dt>Cena katalogowa</dt><dd>{zl(rrp)}</dd></div>
+          {dobra && <div><dt>Dobra cena</dt><dd>ok. {zl(dobra)}</dd></div>}
+          {bardzoDobra && <div><dt>Bardzo dobra cena</dt><dd>poniżej {zl(bardzoDobra)}</dd></div>}
+        </dl>
+        {prog && <p class="prezent__prog"><span>Próg zakupu</span> {prog}</p>}
+      </div>
+    )}
+
+    <p class="prezent__cta">
+      {doPokazania.map((s, i) => (
+        <>
+          {i > 0 && <span aria-hidden="true"> · </span>}
+          <a href={`/idz/${s}/${nr}`} rel={rel(s)}>{sklepy[s]?.nazwa ?? s}</a>
+        </>
+      ))}
+      {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}
+      <a href={`/zestaw/${nr}/`}><b>wszystkie ceny i historia</b></a>
+    </p>
+  </div>
+</div>
