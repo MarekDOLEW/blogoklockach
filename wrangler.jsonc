@@ -11,12 +11,19 @@
   // Trwałe kopie zdjęć zestawów — kubełek utworzony ręcznie w panelu R2
   "r2_buckets": [
     { "binding": "OBRAZY", "bucket_name": "tylkoklocki-obrazy" }
-  ],
-  // Kliknięcia afiliacyjne z trasy /idz/. Worker wołał env.KLIKI.writeDataPoint()
-  // od początku, ale bez tego wiązania `env.KLIKI` było undefined, a opcjonalne
-  // wywołanie (`?.`) po cichu nic nie robiło — stąd zero danych o klikach.
-  // Odczyt: scripts/kliki-raport.mjs (SQL API Cloudflare).
-  "analytics_engine_datasets": [
-    { "binding": "KLIKI", "dataset": "idz_kliki" }
   ]
+  // Kliknięcia afiliacyjne z trasy /idz/: worker wołał env.KLIKI.writeDataPoint()
+  // od początku, ale bez wiązania `env.KLIKI` jest undefined, a opcjonalne
+  // wywołanie (`?.`) po cichu nic nie robi — dlatego nie zapisał się ani jeden
+  // klik. Wiązanie:
+  //
+  //   "analytics_engine_datasets": [{ "binding": "KLIKI", "dataset": "idz_kliki" }]
+  //
+  // było tu 24.08 przez ~20 minut i w tym czasie deploy przestał wchodzić
+  // (poprzednie schodziły w ~2 min). Cofnięte, żeby nie zablokować porannych
+  // runnerów. Najpewniejsza przyczyna: Analytics Engine wymaga płatnego planu
+  // Workers albo osobnego włączenia na koncie. Przed ponownym dodaniem trzeba
+  // odczytać log builda w panelu Cloudflare (Workers & Pages -> blogoklockach
+  // -> Deployments) i potwierdzić, że dataset jest dostępny.
+  // Odczyt danych, gdy już popłyną: scripts/kliki-raport.mjs.
 }
