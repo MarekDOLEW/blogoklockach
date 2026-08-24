@@ -25,6 +25,42 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-24 13:30 · CODE · Kontroler włączony + kalibracja crona
+
+**Zrobione:**
+- `trig_01T8AhciW8JD651MrSMuEj7m` („LEGO pon 09:00 — Kontroler") włączony.
+  Potwierdzone po zapisie: `enabled: true`, `next_run_at` =
+  2026-08-31T07:08:30Z, czyli **poniedziałek 31.08 ok. 09:08 czasu polskiego**.
+- Odhaczony punkt 1 backlogu z wpisu COWORK 23.08 20:30.
+
+**Dlaczego był wyłączony:** w konfiguracji nie ma ani `ended_reason`, ani
+`suspension_reason` — a to znaczy wyłączenie ręczne. Auto-wyłączenie wygląda
+inaczej: stary `send_later` (`trig_013x6kw7r5J1a1YBES3V3YuH`) niesie
+`ended_reason: auto_disabled_session_gone`. Zawieszenie po stronie
+subskrypcji zostawia `suspension_reason`. Żadnego z nich tu nie ma, więc
+hipoteza „sesja padła po limicie" się nie potwierdza.
+Ostatni udany przebieg: 17.08 07:16 UTC. `updated_at` przed moją zmianą:
+21.08 14:53 UTC — tego samego popołudnia edytowane były też Łowca, Backfill,
+Radar i Social, więc wyłączenie wygląda na element porządków z 21.08,
+a nie z 18.08.
+
+**Social (`trig_01W1CSp8PM3DDN6UEyNLYe6H`):** zostaje wyłączony. Backlog
+z 23.08 22:00 mówi wprost „wstrzymany celowo przez Marka, nie włączać",
+a jego własna nazwa niesie powód — „ZAWIESZONE do startu kanałów". Nie ma
+`last_fired_at`, bo nigdy nie wystartował, i nie powinien, dopóki nie ruszą
+profile. Nie dotykam.
+
+**Uwagi — pułapka na 25.10:** cron to `0 7 * * 1`, czyli 07:00 UTC. Dziś,
+w czasie letnim (CEST, UTC+2), wypada to o 09:00. Po zmianie czasu
+25.10.2026 (CET, UTC+1) ten sam cron da **08:00 czasu polskiego**. Jeśli
+raport ma zostawać o 9:00 przez sezon XI–XII, trzeba wtedy przestawić go na
+`0 8 * * 1`. To samo dotyczy wszystkich pozostałych runnerów LEGO — ich crony
+też są w UTC i wszystkie przesuną się o godzinę wcześniej.
+
+**Stan:** gotowe.
+
+**Dla drugiej strony:** nic.
+
 ## 2026-08-23 22:00 · COWORK+CODE · Taksonomia artykułów i naprawa listingów
 
 **Zrobione:**
@@ -66,10 +102,10 @@ Odrzucono wariant różnicowania dat — `data` idzie do JSON-LD jako
   cienkich podstron do serwisu, który już ma problem z niedoindeksowaniem.
 
 **Dla drugiej strony (CODE):**
-1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`) —
-   wyłączony od 18.08, dwa poniedziałki bez raportu.
-   `Social` (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — **wstrzymany celowo przez
-   Marka, nie włączać.**
+1. ~~Włącz Kontrolera w Routines~~ — ZROBIONE 24.08.
+   `trig_01T8AhciW8JD651MrSMuEj7m` ma `enabled: true`, najbliższy przebieg
+   31.08 ok. 09:08. `Social` (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) zostawiony
+   wyłączony, zgodnie z tą notatką. Szczegóły — wpis z 24.08 na górze pliku.
 2. Deterministyczna serializacja JSON w runnerach — sprawa czytelności
    diffów, nie rozmiaru repo. Patrz `RUNBOOK.md`.
 3. Zrzut harmonogramu do `materialy/zadania-cykliczne.md` z flagą `enabled`
@@ -101,9 +137,9 @@ generowanych przez `src/lib/huby.js`. Nie planować działań przed odczytem.
 
 **Dla drugiej strony (CODE) — do zrobienia, priorytet malejąco:**
 
-1. **Włącz Kontrolera w Routines** (`trig_01T8AhciW8JD651MrSMuEj7m`). Wyłączony
-   od 18.08, dwa poniedziałki bez raportu finansowego. Sprawdź też `Social`
-   (`trig_01W1CSp8PM3DDN6UEyNLYe6H`) — nie odpalił się nigdy.
+1. ~~Włącz Kontrolera w Routines~~ — ZROBIONE 24.08. `trig_01T8AhciW8JD651MrSMuEj7m`
+   ma `enabled: true`, najbliższy przebieg 31.08. Powód wyłączenia i sprawa
+   `Social` — we wpisie z 24.08 na górze pliku.
 2. ~~Zmierz repo~~ — ZROBIONE 23.08. Wynik w Uwagach niżej: .git = 7,3 MB
    po gc. Temat cięcia repo zamknięty do odwołania.
 3. **Deterministyczna serializacja JSON** we wszystkich runnerach: sortowanie
