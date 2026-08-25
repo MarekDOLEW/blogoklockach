@@ -100,7 +100,7 @@ const topWycofania = wycofaniaDane.wycofania
   .map((x) => x.wiersz);
 const liczbaWycofan = wycofaniaDane.wycofania.length;
 
-// ── Zajawki artykułów: 3 najnowsze ──
+// ── Zajawki artykułów: 6 najnowszych (dwa rzędy po trzy w siatce .zajawki) ──
 const artykuly = Object.entries({
   ...import.meta.glob('./artykuly/*.md', { eager: true }),
   ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
@@ -111,7 +111,7 @@ const artykuly = Object.entries({
   // czy to artykuł (patrz NARZEDZIA.md)
   .filter((m) => m.frontmatter?.kategoria)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
-  .slice(0, 3)
+  .slice(0, 6)
   .map((m) => zajawkaArtykulu(m));
 ---
 <Base

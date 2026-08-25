@@ -24,6 +24,27 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-25 08:20 · CODE · Cztery nowe artykuły z materiałów Piotra + drugi rząd zajawek na HP
+
+**Zrobione:**
+- `src/pages/artykuly/lego-42215-koparka-volvo-ec500-recenzja.md` — recenzja Technic 42215 (próg 1150 zł)
+- `src/pages/artykuly/lego-71858-kuznia-cztery-bronie-recenzja.md` — recenzja NINJAGO 71858 (próg 300 zł)
+- `src/pages/artykuly/lego-city-czerwiec-2026-fala.md` — poradnik po fali City z czerwca 2026 (10 zestawów, nowa kategoria „Poradnik")
+- `src/pages/prezentowniki/lego-za-200-zl-dla-10-latka.md` — prezentownik, sześć zestawów w budżecie 150–200 zł
+- Zdjęcia: slajdery `<div class="galeria-setow" data-sety="…">` w treści (łącznie 22 slajdery, 44 slajdy) + `okladka` w frontmatterze każdego tekstu
+- Placeholdery `[wstaw link afiliacyjny]` zamienione na `/idz/<sklep>/<nr>`; przy artykułach wielozestawowych tabele kierują do hubów `/zestaw/<nr>/`
+- `src/pages/index.astro` — zajawki artykułów z 3 na 6 (dwa rzędy po trzy)
+- `redakcja/karty/` — cztery karty researchu (dotąd katalog był pusty)
+
+**Stan:** gotowe, wdrożone na produkcję
+
+**Dla drugiej strony:** nic
+
+**Uwagi:**
+- Amazon.pl z materiału źródłowego (fala City) **pominięty** — brak działającego przekierowania `/idz/amazon/`, link byłby martwy. W jego miejsce Media Expert.
+- Wszystkie 25 numerów zestawów użytych w tekstach mają wpis w `obrazy.json`, więc worker serwuje `/img/<nr>.jpg` (sprawdzone na produkcji).
+- Progi cenowe celowo ustawione powyżej chwilowych minimów z feedu — drabina ma być trwała, zgodnie ze Standardem §18–19.
+
 ---
 ## 2026-08-25 07:30 · CODE · Kliknięcia afiliacyjne zapisują się — ścieżka domknięta
 
