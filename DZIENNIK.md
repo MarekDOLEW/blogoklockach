@@ -25,6 +25,39 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-25 07:10 · CODE · Sitemapa przycięta do 1 160 adresów (wariant A+B)
+
+**Zrobione:** `astro.config.mjs` dostał filtr sitemapy. Zgłaszamy hub `/zestaw/`
+w dwóch przypadkach: ma redakcyjny opis w `sety.json` (248 sztuk) albo ma cenę
+z co najmniej dwóch sklepów, czyli porównanie cen jest realnym porównaniem.
+Efekt na produkcji: **1 160 adresów zamiast 4 873** — w tym 1 099 hubów,
+39 serii, 10 artykułów, 4 prezentowniki i strony stałe.
+
+Pozostałe huby **nie znikają**: dalej się budują (dist ma komplet 4 873 stron),
+odpowiadają 200 i są linkowane z tabel serii — sprawdzone po wdrożeniu na
+`/zestaw/21102/`. Przestają być tylko zgłaszane w sitemapie.
+
+Filtr liczy się przy każdym buildzie, więc hub wraca do sitemapy sam, gdy Łowca
+dorzuci mu drugi sklep, i sam wypada, gdy oferta zniknie. Nie ma tu listy do
+ręcznego utrzymywania.
+
+**Podstawa decyzji** — dane z 24.08, nie przeczucie: 4 812 z 4 873 adresów to
+były huby; Google nie zaindeksował ani jednego adresu poza stroną główną;
+reszta miała status „wykryta, obecnie niezindeksowana" i ostatni crawl NIGDY.
+Dwa sąsiednie huby bez opisu (21102, 21103) mają po ~260 słów, z czego **82%
+wspólnych** — 19 słów różnicy to numer, nazwa, rok i kwota.
+
+**Uczciwie o oczekiwaniach:** to jest zmiana sygnału, nie przełącznik. Sam
+przycięty plik nie sprawi, że Google zacznie crawlować. Przy dwutygodniowej
+domenie liczą się przede wszystkim linki z zewnątrz i czas.
+
+**Nowy punkt odniesienia dla Kontrolera:** 1 160 adresów przesłanych,
+0 zindeksowanych (stan 25.08). Prompt zadania zaktualizowany.
+
+**Dla drugiej strony (COWORK):** Marek dostał gotową treść zlecenia — chodzi
+o ręczne „Poproś o zaindeksowanie" w GSC dla kilkunastu adresów (API z kluczem
+tylko-do-odczytu tego nie zrobi) i o odczyt raportu „Indeksowanie stron".
+
 ## 2026-08-24 16:50 · CODE · Kliki, linki afiliacyjne i indeksacja — trzy diagnozy
 
 **1. Kliknięcia afiliacyjne: nie brak dostępu, tylko brak zapisu.**
