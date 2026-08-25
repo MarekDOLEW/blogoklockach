@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
+    "pierwszenstwo": "Najwyzsze ze wszystkich zrodel. cenaKatalogowaSetu() czyta ten plik jako pierwszy, przed sety.json, ceny_baza.json i katalog.json. Zaden backfill ani runner nie moze nadpisac wpisu z tego pliku.",
+    "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
+    "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
+    "kontrola": "node scripts/kontrola-rrp.mjs",
+    "zaktualizowano": "2026-08-25"
+  },
+  "31161": { "cena": 249.99, "zrodlo": "lego.pl (Marek)", "data": "25.08.2026" },
+  "42686": { "cena": 249.99, "zrodlo": "lego.pl (Marek) + materiał Piotra", "data": "25.08.2026" },
+  "76321": { "cena": 209.99, "zrodlo": "materiał Piotra + drabina EUR→PLN z ceny_baza.json", "data": "25.08.2026" }
+}

@@ -11,6 +11,7 @@
 import redirectsMapa from '../data/redirects.json';
 import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
+import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
 import { wpisKatalogu } from './katalog.js';
 
 // Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
@@ -76,12 +77,24 @@ export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
 
 /**
  * Oficjalna cena katalogowa LEGO albo null.
- * Kolejność źródeł: sety.json (redakcyjne) -> ceny_baza.json (Łowca)
- * -> katalog.json (backfill historyczny, wypełniany partiami per seria).
+ *
+ * Cena katalogowa nie zmienia się w czasie — raz poprawnie ustalona zostaje
+ * na zawsze. Dlatego pierwszeństwo ma rejestr `rrp_potwierdzone.json`:
+ * ceny sprawdzone u źródła przez człowieka, których żaden backfill ani runner
+ * nie nadpisze. Dopiero pod nim stoją źródła generowane.
+ *
+ * Kolejność źródeł:
+ *   1. rrp_potwierdzone.json — potwierdzone przez człowieka (write-once)
+ *   2. sety.json            — redakcyjne, weryfikowane ręcznie
+ *   3. ceny_baza.json       — baza Łowcy, zrekonstruowana z sety.json
+ *   4. katalog.json         — backfill historyczny, wypełniany partiami per
+ *                             seria; najmniej pewny, bo powstawał z Bricksetu
+ *                             (GBP/USD/EUR), a polski cennik ma własną drabinę
  */
 export function cenaKatalogowaSetu(nr, { sety = {} } = {}) {
   const klucz = String(nr);
   return (
+    rrpPotwierdzone[klucz]?.cena ??
     sety[klucz]?.cena_katalogowa ??
     cenyBaza[klucz]?.cena_katalogowa ??
     wpisKatalogu(klucz)?.cena_katalogowa ??

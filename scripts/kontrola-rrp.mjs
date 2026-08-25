@@ -31,12 +31,18 @@ const czytaj = (p) => JSON.parse(readFileSync(sciezka(p)));
 
 const katalog = czytaj('katalog.json');
 const cenyBaza = czytaj('ceny_baza.json');
+const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
 const sety = czytaj('sety.json');
 
 const naprawiaj = process.argv.includes('--napraw');
 
+// Rejestr potwierdzony przez człowieka jest ponad wszystkim — cena katalogowa
+// nie zmienia się w czasie, więc raz sprawdzona u źródła nie podlega dyskusji.
 const zweryfikowana = (nr) =>
-  sety[nr]?.cena_katalogowa ?? (nr !== '_meta' ? cenyBaza[nr]?.cena_katalogowa : null) ?? null;
+  rrpPotwierdzone[nr]?.cena ??
+  sety[nr]?.cena_katalogowa ??
+  (nr !== '_meta' ? cenyBaza[nr]?.cena_katalogowa : null) ??
+  null;
 
 // Polska drabina cenowa LEGO: wszystkie kwoty kończą się na ,99 i schodzą
 // z listy cen, a nie z przelicznika walutowego. Zbieramy ją z danych
@@ -45,6 +51,7 @@ const zweryfikowana = (nr) =>
 const drabina = new Set();
 for (const [nr, w] of Object.entries(cenyBaza)) if (nr !== '_meta' && w.cena_katalogowa) drabina.add(w.cena_katalogowa);
 for (const s of Object.values(sety)) if (s.cena_katalogowa) drabina.add(s.cena_katalogowa);
+for (const [nr, w] of Object.entries(rrpPotwierdzone)) if (nr !== '_meta' && w.cena) drabina.add(w.cena);
 
 const wpisy = [];
 for (const [seria, lista] of Object.entries(katalog)) {
@@ -59,6 +66,7 @@ for (const w of wpisy) {
 }
 
 console.log(`Wpisów z ceną katalogową: ${wpisy.length}`);
+console.log(`Potwierdzonych przez człowieka (rrp_potwierdzone.json): ${Object.keys(rrpPotwierdzone).length - 1}`);
 console.log(`Porównywalnych ze źródłem zweryfikowanym: ${wpisy.filter((w) => zweryfikowana(w.numer) !== null).length}`);
 console.log(`ROZBIEŻNYCH: ${rozbiezne.length}`);
 for (const r of rozbiezne.slice(0, 40)) {

@@ -31,8 +31,13 @@ Ustalenia integracyjne:
   `<div class="ceny-setu" data-set="<nr>"></div>` — `scripts/remark-ceny.mjs`
   zamienia go przy budowaniu na tę samą tabelę co na hubie, więc odświeża się
   z każdym przebiegiem Łowcy. Żadna kwota sklepowa nie jest wpisywana ręcznie.
-- **Cena katalogowa**: `sety.json` → `ceny_baza.json` → `katalog.json`.
-  Backfill RRP w `katalog.json` powstawał z Bricksetu (GBP/USD/EUR) i bywał
+- **Cena katalogowa** — kolejność źródeł: `rrp_potwierdzone.json` →
+  `sety.json` → `ceny_baza.json` → `katalog.json`. RRP nie zmienia się w czasie,
+  więc cena potwierdzona u źródła przez człowieka trafia do
+  `rrp_potwierdzone.json` i **nie wymaga ponownego sprawdzania** — żaden backfill
+  ani runner jej nie nadpisze. Wczytanie listy:
+  `node scripts/wczytaj-rrp.mjs <plik> --zrodlo "..."`.
+  Backfill w `katalog.json` powstawał z Bricksetu (GBP/USD/EUR) i bywał
   przeliczany kursem — a polski cennik LEGO ma własną drabinę (59,99 € to
   249,99 zł, nie 259,99 zł). Kontrola: `node scripts/kontrola-rrp.mjs`.
 - **Prezentacja cen w artykułach** (Standard §18–19): artykuł dostaje trwałą
@@ -57,6 +62,11 @@ Ustalenia integracyjne:
 ## Ograniczenia wykonawcze (środowisko serwerowe)
 
 - lego.com, promoklocki.pl, zklockow.pl, x-kom.pl blokują ruch serwerowy —
+  zklockow.pl przez Cloudflare managed challenge (403 nawet na `robots.txt`),
+  lego.com twardą blokadą. Chromium w sesji serwerowej **nie ma sieci
+  wychodzącej** (ERR_CONNECTION_RESET), więc przeglądarka nie obejdzie
+  challenge'a. Ceny katalogowe z tych źródeł dostarcza człowiek albo Cowork
+  i wczytujemy je przez `scripts/wczytaj-rrp.mjs` —
   poziom A metodologii (LEGO.com) realizujemy przez Brickset, instrukcje,
   feedy sklepów i dane podane przez użytkownika; wymóg „minimum pięciu
   polskich sklepów" pokrywają feedy + osiągalne witryny (Smyk, Planeta
@@ -65,6 +75,10 @@ Ustalenia integracyjne:
   zaznaczamy zakres analizy zgodnie z Metodologią §5.3.
 
 ## Decyzje projektowe (log)
+
+- 2026-08-25 (Marek): **cena katalogowa nie wymaga ponownego sprawdzania** — raz
+  dobrze wprowadzona zostaje na zawsze. Wdrożone jako `src/data/rrp_potwierdzone.json`
+  (rejestr write-once o najwyższym pierwszeństwie) + `scripts/wczytaj-rrp.mjs`.
 
 - 2026-08-25 (Marek): **ceny wstawiamy my przy publikacji, ze źródeł serwisu** —
   Piotr celowo zostawia w materiale `[wstaw link afiliacyjny]` i nie podaje kwot

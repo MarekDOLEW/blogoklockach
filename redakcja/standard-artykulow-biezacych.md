@@ -319,11 +319,13 @@ Kwoty sklepowe i linki uzupełnia redakcja techniczna podczas wgrywania artykuł
 | Co | Skąd | Kto |
 |---|---|---|
 | Ceny sklepowe w tabeli | `oferty_feed.json` — renderowane przy budowaniu znacznikiem `<div class="ceny-setu" data-set="<nr>"></div>` | automat, odświeża się z każdym przebiegiem Łowcy |
-| Cena katalogowa (RRP) | `sety.json` → `ceny_baza.json` → `katalog.json`, w tej kolejności | automat; wartości sporne rozstrzyga kontrola na lego.pl |
+| Cena katalogowa (RRP) | `rrp_potwierdzone.json` → `sety.json` → `ceny_baza.json` → `katalog.json` | rejestr potwierdzony przez człowieka jest ponad automatem |
 | Linki do sklepów | `/idz/<sklep>/<nr>` — worker i `redirects.json` | redakcja techniczna, zamiast `[wstaw link afiliacyjny]` |
 | Drabina cenowa i próg zakupu | ocena autora | autor tekstu |
 
 Dzięki temu artykuł nie zawiera ani jednej ręcznie wpisanej ceny sklepowej, która mogłaby się zestarzeć. Tabela cen w treści tekstu jest **generowana**, nie przepisywana — nie jest więc snapshotem, którego zakazuje §18, i nie podaje daty kontroli.
+
+**Cena katalogowa raz ustalona zostaje na zawsze.** RRP nie zmienia się w czasie — nie ma powodu sprawdzać go ponownie przy każdym artykule. Cena potwierdzona u źródła trafia do `src/data/rrp_potwierdzone.json` (rejestr write-once o najwyższym pierwszeństwie) i od tej pory żaden backfill ani runner jej nie nadpisze. Wczytanie listy cen: `node scripts/wczytaj-rrp.mjs <plik> --zrodlo "..."`.
 
 **Cena katalogowa w tekście musi zgadzać się z danymi serwisu**, bo z tego samego źródła bierze ją generowana tabela — inaczej na jednej stronie stoją dwie różne kwoty. Przy rozbieżności rozstrzyga polski cennik LEGO, nie przeliczenie ceny w euro. Kontrola: `node scripts/kontrola-rrp.mjs`.
 

@@ -24,6 +24,55 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-25 10:40 · CODE · zklockow.pl niedostępny z serwera — rejestr potwierdzonych RRP zamiast tego
+
+**Zadanie:** porównać nasze ceny katalogowe z zklockow.pl i poprawić.
+**Nie udało się pobrać zklockow.pl** — i nie jest to nasza polityka egress.
+
+| Źródło | Wynik |
+|---|---|
+| zklockow.pl | 403, `cf-mitigated: challenge` — Cloudflare managed challenge (JS), także na `robots.txt` |
+| lego.com/pl-pl | 403 — twarda blokada ruchu serwerowego |
+| Chromium / Playwright | `ERR_CONNECTION_RESET` na **każdym** hoście (nawet brickset, który curl otwiera) — sesja serwerowa nie ma sieci wychodzącej w przeglądarce |
+| feed Planeta Klocków | `PreviousPrice` = cena sklepu, nie RRP — zgodność 21/200 (10%) |
+| feed Media Expert | `g:price` = cena sklepu, nie RRP — zgodność 13/191 (6%) |
+| Brickset | osiągalny (200), ale ceny tylko GBP/USD/EUR — brak PLN |
+
+Tunel proxy wstaje poprawnie (`HTTP/1.1 200 Connection Established`), więc host
+jest dozwolony — blokuje sam sklep. Bez przeglądarki z siecią nie ma jak przejść
+challenge'a i nie będę go obchodził.
+
+**Zrobione zamiast tego — zasada „raz dobrze wprowadzone zostaje na zawsze":**
+- `src/data/rrp_potwierdzone.json` (nowy) — rejestr write-once cen katalogowych
+  potwierdzonych przez człowieka. **Najwyższe pierwszeństwo**: `cenaKatalogowaSetu()`
+  czyta go przed `sety.json`, `ceny_baza.json` i `katalog.json`, więc żaden backfill
+  ani runner go nie nadpisze. Na start 3 wpisy: 31161, 42686, 76321.
+- `src/lib/oferty.js` + `scripts/remark-ceny.mjs` — nowa kolejność źródeł.
+- `scripts/wczytaj-rrp.mjs` (nowy) — wczytuje listę cen (CSV/TSV/JSON) do rejestru.
+  Nie nadpisuje istniejących wpisów, tylko zgłasza konflikt (`--nadpisz` do korekty,
+  `--sucho` do samego raportu). Parser rozumie polski przecinek dziesiętny.
+- `scripts/kontrola-rrp.mjs` — rejestr jako źródło najwyższej wagi.
+- Standard §18.1 i `redakcja/README.md` — zasada i kolejność źródeł zapisane.
+
+**Stan:** gotowe, wdrożone. Zadanie „porównaj z zklockow" — **zablokowane**
+do czasu dostarczenia danych.
+
+**Dla drugiej strony (COWORK):** to zadanie dla Ciebie — masz lokalną przeglądarkę.
+Zbierz z zklockow.pl ceny katalogowe LEGO i zapisz jako CSV `numer;cena`
+(np. `31161;249,99`), po jednym secie w linii. Potem w repo:
+
+    node scripts/wczytaj-rrp.mjs <plik>.csv --zrodlo "zklockow.pl (Cowork)" --sucho
+    node scripts/wczytaj-rrp.mjs <plik>.csv --zrodlo "zklockow.pl (Cowork)"
+    node scripts/kontrola-rrp.mjs
+
+Pierwsze uruchomienie (`--sucho`) tylko raportuje i pokazuje konflikty z tym,
+co już mamy — te rozstrzygamy u źródła przed zapisem. Marek może też po prostu
+wkleić listę w czacie.
+
+**Uwagi:** `katalog.json` zostaje najsłabszym źródłem i nadal ma ~1150 cen bez
+potwierdzenia. Każda partia z zklockow zabetonuje kolejny kawałek i zdejmie go
+z listy rzeczy do sprawdzania — na stałe.
+
 ## 2026-08-25 09:15 · CODE · Ceny katalogowe w katalog.json były zawyżone — poprawione + zasada w standardzie
 
 **Miałem złą rację.** Wczoraj rozstrzygnąłem rozbieżność RRP na korzyść

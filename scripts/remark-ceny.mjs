@@ -26,6 +26,7 @@ const feed = czytaj('oferty_feed.json').sety ?? {};
 const sklepy = czytaj('sklepy.json');
 const redirects = czytaj('redirects.json');
 const cenyBaza = czytaj('ceny_baza.json');
+const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
 const katalog = czytaj('katalog.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 
@@ -38,8 +39,14 @@ const wycofaniaIdx = new Map(wycofania.map((w) => [w.numer, w]));
 
 // ── te same reguły co src/lib/oferty.js (plugin działa poza grafem modułów Astro) ──
 
+// Kolejność jak w src/lib/oferty.js: potwierdzone przez człowieka mają
+// pierwszeństwo przed czymkolwiek generowanym.
 const cenaKatalogowaSetu = (nr) =>
-  sety[nr]?.cena_katalogowa ?? cenyBaza[nr]?.cena_katalogowa ?? katalogIdx.get(nr)?.cena_katalogowa ?? null;
+  rrpPotwierdzone[nr]?.cena ??
+  sety[nr]?.cena_katalogowa ??
+  cenyBaza[nr]?.cena_katalogowa ??
+  katalogIdx.get(nr)?.cena_katalogowa ??
+  null;
 
 function ofertyZFeedu(wpis, nr) {
   if (!wpis) return [];
