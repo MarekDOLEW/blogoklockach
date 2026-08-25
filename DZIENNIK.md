@@ -25,6 +25,38 @@ temat jest zamknięty i nikt go nie dubluje.
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 ---
+## 2026-08-25 07:30 · CODE · Kliknięcia afiliacyjne zapisują się — ścieżka domknięta
+
+**Zrobione:** Analytics Engine aktywowany na koncie (Marek, panel Cloudflare),
+dataset `idz_kliki` utworzony ręcznie, wiązanie `analytics_engine_datasets`
+wróciło do `wrangler.jsonc` (commit `1562d49`).
+
+**Potwierdzenie end-to-end, nie samo „powinno działać":**
+- w Version History powstała **wersja** `6cb2791b` (main, aktywna, 100% ruchu,
+  error rate 0%) — wczorajsza regresja „build OK, wersja nie powstaje" nie
+  wróciła;
+- dataset `idz_kliki` pojawił się w panelu **z danymi**, count 8. Panel pokazuje
+  dataset dopiero po pierwszym zapisie z Workera, więc to dowód, że `env.KLIKI`
+  jest zbindowane i `writeDataPoint` faktycznie pisze.
+
+**Uwaga do pierwszego raportu:** sześć z tych ośmiu zdarzeń to moje przejścia
+testowe przez `/idz/` z 25.08 ok. 05:11 UTC (empik, smyk, xkom, allegro,
+mediaexpert, planetaklockow — wszystkie dla 76467 albo 31168), wykonane
+z serwerowego IP. Przy ruchu bliskim zera zdominują próbkę — nie liczyć z nich
+EPC ani konwersji.
+
+**Co jeszcze blokuje odczyt:** `scripts/kliki-raport.mjs` potrzebuje w środowisku
+runnerów `CF_ACCOUNT_ID` (`a9ed001e5143106eb3b6b2d013011659`) i `CF_API_TOKEN`
+z uprawnieniem „Account Analytics: Read". Bez nich zapis działa, ale Kontroler
+dalej nie policzy EPC. Prompt zadania zaktualizowany — nie szuka już przyczyny
+w brakującym wiązaniu, bo ta jest załatwiona.
+
+**Dane nie powstają wstecz.** Pierwszy raport z realnym EPC obejmie 25–31.08.
+
+**Stan:** gotowe.
+
+**Dla drugiej strony:** nic.
+
 ## 2026-08-25 07:10 · CODE · Sitemapa przycięta do 1 160 adresów (wariant A+B)
 
 **Zrobione:** `astro.config.mjs` dostał filtr sitemapy. Zgłaszamy hub `/zestaw/`
