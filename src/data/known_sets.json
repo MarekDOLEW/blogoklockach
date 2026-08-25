@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-08-24",
+  "data_aktualizacji": "2026-08-25",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 248,
+  "liczba_setow": 254,
   "sety": [
     "10300",
     "10316",
@@ -98,6 +98,7 @@
     "40926",
     "40958",
     "40975",
+    "42228",
     "42229",
     "42231",
     "42232",
@@ -153,6 +154,7 @@
     "60497",
     "60501",
     "60506",
+    "60508",
     "60509",
     "60510",
     "60511",
@@ -160,6 +162,7 @@
     "71052",
     "71053",
     "71859",
+    "71861",
     "71862",
     "71863",
     "71864",
@@ -190,6 +193,8 @@
     "72423",
     "72537",
     "75426",
+    "75442",
+    "75447",
     "75451",
     "75453",
     "75454",
@@ -248,6 +253,7 @@
     "77981",
     "77982",
     "77983",
+    "77984",
     "77985",
     "80120",
     "80121"
@@ -359,6 +365,18 @@
       "nazwa": "nieujawniony zestaw Ideas",
       "premiera": null,
       "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
+    },
+    {
+      "numer": "72306",
+      "nazwa": "LEGO PlayStation 1 (nazwa niepotwierdzona)",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-08-25. Brickset potwierdza dane twarde: 1911 elementow, 18+, premiera 2026-10-01, jeszcze niewydany, brak RRP, motyw wciaz 'tbd', nazwa jako {?}. Tozsamosc — replika konsoli PlayStation 1 w skali 1:1 z dioramami Gran Turismo i Ape Escape oraz gratisem Astrobot — pochodzi WYLACZNIE ze StoneWars. PromoBricks nie ma o tym slowa. ZAPOWIEDZ NIEPOTWIERDZONA co do nazwy i zawartosci; numer, wielkosc i data sa pewne. Potencjal redakcyjny wysoki: nostalgia growa + rocznik 18+ + premiera w oknie przedswiatecznym."
+    },
+    {
+      "numer": "40899",
+      "nazwa": "nieujawniony zestaw (motyw tbd)",
+      "premiera": null,
+      "status": "NOWE 2026-08-25: numer w Brickset bez nazwy, liczby elementow, ceny i daty. Pusty rekord, sledzimy."
     }
   ],
   "luki_w_bazie": {
@@ -446,7 +464,6 @@
       "42225",
       "42226",
       "42227",
-      "42228",
       "42666",
       "42675",
       "42677",
@@ -514,7 +531,6 @@
       "60503",
       "60504",
       "60505",
-      "60508",
       "66818",
       "66821",
       "66822",
@@ -537,7 +553,6 @@
       "71857",
       "71858",
       "71860",
-      "71861",
       "71866",
       "72050",
       "72151",
@@ -559,12 +574,10 @@
       "75439",
       "75440",
       "75441",
-      "75442",
       "75443",
       "75444",
       "75445",
       "75446",
-      "75447",
       "75448",
       "75449",
       "75452",
@@ -596,20 +609,13 @@
       "77257",
       "77258",
       "77259",
-      "77984",
       "80118",
       "80119"
     ],
     "priorytet_redakcyjny": [
-      "71861",
-      "75442",
-      "42228",
-      "60508",
-      "77984",
       "75427",
       "43300",
       "43301",
-      "75447",
       "42224",
       "42691",
       "71860",
@@ -708,6 +714,8 @@
       "Super Mario": 1,
       "Technic": 11,
       "The Legend of Zelda": 2
-    }
+    },
+    "postep": "zamkniete 17 luk (23.08: 5, 24.08: 6, 25.08: 6)",
+    "korekta_filtra": "2026-08-25: filtr szumu odsiewal serie Brickset 'tbd' i przez to zgubil 72306 — realny zestaw 18+ na 1911 elementow z premiera 2026-10-01. Regula: 'tbd' to NIE jest szum, tylko set bez przypisanego jeszcze motywu. Drugi numer z tej serii, 40899, jest faktycznie pustym numerem."
   }
 }

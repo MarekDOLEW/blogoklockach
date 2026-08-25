@@ -356,3 +356,29 @@ są filtrowane wcale. To świadoma decyzja: lepiej pokazać tanią ofertę, któ
 okaże się akcesorium, niż ukryć realną okazję. Ryzyko maleje z każdą partią
 **Backfillu cen katalogowych** (12:00) — im więcej setów ma RRP, tym szerzej
 działa odsiew.
+
+---
+
+## WebFetch kłamie na niektórych serwisach *(ustalone 25.08.2026)*
+
+**403 od WebFetcha nie znaczy, że serwis nas blokuje.** StoneWars zwracał
+WebFetchowi 403 przez trzy dni z rzędu (22–24.08) i został przeze mnie
+odpisany jako źródło trwale niedostępne. To był błędny wniosek: `curl`
+z normalnym User-Agentem dostaje ze `stonewars.de` HTTP 200 i pełne 185 kB
+strony. Blokowany jest User-Agent WebFetcha, nie nasz ruch. Źródło wraca
+do użycia.
+
+**Gorszy przypadek: PromoBricks.** WebFetch nie zwracał błędu, tylko
+**milcząco obciętą wersję strony** — przez trzy dni pokazywał jako najnowszy
+artykuł z 21.08, przez co raportowałem „serwis nic nie publikuje", a nawet
+sprawdziłem to drugi raz z parametrem omijającym cache i dostałem to samo.
+`curl` na tej samej stronie pokazuje wpisy z 24.08. To groźniejsze niż 403,
+bo wygląda jak poprawna odpowiedź i przechodzi przez weryfikację.
+
+**Reguła: do list nagłówków używać `curl` + parsowania lokalnego, nie
+WebFetcha.** WebFetch zostaje do stron, gdzie faktycznie potrzebne jest
+streszczenie długiego tekstu. Przy każdym „źródło milczy" najpierw sprawdzić
+`curl`-em, zanim wyciągnie się wniosek o ciszy wydawniczej. Dotyczy to też
+Bricksetu: cap na stronie 20 potwierdziłem właśnie dlatego, że sprawdziłem
+go dwiema drogami — i tam `curl` potwierdził WebFetcha, więc wniosek się
+utrzymał.
