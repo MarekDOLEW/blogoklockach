@@ -2,7 +2,7 @@
 
 Dokument roboczy projektu Blog LEGO
 
-Wersja 1.3
+Wersja 1.4
 
 > Standard dla recenzji, poradników zakupowych, porównań, rankingów i artykułów o zestawach aktualnie dostępnych w sprzedaży.
 
@@ -310,6 +310,23 @@ Szczegółową, datowaną procedurę określa „Metodologia researchu LEGO”. 
 - warunki kodu, dostawy lub promocji opisywać tylko wtedy, gdy są potrzebne do prawidłowego odczytania ceny lub rekomendacji.
 - W finalnym artykule nie ma obowiązku informowania przy każdej ofercie, czy link jest afiliacyjny. Czytelnik ma otrzymać trwały punkt odniesienia cenowego oraz wiarygodne miejsca do sprawdzenia aktualnej kwoty. Status afiliacyjny służy kontroli wewnętrznej i nie może wpływać na wybór sklepów publikacyjnych.
 
+### 18.1. Podział pracy: kto wstawia ceny i linki
+
+Zasada obowiązująca od 25.08.2026. **Autor tekstu nie wpisuje konkretnych kwot sklepowych ani adresów afiliacyjnych.** Wstawia w ich miejsce oznaczenie `[wstaw link afiliacyjny]`, a ceny podaje wyłącznie tam, gdzie są częścią oceny: cena katalogowa, dobra i bardzo dobra cena, próg zakupu.
+
+Kwoty sklepowe i linki uzupełnia redakcja techniczna podczas wgrywania artykułu na serwer, ze źródeł serwisu:
+
+| Co | Skąd | Kto |
+|---|---|---|
+| Ceny sklepowe w tabeli | `oferty_feed.json` — renderowane przy budowaniu znacznikiem `<div class="ceny-setu" data-set="<nr>"></div>` | automat, odświeża się z każdym przebiegiem Łowcy |
+| Cena katalogowa (RRP) | `sety.json` → `ceny_baza.json` → `katalog.json`, w tej kolejności | automat; wartości sporne rozstrzyga kontrola na lego.pl |
+| Linki do sklepów | `/idz/<sklep>/<nr>` — worker i `redirects.json` | redakcja techniczna, zamiast `[wstaw link afiliacyjny]` |
+| Drabina cenowa i próg zakupu | ocena autora | autor tekstu |
+
+Dzięki temu artykuł nie zawiera ani jednej ręcznie wpisanej ceny sklepowej, która mogłaby się zestarzeć. Tabela cen w treści tekstu jest **generowana**, nie przepisywana — nie jest więc snapshotem, którego zakazuje §18, i nie podaje daty kontroli.
+
+**Cena katalogowa w tekście musi zgadzać się z danymi serwisu**, bo z tego samego źródła bierze ją generowana tabela — inaczej na jednej stronie stoją dwie różne kwoty. Przy rozbieżności rozstrzyga polski cennik LEGO, nie przeliczenie ceny w euro. Kontrola: `node scripts/kontrola-rrp.mjs`.
+
 ## 19. Próg zakupu
 
 Jeżeli dane na to pozwalają, artykuł powinien wskazywać orientacyjny poziom ceny, przy którym zestaw staje się atrakcyjnym zakupem. Próg nie może być ustalany mechanicznie jako stały procent RRP.
@@ -334,7 +351,7 @@ Poniższy przykład pokazuje trwałą drabinę cenową opartą na RRP, dobrej ce
 
 ## 20. Afiliacja, oznaczenia i CTA
 
-Do czasu wdrożenia rzeczywistych linków w materiałach roboczych stosować oznaczenie: [wstaw link afiliacyjny]. Status afiliacyjny oferty nie musi być opisywany w treści artykułu. Informacja o korzystaniu przez serwis z afiliacji powinna być zapewniona na poziomie strony, linku lub innego stałego elementu informacyjnego zgodnie z przyjętymi zasadami prawnymi i regulaminowymi.
+W materiale autorskim zawsze stosować oznaczenie: [wstaw link afiliacyjny] — także po wdrożeniu programów afiliacyjnych. Rzeczywiste adresy podstawia redakcja techniczna przy publikacji (§18.1), bo tylko ona zna aktualny stan `redirects.json` i tras `/idz/`. Autor nie sprawdza i nie wkleja linków sklepowych. Status afiliacyjny oferty nie musi być opisywany w treści artykułu. Informacja o korzystaniu przez serwis z afiliacji powinna być zapewniona na poziomie strony, linku lub innego stałego elementu informacyjnego zgodnie z przyjętymi zasadami prawnymi i regulaminowymi.
 
 CTA powinno wynikać z wcześniejszej rekomendacji i domyślnie prowadzić do 2–3 wiarygodnych sklepów, w których czytelnik sam sprawdzi aktualną cenę. Jeżeli zestaw jest drogi, CTA może zachęcać do porównania ofert i sprawdzenia, czy cena spadła poniżej rekomendowanego progu. Nie tworzyć sztucznej presji zakupowej i nie sugerować wyjątkowości promocji, jeśli jest to typowy poziom rynkowy.
 
@@ -431,6 +448,10 @@ Kolejność może zostać zmieniona, jeśli poprawia narrację i odpowiada chara
 
 ☐ Ceny zostały sprawdzone ponownie przed publikacją.
 
+☐ W treści nie ma ręcznie wpisanych kwot sklepowych — tabela cen stoi jako znacznik `ceny-setu` (§18.1).
+
+☐ Cena katalogowa podana w tekście zgadza się z danymi serwisu (`node scripts/kontrola-rrp.mjs`).
+
 ☐ Data sprawdzenia cen została zapisana wewnętrznie i nie została podana w artykule.
 
 ☐ W zapleczu researchowym odróżniono najniższą cenę, najlepszą ofertę dla czytelnika i najlepszą ofertę objętą afiliacją; osobno wybrano 2–3 wiarygodne sklepy publikacyjne.
@@ -470,6 +491,8 @@ Kolejność może zostać zmieniona, jeśli poprawia narrację i odpowiada chara
 - Mechaniczne kopiowanie identycznych śródtytułów do każdego artykułu.
 - Mechaniczne tworzenie listy plusów i minusów bez oceny ich znaczenia dla głównego odbiorcy.
 - Przepisywanie chwilowej listy cen z researchu do artykułu lub podawanie daty ich sprawdzenia w tekście.
+- Wpisywanie do artykułu kwot sklepowych „na sztywno" zamiast znacznika generowanej tabeli cen.
+- Przeliczanie ceny katalogowej z euro lub dolarów zamiast odczytania jej z polskiego cennika LEGO.
 - Traktowanie 2–3 sklepów publikacyjnych jako synonimu jednej najlepszej oferty z datowanego researchu.
 - Powtarzanie w zakończeniu pełnej drabiny cenowej oraz kompletnej listy zalet i wad.
 
@@ -494,3 +517,5 @@ Czy doświadczenie z budowania i jakość gotowego modelu uzasadniają cenę ora
 Artykuł realizuje swój cel wtedy, gdy po jego przeczytaniu odbiorca potrafi świadomie zdecydować: kupić teraz, poczekać na lepszą cenę albo wybrać inny zestaw.
 
 > Uwagi do wersji 1.3: uporządkowano praktykę po trzech artykułach wzorcowych. Rozdzielono dokładny, datowany research cenowy od trwałej prezentacji ceny i 2–3 sklepów w artykule; doprecyzowano ważenie cech według odbiorcy, zależność od licencji, rolę alternatyw, naturalne skracanie nazw, sposób użycia opinii recenzentów, ograniczanie powtórzeń i zakończenie. Fundamenty bezstronności oraz relacja standardu z metodologią pozostają bez zmian.
+
+> Uwagi do wersji 1.4 (25.08.2026): dodano §18.1 — podział pracy przy cenach i linkach. Autor tekstu nie wpisuje kwot sklepowych ani adresów afiliacyjnych; podstawia je redakcja techniczna przy publikacji, ze źródeł serwisu, a tabela cen w treści jest generowana przy budowaniu i odświeża się sama. Doprecyzowano §20, dopisano dwa punkty checklisty §26 i dwa antywzorce §27.

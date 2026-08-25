@@ -24,6 +24,57 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-25 09:15 · CODE · Ceny katalogowe w katalog.json były zawyżone — poprawione + zasada w standardzie
+
+**Miałem złą rację.** Wczoraj rozstrzygnąłem rozbieżność RRP na korzyść
+`katalog.json` przeciw materiałowi Piotra. Piotr miał rację, nasze dane były
+błędne. Marek sprawdził 31161 na lego.pl: 249,99 zł, nie 259,99 zł.
+
+**Przyczyna:** backfill cen katalogowych w `katalog.json` brał ceny z Bricksetu,
+a Brickset podaje GBP/USD/EUR — nie złotówki. Ktoś przeliczał kursem, a polski
+cennik LEGO ma własną drabinę. Dowód z naszych danych: **kwota 259,99 zł nie
+występuje ani razu** wśród 270 zweryfikowanych setów w `ceny_baza.json`, podczas
+gdy 249,99 zł występuje 8 razy, a 209,99 zł — 22 razy. Drabina wyliczona
+z par Brickset↔`ceny_baza`: 59,99 € → 249,99 zł (11512, 21595, 75642),
+49,99 € → 209,99 zł (10331, 21591, 11211).
+
+**Skala:** 22 rozbieżności na 198 setów możliwych do porównania (11%), w większości
+zawyżenia. Najgorsze: 42682 miał 304,99 zamiast 104,99, 43294 179,99 zamiast 81,99,
+76347 349,99 zamiast 249,99.
+
+**Zrobione:**
+- `src/data/katalog.json` — 22 ceny katalogowe zsynchronizowane ze źródłami
+  zweryfikowanymi; 31161 → 249,99, 42686 → 249,99, 76321 → 209,99.
+  Liczba wpisów bez zmian (7712).
+- `scripts/kontrola-rrp.mjs` (nowy) — porównuje `katalog.json` z `sety.json`
+  i `ceny_baza.json`, kod wyjścia 1 przy rozbieżności. `--napraw` nadpisuje.
+  Teraz: ROZBIEŻNYCH 0.
+- `src/pages/prezentowniki/lego-za-200-zl-dla-10-latka.md` — przywrócone
+  wartości Piotra.
+- `redakcja/standard-artykulow-biezacych.md` → **wersja 1.4**: nowy §18.1
+  „Podział pracy: kto wstawia ceny i linki", doprecyzowany §20, dwa punkty
+  checklisty §26 i dwa antywzorce §27.
+- `redakcja/README.md` — tabela wersji, opis mechaniki cen, log decyzji.
+- `redakcja/karty/prezentownik-200zl-10-latek.md` — rozbieżność rozstrzygnięta.
+
+**Nowa zasada (Standard §18.1):** autor tekstu **nie wpisuje kwot sklepowych ani
+adresów afiliacyjnych** — zostawia `[wstaw link afiliacyjny]` i podaje tylko ceny
+będące częścią oceny (RRP, dobra cena, próg zakupu). Kwoty i linki podstawia
+redakcja techniczna przy publikacji, ze źródeł serwisu. Cena katalogowa w tekście
+musi zgadzać się z danymi serwisu, bo z tego samego źródła bierze ją generowana
+tabela. Przy sporze rozstrzyga polski cennik LEGO, **nie przelicznik walutowy**.
+
+**Stan:** gotowe, wdrożone na produkcję
+
+**Dla drugiej strony:** przy każdym kolejnym backfillu cen w `katalog.json`
+uruchamiać `node scripts/kontrola-rrp.mjs` przed commitem. Cen katalogowych
+nie przeliczać z EUR/USD/GBP — brać z polskiego cennika.
+
+**Uwagi:** lego.com i promoklocki.pl blokują ruch serwerowy (403), więc RRP
+przy spornym secie weryfikuje człowiek. Brickset jest osiągalny i nadaje się
+do ustalenia poziomu cenowego w EUR — ale to punkt wejścia do drabiny,
+nie kurs do przemnożenia.
+
 ## 2026-08-25 08:45 · CODE · Tabela cen w treści artykułu — renderowana przy buildzie, nie wklepywana
 
 **Zrobione:**

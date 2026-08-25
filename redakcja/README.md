@@ -7,7 +7,7 @@ powstaje zgodnie z nimi:
 | Dokument | Wersja | Rola |
 |---|---|---|
 | [metodologia-researchu-lego.md](metodologia-researchu-lego.md) | 1.4 | Jak robić research: hierarchia źródeł, mapa recenzji (min. 4 niezależne opinie), karta researchu, procedura rozbieżności z bramką eskalacyjną |
-| [standard-artykulow-biezacych.md](standard-artykulow-biezacych.md) | 1.3 | Jak pisać: rdzeń + moduły, profil odbiorcy, ton, drabina cenowa, próg zakupu, CTA, checklista przed publikacją, antywzorce |
+| [standard-artykulow-biezacych.md](standard-artykulow-biezacych.md) | 1.4 | Jak pisać: rdzeń + moduły, profil odbiorcy, ton, drabina cenowa, próg zakupu, CTA, checklista przed publikacją, antywzorce |
 | [sklepy-i-afiliacja.md](sklepy-i-afiliacja.md) | 1.1 | Sklepy w researchu i publikacji: rejestr, kategorie ofert, 2–3 sklepy publikacyjne, bezstronność afiliacji |
 
 Źródłowe pliki .docx dostarcza wspólnik; przy nowej wersji dokumentu podmieniamy
@@ -25,6 +25,16 @@ Ustalenia integracyjne:
   codziennie przez runnery z feedów sklepów + `src/data/ceny_baza.json`
   (najniższe historyczne). Data kontroli jest zapisana w danych — wymóg
   „wewnętrznej daty" spełnia automat.
+- **Ceny i linki wstawia redakcja techniczna** (Standard §18.1, od 25.08.2026):
+  autor zostawia `[wstaw link afiliacyjny]` i podaje wyłącznie ceny będące
+  częścią oceny. Kwoty sklepowe wchodzą znacznikiem
+  `<div class="ceny-setu" data-set="<nr>"></div>` — `scripts/remark-ceny.mjs`
+  zamienia go przy budowaniu na tę samą tabelę co na hubie, więc odświeża się
+  z każdym przebiegiem Łowcy. Żadna kwota sklepowa nie jest wpisywana ręcznie.
+- **Cena katalogowa**: `sety.json` → `ceny_baza.json` → `katalog.json`.
+  Backfill RRP w `katalog.json` powstawał z Bricksetu (GBP/USD/EUR) i bywał
+  przeliczany kursem — a polski cennik LEGO ma własną drabinę (59,99 € to
+  249,99 zł, nie 259,99 zł). Kontrola: `node scripts/kontrola-rrp.mjs`.
 - **Prezentacja cen w artykułach** (Standard §18–19): artykuł dostaje trwałą
   drabinę cenową (RRP → dobra cena → bardzo dobra cena → próg zakupu),
   2–3 sklepy publikacyjne z linkami `/idz/<sklep>/<nr>` oraz link do huba
@@ -55,6 +65,14 @@ Ustalenia integracyjne:
   zaznaczamy zakres analizy zgodnie z Metodologią §5.3.
 
 ## Decyzje projektowe (log)
+
+- 2026-08-25 (Marek): **ceny wstawiamy my przy publikacji, ze źródeł serwisu** —
+  Piotr celowo zostawia w materiale `[wstaw link afiliacyjny]` i nie podaje kwot
+  sklepowych. Zapisane w Standardzie §18.1 (wersja 1.4).
+- 2026-08-25: `katalog.json` miał zawyżone ceny katalogowe (22 poprawki na 198
+  setów możliwych do porównania, m.in. 31161, 42686, 76321). Przyczyna: backfill
+  przeliczał ceny z Bricksetu zamiast czytać polski cennik. Dodana kontrola
+  `scripts/kontrola-rrp.mjs`; przy sporze rozstrzyga lego.pl, nie przelicznik.
 
 - 2026-08-20 (Marek): wiersze „Sprawdź cenę" bez kwoty **zostają** w tabelach
   cen hubów — lepiej mieć link niż nie mieć (zapisane też w

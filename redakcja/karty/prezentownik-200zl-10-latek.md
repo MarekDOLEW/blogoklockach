@@ -33,17 +33,22 @@ Media Expert, Empik, Smyk — kategoria prezentowa, wiarygodność i przewidywal
 42212 (fan Ferrari), 60497 (zabawa samochodami), 60506 (nieco ponad budżetem, ok. 210 zł), 75451 (fan Star Wars — nie w ciemno).
 
 ## Rozbieżności
-**Ceny katalogowe — materiał Piotra vs `katalog.json` (Brickset + lego.com/pl-pl, akt. 14.08.2026):**
+**Ceny katalogowe — rozstrzygnięte na korzyść materiału Piotra (25.08.2026).**
 
-| Zestaw | wg materiału | wg danych serwisu |
-|---|---|---|
-| 31161 | 249,99 zł | **259,99 zł** |
-| 42686 | 249,99 zł | **259,99 zł** |
-| 76321 | 209,99 zł | **219,99 zł** |
+Początkowo przyjąłem wartości z `katalog.json` (259,99 / 259,99 / 219,99) — **błędnie**.
+Kontrola Marka na lego.pl pokazała 249,99 zł dla 31161, a niezależna weryfikacja
+potwierdziła to dla całej trójki:
 
-Pozostałe trzy (42213, 77264, 21277) zgodne. Przyjęto wartości z `katalog.json`,
-bo tabela cen renderowana w artykule bierze RRP z tego samego źródła — inaczej
-na jednej stronie stałyby dwie różne ceny katalogowe tego samego zestawu.
-Wygląda na podwyżkę cennika LEGO PL o 10 zł, ale **do potwierdzenia z Piotrem**;
-serwer nie ma dostępu do lego.com, więc nie da się tego sprawdzić u źródła.
-Progi zakupu zostawiono bez zmian — opierają się na cenie rynkowej, nie na RRP.
+| Zestaw | Brickset (EUR) | PL wg drabiny | materiał Piotra | `katalog.json` (przed) |
+|---|---|---|---|---|
+| 31161 | 59,99 € | **249,99 zł** | 249,99 zł ✓ | 259,99 zł ✗ |
+| 42686 | 59,99 € | **249,99 zł** | 249,99 zł ✓ | 259,99 zł ✗ |
+| 76321 | 49,99 € | **209,99 zł** | 209,99 zł ✓ | 219,99 zł ✗ |
+
+Drabina wyliczona z 270 zweryfikowanych setów w `ceny_baza.json`:
+59,99 € → 249,99 zł (11512, 21595, 75642), 49,99 € → 209,99 zł (10331, 21591, 11211).
+Kwota 259,99 zł nie występuje w zweryfikowanych danych ani razu — nie jest polskim
+punktem cennika, tylko efektem przeliczenia euro kursem.
+
+`katalog.json` poprawiony (22 wpisy w całym pliku), dodana kontrola
+`scripts/kontrola-rrp.mjs`. Artykuł podaje wartości Piotra.
