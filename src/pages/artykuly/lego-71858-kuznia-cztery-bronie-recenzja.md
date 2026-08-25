@@ -112,7 +112,9 @@ Cena katalogowa wynosi 419,99 zł i na tym poziomie nie widzę większego powodu
 
 Jeżeli cena jest w pobliżu 285–300 zł, nie czekałbym wyłącznie w nadziei na kolejne kilkanaście złotych rabatu.
 
-Aktualne oferty warto sprawdzić w kilku dużych sklepach: [Empik](/idz/empik/71858), [Smyk](/idz/smyk/71858) i [Media Expert](/idz/mediaexpert/71858). Codziennie odświeżaną tabelę wszystkich ofert znajdziesz na [stronie zestawu 71858](/zestaw/71858/).
+<div class="ceny-setu" data-set="71858"></div>
+
+Pełną kartę zestawu z historią cen znajdziesz na [stronie zestawu 71858](/zestaw/71858/).
 
 ## A jeśli szukamy czegoś innego na 15-lecie?
 

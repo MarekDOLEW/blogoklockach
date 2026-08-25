@@ -113,7 +113,9 @@ To ciekawy technicznie zestaw i bardzo dobry model do budowania, ale jego ograni
 
 Jeżeli cena utrzymuje się bliżej 1300 zł, nie widzę powodu, żeby się spieszyć.
 
-Aktualną kwotę warto sprawdzić w kilku dużych sklepach: [Media Expert](/idz/mediaexpert/42215), [x-kom](/idz/xkom/42215) i [Smyk](/idz/smyk/42215). Pełne, codziennie odświeżane zestawienie ofert znajdziesz na [stronie zestawu 42215](/zestaw/42215/).
+<div class="ceny-setu" data-set="42215"></div>
+
+Pełną kartę zestawu z historią cen znajdziesz na [stronie zestawu 42215](/zestaw/42215/).
 
 ## A jeśli chcemy po prostu dużą maszynę Volvo?
 

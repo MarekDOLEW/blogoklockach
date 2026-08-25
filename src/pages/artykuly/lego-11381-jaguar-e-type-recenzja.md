@@ -117,7 +117,7 @@ Najczęściej wskazywany problem to reflektory i, szerzej, sposób rozwiązania 
 
 ## Ile warto zapłacić za LEGO 11381?
 
-Tutaj sytuacja zrobiła się ciekawa wyjątkowo szybko. Cena katalogowa LEGO wynosi 599,99 zł, ale już krótko po premierze zestaw pojawił się w dużych polskich sklepach znacznie taniej — w chwili pisania (20.08) kosztuje **439,00 zł** w Media Expert i na Allegro, czyli **−27%**.
+Tutaj sytuacja zrobiła się ciekawa wyjątkowo szybko. Cena katalogowa LEGO wynosi 599,99 zł, ale już krótko po premierze zestaw pojawił się w dużych polskich sklepach wyraźnie taniej — w okolicach 440 zł, czyli około **−27%**.
 
 Jaki jest sensowny próg zakupu? Przy cenie katalogowej nie spieszyłbym się z zakupem. To dobry zestaw, ale rynek szybko pokazał, że płacenie aż tyle nie jest konieczne. Moim zdaniem:
 
@@ -125,18 +125,11 @@ Jaki jest sensowny próg zakupu? Przy cenie katalogowej nie spieszyłbym się z 
 - **430–440 zł** — bardzo dobra cena,
 - **około 420 zł lub mniej** — poziom, przy którym zakup jest naprawdę atrakcyjny.
 
-Dlatego jako praktyczny próg zakupu przyjąłbym **około 440 zł** — czyli dokładnie tyle, ile zestaw kosztuje teraz. Jeśli cena spada do okolic 420 zł w dużym i wiarygodnym sklepie, nie widzę większego powodu, żeby czekać wyłącznie w nadziei na kolejne kilkanaście złotych rabatu.
+Dlatego jako praktyczny próg zakupu przyjąłbym **około 440 zł** — tyle, ile zestaw kosztuje w typowej ofercie dużego sklepu. Jeśli cena spada do okolic 420 zł w dużym i wiarygodnym sklepie, nie widzę większego powodu, żeby czekać wyłącznie w nadziei na kolejne kilkanaście złotych rabatu.
 
-| Sklep | Cena (20.08) | |
-|---|---|---|
-| Media Expert | **439,00 zł** | [Sprawdź →](/idz/mediaexpert/11381) |
-| Allegro | **439,00 zł** | [Sprawdź →](/idz/allegro/11381) |
-| Planeta Klocków | 589,99 zł | [Sprawdź →](/idz/planetaklockow/11381) |
-| Smyk | — | [Sprawdź cenę →](/idz/smyk/11381) |
-| Empik | — | [Sprawdź cenę →](/idz/empik/11381) |
-| x-kom | — | [Sprawdź cenę →](/idz/xkom/11381) |
+<div class="ceny-setu" data-set="11381"></div>
 
-Aktualną tabelę cen znajdziesz zawsze na [podstronie zestawu 11381](/zestaw/11381/).
+Pełną kartę zestawu z historią cen znajdziesz na [podstronie zestawu 11381](/zestaw/11381/).
 
 ## A potencjał kolekcjonerski?
 

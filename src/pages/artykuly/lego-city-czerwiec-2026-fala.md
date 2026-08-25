@@ -140,7 +140,11 @@ Największej ostrożności wymaga 60509. Nie dlatego, że zestaw jest słaby, le
 
 Z kolei 60494 jest dobrym przykładem zestawu, którego ocena mocno zależy od ceny. Za 519,99 zł wybrałbym coś innego. W okolicach 370–380 zł duży zestaw dwóch współpracujących maszyn staje się znacznie bardziej przekonujący.
 
-Ceny całej fali warto porównać przede wszystkim w [LEGO.pl](/idz/lego/60506), [Smyku](/idz/smyk/60506) i [Media Expert](/idz/mediaexpert/60506) — a przy każdym pojedynczym zestawie najprościej wejść w jego stronę z tabeli powyżej, bo zestawienie ofert odświeża się tam codziennie.
+Progi z tabeli są trwałe — nie zmieniają się z dnia na dzień, bo to ocena, a nie odczyt z cennika. Aktualne kwoty przy każdym zestawie sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
+
+Dla zestawu, który uważam za najmocniejszy punkt całej fali, ceny wyglądają w tej chwili tak:
+
+<div class="ceny-setu" data-set="60506"></div>
 
 ## Który zestaw dla kogo?
 

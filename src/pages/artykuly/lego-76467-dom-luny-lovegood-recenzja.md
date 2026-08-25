@@ -103,7 +103,7 @@ Jeżeli dziecko chce przede wszystkim rozwijać własny Hogwart i łączyć kole
 
 Cena katalogowa LEGO wynosi 419,99 zł i na tym poziomie trudno mi ten zestaw polecić. Dom jest ciekawy, ale nie oferuje na tyle dużo, żeby płacenie pełnego RRP miało sens.
 
-Na szczęście polski rynek wygląda już zupełnie inaczej — w chwili pisania (20.08) zestaw kosztuje **299,00 zł** w Media Expert i na Allegro, czyli **−29%** od ceny katalogowej. Przy takim poziomie rynku przyjąłbym:
+Na szczęście polski rynek wygląda już zupełnie inaczej — zestaw regularnie schodzi w okolice 300 zł, czyli blisko −29% od ceny katalogowej. Przy takim poziomie rynku przyjąłbym:
 
 - **około 330 zł** — cena jeszcze rozsądna dla zdecydowanego fana,
 - **około 315–320 zł** — dobry próg zakupu,
@@ -112,16 +112,9 @@ Na szczęście polski rynek wygląda już zupełnie inaczej — w chwili pisania
 
 Zamiast przywiązywać rekomendację do jednej promocji, która może szybko przestać być aktualna, porównaj bieżące ceny w kilku dużych sklepach:
 
-| Sklep | Cena (20.08) | |
-|---|---|---|
-| Media Expert | **299,00 zł** | [Sprawdź →](/idz/mediaexpert/76467) |
-| Allegro | **299,00 zł** | [Sprawdź →](/idz/allegro/76467) |
-| Planeta Klocków | 414,99 zł | [Sprawdź →](/idz/planetaklockow/76467) |
-| Smyk | — | [Sprawdź cenę →](/idz/smyk/76467) |
-| Empik | — | [Sprawdź cenę →](/idz/empik/76467) |
-| x-kom | — | [Sprawdź cenę →](/idz/xkom/76467) |
+<div class="ceny-setu" data-set="76467"></div>
 
-Aktualną tabelę cen z automatycznym odświeżaniem znajdziesz zawsze na [podstronie zestawu 76467](/zestaw/76467/).
+Pełną kartę zestawu z historią cen znajdziesz na [podstronie zestawu 76467](/zestaw/76467/).
 
 ## Czy Dom Luny ma potencjał kolekcjonerski?
 
@@ -139,7 +132,7 @@ Kolekcjonersko najbardziej interesujący będzie więc dla osób zbierających m
 
 Dom Lovegoodów wyróżnia się na tle serii, daje ciekawszy niż przeciętnie proces budowania, ma sensowną obsadę i po złożeniu oferuje kilka różnych sposobów zabawy. Projektor jest bardzo dobrym pomysłem, nawet jeśli sama jakość projekcji nie wszystkich przekona, a płytkie wnętrze pozostaje największym konstrukcyjnym kompromisem modelu.
 
-Największym problemem jest właściwie cena katalogowa. Przy 419,99 zł szukałbym czegoś innego albo czekał na promocję. Przy około 315–320 zł zestaw zaczyna mieć sens, a okolice 300 zł uważam już za bardzo dobrą cenę — **i dokładnie tyle kosztuje w chwili pisania**.
+Największym problemem jest właściwie cena katalogowa. Przy 419,99 zł szukałbym czegoś innego albo czekał na promocję. Przy około 315–320 zł zestaw zaczyna mieć sens, a okolice 300 zł uważam już za bardzo dobrą cenę — **i właśnie w tych okolicach rynek go trzyma**.
 
 Dla dziecka najważniejsze będzie jednak coś innego: zamiast następnej klasy i kolejnego korytarza Hogwartu dostaje miejsce z własnym charakterem, własnymi bohaterami i własną historią. I właśnie dlatego Dom Luny Lovegood jest jednym z ciekawszych kierunków, w jakie może rozwijać się dziecięca część serii LEGO Harry Potter.
 

@@ -172,14 +172,18 @@ W tej grupie szczególnie dobrze widać, dlaczego nie warto sugerować się wył
 
 | Zestaw | RRP LEGO | Dobra cena | Próg zakupu | |
 |---|---|---|---|---|
-| 31161 Średniowieczny smok | 249,99 zł | ok. 185 zł | ok. 190 zł | [Sprawdź →](/zestaw/31161/) |
+| 31161 Średniowieczny smok | 259,99 zł | ok. 185 zł | ok. 190 zł | [Sprawdź →](/zestaw/31161/) |
 | 42213 Ford Bronco | 249,99 zł | ok. 190 zł | ok. 190 zł | [Sprawdź →](/zestaw/42213/) |
 | 77264 Jaguar + Defender | 234,99 zł | ok. 180 zł | ok. 180 zł | [Sprawdź →](/zestaw/77264/) |
-| 42686 Niezwykła sala zabaw | 249,99 zł | ok. 190 zł | ok. 190 zł | [Sprawdź →](/zestaw/42686/) |
-| 76321 Spider-Man kontra Doc Ock | 209,99 zł | ok. 170 zł | ok. 175 zł | [Sprawdź →](/zestaw/76321/) |
+| 42686 Niezwykła sala zabaw | 259,99 zł | ok. 190 zł | ok. 190 zł | [Sprawdź →](/zestaw/42686/) |
+| 76321 Spider-Man kontra Doc Ock | 219,99 zł | ok. 170 zł | ok. 175 zł | [Sprawdź →](/zestaw/76321/) |
 | 21277 Kilofowa kopalnia | 234,99 zł | ok. 175 zł | ok. 180 zł | [Sprawdź →](/zestaw/21277/) |
 
-Aktualne ceny warto porównać przede wszystkim w [Media Expert](/idz/mediaexpert/31161), [Empiku](/idz/empik/31161) i [Smyku](/idz/smyk/31161) — a przy konkretnym zestawie najwygodniej wejść w jego stronę z tabeli powyżej, bo zestawienie ofert odświeża się tam codziennie.
+Progi z tabeli są trwałe — to ocena, przy jakiej kwocie zestaw ma sens, a nie odczyt z cennika. Aktualne ceny przy każdym z nich sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
+
+Dla rekomendacji głównej wygląda to w tej chwili tak:
+
+<div class="ceny-setu" data-set="31161"></div>
 
 Nie przywiązywałbym się przy tym do różnicy kilku złotych. Przy prezencie ważniejsze jest, żeby zestaw pochodził z wiarygodnego sklepu, był rzeczywiście dostępny i dotarł na czas.
 

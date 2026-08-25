@@ -24,6 +24,45 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-25 08:45 · CODE · Tabela cen w treści artykułu — renderowana przy buildzie, nie wklepywana
+
+**Zrobione:**
+- `scripts/remark-ceny.mjs` (nowy) — znacznik `<div class="ceny-setu" data-set="<nr>"></div>`
+  zamienia się przy budowaniu na pełną tabelę cen. Te same dane i ten sam HTML
+  co `TabelaCen.astro` na hubie, więc jeden komplet stylów.
+- `astro.config.mjs` — plugin dopisany do `remarkPlugins`
+- `src/styles/global.css` — `.karta--ceny` (odstępy dopasowane do kolumny tekstu)
+- Znacznik wstawiony w 4 nowe teksty (42215, 71858, 60506, 31161)
+- **Trzy stare artykuły odmrożone:** 31168, 11381, 76467 miały w treści ręcznie
+  wpisaną tabelę „Cena (20.08)" — podmienione na znacznik. Przy okazji usunięte
+  zdania typu „w chwili pisania (20.08) kosztuje 439 zł".
+  Kontrola: `grep "Cena (2\|w chwili pisania" src/pages/**/*.md` → pusto.
+
+**Dlaczego:** drabina cenowa (RRP → dobra cena → próg zakupu) zostaje stała,
+bo to ocena. Ceny sklepowe muszą być żywe — Łowca pushuje `oferty_feed.json`
+praktycznie codziennie, a każdy push przebudowuje serwis, więc tabela
+w artykule jest tak samo świeża jak na hubie. Efekt uboczny: 31168 pokazywał
+zamrożone 379,98 zł, gdy Allegro miało już 375 zł.
+
+**Stan:** gotowe, wdrożone na produkcję
+
+**Dla drugiej strony:** nic
+
+**Uwagi / do rozstrzygnięcia z Piotrem:**
+- **Rozbieżność RRP** przy trzech zestawach z prezentownika: materiał podaje
+  31161 = 249,99, 42686 = 249,99, 76321 = 209,99; `katalog.json` (Brickset +
+  lego.com/pl-pl, akt. 14.08) podaje odpowiednio 259,99 / 259,99 / 219,99.
+  Przyjęto dane serwisu, bo tabela cen bierze RRP z tego samego źródła i inaczej
+  na jednej stronie stałyby dwie różne kwoty. Zapisane w
+  `redakcja/karty/prezentownik-200zl-10-latek.md`. Wygląda na podwyżkę cennika
+  o 10 zł — serwer nie ma dostępu do lego.com, więc nie zweryfikuję u źródła.
+- Standard Piotra (§18) mówi „nie wpisywać snapshotu cen do artykułu". Znacznik
+  nie jest snapshotem — nic nie zamraża i nie podaje daty — ale przy najbliższej
+  aktualizacji standardu warto to dopisać wprost.
+- Tabela na wąskim ekranie przewija się w poziomie wewnątrz swojej ramki
+  (strona nie skacze). Hub zachowuje się identycznie — to nie regresja, ale
+  przycisk „Sprawdź w sklepie" jest wtedy przycięty. Osobny temat do poprawki.
+
 ## 2026-08-25 08:20 · CODE · Cztery nowe artykuły z materiałów Piotra + drugi rząd zajawek na HP
 
 **Zrobione:**

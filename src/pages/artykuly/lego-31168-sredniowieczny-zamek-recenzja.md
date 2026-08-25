@@ -6,7 +6,7 @@ data: "2026-08-20"
 kategoria: "Recenzja"
 faq:
   - q: "Ile kosztuje LEGO 31168?"
-    a: "Cena katalogowa to 519,99 zł, ale realne ceny sklepowe są dużo niższe — w chwili pisania od 379,98 zł (−27%). Około 380 zł to dobry próg zakupu, a 350–360 zł jest już bardzo dobrą ceną."
+    a: "Cena katalogowa to 519,99 zł, ale realne ceny sklepowe są dużo niższe — zestaw regularnie chodzi poniżej 400 zł. Około 380 zł to dobry próg zakupu, a 350–360 zł jest już bardzo dobrą ceną."
   - q: "Co można zbudować z zestawu 31168?"
     a: "Trzy pełne modele do wyboru: duży zamek z mostem zwodzonym, turniej rycerski z mniejszym zamkiem albo średniowieczne miasteczko z wiatrakiem. Naraz stoi jeden model — przebudowa wymaga rozebrania poprzedniego, i na tym polega idea Creator 3 w 1."
   - q: "Dla kogo jest zestaw 31168?"
@@ -79,7 +79,7 @@ Nie każde dziecko wykorzysta tę możliwość. Jeśli młody budowniczy traktuj
 
 ## Cena — tutaj warto poczekać na promocję
 
-Pomimo dużej liczby klocków w zestawie cena katalogowa 519,99 zł jest moim zdaniem zbyt wysoka. Na szczęście rynek szybko zszedł dużo niżej — w chwili pisania (20.08) najtańsza oferta to **379,98 zł** na Allegro, a zdarzały się już promocje na poziomie 349,99 zł, czyli rabat bliski 33%.
+Pomimo dużej liczby klocków w zestawie cena katalogowa 519,99 zł jest moim zdaniem zbyt wysoka. Na szczęście rynek szybko zszedł dużo niżej — zestaw regularnie chodzi poniżej 400 zł, a zdarzały się już promocje na poziomie 349,99 zł, czyli rabat bliski 33%.
 
 Przy obecnej sytuacji rynkowej:
 
@@ -89,16 +89,9 @@ Przy obecnej sytuacji rynkowej:
 
 Przy 349,99 zł nie widzę większego powodu, żeby czekać wyłącznie na kolejnych kilkanaście złotych rabatu.
 
-| Sklep | Cena (20.08) | |
-|---|---|---|
-| Allegro | **379,98 zł** | [Sprawdź →](/idz/allegro/31168) |
-| Media Expert | 396,39 zł | [Sprawdź →](/idz/mediaexpert/31168) |
-| Planeta Klocków | 499,99 zł | [Sprawdź →](/idz/planetaklockow/31168) |
-| Smyk | — | [Sprawdź cenę →](/idz/smyk/31168) |
-| Empik | — | [Sprawdź cenę →](/idz/empik/31168) |
-| x-kom | — | [Sprawdź cenę →](/idz/xkom/31168) |
+<div class="ceny-setu" data-set="31168"></div>
 
-Aktualną tabelę cen znajdziesz zawsze na [podstronie zestawu 31168](/zestaw/31168/).
+Pełną kartę zestawu z historią cen znajdziesz na [podstronie zestawu 31168](/zestaw/31168/).
 
 ## A potencjał kolekcjonerski?
 
