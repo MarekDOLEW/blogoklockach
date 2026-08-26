@@ -127,6 +127,7 @@ a { color: inherit; }
 .deal-foto { display: flex; }
 .deal-tresc { display: grid; gap: 16px; min-width: 0; }
 .deal-dnia .eyebrow { font-weight: 800; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--czerwien); display: flex; align-items: center; gap: 10px; }
+.deal-badges { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 .deal-dnia .cena-duza { font-family: var(--font-display); font-size: clamp(2.2rem, 6vw, 3.4rem); color: var(--czerwien); line-height: 1; }
 .deal-dnia .cena-duza small { font-size: 0.45em; color: var(--granat-60); font-family: var(--font-body); font-weight: 600; text-decoration: line-through; margin-left: 10px; }
 .deal-meta { display: flex; gap: 14px; flex-wrap: wrap; font-size: 0.92rem; color: var(--granat-60); }
