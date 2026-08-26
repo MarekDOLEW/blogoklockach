@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Artykul.astro
 title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
-opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, możliwy restart Harry'ego Pottera i Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
+opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC i Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
 data: "2026-08-20"
-zaktualizowano: "2026-08-24"
+zaktualizowano: "2026-08-26"
 kategoria: "Zapowiedzi"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
@@ -16,7 +16,7 @@ faq:
     a: "Zwykle nie w przypadku dużych zestawów kolekcjonerskich. Historycznie zapowiedź nowej wersji kultowego modelu — na przykład UCS-a — podnosiła ceny wersji schodzącej z produkcji, bo kolekcjonerzy dokupują ją, zanim zniknie. Odwrotny efekt zdarza się przy zwykłych zestawach z serii masowych."
 ---
 
-Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO i 50-lecie Gwiezdnych wojen. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
+Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO, panorama Marvela, rok Batmobili i 50-lecie Gwiezdnych wojen. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
 
 Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--maybe">przeciek</span> oznacza informację nieoficjalną. Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok — numery, ceny i liczby elementów mogą się zmienić. Nie podajemy plotek jako faktów.
 
@@ -32,6 +32,10 @@ Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--ma
 | Nowy UCS Sokół Millennium | — | — | 2027 | <span class="status status--maybe">przeciek</span> |
 | Harry Potter: 76483 Pierwszy rok w Hogwarcie | — | ~480 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 | Harry Potter: 76479 Harry poznaje Zgredka | — | ~65 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
+| Marvel: 67006 Marvel Skyline | ~1260 | — | I 2027 | <span class="status status--maybe">przeciek</span> |
+| Marvel: 67005 Sanctum Strange'a Supreme | ~810 | — | I 2027 | <span class="status status--maybe">przeciek</span> |
+| DC: 67008 Batmobil z „Powrotu Batmana" | — | ~215 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
+| DC: Daily Planet — budynek modularny | — | — | 2027 | <span class="status status--maybe">przeciek</span> |
 
 Poza tym w przeciekach przewijają się kolejne serie na 2027: Creator (numery 31396–31411, premiera w styczniu), Dragon Ball, Botanicals, Ninjago, City, Speed Champions, Marvel, Disney i nowa seria Cutelings. To zestawy z niższych półek cenowych — śledzimy je w [Nowościach](/nowosci/), a tutaj skupiamy się na tym, co kolekcjonerskie.
 
@@ -121,6 +125,41 @@ Czyli: **linia jest sprzątana teraz, a nowa fala przychodzi w styczniu.** Dla k
 <div class="galeria-setow" data-sety="76454,76473"></div>
 
 Osobna uwaga dla rodziców: jeśli kupujesz dziecku pierwszy zestaw Harry Potter, **restart serii nie jest powodem do czekania**. Zestawy z bieżącej oferty są dziś tańsze niż będą styczniowe premiery, a fabuła pierwszej części nie zmieni się przez nową ekranizację. Konkretne propozycje według wieku i budżetu zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
+
+## Marvel: skyline z miniaturami budynków, które dziś masz w pełnej skali <span class="status status--maybe">przeciek</span>
+
+Marvel to najliczniejsza fala w przeciekach na styczeń 2027 i jedyna, przy której da się dziś powiedzieć coś konkretnego o zakupach.
+
+Powtarzają się cztery pozycje: **67006 Marvel Skyline** (ok. 1260 elementów), **67005 Sanctum Strange'a Supreme** (ok. 810 elementów, z postacią z serialu *What If…?*), **67002 Mech Scarlet Spidera** — z rzadką minifigurką Scarlet Spidera, pierwszą od 2016 roku — oraz drobny **67001 Spider-Man kontra Demogoblin** (ok. 82 elementy). Przewija się też kolejny zestaw z logo, po tegorocznym 76313.
+
+Najciekawszy jest skyline, bo według przecieków ma zawierać miniatury Daily Bugle, Oscorp, Wieży Avengers, Baxter Building, Sanctum Sanctorum, Fisk Tower i Instytutu Xaviera. **Czyli w jednym pudełku znajdą się mikromodele budynków, które LEGO sprzedaje dziś jako osobne, pełnowymiarowe zestawy** — a część z nich schodzi z rynku w grudniu.
+
+> **Skompletuj kolekcję, zanim zostaną z niej miniatury**
+>
+> - [76324 Spider-Man i Oscorp](/zestaw/76324/) — 808 elementów, 559,99 zł katalogowo, rocznik 2025, <span class="status status--maybe">wycofanie w XII 2026</span>
+> - [76294 X-Men: Instytut Xaviera](/zestaw/76294/) — 3093 elementy, 1399,99 zł katalogowo, rocznik 2024, <span class="status status--maybe">wycofanie w XII 2026</span>
+>
+> Oba budynki mają swoje miniatury w zapowiadanym skyline i oba mają przewidziane wycofanie na grudzień 2026. Jeśli mają stać na półce w pełnej skali, a nie jako element panoramy, to jest ostatni sezon. Oscorp chodzi w sklepach zewnętrznych wyraźnie poniżej katalogu; Instytut Xaviera trzyma się blisko ceny katalogowej i przy nim akurat warto poczekać na listopadowe okno.
+
+Poza skyline'em na uwagę zasługuje [76342 Spider-Man kontra Mysterio: Daily Bugle](/zestaw/76342/) — Daily Bugle też jest na liście budynków w panoramie, a ten zestaw jest z bieżącego rocznika i nie ma jeszcze terminu wycofania. Tu nie ma pośpiechu.
+
+## DC: rok Batmobili <span class="status status--maybe">przeciek</span>
+
+Pierwsza fala DC na styczeń 2027 składa się według przecieków **wyłącznie z Batmobili**: **67008 Batmobil z „Powrotu Batmana" kontra Kaczka** (ok. 59,99 USD, czyli orientacyjnie 215 zł) oraz **67009 Batmobil z Arkham Knight** (ok. 29,99 USD) — ten drugi byłby pierwszym klockowym Batmobilem z gry Rocksteady. Osobno przewija się **Daily Planet jako budynek modularny**, przekładany już od kilku lat, oraz budowany Krypto gdzieś na przełomie 2027 i 2028.
+
+Dla kupującego istotny jest jeden szczegół: **67008 to ta sama scena, którą LEGO wydało w tym roku w dużej skali.** Tegoroczny [76355 Batmobil z filmu „Powrót Batmana"](/zestaw/76355/) ma 2269 elementów i cenę katalogową 899,99 zł; opisaliśmy go w [osobnym artykule](/artykuly/lego-76355-batmobil-powrot-batmana/). Zapowiadany zestaw z 2027 jest o rząd wielkości mniejszy i tańszy — to nie jest następca, tylko wersja kieszonkowa.
+
+> **Duża wersja jest teraz, mała przyjdzie później**
+>
+> - [76355 Batmobil z filmu „Powrót Batmana"](/zestaw/76355/) — 2269 elementów, 899,99 zł katalogowo, rocznik 2026, w regularnej sprzedaży
+>
+> Jeśli zależy Ci na modelu z tej sceny na półkę, kupujesz go dziś. Styczniowa zapowiedź nie zastąpi dużego Batmobila i nie ma powodu czekać z jednym na drugie — historycznie duże modele Batmobili schodzą z produkcji po dwóch–trzech latach i nie wracają.
+
+## Numery, które się zmieniają — drobiazg, który warto znać
+
+W przeciekach na 2027 zestawy Marvela i DC mają numery z zakresu **67xxx** zamiast dotychczasowych 76xxx. To ten sam ruch, który LEGO zrobiło już z serią Icons — z 10xxx na 11xxx.
+
+Praktyczna konsekwencja: **wyszukiwanie po numerze przestaje działać wstecz.** Jeśli przywykłeś szukać „LEGO 76…" dla superbohaterów, od 2027 trafisz w pustkę. Przy naszych podstronach zestawów nie ma to znaczenia — numer prowadzi tam, gdzie ma prowadzić, niezależnie od zakresu — ale w wyszukiwarkach sklepowych bywa mylące.
 
 ## Icons: motoryzacja w 2027 <span class="status status--maybe">wzorzec</span>
 
