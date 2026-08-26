@@ -29,9 +29,10 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-25",
-      "uzupelnione_lacznie": 1812,
+      "data": "2026-08-26",
+      "uzupelnione_lacznie": 1995,
       "ostatnie_serie": [
+        "Icons",
         "Star Wars"
       ]
     },
@@ -1988,7 +1989,8 @@
       "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
       "rok": 2026,
       "elementy": null,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "11389",
@@ -7651,133 +7653,152 @@
       "nazwa": "Y-wing Starfighter",
       "rok": 2017,
       "elementy": 691,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75173",
       "nazwa": "Luke's Landspeeder",
       "rok": 2017,
       "elementy": 149,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75174",
       "nazwa": "Desert Skiff Escape",
       "rok": 2017,
       "elementy": 277,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75175",
       "nazwa": "A-wing Starfighter",
       "rok": 2017,
       "elementy": 358,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "75176",
       "nazwa": "Resistance Transport Pod",
       "rok": 2017,
       "elementy": 294,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75177",
       "nazwa": "First Order Heavy Scout Walker",
       "rok": 2017,
       "elementy": 554,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "75178",
       "nazwa": "Jakku Quadjumper",
       "rok": 2017,
       "elementy": 457,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "75179",
       "nazwa": "Kylo Ren's TIE Fighter",
       "rok": 2017,
       "elementy": 630,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "75180",
       "nazwa": "Rathtar Escape",
       "rok": 2017,
       "elementy": 836,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "75182",
       "nazwa": "Republic Fighter Tank",
       "rok": 2017,
       "elementy": 305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75183",
       "nazwa": "Darth Vader Transformation",
       "rok": 2017,
       "elementy": 282,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75184",
       "nazwa": "LEGO Star Wars Advent Calendar",
       "rok": 2017,
       "elementy": 309,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75185",
       "nazwa": "Tracker I",
       "rok": 2017,
       "elementy": 557,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "75186",
       "nazwa": "The Arrowhead",
       "rok": 2017,
       "elementy": 775,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "75187",
       "nazwa": "BB-8",
       "rok": 2017,
       "elementy": 1106,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "75188-3",
       "nazwa": "Resistance Bomber (standard pilot version)",
       "rok": 2017,
       "elementy": 780,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "75189",
       "nazwa": "First Order Heavy Assault Walker",
       "rok": 2017,
       "elementy": 1376,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "75190",
       "nazwa": "First Order Star Destroyer",
       "rok": 2017,
       "elementy": 1416,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "75191",
       "nazwa": "Jedi Starfighter with Hyperdrive",
       "rok": 2017,
       "elementy": 825,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "75192",
@@ -7792,697 +7813,797 @@
       "nazwa": "Scarif Stormtrooper",
       "rok": 2017,
       "elementy": 89,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75524",
       "nazwa": "Chirrut Îmwe",
       "rok": 2017,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75525",
       "nazwa": "Baze Malbus",
       "rok": 2017,
       "elementy": 148,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75526",
       "nazwa": "Elite TIE Fighter Pilot",
       "rok": 2017,
       "elementy": 94,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75528",
       "nazwa": "Rey",
       "rok": 2017,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75529",
       "nazwa": "Elite Praetorian Guard",
       "rok": 2017,
       "elementy": 92,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75530",
       "nazwa": "Chewbacca",
       "rok": 2017,
       "elementy": 179,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "75531",
       "nazwa": "Stormtrooper Commander",
       "rok": 2017,
       "elementy": 100,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75532",
       "nazwa": "Scout Trooper & Speeder Bike",
       "rok": 2017,
       "elementy": 452,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "911618",
       "nazwa": "Flash Speeder",
       "rok": 2017,
       "elementy": 43,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911719",
       "nazwa": "Kanan Jarrus",
       "rok": 2017,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911720",
       "nazwa": "Ghost",
       "rok": 2017,
       "elementy": 50,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911721",
       "nazwa": "Imperial Combat Driver",
       "rok": 2017,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911722",
       "nazwa": "TIE Advanced",
       "rok": 2017,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911723",
       "nazwa": "Vulture Droid",
       "rok": 2017,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911724",
       "nazwa": "A-wing",
       "rok": 2017,
       "elementy": 47,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911725",
       "nazwa": "Sandcrawler",
       "rok": 2017,
       "elementy": 50,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911726",
       "nazwa": "Imperial Snowtrooper",
       "rok": 2017,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911727",
       "nazwa": "Rey's Speeder",
       "rok": 2017,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911728",
       "nazwa": "First Order Snowspeeder",
       "rok": 2017,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911729",
       "nazwa": "Droid Gunship",
       "rok": 2017,
       "elementy": 25,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911730",
       "nazwa": "Y-wing",
       "rok": 2017,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30380",
       "nazwa": "Kylo Ren's Shuttle",
       "rok": 2018,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30381",
       "nazwa": "Imperial TIE Fighter",
       "rok": 2018,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30498",
       "nazwa": "Imperial AT-Hauler",
       "rok": 2018,
       "elementy": 49,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40288",
       "nazwa": "BB-8",
       "rok": 2018,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40298",
       "nazwa": "DJ",
       "rok": 2018,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40299",
       "nazwa": "Kessel Mine Worker",
       "rok": 2018,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40300",
       "nazwa": "Han Solo Mudtrooper",
       "rok": 2018,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5005376",
       "nazwa": "Star Wars Anniversary Pod",
       "rok": 2018,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5005704",
       "nazwa": "LEGO Star Wars Mystery Box",
       "rok": 2018,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5005747",
       "nazwa": "Black Card Display Stand",
       "rok": 2018,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6252770",
       "nazwa": "Leia Organa",
       "rok": 2018,
       "elementy": 18,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6252808",
       "nazwa": "Chewbacca",
       "rok": 2018,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6252810",
       "nazwa": "Han Solo",
       "rok": 2018,
       "elementy": 23,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6252811",
       "nazwa": "Obi-Wan Kenobi",
       "rok": 2018,
       "elementy": 18,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6252812",
       "nazwa": "Luke Skywalker",
       "rok": 2018,
       "elementy": 20,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66596",
       "nazwa": "Super Pack 2-in-1",
       "rok": 2018,
       "elementy": 201,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66597",
       "nazwa": "2-in-1 Super Pack",
       "rok": 2018,
       "elementy": 205,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75181",
       "nazwa": "Y-wing Starfighter",
       "rok": 2018,
       "elementy": 1967,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "75188",
       "nazwa": "Bombowiec Ruchu Oporu",
       "rok": 2018,
       "elementy": 780,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "75188-2",
       "nazwa": "Resistance Bomber (Finch Dallow version)",
       "rok": 2018,
       "elementy": 780,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75193",
       "nazwa": "Millennium Falcon Microfighter",
       "rok": 2018,
       "elementy": 92,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "75194",
       "nazwa": "First Order TIE Fighter Microfighter",
       "rok": 2018,
       "elementy": 91,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "75195",
       "nazwa": "Ski Speeder kontra Maszyna krocząca Najwyższego Porządku",
       "rok": 2018,
       "elementy": 216,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75196",
       "nazwa": "A-Wing kontra TIE Silencer",
       "rok": 2018,
       "elementy": 188,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75197",
       "nazwa": "Najwyższy Porządek",
       "rok": 2018,
       "elementy": 108,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "75198",
       "nazwa": "Tatooine Battle Pack",
       "rok": 2018,
       "elementy": 97,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "75199",
       "nazwa": "Ścigacz bojowy generała Grievousa",
       "rok": 2018,
       "elementy": 157,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75200",
       "nazwa": "Szkolenie na wyspie Ahch-To",
       "rok": 2018,
       "elementy": 241,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75201",
       "nazwa": "AT-ST Najwyższego Porządku",
       "rok": 2018,
       "elementy": 370,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75202",
       "nazwa": "Obrona Crait",
       "rok": 2018,
       "elementy": 746,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75203",
       "nazwa": "Komora medyczna na Hoth",
       "rok": 2018,
       "elementy": 255,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75204",
       "nazwa": "Ścigacz piaskowy",
       "rok": 2018,
       "elementy": 278,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75205",
       "nazwa": "Kantyna Mos Eisley",
       "rok": 2018,
       "elementy": 376,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "75206",
       "nazwa": "Jedi i żołnierze armii klonów",
       "rok": 2018,
       "elementy": 102,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "75207",
       "nazwa": "Imperial Patrol Battle Pack",
       "rok": 2018,
       "elementy": 99,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "75208",
       "nazwa": "Chatka Yody",
       "rok": 2018,
       "elementy": 229,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75209",
       "nazwa": "Śmigacz Hana Solo",
       "rok": 2018,
       "elementy": 345,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75210",
       "nazwa": "Śmigacz Molocha",
       "rok": 2018,
       "elementy": 464,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "75211",
       "nazwa": "Imperialny myśliwiec TIE",
       "rok": 2018,
       "elementy": 519,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75212",
       "nazwa": "Sokół Millennium",
       "rok": 2018,
       "elementy": 1414,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "75213",
       "nazwa": "Kalendarz adwentowy 2018",
       "rok": 2018,
       "elementy": 307,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75214",
       "nazwa": "Myśliwiec Jedi Anakina",
       "rok": 2018,
       "elementy": 247,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75215",
       "nazwa": "Skutery Jeźdźców Chmur",
       "rok": 2018,
       "elementy": 355,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75216",
       "nazwa": "Sala Tronowa Snoke'a",
       "rok": 2018,
       "elementy": 492,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75217",
       "nazwa": "Imperialny transporter Conveyex",
       "rok": 2018,
       "elementy": 622,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "75218",
       "nazwa": "Myśliwiec X-Wing",
       "rok": 2018,
       "elementy": 731,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "75219",
       "nazwa": "Imperialny AT-Hauler",
       "rok": 2018,
       "elementy": 829,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "75220",
       "nazwa": "Piaskoczołg",
       "rok": 2018,
       "elementy": 1239,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "75221",
       "nazwa": "Pojazd desantowy Imperium",
       "rok": 2018,
       "elementy": 636,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "75222",
       "nazwa": "Zdrada w Mieście w Chmurach",
       "rok": 2018,
       "elementy": 2812,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1900.0
     },
     {
       "numer": "75230",
       "nazwa": "Porg",
       "rok": 2018,
       "elementy": 811,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75512",
       "nazwa": "Millennium Falcon Cockpit",
       "rok": 2018,
       "elementy": 203,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75533",
       "nazwa": "Boba Fett",
       "rok": 2018,
       "elementy": 144,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75534",
       "nazwa": "Darth Vader",
       "rok": 2018,
       "elementy": 168,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75535",
       "nazwa": "Han Solo",
       "rok": 2018,
       "elementy": 101,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75536",
       "nazwa": "Szturmowiec — strzelec",
       "rok": 2018,
       "elementy": 101,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75537",
       "nazwa": "Darth Maul",
       "rok": 2018,
       "elementy": 104,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75538",
       "nazwa": "Super Battle Droid",
       "rok": 2018,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75539",
       "nazwa": "501st Legion Clone Trooper & AT-RT Walker",
       "rok": 2018,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911831",
       "nazwa": "Kylo Ren's Shuttle",
       "rok": 2018,
       "elementy": 21,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911832",
       "nazwa": "Imperial Shuttle Pilot",
       "rok": 2018,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911833",
       "nazwa": "Imperial Shuttle",
       "rok": 2018,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911834",
       "nazwa": "Finn",
       "rok": 2018,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911835",
       "nazwa": "Dwarf Spider Droid",
       "rok": 2018,
       "elementy": 23,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911836",
       "nazwa": "Quadjumper",
       "rok": 2018,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911837",
       "nazwa": "AT-ST",
       "rok": 2018,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911838",
       "nazwa": "Probe Droid",
       "rok": 2018,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911839",
       "nazwa": "Obi-Wan Kenobi",
       "rok": 2018,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911840",
       "nazwa": "Droideka",
       "rok": 2018,
       "elementy": 24,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911841",
       "nazwa": "Poe Dameron's X-wing",
       "rok": 2018,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911842",
       "nazwa": "Star Destroyer",
       "rok": 2018,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "11920",
       "nazwa": "Star Wars: Build Your Own Adventure Galactic Missions parts",
       "rok": 2019,
       "elementy": 66,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30383",
       "nazwa": "Naboo Starfighter",
       "rok": 2019,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30384",
       "nazwa": "Snowspeeder",
       "rok": 2019,
       "elementy": 49,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30461",
       "nazwa": "Podracer",
       "rok": 2019,
       "elementy": 58,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30624",
       "nazwa": "Obi-Wan Kenobi - Collectable Minifigure",
       "rok": 2019,
       "elementy": 12,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 12.0
     },
     {
       "numer": "4002019",
       "nazwa": "Christmas X-wing",
       "rok": 2019,
       "elementy": 1038,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40333",
       "nazwa": "Mikromodel Bitwa o Hoth",
       "rok": 2019,
       "elementy": 195,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 49.99
     },
     {
       "numer": "40362",
