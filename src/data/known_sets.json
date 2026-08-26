@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-08-25",
+  "data_aktualizacji": "2026-08-26",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 254,
+  "liczba_setow": 260,
   "sety": [
     "10300",
     "10316",
@@ -98,6 +98,7 @@
     "40926",
     "40958",
     "40975",
+    "42224",
     "42228",
     "42229",
     "42231",
@@ -114,6 +115,7 @@
     "42676",
     "42682",
     "42690",
+    "42691",
     "42693",
     "42694",
     "42697",
@@ -146,6 +148,8 @@
     "43297",
     "43298",
     "43299",
+    "43300",
+    "43301",
     "43302",
     "60480",
     "60492",
@@ -162,6 +166,7 @@
     "71052",
     "71053",
     "71859",
+    "71860",
     "71861",
     "71862",
     "71863",
@@ -193,6 +198,7 @@
     "72423",
     "72537",
     "75426",
+    "75427",
     "75442",
     "75447",
     "75451",
@@ -377,6 +383,18 @@
       "nazwa": "nieujawniony zestaw (motyw tbd)",
       "premiera": null,
       "status": "NOWE 2026-08-25: numer w Brickset bez nazwy, liczby elementow, ceny i daty. Pusty rekord, sledzimy."
+    },
+    {
+      "numer": "72052-72061",
+      "nazwa": "Super Mario — osiem numerow na rocznik 2027",
+      "premiera": "2027",
+      "status": "NOWE 2026-08-26: API (updatedSince) pokazalo osiem zarezerwowanych numerow Super Mario na 2027 (72052, 72054, 72055, 72056, 72057, 72058, 72060, 72061) — wszystkie bez nazw i danych. Sygnal wart odnotowania: PromoBricks pisal 18.08, ze Sonic i Animal Crossing robia przerwe w 2027, a Super Mario dostaje w tym samym czasie osiem numerow. Kierunek linii licencyjnych na 2027 zaczyna sie rysowac."
+    },
+    {
+      "numer": "11222-11223",
+      "nazwa": "Marvel — dwa numery na rocznik 2027",
+      "premiera": "2027",
+      "status": "NOWE 2026-08-26: numery 11222 i 11223 zarezerwowane w Brickset na rocznik 2027, bez nazw i danych."
     }
   ],
   "luki_w_bazie": {
@@ -460,7 +478,6 @@
       "42221",
       "42222",
       "42223",
-      "42224",
       "42225",
       "42226",
       "42227",
@@ -477,7 +494,6 @@
       "42687",
       "42688",
       "42689",
-      "42691",
       "42692",
       "42695",
       "42696",
@@ -502,8 +518,6 @@
       "43288",
       "43290",
       "43291",
-      "43300",
-      "43301",
       "43303",
       "43304",
       "43305",
@@ -552,7 +566,6 @@
       "71856",
       "71857",
       "71858",
-      "71860",
       "71866",
       "72050",
       "72151",
@@ -566,7 +579,6 @@
       "75423",
       "75424",
       "75425",
-      "75427",
       "75431",
       "75436",
       "75437",
@@ -613,12 +625,6 @@
       "80119"
     ],
     "priorytet_redakcyjny": [
-      "75427",
-      "43300",
-      "43301",
-      "42224",
-      "42691",
-      "71860",
       "75446",
       "76324",
       "76344",
@@ -715,7 +721,8 @@
       "Technic": 11,
       "The Legend of Zelda": 2
     },
-    "postep": "zamkniete 17 luk (23.08: 5, 24.08: 6, 25.08: 6)",
-    "korekta_filtra": "2026-08-25: filtr szumu odsiewal serie Brickset 'tbd' i przez to zgubil 72306 — realny zestaw 18+ na 1911 elementow z premiera 2026-10-01. Regula: 'tbd' to NIE jest szum, tylko set bez przypisanego jeszcze motywu. Drugi numer z tej serii, 40899, jest faktycznie pustym numerem."
+    "postep": "zamkniete 23 luki (23.08: 5, 24.08: 6, 25.08: 6, 26.08: 6)",
+    "korekta_filtra": "2026-08-25: filtr szumu odsiewal serie Brickset 'tbd' i przez to zgubil 72306 — realny zestaw 18+ na 1911 elementow z premiera 2026-10-01. Regula: 'tbd' to NIE jest szum, tylko set bez przypisanego jeszcze motywu. Drugi numer z tej serii, 40899, jest faktycznie pustym numerem.",
+    "poza_rocznikiem_2026": "2026-08-26: rejestr obejmuje wylacznie rocznik 2026, ale luki siegaja glebiej. Przyklad wychwycony przez StoneWars: 72046 Game Boy (Super Mario, 421 el., 18+, premiera 2025-10, 59,99 EUR) nie ma wpisu w sety.json, a jest to zestaw 18+ o wysokim potencjale nostalgicznym. Rocznik 2025 i wczesniejsze wymagaja osobnego przegladu — teraz mozliwego jednym zapytaniem API na rocznik."
   }
 }
