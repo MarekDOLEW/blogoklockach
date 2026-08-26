@@ -4,8 +4,13 @@
 // i w /prezentownikach/ — trzy listingi wyglądają identycznie.
 const { zajawka, poziom = 3 } = Astro.props;
 const Tytul = `h${poziom}`;
+// data-kategoria zasila filtr kategorii w /artykuly/ (FiltrKategorii.astro).
+// Kategoria z karty (`karta_znacznik`) potrafi być inna niż nazwa kategorii —
+// np. „7 lat" zamiast „Prezentownik" — dlatego do filtrowania służy osobne
+// pole `grupa`, a nie tekst widoczny w plakietce.
+const grupa = zajawka.grupa ?? zajawka.kategoria;
 ---
-<a class="karta zajawka" href={zajawka.url}>
+<a class="karta zajawka" href={zajawka.url} data-kategoria={grupa}>
   <span class="nr">{zajawka.data} · {zajawka.kategoria}</span>
   {zajawka.foto ? (
     <img

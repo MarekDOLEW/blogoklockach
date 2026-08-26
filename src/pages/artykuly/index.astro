@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
+import FiltrKategorii from '../../components/FiltrKategorii.astro';
 import { zajawkiArtykulow, zajawkaZMeta } from '../../lib/artykuly.js';
 // Wszystkie artykuły serwisu, niezależnie od katalogu: recenzje i deale
 // leżą w ./, prezentowniki w ../prezentowniki/, a kalendarz i zapowiedzi
@@ -27,6 +28,7 @@ const zajawki = [...zAstro, ...zajawkiArtykulow(posts)].sort(
 ---
 <Base title="Artykuły — poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
   <h1 style="margin-top:28px">Artykuły</h1>
+  <FiltrKategorii zajawki={zajawki} />
   <div class="zajawki">
     {zajawki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}
   </div>

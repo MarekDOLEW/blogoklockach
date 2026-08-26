@@ -24,6 +24,40 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-26 16:45 · CODE · Filtr kategorii na /artykuly/
+
+**Zrobione:**
+- `src/components/FiltrKategorii.astro` (nowy) — pasek przycisków pod nagłówkiem
+  „Artykuły". Kategorie wyliczają się z faktycznych artykułów, nie z ręcznej
+  listy, więc nowa kategoria we frontmatterze pojawia się sama. Przy każdej
+  licznik: Wszystkie 18 · Prezentownik 7 · Recenzja 5 · Premiera 2 · Deal 1 ·
+  Kalendarz 1 · Poradnik 1 · Zapowiedzi 1.
+- `src/components/ZajawkaArtykulu.astro` — karta dostała `data-kategoria`.
+- `src/lib/artykuly.js` — nowe pole `grupa` w zajawce. Potrzebne, bo plakietka
+  prezentownika pokazuje `karta_znacznik` („10 lat · ok. 200 zł"), a filtrować
+  trzeba po nazwie kategorii — inaczej każdy prezentownik byłby osobnym
+  przyciskiem.
+- `src/styles/global.css` — `.filtr-kat`, `.fk-btn`, `.fk-licz`, `.fk-pusto`.
+
+**Jak działa:** cała lista jest w HTML, skrypt wyłącznie ukrywa karty. Bez JS-a
+strona pokazuje komplet, a Google widzi wszystkie 18 artykułów. Wybór trafia do
+adresu (`?kategoria=Recenzja`), więc filtr da się podlinkować i przeżywa
+odświeżenie. Nieznana kategoria w adresie jest ignorowana — nie da się trafić
+na pustą stronę.
+
+**Sprawdzone w przeglądarce:** Recenzja → 5 kart, Prezentownik → 7, Deal → 1,
+powrót na „Wszystkie" → 18 i czysty adres; deep link `?kategoria=Premiera` → 2;
+`?kategoria=Nieistniejaca` → 18. Na 390 px przyciski zawijają się do czterech
+rzędów, strona nie przewija się w poziomie.
+
+**Stan:** gotowe, wdrożone na produkcję
+
+**Dla drugiej strony:** nic
+
+**Uwagi:** to filtr, nie sortowanie — kolejność w każdej kategorii pozostaje
+malejąco po dacie. Jeśli miało być również przełączanie kolejności
+(najnowsze/najstarsze), to osobny temat.
+
 ## 2026-08-26 07:35 · CODE · Lista robocza cen katalogowych gotowa dla Coworku
 
 **Zrobione:**

@@ -227,6 +227,28 @@ a { color: inherit; }
 @media (max-width: 600px) { .zajawki { grid-template-columns: 1fr; } }
 /* min-width:0 — bez tego atrybut width obrazka wyznacza minimalną szerokość kolumny */
 .zajawki > * { min-width: 0; }
+/* Filtr kategorii nad listą artykułów (FiltrKategorii.astro). Plakietki
+   w kartach są tylko etykietami — klikalne są wyłącznie te przyciski. */
+.filtr-kat { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 22px; }
+.fk-btn {
+  font: inherit; font-size: 0.86rem; font-weight: 700; line-height: 1;
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 9px 14px; border-radius: 999px; cursor: pointer;
+  background: var(--karta); color: var(--granat);
+  border: 1px solid var(--linia);
+  transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+}
+.fk-btn:hover { background: #fff8e1; border-color: var(--zolty); }
+.fk-btn:focus-visible { outline: 2px solid var(--granat); outline-offset: 2px; }
+.fk-btn--aktywny { background: var(--granat); border-color: var(--granat); color: #fff; }
+.fk-btn--aktywny:hover { background: #0f1830; border-color: #0f1830; }
+.fk-licz {
+  font-size: 0.76rem; font-weight: 700; padding: 2px 7px; border-radius: 999px;
+  background: rgba(23,35,63,0.08); color: var(--granat-60);
+}
+.fk-btn--aktywny .fk-licz { background: rgba(255,255,255,0.18); color: #fff; }
+.fk-pusto { color: var(--granat-60); margin: 18px 0; }
+
 .zajawka { padding: 18px; display: flex; flex-direction: column; gap: 6px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
 .zajawka:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
 .zajawka h2, .zajawka h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }

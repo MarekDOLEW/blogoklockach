@@ -1,0 +1,88 @@
+---
+// Przyciski filtrujące listę artykułów po kategorii.
+//
+// Kategorie wyliczają się z faktycznych artykułów, a nie z ręcznej listy —
+// nowa kategoria w frontmatterze pojawia się tutaj sama. Przy każdej stoi
+// licznik, żeby czytelnik wiedział, czy warto klikać.
+//
+// Filtruje kartę oznaczoną `data-kategoria` (ZajawkaArtykulu.astro) wewnątrz
+// kontenera wskazanego przez `cel`. Cała lista jest w HTML — skrypt wyłącznie
+// ukrywa pozycje, więc bez JS-a strona pokazuje po prostu wszystko, a Google
+// widzi komplet artykułów.
+//
+// Wybór trafia do adresu (?kategoria=Recenzja), więc filtr da się podlinkować
+// i przetrwa odświeżenie strony oraz przycisk „wstecz".
+
+const { zajawki, cel = '.zajawki' } = Astro.props;
+
+const licznik = new Map();
+for (const z of zajawki) {
+  const g = z.grupa ?? z.kategoria;
+  if (g) licznik.set(g, (licznik.get(g) ?? 0) + 1);
+}
+// najliczniejsze kategorie pierwsze; przy remisie alfabetycznie
+const kategorie = [...licznik.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'pl'));
+---
+
+{kategorie.length > 1 && (
+  <div class="filtr-kat" data-filtr-kategorii data-cel={cel} role="group" aria-label="Filtruj artykuły według kategorii">
+    <button type="button" class="fk-btn fk-btn--aktywny" data-kat="" aria-pressed="true">
+      Wszystkie <span class="fk-licz">{zajawki.length}</span>
+    </button>
+    {kategorie.map(([nazwa, ile]) => (
+      <button type="button" class="fk-btn" data-kat={nazwa} aria-pressed="false">
+        {nazwa} <span class="fk-licz">{ile}</span>
+      </button>
+    ))}
+  </div>
+)}
+
+<script>
+  for (const pasek of document.querySelectorAll('[data-filtr-kategorii]')) {
+    const lista = document.querySelector(pasek.dataset.cel);
+    if (!lista) continue;
+    const przyciski = [...pasek.querySelectorAll('.fk-btn')];
+    const karty = [...lista.querySelectorAll('[data-kategoria]')];
+
+    // Komunikat na wypadek pustego wyniku. Filtr liczy się z widocznych kart,
+    // więc pusty stan nie powinien wystąpić — ale gdyby adres przyszedł
+    // z nieistniejącą kategorią, czytelnik nie zostaje z pustą stroną.
+    const pusto = document.createElement('p');
+    pusto.className = 'fk-pusto';
+    pusto.hidden = true;
+    pusto.textContent = 'Brak artykułów w tej kategorii.';
+    lista.after(pusto);
+
+    const zastosuj = (kat, { doAdresu = true } = {}) => {
+      let widoczne = 0;
+      for (const k of karty) {
+        const pasuje = !kat || k.dataset.kategoria === kat;
+        k.hidden = !pasuje;
+        if (pasuje) widoczne++;
+      }
+      for (const b of przyciski) {
+        const aktywny = (b.dataset.kat || '') === (kat || '');
+        b.classList.toggle('fk-btn--aktywny', aktywny);
+        b.setAttribute('aria-pressed', String(aktywny));
+      }
+      pusto.hidden = widoczne > 0;
+
+      if (!doAdresu) return;
+      const url = new URL(location.href);
+      if (kat) url.searchParams.set('kategoria', kat);
+      else url.searchParams.delete('kategoria');
+      history.replaceState(null, '', url);
+    };
+
+    pasek.addEventListener('click', (e) => {
+      const btn = e.target.closest('.fk-btn');
+      if (btn) zastosuj(btn.dataset.kat || '');
+    });
+
+    // stan początkowy z adresu — pozwala podlinkować konkretną kategorię
+    const zAdresu = new URLSearchParams(location.search).get('kategoria');
+    if (zAdresu && przyciski.some((b) => b.dataset.kat === zAdresu)) {
+      zastosuj(zAdresu, { doAdresu: false });
+    }
+  }
+</script>

@@ -75,6 +75,9 @@ export function zajawkaArtykulu(modul, { karty = false } = {}) {
     url: modul.url + '/',
     data: f.data,
     kategoria: (karty ? f.karta_znacznik : null) ?? f.kategoria,
+    // `grupa` to zawsze nazwa kategorii — także wtedy, gdy plakietka pokazuje
+    // krótszy znacznik karty. Po niej filtruje pasek kategorii w /artykuly/.
+    grupa: f.kategoria,
     tytul: (karty ? f.karta_tytul : null) ?? f.title,
     opis: (karty ? f.karta_opis : null) ?? f.opis,
     foto: foto?.url ?? null,
@@ -100,6 +103,7 @@ export function zajawkaZMeta(meta, { karty = false } = {}) {
     // tak samo jak w markdownie: listing działu pokazuje krótką plakietkę
     // (znacznik), a wspólna lista artykułów — nazwę kategorii
     kategoria: (karty ? meta.znacznik : null) ?? meta.kategoria ?? meta.znacznik,
+    grupa: meta.kategoria ?? meta.znacznik,
     tytul: meta.tytul,
     opis: meta.opis,
     foto: zdjecieZWartosci(meta.okladka),
