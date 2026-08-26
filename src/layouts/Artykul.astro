@@ -3,9 +3,14 @@ import Base from './Base.astro';
 const { frontmatter } = Astro.props;
 
 // Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
-// zaktualizowano (YYYY-MM-DD) i faq: [{q, a}] — z nich budujemy dane
-// strukturalne, żeby każdy artykuł (także huby-poradniki) wchodził do
-// Google z pełnym schema bez ręcznego JSON-LD w treści.
+// zaktualizowano (YYYY-MM-DD), faq: [{q, a}] i tagi: ["Dla rodziców"] —
+// z nich budujemy dane strukturalne, żeby każdy artykuł (także huby-poradniki)
+// wchodził do Google z pełnym schema bez ręcznego JSON-LD w treści.
+//
+// Tag mówi, DO KOGO tekst jest pisany, a kategoria — CZYM jest. Dlatego stoi
+// obok plakietki kategorii, a nie zamiast niej: „Premiera" + „Dla rodziców"
+// to dwie różne informacje i czytelnik potrzebuje obu.
+const tagi = frontmatter.tagi ?? [];
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const artykulJsonld = {
@@ -16,6 +21,7 @@ const artykulJsonld = {
   datePublished: frontmatter.data,
   dateModified: frontmatter.zaktualizowano ?? frontmatter.data,
   inLanguage: 'pl-PL',
+  ...(tagi.length ? { keywords: tagi.join(', ') } : {}),
   mainEntityOfPage: canonical,
   author: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
   publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
@@ -49,6 +55,7 @@ const jsonld = [artykulJsonld, okruszkiJsonld, ...(faqJsonld ? [faqJsonld] : [])
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{frontmatter.kategoria}</span>
+      {tagi.map((t) => <span class="badge-tag">{t}</span>)}
       <span style="font-size:0.85rem;color:var(--granat-60)">
         {frontmatter.data}
         {frontmatter.zaktualizowano && frontmatter.zaktualizowano !== frontmatter.data && (

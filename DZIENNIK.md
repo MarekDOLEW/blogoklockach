@@ -24,6 +24,35 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-26 17:20 · CODE · Fala City przeniesiona do kategorii Premiera + tag odbiorcy „Dla rodziców"
+
+**Zrobione:**
+- `src/pages/artykuly/lego-city-czerwiec-2026-fala.md` — `kategoria: "Poradnik"`
+  → `"Premiera"`, dodane `tagi: ["Dla rodziców"]`.
+- `src/layouts/Artykul.astro` — tagi renderują się obok plakietki kategorii
+  w linii nad tytułem; trafiają też do `keywords` w schema.org.
+- `src/components/ZajawkaArtykulu.astro` + `src/lib/artykuly.js` — ten sam tag
+  na karcie zajawki, pod linią „data · kategoria".
+- `src/styles/global.css` — `.badge-tag` (wersaliki, jaśniejsze tło niż
+  plakietka kategorii), `.zajawka-tagi`.
+
+**Nowe pole frontmattera:** `tagi: ["…"]` — tablica, więc artykuł może mieć
+kilka. Tag mówi **do kogo** tekst jest pisany, kategoria **czym** jest; dlatego
+stoją obok siebie, a nie zamiast siebie.
+
+**Uwaga o kategoriach:** „Premiera" już istniała (2 artykuły) — nie tworzyłem
+jej od zera, tylko przeniosłem do niej falę City; teraz ma 3 pozycje. Przycisk
+„Poradnik" **zniknął sam** z filtra, bo został bez artykułów — pasek liczy się
+z faktycznych tekstów.
+
+**Stan:** gotowe, wdrożone na produkcję
+
+**Dla drugiej strony:** nic
+
+**Uwagi:** tag pokazuję też na kartach listingu — ta sama linia nad tytułem co
+w artykule, więc rodzic wyłapie tekst już na liście. Gdyby miał być wyłącznie
+na stronie artykułu, wystarczy usunąć blok `zajawka-tagi` z komponentu.
+
 ## 2026-08-26 16:45 · CODE · Filtr kategorii na /artykuly/
 
 **Zrobione:**

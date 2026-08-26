@@ -3,7 +3,8 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO City — nowa fala z czerwca 2026. Który zestaw warto wybrać?"
 opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Przewodnik po całej fali — dla kogo który zestaw, progi zakupu i gdzie rynek już mocno zszedł poniżej RRP."
 data: "2026-08-25"
-kategoria: "Poradnik"
+kategoria: "Premiera"
+tagi: ["Dla rodziców"]
 okladka: "60506"
 faq:
   - q: "Który zestaw z czerwcowej fali LEGO City jest najbardziej uniwersalny?"

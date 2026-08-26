@@ -98,6 +98,15 @@ a { color: inherit; }
 }
 .badge-najnizsza { display: inline-block; background: var(--zielen); color: #fff; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 .badge-seria { display: inline-block; background: var(--papier); border: 1px solid var(--linia); font-weight: 600; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; color: var(--granat-60); }
+/* Tag odbiorcy („Dla rodziców") — stoi obok plakietki kategorii w nagłówku
+   artykułu i na karcie zajawki. Odróżnia się od kategorii kolorem, bo mówi
+   co innego: kategoria to rodzaj tekstu, tag to grupa, dla której go piszemy. */
+.badge-tag {
+  display: inline-block; background: rgba(23,35,63,0.06); color: var(--granat);
+  border: 1px solid var(--linia); font-weight: 700; font-size: 0.72rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 3px 10px; border-radius: 999px;
+}
 .badge-ex { display: inline-block; background: var(--granat); color: var(--zolty); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 .badge-wkrotce { display: inline-block; background: var(--zolty); color: var(--granat); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 
@@ -253,6 +262,7 @@ a { color: inherit; }
 .zajawka:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
 .zajawka h2, .zajawka h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
 .zajawka p { margin: 0; font-size: 0.88rem; color: var(--granat-60); }
+.zajawka-tagi { display: flex; flex-wrap: wrap; gap: 6px; margin-top: -2px; }
 .zajawka-wiecej { font-size: 0.85rem; font-weight: 700; margin-top: auto; padding-top: 6px; }
 .zajawka-foto {
   /* height:auto jest konieczne — bez niego atrybut height obrazka wygrywa

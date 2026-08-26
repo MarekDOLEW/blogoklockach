@@ -12,6 +12,11 @@ const grupa = zajawka.grupa ?? zajawka.kategoria;
 ---
 <a class="karta zajawka" href={zajawka.url} data-kategoria={grupa}>
   <span class="nr">{zajawka.data} · {zajawka.kategoria}</span>
+  {(zajawka.tagi ?? []).length > 0 && (
+    <span class="zajawka-tagi">
+      {zajawka.tagi.map((t) => <span class="badge-tag">{t}</span>)}
+    </span>
+  )}
   {zajawka.foto ? (
     <img
       class="zajawka-foto"
