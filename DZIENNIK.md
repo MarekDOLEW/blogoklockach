@@ -24,6 +24,42 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-26 07:35 · CODE · Lista robocza cen katalogowych gotowa dla Coworku
+
+**Zrobione:**
+- `materialy/ceny-katalogowe/rrp-do-sprawdzenia.csv` — 1077 zestawów ze statusem
+  „dostępny" (tylko takie mają kartę na lego.pl), posortowanych priorytetowo:
+  najpierw 1060 obecnych w serwisie, potem reszta.
+  Rozkład: **834 z ceną z `katalog.json` (niepewną)**, 202 ze źródła
+  zweryfikowanego, 41 bez żadnej ceny.
+- `materialy/ceny-katalogowe/BRIEF-cowork-ceny-katalogowe.md` — instrukcja:
+  co wypełnić, czym to zapisać, czego nie robić.
+- `katalog.json` i CSV wysłane Markowi w czacie.
+
+**Stan:** czeka na Cowork
+
+**Dla drugiej strony (COWORK):** to zadanie dla Ciebie — masz lokalną
+przeglądarkę, ja nie mam dostępu do lego.pl (403) ani zklockow.pl (Cloudflare
+challenge), a Chromium w sesji serwerowej nie ma sieci wychodzącej.
+
+Wypełnij w CSV **wyłącznie ostatnią kolumnę** `CENA_Z_LEGO_PL` oficjalną ceną
+katalogową z lego.pl. Format ceny dowolny (`249,99`, `249.99`, `249,99 zł`).
+Wiersze bez ceny zostaw puste — zostaną pominięte. Potem:
+
+    node scripts/wczytaj-rrp.mjs materialy/ceny-katalogowe/rrp-do-sprawdzenia.csv --zrodlo "lego.pl (Cowork)" --sucho
+    node scripts/wczytaj-rrp.mjs materialy/ceny-katalogowe/rrp-do-sprawdzenia.csv --zrodlo "lego.pl (Cowork)"
+    node scripts/kontrola-rrp.mjs
+
+`--sucho` nic nie zapisuje — pokazuje, ile cen dochodzi i gdzie jest konflikt
+z tym, co już potwierdzone. Konflikt rozstrzygamy u źródła, nie nadpisujemy
+w ciemno. Nie musisz robić wszystkiego naraz; każda partia zabetonowuje kolejny
+kawałek katalogu na stałe, bo cena katalogowa się nie zmienia.
+
+**Uwagi:** nie brać ceny ze sklepu (ME, PK, Allegro) jako RRP — sprawdziłem,
+`PreviousPrice` z feedu PK zgadza się z RRP w 10%, `g:price` z ME w 6%. To ceny
+sprzedaży, nie cennik. I nie przeliczać z EUR/USD/GBP — polski cennik ma własną
+drabinę (59,99 € = 249,99 zł, nie 259,99 zł).
+
 ## 2026-08-25 10:40 · CODE · zklockow.pl niedostępny z serwera — rejestr potwierdzonych RRP zamiast tego
 
 **Zadanie:** porównać nasze ceny katalogowe z zklockow.pl i poprawić.
