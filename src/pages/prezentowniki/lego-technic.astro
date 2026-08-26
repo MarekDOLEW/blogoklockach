@@ -1,0 +1,181 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Technic: 77 zestawów w sprzedaży, mediana przeceny 29%, ale rozrzut ogromny —
+// licencje motoryzacyjne po roku schodzą o 30-40%, świeże premiery trzymają katalog.
+// Persona przesunięta wyżej wiekowo niż w City i Friends.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-technic/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 5,
+  znacznik: 'Technic',
+  tytul: 'Prezent z LEGO Technic',
+  opis: 'Sześć zestawów, od 25 zł do bolidu F1. Mechanika zamiast minifigurek — dla kogo to działa, a dla kogo nie.',
+  data: '2026-08-26',
+  okladka: '42228',
+};
+
+const zestawy = [
+  { nr: '42218', nazwa: 'Harwester John Deere', etykieta: 'Do 25 zł', rrp: 41.99, dobra: 25 },
+  { nr: '42219', nazwa: 'Monster Jam Grave Digger', etykieta: 'Do 72 zł', rrp: 124.99, dobra: 72 },
+  { nr: '42212', nazwa: 'Ferrari FXX K', etykieta: 'Do 170 zł', rrp: 249.99, dobra: 170 },
+  { nr: '42226', nazwa: 'BMW M4 GT3 EVO', etykieta: 'Do 180 zł', rrp: 274.99, dobra: 180 },
+  { nr: '42236', nazwa: 'Warsztat tuningowy: Mustang', etykieta: 'Do 280 zł', rrp: 379.99, dobra: 280 },
+  { nr: '42228', nazwa: 'Bolid McLaren MCL39 F1', etykieta: 'Wielki prezent', rrp: 999.99, dobra: 660 },
+];
+
+const faq = [
+  {
+    q: 'Od ilu lat ma sens LEGO Technic?',
+    a: 'Najmniejsze zestawy z tej serii — pojedyncze maszyny budowlane i rolnicze po 100–200 elementów — działają już od siódmego roku życia. Prawdziwy Technic z przekładniami, zawieszeniem i skrętem zaczyna się powyżej pięciuset elementów i tam realistyczna granica to dziesięć–jedenaście lat. Nie chodzi o trudność pojedynczego kroku, tylko o to, że w Technicu błąd sprzed dwudziestu minut ujawnia się dopiero teraz, a cofnięcie się bywa frustrujące.',
+  },
+  {
+    q: 'Czy Technic nadaje się dla kogoś, kto lubi minifigurki?',
+    a: 'Raczej nie i warto to wiedzieć przed zakupem. W Technicu nie ma minifigurek, nie ma scenariuszy i nie ma zabawy w odgrywanie. Cała wartość leży w budowaniu mechanizmu i w tym, że gotowy model coś realnie robi — skręca, podnosi, przenosi napęd. Dziecko przyzwyczajone do City może odebrać to jako zestaw, z którym „nie da się bawić".',
+  },
+  {
+    q: 'Dlaczego samochody licencyjne z Technica tak mocno tanieją?',
+    a: 'Bo LEGO wydaje ich dużo i szybko wymienia rocznik. Model wprowadzony rok temu konkuruje z dwoma nowszymi, więc sklepy schodzą z ceną. W praktyce oznacza to, że starszy rocznik bywa lepszym prezentem niż nowość: Ferrari czy Porsche z zeszłego sezonu wygląda tak samo dobrze, a kosztuje 30–40% mniej. Wyjątkiem są duże modele kolekcjonerskie, które trzymają cenę.',
+  },
+  {
+    q: 'Czym różni się Technic z napędem od zwykłego?',
+    a: 'Zestawy z napędem typu pull-back mają mechanizm sprężynowy: odciągasz model do tyłu, puszczasz i jedzie sam. To najprostsza forma i sprawdza się u młodszych dzieci. Wyższa półka to modele z przekładniami i funkcjami sterowanymi ręcznie — obracasz kołem i podnosi się wysięgnik. Sterowanie z aplikacji dotyczy tylko nielicznych, najdroższych zestawów i nie jest w tej serii standardem.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Technic: co kupić i przy jakiej cenie"
+  opis="Sześć zestawów LEGO Technic na prezent — od 25 zł do bolidu F1. Mechanika zamiast minifigurek: dla kogo to działa i od jakiej ceny warto kupować."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Technic jest serią, przy której najłatwiej kupić prezent chybiony — i to nie z powodu wieku ani ceny, tylko dlatego, że <b>oferuje coś zupełnie innego niż reszta LEGO</b>. Nie ma tu minifigurek, scenariuszy ani zabawy w odgrywanie. Jest mechanizm: przekładnie, zawieszenie, skręt. Dziecko przyzwyczajone do City może odebrać to jako zestaw, z którym „nie da się bawić".</p>
+
+  <p>Jeśli natomiast obdarowywana osoba lubi rozumieć, <i>jak coś działa</i>, Technic nie ma w LEGO konkurencji. Poniżej sześć rekomendacji od maszyny rolniczej za dwadzieścia kilka złotych po bolid Formuły 1 — z jedną zasadą specyficzną dla tej serii: <b>starszy rocznik bywa lepszym prezentem niż nowość</b>, bo licencje motoryzacyjne tanieją tu szybciej niż gdziekolwiek indziej.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 25 zł: harwester John Deere</h2>
+
+  <Karta
+    nr="42218"
+    nazwa="Harwester kołowy John Deere 1470H"
+    rocznik={2026}
+    elementy={117}
+    rrp={41.99}
+    dlaKogo="dziecko 7–9 lat; pierwszy kontakt z Technikiem, dokładka do prezentu"
+    dobra={25}
+    bardzoDobra={22}
+    prog="poniżej 25 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sto kilkanaście elementów i maszyna leśna z ruchomym wysięgnikiem. To najprostsza forma Technica: <b>bez przekładni, ale z jedną funkcją, którą widać od razu</b>. Budowa na trzy kwadranse, w zupełności do ogarnięcia samodzielnie.</p>
+    <p>Rola tego zestawu jest testowa: za dwadzieścia kilka złotych sprawdzasz, czy dziecko w ogóle złapie ten typ budowania, zanim wydasz kilkaset na duży model.</p>
+  </Karta>
+
+  <h2>Do 72 zł: Monster Jam Grave Digger</h2>
+
+  <Karta
+    nr="42219"
+    nazwa="Monster Jam Grave Digger Ogień i lód"
+    rocznik={2026}
+    elementy={263}
+    rrp={124.99}
+    dlaKogo="dziecko 8–11 lat; Technic, którym naprawdę da się bawić"
+    dobra={72}
+    bardzoDobra={64}
+    prog="poniżej 72 zł — schodzi tam regularnie, katalogowa jest tu wyraźnie zawyżona"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Monster truck z napędem pull-back — odciągasz i jedzie sam. To rzadki przypadek w Technicu: <b>zestaw, który po zbudowaniu działa jak zabawka</b>, a nie jak model na półkę. Dwieście sześćdziesiąt elementów daje budowę na dwie godziny i konstrukcję odporną na wożenie po podłodze.</p>
+    <p>Najlepszy wybór dla dziecka, które lubi Technica, ale jeszcze nie usiedzi nad tysiącem elementów. Rabat rynkowy jest tu jednym z najgłębszych w serii.</p>
+  </Karta>
+
+  <h2>Do 170 zł: Ferrari FXX K — pierwszy prawdziwy samochód</h2>
+
+  <Karta
+    nr="42212"
+    nazwa="Ferrari FXX K"
+    rocznik={2025}
+    elementy={897}
+    rrp={249.99}
+    dlaKogo="nastolatek albo dorosły; pierwszy model z pełną mechaniką"
+    dobra={170}
+    bardzoDobra={152}
+    prog="poniżej 170 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prawie dziewięćset elementów, skręt kół, zawieszenie i silnik z ruchomymi tłokami — komplet funkcji, po których zaczyna się prawdziwy Technic. Przy tej cenie to <b>najkorzystniej wyceniony punkt wejścia w licencje motoryzacyjne</b> w całej bieżącej ofercie.</p>
+    <p>Budowa rozkłada się na dwa–trzy wieczory. Gotowy model jest wyraźnie „modelem": stoi na półce i wygląda, a nie jeździ po dywanie.</p>
+  </Karta>
+
+  <h2>Do 180 zł: BMW M4 GT3 EVO</h2>
+
+  <Karta
+    nr="42226"
+    nazwa="Samochód wyścigowy BMW M4 GT3 EVO"
+    rocznik={2026}
+    elementy={747}
+    rrp={274.99}
+    dlaKogo="nastolatek albo dorosły fan motorsportu; świeży rocznik w dobrej cenie"
+    dobra={180}
+    bardzoDobra={162}
+    prog="poniżej 180 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Model z bieżącego rocznika, a mimo to schodzi już około jednej trzeciej poniżej katalogu — nietypowo szybko jak na świeżą premierę. Siedemset elementów, malowanie zespołu wyścigowego i pełny zestaw funkcji mechanicznych.</p>
+    <p>Wybór między tym a Ferrari FXX K jest w praktyce wyborem estetycznym: <b>mechanicznie oba dają to samo</b>, różnią się liczbą elementów i marką na masce. Jeśli obdarowywana osoba nie ma preferencji, tańsze Ferrari daje więcej klocków za mniejsze pieniądze.</p>
+  </Karta>
+
+  <h2>Do 280 zł: warsztat tuningowy z Mustangiem</h2>
+
+  <Karta
+    nr="42236"
+    nazwa="Warsztat tuningowy: samochód Ford Mustang"
+    rocznik={2026}
+    elementy={973}
+    rrp={379.99}
+    dlaKogo="nastolatek 12+; jedyny zestaw w serii, w którym coś się zmienia po zbudowaniu"
+    dobra={280}
+    bardzoDobra={252}
+    prog="poniżej 280 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>To najciekawszy koncepcyjnie zestaw w bieżącej ofercie Technica: samochód plus <b>warsztat z częściami do przebudowy</b>, więc model nie kończy się w momencie ułożenia ostatniego klocka. Można zmieniać spoilery, felgi i elementy nadwozia, a potem wracać do konfiguracji.</p>
+    <p>Dla kogo szczególnie: dla kogoś, kto już zbudował dwa–trzy modele Technica i zaczyna narzekać, że „wszystkie są takie same". Tutaj zabawa trwa po budowie, co w tej serii jest rzadkością.</p>
+  </Karta>
+
+  <h2>Wielki prezent: bolid McLaren MCL39 F1</h2>
+
+  <Karta
+    nr="42228"
+    nazwa="Bolid McLaren MCL39 F1"
+    rocznik={2026}
+    elementy={1675}
+    rrp={999.99}
+    dlaKogo="dorosły fan Formuły 1; model wyłącznie ekspozycyjny"
+    dobra={660}
+    bardzoDobra={600}
+    prog="poniżej 660 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tysiąc siedemset elementów w skali, w której odwzorowanie bolidu ma sens — z zawieszeniem, kierownicą i pełnym malowaniem zespołu. To model dla dorosłego: buduje się kilka wieczorów, a potem stoi.</p>
+    <p>Formuła 1 jest w tym roku jednym z motorów wzrostu sprzedaży LEGO, więc <b>zestawów F1 będzie przybywać, a ten konkretny nie jest zagrożony wycofaniem</b>. Nie ma powodu do pośpiechu — poza tym, że przy kwocie zbliżonej do tysiąca złotych warto poczekać na listopadowe okno promocyjne.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Reguła specyficzna dla tej serii jest prosta: <b>nie kupuj świeżej premiery za pełną cenę</b>. LEGO wydaje licencje motoryzacyjne szybko i gęsto, więc model z zeszłego sezonu konkuruje z dwoma nowszymi i sklepy schodzą z ceną o 30–40%. Ferrari czy Porsche z rocznika 2024 wygląda tak samo dobrze jak tegoroczne, a kosztuje wyraźnie mniej.</p>
+
+  <p>Wyjątkiem są duże modele kolekcjonerskie powyżej dwóch tysięcy elementów — te trzymają cenę i po wycofaniu drożeją. Przy nich terminy z <a href="/kalendarz-promocji-lego/">kalendarza promocji</a> mają większe znaczenie niż czekanie na kolejny rocznik. Pełną serię z bieżącymi cenami znajdziesz na <a href="/serie/technic/">stronie LEGO Technic</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

@@ -14,6 +14,9 @@ const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
 export const meta = {
   url: '/prezentowniki/lego-star-wars/',
   kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 4,
   znacznik: 'Star Wars',
   tytul: 'Prezent z LEGO Star Wars',
   opis: 'Siedem zestawów, od 35 zł do wielkiego prezentu. Mechy, hełmy, statki — dla kogo każdy z nich i przy jakiej cenie kupować.',
@@ -55,7 +58,7 @@ const faq = [
   title="Prezent z LEGO Star Wars: co kupić i przy jakiej cenie"
   opis="Siedem zestawów Star Wars na prezent — od 35 zł do wielkiego pudełka. Mechy, hełmy i statki: dla kogo każdy z nich i od jakiej ceny warto kupować."
   data="2026-08-24"
-  zaktualizowano="2026-08-24"
+  zaktualizowano="2026-08-26"
   faq={faq}
   zestawy={zestawy}
 >
@@ -145,6 +148,7 @@ const faq = [
     rocznik={2022}
     elementy={584}
     rrp={309.99}
+    status="znika"
     dlaKogo="dorosły; wyłącznie na półkę — to nie jest zabawka"
     dobra={185}
     bardzoDobra={165}
@@ -154,6 +158,7 @@ const faq = [
     <p>Hełmy to osobna kategoria: budowa na jeden wieczór, podstawka z tabliczką, zero minifigurek i zero funkcji. Dla dorosłego, który chce mieć na półce coś rozpoznawalnego, ale nie ma miejsca ani budżetu na duży model — <b>to najlepszy punkt wejścia w całej serii</b>.</p>
     <p>Rocznik 2022 działa tu na korzyść kupującego: zestaw ma za sobą kilka lat w sprzedaży, więc jego cena rynkowa ustabilizowała się wyraźnie poniżej katalogowej. Za mniej niż dwieście złotych dostaje się prawie sześćset elementów.</p>
     <p>Nie kupuj tego dziecku. Po zbudowaniu nie ma z tym absolutnie nic do roboty — a to rozczarowanie, które widać od razu.</p>
+    <p><b>Doszedł termin:</b> ten hełm ma przewidziane wycofanie na grudzień 2026. Hełmy po zejściu z produkcji znikają ze sklepów szybko i nie wracają — przy tej cenie rynkowej czekanie na jeszcze niższą kwotę przestało się opłacać.</p>
   </Karta>
 
   <h2>Do 380 zł: Grogu — duży model, szeroki odbiorca</h2>
@@ -182,13 +187,15 @@ const faq = [
     rocznik={2024}
     elementy={1579}
     rrp={779.99}
+    status="znika"
     dlaKogo="dorosły fan albo nastolatek budujący dłuższe konstrukcje"
     dobra={630}
     bardzoDobra={570}
-    prog="poniżej 630 zł; przy Black Friday realne jest zejście poniżej 570 zł"
+    prog="poniżej 630 zł — ale przy wycofaniu w grudniu liczy się termin, nie ostatnie pięćdziesiąt złotych"
     sklepyPublikacyjne={SKLEPY}
   >
     <p>Sokół Millennium jest w LEGO Star Wars pozycją obowiązkową i wydawaną wielokrotnie — od wersji za trzysta sześćdziesiąt złotych po kolekcjonerskiego olbrzyma za trzy i pół tysiąca. <b>Ta odmiana, w wersji z serialu, trafia w najlepszy punkt kompromisu</b>: półtora tysiąca elementów, imponujący rozmiar, cena mieszcząca się w kategorii „duży prezent", a nie „zakup życia".</p>
+    <p><b>Zmiana wobec sierpnia:</b> ten zestaw trafił na listę wycofań przewidzianych na grudzień 2026. To odwraca zwykłą radę — przy Sokole nie warto już czekać na Black Friday, bo ryzyko, że zniknie z półek, jest większe niż spodziewana oszczędność.</p>
     <p>Jeśli natomiast obdarowany chce <i>tego jednego</i> Sokoła, o którym myśli każdy fan — to <a href="/zestaw/75192/">75192</a>, 7541 elementów i cena katalogowa 3599,99 zł. Ale przy takiej kwocie prezent przestaje być prezentem, a zaczyna być decyzją, którą podejmuje się samodzielnie.</p>
   </Karta>
 

@@ -1,0 +1,181 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Minecraft: 39 zestawów, mediana przeceny 32%. Specyfika serii — dziecko zwykle
+// zna dokładnie te obiekty z gry, więc trafność prezentu zależy od tego, w co gra,
+// a nie od wieku. Persona 7-12 lat, wąska i dobrze określona.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-minecraft/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 10,
+  znacznik: 'Minecraft',
+  tytul: 'Prezent z LEGO Minecraft',
+  opis: 'Sześć zestawów, od 36 zł do wieży Endermana. Seria, w której dziecko zna każdy klocek z gry.',
+  data: '2026-08-26',
+  okladka: '21279',
+};
+
+const zestawy = [
+  { nr: '21584', nazwa: 'Podróż przez portal Netheru', etykieta: 'Do 36 zł', rrp: 61.99, dobra: 36 },
+  { nr: '21585', nazwa: 'Farma kurczaków', etykieta: 'Do 42 zł', rrp: 81.99, dobra: 42 },
+  { nr: '21276', nazwa: 'Creeper', etykieta: 'Do 120 zł', rrp: 169.99, dobra: 120 },
+  { nr: '21590', nazwa: 'Walka z Witherem', etykieta: 'Do 172 zł', rrp: 274.99, dobra: 172 },
+  { nr: '21597', nazwa: 'Stacja Ghasta', etykieta: 'Do 295 zł', rrp: 419.99, dobra: 294 },
+  { nr: '21279', nazwa: 'Wieża Endermana', etykieta: 'Wielki prezent', rrp: 439.99, dobra: 295 },
+];
+
+const faq = [
+  {
+    q: 'Czy dziecko musi grać w Minecrafta, żeby zestaw miał sens?',
+    a: 'Praktycznie tak i to odróżnia tę serię od City czy Technica. Zestawy odtwarzają konkretne obiekty z gry — Creepera, Endermana, portal do Netheru — i ich wartość polega na rozpoznaniu. Dziecko, które nie gra, dostaje kanciastą konstrukcję bez kontekstu. Dobra wiadomość jest taka, że jeśli dziecko gra, to zna te obiekty dokładnie i sama nazwa na pudełku wystarcza za całą rekomendację.',
+  },
+  {
+    q: 'Skąd wiedzieć, który zestaw wybrać, jeśli dziecko gra?',
+    a: 'Najprostszy sposób to zapytać, w co gra ostatnio — w Minecrafcie są wyraźne etapy. Świat podstawowy to farmy, wioski i zwierzęta. Nether to portal, ghasty i piglini. Koniec gry to Enderman i smok Endu. Zestaw pasujący do etapu, na którym dziecko akurat jest, trafia zawsze; zestaw z etapu, którego jeszcze nie zna, bywa niezrozumiały.',
+  },
+  {
+    q: 'Czym różnią się duże figurki od zestawów ze scenkami?',
+    a: 'Figurki — Creeper, Lis, Enderman — to modele jednej postaci, zwykle 500–900 elementów, do postawienia na półce. Scenki to konstrukcje z minifigurkami, akcesoriami i funkcjami, przy których toczy się zabawa. Figurki wyglądają efektowniej przy rozpakowywaniu, scenki działają dłużej. Przy dziecku, które lubi ustawiać i odgrywać, wybieramy scenkę.',
+  },
+  {
+    q: 'Ile realnie kosztują zestawy Minecraft w sklepach?',
+    a: 'Mediana przeceny to około 32% poniżej ceny katalogowej, a drobne pozycje z bieżącego rocznika schodzą nawet o połowę. Seria jest szeroko dostępna w elektromarketach, więc konkurencja cenowa jest tu wyraźna. Płacenie ceny katalogowej nie ma uzasadnienia praktycznie przy żadnym zestawie z tej linii.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Minecraft: co kupić i przy jakiej cenie"
+  opis="Sześć zestawów LEGO Minecraft na prezent — od 36 zł do wieży Endermana. Jak dobrać zestaw do etapu gry, na którym jest dziecko."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Minecraft jest serią, przy której <b>rada „zapytaj dziecko, w co gra" jest ważniejsza niż wszystko inne</b>. Zestawy odtwarzają konkretne obiekty z gry i ich wartość polega na rozpoznaniu. Dziecko, które gra, zna Creepera i portal do Netheru dokładnie — sama nazwa na pudełku wystarcza za całą rekomendację. Dziecko, które nie gra, dostaje kanciastą konstrukcję bez kontekstu.</p>
+
+  <p>W samej grze są wyraźne etapy i warto je znać przy wyborze: <b>świat podstawowy</b> to farmy, wioski i zwierzęta, <b>Nether</b> to portal, ghasty i piglini, <b>Koniec</b> to Enderman i smok Endu. Zestaw pasujący do etapu, na którym dziecko akurat jest, trafia zawsze. Poniżej sześć rekomendacji rozłożonych na te etapy — z progiem zakupu, bo seria jest szeroko dostępna w elektromarketach i przecenia się głęboko.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 36 zł: podróż przez portal Netheru</h2>
+
+  <Karta
+    nr="21584"
+    nazwa="Podróż przez portal Netheru"
+    rocznik={2026}
+    elementy={192}
+    rrp={61.99}
+    dlaKogo="dziecko 7–10 lat, które zna już Nether; dokładka do prezentu"
+    dobra={36}
+    bardzoDobra={32}
+    prog="poniżej 36 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Portal z obsydianu, dwie minifigurki i fragment terenu po obu stronach. Sto dziewięćdziesiąt elementów za mniej niż czterdzieści złotych — <b>najlepszy stosunek zawartości do ceny w dolnej półce serii</b>.</p>
+    <p>Portal jest w Minecrafcie jednym z najbardziej rozpoznawalnych obiektów i moment jego zbudowania w grze każde dziecko pamięta. To zestaw, który trafia niemal na pewno — o ile dziecko doszło już do Netheru.</p>
+  </Karta>
+
+  <h2>Do 42 zł: farma kurczaków</h2>
+
+  <Karta
+    nr="21585"
+    nazwa="Farma kurczaków"
+    rocznik={2026}
+    elementy={233}
+    rrp={81.99}
+    dlaKogo="dziecko 6–9 lat; działa już na najwcześniejszym etapie gry"
+    dobra={42}
+    bardzoDobra={37}
+    prog="poniżej 42 zł — schodzi o połowę poniżej katalogu"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Zagroda, zwierzęta i figurka gracza. To zestaw z <b>najwcześniejszego etapu gry</b>, więc jest bezpieczniejszy niż portal: farmę zwierząt buduje każdy w pierwszych godzinach, niezależnie od tego, jak daleko zaszedł potem.</p>
+    <p>Dwieście trzydzieści elementów przy cenie rynkowej około czterdziestu złotych. Jeśli nie wiesz, na jakim etapie jest dziecko, ten wybór ryzykuje najmniej.</p>
+  </Karta>
+
+  <h2>Do 120 zł: Creeper</h2>
+
+  <Karta
+    nr="21276"
+    nazwa="Creeper"
+    rocznik={2025}
+    elementy={665}
+    rrp={169.99}
+    dlaKogo="dziecko 8–12 lat; model na półkę, najbardziej rozpoznawalna postać z gry"
+    dobra={120}
+    bardzoDobra={108}
+    prog="poniżej 120 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sześćset sześćdziesiąt elementów i figura Creepera w skali, która wygląda na półce. Creeper jest w Minecrafcie tym, czym Pikachu w Pokémonach — <b>rozpoznaje go nawet ktoś, kto nigdy nie grał</b>, więc jako prezent ryzykuje najmniej z całej serii.</p>
+    <p>Zastrzeżenie co do formatu: to model ekspozycyjny, nie zabawka. Po zbudowaniu stoi. Dla dziecka, które chce się bawić, lepsza będzie scenka poniżej.</p>
+  </Karta>
+
+  <h2>Do 172 zł: walka z Witherem</h2>
+
+  <Karta
+    nr="21590"
+    nazwa="Walka z Witherem"
+    rocznik={2026}
+    elementy={494}
+    rrp={274.99}
+    dlaKogo="dziecko 9–12 lat, zaawansowane w grze; scenka z bossem"
+    dobra={172}
+    bardzoDobra={155}
+    prog="poniżej 172 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Wither jest w grze jednym z dwóch bossów i jego pokonanie to moment, który dziecko zapamiętuje. Zestaw odtwarza tę walkę: figura bossa, teren i wyposażony gracz. Pięćset elementów, budowa na dwa posiedzenia.</p>
+    <p><b>To zestaw dla kogoś, kto zaszedł w grze daleko.</b> Dla dziecka, które dopiero buduje pierwszy dom, Wither będzie postacią bez znaczenia — wtedy lepsza jest farma albo portal.</p>
+  </Karta>
+
+  <h2>Do 295 zł: stacja Ghasta</h2>
+
+  <Karta
+    nr="21597"
+    nazwa="Stacja Ghasta"
+    rocznik={2026}
+    elementy={754}
+    rrp={419.99}
+    dlaKogo="dziecko 9–12 lat; duża scenka z Netheru z rozbudowaną konstrukcją"
+    dobra={294}
+    bardzoDobra={265}
+    prog="poniżej 295 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Siedemset pięćdziesiąt elementów, konstrukcja z Netheru i ghast — jedna z najbardziej charakterystycznych postaci z tej części gry. To już scenka pełnowymiarowa: jest teren, jest budowla i są funkcje, więc <b>zabawa toczy się po zbudowaniu</b>.</p>
+    <p>Ghasty pojawiły się w ostatniej dużej aktualizacji gry, więc dziecko grające na bieżąco rozpozna je natychmiast. Jeśli gra w starszą wersję — mniej pewnie.</p>
+  </Karta>
+
+  <h2>Wielki prezent: wieża Endermana</h2>
+
+  <Karta
+    nr="21279"
+    nazwa="Wieża Endermana"
+    rocznik={2025}
+    elementy={867}
+    rrp={439.99}
+    dlaKogo="dziecko 10–13 lat; największa konstrukcja w bieżącej ofercie"
+    dobra={295}
+    bardzoDobra={265}
+    prog="poniżej 295 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Osiemset siedemdziesiąt elementów, wielopoziomowa wieża i Enderman — postać z ostatniego etapu gry. Konstrukcja łączy oba formaty serii: <b>jest i duża figura, i budowla, w której toczy się zabawa</b>, więc nie trzeba wybierać między modelem na półkę a scenką.</p>
+    <p>Przy tej cenie i wielkości to najlepszy pojedynczy zakup z całego Minecrafta — pod warunkiem, że dziecko zna Endermana, czyli gra dłużej niż kilka miesięcy.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Minecraft jest serią szeroko dostępną w elektromarketach, co oznacza <b>stałą i mocną konkurencję cenową przez cały rok</b>. Mediana przeceny to jedna trzecia poniżej katalogu, a drobne pozycje schodzą o połowę. Nie ma tu potrzeby polowania na jedno wielkie okno promocyjne — dobre ceny są dostępne stale.</p>
+
+  <p>Rzecz, na którą warto zwrócić uwagę zamiast na kalendarz: <b>aktualizacje samej gry</b>. LEGO wydaje zestawy z nowymi mobami wkrótce po tym, jak pojawią się w Minecrafcie, więc świeże pozycje bywają dla dziecka atrakcyjniejsze niż starsze, mimo identycznej ceny. Terminy promocji zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu</a>, a pełną serię z bieżącymi cenami znajdziesz na <a href="/serie/minecraft/">stronie LEGO Minecraft</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

@@ -1,0 +1,162 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Speed Champions: 44 zestawy, ale rozkład cenowy skrajnie wąski — 37 z nich mieści się
+// w przedziale 70-140 zł. To jedyna seria w katalogu, w której prezentownik prowadzi
+// się nie przez pasma cenowe, tylko przez marki i format (jeden samochód vs dwa).
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-speed-champions/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 11,
+  znacznik: 'Speed Champions',
+  tytul: 'Prezent z LEGO Speed Champions',
+  opis: 'Pięć zestawów, od 13 zł do 170 zł. Cała seria mieści się w jednym przedziale cenowym — decyduje marka, nie budżet.',
+  data: '2026-08-26',
+  okladka: '77264',
+};
+
+const zestawy = [
+  { nr: '30734', nazwa: 'Mały bolid F1 ACADEMY', etykieta: 'Do 13 zł', rrp: 29.99, dobra: 13 },
+  { nr: '77253', nazwa: 'Bugatti Vision GT', etykieta: 'Do 62 zł', rrp: 114.99, dobra: 62 },
+  { nr: '77259', nazwa: 'Bolid Audi Revolut F1 R26', etykieta: 'Do 65 zł', rrp: 114.99, dobra: 65 },
+  { nr: '76924', nazwa: 'Mercedes-AMG G 63 i SL 63', etykieta: 'Do 150 zł', rrp: 209.99, dobra: 150 },
+  { nr: '77264', nazwa: 'Jaguar Project 7 i Defender', etykieta: 'Dwa auta', rrp: 234.99, dobra: 170 },
+];
+
+const faq = [
+  {
+    q: 'Czym Speed Champions różni się od samochodów Technic?',
+    a: 'Skalą i tym, co dostajesz. Speed Champions to modele w skali minifigurki, 200–400 elementów, budowa na godzinę, cena zwykle poniżej stu złotych. Technic to konstrukcje mechaniczne, 700–1700 elementów, kilka wieczorów budowania i kwoty od dwustu złotych wzwyż. Speed Champions kolekcjonuje się seriami i ustawia na półce obok siebie; model Technica jest pojedynczym, dużym projektem.',
+  },
+  {
+    q: 'Od ilu lat ma sens ta seria?',
+    a: 'Od siódmego–ósmego roku życia, ale prawdziwą grupą docelową są nastolatkowie i dorośli fani motoryzacji. Zestawy są proste konstrukcyjnie, więc dziecko poradzi sobie bez pomocy, natomiast cała wartość leży w rozpoznaniu marki i modelu — a to działa mocniej u kogoś, kto interesuje się samochodami, niż u przypadkowego ośmiolatka.',
+  },
+  {
+    q: 'Ile realnie kosztują zestawy Speed Champions?',
+    a: 'To najbardziej jednorodna cenowo seria w katalogu — trzydzieści siedem z czterdziestu czterech zestawów w sprzedaży mieści się w przedziale 70–140 zł katalogowo, a w sklepach schodzą do 60–70 zł. Mediana przeceny wynosi około 33% poniżej katalogu. W praktyce oznacza to, że wybór nie jest kwestią budżetu, tylko marki samochodu.',
+  },
+  {
+    q: 'Czy zestawy z dwoma samochodami są lepszym wyborem?',
+    a: 'Pod względem ceny za samochód — tak, wychodzą taniej. Pod względem prezentowym niekoniecznie. Zestaw z jednym autem konkretnej marki trafia precyzyjnie w kogoś, kto lubi właśnie tę markę; zestaw z dwoma jest kompromisem, w którym jedno auto zwykle interesuje bardziej niż drugie. Przy prezencie dla fana konkretnej marki lepiej wybrać pojedynczy model.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Speed Champions: co kupić i przy jakiej cenie"
+  opis="Pięć zestawów LEGO Speed Champions na prezent — od 13 zł do 170 zł. Cała seria mieści się w jednym przedziale, więc decyduje marka, nie budżet."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Speed Champions jest w katalogu przypadkiem osobnym, bo <b>prawie cała seria mieści się w jednym przedziale cenowym</b>. Trzydzieści siedem z czterdziestu czterech zestawów w sprzedaży ma cenę katalogową między siedemdziesiąt a sto czterdzieści złotych, a w sklepach schodzą do sześćdziesięciu kilku. Przy takim rozkładzie budżet przestaje być kryterium wyboru.</p>
+
+  <p>Decyduje więc coś innego: <b>marka samochodu i to, czy prezent ma trafić precyzyjnie, czy szeroko</b>. Zestaw z jednym autem konkretnej marki trafia w kogoś, kto lubi właśnie tę markę. Zestaw z dwoma jest tańszy w przeliczeniu na samochód, ale zwykle jedno auto interesuje bardziej niż drugie. Poniżej pięć rekomendacji ułożonych według tego klucza.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 13 zł: mały bolid F1 ACADEMY</h2>
+
+  <Karta
+    nr="30734"
+    nazwa="Mały bolid F1 ACADEMY"
+    rocznik={2026}
+    elementy={58}
+    rrp={29.99}
+    dlaKogo="dziecko 7+ albo dorosły; najtańszy sensowny drobiazg w całym katalogu LEGO"
+    dobra={13}
+    bardzoDobra={11}
+    prog="poniżej 13 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Pięćdziesiąt osiem elementów w saszetce, bolid w mniejszej skali niż zwykłe Speed Champions. Budowa na kwadrans i gotowy model, który stoi obok większych.</p>
+    <p>Za kilkanaście złotych to <b>najtańsza pozycja, jaką w ogóle da się sensownie wręczyć</b> — dokładka do prezentu, drobiazg do skarpety, wypełniacz paczki. Rabat sięga tu blisko 60% poniżej ceny katalogowej.</p>
+  </Karta>
+
+  <h2>Do 62 zł: Bugatti Vision GT</h2>
+
+  <Karta
+    nr="77253"
+    nazwa="Hipersamochód sportowy Bugatti Vision GT"
+    rocznik={2026}
+    elementy={284}
+    rrp={114.99}
+    dlaKogo="nastolatek albo dorosły fan hipersamochodów; efektowna sylwetka"
+    dobra={62}
+    bardzoDobra={55}
+    prog="poniżej 62 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Bugatti Vision GT to samochód koncepcyjny o skrajnie wyrazistej sylwetce — i to jest jego przewaga jako modelu: <b>wygląda efektownie nawet dla kogoś, kto nie rozpoznaje marki</b>. Prawie trzysta elementów przy cenie rynkowej poniżej sześćdziesięciu pięciu złotych.</p>
+    <p>Świeży rocznik 2026, a przecena już sięga 47% poniżej katalogu — jeden z najgłębszych rabatów w serii.</p>
+  </Karta>
+
+  <h2>Do 65 zł: bolid Audi Revolut F1</h2>
+
+  <Karta
+    nr="77259"
+    nazwa="Bolid Audi Revolut F1 Team R26"
+    rocznik={2026}
+    elementy={215}
+    rrp={114.99}
+    dlaKogo="fan Formuły 1 śledzący bieżący sezon; debiut Audi w F1"
+    dobra={65}
+    bardzoDobra={58}
+    prog="poniżej 65 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Bolid zespołu, który właśnie wchodzi do Formuły 1 — dla kogoś, kto śledzi sezon, to <b>zestaw o wartości bieżącej, a nie tylko modelarskiej</b>. Dwieście piętnaście elementów, malowanie zespołowe, figurka kierowcy.</p>
+    <p>Formuła 1 jest w tym roku jednym z motorów wzrostu sprzedaży LEGO, więc bolidów będzie przybywać. Ten akurat jest tegoroczny i wciąż aktualny — za rok będzie modelem historycznym.</p>
+  </Karta>
+
+  <h2>Do 150 zł: dwa Mercedesy w jednym pudełku</h2>
+
+  <Karta
+    nr="76924"
+    nazwa="Mercedes-AMG G 63 i Mercedes-AMG SL 63"
+    rocznik={2024}
+    elementy={808}
+    rrp={209.99}
+    dlaKogo="fan marki Mercedes; dwa różne typy nadwozia w jednym zestawie"
+    dobra={150}
+    bardzoDobra={135}
+    prog="poniżej 150 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Osiemset elementów i dwa samochody tej samej marki, ale zupełnie różne: terenowy G 63 i roadster SL 63. To rzadkie połączenie — <b>zwykle zestawy dwuautowe łączą modele z jednej kategorii</b>, tutaj dostaje się kontrast.</p>
+    <p>Rocznik 2024, więc cena jest już ustabilizowana i głębszych spadków nie należy oczekiwać. Za sto pięćdziesiąt złotych dwa modele to lepszy przelicznik niż kupowanie ich osobno.</p>
+  </Karta>
+
+  <h2>Dwa auta: Jaguar Project 7 i Land Rover Defender</h2>
+
+  <Karta
+    nr="77264"
+    nazwa="Jaguar Project 7 i Land Rover Defender"
+    rocznik={2026}
+    elementy={740}
+    rrp={234.99}
+    dlaKogo="fan brytyjskiej motoryzacji; najlepszy zestaw dwuautowy z bieżącego rocznika"
+    dobra={170}
+    bardzoDobra={153}
+    prog="poniżej 170 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Roadster i terenówka spod jednego brytyjskiego dachu — siedemset czterdzieści elementów w bieżącym roczniku. Podobnie jak przy Mercedesach, zaletą jest kontrast: <b>dwa zupełnie inne typy pojazdu, a nie dwa warianty tego samego</b>.</p>
+    <p>To najdroższa pozycja w całej serii i jednocześnie jedyna powyżej dwustu trzydziestu złotych katalogowo. Jeśli prezent ma być z Speed Champions i ma być „większy", to jest w praktyce jedyny wybór.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Ta seria nie wymaga strategii czasowej. <b>Ceny są stabilne przez cały rok</b>, mediana przeceny wynosi około jednej trzeciej poniżej katalogu i utrzymuje się niezależnie od sezonu. Nie ma tu dużych modeli kolekcjonerskich, przy których polowanie na Black Friday miałoby sens.</p>
+
+  <p>Jedyny element zmienny to <b>aktualność bolidów Formuły 1</b>: model bieżącego sezonu jest atrakcyjniejszy niż zeszłoroczny, mimo identycznej ceny. Jeśli prezent trafia do kogoś, kto śledzi wyścigi, warto sprawdzić rocznik. Terminy okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu</a>, a pełną serię z bieżącymi cenami znajdziesz na <a href="/serie/speed-champions/">stronie LEGO Speed Champions</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

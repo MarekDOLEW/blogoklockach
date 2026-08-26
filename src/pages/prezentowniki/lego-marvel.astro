@@ -1,0 +1,181 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Marvel: 74 zestawy w sprzedaży, mediana katalogowa 210 zł — ścisła półka prezentowa.
+// Seria dzieli się wyraźnie na trzy typy: scenki dla dzieci, figurki do zbudowania
+// (rozmiar 300-800 el., persona nastolatek/dorosły) i duże modele ekspozycyjne.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-marvel/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 8,
+  znacznik: 'Marvel',
+  tytul: 'Prezent z LEGO Marvel',
+  opis: 'Sześć zestawów, od 30 zł do lotniskowca. Scenki, figurki do zbudowania i modele na półkę — trzy różne rzeczy pod jedną licencją.',
+  data: '2026-08-26',
+  okladka: '76354',
+};
+
+const zestawy = [
+  { nr: '76335', nazwa: 'Spider-Man kontra Ghost Rider', etykieta: 'Do 30 zł', rrp: 41.99, dobra: 30 },
+  { nr: '76263', nazwa: 'Hulkbuster kontra Thanos', etykieta: 'Do 58 zł', rrp: 119.99, dobra: 58 },
+  { nr: '76257', nazwa: 'Figurka Wolverine’a', etykieta: 'Do 96 zł', rrp: 169.99, dobra: 95 },
+  { nr: '76341', nazwa: 'Groot w stroju Ravagera', etykieta: 'Do 180 zł', rrp: 259.99, dobra: 180 },
+  { nr: '76346', nazwa: 'Figurka Spider-Mana', etykieta: 'Do 300 zł', rrp: 419.99, dobra: 300 },
+  { nr: '76354', nazwa: 'Lotniskowiec T.A.R.C.Z.Y.', etykieta: 'Wielki prezent', rrp: 1599.99, dobra: 1160 },
+];
+
+const faq = [
+  {
+    q: 'Czym różnią się „figurki do zbudowania" od zwykłych zestawów Marvel?',
+    a: 'To osobny format, który LEGO rozwija od kilku lat: model przedstawia jedną postać w skali około 25–30 cm, ma ruchome stawy i stoi na podstawce. Nie ma minifigurek, nie ma scenki, nie ma zabawy w odgrywanie — jest figura na półkę, którą można ustawiać w pozach. Persona jest tu wyraźnie starsza niż przy scenkach: nastolatek albo dorosły fan konkretnej postaci.',
+  },
+  {
+    q: 'Czy zestawy Marvel działają, gdy dziecko nie zna filmów?',
+    a: 'Częściowo. Spider-Man, Hulk i Iron Man są rozpoznawalni daleko poza kinem — kostium mówi sam za siebie. Gorzej z postaciami drugiego planu i wątkami z seriali: Groot w stroju Ravagera albo Fantastyczna Czwórka wymagają już kontekstu. Przy dziecku, o którego znajomości uniwersum nie wiemy nic, bezpieczniej celować w Spider-Mana niż w kogokolwiek innego.',
+  },
+  {
+    q: 'Ile realnie kosztują zestawy Marvel w sklepach?',
+    a: 'Mediana przeceny to około 28% poniżej ceny katalogowej, ale rozrzut jest bardzo duży. Starsze scenki i figurki z roczników 2021–2023 schodzą nawet o połowę, natomiast największe modele ekspozycyjne potrafią stać w cenie katalogowej albo powyżej niej. Przy Marvelu szczególnie warto porównać rocznik: dwuletnia figurka wygląda tak samo, a kosztuje o 40% mniej.',
+  },
+  {
+    q: 'Które zestawy Marvel znikają z rynku pod koniec 2026?',
+    a: 'Wycofanie w grudniu 2026 przewidujemy między innymi dla X-Men: Instytutu Xaviera, Spider-Mana i Oscorp, Quinjeta z Czasu Ultrona, Popiersia Iron Mana MK4 i kilku mniejszych scenek. Aktualną listę z terminami prowadzimy w dziale Wycofania.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Marvel: co kupić i przy jakiej cenie"
+  opis="Sześć zestawów LEGO Marvel na prezent — od 30 zł do lotniskowca T.A.R.C.Z.Y. Scenki, figurki i modele na półkę: dla kogo każdy z nich."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Pod jedną licencją Marvela LEGO sprzedaje <b>trzy zupełnie różne rzeczy</b> i pomylenie ich to najczęstszy błąd przy prezencie z tej serii. Są scenki dla dzieci — dwie minifigurki i pojazd, klasyczna zabawa. Są figurki do zbudowania: modele jednej postaci na podstawce, do ustawiania w pozach, dla nastolatka albo dorosłego. I są duże modele ekspozycyjne, przy których zabawa nie wchodzi w grę.</p>
+
+  <p>Cena tego nie rozstrzyga. Figurka Wolverine'a kosztuje mniej niż scenka z Iron Manem, a trafia do zupełnie innej osoby. Poniżej sześć rekomendacji z wyraźnie zaznaczonym typem — i z progiem zakupu, bo <b>przy Marvelu rocznik decyduje o cenie bardziej niż wielkość</b>: dwuletnia figurka wygląda tak samo, a kosztuje o 40% mniej.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 30 zł: Spider-Man kontra Ghost Rider</h2>
+
+  <Karta
+    nr="76335"
+    nazwa="Spider-Man kontra Ghost Rider na motocyklach"
+    rocznik={2026}
+    elementy={72}
+    rrp={41.99}
+    dlaKogo="dziecko 5–8 lat; dokładka do prezentu, dwie strony konfliktu w pudełku"
+    dobra={30}
+    bardzoDobra={27}
+    prog="poniżej 30 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa motocykle i dwie minifigurki — komplet do zabawy w pościg z jednym z najbardziej rozpoznawalnych bohaterów świata. Siedemdziesiąt elementów, budowa na kwadrans.</p>
+    <p>Wartość tego zestawu leży w tym, że <b>od razu są dwie strony</b>, a nie pojedyncza figurka czekająca na przeciwnika. Jako samodzielny prezent za mały; jako dokładka trudno o coś lepszego w tej cenie.</p>
+  </Karta>
+
+  <h2>Do 58 zł: Hulkbuster kontra Thanos</h2>
+
+  <Karta
+    nr="76263"
+    nazwa="Hulkbuster Iron Mana kontra Thanos"
+    rocznik={2023}
+    elementy={66}
+    rrp={119.99}
+    dlaKogo="dziecko 6–9 lat; mech, który broni się bez znajomości filmów"
+    dobra={58}
+    bardzoDobra={50}
+    prog="poniżej 58 zł — starszy rocznik, więc taniej już raczej nie będzie"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Mech Hulkbustera z figurką Thanosa. Sześćdziesiąt kilka elementów, ale konstrukcja jest zwarta i wytrzymała — <b>mech to w LEGO forma najodporniejsza na intensywną zabawę</b>, w odróżnieniu od scenek z cienkimi konstrukcjami.</p>
+    <p>Rocznik 2023 pracuje na korzyść kupującego: cena zeszła o ponad połowę poniżej katalogu i tam się ustabilizowała. Za mniej niż sześćdziesiąt złotych dostaje się mecha i dwie postacie.</p>
+  </Karta>
+
+  <h2>Do 96 zł: figurka Wolverine'a — pierwszy model na półkę</h2>
+
+  <Karta
+    nr="76257"
+    nazwa="Figurka Wolverine’a do zbudowania"
+    rocznik={2023}
+    elementy={327}
+    rrp={169.99}
+    dlaKogo="nastolatek albo dorosły fan X-Men; model ekspozycyjny, nie zabawka"
+    dobra={95}
+    bardzoDobra={84}
+    prog="poniżej 96 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Trzysta elementów, figura około dwudziestu pięciu centymetrów, ruchome stawy i podstawka z tabliczką. To <b>najtańszy punkt wejścia w format figurek do zbudowania</b> w całej bieżącej ofercie Marvela.</p>
+    <p>Wyraźne zastrzeżenie: dziecko, które oczekuje zabawki, będzie rozczarowane. Po zbudowaniu nie ma tu nic do roboty poza ustawieniem figury w innej pozie. Dla nastolatka z półką na modele — trafione.</p>
+  </Karta>
+
+  <h2>Do 180 zł: Groot w stroju Ravagera</h2>
+
+  <Karta
+    nr="76341"
+    nazwa="Groot w stroju Ravagera"
+    rocznik={2026}
+    elementy={604}
+    rrp={259.99}
+    dlaKogo="nastolatek albo dorosły; postać rozpoznawalna także poza fandomem"
+    dobra={180}
+    bardzoDobra={162}
+    prog="poniżej 180 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sześćset elementów i jedna z tych postaci, które przebiły się daleko poza kino — Groota rozpoznaje także osoba, która nie widziała ani jednego filmu Marvela. To czyni z niego <b>bezpieczniejszy prezent niż figurki bohaterów drugiego planu</b>.</p>
+    <p>Rocznik 2026, a mimo to schodzi już o jedną trzecią poniżej katalogu. Model większy i bardziej detaliczny niż Wolverine, przy podobnym charakterze: stoi i wygląda.</p>
+  </Karta>
+
+  <h2>Do 300 zł: figurka Spider-Mana</h2>
+
+  <Karta
+    nr="76346"
+    nazwa="Figurka Spider-Mana"
+    rocznik={2026}
+    elementy={813}
+    rrp={419.99}
+    dlaKogo="nastolatek albo dorosły; najbardziej uniwersalna postać w całej licencji"
+    dobra={300}
+    bardzoDobra={272}
+    prog="poniżej 300 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Osiemset elementów i figura w pozie, która daje się zmieniać — najbardziej rozbudowany model postaci w bieżącej ofercie. Jeśli prezent ma być z Marvela i ma trafić bez pudła, <b>Spider-Man jest najbezpieczniejszym wyborem w całej licencji</b>: rozpoznawalny przez wszystkich, lubiany przez większość.</p>
+    <p>Uwaga na format: to nadal model ekspozycyjny. Kupując go dziecku poniżej dziesięciu lat, kupujesz kilka godzin budowania i figurę na półkę, nie zabawkę.</p>
+  </Karta>
+
+  <h2>Wielki prezent: lotniskowiec T.A.R.C.Z.Y.</h2>
+
+  <Karta
+    nr="76354"
+    nazwa="Lotniskowiec T.A.R.C.Z.Y."
+    rocznik={2026}
+    elementy={3057}
+    rrp={1599.99}
+    dlaKogo="dorosły kolekcjoner; duża konstrukcja ekspozycyjna z komplet obsadą"
+    dobra={1160}
+    bardzoDobra={1080}
+    prog="poniżej 1160 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Trzy tysiące elementów i największy model w bieżącej ofercie Marvela — helikarrier z pokładem, samolotami i kompletem minifigurek. Przy tej skali to konstrukcja na kilka wieczorów i pół metra przestrzeni na półce.</p>
+    <p>Rzecz warta odnotowania: mimo świeżego rocznika schodzi już o 28% poniżej katalogu, czyli <b>głębiej niż większość dużych modeli w innych seriach</b>. Przy kwocie powyżej tysiąca złotych to różnica rzędu czterystu pięćdziesięciu złotych i argument, żeby nie kupować w oficjalnym sklepie.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Przy Marvelu obowiązuje jedna reguła mocniejsza od kalendarza: <b>sprawdź rocznik, zanim sprawdzisz promocję</b>. Scenki i figurki z lat 2021–2023 schodzą nawet o połowę poniżej katalogu i już tam zostają, bo LEGO wymienia w tej serii ofertę szybko. Dwuletni model wygląda dokładnie tak samo jak tegoroczny.</p>
+
+  <p>Drugi element to wycofania — w grudniu 2026 znika z rynku kilkanaście pozycji, w tym duże i pożądane, jak Instytut Xaviera i Spider-Man z Oscorp. Oba pojawiają się zresztą w przeciekowej panoramie Marvela na 2027 rok, o czym piszemy w <a href="/zapowiedzi-lego-2027/">zapowiedziach</a>. Listę znikających prowadzimy w dziale <a href="/wycofania/">Wycofania</a>, terminy promocji w <a href="/kalendarz-promocji-lego/">kalendarzu</a>, a pełną serię z bieżącymi cenami znajdziesz na <a href="/serie/marvel/">stronie LEGO Marvel</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

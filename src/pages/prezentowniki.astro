@@ -35,12 +35,18 @@ const zMarkdownu = zajawkiArtykulow(
 // `meta` z danymi karty — hub czyta je tak samo jak frontmatter markdownu,
 // dzięki czemu nowa seria pojawia się tutaj bez edycji tego pliku.
 // Zdjęcie karty wskazuje pole `okladka` w `meta` (numer zestawu).
+// Sortujemy PRZED zajawkaZMeta, bo zajawka niesie już tylko pola karty —
+// `kolejnosc` w niej nie ma, więc sortowanie po transformacji nie działa.
 const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
   .map((m) => m.meta)
   .filter(Boolean)
+  .sort((a, b) => (a.kolejnosc ?? 99) - (b.kolejnosc ?? 99) || new Date(b.data) - new Date(a.data))
   .map((m) => zajawkaZMeta(m, { karty: true }));
 
-const przewodniki = [...zAstro, ...zMarkdownu].sort((a, b) => new Date(b.data) - new Date(a.data));
+// Prezentowniki serii idą pierwsze i w kolejności redakcyjnej (pole `kolejnosc`
+// w meta), bo powstały jednego dnia i sama data ustawiałaby je alfabetycznie.
+// Przewodniki wiekowo-budżetowe zachowują dotychczasowy porządek datą malejąco.
+const przewodniki = [...zAstro, ...zMarkdownu];
 ---
 <Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
   <h1 style="margin-top:28px">Prezentowniki</h1>

@@ -1,0 +1,185 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Icons: najwyższy koszyk w serwisie (mediana katalogowa 540 zł), persona wyłącznie
+// dorosła. Charakterystyka cenowa odwrotna niż w seriach dziecięcych: im droższy
+// zestaw, tym płytsza przecena — modele powyżej 1000 zł schodzą ledwie o 14-17%.
+// Kwiaty pomijamy świadomie: mają własny prezentownik Botanicals.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-icons/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 6,
+  znacznik: 'Icons',
+  tytul: 'Prezent z LEGO Icons',
+  opis: 'Sześć zestawów dla dorosłego, od 145 zł do 1000 zł. Modele na półkę — i reguła cenowa odwrotna niż w reszcie katalogu.',
+  data: '2026-08-26',
+  okladka: '10295',
+};
+
+const zestawy = [
+  { nr: '10311', nazwa: 'Orchidea', etykieta: 'Do 150 zł', rrp: 209.99, dobra: 148 },
+  { nr: '10353', nazwa: 'Williams FW14B i Nigel Mansell', etykieta: 'Do 205 zł', rrp: 339.99, dobra: 205 },
+  { nr: '11375', nazwa: 'Ferrari F2004 i Schumacher', etykieta: 'Do 265 zł', rrp: 379.99, dobra: 263 },
+  { nr: '10367', nazwa: 'Book nook z Balrogiem', etykieta: 'Do 375 zł', rrp: 519.99, dobra: 372 },
+  { nr: '10295', nazwa: 'Porsche 911', etykieta: 'Do 520 zł', rrp: 729.99, dobra: 518 },
+  { nr: '11370', nazwa: 'Stranger Things: Dom Creelów', etykieta: 'Wielki prezent', rrp: 1199.99, dobra: 1010 },
+];
+
+const faq = [
+  {
+    q: 'Dla kogo są zestawy LEGO Icons?',
+    a: 'Dla dorosłych i to nie jest marketingowa etykieta. Pudełka mają oznaczenie 18+, nie zawierają minifigurek w klasycznej roli zabawowej, a gotowy model jest obiektem ekspozycyjnym — stoi na półce i tam kończy się jego funkcja. Dziecko, które dostanie zestaw Icons, dostanie kilkugodzinną budowę i przedmiot, z którym nie ma potem co robić.',
+  },
+  {
+    q: 'Dlaczego duże zestawy Icons tanieją wolniej niż inne serie?',
+    a: 'Bo popyt na nie jest stabilny, a sklepy nie muszą schodzić z ceną, żeby je sprzedać. W seriach dziecięcych mediana przeceny sięga 30%, a drobne pozycje schodzą o połowę. W Icons zależność jest odwrotna: modele powyżej tysiąca złotych trzymają się 14–17% poniżej katalogu i rzadko schodzą głębiej nawet w Black Friday. Przy nich czekanie na wielką promocję zwykle się nie opłaca.',
+  },
+  {
+    q: 'Czy zestawy Icons zyskują na wartości po wycofaniu?',
+    a: 'Część tak, ale to nie jest reguła i nie należy traktować tego jako inwestycji. Historycznie najlepiej trzymały wartość duże modele kolekcjonerskie o silnej licencji i wyraźnym miejscu w serii. Zwykłe pozycje z niższej półki zachowują się jak reszta katalogu. Argumentem za wcześniejszym zakupem jest raczej to, że wycofany zestaw po prostu znika ze sklepów, niż nadzieja na zysk.',
+  },
+  {
+    q: 'Ile czasu zajmuje zbudowanie zestawu Icons?',
+    a: 'Orientacyjnie 250–350 elementów na godzinę przy spokojnym tempie osoby dorosłej. Model na 1500 elementów to więc cztery–pięć godzin, czyli dwa spokojne wieczory; duże pozycje powyżej trzech tysięcy elementów rozkładają się na tydzień. To zresztą jest w tej serii częścią wartości — buduje się je dla samego procesu, nie po to, żeby jak najszybciej skończyć.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Icons: co kupić dorosłemu i przy jakiej cenie"
+  opis="Sześć zestawów LEGO Icons na prezent dla dorosłego — od 145 zł do tysiąca. Modele na półkę, z progiem zakupu i regułą cenową odwrotną niż w reszcie katalogu."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Icons to jedyna seria w katalogu adresowana wyłącznie do dorosłych i warto potraktować to dosłownie. Pudełka mają oznaczenie 18+, nie ma tu zabawy po zbudowaniu, a gotowy model jest <b>obiektem na półkę</b>. Dziecko, które dostanie zestaw Icons, dostanie kilkugodzinną budowę i przedmiot, z którym nie ma potem co robić.</p>
+
+  <p>Druga rzecz jest czysto cenowa i odwraca regułę znaną z reszty katalogu: <b>im droższy zestaw Icons, tym płytsza przecena</b>. W City i Friends mediana rabatu sięga 30%, a drobiazgi schodzą o połowę. Tutaj modele powyżej tysiąca złotych trzymają się 14–17% poniżej katalogu i rzadko schodzą głębiej nawet w Black Friday. Przy nich czekanie na wielką promocję zwykle się nie opłaca — a przy średniej półce owszem.</p>
+
+  <p>Kwiatów w tym zestawieniu nie ma celowo: mają własny <a href="/prezentowniki/lego-botanicals/">prezentownik Botanicals</a>.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 150 zł: Orchidea — najbezpieczniejszy prezent w całym LEGO</h2>
+
+  <Karta
+    nr="10311"
+    nazwa="Orchidea"
+    rocznik={2022}
+    elementy={608}
+    rrp={209.99}
+    dlaKogo="dorosły, także taki, który nie interesuje się klockami; prezent uniwersalny"
+    dobra={148}
+    bardzoDobra={132}
+    prog="poniżej 150 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Wyjątek od wszystkiego, co napisaliśmy wyżej o personie: <b>orchidea nie wygląda jak zestaw LEGO</b>. Gotowy model to roślina doniczkowa, którą stawia się na parapecie i której nikt nie identyfikuje jako klocki, dopóki nie podejdzie bliżej.</p>
+    <p>To czyni z niej najbezpieczniejszy prezent w całym katalogu dla osoby, o której nie wiemy, czy lubi LEGO. Rocznik 2022 działa na korzyść kupującego — cena ustabilizowała się wyraźnie poniżej katalogowej i już tam zostanie.</p>
+  </Karta>
+
+  <h2>Do 205 zł: Williams FW14B z Nigelem Mansellem — ostatni sezon</h2>
+
+  <Karta
+    nr="10353"
+    nazwa="Williams Racing FW14B i Nigel Mansell"
+    rocznik={2025}
+    elementy={799}
+    rrp={339.99}
+    status="znika"
+    dlaKogo="dorosły fan Formuły 1, zwłaszcza z sentymentem do lat 90."
+    dobra={205}
+    bardzoDobra={185}
+    prog="poniżej 205 zł — przy wycofaniu w grudniu nie warto grać o więcej"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Bolid mistrzowskiego sezonu 1992 z figurką Mansella. Osiemset elementów i skala, w której odwzorowanie ma sens, a jednocześnie model nie zajmuje pół półki. Przecena sięga tu ponad 40% poniżej katalogu — <b>najgłębsza w całej średniej półce Icons</b>.</p>
+    <p><b>Wycofanie przewidziane na grudzień 2026.</b> To jest ta sytuacja, w której głęboka przecena i termin wycofania spotykają się w jednym miejscu: taniej już raczej nie będzie, a za kilka miesięcy zestawu po prostu nie będzie.</p>
+  </Karta>
+
+  <h2>Do 265 zł: Ferrari F2004 i Michael Schumacher</h2>
+
+  <Karta
+    nr="11375"
+    nazwa="Ferrari F2004 i Michael Schumacher"
+    rocznik={2026}
+    elementy={735}
+    rrp={379.99}
+    dlaKogo="dorosły fan Formuły 1; świeży rocznik, więc bez presji czasu"
+    dobra={263}
+    bardzoDobra={238}
+    prog="poniżej 265 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Odpowiednik Williamsa z drugiej strony tej samej epoki — bolid z sezonu 2004 i figurka Schumachera. Konstrukcyjnie i cenowo to bliźniacza pozycja, różnica jest wyłącznie w tym, czyj sezon się pamięta.</p>
+    <p>Przewaga nad Williamsem: rocznik 2026, więc <b>nie ma terminu wycofania i można spokojnie poczekać na listopad</b>. Przewaga Williamsa: jest dziś tańszy i schodzi z rynku. Wybór zależy od tego, czy prezent ma być na teraz, czy na Boże Narodzenie.</p>
+  </Karta>
+
+  <h2>Do 375 zł: Book nook z Balrogiem</h2>
+
+  <Karta
+    nr="10367"
+    nazwa="Władca Pierścieni: Book nook z Balrogiem"
+    rocznik={2025}
+    elementy={1201}
+    rrp={519.99}
+    dlaKogo="dorosły fan Śródziemia; model, który staje między książkami na regale"
+    dobra={372}
+    bardzoDobra={335}
+    prog="poniżej 375 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Book nook to format, który LEGO rozwija od dwóch lat: model wąski i wysoki, projektowany tak, żeby <b>stanąć na półce między książkami</b>, a nie zająć osobną powierzchnię. Przy mieszkaniach, w których miejsca na ekspozycję jest mało, to realna zaleta, a nie chwyt marketingowy.</p>
+    <p>Tysiąc dwieście elementów i scena z mostu Khazad-dûm. Zależność od licencji jest tu wysoka — bez znajomości Władcy Pierścieni zostaje ładna, ale dowolna kamienna brama.</p>
+  </Karta>
+
+  <h2>Do 520 zł: Porsche 911</h2>
+
+  <Karta
+    nr="10295"
+    nazwa="Porsche 911"
+    rocznik={2021}
+    elementy={1458}
+    rrp={729.99}
+    dlaKogo="dorosły fan motoryzacji; klasyk serii, który wciąż jest w sprzedaży"
+    dobra={518}
+    bardzoDobra={470}
+    prog="poniżej 520 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Jeden z najdłużej utrzymujących się modeli w historii Icons — w sprzedaży od 2021 roku, co przy tej serii jest rzadkością. Tysiąc czterysta elementów i możliwość zbudowania w dwóch wariantach nadwozia: Turbo albo Targa.</p>
+    <p>Długi staż działa na korzyść kupującego: <b>cena rynkowa ustabilizowała się około 30% poniżej katalogu</b> i nie ma powodu spodziewać się głębszych spadków. To zestaw, który kupuje się wtedy, kiedy się chce, a nie wtedy, kiedy wypada okno promocyjne.</p>
+  </Karta>
+
+  <h2>Wielki prezent: Dom Creelów ze Stranger Things</h2>
+
+  <Karta
+    nr="11370"
+    nazwa="Stranger Things: Dom Creelów"
+    rocznik={2026}
+    elementy={2593}
+    rrp={1199.99}
+    dlaKogo="dorosły fan serialu; duża konstrukcja z mechanizmem obracania"
+    dobra={1010}
+    bardzoDobra={950}
+    prog="poniżej 1010 zł — i nie licz na więcej, ta półka nie schodzi głęboko"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa i pół tysiąca elementów, dom przedstawiony jednocześnie w świecie rzeczywistym i w Drugiej Stronie — model obraca się i pokazuje dwie wersje tej samej konstrukcji. To najbardziej pomysłowe rozwiązanie w bieżącej ofercie Icons i jednocześnie <b>przykład tego, jak płytko schodzi górna półka</b>: około 17% poniżej katalogu i tyle.</p>
+    <p>Uczciwie o progu: przy tej serii i tej kwocie czekanie na Black Friday raczej nie zmieni rachunku. Jeśli zestaw ma być prezentem, decyduje raczej dostępność niż kalendarz.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Icons wymaga innej strategii niż reszta katalogu. <b>Średnia półka — 200 do 500 zł — schodzi przyzwoicie</b>, 30–40% poniżej katalogu, i tu warto poczekać na okno promocyjne. <b>Górna półka praktycznie nie schodzi</b>: 14–17% i koniec, niezależnie od pory roku.</p>
+
+  <p>Prawdziwym argumentem czasowym w tej serii nie jest promocja, tylko wycofanie. Zestawy Icons po zejściu z produkcji znikają szybko i wracają drożej na rynku wtórnym — terminy prowadzimy w dziale <a href="/wycofania/">Wycofania</a>. Okna z gratisami na LEGO.com zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a pełną serię z bieżącymi cenami znajdziesz na <a href="/serie/icons/">stronie LEGO Icons</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

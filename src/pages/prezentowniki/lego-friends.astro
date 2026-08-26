@@ -1,0 +1,185 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Friends: 99 zestawów w sprzedaży, mediana przeceny 28%. Charakterystyczne dla tej
+// serii jest to, ile pozycji ma przewidziane wycofanie na grudzień 2026 — przy doborze
+// traktujemy termin jako równie ważny co cena.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-friends/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 2,
+  znacznik: 'Friends',
+  tytul: 'Prezent z LEGO Friends',
+  opis: 'Sześć zestawów, od 25 zł do wielkiego pudełka. Postacie zamiast pojazdów — i uwaga na to, co znika w grudniu.',
+  data: '2026-08-26',
+  okladka: '42704',
+};
+
+const zestawy = [
+  { nr: '42692', nazwa: 'Stoisko z lodami i balonami', etykieta: 'Do 25 zł', rrp: 42.99, dobra: 25 },
+  { nr: '42649', nazwa: 'Sklep z cukierkami', etykieta: 'Do 85 zł', rrp: 129.99, dobra: 84 },
+  { nr: '42685', nazwa: 'Pokaz mody w Heartlake', etykieta: 'Do 150 zł', rrp: 219.99, dobra: 148 },
+  { nr: '42686', nazwa: 'Niezwykła sala zabaw', etykieta: 'Do 170 zł', rrp: 249.99, dobra: 168 },
+  { nr: '42689', nazwa: 'Domek klubu przyjaciół', etykieta: 'Do 260 zł', rrp: 379.99, dobra: 258 },
+  { nr: '42704', nazwa: 'Grand Hotel w Heartlake', etykieta: 'Wielki prezent', rrp: 649.99, dobra: 465 },
+];
+
+const faq = [
+  {
+    q: 'Czym LEGO Friends różni się od City w zabawie?',
+    a: 'Punktem ciężkości. W City zabawa kręci się wokół pojazdów i funkcji — wóz strażacki jedzie, dźwig podnosi. We Friends kręci się wokół postaci i miejsc: kawiarni, sklepu, hotelu. Figurki mają imiona i charaktery, więc scenariusze są bardziej opowieściowe niż zadaniowe. To nie jest kwestia płci dziecka, tylko tego, czy woli odgrywać historie, czy obsługiwać maszyny.',
+  },
+  {
+    q: 'Czy figurki Friends łączą się z minifigurkami z innych serii?',
+    a: 'Tak — od 2023 roku Friends używa standardowych minifigurek, tych samych co City czy Harry Potter. Wcześniejsze roczniki miały wyższe figurki mini-doll o innej budowie, które do zwykłych zestawów pasują tylko z grubsza. Kupując zestaw z drugiej ręki albo starszy rocznik, warto na to zwrócić uwagę, jeśli dziecko ma już kolekcję.',
+  },
+  {
+    q: 'Ile realnie kosztują zestawy Friends w sklepach?',
+    a: 'Mediana przeceny w tej serii to około 28% poniżej ceny katalogowej, a drobne pozycje schodzą nawet o 40–45%. Warto o tym pamiętać zwłaszcza przy tej serii, bo ceny katalogowe Friends są stosunkowo wysokie względem liczby elementów — cena katalogowa jest tu więc szczególnie kiepskim punktem odniesienia.',
+  },
+  {
+    q: 'Które zestawy Friends znikają z rynku pod koniec 2026?',
+    a: 'Bardzo wiele — to seria z jedną z najdłuższych list wycofań na ten rok. W grudniu 2026 znikają między innymi Sklep z cukierkami, Pokaz mody, Niezwykła sala zabaw, Domek klubu przyjaciół, Zielona kawiarnia i kwiaciarnia, Sklep z akcesoriami dla zwierząt i Przygoda na łodzi. Aktualną listę z terminami prowadzimy w dziale Wycofania.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Friends: co kupić i przy jakiej cenie"
+  opis="Sześć zestawów LEGO Friends na prezent — od 25 zł do wielkiego pudełka. Dla kogo każdy z nich, od jakiej ceny kupować i które znikają w grudniu 2026."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Friends różni się od City jedną rzeczą, która decyduje o trafności prezentu: <b>punktem ciężkości zabawy</b>. W City wszystko kręci się wokół pojazdów i funkcji — wóz jedzie, dźwig podnosi. We Friends kręci się wokół postaci i miejsc. Figurki mają imiona i charaktery, a scenariusze są opowieściowe, nie zadaniowe. To nie jest kwestia płci dziecka, tylko tego, czy woli odgrywać historie, czy obsługiwać maszyny.</p>
+
+  <p>Druga rzecz, którą trzeba wiedzieć przed zakupem, jest mniej przyjemna: <b>Friends ma jedną z najdłuższych list wycofań na koniec 2026 roku</b>. Cztery z sześciu zestawów poniżej znikną z rynku w grudniu — nie dlatego, że są słabe, tylko dlatego, że seria przechodzi wymianę rocznika. Przy nich termin jest ważniejszy od kwoty.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 25 zł: stoisko z lodami</h2>
+
+  <Karta
+    nr="42692"
+    nazwa="Stoisko z lodami i balonami"
+    rocznik={2026}
+    elementy={107}
+    rrp={42.99}
+    dlaKogo="dziecko 5–8 lat; dokładka albo pierwszy kontakt z serią"
+    dobra={25}
+    bardzoDobra={22}
+    prog="poniżej 25 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sto elementów, figurka i stoisko z akcesoriami. To najtańszy sensowny punkt wejścia do Heartlake — na tyle mały, że budowa kończy się w pół godziny, ale <b>z figurką i rekwizytami</b>, czyli z tym, co w tej serii napędza zabawę.</p>
+    <p>Jako samodzielny prezent bywa rozczarowaniem. Sprawdza się jako dokładka do większego pudełka albo drobiazg na mikołajki.</p>
+  </Karta>
+
+  <h2>Do 85 zł: sklep z cukierkami — ostatni sezon</h2>
+
+  <Karta
+    nr="42649"
+    nazwa="Sklep z cukierkami w Heartlake"
+    rocznik={2025}
+    elementy={376}
+    rrp={129.99}
+    status="znika"
+    dlaKogo="dziecko 6–9 lat; sklep to jeden z najlepiej działających scenariuszy w serii"
+    dobra={84}
+    bardzoDobra={74}
+    prog="poniżej 85 zł — przy wycofaniu w grudniu nie warto grać o kilka złotych"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prawie czterysta elementów za mniej niż stówkę — jeden z lepiej wycenionych zestawów w całej serii. Sklep jest we Friends scenariuszem, który działa najdłużej: <b>jest lada, są towary i jest ktoś, kto kupuje</b>, więc zabawa ma naturalną strukturę.</p>
+    <p><b>Wycofanie przewidziane na grudzień 2026.</b> Przy tej cenie i tej liczbie elementów to pozycja, przy której czekanie na jeszcze niższą kwotę jest ryzykiem nieproporcjonalnym do możliwej oszczędności.</p>
+  </Karta>
+
+  <h2>Do 150 zł: pokaz mody — dużo akcesoriów</h2>
+
+  <Karta
+    nr="42685"
+    nazwa="Pokaz mody w mieście Heartlake"
+    rocznik={2026}
+    elementy={410}
+    rrp={219.99}
+    status="znika"
+    dlaKogo="dziecko 7–10 lat, które lubi przebieranki i wymyślanie strojów"
+    dobra={148}
+    bardzoDobra={132}
+    prog="poniżej 150 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Wybieg, garderoba i komplet akcesoriów do przebierania figurek. To zestaw dla dziecka, które lubi <b>zmieniać, a nie budować raz na zawsze</b> — cała zabawa polega na komponowaniu i przestawianiu, a nie na jednej gotowej konstrukcji.</p>
+    <p>Zastrzeżenie: jeśli dziecko woli budowanie od odgrywania, ten zestaw je znudzi szybciej niż Niezwykła sala zabaw poniżej. Wycofanie przewidziane na grudzień 2026.</p>
+  </Karta>
+
+  <h2>Do 170 zł: niezwykła sala zabaw</h2>
+
+  <Karta
+    nr="42686"
+    nazwa="Niezwykła sala zabaw"
+    rocznik={2026}
+    elementy={668}
+    rrp={249.99}
+    status="znika"
+    dlaKogo="dziecko 7–10 lat; najwięcej konstrukcji za te pieniądze w całej serii"
+    dobra={168}
+    bardzoDobra={150}
+    prog="poniżej 170 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prawie siedemset elementów w cenie, w której Friends zwykle daje czterysta — pod względem samej objętości budowania to <b>najlepiej wyceniona pozycja w środkowej półce serii</b>. Sala zabaw ma zjeżdżalnie, przeszkody i sporo ruchomych elementów, więc po zbudowaniu dzieje się coś więcej niż ustawianie figurek.</p>
+    <p>Ten sam zestaw polecamy w <a href="/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/">prezentowniku na rozpoczęcie roku</a>. Wycofanie przewidziane na grudzień 2026.</p>
+  </Karta>
+
+  <h2>Do 260 zł: domek klubu przyjaciół</h2>
+
+  <Karta
+    nr="42689"
+    nazwa="Domek klubu przyjaciół z Heartlake"
+    rocznik={2026}
+    elementy={794}
+    rrp={379.99}
+    status="znika"
+    dlaKogo="dziecko 8–11 lat; budynek jako baza dla całej kolekcji"
+    dobra={258}
+    bardzoDobra={232}
+    prog="poniżej 260 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Osiemset elementów i budynek na kilku poziomach — we Friends pełni tę samą rolę, co remiza w City: <b>miejsce, do którego wracają wszystkie postacie</b>. Dziecko, które ma już kilka mniejszych zestawów z tej serii, dostaje wreszcie wspólny punkt.</p>
+    <p>Budowa rozkłada się na dwa–trzy posiedzenia. Wycofanie przewidziane na grudzień 2026, więc przy planach na choinkę lepiej nie zostawiać zakupu na ostatni tydzień.</p>
+  </Karta>
+
+  <h2>Wielki prezent: Grand Hotel</h2>
+
+  <Karta
+    nr="42704"
+    nazwa="Grand Hotel w mieście Heartlake"
+    rocznik={2026}
+    elementy={1406}
+    rrp={649.99}
+    dlaKogo="dziecko 9–12 lat albo cała rodzina budująca razem"
+    dobra={465}
+    bardzoDobra={420}
+    prog="poniżej 465 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tysiąc czterysta elementów, wielopiętrowy hotel z windą, pokojami i recepcją, komplet figurek. To najbardziej rozbudowany zestaw z bieżącej oferty Friends i <b>jedyny w tym zestawieniu, który sam wypełnia całe popołudnie budowania</b>, a potem długo pracuje jako scena do zabawy.</p>
+    <p>Ważna zaleta wobec innych dużych pudełek: hotel dzieli się na piętra, więc <b>da się go budować we dwoje jednocześnie</b>. Przy prezencie od całej rodziny to ma znaczenie.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Przy Friends kolejność argumentów jest odwrotna niż zwykle. Zwykle mówimy „poczekaj na Black Friday" — tutaj <b>najpierw sprawdź, czy zestaw nie jest na liście wycofań</b>. Cztery z sześciu powyżej znikają w grudniu 2026, a wycofane zestawy Friends nie tanieją po zejściu z produkcji; robi się z nimi to samo, co ze wszystkimi wycofanymi pozycjami — znikają z półek i wracają drożej na rynku wtórnym.</p>
+
+  <p>Jeśli zestaw nie jest zagrożony, obowiązuje zwykła zasada: najgłębsze przeceny wypadają w okolicach <b>27 listopada</b>. Terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, listę znikających w dziale <a href="/wycofania/">Wycofania</a>, a pełną serię z bieżącymi cenami na <a href="/serie/friends/">stronie LEGO Friends</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

@@ -1,0 +1,184 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// City ma najszerszą bazę w całym katalogu (105 zestawów w sprzedaży) i najbardziej
+// rozstrzelone przeceny — mediana 31% poniżej katalogu, ale drobne pojazdy schodzą
+// nawet o połowę. Progi ustalone per zestaw na podstawie realnego rozkładu cen.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-city/',
+  kategoria: 'Prezentownik',
+  // porzadek na hubie: serie o najszerszej bazie i najwyzszym potencjale prezentowym
+  // ida pierwsze; wszystkie maja te sama date, wiec bez tego pola sortowaly sie alfabetycznie
+  kolejnosc: 1,
+  znacznik: 'City',
+  tytul: 'Prezent z LEGO City',
+  opis: 'Sześć zestawów, od 25 zł do wielkiego pudełka. Seria bez licencji — działa niezależnie od tego, co dziecko ogląda.',
+  data: '2026-08-26',
+  okladka: '60508',
+};
+
+const zestawy = [
+  { nr: '60459', nazwa: 'Wyścigówki: samolot i łóżko', etykieta: 'Do 25 zł', rrp: 42.99, dobra: 24 },
+  { nr: '60415', nazwa: 'Pościg radiowozu za muscle carem', etykieta: 'Do 45 zł', rrp: 84.99, dobra: 44 },
+  { nr: '60496', nazwa: 'Dostawa pizzy z pojazdami', etykieta: 'Do 150 zł', rrp: 209.99, dobra: 148 },
+  { nr: '60414', nazwa: 'Remiza strażacka z wozem', etykieta: 'Do 240 zł', rrp: 339.99, dobra: 236 },
+  { nr: '60423', nazwa: 'Tramwaj miejski ze stacją', etykieta: 'Do 265 zł', rrp: 379.99, dobra: 262 },
+  { nr: '60508', nazwa: 'Napad na policyjny pociąg', etykieta: 'Wielki prezent', rrp: 869.99, dobra: 615 },
+];
+
+const faq = [
+  {
+    q: 'Dlaczego LEGO City jest bezpiecznym prezentem?',
+    a: 'Bo nie wymaga niczego poza chęcią zabawy. To jedyna duża seria LEGO bez licencji filmowej — nie trzeba wiedzieć, czy dziecko ogląda Star Wars, Ninjago czy Minecrafta. Straż pożarna, policja i pociągi działają same z siebie. Druga zaleta jest praktyczna: wszystkie zestawy City łączą się ze sobą, więc nowe pudełko wchodzi do tego, co dziecko już ma, zamiast leżeć osobno.',
+  },
+  {
+    q: 'Ile elementów powinien mieć zestaw City dla dziecka w danym wieku?',
+    a: 'Z grubsza: 4–6 lat to 60–150 elementów, 6–8 lat 150–400, 8–11 lat 400–900, powyżej dziesiątego roku życia można celować w tysiąc i więcej. To wskazówka, nie reguła — dziecko, które składa regularnie, poradzi sobie z pudełkiem grubo powyżej swojego przedziału. Gorzej działa pomyłka w drugą stronę: zestaw poniżej możliwości kończy się w kwadrans i rozczarowuje.',
+  },
+  {
+    q: 'Czy warto kupować duże zestawy City, skoro drobne pojazdy są tak tanie?',
+    a: 'Jedno i drugie ma inną rolę. Pojazdy za 20–50 zł to uzupełnienie floty i dobra dokładka do większego prezentu, ale budowa kończy się w kilkanaście minut. Duże zestawy z budynkiem — remiza, komisariat, stacja — dają bazę, wokół której toczy się zabawa całą resztą kolekcji. Jeśli dziecko ma już kilka pojazdów, a nie ma żadnego budynku, to właśnie budynek zrobi większą różnicę.',
+  },
+  {
+    q: 'Które zestawy City znikają z rynku pod koniec 2026?',
+    a: 'Wycofanie w grudniu 2026 przewidujemy między innymi dla Tramwaju miejskiego ze stacją, Ekspresu polarnego arktycznych odkrywców, Policji z Więziennej Wyspy, Żółtego buldożera i Ciężarówki z burgerami. Aktualną listę z terminami prowadzimy w dziale Wycofania.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO City: co kupić i przy jakiej cenie"
+  opis="Sześć zestawów LEGO City na prezent — od 25 zł do wielkiego pudełka. Seria bez licencji, więc działa niezależnie od tego, co dziecko ogląda."
+  data="2026-08-26"
+  zaktualizowano="2026-08-26"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>City jest najbezpieczniejszym prezentem z całego katalogu LEGO i wynika to z jednej rzeczy: <b>to jedyna duża seria bez licencji</b>. Nie trzeba wiedzieć, czy dziecko ogląda Ninjago, gra w Minecrafta ani czy zna Gwiezdne wojny. Straż pożarna, policja i pociągi bronią się same.</p>
+
+  <p>Druga zaleta jest praktyczna i często decyduje o tym, czy prezent przetrwa dłużej niż tydzień: <b>wszystkie zestawy City łączą się ze sobą</b>. Nowe pudełko wchodzi do tego, co dziecko już ma, zamiast stać obok. Poniżej sześć rekomendacji od drobiazgu za dwadzieścia kilka złotych po prezent, który robi wrażenie przy rozpakowywaniu — z poziomem ceny, od którego zakup ma sens. To istotne, bo <b>City jest przeceniane głębiej niż większość serii</b>: drobne pojazdy schodzą nawet o połowę poniżej ceny katalogowej.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Drobiazg do 25 zł: dwie wyścigówki</h2>
+
+  <Karta
+    nr="60459"
+    nazwa="Zestaw wyścigówek: samolot kontra łóżko"
+    rocznik={2025}
+    elementy={70}
+    rrp={42.99}
+    dlaKogo="dziecko 4–7 lat; dokładka do większego prezentu albo drobiazg na mikołajki"
+    dobra={24}
+    bardzoDobra={21}
+    prog="poniżej 25 zł — poniżej połowy katalogowej schodzi regularnie"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa nakręcane pojazdy o absurdalnych kształtach — latające łóżko i samolot — z mechanizmem, który rozpędza je po podłodze. Siedemdziesiąt elementów, budowa na kwadrans, a potem <b>zabawa, która nie wymaga niczego więcej</b>: dwa pojazdy to od razu wyścig.</p>
+    <p>Uczciwie: to nie jest prezent samodzielny. Rozpakowanie trwa dłużej niż budowa. Ale jako dokładka do większego pudełka albo drobiazg pod choinkę trudno o lepszy stosunek zabawy do ceny w całym katalogu.</p>
+  </Karta>
+
+  <h2>Do 45 zł: pościg policyjny — dwa pojazdy i konflikt</h2>
+
+  <Karta
+    nr="60415"
+    nazwa="Pościg radiowozu za muscle carem"
+    rocznik={2024}
+    elementy={213}
+    rrp={84.99}
+    dlaKogo="dziecko 5–8 lat; klasyczny scenariusz policja kontra złodziej"
+    dobra={44}
+    bardzoDobra={38}
+    prog="poniżej 45 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa samochody i dwie minifigurki, czyli komplet do zabawy w pościg — a to jeden z tych scenariuszy, które dziecko rozumie bez tłumaczenia. Dwieście kilkanaście elementów daje godzinę budowania i pojazdy na tyle solidne, że przetrwają codzienne wożenie po dywanie.</p>
+    <p>To dobry pierwszy zestaw City dla kogoś, kto nie ma jeszcze nic z tej serii: <b>od razu są dwie strony konfliktu</b>, a nie pojedynczy pojazd czekający na resztę.</p>
+  </Karta>
+
+  <h2>Do 150 zł: dostawa pizzy — pojazdy plus zabawa w prowadzenie firmy</h2>
+
+  <Karta
+    nr="60496"
+    nazwa="Dostawa pizzy z pojazdami"
+    rocznik={2026}
+    elementy={494}
+    rrp={209.99}
+    dlaKogo="dziecko 6–9 lat; nasz domyślny wybór dla siedmiolatka"
+    dobra={148}
+    bardzoDobra={132}
+    prog="poniżej 150 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Skuter i furgonetka z pizzerią — zestaw, który dokładamy jako główną rekomendację także w <a href="/prezentowniki/lego-dla-7-latka/">prezentowniku dla 7-latka</a>, i z tego samego powodu: prawie pięćset elementów, dwa pojazdy i zabawa, która <b>ma cel</b>. Rozwożenie zamówień to gotowy scenariusz, nie tylko jeżdżenie w kółko.</p>
+    <p>Zestaw wchodzi do każdej istniejącej kolekcji City. Jeśli dziecko ma już jakiekolwiek pudełko z tej serii, ten się z nim połączy.</p>
+  </Karta>
+
+  <h2>Do 240 zł: remiza strażacka — budynek jako baza dla reszty</h2>
+
+  <Karta
+    nr="60414"
+    nazwa="Remiza strażacka z wozem strażackim"
+    rocznik={2024}
+    elementy={843}
+    rrp={339.99}
+    dlaKogo="dziecko 7–10 lat, które ma już pojazdy, a nie ma budynku"
+    dobra={236}
+    bardzoDobra={210}
+    prog="poniżej 240 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Osiemset elementów, wielopoziomowy budynek z rurą zjazdową i wóz strażacki. Remiza jest w City tym, czym w innej zabawie byłby dom: <b>miejscem, do którego wszystko wraca</b>. Dziecko, które ma już kilka pojazdów, dostaje wreszcie punkt odniesienia dla całej kolekcji.</p>
+    <p>Budowa na dwa–trzy posiedzenia, w zupełności do ogarnięcia samodzielnie przez ośmiolatka. Największa zaleta jako prezentu: efekt widać od razu po rozpakowaniu, bo pudełko jest duże i ciężkie.</p>
+  </Karta>
+
+  <h2>Do 265 zł: tramwaj ze stacją — ostatni sezon</h2>
+
+  <Karta
+    nr="60423"
+    nazwa="Tramwaj miejski ze stacją"
+    rocznik={2024}
+    elementy={811}
+    rrp={379.99}
+    status="znika"
+    dlaKogo="dziecko 7–10 lat; także dla rodziny budującej wspólnie miasto"
+    dobra={262}
+    bardzoDobra={235}
+    prog="poniżej 265 zł, ale przy tym zestawie ważniejszy jest termin niż kwota"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tramwaj z torami i przystankiem — pojazd szynowy jest w City rzadszy niż samochody i buduje zupełnie inną zabawę: <b>trasa zamiast swobodnej jazdy</b>. Osiemset elementów daje długą budowę i konstrukcję, którą da się rozbudowywać o kolejne odcinki.</p>
+    <p><b>Uwaga na termin:</b> ten zestaw ma przewidziane wycofanie na grudzień 2026. Zestawy szynowe po zejściu z produkcji nie tanieją — przeciwnie. Jeśli był w planach pod choinkę, listopad jest bezpieczniejszy niż grudzień.</p>
+  </Karta>
+
+  <h2>Wielki prezent: napad na policyjny pociąg</h2>
+
+  <Karta
+    nr="60508"
+    nazwa="Napad na policyjny pociąg"
+    rocznik={2026}
+    elementy={1313}
+    rrp={869.99}
+    dlaKogo="dziecko 9–12 lat; prezent, który się pamięta"
+    dobra={615}
+    bardzoDobra={560}
+    prog="poniżej 615 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tysiąc trzysta elementów, pociąg z napędem, tory i pełna obsada minifigurek. To zestaw z górnej półki City i jednocześnie <b>jedyny w tym zestawieniu, który sam w sobie wypełnia całe popołudnie budowania</b> — a potem jeszcze długo działa, bo pociąg naprawdę jeździ.</p>
+    <p>Dla kogo nie: dla dziecka poniżej ośmiu lat. Nie chodzi o trudność pojedynczych kroków, tylko o wytrwałość — przy tej liczbie elementów budowa rozkłada się na kilka dni i ośmiolatek zwykle kończy ją z rodzicem.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>City jest serią najgłębiej i najbardziej regularnie przecenianą, więc <b>płacenie ceny katalogowej nie ma tu żadnego uzasadnienia</b>. Drobne pojazdy schodzą poniżej połowy katalogu praktycznie stale, duże zestawy trzymają się okolic jednej trzeciej rabatu.</p>
+
+  <p>Dwa terminy warto mieć w kalendarzu. <b>Black Friday wypada 27 listopada</b> i to tam trafiają się najniższe kwoty na duże pudełka. Ale jednocześnie <b>na grudzień 2026 przypada wycofanie kilkunastu zestawów City</b> — przy tych z listy czekanie do końca listopada bywa grą o wysoką stawkę. Wszystkie terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a listę znikających w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <p>Pełną listę serii z aktualnymi cenami znajdziesz na <a href="/serie/city/">stronie LEGO City</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>
