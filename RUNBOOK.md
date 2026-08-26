@@ -267,9 +267,24 @@ w `katalog.json` i cenę DE w EUR z API:
 
 | Rocznik | Par | Mediana | Odch. std | Odstających >10% |
 |---|---|---|---|---|
-| 2026 | 345 | **4,223** | 0,077 | 9 (2,6%) |
-| 2024 | 176 | **4,303** | 0,104 | 4 (2,3%) |
-| 2022 | 76 | **4,348** | 0,183 | 6 (7,9%) |
+| 2026 | 344 | **4,223** | 0,074 | 0 (0,0%) |
+| 2025 | 335 | **4,273** | 0,101 | 5 (1,5%) |
+| 2024 | 192 | **4,303** | 0,105 | 4 (2,1%) |
+| 2023 | 98 | **4,316** | 0,132 | 1 (1,0%) |
+| 2022 | 80 | **4,348** | 0,195 | 6 (7,5%) |
+| 2021 | 41 | **4,668** | 0,223 | 4 (9,8%) |
+| 2020 | 19 | **4,715** | 0,188 | 2 (10,5%) |
+
+*(Tabela rozszerzona 26.08.2026 na komplet roczników 2020–2026 z API.)*
+**Rozstrzygnięcie po pełnych danych:** przelicznik spada monotonicznie
+z 4,72 w 2020 do 4,22 w 2026 i jest to trend, nie szum. Rozrzut rośnie wstecz
+(odch. std 0,074 w 2026 wobec 0,19 w 2020, odsetek odstających 0% wobec 10,5%).
+Praktycznie: dla roczników **2022–2026 przeliczanie jest bezpieczne** przy
+mnożniku właściwym dla rocznika premiery. Dla **2020–2021 nie** — przy
+odchyleniu 0,19–0,22 i co dziesiątym secie poza zakresem cena z przeliczenia
+myli się na tyle, że policzony z niej rabat przestaje być wiarygodny.
+Tam potrzebne jest źródło PL, a nie przelicznik.
+
 
 **Przelicznik dryfuje między rocznikami — jeden mnożnik globalny byłby
 błędny.** Trzeba stosować mnożnik wyznaczony dla rocznika premiery zestawu.
@@ -382,3 +397,28 @@ streszczenie długiego tekstu. Przy każdym „źródło milczy" najpierw sprawd
 Bricksetu: cap na stronie 20 potwierdziłem właśnie dlatego, że sprawdziłem
 go dwiema drogami — i tam `curl` potwierdził WebFetcha, więc wniosek się
 utrzymał.
+
+---
+
+## Filtr „realny zestaw": pole `category` z API *(ustalone 26.08.2026)*
+
+Do odsiewania szumu z list Bricksetu **używać pola `category` z API**, nie
+własnych reguł po prefiksie numeru.
+
+- **`Normal`** — zwykły zestaw detaliczny. To jest ten filtr.
+- **`Collection`** — serie minifigurek (71052, 71053). Też trzymamy.
+- **`Gear`** (112 pozycji w 2026), **`Book`**, **`Extended`** (BrickLink
+  Designer Program, numery 910xxx, oraz promocje), **`Other`** (zestawy
+  z czasopism i gratisy o 6-cyfrowych numerach), **`Random`** — odsiewamy.
+
+Kontrola trafności: 252 z 255 naszych opisanych setów rocznika 2026 ma
+`category='Normal'`, pozostałe 3 to `Collection`. Zero fałszywych odrzuceń.
+
+**Dlaczego to ważne:** mój wcześniejszy filtr po prefiksie numeru odrzucał
+całe zakresy `30xxx` i `40xxx`, przez co gubił BrickHeadz i polybagi będące
+normalnymi zestawami, a jednocześnie przepuszczał śmieci. Zaniżał rocznik 2026
+z 558 realnych setów do 416. Nie stosować go ponownie.
+
+Osobna pułapka z tego samego dnia: seria **`tbd`** to NIE jest szum — to
+zestaw, któremu Brickset nie przypisał jeszcze motywu, czyli najświeższy
+z możliwych. Tak zgubiłem 72306 (replika PlayStation 1, 1911 elementów, 18+).

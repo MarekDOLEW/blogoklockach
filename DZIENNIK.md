@@ -625,3 +625,38 @@ z ustaleniem czekamy na raport indeksowania GSC.
    za pół roku nie odróżnimy odczytanej od policzonej).
 3. Dziewięć podejrzanych cen do weryfikacji na LEGO.com PL — to warto
    poprawić niezależnie od backfillu, bo psuje wiarygodność rabatów już dziś.
+
+## 2026-08-26 (2) · CODE (Scout) · Przegląd roczników 2020–2026
+
+**Zrobione:**
+- Pobrane z Brickset API komplety roczników 2020–2026 (15 wywołań `getSets`,
+  sumy zgodne z polem `matches` dla każdego roku).
+- Filtr „realny zestaw" oparty na polu `category` z API zamiast moich reguł
+  po prefiksie numeru. Kontrola: 252 z 255 opisanych setów 2026 to `Normal`,
+  3 to `Collection`, zero fałszywych odrzuceń. Poprzedni filtr zaniżał
+  rocznik 2026 z 558 do 416 realnych setów.
+- **Wynik: 3538 realnych zestawów z lat 2020–2026, opisanych 260 (7,3%).**
+  Rocznik 2026 pokryty w 45,7%, każdy wcześniejszy praktycznie w zerze.
+- **831 zestawów jest jednocześnie w sprzedaży, ma cenę katalogową w zł
+  i nie ma ani zdania opisu.** To gotowa kolejka pracy zdolna konwertować
+  afiliacyjnie od razu. W czołówce: Barad-dûr (10333), Venator (75367),
+  Hulkbuster (76210), Barka Jabby (75397), Zamek Disneya (43222),
+  Ferrari Daytona SP3 (42143), Lamborghini Sian (42115).
+- `known_sets.json`: rejestr przebudowany na strukturę per rocznik
+  (9 KB → 90 KB), priorytet redakcyjny na 60 numerów ze wszystkich lat.
+- `RUNBOOK.md`: tabela przelicznika EUR→PLN rozszerzona na 2020–2026;
+  nowa sekcja o filtrze `category`.
+
+**Stan:** rejestr gotowy. Nic nie zapisane do `katalog.json` — backfill cen
+nadal czeka na raport GSC.
+
+**Ustalenie o przeliczniku (pełne dane):** mnożnik spada monotonicznie
+z 4,715 (2020) do 4,223 (2026), rozrzut rośnie wstecz. Dla roczników
+2022–2026 przeliczanie jest bezpieczne przy mnożniku per rocznik. Dla
+2020–2021 nie — odchylenie 0,19–0,22 i co dziesiąty set poza zakresem
+sprawiają, że rabat policzony z takiej ceny byłby niewiarygodny.
+
+**Do decyzji Marka:**
+Przy tempie 6 setów dziennie 831 pilnych luk to ponad cztery miesiące, czyli
+po sezonie. Kolejność do ustalenia: czy Scout ma dalej dokładać po kilka
+dziennie, czy uruchamiamy osobną sesję redakcyjną na czołówkę listy.
