@@ -30,9 +30,8 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-26",
-      "uzupelnione_lacznie": 1995,
+      "uzupelnione_lacznie": 2115,
       "ostatnie_serie": [
-        "Icons",
         "Star Wars"
       ]
     },
@@ -8610,840 +8609,960 @@
       "nazwa": "Mikromodel Bitwa o Endor",
       "rok": 2019,
       "elementy": 197,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "6382975",
       "nazwa": "Tantive IV",
       "rok": 2019,
       "elementy": 56,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75223",
       "nazwa": "Naboo Starfighter Microfighter",
       "rok": 2019,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "75224",
       "nazwa": "Sith Infiltrator Microfighter",
       "rok": 2019,
       "elementy": 92,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "75225",
       "nazwa": "Elitarni gwardziści Pretorianie",
       "rok": 2019,
       "elementy": 109,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75226",
       "nazwa": "Oddział Inferno",
       "rok": 2019,
       "elementy": 118,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75227",
       "nazwa": "Popiersie Dartha Vadera",
       "rok": 2019,
       "elementy": 327,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 160.0
     },
     {
       "numer": "75228",
       "nazwa": "Kapsuła ratunkowa kontra Dewback",
       "rok": 2019,
       "elementy": 177,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75229",
       "nazwa": "Ucieczka z Gwiazdy Śmierci",
       "rok": 2019,
       "elementy": 329,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75233",
       "nazwa": "Okręt bojowy droidów",
       "rok": 2019,
       "elementy": 389,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75234",
       "nazwa": "Maszyna krocząca AT-AP",
       "rok": 2019,
       "elementy": 689,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75235",
       "nazwa": "Atak myśliwcem X-Wing",
       "rok": 2019,
       "elementy": 132,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75236",
       "nazwa": "Pojedynek w bazie Starkiller",
       "rok": 2019,
       "elementy": 191,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75237",
       "nazwa": "TIE Fighter Attack",
       "rok": 2019,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75238",
       "nazwa": "Bitwa na Endorze",
       "rok": 2019,
       "elementy": 193,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75239",
       "nazwa": "Atak na generator na Hoth",
       "rok": 2019,
       "elementy": 235,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75240",
       "nazwa": "Myśliwiec TIE Majora Vonrega",
       "rok": 2019,
       "elementy": 496,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75241",
       "nazwa": "Obrona Bazy Echo",
       "rok": 2019,
       "elementy": 504,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75242",
       "nazwa": "TIE Interceptor Czarny As",
       "rok": 2019,
       "elementy": 396,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "75243",
       "nazwa": "Slave I — edycja rocznicowa",
       "rok": 2019,
       "elementy": 1007,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 569.99
     },
     {
       "numer": "75244",
       "nazwa": "Tantive IV",
       "rok": 2019,
       "elementy": 1768,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "75245",
       "nazwa": "Kalendarz adwentowy",
       "rok": 2019,
       "elementy": 280,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75246",
       "nazwa": "Działo na Gwieździe Śmierci",
       "rok": 2019,
       "elementy": 159,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75247",
       "nazwa": "Rebel A-wing Starfighter",
       "rok": 2019,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75248",
       "nazwa": "Myśliwiec A-Wing Ruchu Oporu",
       "rok": 2019,
       "elementy": 269,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75249",
       "nazwa": "Myśliwiec Y-Wing Ruchu Oporu",
       "rok": 2019,
       "elementy": 578,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "75250",
       "nazwa": "Pościg na śmigaczach w Pasaanie",
       "rok": 2019,
       "elementy": 373,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "75251",
       "nazwa": "Zamek Dartha Vadera",
       "rok": 2019,
       "elementy": 1060,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 619.99
     },
     {
       "numer": "75252",
       "nazwa": "Gwiezdny Niszczyciel Imperium",
       "rok": 2019,
       "elementy": 4784,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 3299.99
     },
     {
       "numer": "75253",
       "nazwa": "Dowódca droidów",
       "rok": 2019,
       "elementy": 1177,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "75254",
       "nazwa": "Szturmowa maszyna krocząca AT-ST",
       "rok": 2019,
       "elementy": 540,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "75255",
       "nazwa": "Yoda",
       "rok": 2019,
       "elementy": 1771,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 569.99
     },
     {
       "numer": "75256",
       "nazwa": "Wahadłowiec Kylo Rena",
       "rok": 2019,
       "elementy": 1005,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 569.99
     },
     {
       "numer": "75257",
       "nazwa": "Sokół Millennium",
       "rok": 2019,
       "elementy": 1351,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 739.99
     },
     {
       "numer": "75258",
       "nazwa": "Ścigacz Anakina — edycja rocznicowa",
       "rok": 2019,
       "elementy": 279,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75259",
       "nazwa": "Śmigacz śnieżny — edycja rocznicowa",
       "rok": 2019,
       "elementy": 309,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75261",
       "nazwa": "Maszyna krocząca klonów — edycja rocznicowa",
       "rok": 2019,
       "elementy": 250,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75262",
       "nazwa": "Statek desantowy Imperium — edycja rocznicowa",
       "rok": 2019,
       "elementy": 125,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75522",
       "nazwa": "Mini Boost Droid Commander",
       "rok": 2019,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "77901",
       "nazwa": "Sith Trooper Bust",
       "rok": 2019,
       "elementy": 484,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911943",
       "nazwa": "Luke Skywalker",
       "rok": 2019,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911944",
       "nazwa": "Resistance Bomber",
       "rok": 2019,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911945",
       "nazwa": "Slave I",
       "rok": 2019,
       "elementy": 31,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911946",
       "nazwa": "U-wing",
       "rok": 2019,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911947",
       "nazwa": "IG-88",
       "rok": 2019,
       "elementy": 11,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911948",
       "nazwa": "AT-M6",
       "rok": 2019,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911949",
       "nazwa": "Millennium Falcon",
       "rok": 2019,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911950",
       "nazwa": "B-wing",
       "rok": 2019,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911951",
       "nazwa": "First Order Stormtrooper",
       "rok": 2019,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911952",
       "nazwa": "Jedi Interceptor",
       "rok": 2019,
       "elementy": 30,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911953",
       "nazwa": "First Order SF TIE Fighter",
       "rok": 2019,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "911954",
       "nazwa": "Kylo Ren's TIE Silencer",
       "rok": 2019,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30386",
       "nazwa": "Myśliwiec X-Wing Poe'a Damerona",
       "rok": 2020,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40407",
       "nazwa": "Bitwa o Gwiazdę Śmierci II",
       "rok": 2020,
       "elementy": 235,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "5006290",
       "nazwa": "Yoda's Lightsaber",
       "rok": 2020,
       "elementy": 140,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75263",
       "nazwa": "Mikromyśliwiec Y-Wing Ruchu Oporu",
       "rok": 2020,
       "elementy": 86,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 49.99
     },
     {
       "numer": "75264",
       "nazwa": "Wahadłowiec Kylo Rena",
       "rok": 2020,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 49.99
     },
     {
       "numer": "75265",
       "nazwa": "T-16 Skyhopper kontra mikromyśliwce Bantha",
       "rok": 2020,
       "elementy": 198,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75266",
       "nazwa": "Zestaw bitewny żołnierzy Sithów",
       "rok": 2020,
       "elementy": 105,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "75267",
       "nazwa": "Zestaw bojowy Mandalorianina",
       "rok": 2020,
       "elementy": 102,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "75268",
       "nazwa": "Śmigacz śnieżny",
       "rok": 2020,
       "elementy": 91,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75269",
       "nazwa": "Pojedynek na planecie Mustafar",
       "rok": 2020,
       "elementy": 208,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75270",
       "nazwa": "Chatka Obi-Wana",
       "rok": 2020,
       "elementy": 200,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75271",
       "nazwa": "Śmigacz Luke'a Skywalkera",
       "rok": 2020,
       "elementy": 236,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75272",
       "nazwa": "Myśliwiec TIE Sithów",
       "rok": 2020,
       "elementy": 470,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75273",
       "nazwa": "Myśliwiec X-Wing Poe Damerona",
       "rok": 2020,
       "elementy": 761,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "75274",
       "nazwa": "Hełm pilota myśliwca TIE",
       "rok": 2020,
       "elementy": 724,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75275",
       "nazwa": "Myśliwiec A-wing",
       "rok": 2020,
       "elementy": 1673,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "75276",
       "nazwa": "Hełm szturmowca",
       "rok": 2020,
       "elementy": 647,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75277",
       "nazwa": "Hełm Boby Fetta",
       "rok": 2020,
       "elementy": 625,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75278",
       "nazwa": "D-O",
       "rok": 2020,
       "elementy": 519,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75279",
       "nazwa": "Kalendarz Adwentowy",
       "rok": 2020,
       "elementy": 311,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75280",
       "nazwa": "Żołnierze-klony z 501. legionu",
       "rok": 2020,
       "elementy": 285,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75281",
       "nazwa": "Jedi Interceptor Anakina",
       "rok": 2020,
       "elementy": 248,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75283",
       "nazwa": "Czołg opancerzony AAT",
       "rok": 2020,
       "elementy": 286,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "75284",
       "nazwa": "Statek transportowy Rycerzy Ren",
       "rok": 2020,
       "elementy": 595,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75286",
       "nazwa": "Gwiezdny myśliwiec generała Grievousa",
       "rok": 2020,
       "elementy": 487,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75288",
       "nazwa": "AT-AT",
       "rok": 2020,
       "elementy": 1267,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "75290",
       "nazwa": "Kantyna Mos Eisley",
       "rok": 2020,
       "elementy": 3187,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1749.99
     },
     {
       "numer": "75291",
       "nazwa": "Gwiazda Śmierci — ostateczny pojedynek",
       "rok": 2020,
       "elementy": 775,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "75292",
       "nazwa": "Transportowiec łowcy nagród z serialu Mandalorian — Brzeszczot",
       "rok": 2020,
       "elementy": 1023,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 669.99
     },
     {
       "numer": "75293",
       "nazwa": "Pojazd transportowy I-TS Ruchu Oporu",
       "rok": 2020,
       "elementy": 932,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "75294",
       "nazwa": "Pojedynek nad Bespinem",
       "rok": 2020,
       "elementy": 295,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75318",
       "nazwa": "Dziecko",
       "rok": 2020,
       "elementy": 1073,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "77904",
       "nazwa": "Nebulon-B Frigate",
       "rok": 2020,
       "elementy": 459,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912055",
       "nazwa": "Snowspeeder",
       "rok": 2020,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912056",
       "nazwa": "TIE Striker",
       "rok": 2020,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912057",
       "nazwa": "R2-D2 and MSE-6",
       "rok": 2020,
       "elementy": 13,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912058",
       "nazwa": "Sith Infiltrator",
       "rok": 2020,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912059",
       "nazwa": "Elite Praetorian Guard",
       "rok": 2020,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912060",
       "nazwa": "A-wing",
       "rok": 2020,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912061",
       "nazwa": "AT-AT",
       "rok": 2020,
       "elementy": 51,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912062",
       "nazwa": "Stormtrooper",
       "rok": 2020,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912063",
       "nazwa": "Resistance X-wing",
       "rok": 2020,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912064",
       "nazwa": "Sith Eternal TIE Dagger",
       "rok": 2020,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912065",
       "nazwa": "Luke Skywalker",
       "rok": 2020,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912066",
       "nazwa": "Jedi Interceptor",
       "rok": 2020,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912067",
       "nazwa": "TIE Interceptor",
       "rok": 2020,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30388",
       "nazwa": "Imperialny wahadłowiec",
       "rok": 2021,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40451",
       "nazwa": "Gospodarstwo na Tatooine",
       "rok": 2021,
       "elementy": 217,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "40483",
       "nazwa": "Miecz świetlny Luke'a Skywalkera",
       "rok": 2021,
       "elementy": 173,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "66674",
       "nazwa": "Skywalker Adventures Pack",
       "rok": 2021,
       "elementy": 644,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75295",
       "nazwa": "Mikromyśliwiec Sokół Millennium",
       "rok": 2021,
       "elementy": 101,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "75296",
       "nazwa": "Komnata medytacyjna Dartha Vadera",
       "rok": 2021,
       "elementy": 663,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75297",
       "nazwa": "X-Wing Ruchu Oporu",
       "rok": 2021,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75298",
       "nazwa": "Mikromyśliwce: AT-AT kontra Tauntaun",
       "rok": 2021,
       "elementy": 205,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75299",
       "nazwa": "Kłopoty na Tatooine",
       "rok": 2021,
       "elementy": 276,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75300",
       "nazwa": "Imperialny myśliwiec TIE",
       "rok": 2021,
       "elementy": 432,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75301",
       "nazwa": "Myśliwiec X-Wing Luke'a Skywalkera",
       "rok": 2021,
       "elementy": 474,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75302",
       "nazwa": "Imperialny wahadłowiec",
       "rok": 2021,
       "elementy": 660,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75304",
       "nazwa": "Hełm Dartha Vadera",
       "rok": 2021,
       "elementy": 834,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "75305",
       "nazwa": "Hełm zwiadowcy szturmowców",
       "rok": 2021,
       "elementy": 471,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75306",
       "nazwa": "Imperialny droid zwiadowczy",
       "rok": 2021,
       "elementy": 683,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75307",
       "nazwa": "Kalendarz adwentowy",
       "rok": 2021,
       "elementy": 335,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75308",
       "nazwa": "R2-D2",
       "rok": 2021,
       "elementy": 2314,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "75309",
       "nazwa": "Kanonierka Republiki",
       "rok": 2021,
       "elementy": 3292,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1899.99
     },
     {
       "numer": "75310",
       "nazwa": "Starcie na Mandalore",
       "rok": 2021,
       "elementy": 147,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75311",
       "nazwa": "Opancerzony maruder Imperium",
       "rok": 2021,
       "elementy": 478,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "75312",
       "nazwa": "Statek kosmiczny Boby Fetta",
       "rok": 2021,
       "elementy": 593,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75313",
       "nazwa": "AT-AT",
       "rok": 2021,
       "elementy": 6785,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 3699.99
     },
     {
       "numer": "75314",
