@@ -12,6 +12,7 @@ import redirectsMapa from '../data/redirects.json';
 import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
+import setyDane from '../data/sety.json';
 import { wpisKatalogu } from './katalog.js';
 
 // Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
@@ -20,9 +21,16 @@ import { wpisKatalogu } from './katalog.js';
 // listę odrzuconych z linkami do aukcji wypisuje `node scripts/kontrola-ofert.mjs`.
 import { odsiej } from './odsiew.js';
 
-/** Cena katalogowa na potrzeby odsiewu — bez sety.json, żeby nie ciągnąć go tutaj. */
-const katalogowaDoOdsiewu = (nr) =>
-  cenyBaza[String(nr)]?.cena_katalogowa ?? wpisKatalogu(String(nr))?.cena_katalogowa ?? null;
+/**
+ * Cena katalogowa na potrzeby odsiewu — dokładnie ta sama, którą pokazuje strona.
+ *
+ * Musi iść pełnym łańcuchem źródeł z cenaKatalogowaSetu (rrp_potwierdzone ->
+ * sety -> ceny_baza -> katalog). Wcześniej pomijała dwa pierwsze i czytała
+ * tylko źródła generowane, więc dla setu z ręcznie poprawionym RRP filtr liczył
+ * próg od starej ceny z backfillu, a strona pokazywała nową — odsiew mógł
+ * przepuścić podszywkę albo (gorzej) uciąć prawdziwą ofertę.
+ */
+const katalogowaDoOdsiewu = (nr) => cenaKatalogowaSetu(nr, { sety: setyDane });
 
 /**
  * Oferty sklepowe z migawki feedów dla jednego setu.

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "aktualizacja": "2026-08-25",
+    "aktualizacja": "2026-08-26",
     "zrodla": [
       "brickset.com (theme Ideas)",
       "lego.com",
@@ -23,7 +23,8 @@
       "brickset.com (theme Jurassic-World)",
       "brickset.com (theme Classic)",
       "brickset.com (theme Botanicals)",
-      "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)"
+      "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)",
+      "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -33,7 +34,8 @@
       "ostatnie_serie": [
         "Star Wars"
       ]
-    }
+    },
+    "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252)."
   },
   "Ideas": [
     {
@@ -1945,7 +1947,7 @@
       "numer": "11382",
       "nazwa": "Kosmiczny Teleskop Hubble'a",
       "rok": 2026,
-      "elementy": 1552,
+      "elementy": 1252,
       "status": "dostepny",
       "cena_katalogowa": 559.99
     },
@@ -1982,6 +1984,13 @@
       "cena_katalogowa": 899.99
     },
     {
+      "numer": "11387",
+      "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
+      "rok": 2026,
+      "elementy": null,
+      "status": "dostepny"
+    },
+    {
       "numer": "11389",
       "nazwa": "Projekt Hail Mary",
       "rok": 2026,
@@ -2012,6 +2021,22 @@
       "elementy": 243,
       "status": "eol",
       "cena_katalogowa": 109.99
+    },
+    {
+      "numer": "43026",
+      "nazwa": "Zestaw Nike Air Force 1 x LEGO",
+      "rok": 2026,
+      "elementy": 1093,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
+    },
+    {
+      "numer": "72423",
+      "nazwa": "Shrek, Osioł i Kot w butach",
+      "rok": 2026,
+      "elementy": 1403,
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     }
   ],
   "Harry Potter": [
@@ -55795,6 +55820,528 @@
       "rok": 2026,
       "elementy": 46,
       "status": "eol"
+    }
+  ],
+  "Pokémon": [
+    {
+      "numer": "30729",
+      "nazwa": "Premierball",
+      "rok": 2026,
+      "elementy": 46,
+      "status": "dostepny",
+      "cena_katalogowa": 16.49
+    },
+    {
+      "numer": "30730",
+      "nazwa": "Wyposażenie Trenera",
+      "rok": 2026,
+      "elementy": 56,
+      "status": "dostepny",
+      "cena_katalogowa": 16.49
+    },
+    {
+      "numer": "40868",
+      "nazwa": "Powiększona minifigurka Reda",
+      "rok": 2026,
+      "elementy": 930,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
+    },
+    {
+      "numer": "40887",
+      "nazwa": "SMART Play: Ditto jako Squirtle — maraton filmowy",
+      "rok": 2026,
+      "elementy": 185,
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
+    },
+    {
+      "numer": "72150",
+      "nazwa": "Munchlax",
+      "rok": 2026,
+      "elementy": 757,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    },
+    {
+      "numer": "72154",
+      "nazwa": "Kultowy Pokéball z Trenerami",
+      "rok": 2026,
+      "elementy": 2386,
+      "status": "dostepny",
+      "cena_katalogowa": 1129.99
+    },
+    {
+      "numer": "72155",
+      "nazwa": "SMART Play: Bulbasaur i Bidoof z krzewem jagody",
+      "rok": 2026,
+      "elementy": 240,
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
+    },
+    {
+      "numer": "72160",
+      "nazwa": "Arcanine",
+      "rok": 2026,
+      "elementy": 1190,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
+    },
+    {
+      "numer": "72168",
+      "nazwa": "Rayquaza",
+      "rok": 2026,
+      "elementy": 1183,
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
+    }
+  ],
+  "Art": [
+    {
+      "numer": "31221",
+      "nazwa": "Gustav Klimt — Pocałunek",
+      "rok": 2026,
+      "elementy": 4000,
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
+    }
+  ],
+  "Architecture": [
+    {
+      "numer": "21065",
+      "nazwa": "Sagrada Família",
+      "rok": 2026,
+      "elementy": 12060,
+      "status": "dostepny",
+      "cena_katalogowa": 3199.99
+    },
+    {
+      "numer": "21066",
+      "nazwa": "Nowy Jork — Wielkie Jabłko",
+      "rok": 2026,
+      "elementy": 1465,
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
+    },
+    {
+      "numer": "21067",
+      "nazwa": "Tower Bridge",
+      "rok": 2026,
+      "elementy": 3745,
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
+    }
+  ],
+  "KPop Demon Hunters": [
+    {
+      "numer": "72537",
+      "nazwa": "Tygrys Derpy i Sroka Sussie",
+      "rok": 2026,
+      "elementy": 825,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    }
+  ],
+  "Editions": [
+    {
+      "numer": "43018",
+      "nazwa": "Lionel Messi — cieszynka",
+      "rok": 2026,
+      "elementy": 1427,
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
+    },
+    {
+      "numer": "43020",
+      "nazwa": "Oficjalny Puchar Świata FIFA",
+      "rok": 2026,
+      "elementy": 2842,
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
+    },
+    {
+      "numer": "43028",
+      "nazwa": "Płyta winylowa Olivii Rodrigo",
+      "rok": 2026,
+      "elementy": 360,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
+    },
+    {
+      "numer": "43029",
+      "nazwa": "Księżyc z koncertu Olivii Rodrigo",
+      "rok": 2026,
+      "elementy": 670,
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
+    },
+    {
+      "numer": "43030",
+      "nazwa": "Skrytka Olivii Rodrigo",
+      "rok": 2026,
+      "elementy": 1085,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
+    },
+    {
+      "numer": "43031",
+      "nazwa": "Podwójna gitara Olivii Rodrigo",
+      "rok": 2026,
+      "elementy": 1228,
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
+    }
+  ],
+  "Sonic": [
+    {
+      "numer": "40926",
+      "nazwa": "Konsola SEGA Mega Drive",
+      "rok": 2026,
+      "elementy": 479,
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
+    },
+    {
+      "numer": "77119",
+      "nazwa": "Tails i Tornado-1",
+      "rok": 2026,
+      "elementy": 310,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
+    },
+    {
+      "numer": "77120",
+      "nazwa": "Shadow i jego mech kontra G.U.N. Trooper",
+      "rok": 2026,
+      "elementy": 374,
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
+    }
+  ],
+  "Animal Crossing": [
+    {
+      "numer": "77059",
+      "nazwa": "Timmy i Tommy na spacerze",
+      "rok": 2026,
+      "elementy": 513,
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
+    }
+  ],
+  "One Piece": [
+    {
+      "numer": "75641",
+      "nazwa": "Kryjówka doktora Hiluluka",
+      "rok": 2026,
+      "elementy": 271,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
+    },
+    {
+      "numer": "75642",
+      "nazwa": "Starcie z kapitanem Smokerem",
+      "rok": 2026,
+      "elementy": 547,
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
+    },
+    {
+      "numer": "75643",
+      "nazwa": "Tony Tony Chopper",
+      "rok": 2026,
+      "elementy": 577,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    },
+    {
+      "numer": "75644",
+      "nazwa": "Dorry kontra Brogy — Giganci z Little Garden",
+      "rok": 2026,
+      "elementy": 733,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
+    },
+    {
+      "numer": "75645",
+      "nazwa": "Bitwa pod zamkiem Drum",
+      "rok": 2026,
+      "elementy": 1038,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
+    },
+    {
+      "numer": "75646",
+      "nazwa": "Okręt Garpa",
+      "rok": 2026,
+      "elementy": 1738,
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
+    },
+    {
+      "numer": "75647",
+      "nazwa": "Gum-gumowoc",
+      "rok": 2026,
+      "elementy": 482,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    }
+  ],
+  "F1": [
+    {
+      "numer": "43017",
+      "nazwa": "Kask Oscar Piastri McLaren Mastercard F1 Team",
+      "rok": 2026,
+      "elementy": 793,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
+    },
+    {
+      "numer": "43023",
+      "nazwa": "Kask Lando Norris McLaren Mastercard F1 Team",
+      "rok": 2026,
+      "elementy": 793,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
+    },
+    {
+      "numer": "43024",
+      "nazwa": "Kask Ayrton Senna",
+      "rok": 2026,
+      "elementy": 931,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
+    }
+  ],
+  "Koci Domek Gabi": [
+    {
+      "numer": "11212",
+      "nazwa": "Domek w ogrodzie Wróżkici",
+      "rok": 2026,
+      "elementy": 103,
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
+    },
+    {
+      "numer": "11214",
+      "nazwa": "Wróżkowa kolejka górska i podwieczorek",
+      "rok": 2026,
+      "elementy": 137,
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
+    }
+  ],
+  "Wicked": [
+    {
+      "numer": "75685",
+      "nazwa": "Obraz Emerald City",
+      "rok": 2025,
+      "elementy": 1518,
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
+    }
+  ],
+  "Fortnite": [
+    {
+      "numer": "77079",
+      "nazwa": "Pomidorek",
+      "rok": 2026,
+      "elementy": 210,
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
+    },
+    {
+      "numer": "77080",
+      "nazwa": "Zrzut zaopatrzenia",
+      "rok": 2026,
+      "elementy": 314,
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
+    },
+    {
+      "numer": "77081",
+      "nazwa": "Kitek",
+      "rok": 2026,
+      "elementy": 1230,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
+    },
+    {
+      "numer": "77082",
+      "nazwa": "Jaskinia Ubawu",
+      "rok": 2026,
+      "elementy": 1963,
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
+    }
+  ],
+  "Bluey": [
+    {
+      "numer": "11216",
+      "nazwa": "Babunie z Bingo i Blue",
+      "rok": 2026,
+      "elementy": 80,
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
+    },
+    {
+      "numer": "11217",
+      "nazwa": "Rodzina Blue z klocków",
+      "rok": 2026,
+      "elementy": 466,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    },
+    {
+      "numer": "11221",
+      "nazwa": "Szkoła z Ryżykiem i Blue",
+      "rok": 2026,
+      "elementy": 106,
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
+    }
+  ],
+  "Minifigurki": [
+    {
+      "numer": "71052",
+      "nazwa": "Seria 29",
+      "rok": 2026,
+      "elementy": 7,
+      "status": "dostepny",
+      "cena_katalogowa": 16.49
+    },
+    {
+      "numer": "71053",
+      "nazwa": "Seria Shrek",
+      "rok": 2026,
+      "elementy": 7,
+      "status": "dostepny",
+      "cena_katalogowa": 16.49
+    }
+  ],
+  "Wednesday": [
+    {
+      "numer": "76787",
+      "nazwa": "Plecak Wednesday",
+      "rok": 2026,
+      "elementy": 401,
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
+    },
+    {
+      "numer": "76788",
+      "nazwa": "Akademia Nevermore",
+      "rok": 2026,
+      "elementy": 890,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    }
+  ],
+  "SMART Play": [
+    {
+      "numer": "72156",
+      "nazwa": "SMART Play: zestaw startowy",
+      "rok": 2026,
+      "elementy": 320,
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
+    },
+    {
+      "numer": "72157",
+      "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
+      "rok": 2026,
+      "elementy": 198,
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
+    },
+    {
+      "numer": "72158",
+      "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa",
+      "rok": 2026,
+      "elementy": 313,
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
+    },
+    {
+      "numer": "72159",
+      "nazwa": "SMART Play: Jigglypuff i koncert",
+      "rok": 2026,
+      "elementy": 88,
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
+    },
+    {
+      "numer": "72161",
+      "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
+      "rok": 2026,
+      "elementy": 429,
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
+    },
+    {
+      "numer": "72162",
+      "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
+      "rok": 2026,
+      "elementy": 623,
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
+    },
+    {
+      "numer": "72163",
+      "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
+      "rok": 2026,
+      "elementy": 605,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    },
+    {
+      "numer": "72164",
+      "nazwa": "SMART Play: Dom treningowy z Pikachu",
+      "rok": 2026,
+      "elementy": 400,
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
+    },
+    {
+      "numer": "72165",
+      "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
+      "rok": 2026,
+      "elementy": 831,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
+    },
+    {
+      "numer": "72166",
+      "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
+      "rok": 2026,
+      "elementy": 782,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
+    },
+    {
+      "numer": "72167",
+      "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
+      "rok": 2026,
+      "elementy": 751,
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
+    }
+  ],
+  "Batman": [
+    {
+      "numer": "76332",
+      "nazwa": "Batmobil z filmu Batman",
+      "rok": 2026,
+      "elementy": 330,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
+    },
+    {
+      "numer": "76355",
+      "nazwa": "Batmobil z filmu Powrót Batmana",
+      "rok": 2026,
+      "elementy": 2269,
+      "status": "dostepny",
+      "cena_katalogowa": 899.99
     }
   ]
 }
