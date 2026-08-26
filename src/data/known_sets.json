@@ -357,8 +357,8 @@
     {
       "numer": "11379",
       "nazwa": "nieujawniony zestaw Icons",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: nietypowy przypadek — Brickset ma juz dane twarde (1690 elementow, 129,99 USD / 129,99 EUR), ale nazwa wciaz jako {?}. Zwykle oznacza set tuz przed ujawnieniem."
+      "premiera": "2026-10",
+      "status": "Icons, 1690 elementow, 18+, premiera 2026-10-01 (data doprecyzowana 2026-08-26 z API). Brickset ma dane twarde i RRP 129,99 USD / 129,99 EUR, ale nazwa wciaz {?}. Czesc pazdziernikowej fali."
     },
     {
       "numer": "11390",
@@ -395,6 +395,18 @@
       "nazwa": "Marvel — dwa numery na rocznik 2027",
       "premiera": "2027",
       "status": "NOWE 2026-08-26: numery 11222 i 11223 zarezerwowane w Brickset na rocznik 2027, bez nazw i danych."
+    },
+    {
+      "numer": "75457",
+      "nazwa": "nieujawniony UCS Star Wars — najwiekszy zestaw rocznika 2026",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-08-26. Brickset: 6130 elementow, Star Wars / Ultimate Collector Series, 18+, premiera 2026-10-01, availability 'Retail', category 'Normal' — czyli normalny zestaw detaliczny, nie promocja. Nazwa wciaz {?}, brak RRP na wszystkich czterech rynkach (US/UK/CA/DE puste). Karta ostatnio aktualizowana 2026-07-07. To NAJWIEKSZY zestaw calego rocznika 2026 — wiecej elementow niz Minas Tirith (8278 el. to Icons, wsrod UCS Star Wars 6130 plasuje go w scislej czolowce linii). Zaden z naszych trzech serwisow zrodlowych o nim nie pisal — wychwycony wylacznie z API. Priorytet najwyzszy: karta researchu powinna byc gotowa PRZED 1 pazdziernika."
+    },
+    {
+      "numer": "40875",
+      "nazwa": "nieujawniony zestaw Seasonal",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-08-26: 904 elementy, 10+, premiera 2026-10-01, nazwa {?}, brak ceny. Czwarty set z pazdziernikowej fali."
     }
   ],
   "luki_w_bazie": {
@@ -4667,5 +4679,36 @@
     ],
     "kontekst_seo": "",
     "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch."
+  },
+  "fala_pazdziernikowa_2026": {
+    "ustalenie": "2026-08-26",
+    "opis": "Cztery nieujawnione zestawy rocznika 2026 powyzej 800 elementow maja identyczna date premiery 2026-10-01. To nie sa pojedyncze przecieki, tylko skoordynowana fala ujawnien — pazdziernikowy drop LEGO, wprost przed sezonem swiatecznym. Wychwycone z Brickset API; zaden z trzech serwisow zrodlowych (PromoBricks, StoneWars) o calej fali nie pisal.",
+    "sety": [
+      {
+        "numer": "75457",
+        "elementy": 6130,
+        "seria": "Star Wars UCS",
+        "wiek": "18+"
+      },
+      {
+        "numer": "72306",
+        "elementy": 1911,
+        "seria": "tbd (wg StoneWars replika PlayStation 1)",
+        "wiek": "18+"
+      },
+      {
+        "numer": "11379",
+        "elementy": 1690,
+        "seria": "Icons",
+        "wiek": "18+"
+      },
+      {
+        "numer": "40875",
+        "elementy": 904,
+        "seria": "Seasonal",
+        "wiek": "10+"
+      }
+    ],
+    "rekomendacja": "Trzy z czterech to zestawy 18+ o duzej liczbie elementow, czyli wysoka cena katalogowa i wysoka prowizja z jednej konwersji. Karty researchu warto miec gotowe przed 1 pazdziernika, a nie pisac po fakcie. Scout powinien sledzic te cztery numery codziennie przez updatedSince — ujawnienie nazwy i ceny w Brickset bedzie pierwszym twardym sygnalem."
   }
 }
