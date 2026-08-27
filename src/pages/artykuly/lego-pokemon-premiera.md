@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO Pokémon zadebiutowało — 18 zestawów naraz. Co warto kupić, a co odpuścić?"
 opis: "Największa premiera licencyjna roku: od polybagów za 16,49 zł po smoka Rayquaza. Analizujemy ceny za klocek i wskazujemy najlepsze wybory dla dzieci i kolekcjonerów."
 data: "2026-08-11"
-kategoria: "Premiera"
+kategoria: "Premiery"
 ---
 
 LEGO i Pokémon — na tę współpracę fani czekali latami. W sierpniu do sklepów trafiło **18 zestawów jednocześnie**: trzy duże modele kolekcjonerskie i cała linia interaktywna SMART Play.

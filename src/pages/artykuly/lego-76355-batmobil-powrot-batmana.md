@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO 76355 Batmobil z Powrotu Batmana — wielka premiera DC"
 opis: "2269 elementów, 45 cm i funkcja Batmissile prosto z filmu Burtona. Nowy Batmobil debiutuje 1 września — tuż przed Batman Day. Porównujemy całą linię Batmobili LEGO."
 data: "2026-08-19"
-kategoria: "Premiera"
+kategoria: "Premiery"
 ---
 
 LEGO oficjalnie pokazało zestaw, na który fani Tima Burtona czekali od lat: **76355 Batmobil z filmu „Powrót Batmana"** — 2269 elementów, 45 cm długości i cena katalogowa **899,99 zł** (0,40 zł za klocek). Sprzedaż rusza **1 września dla członków LEGO Insiders i 4 września dla wszystkich**, na początek wyłącznie na LEGO.com. A że **19 września wypada Batman Day**, wrzesień zapowiada się na najbardziej gotycki miesiąc tego klockowego roku — poniżej przegląd całej aktualnej linii Batmobili, od modelu za 82 zł po kolosy z górnej półki.

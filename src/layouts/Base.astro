@@ -8,15 +8,17 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
 
 // Menu główne w jednym miejscu — stąd bierze się też zaznaczenie bieżącej
 // sekcji. Bez tego użytkownik na podstronie nie wie, gdzie w serwisie jest.
+// Sześć pozycji — menu ma prowadzić do działów, nie do pojedynczych tekstów.
+// Kalendarz i Zapowiedzi zeszły z menu 27.08.2026: to artykuły, więc mieszkają
+// teraz w /artykuly/ (kategorie „Kalendarze" i „Premiery") i wchodzi się do nich
+// stamtąd. Kolekcjoner zszedł, bo dział był pusty — strona zostaje pod adresem,
+// żeby nie psuć linków, ale nie zajmuje miejsca w nawigacji.
 const MENU = [
   { href: '/', etykieta: '🔥 Promocje dziś', klasa: 'nav--hot' },
-  { href: '/kalendarz-promocji-lego/', etykieta: 'Kalendarz' },
   { href: '/nowosci/', etykieta: 'Nowości' },
-  { href: '/zapowiedzi-lego-2027/', etykieta: 'Zapowiedzi' },
   { href: '/wycofania/', etykieta: 'Wycofania' },
   { href: '/serie/', etykieta: 'Serie' },
   { href: '/prezentowniki/', etykieta: 'Prezentowniki' },
-  { href: '/kolekcjoner/', etykieta: 'Kolekcjoner' },
   { href: '/artykuly/', etykieta: 'Artykuły' },
 ];
 // „/" tylko dla samej strony głównej; pozostałe pozycje świecą także na swoich

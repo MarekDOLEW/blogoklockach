@@ -1,17 +1,20 @@
 ---
 // Przyciski filtrujące listę artykułów po kategorii.
 //
-// Kategorie wyliczają się z faktycznych artykułów, a nie z ręcznej listy —
-// nowa kategoria w frontmatterze pojawia się tutaj sama. Przy każdej stoi
-// licznik, żeby czytelnik wiedział, czy warto klikać.
+// Lista kategorii jest STAŁA — bierze się z src/data/kategorie_artykulow.json,
+// w ustalonej kolejności. Kategoria bez artykułów też ma przycisk (wyszarzony,
+// nieklikalny): czytelnik od razu widzi, jakie działy prowadzimy, a redakcja —
+// gdzie są dziury do zapełnienia.
 //
 // Filtruje kartę oznaczoną `data-kategoria` (ZajawkaArtykulu.astro) wewnątrz
 // kontenera wskazanego przez `cel`. Cała lista jest w HTML — skrypt wyłącznie
-// ukrywa pozycje, więc bez JS-a strona pokazuje po prostu wszystko, a Google
-// widzi komplet artykułów.
+// ukrywa pozycje, więc bez JS-a strona pokazuje wszystko, a Google widzi
+// komplet artykułów.
 //
-// Wybór trafia do adresu (?kategoria=Recenzja), więc filtr da się podlinkować
+// Wybór trafia do adresu (?kategoria=Recenzje), więc filtr da się podlinkować
 // i przetrwa odświeżenie strony oraz przycisk „wstecz".
+
+import rejestr from '../data/kategorie_artykulow.json';
 
 const { zajawki, cel = '.zajawki' } = Astro.props;
 
@@ -20,22 +23,35 @@ for (const z of zajawki) {
   const g = z.grupa ?? z.kategoria;
   if (g) licznik.set(g, (licznik.get(g) ?? 0) + 1);
 }
-// najliczniejsze kategorie pierwsze; przy remisie alfabetycznie
-const kategorie = [...licznik.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'pl'));
+const kategorie = rejestr.kategorie.map((k) => ({ ...k, ile: licznik.get(k.nazwa) ?? 0 }));
+
+// Kategoria spoza rejestru to błąd redakcyjny — lepiej, żeby było widać go na
+// stronie niż żeby artykuł zniknął z każdego filtra.
+const nieznane = [...licznik.keys()].filter((n) => !rejestr.kategorie.some((k) => k.nazwa === n));
 ---
 
-{kategorie.length > 1 && (
-  <div class="filtr-kat" data-filtr-kategorii data-cel={cel} role="group" aria-label="Filtruj artykuły według kategorii">
-    <button type="button" class="fk-btn fk-btn--aktywny" data-kat="" aria-pressed="true">
-      Wszystkie <span class="fk-licz">{zajawki.length}</span>
+<div class="filtr-kat" data-filtr-kategorii data-cel={cel} role="group" aria-label="Filtruj artykuły według kategorii">
+  <button type="button" class="fk-btn fk-btn--aktywny" data-kat="" aria-pressed="true">
+    Wszystkie <span class="fk-licz">{zajawki.length}</span>
+  </button>
+  {kategorie.map((k) => (
+    <button
+      type="button"
+      class:list={['fk-btn', { 'fk-btn--pusta': k.ile === 0 }]}
+      data-kat={k.nazwa}
+      aria-pressed="false"
+      disabled={k.ile === 0}
+      title={k.ile === 0 ? `${k.opis} — brak artykułów` : k.opis}
+    >
+      {k.nazwa} <span class="fk-licz">{k.ile}</span>
     </button>
-    {kategorie.map(([nazwa, ile]) => (
-      <button type="button" class="fk-btn" data-kat={nazwa} aria-pressed="false">
-        {nazwa} <span class="fk-licz">{ile}</span>
-      </button>
-    ))}
-  </div>
-)}
+  ))}
+  {nieznane.map((n) => (
+    <button type="button" class="fk-btn" data-kat={n} aria-pressed="false">
+      {n} <span class="fk-licz">{licznik.get(n)}</span>
+    </button>
+  ))}
+</div>
 
 <script>
   for (const pasek of document.querySelectorAll('[data-filtr-kategorii]')) {
@@ -44,9 +60,6 @@ const kategorie = [...licznik.entries()].sort((a, b) => b[1] - a[1] || a[0].loca
     const przyciski = [...pasek.querySelectorAll('.fk-btn')];
     const karty = [...lista.querySelectorAll('[data-kategoria]')];
 
-    // Komunikat na wypadek pustego wyniku. Filtr liczy się z widocznych kart,
-    // więc pusty stan nie powinien wystąpić — ale gdyby adres przyszedł
-    // z nieistniejącą kategorią, czytelnik nie zostaje z pustą stroną.
     const pusto = document.createElement('p');
     pusto.className = 'fk-pusto';
     pusto.hidden = true;
@@ -76,12 +89,11 @@ const kategorie = [...licznik.entries()].sort((a, b) => b[1] - a[1] || a[0].loca
 
     pasek.addEventListener('click', (e) => {
       const btn = e.target.closest('.fk-btn');
-      if (btn) zastosuj(btn.dataset.kat || '');
+      if (btn && !btn.disabled) zastosuj(btn.dataset.kat || '');
     });
 
-    // stan początkowy z adresu — pozwala podlinkować konkretną kategorię
     const zAdresu = new URLSearchParams(location.search).get('kategoria');
-    if (zAdresu && przyciski.some((b) => b.dataset.kat === zAdresu)) {
+    if (zAdresu && przyciski.some((b) => b.dataset.kat === zAdresu && !b.disabled)) {
       zastosuj(zAdresu, { doAdresu: false });
     }
   }

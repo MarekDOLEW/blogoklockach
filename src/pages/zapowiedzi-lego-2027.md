@@ -4,7 +4,7 @@ title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
 opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC i Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
 data: "2026-08-20"
 zaktualizowano: "2026-08-26"
-kategoria: "Zapowiedzi"
+kategoria: "Premiery"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
     a: "Nie. Na sierpień 2026 żaden zestaw z 2027 roku nie został oficjalnie ogłoszony przez Grupę LEGO. Wszystko, co opisujemy, to przecieki z sieci dystrybucji i katalogów — numery, liczby elementów i ceny mogą się jeszcze zmienić, a część zestawów może nigdy nie trafić do sprzedaży. Oznaczamy to przy każdej pozycji."
@@ -179,5 +179,9 @@ Tu nie mamy przecieku, mamy wzorzec: Icons wypuszcza co roku jeden–dwa duże m
 1. **Nie kupuj pod przecieki.** Do oficjalnego ogłoszenia (listopad–grudzień 2026) wszystko może się zmienić — łącznie z tym, czy zestaw w ogóle powstanie.
 2. **Kupuj to, co znika.** Terminy wycofań są znacznie pewniejsze niż terminy premier. Pełną listę prowadzimy w dziale [Wycofania 2026](/wycofania/).
 3. **Planuj zakupy pod okna promocyjne.** Duże zestawy kolekcjonerskie najtaniej wychodzą w Black Friday i przy gratisach GWP — terminy zebraliśmy w [kalendarzu promocji](/kalendarz-promocji-lego/).
+
+---
+
+*Zobacz też: [kalendarz promocji LEGO](/kalendarz-promocji-lego/) · [fala LEGO City z czerwca 2026](/artykuly/lego-city-czerwiec-2026-fala/) · [nowości w sprzedaży](/nowosci/) · [wszystkie artykuły](/artykuly/)*
 
 <p class="drobne">Zapowiedzi 2027 aktualizujemy w miarę potwierdzania kolejnych zestawów — datę ostatniej aktualizacji widzisz nad tytułem. Ceny i liczby elementów oznaczone jako przeciek pochodzą z nieoficjalnych źródeł branżowych i nie są potwierdzone przez Grupę LEGO. Ceny katalogowe podajemy za oficjalnym sklepem LEGO; ceny rynkowe sprawdzasz w tabelach na podstronach zestawów.</p>

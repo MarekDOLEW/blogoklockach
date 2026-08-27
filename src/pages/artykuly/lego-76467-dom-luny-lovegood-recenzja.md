@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO 76467 Dom Luny Lovegood — wreszcie coś innego niż kolejny kawałek Hogwartu"
 opis: "Pierwszy oficjalny Dom Lovegoodów: 764 elementy, 5 minifigurek z debiutującym Ksenofiliusem i projektor Opowieści o Trzech Braciach. Recenzja + progi cenowe: przy 299 zł to bardzo dobra oferta."
 data: "2026-08-20"
-kategoria: "Recenzja"
+kategoria: "Recenzje"
 faq:
   - q: "Ile kosztuje LEGO 76467 Dom Luny Lovegood?"
     a: "Cena katalogowa to 419,99 zł, ale w sklepach internetowych zestaw bywa już w okolicach 299 zł (−29%). Naszym zdaniem dobry próg zakupu to 315–320 zł, a oferty poniżej 300 zł można traktować jako bardzo dobre."
@@ -138,4 +138,4 @@ Dla dziecka najważniejsze będzie jednak coś innego: zamiast następnej klasy 
 
 ---
 
-*Zobacz też: [wszystkie zestawy Harry Potter z aktualnymi cenami](/serie/harry-potter/) · [kalendarz promocji — okno Back to Hogwarts 29.08–06.09](/kalendarz-promocji-lego/) · [prezentowniki na rozpoczęcie roku szkolnego](/prezentowniki/)*
+*Zobacz też: [prezentownik LEGO Harry Potter](/prezentowniki/lego-harry-potter/) · [LEGO na rozpoczęcie roku szkolnego](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) · [wszystkie zestawy Harry Potter z aktualnymi cenami](/serie/harry-potter/) · [kalendarz promocji — okno Back to Hogwarts 29.08–06.09](/kalendarz-promocji-lego/)*

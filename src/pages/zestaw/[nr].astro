@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
+import Okruszki from '../../components/Okruszki.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { zdjecieSetu, opisSetu } from '../../lib/media.js';
@@ -86,6 +87,25 @@ const jsonld = {
     : {}),
 };
 
+// Tagi zestawu: krótkie etykiety z danych, które i tak pokazujemy niżej.
+// Mają pomóc czytelnikowi ocenić zestaw jednym rzutem oka („18+", „duży
+// zestaw"), a nie mnożyć bytów — dlatego wyliczamy je, zamiast wpisywać ręcznie.
+const tagi = [
+  s?.wiek === '18+' || kat?.wiek === '18+' ? 'Dla dorosłych' : null,
+  elementy && elementy >= 2000 ? 'Duży zestaw' : null,
+  elementy && elementy <= 300 ? 'Mały zestaw' : null,
+  cenaKatalogowa && cenaKatalogowa <= 100 ? 'Do 100 zł' : null,
+  wycofanie && wycofanie.kiedy !== 'wycofany' ? 'Znika z rynku' : null,
+].filter(Boolean);
+
+// Okruszki widoczne — ta sama ścieżka co w danych strukturalnych powyżej,
+// żeby to, co widzi czytelnik, i to, co czyta Google, nigdy się nie rozjechało.
+const sciezkaOkruszkow = [
+  { nazwa: 'Start', href: '/' },
+  ...(seria ? [{ nazwa: `LEGO ${seria}`, href: sciezkaSerii }] : []),
+  { nazwa: `LEGO ${nr}` },
+];
+
 // tytuł zwięzły — Google obcina ~60 znaków, sufiks domeny dokłada Base
 const tytul = najlepsza
   ? `LEGO ${nr} ${nazwa} — cena i promocje`
@@ -95,6 +115,7 @@ const opisMeta = najlepsza
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
 <Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki]} ogImage={foto?.url ?? undefined}>
+  <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
       <div>
@@ -112,11 +133,12 @@ const opisMeta = najlepsza
         {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>
       <div>
-        <p style="margin-top:0">
-          {seria && <span class="badge-seria">{seria}</span>}
+        <p style="margin-top:0" class="set-plakietki">
+          {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
           {wkrotce && <span class="badge-wkrotce">wkrótce — zapowiedź</span>}
           {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && <span class="badge-seria">wycofany (EOL)</span>}
+          {tagi.map((t) => <span class="badge-tag">{t}</span>)}
         </p>
         <h1>LEGO {nr} {nazwa}</h1>
         <div class="deal-meta" style="margin-bottom: 8px">
@@ -155,7 +177,7 @@ const opisMeta = najlepsza
     ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
       <>
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
-        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
+        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy — wiążąca jest zawsze cena w koszyku sklepu.</p>
       </>
     ) : (
       <p class="karta" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' — po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>

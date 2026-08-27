@@ -329,6 +329,26 @@ Dzięki temu artykuł nie zawiera ani jednej ręcznie wpisanej ceny sklepowej, k
 
 **Cena katalogowa w tekście musi zgadzać się z danymi serwisu**, bo z tego samego źródła bierze ją generowana tabela — inaczej na jednej stronie stoją dwie różne kwoty. Przy rozbieżności rozstrzyga polski cennik LEGO, nie przeliczenie ceny w euro. Kontrola: `node scripts/kontrola-rrp.mjs`.
 
+### 18.2. Kategorie i nazewnictwo artykułów
+
+Obowiązuje od 27.08.2026. Dział `/artykuly/` ma **siedem stałych kategorii**,
+w tej kolejności: **Premiery, Recenzje, Rankingi, Porównania, Poradniki,
+Kalendarze, Historyczne**. Lista mieszka w `src/data/kategorie_artykulow.json`
+i jest zamknięta — nowy tekst wpada do jednej z nich, nie tworzymy kategorii
+pod pojedynczy artykuł. Kategorie bez tekstów też mają przycisk na filtrze:
+czytelnik widzi zakres serwisu, redakcja widzi dziury.
+
+**Tytuł roboczy i nazwa pliku zaczynają się od kategorii** — po samej nazwie ma
+być widać, gdzie tekst trafia: „Recenzja LEGO 71858…", „Ranking zestawów
+Technic do 300 zł", „Porównanie 60506 i 60511".
+
+**Prezentownik nie jest kategorią artykułu.** Ma własny dział `/prezentowniki/`
+i nie pojawia się na liście artykułów. Docelowa liczba zestawów w prezentowniku
+serii to **osiem** — galeria układa się po cztery w rzędzie, więc osiem daje dwa
+równe rzędy (wzorzec: `redakcja/wzorce/prezentownik-serii.md`).
+
+Gotowe szkielety: `redakcja/wzorce/`.
+
 ## 19. Próg zakupu
 
 Jeżeli dane na to pozwalają, artykuł powinien wskazywać orientacyjny poziom ceny, przy którym zestaw staje się atrakcyjnym zakupem. Próg nie może być ustalany mechanicznie jako stały procent RRP.

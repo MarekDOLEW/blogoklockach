@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "opis": "Stala lista kategorii dzialu /artykuly/ w kolejnosci wyswietlania. Pasek filtra pokazuje wszystkie, takze puste — czytelnik ma od razu widziec, czego szukac, a redakcja: gdzie sa dziury.",
+    "zasada": "Kategoria artykulu (frontmatter `kategoria`) musi byc jedna z tych nazw. Prezentowniki NIE sa kategoria artykulu — maja wlasny dzial /prezentowniki/.",
+    "nazewnictwo": "Nowy artykul nazywamy od kategorii: 'Recenzja LEGO 71858 ...', 'Ranking ...' — po nazwie widac, gdzie tekst trafia.",
+    "zaktualizowano": "2026-08-27"
+  },
+  "kategorie": [
+    { "nazwa": "Premiery",    "opis": "Nowe zestawy i całe fale premierowe — co wchodzi do sprzedaży i czy warto." },
+    { "nazwa": "Recenzje",    "opis": "Pojedynczy zestaw od środka: budowanie, gotowy model, próg zakupu." },
+    { "nazwa": "Rankingi",    "opis": "Zestawienia od najlepszego — w obrębie serii, budżetu albo tematu." },
+    { "nazwa": "Porównania",  "opis": "Dwa lub kilka zestawów obok siebie: który dla kogo." },
+    { "nazwa": "Poradniki",   "opis": "Jak kupować, na co uważać, jak czytać ceny i promocje." },
+    { "nazwa": "Kalendarze",  "opis": "Terminy: okna promocyjne, premiery, wycofania." },
+    { "nazwa": "Historyczne", "opis": "Archiwalne serie i zestawy — co się zmieniło i ile są dziś warte." }
+  ]
+}

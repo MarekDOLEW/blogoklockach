@@ -76,6 +76,13 @@ Ustalenia integracyjne:
 
 ## Decyzje projektowe (log)
 
+- 2026-08-27 (Marek): **porządki w menu i artykułach.** Menu schodzi do sześciu
+  pozycji (Promocje dziś, Nowości, Wycofania, Serie, Prezentowniki, Artykuły).
+  Kalendarz i Zapowiedzi to artykuły — mieszkają w `/artykuly/` w kategoriach
+  „Kalendarze" i „Premiery". Kolekcjoner zszedł z menu (dział pusty), strona
+  zostaje pod adresem. Artykuły mają siedem stałych kategorii, prezentowniki
+  wychodzą z `/artykuly/` do własnego działu. Szczegóły: Standard §18.2.
+
 - 2026-08-25 (Marek): **cena katalogowa nie wymaga ponownego sprawdzania** — raz
   dobrze wprowadzona zostaje na zawsze. Wdrożone jako `src/data/rrp_potwierdzone.json`
   (rejestr write-once o najwyższym pierwszeństwie) + `scripts/wczytaj-rrp.mjs`.

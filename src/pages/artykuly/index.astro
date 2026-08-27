@@ -2,29 +2,22 @@
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import FiltrKategorii from '../../components/FiltrKategorii.astro';
-import { zajawkiArtykulow, zajawkaZMeta } from '../../lib/artykuly.js';
-// Wszystkie artykuły serwisu, niezależnie od katalogu: recenzje i deale
-// leżą w ./, prezentowniki w ../prezentowniki/, a kalendarz i zapowiedzi
-// bezpośrednio w src/pages/. Każdy plik .md w src/pages jest artykułem.
+import { zajawkiArtykulow } from '../../lib/artykuly.js';
+// Artykuły leżą w ./ oraz — jak kalendarz i zapowiedzi — bezpośrednio
+// w src/pages/. Każdy plik .md z polem `kategoria` jest artykułem.
+//
+// Prezentowniki mają od 27.08.2026 własny dział /prezentowniki/ i NIE wchodzą
+// na tę listę: to nie jest kategoria artykułu, tylko osobny format. Dlatego
+// nie zaciągamy tu ani ../prezentowniki/*.md, ani tamtejszych stron .astro.
 const posts = Object.entries({
   ...import.meta.glob('./*.md', { eager: true }),
-  ...import.meta.glob('../prezentowniki/*.md', { eager: true }),
   ...import.meta.glob('../*.md', { eager: true }),
 })
   .map(([, m]) => m)
-  // obecność kategorii = plik jest artykułem; chroni przed wciągnięciem
-  // dowolnego innego .md, który trafi do src/pages
-  .filter((m) => m.frontmatter?.kategoria)
+  .filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik')
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data));
-// Prezentowniki serii to strony .astro (patrz /prezentowniki/) — nie mają
-// frontmattera, więc dane karty biorą się z eksportowanego `meta`.
-const zAstro = Object.values(import.meta.glob('../prezentowniki/*.astro', { eager: true }))
-  .map((m) => m.meta)
-  .filter(Boolean)
-  .map(zajawkaZMeta);
-const zajawki = [...zAstro, ...zajawkiArtykulow(posts)].sort(
-  (a, b) => new Date(b.data) - new Date(a.data),
-);
+
+const zajawki = zajawkiArtykulow(posts);
 ---
 <Base title="Artykuły — poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
   <h1 style="margin-top:28px">Artykuły</h1>

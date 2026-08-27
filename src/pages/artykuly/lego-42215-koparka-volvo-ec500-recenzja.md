@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO Technic 42215 Koparka Volvo EC500 Hybrid — świetna do budowania, dużo mniej przekonująca w działaniu"
 opis: "2359 elementów, jeden silnik i rozbudowana skrzynia przekładniowa. Recenzja: dlaczego 42215 jest ciekawszy w trakcie budowania niż po nim — i przy jakiej cenie ma sens. Próg zakupu: ok. 1150 zł."
 data: "2026-08-25"
-kategoria: "Recenzja"
+kategoria: "Recenzje"
 okladka: "42215"
 faq:
   - q: "Czy LEGO 42215 ma sterowanie aplikacją albo pilotem?"
@@ -141,4 +141,4 @@ Rekomendacja: **KUP W DOBREJ PROMOCJI**.
 
 ---
 
-*Zobacz też: [wszystkie zestawy Technic z aktualnymi cenami](/serie/technic/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/) · [strefa kolekcjonera](/kolekcjoner/)*
+*Zobacz też: [prezentownik LEGO Technic — co kupić i za ile](/prezentowniki/lego-technic/) · [recenzja NINJAGO 71858 — inny duży zestaw dla dorosłego fana](/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/) · [wszystkie zestawy Technic z aktualnymi cenami](/serie/technic/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

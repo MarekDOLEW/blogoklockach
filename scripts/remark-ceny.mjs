@@ -146,7 +146,8 @@ function tabela(nr) {
   const stopka =
     (rrp ? `* Rabat liczony od ceny katalogowej LEGO (${fmt(rrp)}). ` : '') +
     'Tabela odświeża się razem z cenami w serwisie. Sklepy prowadzą też własne promocje i kody rabatowe, ' +
-    'których nie widać w cennikach — cena w sklepie może się różnić od podanej, zwykle na Twoją korzyść.';
+    'których nie widać w cennikach, i zmieniają ceny także w ciągu dnia — kwota powyżej jest ostatnią, ' +
+    'jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.';
 
   return (
     '<div class="karta karta--ceny">' +

@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO Icons 11381 Jaguar E-Type — piękny klasyk, którego najlepiej nie oglądać tylko z przodu"
 opis: "1673 elementy, ciemnozielone nadwozie i historia konkretnego auta 77 RW z Genewy 1961. Recenzja Jaguara E-Type z serii Icons + progi cenowe: 439 zł zamiast 599,99 zł już teraz."
 data: "2026-08-20"
-kategoria: "Recenzja"
+kategoria: "Recenzje"
 faq:
   - q: "Ile kosztuje LEGO 11381 Jaguar E-Type?"
     a: "Cena katalogowa to 599,99 zł, ale już krótko po premierze zestaw kosztował w dużych sklepach 439 zł (−27%). Naszym zdaniem praktyczny próg zakupu to około 440 zł, a oferty w okolicach 420 zł są naprawdę atrakcyjne."
@@ -151,4 +151,4 @@ Nie jest to idealna miniatura E-Type'a, ale jako połączenie ciekawego budowani
 
 ---
 
-*Zobacz też: [wszystkie zestawy Icons z aktualnymi cenami](/serie/icons/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/) · [nowości LEGO](/nowosci/)*
+*Zobacz też: [prezentownik LEGO Icons](/prezentowniki/lego-icons/) · [recenzja Technic 42215 — mechanika zamiast gładkiej karoserii](/artykuly/lego-42215-koparka-volvo-ec500-recenzja/) · [wszystkie zestawy Icons z aktualnymi cenami](/serie/icons/) · [nowości LEGO](/nowosci/)*

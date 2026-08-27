@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO City — nowa fala z czerwca 2026. Który zestaw warto wybrać?"
 opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Przewodnik po całej fali — dla kogo który zestaw, progi zakupu i gdzie rynek już mocno zszedł poniżej RRP."
 data: "2026-08-25"
-kategoria: "Premiera"
+kategoria: "Premiery"
 tagi: ["Dla rodziców"]
 okladka: "60506"
 faq:
@@ -169,4 +169,4 @@ Najważniejszy wniosek jest więc prosty: **tej fali nie warto kupować według 
 
 ---
 
-*Zobacz też: [wszystkie zestawy City z aktualnymi cenami](/serie/city/) · [prezentowniki LEGO](/prezentowniki/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*
+*Zobacz też: [prezentownik LEGO City](/prezentowniki/lego-city/) · [LEGO za ok. 200 zł dla 10-latka — tam też są 60497 i 60506](/prezentowniki/lego-za-200-zl-dla-10-latka/) · [wszystkie zestawy City z aktualnymi cenami](/serie/city/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

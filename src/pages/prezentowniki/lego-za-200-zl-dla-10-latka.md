@@ -211,4 +211,4 @@ Jeżeli zainteresowania dziecka znamy lepiej, warto po prostu wrócić do wcześ
 
 ---
 
-*Zobacz też: [pozostałe prezentowniki](/prezentowniki/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/) · [nowości LEGO](/nowosci/)*
+*Zobacz też: [recenzja Creator 31168 — ten sam mechanizm 3 w 1, większe pudełko](/artykuly/lego-31168-sredniowieczny-zamek-recenzja/) · [fala LEGO City z czerwca 2026 — tam 60497 i 60506 z osobna](/artykuly/lego-city-czerwiec-2026-fala/) · [pozostałe prezentowniki](/prezentowniki/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

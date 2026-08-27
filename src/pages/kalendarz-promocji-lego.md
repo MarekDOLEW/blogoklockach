@@ -4,7 +4,7 @@ title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
 zaktualizowano: "2026-08-24"
-kategoria: "Kalendarz"
+kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
     a: "Najgłębsze rabaty wypadają między końcem października a Cyber Monday (w 2026: 30 listopada). Drugi dobry moment to okna z gratisami GWP na LEGO.com — kupując w sklepach zewnętrznych, najlepsze ceny trafiają się niezależnie od kalendarza, dlatego warto porównywać je na bieżąco."
@@ -108,5 +108,9 @@ Do ok. 18–19.12 sklepy gwarantują dostawę przed Wigilią — po tej dacie zo
 1. **Gratisy GWP planuj pod większe zakupy** — próg 525–750 zł łatwo przekroczyć jednym średnim zestawem, zamiast dopychać koszyk drobnicą.
 2. **Poza oknami GWP porównuj sklepy** — najniższa cena w Media Expert, Empik, al.to, na Amazonie czy Allegro potrafi bić rabaty LEGO.com nawet w szczycie promocji. Tabele cen znajdziesz na podstronie każdego zestawu — wejście przez [strony serii](/serie/) albo wyszukiwarkę na [stronie głównej](/).
 3. **Wycofania kupuj przed grudniem** — to jedyna kategoria, w której czekanie na Black Friday może oznaczać brak towaru zamiast rabatu.
+
+---
+
+*Zobacz też: [premiery LEGO 2027 — co już wiadomo](/zapowiedzi-lego-2027/) · [nowości w sprzedaży](/nowosci/) · [lista wycofań z terminami](/wycofania/) · [wszystkie artykuły](/artykuly/)*
 
 <p class="drobne">Kalendarz aktualizujemy na bieżąco. Pozycje „przewidywane" opierają się na powtarzalnym wzorcu promocji LEGO z lat 2023–2025 i mogą ulec zmianie — nie podajemy „przecieków" jako faktów.</p>
