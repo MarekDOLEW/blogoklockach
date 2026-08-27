@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-08-24"
+zaktualizowano: "2026-08-27"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -28,7 +28,7 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | 29.08–06.09 | Back to Hogwarts: podwójne GWP Harry Potter | <span class="status status--ok">potwierdzone</span> |
 | **1.09** | Rozpoczęcie roku szkolnego — prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
 | ok. 17–27.09 | Batman Day (19.09): GWP + punkty Insiders | <span class="status status--maybe">przewidywane</span> |
-| początek X | Premiera UCS Star Wars z GWP | <span class="status status--maybe">przewidywane</span> |
+| **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
 | ok. 20.11–30.11 | Black Friday (27.11) i Cyber Monday (30.11) | <span class="status status--maybe">przewidywane</span> |
 | XII | Promocje świąteczne + ostatnia szansa na [wycofywane zestawy](/wycofania/) | <span class="status status--maybe">przewidywane</span> |
 
@@ -80,9 +80,28 @@ Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: pr
 
 Batman Day to trzecia sobota września. W poprzednich latach LEGO otwierało wokół tej daty okno (ok. 17–27.09) z gratisem batmanowym i podwójnymi/potrójnymi punktami Insiders za zakupy z serii [Batman](/serie/batman/). Szczegółów na 2026 jeszcze nie ogłoszono — uzupełnimy, gdy tylko się pojawią.
 
-## Październik: UCS Star Wars i Halloween <span class="status status--maybe">przewidywane</span>
+## Październik: Executor UCS (1.10 i 4.10) <span class="status status--ok">potwierdzone</span>
 
-Początek października to od lat termin premiery dużego zestawu UCS [Star Wars](/serie/star-wars/) — zwykle z ekskluzywnym GWP w pierwszych dniach (ok. 1–11.10). W drugiej połowie miesiąca spodziewamy się sezonowego gratisu halloweenowego. Jeśli celujesz w duży zestaw SW, nie kupuj go we wrześniu — poczekaj na okno premierowe. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
+Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku października" — teraz jest już konkret i jest większy, niż się spodziewaliśmy.
+
+**LEGO 75457 Executor — supergwiezdny niszczyciel**: 6130 elementów, siedem minifigurek, model o długości **136 cm**. To najdłuższy zestaw, jaki LEGO kiedykolwiek wydało — dłuższy od Titanica (135 cm). Cena katalogowa poza Polską to 749,99 EUR; polskiej kwoty jeszcze nie ogłoszono, więc jej nie podajemy i nie liczymy z niej żadnego rabatu.
+
+**Dwie daty, nie jedna — i to jest najważniejszy szczegół zakupowy tego okna:**
+
+| Data | Kto może kupić |
+|---|---|
+| **1 października** | przedsprzedaż wyłącznie dla członków Insiders |
+| **4 października** | sprzedaż otwarta dla wszystkich |
+
+| Gratis (GWP) | Warunek | Uwaga |
+|---|---|---|
+| 40897 Świetlny miecz Dartha Vadera | zakup [75457](/zestaw/75457/) | dodawany automatycznie, do wyczerpania zapasów |
+
+**Co z tego wynika praktycznie.** Gratis idzie do wyczerpania zapasów, a nie do końca okna — przy zestawie tej rangi trzy dni przewagi Insiders mają realne znaczenie. Jeśli celujesz w Executora z mieczem, **konto Insiders trzeba mieć założone przed 1 października**, nie w dniu premiery. Dochodzi do tego zmiana, którą LEGO wprowadziło w sierpniu: punkty Insiders schodzą z konta dopiero przy złożeniu zamówienia, a nie przy odbiorze nagrody. Nie ma więc powodu wydawać ich wcześniej „na zaś" — można spokojnie poczekać z decyzją do premiery.
+
+**Czy warto czekać z innymi zakupami Star Wars?** Nie na sam Executor — to zestaw z zupełnie innej półki cenowej i nie wpływa na resztę oferty. Ale okna premierowe UCS bywają w LEGO.com łączone z podwójnymi punktami na całą serię, więc jeśli i tak planujesz coś z [Gwiezdnych wojen](/prezentowniki/lego-star-wars/), pierwszy tydzień października jest dobrym momentem, żeby sprawdzić warunki.
+
+W drugiej połowie miesiąca spodziewamy się jeszcze sezonowego gratisu halloweenowego <span class="status status--maybe">przewidywane</span>. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
 
 ## Listopad: Black Friday 27.11 — tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span>
 

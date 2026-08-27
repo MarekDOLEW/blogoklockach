@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-26",
-    "przebieg": "scheduled 2026-08-26 08:00",
+    "ostatnia_aktualizacja": "2026-08-27",
+    "przebieg": "scheduled 2026-08-27 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 83,
+    "liczba_wpisow": 91,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -999,6 +999,94 @@
         "lego.com"
       ],
       "notatki": "Event w sklepach stacjonarnych wokol 40975 Minizamek Hogwart (mamy go w katalogu, RRP 169,99). Do rozwazenia przy aktualizacji kalendarza promocji, jesli okaze sie, ze wiaze sie z gratisem online."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2026: Star Wars",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-star-wars/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Trzecia zbieznosc tego dnia — faniklockow opublikowali ten sam temat o 13:07, fanklockow o 13:26. Temat goracy, bo LEGO ujawnilo 75457 Executor UCS. TU MAMY PRZEWAGE: nasz Scout ma komplet danych (6130 elementow, 136 cm, premiera), a my dodatkowo mieliśmy te premiere PRZEWIDZIANA w kalendarzu promocji ('poczatek X to od lat termin premiery duzego UCS z GWP'). Do zrobienia: zamienic prognoze na konkret z numerem, data i gratisem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii Star Wars na 2026 rok",
+      "url": "https://faniklockow.pl/2026/08/26/zapowiedzi-serii-star-wars-na-2026-rok/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow, dziewietnascie minut wczesniej. Odnotowujemy wylacznie jako drugi punkt zbieznosci."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Super Mario",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-super-mario/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "CZWARTA DZIURA w /zapowiedzi-lego-2027 (po HP, DC i Marvelu). Tym razem swiadomie jej NIE lataMY: Super Mario to u nas jeden sledzony zestaw, wiec blok 'skompletuj kolekcje' nie mialby z czego linkowac, a sekcja bez niego jest samym przepisaniem przecieku. Do rozwazenia dopiero po uzupelnieniu danych serii. Nasz Scout ma juz styczniowa fale 2027 z numerami i cenami."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Super Mario na 2027 rok",
+      "url": "https://faniklockow.pl/2026/08/26/zapowiedzi-serii-lego-super-mario-na-2027-rok/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Trzecia zbieznosc tego samego dnia (obok Star Wars i Skylines). Marker tematu goracego dziala juz trzeci dzien z rzedu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2026: okolicznosciowe i specjalne",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-okolicznosciowe-specjalne/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zestawy okolicznosciowe i GWP na koncowke roku — to jest material bezposrednio do naszego kalendarza promocji, a nie do osobnego artykulu. Ich format to lista zapowiedzi; nasz to kalendarz z datami, progami i ocena, czy warto czekac. Do zrobienia: przejrzec pod katem okien promocyjnych XI-XII i uzupelnic kalendarz tam, gdzie mamy potwierdzenie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Skylines zapowiedziane",
+      "url": "https://faniklockow.pl/2026/08/26/lego-skylines-zapowiedziane-zbudujemy-wlasne-miasto-z-klockow/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Drugi blog podchwycil temat Skylines dzien po fanklockow. Nadal produkt cyfrowy, nie zestaw — poza nasza persona zakupowa i poza asortymentem sklepow rozliczanych afiliacyjnie."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zaproszenie: unboxing minifigurek Shrek LIVE",
+      "url": "https://fanklockow.pl/zaproszenie-unboxing-i-omowienie-minifigurek-seria-shrek-live/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Format, ktorego u nas nie ma i nie planujemy: transmisja na zywo z rozpakowywaniem. Odnotowujemy jako kierunek — fanklockow budują obecnosc wideo obok tekstu. Dla nas to potwierdzenie podzialu rol, a nie luka do nadrobienia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi COBI 2026: Armed Forces",
+      "url": "https://fanklockow.pl/zapowiedzi-cobi-2026-armed-forces/",
+      "data_publikacji": "2026-08-26",
+      "data_wykrycia": "2026-08-27",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Trzecia linia COBI w ciagu tygodnia. Marki spoza LEGO stanowia juz staly element ich kadencji."
     }
   ],
   "obserwacje_strategiczne": {
@@ -1009,7 +1097,7 @@
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
     "KOREKTA_2026-08-20_brak_wyroznika": "SPROSTOWANIE tezy powtarzanej od 16.08 ('zaden serwis nie porownuje cen miedzy sklepami ani nie podaje ceny za klocek'). Teza byla FALSZYWA i wpisano ja bledna do architektury SEO oraz raportow. Stan faktyczny na 20.08: (1) porownanie cen miedzy sklepami maja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepow) - to ich podstawowa funkcja; (2) cene za element ma promoklocki (sortowanie 'cena/el.'); (3) historie cen maja promoklocki i klockoradar; (4) alerty cenowe maja zklockow, promoklocki (aplikacja) i klockoradar; (5) afiliacje wielosklepowa ma faniklockow (5 sklepow), a fanklockow prowadzi wlasny sklep i regularne zestawienia ofert. WNIOSEK: na 20.08.2026 tylkoklocki.pl NIE MA zadnej funkcji ani formatu, ktorego nie ma juz ktos inny - mamy 9 artykulow wobec 3-6 publikacji dziennie u blogow i mniej zrodel cenowych niz porownywarki. Kazda przyszla teza o przewadze musi byc zweryfikowana na zywym serwisie konkurencji PRZED wpisaniem jej do dokumentow.",
     "faniklockow_wzorzec_okazji": "2026-08-22: 'Okazja Cenowa' to nie pojedyncze wpisy, tylko farma long-taila - na kazda kolejna przecene tego samego zestawu powstaje NOWY post (sufiksy -2, -3, -4, -6 w URL: Concorde 10318 i Rivendell 10316 maja po szesc). Ten sam wzorzec zastosowali do listy wycofan (nowy URL z data 19.08 zamiast aktualizacji wpisu z 11.08). Skutek u nich: kanibalizacja wlasnych adresow i tresci bez wartosci trwalej. Nasz kontrargument strukturalny: jeden hub /zestaw/<nr>/ z samoaktualizujaca sie tabela cen - kazda kolejna przecena wzmacnia ten sam URL zamiast go rozcienczac. Warto to utrzymac jako swiadoma roznice, nie kopiowac ich kadencji. | 2026-08-25: pierwszy raz zweryfikowalismy ich 'Okazje Cenowe' na wlasnych danych — paczka 10 wpisow z 24.08 ma mediane przeceny 14% ponizej katalogu, a realnymi okazjami sa tylko dwie pozycje. Reszta to normalny poziom rynkowy podany jako promocja. To najmocniejszy dotad argument, ze ich kadencji nie warto gonic: przewage budujemy progiem zakupu, nie liczba wpisow. | 2026-08-26: potwierdzenie na drugiej probie. 10372 Hibiskus oglosili jako okazje przy 2% ponizej katalogu, a 75394 wrocil drugi dzien z rzedu pod kolejnym sufiksem. Ich 'Okazja Cenowa' nie jest progiem cenowym, tylko etykieta na dowolna cene ponizej katalogowej.",
-    "zbieznosc_tematow": "2026-08-23: pierwszy zaobserwowany przypadek, w ktorym fanklockow i faniklockow publikuja o TYM SAMYM tego samego dnia (zmiana zasad nagrod Insiders, 22.08 o 07:13 i 11:05). Do tej pory ich agendy sie rozmijaly: fanklockow schodzi w marki spoza LEGO i zapowiedzi, faniklockow w okazje cenowe. Zbieznosc traktujemy jako marker tematu goracego - warto ja logowac przy kolejnych przebiegach, bo jest tansza w wykryciu niz jakikolwiek pomiar ruchu. | 2026-08-25: DWIE zbieznosci jednego dnia — wyniki finansowe LEGO oraz zapowiedzi Botanicals 2026. Marker dziala: temat, ktory lapia oba blogi naraz, jest goracy. Przy wynikach finansowych zbieznosc ujawnila tez roznice jakosci: fanklockow maja w tytule poprawne 'I. pol. 2026', faniklockow bledne 'pierwszy kwartal'.",
+    "zbieznosc_tematow": "2026-08-23: pierwszy zaobserwowany przypadek, w ktorym fanklockow i faniklockow publikuja o TYM SAMYM tego samego dnia (zmiana zasad nagrod Insiders, 22.08 o 07:13 i 11:05). Do tej pory ich agendy sie rozmijaly: fanklockow schodzi w marki spoza LEGO i zapowiedzi, faniklockow w okazje cenowe. Zbieznosc traktujemy jako marker tematu goracego - warto ja logowac przy kolejnych przebiegach, bo jest tansza w wykryciu niz jakikolwiek pomiar ruchu. | 2026-08-25: DWIE zbieznosci jednego dnia — wyniki finansowe LEGO oraz zapowiedzi Botanicals 2026. Marker dziala: temat, ktory lapia oba blogi naraz, jest goracy. Przy wynikach finansowych zbieznosc ujawnila tez roznice jakosci: fanklockow maja w tytule poprawne 'I. pol. 2026', faniklockow bledne 'pierwszy kwartal'. | 2026-08-26: TRZY zbieznosci jednego dnia (Star Wars 2026, Super Mario 2027, Skylines) — trzeci dzien z rzedu z co najmniej jedna. Marker mozna juz traktowac jako operacyjny: temat zlapany przez oba blogi w ciagu kilku godzin warto sprawdzic w naszych danych tego samego dnia.",
     "fanklockow_przedatowywanie": "2026-08-24: potwierdzona taktyka fanklockow - odswiezanie dat i przenoszenie tresci na czystsze URL-e zamiast pisania nowego. Dwa dowody tego samego dnia: kalendarz promocji przeniesiony z /2026/08/03/kalendarz-promocje-lego/ na /kalendarz-promocje-lego/ i przedatowany na 24.08; wpis 'Zapowiedzi COBI 2026: Action Town' przedatowany w RSS z 21.08 na 23.08 przy niezmienionym URL. Efekt: te same materialy cyklicznie wracaja do feedow przed sezonem. Nasz odpowiednik tej taktyki jest tanszy i uczciwszy: strony na danych (/wycofania, /zestaw/<nr>/, kalendarz) aktualizuja sie realnie, wiec wystarczy pilnowac, by data aktualizacji byla widoczna dla czytelnika i w danych strukturalnych."
   }
 }
