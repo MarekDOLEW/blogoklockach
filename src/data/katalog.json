@@ -30,9 +30,8 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-27",
-      "uzupelnione_lacznie": 2355,
+      "uzupelnione_lacznie": 2475,
       "ostatnie_serie": [
-        "Star Wars",
         "Technic"
       ]
     },
@@ -14419,838 +14418,958 @@
       "nazwa": "Cafe Racer",
       "rok": 1991,
       "elementy": 80,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8815",
       "nazwa": "Speedway Bandit",
       "rok": 1991,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8820",
       "nazwa": "Mountain Rambler",
       "rok": 1991,
       "elementy": 139,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8838",
       "nazwa": "Shock Cycle",
       "rok": 1991,
       "elementy": 251,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8856",
       "nazwa": "Whirlwind Rescue",
       "rok": 1991,
       "elementy": 517,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8826",
       "nazwa": "ATX Sport Cycle",
       "rok": 1992,
       "elementy": 95,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8828",
       "nazwa": "Front End Loader",
       "rok": 1992,
       "elementy": 175,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8836",
       "nazwa": "Sky Ranger",
       "rok": 1992,
       "elementy": 273,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8837",
       "nazwa": "Pneumatic Excavator",
       "rok": 1992,
       "elementy": 257,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8839",
       "nazwa": "Supply Ship",
       "rok": 1992,
       "elementy": 532,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8868",
       "nazwa": "Air Tech Claw Rig",
       "rok": 1992,
       "elementy": 954,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8022",
       "nazwa": "Multi Model Starter Set",
       "rok": 1993,
       "elementy": 118,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8042",
       "nazwa": "Multi Model Pneumatic Set",
       "rok": 1993,
       "elementy": 230,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8082",
       "nazwa": "Multi Model Control Set",
       "rok": 1993,
       "elementy": 459,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8714",
       "nazwa": "The LEGO Technic Guys",
       "rok": 1993,
       "elementy": 9,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8818",
       "nazwa": "Dune Buggy",
       "rok": 1993,
       "elementy": 120,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8824",
       "nazwa": "Hovercraft",
       "rok": 1993,
       "elementy": 194,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8857",
       "nazwa": "Street Chopper",
       "rok": 1993,
       "elementy": 409,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8872",
       "nazwa": "Forklift Transporter",
       "rok": 1993,
       "elementy": 763,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8032",
       "nazwa": "Multi Functional Starter Set",
       "rok": 1994,
       "elementy": 215,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8062",
       "nazwa": "Briefcase Set",
       "rok": 1994,
       "elementy": 403,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8808",
       "nazwa": "F1 Racer",
       "rok": 1994,
       "elementy": 94,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8812",
       "nazwa": "Helicopter",
       "rok": 1994,
       "elementy": 147,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8816",
       "nazwa": "Off-Roader",
       "rok": 1994,
       "elementy": 184,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8829",
       "nazwa": "Dune Blaster",
       "rok": 1994,
       "elementy": 278,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8858",
       "nazwa": "Rebel Wrecker",
       "rok": 1994,
       "elementy": 461,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8880",
       "nazwa": "Super Car",
       "rok": 1994,
       "elementy": 1343,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8210",
       "nazwa": "Nitro GTX bike",
       "rok": 1995,
       "elementy": 86,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8225",
       "nazwa": "Road Rally V",
       "rok": 1995,
       "elementy": 96,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8235",
       "nazwa": "Front End Loader",
       "rok": 1995,
       "elementy": 165,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8280",
       "nazwa": "Fire Engine",
       "rok": 1995,
       "elementy": 424,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8412",
       "nazwa": "Nighthawk",
       "rok": 1995,
       "elementy": 286,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8422",
       "nazwa": "Circuit Shock Racer",
       "rok": 1995,
       "elementy": 315,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8440",
       "nazwa": "Formula Flash",
       "rok": 1995,
       "elementy": 414,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8460",
       "nazwa": "Pneumatic Crane Truck",
       "rok": 1995,
       "elementy": 850,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8485",
       "nazwa": "Control Centre II",
       "rok": 1995,
       "elementy": 1079,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8207",
       "nazwa": "Dune Duster",
       "rok": 1996,
       "elementy": 86,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8223",
       "nazwa": "Hydrofoil 7",
       "rok": 1996,
       "elementy": 124,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8230",
       "nazwa": "Coastal Cop Buggy",
       "rok": 1996,
       "elementy": 175,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8244",
       "nazwa": "Convertables",
       "rok": 1996,
       "elementy": 275,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8286",
       "nazwa": "3-In-1 Car",
       "rok": 1996,
       "elementy": 734,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8408",
       "nazwa": "Desert Ranger",
       "rok": 1996,
       "elementy": 289,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8425",
       "nazwa": "Black Falcon",
       "rok": 1996,
       "elementy": 465,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8443",
       "nazwa": "Pneumatic Log Loader",
       "rok": 1996,
       "elementy": 327,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8456",
       "nazwa": "Fiber Optic Multi Set",
       "rok": 1996,
       "elementy": 404,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8480",
       "nazwa": "Space Shuttle",
       "rok": 1996,
       "elementy": 1368,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2129",
       "nazwa": "Blast-Off Dragster",
       "rok": 1997,
       "elementy": 63,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8205",
       "nazwa": "Bungee Blaster",
       "rok": 1997,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8215",
       "nazwa": "Gyro Copter",
       "rok": 1997,
       "elementy": 108,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8216",
       "nazwa": "Turbo 1",
       "rok": 1997,
       "elementy": 91,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8222",
       "nazwa": "VTOL",
       "rok": 1997,
       "elementy": 141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8229",
       "nazwa": "Tread Trekker",
       "rok": 1997,
       "elementy": 186,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8232",
       "nazwa": "Chopper Force",
       "rok": 1997,
       "elementy": 280,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8250",
       "nazwa": "Search Sub",
       "rok": 1997,
       "elementy": 383,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8277",
       "nazwa": "Giant Model Set",
       "rok": 1997,
       "elementy": 546,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8299",
       "nazwa": "Search Sub",
       "rok": 1997,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8414",
       "nazwa": "Mountain Rambler",
       "rok": 1997,
       "elementy": 244,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8437",
       "nazwa": "Future Car",
       "rok": 1997,
       "elementy": 419,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8459",
       "nazwa": "Pneumatic Front-End Loader",
       "rok": 1997,
       "elementy": 591,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8479",
       "nazwa": "Barcode Multi-Set",
       "rok": 1997,
       "elementy": 1280,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8735",
       "nazwa": "Motor Set, 9V",
       "rok": 1997,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2544",
       "nazwa": "Motorcycle",
       "rok": 1998,
       "elementy": 27,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "2854",
       "nazwa": "Bungee Chopper",
       "rok": 1998,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3038",
       "nazwa": "Spider Slayer",
       "rok": 1998,
       "elementy": 366,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3054",
       "nazwa": "Motorcycle",
       "rok": 1998,
       "elementy": 30,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8202",
       "nazwa": "Bungee Chopper",
       "rok": 1998,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8203",
       "nazwa": "Rover Discovery",
       "rok": 1998,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8204",
       "nazwa": "Sky Flyer 1",
       "rok": 1998,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8208",
       "nazwa": "Custom Cruiser",
       "rok": 1998,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8209",
       "nazwa": "Future F1",
       "rok": 1998,
       "elementy": 49,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8213",
       "nazwa": "Spy Runner",
       "rok": 1998,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8217",
       "nazwa": "The Wasp",
       "rok": 1998,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8218",
       "nazwa": "Trike Tourer",
       "rok": 1998,
       "elementy": 70,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8219",
       "nazwa": "Racer",
       "rok": 1998,
       "elementy": 101,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8226",
       "nazwa": "Mud Masher",
       "rok": 1998,
       "elementy": 127,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8233",
       "nazwa": "Blue Thunder vs. The Stinger",
       "rok": 1998,
       "elementy": 119,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8239",
       "nazwa": "Cyber Slam Spider",
       "rok": 1998,
       "elementy": 119,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8245",
       "nazwa": "Robot's Revenge",
       "rok": 1998,
       "elementy": 223,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8248",
       "nazwa": "Forklift",
       "rok": 1998,
       "elementy": 231,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8257",
       "nazwa": "Cyber Strikers",
       "rok": 1998,
       "elementy": 367,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8266",
       "nazwa": "Blue Flash Versus The Arachnophob",
       "rok": 1998,
       "elementy": 366,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8417",
       "nazwa": "Mag Wheel Master",
       "rok": 1998,
       "elementy": 315,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8428",
       "nazwa": "Red Hot Machine with CD-ROM",
       "rok": 1998,
       "elementy": 472,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8432",
       "nazwa": "Concept Car",
       "rok": 1998,
       "elementy": 471,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8462",
       "nazwa": "Tow Truck",
       "rok": 1998,
       "elementy": 774,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8482",
       "nazwa": "CyberMaster",
       "rok": 1998,
       "elementy": 889,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8483",
       "nazwa": "CyberMaster",
       "rok": 1998,
       "elementy": 894,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "880001",
       "nazwa": "Competition Racers and Stop Watch",
       "rok": 1998,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1061",
       "nazwa": "Single Disc Pack",
       "rok": 1999,
       "elementy": 1,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1257",
       "nazwa": "Tricycle",
       "rok": 1999,
       "elementy": 24,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1258",
       "nazwa": "Propeller Car",
       "rok": 1999,
       "elementy": 29,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1259",
       "nazwa": "Motorbike",
       "rok": 1999,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1260",
       "nazwa": "Car",
       "rok": 1999,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1268",
       "nazwa": "Bike Blaster",
       "rok": 1999,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3000",
       "nazwa": "Tribuggy",
       "rok": 1999,
       "elementy": 24,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3001",
       "nazwa": "Propeller Car",
       "rok": 1999,
       "elementy": 29,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3003",
       "nazwa": "Bike",
       "rok": 1999,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3005",
       "nazwa": "Piston Car",
       "rok": 1999,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8246",
       "nazwa": "Hydro Racer",
       "rok": 1999,
       "elementy": 46,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8247",
       "nazwa": "Road Rebel",
       "rok": 1999,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8251",
       "nazwa": "Sonic Cycle",
       "rok": 1999,
       "elementy": 89,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8252",
       "nazwa": "Beach Buster",
       "rok": 1999,
       "elementy": 183,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8253",
       "nazwa": "Fire Helicopter",
       "rok": 1999,
       "elementy": 210,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8255",
       "nazwa": "Rescue Bike",
       "rok": 1999,
       "elementy": 202,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8268",
       "nazwa": "Scorpion Attack",
       "rok": 1999,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8269",
       "nazwa": "Cyber Stinger",
       "rok": 1999,
       "elementy": 345,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8444",
       "nazwa": "Jet Wasp",
       "rok": 1999,
       "elementy": 309,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8445",
       "nazwa": "Indy Storm",
       "rok": 1999,
       "elementy": 446,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8446",
       "nazwa": "Crane Truck",
       "rok": 1999,
       "elementy": 582,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8448",
       "nazwa": "Super Street Sensation",
       "rok": 1999,
       "elementy": 1437,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8450",
       "nazwa": "The Mission",
       "rok": 1999,
       "elementy": 643,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8500",
       "nazwa": "Torch",
       "rok": 1999,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8501",
       "nazwa": "Ski",
       "rok": 1999,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8502",
       "nazwa": "Turbo",
       "rok": 1999,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8503",
       "nazwa": "Scuba",
       "rok": 1999,
       "elementy": 39,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8504",
       "nazwa": "Jet",
       "rok": 1999,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8505",
       "nazwa": "Amazon",
       "rok": 1999,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8506",
       "nazwa": "Granite",
       "rok": 1999,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8507",
       "nazwa": "Electro",
       "rok": 1999,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8508",
       "nazwa": "Supplementary Discs",
       "rok": 1999,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1290",
