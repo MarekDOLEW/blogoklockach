@@ -29,8 +29,8 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-26",
-      "uzupelnione_lacznie": 2115,
+      "data": "2026-08-27",
+      "uzupelnione_lacznie": 2235,
       "ostatnie_serie": [
         "Star Wars"
       ]
@@ -9569,189 +9569,216 @@
       "nazwa": "Prom szturmowy Parszywej Zgrai",
       "rok": 2021,
       "elementy": 969,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75315",
       "nazwa": "Imperialny lekki krążownik",
       "rok": 2021,
       "elementy": 1336,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 749.99
     },
     {
       "numer": "75316",
       "nazwa": "Mandaloriański myśliwiec",
       "rok": 2021,
       "elementy": 544,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75319",
       "nazwa": "Kuźnia Zbrojmistrzyni Mandalorian",
       "rok": 2021,
       "elementy": 258,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "912168",
       "nazwa": "Mandalorian",
       "rok": 2021,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912169",
       "nazwa": "Emperor Palpatine",
       "rok": 2021,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912170",
       "nazwa": "V-wing",
       "rok": 2021,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912171",
       "nazwa": "TIE Bomber",
       "rok": 2021,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912172",
       "nazwa": "Jedi Starfighter",
       "rok": 2021,
       "elementy": 29,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912173",
       "nazwa": "Rey and BB-8",
       "rok": 2021,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912174",
       "nazwa": "Sith Trooper",
       "rok": 2021,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912175",
       "nazwa": "AT-ST Raider",
       "rok": 2021,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912176",
       "nazwa": "Clone Turbo Tank",
       "rok": 2021,
       "elementy": 57,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912177",
       "nazwa": "Resistance A-wing",
       "rok": 2021,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912178",
       "nazwa": "Republic Gunship",
       "rok": 2021,
       "elementy": 51,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912179",
       "nazwa": "Snowtrooper",
       "rok": 2021,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30495",
       "nazwa": "AT-ST",
       "rok": 2022,
       "elementy": 79,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30625",
       "nazwa": "Luke Skywalker with Blue Milk",
       "rok": 2022,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40531",
       "nazwa": "Kuchnia rodziny Larsów",
       "rok": 2022,
       "elementy": 195,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "40557",
       "nazwa": "Obrona Hoth",
       "rok": 2022,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "40558",
       "nazwa": "Stacja dowodzenia żołnierza oddziału klonów",
       "rok": 2022,
       "elementy": 66,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "66708",
       "nazwa": "Galactic Adventures Pack",
       "rok": 2022,
       "elementy": 901,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75320",
       "nazwa": "Zestaw bitewny ze szturmowcem śnieżnym",
       "rok": 2022,
       "elementy": 105,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75321",
       "nazwa": "Mikromyśliwiec Brzeszczot",
       "rok": 2022,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "75322",
       "nazwa": "Star Wars AT-ST z Hoth",
       "rok": 2022,
       "elementy": 586,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75323",
       "nazwa": "Justifier",
       "rok": 2022,
       "elementy": 1022,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "75324",
       "nazwa": "Atak mrocznych szturmowców",
       "rok": 2022,
       "elementy": 166,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "75325",
@@ -9766,14 +9793,16 @@
       "nazwa": "Sala tronowa Boby Fetta",
       "rok": 2022,
       "elementy": 732,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75327",
       "nazwa": "Hełm Luke'a Skywalkera — Czerwony Pięć",
       "rok": 2022,
       "elementy": 675,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75328",
@@ -9796,21 +9825,24 @@
       "nazwa": "Diorama: Szkolenie Jedi na Dagobah",
       "rok": 2022,
       "elementy": 1000,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "75331",
       "nazwa": "Brzeszczot",
       "rok": 2022,
       "elementy": 6187,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2599.99
     },
     {
       "numer": "75332",
       "nazwa": "AT-ST",
       "rok": 2022,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "75333",
@@ -9825,21 +9857,24 @@
       "nazwa": "Obi-Wan Kenobi kontra Darth Vader",
       "rok": 2022,
       "elementy": 408,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75335",
       "nazwa": "BD-1",
       "rok": 2022,
       "elementy": 1062,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75336",
       "nazwa": "Transporter Inkwizytorów Scythe",
       "rok": 2022,
       "elementy": 924,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75337",
@@ -9854,182 +9889,208 @@
       "nazwa": "Zasadzka na Ferrix",
       "rok": 2022,
       "elementy": 679,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75339",
       "nazwa": "Diorama: Zgniatarka odpadów na Gwieździe Śmierci",
       "rok": 2022,
       "elementy": 802,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "75340",
       "nazwa": "Kalendarz adwentowy",
       "rok": 2022,
       "elementy": 329,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "75341",
       "nazwa": "Śmigacz Luke'a Skywalkera",
       "rok": 2022,
       "elementy": 1890,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "75342",
       "nazwa": "Czołg bojowy Republiki",
       "rok": 2022,
       "elementy": 262,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75343",
       "nazwa": "Hełm mrocznego szturmowca",
       "rok": 2022,
       "elementy": 693,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "912280",
       "nazwa": "Millennium Falcon",
       "rok": 2022,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912281",
       "nazwa": "Clone Trooper",
       "rok": 2022,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912282",
       "nazwa": "AT-AT",
       "rok": 2022,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912283",
       "nazwa": "Tusken Raider",
       "rok": 2022,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912284",
       "nazwa": "Razor Crest",
       "rok": 2022,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912285",
       "nazwa": "Darth Maul",
       "rok": 2022,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912286",
       "nazwa": "Mandalorian Warrior",
       "rok": 2022,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912287",
       "nazwa": "Mandalorian Starfighter",
       "rok": 2022,
       "elementy": 31,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912288",
       "nazwa": "TIE Whisper",
       "rok": 2022,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912289",
       "nazwa": "Princess Leia",
       "rok": 2022,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912290",
       "nazwa": "Imperial Light Cruiser",
       "rok": 2022,
       "elementy": 39,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912291",
       "nazwa": "Luke Skywalker",
       "rok": 2022,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30654",
       "nazwa": "Myśliwiec X-Wing",
       "rok": 2023,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40591",
       "nazwa": "Gwiazda Śmierci II",
       "rok": 2023,
       "elementy": 289,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "40658",
       "nazwa": "Świąteczna diorama z Sokołem Millennium",
       "rok": 2023,
       "elementy": 282,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "5007872",
       "nazwa": "Lucas Yoda Fountain",
       "rok": 2023,
       "elementy": 152,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6476267",
       "nazwa": "Star Wars Celebration Europe 2023 Promotional Tile",
       "rok": 2023,
       "elementy": 1,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66775",
       "nazwa": "Hoth Combo Pack",
       "rok": 2023,
       "elementy": 691,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66778",
       "nazwa": "Star Wars Mech 3-Pack",
       "rok": 2023,
       "elementy": 432,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75344",
       "nazwa": "Mikromyśliwiec kosmiczny Boby Fetta",
       "rok": 2023,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "75345",
@@ -10044,7 +10105,8 @@
       "nazwa": "Piracki myśliwiec",
       "rok": 2023,
       "elementy": 285,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "75347",
@@ -10075,42 +10137,48 @@
       "nazwa": "Hełm dowódcy klonów Cody'ego",
       "rok": 2023,
       "elementy": 766,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "75351",
       "nazwa": "Hełm księżniczki Lei",
       "rok": 2023,
       "elementy": 670,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "75352",
       "nazwa": "Diorama: Sala tronowa Imperatora",
       "rok": 2023,
       "elementy": 807,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "75353",
       "nazwa": "Diorama: Pościg na ścigaczu przez Endor",
       "rok": 2023,
       "elementy": 608,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "75354",
       "nazwa": "Kanonierka Gwardii Coruscańskiej",
       "rok": 2023,
       "elementy": 1083,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "75355",
       "nazwa": "Myśliwiec X-Wing",
       "rok": 2023,
       "elementy": 1949,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "75356",
@@ -10125,7 +10193,8 @@
       "nazwa": "Duch i Upiór II",
       "rok": 2023,
       "elementy": 1394,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 739.99
     },
     {
       "numer": "75358",
@@ -10140,35 +10209,40 @@
       "nazwa": "Zestaw bitewny z 332. oddziałem klonów Ahsoki",
       "rok": 2023,
       "elementy": 108,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75360",
       "nazwa": "Jedi Starfighter Yody",
       "rok": 2023,
       "elementy": 253,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "75361",
       "nazwa": "Pajęczy czołg",
       "rok": 2023,
       "elementy": 526,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "75362",
       "nazwa": "Prom kosmiczny Jedi T-6 Ahsoki Tano",
       "rok": 2023,
       "elementy": 601,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75363",
       "nazwa": "Myśliwiec N-1 Mandalorianina w mikroskali",
       "rok": 2023,
       "elementy": 88,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75364",
@@ -10183,14 +10257,16 @@
       "nazwa": "Baza Rebeliantów na Yavin 4",
       "rok": 2023,
       "elementy": 1066,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 739.99
     },
     {
       "numer": "75366",
       "nazwa": "Kalendarz adwentowy",
       "rok": 2023,
       "elementy": 320,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "75367",
@@ -10205,21 +10281,24 @@
       "nazwa": "Mech Dartha Vadera",
       "rok": 2023,
       "elementy": 139,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75369",
       "nazwa": "Mech Boby Fetta",
       "rok": 2023,
       "elementy": 155,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75370",
       "nazwa": "Mech Szturmowca",
       "rok": 2023,
       "elementy": 138,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75371",
@@ -10234,98 +10313,112 @@
       "nazwa": "Bo-Katan Kryze",
       "rok": 2023,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912303",
       "nazwa": "212th Clone Trooper",
       "rok": 2023,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912304",
       "nazwa": "X-wing",
       "rok": 2023,
       "elementy": 57,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912305",
       "nazwa": "Obi-Wan Kenobi",
       "rok": 2023,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912306",
       "nazwa": "Y-wing",
       "rok": 2023,
       "elementy": 61,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912307",
       "nazwa": "Scout Trooper",
       "rok": 2023,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912308",
       "nazwa": "AT-TE",
       "rok": 2023,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912309",
       "nazwa": "Stormtrooper",
       "rok": 2023,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912310",
       "nazwa": "C-3PO & Gonk Droid",
       "rok": 2023,
       "elementy": 15,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912311",
       "nazwa": "TIE Advanced",
       "rok": 2023,
       "elementy": 29,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912312",
       "nazwa": "Yoda's Jedi Starfighter",
       "rok": 2023,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912313",
       "nazwa": "Republic Fighter Tank",
       "rok": 2023,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912401",
       "nazwa": "Mandalorian Pilot",
       "rok": 2023,
       "elementy": 15,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30680",
       "nazwa": "AAT",
       "rok": 2024,
       "elementy": 75,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 17.99
     },
     {
       "numer": "30685",
@@ -10340,98 +10433,112 @@
       "nazwa": "Transporter droidów Federacji Handlowej",
       "rok": 2024,
       "elementy": 262,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 134.99
     },
     {
       "numer": "40730",
       "nazwa": "Miecz świetlny Luke'a Skywalkera",
       "rok": 2024,
       "elementy": 145,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 94.99
     },
     {
       "numer": "40755",
       "nazwa": "Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii",
       "rok": 2024,
       "elementy": 383,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "472407",
       "nazwa": "Sabine Wren",
       "rok": 2024,
       "elementy": 9,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5009086",
       "nazwa": "Gasgano's Podracer",
       "rok": 2024,
       "elementy": 150,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6520657",
       "nazwa": "X-wing",
       "rok": 2024,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6520658",
       "nazwa": "Yoda",
       "rok": 2024,
       "elementy": 20,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6522101",
       "nazwa": "X-wing",
       "rok": 2024,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6523825",
       "nazwa": "Naboo Fighter",
       "rok": 2024,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6523826",
       "nazwa": "Millennium Falcon",
       "rok": 2024,
       "elementy": 20,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6525757",
       "nazwa": "Darth Vader, Princess Leia, Yoda",
       "rok": 2024,
       "elementy": 69,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6528899",
       "nazwa": "Darth Vader",
       "rok": 2024,
       "elementy": 30,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6528900",
       "nazwa": "Princess Leia",
       "rok": 2024,
       "elementy": 19,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66787",
       "nazwa": "Jedi Masters Gift Set",
       "rok": 2024,
       "elementy": 654,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75372",
@@ -10478,7 +10585,8 @@
       "nazwa": "Niewidzialna ręka",
       "rok": 2024,
       "elementy": 557,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "75378",
@@ -10509,7 +10617,8 @@
       "nazwa": "Droideka",
       "rok": 2024,
       "elementy": 583,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75382",
@@ -10524,7 +10633,8 @@
       "nazwa": "Infiltrator Sithów Dartha Maula",
       "rok": 2024,
       "elementy": 640,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "75384",
@@ -10539,21 +10649,24 @@
       "nazwa": "Pojedynek Ahsoki Tano na Peridei",
       "rok": 2024,
       "elementy": 382,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75386",
       "nazwa": "Pojedynek Paza Vizsli i Moffa Gideona",
       "rok": 2024,
       "elementy": 289,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "75387",
       "nazwa": "Wejście na pokład statku kosmicznego Tantive IV",
       "rok": 2024,
       "elementy": 502,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75388",
@@ -10576,7 +10689,8 @@
       "nazwa": "Mech X-Wing Luke'a Skywalkera",
       "rok": 2024,
       "elementy": 195,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75391",
@@ -10591,7 +10705,8 @@
       "nazwa": "Kreatywny zestaw do budowy droidów",
       "rok": 2024,
       "elementy": 1186,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "75393",
@@ -10606,14 +10721,16 @@
       "nazwa": "Gwiezdny Niszczyciel Imperium",
       "rok": 2024,
       "elementy": 1555,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "75395",
       "nazwa": "Kalendarz adwentowy na 2024 rok",
       "rok": 2024,
       "elementy": 368,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "75396",
@@ -10644,21 +10761,24 @@
       "nazwa": "Emperor Palpatine",
       "rok": 2024,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912403",
       "nazwa": "Coruscant Guard",
       "rok": 2024,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912404",
       "nazwa": "Chewbacca",
       "rok": 2024,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912405",
