@@ -9,4 +9,10 @@ już gotowy, ze ścieżką layoutu `../../layouts/Artykul.astro`) i commit.
 
 | Plik | Temat | Status |
 |---|---|---|
-| `lego-insiders-nowe-zasady-nagrod.md` | zmiana zasad odbioru nagród Insiders (21.08.2026) | czeka na akceptację Marka (PDF wysłany 24.08) |
+| — | — | brak szkiców czekających na akceptację |
+
+## Opublikowane
+
+| Plik | Temat | Data publikacji |
+|---|---|---|
+| `lego-insiders-nowe-zasady-nagrod.md` | zmiana zasad odbioru nagród Insiders (21.08.2026) | 27.08.2026 → `/artykuly/lego-insiders-nowe-zasady-nagrod/`, kategoria **Poradniki** |

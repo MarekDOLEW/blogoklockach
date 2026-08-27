@@ -2,9 +2,9 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO zmieniło zasady odbioru nagród Insiders. Sprawdzamy, co to znaczy przed Black Friday"
 opis: "Koniec z kodami, do trzech nagród na jedno zamówienie, punkty schodzą dopiero przy zakupie. Co się realnie zmieniło w Centrum Nagród LEGO Insiders i czy warto teraz kupować na LEGO.com."
-data: "2026-08-24"
-zaktualizowano: "2026-08-24"
-kategoria: "Poradnik"
+data: "2026-08-27"
+zaktualizowano: "2026-08-27"
+kategoria: "Poradniki"
 faq:
   - q: "Czy kody na nagrody Insiders przestały działać?"
     a: "Kody zniknęły z procesu odbioru nagród fizycznych — nagrodę dodaje się teraz wprost do koszyka w Centrum Nagród, tak jak zwykły zestaw, tyle że płaci się punktami zamiast złotówkami. Nagrody niefizyczne i cyfrowe, na przykład zniżki na bilety, odbiera się bez zmian: przez wygenerowanie kodu."
@@ -53,7 +53,7 @@ To nie znaczy, że LEGO.com nie ma sensu. Ma, ale w trzech konkretnych sytuacjac
 
 1. **Ekskluzywy niedostępne nigdzie indziej.** Zestawy oznaczone jako wyłączne dla oficjalnego sklepu nie mają ceny porównawczej — tu nie ma czego optymalizować i punkty są czystym zyskiem.
 2. **Okna z gratisami GWP.** Darmowy zestaw po przekroczeniu progu kwotowego potrafi zmienić rachunek, ale tylko wtedy, gdy kupowane zestawy i tak są blisko ceny katalogowej. Policzyliśmy to na przykładzie trwającego okna Back to Hogwarts w [kalendarzu promocji](/kalendarz-promocji-lego/).
-3. **Premiery.** Nowość pojawia się w oficjalnym sklepie pierwsza, a sklepy zewnętrzne potrzebują kilku tygodni, żeby zejść poniżej katalogu.
+3. **Premiery — a zwłaszcza przedsprzedaże zarezerwowane dla Insiders.** Nowość pojawia się w oficjalnym sklepie pierwsza, a sklepy zewnętrzne potrzebują kilku tygodni, żeby zejść poniżej katalogu. Bywa jednak mocniej: [75457 Executor](/zestaw/75457/), najdłuższy zestaw w historii LEGO, wchodzi do sprzedaży 1 października **wyłącznie dla członków Insiders**, a otwarcie dla wszystkich następuje dopiero 4 października. Przy takich premierach członkostwo jest nie bonusem, tylko warunkiem zakupu w pierwszych dniach.
 
 Poza tymi trzema przypadkami rachunek zwykle wychodzi na korzyść sklepów zewnętrznych — i to niezależnie od tego, jak wygodny jest odbiór nagród.
 

@@ -1,13 +1,13 @@
 ---
 layout: ../layouts/Artykul.astro
 title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
-opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC i Star Wars na 50-lecie. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
+opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC, Star Wars na 50-lecie i potwierdzony restart Super Mario. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
 data: "2026-08-20"
-zaktualizowano: "2026-08-26"
+zaktualizowano: "2026-08-27"
 kategoria: "Premiery"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
-    a: "Nie. Na sierpień 2026 żaden zestaw z 2027 roku nie został oficjalnie ogłoszony przez Grupę LEGO. Wszystko, co opisujemy, to przecieki z sieci dystrybucji i katalogów — numery, liczby elementów i ceny mogą się jeszcze zmienić, a część zestawów może nigdy nie trafić do sprzedaży. Oznaczamy to przy każdej pozycji."
+    a: "W większości nie. Jedynym wyjątkiem jest seria Super Mario — osiem zestawów na 1 stycznia 2027 LEGO pokazało oficjalnie na targach Gamescom w sierpniu 2026. Cała reszta to przecieki z sieci dystrybucji i katalogów: numery, liczby elementów i ceny mogą się jeszcze zmienić, a część zestawów może nigdy nie trafić do sprzedaży. Oznaczamy to przy każdej pozycji — plakietka „potwierdzone” znaczy oficjalne ogłoszenie, „przeciek” znaczy źródło nieoficjalne."
   - q: "Dlaczego warto kupić starszy zestaw, zanim wyjdzie nowy z tej samej serii?"
     a: "Bo premiera nowego zestawu nie odświeża starych. Zestawy z serii kolekcjonerskich są wycofywane po 2–4 latach i po zejściu z produkcji ich ceny rosną zamiast spadać. Jeśli budujesz kolekcję tematyczną — samochody Icons, Śródziemie, Diuna — brakujące pozycje najtaniej uzupełnia się, dopóki są jeszcze w regularnej sprzedaży."
   - q: "Kiedy LEGO oficjalnie ogłasza zestawy na kolejny rok?"
@@ -16,7 +16,7 @@ faq:
     a: "Zwykle nie w przypadku dużych zestawów kolekcjonerskich. Historycznie zapowiedź nowej wersji kultowego modelu — na przykład UCS-a — podnosiła ceny wersji schodzącej z produkcji, bo kolekcjonerzy dokupują ją, zanim zniknie. Odwrotny efekt zdarza się przy zwykłych zestawach z serii masowych."
 ---
 
-Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO, panorama Marvela, rok Batmobili i 50-lecie Gwiezdnych wojen. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
+Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO, panorama Marvela, rok Batmobili, 50-lecie Gwiezdnych wojen i jedyna w tym zestawieniu zapowiedź już **oficjalnie potwierdzona** — przebudowana od zera seria Super Mario. Zebraliśmy wszystko, co dziś wiadomo — i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
 
 Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--maybe">przeciek</span> oznacza informację nieoficjalną. Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok — numery, ceny i liczby elementów mogą się zmienić. Nie podajemy plotek jako faktów.
 
@@ -36,6 +36,8 @@ Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--ma
 | Marvel: 67005 Sanctum Strange'a Supreme | ~810 | — | I 2027 | <span class="status status--maybe">przeciek</span> |
 | DC: 67008 Batmobil z „Powrotu Batmana" | — | ~215 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 | DC: Daily Planet — budynek modularny | — | — | 2027 | <span class="status status--maybe">przeciek</span> |
+| Super Mario: 72060 Fire Mario i zamek Bowsera | 850 | — | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Super Mario: 72058 Wyścig Bowsera | 409 | — | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 
 Poza tym w przeciekach przewijają się kolejne serie na 2027: Creator (numery 31396–31411, premiera w styczniu), Dragon Ball, Botanicals, Ninjago, City, Speed Champions, Marvel, Disney i nowa seria Cutelings. To zestawy z niższych półek cenowych — śledzimy je w [Nowościach](/nowosci/), a tutaj skupiamy się na tym, co kolekcjonerskie.
 
@@ -154,6 +156,21 @@ Dla kupującego istotny jest jeden szczegół: **67008 to ta sama scena, którą
 > - [76355 Batmobil z filmu „Powrót Batmana"](/zestaw/76355/) — 2269 elementów, 899,99 zł katalogowo, rocznik 2026, w regularnej sprzedaży
 >
 > Jeśli zależy Ci na modelu z tej sceny na półkę, kupujesz go dziś. Styczniowa zapowiedź nie zastąpi dużego Batmobila i nie ma powodu czekać z jednym na drugie — historycznie duże modele Batmobili schodzą z produkcji po dwóch–trzech latach i nie wracają.
+
+## Super Mario: jedyna potwierdzona zapowiedź w tym zestawieniu <span class="status status--ok">potwierdzone</span>
+
+Wszystko powyżej to przecieki. Super Mario jest wyjątkiem: **osiem zestawów na 1 stycznia 2027 LEGO pokazało oficjalnie na targach Gamescom w Kolonii** pod koniec sierpnia 2026.
+
+Zmiana jest głębsza niż nowy rocznik. Znika **elektroniczna figurka Mario**, która od 2020 roku czytała kody z klocków i była warunkiem działania wszystkich zestawów rozszerzających. Zamiast niej wchodzą **zwykłe minifigurki** — dziesięć w pierwszej fali, w tym pierwsze w historii klockowe Mario, Luigi, Yoshi i Bowser w standardowej skali. Osiem zestawów mieści się w przedziale 9,99–99,99 USD; polskich cen katalogowych jeszcze nie ogłoszono i celowo ich tu nie przeliczamy.
+
+> **Kupujesz teraz? Sprawdź, po której stronie jesteś**
+>
+> - **Masz zestaw startowy z elektronicznym Mario** — to ostatnie miesiące na dokupienie rozszerzeń. Cała interaktywna linia ma zejść z oficjalnej sprzedaży do końca 2026, a nowe zestawy jej nie zastąpią: nie mają czego uruchamiać.
+> - **Dopiero rozważasz start** — nie zaczynaj teraz. Styczeń jest za blisko, żeby wchodzić w system, który przestaje być rozwijany.
+>
+> W bieżącej ofercie mamy 37 zestawów Super Mario i wszystkie należą do starej formuły — łącznie z [72037 Mario Kart: Mario i Standard Kart](/zestaw/72037/) i [71408 Zamkiem Peach](/zestaw/71408/).
+
+Pełną listę ośmiu zestawów z numerami, liczbą elementów i cenami, a także porównanie starej i nowej formuły, rozpisaliśmy w [osobnym artykule o restarcie Super Mario](/artykuly/lego-super-mario-2027-minifigurki/).
 
 ## Numery, które się zmieniają — drobiazg, który warto znać
 
