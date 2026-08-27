@@ -24,6 +24,54 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-27 08:15 · CODE · Dwa teksty Piotra opublikowane: ranking Icons i porównanie zamków
+
+**Zrobione:**
+- `src/pages/artykuly/ranking-najlepsze-samochody-lego-icons.md` — kategoria
+  **Rankingi**, jedenaście dużych samochodów Icons od 2008 do 2026.
+- `src/pages/artykuly/porownanie-cztery-zamki-lego.md` — kategoria **Porównania**,
+  31120 / 31168 / 10305 / 71814.
+
+Kategorie Rankingi i Porównania miały dotąd zero tekstów — filtr na `/artykuly/`
+odblokował oba przyciski.
+
+**Import, nie redakcja.** Tekst Piotra wchodzi słowo w słowo. Kontrola: skrypt
+porównujący akapity `.docx` z opublikowanym markdownem daje **jedną różnicę na
+plik** — wiersz tytułu, który przeszedł do frontmattera i renderuje się jako H1.
+Reszta identyczna.
+
+Dodane wyłącznie mechanicznie:
+- `<div class="ceny-setu">` przy czterech zestawach **w regularnej sprzedaży**:
+  11381 i 10295 w rankingu, 31168 i 71814 w porównaniu;
+- linki do hubów `/zestaw/<nr>/` na numerach zestawów w treści;
+- slajdery zdjęć, frontmatter (w tym FAQ pod dane strukturalne), stopka
+  „Zobacz też" z linkami do naszych tekstów.
+
+**Decyzja: wycofane zestawy nie dostają tabeli cen.** Siedem z jedenastu
+samochodów rankingu oraz 31120 i 10305 są EOL — ich pojedyncze oferty to
+notowania rynku wtórnego, często powyżej RRP (10248 Ferrari F40: 2099 zł przy
+katalogowych 399,99 zł). Tabela „Aktualne ceny" pod takim zestawem wprowadzałaby
+w błąd. Zamiast niej link do karty zestawu, która sama oznacza status EOL.
+Uzasadnia to zresztą sam tekst Piotra: „w ich przypadku dochodzi rynek wtórny
+i nie ma sensu porównywać ich obecnych cen ofertowych jeden do jednego".
+
+**Weryfikacja danych Piotra wobec katalogu:** liczby elementów zgadzają się
+wszędzie (10248 = 1158, 10317 = 2336, 11376 = 1060, 31168 = 1371, 31120 = 1426,
+10305 = 4514, 71814 = 3489). RRP 31168 = 519,99 i 71814 = 1079,99 — zgodne.
+
+**Stan:** gotowe, wdrożone
+
+**Dla drugiej strony:** nic
+
+**Do sprawdzenia z Piotrem — jedna rozbieżność faktyczna:** tekst porównania
+mówi o 71814, że „również można znaleźć go wyraźnie poniżej RRP". Dziś nie da
+się: obie oferty w feedzie (Media Expert i Allegro) stoją na 1099,99 zł, czyli
+**powyżej** katalogowych 1079,99 zł, a najtańszą pozycją w tabeli jest LEGO.com
+w cenie katalogowej. Zdania nie ruszałem — to fakt do rozstrzygnięcia przez
+autora, nie literówka. Progi (850 / 800 zł) zostają, bo to ocena, nie odczyt.
+Tabela renderuje się bezpośrednio pod tym zdaniem, więc sprzeczność jest
+widoczna dla czytelnika.
+
 ## 2026-08-27 07:35 · CODE · Persony czytelnika uratowane ze skilla klocki-redaktor
 
 **Powód:** `klocki-redaktor` (wersja z 11.08) idzie do skasowania — jest trzecim,
