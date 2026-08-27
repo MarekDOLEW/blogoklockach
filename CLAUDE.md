@@ -11,6 +11,19 @@ zadania cykliczne (runnery) i sesje robocze.
    - `RUNBOOK.md` — wiedza operacyjna, pulapki, procedury awaryjne
    - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami
 
+## Skille i standardy — jedno źródło
+
+Standard redakcyjny i metodologia mieszkają **wyłącznie w `redakcja/`**. Skille
+na claude.ai (`lego-standard-redakcyjny` dla działu Artykuły,
+`lego-standard-sprzedazowy` dla Prezentowników i krótkich form) są z nich
+generowane: `node scripts/eksport-skilli.mjs` → paczki w `skille/` → wgranie na
+claude.ai. **Nigdy nie edytujemy skilla na claude.ai** — poprawka przepadnie przy
+następnym eksporcie, a repo i skill znowu się rozjadą.
+
+Dokumenty wspólnika (`standard-artykulow-biezacych.md`,
+`metodologia-researchu-lego.md`) trzymamy verbatim; nasze ustalenia dopisujemy
+w `redakcja/ustalenia-projektowe.md`.
+
 ## Artykuły — zasada nadrzędna
 
 Przed pisaniem lub redagowaniem JAKIEGOKOLWIEK artykułu przeczytaj dokumenty

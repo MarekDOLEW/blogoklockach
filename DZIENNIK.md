@@ -24,6 +24,53 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-27 06:50 · CODE · Dwa skille standardów generowane z repo — koniec rozjazdu
+
+**Rozjazd zlikwidowany u przyczyny.** Standard i metodologia istniały w dwóch
+kopiach: repo 1.4/1.4 z naszymi §18.1 i §18.2, skill 1.5/1.7 od Piotra bez nich.
+Zamiast scalać prozę:
+
+- **dokumenty Piotra leżą w repo verbatim** — `standard-artykulow-biezacych.md`
+  (1.5) i `metodologia-researchu-lego.md` (1.7), słowo w słowo jak je przysłał;
+- **nasza warstwa poszła osobno** — `redakcja/ustalenia-projektowe.md`: podział
+  pracy przy cenach i linkach, siedem kategorii i nazewnictwo, mapowanie
+  standardu na infrastrukturę, ograniczenia wykonawcze (lego.com/zklockow 403,
+  brak sieci w Chromium).
+
+Dzięki temu następna wersja od Piotra to **podmiana jednego pliku**, a nie
+scalanie akapitów. Zasada pierwszeństwa: warstwa projektowa wygrywa tylko
+w sprawach infrastruktury; w redakcyjnych rozstrzygają dokumenty wspólnika.
+
+**Dwa skille, granica po dziale serwisu — nie po długości tekstu:**
+
+| Skill | Zakres | Autor tekstów |
+|---|---|---|
+| `lego-standard-redakcyjny` | całe `/artykuly/`, siedem kategorii | Piotr |
+| `lego-standard-sprzedazowy` | `/prezentowniki/` + krótkie formy dealowe | Marek |
+
+To zmiana wobec starego podziału, gdzie granicą było „powyżej 5 zestawów lub
+900 słów". Prezentownik z ośmioma zestawami wpadał wtedy do redakcyjnego —
+teraz liczba pozycji niczego nie rozstrzyga.
+
+**`scripts/eksport-skilli.mjs`** buduje obie paczki z `redakcja/` do `skille/`
+(98 KB i 56 KB). `--sprawdz` sam raportuje kategorie bez wzorca — dziś sześć:
+Premiery, Rankingi, Porównania, Poradniki, Kalendarze, Historyczne.
+
+**Zapisane w CLAUDE.md:** standard edytujemy wyłącznie w `redakcja/`, skilla na
+claude.ai nigdy — poprawka przepadłaby przy następnym eksporcie.
+
+**Stan:** gotowe; paczki czekają na wgranie
+
+**Dla drugiej strony (COWORK):** wgraj `skille/lego-standard-redakcyjny/`
+i `skille/lego-standard-sprzedazowy/` na claude.ai → Settings → Skills,
+**zastępując** dotychczasowe `lego-standard-redakcyjny`
+i `klocki-standard-sprzedazowy`. Ten drugi zmienia nazwę, więc stary skasuj.
+Po wgraniu synchronizują się same do Coworku i do Claude Code.
+
+**Uwagi:** teksty „na rozpoczęcie roku szkolnego dla chłopca / dla dziewczynki"
+zostają bez zmian (decyzja Marka), mimo że standard 1.5 odradza dzielenie
+prezentów według płci. Reguła obowiązuje od nowych tekstów.
+
 ## 2026-08-27 06:10 · CODE · Porządki: menu, siedem kategorii, wzorce, okruszki
 
 **Menu — sześć pozycji:** Promocje dziś · Nowości · Wycofania · Serie ·

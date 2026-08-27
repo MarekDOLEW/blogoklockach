@@ -6,9 +6,22 @@ powstaje zgodnie z nimi:
 
 | Dokument | Wersja | Rola |
 |---|---|---|
-| [metodologia-researchu-lego.md](metodologia-researchu-lego.md) | 1.4 | Jak robić research: hierarchia źródeł, mapa recenzji (min. 4 niezależne opinie), karta researchu, procedura rozbieżności z bramką eskalacyjną |
-| [standard-artykulow-biezacych.md](standard-artykulow-biezacych.md) | 1.4 | Jak pisać: rdzeń + moduły, profil odbiorcy, ton, drabina cenowa, próg zakupu, CTA, checklista przed publikacją, antywzorce |
+| [metodologia-researchu-lego.md](metodologia-researchu-lego.md) | 1.7 | Jak robić research: hierarchia źródeł, mapa recenzji (min. 4 niezależne opinie), karta researchu, procedura rozbieżności z bramką eskalacyjną |
+| [standard-artykulow-biezacych.md](standard-artykulow-biezacych.md) | 1.5 | Jak pisać: rdzeń + moduły, profil odbiorcy, ton, drabina cenowa, próg zakupu, CTA, checklista przed publikacją, antywzorce |
 | [sklepy-i-afiliacja.md](sklepy-i-afiliacja.md) | 1.1 | Sklepy w researchu i publikacji: rejestr, kategorie ofert, 2–3 sklepy publikacyjne, bezstronność afiliacji |
+
+**Dokumenty wspólnika leżą w repo verbatim — nie dopisujemy w nich ani słowa.**
+Wszystko, co wynika z naszej automatyzacji (skąd ceny, kto wstawia linki, siedem
+kategorii, ograniczenia serwera), mieszka w osobnej warstwie:
+[ustalenia-projektowe.md](ustalenia-projektowe.md). Dzięki temu nowa wersja od
+Piotra to podmiana jednego pliku, a nie scalanie prozy.
+
+Przy sprzeczności: warstwa projektowa wygrywa **tylko w sprawach infrastruktury**;
+w sprawach redakcyjnych rozstrzygają dokumenty wspólnika.
+
+Skille na claude.ai (`lego-standard-redakcyjny`, `lego-standard-sprzedazowy`) są
+**generowane z tych plików** przez `node scripts/eksport-skilli.mjs`. Nie edytuj
+ich na claude.ai — poprawka przepadnie przy następnym eksporcie.
 
 Źródłowe pliki .docx dostarcza wspólnik; przy nowej wersji dokumentu podmieniamy
 odpowiedni plik .md (konwersja ze stylów Worda) i odnotowujemy wersję w tabeli wyżej.

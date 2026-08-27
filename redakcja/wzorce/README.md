@@ -8,7 +8,11 @@ strukturę, pola i decyzje, których nie widać w gotowym artykule.
 | [prezentownik-serii.md](prezentownik-serii.md) | prezent z jednej serii LEGO | `/prezentowniki/lego-friends/` |
 | [recenzja-zestawu.md](recenzja-zestawu.md) | jeden zestaw od środka | `/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/` |
 
-Do dopisania: ranking, porównanie, poradnik, kalendarz, tekst historyczny.
+Do dopisania: premiery, ranking, porównanie, poradnik, kalendarz, tekst historyczny.
+Kontrola pokrycia: `node scripts/eksport-skilli.mjs --sprawdz` wypisuje kategorie bez wzorca.
+
+Wzorce trafiają do skilli: recenzja → `lego-standard-redakcyjny`,
+prezentownik → `lego-standard-sprzedazowy` (eksport `scripts/eksport-skilli.mjs`).
 
 ## Nazewnictwo — obowiązuje od 27.08.2026
 
