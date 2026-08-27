@@ -24,6 +24,62 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-27 06:10 · CODE · Porządki: menu, siedem kategorii, wzorce, okruszki
+
+**Menu — sześć pozycji:** Promocje dziś · Nowości · Wycofania · Serie ·
+Prezentowniki · Artykuły. Kalendarz i Zapowiedzi zeszły z menu i są teraz
+artykułami (kategorie „Kalendarze" i „Premiery"). Kolekcjoner zszedł — dział
+pusty; **strona zostaje pod adresem**, usunąłem tylko linki do niej ze stopek
+dwóch recenzji.
+
+**Kategorie artykułów — stała, zamknięta siódemka** w `src/data/kategorie_artykulow.json`:
+Premiery (5) · Recenzje (5) · Rankingi (0) · Porównania (0) · Poradniki (0) ·
+Kalendarze (1) · Historyczne (0). Puste mają przycisk wyszarzony i nieklikalny.
+Prezentowniki wyszły z `/artykuly/` — zostają wyłącznie w swoim dziale (17 kart).
+
+**Wygląd:** zdjęcia w treści artykułu na całą szerokość kolumny (720 px), bez
+ramki, obrysu i cienia, kadr 4:3 zamiast kwadratu. Powiększenie miniatur na
+listingach 2,2× → **4,4×** (100 px → 440 px).
+
+**Strona zestawu:** okruszki pod menu (Start › LEGO Technic › LEGO 42215) —
+ta sama ścieżka co w `BreadcrumbList`, żeby widok i dane strukturalne się nie
+rozjechały. Plus tagi wyliczane z danych: „Dla dorosłych", „Duży zestaw",
+„Mały zestaw", „Do 100 zł", „Znika z rynku".
+
+**Nota cenowa:** dopisek o zmienności w ciągu dnia — w tabelach cen (komponent
+i plugin), na hubach, seriach i wycofaniach.
+
+**Wzorce:** `redakcja/wzorce/` — prezentownik serii (osiem zestawów zamiast
+sześciu, drabina ośmiu progów zakupowych) i recenzja zestawu. Plus reguła
+nazywania artykułów od kategorii. Standard §18.2.
+
+**Linkowanie wewnętrzne:** każda stopka „Zobacz też" prowadzi teraz do co
+najmniej jednego naszego tekstu, nie tylko do listingów; Kalendarz i Zapowiedzi
+dostały własne stopki. Kontrola: zero martwych linków w całym `dist/`
+(poza `/idz/`, które obsługuje worker).
+
+**Stan:** gotowe, wdrożone i sprawdzone na produkcji
+
+**Dla drugiej strony (COWORK):** dwie rzeczy do rozstrzygnięcia z Markiem.
+
+1. **Duplikat standardu.** Skille `lego-standard-redakcyjny` i
+   `klocki-standard-sprzedazowy` powstały z plików `1-Metodologia` / `1-standard`
+   i żyją poza tym repo (poziom konta, nie `.claude/skills/`). W repo mamy
+   `redakcja/standard-artykulow-biezacych.md` (dziś **wersja 1.4**) oraz
+   `redakcja/metodologia-researchu-lego.md`, wskazane w CLAUDE.md jako
+   obowiązująca podstawa. To dwie kopie tego samego, które będą się rozjeżdżać
+   — wersja 1.4 (§18.1 ceny i linki, §18.2 kategorie i nazewnictwo) jest **tylko
+   w repo**. Do decyzji: albo skill wskazuje na pliki w repo, albo przenosimy go
+   do `.claude/skills/` i trzymamy jedną kopię.
+2. **Trzy prezentowniki pod adresem `/artykuly/`** — „na rozpoczęcie roku
+   szkolnego" (rodzinny, chłopiec, dziewczynka). Są w dziale Prezentowniki, ale
+   URL mają w `/artykuly/`. Nie ruszam: adresy są zaindeksowane, przeniesienie
+   wymaga przekierowań 301 w workerze. Jeśli mają wylądować pod
+   `/prezentowniki/`, to osobne zadanie z redirectami.
+
+**Uwagi:** `/kolekcjoner/` i `/zapowiedzi-lego-2027/` nadal działają pod swoimi
+adresami — zniknęły tylko z menu, więc nic zaindeksowanego się nie zepsuło.
+
 ## 2026-08-26 17:20 · CODE · Fala City przeniesiona do kategorii Premiera + tag odbiorcy „Dla rodziców"
 
 **Zrobione:**
