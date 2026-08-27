@@ -30,9 +30,10 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-27",
-      "uzupelnione_lacznie": 2235,
+      "uzupelnione_lacznie": 2355,
       "ostatnie_serie": [
-        "Star Wars"
+        "Star Wars",
+        "Technic"
       ]
     },
     "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252)."
@@ -10785,70 +10786,80 @@
       "nazwa": "The Mandalorian's N-1 Starfighter",
       "rok": 2024,
       "elementy": 50,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912406",
       "nazwa": "Imperial Shuttle",
       "rok": 2024,
       "elementy": 46,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912407",
       "nazwa": "501st Specialist",
       "rok": 2024,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912408",
       "nazwa": "Darth Vader",
       "rok": 2024,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912408-2",
       "nazwa": "Darth Vader",
       "rok": 2024,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912409",
       "nazwa": "Clone Trooper",
       "rok": 2024,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912410",
       "nazwa": "TIE Pilot",
       "rok": 2024,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912411",
       "nazwa": "T-6 Jedi Shuttle",
       "rok": 2024,
       "elementy": 39,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912412",
       "nazwa": "The Marauder",
       "rok": 2024,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912413",
       "nazwa": "Inquisitor Transport Scythe",
       "rok": 2024,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30708",
@@ -10863,14 +10874,16 @@
       "nazwa": "Ośrodek szkoleniowy na Kamino",
       "rok": 2025,
       "elementy": 190,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "40771",
       "nazwa": "Myśliwiec TIE ze stanowiskiem w imperialnym hangarze",
       "rok": 2025,
       "elementy": 236,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "40806",
@@ -10885,49 +10898,56 @@
       "nazwa": "Ahsoka Tano",
       "rok": 2025,
       "elementy": 8,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6573698",
       "nazwa": "Star Wars U-wing",
       "rok": 2025,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6573699",
       "nazwa": "Grogu M&T",
       "rok": 2025,
       "elementy": 51,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6596072",
       "nazwa": "Star Wars Celebration Japan 2025 Promotional Tile",
       "rok": 2025,
       "elementy": 1,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6615760",
       "nazwa": "Trench Run",
       "rok": 2025,
       "elementy": 138,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66804",
       "nazwa": "Star Wars: The Clone Wars and The Mandalorian Gift Set",
       "rok": 2025,
       "elementy": 423,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66808",
       "nazwa": "Epic Battle Set",
       "rok": 2025,
       "elementy": 1308,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75399",
@@ -11094,7 +11114,8 @@
       "nazwa": "Gwiazda Śmierci",
       "rok": 2025,
       "elementy": 9023,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 4199.99
     },
     {
       "numer": "75428",
@@ -11165,91 +11186,104 @@
       "nazwa": "Mandalorian Nite Owl",
       "rok": 2025,
       "elementy": 14,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912502",
       "nazwa": "Qui-Gon Jinn",
       "rok": 2025,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912503",
       "nazwa": "Imperial Commando",
       "rok": 2025,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912504",
       "nazwa": "Praetorian Guard",
       "rok": 2025,
       "elementy": 9,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912505",
       "nazwa": "Juggernaut",
       "rok": 2025,
       "elementy": 65,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912506",
       "nazwa": "TIE Defender",
       "rok": 2025,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912507",
       "nazwa": "Luke Skywalker",
       "rok": 2025,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912508",
       "nazwa": "The Mandalorian",
       "rok": 2025,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912509",
       "nazwa": "Darth Maul",
       "rok": 2025,
       "elementy": 7,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912510",
       "nazwa": "Droideka",
       "rok": 2025,
       "elementy": 30,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912511",
       "nazwa": "Clone Shock Trooper",
       "rok": 2025,
       "elementy": 6,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912512",
       "nazwa": "U-wing",
       "rok": 2025,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "912513",
       "nazwa": "Jango Fett's Starship",
       "rok": 2025,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30727",
@@ -11272,56 +11306,64 @@
       "nazwa": "Mroczny Miecz",
       "rok": 2026,
       "elementy": 278,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "5010204",
       "nazwa": "Grogu in Pram",
       "rok": 2026,
       "elementy": 85,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5010305",
       "nazwa": "The Mandalorian and Grogu",
       "rok": 2026,
       "elementy": 147,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5010391",
       "nazwa": "Bo Katan",
       "rok": 2026,
       "elementy": 133,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6626047",
       "nazwa": "Landspeeder",
       "rok": 2026,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6626049",
       "nazwa": "N-1 Starfighter",
       "rok": 2026,
       "elementy": 43,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6626051",
       "nazwa": "Bantha",
       "rok": 2026,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66821",
       "nazwa": "Star Wars: Trooper & Droid Battle Pack",
       "rok": 2026,
       "elementy": 592,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75420",
@@ -13745,553 +13787,632 @@
       "nazwa": "Fork-Lift Truck",
       "rok": 1977,
       "elementy": 210,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "851",
       "nazwa": "Tractor",
       "rok": 1977,
       "elementy": 318,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "852",
       "nazwa": "Helicopter",
       "rok": 1977,
       "elementy": 364,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "853",
       "nazwa": "Car Chassis",
       "rok": 1977,
       "elementy": 601,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "870",
       "nazwa": "Technical Motor, 4.5V",
       "rok": 1977,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "871",
       "nazwa": "Supplementary Set",
       "rok": 1977,
       "elementy": 78,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "98959",
       "nazwa": "Motor set",
       "rok": 1977,
       "elementy": 40,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "854",
       "nazwa": "Go-Kart",
       "rok": 1978,
       "elementy": 206,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "855",
       "nazwa": "Mobile Crane",
       "rok": 1978,
       "elementy": 512,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "872",
       "nazwa": "Two Gear Blocks",
       "rok": 1978,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "948",
       "nazwa": "Go-Kart",
       "rok": 1978,
       "elementy": 206,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "952",
       "nazwa": "Farm Tractor",
       "rok": 1978,
       "elementy": 316,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "954",
       "nazwa": "Sky Copter",
       "rok": 1978,
       "elementy": 365,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "956",
       "nazwa": "Auto Chassis",
       "rok": 1978,
       "elementy": 599,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "960",
       "nazwa": "Power Pack",
       "rok": 1978,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "961",
       "nazwa": "Parts Pack",
       "rok": 1978,
       "elementy": 78,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "856",
       "nazwa": "Bulldozer",
       "rok": 1979,
       "elementy": 372,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "857",
       "nazwa": "Motorbike with Sidecar",
       "rok": 1979,
       "elementy": 409,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "874",
       "nazwa": "Yellow Beams with Connector Pegs",
       "rok": 1979,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "875",
       "nazwa": "Red Beams with Connector Pegs",
       "rok": 1979,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "876",
       "nazwa": "Blue Beams with Connector Pegs",
       "rok": 1979,
       "elementy": 38,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "877",
       "nazwa": "Steering Gear Parts",
       "rok": 1979,
       "elementy": 24,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "878",
       "nazwa": "Piston Parts",
       "rok": 1979,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "879",
       "nazwa": "Gear Wheels with Chain Links",
       "rok": 1979,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "880",
       "nazwa": "12 Volt Motor",
       "rok": 1979,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "950",
       "nazwa": "Forklift",
       "rok": 1979,
       "elementy": 208,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "951",
       "nazwa": "Bulldozer",
       "rok": 1979,
       "elementy": 372,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "955",
       "nazwa": "Mobile Crane",
       "rok": 1979,
       "elementy": 512,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "858",
       "nazwa": "Auto Engines",
       "rok": 1980,
       "elementy": 242,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8857-2",
       "nazwa": "Motorcycles",
       "rok": 1980,
       "elementy": 377,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8858-2",
       "nazwa": "Engines",
       "rok": 1980,
       "elementy": 240,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8860",
       "nazwa": "Car Chassis",
       "rok": 1980,
       "elementy": 668,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8710",
       "nazwa": "Technical Elements",
       "rok": 1981,
       "elementy": 124,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8844",
       "nazwa": "Helicopter",
       "rok": 1981,
       "elementy": 316,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8845",
       "nazwa": "Dune Buggy",
       "rok": 1981,
       "elementy": 174,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8848",
       "nazwa": "Power Truck",
       "rok": 1981,
       "elementy": 398,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8859",
       "nazwa": "Tractor",
       "rok": 1981,
       "elementy": 610,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8030",
       "nazwa": "Universal Set",
       "rok": 1982,
       "elementy": 141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8050",
       "nazwa": "Universal Motor Set",
       "rok": 1982,
       "elementy": 141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8090",
       "nazwa": "Universal Set",
       "rok": 1982,
       "elementy": 266,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8700",
       "nazwa": "Power Pack",
       "rok": 1982,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8846",
       "nazwa": "Tow Truck",
       "rok": 1982,
       "elementy": 379,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1924",
       "nazwa": "Motorcycle",
       "rok": 1983,
       "elementy": 103,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8841",
       "nazwa": "Dune Buggy",
       "rok": 1983,
       "elementy": 180,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8847",
       "nazwa": "Dragster",
       "rok": 1983,
       "elementy": 250,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8020",
       "nazwa": "Universal Set",
       "rok": 1984,
       "elementy": 119,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8040",
       "nazwa": "Universal Set",
       "rok": 1984,
       "elementy": 163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8843",
       "nazwa": "Fork-Lift Truck",
       "rok": 1984,
       "elementy": 269,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8851",
       "nazwa": "Excavator",
       "rok": 1984,
       "elementy": 347,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1972",
       "nazwa": "Go-Kart",
       "rok": 1985,
       "elementy": 98,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8035",
       "nazwa": "Universal Set",
       "rok": 1986,
       "elementy": 174,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8055",
       "nazwa": "Universal Motor Set",
       "rok": 1986,
       "elementy": 191,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8620",
       "nazwa": "Snow Scooter",
       "rok": 1986,
       "elementy": 100,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8640",
       "nazwa": "Polar Copter",
       "rok": 1986,
       "elementy": 238,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8660",
       "nazwa": "Arctic Rescue Unit",
       "rok": 1986,
       "elementy": 385,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8680",
       "nazwa": "Arctic Rescue Base",
       "rok": 1986,
       "elementy": 523,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8842",
       "nazwa": "Go-Kart",
       "rok": 1986,
       "elementy": 281,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8849",
       "nazwa": "Tractor",
       "rok": 1986,
       "elementy": 346,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8852",
       "nazwa": "Robot",
       "rok": 1987,
       "elementy": 327,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8712",
       "nazwa": "Technic Figures",
       "rok": 1988,
       "elementy": 10,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8832",
       "nazwa": "Roadster",
       "rok": 1988,
       "elementy": 86,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8853",
       "nazwa": "Excavator",
       "rok": 1988,
       "elementy": 326,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8855",
       "nazwa": "Prop Plane",
       "rok": 1988,
       "elementy": 569,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8865",
       "nazwa": "Test Car",
       "rok": 1988,
       "elementy": 900,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8024",
       "nazwa": "Universal Set",
       "rok": 1989,
       "elementy": 113,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8034",
       "nazwa": "Universal Set",
       "rok": 1989,
       "elementy": 187,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8044",
       "nazwa": "Universal Pneumatic Set",
       "rok": 1989,
       "elementy": 198,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8054",
       "nazwa": "Universal Motor Set",
       "rok": 1989,
       "elementy": 196,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8835",
       "nazwa": "Forklift",
       "rok": 1989,
       "elementy": 240,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8854",
       "nazwa": "Power Crane",
       "rok": 1989,
       "elementy": 516,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8862",
       "nazwa": "Backhoe Grader",
       "rok": 1989,
       "elementy": 671,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8064",
       "nazwa": "Universal Motor Set",
       "rok": 1990,
       "elementy": 219,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8094",
       "nazwa": "Control Centre",
       "rok": 1990,
       "elementy": 546,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8720",
       "nazwa": "9V Motor Set",
       "rok": 1990,
       "elementy": 57,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8825",
       "nazwa": "Night Chopper",
       "rok": 1990,
       "elementy": 116,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8830",
       "nazwa": "Rally 6-Wheeler",
       "rok": 1990,
       "elementy": 171,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8840",
       "nazwa": "Rally Shock & Roll Racer",
       "rok": 1990,
       "elementy": 225,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8850",
       "nazwa": "Rally Support Truck",
       "rok": 1990,
       "elementy": 354,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8074",
       "nazwa": "Universal Set with Flex System",
       "rok": 1991,
       "elementy": 313,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8810",
