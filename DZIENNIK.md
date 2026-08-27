@@ -815,3 +815,32 @@ sprawiają, że rabat policzony z takiej ceny byłby niewiarygodny.
 Przy tempie 6 setów dziennie 831 pilnych luk to ponad cztery miesiące, czyli
 po sezonie. Kolejność do ustalenia: czy Scout ma dalej dokładać po kilka
 dziennie, czy uruchamiamy osobną sesję redakcyjną na czołówkę listy.
+
+## 2026-08-27 (2) · CODE (Radar) · Super Mario 2027 + Insiders w Poradnikach
+
+**Zrobione:**
+- Nowy artykuł `/artykuly/lego-super-mario-2027-minifigurki/` (kategoria
+  *Premiery*). Restart serii potwierdzony oficjalnie na Gamescom 2026:
+  osiem zestawów 1.01.2027 (72052–72061, 9,99–99,99 USD), dziesięć
+  debiutujących minifigurek, koniec elektronicznej figurki po sześciu latach.
+  Cen w zł nie przeliczamy — brak oficjalnego cennika PL.
+- Szkic o zmianie zasad nagród Insiders opublikowany: `redakcja/szkice/` →
+  `src/pages/artykuly/`, kategoria **Poradniki** (pierwszy tekst w tym
+  dziale — filtr na `/artykuly/` przestał być wyszarzony). Dopisana
+  przedsprzedaż 75457 Executor 1.10 wyłączna dla Insiders.
+  `redakcja/szkice/README.md`: zero szkiców czekających na akceptację.
+- `/zapowiedzi-lego-2027/`: sekcja Super Mario z plakietką „potwierdzone",
+  dwa wiersze w tabeli przeglądowej, poprawione FAQ — twierdziło, że żaden
+  zestaw 2027 nie jest oficjalnie ogłoszony, co przestało być prawdą.
+
+**Do zrobienia (zgłoszone, nie wykonane):**
+- **Żaden z 37 zestawów Super Mario nie jest oznaczony na `/wycofania/`**,
+  mimo że branżowe zestawienia mówią o wycofaniu całej interaktywnej linii
+  do końca 2026. Artykuł to jawnie sygnalizuje czytelnikowi, ale lista
+  wymaga uzupełnienia po potwierdzeniu terminów u źródła.
+- 75394 / 75419 / 75639 bez ceny katalogowej; 75639 brakowało w `katalog.json`.
+
+**Do decyzji Marka (wciąż otwarte z 26.08):**
+- 80120/80121 (Chinese Festivals) — rozjazd serii między `sety.json`
+  a `katalog.json`; SMART Play zostaje jak jest, Halloween → Seasonal.
+- Która forma nazwy jest kanoniczna przy 28 rozbieżnościach nazw.
