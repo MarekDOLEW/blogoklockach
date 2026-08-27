@@ -16,8 +16,14 @@
 //   node scripts/eksport-skilli.mjs            # buduje do skille/
 //   node scripts/eksport-skilli.mjs --sprawdz  # tylko kontrola spójności
 //
-// Po zbudowaniu paczki wgrywa się na claude.ai (Settings -> Skills). Stamtąd
-// synchronizują się same do Coworku i do Claude Code (~/.claude/skills/synced/).
+// Paczki lądują w `.claude/skills/` — to katalog skilli projektowych, który
+// Claude Code czyta sam przy starcie sesji w tym repo. Czyli po eksporcie
+// i commicie Code ma nowe standardy od ręki, bez żadnego wgrywania.
+//
+// Cowork czyta skille z konta (claude.ai -> Settings -> Skills), a synchronizacja
+// idzie tylko w jedną stronę: serwer -> kontener. Z sesji nie da się wypchnąć
+// skilla na konto — dlatego skrypt buduje dodatkowo pliki .skill w `skille/`,
+// gotowe do przeciągnięcia w ustawieniach.
 
 import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, existsSync } from 'node:fs';
 
@@ -221,14 +227,16 @@ const paczki = [
   },
 ];
 
-if (existsSync(repo('skille'))) rmSync(repo('skille'), { recursive: true });
 for (const p of paczki) {
-  mkdirSync(new URL(`../skille/${p.nazwa}/references`, import.meta.url), { recursive: true });
-  writeFileSync(new URL(`../skille/${p.nazwa}/SKILL.md`, import.meta.url), p.skill);
+  const kat = `.claude/skills/${p.nazwa}`;
+  if (existsSync(repo(kat))) rmSync(repo(kat), { recursive: true });
+  mkdirSync(new URL(`../${kat}/references`, import.meta.url), { recursive: true });
+  writeFileSync(new URL(`../${kat}/SKILL.md`, import.meta.url), p.skill);
   for (const [plik, tresc] of Object.entries(p.pliki)) {
-    writeFileSync(new URL(`../skille/${p.nazwa}/references/${plik}`, import.meta.url), tresc);
+    writeFileSync(new URL(`../${kat}/references/${plik}`, import.meta.url), tresc);
   }
   const kb = Math.round(Object.values(p.pliki).reduce((s, t) => s + t.length, p.skill.length) / 1024);
-  console.log(`  ${p.nazwa.padEnd(26)} SKILL.md + ${Object.keys(p.pliki).length} plików · ${kb} KB`);
+  console.log(`  ${p.nazwa.padEnd(26)} SKILL.md + ${Object.keys(p.pliki).length} plików · ${kb} KB -> ${kat}`);
 }
-console.log('\nPaczki w skille/. Wgraj je na claude.ai -> Settings -> Skills.');
+console.log('\nClaude Code w tym repo ma je od razu (.claude/skills/).');
+console.log('Dla Coworku: node scripts/spakuj-skille.mjs -> pliki .skill do wgrania na claude.ai.');

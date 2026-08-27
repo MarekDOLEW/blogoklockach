@@ -14,11 +14,19 @@ zadania cykliczne (runnery) i sesje robocze.
 ## Skille i standardy — jedno źródło
 
 Standard redakcyjny i metodologia mieszkają **wyłącznie w `redakcja/`**. Skille
-na claude.ai (`lego-standard-redakcyjny` dla działu Artykuły,
-`lego-standard-sprzedazowy` dla Prezentowników i krótkich form) są z nich
-generowane: `node scripts/eksport-skilli.mjs` → paczki w `skille/` → wgranie na
-claude.ai. **Nigdy nie edytujemy skilla na claude.ai** — poprawka przepadnie przy
-następnym eksporcie, a repo i skill znowu się rozjadą.
+`lego-standard-redakcyjny` (dział Artykuły) i `lego-standard-sprzedazowy`
+(Prezentowniki i krótkie formy) są z nich **generowane**:
+
+    node scripts/eksport-skilli.mjs    # -> .claude/skills/, Code czyta od razu
+    node scripts/spakuj-skille.mjs     # -> skille/*.skill do wgrania na claude.ai
+
+Claude Code w tym repo bierze je z `.claude/skills/` bez żadnego wgrywania.
+Cowork czyta skille z konta, a synchronizacja idzie **tylko w jedną stronę**
+(serwer → kontener), więc paczkę `.skill` wgrywa człowiek w Settings → Skills.
+
+**Nigdy nie edytujemy skilla na claude.ai ani plików w `.claude/skills/`** —
+poprawka przepadnie przy następnym eksporcie, a repo i skill znowu się rozjadą.
+Zmieniamy dokument w `redakcja/` i uruchamiamy eksport.
 
 Dokumenty wspólnika (`standard-artykulow-biezacych.md`,
 `metodologia-researchu-lego.md`) trzymamy verbatim; nasze ustalenia dopisujemy

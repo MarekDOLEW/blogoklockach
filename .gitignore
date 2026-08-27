@@ -5,3 +5,7 @@ dist/
 
 # metadane Findera (macOS) — tworzą się same w każdym otwartym katalogu
 .DS_Store
+
+# Paczki .skill dla claude.ai — generowane z .claude/skills/ przez
+# scripts/spakuj-skille.mjs. Źródłem jest repo, nie ma po co wersjonować zipów.
+skille/
