@@ -38,6 +38,7 @@ const standard = czytaj('redakcja/standard-artykulow-biezacych.md');
 const metodologia = czytaj('redakcja/metodologia-researchu-lego.md');
 const ustalenia = czytaj('redakcja/ustalenia-projektowe.md');
 const sklepy = czytaj('redakcja/sklepy-i-afiliacja.md');
+const persony = czytaj('redakcja/persony-czytelnikow.md');
 
 // ── kontrola spójności: czy każda kategoria ma wzorzec ──
 const wzorce = {
@@ -132,6 +133,7 @@ codziennie. Ręcznie wpisana kwota z datą starzeje się w tydzień.
 | \`references/metodologia-researchu.md\` | hierarchia źródeł, mapa recenzji, karta researchu (wersja ${wersja(metodologia)}) |
 | \`references/ustalenia-projektowe.md\` | warstwa tylkoklocki.pl — ceny, linki, kategorie, ograniczenia |
 | \`references/sklepy-i-afiliacja.md\` | rejestr sklepów, wybór sklepów publikacyjnych |
+| \`references/persony-czytelnikow.md\` | RODZIC i AFOL — czego każde z nich potrzebuje |
 | \`references/wzorzec-recenzja.md\` | gotowy szkielet recenzji zestawu |
 
 Czytaj je na żądanie — nie wciągaj wszystkich naraz. Do recenzji potrzebujesz
@@ -199,6 +201,7 @@ niczego tu nie rozstrzyga.
 | \`references/wzorzec-prezentownik.md\` | szkielet prezentownika serii, drabina ośmiu progów |
 | \`references/ustalenia-projektowe.md\` | ceny, linki, ograniczenia infrastruktury |
 | \`references/sklepy-i-afiliacja.md\` | wybór sklepów publikacyjnych, bezstronność afiliacji |
+| \`references/persony-czytelnikow.md\` | RODZIC i AFOL — dwie tonacje, o których mówi opis skilla |
 | \`references/standard-artykulow.md\` | standard redakcyjny — do zajrzenia przy ocenie zestawu |
 `;
 
@@ -213,6 +216,7 @@ const paczki = [
       'ustalenia-projektowe.md': ustalenia,
       'sklepy-i-afiliacja.md': sklepy,
       'wzorzec-recenzja.md': czytaj('redakcja/wzorce/recenzja-zestawu.md'),
+      'persony-czytelnikow.md': persony,
     },
   },
   {
@@ -220,6 +224,7 @@ const paczki = [
     skill: sprzedazowy,
     pliki: {
       'wzorzec-prezentownik.md': czytaj('redakcja/wzorce/prezentownik-serii.md'),
+      'persony-czytelnikow.md': persony,
       'ustalenia-projektowe.md': ustalenia,
       'sklepy-i-afiliacja.md': sklepy,
       'standard-artykulow.md': standard,

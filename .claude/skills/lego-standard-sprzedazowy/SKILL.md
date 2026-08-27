@@ -65,4 +65,5 @@ niczego tu nie rozstrzyga.
 | `references/wzorzec-prezentownik.md` | szkielet prezentownika serii, drabina ośmiu progów |
 | `references/ustalenia-projektowe.md` | ceny, linki, ograniczenia infrastruktury |
 | `references/sklepy-i-afiliacja.md` | wybór sklepów publikacyjnych, bezstronność afiliacji |
+| `references/persony-czytelnikow.md` | RODZIC i AFOL — dwie tonacje, o których mówi opis skilla |
 | `references/standard-artykulow.md` | standard redakcyjny — do zajrzenia przy ocenie zestawu |

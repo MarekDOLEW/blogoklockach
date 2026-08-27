@@ -74,6 +74,7 @@ codziennie. Ręcznie wpisana kwota z datą starzeje się w tydzień.
 | `references/metodologia-researchu.md` | hierarchia źródeł, mapa recenzji, karta researchu (wersja 1.7) |
 | `references/ustalenia-projektowe.md` | warstwa tylkoklocki.pl — ceny, linki, kategorie, ograniczenia |
 | `references/sklepy-i-afiliacja.md` | rejestr sklepów, wybór sklepów publikacyjnych |
+| `references/persony-czytelnikow.md` | RODZIC i AFOL — czego każde z nich potrzebuje |
 | `references/wzorzec-recenzja.md` | gotowy szkielet recenzji zestawu |
 
 Czytaj je na żądanie — nie wciągaj wszystkich naraz. Do recenzji potrzebujesz

@@ -24,6 +24,42 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-27 07:35 · CODE · Persony czytelnika uratowane ze skilla klocki-redaktor
+
+**Powód:** `klocki-redaktor` (wersja z 11.08) idzie do skasowania — jest trzecim,
+nieaktualnym standardem, który w kilku miejscach mówi wprost odwrotnie niż to,
+co wczoraj naprawialiśmy:
+
+| klocki-redaktor | obowiązuje dziś |
+|---|---|
+| „każda cena z datą sprawdzenia" | Standard §18 — bez daty w treści |
+| „ramka cen: tabela 3–5 sklepów z datą" | znacznik `ceny-setu`, tabela generowana |
+| `[AFF:sklep:set]`, `[IMG:numer]` | `[wstaw link afiliacyjny]`, `galeria-setow` |
+| „ocena okazji, skala 1–5 klocków" | §21 i §27 — bez arbitralnej skali punktowej |
+| „kategoria z drzewa serwisu" | siedem stałych kategorii |
+
+To dokładnie ten skill, który podpowiadałby wklejanie zamrożonych tabel z datą.
+
+**Uratowane:** opis dwóch person czytelnika (RODZIC 60% ruchu, AFOL 40%) —
+motywacje, lęki, język, czego każde z nich potrzebuje w tekście. Nowe skille
+mówiły o „dwóch tonacjach", ale nigdzie ich nie opisywały.
+→ `redakcja/persony-czytelnikow.md`, wchodzi do **obu** paczek skilli.
+
+Dopisałem trzy rzeczy, których w oryginale nie było, a wynikają z naszych
+ustaleń: wskazujemy jedną personę główną (nie obie naraz), persona zmienia
+kolejność faktów a nie ocenę zestawu, i zakaz stereotypów płciowych obowiązuje
+niezależnie od persony.
+
+**Stan:** gotowe; `klocki-redaktor` można kasować bez straty
+
+**Dla drugiej strony (COWORK):** przy okazji wgrywania skilli — skasuj też
+`klocki-redaktor` (`skill_01GoRinYCXheZf4C8ahA17Zk`). Wartościowa część jest
+już w repo.
+
+**Uwagi:** nie mam jak zweryfikować, czy wczorajsze wgranie skilli się udało —
+kopia z konta w kontenerze pochodzi z 26.08 07:02, a synchronizacja idzie przy
+starcie sesji. Sprawdzenie po stronie Coworku: zapytać go, jakie ma skille.
+
 ## 2026-08-27 07:05 · CODE · Skille redakcyjne — zadanie wgrania dla Coworku
 
 **Dla drugiej strony (COWORK):** wgraj dwa skille na konto claude.ai.
