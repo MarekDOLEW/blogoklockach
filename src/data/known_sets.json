@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-08-26",
+  "data_aktualizacji": "2026-08-27",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 260,
+  "liczba_setow": 261,
   "sety": [
     "10300",
     "10316",
@@ -206,6 +206,7 @@
     "75454",
     "75455",
     "75456",
+    "75457",
     "75458",
     "75459",
     "75461",
@@ -397,16 +398,22 @@
       "status": "NOWE 2026-08-26: numery 11222 i 11223 zarezerwowane w Brickset na rocznik 2027, bez nazw i danych."
     },
     {
-      "numer": "75457",
-      "nazwa": "nieujawniony UCS Star Wars — najwiekszy zestaw rocznika 2026",
-      "premiera": "2026-10",
-      "status": "NOWE 2026-08-26. Brickset: 6130 elementow, Star Wars / Ultimate Collector Series, 18+, premiera 2026-10-01, availability 'Retail', category 'Normal' — czyli normalny zestaw detaliczny, nie promocja. Nazwa wciaz {?}, brak RRP na wszystkich czterech rynkach (US/UK/CA/DE puste). Karta ostatnio aktualizowana 2026-07-07. To NAJWIEKSZY zestaw calego rocznika 2026 — wiecej elementow niz Minas Tirith (8278 el. to Icons, wsrod UCS Star Wars 6130 plasuje go w scislej czolowce linii). Zaden z naszych trzech serwisow zrodlowych o nim nie pisal — wychwycony wylacznie z API. Priorytet najwyzszy: karta researchu powinna byc gotowa PRZED 1 pazdziernika."
-    },
-    {
       "numer": "40875",
       "nazwa": "nieujawniony zestaw Seasonal",
       "premiera": "2026-10",
       "status": "NOWE 2026-08-26: 904 elementy, 10+, premiera 2026-10-01, nazwa {?}, brak ceny. Czwarty set z pazdziernikowej fali."
+    },
+    {
+      "numer": "40897",
+      "nazwa": "Świetlny miecz Dartha Vadera (GWP)",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-08-27: 174 elementy, Star Wars / Promotional, 18+, premiera 2026-10-01, jeszcze niewydany, bez ceny — czyli gratis promocyjny. Wg StoneWars dodatek do dużego UCS-a 75457. Potwierdzone kartą Brickset co do numeru, wielkości i daty; powiązanie z 75457 na razie z jednego źródła."
+    },
+    {
+      "numer": "fala-super-mario-2027",
+      "nazwa": "Super Mario — styczniowa fala 2027 (8 zestawów)",
+      "premiera": "2027-01",
+      "status": "NOWE 2026-08-27: wszystkie osiem numerów zarezerwowanych 26.08 dostało nazwy i ceny w Brickset. 72052 Mario's Pipe Jump (61 el., 9,99 EUR), 72054 Racing with Mario (84, 14,99), 72055 Mario's Beach Adventures (196, 19,99), 72056 Luigi & Bowser Jr.'s Race (104, 29,99), 72057 Yoshi at Mario's House (147, 39,99), 72058 Bowser's Rumbling Race (409, 59,99), 72060 Fire Mario & Bowser's Castle (850, 99,99), 72061 Fire Luigi vs. Koopa Troopa Battle (241, 29,99). StoneWars potwierdza niezależnie i dodaje kluczowy szczegół: to pierwsza fala Super Mario Z MINIFIGURKAMI zamiast dotychczasowych figurek elektronicznych. Jeśli tak jest, to zmiana formuły całej linii, a nie kolejny rocznik — temat na osobny tekst. Do potwierdzenia zdjęciami lub drugim źródłem."
     }
   ],
   "luki_w_bazie": {
@@ -4709,6 +4716,7 @@
         "wiek": "10+"
       }
     ],
-    "rekomendacja": "Trzy z czterech to zestawy 18+ o duzej liczbie elementow, czyli wysoka cena katalogowa i wysoka prowizja z jednej konwersji. Karty researchu warto miec gotowe przed 1 pazdziernika, a nie pisac po fakcie. Scout powinien sledzic te cztery numery codziennie przez updatedSince — ujawnienie nazwy i ceny w Brickset bedzie pierwszym twardym sygnalem."
+    "rekomendacja": "Trzy z czterech to zestawy 18+ o duzej liczbie elementow, czyli wysoka cena katalogowa i wysoka prowizja z jednej konwersji. Karty researchu warto miec gotowe przed 1 pazdziernika, a nie pisac po fakcie. Scout powinien sledzic te cztery numery codziennie przez updatedSince — ujawnienie nazwy i ceny w Brickset bedzie pierwszym twardym sygnalem.",
+    "status_2026_08_27": "75457 UJAWNIONY: Executor — supergwiezdny niszczyciel, 6130 el., 136 cm, 749,99 EUR (DE), premiera 2026-10-01, released=True. Przeniesiony z zapowiedzi do sety.json. Dołączył do fali gratis promocyjny 40897 (świetlny miecz Vadera, 174 el.). 72306, 11379 i 40875 nadal bez nazw."
   }
 }
