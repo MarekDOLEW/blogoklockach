@@ -24,6 +24,38 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-27 07:05 · CODE · Skille redakcyjne — zadanie wgrania dla Coworku
+
+**Dla drugiej strony (COWORK):** wgraj dwa skille na konto claude.ai.
+
+    git pull origin main
+    node scripts/spakuj-skille.mjs        # -> skille/*.skill
+
+Potem w ustawieniach skilli na claude.ai:
+
+1. **skasuj `klocki-standard-sprzedazowy`** (`skill_01Se74bhez3aMwXW7YVBJnZA`) —
+   zastąpiony przez `lego-standard-sprzedazowy`, granica przesunięta z „do 5
+   pozycji" na dział serwisu;
+2. wgraj `skille/lego-standard-sprzedazowy.skill`;
+3. wgraj `skille/lego-standard-redakcyjny.skill`, **nadpisując** istniejący
+   (`skill_01EPaKf6XtHsyK7B6egHwWcy`) — nazwa się nie zmienia.
+
+**Do rozważenia przy okazji:** `klocki-redaktor`
+(`skill_01GoRinYCXheZf4C8ahA17Zk`) łapie „prezentownik, ranking, poradnik
+zakupowy, post dealowy" i nie ma żadnej granicy wobec nowych standardów. Przy
+„zrób prezentownik" konkuruje z `lego-standard-sprzedazowy`. Albo skasować, albo
+zawęzić opis tak, żeby wprost odsyłał do `lego-standard-*` w sprawach standardu.
+
+**Kolejność ma znaczenie:** Marek zmienia dziś z Piotrem dokumenty redakcyjne.
+Jeśli zmiany wejdą do `redakcja/` po wgraniu, trzeba będzie wgrywać drugi raz.
+Sensowniej: najpierw zmiany w repo, potem jeden eksport i jedno wgranie.
+
+**Stan:** czeka na Cowork
+
+**Uwagi:** Claude Code w tym repo ma oba skille od razu z `.claude/skills/` —
+sprawdzone, wstają w sesji. Wgranie na konto jest potrzebne wyłącznie dla
+Coworku. Skille edytujemy tylko przez `redakcja/` + `node scripts/eksport-skilli.mjs`.
+
 ## 2026-08-27 06:50 · CODE · Dwa skille standardów generowane z repo — koniec rozjazdu
 
 **Rozjazd zlikwidowany u przyczyny.** Standard i metodologia istniały w dwóch
