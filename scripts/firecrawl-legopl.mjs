@@ -5,13 +5,12 @@
 // w tym środowisku nie ma sieci wychodzącej. Firecrawl renderuje stronę u siebie
 // i oddaje gotowe dane, więc zaciąg da się odpalać z runnera bez człowieka.
 //
-// Ekstrakcja idzie przez schemat (format `json`), a nie przez parsowanie HTML —
-// przebudowa listingu w sklepie nie wywali wtedy zadania cyklicznego. UWAGA: to
-// tryb ~5× droższy od surowego markdownu (patrz RUNBOOK) i z definicji podatny
-// na zmyślone wartości, dlatego każda cena przechodzi kontrolę polskiej drabiny
-// (.99/.49/.00) — pozycje spoza drabiny są odrzucane i wypisywane na koniec.
-// Po pierwszym udanym przebiegu warto obejrzeć markdown listingu i — jeśli da
-// się z niego czytać regułą — dopisać tańszy tryb.
+// Domyślnie czytamy MARKDOWN i parsujemy go regułą (scripts/parser-legopl.mjs).
+// Ekstrakcja przez model jest w odwodzie (--tryb ekstrakcja), bo kosztuje 5×
+// więcej (5 kredytów za stronę wobec 1) i — sprawdzone 28.08.2026 na pierwszej
+// stronie listingu — myli liczbę elementów z ceną przed obniżką: dla wszystkich
+// 22 kafelków wstawiła `priceBefore` równe liczbie klocków. Do rejestru cen
+// katalogowych, który jest write-once, taki błąd nie może mieć wstępu.
 //
 // PUŁAPKA CENOWA (patrz RUNBOOK): na listingu `price` to cena BIEŻĄCA — przy
 // promocji obniżona. Ceną katalogową jest wtedy `priceBefore`. Status
@@ -32,7 +31,8 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
-import { ekstrakcja } from './firecrawl.mjs';
+import { ekstrakcja, scrape } from './firecrawl.mjs';
+import { parsujListing } from './parser-legopl.mjs';
 
 const LISTING = 'https://www.lego.com/pl-pl/categories/all-sets';
 const NA_STRONIE = 24; // tyle kafelków oddaje jedna strona listingu
@@ -46,6 +46,11 @@ const wyjscie = opcja('wyjscie') ?? 'katalog-legopl.json';
 const plikRrp = opcja('rrp');
 const limitStron = Number(opcja('strony') ?? 0) || Infinity;
 const zPliku = opcja('z-pliku');
+const tryb = opcja('tryb') ?? 'markdown'; // 'markdown' (tanio, regułą) | 'ekstrakcja' (drogo, modelem)
+if (!['markdown', 'ekstrakcja'].includes(tryb)) {
+  console.error("--tryb przyjmuje 'markdown' albo 'ekstrakcja'.");
+  process.exit(2);
+}
 
 const SCHEMAT = {
   type: 'object',
@@ -90,13 +95,14 @@ const NUMER_Z_URL = /-(\d{4,7})(?:[/?#]|$)/;
 
 const PROMOCJA = /-\s*\d{1,2}\s*%|wyprzeda|czyszczenie magazynu/i;
 
-// LEGO PL wycenia wyłącznie na końcówkach .99 i .49 (grosze .00 zdarzają się
-// przy okrągłych kwotach gadżetów). Cena spoza tej drabiny to nie promocja,
-// tylko błąd odczytu — nie wpuszczamy jej dalej.
+// LEGO PL wycenia zestawy wyłącznie na końcówkach .99 i .49 — w katalogu
+// z 28.08 na 814 zestawów było 805× .99 i 7× .49, ani jednej ceny na pełnych
+// złotówkach. Dlatego .00 NIE jest tu dozwolone: to właśnie kształt liczby
+// elementów, którą ekstrakcja potrafi podstawić w miejsce ceny.
 function cenaZDrabiny(cena) {
   if (typeof cena !== 'number' || cena <= 0) return false;
   const grosze = Math.round(cena * 100) % 100;
-  return grosze === 99 || grosze === 49 || grosze === 0;
+  return grosze === 99 || grosze === 49;
 }
 
 function ustalNumer(url = '') {
@@ -118,6 +124,10 @@ async function pobierzStrone(nr) {
   const url = nr === 1 ? LISTING : `${LISTING}?page=${nr}`;
   for (let proba = 1; proba <= 3; proba++) {
     try {
+      if (tryb === 'markdown') {
+        const dane = scrape(url, { formaty: ['markdown'], czekaj: 3000, dodatkowe: { maxAge: 0 } });
+        return parsujListing(dane?.markdown ?? '');
+      }
       const dane = ekstrakcja(url, SCHEMAT, { polecenie: POLECENIE, czekaj: 3000 });
       return dane?.products ?? [];
     } catch (e) {
@@ -203,7 +213,10 @@ const katalog = {
     promotions: promocje.length,
     pagesScraped: strona,
     ...(bledy.length ? { pagesFailed: bledy } : {}),
-    note: 'Zaciąg automatyczny (scripts/firecrawl-legopl.mjs). Numery z URL produktu.',
+    mode: tryb,
+    note:
+      `Zaciąg automatyczny (scripts/firecrawl-legopl.mjs, tryb ${tryb}). Numery z URL produktu. ` +
+      'Pole category jest orientacyjne — do rejestru cen i tak wchodzą tylko numery z katalogu serwisu.',
   },
   products: produkty,
 };
@@ -229,12 +242,18 @@ if (plikRrp) {
   const ceny = {};
   const spozaKatalogu = {};
   const pozaDrabina = [];
+  const pomylonaZElementami = [];
   let pominiete = 0;
   for (const p of zestawy) {
     const wPromocji = PROMOCJA.test(p.status ?? '') || typeof p.priceBefore === 'number';
     const cena = wPromocji ? p.priceBefore : p.price;
     if (typeof cena !== 'number' || cena <= 0) {
       pominiete += 1; // promocja bez ceny sprzed obniżki — lepiej brak niż zaniżona
+      continue;
+    }
+    if (typeof p.priceBefore === 'number' && p.priceBefore === p.elements) {
+      // klasyczny błąd ekstrakcji: liczba klocków podstawiona jako cena sprzed obniżki
+      pomylonaZElementami.push([p.setNumber, p.priceBefore, p.name]);
       continue;
     }
     if (!cenaZDrabiny(cena)) {
@@ -251,8 +270,12 @@ if (plikRrp) {
       (pominiete ? `, pominięto ${pominiete} (promocja bez ceny sprzed obniżki)` : ''),
   );
 
+  if (pomylonaZElementami.length) {
+    console.log(`\nODRZUCONE — cena sprzed obniżki równa liczbie elementów (błąd ekstrakcji):`);
+    for (const [nr, w, nazwa] of pomylonaZElementami) console.log(`  ${nr}  ${w}  ${nazwa}`);
+  }
   if (pozaDrabina.length) {
-    console.log(`\nODRZUCONE — cena poza polską drabiną (.99/.49/.00), prawdopodobny błąd odczytu:`);
+    console.log(`\nODRZUCONE — cena poza polską drabiną (.99/.49), prawdopodobny błąd odczytu:`);
     for (const [nr, cena, nazwa] of pozaDrabina) console.log(`  ${nr}  ${cena}  ${nazwa}`);
   }
 

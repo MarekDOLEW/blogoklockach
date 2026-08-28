@@ -556,8 +556,35 @@ pierwszeństwo przed wszystkim, więc bramek jest kilka:
 Skrypt odtworzony na katalogu z 28.08 daje **te same 701 cen co wczytane ręcznie,
 zero konfliktów z rejestrem** — reguła jest wierna.
 
-**Koszt.** Skrypt używa ekstrakcji przez schemat, nie parsowania markdownu: runnera
-nikt nie pilnuje, a przebudowa listingu cicho zwróciłaby zero pozycji. To jest ~5×
-drożej niż markdown. Po pierwszym udanym przebiegu warto obejrzeć markdown listingu
-(`node scripts/firecrawl.mjs scrape <url> --wyjscie /tmp/l.md`) i — jeśli da się
-z niego czytać regułą — dopisać tańszy tryb z ekstrakcją jako awarią.
+### Ekstrakcja modelem myli elementy z ceną *(sprawdzone 28.08.2026)*
+
+Próbka pierwszej strony listingu przez Firecrawl, format `json` ze schematem:
+model wstawił `priceBefore` równe liczbie klocków — **we wszystkich 22 kafelkach**.
+SpongeBob 11386: cena 899,99 zł, `priceBefore` 1794 (to liczba elementów).
+Klimt 31221: 1299,99 zł i `priceBefore` 4000. I tak dalej.
+
+Gdyby to poszło do rejestru, wpisałoby ceny katalogowe zawyżone kilkukrotnie —
+a rejestr jest write-once i ma pierwszeństwo przed wszystkim. Pierwsza wersja
+kontroli drabiny **tego nie łapała**, bo dopuszczała końcówkę `.00`, a liczby
+elementów są całkowite. Stąd dwie poprawki:
+
+- drabina to **wyłącznie .99 i .49**; `.00` jest zabronione (w katalogu z 28.08
+  na 814 zestawów: 805× .99, 7× .49, zero pełnych złotówek);
+- osobna bramka odrzuca pozycję, gdy `priceBefore === elements`.
+
+Sprawdzone na tych samych zmyślonych danych: wszystkie 5 testowanych pozycji
+odrzuconych, do rejestru trafia zero.
+
+**Dlatego domyślnym trybem jest markdown, nie ekstrakcja.** `scripts/parser-legopl.mjs`
+czyta kafelki regułą: nagłówek `### [nazwa](url)`, pod nim kwoty, pod nimi etykiety;
+liczba elementów stoi przed nagłówkiem, po znaczniku wieku. Gdy w kafelku są dwie
+kwoty, katalogowa to wyższa. Ekstrakcja została jako `--tryb ekstrakcja`, na wypadek
+gdyby lego.pl przebudowało listing.
+
+**Koszt** (zmierzony, `creditsUsed` z odpowiedzi): markdown **1 kredyt/stronę**,
+ekstrakcja **5**. Pełny katalog to 57 stron, czyli ~57 kredytów miesięcznie zamiast ~285.
+
+Dwie pułapki parsera, obie już obsłużone, ale warto o nich wiedzieć przy zmianach:
+ostatni kafelek na stronie zgarnia stopkę listingu (odcinamy na „Wyświetla N z M"),
+a etykieta statusu musi dopuszczać cyfry — bez nich przepada „Czyszczenie magazynu
+-30%", jedyna informacja przesądzająca o tym, że cena jest promocyjna.
