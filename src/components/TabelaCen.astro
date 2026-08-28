@@ -1,4 +1,5 @@
 ---
+import { relLinku as relSklepu } from '../lib/oferty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 // cenaKatalogowa jest opcjonalna — lekkie huby (spoza sety.json) jej nie znają,
@@ -18,8 +19,9 @@ const maAfiliacje = (sklep) =>
 // zasada: skoro pokazujemy cenę, dajemy przynajmniej zwykły link — worker
 // zna szablony wyszukiwarek sklepów (sklepy.json -> szukaj)
 const maLink = (sklep) => maAfiliacje(sklep) || Boolean(sklepy[sklep]?.szukaj);
-const relLinku = (sklep) =>
-  sklep === 'lego' || !maAfiliacje(sklep) ? 'nofollow' : 'sponsored nofollow';
+// „sponsored" tylko tam, gdzie faktycznie mamy prowizję — lista sklepów bez
+// niej mieszka w lib/oferty.js, żeby wszystkie listingi mówiły to samo.
+const relLinku = (sklep) => (maAfiliacje(sklep) ? relSklepu(sklep, nr) : 'nofollow');
 
 const zLego = dodajLego && !oferty.some((o) => o.sklep === 'lego') && cenaKatalogowa
   ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]

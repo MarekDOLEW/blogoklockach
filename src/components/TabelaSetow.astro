@@ -13,7 +13,12 @@
 // Przekreślona cena katalogowa pojawia się nad ceną, gdy oferta jest od niej
 // wyraźnie niższa — tak widać, że promocja jest prawdziwa.
 
-import { fmtCena, fmtElementy, nazwaSklepu } from '../lib/oferty.js';
+import { fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
+
+// Wiersz nie niesie nazwy sklepu przy linku „Sprawdź cenę", ale ścieżka
+// przekierowania ma postać /idz/<sklep>/<numer> — bierzemy sklep stamtąd,
+// żeby `rel` mówiło „sponsored" tylko tam, gdzie mamy prowizję.
+const sklepZLinku = (link) => /^\/idz\/([^/]+)\//.exec(link ?? '')?.[1] ?? '';
 
 // '2026-08-14' -> '14.08' — czytelnik widzi, z którego dnia jest cena
 const dataKrotka = (d) => {
@@ -98,7 +103,7 @@ const meta = (w) =>
                     <span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(w.cenaKatalogowa)}</span>
                   )}
                   {w.link ? (
-                    <a class="set-cena" href={w.link} rel="sponsored nofollow">{fmtCena(w.oferta.cena)}</a>
+                    <a class="set-cena" href={w.link} rel={relSklepu(w.oferta.sklep ?? sklepZLinku(w.link), w.numer)}>{fmtCena(w.oferta.cena)}</a>
                   ) : (
                     <span class="set-cena set-cena--bez-linku">{fmtCena(w.oferta.cena)}</span>
                   )}
@@ -112,7 +117,7 @@ const meta = (w) =>
                   )}
                 </>
               ) : w.link ? (
-                <a class="set-sprawdz" href={w.link} rel="sponsored nofollow">Sprawdź cenę →</a>
+                <a class="set-sprawdz" href={w.link} rel={relSklepu(sklepZLinku(w.link), w.numer)}>Sprawdź cenę →</a>
               ) : (
                 <span class="set-brak-ceny">brak w sprzedaży</span>
               )}

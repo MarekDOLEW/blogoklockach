@@ -4,7 +4,7 @@ import redirects from '../data/redirects.json';
 import galerie from '../data/galerie.json';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
-import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena } from '../lib/oferty.js';
+import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku as relSklepu } from '../lib/oferty.js';
 
 // Karta jednego zestawu w prezentowniku serii.
 //
@@ -27,7 +27,7 @@ const {
 
 const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const maLink = (s) => s === 'lego' || Boolean(redirects?.[s]?.[nr]) || Boolean(sklepy[s]?.szukaj);
-const rel = (s) => (s === 'lego' || !redirects?.[s]?.[nr] ? 'nofollow' : 'sponsored nofollow');
+const rel = (s) => relSklepu(s, nr);
 const doPokazania = sklepyPublikacyjne.filter(maLink);
 // dodatkowe zdjęcia z galerie.json, jeśli redakcja je dla tego setu zebrała
 const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);

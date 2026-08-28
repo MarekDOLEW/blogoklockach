@@ -8,7 +8,7 @@ import cenyBaza from '../data/ceny_baza.json';
 import { urlZdjecia } from '../lib/media.js';
 import { zajawkaArtykulu } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 
 const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
@@ -198,7 +198,7 @@ const artykuly = Object.entries({
                 </div>
                 <div class="deal-akcje">
                   {oferta && linkAfiliacyjny(oferta.sklep, deal.nr) && (
-                    <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} rel="sponsored nofollow">
+                    <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} rel={relSklepu(oferta.sklep, deal.nr)}>
                       Sprawdź w {nazwaSklepu(oferta.sklep)} →
                     </a>
                   )}

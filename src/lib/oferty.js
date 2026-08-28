@@ -137,6 +137,22 @@ export function linkAfiliacyjny(sklep, nr) {
   return null;
 }
 
+// Sklepy, do których linkujemy BEZ prowizji — `rel` nie może wtedy mówić
+// „sponsored", bo link nie jest opłacony.
+//   lego  — LEGO.com nie ma programu w naszym miksie, linkujemy wprost.
+//   smyk  — program w Adtraction jest aktywny, ale deeplink nie dowozi na
+//           produkt (Adtraction gubi docelowy adres w handoffie do
+//           netSalesMedia i klient ląduje na stronie głównej). Od 28.08.2026
+//           linkujemy wprost na kartę produktu i świadomie rezygnujemy z
+//           prowizji. Gdy deeplink zacznie działać, usunąć 'smyk' z tego zbioru.
+const SKLEPY_BEZ_PROWIZJI = new Set(['lego', 'smyk']);
+
+/** Wartość atrybutu rel dla linku do sklepu — „sponsored" tylko gdy zarabiamy. */
+export function relLinku(sklep, nr) {
+  if (SKLEPY_BEZ_PROWIZJI.has(sklep)) return 'nofollow';
+  return linkAfiliacyjny(sklep, nr) ? 'sponsored nofollow' : 'nofollow';
+}
+
 /**
  * Link „gdzie kupić" dla zestawu bez znanej ceny — bierzemy pierwszy sklep,
  * który w ogóle ma ten numer w redirects.json.
