@@ -32,7 +32,7 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-28",
-      "uzupelnione_lacznie": 2595,
+      "uzupelnione_lacznie": 2716,
       "ostatnie_serie": [
         "Technic"
       ]
@@ -16352,784 +16352,896 @@
       "nazwa": "Mini Tow Truck",
       "rok": 2012,
       "elementy": 136,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "9391",
       "nazwa": "Tracked Crane",
       "rok": 2012,
       "elementy": 218,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "9392",
       "nazwa": "Quad Bike",
       "rok": 2012,
       "elementy": 199,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "9393",
       "nazwa": "Traktor",
       "rok": 2012,
       "elementy": 353,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "9394",
       "nazwa": "Odrzutowiec",
       "rok": 2012,
       "elementy": 499,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "9395",
       "nazwa": "Pick-Up Tow Truck",
       "rok": 2012,
       "elementy": 954,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "9396",
       "nazwa": "Helikopter",
       "rok": 2012,
       "elementy": 1056,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "9397",
       "nazwa": "Logging Truck",
       "rok": 2012,
       "elementy": 1308,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "9398",
       "nazwa": "4x4 Crawler",
       "rok": 2012,
       "elementy": 1327,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "41999",
       "nazwa": "4x4 Crawler Exclusive Edition",
       "rok": 2013,
       "elementy": 1585,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "42000",
       "nazwa": "Grand Prix Racer",
       "rok": 2013,
       "elementy": 1141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "42001",
       "nazwa": "Mały samochód terenowy",
       "rok": 2013,
       "elementy": 100,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 39.99
     },
     {
       "numer": "42002",
       "nazwa": "Poduszkowiec",
       "rok": 2013,
       "elementy": 170,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42004",
       "nazwa": "Koparko-ładowarka",
       "rok": 2013,
       "elementy": 246,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42005",
       "nazwa": "Monster Truck",
       "rok": 2013,
       "elementy": 329,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42006",
       "nazwa": "Excavator",
       "rok": 2013,
       "elementy": 720,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42007",
       "nazwa": "Moto Cross Bike",
       "rok": 2013,
       "elementy": 253,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42008",
       "nazwa": "Wóz techniczny",
       "rok": 2013,
       "elementy": 1276,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "42009",
       "nazwa": "Ruchomy żuraw MKII",
       "rok": 2013,
       "elementy": 2606,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "42010",
       "nazwa": "Samochód off-road",
       "rok": 2013,
       "elementy": 160,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42011",
       "nazwa": "Samochód wyścigowy",
       "rok": 2013,
       "elementy": 158,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42020",
       "nazwa": "Śmigłowiec z dwoma wirnikami",
       "rok": 2014,
       "elementy": 145,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 39.99
     },
     {
       "numer": "42021",
       "nazwa": "Skuter śnieżny",
       "rok": 2014,
       "elementy": 186,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "42022",
       "nazwa": "Hot rod",
       "rok": 2014,
       "elementy": 414,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42023",
       "nazwa": "Maszyny Budowlane",
       "rok": 2014,
       "elementy": 833,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "42024",
       "nazwa": "Ciężarówka do przewozu kontenerów",
       "rok": 2014,
       "elementy": 948,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "42025",
       "nazwa": "Samolot transportowy",
       "rok": 2014,
       "elementy": 1297,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "42026",
       "nazwa": "Czarny zdobywca dróg",
       "rok": 2014,
       "elementy": 137,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42027",
       "nazwa": "Pustynna wyścigówka",
       "rok": 2014,
       "elementy": 148,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42028",
       "nazwa": "Buldożer",
       "rok": 2014,
       "elementy": 617,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42029",
       "nazwa": "Ciężarówka po tuningu",
       "rok": 2014,
       "elementy": 1063,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "42030",
       "nazwa": "Koparka VOLVO L350F",
       "rok": 2014,
       "elementy": 1636,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42031",
       "nazwa": "Ciężarówka z wysięgnikiem",
       "rok": 2015,
       "elementy": 155,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42032",
       "nazwa": "Mała ładowarka gąsienicowa",
       "rok": 2015,
       "elementy": 252,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "42033",
       "nazwa": "Błyskawica",
       "rok": 2015,
       "elementy": 125,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42034",
       "nazwa": "Quad",
       "rok": 2015,
       "elementy": 148,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42035",
       "nazwa": "Ciężarówka górnicza",
       "rok": 2015,
       "elementy": 362,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "42036",
       "nazwa": "Miejski motocykl",
       "rok": 2015,
       "elementy": 375,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "42037",
       "nazwa": "Terenówka",
       "rok": 2015,
       "elementy": 494,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42038",
       "nazwa": "Łazik arktyczny",
       "rok": 2015,
       "elementy": 913,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "42039",
       "nazwa": "Superszybka wyścigówka",
       "rok": 2015,
       "elementy": 1219,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 459.99
     },
     {
       "numer": "42040",
       "nazwa": "Samolot strażacki",
       "rok": 2015,
       "elementy": 578,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42041",
       "nazwa": "Ciężarówka wyścigowa",
       "rok": 2015,
       "elementy": 608,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "42042",
       "nazwa": "Żuraw gąsienicowy",
       "rok": 2015,
       "elementy": 1401,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "42043",
       "nazwa": "Mercedes-Benz Arocs 3245",
       "rok": 2015,
       "elementy": 2793,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 929.99
     },
     {
       "numer": "42044",
       "nazwa": "Odrzutowiec",
       "rok": 2016,
       "elementy": 113,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42045",
       "nazwa": "Wyścigowy wodolot",
       "rok": 2016,
       "elementy": 180,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "42046",
       "nazwa": "Wyścigówka zbiegów",
       "rok": 2016,
       "elementy": 170,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42047",
       "nazwa": "Radiowóz pościgowy",
       "rok": 2016,
       "elementy": 185,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42048",
       "nazwa": "Gokart",
       "rok": 2016,
       "elementy": 345,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "42049",
       "nazwa": "Ładowarka górnicza",
       "rok": 2016,
       "elementy": 476,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42050",
       "nazwa": "Dragster",
       "rok": 2016,
       "elementy": 647,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "42052",
       "nazwa": "Śmigłowiec towarowy",
       "rok": 2016,
       "elementy": 1042,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 549.99
     },
     {
       "numer": "42053",
       "nazwa": "Volvo EW 160E",
       "rok": 2016,
       "elementy": 1166,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "42054",
       "nazwa": "CLAAS XERION 5000 TRAC VC",
       "rok": 2016,
       "elementy": 1977,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "42055",
       "nazwa": "Górnicza koparka kołowa",
       "rok": 2016,
       "elementy": 3929,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.0
     },
     {
       "numer": "42056",
       "nazwa": "Porsche 911 GT3 RS",
       "rok": 2016,
       "elementy": 2704,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1350.0
     },
     {
       "numer": "4002017",
       "nazwa": "Nutcracker",
       "rok": 2017,
       "elementy": 732,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "42057",
       "nazwa": "Ultralekki helikopter",
       "rok": 2017,
       "elementy": 199,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "42058",
       "nazwa": "Kaskaderski motocykl",
       "rok": 2017,
       "elementy": 140,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42059",
       "nazwa": "Kaskaderska terenówka",
       "rok": 2017,
       "elementy": 142,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42060",
       "nazwa": "Ekipa robót drogowych",
       "rok": 2017,
       "elementy": 365,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42061",
       "nazwa": "Ładowarka teleskopowa",
       "rok": 2017,
       "elementy": 260,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "42062",
       "nazwa": "Plac przeładunkowy",
       "rok": 2017,
       "elementy": 631,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42063",
       "nazwa": "BMW R 1200 GS Adventure",
       "rok": 2017,
       "elementy": 603,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42064",
       "nazwa": "Badacz oceanów",
       "rok": 2017,
       "elementy": 1327,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "42065",
       "nazwa": "Zdalnie sterowana wyścigówka gąsienicowa",
       "rok": 2017,
       "elementy": 370,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "42066",
       "nazwa": "Odrzutowiec",
       "rok": 2017,
       "elementy": 1151,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 569.99
     },
     {
       "numer": "42068",
       "nazwa": "Pojazd straży pożarnej",
       "rok": 2017,
       "elementy": 1094,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "42069",
       "nazwa": "Ekstremalna przygoda",
       "rok": 2017,
       "elementy": 2382,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 549.99
     },
     {
       "numer": "42070",
       "nazwa": "Terenowy holownik 6x6",
       "rok": 2017,
       "elementy": 1862,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1190.0
     },
     {
       "numer": "42071",
       "nazwa": "Spycharka",
       "rok": 2018,
       "elementy": 171,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "42072",
       "nazwa": "Żółta wyścigówka",
       "rok": 2018,
       "elementy": 135,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42073",
       "nazwa": "Czerwona wyścigówka",
       "rok": 2018,
       "elementy": 139,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42074",
       "nazwa": "Jacht wyścigowy",
       "rok": 2018,
       "elementy": 330,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "42075",
       "nazwa": "Pojazd szybkiego reagowania",
       "rok": 2018,
       "elementy": 513,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42076",
       "nazwa": "Poduszkowiec",
       "rok": 2018,
       "elementy": 1020,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "42077",
       "nazwa": "Niebieska wyścigówka",
       "rok": 2018,
       "elementy": 1005,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "42078",
       "nazwa": "MACK Anthem",
       "rok": 2018,
       "elementy": 2595,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "42079",
       "nazwa": "Wózek widłowy",
       "rok": 2018,
       "elementy": 592,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42080",
       "nazwa": "Maszyna leśna",
       "rok": 2018,
       "elementy": 1003,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "42081",
       "nazwa": "Volvo ładowarka kołowa ZEUX",
       "rok": 2018,
       "elementy": 1167,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 549.99
     },
     {
       "numer": "42082",
       "nazwa": "Dźwig",
       "rok": 2018,
       "elementy": 4057,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1100.0
     },
     {
       "numer": "42083",
       "nazwa": "Bugatti Chiron",
       "rok": 2018,
       "elementy": 3599,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1700.0
     },
     {
       "numer": "42084",
       "nazwa": "Hakowiec",
       "rok": 2018,
       "elementy": 176,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "42088",
       "nazwa": "Ciężarówka z wysięgnikiem",
       "rok": 2019,
       "elementy": 155,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "42089",
       "nazwa": "Motorówka",
       "rok": 2019,
       "elementy": 174,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "42090",
       "nazwa": "Monster truck złoczyńców",
       "rok": 2019,
       "elementy": 128,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42091",
       "nazwa": "Policyjny pościg",
       "rok": 2019,
       "elementy": 120,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42092",
       "nazwa": "Helikopter ratunkowy",
       "rok": 2019,
       "elementy": 325,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "42093",
       "nazwa": "Chevrolet Corvette ZR1",
       "rok": 2019,
       "elementy": 579,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42094",
       "nazwa": "Koparka gąsienicowa",
       "rok": 2019,
       "elementy": 827,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "42095",
       "nazwa": "Sterowana wyścigówka kaskaderska",
       "rok": 2019,
       "elementy": 324,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "42096",
       "nazwa": "Porsche 911 RSR",
       "rok": 2019,
       "elementy": 1580,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 849.99
     },
     {
       "numer": "42097",
       "nazwa": "Żuraw typu pająk",
       "rok": 2019,
       "elementy": 920,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "42098",
       "nazwa": "Laweta",
       "rok": 2019,
       "elementy": 2493,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "42099",
       "nazwa": "Zdalnie sterowany pojazd terenowy",
       "rok": 2019,
       "elementy": 958,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42100",
       "nazwa": "Koparka Liebherr R 9800",
       "rok": 2019,
       "elementy": 4108,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2000.0
     },
     {
       "numer": "42110",
       "nazwa": "Land Rover Defender",
       "rok": 2019,
       "elementy": 2573,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "42101",
       "nazwa": "Łazik",
       "rok": 2020,
       "elementy": 117,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "42102",
       "nazwa": "Mini CLAAS XERION",
       "rok": 2020,
       "elementy": 130,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "42103",
       "nazwa": "Dragster",
       "rok": 2020,
       "elementy": 225,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42104",
       "nazwa": "Ciężarówka wyścigowa",
       "rok": 2020,
       "elementy": 227,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42105",
       "nazwa": "Katamaran",
       "rok": 2020,
       "elementy": 404,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42106",
       "nazwa": "Furgonetka i motocykl kaskaderski",
       "rok": 2020,
       "elementy": 610,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42107",
       "nazwa": "Ducati Panigale V4 R",
       "rok": 2020,
       "elementy": 646,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "42108",
       "nazwa": "Żuraw samochodowy",
       "rok": 2020,
       "elementy": 1292,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "42109",
       "nazwa": "Auto wyścigowe Top Gear sterowane przez aplikację",
       "rok": 2020,
       "elementy": 463,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "42111",
       "nazwa": "Dom's Dodge Charger",
       "rok": 2020,
       "elementy": 1077,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 569.99
     },
     {
       "numer": "42112",
       "nazwa": "Betoniarka",
       "rok": 2020,
       "elementy": 1163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "42113",
       "nazwa": "Bell Boeing V-22 Osprey",
       "rok": 2020,
       "elementy": 1636,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "42114",
       "nazwa": "Wozidło przegubowe Volvo 6x6",
       "rok": 2020,
       "elementy": 2193,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1249.99
     },
     {
       "numer": "42115",
@@ -17144,56 +17256,64 @@
       "nazwa": "Helikopter",
       "rok": 2021,
       "elementy": 70,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 9.99
     },
     {
       "numer": "42116",
       "nazwa": "Miniładowarka",
       "rok": 2021,
       "elementy": 140,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "42117",
       "nazwa": "Samolot wyścigowy",
       "rok": 2021,
       "elementy": 145,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "42118",
       "nazwa": "Monster Jam Grave Digger",
       "rok": 2021,
       "elementy": 212,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42119",
       "nazwa": "Monster Jam Max-D",
       "rok": 2021,
       "elementy": 230,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42120",
       "nazwa": "Poduszkowiec ratowniczy",
       "rok": 2021,
       "elementy": 457,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42121",
       "nazwa": "Wytrzymała koparka",
       "rok": 2021,
       "elementy": 569,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "42122",
       "nazwa": "Jeep Wrangler",
       "rok": 2021,
       "elementy": 665,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "42123",
