@@ -451,3 +451,44 @@ treść, to jest materiał wewnętrzny.
 (Astro bundluje tylko to, co zaimportowane), ale leży w katalogu, z którego
 strony czerpią treść — więc materiały wewnętrzne trzymamy w `redakcja/`,
 żeby nikt ich stamtąd przez pomyłkę nie zaimportował.
+
+## Nazwy zestawów — jedno źródło
+
+Ustalone 28.08.2026 (decyzja Marka): **kanoniczna jest nazwa produktu
+z LEGO.com PL.** Reguły wynikające z tej decyzji:
+
+1. **Motyw/seria nie jest częścią nazwy.** LEGO.com PL podaje je obok, nie
+   w nazwie — potwierdzone na 31387 („Legendarny statek piracki 31387 |
+   Creator 3 w 1"). Prefiksy z Bricksetu (`3w1 `, `Marvel `,
+   `Chinese Festivals `) zdejmujemy.
+2. **Typografia wg LEGO PL**: apostrof typograficzny (`Snoopy’ego`,
+   `Cole’a`), myślnik jako separator podtytułu, zdaniowa wielkość liter poza
+   nazwami własnymi (`Smok życia`, nie `Smok Życia`).
+3. **Wyjątek — kalendarze adwentowe.** Zachowują serię w nazwie, bo bez niej
+   pięć zestawów z 2026 roku nazywa się identycznie („Kalendarz adwentowy na
+   2026 rok") i nie da się ich rozróżnić na listach.
+4. **Czego NIE ruszamy.** Stare i promocyjne pozycje z lat 2000–2015 mają
+   w katalogu angielskie nazwy Bricksetu, w których prefiks (`City `,
+   `Star Wars `, `Friends `, `Ninjago `) jest częścią nazwy — nie ma
+   polskiego odpowiednika u LEGO, więc nie ma do czego wyrównywać.
+   Podobnie licencyjny podmotyw `Disney ` w DUPLO.
+
+Po każdej zmianie sprawdzić, że nazwy w `sety.json` i `katalog.json` są
+identyczne dla tego samego numeru — rozjazd oznacza, że jedna ze stron
+została zaktualizowana bez drugiej.
+
+Pozycje przyjęte bez potwierdzenia u źródła są wypisane w
+`katalog.json` → `_meta.nazwy_do_weryfikacji`. LEGO.com PL blokuje odczyt
+stron produktu (Cloudflare) — działa wyszukiwarka z `allowed_domains`.
+
+## Oznaczenia wycofań — próg dowodowy
+
+Ustalone 28.08.2026 (decyzja Marka): na `/wycofania/` trafiają **wyłącznie
+zestawy z terminem potwierdzonym przez Grupę LEGO.** Branżowe zestawienia
+bywają trafne, ale bywają też przesunięte o miesiące, a data wycofania jest
+informacją, na której czytelnik opiera zakup za kilkaset złotych.
+
+Konkretny przypadek: cała interaktywna linia Super Mario (37 zestawów) ma
+według źródeł branżowych zejść ze sprzedaży do końca 2026 — **nie oznaczamy
+jej**, dopóki LEGO nie poda terminów. Artykuł o restarcie serii mówi o tym
+czytelnikowi wprost i tłumaczy dlaczego, zamiast udawać, że luki nie ma.

@@ -44,7 +44,12 @@ export default defineConfig({
   // redakcyjny to material wewnetrzny, nie tresc dla czytelnika. Adres zdjety;
   // przekierowanie zostaje, zeby ewentualny odsylacz z zewnatrz nie trafial
   // w 404. Plan mieszka teraz w redakcja/plan-redakcyjny.json (poza buildem).
-  redirects: { '/kalendarz-redakcyjny': '/artykuly/' },
+  redirects: {
+    '/kalendarz-redakcyjny': '/artykuly/',
+    // 80120 i 80121 przeniesione do Seasonal (decyzja Marka, 28.08.2026), przez co
+    // seria "Tradycyjne festiwale chinskie" zostala bez zestawow i jej strona znikla.
+    '/serie/tradycyjne-festiwale-chinskie': '/serie/seasonal/',
+  },
   // Sitemapa bez lastmod — świadomie.
   //
   // Wcześniej każdy adres dostawał `lastmod` = moment builda. Ponieważ runnery

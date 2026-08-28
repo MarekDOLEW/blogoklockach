@@ -37,7 +37,21 @@
         "Technic"
       ]
     },
-    "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252)."
+    "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252).",
+    "nazewnictwo": "Ustalone 28.08.2026 (decyzja Marka): kanoniczna jest NAZWA PRODUKTU Z LEGO.com PL. Motyw/seria nie jest czescia nazwy — prefiksy z Bricksetu (\"3w1 \", \"Marvel \", \"Chinese Festivals \") usuwamy. Typografia wg LEGO PL: apostrof typograficzny, myslnik jako separator podtytulu, zdaniowa wielkosc liter poza nazwami wlasnymi. Wyjatek: kalendarze adwentowe zachowuja serie w nazwie, bo bez niej piec zestawow nazywa sie identycznie i nie da sie ich rozroznic na listach.",
+    "nazwy_do_weryfikacji": {
+      "opis": "Forma przyjeta 28.08.2026 bez potwierdzenia na lego.com/pl-pl (Cloudflare blokuje odczyt strony produktu). Do sprawdzenia przy najblizszej okazji. 10448 i 10451 maja \"3 w 1\" jako PREFIKS, a dziewiec siostrzanych zestawow DUPLO ma je jako SUFIKS (\"Dom rodzinny 3 w 1\") — jedna z tych form jest bledna.",
+      "numery": [
+        "42224",
+        "42233",
+        "42235",
+        "75427",
+        "77263",
+        "10448",
+        "10451"
+      ],
+      "prefiksy_zostawione": "DUPLO ma 10 zestawow z prefiksem \"Disney \" (podmotyw licencyjny), a City/Star Wars/Friends/Ninjago maja ok. 110 starych i promocyjnych pozycji z lat 2000-2015 z angielskimi nazwami Bricksetu, gdzie prefiks jest czescia nazwy i nie ma polskiego odpowiednika u LEGO. Tych NIE ruszamy — brak zrodla, do ktorego mozna wyrownac. Prefiks \"3w1\" zdjety z Creatora, bo tam LEGO.com PL potwierdza, ze to motyw (\"Legendarny statek piracki 31387 | Creator 3 w 1\"), a nie czesc nazwy."
+    }
   },
   "Ideas": [
     {
@@ -11424,7 +11438,7 @@
     },
     {
       "numer": "75427",
-      "nazwa": "SMART Play: Pojedynek w sali tronowej i A-Wing",
+      "nazwa": "SMART Play: Pojedynek w sali tronowej i A-wing",
       "rok": 2026,
       "elementy": 962,
       "status": "dostepny",
@@ -17119,7 +17133,7 @@
     },
     {
       "numer": "42115",
-      "nazwa": "Lamborghini Sian FKP 37",
+      "nazwa": "Lamborghini Sián FKP 37",
       "rok": 2020,
       "elementy": 3696,
       "status": "dostepny",
@@ -17363,7 +17377,7 @@
     },
     {
       "numer": "42146",
-      "nazwa": "Liebherr LR 13000",
+      "nazwa": "Żuraw gąsienicowy Liebherr LR 13000",
       "rok": 2023,
       "elementy": 2883,
       "status": "dostepny",
@@ -18049,7 +18063,7 @@
     },
     {
       "numer": "42233",
-      "nazwa": "Potężne maszyny - Seria 1",
+      "nazwa": "Potężne maszyny — Seria 1",
       "rok": 2026,
       "status": "dostepny",
       "cena_katalogowa": 20.99
@@ -18064,7 +18078,7 @@
     },
     {
       "numer": "42235",
-      "nazwa": "Samochód Ferrari 488 PISTA",
+      "nazwa": "Samochód Ferrari 488 Pista",
       "rok": 2026,
       "elementy": 882,
       "status": "dostepny",
@@ -25278,7 +25292,7 @@
     },
     {
       "numer": "60510",
-      "nazwa": "Kalendarz adwentowy na 2026 rok",
+      "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 252,
       "status": "dostepny",
@@ -27523,7 +27537,7 @@
     },
     {
       "numer": "31018",
-      "nazwa": "Zdobywca autrostad 3w1",
+      "nazwa": "Zdobywca autostrad 3w1",
       "rok": 2014,
       "elementy": 129,
       "status": "eol"
@@ -28530,7 +28544,7 @@
     },
     {
       "numer": "30578",
-      "nazwa": "3 w 1 Owczarek niemiecki",
+      "nazwa": "Owczarek niemiecki",
       "rok": 2021,
       "elementy": 76,
       "status": "eol"
@@ -29010,7 +29024,7 @@
     },
     {
       "numer": "31136",
-      "nazwa": "3w1 Egzotyczna papuga",
+      "nazwa": "Egzotyczna papuga",
       "rok": 2023,
       "elementy": 253,
       "status": "dostepny",
@@ -29040,7 +29054,7 @@
     },
     {
       "numer": "31140",
-      "nazwa": "3w1 Magiczny jednorożec",
+      "nazwa": "Magiczny jednorożec",
       "rok": 2023,
       "elementy": 145,
       "status": "dostepny",
@@ -29345,7 +29359,7 @@
     },
     {
       "numer": "31159",
-      "nazwa": "3w1 Dzikie zwierzęta niezwykły pająk",
+      "nazwa": "Dzikie zwierzęta niezwykły pająk",
       "rok": 2025,
       "elementy": 153,
       "status": "dostepny",
@@ -29361,7 +29375,7 @@
     },
     {
       "numer": "31161",
-      "nazwa": "3w1 Średniowieczny smok",
+      "nazwa": "Średniowieczny smok",
       "rok": 2025,
       "elementy": 715,
       "status": "dostepny",
@@ -29377,7 +29391,7 @@
     },
     {
       "numer": "31163",
-      "nazwa": "3w1 Psotny kot",
+      "nazwa": "Psotny kot",
       "rok": 2025,
       "elementy": 407,
       "status": "dostepny",
@@ -29393,7 +29407,7 @@
     },
     {
       "numer": "31165",
-      "nazwa": "3w1 Dzikie zwierzęta rodzina pand",
+      "nazwa": "Dzikie zwierzęta rodzina pand",
       "rok": 2025,
       "elementy": 626,
       "status": "dostepny",
@@ -29401,7 +29415,7 @@
     },
     {
       "numer": "31166",
-      "nazwa": "3w1 Piękny koń, przebudowa na niedźwiedzia lub jelenia",
+      "nazwa": "Piękny koń, przebudowa na niedźwiedzia lub jelenia",
       "rok": 2025,
       "elementy": 685,
       "status": "dostepny",
@@ -29409,7 +29423,7 @@
     },
     {
       "numer": "31167",
-      "nazwa": "3w1 Nawiedzona rezydencja, przebudowa na statek lub pociąg",
+      "nazwa": "Nawiedzona rezydencja, przebudowa na statek lub pociąg",
       "rok": 2025,
       "elementy": 736,
       "status": "dostepny",
@@ -29417,7 +29431,7 @@
     },
     {
       "numer": "31168",
-      "nazwa": "3w1 Średniowieczny zamek rycerzy konnych, turniej lub miasto",
+      "nazwa": "Średniowieczny zamek rycerzy konnych, turniej lub miasto",
       "rok": 2025,
       "elementy": 1371,
       "status": "dostepny",
@@ -29425,7 +29439,7 @@
     },
     {
       "numer": "31169",
-      "nazwa": "3w1 Maszyna do pisania z kwiatami",
+      "nazwa": "Maszyna do pisania z kwiatami",
       "rok": 2025,
       "elementy": 363,
       "status": "dostepny",
@@ -29433,7 +29447,7 @@
     },
     {
       "numer": "31170",
-      "nazwa": "3w1 Dzikie zwierzęta różowy flaming",
+      "nazwa": "Dzikie zwierzęta różowy flaming",
       "rok": 2025,
       "elementy": 288,
       "status": "dostepny",
@@ -29465,7 +29479,7 @@
     },
     {
       "numer": "31174",
-      "nazwa": "3w1 Telefon w stylu retro, zabawka konstrukcyjna dla dzieci",
+      "nazwa": "Telefon w stylu retro, zabawka konstrukcyjna dla dzieci",
       "rok": 2025,
       "elementy": 383,
       "status": "dostepny",
@@ -29626,7 +29640,7 @@
     },
     {
       "numer": "31383",
-      "nazwa": "3w1 Flakon perfum z kwiatową ozdobą",
+      "nazwa": "Flakon perfum z kwiatową ozdobą",
       "rok": 2026,
       "elementy": 286,
       "status": "dostepny",
@@ -29650,7 +29664,7 @@
     },
     {
       "numer": "31386",
-      "nazwa": "3w1 Dzikie zwierzęta: Dumny lew",
+      "nazwa": "Dzikie zwierzęta: Dumny lew",
       "rok": 2026,
       "elementy": 839,
       "status": "dostepny",
@@ -29658,7 +29672,7 @@
     },
     {
       "numer": "31387",
-      "nazwa": "3w1 Legendarny statek piracki",
+      "nazwa": "Legendarny statek piracki",
       "rok": 2026,
       "elementy": 1074,
       "status": "dostepny",
@@ -29674,7 +29688,7 @@
     },
     {
       "numer": "31389",
-      "nazwa": "3w1 Kultowy diabelski młyn",
+      "nazwa": "Kultowy diabelski młyn",
       "rok": 2026,
       "elementy": 916,
       "status": "dostepny",
@@ -29682,7 +29696,7 @@
     },
     {
       "numer": "31390",
-      "nazwa": "3w1 Dekoracyjny obraz z kwiatami",
+      "nazwa": "Dekoracyjny obraz z kwiatami",
       "rok": 2026,
       "elementy": 348,
       "status": "dostepny",
@@ -29690,7 +29704,7 @@
     },
     {
       "numer": "31391",
-      "nazwa": "3w1 Modna torebka ze schowkiem",
+      "nazwa": "Modna torebka ze schowkiem",
       "rok": 2026,
       "elementy": 272,
       "status": "dostepny",
@@ -29698,7 +29712,7 @@
     },
     {
       "numer": "31392",
-      "nazwa": "3w1 Dekoracyjny fortepian z kotem",
+      "nazwa": "Dekoracyjny fortepian z kotem",
       "rok": 2026,
       "elementy": 485,
       "status": "dostepny",
@@ -34539,7 +34553,7 @@
     },
     {
       "numer": "42698",
-      "nazwa": "Kalendarz adwentowy na 2026 rok",
+      "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 211,
       "status": "dostepny",
@@ -41138,7 +41152,7 @@
     },
     {
       "numer": "10464",
-      "nazwa": "Marvel Kryjówka Pajęczej Drużyny",
+      "nazwa": "Kryjówka Pajęczej Drużyny",
       "rok": 2026,
       "elementy": 65,
       "status": "dostepny",
@@ -45637,7 +45651,7 @@
     },
     {
       "numer": "71859",
-      "nazwa": "Smok Życia",
+      "nazwa": "Smok życia",
       "rok": 2026,
       "elementy": 1050,
       "status": "dostepny",
@@ -45653,7 +45667,7 @@
     },
     {
       "numer": "71861",
-      "nazwa": "Stare miasto - 15-lecie",
+      "nazwa": "Stare miasto — 15-lecie",
       "rok": 2026,
       "elementy": 4851,
       "status": "dostepny",
@@ -45661,7 +45675,7 @@
     },
     {
       "numer": "71862",
-      "nazwa": "Smoczy mech Lloyda — Zestaw bitewny",
+      "nazwa": "Smoczy mech Lloyda — zestaw bitewny",
       "rok": 2026,
       "elementy": 81,
       "status": "dostepny",
@@ -48486,7 +48500,7 @@
     },
     {
       "numer": "76340",
-      "nazwa": "Kalendarz adwentowy na 2026 rok",
+      "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 317,
       "status": "dostepny",
@@ -50609,7 +50623,7 @@
     },
     {
       "numer": "80120",
-      "nazwa": "Chinese Festivals Karp przeskakujący przez Smoczą Bramę",
+      "nazwa": "Karp przeskakujący przez Smoczą Bramę",
       "rok": 2026,
       "elementy": 736,
       "status": "dostepny",
@@ -50617,7 +50631,7 @@
     },
     {
       "numer": "80121",
-      "nazwa": "Chinese Festivals Stary zajazd",
+      "nazwa": "Stary zajazd",
       "rok": 2026,
       "elementy": 1530,
       "status": "dostepny",
@@ -52347,7 +52361,7 @@
     },
     {
       "numer": "43298",
-      "nazwa": "Kalendarz adwentowy na 2026 rok",
+      "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 290,
       "status": "dostepny",
@@ -55649,7 +55663,7 @@
     },
     {
       "numer": "77981",
-      "nazwa": "Welociraptor, stegozaur i pteranodon - Centrum ratunkowe",
+      "nazwa": "Welociraptor, stegozaur i pteranodon — Centrum ratunkowe",
       "rok": 2026,
       "elementy": 171,
       "status": "dostepny",
@@ -56459,7 +56473,7 @@
     },
     {
       "numer": "11507",
-      "nazwa": "Bukiet kwiatów",
+      "nazwa": "Bukiet kwiatów Olivii Rodrigo",
       "rok": 2026,
       "elementy": 400,
       "status": "dostepny",

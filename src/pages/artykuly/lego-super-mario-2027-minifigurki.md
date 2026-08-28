@@ -68,7 +68,7 @@ Co z tego wynika, zależy od tego, gdzie jesteś:
 
 **Kupujesz prezent dla kogoś, kto Super Mario lubi, ale nie ma nic z LEGO.** Wybierz coś spoza tej serii albo poczekaj. Zestaw rozszerzający bez figurki startowej to dla dziecka pudełko, które nie działa — a tego nie widać po opakowaniu.
 
-> **Uwaga na nasze dane.** Żaden zestaw Super Mario nie jest jeszcze oznaczony na naszej [liście wycofań](/wycofania/), mimo że źródła branżowe mówią o wycofaniu całej linii do końca roku. Weryfikujemy terminy u źródła i uzupełnimy listę, gdy będą potwierdzone. Do tego czasu traktuj powyższe jako kierunek, a nie jako datę.
+> **Dlaczego nie ma tego na naszej liście wycofań.** Na [liście wycofań](/wycofania/) umieszczamy wyłącznie zestawy z terminem potwierdzonym przez Grupę LEGO. Branżowe zestawienia bywają trafne, ale bywają też przesunięte o kilka miesięcy, a data wycofania jest informacją, na której ktoś opiera zakup za kilkaset złotych — więc wolimy jej nie podawać, niż podać niepewną. Dlatego żaden zestaw Super Mario nie jest tam oznaczony i nie będzie, dopóki LEGO nie poda terminów. Powyższe traktuj jako kierunek, nie jako datę.
 
 ## Czy to dobra zmiana
 
