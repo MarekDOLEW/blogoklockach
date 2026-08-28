@@ -32,8 +32,9 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-28",
-      "uzupelnione_lacznie": 2716,
+      "uzupelnione_lacznie": 2836,
       "ostatnie_serie": [
+        "Harry Potter",
         "Technic"
       ]
     },
@@ -2062,420 +2063,480 @@
       "nazwa": "Sorting Hat",
       "rok": 2001,
       "elementy": 48,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4702",
       "nazwa": "The Final Challenge",
       "rok": 2001,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4704",
       "nazwa": "The Chamber of the Winged Keys",
       "rok": 2001,
       "elementy": 175,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4705",
       "nazwa": "Snape's Class",
       "rok": 2001,
       "elementy": 163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4706",
       "nazwa": "Forbidden Corridor",
       "rok": 2001,
       "elementy": 238,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4707",
       "nazwa": "Hagrid's Hut",
       "rok": 2001,
       "elementy": 299,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4708",
       "nazwa": "Hogwarts Express",
       "rok": 2001,
       "elementy": 410,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4709",
       "nazwa": "Hogwarts Castle",
       "rok": 2001,
       "elementy": 682,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4721",
       "nazwa": "Hogwarts Classrooms",
       "rok": 2001,
       "elementy": 73,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4722",
       "nazwa": "Gryffindor",
       "rok": 2001,
       "elementy": 68,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4723",
       "nazwa": "Diagon Alley Shops",
       "rok": 2001,
       "elementy": 80,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4711",
       "nazwa": "Flying Lesson",
       "rok": 2002,
       "elementy": 23,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4712",
       "nazwa": "Troll on the Loose",
       "rok": 2002,
       "elementy": 71,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4714",
       "nazwa": "Gringotts Bank",
       "rok": 2002,
       "elementy": 250,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4726",
       "nazwa": "Quidditch Practice",
       "rok": 2002,
       "elementy": 128,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4727",
       "nazwa": "Aragog in the Dark Forest",
       "rok": 2002,
       "elementy": 178,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4728",
       "nazwa": "Escape from Privet Drive",
       "rok": 2002,
       "elementy": 278,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4729",
       "nazwa": "Dumbledore's Office",
       "rok": 2002,
       "elementy": 446,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4730",
       "nazwa": "The Chamber of Secrets",
       "rok": 2002,
       "elementy": 591,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4731",
       "nazwa": "Dobby's Release",
       "rok": 2002,
       "elementy": 70,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4733",
       "nazwa": "The Dueling Club",
       "rok": 2002,
       "elementy": 129,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4735",
       "nazwa": "Slytherin",
       "rok": 2002,
       "elementy": 90,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4719",
       "nazwa": "Quality Quidditch Supplies",
       "rok": 2003,
       "elementy": 120,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4720",
       "nazwa": "Knockturn Alley",
       "rok": 2003,
       "elementy": 209,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10132",
       "nazwa": "Motorised Hogwarts Express",
       "rok": 2004,
       "elementy": 708,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4695",
       "nazwa": "Mini Harry Potter Knight Bus",
       "rok": 2004,
       "elementy": 58,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4750",
       "nazwa": "Draco's Encounter with Buckbeak",
       "rok": 2004,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4751",
       "nazwa": "Harry and the Marauder's Map",
       "rok": 2004,
       "elementy": 109,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4752",
       "nazwa": "Professor Lupin's Classroom",
       "rok": 2004,
       "elementy": 156,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4753",
       "nazwa": "Sirius Black's Escape",
       "rok": 2004,
       "elementy": 188,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4754",
       "nazwa": "Hagrid's Hut",
       "rok": 2004,
       "elementy": 302,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4755",
       "nazwa": "Knight Bus",
       "rok": 2004,
       "elementy": 243,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4756",
       "nazwa": "Shrieking Shack",
       "rok": 2004,
       "elementy": 444,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4757",
       "nazwa": "Hogwarts Castle",
       "rok": 2004,
       "elementy": 944,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4758",
       "nazwa": "Hogwarts Express",
       "rok": 2004,
       "elementy": 389,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "65524",
       "nazwa": "Motorised Hogwarts Express super pack",
       "rok": 2004,
       "elementy": 724,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4762",
       "nazwa": "Rescue from the Merpeople",
       "rok": 2005,
       "elementy": 175,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4766",
       "nazwa": "Graveyard Duel",
       "rok": 2005,
       "elementy": 548,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4767",
       "nazwa": "Harry and the Hungarian Horntail",
       "rok": 2005,
       "elementy": 265,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4768",
       "nazwa": "The Durmstrang Ship with Bonus Minifigures",
       "rok": 2005,
       "elementy": 566,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4768-2",
       "nazwa": "The Durmstrang Ship with Bonus Minifigures",
       "rok": 2005,
       "elementy": 566,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5378",
       "nazwa": "Hogwarts Castle",
       "rok": 2007,
       "elementy": 943,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4736",
       "nazwa": "Freeing Dobby",
       "rok": 2010,
       "elementy": 73,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "4737",
       "nazwa": "Quidditch Match",
       "rok": 2010,
       "elementy": 153,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "4738",
       "nazwa": "Hagrid's Hut",
       "rok": 2010,
       "elementy": 442,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "4840",
       "nazwa": "The Burrow",
       "rok": 2010,
       "elementy": 568,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "4841",
       "nazwa": "Hogwarts Express",
       "rok": 2010,
       "elementy": 646,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "4842",
       "nazwa": "Hogwarts Castle",
       "rok": 2010,
       "elementy": 1290,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "10217",
       "nazwa": "Diagon Alley",
       "rok": 2011,
       "elementy": 2025,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30110",
       "nazwa": "Trolley",
       "rok": 2011,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30111",
       "nazwa": "The Lab",
       "rok": 2011,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40028",
       "nazwa": "Mini Hogwarts Express",
       "rok": 2011,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4865",
       "nazwa": "The Forbidden Forest",
       "rok": 2011,
       "elementy": 64,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4866",
       "nazwa": "The Knight Bus",
       "rok": 2011,
       "elementy": 281,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "4867",
       "nazwa": "Hogwarts",
       "rok": 2011,
       "elementy": 466,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30407",
       "nazwa": "Harry's Journey to Hogwarts",
       "rok": 2018,
       "elementy": 40,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 19.99
     },
     {
       "numer": "40289",
       "nazwa": "Ulica Pokątna",
       "rok": 2018,
       "elementy": 374,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5005254",
       "nazwa": "Harry Potter Minifigure Collection",
       "rok": 2018,
       "elementy": 25,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6268521",
       "nazwa": "Harry Potter Mosaic",
       "rok": 2018,
       "elementy": 2305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6268522",
       "nazwa": "Hermione Granger Mosaic",
       "rok": 2018,
       "elementy": 2305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "71043",
@@ -2490,63 +2551,72 @@
       "nazwa": "Legowisko Aragoga",
       "rok": 2018,
       "elementy": 157,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75951",
       "nazwa": "Ucieczka Grindelwalda",
       "rok": 2018,
       "elementy": 132,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75952",
       "nazwa": "Walizka Newta z magicznymi stworzeniami",
       "rok": 2018,
       "elementy": 694,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75953",
       "nazwa": "Wierzba bijąca z Hogwartu",
       "rok": 2018,
       "elementy": 753,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "75954",
       "nazwa": "Wielka Sala w Hogwarcie",
       "rok": 2018,
       "elementy": 878,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "75955",
       "nazwa": "Ekspres do Hogwartu",
       "rok": 2018,
       "elementy": 801,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "75956",
       "nazwa": "Mecz quidditcha",
       "rok": 2018,
       "elementy": 500,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "11923",
       "nazwa": "Harry Potter: Build Your Own Adventure parts",
       "rok": 2019,
       "elementy": 101,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "75945",
       "nazwa": "Expecto Patronum",
       "rok": 2019,
       "elementy": 121,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75946",
@@ -17320,35 +17390,40 @@
       "nazwa": "McLaren Senna GTR",
       "rok": 2021,
       "elementy": 830,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "42124",
       "nazwa": "Łazik terenowy",
       "rok": 2021,
       "elementy": 374,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 629.99
     },
     {
       "numer": "42125",
       "nazwa": "Ferrari 488 GTE “AF Corse #51”",
       "rok": 2021,
       "elementy": 1677,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "42126",
       "nazwa": "Ford F-150 Raptor",
       "rok": 2021,
       "elementy": 1379,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "42128",
       "nazwa": "Ciężki samochód pomocy drogowej",
       "rok": 2021,
       "elementy": 2017,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 849.99
     },
     {
       "numer": "42129",
@@ -17363,21 +17438,24 @@
       "nazwa": "Buldożer Cat D11T",
       "rok": 2021,
       "elementy": 3854,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2399.99
     },
     {
       "numer": "30433",
       "nazwa": "Ładowarka kołowa - Volvo",
       "rok": 2022,
       "elementy": 69,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "42127",
       "nazwa": "BATMAN - BATMOBIL",
       "rok": 2022,
       "elementy": 1360,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "42130",
@@ -17392,35 +17470,40 @@
       "nazwa": "Motocykl",
       "rok": 2022,
       "elementy": 163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "42133",
       "nazwa": "Ładowarka teleskopowa",
       "rok": 2022,
       "elementy": 143,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "42134",
       "nazwa": "Monster Jam Megalodon",
       "rok": 2022,
       "elementy": 260,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42135",
       "nazwa": "Monster Jam El Toro Loco",
       "rok": 2022,
       "elementy": 247,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "42136",
       "nazwa": "Traktor John Deere 9620R 4WD",
       "rok": 2022,
       "elementy": 390,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42137",
@@ -17435,21 +17518,24 @@
       "nazwa": "Ford Mustang Shelby GT500",
       "rok": 2022,
       "elementy": 544,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "42139",
       "nazwa": "Pojazd terenowy",
       "rok": 2022,
       "elementy": 764,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "42140",
       "nazwa": "Zmiennokształtny pojazd sterowany przez aplikację",
       "rok": 2022,
       "elementy": 772,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "42141",
@@ -17472,28 +17558,32 @@
       "nazwa": "Dźwig z chwytakiem",
       "rok": 2022,
       "elementy": 835,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 579.99
     },
     {
       "numer": "42145",
       "nazwa": "Helikopter ratunkowy Airbus H175",
       "rok": 2022,
       "elementy": 2001,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "66712",
       "nazwa": "Monster Jam Collection",
       "rok": 2022,
       "elementy": 949,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30655",
       "nazwa": "Wózek widłowy z paletą",
       "rok": 2023,
       "elementy": 78,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "42146",
@@ -17508,28 +17598,32 @@
       "nazwa": "Wywrotka",
       "rok": 2023,
       "elementy": 177,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42148",
       "nazwa": "Ratrak",
       "rok": 2023,
       "elementy": 178,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42149",
       "nazwa": "Monster Jam Dragon",
       "rok": 2023,
       "elementy": 217,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42150",
       "nazwa": "Monster Jam Monster Mutt Dalmatian",
       "rok": 2023,
       "elementy": 244,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42151",
@@ -17544,14 +17638,16 @@
       "nazwa": "Samolot gaśniczy",
       "rok": 2023,
       "elementy": 1134,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "42153",
       "nazwa": "Nowy Chevrolet Camaro ZL1 z serii NASCAR",
       "rok": 2023,
       "elementy": 672,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "42154",
@@ -17566,7 +17662,8 @@
       "nazwa": "BATMAN - BATMOTOR",
       "rok": 2023,
       "elementy": 641,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "42156",
@@ -17597,7 +17694,8 @@
       "nazwa": "Yamaha MT-10 SP",
       "rok": 2023,
       "elementy": 1478,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42160",
@@ -17620,42 +17718,48 @@
       "nazwa": "Bugatti Bolide Agile Blue",
       "rok": 2023,
       "elementy": 905,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "30682",
       "nazwa": "NASA Mars Rover Perseverance",
       "rok": 2024,
       "elementy": 83,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "412401",
       "nazwa": "Wrecking Ball Crane",
       "rok": 2024,
       "elementy": 86,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412402",
       "nazwa": "Helicopter",
       "rok": 2024,
       "elementy": 56,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412403",
       "nazwa": "Race Car",
       "rok": 2024,
       "elementy": 81,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412501",
       "nazwa": "Fire Truck",
       "rok": 2024,
       "elementy": 80,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "42163",
@@ -17702,7 +17806,8 @@
       "nazwa": "John Deere 9700 Forage Harvester",
       "rok": 2024,
       "elementy": 559,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 184.99
     },
     {
       "numer": "42169",
@@ -17797,14 +17902,16 @@
       "nazwa": "Marsjański łazik eksploracyjny",
       "rok": 2024,
       "elementy": 1599,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "42181",
       "nazwa": "Transportowy statek kosmiczny VTOL LT81",
       "rok": 2024,
       "elementy": 1365,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "42182",
@@ -17819,7 +17926,8 @@
       "nazwa": "Biały hipersamochód Koenigsegg Jesko Absolut",
       "rok": 2024,
       "elementy": 801,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42196",
@@ -17834,14 +17942,16 @@
       "nazwa": "McLaren P1 Logo",
       "rok": 2024,
       "elementy": 178,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "66784",
       "nazwa": "NEOM McLaren Racing Gift Set",
       "rok": 2024,
       "elementy": 704,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30710",
@@ -17856,35 +17966,40 @@
       "nazwa": "Combine Harvester",
       "rok": 2025,
       "elementy": 80,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412503",
       "nazwa": "Gyrocopter",
       "rok": 2025,
       "elementy": 63,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412504",
       "nazwa": "Wheeled Excavator",
       "rok": 2025,
       "elementy": 65,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412505",
       "nazwa": "Space Buggy",
       "rok": 2025,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "412506",
       "nazwa": "Offroader",
       "rok": 2025,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "42197",
@@ -18067,7 +18182,8 @@
       "nazwa": "Kierownica Koenigsegg Sadair's Spear",
       "rok": 2026,
       "elementy": 228,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "42218",
@@ -18257,35 +18373,40 @@
       "nazwa": "Research Submarine",
       "rok": 2026,
       "elementy": 70,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "L0002291",
       "nazwa": "Super Sports Car",
       "rok": 2026,
       "elementy": 79,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "L0002292",
       "nazwa": "Motorcycle",
       "rok": 2026,
       "elementy": 68,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "L0002293",
       "nazwa": "Go-Kart",
       "rok": 2026,
       "elementy": 67,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "L0002294",
       "nazwa": "Dump Truck",
       "rok": 2026,
       "elementy": 76,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     }
   ],
   "City": [
