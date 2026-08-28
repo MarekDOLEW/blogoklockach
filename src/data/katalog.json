@@ -29,8 +29,8 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-27",
-      "uzupelnione_lacznie": 2475,
+      "data": "2026-08-28",
+      "uzupelnione_lacznie": 2595,
       "ostatnie_serie": [
         "Technic"
       ]
@@ -15376,840 +15376,960 @@
       "nazwa": "Lava Buggy",
       "rok": 2000,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1291",
       "nazwa": "Power Bike",
       "rok": 2000,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1292",
       "nazwa": "Frost Flyer",
       "rok": 2000,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1293",
       "nazwa": "Swamp Craft",
       "rok": 2000,
       "elementy": 25,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5206",
       "nazwa": "Speed Computer",
       "rok": 2000,
       "elementy": 19,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5218",
       "nazwa": "Pneumatic Pack",
       "rok": 2000,
       "elementy": 147,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5219",
       "nazwa": "Silver Wheel Multi Pack",
       "rok": 2000,
       "elementy": 28,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5220",
       "nazwa": "Vehicle Styling Pack",
       "rok": 2000,
       "elementy": 221,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5221",
       "nazwa": "Motorised Base Pack",
       "rok": 2000,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5222",
       "nazwa": "Vehicle Chassis Pack",
       "rok": 2000,
       "elementy": 137,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8003",
       "nazwa": "Volcano Climber",
       "rok": 2000,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8004",
       "nazwa": "Dirt Bike",
       "rok": 2000,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8005",
       "nazwa": "Ice Explorer",
       "rok": 2000,
       "elementy": 34,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8006",
       "nazwa": "Swamp Craft",
       "rok": 2000,
       "elementy": 25,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8236",
       "nazwa": "Bike Burner",
       "rok": 2000,
       "elementy": 60,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8237",
       "nazwa": "Formula Force",
       "rok": 2000,
       "elementy": 107,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8238",
       "nazwa": "Dueling Dragsters",
       "rok": 2000,
       "elementy": 202,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8279",
       "nazwa": "4WD X-Track",
       "rok": 2000,
       "elementy": 449,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8300",
       "nazwa": "LEGO Technic Guys",
       "rok": 2000,
       "elementy": 5,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8305",
       "nazwa": "Duel Bikes",
       "rok": 2000,
       "elementy": 192,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8307",
       "nazwa": "Stunt Race",
       "rok": 2000,
       "elementy": 392,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8457",
       "nazwa": "Power Puller",
       "rok": 2000,
       "elementy": 979,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8458",
       "nazwa": "Silver Champion",
       "rok": 2000,
       "elementy": 1431,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8509",
       "nazwa": "Swamp",
       "rok": 2000,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8510",
       "nazwa": "Lava",
       "rok": 2000,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8511",
       "nazwa": "Frost",
       "rok": 2000,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8512",
       "nazwa": "Onyx",
       "rok": 2000,
       "elementy": 37,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8513",
       "nazwa": "Dust",
       "rok": 2000,
       "elementy": 46,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8514",
       "nazwa": "Power",
       "rok": 2000,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8515",
       "nazwa": "RoboRider Wheels",
       "rok": 2000,
       "elementy": 4,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8516",
       "nazwa": "The Boss",
       "rok": 2000,
       "elementy": 125,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8520",
       "nazwa": "Millennium Slizer",
       "rok": 2000,
       "elementy": 135,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8521",
       "nazwa": "Flare",
       "rok": 2000,
       "elementy": 44,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8522",
       "nazwa": "Spark",
       "rok": 2000,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8523",
       "nazwa": "Blaster",
       "rok": 2000,
       "elementy": 88,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "1237",
       "nazwa": "Honda Asimo",
       "rok": 2001,
       "elementy": 56,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "5223",
       "nazwa": "Wind-Up Motor",
       "rok": 2001,
       "elementy": 41,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8240",
       "nazwa": "Slammer Stunt Bike",
       "rok": 2001,
       "elementy": 152,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8241",
       "nazwa": "Battle Cars",
       "rok": 2001,
       "elementy": 115,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8242",
       "nazwa": "Slammer Turbo",
       "rok": 2001,
       "elementy": 253,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8463",
       "nazwa": "Forklift",
       "rok": 2001,
       "elementy": 235,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8464",
       "nazwa": "Pneumatic Front-End Loader",
       "rok": 2001,
       "elementy": 591,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8465",
       "nazwa": "Extreme Off Roader",
       "rok": 2001,
       "elementy": 365,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8466",
       "nazwa": "4x4 Off-Roader",
       "rok": 2001,
       "elementy": 1102,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8429",
       "nazwa": "Helicopter",
       "rok": 2002,
       "elementy": 147,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8430",
       "nazwa": "Mag Wheel Master",
       "rok": 2002,
       "elementy": 318,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8431",
       "nazwa": "Pneumatic Crane Truck",
       "rok": 2002,
       "elementy": 862,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8438",
       "nazwa": "Pneumatic Crane Truck",
       "rok": 2003,
       "elementy": 848,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8441",
       "nazwa": "Fork-Lift Truck",
       "rok": 2003,
       "elementy": 72,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8451",
       "nazwa": "Dump Truck",
       "rok": 2003,
       "elementy": 183,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8453",
       "nazwa": "Front-End Loader",
       "rok": 2003,
       "elementy": 214,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8454",
       "nazwa": "Rescue Truck",
       "rok": 2003,
       "elementy": 639,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8455",
       "nazwa": "Back-Hoe",
       "rok": 2003,
       "elementy": 704,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8433",
       "nazwa": "Cool Movers",
       "rok": 2004,
       "elementy": 215,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8434",
       "nazwa": "Aircraft",
       "rok": 2004,
       "elementy": 445,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8435",
       "nazwa": "4WD",
       "rok": 2004,
       "elementy": 763,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8436",
       "nazwa": "Truck",
       "rok": 2004,
       "elementy": 1027,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8439",
       "nazwa": "Front End Loader",
       "rok": 2004,
       "elementy": 582,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8415",
       "nazwa": "Dump Truck",
       "rok": 2005,
       "elementy": 284,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8416",
       "nazwa": "Fork-Lift",
       "rok": 2005,
       "elementy": 729,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8418",
       "nazwa": "Mini Loader",
       "rok": 2005,
       "elementy": 66,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8419",
       "nazwa": "Excavator",
       "rok": 2005,
       "elementy": 286,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8420",
       "nazwa": "Street Bike",
       "rok": 2005,
       "elementy": 506,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8421",
       "nazwa": "Mobile Crane",
       "rok": 2005,
       "elementy": 1884,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8281",
       "nazwa": "Mini Tractor",
       "rok": 2006,
       "elementy": 121,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8282",
       "nazwa": "Quad Bike",
       "rok": 2006,
       "elementy": 200,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8283",
       "nazwa": "Telehandler",
       "rok": 2006,
       "elementy": 323,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8284",
       "nazwa": "Dune Buggy / Tractor",
       "rok": 2006,
       "elementy": 872,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8285",
       "nazwa": "Tow Truck",
       "rok": 2006,
       "elementy": 1877,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8287",
       "nazwa": "Motor Box",
       "rok": 2006,
       "elementy": 93,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8288",
       "nazwa": "Crawler Crane",
       "rok": 2006,
       "elementy": 800,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8289",
       "nazwa": "Fire Truck",
       "rok": 2006,
       "elementy": 1035,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8270",
       "nazwa": "Rough Terrain Crane",
       "rok": 2007,
       "elementy": 106,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8271",
       "nazwa": "Wheel Loader",
       "rok": 2007,
       "elementy": 200,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8272",
       "nazwa": "Snowmobile",
       "rok": 2007,
       "elementy": 331,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8273",
       "nazwa": "Off Road Truck",
       "rok": 2007,
       "elementy": 805,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8274",
       "nazwa": "Combine Harvester",
       "rok": 2007,
       "elementy": 1025,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8275",
       "nazwa": "Motorized Bulldozer",
       "rok": 2007,
       "elementy": 1384,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66300",
       "nazwa": "Bonus/Value Pack",
       "rok": 2008,
       "elementy": 720,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8290",
       "nazwa": "Mini Forklift",
       "rok": 2008,
       "elementy": 89,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8291",
       "nazwa": "Dirt Bike",
       "rok": 2008,
       "elementy": 248,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8292",
       "nazwa": "Cherry Picker",
       "rok": 2008,
       "elementy": 726,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8294",
       "nazwa": "Excavator",
       "rok": 2008,
       "elementy": 720,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8295",
       "nazwa": "Telescopic Handler",
       "rok": 2008,
       "elementy": 1182,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8296",
       "nazwa": "Dune Buggy",
       "rok": 2008,
       "elementy": 199,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8297",
       "nazwa": "Off-Roader",
       "rok": 2008,
       "elementy": 1097,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66318",
       "nazwa": "Super Pack 4 in 1",
       "rok": 2009,
       "elementy": 984,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8063",
       "nazwa": "Tractor with Trailer",
       "rok": 2009,
       "elementy": 1100,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8256",
       "nazwa": "Go-Kart",
       "rok": 2009,
       "elementy": 144,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8258",
       "nazwa": "Crane Truck",
       "rok": 2009,
       "elementy": 1877,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8259",
       "nazwa": "Mini Bulldozer",
       "rok": 2009,
       "elementy": 165,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8260",
       "nazwa": "Tractor",
       "rok": 2009,
       "elementy": 104,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 49.95
     },
     {
       "numer": "8261",
       "nazwa": "Rally Truck",
       "rok": 2009,
       "elementy": 198,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8262",
       "nazwa": "Quad-Bike",
       "rok": 2009,
       "elementy": 308,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8263",
       "nazwa": "Snow Groomer",
       "rok": 2009,
       "elementy": 590,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8264",
       "nazwa": "Hauler",
       "rok": 2009,
       "elementy": 575,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 289.95
     },
     {
       "numer": "8265",
       "nazwa": "Front Loader",
       "rok": 2009,
       "elementy": 1061,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 419.95
     },
     {
       "numer": "66359",
       "nazwa": "Super Pack 4 in 1",
       "rok": 2010,
       "elementy": 804,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8041",
       "nazwa": "Race Truck",
       "rok": 2010,
       "elementy": 608,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8043",
       "nazwa": "Motorized Excavator",
       "rok": 2010,
       "elementy": 1123,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 749.95
     },
     {
       "numer": "8045",
       "nazwa": "Mini Telehandler",
       "rok": 2010,
       "elementy": 117,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "8046",
       "nazwa": "Helicopter",
       "rok": 2010,
       "elementy": 152,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.95
     },
     {
       "numer": "8047",
       "nazwa": "Compact Excavator",
       "rok": 2010,
       "elementy": 252,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.95
     },
     {
       "numer": "8048",
       "nazwa": "Buggy",
       "rok": 2010,
       "elementy": 314,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "8049",
       "nazwa": "Tractor with Log Loader",
       "rok": 2010,
       "elementy": 525,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.95
     },
     {
       "numer": "8051",
       "nazwa": "Motorbike",
       "rok": 2010,
       "elementy": 467,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "8052",
       "nazwa": "Container Truck",
       "rok": 2010,
       "elementy": 686,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "8053",
       "nazwa": "Mobile Crane",
       "rok": 2010,
       "elementy": 1289,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "66397",
       "nazwa": "Technic Super Pack 4 in 1",
       "rok": 2011,
       "elementy": 1272,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8065",
       "nazwa": "Mini Container Truck",
       "rok": 2011,
       "elementy": 119,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "8066",
       "nazwa": "Off-Roader",
       "rok": 2011,
       "elementy": 141,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "8067",
       "nazwa": "Mini Mobile Crane",
       "rok": 2011,
       "elementy": 292,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "8068",
       "nazwa": "Rescue Helicopter",
       "rok": 2011,
       "elementy": 408,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "8069",
       "nazwa": "Backhoe Loader",
       "rok": 2011,
       "elementy": 609,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "8070",
       "nazwa": "Super Car",
       "rok": 2011,
       "elementy": 1281,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 499.99
     },
     {
       "numer": "8071",
       "nazwa": "Bucket Truck",
       "rok": 2011,
       "elementy": 593,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "8081",
       "nazwa": "Extreme Cruiser",
       "rok": 2011,
       "elementy": 590,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8109",
       "nazwa": "Flatbed Truck",
       "rok": 2011,
       "elementy": 1115,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "8110",
       "nazwa": "Mercedes-Benz Unimog U 400",
       "rok": 2011,
       "elementy": 2048,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "66433",
       "nazwa": "Super Pack 3-in-1",
       "rok": 2012,
       "elementy": 1163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "9390",
