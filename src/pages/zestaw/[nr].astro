@@ -143,10 +143,10 @@ const opisMeta = najlepsza
       <div>
         {galeriaSlajder.length > 0 ? (
           <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
-            <div class="slajder-tasma">
-              <img src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie główne`} width="800" height="800" />
+            <div class="slajder-tasma" id={`tasma-${nr}`}>
+              <img id={`kl-${nr}-0`} src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie główne`} width="800" height="800" />
               {galeriaSlajder.map((_, i) => (
-                <img src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+                <img id={`kl-${nr}-${i + 1}`} src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
           </figure>
@@ -162,7 +162,19 @@ const opisMeta = najlepsza
           </div>
         )}
         {galeriaSlajder.length > 0 && (
-          <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przewiń w bok</p>
+          <>
+            <div class="miniatury" data-tasma={`tasma-${nr}`}>
+              <a href={`#kl-${nr}-0`} class="miniatura-btn" aria-label="Zdjęcie 1">
+                <img src={foto?.url ?? `/img/${nr}.jpg`} alt="" loading="lazy" width="80" height="80" />
+              </a>
+              {galeriaSlajder.map((_, i) => (
+                <a href={`#kl-${nr}-${i + 1}`} class="miniatura-btn" aria-label={`Zdjęcie ${i + 2}`}>
+                  <img src={`/img/${nr}-${i + 1}.jpg`} alt="" loading="lazy" width="80" height="80" />
+                </a>
+              ))}
+            </div>
+            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przesuń palcem lub kliknij miniaturę</p>
+          </>
         )}
         {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>
@@ -255,4 +267,26 @@ const opisMeta = najlepsza
       )
     )}
   </article>
+  <script is:inline>
+    // Miniatury przewijają taśmę zdjęć w poziomie. Bez skryptu kotwice #kl-…
+    // też działają — skrypt tylko zapobiega przeskokowi całej strony
+    // i podświetla aktywną miniaturę.
+    document.querySelectorAll('.miniatury').forEach((pasek) => {
+      const tasma = document.getElementById(pasek.dataset.tasma);
+      if (!tasma) return;
+      const guziki = [...pasek.querySelectorAll('.miniatura-btn')];
+      const oznacz = (i) => guziki.forEach((g, j) => g.classList.toggle('aktywna', i === j));
+      oznacz(0);
+      guziki.forEach((g, i) => {
+        g.addEventListener('click', (e) => {
+          e.preventDefault();
+          tasma.scrollTo({ left: i * tasma.clientWidth, behavior: 'smooth' });
+          oznacz(i);
+        });
+      });
+      tasma.addEventListener('scroll', () => {
+        oznacz(Math.round(tasma.scrollLeft / tasma.clientWidth));
+      }, { passive: true });
+    });
+  </script>
 </Base>

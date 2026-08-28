@@ -874,6 +874,20 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .slajder-tasma::-webkit-scrollbar-thumb { background: var(--granat-60); border-radius: 3px; }
 .slajder-info { margin: 6px 0 0; font-size: 0.75rem; color: var(--granat-60); }
 
+/* Miniatury pod zdjęciem — na desktopie klikalne, na telefonie zbędne
+   (tam wystarczy przesunięcie palcem), więc chowamy je na wąskich ekranach. */
+.miniatury { display: none; }
+@media (min-width: 700px) {
+  .miniatury { display: grid; grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); gap: 6px; margin-top: 8px; }
+  .miniatura-btn {
+    display: block; border: 2px solid transparent; border-radius: 6px; overflow: hidden;
+    background: #fff; line-height: 0; cursor: pointer; transition: border-color .12s ease;
+  }
+  .miniatura-btn img { width: 100%; aspect-ratio: 1 / 1; object-fit: contain; }
+  .miniatura-btn:hover { border-color: var(--granat-60); }
+  .miniatura-btn.aktywna { border-color: var(--zolty, #ffc933); }
+}
+
 /* Karta zestawu pod tabelą cen */
 .karta-setu .prose { margin: 0 0 14px; }
 .faq-setu { margin: 10px 0 0; }
