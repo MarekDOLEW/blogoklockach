@@ -492,3 +492,29 @@ Konkretny przypadek: cała interaktywna linia Super Mario (37 zestawów) ma
 według źródeł branżowych zejść ze sprzedaży do końca 2026 — **nie oznaczamy
 jej**, dopóki LEGO nie poda terminów. Artykuł o restarcie serii mówi o tym
 czytelnikowi wprost i tłumaczy dlaczego, zamiast udawać, że luki nie ma.
+
+---
+
+## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
+
+Serwer nie ma dostępu do lego.com (403 na ruch z data center) i to była nasza
+największa dziura w danych — polskie ceny katalogowe braliśmy z Bricksetu,
+przeliczane kursem, co dawało systematyczne zawyżenia.
+
+**Firecrawl przechodzi.** Pełny katalog `lego.com/pl-pl/categories/all-sets`
+to 57 stron listingu, ~75 kredytów przy pobieraniu jako markdown (ekstrakcja
+przez AI kosztuje ~5× więcej i dokłada ryzyko zmyślonych wartości — nie używać).
+
+Wynik pierwszego przebiegu: 1210 pozycji, w tym 814 zestawów. Po wczytaniu do
+`rrp_potwierdzone.json`: 119 naszych cen okazało się błędnych (112 zawyżonych),
+32 sety dostały brakującą cenę, pule 1 i 2 backfillu (dostępne + wycofania)
+zeszły do zera.
+
+**Reguła odczytu ceny:** `RRP = priceBefore` gdy trwa promocja, w przeciwnym
+razie `price`. Status „Ostatnie zestawy" to dostępność, nie obniżka — te ceny
+są katalogowe. Kontrola: wszystkie kwoty muszą leżeć na polskiej drabinie
+(końcówki .99 i .49); cokolwiek innego oznacza błąd scrapowania.
+
+**Czego lego.pl nie da:** zestawów wycofanych z produkcji. Pozostałe 319 pozycji
+puli backfillu to EOL z serii Ideas/Icons/Star Wars/Technic/Harry Potter —
+tam nadal potrzebny jest Brickset albo inne źródło.
