@@ -1,0 +1,159 @@
+---
+// Podstrona jednego miesiąca premier: /nowosci/wrzesien-2026/ itd.
+//
+// Powód istnienia: /nowosci/ pokazuje TO, CO JUŻ JEST w sprzedaży, w jednym
+// worku z ostatnich trzech miesięcy. Kupujący pyta inaczej — „co wychodzi we
+// wrześniu" — i to jest fraza sezonowa, po której konkurencja ma teksty,
+// a my nie mieliśmy nic.
+//
+// Strona jest w całości liczona z sety.json (pole `premiera`), więc nie
+// wymaga redakcyjnego utrzymania: każda partia danych aktualizuje ją sama,
+// a nowy miesiąc dostaje własny adres, gdy tylko uzbiera PROG_SETOW pozycji.
+// Wyjątkiem są krótkie komentarze redakcyjne w KOMENTARZ — dopisujemy je tam,
+// gdzie miesiąc ma wyraźny charakter, i tylko wtedy.
+import Base from '../../layouts/Base.astro';
+import Okruszki from '../../components/Okruszki.astro';
+import sety from '../../data/sety.json';
+import { urlZdjecia } from '../../lib/media.js';
+import { miesiac, ymZeSlugu, PROG_SETOW } from '../../lib/miesiace.js';
+
+const ymSetu = (s) => String(s.premiera ?? '').slice(0, 7);
+
+export function getStaticPaths() {
+  const ile = new Map();
+  for (const s of Object.values(sety)) {
+    const ym = String(s.premiera ?? '').slice(0, 7);
+    if (/^\d{4}-\d{2}$/.test(ym)) ile.set(ym, (ile.get(ym) ?? 0) + 1);
+  }
+  return [...ile]
+    .filter(([ym, n]) => n >= PROG_SETOW && ym >= '2026-01')
+    .map(([ym]) => ({ params: { miesiac: miesiac(ym).sciezka.split('/')[2] } }));
+}
+
+const ym = ymZeSlugu(Astro.params.miesiac);
+const m = miesiac(ym);
+
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const teraz = new Date();
+const biezacyYm = `${teraz.getFullYear()}-${String(teraz.getMonth() + 1).padStart(2, '0')}`;
+const przyszly = ym > biezacyYm;
+
+const zestawy = Object.entries(sety)
+  .filter(([, s]) => ymSetu(s) === ym)
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .sort((a, b) => (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0));
+
+// Sąsiednie miesiące — do przechodzenia bez wracania na /nowosci/.
+const wszystkie = [...new Set(Object.values(sety).map(ymSetu))]
+  .filter((x) => /^\d{4}-\d{2}$/.test(x) && x >= '2026-01')
+  .filter((x) => Object.values(sety).filter((s) => ymSetu(s) === x).length >= PROG_SETOW)
+  .sort();
+const poz = wszystkie.indexOf(ym);
+const poprzedni = poz > 0 ? miesiac(wszystkie[poz - 1]) : null;
+const nastepny = poz >= 0 && poz < wszystkie.length - 1 ? miesiac(wszystkie[poz + 1]) : null;
+
+// Liczby, nie oceny — wszystko poniżej wynika wprost z danych.
+const zCena = zestawy.filter((s) => s.cena_katalogowa);
+const najdrozszy = zCena[0] ?? null;
+const najtanszy = zCena[zCena.length - 1] ?? null;
+const ekskluzywy = zestawy.filter((s) => s.ekskluzyw);
+const serie = [...new Set(zestawy.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
+const adwentowe = zestawy.filter((s) => /kalendarz adwentowy/i.test(s.nazwa));
+const cenyAdwentowych = [...new Set(adwentowe.map((s) => s.cena_katalogowa).filter(Boolean))]
+  .sort((a, b) => a - b)
+  .map(fmt);
+
+// Komentarz redakcyjny dopisujemy tylko tam, gdzie miesiąc ma charakter —
+// pusty wpis jest w porządku, strona broni się liczbami.
+const KOMENTARZ = {
+  '2026-09': `Wrzesień jest miesiącem, w którym LEGO ustawia sobie czwarty kwartał. Wchodzą <b>kalendarze adwentowe</b> — kupowane we wrześniu, otwierane w grudniu — oraz duże ekskluzywy pod prezent dla dorosłego. Jeśli planujesz kalendarz adwentowy, wrzesień i październik to jedyne miesiące z pełną dostępnością; w listopadzie znikają najpierw te najpopularniejsze.`,
+  '2026-10': `Październik to ostatni miesiąc premier, które zdążą się przecenić przed świętami. Zestaw wprowadzony teraz łapie pierwsze rabaty w okolicach Black Friday; grudniowa premiera stoi w cenie katalogowej aż do stycznia.`,
+};
+
+const tytul = `Premiery LEGO ${m.wMiesiacu} ${m.rok}`;
+const opis = `${zestawy.length} ${przyszly ? 'zapowiedzianych premier' : 'premier'} LEGO ${m.wMiesiacu} ${m.rok}: ceny katalogowe, liczba elementów i to, co z nich warto kupić. Dane aktualizujemy codziennie.`;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Strona główna', item: new URL('/', Astro.site).href },
+        { '@type': 'ListItem', position: 2, name: 'Nowości', item: new URL('/nowosci/', Astro.site).href },
+        { '@type': 'ListItem', position: 3, name: tytul, item: new URL(m.sciezka, Astro.site).href },
+      ],
+    },
+    {
+      '@type': 'ItemList',
+      name: tytul,
+      numberOfItems: zestawy.length,
+      itemListElement: zestawy.map((s, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: `LEGO ${s.nr} ${s.nazwa}`,
+        url: new URL(`/zestaw/${s.nr}/`, Astro.site).href,
+      })),
+    },
+  ],
+};
+---
+<Base title={tytul} description={opis} jsonld={jsonld}>
+  <Okruszki sciezka={[{ nazwa: 'Strona główna', href: '/' }, { nazwa: 'Nowości', href: '/nowosci/' }, { nazwa: `${m.mianownik} ${m.rok}` }]} />
+
+  <h1 style="margin-top:18px">{tytul}</h1>
+
+  <p>
+    {przyszly
+      ? `W tym miesiącu do sprzedaży wchodzi ${zestawy.length} zapowiedzianych zestawów`
+      : `W tym miesiącu do sprzedaży weszło ${zestawy.length} zestawów`}
+    {serie.length > 1 ? ` z ${serie.length} serii` : ''}.
+    {najdrozszy && najtanszy && najdrozszy.nr !== najtanszy.nr && (
+      <span> Rozpiętość cen katalogowych: od <b>{fmt(najtanszy.cena_katalogowa)}</b> do <b>{fmt(najdrozszy.cena_katalogowa)}</b>.</span>
+    )}
+    {ekskluzywy.length > 0 && (
+      <span> {ekskluzywy.length === 1
+        ? 'Jedna pozycja jest ekskluzywna'
+        : `${ekskluzywy.length} pozycji jest ekskluzywnych`} dla oficjalnego sklepu LEGO — tam nie ma czego porównywać, cena jest jedna.</span>
+    )}
+  </p>
+
+  {KOMENTARZ[ym] && <p set:html={KOMENTARZ[ym]} />}
+
+  {adwentowe.length > 1 && (
+    <p><b>Kalendarze adwentowe ({adwentowe.length}):</b> {adwentowe.map((s, i) => (
+      <>{i > 0 ? ', ' : ''}<a href={`/zestaw/${s.nr}/`}>{s.seria}</a></>
+    ))}. {cenyAdwentowych.length === 1
+      ? <>Wszystkie po {cenyAdwentowych[0]}.</>
+      : <>Ceny od {cenyAdwentowych[0]} do {cenyAdwentowych[cenyAdwentowych.length - 1]}.</>}</p>
+  )}
+
+  <p>Bieżące ceny w sklepach są w tabelach na podstronach zestawów — klikasz kafelek i widzisz, gdzie dziś najtaniej. Terminy okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a to, co z rynku znika, w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <div class="siatka siatka--nowosci">
+    {zestawy.map((s) => (
+      <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+        {s.foto ? (
+          <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />
+        ) : (
+          <div class="foto-brak" aria-hidden="true"><span class="studs"><i></i><i></i><i></i><i></i></span></div>
+        )}
+        <span class="nr">LEGO {s.nr} {przyszly && <span class="badge-wkrotce">wkrótce</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+        <h3>{s.nazwa}</h3>
+        <span class="badge-seria">{s.seria}</span>
+        <div class="cena-linia">
+          <span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span>
+          <span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span>
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <nav class="mies-nawigacja" aria-label="Sąsiednie miesiące">
+    {poprzedni ? <a href={poprzedni.sciezka}>← {poprzedni.mianownik} {poprzedni.rok}</a> : <span></span>}
+    <a href="/nowosci/">Wszystkie nowości</a>
+    {nastepny ? <a href={nastepny.sciezka}>{nastepny.mianownik} {nastepny.rok} →</a> : <span></span>}
+  </nav>
+
+  <p class="drobne">Zestawienie składamy z naszej bazy zestawów — data premiery pochodzi od producenta i dystrybutorów, ceny katalogowe za oficjalnym sklepem LEGO. Zestawy zapowiedziane, ale bez ogłoszonej ceny, pokazujemy bez kwoty zamiast szacować. Lista uzupełnia się automatycznie, w miarę jak kolejne premiery trafiają do bazy.</p>
+</Base>

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "aktualizacja": "2026-08-26",
+    "aktualizacja": "2026-08-28",
     "zrodla": [
       "brickset.com (theme Ideas)",
       "lego.com",
@@ -24,7 +24,9 @@
       "brickset.com (theme Classic)",
       "brickset.com (theme Botanicals)",
       "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)",
-      "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)"
+      "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)",
+      "lego.com/pl-pl (cena katalogowa 75639)",
+      "promoklocki.pl (weryfikacja ceny katalogowej 75639)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -56749,6 +56751,14 @@
     }
   ],
   "One Piece": [
+    {
+      "numer": "75639",
+      "nazwa": "Statek piracki Going Merry",
+      "rok": 2025,
+      "elementy": 1376,
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
+    },
     {
       "numer": "75641",
       "nazwa": "Kryjówka doktora Hiluluka",

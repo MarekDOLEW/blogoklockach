@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "opis": "Plan redakcyjny tylkoklocki.pl - co i kiedy publikujemy. Zrodlo strony /kalendarz-redakcyjny/ oraz zajawki na stronie glownej.",
+    "zasada": "Append-only jak pozostale pliki w src/data. Pozycji NIE usuwamy - zmieniamy im `status`. Tekst, ktory sie nie ukazal, dostaje status 'odlozone' z powodem, zeby bylo widac, co i dlaczego wypadlo z planu.",
+    "statusy": {
+      "opublikowane": "tekst jest na stronie; pole `url` obowiazkowe",
+      "w_toku": "w researchu albo w redakcji",
+      "planowane": "zaplanowane, prace jeszcze nie ruszyly",
+      "odlozone": "wypadlo z planu; pole `powod` obowiazkowe"
+    },
+    "okno": "Przedzial, w ktorym tekst ma sie ukazac - nie konkretny dzien. Format 'YYYY-MM-DD..YYYY-MM-DD'. Swiadomie nie obiecujemy dat dziennych.",
+    "zaktualizowano": "2026-08-28"
+  },
+  "kotwice_sezonu": [
+    {
+      "data": "2026-10-01",
+      "nazwa": "Przedsprzedaż 75457 Executor dla Insiders",
+      "opis": "Najdłuższy zestaw w historii LEGO; przez trzy dni wyłącznie dla członków programu."
+    },
+    {
+      "data": "2026-10-04",
+      "nazwa": "Executor w otwartej sprzedaży",
+      "opis": "Wejście do sklepów zewnętrznych — pierwszy moment na porównanie cen."
+    },
+    {
+      "data": "2026-11-27",
+      "nazwa": "Black Friday",
+      "opis": "Najgłębsze rabaty roku; okno przecen otwiera się zwykle tydzień wcześniej."
+    },
+    {
+      "data": "2026-12-31",
+      "nazwa": "Grudniowa fala wycofań",
+      "opis": "Kilkanaście zestawów schodzi z oficjalnej sprzedaży — po tej dacie ceny rosną, nie spadają."
+    },
+    {
+      "data": "2027-01-01",
+      "nazwa": "Fala premier na 2027",
+      "opis": "Restart Super Mario, zapowiadana fala Friends, przecieki Marvela i DC."
+    }
+  ],
+  "plan": [
+    {
+      "tytul": "Kalendarze adwentowe LEGO 2026: który wybrać i kiedy kupić",
+      "dzial": "Rankingi",
+      "okno": "2026-09-01..2026-09-14",
+      "status": "planowane",
+      "dlaczego": "Pięć kalendarzy wchodzi we wrześniu, a kupuje się je na trzy miesiące przed otwarciem. To najwcześniejszy zakup całego sezonu i jedyny, przy którym listopad jest już za późno."
+    },
+    {
+      "tytul": "Prezentownik LEGO według budżetu: do 100, do 300 i do 600 zł",
+      "dzial": "Prezentownik",
+      "okno": "2026-09-08..2026-09-30",
+      "status": "planowane",
+      "dlaczego": "Mamy dwanaście prezentowników po seriach, ale kupujący częściej zaczyna od kwoty niż od serii. To brakująca oś wyboru."
+    },
+    {
+      "tytul": "75457 Executor: co trzeba wiedzieć przed przedsprzedażą",
+      "dzial": "Premiery",
+      "okno": "2026-09-20..2026-09-30",
+      "status": "planowane",
+      "dlaczego": "Przedsprzedaż 1 października jest tylko dla Insiders, a otwarta sprzedaż rusza 4 października. Tekst musi wyjść przed pierwszą datą, nie po niej."
+    },
+    {
+      "tytul": "Wycofania grudnia 2026: co kupić teraz, a co odpuścić",
+      "dzial": "Kalendarze",
+      "okno": "2026-10-01..2026-10-20",
+      "status": "planowane",
+      "dlaczego": "Terminy wycofań są pewniejsze niż terminy premier. Tekst ma wyjść odpowiednio wcześnie, żeby czytelnik zdążył przed Black Friday, a nie po nim."
+    },
+    {
+      "tytul": "Black Friday 2026 na klockach: jak odróżnić rabat od pseudopromocji",
+      "dzial": "Poradniki",
+      "okno": "2026-11-10..2026-11-24",
+      "status": "planowane",
+      "dlaczego": "Największy ruch zakupowy roku i moment, w którym najłatwiej przepłacić. Nasza przewaga to liczony rabat od ceny katalogowej, a nie przepisana etykieta ze sklepu."
+    },
+    {
+      "tytul": "LEGO Super Mario od nowa: minifigurki zamiast elektroniki",
+      "dzial": "Premiery",
+      "okno": "2026-08-27..2026-08-27",
+      "status": "opublikowane",
+      "url": "/artykuly/lego-super-mario-2027-minifigurki/",
+      "dlaczego": "Osiem zestawów potwierdzonych na Gamescom i wycofanie całej interaktywnej linii do końca roku."
+    },
+    {
+      "tytul": "Nowe zasady nagród LEGO Insiders",
+      "dzial": "Poradniki",
+      "okno": "2026-08-27..2026-08-27",
+      "status": "opublikowane",
+      "url": "/artykuly/lego-insiders-nowe-zasady-nagrod/",
+      "dlaczego": "Zmiana wchodzi tuż przed sezonem, w którym program realnie wpływa na to, gdzie się opłaca kupować."
+    }
+  ]
+}

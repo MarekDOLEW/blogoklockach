@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import sety from '../data/sety.json';
 import { urlZdjecia } from '../lib/media.js';
+import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
@@ -12,12 +13,32 @@ const nowe = Object.entries(sety)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
+
+// Podstrony miesięczne: „co wychodzi we wrześniu" to inne pytanie niż „co jest
+// nowego" i inna fraza w wyszukiwarce. Lista liczy się z tych samych danych,
+// więc nowy miesiąc pojawia się tu sam, gdy uzbiera PROG_SETOW premier.
+const ilePerMiesiac = new Map();
+for (const s of Object.values(sety)) {
+  const k = String(s.premiera ?? '').slice(0, 7);
+  if (/^\d{4}-\d{2}$/.test(k) && k >= '2026-01') ilePerMiesiac.set(k, (ilePerMiesiac.get(k) ?? 0) + 1);
+}
+const miesiace = [...ilePerMiesiac]
+  .filter(([, n]) => n >= PROG_SETOW)
+  .sort((a, b) => (a[0] < b[0] ? 1 : -1))
+  .map(([k, n]) => ({ ...miesiac(k), ile: n }));
 const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 ---
 <Base title="Nowości LEGO — premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy i zapowiedzi. Ceny, liczba elementów, zdjęcia i nasza ocena, czy warto.`}>
   <h1 style="margin-top:28px">Nowości LEGO</h1>
   <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi. Aktualizujemy codziennie rano.</p>
   <p>Patrzysz dalej w przyszłość? Zebraliśmy <a href="/zapowiedzi-lego-2027/">wszystkie zapowiedzi LEGO na 2027 rok</a> — z podpowiedziami, które zestawy z obecnej oferty warto mieć, zanim znikną.</p>
+
+  <nav class="mies-lista" aria-label="Premiery miesiąc po miesiącu">
+    <span class="mies-lista__etykieta">Miesiąc po miesiącu:</span>
+    {miesiace.map((x) => (
+      <a href={x.sciezka}>{x.mianownik} {x.rok} <span class="mies-lista__ile">{x.ile}</span></a>
+    ))}
+  </nav>
 
   <div class="now-filtr karta">
     <div>
