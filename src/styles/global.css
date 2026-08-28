@@ -855,3 +855,25 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .deal-wiecej:hover { background: #fff8e1; text-decoration-color: var(--granat); }
 .site-footer a { transition: color 0.12s ease; text-underline-offset: 2px; }
 .site-footer a:hover { color: #fff; text-decoration-thickness: 2px; }
+
+
+/* Slajder zdjęć zestawu — przewijanie poziome ze snapowaniem, bez JS.
+   Zdjęcia idą przez /img/<nr>-N.jpg (worker + trwała kopia w R2). */
+.slajder { position: relative; }
+.slajder-tasma {
+  display: flex; gap: 8px; overflow-x: auto; scroll-snap-type: x mandatory;
+  scroll-behavior: smooth; -webkit-overflow-scrolling: touch; border-radius: 10px;
+}
+.slajder-tasma > img {
+  flex: 0 0 100%; scroll-snap-align: center; width: 100%; height: auto;
+  object-fit: contain; background: #fff; border-radius: 10px;
+}
+.slajder-tasma::-webkit-scrollbar { height: 6px; }
+.slajder-tasma::-webkit-scrollbar-thumb { background: var(--granat-60); border-radius: 3px; }
+.slajder-info { margin: 6px 0 0; font-size: 0.78rem; color: var(--granat-60); text-align: center; }
+
+/* Karta zestawu pod tabelą cen */
+.karta-setu .prose { margin: 0 0 14px; }
+.faq-setu { margin: 10px 0 0; }
+.faq-setu dt { font-weight: 700; margin-top: 14px; }
+.faq-setu dd { margin: 4px 0 0; color: var(--granat-60); }

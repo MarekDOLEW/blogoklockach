@@ -5,6 +5,8 @@ import Okruszki from '../../components/Okruszki.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { zdjecieSetu, opisSetu } from '../../lib/media.js';
+import karty from '../../data/karty_setow.json';
+import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
@@ -41,7 +43,13 @@ const foto =
 // kolejność: opis redakcyjny -> uwagi z listy wycofań (pisane ręcznie, aktualne)
 // -> opis generowany; generator bywa nieaktualny (np. "nie ma go w sklepach"
 // o secie, który LEGO wciąż sprzedaje), więc stoi na końcu
-const opis = s?.opis ?? wycofanie?.uwagi ?? opisSetu(nr, { sety })?.tekst ?? null;
+// Karta katalogowo-sprzedażowa (redakcja) — pełny opis pod tabelą cen.
+const karta = karty[nr] ?? null;
+// Zdjęcia slajdera: /img/<nr>-N.jpg serwuje worker z galerie.json
+const galeriaSlajder = galerie[nr] ?? [];
+// Gdy jest karta, generowany opis ustępuje — inaczej te same fakty pojawiłyby
+// się dwa razy, a generator bywa nieaktualny.
+const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety })?.tekst) ?? null;
 
 // status sprzedaży dla lekkich hubów
 const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
@@ -106,6 +114,20 @@ const sciezkaOkruszkow = [
   { nazwa: `LEGO ${nr}` },
 ];
 
+// FAQ z karty trafia do danych strukturalnych — realna treść, na której Google
+// może oprzeć ocenę jakości podstrony, a nie sam szablon cenowy.
+const faqJsonld = karta?.faq?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: karta.faq.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') },
+      })),
+    }
+  : null;
+
 // tytuł zwięzły — Google obcina ~60 znaków, sufiks domeny dokłada Base
 const tytul = najlepsza
   ? `LEGO ${nr} ${nazwa} — cena i promocje`
@@ -114,12 +136,22 @@ const opisMeta = najlepsza
   ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki]} ogImage={foto?.url ?? undefined}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined}>
   <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
       <div>
-        {foto?.url ? (
+        {galeriaSlajder.length > 0 ? (
+          <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
+            <div class="slajder-tasma">
+              <img src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie główne`} width="800" height="800" />
+              {galeriaSlajder.map((_, i) => (
+                <img src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+              ))}
+            </div>
+            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przewiń w bok</p>
+          </figure>
+        ) : foto?.url ? (
           <figure class="foto-okno">
             <img src={foto.url} alt={`LEGO ${nr} ${nazwa} — zdjęcie zestawu`} width="800" height="800" />
           </figure>
@@ -175,13 +207,34 @@ const opisMeta = najlepsza
     {wkrotce && oferty.length === 0 ? (
       <p class="karta" style="padding: 14px 18px; margin: 18px 0;"><strong>Zapowiedź:</strong> premiera {s.premiera}. Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.</p>
     ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
-      <>
+      <div id="ceny">
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
         <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy — wiążąca jest zawsze cena w koszyku sklepu.</p>
-      </>
+      </div>
     ) : (
       <p class="karta" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' — po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
     )}
+
+    {karta && (
+      <section class="sekcja karta-setu" style="margin-top:24px">
+        <h2>LEGO {nr} {karta.nazwa} — opis</h2>
+        {karta.akapity.map((a) => <p class="prose" set:html={a} />)}
+        {karta.faq?.length > 0 && (
+          <>
+            <h3 style="margin-top:22px">Najczęstsze pytania</h3>
+            <dl class="faq-setu">
+              {karta.faq.map((f) => (
+                <>
+                  <dt>{f.q}</dt>
+                  <dd set:html={f.a} />
+                </>
+              ))}
+            </dl>
+          </>
+        )}
+      </section>
+    )}
+
 
     {s ? (
       <div class="persony">

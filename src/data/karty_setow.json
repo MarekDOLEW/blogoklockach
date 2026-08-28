@@ -1,0 +1,1487 @@
+{
+ "_meta": {
+  "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
+  "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
+  "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
+  "zaktualizowano": "2026-08-28",
+  "serie_wgrane": [
+   "City"
+  ]
+ },
+ "60478": {
+  "seria": "City",
+  "nazwa": "Betoniarka",
+  "elementy": 371,
+  "akapity": [
+   "LEGO City 60478 Betoniarka to regularny zestaw wydany 1 stycznia 2026. Liczy 371 elementów, ma oznaczenie wieku 7+ i pozwala zbudować betoniarkę z obrotowym bębnem oraz niewielkie wyposażenie placu budowy. Trzy minifigurki pozwalają od razu rozgrywać dostawy mieszanki i prace budowlane. Zestaw jest skierowany przede wszystkim do dzieci lubiących ciężarówki, maszyny i scenki z placu budowy. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do pojazdów i zestawów budowlanych LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest obrotowy bęben połączony z klasycznym miejskim scenariuszem zabawy."
+  ],
+  "metryka": {
+   "Numer": "60478",
+   "Nazwa": "Betoniarka",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "371",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "3",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "zestaw budowlany z pojazdem",
+   "Powiązanie": "pojazdów i zestawów budowlanych LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60478?",
+    "a": "Oficjalna polska cena katalogowa wynosi 169,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 371 elementach wskaźnik wynosi około 0,46 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60478?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do pojazdów i zestawów budowlanych LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60479": {
+  "seria": "City",
+  "nazwa": "Furgonetka policyjnego konwoju więziennego",
+  "elementy": 198,
+  "akapity": [
+   "LEGO City 60479 Furgonetka policyjnego konwoju więziennego to regularny zestaw wydany 1 stycznia 2026. Liczy 198 elementów, ma oznaczenie wieku 6+ i pozwala zbudować furgonetkę z celą więzienną oraz motocykl używany podczas próby odbicia zatrzymanego. Łańcuch z hakiem może wyrwać drzwi celi, a policjant i dwaj przestępcy tworzą gotową obsadę pościgu. Zestaw jest skierowany przede wszystkim do dzieci lubiących policyjne akcje, pojazdy i odgrywanie ról. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do policyjnych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest prosty mechanizm ucieczki, który uruchamia cały scenariusz zabawy."
+  ],
+  "metryka": {
+   "Numer": "60479",
+   "Nazwa": "Furgonetka policyjnego konwoju więziennego",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "198",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "3",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "policyjny zestaw pościgowy",
+   "Powiązanie": "policyjnych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60479?",
+    "a": "Oficjalna polska cena katalogowa wynosi 81,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 198 elementach wskaźnik wynosi około 0,41 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60479?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do policyjnych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60480": {
+  "seria": "City",
+  "nazwa": "Żółta koparko-ładowarka",
+  "elementy": 301,
+  "akapity": [
+   "LEGO City 60480 Żółta koparko-ładowarka to regularny zestaw wydany 1 czerwca 2026. Liczy 301 elementów, ma oznaczenie wieku 7+ i pozwala zbudować koparko-ładowarkę z przednią łyżką, tylnym ramieniem koparki i małą scenką budowlaną. Dwie minifigurki oraz dodatkowe wyposażenie pozwalają odgrywać prace ziemne i obsługę maszyny. Zestaw jest skierowany przede wszystkim do dzieci zainteresowanych maszynami budowlanymi i realistycznymi pojazdami. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do budowlanych pojazdów i scen LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest połączenie funkcji ładowarki i koparki w jednym pojeździe."
+  ],
+  "metryka": {
+   "Numer": "60480",
+   "Nazwa": "Żółta koparko-ładowarka",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "301",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zestaw budowlany z maszyną roboczą",
+   "Powiązanie": "budowlanych pojazdów i scen LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60480?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 301 elementach wskaźnik wynosi około 0,42 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60480?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do budowlanych pojazdów i scen LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60481": {
+  "seria": "City",
+  "nazwa": "Pojazdy — Ciężarówka policyjna",
+  "elementy": 71,
+  "akapity": [
+   "LEGO City 60481 Pojazdy — Ciężarówka policyjna to regularny zestaw wydany 1 stycznia 2026. Liczy 71 elementów, ma oznaczenie wieku 5+ i pozwala zbudować kompaktową ciężarówkę policyjną oraz minifigurkę funkcjonariusza. Niewielka liczba elementów skraca budowę i pozwala szybko przejść do zabawy pojazdem. Zestaw jest skierowany przede wszystkim do młodszych dzieci szukających niedużego zestawu policyjnego. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do pozostałych małych pojazdów LEGO City oraz większych zestawów policyjnych. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest niski próg wejścia do serii przy zachowaniu pełnej minifigurki."
+  ],
+  "metryka": {
+   "Numer": "60481",
+   "Nazwa": "Pojazdy — Ciężarówka policyjna",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "71",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,59 zł",
+   "Typ zestawu": "mały pojazd z linii LEGO City Pojazdy",
+   "Powiązanie": "pozostałych małych pojazdów LEGO City oraz większych zestawów policyjnych"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60481?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 71 elementach wskaźnik wynosi około 0,59 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60481?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do pozostałych małych pojazdów LEGO City oraz większych zestawów policyjnych. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60482": {
+  "seria": "City",
+  "nazwa": "Pojazdy — Wóz strażacki",
+  "elementy": 67,
+  "akapity": [
+   "LEGO City 60482 Pojazdy — Wóz strażacki to regularny zestaw wydany 1 stycznia 2026. Liczy 67 elementów, ma oznaczenie wieku 5+ i pozwala zbudować niewielki wóz strażacki i minifigurkę strażaka. Prosta konstrukcja jest przygotowana do krótkiej budowy i samodzielnej zabawy ratowniczej. Zestaw jest skierowany przede wszystkim do młodszych fanów straży pożarnej oraz małych pojazdów. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do strażackich zestawów LEGO City i innych modeli z linii Pojazdy. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest czytelny motyw ratowniczy zamknięty w zestawie za najniższy próg cenowy serii."
+  ],
+  "metryka": {
+   "Numer": "60482",
+   "Nazwa": "Pojazdy — Wóz strażacki",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "67",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,63 zł",
+   "Typ zestawu": "mały pojazd z linii LEGO City Pojazdy",
+   "Powiązanie": "strażackich zestawów LEGO City i innych modeli z linii Pojazdy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60482?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 67 elementach wskaźnik wynosi około 0,63 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60482?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do strażackich zestawów LEGO City i innych modeli z linii Pojazdy. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60483": {
+  "seria": "City",
+  "nazwa": "Pojazdy — Ładowarka kołowa",
+  "elementy": 61,
+  "akapity": [
+   "LEGO City 60483 Pojazdy — Ładowarka kołowa to regularny zestaw wydany 1 stycznia 2026. Liczy 61 elementów, ma oznaczenie wieku 5+ i pozwala zbudować kompaktową ładowarkę kołową z ruchomą łyżką i minifigurkę operatora. Model można szybko złożyć, a ruchomy osprzęt pozwala przewozić niewielkie ładunki. Zestaw jest skierowany przede wszystkim do młodszych dzieci lubiących maszyny budowlane. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do większych zestawów budowlanych LEGO City oraz małych modeli Pojazdy. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest ruchoma łyżka w bardzo niewielkiej konstrukcji."
+  ],
+  "metryka": {
+   "Numer": "60483",
+   "Nazwa": "Pojazdy — Ładowarka kołowa",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "61",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,69 zł",
+   "Typ zestawu": "mały pojazd z linii LEGO City Pojazdy",
+   "Powiązanie": "większych zestawów budowlanych LEGO City oraz małych modeli Pojazdy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60483?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 61 elementach wskaźnik wynosi około 0,69 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60483?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do większych zestawów budowlanych LEGO City oraz małych modeli Pojazdy. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60484": {
+  "seria": "City",
+  "nazwa": "Pojazdy — Gamingowa wyścigówka",
+  "elementy": 64,
+  "akapity": [
+   "LEGO City 60484 Pojazdy — Gamingowa wyścigówka to regularny zestaw wydany 1 stycznia 2026. Liczy 64 elementów, ma oznaczenie wieku 5+ i pozwala zbudować kolorową wyścigówkę o stylistyce inspirowanej grami oraz minifigurkę kierowcy. Niewielki model jest łatwy do zabrania i może od razu uczestniczyć w miejskich wyścigach. Zestaw jest skierowany przede wszystkim do młodszych dzieci interesujących się samochodami i grami. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do wyścigowych pojazdów LEGO City i pozostałych modeli z linii Pojazdy. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest gamingowa stylistyka odróżniająca samochód od zwykłych miejskich aut."
+  ],
+  "metryka": {
+   "Numer": "60484",
+   "Nazwa": "Pojazdy — Gamingowa wyścigówka",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "64",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,66 zł",
+   "Typ zestawu": "mały samochód z linii LEGO City Pojazdy",
+   "Powiązanie": "wyścigowych pojazdów LEGO City i pozostałych modeli z linii Pojazdy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60484?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 64 elementach wskaźnik wynosi około 0,66 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60484?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do wyścigowych pojazdów LEGO City i pozostałych modeli z linii Pojazdy. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60485": {
+  "seria": "City",
+  "nazwa": "Hot Rod",
+  "elementy": 81,
+  "akapity": [
+   "LEGO City 60485 Hot Rod to regularny zestaw wydany 1 stycznia 2026. Liczy 81 elementów, ma oznaczenie wieku 5+ i pozwala zbudować klasycznie stylizowany hot rod z odsłoniętymi detalami silnika oraz minifigurkę kierowcy. Kompaktowa konstrukcja służy przede wszystkim do szybkiej zabawy i organizowania ulicznych wyścigów. Zestaw jest skierowany przede wszystkim do młodszych fanów samochodów o wyrazistej stylistyce. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do wyścigowych i drogowych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest hotrodowa sylwetka rzadziej spotykana w podstawowej ofercie City."
+  ],
+  "metryka": {
+   "Numer": "60485",
+   "Nazwa": "Hot Rod",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "81",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,52 zł",
+   "Typ zestawu": "mały samochód wyścigowy",
+   "Powiązanie": "wyścigowych i drogowych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60485?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 81 elementach wskaźnik wynosi około 0,52 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60485?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do wyścigowych i drogowych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60486": {
+  "seria": "City",
+  "nazwa": "Supersamochód elektryczny",
+  "elementy": 109,
+  "akapity": [
+   "LEGO City 60486 Supersamochód elektryczny to regularny zestaw wydany 1 stycznia 2026. Liczy 109 elementów, ma oznaczenie wieku 5+ i pozwala zbudować sportowo stylizowany samochód elektryczny z miejscem dla minifigurki kierowcy. Model łączy futurystyczny wygląd z prostą konstrukcją dostosowaną do młodszych budowniczych. Zestaw jest skierowany przede wszystkim do dzieci lubiących nowoczesne auta i krótkie projekty konstrukcyjne. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do miejskich i wyścigowych pojazdów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest elektryczny charakter pokazany w formie niedrogiego supersamochodu."
+  ],
+  "metryka": {
+   "Numer": "60486",
+   "Nazwa": "Supersamochód elektryczny",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "109",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "41,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "mały samochód miejski",
+   "Powiązanie": "miejskich i wyścigowych pojazdów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60486?",
+    "a": "Oficjalna polska cena katalogowa wynosi 41,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 109 elementach wskaźnik wynosi około 0,39 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60486?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do miejskich i wyścigowych pojazdów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60487": {
+  "seria": "City",
+  "nazwa": "Żółta taksówka",
+  "elementy": 122,
+  "akapity": [
+   "LEGO City 60487 Żółta taksówka to regularny zestaw wydany 1 stycznia 2026. Liczy 122 elementów, ma oznaczenie wieku 5+ i pozwala zbudować żółtą taksówkę z otwieranym bagażnikiem i maską oraz dwie minifigurki. W kabinie znajduje się ekran GPS, a bagaż i oznaczenia taksówki wspierają scenki z przewozem pasażerów. Zestaw jest skierowany przede wszystkim do dzieci budujących własne miasto i odgrywających codzienne sytuacje. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do ulic, lotniska, dworca oraz innych miejskich zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest uniwersalny pojazd, który naturalnie pasuje do niemal każdej makiety miasta."
+  ],
+  "metryka": {
+   "Numer": "60487",
+   "Nazwa": "Żółta taksówka",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "122",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "61,99 zł",
+   "Cena katalogowa za element": "0,51 zł",
+   "Typ zestawu": "miejski zestaw transportowy",
+   "Powiązanie": "ulic, lotniska, dworca oraz innych miejskich zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60487?",
+    "a": "Oficjalna polska cena katalogowa wynosi 61,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 122 elementach wskaźnik wynosi około 0,51 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60487?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do ulic, lotniska, dworca oraz innych miejskich zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60488": {
+  "seria": "City",
+  "nazwa": "Food truck z frytkami",
+  "elementy": 216,
+  "akapity": [
+   "LEGO City 60488 Food truck z frytkami to regularny zestaw wydany 1 stycznia 2026. Liczy 216 elementów, ma oznaczenie wieku 5+ i pozwala zbudować food trucka stylizowanego na pudełko frytek, stanowisko przygotowania jedzenia i dwie minifigurki. Wnętrze ma frytkownicę, przyprawy i przesuwane okienko do obsługi klientów. Zestaw jest skierowany przede wszystkim do dzieci lubiących pojazdy, zabawę w sklep i serwowanie jedzenia. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do gastronomicznych i ulicznych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest nadwozie przypominające wielkie pudełko frytek."
+  ],
+  "metryka": {
+   "Numer": "60488",
+   "Nazwa": "Food truck z frytkami",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "216",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "miejski zestaw gastronomiczny z pojazdem",
+   "Powiązanie": "gastronomicznych i ulicznych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60488?",
+    "a": "Oficjalna polska cena katalogowa wynosi 81,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 216 elementach wskaźnik wynosi około 0,38 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60488?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do gastronomicznych i ulicznych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60489": {
+  "seria": "City",
+  "nazwa": "Odrzutowiec kontra samochód",
+  "elementy": 259,
+  "akapity": [
+   "LEGO City 60489 Odrzutowiec kontra samochód to regularny zestaw wydany 1 stycznia 2026. Liczy 259 elementów, ma oznaczenie wieku 6+ i pozwala zbudować odrzutowiec oraz samochód wyścigowy, każdy z własną minifigurką kierowcy. Dwa niezależne modele pozwalają rozpocząć pojedynek na ziemi i w powietrzu bez dokupowania drugiego zestawu. Zestaw jest skierowany przede wszystkim do dzieci lubiących wyścigi, samoloty i dynamiczną zabawę pojazdami. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do wyścigowych i lotniczych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest bezpośrednie zestawienie dwóch różnych typów maszyn w jednym wyścigu."
+  ],
+  "metryka": {
+   "Numer": "60489",
+   "Nazwa": "Odrzutowiec kontra samochód",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "259",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zestaw wyścigowy z dwoma pojazdami",
+   "Powiązanie": "wyścigowych i lotniczych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60489?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 259 elementach wskaźnik wynosi około 0,48 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60489?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do wyścigowych i lotniczych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60490": {
+  "seria": "City",
+  "nazwa": "Pług śnieżny",
+  "elementy": 263,
+  "akapity": [
+   "LEGO City 60490 Pług śnieżny to regularny zestaw wydany 1 stycznia 2026. Liczy 263 elementów, ma oznaczenie wieku 6+ i pozwala zbudować ciężarówkę z przednim pługiem, wyposażeniem do zimowego utrzymania dróg i minifigurkę kierowcy. Ruchome elementy pozwalają odgrywać oczyszczanie ulic i przygotowywanie miasta do ruchu po opadach śniegu. Zestaw jest skierowany przede wszystkim do dzieci zainteresowanych pojazdami komunalnymi i realistyczną pracą miasta. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do drogowych oraz komunalnych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest rzadziej przedstawiany w City temat zimowego utrzymania ulic."
+  ],
+  "metryka": {
+   "Numer": "60490",
+   "Nazwa": "Pług śnieżny",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "263",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "miejski pojazd służb technicznych",
+   "Powiązanie": "drogowych oraz komunalnych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60490?",
+    "a": "Oficjalna polska cena katalogowa wynosi 104,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 263 elementach wskaźnik wynosi około 0,40 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60490?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do drogowych oraz komunalnych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60491": {
+  "seria": "City",
+  "nazwa": "Laweta dla motocykli",
+  "elementy": 88,
+  "akapity": [
+   "LEGO City 60491 Laweta dla motocykli to regularny zestaw wydany 1 stycznia 2026. Liczy 88 elementów, ma oznaczenie wieku 4+ i pozwala zbudować lawetę transportową, motocykle oraz dwie minifigurki. Duże elementy startowe upraszczają budowę, dzięki czemu młodsze dzieci szybko przechodzą do załadunku i jazdy. Zestaw jest skierowany przede wszystkim do czterolatków rozpoczynających samodzielne budowanie zestawów System. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do miejskich i motocyklowych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest połączenie łatwej budowy 4+ z kilkoma pojazdami do natychmiastowej zabawy."
+  ],
+  "metryka": {
+   "Numer": "60491",
+   "Nazwa": "Laweta dla motocykli",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "88",
+   "Wiek": "4+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,93 zł",
+   "Typ zestawu": "zestaw startowy 4+ z pojazdem",
+   "Powiązanie": "miejskich i motocyklowych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60491?",
+    "a": "Oficjalna polska cena katalogowa wynosi 81,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 88 elementach wskaźnik wynosi około 0,93 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60491?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do miejskich i motocyklowych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60492": {
+  "seria": "City",
+  "nazwa": "Samolot pasażerski",
+  "elementy": 118,
+  "akapity": [
+   "LEGO City 60492 Samolot pasażerski to regularny zestaw wydany 1 czerwca 2026. Liczy 118 elementów, ma oznaczenie wieku 4+ i pozwala zbudować samolot pasażerski z łatwym do zbudowania kadłubem i cztery minifigurki. Obsada pozwala odgrywać przygotowanie lotu, pracę załogi i podróż pasażerów bez rozbudowanego terminala. Zestaw jest skierowany przede wszystkim do młodszych dzieci zainteresowanych samolotami i podróżami. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do lotniska 60502 oraz innych lotniczych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest duża bryła samolotu osiągnięta przy niewielkiej liczbie elementów i oznaczeniu 4+."
+  ],
+  "metryka": {
+   "Numer": "60492",
+   "Nazwa": "Samolot pasażerski",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "118",
+   "Wiek": "4+",
+   "Minifigurki/postacie": "4",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "1,06 zł",
+   "Typ zestawu": "lotniczy zestaw startowy 4+",
+   "Powiązanie": "lotniska 60502 oraz innych lotniczych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60492?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 118 elementach wskaźnik wynosi około 1,06 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60492?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do lotniska 60502 oraz innych lotniczych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60493": {
+  "seria": "City",
+  "nazwa": "Ciężarówka F1® z bolidem Audi F1®",
+  "elementy": 508,
+  "akapity": [
+   "LEGO City 60493 Ciężarówka F1® z bolidem Audi F1® to regularny zestaw wydany 1 marca 2026. Liczy 508 elementów, ma oznaczenie wieku 7+ i pozwala zbudować ciężarówkę ekspozycyjno-serwisową, bolid Audi F1® i trzy minifigurki. Rozkładane elementy pojazdu tworzą zaplecze dla samochodu i scen związanych z przygotowaniem do wyścigu. Zestaw jest skierowany przede wszystkim do dzieci oraz fanów Formuły 1 zainteresowanych zabawą zespołem wyścigowym. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do licencjonowanych zestawów F1 w LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest oficjalny bolid Audi F1 połączony z mobilnym zapleczem zespołu.",
+   "Warto wiedzieć, skąd bierze się tu licencja. Audi wchodzi do Formuły 1 jako pełnoprawny zespół dopiero w sezonie 2026, więc ten zestaw jest jednym z pierwszych klockowych modeli tej ekipy — a nie kolejnym wariantem bolidu, który stoi na półkach od lat. Dla dziecka oznacza to samochód, którego nie ma w starszych pudełkach; dla rodzica — że wszystkie trzy minifigurki występują wyłącznie w tym zestawie. Wskaźnik 0,37 zł za element jest jak na licencjonowany produkt niski: w serii City licencje zwykle kosztują wyraźnie więcej niż zestawy bez marki."
+  ],
+  "metryka": {
+   "Numer": "60493",
+   "Nazwa": "Ciężarówka F1® z bolidem Audi F1®",
+   "Seria": "LEGO City",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "508",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "3",
+   "Polska cena katalogowa RRP": "189,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "licencjonowany zestaw transportowo-wyścigowy",
+   "Powiązanie": "licencjonowanych zestawów F1 w LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60493?",
+    "a": "Oficjalna polska cena katalogowa wynosi 189,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 508 elementach wskaźnik wynosi około 0,37 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60493?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do licencjonowanych zestawów F1 w LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60494": {
+  "seria": "City",
+  "nazwa": "Wywrotka i ładowarka czołowa",
+  "elementy": 1132,
+  "akapity": [
+   "LEGO City 60494 Wywrotka i ładowarka czołowa to regularny zestaw wydany 1 czerwca 2026. Liczy 1132 elementów, ma oznaczenie wieku 8+ i pozwala zbudować wywrotkę, ładowarkę czołową, przenośne zaplecze budowy, trzy minifigurki i figurkę psa. Ładowarka ma przegubowe kierowanie, a wywrotka działającą skrzynię i zawieszenie do zabawy w trudnym terenie. Zestaw jest skierowany przede wszystkim do starszych dzieci lubiących rozbudowane maszyny i dłuższą zabawę budowlaną. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do pozostałych zestawów budowlanych LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest dwie duże, funkcjonalne maszyny w jednym komplecie.",
+   "Ten zestaw kupuje się właściwie za dwie maszyny, nie za jedną z dodatkami — i to zmienia rachunek. Wskaźnik 0,46 zł za element wypada powyżej średniej dla City, ale liczba elementów myli: znaczną ich część stanowią duże części nadwozi, kół i ramion, które podbijają masę pudełka, a nie licznik klocków. Przegubowe kierowanie ładowarki to rozwiązanie, które w mniejszych zestawach budowlanych zwykle zastępuje się sztywną osią, więc dziecko dostaje maszynę zachowującą się jak pierwowzór. Praktyczna uwaga dla rodzica: po zbudowaniu obie maszyny zajmują sporo miejsca na podłodze i nie chowają się do pudełka po zabawie."
+  ],
+  "metryka": {
+   "Numer": "60494",
+   "Nazwa": "Wywrotka i ładowarka czołowa",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "1132",
+   "Wiek": "8+",
+   "Minifigurki/postacie": "3",
+   "Polska cena katalogowa RRP": "519,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "duży zestaw budowlany z dwiema maszynami",
+   "Powiązanie": "pozostałych zestawów budowlanych LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60494?",
+    "a": "Oficjalna polska cena katalogowa wynosi 519,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 1132 elementach wskaźnik wynosi około 0,46 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60494?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do pozostałych zestawów budowlanych LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60495": {
+  "seria": "City",
+  "nazwa": "Ciężarówka recyklingowa",
+  "elementy": 434,
+  "akapity": [
+   "LEGO City 60495 Ciężarówka recyklingowa to regularny zestaw wydany 1 stycznia 2026. Liczy 434 elementów, ma oznaczenie wieku 7+ i pozwala zbudować ciężarówkę do odbioru odpadów, pojemniki i dwie minifigurki pracowników. Ruchome wyposażenie pozwala ładować zawartość pojemników i odgrywać kolejne etapy zbiórki surowców. Zestaw jest skierowany przede wszystkim do dzieci budujących realistyczne miasto i zainteresowanych pojazdami użytkowymi. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do komunalnych, drogowych i miejskich zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest funkcja odbierania pojemników połączona z codziennym tematem recyklingu."
+  ],
+  "metryka": {
+   "Numer": "60495",
+   "Nazwa": "Ciężarówka recyklingowa",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "434",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "miejski pojazd komunalny",
+   "Powiązanie": "komunalnych, drogowych i miejskich zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60495?",
+    "a": "Oficjalna polska cena katalogowa wynosi 169,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 434 elementach wskaźnik wynosi około 0,39 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60495?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do komunalnych, drogowych i miejskich zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60496": {
+  "seria": "City",
+  "nazwa": "Dostawa pizzy z pojazdami",
+  "elementy": 494,
+  "akapity": [
+   "LEGO City 60496 Dostawa pizzy z pojazdami to regularny zestaw wydany 1 sierpnia 2026. Liczy 494 elementów, ma oznaczenie wieku 6+ i pozwala zbudować pizzerię z piecem i ladą, samochód, skuter dostawczy, drona oraz pięć minifigurek. Samochód ma wyrzutnię pizzy, a różne środki transportu pozwalają rozdzielać zamówienia między kilka tras. Zestaw jest skierowany przede wszystkim do dzieci lubiących zabawę w restaurację, dostawy i ruch uliczny. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do gastronomicznych budynków i pojazdów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest trzy sposoby dostarczania pizzy w jednym zestawie."
+  ],
+  "metryka": {
+   "Numer": "60496",
+   "Nazwa": "Dostawa pizzy z pojazdami",
+   "Seria": "LEGO City",
+   "Premiera": "1 sierpnia 2026",
+   "Liczba elementów": "494",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "5",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "miejski zestaw gastronomiczny z kilkoma pojazdami",
+   "Powiązanie": "gastronomicznych budynków i pojazdów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60496?",
+    "a": "Oficjalna polska cena katalogowa wynosi 209,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 494 elementach wskaźnik wynosi około 0,43 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60496?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do gastronomicznych budynków i pojazdów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60497": {
+  "seria": "City",
+  "nazwa": "Automatyczna myjnia samochodowa",
+  "elementy": 583,
+  "akapity": [
+   "LEGO City 60497 Automatyczna myjnia samochodowa to regularny zestaw wydany 1 czerwca 2026. Liczy 583 elementów, ma oznaczenie wieku 6+ i pozwala zbudować przejazdową myjnię, samochód i cztery minifigurki. Obracane szczotki oraz kolejne stanowiska obsługi pozwalają przeprowadzić pojazd przez pełny proces czyszczenia. Zestaw jest skierowany przede wszystkim do dzieci rozbudowujących własne miasto o codzienne usługi i miejsca pracy. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do ulicznych, samochodowych i usługowych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest działający przejazd przez myjnię zamiast samej fasady budynku.",
+   "Myjnia należy do tej kategorii zestawów City, w których wartość nie kończy się na zbudowaniu modelu. Mechanizm przejazdowy działa w pętli — samochód wjeżdża, przechodzi przez kolejne stanowiska i wyjeżdża — więc zabawa jest powtarzalna w sposób, którego nie daje statyczny budynek z otwieranymi drzwiami. LEGO oznacza zestaw jako 6+, ale sklepy podają go od piątego roku życia i jest to realne: konstrukcja nie ma trudnych etapów, a najmłodszy budowniczy poradzi sobie z pomocą przy samych szczotkach."
+  ],
+  "metryka": {
+   "Numer": "60497",
+   "Nazwa": "Automatyczna myjnia samochodowa",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "583",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "4",
+   "Polska cena katalogowa RRP": "234,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "miejski zestaw usługowy z budynkiem",
+   "Powiązanie": "ulicznych, samochodowych i usługowych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60497?",
+    "a": "Oficjalna polska cena katalogowa wynosi 234,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 583 elementach wskaźnik wynosi około 0,40 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60497?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do ulicznych, samochodowych i usługowych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60498": {
+  "seria": "City",
+  "nazwa": "Traktor",
+  "elementy": 204,
+  "akapity": [
+   "LEGO City 60498 Traktor to regularny zestaw wydany 1 stycznia 2026. Liczy 204 elementów, ma oznaczenie wieku 6+ i pozwala zbudować traktor z minifigurką rolnika i wyposażeniem potrzebnym do prostych prac gospodarskich. Kompaktowy model jest nastawiony na jazdę i odgrywanie codziennych zadań na farmie. Zestaw jest skierowany przede wszystkim do dzieci lubiących maszyny rolnicze i spokojniejsze scenariusze zabawy. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do farm i pojazdów terenowych LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest klasyczny temat rolniczy w niedużym, łatwym do rozbudowy zestawie."
+  ],
+  "metryka": {
+   "Numer": "60498",
+   "Nazwa": "Traktor",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "204",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "1",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "rolniczy zestaw z pojazdem",
+   "Powiązanie": "farm i pojazdów terenowych LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60498?",
+    "a": "Oficjalna polska cena katalogowa wynosi 81,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 204 elementach wskaźnik wynosi około 0,40 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60498?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do farm i pojazdów terenowych LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60499": {
+  "seria": "City",
+  "nazwa": "Lotniskowy wóz strażacki",
+  "elementy": 691,
+  "akapity": [
+   "LEGO City 60499 Lotniskowy wóz strażacki to regularny zestaw wydany 1 stycznia 2026. Liczy 691 elementów, ma oznaczenie wieku 7+ i pozwala zbudować sześciokołowy wóz strażacki z bocznymi schowkami, rozkładanym wężem i cztery minifigurki. Rozbudowany pojazd może obsługiwać samodzielne akcje albo reagować na zdarzenia przy samolotach i terminalu. Zestaw jest skierowany przede wszystkim do dzieci lubiących specjalistyczne wozy strażackie i akcje ratownicze. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do lotniska 60502 i innych zestawów ratowniczych LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest charakterystyczna sześciokołowa konstrukcja typowa dla lotniskowych służb pożarniczych.",
+   "Sześć kół nie jest tu ozdobnikiem stylistycznym. Prawdziwe lotniskowe wozy gaśnicze buduje się na podwoziach trzyosiowych, bo muszą wieźć kilka ton środka gaśniczego i wyjechać poza drogę utwardzoną — LEGO odwzorowało typ pojazdu, a nie ogólne wyobrażenie strażackiego wozu. Zestaw jest przy tym samym pojazdem, bez budynku i bez pasa startowego, więc pełnię sensu zyskuje dopiero obok lotniska. Jeśli w domu nie ma jeszcze żadnego zestawu lotniczego, sam wóz wystarczy do zabawy, ale scenariusze szybko się wyczerpią."
+  ],
+  "metryka": {
+   "Numer": "60499",
+   "Nazwa": "Lotniskowy wóz strażacki",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "691",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "4",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "duży lotniskowy pojazd ratowniczy",
+   "Powiązanie": "lotniska 60502 i innych zestawów ratowniczych LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60499?",
+    "a": "Oficjalna polska cena katalogowa wynosi 299,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 691 elementach wskaźnik wynosi około 0,43 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60499?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do lotniska 60502 i innych zestawów ratowniczych LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60500": {
+  "seria": "City",
+  "nazwa": "Furgonetka LEGO®",
+  "elementy": 276,
+  "akapity": [
+   "LEGO City 60500 Furgonetka LEGO® to regularny zestaw wydany 1 stycznia 2026. Liczy 276 elementów, ma oznaczenie wieku 6+ i pozwala zbudować żółtą furgonetkę z rozkładanymi bokami, wózek, paletę, miniaturowe pudełka LEGO i dwie minifigurki. Otwierana przestrzeń ładunkowa pozwala przeprowadzać dostawy i przenosić zestawy do sklepów w zbudowanym mieście. Zestaw jest skierowany przede wszystkim do dzieci oraz fanów motywów pokazujących markę LEGO wewnątrz świata klocków. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do sklepów, magazynów i ulicznych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest miniaturowe pudełka LEGO przewożone przez pojazd z firmowymi oznaczeniami."
+  ],
+  "metryka": {
+   "Numer": "60500",
+   "Nazwa": "Furgonetka LEGO®",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "276",
+   "Wiek": "6+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "miejski samochód dostawczy",
+   "Powiązanie": "sklepów, magazynów i ulicznych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60500?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 276 elementach wskaźnik wynosi około 0,45 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60500?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do sklepów, magazynów i ulicznych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60501": {
+  "seria": "City",
+  "nazwa": "Park rollercoasterów Lava Land",
+  "elementy": 1165,
+  "akapity": [
+   "LEGO City 60501 Park rollercoasterów Lava Land to regularny zestaw wydany 1 sierpnia 2026. Liczy 1165 elementów, ma oznaczenie wieku 8+ i pozwala zbudować wulkaniczny rollercoaster z pełną pętlą, karuzelę z wagonikami kopalnianymi i osiem minifigurek. Przejazd kolejki może uruchomić spadający lawowy głaz, a ruchomy skalny potwór rozszerza scenariusze zabawy. Zestaw jest skierowany przede wszystkim do starszych dzieci lubiących kolejki górskie, mechaniczne atrakcje i rozbudowane scenki. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do wesołych miasteczek i miejskich atrakcji LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest pełna pętla rollercoastera oraz czytelne nawiązania do górniczo-lawowych motywów LEGO.",
+   "Osiem minifigurek w jednym pudełku to w serii City liczba wyjątkowa i to ona najmocniej podnosi wartość tego zestawu — wszystkie występują wyłącznie tutaj. Przy 0,36 zł za element wskaźnik ceny wypada najkorzystniej wśród dużych zestawów City rocznika 2026, co przy parkach rozrywki nie jest regułą: konstrukcje z torami zwykle podbijają koszt specjalistycznymi częściami. Warto natomiast wiedzieć, że rollercoaster napędza sama grawitacja — wagonik trzeba wypuścić ręcznie z góry, nie ma tu silnika ani mechanizmu podnoszącego."
+  ],
+  "metryka": {
+   "Numer": "60501",
+   "Nazwa": "Park rollercoasterów Lava Land",
+   "Seria": "LEGO City",
+   "Premiera": "1 sierpnia 2026",
+   "Liczba elementów": "1165",
+   "Wiek": "8+",
+   "Minifigurki/postacie": "8",
+   "Polska cena katalogowa RRP": "419,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "duży zestaw parku rozrywki",
+   "Powiązanie": "wesołych miasteczek i miejskich atrakcji LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60501?",
+    "a": "Oficjalna polska cena katalogowa wynosi 419,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 1165 elementach wskaźnik wynosi około 0,36 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60501?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do wesołych miasteczek i miejskich atrakcji LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60502": {
+  "seria": "City",
+  "nazwa": "Lotnisko z samolotem",
+  "elementy": 887,
+  "akapity": [
+   "LEGO City 60502 Lotnisko z samolotem to regularny zestaw wydany 1 stycznia 2026. Liczy 887 elementów, ma oznaczenie wieku 8+ i pozwala zbudować terminal, samolot pasażerski, stanowiska odprawy i kontroli oraz dziewięć minifigurek. Bramka bezpieczeństwa, tablica odlotów i część handlowa tworzą kilka etapów podróży do odgrywania. Zestaw jest skierowany przede wszystkim do dzieci zainteresowanych lotnictwem, podróżami i rozbudowanym role-play. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do samolotu 60492, wozu strażackiego 60499 i innych zestawów lotniczych LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest połączenie kompletnego terminala z dużą obsadą i własnym samolotem.",
+   "Dziewięć minifigurek to rekord całej serii City w tym roczniku i główny powód, dla którego wskaźnik 0,47 zł za element wygląda wysoko — obsada nie liczy się jako klocki, a stanowi realną część wartości pudełka. Za te pieniądze dostajemy komplet: terminal, samolot i stanowiska obsługi, czyli scenę, która działa od razu, bez dokupowania czegokolwiek. To zarazem zestaw, który najbardziej zyskuje na dostawianiu kolejnych pojazdów lotniskowych, bo terminal sam w sobie jest tłem dla akcji, a nie jej głównym bohaterem."
+  ],
+  "metryka": {
+   "Numer": "60502",
+   "Nazwa": "Lotnisko z samolotem",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "887",
+   "Wiek": "8+",
+   "Minifigurki/postacie": "9",
+   "Polska cena katalogowa RRP": "419,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "duży zestaw lotniskowy z budynkiem i samolotem",
+   "Powiązanie": "samolotu 60492, wozu strażackiego 60499 i innych zestawów lotniczych LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60502?",
+    "a": "Oficjalna polska cena katalogowa wynosi 419,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 887 elementach wskaźnik wynosi około 0,47 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60502?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do samolotu 60492, wozu strażackiego 60499 i innych zestawów lotniczych LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60503": {
+  "seria": "City",
+  "nazwa": "Helikopter straży przybrzeżnej",
+  "elementy": 551,
+  "akapity": [
+   "LEGO City 60503 Helikopter straży przybrzeżnej to regularny zestaw wydany 1 stycznia 2026. Liczy 551 elementów, ma oznaczenie wieku 7+ i pozwala zbudować duży helikopter, kapsułę ratunkową, elementy morskiej sceny i cztery minifigurki. Przesuwne drzwi, opuszczana tylna rampa i działająca wyciągarka pozwalają prowadzić akcje nad wodą. Zestaw jest skierowany przede wszystkim do dzieci lubiących helikoptery, ratownictwo i dynamiczne funkcje. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do łodzi ratunkowej 60504 oraz innych zestawów straży przybrzeżnej LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest funkcjonalna wyciągarka używana do podnoszenia ratownika i poszkodowanego.",
+   "Wyciągarka jest tu funkcją, która faktycznie działa, a nie atrapą — linka nawija się na bęben i unosi kapsułę z ratownikiem, więc dziecko odgrywa całą sekwencję akcji, a nie tylko lądowanie. W przeliczeniu na europejską cenę katalogową ten zestaw wypada najkorzystniej z całego tegorocznego City: różnica jest niewielka, ale konsekwentna. Wszystkie cztery minifigurki są dla niego wyłączne, co ma znaczenie, jeśli w domu rośnie kolekcja ratowników."
+  ],
+  "metryka": {
+   "Numer": "60503",
+   "Nazwa": "Helikopter straży przybrzeżnej",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "551",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "4",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "lotniczy zestaw ratownictwa morskiego",
+   "Powiązanie": "łodzi ratunkowej 60504 oraz innych zestawów straży przybrzeżnej LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60503?",
+    "a": "Oficjalna polska cena katalogowa wynosi 249,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 551 elementach wskaźnik wynosi około 0,45 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60503?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do łodzi ratunkowej 60504 oraz innych zestawów straży przybrzeżnej LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60504": {
+  "seria": "City",
+  "nazwa": "Łódź ratunkowa i helikopter straży przybrzeżnej",
+  "elementy": 742,
+  "akapity": [
+   "LEGO City 60504 Łódź ratunkowa i helikopter straży przybrzeżnej to regularny zestaw wydany 1 stycznia 2026. Liczy 742 elementów, ma oznaczenie wieku 7+ i pozwala zbudować pływającą łódź ratunkową z wnętrzem, ponton, mały helikopter, pięć minifigurek i figurkę psa. Pokład ma lądowisko, a rampa pozwala spuszczać ponton; trzy jednostki wodne rzeczywiście unoszą się na wodzie. Zestaw jest skierowany przede wszystkim do dzieci lubiących rozbudowane akcje na morzu i modele nadające się do zabawy w wodzie. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do helikoptera 60503 i pozostałych zestawów straży przybrzeżnej LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest duża pływająca jednostka łącząca kilka środków ratowniczych.",
+   "To najdroższy zestaw straży przybrzeżnej w tym roczniku i widać to we wskaźniku 0,63 zł za element — jednym z najwyższych w całej serii. Powód jest konstrukcyjny: kadłub łodzi powstaje z dużych, formowanych części, które kosztują znacznie więcej niż zwykłe klocki, a licznika elementów prawie nie ruszają. W zamian dostajemy jednostkę, która naprawdę pływa, razem z pontonem i lądowiskiem dla śmigłowca. Jeśli dziecko ma zamiar puszczać ją w wannie albo w brodziku, warto z góry przyjąć, że model będzie później wymagał osuszenia i przeglądu — woda sama w sobie klockom nie szkodzi, ale zostaje w zamkniętych przestrzeniach kadłuba."
+  ],
+  "metryka": {
+   "Numer": "60504",
+   "Nazwa": "Łódź ratunkowa i helikopter straży przybrzeżnej",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "742",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "5",
+   "Polska cena katalogowa RRP": "469,99 zł",
+   "Cena katalogowa za element": "0,63 zł",
+   "Typ zestawu": "duży zestaw ratownictwa morskiego",
+   "Powiązanie": "helikoptera 60503 i pozostałych zestawów straży przybrzeżnej LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60504?",
+    "a": "Oficjalna polska cena katalogowa wynosi 469,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 742 elementach wskaźnik wynosi około 0,63 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60504?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do helikoptera 60503 i pozostałych zestawów straży przybrzeżnej LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60505": {
+  "seria": "City",
+  "nazwa": "Zestaw z samolotem, ciężarówką serwisową i poduszkowcem",
+  "elementy": 990,
+  "akapity": [
+   "LEGO City 60505 Zestaw z samolotem, ciężarówką serwisową i poduszkowcem to regularny zestaw wydany 1 stycznia 2026. Liczy 990 elementów, ma oznaczenie wieku 7+ i pozwala zbudować samolot medyczny, ciężarówkę serwisową i poduszkowiec straży przybrzeżnej oraz trzy minifigurki. Modułowe sekcje pojazdów można mieszać i łączyć, tworząc nietypowe maszyny do własnych misji. Zestaw jest skierowany przede wszystkim do dzieci lubiących przebudowywanie, eksperymentowanie i pojazdy ratownicze. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do zestawów LEGO City Remix oraz standardowych scen miejskich. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest system wymiennych modułów zachęcający do budowania poza podstawowymi instrukcjami.",
+   "Ten zestaw ma najniższy koszt elementu w całym tegorocznym City — 0,30 zł — i nie jest to przypadek, tylko konsekwencja formuły Remix. Zamiast jednego dopracowanego modelu dostajemy trzy pojazdy zbudowane z wymiennych sekcji, które można rozdzielać i łączyć na własnych zasadach. Dla dziecka, które lubi rozbierać gotowe konstrukcje, to zaleta trudna do przecenienia; dla dziecka traktującego instrukcję jako cel — przewaga formuły w dużej mierze się marnuje. Warto rozstrzygnąć to przed zakupem, bo różnica w wykorzystaniu zestawu będzie ogromna."
+  ],
+  "metryka": {
+   "Numer": "60505",
+   "Nazwa": "Zestaw z samolotem, ciężarówką serwisową i poduszkowcem",
+   "Seria": "LEGO City",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "990",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "3",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "modułowy zestaw LEGO City Remix",
+   "Powiązanie": "zestawów LEGO City Remix oraz standardowych scen miejskich"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60505?",
+    "a": "Oficjalna polska cena katalogowa wynosi 299,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 990 elementach wskaźnik wynosi około 0,30 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60505?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do zestawów LEGO City Remix oraz standardowych scen miejskich. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60506": {
+  "seria": "City",
+  "nazwa": "Tramwaj przy plaży",
+  "elementy": 693,
+  "akapity": [
+   "LEGO City 60506 Tramwaj przy plaży to regularny zestaw wydany 1 czerwca 2026. Liczy 693 elementów, ma oznaczenie wieku 7+ i pozwala zbudować klasycznie stylizowany tramwaj, odcinek torów, przystanek przy plaży i pięć minifigurek. Model tworzy gotową scenę podróży nad morze i może obsługiwać mieszkańców większej makiety LEGO City. Zestaw jest skierowany przede wszystkim do dzieci i dorosłych fanów transportu miejskiego oraz klasycznych pojazdów szynowych. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do zestawów kolejowych, plażowych i miejskich LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest retro stylistyka tramwaju połączona z pełną nadmorską scenerią.",
+   "Tramwaj sprzedaje się tu stylistyką, a nie funkcjami — i to jest uczciwe postawienie sprawy. Model nie ma napędu i nie da się go zmotoryzować w standardzie, więc jeździ pchany ręką po krótkim odcinku toru. W zamian dostajemy sylwetkę klasycznego wagonu z retro detalami, która wygląda dobrze także na półce dorosłego, oraz gotową nadmorską scenkę z przystankiem. Jeśli w domu jest już makieta z torami City, tramwaj wpisze się w nią bez przeróbek."
+  ],
+  "metryka": {
+   "Numer": "60506",
+   "Nazwa": "Tramwaj przy plaży",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "693",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "5",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "zestaw transportu publicznego z nadmorską scenką",
+   "Powiązanie": "zestawów kolejowych, plażowych i miejskich LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60506?",
+    "a": "Oficjalna polska cena katalogowa wynosi 299,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 693 elementach wskaźnik wynosi około 0,43 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60506?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do zestawów kolejowych, plażowych i miejskich LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60508": {
+  "seria": "City",
+  "nazwa": "Napad na policyjny pociąg",
+  "elementy": 1313,
+  "akapity": [
+   "LEGO City 60508 Napad na policyjny pociąg to regularny zestaw wydany 1 marca 2026. Liczy 1313 elementów, ma oznaczenie wieku 7+ i pozwala zbudować lokomotywę Powered Up, trzy wagony, owal torów, przejazd, helikopter, samochód i sześć minifigurek. Helikopter ma chwytak do odbicia sejfu, a napędzany pociąg przewozi przestępcę i skonfiskowany pojazd. Zestaw jest skierowany przede wszystkim do starszych dzieci lubiących kolej, sterowanie pojazdami i rozbudowane policyjne pościgi. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do policyjnych oraz kolejowych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest połączenie kompletnego napędzanego pociągu z pełnym scenariuszem napadu.",
+   "Powered Up to element, który najbardziej zmienia charakter tego zestawu, ale wymaga kilku słów wyjaśnienia. Lokomotywa jeździ naprawdę, sterowana z aplikacji na telefonie albo z pilota, a silnik i odbiornik są w pudełku — nie trzeba nic dokupować, żeby pociąg ruszył. Trzeba natomiast liczyć się z bateriami: zestaw zjada je w tempie zależnym od tego, jak intensywnie dziecko bawi się składem, a akumulatorek Powered Up jest osobnym, dość drogim zakupem. Sterowanie z telefonu bywa też praktyczną przeszkodą u młodszych dzieci — deklarowane 7+ dotyczy budowania, nie obsługi aplikacji.",
+   "Osobna sprawa to pozycja cenowa: przy katalogowych 869,99 zł jest to najdroższy zestaw LEGO City rocznika 2026 i wskaźnik 0,66 zł za element tego nie tłumaczy sam z siebie. Płaci się przede wszystkim za napęd, owal torów i sześć wyłącznych minifigurek, czyli za elementy, których nie da się tanio odtworzyć z innych pudełek. To zestaw do świadomego zakupu w promocji, a nie w cenie katalogowej — porównanie ofert znajdziesz w tabeli wyżej."
+  ],
+  "metryka": {
+   "Numer": "60508",
+   "Nazwa": "Napad na policyjny pociąg",
+   "Seria": "LEGO City",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "1313",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "6",
+   "Polska cena katalogowa RRP": "869,99 zł",
+   "Cena katalogowa za element": "0,66 zł",
+   "Typ zestawu": "duży zdalnie sterowany zestaw kolejowo-policyjny",
+   "Powiązanie": "policyjnych oraz kolejowych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60508?",
+    "a": "Oficjalna polska cena katalogowa wynosi 869,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 1313 elementach wskaźnik wynosi około 0,66 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60508?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do policyjnych oraz kolejowych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60509": {
+  "seria": "City",
+  "nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
+  "elementy": 803,
+  "akapity": [
+   "LEGO City 60509 Portowy pociąg towarowy, dźwig i ciężarówka to regularny zestaw wydany 1 czerwca 2026. Liczy 803 elementów, ma oznaczenie wieku 7+ i pozwala zbudować lokomotywę i wagony towarowe, dźwig portowy, ciężarówkę, ładunki, tor oraz cztery minifigurki. Zestaw pozwala przenosić towary między koleją, nabrzeżem i transportem drogowym; napęd Powered Up można dodać osobno. Zestaw jest skierowany przede wszystkim do dzieci zainteresowanych logistyką, koleją i funkcjonalnymi scenami przeładunku. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do kolejowych, portowych i przemysłowych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest pełny łańcuch transportu ładunku między trzema rodzajami infrastruktury.",
+   "Najważniejsza informacja praktyczna dotyczy napędu: tego pociągu nie ma czym uruchomić prosto z pudełka. Skład jest przygotowany pod Powered Up, ale silnik, odbiornik i zasilanie trzeba dokupić osobno, co realnie podnosi koszt całości o kilkaset złotych. Bez tego dostajemy bardzo dobrze pomyślany łańcuch przeładunkowy — dźwig przenosi ładunek z wagonu na ciężarówkę i z powrotem — tyle że pchany ręką. Warto to wiedzieć przed zakupem, bo opis pudełka mówi o zgodności z Powered Up w sposób, który łatwo pomylić z jego obecnością w zestawie."
+  ],
+  "metryka": {
+   "Numer": "60509",
+   "Nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "803",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "4",
+   "Polska cena katalogowa RRP": "419,99 zł",
+   "Cena katalogowa za element": "0,52 zł",
+   "Typ zestawu": "kolejowy zestaw przeładunkowy",
+   "Powiązanie": "kolejowych, portowych i przemysłowych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60509?",
+    "a": "Oficjalna polska cena katalogowa wynosi 419,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 803 elementach wskaźnik wynosi około 0,52 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60509?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do kolejowych, portowych i przemysłowych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60510": {
+  "seria": "City",
+  "nazwa": "LEGO® City Kalendarz adwentowy na 2026 rok",
+  "elementy": 252,
+  "akapity": [
+   "LEGO City 60510 LEGO® City Kalendarz adwentowy na 2026 rok to regularny zestaw wydany 1 września 2026. Liczy 252 elementów, ma oznaczenie wieku 5+ i pozwala zbudować 24 niespodzianki z małymi modelami, akcesoriami i siedmioma postaciami, w tym Mikołajem, panią Mikołajową i trzema elfami. W zestawie są także bałwanek i mały renifer, a rozkładane opakowanie tworzy matę przedstawiającą warsztat Mikołaja. Zestaw jest skierowany przede wszystkim do dzieci odliczających dni do świąt i lubiących krótkie, codzienne budowy. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do innych zestawów LEGO City, do których można przenieść figurki i minimodele. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest 24 oddzielne niespodzianki oraz świąteczna mata do zabawy."
+  ],
+  "metryka": {
+   "Numer": "60510",
+   "Nazwa": "LEGO® City Kalendarz adwentowy na 2026 rok",
+   "Seria": "LEGO City",
+   "Premiera": "1 września 2026",
+   "Liczba elementów": "252",
+   "Wiek": "5+",
+   "Minifigurki/postacie": "7",
+   "Polska cena katalogowa RRP": "114,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "sezonowy kalendarz adwentowy",
+   "Powiązanie": "innych zestawów LEGO City, do których można przenieść figurki i minimodele"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60510?",
+    "a": "Oficjalna polska cena katalogowa wynosi 114,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 252 elementach wskaźnik wynosi około 0,46 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60510?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do innych zestawów LEGO City, do których można przenieść figurki i minimodele. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60511": {
+  "seria": "City",
+  "nazwa": "Retro pociąg z lokomotywą parową",
+  "elementy": 575,
+  "akapity": [
+   "LEGO City 60511 Retro pociąg z lokomotywą parową to regularny zestaw wydany 1 czerwca 2026. Liczy 575 elementów, ma oznaczenie wieku 7+ i pozwala zbudować lokomotywę parową, tender, wagon pasażerski, odcinek toru, peron i pięć minifigurek. Magnetyczne łączniki pozwalają rozdzielać skład, a opcjonalny napęd Powered Up można dokupić osobno. Zestaw jest skierowany przede wszystkim do dzieci oraz starszych fanów klasycznych pociągów i kolejowych scen miejskich. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do torów i pociągów LEGO City, w tym zestawu 60509. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest retro sylwetka pełnego składu z małym peronem i możliwością późniejszej motoryzacji.",
+   "Wskaźnik 0,66 zł za element jest tu jednym z najwyższych w serii i wymaga komentarza: w zestawach kolejowych znaczną część ceny pochłaniają koła, podwozia i odcinki toru, których nie da się zastąpić zwykłymi klockami. Skład łączy się magnetycznie, czyli standardem LEGO od dekad — wagony z innych pociągów City wpiną się bez przeróbek. Napędu w pudełku nie ma, ale konstrukcja jest przygotowana pod późniejsze dołożenie Powered Up, więc parowóz może zostać modelem statycznym albo z czasem ruszyć, zależnie od budżetu."
+  ],
+  "metryka": {
+   "Numer": "60511",
+   "Nazwa": "Retro pociąg z lokomotywą parową",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "575",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "5",
+   "Polska cena katalogowa RRP": "379,99 zł",
+   "Cena katalogowa za element": "0,66 zł",
+   "Typ zestawu": "klasyczny zestaw kolejowy",
+   "Powiązanie": "torów i pociągów LEGO City, w tym zestawu 60509"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60511?",
+    "a": "Oficjalna polska cena katalogowa wynosi 379,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 575 elementach wskaźnik wynosi około 0,66 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60511?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do torów i pociągów LEGO City, w tym zestawu 60509. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ },
+ "60512": {
+  "seria": "City",
+  "nazwa": "Furgonetka z rowerami górskimi",
+  "elementy": 260,
+  "akapity": [
+   "LEGO City 60512 Furgonetka z rowerami górskimi to regularny zestaw wydany 1 czerwca 2026. Liczy 260 elementów, ma oznaczenie wieku 7+ i pozwala zbudować furgonetkę wyprawową, rowery górskie, wyposażenie outdoorowe i dwie minifigurki. Pojazd przewozi sprzęt na początek trasy i pozwala odgrywać przygotowania do rowerowej wycieczki. Zestaw jest skierowany przede wszystkim do dzieci lubiących rowery, podróże i aktywność na świeżym powietrzu. Może działać jako samodzielna zabawka, ale naturalnie pasuje również do terenowych, kempingowych i rekreacyjnych zestawów LEGO City. Nie tworzy zamkniętej kolekcji ekspozycyjnej: należy do otwartego świata LEGO City, w którym pojazdy, budynki i postacie z różnych pudełek można swobodnie łączyć. Jego rzeczywistym wyróżnikiem jest kompletny motyw rowerowej wyprawy w niewielkim przedziale cenowym."
+  ],
+  "metryka": {
+   "Numer": "60512",
+   "Nazwa": "Furgonetka z rowerami górskimi",
+   "Seria": "LEGO City",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "260",
+   "Wiek": "7+",
+   "Minifigurki/postacie": "2",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "terenowy zestaw rekreacyjny z pojazdem",
+   "Powiązanie": "terenowych, kempingowych i rekreacyjnych zestawów LEGO City"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60512?",
+    "a": "Oficjalna polska cena katalogowa wynosi 81,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 260 elementach wskaźnik wynosi około 0,32 zł za element. To pomocnicza miara: nie uwzględnia rozmiaru części, funkcji, postaci ani wartości dużych elementów pojazdów."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zestaw należy do regularnej, szerokiej dystrybucji, więc rzadko warto płacić pełną cenę katalogową — rabaty pojawiają się w kolejnych sklepach przez cały rok. Aktualny poziom rynku sprawdzisz w <a href=\"#ceny\">tabeli nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 60512?",
+    "a": "Najlepiej porównać cenę efektywną, dostępność, koszt dostawy i sprzedawcę właściwego, a nie tylko oferty marketplace: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy zestaw można połączyć z innymi zestawami LEGO City?",
+    "a": "Tak. To samodzielny model, który naturalnie pasuje do terenowych, kempingowych i rekreacyjnych zestawów LEGO City. <a href=\"/serie/city/\">zobacz wszystkie zestawy LEGO City</a>."
+   }
+  ]
+ }
+}
