@@ -1041,3 +1041,44 @@ na trzy miesiące przed otwarciem.
 
 **Korekta wcześniejszego wpisu:** 75394 i 75419 mają już ceny katalogowe
 (729,99 i 4199,99 zł) — zgłoszenie z 27.08 było nieaktualne.
+
+## 2026-08-28 (3) · CODE (Radar) · Trzy decyzje Marka wdrożone
+
+**Nazwy — kanoniczne są nazwy z LEGO.com PL.**
+- Wszystkie **30 rozjazdów** między `sety.json` a `katalog.json` wyrównane;
+  po zmianie zostaje **zero** rozbieżności.
+- Zniknęły prefiksy motywu z Bricksetu (`3w1 `, `Marvel `,
+  `Chinese Festivals `) — potwierdzone na 31387/31389, gdzie LEGO.com PL
+  podaje motyw obok nazwy („Legendarny statek piracki 31387 | Creator 3 w 1").
+  Dla spójności serii zdjąłem też 13 dodatkowych prefiksów `3w1` w Creatorze,
+  które nie były w konflikcie (bo tych setów nie ma w `sety.json`).
+- Typografia wg LEGO PL: apostrof typograficzny, myślnik jako separator
+  podtytułu, zdaniowa wielkość liter poza nazwami własnymi.
+- Wyjątek: **kalendarze adwentowe zachowują serię w nazwie** — bez niej pięć
+  zestawów z 2026 nazywa się identycznie i nie da się ich rozróżnić na listach.
+- **Nie ruszone**: ~110 starych i promocyjnych pozycji 2000–2015 z angielskimi
+  nazwami Bricksetu (`City `, `Star Wars `, `Friends `, `Ninjago `) — prefiks
+  jest tam częścią nazwy i nie ma polskiego odpowiednika u LEGO. Podobnie
+  licencyjny podmotyw `Disney ` w DUPLO.
+- **7 form przyjętych bez potwierdzenia u źródła** (LEGO.com blokuje odczyt
+  stron produktu przez Cloudflare; działa wyszukiwarka z `allowed_domains`):
+  42224, 42233, 42235, 75427, 77263 oraz 10448/10451 (DUPLO ma „3 w 1" raz
+  jako prefiks, raz jako sufiks — jedna forma jest błędna). Lista siedzi
+  w `katalog.json` → `_meta.nazwy_do_weryfikacji`.
+- Przy okazji literówka: 31018 „Zdobywca autrostad" → „autostrad".
+
+**80120 / 80121 → Seasonal.** W obu plikach. Seria „Tradycyjne festiwale
+chińskie" została bez zestawów, więc `/serie/tradycyjne-festiwale-chinskie/`
+zniknęło — dodane przekierowanie na `/serie/seasonal/`, żeby nie zostawić 404.
+
+**Wycofania Super Mario — nie oznaczamy.** Nic nie dopisane do `/wycofania/`.
+Z decyzji wyszła reguła ogólna: na liście wycofań są wyłącznie terminy
+potwierdzone przez Grupę LEGO. Artykuł o restarcie serii tłumaczy teraz
+czytelnikowi ten próg („wolimy nie podać daty niż podać niepewną") zamiast
+obiecywać uzupełnienie listy.
+
+Obie reguły — nazewnictwo i próg dowodowy wycofań — zapisane w `RUNBOOK.md`.
+
+**Plan redakcyjny nie jest już publiczny** (patrz wpis wyżej). Mieszka
+w `redakcja/plan-redakcyjny.json`, a Marek dostaje go osobnym prywatnym
+linkiem, nie jako podstronę serwisu.
