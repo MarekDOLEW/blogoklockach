@@ -518,3 +518,46 @@ są katalogowe. Kontrola: wszystkie kwoty muszą leżeć na polskiej drabinie
 **Czego lego.pl nie da:** zestawów wycofanych z produkcji. Pozostałe 319 pozycji
 puli backfillu to EOL z serii Ideas/Icons/Star Wars/Technic/Harry Potter —
 tam nadal potrzebny jest Brickset albo inne źródło.
+
+### Zaciąg bez człowieka: Firecrawl przez API *(28.08.2026)*
+
+Serwer MCP Firecrawl żyje tylko w sesji, w której ktoś go akurat podłączył —
+runner nie ma jak z niego skorzystać. Za to **`api.firecrawl.dev` przechodzi
+przez proxy środowiska** (sprawdzone: odpowiada 401 na zły klucz, czyli allowlista
+go przepuszcza). Zaciąg jest więc zwykłym skryptem i nadaje się na zadanie cykliczne.
+
+    scripts/firecrawl.mjs          # cienki klient API (scrape / mapa / ekstrakcja)
+    scripts/firecrawl-legopl.mjs   # katalog lego.pl -> JSON + plik dla wczytaj-rrp.mjs
+
+Wymaga `FIRECRAWL_KEY` w zmiennych środowiska sesji (klucz `fc-…` z app.firecrawl.dev).
+Bez klucza skrypty kończą się czytelnym komunikatem i niczego nie ruszają.
+
+    node scripts/firecrawl.mjs test                        # weryfikacja klucza
+    node scripts/firecrawl-legopl.mjs --strony 2 --rrp /tmp/p.json   # próbka
+    node scripts/firecrawl-legopl.mjs --rrp /tmp/ceny.json           # pełny katalog
+    node scripts/wczytaj-rrp.mjs /tmp/ceny.json --zrodlo "lego.pl (Firecrawl)" --sucho
+
+Tryb `--z-pliku <katalog.json>` przelicza gotowy plik (np. dostarczony przez Cowork)
+tą samą regułą cenową, bez zaciągu i bez klucza.
+
+**Zabezpieczenia przed śmieciem w rejestrze** — rejestr jest write-once i ma
+pierwszeństwo przed wszystkim, więc bramek jest kilka:
+
+- numer bierzemy z adresu karty produktu, nie z nazwy (na katalogu z 28.08:
+  1210/1210 numerów zgodnych, zero rozbieżności);
+- cena musi leżeć na polskiej drabinie (.99/.49/.00) — cokolwiek innego jest
+  odrzucane i wypisywane na koniec przebiegu;
+- do rejestru wchodzą wyłącznie numery znane z `src/data/katalog.json`; reszta
+  ląduje w osobnym pliku `…-spoza-katalogu.json` do obejrzenia (na katalogu
+  z 28.08: 701 wchodzi, 113 do przeglądu);
+- pozycja w promocji bez ceny sprzed obniżki jest pomijana — lepiej brak ceny
+  niż zaniżona.
+
+Skrypt odtworzony na katalogu z 28.08 daje **te same 701 cen co wczytane ręcznie,
+zero konfliktów z rejestrem** — reguła jest wierna.
+
+**Koszt.** Skrypt używa ekstrakcji przez schemat, nie parsowania markdownu: runnera
+nikt nie pilnuje, a przebudowa listingu cicho zwróciłaby zero pozycji. To jest ~5×
+drożej niż markdown. Po pierwszym udanym przebiegu warto obejrzeć markdown listingu
+(`node scripts/firecrawl.mjs scrape <url> --wyjscie /tmp/l.md`) i — jeśli da się
+z niego czytać regułą — dopisać tańszy tryb z ekstrakcją jako awarią.
