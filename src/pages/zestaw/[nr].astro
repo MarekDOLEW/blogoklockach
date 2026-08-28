@@ -149,7 +149,6 @@ const opisMeta = najlepsza
                 <img src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
-            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przewiń w bok</p>
           </figure>
         ) : foto?.url ? (
           <figure class="foto-okno">
@@ -161,6 +160,9 @@ const opisMeta = najlepsza
             <span>LEGO {nr}</span>
             <span>zdjęcie wkrótce</span>
           </div>
+        )}
+        {galeriaSlajder.length > 0 && (
+          <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przewiń w bok</p>
         )}
         {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>

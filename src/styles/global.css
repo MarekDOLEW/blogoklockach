@@ -860,6 +860,8 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* Slajder zdjęć zestawu — przewijanie poziome ze snapowaniem, bez JS.
    Zdjęcia idą przez /img/<nr>-N.jpg (worker + trwała kopia w R2). */
 .slajder { position: relative; }
+/* taśma wypełnia całą ramkę .foto-okno (kontener flex) */
+.slajder .slajder-tasma { width: 100%; height: 100%; }
 .slajder-tasma {
   display: flex; gap: 8px; overflow-x: auto; scroll-snap-type: x mandatory;
   scroll-behavior: smooth; -webkit-overflow-scrolling: touch; border-radius: 10px;
@@ -870,7 +872,7 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 }
 .slajder-tasma::-webkit-scrollbar { height: 6px; }
 .slajder-tasma::-webkit-scrollbar-thumb { background: var(--granat-60); border-radius: 3px; }
-.slajder-info { margin: 6px 0 0; font-size: 0.78rem; color: var(--granat-60); text-align: center; }
+.slajder-info { margin: 6px 0 0; font-size: 0.75rem; color: var(--granat-60); }
 
 /* Karta zestawu pod tabelą cen */
 .karta-setu .prose { margin: 0 0 14px; }
