@@ -1007,3 +1007,37 @@ dziennie, czy uruchamiamy osobną sesję redakcyjną na czołówkę listy.
 - 80120/80121 (Chinese Festivals) — rozjazd serii między `sety.json`
   a `katalog.json`; SMART Play zostaje jak jest, Halloween → Seasonal.
 - Która forma nazwy jest kanoniczna przy 28 rozbieżnościach nazw.
+
+## 2026-08-28 (2) · CODE (Radar) · Nowości miesięczne, kalendarz redakcyjny, luki z radaru
+
+**Zrobione (z rekomendacji porannego radaru):**
+- **75639 Statek piracki Going Merry** dopisany do `katalog.json` (One Piece,
+  559,99 zł, 1376 el., rocznik 2025). Brakowało go w obu plikach danych, więc
+  zestaw nie miał podstrony, mimo że feedy miały na niego ofertę i mimo że
+  konkurencja opublikowała na niego okazję. `/zestaw/75639/` już działa
+  i liczy rabat (Allegro 463,26 zł, −17%). Źródło ceny: LEGO.com PL,
+  potwierdzone u promoklocki.
+- **Prezentownik Friends**: akapit o styczniowej fali 2027 i powrocie
+  42719 Centrum handlowe w Heartlake (~420 zł) — jako alternatywa dla
+  Grand Hotelu przy dużym prezencie, z zaznaczeniem, że to wciąż przeciek.
+- **`/nowosci/<miesiac>-<rok>/`** — dziewięć podstron liczonych z `sety.json`
+  (pole `premiera`), próg 3 premier na miesiąc, żeby nie robić cienkich stron.
+  Nawigacja poprzedni/następny, ItemList + BreadcrumbList, pasek miesięcy na
+  `/nowosci/`. Wrzesień: 15 zestawów, 5 kalendarzy adwentowych, 8 ekskluzywów.
+  Przewaga nad formatem konkurencji: ich lista jest przepisana, nasza liczy
+  się z danych i sama się aktualizuje z każdą partią.
+- **`/kalendarz-redakcyjny/`** — plan tekstów w oknach publikacji (nie w dniach),
+  powiązany z kotwicami sezonu: Executor 1 i 4.10, Black Friday 27.11,
+  grudniowa fala wycofań, fala premier 1.01. Dane w
+  `src/data/kalendarz_redakcyjny.json`, append-only: pozycje zmieniają status,
+  nie znikają; zdjęty tekst zostaje ze statusem `odlozone` i powodem.
+- **Strona główna**: sekcja „Co piszemy w najbliższych tygodniach" — trzy
+  najbliższe pozycje planu + link do kalendarza. Znika sama, gdy plan pusty.
+
+**Uwaga do planu redakcyjnego:** pięć zaplanowanych pozycji to deklaracja
+publiczna. Pierwsza (kalendarze adwentowe, okno 1–14 września) jest
+najpilniejsza — kalendarze wchodzą do sprzedaży we wrześniu, a kupuje się je
+na trzy miesiące przed otwarciem.
+
+**Korekta wcześniejszego wpisu:** 75394 i 75419 mają już ceny katalogowe
+(729,99 i 4199,99 zł) — zgłoszenie z 27.08 było nieaktualne.
