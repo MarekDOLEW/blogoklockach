@@ -1,11 +1,12 @@
 {
-  "data_aktualizacji": "2026-08-27",
+  "data_aktualizacji": "2026-08-28",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 261,
+  "liczba_setow": 267,
   "sety": [
     "10300",
     "10316",
     "10318",
+    "10333",
     "10462",
     "10463",
     "10464",
@@ -98,6 +99,8 @@
     "40926",
     "40958",
     "40975",
+    "42115",
+    "42146",
     "42224",
     "42228",
     "42229",
@@ -197,6 +200,8 @@
     "72168",
     "72423",
     "72537",
+    "75367",
+    "75397",
     "75426",
     "75427",
     "75442",
@@ -218,6 +223,7 @@
     "75646",
     "75647",
     "75685",
+    "76210",
     "76332",
     "76339",
     "76340",
@@ -407,34 +413,28 @@
       "numer": "40897",
       "nazwa": "Świetlny miecz Dartha Vadera (GWP)",
       "premiera": "2026-10",
-      "status": "NOWE 2026-08-27: 174 elementy, Star Wars / Promotional, 18+, premiera 2026-10-01, jeszcze niewydany, bez ceny — czyli gratis promocyjny. Wg StoneWars dodatek do dużego UCS-a 75457. Potwierdzone kartą Brickset co do numeru, wielkości i daty; powiązanie z 75457 na razie z jednego źródła."
+      "status": "POTWIERDZONE DWOMA ZRODLAMI 2026-08-28: PromoBricks opisal go dzis jako gratis do supergwiezdnego niszczyciela, niezaleznie od StoneWars z 27.08. Wczesniej powiazanie z 75457 mielismy z jednego zrodla. 174 elementy, Star Wars / Promotional, 18+, premiera 2026-10-01, bez ceny."
     },
     {
       "numer": "fala-super-mario-2027",
       "nazwa": "Super Mario — styczniowa fala 2027 (8 zestawów)",
       "premiera": "2027-01",
-      "status": "NOWE 2026-08-27: wszystkie osiem numerów zarezerwowanych 26.08 dostało nazwy i ceny w Brickset. 72052 Mario's Pipe Jump (61 el., 9,99 EUR), 72054 Racing with Mario (84, 14,99), 72055 Mario's Beach Adventures (196, 19,99), 72056 Luigi & Bowser Jr.'s Race (104, 29,99), 72057 Yoshi at Mario's House (147, 39,99), 72058 Bowser's Rumbling Race (409, 59,99), 72060 Fire Mario & Bowser's Castle (850, 99,99), 72061 Fire Luigi vs. Koopa Troopa Battle (241, 29,99). StoneWars potwierdza niezależnie i dodaje kluczowy szczegół: to pierwsza fala Super Mario Z MINIFIGURKAMI zamiast dotychczasowych figurek elektronicznych. Jeśli tak jest, to zmiana formuły całej linii, a nie kolejny rocznik — temat na osobny tekst. Do potwierdzenia zdjęciami lub drugim źródłem."
+      "status": "NOWE 2026-08-27: wszystkie osiem numerów zarezerwowanych 26.08 dostało nazwy i ceny w Brickset. 72052 Mario's Pipe Jump (61 el., 9,99 EUR), 72054 Racing with Mario (84, 14,99), 72055 Mario's Beach Adventures (196, 19,99), 72056 Luigi & Bowser Jr.'s Race (104, 29,99), 72057 Yoshi at Mario's House (147, 39,99), 72058 Bowser's Rumbling Race (409, 59,99), 72060 Fire Mario & Bowser's Castle (850, 99,99), 72061 Fire Luigi vs. Koopa Troopa Battle (241, 29,99). StoneWars potwierdza niezależnie i dodaje kluczowy szczegół: to pierwsza fala Super Mario Z MINIFIGURKAMI zamiast dotychczasowych figurek elektronicznych. Jeśli tak jest, to zmiana formuły całej linii, a nie kolejny rocznik — temat na osobny tekst. WERYFIKACJA 2026-08-28: teza o pierwszej fali z minifigurkami NADAL NIEPOTWIERDZONA. Brickset zaktualizowal 28.08 trzynascie starszych setow Super Mario z lat 2020-2026 i wszystkie maja teraz policzone minifigurki (od 1 do 4), a osiem setow z 2027 ma pole minifigs puste. Czyli dane Bricksetu nie potwierdzaja tezy — przeciwnie, pokazuja, ze figury Super Mario byly liczone jako minifigurki juz wczesniej. Pusta wartosc przy setach niewydanych to zwykly brak danych, wiec nie jest tez kontrargumentem. Teza pozostaje wylacznie na StoneWars; PromoBricks milczy. Nie publikowac jako pewnik."
     }
   ],
   "luki_w_bazie": {
     "opis": "PRZEGLAD ROCZNIKOW 2020-2026 — 2026-08-26. Zrodlo: Brickset API v3, getSets per rocznik, komplet rekordow dla kazdego roku (sumy zgodne z polem matches). Za realny zestaw uznajemy category='Normal' albo 'Collection' — to filtr z samego API, dokladniejszy od wczesniejszego zgadywania po prefiksie numeru: 252 z 255 naszych opisanych setow 2026 ma wlasnie category='Normal', a 3 to 'Collection' (serie minifigurek). Odpadaja Gear, Book, Extended (BrickLink Designer Program i promocje) oraz Other (zestawy z czasopism i gratisy o 6-cyfrowych numerach).",
     "stan_ogolny": {
       "realnych_setow_2020_2026": 3538,
-      "opisanych": 260,
-      "bez_opisu": 3278,
-      "pokrycie_procent": 7.3,
+      "opisanych": 266,
+      "bez_opisu": 3272,
+      "pokrycie_procent": 7.5,
       "luk_z_cena_w_zl": 981,
-      "luk_z_cena_i_dostepnych": 831
+      "luk_z_cena_i_dostepnych": 825
     },
     "wniosek": "Serwis ma warstwe redakcyjna dla 7,3% zestawow z ostatnich siedmiu rocznikow. Rocznik 2026 jest pokryty w 45,7%, kazdy wczesniejszy praktycznie w zerze. Najwazniejsza liczba: 831 zestawow jest JEDNOCZESNIE w sprzedazy, ma cene katalogowa w zl i nie ma ani zdania opisu — to gotowa kolejka pracy, ktora moze konwertowac afiliacyjnie od razu. W czolowce sa pozycje flagowe: Barad-dur, Venator, Hulkbuster, Barka Jabby, Zamek Disneya, Ferrari Daytona SP3, Lamborghini Sian.",
     "zasada_priorytetu": "Tylko sety ze statusem 'dostepny' i cena w zl, sortowane po cenie katalogowej malejaco. Sety EOL (150 z 981 z cena) maja niski priorytet: nie konwertuja poza rynkiem wtornym. Nazwy PL i ceny z katalog.json, wiek/premiera/liczba minifigurek/podseria z Brickset API.",
     "priorytet_redakcyjny": [
-      "42146",
-      "75367",
-      "76210",
-      "75397",
-      "10333",
-      "42115",
       "42143",
       "42172",
       "10366",
@@ -493,15 +493,14 @@
     "roczniki": {
       "2020": {
         "realnych_setow": 471,
-        "opisanych": 0,
-        "bez_opisu": 471,
+        "opisanych": 1,
+        "bez_opisu": 470,
         "z_cena_w_zl": 19,
-        "z_cena_i_dostepne": 5,
+        "z_cena_i_dostepne": 4,
         "numery_do_opisania_priorytetowo": [
           "10913",
           "10914",
           "31109",
-          "42115",
           "75981"
         ],
         "wszystkie_luki": [
@@ -749,7 +748,6 @@
           "42112",
           "42113",
           "42114",
-          "42115",
           "43170",
           "43173",
           "43174",
@@ -1510,10 +1508,10 @@
       },
       "2022": {
         "realnych_setow": 460,
-        "opisanych": 1,
-        "bez_opisu": 459,
+        "opisanych": 2,
+        "bez_opisu": 458,
         "z_cena_w_zl": 82,
-        "z_cena_i_dostepne": 58,
+        "z_cena_i_dostepne": 57,
         "numery_do_opisania_priorytetowo": [
           "10302",
           "10311",
@@ -1563,7 +1561,6 @@
           "75333",
           "76207",
           "76208",
-          "76210",
           "76213",
           "76231",
           "76403",
@@ -1971,7 +1968,6 @@
           "76207",
           "76208",
           "76209",
-          "76210",
           "76211",
           "76212",
           "76213",
@@ -2038,10 +2034,10 @@
       },
       "2023": {
         "realnych_setow": 489,
-        "opisanych": 2,
-        "bez_opisu": 487,
+        "opisanych": 4,
+        "bez_opisu": 485,
         "z_cena_w_zl": 102,
-        "z_cena_i_dostepne": 84,
+        "z_cena_i_dostepne": 82,
         "numery_do_opisania_priorytetowo": [
           "10313",
           "10315",
@@ -2071,7 +2067,6 @@
           "41752",
           "41754",
           "41758",
-          "42146",
           "42151",
           "42154",
           "42156",
@@ -2112,7 +2107,6 @@
           "75356",
           "75358",
           "75364",
-          "75367",
           "75371",
           "76253",
           "76254",
@@ -2357,7 +2351,6 @@
           "41809",
           "41811",
           "41818",
-          "42146",
           "42147",
           "42148",
           "42149",
@@ -2530,7 +2523,6 @@
           "75364",
           "75365",
           "75366",
-          "75367",
           "75368",
           "75369",
           "75370",
@@ -2620,16 +2612,15 @@
       },
       "2024": {
         "realnych_setow": 517,
-        "opisanych": 1,
-        "bez_opisu": 516,
+        "opisanych": 3,
+        "bez_opisu": 514,
         "z_cena_w_zl": 198,
-        "z_cena_i_dostepne": 173,
+        "z_cena_i_dostepne": 171,
         "numery_do_opisania_priorytetowo": [
           "10328",
           "10329",
           "10330",
           "10331",
-          "10333",
           "10334",
           "10337",
           "10338",
@@ -2767,7 +2758,6 @@
           "75391",
           "75393",
           "75396",
-          "75397",
           "75398",
           "76278",
           "76279",
@@ -2807,7 +2797,6 @@
           "10330",
           "10331",
           "10332",
-          "10333",
           "10334",
           "10335",
           "10337",
@@ -3216,7 +3205,6 @@
           "75394",
           "75395",
           "75396",
-          "75397",
           "75398",
           "75580",
           "75581",
@@ -4685,7 +4673,8 @@
       "2026-08-26: API, roczniki 2020-2026, filtr category z API — 3278 luk"
     ],
     "kontekst_seo": "",
-    "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch."
+    "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch.",
+    "postep": "zamkniete 30 luk (23-28.08, po 5-6 dziennie)"
   },
   "fala_pazdziernikowa_2026": {
     "ustalenie": "2026-08-26",
