@@ -422,3 +422,32 @@ z 558 realnych setów do 416. Nie stosować go ponownie.
 Osobna pułapka z tego samego dnia: seria **`tbd`** to NIE jest szum — to
 zestaw, któremu Brickset nie przypisał jeszcze motywu, czyli najświeższy
 z możliwych. Tak zgubiłem 72306 (replika PlayStation 1, 1911 elementów, 18+).
+
+## Co NIE trafia na stronę publiczną
+
+Ustalone 28.08.2026 po wpadce: plan redakcyjny został opublikowany jako
+`/kalendarz-redakcyjny/` i zajawiony na stronie głównej. Adres zdjęty tego
+samego dnia (przekierowanie na `/artykuly/` z `noindex` — patrz `redirects`
+w `astro.config.mjs`).
+
+**Zasada:** `src/pages/` to treść dla czytelnika. Ustalenia wewnętrzne —
+plan publikacji, kolejność prac, analiza konkurencji, argumentacja
+redakcyjna, statusy zadań — na stronę nie idą, nawet gdy są ciekawe
+i nawet gdy pokazują, że serwis jest prowadzony rzetelnie.
+
+**Gdzie zamiast tego:**
+- `redakcja/` — nie jest budowany przez Astro, więc fizycznie nie może
+  wyciec na stronę. Tu mieszka `plan-redakcyjny.json`.
+- `DZIENNIK.md` — wymiana między sesjami.
+- Osobny prywatny link (artefakt) — gdy Marek ma coś przeczytać w formie
+  wizualnej, a nie w repo.
+
+**Test przed dodaniem czegokolwiek do `src/pages/`:** czy czytelnik, który
+wszedł z Google po nazwę zestawu, ma z tej strony pożytek przy zakupie?
+Jeśli odpowiedź brzmi „nie, ale pokazuje, jak pracujemy" — to nie jest
+treść, to jest materiał wewnętrzny.
+
+**Uwaga na dane:** plik w `src/data/` sam z siebie nie trafia na stronę
+(Astro bundluje tylko to, co zaimportowane), ale leży w katalogu, z którego
+strony czerpią treść — więc materiały wewnętrzne trzymamy w `redakcja/`,
+żeby nikt ich stamtąd przez pomyłkę nie zaimportował.

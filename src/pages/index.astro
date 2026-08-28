@@ -10,7 +10,6 @@ import { zajawkaArtykulu } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
-import kalendarzRedakcyjny from '../data/kalendarz_redakcyjny.json';
 
 const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
@@ -141,24 +140,6 @@ const artykuly = Object.entries({
   .slice(0, 6)
   .map((m) => zajawkaArtykulu(m));
 
-// ── Zajawka planu redakcyjnego: trzy najbliższe pozycje z /kalendarz-redakcyjny/ ──
-// Powód, dla którego to jest na stronie głównej: pokazuje, że serwis jest
-// prowadzony, a nie generowany, i daje czytelnikowi konkretny powód, żeby
-// wrócić przed sezonem. Sekcja znika sama, gdy w planie nie ma nic przyszłego.
-const wPlanie = kalendarzRedakcyjny.plan
-  .filter((p) => p.status === 'planowane' || p.status === 'w_toku')
-  .sort((a, b) => a.okno.localeCompare(b.okno))
-  .slice(0, 3);
-const MIESIACE_D = ['stycznia', 'lutego', 'marca', 'kwietnia', 'maja', 'czerwca', 'lipca',
-  'sierpnia', 'września', 'października', 'listopada', 'grudnia'];
-const oknoKrotko = (o) => {
-  const [od, doo] = o.split('..');
-  const [, m1, d1] = od.split('-');
-  const [, m2, d2] = doo.split('-');
-  return m1 === m2
-    ? `${Number(d1)}–${Number(d2)} ${MIESIACE_D[Number(m1) - 1]}`
-    : `${Number(d1)} ${MIESIACE_D[Number(m1) - 1]} – ${Number(d2)} ${MIESIACE_D[Number(m2) - 1]}`;
-};
 ---
 <Base
   title="Promocje LEGO dziś — prawdziwe rabaty"
@@ -299,25 +280,6 @@ const oknoKrotko = (o) => {
       <div class="zajawki">
         {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
       </div>
-    </section>
-  )}
-
-  {wPlanie.length > 0 && (
-    <section class="sekcja" aria-label="Plan redakcyjny">
-      <div class="sekcja-head">
-        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Co piszemy w najbliższych tygodniach</h2>
-      </div>
-      <p>Publikujemy pod okna zakupowe, nie pod nastrój — tekst ma wyjść, zanim podejmiesz decyzję. <a href="/kalendarz-redakcyjny/">Cały kalendarz redakcyjny →</a></p>
-      <ol class="plan-zajawka">
-        {wPlanie.map((p) => (
-          <li class="karta">
-            <span class="plan-okno">{oknoKrotko(p.okno)}</span>
-            <span class="badge-seria">{p.dzial}</span>
-            <h3>{p.tytul}</h3>
-          </li>
-        ))}
-      </ol>
     </section>
   )}
 

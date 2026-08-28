@@ -40,6 +40,11 @@ function doSitemapy(adres) {
 
 export default defineConfig({
   site: 'https://tylkoklocki.pl',
+  // /kalendarz-redakcyjny/ byl przez chwile publiczny (28.08.2026) — plan
+  // redakcyjny to material wewnetrzny, nie tresc dla czytelnika. Adres zdjety;
+  // przekierowanie zostaje, zeby ewentualny odsylacz z zewnatrz nie trafial
+  // w 404. Plan mieszka teraz w redakcja/plan-redakcyjny.json (poza buildem).
+  redirects: { '/kalendarz-redakcyjny': '/artykuly/' },
   // Sitemapa bez lastmod — świadomie.
   //
   // Wcześniej każdy adres dostawał `lastmod` = moment builda. Ponieważ runnery
