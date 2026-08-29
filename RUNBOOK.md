@@ -60,6 +60,7 @@ Kolumna „kto zapisuje" odzwierciedla realną konfigurację triggerów
 | `known_sets.json` | Scout 05:00 | nic — stan runnera, nie zasila strony |
 | `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera, nie zasila strony |
 | `obrazy.json` | `scripts/generuj-obrazy.mjs` w prebuild | zdjęcia zestawów |
+| `src/pages/deale/*.md` | Łowca (posty dealowe przy wyjątkowych okazjach) | dział `/deale/` — sekcja „Okazje pod lupą” |
 | `afiliacje_rejestr.json` | ręcznie | nic — dokumentacja |
 | `raporty_mail.json` | ręcznie | odbiorcy raportów PDF |
 
