@@ -27,12 +27,16 @@ const artykulJsonld = {
   publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
 };
 
+// Dział w okruszkach: domyślnie Artykuły; teksty spoza /artykuly/ (np. posty
+// dealowe w /deale/) podają własny dział w frontmatterze (dzial: "Deale").
+const DZIALY = { Artykuły: '/artykuly/', Deale: '/deale/', Prezentowniki: '/prezentowniki/' };
+const dzial = frontmatter.dzial ?? 'Artykuły';
 const okruszkiJsonld = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
-    { '@type': 'ListItem', position: 2, name: 'Artykuły', item: new URL('/artykuly/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: dzial, item: new URL(DZIALY[dzial] ?? '/artykuly/', Astro.site).href },
     { '@type': 'ListItem', position: 3, name: frontmatter.title },
   ],
 };

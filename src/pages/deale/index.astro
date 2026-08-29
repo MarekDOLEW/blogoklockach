@@ -1,0 +1,146 @@
+---
+import Base from '../../layouts/Base.astro';
+import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
+import { zajawkiArtykulow } from '../../lib/artykuly.js';
+import sety from '../../data/sety.json';
+import cenyBaza from '../../data/ceny_baza.json';
+import { urlZdjecia } from '../../lib/media.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../../lib/oferty.js';
+
+// Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
+// dealowe (markdown w tym katalogu). Ta strona nie zawiera ani jednej ręcznie
+// wpisanej ceny — wszystko liczy się przy buildzie z sety.json/ceny_baza.json,
+// a Łowca pushuje świeże dane praktycznie codziennie, więc lista jest tak samo
+// aktualna jak tabele na hubach zestawów.
+
+const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
+const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
+const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
+
+const wpisy = Object.entries(sety)
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .filter((s) => s.oferty?.length && s.cena_katalogowa);
+
+// dzień danych = najświeższa data ofert (nie zegar builda — build po północy
+// UTC ma już „jutrzejszą" datę, patrz identyczna uwaga w index.astro)
+const dzienDanych = wpisy
+  .flatMap((s) => s.oferty.map((o) => o.data ?? ''))
+  .reduce((a, b) => (b > a ? b : a), '');
+const dzienDanychPl = dzienDanych.split('-').reverse().join('.');
+
+const noweMinimum = (s) =>
+  cenyBaza[s.nr]?.najnizsza_data === dzienDanych && cenyBaza[s.nr]?.najnizsza_cena === najlepszaCena(s);
+
+// deal gorący = rabat ≥30% od ceny katalogowej LUB świeże minimum notowań;
+// pseudopromocji (<15%) nie pokazujemy wcale — patrz standard Łowcy
+const gorace = wpisy
+  .filter((s) => rabat(s) >= 30 || (noweMinimum(s) && rabat(s) >= 15))
+  .sort((a, b) => rabat(b) - rabat(a));
+
+const POLKI = [
+  { etykieta: '801 zł i więcej', pasuje: (c) => c > 800 },
+  { etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
+  { etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
+];
+const NA_POLKE = 12;
+const polki = POLKI.map((p) => ({
+  ...p,
+  deale: gorace.filter((s) => p.pasuje(najlepszaCena(s))).slice(0, NA_POLKE),
+})).filter((p) => p.deale.length);
+
+// posty dealowe: markdown z tego katalogu, najnowsze na górze
+const posty = zajawkiArtykulow(
+  Object.entries(import.meta.glob('./*.md', { eager: true }))
+    .map(([, m]) => m)
+    .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data)),
+);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Deale LEGO dziś — realne rabaty od cen katalogowych',
+  url: 'https://tylkoklocki.pl/deale/',
+  inLanguage: 'pl-PL',
+  isPartOf: { '@type': 'WebSite', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+};
+---
+<Base
+  title="Deale LEGO dziś — rabaty 30% i najniższe ceny w historii"
+  description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, trzy półki cenowe, oznaczone nowe minima cenowe."
+  jsonld={jsonld}
+>
+  <h1 class="glowna-h1">Deale LEGO — tylko realne rabaty, liczone od cen katalogowych</h1>
+  <p>
+    Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
+    (ostatnie dane: {dzienDanychPl}). Pokazujemy wyłącznie rabaty co najmniej 30%
+    od oficjalnej ceny katalogowej LEGO oraz zestawy, które właśnie zaliczyły
+    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań —
+    bez pseudopromocji liczonych od zawyżonych „cen przekreślonych".
+  </p>
+
+  {polki.map((polka) => (
+    <section class="sekcja" aria-label={`Deale z półki ${polka.etykieta}`}>
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>{polka.etykieta}</h2>
+      </div>
+      <div class="karta" style="overflow-x:auto">
+        <table class="tabela-cen">
+          <thead>
+            <tr>
+              <th>Zestaw</th>
+              <th>Cena</th>
+              <th>Rabat</th>
+              <th>zł/klocek</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {polka.deale.map((s) => {
+              const oferta = najtanszaOferta(s);
+              const aff = oferta && linkAfiliacyjny(oferta.sklep, s.nr);
+              return (
+                <tr>
+                  <td>
+                    <a href={`/zestaw/${s.nr}/`}><strong>LEGO {s.nr}</strong> {s.nazwa}</a>
+                    {noweMinimum(s) && <> <span class="badge-najnizsza">nowe minimum</span></>}
+                  </td>
+                  <td class="cena">{fmtCena(najlepszaCena(s))}</td>
+                  <td><span class="badge-rabat-mini">−{rabat(s)}%</span></td>
+                  <td>{s.elementy ? (najlepszaCena(s) / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '—'}</td>
+                  <td>
+                    {aff ? (
+                      <a class="cta" href={aff} rel="sponsored nofollow">Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                    ) : (
+                      <a class="cta" href={`/zestaw/${s.nr}/`}>Porównaj ceny</a>
+                    )}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  ))}
+
+  {posty.length > 0 && (
+    <section class="sekcja" aria-label="Posty dealowe">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Okazje pod lupą</h2>
+      </div>
+      <p>Najciekawsze deale opisujemy szerzej: dla kogo jest zestaw, przy jakiej cenie warto brać i na co uważać.</p>
+      <div class="zajawki">
+        {posty.map((z) => <ZajawkaArtykulu zajawka={z} />)}
+      </div>
+    </section>
+  )}
+
+  <p class="disclosure">
+    Linki do sklepów są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis
+    i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór dealów: rabaty
+    liczymy zawsze od cen katalogowych LEGO, a najtańszą ofertę pokazujemy niezależnie
+    od tego, czy mamy z danym sklepem współpracę.
+  </p>
+</Base>
