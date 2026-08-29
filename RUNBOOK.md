@@ -595,3 +595,18 @@ Dwie pułapki parsera, obie już obsłużone, ale warto o nich wiedzieć przy zm
 ostatni kafelek na stronie zgarnia stopkę listingu (odcinamy na „Wyświetla N z M"),
 a etykieta statusu musi dopuszczać cyfry — bez nich przepada „Czyszczenie magazynu
 -30%", jedyna informacja przesądzająca o tym, że cena jest promocyjna.
+
+## Dział /deale/ (od 29.08.2026)
+
+Podstrona `/deale/` generuje się z danych przy każdym buildzie: deale gorące
+(rabat ≥30% od ceny katalogowej lub świeże minimum notowań) w trzech półkach
+cenowych, z badge'ami nowych minimów i CTA afiliacyjnymi — bez ręcznie
+wpisanych kwot, więc nie wymaga żadnej obsługi.
+
+Posty dealowe to markdown w `src/pages/deale/` (frontmatter jak artykuł +
+`dzial: "Deale"`, kategoria „Deal dnia", tag „Dla rodziców"/„Dla AFOL").
+Łowca dopisuje 1–2 przy wyjątkowych okazjach — nowe minima na drogich
+zestawach, okazje sezonowe — wg standardu sprzedażowego: ceny sklepowe
+wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
+dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
+do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
