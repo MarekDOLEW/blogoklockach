@@ -31,11 +31,10 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-28",
-      "uzupelnione_lacznie": 2836,
+      "data": "2026-08-29",
+      "uzupelnione_lacznie": 2915,
       "ostatnie_serie": [
-        "Harry Potter",
-        "Technic"
+        "Harry Potter"
       ]
     },
     "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252).",
@@ -2623,119 +2622,136 @@
       "nazwa": "Rogogon węgierski na Turnieju Trójmagicznym",
       "rok": 2019,
       "elementy": 265,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "75947",
       "nazwa": "Chatka Hagrida: na ratunek Hardodziobowi",
       "rok": 2019,
       "elementy": 496,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "75948",
       "nazwa": "Wieża zegarowa na Hogwarcie",
       "rok": 2019,
       "elementy": 922,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75957",
       "nazwa": "Błędny Rycerz",
       "rok": 2019,
       "elementy": 403,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "75958",
       "nazwa": "Powóz z Beauxbatons: przyjazd do Hogwartu",
       "rok": 2019,
       "elementy": 430,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "75964",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2019,
       "elementy": 305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75965",
       "nazwa": "Powrót Voldemorta",
       "rok": 2019,
       "elementy": 184,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "30420",
       "nazwa": "Harry Potter i Hedwiga: przesyłka dostarczona przez sowę",
       "rok": 2020,
       "elementy": 31,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "30628",
       "nazwa": "Potworna księga potworów",
       "rok": 2020,
       "elementy": 320,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "40419",
       "nazwa": "Uczniowie Hogwartu — zestaw akcesoriów",
       "rok": 2020,
       "elementy": 53,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "75966",
       "nazwa": "Pokój Życzeń w Hogwarcie",
       "rok": 2020,
       "elementy": 193,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75967",
       "nazwa": "Zakazany Las: spotkanie Umbridge",
       "rok": 2020,
       "elementy": 253,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "75968",
       "nazwa": "Privet Drive 4",
       "rok": 2020,
       "elementy": 797,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75969",
       "nazwa": "Wieża Astronomiczna w Hogwarcie",
       "rok": 2020,
       "elementy": 971,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "75978",
       "nazwa": "Ulica Pokątna",
       "rok": 2020,
       "elementy": 5544,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "75979",
       "nazwa": "Hedwiga",
       "rok": 2020,
       "elementy": 630,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "75980",
       "nazwa": "Atak na Norę",
       "rok": 2020,
       "elementy": 1047,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75981",
@@ -2750,189 +2766,216 @@
       "nazwa": "Biurko Hermiony",
       "rok": 2021,
       "elementy": 31,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40452",
       "nazwa": "Dormitoria Gryffindoru w Hogwarcie",
       "rok": 2021,
       "elementy": 148,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "40500",
       "nazwa": "Akcesoria do minifigurek ze świata czarodziejów",
       "rok": 2021,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "76382",
       "nazwa": "Chwile z Hogwartu: zajęcia z transfiguracji",
       "rok": 2021,
       "elementy": 241,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "76383",
       "nazwa": "Chwile z Hogwartu: zajęcia z eliksirów",
       "rok": 2021,
       "elementy": 271,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "76384",
       "nazwa": "Chwile z Hogwartu: zajęcia z zielarstwa",
       "rok": 2021,
       "elementy": 233,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76385",
       "nazwa": "Chwile z Hogwartu: zajęcia z zaklęć i uroków",
       "rok": 2021,
       "elementy": 256,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "76386",
       "nazwa": "Hogwart: pomyłka z eliksirem wielosokowym",
       "rok": 2021,
       "elementy": 217,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76387",
       "nazwa": "Hogwart: spotkanie z Puszkiem",
       "rok": 2021,
       "elementy": 397,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "76388",
       "nazwa": "Wizyta w wiosce Hogsmeade",
       "rok": 2021,
       "elementy": 851,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "76389",
       "nazwa": "Komnata Tajemnic w Hogwarcie",
       "rok": 2021,
       "elementy": 1176,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "76390",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2021,
       "elementy": 274,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76391",
       "nazwa": "Ikony Hogwartu — edycja kolekcjonerska",
       "rok": 2021,
       "elementy": 3010,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "76392",
       "nazwa": "Szachy czarodziejów w Hogwarcie",
       "rok": 2021,
       "elementy": 876,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "76393",
       "nazwa": "Harry Potter i Hermiona Granger",
       "rok": 2021,
       "elementy": 1673,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 629.99
     },
     {
       "numer": "76394",
       "nazwa": "Fawkes, feniks Dumbledore'a",
       "rok": 2021,
       "elementy": 597,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "76395",
       "nazwa": "Hogwart: Pierwsza lekcja latania",
       "rok": 2021,
       "elementy": 264,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "30435",
       "nazwa": "Zbuduj własny zamek Hogwart",
       "rok": 2022,
       "elementy": 67,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 12.0
     },
     {
       "numer": "40577",
       "nazwa": "Wielkie schody w Hogwarcie",
       "rok": 2022,
       "elementy": 224,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "6385434",
       "nazwa": "Golden Snitch",
       "rok": 2022,
       "elementy": 35,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "76396",
       "nazwa": "Chwile z Hogwartu: zajęcia z wróżbiarstwa",
       "rok": 2022,
       "elementy": 297,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "76397",
       "nazwa": "Chwile z Hogwartu: zajęcia z obrony przed czarną magią",
       "rok": 2022,
       "elementy": 257,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "76398",
       "nazwa": "Skrzydło szpitalne Hogwartu",
       "rok": 2022,
       "elementy": 510,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "76399",
       "nazwa": "Magiczny kufer z Hogwartu",
       "rok": 2022,
       "elementy": 603,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "76400",
       "nazwa": "Testrale i kareta z Hogwartu",
       "rok": 2022,
       "elementy": 121,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76401",
       "nazwa": "Dziedziniec Hogwartu: na ratunek Syriuszowi",
       "rok": 2022,
       "elementy": 345,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "76402",
       "nazwa": "Komnata Dumbledore'a w Hogwarcie",
       "rok": 2022,
       "elementy": 654,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "76403",
@@ -2955,98 +2998,112 @@
       "nazwa": "Ekspres do Hogwartu — edycja kolekcjonerska",
       "rok": 2022,
       "elementy": 5129,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2149.99
     },
     {
       "numer": "76406",
       "nazwa": "Smok rogogon węgierski",
       "rok": 2022,
       "elementy": 671,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "76407",
       "nazwa": "Wrzeszcząca Chata i wierzba bijąca",
       "rok": 2022,
       "elementy": 777,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "76408",
       "nazwa": "Ulica Grimmauld Place 12",
       "rok": 2022,
       "elementy": 1083,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 629.99
     },
     {
       "numer": "30651",
       "nazwa": "Trening quidditcha",
       "rok": 2023,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40598",
       "nazwa": "Skrytka w Banku Gringotta",
       "rok": 2023,
       "elementy": 212,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "6482525",
       "nazwa": "Wand",
       "rok": 2023,
       "elementy": 26,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "76409",
       "nazwa": "Flaga Gryffindoru",
       "rok": 2023,
       "elementy": 285,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76410",
       "nazwa": "Flaga Slytherinu",
       "rok": 2023,
       "elementy": 349,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76411",
       "nazwa": "Flaga Ravenclawu",
       "rok": 2023,
       "elementy": 305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76412",
       "nazwa": "Flaga Hufflepuffu",
       "rok": 2023,
       "elementy": 313,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76413",
       "nazwa": "Hogwart: Pokój życzeń",
       "rok": 2023,
       "elementy": 587,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 224.99
     },
     {
       "numer": "76414",
       "nazwa": "Expecto Patronum",
       "rok": 2023,
       "elementy": 754,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "76415",
       "nazwa": "Bitwa o Hogwart",
       "rok": 2023,
       "elementy": 730,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "76416",
@@ -3093,56 +3150,64 @@
       "nazwa": "Skrzat domowy Zgredek",
       "rok": 2023,
       "elementy": 403,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76422",
       "nazwa": "Ulica Pokątna: Magiczne dowcipy Weasleyów",
       "rok": 2023,
       "elementy": 834,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76423",
       "nazwa": "Ekspres do Hogwartu i stacja w Hogsmeade",
       "rok": 2023,
       "elementy": 1074,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 579.99
     },
     {
       "numer": "30677",
       "nazwa": "Draco w Zakazanym Lesie",
       "rok": 2024,
       "elementy": 33,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "40695",
       "nazwa": "Borgin & Burkes: sieć Fiuu",
       "rok": 2024,
       "elementy": 190,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "6508942",
       "nazwa": "Hagrid's Hut",
       "rok": 2024,
       "elementy": 87,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6541140",
       "nazwa": "Platform 9 3/4",
       "rok": 2024,
       "elementy": 103,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "6545695",
       "nazwa": "Hogwarts Express",
       "rok": 2024,
       "elementy": 42,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "76424",
@@ -3165,21 +3230,24 @@
       "nazwa": "Dom na wodzie przy Hogwarcie",
       "rok": 2024,
       "elementy": 350,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76427",
       "nazwa": "Hardodziob",
       "rok": 2024,
       "elementy": 723,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "76428",
       "nazwa": "Chatka Hagrida: niespodziewana wizyta",
       "rok": 2024,
       "elementy": 896,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "76429",
@@ -3202,14 +3270,16 @@
       "nazwa": "Zamek Hogwart: Zajęcia z eliksirów",
       "rok": 2024,
       "elementy": 397,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "76432",
       "nazwa": "Zakazany Las: magiczne stworzenia",
       "rok": 2024,
       "elementy": 172,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76433",
@@ -3224,7 +3294,8 @@
       "nazwa": "Aragog w Zakazanym Lesie",
       "rok": 2024,
       "elementy": 195,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76435",
@@ -3247,7 +3318,8 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2024",
       "rok": 2024,
       "elementy": 301,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "76439",
@@ -3270,21 +3342,24 @@
       "nazwa": "Lekcja quidditcha",
       "rok": 2025,
       "elementy": 27,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40770",
       "nazwa": "Zamek Hogwart: Pokój Życzeń",
       "rok": 2025,
       "elementy": 202,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "6565158",
       "nazwa": "Butterbeer Truck",
       "rok": 2025,
       "elementy": 61,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "76441",
@@ -3411,7 +3486,8 @@
       "nazwa": "Hogsmeade — edycja kolekcjonerska",
       "rok": 2025,
       "elementy": 3228,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1649.99
     },
     {
       "numer": "76458",
@@ -3434,7 +3510,8 @@
       "nazwa": "Przekąski Ministerskie i Prorok Codzienny — stoiska",
       "rok": 2026,
       "elementy": 152,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40975",
@@ -3449,7 +3526,8 @@
       "nazwa": "Hogwarts Crest and Dobby Collector's Set",
       "rok": 2026,
       "elementy": 924,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "76459",
