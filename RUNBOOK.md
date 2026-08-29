@@ -611,3 +611,15 @@ zestawach, okazje sezonowe — wg standardu sprzedażowego: ceny sklepowe
 wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
 dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
 do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
+
+## Ceny Empik (od 29.08.2026)
+
+`oferty_feed.json` ma klucz `empik` — 4290 setów z jednorazowego zrzutu
+katalogu empik.com (29.08.2026, sesja z lokalnym Chrome; Empik blokuje ruch
+serwerowy, więc Łowca NIE odświeża tych cen). Filtry przy imporcie: bez
+gadżetów po nazwie, numer 4–7 cyfr bez zera wiodącego, cena ≥40% RRP,
+tylko sety już obecne w oferty_feed. Linki idą przez szablon `szukaj`
+(worker `/idz/empik/<nr>`). Ceny starzeją się do czasu kolejnego zrzutu —
+odświeżanie cykliczne (np. cotygodniowe) do ustalenia z Markiem; źródłowe
+pliki zrzutów: sesja „porównywarka" (lego-pl-katalog-pelny, lego-smyk,
+lego-empik).
