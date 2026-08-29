@@ -205,14 +205,21 @@ w bajt, sprawdzone 24.08. Duże diffy z 22–23.08 to realna zmiana treści
 (przepisywany rejestr luk), nie szum formatowania.
 
 Pułapka, w którą Scout wpadł i z której warto wyciągnąć regułę: **`sety.json`
-ma wcięcie 1 spacji i nie kończy się znakiem nowej linii**, a klucze NIE są
-posortowane (plik zaczyna się od `21372`). Zapis przez Node z
-`JSON.stringify(obj, null, 2)` dał 7 594 wstawień i 7 514 usunięć przy pięciu
-faktycznie dodanych zestawach. Poprawnie: Python z
-`object_pairs_hook=OrderedDict`, `indent=1`, `ensure_ascii=False`, bez
-końcowego `\n` — wtedy diff to same dodania. **Node reorganizuje klucze
-wyglądające na liczby, więc do plików z numerami zestawów jako kluczami
-nie nadaje się do zapisu.**
+nie kończy się znakiem nowej linii**, a klucze NIE są posortowane (plik
+zaczyna się od `21372`). Zapis przez Node z `JSON.stringify(obj, null, 2)`
+dał 7 594 wstawień i 7 514 usunięć przy pięciu faktycznie dodanych zestawach.
+Poprawnie: Python z `object_pairs_hook=OrderedDict`, `ensure_ascii=False`,
+bez końcowego `\n`. **Node reorganizuje klucze wyglądające na liczby, więc
+do plików z numerami zestawów jako kluczami nie nadaje się do zapisu.**
+
+**Wcięcia nie zakładać na pamięć — sprawdzać przed każdym zapisem.**
+`sety.json` miał wcięcie 1 spacji do 28.08.2026, a commit „Nazwy zestawów
+wyrównane do LEGO.com PL" przestawił je na 2 spacje. Scout zapisał plik
+starym wcięciem i dostał 8 466 usuniętych linii przy sześciu dodanych
+zestawach. Procedura: przed zapisem zrobić round-trip
+(`json.dumps` → `diff` z oryginałem) i użyć tego wcięcia, przy którym plik
+wychodzi bajt w bajt identyczny. Zajmuje sekundę i wyłapuje każdą taką
+zmianę.
 
 ---
 
