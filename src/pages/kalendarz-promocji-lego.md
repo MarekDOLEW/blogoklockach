@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-08-27"
+zaktualizowano: "2026-08-29"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -34,22 +34,29 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 
 ## Sierpień/wrzesień: Back to Hogwarts (29.08–06.09) <span class="status status--ok">potwierdzone</span>
 
-Największe potwierdzone okno przed jesienią — dwa gratisy naraz na LEGO.com:
+Największe potwierdzone okno przed jesienią — **trzy gratisy naraz** na LEGO.com, w dwóch progach kwotowych i jednym powiązanym z konkretnym zestawem:
 
 | Gratis (GWP) | Warunek | Okno |
 |---|---|---|
-| 40901 Ministry Munchies & The Daily Prophet Stands | zakupy z serii [Harry Potter](/serie/harry-potter/) od **525 zł** | 29.08–06.09 |
+| 30724 Gabinet Dumbledore'a z Harrym Potterem | zakupy z serii [Harry Potter](/serie/harry-potter/) od **165 zł** | 29.08–06.09 |
+| 40901 Ministerialne przekąski i stoiska „Proroka Codziennego" | zakupy z serii [Harry Potter](/serie/harry-potter/) od **540 zł** | 29.08–06.09 |
 | 5011072 Budka telefoniczna Ministerstwa Magii | zakup [76476 Ministerstwo Magii — edycja kolekcjonerska](/zestaw/76476/) | 29.08–06.09 |
+
+Do tego w Centrum Nagród LEGO Insiders pojawiają się okolicznościowe bombki
+z Harrym Potterem za **1700 punktów** — o zmienionych zasadach odbioru nagród
+piszemy w [osobnym poradniku](/artykuly/lego-insiders-nowe-zasady-nagrod/).
 
 ### Ile realnie kosztuje ten gratis
 
-Tu jest haczyk, o którym nie mówi żaden komunikat prasowy: **próg 525 zł liczy się od cen katalogowych na LEGO.com**, a zestawy Harry Potter w sklepach zewnętrznych chodzą znacznie taniej. Sprawdziliśmy wszystkie 48 zestawów HP w bieżącej sprzedaży: **41 z nich ma dziś realną przecenę, a mediana wynosi 29% poniżej ceny katalogowej.**
+Tu jest haczyk, o którym nie mówi żaden komunikat prasowy: **progi liczą się od cen katalogowych na LEGO.com**, a zestawy Harry Potter w sklepach zewnętrznych chodzą znacznie taniej. Sprawdziliśmy wszystkie 48 zestawów HP w bieżącej sprzedaży: **41 z nich ma dziś realną przecenę, a mediana wynosi 29% poniżej ceny katalogowej.**
 
-Co to znaczy w praktyce: dobijając do 525 zł na LEGO.com, płacisz mniej więcej **150 zł więcej** niż za te same zestawy w Media Expert, Empiku czy na Allegro. Gratis musiałby być wart tyle, żeby wyjść na zero. Bywa, że jest — zestawy GWP z edycji kolekcjonerskich potrafią po latach kosztować na rynku wtórnym 100–300 zł — ale to zakład, a nie oszczędność.
+Co to znaczy w praktyce: dobijając do 540 zł na LEGO.com, płacisz mniej więcej **155 zł więcej** niż za te same zestawy w Media Expert, Empiku czy na Allegro. Gratis 40901 ma cenę katalogową **84,99 zł** — czyli sam z siebie tej różnicy nie pokrywa. Bywa, że pokrywa ją później rynek wtórny: zestawy GWP z edycji kolekcjonerskich potrafią po latach kosztować 100–300 zł. Ale to zakład, a nie oszczędność.
+
+Niższy próg wypada korzystniej: przy **165 zł** przepłacasz około 48 zł, a dostajesz saszetkę wycenianą katalogowo na 16,99 zł. Nadal wychodzisz na minus, tylko o mniej.
 
 **Kiedy gratis naprawdę się opłaca:**
 
-- **Kupujesz ekskluzyw, którego nie ma nigdzie indziej.** [76476 Ministerstwo Magii — edycja kolekcjonerska](/zestaw/76476/) (3491 elementów, 1849,99 zł) debiutuje 1.09 i jest dostępne wyłącznie na LEGO.com. Tu nie ma czego porównywać — próg 525 zł przekraczasz jednym zestawem, a do tego dochodzi druga budka. To najsilniejszy przypadek w całym oknie.
+- **Kupujesz ekskluzyw, którego nie ma nigdzie indziej.** [76476 Ministerstwo Magii — edycja kolekcjonerska](/zestaw/76476/) (3491 elementów, 1849,99 zł) debiutuje 1.09 i jest dostępne wyłącznie na LEGO.com. Tu nie ma czego porównywać — oba progi przekraczasz jednym zestawem, a do tego dochodzi budka telefoniczna, której nie da się zdobyć inaczej. To najsilniejszy przypadek w całym oknie.
 - **Celujesz w zestawy o niskim rabacie rynkowym.** Nie wszystkie zestawy HP są mocno przecenione. Najbliżej ceny katalogowej trzymają się dziś [76440 Turniej Trójmagiczny: Przybycie](/zestaw/76440/), [76439 Sklepy Ollivandera i Madame Malkin](/zestaw/76439/) i [76477 Norbert: mały smok Hagrida](/zestaw/76477/) — przy nich różnica między LEGO.com a sklepami zewnętrznymi jest niewielka, więc gratis staje się realnym zyskiem.
 - **Zbierasz kalendarze adwentowe.** [76456](/zestaw/76456/) i starsze roczniki rzadko schodzą głęboko poniżej katalogowej, a kupione teraz mają sens także pod grudzień.
 
@@ -59,16 +66,18 @@ Zestawy z tego okna, o których mowa wyżej:
 
 <div class="galeria-setow" data-sety="76476,76440,76439,76477,76471,76474"></div>
 
-### Jak dobić do 525 zł bez przepłacania
+### Jak dobić do 540 zł bez przepłacania
 
 Jeśli już decydujesz się kupować na LEGO.com, najsensowniej dobrać zestawy, które i tak są blisko ceny katalogowej wszędzie. Dwa praktyczne zestawienia:
 
 | Wariant | Zestawy | Razem katalogowo |
 |---|---|---|
 | Dla dziecka (7–10 lat) | [76446 Błędny Rycerz](/zestaw/76446/) + [76445 Zajęcia z zielarstwa](/zestaw/76445/) + [76461 Chochlik kornwalijski](/zestaw/76461/) | 544,97 zł |
+
+Pierwszy wariant przekracza próg o niecałe pięć złotych — jeśli któryś z zestawów akurat nie będzie dostępny, koszyk spadnie poniżej 540 zł i gratis nie zadziała. Warto mieć w odwodzie czwartą, drobną pozycję.
 | Dla dorosłego na półkę | [76439 Sklepy Ollivandera i Madame Malkin](/zestaw/76439/) + [76462 Herb Hogwartu](/zestaw/76462/) | 609,98 zł |
 
-**Kupujesz na prezent?** Jeśli planujesz zestaw Harry Potter dla dziecka, przesuń zakup na to okno i dobierz tak, by przekroczyć 525 zł — dwa prezenty pod choinkę masz z głowy już we wrześniu. Pomysły na konkretne zestawy według wieku zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
+**Kupujesz na prezent?** Jeśli planujesz zestaw Harry Potter dla dziecka, przesuń zakup na to okno i dobierz tak, by przekroczyć 540 zł — dwa prezenty pod choinkę masz z głowy już we wrześniu. Pomysły na konkretne zestawy według wieku zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
 
 **Nie potrzebujesz gratisu?** Sklepy zewnętrzne przeceniają zestawy Harry Potter niezależnie od okien LEGO.com — np. [Magiczne Sklepy na Pokątnej 76471](/zestaw/76471/) i [Zielnik w Hogwarcie 76474](/zestaw/76474/) chodzą około jednej trzeciej poniżej ceny katalogowej. Pełną listę z aktualnymi cenami masz na [stronie serii Harry Potter](/serie/harry-potter/).
 
@@ -124,7 +133,7 @@ Do ok. 18–19.12 sklepy gwarantują dostawę przed Wigilią — po tej dacie zo
 
 ## Jak wycisnąć z tego kalendarza maksimum
 
-1. **Gratisy GWP planuj pod większe zakupy** — próg 525–750 zł łatwo przekroczyć jednym średnim zestawem, zamiast dopychać koszyk drobnicą.
+1. **Gratisy GWP planuj pod większe zakupy** — próg 540–750 zł łatwo przekroczyć jednym średnim zestawem, zamiast dopychać koszyk drobnicą.
 2. **Poza oknami GWP porównuj sklepy** — najniższa cena w Media Expert, Empik, al.to, na Amazonie czy Allegro potrafi bić rabaty LEGO.com nawet w szczycie promocji. Tabele cen znajdziesz na podstronie każdego zestawu — wejście przez [strony serii](/serie/) albo wyszukiwarkę na [stronie głównej](/).
 3. **Wycofania kupuj przed grudniem** — to jedyna kategoria, w której czekanie na Black Friday może oznaczać brak towaru zamiast rabatu.
 
