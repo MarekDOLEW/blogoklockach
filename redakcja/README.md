@@ -89,6 +89,17 @@ Ustalenia integracyjne:
 
 ## Decyzje projektowe (log)
 
+- 2026-08-30 (Marek): **system wizualny spisany, nie wymyślony na nowo.**
+  Identyfikacja serwisu istniała wyłącznie w `src/styles/global.css` (blok
+  `:root`, nazwa własna „Instrukcja"), więc sesja robiąca grafikę nie miała jak
+  jej poznać. Powstał [system-wizualny.md](system-wizualny.md) — lustro tokenów
+  plus reguły użycia poza stroną: policzone kontrasty (biały na żółtym to 1,54:1,
+  zakaz), semantyka czerwieni i zieleni, sygnatura wypustek, formaty.
+  **Źródłem prawdy dla tokenów zostaje `global.css`** — przy rozjeździe poprawiamy
+  dokument, nie CSS. Do `.claude/skills/` wpięty skill `canvas-design`
+  (anthropics/skills, Apache 2.0) z Archivo dołożonym do jego biblioteki krojów;
+  skill ma pomijać swój etap wymyślania filozofii i brać tę z dokumentu.
+
 - 2026-08-27 (Marek): **porządki w menu i artykułach.** Menu schodzi do sześciu
   pozycji (Promocje dziś, Nowości, Wycofania, Serie, Prezentowniki, Artykuły).
   Kalendarz i Zapowiedzi to artykuły — mieszkają w `/artykuly/` w kategoriach

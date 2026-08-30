@@ -24,9 +24,12 @@ Claude Code w tym repo bierze je z `.claude/skills/` bez żadnego wgrywania.
 Cowork czyta skille z konta, a synchronizacja idzie **tylko w jedną stronę**
 (serwer → kontener), więc paczkę `.skill` wgrywa człowiek w Settings → Skills.
 
-**Nigdy nie edytujemy skilla na claude.ai ani plików w `.claude/skills/`** —
+**Nigdy nie edytujemy skilla na claude.ai ani dwóch paczek generowanych przez
+`eksport-skilli.mjs`** (`lego-standard-redakcyjny`, `lego-standard-sprzedazowy`) —
 poprawka przepadnie przy następnym eksporcie, a repo i skill znowu się rozjadą.
-Zmieniamy dokument w `redakcja/` i uruchamiamy eksport.
+Zmieniamy dokument w `redakcja/` i uruchamiamy eksport. Pozostałe skille w
+`.claude/skills/` są pisane ręcznie albo wendorowane z zewnątrz i edytuje się je
+na miejscu — eksport ich nie dotyka.
 
 Dokumenty wspólnika (`standard-artykulow-biezacych.md`,
 `metodologia-researchu-lego.md`) trzymamy verbatim; nasze ustalenia dopisujemy
