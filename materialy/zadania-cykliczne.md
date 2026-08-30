@@ -52,3 +52,18 @@ Prompt Routine przypiętej do cudzej sesji **nie da się** zmienić przez
 `update_trigger` („editing the prompt … is not available via this tool") —
 trzeba `delete_trigger` + `create_trigger` z tym samym `persistent_session_id`.
 Nazwę, cron i stan `enabled` można zmieniać normalnie.
+
+## Backfill — obowiązkowa bramka sanity (od 30.08.2026)
+
+Przed każdym commitem Backfill MUSI uruchomić `node scripts/kontrola-rrp.mjs`
+i przejrzeć sekcję „Test rynkowy": cena rynkowa z feedów poniżej 50% wpisywanej
+ceny katalogowej oznacza, że któraś strona jest błędna. Rozstrzyganie:
+- RRP potwierdzone (rrp_potwierdzone.json / baza RK w katalog.json z
+  `cena_zrodlo: "RK"`) → wina „rynku" (zaślepka sklepu albo oferta-podszywka);
+  wpis zostaje, przypadek zgłosić w raporcie do wiadomości Łowcy;
+- RRP bez niezależnego potwierdzenia → ceny NIE zapisywać (brak ceny jest
+  lepszy niż fałszywy rabat na stronie).
+Audyt z 30.08.2026: wpisy Backfilla po naprawach z 24.08 są poprawne; fałszywe
+rabaty (75425 „−76%") produkowały zaślepki cenowe Planety Klocków (79,99 dla
+linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
+„cena PK < 50% RRP → wiersz PK wykluczony".

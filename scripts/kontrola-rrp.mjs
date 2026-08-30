@@ -83,6 +83,31 @@ for (const [c, n] of [...wgKwoty.entries()].sort((a, b) => b[1] - a[1]).slice(0,
   console.log(`  ${String(c).padStart(8)} — ${n} setów`);
 }
 
+// Test rynkowy (audyt 30.08.2026): cena rynkowa z feedów poniżej 50% ceny
+// katalogowej to sygnał, że KTÓRAŚ z dwóch stron jest błędna — zawyżone RRP
+// (przelicznik walutowy Backfillu) albo fałszywy „rynek" (zaślepka cenowa
+// sklepu jak PK 79,99/559,99, oferta-podszywka na marketplace). Audyt z 30.08
+// pokazał, że po naprawach RRP przeważa druga kategoria — dlatego to raport
+// do ręcznego rozstrzygnięcia, nie automatyczna poprawka. Rozstrzyganie:
+// wpis potwierdzony w rrp_potwierdzone/RK → wina rynku (zgłoś Łowcy do
+// wykluczeń); wpis bez niezależnego potwierdzenia → usuń cenę z katalogu.
+const feed = czytaj('oferty_feed.json').sety ?? {};
+const SKLEPY_FEED = ['mediaexpert', 'planetaklockow', 'allegro', 'smyk', 'empik'];
+const rynkowe = [];
+for (const w of wpisy) {
+  const oferty = feed[w.numer]?.oferty;
+  if (!oferty) continue;
+  const ceny = SKLEPY_FEED.map((s) => oferty[s]).filter((c) => typeof c === 'number' && c > 0);
+  if (!ceny.length) continue;
+  const rynek = Math.min(...ceny);
+  if (rynek < w.cena_katalogowa * 0.5) rynkowe.push({ ...w, rynek });
+}
+console.log(`\nTest rynkowy (rynek < 50% ceny katalogowej): ${rynkowe.length} setów`);
+for (const r of rynkowe.slice(0, 30)) {
+  const potw = zweryfikowana(r.numer) !== null ? 'RRP potwierdzone → podejrzany rynek' : 'RRP niepotwierdzone → sprawdź cenę katalogową';
+  console.log(`  ${r.numer.padEnd(8)} katalog ${String(r.cena_katalogowa).padStart(8)} | rynek ${String(r.rynek).padStart(8)}  (${potw})`);
+}
+
 if (naprawiaj && rozbiezne.length) {
   for (const r of rozbiezne) r.wpis.cena_katalogowa = r.pewna;
   writeFileSync(sciezka('katalog.json'), JSON.stringify(katalog, null, 1) + '\n');
