@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-08-29",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-08-29 00:30 CEST, swiezy) + PK + Allegro; 17 cen PK zweryfikowano (5 zaslepek 559,99 pominietych): 1 rozbieznosc (75401 strona 181,34 vs feed 194,99), 12 setow niedostepnych, 42143 Ferrari Daytona dostepne w PK po 1949,99; wykluczenia Allegro: 86 konfliktow numeru + 1 rabatow >60%"
+  "zaktualizowano": "2026-08-30",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-08-30 00:30 CEST, swiezy) + PK + Allegro; ETAP 1 RK: +2632 RRP w katalog.json (zrodlo RK), nowy ean.json (6811 kodow) - rabaty liczone teraz dla 4152 setow w feedach; weryfikacja PK zawezona do kandydatow wygrywajacych ranking (<=5%): 12 stron, 1 rozbieznosc brak, 10291 dostepny, 7 nowych niedostepnych dodanych do wykluczen; filtr gadzetow rozszerzony na PK/ME (kolizje typu puzzle 60086)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -44,8 +44,8 @@
  "11381": {
   "nazwa": "Jaguar Type E",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 429.89,
-  "najnizsza_data": "2026-08-21",
+  "najnizsza_cena": 425.0,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "77263": {
@@ -268,15 +268,15 @@
  "77264": {
   "nazwa": "Jaguar Project 7 i Land Rover Defender",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 168.99,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 165.49,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
  },
  "72051": {
   "nazwa": "Automat do gry Donkey Kong",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 559.99,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 553.05,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "21066": {
@@ -464,8 +464,8 @@
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 76.33,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 76.19,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "77059": {
@@ -653,8 +653,8 @@
  "21595": {
   "nazwa": "Smok Kresu",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 176.61,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 176.57,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "77262": {
@@ -688,16 +688,16 @@
  "77261": {
   "nazwa": "Ferrari 499P",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 67.2,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 67.11,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "31387": {
   "nazwa": "Legendarny statek piracki",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 298.97,
-  "najnizsza_data": "2026-08-24",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 298.96,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
  },
  "76477": {
   "nazwa": "Norbert: mały smok Hagrida",
@@ -772,8 +772,8 @@
  "71864": {
   "nazwa": "Wielofunkcyjne pojazdy Kaia i Cole'a",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 80.99,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 80.9,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "76469": {
@@ -877,8 +877,8 @@
  "76475": {
   "nazwa": "Zakazany Las: Expecto Patronum",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 78.94,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 78.86,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "60509": {
@@ -898,8 +898,8 @@
  "21592": {
   "nazwa": "Atak kurzego jeźdźca na pustyni",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 68.38,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 68.3,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "76349": {
@@ -1038,8 +1038,8 @@
  "31391": {
   "nazwa": "Modna torebka ze schowkiem",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 75.57,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 75.48,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "42241": {
@@ -1059,8 +1059,8 @@
  "21593": {
   "nazwa": "Przetrwanie pierwszej nocy",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 77.99,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 77.91,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "42694": {
@@ -1080,8 +1080,8 @@
  "76345": {
   "nazwa": "Popiersie Doktora Dooma",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 171.91,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 171.76,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "71867": {
@@ -1143,9 +1143,9 @@
  "42705": {
   "nazwa": "Jesienna leśna chatka",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 297.98,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 296.77,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
  },
  "60501": {
   "nazwa": "Park rollercoasterów Lava Land",
@@ -1171,8 +1171,8 @@
  "42690": {
   "nazwa": "Podwieczorek w lesie",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.88,
-  "najnizsza_data": "2026-08-24",
+  "najnizsza_cena": 27.99,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "43297": {
@@ -1206,8 +1206,8 @@
  "42693": {
   "nazwa": "Kreatywna kwiaciarnia",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 88.68,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 87.98,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "10480": {
@@ -1241,8 +1241,8 @@
  "76340": {
   "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 116.42,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 116.23,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "11045": {
@@ -1255,8 +1255,8 @@
  "11221": {
   "nazwa": "Szkoła z Ryżykiem i Blue",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 63.22,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 63.14,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "71865": {
@@ -1269,8 +1269,8 @@
  "71863": {
   "nazwa": "Zilvar i smocza bestia Grimtak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.25,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 54.14,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "21596": {
@@ -1283,8 +1283,8 @@
  "42676": {
   "nazwa": "Frajda w parku wodnym",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 81.42,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 81.09,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "43282": {
@@ -1339,8 +1339,8 @@
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 89.12,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 88.75,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "76346": {
@@ -1367,8 +1367,8 @@
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 116.39,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 116.01,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "77981": {
@@ -1381,8 +1381,8 @@
  "43283": {
   "nazwa": "Zamek Kopciuszka i jej zwierzęcych przyjaciół",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79.01,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 78.92,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "71053": {
@@ -1486,8 +1486,8 @@
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 424.28,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 399.28,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "72158": {
@@ -1535,16 +1535,16 @@
  "30729": {
   "nazwa": "Premierball",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 11.0,
-  "najnizsza_data": "2026-08-27",
+  "najnizsza_cena": 9.99,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "72155": {
   "nazwa": "SMART Play: Bulbasaur i Bidoof z krzewem jagody",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 67.99,
-  "najnizsza_data": "2026-08-24",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 63.99,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
  },
  "30730": {
   "nazwa": "Wyposażenie Trenera",
@@ -1620,8 +1620,8 @@
  "77256": {
   "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 64.38,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 64.3,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "76332": {
@@ -1716,8 +1716,8 @@
  "42698": {
   "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 89.12,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 88.75,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "11376": {
@@ -1744,8 +1744,8 @@
  "75456": {
   "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 116.39,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 116.0,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "21367": {
@@ -1835,8 +1835,8 @@
  "42228": {
   "nazwa": "Bolid McLaren MCL39 F1",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 649.0,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 639.0,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "42691": {
@@ -1849,8 +1849,8 @@
  "42224": {
   "nazwa": "Porsche 911 GT3 R Rexy AO Racing",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 444.97,
-  "najnizsza_data": "2026-08-26",
+  "najnizsza_cena": 429.99,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  },
  "75427": {
@@ -1877,9 +1877,9 @@
  "43301": {
   "nazwa": "Podpórki do książek ze Sprężynkiem (Toy Story)",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 459.73,
-  "najnizsza_data": "2026-08-26",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 443.99,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
  },
  "42115": {
   "nazwa": "Lamborghini Sián FKP 37",
@@ -1956,6 +1956,48 @@
   "cena_katalogowa": 1699.99,
   "najnizsza_cena": 1218.0,
   "najnizsza_data": "2026-08-29",
+  "najnizsza_sklep": "allegro"
+ },
+ "76294": {
+  "nazwa": "X-Men: Instytut Xaviera",
+  "cena_katalogowa": 1399.99,
+  "najnizsza_cena": 1449.99,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "21356": {
+  "nazwa": "Parowiec rzeczny",
+  "cena_katalogowa": 1399.99,
+  "najnizsza_cena": 1124.89,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "10365": {
+  "nazwa": "Statek piracki kapitana Jacka Sparrowa",
+  "cena_katalogowa": 1499.99,
+  "najnizsza_cena": 1366.1,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "42129": {
+  "nazwa": "Ciężarówka Mercedes-Benz Zetros 4x4",
+  "cena_katalogowa": 1549.99,
+  "najnizsza_cena": 1060.0,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "21330": {
+  "nazwa": "Kevin sam w domu",
+  "cena_katalogowa": 1299.99,
+  "najnizsza_cena": 1205.31,
+  "najnizsza_data": "2026-08-30",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "21344": {
+  "nazwa": "Orient Express",
+  "cena_katalogowa": 1299.99,
+  "najnizsza_cena": 1799.99,
+  "najnizsza_data": "2026-08-30",
   "najnizsza_sklep": "allegro"
  }
 }
