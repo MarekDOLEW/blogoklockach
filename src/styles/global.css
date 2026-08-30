@@ -432,9 +432,18 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
   .tabela-setow tr {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-areas: "foto" "nazwa" "nr" "cena" "status" "opis" "meta";
-    gap: 6px 0;
+    /* pierwsza kolumna szeroka na „LEGO <numer>”, druga bierze resztę —
+       dzięki temu numer i nazwa siedzą w jednej linii, a foto i pozostałe
+       pozycje rozciągają się na obie kolumny */
+    grid-template-columns: auto 1fr;
+    grid-template-areas:
+      "foto   foto"
+      "nr     nazwa"
+      "cena   cena"
+      "status status"
+      "opis   opis"
+      "meta   meta";
+    gap: 6px 8px;
     padding: 18px 2px 22px;
     border-bottom: 1px solid var(--linia);
   }
@@ -455,11 +464,11 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
   /* komórka opisu rozpada się na trzy osobne pozycje siatki */
   .tabela-setow .kol-opis { display: contents; }
-  .tabela-setow .set-nazwa { grid-area: nazwa; font-size: 1.05rem; line-height: 1.3; }
+  .tabela-setow .set-nazwa { grid-area: nazwa; font-size: 1.05rem; line-height: 1.3; align-self: baseline; }
   .tabela-setow .set-opis { grid-area: opis; margin-top: 6px; }
   .tabela-setow .set-meta { grid-area: meta; margin-top: 4px; }
 
-  .tabela-setow .kol-nr { grid-area: nr; }
+  .tabela-setow .kol-nr { grid-area: nr; align-self: baseline; white-space: nowrap; }
   /* nagłówek „Nr" jest schowany, więc sam numer traciłby kontekst */
   .tabela-setow .kol-nr .set-nr::before { content: 'LEGO '; color: var(--granat-60); font-weight: 600; }
 
@@ -469,7 +478,9 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
   }
   .tabela-setow .kol-cena a.set-cena { padding: 6px 0; }
   .tabela-setow .kol-cena .set-kiedy { flex-basis: 100%; margin: 0 0 2px; }
-  .tabela-setow .kol-cena .set-sklep { flex-basis: 100%; margin: 0; }
+  /* sklep i data idą dalej w tej samej linii co ceny; gdy zabraknie
+     miejsca, flex-wrap przeniesie je sam */
+  .tabela-setow .kol-cena .set-sklep { margin: 0; }
 
   .tabela-setow .kol-status { grid-area: status; align-self: start; margin-top: 2px; }
   tr.set-trafienie td:first-child { box-shadow: none; }
