@@ -8,6 +8,12 @@
 // do porównania (11%), w większości zawyżone — jeden set miał 304,99 zł
 // zamiast 104,99 zł.
 //
+// Przebieg 30.08.2026: po zaciągu pełnego katalogu lego.com/pl-pl (Firecrawl,
+// 28.08) rejestr potwierdzony urósł do 814 pozycji, przez co porównywalnych
+// setów jest 764 zamiast 198, a rozbieżnych było 127 (17%). Wszystkie
+// naprawione przez `--napraw`; strona tych błędów nie pokazywała, bo
+// cenaKatalogowaSetu() czyta rrp_potwierdzone.json przed katalog.json.
+//
 // Dlaczego to boli: `cenaKatalogowaSetu()` schodzi do katalog.json dla setów
 // spoza sety.json i ceny_baza.json, a od RRP liczymy rabat w tabelach cen.
 // Zawyżone RRP = zmyślony rabat na stronie.
@@ -109,9 +115,34 @@ for (const r of rynkowe.slice(0, 30)) {
 }
 
 if (naprawiaj && rozbiezne.length) {
+  // Kształt pliku zachowujemy dokładnie taki, jaki zastaliśmy — RUNBOOK
+  // („Stabilność formatu plików JSON"): katalog.json ma wcięcie 1 spacji i NIE
+  // kończy się znakiem nowej linii. Wcześniejsza wersja dopisywała `\n`, czyli
+  // do diffu z poprawkami cen doklejała zmianę formatu. Round-trip sprawdzamy
+  // przed zapisem, żeby wypisać, ile linii zmienia samo formatowanie.
+  const przed = readFileSync(sciezka('katalog.json'), 'utf8');
+  const konczyNowaLinia = przed.endsWith('\n');
+  const serializuj = () => JSON.stringify(katalog, null, 1) + (konczyNowaLinia ? '\n' : '');
+
+  const bezZmian = serializuj();
+  if (bezZmian !== przed) {
+    const linie = (a, b) => {
+      const x = a.split('\n');
+      const y = b.split('\n');
+      let n = 0;
+      for (let i = 0; i < Math.max(x.length, y.length); i++) if (x[i] !== y[i]) n++;
+      return n;
+    };
+    console.log(
+      `\nUwaga: sama serializacja zmienia ${linie(przed, bezZmian)} linii ` +
+        '(zapis Pythona podaje kwoty całkowite jako 1500.0, Node jako 1500). ' +
+        'To zmiana zapisu, nie wartości.',
+    );
+  }
+
   for (const r of rozbiezne) r.wpis.cena_katalogowa = r.pewna;
-  writeFileSync(sciezka('katalog.json'), JSON.stringify(katalog, null, 1) + '\n');
-  console.log(`\nNaprawiono ${rozbiezne.length} wpisów w katalog.json.`);
+  writeFileSync(sciezka('katalog.json'), serializuj());
+  console.log(`Naprawiono ${rozbiezne.length} wpisów w katalog.json.`);
   process.exit(0);
 }
 

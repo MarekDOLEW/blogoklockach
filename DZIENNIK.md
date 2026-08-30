@@ -24,6 +24,44 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-30 13:00 · CODE · Naprawa 127 cen katalogowych + zgodność raportu odsiewu ze stroną
+
+**Zrobione:**
+- `src/data/katalog.json` — `node scripts/kontrola-rrp.mjs --napraw` poprawił
+  **127 cen katalogowych** rozjechanych z `rrp_potwierdzone.json`. Źródłem
+  rozbieżności jest backfill z Bricksetu (GBP/USD/EUR) kontra zaciąg pełnego
+  katalogu lego.com/pl-pl przez Firecrawl z 28.08 (814 potwierdzonych pozycji).
+  Liczba setów bez zmian (7777 w 37 seriach), zmieniło się wyłącznie pole
+  `cena_katalogowa` — zero innych pól. Kontrola po naprawie: **ROZBIEŻNYCH 0**.
+- `scripts/kontrola-ofert.mjs` — łańcuch RRP nie zaczynał się od
+  `rrp_potwierdzone.json`, więc raport liczył próg odsiewu od innej kwoty niż
+  serwis (`katalogowaDoOdsiewu` w `src/lib/oferty.js`). Dotyczyło **244 setów**
+  w feedzie. Na dzisiejszych danych zero różnic w decyzjach — uśpiona
+  niespójność, nie żywy błąd, ale nagłówek skryptu obiecuje „te same reguły
+  i progi, których używa serwis".
+- `scripts/kontrola-rrp.mjs` — `--napraw` dopisywał `\n` na końcu
+  `katalog.json`, którego tam nie ma (pułapka z RUNBOOK „Stabilność formatu
+  plików JSON"). Teraz zapis zachowuje kształt zastanego pliku i raportuje,
+  ile linii zmienia sama serializacja.
+
+**Stan:** gotowe. Diff `katalog.json` to 171 linii: 127 poprawionych cen
++ 44 linie normalizacji zapisu (`1500.0` → `1500`, ślad po zapisie Pythona).
+Build nie odpalony — w kontenerze nie ma `node_modules`, a zmiana dotyczy
+wyłącznie wartości w danych.
+
+**Dla drugiej strony:** nic. Jeśli Backfill (Python) będzie zapisywał
+`katalog.json`, kwoty całkowite wrócą jako `1500.0` — to kosmetyka, nie błąd.
+
+**Uwagi:** te 127 błędnych kwot **nie trafiało na stronę** —
+`cenaKatalogowaSetu()` czyta `rrp_potwierdzone.json` jako pierwsze źródło.
+Zgniły był sam `katalog.json`, czyli ostatnie ogniwo łańcucha i jedyne
+źródło dla setów spoza rejestru.
+
+Zostaje do rozstrzygnięcia ręcznego: **19 setów w teście rynkowym**
+(cena z feedu < 50% RRP) — wg procedury z `materialy/zadania-cykliczne.md`.
+Osobno: **Ceneo z 20.08** (10 dni) i **Empik ze zrzutu 29.08 bez odświeżania
+cyklicznego** — najstarsze dane w tabelach cen.
+
 ## 2026-08-27 08:15 · CODE · Dwa teksty Piotra opublikowane: ranking Icons i porównanie zamków
 
 **Zrobione:**

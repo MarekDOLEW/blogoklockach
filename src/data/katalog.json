@@ -544,7 +544,7 @@
    "rok": 2024,
    "elementy": 516,
    "status": "dostepny",
-   "cena_katalogowa": 379.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "21346",
@@ -632,7 +632,7 @@
    "rok": 2025,
    "elementy": 879,
    "status": "eol",
-   "cena_katalogowa": 349.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "21356",
@@ -744,7 +744,7 @@
    "rok": 2026,
    "elementy": 1234,
    "status": "dostepny",
-   "cena_katalogowa": 479.99
+   "cena_katalogowa": 469.99
   },
   {
    "numer": "21367",
@@ -977,7 +977,7 @@
    "rok": 2017,
    "elementy": 5923,
    "status": "eol",
-   "cena_katalogowa": 1500.0
+   "cena_katalogowa": 1500
   },
   {
    "numer": "10257",
@@ -1009,7 +1009,7 @@
    "rok": 2018,
    "elementy": 4124,
    "status": "eol",
-   "cena_katalogowa": 1500.0
+   "cena_katalogowa": 1500
   },
   {
    "numer": "10262",
@@ -1633,7 +1633,7 @@
    "rok": 2024,
    "elementy": 1194,
    "status": "eol",
-   "cena_katalogowa": 439.99
+   "cena_katalogowa": 419.99
   },
   {
    "numer": "10341",
@@ -1897,7 +1897,7 @@
    "rok": 2026,
    "elementy": 1102,
    "status": "dostepny",
-   "cena_katalogowa": 479.99
+   "cena_katalogowa": 469.99
   },
   {
    "numer": "11373",
@@ -2907,7 +2907,7 @@
    "rok": 2022,
    "elementy": 67,
    "status": "eol",
-   "cena_katalogowa": 12.0
+   "cena_katalogowa": 12
   },
   {
    "numer": "40577",
@@ -3459,7 +3459,7 @@
    "rok": 2025,
    "elementy": 795,
    "status": "dostepny",
-   "cena_katalogowa": 449.99
+   "cena_katalogowa": 419.99
   },
   {
    "numer": "76453",
@@ -3579,7 +3579,7 @@
    "rok": 2026,
    "elementy": 652,
    "status": "dostepny",
-   "cena_katalogowa": 259.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "76466",
@@ -6661,7 +6661,7 @@
    "rok": 2014,
    "elementy": 3296,
    "status": "eol",
-   "cena_katalogowa": 1300.0
+   "cena_katalogowa": 1300
   },
   {
    "numer": "30272",
@@ -7229,7 +7229,7 @@
    "rok": 2016,
    "elementy": 2144,
    "status": "eol",
-   "cena_katalogowa": 1150.0
+   "cena_katalogowa": 1150
   },
   {
    "numer": "75113",
@@ -7565,7 +7565,7 @@
    "rok": 2016,
    "elementy": 4016,
    "status": "eol",
-   "cena_katalogowa": 2300.0
+   "cena_katalogowa": 2300
   },
   {
    "numer": "911607",
@@ -8205,7 +8205,7 @@
    "rok": 2018,
    "elementy": 22,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -8549,7 +8549,7 @@
    "rok": 2018,
    "elementy": 2812,
    "status": "eol",
-   "cena_katalogowa": 1900.0
+   "cena_katalogowa": 1900
   },
   {
    "numer": "75230",
@@ -8755,7 +8755,7 @@
    "rok": 2019,
    "elementy": 12,
    "status": "eol",
-   "cena_katalogowa": 12.0
+   "cena_katalogowa": 12
   },
   {
    "numer": "4002019",
@@ -8827,7 +8827,7 @@
    "rok": 2019,
    "elementy": 327,
    "status": "eol",
-   "cena_katalogowa": 160.0
+   "cena_katalogowa": 160
   },
   {
    "numer": "75228",
@@ -11659,7 +11659,7 @@
    "rok": 2026,
    "elementy": 107,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "75444",
@@ -11699,7 +11699,7 @@
    "rok": 2026,
    "elementy": 151,
    "status": "dostepny",
-   "cena_katalogowa": 62.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "75449",
@@ -12959,7 +12959,7 @@
    "rok": 2023,
    "elementy": 155,
    "status": "eol",
-   "cena_katalogowa": 64.99,
+   "cena_katalogowa": 81.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -13128,7 +13128,7 @@
    "rok": 2024,
    "elementy": 152,
    "status": "eol",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 54.99
   },
   {
    "numer": "40675",
@@ -13190,7 +13190,7 @@
    "rok": 2024,
    "elementy": 300,
    "status": "eol",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "40750",
@@ -13216,7 +13216,7 @@
    "rok": 2024,
    "elementy": 308,
    "status": "eol",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "40753",
@@ -13240,7 +13240,7 @@
    "rok": 2025,
    "elementy": 671,
    "status": "eol",
-   "cena_katalogowa": 229.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "40792",
@@ -13321,7 +13321,7 @@
    "rok": 2025,
    "elementy": 292,
    "status": "eol",
-   "cena_katalogowa": 89.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "40803",
@@ -13337,7 +13337,7 @@
    "rok": 2025,
    "elementy": 253,
    "status": "eol",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "40884",
@@ -13345,7 +13345,7 @@
    "rok": 2025,
    "elementy": 280,
    "status": "eol",
-   "cena_katalogowa": 89.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "40856",
@@ -14188,7 +14188,7 @@
    "rok": 2025,
    "elementy": 248,
    "status": "dostepny",
-   "cena_katalogowa": 119.99
+   "cena_katalogowa": 114.99
   },
   {
    "numer": "77247",
@@ -14212,7 +14212,7 @@
    "rok": 2025,
    "elementy": 263,
    "status": "dostepny",
-   "cena_katalogowa": 119.99
+   "cena_katalogowa": 114.99
   },
   {
    "numer": "77250",
@@ -17340,7 +17340,7 @@
    "rok": 2016,
    "elementy": 3929,
    "status": "eol",
-   "cena_katalogowa": 1049.0
+   "cena_katalogowa": 1049
   },
   {
    "numer": "42056",
@@ -17348,7 +17348,7 @@
    "rok": 2016,
    "elementy": 2704,
    "status": "eol",
-   "cena_katalogowa": 1350.0
+   "cena_katalogowa": 1350
   },
   {
    "numer": "4002017",
@@ -17460,7 +17460,7 @@
    "rok": 2017,
    "elementy": 1862,
    "status": "eol",
-   "cena_katalogowa": 1190.0
+   "cena_katalogowa": 1190
   },
   {
    "numer": "42071",
@@ -17556,7 +17556,7 @@
    "rok": 2018,
    "elementy": 4057,
    "status": "eol",
-   "cena_katalogowa": 1100.0
+   "cena_katalogowa": 1100
   },
   {
    "numer": "42083",
@@ -17564,7 +17564,7 @@
    "rok": 2018,
    "elementy": 3599,
    "status": "eol",
-   "cena_katalogowa": 1700.0
+   "cena_katalogowa": 1700
   },
   {
    "numer": "42084",
@@ -17676,7 +17676,7 @@
    "rok": 2019,
    "elementy": 4108,
    "status": "eol",
-   "cena_katalogowa": 2000.0
+   "cena_katalogowa": 2000
   },
   {
    "numer": "42110",
@@ -18300,7 +18300,7 @@
    "rok": 2024,
    "elementy": 643,
    "status": "dostepny",
-   "cena_katalogowa": 349.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "42171",
@@ -18372,7 +18372,7 @@
    "rok": 2024,
    "elementy": 526,
    "status": "dostepny",
-   "cena_katalogowa": 349.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "42180",
@@ -18636,7 +18636,7 @@
    "rok": 2025,
    "elementy": 732,
    "status": "eol",
-   "cena_katalogowa": 269.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "30735",
@@ -23018,7 +23018,7 @@
    "rok": 2018,
    "elementy": 79,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -23311,7 +23311,7 @@
    "rok": 2018,
    "elementy": 20,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "60238",
@@ -23319,7 +23319,7 @@
    "rok": 2018,
    "elementy": 8,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "66586",
@@ -24798,7 +24798,7 @@
    "rok": 2022,
    "elementy": 51,
    "status": "eol",
-   "cena_katalogowa": 12.0,
+   "cena_katalogowa": 12,
    "cena_zrodlo": "RK"
   },
   {
@@ -24841,7 +24841,7 @@
    "rok": 2022,
    "elementy": 94,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60313",
@@ -25874,7 +25874,7 @@
    "rok": 2024,
    "elementy": 99,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60401",
@@ -25890,7 +25890,7 @@
    "rok": 2024,
    "elementy": 148,
    "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "60403",
@@ -25965,7 +25965,7 @@
    "rok": 2024,
    "elementy": 85,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60412",
@@ -25999,7 +25999,7 @@
    "rok": 2024,
    "elementy": 213,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "60417",
@@ -26428,7 +26428,7 @@
    "rok": 2025,
    "elementy": 65,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60456",
@@ -26500,7 +26500,7 @@
    "rok": 2025,
    "elementy": 92,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "60465",
@@ -26748,7 +26748,7 @@
    "rok": 2026,
    "elementy": 67,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60483",
@@ -26756,7 +26756,7 @@
    "rok": 2026,
    "elementy": 61,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "60484",
@@ -26804,7 +26804,7 @@
    "rok": 2026,
    "elementy": 259,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "60490",
@@ -26820,7 +26820,7 @@
    "rok": 2026,
    "elementy": 88,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "60492",
@@ -30221,7 +30221,7 @@
    "rok": 2019,
    "elementy": 77,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -30901,7 +30901,7 @@
    "rok": 2022,
    "elementy": 284,
    "status": "eol",
-   "cena_katalogowa": 84.99,
+   "cena_katalogowa": 81.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -30910,7 +30910,7 @@
    "rok": 2022,
    "elementy": 254,
    "status": "eol",
-   "cena_katalogowa": 64.99,
+   "cena_katalogowa": 61.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -30928,7 +30928,7 @@
    "rok": 2022,
    "elementy": 257,
    "status": "eol",
-   "cena_katalogowa": 89.0,
+   "cena_katalogowa": 89,
    "cena_zrodlo": "RK"
   },
   {
@@ -30946,7 +30946,7 @@
    "rok": 2022,
    "elementy": 277,
    "status": "eol",
-   "cena_katalogowa": 64.99,
+   "cena_katalogowa": 61.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -31171,7 +31171,7 @@
    "rok": 2023,
    "elementy": 220,
    "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "40650",
@@ -31257,7 +31257,7 @@
    "rok": 2024,
    "elementy": 342,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "31149",
@@ -31375,7 +31375,7 @@
    "rok": 2024,
    "elementy": 262,
    "status": "eol",
-   "cena_katalogowa": 64.99,
+   "cena_katalogowa": 61.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -31525,7 +31525,7 @@
    "rok": 2025,
    "elementy": 363,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "31170",
@@ -31694,7 +31694,7 @@
    "rok": 2026,
    "elementy": 283,
    "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "31380",
@@ -31742,7 +31742,7 @@
    "rok": 2026,
    "elementy": 542,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "31386",
@@ -31838,7 +31838,7 @@
    "rok": 2026,
    "elementy": 240,
    "status": "dostepny",
-   "cena_katalogowa": 62.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "66832",
@@ -32325,7 +32325,7 @@
    "rok": 2013,
    "elementy": 41,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32334,7 +32334,7 @@
    "rok": 2013,
    "elementy": 31,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32343,7 +32343,7 @@
    "rok": 2013,
    "elementy": 33,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32352,7 +32352,7 @@
    "rok": 2013,
    "elementy": 34,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32361,7 +32361,7 @@
    "rok": 2013,
    "elementy": 46,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32370,7 +32370,7 @@
    "rok": 2013,
    "elementy": 37,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32379,7 +32379,7 @@
    "rok": 2013,
    "elementy": 35,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32388,7 +32388,7 @@
    "rok": 2013,
    "elementy": 32,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32397,7 +32397,7 @@
    "rok": 2013,
    "elementy": 39,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32637,7 +32637,7 @@
    "rok": 2014,
    "elementy": 43,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32646,7 +32646,7 @@
    "rok": 2014,
    "elementy": 42,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32655,7 +32655,7 @@
    "rok": 2014,
    "elementy": 46,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32664,7 +32664,7 @@
    "rok": 2014,
    "elementy": 39,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32673,7 +32673,7 @@
    "rok": 2014,
    "elementy": 37,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32682,7 +32682,7 @@
    "rok": 2014,
    "elementy": 37,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32691,7 +32691,7 @@
    "rok": 2014,
    "elementy": 37,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32700,7 +32700,7 @@
    "rok": 2014,
    "elementy": 43,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -32709,7 +32709,7 @@
    "rok": 2014,
    "elementy": 47,
    "status": "eol",
-   "cena_katalogowa": 17.0,
+   "cena_katalogowa": 17,
    "cena_zrodlo": "RK"
   },
   {
@@ -35736,7 +35736,7 @@
    "rok": 2022,
    "elementy": 54,
    "status": "eol",
-   "cena_katalogowa": 12.0,
+   "cena_katalogowa": 12,
    "cena_zrodlo": "RK"
   },
   {
@@ -36935,7 +36935,7 @@
    "rok": 2025,
    "elementy": 92,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "42645",
@@ -36974,7 +36974,7 @@
    "rok": 2025,
    "elementy": 376,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "42650",
@@ -36982,7 +36982,7 @@
    "rok": 2025,
    "elementy": 375,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "42651",
@@ -37051,7 +37051,7 @@
    "rok": 2025,
    "elementy": 261,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "42662",
@@ -37083,7 +37083,7 @@
    "rok": 2025,
    "elementy": 66,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "42666",
@@ -37147,7 +37147,7 @@
    "rok": 2025,
    "elementy": 1005,
    "status": "eol",
-   "cena_katalogowa": 399.99
+   "cena_katalogowa": 379.99
   },
   {
    "numer": "562412",
@@ -37251,7 +37251,7 @@
    "rok": 2026,
    "elementy": 237,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "42679",
@@ -37267,7 +37267,7 @@
    "rok": 2026,
    "elementy": 176,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "42681",
@@ -37299,7 +37299,7 @@
    "rok": 2026,
    "elementy": 410,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "42686",
@@ -37355,7 +37355,7 @@
    "rok": 2026,
    "elementy": 107,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "42693",
@@ -37411,7 +37411,7 @@
    "rok": 2026,
    "elementy": 400,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "42700",
@@ -43524,7 +43524,7 @@
    "rok": 2019,
    "elementy": 6,
    "status": "dostepny",
-   "cena_katalogowa": 17.0
+   "cena_katalogowa": 17
   },
   {
    "numer": "30328",
@@ -44529,7 +44529,7 @@
    "rok": 2025,
    "elementy": 20,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10426",
@@ -44593,7 +44593,7 @@
    "rok": 2025,
    "elementy": 45,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10445",
@@ -44617,7 +44617,7 @@
    "rok": 2025,
    "elementy": 19,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10448",
@@ -44625,7 +44625,7 @@
    "rok": 2025,
    "elementy": 58,
    "status": "dostepny",
-   "cena_katalogowa": 149.99
+   "cena_katalogowa": 144.99
   },
   {
    "numer": "10449",
@@ -44657,7 +44657,7 @@
    "rok": 2025,
    "elementy": 32,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10453",
@@ -44665,7 +44665,7 @@
    "rok": 2025,
    "elementy": 53,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "10454",
@@ -44752,7 +44752,7 @@
    "rok": 2026,
    "elementy": 25,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10464",
@@ -44840,7 +44840,7 @@
    "rok": 2026,
    "elementy": 42,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10475",
@@ -44848,7 +44848,7 @@
    "rok": 2026,
    "elementy": 22,
    "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "10476",
@@ -48730,7 +48730,7 @@
    "rok": 2023,
    "elementy": 94,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "71781",
@@ -49480,7 +49480,7 @@
    "rok": 2025,
    "elementy": 92,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "71828",
@@ -49488,7 +49488,7 @@
    "rok": 2025,
    "elementy": 181,
    "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "71829",
@@ -49496,7 +49496,7 @@
    "rok": 2025,
    "elementy": 128,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "71830",
@@ -49568,7 +49568,7 @@
    "rok": 2025,
    "elementy": 213,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "71840",
@@ -49576,7 +49576,7 @@
    "rok": 2025,
    "elementy": 111,
    "status": "eol",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "71841",
@@ -49623,7 +49623,7 @@
    "rok": 2025,
    "elementy": 996,
    "status": "dostepny",
-   "cena_katalogowa": 529.99
+   "cena_katalogowa": 519.99
   },
   {
    "numer": "71847",
@@ -49631,7 +49631,7 @@
    "rok": 2025,
    "elementy": 1650,
    "status": "dostepny",
-   "cena_katalogowa": 669.99
+   "cena_katalogowa": 649.99
   },
   {
    "numer": "71848",
@@ -49781,7 +49781,7 @@
    "rok": 2026,
    "elementy": 49,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "71850",
@@ -49805,7 +49805,7 @@
    "rok": 2026,
    "elementy": 107,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "71854",
@@ -49829,7 +49829,7 @@
    "rok": 2026,
    "elementy": 387,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "71857",
@@ -50479,7 +50479,7 @@
    "rok": 2015,
    "elementy": 2996,
    "status": "eol",
-   "cena_katalogowa": 1400.0,
+   "cena_katalogowa": 1400,
    "cena_zrodlo": "RK"
   },
   {
@@ -52700,7 +52700,7 @@
    "rok": 2025,
    "elementy": 124,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "11199",
@@ -52716,7 +52716,7 @@
    "rok": 2025,
    "elementy": 143,
    "status": "dostepny",
-   "cena_katalogowa": 239.99
+   "cena_katalogowa": 234.99
   },
   {
    "numer": "242501",
@@ -52831,7 +52831,7 @@
    "rok": 2025,
    "elementy": 254,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "76310",
@@ -52886,7 +52886,7 @@
    "rok": 2025,
    "elementy": 427,
    "status": "dostepny",
-   "cena_katalogowa": 269.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "76317",
@@ -52910,7 +52910,7 @@
    "rok": 2025,
    "elementy": 204,
    "status": "dostepny",
-   "cena_katalogowa": 89.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "76321",
@@ -52950,7 +52950,7 @@
    "rok": 2025,
    "elementy": 1131,
    "status": "dostepny",
-   "cena_katalogowa": 539.99
+   "cena_katalogowa": 519.99
   },
   {
    "numer": "76326",
@@ -52982,7 +52982,7 @@
    "rok": 2026,
    "elementy": 61,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "11207",
@@ -53086,7 +53086,7 @@
    "rok": 2026,
    "elementy": 604,
    "status": "dostepny",
-   "cena_katalogowa": 259.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "76342",
@@ -53102,7 +53102,7 @@
    "rok": 2026,
    "elementy": 413,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "76344",
@@ -54971,7 +54971,7 @@
    "rok": 2024,
    "elementy": 433,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "40744",
@@ -55078,7 +55078,7 @@
    "rok": 2025,
    "elementy": 498,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "40811",
@@ -55086,7 +55086,7 @@
    "rok": 2025,
    "elementy": 231,
    "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "40812",
@@ -55110,7 +55110,7 @@
    "rok": 2025,
    "elementy": 219,
    "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "40816",
@@ -55118,7 +55118,7 @@
    "rok": 2025,
    "elementy": 386,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "40820",
@@ -55141,7 +55141,7 @@
    "rok": 2025,
    "elementy": 177,
    "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "40824",
@@ -55221,7 +55221,7 @@
    "rok": 2026,
    "elementy": 216,
    "status": "dostepny",
-   "cena_katalogowa": 62.99
+   "cena_katalogowa": 61.99
   },
   {
    "numer": "40864",
@@ -55251,7 +55251,7 @@
    "rok": 2026,
    "elementy": 345,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "40871",
@@ -55346,7 +55346,7 @@
    "rok": 2026,
    "elementy": 747,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "40958",
@@ -55369,7 +55369,7 @@
    "rok": 2026,
    "elementy": 1039,
    "status": "dostepny",
-   "cena_katalogowa": 359.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "80119",
@@ -55978,7 +55978,7 @@
    "rok": 2019,
    "elementy": 2925,
    "status": "eol",
-   "cena_katalogowa": 1500.0,
+   "cena_katalogowa": 1500,
    "cena_zrodlo": "RK"
   },
   {
@@ -56302,7 +56302,7 @@
    "rok": 2021,
    "elementy": 567,
    "status": "eol",
-   "cena_katalogowa": 174.99,
+   "cena_katalogowa": 169.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -56830,7 +56830,7 @@
    "rok": 2024,
    "elementy": 557,
    "status": "eol",
-   "cena_katalogowa": 174.99,
+   "cena_katalogowa": 169.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -57125,7 +57125,7 @@
    "rok": 2025,
    "elementy": 474,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "43267",
@@ -57157,7 +57157,7 @@
    "rok": 2025,
    "elementy": 529,
    "status": "dostepny",
-   "cena_katalogowa": 269.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "43271",
@@ -57165,7 +57165,7 @@
    "rok": 2025,
    "elementy": 268,
    "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "cena_katalogowa": 104.99
   },
   {
    "numer": "43272",
@@ -57249,7 +57249,7 @@
    "rok": 2026,
    "elementy": 216,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "43282",
@@ -57321,7 +57321,7 @@
    "rok": 2026,
    "elementy": 628,
    "status": "dostepny",
-   "cena_katalogowa": 259.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "43291",
@@ -57425,7 +57425,7 @@
    "rok": 2026,
    "elementy": 59,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "43304",
@@ -57738,7 +57738,7 @@
    "rok": 2017,
    "elementy": 2863,
    "status": "eol",
-   "cena_katalogowa": 1190.0,
+   "cena_katalogowa": 1190,
    "cena_zrodlo": "RK"
   },
   {
@@ -58732,7 +58732,7 @@
    "rok": 2025,
    "elementy": 99,
    "status": "dostepny",
-   "cena_katalogowa": 44.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "21267",
@@ -58748,7 +58748,7 @@
    "rok": 2025,
    "elementy": 238,
    "status": "dostepny",
-   "cena_katalogowa": 89.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "21269",
@@ -58756,7 +58756,7 @@
    "rok": 2025,
    "elementy": 247,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "21270",
@@ -58779,7 +58779,7 @@
    "rok": 2025,
    "elementy": 491,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "21273",
@@ -58795,7 +58795,7 @@
    "rok": 2025,
    "elementy": 238,
    "status": "dostepny",
-   "cena_katalogowa": 89.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "21275",
@@ -58835,7 +58835,7 @@
    "rok": 2025,
    "elementy": 867,
    "status": "dostepny",
-   "cena_katalogowa": 439.99
+   "cena_katalogowa": 419.99
   },
   {
    "numer": "21280",
@@ -59010,7 +59010,7 @@
    "rok": 2026,
    "elementy": 243,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "21587",
@@ -59961,7 +59961,7 @@
    "rok": 2024,
    "elementy": 210,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "71441",
@@ -59969,7 +59969,7 @@
    "rok": 2024,
    "elementy": 208,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "30702",
@@ -60025,7 +60025,7 @@
    "rok": 2025,
    "elementy": 390,
    "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "cena_katalogowa": 169.99
   },
   {
    "numer": "72036",
@@ -60033,7 +60033,7 @@
    "rok": 2025,
    "elementy": 823,
    "status": "dostepny",
-   "cena_katalogowa": 349.99
+   "cena_katalogowa": 339.99
   },
   {
    "numer": "72037",
@@ -60049,7 +60049,7 @@
    "rok": 2025,
    "elementy": 512,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "72039",
@@ -60057,7 +60057,7 @@
    "rok": 2025,
    "elementy": 1068,
    "status": "dostepny",
-   "cena_katalogowa": 449.99
+   "cena_katalogowa": 419.99
   },
   {
    "numer": "72040",
@@ -60358,7 +60358,7 @@
    "rok": 2019,
    "elementy": 3120,
    "status": "eol",
-   "cena_katalogowa": 1100.0,
+   "cena_katalogowa": 1100,
    "cena_zrodlo": "RK"
   },
   {
@@ -61007,7 +61007,7 @@
    "rok": 2025,
    "elementy": 468,
    "status": "dostepny",
-   "cena_katalogowa": 199.99
+   "cena_katalogowa": 189.99
   },
   {
    "numer": "76970",
@@ -61023,7 +61023,7 @@
    "rok": 2025,
    "elementy": 285,
    "status": "dostepny",
-   "cena_katalogowa": 149.99
+   "cena_katalogowa": 144.99
   },
   {
    "numer": "76973",
@@ -61039,7 +61039,7 @@
    "rok": 2025,
    "elementy": 858,
    "status": "dostepny",
-   "cena_katalogowa": 269.99
+   "cena_katalogowa": 249.99
   },
   {
    "numer": "76975",
@@ -61047,7 +61047,7 @@
    "rok": 2025,
    "elementy": 199,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "76976",
@@ -61191,7 +61191,7 @@
    "rok": 2015,
    "elementy": 484,
    "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "10697",
@@ -61385,7 +61385,7 @@
    "rok": 2018,
    "elementy": 213,
    "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "cena_katalogowa": 81.99
   },
   {
    "numer": "10714",
@@ -61807,7 +61807,7 @@
    "rok": 2025,
    "elementy": 150,
    "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "cena_katalogowa": 41.99
   },
   {
    "numer": "11040",
@@ -61823,7 +61823,7 @@
    "rok": 2025,
    "elementy": 450,
    "status": "dostepny",
-   "cena_katalogowa": 149.99
+   "cena_katalogowa": 144.99
   },
   {
    "numer": "11042",
@@ -61862,7 +61862,7 @@
    "rok": 2021,
    "elementy": 120,
    "status": "dostepny",
-   "cena_katalogowa": 64.99,
+   "cena_katalogowa": 61.99,
    "cena_zrodlo": "RK"
   },
   {
@@ -62060,7 +62060,7 @@
    "rok": 2026,
    "elementy": 435,
    "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "cena_katalogowa": 209.99
   },
   {
    "numer": "11511",
@@ -62546,7 +62546,7 @@
    "rok": 2026,
    "elementy": 320,
    "status": "dostepny",
-   "cena_katalogowa": 104.99
+   "cena_katalogowa": 124.99
   },
   {
    "numer": "72157",

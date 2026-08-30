@@ -21,6 +21,7 @@ const feed = czytaj('oferty_feed.json').sety ?? {};
 const cenyBaza = czytaj('ceny_baza.json');
 const katalog = czytaj('katalog.json');
 const redirects = czytaj('redirects.json');
+const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
 const sety = czytaj('sety.json');
 
 const rrpKatalogu = new Map();
@@ -28,8 +29,16 @@ for (const [seria, lista] of Object.entries(katalog)) {
   if (seria === '_meta') continue;
   for (const s of lista) rrpKatalogu.set(s.numer, s.cena_katalogowa ?? null);
 }
+// Pelny lancuch zrodel z cenaKatalogowaSetu() w src/lib/oferty.js — z rejestrem
+// potwierdzonym przez czlowieka na czele. Bez niego raport liczyl prog od ceny
+// z backfillu, a strona od ceny potwierdzonej: dla 244 setow w feedzie te dwie
+// kwoty sie roznia, wiec raport przestawal opisywac to, co robi serwis.
 const rrp = (nr) =>
-  sety[nr]?.cena_katalogowa ?? cenyBaza[nr]?.cena_katalogowa ?? rrpKatalogu.get(nr) ?? null;
+  rrpPotwierdzone[nr]?.cena ??
+  sety[nr]?.cena_katalogowa ??
+  cenyBaza[nr]?.cena_katalogowa ??
+  rrpKatalogu.get(nr) ??
+  null;
 
 // link do konkretnej aukcji, a nie do naszego /idz/ — chodzi o obejrzenie oferty
 const aukcja = (sklep, nr) => {
