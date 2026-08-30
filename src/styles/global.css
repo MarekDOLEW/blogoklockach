@@ -455,11 +455,15 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
   .tabela-setow .kol-foto { grid-area: foto; margin-bottom: 6px; }
   .set-mini, .set-mini-placeholder { width: 100%; height: auto; }
+  /* kwadrat, a nie 4:3 — zdjęcia zestawów mają bardzo różne proporcje
+     (BrickHeadz bywają pionowe 889×1080, panoramy poziome 1200×339)
+     i w kwadratowym kadrze `contain` mieści jedne i drugie bez pasa
+     pustki po bokach ani ścięcia pionowych figurek */
   .set-mini img {
-    width: 100%; height: auto; aspect-ratio: 4 / 3;
+    width: 100%; height: auto; aspect-ratio: 1 / 1;
     object-fit: contain; background: #fff; border-radius: 10px;
   }
-  .set-mini-placeholder { aspect-ratio: 4 / 3; border-radius: 10px; }
+  .set-mini-placeholder { aspect-ratio: 1 / 1; border-radius: 10px; }
   .set-mini:hover img { transform: none; box-shadow: none; }
 
   /* komórka opisu rozpada się na trzy osobne pozycje siatki */
