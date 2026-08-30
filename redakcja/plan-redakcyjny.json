@@ -9,7 +9,7 @@
       "odlozone": "wypadlo z planu; pole `powod` obowiazkowe"
     },
     "okno": "Przedzial, w ktorym tekst ma sie ukazac - nie konkretny dzien. Format 'YYYY-MM-DD..YYYY-MM-DD'. Swiadomie nie obiecujemy dat dziennych.",
-    "zaktualizowano": "2026-08-28"
+    "zaktualizowano": "2026-08-30"
   },
   "kotwice_sezonu": [
     {
@@ -42,9 +42,10 @@
     {
       "tytul": "Kalendarze adwentowe LEGO 2026: który wybrać i kiedy kupić",
       "dzial": "Rankingi",
-      "okno": "2026-09-01..2026-09-14",
-      "status": "planowane",
-      "dlaczego": "Pięć kalendarzy wchodzi we wrześniu, a kupuje się je na trzy miesiące przed otwarciem. To najwcześniejszy zakup całego sezonu i jedyny, przy którym listopad jest już za późno."
+      "okno": "2026-08-30..2026-08-30",
+      "status": "opublikowane",
+      "dlaczego": "Pięć kalendarzy wchodzi we wrześniu, a kupuje się je na trzy miesiące przed otwarciem. To najwcześniejszy zakup całego sezonu i jedyny, przy którym listopad jest już za późno.",
+      "url": "/artykuly/ranking-kalendarze-adwentowe-lego-2026/"
     },
     {
       "tytul": "Prezentownik LEGO według budżetu: do 100, do 300 i do 600 zł",
