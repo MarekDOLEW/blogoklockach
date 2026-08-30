@@ -31,8 +31,8 @@ Zmieniamy dokument w `redakcja/` i uruchamiamy eksport. Pozostałe skille w
 `.claude/skills/` są pisane ręcznie albo wendorowane z zewnątrz i edytuje się je
 na miejscu — eksport ich nie dotyka.
 
-`.claude/settings.json` wycisza w tym repo 15 skilli z konta niezwiązanych
-z klockami (KDP, XTB, angielski, matematyka, nieruchomości, faktury, gabinet) —
+`.claude/settings.json` wycisza w tym repo 14 skilli z konta niezwiązanych
+z klockami (KDP, XTB, angielski, nieruchomości, faktury, gabinet) —
 przez `skillOverrides: "off"`. W pozostałych projektach działają normalnie; to
 ustawienie obowiązuje wyłącznie tutaj. Powód nie jest oszczędnościowy: lista
 skilli ma budżet ~1% okna kontekstu, a po jego przekroczeniu opisy są ucinane
