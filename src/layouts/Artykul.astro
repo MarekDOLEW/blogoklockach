@@ -1,5 +1,6 @@
 ---
 import Base from './Base.astro';
+import { ogStrony, slugZeSciezki } from '../lib/og.js';
 const { frontmatter } = Astro.props;
 
 // Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
@@ -54,8 +55,12 @@ const faqJsonld = frontmatter.faq?.length
   : null;
 
 const jsonld = [artykulJsonld, okruszkiJsonld, ...(faqJsonld ? [faqJsonld] : [])];
+
+// Własny obraz OG artykułu/prezentownika; gdy go nie ma,
+// Base.astro schodzi na wspólny /og.png.
+const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={frontmatter.title} description={frontmatter.opis} jsonld={jsonld}>
+<Base title={frontmatter.title} description={frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny}>
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{frontmatter.kategoria}</span>

@@ -167,12 +167,17 @@ Reguły spójne ze standardem sprzedażowym, przeniesione na warstwę wizualną:
 
 ## Luki — do zrobienia
 
-1. **Wszystkie strony dzielą jeden `public/og.png`.** W całym `src/` jest
-   dokładnie jedno nadpisanie `ogImage`. Każdy artykuł, prezentownik i strona
-   zestawu wygląda w wyszukiwarce i przy udostępnieniu tak samo. To pierwsze
-   sensowne zadanie dla `canvas-design`: szablon OG z numerem i nazwą zestawu.
-2. **Artykuły nie mają grafik otwierających.** Jest tylko zdjęcie produktowe
-   z feedu, przez trasę `/img/<numer>.jpg`.
-3. **Tabele w tym dokumencie mogą się rozjechać z `global.css`.** Da się to
+1. **Sekcje serwisu dzielą jeden `public/og.png`.** Artykuły i prezentowniki
+   mają już własne obrazy (`scripts/generuj-og.py` → `public/og/<slug>.png`),
+   a strony zestawów zdjęcie produktowe. Na wspólnej domyślce zostają strony
+   sekcji: `/`, `/serie/`, `/nowosci/`, `/deale/`, `/wycofania/`, `/o-nas/`.
+   Ten sam szablon je obsłuży — brakuje tylko tytułów w jednym miejscu.
+2. **Obraz OG zestawu to zdjęcie produktowe, zwykle kwadratowe.** Sloty OG mają
+   proporcje 1,91:1, więc platformy je kadrują albo dodają pasy. Typograficzna
+   karta z numerem zestawu byłaby bezpieczniejsza — do rozważenia, ale to
+   zamiana działającego rozwiązania, nie łatanie dziury.
+3. **Artykuły nie mają grafik otwierających w treści.** Obraz OG rozwiązuje
+   udostępnianie, nie samą stronę.
+4. **Tabele w tym dokumencie mogą się rozjechać z `global.css`.** Da się to
    zabezpieczyć skryptem `--sprawdz`, który porówna hexy z blokiem `:root` —
    na wzór `eksport-skilli.mjs`. Na razie kontrola jest ręczna.

@@ -1,5 +1,6 @@
 ---
 import Base from './Base.astro';
+import { ogStrony, slugZeSciezki } from '../lib/og.js';
 
 // Layout prezentowników serii (strony .astro, bo treść jest sterowana danymi
 // z katalogu i cen — nie da się jej sensownie utrzymać w markdownie).
@@ -58,8 +59,12 @@ const faqJsonld = faq.length
   : null;
 
 const jsonld = [artykulJsonld, okruszkiJsonld, ...(listaJsonld ? [listaJsonld] : []), ...(faqJsonld ? [faqJsonld] : [])];
+
+// Własny obraz OG artykułu/prezentownika; gdy go nie ma,
+// Base.astro schodzi na wspólny /og.png.
+const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={title} description={opis} jsonld={jsonld}>
+<Base title={title} description={opis} jsonld={jsonld} ogImage={ogWlasny}>
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{kategoria}</span>
