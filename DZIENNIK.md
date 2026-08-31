@@ -24,6 +24,46 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 15:30 · CODE · Zrzut harmonogramu odtworzony + korekty w RUNBOOK
+
+**Zrobione:**
+- **`materialy/zadania-cykliczne.md` przepisany na zrzut** ze świeżego odczytu
+  `list_triggers` + `list_sessions` (31.08, 15:25). Wymagane przez `NARZEDZIA.md`
+  kolumny są: cron, **enabled**, ostatnie odpalenie. Odczyt objął 11 Routines
+  na koncie — pełna lista, bez paginacji.
+- Dołożona druga tabela: Routines spoza projektu (Angielski, Herzfaden,
+  inwestycja). Nie dotyczą serwisu, ale **dzielą ten sam limit konta**, a to on
+  wywrócił harmonogram 21.08. Widać z niej, że poniedziałek 07:00-09:30 to pięć
+  zadań naraz — pierwsze miejsce do rozsunięcia przy kolejnym uderzeniu w limit.
+- **`RUNBOOK.md`**: pięć wystąpień „Łowca 07:00" w mapie plików → 08:30;
+  „Backfill 12:00" → wyłączony od 29.08; usługa GSC poprawiona na domenową.
+- **`RUNBOOK.md`, sekcja Media Expert**: przepisana. Mówiła, że przebieg o 07:00
+  łapie wczorajszy feed — to już nieprawda, bo po to Łowca poszedł na 08:30.
+  Dopisane dwie pułapki: zmiana czasu 25.10 cofnie przebieg na 07:30 i problem
+  wróci, oraz że nazwa Routine musi iść za cronem.
+- **`RUNBOOK.md`, nowa sekcja „Sitemapy i Search Console"**: dwie sitemapy i po
+  co obie, pułapka usługi domenowej w GSC, oraz że karta w `karty_setow.json`
+  nie gwarantuje podstrony.
+
+**Stan:** gotowe
+
+**Dla drugiej strony:** nic — runnery i infrastruktura należą do Claude Code.
+
+**Uwagi:**
+- **Kontroler działa.** Przebieg 31.08 09:11, status `SUCCEEDED`. To zamyka wątek
+  z 30.08, gdy ostatni odczyt pochodził z 17.08 i wyglądało to na cichą awarię.
+- **Korekta mojej wczorajszej notatki:** `last_fired_at` zwracają WSZYSTKIE
+  triggery, także te przypięte do trwałej sesji. Pełny `last_run` ze statusem
+  tylko te tworzące świeżą sesję. Wczoraj napisałem, że runnery nie zwracają nic
+  i zastępowałem to `updated_at` sesji — niepotrzebnie, dane są dokładniejsze.
+- **Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) zniknął z konta**
+  między 30 a 31.08. Był wyłączony od 15.08, więc nic nie przestało działać.
+  Nie odtwarzać — drugi przebieg Radara wycofano świadomie 21.08.
+- **Zostaje otwarte: 32 karty bez podstrony.** `karty_setow.json` ma 445 wpisów,
+  `/zestaw/<nr>/` powstaje dla 413. Brakujące nie są w `katalog.json`, więc
+  `huby.js` ich nie generuje mimo cen i linków. Teksty leżą w repo niewidoczne.
+  Naprawa opisana w RUNBOOK, sekcja „Sitemapy i Search Console".
+
 ## 2026-08-31 08:10 · CODE · Typografia: pauza → półpauza w całym serwisie; H2 kart bez „— opis"
 
 **Zrobione (decyzja Marka):**

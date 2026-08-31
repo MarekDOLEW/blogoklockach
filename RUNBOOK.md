@@ -50,13 +50,13 @@ Kolumna „kto zapisuje" odzwierciedla realną konfigurację triggerów
 
 | Plik w `src/data/` | Kto zapisuje | Co zasila na stronie |
 |---|---|---|
-| `sety.json` | Scout 05:00 (nowe sety) + Łowca 07:00 (ceny, oferty, zdjęcia) | `/nowosci/`, podstrony `/zestaw/{nr}/`, sekcja „Śledzone" na stronach serii |
+| `sety.json` | Scout 05:00 (nowe sety) + Łowca 08:30 (ceny, oferty, zdjęcia) | `/nowosci/`, podstrony `/zestaw/{nr}/`, sekcja „Śledzone" na stronach serii |
 | `wycofania.json` | Wycofania 06:00 | `/wycofania/` — lista, filtr, FAQ |
-| `katalog.json` | Backfill 12:00 (pole `cena_katalogowa`) + sesje ad hoc (dokładanie serii) | katalogi historyczne na `/serie/{seria}/` + kafelki na `/serie/` |
-| `redirects.json` | Łowca 07:00 (linki z feedu) + sesje ad hoc | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków sklepowych |
-| `sklepy.json` | Łowca 07:00 (nowe sklepy) | nazwy sklepów w tabelach cen |
-| `oferty_feed.json` | Łowca 07:00 | ceny i oferty w tabelach na podstronach zestawów |
-| `ceny_baza.json` | Łowca 07:00 | historia cen, drabina cenowa |
+| `katalog.json` | Scout 05:00 (nazwy, roczniki) + Backfill (pole `cena_katalogowa`, **wyłączony od 29.08**) + sesje ad hoc (dokładanie serii) | katalogi historyczne na `/serie/{seria}/` + kafelki na `/serie/` |
+| `redirects.json` | Łowca 08:30 (linki z feedu) + sesje ad hoc | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków sklepowych |
+| `sklepy.json` | Łowca 08:30 (nowe sklepy) | nazwy sklepów w tabelach cen |
+| `oferty_feed.json` | Łowca 08:30 | ceny i oferty w tabelach na podstronach zestawów |
+| `ceny_baza.json` | Łowca 08:30 | historia cen, drabina cenowa |
 | `known_sets.json` | Scout 05:00 | nic — stan runnera, nie zasila strony |
 | `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera, nie zasila strony |
 | `obrazy.json` | `scripts/generuj-obrazy.mjs` w prebuild | zdjęcia zestawów |
@@ -70,16 +70,26 @@ za martwe i skasuje.
 
 ---
 
-## Media Expert *(ustalone 18.08.2026)*
+## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*
 
 **Feed aktualizuje się 2× na dobę, ale z opóźnieniem uploadu.** Stemple
 `<updated>` to 00:30 i 18:30 CEST, jednak plik ląduje na
 `storage.googleapis.com` około **7 godzin później** — nocny ok. 07:40,
 wieczorny w środku nocy.
 
-Praktyczny skutek: przebieg Łowcy o 07:00 zawsze dostaje **wczorajszą wieczorną
-wersję**. Świeżej nocnej nie zobaczy. Przy planowaniu zmian godzin trzeba to
-uwzględnić, inaczej „poprawka" nic nie da.
+Praktyczny skutek: **każdy przebieg Łowcy przed ~07:40 dostaje wczorajszą
+wieczorną wersję.** Dlatego od 31.08 Łowca chodzi o **08:30** — to najwcześniejsza
+sensowna godzina z zapasem na opóźnienie uploadu.
+
+To ograniczenie rządzi godziną Łowcy i żadna zmiana harmonogramu nie może go
+pominąć. Dwie pułapki na przyszłość:
+
+- **Zmiana czasu 25.10.2026.** Crony są w UTC, więc po przejściu na CET przebieg
+  wypadnie o 07:30 i znowu zacznie łapać wczorajszy feed. Trzeba go wtedy
+  przesunąć razem ze zmianą czasu.
+- **Nazwa Routine musi iść za cronem.** 30.08 Łowca nazywał się „07:00",
+  chodząc faktycznie o 08:00; próba „naprawy" na 07:00 pogorszyła sprawę,
+  bo trafiała przed upload feedu.
 
 **Stron produktowych ME nie da się weryfikować punktowo z sesji.** curl
 i WebFetch dostają HTTP 403, prawdziwa przeglądarka (Chromium) — reset
@@ -116,7 +126,7 @@ Raporty Łowcy pokazują czołówkę osobno dla każdej półki.
 | Build / deploy | Cloudflare → Workers & Pages → `blogoklockach` → *Deployments / Build history*. Czerwony build = strona zamrożona na ostatniej zielonej wersji; logi pod „View build" |
 | Ruch na stronie | Cloudflare → Analytics & Logs → Web Analytics |
 | Kliknięcia afiliacyjne | panel webePartners (autorytatywny). Worker też je liczy, ale dopiero po włączeniu Analytics Engine — wymaga planu Workers Paid |
-| Widoczność w Google | Search Console, usługa `https://tylkoklocki.pl/` |
+| Widoczność w Google | Search Console, usługa **domenowa** `sc-domain:tylkoklocki.pl` |
 | Runner „nie działa" | najpierw sprawdź flagę `enabled` w Routines, dopiero potem logi. Wyłączony runner nie zgłasza błędu |
 
 ### Rollback
@@ -655,3 +665,42 @@ Linki idą przez szablon `szukaj` (worker `/idz/empik/<nr>`). Ostatni
 zrzut: 31.08.2026 (5376 pozycji → 5027 po filtrach → 4426 wierszy).
 Smyk i lego.pl wciąż na jednorazowych zrzutach z 29.08 — cykliczne
 odświeżanie do ustalenia.
+
+---
+
+## Sitemapy i Search Console *(ustalone 31.08.2026)*
+
+Serwis ma **dwie sitemapy i obie mają zostać**:
+
+| Adres | Co zgłasza | Skąd |
+|---|---|---|
+| `/sitemap-index.xml` | cały serwis (~1 200 adresów) | `@astrojs/sitemap` z filtrem `doSitemapy` w `astro.config.mjs` |
+| `/sitemap-priorytet.xml` | 498 adresów: strona główna, kategorie, teksty, zestawy z kartami | `src/pages/sitemap-priorytet.xml.js` |
+
+Sens rozdzielenia: przy ~1 200 adresach, w większości hubów cenowych złożonych
+z danych, nie da się w GSC odróżnić „Google nie indeksuje kart Piotra" od
+„Google nie indeksuje hubów cenowych". Osobna sitemapa daje osobny licznik.
+Obie generują się przy buildzie i nie wymagają utrzymania.
+
+**Usługa w GSC jest domenowa (`sc-domain:tylkoklocki.pl`).** Praktyczny skutek:
+w polu „Dodaj nową mapę witryny" trzeba wpisać **pełny adres**
+(`https://tylkoklocki.pl/sitemap-priorytet.xml`), a nie samą nazwę pliku.
+Usługa domenowa obejmuje wiele protokołów i subdomen, więc GSC nie dokleja
+prefiksu i odrzuca samą ścieżkę komunikatem „Nieprawidłowy adres mapy witryny".
+Doklejanie prefiksu działa tylko w usługach typu „prefiks URL".
+
+**Sitemapa nie powoduje indeksacji, tylko wykrycie.** Diagnoza z 24.08: adresy
+były znane Google'owi ze statusem „wykryta, obecnie niezindeksowana" i datą
+crawla NIGDY — czyli wykrycie już nastąpiło, a robot świadomie nie wchodził.
+Ponowne zgłoszenie listy tego samo nie odwróci; zmienia to jakość treści
+i linkowanie wewnętrzne.
+
+**Pułapka przy zgłaszaniu zestawów: karta ≠ podstrona.** `karty_setow.json`
+ma 445 wpisów, ale `/zestaw/<nr>/` powstaje tylko dla numerów ze zbioru
+`numeryHubow` (`src/lib/huby.js`), który wymaga wpisu w `katalog.json`.
+Na 31.08 **32 karty nie mają podstrony** — mają ceny i linki afiliacyjne, ale
+nie ma ich w katalogu. Dlatego `sitemap-priorytet.xml.js` filtruje zestawy
+przez `maHub`; bez tego zgłaszałaby 32 adresy zwracające 404. Do naprawy
+u źródła: dopuścić kartę jako podstawę huba w `huby.js` i dodać `karta.nazwa`
+do łańcucha fallbacków nazwy w `[nr].astro` (dziś nazwa leci wyłącznie
+z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
