@@ -7542,13 +7542,13 @@
     "data": "2026-08-31"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
+    "sklep": "planetaklockow",
+    "cena": 409.99,
     "data": "2026-08-31"
    },
    {
-    "sklep": "planetaklockow",
-    "cena": 409.99,
+    "sklep": "mediaexpert",
+    "cena": 449.99,
     "data": "2026-08-31"
    }
   ]
@@ -8278,13 +8278,13 @@
     "data": "2026-08-31"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 400.24,
+    "sklep": "planetaklockow",
+    "cena": 549.99,
     "data": "2026-08-31"
    },
    {
-    "sklep": "planetaklockow",
-    "cena": 549.99,
+    "sklep": "mediaexpert",
+    "cena": 569.99,
     "data": "2026-08-31"
    }
   ],

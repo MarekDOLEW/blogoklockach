@@ -4,7 +4,7 @@
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
   "zaktualizowano": "2026-08-31",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-08-30 18:30 CEST, NIE z dzisiaj - runner 07:14 przed uploadem ~07:40) + PK + Allegro; weryfikacja PK rotacyjna: 6 stron, 0 rozbieznosci, dostepne 43245/72042, 4 nowe niedostepne; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-08-31 00:30 CEST, swiezy nocny feed - drugi przebieg po zmianie harmonogramu) + PK + Allegro; weryfikacja PK rotacyjna z przebiegu porannego (page_price 43245/72042); zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
