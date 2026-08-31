@@ -28,8 +28,10 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
 **Zrobione:**
 - `karty_setow.json`: **127 nowych kart** przez `scripts/import-karty.py`
-  (pierwszy bojowy przebieg skryptu): NINJAGO 34, Friends 33, Disney 25,
-  Editions 21, Marvel 14. Rejestr: 166 → 293. Build 4959 stron zielony.
+  (pierwszy bojowy przebieg skryptu): NINJAGO 23, Friends 30, Disney 28,
+  Editions 21, Marvel 25. Rejestr: 166 → 293. (Rozkład per seria poprawiony
+  po sprawdzeniu — pierwotny wpis i opis commita d10ff5f podawały błędne
+  liczby; suma 127 była dobra.) Build 4959 stron zielony.
 - Bramka RRP zadziałała: zablokowała 43306 (Piotr 249,99 vs nasze 169,99 —
   rejestr lego.pl + rynek 173–220 zł potwierdzają nasze) i 43307 (Piotr
   299,99 vs katalog 249,99 — drabina 59,99 € = 249,99 zł). Obie karty
