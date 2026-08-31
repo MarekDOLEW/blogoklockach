@@ -24,6 +24,30 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 07:10 · CODE · Trzecia paczka kart P07: Seasonal-2, Jurassic World, Ideas, Icons, Botanicals
+
+**Zrobione:**
+- `karty_setow.json`: **46 nowych kart** przez `scripts/import-karty.py`
+  (61 DOCX, z czego 15 to duplikaty Seasonal z paczki pierwszej — skrypt
+  je pominął). Rejestr: 293 → 339; 328 stron z kartą na żywo.
+- Bramka RRP: blokada 11371 (Icons Shopping Street) — Piotr 1079,99 vs
+  nasze 1099,99. Kalibracja drabiną rozstrzygnęła NA KORZYŚĆ PIOTRA:
+  wszystkie 5 potwierdzonych setów z RRP 249,99 € (42177, 71814, 71837,
+  76454, 76473) ma polską cenę 1079,99. Poprawione `sety.json`
+  i `ceny_baza.json` (błąd Scouta); do rejestru potwierdzonego nie wpisuję
+  (kalibracja to poszlaka, nie odczyt u źródła) — potwierdzi się przy
+  następnym zaciągu lego.pl.
+- 21369 The X-Files: Piotr „regularna" vs Brickset LEGO exclusive i nasz
+  własny opis — metryka i FAQ o RRP podmienione na wariant ekskluzywny.
+
+**Stan:** gotowe, wypchnięte. Build 4959 stron zielony.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** technika kalibracji drabiny (rejestr potwierdzony × RRP EUR
+z Bricksetu) rozstrzyga spory o polską cenę bez dostępu do lego.pl —
+warta zapamiętania przy kolejnych blokadach RRP.
+
 ## 2026-08-31 07:00 · CODE · Druga paczka kart P07: 5 serii, 127 zestawów
 
 **Zrobione:**
