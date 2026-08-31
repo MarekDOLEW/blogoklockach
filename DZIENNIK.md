@@ -24,6 +24,30 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 07:00 · CODE · Druga paczka kart P07: 5 serii, 127 zestawów
+
+**Zrobione:**
+- `karty_setow.json`: **127 nowych kart** przez `scripts/import-karty.py`
+  (pierwszy bojowy przebieg skryptu): NINJAGO 34, Friends 33, Disney 25,
+  Editions 21, Marvel 14. Rejestr: 166 → 293. Build 4959 stron zielony.
+- Bramka RRP zadziałała: zablokowała 43306 (Piotr 249,99 vs nasze 169,99 —
+  rejestr lego.pl + rynek 173–220 zł potwierdzają nasze) i 43307 (Piotr
+  299,99 vs katalog 249,99 — drabina 59,99 € = 249,99 zł). Obie karty
+  wgrane nakładką z poprawionym RRP w metryce, FAQ i przeliczniku
+  za element. 43307 do potwierdzenia przy następnym zaciągu lego.pl.
+- `sety.json`: −ekskluzyw 76345 (Brickset: Retail, Piotr: regularna — 2:1).
+- 11 setów Disney (43011–43033: piłkarze „momenty", logo FIFA itp.) nie ma
+  huba `/zestaw/` — brak ofert i ceny w feedach. Karty siedzą w danych
+  i pojawią się same, gdy set dostanie pierwszą ofertę.
+
+**Stan:** gotowe, wypchnięte.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** nasza kanoniczna nazwa 43301 „Toy Story **Cienki** — podpórki pod
+książki" wygląda na błąd zaciągu (postać w polskim dubbingu to Chudy; Piotr
+też pisze Chudy) — do sprawdzenia na LEGO.com jak 40881.
+
 ## 2026-08-31 06:50 · CODE · Korekta starych kart + skrypt importu na kolejne paczki
 
 **Zrobione:**
