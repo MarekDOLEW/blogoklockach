@@ -612,6 +612,33 @@ wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
 dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
 do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
 
+## Karty zestawów — import paczek Piotra *(ustalone 31.08.2026)*
+
+Opisy DOCX od Piotra (zip per seria) wchodzą do `karty_setow.json` **wyłącznie
+przez** `python3 scripts/import-karty.py <zipy/katalogi> --sucho`, a po
+przejrzeniu raportu — bez `--sucho`. Nigdy Node'em: klucze numeryczne +
+wcięcie 1 bez końcowego `\n` (patrz „Stabilność formatu plików JSON").
+
+Co robi skrypt: parsuje strukturę Opis→Metryka→FAQ, zamienia placeholdery
+`[… – link wewnętrzny]` na `#ceny`/`/serie/<slug>/`, domyka znane zgrzyty
+szablonu mail-merge (pola w dopełniaczu po „są/tworzą" — decyzja Marka
+31.08: poprawiamy minimalnie, każda korekta w logu), dopisuje akapity
+redakcyjne wg progu (501–1200 el.: +1, 1201+: +2) liczone z katalog.json
+i pilnuje bramek: **rozjazd RRP blokuje kartę**, rozjazdy elementów /
+premiery / dystrybucji tylko raportuje.
+
+Rozjazdy rozstrzyga się **przed** importem u źródła: Brickset przez curl
+(`https://brickset.com/sets/<nr>-1`, pola Launch/exit, Availability,
+Pieces — parsować `<dt>…</dt><dd>`). Przy paczce P07 arbitraż wykazał
+błędy po OBU stronach (nasze brakujące flagi ekskluzywu i złe premiery
+vs elementy/dystrybucja u Piotra) — nie zakładać z góry, kto ma rację.
+
+Nazwa w karcie i metryce jest zawsze kanoniczna (repo); tekst akapitów
+Piotra zostaje. Sekcję „Metryka zestawu" renderuje `[nr].astro` między
+opisem a FAQ — pole `metryka` musi być mapą klucz→wartość.
+
+---
+
 ## Ceny Empik (od 29.08.2026, cotygodniowo od 31.08.2026)
 
 `oferty_feed.json` ma klucz `empik` — ~4400 setów ze zrzutu katalogu

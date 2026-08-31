@@ -24,6 +24,29 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 06:50 · CODE · Korekta starych kart + skrypt importu na kolejne paczki
+
+**Zrobione:**
+- `karty_setow.json`: 47 odpowiedzi FAQ w kartach City/Technic/Star Wars
+  z pierwszej partii domknięte tą samą korektą co P07 („Najbardziej
+  naturalnym kierunkiem są większych samochodów…" → „…jest dokupienie…").
+  Stare paczki miały tylko ten jeden wadliwy wzorzec; frazy odbiorcy
+  i „Obsadę tworzą" doszły dopiero w P07. Build 4959 stron zielony.
+- **`scripts/import-karty.py`** — od teraz jedna ścieżka importu paczek
+  Piotra: parsowanie DOCX, bramka RRP (rozjazd blokuje), raport rozbieżności
+  elementów/premier/dystrybucji, placeholdery→linki, korekty szablonu
+  (z logiem każdej), akapity redakcyjne wg progu, zapis w stabilnym
+  formacie. Tryb `--sucho` = sam raport. Procedura opisana w RUNBOOK
+  („Karty zestawów — import paczek Piotra").
+- Test: przebieg na paczce P07 --sucho → 77× „karta już istnieje", zero
+  fałszywych blokad; transformacje bajt w bajt zgodne z wgranym P07.
+
+**Stan:** gotowe. Następne zipy: `python3 scripts/import-karty.py <zipy>
+--sucho`, przejrzeć raport, rozstrzygnąć rozjazdy Bricksetem, puścić bez
+--sucho, build, commit.
+
+**Dla drugiej strony:** nic.
+
 ## 2026-08-31 06:40 · CODE · Karty Piotra: 5 serii (77 zestawów) + metryka zestawu na stronie
 
 **Zrobione:**
