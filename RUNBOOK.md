@@ -612,14 +612,19 @@ wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
 dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
 do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
 
-## Ceny Empik (od 29.08.2026)
+## Ceny Empik (od 29.08.2026, cotygodniowo od 31.08.2026)
 
-`oferty_feed.json` ma klucz `empik` — 4290 setów z jednorazowego zrzutu
-katalogu empik.com (29.08.2026, sesja z lokalnym Chrome; Empik blokuje ruch
-serwerowy, więc Łowca NIE odświeża tych cen). Filtry przy imporcie: bez
-gadżetów po nazwie, numer 4–7 cyfr bez zera wiodącego, cena ≥40% RRP,
-tylko sety już obecne w oferty_feed. Linki idą przez szablon `szukaj`
-(worker `/idz/empik/<nr>`). Ceny starzeją się do czasu kolejnego zrzutu —
-odświeżanie cykliczne (np. cotygodniowe) do ustalenia z Markiem; źródłowe
-pliki zrzutów: sesja „porównywarka" (lego-pl-katalog-pelny, lego-smyk,
-lego-empik).
+`oferty_feed.json` ma klucz `empik` — ~4400 setów ze zrzutu katalogu
+empik.com. Zrzut robi **cotygodniowe zadanie cykliczne Coworka** (rytm
+poniedziałkowy, skill `klocki-ceny-empik`, lokalna przeglądarka — Empik
+blokuje ruch serwerowy, więc Łowca sam NIE odświeża tych cen); plik
+`lego-empik.json` ląduje w czacie sesji Łowcy, a **import robi Łowca**.
+Filtry przy imporcie: bez gadżetów po nazwie, numer 4–7 cyfr bez zera
+wiodącego, cena ≥40% RRP, konflikt numeru z nazwy rozstrzygany po znanym
+uniwersum numerów (od 31.08 — łapie setNumber wzięty z liczby elementów
+„1016el" i modeli aut „BMW M 1000"), tylko sety już obecne w oferty_feed.
+Sety nieobecne w świeżym zrzucie tracą cenę Empiku (świeżość nadrzędna).
+Linki idą przez szablon `szukaj` (worker `/idz/empik/<nr>`). Ostatni
+zrzut: 31.08.2026 (5376 pozycji → 5027 po filtrach → 4426 wierszy).
+Smyk i lego.pl wciąż na jednorazowych zrzutach z 29.08 — cykliczne
+odświeżanie do ustalenia.

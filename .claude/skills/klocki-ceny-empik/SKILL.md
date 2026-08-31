@@ -14,32 +14,43 @@ więc jedyną drogą jest **lokalna przeglądarka użytkownika** sterowana z
 Coworka. Bez cyklicznego odświeżania ceny w serwisie starzeją się i wiersz
 Empiku trzeba by wyłączyć — rytm docelowy to **raz w tygodniu**.
 
-Pierwszy zrzut (29.08.2026): 330 stron katalogu, 9 020 ofert, 4 976
-unikalnych numerów, mediana ~220 zł. To są liczby odniesienia do kontroli
-jakości kolejnych przebiegów.
+Liczby odniesienia do kontroli jakości (zrzut 31.08.2026): ~200 stron
+katalogu po ~60 pozycji, 8 404 oferty, 5 376 unikalnych numerów,
+mediana ~220 zł.
 
 ## Procedura
 
 1. **Wejdź przez lokalną przeglądarkę użytkownika** (narzędzie sterowania
    Chrome). Katalog: wyszukiwarka Empiku dla frazy „LEGO" zawężona do
    kategorii klocków (`https://www.empik.com/szukaj/produkt?q=lego` +
-   filtr kategorii Zabawki → Klocki), sortowanie domyślne, paginacja do
-   ostatniej strony (~330 stron po ~30 ofert). Nie loguj się, nie dodawaj
-   niczego do koszyka.
+   filtr kategorii Zabawki → Klocki), paginacja do ostatniej strony
+   (~200 stron po ~60 pozycji). Nie loguj się, nie dodawaj niczego
+   do koszyka.
+
+   **UWAGA — sortowanie domyślne się zapętla**: po ~4 000 setów kolejne
+   strony zaczynają powtarzać te same produkty i pełnego katalogu nie
+   widać. Przejdź katalog **dwa razy: z `sort=priceAsc` i z
+   `sort=priceDesc`**, a wyniki połącz po numerze setu — dopiero suma obu
+   przebiegów pokrywa całość (ustalenie z przebiegu 31.08.2026).
 
 2. **Z każdej karty produktu na listingu zbierz:**
    - pełną nazwę produktu,
    - najtańszą aktualną cenę oferty,
    - „cenę regularną" (omnibus) — tylko gdy produkt jest oznaczony jako
      promocja,
-   - liczbę sprzedawców („X ofert"), gdy widoczna.
-   Nie wchodź w podstrony produktów — wszystko jest na listingu, a 330
-   dodatkowych wejść niepotrzebnie obciąża przeglądarkę użytkownika.
+   - do pola `offers` — liczbę **różnych wariantów oferty** znalezionych
+     dla danego numeru (Empik nie pokazuje już na listingu etykiety
+     „X ofert", więc to przybliżenie, nie licznik sprzedawców).
+   Nie wchodź w podstrony produktów — wszystko jest na listingu, a setki
+   dodatkowych wejść niepotrzebnie obciążają przeglądarkę użytkownika.
 
 3. **Numer setu**: pierwszy ciąg 4–7 cyfr z nazwy produktu, z pominięciem
    lat (1900–2099) i liczb, po których następuje „elementów/elementy/el./szt."
-   Bez numeru → pomiń pozycję (typowo ~7% ofert; głównie akcesoria).
-   Duplikaty numeru → zostaw **najniższą** cenę, zsumuj liczbę ofert.
+   Numery z **zerem wiodącym odrzucaj** (np. `0002198` z listingów
+   magazynów — LEGO nie ma takich numerów; bez tego filtra wchodzi
+   ~100 śmieciowych pozycji). Bez numeru → pomiń pozycję (typowo ~7%
+   ofert; głównie akcesoria). Duplikaty numeru → zostaw **najniższą**
+   cenę, zsumuj liczbę wariantów w `offers`.
 
 4. **Zapisz `lego-empik.json`** dokładnie w tym schemacie (import Łowcy
    na nim polega — nie zmieniaj nazw pól):
@@ -63,7 +74,7 @@ jakości kolejnych przebiegów.
    `priceRegular` tylko przy promocji; pozostałe pola zawsze.
 
 5. **Kontrola jakości przed oddaniem pliku** — wszystkie cztery muszą przejść:
-   - liczba produktów w przedziale **4 000–6 500** (odniesienie: 4 976),
+   - liczba produktów w przedziale **4 000–6 500** (odniesienie: 5 376),
    - mediana ceny w przedziale **150–300 zł** (odniesienie: ~220 zł),
    - zero cen ≤ 0 i zero cen > 20 000 zł,
    - udział pozycji odrzuconych z braku numeru poniżej **15%**.
