@@ -670,7 +670,7 @@
   "cena_katalogowa": 169.99,
   "elementy": 601,
   "wiek": "10+",
-  "premiera": "2026-08",
+  "premiera": "2026-06",
   "opis": "Paczka figurek BrickHeadz z bohaterami Krainy Czarów — od Alicji po Szalonego Kapelusznika. Kanciasta stylistyka serii zaskakująco dobrze pasuje do surrealistycznego świata Carrolla.",
   "dla_rodzica": "Prosta, przyjemna budowa od 10 lat wzwyż, choć figurki służą głównie do postawienia na półce, nie do zabawy.",
   "dla_afol": "Wielopaki BrickHeadz z klasycznych bajek szybko znikają z oferty — kompletując serię Disneya, lepiej nie zwlekać.",
@@ -685,7 +685,8 @@
     "cena": 196.96,
     "data": "2026-08-31"
    }
-  ]
+  ],
+  "ekskluzyw": true
  },
  "72150": {
   "nazwa": "Munchlax",
@@ -795,7 +796,8 @@
     "cena": 54.99,
     "data": "2026-08-13"
    }
-  ]
+  ],
+  "ekskluzyw": true
  },
  "72423": {
   "nazwa": "Shrek, Osioł i Kot w butach",
@@ -1075,7 +1077,8 @@
     "cena": 180.0,
     "data": "2026-08-31"
    }
-  ]
+  ],
+  "ekskluzyw": true
  },
  "76354": {
   "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
@@ -1693,7 +1696,7 @@
   "cena_katalogowa": 169.99,
   "elementy": 528,
   "wiek": "10+",
-  "premiera": "2026-08",
+  "premiera": "2026-06",
   "opis": "Komplet figurek BrickHeadz z bohaterami Toy Story, z Chudym i Buzzem na czele. Zestaw wpisuje się w powrót marki na ekrany przy okazji nowego filmu.",
   "dla_rodzica": "Przyjemna, etapowa budowa dla dziecka 10+, które właśnie obejrzało nową część przygód zabawek.",
   "dla_afol": "Pixarowskie BrickHeadz w wielopaku to łakomy kąsek dla kolekcjonerów serii — pojedyncze figurki z bajek Disneya drożeją po wycofaniu.",
@@ -1708,7 +1711,8 @@
     "cena": 189.89,
     "data": "2026-08-31"
    }
-  ]
+  ],
+  "ekskluzyw": true
  },
  "42234": {
   "nazwa": "Samochód sportowy Dodge Viper GTS-R",
@@ -2307,7 +2311,6 @@
   "elementy": 259,
   "wiek": "10+",
   "premiera": "2026-06",
-  "ekskluzyw": true,
   "opis": "Trójpak BrickHeadz z bohaterami Shreka: zielonym ogrem, Osłem i Ciastkiem. Każda figurka ma przerysowane, kwadratowe proporcje typowe dla tej serii i własną podstawkę.",
   "dla_rodzica": "Krótka, przyjemna budowa i postacie, które rozpozna każde dziecko — dobry prezent bez ryzyka.",
   "dla_afol": "Licencja DreamWorks w BrickHeadz pojawia się rzadko, a zestawy z tej linii szybko przechodzą do historii katalogu.",
@@ -2762,7 +2765,7 @@
   "elementy": 2164,
   "wiek": "10+",
   "premiera": "2026-06",
-  "opis": "Wschodnie skrzydło Hogwartu z biblioteką, działem ksiąg zakazanych i wejściem do Komnaty Tajemnic, budowane z ponad 2100 elementów. Aż trzynaście minifigurek zaludnia zamkowe korytarze.",
+  "opis": "Wschodnie skrzydło Hogwartu z biblioteką, działem ksiąg zakazanych i wejściem do Komnaty Tajemnic, budowane z 2164 elementów. Aż trzynaście minifigurek zaludnia zamkowe korytarze.",
   "dla_rodzica": "Poważna inwestycja, ale w zamian dziecko dostaje rozbudowywalny zamek na lata, a nie pojedynczą scenkę.",
   "dla_afol": "Kolejny moduł składanego Hogwartu — kto buduje cały zamek, nie ma tu żadnego wyboru poza zakupem.",
   "oferty": [
@@ -4588,7 +4591,8 @@
     "cena": 109.69,
     "data": "2026-08-31"
    }
-  ]
+  ],
+  "ekskluzyw": true
  },
  "42242": {
   "nazwa": "Mercedes-Benz Unimog U 5023 z dźwigiem",

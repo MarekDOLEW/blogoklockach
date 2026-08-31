@@ -233,6 +233,23 @@ const opisMeta = najlepsza
       <section class="sekcja karta-setu" style="margin-top:24px">
         <h2>LEGO {nr} {karta.nazwa} — opis</h2>
         {karta.akapity.map((a) => <p class="prose" set:html={a} />)}
+        {karta.metryka && Object.keys(karta.metryka).length > 0 && (
+          <>
+            <h3 style="margin-top:22px">Metryka zestawu</h3>
+            <div class="metryka-wrap">
+              <table class="metryka-setu">
+                <tbody>
+                  {Object.entries(karta.metryka).map(([pole, wartosc]) => (
+                    <tr>
+                      <th scope="row">{pole}</th>
+                      <td>{wartosc}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </>
+        )}
         {karta.faq?.length > 0 && (
           <>
             <h3 style="margin-top:22px">Najczęstsze pytania</h3>

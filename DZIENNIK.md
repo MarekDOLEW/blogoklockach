@@ -24,6 +24,49 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 06:40 · CODE · Karty Piotra: 5 serii (77 zestawów) + metryka zestawu na stronie
+
+**Zrobione:**
+- `src/data/karty_setow.json`: **77 nowych kart** z DOCX Piotra (paczka P07):
+  BrickHeadz 14, DUPLO 19, Harry Potter 17, Seasonal 14, Speed Champions 13.
+  Razem w rejestrze 166 kart. Placeholdery `[… – link wewnętrzny]` zamienione
+  na `#ceny` i `/serie/<slug>/` jak w poprzednich partiach; sety 501–1200 el.
+  dostały +1, a 1201+ el. +2 akapity redakcyjne liczone z naszych danych
+  katalogu (pozycja w roczniku serii, cena/element vs mediana, sąsiedzi
+  cenowi z linkami do hubów).
+- `src/pages/zestaw/[nr].astro` + `global.css`: sekcja **„Metryka zestawu"**
+  (tabela klucz→wartość między opisem a FAQ, podkład #eef1f7 odróżnia ją od
+  białych tabel cen). Pole `metryka` istniało w danych od pierwszej partii,
+  ale nie było renderowane — tabelkę dostało od razu wszystkie 166 kart.
+- Weryfikacja danych Piotra przed importem (Brickset przez curl):
+  RRP **77/77 zgodne** z naszym rejestrem. Poprawki za zgodą Marka: elementy
+  40923 260→259 i 77259 216→215, premiera 10462 1 stycznia→1 czerwca,
+  dystrybucja 80120/80121 regularna→ekskluzywna (FAQ o zakupie w RRP
+  podmienione na ekskluzywny wariant Piotra) + ~40 mechanicznych domknięć
+  szablonu mail-merge (pola w złym przypadku: „kierunkiem są innych modeli").
+- `src/data/sety.json`: rozstrzygnięcia Bricksetu po NASZEJ stronie —
+  +ekskluzyw 40858/40860/40872/40924/40925, −ekskluzyw 40923, premiery
+  40860/40925 2026-08→2026-06, opis 76473 „ponad 2100"→„2164 elementów"
+  (kolidował z metryką karty).
+
+**Stan:** gotowe, build 4959 stron zielony, HTML zweryfikowany (metryka
+między opisem a FAQ, FAQPage w schema, linki działają).
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:**
+- Nazwy 6 setów u Piotra różnią się od kanonicznych (m.in. 40864 „Mistrz
+  pomyślności" vs „Mistrz Szczęścia", 77252, 10468, 10479, 77262) — w kartach
+  stoi nazwa kanoniczna, tekst akapitów Piotra bez zmian.
+- 40881: nasza kanoniczna nazwa „Lama Zaopatrzeniowa i Palucha Rybnego —
+  figurki" wygląda na niegramatyczną (Piotr ma „…i Paluch Rybny”) — do
+  sprawdzenia na LEGO.com PL przy najbliższym zaciągu.
+- Karty City/Technic/SW z pierwszej partii mają te same zgrzyty szablonu
+  („kierunkiem są większych samochodów…") — do decyzji, czy przejechać tą
+  samą korektą.
+- Premiera 77264 nierozstrzygnięta (Piotr: 1 sierpnia, my: 2026-06, Brickset
+  nie podaje) — w metryce data Piotra nie weszła, zostało nasze źródło.
+
 ## 2026-08-30 13:00 · CODE · Naprawa 127 cen katalogowych + zgodność raportu odsiewu ze stroną
 
 **Zrobione:**
