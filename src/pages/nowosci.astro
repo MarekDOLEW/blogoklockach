@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import FiltrSetow from '../components/FiltrSetow.astro';
 import sety from '../data/sety.json';
 import { urlZdjecia } from '../lib/media.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
@@ -40,22 +41,18 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
     ))}
   </nav>
 
-  <div class="now-filtr karta">
-    <div>
-      <label for="now-seria">Seria</label>
-      <select id="now-seria">
-        <option value="">Wszystkie serie ({nowe.length})</option>
-        {serie.map((s) => (
-          <option value={s}>{s} ({wSerii(s)})</option>
-        ))}
-      </select>
-    </div>
-    <span class="now-licznik" id="now-licznik"></span>
-  </div>
+  <FiltrSetow serie={serie} liczbaWSerii={wSerii} rzeczownik="nowości" />
 
   <div class="siatka siatka--nowosci" id="now-siatka">
     {nowe.map((s) => (
-      <a class="karta set-karta" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
+      <a
+        class="karta set-karta"
+        href={`/zestaw/${s.nr}/`}
+        data-wiersz
+        data-numer={s.nr}
+        data-nazwa={s.nazwa}
+        data-seria={s.seria}
+      >
         {s.foto ? (
           <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
         ) : (
@@ -78,31 +75,8 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 </Base>
 
 <script>
-  // ── filtr serii (SEO-safe: wszystkie karty są w HTML, JS tylko ukrywa) ──
-  const $seria = document.getElementById('now-seria');
-  const $licznik = document.getElementById('now-licznik');
-  const karty = [...document.querySelectorAll('#now-siatka .set-karta')];
-  const RAZEM = karty.length;
-
-  function filtruj() {
-    const s = $seria.value;
-    let widoczne = 0;
-    for (const k of karty) {
-      const pokaz = !s || k.dataset.seria === s;
-      k.hidden = !pokaz;
-      if (pokaz) widoczne++;
-    }
-    $licznik.textContent = s ? `Pokazano ${widoczne} z ${RAZEM} nowości` : '';
-    const url = new URL(location.href);
-    if (s) url.searchParams.set('seria', s); else url.searchParams.delete('seria');
-    history.replaceState(null, '', url);
-  }
-  $seria.addEventListener('change', filtruj);
-
-  const params = new URLSearchParams(location.search);
-  const p = params.get('seria');
-  if (p && [...$seria.options].some((o) => o.value === p)) { $seria.value = p; filtruj(); }
-
+  // Filtr serii i wyszukiwanie obsługuje wspólny FiltrSetow — tu zostaje
+  // tylko lightbox, bo zdjęcia w nowościach są duże i warto je powiększać.
   // ── lightbox: klik w miniaturę powiększa zamiast przechodzić na stronę setu ──
   const $lb = document.getElementById('lightbox');
   const $lbImg = document.getElementById('lb-img');

@@ -2,7 +2,8 @@
 import '@fontsource/archivo/700.css';
 import '@fontsource/archivo/800.css';
 import '../styles/global.css';
-const { title, description, jsonld, ogImage = '/og.png' } = Astro.props;
+import SzukajGlobalne from '../components/SzukajGlobalne.astro';
+const { title, description, jsonld, ogImage = '/og.png', noindex = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
 
@@ -41,6 +42,7 @@ const stanPozycji = (href) => {
     <title>{title} · tylkoklocki.pl</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
@@ -71,6 +73,7 @@ const stanPozycji = (href) => {
           <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
           tylko<em>klocki</em><span style="color:var(--granat-60)">.pl</span>
         </a>
+        <SzukajGlobalne />
         <button class="nav-przycisk" type="button" aria-label="Menu" aria-expanded="false" aria-controls="menu-glowne">
           <span class="nav-ikona" aria-hidden="true"><i></i><i></i><i></i></span>
           <span class="nav-przycisk-tekst">Menu</span>

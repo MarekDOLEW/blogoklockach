@@ -1,0 +1,105 @@
+---
+// Wyszukiwarka na osobnej stronie: cel linku „Szukaj" bez JS, miejsce na
+// pełną listę trafień (panel w nagłówku pokazuje tylko osiem) i adres,
+// który da się podlinkować — /szukaj/?q=sokol.
+//
+// Strona nie ma własnej treści do zaindeksowania (wyniki powstają w
+// przeglądarce), więc trzyma ją poza indeksem Google — inaczej robot
+// zbierałby pustą stronę zamiast podstron zestawów.
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Szukaj zestawu LEGO"
+  description="Znajdź zestaw LEGO po numerze lub nazwie — ceny w sklepach, status w produkcji i historia."
+  noindex
+>
+  <h1 style="margin-top:28px">Szukaj zestawu</h1>
+  <p>Wpisz numer z pudełka albo fragment nazwy. Szukamy wśród wszystkich zestawów, które mają u nas własną stronę.</p>
+
+  <div class="karta szuk-pole">
+    <label for="szuk-input">Numer lub nazwa</label>
+    <input
+      id="szuk-input"
+      type="search"
+      placeholder="np. 10334 albo Sokół…"
+      autocomplete="off"
+      aria-describedby="szuk-licznik"
+    />
+    <span class="szuk-licznik" id="szuk-licznik"></span>
+  </div>
+
+  <ul class="szuk-wyniki" id="szuk-wyniki"></ul>
+
+  <p class="szuk-podpowiedz" id="szuk-podpowiedz">
+    Nie wiesz, czego szukasz? Zajrzyj do <a href="/nowosci/">nowości</a>,
+    <a href="/wycofania/">wycofań</a> albo <a href="/serie/">katalogu serii</a>.
+  </p>
+</Base>
+
+<script>
+  import { pobierzIndeks, szukaj, wierszHTML } from '../scripts/szukaj-klient.js';
+
+  const MIN_ZNAKOW = 2;
+  const MAX_WYNIKOW = 100;
+
+  const $input = document.getElementById('szuk-input');
+  const $wyniki = document.getElementById('szuk-wyniki');
+  const $licznik = document.getElementById('szuk-licznik');
+  const $podpowiedz = document.getElementById('szuk-podpowiedz');
+
+  let indeks = null;
+
+  function rysuj() {
+    const fraza = $input.value.trim();
+
+    const url = new URL(location.href);
+    if (fraza) url.searchParams.set('q', fraza);
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+
+    if (fraza.length < MIN_ZNAKOW) {
+      $wyniki.innerHTML = '';
+      $licznik.textContent = '';
+      $podpowiedz.hidden = false;
+      return;
+    }
+    if (!indeks) {
+      $licznik.textContent = 'wczytuję…';
+      return;
+    }
+
+    const wszystkie = szukaj(indeks, fraza);
+    const pokazane = wszystkie.slice(0, MAX_WYNIKOW);
+    $podpowiedz.hidden = wszystkie.length > 0;
+
+    $licznik.textContent = wszystkie.length
+      ? wszystkie.length > pokazane.length
+        ? `${wszystkie.length} trafień, pokazano ${pokazane.length}`
+        : `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : 'trafień'}`
+      : 'brak trafień';
+
+    $wyniki.innerHTML = '';
+    for (const w of pokazane) {
+      const li = document.createElement('li');
+      li.innerHTML = `<a href="/zestaw/${w.nr}/">${wierszHTML(w, fraza)}</a>`;
+      $wyniki.appendChild(li);
+    }
+  }
+
+  $input.addEventListener('input', rysuj);
+
+  // ?q= z adresu: wpisz i pokaż od razu, żeby link z panelu działał wprost
+  const q = new URLSearchParams(location.search).get('q');
+  if (q) $input.value = q;
+  $input.focus();
+
+  pobierzIndeks()
+    .then((dane) => {
+      indeks = dane;
+      rysuj();
+    })
+    .catch(() => {
+      $licznik.textContent = 'nie udało się wczytać listy zestawów';
+    });
+</script>

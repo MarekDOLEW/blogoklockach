@@ -1,0 +1,194 @@
+---
+// Wyszukiwarka globalna w nagłówku — jedyne miejsce w serwisie, z którego
+// można znaleźć dowolny zestaw, będąc gdziekolwiek (także w artykule).
+//
+// Dlaczego lupa w nagłówku, a nie pozycja „Szukaj" w menu: na telefonie menu
+// chowa się pod hamburgerem, a „mam numer z pudełka, pokaż mi ten zestaw" to
+// zbyt częsta intencja, żeby kosztowała dwa dotknięcia. Lupa jest widoczna
+// zawsze, obok hamburgera.
+//
+// Bez JS przycisk jest zwykłym linkiem do /szukaj/ — ta sama wyszukiwarka
+// na osobnej stronie. Z JS klik otwiera panel pod nagłówkiem i nie zabiera
+// czytelnikowi kontekstu, w którym był.
+---
+
+<a class="sg-przycisk" href="/szukaj/" id="sg-otworz" aria-label="Szukaj zestawu" aria-expanded="false" aria-controls="sg-panel">
+  <svg class="sg-lupa" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true" focusable="false">
+    <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2" />
+    <path d="M12.8 12.8 18 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+  </svg>
+  <span class="sg-przycisk-tekst">Szukaj</span>
+</a>
+
+<div class="sg-panel" id="sg-panel" hidden>
+  <div class="wrap sg-panel-wrap">
+    <div class="sg-pole">
+      <input
+        id="sg-input"
+        type="search"
+        placeholder="numer lub nazwa zestawu, np. 10334 albo Sokół…"
+        autocomplete="off"
+        role="combobox"
+        aria-expanded="false"
+        aria-controls="sg-wyniki"
+        aria-autocomplete="list"
+        aria-label="Szukaj zestawu w całym serwisie"
+      />
+      <button type="button" class="sg-zamknij" id="sg-zamknij" aria-label="Zamknij wyszukiwarkę">✕</button>
+    </div>
+    <ul id="sg-wyniki" role="listbox" aria-label="Wyniki wyszukiwania"></ul>
+    <p class="sg-stopka" id="sg-stopka">Wpisz co najmniej 2 znaki. Enter otwiera zaznaczony zestaw.</p>
+  </div>
+</div>
+
+<script>
+  import { pobierzIndeks, szukaj, wierszHTML } from '../scripts/szukaj-klient.js';
+
+  const MIN_ZNAKOW = 2;
+  const MAX_WYNIKOW = 8;
+
+  const $otworz = document.getElementById('sg-otworz');
+  const $panel = document.getElementById('sg-panel');
+  const $input = document.getElementById('sg-input');
+  const $wyniki = document.getElementById('sg-wyniki');
+  const $stopka = document.getElementById('sg-stopka');
+  const $zamknij = document.getElementById('sg-zamknij');
+
+  if ($otworz && $panel && $input) {
+    let indeks = null;
+    let trafienia = [];
+    let aktywna = -1;
+
+    function ustawOtwarte(otwarte) {
+      $panel.hidden = !otwarte;
+      $otworz.setAttribute('aria-expanded', otwarte ? 'true' : 'false');
+      document.body.classList.toggle('sg-otwarte', otwarte);
+      if (otwarte) {
+        $input.focus();
+        $input.select();
+        wczytaj();
+      } else {
+        schowajWyniki();
+      }
+    }
+
+    // indeks (~4900 zestawów) pobieramy dopiero przy pierwszym otwarciu —
+    // czytelnik, który nie szuka, nie płaci za niego transferem
+    function wczytaj() {
+      if (indeks) return;
+      pobierzIndeks()
+        .then((dane) => {
+          indeks = dane;
+          if (!$panel.hidden) rysuj();
+        })
+        .catch(() => {
+          $stopka.textContent = 'Nie udało się wczytać listy zestawów. Spróbuj odświeżyć stronę.';
+        });
+    }
+
+    function schowajWyniki() {
+      $wyniki.innerHTML = '';
+      trafienia = [];
+      aktywna = -1;
+      $input.setAttribute('aria-expanded', 'false');
+      $input.removeAttribute('aria-activedescendant');
+    }
+
+    function rysuj() {
+      const fraza = $input.value.trim();
+      if (fraza.length < MIN_ZNAKOW) {
+        schowajWyniki();
+        $stopka.textContent = 'Wpisz co najmniej 2 znaki. Enter otwiera zaznaczony zestaw.';
+        return;
+      }
+      if (!indeks) {
+        $stopka.textContent = 'Wczytuję listę zestawów…';
+        return;
+      }
+
+      const wszystkie = szukaj(indeks, fraza);
+      trafienia = wszystkie.slice(0, MAX_WYNIKOW);
+      $wyniki.innerHTML = '';
+
+      if (!trafienia.length) {
+        $stopka.textContent = `Brak zestawu pasującego do „${fraza}”.`;
+        $input.setAttribute('aria-expanded', 'false');
+        return;
+      }
+
+      trafienia.forEach((w, i) => {
+        const li = document.createElement('li');
+        li.id = `sg-opt-${i}`;
+        li.setAttribute('role', 'option');
+        li.innerHTML = `<a href="/zestaw/${w.nr}/">${wierszHTML(w, fraza)}</a>`;
+        li.addEventListener('mouseenter', () => zaznacz(i));
+        $wyniki.appendChild(li);
+      });
+
+      aktywna = -1;
+      zaznacz(0);
+      $input.setAttribute('aria-expanded', 'true');
+      $stopka.innerHTML =
+        wszystkie.length > trafienia.length
+          ? `Pokazano ${trafienia.length} z ${wszystkie.length} — <a href="/szukaj/?q=${encodeURIComponent(fraza)}">zobacz wszystkie wyniki</a>`
+          : `${wszystkie.length} ${wszystkie.length === 1 ? 'zestaw' : 'trafień'} — Enter otwiera zaznaczony`;
+    }
+
+    function zaznacz(i) {
+      const opcje = [...$wyniki.children];
+      if (!opcje.length) return;
+      aktywna = (i + opcje.length) % opcje.length;
+      opcje.forEach((o, k) => o.setAttribute('aria-selected', k === aktywna ? 'true' : 'false'));
+      opcje[aktywna].scrollIntoView({ block: 'nearest' });
+      $input.setAttribute('aria-activedescendant', opcje[aktywna].id);
+    }
+
+    $otworz.addEventListener('click', (e) => {
+      e.preventDefault(); // z JS zostajemy na stronie; bez JS link prowadzi do /szukaj/
+      ustawOtwarte($panel.hidden);
+    });
+    $zamknij.addEventListener('click', () => {
+      ustawOtwarte(false);
+      $otworz.focus();
+    });
+    $input.addEventListener('input', rysuj);
+
+    $input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+        if (!trafienia.length) return;
+        e.preventDefault();
+        zaznacz(aktywna + (e.key === 'ArrowDown' ? 1 : -1));
+      } else if (e.key === 'Enter') {
+        const fraza = $input.value.trim();
+        if (trafienia[aktywna]) {
+          e.preventDefault();
+          location.href = `/zestaw/${trafienia[aktywna].nr}/`;
+        } else if (fraza) {
+          e.preventDefault();
+          location.href = `/szukaj/?q=${encodeURIComponent(fraza)}`;
+        }
+      } else if (e.key === 'Escape') {
+        e.preventDefault();
+        ustawOtwarte(false);
+        $otworz.focus();
+      }
+    });
+
+    // klik poza panelem zamyka; „/" otwiera, jak w wyszukiwarkach kodu
+    document.addEventListener('click', (e) => {
+      if ($panel.hidden) return;
+      if (e.target.closest('#sg-panel') || e.target.closest('#sg-otworz')) return;
+      ustawOtwarte(false);
+    });
+    document.addEventListener('keydown', (e) => {
+      const wPolu = e.target.closest('input, textarea, select, [contenteditable]');
+      if (e.key === '/' && !wPolu && $panel.hidden) {
+        e.preventDefault();
+        ustawOtwarte(true);
+      } else if ((e.key === 'k' || e.key === 'K') && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        ustawOtwarte($panel.hidden);
+      }
+    });
+  }
+</script>

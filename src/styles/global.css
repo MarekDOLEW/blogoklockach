@@ -331,7 +331,7 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
    ============================================ */
 
 /* ---------- Pasek filtrów przyklejony pod menu ---------- */
-.pasek-filtr, .now-filtr { position: sticky; top: calc(var(--h-naglowek) + 10px); z-index: 40; }
+.pasek-filtr { position: sticky; top: calc(var(--h-naglowek) + 10px); z-index: 40; }
 .pasek-filtr { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: flex-end; padding: 14px 18px; margin: 18px 0 12px; }
 /* zasłania szczelinę między menu a paskiem, żeby lista nie przewijała się w niej widocznie */
 .pasek-filtr::before { content: ""; position: absolute; left: -14px; right: -14px; top: -12px; height: 12px; background: var(--papier); }
@@ -498,10 +498,6 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 
 /* ---------- Nowości: większe karty, filtr serii, zdjęcia z powiększeniem ---------- */
 .siatka--nowosci { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 22px; }
-.now-filtr { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: flex-end; padding: 14px 18px; margin: 18px 0 6px; }
-.now-filtr label { font-size: 0.8rem; font-weight: 600; opacity: 0.75; display: block; margin-bottom: 4px; }
-.now-filtr select { font: inherit; padding: 8px 12px; border: 1.5px solid rgba(0,0,0,0.18); border-radius: 8px; background: #fff; min-width: 220px; }
-.now-licznik { font-size: 0.85rem; color: var(--granat-60); margin-left: auto; align-self: center; }
 .set-karta .miniatura, .set-karta .foto-brak { cursor: zoom-in; }
 .set-karta .foto-brak { width: 100%; aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; cursor: default; }
 
@@ -625,10 +621,89 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .nav-przycisk[aria-expanded="true"] .nav-ikona i:nth-child(2) { opacity: 0; }
 .nav-przycisk[aria-expanded="true"] .nav-ikona i:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
+/* ---------- Wyszukiwarka globalna w nagłówku ----------
+   Lupa jest widoczna zawsze — także na telefonie, obok hamburgera — bo
+   „mam numer z pudełka" to zbyt częsta intencja, żeby chować ją w menu.
+   Panel wysuwa się POD nagłówkiem jako nakładka, tak samo jak menu mobilne,
+   więc sam nagłówek zostaje niski i --h-naglowek się nie rozdyma. */
+.sg-przycisk {
+  order: 3;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 8px;
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--granat);
+  text-decoration: none;
+  background: var(--papier);
+  border: 1px solid var(--linia);
+  border-radius: 8px;
+  padding: 9px 14px;
+  min-height: 44px;              /* wygodny cel dotykowy */
+  cursor: pointer;
+}
+.sg-przycisk:hover { background: #eef0f4; }
+.sg-przycisk[aria-expanded="true"] { background: var(--zolty); border-color: var(--zolty); }
+.nav { order: 2; }
+
+.sg-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 61;
+  background: var(--karta);
+  border-bottom: 3px solid var(--granat);
+  box-shadow: 0 12px 24px rgba(23, 35, 63, 0.12);
+}
+/* panel siedzi w .site-header, więc łapie `.site-header .wrap { display: flex }`
+   — wracamy do bloku, inaczej pole i wyniki ustawiają się obok siebie */
+.site-header .sg-panel-wrap { display: block; min-height: 0; padding-top: 14px; padding-bottom: 14px; }
+.sg-pole { display: flex; gap: 8px; align-items: center; }
+.sg-pole input[type="search"] {
+  font: inherit; font-size: 1.05rem; flex: 1;
+  padding: 12px 14px; border: 1.5px solid var(--linia); border-radius: 10px;
+  background: #fff; color: var(--granat); min-width: 0;
+}
+.sg-pole input[type="search"]:focus { border-color: var(--granat-60); outline: none; }
+.sg-zamknij {
+  font: inherit; font-size: 1.1rem; line-height: 1; color: var(--granat-60);
+  background: none; border: 1px solid var(--linia); border-radius: 8px;
+  width: 44px; height: 44px; cursor: pointer; flex: none;
+}
+.sg-zamknij:hover { background: var(--papier); }
+
+#sg-wyniki, .szuk-wyniki { list-style: none; margin: 8px 0 0; padding: 0; }
+#sg-wyniki { max-height: min(52vh, 420px); overflow-y: auto; overscroll-behavior: contain; }
+#sg-wyniki a, .szuk-wyniki a {
+  display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 4px 10px;
+  align-items: baseline;
+  padding: 10px 12px; border-radius: 8px; text-decoration: none; color: var(--granat);
+}
+#sg-wyniki li[aria-selected="true"] a, #sg-wyniki a:hover, .szuk-wyniki a:hover { background: #fff8e1; }
+.sg-nr { font-weight: 700; font-variant-numeric: tabular-nums; }
+.sg-nazwa { min-width: 0; }
+.sg-seria { text-align: right; font-size: 0.78rem; color: var(--granat-60); }
+#sg-wyniki mark, .szuk-wyniki mark { background: var(--zolty); padding: 0 1px; border-radius: 2px; }
+.sg-stopka { margin: 8px 2px 0; font-size: 0.85rem; color: var(--granat-60); }
+
+/* strona /szukaj/ — ta sama wyszukiwarka bez ograniczenia do ośmiu wyników */
+.szuk-pole { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; padding: 16px 18px; margin: 18px 0; }
+.szuk-pole label { font-size: 0.8rem; font-weight: 600; color: var(--granat-60); flex-basis: 100%; }
+.szuk-pole input[type="search"] {
+  font: inherit; font-size: 1.05rem; flex: 1 1 260px;
+  padding: 12px 14px; border: 1.5px solid var(--linia); border-radius: 10px; background: #fff;
+}
+.szuk-licznik { font-size: 0.85rem; color: var(--granat-60); white-space: nowrap; }
+.szuk-wyniki li + li { border-top: 1px solid var(--linia); }
+.szuk-podpowiedz { color: var(--granat-60); }
+
 /* Próg 1119 px: pełny pasek mieści się w jednym rzędzie dopiero, gdy strona
    osiąga pełne 1080 px szerokości kontenera (9 pozycji + logo). Niżej — hamburger. */
 @media (max-width: 1119px) {
-  .nav-przycisk { display: inline-flex; }
+  .nav-przycisk { display: inline-flex; order: 3; margin-left: 0; }
+  .sg-przycisk { order: 2; margin-left: auto; }
   .site-header .wrap { gap: 12px; }
   /* Panel wysuwa się POD nagłówkiem jako nakładka (position: absolute),
      a nie w jego środku — dzięki temu sam nagłówek zostaje niski,
@@ -665,6 +740,12 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 
 /* Bardzo wąskie ekrany (≤360 px): przycisk zwęża się do samej ikony,
    nazwę dla czytników niesie aria-label. */
+@media (max-width: 480px) {
+  .sg-przycisk-tekst { display: none; }
+  .sg-przycisk { padding: 9px 12px; }
+  .site-header .wrap { gap: 8px; }
+  .logo { font-size: 1.12rem; gap: 8px; }
+}
 @media (max-width: 360px) {
   .nav-przycisk-tekst { display: none; }
   .nav-przycisk { padding: 9px 11px; }

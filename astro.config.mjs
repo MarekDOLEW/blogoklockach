@@ -34,7 +34,10 @@ function zglaszamyHub(nr) {
 }
 
 function doSitemapy(adres) {
-  const hub = /\/zestaw\/(\d{4,7})\/?$/.exec(new URL(adres).pathname);
+  const sciezka = new URL(adres).pathname;
+  // /szukaj/ nie ma własnej treści — wyniki powstają w przeglądarce
+  if (/^\/szukaj\/?$/.test(sciezka)) return false;
+  const hub = /\/zestaw\/(\d{4,7})\/?$/.exec(sciezka);
   return hub ? zglaszamyHub(hub[1]) : true;
 }
 
