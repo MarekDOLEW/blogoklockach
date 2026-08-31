@@ -102,6 +102,8 @@ SERIA_ALIASY = {
     'DC / Batman': 'Batman',
     'DC': 'Batman',
     'Chinese Festivals': 'Seasonal',
+    'Sonic the Hedgehog': 'Sonic',
+    'ONE PIECE': 'One Piece',
     'NINJAGO': 'Ninjago',
 }
 

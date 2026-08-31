@@ -24,6 +24,31 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 07:20 · CODE · Piąta paczka kart P07: Sonic, One Piece, Gabi, Fortnite, DREAMZzz
+
+**Zrobione:**
+- `karty_setow.json`: **24 nowe karty** (Sonic 5, One Piece 7, Koci Domek
+  Gabi 3, Fortnite 4, DREAMZzz 5 — rozkład zliczony z rejestru).
+  Rejestr: 351 → 375; na żywo 358 stron.
+- `katalog.json`: **nowa seria DREAMZzz** (5 setów) + dołożone 77117/77118
+  (Sonic) i 11215 (Gabi) — elementy z Bricksetu, RRP Piotra po kontroli
+  mnożnikiem drabiny (wszystkie 4,20–4,29 od EUR, zgodne). Dzięki temu
+  powstało 8 nowych hubów i `/serie/dreamzzz/` — build 4959 → 4968 stron.
+- 75646 (One Piece, okręt Garpa): elementy w katalogu 1738 → **1705**
+  (Brickset potwierdza wartość Piotra).
+- 11371: domknięty ogon wczorajszej poprawki — `katalog.json` miał jeszcze
+  1099,99; `kontrola-rrp --napraw` wyrównało do 1079,99, kontrola ZERO
+  rozbieżności.
+- `scripts/import-karty.py`: aliasy serii Sonic the Hedgehog→Sonic,
+  ONE PIECE→One Piece.
+
+**Stan:** gotowe, wypchnięte. Build 4968 stron zielony.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** nazwy DREAMZzz w katalogu pochodzą z metryk Piotra (jedyne
+polskie, jakie mamy) — przy zaciągu lego.pl zweryfikować jak zwykle.
+
 ## 2026-08-31 07:15 · CODE · Czwarta paczka kart P07: DC/Batman, Bluey, Art, Architecture (+2 zipy duplikatów)
 
 **Zrobione:**

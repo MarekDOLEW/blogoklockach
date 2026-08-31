@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-08-28",
+  "aktualizacja": "2026-08-31",
   "zrodla": [
    "brickset.com (theme Ideas)",
    "lego.com",
@@ -26,7 +26,8 @@
    "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)",
    "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)",
    "lego.com/pl-pl (cena katalogowa 75639)",
-   "promoklocki.pl (weryfikacja ceny katalogowej 75639)"
+   "promoklocki.pl (weryfikacja ceny katalogowej 75639)",
+   "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 — elementy Brickset, RRP Piotr po kalibracji mnożnikiem)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
   "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -1889,7 +1890,7 @@
    "rok": 2026,
    "elementy": 3456,
    "status": "dostepny",
-   "cena_katalogowa": 1099.99
+   "cena_katalogowa": 1079.99
   },
   {
    "numer": "11372",
@@ -62311,6 +62312,22 @@
    "elementy": 374,
    "status": "dostepny",
    "cena_katalogowa": 209.99
+  },
+  {
+   "numer": "77117",
+   "nazwa": "Sonic: Speedster Lightning",
+   "rok": 2026,
+   "elementy": 126,
+   "status": "dostepny",
+   "cena_katalogowa": 41.99
+  },
+  {
+   "numer": "77118",
+   "nazwa": "Silver w samochodzie kontra Knuckles w monster trucku",
+   "rok": 2026,
+   "elementy": 378,
+   "status": "dostepny",
+   "cena_katalogowa": 169.99
   }
  ],
  "Animal Crossing": [
@@ -62376,7 +62393,7 @@
    "numer": "75646",
    "nazwa": "Okręt Garpa",
    "rok": 2026,
-   "elementy": 1738,
+   "elementy": 1705,
    "status": "dostepny",
    "cena_katalogowa": 729.99
   },
@@ -62431,6 +62448,14 @@
    "elementy": 137,
    "status": "dostepny",
    "cena_katalogowa": 144.99
+  },
+  {
+   "numer": "11215",
+   "nazwa": "Koci przyjaciele Gabi z klocków",
+   "rok": 2026,
+   "elementy": 324,
+   "status": "dostepny",
+   "cena_katalogowa": 209.99
   }
  ],
  "Wicked": [
@@ -62645,6 +62670,48 @@
    "elementy": 2269,
    "status": "dostepny",
    "cena_katalogowa": 899.99
+  }
+ ],
+ "DREAMZzz": [
+  {
+   "numer": "71508",
+   "nazwa": "Lisi mech-strażnik",
+   "rok": 2026,
+   "elementy": 883,
+   "status": "dostepny",
+   "cena_katalogowa": 339.99
+  },
+  {
+   "numer": "71512",
+   "nazwa": "Krokodylołódź podwodna",
+   "rok": 2026,
+   "elementy": 1107,
+   "status": "dostepny",
+   "cena_katalogowa": 299.99
+  },
+  {
+   "numer": "71513",
+   "nazwa": "Koszmarna skorpionowa koparka",
+   "rok": 2026,
+   "elementy": 505,
+   "status": "dostepny",
+   "cena_katalogowa": 209.99
+  },
+  {
+   "numer": "71514",
+   "nazwa": "Dinostatek kosmiczny",
+   "rok": 2026,
+   "elementy": 1007,
+   "status": "dostepny",
+   "cena_katalogowa": 419.99
+  },
+  {
+   "numer": "71515",
+   "nazwa": "Rekinoczołg tygrysi",
+   "rok": 2026,
+   "elementy": 1548,
+   "status": "dostepny",
+   "cena_katalogowa": 599.99
   }
  ]
 }
