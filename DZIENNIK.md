@@ -24,6 +24,42 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 07:25 · CODE · Szósta (ostatnia) partia kart P07: brakujące 57 + Archive + Nike + Super Mario
+
+**Zrobione:**
+- `karty_setow.json`: **70 nowych kart** z 4 zipów (w tym „brakujące 57"
+  domykające luki w ~30 seriach: polybagi 30xxx, GWP-y 40xxx, Architecture
+  21065–67, minifigurki, Zelda, Wednesday, Animal Crossing, KPop, Nike,
+  Super Mario). Rejestr: 375 → **445**; na żywo 413 stron. Duplikaty
+  międzyseryjne znów pominięte (40920 Looney=Seasonal, 40923 Shrek=BrickHeadz).
+- `katalog.json`: nowe serie **The Legend of Zelda, Shrek, Looney Tunes,
+  Nike x LEGO** + sety dołożone do AC/Bluey/Sonic/Minifigurek; elementy
+  z Bricksetu, RRP Piotra po kalibracji mnożnikiem. 71052: elementy 7→8.
+- Bramka RRP zablokowała 7 polybagów (my 16,99/29,99 vs Piotr 16,49) —
+  rejestr lego.pl rozstrzygnął NA KORZYŚĆ PIOTRA: saszetki 2026 kosztują
+  16,49 (71051–71053 potwierdzone), a 30734 ma €3.99. Poprawione 7 wpisów
+  katalogu; stara wiedza „polybag = 16,99" (m.in. komentarz w odsiew.js)
+  dotyczy poprzednich roczników.
+- `scripts/import-karty.py`: nowe warianty placeholderów partii („sprawdź
+  aktualne informacje/oferty/dostępność", „zobacz analizę ceny"), RRP też
+  z pola „Cena / sposób uzyskania" (wariant szablonu dla polybagów/GWP),
+  fallback linku kategorii na `/serie/` dla serii bez strony (GWP „Inne",
+  LEGO House, LEGOLAND), filtr plików macOS `._*`, aliasy Creator 3 w 1
+  i Nike x LEGO Collection.
+- `[nr].astro`: kotwica `#ceny` istnieje też przy braku tabeli cen
+  (fallbackowy komunikat) — linki z kart GWP nie prowadzą w nic.
+
+**Stan:** gotowe, wypchnięte. Build 4978 stron zielony; kontrola-rrp: zero
+rozbieżności; zero nierozwiązanych placeholderów w dist.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** GWP-y i sety LEGO House/LEGOLAND (17 kart „Inne") świadomie BEZ
+wpisu w katalogu (RUNBOOK: gratisy odsiewamy) — karty czekają w danych na
+ewentualne huby. Nierozstrzygnięte 1:1 (Piotr vs Brickset, bez trzeciego
+głosu): dystrybucja 77093 (P: ekskluzyw, BS: Retail) i 40824 (odwrotnie) —
+zostały wartości Piotra.
+
 ## 2026-08-31 07:20 · CODE · Piąta paczka kart P07: Sonic, One Piece, Gabi, Fortnite, DREAMZzz
 
 **Zrobione:**

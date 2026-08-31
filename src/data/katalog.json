@@ -27,7 +27,8 @@
    "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)",
    "lego.com/pl-pl (cena katalogowa 75639)",
    "promoklocki.pl (weryfikacja ceny katalogowej 75639)",
-   "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 — elementy Brickset, RRP Piotr po kalibracji mnożnikiem)"
+   "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 — elementy Brickset, RRP Piotr po kalibracji mnożnikiem)",
+   "metryki P07 partia 6 (Zelda, Shrek, Looney Tunes, Nike x LEGO, polybagi) — elementy Brickset, RRP Piotr po kalibracji mnożnikiem"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
   "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -11460,7 +11461,7 @@
    "rok": 2026,
    "elementy": 68,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "30728",
@@ -14237,7 +14238,7 @@
    "rok": 2026,
    "elementy": 58,
    "status": "dostepny",
-   "cena_katalogowa": 29.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "77252",
@@ -18653,7 +18654,7 @@
    "rok": 2026,
    "elementy": 82,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "40894",
@@ -26709,7 +26710,7 @@
    "rok": 2026,
    "elementy": 48,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "60478",
@@ -31647,7 +31648,7 @@
    "rok": 2026,
    "elementy": 66,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "30717",
@@ -37212,7 +37213,7 @@
    "rok": 2026,
    "elementy": 55,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "30722",
@@ -44904,7 +44905,7 @@
    "rok": 2026,
    "elementy": 9,
    "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "cena_katalogowa": 16.49
   },
   {
    "numer": "LANDDUCK",
@@ -62328,6 +62329,14 @@
    "elementy": 378,
    "status": "dostepny",
    "cena_katalogowa": 169.99
+  },
+  {
+   "numer": "30733",
+   "nazwa": "Badnik: Skorp",
+   "rok": 2026,
+   "elementy": 80,
+   "status": "dostepny",
+   "cena_katalogowa": 16.49
   }
  ],
  "Animal Crossing": [
@@ -62338,6 +62347,22 @@
    "elementy": 513,
    "status": "dostepny",
    "cena_katalogowa": 249.99
+  },
+  {
+   "numer": "77059",
+   "nazwa": "Timmy i Tommy na spacerze",
+   "rok": 2026,
+   "elementy": 513,
+   "status": "dostepny",
+   "cena_katalogowa": 249.99
+  },
+  {
+   "numer": "30731",
+   "nazwa": "Tom Nook i latający prezent",
+   "rok": 2026,
+   "elementy": 33,
+   "status": "dostepny",
+   "cena_katalogowa": 16.49
   }
  ],
  "One Piece": [
@@ -62526,6 +62551,14 @@
    "elementy": 106,
    "status": "dostepny",
    "cena_katalogowa": 104.99
+  },
+  {
+   "numer": "30713",
+   "nazwa": "Wytworna restauracja z Bingo",
+   "rok": 2026,
+   "elementy": 23,
+   "status": "dostepny",
+   "cena_katalogowa": 16.49
   }
  ],
  "Minifigurki": [
@@ -62533,7 +62566,7 @@
    "numer": "71052",
    "nazwa": "Seria 29",
    "rok": 2026,
-   "elementy": 7,
+   "elementy": 8,
    "status": "dostepny",
    "cena_katalogowa": 16.49
   },
@@ -62542,6 +62575,14 @@
    "nazwa": "Seria Shrek",
    "rok": 2026,
    "elementy": 7,
+   "status": "dostepny",
+   "cena_katalogowa": 16.49
+  },
+  {
+   "numer": "71051",
+   "nazwa": "Seria 28 — Zwierzęta",
+   "rok": 2026,
+   "elementy": 9,
    "status": "dostepny",
    "cena_katalogowa": 16.49
   }
@@ -62712,6 +62753,54 @@
    "elementy": 1548,
    "status": "dostepny",
    "cena_katalogowa": 599.99
+  }
+ ],
+ "The Legend of Zelda": [
+  {
+   "numer": "77093",
+   "nazwa": "Ocarina of Time — The Final Battle",
+   "rok": 2026,
+   "elementy": 1003,
+   "status": "dostepny",
+   "cena_katalogowa": 519.99
+  }
+ ],
+ "Shrek": [
+  {
+   "numer": "72423",
+   "nazwa": "Shrek, Osioł i Kot w butach",
+   "rok": 2026,
+   "elementy": 1403,
+   "status": "dostepny",
+   "cena_katalogowa": 519.99
+  }
+ ],
+ "Looney Tunes": [
+  {
+   "numer": "40824",
+   "nazwa": "Uroczy kanarek Tweety",
+   "rok": 2026,
+   "elementy": 412,
+   "status": "dostepny",
+   "cena_katalogowa": 144.99
+  }
+ ],
+ "Nike x LEGO": [
+  {
+   "numer": "43025",
+   "nazwa": "Zestaw Nike Air Max 95 x LEGO",
+   "rok": 2026,
+   "elementy": 1213,
+   "status": "dostepny",
+   "cena_katalogowa": 419.99
+  },
+  {
+   "numer": "43026",
+   "nazwa": "Zestaw Nike Air Force 1 x LEGO",
+   "rok": 2026,
+   "elementy": 1093,
+   "status": "dostepny",
+   "cena_katalogowa": 419.99
   }
  ]
 }

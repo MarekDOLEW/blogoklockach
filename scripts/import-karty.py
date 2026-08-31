@@ -104,6 +104,8 @@ SERIA_ALIASY = {
     'Chinese Festivals': 'Seasonal',
     'Sonic the Hedgehog': 'Sonic',
     'ONE PIECE': 'One Piece',
+    'Creator 3 w 1': 'Creator',
+    'Nike x LEGO Collection': 'Nike x LEGO',
     'NINJAGO': 'Ninjago',
 }
 
@@ -124,16 +126,21 @@ def slug_serii(seria):
     return re.sub(r'\s+', '-', s.strip())
 
 # ---------- transformacje ----------
-def linkuj(t, seria_repo, slug):
+def linkuj(t, seria_repo, slug, seria_ma_strone=True):
     s = seria_repo
     t = re.sub(r'\[sprawdź aktualne ceny LEGO \d+ – link wewnętrzny\]',
                '<a href="#ceny">zobacz tabelę cen nad tym opisem</a>', t)
-    t = re.sub(r'\[porównaj oferty LEGO \d+ – link wewnętrzny\]',
-               '<a href="#ceny">porównaj oferty w tabeli nad opisem</a>', t)
-    t = t.replace('[zobacz analizę ceny i próg zakupu – link wewnętrzny]',
-                  '<a href="#ceny">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>')
-    t = re.sub(r'\[zobacz kategorię LEGO [^\]]+ – link wewnętrzny\]',
-               f'<a href="/serie/{slug}/">zobacz wszystkie zestawy LEGO {s}</a>', t)
+    t = re.sub(r'\[(?:porównaj oferty|sprawdź(?: aktualne)? oferty|sprawdź aktualne informacje o|sprawdź dostępność) LEGO \d+ – link wewnętrzny\]',
+               '<a href="#ceny">porównaj oferty w sekcji cen nad opisem</a>', t)
+    t = re.sub(r'\[zobacz analizę ceny(?: i próg zakupu)? – link wewnętrzny\]',
+               '<a href="#ceny">sprawdź bieżące ceny na tle katalogowej w sekcji nad opisem</a>', t)
+    # kategoria bez własnej strony serii (GWP „Inne", LEGO House, LEGOLAND itp.)
+    # albo etykieta opisowa — kierujemy na przegląd wszystkich serii
+    if seria_ma_strone:
+        t = re.sub(r'\[zobacz kategorię LEGO [^\]]+ – link wewnętrzny\]',
+                   f'<a href="/serie/{slug}/">zobacz wszystkie zestawy LEGO {s}</a>', t)
+    t = re.sub(r'\[zobacz kategorię [^\]]+ – link wewnętrzny\]',
+               '<a href="/serie/">zobacz wszystkie serie LEGO</a>', t)
     return t
 
 # fraza szablonu (przyjmuje mianownik) -> zamiennik przyjmujący dopełniacz;
@@ -224,7 +231,8 @@ def main():
             pliki += glob.glob(os.path.join(a, '**', '*.docx'), recursive=True)
         else:
             pliki.append(a)
-    pliki = sorted(set(pliki))
+    # macOS-owe zrzuty AppleDouble (._nazwa.docx) nie są dokumentami — odsiej
+    pliki = sorted({p2 for p2 in pliki if not os.path.basename(p2).startswith('._')})
     print(f'plików DOCX: {len(pliki)}')
     ctx = zbuduj_kontekst()
     karty = czytaj('karty_setow.json')
@@ -244,7 +252,7 @@ def main():
         if seria_repo not in ctx['kat']:
             ostrz.append((nr, f'seria „{seria_pelna}” nieznana w katalog.json — linki /serie/{slug}/ mogą prowadzić w próżnię'))
         # RRP — bramka twarda
-        mc = re.search(r'([\d\s]+,\d{2})', m.get('Polska cena katalogowa RRP', ''))
+        mc = re.search(r'([\d\s]+,\d{2})\s*zł', m.get('Polska cena katalogowa RRP', '') or m.get('Cena / sposób uzyskania', ''))
         rrp_p = float(mc.group(1).replace(' ', '').replace(',', '.')) if mc else None
         rrp_my = ctx['rrp'](nr)
         if rrp_p and rrp_my and abs(rrp_p - rrp_my) > 0.01:
@@ -263,8 +271,9 @@ def main():
         m['Nazwa'] = nazwa
         log = []
         pow = m.get('Powiązanie')
-        ak = [gramatyka(linkuj(a, seria_repo, slug), pow, log) for a in d['akapity']]
-        faq = [{'q': f['q'].strip(), 'a': gramatyka(linkuj(f['a'], seria_repo, slug), pow, log)} for f in d['faq']]
+        seria_ma_strone = seria_repo in ctx['kat']
+        ak = [gramatyka(linkuj(a, seria_repo, slug, seria_ma_strone), pow, log) for a in d['akapity']]
+        faq = [{'q': f['q'].strip(), 'a': gramatyka(linkuj(f['a'], seria_repo, slug, seria_ma_strone), pow, log)} for f in d['faq']]
         for wpis in log: ostrz.append((nr, 'gramatyka szablonu: ' + wpis))
         for t in ak + [f['a'] for f in faq]:
             if 'link wewnętrzny' in t: ostrz.append((nr, 'NIEROZWIĄZANY placeholder: ' + t[:80]))
