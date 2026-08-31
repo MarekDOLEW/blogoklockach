@@ -110,7 +110,7 @@ SERIA_ALIASY = {
 }
 
 def seria_kanoniczna(seria_pelna, ctx=None):
-    s = seria_pelna.replace('LEGO ', '').strip()
+    s = re.sub(r'^LEGO\s+', '', seria_pelna).strip()
     s = SERIA_ALIASY.get(s, s)
     if ctx is not None and s not in ctx['kat']:
         # dopasowanie bez wielkości liter, zanim uznamy serię za nieznaną
