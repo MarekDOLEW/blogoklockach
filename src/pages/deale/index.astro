@@ -9,7 +9,7 @@ import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../../lib/oferty.js';
 
 // Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
 // dealowe (markdown w tym katalogu). Ta strona nie zawiera ani jednej ręcznie
-// wpisanej ceny — wszystko liczy się przy buildzie z sety.json/ceny_baza.json,
+// wpisanej ceny – wszystko liczy się przy buildzie z sety.json/ceny_baza.json,
 // a Łowca pushuje świeże dane praktycznie codziennie, więc lista jest tak samo
 // aktualna jak tabele na hubach zestawów.
 
@@ -21,7 +21,7 @@ const wpisy = Object.entries(sety)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .filter((s) => s.oferty?.length && s.cena_katalogowa);
 
-// dzień danych = najświeższa data ofert (nie zegar builda — build po północy
+// dzień danych = najświeższa data ofert (nie zegar builda – build po północy
 // UTC ma już „jutrzejszą" datę, patrz identyczna uwaga w index.astro)
 const dzienDanych = wpisy
   .flatMap((s) => s.oferty.map((o) => o.data ?? ''))
@@ -32,7 +32,7 @@ const noweMinimum = (s) =>
   cenyBaza[s.nr]?.najnizsza_data === dzienDanych && cenyBaza[s.nr]?.najnizsza_cena === najlepszaCena(s);
 
 // deal gorący = rabat ≥30% od ceny katalogowej LUB świeże minimum notowań;
-// pseudopromocji (<15%) nie pokazujemy wcale — patrz standard Łowcy
+// pseudopromocji (<15%) nie pokazujemy wcale – patrz standard Łowcy
 const gorace = wpisy
   .filter((s) => rabat(s) >= 30 || (noweMinimum(s) && rabat(s) >= 15))
   .sort((a, b) => rabat(b) - rabat(a));
@@ -58,23 +58,23 @@ const posty = zajawkiArtykulow(
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
-  name: 'Deale LEGO dziś — realne rabaty od cen katalogowych',
+  name: 'Deale LEGO dziś – realne rabaty od cen katalogowych',
   url: 'https://tylkoklocki.pl/deale/',
   inLanguage: 'pl-PL',
   isPartOf: { '@type': 'WebSite', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
 };
 ---
 <Base
-  title="Deale LEGO dziś — rabaty 30% i najniższe ceny w historii"
+  title="Deale LEGO dziś – rabaty 30% i najniższe ceny w historii"
   description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, trzy półki cenowe, oznaczone nowe minima cenowe."
   jsonld={jsonld}
 >
-  <h1 class="glowna-h1">Deale LEGO — tylko realne rabaty, liczone od cen katalogowych</h1>
+  <h1 class="glowna-h1">Deale LEGO – tylko realne rabaty, liczone od cen katalogowych</h1>
   <p>
     Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
     (ostatnie dane: {dzienDanychPl}). Pokazujemy wyłącznie rabaty co najmniej 30%
     od oficjalnej ceny katalogowej LEGO oraz zestawy, które właśnie zaliczyły
-    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań —
+    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań –
     bez pseudopromocji liczonych od zawyżonych „cen przekreślonych".
   </p>
 
@@ -107,7 +107,7 @@ const jsonld = {
                   </td>
                   <td class="cena">{fmtCena(najlepszaCena(s))}</td>
                   <td><span class="badge-rabat-mini">−{rabat(s)}%</span></td>
-                  <td>{s.elementy ? (najlepszaCena(s) / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '—'}</td>
+                  <td>{s.elementy ? (najlepszaCena(s) / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}</td>
                   <td>
                     {aff ? (
                       <a class="cta" href={aff} rel="sponsored nofollow">Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
@@ -138,7 +138,7 @@ const jsonld = {
   )}
 
   <p class="disclosure">
-    Linki do sklepów są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis
+    Linki do sklepów są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis
     i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór dealów: rabaty
     liczymy zawsze od cen katalogowych LEGO, a najtańszą ofertę pokazujemy niezależnie
     od tego, czy mamy z danym sklepem współpracę.

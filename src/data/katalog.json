@@ -24,11 +24,11 @@
    "brickset.com (theme Classic)",
    "brickset.com (theme Botanicals)",
    "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)",
-   "sety.json (sety sledzone przez Scouta — serie spoza backfillu Bricksetu)",
+   "sety.json (sety sledzone przez Scouta – serie spoza backfillu Bricksetu)",
    "lego.com/pl-pl (cena katalogowa 75639)",
    "promoklocki.pl (weryfikacja ceny katalogowej 75639)",
-   "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 — elementy Brickset, RRP Piotr po kalibracji mnożnikiem)",
-   "metryki P07 partia 6 (Zelda, Shrek, Looney Tunes, Nike x LEGO, polybagi) — elementy Brickset, RRP Piotr po kalibracji mnożnikiem"
+   "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 – elementy Brickset, RRP Piotr po kalibracji mnożnikiem)",
+   "metryki P07 partia 6 (Zelda, Shrek, Looney Tunes, Nike x LEGO, polybagi) – elementy Brickset, RRP Piotr po kalibracji mnożnikiem"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
   "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -39,10 +39,10 @@
     "Harry Potter"
    ]
   },
-  "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) — pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252).",
-  "nazewnictwo": "Ustalone 28.08.2026 (decyzja Marka): kanoniczna jest NAZWA PRODUKTU Z LEGO.com PL. Motyw/seria nie jest czescia nazwy — prefiksy z Bricksetu (\"3w1 \", \"Marvel \", \"Chinese Festivals \") usuwamy. Typografia wg LEGO PL: apostrof typograficzny, myslnik jako separator podtytulu, zdaniowa wielkosc liter poza nazwami wlasnymi. Wyjatek: kalendarze adwentowe zachowuja serie w nazwie, bo bez niej piec zestawow nazywa sie identycznie i nie da sie ich rozroznic na listach.",
+  "uzupelnienie_2026-08-26": "Domkniecie pokrycia sety.json -> katalog.json: dodano 64 zestawow, w tym 17 nowych serii (Animal Crossing, Architecture, Art, Batman, Bluey, Editions, F1, Fortnite, KPop Demon Hunters, Koci Domek Gabi, Minifigurki, One Piece, Pokémon, SMART Play, Sonic, Wednesday, Wicked). Wczesniej katalog obejmowal wylacznie 20 serii z backfillu Bricksetu, wiec sety z serii licencyjnych i nowych linii (Pokemon, One Piece, SMART Play, Fortnite, F1, Architecture...) mialy podstrone /serie/<seria> bez tabeli katalogowej, a wpisKatalogu() nie znal dla nich rocznika ani ceny katalogowej. UWAGA: dodane wpisy to wylacznie sety z sety.json (roczniki 2025-2026) – pelna historia tych serii wymaga osobnego backfillu z Bricksetu, tak jak przy pozostalych 20 seriach. Poprawiono tez liczbe elementow 11382 (1552 -> 1252).",
+  "nazewnictwo": "Ustalone 28.08.2026 (decyzja Marka): kanoniczna jest NAZWA PRODUKTU Z LEGO.com PL. Motyw/seria nie jest czescia nazwy – prefiksy z Bricksetu (\"3w1 \", \"Marvel \", \"Chinese Festivals \") usuwamy. Typografia wg LEGO PL: apostrof typograficzny, myslnik jako separator podtytulu, zdaniowa wielkosc liter poza nazwami wlasnymi. Wyjatek: kalendarze adwentowe zachowuja serie w nazwie, bo bez niej piec zestawow nazywa sie identycznie i nie da sie ich rozroznic na listach.",
   "nazwy_do_weryfikacji": {
-   "opis": "Forma przyjeta 28.08.2026 bez potwierdzenia na lego.com/pl-pl (Cloudflare blokuje odczyt strony produktu). Do sprawdzenia przy najblizszej okazji. 10448 i 10451 maja \"3 w 1\" jako PREFIKS, a dziewiec siostrzanych zestawow DUPLO ma je jako SUFIKS (\"Dom rodzinny 3 w 1\") — jedna z tych form jest bledna.",
+   "opis": "Forma przyjeta 28.08.2026 bez potwierdzenia na lego.com/pl-pl (Cloudflare blokuje odczyt strony produktu). Do sprawdzenia przy najblizszej okazji. 10448 i 10451 maja \"3 w 1\" jako PREFIKS, a dziewiec siostrzanych zestawow DUPLO ma je jako SUFIKS (\"Dom rodzinny 3 w 1\") – jedna z tych form jest bledna.",
    "numery": [
     "42224",
     "42233",
@@ -52,7 +52,7 @@
     "10448",
     "10451"
    ],
-   "prefiksy_zostawione": "DUPLO ma 10 zestawow z prefiksem \"Disney \" (podmotyw licencyjny), a City/Star Wars/Friends/Ninjago maja ok. 110 starych i promocyjnych pozycji z lat 2000-2015 z angielskimi nazwami Bricksetu, gdzie prefiks jest czescia nazwy i nie ma polskiego odpowiednika u LEGO. Tych NIE ruszamy — brak zrodla, do ktorego mozna wyrownac. Prefiks \"3w1\" zdjety z Creatora, bo tam LEGO.com PL potwierdza, ze to motyw (\"Legendarny statek piracki 31387 | Creator 3 w 1\"), a nie czesc nazwy."
+   "prefiksy_zostawione": "DUPLO ma 10 zestawow z prefiksem \"Disney \" (podmotyw licencyjny), a City/Star Wars/Friends/Ninjago maja ok. 110 starych i promocyjnych pozycji z lat 2000-2015 z angielskimi nazwami Bricksetu, gdzie prefiks jest czescia nazwy i nie ma polskiego odpowiednika u LEGO. Tych NIE ruszamy – brak zrodla, do ktorego mozna wyrownac. Prefiks \"3w1\" zdjety z Creatora, bo tam LEGO.com PL potwierdza, ze to motyw (\"Legendarny statek piracki 31387 | Creator 3 w 1\"), a nie czesc nazwy."
   },
   "rrp_rk": "2026-08-30: uzupelniono cena_katalogowa (+pole cena_zrodlo=RK) z bazy Republiki Klockow wylacznie tam, gdzie pole bylo puste; rrp_potwierdzone.json pozostaje nadrzedne; kwarantanna: usunieto 10 wpisow RK, gdzie cena rynkowa < 50% RRP (RRP niewiarygodne)"
  },
@@ -83,7 +83,7 @@
   },
   {
    "numer": "21103",
-   "nazwa": "DeLorean — wehikuł czasu (BTTF)",
+   "nazwa": "DeLorean – wehikuł czasu (BTTF)",
    "rok": 2013,
    "elementy": 401,
    "status": "eol",
@@ -404,7 +404,7 @@
   },
   {
    "numer": "21331",
-   "nazwa": "Sonic — strefa Green Hill",
+   "nazwa": "Sonic – strefa Green Hill",
    "rok": 2022,
    "elementy": 1125,
    "status": "eol",
@@ -1063,7 +1063,7 @@
   },
   {
    "numer": "10272",
-   "nazwa": "Old Trafford — Manchester United",
+   "nazwa": "Old Trafford – Manchester United",
    "rok": 2020,
    "elementy": 3898,
    "status": "eol",
@@ -1167,7 +1167,7 @@
   },
   {
    "numer": "10284",
-   "nazwa": "Camp Nou — FC Barcelona",
+   "nazwa": "Camp Nou – FC Barcelona",
    "rok": 2021,
    "elementy": 5509,
    "status": "eol",
@@ -1271,7 +1271,7 @@
   },
   {
    "numer": "10299",
-   "nazwa": "Stadion Realu Madryt — Santiago Bernabéu",
+   "nazwa": "Stadion Realu Madryt – Santiago Bernabéu",
    "rok": 2022,
    "elementy": 5876,
    "status": "eol",
@@ -1495,7 +1495,7 @@
   },
   {
    "numer": "40581",
-   "nazwa": "BIONICLE — Tahu i Takua",
+   "nazwa": "BIONICLE – Tahu i Takua",
    "rok": 2023,
    "elementy": 219,
    "status": "eol",
@@ -1535,7 +1535,7 @@
   },
   {
    "numer": "10327",
-   "nazwa": "Diuna — Atreides Royal Ornithopter",
+   "nazwa": "Diuna – Atreides Royal Ornithopter",
    "rok": 2024,
    "elementy": 1369,
    "status": "eol",
@@ -2697,7 +2697,7 @@
   },
   {
    "numer": "40419",
-   "nazwa": "Uczniowie Hogwartu — zestaw akcesoriów",
+   "nazwa": "Uczniowie Hogwartu – zestaw akcesoriów",
    "rok": 2020,
    "elementy": 53,
    "status": "eol",
@@ -2865,7 +2865,7 @@
   },
   {
    "numer": "76391",
-   "nazwa": "Ikony Hogwartu — edycja kolekcjonerska",
+   "nazwa": "Ikony Hogwartu – edycja kolekcjonerska",
    "rok": 2021,
    "elementy": 3010,
    "status": "eol",
@@ -3001,7 +3001,7 @@
   },
   {
    "numer": "76405",
-   "nazwa": "Ekspres do Hogwartu — edycja kolekcjonerska",
+   "nazwa": "Ekspres do Hogwartu – edycja kolekcjonerska",
    "rok": 2022,
    "elementy": 5129,
    "status": "eol",
@@ -3113,7 +3113,7 @@
   },
   {
    "numer": "76416",
-   "nazwa": "Quidditch — kufer",
+   "nazwa": "Quidditch – kufer",
    "rok": 2023,
    "elementy": 599,
    "status": "dostepny",
@@ -3121,7 +3121,7 @@
   },
   {
    "numer": "76417",
-   "nazwa": "Bank Gringotta — edycja kolekcjonerska",
+   "nazwa": "Bank Gringotta – edycja kolekcjonerska",
    "rok": 2023,
    "elementy": 4803,
    "status": "eol",
@@ -3313,7 +3313,7 @@
   },
   {
    "numer": "76437",
-   "nazwa": "Nora — edycja kolekcjonerska",
+   "nazwa": "Nora – edycja kolekcjonerska",
    "rok": 2024,
    "elementy": 2405,
    "status": "eol",
@@ -3489,7 +3489,7 @@
   },
   {
    "numer": "76457",
-   "nazwa": "Hogsmeade — edycja kolekcjonerska",
+   "nazwa": "Hogsmeade – edycja kolekcjonerska",
    "rok": 2025,
    "elementy": 3228,
    "status": "eol",
@@ -3513,7 +3513,7 @@
   },
   {
    "numer": "40901",
-   "nazwa": "Przekąski Ministerskie i Prorok Codzienny — stoiska",
+   "nazwa": "Przekąski Ministerskie i Prorok Codzienny – stoiska",
    "rok": 2026,
    "elementy": 152,
    "status": "eol",
@@ -3585,7 +3585,7 @@
   },
   {
    "numer": "76466",
-   "nazwa": "Kamień filozoficzny — edycja kolekcjonerska",
+   "nazwa": "Kamień filozoficzny – edycja kolekcjonerska",
    "rok": 2026,
    "elementy": 1571,
    "status": "dostepny",
@@ -3649,7 +3649,7 @@
   },
   {
    "numer": "76476",
-   "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
+   "nazwa": "Ministerstwo Magii – edycja kolekcjonerska",
    "rok": 2026,
    "elementy": 3491,
    "status": "dostepny",
@@ -8595,7 +8595,7 @@
   },
   {
    "numer": "75536",
-   "nazwa": "Szturmowiec — strzelec",
+   "nazwa": "Szturmowiec – strzelec",
    "rok": 2018,
    "elementy": 101,
    "status": "eol",
@@ -8929,7 +8929,7 @@
   },
   {
    "numer": "75243",
-   "nazwa": "Slave I — edycja rocznicowa",
+   "nazwa": "Slave I – edycja rocznicowa",
    "rok": 2019,
    "elementy": 1007,
    "status": "eol",
@@ -9049,7 +9049,7 @@
   },
   {
    "numer": "75258",
-   "nazwa": "Ścigacz Anakina — edycja rocznicowa",
+   "nazwa": "Ścigacz Anakina – edycja rocznicowa",
    "rok": 2019,
    "elementy": 279,
    "status": "eol",
@@ -9057,7 +9057,7 @@
   },
   {
    "numer": "75259",
-   "nazwa": "Śmigacz śnieżny — edycja rocznicowa",
+   "nazwa": "Śmigacz śnieżny – edycja rocznicowa",
    "rok": 2019,
    "elementy": 309,
    "status": "eol",
@@ -9065,7 +9065,7 @@
   },
   {
    "numer": "75261",
-   "nazwa": "Maszyna krocząca klonów — edycja rocznicowa",
+   "nazwa": "Maszyna krocząca klonów – edycja rocznicowa",
    "rok": 2019,
    "elementy": 250,
    "status": "eol",
@@ -9073,7 +9073,7 @@
   },
   {
    "numer": "75262",
-   "nazwa": "Statek desantowy Imperium — edycja rocznicowa",
+   "nazwa": "Statek desantowy Imperium – edycja rocznicowa",
    "rok": 2019,
    "elementy": 125,
    "status": "eol",
@@ -9409,7 +9409,7 @@
   },
   {
    "numer": "75291",
-   "nazwa": "Gwiazda Śmierci — ostateczny pojedynek",
+   "nazwa": "Gwiazda Śmierci – ostateczny pojedynek",
    "rok": 2020,
    "elementy": 775,
    "status": "eol",
@@ -9417,7 +9417,7 @@
   },
   {
    "numer": "75292",
-   "nazwa": "Transportowiec łowcy nagród z serialu Mandalorian — Brzeszczot",
+   "nazwa": "Transportowiec łowcy nagród z serialu Mandalorian – Brzeszczot",
    "rok": 2020,
    "elementy": 1023,
    "status": "eol",
@@ -9969,7 +9969,7 @@
   },
   {
    "numer": "75327",
-   "nazwa": "Hełm Luke'a Skywalkera — Czerwony Pięć",
+   "nazwa": "Hełm Luke'a Skywalkera – Czerwony Pięć",
    "rok": 2022,
    "elementy": 675,
    "status": "eol",
@@ -10265,7 +10265,7 @@
   },
   {
    "numer": "75345",
-   "nazwa": "Zestaw bitewny — żołnierze-klony z 501. legionu",
+   "nazwa": "Zestaw bitewny – żołnierze-klony z 501. legionu",
    "rok": 2023,
    "elementy": 119,
    "status": "dostepny",
@@ -10721,7 +10721,7 @@
   },
   {
    "numer": "75373",
-   "nazwa": "Zasadzka na Mandalorze — zestaw bitewny",
+   "nazwa": "Zasadzka na Mandalorze – zestaw bitewny",
    "rok": 2024,
    "elementy": 109,
    "status": "dostepny",
@@ -11225,7 +11225,7 @@
   },
   {
    "numer": "75412",
-   "nazwa": "Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny",
+   "nazwa": "Szturmowiec Śmierci i nocny szturmowiec – zestaw bitewny",
    "rok": 2025,
    "elementy": 119,
    "status": "dostepny",
@@ -11313,7 +11313,7 @@
   },
   {
    "numer": "75431",
-   "nazwa": "Zestaw bitewny — żołnierze-klony z 327. korpusu galaktycznego",
+   "nazwa": "Zestaw bitewny – żołnierze-klony z 327. korpusu galaktycznego",
    "rok": 2025,
    "elementy": 258,
    "status": "dostepny",
@@ -11705,7 +11705,7 @@
   },
   {
    "numer": "75449",
-   "nazwa": "Oblężenie Mandalory — zestaw bitewny",
+   "nazwa": "Oblężenie Mandalory – zestaw bitewny",
    "rok": 2026,
    "elementy": 116,
    "status": "dostepny",
@@ -13238,7 +13238,7 @@
   },
   {
    "numer": "40791",
-   "nazwa": "Czara Ognia — figurki",
+   "nazwa": "Czara Ognia – figurki",
    "rok": 2025,
    "elementy": 671,
    "status": "eol",
@@ -13343,7 +13343,7 @@
   },
   {
    "numer": "40884",
-   "nazwa": "Drift i Raven — figurki",
+   "nazwa": "Drift i Raven – figurki",
    "rok": 2025,
    "elementy": 280,
    "status": "eol",
@@ -13415,7 +13415,7 @@
   },
   {
    "numer": "40881",
-   "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
+   "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego – figurki",
    "rok": 2026,
    "elementy": 300,
    "status": "dostepny",
@@ -14242,7 +14242,7 @@
   },
   {
    "numer": "77252",
-   "nazwa": "F1: film — APXGP Team Race Car",
+   "nazwa": "F1: film – APXGP Team Race Car",
    "rok": 2026,
    "elementy": 268,
    "status": "dostepny",
@@ -18778,7 +18778,7 @@
   },
   {
    "numer": "42233",
-   "nazwa": "Potężne maszyny — Seria 1",
+   "nazwa": "Potężne maszyny – Seria 1",
    "rok": 2026,
    "status": "dostepny",
    "cena_katalogowa": 20.99
@@ -26738,7 +26738,7 @@
   },
   {
    "numer": "60481",
-   "nazwa": "Pojazdy — Ciężarówka policyjna",
+   "nazwa": "Pojazdy – Ciężarówka policyjna",
    "rok": 2026,
    "elementy": 71,
    "status": "dostepny",
@@ -26746,7 +26746,7 @@
   },
   {
    "numer": "60482",
-   "nazwa": "Pojazdy — Wóz strażacki",
+   "nazwa": "Pojazdy – Wóz strażacki",
    "rok": 2026,
    "elementy": 67,
    "status": "dostepny",
@@ -26754,7 +26754,7 @@
   },
   {
    "numer": "60483",
-   "nazwa": "Pojazdy — Ładowarka kołowa",
+   "nazwa": "Pojazdy – Ładowarka kołowa",
    "rok": 2026,
    "elementy": 61,
    "status": "dostepny",
@@ -26762,7 +26762,7 @@
   },
   {
    "numer": "60484",
-   "nazwa": "Pojazdy — Gamingowa wyścigówka",
+   "nazwa": "Pojazdy – Gamingowa wyścigówka",
    "rok": 2026,
    "elementy": 64,
    "status": "dostepny",
@@ -44292,7 +44292,7 @@
   },
   {
    "numer": "10996",
-   "nazwa": "Zygzak McQueen i Złomek — myjnia",
+   "nazwa": "Zygzak McQueen i Złomek – myjnia",
    "rok": 2023,
    "elementy": 23,
    "status": "eol",
@@ -49470,7 +49470,7 @@
   },
   {
    "numer": "71826",
-   "nazwa": "Smocze Spinjitzu — zestaw bitewny",
+   "nazwa": "Smocze Spinjitzu – zestaw bitewny",
    "rok": 2025,
    "elementy": 186,
    "status": "dostepny",
@@ -49843,7 +49843,7 @@
   },
   {
    "numer": "71858",
-   "nazwa": "Kuźnia Cztery Bronie — 15-lecie",
+   "nazwa": "Kuźnia Cztery Bronie – 15-lecie",
    "rok": 2026,
    "elementy": 1259,
    "status": "dostepny",
@@ -49859,7 +49859,7 @@
   },
   {
    "numer": "71860",
-   "nazwa": "Tytanowy mech Lloyda — 15. rocznica",
+   "nazwa": "Tytanowy mech Lloyda – 15. rocznica",
    "rok": 2026,
    "elementy": 1293,
    "status": "dostepny",
@@ -49867,7 +49867,7 @@
   },
   {
    "numer": "71861",
-   "nazwa": "Stare miasto — 15-lecie",
+   "nazwa": "Stare miasto – 15-lecie",
    "rok": 2026,
    "elementy": 4851,
    "status": "dostepny",
@@ -49875,7 +49875,7 @@
   },
   {
    "numer": "71862",
-   "nazwa": "Smoczy mech Lloyda — zestaw bitewny",
+   "nazwa": "Smoczy mech Lloyda – zestaw bitewny",
    "rok": 2026,
    "elementy": 81,
    "status": "dostepny",
@@ -49907,7 +49907,7 @@
   },
   {
    "numer": "71866",
-   "nazwa": "Ozdoba z postaciami Ninja — 15-lecie",
+   "nazwa": "Ozdoba z postaciami Ninja – 15-lecie",
    "rok": 2026,
    "elementy": 447,
    "status": "dostepny",
@@ -49915,7 +49915,7 @@
   },
   {
    "numer": "71867",
-   "nazwa": "Ninjaścigacz X-1 — 15-lecie",
+   "nazwa": "Ninjaścigacz X-1 – 15-lecie",
    "rok": 2026,
    "elementy": 691,
    "status": "dostepny",
@@ -51723,7 +51723,7 @@
   },
   {
    "numer": "10782",
-   "nazwa": "Hulk kontra Rhino — starcie pojazdów",
+   "nazwa": "Hulk kontra Rhino – starcie pojazdów",
    "rok": 2022,
    "elementy": 110,
    "status": "eol",
@@ -52916,7 +52916,7 @@
   },
   {
    "numer": "76321",
-   "nazwa": "Spider-Man kontra Doc Ock — scena w metrze",
+   "nazwa": "Spider-Man kontra Doc Ock – scena w metrze",
    "rok": 2025,
    "elementy": 393,
    "status": "dostepny",
@@ -52932,7 +52932,7 @@
   },
   {
    "numer": "76323",
-   "nazwa": "Avengers: Koniec gry — ostateczna bitwa",
+   "nazwa": "Avengers: Koniec gry – ostateczna bitwa",
    "rok": 2025,
    "elementy": 621,
    "status": "dostepny",
@@ -52948,7 +52948,7 @@
   },
   {
    "numer": "76325",
-   "nazwa": "Avengers: Czas Ultrona — Quinjet",
+   "nazwa": "Avengers: Czas Ultrona – Quinjet",
    "rok": 2025,
    "elementy": 1131,
    "status": "dostepny",
@@ -57407,7 +57407,7 @@
   },
   {
    "numer": "43301",
-   "nazwa": "Toy Story Cienki — podpórki pod książki",
+   "nazwa": "Toy Story Cienki – podpórki pod książki",
    "rok": 2026,
    "elementy": 1311,
    "status": "dostepny",
@@ -61105,7 +61105,7 @@
   },
   {
    "numer": "77981",
-   "nazwa": "Welociraptor, stegozaur i pteranodon — Centrum ratunkowe",
+   "nazwa": "Welociraptor, stegozaur i pteranodon – Centrum ratunkowe",
    "rok": 2026,
    "elementy": 171,
    "status": "dostepny",
@@ -61979,7 +61979,7 @@
   },
   {
    "numer": "66809",
-   "nazwa": "Ozdobne rośliny — zestaw kolekcjonerski",
+   "nazwa": "Ozdobne rośliny – zestaw kolekcjonerski",
    "rok": 2025,
    "elementy": 599,
    "status": "eol"
@@ -62146,7 +62146,7 @@
   },
   {
    "numer": "40887",
-   "nazwa": "SMART Play: Ditto jako Squirtle — maraton filmowy",
+   "nazwa": "SMART Play: Ditto jako Squirtle – maraton filmowy",
    "rok": 2026,
    "elementy": 185,
    "status": "dostepny",
@@ -62196,7 +62196,7 @@
  "Art": [
   {
    "numer": "31221",
-   "nazwa": "Gustav Klimt — Pocałunek",
+   "nazwa": "Gustav Klimt – Pocałunek",
    "rok": 2026,
    "elementy": 4000,
    "status": "dostepny",
@@ -62214,7 +62214,7 @@
   },
   {
    "numer": "21066",
-   "nazwa": "Nowy Jork — Wielkie Jabłko",
+   "nazwa": "Nowy Jork – Wielkie Jabłko",
    "rok": 2026,
    "elementy": 1465,
    "status": "dostepny",
@@ -62242,7 +62242,7 @@
  "Editions": [
   {
    "numer": "43018",
-   "nazwa": "Lionel Messi — cieszynka",
+   "nazwa": "Lionel Messi – cieszynka",
    "rok": 2026,
    "elementy": 1427,
    "status": "dostepny",
@@ -62400,7 +62400,7 @@
   },
   {
    "numer": "75644",
-   "nazwa": "Dorry kontra Brogy — Giganci z Little Garden",
+   "nazwa": "Dorry kontra Brogy – Giganci z Little Garden",
    "rok": 2026,
    "elementy": 733,
    "status": "dostepny",
@@ -62580,7 +62580,7 @@
   },
   {
    "numer": "71051",
-   "nazwa": "Seria 28 — Zwierzęta",
+   "nazwa": "Seria 28 – Zwierzęta",
    "rok": 2026,
    "elementy": 9,
    "status": "dostepny",
@@ -62616,7 +62616,7 @@
   },
   {
    "numer": "72157",
-   "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
+   "nazwa": "SMART Play: Charmander i Geodude – starcie w jaskini",
    "rok": 2026,
    "elementy": 198,
    "status": "dostepny",
@@ -62624,7 +62624,7 @@
   },
   {
    "numer": "72158",
-   "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa",
+   "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly – bitwa",
    "rok": 2026,
    "elementy": 313,
    "status": "dostepny",
@@ -62648,7 +62648,7 @@
   },
   {
    "numer": "72162",
-   "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
+   "nazwa": "SMART Play: Eevee i Lapras – poszukiwanie skarbów",
    "rok": 2026,
    "elementy": 623,
    "status": "dostepny",
@@ -62672,7 +62672,7 @@
   },
   {
    "numer": "72165",
-   "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
+   "nazwa": "SMART Play: Umbreon kontra Garchomp – walka o mistrzostwo",
    "rok": 2026,
    "elementy": 831,
    "status": "dostepny",
@@ -62680,7 +62680,7 @@
   },
   {
    "numer": "72166",
-   "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
+   "nazwa": "SMART Play: Cubone i Gengar – upiorne starcie",
    "rok": 2026,
    "elementy": 782,
    "status": "dostepny",
@@ -62688,7 +62688,7 @@
   },
   {
    "numer": "72167",
-   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
+   "nazwa": "SMART Play: Charizard kontra Jolteon – ostateczna bitwa",
    "rok": 2026,
    "elementy": 751,
    "status": "dostepny",
@@ -62758,7 +62758,7 @@
  "The Legend of Zelda": [
   {
    "numer": "77093",
-   "nazwa": "Ocarina of Time — The Final Battle",
+   "nazwa": "Ocarina of Time – The Final Battle",
    "rok": 2026,
    "elementy": 1003,
    "status": "dostepny",

@@ -1,12 +1,12 @@
 ---
 // Karta artykułu: data i kategoria, pod nimi zdjęcie z tematu tekstu,
 // dalej tytuł i opis. Ten sam komponent na stronie głównej, w /artykuly/
-// i w /prezentownikach/ — trzy listingi wyglądają identycznie.
+// i w /prezentownikach/ – trzy listingi wyglądają identycznie.
 const { zajawka, poziom = 3 } = Astro.props;
 const Tytul = `h${poziom}`;
 // data-kategoria zasila filtr kategorii w /artykuly/ (FiltrKategorii.astro).
-// Kategoria z karty (`karta_znacznik`) potrafi być inna niż nazwa kategorii —
-// np. „7 lat" zamiast „Prezentownik" — dlatego do filtrowania służy osobne
+// Kategoria z karty (`karta_znacznik`) potrafi być inna niż nazwa kategorii –
+// np. „7 lat" zamiast „Prezentownik" – dlatego do filtrowania służy osobne
 // pole `grupa`, a nie tekst widoczny w plakietce.
 const grupa = zajawka.grupa ?? zajawka.kategoria;
 ---

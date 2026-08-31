@@ -26,12 +26,12 @@ const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
 
 const feedSety = ofertyFeed?.sety ?? {};
 
-// Wiersze do wspólnej tabeli — ten sam kształt co na /wycofania/.
+// Wiersze do wspólnej tabeli – ten sam kształt co na /wycofania/.
 const wiersze = hist.map((s) => {
   let oferta = najlepszaOferta(s.numer, { sety, feed: feedSety });
   const cenaKat = cenaKatalogowaSetu(s.numer, { sety });
   // dopóki LEGO jeszcze sprzedaje zestaw, brak ofert sklepów nie oznacza
-  // braku ceny — pokazujemy cenę katalogową z linkiem do LEGO.com
+  // braku ceny – pokazujemy cenę katalogową z linkiem do LEGO.com
   if (!oferta && s.status !== 'eol' && cenaKat) {
     oferta = { sklep: 'lego', cena: cenaKat, data: null };
   }
@@ -55,7 +55,7 @@ const wiersze = hist.map((s) => {
 });
 ---
 <Base
-  title={`LEGO ${seria} — ceny i katalog serii`}
+  title={`LEGO ${seria} – ceny i katalog serii`}
   description={`Zestawy LEGO z serii ${seria}: aktualne ceny i promocje${hist.length ? ` oraz kompletny katalog wszystkich ${hist.length} zestawów serii z lat ${rokMin}–${new Date().getFullYear()}, ze statusem wycofania (EOL)` : ''}.`}
   jsonld={{
     '@context': 'https://schema.org',
@@ -110,8 +110,8 @@ const wiersze = hist.map((s) => {
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
       </div>
-      <p>Wszystkie zestawy serii — także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
-      <p class="disclosure">Ceny prowadzą przez linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej — zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją — wiążąca jest zawsze cena w koszyku sklepu.</p>
+      <p>Wszystkie zestawy serii – także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
+      <p class="disclosure">Ceny prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej – zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją – wiążąca jest zawsze cena w koszyku sklepu.</p>
       <TabelaSetow wiersze={wiersze} />
       <p class="lista-pusta" data-pusto hidden>Żaden zestaw z tej serii nie pasuje do wyszukiwania.</p>
     </section>

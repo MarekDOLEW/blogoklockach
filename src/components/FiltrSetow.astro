@@ -1,19 +1,19 @@
 ---
-// Pasek wyszukiwania zestawów po numerze i nazwie — wspólny dla wycofań i stron serii.
+// Pasek wyszukiwania zestawów po numerze i nazwie – wspólny dla wycofań i stron serii.
 //
 // Przykleja się pod menu (position: sticky + --h-naglowek z Base.astro), więc zostaje
 // widoczny przy przewijaniu długich list.
 //
 // Działa na dowolnych elementach oznaczonych w HTML:
-//   [data-wiersz]            — filtrowana pozycja (wiersz tabeli albo karta);
+//   [data-wiersz]            – filtrowana pozycja (wiersz tabeli albo karta);
 //                              wymaga data-numer, data-nazwa, opcjonalnie data-seria
-//   [data-wiersz][data-licz="0"] — filtrowana, ale pomijana w liczniku i podpowiedziach
+//   [data-wiersz][data-licz="0"] – filtrowana, ale pomijana w liczniku i podpowiedziach
 //                              (np. karty „śledzone zestawy", które dublują wiersz tabeli)
-//   [data-grupa]             — sekcja chowana, gdy nie została w niej żadna pozycja;
+//   [data-grupa]             – sekcja chowana, gdy nie została w niej żadna pozycja;
 //                              data-grupa="Icons" wiąże sekcję z serią z listy wyboru
-//   [data-pusto]             — komunikat pokazywany, gdy grupa jest widoczna, ale pusta
+//   [data-pusto]             – komunikat pokazywany, gdy grupa jest widoczna, ale pusta
 //
-// Pełna lista jest w HTML (SEO) — skrypt wyłącznie ukrywa pozycje.
+// Pełna lista jest w HTML (SEO) – skrypt wyłącznie ukrywa pozycje.
 
 const {
   serie = null,
@@ -94,7 +94,7 @@ const {
       n: norm(el.dataset.nazwa),
     }));
     // podpowiedzi biorą tylko pozycje „liczone" (bez kart dublujących wiersz tabeli),
-    // licznik liczy unikalne numery zestawów — karta i wiersz tego samego setu to jeden zestaw
+    // licznik liczy unikalne numery zestawów – karta i wiersz tego samego setu to jeden zestaw
     const liczone = indeks.filter((w) => w.liczony);
     const RAZEM = new Set(indeks.map((w) => w.numer)).size;
 
@@ -130,7 +130,7 @@ const {
       $wyczysc.hidden = !filtrAktywny;
       $licznik.textContent = filtrAktywny ? `Pokazano ${widoczne} z ${RAZEM} ${RZECZOWNIK}` : '';
 
-      // stan w adresie — łatwo podlinkować np. /wycofania/?seria=Icons&q=sokol
+      // stan w adresie – łatwo podlinkować np. /wycofania/?seria=Icons&q=sokol
       const url = new URL(location.href);
       if (s) url.searchParams.set('seria', s);
       else url.searchParams.delete('seria');

@@ -1,4 +1,4 @@
-// Tabela cen zestawu w treści artykułu — renderowana przy budowaniu.
+// Tabela cen zestawu w treści artykułu – renderowana przy budowaniu.
 //
 // W markdownie wystarczy jednolinijkowy znacznik:
 //   <div class="ceny-setu" data-set="42215"></div>
@@ -7,14 +7,14 @@
 // latami, a cena zmienia się codziennie. Ręcznie wklepana tabela z datą
 // („Cena (20.08)") starzeje się w tydzień i mówi czytelnikowi wprost, że
 // patrzy na coś nieaktualnego. Ten znacznik czyta te same dane co hub
-// /zestaw/<nr>/, a Łowca odświeża je i pushuje praktycznie codziennie —
+// /zestaw/<nr>/, a Łowca odświeża je i pushuje praktycznie codziennie –
 // każdy push przebudowuje serwis, więc tabela w artykule jest tak samo świeża
 // jak na hubie. Stała zostaje drabina cenowa i próg zakupu, bo to ocena, nie
 // odczyt z feedu.
 //
 // HTML jest zgodny z src/components/TabelaCen.astro (te same klasy), żeby
 // obie tabele wyglądały identycznie i miały jeden komplet stylów w global.css.
-// Przy zmianie komponentu trzeba poprawić też ten plik — dlatego trzymamy tu
+// Przy zmianie komponentu trzeba poprawić też ten plik – dlatego trzymamy tu
 // wyłącznie renderowanie, a progi odsiewu importujemy z src/lib/odsiew.js.
 
 import { readFileSync } from 'node:fs';
@@ -72,7 +72,7 @@ function polaczOferty(nr) {
 }
 
 // Zestaw wycofany nie dostaje wiersza LEGO.com ani dokładanych sklepów bez ceny
-// (wyszukiwarki bywają wtedy puste) — tak samo jak na hubie.
+// (wyszukiwarki bywają wtedy puste) – tak samo jak na hubie.
 const wycofany = (nr) =>
   !sety[nr] && (wycofaniaIdx.get(nr)?.kiedy === 'wycofany' || (!wycofaniaIdx.has(nr) && katalogIdx.get(nr)?.status === 'eol'));
 
@@ -85,8 +85,8 @@ const esc = (t) =>
   String(t ?? '').replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 
 const UWAGA_SKLEP = {
-  mediaexpert: 'w sklepie bywają kody rabatowe — może być jeszcze taniej',
-  planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku — na stronie może być taniej',
+  mediaexpert: 'w sklepie bywają kody rabatowe – może być jeszcze taniej',
+  planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku – na stronie może być taniej',
   lego: 'oficjalna strona LEGO',
 };
 
@@ -105,7 +105,7 @@ function tabela(nr) {
   const zLego =
     dodajLego && !oferty.some((o) => o.sklep === 'lego') && rrp ? [{ sklep: 'lego', cena: rrp, data: null }] : [];
   const wszystkie = [...oferty, ...zLego];
-  // Ceneo to porównywarka, nie sklep — zawsze na końcu, poza sortowaniem.
+  // Ceneo to porównywarka, nie sklep – zawsze na końcu, poza sortowaniem.
   const ceneo = wszystkie.find((o) => o.sklep === 'ceneo') ?? null;
   const posortowane = wszystkie.filter((o) => o.sklep !== 'ceneo').sort((a, b) => a.cena - b.cena);
   if (posortowane.length === 0 && !ceneo) return '';
@@ -118,7 +118,7 @@ function tabela(nr) {
   const nazwa = (s) => esc(sklepy[s]?.nazwa ?? s);
   const uwaga = (s) =>
     UWAGA_SKLEP[s] ? `<span style="display:block;font-size:0.72rem;opacity:0.65;">${esc(UWAGA_SKLEP[s])}</span>` : '';
-  const kolRabat = (c) => (rrp ? `<td>${rabat(c) > 0 ? `−${rabat(c)}%` : '—'}</td>` : '');
+  const kolRabat = (c) => (rrp ? `<td>${rabat(c) > 0 ? `−${rabat(c)}%` : '–'}</td>` : '');
 
   const wiersze = posortowane.map(
     (o, i) =>
@@ -132,13 +132,13 @@ function tabela(nr) {
 
   const wierszeBezCeny = bezCeny.map(
     (s) =>
-      `<tr><td><strong>${nazwa(s)}</strong>${uwaga(s)}</td><td class="cena">—</td>${rrp ? '<td>—</td>' : ''}` +
+      `<tr><td><strong>${nazwa(s)}</strong>${uwaga(s)}</td><td class="cena">–</td>${rrp ? '<td>–</td>' : ''}` +
       `<td><a class="cta" href="/idz/${s}/${nr}" rel="${rel(s)}">Sprawdź cenę →</a></td></tr>`,
   );
 
   const wierszCeneo = ceneo
     ? `<tr class="wiersz-ceneo"><td><strong>${nazwa('ceneo')}</strong>` +
-      '<span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka — najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>' +
+      '<span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>' +
       `</td><td class="cena">${fmt(ceneo.cena)}</td>${kolRabat(ceneo.cena)}` +
       `<td><a class="cta" href="/idz/ceneo/${nr}" rel="sponsored nofollow">Porównaj oferty →</a></td></tr>`
     : '';
@@ -146,13 +146,13 @@ function tabela(nr) {
   const stopka =
     (rrp ? `* Rabat liczony od ceny katalogowej LEGO (${fmt(rrp)}). ` : '') +
     'Tabela odświeża się razem z cenami w serwisie. Sklepy prowadzą też własne promocje i kody rabatowe, ' +
-    'których nie widać w cennikach, i zmieniają ceny także w ciągu dnia — kwota powyżej jest ostatnią, ' +
+    'których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, ' +
     'jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.';
 
   return (
     '<div class="karta karta--ceny">' +
     '<table class="tabela-cen">' +
-    `<caption>Aktualne ceny — LEGO ${nr}</caption>` +
+    `<caption>Aktualne ceny – LEGO ${nr}</caption>` +
     `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th></th></tr></thead>` +
     `<tbody>${wiersze.join('')}${wierszeBezCeny.join('')}${wierszCeneo}</tbody>` +
     '</table>' +
@@ -170,7 +170,7 @@ export default function remarkCeny() {
         wezel.value = wezel.value.replace(ZNACZNIK, (_, nr) => {
           const html = tabela(nr);
           if (!html) {
-            console.warn(`[remark-ceny] brak ofert dla ${nr} — pomijam tabelę (${plik?.path ?? '?'})`);
+            console.warn(`[remark-ceny] brak ofert dla ${nr} – pomijam tabelę (${plik?.path ?? '?'})`);
           }
           return html;
         });

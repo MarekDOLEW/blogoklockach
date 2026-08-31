@@ -1,13 +1,13 @@
 // Obraz OG konkretnej strony (artykuł, prezentownik) albo undefined.
 //
 // Obrazy leżą w public/og/<slug>.png i powstają z `python3 scripts/generuj-og.py`
-// — commitujemy je, więc build na Cloudflare nie potrzebuje Pythona ani Pillow.
+// – commitujemy je, więc build na Cloudflare nie potrzebuje Pythona ani Pillow.
 //
 // Katalog czytamy raz, przy starcie budowania, i zwracamy undefined dla stron
 // bez obrazu. Dzięki temu Base.astro schodzi na swoją domyślkę `/og.png`
 // i dodanie tekstu bez wygenerowania obrazu nie daje martwego <meta og:image>.
 //
-// Strony zestawów /zestaw/<nr>/ nie korzystają z tego modułu — mają własny
+// Strony zestawów /zestaw/<nr>/ nie korzystają z tego modułu – mają własny
 // obraz (zdjęcie produktowe przez trasę /img/), a hubów jest ~4870, więc
 // komplet wygenerowanych plików ważyłby dziesiątki megabajtów.
 

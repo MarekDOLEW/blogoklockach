@@ -2,10 +2,10 @@
 //
 // Slug jest bez znaków diakrytycznych („pazdziernik-2026"), bo adres ma się
 // dać przepisać i wkleić bez kodowania procentowego. Nazwa wyświetlana ma
-// pełną polszczyznę i odmianę — nagłówek brzmi „Premiery LEGO we wrześniu
+// pełną polszczyznę i odmianę – nagłówek brzmi „Premiery LEGO we wrześniu
 // 2026", nie „Premiery LEGO wrzesień 2026".
 
-// Miesiąc z mniejszą liczbą premier nie dostaje własnego adresu — cienka
+// Miesiąc z mniejszą liczbą premier nie dostaje własnego adresu – cienka
 // podstrona z dwoma zestawami szkodzi w wyszukiwarce bardziej, niż pomaga.
 export const PROG_SETOW = 3;
 

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO Icons 11381 Jaguar E-Type — piękny klasyk, którego najlepiej nie oglądać tylko z przodu"
+title: "LEGO Icons 11381 Jaguar E-Type – piękny klasyk, którego najlepiej nie oglądać tylko z przodu"
 opis: "1673 elementy, ciemnozielone nadwozie i historia konkretnego auta 77 RW z Genewy 1961. Recenzja Jaguara E-Type z serii Icons + progi cenowe: 439 zł zamiast 599,99 zł już teraz."
 data: "2026-08-20"
 kategoria: "Recenzje"
@@ -9,21 +9,21 @@ faq:
     a: "Cena katalogowa to 599,99 zł, ale już krótko po premierze zestaw kosztował w dużych sklepach 439 zł (−27%). Naszym zdaniem praktyczny próg zakupu to około 440 zł, a oferty w okolicach 420 zł są naprawdę atrakcyjne."
   - q: "Jak duży jest model Jaguara 11381?"
     a: "Po zbudowaniu ma około 37 cm długości, 14 cm szerokości i 9 cm wysokości. Składa się z 1673 elementów i jest oznaczony jako 18+."
-  - q: "Co potrafi model — jakie ma funkcje?"
-    a: "Działający układ kierowniczy, otwierane drzwi, maskę i bagażnik, składany materiałowy dach, sześciocylindrowy silnik rzędowy pod maską i pięcioelementowy zestaw narzędzi w bagażniku. Ważne oznaczenia są nadrukami — zestaw nie ma naklejek."
+  - q: "Co potrafi model – jakie ma funkcje?"
+    a: "Działający układ kierowniczy, otwierane drzwi, maskę i bagażnik, składany materiałowy dach, sześciocylindrowy silnik rzędowy pod maską i pięcioelementowy zestaw narzędzi w bagażniku. Ważne oznaczenia są nadrukami – zestaw nie ma naklejek."
   - q: "Jaki samochód odwzorowuje LEGO 11381?"
-    a: "Konkretny historyczny egzemplarz: Jaguara E-Type z rejestracją 77 RW, samochód demonstracyjny związany z premierą modelu na salonie w Genewie w marcu 1961 — najstarszy zachowany otwarty egzemplarz E-Type."
+    a: "Konkretny historyczny egzemplarz: Jaguara E-Type z rejestracją 77 RW, samochód demonstracyjny związany z premierą modelu na salonie w Genewie w marcu 1961 – najstarszy zachowany otwarty egzemplarz E-Type."
 ---
 
-Jaguar E-Type jest jednym z tych samochodów, które stawiają projektanta LEGO w niewygodnej sytuacji. Można bez większego problemu odwzorować jego podstawowe proporcje: bardzo długą maskę, niski kokpit i krótki tył. Znacznie trudniej przełożyć na klocki to, co naprawdę decyduje o charakterze auta — niemal płynne przechodzenie jednej krzywizny w drugą.
+Jaguar E-Type jest jednym z tych samochodów, które stawiają projektanta LEGO w niewygodnej sytuacji. Można bez większego problemu odwzorować jego podstawowe proporcje: bardzo długą maskę, niski kokpit i krótki tył. Znacznie trudniej przełożyć na klocki to, co naprawdę decyduje o charakterze auta – niemal płynne przechodzenie jednej krzywizny w drugą.
 
 Dlatego **LEGO Icons 11381 Jaguar E-Type** jest ciekawszy niż kolejny duży samochód do postawienia na półce. To model, który podejmuje trudne zadanie i w większości sobie z nim radzi. Nie wszystko jest równie udane, a przednia część samochodu zdecydowanie nie należy do najmocniejszych. Za to sam proces budowania, rozwiązania konstrukcyjne i kilka bardzo dobrze uchwyconych elementów oryginału stawiają ten zestaw wysoko wśród współczesnych samochodów [LEGO Icons](/serie/icons/).
 
 Jest jeszcze jeden szczegół, który dodaje Jaguarowi kolekcjonerskiego charakteru: za projektem LEGO stoi konkretny samochód z interesującą historią.
 
-![LEGO Icons 11381 Jaguar E-Type — widok z przodu](/img/11381-1.jpg)
+![LEGO Icons 11381 Jaguar E-Type – widok z przodu](/img/11381-1.jpg)
 
-## LEGO 11381 Jaguar E-Type — podstawowe dane
+## LEGO 11381 Jaguar E-Type – podstawowe dane
 
 | | LEGO Icons 11381 Jaguar E-Type |
 |---|---|
@@ -32,10 +32,10 @@ Jest jeszcze jeden szczegół, który dodaje Jaguarowi kolekcjonerskiego charakt
 | Elementy | 1673 |
 | Wiek | 18+ |
 | Wymiary | ok. 37 × 14 × 9 cm |
-| Naklejki | brak — oznaczenia jako nadruki |
+| Naklejki | brak – oznaczenia jako nadruki |
 | Cena katalogowa | 599,99 zł |
 
-Gotowy model ma klasyczne ciemnozielone nadwozie, felgi szprychowe, otwierane drzwi, maskę i bagażnik, działający układ kierowniczy oraz składany materiałowy dach. Pod maską znajduje się sześciocylindrowy silnik rzędowy, a w bagażniku pięcioelementowy zestaw narzędzi. Co ważne dla modelu ekspozycyjnego tej klasy, nie ma tutaj arkusza naklejek — istotne oznaczenia wykonano jako nadruki.
+Gotowy model ma klasyczne ciemnozielone nadwozie, felgi szprychowe, otwierane drzwi, maskę i bagażnik, działający układ kierowniczy oraz składany materiałowy dach. Pod maską znajduje się sześciocylindrowy silnik rzędowy, a w bagażniku pięcioelementowy zestaw narzędzi. Co ważne dla modelu ekspozycyjnego tej klasy, nie ma tutaj arkusza naklejek – istotne oznaczenia wykonano jako nadruki.
 
 ## Nie dowolny E-Type, lecz 77 RW
 
@@ -51,21 +51,21 @@ Dla zestawu LEGO ma to konkretne znaczenie. Nie oglądamy swobodnej interpretacj
 
 Zdjęcia gotowego modelu mogą sugerować, że mamy do czynienia przede wszystkim z zestawem ekspozycyjnym. W praktyce bardzo ważną częścią produktu jest sam proces budowania.
 
-![LEGO 11381 — otwarta maska z sześciocylindrowym silnikiem](/img/11381-4.jpg)
+![LEGO 11381 – otwarta maska z sześciocylindrowym silnikiem](/img/11381-4.jpg)
 
 Konstrukcja szybko odchodzi od prostego stawiania kolejnych warstw. Szczególnie przód wymaga wielu zmian kierunku budowania, wykorzystania bracketów, jumperów i elementów mocowanych pod nietypowymi kątami. W niezależnych recenzjach właśnie poziom zaawansowania konstrukcji i satysfakcja płynąca ze składania należą do najczęściej chwalonych cech modelu.
 
 To ważne, ponieważ w dużych samochodach LEGO Icons gotowy rezultat nie zawsze idzie w parze z równie ciekawą drogą do niego. Tutaj jedno i drugie działa.
 
-Nie oznacza to, że budowanie przez cały czas jest idealnie płynne. Kilka etapów wymaga precyzyjnego ustawienia elementów, a montaż niektórych fragmentów — w tym okolic bagażnika — może być nieco niewygodny. Traktowałbym to jednak bardziej jako konsekwencję złożoności projektu niż istotną wadę.
+Nie oznacza to, że budowanie przez cały czas jest idealnie płynne. Kilka etapów wymaga precyzyjnego ustawienia elementów, a montaż niektórych fragmentów – w tym okolic bagażnika – może być nieco niewygodny. Traktowałbym to jednak bardziej jako konsekwencję złożoności projektu niż istotną wadę.
 
 Wartość budowania jest zdecydowanie wysoka. Jeśli ktoś kupuje duży samochód LEGO nie tylko po to, żeby później stał na półce, Jaguar ma tu sporo do zaoferowania.
 
-## Sylwetka E-Type'a — zaskakująco dobra
+## Sylwetka E-Type'a – zaskakująco dobra
 
 W E-Type'ie najłatwiej byłoby zepsuć proporcje. Ten samochód jest niemal zbudowany wokół swojej długiej maski i bardzo nisko poprowadzonej linii nadwozia. Skrócenie przodu albo podniesienie kabiny natychmiast odebrałoby mu charakter.
 
-![LEGO 11381 Jaguar E-Type na komodzie — ujęcie aranżacyjne](/img/11381-3.jpg)
+![LEGO 11381 Jaguar E-Type na komodzie – ujęcie aranżacyjne](/img/11381-3.jpg)
 
 LEGO poradziło sobie z tym dobrze. Z boku model jest bardzo czytelny. Długa maska, cofnięta kabina, krótszy tył oraz duże koła tworzą właściwe proporcje. Dobrze prezentują się również zaokrąglone tylne partie nadwozia. Dark Green pasuje do brytyjskiego roadstera znakomicie, a nowe felgi szprychowe robią dużo więcej dla charakteru modelu niż wiele drobniejszych detali.
 
@@ -73,7 +73,7 @@ Właśnie z boku i pod kątem trzech czwartych Jaguar wygląda najlepiej. Wtedy 
 
 Do tego dochodzi materiałowy dach. Nie jest tylko dodatkiem odkładanym obok samochodu, ale rzeczywiście można go składać. W modelu kabrioletu jest to rozwiązanie znacznie ciekawsze niż sztywny demontowany element.
 
-![LEGO 11381 — profil z rozłożonym materiałowym dachem](/img/11381-2.jpg)
+![LEGO 11381 – profil z rozłożonym materiałowym dachem](/img/11381-2.jpg)
 
 ## A potem patrzymy na reflektory...
 
@@ -95,7 +95,7 @@ Jaguar ma działający układ kierowniczy, otwierane drzwi, bagażnik i dużą p
 
 Pod maską umieszczono sześciocylindrowy silnik rzędowy. W bagażniku znajduje się komplet niewielkich narzędzi, a sam bagażnik można otworzyć za pomocą mechanizmu uruchamianego od spodu modelu.
 
-![LEGO 11381 — detale silnika i zestaw narzędzi z bagażnika](/img/11381-5.jpg)
+![LEGO 11381 – detale silnika i zestaw narzędzi z bagażnika](/img/11381-5.jpg)
 
 Nie są to funkcje do intensywnej zabawy. W modelu 18+ ich zadaniem jest raczej pozwolić właścicielowi „odkrywać" samochód po zbudowaniu. W tej roli sprawdzają się bardzo dobrze.
 
@@ -117,15 +117,15 @@ Najczęściej wskazywany problem to reflektory i, szerzej, sposób rozwiązania 
 
 ## Ile warto zapłacić za LEGO 11381?
 
-Tutaj sytuacja zrobiła się ciekawa wyjątkowo szybko. Cena katalogowa LEGO wynosi 599,99 zł, ale już krótko po premierze zestaw pojawił się w dużych polskich sklepach wyraźnie taniej — w okolicach 440 zł, czyli około **−27%**.
+Tutaj sytuacja zrobiła się ciekawa wyjątkowo szybko. Cena katalogowa LEGO wynosi 599,99 zł, ale już krótko po premierze zestaw pojawił się w dużych polskich sklepach wyraźnie taniej – w okolicach 440 zł, czyli około **−27%**.
 
 Jaki jest sensowny próg zakupu? Przy cenie katalogowej nie spieszyłbym się z zakupem. To dobry zestaw, ale rynek szybko pokazał, że płacenie aż tyle nie jest konieczne. Moim zdaniem:
 
-- **460–470 zł** — uczciwa cena,
-- **430–440 zł** — bardzo dobra cena,
-- **około 420 zł lub mniej** — poziom, przy którym zakup jest naprawdę atrakcyjny.
+- **460–470 zł** – uczciwa cena,
+- **430–440 zł** – bardzo dobra cena,
+- **około 420 zł lub mniej** – poziom, przy którym zakup jest naprawdę atrakcyjny.
 
-Dlatego jako praktyczny próg zakupu przyjąłbym **około 440 zł** — tyle, ile zestaw kosztuje w typowej ofercie dużego sklepu. Jeśli cena spada do okolic 420 zł w dużym i wiarygodnym sklepie, nie widzę większego powodu, żeby czekać wyłącznie w nadziei na kolejne kilkanaście złotych rabatu.
+Dlatego jako praktyczny próg zakupu przyjąłbym **około 440 zł** – tyle, ile zestaw kosztuje w typowej ofercie dużego sklepu. Jeśli cena spada do okolic 420 zł w dużym i wiarygodnym sklepie, nie widzę większego powodu, żeby czekać wyłącznie w nadziei na kolejne kilkanaście złotych rabatu.
 
 <div class="ceny-setu" data-set="11381"></div>
 
@@ -143,12 +143,12 @@ Kolekcjonersko kupowałbym go przede wszystkim dlatego, że jest dobrym i histor
 
 ## Czy warto kupić LEGO 11381 Jaguar E-Type?
 
-**Tak — ale nie za każdą cenę.** Poczekałbym na promocję; w dobrej cenie Jaguar staje się propozycją, którą fanowi klasycznej motoryzacji lub kolekcjonerowi samochodów LEGO Icons mogę spokojnie polecić.
+**Tak – ale nie za każdą cenę.** Poczekałbym na promocję; w dobrej cenie Jaguar staje się propozycją, którą fanowi klasycznej motoryzacji lub kolekcjonerowi samochodów LEGO Icons mogę spokojnie polecić.
 
-![LEGO 11381 Jaguar E-Type — widok z góry](/img/11381-6.jpg)
+![LEGO 11381 Jaguar E-Type – widok z góry](/img/11381-6.jpg)
 
-Nie jest to idealna miniatura E-Type'a, ale jako połączenie ciekawego budowania, charakterystycznego pierwowzoru i udanego modelu ekspozycyjnego Jaguar broni się bardzo dobrze — nawet jeśli najlepiej nie patrzeć mu prosto w reflektory.
+Nie jest to idealna miniatura E-Type'a, ale jako połączenie ciekawego budowania, charakterystycznego pierwowzoru i udanego modelu ekspozycyjnego Jaguar broni się bardzo dobrze – nawet jeśli najlepiej nie patrzeć mu prosto w reflektory.
 
 ---
 
-*Zobacz też: [prezentownik LEGO Icons](/prezentowniki/lego-icons/) · [recenzja Technic 42215 — mechanika zamiast gładkiej karoserii](/artykuly/lego-42215-koparka-volvo-ec500-recenzja/) · [wszystkie zestawy Icons z aktualnymi cenami](/serie/icons/) · [nowości LEGO](/nowosci/)*
+*Zobacz też: [prezentownik LEGO Icons](/prezentowniki/lego-icons/) · [recenzja Technic 42215 – mechanika zamiast gładkiej karoserii](/artykuly/lego-42215-koparka-volvo-ec500-recenzja/) · [wszystkie zestawy Icons z aktualnymi cenami](/serie/icons/) · [nowości LEGO](/nowosci/)*

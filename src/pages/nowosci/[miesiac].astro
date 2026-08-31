@@ -2,14 +2,14 @@
 // Podstrona jednego miesiąca premier: /nowosci/wrzesien-2026/ itd.
 //
 // Powód istnienia: /nowosci/ pokazuje TO, CO JUŻ JEST w sprzedaży, w jednym
-// worku z ostatnich trzech miesięcy. Kupujący pyta inaczej — „co wychodzi we
-// wrześniu" — i to jest fraza sezonowa, po której konkurencja ma teksty,
+// worku z ostatnich trzech miesięcy. Kupujący pyta inaczej – „co wychodzi we
+// wrześniu" – i to jest fraza sezonowa, po której konkurencja ma teksty,
 // a my nie mieliśmy nic.
 //
 // Strona jest w całości liczona z sety.json (pole `premiera`), więc nie
 // wymaga redakcyjnego utrzymania: każda partia danych aktualizuje ją sama,
 // a nowy miesiąc dostaje własny adres, gdy tylko uzbiera PROG_SETOW pozycji.
-// Wyjątkiem są krótkie komentarze redakcyjne w KOMENTARZ — dopisujemy je tam,
+// Wyjątkiem są krótkie komentarze redakcyjne w KOMENTARZ – dopisujemy je tam,
 // gdzie miesiąc ma wyraźny charakter, i tylko wtedy.
 import Base from '../../layouts/Base.astro';
 import Okruszki from '../../components/Okruszki.astro';
@@ -43,7 +43,7 @@ const zestawy = Object.entries(sety)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .sort((a, b) => (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0));
 
-// Sąsiednie miesiące — do przechodzenia bez wracania na /nowosci/.
+// Sąsiednie miesiące – do przechodzenia bez wracania na /nowosci/.
 const wszystkie = [...new Set(Object.values(sety).map(ymSetu))]
   .filter((x) => /^\d{4}-\d{2}$/.test(x) && x >= '2026-01')
   .filter((x) => Object.values(sety).filter((s) => ymSetu(s) === x).length >= PROG_SETOW)
@@ -52,7 +52,7 @@ const poz = wszystkie.indexOf(ym);
 const poprzedni = poz > 0 ? miesiac(wszystkie[poz - 1]) : null;
 const nastepny = poz >= 0 && poz < wszystkie.length - 1 ? miesiac(wszystkie[poz + 1]) : null;
 
-// Liczby, nie oceny — wszystko poniżej wynika wprost z danych.
+// Liczby, nie oceny – wszystko poniżej wynika wprost z danych.
 const zCena = zestawy.filter((s) => s.cena_katalogowa);
 const najdrozszy = zCena[0] ?? null;
 const najtanszy = zCena[zCena.length - 1] ?? null;
@@ -63,10 +63,10 @@ const cenyAdwentowych = [...new Set(adwentowe.map((s) => s.cena_katalogowa).filt
   .sort((a, b) => a - b)
   .map(fmt);
 
-// Komentarz redakcyjny dopisujemy tylko tam, gdzie miesiąc ma charakter —
+// Komentarz redakcyjny dopisujemy tylko tam, gdzie miesiąc ma charakter –
 // pusty wpis jest w porządku, strona broni się liczbami.
 const KOMENTARZ = {
-  '2026-09': `Wrzesień jest miesiącem, w którym LEGO ustawia sobie czwarty kwartał. Wchodzą <b>kalendarze adwentowe</b> — kupowane we wrześniu, otwierane w grudniu — oraz duże ekskluzywy pod prezent dla dorosłego. Jeśli planujesz kalendarz adwentowy, wrzesień i październik to jedyne miesiące z pełną dostępnością; w listopadzie znikają najpierw te najpopularniejsze.`,
+  '2026-09': `Wrzesień jest miesiącem, w którym LEGO ustawia sobie czwarty kwartał. Wchodzą <b>kalendarze adwentowe</b> – kupowane we wrześniu, otwierane w grudniu – oraz duże ekskluzywy pod prezent dla dorosłego. Jeśli planujesz kalendarz adwentowy, wrzesień i październik to jedyne miesiące z pełną dostępnością; w listopadzie znikają najpierw te najpopularniejsze.`,
   '2026-10': `Październik to ostatni miesiąc premier, które zdążą się przecenić przed świętami. Zestaw wprowadzony teraz łapie pierwsze rabaty w okolicach Black Friday; grudniowa premiera stoi w cenie katalogowej aż do stycznia.`,
 };
 
@@ -114,7 +114,7 @@ const jsonld = {
     {ekskluzywy.length > 0 && (
       <span> {ekskluzywy.length === 1
         ? 'Jedna pozycja jest ekskluzywna'
-        : `${ekskluzywy.length} pozycji jest ekskluzywnych`} dla oficjalnego sklepu LEGO — tam nie ma czego porównywać, cena jest jedna.</span>
+        : `${ekskluzywy.length} pozycji jest ekskluzywnych`} dla oficjalnego sklepu LEGO – tam nie ma czego porównywać, cena jest jedna.</span>
     )}
   </p>
 
@@ -128,7 +128,7 @@ const jsonld = {
       : <>Ceny od {cenyAdwentowych[0]} do {cenyAdwentowych[cenyAdwentowych.length - 1]}.</>}</p>
   )}
 
-  <p>Bieżące ceny w sklepach są w tabelach na podstronach zestawów — klikasz kafelek i widzisz, gdzie dziś najtaniej. Terminy okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a to, co z rynku znika, w dziale <a href="/wycofania/">Wycofania</a>.</p>
+  <p>Bieżące ceny w sklepach są w tabelach na podstronach zestawów – klikasz kafelek i widzisz, gdzie dziś najtaniej. Terminy okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a to, co z rynku znika, w dziale <a href="/wycofania/">Wycofania</a>.</p>
 
   <div class="siatka siatka--nowosci">
     {zestawy.map((s) => (
@@ -155,5 +155,5 @@ const jsonld = {
     {nastepny ? <a href={nastepny.sciezka}>{nastepny.mianownik} {nastepny.rok} →</a> : <span></span>}
   </nav>
 
-  <p class="drobne">Zestawienie składamy z naszej bazy zestawów — data premiery pochodzi od producenta i dystrybutorów, ceny katalogowe za oficjalnym sklepem LEGO. Zestawy zapowiedziane, ale bez ogłoszonej ceny, pokazujemy bez kwoty zamiast szacować. Lista uzupełnia się automatycznie, w miarę jak kolejne premiery trafiają do bazy.</p>
+  <p class="drobne">Zestawienie składamy z naszej bazy zestawów – data premiery pochodzi od producenta i dystrybutorów, ceny katalogowe za oficjalnym sklepem LEGO. Zestawy zapowiedziane, ale bez ogłoszonej ceny, pokazujemy bez kwoty zamiast szacować. Lista uzupełnia się automatycznie, w miarę jak kolejne premiery trafiają do bazy.</p>
 </Base>

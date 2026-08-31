@@ -1,5 +1,5 @@
 ---
-// Wyszukiwarka globalna w nagłówku — jedyne miejsce w serwisie, z którego
+// Wyszukiwarka globalna w nagłówku – jedyne miejsce w serwisie, z którego
 // można znaleźć dowolny zestaw, będąc gdziekolwiek (także w artykule).
 //
 // Dlaczego lupa w nagłówku, a nie pozycja „Szukaj" w menu: na telefonie menu
@@ -7,7 +7,7 @@
 // zbyt częsta intencja, żeby kosztowała dwa dotknięcia. Lupa jest widoczna
 // zawsze, obok hamburgera.
 //
-// Bez JS przycisk jest zwykłym linkiem do /szukaj/ — ta sama wyszukiwarka
+// Bez JS przycisk jest zwykłym linkiem do /szukaj/ – ta sama wyszukiwarka
 // na osobnej stronie. Z JS klik otwiera panel pod nagłówkiem i nie zabiera
 // czytelnikowi kontekstu, w którym był.
 ---
@@ -72,7 +72,7 @@
       }
     }
 
-    // indeks (~4900 zestawów) pobieramy dopiero przy pierwszym otwarciu —
+    // indeks (~4900 zestawów) pobieramy dopiero przy pierwszym otwarciu –
     // czytelnik, który nie szuka, nie płaci za niego transferem
     function wczytaj() {
       if (indeks) return;
@@ -130,8 +130,8 @@
       $input.setAttribute('aria-expanded', 'true');
       $stopka.innerHTML =
         wszystkie.length > trafienia.length
-          ? `Pokazano ${trafienia.length} z ${wszystkie.length} — <a href="/szukaj/?q=${encodeURIComponent(fraza)}">zobacz wszystkie wyniki</a>`
-          : `${wszystkie.length} ${wszystkie.length === 1 ? 'zestaw' : 'trafień'} — Enter otwiera zaznaczony`;
+          ? `Pokazano ${trafienia.length} z ${wszystkie.length} – <a href="/szukaj/?q=${encodeURIComponent(fraza)}">zobacz wszystkie wyniki</a>`
+          : `${wszystkie.length} ${wszystkie.length === 1 ? 'zestaw' : 'trafień'} – Enter otwiera zaznaczony`;
     }
 
     function zaznacz(i) {

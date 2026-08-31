@@ -2,24 +2,24 @@
 # -*- coding: utf-8 -*-
 """Import kart katalogowo-sprzedażowych Piotra (DOCX) do karty_setow.json.
 
-Jedna ścieżka dla każdej paczki zipów — parsowanie, weryfikacja wobec danych
+Jedna ścieżka dla każdej paczki zipów – parsowanie, weryfikacja wobec danych
 repo, znane korekty szablonu, akapity redakcyjne wg progu elementów i zapis
 w formacie, którego Node nie umie utrzymać (klucze numeryczne + wcięcie 1,
-bez końcowego \n — patrz RUNBOOK "Stabilność formatu plików JSON").
+bez końcowego \n – patrz RUNBOOK "Stabilność formatu plików JSON").
 
 Struktura DOCX (paczka P07, 08.2026): nagłówek → "Opis zestawu" (akapity) →
 "Metryka zestawu" (pary klucz/wartość) → "FAQ – zakup i dalsza nawigacja"
 (pary pytanie/odpowiedź). Starsze paczki (City/Technic/SW) różniły się
-frazami szablonu — wzorce gramatyki niżej obsługują obie generacje.
+frazami szablonu – wzorce gramatyki niżej obsługują obie generacje.
 
 Weryfikacja (sekcja RAPORT przed zapisem):
   - RRP wobec łańcucha rrp_potwierdzone → sety → ceny_baza → katalog;
     rozjazd RRP BLOKUJE kartę (cena to serce serwisu, nie zgadujemy);
-  - elementy/premiera/dystrybucja wobec sety.json i katalog.json — rozjazd
+  - elementy/premiera/dystrybucja wobec sety.json i katalog.json – rozjazd
     NIE blokuje, ale ląduje w raporcie; rozstrzygaj Bricksetem
     (curl https://brickset.com/sets/<nr>-1, pola Launch/exit, Availability,
-    Pieces) i poprawiaj dane PRZED importem — skrypt sam niczego nie zgaduje;
-  - brak huba /zestaw/<nr>/ = karta bez strony — raportowane.
+    Pieces) i poprawiaj dane PRZED importem – skrypt sam niczego nie zgaduje;
+  - brak huba /zestaw/<nr>/ = karta bez strony – raportowane.
 
 Korekty szablonu mail-merge (pola w dopełniaczu po "są/tworzą"):
   aplikowane tylko na dokładnym złączeniu fraza+wartość pola, każda wypisana.
@@ -96,7 +96,7 @@ def zbuduj_kontekst():
     return {'kat': kat, 'sety': sety, 'wKat': wKat, 'rrp': rrp, 'ma_hub': ma_hub}
 
 # Nazwa serii z metryki Piotra bywa marketingowa („LEGO DC / Batman",
-# „LEGO Chinese Festivals") — mapujemy ją na klucz serii w katalog.json,
+# „LEGO Chinese Festivals") – mapujemy ją na klucz serii w katalog.json,
 # bo z niego powstaje slug /serie/<...>/ i tam muszą prowadzić linki.
 SERIA_ALIASY = {
     'DC / Batman': 'Batman',
@@ -126,7 +126,12 @@ def slug_serii(seria):
     return re.sub(r'\s+', '-', s.strip())
 
 # ---------- transformacje ----------
+def typografia(t):
+    # Serwis używa półpauzy (decyzja Marka 31.08.2026); DOCX-y Piotra niosą pauzę.
+    return t.replace('\u2014', '\u2013')
+
 def linkuj(t, seria_repo, slug, seria_ma_strone=True):
+    t = typografia(t)
     s = seria_repo
     t = re.sub(r'\[sprawdź aktualne ceny LEGO \d+ – link wewnętrzny\]',
                '<a href="#ceny">zobacz tabelę cen nad tym opisem</a>', t)
@@ -135,7 +140,7 @@ def linkuj(t, seria_repo, slug, seria_ma_strone=True):
     t = re.sub(r'\[zobacz analizę ceny(?: i próg zakupu)? – link wewnętrzny\]',
                '<a href="#ceny">sprawdź bieżące ceny na tle katalogowej w sekcji nad opisem</a>', t)
     # kategoria bez własnej strony serii (GWP „Inne", LEGO House, LEGOLAND itp.)
-    # albo etykieta opisowa — kierujemy na przegląd wszystkich serii
+    # albo etykieta opisowa – kierujemy na przegląd wszystkich serii
     if seria_ma_strone:
         t = re.sub(r'\[zobacz kategorię LEGO [^\]]+ – link wewnętrzny\]',
                    f'<a href="/serie/{slug}/">zobacz wszystkie zestawy LEGO {s}</a>', t)
@@ -154,7 +159,7 @@ GRAMATYKA_POW = [
     ('Najbliższy kontekst tworzą ', 'Najbliższy kontekst zbudujesz z '),
     ('Naturalnym punktem odniesienia są ', 'Naturalnym punktem odniesienia jest porównanie do '),
 ]
-# wartości pola-odbiorcy w dopełniaczu nie kleją się z "grupy, którą tworzą X" —
+# wartości pola-odbiorcy w dopełniaczu nie kleją się z "grupy, którą tworzą X" –
 # "trafi do X" przyjmuje dopełniacz; wykrycie po pierwszym słowie wartości
 DOPELNIACZ_1SLOWO = re.compile(r'^(rodzin|par|miłośników|fanów|kolekcjonerów|dorosłych|graczy|osób|dzieci,|dzieci\s+i\s+dorosłych)')
 
@@ -193,14 +198,14 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
              + f' spośród {len(rocznik)}, o których wiemy w tym roku')
         if 1 < poz <= 3 and wieksze:
             w0 = wieksze[0]
-            a += (f' — więcej elementów ma {"tylko " if poz == 2 else "m.in. "}'
+            a += (f' – więcej elementów ma {"tylko " if poz == 2 else "m.in. "}'
                   f'<a href="/zestaw/{w0["numer"]}/">LEGO {w0["numer"]} {w0["nazwa"]}</a> ({w0["elementy"]} el.)')
         a += '.'
         if cel and med:
             rel = 'niżej' if cel < med else 'wyżej'
             a += (f' Przelicznik ceny katalogowej na element wypada u niego {rel} niż mediana serii'
                   f' ({cel:.2f} zł wobec {med:.2f} zł)'.replace('.', ',')
-                  + ' — to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką.')
+                  + ' – to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką.')
         out.append(a)
     if el and el > 1200 and rrp:
         sasiedzi = sorted([x for x in rocznik if x.get('cena_katalogowa') and x['numer'] != nr],
@@ -231,7 +236,7 @@ def main():
             pliki += glob.glob(os.path.join(a, '**', '*.docx'), recursive=True)
         else:
             pliki.append(a)
-    # macOS-owe zrzuty AppleDouble (._nazwa.docx) nie są dokumentami — odsiej
+    # macOS-owe zrzuty AppleDouble (._nazwa.docx) nie są dokumentami – odsiej
     pliki = sorted({p2 for p2 in pliki if not os.path.basename(p2).startswith('._')})
     print(f'plików DOCX: {len(pliki)}')
     ctx = zbuduj_kontekst()
@@ -245,26 +250,27 @@ def main():
         if not nr or len(d['akapity']) < 2 or len(d['faq']) < 3 or len(m) < 6:
             blokady.append((d['plik'], 'niekompletna struktura DOCX')); continue
         if nr in karty:
-            ostrz.append((nr, 'karta już istnieje — pominięta')); continue
+            ostrz.append((nr, 'karta już istnieje – pominięta')); continue
         seria_pelna = m.get('Seria', '')
         seria_repo = seria_kanoniczna(seria_pelna, ctx)
         slug = slug_serii(seria_repo)
         if seria_repo not in ctx['kat']:
-            ostrz.append((nr, f'seria „{seria_pelna}” nieznana w katalog.json — linki /serie/{slug}/ mogą prowadzić w próżnię'))
-        # RRP — bramka twarda
+            ostrz.append((nr, f'seria „{seria_pelna}” nieznana w katalog.json – linki /serie/{slug}/ mogą prowadzić w próżnię'))
+        # RRP – bramka twarda
         mc = re.search(r'([\d\s]+,\d{2})\s*zł', m.get('Polska cena katalogowa RRP', '') or m.get('Cena / sposób uzyskania', ''))
         rrp_p = float(mc.group(1).replace(' ', '').replace(',', '.')) if mc else None
         rrp_my = ctx['rrp'](nr)
         if rrp_p and rrp_my and abs(rrp_p - rrp_my) > 0.01:
-            blokady.append((nr, f'RRP: Piotr {rrp_p} vs my {rrp_my} — rozstrzygnij przed importem')); continue
+            blokady.append((nr, f'RRP: Piotr {rrp_p} vs my {rrp_my} – rozstrzygnij przed importem')); continue
         # miękkie ostrzeżenia
         k = ctx['wKat'].get(nr); s = ctx['sety'].get(nr)
         el = int(m.get('Liczba elementów', '0').replace(' ', '') or 0)
         if k and k.get('elementy') and el and k['elementy'] != el:
-            ostrz.append((nr, f'elementy: Piotr {el} vs katalog {k["elementy"]} — sprawdź Brickset'))
-        if not ctx['ma_hub'](nr): ostrz.append((nr, 'BRAK HUBA /zestaw/ — karta nie będzie widoczna'))
+            ostrz.append((nr, f'elementy: Piotr {el} vs katalog {k["elementy"]} – sprawdź Brickset'))
+        if not ctx['ma_hub'](nr): ostrz.append((nr, 'BRAK HUBA /zestaw/ – karta nie będzie widoczna'))
         if s and s.get('ekskluzyw') and 'regularna' in m.get('Dystrybucja', ''):
-            ostrz.append((nr, 'dystrybucja: Piotr regularna vs nasz ekskluzyw — sprawdź Brickset'))
+            ostrz.append((nr, 'dystrybucja: Piotr regularna vs nasz ekskluzyw – sprawdź Brickset'))
+        m = collections.OrderedDict((kl, typografia(w)) for kl, w in m.items())
         nazwa = (k or {}).get('nazwa') or (s or {}).get('nazwa') or m['Nazwa']
         if nazwa.replace("'", '’') != m['Nazwa'].replace("'", '’').replace('™', '').strip():
             ostrz.append((nr, f'nazwa: Piotr „{m["Nazwa"]}” → kanoniczna „{nazwa}”'))
@@ -284,7 +290,7 @@ def main():
             ('seria', seria_repo), ('nazwa', nazwa), ('elementy', el),
             ('akapity', ak), ('metryka', m), ('faq', faq)])
 
-    print(f'\nRAPORT — do wgrania: {len(nowe)}, zablokowane: {len(blokady)}, ostrzeżeń: {len(ostrz)}')
+    print(f'\nRAPORT – do wgrania: {len(nowe)}, zablokowane: {len(blokady)}, ostrzeżeń: {len(ostrz)}')
     for nr, o in blokady: print(f'  BLOKADA {nr}: {o}')
     for nr, o in ostrz: print(f'  uwaga {nr}: {o}')
     if sucho:
@@ -298,7 +304,7 @@ def main():
     karty['_meta']['serie_wgrane'] = serie
     with open(os.path.join(DATA, 'karty_setow.json'), 'w', encoding='utf-8') as f:
         f.write(json.dumps(karty, ensure_ascii=False, indent=1))
-    print(f'\nzapisano — kart w rejestrze: {len(karty) - 1}')
+    print(f'\nzapisano – kart w rejestrze: {len(karty) - 1}')
     print('dalej: node --run build (kontrola), commit, push; rozbieżności z raportu rozstrzygaj Bricksetem')
 
 if __name__ == '__main__':

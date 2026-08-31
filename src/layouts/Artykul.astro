@@ -4,11 +4,11 @@ import { ogStrony, slugZeSciezki } from '../lib/og.js';
 const { frontmatter } = Astro.props;
 
 // Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
-// zaktualizowano (YYYY-MM-DD), faq: [{q, a}] i tagi: ["Dla rodziców"] —
+// zaktualizowano (YYYY-MM-DD), faq: [{q, a}] i tagi: ["Dla rodziców"] –
 // z nich budujemy dane strukturalne, żeby każdy artykuł (także huby-poradniki)
 // wchodził do Google z pełnym schema bez ręcznego JSON-LD w treści.
 //
-// Tag mówi, DO KOGO tekst jest pisany, a kategoria — CZYM jest. Dlatego stoi
+// Tag mówi, DO KOGO tekst jest pisany, a kategoria – CZYM jest. Dlatego stoi
 // obok plakietki kategorii, a nie zamiast niej: „Premiera" + „Dla rodziców"
 // to dwie różne informacje i czytelnik potrzebuje obu.
 const tagi = frontmatter.tagi ?? [];
@@ -76,14 +76,14 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
     <slot />
     <!-- Nota afiliacyjna zamyka tekst: stoi pod treścią i pod linią „Zobacz też",
          czyli jako ostatni element artykułu. -->
-    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej.</p>
+    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis – nie płacisz ani grosza więcej.</p>
   </article>
 </Base>
 
 <script>
   // Slajdery zdjęć zestawów wstawione w treść znacznikiem
   // <div class="galeria-setow" data-sety="…"> (scripts/remark-galeria.mjs).
-  // Samo przewijanie robi scroll-snap — palcem i trackpadem działa bez JS-a.
+  // Samo przewijanie robi scroll-snap – palcem i trackpadem działa bez JS-a.
   // Skrypt dokłada tylko strzałki, kropki i obsługę klawiszy.
   for (const galeria of document.querySelectorAll('[data-galeria]')) {
     const tor = galeria.querySelector('[data-gs-tor]');
@@ -91,7 +91,7 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
     const kropki = [...galeria.querySelectorAll('[data-gs-kropka]')];
     if (slajdy.length < 2) continue;
 
-    // pozycje liczymy względem pierwszego slajdu — szerokość slajdu zmienia się
+    // pozycje liczymy względem pierwszego slajdu – szerokość slajdu zmienia się
     // z szerokością ekranu, więc przewijanie „o jedno okno" by nie trafiało
     const bazowy = slajdy[0].offsetLeft;
     let indeks = 0;
@@ -101,7 +101,7 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 
     const zaznacz = () => {
       kropki.forEach((k, i) => k.classList.toggle('gs-kropka--aktywna', i === indeks));
-      // strzałka na krańcu tylko myli — wygaszamy ją zamiast udawać, że działa
+      // strzałka na krańcu tylko myli – wygaszamy ją zamiast udawać, że działa
       if (wstecz) wstecz.disabled = indeks === 0;
       if (dalej) dalej.disabled = indeks === slajdy.length - 1;
     };

@@ -1,13 +1,13 @@
 ---
 // Przyciski filtrujące listę artykułów po kategorii.
 //
-// Lista kategorii jest STAŁA — bierze się z src/data/kategorie_artykulow.json,
+// Lista kategorii jest STAŁA – bierze się z src/data/kategorie_artykulow.json,
 // w ustalonej kolejności. Kategoria bez artykułów też ma przycisk (wyszarzony,
-// nieklikalny): czytelnik od razu widzi, jakie działy prowadzimy, a redakcja —
+// nieklikalny): czytelnik od razu widzi, jakie działy prowadzimy, a redakcja –
 // gdzie są dziury do zapełnienia.
 //
 // Filtruje kartę oznaczoną `data-kategoria` (ZajawkaArtykulu.astro) wewnątrz
-// kontenera wskazanego przez `cel`. Cała lista jest w HTML — skrypt wyłącznie
+// kontenera wskazanego przez `cel`. Cała lista jest w HTML – skrypt wyłącznie
 // ukrywa pozycje, więc bez JS-a strona pokazuje wszystko, a Google widzi
 // komplet artykułów.
 //
@@ -25,7 +25,7 @@ for (const z of zajawki) {
 }
 const kategorie = rejestr.kategorie.map((k) => ({ ...k, ile: licznik.get(k.nazwa) ?? 0 }));
 
-// Kategoria spoza rejestru to błąd redakcyjny — lepiej, żeby było widać go na
+// Kategoria spoza rejestru to błąd redakcyjny – lepiej, żeby było widać go na
 // stronie niż żeby artykuł zniknął z każdego filtra.
 const nieznane = [...licznik.keys()].filter((n) => !rejestr.kategorie.some((k) => k.nazwa === n));
 ---
@@ -41,7 +41,7 @@ const nieznane = [...licznik.keys()].filter((n) => !rejestr.kategorie.some((k) =
       data-kat={k.nazwa}
       aria-pressed="false"
       disabled={k.ile === 0}
-      title={k.ile === 0 ? `${k.opis} — brak artykułów` : k.opis}
+      title={k.ile === 0 ? `${k.opis} – brak artykułów` : k.opis}
     >
       {k.nazwa} <span class="fk-licz">{k.ile}</span>
     </button>

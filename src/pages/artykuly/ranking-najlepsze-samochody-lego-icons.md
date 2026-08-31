@@ -8,13 +8,13 @@ okladka: "10295"
 tagi: ["Dla kolekcjonera"]
 faq:
   - q: "Który samochód LEGO Icons jest najlepszy?"
-    a: "LEGO 10295 Porsche 911. Nie jest najbardziej skomplikowane mechanicznie ani najnowsze, ale ma najmniej rzeczy, które trzeba usprawiedliwiać: bardzo dobrze oddaje trudną bryłę pierwowzoru, a funkcje — łącznie z przebudową na Turbo albo Targę — nie psują tej spójności."
+    a: "LEGO 10295 Porsche 911. Nie jest najbardziej skomplikowane mechanicznie ani najnowsze, ale ma najmniej rzeczy, które trzeba usprawiedliwiać: bardzo dobrze oddaje trudną bryłę pierwowzoru, a funkcje – łącznie z przebudową na Turbo albo Targę – nie psują tej spójności."
   - q: "Ile dużych samochodów LEGO Icons powstało?"
-    a: "Od 2008 do 2026 roku w tej rodzinie produktowej powstało 25 dużych pojazdów. Po odsianiu camperów, autobusu, pickupa, pojazdów filmowych i bolidów Formuły 1 zostaje 15 samochodów osobowych odwzorowujących konkretne seryjne modele — i z nich powstała ta jedenastka."
+    a: "Od 2008 do 2026 roku w tej rodzinie produktowej powstało 25 dużych pojazdów. Po odsianiu camperów, autobusu, pickupa, pojazdów filmowych i bolidów Formuły 1 zostaje 15 samochodów osobowych odwzorowujących konkretne seryjne modele – i z nich powstała ta jedenastka."
   - q: "Czy Creator Expert i LEGO Icons to ta sama seria?"
     a: "Tak. LEGO wprost określa zmianę nazwy z Creator Expert na Icons jako zastąpienie nazwy przy zachowaniu tej samej kategorii zaawansowanych zestawów kolekcjonerskich dla dorosłych. Dlatego ranking obejmuje obie nazwy."
   - q: "Czy starsze samochody LEGO są gorsze od nowych?"
-    a: "Nie układają się chronologicznie. Ferrari F40 z 2015 roku jest w ścisłej czołówce po jedenastu latach, a Beetle z 2016 wygrywa z kilkoma znacznie nowszymi modelami. Dobry samochód LEGO starzeje się dopiero wtedy, gdy przestaje przekonująco oddawać pierwowzór — nie wtedy, gdy pojawiają się nowsze elementy."
+    a: "Nie układają się chronologicznie. Ferrari F40 z 2015 roku jest w ścisłej czołówce po jedenastu latach, a Beetle z 2016 wygrywa z kilkoma znacznie nowszymi modelami. Dobry samochód LEGO starzeje się dopiero wtedy, gdy przestaje przekonująco oddawać pierwowzór – nie wtedy, gdy pojawiają się nowsze elementy."
 ---
 
 Duże samochody LEGO mają dziś dość łatwo rozpoznawalną formułę. Kilkanaście studów szerokości, działająca kierownica, otwierane drzwi i maska, szczegółowe wnętrze, coraz bardziej skomplikowane techniki budowania i przede wszystkim model, który po skończeniu ma dobrze wyglądać na półce. Trudno jednak wskazać moment, w którym ta formuła stała się gotowym przepisem.
@@ -27,13 +27,13 @@ Dlatego w tym rankingu nie patrzę wyłącznie na samochody, które miały logo 
 
 ## Z 25 pojazdów zostaje 15 samochodów
 
-W szerokim ujęciu od 2008 do 2026 roku powstało już 25 dużych pojazdów należących do tej kolekcji — od pierwszego Volkswagena Beetle po Jaguara E-Type. To spójna rodzina produktowa, ale nie wszystkie te modele trafią do tego konkretnego rankingu.
+W szerokim ujęciu od 2008 do 2026 roku powstało już 25 dużych pojazdów należących do tej kolekcji – od pierwszego Volkswagena Beetle po Jaguara E-Type. To spójna rodzina produktowa, ale nie wszystkie te modele trafią do tego konkretnego rankingu.
 
 Świadomie pomijam dwa Volkswageny Camper Van oraz londyński autobus, ponieważ zestawienie dotyczy seryjnych samochodów osobowych, a nie wszystkich pojazdów drogowych. Z tego samego powodu poza rankingiem pozostaje [Pickup Truck 10290](/zestaw/10290/), który nie odtwarza konkretnego seryjnego modelu, lecz reprezentuje ogólną kategorię klasycznego pick-upa. Nie chodzi więc o to, że campery, autobus czy pickup nie są częścią tej samej rodziny produktowej. Po prostu należą do innych typów pojazdów niż samochody osobowe będące głównym przedmiotem tego zestawienia.
 
 Z podobnego powodu poza zestawieniem pozostają ECTO-1 i wehikuł czasu z „Powrotu do przyszłości”. Oba są pełnoprawnymi członkami tej samej rodziny i szczególnie DeLorean mógłby walczyć bardzo wysoko w rankingu wszystkich pojazdów Icons. Tutaj jednak jego podstawowym zadaniem jest odwzorowanie filmowego wehikułu wraz z charakterystycznym wyposażeniem, a nie seryjnego samochodu.
 
-Osobną grupą stały się też historyczne bolidy Formuły 1: McLaren MP4/4, Williams FW14B i Ferrari F2004. Ten ostatni — [zestaw 11375](/zestaw/11375/) z 2026 roku — jest już trzecim samochodem w tej formule: mniejszym od głównych samochodów Icons, z podstawką ekspozycyjną i minifigurką kierowcy. To na tyle czytelna podseria, że lepiej ocenić ją kiedyś osobno.
+Osobną grupą stały się też historyczne bolidy Formuły 1: McLaren MP4/4, Williams FW14B i Ferrari F2004. Ten ostatni – [zestaw 11375](/zestaw/11375/) z 2026 roku – jest już trzecim samochodem w tej formule: mniejszym od głównych samochodów Icons, z podstawką ekspozycyjną i minifigurką kierowcy. To na tyle czytelna podseria, że lepiej ocenić ją kiedyś osobno.
 
 Jest jeszcze niebieski Fiat 500 nr 77942. To ciekawy przypadek, ale nie osobny projekt: konstrukcja jest identyczna z żółtym [Fiatem 10271](/zestaw/10271/), zmieniono przede wszystkim kolor. Zestaw powstał w ramach testu alternatywnych wersji istniejących produktów, więc warto go pamiętać jako ciekawostkę z historii linii, ale nie ma sensu przyznawać tej samej konstrukcji dwóch miejsc w rankingu.
 
@@ -65,7 +65,7 @@ To jeden z tych projektów, które nie potrzebują nostalgicznej taryfy ulgowej.
 
 <div class="galeria-setow" data-sety="10317"></div>
 
-Defender pokazuje, jak bardzo zmieniła się ta linia. Ma 2336 elementów, działającą kierownicę, zaawansowane zawieszenie i ogromny zestaw dodatkowego wyposażenia. Można zbudować czysty samochód drogowy albo obwiesić go bagażnikiem dachowym, wyciągarką, snorkelem, skrzynkami i pozostałym sprzętem wyprawowym. LEGO bardzo dobrze wykorzystało przy tym fakt, że prawdziwy Defender ma kanciaste nadwozie — system klocków działa tutaj z naturalną przewagą. Pod względem funkcjonalnym to jeden z najbardziej imponujących modeli w całym rankingu.
+Defender pokazuje, jak bardzo zmieniła się ta linia. Ma 2336 elementów, działającą kierownicę, zaawansowane zawieszenie i ogromny zestaw dodatkowego wyposażenia. Można zbudować czysty samochód drogowy albo obwiesić go bagażnikiem dachowym, wyciągarką, snorkelem, skrzynkami i pozostałym sprzętem wyprawowym. LEGO bardzo dobrze wykorzystało przy tym fakt, że prawdziwy Defender ma kanciaste nadwozie – system klocków działa tutaj z naturalną przewagą. Pod względem funkcjonalnym to jeden z najbardziej imponujących modeli w całym rankingu.
 
 Nie znajduje się jednak wyżej, bo skomplikowanie nie zawsze oznacza lepszy produkt końcowy. Defender ma sporo drobnych elementów i wyposażenia, które potrafią odpadać podczas normalnego obchodzenia się z modelem. To nie dyskwalifikuje zestawu ekspozycyjnego, ale sprawia, że projekt jest mniej zwarty niż samochody stojące przed nim. Gdyby ranking dotyczył najbardziej rozbudowanych technicznie samochodów Icons, Defender znalazłby się znacznie wyżej; tutaj zajmuje miejsce dziesiąte.
 
@@ -89,7 +89,7 @@ Pod względem samego budowania Cobra może być lepsza od kilku samochodów stoj
 
 <div class="galeria-setow" data-sety="10337"></div>
 
-Countach ma dokładnie odwrotną sytuację. Prawdziwy samochód wygląda niemal tak, jakby ktoś zaprojektował go z myślą o LEGO: klinowata sylwetka, ostre krawędzie, płytkie kąty i charakterystyczne drzwi unoszone do góry. Nie oznacza to jednak, że model był łatwy do wykonania. Najtrudniejsze są właśnie te bardzo płaskie linie — zbyt duży kąt natychmiast zrobiłby z Countacha karykaturę.
+Countach ma dokładnie odwrotną sytuację. Prawdziwy samochód wygląda niemal tak, jakby ktoś zaprojektował go z myślą o LEGO: klinowata sylwetka, ostre krawędzie, płytkie kąty i charakterystyczne drzwi unoszone do góry. Nie oznacza to jednak, że model był łatwy do wykonania. Najtrudniejsze są właśnie te bardzo płaskie linie – zbyt duży kąt natychmiast zrobiłby z Countacha karykaturę.
 
 LEGO poradziło sobie z nimi bardzo dobrze. Samochód jest niski, szeroki i natychmiast rozpoznawalny. Brak naklejek dodatkowo pomaga w modelu czysto ekspozycyjnym, a proces budowania wykorzystuje sporo interesujących połączeń i zmian kierunku. Cobra może być bardziej zaskakująca podczas składania, ale Countach jest bardziej konsekwentny po zakończeniu budowy i właśnie dlatego znajduje się jedno miejsce wyżej.
 
@@ -111,7 +111,7 @@ Corvette C1 z 1961 roku wrzuca projektanta z powrotem w świat krzywizn. Tutaj n
 
 Rezultat jest bardzo udany. Model ma działającą kierownicę, można go pokazać z hardtopem albo jako kabriolet, a całe nadwozie jest znacznie bardziej płynne, niż mogłaby sugerować geometria użytych części. LEGO samo określa zestaw jako odwzorowanie kabrioletu z 1961 roku i właśnie profil samochodu jest jednym z najmocniejszych elementów projektu.
 
-Beetle ma mocniejszy argument historyczny, ale Corvette jest bardziej kompletnym współczesnym modelem i podejmuje jeszcze trudniejszy problem powierzchni. To bardzo mała różnica — miejsca piąte i szóste spokojnie można byłoby zamienić.
+Beetle ma mocniejszy argument historyczny, ale Corvette jest bardziej kompletnym współczesnym modelem i podejmuje jeszcze trudniejszy problem powierzchni. To bardzo mała różnica – miejsca piąte i szóste spokojnie można byłoby zamienić.
 
 ## 4. LEGO Icons 11381 Jaguar E-Type
 
@@ -155,7 +155,7 @@ Mustang jest dla mnie jednym z najważniejszych punktów w rozwoju tej linii nie
 
 Gdybym miał wybrać jeden model, który najlepiej pokazuje, czym duży samochód LEGO powinien być jako całość, wybrałbym Porsche 911. Nie jest najbardziej skomplikowane mechanicznie: Defender ma więcej funkcji, Jaguar wykorzystuje nowszy katalog elementów, Shelby potrafi bardziej zaskoczyć technikami, a F40 ma mocniejszy argument historyczny. Porsche ma jednak najmniej rzeczy, które trzeba usprawiedliwiać.
 
-Projektant musiał zmierzyć się z samochodem, którego forma wygląda prosto tylko do chwili, gdy spróbujemy ją rozrysować. Charakterystyczne przednie błotniki, okrągłe reflektory, opadający dach i płynne przejście ku tyłowi są natychmiast rozpoznawalne — i bardzo łatwe do zepsucia. LEGO odwzorowało je wyjątkowo przekonująco. W recenzjach szczególnie dobrze oceniano proporcje, przód i sposób przeprowadzenia linii dachu. Model ma działającą kierownicę i szczegółowe wnętrze, ale jego największym osiągnięciem pozostaje nadwozie.
+Projektant musiał zmierzyć się z samochodem, którego forma wygląda prosto tylko do chwili, gdy spróbujemy ją rozrysować. Charakterystyczne przednie błotniki, okrągłe reflektory, opadający dach i płynne przejście ku tyłowi są natychmiast rozpoznawalne – i bardzo łatwe do zepsucia. LEGO odwzorowało je wyjątkowo przekonująco. W recenzjach szczególnie dobrze oceniano proporcje, przód i sposób przeprowadzenia linii dachu. Model ma działającą kierownicę i szczegółowe wnętrze, ale jego największym osiągnięciem pozostaje nadwozie.
 
 Do tego dochodzi jedna z najlepszych funkcji konfiguracyjnych całej serii. Z tych samych elementów można zbudować Porsche 911 Turbo albo Targę. Nie jest to zmiana kilku ozdób czy naklejek. Obie wersje mają inny charakter, inne tylne partie i inne rozwiązania dachu. Co ważniejsze, nie widać, aby projekt samochodu bazowego został poważnie poświęcony tylko po to, żeby zmieścić drugi wariant.
 
@@ -173,7 +173,7 @@ Piętnaście samochodów spełniło przyjęte kryteria, ale nie chciałem sztucz
 
 [Ford Model T 11376](/zestaw/11376/) jest jednym z najciekawszych wyborów tematycznych ostatnich lat. Ma 1060 elementów, działającą kierownicę, składany materiałowy dach i szybę, otwierane panele silnika oraz korbę poruszającą wentylator. To bardzo dobry kierunek dla serii, bo pokazuje, że „klasyczny samochód” nie musi oznaczać kolejnego auta z lat 60. czy 70. Na razie nie widzę jednak wystarczających podstaw, żeby umieścić go ponad najmocniejszymi projektami z głównej jedenastki.
 
-[Aston Martin DB5 10262](/zestaw/10262/) jest znacznie ważniejszy konstrukcyjnie, niż sugerowałaby jego pozycja poza rankingiem. Gadżety Bonda — między innymi mechanizmy związane z filmowym wyposażeniem samochodu — były w tej linii czymś wyjątkowym. Problem polega na tym, że cała ta mechanika znajduje się wewnątrz modelu, którego bryła jest wyraźnie zbyt pudełkowata. To świetny przykład samochodu historycznie interesującego, ale niekoniecznie jednego z najlepszych projektów.
+[Aston Martin DB5 10262](/zestaw/10262/) jest znacznie ważniejszy konstrukcyjnie, niż sugerowałaby jego pozycja poza rankingiem. Gadżety Bonda – między innymi mechanizmy związane z filmowym wyposażeniem samochodu – były w tej linii czymś wyjątkowym. Problem polega na tym, że cała ta mechanika znajduje się wewnątrz modelu, którego bryła jest wyraźnie zbyt pudełkowata. To świetny przykład samochodu historycznie interesującego, ale niekoniecznie jednego z najlepszych projektów.
 
 I wreszcie Volkswagen Beetle 10187. Bez niego prawdopodobnie nie byłoby tego artykułu: to od niego zaczyna się analizowana tutaj współczesna linia dużych samochodów. Jednocześnie późniejszy [Beetle 10252](/zestaw/10252/) bardzo wyraźnie pokazuje, jak szybko rozwinęły się techniki projektowania. Pierwszy Garbus jest znacznie bardziej studowy, kanciasty i uproszczony. Można podziwiać jego znaczenie i jednocześnie uczciwie powiedzieć, że jako samochód LEGO został później zdecydowanie przebity. I właśnie tak powinien działać ranking historyczny: najważniejszy nie musi oznaczać najlepszego.
 

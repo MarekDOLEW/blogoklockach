@@ -2,15 +2,15 @@
 //
 // W markdownie wystarczy jednolinijkowy znacznik:
 //   <div class="galeria-setow" data-sety="60496,71864,76475"></div>
-//        — po jednym zdjęciu z każdego wymienionego zestawu,
+//        – po jednym zdjęciu z każdego wymienionego zestawu,
 //   <div class="galeria-setow" data-set="31168"></div>
-//        — wszystkie zdjęcia galerii jednego zestawu (galerie.json).
+//        – wszystkie zdjęcia galerii jednego zestawu (galerie.json).
 //
 // Plugin zamienia go przy budowaniu na gotowy HTML: obrazki siedzą w źródle
 // strony (indeksuje je Google, przewijają się palcem bez JS-a), a skrypt
 // w layoucie artykułu dokłada strzałki i kropki.
 //
-// Zdjęcia bierzemy w tej samej kolejności źródeł co src/lib/media.js — plugin
+// Zdjęcia bierzemy w tej samej kolejności źródeł co src/lib/media.js – plugin
 // działa poza grafem modułów Astro, więc czyta dane wprost z plików.
 
 import { readFileSync } from 'node:fs';
@@ -39,7 +39,7 @@ const maZdjecie = (nr) =>
       wycofaniaIdx.get(nr)?.zdjecie,
   );
 
-// Te same reguły co src/lib/huby.js — slajder linkuje wyłącznie tam,
+// Te same reguły co src/lib/huby.js – slajder linkuje wyłącznie tam,
 // gdzie faktycznie powstaje podstrona /zestaw/<nr>/.
 const maLinkGdziekolwiek = (nr) => Object.keys(redirects).some((sklep) => redirects[sklep]?.[nr]);
 const maCeneZFeedu = (wpis) =>
@@ -83,7 +83,7 @@ function slajdy({ sety: lista, set }) {
       return Array.from({ length: ile }, (_, i) => ({
         nr,
         src: `/img/${nr}-${i + 1}.jpg`,
-        alt: `${podpis} — zdjęcie ${i + 1} z ${ile}`,
+        alt: `${podpis} – zdjęcie ${i + 1} z ${ile}`,
         podpis,
       }));
     }
@@ -100,7 +100,7 @@ function slajdy({ sety: lista, set }) {
 }
 
 function html(slajd) {
-  // slajder nigdy nie jest największym elementem nad zgięciem — wszystkie
+  // slajder nigdy nie jest największym elementem nad zgięciem – wszystkie
   // zdjęcia ładujemy leniwie, także pierwsze
   const obraz = `<img src="${slajd.src}" alt="${esc(slajd.alt)}" loading="lazy" width="600" height="600" />`;
   const tresc = maHubNaPewno(slajd.nr)

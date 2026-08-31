@@ -6,11 +6,11 @@ import Karta from '../../components/KartaPrezentu.astro';
 // Dane prezentownika trzymamy tutaj, a nie w JSON-ie, bo to decyzje redakcyjne:
 // dobór zestawów, drabina cenowa i próg zakupu. Liczby (elementy, rocznik, RRP)
 // pochodzą z katalog.json, poziomy „dobra/bardzo dobra cena" ustalono na
-// podstawie rozkładu realnych cen rynkowych w serii — mediana przeceny
+// podstawie rozkładu realnych cen rynkowych w serii – mediana przeceny
 // zestawów Harry Potter to ok. 29% poniżej ceny katalogowej, więc próg
 // liczony jako stały procent RRP byłby dla tej serii mylący.
 //
-// Sklepy publikacyjne: Media Expert, Allegro i Planeta Klocków — trzy sklepy
+// Sklepy publikacyjne: Media Expert, Allegro i Planeta Klocków – trzy sklepy
 // realnie prowadzące pełną linię HP, o stabilnej dostępności. Dobór jest
 // niezależny od statusu afiliacyjnego (por. redakcja/sklepy-i-afiliacja.md §5.5).
 const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
@@ -25,7 +25,7 @@ export const meta = {
   tytul: 'Prezent z LEGO Harry Potter',
   opis: 'Siedem zestawów, od 40 zł do wielkiego prezentu. Dla kogo, przy jakiej cenie kupować i co znika z rynku w grudniu.',
   data: '2026-08-24',
-  // zdjęcie karty na /prezentowniki/ — flagowy zestaw z listy
+  // zdjęcie karty na /prezentowniki/ – flagowy zestaw z listy
   okladka: '76473',
 };
 
@@ -42,15 +42,15 @@ const zestawy = [
 const faq = [
   {
     q: 'Od którego zestawu LEGO Harry Potter zacząć?',
-    a: 'Od czegoś, co odtwarza konkretną scenę, a nie od dużego zamku. Zestawy scenkowe za 80–160 zł — jak Zakazany Las czy Błędny Rycerz — dają komplet minifigurek i gotowy pomysł na zabawę, a nie wymagają znajomości całej serii. Duże moduły zamku Hogwart to konstrukcje ekspozycyjne dla nastolatka albo dorosłego: dziecko poniżej dziesięciu lat zwykle nie usiedzi nad dwoma tysiącami elementów, a gotowy model nie nadaje się do codziennej zabawy.',
+    a: 'Od czegoś, co odtwarza konkretną scenę, a nie od dużego zamku. Zestawy scenkowe za 80–160 zł – jak Zakazany Las czy Błędny Rycerz – dają komplet minifigurek i gotowy pomysł na zabawę, a nie wymagają znajomości całej serii. Duże moduły zamku Hogwart to konstrukcje ekspozycyjne dla nastolatka albo dorosłego: dziecko poniżej dziesięciu lat zwykle nie usiedzi nad dwoma tysiącami elementów, a gotowy model nie nadaje się do codziennej zabawy.',
   },
   {
     q: 'Czy trzeba znać filmy, żeby zestaw miał sens?',
-    a: 'Przy Harrym Potterze zależność od licencji jest wysoka — wyższa niż w City czy Creatorze. Bez znajomości bohaterów zostaje sam budynek albo pojazd, a znika to, za co realnie się płaci: rozpoznawalna scena i postacie. Jeśli obdarowywana osoba nie zna serii, lepszym prezentem będzie zestaw z serii uniwersalnej. Wyjątkiem są modele czysto ekspozycyjne, jak Herb Hogwartu — te bronią się jako obiekt na półkę.',
+    a: 'Przy Harrym Potterze zależność od licencji jest wysoka – wyższa niż w City czy Creatorze. Bez znajomości bohaterów zostaje sam budynek albo pojazd, a znika to, za co realnie się płaci: rozpoznawalna scena i postacie. Jeśli obdarowywana osoba nie zna serii, lepszym prezentem będzie zestaw z serii uniwersalnej. Wyjątkiem są modele czysto ekspozycyjne, jak Herb Hogwartu – te bronią się jako obiekt na półkę.',
   },
   {
     q: 'Ile realnie kosztują zestawy Harry Potter w sklepach?',
-    a: 'Znacznie mniej niż katalogowo. Z 48 zestawów w bieżącej sprzedaży 41 ma dziś realną przecenę, a mediana wynosi około 29% poniżej ceny katalogowej. Największe zamki potrafią schodzić o jedną trzecią. Cena katalogowa jest więc punktem odniesienia, a nie ceną, którą trzeba zapłacić — dlatego przy każdym zestawie podajemy poziom, od którego zakup zaczyna się opłacać.',
+    a: 'Znacznie mniej niż katalogowo. Z 48 zestawów w bieżącej sprzedaży 41 ma dziś realną przecenę, a mediana wynosi około 29% poniżej ceny katalogowej. Największe zamki potrafią schodzić o jedną trzecią. Cena katalogowa jest więc punktem odniesienia, a nie ceną, którą trzeba zapłacić – dlatego przy każdym zestawie podajemy poziom, od którego zakup zaczyna się opłacać.',
   },
   {
     q: 'Które zestawy Harry Potter znikają z rynku pod koniec 2026?',
@@ -60,15 +60,15 @@ const faq = [
 ---
 <Prezentownik
   title="Prezent z LEGO Harry Potter: co kupić i przy jakiej cenie"
-  opis="Siedem zestawów Harry Potter na prezent — od 40 zł do wielkiego pudełka. Dla kogo każdy z nich, od jakiej ceny warto kupować i które znikają z rynku w grudniu 2026."
+  opis="Siedem zestawów Harry Potter na prezent – od 40 zł do wielkiego pudełka. Dla kogo każdy z nich, od jakiej ceny warto kupować i które znikają z rynku w grudniu 2026."
   data="2026-08-24"
   zaktualizowano="2026-08-24"
   faq={faq}
   zestawy={zestawy}
 >
-  <p>Harry Potter to najbardziej „prezentowa" seria LEGO — i jednocześnie ta, w której najłatwiej kupić źle. Zestawów w bieżącej sprzedaży jest czterdzieści osiem, ceny katalogowe rozciągają się od 62 do prawie dwóch tysięcy złotych, a różnica między dobrym a chybionym prezentem rzadko wynika z ceny. Wynika z tego, czy trafiliśmy w wiek i w to, co obdarowywana osoba chce z zestawem zrobić: bawić się nim czy postawić na półce.</p>
+  <p>Harry Potter to najbardziej „prezentowa" seria LEGO – i jednocześnie ta, w której najłatwiej kupić źle. Zestawów w bieżącej sprzedaży jest czterdzieści osiem, ceny katalogowe rozciągają się od 62 do prawie dwóch tysięcy złotych, a różnica między dobrym a chybionym prezentem rzadko wynika z ceny. Wynika z tego, czy trafiliśmy w wiek i w to, co obdarowywana osoba chce z zestawem zrobić: bawić się nim czy postawić na półce.</p>
 
-  <p>Poniżej jest <b>siedem konkretnych rekomendacji</b> — po jednej na przedział cenowy, od drobiazgu za czterdzieści złotych po prezent, który się pamięta. Przy każdej mówimy, dla kogo jest, i podajemy poziom ceny, od którego zakup ma sens. Bo tu jest sedno: <b>ceny katalogowe Harry'ego Pottera są mocno oderwane od rynkowych</b> — sprawdziliśmy wszystkie czterdzieści osiem zestawów i 41 z nich ma dziś realną przecenę, medianowo około 29% poniżej katalogu.</p>
+  <p>Poniżej jest <b>siedem konkretnych rekomendacji</b> – po jednej na przedział cenowy, od drobiazgu za czterdzieści złotych po prezent, który się pamięta. Przy każdej mówimy, dla kogo jest, i podajemy poziom ceny, od którego zakup ma sens. Bo tu jest sedno: <b>ceny katalogowe Harry'ego Pottera są mocno oderwane od rynkowych</b> – sprawdziliśmy wszystkie czterdzieści osiem zestawów i 41 z nich ma dziś realną przecenę, medianowo około 29% poniżej katalogu.</p>
 
   <Galeria zestawy={zestawy} />
 
@@ -83,14 +83,14 @@ const faq = [
     dlaKogo="dziecko 6–9 lat, pierwszy kontakt z serią; dodatek do większego prezentu"
     dobra={45}
     bardzoDobra={40}
-    prog="poniżej 45 zł — powyżej tej kwoty lepiej dołożyć do Zakazanego Lasu"
+    prog="poniżej 45 zł – powyżej tej kwoty lepiej dołożyć do Zakazanego Lasu"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Najtańszy sensowny punkt wejścia do serii. Sto dwadzieścia kilka elementów, Tiara Przydziału i scena, którą zna każdy, kto widział pierwszy film — budowa zajmuje pół godziny, więc to nie jest prezent na całe popołudnie. Jego rola jest inna: <b>dokładka do większego pudełka</b> albo drobiazg na mikołajki, przy którym nie trzeba się zastanawiać nad wiekiem.</p>
+    <p>Najtańszy sensowny punkt wejścia do serii. Sto dwadzieścia kilka elementów, Tiara Przydziału i scena, którą zna każdy, kto widział pierwszy film – budowa zajmuje pół godziny, więc to nie jest prezent na całe popołudnie. Jego rola jest inna: <b>dokładka do większego pudełka</b> albo drobiazg na mikołajki, przy którym nie trzeba się zastanawiać nad wiekiem.</p>
     <p>Uczciwie: samodzielnie potrafi rozczarować. Dziecko rozpakowuje, składa i po kwadransie szuka czegoś jeszcze.</p>
   </Karta>
 
-  <h2>Do 100 zł: Zakazany Las — najlepszy stosunek zabawy do ceny</h2>
+  <h2>Do 100 zł: Zakazany Las – najlepszy stosunek zabawy do ceny</h2>
 
   <Karta
     nr="76475"
@@ -102,15 +102,15 @@ const faq = [
     dlaKogo="dziecko 7–10 lat, które zna filmy; najbezpieczniejszy wybór w całym zestawieniu"
     dobra={85}
     bardzoDobra={75}
-    prog="poniżej 85 zł — schodzi tam regularnie, nie ma powodu płacić katalogowej"
+    prog="poniżej 85 zł – schodzi tam regularnie, nie ma powodu płacić katalogowej"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Jeśli mielibyśmy wskazać jeden zestaw dla dziecka z całej serii, byłby to ten. Cztery minifigurki, klockowe drzewo i świecący patronus w kształcie jelenia — <b>komplet postaci przy zestawie za mniej niż sto złotych</b> to w Harrym Potterze rzadkość, a to właśnie minifigurki napędzają zabawę po zbudowaniu.</p>
+    <p>Jeśli mielibyśmy wskazać jeden zestaw dla dziecka z całej serii, byłby to ten. Cztery minifigurki, klockowe drzewo i świecący patronus w kształcie jelenia – <b>komplet postaci przy zestawie za mniej niż sto złotych</b> to w Harrym Potterze rzadkość, a to właśnie minifigurki napędzają zabawę po zbudowaniu.</p>
     <p>Scena z <i>Więźnia Azkabanu</i> jest na tyle rozpoznawalna, że dziecko od razu wie, co odgrywa. Budowa na jedno spokojne posiedzenie, bez etapów wymagających pomocy dorosłego.</p>
     <p>Ograniczenie: zestaw jest niewielki i nie robi wrażenia w momencie wręczania. Jeśli prezent ma zrobić efekt, potraktuj go raczej jako dodatek.</p>
   </Karta>
 
-  <h2>Do 160 zł: Błędny Rycerz — pojazd, czyli zabawa, która trwa</h2>
+  <h2>Do 160 zł: Błędny Rycerz – pojazd, czyli zabawa, która trwa</h2>
 
   <Karta
     nr="76446"
@@ -124,11 +124,11 @@ const faq = [
     prog="poniżej 155 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Trzypiętrowy autobus to w tej serii jeden z niewielu zestawów, które po zbudowaniu <b>nadal coś robią</b>. Otwiera się, ma wnętrze, jeździ — a to zupełnie inna kategoria zabawy niż statyczna scenka. Przy pięciuset elementach budowa zajmuje dwa krótsze posiedzenia i dziecko poradzi sobie samo.</p>
+    <p>Trzypiętrowy autobus to w tej serii jeden z niewielu zestawów, które po zbudowaniu <b>nadal coś robią</b>. Otwiera się, ma wnętrze, jeździ – a to zupełnie inna kategoria zabawy niż statyczna scenka. Przy pięciuset elementach budowa zajmuje dwa krótsze posiedzenia i dziecko poradzi sobie samo.</p>
     <p>To także dobry zestaw dla kogoś, kto ma już kilka pudełek Harry'ego Pottera: pojazd wchodzi do istniejących zabaw zamiast dublować kolejny fragment zamku.</p>
   </Karta>
 
-  <h2>Do 190 zł: Kociołek — dla dziecka, które lubi budować</h2>
+  <h2>Do 190 zł: Kociołek – dla dziecka, które lubi budować</h2>
 
   <Karta
     nr="76464"
@@ -142,11 +142,11 @@ const faq = [
     prog="poniżej 185 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Sześćset pięćdziesiąt elementów w cenie, w której zwykle dostaje się połowę tego — pod względem samej objętości budowania to najlepiej wyceniony zestaw w środkowej półce serii. Konstrukcja jest nietypowa: sala zajęć ukryta wewnątrz kociołka, więc budowanie ma <b>moment zaskoczenia</b>, którego nie mają zwykłe scenki.</p>
-    <p>Zastrzeżenie: to zestaw bardziej do złożenia i postawienia niż do codziennej zabawy. Dla dziecka, które lubi sam proces budowania — trafiony. Dla takiego, które szuka zabawki — lepszy będzie Błędny Rycerz.</p>
+    <p>Sześćset pięćdziesiąt elementów w cenie, w której zwykle dostaje się połowę tego – pod względem samej objętości budowania to najlepiej wyceniony zestaw w środkowej półce serii. Konstrukcja jest nietypowa: sala zajęć ukryta wewnątrz kociołka, więc budowanie ma <b>moment zaskoczenia</b>, którego nie mają zwykłe scenki.</p>
+    <p>Zastrzeżenie: to zestaw bardziej do złożenia i postawienia niż do codziennej zabawy. Dla dziecka, które lubi sam proces budowania – trafiony. Dla takiego, które szuka zabawki – lepszy będzie Błędny Rycerz.</p>
   </Karta>
 
-  <h2>Do 310 zł: Dom Luny Lovegood — prezent dla nastolatka</h2>
+  <h2>Do 310 zł: Dom Luny Lovegood – prezent dla nastolatka</h2>
 
   <Karta
     nr="76467"
@@ -158,18 +158,18 @@ const faq = [
     dlaKogo="nastolatek lub dorosły fan serii; budynek na półkę, nie zabawka"
     dobra={305}
     bardzoDobra={280}
-    prog="poniżej 305 zł, a jeśli ma być prezent świąteczny — nie zwlekaj do grudnia"
+    prog="poniżej 305 zł, a jeśli ma być prezent świąteczny – nie zwlekaj do grudnia"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Charakterystyczna wieża Lovegoodów jest jednym z ciekawiej zaprojektowanych budynków w całej serii — nietypowa bryła, dużo detali wnętrza, sylwetka rozpoznawalna z drugiego końca pokoju. Napisaliśmy o nim <a href="/artykuly/lego-76467-dom-luny-lovegood-recenzja/">osobną recenzję</a>, jeśli chcesz pełną analizę.</p>
-    <p><b>Ważne przy planowaniu prezentu:</b> ten zestaw ma przewidziane wycofanie na grudzień 2026. Po zejściu z produkcji duże budynki Harry'ego Pottera nie tanieją — zwykle dzieje się odwrotnie. Jeśli był w planach pod choinkę, listopad jest bezpieczniejszy niż drugi tydzień grudnia.</p>
+    <p>Charakterystyczna wieża Lovegoodów jest jednym z ciekawiej zaprojektowanych budynków w całej serii – nietypowa bryła, dużo detali wnętrza, sylwetka rozpoznawalna z drugiego końca pokoju. Napisaliśmy o nim <a href="/artykuly/lego-76467-dom-luny-lovegood-recenzja/">osobną recenzję</a>, jeśli chcesz pełną analizę.</p>
+    <p><b>Ważne przy planowaniu prezentu:</b> ten zestaw ma przewidziane wycofanie na grudzień 2026. Po zejściu z produkcji duże budynki Harry'ego Pottera nie tanieją – zwykle dzieje się odwrotnie. Jeśli był w planach pod choinkę, listopad jest bezpieczniejszy niż drugi tydzień grudnia.</p>
   </Karta>
 
-  <h2>Do 510 zł: Kamień filozoficzny — edycja kolekcjonerska</h2>
+  <h2>Do 510 zł: Kamień filozoficzny – edycja kolekcjonerska</h2>
 
   <Karta
     nr="76466"
-    nazwa="Kamień filozoficzny — edycja kolekcjonerska"
+    nazwa="Kamień filozoficzny – edycja kolekcjonerska"
     rocznik={2026}
     elementy={1571}
     rrp={689.99}
@@ -179,8 +179,8 @@ const faq = [
     prog="poniżej 500 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Półtora tysiąca elementów i konstrukcja pomyślana jako obiekt ekspozycyjny dla dorosłego, nie jako zabawka. Przy obecnym poziomie cen rynkowych to <b>najkorzystniej wyceniony duży zestaw Harry'ego Pottera</b> — rzadko która pozycja w tej serii schodzi tak wyraźnie poniżej katalogu przy tak świeżym roczniku.</p>
-    <p>Dla kogo nie: dla dziecka. Liczba elementów i charakter budowy sprawiają, że dziesięciolatek albo się zmęczy, albo skończy z rodzicem — a gotowego modelu i tak nie będzie czym się bawić.</p>
+    <p>Półtora tysiąca elementów i konstrukcja pomyślana jako obiekt ekspozycyjny dla dorosłego, nie jako zabawka. Przy obecnym poziomie cen rynkowych to <b>najkorzystniej wyceniony duży zestaw Harry'ego Pottera</b> – rzadko która pozycja w tej serii schodzi tak wyraźnie poniżej katalogu przy tak świeżym roczniku.</p>
+    <p>Dla kogo nie: dla dziecka. Liczba elementów i charakter budowy sprawiają, że dziesięciolatek albo się zmęczy, albo skończy z rodzicem – a gotowego modelu i tak nie będzie czym się bawić.</p>
   </Karta>
 
   <h2>Wielki prezent: Wschodnie skrzydło zamku Hogwart</h2>
@@ -195,26 +195,26 @@ const faq = [
     dlaKogo="dorosły kolekcjoner albo nastolatek budujący modularny zamek"
     dobra={790}
     bardzoDobra={720}
-    prog="poniżej 790 zł — przy tej kwocie to jeden z lepiej wycenionych dużych zestawów serii"
+    prog="poniżej 790 zł – przy tej kwocie to jeden z lepiej wycenionych dużych zestawów serii"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Najświeższy moduł modularnego zamku i najbezpieczniejszy wybór, jeśli prezent ma być duży. Dwa tysiące sto elementów, konstrukcja łącząca się z pozostałymi modułami, a w sklepach zewnętrznych schodzi około jednej trzeciej poniżej ceny katalogowej — czyli tu <b>oszczędność liczy się w setkach złotych</b>, nie w dziesiątkach.</p>
-    <p>Jedna rzecz, o której warto wiedzieć przed zakupem: modularny zamek składa się z trzech modułów wydawanych rok po roku i <b>pierwszy z nich — Wielka Sala — już zszedł z oficjalnej sprzedaży</b>. Kompletowanie całości zaczyna się więc od pozycji, której w regularnych sklepach już nie ma. Co to znaczy dla planów na 2027 i skąd podejrzenie, że seria szykuje się do restartu, opisaliśmy w <a href="/zapowiedzi-lego-2027/">zapowiedziach na 2027 rok</a>.</p>
+    <p>Najświeższy moduł modularnego zamku i najbezpieczniejszy wybór, jeśli prezent ma być duży. Dwa tysiące sto elementów, konstrukcja łącząca się z pozostałymi modułami, a w sklepach zewnętrznych schodzi około jednej trzeciej poniżej ceny katalogowej – czyli tu <b>oszczędność liczy się w setkach złotych</b>, nie w dziesiątkach.</p>
+    <p>Jedna rzecz, o której warto wiedzieć przed zakupem: modularny zamek składa się z trzech modułów wydawanych rok po roku i <b>pierwszy z nich – Wielka Sala – już zszedł z oficjalnej sprzedaży</b>. Kompletowanie całości zaczyna się więc od pozycji, której w regularnych sklepach już nie ma. Co to znaczy dla planów na 2027 i skąd podejrzenie, że seria szykuje się do restartu, opisaliśmy w <a href="/zapowiedzi-lego-2027/">zapowiedziach na 2027 rok</a>.</p>
   </Karta>
 
   <h2>Czego w tym zestawieniu nie ma i dlaczego</h2>
 
-  <p><b>Kalendarza adwentowego</b> — bo to zakup sezonowy, nie prezent na dowolną okazję. Jeśli szukasz go pod grudzień, <a href="/zestaw/76456/">76456</a> jest tegoroczną pozycją i schodzi wyraźnie poniżej katalogu. Kupuje się go w październiku, nie w ostatnim tygodniu listopada, kiedy znikają z półek.</p>
+  <p><b>Kalendarza adwentowego</b> – bo to zakup sezonowy, nie prezent na dowolną okazję. Jeśli szukasz go pod grudzień, <a href="/zestaw/76456/">76456</a> jest tegoroczną pozycją i schodzi wyraźnie poniżej katalogu. Kupuje się go w październiku, nie w ostatnim tygodniu listopada, kiedy znikają z półek.</p>
 
-  <p><b>Największych zamków</b> — <a href="/zestaw/71043/">71043 Zamek Hogwart</a> (6020 elementów) i <a href="/zestaw/76476/">76476 Ministerstwo Magii</a> (3491 elementów, ekskluzyw LEGO.com) to znakomite zestawy, ale nie prezenty. Przy kwotach powyżej tysiąca ośmiuset złotych obdarowywana osoba powinna sama zdecydować.</p>
+  <p><b>Największych zamków</b> – <a href="/zestaw/71043/">71043 Zamek Hogwart</a> (6020 elementów) i <a href="/zestaw/76476/">76476 Ministerstwo Magii</a> (3491 elementów, ekskluzyw LEGO.com) to znakomite zestawy, ale nie prezenty. Przy kwotach powyżej tysiąca ośmiuset złotych obdarowywana osoba powinna sama zdecydować.</p>
 
-  <p><b>Zestawów już wycofanych</b> — takich jak <a href="/zestaw/76435/">76435 Wielka Sala</a> czy <a href="/zestaw/76453/">76453 Dwór Malfoyów</a>. Bywają jeszcze w sklepach zewnętrznych, ale dostępność jest przypadkowa, a przy prezencie z terminem to zbyt duże ryzyko.</p>
+  <p><b>Zestawów już wycofanych</b> – takich jak <a href="/zestaw/76435/">76435 Wielka Sala</a> czy <a href="/zestaw/76453/">76453 Dwór Malfoyów</a>. Bywają jeszcze w sklepach zewnętrznych, ale dostępność jest przypadkowa, a przy prezencie z terminem to zbyt duże ryzyko.</p>
 
   <h2>Kiedy kupować</h2>
 
-  <p>Dwie rzeczy warto ustawić w kalendarzu. Po pierwsze, <b>od 29 sierpnia do 6 września trwa okno Back to Hogwarts</b> z gratisami na LEGO.com — ale liczonymi od cen katalogowych, więc opłaca się głównie przy zestawach, które i tak są blisko katalogu. Policzyliśmy to dokładnie w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>.</p>
+  <p>Dwie rzeczy warto ustawić w kalendarzu. Po pierwsze, <b>od 29 sierpnia do 6 września trwa okno Back to Hogwarts</b> z gratisami na LEGO.com – ale liczonymi od cen katalogowych, więc opłaca się głównie przy zestawach, które i tak są blisko katalogu. Policzyliśmy to dokładnie w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>.</p>
 
-  <p>Po drugie: <b>najgłębsze przeceny wypadają w okolicach Black Friday (27 listopada)</b>, ale jednocześnie na grudzień 2026 przypada wycofanie kilkunastu zestawów Harry Potter. Przy pozycjach z listy wycofań czekanie do końca listopada bywa więc grą o wysoką stawkę — pełne terminy prowadzimy w dziale <a href="/wycofania/">Wycofania</a>.</p>
+  <p>Po drugie: <b>najgłębsze przeceny wypadają w okolicach Black Friday (27 listopada)</b>, ale jednocześnie na grudzień 2026 przypada wycofanie kilkunastu zestawów Harry Potter. Przy pozycjach z listy wycofań czekanie do końca listopada bywa więc grą o wysoką stawkę – pełne terminy prowadzimy w dziale <a href="/wycofania/">Wycofania</a>.</p>
 
-  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
 </Prezentownik>

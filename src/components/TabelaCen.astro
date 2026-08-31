@@ -2,24 +2,24 @@
 import { relLinku as relSklepu } from '../lib/oferty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
-// cenaKatalogowa jest opcjonalna — lekkie huby (spoza sety.json) jej nie znają,
+// cenaKatalogowa jest opcjonalna – lekkie huby (spoza sety.json) jej nie znają,
 // wtedy tabela nie pokazuje kolumny rabatu.
 // dodajLego dokłada wiersz LEGO.com (oficjalny sklep, link bezpośredni z workera),
 // jeśli ofert LEGO nie ma już na liście.
 const { nr, oferty, cenaKatalogowa = null, dodajLego = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
-// link do LEGO.com generuje worker z samego numeru — nie wymaga wpisu w redirects;
+// link do LEGO.com generuje worker z samego numeru – nie wymaga wpisu w redirects;
 // x-kom tak samo (uniwersalny kod SalesMasters + wyszukiwarka), ale tylko dla
-// setów w sprzedaży — dla wycofanych wyszukiwarka x-kom bywa pusta
+// setów w sprzedaży – dla wycofanych wyszukiwarka x-kom bywa pusta
 const maAfiliacje = (sklep) =>
   sklep === 'lego' ||
   ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
   Boolean(redirects?.[sklep]?.[nr]);
-// zasada: skoro pokazujemy cenę, dajemy przynajmniej zwykły link — worker
+// zasada: skoro pokazujemy cenę, dajemy przynajmniej zwykły link – worker
 // zna szablony wyszukiwarek sklepów (sklepy.json -> szukaj)
 const maLink = (sklep) => maAfiliacje(sklep) || Boolean(sklepy[sklep]?.szukaj);
-// „sponsored" tylko tam, gdzie faktycznie mamy prowizję — lista sklepów bez
+// „sponsored" tylko tam, gdzie faktycznie mamy prowizję – lista sklepów bez
 // niej mieszka w lib/oferty.js, żeby wszystkie listingi mówiły to samo.
 const relLinku = (sklep) => (maAfiliacje(sklep) ? relSklepu(sklep, nr) : 'nofollow');
 
@@ -35,7 +35,7 @@ const posortowane = [...oferty, ...zLego]
   .filter((o) => o.sklep !== 'ceneo')
   .sort((a, b) => a.cena - b.cena);
 const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
-// sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę";
+// sklepy z linkiem afiliacyjnym, ale bez oferty cenowej – pokaż wiersz "sprawdź cenę";
 // xkom i smyk mają linki budowane dynamicznie przez worker, więc dokładamy je
 // niezależnie od obecności w redirects.json
 const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk', 'empik'])]
@@ -47,14 +47,14 @@ if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includ
 // sklepy, w których cena na stronie potrafi odbiegać od tej z feedu
 // (kody rabatowe i akcje na koszyk, których feedy produktowe nie pokazują)
 const UWAGA_SKLEP = {
-  mediaexpert: 'w sklepie bywają kody rabatowe — może być jeszcze taniej',
-  planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku — na stronie może być taniej',
+  mediaexpert: 'w sklepie bywają kody rabatowe – może być jeszcze taniej',
+  planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku – na stronie może być taniej',
   lego: 'oficjalna strona LEGO',
 };
 ---
 <div class="karta" style="padding: 18px; margin: 18px 0; overflow-x: auto;">
   <table class="tabela-cen">
-    <caption>Porównanie cen — LEGO {nr}</caption>
+    <caption>Porównanie cen – LEGO {nr}</caption>
     <thead>
       <tr><th>Sklep</th><th>Cena</th>{cenaKatalogowa && <th>Rabat*</th>}<th></th></tr>
     </thead>
@@ -67,7 +67,7 @@ const UWAGA_SKLEP = {
             {UWAGA_SKLEP[o.sklep] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
           <td class="cena">{fmt(o.cena)}</td>
-          {cenaKatalogowa && <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>}
+          {cenaKatalogowa && <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '–'}</td>}
           <td>
             {maLink(o.sklep) ? (
               <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel={relLinku(o.sklep)}>Sprawdź w sklepie →</a>
@@ -83,8 +83,8 @@ const UWAGA_SKLEP = {
             <strong>{sklepy[s]?.nazwa ?? s}</strong>
             {UWAGA_SKLEP[s] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[s]}</span>}
           </td>
-          <td class="cena">—</td>
-          {cenaKatalogowa && <td>—</td>}
+          <td class="cena">–</td>
+          {cenaKatalogowa && <td>–</td>}
           <td><a class="cta" href={`/idz/${s}/${nr}`} rel={relLinku(s)}>Sprawdź cenę →</a></td>
         </tr>
       ))}
@@ -92,14 +92,14 @@ const UWAGA_SKLEP = {
         <tr class="wiersz-ceneo">
           <td>
             <strong>{sklepy.ceneo?.nazwa ?? 'Ceneo'}</strong>
-            <span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka — najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
+            <span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
           </td>
           <td class="cena">{fmt(ceneo.cena)}</td>
-          {cenaKatalogowa && <td>{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '—'}</td>}
+          {cenaKatalogowa && <td>{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '–'}</td>}
           <td><a class="cta" href={`/idz/ceneo/${nr}`} rel="sponsored nofollow">Porównaj oferty →</a></td>
         </tr>
       )}
     </tbody>
   </table>
-  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia — kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
+  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
 </div>

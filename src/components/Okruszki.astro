@@ -1,12 +1,12 @@
 ---
 // Okruszki (breadcrumbs) pod menu. Pokazują, gdzie czytelnik jest i pozwalają
-// wyjść piętro wyżej bez cofania się przeglądarką — na stronie zestawu wejście
+// wyjść piętro wyżej bez cofania się przeglądarką – na stronie zestawu wejście
 // bywa prosto z Google, więc menu samo nie mówi, w którym dziale jesteśmy.
 //
 // Dane strukturalne BreadcrumbList składa strona (Base dostaje je w `jsonld`),
 // więc ten komponent odpowiada wyłącznie za warstwę widoczną.
 //
-// Props: `sciezka` — tablica [{ nazwa, href }]; ostatni element bez href jest
+// Props: `sciezka` – tablica [{ nazwa, href }]; ostatni element bez href jest
 // pozycją bieżącą.
 const { sciezka = [] } = Astro.props;
 ---

@@ -11,14 +11,14 @@ const zKatalogu = Object.keys(katalog).filter((k) => k !== '_meta');
 const serie = [...new Set([...zSetow, ...zKatalogu])].sort((a, b) => a.localeCompare(b, 'pl'));
 const slug = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
 
-// Kafel serii pokazuje zdjęcia jej najświeższych zestawów — obrazek mówi
+// Kafel serii pokazuje zdjęcia jej najświeższych zestawów – obrazek mówi
 // o serii więcej niż sama nazwa. Kolejność kandydatów: najpierw zestawy
 // śledzone cenowo (sety.json, po dacie premiery), potem reszta katalogu
-// (bez wycofanych, po roku). Bierzemy tylko te ze zdjęciem — puste okienko
+// (bez wycofanych, po roku). Bierzemy tylko te ze zdjęciem – puste okienko
 // psułoby kafel bardziej, niż pomaga.
 const LICZBA_FOTEK = 3;
 
-// „1 zestaw", „3 zestawy", „21 zestawów" — polska odmiana liczebnika
+// „1 zestaw", „3 zestawy", „21 zestawów" – polska odmiana liczebnika
 const odmienZestaw = (n) => {
   if (n === 1) return 'zestaw';
   const dziesiatki = n % 100;
@@ -56,7 +56,7 @@ const kafle = serie.map((seria) => {
 ---
 <Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
   <h1 style="margin-top:28px">Serie LEGO</h1>
-  <p>Każda seria to osobny katalog z aktualnymi cenami i statusem wycofania. Na kaflach — najświeższe zestawy z danej serii.</p>
+  <p>Każda seria to osobny katalog z aktualnymi cenami i statusem wycofania. Na kaflach – najświeższe zestawy z danej serii.</p>
   <div class="siatka siatka--serie">
     {kafle.map((k) => (
       <a class="karta seria-karta" href={k.url}>

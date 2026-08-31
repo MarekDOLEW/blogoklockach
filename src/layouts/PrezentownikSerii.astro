@@ -3,7 +3,7 @@ import Base from './Base.astro';
 import { ogStrony, slugZeSciezki } from '../lib/og.js';
 
 // Layout prezentowników serii (strony .astro, bo treść jest sterowana danymi
-// z katalogu i cen — nie da się jej sensownie utrzymać w markdownie).
+// z katalogu i cen – nie da się jej sensownie utrzymać w markdownie).
 // Odpowiednik Artykul.astro: te same dane strukturalne + disclosure, plus
 // ItemList z rekomendowanymi zestawami, żeby Google widziało listę produktów.
 const { title, opis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [] } = Astro.props;
@@ -75,7 +75,7 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
     </p>
     <h1>{title}</h1>
     <slot />
-    <!-- Nota afiliacyjna zamyka tekst — tak samo jak w Artykul.astro. -->
-    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej.</p>
+    <!-- Nota afiliacyjna zamyka tekst – tak samo jak w Artykul.astro. -->
+    <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis – nie płacisz ani grosza więcej.</p>
   </article>
 </Base>

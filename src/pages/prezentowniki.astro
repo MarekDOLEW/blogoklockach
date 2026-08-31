@@ -4,16 +4,16 @@ import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { zajawkiArtykulow, zajawkaZMeta } from '../lib/artykuly.js';
 
 // Lista wylicza się z frontmattera artykułów (kategoria: "Prezentownik"),
-// a nie z ręcznej tablicy — nowy prezentownik pojawia się tu sam, bez edycji
+// a nie z ręcznej tablicy – nowy prezentownik pojawia się tu sam, bez edycji
 // tego pliku. Pola karta_* pozwalają dać karcie krótszy tytuł i opis niż
 // w samym artykule; gdy ich nie ma, karta bierze title i opis z frontmattera,
-// a znacznik — samą nazwę kategorii, żeby plakietka nie została pusta.
+// a znacznik – samą nazwę kategorii, żeby plakietka nie została pusta.
 // Zdjęcie karty wybiera się samo: pierwsze zdjęcie z treści artykułu
 // (patrz src/lib/artykuly.js).
 //
 // Kolejność: malejąco po dacie. Trzy prezentowniki na 1 września mają tę samą
 // datę publikacji, a ich układ (najpierw rodzinny, potem warianty budżetowe)
-// jest decyzją redakcyjną — rozstrzyga ją karta_kolejnosc, wyłącznie przy
+// jest decyzją redakcyjną – rozstrzyga ją karta_kolejnosc, wyłącznie przy
 // remisie dat. Nowy prezentownik ze świeższą datą trafia na górę bez tego pola.
 const kolejnosc = (m) => m.frontmatter.karta_kolejnosc ?? 99;
 const zMarkdownu = zajawkiArtykulow(
@@ -32,10 +32,10 @@ const zMarkdownu = zajawkiArtykulow(
 
 // Prezentowniki serii są stronami .astro (treść sterowana danymi z katalogu
 // i cen, więc markdown by ich nie udźwignął). Każda taka strona eksportuje
-// `meta` z danymi karty — hub czyta je tak samo jak frontmatter markdownu,
+// `meta` z danymi karty – hub czyta je tak samo jak frontmatter markdownu,
 // dzięki czemu nowa seria pojawia się tutaj bez edycji tego pliku.
 // Zdjęcie karty wskazuje pole `okladka` w `meta` (numer zestawu).
-// Sortujemy PRZED zajawkaZMeta, bo zajawka niesie już tylko pola karty —
+// Sortujemy PRZED zajawkaZMeta, bo zajawka niesie już tylko pola karty –
 // `kolejnosc` w niej nie ma, więc sortowanie po transformacji nie działa.
 const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
   .map((m) => m.meta)
@@ -48,9 +48,9 @@ const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager
 // Przewodniki wiekowo-budżetowe zachowują dotychczasowy porządek datą malejąco.
 const przewodniki = [...zAstro, ...zMarkdownu];
 ---
-<Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
+<Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO – według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
   <h1 style="margin-top:28px">Prezentowniki</h1>
-  <p>Przewodniki prezentowe według wieku, budżetu i okazji. Każda cena z datą sprawdzenia, każdy rabat liczony od oficjalnej ceny katalogowej LEGO — bez pseudopromocji.</p>
+  <p>Przewodniki prezentowe według wieku, budżetu i okazji. Każda cena z datą sprawdzenia, każdy rabat liczony od oficjalnej ceny katalogowej LEGO – bez pseudopromocji.</p>
 
   <div class="zajawki">
     {przewodniki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}

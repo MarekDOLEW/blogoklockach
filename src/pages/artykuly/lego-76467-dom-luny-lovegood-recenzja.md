@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO 76467 Dom Luny Lovegood — wreszcie coś innego niż kolejny kawałek Hogwartu"
+title: "LEGO 76467 Dom Luny Lovegood – wreszcie coś innego niż kolejny kawałek Hogwartu"
 opis: "Pierwszy oficjalny Dom Lovegoodów: 764 elementy, 5 minifigurek z debiutującym Ksenofiliusem i projektor Opowieści o Trzech Braciach. Recenzja + progi cenowe: przy 299 zł to bardzo dobra oferta."
 data: "2026-08-20"
 kategoria: "Recenzje"
@@ -8,7 +8,7 @@ faq:
   - q: "Ile kosztuje LEGO 76467 Dom Luny Lovegood?"
     a: "Cena katalogowa to 419,99 zł, ale w sklepach internetowych zestaw bywa już w okolicach 299 zł (−29%). Naszym zdaniem dobry próg zakupu to 315–320 zł, a oferty poniżej 300 zł można traktować jako bardzo dobre."
   - q: "Dla kogo jest zestaw 76467?"
-    a: "Oficjalnie 10+. Najlepiej sprawdzi się u dziecka, które lubi Harry'ego Pottera i ma już kilka zestawów z Hogwartu — Dom Lovegoodów rozszerza świat poza zamek. Konstrukcja jest ciekawsza niż w typowym zestawie do zabawy, ale nie przesadnie trudna."
+    a: "Oficjalnie 10+. Najlepiej sprawdzi się u dziecka, które lubi Harry'ego Pottera i ma już kilka zestawów z Hogwartu – Dom Lovegoodów rozszerza świat poza zamek. Konstrukcja jest ciekawsza niż w typowym zestawie do zabawy, ale nie przesadnie trudna."
   - q: "Co potrafi projektor w Domu Luny?"
     a: "Świecący klocek współpracuje z mechanizmem wyświetlającym na ścianie obrazy związane z Opowieścią o Trzech Braciach. Jako funkcja do zabawy działa świetnie; jakość samej projekcji jest przeciętna, co dorosły zauważy szybciej niż dziecko."
   - q: "Jakie minifigurki są w zestawie 76467?"
@@ -19,7 +19,7 @@ W serii [LEGO Harry Potter](/serie/harry-potter/) trudno narzekać na brak Hogwa
 
 To pierwszy oficjalny zestaw LEGO przedstawiający charakterystyczny dom rodziny Lovegoodów. W pudełku dostajemy pięć minifigurek, w tym debiutującego Ksenofiliusa Lovegooda, kilka pomieszczeń pełnych odniesień do świata Harry'ego Pottera oraz bardzo nietypową funkcję projektora Opowieści o Trzech Braciach. Zestaw przeznaczony jest dla dzieci od 10 lat i właśnie z tej perspektywy warto go przede wszystkim oceniać.
 
-![LEGO 76467 Dom Luny Lovegood — zbudowany model z minifigurkami](/img/76467-1.jpg)
+![LEGO 76467 Dom Luny Lovegood – zbudowany model z minifigurkami](/img/76467-1.jpg)
 
 ## Podstawowe dane
 
@@ -51,15 +51,15 @@ Z perspektywy dziecka ma to dodatkową zaletę: samo budowanie nie powinno być 
 
 Po zbudowaniu dom działa przede wszystkim jako miejsce do odgrywania historii. Otwarty tył daje dostęp do wnętrza, a poszczególne pomieszczenia mają wyraźne funkcje i sporo drobnych odniesień do świata Lovegoodów.
 
-![LEGO 76467 — wnętrze domu Lovegoodów z pomieszczeniami do zabawy](/img/76467-2.jpg)
+![LEGO 76467 – wnętrze domu Lovegoodów z pomieszczeniami do zabawy](/img/76467-2.jpg)
 
 Pomaga w tym obsada. Ksenofilius, Luna, Harry, Hermiona i Śmierciożerca pozwalają od razu stworzyć konflikt i kilka scenariuszy zabawy. Nie trzeba sięgać po inny zestaw tylko po to, żeby w domu zaczęło się coś dziać.
 
-Dla kolekcjonera najważniejszy jest oczywiście Ksenofilius Lovegood, który pojawia się tutaj jako minifigurka LEGO po raz pierwszy. Dla dziecka jego znaczenie jest bardziej praktyczne — obok Luny daje domowi właściwych mieszkańców, a Harry, Hermiona i Śmierciożerca wprowadzają fabułę.
+Dla kolekcjonera najważniejszy jest oczywiście Ksenofilius Lovegood, który pojawia się tutaj jako minifigurka LEGO po raz pierwszy. Dla dziecka jego znaczenie jest bardziej praktyczne – obok Luny daje domowi właściwych mieszkańców, a Harry, Hermiona i Śmierciożerca wprowadzają fabułę.
 
 Można natomiast zastanawiać się nad brakiem Rona. Jeśli traktujemy zestaw jako odwzorowanie konkretnej sceny z Insygniów Śmierci, jego obecność byłaby logiczna. Nie jest to wada, która psuje zabawę, ale przy pięciu minifigurkach dobór bohaterów mógł być jeszcze lepszy.
 
-## Projektor — przede wszystkim do zabawy, nie do kina domowego
+## Projektor – przede wszystkim do zabawy, nie do kina domowego
 
 Najbardziej nietypowym pomysłem w całym zestawie jest projektor.
 
@@ -85,7 +85,7 @@ Nie traktowałbym tego jako poważnej wady konstrukcyjnej. To raczej cena za po�
 
 ## Czy to dobry zestaw dla dziecka?
 
-Jeżeli dziecko rzeczywiście lubi Harry'ego Pottera — zdecydowanie tak.
+Jeżeli dziecko rzeczywiście lubi Harry'ego Pottera – zdecydowanie tak.
 
 Największą zaletą 76467 jest połączenie kilku różnych rodzajów zabawy. Najpierw dostajemy ciekawy proces budowania nietypowego budynku. Później jest otwarty dom z pięcioma postaciami i pomieszczeniami do odgrywania historii. Do tego dochodzi projektor, który wprowadza jeszcze jeden element interakcji.
 
@@ -95,20 +95,20 @@ Jako pierwszy zestaw z tej serii również działa, ale jest mniej uniwersalny. 
 
 ## A jeśli dziecko woli rozbudowywać Hogwart?
 
-Bezpośrednią alternatywą w podobnym przedziale cenowym jest [LEGO 76463 Zamek Hogwart: Skrzydło szpitalne](/zestaw/76463/) — aktualnie do złapania nawet za ~292 zł. Wybór zależy więc bardziej od sposobu zabawy niż od ceny.
+Bezpośrednią alternatywą w podobnym przedziale cenowym jest [LEGO 76463 Zamek Hogwart: Skrzydło szpitalne](/zestaw/76463/) – aktualnie do złapania nawet za ~292 zł. Wybór zależy więc bardziej od sposobu zabawy niż od ceny.
 
 Jeżeli dziecko chce przede wszystkim rozwijać własny Hogwart i łączyć kolejne fragmenty zamku, Skrzydło szpitalne będzie bardziej naturalnym wyborem. Jeżeli natomiast Hogwartu jest już w kolekcji wystarczająco dużo albo największą sympatią cieszy się Luna, 76467 wnosi znacznie więcej świeżości.
 
-## Cena — 419,99 zł to zdecydowanie za dużo
+## Cena – 419,99 zł to zdecydowanie za dużo
 
 Cena katalogowa LEGO wynosi 419,99 zł i na tym poziomie trudno mi ten zestaw polecić. Dom jest ciekawy, ale nie oferuje na tyle dużo, żeby płacenie pełnego RRP miało sens.
 
-Na szczęście polski rynek wygląda już zupełnie inaczej — zestaw regularnie schodzi w okolice 300 zł, czyli blisko −29% od ceny katalogowej. Przy takim poziomie rynku przyjąłbym:
+Na szczęście polski rynek wygląda już zupełnie inaczej – zestaw regularnie schodzi w okolice 300 zł, czyli blisko −29% od ceny katalogowej. Przy takim poziomie rynku przyjąłbym:
 
-- **około 330 zł** — cena jeszcze rozsądna dla zdecydowanego fana,
-- **około 315–320 zł** — dobry próg zakupu,
-- **około 300 zł** — bardzo dobra cena,
-- **poniżej 290 zł** — oferta, którą można już traktować jako okazję, jeśli pochodzi z wiarygodnego sklepu.
+- **około 330 zł** – cena jeszcze rozsądna dla zdecydowanego fana,
+- **około 315–320 zł** – dobry próg zakupu,
+- **około 300 zł** – bardzo dobra cena,
+- **poniżej 290 zł** – oferta, którą można już traktować jako okazję, jeśli pochodzi z wiarygodnego sklepu.
 
 Zamiast przywiązywać rekomendację do jednej promocji, która może szybko przestać być aktualna, porównaj bieżące ceny w kilku dużych sklepach:
 
@@ -128,14 +128,14 @@ Kolekcjonersko najbardziej interesujący będzie więc dla osób zbierających m
 
 ## Czy warto kupić Dom Luny?
 
-**Tak — szczególnie jeśli kupujemy go młodemu fanowi Harry'ego Pottera, który ma już za sobą kilka zestawów z Hogwartu.**
+**Tak – szczególnie jeśli kupujemy go młodemu fanowi Harry'ego Pottera, który ma już za sobą kilka zestawów z Hogwartu.**
 
 Dom Lovegoodów wyróżnia się na tle serii, daje ciekawszy niż przeciętnie proces budowania, ma sensowną obsadę i po złożeniu oferuje kilka różnych sposobów zabawy. Projektor jest bardzo dobrym pomysłem, nawet jeśli sama jakość projekcji nie wszystkich przekona, a płytkie wnętrze pozostaje największym konstrukcyjnym kompromisem modelu.
 
-Największym problemem jest właściwie cena katalogowa. Przy 419,99 zł szukałbym czegoś innego albo czekał na promocję. Przy około 315–320 zł zestaw zaczyna mieć sens, a okolice 300 zł uważam już za bardzo dobrą cenę — **i właśnie w tych okolicach rynek go trzyma**.
+Największym problemem jest właściwie cena katalogowa. Przy 419,99 zł szukałbym czegoś innego albo czekał na promocję. Przy około 315–320 zł zestaw zaczyna mieć sens, a okolice 300 zł uważam już za bardzo dobrą cenę – **i właśnie w tych okolicach rynek go trzyma**.
 
 Dla dziecka najważniejsze będzie jednak coś innego: zamiast następnej klasy i kolejnego korytarza Hogwartu dostaje miejsce z własnym charakterem, własnymi bohaterami i własną historią. I właśnie dlatego Dom Luny Lovegood jest jednym z ciekawszych kierunków, w jakie może rozwijać się dziecięca część serii LEGO Harry Potter.
 
 ---
 
-*Zobacz też: [prezentownik LEGO Harry Potter](/prezentowniki/lego-harry-potter/) · [LEGO na rozpoczęcie roku szkolnego](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) · [wszystkie zestawy Harry Potter z aktualnymi cenami](/serie/harry-potter/) · [kalendarz promocji — okno Back to Hogwarts 29.08–06.09](/kalendarz-promocji-lego/)*
+*Zobacz też: [prezentownik LEGO Harry Potter](/prezentowniki/lego-harry-potter/) · [LEGO na rozpoczęcie roku szkolnego](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) · [wszystkie zestawy Harry Potter z aktualnymi cenami](/serie/harry-potter/) · [kalendarz promocji – okno Back to Hogwarts 29.08–06.09](/kalendarz-promocji-lego/)*

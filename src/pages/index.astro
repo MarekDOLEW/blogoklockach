@@ -16,7 +16,7 @@ const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
 const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
-// serie „kolekcjonerskie" na potrzeby doboru deala dnia i siatki 4×4 — ustalenie redakcyjne, nie publikujemy go na stronie
+// serie „kolekcjonerskie" na potrzeby doboru deala dnia i siatki 4×4 – ustalenie redakcyjne, nie publikujemy go na stronie
 const KOLEKCJONERSKIE = new Set(['Ideas', 'Icons', 'Star Wars', 'Technic', 'Harry Potter', 'Botanicals']);
 
 const wpisy = Object.entries(sety)
@@ -25,14 +25,14 @@ const wpisy = Object.entries(sety)
 
 // ── Deale dnia (slajder, do 5 odsłon): po jednym z każdej półki cenowej + 2 dzikie karty ──
 // Procentowo największe rabaty trafiają się na tanich zestawach, więc bez kwotowania
-// drogie zestawy nigdy nie wchodziły do karuzeli — a 20% z 1000 zł to więcej niż 33% ze 120 zł.
+// drogie zestawy nigdy nie wchodziły do karuzeli – a 20% z 1000 zł to więcej niż 33% ze 120 zł.
 // Sloty 1–3: półki 801 zł+, 201–800 zł i do 200 zł. Sloty 4–5: dzikie karty, maks. 2 sety z serii.
 //
-// Dobór w obrębie półki NIE jest już „zawsze najwyższy rabat" — głębokie rabaty wiszą
+// Dobór w obrębie półki NIE jest już „zawsze najwyższy rabat" – głębokie rabaty wiszą
 // tygodniami i karuzela pokazywała codziennie to samo. Zamiast tego:
 //   1. pierwszeństwo mają sety, które DZIŚ zaliczyły nowe minimum cenowe (prawdziwy news),
 //   2. w przeciwnym razie los z ziarnem daty wybiera spośród czołówki półki
-//      (rabat maks. 8 p.p. od lidera, do 5 kandydatów) — skład rotuje między dniami,
+//      (rabat maks. 8 p.p. od lidera, do 5 kandydatów) – skład rotuje między dniami,
 //      a jakość dealu pozostaje porównywalna.
 const POLKI = [
   { klucz: 'premium', etykieta: '801 zł+', pasuje: (c) => c > 800 },
@@ -41,13 +41,13 @@ const POLKI = [
 ];
 const polkaSetu = (s) => POLKI.find((p) => p.pasuje(najlepszaCena(s)));
 
-// ziarno z daty — skład stały w ciągu dnia, inny każdego dnia (build odpala się przy każdym pushu)
+// ziarno z daty – skład stały w ciągu dnia, inny każdego dnia (build odpala się przy każdym pushu)
 const dzisiaj = new Date().toISOString().slice(0, 10);
 const ziarno = Number(dzisiaj.replaceAll('-', ''));
 const los = (() => { let a = ziarno; return () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; })();
 
 // nowe minimum z ostatniego przebiegu Łowcy = najmocniejszy sygnał świeżości.
-// Porównujemy z datą danych (najświeższa data ofert), nie z zegarem builda —
+// Porównujemy z datą danych (najświeższa data ofert), nie z zegarem builda –
 // build odpalony po północy UTC ma już „jutrzejszą" datę kalendarzową.
 const dzienDanych = wpisy
   .flatMap((s) => s.oferty.map((o) => o.data ?? ''))
@@ -83,7 +83,7 @@ while (dealeDnia.length < 5 && rezerwa.length) {
 const dealDnia = dealeDnia[0] ?? null;
 
 // ── „Dziś w dobrej cenie": do 12 setów kolekcjonerskich + po ≤10 z 12 losowych serii ──
-// (korzysta z tego samego seedowanego `los` co slajder — zdefiniowany wyżej)
+// (korzysta z tego samego seedowanego `los` co slajder – zdefiniowany wyżej)
 const wSlajderze = new Set(dealeDnia.map((s) => s.nr));
 const pula = zRabatem.filter((s) => !wSlajderze.has(s.nr));
 const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 12);
@@ -116,7 +116,7 @@ const punkty = (w) => {
   }
   if (KOLEKCJONERSKIE.has(w.seria)) p += 2;
   if ((w.kiedy ?? '').includes('grudzień')) p += 1;
-  if (w.kiedy === 'wycofany') p -= 4; // rynek wtórny — nie da się już „upolować" w sklepie
+  if (w.kiedy === 'wycofany') p -= 4; // rynek wtórny – nie da się już „upolować" w sklepie
   return { wiersz, p };
 };
 const topWycofania = wycofaniaDane.wycofania
@@ -133,7 +133,7 @@ const artykuly = Object.entries({
   ...import.meta.glob('./*.md', { eager: true }),
 })
   .map(([, m]) => m)
-  // ./*.md łapie każdy nowy plik .md w src/pages — kategoria jest testem,
+  // ./*.md łapie każdy nowy plik .md w src/pages – kategoria jest testem,
   // czy to artykuł (patrz NARZEDZIA.md)
   .filter((m) => m.frontmatter?.kategoria)
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
@@ -142,7 +142,7 @@ const artykuly = Object.entries({
 
 ---
 <Base
-  title="Promocje LEGO dziś — prawdziwe rabaty"
+  title="Promocje LEGO dziś – prawdziwe rabaty"
   description="Codziennie sprawdzamy ceny zestawów LEGO w największych sklepach. Rabaty liczymy od cen katalogowych, wyłapujemy najniższe ceny w historii."
   jsonld={{
     '@context': 'https://schema.org',
@@ -156,7 +156,7 @@ const artykuly = Object.entries({
     },
   }}
 >
-  <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO — rabaty liczone od cen katalogowych</h1>
+  <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO – rabaty liczone od cen katalogowych</h1>
 
   {dealeDnia.length > 0 && (
     <section class="deale-slajder karta" aria-roledescription="karuzela" aria-label="Deale dnia">
@@ -267,7 +267,7 @@ const artykuly = Object.entries({
       <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
       <h2>Top 10 wycofań wartych upolowania</h2>
     </div>
-    <p>Zestawy, które niedługo znikną z produkcji — kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
+    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
     <TabelaSetow wiersze={topWycofania} pokazKiedy />
   </section>
 
@@ -286,17 +286,17 @@ const artykuly = Object.entries({
   <section class="sekcja persony">
     <div class="karta persona">
       <h3>👨‍👩‍👧 Kupujesz dla dziecka?</h3>
-      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> — nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
+      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> – nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
     </div>
     <div class="karta persona afol">
       <h3>🧱 Budujesz kolekcję?</h3>
-      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów — wiemy, co i kiedy warto brać.</p>
+      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów – wiemy, co i kiedy warto brać.</p>
     </div>
   </section>
 </Base>
 
 <script>
-  // Slajder deali dnia — scroll-snap robi przewijanie (dotyk/trackpad działa bez JS),
+  // Slajder deali dnia – scroll-snap robi przewijanie (dotyk/trackpad działa bez JS),
   // skrypt dokłada strzałki, kropki i autoplay. Autoplay stoi przy ograniczeniu ruchu
   // (prefers-reduced-motion) i gaśnie na stałe po pierwszej interakcji użytkownika.
   const $slajder = document.querySelector('.deale-slajder');
@@ -345,7 +345,7 @@ const artykuly = Object.entries({
     }
   }
 
-  // Filtr chipów + stronicowanie — czysto klienckie, wszystkie karty są w HTML (SEO).
+  // Filtr chipów + stronicowanie – czysto klienckie, wszystkie karty są w HTML (SEO).
   // Widok „Wszystkie" stronicuje po 12 (3 rzędy × 4); pojedyncza seria ma ≤12 kart,
   // więc mieści się bez stronicowania.
   const NA_STRONE = 12;

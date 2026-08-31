@@ -1,4 +1,4 @@
-// Sitemapa priorytetowa — wyłącznie podstrony z realną, autorską treścią:
+// Sitemapa priorytetowa – wyłącznie podstrony z realną, autorską treścią:
 // artykuły, prezentowniki i te podstrony zestawów, które mają kartę opisową
 // (src/data/karty_setow.json: kilka akapitów + FAQ w danych strukturalnych).
 //

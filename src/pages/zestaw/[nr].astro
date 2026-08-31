@@ -18,7 +18,7 @@ export function getStaticPaths() {
 const { nr } = Astro.params;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 
-// Pełny hub (sety.json, redakcyjne opisy) albo lekki — złożony z katalogu i feedów.
+// Pełny hub (sety.json, redakcyjne opisy) albo lekki – złożony z katalogu i feedów.
 const s = sety[nr] ?? null;
 const kat = wpisKatalogu(nr);
 const wycofanie = wycofanieSetu(nr);
@@ -43,11 +43,11 @@ const foto =
 // kolejność: opis redakcyjny -> uwagi z listy wycofań (pisane ręcznie, aktualne)
 // -> opis generowany; generator bywa nieaktualny (np. "nie ma go w sklepach"
 // o secie, który LEGO wciąż sprzedaje), więc stoi na końcu
-// Karta katalogowo-sprzedażowa (redakcja) — pełny opis pod tabelą cen.
+// Karta katalogowo-sprzedażowa (redakcja) – pełny opis pod tabelą cen.
 const karta = karty[nr] ?? null;
 // Zdjęcia slajdera: /img/<nr>-N.jpg serwuje worker z galerie.json
 const galeriaSlajder = galerie[nr] ?? [];
-// Gdy jest karta, generowany opis ustępuje — inaczej te same fakty pojawiłyby
+// Gdy jest karta, generowany opis ustępuje – inaczej te same fakty pojawiłyby
 // się dwa razy, a generator bywa nieaktualny.
 const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety })?.tekst) ?? null;
 
@@ -97,7 +97,7 @@ const jsonld = {
 
 // Tagi zestawu: krótkie etykiety z danych, które i tak pokazujemy niżej.
 // Mają pomóc czytelnikowi ocenić zestaw jednym rzutem oka („18+", „duży
-// zestaw"), a nie mnożyć bytów — dlatego wyliczamy je, zamiast wpisywać ręcznie.
+// zestaw"), a nie mnożyć bytów – dlatego wyliczamy je, zamiast wpisywać ręcznie.
 const tagi = [
   s?.wiek === '18+' || kat?.wiek === '18+' ? 'Dla dorosłych' : null,
   elementy && elementy >= 2000 ? 'Duży zestaw' : null,
@@ -106,7 +106,7 @@ const tagi = [
   wycofanie && wycofanie.kiedy !== 'wycofany' ? 'Znika z rynku' : null,
 ].filter(Boolean);
 
-// Okruszki widoczne — ta sama ścieżka co w danych strukturalnych powyżej,
+// Okruszki widoczne – ta sama ścieżka co w danych strukturalnych powyżej,
 // żeby to, co widzi czytelnik, i to, co czyta Google, nigdy się nie rozjechało.
 const sciezkaOkruszkow = [
   { nazwa: 'Start', href: '/' },
@@ -114,7 +114,7 @@ const sciezkaOkruszkow = [
   { nazwa: `LEGO ${nr}` },
 ];
 
-// FAQ z karty trafia do danych strukturalnych — realna treść, na której Google
+// FAQ z karty trafia do danych strukturalnych – realna treść, na której Google
 // może oprzeć ocenę jakości podstrony, a nie sam szablon cenowy.
 const faqJsonld = karta?.faq?.length
   ? {
@@ -128,10 +128,10 @@ const faqJsonld = karta?.faq?.length
     }
   : null;
 
-// tytuł zwięzły — Google obcina ~60 znaków, sufiks domeny dokłada Base
+// tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base
 const tytul = najlepsza
-  ? `LEGO ${nr} ${nazwa} — cena i promocje`
-  : `LEGO ${nr} ${nazwa}${eol ? ' — zestaw wycofany' : ''}`;
+  ? `LEGO ${nr} ${nazwa} – cena i promocje`
+  : `LEGO ${nr} ${nazwa}${eol ? ' – zestaw wycofany' : ''}`;
 const opisMeta = najlepsza
   ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
@@ -144,15 +144,15 @@ const opisMeta = najlepsza
         {galeriaSlajder.length > 0 ? (
           <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
             <div class="slajder-tasma" id={`tasma-${nr}`}>
-              <img id={`kl-${nr}-0`} src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie główne`} width="800" height="800" />
+              <img id={`kl-${nr}-0`} src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" />
               {galeriaSlajder.map((_, i) => (
-                <img id={`kl-${nr}-${i + 1}`} src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+                <img id={`kl-${nr}-${i + 1}`} src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
           </figure>
         ) : foto?.url ? (
           <figure class="foto-okno">
-            <img src={foto.url} alt={`LEGO ${nr} ${nazwa} — zdjęcie zestawu`} width="800" height="800" />
+            <img src={foto.url} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" />
           </figure>
         ) : (
           <div class="foto-placeholder">
@@ -173,7 +173,7 @@ const opisMeta = najlepsza
                 </a>
               ))}
             </div>
-            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć — przesuń palcem lub kliknij miniaturę</p>
+            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć – przesuń palcem lub kliknij miniaturę</p>
           </>
         )}
         {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
@@ -181,7 +181,7 @@ const opisMeta = najlepsza
       <div>
         <p style="margin-top:0" class="set-plakietki">
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
-          {wkrotce && <span class="badge-wkrotce">wkrótce — zapowiedź</span>}
+          {wkrotce && <span class="badge-wkrotce">wkrótce – zapowiedź</span>}
           {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && <span class="badge-seria">wycofany (EOL)</span>}
           {tagi.map((t) => <span class="badge-tag">{t}</span>)}
@@ -211,7 +211,7 @@ const opisMeta = najlepsza
         <div class="galeria">
           {zdj.galeria.map((g, i) => (
             <a href={g} target="_blank" rel="noopener">
-              <img src={g} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
+              <img src={g} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
             </a>
           ))}
         </div>
@@ -223,15 +223,15 @@ const opisMeta = najlepsza
     ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
       <div id="ceny">
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
-        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy — wiążąca jest zawsze cena w koszyku sklepu.</p>
+        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy – wiążąca jest zawsze cena w koszyku sklepu.</p>
       </div>
     ) : (
-      <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' — po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
+      <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
     )}
 
     {karta && (
       <section class="sekcja karta-setu" style="margin-top:24px">
-        <h2>LEGO {nr} {karta.nazwa} — opis</h2>
+        <h2>LEGO {nr} {karta.nazwa}</h2>
         {karta.akapity.map((a) => <p class="prose" set:html={a} />)}
         {karta.metryka && Object.keys(karta.metryka).length > 0 && (
           <>
@@ -286,7 +286,7 @@ const opisMeta = najlepsza
   </article>
   <script is:inline>
     // Miniatury przewijają taśmę zdjęć w poziomie. Bez skryptu kotwice #kl-…
-    // też działają — skrypt tylko zapobiega przeskokowi całej strony
+    // też działają – skrypt tylko zapobiega przeskokowi całej strony
     // i podświetla aktywną miniaturę.
     document.querySelectorAll('.miniatury').forEach((pasek) => {
       const tasma = document.getElementById(pasek.dataset.tasma);

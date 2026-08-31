@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "opis": "Galerie zdjęć do artykułów: numer setu -> lista URL-i źródłowych. Worker serwuje je jako /img/<numer>-<pozycja>.jpg (pozycje od 1) z trwałą kopią w R2 — jak główne zdjęcia z obrazy.json.",
+    "opis": "Galerie zdjęć do artykułów: numer setu -> lista URL-i źródłowych. Worker serwuje je jako /img/<numer>-<pozycja>.jpg (pozycje od 1) z trwałą kopią w R2 – jak główne zdjęcia z obrazy.json.",
     "zrodlo": "oficjalne materiały produktowe LEGO w cache sklepu planetaklockow.pl (1024px)"
   },
   "76467": [

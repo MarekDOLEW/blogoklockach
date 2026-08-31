@@ -14,9 +14,9 @@ faq:
   - q: "Czy „LEGO za 200 zł” oznacza zestawy z ceną katalogową poniżej 200 zł?"
     a: "Nie. W polskich sklepach modele z ceną katalogową 235 czy 250 zł regularnie kosztują 170–190 zł. To realna cena zakupu, a nie kwota z katalogu, powinna decydować o tym, co mieści się w budżecie."
   - q: "Czy zestaw oznaczony 7+ nie będzie za łatwy dla dziesięciolatka?"
-    a: "Nie zawsze jest to wada. Przy zestawie takim jak Friends 42686 budowanie jest tylko drogą do właściwej zabawy — a ta może trwać znacznie dłużej niż samo składanie. Problem pojawia się dopiero wtedy, gdy dziecku zależy przede wszystkim na wyzwaniu konstrukcyjnym."
+    a: "Nie zawsze jest to wada. Przy zestawie takim jak Friends 42686 budowanie jest tylko drogą do właściwej zabawy – a ta może trwać znacznie dłużej niż samo składanie. Problem pojawia się dopiero wtedy, gdy dziecku zależy przede wszystkim na wyzwaniu konstrukcyjnym."
   - q: "Czy licencja ma znaczenie przy prezencie z LEGO?"
-    a: "Duże. Przy zestawach Marvel czy Minecraft znaczna część wartości emocjonalnej zależy od tego, czy dziecko zna dany świat. Zestawy bez licencji — Creator, Technic, City — są bezpieczniejszym wyborem, gdy kupujemy w ciemno."
+    a: "Duże. Przy zestawach Marvel czy Minecraft znaczna część wartości emocjonalnej zależy od tego, czy dziecko zna dany świat. Zestawy bez licencji – Creator, Technic, City – są bezpieczniejszym wyborem, gdy kupujemy w ciemno."
 ---
 
 Kupowanie LEGO na prezent jest proste, dopóki dokładnie wiemy, czym dziecko się interesuje. Fan Minecrafta prawdopodobnie ucieszy się z Minecrafta, miłośnik samochodów ze [Speed Champions](/serie/speed-champions/), a dziecko śledzące przygody Spider-Mana z zestawu [Marvel](/serie/marvel/).
@@ -43,7 +43,7 @@ Nie chodzi również o znalezienie możliwie największego pudełka albo najwię
 
 Jeżeli miałbym kupić zestaw dziesięciolatkowi, o którego zainteresowaniach wiem niewiele, [LEGO Creator 3 w 1 31161 Średniowieczny smok](/zestaw/31161/) byłby moim pierwszym wyborem.
 
-Zestaw jest oznaczony jako 9+ i składa się z 715 elementów. Najważniejsze jest jednak coś innego: z jednej puli klocków można zbudować trzy pełne modele — średniowiecznego smoka, feniksa albo węża morskiego.
+Zestaw jest oznaczony jako 9+ i składa się z 715 elementów. Najważniejsze jest jednak coś innego: z jednej puli klocków można zbudować trzy pełne modele – średniowiecznego smoka, feniksa albo węża morskiego.
 
 Nie dostajemy więc po prostu jednego smoka i dwóch drobnych pomysłów dodanych na końcu instrukcji. Niezależne recenzje bardzo dobrze oceniają wszystkie trzy konstrukcje, a właśnie proces rozbierania jednego stworzenia i składania kolejnego jest największą wartością tego zestawu.
 
@@ -71,7 +71,7 @@ W praktyce oznacza to zupełnie inne doświadczenie niż przy klasycznym LEGO Sy
 
 Niezależne recenzje dobrze oceniają właśnie liczbę funkcji upakowanych w stosunkowo niewielkim modelu. Słabszym punktem jest dość proste wnętrze, ale w [Technicu](/serie/technic/) nie ono jest najważniejsze.
 
-Bronco powinien dobrze pasować do dziecka, które lubi pojazdy, mechanikę albo po prostu chce dostać coś konstrukcyjnie innego niż typowy zestaw z minifigurkami. Marka Ford pomaga w atrakcyjności modelu, ale nie jest tutaj warunkiem koniecznym — nie trzeba być fanem Bronco, żeby docenić działające zawieszenie czy kierowanie.
+Bronco powinien dobrze pasować do dziecka, które lubi pojazdy, mechanikę albo po prostu chce dostać coś konstrukcyjnie innego niż typowy zestaw z minifigurkami. Marka Ford pomaga w atrakcyjności modelu, ale nie jest tutaj warunkiem koniecznym – nie trzeba być fanem Bronco, żeby docenić działające zawieszenie czy kierowanie.
 
 Przy cenie około 180–190 zł zestaw wypada bardzo dobrze. Pełnych 249,99 zł nie ma większego sensu płacić.
 
@@ -109,7 +109,7 @@ To zestaw oficjalnie oznaczony jako 7+, więc dla dziesięciolatka sam proces bu
 
 Po zbudowaniu sala oferuje zjeżdżalnię, basen z piłeczkami, karuzelę, trampolinę, automat do tańca, bar i kilka innych miejsc do zabawy. Są trzy minilaleczki, a fragmenty konstrukcji można przestawiać.
 
-To jeden z najlepszych zestawów w tym budżecie, jeśli dziecko wykorzystuje LEGO głównie do wymyślania historii. Nie dostaje jednej narzuconej fabuły znanej z filmu czy gry — postacie mogą robić właściwie to, co dziecko samo wymyśli.
+To jeden z najlepszych zestawów w tym budżecie, jeśli dziecko wykorzystuje LEGO głównie do wymyślania historii. Nie dostaje jednej narzuconej fabuły znanej z filmu czy gry – postacie mogą robić właściwie to, co dziecko samo wymyśli.
 
 Warto przy okazji odrzucić stary schemat myślenia, że [Friends](/serie/friends/) to automatycznie „LEGO dla dziewczynki". Znacznie sensowniejsze pytanie brzmi: czy dziecko lubi zabawę postaciami i codziennymi sytuacjami? Jeśli tak, ten zestaw może sprawdzić się lepiej niż znacznie bardziej techniczny samochód.
 
@@ -123,7 +123,7 @@ Przy około 180–190 zł oceniam go jako dobry zakup.
 
 <div class="galeria-setow" data-sety="76321"></div>
 
-Jeżeli wiemy, że dziecko lubi Spider-Mana, sytuacja robi się dużo prostsza. [LEGO Marvel 76321 Spider-Man kontra Doc Ock — scena w metrze](/zestaw/76321/) ma 393 elementy, cztery minifigurki i wagon metra będący centrum całej zabawy.
+Jeżeli wiemy, że dziecko lubi Spider-Mana, sytuacja robi się dużo prostsza. [LEGO Marvel 76321 Spider-Man kontra Doc Ock – scena w metrze](/zestaw/76321/) ma 393 elementy, cztery minifigurki i wagon metra będący centrum całej zabawy.
 
 W pudełku od razu mamy bohaterów i konflikt, więc nie trzeba dokupować drugiego zestawu, żeby zaczęło się coś dziać. Wagon ma dostępne wnętrze i można wykorzystać go także ze standardowymi torami LEGO, chociaż torów w tym zestawie nie ma.
 
@@ -147,7 +147,7 @@ Minecraft i LEGO pasują do siebie wyjątkowo naturalnie, bo w obu przypadkach d
 
 To ciekawy kompromis między modelem do zabawy a czymś, co po skończeniu można po prostu postawić na półce. Niezależne recenzje właśnie to połączenie oceniają szczególnie dobrze.
 
-Dla dziecka znającego Minecrafta poszczególne elementy, postacie i funkcje są natychmiast czytelne. Można odgrywać sytuacje znane z gry, ale nic nie stoi na przeszkodzie, żeby później rozbudowywać kopalnię po swojemu. Dla dziecka, które w Minecrafta nie gra, nadal pozostaje funkcjonalny model — nie da się jednak ukryć, że spora część jego wartości emocjonalnej zależy od znajomości gry.
+Dla dziecka znającego Minecrafta poszczególne elementy, postacie i funkcje są natychmiast czytelne. Można odgrywać sytuacje znane z gry, ale nic nie stoi na przeszkodzie, żeby później rozbudowywać kopalnię po swojemu. Dla dziecka, które w Minecrafta nie gra, nadal pozostaje funkcjonalny model – nie da się jednak ukryć, że spora część jego wartości emocjonalnej zależy od znajomości gry.
 
 Przy około 165–180 zł to bardzo dobry zakup dla fana [Minecrafta](/serie/minecraft/).
 
@@ -179,7 +179,7 @@ W tej grupie szczególnie dobrze widać, dlaczego nie warto sugerować się wył
 | 76321 Spider-Man kontra Doc Ock | 209,99 zł | ok. 170 zł | ok. 175 zł | [Sprawdź →](/zestaw/76321/) |
 | 21277 Kilofowa kopalnia | 234,99 zł | ok. 175 zł | ok. 180 zł | [Sprawdź →](/zestaw/21277/) |
 
-Progi z tabeli są trwałe — to ocena, przy jakiej kwocie zestaw ma sens, a nie odczyt z cennika. Aktualne ceny przy każdym z nich sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
+Progi z tabeli są trwałe – to ocena, przy jakiej kwocie zestaw ma sens, a nie odczyt z cennika. Aktualne ceny przy każdym z nich sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
 
 Dla rekomendacji głównej wygląda to w tej chwili tak:
 
@@ -199,7 +199,7 @@ Jeśli ważniejsza jest zabawa samochodami niż wymagające budowanie, [LEGO Cit
 
 Bardzo ciekawą propozycją pozostaje także [LEGO City 60506 Tramwaj przy plaży](/zestaw/60506/). Nie trafił do głównej szóstki tylko dlatego, że jego normalna cena utrzymuje się nieco ponad przyjętym budżetem. Jeżeli można wydać około 210 zł, zdecydowanie warto go rozważyć.
 
-A dla fana [Star Wars](/serie/star-wars/) naturalnym kandydatem będzie [75451 Starcie z droidem wartowniczym w pałacu Huttów](/zestaw/75451/). Podobnie jak w przypadku Spider-Mana, licencja ma jednak duże znaczenie — nie wybierałbym go w ciemno dziecku, które Gwiezdnymi Wojnami się nie interesuje.
+A dla fana [Star Wars](/serie/star-wars/) naturalnym kandydatem będzie [75451 Starcie z droidem wartowniczym w pałacu Huttów](/zestaw/75451/). Podobnie jak w przypadku Spider-Mana, licencja ma jednak duże znaczenie – nie wybierałbym go w ciemno dziecku, które Gwiezdnymi Wojnami się nie interesuje.
 
 ## Co więc kupić?
 
@@ -211,4 +211,4 @@ Jeżeli zainteresowania dziecka znamy lepiej, warto po prostu wrócić do wcześ
 
 ---
 
-*Zobacz też: [recenzja Creator 31168 — ten sam mechanizm 3 w 1, większe pudełko](/artykuly/lego-31168-sredniowieczny-zamek-recenzja/) · [fala LEGO City z czerwca 2026 — tam 60497 i 60506 z osobna](/artykuly/lego-city-czerwiec-2026-fala/) · [pozostałe prezentowniki](/prezentowniki/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*
+*Zobacz też: [recenzja Creator 31168 – ten sam mechanizm 3 w 1, większe pudełko](/artykuly/lego-31168-sredniowieczny-zamek-recenzja/) · [fala LEGO City z czerwca 2026 – tam 60497 i 60506 z osobna](/artykuly/lego-city-czerwiec-2026-fala/) · [pozostałe prezentowniki](/prezentowniki/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

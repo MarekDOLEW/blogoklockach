@@ -6,8 +6,8 @@ import Karta from '../../components/KartaPrezentu.astro';
 // Zasady doboru jak w prezentowniku Harry Potter: liczby z katalog.json,
 // poziomy cenowe ustalone redakcyjnie na podstawie rozkładu realnych cen
 // w serii. Star Wars ma osiemdziesiąt osiem zestawów w bieżącej sprzedaży
-// i szerszy rozrzut przecen niż Harry Potter — od kilku procent przy świeżych
-// premierach do połowy ceny katalogowej przy rocznikach 2023–2024 — dlatego
+// i szerszy rozrzut przecen niż Harry Potter – od kilku procent przy świeżych
+// premierach do połowy ceny katalogowej przy rocznikach 2023–2024 – dlatego
 // próg zakupu ustalamy osobno dla każdej pozycji, a nie wspólnym wzorem.
 const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
 
@@ -19,9 +19,9 @@ export const meta = {
   kolejnosc: 4,
   znacznik: 'Star Wars',
   tytul: 'Prezent z LEGO Star Wars',
-  opis: 'Siedem zestawów, od 35 zł do wielkiego prezentu. Mechy, hełmy, statki — dla kogo każdy z nich i przy jakiej cenie kupować.',
+  opis: 'Siedem zestawów, od 35 zł do wielkiego prezentu. Mechy, hełmy, statki – dla kogo każdy z nich i przy jakiej cenie kupować.',
   data: '2026-08-24',
-  // zdjęcie karty na /prezentowniki/ — flagowy zestaw z listy
+  // zdjęcie karty na /prezentowniki/ – flagowy zestaw z listy
   okladka: '75389',
 };
 
@@ -31,40 +31,40 @@ const zestawy = [
   { nr: '75444', nazwa: 'Atak AT-RT', etykieta: 'Do 135 zł', rrp: 189.99, dobra: 132 },
   { nr: '75440', nazwa: 'AT-AT', etykieta: 'Do 200 zł', rrp: 274.99, dobra: 198 },
   { nr: '75328', nazwa: 'Hełm Mandalorianina', etykieta: 'Do 190 zł', rrp: 309.99, dobra: 185 },
-  { nr: '75446', nazwa: 'Grogu — uczeń Mandalorianina', etykieta: 'Do 380 zł', rrp: 559.99, dobra: 375 },
+  { nr: '75446', nazwa: 'Grogu – uczeń Mandalorianina', etykieta: 'Do 380 zł', rrp: 559.99, dobra: 375 },
   { nr: '75389', nazwa: 'Mroczny Sokół Millennium', etykieta: 'Wielki prezent', rrp: 779.99, dobra: 630 },
 ];
 
 const faq = [
   {
     q: 'Jaki zestaw LEGO Star Wars wybrać dla dziecka, które nie oglądało filmów?',
-    a: 'Mech albo pojazd, nie model ekspozycyjny. Mechy z serii Star Wars to konstrukcje z ruchomymi kończynami i kokpitem na minifigurkę — bronią się jako zabawka nawet wtedy, gdy dziecko nie kojarzy postaci. Odwrotnie działają hełmy i popiersia: bez znajomości bohatera zostaje ładna bryła na półce, a cała wartość emocjonalna przepada. Zestawy z Grogu z serialu Mandalorian są bezpiecznym środkiem — postać jest rozpoznawalna także poza fandomem.',
+    a: 'Mech albo pojazd, nie model ekspozycyjny. Mechy z serii Star Wars to konstrukcje z ruchomymi kończynami i kokpitem na minifigurkę – bronią się jako zabawka nawet wtedy, gdy dziecko nie kojarzy postaci. Odwrotnie działają hełmy i popiersia: bez znajomości bohatera zostaje ładna bryła na półce, a cała wartość emocjonalna przepada. Zestawy z Grogu z serialu Mandalorian są bezpiecznym środkiem – postać jest rozpoznawalna także poza fandomem.',
   },
   {
     q: 'Czym różnią się hełmy LEGO Star Wars od zwykłych zestawów?',
-    a: 'To modele wyłącznie ekspozycyjne, dla dorosłych, z podstawką i tabliczką. Nie mają minifigurek, nie mają funkcji, nie da się nimi bawić — buduje się je wieczorem i stawia na półce. Jako prezent są trafione dla kogoś, kto ma już zestawy i miejsce na ekspozycję, a chybione dla dziecka, które oczekuje zabawki. Ich zaletą jest przewidywalna cena: hełmy schodzą w sklepach zewnętrznych regularnie i głęboko.',
+    a: 'To modele wyłącznie ekspozycyjne, dla dorosłych, z podstawką i tabliczką. Nie mają minifigurek, nie mają funkcji, nie da się nimi bawić – buduje się je wieczorem i stawia na półce. Jako prezent są trafione dla kogoś, kto ma już zestawy i miejsce na ekspozycję, a chybione dla dziecka, które oczekuje zabawki. Ich zaletą jest przewidywalna cena: hełmy schodzą w sklepach zewnętrznych regularnie i głęboko.',
   },
   {
     q: 'Ile realnie kosztują zestawy Star Wars w sklepach?',
-    a: 'Rozrzut jest większy niż w innych seriach. Świeże premiery z bieżącego rocznika bywają dostępne blisko ceny katalogowej, natomiast zestawy z lat 2023–2025 potrafią schodzić o 30–45%. Dlatego przy Star Wars szczególnie nie warto sugerować się ceną katalogową — starszy rocznik w dobrej cenie bywa lepszym prezentem niż nowość za pełną kwotę.',
+    a: 'Rozrzut jest większy niż w innych seriach. Świeże premiery z bieżącego rocznika bywają dostępne blisko ceny katalogowej, natomiast zestawy z lat 2023–2025 potrafią schodzić o 30–45%. Dlatego przy Star Wars szczególnie nie warto sugerować się ceną katalogową – starszy rocznik w dobrej cenie bywa lepszym prezentem niż nowość za pełną kwotę.',
   },
   {
     q: 'Kiedy LEGO wypuszcza duże zestawy Star Wars?',
-    a: 'Duża premiera kolekcjonerska UCS wypada od lat na początku października, zwykle z ekskluzywnym gratisem w pierwszych dniach sprzedaży. Druga fala przychodzi 1 maja, w okolicach Dnia Gwiezdnych Wojen. Jeśli celujesz w duży zestaw, wrzesień jest najgorszym momentem zakupu — terminy okien promocyjnych zbieramy w kalendarzu promocji.',
+    a: 'Duża premiera kolekcjonerska UCS wypada od lat na początku października, zwykle z ekskluzywnym gratisem w pierwszych dniach sprzedaży. Druga fala przychodzi 1 maja, w okolicach Dnia Gwiezdnych Wojen. Jeśli celujesz w duży zestaw, wrzesień jest najgorszym momentem zakupu – terminy okien promocyjnych zbieramy w kalendarzu promocji.',
   },
 ];
 ---
 <Prezentownik
   title="Prezent z LEGO Star Wars: co kupić i przy jakiej cenie"
-  opis="Siedem zestawów Star Wars na prezent — od 35 zł do wielkiego pudełka. Mechy, hełmy i statki: dla kogo każdy z nich i od jakiej ceny warto kupować."
+  opis="Siedem zestawów Star Wars na prezent – od 35 zł do wielkiego pudełka. Mechy, hełmy i statki: dla kogo każdy z nich i od jakiej ceny warto kupować."
   data="2026-08-24"
   zaktualizowano="2026-08-26"
   faq={faq}
   zestawy={zestawy}
 >
-  <p>Star Wars to największa licencyjna seria LEGO — osiemdziesiąt osiem zestawów w bieżącej sprzedaży i ceny katalogowe od siedemnastu złotych do trzech i pół tysiąca. Przy takim wyborze łatwo kupić coś, co wygląda dobrze na zdjęciu, a po rozpakowaniu okazuje się nie tym, czego oczekiwał obdarowany.</p>
+  <p>Star Wars to największa licencyjna seria LEGO – osiemdziesiąt osiem zestawów w bieżącej sprzedaży i ceny katalogowe od siedemnastu złotych do trzech i pół tysiąca. Przy takim wyborze łatwo kupić coś, co wygląda dobrze na zdjęciu, a po rozpakowaniu okazuje się nie tym, czego oczekiwał obdarowany.</p>
 
-  <p>Bo w tej serii przebiega wyraźna granica, której nie widać po cenie: <b>część zestawów to zabawki, a część to modele na półkę</b>. Mech za sześćdziesiąt złotych i hełm za trzysta trafiają do zupełnie różnych osób, a pomyłka w tę stronę jest najczęstszym błędem przy prezencie z Gwiezdnych wojen. Poniżej siedem rekomendacji z jasno zaznaczoną granicą — i z poziomem ceny, od którego zakup ma sens.</p>
+  <p>Bo w tej serii przebiega wyraźna granica, której nie widać po cenie: <b>część zestawów to zabawki, a część to modele na półkę</b>. Mech za sześćdziesiąt złotych i hełm za trzysta trafiają do zupełnie różnych osób, a pomyłka w tę stronę jest najczęstszym błędem przy prezencie z Gwiezdnych wojen. Poniżej siedem rekomendacji z jasno zaznaczoną granicą – i z poziomem ceny, od którego zakup ma sens.</p>
 
   <Galeria zestawy={zestawy} />
 
@@ -79,14 +79,14 @@ const faq = [
     dlaKogo="dziecko 6–9 lat; działa też bez znajomości filmów"
     dobra={38}
     bardzoDobra={33}
-    prog="poniżej 40 zł — w tej kwocie to najlepiej wydane pieniądze w całej serii"
+    prog="poniżej 40 zł – w tej kwocie to najlepiej wydane pieniądze w całej serii"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Mechy są w Star Wars najbardziej niedocenianą półką. Sto pięćdziesiąt elementów, ruchome kończyny, kokpit na minifigurkę i broń — z perspektywy dziecka to <b>kompletna zabawka, a nie scenka do postawienia</b>. Buduje się w niecałą godzinę i od razu wchodzi do zabawy.</p>
-    <p>Największa zaleta jako prezentu: mech broni się sam. Dziecko, które nie oglądało filmów, dostaje robota z pilotem — i to wystarczy. Przy hełmach czy dioramach tak nie jest.</p>
+    <p>Mechy są w Star Wars najbardziej niedocenianą półką. Sto pięćdziesiąt elementów, ruchome kończyny, kokpit na minifigurkę i broń – z perspektywy dziecka to <b>kompletna zabawka, a nie scenka do postawienia</b>. Buduje się w niecałą godzinę i od razu wchodzi do zabawy.</p>
+    <p>Największa zaleta jako prezentu: mech broni się sam. Dziecko, które nie oglądało filmów, dostaje robota z pilotem – i to wystarczy. Przy hełmach czy dioramach tak nie jest.</p>
   </Karta>
 
-  <h2>Do 55 zł: Dom Grogu — najbezpieczniejszy mały prezent</h2>
+  <h2>Do 55 zł: Dom Grogu – najbezpieczniejszy mały prezent</h2>
 
   <Karta
     nr="75443"
@@ -100,11 +100,11 @@ const faq = [
     prog="poniżej 55 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Grogu przebił się daleko poza fandom Gwiezdnych wojen — rozpoznaje go także osoba, która nie widziała żadnego filmu. To czyni ten zestaw <b>najbezpieczniejszym drobnym prezentem w serii</b>: nie wymaga wiedzy o uniwersum, a postać jest po prostu lubiana.</p>
+    <p>Grogu przebił się daleko poza fandom Gwiezdnych wojen – rozpoznaje go także osoba, która nie widziała żadnego filmu. To czyni ten zestaw <b>najbezpieczniejszym drobnym prezentem w serii</b>: nie wymaga wiedzy o uniwersum, a postać jest po prostu lubiana.</p>
     <p>Zestaw jest mały i budowa kończy się szybko. Traktuj go jak dodatek albo prezent dla młodszego dziecka, nie jak główny punkt programu.</p>
   </Karta>
 
-  <h2>Do 135 zł: Atak AT-RT — pojazd z pełną obsadą</h2>
+  <h2>Do 135 zł: Atak AT-RT – pojazd z pełną obsadą</h2>
 
   <Karta
     nr="75444"
@@ -118,11 +118,11 @@ const faq = [
     prog="poniżej 135 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Krocząca maszyna z minifigurkami klonów — konstrukcja, która po zbudowaniu <b>rusza się i daje się ustawiać w pozach</b>, co przy zabawie znaczy więcej niż liczba elementów. Trzysta klocków to budowa na jedno popołudnie, w zupełności do ogarnięcia samodzielnie.</p>
-    <p>Zależność od licencji jest tu umiarkowana: bez znajomości Wojen klonów zostaje sprawny pojazd bojowy, więc zabawa się broni. Ale to zestaw z wyraźnie militarnym charakterem — jeśli to problem, lepszym wyborem będzie Dom Grogu albo któryś ze statków.</p>
+    <p>Krocząca maszyna z minifigurkami klonów – konstrukcja, która po zbudowaniu <b>rusza się i daje się ustawiać w pozach</b>, co przy zabawie znaczy więcej niż liczba elementów. Trzysta klocków to budowa na jedno popołudnie, w zupełności do ogarnięcia samodzielnie.</p>
+    <p>Zależność od licencji jest tu umiarkowana: bez znajomości Wojen klonów zostaje sprawny pojazd bojowy, więc zabawa się broni. Ale to zestaw z wyraźnie militarnym charakterem – jeśli to problem, lepszym wyborem będzie Dom Grogu albo któryś ze statków.</p>
   </Karta>
 
-  <h2>Do 200 zł: AT-AT — najbardziej rozpoznawalny kształt w serii</h2>
+  <h2>Do 200 zł: AT-AT – najbardziej rozpoznawalny kształt w serii</h2>
 
   <Karta
     nr="75440"
@@ -136,11 +136,11 @@ const faq = [
     prog="poniżej 200 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Czteronożny kolos z bitwy o Hoth to sylwetka, którą rozpoznaje się natychmiast — i w tym tkwi jego siła jako prezentu. Ta wersja ma pięćset dwadzieścia pięć elementów, czyli jest <b>rozsądnym kompromisem między wielkością a ceną</b>: wygląda poważnie, a nie kosztuje jak model kolekcjonerski.</p>
-    <p>Warto wiedzieć, że LEGO wydaje AT-AT w kilku skalach — od tej po wersje za grubo ponad tysiąc złotych. Jeśli prezent ma być efektowny, ale nie ekstremalnie drogi, to jest właściwa półka.</p>
+    <p>Czteronożny kolos z bitwy o Hoth to sylwetka, którą rozpoznaje się natychmiast – i w tym tkwi jego siła jako prezentu. Ta wersja ma pięćset dwadzieścia pięć elementów, czyli jest <b>rozsądnym kompromisem między wielkością a ceną</b>: wygląda poważnie, a nie kosztuje jak model kolekcjonerski.</p>
+    <p>Warto wiedzieć, że LEGO wydaje AT-AT w kilku skalach – od tej po wersje za grubo ponad tysiąc złotych. Jeśli prezent ma być efektowny, ale nie ekstremalnie drogi, to jest właściwa półka.</p>
   </Karta>
 
-  <h2>Do 190 zł: Hełm Mandalorianina — pierwszy model dla dorosłego</h2>
+  <h2>Do 190 zł: Hełm Mandalorianina – pierwszy model dla dorosłego</h2>
 
   <Karta
     nr="75328"
@@ -149,19 +149,19 @@ const faq = [
     elementy={584}
     rrp={309.99}
     status="znika"
-    dlaKogo="dorosły; wyłącznie na półkę — to nie jest zabawka"
+    dlaKogo="dorosły; wyłącznie na półkę – to nie jest zabawka"
     dobra={185}
     bardzoDobra={165}
-    prog="poniżej 190 zł — starszy rocznik schodzi tu regularnie i głęboko"
+    prog="poniżej 190 zł – starszy rocznik schodzi tu regularnie i głęboko"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Hełmy to osobna kategoria: budowa na jeden wieczór, podstawka z tabliczką, zero minifigurek i zero funkcji. Dla dorosłego, który chce mieć na półce coś rozpoznawalnego, ale nie ma miejsca ani budżetu na duży model — <b>to najlepszy punkt wejścia w całej serii</b>.</p>
+    <p>Hełmy to osobna kategoria: budowa na jeden wieczór, podstawka z tabliczką, zero minifigurek i zero funkcji. Dla dorosłego, który chce mieć na półce coś rozpoznawalnego, ale nie ma miejsca ani budżetu na duży model – <b>to najlepszy punkt wejścia w całej serii</b>.</p>
     <p>Rocznik 2022 działa tu na korzyść kupującego: zestaw ma za sobą kilka lat w sprzedaży, więc jego cena rynkowa ustabilizowała się wyraźnie poniżej katalogowej. Za mniej niż dwieście złotych dostaje się prawie sześćset elementów.</p>
-    <p>Nie kupuj tego dziecku. Po zbudowaniu nie ma z tym absolutnie nic do roboty — a to rozczarowanie, które widać od razu.</p>
-    <p><b>Doszedł termin:</b> ten hełm ma przewidziane wycofanie na grudzień 2026. Hełmy po zejściu z produkcji znikają ze sklepów szybko i nie wracają — przy tej cenie rynkowej czekanie na jeszcze niższą kwotę przestało się opłacać.</p>
+    <p>Nie kupuj tego dziecku. Po zbudowaniu nie ma z tym absolutnie nic do roboty – a to rozczarowanie, które widać od razu.</p>
+    <p><b>Doszedł termin:</b> ten hełm ma przewidziane wycofanie na grudzień 2026. Hełmy po zejściu z produkcji znikają ze sklepów szybko i nie wracają – przy tej cenie rynkowej czekanie na jeszcze niższą kwotę przestało się opłacać.</p>
   </Karta>
 
-  <h2>Do 380 zł: Grogu — duży model, szeroki odbiorca</h2>
+  <h2>Do 380 zł: Grogu – duży model, szeroki odbiorca</h2>
 
   <Karta
     nr="75446"
@@ -175,7 +175,7 @@ const faq = [
     prog="poniżej 380 zł"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Tysiąc dwieście elementów i figura, którą lubi także osoba spoza fandomu — połączenie w Gwiezdnych wojnach rzadkie. Większość dużych zestawów w tej serii wymaga, żeby obdarowany naprawdę siedział w temacie; <b>tutaj wystarczy, że widział Mandalorianina albo po prostu zna tę postać z internetu</b>.</p>
+    <p>Tysiąc dwieście elementów i figura, którą lubi także osoba spoza fandomu – połączenie w Gwiezdnych wojnach rzadkie. Większość dużych zestawów w tej serii wymaga, żeby obdarowany naprawdę siedział w temacie; <b>tutaj wystarczy, że widział Mandalorianina albo po prostu zna tę postać z internetu</b>.</p>
     <p>Przy obecnym poziomie cen rynkowych ten zestaw schodzi około jednej trzeciej poniżej katalogu, co przy świeżym roczniku 2026 jest wynikiem nietypowo dobrym. Konkurencja regularnie wrzuca go na listy okazji i to akurat uzasadniona rekomendacja.</p>
   </Karta>
 
@@ -191,29 +191,29 @@ const faq = [
     dlaKogo="dorosły fan albo nastolatek budujący dłuższe konstrukcje"
     dobra={630}
     bardzoDobra={570}
-    prog="poniżej 630 zł — ale przy wycofaniu w grudniu liczy się termin, nie ostatnie pięćdziesiąt złotych"
+    prog="poniżej 630 zł – ale przy wycofaniu w grudniu liczy się termin, nie ostatnie pięćdziesiąt złotych"
     sklepyPublikacyjne={SKLEPY}
   >
-    <p>Sokół Millennium jest w LEGO Star Wars pozycją obowiązkową i wydawaną wielokrotnie — od wersji za trzysta sześćdziesiąt złotych po kolekcjonerskiego olbrzyma za trzy i pół tysiąca. <b>Ta odmiana, w wersji z serialu, trafia w najlepszy punkt kompromisu</b>: półtora tysiąca elementów, imponujący rozmiar, cena mieszcząca się w kategorii „duży prezent", a nie „zakup życia".</p>
-    <p><b>Zmiana wobec sierpnia:</b> ten zestaw trafił na listę wycofań przewidzianych na grudzień 2026. To odwraca zwykłą radę — przy Sokole nie warto już czekać na Black Friday, bo ryzyko, że zniknie z półek, jest większe niż spodziewana oszczędność.</p>
-    <p>Jeśli natomiast obdarowany chce <i>tego jednego</i> Sokoła, o którym myśli każdy fan — to <a href="/zestaw/75192/">75192</a>, 7541 elementów i cena katalogowa 3599,99 zł. Ale przy takiej kwocie prezent przestaje być prezentem, a zaczyna być decyzją, którą podejmuje się samodzielnie.</p>
+    <p>Sokół Millennium jest w LEGO Star Wars pozycją obowiązkową i wydawaną wielokrotnie – od wersji za trzysta sześćdziesiąt złotych po kolekcjonerskiego olbrzyma za trzy i pół tysiąca. <b>Ta odmiana, w wersji z serialu, trafia w najlepszy punkt kompromisu</b>: półtora tysiąca elementów, imponujący rozmiar, cena mieszcząca się w kategorii „duży prezent", a nie „zakup życia".</p>
+    <p><b>Zmiana wobec sierpnia:</b> ten zestaw trafił na listę wycofań przewidzianych na grudzień 2026. To odwraca zwykłą radę – przy Sokole nie warto już czekać na Black Friday, bo ryzyko, że zniknie z półek, jest większe niż spodziewana oszczędność.</p>
+    <p>Jeśli natomiast obdarowany chce <i>tego jednego</i> Sokoła, o którym myśli każdy fan – to <a href="/zestaw/75192/">75192</a>, 7541 elementów i cena katalogowa 3599,99 zł. Ale przy takiej kwocie prezent przestaje być prezentem, a zaczyna być decyzją, którą podejmuje się samodzielnie.</p>
   </Karta>
 
   <h2>Czego w tym zestawieniu nie ma i dlaczego</h2>
 
-  <p><b>Dioram i modeli kolekcjonerskich UCS</b> — jak <a href="/zestaw/75367/">75367 Gwiezdny Niszczyciel typu Venator</a> czy <a href="/zestaw/75397/">75397 Barka Jabby</a>. To zestawy dla osoby, która dokładnie wie, czego chce, i sama pilnuje momentu zakupu. Kupowanie ich w prezencie bez pewności jest ryzykowne przy tych kwotach.</p>
+  <p><b>Dioram i modeli kolekcjonerskich UCS</b> – jak <a href="/zestaw/75367/">75367 Gwiezdny Niszczyciel typu Venator</a> czy <a href="/zestaw/75397/">75397 Barka Jabby</a>. To zestawy dla osoby, która dokładnie wie, czego chce, i sama pilnuje momentu zakupu. Kupowanie ich w prezencie bez pewności jest ryzykowne przy tych kwotach.</p>
 
-  <p><b>Kalendarza adwentowego</b> — <a href="/zestaw/75456/">75456</a> to tegoroczna pozycja i sensowny zakup, ale sezonowy. Kupuje się go w październiku; w drugiej połowie listopada bywa już problem z dostępnością.</p>
+  <p><b>Kalendarza adwentowego</b> – <a href="/zestaw/75456/">75456</a> to tegoroczna pozycja i sensowny zakup, ale sezonowy. Kupuje się go w październiku; w drugiej połowie listopada bywa już problem z dostępnością.</p>
 
-  <p><b>Serii SMART Play</b> — nowej linii z rocznika 2026. Zestawy wyglądają ciekawie i część z nich ma dziś bardzo niskie ceny, ale to zbyt świeża linia, żebyśmy mogli uczciwie ocenić, jak sprawdza się w zabawie po zbudowaniu. Wrócimy do niej, gdy pojawi się więcej niezależnych recenzji.</p>
+  <p><b>Serii SMART Play</b> – nowej linii z rocznika 2026. Zestawy wyglądają ciekawie i część z nich ma dziś bardzo niskie ceny, ale to zbyt świeża linia, żebyśmy mogli uczciwie ocenić, jak sprawdza się w zabawie po zbudowaniu. Wrócimy do niej, gdy pojawi się więcej niezależnych recenzji.</p>
 
   <h2>Kiedy kupować</h2>
 
-  <p>Star Wars ma dwa własne okna w roku. <b>Początek października</b> to od lat termin dużej premiery kolekcjonerskiej, zwykle z ekskluzywnym gratisem w pierwszych dniach sprzedaży — jeśli celujesz w duży zestaw, wrzesień jest najgorszym momentem. Drugie okno wypada 1 maja, w okolicach Dnia Gwiezdnych Wojen.</p>
+  <p>Star Wars ma dwa własne okna w roku. <b>Początek października</b> to od lat termin dużej premiery kolekcjonerskiej, zwykle z ekskluzywnym gratisem w pierwszych dniach sprzedaży – jeśli celujesz w duży zestaw, wrzesień jest najgorszym momentem. Drugie okno wypada 1 maja, w okolicach Dnia Gwiezdnych Wojen.</p>
 
   <p>Poza tym obowiązuje zasada wspólna dla całego rynku: <b>najgłębsze przeceny wypadają w okolicach Black Friday, 27 listopada</b>. Wszystkie znane terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a świeże premiery śledzimy w <a href="/nowosci/">Nowościach</a>.</p>
 
-  <p>Jeszcze jedna rzecz specyficzna dla tej serii: <b>starszy rocznik bywa lepszym prezentem niż nowość</b>. Zestawy z lat 2023–2025 schodzą znacznie głębiej niż tegoroczne premiery, a Gwiezdne wojny się nie starzeją — hełm z 2022 roku wygląda dokładnie tak samo jak ten z 2026, tylko kosztuje o połowę mniej. Pełną listę serii z aktualnymi cenami znajdziesz na <a href="/serie/star-wars/">stronie Star Wars</a>.</p>
+  <p>Jeszcze jedna rzecz specyficzna dla tej serii: <b>starszy rocznik bywa lepszym prezentem niż nowość</b>. Zestawy z lat 2023–2025 schodzą znacznie głębiej niż tegoroczne premiery, a Gwiezdne wojny się nie starzeją – hełm z 2022 roku wygląda dokładnie tak samo jak ten z 2026, tylko kosztuje o połowę mniej. Pełną listę serii z aktualnymi cenami znajdziesz na <a href="/serie/star-wars/">stronie Star Wars</a>.</p>
 
-  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
 </Prezentownik>

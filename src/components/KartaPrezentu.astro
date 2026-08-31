@@ -13,10 +13,10 @@ import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku as relSkl
 // sprawdzenia i bez chwilowego snapshotu ofert. Bieżące kwoty czytelnik
 // znajdzie w tabeli na /zestaw/<nr>/, która odświeża się codziennie z feedów.
 //
-// Sklepy publikacyjne (2–3) dobiera redakcja w danych strony, nie kod —
+// Sklepy publikacyjne (2–3) dobiera redakcja w danych strony, nie kod –
 // afiliacja nie może decydować o tym doborze. Kod tylko sprawdza, czy dla
 // danego sklepu istnieje przekierowanie; jeśli nie, wiersz pomija.
-// wiek podajemy tylko wtedy, gdy mamy go w sety.json — to dana z pudełka
+// wiek podajemy tylko wtedy, gdy mamy go w sety.json – to dana z pudełka
 // i nie zgadujemy jej. Niezależnie od niej każda karta ma redakcyjne
 // "dla kogo", bo w prezentowniku to ono jest właściwą odpowiedzią.
 const {
@@ -33,10 +33,10 @@ const doPokazania = sklepyPublikacyjne.filter(maLink);
 const dodatkowe = (galerie[nr] ?? []).map((_, i) => `/img/${nr}-${i + 1}.jpg`);
 
 // „Kup teraz": sklepy, które DZIŚ schodzą do progu dobrej ceny z drabiny powyżej.
-// Nie jest to ręczny snapshot — blok liczy się przy każdym budowaniu strony,
+// Nie jest to ręczny snapshot – blok liczy się przy każdym budowaniu strony,
 // a build leci z każdą aktualizacją cen, więc odświeża się razem z tabelą huba.
 // O doborze decyduje wyłącznie cena: sortujemy od najtańszego i bierzemy do trzech
-// sklepów, niezależnie od tego, czy i ile płacą za polecenie. Ceneo pomijamy —
+// sklepów, niezależnie od tego, czy i ile płacą za polecenie. Ceneo pomijamy –
 // to porównywarka, a nie sklep, do którego można wysłać czytelnika po zestaw.
 const wProgu = dobra
   ? polaczOferty(sety[nr]?.oferty ?? [], ofertyFeed?.sety?.[nr] ?? null, nr)
@@ -49,7 +49,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
 <div class="prezent" id={`zestaw-${nr}`}>
   {/* Góra karty: zdjęcie po lewej, obok nazwa zestawu, dane z pudełka
       i „dla kogo". Opis, drabina cenowa i sklepy idą niżej, na pełną
-      szerokość — tekst czyta się lepiej w jednej kolumnie niż w wąskiej
+      szerokość – tekst czyta się lepiej w jednej kolumnie niż w wąskiej
       szpalcie obok zdjęcia. */}
   <div class="prezent__gora">
     <figure class="prezent__media">
@@ -65,7 +65,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       {dodatkowe.length > 0 && (
         <span class="prezent__miniatury">
           {dodatkowe.map((u, i) => (
-            <img src={u} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
+            <img src={u} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
           ))}
         </span>
       )}
@@ -125,7 +125,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
         </div>
       ) : (
         <p class="prezent__kup-brak">
-          Dziś żaden ze śledzonych sklepów nie schodzi do dobrej ceny — poczekaj albo sprawdź
+          Dziś żaden ze śledzonych sklepów nie schodzi do dobrej ceny – poczekaj albo sprawdź
           {' '}<a href={`/zestaw/${nr}/`}>aktualne oferty</a>.
         </p>
       )

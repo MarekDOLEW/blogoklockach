@@ -1,4 +1,4 @@
-// Indeks wyszukiwarki globalnej — jeden plik dla całego serwisu.
+// Indeks wyszukiwarki globalnej – jeden plik dla całego serwisu.
 //
 // Zawiera wyłącznie zestawy, które mają własną podstronę (`numeryHubow`),
 // więc każdy wynik ma dokąd prowadzić. Format jest celowo tablicowy

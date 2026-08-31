@@ -5,7 +5,7 @@
 //   2. oferty_feed.json -> migawka feedów sklepowych
 //   3. zdjecia.json -> mapa zbiorcza (Planeta Klocków / Media Expert / Rebrickable)
 //
-// Opisy (opisy.json) są generowane z danych katalogu własnymi słowami — używamy ich
+// Opisy (opisy.json) są generowane z danych katalogu własnymi słowami – używamy ich
 // tylko tam, gdzie nie ma redakcyjnego opisu w sety.json, żeby nie nadpisywać tekstów
 // pisanych ręcznie.
 
@@ -19,7 +19,7 @@ const wycofaniaFoto = new Map(
 
 /**
  * Zdjęcie zestawu z fallbackiem. Zwraca { url, zrodlo } albo null.
- * URL wskazuje NASZĄ trasę /img/<numer>.jpg — worker serwuje kopię z cache
+ * URL wskazuje NASZĄ trasę /img/<numer>.jpg – worker serwuje kopię z cache
  * Cloudflare zamiast hotlinkować do sklepów (mapę numer->źródło buduje
  * scripts/generuj-obrazy.mjs z tych samych priorytetów).
  */
@@ -38,7 +38,7 @@ export function zdjecieSetu(nr, { sety = {}, feed = {} } = {}) {
   return null;
 }
 
-/** Sam URL zdjęcia albo null — skrót tam, gdzie źródło nie jest potrzebne. */
+/** Sam URL zdjęcia albo null – skrót tam, gdzie źródło nie jest potrzebne. */
 export function urlZdjecia(nr, zrodla) {
   return zdjecieSetu(nr, zrodla)?.url ?? null;
 }

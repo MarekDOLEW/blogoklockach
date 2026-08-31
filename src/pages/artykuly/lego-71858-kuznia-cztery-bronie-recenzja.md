@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO NINJAGO 71858 Kuźnia Cztery Bronie — jubileuszowy powrót do początków serii"
+title: "LEGO NINJAGO 71858 Kuźnia Cztery Bronie – jubileuszowy powrót do początków serii"
 opis: "1259 elementów, sześć minifigurek i miejsce, od którego zaczęło się NINJAGO. Recenzja zestawu na 15-lecie: bardzo dobre budowanie, ciasne wnętrza i cena, przy której warto poczekać. Próg zakupu: ok. 300 zł."
 data: "2026-08-25"
 kategoria: "Recenzje"
@@ -26,7 +26,7 @@ I właśnie w tej roli zestaw wypada najlepiej.
 
 ## Podstawowe dane
 
-| | LEGO NINJAGO 71858 Kuźnia Cztery Bronie — 15-lecie |
+| | LEGO NINJAGO 71858 Kuźnia Cztery Bronie – 15-lecie |
 |---|---|
 | Seria | [Ninjago](/serie/ninjago/) |
 | Premiera | 1 stycznia 2026 |
@@ -56,7 +56,7 @@ Moim zdaniem właśnie budowanie jest najmocniejszą stroną 71858 jako produktu
 
 ## Kuźnia, która wreszcie wygląda jak prawdziwe miejsce z serialu
 
-Pierwszy zestaw z kuźnią z 2011 roku był bardzo uproszczony. Nie ma w tym nic dziwnego — miał zupełnie inną skalę, cenę i odbiorcę.
+Pierwszy zestaw z kuźnią z 2011 roku był bardzo uproszczony. Nie ma w tym nic dziwnego – miał zupełnie inną skalę, cenę i odbiorcę.
 
 71858 pozwala natomiast potraktować to samo miejsce znacznie poważniej. Bryła jest zamknięta i dobrze wygląda również jako samodzielny model ekspozycyjny. Dach, drewniane fragmenty konstrukcji, kamienne podstawy i drobne nierówności sprawiają, że budynek nie wygląda jak typowa otwarta scenografia dla minifigurek.
 
@@ -70,7 +70,7 @@ Nie traktowałbym tego jako poważnej wady, ponieważ kuźnia wyraźnie nie pró
 
 Obsada dobrze pokazuje, do kogo skierowany jest zestaw. Kai jako kowal oraz Nya odwołują się bezpośrednio do początku historii rodzeństwa. Ray i Maya rozwijają rodzinny kontekst, Mistrz Wu przypomina o początku drogi Kaia do roli ninja, a Mistrz Ziemi jest całkowicie nową minifigurką.
 
-Dla kolekcjonera szczególnie interesujące jest to, że kilka postaci występuje tutaj w obecnie unikatowych wersjach. Nie wszystkie detale wykonano idealnie — w recenzjach zwracano między innymi uwagę na różnicę odcienia nadruku fartucha Kaia między torsem a nogami — ale jako całość zestaw figurek bardzo dobrze pasuje do jubileuszowego charakteru modelu.
+Dla kolekcjonera szczególnie interesujące jest to, że kilka postaci występuje tutaj w obecnie unikatowych wersjach. Nie wszystkie detale wykonano idealnie – w recenzjach zwracano między innymi uwagę na różnicę odcienia nadruku fartucha Kaia między torsem a nogami – ale jako całość zestaw figurek bardzo dobrze pasuje do jubileuszowego charakteru modelu.
 
 Co ważniejsze, postacie nie wyglądają jak przypadkowy zestaw popularnych bohaterów dodany tylko po to, żeby podnieść atrakcyjność pudełka. Są związane z historią tego konkretnego miejsca. To sprawia, że dla długoletniego fana NINJAGO ich wartość jest większa, niż wynikałoby z samej liczby sześciu minifigurek.
 
@@ -122,9 +122,9 @@ Pełną kartę zestawu z historią cen znajdziesz na [stronie zestawu 71858](/ze
 
 Kuźnia nie jest jedynym jubileuszowym zestawem NINJAGO i nie dla każdego będzie najlepszym wyborem.
 
-Jeżeli najważniejsze są minifigurki i jubileuszowy charakter przy znacznie niższym budżecie, ciekawą alternatywą jest [71866 Ozdoba z postaciami ninja — 15-lecie](/zestaw/71866/).
+Jeżeli najważniejsze są minifigurki i jubileuszowy charakter przy znacznie niższym budżecie, ciekawą alternatywą jest [71866 Ozdoba z postaciami ninja – 15-lecie](/zestaw/71866/).
 
-Osoba szukająca bardziej efektownego modelu na półkę może natomiast zainteresować się zestawem [71860 Tytanowy mech Lloyda — 15. rocznica](/zestaw/71860/). To zupełnie inny rodzaj ekspozycji, ale lepiej odpowiada odbiorcy, który chce, żeby jubileuszowy zestaw robił wrażenie przede wszystkim rozmiarem i sylwetką.
+Osoba szukająca bardziej efektownego modelu na półkę może natomiast zainteresować się zestawem [71860 Tytanowy mech Lloyda – 15. rocznica](/zestaw/71860/). To zupełnie inny rodzaj ekspozycji, ale lepiej odpowiada odbiorcy, który chce, żeby jubileuszowy zestaw robił wrażenie przede wszystkim rozmiarem i sylwetką.
 
 Z kolei dla fana architektury NINJAGO z dużo większym budżetem bardziej ambitnym kierunkiem pozostają [71837 Warsztaty w mieście NINJAGO](/zestaw/71837/).
 
@@ -132,7 +132,7 @@ Kuźnia wyróżnia się na ich tle nie skalą, lecz znaczeniem miejsca i jakośc
 
 ## Czy warto kupić LEGO 71858?
 
-Jeśli początki NINJAGO mają dla was znaczenie — zdecydowanie warto zainteresować się tym zestawem. Po piętnastu latach jedno z pierwszych ważnych miejsc serii wreszcie dostało model, który nie wygląda jak mały dodatek do zabawy, lecz jak pełnoprawna część kolekcji.
+Jeśli początki NINJAGO mają dla was znaczenie – zdecydowanie warto zainteresować się tym zestawem. Po piętnastu latach jedno z pierwszych ważnych miejsc serii wreszcie dostało model, który nie wygląda jak mały dodatek do zabawy, lecz jak pełnoprawna część kolekcji.
 
 Najważniejsze jest jednak to, że zestaw nie opiera się wyłącznie na sentymencie. Sama konstrukcja jest na tyle ciekawa, że nostalgia staje się dodatkiem do dobrego produktu LEGO, a nie jego usprawiedliwieniem.
 
@@ -142,4 +142,4 @@ Rekomendacja: **KUP W DOBREJ PROMOCJI**.
 
 ---
 
-*Zobacz też: [prezentownik LEGO Ninjago](/prezentowniki/lego-ninjago/) · [recenzja Technic 42215 — duży zestaw 18+ z tej samej półki cenowej](/artykuly/lego-42215-koparka-volvo-ec500-recenzja/) · [wszystkie zestawy Ninjago z aktualnymi cenami](/serie/ninjago/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*
+*Zobacz też: [prezentownik LEGO Ninjago](/prezentowniki/lego-ninjago/) · [recenzja Technic 42215 – duży zestaw 18+ z tej samej półki cenowej](/artykuly/lego-42215-koparka-volvo-ec500-recenzja/) · [wszystkie zestawy Ninjago z aktualnymi cenami](/serie/ninjago/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

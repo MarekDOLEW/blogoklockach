@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO Technic 42215 Koparka Volvo EC500 Hybrid — świetna do budowania, dużo mniej przekonująca w działaniu"
-opis: "2359 elementów, jeden silnik i rozbudowana skrzynia przekładniowa. Recenzja: dlaczego 42215 jest ciekawszy w trakcie budowania niż po nim — i przy jakiej cenie ma sens. Próg zakupu: ok. 1150 zł."
+title: "LEGO Technic 42215 Koparka Volvo EC500 Hybrid – świetna do budowania, dużo mniej przekonująca w działaniu"
+opis: "2359 elementów, jeden silnik i rozbudowana skrzynia przekładniowa. Recenzja: dlaczego 42215 jest ciekawszy w trakcie budowania niż po nim – i przy jakiej cenie ma sens. Próg zakupu: ok. 1150 zł."
 data: "2026-08-25"
 kategoria: "Recenzje"
 okladka: "42215"
@@ -9,9 +9,9 @@ faq:
   - q: "Czy LEGO 42215 ma sterowanie aplikacją albo pilotem?"
     a: "Nie. Zestaw nie korzysta z Control+ ani z żadnego pilota. Ma jeden silnik zasilany sześcioma bateriami AA, których nie ma w pudełku. Gąsienice i obrót nadwozia porusza się ręcznie."
   - q: "Ile kosztuje LEGO Technic 42215?"
-    a: "Cena katalogowa to 1699,99 zł, ale polski rynek od dawna wygląda inaczej — typowe ceny sklepowe schodzą w okolice 1250–1300 zł, a w lepszych promocjach jeszcze niżej. Za praktyczny próg zakupu uznaję około 1150 zł."
+    a: "Cena katalogowa to 1699,99 zł, ale polski rynek od dawna wygląda inaczej – typowe ceny sklepowe schodzą w okolice 1250–1300 zł, a w lepszych promocjach jeszcze niżej. Za praktyczny próg zakupu uznaję około 1150 zł."
   - q: "Które funkcje koparki 42215 są napędzane silnikiem?"
-    a: "Silnik obsługuje wybrane ruchy ramienia, zmianę kąta łyżki oraz mechanizm blokowania wymiennego narzędzia. Ruch udarowy młota, jazda na gąsienicach i obrót górnej części koparki pozostają ręczne, a funkcje przełącza się mechanicznym wybierakiem — jednocześnie działa tylko jedna."
+    a: "Silnik obsługuje wybrane ruchy ramienia, zmianę kąta łyżki oraz mechanizm blokowania wymiennego narzędzia. Ruch udarowy młota, jazda na gąsienicach i obrót górnej części koparki pozostają ręczne, a funkcje przełącza się mechanicznym wybierakiem – jednocześnie działa tylko jedna."
   - q: "Dla kogo jest LEGO 42215?"
     a: "Dla dorosłego fana Technic, którego interesują przekładnie, wały i mechaniczne zależności między funkcjami. Oznaczenie 18+ dobrze oddaje charakter zestawu. Osoba, która chce przede wszystkim „obsługiwać” gotową maszynę, będzie rozczarowana tempem jej pracy."
 ---
@@ -48,13 +48,13 @@ Największą zaletą 42215 jest sam proces budowania.
 
 W wielu współczesnych dużych zestawach Technic rozbudowana funkcjonalność oznacza kilka silników, hub i sterowanie elektroniczne. W Koparce Volvo projektanci poszli w innym kierunku. Jeden silnik przekazuje napęd do kilku funkcji poprzez mechaniczny wybierak, skrzynię przekładniową i system wałów prowadzących przez dużą część modelu. To właśnie tutaj zestaw pokazuje charakter klasycznego Technic.
 
-Budując skrzynię, kolejne przekładnie i siłowniki, można rzeczywiście śledzić drogę napędu i zrozumieć, dlaczego po zmianie ustawienia wybieraka zaczyna poruszać się inny element koparki. Mechanizm nie jest tylko ukrytym dodatkiem odpowiedzialnym za gotowy efekt — stanowi właściwie główną treść zestawu.
+Budując skrzynię, kolejne przekładnie i siłowniki, można rzeczywiście śledzić drogę napędu i zrozumieć, dlaczego po zmianie ustawienia wybieraka zaczyna poruszać się inny element koparki. Mechanizm nie jest tylko ukrytym dodatkiem odpowiedzialnym za gotowy efekt – stanowi właściwie główną treść zestawu.
 
 I właśnie tę stronę modelu szczególnie dobrze oceniają niezależni recenzenci. Powtarzają się pochwały konstrukcji skrzyni, rozbudowanego przeniesienia napędu i satysfakcji wynikającej z budowania mechanizmu, który trzeba faktycznie złożyć i zrozumieć.
 
 Moim zdaniem to najważniejszy argument za 42215. Jeśli ktoś kupuje Technic właśnie dla przekładni, wałów i mechanicznych zależności między poszczególnymi funkcjami, ten zestaw ma sporo do zaoferowania.
 
-## Jeden silnik — bardzo dobry pomysł, dopóki budujemy
+## Jeden silnik – bardzo dobry pomysł, dopóki budujemy
 
 Najciekawsze w 42215 jest to, że ta sama decyzja projektowa jest jednocześnie jego zaletą i wadą. Jeden silnik wymusza zastosowanie bardziej rozbudowanej mechaniki. Gdyby każda funkcja miała własny napęd, konstrukcja mogłaby być łatwiejsza w obsłudze, ale sam proces budowania prawdopodobnie byłby znacznie mniej interesujący. Z tej perspektywy użycie jednego silnika ma sens.
 
@@ -76,7 +76,7 @@ Nie oczekiwałbym oczywiście, że model z klocków będzie pracował z prędko�
 
 Dla fana mechaniki nie przekreśla to całego zestawu. Dla osoby kupującej go głównie po to, żeby później korzystać z funkcji, jest to jednak ograniczenie bardzo istotne.
 
-## Bez Control+ — wada czy zaleta?
+## Bez Control+ – wada czy zaleta?
 
 W tym miejscu łatwo dojść do wniosku, że problem rozwiązałoby Control+ i kilka dodatkowych silników. Tylko że wtedy powstałby właściwie inny zestaw.
 
@@ -90,7 +90,7 @@ Dla mnie ten kierunek jest ciekawy. Szkoda tylko, że jego konsekwencje dla szyb
 
 Gdy przestaniemy bawić się funkcjami i po prostu spojrzymy na gotową koparkę, ocena znowu idzie w górę. Model ma dobre proporcje, dużą skalę i od razu wygląda jak ciężka maszyna budowlana. Żółto-czarna kolorystyka Volvo, pomarańczowe barierki, szerokie gąsienice i długi wysięgnik tworzą bardzo czytelną sylwetkę.
 
-Dobrze wyglądają również siłowniki umieszczone w miejscach odpowiadających hydraulice prawdziwej koparki. Techniczna konstrukcja nie jest ukrywana i właśnie dlatego pasuje do charakteru modelu. To nie jest gładki pojazd ekspozycyjny w stylu samochodów Icons — przekładnie, osie i siłowniki są częścią jego wyglądu.
+Dobrze wyglądają również siłowniki umieszczone w miejscach odpowiadających hydraulice prawdziwej koparki. Techniczna konstrukcja nie jest ukrywana i właśnie dlatego pasuje do charakteru modelu. To nie jest gładki pojazd ekspozycyjny w stylu samochodów Icons – przekładnie, osie i siłowniki są częścią jego wyglądu.
 
 Wśród nowych elementów zwraca uwagę przede wszystkim duża łyżka koparki oraz nowy panel Technic 3 × 3. Dla osób budujących własne maszyny mogą być ciekawymi dodatkami do katalogu części.
 
@@ -135,10 +135,10 @@ Z drugiej strony jest szeroko dystrybuowany i regularnie przeceniany. Nie ma ża
 
 ## Czy warto kupić LEGO 42215?
 
-**Jeśli najbardziej interesuje was mechanika Technic — tak, przy cenie około 1150 zł lub niższej.** Przy pełnym RRP lepiej poczekać na promocję: model jest bardzo dobry do budowania, ale to, co dzieje się z nim po zbudowaniu, nie uzasadnia 1700 zł.
+**Jeśli najbardziej interesuje was mechanika Technic – tak, przy cenie około 1150 zł lub niższej.** Przy pełnym RRP lepiej poczekać na promocję: model jest bardzo dobry do budowania, ale to, co dzieje się z nim po zbudowaniu, nie uzasadnia 1700 zł.
 
 Rekomendacja: **KUP W DOBREJ PROMOCJI**.
 
 ---
 
-*Zobacz też: [prezentownik LEGO Technic — co kupić i za ile](/prezentowniki/lego-technic/) · [recenzja NINJAGO 71858 — inny duży zestaw dla dorosłego fana](/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/) · [wszystkie zestawy Technic z aktualnymi cenami](/serie/technic/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*
+*Zobacz też: [prezentownik LEGO Technic – co kupić i za ile](/prezentowniki/lego-technic/) · [recenzja NINJAGO 71858 – inny duży zestaw dla dorosłego fana](/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/) · [wszystkie zestawy Technic z aktualnymi cenami](/serie/technic/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

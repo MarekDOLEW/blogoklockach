@@ -7,12 +7,12 @@ const { title, description, jsonld, ogImage = '/og.png', noindex = false } = Ast
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
 
-// Menu główne w jednym miejscu — stąd bierze się też zaznaczenie bieżącej
+// Menu główne w jednym miejscu – stąd bierze się też zaznaczenie bieżącej
 // sekcji. Bez tego użytkownik na podstronie nie wie, gdzie w serwisie jest.
-// Sześć pozycji — menu ma prowadzić do działów, nie do pojedynczych tekstów.
+// Sześć pozycji – menu ma prowadzić do działów, nie do pojedynczych tekstów.
 // Kalendarz i Zapowiedzi zeszły z menu 27.08.2026: to artykuły, więc mieszkają
 // teraz w /artykuly/ (kategorie „Kalendarze" i „Premiery") i wchodzi się do nich
-// stamtąd. Kolekcjoner zszedł, bo dział był pusty — strona zostaje pod adresem,
+// stamtąd. Kolekcjoner zszedł, bo dział był pusty – strona zostaje pod adresem,
 // żeby nie psuć linków, ale nie zajmuje miejsca w nawigacji.
 const MENU = [
   { href: '/', etykieta: '🔥 Promocje dziś', klasa: 'nav--hot' },
@@ -24,7 +24,7 @@ const MENU = [
   { href: '/artykuly/', etykieta: 'Artykuły' },
 ];
 // „/" tylko dla samej strony głównej; pozostałe pozycje świecą także na swoich
-// podstronach (/serie/technic/ podświetla „Serie", /artykuly/<tekst>/ — „Artykuły").
+// podstronach (/serie/technic/ podświetla „Serie", /artykuly/<tekst>/ – „Artykuły").
 // aria-current="page" dla dokładnego trafienia, "true" dla sekcji nadrzędnej.
 const sciezka = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
 const stanPozycji = (href) => {
@@ -52,11 +52,11 @@ const stanPozycji = (href) => {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImageAbs} />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
-    <!-- Cloudflare Web Analytics — darmowe, bez cookies. Token: panel Cloudflare ->
+    <!-- Cloudflare Web Analytics – darmowe, bez cookies. Token: panel Cloudflare ->
          Analytics & Logs -> Web Analytics -> Add a site (tylkoklocki.pl) -> skopiuj token
          i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>
-    <!-- Google tag (gtag.js) — GA4, usługa tylkoklocki.pl -->
+    <!-- Google tag (gtag.js) – GA4, usługa tylkoklocki.pl -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
@@ -86,7 +86,7 @@ const stanPozycji = (href) => {
       </div>
     </header>
     <script is:inline>
-      // Menu mobilne: przycisk rozwija nawigację. Panel jest zwykłym <nav> —
+      // Menu mobilne: przycisk rozwija nawigację. Panel jest zwykłym <nav> –
       // na desktopie CSS pokazuje go zawsze, więc brak JS-a nic nie psuje
       // (przycisk jest wtedy ukryty). Na wąskich ekranach sterujemy klasą
       // .nav--otwarte i aria-expanded, żeby czytniki znały stan.
@@ -168,11 +168,11 @@ const stanPozycji = (href) => {
       <div class="wrap">
         <div>
           <h4>tylkoklocki.pl</h4>
-          <p>Tylko klocki — polujemy na prawdziwe promocje na zestawy LEGO®. Rabaty liczymy zawsze od oficjalnej ceny katalogowej — bez pseudopromocji.</p>
+          <p>Tylko klocki – polujemy na prawdziwe promocje na zestawy LEGO®. Rabaty liczymy zawsze od oficjalnej ceny katalogowej – bez pseudopromocji.</p>
         </div>
         <div>
           <h4>Przejrzystość</h4>
-          <p>Część linków na stronie to linki afiliacyjne. Kupując przez nie, wspierasz nasz serwis — Ty nie płacisz ani grosza więcej. Najtańszą ofertę pokazujemy zawsze, niezależnie od prowizji.</p>
+          <p>Część linków na stronie to linki afiliacyjne. Kupując przez nie, wspierasz nasz serwis – Ty nie płacisz ani grosza więcej. Najtańszą ofertę pokazujemy zawsze, niezależnie od prowizji.</p>
         </div>
         <div>
           <h4>Info</h4>

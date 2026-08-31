@@ -10,7 +10,7 @@ import { maHub } from './huby.js';
 export function wierszWycofania(w, { sety = {}, feed = {} } = {}) {
   let oferta = najlepszaOferta(w.numer, { sety, feed });
   const cenaKat = cenaKatalogowaSetu(w.numer, { sety });
-  // brak ofert sklepów nie oznacza braku ceny — pokazujemy cenę katalogową
+  // brak ofert sklepów nie oznacza braku ceny – pokazujemy cenę katalogową
   // z linkiem do LEGO.com; także dla wycofanych, bo czytelnicy chętnie
   // sprawdzają opis na lego.com przed zakupem resztek u innych sprzedawców
   if (!oferta && cenaKat) {

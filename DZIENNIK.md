@@ -24,6 +24,26 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 08:10 · CODE · Typografia: pauza → półpauza w całym serwisie; H2 kart bez „— opis"
+
+**Zrobione (decyzja Marka):**
+- Nagłówek karty zestawu to teraz samo „LEGO <nr> <nazwa>" — sufiks „— opis"
+  usunięty z `[nr].astro`.
+- Wszystkie pauzy (—) zamienione na półpauzy (–) w treściach serwisu:
+  dane zasilające strony (karty_setow, katalog, sety, wycofania, opisy,
+  kategorie_artykulow, galerie), wszystkie strony/komponenty/lib/layouty
+  i pluginy remark (tabele cen w artykułach). Zbudowany dist: **zero pauz**
+  na 4980 stronach.
+- `import-karty.py` dostał `typografia()` — przyszłe DOCX-y Piotra (pisane
+  pauzą) normalizują się przy imporcie same.
+- NIE ruszone: pliki wewnętrzne (rrp_potwierdzone, rejestr afiliacji, stany
+  runnerów, ceny_baza) i dokumenty w `redakcja/` (materiały Piotra verbatim).
+
+**Stan:** gotowe, opublikowane na main.
+
+**Dla drugiej strony:** runnery piszące teksty do plików zasilających stronę
+(Scout — opisy w sety.json) powinny od teraz używać półpauzy.
+
 ## 2026-08-31 07:25 · CODE · Szósta (ostatnia) partia kart P07: brakujące 57 + Archive + Nike + Super Mario
 
 **Zrobione:**

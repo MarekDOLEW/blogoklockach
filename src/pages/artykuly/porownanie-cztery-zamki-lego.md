@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artykul.astro
 title: "Cztery pomysły na zamek LEGO – od Creator 3 w 1 po NINJAGO"
-opis: "31120, 31168, 10305 i 71814 obok siebie. Nie który zamek jest najlepszy, tylko jak LEGO rozkłada priorytety między architekturą, budowaniem, zabawą i ekspozycją — i który z tych czterech pomysłów pasuje do Ciebie."
+opis: "31120, 31168, 10305 i 71814 obok siebie. Nie który zamek jest najlepszy, tylko jak LEGO rozkłada priorytety między architekturą, budowaniem, zabawą i ekspozycją – i który z tych czterech pomysłów pasuje do Ciebie."
 data: "2026-08-27"
 kategoria: "Porównania"
 okladka: "10305"
@@ -11,9 +11,9 @@ faq:
   - q: "Czym różni się 31168 od starszego 31120?"
     a: "Skala jest podobna (1371 wobec 1426 elementów), ale 31168 ma sześć minifigurek zamiast trzech i dwa budowane konie. Bryła jest bardziej asymetryczna i „kamienna”, a alternatywne konstrukcje to turniej rycerski i miasteczko z wiatrakiem zamiast wieży i targu."
   - q: "Czy 10305 Zamek rycerzy herbu Lew nadaje się do zabawy?"
-    a: "Tak, mimo oznaczenia 18+. Most zwodzony, brona, loch, ukryte przejścia i działający młyn są funkcjonalne, a wnętrza dostępne. To zamek kolekcjonerski, ale nie statyczna makieta — potrzebuje za to dużo miejsca na półce."
+    a: "Tak, mimo oznaczenia 18+. Most zwodzony, brona, loch, ukryte przejścia i działający młyn są funkcjonalne, a wnętrza dostępne. To zamek kolekcjonerski, ale nie statyczna makieta – potrzebuje za to dużo miejsca na półce."
   - q: "Dlaczego w porównaniu zamków jest zestaw NINJAGO?"
-    a: "Bo 71814 pełni tę samą funkcję co zamek: to wielopoziomowa, broniona siedziba pełna postaci, wnętrz i miejsc do odgrywania historii. Nie jest średniowieczną warownią, ale jako kompozycja architektoniczna jest równie ambitny jak 10305 — tyle że tworzy pełniejszy krajobraz zamiast pełniejszego budynku."
+    a: "Bo 71814 pełni tę samą funkcję co zamek: to wielopoziomowa, broniona siedziba pełna postaci, wnętrz i miejsc do odgrywania historii. Nie jest średniowieczną warownią, ale jako kompozycja architektoniczna jest równie ambitny jak 10305 – tyle że tworzy pełniejszy krajobraz zamiast pełniejszego budynku."
 ---
 
 Zamek jest jednym z tych tematów, do których LEGO wraca od dziesięcioleci, ale samo słowo „zamek” może dziś oznaczać bardzo różne rzeczy. Może być przede wszystkim zabawką do odgrywania historii, dużym modelem kolekcjonerskim, bazą do własnych konstrukcji albo rozbudowaną sceną fantasy, w której architektura jest tylko częścią większego świata.
@@ -30,11 +30,11 @@ Nie chodzi więc o znalezienie jednego „najlepszego zamku”. Bardziej interes
 
 Najbliżej siebie stoją oczywiście oba modele Creator 3 w 1. [31120 Średniowieczny zamek](/zestaw/31120/) z 2021 roku ma 1426 elementów i trzy minifigurki. Z tej samej puli części można zbudować główny zamek, wieżę albo średniowieczny targ. Zestaw jest już wycofany, ale nadal pozostaje naturalnym punktem odniesienia dla obecnego 31168.
 
-Nowszy Średniowieczny zamek rycerzy konnych ma bardzo podobną skalę — 1371 elementów — ale sześć minifigurek i dwa budowane konie. Alternatywne konstrukcje to tym razem turniej rycerski oraz średniowieczne miasteczko z wiatrakiem. Nadal jest to przede wszystkim Creator 3 w 1: zamek jest jednym z możliwych efektów pracy z dużą pulą elementów, a nie modelem, którego nie powinno się już nigdy rozbierać.
+Nowszy Średniowieczny zamek rycerzy konnych ma bardzo podobną skalę – 1371 elementów – ale sześć minifigurek i dwa budowane konie. Alternatywne konstrukcje to tym razem turniej rycerski oraz średniowieczne miasteczko z wiatrakiem. Nadal jest to przede wszystkim Creator 3 w 1: zamek jest jednym z możliwych efektów pracy z dużą pulą elementów, a nie modelem, którego nie powinno się już nigdy rozbierać.
 
 [10305 Zamek rycerzy herbu Lew](/zestaw/10305/) działa według zupełnie innej logiki. Ma 4514 elementów, 22 minifigurki i oznaczenie 18+. Nie dostajemy alternatywnych instrukcji. Zamiast tego LEGO wykorzystało znacznie większą skalę do stworzenia dużej, pełnej wnętrz warowni, która ma być zarówno rozbudowanym projektem konstrukcyjnym, jak i docelowym modelem do ekspozycji.
 
-[71814 Turniejowe miasto ze świątynią](/zestaw/71814/) również jest dużą konstrukcją — 3489 elementów i 13 postaci — ale zamiast klasycznego zamku dostajemy pagodę, skały, mosty, jaskinie, wodę, kuźnię i różne poziomy terenu. To bardziej kompletna scena niż pojedynczy budynek.
+[71814 Turniejowe miasto ze świątynią](/zestaw/71814/) również jest dużą konstrukcją – 3489 elementów i 13 postaci – ale zamiast klasycznego zamku dostajemy pagodę, skały, mosty, jaskinie, wodę, kuźnię i różne poziomy terenu. To bardziej kompletna scena niż pojedynczy budynek.
 
 ## Architektura: realizm nie zawsze jest najważniejszy
 
@@ -42,7 +42,7 @@ Jeśli patrzymy wyłącznie na klasyczną architekturę zamkową, 10305 ma wyra�
 
 31120 jest przy nim znacznie prostszy. Jego sylwetka jest bardzo czytelna i ma dużo charakteru, ale widać, że projektant musiał myśleć również o dwóch modelach alternatywnych. Duże powierzchnie ścian są prostsze, a mocniejsze kolory bardziej przypominają klasyczną zabawkę LEGO niż próbę stworzenia realistycznej makiety.
 
-31168 przesuwa Creator trochę bliżej dużego Castle. Bryła jest bardziej asymetryczna, poszczególne części mają różne wysokości i model sprawia wrażenie bardziej „kamiennego” niż 31120. Nie oznacza to jednak, że automatycznie wygląda lepiej. W kilku miejscach cena za większą nieregularność jest widoczna — konstrukcja potrafi być bardziej fragmentaryczna i mniej spokojna wizualnie.
+31168 przesuwa Creator trochę bliżej dużego Castle. Bryła jest bardziej asymetryczna, poszczególne części mają różne wysokości i model sprawia wrażenie bardziej „kamiennego” niż 31120. Nie oznacza to jednak, że automatycznie wygląda lepiej. W kilku miejscach cena za większą nieregularność jest widoczna – konstrukcja potrafi być bardziej fragmentaryczna i mniej spokojna wizualnie.
 
 Najciekawszym kontrapunktem jest 71814. Nie ma sensu oceniać go według tego, czy przypomina średniowieczną europejską twierdzę. Jako kompozycja architektoniczna jest jednak równie ambitny jak Zamek Rycerzy Lwa. Pagoda wyrasta ze skalistego terenu, kolejne poziomy są połączone mostami i ścieżkami, a pionowa architektura przeplata się z wodą i zielenią. 10305 tworzy pełniejszy zamek, ale 71814 tworzy pełniejszy krajobraz.
 
@@ -62,7 +62,7 @@ Tutaj 10305 pokazuje, co daje skala. Wewnątrz mieszczą się m.in. kuchnia, sal
 
 10305 jest najbardziej rozbudowanym pojedynczym doświadczeniem budowania w całej grupie. Duża skala pozwala stosować bardziej złożone rozwiązania, a dwa główne segmenty zamku różnią się od siebie na tyle, że budowa nie sprowadza się do powtarzania tych samych ścian i wież.
 
-71814 również jest konstrukcyjnie ambitny. Nieregularna podstawa, skały i wielopoziomowa architektura wymagają bardziej złożonego szkieletu niż typowy budynek na prostokątnej podstawie. Zaletą jest to, że cała ta nieregularność nie prowadzi do kruchego modelu — konstrukcja pozostaje stabilna.
+71814 również jest konstrukcyjnie ambitny. Nieregularna podstawa, skały i wielopoziomowa architektura wymagają bardziej złożonego szkieletu niż typowy budynek na prostokątnej podstawie. Zaletą jest to, że cała ta nieregularność nie prowadzi do kruchego modelu – konstrukcja pozostaje stabilna.
 
 31120 i 31168 odpowiadają czymś zupełnie innym. Po ukończeniu pierwszego modelu można go rozebrać i z tej samej puli elementów zbudować dwie kolejne oficjalne konstrukcje, a później przejść do własnych projektów. To szczególnie ważne w przypadku 31168. Jak pisałem już przy okazji [osobnej recenzji tego zestawu](/artykuly/lego-31168-sredniowieczny-zamek-recenzja/), najlepiej patrzeć na niego jak na dużą zabawkę konstrukcyjną, a nie jak na tańszy odpowiednik zamku 18+. Gotowy zamek jest jednym z etapów korzystania z zestawu.
 
@@ -88,7 +88,7 @@ Różnica między trzema figurkami w 31120 a dwudziestoma dwiema w 10305 wygląd
 
 10305 jest pod tym względem najbardziej kompletny. Rycerze, mieszkańcy, klasyczne frakcje Castle, pomieszczenia związane z codziennym funkcjonowaniem zamku i duża liczba akcesoriów sprawiają, że dostajemy nie tylko twierdzę, ale mały średniowieczny świat.
 
-71814 osiąga podobny efekt inną drogą. Trzynaście postaci tworzy rozbudowaną obsadę, ale ich znaczenie jest mocniej związane z [NINJAGO](/serie/ninjago/). Dla fana serii to zaleta — bohaterowie mają konkretne relacje i role. Dla osoby, która po prostu lubi duże architektoniczne zestawy fantasy, część tej warstwy będzie mniej istotna.
+71814 osiąga podobny efekt inną drogą. Trzynaście postaci tworzy rozbudowaną obsadę, ale ich znaczenie jest mocniej związane z [NINJAGO](/serie/ninjago/). Dla fana serii to zaleta – bohaterowie mają konkretne relacje i role. Dla osoby, która po prostu lubi duże architektoniczne zestawy fantasy, część tej warstwy będzie mniej istotna.
 
 W tym porównaniu dobrze widać różnicę między budowaniem własnego świata a rozwijaniem świata już istniejącego.
 
@@ -132,7 +132,7 @@ Cena jest więc ważnym kontekstem, ale nie powinna zastępować oceny projektu.
 
 **[10305 Zamek rycerzy herbu Lew](/zestaw/10305/)** jest najpełniejszym klasycznym zamkiem tej czwórki. Najlepiej łączy architekturę, zaawansowane budowanie, zagospodarowane wnętrza i świat minifigurek. To model, który budujemy przede wszystkim po to, żeby zamek pozostał zamkiem.
 
-**[71814 Turniejowe miasto ze świątynią](/zestaw/71814/)** pokazuje, co dzieje się, kiedy podobne ambicje projektowe wyprowadzimy poza klasyczne Castle. Nie jest średniowieczną warownią, ale jako kompletna scena fantasy — połączenie architektury, krajobrazu, funkcji i postaci — bardzo dobrze uzasadnia swoje miejsce w tym porównaniu.
+**[71814 Turniejowe miasto ze świątynią](/zestaw/71814/)** pokazuje, co dzieje się, kiedy podobne ambicje projektowe wyprowadzimy poza klasyczne Castle. Nie jest średniowieczną warownią, ale jako kompletna scena fantasy – połączenie architektury, krajobrazu, funkcji i postaci – bardzo dobrze uzasadnia swoje miejsce w tym porównaniu.
 
 ---
 

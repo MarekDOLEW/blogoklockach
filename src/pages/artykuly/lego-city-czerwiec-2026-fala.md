@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO City — nowa fala z czerwca 2026. Który zestaw warto wybrać?"
-opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Przewodnik po całej fali — dla kogo który zestaw, progi zakupu i gdzie rynek już mocno zszedł poniżej RRP."
+title: "LEGO City – nowa fala z czerwca 2026. Który zestaw warto wybrać?"
+opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Przewodnik po całej fali – dla kogo który zestaw, progi zakupu i gdzie rynek już mocno zszedł poniżej RRP."
 data: "2026-08-25"
 kategoria: "Premiery"
 tagi: ["Dla rodziców"]
@@ -78,7 +78,7 @@ Aż trzy z dziesięciu zestawów wykorzystują transport szynowy. Co ważniejsze
 
 <div class="galeria-setow" data-sety="60506,60509,60511"></div>
 
-### 60506 Tramwaj przy plaży — najbardziej uniwersalny
+### 60506 Tramwaj przy plaży – najbardziej uniwersalny
 
 Jeżeli miałbym wskazać zestaw, który najłatwiej polecić bardzo różnym odbiorcom, byłby to właśnie Tramwaj przy plaży.
 
@@ -86,21 +86,21 @@ Dla dziecka jest pełnoprawnym zestawem do zabawy: dostajemy tramwaj, przystanek
 
 W recenzjach powtarza się bardzo dobry odbiór wyglądu modelu i całej scenki. Zastrzeżenia dotyczą głównie naklejek i braku prostego oficjalnego sposobu motoryzacji. To nie jest jednak duży problem, jeśli kupujemy zestaw przede wszystkim jako element miasta. Przy aktualnych poziomach cenowych 60506 należy moim zdaniem do najbardziej atrakcyjnych zakupów całej premiery.
 
-### 60509 Portowy pociąg towarowy — świetny dodatek, słabszy jako pierwszy pociąg
+### 60509 Portowy pociąg towarowy – świetny dodatek, słabszy jako pierwszy pociąg
 
 Portowy pociąg towarowy jest bardziej wyspecjalizowany. Największą zaletą zestawu jest spójny scenariusz logistyczny. Mamy niewielką lokomotywę manewrową, wagony, dźwig, ciężarówkę i ładunki. Poszczególne elementy rzeczywiście współpracują ze sobą i dziecko może przewozić towar z ciężarówki na wagon, manewrować składem i obsługiwać port.
 
-Problem pojawia się wtedy, gdy 60509 ma być pierwszym pociągiem LEGO. W zestawie nie ma pełnej pętli torów ani napędu Powered Up. Dla dziecka, które ma już kolej LEGO, może to być wręcz zaleta — nie płacimy ponownie za elementy, które już są w domu. Jeżeli jednak kupujemy pierwszy zestaw kolejowy, trzeba doliczyć kolejne zakupy.
+Problem pojawia się wtedy, gdy 60509 ma być pierwszym pociągiem LEGO. W zestawie nie ma pełnej pętli torów ani napędu Powered Up. Dla dziecka, które ma już kolej LEGO, może to być wręcz zaleta – nie płacimy ponownie za elementy, które już są w domu. Jeżeli jednak kupujemy pierwszy zestaw kolejowy, trzeba doliczyć kolejne zakupy.
 
 To zasadniczo zmienia rekomendację. 60509 jest bardzo dobrym rozszerzeniem istniejącej kolei, ale nie traktowałbym go jako oczywistego startera.
 
-### 60511 Retro pociąg — więcej emocji niż kompletności
+### 60511 Retro pociąg – więcej emocji niż kompletności
 
 Retro pociąg z lokomotywą parową jest najbardziej charakterystycznym wizualnie zestawem kolejowym tej premiery. Parowóz dobrze wykorzystuje klasyczną stylistykę, a brak arkusza naklejek jest miłym dodatkiem w modelu, który może zainteresować także dorosłych fanów pociągów. Recenzenci dobrze oceniają wygląd lokomotywy oraz zachowanie składu po motoryzacji.
 
-Pojawia się jednak dokładnie ten sam problem co w 60509: nie jest to kompletny zestaw kolejowy z pełną trasą i napędem. Przy cenie katalogowej 379,99 zł miałbym z tym spory problem. Sytuację całkowicie zmienia rynek — 60511 jest już wyraźnie tańszy niż w dniu premiery, podczas gdy pociąg towarowy trzyma cenę znacznie bliżej RRP. Przy różnicy przekraczającej sto złotych retro pociąg staje się zdecydowanie bardziej atrakcyjny dla osoby, która po prostu chce nowego składu.
+Pojawia się jednak dokładnie ten sam problem co w 60509: nie jest to kompletny zestaw kolejowy z pełną trasą i napędem. Przy cenie katalogowej 379,99 zł miałbym z tym spory problem. Sytuację całkowicie zmienia rynek – 60511 jest już wyraźnie tańszy niż w dniu premiery, podczas gdy pociąg towarowy trzyma cenę znacznie bliżej RRP. Przy różnicy przekraczającej sto złotych retro pociąg staje się zdecydowanie bardziej atrakcyjny dla osoby, która po prostu chce nowego składu.
 
-## Lava Land — duży zestaw do zabawy, nie tylko duża cena
+## Lava Land – duży zestaw do zabawy, nie tylko duża cena
 
 <div class="galeria-setow" data-sety="60501"></div>
 
@@ -141,7 +141,7 @@ Największej ostrożności wymaga 60509. Nie dlatego, że zestaw jest słaby, le
 
 Z kolei 60494 jest dobrym przykładem zestawu, którego ocena mocno zależy od ceny. Za 519,99 zł wybrałbym coś innego. W okolicach 370–380 zł duży zestaw dwóch współpracujących maszyn staje się znacznie bardziej przekonujący.
 
-Progi z tabeli są trwałe — nie zmieniają się z dnia na dzień, bo to ocena, a nie odczyt z cennika. Aktualne kwoty przy każdym zestawie sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
+Progi z tabeli są trwałe – nie zmieniają się z dnia na dzień, bo to ocena, a nie odczyt z cennika. Aktualne kwoty przy każdym zestawie sprawdzisz, wchodząc w jego stronę z ostatniej kolumny.
 
 Dla zestawu, który uważam za najmocniejszy punkt całej fali, ceny wyglądają w tej chwili tak:
 
@@ -151,7 +151,7 @@ Dla zestawu, który uważam za najmocniejszy punkt całej fali, ceny wyglądają
 
 - **Pierwsze LEGO City dla czterolatka:** [60492 Samolot pasażerski](/zestaw/60492/). Proste budowanie ma tutaj sens, a gotowy samolot daje dużo bezpośredniej zabawy.
 - **Najlepszy mały zestaw z dużą liczbą funkcji:** [60480 Żółta koparko-ładowarka](/zestaw/60480/). Mały budżet, bardzo dobra mechanika i model, który nie wygląda jak uproszczona wersja większej maszyny.
-- **Duży prezent dla fana maszyn budowlanych:** [60494 Wywrotka i ładowarka czołowa](/zestaw/60494/) — pod warunkiem promocji. Za RRP nie.
+- **Duży prezent dla fana maszyn budowlanych:** [60494 Wywrotka i ładowarka czołowa](/zestaw/60494/) – pod warunkiem promocji. Za RRP nie.
 - **Najwięcej klasycznego role-play w średnim budżecie:** [60496 Dostawa pizzy](/zestaw/60496/). Kilka postaci i pojazdów daje dużo swobody w tworzeniu własnych historii.
 - **Dla dziecka, które przede wszystkim bawi się samochodami:** [60497 Automatyczna myjnia](/zestaw/60497/).
 - **Jeden duży zestaw do długiej samodzielnej zabawy:** [60501 Lava Land](/zestaw/60501/). Nie wymaga budowania całego miasta dookoła, żeby miał sens.
@@ -169,4 +169,4 @@ Najważniejszy wniosek jest więc prosty: **tej fali nie warto kupować według 
 
 ---
 
-*Zobacz też: [prezentownik LEGO City](/prezentowniki/lego-city/) · [LEGO za ok. 200 zł dla 10-latka — tam też są 60497 i 60506](/prezentowniki/lego-za-200-zl-dla-10-latka/) · [wszystkie zestawy City z aktualnymi cenami](/serie/city/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*
+*Zobacz też: [prezentownik LEGO City](/prezentowniki/lego-city/) · [LEGO za ok. 200 zł dla 10-latka – tam też są 60497 i 60506](/prezentowniki/lego-za-200-zl-dla-10-latka/) · [wszystkie zestawy City z aktualnymi cenami](/serie/city/) · [kalendarz promocji LEGO](/kalendarz-promocji-lego/)*

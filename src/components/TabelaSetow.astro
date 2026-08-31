@@ -5,22 +5,22 @@
 // Pod opisem wiersz meta: seria · rok produkcji · liczba elementów.
 // Wariant `pokazKiedy` dokłada nad ceną informację, kiedy zestaw znika ze sprzedaży.
 //
-// Wiersze przygotowuje strona — komponent niczego nie liczy, tylko rysuje.
+// Wiersze przygotowuje strona – komponent niczego nie liczy, tylko rysuje.
 // Kształt wiersza:
 //   { numer, nazwa, opis, seria, rok, elementy, zdjecie, hub,
 //     status: 'sprzedaz' | 'eol' | 'potwierdzone' | 'przewidywane',
 //     kiedy, oferta: { sklep, cena } | null, link, cenaKatalogowa }
 // Przekreślona cena katalogowa pojawia się nad ceną, gdy oferta jest od niej
-// wyraźnie niższa — tak widać, że promocja jest prawdziwa.
+// wyraźnie niższa – tak widać, że promocja jest prawdziwa.
 
 import { fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
 
 // Wiersz nie niesie nazwy sklepu przy linku „Sprawdź cenę", ale ścieżka
-// przekierowania ma postać /idz/<sklep>/<numer> — bierzemy sklep stamtąd,
+// przekierowania ma postać /idz/<sklep>/<numer> – bierzemy sklep stamtąd,
 // żeby `rel` mówiło „sponsored" tylko tam, gdzie mamy prowizję.
 const sklepZLinku = (link) => /^\/idz\/([^/]+)\//.exec(link ?? '')?.[1] ?? '';
 
-// '2026-08-14' -> '14.08' — czytelnik widzi, z którego dnia jest cena
+// '2026-08-14' -> '14.08' – czytelnik widzi, z którego dnia jest cena
 const dataKrotka = (d) => {
   const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(d ?? '');
   return m ? `${m[2]}.${m[1]}` : null;

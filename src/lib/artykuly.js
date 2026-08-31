@@ -1,10 +1,10 @@
 // Wspólne dane zajawek artykułów: jedna karta na stronie głównej,
-// w /artykuly/ i w /prezentownikach/ — ten sam kształt danych,
+// w /artykuly/ i w /prezentownikach/ – ten sam kształt danych,
 // ten sam komponent, więc listingi nie rozjeżdżają się między sobą.
 //
 // Okładkę wyliczamy z samego tekstu, żeby nie utrzymywać osobnego pola
 // w każdym frontmatterze. Kolejność źródeł:
-//   1. frontmatter.okladka — ręczne nadpisanie (ścieżka /img/… albo numer setu),
+//   1. frontmatter.okladka – ręczne nadpisanie (ścieżka /img/… albo numer setu),
 //   2. pierwszy obrazek w treści: ![alt](/img/…),
 //   3. pierwszy zestaw ze slajdera galerii: <div class="galeria-setow" data-sety="…">,
 //   4. pierwszy link do huba zestawu (/zestaw/<nr>/) lub do sklepu (/idz/<sklep>/<nr>),
@@ -75,7 +75,7 @@ export function zajawkaArtykulu(modul, { karty = false } = {}) {
     url: modul.url + '/',
     data: f.data,
     kategoria: (karty ? f.karta_znacznik : null) ?? f.kategoria,
-    // `grupa` to zawsze nazwa kategorii — także wtedy, gdy plakietka pokazuje
+    // `grupa` to zawsze nazwa kategorii – także wtedy, gdy plakietka pokazuje
     // krótszy znacznik karty. Po niej filtruje pasek kategorii w /artykuly/.
     grupa: f.kategoria,
     tagi: f.tagi ?? [],
@@ -92,7 +92,7 @@ export function zajawkiArtykulow(moduly, opcje) {
 }
 
 /**
- * Zajawka strony, która nie jest markdownem — prezentowniki serii to .astro
+ * Zajawka strony, która nie jest markdownem – prezentowniki serii to .astro
  * i zamiast frontmattera eksportują `meta`. Zdjęcie wskazuje pole `okladka`
  * (numer zestawu albo ścieżka), bo treści takiej strony nie da się przeszukać
  * regexpem jak markdownu.
@@ -102,7 +102,7 @@ export function zajawkaZMeta(meta, { karty = false } = {}) {
     url: meta.url,
     data: meta.data,
     // tak samo jak w markdownie: listing działu pokazuje krótką plakietkę
-    // (znacznik), a wspólna lista artykułów — nazwę kategorii
+    // (znacznik), a wspólna lista artykułów – nazwę kategorii
     kategoria: (karty ? meta.znacznik : null) ?? meta.kategoria ?? meta.znacznik,
     grupa: meta.kategoria ?? meta.znacznik,
     tagi: meta.tagi ?? [],
