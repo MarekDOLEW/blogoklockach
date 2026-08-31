@@ -7,9 +7,9 @@ Godziny podane w czasie polskim (cron w panelu jest w UTC).
 |---|---|---|---|---|
 | 05:00 | Scout nowości **(Opus 5)** | `trig_01Nos3qQb8GJFAVMR1SyEEZT` | `session_012AZejbFzsfzkTh4FPaAkVg` | nowe zestawy → `sety.json`, `known_sets.json` |
 | 06:00 | Wycofania | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` | `wycofania.json` |
-| 07:00 | Łowca promocji | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` | ceny i linki → `oferty_feed.json`, `ceny_baza.json`, `redirects.json` |
+| 08:30 | Łowca promocji | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` | ceny i linki → `oferty_feed.json`, `ceny_baza.json`, `redirects.json` |
 | 08:00 | Radar konkurencji **(Opus 5)** | `trig_01UpMJdpeguEtby68saqBMpD` | `session_01UFkqKNwQexnxLN34HotM4G` | `konkurencja_baza.json` + rekomendacje redakcyjne |
-| 12:00 | Backfill cen katalogowych | `trig_01UYsxXohZqiBKinEAhSDxrT` | `session_01JSfUBJxddBbATeaXhQ6efS` | pole `cena_katalogowa` w `katalog.json` |
+| (wyłączony) | Backfill cen katalogowych | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` | `session_01JSfUBJxddBbATeaXhQ6efS` | pole `cena_katalogowa` w `katalog.json`; trigger odtworzony 31.08 z bramką sanity w promptcie, wyłączony (pule niemal wyczerpane po imporcie RK) |
 | pon 09:00 | Kontroler (raport tygodnia) **(Opus 5)** | `trig_01T8AhciW8JD651MrSMuEj7m` | świeża sesja | raport PDF na maila |
 | ndz 10:00 | Social: paczka tygodniowa | `trig_01W1CSp8PM3DDN6UEyNLYe6H` | — | **ZAWIESZONE** do startu kanałów i dopracowania stylu |
 
@@ -67,3 +67,14 @@ Audyt z 30.08.2026: wpisy Backfilla po naprawach z 24.08 są poprawne; fałszywe
 rabaty (75425 „−76%") produkowały zaślepki cenowe Planety Klocków (79,99 dla
 linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
+
+
+## Zmiany z 31.08.2026
+
+- **Łowca przesunięty z 07:00 na 08:30** (cron `30 6 * * *` UTC) — nocny feed ME
+  ląduje na GCS ok. 07:40, więc przebieg 07:00 zawsze dostawał wczorajszą
+  wieczorną wersję. Od teraz każdy poranny przebieg pracuje na świeżym feedzie.
+- **Backfill: trigger odtworzony pod nowym ID** `trig_01D5ZK2mHY9CSXAQNnfwaV3q`
+  (delete+create — jedyna droga edycji promptu Routine cudzej sesji); w promptcie
+  obowiązkowa bramka sanity `node scripts/kontrola-rrp.mjs` i pomijanie wpisów
+  z `cena_zrodlo="RK"`. Trigger pozostaje WYŁĄCZONY jak przed zmianą.
