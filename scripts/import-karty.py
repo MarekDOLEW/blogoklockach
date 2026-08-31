@@ -95,6 +95,26 @@ def zbuduj_kontekst():
         return ma_cene or ma_link or (k.get('status') == 'dostepny' and k.get('cena_katalogowa'))
     return {'kat': kat, 'sety': sety, 'wKat': wKat, 'rrp': rrp, 'ma_hub': ma_hub}
 
+# Nazwa serii z metryki Piotra bywa marketingowa („LEGO DC / Batman",
+# „LEGO Chinese Festivals") — mapujemy ją na klucz serii w katalog.json,
+# bo z niego powstaje slug /serie/<...>/ i tam muszą prowadzić linki.
+SERIA_ALIASY = {
+    'DC / Batman': 'Batman',
+    'DC': 'Batman',
+    'Chinese Festivals': 'Seasonal',
+    'NINJAGO': 'Ninjago',
+}
+
+def seria_kanoniczna(seria_pelna, ctx=None):
+    s = seria_pelna.replace('LEGO ', '').strip()
+    s = SERIA_ALIASY.get(s, s)
+    if ctx is not None and s not in ctx['kat']:
+        # dopasowanie bez wielkości liter, zanim uznamy serię za nieznaną
+        for klucz in ctx['kat']:
+            if isinstance(ctx['kat'][klucz], list) and klucz.lower() == s.lower():
+                return klucz
+    return s
+
 def slug_serii(seria):
     import unicodedata
     s = unicodedata.normalize('NFD', seria.lower())
@@ -102,8 +122,8 @@ def slug_serii(seria):
     return re.sub(r'\s+', '-', s.strip())
 
 # ---------- transformacje ----------
-def linkuj(t, seria_pelna, slug):
-    s = seria_pelna.replace('LEGO ', '')
+def linkuj(t, seria_repo, slug):
+    s = seria_repo
     t = re.sub(r'\[sprawdź aktualne ceny LEGO \d+ – link wewnętrzny\]',
                '<a href="#ceny">zobacz tabelę cen nad tym opisem</a>', t)
     t = re.sub(r'\[porównaj oferty LEGO \d+ – link wewnętrzny\]',
@@ -149,10 +169,10 @@ def gramatyka(t, powiazanie, log):
 def fmt_zl(x):
     return f'{x:,.2f}'.replace(',', ' ').replace('.', ',') + ' zł'
 
-def akapity_redakcyjne(nr, seria_pelna, el, rrp, ctx):
+def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
     sk = ctx['wKat'].get(nr, {}).get('seriaKat')
     rocznik = [x for x in ctx['kat'].get(sk, []) if isinstance(x, dict) and x.get('rok') == 2026 and x.get('elementy')]
-    s = seria_pelna.replace('LEGO ', ''); out = []
+    s = seria_repo; out = []
     if len(rocznik) >= 6 and el:
         wieksze = sorted([x for x in rocznik if x['elementy'] > el], key=lambda x: -x['elementy'])
         poz = len(wieksze) + 1
@@ -216,7 +236,11 @@ def main():
             blokady.append((d['plik'], 'niekompletna struktura DOCX')); continue
         if nr in karty:
             ostrz.append((nr, 'karta już istnieje — pominięta')); continue
-        seria_pelna = m.get('Seria', ''); slug = slug_serii(seria_pelna.replace('LEGO ', ''))
+        seria_pelna = m.get('Seria', '')
+        seria_repo = seria_kanoniczna(seria_pelna, ctx)
+        slug = slug_serii(seria_repo)
+        if seria_repo not in ctx['kat']:
+            ostrz.append((nr, f'seria „{seria_pelna}” nieznana w katalog.json — linki /serie/{slug}/ mogą prowadzić w próżnię'))
         # RRP — bramka twarda
         mc = re.search(r'([\d\s]+,\d{2})', m.get('Polska cena katalogowa RRP', ''))
         rrp_p = float(mc.group(1).replace(' ', '').replace(',', '.')) if mc else None
@@ -237,16 +261,16 @@ def main():
         m['Nazwa'] = nazwa
         log = []
         pow = m.get('Powiązanie')
-        ak = [gramatyka(linkuj(a, seria_pelna, slug), pow, log) for a in d['akapity']]
-        faq = [{'q': f['q'].strip(), 'a': gramatyka(linkuj(f['a'], seria_pelna, slug), pow, log)} for f in d['faq']]
+        ak = [gramatyka(linkuj(a, seria_repo, slug), pow, log) for a in d['akapity']]
+        faq = [{'q': f['q'].strip(), 'a': gramatyka(linkuj(f['a'], seria_repo, slug), pow, log)} for f in d['faq']]
         for wpis in log: ostrz.append((nr, 'gramatyka szablonu: ' + wpis))
         for t in ak + [f['a'] for f in faq]:
             if 'link wewnętrzny' in t: ostrz.append((nr, 'NIEROZWIĄZANY placeholder: ' + t[:80]))
         potrzeba = 2 if el > 1200 else (1 if el > 500 else 0)
         if potrzeba:
-            ak += akapity_redakcyjne(nr, seria_pelna, el, rrp_p, ctx)[:potrzeba]
+            ak += akapity_redakcyjne(nr, seria_repo, el, rrp_p, ctx)[:potrzeba]
         nowe[nr] = collections.OrderedDict([
-            ('seria', seria_pelna.replace('LEGO ', '')), ('nazwa', nazwa), ('elementy', el),
+            ('seria', seria_repo), ('nazwa', nazwa), ('elementy', el),
             ('akapity', ak), ('metryka', m), ('faq', faq)])
 
     print(f'\nRAPORT — do wgrania: {len(nowe)}, zablokowane: {len(blokady)}, ostrzeżeń: {len(ostrz)}')

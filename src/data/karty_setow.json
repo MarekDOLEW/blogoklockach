@@ -5,6 +5,10 @@
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
   "zaktualizowano": "2026-08-31",
   "serie_wgrane": [
+   "Architecture",
+   "Art",
+   "Batman",
+   "Bluey",
    "Botanicals",
    "BrickHeadz",
    "City",
@@ -16483,6 +16487,594 @@
    {
     "q": "Z czym można zestawić LEGO 77985 na wspólnej ekspozycji?",
     "a": "Najlepszym uzupełnieniem będą inne modele z kolekcji Szkielety dinozaurów, ustawione na wspólnej półce w formie domowej ekspozycji muzealnej: <a href=\"/serie/jurassic-world/\">zobacz wszystkie zestawy LEGO Jurassic World</a>."
+   }
+  ]
+ },
+ "11216": {
+  "seria": "Bluey",
+  "nazwa": "Babunie z Bingo i Blue",
+  "elementy": 80,
+  "akapity": [
+   "Babunie z Bingo i Blue 11216 odtwarza komediową zabawę sióstr w starsze panie. W zestawie są figurki Blue i Bingo w charakterystycznych okularach, mały samochodzik oraz akcesoria potrzebne do krótkich scenek. Duży klocek startowy ułatwia rozpoczęcie budowania dzieciom od czwartego roku życia.",
+   "To niewielkie pudełko sprawdzi się jako pierwszy zestaw LEGO Bluey albo niedrogi dodatek do większego domu i szkoły. Prosta konstrukcja pozostawia dużo miejsca na własne dialogi i codzienne sytuacje znane z serialu. Najważniejsze funkcje pozostają łatwo dostępne, więc zmiana sceny nie wymaga rozbierania większej części konstrukcji. Główny model i mniejsze akcesoria można przestawiać osobno, co ułatwia przechodzenie od jednej krótkiej historii do następnej."
+  ],
+  "metryka": {
+   "Numer": "11216",
+   "Nazwa": "Babunie z Bingo i Blue",
+   "Seria": "LEGO Bluey",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "80",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "2 figurki: Blue i Bingo w przebraniach babuni",
+   "Polska cena katalogowa RRP": "61,99 zł",
+   "Cena katalogowa za element": "0,77 zł",
+   "Typ zestawu": "mały zestaw 4+ z samochodzikiem",
+   "Powiązanie": "innych zestawów LEGO Bluey dla przedszkolaków",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 11216?",
+    "a": "Oficjalna polska cena katalogowa wynosi 61,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 80 elementach wskaźnik wynosi około 0,77 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Bluey w podobnej cenie?",
+    "a": "Porównaj liczbę modeli lub postaci, skalę, licencję i przeznaczenie. Najbliższy kontekst zbudujesz z innych zestawów LEGO Bluey dla przedszkolaków: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 11216?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 11216 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych zestawów LEGO Bluey dla przedszkolaków. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   }
+  ]
+ },
+ "11217": {
+  "seria": "Bluey",
+  "nazwa": "Rodzina Blue z klocków",
+  "elementy": 466,
+  "akapity": [
+   "Rodzina Blue z klocków 11217 pozwala zbudować czworo głównych bohaterów serialu: Blue, Bingo, Chilli i Bandita. Każda postać ma ruchome ramiona, dłonie i ogon, a wymienne oczy oraz pyszczki pomagają zmieniać mimikę. Wewnątrz figurek ukryto miejsce na drobne akcesoria, co ułatwia ich przechowywanie.",
+   "Modele nadają się zarówno do prostych scenek, jak i do ustawienia na półce. Największym atutem zestawu jest kompletna rodzina w jednej skali, bez konieczności dokupowania osobnych postaci. Po użyciu ruchomych części lub wyjęciu akcesoriów model można szybko przywrócić do uporządkowanej formy ekspozycyjnej. Proces budowania jest na tyle zróżnicowany, by pokazać zarówno konstrukcję bryły, jak i pracę nad drobnymi detalami."
+  ],
+  "metryka": {
+   "Numer": "11217",
+   "Nazwa": "Rodzina Blue z klocków",
+   "Seria": "LEGO Bluey",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "466",
+   "Wiek": "5+",
+   "Minifigurki / postacie": "4 duże postacie do zbudowania: Blue, Bingo, Chilli i Bandit",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,64 zł",
+   "Typ zestawu": "rodzina ruchomych postaci z klocków",
+   "Powiązanie": "innych zestawów LEGO Bluey z serialowymi bohaterami",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 11217?",
+    "a": "Oficjalna polska cena katalogowa wynosi 299,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 466 elementach wskaźnik wynosi około 0,64 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jaki zestaw LEGO Bluey warto kupić zamiast tego modelu?",
+    "a": "Alternatywy warto szukać wśród innych zestawów LEGO Bluey z serialowymi bohaterami; wybór zależy od tematu, wielkości i preferowanego sposobu ekspozycji: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 11217?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 11217 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych zestawów LEGO Bluey z serialowymi bohaterami. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   }
+  ]
+ },
+ "11221": {
+  "seria": "Bluey",
+  "nazwa": "Szkoła z Ryżykiem i Blue",
+  "elementy": 106,
+  "akapity": [
+   "Szkoła z Ryżykiem i Blue 11221 przedstawia niewielką, otwartą salę z miejscem do rysowania, nauki i wspólnej zabawy. Figurki Blue i Ryżyka mogą korzystać z dołączonych akcesoriów, a prosty układ pozwala dziecku łatwo sięgać do każdej części modelu. Klocek startowy i obrazkowe instrukcje wspierają samodzielne budowanie od czwartego roku życia.",
+   "Zestaw dobrze uzupełnia domowe sceny z serii, ale działa również jako osobna opowieść o pierwszych szkolnych doświadczeniach. Dołączone postacie odpowiadają skali konstrukcji i pozwalają wykorzystać najważniejsze funkcje od razu po zbudowaniu. Rozpoznawalne akcesoria rozwijają temat, ale nie narzucają jednego sposobu prowadzenia zabawy. Konstrukcja zachowuje równowagę między prostą obsługą funkcji a detalami, które można odkrywać podczas budowania."
+  ],
+  "metryka": {
+   "Numer": "11221",
+   "Nazwa": "Szkoła z Ryżykiem i Blue",
+   "Seria": "LEGO Bluey",
+   "Premiera": "1 czerwca 2026",
+   "Liczba elementów": "106",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "2 figurki: Blue i Ryżyk",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,99 zł",
+   "Typ zestawu": "otwarta szkoła z klockiem startowym",
+   "Powiązanie": "innych zestawów LEGO Bluey przedstawiających codzienne miejsca",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 11221?",
+    "a": "Oficjalna polska cena katalogowa wynosi 104,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 106 elementach wskaźnik wynosi około 0,99 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Bluey?",
+    "a": "Tematycznie najbliżej mu do innych zestawów LEGO Bluey przedstawiających codzienne miejsca. Warto zestawić ich format, cenę i charakterystyczne detale: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 11221?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 11221 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych zestawów LEGO Bluey przedstawiających codzienne miejsca. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/bluey/\">zobacz wszystkie zestawy LEGO Bluey</a>."
+   }
+  ]
+ },
+ "21064": {
+  "seria": "Architecture",
+  "nazwa": "Paryż — miasto miłości",
+  "elementy": 958,
+  "akapity": [
+   "LEGO Architecture 21064 Paryż — miasto miłości należy do premier zaplanowanych na 2026 rok. Warstwowa panorama Paryża łączy Wieżę Eiffla, katedrę Notre-Dame, Łuk Triumfalny i Luwr na tle rozgwieżdżonego nieba. Biała ramka porządkuje kompozycję, a gotowy model można postawić na półce albo zawiesić na ścianie. Napis „City of Love” podkreśla pamiątkowy charakter dekoracji. W zestawie nie ma minifigurek. Gotowa konstrukcja tworzy zamkniętą kompozycję i nie potrzebuje dodatkowych figurek ani akcesoriów, aby wyglądać kompletnie. Przed zakupem warto sprawdzić wymiary gotowej konstrukcji i zaplanować miejsce, z którego najlepiej widać jej charakterystyczną sylwetkę. Wartość zestawu wynika z procesu składania, dopracowanego tematu i końcowego efektu na półce, nie z liczby funkcji zabawowych.",
+   "Zestaw składa się z 958 elementów, jest przeznaczony dla osób od 18 lat, a jego premiera przypada na 1 sierpnia 2026. Powinien zainteresować przede wszystkim dorosłych miłośników Paryża, podróży, historii i architektury. Może stać samodzielnie, a naturalnym uzupełnieniem są inne panoramy i dekoracje LEGO Architecture. Zestaw wyróżnia się następującymi cechami: cztery zabytki w jednej kompozycji przeznaczonej do ustawienia lub zawieszenia. Projekt jest nastawiony na spokojne budowanie i późniejszą ekspozycję, a nie na rozbudowane odgrywanie scen. Ustawienie modelu pod lekkim kątem pozwala jednocześnie pokazać jego główny profil i warstwowe detale. Stonowane tło pomaga wydobyć kontur modelu, faktury oraz drobne elementy odpowiadające za rozpoznawalność pierwowzoru."
+  ],
+  "metryka": {
+   "Numer": "21064",
+   "Nazwa": "Paryż — miasto miłości",
+   "Seria": "LEGO Architecture",
+   "Premiera": "1 sierpnia 2026",
+   "Liczba elementów": "958",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "brak minifigurek",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "architektoniczna dekoracja w ramce",
+   "Powiązanie": "inne panoramy i dekoracje LEGO Architecture",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21064?",
+    "a": "Oficjalna polska cena katalogowa wynosi 339,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,35 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Architecture w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, przeznaczenie, funkcje i zawartość. Najbliższy kontekst stanowią inne panoramy i dekoracje LEGO Architecture: <a href=\"/serie/architecture/\">zobacz wszystkie zestawy LEGO Architecture</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 21064?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21064 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są inne panoramy i dekoracje LEGO Architecture. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/architecture/\">zobacz wszystkie zestawy LEGO Architecture</a>."
+   }
+  ]
+ },
+ "31218": {
+  "seria": "Art",
+  "nazwa": "Japoński krajobraz z kwitnącą wiśnią",
+  "elementy": 1892,
+  "akapity": [
+   "Japoński krajobraz z kwitnącą wiśnią 31218 buduje spokojną scenę z górą Fuji, wodospadem, mostem i drzewami obsypanymi różowymi kwiatami. Warstwowa konstrukcja wychodzi przed ramę, dzięki czemu krajobraz zyskuje głębię, a poszczególne plany pozostają czytelne także pod kątem. Model można zawiesić na ścianie albo ustawić na płaskiej powierzchni.",
+   "W zestawie nie ma minifigurek. Uwagę skupiają faktury roślin, stopniowanie kolorów oraz kontrast jasnych kwiatów z ciemniejszą ramą. To projekt dla dorosłych, którzy chcą połączyć dłuższe budowanie z dekoracją inspirowaną japońską sztuką krajobrazu. Budowanie zaczyna się od sztywnej ramy, a następnie przechodzi do nakładania kolejnych planów krajobrazu. Góra, woda i roślinność korzystają z odmiennych faktur, dzięki czemu scena nie zamienia się w jednolitą mozaikę. Kwitnące gałęzie wyraźnie wychodzą przed powierzchnię obrazu i rzucają subtelne cienie na elementy położone głębiej. Most tworzy naturalny punkt skupienia, a wodospad prowadzi wzrok w stronę spokojniejszej części kompozycji. Model nie ma ruchomych funkcji ani osobnych scen; jego przeznaczeniem jest ekspozycja i obserwowanie przestrzennej konstrukcji. Możliwość ustawienia na meblu przyda się osobom, które nie chcą wiercić otworów lub często zmieniają aranżację wnętrza. Przed zakupem warto sprawdzić wymiary i zostawić wokół ramy wolną przestrzeń, aby wystające gałęzie nie zlewały się z otoczeniem. Stonowane błękity, zieleń i róż dają dekorację spokojniejszą niż wiele portretów lub motywów popkulturowych z serii LEGO Art. To zestaw dla dorosłych, którzy cenią długi, powtarzalny rytm budowania oraz wyraźny efekt przestrzenny po jego zakończeniu. Proces składania prowadzi od konstrukcji wewnętrznej do najbardziej rozpoznawalnych warstw i detali widocznych w gotowym modelu. Przed zakupem warto sprawdzić wymiary całości i zaplanować miejsce, z którego dobrze widać główny profil oraz przestrzenne wykończenie."
+  ],
+  "metryka": {
+   "Numer": "31218",
+   "Nazwa": "Japoński krajobraz z kwitnącą wiśnią",
+   "Seria": "LEGO Art",
+   "Premiera": "1 stycznia 2026",
+   "Liczba elementów": "1892",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "brak minifigurek",
+   "Polska cena katalogowa RRP": "519,99 zł",
+   "Cena katalogowa za element": "0,27 zł",
+   "Typ zestawu": "trójwymiarowy pejzaż do ustawienia lub zawieszenia",
+   "Powiązanie": "innych krajobrazów i dekoracji ściennych LEGO Art",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31218?",
+    "a": "Oficjalna polska cena katalogowa wynosi 519,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 1892 elementach wskaźnik wynosi około 0,27 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Art w podobnej cenie?",
+    "a": "Porównaj liczbę modeli lub postaci, skalę, licencję i przeznaczenie. Najbliższy kontekst zbudujesz z innych krajobrazów i dekoracji ściennych LEGO Art: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 31218?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 31218 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych krajobrazów i dekoracji ściennych LEGO Art. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "31220": {
+  "seria": "Art",
+  "nazwa": "Claude Monet — Most nad stawem z liliami wodnymi",
+  "elementy": 3179,
+  "akapity": [
+   "Claude Monet — Most nad stawem z liliami wodnymi 31220 przekłada impresjonistyczny obraz na wielowarstwową kompozycję z klocków. Zielony most wysuwa się przed powierzchnię stawu, a lilie, wierzby i odbicia tworzą gęstą mozaikę kolorów. Zróżnicowane wysokości elementów zastępują płaskie pociągnięcia pędzla i pozwalają oglądać model zarówno z przodu, jak i z boku.",
+   "To zestaw wyłącznie ekspozycyjny, bez minifigurek i funkcji zabawowych. Jego wartość wynika z procesu budowania, rozmiaru oraz sposobu, w jaki odtwarza rozpoznawalną scenę Moneta. Gotowy obraz najlepiej prezentuje się na ścianie z pozostawioną wolną przestrzenią wokół ramy. Budowa obrazu polega na stopniowym zestawianiu niewielkich plam barwnych, które z dalszej odległości tworzą spójny pejzaż. Most stanowi najbardziej wysunięty element kompozycji, natomiast roślinność i tafla wody układają się w kilka głębszych planów. Nieregularne faktury dobrze współgrają z impresjonistycznym tematem i pozwalają uniknąć wrażenia płaskiego wydruku z klocków. W zestawie nie ma mechanizmów ani minifigurek, ponieważ wszystkie elementy podporządkowano odtworzeniu obrazu i jego atmosfery. Duży format wymaga odpowiedniej ściany, ale daje też więcej miejsca na subtelne przejścia między zielenią, błękitem i różem. Najlepszy efekt uzyskuje się przy miękkim świetle padającym z boku, które podkreśla cienie między poszczególnymi warstwami. Proces składania jest długi i szczegółowy, dlatego zestaw może sprawdzić się jako projekt rozłożony na kilka spokojnych wieczorów. Po zawieszeniu model tworzy samodzielną dekorację i nie potrzebuje dodatkowych tabliczek ani akcesoriów, by temat był rozpoznawalny. To propozycja dla miłośników Moneta, muzealnych kolekcji oraz osób szukających dużego obrazu LEGO o naturalnej kolorystyce. Proces składania prowadzi od konstrukcji wewnętrznej do najbardziej rozpoznawalnych warstw i detali widocznych w gotowym modelu."
+  ],
+  "metryka": {
+   "Numer": "31220",
+   "Nazwa": "Claude Monet — Most nad stawem z liliami wodnymi",
+   "Seria": "LEGO Art",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "3179",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "brak minifigurek",
+   "Polska cena katalogowa RRP": "869,99 zł",
+   "Cena katalogowa za element": "0,27 zł",
+   "Typ zestawu": "przestrzenna interpretacja obrazu Claude’a Moneta",
+   "Powiązanie": "innych dzieł sztuki odtworzonych w serii LEGO Art",
+   "Dystrybucja": "ograniczona / ekskluzywna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31220?",
+    "a": "Oficjalna polska cena katalogowa wynosi 869,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 3179 elementach wskaźnik wynosi około 0,27 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jaki zestaw LEGO Art warto kupić zamiast tego modelu?",
+    "a": "Alternatywy warto szukać wśród innych dzieł sztuki odtworzonych w serii LEGO Art; wybór zależy od tematu, wielkości i preferowanego sposobu ekspozycji: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zakup w cenie katalogowej można rozważyć, ponieważ zestaw ma ekskluzywną dystrybucję i zwykle nie trafia od razu do wielu konkurujących sklepów. Warto uwzględnić punkty LEGO Insiders oraz ewentualny prezent przy zakupie: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 31220?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 31220 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych dzieł sztuki odtworzonych w serii LEGO Art. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "31221": {
+  "seria": "Art",
+  "nazwa": "Gustav Klimt — Pocałunek",
+  "elementy": 4000,
+  "akapity": [
+   "Gustav Klimt — Pocałunek 31221 jest dużą, przestrzenną interpretacją jednego z najbardziej rozpoznawalnych dzieł secesji. Złote pola, geometryczne wzory i kwiatowe ornamenty powstają z wielu warstw drobnych elementów, a postacie wyraźnie wystają przed tło. Projekt opracowano we współpracy z wiedeńskim Belwederem, gdzie znajduje się oryginalny obraz.",
+   "W zestawie nie ma minifigurek. Cztery tysiące elementów przekładają się na długi proces składania i format wymagający wcześniej zaplanowanego miejsca na ścianie. Model ma działać jako samodzielna dekoracja, dlatego nie dodano do niego osobnej scenki ani akcesoriów niezwiązanych z obrazem. Najwięcej pracy wymaga układanie ornamentów, które różnią się kształtem, kierunkiem i wysokością na powierzchni obrazu. Złota kolorystyka jest przełamywana czernią, bielą oraz kwiatowymi akcentami, dzięki czemu wzór zachowuje czytelność z dystansu. Przestrzenne sylwetki pary tworzą centralny punkt, natomiast dekoracyjne tło buduje charakterystyczne napięcie między figurą a ornamentem. Model nie oferuje funkcji ruchowych; jego wartość wynika z interpretacji dzieła, skali oraz długiego procesu składania. Format liczący cztery tysiące elementów wymaga stabilnego miejsca pracy i najlepiej budować go etapami. Po ukończeniu całość jest przeznaczona do zawieszenia, dlatego przed zakupem warto zaplanować odpowiednio szeroki fragment ściany. Boczne światło wydobywa różnice wysokości, a spokojne otoczenie pozwala uniknąć konkurencji z bogatą ornamentyką Klimta. Współpraca z Belwederem wzmacnia muzealny charakter projektu, ale model pozostaje klockową interpretacją, a nie próbą płaskiej reprodukcji. To jeden z najbardziej wymagających zestawów LEGO Art dla osób szukających dużej, rozpoznawalnej dekoracji do wnętrza. Proces składania prowadzi od konstrukcji wewnętrznej do najbardziej rozpoznawalnych warstw i detali widocznych w gotowym modelu. Przed zakupem warto sprawdzić wymiary całości i zaplanować miejsce, z którego dobrze widać główny profil oraz przestrzenne wykończenie."
+  ],
+  "metryka": {
+   "Numer": "31221",
+   "Nazwa": "Gustav Klimt — Pocałunek",
+   "Seria": "LEGO Art",
+   "Premiera": "1 sierpnia 2026",
+   "Liczba elementów": "4000",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "brak minifigurek",
+   "Polska cena katalogowa RRP": "1299,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "duża dekoracja ścienna inspirowana obrazem Gustava Klimta",
+   "Powiązanie": "innych kolekcjonerskich modeli LEGO Art",
+   "Dystrybucja": "ograniczona / ekskluzywna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31221?",
+    "a": "Oficjalna polska cena katalogowa wynosi 1299,99 zł. Bieżące oferty mogą być niższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Przy RRP i 4000 elementach wskaźnik wynosi około 0,32 zł za element. To miara pomocnicza, która nie uwzględnia wielkości części, licencji, nadruków ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Tematycznie najbliżej mu do innych kolekcjonerskich modeli LEGO Art. Warto zestawić ich format, cenę i charakterystyczne detale: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zakup w cenie katalogowej można rozważyć, ponieważ zestaw ma ekskluzywną dystrybucję i zwykle nie trafia od razu do wielu konkurujących sklepów. Warto uwzględnić punkty LEGO Insiders oraz ewentualny prezent przy zakupie: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 31221?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sprzedawcy i dostępność. <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Z czym można zestawić LEGO 31221 na wspólnej ekspozycji?",
+    "a": "Naturalnym kierunkiem jest dokupienie innych kolekcjonerskich modeli LEGO Art. Modele nie muszą łączyć się konstrukcyjnie, aby stworzyć spójną kolekcję: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "76330": {
+  "seria": "Batman",
+  "nazwa": "Logo Batmana™",
+  "elementy": 678,
+  "akapity": [
+   "LEGO DC / Batman 76330 Logo Batmana™ należy do premier zaplanowanych na 2026 rok. Czarny znak nietoperza można ustawić na podstawce albo zawiesić na ścianie. Warstwowa konstrukcja nadaje logo głębię, a dwie minifigurki — klasyczna i rocznicowa w złotym kolorze — przypominają o 20-leciu serii LEGO Batman. Ukryta moneta stanowi dodatkowy detal kolekcjonerski. W zestawie znajdują się 2 minifigurki Batmana: klasyczna i złota. Gotowa konstrukcja tworzy zamkniętą kompozycję i nie potrzebuje dodatkowych figurek ani akcesoriów, aby wyglądać kompletnie. Przed zakupem warto sprawdzić wymiary gotowej konstrukcji i zaplanować miejsce, z którego najlepiej widać jej charakterystyczną sylwetkę. Wartość zestawu wynika z procesu składania, dopracowanego tematu i końcowego efektu na półce, nie z liczby funkcji zabawowych.",
+   "Zestaw składa się z 678 elementów, jest przeznaczony dla osób od 12 lat, a jego premiera przypada na 1 marca 2026. Powinien zainteresować przede wszystkim fanów Batmana szukających dekoracji do pokoju lub gabinetu. Może stać samodzielnie, a naturalnym uzupełnieniem są inne rocznicowe modele LEGO DC i kolekcja Batmobili. Zestaw wyróżnia się następującymi cechami: dwa sposoby ekspozycji i rocznicowa złota figurka. Projekt jest nastawiony na spokojne budowanie i późniejszą ekspozycję, a nie na rozbudowane odgrywanie scen. Ustawienie modelu pod lekkim kątem pozwala jednocześnie pokazać jego główny profil i warstwowe detale. Stonowane tło pomaga wydobyć kontur modelu, faktury oraz drobne elementy odpowiadające za rozpoznawalność pierwowzoru."
+  ],
+  "metryka": {
+   "Numer": "76330",
+   "Nazwa": "Logo Batmana™",
+   "Seria": "LEGO DC / Batman",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "678",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "2 minifigurki Batmana: klasyczna i złota",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,50 zł",
+   "Typ zestawu": "logo do ustawienia lub zawieszenia",
+   "Powiązanie": "inne rocznicowe modele LEGO DC i kolekcja Batmobili",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76330?",
+    "a": "Oficjalna polska cena katalogowa wynosi 339,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,50 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO DC / Batman w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, przeznaczenie, funkcje i zawartość. Najbliższy kontekst stanowią inne rocznicowe modele LEGO DC i kolekcja Batmobili: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 76330?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76330 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są inne rocznicowe modele LEGO DC i kolekcja Batmobili. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76331": {
+  "seria": "Batman",
+  "nazwa": "Batmobil™ z filmu Batman v Superman™",
+  "elementy": 220,
+  "akapity": [
+   "W katalogu LEGO DC / Batman na 2026 rok pojawia się zestaw 76331 Batmobil™ z filmu Batman v Superman™. Niski, opancerzony Batmobil nawiązuje do filmu „Batman v Superman”. Model ma otwierany kokpit, miejsce dla minifigurki i obrotowe koła, a szerokie nadwozie zachowuje militarny charakter ekranowego pojazdu. Złota moneta podkreśla rocznicowy charakter wydania. W zestawie znajduje się 1 minifigurka Batmana i złota moneta rocznicowa.",
+   "Premiera została zaplanowana na 1 marca 2026. Model zawiera 220 elementów i ma oznaczenie wiekowe 9+. Powinien zainteresować przede wszystkim młodszych fanów filmowego Batmana i kolekcjonerów niewielkich Batmobili. Nie wymaga dokupowania innych modeli do rozpoczęcia zabawy, a naturalnym uzupełnieniem są pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC. Zestaw wyróżnia się następującymi cechami: kompaktowa interpretacja ciężko opancerzonej wersji pojazdu."
+  ],
+  "metryka": {
+   "Numer": "76331",
+   "Nazwa": "Batmobil™ z filmu Batman v Superman™",
+   "Seria": "LEGO DC / Batman",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "220",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "1 minifigurka Batmana i złota moneta rocznicowa",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,57 zł",
+   "Typ zestawu": "kompaktowy model filmowego Batmobilu",
+   "Powiązanie": "pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76331?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,57 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jaki zestaw LEGO DC / Batman warto kupić zamiast tego modelu?",
+    "a": "Alternatywy warto szukać wśród pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC. Wybór zależy od preferowanego tematu, wielkości i sposobu wykorzystania gotowego modelu: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 76331?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76331 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76332": {
+  "seria": "Batman",
+  "nazwa": "Batmobil z filmu Batman",
+  "elementy": 330,
+  "akapity": [
+   "Jedną z nowych propozycji LEGO DC / Batman jest model 76332 Batmobil™ z filmu Batman™. Model odtwarza masywny samochód z filmu „Batman” z 2022 roku. Otwierany kokpit mieści minifigurkę bohatera, a widoczne elementy silnika, szerokie koła i surowa linia nadwozia odróżniają tę wersję od bardziej fantastycznych Batmobili. Dołączona moneta upamiętnia 20 lat LEGO Batman. W zestawie znajduje się 1 minifigurka Batmana i złota moneta rocznicowa.",
+   "W pudełku znajduje się 330 elementów. Zestaw jest przeznaczony dla osób od 9 lat i trafia do sprzedaży 1 marca 2026. Powinien zainteresować przede wszystkim fanów nowszych filmów DC oraz kolekcjonerów porównujących różne ekranowe Batmobile. Nie wymaga dokupowania innych modeli do rozpoczęcia zabawy, a naturalnym uzupełnieniem są pozostałe pojazdy z rocznicowej kolekcji LEGO DC. Zestaw wyróżnia się następującymi cechami: muskularna sylwetka i odsłonięte detale silnika."
+  ],
+  "metryka": {
+   "Numer": "76332",
+   "Nazwa": "Batmobil z filmu Batman",
+   "Seria": "LEGO DC / Batman",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "330",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "1 minifigurka Batmana i złota moneta rocznicowa",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "kompaktowy model filmowego Batmobilu",
+   "Powiązanie": "pozostałe pojazdy z rocznicowej kolekcji LEGO DC",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76332?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,38 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DC / Batman?",
+    "a": "Tematycznie najbliżej mu do pozostałe pojazdy z rocznicowej kolekcji LEGO DC. Warto zestawić ich format, cenę i najważniejsze cechy: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 76332?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76332 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są pozostałe pojazdy z rocznicowej kolekcji LEGO DC. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76333": {
+  "seria": "Batman",
+  "nazwa": "Batmobil™ z filmu Batman i Robin™",
+  "elementy": 272,
+  "akapity": [
+   "Zestaw 76333 Batmobil™ z filmu Batman i Robin™ poszerza serię LEGO DC / Batman w 2026 roku. Smukła, wydłużona konstrukcja przywołuje Batmobil z filmu „Batman i Robin”. Otwarty kokpit, dekoracyjne skrzydła i niebieskie akcenty nadają modelowi stylistykę odmienną od pozostałych pojazdów z rocznicowej serii. Minifigurkę można umieścić za kierownicą lub ustawić obok auta. W zestawie znajduje się 1 minifigurka Batmana i złota moneta rocznicowa.",
+   "Zestaw składa się z 272 elementów, jest przeznaczony dla osób od 9 lat, a jego premiera przypada na 1 marca 2026. Powinien zainteresować przede wszystkim kolekcjonerów filmowych Batmobili i fanów charakterystycznej estetyki lat dziewięćdziesiątych. Nie wymaga dokupowania innych modeli do rozpoczęcia zabawy, a naturalnym uzupełnieniem są pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC. Zestaw wyróżnia się następującymi cechami: najbardziej widowiskowa i wydłużona sylwetka w małej kolekcji."
+  ],
+  "metryka": {
+   "Numer": "76333",
+   "Nazwa": "Batmobil™ z filmu Batman i Robin™",
+   "Seria": "LEGO DC / Batman",
+   "Premiera": "1 marca 2026",
+   "Liczba elementów": "272",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "1 minifigurka Batmana i złota moneta rocznicowa",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "kompaktowy model filmowego Batmobilu",
+   "Powiązanie": "pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC",
+   "Dystrybucja": "regularna, szeroka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76333?",
+    "a": "Oficjalna polska cena katalogowa wynosi 124,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,46 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO DC / Batman w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, przeznaczenie, funkcje i zawartość. Najbliższy kontekst stanowią pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zwykle nie. Przy szerokiej dystrybucji konkurencja między sklepami powinna z czasem przynieść ceny niższe od RRP. Pełną cenę warto płacić głównie wtedy, gdy liczy się natychmiastowa dostępność: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 76333?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76333 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są pozostałe modele z rocznicowej kolekcji Batmobili LEGO DC. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76355": {
+  "seria": "Batman",
+  "nazwa": "Batmobil z filmu Powrót Batmana",
+  "elementy": 2269,
+  "akapity": [
+   "Do oferty LEGO DC / Batman w 2026 roku dołącza zestaw 76355 Batmobil z filmu Powrót Batmana. Duży model odtwarza Batmobil z filmu „Powrót Batmana” z 1992 roku. Otwierana osłona odsłania szczegółowy kokpit, a mechanizm opuszczający boczne panele ujawnia smukły Batpocisk — funkcję po raz pierwszy zastosowaną w Batmobilu LEGO. Długa, niska sylwetka została zaprojektowana przede wszystkim z myślą o ekspozycji. W zestawie znajduje się 1 minifigurka Batmana na osobnej podstawce. Model może stać samodzielnie, choć wspólna licencja lub format ułatwiają włączenie go do większej kolekcji. Projekt jest nastawiony na spokojne budowanie i późniejszą ekspozycję, a nie na rozbudowane odgrywanie scen. Ustawienie modelu pod lekkim kątem pozwala jednocześnie pokazać jego główny profil i warstwowe detale. Stonowane tło pomaga wydobyć kontur modelu, faktury oraz drobne elementy odpowiadające za rozpoznawalność pierwowzoru.",
+   "W pudełku znajduje się 2269 elementów. Zestaw jest przeznaczony dla osób od 18 lat i trafia do sprzedaży 4 września 2026 (wcześniejszy dostęp LEGO Insiders od 1 września). Powinien zainteresować przede wszystkim dorosłych fanów filmów Tima Burtona, Batmana i dużych modeli samochodów. Może stać samodzielnie, a naturalnym uzupełnieniem są inne duże Batmobile LEGO DC i filmowe pojazdy kolekcjonerskie. Zestaw wyróżnia się następującymi cechami: mechaniczna przemiana w Batpocisk oraz 45-centymetrowa długość. Wartość zestawu wynika z procesu składania, dopracowanego tematu i końcowego efektu na półce, nie z liczby funkcji zabawowych. Elementy ruchome lub otwierane służą przede wszystkim pokazaniu konstrukcji i zmianie sposobu prezentacji. Gotowa konstrukcja tworzy zamkniętą kompozycję i nie potrzebuje dodatkowych figurek ani akcesoriów, aby wyglądać kompletnie. Przed zakupem warto sprawdzić wymiary gotowej konstrukcji i zaplanować miejsce, z którego najlepiej widać jej charakterystyczną sylwetkę."
+  ],
+  "metryka": {
+   "Numer": "76355",
+   "Nazwa": "Batmobil z filmu Powrót Batmana",
+   "Seria": "LEGO DC / Batman",
+   "Premiera": "4 września 2026 (wcześniejszy dostęp LEGO Insiders od 1 września)",
+   "Liczba elementów": "2269",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "1 minifigurka Batmana na osobnej podstawce",
+   "Polska cena katalogowa RRP": "899,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "duży kolekcjonerski model samochodu",
+   "Powiązanie": "inne duże Batmobile LEGO DC i filmowe pojazdy kolekcjonerskie",
+   "Dystrybucja": "ograniczona / ekskluzywna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76355?",
+    "a": "Oficjalna polska cena katalogowa wynosi 899,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w cenie katalogowej?",
+    "a": "Około 0,40 zł za element. To wskaźnik pomocniczy, który nie uwzględnia licencji, wielkości części, postaci ani końcowego efektu modelu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DC / Batman?",
+    "a": "Tematycznie najbliżej mu do inne duże Batmobile LEGO DC i filmowe pojazdy kolekcjonerskie. Warto zestawić ich format, cenę i najważniejsze cechy: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Zakup w cenie katalogowej można rozważyć, ponieważ zestaw ma ekskluzywną dystrybucję i zwykle nie trafia od razu do wielu konkurujących sklepów. Warto uwzględnić punkty LEGO Insiders oraz ewentualny prezent przy zakupie: <a href=\"#ceny\">sprawdź bieżące ceny na tle katalogowej w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 76355?",
+    "a": "Porównaj cenę efektywną, koszt dostawy, wiarygodność sklepu i dostępność: <a href=\"#ceny\">porównaj oferty w tabeli nad opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76355 jest częścią większej kolekcji?",
+    "a": "Tak. Dobrym uzupełnieniem są inne duże Batmobile LEGO DC i filmowe pojazdy kolekcjonerskie. Zestaw nie musi jednak łączyć się z nimi konstrukcyjnie: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
    }
   ]
  }

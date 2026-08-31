@@ -24,6 +24,27 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-08-31 07:15 · CODE · Czwarta paczka kart P07: DC/Batman, Bluey, Art, Architecture (+2 zipy duplikatów)
+
+**Zrobione:**
+- `karty_setow.json`: **12 nowych kart** (DC/Batman 6, Bluey 3, Art 2,
+  Architecture 1). Rejestr: 339 → 351; 334 strony z kartą na żywo.
+  Zip Chinese Festivals to w całości duplikaty (80118–80121 wgrane jako
+  Seasonal), z Bluey odpadł duplikat 10469 (DUPLO), z DC — 40859 (BrickHeadz).
+- `scripts/import-karty.py`: **mapowanie serii na klucz katalogu** —
+  „LEGO DC / Batman" dawało zepsuty slug `/serie/dc-/-batman/`;
+  teraz aliasy (DC/Batman→Batman, Chinese Festivals→Seasonal,
+  NINJAGO→Ninjago) + walidacja, że seria istnieje w katalog.json
+  (inaczej ostrzeżenie o linku w próżnię). Pole `seria` karty i teksty
+  linków biorą nazwę kanoniczną repo.
+- 6 kart bez huba (76330/76331/76333 DC, 31218/31220 Art, 21064
+  Architecture) — czekają na pierwszą ofertę, jak Editions z paczki 2.
+
+**Stan:** gotowe, wypchnięte. Build 4959 stron zielony, linki
+/serie/batman/ i /serie/bluey/ sprawdzone w dist.
+
+**Dla drugiej strony:** nic.
+
 ## 2026-08-31 07:10 · CODE · Trzecia paczka kart P07: Seasonal-2, Jurassic World, Ideas, Icons, Botanicals
 
 **Zrobione:**
