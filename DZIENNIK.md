@@ -27,8 +27,8 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 ## 2026-08-31 07:15 · CODE · Czwarta paczka kart P07: DC/Batman, Bluey, Art, Architecture (+2 zipy duplikatów)
 
 **Zrobione:**
-- `karty_setow.json`: **12 nowych kart** (DC/Batman 6, Bluey 3, Art 2,
-  Architecture 1). Rejestr: 339 → 351; 334 strony z kartą na żywo.
+- `karty_setow.json`: **12 nowych kart** (DC/Batman 5, Bluey 3, Art 3,
+  Architecture 1; rozkład sprostowany po zliczeniu z rejestru). Rejestr: 339 → 351; 334 strony z kartą na żywo.
   Zip Chinese Festivals to w całości duplikaty (80118–80121 wgrane jako
   Seasonal), z Bluey odpadł duplikat 10469 (DUPLO), z DC — 40859 (BrickHeadz).
 - `scripts/import-karty.py`: **mapowanie serii na klucz katalogu** —
