@@ -1270,7 +1270,7 @@
       "typ": "produkt",
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
-      "notatki": "Obok znanej sekcji promoklocki.pl/blog istnieje osobna subdomena blog.promoklocki.pl. NIEPOTWIERDZONE, czy to zywy rownolegly kanal, czy pozostalosc po starszej wersji serwisu - Cloudflare blokuje odczyt. Do sprawdzenia przy okazji. Osobno potwierdzone: publiczne API ma dokumentacje OpenAPI 3.1 pod api.promoklocki.pl/docs (samo API odnotowane 22.08)."
+      "notatki": "Obok znanej sekcji promoklocki.pl/blog istnieje osobna subdomena blog.promoklocki.pl. NIEPOTWIERDZONE, czy to zywy rownolegly kanal, czy pozostalosc po starszej wersji serwisu - Cloudflare blokuje odczyt. Do sprawdzenia przy okazji. Osobno: pod api.promoklocki.pl/docs stoi strona dokumentacji API oznaczona 'promoklocki 0.0.1 OAS 3.1' (samo API odnotowane 22.08). Widziany jest wylacznie tytul strony z wynikow wyszukiwania - Cloudflare zwraca 403 takze na subdomenie api, wiec zakres endpointow, autoryzacja, limity i warunki uzycia POZOSTAJA NIEZNANE."
     }
   ],
   "obserwacje_strategiczne": {
