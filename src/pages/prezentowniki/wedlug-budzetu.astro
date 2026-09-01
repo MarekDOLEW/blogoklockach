@@ -1,0 +1,255 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Prezentownik po BUDŻECIE, nie po serii — pierwszy na innej osi niż pozostałe
+// dwanaście. Powód: tamte zakładają, że kupujący wie, jaką serię chce; w praktyce
+// częściej wie tylko, ile chce wydać. Zwłaszcza przy prezencie dla cudzego dziecka.
+//
+// Trzy przedziały zamiast ośmiu progów ze wzorca: drabina ośmiu progów SAMA jest
+// osią budżetową, więc powielenie jej tutaj dałoby tekst bez nowej wartości.
+// Wewnątrz przedziału różnicujemy po SPOSOBIE ZABAWY (role-play, przebudowa,
+// ekspozycja) i po wieku, nie po cenie.
+//
+// Podział 3 + 3 + 2 = osiem pozycji, czyli dwa równe rzędy w galerii. Górna
+// półka ma dwie pozycje świadomie — przy takich kwotach szeroki wybór rozmywa radę.
+//
+// Przedziały liczymy od CENY RYNKOWEJ, nie katalogowej: kupujący ma w kieszeni
+// tyle, ile ma. Dlatego w „do 100 zł" jest zestaw o cenie katalogowej 114,99 zł.
+//
+// Karta researchu: redakcja/karty/prezentownik-wedlug-budzetu.md
+// Kontrola przy aktualizacji: żaden z ośmiu zestawów nie może wejść na listę
+// wycofań ani wyjść trwale ze swojego przedziału cenowego.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/wedlug-budzetu/',
+  kategoria: 'Prezentownik',
+  // zero, bo to wejście do działu: kupujący częściej zna kwotę niż serię
+  kolejnosc: 0,
+  znacznik: 'Według budżetu',
+  tytul: 'Prezent z LEGO według budżetu',
+  opis: 'Osiem zestawów w trzech kopertach: do 100, do 300 i do 600 zł. Dla kupującego, który wie, ile chce wydać, ale nie wie, co wybrać.',
+  data: '2026-09-01',
+  okladka: '31386',
+};
+
+const zestawy = [
+  { nr: '71052', nazwa: 'Minifigurki: Seria 29', etykieta: 'Do 12 zł', rrp: 16.49, dobra: 12 },
+  { nr: '43280', nazwa: 'Zabawa na plaży z Lilo i Stitchem', etykieta: 'Do 55 zł', rrp: 81.99, dobra: 55 },
+  { nr: '77256', nazwa: 'Wehikuł czasu z Powrotu do przyszłości', etykieta: 'Do 70 zł', rrp: 114.99, dobra: 70 },
+  { nr: '10470', nazwa: 'Nowoczesny dom rodzinny 3 w 1', etykieta: 'Do 230 zł', rrp: 339.99, dobra: 230 },
+  { nr: '31386', nazwa: 'Dzikie zwierzęta: Dumny lew', etykieta: 'Do 190 zł', rrp: 274.99, dobra: 190 },
+  { nr: '76339', nazwa: 'Fantastyczna Czwórka: H.E.R.B.I.E.', etykieta: 'Do 205 zł', rrp: 299.99, dobra: 205 },
+  { nr: '60494', nazwa: 'Wywrotka i ładowarka czołowa', etykieta: 'Do 390 zł', rrp: 519.99, dobra: 390 },
+  { nr: '11372', nazwa: 'Jesienny ogród z chatką', etykieta: 'Do 350 zł', rrp: 479.99, dobra: 350 },
+];
+
+const faq = [
+  {
+    q: 'Ile trzeba wydać na sensowny prezent z LEGO?',
+    a: 'Granica sensu leży niżej, niż większość osób zakłada. Za około pięćdziesiąt złotych kupisz kompletny zestaw z figurkami, który młodsze dziecko złoży samo — a nie sam drobiazg. Przedział 150–250 zł to miejsce, w którym trafiają się zestawy po osiemset i więcej elementów, czyli kilka godzin budowania. Powyżej pięciuset złotych nie kupujesz już „więcej zabawy", tylko konkretny model albo dużą scenę do zabawy; przyrost przyjemności przestaje być proporcjonalny do kwoty.',
+  },
+  {
+    q: 'Czy w sklepach zewnętrznych naprawdę jest taniej niż w LEGO.com?',
+    a: 'Przy zdecydowanej większości zestawów tak, i to znacząco. W popularnych seriach mediana przeceny sięga blisko jednej trzeciej ceny katalogowej, a przy pojedynczych pozycjach bywa głębsza. Wyjątkiem są zestawy oznaczone jako ekskluzywne dla oficjalnego sklepu — tam nie ma czego porównywać, bo cena jest jedna. Przy każdej pozycji podajemy próg zakupu, czyli kwotę, poniżej której zestaw warto brać.',
+  },
+  {
+    q: 'Kupuję dla cudzego dziecka i nie wiem, co lubi. Co wybrać?',
+    a: 'Zestaw bez licencji. Klocki z serii Creator, City czy DUPLO nie wymagają, żeby dziecko znało konkretną bajkę czy film — działają niezależnie od tego, co ogląda. Zestaw licencyjny trafia mocniej, ale tylko wtedy, gdy trafisz w licencję; kupiony na ślepo bywa rozczarowaniem. Drugie kryterium to oznaczenie wiekowe na pudełku — przy zestawie zbyt trudnym dziecko potrzebuje pomocy dorosłego i zabawa zamienia się w obowiązek.',
+  },
+  {
+    q: 'Czy warto czekać z zakupem prezentu na Black Friday?',
+    a: 'Przy zwykłych zestawach tak — najgłębsze przeceny roku wypadają w okolicach 27 listopada i przy droższych pozycjach różnica bywa liczona w setkach złotych. Dwa wyjątki: kalendarze adwentowe, które wtedy są już wyprzedane, oraz zestawy z terminem wycofania w tym roku, bo po zejściu z produkcji ceny rosną, zamiast spadać. Terminy zbieramy w kalendarzu promocji, a listę znikających w dziale Wycofania.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO według budżetu: do 100, do 300 i do 600 zł"
+  opis="Osiem zestawów LEGO na prezent w trzech przedziałach cenowych — do 100, do 300 i do 600 zł. Dla kupującego, który wie, ile chce wydać, ale nie wie jeszcze, co wybrać."
+  data="2026-09-01"
+  zaktualizowano="2026-09-01"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Wszystkie nasze pozostałe prezentowniki zaczynają się od pytania „jaka seria?". To dobre pytanie, jeśli wiesz, że dziecko ma fioła na punkcie Ninjago. <b>Znacznie częściej wiadomo co innego: ile chcesz wydać</b> — i dopiero z tej kwoty trzeba wyprowadzić decyzję. Ten prezentownik jest ułożony właśnie tak.</p>
+
+  <p>Jedna rzecz, którą warto wiedzieć, zanim zaczniesz: <b>przedziały poniżej liczymy od ceny rynkowej, nie katalogowej</b>. Zestawy LEGO w polskich sklepach chodzą zwykle o mniej więcej jedną trzecią poniżej ceny z pudełka, więc w kopercie „do 100 zł" mieści się pozycja, która katalogowo kosztuje sto piętnaście. Cena katalogowa jest punktem odniesienia, a nie ceną, którą się płaci.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 100 zł: tu decyduje wiek, nie liczba elementów</h2>
+
+  <p>W tej kopercie łatwo o rozczarowanie w obie strony. Zestaw za dwadzieścia złotych bywa miłym drobiazgiem, ale sam w sobie nie jest prezentem; zestaw za dziewięćdziesiąt potrafi już mieć trzysta elementów i zająć popołudnie. <b>Kluczowe jest dopasowanie do wieku</b> — przy tej kwocie nie ma marginesu na pomyłkę, bo za trudny zestaw zostanie w pudełku.</p>
+
+  <h3>Do 12 zł: saszetka z minifigurką</h3>
+
+  <Karta
+    nr="71052"
+    nazwa="Minifigurki: Seria 29"
+    rocznik={2026}
+    elementy={7}
+    rrp={16.49}
+    wiek="5+"
+    dlaKogo="dokładka do większego prezentu albo drobna nagroda; nie samodzielny prezent"
+    dobra={12}
+    bardzoDobra={10}
+    prog="poniżej 12 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwudziesta dziewiąta seria kolekcjonerskich minifigurek — w tej odsłonie kryją się między innymi robot T-rex, biolożka morska i fan Bionicle. Za kilkanaście złotych to najtańsza rzecz, jaką w ogóle da się sensownie wręczyć.</p>
+    <p>Powiedzmy jednak wprost, co jest tu wadą: <b>saszetka to loteria</b>. Nie wybierasz figurki, tylko dostajesz losową, a przy prezencie oznacza to realne ryzyko, że trafi się akurat ta, której dziecko nie chciało. Dlatego traktujemy tę pozycję jako <b>dokładkę do właściwego prezentu</b>, a nie jako prezent. W tej roli sprawdza się znakomicie — zwłaszcza gdy do paczki trzeba dorzucić coś drobnego.</p>
+  </Karta>
+
+  <h3>Do 55 zł: pierwszy zestaw dla czterolatka</h3>
+
+  <Karta
+    nr="43280"
+    nazwa="Zabawa na plaży z Lilo i Stitchem"
+    rocznik={2026}
+    elementy={113}
+    rrp={81.99}
+    wiek="4+"
+    dlaKogo="dziecko 4–6 lat, które ma złożyć zestaw samodzielnie, bez pomocy dorosłego"
+    dobra={55}
+    bardzoDobra={50}
+    prog="poniżej 55 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Hawajska plaża, zamki z piasku i deska surfingowa, a do tego Lilo i Stitch. Sto trzynaście elementów, ale <b>z linii 4+</b> — czyli z większymi częściami i uproszczoną konstrukcją, tak by czterolatek złożył to bez dorosłego przy stole.</p>
+    <p>To jest właśnie ta różnica, której nie widać po liczbie elementów. Zestaw ze zwykłej serii z podobną liczbą części byłby dla czterolatka za trudny. Tutaj <b>samodzielne złożenie jest częścią prezentu</b>, a nie przeszkodą — i to zwykle decyduje, czy dziecko wróci do klocków następnego dnia.</p>
+  </Karta>
+
+  <h3>Do 70 zł: licencja, która działa na dwa pokolenia</h3>
+
+  <Karta
+    nr="77256"
+    nazwa="Wehikuł czasu z Powrotu do przyszłości"
+    rocznik={2026}
+    elementy={357}
+    rrp={114.99}
+    wiek="9+"
+    dlaKogo="dziecko od 9 lat albo dorosły; prezent na wspólne budowanie rodzica z dzieckiem"
+    dobra={70}
+    bardzoDobra={64}
+    prog="poniżej 70 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>DeLorean w formacie Speed Champions, wydany na czterdziestolecie trylogii. Jeden model, dwie wersje do wyboru: z pierwszej części, z piorunochronem i kalifornijską rejestracją, albo latająca z części drugiej — z reaktorem Mr. Fusion i kołami złożonymi na płasko.</p>
+    <p>Trzysta pięćdziesiąt siedem elementów przy cenie rynkowej poniżej siedemdziesięciu złotych to <b>najlepszy przelicznik w całej dolnej kopercie</b>. Ale kupuje się to z innego powodu: <b>ta licencja działa jednocześnie na dziecko i na rodzica</b>, który pamięta film z kasety. Rzadko się zdarza, żeby jeden zestaw dawał pretekst do wspólnego wieczoru, a nie tylko do zabawy w pokoju obok.</p>
+  </Karta>
+
+  <h2>Do 300 zł: przedział, w którym wybór jest największy</h2>
+
+  <p>To najgęstsza koperta w całym katalogu i jednocześnie najtrudniejsza, bo prawie wszystko wygląda tu dobrze. Cena przestaje być kryterium — <b>zaczyna nim być to, co dziecko naprawdę robi z klockami</b>. Jedno buduje raz i stawia na półce, drugie rozkłada i składa od nowa, trzecie potrzebuje figurek do odgrywania scen. Trzy pozycje poniżej to trzy różne odpowiedzi na to samo pytanie.</p>
+
+  <h3>Do 230 zł: pierwsze klocki, które rosną razem z dzieckiem</h3>
+
+  <Karta
+    nr="10470"
+    nazwa="Nowoczesny dom rodzinny 3 w 1 z figurkami"
+    rocznik={2026}
+    elementy={166}
+    rrp={339.99}
+    wiek="2+"
+    dlaKogo="dziecko 2–5 lat; jedyna pozycja w tym zestawieniu dla najmłodszych"
+    dobra={230}
+    bardzoDobra={215}
+    prog="poniżej 230 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Domek dla lalek w skali DUPLO, składany na trzy sposoby: parterowe mieszkanie albo dom trzy- lub pięciopiętrowy z ogrodem na dachu. W środku kuchnia, sypialnia i łazienka z akcesoriami, które maluch zna z własnego domu — lodówka, wanna, łóżko.</p>
+    <p>Sto sześćdziesiąt sześć elementów brzmi skromnie, ale <b>w DUPLO liczba klocków nic nie mówi o wielkości zestawu</b> — części są kilkakrotnie większe. Ważniejsze jest co innego: trzy warianty budowy sprawiają, że <b>ten sam zestaw wygląda inaczej u dwulatka i u pięciolatka</b>. Przy prezencie dla najmłodszych to rzadka cecha; większość pudełek z tej półki wyczerpuje się po miesiącu.</p>
+  </Karta>
+
+  <h3>Do 190 zł: trzy modele w jednym pudełku</h3>
+
+  <Karta
+    nr="31386"
+    nazwa="Dzikie zwierzęta: Dumny lew"
+    rocznik={2026}
+    elementy={839}
+    rrp={274.99}
+    wiek="9+"
+    dlaKogo="dziecko, które lubi rozkładać i budować od nowa; najlepszy przelicznik w zestawieniu"
+    dobra={190}
+    bardzoDobra={175}
+    prog="poniżej 190 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Lew z ruchomymi łapami i głową, do przebudowania na dwa inne dzikie zwierzęta — bo to seria 3 w 1. Prawie osiemset czterdzieści elementów pozwoliło oddać grzywę tak, że model broni się na półce, a nie tylko w pudełku.</p>
+    <p><b>To najlepszy przelicznik ceny za element w całym tym zestawieniu</b> i jednocześnie jedyna pozycja, która daje trzy budowy zamiast jednej. Dla dziecka, które lubi rozbierać i składać od nowa, to jest sedno zabawy — a dla kupującego oznacza, że prezent nie kończy się w dniu zbudowania. Jeśli nie masz mocnych przesłanek co do serii, <b>w tej kopercie to najbezpieczniejszy wybór</b>.</p>
+  </Karta>
+
+  <h3>Do 205 zł: figurka zamiast kolejnego pojazdu</h3>
+
+  <Karta
+    nr="76339"
+    nazwa="Fantastyczna Czwórka: H.E.R.B.I.E."
+    rocznik={2026}
+    elementy={747}
+    rrp={299.99}
+    wiek="10+"
+    dlaKogo="dziecko od 10 lat, które ma już kilka pojazdów i potrzebuje czegoś innego"
+    dobra={205}
+    bardzoDobra={190}
+    prog="poniżej 205 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>H.E.R.B.I.E. z uniwersum Fantastycznej Czwórki jako duża figurka do zbudowania — siedemset czterdzieści siedem elementów. Retrofuturystyczny kształt sprawia, że model przyciąga wzrok <b>nawet u kogoś, kto nie kojarzy postaci</b>, i to jest tu argument ważniejszy niż sama licencja.</p>
+    <p>Jeśli dziecko ma już półkę pojazdów superbohaterskich, kolejny statek czy samochód niewiele zmieni. Duży robot z charakterem to inna kategoria przedmiotu: stoi, patrzy i zostaje w pokoju na dłużej. Budowa nie jest przy tym trudna — <b>to zestaw na jedno długie popołudnie, nie na tydzień</b>.</p>
+  </Karta>
+
+  <h2>Do 600 zł: dwie zupełnie różne decyzje</h2>
+
+  <p>Przy tej kwocie przestaje działać reguła „więcej pieniędzy, więcej zabawy". Kupujesz albo <b>dużą scenę do zabawy</b>, albo <b>model, który po zbudowaniu stoi na półce</b> — i to są dwie różne rzeczy, nie dwa punkty na tej samej skali. Dlatego zamiast pięciu propozycji dajemy dwie, po jednej na każdą z tych ścieżek.</p>
+
+  <h3>Do 390 zł: dla dziecka, które chce się bawić</h3>
+
+  <Karta
+    nr="60494"
+    nazwa="Wywrotka i ładowarka czołowa"
+    rocznik={2026}
+    elementy={1132}
+    rrp={519.99}
+    wiek="8+"
+    dlaKogo="dziecko 8–11 lat; duża zabawa pojazdami, nie model do gabloty"
+    dobra={390}
+    bardzoDobra={365}
+    prog="poniżej 390 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Masywna wywrotka i ładowarka czołowa z ruchomą łyżką i podnoszoną skrzynią — <b>ponad tysiąc sto elementów</b>, czyli jeden z większych tegorocznych zestawów City. Dwie maszyny znaczą też, że można się bawić we dwoje.</p>
+    <p>To jest ten prezent, który po zbudowaniu <b>ląduje na dywanie, a nie na półce</b> — i tak ma być. Maszyny budowlane są w tej serii klasyką, która u ośmiolatka sprawdza się niezawodnie, bo nie wymaga znajomości żadnej bajki ani filmu. Przy prezencie dla dziecka, o którym niewiele wiesz, brak licencji jest zaletą, nie brakiem.</p>
+  </Karta>
+
+  <h3>Do 350 zł: dla dorosłego, który nie chce zabawki</h3>
+
+  <Karta
+    nr="11372"
+    nazwa="Jesienny ogród z chatką"
+    rocznik={2026}
+    elementy={1102}
+    rrp={479.99}
+    wiek="18+"
+    dlaKogo="dorosły; zestaw dekoracyjny bez figurek, do postawienia w salonie"
+    dobra={350}
+    bardzoDobra={325}
+    prog="poniżej 350 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Przydomowy ogródek w jesiennej odsłonie: tysiąc sto dwa elementy złożone w scenkę o wymiarach mniej więcej dwadzieścia na trzydzieści centymetrów. Drzewo budowane z klocków, fontanna, staw, a między nimi ptaki i żaby.</p>
+    <p>Ten zestaw <b>nie ma figurek ani funkcji do zabawy</b> i to jest jego cel, nie niedopatrzenie. Po zbudowaniu stoi na komodzie jak dekoracja, a nie leży w skrzyni z zabawkami — więc trafia do kogoś, kto chce spokojnego wieczoru z instrukcją i ładnego przedmiotu na koniec. <b>Z całej górnej półki jest przy tym najtańszy</b>, co przy prezencie dla dorosłego bywa argumentem: nie trzeba wydać sześciuset złotych, żeby dać coś, co robi wrażenie.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Przy siedmiu z ośmiu powyższych pozycji obowiązuje zwykła zasada: <b>najgłębsze przeceny roku wypadają w okolicach 27 listopada</b>, a przy zestawach z górnej półki różnica bywa liczona w setkach złotych. Jeśli możesz poczekać, poczekaj — terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>.</p>
+
+  <p>Wyjątek dotyczy zestawów, które w tym roku znikają z produkcji: po wycofaniu ceny rosną zamiast spadać, więc tam czekanie jest kosztowne. Żadna z ośmiu pozycji z tego zestawienia nie jest dziś na liście wycofań — ale to się zmienia w ciągu roku, więc przy większym zakupie warto zerknąć do działu <a href="/wycofania/">Wycofania</a>. Osobnym przypadkiem są kalendarze adwentowe, przy których czekanie na listopad nie ma sensu; tłumaczymy to w <a href="/artykuly/ranking-kalendarze-adwentowe-lego-2026/">rankingu kalendarzy na 2026 rok</a>.</p>
+
+  <p>Jeśli po lekturze wiesz już nie tylko, ile chcesz wydać, ale też jaka seria wchodzi w grę, dalej prowadzą <a href="/prezentowniki/">prezentowniki po seriach</a> — dwanaście serii z osobnymi rekomendacjami.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie — bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO. Przedziały w nagłówkach odnoszą się do cen rynkowych, dlatego zestaw o cenie katalogowej wyższej niż próg przedziału może się w nim znaleźć.</p>
+</Prezentownik>

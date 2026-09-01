@@ -9,7 +9,7 @@
       "odlozone": "wypadlo z planu; pole `powod` obowiazkowe"
     },
     "okno": "Przedzial, w ktorym tekst ma sie ukazac - nie konkretny dzien. Format 'YYYY-MM-DD..YYYY-MM-DD'. Swiadomie nie obiecujemy dat dziennych.",
-    "zaktualizowano": "2026-08-30"
+    "zaktualizowano": "2026-09-01"
   },
   "kotwice_sezonu": [
     {
@@ -50,9 +50,10 @@
     {
       "tytul": "Prezentownik LEGO według budżetu: do 100, do 300 i do 600 zł",
       "dzial": "Prezentownik",
-      "okno": "2026-09-08..2026-09-30",
-      "status": "planowane",
-      "dlaczego": "Mamy dwanaście prezentowników po seriach, ale kupujący częściej zaczyna od kwoty niż od serii. To brakująca oś wyboru."
+      "okno": "2026-09-01..2026-09-01",
+      "status": "opublikowane",
+      "dlaczego": "Mamy dwanaście prezentowników po seriach, ale kupujący częściej zaczyna od kwoty niż od serii. To brakująca oś wyboru.",
+      "url": "/prezentowniki/wedlug-budzetu/"
     },
     {
       "tytul": "75457 Executor: co trzeba wiedzieć przed przedsprzedażą",

@@ -11,3 +11,4 @@ Dokumenty wewnętrzne — nie są publikowane.
 | `city-czerwiec-2026-fala.md` | fala premierowa City | `/artykuly/lego-city-czerwiec-2026-fala/` |
 | `prezentownik-200zl-10-latek.md` | prezentownik wg budżetu | — (materiał roboczy) |
 | `kalendarze-adwentowe-2026.md` | ranking pięciu kalendarzy rocznika 2026 | `/artykuly/ranking-kalendarze-adwentowe-lego-2026/` |
+| `prezentownik-wedlug-budzetu.md` | prezentownik po budżecie, osiem zestawów w trzech kopertach | `/prezentowniki/wedlug-budzetu/` |
