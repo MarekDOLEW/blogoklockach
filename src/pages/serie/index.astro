@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import FiltrSetow from '../../components/FiltrSetow.astro';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
@@ -57,9 +58,16 @@ const kafle = serie.map((seria) => {
 <Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
   <h1 style="margin-top:28px">Serie LEGO</h1>
   <p>Każda seria to osobny katalog z aktualnymi cenami i statusem wycofania. Na kaflach – najświeższe zestawy z danej serii.</p>
+
+  <FiltrSetow
+    etykieta="Szukaj serii"
+    placeholder="np. Technic, Icons albo Star Wars…"
+    rzeczownik="serii"
+  />
+
   <div class="siatka siatka--serie">
     {kafle.map((k) => (
-      <a class="karta seria-karta" href={k.url}>
+      <a class="karta seria-karta" href={k.url} data-wiersz data-nazwa={k.seria}>
         {k.foty.length > 0 ? (
           <span class="seria-foty" aria-hidden="true">
             {k.foty.map((f) => <img src={f} alt="" loading="lazy" width="200" height="200" />)}
