@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-01",
+  "data_aktualizacji": "2026-09-02",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 290,
+  "liczba_setow": 295,
   "sety": [
     "10300",
     "10316",
@@ -12,6 +12,7 @@
     "10350",
     "10354",
     "10356",
+    "10360",
     "10365",
     "10366",
     "10462",
@@ -99,6 +100,8 @@
     "40868",
     "40872",
     "40873",
+    "40874",
+    "40875",
     "40880",
     "40883",
     "40887",
@@ -117,6 +120,8 @@
     "42146",
     "42172",
     "42177",
+    "42206",
+    "42207",
     "42215",
     "42224",
     "42228",
@@ -380,9 +385,9 @@
     },
     {
       "numer": "11379",
-      "nazwa": "nieujawniony zestaw Icons",
+      "nazwa": "Ksiegarnia — podporka do ksiazek (nazwa niepotwierdzona)",
       "premiera": "2026-10",
-      "status": "Icons, 1690 elementow, 18+, premiera 2026-10-01 (data doprecyzowana 2026-08-26 z API). Brickset ma dane twarde i RRP 129,99 USD / 129,99 EUR, ale nazwa wciaz {?}. Czesc pazdziernikowej fali."
+      "status": "2026-09-02: StoneWars opublikowal pierwsze zdjecia i opisuje zestaw jako ksiegarnie w formie podporki do ksiazek (Buchhandlung Buecherstuetze). Brickset nadal ma nazwe jako {?}, karta nietknieta od 12.03. Dane twarde pewne: Icons, 1690 elementow, 18+, premiera 2026-10-01, 129,99 USD i EUR. NAZWA I ZAWARTOSC Z JEDNEGO ZRODLA — nie publikowac jako pewnik. PromoBricks milczy."
     },
     {
       "numer": "11390",
@@ -421,12 +426,6 @@
       "status": "NOWE 2026-08-26: numery 11222 i 11223 zarezerwowane w Brickset na rocznik 2027, bez nazw i danych."
     },
     {
-      "numer": "40875",
-      "nazwa": "Powiekszona minifigurka Pani Mikolajowej",
-      "premiera": "2026-10",
-      "status": "UJAWNIONY 2026-09-01: Up-Scaled Mrs. Claus Minifigure, 904 elementy, Seasonal/Christmas, 10+, premiera 2026-10-01, jeszcze niewydany, bez ceny. Domyka trzeci z czterech numerow fali pazdziernikowej. Format powiekszonej minifigurki LEGO stosuje juz przy 75461 (Darth Vader) i 40868 (Red) — to staje sie osobna linia sezonowa."
-    },
-    {
       "numer": "40897",
       "nazwa": "Świetlny miecz Dartha Vadera (GWP)",
       "premiera": "2026-10",
@@ -453,32 +452,35 @@
     {
       "numer": "40865",
       "nazwa": "Buddy the Elf",
-      "premiera": "2026",
-      "status": "NOWE 2026-09-01: 713 elementow, Seasonal, ujawniona nazwa, brak ceny i daty premiery. Licencja filmu „Elf”."
+      "premiera": "2026-10",
+      "status": "2026-09-02: cena ujawniona — 39,99 EUR, 713 elementow, premiera 2026-10-01. Licencja filmu „Elf”."
     },
     {
-      "numer": "40874",
-      "nazwa": "Santa's Holiday Countdown",
-      "premiera": "2026",
-      "status": "NOWE 2026-09-01: 873 elementy, Seasonal, ujawniona nazwa, brak ceny i daty premiery."
+      "numer": "40866",
+      "nazwa": "Swiateczna przejazdzka sanmi Mikolaja",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-09-02: 187 elementow, 29,99 EUR, premiera 2026-10-01. Czesc fali swiatecznej."
+    },
+    {
+      "numer": "40862",
+      "nazwa": "Zestaw ozdob choinkowych 2",
+      "premiera": "2026-10",
+      "status": "NOWE 2026-09-02: 179 elementow, 12,99 EUR, premiera 2026-10-01. Najtansza pozycja fali swiatecznej."
     }
   ],
   "luki_w_bazie": {
     "opis": "PRZEGLAD ROCZNIKOW 2020-2026 — 2026-08-26. Zrodlo: Brickset API v3, getSets per rocznik, komplet rekordow dla kazdego roku (sumy zgodne z polem matches). Za realny zestaw uznajemy category='Normal' albo 'Collection' — to filtr z samego API, dokladniejszy od wczesniejszego zgadywania po prefiksie numeru: 252 z 255 naszych opisanych setow 2026 ma wlasnie category='Normal', a 3 to 'Collection' (serie minifigurek). Odpadaja Gear, Book, Extended (BrickLink Designer Program i promocje) oraz Other (zestawy z czasopism i gratisy o 6-cyfrowych numerach).",
     "stan_ogolny": {
       "realnych_setow_2020_2026": 3538,
-      "opisanych": 290,
-      "bez_opisu": 3248,
-      "pokrycie_procent": 8.2,
+      "opisanych": 295,
+      "bez_opisu": 3243,
+      "pokrycie_procent": 8.3,
       "luk_z_cena_w_zl": 981,
-      "luk_z_cena_i_dostepnych": 804
+      "luk_z_cena_i_dostepnych": 801
     },
     "wniosek": "Serwis ma warstwe redakcyjna dla 7,3% zestawow z ostatnich siedmiu rocznikow. Rocznik 2026 jest pokryty w 45,7%, kazdy wczesniejszy praktycznie w zerze. Najwazniejsza liczba: 831 zestawow jest JEDNOCZESNIE w sprzedazy, ma cene katalogowa w zl i nie ma ani zdania opisu — to gotowa kolejka pracy, ktora moze konwertowac afiliacyjnie od razu. W czolowce sa pozycje flagowe: Barad-dur, Venator, Hulkbuster, Barka Jabby, Zamek Disneya, Ferrari Daytona SP3, Lamborghini Sian.",
     "zasada_priorytetu": "Tylko sety ze statusem 'dostepny' i cena w zl, sortowane po cenie katalogowej malejaco. Sety EOL (150 z 981 z cena) maja niski priorytet: nie konwertuja poza rynkiem wtornym. Nazwy PL i ceny z katalog.json, wiek/premiera/liczba minifigurek/podseria z Brickset API.",
     "priorytet_redakcyjny": [
-      "10360",
-      "42206",
-      "42207",
       "42171",
       "42182",
       "21354",
@@ -3310,9 +3312,9 @@
       },
       "2025": {
         "realnych_setow": 549,
-        "opisanych": 11,
-        "bez_opisu": 538,
-        "z_cena_i_dostepne": 301,
+        "opisanych": 14,
+        "bez_opisu": 535,
+        "z_cena_i_dostepne": 298,
         "numery_do_opisania_priorytetowo": [
           "10342",
           "10343",
@@ -3324,7 +3326,6 @@
           "10357",
           "10358",
           "10359",
-          "10360",
           "10362",
           "10363",
           "10367",
@@ -3430,8 +3431,6 @@
           "42203",
           "42204",
           "42205",
-          "42206",
-          "42207",
           "42208",
           "42209",
           "42210",
@@ -3631,7 +3630,6 @@
           "10357",
           "10358",
           "10359",
-          "10360",
           "10361",
           "10362",
           "10363",
@@ -3845,8 +3843,6 @@
           "42203",
           "42204",
           "42205",
-          "42206",
-          "42207",
           "42208",
           "42209",
           "42210",
@@ -4159,8 +4155,8 @@
       },
       "2026": {
         "realnych_setow": 558,
-        "opisanych": 257,
-        "bez_opisu": 301,
+        "opisanych": 259,
+        "bez_opisu": 299,
         "z_cena_i_dostepne": 176,
         "numery_do_opisania_priorytetowo": [
           "10465",
@@ -4435,8 +4431,6 @@
           "40866",
           "40867",
           "40871",
-          "40874",
-          "40875",
           "40878",
           "40879",
           "40881",
@@ -4653,41 +4647,153 @@
     ],
     "kontekst_seo": "",
     "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch.",
-    "postep": "zamkniete 53 luki (23.08-01.09)",
+    "postep": "zamkniete 58 luk (23.08-02.09)",
     "przeliczone_po_backfillu": "2026-08-29: rejestr przeliczony po zakonczeniu backfillu cen katalogowych (commit 73ec602). Luk z cena w zl: 981 -> 1209, ale pilnych (z cena I dostepnych) 831 -> 826 — backfill uzupelnial glownie sety EOL, ktore nie konwertuja. Kolejka pracy nie urosla, urosla za to pula do ewentualnych tekstow historycznych."
   },
   "fala_pazdziernikowa_2026": {
-    "ustalenie": "2026-08-26",
-    "opis": "Cztery nieujawnione zestawy rocznika 2026 powyzej 800 elementow maja identyczna date premiery 2026-10-01. To nie sa pojedyncze przecieki, tylko skoordynowana fala ujawnien — pazdziernikowy drop LEGO, wprost przed sezonem swiatecznym. Wychwycone z Brickset API; zaden z trzech serwisow zrodlowych (PromoBricks, StoneWars) o calej fali nie pisal.",
+    "ustalenie": "2026-08-26, przebudowane 2026-09-02",
+    "metoda": "Wyszukiwanie po launchDate=2026-10-01 w API zamiast sledzenia pustych rekordow. Poprzednia metoda dawala 4 zestawy, ta daje 17 — puste numery to byla tylko ta czesc fali, ktorej Brickset nie zdazyl opisac.",
+    "zestawow": 17,
+    "opisanych": 11,
     "sety": [
       {
         "numer": "75457",
+        "nazwa": "Executor Super Star Destroyer",
+        "seria": "Star Wars",
         "elementy": 6130,
-        "seria": "Star Wars UCS",
-        "wiek": "18+"
+        "eur": 749.99,
+        "opisany": true
       },
       {
         "numer": "72306",
+        "nazwa": "{?}",
+        "seria": "tbd",
         "elementy": 1911,
-        "seria": "tbd (wg StoneWars replika PlayStation 1)",
-        "wiek": "18+"
+        "eur": null,
+        "opisany": false
       },
       {
         "numer": "11379",
-        "elementy": 1690,
+        "nazwa": "{?}",
         "seria": "Icons",
-        "wiek": "18+"
+        "elementy": 1690,
+        "eur": null,
+        "opisany": false
+      },
+      {
+        "numer": "21371",
+        "nazwa": "Wallace & Gromit",
+        "seria": "Ideas",
+        "elementy": 1038,
+        "eur": 99.99,
+        "opisany": true
+      },
+      {
+        "numer": "76352",
+        "nazwa": "Avengers: Doomsday New Avengers Tower",
+        "seria": "Marvel Super Heroes",
+        "elementy": 954,
+        "eur": 109.99,
+        "opisany": true
+      },
+      {
+        "numer": "40868",
+        "nazwa": "Up-Scaled Red Minifigure",
+        "seria": "Pokémon",
+        "elementy": 930,
+        "eur": 79.99,
+        "opisany": true
       },
       {
         "numer": "40875",
-        "elementy": 904,
+        "nazwa": "Up-Scaled Mrs. Claus Minifigure",
         "seria": "Seasonal",
-        "wiek": "10+"
+        "elementy": 904,
+        "eur": 59.99,
+        "opisany": true
+      },
+      {
+        "numer": "76788",
+        "nazwa": "Nevermore Academy",
+        "seria": "Wednesday",
+        "elementy": 890,
+        "eur": 69.99,
+        "opisany": true
+      },
+      {
+        "numer": "40874",
+        "nazwa": "Santa's Holiday Countdown",
+        "seria": "Seasonal",
+        "elementy": 873,
+        "eur": 59.99,
+        "opisany": true
+      },
+      {
+        "numer": "76348",
+        "nazwa": "Epic Battle: Avengers: Doomsday",
+        "seria": "Marvel Super Heroes",
+        "elementy": 846,
+        "eur": 99.99,
+        "opisany": true
+      },
+      {
+        "numer": "40865",
+        "nazwa": "Buddy the Elf",
+        "seria": "Seasonal",
+        "elementy": 713,
+        "eur": 39.99,
+        "opisany": false
+      },
+      {
+        "numer": "40880",
+        "nazwa": "Avengers: Doomsday Heroes & Villain",
+        "seria": "BrickHeadz",
+        "elementy": 467,
+        "eur": 39.99,
+        "opisany": true
+      },
+      {
+        "numer": "76347",
+        "nazwa": "Avengers: Doomsday Quinjet",
+        "seria": "Marvel Super Heroes",
+        "elementy": 433,
+        "eur": 59.99,
+        "opisany": true
+      },
+      {
+        "numer": "40958",
+        "nazwa": "Christmas Stocking",
+        "seria": "Seasonal",
+        "elementy": 342,
+        "eur": 34.99,
+        "opisany": true
+      },
+      {
+        "numer": "40866",
+        "nazwa": "Santa's Holiday Sleigh Adventure",
+        "seria": "Seasonal",
+        "elementy": 187,
+        "eur": 29.99,
+        "opisany": false
+      },
+      {
+        "numer": "40862",
+        "nazwa": "Holiday Ornament Selection 2",
+        "seria": "Seasonal",
+        "elementy": 179,
+        "eur": 12.99,
+        "opisany": false
+      },
+      {
+        "numer": "40897",
+        "nazwa": "Darth Vader's Lightsaber",
+        "seria": "Star Wars",
+        "elementy": 174,
+        "eur": null,
+        "opisany": false
       }
     ],
-    "rekomendacja": "Trzy z czterech to zestawy 18+ o duzej liczbie elementow, czyli wysoka cena katalogowa i wysoka prowizja z jednej konwersji. Karty researchu warto miec gotowe przed 1 pazdziernika, a nie pisac po fakcie. Scout powinien sledzic te cztery numery codziennie przez updatedSince — ujawnienie nazwy i ceny w Brickset bedzie pierwszym twardym sygnalem.",
-    "status_2026_08_27": "75457 UJAWNIONY: Executor — supergwiezdny niszczyciel, 6130 el., 136 cm, 749,99 EUR (DE), premiera 2026-10-01, released=True. Przeniesiony z zapowiedzi do sety.json. Dołączył do fali gratis promocyjny 40897 (świetlny miecz Vadera, 174 el.). 72306, 11379 i 40875 nadal bez nazw.",
-    "status_2026_09_01": "Dwa z czterech numerow ujawnione: 75457 Executor (27.08) i 40875 Powiekszona minifigurka Pani Mikolajowej (01.09). Zostaja 72306 (1911 el., karta nietknieta od 30.07) i 11379 (1690 el., karta od 12.03). Do premiery calej fali miesiac. Poza fala ujawniono tez 21371 Wallace & Gromit z ta sama data premiery 2026-10-01 — czyli 1 pazdziernika jest szersze, niz zakladalem, i obejmuje rowniez zestawy, ktore nie byly puste w Bricksecie."
+    "rekomendacja": "Kompletny kalendarz premier na 1 pazdziernika — gotowy material na tekst typu 'co LEGO wypuszcza 1 pazdziernika'. Trzy watki: flagowiec Star Wars (75457 Executor, 6130 el.), fala swiateczna Seasonal (5 zestawow, wszystkie z cenami EUR od 02.09) i domkniecie linii Avengers: Doomsday (4 zestawy). Material powinien byc gotowy przed 1 pazdziernika."
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
