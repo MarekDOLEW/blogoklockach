@@ -6,7 +6,7 @@ import wycofaniaDane from '../data/wycofania.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import cenyBaza from '../data/ceny_baza.json';
 import { urlZdjecia } from '../lib/media.js';
-import { zajawkaArtykulu } from '../lib/artykuly.js';
+import { zajawkaArtykulu, zajawkaZMeta } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
@@ -127,6 +127,8 @@ const topWycofania = wycofaniaDane.wycofania
 const liczbaWycofan = wycofaniaDane.wycofania.length;
 
 // ── Zajawki artykułów: 6 najnowszych (dwa rzędy po trzy w siatce .zajawki) ──
+// Prezentowniki mają na tej stronie własny rząd wyżej, więc tutaj ich nie ma –
+// inaczej ten sam przewodnik potrafiłby wyjść dwa razy na jednym ekranie.
 const artykuly = Object.entries({
   ...import.meta.glob('./artykuly/*.md', { eager: true }),
   ...import.meta.glob('./prezentowniki/*.md', { eager: true }),
@@ -135,10 +137,34 @@ const artykuly = Object.entries({
   .map(([, m]) => m)
   // ./*.md łapie każdy nowy plik .md w src/pages – kategoria jest testem,
   // czy to artykuł (patrz NARZEDZIA.md)
-  .filter((m) => m.frontmatter?.kategoria)
+  .filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik')
   .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
   .slice(0, 6)
   .map((m) => zajawkaArtykulu(m));
+
+// ── Jeden rząd prezentowników: trzy wejścia do działu, po jednym z każdej
+// strony, z której ludzie szukają prezentu – wiek, seria, budżet. Wybór jest
+// redakcyjny, więc adresy stoją tu wprost; treść karty (tytuł, opis, zdjęcie,
+// znacznik) czytamy z tych samych źródeł co listing /prezentowniki/, żeby
+// zmiana w samym prezentowniku przechodziła tu sama i karty się nie rozjechały.
+const WYBRANE_PREZENTOWNIKI = [
+  '/prezentowniki/lego-za-200-zl-dla-10-latka/',
+  '/prezentowniki/lego-technic/',
+  '/prezentowniki/wedlug-budzetu/',
+];
+const kartyPrezentownikow = new Map(
+  [
+    ...Object.values(import.meta.glob('./prezentowniki/*.md', { eager: true }))
+      .filter((m) => m.frontmatter?.kategoria === 'Prezentownik')
+      .map((m) => zajawkaArtykulu(m, { karty: true })),
+    // prezentowniki serii to strony .astro – zamiast frontmattera mają `meta`
+    ...Object.values(import.meta.glob('./prezentowniki/*.astro', { eager: true }))
+      .map((m) => m.meta)
+      .filter(Boolean)
+      .map((m) => zajawkaZMeta(m, { karty: true })),
+  ].map((z) => [z.url, z]),
+);
+const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u)).filter(Boolean);
 
 ---
 <Base
@@ -261,6 +287,19 @@ const artykuly = Object.entries({
       <button type="button" class="pg-przycisk" data-pg="dalej">Następne ›</button>
     </nav>
   </section>
+
+  {prezentowniki.length > 0 && (
+    <section class="sekcja" aria-label="Prezentowniki">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Prezentowniki dla dzieci i dorosłych</h2>
+      </div>
+      <p>Przewodniki prezentowe według wieku, serii i budżetu – z realnymi cenami i progiem, poniżej którego warto brać. <a href="/prezentowniki/">Wszystkie prezentowniki →</a></p>
+      <div class="zajawki">
+        {prezentowniki.map((z) => <ZajawkaArtykulu zajawka={z} />)}
+      </div>
+    </section>
+  )}
 
   <section class="sekcja" aria-label="Najciekawsze wycofania">
     <div class="sekcja-head">
