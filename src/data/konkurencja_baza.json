@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-01",
-    "przebieg": "scheduled 2026-09-01 08:00",
+    "ostatnia_aktualizacja": "2026-09-02",
+    "przebieg": "scheduled 2026-09-02 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 111,
+    "liczba_wpisow": 115,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -1317,11 +1317,61 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Kolejny tekst o COBI. Marki spoza LEGO to u nich staly element kadencji, nie incydent."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Speed Champions",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-speed-champions/",
+      "data_publikacji": "2026-09-01",
+      "data_wykrycia": "2026-09-02",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "afiliacja wlasna"
+      ],
+      "notatki": "Przeciek na styczen 2027: JEDENASCIE bolidow F1 (71267-77), najpewniej z sezonu 2027 po zmianach w skladzie zespolow, po 119,99 zl za sztuke; plus 77280 Lamborghini Fenomeno (280 el., ok. 119,99 zl) - korekta wczesniejszej plotki o Revuelto. WYKORZYSTANE: dopisalem akapit do naszego prezentownika Speed Champions, ktory dotad mowil ogolnie 'za rok bedzie modelem historycznym' - teraz ma konkret. Przebijamy tym, ze oni podaja liste przecieku, a my mowimy kupujacemu, co z niej wynika dla decyzji dzis."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)omowienie: LEGO 71053 Minifigurki - Seria Shrek",
+      "url": "https://fanklockow.pl/videoomowienie-lego-71053-minifigurki-seria-shrek/",
+      "data_publikacji": "2026-09-01",
+      "data_wykrycia": "2026-09-02",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Wideo o wrzesniowej serii CMF. KOREKTA wczorajszej oceny: 71053 Shrek MAMY w danych (sety.json i katalog.json, 16,49 zl, premiera 09.2026), wiec luka nie jest w danych, tylko w tresci - nie mamy zadnej strony o biezacej serii minifigurek. Do tego oni maja skaner QR i format wideo, ktorych nie mamy wcale."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowosci LEGO Pick a Brick na wrzesien 2026",
+      "url": "https://fanklockow.pl/nowosci-lego-pick-a-brick-na-wrzesien-2026/",
+      "data_publikacji": "2026-09-01",
+      "data_wykrycia": "2026-09-02",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego.com"
+      ],
+      "notatki": "Drugi tekst o Pick a Brick w ciagu dwoch dni - po newsie o listach ulubionych robia z tego CYKL miesieczny. Pas poza nasza osia (pojedyncze klocki pod MOC, nie zestawy), ale odnotowujemy jako budowanie stalego formatu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 10326 Muzeum Historii Naturalnej",
+      "url": "https://faniklockow.pl/2026/08/31/okazja-cenowa-icons-10326-muzeum-historii-naturalnej-3/",
+      "data_publikacji": "2026-08-31",
+      "data_wykrycia": "2026-09-02",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "nieustalone"
+      ],
+      "notatki": "Pojedyncza okazja po wznowieniu publikacji. Mamy 10326 w katalogu z cena katalogowa, wiec liczymy rabat, czego oni nie robia."
     }
   ],
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny. | KOREKTA 2026-08-22: teza 'brak biezacych publikacji, tylko katalog' wymaga uszczegolowienia - strony 'Odkrywaj' deklaruja aktualnosc na biezacy miesiac i licza dni od ostatniej zmiany rankingu (36-155 dni), wiec sa odswiezane programatycznie. Konkurencja rankingowa jest zywa, choc redakcyjna nadal martwa.",
-    "fanklockow.pl": "KOREKTA 2026-08-21 (dane z RSS): serwis publikuje ok. 10 WPISOW DZIENNIE, nie ~1 - strona glowna pokazuje tylko wycinek, co przez tydzien zanizalo nasza ocene ich tempa (mylnie: '4 publikacje / 4 dni'). 20.08: 10 wpisow. Formaty: codzienne zestawienia ofert z afiliacja do 5 sklepow (Amazon, Allegro, Media Expert, Smyk, Empik), miniPoradniki LEGO.pl, hub wycofan EOL, gazetki BlueOcean, huby zapowiedzi per rok i seria, kalendarz promocji. ROZSZERZENIE POZA LEGO: COBI, Pantasy, Mattel Brick Shop. Monetyzacja: afiliacja + Patronite + Discord + wlasny sklep + reklamy AMP (auto-ads). Taktyka URL: jeden adres aktualizowany codziennie zamiast republikacji. Dostep tylko przez RSS/curl z UA przegladarki. | 2026-08-29: jedna publikacja zamiast typowych ~10, i to tekst opiniotworczy o grach. Weekend wyraznie sciaga im tempo. | 2026-08-30: dwie publikacje, obie poza pasem zakupowym LEGO (recenzja wideo Pantasy, skrot popkulturowy). Weekendowe tempo utrzymuje sie na poziomie 1-2 wpisow zamiast ~10.",
+    "fanklockow.pl": "KOREKTA 2026-08-21 (dane z RSS): serwis publikuje ok. 10 WPISOW DZIENNIE, nie ~1 - strona glowna pokazuje tylko wycinek, co przez tydzien zanizalo nasza ocene ich tempa (mylnie: '4 publikacje / 4 dni'). 20.08: 10 wpisow. Formaty: codzienne zestawienia ofert z afiliacja do 5 sklepow (Amazon, Allegro, Media Expert, Smyk, Empik), miniPoradniki LEGO.pl, hub wycofan EOL, gazetki BlueOcean, huby zapowiedzi per rok i seria, kalendarz promocji. ROZSZERZENIE POZA LEGO: COBI, Pantasy, Mattel Brick Shop. Monetyzacja: afiliacja + Patronite + Discord + wlasny sklep + reklamy AMP (auto-ads). Taktyka URL: jeden adres aktualizowany codziennie zamiast republikacji. Dostep tylko przez RSS/curl z UA przegladarki. | 2026-08-29: jedna publikacja zamiast typowych ~10, i to tekst opiniotworczy o grach. Weekend wyraznie sciaga im tempo. | 2026-08-30: dwie publikacje, obie poza pasem zakupowym LEGO (recenzja wideo Pantasy, skrot popkulturowy). Weekendowe tempo utrzymuje sie na poziomie 1-2 wpisow zamiast ~10. | 2026-09-02: wracaja do pelnego tempa (4 wpisy 1.09). Buduja dwa nowe stale formaty: miesieczne 'Nowosci Pick a Brick' oraz omowienia wideo (CMF Shrek, wczesniej Pantasy). Wideo to jedyna warstwa, w ktorej nie mamy NIC.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO). KOREKTA 2026-08-21 (RSS): serwis publikuje duzo wiecej, niz pokazuje strona glowna - mikro-wpisy 'Okazja Cenowa' per zestaw, po kilka dziennie, kazdy z jednym sklepem i rabatem od ceny katalogowej (siec Performers). Ma tez PELNA APLIKACJE app.faniklockow.pl: katalog wlasnej kolekcji, marketplace, inwestycje, statystyki, sledzenie wycofan, konta uzytkownikow. Co najmniej dwoch autorow (Piotr Ksiezycki, 'Brick Head'). | 2026-08-24: cisza od 22.08 (dwa dni bez publikacji) po serii 'Okazji Cenowych' niemal codziennie. Jeden autor - urlop albo przerwa. Okno na przejecie fraz okazyjnych. | 2026-08-29: ZERO publikacji przez caly dzien, dzien po poradniku o Powrocie do Hogwartu. Powtorka wzorca z 22-23.08 (cisza po serii wpisow). Jeden autor - kadencja jest zrywami, nie rowna. | 2026-08-31: DRUGI dzien z rzedu bez publikacji (29 i 30.08). Ostatni tekst to poradnik o Powrocie do Hogwartu z 28.08. Trzecia taka cisza w miesiacu (22-23.08, 29.08, 30.08) - kadencja jednego autora zalamuje sie w weekendy i po wiekszym tekscie. | 2026-09-01: koniec dwudniowej ciszy - wracaja seria 'Zapowiedzi serii X na 2026' (Icons, Ideas, CMF/BaM, okazjonalne). Wzorzec potwierdzony: cisza nie oznacza spadku formy, tylko prace nad wieksza partia tekstow publikowana potem seriami.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje. | 2026-08-22: wykryte publiczne API cenowe (api.promoklocki.pl, OpenAPI 3.1, sync co 5 min), sekcja /okazje-lego rozdzielona od /promocje-lego oraz miesieczne podstrony /nowosci-lego/<miesiac>-<rok>. Kierunek: z porownywarki w dostawce danych cenowych dla innych. | 2026-08-25: lista EOL rozbita na podstrony per seria (/lego-eol/<seria>) — ten sam wzorzec pSEO co miesieczne podstrony nowosci. | 2026-08-28: brak zmian strukturalnych od 25.08 (ostatnia: podstrony wycofan per seria). | 2026-08-31: dwa watki domkniete na danych, nie na domysle. blog.promoklocki.pl to martwa subdomena (ostatni wpis 2015) - kadencja publikacyjna to nadal tylko /blog. Publiczne API ma JEDEN endpoint zwracajacy minimalna cene setu jako goly string, wiec nie jest ruchem platformowym; moja wczesniejsza teza o 'staniu sie infrastruktura' byla przesadzona i zostala wycofana. Ocena 'konkurencja narzedziowa, nie contentowa' zostaje, ale jej podstawa to aplikacja mobilna z alertami i podstrony wycofan per seria, a nie API.",
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
