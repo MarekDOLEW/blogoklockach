@@ -1378,3 +1378,45 @@ Obie reguły — nazewnictwo i próg dowodowy wycofań — zapisane w `RUNBOOK.m
 **Plan redakcyjny nie jest już publiczny** (patrz wpis wyżej). Mieszka
 w `redakcja/plan-redakcyjny.json`, a Marek dostaje go osobnym prywatnym
 linkiem, nie jako podstronę serwisu.
+
+---
+
+## 02.09.2026 — 75457 Executor (punkt 2 z radaru 02.09)
+
+Opublikowane: `/artykuly/lego-75457-executor-przed-premiera/`, dział Premiery.
+Karta researchu: `redakcja/karty/75457-executor.md`.
+
+**Oś tekstu jest odwrotna niż zwykle.** Executor to ekskluzyw LEGO.com i sklepów
+stacjonarnych LEGO — nie ma drugiej ceny, rabatu ani progu zakupu. Nasza
+standardowa rada („sprawdź, gdzie taniej", „poczekaj do listopada") nie ma tu
+zastosowania i tekst mówi to wprost, zamiast udawać porównanie. Jedyna zmienna
+pod kontrolą kupującego to zdążyć przed wyczerpaniem gratisu 40897 — stąd
+praktyczna konsekwencja: **konto Insiders trzeba mieć założone przed 1.10**,
+nie w dniu premiery.
+
+**Wartość, której nikt inny nie poda:** 21065 Sagrada Família ma dokładnie tę
+samą cenę katalogową 3199,99 zł przy 12 060 elementach (0,27 zł/el.) wobec
+6130 u Executora (0,52 zł/el.). Widać to tylko z jednego katalogu z obiema
+pozycjami.
+
+**Dane poprawione przy okazji:**
+- `sety.json` 75457: `cena_katalogowa` było `null`, a `dla_afol` szacowało
+  ~3170 zł z przelicznika euro — wpisana potwierdzona kwota 3199,99 zł.
+- `kalendarz-promocji-lego.md`: sekcja październikowa twierdziła, że polskiej
+  ceny nie ogłoszono. Poprawione, dołożone okno gratisu i kanał sprzedaży.
+
+**Nierozstrzygnięte i tak zapisane w tekście:** okno GWP — źródła
+anglojęzyczne podają 1–10.10, polskie 1–7.10. Nie rozstrzygamy (LEGO różnicuje
+okna między rynkami); w tekście krótsza wersja plus zdanie, że decyduje
+wyczerpanie zapasów, nie kalendarz.
+
+**Zdjęć 75457 nie mamy** — zestaw jeszcze nie istnieje w feedach. Zamiast
+pustego znacznika galerii poszły dwie pozycje faktycznie w tekście
+porównywane: 10221 (poprzednik) i 21065 (alternatywa), z podpisem
+wyjaśniającym, czyje to zdjęcie.
+
+Tekst wyszedł 18 dni przed planowanym oknem 20–30.09, bo cena potwierdziła się
+wcześniej, a czekanie nie dawało nic poza ryzykiem.
+
+**Zostaje z planu:** Wycofania grudnia 2026 (okno 1–20.10) i Black Friday —
+rabat kontra pseudopromocja (okno 10–24.11).
