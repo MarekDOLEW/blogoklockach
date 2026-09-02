@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-08-29"
+zaktualizowano: "2026-09-02"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -93,7 +93,7 @@ Batman Day to trzecia sobota września. W poprzednich latach LEGO otwierało wok
 
 Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku października" – teraz jest już konkret i jest większy, niż się spodziewaliśmy.
 
-**LEGO 75457 Executor – supergwiezdny niszczyciel**: 6130 elementów, siedem minifigurek, model o długości **136 cm**. To najdłuższy zestaw, jaki LEGO kiedykolwiek wydało – dłuższy od Titanica (135 cm). Cena katalogowa poza Polską to 749,99 EUR; polskiej kwoty jeszcze nie ogłoszono, więc jej nie podajemy i nie liczymy z niej żadnego rabatu.
+**LEGO 75457 Executor – supergwiezdny niszczyciel**: 6130 elementów, siedem minifigurek, model o długości **136 cm** i cena katalogowa **3199,99 zł**. LEGO nazywa go najdłuższym klockowym modelem Star Wars w historii; przy 136 cm mija też Titanica (135 cm) – to już nasze porównanie, nie deklaracja producenta. Zestaw jest **ekskluzywny dla LEGO.com i sklepów stacjonarnych LEGO**, więc nie będzie ofert zewnętrznych ani rabatu – cena jest jedna i taka zostanie. Co z tego wynika przy zakupie, rozpisaliśmy w [osobnym tekście](/artykuly/lego-75457-executor-przed-premiera/).
 
 **Dwie daty, nie jedna – i to jest najważniejszy szczegół zakupowy tego okna:**
 
@@ -104,7 +104,7 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 
 | Gratis (GWP) | Warunek | Uwaga |
 |---|---|---|
-| 40897 Świetlny miecz Dartha Vadera | zakup [75457](/zestaw/75457/) | dodawany automatycznie, do wyczerpania zapasów |
+| 40897 Świetlny miecz Dartha Vadera (174 el.) | zakup [75457](/zestaw/75457/) | 1–7.10, do wyczerpania zapasów |
 
 **Co z tego wynika praktycznie.** Gratis idzie do wyczerpania zapasów, a nie do końca okna – przy zestawie tej rangi trzy dni przewagi Insiders mają realne znaczenie. Jeśli celujesz w Executora z mieczem, **konto Insiders trzeba mieć założone przed 1 października**, nie w dniu premiery. Dochodzi do tego zmiana, którą LEGO wprowadziło w sierpniu: punkty Insiders schodzą z konta dopiero przy złożeniu zamówienia, a nie przy odbiorze nagrody. Nie ma więc powodu wydawać ich wcześniej „na zaś" – można spokojnie poczekać z decyzją do premiery.
 
