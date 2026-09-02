@@ -343,18 +343,22 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .pf-szukaj { flex: 1 1 260px; }
 .pf-szukaj input { width: 100%; }
 .pf-reset { flex-direction: row; align-items: center; gap: 10px; }
-#pf-wyczysc { font: inherit; font-size: 0.85rem; padding: 8px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: #fff; cursor: pointer; }
-#pf-wyczysc:hover { background: var(--papier); }
-#pf-licznik { font-size: 0.85rem; color: var(--granat-60); white-space: nowrap; }
+#pf-wyczysc, .pf-wyczysc { font: inherit; font-size: 0.85rem; padding: 8px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: #fff; cursor: pointer; }
+#pf-wyczysc:hover, .pf-wyczysc:hover { background: var(--papier); }
+#pf-licznik, .pf-licznik { font-size: 0.85rem; color: var(--granat-60); white-space: nowrap; }
 
 .pf-autocomplete { position: relative; }
-#pf-podpowiedzi { position: absolute; top: calc(100% + 4px); left: 0; right: 0; margin: 0; padding: 4px; list-style: none; background: #fff; border: 1.5px solid var(--linia); border-radius: 10px; box-shadow: 0 8px 24px rgba(23,35,63,0.16); max-height: 320px; overflow-y: auto; z-index: 60; }
-#pf-podpowiedzi li { padding: 8px 10px; border-radius: 7px; cursor: pointer; display: flex; gap: 8px; align-items: baseline; font-size: 0.92rem; }
-#pf-podpowiedzi .p-nr { font-weight: 700; font-variant-numeric: tabular-nums; }
-#pf-podpowiedzi .p-seria { margin-left: auto; font-size: 0.78rem; color: var(--granat-60); }
+#pf-podpowiedzi, .pf-podpowiedzi { position: absolute; top: calc(100% + 4px); left: 0; right: 0; margin: 0; padding: 4px; list-style: none; background: #fff; border: 1.5px solid var(--linia); border-radius: 10px; box-shadow: 0 8px 24px rgba(23,35,63,0.16); max-height: 320px; overflow-y: auto; z-index: 60; }
+/* podpowiedzi paska /serie/ idą z indeksu globalnego, więc niosą klasy sg-* */
+.pf-podpowiedzi .sg-nazwa { flex: 1 1 auto; min-width: 0; }
+#pf-podpowiedzi li, .pf-podpowiedzi li { padding: 8px 10px; border-radius: 7px; cursor: pointer; display: flex; gap: 8px; align-items: baseline; font-size: 0.92rem; }
+#pf-podpowiedzi .p-nr, .pf-podpowiedzi .sg-nr { font-weight: 700; font-variant-numeric: tabular-nums; }
+#pf-podpowiedzi .p-seria, .pf-podpowiedzi .sg-seria { margin-left: auto; font-size: 0.78rem; color: var(--granat-60); }
 #pf-podpowiedzi li:hover,
-#pf-podpowiedzi li[aria-selected="true"] { background: #fff8e1; }
-#pf-podpowiedzi mark { background: var(--zolty); padding: 0 1px; border-radius: 2px; }
+#pf-podpowiedzi li[aria-selected="true"],
+.pf-podpowiedzi li:hover,
+.pf-podpowiedzi li[aria-selected="true"] { background: #fff8e1; }
+#pf-podpowiedzi mark, .pf-podpowiedzi mark { background: var(--zolty); padding: 0 1px; border-radius: 2px; }
 
 /* ---------- Tabela zestawów ---------- */
 .tabela-setow-wrap { background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); padding: 2px 18px 8px; }

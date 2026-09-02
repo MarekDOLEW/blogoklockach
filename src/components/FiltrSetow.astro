@@ -92,15 +92,11 @@ const {
       nazwa: el.dataset.nazwa || '',
       seria: el.dataset.seria || '',
       n: norm(el.dataset.nazwa),
-      // czym jest „jedna pozycja" w liczniku: numer zestawu, a gdy go nie ma
-      // (kafel serii) — nazwa. Bez tego wszystkie kafle miałyby wspólny klucz ''
-      // i licznik pokazywałby „z 1".
-      klucz: el.dataset.numer || el.dataset.nazwa || '',
     }));
     // podpowiedzi biorą tylko pozycje „liczone" (bez kart dublujących wiersz tabeli),
     // licznik liczy unikalne numery zestawów – karta i wiersz tego samego setu to jeden zestaw
     const liczone = indeks.filter((w) => w.liczony);
-    const RAZEM = new Set(indeks.map((w) => w.klucz)).size;
+    const RAZEM = new Set(indeks.map((w) => w.numer)).size;
 
     let aktywna = -1; // podświetlona podpowiedź (nawigacja klawiaturą)
 
@@ -116,7 +112,7 @@ const {
       for (const w of indeks) {
         const pokaz = pasuje(w, s, q);
         w.el.hidden = !pokaz;
-        if (pokaz) widocznePozycje.add(w.klucz);
+        if (pokaz) widocznePozycje.add(w.numer);
       }
       const widoczne = widocznePozycje.size;
 
@@ -178,8 +174,7 @@ const {
             : w.nazwa;
 
         li.innerHTML =
-          (w.numer ? `<span class="p-nr">${nrHTML}</span>` : '') +
-          `<span class="p-nazwa">${nazwaHTML}</span>` +
+          `<span class="p-nr">${nrHTML}</span><span class="p-nazwa">${nazwaHTML}</span>` +
           (w.seria ? `<span class="p-seria">${w.seria}</span>` : '');
         li.addEventListener('mousedown', (e) => {
           e.preventDefault();
@@ -203,9 +198,7 @@ const {
 
     function wybierz(w) {
       schowajPodpowiedzi();
-      // numer jednoznacznie zawęża listę do jednej pozycji; gdy pozycja go nie ma
-      // (kafle serii w /serie/), tę samą rolę pełni nazwa
-      $szukaj.value = w.numer || w.nazwa;
+      $szukaj.value = w.numer; // zawęź listę do wybranego zestawu
       zastosujFiltr();
       w.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
       w.el.classList.add('set-trafienie');

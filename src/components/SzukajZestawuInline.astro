@@ -1,0 +1,172 @@
+---
+// Wyszukiwarka zestawu wpięta w treść strony. Wygląda jak pasek filtra list
+// (FiltrSetow), ale robi co innego: nie zawęża tego, co na stronie, tylko
+// szuka w indeksie całego serwisu i przenosi na stronę zestawu.
+//
+// Po to jest na /serie/: kafle to serie, więc nie ma czego filtrować po
+// numerze, a czytelnik, który wszedł na listę serii, i tak najczęściej szuka
+// konkretnego zestawu. Ten sam indeks obsługuje lupę w nagłówku i /szukaj/,
+// więc dopasowanie i kolejność wyników są wszędzie takie same.
+//
+// Indeks pobiera się dopiero przy pierwszym kliknięciu w pole — samo wejście
+// na stronę nie ściąga 226 kB.
+
+const {
+  etykieta = 'Szukaj zestawu',
+  placeholder = 'numer lub nazwa, np. 10334 albo Sokół…',
+} = Astro.props;
+---
+
+<div class="pasek-filtr karta" role="search" aria-label="Wyszukiwanie zestawu">
+  <div class="pf-pole pf-szukaj">
+    <label for="szz-input">{etykieta}</label>
+    <div class="pf-autocomplete">
+      <input
+        id="szz-input"
+        type="search"
+        placeholder={placeholder}
+        autocomplete="off"
+        role="combobox"
+        aria-expanded="false"
+        aria-controls="szz-podpowiedzi"
+        aria-autocomplete="list"
+      />
+      <ul id="szz-podpowiedzi" class="pf-podpowiedzi" role="listbox" hidden></ul>
+    </div>
+  </div>
+
+  <div class="pf-pole pf-reset">
+    <button type="button" class="pf-wyczysc" id="szz-wyczysc" hidden>Wyczyść ✕</button>
+    <span class="pf-licznik" id="szz-licznik" aria-live="polite"></span>
+  </div>
+</div>
+
+<script>
+  import { pobierzIndeks, szukaj, wierszHTML } from '../scripts/szukaj-klient.js';
+
+  const MIN_ZNAKOW = 2;
+  const MAX_PODPOWIEDZI = 8;
+
+  const $input = document.getElementById('szz-input');
+  const $lista = document.getElementById('szz-podpowiedzi');
+  const $licznik = document.getElementById('szz-licznik');
+  const $wyczysc = document.getElementById('szz-wyczysc');
+
+  if ($input) {
+    let indeks = null;
+    let trafienia = [];
+    let aktywna = -1;
+
+    function wczytaj() {
+      if (indeks) return;
+      pobierzIndeks()
+        .then((dane) => {
+          indeks = dane;
+          rysuj();
+        })
+        .catch(() => {
+          $licznik.textContent = 'nie udało się wczytać listy zestawów';
+        });
+    }
+
+    function schowaj() {
+      $lista.hidden = true;
+      $lista.innerHTML = '';
+      trafienia = [];
+      aktywna = -1;
+      $input.setAttribute('aria-expanded', 'false');
+      $input.removeAttribute('aria-activedescendant');
+    }
+
+    function rysuj() {
+      const fraza = $input.value.trim();
+      $wyczysc.hidden = !fraza;
+
+      if (fraza.length < MIN_ZNAKOW) {
+        schowaj();
+        $licznik.textContent = '';
+        return;
+      }
+      if (!indeks) {
+        $licznik.textContent = 'wczytuję listę zestawów…';
+        return;
+      }
+
+      const wszystkie = szukaj(indeks, fraza);
+      trafienia = wszystkie.slice(0, MAX_PODPOWIEDZI);
+
+      if (!trafienia.length) {
+        schowaj();
+        $licznik.textContent = `brak zestawu pasującego do „${fraza}”`;
+        return;
+      }
+
+      $lista.innerHTML = '';
+      trafienia.forEach((w, i) => {
+        const li = document.createElement('li');
+        li.id = `szz-opt-${i}`;
+        li.setAttribute('role', 'option');
+        li.innerHTML = wierszHTML(w, fraza);
+        li.addEventListener('mousedown', (e) => {
+          e.preventDefault();
+          idz(w);
+        });
+        li.addEventListener('mouseenter', () => zaznacz(i));
+        $lista.appendChild(li);
+      });
+
+      aktywna = -1;
+      zaznacz(0);
+      $lista.hidden = false;
+      $input.setAttribute('aria-expanded', 'true');
+      $licznik.textContent =
+        wszystkie.length > trafienia.length
+          ? `${wszystkie.length} trafień, pokazano ${trafienia.length}`
+          : `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : 'trafień'}`;
+    }
+
+    function zaznacz(i) {
+      const opcje = [...$lista.children];
+      if (!opcje.length) return;
+      aktywna = (i + opcje.length) % opcje.length;
+      opcje.forEach((o, k) => o.setAttribute('aria-selected', k === aktywna ? 'true' : 'false'));
+      opcje[aktywna].scrollIntoView({ block: 'nearest' });
+      $input.setAttribute('aria-activedescendant', opcje[aktywna].id);
+    }
+
+    const idz = (w) => { location.href = `/zestaw/${w.nr}/`; };
+
+    $input.addEventListener('focus', wczytaj, { once: true });
+    $input.addEventListener('input', rysuj);
+    $input.addEventListener('blur', () => setTimeout(() => { $lista.hidden = true; }, 120));
+
+    $input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+        if (!trafienia.length) return;
+        e.preventDefault();
+        zaznacz(aktywna + (e.key === 'ArrowDown' ? 1 : -1));
+      } else if (e.key === 'Enter') {
+        const fraza = $input.value.trim();
+        if (trafienia[aktywna]) {
+          e.preventDefault();
+          idz(trafienia[aktywna]);
+        } else if (fraza) {
+          // nic nie jest zaznaczone (np. indeks jeszcze się wczytuje) —
+          // pełna lista trafień jest na osobnej stronie
+          e.preventDefault();
+          location.href = `/szukaj/?q=${encodeURIComponent(fraza)}`;
+        }
+      } else if (e.key === 'Escape') {
+        schowaj();
+      }
+    });
+
+    $wyczysc.addEventListener('click', () => {
+      $input.value = '';
+      schowaj();
+      $licznik.textContent = '';
+      $wyczysc.hidden = true;
+      $input.focus();
+    });
+  }
+</script>
