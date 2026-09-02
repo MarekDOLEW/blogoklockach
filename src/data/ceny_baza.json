@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-01",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-01 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-02",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-02 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -254,9 +254,9 @@
  "76354": {
   "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
   "cena_katalogowa": 1599.99,
-  "najnizsza_cena": 1149.0,
-  "najnizsza_data": "2026-08-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 1123.27,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
  },
  "21368": {
   "nazwa": "Fistaszki: Buda Snoopy'ego",
@@ -429,9 +429,9 @@
  "80121": {
   "nazwa": "Stary zajazd",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 459.99,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "planetaklockow"
+  "najnizsza_cena": 409.9,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
  },
  "40926": {
   "nazwa": "Konsola SEGA Mega Drive",
@@ -464,8 +464,8 @@
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 76.01,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 75.89,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "77059": {
@@ -653,8 +653,8 @@
  "21595": {
   "nazwa": "Smok Kresu",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 176.51,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 176.48,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "77262": {
@@ -1080,8 +1080,8 @@
  "76345": {
   "nazwa": "Popiersie Doktora Dooma",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 170.68,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 170.1,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "71867": {
@@ -1269,8 +1269,8 @@
  "71863": {
   "nazwa": "Zilvar i smocza bestia Grimtak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.0,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 53.98,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "21596": {
@@ -1283,8 +1283,8 @@
  "42676": {
   "nazwa": "Frajda w parku wodnym",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 80.82,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 80.67,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "43282": {
@@ -1339,8 +1339,8 @@
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 87.77,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 87.24,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "76346": {
@@ -1367,8 +1367,8 @@
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 114.97,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 114.29,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "77981": {
@@ -1409,8 +1409,8 @@
  "10464": {
   "nazwa": "Kryjówka Pajęczej Drużyny",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 145.99,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 144.0,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "40880": {
@@ -1444,9 +1444,9 @@
  "72163": {
   "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 249.99,
-  "najnizsza_data": "2026-08-31",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 249.98,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
  },
  "72164": {
   "nazwa": "SMART Play: Dom treningowy z Pikachu",
@@ -1716,8 +1716,8 @@
  "42698": {
   "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 87.77,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 87.09,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "11376": {
@@ -1730,9 +1730,9 @@
  "11378": {
   "nazwa": "Samolot pasażerski Douglas DC-3 PAN AM",
   "cena_katalogowa": 949.99,
-  "najnizsza_cena": 949.99,
-  "najnizsza_data": "2026-08-23",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 949.95,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
  },
  "11371": {
   "nazwa": "Ulica handlowa",
@@ -1744,8 +1744,8 @@
  "75456": {
   "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 114.96,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 114.28,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "21367": {
@@ -1814,8 +1814,8 @@
  "75442": {
   "nazwa": "Myśliwiec N-1 Mandalorianina",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 1049.99,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 1040.0,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "71861": {
@@ -1989,8 +1989,8 @@
  "21330": {
   "nazwa": "Kevin sam w domu",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1179.0,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 1175.0,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "21344": {
@@ -2017,15 +2017,15 @@
  "10323": {
   "nazwa": "Automat do gry PAC-MAN",
   "cena_katalogowa": 1149.99,
-  "najnizsza_cena": 999.0,
-  "najnizsza_data": "2026-08-31",
+  "najnizsza_cena": 989.0,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "10354": {
   "nazwa": "Władca Pierścieni: Shire",
   "cena_katalogowa": 1149.99,
-  "najnizsza_cena": 1039.95,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 1035.0,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  },
  "42177": {
@@ -2059,8 +2059,29 @@
  "71814": {
   "nazwa": "Turniejowe miasto ze świątynią",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 959.99,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 954.99,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
+ },
+ "42206": {
+  "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 704.19,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "10360": {
+  "nazwa": "Samolot transportowy z promem kosmicznym",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 866.99,
+  "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
+ },
+ "42207": {
+  "nazwa": "Bolid F1 Ferrari SF-24",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 698.44,
+  "najnizsza_data": "2026-09-02",
   "najnizsza_sklep": "allegro"
  }
 }
