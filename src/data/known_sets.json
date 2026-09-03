@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-02",
+  "data_aktualizacji": "2026-09-03",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 295,
+  "liczba_setow": 299,
   "sety": [
     "10300",
     "10316",
@@ -63,6 +63,7 @@
     "21330",
     "21344",
     "21348",
+    "21354",
     "21356",
     "21366",
     "21367",
@@ -118,8 +119,10 @@
     "42130",
     "42143",
     "42146",
+    "42171",
     "42172",
     "42177",
+    "42182",
     "42206",
     "42207",
     "42215",
@@ -226,6 +229,7 @@
     "72423",
     "72537",
     "75367",
+    "75371",
     "75397",
     "75409",
     "75426",
@@ -466,25 +470,27 @@
       "nazwa": "Zestaw ozdob choinkowych 2",
       "premiera": "2026-10",
       "status": "NOWE 2026-09-02: 179 elementow, 12,99 EUR, premiera 2026-10-01. Najtansza pozycja fali swiatecznej."
+    },
+    {
+      "numer": "fala-harry-potter-hbo",
+      "nazwa": "Harry Potter — linia do serialu HBO",
+      "premiera": "2027",
+      "status": "NOWE 2026-09-03. OGLOSZENIE POTWIERDZONE DWOMA ZRODLAMI tego samego dnia: PromoBricks („LEGO Harry Potter Sets zur neuen HBO-Serie angekuendigt”) i StoneWars („bestaetigt! Teaser zeigt erste Minifiguren”). LEGO potwierdza zestawy do nowego serialu HBO i pokazuje pierwsze minifigurki. RUMORS/NUMERY: Brickset ma szesc zarezerwowanych numerow Harry Potter na rocznik 2027 — 30751, 76479, 76481, 76482, 76483, 76492 — wszystkie bez nazw i danych. Trzy z nich (76481, 76482, 76492) zostaly ruszone DZIS, w dniu ogloszenia. UWAGA: powiazanie tych numerow z linia HBO to MOJA INFERENCJA z korelacji czasowej i serii, a nie informacja z Bricksetu ani z serwisow. Nie publikowac jako fakt. Wartosc redakcyjna wysoka: Harry Potter to jedna z najmocniejszych licencji na rynku polskim, a nowy serial oznacza wieloletnia fale zestawow."
     }
   ],
   "luki_w_bazie": {
     "opis": "PRZEGLAD ROCZNIKOW 2020-2026 — 2026-08-26. Zrodlo: Brickset API v3, getSets per rocznik, komplet rekordow dla kazdego roku (sumy zgodne z polem matches). Za realny zestaw uznajemy category='Normal' albo 'Collection' — to filtr z samego API, dokladniejszy od wczesniejszego zgadywania po prefiksie numeru: 252 z 255 naszych opisanych setow 2026 ma wlasnie category='Normal', a 3 to 'Collection' (serie minifigurek). Odpadaja Gear, Book, Extended (BrickLink Designer Program i promocje) oraz Other (zestawy z czasopism i gratisy o 6-cyfrowych numerach).",
     "stan_ogolny": {
       "realnych_setow_2020_2026": 3538,
-      "opisanych": 295,
-      "bez_opisu": 3243,
-      "pokrycie_procent": 8.3,
+      "opisanych": 299,
+      "bez_opisu": 3239,
+      "pokrycie_procent": 8.5,
       "luk_z_cena_w_zl": 981,
-      "luk_z_cena_i_dostepnych": 801
+      "luk_z_cena_i_dostepnych": 797
     },
     "wniosek": "Serwis ma warstwe redakcyjna dla 7,3% zestawow z ostatnich siedmiu rocznikow. Rocznik 2026 jest pokryty w 45,7%, kazdy wczesniejszy praktycznie w zerze. Najwazniejsza liczba: 831 zestawow jest JEDNOCZESNIE w sprzedazy, ma cene katalogowa w zl i nie ma ani zdania opisu — to gotowa kolejka pracy, ktora moze konwertowac afiliacyjnie od razu. W czolowce sa pozycje flagowe: Barad-dur, Venator, Hulkbuster, Barka Jabby, Zamek Disneya, Ferrari Daytona SP3, Lamborghini Sian.",
     "zasada_priorytetu": "Tylko sety ze statusem 'dostepny' i cena w zl, sortowane po cenie katalogowej malejaco. Sety EOL (150 z 981 z cena) maja niski priorytet: nie konwertuja poza rynkiem wtornym. Nazwy PL i ceny z katalog.json, wiek/premiera/liczba minifigurek/podseria z Brickset API.",
     "priorytet_redakcyjny": [
-      "42171",
-      "42182",
-      "21354",
-      "75371",
       "76262",
       "42156",
       "76435",
@@ -2056,9 +2062,9 @@
       },
       "2023": {
         "realnych_setow": 489,
-        "opisanych": 7,
-        "bez_opisu": 482,
-        "z_cena_i_dostepne": 79,
+        "opisanych": 8,
+        "bez_opisu": 481,
+        "z_cena_i_dostepne": 78,
         "numery_do_opisania_priorytetowo": [
           "10313",
           "10315",
@@ -2125,7 +2131,6 @@
           "75356",
           "75358",
           "75364",
-          "75371",
           "76253",
           "76254",
           "76255",
@@ -2541,7 +2546,6 @@
           "75368",
           "75369",
           "75370",
-          "75371",
           "75575",
           "75576",
           "75577",
@@ -2627,9 +2631,9 @@
       },
       "2024": {
         "realnych_setow": 517,
-        "opisanych": 8,
-        "bez_opisu": 509,
-        "z_cena_i_dostepne": 166,
+        "opisanych": 10,
+        "bez_opisu": 507,
+        "z_cena_i_dostepne": 164,
         "numery_do_opisania_priorytetowo": [
           "10328",
           "10329",
@@ -2691,14 +2695,12 @@
           "42167",
           "42169",
           "42170",
-          "42171",
           "42173",
           "42174",
           "42175",
           "42176",
           "42178",
           "42179",
-          "42182",
           "42196",
           "42603",
           "42605",
@@ -3007,7 +3009,6 @@
           "42168",
           "42169",
           "42170",
-          "42171",
           "42173",
           "42174",
           "42175",
@@ -3016,7 +3017,6 @@
           "42179",
           "42180",
           "42181",
-          "42182",
           "42184",
           "42196",
           "42601",
@@ -3312,9 +3312,9 @@
       },
       "2025": {
         "realnych_setow": 549,
-        "opisanych": 14,
-        "bez_opisu": 535,
-        "z_cena_i_dostepne": 298,
+        "opisanych": 15,
+        "bez_opisu": 534,
+        "z_cena_i_dostepne": 297,
         "numery_do_opisania_priorytetowo": [
           "10342",
           "10343",
@@ -3376,7 +3376,6 @@
           "21278",
           "21279",
           "21280",
-          "21354",
           "21357",
           "21361",
           "21362",
@@ -3701,7 +3700,6 @@
           "21279",
           "21280",
           "21282",
-          "21354",
           "21355",
           "21357",
           "21358",
@@ -4647,7 +4645,7 @@
     ],
     "kontekst_seo": "",
     "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch.",
-    "postep": "zamkniete 58 luk (23.08-02.09)",
+    "postep": "zamkniete 62 luki (23.08-03.09)",
     "przeliczone_po_backfillu": "2026-08-29: rejestr przeliczony po zakonczeniu backfillu cen katalogowych (commit 73ec602). Luk z cena w zl: 981 -> 1209, ale pilnych (z cena I dostepnych) 831 -> 826 — backfill uzupelnial glownie sety EOL, ktore nie konwertuja. Kolejka pracy nie urosla, urosla za to pula do ewentualnych tekstow historycznych."
   },
   "fala_pazdziernikowa_2026": {
@@ -4800,5 +4798,14 @@
     "opis": "Brickset dostaje numery rocznika 2027 partiami per seria, najpierw jako puste rekordy, a nazwy i ceny doklada po kilku dniach. Zaobserwowane: Marvel 2 numery (26.08, nadal puste), Super Mario 8 numerow (26.08 puste, 27.08 komplet nazw i cen), Friends 13 numerow (30.08, puste). To najwczesniejszy dostepny sygnal o ksztalcie przyszlego rocznika — wyprzedza serwisy newsowe o dni. Widac go WYLACZNIE przez API (updatedSince), nie przez listy HTML.",
     "jak_uzywac": "Kazdy przebieg Scouta powinien wylapywac puste numery z rocznika 2027 i wracac do nich przez updatedSince. Sama liczba zarezerwowanych numerow per seria mowi, jak duza bedzie fala — 13 numerow Friends to fala porownywalna z tegoroczna.",
     "weryfikacja_2026_08_31": "Wzorzec mniej pewny, niz zapisalem 30.08. Doba po rezerwacji Friends: zero zmian w API (updatedSince=2026-08-30 zwrocilo 0), wszystkie 14 numerow Friends 2027 nadal puste. Marvel czeka juz szesc dni (od 26.08) i tez nadal jest pusty. Jedynym przypadkiem szybkiego uzupelnienia pozostaje Super Mario (jedna doba). Poprawna wersja reguly: rezerwacja numerow zapowiada fale, ale ODSTEP do ujawnienia nazw jest nieprzewidywalny — od jednego dnia do co najmniej tygodnia. Nie obiecywac terminu, tylko trzymac numery pod obserwacja."
+  },
+  "pokrycie_serii": {
+    "ustalenie": "2026-09-03",
+    "harry_potter_2020_2026": {
+      "realnych_setow": 117,
+      "opisanych": 11,
+      "pokrycie_procent": 9,
+      "uwaga": "Przy ogloszeniu linii HBO warto to widziec: mamy opisane 11 ze 117 zestawow Harry Pottera z ostatnich siedmiu rocznikow. Jesli nowa fala ma przyniesc ruch na frazach potterowych, istniejacy katalog nie jest na to przygotowany."
+    }
   }
 }
