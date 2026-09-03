@@ -11,19 +11,19 @@
   "dla_afol": "0,32 zł/klocek przy obecnej cenie – bardzo dobrze jak na Ideas. Uwaga: 11.08 Amazon schodził do 359,90 zł, więc cena potrafi jeszcze drgnąć w dół. W LEGO.com limit 3 szt./os.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 379.99,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 378.99,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 389.0,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 379.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 509.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -50,17 +50,17 @@
    {
     "sklep": "allegro",
     "cena": 399.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 407.44,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -93,7 +93,7 @@
    {
     "sklep": "allegro",
     "cena": 989.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -109,19 +109,19 @@
   "dla_afol": "Najlepszy stosunek ceny do klocków w całej linii startowej Pokémon: 0,35 zł za element. Pierwsza fala nowej licencji historycznie trzyma wartość.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 295.0,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 299.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -148,17 +148,17 @@
    {
     "sklep": "allegro",
     "cena": 416.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 435.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -183,19 +183,19 @@
   "dla_afol": "0,36 zł za element w Icons to solidny wynik. Auta Icons regularnie drożeją po EOL – patrz Aston DB5.",
   "oferty": [
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 439.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 447.96,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 439.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 589.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -220,19 +220,19 @@
   "dla_afol": "0,32 zł za element – najlepszy współczynnik sierpnia. Speed Champions z kultowymi autami znikają szybko.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 81.99,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 82.98,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 81.99,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 84.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -258,8 +258,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 689.0,
-    "data": "2026-09-02"
+    "cena": 685.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "proshop",
@@ -274,7 +274,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 849.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -301,7 +301,7 @@
    {
     "sklep": "allegro",
     "cena": 1887.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "rozetka",
@@ -333,13 +333,13 @@
    },
    {
     "sklep": "allegro",
-    "cena": 756.89,
-    "data": "2026-09-02"
+    "cena": 756.88,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 756.9,
-    "data": "2026-09-02"
+    "cena": 756.89,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -376,7 +376,7 @@
    {
     "sklep": "allegro",
     "cena": 1479.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -399,7 +399,7 @@
    {
     "sklep": "allegro",
     "cena": 990.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -417,17 +417,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 407.45,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 424.49,
-    "data": "2026-09-02"
+    "cena": 418.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -460,7 +460,7 @@
    {
     "sklep": "allegro",
     "cena": 1430.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -478,17 +478,17 @@
    {
     "sklep": "allegro",
     "cena": 979.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 997.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1249.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -519,8 +519,8 @@
    },
    {
     "sklep": "allegro",
-    "cena": 329.83,
-    "data": "2026-09-02"
+    "cena": 329.84,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -563,7 +563,7 @@
    {
     "sklep": "allegro",
     "cena": 3449.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -582,7 +582,7 @@
    {
     "sklep": "allegro",
     "cena": 899.94,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -614,12 +614,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 259.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 259.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -641,17 +641,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 531.12,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 556.65,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 709.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -683,7 +683,7 @@
    {
     "sklep": "allegro",
     "cena": 196.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "ekskluzyw": true
@@ -702,17 +702,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 218.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 218.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -744,7 +744,7 @@
    {
     "sklep": "allegro",
     "cena": 1589.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -761,13 +761,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1610.88,
-    "data": "2026-09-02"
+    "cena": 1602.43,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1649.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -777,7 +777,7 @@
    {
     "sklep": "planetaklockow",
     "cena": 1949.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -818,17 +818,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 378.34,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 378.34,
-    "data": "2026-09-02"
+    "cena": 410.95,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 514.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -860,7 +860,7 @@
    {
     "sklep": "allegro",
     "cena": 1299.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -882,17 +882,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 154.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 158.89,
-    "data": "2026-09-02"
+    "cena": 154.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -919,17 +919,17 @@
    {
     "sklep": "allegro",
     "cena": 298.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 309.9,
-    "data": "2026-09-02"
+    "cena": 299.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -954,9 +954,14 @@
   "dla_afol": "Oryginalny eksponat dla każdego, kto łączy pasję rowerową z klockową; w kolekcji pojazdów Icons wyróżnia się z daleka.",
   "oferty": [
    {
+    "sklep": "allegro",
+    "cena": 409.0,
+    "data": "2026-09-03"
+   },
+   {
     "sklep": "planetaklockow",
     "cena": 509.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -988,7 +993,7 @@
    {
     "sklep": "allegro",
     "cena": 278.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -1006,17 +1011,17 @@
    {
     "sklep": "allegro",
     "cena": 233.96,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 233.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 319.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1043,17 +1048,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 179.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1085,7 +1090,7 @@
    {
     "sklep": "allegro",
     "cena": 180.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "ekskluzyw": true
@@ -1105,17 +1110,17 @@
    {
     "sklep": "allegro",
     "cena": 1123.27,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1179.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1589.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1142,17 +1147,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 237.6,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 241.53,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 324.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1178,18 +1183,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 168.99,
-    "data": "2026-09-02"
+    "cena": 168.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 169.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 226.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1215,13 +1220,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 566.45,
-    "data": "2026-09-02"
+    "cena": 559.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 709.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1248,17 +1253,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 424.81,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 439.0,
-    "data": "2026-09-02"
+    "cena": 424.81,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 589.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1284,18 +1289,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 220.48,
-    "data": "2026-09-02"
+    "cena": 213.14,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 232.9,
-    "data": "2026-09-02"
+    "cena": 219.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1321,18 +1326,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 733.37,
-    "data": "2026-09-02"
+    "cena": 734.95,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 739.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 979.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1358,18 +1363,18 @@
   "oferty": [
    {
     "sklep": "mediaexpert",
-    "cena": 635.9,
-    "data": "2026-09-02"
+    "cena": 658.9,
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 673.12,
-    "data": "2026-09-02"
+    "cena": 679.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 849.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1401,12 +1406,12 @@
    {
     "sklep": "allegro",
     "cena": 544.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 939.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -1427,9 +1432,14 @@
     "data": "2026-08-13"
    },
    {
+    "sklep": "planetaklockow",
+    "cena": 99.99,
+    "data": "2026-09-03"
+   },
+   {
     "sklep": "allegro",
-    "cena": 109.99,
-    "data": "2026-09-02"
+    "cena": 110.0,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -1447,17 +1457,17 @@
    {
     "sklep": "allegro",
     "cena": 589.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 609.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 799.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1482,11 +1492,6 @@
   "dla_afol": "Nietypowa, serialowa wariacja kultowej maszyny kroczącej; wyróżni się w kolekcji zdominowanej przez AT-AT z Hoth.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 509.0,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "lego",
     "cena": 689.99,
     "data": "2026-08-13"
@@ -1494,7 +1499,7 @@
    {
     "sklep": "planetaklockow",
     "cena": 689.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -1514,19 +1519,19 @@
   "dla_afol": "Ciekawy koncept kustomizacji w Technic – baza do własnych przeróbek i luźniejsza propozycja obok wystawowych flagowców.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 278.99,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 279.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 299.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1552,13 +1557,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 367.32,
-    "data": "2026-09-02"
+    "cena": 365.65,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 399.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1568,7 +1573,7 @@
    {
     "sklep": "planetaklockow",
     "cena": 469.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -1590,17 +1595,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 386.04,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 399.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 514.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1632,7 +1637,7 @@
    {
     "sklep": "allegro",
     "cena": 199.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -1650,17 +1655,17 @@
    {
     "sklep": "allegro",
     "cena": 469.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 479.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 639.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1687,12 +1692,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 195.38,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 264.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1723,8 +1728,8 @@
    },
    {
     "sklep": "allegro",
-    "cena": 189.89,
-    "data": "2026-09-02"
+    "cena": 190.0,
+    "data": "2026-09-03"
    }
   ],
   "ekskluzyw": true
@@ -1743,17 +1748,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 199.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 199.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 264.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1780,12 +1785,12 @@
    {
     "sklep": "allegro",
     "cena": 154.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 203.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1812,17 +1817,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 154.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 154.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 203.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1849,17 +1854,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 89.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 92.89,
-    "data": "2026-09-02"
+    "cena": 92.73,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1886,7 +1891,7 @@
    {
     "sklep": "allegro",
     "cena": 269.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1909,17 +1914,17 @@
    {
     "sklep": "allegro",
     "cena": 228.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 249.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 329.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1947,7 +1952,7 @@
    {
     "sklep": "allegro",
     "cena": 409.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -1979,7 +1984,7 @@
    {
     "sklep": "allegro",
     "cena": 199.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -2014,13 +2019,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 10.99,
-    "data": "2026-09-02"
+    "cena": 11.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 19.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2046,18 +2051,18 @@
   "oferty": [
    {
     "sklep": "mediaexpert",
-    "cena": 89.99,
-    "data": "2026-09-02"
+    "cena": 91.31,
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 108.78,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2083,18 +2088,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 75.89,
-    "data": "2026-09-02"
+    "cena": 75.85,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 79.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2121,17 +2126,17 @@
    {
     "sklep": "allegro",
     "cena": 189.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 194.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 239.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2158,17 +2163,17 @@
    {
     "sklep": "allegro",
     "cena": 116.96,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 119.56,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 159.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2194,13 +2199,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 531.15,
-    "data": "2026-09-02"
+    "cena": 559.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 709.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2225,19 +2230,19 @@
   "dla_afol": "Smoker w wersji minifigurki to łakomy kąsek dla kompletujących obsadę wczesnych arców.",
   "oferty": [
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 188.88,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 199.9,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 188.88,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 239.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2269,17 +2274,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 419.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 419.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 419.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -2306,12 +2311,12 @@
    {
     "sklep": "allegro",
     "cena": 378.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 729.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -2338,7 +2343,7 @@
    {
     "sklep": "allegro",
     "cena": 121.45,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -2356,17 +2361,17 @@
    {
     "sklep": "allegro",
     "cena": 191.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 219.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2391,19 +2396,19 @@
   "dla_afol": "Kaski kierowców to świeży format w klockowym motorsporcie i mocny akcent każdej kolekcji poświęconej McLarenowi.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 269.0,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "allegro",
     "cena": 269.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 279.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2450,12 +2455,12 @@
    {
     "sklep": "allegro",
     "cena": 173.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2482,17 +2487,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 249.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 249.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 329.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2519,17 +2524,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 91.85,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 91.85,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2556,17 +2561,17 @@
    {
     "sklep": "allegro",
     "cena": 213.13,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 213.14,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2593,17 +2598,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 219.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 219.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2630,7 +2635,7 @@
    {
     "sklep": "allegro",
     "cena": 633.4,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2653,17 +2658,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 309.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 309.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 404.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2688,19 +2693,19 @@
   "dla_afol": "Pozycja typowo dziecięca, kolekcjonersko istotna tylko dla kompletujących całą licencję Gabi.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 44.99,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 44.93,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 45.24,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 44.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2732,7 +2737,7 @@
    {
     "sklep": "allegro",
     "cena": 190.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -2748,19 +2753,19 @@
   "dla_afol": "Nietypowy wybór postaci, który w zestawieniu z Puą tworzy przyjemny duet z oceanicznego uniwersum Disneya.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 125.96,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 123.99,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 139.9,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 125.96,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 164.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2787,17 +2792,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 799.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 809.31,
-    "data": "2026-09-02"
+    "cena": 816.19,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1049.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2824,17 +2829,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 135.3,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 139.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 184.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2861,17 +2866,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 219.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 219.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2898,17 +2903,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 309.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 309.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2939,8 +2944,8 @@
    },
    {
     "sklep": "allegro",
-    "cena": 294.95,
-    "data": "2026-09-02"
+    "cena": 289.95,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -2957,18 +2962,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 489.49,
-    "data": "2026-09-02"
+    "cena": 488.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 550.51,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 769.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -2995,17 +3000,17 @@
    {
     "sklep": "allegro",
     "cena": 176.48,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 184.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 239.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3032,17 +3037,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 80.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 80.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3069,17 +3074,17 @@
    {
     "sklep": "allegro",
     "cena": 36.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 41.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 56.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3106,17 +3111,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 91.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 91.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3141,14 +3146,14 @@
   "dla_afol": "Zwierzęca linia Creatora trzyma wysoki poziom projektów i coraz częściej ląduje na półkach dorosłych jako dekoracja.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 199.99,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "lego",
     "cena": 209.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 239.99,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -3166,17 +3171,17 @@
    {
     "sklep": "allegro",
     "cena": 69.96,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 77.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3203,17 +3208,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 308.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 309.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3240,7 +3245,7 @@
    {
     "sklep": "allegro",
     "cena": 189.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3263,17 +3268,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 210.33,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 218.99,
-    "data": "2026-09-02"
+    "cena": 215.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3300,17 +3305,17 @@
    {
     "sklep": "allegro",
     "cena": 621.8,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 628.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 839.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3337,17 +3342,17 @@
    {
     "sklep": "allegro",
     "cena": 83.78,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 84.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3374,17 +3379,17 @@
    {
     "sklep": "allegro",
     "cena": 86.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 99.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3411,17 +3416,17 @@
    {
     "sklep": "allegro",
     "cena": 148.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 149.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 203.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3447,8 +3452,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 476.0,
-    "data": "2026-09-02"
+    "cena": 450.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3458,7 +3463,7 @@
    {
     "sklep": "planetaklockow",
     "cena": 679.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -3480,17 +3485,17 @@
    {
     "sklep": "allegro",
     "cena": 269.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 274.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 359.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3517,17 +3522,17 @@
    {
     "sklep": "allegro",
     "cena": 87.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 87.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3553,18 +3558,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 178.98,
-    "data": "2026-09-02"
+    "cena": 174.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 189.88,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 259.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3590,18 +3595,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 85.97,
-    "data": "2026-09-02"
+    "cena": 84.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 85.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3628,17 +3633,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 101.03,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 103.4,
-    "data": "2026-09-02"
+    "cena": 103.47,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3664,18 +3669,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 279.0,
-    "data": "2026-09-02"
+    "cena": 265.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 292.16,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 404.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3704,6 +3709,11 @@
     "sklep": "lego",
     "cena": 339.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 599.0,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -3721,17 +3731,17 @@
    {
     "sklep": "allegro",
     "cena": 82.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 89.59,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3758,17 +3768,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 295.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 308.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3795,17 +3805,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 84.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 92.98,
-    "data": "2026-09-02"
+    "cena": 84.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3831,18 +3841,18 @@
   "oferty": [
    {
     "sklep": "mediaexpert",
-    "cena": 274.99,
-    "data": "2026-09-02"
+    "cena": 260.19,
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 284.93,
-    "data": "2026-09-02"
+    "cena": 274.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 359.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3869,17 +3879,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 193.28,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 193.28,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 264.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3906,17 +3916,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 41.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 41.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3942,18 +3952,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 264.88,
-    "data": "2026-09-02"
+    "cena": 268.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 286.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -3980,17 +3990,17 @@
    {
     "sklep": "allegro",
     "cena": 95.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 119.56,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 159.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4022,7 +4032,7 @@
    {
     "sklep": "allegro",
     "cena": 599.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -4038,19 +4048,19 @@
   "dla_afol": "Rzadko pokazywany zakątek świata czarodziejów to miła odmiana po kolejnych wersjach zamku.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 299.9,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 279.0,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 308.84,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 299.9,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4077,17 +4087,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 73.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 73.9,
-    "data": "2026-09-02"
+    "cena": 78.83,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 97.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4114,17 +4124,17 @@
    {
     "sklep": "allegro",
     "cena": 81.76,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 82.18,
-    "data": "2026-09-02"
+    "cena": 86.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4151,7 +4161,7 @@
    {
     "sklep": "allegro",
     "cena": 379.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4174,17 +4184,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 369.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 383.91,
-    "data": "2026-09-02"
+    "cena": 369.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 499.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4211,17 +4221,17 @@
    {
     "sklep": "allegro",
     "cena": 72.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 72.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 97.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4246,19 +4256,19 @@
   "dla_afol": "Więźniarka to praktyczny pojazd do miejskich dioram, a figurki zasilą gablotkę z Marvelem.",
   "oferty": [
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 149.2,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 156.99,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 149.2,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4283,19 +4293,19 @@
   "dla_afol": "Funkcjonalne buildy z linii Disneya zaskakująco dobrze bronią się jako dekoracje, a ta szkatułka ma sporo ładnych detali.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 148.94,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 149.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 149.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4322,17 +4332,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 207.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 217.85,
-    "data": "2026-09-02"
+    "cena": 217.68,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 284.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4359,17 +4369,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 123.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 123.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 164.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4396,17 +4406,17 @@
    {
     "sklep": "allegro",
     "cena": 28.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 29.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 37.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4438,7 +4448,7 @@
    {
     "sklep": "allegro",
     "cena": 146.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -4456,17 +4466,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 435.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 435.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 579.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4493,17 +4503,17 @@
    {
     "sklep": "allegro",
     "cena": 599.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 613.39,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 849.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4528,19 +4538,19 @@
   "dla_afol": "Bogate wnętrza i architektoniczny sznyt czynią z hotelu ciekawą alternatywę dla modularów, zwłaszcza po przeróbce na skalę minifigurek.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 465.7,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 457.99,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 474.97,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 465.7,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 629.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4567,17 +4577,17 @@
    {
     "sklep": "allegro",
     "cena": 53.46,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 56.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4609,7 +4619,7 @@
    {
     "sklep": "allegro",
     "cena": 109.69,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "ekskluzyw": true
@@ -4628,7 +4638,7 @@
    {
     "sklep": "allegro",
     "cena": 499.15,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4651,17 +4661,17 @@
    {
     "sklep": "allegro",
     "cena": 249.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 264.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 359.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4688,17 +4698,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 42.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 45.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4725,17 +4735,17 @@
    {
     "sklep": "allegro",
     "cena": 268.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 268.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 359.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4762,17 +4772,17 @@
    {
     "sklep": "allegro",
     "cena": 211.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 213.87,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4798,18 +4808,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 298.0,
-    "data": "2026-09-02"
+    "cena": 292.16,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 309.9,
-    "data": "2026-09-02"
+    "cena": 298.71,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 404.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4836,17 +4846,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 121.66,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 121.66,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 164.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4873,17 +4883,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 149.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 153.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4910,17 +4920,17 @@
    {
     "sklep": "allegro",
     "cena": 84.83,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 84.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4947,7 +4957,7 @@
    {
     "sklep": "allegro",
     "cena": 229.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -4974,8 +4984,8 @@
    },
    {
     "sklep": "allegro",
-    "cena": 219.99,
-    "data": "2026-09-02"
+    "cena": 219.98,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -4993,17 +5003,17 @@
    {
     "sklep": "allegro",
     "cena": 85.38,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 85.39,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5030,17 +5040,17 @@
    {
     "sklep": "allegro",
     "cena": 44.42,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 44.43,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 56.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5067,17 +5077,17 @@
    {
     "sklep": "allegro",
     "cena": 149.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 149.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5103,13 +5113,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 170.1,
-    "data": "2026-09-02"
+    "cena": 169.44,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 179.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5119,7 +5129,7 @@
    {
     "sklep": "planetaklockow",
     "cena": 209.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -5141,17 +5151,17 @@
    {
     "sklep": "allegro",
     "cena": 232.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 233.42,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 319.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5178,17 +5188,17 @@
    {
     "sklep": "allegro",
     "cena": 114.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 121.66,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 164.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5215,12 +5225,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 73.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 95.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5247,17 +5257,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 146.36,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 146.36,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5283,18 +5293,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 54.99,
-    "data": "2026-09-02"
+    "cena": 57.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 59.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 74.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5325,8 +5335,8 @@
    },
    {
     "sklep": "allegro",
-    "cena": 100.99,
-    "data": "2026-09-02"
+    "cena": 99.98,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -5344,17 +5354,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 209.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 236.93,
-    "data": "2026-09-02"
+    "cena": 234.08,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 279.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5381,17 +5391,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 389.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 389.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 539.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5418,17 +5428,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 297.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 297.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5455,7 +5465,7 @@
    {
     "sklep": "allegro",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5478,12 +5488,12 @@
    {
     "sklep": "allegro",
     "cena": 9.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 15.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5508,19 +5518,19 @@
   "dla_afol": "Funkcjonalny budynek usługowy ładnie uzupełni ulicę w klockowym mieście.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 163.95,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "allegro",
     "cena": 163.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 163.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 223.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5547,17 +5557,17 @@
    {
     "sklep": "allegro",
     "cena": 29.88,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 29.9,
-    "data": "2026-09-02"
+    "cena": 29.89,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 38.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5583,18 +5593,18 @@
   "oferty": [
    {
     "sklep": "mediaexpert",
-    "cena": 309.9,
-    "data": "2026-09-02"
+    "cena": 296.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 309.98,
-    "data": "2026-09-02"
+    "cena": 296.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5620,13 +5630,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 321.4,
-    "data": "2026-09-02"
+    "cena": 328.86,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5636,7 +5646,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 419.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -5680,22 +5690,22 @@
    {
     "sklep": "mediaexpert",
     "cena": 56.9,
-    "data": "2026-09-02"
-   },
-   {
-    "sklep": "allegro",
-    "cena": 56.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
     "cena": 81.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 86.0,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -5717,17 +5727,17 @@
    {
     "sklep": "allegro",
     "cena": 87.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 87.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5754,17 +5764,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 233.42,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 233.42,
-    "data": "2026-09-02"
+    "cena": 246.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 319.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5793,6 +5803,16 @@
     "sklep": "lego",
     "cena": 1849.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 2049.99,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 2100.0,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -5810,17 +5830,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 148.94,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 148.94,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5852,7 +5872,7 @@
    {
     "sklep": "allegro",
     "cena": 1075.53,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -5873,13 +5893,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 116.42,
-    "data": "2026-09-02"
+    "cena": 115.67,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5889,7 +5909,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 144.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -5911,17 +5931,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 146.36,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 154.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5948,17 +5968,17 @@
    {
     "sklep": "allegro",
     "cena": 69.74,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 70.85,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 97.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -5985,7 +6005,7 @@
    {
     "sklep": "allegro",
     "cena": 147.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6008,17 +6028,17 @@
    {
     "sklep": "allegro",
     "cena": 53.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 57.68,
-    "data": "2026-09-02"
+    "cena": 57.5,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 74.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6043,19 +6063,19 @@
   "dla_afol": "607 elementów i rzadziej spotykani przeciwnicy – solidna baza pod własne minecraftowe dioramy.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 279.9,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 279.0,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
-    "cena": 280.09,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 279.9,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6082,17 +6102,17 @@
    {
     "sklep": "allegro",
     "cena": 80.67,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 87.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6119,17 +6139,17 @@
    {
     "sklep": "allegro",
     "cena": 55.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 56.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6156,17 +6176,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 56.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 56.97,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6191,19 +6211,19 @@
   "dla_afol": "Nietypowa forma jednostki pływającej i ślubna sceneria wyróżniają go na tle powtarzalnych zamków linii Disney.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 219.0,
-    "data": "2026-09-02"
+    "sklep": "mediaexpert",
+    "cena": 213.14,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 221.99,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 221.48,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6230,7 +6250,7 @@
    {
     "sklep": "allegro",
     "cena": 241.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6253,17 +6273,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 173.15,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 196.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 238.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6290,17 +6310,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 119.56,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 119.56,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 159.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6327,17 +6347,17 @@
    {
     "sklep": "allegro",
     "cena": 58.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 59.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6363,13 +6383,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 87.24,
-    "data": "2026-09-02"
+    "cena": 86.86,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 104.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6379,7 +6399,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -6399,19 +6419,19 @@
   "dla_afol": "Wpisuje się w trend dużych, pozowalnych postaci Marvela i dobrze prezentuje się obok mechów oraz popiersi.",
   "oferty": [
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 298.38,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 298.38,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6438,17 +6458,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 278.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 285.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6496,13 +6516,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 114.29,
-    "data": "2026-09-02"
+    "cena": 113.32,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6512,7 +6532,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 144.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -6538,13 +6558,13 @@
    },
    {
     "sklep": "allegro",
-    "cena": 249.99,
-    "data": "2026-09-02"
+    "cena": 248.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 299.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -6566,17 +6586,17 @@
    {
     "sklep": "allegro",
     "cena": 89.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 89.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6602,13 +6622,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 14.36,
-    "data": "2026-09-02"
+    "cena": 14.29,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 15.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6637,6 +6657,11 @@
     "sklep": "lego",
     "cena": 169.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 199.99,
+    "data": "2026-09-03"
    }
   ]
  },
@@ -6672,17 +6697,17 @@
    {
     "sklep": "allegro",
     "cena": 144.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 148.94,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6766,12 +6791,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 209.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 241.0,
-    "data": "2026-09-02"
+    "cena": 239.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6796,14 +6821,14 @@
   "dla_afol": "Legendarny Mewtwo w klockowej formie to kolekcjonerski pewniak pierwszej generacji zestawów.",
   "oferty": [
    {
-    "sklep": "allegro",
-    "cena": 249.98,
-    "data": "2026-09-02"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 249.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 259.97,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6830,12 +6855,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 239.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 261.27,
-    "data": "2026-09-02"
+    "cena": 261.26,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6862,12 +6887,12 @@
    {
     "sklep": "allegro",
     "cena": 73.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 74.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6912,12 +6937,12 @@
    {
     "sklep": "allegro",
     "cena": 49.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 49.68,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6944,12 +6969,12 @@
    {
     "sklep": "allegro",
     "cena": 319.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 339.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -6981,7 +7006,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 519.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7002,8 +7027,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 119.99,
-    "data": "2026-09-02"
+    "cena": 137.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7043,14 +7068,14 @@
   "dla_afol": "Umbreon ucieszy fanów eeveelucji, a Garchomp to zaskakująco odważny wybór do pierwszej fali.",
   "oferty": [
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
-    "data": "2026-09-02"
+    "sklep": "allegro",
+    "cena": 297.99,
+    "data": "2026-09-03"
    },
    {
-    "sklep": "allegro",
+    "sklep": "mediaexpert",
     "cena": 299.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7077,12 +7102,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 162.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 186.41,
-    "data": "2026-09-02"
+    "cena": 186.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7109,12 +7134,12 @@
    {
     "sklep": "allegro",
     "cena": 90.4,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 93.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7141,7 +7166,7 @@
    {
     "sklep": "allegro",
     "cena": 348.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7151,12 +7176,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 429.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 429.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7183,7 +7208,7 @@
    {
     "sklep": "allegro",
     "cena": 419.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7206,7 +7231,7 @@
    {
     "sklep": "allegro",
     "cena": 399.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7223,8 +7248,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 63.99,
-    "data": "2026-09-02"
+    "cena": 66.1,
+    "data": "2026-09-03"
    },
    {
     "sklep": "amazon",
@@ -7234,7 +7259,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 67.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7257,12 +7282,12 @@
    {
     "sklep": "allegro",
     "cena": 9.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 15.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7272,7 +7297,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 16.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7290,7 +7315,7 @@
    {
     "sklep": "allegro",
     "cena": 9.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "dadada",
@@ -7300,12 +7325,12 @@
    {
     "sklep": "planetaklockow",
     "cena": 15.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 16.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7322,18 +7347,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 302.4,
-    "data": "2026-09-02"
+    "cena": 301.71,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 319.9,
-    "data": "2026-09-02"
+    "cena": 312.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7378,13 +7403,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 114.28,
-    "data": "2026-09-02"
+    "cena": 113.31,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 134.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7394,7 +7419,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 144.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "proshop",
@@ -7416,13 +7441,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 87.09,
-    "data": "2026-09-02"
+    "cena": 86.17,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 104.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "lego",
@@ -7432,7 +7457,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 114.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "proshop",
@@ -7452,7 +7477,14 @@
   "opis": "Oficjalnie ujawniony kolekcjonerski Batmobil z „Powrotu Batmana\" (1992) Tima Burtona – 2269 elementów, 45 cm długości po zbudowaniu. Model odtwarza filmową funkcję Batmissile: kadłub rozsuwa się, odsłaniając smuklejszy pojazd ucieczkowy. Minifigurka Batmana dostała nową formę maski połączonej z peleryną i staje na podstawce z tabliczką. Start sprzedaży 1 września 2026 dla LEGO Insiders, od 4 września dla wszystkich – na początek wyłącznie na LEGO.com (timed exclusive).",
   "dla_rodzica": "To model wystawowy dla dorosłych fanów kina, nie zabawka do szaleństw po dywanie – dziecku sprawdzi się tańszy Batmobil 76332 za 124,99 zł. Jeśli kupujesz na prezent świąteczny, nie zwlekaj: startowe partie ekskluzywów LEGO.com potrafią zniknąć przed Mikołajkami.",
   "dla_afol": "0,40 zł/klocek przy licencji DC 18+ i statusie timed exclusive to wycena po dobrej stronie – Batmobil '89 (76139) debiutował drożej za element. Funkcja Batmissile i nowa forma peleryny robią z tego zestawu najciekawszą premierę DC tego roku; historia 76139 po EOL podpowiada, że to kandydat do rubryki inwestycyjnej. Zamówienia Insiders od 1 IX, ogólne od 4 IX.",
-  "ekskluzyw": true
+  "ekskluzyw": true,
+  "oferty": [
+   {
+    "sklep": "planetaklockow",
+    "cena": 2589.99,
+    "data": "2026-09-03"
+   }
+  ]
  },
  "11387": {
   "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
@@ -7480,17 +7512,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 53.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 59.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 79.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7508,17 +7540,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 233.42,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 253.91,
-    "data": "2026-09-02"
+    "cena": 253.75,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 319.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7535,18 +7567,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 284.41,
-    "data": "2026-09-02"
+    "cena": 279.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 284.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7564,17 +7596,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 569.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 624.99,
-    "data": "2026-09-02"
+    "cena": 569.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 778.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7592,17 +7624,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 286.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 289.0,
-    "data": "2026-09-02"
+    "cena": 286.98,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 409.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7619,18 +7651,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 71.86,
-    "data": "2026-09-02"
+    "cena": 71.85,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 83.39,
-    "data": "2026-09-02"
+    "cena": 89.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7647,18 +7679,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 441.97,
-    "data": "2026-09-02"
+    "cena": 441.84,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 460.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 614.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7676,17 +7708,17 @@
    {
     "sklep": "allegro",
     "cena": 73.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 101.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ]
  },
@@ -7704,7 +7736,7 @@
    {
     "sklep": "allegro",
     "cena": 980.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7726,12 +7758,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7753,12 +7785,12 @@
    {
     "sklep": "allegro",
     "cena": 949.95,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 949.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7779,18 +7811,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 489.0,
-    "data": "2026-09-02"
+    "cena": 490.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 539.5,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 679.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7812,17 +7844,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 396.86,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 399.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 559.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7844,17 +7876,17 @@
    {
     "sklep": "allegro",
     "cena": 344.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 374.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 474.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7876,17 +7908,17 @@
    {
     "sklep": "allegro",
     "cena": 220.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 237.49,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 309.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7907,18 +7939,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 279.0,
-    "data": "2026-09-02"
+    "cena": 280.09,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 289.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7939,8 +7971,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 499.0,
-    "data": "2026-09-02"
+    "cena": 479.99,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7961,18 +7993,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 359.98,
-    "data": "2026-09-02"
+    "cena": 359.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 366.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 474.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -7994,7 +8026,7 @@
    {
     "sklep": "allegro",
     "cena": 388.29,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8016,7 +8048,7 @@
    {
     "sklep": "allegro",
     "cena": 1563.55,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8037,13 +8069,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1040.0,
-    "data": "2026-09-02"
+    "cena": 1029.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8065,17 +8097,17 @@
    {
     "sklep": "allegro",
     "cena": 659.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 704.19,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 979.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8097,17 +8129,17 @@
    {
     "sklep": "allegro",
     "cena": 644.76,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 645.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 849.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8129,7 +8161,7 @@
    {
     "sklep": "allegro",
     "cena": 749.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8151,17 +8183,17 @@
    {
     "sklep": "allegro",
     "cena": 481.3,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 504.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 639.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8183,12 +8215,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 487.66,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 554.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8209,18 +8241,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 468.99,
-    "data": "2026-09-02"
+    "cena": 459.9,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 472.93,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 649.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8242,17 +8274,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 459.73,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 499.98,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 644.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8274,17 +8306,17 @@
    {
     "sklep": "allegro",
     "cena": 436.55,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 474.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 614.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8306,7 +8338,7 @@
    {
     "sklep": "allegro",
     "cena": 589.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8327,18 +8359,18 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 407.76,
-    "data": "2026-09-02"
+    "cena": 400.24,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 432.9,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8367,13 +8399,6 @@
   "opis": "Żuraw gąsienicowy Liebherra w największej skali, jaką Technic oferował – 2883 elementy, cztery silniki i sterowanie przez aplikację. Model rozkłada wysięgnik na kilka metrów i podnosi realny ciężar; cała wartość leży tu w działającej mechanice, nie w wyglądzie.",
   "dla_rodzica": "Budowa liczona w kilkudziesięciu godzinach i wymagająca cierpliwości przy przekładniach – 18+ jest w pełni uzasadnione. Rozłożony żuraw zajmuje kawał pokoju, więc trzeba mieć gdzie go trzymać. Dla nastolatka zainteresowanego mechaniką to prezent na wiele tygodni, nie na jeden wieczór.",
   "dla_afol": "1,01 zł za element to najwyższa stawka w całym naszym katalogu i trzeba to powiedzieć wprost: płacisz podwójnie za silniki, elektronikę i licencję Liebherra. Jeśli patrzysz na klocki, to zły zakup. Jeśli szukasz najbardziej rozbudowanego działającego modelu, jaki LEGO wypuściło w Technicu – nie ma alternatywy. Próg, przy którym warto rozważyć zakup, to okolice 2300 zł.",
-  "oferty": [
-   {
-    "sklep": "allegro",
-    "cena": 3198.88,
-    "data": "2026-09-02"
-   }
-  ],
   "zdjecia": {
    "glowne": "https://planetaklockow.pl/environment/cache/images/productGfx_34855_1024_1024/LEGO-42146-Technic-Liebherr-LR-13000.jpg?overlay=1",
    "zrodlo": "planetaklockow"
@@ -8392,13 +8417,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 2348.5,
-    "data": "2026-09-02"
+    "cena": 2344.49,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 2699.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8420,12 +8445,12 @@
    {
     "sklep": "allegro",
     "cena": 2599.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 2999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8446,13 +8471,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1899.99,
-    "data": "2026-09-02"
+    "cena": 1959.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 2149.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8474,7 +8499,7 @@
    {
     "sklep": "allegro",
     "cena": 2024.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8496,7 +8521,7 @@
    {
     "sklep": "allegro",
     "cena": 1599.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8518,12 +8543,12 @@
    {
     "sklep": "allegro",
     "cena": 1699.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1949.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8545,12 +8570,12 @@
    {
     "sklep": "mediaexpert",
     "cena": 1399.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1949.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8571,13 +8596,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1654.0,
-    "data": "2026-09-02"
+    "cena": 1809.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1949.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8599,7 +8624,7 @@
    {
     "sklep": "allegro",
     "cena": 2699.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8621,17 +8646,17 @@
    {
     "sklep": "allegro",
     "cena": 1218.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1290.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1649.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8653,12 +8678,12 @@
    {
     "sklep": "allegro",
     "cena": 1419.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 1735.7,
-    "data": "2026-09-02"
+    "cena": 1999.99,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8679,13 +8704,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1060.0,
-    "data": "2026-09-02"
+    "cena": 915.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1499.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8707,17 +8732,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 1366.1,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 1475.9,
-    "data": "2026-09-02"
+    "cena": 1475.76,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1749.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8739,7 +8764,7 @@
    {
     "sklep": "allegro",
     "cena": 1399.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8761,7 +8786,7 @@
    {
     "sklep": "allegro",
     "cena": 1124.89,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8782,13 +8807,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1175.0,
-    "data": "2026-09-02"
+    "cena": 1174.0,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 1449.99,
-    "data": "2026-09-02"
+    "cena": 1205.31,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8810,12 +8835,12 @@
    {
     "sklep": "allegro",
     "cena": 1949.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8837,12 +8862,12 @@
    {
     "sklep": "allegro",
     "cena": 1239.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1299.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8864,12 +8889,12 @@
    {
     "sklep": "allegro",
     "cena": 989.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8890,13 +8915,13 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 1035.0,
-    "data": "2026-09-02"
+    "cena": 1033.99,
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 1149.99,
-    "data": "2026-09-02"
+    "cena": 1049.0,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8917,8 +8942,8 @@
   "oferty": [
    {
     "sklep": "allegro",
-    "cena": 950.23,
-    "data": "2026-09-02"
+    "cena": 986.0,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8940,17 +8965,17 @@
    {
     "sklep": "allegro",
     "cena": 828.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 979.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1199.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -8972,17 +8997,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 759.38,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 818.99,
-    "data": "2026-09-02"
+    "cena": 759.38,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9019,12 +9044,12 @@
    {
     "sklep": "allegro",
     "cena": 954.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9046,17 +9071,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 759.38,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
     "cena": 799.28,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9078,12 +9103,12 @@
    {
     "sklep": "allegro",
     "cena": 1039.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 1099.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9105,12 +9130,12 @@
    {
     "sklep": "allegro",
     "cena": 913.0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
-    "cena": 946.99,
-    "data": "2026-09-02"
+    "cena": 947.99,
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9162,12 +9187,12 @@
    {
     "sklep": "allegro",
     "cena": 866.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 905.45,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9189,17 +9214,17 @@
    {
     "sklep": "mediaexpert",
     "cena": 704.19,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "allegro",
-    "cena": 767.75,
-    "data": "2026-09-02"
+    "cena": 704.19,
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9221,17 +9246,17 @@
    {
     "sklep": "allegro",
     "cena": 698.44,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "mediaexpert",
     "cena": 704.19,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    },
    {
     "sklep": "planetaklockow",
     "cena": 999.99,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
    }
   ],
   "zdjecia": {
@@ -9249,7 +9274,23 @@
   "opis": "Bolid Mercedesa z sezonu 2023 w skali Technica — 1642 elementy, model o długości 63 cm, z zawieszeniem, kierowaniem i odwzorowaną jednostką napędową. Pierwszy bolid F1 wydany w tej skali, poprzedzający falę Red Bulla, Ferrari i McLarena.",
   "dla_rodzica": "Budowa techniczna na kilkanaście godzin, model przeznaczony do gabloty. Dla nastolatka oglądającego F1 to zestaw łączący sport z mechaniką, ale trzeba wiedzieć, że po zbudowaniu nic się z nim nie robi.",
   "dla_afol": "0,58 zł za element to standard tej linii. W14 jest o tyle ciekawy, że otwierał serię — jeśli zbierasz bolidy Technica, jest pierwszy w kolejności chronologicznej. Sezon 2023 to jednak temat już historyczny, a bolidy starzeją się szybciej niż reszta Technica. Rocznik 2024 oznacza, że jest blisko wycofania; przy zainteresowaniu warto działać.",
-  "oferty": [],
+  "oferty": [
+   {
+    "sklep": "mediaexpert",
+    "cena": 669.27,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 669.27,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 949.99,
+    "data": "2026-09-03"
+   }
+  ],
   "zdjecia": {
    "glowne": "https://planetaklockow.pl/environment/cache/images/productGfx_37184_1024_1024/LEGO-42171-Technic-Mercedes-AMG-F1-W14-E-Performance.jpg?overlay=1",
    "zrodlo": "planetaklockow"
@@ -9265,7 +9306,18 @@
   "opis": "Łazik księżycowy z programu Apollo — 1913 elementów, model o długości 38 cm z rozkładanym podwoziem, kierowaniem i odwzorowanym osprzętem naukowym. Zestaw z licencją NASA, oparty na rzeczywistej dokumentacji pojazdu.",
   "dla_rodzica": "Oznaczenie 11+ jest tu realne i to rzadkość w Technicu tej wielkości — nastolatek poradzi sobie samodzielnie. Temat historyczny i dobrze udokumentowany, więc zestaw ma wartość poznawczą wykraczającą poza budowanie. Gotowy model jest solidny i znosi ostrożne przestawianie.",
   "dla_afol": "0,50 zł za element to dobra stawka jak na Technica z licencją. Zestawy kosmiczne LEGO nie zależą od licencji filmowej i mają stabilną bazę odbiorców. LRV tworzy naturalną trójkę ekspozycyjną z rakietą Artemis (10341) i samolotem transportowym z promem (10360) — kto zbiera tę półkę, zwykle bierze wszystkie trzy.",
-  "oferty": [],
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 549.99,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 620.0,
+    "data": "2026-09-03"
+   }
+  ],
   "zdjecia": {
    "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/67/6741610/LEGO-42182-Technic-NASA-Apollo-pojazd-LRV-front-zawartosc-opakowanie.jpg",
    "zrodlo": "mediaexpert"
@@ -9281,7 +9333,18 @@
   "opis": "Dom rodziny Cullenów ze „Zmierzchu” — 2001 elementów i siedem minifigurek. Makieta otwiera się, odsłaniając wnętrza z przeszkloną ścianą charakterystyczną dla filmowej scenografii.",
   "dla_rodzica": "Licencja adresowana do dorosłych, którzy oglądali serię filmów kilkanaście lat temu — dla dzisiejszego nastolatka to temat bez kontekstu. Siedem minifigurek nie zmienia tego, że model jest ekspozycyjny.",
   "dla_afol": "0,47 zł za element to przyzwoita stawka. Kluczowa jest tu specyfika odbiorcy: „Zmierzch” ma wąską, ale bardzo zaangażowaną i przede wszystkim dorosłą bazę fanów, w dużej części spoza świata klocków. Przy takich licencjach zestaw sprzedaje się poza typowym kanałem kolekcjonerskim, co po wycofaniu zwykle oznacza szybsze zniknięcie z rynku niż przy zestawach kupowanych przez AFOL-i.",
-  "oferty": [],
+  "oferty": [
+   {
+    "sklep": "mediaexpert",
+    "cena": 868.33,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "allegro",
+    "cena": 899.0,
+    "data": "2026-09-03"
+   }
+  ],
   "zdjecia": {
    "glowne": "https://cdn.rebrickable.com/media/sets/21354-1.jpg",
    "zrodlo": "rebrickable"
@@ -9297,7 +9360,18 @@
   "opis": "Chewbacca jako figura ekspozycyjna w skali kolekcjonerskiej — 2319 elementów, model stojący na podstawce z tabliczką, z odwzorowaną kuszą i pasem bandolier. Pozycja z linii dużych postaci Star Wars, obok Dartha Vadera i szturmowców.",
   "dla_rodzica": "Duża figura do gabloty, bez funkcji zabawowych i z jedną minifigurką w komplecie. Konstrukcja jest wysoka i wąska, więc nie znosi przestawiania. Prezent dla dorosłego fana klasycznej trylogii.",
   "dla_afol": "0,40 zł za element to dobra stawka jak na Star Wars — wyraźnie lepsza niż w statkach UCS. Linia dużych postaci ma tę cechę, że modele są rozpoznawalne bez znajomości kontekstu, co poszerza grono kupujących. Rocznik 2023, więc w drugiej połowie życia rynkowego; przy postaciach z klasycznej trylogii popyt po wycofaniu utrzymuje się długo.",
-  "oferty": [],
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 694.99,
+    "data": "2026-09-03"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 919.99,
+    "data": "2026-09-03"
+   }
+  ],
   "zdjecia": {
    "glowne": "https://planetaklockow.pl/environment/cache/images/productGfx_34927_1024_1024/LEGO-75371-Star-Wars-Chewbacca.jpg?overlay=1",
    "zrodlo": "planetaklockow"

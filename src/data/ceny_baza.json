@@ -3,15 +3,15 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-02",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-02 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-03",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-03 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK WebFetch 03.09: 71861/42691 NIEDOSTEPNE na stronach (ceny-widma) -> wykluczone; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 379.99,
-  "najnizsza_data": "2026-08-19",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 378.99,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
  },
  "21370": {
   "nazwa": "E.T. the Extra-Terrestrial",
@@ -30,9 +30,9 @@
  "72160": {
   "nazwa": "Arcanine",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 299.0,
-  "najnizsza_data": "2026-08-23",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 295.0,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
  },
  "72168": {
   "nazwa": "Rayquaza",
@@ -464,8 +464,8 @@
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 75.89,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 75.85,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "77059": {
@@ -744,8 +744,8 @@
  "75685": {
   "nazwa": "Obraz Emerald City",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 469.0,
-  "najnizsza_data": "2026-08-28",
+  "najnizsza_cena": 450.0,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "60511": {
@@ -765,8 +765,8 @@
  "31386": {
   "nazwa": "Dzikie zwierzęta: Dumny lew",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 178.98,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 174.99,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "71864": {
@@ -786,8 +786,8 @@
  "76474": {
   "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 279.0,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 265.0,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "40868": {
@@ -1080,8 +1080,8 @@
  "76345": {
   "nazwa": "Popiersie Doktora Dooma",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 170.1,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 169.44,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "71867": {
@@ -1241,8 +1241,8 @@
  "76340": {
   "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 115.94,
-  "najnizsza_data": "2026-08-31",
+  "najnizsza_cena": 115.67,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "11045": {
@@ -1339,8 +1339,8 @@
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 87.24,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 86.86,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "76346": {
@@ -1367,8 +1367,8 @@
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 114.29,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 113.32,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "77981": {
@@ -1507,9 +1507,9 @@
  "72165": {
   "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 299.0,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 297.99,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
  },
  "72161": {
   "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
@@ -1716,8 +1716,8 @@
  "42698": {
   "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 87.09,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 86.17,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "11376": {
@@ -1744,8 +1744,8 @@
  "75456": {
   "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 114.28,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 113.31,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "21367": {
@@ -1814,8 +1814,8 @@
  "75442": {
   "nazwa": "Myśliwiec N-1 Mandalorianina",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 1040.0,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 1029.99,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "71861": {
@@ -1863,9 +1863,9 @@
  "43300": {
   "nazwa": "Kubuś Puchatek",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 468.99,
-  "najnizsza_data": "2026-08-26",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 459.9,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
  },
  "71860": {
   "nazwa": "Tytanowy mech Lloyda — 15. rocznica",
@@ -1982,15 +1982,15 @@
  "42129": {
   "nazwa": "Ciężarówka Mercedes-Benz Zetros 4x4",
   "cena_katalogowa": 1549.99,
-  "najnizsza_cena": 1060.0,
-  "najnizsza_data": "2026-08-30",
+  "najnizsza_cena": 915.0,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "21330": {
   "nazwa": "Kevin sam w domu",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1175.0,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 1174.0,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "21344": {
@@ -2024,8 +2024,8 @@
  "10354": {
   "nazwa": "Władca Pierścieni: Shire",
   "cena_katalogowa": 1149.99,
-  "najnizsza_cena": 1035.0,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 1033.99,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  },
  "42177": {
@@ -2082,6 +2082,41 @@
   "cena_katalogowa": 999.99,
   "najnizsza_cena": 698.44,
   "najnizsza_data": "2026-09-02",
+  "najnizsza_sklep": "allegro"
+ },
+ "42171": {
+  "nazwa": "Bolid F1 Mercedes-AMG W14 E Performance",
+  "cena_katalogowa": 949.99,
+  "najnizsza_cena": 669.27,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "76355": {
+  "nazwa": "Batmobil z filmu Powrót Batmana",
+  "cena_katalogowa": 899.99,
+  "najnizsza_cena": 2589.99,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "planetaklockow"
+ },
+ "42182": {
+  "nazwa": "NASA Apollo — pojazd księżycowy LRV",
+  "cena_katalogowa": 949.99,
+  "najnizsza_cena": 549.99,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
+ },
+ "21354": {
+  "nazwa": "Zmierzch: dom Cullenów",
+  "cena_katalogowa": 949.99,
+  "najnizsza_cena": 868.33,
+  "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "75371": {
+  "nazwa": "Chewbacca",
+  "cena_katalogowa": 929.99,
+  "najnizsza_cena": 694.99,
+  "najnizsza_data": "2026-09-03",
   "najnizsza_sklep": "allegro"
  }
 }
