@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-02",
-    "przebieg": "scheduled 2026-09-02 08:00",
+    "ostatnia_aktualizacja": "2026-09-03",
+    "przebieg": "scheduled 2026-09-03 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 115,
+    "liczba_wpisow": 121,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -1367,6 +1367,83 @@
         "nieustalone"
       ],
       "notatki": "Pojedyncza okazja po wznowieniu publikacji. Mamy 10326 w katalogu z cena katalogowa, wiec liczymy rabat, czego oni nie robia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2026: BrickLink Designer Program",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-bricklink-designer-program/",
+      "data_publikacji": "2026-09-02",
+      "data_wykrycia": "2026-09-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Pierwsza zajawka gotowych zestawow z tegorocznej edycji BDP. My BDP nie pokrywamy w ogole - i to jest swiadome: zestawy BDP sa w limitowanej sprzedazy crowdfundingowej na BrickLinku, bez dystrybucji sklepowej i bez porownywania cen, wiec nasza funkcja (gdzie taniej, kiedy kupic) nie ma tam zastosowania. Odnotowujemy jako granice zakresu, nie jako luke."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery COBI na 09.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-cobi-na-09-2026/",
+      "data_publikacji": "2026-09-02",
+      "data_wykrycia": "2026-09-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO. Poza naszym zakresem z definicji - serwis jest o LEGO. Odnotowane wylacznie po to, zeby przy kolejnych przebiegach nie wracac do tego pytania."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Najlepsze oferty na LEGO - 2 wrzesnia 2026",
+      "url": "https://fanklockow.pl/najlepsze-oferty-na-lego-wrzesien-2026/",
+      "data_publikacji": "2026-09-02",
+      "data_wykrycia": "2026-09-03",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Reczna zbiorcza lista ofert aktualizowana codziennie recznie (w tytule data). U nas ten sam material robi tabela cen na kazdej podstronie /zestaw/<nr>/, ktora odswieza sie przy kazdym budowaniu - bez daty w tytule, ktora starzeje sie po dobie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Kalendarz klockowych eventow w Polsce - 2026 rok",
+      "url": "https://faniklockow.pl/2026/09/02/kalendarz-klockowych-eventow-w-polsce-2026-rok/",
+      "data_publikacji": "2026-09-02",
+      "data_wykrycia": "2026-09-03",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Spis wystaw i festiwali klockowych w Polsce z datami, lokalizacjami i cenami biletow (ok. 10 tys. znakow). Material spolecznosciowy, nie zakupowy - nie prowadzi do decyzji o kupnie zestawu, wiec nie jest to nasza luka. Warto natomiast wiedziec, ze buduje im ruch i linki poza sezonem promocyjnym."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi zestawow okazjonalnych/specjalnych na 2026 rok (aktualizacja: pazdziernik)",
+      "url": "https://faniklockow.pl/2026/09/01/zapowiedzi-zestawow-okazjonalnych-specjalnych-na-2026-rok/",
+      "data_publikacji": "2026-09-01",
+      "data_wykrycia": "2026-09-03",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "NAJWAZNIEJSZY WPIS TEGO PRZEBIEGU. Lista pazdziernikowych zestawow sezonowych i GWP z polskimi cenami: 40862 (179 el., 54,99), 40865 Elf Buddy (713 el., 249,99), 40866 (187 el., 124,99), 40874 (873 el., 249,99), 40875 (904 el., 249,99), 40958 (342 el., 144,99). Nasze dane: 40874/40875 maja liczby elementow ZGODNE co do sztuki (873, 904), a 40958 zgodna takze cene 144,99 - czyli zrodlo gorne jest wspolne. Ale u nas 40874 i 40875 maja cena_katalogowa null, a 40862/40865/40866 siedza w katalog.json z nazwa '{?}'. Zrodlo samo oznacza dane jako plotki, wiec nie przepisujemy ich wprost - to zadanie na potwierdzenie u LEGO."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 02.09.2026 (zbiorczo: 71843 Ninjago, 75407 Star Wars)",
+      "url": "https://faniklockow.pl/2026/09/02/okazja-cenowa-ninjago-71843-mech-smoczego-jezdzca-roguea/",
+      "data_publikacji": "2026-09-02",
+      "data_wykrycia": "2026-09-03",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy zgodnie z konwencja bazy - mikropostow dealowych nie liczymy pojedynczo. Dwa zestawy tego dnia. U nas te same informacje sa w tabelach hubow, bez wygasania."
     }
   ],
   "obserwacje_strategiczne": {
