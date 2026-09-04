@@ -24,6 +24,34 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-09-04 06:50 · CODE · Kolejka redakcyjna w XLSX + osobna sesja na czubek
+
+**Zrobione:**
+- **`materialy/kolejka-redakcyjna.xlsx`** — 809 zestawów do opisania: rocznik
+  2020–2026, status `dostepny`, cena katalogowa w zł, brak wpisu w `sety.json`.
+  Kolumny: numer, nazwa PL, rok, seria, cena. Sortowanie po cenie malejąco.
+  Drugi arkusz „Metodologia" opisuje kryteria, źródła i rozkład po rocznikach.
+- Liczba przeliczona na świeżo z `katalog.json` + `sety.json`. Rejestr
+  (`known_sets.json`) podaje 794 — to stan z 26.08; katalog odświeżono 02.09
+  i doszło 15 nowych dostępnych zestawów z ceną.
+- **Uruchomiona osobna sesja redakcyjna** `session_017crJHR6y9z5CNDcwqQ2UYg`
+  („Redakcja — czubek kolejki"). Bierze zestawy po kolei od góry arkusza,
+  partiami po 5–10, dopisuje wpisy do `src/data/sety.json`.
+
+**Stan:** gotowe (arkusz), w toku (sesja redakcyjna — praca ciągła)
+
+**Dla drugiej strony:** nic. Kolejka jest zarezerwowana przez sesję redakcyjną —
+nie dublować opisów z arkusza.
+
+**Uwagi:**
+- Marek jawnie odrzucił przestawienie priorytetu na Harry'ego Pottera.
+  Kolejność to cena malejąco, bez wyjątków.
+- **Dwie sesje piszą teraz do `sety.json`** (Scout codziennie 5:00 + Redakcja).
+  Każda musi robić `git pull origin main` tuż przed zapisem i weryfikować
+  `git diff -U0 src/data/sety.json | grep -c '^-[^-]'` = 0.
+- Zestaw 40824 (Tweety) jest w katalogu dwa razy: Seasonal/2025 i
+  Looney Tunes/2026. W arkuszu został nowszy wpis — do weryfikacji przy opisie.
+
 ## 2026-08-31 15:30 · CODE · Zrzut harmonogramu odtworzony + korekty w RUNBOOK
 
 **Zrobione:**
