@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-03",
-    "przebieg": "scheduled 2026-09-03 08:00",
+    "ostatnia_aktualizacja": "2026-09-04",
+    "przebieg": "scheduled 2026-09-04 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 121,
+    "liczba_wpisow": 125,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -1444,6 +1444,57 @@
         "Media Expert"
       ],
       "notatki": "Wpis zbiorczy zgodnie z konwencja bazy - mikropostow dealowych nie liczymy pojedynczo. Dwa zestawy tego dnia. U nas te same informacje sa w tabelach hubow, bez wygasania."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)starcie zestawow: LEGO 72150 Munchlax vs 72537 Tygrys Derpy",
+      "url": "https://fanklockow.pl/starcie-zestawow-lego-72150-munchlax-vs-72537-tygrys-derpy/",
+      "data_publikacji": "2026-09-03",
+      "data_wykrycia": "2026-09-04",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Format 'starcie zestawow' - wideo porownawcze dwoch zestawow z tej samej polki cenowej. To ich odpowiednik naszej kategorii Porownania, tyle ze w wideo i bez progu zakupu. Nie gonimy formatu (nie robimy wideo), ale sam dobor par jest sygnalem, ktore zestawy uwazaja za konkurujace o ten sam portfel."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Icons na 2026 rok (aktualizacja: pazdziernik i listopad)",
+      "url": "https://faniklockow.pl/2026/09/03/zapowiedzi-serii-icons-na-2026-rok/",
+      "data_publikacji": "2026-09-03",
+      "data_wykrycia": "2026-09-04",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Pazdziernik: 11379 Ksiegarnia Book Nook (1690 el., ok. 520 zl), 11387 Winter Village (1354 el.), 72306 PlayStation 1 (1911 el., 689,99 zl) z dedykowanym GWP 40899 Astrobot. Listopad: 11388 (5682 el., ok. 2100 zl), 11390 (1794 el., ok. 800 zl, plotka o Dragon Ball). Kontrola wiarygodnosci: ich ceny lipcowe i sierpniowe (11374 899,99, 11381 599,99, 11382 559,99) zgadzaja sie z naszymi co do grosza, wiec przy pozycjach potwierdzonych sa rzetelni. U nas 72306 mamy bez ceny (Scout dodal dzis), 11387 bez liczby elementow, a 11379, 11388 i 11390 nie ma wcale. GWP 40899 nie ma w zadnym naszym pliku."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ideas na 2026 rok (aktualizacja: Godzilla na Black Friday)",
+      "url": "https://faniklockow.pl/2026/09/03/zapowiedzi-serii-ideas-na-2026-rok/",
+      "data_publikacji": "2026-09-03",
+      "data_wykrycia": "2026-09-04",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "NAJWAZNIEJSZY WPIS TEGO PRZEBIEGU. 21375 Godzilla, 5360 elementow, ok. 1700 zl, PREMIERA 27 LISTOPADA - czyli w sam Black Friday, z wlasnym GWP (odcisk stopy + tile Mothry). To fakt strukturalny dla naszego planowanego tekstu o Black Friday: zestaw debiutujacy w dniu BF z definicji nie bedzie tego dnia przeceniony, a bedzie widoczny obok przecen. Poza tym pazdziernik: 21371 Wallace & Gromit (1038 el., 419,99 zl - mamy zestaw bez ceny) i 21373 Downton Abbey Highclere Castle (4711 el., ok. 1300 zl - nie mamy wcale). Zrodlo oznacza czesc kwot jako szacunki."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 03.09.2026 (zbiorczo: 10331 Zimorodek, 76354 Lotniskowiec TARCZY)",
+      "url": "https://faniklockow.pl/2026/09/03/okazja-cenowa-icons-10331-zimorodek-6/",
+      "data_publikacji": "2026-09-03",
+      "data_wykrycia": "2026-09-04",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy zgodnie z konwencja bazy. Dwa zestawy tego dnia, oba juz wielokrotnie ogrywane (10331 po raz szosty)."
     }
   ],
   "obserwacje_strategiczne": {
