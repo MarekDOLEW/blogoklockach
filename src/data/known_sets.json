@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-03",
+  "data_aktualizacji": "2026-09-04",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 299,
+  "liczba_setow": 303,
   "sety": [
     "10300",
     "10316",
@@ -119,6 +119,7 @@
     "42130",
     "42143",
     "42146",
+    "42156",
     "42171",
     "42172",
     "42177",
@@ -226,6 +227,7 @@
     "72166",
     "72167",
     "72168",
+    "72306",
     "72423",
     "72537",
     "75367",
@@ -254,6 +256,7 @@
     "75647",
     "75685",
     "76210",
+    "76262",
     "76294",
     "76332",
     "76339",
@@ -268,6 +271,7 @@
     "76354",
     "76355",
     "76356",
+    "76435",
     "76454",
     "76462",
     "76469",
@@ -406,16 +410,10 @@
       "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
     },
     {
-      "numer": "72306",
-      "nazwa": "LEGO PlayStation 1 (nazwa niepotwierdzona)",
-      "premiera": "2026-10",
-      "status": "NOWE 2026-08-25. Brickset potwierdza dane twarde: 1911 elementow, 18+, premiera 2026-10-01, jeszcze niewydany, brak RRP, motyw wciaz 'tbd', nazwa jako {?}. Tozsamosc — replika konsoli PlayStation 1 w skali 1:1 z dioramami Gran Turismo i Ape Escape oraz gratisem Astrobot — pochodzi WYLACZNIE ze StoneWars. PromoBricks nie ma o tym slowa. ZAPOWIEDZ NIEPOTWIERDZONA co do nazwy i zawartosci; numer, wielkosc i data sa pewne. Potencjal redakcyjny wysoki: nostalgia growa + rocznik 18+ + premiera w oknie przedswiatecznym."
-    },
-    {
       "numer": "40899",
-      "nazwa": "nieujawniony zestaw (motyw tbd)",
-      "premiera": null,
-      "status": "NOWE 2026-08-25: numer w Brickset bez nazwy, liczby elementow, ceny i daty. Pusty rekord, sledzimy."
+      "nazwa": "nieujawniony zestaw z serii PlayStation",
+      "premiera": "2026",
+      "status": "2026-09-04: numer przepisany z motywu 'tbd' do NOWEJ serii 'PlayStation' — tej samej co 72306. Nadal bez nazwy, elementow, ceny i daty. Najpewniej gratis promocyjny albo towarzyszacy zestaw do konsoli. Sledzimy jako drugi element nowej linii."
     },
     {
       "numer": "72052-72061",
@@ -482,18 +480,15 @@
     "opis": "PRZEGLAD ROCZNIKOW 2020-2026 — 2026-08-26. Zrodlo: Brickset API v3, getSets per rocznik, komplet rekordow dla kazdego roku (sumy zgodne z polem matches). Za realny zestaw uznajemy category='Normal' albo 'Collection' — to filtr z samego API, dokladniejszy od wczesniejszego zgadywania po prefiksie numeru: 252 z 255 naszych opisanych setow 2026 ma wlasnie category='Normal', a 3 to 'Collection' (serie minifigurek). Odpadaja Gear, Book, Extended (BrickLink Designer Program i promocje) oraz Other (zestawy z czasopism i gratisy o 6-cyfrowych numerach).",
     "stan_ogolny": {
       "realnych_setow_2020_2026": 3538,
-      "opisanych": 299,
-      "bez_opisu": 3239,
-      "pokrycie_procent": 8.5,
+      "opisanych": 303,
+      "bez_opisu": 3235,
+      "pokrycie_procent": 8.6,
       "luk_z_cena_w_zl": 981,
-      "luk_z_cena_i_dostepnych": 797
+      "luk_z_cena_i_dostepnych": 794
     },
     "wniosek": "Serwis ma warstwe redakcyjna dla 7,3% zestawow z ostatnich siedmiu rocznikow. Rocznik 2026 jest pokryty w 45,7%, kazdy wczesniejszy praktycznie w zerze. Najwazniejsza liczba: 831 zestawow jest JEDNOCZESNIE w sprzedazy, ma cene katalogowa w zl i nie ma ani zdania opisu — to gotowa kolejka pracy, ktora moze konwertowac afiliacyjnie od razu. W czolowce sa pozycje flagowe: Barad-dur, Venator, Hulkbuster, Barka Jabby, Zamek Disneya, Ferrari Daytona SP3, Lamborghini Sian.",
     "zasada_priorytetu": "Tylko sety ze statusem 'dostepny' i cena w zl, sortowane po cenie katalogowej malejaco. Sety EOL (150 z 981 z cena) maja niski priorytet: nie konwertuja poza rynkiem wtornym. Nazwy PL i ceny z katalog.json, wiek/premiera/liczba minifigurek/podseria z Brickset API.",
     "priorytet_redakcyjny": [
-      "76262",
-      "42156",
-      "76435",
       "42175",
       "76444",
       "42202",
@@ -2062,9 +2057,9 @@
       },
       "2023": {
         "realnych_setow": 489,
-        "opisanych": 8,
-        "bez_opisu": 481,
-        "z_cena_i_dostepne": 78,
+        "opisanych": 10,
+        "bez_opisu": 479,
+        "z_cena_i_dostepne": 76,
         "numery_do_opisania_priorytetowo": [
           "10313",
           "10315",
@@ -2094,7 +2089,6 @@
           "41758",
           "42151",
           "42154",
-          "42156",
           "42157",
           "42158",
           "42160",
@@ -2136,7 +2130,6 @@
           "76255",
           "76257",
           "76258",
-          "76262",
           "76263",
           "76416",
           "76418",
@@ -2381,7 +2374,6 @@
           "42153",
           "42154",
           "42155",
-          "42156",
           "42157",
           "42158",
           "42159",
@@ -2574,7 +2566,6 @@
           "76259",
           "76260",
           "76261",
-          "76262",
           "76263",
           "76264",
           "76265",
@@ -2631,9 +2622,9 @@
       },
       "2024": {
         "realnych_setow": 517,
-        "opisanych": 10,
-        "bez_opisu": 507,
-        "z_cena_i_dostepne": 164,
+        "opisanych": 11,
+        "bez_opisu": 506,
+        "z_cena_i_dostepne": 163,
         "numery_do_opisania_priorytetowo": [
           "10328",
           "10329",
@@ -2787,7 +2778,6 @@
           "76425",
           "76429",
           "76433",
-          "76435",
           "76439",
           "76440",
           "76919",
@@ -3259,7 +3249,6 @@
           "76432",
           "76433",
           "76434",
-          "76435",
           "76437",
           "76438",
           "76439",
@@ -4153,8 +4142,8 @@
       },
       "2026": {
         "realnych_setow": 558,
-        "opisanych": 259,
-        "bez_opisu": 299,
+        "opisanych": 260,
+        "bez_opisu": 298,
         "z_cena_i_dostepne": 176,
         "numery_do_opisania_priorytetowo": [
           "10465",
@@ -4580,7 +4569,6 @@
           "72151",
           "72152",
           "72153",
-          "72306",
           "75420",
           "75421",
           "75422",
@@ -4645,7 +4633,7 @@
     ],
     "kontekst_seo": "",
     "metoda": "Paginacja listy rocznej urywa sie na stronie 20 (500 z 913) i logowanie tego nie zmienia z naszego poziomu dostepu — potwierdzone niezaleznie przez WebFetch i przez curl (strony 21+ zwracaja 44 kB pustego szablonu, strona 20 nadal 196 kB z lista). Obejscie: listy per seria, gdzie najwieksza seria ma 112 pozycji, wiec limit nie dziala. curl na brickset.com/sets/ dziala bez przeszkod (sciezka /article/ zwraca 403), wiec crawl jest tani — bez kosztu streszczania przez WebFetch.",
-    "postep": "zamkniete 62 luki (23.08-03.09)",
+    "postep": "zamkniete 66 luk (23.08-04.09)",
     "przeliczone_po_backfillu": "2026-08-29: rejestr przeliczony po zakonczeniu backfillu cen katalogowych (commit 73ec602). Luk z cena w zl: 981 -> 1209, ale pilnych (z cena I dostepnych) 831 -> 826 — backfill uzupelnial glownie sety EOL, ktore nie konwertuja. Kolejka pracy nie urosla, urosla za to pula do ewentualnych tekstow historycznych."
   },
   "fala_pazdziernikowa_2026": {
@@ -4807,5 +4795,12 @@
       "pokrycie_procent": 9,
       "uwaga": "Przy ogloszeniu linii HBO warto to widziec: mamy opisane 11 ze 117 zestawow Harry Pottera z ostatnich siedmiu rocznikow. Jesli nowa fala ma przyniesc ruch na frazach potterowych, istniejacy katalog nie jest na to przygotowany."
     }
+  },
+  "nowa_seria_playstation": {
+    "ustalenie": "2026-09-04",
+    "opis": "Brickset zalozyl w katalogu NOWY MOTYW 'PlayStation' — nie przypisal 72306 do Icons, tylko utworzyl osobna serie. Historycznie oznacza to poczatek linii, a nie pojedynczy model. W motywie sa dwie pozycje: 72306 PlayStation (1911 el., 18+, premiera 2026-10-01, 159,99 EUR / 179,99 USD) oraz 40899, wczesniej wisiacy w motywie 'tbd', teraz przepisany tutaj — bez danych.",
+    "kontekst": "LEGO ma juz w Icons dwa duze zestawy nostalgii growej: 10306 Atari 2600 (2532 el., 2022) i 10323 automat PAC-MAN (2651 el., 2023). Brickset ruszyl karty obu wlasnie dzis, razem z PlayStation — to spojna polka tematyczna, a nie odosobniona premiera.",
+    "do_potwierdzenia": "StoneWars pisze, ze konsola ma dzialajaca szuflade na plyte, easter eggi oraz ze LEGO wprowadzilo dla niej NOWY ELEMENT — plytke 1,5 wypustki, rozszerzajaca system. Jedno zrodlo, PromoBricks milczy. Jesli sie potwierdzi, nowy element podstawowy jest tematem sam w sobie — takie zmiany zdarzaja sie raz na kilka lat i sa mocno komentowane w srodowisku AFOL.",
+    "rekomendacja": "Karta researchu przed 1 pazdziernika, razem z Executorem. Dwa mocne tematy w tej samej dacie."
   }
 }
