@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-03",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-03 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK WebFetch 03.09: 71861/42691 NIEDOSTEPNE na stronach (ceny-widma) -> wykluczone; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-04",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-04 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (03.09: +71861/42691); zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -338,8 +338,8 @@
  "42236": {
   "nazwa": "Warsztat tuningowy: samochód Ford Mustang GT",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 269.0,
-  "najnizsza_data": "2026-08-21",
+  "najnizsza_cena": 259.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "11383": {
@@ -464,8 +464,8 @@
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 75.85,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 75.74,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "77059": {
@@ -520,8 +520,8 @@
  "76339": {
   "nazwa": "Fantastyczna Czwórka H.E.R.B.I.E.",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 191.99,
-  "najnizsza_data": "2026-08-31",
+  "najnizsza_cena": 184.99,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "43023": {
@@ -583,9 +583,9 @@
  "77983": {
   "nazwa": "Atak mozazaura na łódź",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 299.99,
-  "najnizsza_data": "2026-08-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 289.0,
+  "najnizsza_data": "2026-09-04",
+  "najnizsza_sklep": "allegro"
  },
  "11212": {
   "nazwa": "Domek w ogrodzie Wróżkici",
@@ -667,8 +667,8 @@
  "11514": {
   "nazwa": "Kosmosy",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 35.27,
-  "najnizsza_data": "2026-08-20",
+  "najnizsza_cena": 35.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "77119": {
@@ -765,8 +765,8 @@
  "31386": {
   "nazwa": "Dzikie zwierzęta: Dumny lew",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 174.99,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 169.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "71864": {
@@ -814,9 +814,9 @@
  "77978": {
   "nazwa": "Ciężarówka do transportu młodego tyranozaura",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 84.99,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 83.99,
+  "najnizsza_data": "2026-09-04",
+  "najnizsza_sklep": "allegro"
  },
  "31389": {
   "nazwa": "Kultowy diabelski młyn",
@@ -870,8 +870,8 @@
  "77977": {
   "nazwa": "Mały dinozaur: Pteranodon",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 73.86,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 71.9,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "76475": {
@@ -1080,8 +1080,8 @@
  "76345": {
   "nazwa": "Popiersie Doktora Dooma",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 169.44,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 169.08,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "71867": {
@@ -1241,8 +1241,8 @@
  "76340": {
   "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 115.67,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 115.01,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "11045": {
@@ -1269,8 +1269,8 @@
  "71863": {
   "nazwa": "Zilvar i smocza bestia Grimtak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.98,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 53.97,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "21596": {
@@ -1367,8 +1367,8 @@
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 113.32,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 112.69,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "77981": {
@@ -1388,8 +1388,8 @@
  "71053": {
   "nazwa": "Seria Shrek",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 13.1,
-  "najnizsza_data": "2026-08-29",
+  "najnizsza_cena": 13.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "40975": {
@@ -1479,8 +1479,8 @@
  "72166": {
   "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 319.98,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 309.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "72167": {
@@ -1507,8 +1507,8 @@
  "72165": {
   "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 297.99,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 279.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "72161": {
@@ -1599,8 +1599,8 @@
  "71859": {
   "nazwa": "Smok życia",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 279.99,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 279.0,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "10470": {
@@ -1716,8 +1716,8 @@
  "42698": {
   "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 86.17,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 85.8,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "11376": {
@@ -1744,8 +1744,8 @@
  "75456": {
   "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 113.31,
-  "najnizsza_data": "2026-09-03",
+  "najnizsza_cena": 112.79,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "21367": {
@@ -2031,8 +2031,8 @@
  "42177": {
   "nazwa": "Mercedes-Benz G 500 PROFESSIONAL Line 4x4",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 759.37,
-  "najnizsza_data": "2026-09-01",
+  "najnizsza_cena": 719.39,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  },
  "10350": {
@@ -2108,15 +2108,36 @@
  "21354": {
   "nazwa": "Zmierzch: dom Cullenów",
   "cena_katalogowa": 949.99,
-  "najnizsza_cena": 868.33,
-  "najnizsza_data": "2026-09-03",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 779.0,
+  "najnizsza_data": "2026-09-04",
+  "najnizsza_sklep": "allegro"
  },
  "75371": {
   "nazwa": "Chewbacca",
   "cena_katalogowa": 929.99,
   "najnizsza_cena": 694.99,
   "najnizsza_data": "2026-09-03",
+  "najnizsza_sklep": "allegro"
+ },
+ "76262": {
+  "nazwa": "Tarcza Kapitana Ameryki",
+  "cena_katalogowa": 929.99,
+  "najnizsza_cena": 935.0,
+  "najnizsza_data": "2026-09-04",
+  "najnizsza_sklep": "allegro"
+ },
+ "42156": {
+  "nazwa": "PEUGEOT 9X8 24H Le Mans Hybrid Hypercar",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 869.99,
+  "najnizsza_data": "2026-09-04",
+  "najnizsza_sklep": "planetaklockow"
+ },
+ "76435": {
+  "nazwa": "Zamek Hogwart: Wielka Sala",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 907.79,
+  "najnizsza_data": "2026-09-04",
   "najnizsza_sklep": "allegro"
  }
 }
