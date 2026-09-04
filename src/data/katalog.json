@@ -55,7 +55,16 @@
       "prefiksy_zostawione": "DUPLO ma 10 zestawow z prefiksem \"Disney \" (podmotyw licencyjny), a City/Star Wars/Friends/Ninjago maja ok. 110 starych i promocyjnych pozycji z lat 2000-2015 z angielskimi nazwami Bricksetu, gdzie prefiks jest czescia nazwy i nie ma polskiego odpowiednika u LEGO. Tych NIE ruszamy – brak zrodla, do ktorego mozna wyrownac. Prefiks \"3w1\" zdjety z Creatora, bo tam LEGO.com PL potwierdza, ze to motyw (\"Legendarny statek piracki 31387 | Creator 3 w 1\"), a nie czesc nazwy."
     },
     "rrp_rk": "2026-08-30: uzupelniono cena_katalogowa (+pole cena_zrodlo=RK) z bazy Republiki Klockow wylacznie tam, gdzie pole bylo puste; rrp_potwierdzone.json pozostaje nadrzedne; kwarantanna: usunieto 10 wpisow RK, gdzie cena rynkowa < 50% RRP (RRP niewiarygodne)",
-    "minifigurki_liczba_elementow": "Saszetki CMF (seria Minifigurki) maja liczbe elementow SZACUNKOWA: w srodku jest jedna minifigurka z akcesoriami, a ich liczba rozni sie miedzy postaciami w tej samej serii. LEGO.com nie podaje jednej wartosci dla blind boxa. Trzymamy jedna liczbe, zeby dane byly spojne, ale nie traktujemy jej jako faktu i nie budujemy na niej ocen (np. ceny za element)."
+    "minifigurki_liczba_elementow": "Saszetki CMF (seria Minifigurki) maja liczbe elementow SZACUNKOWA: w srodku jest jedna minifigurka z akcesoriami, a ich liczba rozni sie miedzy postaciami w tej samej serii. LEGO.com nie podaje jednej wartosci dla blind boxa. Trzymamy jedna liczbe, zeby dane byly spojne, ale nie traktujemy jej jako faktu i nie budujemy na niej ocen (np. ceny za element).",
+    "rozbieznosci_fala_pazdziernik_2026": {
+      "sprawdzone": "2026-09-04",
+      "opis": "Weryfikacja pazdziernikowej fali premier po radarze 04.09. Ponizsze pozycje maja sprzeczne albo niepotwierdzone dane i celowo NIE zostaly wpisane.",
+      "40865": "Elf Buddy — liczba elementow sporna: faniklockow podaje 713, zklockow 719. Cena ok. 250 zl w obu. Nie wpisujemy zadnej z liczb.",
+      "40875": "Powiekszona minifigurka Pani Mikolajowej — 904 el. zgodne z naszymi danymi, ale cena 249,99 zl tylko z jednego zrodla oznaczonego jako plotka. Cena zostaje pusta.",
+      "11379": "Ksiegarnia Book Nook — cena sprzeczna: faniklockow 'ok. 520 zl', porownywarki podaja 559,96 zl (kwota nie konczaca sie na ,99, wiec najpewniej wyliczona przez porownywarke, a nie katalogowa). 1690 elementow zgodne w obu zrodlach. Zestawu nie mamy w bazie.",
+      "21375": "Godzilla — premiera 27.11.2026 (Black Friday) i wlasny GWP potwierdzone niezaleznie w dwoch zrodlach. Cena NIEZNANA: 'ok. 1700 zl' to szacunek jednego zrodla, drugie wprost pisze, ze ceny nie ogloszono.",
+      "40862_40866_11388_11390_21373": "Pozycje bez niezaleznego potwierdzenia ceny — do sprawdzenia przy nastepnej fali. Dodanie ich do bazy nalezy do Zwiadowcy, nie do Radaru."
+    }
   },
   "Ideas": [
     {
@@ -787,7 +796,7 @@
       "rok": 2026,
       "elementy": 1038,
       "status": "dostepny",
-      "cena_katalogowa": null
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "21372",
@@ -55282,10 +55291,10 @@
     },
     {
       "numer": "40874",
-      "nazwa": "{?}",
+      "nazwa": "Świąteczne odliczanie Mikołaja",
       "rok": 2026,
       "status": "dostepny",
-      "cena_katalogowa": null
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "40875",

@@ -28,6 +28,11 @@
       "opis": "Najgłębsze rabaty roku; okno przecen otwiera się zwykle tydzień wcześniej."
     },
     {
+      "data": "2026-11-27",
+      "nazwa": "Premiera 21375 Godzilla (w Black Friday)",
+      "opis": "Zestaw wchodzi do sprzedaży w dniu Black Friday, więc tego dnia nie będzie przeceniony — nowość obok przecen. Własny gratis: odcisk stopy Godzilli i tile z Mothrą."
+    },
+    {
       "data": "2026-12-31",
       "nazwa": "Grudniowa fala wycofań",
       "opis": "Kilkanaście zestawów schodzi z oficjalnej sprzedaży — po tej dacie ceny rosną, nie spadają."
@@ -75,9 +80,10 @@
     {
       "tytul": "Black Friday 2026 na klockach: jak odróżnić rabat od pseudopromocji",
       "dzial": "Poradniki",
-      "okno": "2026-11-10..2026-11-24",
+      "okno": "2026-11-05..2026-11-20",
       "status": "planowane",
-      "dlaczego": "Największy ruch zakupowy roku i moment, w którym najłatwiej przepłacić. Nasza przewaga to liczony rabat od ceny katalogowej, a nie przepisana etykieta ze sklepu."
+      "dlaczego": "Największy ruch zakupowy roku i moment, w którym najłatwiej przepłacić. Nasza przewaga to liczony rabat od ceny katalogowej, a nie przepisana etykieta ze sklepu. Okno przesunięte o pięć dni w przód (radar 04.09): 21375 Godzilla ma premierę 27 listopada, czyli w sam Black Friday — zestaw debiutujący tego dnia z definicji nie będzie przeceniony, a stanie w witrynie obok przecen. Tekst musi wyjść przed premierą, żeby ostrzeżenie miało sens, a nie po niej.",
+      "hak": "Godzilla 21375 (5360 el., premiera 27.11 z własnym gratisem) jako konkretny, datowany przykład pozycji, która w Black Friday NIE jest okazją. Ceny katalogowej jeszcze nie ogłoszono — przed publikacją sprawdzić, bo bez niej nie policzymy rabatu ani jego braku."
     },
     {
       "tytul": "LEGO Super Mario od nowa: minifigurki zamiast elektroniki",

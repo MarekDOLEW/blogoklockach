@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-02"
+zaktualizowano: "2026-09-04"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -29,7 +29,9 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | **1.09** | Rozpoczęcie roku szkolnego – prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
 | ok. 17–27.09 | Batman Day (19.09): GWP + punkty Insiders | <span class="status status--maybe">przewidywane</span> |
 | **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
+| **1.10** (Insiders) / **4.10** | Pozostałe premiery października: 72306 PlayStation, 21371 Wallace i Gromit, fala świąteczna | <span class="status status--ok">potwierdzone</span> |
 | ok. 20.11–30.11 | Black Friday (27.11) i Cyber Monday (30.11) | <span class="status status--maybe">przewidywane</span> |
+| **27.11** | Premiera 21375 Godzilla – w sam Black Friday, więc bez przeceny | <span class="status status--ok">potwierdzone</span> |
 | XII | Promocje świąteczne + ostatnia szansa na [wycofywane zestawy](/wycofania/) | <span class="status status--maybe">przewidywane</span> |
 
 ## Sierpień/wrzesień: Back to Hogwarts (29.08–06.09) <span class="status status--ok">potwierdzone</span>
@@ -110,6 +112,20 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 
 **Czy warto czekać z innymi zakupami Star Wars?** Nie na sam Executor – to zestaw z zupełnie innej półki cenowej i nie wpływa na resztę oferty. Ale okna premierowe UCS bywają w LEGO.com łączone z podwójnymi punktami na całą serię, więc jeśli i tak planujesz coś z [Gwiezdnych wojen](/prezentowniki/lego-star-wars/), pierwszy tydzień października jest dobrym momentem, żeby sprawdzić warunki.
 
+### Październik to nie tylko Executor
+
+Tego samego dnia – **1 października dla Insiders, 4 października dla wszystkich** – wchodzi reszta fali. Trzy pozycje z potwierdzoną ceną katalogową:
+
+| Zestaw | Elementy | Cena katalogowa | Za element |
+|---|---|---|---|
+| [72306 PlayStation](/zestaw/72306/) | 1911 | 689,99 zł | ok. 0,36 zł |
+| [21371 Wallace i Gromit](/zestaw/21371/) | 1038 | 419,99 zł | ok. 0,40 zł |
+| [40874 Świąteczne odliczanie Mikołaja](/zestaw/40874/) | 873 | 249,99 zł | ok. 0,29 zł |
+
+Do tego rusza fala sezonowa: powiększona Pani Mikołajowa, Buddy z „Elfa", świąteczna skarpeta i kolejna [zimowa wioska](/zestaw/11387/). Części z tych zestawów LEGO nie podało jeszcze cen w złotych, więc ich tu nie zgadujemy – pojawią się w tabelach na podstronach, gdy tylko będą oficjalne.
+
+**Dlaczego to ma znaczenie dla kalendarza.** Zestaw sezonowy kupiony w październiku i zestaw sezonowy kupiony w grudniu to dwie różne transakcje: świąteczne pozycje LEGO mają krótkie okno sprzedaży i potrafią zniknąć przed świętami, a te, które zostaną, rzadko tanieją w grudniu. To jest odwrotność zasady „poczekaj do Black Friday", którą stosujemy przy zwykłych zestawach.
+
 W drugiej połowie miesiąca spodziewamy się jeszcze sezonowego gratisu halloweenowego <span class="status status--maybe">przewidywane</span>. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
 
 ## Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span>
@@ -124,6 +140,8 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
 
 Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat" wyglądał lepiej. My liczymy każdy rabat **od oficjalnej ceny katalogowej LEGO** – sprawdzisz to na podstronie każdego zestawu, a bieżące realne okazje znajdziesz na [stronie głównej](/).
+
+**Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5360 elementów) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. Ceny katalogowej LEGO jeszcze nie ogłosiło, więc dopóki jej nie poda, nikt – łącznie z nami – nie policzy, czy to dobra cena. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
 

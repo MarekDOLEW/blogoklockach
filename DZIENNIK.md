@@ -1448,3 +1448,53 @@ wcześniej, a czekanie nie dawało nic poza ryzykiem.
 
 **Zostaje z planu:** Wycofania grudnia 2026 (okno 1–20.10) i Black Friday —
 rabat kontra pseudopromocja (okno 10–24.11).
+
+---
+
+## 04.09.2026 — punkty 1–3 z radaru: fala października i haczyk Black Friday
+
+**Punkt 1 i 3 (dane).** Zweryfikowałem u źródeł październikową falę premier. Wpisane
+tylko to, co potwierdzone niezależnie w co najmniej dwóch miejscach:
+
+| Zestaw | Było | Jest |
+|---|---|---|
+| 72306 PlayStation | `cena_katalogowa: null` | **689,99 zł** (0,36 zł/el.) |
+| 21371 Wallace i Gromit | `null` | **419,99 zł** (0,40 zł/el.) |
+| 40874 Świąteczne odliczanie | `null` | **249,99 zł** (0,29 zł/el.) |
+| 11387 Zimowa wioska | `elementy: null` | **1354** |
+
+Miła kontrola własnej metody: nasze wcześniejsze szacunki z przelicznika euro
+(≈680, ≈420, ≈250 zł) trafiły co do kilku złotych w kwoty, które LEGO faktycznie
+ogłosiło. Przelicznik euro jako *szacunek oznaczony jako szacunek* działa.
+
+**Czego NIE wpisałem i dlaczego** — zapisane w `katalog.json` →
+`_meta.rozbieznosci_fala_pazdziernik_2026`:
+- **40865 Elf Buddy** — liczba elementów sporna: 713 (faniklockow) kontra 719
+  (zklockow). Żadnej nie przyjmuję.
+- **11379 Księgarnia Book Nook** — cena sprzeczna: „ok. 520 zł" kontra 559,96 zł.
+  Ta druga nie kończy się na „,99", więc to niemal na pewno wyliczenie
+  porównywarki, a nie cena katalogowa.
+- **40875, 40862, 40866, 11388, 11390, 21373** — po jednym źródle, w dodatku
+  samo oznaczonym jako plotka. Zostają puste.
+- 72306 nie ma wpisu w `katalog.json` (nowa seria „PlayStation") — hub działa
+  z `sety.json`. Dodanie serii do katalogu należy do Zwiadowcy, nie do Radaru.
+
+**Punkt 2 (Black Friday).** 21375 Godzilla ma premierę **27 listopada, czyli w sam
+Black Friday**, z własnym gratisem — potwierdzone w dwóch źródłach, cena wciąż
+nieznana. To zmienia planowany tekst z ogólnego wywodu w konkret: zestaw
+debiutujący w dniu BF z definicji nie jest przeceniony, a stoi obok przecen
+i korzysta z ich rozpędu.
+
+- okno tekstu przesunięte z `11-10..11-24` na **`11-05..11-20`**, żeby wyszedł
+  przed premierą, nie po niej; w planie dopisany hak i przypomnienie, żeby przed
+  publikacją sprawdzić cenę katalogową (bez niej nie policzymy rabatu ani jego braku);
+- do kotwic sezonu doszła data 27.11 z premierą Godzilli;
+- w `kalendarz-promocji-lego.md` — akapit w sekcji listopadowej („Nowość w Black
+  Friday nie jest okazją"), nowa sekcja „Październik to nie tylko Executor"
+  z tabelą trzech potwierdzonych cen, oraz dwa wiersze w ściądze.
+
+Sekcja październikowa mówiła dotąd wyłącznie o Executorze, choć tego samego dnia
+wchodzi cała reszta fali — to była realna dziura na stronie, która już rankuje.
+
+Build czysty, `kontrola-rrp.mjs` → ROZBIEŻNYCH: 0, wszystkie nowe linki żyją.
+`/nowosci/pazdziernik-2026/` podchwyciło ceny samo.
