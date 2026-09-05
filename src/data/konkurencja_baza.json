@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-04",
-    "przebieg": "scheduled 2026-09-04 08:00",
+    "ostatnia_aktualizacja": "2026-09-05",
+    "przebieg": "scheduled 2026-09-05 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 125,
+    "liczba_wpisow": 130,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -1495,6 +1495,66 @@
         "Media Expert"
       ],
       "notatki": "Wpis zbiorczy zgodnie z konwencja bazy. Dwa zestawy tego dnia, oba juz wielokrotnie ogrywane (10331 po raz szosty)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Jakie gratisy pojawia sie w sklepach LEGO w 2026 roku - aktualizowana lista promocji",
+      "url": "https://faniklockow.pl/2026/09/04/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-09-04",
+      "data_wykrycia": "2026-09-05",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "NAJWAZNIEJSZY WPIS TEGO PRZEBIEGU. Bezposredni konkurent naszego /kalendarz-promocji-lego/. Ich przewaga dzis: INSIDERS MEMBER DAY 9 WRZESNIA - podwojne punkty na City, Classic, Creator 3w1, Dreamzzz, Duplo, Friends, Ninjago, z wylaczeniem kalendarzy adwentowych City i Friends oraz 31394. Nasz kalendarz tej daty nie mial, a to cztery dni stad. Nie potwierdzilem jej u LEGO ani w porownywarkach, wiec wpisalem ja ze statusem 'przewidywane' i z jawnym zastrzezeniem o jednym zrodle. Nasza przewaga zostaje strukturalna: oni daja liste dat, my tlumaczymy, co z kazdej wynika przy zakupie (przy Member Day - ze podwojne punkty to ok. 5% zwrotu w punktach, czesto mniej niz zwykla przecena w sklepie zewnetrznym). Dodatkowo maja: 501172 Budka telefoniczna jako GWP dedykowany do 76476 (okno 29.08-6.09, juz zamkniete), zapowiedz dwoch gratisow swiatecznych i gratisu nieklockowego w grudniu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Koci domek Gabi",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-koci-domek-gabi/",
+      "data_publikacji": "2026-09-04",
+      "data_wykrycia": "2026-09-05",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, seria dla najmlodszych. Nasz Zwiadowca otworzyl rocznik 2027 tego samego dnia (commit 0dc94a6), wiec temat jest u nas obsluzony w danych. Do tekstu za wczesnie - premiery 2027 nie wplywaja na sezon XI-XII."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Cyfrowe klocki: czego fani budowania szukaja w Roblox",
+      "url": "https://fanklockow.pl/cyfrowe-klocki-czego-fani-budowania-szukaja-w-roblox/",
+      "data_publikacji": "2026-09-04",
+      "data_wykrycia": "2026-09-05",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Tekst poza tematyka klockow fizycznych - Roblox. Wyglada na material sponsorowany albo probe lapania ruchu z sasiedniej niszy. Nie idziemy tam: nasz serwis ma funkcje zakupowa przy klockach, a taki tekst nie prowadzi do zadnej decyzji o kupnie zestawu. Odnotowane jako sygnal, ze szukaja ruchu poza sezonem."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Podsumowanie LEGO IDEAS - sierpien 2026",
+      "url": "https://fanklockow.pl/podsumowanie-lego-ideas-sierpien-2026/",
+      "data_publikacji": "2026-09-04",
+      "data_wykrycia": "2026-09-05",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczne podsumowanie projektow z platformy LEGO Ideas. Material dla spolecznosci fanowskiej, nie zakupowy - projekty z Ideas to kandydaci, nie zestawy do kupienia. Poza naszym zakresem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 04.09.2026 (zbiorczo: 16 mikropostow w jednej dobie)",
+      "url": "https://faniklockow.pl/2026/09/04/okazja-cenowa-lotr-10316-rivendell-7/",
+      "data_publikacji": "2026-09-04",
+      "data_wykrycia": "2026-09-05",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy. SZESNASCIE mikropostow dealowych jednego dnia, wiekszosc w oknie 12:22-15:08 - to nie jest normalne tempo (poprzednie dni: 2). Miedzy innymi 10316 Rivendell, 76300 Arkham Asylum, 11389 Projekt Hail Mary, 11375 Ferrari F2004, 42240 Aston Martin F1, 21355, 77256, 77260, 76475, 60423, 60478, 60488, 71848, 42224, 42226, 42229, 43023. Sygnal: prawdopodobnie szeroki ruch cenowy u ktoregos ze sklepow (wyprzedaz poszkolna albo czyszczenie magazynu przed sezonem), a nie 16 niezaleznych okazji. Warte sprawdzenia przez Lowce - nasze tabele powinny to zlapac same, ale skala jest nietypowa."
     }
   ],
   "obserwacje_strategiczne": {

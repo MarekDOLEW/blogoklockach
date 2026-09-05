@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-04"
+zaktualizowano: "2026-09-05"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -27,6 +27,7 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | do 20.08 | GWP 40908 World Restaurants: Greece od 745 zł na LEGO.com | <span class="status status--trwa">trwa</span> |
 | 29.08–06.09 | Back to Hogwarts: podwójne GWP Harry Potter | <span class="status status--ok">potwierdzone</span> |
 | **1.09** | Rozpoczęcie roku szkolnego – prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
+| **9.09** | Insiders Member Day: podwójne punkty na 7 serii (bez kalendarzy adwentowych) | <span class="status status--maybe">przewidywane</span> |
 | ok. 17–27.09 | Batman Day (19.09): GWP + punkty Insiders | <span class="status status--maybe">przewidywane</span> |
 | **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
 | **1.10** (Insiders) / **4.10** | Pozostałe premiery października: 72306 PlayStation, 21371 Wallace i Gromit, fala świąteczna | <span class="status status--ok">potwierdzone</span> |
@@ -86,6 +87,16 @@ Pierwszy wariant przekracza próg o niecałe pięć złotych – jeśli któryś
 ## Wrzesień: pierwszy dzwonek – 1.09
 
 Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: prezent „na osłodę" końca wakacji. Przygotowaliśmy trzy gotowe przewodniki dla dzieci 4–12 lat, wszystkie z realnymi promocjami: [dla chłopca do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/), [dla dziewczynki do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/) i [rodzinny bez limitu](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) – z premierowymi zestawami [Pokémon](/serie/pokemon/) na czele.
+
+## Wrzesień: Insiders Member Day – 9.09 <span class="status status--maybe">przewidywane</span>
+
+Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi punktami** na siedem serii: [City](/serie/city/), Classic, [Creator 3 w 1](/serie/creator/), [DREAMZzz](/serie/dreamzzz/), [DUPLO](/serie/duplo/), [Friends](/serie/friends/) i [Ninjago](/serie/ninjago/).
+
+**Uczciwie o źródle:** mamy tę datę z jednego serwisu branżowego i nie znaleźliśmy jej potwierdzenia u LEGO, dlatego oznaczamy ją jako przewidywaną. Sam mechanizm jest jednak powtarzalny – dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy.
+
+**Jeden szczegół, który zmienia decyzję.** Z promocji mają być **wyłączone kalendarze adwentowe** City i Friends. Jeśli planowałeś kupić kalendarz przy okazji podwójnych punktów, to się nie uda – a jednocześnie [nasz ranking kalendarzy](/artykuly/ranking-kalendarze-adwentowe-lego-2026/) tłumaczy, dlaczego z tym zakupem i tak nie warto zwlekać do listopada. Te dwie rzeczy się nie kłócą: kalendarz kupujesz wcześnie mimo braku punktów, a podwójne punkty zbierasz na czymś innym.
+
+**Czy to argument, żeby czekać do 9 września?** Podwójne punkty to w praktyce około 5% wartości zamówienia zwróconej w punktach – realnie mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Jeśli kupujesz na LEGO.com i tak, poczekaj; jeśli porównujesz sklepy, sprawdź najpierw [tabelę cen na podstronie zestawu](/serie/).
 
 ## Wrzesień: Batman Day – 19.09 <span class="status status--maybe">przewidywane</span>
 
