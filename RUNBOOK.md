@@ -102,7 +102,7 @@ Klocków.
 
 ---
 
-## Typowanie deali *(ustalone 18.08.2026)*
+## Typowanie deali *(ustalone 18.08.2026, limit Allegro dodany 05.09.2026)*
 
 Deale dnia typujemy w **trzech półkach cenowych**: do 200 zł, 201–800 zł,
 801 zł i więcej.
@@ -114,6 +114,11 @@ z −50%).
 Slajder na stronie głównej:
 - sloty 1–3 — najlepszy rabat z każdej półki, od najdroższej
 - sloty 4–5 — dzikie karty wg samego rabatu
+- **Allegro maks. 2 z 5 slotów** (od 05.09.2026): marketplace wygrywa ceną
+  niemal każdy slot, a karuzela ma pokazywać też sklepy z własnym magazynem.
+  Po wyczerpaniu limitu slot dostaje najlepszą ofertę spoza Allegro — z ceną
+  i rabatem tego sklepu (nadal ≥15%); set bez takiej oferty odpada ze slotu.
+  Logika w `src/pages/index.astro` (LIMIT_ALLEGRO).
 
 Raporty Łowcy pokazują czołówkę osobno dla każdej półki.
 

@@ -39,7 +39,6 @@ const POLKI = [
   { klucz: 'sredni', etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
   { klucz: 'budzet', etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
 ];
-const polkaSetu = (s) => POLKI.find((p) => p.pasuje(najlepszaCena(s)));
 
 // ziarno z daty – skład stały w ciągu dnia, inny każdego dnia (build odpala się przy każdym pushu)
 const dzisiaj = new Date().toISOString().slice(0, 10);
@@ -57,34 +56,60 @@ const noweMinimumDzis = (s) =>
 
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const kandydaciSlajdera = zRabatem.filter((s) => s.foto);
-const dealeDnia = [];
+
+// Allegro nie może zdominować karuzeli: maks. 2 z 5 slajdów z linkiem do Allegro
+// (ustalenie z 05.09.2026 – marketplace wygrywa ceną niemal każdy slot, a karuzela
+// jest wizytówką serwisu i ma pokazywać też sklepy z własnym magazynem).
+// Po wyczerpaniu limitu slot dostaje najlepszą ofertę SPOZA Allegro – pokazywaną
+// z ceną i rabatem tego sklepu (nadal ≥15%, żeby nie promować pseudopromocji);
+// set bez takiej oferty odpada z dalszych slotów.
+const LIMIT_ALLEGRO = 2;
+let uzyteAllegro = 0;
+const rabatOferty = (s, o) => Math.round((1 - o.cena / s.cena_katalogowa) * 100);
+const najtanszaSpozaAllegro = (s) =>
+  s.oferty.filter((o) => o.sklep !== 'allegro').reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
+const paraDealu = (s) => {
+  const naj = najtanszaOferta(s);
+  if (naj.sklep !== 'allegro' || uzyteAllegro < LIMIT_ALLEGRO) return { set: s, oferta: naj };
+  const alt = najtanszaSpozaAllegro(s);
+  return alt && rabatOferty(s, alt) >= 15 ? { set: s, oferta: alt } : null;
+};
+
+const dealeDnia = []; // pary { set, oferta }
 const naSerie = {};
-const wez = (s) => {
-  dealeDnia.push(s);
-  naSerie[s.seria] = (naSerie[s.seria] ?? 0) + 1;
+const wez = (para) => {
+  if (!para) return;
+  dealeDnia.push(para);
+  naSerie[para.set.seria] = (naSerie[para.set.seria] ?? 0) + 1;
+  if (para.oferta.sklep === 'allegro') uzyteAllegro += 1;
 };
 const losowyZ = (lista) => lista[Math.floor(los() * lista.length)] ?? null;
+const juzWSlajderze = (s) => dealeDnia.some((d) => d.set === s);
 for (const polka of POLKI) {
-  const wPolce = kandydaciSlajdera.filter((s) => polka.pasuje(najlepszaCena(s)) && !dealeDnia.includes(s));
+  const wPolce = kandydaciSlajdera
+    .filter((s) => !juzWSlajderze(s))
+    .map(paraDealu)
+    .filter((p) => p && polka.pasuje(p.oferta.cena));
   if (!wPolce.length) continue;
-  const swieze = wPolce.filter(noweMinimumDzis);
-  const czolowka = wPolce.filter((s) => rabat(s) >= rabat(wPolce[0]) - 8).slice(0, 5);
+  const swieze = wPolce.filter((p) => noweMinimumDzis(p.set) && p.oferta.cena === najlepszaCena(p.set));
+  const czolowka = wPolce
+    .filter((p) => rabatOferty(p.set, p.oferta) >= rabatOferty(wPolce[0].set, wPolce[0].oferta) - 8)
+    .slice(0, 5);
   wez(losowyZ(swieze.length ? swieze.slice(0, 5) : czolowka));
 }
 // dzikie karty: seedowane losowanie z 10 najwyższych pozostałych rabatów
-const rezerwa = kandydaciSlajdera.filter((s) => !dealeDnia.includes(s)).slice(0, 10);
+const rezerwa = kandydaciSlajdera.filter((s) => !juzWSlajderze(s)).slice(0, 10);
 while (dealeDnia.length < 5 && rezerwa.length) {
-  const kandydaci = rezerwa.filter((s) => (naSerie[s.seria] ?? 0) < 2);
+  const kandydaci = rezerwa.map(paraDealu).filter((p) => p && (naSerie[p.set.seria] ?? 0) < 2);
   if (!kandydaci.length) break;
-  const s = losowyZ(kandydaci);
-  rezerwa.splice(rezerwa.indexOf(s), 1);
-  wez(s);
+  const p = losowyZ(kandydaci);
+  rezerwa.splice(rezerwa.indexOf(p.set), 1);
+  wez(p);
 }
-const dealDnia = dealeDnia[0] ?? null;
 
 // ── „Dziś w dobrej cenie": do 12 setów kolekcjonerskich + po ≤10 z 12 losowych serii ──
 // (korzysta z tego samego seedowanego `los` co slajder – zdefiniowany wyżej)
-const wSlajderze = new Set(dealeDnia.map((s) => s.nr));
+const wSlajderze = new Set(dealeDnia.map((d) => d.set.nr));
 const pula = zRabatem.filter((s) => !wSlajderze.has(s.nr));
 const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 12);
 
@@ -187,8 +212,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   {dealeDnia.length > 0 && (
     <section class="deale-slajder karta" aria-roledescription="karuzela" aria-label="Deale dnia">
       <div class="slajder-tor" data-slajder-tor tabindex="0">
-        {dealeDnia.map((deal, i) => {
-          const oferta = najtanszaOferta(deal);
+        {dealeDnia.map(({ set: deal, oferta }, i) => {
           return (
             <article class="deal-dnia slajd" role="group" aria-roledescription="slajd" aria-label={`${i + 1} z ${dealeDnia.length}`}>
               <a class="foto-okno deal-foto" href={`/zestaw/${deal.nr}/`}>
@@ -205,16 +229,20 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
                   Deal dnia · {new Date().toLocaleDateString('pl-PL')}
                   {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
-                  {polkaSetu(deal) && <span class="slajd-polka">{polkaSetu(deal).etykieta}</span>}
+                  {POLKI.find((p) => p.pasuje(oferta.cena)) && (
+                    <span class="slajd-polka">{POLKI.find((p) => p.pasuje(oferta.cena)).etykieta}</span>
+                  )}
                 </span>
                 <h2 class="deal-tytul">LEGO {deal.nr} {deal.nazwa}</h2>
                 <div class="cena-duza">
-                  {fmtCena(najlepszaCena(deal))}
+                  {fmtCena(oferta.cena)}
                   <small>{fmtCena(deal.cena_katalogowa)}</small>
                 </div>
                 <div class="deal-badges">
-                  <span class="badge-rabat">−{rabat(deal)}% od ceny katalogowej</span>
-                  {noweMinimumDzis(deal) && <span class="badge-najnizsza">nowe minimum cenowe</span>}
+                  <span class="badge-rabat">−{rabatOferty(deal, oferta)}% od ceny katalogowej</span>
+                  {noweMinimumDzis(deal) && oferta.cena === najlepszaCena(deal) && (
+                    <span class="badge-najnizsza">nowe minimum cenowe</span>
+                  )}
                 </div>
                 <div class="deal-meta">
                   <span><strong>{deal.elementy}</strong> elementów</span>
@@ -240,7 +268,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
           <button type="button" class="slajder-strzalka slajder-strzalka--wstecz" data-slajder="wstecz" aria-label="Poprzedni deal">‹</button>
           <button type="button" class="slajder-strzalka slajder-strzalka--dalej" data-slajder="dalej" aria-label="Następny deal">›</button>
           <div class="slajder-kropki" role="tablist" aria-label="Wybierz deal">
-            {dealeDnia.map((deal, i) => (
+            {dealeDnia.map(({ set: deal }, i) => (
               <button
                 type="button"
                 class={`slajder-kropka${i === 0 ? ' slajder-kropka--aktywna' : ''}`}
