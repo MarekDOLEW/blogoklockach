@@ -88,8 +88,11 @@ const esc = (t) =>
 // ── zapowiedzi: zestaw przed premierą nie dostaje tabeli „aktualnych cen" ──
 // Ta sama zasada co na hubie /zestaw/[nr]/: dopóki zestawu nie ma w sklepach,
 // wiersz LEGO.com z ceną katalogową i przyciskiem „Sprawdź w sklepie" prowadzi
-// donikąd, a nagłówek „Aktualne ceny" mówi nieprawdę. Zamiast tabeli zostaje
-// notka o zapowiedzi; po premierze ten sam znacznik wypełni się sam.
+// donikąd, a nagłówek „Aktualne ceny" mówi nieprawdę. Znacznik nie zostawia
+// wtedy NICZEGO w treści (decyzja Marka 06.09: powtórzona kilkanaście razy
+// notka rozbijała tekst) — informację o tym, że tabele wypełnią się po
+// premierze, artykuł podaje raz, na końcu. Po premierze ten sam znacznik
+// zamienia się w tabelę cen bez żadnej zmiany w markdownie.
 // Datę premiery bierzemy z sety.json („2026-10"), a gdy zestawu tam jeszcze
 // nie ma – z metryki karty redakcyjnej („1 października 2026").
 const MIESIACE = {
@@ -106,11 +109,6 @@ function premieraSetu(nr) {
 
 const dzis = new Date();
 const BIEZACY_MIESIAC = `${dzis.getFullYear()}-${String(dzis.getMonth() + 1).padStart(2, '0')}`;
-
-const notkaZapowiedzi = (premiera) =>
-  '<p class="karta" style="padding: 14px 18px; margin: 18px 0;">' +
-  `<strong>Zapowiedź:</strong> premiera ${esc(premiera)}. ` +
-  'Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.</p>';
 
 const UWAGA_SKLEP = {
   mediaexpert: 'w sklepie bywają kody rabatowe – może być jeszcze taniej',
@@ -133,7 +131,7 @@ function tabela(nr) {
   const rabat = (c) => Math.round((1 - c / rrp) * 100);
 
   const oferty = polaczOferty(nr);
-  if (wkrotce && oferty.length === 0) return notkaZapowiedzi(premiera);
+  if (wkrotce && oferty.length === 0) return '';
   const zLego =
     dodajLego && !oferty.some((o) => o.sklep === 'lego') && rrp ? [{ sklep: 'lego', cena: rrp, data: null }] : [];
   const wszystkie = [...oferty, ...zLego];
@@ -202,7 +200,8 @@ export default function remarkCeny() {
         wezel.value = wezel.value.replace(ZNACZNIK, (_, nr) => {
           const html = tabela(nr);
           if (!html) {
-            console.warn(`[remark-ceny] brak ofert dla ${nr} – pomijam tabelę (${plik?.path ?? '?'})`);
+            const powod = premieraSetu(nr) > BIEZACY_MIESIAC ? 'przed premierą' : 'brak ofert';
+            console.warn(`[remark-ceny] ${powod} dla ${nr} – pomijam tabelę (${plik?.path ?? '?'})`);
           }
           return html;
         });

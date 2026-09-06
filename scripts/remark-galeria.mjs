@@ -22,6 +22,7 @@ const zdjeciaMapa = czytaj('zdjecia.json');
 const galerie = czytaj('galerie.json');
 const redirects = czytaj('redirects.json');
 const katalog = czytaj('katalog.json');
+const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 
 const wycofaniaIdx = new Map(wycofania.map((w) => [w.numer, w]));
@@ -57,7 +58,7 @@ const numeryHubow = (() => {
     if (maCeneZFeedu(feed[nr]) || maLinkGdziekolwiek(nr)) numery.add(nr);
   }
   for (const s of katalogIdx.values()) {
-    if (s.status === 'dostepny' && s.cena_katalogowa) numery.add(s.numer);
+    if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
   }
   return numery;
 })();

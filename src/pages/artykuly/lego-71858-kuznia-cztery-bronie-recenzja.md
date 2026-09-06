@@ -4,6 +4,7 @@ title: "LEGO NINJAGO 71858 Kuźnia Cztery Bronie – jubileuszowy powrót do poc
 opis: "1259 elementów, sześć minifigurek i miejsce, od którego zaczęło się NINJAGO. Recenzja zestawu na 15-lecie: bardzo dobre budowanie, ciasne wnętrza i cena, przy której warto poczekać. Próg zakupu: ok. 300 zł."
 data: "2026-08-25"
 kategoria: "Recenzje"
+zestawy: ["71858"]
 okladka: "71858"
 faq:
   - q: "Ile kosztuje LEGO NINJAGO 71858?"

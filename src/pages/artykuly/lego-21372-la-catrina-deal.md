@@ -4,6 +4,7 @@ title: "LEGO 21372 La Catrina za 359,90 zł na Amazonie – −31% na świeżej 
 opis: "Sierpniowa nowość z serii Ideas przeceniona o 160 zł już kilka dni po debiucie. Sprawdzamy, czy to okazja i dla kogo jest ten zestaw."
 data: "2026-08-11"
 kategoria: "Premiery"
+zestawy: ["21372"]
 ---
 
 Rzadko się zdarza, żeby zestaw taniał o niemal jedną trzecią **w miesiącu premiery** – a dokładnie to spotkało La Catrinę. Amazon wycenił sierpniową nowość Ideas na **359,90 zł** przy cenie katalogowej **519,99 zł**, czyli o 40–90 zł taniej niż w pozostałych sklepach.

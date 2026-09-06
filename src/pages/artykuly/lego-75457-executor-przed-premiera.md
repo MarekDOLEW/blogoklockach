@@ -5,6 +5,7 @@ opis: "Największy Star Wars w historii LEGO wchodzi do sprzedaży 1 październi
 data: "2026-09-02"
 zaktualizowano: "2026-09-02"
 kategoria: "Premiery"
+zestawy: ["75457"]
 faq:
   - q: "Kiedy 75457 Executor trafia do sprzedaży?"
     a: "1 października 2026 dla członków programu LEGO Insiders i 4 października dla wszystkich pozostałych. To nie jest przedsprzedaż z rezerwacją, tylko zwykła sprzedaż uruchomiona trzy dni wcześniej dla jednej grupy. Konto Insiders trzeba mieć założone przed 1 października – zakładanie go w dniu premiery mija się z celem."

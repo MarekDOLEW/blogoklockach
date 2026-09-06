@@ -118,6 +118,20 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
   letter-spacing: 0.06em; text-transform: uppercase;
   padding: 3px 10px; border-radius: 999px;
 }
+.badge-artykul {
+  display: inline-block; margin-left: 8px; vertical-align: 2px;
+  background: var(--zolty); color: var(--granat); text-decoration: none;
+  font-weight: 700; font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 999px; white-space: nowrap;
+}
+.badge-artykul:hover { background: var(--granat); color: var(--zolty); }
+
+/* Odsyłacz do naszego tekstu o zestawie – nad tabelą cen na hubie /zestaw/. */
+.odsylacz-artykul { padding: 12px 16px; margin: 18px 0; border-left: 4px solid var(--zolty); }
+.odsylacz-artykul a { text-decoration: none; color: var(--granat); font-weight: 700; }
+.odsylacz-artykul a:hover .odsylacz-artykul__tytul { border-bottom-color: var(--granat); }
+.odsylacz-artykul__tytul { border-bottom: 2px solid var(--zolty); }
+.odsylacz-artykul .badge-seria { margin-right: 8px; font-weight: 700; }
 .badge-ex { display: inline-block; background: var(--granat); color: var(--zolty); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 .badge-wkrotce { display: inline-block; background: var(--zolty); color: var(--granat); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 

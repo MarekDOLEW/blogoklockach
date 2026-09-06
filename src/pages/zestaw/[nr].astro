@@ -9,6 +9,7 @@ import karty from '../../data/karty_setow.json';
 import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
+import { artykulyZestawu } from '../../lib/artykuly-setow.js';
 import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
 
 export function getStaticPaths() {
@@ -45,6 +46,9 @@ const foto =
 // o secie, który LEGO wciąż sprzedaje), więc stoi na końcu
 // Karta katalogowo-sprzedażowa (redakcja) – pełny opis pod tabelą cen.
 const karta = karty[nr] ?? null;
+// Nasze teksty o tym zestawie (recenzja, zapowiedź, porównanie) – linkujemy je
+// nad tabelą cen, bo to informacja potrzebna PRZED decyzją zakupową.
+const naszeArtykuly = artykulyZestawu(nr);
 // Zdjęcia slajdera: /img/<nr>-N.jpg serwuje worker z galerie.json
 const galeriaSlajder = galerie[nr] ?? [];
 // Gdy jest karta, generowany opis ustępuje – inaczej te same fakty pojawiłyby
@@ -204,6 +208,19 @@ const opisMeta = najlepsza
         )}
       </div>
     </div>
+
+    {naszeArtykuly.length > 0 && (
+      <p class="karta odsylacz-artykul">
+        {naszeArtykuly.map((a, i) => (
+          <a href={a.url}>
+            <span class="badge-seria">{a.etykieta}</span>
+            <span class="odsylacz-artykul__tytul">{a.tytul}</span>
+            <span aria-hidden="true"> →</span>
+            {i < naszeArtykuly.length - 1 && <br />}
+          </a>
+        ))}
+      </p>
+    )}
 
     {zdj?.galeria?.length > 0 && (
       <section class="sekcja" style="margin-top:20px">

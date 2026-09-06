@@ -14,6 +14,7 @@
 // wyraźnie niższa – tak widać, że promocja jest prawdziwa.
 
 import { fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
+import { artykulZestawu } from '../lib/artykuly-setow.js';
 
 // Wiersz nie niesie nazwy sklepu przy linku „Sprawdź cenę", ale ścieżka
 // przekierowania ma postać /idz/<sklep>/<numer> – bierzemy sklep stamtąd,
@@ -85,6 +86,11 @@ const meta = (w) =>
               <span class="set-nazwa">
                 {w.hub ? <a href={`/zestaw/${w.numer}/`}>{w.nazwa}</a> : w.nazwa}
               </span>
+              {artykulZestawu(w.numer) && (
+                <a class="badge-artykul" href={artykulZestawu(w.numer).url} title={artykulZestawu(w.numer).tytul}>
+                  {artykulZestawu(w.numer).etykieta}
+                </a>
+              )}
               {w.opis && <span class="set-opis">{w.opis}</span>}
               <span class="set-meta">{meta(w)}</span>
             </td>

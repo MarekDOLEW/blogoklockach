@@ -229,4 +229,6 @@ I chyba właśnie to jest najważniejsza wiadomość związana ze styczniową pr
 
 Co jeszcze wiadomo o przyszłorocznych premierach, zbieramy w [zapowiedziach na 2027](/zapowiedzi-lego-2027/).
 
+> **Zapowiedź: premiera 1 stycznia 2027.** Żaden z ośmiu zestawów nie jest jeszcze w sprzedaży, więc nie ma czego porównywać – w tekście podajemy wyłącznie ceny katalogowe. Gdy zestawy trafią do sklepów, przy każdym z nich pojawi się w tym artykule porównanie cen, które odświeża się razem z cenami w serwisie.
+
 <p class="drobne">Zestawy pokazano oficjalnie podczas prezentacji LEGO na targach Gamescom 2026 w Kolonii – to potwierdzona zapowiedź, nie przeciek. Numery, nazwy, liczby elementów i polskie ceny katalogowe pochodzą z materiałów Grupy LEGO oraz z kart zestawów w serwisie Brickset. Informacja o wycofaniu interaktywnej linii do końca 2026 pochodzi z branżowych zestawień wycofań i nie została potwierdzona osobnym komunikatem Grupy LEGO. Tabele cen w tekście uzupełnią się same po wejściu zestawów do sprzedaży.</p>

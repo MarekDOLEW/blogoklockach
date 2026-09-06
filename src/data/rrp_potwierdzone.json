@@ -4076,5 +4076,25 @@
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
     "zaktualizowano": "2026-08-28"
+  },
+  "40862": {
+    "cena": 54.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40865": {
+    "cena": 169.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40866": {
+    "cena": 124.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40875": {
+    "cena": 249.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
   }
 }

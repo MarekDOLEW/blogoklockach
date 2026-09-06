@@ -16,6 +16,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import redirects from '../data/redirects.json';
 import wycofaniaDane from '../data/wycofania.json';
 import katalogCaly from '../data/katalog.json';
+import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
 import { wpisKatalogu } from './katalog.js';
 
 const feed = ofertyFeed?.sety ?? {};
@@ -41,11 +42,14 @@ function policzHuby() {
     if (maCeneZFeedu(feed[nr]) || maLinkGdziekolwiek(nr)) numery.add(nr);
   }
   // sety w sprzedaży ze znaną ceną katalogową – hub pokaże przynajmniej
-  // wiersz LEGO.com (backfill cen katalogowych poszerza tę pulę z każdą partią)
+  // wiersz LEGO.com (backfill cen katalogowych poszerza tę pulę z każdą partią).
+  // Cena z rejestru potwierdzonych liczy się tak samo jak ta z katalogu: to
+  // nadal znana cena katalogowa, tylko wprowadzona ręcznie, a bez tego zestaw
+  // z potwierdzonym RRP zostawał bez podstrony (przypadek 40862/40865/40866).
   for (const [seria, lista] of Object.entries(katalogCaly)) {
     if (seria === '_meta' || !Array.isArray(lista)) continue;
     for (const s of lista) {
-      if (s.status === 'dostepny' && s.cena_katalogowa) numery.add(s.numer);
+      if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
     }
   }
   return numery;

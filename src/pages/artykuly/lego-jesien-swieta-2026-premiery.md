@@ -263,4 +263,6 @@ Nie wszystkie te zestawy będą równie dobrym zakupem. Przy części z nich cen
 
 Na razie jedno można powiedzieć dość pewnie: od października do listopada 2026 roku nie zabraknie nowych LEGO do obserwowania – niezależnie od tego, czy ktoś zbiera świąteczne dekoracje, minifigurki, Pokémony, klasyczne licencje czy największe modele dla dorosłych.
 
+> **Zapowiedź: premiery od 1 października do listopada 2026.** Część zestawów jest już w przedsprzedaży i przy tych znajdziesz w tekście porównanie cen. Przy pozostałych tabela pojawi się sama, gdy tylko trafią do sklepów – do tego czasu jedyną znaną kwotą jest cena katalogowa podana w opisie.
+
 <p class="drobne">Daty premier, numery, liczby elementów i ceny katalogowe pochodzą z oficjalnych materiałów Grupy LEGO oraz z kart zestawów w serwisie Brickset. Zestawy 11379 i Godzilla LEGO Ideas świadomie pominęliśmy – nie mają jeszcze pełnych oficjalnych danych, a pojedyncze źródło to dla nas zapowiedź niepotwierdzona, nie fakt. Tabele cen w tekście odświeżają się razem z cenami w serwisie; przy zestawach, które nie weszły jeszcze do sprzedaży, pojawią się po pierwszych ofertach sklepów.</p>

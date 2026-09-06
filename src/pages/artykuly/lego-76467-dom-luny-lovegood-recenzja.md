@@ -4,6 +4,7 @@ title: "LEGO 76467 Dom Luny Lovegood – wreszcie coś innego niż kolejny kawa�
 opis: "Pierwszy oficjalny Dom Lovegoodów: 764 elementy, 5 minifigurek z debiutującym Ksenofiliusem i projektor Opowieści o Trzech Braciach. Recenzja + progi cenowe: przy 299 zł to bardzo dobra oferta."
 data: "2026-08-20"
 kategoria: "Recenzje"
+zestawy: ["76467"]
 faq:
   - q: "Ile kosztuje LEGO 76467 Dom Luny Lovegood?"
     a: "Cena katalogowa to 419,99 zł, ale w sklepach internetowych zestaw bywa już w okolicach 299 zł (−29%). Naszym zdaniem dobry próg zakupu to 315–320 zł, a oferty poniżej 300 zł można traktować jako bardzo dobre."

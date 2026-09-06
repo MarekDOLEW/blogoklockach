@@ -4,6 +4,7 @@ title: "LEGO 31168 Średniowieczny zamek rycerzy konnych – zamek to dopiero po
 opis: "Creator 3 w 1: duży zamek, turniej rycerski i średniowieczne miasteczko z jednego pudełka. 1371 elementów, 6 minifigurek. Recenzja + progi cenowe: 380 zł to dobry próg zakupu."
 data: "2026-08-20"
 kategoria: "Recenzje"
+zestawy: ["31168"]
 faq:
   - q: "Ile kosztuje LEGO 31168?"
     a: "Cena katalogowa to 519,99 zł, ale realne ceny sklepowe są dużo niższe – zestaw regularnie chodzi poniżej 400 zł. Około 380 zł to dobry próg zakupu, a 350–360 zł jest już bardzo dobrą ceną."
