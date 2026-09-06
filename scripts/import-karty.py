@@ -40,6 +40,13 @@ def czytaj(nazwa):
         return json.load(f, object_pairs_hook=collections.OrderedDict)
 
 # ---------- parsowanie DOCX ----------
+# Paczka P07 (09.2026) nie ma stylow akapitowych - naglowki sekcji sa wylacznie
+# formatowaniem bezposrednim: pogrubienie, kolor 1F4E78, rozmiar 26. Sprawdzone
+# na 75 plikach: dokladnie trzy takie akapity na plik. Starsze paczki maja
+# pStyle=Heading* i ta sciezka zostaje nietknieta.
+NAGLOWEK_KOLOR = '1F4E78'
+NAGLOWEK_SZ = '26'
+
 def akapity_docx(path):
     with zipfile.ZipFile(path) as z:
         root = ET.fromstring(z.read('word/document.xml'))
@@ -48,6 +55,11 @@ def akapity_docx(path):
         st = p.find('.//' + W + 'pStyle')
         styl = st.get(W + 'val') if st is not None else ''
         txt = ''.join(t.text or '' for t in p.iter(W + 't')).strip()
+        if not styl:
+            kolory = {c.get(W + 'val') for c in p.iter(W + 'color')}
+            rozmiary = {s.get(W + 'val') for s in p.iter(W + 'sz')}
+            if NAGLOWEK_KOLOR in kolory and NAGLOWEK_SZ in rozmiary:
+                styl = 'Heading2'
         if txt:
             out.append((styl, txt))
     return out
@@ -128,10 +140,22 @@ def slug_serii(seria):
 # ---------- transformacje ----------
 def typografia(t):
     # Serwis używa półpauzy (decyzja Marka 31.08.2026); DOCX-y Piotra niosą pauzę.
-    return t.replace('\u2014', '\u2013')
+    t = t.replace('\u2014', '\u2013')
+    # Paczka P07 (09.2026) przeszła na dywiz w roli myślnika zdaniowego.
+    # Zamieniamy WYŁĄCZNIE dywiz otoczony spacjami; dywizy w wyrazach
+    # złożonych i w nazwach zestawów („Król Lew - młody Simba”, „e-tron”)
+    # zostają nietknięte.
+    t = re.sub(r'(?<=\s)-(?=\s)', '\u2013', t)
+    # ta sama paczka zapisuje ceny z kropką dziesiętną („869.99 zł”);
+    # serwis konsekwentnie używa przecinka.
+    return re.sub(r'(?<=\d)\.(?=\d{2}\s*zł)', ',', t)
 
 def linkuj(t, seria_repo, slug, seria_ma_strone=True):
     t = typografia(t)
+    # Paczka P07 (09.2026) zapisuje placeholdery z dywizem zamiast polpauzy
+    # („[... - link wewnetrzny]”). Normalizujemy WYLACZNIE wewnatrz placeholdera,
+    # zeby nie ruszac dywizow w nazwach zestawow.
+    t = re.sub(r'\s-\s(link wewnętrzny\])', ' \u2013 \1', t)
     s = seria_repo
     t = re.sub(r'\[sprawdź aktualne ceny LEGO \d+ – link wewnętrzny\]',
                '<a href="#ceny">zobacz tabelę cen nad tym opisem</a>', t)
@@ -275,6 +299,15 @@ def main():
         if nazwa.replace("'", '’') != m['Nazwa'].replace("'", '’').replace('™', '').strip():
             ostrz.append((nr, f'nazwa: Piotr „{m["Nazwa"]}” → kanoniczna „{nazwa}”'))
         m['Nazwa'] = nazwa
+        # Liczba elementów: repo (katalog + Brickset) rozstrzyga nad DOCX-em,
+        # inaczej metryka karty przeczyłaby danym huba nad nią.
+        if k and k.get('elementy') and el and k['elementy'] != el:
+            m['Liczba elementów'] = str(k['elementy'])
+        # 445 wcześniejszych kart zapisuje liczbę elementów bez separatora
+        # tysięcy („1313”); paczka P07 wstawia spację. Ujednolicamy do formatu
+        # rejestru, żeby metryka wyglądała tak samo na wszystkich stronach.
+        if m.get('Liczba elementów'):
+            m['Liczba elementów'] = re.sub(r'[\s\u00a0]', '', m['Liczba elementów'])
         log = []
         pow = m.get('Powiązanie')
         seria_ma_strone = seria_repo in ctx['kat']
