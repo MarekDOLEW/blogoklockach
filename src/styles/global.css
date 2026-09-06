@@ -589,6 +589,21 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .prose h2 .status { font-size: 0.7rem; }
 
 /* drobna nota (źródła, zastrzeżenia) na końcu artykułu */
+/* Nazwa zestawu w treści – granat i bold, żółte podkreślenie gdy prowadzi na hub.
+   Ta sama para kolorów co w tabelach zestawów, więc nazwa wygląda wszędzie tak samo.
+   Znaczniki wstawia scripts/remark-nazwy-setow.mjs; ręczne linki do /zestaw/
+   wpisane w markdownie dostają ten sam wygląd. */
+.prose a.set-ref,
+.prose a[href^="/zestaw/"] {
+  color: var(--granat); font-weight: 700; text-decoration: none;
+  border-bottom: 2px solid var(--zolty);
+}
+.prose a.set-ref:hover,
+.prose a[href^="/zestaw/"]:hover { border-bottom-color: var(--granat); }
+.prose strong.set-ref { color: var(--granat); font-weight: 700; }
+/* w tabeli artykułu podkreślenie zjadałoby wiersz – zostaje sam granat i bold */
+.prose td a.set-ref, .prose th a.set-ref { border-bottom-width: 1px; }
+
 .prose .drobne { font-size: 0.84rem; color: var(--granat-60); border-top: 1px solid var(--linia); padding-top: 14px; margin-top: 2.2em; }
 
 /* ---------- Artykuł: ramka „skompletuj kolekcję" (blockquote w treści) ----------

@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import remarkGaleria from './scripts/remark-galeria.mjs';
 import remarkCeny from './scripts/remark-ceny.mjs';
+import remarkNazwySetow from './scripts/remark-nazwy-setow.mjs';
 
 // ── Które podstrony zestawów zgłaszamy Google ────────────────────────────────
 //
@@ -65,6 +66,8 @@ export default defineConfig({
   integrations: [sitemap({ filter: doSitemapy })],
   // Znacznik <div class="galeria-setow" data-sety="…"> w markdownie zamienia się
   // przy budowaniu na slajder zdjęć zestawów (scripts/remark-galeria.mjs).
-  markdown: { remarkPlugins: [remarkGaleria, remarkCeny] },
+  // remarkNazwySetow stoi na końcu: pracuje na tekście, a dwa poprzednie
+  // wstawiają gotowy HTML, którego nie rusza.
+  markdown: { remarkPlugins: [remarkGaleria, remarkCeny, remarkNazwySetow] },
   build: { inlineStylesheets: 'auto' }
 });
