@@ -27,6 +27,7 @@ Korekty szablonu mail-merge (pola w dopełniaczu po "są/tworzą"):
 Użycie:
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --sucho     # raport
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --nadpisz  # zastąp istniejące
+  python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --krotkie  # dopuść 1 akapit opisu
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>...          # zapis
 """
 import json, re, sys, zipfile, glob, os, collections, tempfile
@@ -253,6 +254,10 @@ def main():
     # paczki. Domyslnie karta raz wgrana jest chroniona przed przypadkowym
     # nadpisaniem przy powtornym puszczeniu importu na tym samym katalogu.
     nadpisz = '--nadpisz' in sys.argv
+    # --krotkie: swiadome wgranie kart z jednym akapitem opisu. Prog dwoch
+    # akapitow zostaje domyslnie, bo obciety plik wyglada tak samo jak krotka
+    # karta — roznice rozstrzyga czlowiek, nie skrypt.
+    krotkie = '--krotkie' in sys.argv
     if not argv:
         print(__doc__); sys.exit(1)
     pliki = []
@@ -276,8 +281,11 @@ def main():
     nowe = collections.OrderedDict(); blokady = []; ostrz = []
     for p in pliki:
         d = parsuj(p); nr = d['nr']; m = d['metryka']
-        if not nr or len(d['akapity']) < 2 or len(d['faq']) < 3 or len(m) < 6:
+        min_akapitow = 1 if krotkie else 2
+        if not nr or len(d['akapity']) < min_akapitow or len(d['faq']) < 3 or len(m) < 6:
             blokady.append((d['plik'], 'niekompletna struktura DOCX')); continue
+        if len(d['akapity']) < 2:
+            ostrz.append((nr, f'tylko {len(d["akapity"])} akapit opisu – wgrane przez --krotkie'))
         if nr in karty:
             if not nadpisz:
                 ostrz.append((nr, 'karta już istnieje – pominięta (--nadpisz zastąpi)')); continue
