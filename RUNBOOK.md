@@ -446,6 +446,19 @@ Osobna pułapka z tego samego dnia: seria **`tbd`** to NIE jest szum — to
 zestaw, któremu Brickset nie przypisał jeszcze motywu, czyli najświeższy
 z możliwych. Tak zgubiłem 72306 (replika PlayStation 1, 1911 elementów, 18+).
 
+**Ta sama pułapka na poziomie kategorii** *(6.09.2026)*: wartość
+**`{t.b.a.}`** w polu `category` też NIE jest szumem. Znaczy „kategorii
+jeszcze nie nadano" — czyli rekord założony przed chwilą. Filtr
+`category in ('Normal','Collection')` wycina te rekordy, a to są dokładnie
+te, których Scout szuka. 5.09 policzyłem tak rocznik 2027 na 222 rekordy
+zamiast 224; tego samego dnia oba pominięte numery (11227, 11229) ruszyły
+się w katalogu.
+
+Reguła po poprawce: **odsiewaj po tym, co jest szumem** (`Gear`, `Book`,
+`Extended`, `Other`, `Random`), a nie po tym, co uznajesz za realne.
+Wszystko inne — łącznie z `{t.b.a.}` i każdą nową wartością, której
+wcześniej nie widziałeś — traktuj jako zestaw i sprawdź ręcznie.
+
 ## Co NIE trafia na stronę publiczną
 
 Ustalone 28.08.2026 po wpadce: plan redakcyjny został opublikowany jako
