@@ -61,6 +61,10 @@ for nr in set(feed) | {n for m in mapy_redirect for n in m}:
 for nr, s in katidx.items():
     if s.get('status') == 'dostepny' and (s.get('cena_katalogowa') or rrp.get(nr, {}).get('cena')):
         huby.add(nr)
+    # karta redakcyjna to gotowa tresc - zestaw z karta dostaje podstrone
+    # niezaleznie od ceny i statusu (lustro src/lib/huby.js)
+    if karty.get(nr):
+        huby.add(nr)
 
 
 def powod(nr):

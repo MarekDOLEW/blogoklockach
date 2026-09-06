@@ -10,6 +10,7 @@ import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
+import { premieraSetu, zapowiedz } from '../../lib/premiery.js';
 import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
 
 export function getStaticPaths() {
@@ -58,10 +59,14 @@ const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety 
 // status sprzedaży dla lekkich hubów
 const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
 
-// zapowiedź: premiera w przyszłym miesiącu lub później
-const dzis = new Date();
-const biezacyMiesiac = `${dzis.getFullYear()}-${String(dzis.getMonth() + 1).padStart(2, '0')}`;
-const wkrotce = Boolean(s?.premiera && s.premiera > biezacyMiesiac);
+// zapowiedź: premiera w przyszłym miesiącu lub później. Datę bierzemy też
+// z karty redakcyjnej i z rocznika katalogu, bo zestaw zapowiedziany zwykle
+// nie ma jeszcze wpisu w sety.json, a i tak nie może dostać tabeli cen.
+const premiera = premieraSetu(nr);
+const wkrotce = zapowiedz(nr);
+// cena katalogowa bywa nieogłoszona (premiery, zestawy promocyjne) – wtedy
+// mówimy o tym wprost, zamiast zostawiać puste miejsce
+const cenaNieznana = !cenaKatalogowa;
 
 const sciezkaSerii = seria
   ? `/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`
@@ -195,8 +200,10 @@ const opisMeta = najlepsza
           {elementy && <span><strong>{fmtElementy(elementy)}</strong> elementów</span>}
           {s?.cena_katalogowa && s?.elementy && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
           {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
-          {s?.premiera ? <span>premiera <strong>{s.premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
-          {cenaKatalogowa && <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>}
+          {premiera ? <span>premiera <strong>{premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
+          {cenaKatalogowa
+            ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
+            : <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>}
         </div>
         {opis && <p class="prose">{opis}</p>}
         {wycofanie && wycofanie.kiedy !== 'wycofany' && (
@@ -236,9 +243,19 @@ const opisMeta = najlepsza
     )}
 
     {wkrotce && oferty.length === 0 ? (
-      <p class="karta" style="padding: 14px 18px; margin: 18px 0;"><strong>Zapowiedź:</strong> premiera {s.premiera}. Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.</p>
+      <p class="karta" style="padding: 14px 18px; margin: 18px 0;">
+        <strong>Zapowiedź:</strong> premiera {premiera}.
+        {cenaNieznana && ' Cena katalogowa nie została jeszcze ogłoszona – podamy ją, gdy LEGO ją poda.'}
+        {' '}Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.
+      </p>
     ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
       <div id="ceny">
+        {cenaNieznana && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Cena katalogowa nieogłoszona.</strong> LEGO nie podało jeszcze sugerowanej ceny tego zestawu –
+            uzupełnimy ją, gdy tylko się pojawi. Poniżej ceny sklepów, o ile już go mają.
+          </p>
+        )}
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
         <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy – wiążąca jest zawsze cena w koszyku sklepu.</p>
       </div>

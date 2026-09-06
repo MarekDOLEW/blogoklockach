@@ -23,6 +23,7 @@ const galerie = czytaj('galerie.json');
 const redirects = czytaj('redirects.json');
 const katalog = czytaj('katalog.json');
 const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
+const kartySetow = czytaj('karty_setow.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 
 const wycofaniaIdx = new Map(wycofania.map((w) => [w.numer, w]));
@@ -59,6 +60,8 @@ const numeryHubow = (() => {
   }
   for (const s of katalogIdx.values()) {
     if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
+    // karta redakcyjna to gotowa tresc – zestaw z karta ma podstrone (lustro huby.js)
+    if (kartySetow[s.numer]) numery.add(s.numer);
   }
   return numery;
 })();

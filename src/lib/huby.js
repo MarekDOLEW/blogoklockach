@@ -17,6 +17,7 @@ import redirects from '../data/redirects.json';
 import wycofaniaDane from '../data/wycofania.json';
 import katalogCaly from '../data/katalog.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
+import karty from '../data/karty_setow.json';
 import { wpisKatalogu } from './katalog.js';
 
 const feed = ofertyFeed?.sety ?? {};
@@ -50,6 +51,9 @@ function policzHuby() {
     if (seria === '_meta' || !Array.isArray(lista)) continue;
     for (const s of lista) {
       if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
+      // karta redakcyjna to gotowa tresc – zestaw z karta dostaje podstrone
+      // niezaleznie od ceny i statusu, bo inaczej opis nie ma sie gdzie pokazac
+      if (karty[s.numer]) numery.add(s.numer);
     }
   }
   return numery;

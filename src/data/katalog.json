@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "aktualizacja": "2026-09-02",
+    "aktualizacja": "2026-09-06",
     "zrodla": [
       "brickset.com (theme Ideas)",
       "lego.com",
@@ -64,7 +64,8 @@
       "11379": "Ksiegarnia Book Nook — cena sprzeczna: faniklockow 'ok. 520 zl', porownywarki podaja 559,96 zl (kwota nie konczaca sie na ,99, wiec najpewniej wyliczona przez porownywarke, a nie katalogowa). 1690 elementow zgodne w obu zrodlach. Zestawu nie mamy w bazie.",
       "21375": "Godzilla — premiera 27.11.2026 (Black Friday) i wlasny GWP potwierdzone niezaleznie w dwoch zrodlach. Cena NIEZNANA: 'ok. 1700 zl' to szacunek jednego zrodla, drugie wprost pisze, ze ceny nie ogloszono.",
       "40862_40866_11388_11390_21373": "Pozycje bez niezaleznego potwierdzenia ceny — do sprawdzenia przy nastepnej fali. Dodanie ich do bazy nalezy do Zwiadowcy, nie do Radaru."
-    }
+    },
+    "uzupelnienie_2026-09-06": "Dopisane 37 zestawow, dla ktorych istniala karta redakcyjna, ale nie bylo ich w katalogu (przez to nie mialy podstrony ani nie wchodzily do kolejki). Nazwy polskie z kart, rok, liczba elementow i przypisanie do serii potwierdzone w Bricksecie (rocznik 2026-2027, 36/37 liczb elementow zgodnych; przy 66813 Brickset nie podaje liczby, bo to szesciopak). Nowa seria \"Ekskluzywne i promocyjne\" zbiera zestawy spoza stalych linii tematycznych: ekskluzywy LEGO House, LEGOLAND i sklepu LEGO, prezenty za zakupy oraz pojedyncze modele bez wlasnej serii (odpowiednik bricksetowych Promotional i Miscellaneous). Bez ogloszonej ceny katalogowej: 40507, 40897, 40902, 40952, 66813."
   },
   "Ideas": [
     {
@@ -11478,6 +11479,14 @@
       "nazwa": "Minimodel Brzeszczota",
       "rok": 2026,
       "elementy": 74,
+      "status": "dostepny",
+      "cena_katalogowa": null
+    },
+    {
+      "numer": "40897",
+      "nazwa": "Miecz świetlny Dartha Vadera",
+      "rok": 2026,
+      "elementy": 174,
       "status": "dostepny",
       "cena_katalogowa": null
     },
@@ -60143,6 +60152,78 @@
       "elementy": 1367,
       "status": "dostepny",
       "cena_katalogowa": null
+    },
+    {
+      "numer": "72052",
+      "nazwa": "Mario wskakujący do rury",
+      "rok": 2027,
+      "elementy": 61,
+      "status": "dostepny",
+      "cena_katalogowa": 41.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72054",
+      "nazwa": "Mario Kart – wyścigi z Mario",
+      "rok": 2027,
+      "elementy": 84,
+      "status": "dostepny",
+      "cena_katalogowa": 62.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72055",
+      "nazwa": "Przygody Mario na plaży",
+      "rok": 2027,
+      "elementy": 196,
+      "status": "dostepny",
+      "cena_katalogowa": 84.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72056",
+      "nazwa": "Mario Kart – Luigi i Bowser Jr. na wyścigu",
+      "rok": 2027,
+      "elementy": 104,
+      "status": "dostepny",
+      "cena_katalogowa": 126.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72057",
+      "nazwa": "Yoshi w domu Mario",
+      "rok": 2027,
+      "elementy": 147,
+      "status": "dostepny",
+      "cena_katalogowa": 174.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72058",
+      "nazwa": "Mario Kart – Bowser i waleczny wyścig",
+      "rok": 2027,
+      "elementy": 409,
+      "status": "dostepny",
+      "cena_katalogowa": 259.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72060",
+      "nazwa": "Fire Mario i Bowser na zamku",
+      "rok": 2027,
+      "elementy": 850,
+      "status": "dostepny",
+      "cena_katalogowa": 429.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "72061",
+      "nazwa": "Fire Luigi kontra Koopa Troopa – bitwa",
+      "rok": 2027,
+      "elementy": 241,
+      "status": "dostepny",
+      "cena_katalogowa": 126.99,
+      "cena_zrodlo": "karta redakcyjna"
     }
   ],
   "Jurassic World": [
@@ -62166,6 +62247,24 @@
       "cena_katalogowa": 81.99
     },
     {
+      "numer": "40892",
+      "nazwa": "Kolekcja odznak z regionu Kanto",
+      "rok": 2026,
+      "elementy": 312,
+      "status": "dostepny",
+      "cena_katalogowa": 129.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "40911",
+      "nazwa": "Małe Centrum Pokémonów",
+      "rok": 2026,
+      "elementy": 233,
+      "status": "dostepny",
+      "cena_katalogowa": 84.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
       "numer": "72150",
       "nazwa": "Munchlax",
       "rok": 2026,
@@ -62208,6 +62307,24 @@
   ],
   "Art": [
     {
+      "numer": "31218",
+      "nazwa": "Japoński krajobraz z kwitnącą wiśnią",
+      "rok": 2026,
+      "elementy": 1892,
+      "status": "dostepny",
+      "cena_katalogowa": 519.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "31220",
+      "nazwa": "Claude Monet – Most nad stawem z liliami wodnymi",
+      "rok": 2026,
+      "elementy": 3179,
+      "status": "dostepny",
+      "cena_katalogowa": 869.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
       "numer": "31221",
       "nazwa": "Gustav Klimt – Pocałunek",
       "rok": 2026,
@@ -62217,6 +62334,15 @@
     }
   ],
   "Architecture": [
+    {
+      "numer": "21064",
+      "nazwa": "Paryż – miasto miłości",
+      "rok": 2026,
+      "elementy": 958,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
     {
       "numer": "21065",
       "nazwa": "Sagrada Família",
@@ -62254,6 +62380,60 @@
   ],
   "Editions": [
     {
+      "numer": "43011",
+      "nazwa": "Lionel Messi – piłkarskie momenty",
+      "rok": 2026,
+      "elementy": 500,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43012",
+      "nazwa": "Cristiano Ronaldo – piłkarskie momenty",
+      "rok": 2026,
+      "elementy": 490,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43013",
+      "nazwa": "Kylian Mbappé – piłkarskie momenty",
+      "rok": 2026,
+      "elementy": 490,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43014",
+      "nazwa": "Kask Charles Leclerc Scuderia Ferrari HP",
+      "rok": 2026,
+      "elementy": 886,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43015",
+      "nazwa": "Lionel Messi – piłkarska legenda",
+      "rok": 2026,
+      "elementy": 958,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43016",
+      "nazwa": "Cristiano Ronaldo – piłkarska legenda",
+      "rok": 2026,
+      "elementy": 854,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
       "numer": "43018",
       "nazwa": "Lionel Messi – cieszynka",
       "rok": 2026,
@@ -62262,12 +62442,39 @@
       "cena_katalogowa": 779.99
     },
     {
+      "numer": "43019",
+      "nazwa": "Piłka nożna",
+      "rok": 2026,
+      "elementy": 1498,
+      "status": "dostepny",
+      "cena_katalogowa": 519.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
       "numer": "43020",
       "nazwa": "Oficjalny Puchar Świata FIFA",
       "rok": 2026,
       "elementy": 2842,
       "status": "dostepny",
       "cena_katalogowa": 779.99
+    },
+    {
+      "numer": "43022",
+      "nazwa": "Kask Lewis Hamilton Scuderia Ferrari HP",
+      "rok": 2026,
+      "elementy": 884,
+      "status": "dostepny",
+      "cena_katalogowa": 379.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43027",
+      "nazwa": "Vini Jr. – piłkarskie momenty",
+      "rok": 2026,
+      "elementy": 510,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
     },
     {
       "numer": "43028",
@@ -62300,6 +62507,24 @@
       "elementy": 1228,
       "status": "dostepny",
       "cena_katalogowa": 519.99
+    },
+    {
+      "numer": "43032",
+      "nazwa": "Oficjalne logo FIFA World Cup 2026",
+      "rok": 2026,
+      "elementy": 298,
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "43033",
+      "nazwa": "Koszulka piłkarska reprezentacji USA 2026",
+      "rok": 2026,
+      "elementy": 167,
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "cena_zrodlo": "karta redakcyjna"
     }
   ],
   "Sonic": [
@@ -62576,6 +62801,22 @@
   ],
   "Minifigurki": [
     {
+      "numer": "66813",
+      "nazwa": "Seria 28 – Zwierzęta – sześciopak",
+      "rok": 2026,
+      "elementy": 45,
+      "status": "dostepny",
+      "cena_katalogowa": null
+    },
+    {
+      "numer": "71051",
+      "nazwa": "Seria 28 – Zwierzęta",
+      "rok": 2026,
+      "elementy": 9,
+      "status": "dostepny",
+      "cena_katalogowa": 16.49
+    },
+    {
       "numer": "71052",
       "nazwa": "Seria 29",
       "rok": 2026,
@@ -62588,14 +62829,6 @@
       "nazwa": "Seria Shrek",
       "rok": 2026,
       "elementy": 7,
-      "status": "dostepny",
-      "cena_katalogowa": 16.49
-    },
-    {
-      "numer": "71051",
-      "nazwa": "Seria 28 – Zwierzęta",
-      "rok": 2026,
-      "elementy": 9,
       "status": "dostepny",
       "cena_katalogowa": 16.49
     }
@@ -62710,12 +62943,39 @@
   ],
   "Batman": [
     {
+      "numer": "76330",
+      "nazwa": "Logo Batmana",
+      "rok": 2026,
+      "elementy": 678,
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "76331",
+      "nazwa": "Batmobil z filmu Batman v Superman",
+      "rok": 2026,
+      "elementy": 220,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
       "numer": "76332",
       "nazwa": "Batmobil z filmu Batman",
       "rok": 2026,
       "elementy": 330,
       "status": "dostepny",
       "cena_katalogowa": 124.99
+    },
+    {
+      "numer": "76333",
+      "nazwa": "Batmobil z filmu Batman i Robin",
+      "rok": 2026,
+      "elementy": 272,
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "cena_zrodlo": "karta redakcyjna"
     },
     {
       "numer": "76355",
@@ -62814,6 +63074,77 @@
       "elementy": 1093,
       "status": "dostepny",
       "cena_katalogowa": 419.99
+    }
+  ],
+  "Ekskluzywne i promocyjne": [
+    {
+      "numer": "40507",
+      "nazwa": "I love Billund",
+      "rok": 2026,
+      "elementy": 1404,
+      "status": "dostepny",
+      "cena_katalogowa": null
+    },
+    {
+      "numer": "40902",
+      "nazwa": "Hołd dla Leonarda da Vinci",
+      "rok": 2026,
+      "elementy": 251,
+      "status": "dostepny",
+      "cena_katalogowa": null
+    },
+    {
+      "numer": "40906",
+      "nazwa": "Restauracje świata: Japonia",
+      "rok": 2026,
+      "elementy": 289,
+      "status": "dostepny",
+      "cena_katalogowa": 84.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "40907",
+      "nazwa": "Restauracje świata: Meksyk",
+      "rok": 2026,
+      "elementy": 326,
+      "status": "dostepny",
+      "cena_katalogowa": 84.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "40908",
+      "nazwa": "Restauracje świata: Grecja",
+      "rok": 2026,
+      "elementy": 254,
+      "status": "dostepny",
+      "cena_katalogowa": 81.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "40921",
+      "nazwa": "Powiększona minifigurka niebieskiego astronauty",
+      "rok": 2026,
+      "elementy": 793,
+      "status": "dostepny",
+      "cena_katalogowa": 249.99,
+      "cena_zrodlo": "karta redakcyjna"
+    },
+    {
+      "numer": "40952",
+      "nazwa": "Zamek LEGOLAND",
+      "rok": 2026,
+      "elementy": 613,
+      "status": "dostepny",
+      "cena_katalogowa": null
+    },
+    {
+      "numer": "40955",
+      "nazwa": "Kontenerowiec z Napędem Dual-Fuel Maersk",
+      "rok": 2026,
+      "elementy": 1516,
+      "status": "dostepny",
+      "cena_katalogowa": 649.99,
+      "cena_zrodlo": "karta redakcyjna"
     }
   ]
 }

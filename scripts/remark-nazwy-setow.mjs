@@ -66,6 +66,8 @@ const numeryHubow = (() => {
   }
   for (const s of katalogIdx.values()) {
     if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
+    // karta redakcyjna to gotowa tresc – zestaw z karta ma podstrone (lustro huby.js)
+    if (karty[s.numer]) numery.add(s.numer);
   }
   return numery;
 })();
