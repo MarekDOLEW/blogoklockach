@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-05",
-    "przebieg": "scheduled 2026-09-05 08:00",
+    "ostatnia_aktualizacja": "2026-09-06",
+    "przebieg": "scheduled 2026-09-06 08:00 — dzien bardzo spokojny, 2 wpisy, oba rocznik 2027",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 130,
+    "liczba_wpisow": 132,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu."
   },
   "publikacje": [
@@ -1555,6 +1555,28 @@
         "Media Expert"
       ],
       "notatki": "Wpis zbiorczy. SZESNASCIE mikropostow dealowych jednego dnia, wiekszosc w oknie 12:22-15:08 - to nie jest normalne tempo (poprzednie dni: 2). Miedzy innymi 10316 Rivendell, 76300 Arkham Asylum, 11389 Projekt Hail Mary, 11375 Ferrari F2004, 42240 Aston Martin F1, 21355, 77256, 77260, 76475, 60423, 60478, 60488, 71848, 42224, 42226, 42229, 43023. Sygnal: prawdopodobnie szeroki ruch cenowy u ktoregos ze sklepow (wyprzedaz poszkolna albo czyszczenie magazynu przed sezonem), a nie 16 niezaleznych okazji. Warte sprawdzenia przez Lowce - nasze tabele powinny to zlapac same, ale skala jest nietypowa."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: K-pop Demon Hunters (aktualizacja: spis setow na maj)",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-k-pop-demon-hunters/",
+      "data_publikacji": "2026-09-05",
+      "data_wykrycia": "2026-09-06",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Wstepny spis zestawow na maj 2027. Poza sezonem XI-XII, wiec nie gonimy. Serie mamy w katalogu ('KPop Demon Hunters'), ale na razie z jedna pozycja: 72537 Tygrys Derpy i Sroka Sussie, 299,99 zl, dostepny. Ciekawostka: to ten sam zestaw, ktory fanklockow 3.09 wystawili w swoim wideo 'starcie zestawow' przeciwko 72150 Munchlax - czyli licencje, ktora sami promuja, jednoczesnie rozbudowuja jako temat zapowiedziowy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Technic (aktualizacja: pierwsze konkrety)",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-technic/",
+      "data_publikacji": "2026-09-05",
+      "data_wykrycia": "2026-09-06",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pierwsza polowa 2027. Poza sezonem XI-XII. Odnotowane, bo Technic to u nas seria z wysokimi koszykami - przy planowaniu tekstow na I kwartal 2027 warto tu wrocic."
     }
   ],
   "obserwacje_strategiczne": {
