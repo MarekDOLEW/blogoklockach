@@ -28,6 +28,7 @@ const redirects = czytaj('redirects.json');
 const cenyBaza = czytaj('ceny_baza.json');
 const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
 const katalog = czytaj('katalog.json');
+const karty = czytaj('karty_setow.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 
 const katalogIdx = new Map();
@@ -84,6 +85,33 @@ const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' z
 const esc = (t) =>
   String(t ?? '').replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 
+// ── zapowiedzi: zestaw przed premierą nie dostaje tabeli „aktualnych cen" ──
+// Ta sama zasada co na hubie /zestaw/[nr]/: dopóki zestawu nie ma w sklepach,
+// wiersz LEGO.com z ceną katalogową i przyciskiem „Sprawdź w sklepie" prowadzi
+// donikąd, a nagłówek „Aktualne ceny" mówi nieprawdę. Zamiast tabeli zostaje
+// notka o zapowiedzi; po premierze ten sam znacznik wypełni się sam.
+// Datę premiery bierzemy z sety.json („2026-10"), a gdy zestawu tam jeszcze
+// nie ma – z metryki karty redakcyjnej („1 października 2026").
+const MIESIACE = {
+  stycznia: '01', lutego: '02', marca: '03', kwietnia: '04', maja: '05', czerwca: '06',
+  lipca: '07', sierpnia: '08', września: '09', października: '10', listopada: '11', grudnia: '12',
+};
+
+function premieraSetu(nr) {
+  if (sety[nr]?.premiera) return sety[nr].premiera;
+  const dopasowanie = /([a-ząćęłńóśźż]+)\s+(\d{4})/i.exec(karty[nr]?.metryka?.Premiera ?? '');
+  const miesiac = dopasowanie && MIESIACE[dopasowanie[1].toLowerCase()];
+  return miesiac ? `${dopasowanie[2]}-${miesiac}` : null;
+}
+
+const dzis = new Date();
+const BIEZACY_MIESIAC = `${dzis.getFullYear()}-${String(dzis.getMonth() + 1).padStart(2, '0')}`;
+
+const notkaZapowiedzi = (premiera) =>
+  '<p class="karta" style="padding: 14px 18px; margin: 18px 0;">' +
+  `<strong>Zapowiedź:</strong> premiera ${esc(premiera)}. ` +
+  'Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.</p>';
+
 const UWAGA_SKLEP = {
   mediaexpert: 'w sklepie bywają kody rabatowe – może być jeszcze taniej',
   planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku – na stronie może być taniej',
@@ -92,7 +120,10 @@ const UWAGA_SKLEP = {
 
 function tabela(nr) {
   const rrp = cenaKatalogowaSetu(nr);
-  const dodajLego = !wycofany(nr);
+  const premiera = premieraSetu(nr);
+  const wkrotce = Boolean(premiera && premiera > BIEZACY_MIESIAC);
+  // przed premierą nie dokładamy wiersza LEGO.com ani sklepów bez ceny – tak samo jak na hubie
+  const dodajLego = !wycofany(nr) && !wkrotce;
   const maAfiliacje = (sklep) =>
     sklep === 'lego' ||
     ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
@@ -102,6 +133,7 @@ function tabela(nr) {
   const rabat = (c) => Math.round((1 - c / rrp) * 100);
 
   const oferty = polaczOferty(nr);
+  if (wkrotce && oferty.length === 0) return notkaZapowiedzi(premiera);
   const zLego =
     dodajLego && !oferty.some((o) => o.sklep === 'lego') && rrp ? [{ sklep: 'lego', cena: rrp, data: null }] : [];
   const wszystkie = [...oferty, ...zLego];
