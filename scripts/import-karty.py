@@ -25,7 +25,8 @@ Korekty szablonu mail-merge (pola w dopełniaczu po "są/tworzą"):
   aplikowane tylko na dokładnym złączeniu fraza+wartość pola, każda wypisana.
 
 Użycie:
-  python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --sucho  # raport
+  python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --sucho     # raport
+  python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --nadpisz  # zastąp istniejące
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>...          # zapis
 """
 import json, re, sys, zipfile, glob, os, collections, tempfile
@@ -248,6 +249,10 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
 def main():
     argv = [a for a in sys.argv[1:] if not a.startswith('--')]
     sucho = '--sucho' in sys.argv
+    # --nadpisz: swiadome zastapienie istniejacych kart nowsza wersja tej samej
+    # paczki. Domyslnie karta raz wgrana jest chroniona przed przypadkowym
+    # nadpisaniem przy powtornym puszczeniu importu na tym samym katalogu.
+    nadpisz = '--nadpisz' in sys.argv
     if not argv:
         print(__doc__); sys.exit(1)
     pliki = []
@@ -274,7 +279,9 @@ def main():
         if not nr or len(d['akapity']) < 2 or len(d['faq']) < 3 or len(m) < 6:
             blokady.append((d['plik'], 'niekompletna struktura DOCX')); continue
         if nr in karty:
-            ostrz.append((nr, 'karta już istnieje – pominięta')); continue
+            if not nadpisz:
+                ostrz.append((nr, 'karta już istnieje – pominięta (--nadpisz zastąpi)')); continue
+            ostrz.append((nr, 'karta już istnieje – NADPISANA nowszą wersją'))
         seria_pelna = m.get('Seria', '')
         seria_repo = seria_kanoniczna(seria_pelna, ctx)
         slug = slug_serii(seria_repo)
