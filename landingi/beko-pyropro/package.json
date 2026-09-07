@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "description": "Landing page Beko PyroPro – statyczny HTML/CSS/JS, desktop 1400 px + mobile",
   "scripts": {
-    "placeholdery": "node scripts/placeholdery.mjs",
+    "tnij": "node scripts/tnij-layout.mjs",
     "obrazy": "node scripts/obrazy.mjs",
     "build": "node scripts/buduj-podglad.mjs",
     "test": "node scripts/zrzuty.mjs",

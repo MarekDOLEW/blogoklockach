@@ -1,6 +1,6 @@
 # Audyt SEO i UX – landing Beko PyroPro
 
-Data: 2026-09-07. Zakres: `landingi/beko-pyropro/` (wersja 1, placeholdery zdjęć).
+Data: 2026-09-07. Zakres: `landingi/beko-pyropro/` (wersja 2, zdjęcia wycięte z layoutu 1400 px).
 Narzędzia: Lighthouse 12 (Chromium headless, throttling mobile „Slow 4G”
 i preset desktop), własny test Playwright (`npm test`), przegląd ręczny
 względem WCAG 2.2 AA i heurystyk Nielsena.
@@ -9,7 +9,7 @@ względem WCAG 2.2 AA i heurystyk Nielsena.
 
 | Profil  | Performance | Accessibility | Best Practices | SEO | LCP   | CLS | TBT   |
 |---------|-------------|---------------|----------------|-----|-------|-----|-------|
-| Mobile  | 100         | 100           | 96             | 100 | 1,2 s | 0   | 10 ms |
+| Mobile  | 100         | 100           | 96             | 100 | 1,7 s | 0   | 0 ms  |
 | Desktop | 100         | 100           | 96             | 100 | 0,3 s | 0   | 0 ms  |
 
 Jedyny punkt odjęty w „Best Practices” to błąd konsoli z zablokowanego w
@@ -17,10 +17,9 @@ Jedyny punkt odjęty w „Best Practices” to błąd konsoli z zablokowanego w
 wystąpi. Pozostałe uwagi Lighthouse dotyczą wdrożenia na serwer, nie kodu:
 minifikacja CSS/JS, nagłówki `Cache-Control`, kompresja Brotli.
 
-Uwaga: wynik wydajności jest zawyżony przez lekkie placeholdery (cały katalog
-`img/` waży 1,2 MB w 109 plikach). Po podmianie na prawdziwe zdjęcia trzeba
-powtórzyć pomiar – pipeline `npm run obrazy` (AVIF/WebP/JPG, 2 szerokości)
-utrzyma wagę pod kontrolą, ale LCP zależy od masy hero.
+Pomiar na prawdziwych zdjęciach z layoutu: strona ładuje na starcie tylko hero
+(AVIF ok. 60 KB), reszta obrazów dociąga się leniwie; katalog `img/` to 2,3 MB
+w 121 plikach, z czego przeglądarka pobiera jeden wariant formatu i rozmiaru.
 
 ## 2. Co zostało wykonane w kodzie
 
@@ -49,7 +48,7 @@ utrzyma wagę pod kontrolą, ale LCP zależy od masy hero.
   wszystkie przyciski ≥ 44×44 px (WCAG 2.5.8), karuzele obsługiwane
   klawiaturą (strzałki, przyciski z `aria-label`), modal wideo jako natywny
   `<dialog>` (focus trap, Esc, zwrot fokusu).
-- `prefers-reduced-motion`: animacje i płynne przewijanie wyłączone.
+- Banery pojawiają się z przenikaniem przy przewijaniu (IntersectionObserver), obrazy poniżej hero ładują się leniwie; przy `prefers-reduced-motion` i bez JS wszystko jest widoczne od razu.
 - Bez JS strona jest w pełni czytelna (karuzele stają się przewijanymi
   listami, sekcje nie są ukryte).
 - Mobile: brak poziomego przewijania (test automatyczny), hero z osobnym
@@ -68,11 +67,11 @@ utrzyma wagę pod kontrolą, ale LCP zależy od masy hero.
 | 5 | średnia | Symbole modeli (BBIM13300P itd.) odczytane z layoutu w niskiej rozdzielczości. | Zweryfikować z listą produktową. |
 | 6 | średnia | Layout ma w hero tylko logo bez nawigacji ani linku do sklepu. | To akceptowalne dla landingu kampanijnego, ale warto dodać w stopce linki do polityki prywatności i strony głównej (wymóg prawny przy analityce/cookies). |
 | 7 | niska | Pasek „PizzaPro / A++ / Wi‑Fi” powtarza treści z sekcji „Poznaj inne technologie”. | Zostawiono zgodnie z layoutem; można rozważyć linkowanie kotwicowe z paska do odpowiednich akapitów. |
-| 8 | niska | Rękawice dekoracyjne z layoutu wymagają PNG/WebP z przezroczystością (placeholdery są na białym tle). | Wyciąć z warstwami z pliku źródłowego. |
+| 8 | niska | Layout jest w skali 1×, zdjęcia na ekranach retina są miękkie; wypalone w fotografii teksty hero i sekcji końcowej są maskowane plamą. | Dostarczyć PSD lub zdjęcia 2× – wtedy `npm run obrazy` wygeneruje ostre warianty, a maskowanie nie będzie potrzebne. |
 
 ## 4. Checklist wdrożenia
 
-- [ ] Podmienić placeholdery w `img/src/` (2× szerokość) i uruchomić `npm run obrazy`.
+- [ ] Zdjęcia w 2× (z PSD) do `img/src/` i `npm run obrazy`.
 - [ ] Ustawić docelowy adres w `canonical`, `og:url`, `og:image` i JSON-LD.
 - [ ] Minifikacja CSS/JS (np. `esbuild --minify`) i nagłówki cache (`immutable` dla `img/`, `css/`, `js/` z hashem w nazwie).
 - [ ] Kompresja Brotli/gzip na serwerze, HTTP/2.

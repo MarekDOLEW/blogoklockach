@@ -2,19 +2,20 @@
 (() => {
   'use strict';
   document.documentElement.classList.remove('no-js');
+  document.documentElement.classList.add('js');
 
   /* ---------- Rok w stopce ---------- */
   document.querySelectorAll('[data-rok]').forEach((el) => { el.textContent = new Date().getFullYear(); });
 
-  /* ---------- Animacje wejścia (IntersectionObserver) ---------- */
-  const reveals = document.querySelectorAll('.reveal');
+  /* ---------- Leniwe pojawianie się banerów (IntersectionObserver) ---------- */
+  const reveals = document.querySelectorAll('.baner');
   const zredukowany = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if (!('IntersectionObserver' in window) || zredukowany) {
     reveals.forEach((el) => el.classList.add('is-visible'));
   } else {
     const io = new IntersectionObserver((wpisy) => {
       wpisy.forEach((w) => { if (w.isIntersecting) { w.target.classList.add('is-visible'); io.unobserve(w.target); } });
-    }, { rootMargin: '0px 0px -10% 0px', threshold: 0.1 });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
     reveals.forEach((el) => io.observe(el));
   }
 
@@ -33,8 +34,7 @@
     };
     const odswiez = () => {
       const przewijalna = tor.scrollWidth - tor.clientWidth > 4;
-      prev.hidden = next.hidden = !przewijalna;
-      if (!przewijalna) return;
+      if (!przewijalna) { prev.disabled = next.disabled = true; return; }
       prev.disabled = tor.scrollLeft <= 2;
       next.disabled = tor.scrollLeft + tor.clientWidth >= tor.scrollWidth - 2;
     };

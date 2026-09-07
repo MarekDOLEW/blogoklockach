@@ -16,7 +16,7 @@ for (const plik of pliki) {
   const nazwa = plik.replace(/\.(jpe?g|png)$/i, '');
   const meta = await sharp(SRC + plik).metadata();
   razemIn += statSync(SRC + plik).size;
-  const szerokosci = [meta.width, Math.round(meta.width / 2)].filter((w) => w >= 200);
+  const szerokosci = [meta.width, Math.round(meta.width / 2)].filter((w, i) => i === 0 || w >= 200);
   for (const w of szerokosci) {
     const baza = sharp(SRC + plik).resize({ width: w, withoutEnlargement: true });
     const zapis = async (fmt, opts, ext) => {
@@ -25,10 +25,14 @@ for (const plik of pliki) {
       razemOut += info.size;
       return info.size;
     };
-    const a = await zapis('avif', { quality: 55, effort: 4 }, 'avif');
-    const b = await zapis('webp', { quality: 78 }, 'webp');
-    const c = await zapis('jpeg', { quality: 80, mozjpeg: true, progressive: true }, 'jpg');
-    console.log(`${nazwa}-${w}: avif ${(a / 1024).toFixed(0)}K  webp ${(b / 1024).toFixed(0)}K  jpg ${(c / 1024).toFixed(0)}K`);
+    const alfa = meta.hasAlpha;
+    const a = await zapis('avif', { quality: alfa ? 60 : 55, effort: 4 }, 'avif');
+    const b = await zapis('webp', { quality: alfa ? 85 : 78 }, 'webp');
+    // fallback: JPG dla zdjęć, PNG dla wycinków z przezroczystością
+    const c = alfa
+      ? await zapis('png', { compressionLevel: 9, palette: true, quality: 90 }, 'png')
+      : await zapis('jpeg', { quality: 80, mozjpeg: true, progressive: true }, 'jpg');
+    console.log(`${nazwa}-${w}: avif ${(a / 1024).toFixed(0)}K  webp ${(b / 1024).toFixed(0)}K  ${alfa ? 'png' : 'jpg'} ${(c / 1024).toFixed(0)}K`);
   }
 }
 console.log(`\nŹródła: ${(razemIn / 1024).toFixed(0)}K -> warianty łącznie: ${(razemOut / 1024).toFixed(0)}K (${pliki.length} plików)`);
