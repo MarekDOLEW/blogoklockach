@@ -57,13 +57,17 @@
     "rrp_rk": "2026-08-30: uzupelniono cena_katalogowa (+pole cena_zrodlo=RK) z bazy Republiki Klockow wylacznie tam, gdzie pole bylo puste; rrp_potwierdzone.json pozostaje nadrzedne; kwarantanna: usunieto 10 wpisow RK, gdzie cena rynkowa < 50% RRP (RRP niewiarygodne)",
     "minifigurki_liczba_elementow": "Saszetki CMF (seria Minifigurki) maja liczbe elementow SZACUNKOWA: w srodku jest jedna minifigurka z akcesoriami, a ich liczba rozni sie miedzy postaciami w tej samej serii. LEGO.com nie podaje jednej wartosci dla blind boxa. Trzymamy jedna liczbe, zeby dane byly spojne, ale nie traktujemy jej jako faktu i nie budujemy na niej ocen (np. ceny za element).",
     "rozbieznosci_fala_pazdziernik_2026": {
-      "sprawdzone": "2026-09-04",
-      "opis": "Weryfikacja pazdziernikowej fali premier po radarze 04.09. Ponizsze pozycje maja sprzeczne albo niepotwierdzone dane i celowo NIE zostaly wpisane.",
-      "40865": "Elf Buddy — liczba elementow sporna: faniklockow podaje 713, zklockow 719. Cena ok. 250 zl w obu. Nie wpisujemy zadnej z liczb.",
-      "40875": "Powiekszona minifigurka Pani Mikolajowej — 904 el. zgodne z naszymi danymi, ale cena 249,99 zl tylko z jednego zrodla oznaczonego jako plotka. Cena zostaje pusta.",
-      "11379": "Ksiegarnia Book Nook — cena sprzeczna: faniklockow 'ok. 520 zl', porownywarki podaja 559,96 zl (kwota nie konczaca sie na ,99, wiec najpewniej wyliczona przez porownywarke, a nie katalogowa). 1690 elementow zgodne w obu zrodlach. Zestawu nie mamy w bazie.",
-      "21375": "Godzilla — premiera 27.11.2026 (Black Friday) i wlasny GWP potwierdzone niezaleznie w dwoch zrodlach. Cena NIEZNANA: 'ok. 1700 zl' to szacunek jednego zrodla, drugie wprost pisze, ze ceny nie ogloszono.",
-      "40862_40866_11388_11390_21373": "Pozycje bez niezaleznego potwierdzenia ceny — do sprawdzenia przy nastepnej fali. Dodanie ich do bazy nalezy do Zwiadowcy, nie do Radaru."
+      "sprawdzone": "2026-09-04, zaktualizowane 2026-09-07",
+      "opis": "Weryfikacja pazdziernikowej fali premier. Wiekszosc pozycji zostala w miedzyczasie ROZSTRZYGNIETA przez inne sesje - zostawiam slad, bo pokazuje, co przyszlo z jakiego zrodla.",
+      "rozstrzygniete": {
+        "40862, 40865, 40866, 40875": "Ceny potwierdzone 06.09 z kart redakcyjnych Piotra i zapisane w rrp_potwierdzone.json (54,99 / 169,99 / 124,99 / 249,99 zl). Sporna liczba elementow 40865 (713 vs 719) rozstrzygnieta na 713 - Brickset i metryka karty zgodne.",
+        "11379": "Nazwa i parametry potwierdzone 07.09 na Bricksecie: 'Bookshop: Book Nook', Icons, 1690 el., 18+, premiera 01.10. Sprzeczna kwota 559,96 zl faktycznie nie byla cena katalogowa. Cena PL wciaz nieogloszona."
+      },
+      "wciaz_otwarte": {
+        "11379": "cena katalogowa w zlotych - LEGO nie ogloszilo, mamy tylko 129,99 EUR",
+        "21375": "Godzilla - cena nieznana. Premiera 27.11 (Black Friday) i wlasny GWP potwierdzone w dwoch zrodlach. Ceny potrzebujemy PRZED publikacja tekstu o Black Friday, bo bez niej nie policzymy rabatu ani jego braku.",
+        "11388, 11390, 21373": "listopadowe pozycje bez niezaleznego potwierdzenia - do sprawdzenia przy nastepnej fali"
+      }
     },
     "uzupelnienie_2026-09-06": "Dopisane 37 zestawow, dla ktorych istniala karta redakcyjna, ale nie bylo ich w katalogu (przez to nie mialy podstrony ani nie wchodzily do kolejki). Nazwy polskie z kart, rok, liczba elementow i przypisanie do serii potwierdzone w Bricksecie (rocznik 2026-2027, 36/37 liczb elementow zgodnych; przy 66813 Brickset nie podaje liczby, bo to szesciopak). Nowa seria \"Ekskluzywne i promocyjne\" zbiera zestawy spoza stalych linii tematycznych: ekskluzywy LEGO House, LEGOLAND i sklepu LEGO, prezenty za zakupy oraz pojedyncze modele bez wlasnej serii (odpowiednik bricksetowych Promotional i Miscellaneous). Bez ogloszonej ceny katalogowej: 40507, 40897, 40902, 40952, 66813."
   },
