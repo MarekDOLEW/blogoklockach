@@ -19,7 +19,7 @@ na koncie** (pełna lista, bez paginacji).
 | Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie | Trigger | Sesja |
 |---|---|---|---|---|---|---|
 | Scout nowości | `0 3 * * *` | 05:00 | ✅ | 31.08 05:05 | `trig_01Nos3qQb8GJFAVMR1SyEEZT` | `session_012AZejbFzsfzkTh4FPaAkVg` |
-| Wycofania | `0 4 * * *` | 06:00 | ✅ | 31.08 06:11 | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` |
+| Wycofania | `10 4 * * 1` | pon 06:10 | ✅ | 07.09 06:10 | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` |
 | Radar konkurencji | `0 6 * * *` | 08:00 | ✅ | 31.08 08:01 | `trig_01UpMJdpeguEtby68saqBMpD` | `session_01UFkqKNwQexnxLN34HotM4G` |
 | Łowca promocji | `30 6 * * *` | 08:30 | ✅ | 31.08 08:41 | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` |
 | Kontroler (raport tygodnia) | `0 7 * * 1` | pon 09:00 | ✅ | 31.08 09:11 — **SUCCEEDED** | `trig_01T8AhciW8JD651MrSMuEj7m` | świeża sesja przy każdym odpaleniu |
