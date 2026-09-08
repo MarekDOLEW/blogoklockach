@@ -102,14 +102,14 @@ sup a { text-decoration: none; }
 /* =====================================================================
    HERO
    ===================================================================== */
-.hero { background: var(--c-navy); color: var(--c-white); position: relative; z-index: 2; }
-.hero__copy { position: relative; padding: 20px var(--gutter) 24px; max-width: var(--page); margin-inline: auto; }
+.hero { background: var(--c-navy); color: var(--c-white); position: relative; z-index: 2; container-type: inline-size; }
+.hero__copy { position: relative; padding: 20px var(--gutter) 24px; }
 .hero__logo { display: block; width: 96px; margin-left: auto; margin-bottom: 8px; }
 .hero__title { font-size: clamp(2.4rem, 1.6rem + 4vw, 4.3rem); line-height: 1.16; font-weight: 700; }
 .hero__brand { font-weight: 800; }
 .hero__lead { margin-top: 14px; font-size: clamp(1.1rem, 1rem + .6vw, 1.625rem); font-weight: 400; line-height: 1.35; }
 .hero__lead strong { font-weight: 700; }
-.hero__kadr { max-width: var(--page); margin-inline: auto; aspect-ratio: 1100 / 700; overflow: visible; }
+.hero__kadr { width: 100%; aspect-ratio: 1100 / 700; overflow: visible; }
 .hero__kadr img { object-fit: cover; }
 /* pozycje przycisku i odznaki = miejsca wypalone w zdjęciu (kadr mobilny 1100×700) */
 .hero__play { left: 35.4%; top: 46.3%; translate: -50% -50%; width: 13cqw; height: 13cqw; }
@@ -117,14 +117,14 @@ sup a { text-decoration: none; }
   position: absolute; left: 60%; top: 77.4%; width: 20.9cqw; aspect-ratio: 1; border-radius: 50%;
   background: radial-gradient(circle at 35% 30%, #2a9be8, #0b6fcb 65%, #0a5fb3);
   color: var(--c-white); display: grid; place-items: center; align-content: center; text-align: center;
-  line-height: 1; font-weight: 800; padding-top: .6cqw; z-index: 3;
+  line-height: 1; font-weight: 800; padding: .6cqw 8% 0; z-index: 3;
   box-shadow: 0 12px 30px rgba(0, 0, 0, .25);
 }
-.badge59__czas { font-size: 1.7cqw; font-weight: 600; }
-.badge59__tylko { font-size: 3.1cqw; font-weight: 700; margin-top: .1cqw; }
-.badge59__liczba { font-size: 8.4cqw; font-weight: 900; letter-spacing: -.04em; margin-top: -.2cqw; display: flex; align-items: baseline; }
-.badge59__liczba small { font-size: 2.1cqw; font-weight: 700; letter-spacing: 0; margin-left: .3cqw; }
-.badge59__temp { font-size: 3cqw; font-weight: 600; margin-top: .6cqw; padding-top: .6cqw; border-top: 2px solid rgba(255, 255, 255, .8); min-width: 60%; }
+.badge59__czas { font-size: 1.45cqw; font-weight: 600; }
+.badge59__tylko { font-size: 2.8cqw; font-weight: 700; margin-top: .1cqw; }
+.badge59__liczba { font-size: 7.4cqw; font-weight: 800; letter-spacing: -.04em; margin-top: -.2cqw; display: flex; align-items: baseline; }
+.badge59__liczba small { font-size: 1.9cqw; font-weight: 700; letter-spacing: 0; margin-left: .3cqw; }
+.badge59__temp { font-size: 2.6cqw; font-weight: 600; margin-top: .6cqw; padding-top: .6cqw; border-top: 2px solid rgba(255, 255, 255, .8); min-width: 60%; }
 
 @media (min-width: 48em) {
   .hero { display: grid; }
@@ -133,15 +133,15 @@ sup a { text-decoration: none; }
   .hero__copy { z-index: 2; padding: 0; pointer-events: none; width: 100%; }
   .hero__copy > * { pointer-events: auto; }
   .hero__logo { position: absolute; right: 8.6%; top: 6.4%; width: 9.6%; margin: 0; }
-  .hero__title { position: absolute; left: 8.4%; top: 7.2%; font-size: min(4.93vw, 69px); line-height: 1.16; }
-  .hero__lead { position: absolute; left: 8.4%; top: 44.3%; margin: 0; font-size: min(1.86vw, 26px); }
+  .hero__title { position: absolute; left: 8.4%; top: 7.2%; font-size: 4.93cqw; line-height: 1.16; }
+  .hero__lead { position: absolute; left: 8.4%; top: 44.3%; margin: 0; font-size: 1.86cqw; }
   .hero__play { left: 49.3%; top: 46%; width: 6.9cqw; height: 6.9cqw; }
   .badge59 { left: 69%; width: 15.4cqw; }
-  .badge59__czas { font-size: 1.3cqw; }
-  .badge59__tylko { font-size: 2.4cqw; }
-  .badge59__liczba { font-size: 6.4cqw; }
-  .badge59__liczba small { font-size: 1.7cqw; }
-  .badge59__temp { font-size: 2.3cqw; }
+  .badge59__czas { font-size: 1.05cqw; }
+  .badge59__tylko { font-size: 2.1cqw; }
+  .badge59__liczba { font-size: 5.6cqw; }
+  .badge59__liczba small { font-size: 1.45cqw; }
+  .badge59__temp { font-size: 2cqw; }
 }
 
 /* =====================================================================
@@ -152,7 +152,7 @@ sup a { text-decoration: none; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
 .intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; }
-@media (max-width: 68.74em) { .intro__rekawica { width: 120px; top: auto; bottom: 0; opacity: .9; } .intro br { display: none; } }
+@media (max-width: 68.74em) { .intro__rekawica { width: 96px; top: auto; bottom: -10px; opacity: .85; } .intro br { display: none; } .intro .container { padding-left: 48px; } }
 @media (min-width: 68.75em) { .intro__rekawica { left: 0; } }
 
 /* =====================================================================
@@ -165,22 +165,26 @@ sup a { text-decoration: none; }
 .korzysc__ikona img { width: 100%; }
 .h3 + p { margin-top: 26px; }
 .korzysc__media { position: relative; justify-self: center; }
+@media (max-width: 47.99em) { .korzysc__media { order: -1; } .korzysc__media--skarbonka { margin-top: 12px; } }
 .korzysc__media img { width: 100%; }
 .korzysc { padding-block: 48px; }
 .korzysc--bezpieczne { background: var(--c-navy); }
 .korzysc--szybkie { background: var(--c-navy-dark); }
 .korzysc__media--balon { width: min(70vw, 470px); }
 .korzysc__media--minutnik { width: min(90vw, 600px); container-type: inline-size; }
-.korzysc__play { left: 56%; top: 60%; width: 17cqw; height: 17cqw; }
-.korzysc__media--skarbonka { width: min(75vw, 360px); margin-top: 40px; }
+/* Licznik 7-segmentowy nad wyświetlaczem minutnika (cyfry w zdjęciu zamalowane); pozycja w cqw kadru 600 px */
+.licznik { position: absolute; left: 45.7cqw; top: 28.5cqw; width: 31.8cqw; height: auto; overflow: visible; }
+.licznik .seg { fill: #fff; opacity: .07; transition: opacity .12s; }
+.licznik .seg.is-on { opacity: 1; filter: drop-shadow(0 0 1.5px rgba(255, 255, 255, .8)); }
+.korzysc__media--skarbonka { width: min(78vw, 399px); margin-top: 40px; }
 .badge47 {
-  position: absolute; left: -6%; top: -4%; width: 44%; aspect-ratio: 1; border-radius: 50%;
+  position: absolute; left: -14%; top: -2%; width: 44%; aspect-ratio: 1; border-radius: 50%;
   background: var(--c-navy-deep); display: grid; place-items: center; align-content: center;
   text-align: center; line-height: 1.05; z-index: 1;
 }
-.badge47__do { font-size: clamp(.9rem, 5cqw, 1.5rem); font-weight: 600; }
+.badge47__do { font-size: clamp(.9rem, 5cqw, 1.6rem); font-weight: 700; }
 .badge47__liczba { font-size: clamp(1.9rem, 12cqw, 3.8rem); font-weight: 700; color: var(--c-blue-light); letter-spacing: -.02em; }
-.badge47__opis { font-size: clamp(.8rem, 4.5cqw, 1.2rem); font-weight: 700; }
+.badge47__opis { font-size: clamp(.8rem, 4.5cqw, 1.375rem); font-weight: 700; line-height: 1; }
 .korzysc__media--skarbonka { container-type: inline-size; }
 .przypis { width: 100%; max-width: 980px; margin: 28px auto 0; padding-inline: var(--gutter); font-size: .69rem; font-weight: 300; line-height: 1.15; text-align: center; color: var(--c-white); }
 .przypis a { color: inherit; }
@@ -205,11 +209,11 @@ sup a { text-decoration: none; }
   /* 3. Niskie zużycie prądu */
   .korzysc--prad .korzysc__inner { grid-template-columns: 530px 1fr; padding-top: 45px; }
   .korzysc--prad .korzysc__text { padding-top: 55px; align-self: start; }
-  .korzysc--prad .korzysc__media { justify-self: start; margin-left: 125px; margin-top: 0; width: 360px; align-self: start; }
-  .badge47 { left: -133px; top: 35px; width: 160px; }
+  .korzysc--prad .korzysc__media { justify-self: start; margin-left: 72px; margin-top: 0; width: 399px; align-self: start; }
+  .badge47 { left: -86px; top: 1px; width: 177px; }
   .badge47__do { font-size: 1.5rem; }
   .badge47__liczba { font-size: 3.5rem; }
-  .badge47__opis { font-size: 1.2rem; }
+  .badge47__opis { font-size: 1.25rem; }
   .przypis { margin-top: 20px; }
 }
 
@@ -276,7 +280,7 @@ sup a { text-decoration: none; }
 .zabawa { position: relative; background: #02254d url("../img/tlo-zabawa-1400.jpg") center / cover no-repeat; color: var(--c-white); padding-top: 84px; overflow: visible; z-index: 1; }
 .zabawa__inner { position: relative; text-align: center; }
 .zabawa__text { margin-top: 30px; font-size: clamp(1.05rem, .95rem + .6vw, 1.625rem); font-weight: 300; line-height: 1.75; }
-.zabawa__media { width: min(100%, 670px); margin: 56px auto 0; overflow: visible; }
+.zabawa__media { width: min(100%, 666px); margin: 56px auto 0; overflow: visible; }
 .zabawa__media img { width: 100%; }
 .zabawa__rekawica { position: absolute; pointer-events: none; z-index: 2; display: none; }
 .zabawa__rekawica--l { left: 0; top: 275px; width: 244px; }
@@ -287,7 +291,7 @@ sup a { text-decoration: none; }
 /* Zawieszka „Nie przeszkadzać” – sylwetka z warstwy PSD (PNG z alfą, gradient z oryginału), tekst w HTML.
    Pozycja w cqw kadru piekarnika (681 px), rozmiary tekstu w cqw samej zawieszki (157 px). */
 .zawieszka {
-  position: absolute; left: 37.7cqw; top: 15.1cqw; width: 23.1cqw; aspect-ratio: 157 / 546; z-index: 2;
+  position: absolute; left: 38.6cqw; top: 15.5cqw; width: 23.6cqw; aspect-ratio: 157 / 546; z-index: 2;
   container-type: inline-size; color: var(--c-white);
 }
 .zawieszka__tlo { position: absolute; inset: 0; }
@@ -334,7 +338,7 @@ sup a { text-decoration: none; }
 .tech__media--ikona { width: min(60%, 263px); }
 .tech--pizza { background: var(--c-grey-2); padding: 55px 0 35px; }
 .tech--pizza .tech__media { width: min(90vw, 412px); }
-@media (max-width: 47.99em) { .tech__text p br { display: none; } .tech__text--prawo { text-align: left; } .tech:not(.tech--homewhiz) .tech__media { order: -1; } }
+@media (max-width: 47.99em) { .tech__text p br { display: none; } .tech__text--prawo { text-align: left; } .tech__media { order: -1; } .tech__h2 { order: -2; } }
 @media (min-width: 48em) {
   .tech__inner { grid-template-columns: 1fr 1fr; gap: 40px; }
   .tech--homewhiz .tech__inner { grid-template-columns: 1fr 314px; align-items: end; }
@@ -353,17 +357,17 @@ sup a { text-decoration: none; }
 /* =====================================================================
    CTA KOŃCOWE
    ===================================================================== */
-.cta { background: var(--c-navy); color: var(--c-white); position: relative; }
-.cta__tytul { padding: 40px var(--gutter) 28px; max-width: var(--page); margin-inline: auto; font-size: clamp(2.2rem, 1.5rem + 3.4vw, 3.5rem); line-height: 1.1; font-weight: 700; text-align: right; }
+.cta { background: var(--c-navy); color: var(--c-white); position: relative; container-type: inline-size; }
+.cta { display: grid; }
+.cta__tytul, .cta__kadr { grid-area: 1 / 1; }
+.cta__tytul { position: relative; z-index: 2; margin-right: 8%; margin-top: 6%; justify-self: end; align-self: start; pointer-events: none; font-size: 7cqw; line-height: 1.05; font-weight: 700; text-align: right; text-shadow: 0 2px 12px rgba(0, 0, 0, .35); }
 .cta__tytul span { font-weight: 400; font-size: .84em; }
-.cta__kadr { max-width: var(--page); margin-inline: auto; aspect-ratio: 1000 / 770; }
+.cta__kadr { width: 100%; aspect-ratio: 1000 / 770; }
 .cta__kadr img { object-fit: cover; }
 .btn--cta { position: absolute; left: 55%; top: 88.3%; translate: -50% -50%; width: 66cqw; height: 9cqw; min-height: 0; font-size: 3.3cqw; white-space: nowrap; padding: 0; }
 @media (min-width: 48em) {
-  .cta { display: grid; }
-  .cta__tytul, .cta__kadr { grid-area: 1 / 1; }
   .cta__kadr { aspect-ratio: 1400 / 770; width: 100%; }
-  .cta__tytul { position: relative; z-index: 2; padding: 0; margin-right: 10.8%; margin-top: 5.6%; justify-self: end; align-self: start; pointer-events: none; font-size: min(3.93vw, 55px); line-height: 1.05; }
+  .cta__tytul { margin-right: 10.8%; margin-top: 5.6%; font-size: 3.93cqw; text-shadow: none; }
   .btn--cta { left: 50%; width: 30cqw; height: 5.2cqw; font-size: 1.3cqw; }
 }
 
@@ -376,22 +380,10 @@ sup a { text-decoration: none; }
     linear-gradient(100deg, #001c41 0%, #06407f 40%, #0d7ac2 75%, #0081ba 100%);
   color: var(--c-white);
 }
-.stopka__pas-img { display: none; max-width: var(--page); margin-inline: auto; }
-.stopka__inner { max-width: var(--page); margin-inline: auto; display: grid; gap: 24px; align-items: center; justify-items: center; padding: 32px var(--gutter); }
-.stopka__agd { width: min(90vw, 570px); }
-.stopka__marka { display: grid; justify-items: center; gap: 22px; }
-.stopka__laur { width: min(60vw, 245px); }
-.stopka__logo { display: block; width: min(60vw, 262px); }
+.stopka__pas-img { width: 100%; }
+.stopka__pas-img img { width: 100%; }
 .stopka__prawne { max-width: 1060px; margin-inline: auto; padding: 16px var(--gutter); font-size: .75rem; font-weight: 500; line-height: 1.35; text-align: center; color: #464646; }
-@media (min-width: 48em) {
-  .stopka__inner { grid-template-columns: 570px 1fr; justify-items: start; }
-  .stopka__marka { justify-self: start; }
-}
-@media (min-width: 48em) {
-  .stopka__pas { background: var(--c-navy-dark); }
-  .stopka__pas-img { display: block; }
-  .stopka__inner { display: none; }
-}
+.stopka__pas { background: var(--c-navy-dark); }
 
 /* =====================================================================
    MODAL WIDEO

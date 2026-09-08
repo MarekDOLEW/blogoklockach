@@ -19,6 +19,32 @@
     reveals.forEach((el) => io.observe(el));
   }
 
+  /* ---------- Licznik minutnika: odliczanie 01:00 -> 59:00 przy wejściu w okno ---------- */
+  const MAPA = { 0: 'abcdef', 1: 'bc', 2: 'abged', 3: 'abgcd', 4: 'fgbc', 5: 'afgcd', 6: 'afgedc', 7: 'abc', 8: 'abcdefg', 9: 'abcdfg' };
+  document.querySelectorAll('[data-licznik]').forEach((svg) => {
+    const cyfry = [...svg.querySelectorAll('.licznik__cyfra')];
+    const pokaz = (min) => {
+      const tekst = String(min).padStart(2, '0') + '00';
+      cyfry.forEach((g, i) => { const on = MAPA[tekst[i]]; g.querySelectorAll('.seg').forEach((r) => r.classList.toggle('is-on', on.includes(r.className.baseVal.match(/seg-(\w)/)[1]))); });
+    };
+    const od = +svg.dataset.od || 1, doM = +svg.dataset.do || 59;
+    if (zredukowany || !('IntersectionObserver' in window)) { pokaz(doM); return; }
+    pokaz(od);
+    const io = new IntersectionObserver((w) => {
+      if (!w[0].isIntersecting) return;
+      io.disconnect();
+      const start = performance.now(), czas = 3000;
+      const krok = (t) => {
+        const p = Math.min(1, (t - start) / czas);
+        const e = 1 - Math.pow(1 - p, 3); // ease-out
+        pokaz(Math.round(od + (doM - od) * e));
+        if (p < 1) requestAnimationFrame(krok);
+      };
+      requestAnimationFrame(krok);
+    }, { threshold: 0.6 });
+    io.observe(svg);
+  });
+
   /* ---------- Karuzele (scroll-snap + przyciski) ---------- */
   document.querySelectorAll('[data-karuzela]').forEach((kar) => {
     const tor = kar.querySelector('[data-tor]');
@@ -56,16 +82,16 @@
   const tytul = modal && modal.querySelector('#modal-tytul');
   let ostatniFokus = null;
 
-  const osadz = (src, nazwa) => {
+  const osadz = (src, nazwa, webm) => {
     ekran.innerHTML = '';
-    if (!src) {
+    if (!src && !webm) {
       const p = document.createElement('p');
       p.className = 'modal__brak';
       p.textContent = 'Film „' + nazwa + '” zostanie podpięty po dostarczeniu pliku wideo lub adresu YouTube.';
       ekran.appendChild(p);
       return;
     }
-    const yt = src.match(/(?:youtu\.be\/|v=|embed\/)([\w-]{11})/);
+    const yt = (src || '').match(/(?:youtu\.be\/|v=|embed\/)([\w-]{11})/);
     if (yt) {
       const f = document.createElement('iframe');
       f.src = 'https://www.youtube-nocookie.com/embed/' + yt[1] + '?autoplay=1&rel=0';
@@ -76,8 +102,11 @@
       ekran.appendChild(f);
     } else {
       const v = document.createElement('video');
-      v.src = src; v.controls = true; v.autoplay = true; v.playsInline = true;
+      v.controls = true; v.autoplay = true; v.playsInline = true; v.preload = 'auto';
       v.setAttribute('aria-label', nazwa);
+      // MP4 (H.264) dla wszystkich przeglądarek + WebM (VP9) jako lżejsza alternatywa
+      if (src) { const s1 = document.createElement('source'); s1.src = src; s1.type = 'video/mp4'; v.appendChild(s1); }
+      if (webm) { const s2 = document.createElement('source'); s2.src = webm; s2.type = 'video/webm'; v.appendChild(s2); }
       ekran.appendChild(v);
     }
   };
@@ -88,7 +117,7 @@
         ostatniFokus = btn;
         const nazwa = btn.dataset.tytul || 'Film';
         tytul.textContent = nazwa;
-        osadz(btn.dataset.wideo, nazwa);
+        osadz(btn.dataset.wideo, nazwa, btn.dataset.wideoWebm);
         modal.showModal();
       });
     });

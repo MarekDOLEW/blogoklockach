@@ -78,3 +78,12 @@ w 121 plikach, z czego przeglądarka pobiera jeden wariant formatu i rozmiaru.
 - [ ] Dodać stronę do sitemap serwisu Beko i sprawdzić w Search Console (Rich Results Test dla JSON-LD).
 - [ ] Analityka i baner cookie tylko jeśli klient go wymaga – wtedy zdarzenia: klik „Sprawdź”, play wideo, klik CTA.
 - [ ] Ponowny Lighthouse po podmianie zdjęć (cel: LCP < 2,5 s na mobile).
+
+
+## Media (wersja 4)
+
+- Spoty skompresowane do 720p: MP4 H.264 (4,6 MB i 4,3 MB) + WebM VP9 (2,4 MB i 1,6 MB).
+  Ładowane wyłącznie po kliknięciu play, więc nie wpływają na LCP ani na wagę startową strony.
+- Komenda kompresji (ffmpeg): `-vf scale=-2:720 -c:v libx264 -preset slow -b:v <bitrate>k -c:a aac -b:a 96k -movflags +faststart`
+  (bitrate dobrany tak, by plik ≤ 5 MB) oraz `-c:v libvpx-vp9 -crf 34 -b:v 0 -c:a libopus -b:a 80k` dla WebM.
+- Do rozważenia na produkcji: hosting wideo na CDN/YouTube zamiast w repo (`data-wideo` przyjmuje też URL YouTube).

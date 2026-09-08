@@ -13,7 +13,7 @@ mkdirSync(ROOT + 'dist', { recursive: true });
 let html = readFileSync(ROOT + 'index.html', 'utf8');
 const css = readFileSync(ROOT + 'css/style.css', 'utf8');
 const js = readFileSync(ROOT + 'js/main.js', 'utf8');
-const MIME = { jpg: 'image/jpeg', webp: 'image/webp', avif: 'image/avif', png: 'image/png' };
+const MIME = { jpg: 'image/jpeg', webp: 'image/webp', avif: 'image/avif', png: 'image/png', mp4: 'video/mp4', webm: 'video/webm' };
 const cache = new Map();
 const dataUri = (sciezka) => {
   if (!cache.has(sciezka)) {
@@ -32,6 +32,9 @@ html = html.replace(/<link rel="stylesheet" href="css\/style\.css">/, () => `<st
 html = html.replace(/<script src="js\/main\.js" defer><\/script>/, () => `<script>\n${js}\n</script>`);
 // 3. obrazy -> data URI (src, srcset)
 html = html.replace(/img\/[a-z0-9-]+\.(?:jpg|webp|png)/g, (m) => dataUri(m));
+// filmy: w podglądzie jednoplikowym osadzamy tylko lekkie WebM (limit 16 MB); MP4 zostaje na produkcji w media/
+html = html.replace(/data-wideo="media\/[a-z0-9-]+\.mp4"/g, 'data-wideo=""');
+html = html.replace(/data-wideo-webm="(media\/[a-z0-9-]+\.webm)"/g, (m, p) => `data-wideo-webm="${dataUri(p)}"`);
 
 writeFileSync(ROOT + 'dist/index.html', html);
 

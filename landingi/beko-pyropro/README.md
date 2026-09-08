@@ -68,10 +68,34 @@ leży na niej w HTML. Rękawice dekoracyjne (wstęp i sekcja „Mniej sprzątani
 są przypięte do krawędzi okna, więc na szerokich ekranach rozsuwają się poza
 pole 1400 px.
 
+## Filmy
+
+`media/` zawiera oryginały spotów (`Beko_Spot_*.mp4`, 1080p) i wersje webowe
+zrobione ffmpegiem: `pyropro-header` (spot v3, hero) i `pyropro-technologiczny`
+(sekcja wideo) – MP4 H.264 720p ≤ 5 MB oraz WebM VP9 (ok. połowa wagi).
+Przyciski play mają `data-wideo` (MP4) i `data-wideo-webm`; modal `<dialog>`
+tworzy `<video>` dopiero po kliknięciu (nic nie ładuje się na starcie).
+Ponowna kompresja: patrz komenda w `AUDYT-SEO-UX.md`, sekcja „Media”.
+
+## Szerokość strony
+
+Hero, sekcja końcowa „Więcej czasu” i pas stopki rozciągają się na całą
+szerokość przeglądarki (zdjęcia z PSD są w 1400 px, powyżej tej szerokości są
+skalowane w górę). Tekst hero i CTA jest w jednostkach `cqw` kontenera, więc
+skaluje się razem ze zdjęciem. Pozostałe sekcje mają kolumnę treści 940 px,
+a rękawice dekoracyjne trzymają się krawędzi okna.
+
+## Licznik minutnika
+
+Cyfry „59:00” wypalone w zdjęciu minutnika są zamalowane (interpolacja koloru
+wyświetlacza), a nad nimi leży wyświetlacz siedmiosegmentowy w SVG. JS odlicza
+od 01:00 do 59:00 (3 s, ease-out), gdy sekcja wejdzie w okno; przy
+`prefers-reduced-motion` i bez JS wyświetlacz pokazuje od razu 59:00.
+
 ## Do uzupełnienia przed publikacją
 
-- adresy `href` przy przyciskach „Sprawdź” (4 karty) i docelowy `canonical`/OG w `<head>`,
-- filmy: atrybut `data-wideo` na przyciskach play (URL YouTube lub plik MP4),
+- docelowy `canonical`/OG w `<head>` (adresy produktów na beko.com są już podpięte),
+- film AeroPerfect (przycisk play w sekcji technologii) – brak pliku,
 - sekcja „Opinie” – prawdziwe opinie zamiast *lorem ipsum* z layoutu,
 - treść przypisów prawnych (`*` 47 % energii, `**` marka nr 1) – do potwierdzenia z klientem,
 - minifikacja CSS/JS i nagłówki cache po stronie serwera (patrz audyt).
