@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-07",
+  "data_aktualizacji": "2026-09-08",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1168,
   "sety": [
@@ -5764,7 +5764,8 @@
       }
     ],
     "rekomendacja": "Kompletny kalendarz premier na 1 pazdziernika — gotowy material na tekst typu 'co LEGO wypuszcza 1 pazdziernika'. Trzy watki: flagowiec Star Wars (75457 Executor, 6130 el.), fala swiateczna Seasonal (5 zestawow, wszystkie z cenami EUR od 02.09) i domkniecie linii Avengers: Doomsday (4 zestawy). Material powinien byc gotowy przed 1 pazdziernika.",
-    "status_2026_09_07": "FALA KOMPLETNA. 11379 dostal nazwe w Brickset 2026-09-07 00:53: 'Bookshop: Book Nook', Icons, 1690 el., 18+, 129,99 EUR, premiera 2026-10-01. Potwierdza to, co StoneWars podawal z jednego zrodla od 02.09. Wszystkie zestawy fali 1 pazdziernika maja juz nazwy."
+    "status_2026_09_07": "FALA KOMPLETNA. 11379 dostal nazwe w Brickset 2026-09-07 00:53: 'Bookshop: Book Nook', Icons, 1690 el., 18+, 129,99 EUR, premiera 2026-10-01. Potwierdza to, co StoneWars podawal z jednego zrodla od 02.09. Wszystkie zestawy fali 1 pazdziernika maja juz nazwy.",
+    "status_2026_09_08": "11379 oficjalnie zaprezentowany i dostepny w przedsprzedazy — StoneWars 2026-09-07 ('offiziell vorgestellt und vorbestellbar'). DO ZROBIENIA: cena w zl nadal nieznana, nie ma jej ani w katalog.json, ani w oferty_feed.json. Wpis w sety.json ma cena_katalogowa: null i wyraznie oznaczone oszacowanie 550-580 zl. Podmienic na cene faktyczna, gdy Lowca zaciagnie ja z feedow."
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
@@ -5820,7 +5821,8 @@
     "stonewars": "'LEGO Harry Potter Sets zur neuen HBO-Serie bestaetigt! Teaser zeigt erste Minifiguren'",
     "slad_w_katalogu": "Brickset 2026-09-03 zalozyl trzy nowe rekordy Harry Potter na rocznik 2027 (76481, 76482, 76492), a 2026-09-05 czwarty (76480). Lacznie kohorta HP 2027 to 7 numerow bez nazwy: 30751, 76479, 76480, 76481, 76482, 76483, 76492. Rezerwacje przybywaja w dniach, w ktorych serwisy pisza o serialu — to nadal nasza interpretacja, nie fakt podany przez zrodlo.",
     "czego_NIE_wiemy": "Ani numery, ani nazwy, ani ceny zestawow do serialu nie sa znane. Powiazanie miedzy rezerwacjami 2027 a zapowiedzia HBO jest nasza interpretacja, nie faktem podanym przez zrodlo.",
-    "konsekwencja_redakcyjna": "Obecne moduly zamku i Wielka Sala moga przyspieszyc EOL. Warto o tym wspominac w opisach zestawow HP jako ryzyko, nie jako pewnik. Marek 2026-09-04 jawnie odrzucil przestawienie priorytetu kolejki redakcyjnej na Harry'ego Pottera — kolejnosc pozostaje po cenie malejaco."
+    "konsekwencja_redakcyjna": "Obecne moduly zamku i Wielka Sala moga przyspieszyc EOL. Warto o tym wspominac w opisach zestawow HP jako ryzyko, nie jako pewnik. Marek 2026-09-04 jawnie odrzucil przestawienie priorytetu kolejki redakcyjnej na Harry'ego Pottera — kolejnosc pozostaje po cenie malejaco.",
+    "plotki_stonewars_2026_09_07": "StoneWars opublikowal 'LEGO Harry Potter 2027 Geruechte-Uebersicht' — zestawy do serialu HBO oraz rzekoma nowa Kammer des Schreckens Collectors Edition. Serwis SAM oznacza to jako plotki (Geruechte). UWAGA METODOLOGICZNA: to nie jest niezalezne potwierdzenie naszej interpretacji rezerwacji HP 2027 — StoneWars spekuluje w te sama strone, co my, na tych samych przeslankach. Dwie spekulacje to nadal zero faktow. Nie publikowac."
   },
   "przeglad_2026_09_06": {
     "wynik": "Brak nowych zestawow do opisania. Zadnej nowej nazwy, ceny ani daty premiery.",
@@ -5835,5 +5837,17 @@
     "stonewars": "Jeden nowy wpis: poradnik laczenia modulow zamku Hogwart (aktualizacja starego tekstu). O nadaniu nazwy 11379 nie pisza, choc sami podawali ja z jednego zrodla od 02.09.",
     "wniosek": "Nazwe 11379 potwierdzil katalog, nie serwis newsowy — zgodnie z zasada, ze dane twarde biora sie z Bricksetu. Zapowiedz przestaje byc niepotwierdzona.",
     "bez_zmian": "40899 (Astro Bot) i plytka 1,5 wypustki — nadal jedno zrodlo, statusy zostaja."
+  },
+  "do_obserwacji_jakosc_produkcji": {
+    "ustalenie": "StoneWars 2026-09-07: 'Qualitaetsproblem in der Fertigung? Weissbruch und Spannungsrisse bei zwei aktuellen Minifiguren' — zbielenia i pekniecia naprezeniowe w dwoch biezacych minifigurkach.",
+    "status": "JEDNO ZRODLO, PromoBricks milczy, Brickset takich rzeczy nie rejestruje. Nie publikowac.",
+    "dlaczego_sledzimy": "Jesli sie potwierdzi, to material do sekcji 'na co uwazac' w opisach zestawow z tymi figurkami — a nie temat sam w sobie. Wada produkcyjna to zarzut wobec producenta i wymaga drugiego zrodla."
+  },
+  "przeglad_2026_09_08": {
+    "wynik": "Brak nowych zestawow do opisania. sety.json nietkniety.",
+    "brickset": "7 rekordow ruszonych od 07.09: 11379 (juz opisany wczoraj) i szesc kart kolekcjonerskich Star Wars o numerach 66499xx. Rocznik 2027 bez zadnej zmiany.",
+    "uwaga_do_filtra": "Karty maja kategorie '{t.b.a.}', czyli te, ktorej wczorajsza regula kazala NIE odsiewac, ale motyw 'Gear' i siedmiocyfrowy numer. Wniosek: gdy kategoria jest '{t.b.a.}', o szumie decyduje MOTYW. Regula uzupelniona w RUNBOOK.",
+    "promobricks": "Jeden nowy wpis (Insiders Mitgliedertag 2026) — akcja punktowa, nie nowosc produktowa.",
+    "stonewars": "Trzy nowe wpisy: oficjalna prezentacja 11379, przeglad PLOTEK o Harry Potterze 2027 oraz sygnal o wadzie produkcyjnej minifigurek."
   }
 }

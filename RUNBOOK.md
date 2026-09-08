@@ -459,6 +459,14 @@ Reguła po poprawce: **odsiewaj po tym, co jest szumem** (`Gear`, `Book`,
 Wszystko inne — łącznie z `{t.b.a.}` i każdą nową wartością, której
 wcześniej nie widziałeś — traktuj jako zestaw i sprawdź ręcznie.
 
+**Uzupełnienie** *(8.09.2026)*: `{t.b.a.}` w polu `category` znaczy tylko
+tyle, że kategorii nie nadano — nie że rekord jest zestawem. Gdy kategoria
+jest pusta, **o szumie decyduje motyw**. Tego dnia przyszło sześć rekordów
+`category='{t.b.a.}'`, `theme='Gear'` o numerach `66499xx` — karty
+kolekcjonerskie Star Wars, czyli merch. Praktyczna kolejność sprawdzania:
+kategoria → jeśli `{t.b.a.}`, to motyw → jeśli i to nie rozstrzyga, numer
+(7 cyfr to prawie zawsze gadżet).
+
 ## Co NIE trafia na stronę publiczną
 
 Ustalone 28.08.2026 po wpadce: plan redakcyjny został opublikowany jako
