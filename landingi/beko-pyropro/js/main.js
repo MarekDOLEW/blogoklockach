@@ -30,21 +30,22 @@
     const od = +svg.dataset.od || 1, doM = +svg.dataset.do || 59;
     if (zredukowany || !('IntersectionObserver' in window)) { pokaz(doM); return; }
     pokaz(od);
-    let raf = 0;
+    let raf = 0, pauza = 0, wOknie = false;
     const odliczaj = () => {
-      cancelAnimationFrame(raf);
-      const start = performance.now(), czas = 3500;
+      cancelAnimationFrame(raf); clearTimeout(pauza);
+      const start = performance.now(), czas = 3500, postoj = 2000;
       const krok = (t) => {
         const p = Math.min(1, (t - start) / czas);
         const e = 1 - Math.pow(1 - p, 3); // ease-out
         pokaz(Math.round(od + (doM - od) * e));
         if (p < 1) raf = requestAnimationFrame(krok);
+        else pauza = setTimeout(() => { if (wOknie) odliczaj(); }, postoj); // chwila na 59:00 i od nowa
       };
       raf = requestAnimationFrame(krok);
     };
-    // odliczanie startuje za każdym razem, gdy minutnik wjeżdża w okno; poza oknem wraca do 01:00
+    // pętla: odliczanie trwa, dopóki minutnik jest w oknie; poza oknem wraca do 01:00
     const io = new IntersectionObserver((w) => {
-      w.forEach((e) => { if (e.isIntersecting) odliczaj(); else { cancelAnimationFrame(raf); pokaz(od); } });
+      w.forEach((e) => { wOknie = e.isIntersecting; if (wOknie) odliczaj(); else { cancelAnimationFrame(raf); clearTimeout(pauza); pokaz(od); } });
     }, { threshold: 0.6 });
     io.observe(svg);
   });

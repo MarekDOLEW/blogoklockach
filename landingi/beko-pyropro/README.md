@@ -94,8 +94,9 @@ a rękawice dekoracyjne trzymają się krawędzi okna.
 
 Cyfry „59:00” wypalone w zdjęciu minutnika są zamalowane (interpolacja koloru
 wyświetlacza), a nad nimi leży wyświetlacz siedmiosegmentowy w SVG. JS odlicza
-od 01:00 do 59:00 (3 s, ease-out), gdy sekcja wejdzie w okno; przy
-`prefers-reduced-motion` i bez JS wyświetlacz pokazuje od razu 59:00.
+od 01:00 do 59:00 (3,5 s, ease-out) w pętli z 2-sekundowym postojem na 59:00,
+dopóki minutnik jest w oknie; przy `prefers-reduced-motion` i bez JS wyświetlacz
+pokazuje od razu 59:00.
 
 ## Do uzupełnienia przed publikacją
 
