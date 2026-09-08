@@ -5,23 +5,26 @@
    ===================================================================== */
 
 :root {
-  --c-navy: #01224f;         /* tło sekcji granatowych */
+  --c-navy: #023260;         /* tło sekcji granatowych (z PSD) */
+  --c-navy-dark: #01224f;    /* ciemniejszy pas „Szybki efekt” */
   --c-navy-2: #023260;       /* jaśniejszy panel */
   --c-navy-deep: #021f3d;    /* odznaka 47% */
-  --c-navy-text: #0b3775;    /* nagłówki na jasnym tle */
+  --c-navy-text: #023a7a;    /* nagłówki na jasnym tle (z PSD) */
   --c-tile: #013565;         /* kafelki cech */
-  --c-blue: #1a7fd4;         /* przyciski, gwiazdki */
+  --c-blue: #108acb;         /* przyciski „Sprawdź” */
+  --c-star: #008ac8;
   --c-blue-hover: #1467ad;
-  --c-blue-light: #3aa0e8;   /* akcenty na granacie */
+  --c-blue-light: #0b8bcc;   /* akcenty w treści na granacie */
+  --c-intro: #00aeef;        /* tekst wstępu */
   --c-blue-arrow: #2b8fe0;
-  --c-blue-kicker: #2b74c2;
+  --c-blue-kicker: #023a7a;
   --c-grey-1: #dedede;       /* pasek kafelków */
   --c-grey-2: #e6e6e6;       /* opinie, aero, pizza */
-  --c-text: #1c2b45;
-  --c-text-muted: #555b66;
+  --c-text: #031b27;
+  --c-text-muted: #031b27;
   --c-white: #fff;
 
-  --font: "Mulish", "Segoe UI", Roboto, Arial, sans-serif;
+  --font: "Encode Sans", "Segoe UI", Roboto, Arial, sans-serif;
   --page: 1400px;
   --content: 940px;
   --gutter: 20px;
@@ -56,22 +59,23 @@ sup a { text-decoration: none; }
 .pole { width: 100%; max-width: var(--page); margin-inline: auto; position: relative; }
 
 /* ---------- Typografia ---------- */
-.h2 { font-size: clamp(1.9rem, 1.2rem + 2.6vw, 3.25rem); line-height: 1.15; font-weight: 800; color: var(--c-white); text-align: center; text-wrap: balance; }
+.h2 { font-size: clamp(1.8rem, 1.2rem + 2.2vw, 3rem); line-height: 1.15; font-weight: 800; color: var(--c-white); text-align: center; text-wrap: balance; }
 .h2--navy { color: var(--c-navy-text); }
 .h2--lewo { text-align: left; }
-.h3 { font-size: clamp(1.45rem, 1.15rem + 1vw, 2.25rem); line-height: 1.2; font-weight: 800; color: var(--c-white); }
+.h3 { font-size: clamp(1.4rem, 1.1rem + .9vw, 2.25rem); line-height: 1.2; font-weight: 700; color: var(--c-white); }
 .akcent { color: var(--c-blue-light); font-weight: 700; }
-.kicker { text-align: center; font-weight: 300; font-size: clamp(1.15rem, 1rem + .8vw, 1.875rem); color: var(--c-blue-kicker); }
+.kicker { text-align: center; font-weight: 500; font-size: clamp(1.15rem, 1rem + .8vw, 1.95rem); color: var(--c-blue-kicker); }
 
 /* ---------- Przyciski ---------- */
 .btn {
   display: inline-flex; align-items: center; justify-content: center;
   min-height: 40px; padding: 0 1.4em; background: var(--c-blue); color: var(--c-white);
-  font-weight: 800; font-size: 1.125rem; text-decoration: none; border-radius: 10px; border: 0;
+  font-weight: 700; font-size: 1.375rem; text-decoration: none; border-radius: 10px; border: 0;
   transition: background var(--t), transform var(--t) var(--ease);
 }
 .btn:hover { background: var(--c-blue-hover); transform: translateY(-1px); }
-.btn--cta { border-radius: 999px; }
+.btn--cta { border-radius: 999px; background: #003b7a; font-weight: 800; }
+.btn--cta:hover { background: #0b4d99; }
 
 .play {
   position: absolute; left: 50%; top: 50%; translate: -50% -50%;
@@ -101,9 +105,10 @@ sup a { text-decoration: none; }
 .hero { background: var(--c-navy); color: var(--c-white); position: relative; z-index: 2; }
 .hero__copy { position: relative; padding: 20px var(--gutter) 24px; max-width: var(--page); margin-inline: auto; }
 .hero__logo { display: block; width: 96px; margin-left: auto; margin-bottom: 8px; }
-.hero__title { font-size: clamp(2.4rem, 1.6rem + 4vw, 4.125rem); line-height: 1.2; font-weight: 800; letter-spacing: -.01em; }
-.hero__lead { margin-top: 14px; font-size: clamp(1.1rem, 1rem + .6vw, 1.625rem); font-weight: 300; line-height: 1.35; }
-.hero__lead strong { font-weight: 800; }
+.hero__title { font-size: clamp(2.4rem, 1.6rem + 4vw, 4.3rem); line-height: 1.16; font-weight: 700; }
+.hero__brand { font-weight: 800; }
+.hero__lead { margin-top: 14px; font-size: clamp(1.1rem, 1rem + .6vw, 1.625rem); font-weight: 400; line-height: 1.35; }
+.hero__lead strong { font-weight: 700; }
 .hero__kadr { max-width: var(--page); margin-inline: auto; aspect-ratio: 1100 / 700; overflow: visible; }
 .hero__kadr img { object-fit: cover; }
 /* pozycje przycisku i odznaki = miejsca wypalone w zdjęciu (kadr mobilny 1100×700) */
@@ -128,7 +133,7 @@ sup a { text-decoration: none; }
   .hero__copy { z-index: 2; padding: 0; pointer-events: none; width: 100%; }
   .hero__copy > * { pointer-events: auto; }
   .hero__logo { position: absolute; right: 8.6%; top: 6.4%; width: 9.6%; margin: 0; }
-  .hero__title { position: absolute; left: 8.4%; top: 7.8%; font-size: min(4.7vw, 66px); line-height: 1.21; }
+  .hero__title { position: absolute; left: 8.4%; top: 7.2%; font-size: min(4.93vw, 69px); line-height: 1.16; }
   .hero__lead { position: absolute; left: 8.4%; top: 44.3%; margin: 0; font-size: min(1.86vw, 26px); }
   .hero__play { left: 49.3%; top: 46%; width: 6.9cqw; height: 6.9cqw; }
   .badge59 { left: 69%; width: 15.4cqw; }
@@ -142,11 +147,10 @@ sup a { text-decoration: none; }
 /* =====================================================================
    WPROWADZENIE
    ===================================================================== */
-.intro { position: relative; overflow: hidden; background: var(--c-navy); color: var(--c-white); text-align: center; padding: 96px 0 44px; }
-.intro::before { content: ""; position: absolute; inset: 0; background: linear-gradient(112deg, transparent 38%, rgba(255, 255, 255, .05) 38%, rgba(255, 255, 255, .05) 100%); pointer-events: none; }
+.intro { position: relative; overflow: hidden; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
 .intro .container { position: relative; }
-.intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 300; color: var(--c-blue-light); line-height: 1.55; }
-.intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.625rem); font-weight: 800; line-height: 1.5; }
+.intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
+.intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
 .intro__rekawica { position: absolute; left: 0; top: 130px; width: 215px; pointer-events: none; }
 @media (max-width: 68.74em) { .intro__rekawica { width: 120px; top: auto; bottom: 0; opacity: .9; } .intro br { display: none; } }
 @media (min-width: 68.75em) { .intro__rekawica { left: max(0px, calc(50% - 700px)); } }
@@ -156,17 +160,18 @@ sup a { text-decoration: none; }
    ===================================================================== */
 .korzysci { background: var(--c-navy); color: var(--c-white); position: relative; padding-top: 40px; }
 .korzysc__inner { width: 100%; max-width: var(--page); margin-inline: auto; padding-inline: var(--gutter); display: grid; gap: 28px; align-items: center; }
-.korzysc__text p { font-size: clamp(1.05rem, .95rem + .5vw, 1.5rem); font-weight: 300; line-height: 1.75; max-width: 540px; }
+.korzysc__text p { font-size: clamp(1.05rem, .95rem + .5vw, 1.5rem); font-weight: 400; line-height: 1.8; max-width: 540px; }
 .korzysc__ikona { width: 90px; margin-bottom: 26px; }
 .korzysc__ikona img { width: 100%; }
 .h3 + p { margin-top: 26px; }
 .korzysc__media { position: relative; justify-self: center; }
 .korzysc__media img { width: 100%; }
 .korzysc { padding-block: 48px; }
-.korzysc--bezpieczne { background: var(--c-navy-2); }
+.korzysc--bezpieczne { background: var(--c-navy); }
+.korzysc--szybkie { background: var(--c-navy-dark); }
 .korzysc__media--balon { width: min(70vw, 470px); }
-.korzysc__media--minutnik { width: min(80vw, 530px); container-type: inline-size; }
-.korzysc__play { left: 44%; top: 62%; width: 18.9cqw; height: 18.9cqw; }
+.korzysc__media--minutnik { width: min(90vw, 600px); container-type: inline-size; }
+.korzysc__play { left: 56%; top: 60%; width: 17cqw; height: 17cqw; }
 .korzysc__media--skarbonka { width: min(75vw, 360px); margin-top: 40px; }
 .badge47 {
   position: absolute; left: -6%; top: -4%; width: 44%; aspect-ratio: 1; border-radius: 50%;
@@ -174,10 +179,10 @@ sup a { text-decoration: none; }
   text-align: center; line-height: 1.05; z-index: 1;
 }
 .badge47__do { font-size: clamp(.9rem, 5cqw, 1.5rem); font-weight: 600; }
-.badge47__liczba { font-size: clamp(1.9rem, 12cqw, 3.5rem); font-weight: 800; color: var(--c-blue-light); letter-spacing: -.03em; }
+.badge47__liczba { font-size: clamp(1.9rem, 12cqw, 3.8rem); font-weight: 700; color: var(--c-blue-light); letter-spacing: -.02em; }
 .badge47__opis { font-size: clamp(.8rem, 4.5cqw, 1.2rem); font-weight: 700; }
 .korzysc__media--skarbonka { container-type: inline-size; }
-.przypis { width: 100%; max-width: 980px; margin: 28px auto 0; padding-inline: var(--gutter); font-size: .69rem; line-height: 1.35; text-align: center; color: rgba(255, 255, 255, .92); }
+.przypis { width: 100%; max-width: 980px; margin: 28px auto 0; padding-inline: var(--gutter); font-size: .69rem; font-weight: 300; line-height: 1.15; text-align: center; color: var(--c-white); }
 .przypis a { color: inherit; }
 
 @media (min-width: 48em) {
@@ -195,7 +200,7 @@ sup a { text-decoration: none; }
   .korzysc--bezpieczne .korzysc__media { justify-self: end; margin-top: -114px; align-self: start; }
   /* 2. Szybki efekt: minutnik od x 95, tekst od x 655 */
   .korzysc--szybkie .korzysc__inner { grid-template-columns: 425px 1fr; padding-top: 45px; }
-  .korzysc--szybkie .korzysc__media { margin-left: -135px; width: 530px; justify-self: start; align-self: start; }
+  .korzysc--szybkie .korzysc__media { margin-left: -195px; width: 600px; justify-self: start; align-self: start; margin-top: -20px; }
   .korzysc--szybkie .korzysc__text { padding-top: 15px; align-self: start; }
   /* 3. Niskie zużycie prądu */
   .korzysc--prad .korzysc__inner { grid-template-columns: 530px 1fr; padding-top: 45px; }
@@ -223,11 +228,11 @@ sup a { text-decoration: none; }
 .cechy__lista { display: grid; grid-template-columns: repeat(3, 175px); justify-content: center; gap: 24px; }
 .cecha { display: grid; justify-items: center; text-align: center; }
 .kafelek { width: 175px; height: 175px; border-radius: 24px; background: var(--c-tile); color: var(--c-white); display: grid; grid-template-rows: auto 1fr; justify-items: center; padding: 16px 8px 14px; }
-.kafelek__tytul { font-weight: 800; font-size: 1.125rem; line-height: 1.05; text-align: center; }
+.kafelek__tytul { font-weight: 700; font-size: 1.2rem; line-height: 1.05; text-align: center; }
 .kafelek__ikona { align-self: center; width: 95px; height: 95px; border-radius: 50%; border: 2px dashed rgba(255, 255, 255, .95); display: grid; place-items: center; margin-top: 4px; }
-.kafelek__ikona svg { width: 62px; height: 62px; }
-.kafelek__ikona--tekst { font-size: 2rem; font-weight: 800; letter-spacing: -.02em; }
-.cecha__opis { margin-top: 12px; font-size: 1.125rem; line-height: 1.4; color: var(--c-text); }
+.kafelek__ikona img { width: 62px; }
+.kafelek__ikona--tekst { font-size: 2.3rem; font-weight: 600; letter-spacing: -.02em; }
+.cecha__opis { margin-top: 12px; font-size: 1.06rem; line-height: 1.5; color: var(--c-text); }
 @media (max-width: 47.99em) { .cechy { padding-block: 48px 32px; } .cechy__lista { grid-template-columns: 175px; gap: 28px; } }
 @media (min-width: 68.75em) { .cechy__lista { gap: 148px; } }
 
@@ -253,13 +258,13 @@ sup a { text-decoration: none; }
 .karuzela__btn[disabled] { cursor: default; }
 .karuzela__btn[hidden] { display: none; }
 .produkt { display: grid; justify-items: center; text-align: center; }
-.produkt img { width: 210px; }
-.produkt__nazwa { margin-top: 20px; font-size: 1.125rem; font-weight: 400; color: var(--c-navy); line-height: 1.4; }
-.produkt__typ { display: block; font-size: .95rem; color: var(--c-text-muted); }
+.produkt img { width: 178px; }
+.produkt__nazwa { margin-top: 24px; font-size: 1.19rem; font-weight: 500; color: var(--c-text); line-height: 1.4; }
+.produkt__typ { display: block; font-size: .95rem; font-weight: 300; }
 .produkt .btn { margin-top: 16px; width: 150px; }
 @media (min-width: 68.75em) {
   .karuzela { padding-inline: 50px; }
-  .karuzela__tor { grid-auto-flow: row; grid-template-columns: repeat(4, 210px); justify-content: space-between; gap: 0; overflow: visible; padding-inline: 0; }
+  .karuzela__tor { grid-auto-flow: row; grid-template-columns: repeat(4, 178px); justify-content: space-between; gap: 0; overflow: visible; padding-inline: 0; }
   .karuzela--opinie .karuzela__tor { grid-template-columns: repeat(3, 250px); justify-content: space-around; }
   .karuzela--produkty .karuzela__btn--prev { left: 0; }
   .karuzela--produkty .karuzela__btn--next { right: 0; }
@@ -268,10 +273,9 @@ sup a { text-decoration: none; }
 /* =====================================================================
    ZABAWA (granat) + zawieszka
    ===================================================================== */
-.zabawa { position: relative; background: var(--c-navy); color: var(--c-white); padding-top: 84px; overflow: visible; z-index: 1; }
-.zabawa::before { content: ""; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 55%, rgba(255, 255, 255, .05) 55%); pointer-events: none; }
+.zabawa { position: relative; background: #02254d url("../img/tlo-zabawa-1400.jpg") center / cover no-repeat; color: var(--c-white); padding-top: 84px; overflow: visible; z-index: 1; }
 .zabawa__inner { position: relative; text-align: center; }
-.zabawa__text { margin-top: 30px; font-size: clamp(1.05rem, .95rem + .6vw, 1.625rem); font-weight: 300; line-height: 1.7; }
+.zabawa__text { margin-top: 30px; font-size: clamp(1.05rem, .95rem + .6vw, 1.625rem); font-weight: 300; line-height: 1.75; }
 .zabawa__media { width: min(100%, 670px); margin: 56px auto 0; overflow: visible; }
 .zabawa__media img { width: 100%; }
 .zabawa__rekawica { position: absolute; pointer-events: none; z-index: 2; display: none; }
@@ -281,11 +285,11 @@ sup a { text-decoration: none; }
 @media (max-width: 68.74em) { .zabawa__text br { display: none; } }
 
 /* Zawieszka „Nie przeszkadzać” – tekst w HTML, pozycja i rozmiary w cqw kadru 670 px */
-.zawieszka { position: absolute; left: 37.3cqw; top: 17.2cqw; width: 25.4cqw; color: #1f7fd8; z-index: 2; }
+.zawieszka { position: absolute; left: 37.3cqw; top: 17.2cqw; width: 25.4cqw; color: #0978d2; z-index: 2; }
 .zawieszka__hak { width: 100%; height: auto; display: block; margin-bottom: -.5cqw; }
 .zawieszka__cialo {
   display: grid; justify-items: center; gap: .6cqw; width: 100%; padding: 4cqw 1.5cqw 5cqw;
-  background: #1f7fd8; border-radius: 0 0 4.5cqw 4.5cqw; color: var(--c-white); text-align: center; line-height: 1.1;
+  background: #0978d2; border-radius: 0 0 4.5cqw 4.5cqw; color: var(--c-white); text-align: center; line-height: 1.1;
 }
 .zawieszka__iskry { width: 6cqw; height: 6cqw; color: var(--c-white); }
 .zawieszka__brand { font-size: 4.3cqw; font-weight: 800; }
@@ -302,53 +306,53 @@ sup a { text-decoration: none; }
 @media (min-width: 68.75em) { .opinie__ciastka { display: block; } }
 .opinie .karuzela { margin-top: 44px; }
 .opinia blockquote { display: grid; gap: 10px; text-align: center; }
-.opinia__gwiazdki { display: flex; justify-content: center; gap: 5px; color: var(--c-blue); }
+.opinia__gwiazdki { display: flex; justify-content: center; gap: 5px; color: var(--c-star); }
 .opinia__gwiazdki svg { width: 17px; height: 17px; }
-.opinia__autor { font-weight: 800; font-size: 1.25rem; color: var(--c-navy-text); }
-.opinia__tekst { font-size: 1.25rem; font-weight: 300; line-height: 1.5; color: var(--c-text); }
+.opinia__autor { font-weight: 600; font-size: 1.375rem; color: var(--c-text); }
+.opinia__tekst { font-size: 1.375rem; font-weight: 300; line-height: 1.45; color: var(--c-text); }
 
 /* =====================================================================
    INNE TECHNOLOGIE
    ===================================================================== */
 .tech { padding-block: 56px; }
 .tech__inner { display: grid; gap: 28px; align-items: center; }
-.tech__nazwa { font-size: clamp(1.5rem, 1.2rem + 1.1vw, 2.5rem); font-weight: 800; color: var(--c-navy-text); line-height: 1.2; }
-.tech__nazwa--logo { width: 260px; }
-.tech__text p { margin-top: 22px; font-size: clamp(1rem, .95rem + .35vw, 1.375rem); font-weight: 300; line-height: 1.65; color: var(--c-text); }
+.tech__nazwa { font-size: clamp(1.5rem, 1.2rem + 1.1vw, 2.3rem); font-weight: 700; color: var(--c-navy-text); line-height: 1.2; }
+.tech__nazwa--logo { width: 243px; }
+.tech__text p { margin-top: 22px; font-size: clamp(1rem, .95rem + .35vw, 1.375rem); font-weight: 400; line-height: 1.6; color: var(--c-text); }
 .tech__text--prawo { text-align: right; }
 .tech__media { justify-self: center; position: relative; }
 .tech__media img { width: 100%; }
 .tech--homewhiz { background: var(--c-white); padding: 80px 0 0; }
 .tech__h2 { grid-column: 1 / -1; margin-bottom: 40px; }
-.tech__media--telefon { width: min(60%, 330px); align-self: end; }
+.tech__media--telefon { width: min(60%, 314px); align-self: end; }
 .tech--aero { background: var(--c-grey-2); padding: 70px 0 65px; }
 .tech__media--wideo { width: min(90vw, 410px); }
 .tech--energia { background: var(--c-white); padding: 100px 0; }
-.tech__media--ikona { width: min(60%, 300px); }
+.tech__media--ikona { width: min(60%, 263px); }
 .tech--pizza { background: var(--c-grey-2); padding: 55px 0 35px; }
-.tech--pizza .tech__media { width: min(90vw, 420px); }
+.tech--pizza .tech__media { width: min(90vw, 412px); }
 @media (max-width: 47.99em) { .tech__text p br { display: none; } .tech__text--prawo { text-align: left; } .tech:not(.tech--homewhiz) .tech__media { order: -1; } }
 @media (min-width: 48em) {
   .tech__inner { grid-template-columns: 1fr 1fr; gap: 40px; }
-  .tech--homewhiz .tech__inner { grid-template-columns: 1fr 330px; align-items: end; }
+  .tech--homewhiz .tech__inner { grid-template-columns: 1fr 314px; align-items: end; }
   .tech--homewhiz .tech__text { align-self: center; padding-bottom: 40px; }
   .tech--aero .tech__inner { grid-template-columns: 410px 1fr; }
   .tech--aero .tech__text { padding-top: 10px; }
-  .tech--energia .tech__inner { grid-template-columns: 1fr 300px; }
-  .tech--pizza .tech__inner { grid-template-columns: 420px 1fr; }
+  .tech--energia .tech__inner { grid-template-columns: 1fr 263px; }
+  .tech--pizza .tech__inner { grid-template-columns: 412px 1fr; }
 }
 @media (min-width: 68.75em) {
-  .tech--homewhiz .tech__inner { grid-template-columns: 1fr 330px; padding-right: 90px; }
+  .tech--homewhiz .tech__inner { grid-template-columns: 1fr 314px; padding-right: 96px; }
   .tech--homewhiz .tech__text { padding-bottom: 60px; }
-  .tech--energia .tech__inner { padding-right: 95px; }
+  .tech--energia .tech__inner { padding-right: 112px; }
 }
 
 /* =====================================================================
    CTA KOŃCOWE
    ===================================================================== */
 .cta { background: var(--c-navy); color: var(--c-white); position: relative; }
-.cta__tytul { padding: 40px var(--gutter) 28px; max-width: var(--page); margin-inline: auto; font-size: clamp(2.2rem, 1.5rem + 3.4vw, 3.875rem); line-height: 1.1; font-weight: 800; text-align: right; }
-.cta__tytul span { font-weight: 300; font-size: .74em; }
+.cta__tytul { padding: 40px var(--gutter) 28px; max-width: var(--page); margin-inline: auto; font-size: clamp(2.2rem, 1.5rem + 3.4vw, 3.5rem); line-height: 1.1; font-weight: 700; text-align: right; }
+.cta__tytul span { font-weight: 400; font-size: .84em; }
 .cta__kadr { max-width: var(--page); margin-inline: auto; aspect-ratio: 1000 / 770; }
 .cta__kadr img { object-fit: cover; }
 .btn--cta { position: absolute; left: 55%; top: 88.3%; translate: -50% -50%; width: 66cqw; height: 9cqw; min-height: 0; font-size: 3.3cqw; white-space: nowrap; padding: 0; }
@@ -356,7 +360,7 @@ sup a { text-decoration: none; }
   .cta { display: grid; }
   .cta__tytul, .cta__kadr { grid-area: 1 / 1; }
   .cta__kadr { aspect-ratio: 1400 / 770; width: 100%; }
-  .cta__tytul { position: relative; z-index: 2; padding: 0; margin-right: 11%; margin-top: 7%; justify-self: end; align-self: start; pointer-events: none; font-size: min(4.43vw, 62px); }
+  .cta__tytul { position: relative; z-index: 2; padding: 0; margin-right: 10.8%; margin-top: 5.6%; justify-self: end; align-self: start; pointer-events: none; font-size: min(3.93vw, 55px); line-height: 1.05; }
   .btn--cta { left: 50%; width: 30cqw; height: 5.2cqw; font-size: 1.3cqw; }
 }
 
@@ -369,21 +373,21 @@ sup a { text-decoration: none; }
     linear-gradient(100deg, #001c41 0%, #06407f 40%, #0d7ac2 75%, #0081ba 100%);
   color: var(--c-white);
 }
+.stopka__pas-img { display: none; max-width: var(--page); margin-inline: auto; }
 .stopka__inner { max-width: var(--page); margin-inline: auto; display: grid; gap: 24px; align-items: center; justify-items: center; padding: 32px var(--gutter); }
 .stopka__agd { width: min(90vw, 570px); }
 .stopka__marka { display: grid; justify-items: center; gap: 22px; }
 .stopka__laur { width: min(60vw, 245px); }
 .stopka__logo { display: block; width: min(60vw, 262px); }
-.stopka__prawne { max-width: 1060px; margin-inline: auto; padding: 16px var(--gutter); font-size: .8rem; line-height: 1.45; text-align: center; color: #444; }
+.stopka__prawne { max-width: 1060px; margin-inline: auto; padding: 16px var(--gutter); font-size: .75rem; font-weight: 500; line-height: 1.35; text-align: center; color: #464646; }
 @media (min-width: 48em) {
   .stopka__inner { grid-template-columns: 570px 1fr; justify-items: start; }
   .stopka__marka { justify-self: start; }
 }
-@media (min-width: 68.75em) {
-  .stopka__inner { grid-template-columns: 570px 1fr; padding: 0 0 0 210px; height: 380px; align-items: start; }
-  .stopka__agd { align-self: start; }
-  .stopka__marka { margin-left: 92px; margin-top: 35px; gap: 28px; justify-items: start; }
-  .stopka__logo { margin-left: -10px; }
+@media (min-width: 48em) {
+  .stopka__pas { background: var(--c-navy-dark); }
+  .stopka__pas-img { display: block; }
+  .stopka__inner { display: none; }
 }
 
 /* =====================================================================

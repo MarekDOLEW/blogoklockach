@@ -1,6 +1,6 @@
 # Audyt SEO i UX – landing Beko PyroPro
 
-Data: 2026-09-07. Zakres: `landingi/beko-pyropro/` (wersja 2, zdjęcia wycięte z layoutu 1400 px).
+Data: 2026-09-07. Zakres: `landingi/beko-pyropro/` (wersja 3, zasoby z warstwowego PSD, font Encode Sans).
 Narzędzia: Lighthouse 12 (Chromium headless, throttling mobile „Slow 4G”
 i preset desktop), własny test Playwright (`npm test`), przegląd ręczny
 względem WCAG 2.2 AA i heurystyk Nielsena.
@@ -67,7 +67,7 @@ w 121 plikach, z czego przeglądarka pobiera jeden wariant formatu i rozmiaru.
 | 5 | średnia | Symbole modeli (BBIM13300P itd.) odczytane z layoutu w niskiej rozdzielczości. | Zweryfikować z listą produktową. |
 | 6 | średnia | Layout ma w hero tylko logo bez nawigacji ani linku do sklepu. | To akceptowalne dla landingu kampanijnego, ale warto dodać w stopce linki do polityki prywatności i strony głównej (wymóg prawny przy analityce/cookies). |
 | 7 | niska | Pasek „PizzaPro / A++ / Wi‑Fi” powtarza treści z sekcji „Poznaj inne technologie”. | Zostawiono zgodnie z layoutem; można rozważyć linkowanie kotwicowe z paska do odpowiednich akapitów. |
-| 8 | niska | Layout jest w skali 1×, zdjęcia na ekranach retina są miękkie; wypalone w fotografii teksty hero i sekcji końcowej są maskowane plamą. | Dostarczyć PSD lub zdjęcia 2× – wtedy `npm run obrazy` wygeneruje ostre warianty, a maskowanie nie będzie potrzebne. |
+| 8 | niska | Layout (PSD) jest w skali 1×, zdjęcia na ekranach retina są miękkie. | Zdjęcia w 2× do `img/src/` pod tymi samymi nazwami + `npm run obrazy` + `npm run srcset`. |
 
 ## 4. Checklist wdrożenia
 
