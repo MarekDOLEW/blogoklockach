@@ -31,7 +31,8 @@ const cssInline = css.replace(/url\("\.\.\/(img\/[a-z0-9-]+\.(?:jpg|webp|png))"\
 html = html.replace(/<link rel="stylesheet" href="css\/style\.css">/, () => `<style>\n${cssInline}\n</style>`);
 html = html.replace(/<script src="js\/main\.js" defer><\/script>/, () => `<script>\n${js}\n</script>`);
 // 3. obrazy -> data URI (src, srcset)
-html = html.replace(/img\/[a-z0-9-]+\.(?:jpg|webp|png)/g, (m) => dataUri(m));
+// tylko lokalne ścieżki (nie fragmenty adresów absolutnych w og:image / JSON-LD)
+html = html.replace(/(?<![\w\/])img\/[a-z0-9-]+\.(?:jpg|webp|png)/g, (m) => dataUri(m));
 // filmy: w podglądzie jednoplikowym osadzamy tylko lekkie WebM (limit 16 MB); MP4 zostaje na produkcji w media/
 html = html.replace(/data-wideo="media\/[a-z0-9-]+\.mp4"/g, 'data-wideo=""');
 html = html.replace(/data-wideo-webm="(media\/[a-z0-9-]+\.webm)"/g, (m, p) => `data-wideo-webm="${dataUri(p)}"`);
