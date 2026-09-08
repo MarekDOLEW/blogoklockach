@@ -161,18 +161,19 @@ sup a { text-decoration: none; }
 .intro .container { position: relative; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
-.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; z-index: 5; }
+.intro__rekawica { position: absolute; left: -14px; top: 64px; width: 258px; pointer-events: none; z-index: 5; }
 
-/* Delikatne „oddychanie” rękawic: unoszenie + skala zakotwiczona przy krawędzi okna,
-   więc krawędź cięcia nigdy nie odsuwa się od skraju ekranu */
-@keyframes rekawica-oddech { 0%, 100% { translate: 0 0; scale: 1; } 50% { translate: 0 -10px; scale: 1.035; } }
-.intro__rekawica, .zabawa__rekawica { transform-origin: left center; animation: rekawica-oddech 6s ease-in-out infinite; will-change: translate, scale; }
-.zabawa__rekawica--r { transform-origin: right center; animation-delay: -3s; }
-.zabawa__rekawica--l { animation-delay: -1.2s; }
-.intro__rekawica { animation-delay: -4s; }
+/* Ruch rękawic: unoszenie + skala + lekkie kołysanie. Punkt zaczepienia przy krawędzi okna,
+   a rękawice zaczynają 14 px poza ekranem, więc krawędź cięcia nigdy nie odsuwa się od skraju */
+@keyframes rekawica-lewa { 0%, 100% { translate: 0 0; scale: 1; rotate: 0deg; } 50% { translate: 0 -28px; scale: 1.08; rotate: 2.5deg; } }
+@keyframes rekawica-prawa { 0%, 100% { translate: 0 0; scale: 1; rotate: 0deg; } 50% { translate: 0 -28px; scale: 1.08; rotate: -2.5deg; } }
+.intro__rekawica, .zabawa__rekawica { transform-origin: left center; animation: rekawica-lewa 5s ease-in-out infinite; will-change: translate, scale, rotate; }
+.zabawa__rekawica--r { transform-origin: right center; animation-name: rekawica-prawa; animation-delay: -2.5s; }
+.zabawa__rekawica--l { animation-delay: -1s; }
+.intro__rekawica { animation-delay: -3.5s; }
 @media (prefers-reduced-motion: reduce) { .intro__rekawica, .zabawa__rekawica { animation: none; } }
 @media (max-width: 68.74em) { .intro__rekawica { width: 96px; top: auto; bottom: -10px; opacity: .85; } .intro br { display: none; } .intro .container { padding-left: 48px; } }
-@media (min-width: 68.75em) { .intro__rekawica { left: 0; } }
+@media (min-width: 68.75em) { .intro__rekawica { left: -14px; } }
 
 /* =====================================================================
    KORZYŚCI
@@ -303,8 +304,8 @@ sup a { text-decoration: none; }
 .zabawa__media { width: min(100%, 666px); margin: 56px auto 0; overflow: visible; }
 .zabawa__media img { width: 100%; }
 .zabawa__rekawica { position: absolute; pointer-events: none; z-index: 2; display: none; }
-.zabawa__rekawica--l { left: 0; top: 275px; width: 244px; }
-.zabawa__rekawica--r { right: 0; top: 485px; width: 293px; }
+.zabawa__rekawica--l { left: -14px; top: 275px; width: 258px; }
+.zabawa__rekawica--r { right: -14px; top: 485px; width: 307px; }
 @media (min-width: 68.75em) { .zabawa__rekawica { display: block; } .zabawa__text br:first-of-type { display: inline; } }
 @media (max-width: 68.74em) { .zabawa__text br { display: none; } }
 

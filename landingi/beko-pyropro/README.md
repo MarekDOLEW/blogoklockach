@@ -93,9 +93,10 @@ a rękawice dekoracyjne trzymają się krawędzi okna.
 ## Rękawice
 
 Rękawice dekoracyjne (wstęp, „Mniej sprzątania”) są przypięte do krawędzi okna
-i „oddychają” (CSS keyframes: unoszenie 10 px + skala 1,035 z punktem
-zaczepienia przy krawędzi ekranu, więc krawędź cięcia nigdy nie odsuwa się od
-skraju). Przy `prefers-reduced-motion` animacja jest wyłączona. Rękawica we
+i poruszają się (CSS keyframes, cykl 5 s: unoszenie 28 px, skala 1,08,
+kołysanie ±2,5°). Punkt zaczepienia jest przy krawędzi ekranu, a rękawice
+zaczynają 14 px poza oknem, więc krawędź cięcia nigdy nie odsuwa się od
+skraju (test `scripts`/Chromium: lewa krawędź ≤ 0 w całym cyklu). Przy `prefers-reduced-motion` animacja jest wyłączona. Rękawica we
 wstępie wychodzi poza sekcję na ciemniejszy pas korzyści, jak w layoucie.
 
 ## Licznik minutnika
