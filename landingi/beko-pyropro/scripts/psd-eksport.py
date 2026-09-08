@@ -79,6 +79,8 @@ for nazwa, (path, crop, fmt) in eksport.items():
         tlo = Image.new('RGB', im.size, (1, 34, 79)); tlo.paste(im, mask=im.split()[3]); tlo.save(f'{OUT}{nazwa}.jpg', quality=95)
     else:
         im.save(f'{OUT}{nazwa}.png')
+    if nazwa == 'rekawica-intro':  # warstwa ma półprzezroczystą granatową poświatę wokół rękawicy – kluczujemy granat
+        im = key_color(im, (2, 37, 96), 30, 90); im.save(f'{OUT}{nazwa}.png')
     if nazwa == 'skarbonka-rekawica':  # monety (srebrne, mało nasycone) w lewym dolnym rogu nie występują w layoucie
         pxs = im.load()
         for y in range(368, im.size[1]):

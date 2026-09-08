@@ -90,6 +90,14 @@ skalowane w górę). Tekst hero i CTA jest w jednostkach `cqw` kontenera, więc
 skaluje się razem ze zdjęciem. Pozostałe sekcje mają kolumnę treści 940 px,
 a rękawice dekoracyjne trzymają się krawędzi okna.
 
+## Rękawice
+
+Rękawice dekoracyjne (wstęp, „Mniej sprzątania”) są przypięte do krawędzi okna
+i „oddychają” (CSS keyframes: unoszenie 10 px + skala 1,035 z punktem
+zaczepienia przy krawędzi ekranu, więc krawędź cięcia nigdy nie odsuwa się od
+skraju). Przy `prefers-reduced-motion` animacja jest wyłączona. Rękawica we
+wstępie wychodzi poza sekcję na ciemniejszy pas korzyści, jak w layoucie.
+
 ## Licznik minutnika
 
 Cyfry „59:00” wypalone w zdjęciu minutnika są zamalowane (interpolacja koloru

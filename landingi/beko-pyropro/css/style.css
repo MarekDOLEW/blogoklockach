@@ -157,11 +157,20 @@ sup a { text-decoration: none; }
 /* =====================================================================
    WPROWADZENIE
    ===================================================================== */
-.intro { position: relative; overflow: hidden; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
+.intro { position: relative; z-index: 2; overflow: visible; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
 .intro .container { position: relative; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
-.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; }
+.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; z-index: 2; }
+
+/* Delikatne „oddychanie” rękawic: unoszenie + skala zakotwiczona przy krawędzi okna,
+   więc krawędź cięcia nigdy nie odsuwa się od skraju ekranu */
+@keyframes rekawica-oddech { 0%, 100% { translate: 0 0; scale: 1; } 50% { translate: 0 -10px; scale: 1.035; } }
+.intro__rekawica, .zabawa__rekawica { transform-origin: left center; animation: rekawica-oddech 6s ease-in-out infinite; will-change: translate, scale; }
+.zabawa__rekawica--r { transform-origin: right center; animation-delay: -3s; }
+.zabawa__rekawica--l { animation-delay: -1.2s; }
+.intro__rekawica { animation-delay: -4s; }
+@media (prefers-reduced-motion: reduce) { .intro__rekawica, .zabawa__rekawica { animation: none; } }
 @media (max-width: 68.74em) { .intro__rekawica { width: 96px; top: auto; bottom: -10px; opacity: .85; } .intro br { display: none; } .intro .container { padding-left: 48px; } }
 @media (min-width: 68.75em) { .intro__rekawica { left: 0; } }
 
