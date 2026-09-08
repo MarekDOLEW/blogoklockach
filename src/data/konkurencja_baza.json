@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-07",
-    "przebieg": "scheduled 2026-09-07 08:00",
+    "ostatnia_aktualizacja": "2026-09-08",
+    "przebieg": "scheduled 2026-09-08 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 135,
+    "liczba_wpisow": 138,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian."
@@ -1613,6 +1613,45 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Rocznik 2027, poza sezonem XI-XII."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Gra planszowa LEGO - Przygody Perly Przeznaczenia",
+      "url": "https://fanklockow.pl/recenzja-gra-planszowa-lego-przygody-perly-przeznaczenia/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja wideo gry planszowej LEGO. U nas gry planszowe praktycznie nie istnieja - w sety.json sa dwie pozycje (10472, 10450) i nie ma dla nich osobnej serii w katalogu. To jednak swiadoma granica, nie luka: gra planszowa to inny produkt niz zestaw do budowania i nasza funkcja (drabina cenowa, prog zakupu, porownanie sklepow) dziala tam slabiej. Odnotowane, bo jesli LEGO rozbuduje te linie, trzeba bedzie decyzje podjac na nowo."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Art / Ideas / Editions na 2027 (zbiorczo, trzy wpisy)",
+      "url": "https://faniklockow.pl/2026/09/07/zapowiedzi-serii-lego-art-na-2027-rok/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Te same trzy serie rocznika 2027, ktore fanklockow opublikowali DZIEN WCZESNIEJ (06.09). Wzorzec wart odnotowania: przy zapowiedziach oba serwisy chodza za tym samym zrodlem z doba opoznienia, wiec sledzenie jednego z nich wystarczy do wychwycenia tematu. Rocznik 2027 poza sezonem XI-XII."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 07.09.2026 (zbiorczo: 6 zestawow, powrot po trzech dniach ciszy)",
+      "url": "https://faniklockow.pl/2026/09/07/okazja-cenowa-star-wars-75414-plomienny-smigacz-sniezny/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert",
+        "Empik"
+      ],
+      "notatki": "WAZNE NIE Z POWODU DEALI. Wsrod szesciu zestawow sa 72151 Eevee i 72152 Pikachu i Pokeball, ktorych NIE MAMY ani w katalog.json, ani w sety.json - a nasz wlasny feed ma dla nich zywe oferty (186,27 zl i 589,99 zl). Do tego 72153 (2648 zl u Media Expert). Tymczasem 72150, 72154, 72155, 72156, 72160 i 72168 mamy. Czyli brakuje trzech numerow WEWNATRZ serii, ktora juz prowadzimy - to nie jest przypadek EOL-a z Allegro, tylko dziura w kompletowaniu biezacej serii. Zgloszone Zwiadowcy w DZIENNIKU."
     }
   ],
   "obserwacje_strategiczne": {

@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-05"
+zaktualizowano: "2026-09-08"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -92,7 +92,7 @@ Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: pr
 
 Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi punktami** na siedem serii: [City](/serie/city/), Classic, [Creator 3 w 1](/serie/creator/), [DREAMZzz](/serie/dreamzzz/), [DUPLO](/serie/duplo/), [Friends](/serie/friends/) i [Ninjago](/serie/ninjago/).
 
-**Uczciwie o źródle:** mamy tę datę z jednego serwisu branżowego i nie znaleźliśmy jej potwierdzenia u LEGO, dlatego oznaczamy ją jako przewidywaną. Sam mechanizm jest jednak powtarzalny – dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy.
+**Uczciwie o źródle:** datę podają dwa niezależne serwisy branżowe, oba jako wstępną, i nie znaleźliśmy jej potwierdzenia u samego LEGO – dlatego zostaje oznaczona jako przewidywana. Sam mechanizm jest powtarzalny: dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy.
 
 **Jeden szczegół, który zmienia decyzję.** Z promocji mają być **wyłączone kalendarze adwentowe** City i Friends. Jeśli planowałeś kupić kalendarz przy okazji podwójnych punktów, to się nie uda – a jednocześnie [nasz ranking kalendarzy](/artykuly/ranking-kalendarze-adwentowe-lego-2026/) tłumaczy, dlaczego z tym zakupem i tak nie warto zwlekać do listopada. Te dwie rzeczy się nie kłócą: kalendarz kupujesz wcześnie mimo braku punktów, a podwójne punkty zbierasz na czymś innym.
 

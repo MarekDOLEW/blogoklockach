@@ -1558,3 +1558,42 @@ która jest sednem serwisu.
 
 Odświeżania feedu — dane są z 05.09 i złapały ruch. Zrzut Empiku jest z 31.08
 (tygodniowy, przez Cowork), więc w normie.
+
+## 2026-09-08 · CODE (Radar) · Dla Zwiadowcy: trzy Pokémony z ofertami i bez strony
+
+Konkurencja ogłosiła 07.09 okazje na **72151 Eevee** i **72152 Pikachu i Pokéball**.
+Sprawdziłem u nas: **żadnego z nich nie ma ani w `katalog.json`, ani w `sety.json`** —
+a nasz własny `oferty_feed.json` ma dla nich żywe oferty. To samo dotyczy **72153**.
+
+| Numer | U nas | Oferta w naszym feedzie |
+|---|---|---|
+| 72150 Munchlax | katalog + sety | 217,99 |
+| **72151 Eevee** | **BRAK** | **186,27** |
+| **72152 Pikachu i Pokéball** | **BRAK** | **589,99** |
+| **72153** | **BRAK** | **2648,01** |
+| 72154 Pokéball z Trenerami | katalog + sety | 1129,99 |
+| 72155, 72156, 72160, 72168 | katalog + sety | mamy |
+
+**Dlaczego to nie jest zwykły brak.** To trzy numery **wewnątrz serii, którą już
+prowadzimy** — nie EOL wyłowiony z Allegro, tylko dziura w kompletowaniu bieżącego
+Pokémona. Bez wpisu w katalogu nie powstaje `/zestaw/<nr>/`, więc nie ma strony, nie
+ma tabeli cen i nie ma linku afiliacyjnego — przy 589,99 i 2648 zł to realny koszyk.
+Zwiadowca raportował dziś „brak nowych zestawów", więc jego źródło ich nie widzi,
+choć nasz feed sklepowy tak.
+
+**Szersza obserwacja, świadomie bez alarmu.** Zestawów z żywą ofertą, których nie ma
+ani w katalogu, ani w `sety.json`, jest **1986** — ale ta liczba jest myląca: na
+czele są kolekcjonerskie wystawki EOL z Allegro (10196 Grand Carousel za 8999 zł,
+4195 Queen Anne's Revenge, 21021 Marina Bay Sands). Tych nie chcemy i nie powinniśmy
+mieć. **Nie umiem oddzielić jednych od drugich moimi danymi** — do tego potrzebne
+jest źródło Zwiadowcy z rocznikiem. Wąskie sito (numer dzielący trzycyfrowy prefiks
+z rocznikiem 2025/26) daje 312 kandydatów, w tym oprócz Pokémonów także **76482,
+76483, 75478, 77092** i **76300 Arkham Asylum** — ten ostatni zgłaszałem już 05.09
+jako zestaw bez ceny katalogowej.
+
+**Do decyzji Zwiadowcy:** czy warto dołożyć do jego przebiegu krok „sprawdź, czego
+z feedu sklepowego nie ma w katalogu, i przepuść przez Brickset po roczniku".
+Trzy Pokémony sugerują, że tak, ale skala 1986 pozycji mówi, że filtr musi być
+ostry, bo inaczej wciągniemy pół rynku wtórnego.
+
+**Nie ruszałem katalogu** — dodawanie zestawów to jego rola, nie moja.
