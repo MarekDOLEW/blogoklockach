@@ -151,9 +151,9 @@ sup a { text-decoration: none; }
 .intro .container { position: relative; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
-.intro__rekawica { position: absolute; left: 0; top: 130px; width: 215px; pointer-events: none; }
+.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; }
 @media (max-width: 68.74em) { .intro__rekawica { width: 120px; top: auto; bottom: 0; opacity: .9; } .intro br { display: none; } }
-@media (min-width: 68.75em) { .intro__rekawica { left: max(0px, calc(50% - 700px)); } }
+@media (min-width: 68.75em) { .intro__rekawica { left: 0; } }
 
 /* =====================================================================
    KORZYŚCI
@@ -279,24 +279,27 @@ sup a { text-decoration: none; }
 .zabawa__media { width: min(100%, 670px); margin: 56px auto 0; overflow: visible; }
 .zabawa__media img { width: 100%; }
 .zabawa__rekawica { position: absolute; pointer-events: none; z-index: 2; display: none; }
-.zabawa__rekawica--l { left: max(0px, calc(50% - 700px)); top: 275px; width: 215px; }
-.zabawa__rekawica--r { right: max(0px, calc(50% - 700px)); top: 485px; width: 265px; }
+.zabawa__rekawica--l { left: 0; top: 275px; width: 244px; }
+.zabawa__rekawica--r { right: 0; top: 485px; width: 293px; }
 @media (min-width: 68.75em) { .zabawa__rekawica { display: block; } .zabawa__text br:first-of-type { display: inline; } }
 @media (max-width: 68.74em) { .zabawa__text br { display: none; } }
 
-/* Zawieszka „Nie przeszkadzać” – tekst w HTML, pozycja i rozmiary w cqw kadru 670 px */
-.zawieszka { position: absolute; left: 37.3cqw; top: 17.2cqw; width: 25.4cqw; color: #0978d2; z-index: 2; }
-.zawieszka__hak { width: 100%; height: auto; display: block; margin-bottom: -.5cqw; }
-.zawieszka__cialo {
-  display: grid; justify-items: center; gap: .6cqw; width: 100%; padding: 4cqw 1.5cqw 5cqw;
-  background: #0978d2; border-radius: 0 0 4.5cqw 4.5cqw; color: var(--c-white); text-align: center; line-height: 1.1;
+/* Zawieszka „Nie przeszkadzać” – sylwetka z warstwy PSD (PNG z alfą, gradient z oryginału), tekst w HTML.
+   Pozycja w cqw kadru piekarnika (681 px), rozmiary tekstu w cqw samej zawieszki (157 px). */
+.zawieszka {
+  position: absolute; left: 37.7cqw; top: 15.1cqw; width: 23.1cqw; aspect-ratio: 157 / 546; z-index: 2;
+  container-type: inline-size; color: var(--c-white);
 }
-.zawieszka__iskry { width: 6cqw; height: 6cqw; color: var(--c-white); }
-.zawieszka__brand { font-size: 4.3cqw; font-weight: 800; }
-.zawieszka__nie { font-size: 2.6cqw; font-weight: 700; color: #0b2a5b; margin-top: 2cqw; }
-.zawieszka__sprzatam { font-size: 3.7cqw; font-weight: 800; padding-top: 1.8cqw; margin-top: 1.2cqw; border-top: 1px solid rgba(255, 255, 255, .8); }
-.zawieszka__param { display: inline-flex; align-items: center; gap: 1cqw; font-size: 2.6cqw; font-weight: 600; margin-top: 1.5cqw; }
-.zawieszka__param svg { width: 3.4cqw; height: 3.4cqw; }
+.zawieszka__tlo { position: absolute; inset: 0; }
+.zawieszka__tlo img { width: 100%; height: 100%; filter: drop-shadow(0 6px 10px rgba(0, 0, 0, .25)); }
+.zawieszka__cialo { position: absolute; inset: 118cqw 0 0 0; display: grid; justify-items: center; align-content: start; gap: 0; text-align: center; line-height: 1.1; }
+.zawieszka__iskry { width: 24cqw; height: 24cqw; margin-bottom: 8cqw; }
+.zawieszka__brand { font-size: 19cqw; font-weight: 700; }
+.zawieszka__nie { font-size: 11.5cqw; font-weight: 600; color: #022a5a; margin-top: 14cqw; line-height: 1.15; }
+.zawieszka__sprzatam { font-size: 16.5cqw; font-weight: 700; width: 78%; padding-top: 7cqw; margin-top: 7cqw; border-top: 1px solid rgba(255, 255, 255, .85); }
+.zawieszka__param { display: inline-flex; align-items: center; gap: 4cqw; font-size: 11.5cqw; font-weight: 500; margin-top: 12cqw; }
+.zawieszka__param + .zawieszka__param { margin-top: 9cqw; }
+.zawieszka__param svg { width: 14cqw; height: 14cqw; }
 
 /* =====================================================================
    OPINIE (szary)

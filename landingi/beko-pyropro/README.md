@@ -61,8 +61,12 @@ w 2× wystarczy wrzucić do `img/src/` pod tymi samymi nazwami.
 Współrzędne wszystkich wycinków są w `scripts/tnij-layout.mjs` (obiekt
 `prostokaty` i wywołania `klucz`). Elementy layoutu zbudowane w HTML/CSS/SVG,
 żeby tekst był indeksowalny i skalował się bez straty: odznaki „59 min” i „47%”,
-kafelki PizzaPro / A++ / WiFi, zawieszka „Nie przeszkadzać / Sprzątam”, przyciski,
-strzałki karuzel, gwiazdki opinii.
+kafelki PizzaPro / A++ / WiFi, przyciski, strzałki karuzel, gwiazdki opinii.
+Zawieszka „Nie przeszkadzać / Sprzątam”: sylwetka to PNG z alfą wygenerowany
+z warstwy PSD (`img/src/zawieszka.png`, gradient odczytany z oryginału), tekst
+leży na niej w HTML. Rękawice dekoracyjne (wstęp i sekcja „Mniej sprzątania”)
+są przypięte do krawędzi okna, więc na szerokich ekranach rozsuwają się poza
+pole 1400 px.
 
 ## Do uzupełnienia przed publikacją
 

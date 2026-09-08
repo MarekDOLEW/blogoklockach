@@ -27,7 +27,8 @@ const dataUri = (sciezka) => {
 html = html.replace(/\s*<source type="image\/avif"[^>]*>/g, '');
 html = html.replace(/\s*<link rel="preload" as="image"[^>]*>/, '');
 // 2. inline CSS i JS
-html = html.replace(/<link rel="stylesheet" href="css\/style\.css">/, () => `<style>\n${css}\n</style>`);
+const cssInline = css.replace(/url\("\.\.\/(img\/[a-z0-9-]+\.(?:jpg|webp|png))"\)/g, (m, p) => `url("${dataUri(p)}")`);
+html = html.replace(/<link rel="stylesheet" href="css\/style\.css">/, () => `<style>\n${cssInline}\n</style>`);
 html = html.replace(/<script src="js\/main\.js" defer><\/script>/, () => `<script>\n${js}\n</script>`);
 // 3. obrazy -> data URI (src, srcset)
 html = html.replace(/img\/[a-z0-9-]+\.(?:jpg|webp|png)/g, (m) => dataUri(m));
