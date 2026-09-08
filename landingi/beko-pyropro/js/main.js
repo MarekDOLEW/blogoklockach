@@ -30,17 +30,21 @@
     const od = +svg.dataset.od || 1, doM = +svg.dataset.do || 59;
     if (zredukowany || !('IntersectionObserver' in window)) { pokaz(doM); return; }
     pokaz(od);
-    const io = new IntersectionObserver((w) => {
-      if (!w[0].isIntersecting) return;
-      io.disconnect();
-      const start = performance.now(), czas = 3000;
+    let raf = 0;
+    const odliczaj = () => {
+      cancelAnimationFrame(raf);
+      const start = performance.now(), czas = 3500;
       const krok = (t) => {
         const p = Math.min(1, (t - start) / czas);
         const e = 1 - Math.pow(1 - p, 3); // ease-out
         pokaz(Math.round(od + (doM - od) * e));
-        if (p < 1) requestAnimationFrame(krok);
+        if (p < 1) raf = requestAnimationFrame(krok);
       };
-      requestAnimationFrame(krok);
+      raf = requestAnimationFrame(krok);
+    };
+    // odliczanie startuje za każdym razem, gdy minutnik wjeżdża w okno; poza oknem wraca do 01:00
+    const io = new IntersectionObserver((w) => {
+      w.forEach((e) => { if (e.isIntersecting) odliczaj(); else { cancelAnimationFrame(raf); pokaz(od); } });
     }, { threshold: 0.6 });
     io.observe(svg);
   });
