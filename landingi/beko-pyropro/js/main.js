@@ -23,7 +23,10 @@
   const MAPA = { 0: 'abcdef', 1: 'bc', 2: 'abged', 3: 'abgcd', 4: 'fgbc', 5: 'afgcd', 6: 'afgedc', 7: 'abc', 8: 'abcdefg', 9: 'abcdfg' };
   document.querySelectorAll('[data-licznik]').forEach((svg) => {
     const cyfry = [...svg.querySelectorAll('.licznik__cyfra')];
+    let ostatni = -1;
     const pokaz = (min) => {
+      if (min === ostatni) return; // przeliczaj DOM tylko przy zmianie wartości (nie co klatkę)
+      ostatni = min;
       const tekst = String(min).padStart(2, '0') + '00';
       cyfry.forEach((g, i) => { const on = MAPA[tekst[i]]; g.querySelectorAll('.seg').forEach((r) => r.classList.toggle('is-on', on.includes(r.className.baseVal.match(/seg-(\w)/)[1]))); });
     };
@@ -69,6 +72,10 @@
       else v.muted = !v.muted;
       odswiez();
     });
+    // na wąskich ekranach lżejsze źródła 480p (data-src-480 na <source>)
+    if (window.matchMedia('(max-width: 767px)').matches) {
+      v.querySelectorAll('source[data-src-480]').forEach((s) => { s.src = s.dataset.src480; });
+    }
     // autostart tylko gdy użytkownik nie ogranicza ruchu; poza oknem pauza (oszczędza transfer)
     if (zredukowany || !('IntersectionObserver' in window)) return;
     const io = new IntersectionObserver((w) => {
@@ -77,7 +84,10 @@
         else if (!v.paused) v.pause();
       });
     }, { threshold: 0.5 });
-    io.observe(v);
+    // obserwację (i pierwszy start) odkładamy do czasu po załadowaniu strony i bezczynności wątku,
+    // żeby dekodowanie wideo nie konkurowało z pierwszym renderowaniem (LCP / Speed Index)
+    const start = () => ('requestIdleCallback' in window ? requestIdleCallback(() => io.observe(v), { timeout: 2500 }) : setTimeout(() => io.observe(v), 1200));
+    if (document.readyState === 'complete') setTimeout(start, 800); else window.addEventListener('load', () => setTimeout(start, 800), { once: true });
     // wyciszenie po wyjściu poza okno nie kasuje wyboru dźwięku – zapamiętaj, że włączono
     v.addEventListener('volumechange', () => { if (!v.muted) v.dataset.dzwiekOn = '1'; });
   });

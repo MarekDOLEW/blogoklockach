@@ -27,7 +27,8 @@
   <!-- Fonty ładowane asynchronicznie (nie blokują renderowania); fallback systemowy w CSS -->
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;400;500;600;700;800&display=swap" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;400;500;600;700;800&display=swap"></noscript>
-  <link rel="preload" as="image" href="img/hero-1400.avif" imagesrcset="img/hero-700.avif 700w, img/hero-1400.avif 1400w" imagesizes="(min-width: 1400px) 1400px, 100vw" media="(min-width: 768px)">
+  <link rel="preload" as="image" href="img/hero-1400.avif" imagesrcset="img/hero-700.avif 700w, img/hero-1400.avif 1400w" imagesizes="(min-width: 1400px) 1400px, 100vw" media="(min-width: 768px)" fetchpriority="high">
+  <link rel="preload" as="image" href="img/hero-mobile-700.avif" imagesrcset="img/hero-mobile-350.avif 350w, img/hero-mobile-700.avif 700w" imagesizes="100vw" media="(max-width: 767px)" fetchpriority="high">
   <link rel="stylesheet" href="css/style.css">
 
   <script type="application/ld+json">
@@ -97,8 +98,8 @@
       <img src="img/hero-1400.jpg" srcset="img/hero-700.jpg 700w, img/hero-1400.jpg 1400w" sizes="(min-width: 1400px) 1400px, 100vw" width="1400" height="700" alt="Tata i córka w kuchni bawią się żółtymi rękawicami z oczkami, w tle piekarnik Beko z włączonym oświetleniem" fetchpriority="high" decoding="async">
     </picture>
     <video class="wideo-inline hero__wideo" muted playsinline loop preload="none" aria-label="Spot: czyszczenie pyrolityczne PyroPro" data-wideo-inline>
-      <source src="media/pyropro-header.mp4" type="video/mp4">
-      <source src="media/pyropro-header.webm" type="video/webm">
+      <source src="media/pyropro-header.mp4" data-src-480="media/pyropro-header-480.mp4" type="video/mp4">
+      <source src="media/pyropro-header.webm" data-src-480="media/pyropro-header-480.webm" type="video/webm">
     </video>
     <button class="play hero__play" type="button" data-dzwiek aria-pressed="false" aria-label="Odtwórz film z dźwiękiem"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
     <p class="badge59">
@@ -192,8 +193,8 @@
         <img src="img/wideo-plakat-940.jpg" srcset="img/wideo-plakat-470.jpg 470w, img/wideo-plakat-940.jpg 940w" sizes="(max-width: 980px) 100vw, 940px" width="940" height="529" alt="Kadr z filmu: dłoń ustawia program czyszczenia pyrolitycznego PyroPro 59 minut na panelu piekarnika Beko" loading="lazy" decoding="async">
       </picture>
       <video class="wideo-inline" muted playsinline loop preload="none" aria-label="Spot technologiczny: czyszczenie pyrolityczne PyroPro 59 minut" data-wideo-inline>
-        <source src="media/pyropro-technologiczny.mp4" type="video/mp4">
-        <source src="media/pyropro-technologiczny.webm" type="video/webm">
+        <source src="media/pyropro-technologiczny.mp4" data-src-480="media/pyropro-technologiczny-480.mp4" type="video/mp4">
+        <source src="media/pyropro-technologiczny.webm" data-src-480="media/pyropro-technologiczny-480.webm" type="video/webm">
       </video>
       <button class="play" type="button" data-dzwiek aria-pressed="false" aria-label="Odtwórz film z dźwiękiem"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
     </figure>

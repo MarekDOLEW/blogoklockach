@@ -157,7 +157,7 @@ sup a { text-decoration: none; }
 /* =====================================================================
    WPROWADZENIE
    ===================================================================== */
-.intro { position: relative; overflow: visible; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
+.intro { position: relative; overflow: clip visible; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
 .intro .container { position: relative; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
@@ -298,7 +298,7 @@ sup a { text-decoration: none; }
 /* =====================================================================
    ZABAWA (granat) + zawieszka
    ===================================================================== */
-.zabawa { position: relative; background: #02254d url("../img/tlo-zabawa-1400.jpg") center / cover no-repeat; color: var(--c-white); padding-top: 84px; overflow: visible; z-index: 1; }
+.zabawa { position: relative; background: #02254d url("../img/tlo-zabawa-1400.jpg") center / cover no-repeat; color: var(--c-white); padding-top: 84px; overflow: clip visible; z-index: 1; } /* poziomo przycięte (rękawice zaczynają poza oknem), pionowo widoczne (zawieszka, rękawice w sekcji niżej) */
 .zabawa__inner { position: relative; text-align: center; }
 .zabawa__text { margin-top: 30px; font-size: clamp(1.05rem, .95rem + .6vw, 1.625rem); font-weight: 300; line-height: 1.75; }
 .zabawa__media { width: min(100%, 666px); margin: 56px auto 0; overflow: visible; }

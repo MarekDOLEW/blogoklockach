@@ -87,3 +87,16 @@ w 121 plikach, z czego przeglądarka pobiera jeden wariant formatu i rozmiaru.
 - Komenda kompresji (ffmpeg): `-vf scale=-2:720 -c:v libx264 -preset slow -b:v <bitrate>k -c:a aac -b:a 96k -movflags +faststart`
   (bitrate dobrany tak, by plik ≤ 5 MB) oraz `-c:v libvpx-vp9 -crf 34 -b:v 0 -c:a libopus -b:a 80k` dla WebM.
 - Do rozważenia na produkcji: hosting wideo na CDN/YouTube zamiast w repo (`data-wideo` przyjmuje też URL YouTube).
+
+
+## PageSpeed – wersja 12 (build produkcyjny)
+
+| Tryb    | Performance | Accessibility | Best Practices | SEO | LCP   | CLS   | TBT   | SI    |
+|---------|-------------|---------------|----------------|-----|-------|-------|-------|-------|
+| Mobile  | 100         | 100           | 96             | 100 | 1,7 s | 0,02  | 30 ms | 1,1 s |
+| Desktop | 93          | 100           | 96             | 100 | 0,4 s | 0,02  | 0 ms  | 3,1 s |
+
+Pomiar PageSpeed na podglądzie claude.ai (63 / 100 / 92 / 66) nie jest miarodajny:
+jeden plik 8,6 MB z zasobami w base64 i hosting z `noindex`. Pozostałe punkty do
+odzyskania są po stronie serwera: nagłówki cache (`_headers` / `.htaccess` w buildzie),
+kompresja gzip/brotli, oraz ewentualne CDN dla filmów.

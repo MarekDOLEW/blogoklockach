@@ -10,10 +10,12 @@
     "srcset": "node scripts/srcset.mjs",
     "obrazy": "node scripts/obrazy.mjs",
     "build": "node scripts/buduj-podglad.mjs",
+    "produkcja": "node scripts/buduj-produkcje.mjs",
     "test": "node scripts/zrzuty.mjs",
     "serve": "npx --yes serve -l 8080 ."
   },
   "devDependencies": {
+    "esbuild": "^0.28.0",
     "playwright-core": "^1.50.0",
     "sharp": "^0.34.0"
   }

@@ -36,8 +36,8 @@ html = html.replace(/(?<![\w\/])img\/[a-z0-9-]+\.(?:jpg|webp|png)/g, (m) => data
 // filmy: w podglądzie jednoplikowym osadzamy tylko lekkie WebM (limit 16 MB); MP4 zostaje na produkcji w media/
 html = html.replace(/data-wideo="media\/[a-z0-9-]+\.mp4"/g, 'data-wideo=""');
 html = html.replace(/data-wideo-webm="(media\/[a-z0-9-]+\.webm)"/g, (m, p) => `data-wideo-webm="${dataUri(p)}"`);
-html = html.replace(/\s*<source src="media\/[a-z0-9-]+\.mp4" type="video\/mp4">/g, '');
-html = html.replace(/<source src="(media\/[a-z0-9-]+\.webm)" type="video\/webm">/g, (m, p) => `<source src="${dataUri(p)}" type="video/webm">`);
+html = html.replace(/\s*<source src="media\/[a-z0-9-]+\.mp4"[^>]*type="video\/mp4">/g, '');
+html = html.replace(/<source src="(media\/[a-z0-9-]+\.webm)"[^>]*type="video\/webm">/g, (m, p) => `<source src="${dataUri(p)}" type="video/webm">`);
 
 writeFileSync(ROOT + 'dist/index.html', html);
 

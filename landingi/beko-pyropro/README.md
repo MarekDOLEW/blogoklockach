@@ -30,7 +30,8 @@ npm install
 npm run psd         # layout PSD -> img/src/ (najpierw rozpakuj layout/*.psd.zip)
 npm run srcset      # po `obrazy`: aktualizacja srcset/width/height w index.html
 npm run obrazy      # img/src -> img/ (AVIF/WebP/JPG|PNG, 2 szerokości)
-npm run build       # dist/index.html (single-file) i dist/artifact.html
+npm run build       # dist/index.html (single-file) i dist/artifact.html – TYLKO podgląd
+npm run produkcja   # dist/produkcja/ – to wdrażamy na serwer (minifikacja, CSS inline, cache)
 npm test            # zrzuty ekranu + kontrola błędów -> dist/zrzut-*.png
 npm run serve       # podgląd na http://localhost:8080
 ```
@@ -67,6 +68,27 @@ z warstwy PSD (`img/src/zawieszka.png`, gradient odczytany z oryginału), tekst
 leży na niej w HTML. Rękawice dekoracyjne (wstęp i sekcja „Mniej sprzątania”)
 są przypięte do krawędzi okna, więc na szerokich ekranach rozsuwają się poza
 pole 1400 px.
+
+## Wdrożenie i wydajność
+
+Na serwer trafia **`dist/produkcja/`** (`npm run produkcja`): HTML ze zminifikowanym
+CSS inline (bez requestu blokującego render), zminifikowany JS z hashem w nazwie,
+tylko używane warianty obrazów, filmy webowe, plus `_headers` (Cloudflare Pages /
+Netlify) i `.htaccess` (Apache) z rocznym cache dla zasobów i kompresją.
+Serwer musi wysyłać gzip/brotli dla HTML/CSS/JS.
+
+Podgląd na claude.ai (`dist/artifact.html`) to jeden plik 8,6 MB z obrazami
+i filmami w base64 – PageSpeed mierzony na nim zaniża wydajność i SEO
+(hosting podglądu jest `noindex` i opakowuje stronę). Miarodajny pomiar tylko
+na `dist/produkcja/` na docelowym hoście.
+
+Lighthouse (lokalnie, `dist/produkcja/`): mobile 100 / 100 / 96 / 100,
+desktop 93 / 100 / 96 / 100. Decyzje wydajnościowe: filmy startują dopiero po
+`load` + bezczynności wątku (dekodowanie nie konkuruje z LCP), na ekranach
+< 768 px ładują się warianty 480p (ok. 1 MB), licznik przelicza DOM tylko przy
+zmianie wartości, hero ma `preload` z `fetchpriority=high` dla obu kadrów.
+Speed Index na desktopie podnosi sam autostart spotu w hero (obraz zmienia się
+po starcie filmu) – to koszt świadomej decyzji o autoodtwarzaniu.
 
 ## Filmy
 
