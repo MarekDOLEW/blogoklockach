@@ -100,7 +100,7 @@ sup a { text-decoration: none; }
 
 /* ---------- Leniwe pojawianie się banerów ---------- */
 .js .baner { opacity: 0; translate: 0 36px; transition: opacity .8s var(--ease), translate .8s var(--ease); }
-.js .baner.is-visible { opacity: 1; translate: 0 0; }
+.js .baner.is-visible { opacity: 1; translate: none; } /* `none` = brak kontekstu warstw, elementy z z-index mogą wystawać ponad sąsiednie sekcje */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .js .baner { opacity: 1; translate: none; transition: none; }
@@ -157,11 +157,11 @@ sup a { text-decoration: none; }
 /* =====================================================================
    WPROWADZENIE
    ===================================================================== */
-.intro { position: relative; z-index: 2; overflow: visible; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
+.intro { position: relative; overflow: visible; background: var(--c-navy) url("../img/tlo-intro-1400.jpg") center / cover no-repeat; color: var(--c-white); text-align: center; padding: 96px 0 44px; }
 .intro .container { position: relative; }
 .intro__text { margin-top: 36px; font-size: clamp(1.05rem, .95rem + .6vw, 1.75rem); font-weight: 500; color: var(--c-intro); line-height: 1.6; }
 .intro__claim { margin-top: 48px; font-size: clamp(1.05rem, .95rem + .55vw, 1.75rem); font-weight: 800; line-height: 1.5; }
-.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; z-index: 2; }
+.intro__rekawica { position: absolute; left: 0; top: 64px; width: 244px; pointer-events: none; z-index: 5; }
 
 /* Delikatne „oddychanie” rękawic: unoszenie + skala zakotwiczona przy krawędzi okna,
    więc krawędź cięcia nigdy nie odsuwa się od skraju ekranu */
@@ -189,7 +189,7 @@ sup a { text-decoration: none; }
 .korzysc { padding-block: 48px; }
 .korzysc--bezpieczne { background: var(--c-navy); }
 .korzysc--szybkie { background: var(--c-navy-dark); }
-.korzysc__media--balon { width: min(70vw, 470px); }
+.korzysc__media--balon { width: min(70vw, 470px); z-index: 5; } /* wystaje ponad sekcję wstępu */
 .korzysc__media--minutnik { width: min(90vw, 600px); container-type: inline-size; }
 /* Licznik 7-segmentowy nad wyświetlaczem minutnika (cyfry w zdjęciu zamalowane); pozycja w cqw kadru 600 px */
 .licznik { position: absolute; left: 45.7cqw; top: 28.5cqw; width: 31.8cqw; height: auto; overflow: visible; }
