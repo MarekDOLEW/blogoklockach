@@ -149,7 +149,7 @@ tlo.crop((0, 4393, 1400, 5221)).save(f'{OUT}tlo-zabawa.jpg', quality=88)
 print('tła sekcji: tlo-intro, tlo-zabawa')
 
 # kadry mobilne (pionowe) z czystych zdjęć
-Image.open(f'{OUT}hero.jpg').crop((300, 0, 1400, 700)).save(f'{OUT}hero-mobile.jpg', quality=92)
+Image.open(f'{OUT}hero.jpg').crop((330, 0, 1030, 700)).save(f'{OUT}hero-mobile.jpg', quality=92)  # kadr 1:1 pod tekst nałożony na zdjęcie
 Image.open(f'{OUT}final.jpg').crop((150, 0, 1150, 761)).save(f'{OUT}final-mobile.jpg', quality=92)
 json.dump(meta, open('layout/warstwy-meta.json', 'w'), indent=1, ensure_ascii=False)
 print('OK ->', OUT)

@@ -45,6 +45,38 @@
     io.observe(svg);
   });
 
+  /* ---------- Filmy inline: autostart (wyciszony) w oknie, pauza poza nim, przycisk dźwięku ---------- */
+  document.querySelectorAll('[data-wideo-inline]').forEach((v) => {
+    const btn = v.parentElement.querySelector('[data-dzwiek]');
+    const ikona = (id) => { if (btn) btn.querySelector('use').setAttribute('href', '#' + id); };
+    const odswiez = () => {
+      const gra = !v.paused && !v.ended;
+      v.classList.toggle('is-playing', gra);
+      if (!btn) return;
+      btn.classList.toggle('is-playing', gra);
+      if (!gra) { ikona('i-play'); btn.setAttribute('aria-label', 'Odtwórz film z dźwiękiem'); btn.setAttribute('aria-pressed', 'false'); }
+      else if (v.muted) { ikona('i-glosnik-wyl'); btn.setAttribute('aria-label', 'Włącz dźwięk'); btn.setAttribute('aria-pressed', 'false'); }
+      else { ikona('i-glosnik'); btn.setAttribute('aria-label', 'Wycisz'); btn.setAttribute('aria-pressed', 'true'); }
+    };
+    ['play', 'playing', 'pause', 'ended', 'volumechange'].forEach((e) => v.addEventListener(e, odswiez));
+    if (btn) btn.addEventListener('click', () => {
+      if (v.paused) { v.muted = false; v.play().catch(() => { v.muted = true; v.play().catch(() => {}); }); }
+      else v.muted = !v.muted;
+      odswiez();
+    });
+    // autostart tylko gdy użytkownik nie ogranicza ruchu; poza oknem pauza (oszczędza transfer)
+    if (zredukowany || !('IntersectionObserver' in window)) return;
+    const io = new IntersectionObserver((w) => {
+      w.forEach((e) => {
+        if (e.isIntersecting) { v.muted = v.muted || !v.dataset.dzwiekOn; v.play().catch(() => {}); }
+        else if (!v.paused) v.pause();
+      });
+    }, { threshold: 0.5 });
+    io.observe(v);
+    // wyciszenie po wyjściu poza okno nie kasuje wyboru dźwięku – zapamiętaj, że włączono
+    v.addEventListener('volumechange', () => { if (!v.muted) v.dataset.dzwiekOn = '1'; });
+  });
+
   /* ---------- Karuzele (scroll-snap + przyciski) ---------- */
   document.querySelectorAll('[data-karuzela]').forEach((kar) => {
     const tor = kar.querySelector('[data-tor]');

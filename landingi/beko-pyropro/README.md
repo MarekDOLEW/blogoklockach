@@ -73,8 +73,13 @@ pole 1400 px.
 `media/` zawiera oryginały spotów (`Beko_Spot_*.mp4`, 1080p) i wersje webowe
 zrobione ffmpegiem: `pyropro-header` (spot v3, hero) i `pyropro-technologiczny`
 (sekcja wideo) – MP4 H.264 720p ≤ 5 MB oraz WebM VP9 (ok. połowa wagi).
-Przyciski play mają `data-wideo` (MP4) i `data-wideo-webm`; modal `<dialog>`
-tworzy `<video>` dopiero po kliknięciu (nic nie ładuje się na starcie).
+Oba filmy są osadzone inline (`<video muted playsinline loop preload="none">`
+w hero i w sekcji wideo): startują wyciszone, gdy co najmniej połowa filmu jest
+w oknie, i pauzują poza nim; przycisk na filmie włącza / wycisza dźwięk
+(autostart z dźwiękiem blokują przeglądarki). Przy `prefers-reduced-motion`
+film nie startuje sam – przycisk go uruchamia. Zdjęcie pod filmem to plakat
+widoczny do pierwszej klatki. Modal `<dialog>` (`data-wideo`) zostaje dla
+przycisku AeroPerfect.
 Ponowna kompresja: patrz komenda w `AUDYT-SEO-UX.md`, sekcja „Media”.
 
 ## Szerokość strony

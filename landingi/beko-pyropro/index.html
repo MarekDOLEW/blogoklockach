@@ -64,6 +64,8 @@
 
 <svg class="sprite" aria-hidden="true" focusable="false">
   <symbol id="i-play" viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z"/></symbol>
+  <symbol id="i-glosnik-wyl" viewBox="0 0 24 24"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9z"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="m16 9 5 6m0-6-5 6"/></symbol>
+  <symbol id="i-glosnik" viewBox="0 0 24 24"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9z"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12"/></symbol>
   <symbol id="i-chevron" viewBox="0 0 24 40"><path fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="m5 3 15 17L5 37"/></symbol>
   <symbol id="i-gwiazda" viewBox="0 0 24 24"><path fill="currentColor" d="m12 2 3 6.6 7 .8-5.2 4.8 1.4 7L12 17.7 5.8 21.2l1.4-7L2 9.4l7-.8z"/></symbol>
   <symbol id="i-x" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" d="M6 6l12 12M18 6 6 18"/></symbol>
@@ -88,13 +90,17 @@
   </div>
   <div class="kadr hero__kadr">
     <picture>
-      <source type="image/avif" media="(max-width: 767px)" srcset="img/hero-mobile-550.avif 550w, img/hero-mobile-1100.avif 1100w" sizes="100vw">
-      <source type="image/webp" media="(max-width: 767px)" srcset="img/hero-mobile-550.webp 550w, img/hero-mobile-1100.webp 1100w" sizes="100vw">
+      <source type="image/avif" media="(max-width: 767px)" srcset="img/hero-mobile-350.avif 350w, img/hero-mobile-700.avif 700w" sizes="100vw">
+      <source type="image/webp" media="(max-width: 767px)" srcset="img/hero-mobile-350.webp 350w, img/hero-mobile-700.webp 700w" sizes="100vw">
       <source type="image/avif" srcset="img/hero-700.avif 700w, img/hero-1400.avif 1400w" sizes="(min-width: 1400px) 1400px, 100vw">
       <source type="image/webp" srcset="img/hero-700.webp 700w, img/hero-1400.webp 1400w" sizes="(min-width: 1400px) 1400px, 100vw">
       <img src="img/hero-1400.jpg" srcset="img/hero-700.jpg 700w, img/hero-1400.jpg 1400w" sizes="(min-width: 1400px) 1400px, 100vw" width="1400" height="700" alt="Tata i córka w kuchni bawią się żółtymi rękawicami z oczkami, w tle piekarnik Beko z włączonym oświetleniem" fetchpriority="high" decoding="async">
     </picture>
-    <button class="play hero__play" type="button" data-wideo="media/pyropro-header.mp4" data-wideo-webm="media/pyropro-header.webm" data-tytul="Czyszczenie pyrolityczne PyroPro" aria-label="Odtwórz film o czyszczeniu pyrolitycznym PyroPro"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
+    <video class="wideo-inline hero__wideo" muted playsinline loop preload="none" aria-label="Spot: czyszczenie pyrolityczne PyroPro" data-wideo-inline>
+      <source src="media/pyropro-header.mp4" type="video/mp4">
+      <source src="media/pyropro-header.webm" type="video/webm">
+    </video>
+    <button class="play hero__play" type="button" data-dzwiek aria-pressed="false" aria-label="Odtwórz film z dźwiękiem"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
     <p class="badge59">
       <span class="badge59__czas">Czas czyszczenia</span>
       <span class="badge59__tylko">tylko</span>
@@ -185,7 +191,11 @@
         <source type="image/webp" srcset="img/wideo-plakat-470.webp 470w, img/wideo-plakat-940.webp 940w" sizes="(max-width: 980px) 100vw, 940px">
         <img src="img/wideo-plakat-940.jpg" srcset="img/wideo-plakat-470.jpg 470w, img/wideo-plakat-940.jpg 940w" sizes="(max-width: 980px) 100vw, 940px" width="940" height="529" alt="Kadr z filmu: dłoń ustawia program czyszczenia pyrolitycznego PyroPro 59 minut na panelu piekarnika Beko" loading="lazy" decoding="async">
       </picture>
-      <button class="play" type="button" data-wideo="media/pyropro-technologiczny.mp4" data-wideo-webm="media/pyropro-technologiczny.webm" data-tytul="Czyszczenie pyrolityczne PyroPro – 59 minut" aria-label="Odtwórz film: Czyszczenie pyrolityczne PyroPro 59 minut"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
+      <video class="wideo-inline" muted playsinline loop preload="none" aria-label="Spot technologiczny: czyszczenie pyrolityczne PyroPro 59 minut" data-wideo-inline>
+        <source src="media/pyropro-technologiczny.mp4" type="video/mp4">
+        <source src="media/pyropro-technologiczny.webm" type="video/webm">
+      </video>
+      <button class="play" type="button" data-dzwiek aria-pressed="false" aria-label="Odtwórz film z dźwiękiem"><svg aria-hidden="true"><use href="#i-play"/></svg></button>
     </figure>
   </section>
 
