@@ -10,24 +10,29 @@
 //   3. Huby /zestaw/ przechodzą przez hubIndeksowalny() z src/lib/seo.js –
 //      w sitemapie są dokładnie te strony, które nie mają noindex.
 //
-// Skąd lastmod:
+// Skąd lastmod (decyzja Marka 09.09.2026 – data ma być wszędzie, gdzie jest
+// prawdziwa):
 //   artykuły, prezentowniki, deale – `zaktualizowano` z frontmattera/meta,
-//     a gdy go nie ma, `data` publikacji;
-//   huby zestawów – data najnowszego naszego tekstu o zestawie (patrz
-//     lastmodHubu); bez tekstu pole pomijamy;
-//   serie, nowości, strony stałe – bez lastmod: przeliczają się przy każdym
-//     buildzie z danych cenowych i każda data byłaby datą builda, nie zmiany
-//     treści. Zgodnie z zasadą z RUNBOOK („Sitemapy i Search Console"):
-//     lepiej nie deklarować daty niż deklarować nieprawdziwą.
+//     a gdy go nie ma, `data` publikacji; huby działów /artykuly/ i
+//     /prezentowniki/ – najświeższy tekst działu;
+//   huby zestawów – max z daty naszego tekstu o zestawie i daty ostatniej
+//     oferty sklepowej (tego dnia zmieniła się tabela cen – patrz lastmodHubu);
+//   serie – max z lastmod hubów tej serii i tekstów o niej;
+//   miesiące nowości – max z lastmod zestawów z premierą w tym miesiącu;
+//   strony przeliczane codziennie z cen (/, /deale/, /nowosci/, /serie/,
+//     /wycofania/, /kolekcjoner/) – data builda, bo realnie zmieniają się
+//     co dzień; /o-nas/ – bez daty (treść stała).
+// Data z przyszłości (błąd w frontmatterze) jest przycinana do dzisiejszej.
 //
 // Bez <priority> i <changefreq> – Google je ignoruje.
 
 import sety from '../data/sety.json';
 import katalog from '../data/katalog.json';
-import { numeryHubow } from './huby.js';
+import { numeryHubow, wycofanieSetu } from './huby.js';
+import { wpisKatalogu } from './katalog.js';
 import { hubIndeksowalny, lastmodHubu, slugSerii } from './seo.js';
 import { miesiac, PROG_SETOW } from './miesiace.js';
-import { tekstySekcji } from './teksty.js';
+import { teksty, tekstySekcji } from './teksty.js';
 
 export const STRONA = 'https://tylkoklocki.pl';
 
@@ -38,63 +43,112 @@ export const SEKCJE = ['artykuly', 'prezentowniki', 'deale', 'serie', 'nowosci',
 // w astro.config.mjs (`redirects`) – zgłoszenie dałoby Google adres 301.
 const SERIE_PRZEKIEROWANE = new Set(['tradycyjne-festiwale-chinskie']);
 
-const wpis = (sciezka, lastmod = null) => ({ loc: `${STRONA}${sciezka}`, lastmod: lastmod || null });
-
 // Data nie może być z przyszłości (błąd w frontmatterze nie ma trafić do Google).
 const dzisIso = new Date().toISOString().slice(0, 10);
 const bezPrzyszlosci = (d) => (d && d > dzisIso ? dzisIso : d);
+const maxData = (daty) => daty.filter(Boolean).reduce((a, b) => (b > a ? b : a), '') || null;
+
+const wpis = (sciezka, lastmod = null) => ({ loc: `${STRONA}${sciezka}`, lastmod: bezPrzyszlosci(lastmod) || null });
+
+// Teksty z korzenia (/kalendarz-promocji-lego/, /zapowiedzi-lego-2027/) mają
+// kategorię artykułu, ale adres poza /artykuly/ – idą do sitemap-inne.xml
+// (tak są zgłoszone w GSC), a w sitemap-artykuly.xml zostają teksty spod /artykuly/.
+const zKorzenia = (t) => !/^\/(artykuly|prezentowniki|deale)\//.test(t.url);
 
 function zTekstow(sekcja) {
-  return tekstySekcji(sekcja).map((t) => wpis(t.url, bezPrzyszlosci(t.lastmod)));
+  return tekstySekcji(sekcja)
+    .filter((t) => !zKorzenia(t))
+    .map((t) => wpis(t.url, t.lastmod));
 }
+
+const lastmodDzialu = (sekcja) => maxData(tekstySekcji(sekcja).map((t) => t.lastmod));
+
+// Cache lastmod hubów – serie i nowości liczą maksimum po tysiącach zestawów.
+const lastmodHubow = new Map();
+const lastmodHubuC = (nr) => {
+  if (!lastmodHubow.has(nr)) lastmodHubow.set(nr, lastmodHubu(nr));
+  return lastmodHubow.get(nr);
+};
+
+const seriaHubu = (nr) => sety[nr]?.seria ?? wpisKatalogu(nr)?.seria ?? wycofanieSetu(nr)?.seria ?? null;
 
 function serie() {
   const zSetow = Object.values(sety).map((s) => s.seria);
   const zKatalogu = Object.keys(katalog).filter((k) => k !== '_meta');
-  const slugi = [...new Set([...zSetow, ...zKatalogu].filter(Boolean).map(slugSerii))]
-    .filter((slug) => !SERIE_PRZEKIEROWANE.has(slug))
-    .sort();
-  return [wpis('/serie/'), ...slugi.map((slug) => wpis(`/serie/${slug}/`))];
+  const nazwy = [...new Set([...zSetow, ...zKatalogu].filter(Boolean))];
+
+  // lastmod serii = najświeższy hub tej serii albo tekst o niej
+  const perSeria = new Map(nazwy.map((n) => [n, []]));
+  for (const nr of numeryHubow) {
+    const seria = seriaHubu(nr);
+    if (perSeria.has(seria)) perSeria.get(seria).push(lastmodHubuC(nr));
+  }
+  for (const t of teksty()) for (const seria of t.serie) if (perSeria.has(seria)) perSeria.get(seria).push(t.lastmod);
+
+  const wpisy = new Map();
+  for (const nazwa of nazwy) {
+    const slug = slugSerii(nazwa);
+    if (SERIE_PRZEKIEROWANE.has(slug)) continue;
+    // dwie nazwy mogą dać ten sam slug (np. „NINJAGO" i „Ninjago") – bierzemy późniejszą datę
+    wpisy.set(slug, maxData([wpisy.get(slug), maxData(perSeria.get(nazwa))]));
+  }
+  return [
+    wpis('/serie/', dzisIso),
+    ...[...wpisy.keys()].sort().map((slug) => wpis(`/serie/${slug}/`, wpisy.get(slug))),
+  ];
 }
 
 function nowosci() {
   // ta sama reguła co getStaticPaths w src/pages/nowosci/[miesiac].astro
   const ile = new Map();
-  for (const s of Object.values(sety)) {
+  const daty = new Map();
+  for (const [nr, s] of Object.entries(sety)) {
     const ym = String(s.premiera ?? '').slice(0, 7);
-    if (/^\d{4}-\d{2}$/.test(ym)) ile.set(ym, (ile.get(ym) ?? 0) + 1);
+    if (!/^\d{4}-\d{2}$/.test(ym)) continue;
+    ile.set(ym, (ile.get(ym) ?? 0) + 1);
+    daty.set(ym, maxData([daty.get(ym), lastmodHubuC(nr)]));
   }
   const miesiace = [...ile]
     .filter(([ym, n]) => n >= PROG_SETOW && ym >= '2026-01')
     .map(([ym]) => ym)
     .sort()
-    .map((ym) => wpis(miesiac(ym).sciezka));
-  return [wpis('/nowosci/'), ...miesiace];
+    .map((ym) => wpis(miesiac(ym).sciezka, daty.get(ym)));
+  return [wpis('/nowosci/', dzisIso), ...miesiace];
 }
 
 function zestawy() {
   return [...numeryHubow]
     .filter((nr) => hubIndeksowalny(nr))
     .sort((a, b) => Number(a) - Number(b))
-    .map((nr) => wpis(`/zestaw/${nr}/`, bezPrzyszlosci(lastmodHubu(nr))));
+    .map((nr) => wpis(`/zestaw/${nr}/`, lastmodHubuC(nr)));
 }
 
-// Strony stałe. Pominięte świadomie: /szukaj/ (noindex, wyniki liczy
-// przeglądarka), /polityka-prywatnosci/ (bez wartości dla wyszukiwarki),
-// /idz/* (przekierowania afiliacyjne, zablokowane w robots.txt).
+// Strony stałe i teksty z korzenia. Pominięte świadomie: /szukaj/ (noindex,
+// wyniki liczy przeglądarka), /polityka-prywatnosci/ (bez wartości dla
+// wyszukiwarki), /idz/* (przekierowania afiliacyjne, zablokowane w robots.txt).
 function inne() {
-  return ['/', '/o-nas/', '/wycofania/', '/kolekcjoner/'].map((s) => wpis(s));
+  const korzen = teksty()
+    .filter(zKorzenia)
+    .map((t) => wpis(t.url, t.lastmod));
+  return [
+    wpis('/', dzisIso),
+    wpis('/wycofania/', dzisIso),
+    wpis('/kolekcjoner/', dzisIso),
+    wpis('/o-nas/'),
+    ...korzen,
+  ];
 }
 
 /** Wpisy jednej sekcji: [{ loc, lastmod }]. */
 export function wpisySekcji(sekcja) {
   switch (sekcja) {
     case 'artykuly':
-      return [wpis('/artykuly/'), ...zTekstow('artykuly')];
+      return [wpis('/artykuly/', lastmodDzialu('artykuly')), ...zTekstow('artykuly')];
     case 'prezentowniki':
-      return [wpis('/prezentowniki/'), ...zTekstow('prezentowniki')];
+      return [wpis('/prezentowniki/', lastmodDzialu('prezentowniki')), ...zTekstow('prezentowniki')];
     case 'deale':
-      return [wpis('/deale/'), ...zTekstow('deale')];
+      // /deale/ ma automatyczną listę gorących deali z cen – zmienia się co dzień
+      return [wpis('/deale/', dzisIso), ...zTekstow('deale')];
     case 'serie':
       return serie();
     case 'nowosci':

@@ -719,13 +719,13 @@ plik `sitemap-0.xml` już nie istnieje. Adres indeksu **nie zmienił się**.
 | Adres | Co zgłasza | Skąd |
 |---|---|---|
 | `/sitemap-index.xml` | indeks siedmiu sitemap sekcyjnych niżej | `src/pages/sitemap-index.xml.js` |
-| `/sitemap-artykuly.xml` | `/artykuly/` + artykuły (także kalendarz i zapowiedzi z korzenia) | `src/lib/teksty.js` |
+| `/sitemap-artykuly.xml` | `/artykuly/` + artykuły spod `/artykuly/` | `src/lib/teksty.js` |
 | `/sitemap-prezentowniki.xml` | `/prezentowniki/` + prezentowniki `.md` i `.astro` | `src/lib/teksty.js` |
 | `/sitemap-deale.xml` | `/deale/` + posty dealowe | `src/lib/teksty.js` |
 | `/sitemap-serie.xml` | `/serie/` + strony serii (bez adresów przekierowanych w `astro.config.mjs`) | `src/lib/sitemapy.js` |
 | `/sitemap-nowosci.xml` | `/nowosci/` + miesiące premier | ta sama reguła co `nowosci/[miesiac].astro` |
 | `/sitemap-zestawy.xml` | huby `/zestaw/<nr>/`, **tylko indeksowalne** | `hubIndeksowalny()` z `src/lib/seo.js` |
-| `/sitemap-inne.xml` | `/`, `/o-nas/`, `/wycofania/`, `/kolekcjoner/` | `src/lib/sitemapy.js` |
+| `/sitemap-inne.xml` | `/`, `/o-nas/`, `/wycofania/`, `/kolekcjoner/`, `/kalendarz-promocji-lego/`, `/zapowiedzi-lego-2027/` | `src/lib/sitemapy.js` |
 | `/sitemap-priorytet.xml` | strona główna, kategorie, teksty, zestawy z kartami (i indeksowalne) | `src/pages/sitemap-priorytet.xml.js` |
 
 Sens podziału: w GSC każda sekcja ma osobny licznik „przesłane / zindeksowane",
@@ -734,15 +734,19 @@ liczy się przy buildzie i nie wymaga utrzymania. `sitemap-priorytet.xml`
 zostaje, bo jest zgłoszona w GSC – dubluje część sekcyjnych; można ją zdjąć,
 gdy sekcyjne przejmą jej rolę w raportach.
 
-**`<lastmod>` tylko tam, gdzie znamy datę zmiany treści:** artykuły,
-prezentowniki i deale biorą `zaktualizowano` z frontmattera / `meta`
-(fallback: `data`); huby zestawów – datę najnowszego naszego tekstu o
-zestawie (bez tekstu pole pomijamy). Serie, nowości i strony stałe idą bez
-`lastmod`, bo przeliczają się z cen przy każdym buildzie i każda data byłaby
-datą builda. Zasada bez zmian od 24.08: lepiej nie deklarować daty niż
-deklarować nieprawdziwą – Google przy niewiarygodnym `lastmod` przestaje ufać
-polu w całej witrynie. **Nigdy nie stemplować `lastmod` datą builda ani datą
-sprawdzenia cen.** Data z frontmattera z przyszłości jest przycinana do dziś.
+**`<lastmod>` wszędzie, gdzie data jest prawdziwa** (decyzja Marka 09.09.2026):
+teksty biorą `zaktualizowano` z frontmattera / `meta` (fallback `data`); huby
+zestawów – późniejszą z dat: nasz tekst o zestawie albo ostatnia oferta
+sklepowa (tego dnia zmieniła się tabela cen); serie – najświeższy hub lub
+tekst serii; miesiące nowości – najświeższy zestaw z premierą w tym miesiącu;
+strony przeliczane co dzień z cen (`/`, `/deale/`, `/nowosci/`, `/serie/`,
+`/wycofania/`, `/kolekcjoner/`) – data builda, bo realnie zmieniają się
+codziennie. Bez daty zostaje tylko `/o-nas/` i huby bez tekstu i bez oferty.
+Data z przyszłości jest przycinana do dzisiejszej. **Nie stemplować datą
+builda stron, które się nie zmieniły** (artykułów, hubów bez świeżej oferty) –
+przy niewiarygodnym `lastmod` Google przestaje ufać polu w całej witrynie.
+Teksty z korzenia (`/kalendarz-promocji-lego/`, `/zapowiedzi-lego-2027/`) są
+w `sitemap-inne.xml`, nie w artykułach – tak są zgłoszone w GSC.
 
 **Noindex na cienkich hubach.** `src/lib/seo.js` → `hubIndeksowalny(nr)`:
 hub jest indeksowany, gdy spełnia **co najmniej trzy z czterech** warunków

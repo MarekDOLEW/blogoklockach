@@ -64,6 +64,16 @@ osobno dla każdej z siedmiu sitemap sekcyjnych i raport Discover, i zapisać
 tu wynik. Punkt odniesienia: 903 adresy przesłane (799 hubów), stan
 indeksacji sprzed zmiany – 0 poza stroną główną.
 
+**Poprawki po przeglądzie Marka (09.09, ~08:30):** `lastmod` we wszystkich
+sekcjach (huby z daty ostatniej oferty, serie i nowości z maksimum po
+zestawach, `/`, `/deale/`, `/nowosci/`, `/serie/`, `/wycofania/`,
+`/kolekcjoner/` z datą builda – zmieniają się codziennie); kalendarz i
+zapowiedzi przeniesione z `sitemap-artykuly.xml` do `sitemap-inne.xml`.
+Stan: artykuły 17, prezentowniki 19, deale 5, serie 45, nowości 12, zestawy
+799, inne 6 – razem 903, `lastmod` na 901. Progi hubów bez zmian (799) –
+decyzja: ocenić w GSC za 2–3 tygodnie, zaostrzyć, jeśli „wykryto,
+niezindeksowano" zostanie wysokie.
+
 **Uwagi:**
 - Cienkie huby z `noindex` po pewnym czasie wypadną z raportu „wykryta,
   niezindeksowana" – to zamierzone. Hub wraca do indeksu sam, gdy Łowca

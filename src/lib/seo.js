@@ -126,16 +126,25 @@ export function hubIndeksowalny(nr) {
   return cache.get(klucz);
 }
 
+const maxData = (daty) => daty.filter(Boolean).reduce((a, b) => (b > a ? b : a), '') || null;
+
+/** Data ostatniej oferty sklepowej zestawu (sety.json + feed) albo null. */
+export function dataOfertHubu(nr) {
+  const klucz = String(nr);
+  return maxData([...(sety[klucz]?.oferty ?? []).map((o) => o.data), feed[klucz]?.data]);
+}
+
 /**
- * Data ostatniej zmiany TREŚCI huba do <lastmod> – albo null.
+ * Data ostatniej zmiany treści huba do <lastmod> – albo null.
  *
- * Świadomie nie bierzemy daty sprawdzenia cen (zmienia się codziennie i Google
- * przestałby ufać polu lastmod w całej witrynie – patrz RUNBOOK, „Sitemapy").
- * Jedyna data zmiany treści, którą znamy per zestaw, to publikacja albo
- * aktualizacja naszego tekstu o nim (hub dostaje wtedy nowy blok odsyłaczy).
- * Bez takiego tekstu lastmod pomijamy – lepiej nie deklarować niż zmyślać.
+ * Dwa źródła: publikacja/aktualizacja naszego tekstu o zestawie (hub dostaje
+ * wtedy nowy blok odsyłaczy) i data ostatniej oferty sklepowej – tego dnia
+ * realnie zmieniła się tabela cen, czyli główna treść huba. Decyzja Marka
+ * (09.09.2026): dla stron, które realnie zmieniają się codziennie, świeża data
+ * jest prawdziwa, więc może iść do sitemapy. Nie stemplujemy natomiast datą
+ * builda hubów, których nikt nie sprawdzał – bez tekstu i bez oferty lastmod
+ * pomijamy.
  */
 export function lastmodHubu(nr) {
-  const daty = tekstyOZestawie(nr).map((t) => t.lastmod).filter(Boolean);
-  return daty.length ? daty.reduce((a, b) => (b > a ? b : a)) : null;
+  return maxData([...tekstyOZestawie(nr).map((t) => t.lastmod), dataOfertHubu(nr)]);
 }
