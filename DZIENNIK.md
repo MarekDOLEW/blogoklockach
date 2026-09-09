@@ -54,14 +54,15 @@ audytu Cowork z 09.09 (3 523 adresy w sitemapie, 3 418 hubów, zero `lastmod`):
 - **Nietknięte** (decyzja Marka): linkowanie na stronie głównej.
 - `RUNBOOK.md`, sekcja „Sitemapy i Search Console" przepisana.
 
-**Stan:** gotowe w gałęzi; po wdrożeniu na `main` do zrobienia w GSC.
+**Stan:** wdrożone na `main` 09.09 ~07:45, produkcja sprawdzona (sitemapy 200,
+`sitemap-0.xml` 404, noindex na cienkim hubie, FAQ i „Przeczytaj też" widoczne,
+worker `/img/` i `/idz/` działają). **Marek zgłosił sitemapy w GSC 09.09.**
 
-**Dla drugiej strony (COWORK / Marek w GSC):** po wdrożeniu (1) w „Mapy
-witryny" zgłosić ponownie `https://tylkoklocki.pl/sitemap-index.xml` oraz
-osobno każdą z siedmiu sitemap sekcyjnych (pełne adresy – usługa domenowa);
-(2) `sitemap-priorytet.xml` zostawić; (3) `rss.xml` NIE zgłaszać jako sitemapy,
-sprawdzić raport Discover po ~2 tygodniach; (4) po 2–3 tygodniach porównać
-liczniki „zindeksowane" per sekcja i zgłosić, co się rusza.
+**Dla drugiej strony (COWORK):** nic do zgłaszania – sitemapy są w GSC. Za 2–3
+tygodnie (ok. 23–30.09) odczytać w GSC liczniki „przesłane / zindeksowane"
+osobno dla każdej z siedmiu sitemap sekcyjnych i raport Discover, i zapisać
+tu wynik. Punkt odniesienia: 903 adresy przesłane (799 hubów), stan
+indeksacji sprzed zmiany – 0 poza stroną główną.
 
 **Uwagi:**
 - Cienkie huby z `noindex` po pewnym czasie wypadną z raportu „wykryta,
