@@ -1,11 +1,5 @@
 {
   "extraKnownMarketplaces": {
-    "gsap-skills": {
-      "source": {
-        "source": "github",
-        "repo": "greensock/gsap-skills"
-      }
-    },
     "md-general-skills": {
       "source": {
         "source": "github",
@@ -14,7 +8,7 @@
     }
   },
   "enabledPlugins": {
-    "gsap-skills@gsap-skills": true,
-    "md-general-skills@md-general-skills": true
+    "md-general-skills@md-general-skills": true,
+    "gsap-skills@md-general-skills": true
   }
 }

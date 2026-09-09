@@ -32,9 +32,9 @@ Zmieniamy dokument w `redakcja/` i uruchamiamy eksport. Pozostałe skille w
 na miejscu — eksport ich nie dotyka.
 
 Skille uniwersalne (karuzele social, `html-do-png`, motion design, szablon
-brandowy) i skille GSAP przychodzą z pluginów zadeklarowanych w
-`.claude/settings.json`: własny marketplace `MarekDOLEW/MDmygeneralskills`
-oraz `greensock/gsap-skills`. Poprawki do nich robimy w tamtym repo, nie tutaj.
+brandowy) i skille GSAP przychodzą z dwóch pluginów jednego marketplace'u
+`MarekDOLEW/MDmygeneralskills`, zadeklarowanego w `.claude/settings.json`.
+Poprawki do nich robimy w tamtym repo, nie tutaj.
 Skrypt `html-do-png.mjs` żyje w pluginie; w repo zostaje tylko zależność
 `playwright-core`, z której ten skrypt korzysta.
 
