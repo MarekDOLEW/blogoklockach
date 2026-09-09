@@ -1,12 +1,16 @@
 ---
 import Base from './Base.astro';
+import Faq from '../components/Faq.astro';
+import PowiazaneArtykuly from '../components/PowiazaneArtykuly.astro';
 import { ogStrony, slugZeSciezki } from '../lib/og.js';
+import { dataPl } from '../lib/daty.js';
+import { autorJsonld, WYDAWCA } from '../config.js';
 
 // Layout prezentowników serii (strony .astro, bo treść jest sterowana danymi
 // z katalogu i cen – nie da się jej sensownie utrzymać w markdownie).
 // Odpowiednik Artykul.astro: te same dane strukturalne + disclosure, plus
 // ItemList z rekomendowanymi zestawami, żeby Google widziało listę produktów.
-const { title, opis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [] } = Astro.props;
+const { title, opis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [], autor } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const artykulJsonld = {
@@ -18,8 +22,9 @@ const artykulJsonld = {
   dateModified: zaktualizowano ?? data,
   inLanguage: 'pl-PL',
   mainEntityOfPage: canonical,
-  author: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
-  publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+  // Osoba (E-E-A-T) gdy znamy imię (props `autor` albo src/config.js); inaczej organizacja.
+  author: autorJsonld(autor),
+  publisher: WYDAWCA,
 };
 
 const okruszkiJsonld = {
@@ -69,12 +74,17 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
     <p>
       <span class="badge-seria">{kategoria}</span>
       <span style="font-size:0.85rem;color:var(--granat-60)">
-        {data}
-        {zaktualizowano && zaktualizowano !== data && <> · zaktualizowano {zaktualizowano}</>}
+        <time datetime={data}>{dataPl(data)}</time>
+        {zaktualizowano && zaktualizowano !== data && (
+          <> · Aktualizacja: <time datetime={zaktualizowano}>{dataPl(zaktualizowano)}</time></>
+        )}
       </span>
     </p>
     <h1>{title}</h1>
     <slot />
+    <!-- FAQ widoczne dla czytelnika – z tej samej listy, z której powstaje FAQPage wyżej. -->
+    <Faq faq={faq} />
+    <PowiazaneArtykuly />
     <!-- Nota afiliacyjna zamyka tekst – tak samo jak w Artykul.astro. -->
     <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis – nie płacisz ani grosza więcej.</p>
   </article>

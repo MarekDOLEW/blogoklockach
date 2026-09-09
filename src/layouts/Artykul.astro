@@ -1,7 +1,14 @@
 ---
 import Base from './Base.astro';
+import Faq from '../components/Faq.astro';
+import PowiazaneArtykuly from '../components/PowiazaneArtykuly.astro';
 import { ogStrony, slugZeSciezki } from '../lib/og.js';
-const { frontmatter } = Astro.props;
+import { dataPl } from '../lib/daty.js';
+import { autorJsonld, WYDAWCA } from '../config.js';
+// `headings` dostarcza Astro dla layoutów markdownu – po nim poznajemy, czy
+// tekst ma już własną sekcję FAQ w treści (starsze artykuły pisały ją ręcznie
+// pod nagłówkiem „## FAQ"); wtedy nie dokładamy drugiej z frontmattera.
+const { frontmatter, headings = [] } = Astro.props;
 
 // Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
 // zaktualizowano (YYYY-MM-DD), faq: [{q, a}] i tagi: ["Dla rodziców"] –
@@ -24,8 +31,10 @@ const artykulJsonld = {
   inLanguage: 'pl-PL',
   ...(tagi.length ? { keywords: tagi.join(', ') } : {}),
   mainEntityOfPage: canonical,
-  author: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
-  publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+  // Osoba (E-E-A-T) gdy znamy imię – z frontmattera `autor` albo src/config.js;
+  // bez imienia zostaje organizacja, żeby nie wysyłać Google placeholdera.
+  author: autorJsonld(frontmatter.autor),
+  publisher: WYDAWCA,
 };
 
 // Dział w okruszkach: domyślnie Artykuły; teksty spoza /artykuly/ (np. posty
@@ -56,6 +65,15 @@ const faqJsonld = frontmatter.faq?.length
 
 const jsonld = [artykulJsonld, okruszkiJsonld, ...(faqJsonld ? [faqJsonld] : [])];
 
+// Widoczne FAQ z frontmattera – chyba że tekst ma już własną sekcję w treści.
+const faqWTresci = headings.some((h) => h.depth <= 3 && /faq|pytania/i.test(h.text));
+const faqWidoczne = faqWTresci ? [] : frontmatter.faq ?? [];
+
+// Data aktualizacji widoczna w tekście (pod plakietkami), zawsze gdy jest
+// świeższa niż publikacja; <time datetime> niesie ISO dla robota.
+const zaktualizowano =
+  frontmatter.zaktualizowano && frontmatter.zaktualizowano !== frontmatter.data ? frontmatter.zaktualizowano : null;
+
 // Własny obraz OG artykułu/prezentownika; gdy go nie ma,
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
@@ -66,14 +84,16 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
       <span class="badge-seria">{frontmatter.kategoria}</span>
       {tagi.map((t) => <span class="badge-tag">{t}</span>)}
       <span style="font-size:0.85rem;color:var(--granat-60)">
-        {frontmatter.data}
-        {frontmatter.zaktualizowano && frontmatter.zaktualizowano !== frontmatter.data && (
-          <> · zaktualizowano {frontmatter.zaktualizowano}</>
+        <time datetime={frontmatter.data}>{dataPl(frontmatter.data)}</time>
+        {zaktualizowano && (
+          <> · Aktualizacja: <time datetime={zaktualizowano}>{dataPl(zaktualizowano)}</time></>
         )}
       </span>
     </p>
     <h1>{frontmatter.title}</h1>
     <slot />
+    <Faq faq={faqWidoczne} />
+    <PowiazaneArtykuly />
     <!-- Nota afiliacyjna zamyka tekst: stoi pod treścią i pod linią „Zobacz też",
          czyli jako ostatni element artykułu. -->
     <p class="disclosure disclosure--stopka">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis – nie płacisz ani grosza więcej.</p>
