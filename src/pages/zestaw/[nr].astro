@@ -11,7 +11,11 @@ import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
 import { premieraSetu, zapowiedz } from '../../lib/premiery.js';
-import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
+import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu, nazwaSklepu } from '../../lib/oferty.js';
+import { hubIndeksowalny } from '../../lib/seo.js';
+import { inneZSerii } from '../../lib/seria-huby.js';
+import { dataPl } from '../../lib/daty.js';
+import cenyBaza from '../../data/ceny_baza.json';
 
 export function getStaticPaths() {
   return [...numeryHubow].map((nr) => ({ params: { nr } }));
@@ -137,6 +141,25 @@ const faqJsonld = karta?.faq?.length
     }
   : null;
 
+// Cienkie huby (sam szablon cenowy bez tekstu, bez naszego artykułu, stary
+// zestaw) dostają noindex, follow – strona działa i przekazuje moc dalej, ale
+// nie zjada budżetu crawlowania. Reguła i progi: src/lib/seo.js; ta sama
+// funkcja decyduje o obecności huba w sitemap-zestawy.xml.
+const indeksowalny = hubIndeksowalny(nr);
+
+// Najniższa cena, jaką zanotował Łowca (ceny_baza.json) – jedyna „historia
+// ceny", jaką mamy w danych (pełnych szeregów czasowych nie zbieramy).
+// Pokazujemy ją tylko, gdy jest niższa od dzisiejszej najlepszej oferty:
+// wtedy niesie informację, że bywało taniej i przy jakiej cenie.
+const minimum = cenyBaza[nr]?.najnizsza_cena
+  ? { cena: cenyBaza[nr].najnizsza_cena, data: cenyBaza[nr].najnizsza_data, sklep: cenyBaza[nr].najnizsza_sklep }
+  : null;
+const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza;
+
+// Inne huby tej serii – linkowanie wewnętrzne między zestawami, żeby robot
+// z jednego huba trafiał do następnych, a nie tylko do sklepów.
+const inneZestawy = inneZSerii(seria, nr);
+
 // tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base
 const tytul = najlepsza
   ? `LEGO ${nr} ${nazwa} – cena i promocje`
@@ -145,7 +168,7 @@ const opisMeta = najlepsza
   ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny}>
   <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
@@ -257,6 +280,14 @@ const opisMeta = najlepsza
           </p>
         )}
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
+        {minimumWarte && (
+          <p class="set-minimum">
+            Najniższa cena, jaką zanotowaliśmy: <strong>{fmt(minimum.cena)}</strong>
+            {minimum.sklep && <> ({nazwaSklepu(minimum.sklep)}{minimum.data && <>, {dataPl(minimum.data)}</>})</>}
+            {!minimum.sklep && minimum.data && <> ({dataPl(minimum.data)})</>}
+            {' '}– dziś jest o {fmt(najlepsza - minimum.cena)} drożej.
+          </p>
+        )}
         <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy – wiążąca jest zawsze cena w koszyku sklepu.</p>
       </div>
     ) : (
@@ -300,6 +331,21 @@ const opisMeta = najlepsza
       </section>
     )}
 
+
+    {inneZestawy.length > 0 && (
+      <section class="sekcja" style="margin-top:28px">
+        <h2>Inne zestawy z serii {seria}</h2>
+        <ul class="seria-inne">
+          {inneZestawy.map((z) => (
+            <li>
+              <a href={`/zestaw/${z.nr}/`}>LEGO {z.nr} {z.nazwa}</a>
+              <small>{z.cena ? `od ${fmt(z.cena)}` : 'sprawdź dostępność'}</small>
+            </li>
+          ))}
+        </ul>
+        {sciezkaSerii && <p style="margin-top:12px"><a href={sciezkaSerii}>Wszystkie zestawy serii {seria} →</a></p>}
+      </section>
+    )}
 
     {s ? (
       <div class="persony">

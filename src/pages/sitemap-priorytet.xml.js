@@ -17,6 +17,7 @@ import karty from '../data/karty_setow.json';
 import sety from '../data/sety.json';
 import katalog from '../data/katalog.json';
 import { maHub } from '../lib/huby.js';
+import { hubIndeksowalny } from '../lib/seo.js';
 
 const STRONA = 'https://tylkoklocki.pl';
 
@@ -80,8 +81,10 @@ export async function GET() {
   // Filtr jest tu zabezpieczeniem, nie kosmetyką: karta w karty_setow.json nie
   // gwarantuje podstrony — zestaw nieobecny w katalog.json nie dostaje huba
   // (stan na 31.08: 32 takie karty), a zgłoszony adres byłby dla Google 404.
+  // Od 09.09 dodatkowo hubIndeksowalny (src/lib/seo.js): hub z kartą, ale bez
+  // ofert i o starym, wycofanym zestawie ma noindex – zgłaszać go nie wolno.
   const zestawy = Object.keys(karty)
-    .filter((nr) => nr !== '_meta' && maHub(nr))
+    .filter((nr) => nr !== '_meta' && maHub(nr) && hubIndeksowalny(nr))
     .map((nr) => ({
       url: `${STRONA}/zestaw/${nr}/`,
       lastmod: karty._meta?.zaktualizowano,

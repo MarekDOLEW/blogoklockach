@@ -1059,6 +1059,23 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .faq-setu { margin: 10px 0 0; }
 .faq-setu dt { font-weight: 700; margin-top: 14px; }
 .faq-setu dd { margin: 4px 0 0; color: var(--granat-60); }
+/* FAQ pod artykułem/prezentownikiem (Faq.astro) – ta sama lista, co w JSON-LD */
+.faq-tekstu { margin-top: 36px; }
+/* „Przeczytaj też" (PowiazaneArtykuly.astro) – statyczne linki między tekstami */
+.powiazane { margin: 40px 0 8px; padding-top: 18px; border-top: 1px solid var(--linia); }
+.powiazane-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.powiazane-lista li { padding: 12px 16px; background: var(--karta); border: 1px solid var(--linia); border-left: 4px solid var(--zolty); border-radius: 8px; }
+.powiazane-lista a { font-weight: 700; color: var(--granat); text-decoration: none; }
+.powiazane-lista a:hover { text-decoration: underline; }
+.powiazane-meta { display: block; font-size: 0.82rem; color: var(--granat-60); margin-top: 2px; }
+.powiazane-lista p { margin: 6px 0 0; font-size: 0.9rem; color: var(--granat-60); }
+/* Hub zestawu: najniższa zanotowana cena + inne zestawy serii */
+.set-minimum { margin: 14px 0 0; font-size: 0.95rem; }
+.set-minimum strong { color: var(--zielen); }
+.seria-inne { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.seria-inne li { padding: 10px 14px; background: var(--karta); border: 1px solid var(--linia); border-radius: 8px; font-size: 0.92rem; }
+.seria-inne a { font-weight: 700; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
+.seria-inne small { display: block; color: var(--granat-60); margin-top: 3px; }
 /* ── nawigacja miesiąc-po-miesiącu (/nowosci/<miesiac>-<rok>/) ─────────── */
 .mies-nawigacja {
   display: flex;
