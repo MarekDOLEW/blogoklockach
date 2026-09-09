@@ -467,6 +467,22 @@ kolekcjonerskie Star Wars, czyli merch. Praktyczna kolejność sprawdzania:
 kategoria → jeśli `{t.b.a.}`, to motyw → jeśli i to nie rozstrzyga, numer
 (7 cyfr to prawie zawsze gadżet).
 
+Motywy-szum przy pustej kategorii: **`Gear`** (gadżety, karty kolekcjonerskie)
+i **`BrickLink`** (Designer Program, numery `910xxx` — limitowany crowdfunding,
+nie sprzedaż detaliczna). 9.09.2026 przyszło pięć rekordów `910069`–`910073`
+o 613–4027 elementach z kategorią `{t.b.a.}`; sam filtr kategorii ich nie łapał.
+
+## Pole `premiera`: dopuszczalny sam rok *(9.09.2026)*
+
+Do 9.09 wszystkie wpisy w `sety.json` miały `premiera` w formacie `RRRR-MM`.
+Gdy Brickset zna rocznik, ale nie ma daty startu (77094 Zelda), **wpisujemy
+sam rok** — `"2027"` — zamiast zmyślać miesiąc.
+
+Sprawdzone przed zmianą: `src/lib/premiery.js` porównuje `premiera >
+BIEZACY_MIESIAC` leksykalnie, więc `"2027" > "2026-09"` daje poprawny wynik,
+a hub wyświetla „premiera 2027". Nie psuje to ani flagi zapowiedzi, ani
+renderowania.
+
 ## Co NIE trafia na stronę publiczną
 
 Ustalone 28.08.2026 po wpadce: plan redakcyjny został opublikowany jako

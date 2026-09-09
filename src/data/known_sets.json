@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-08",
+  "data_aktualizacji": "2026-09-09",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1168,
+  "liczba_setow": 1169,
   "sety": [
     "10280",
     "10281",
@@ -1128,6 +1128,7 @@
     "77081",
     "77082",
     "77093",
+    "77094",
     "77117",
     "77118",
     "77119",
@@ -1452,6 +1453,12 @@
       "numer": "72544",
       "nazwa": "KPop Demon Hunters — rezerwacja 2027",
       "status": "Brickset 2026-09-06 13:22-13:23: pusty rekord, kategoria '{t.b.a.}'. Piec numerow zalozonych w ciagu jednej minuty — kohorta KPop Demon Hunters na 2027 urosla z 1 do 6. Bez nazwy, elementow, ceny i daty. Zadne ze zrodel newsowych o tym nie pisalo.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11395",
+      "nazwa": "Olifant (Wladca Pierscieni) — zapowiedz niepotwierdzona",
+      "status": "StoneWars 2026-09-08 podaje ten numer jako Olifanta z serii Wladca Pierscieni na 2027, obok Helmowego Jaru i Gospody pod Rozbrykanym Kucykiem (bez numerow). JEDNO ZRODLO — Brickset ma 11395 jako pusty rekord Icons bez nazwy, PromoBricks milczy. Numer sie zgadza z nasza lista rezerwacji z 05.09, ale zgodnosc numeru to nie potwierdzenie nazwy. Nie publikowac.",
       "premiera": "2027"
     }
   ],
@@ -5849,5 +5856,22 @@
     "uwaga_do_filtra": "Karty maja kategorie '{t.b.a.}', czyli te, ktorej wczorajsza regula kazala NIE odsiewac, ale motyw 'Gear' i siedmiocyfrowy numer. Wniosek: gdy kategoria jest '{t.b.a.}', o szumie decyduje MOTYW. Regula uzupelniona w RUNBOOK.",
     "promobricks": "Jeden nowy wpis (Insiders Mitgliedertag 2026) — akcja punktowa, nie nowosc produktowa.",
     "stonewars": "Trzy nowe wpisy: oficjalna prezentacja 11379, przeglad PLOTEK o Harry Potterze 2027 oraz sygnal o wadzie produkcyjnej minifigurek."
+  },
+  "nowa_seria_zelda": {
+    "ustalenie": "2026-09-09 — 77094 'Ocarina of Time: Link & Epona' potwierdzony TRZEMA zrodlami.",
+    "brickset": "Rekord z 2026-09-08 20:30: 1750 elementow, rocznik 2027, category 'Normal', NOWY MOTYW 'The Legend of Zelda'. Bez ceny EUR i bez daty startu.",
+    "promobricks": "'LEGO Zelda Link und Epona: Erstes Bild zur Set-Neuheit'",
+    "stonewars": "'Neues 18+ Set zu Ocarina of Time bei der Nintendo Direct aufgetaucht' — stad oznaczenie wiekowe 18+ i informacja, ze zestaw pokazano na Nintendo Direct.",
+    "dlaczego_wazne": "Druga nowa marka growa w katalogu w ciagu dwoch tygodni, po PlayStation. Brickset znowu zalozyl OSOBNY MOTYW zamiast wpisac zestaw pod Icons — ten sam sygnal co przy 72306. Historycznie zapowiada linie.",
+    "czego_nie_wiemy": "Cena i miesiac premiery. Progu zakupu nie da sie policzyc. Terminu kolejnych zestawow linii nikt nie podal — nie zgadywac.",
+    "wpis": "Dodany do sety.json 2026-09-09 z premiera '2027' (sam rok, bez miesiaca)."
+  },
+  "schemat_premiera_rok": "2026-09-09: dopuszczamy w polu 'premiera' sam rok ('2027'), gdy miesiac nie jest znany. Do tego dnia wszystkie 1168 wpisow mialo format RRRR-MM. Sprawdzone w src/lib/premiery.js: porownanie premiera > BIEZACY_MIESIAC jest leksykalne, wiec '2027' > '2026-09' dziala poprawnie, a strona huba wyswietla 'premiera 2027'. Alternatywa bylo wpisanie zmyslonego miesiaca — odrzucona.",
+  "przeglad_2026_09_09": {
+    "nowosc": "77094 Zelda — jedyny nowy zestaw, dodany do sety.json.",
+    "korekta_11379": "Tekst dla AFOL przepisany: moje oszacowanie 550-580 zl zastapione faktem z feedow — dwa sklepy wystawily zestaw po 559,99 zl (08.09). cena_katalogowa nadal null, bo karty producenta nie widzielismy.",
+    "odsiane": "Osiem kart kolekcjonerskich Star Wars (theme 'Gear') oraz piec zestawow BrickLink Designer Program 910069-910073 (2252-4027 elementow). BDP to limitowany crowdfunding, nie detal — zgodnie z regula z RUNBOOK.",
+    "uzupelnienie_filtra": "Do listy motywow-szumu dopisac 'BrickLink': rekordy 910xxx przyszly z kategoria '{t.b.a.}', wiec sam filtr kategorii ich nie lapal.",
+    "stonewars_pojedyncze_zrodlo": "11395 jako Olifant (Wladca Pierscieni 2027) — dopisane do sledzonych jako niepotwierdzone. 11387 Holiday House juz mamy opisany."
   }
 }

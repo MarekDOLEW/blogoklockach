@@ -30924,7 +30924,7 @@
   "premiera": "2026-10",
   "opis": "Model księgarni zbudowany jako podpórka do książek — konstrukcja stoi na półce między prawdziwymi tomami i sama pełni funkcję dekoracyjnej przegrody. To ostatni z zestawów fali 1 października, który poznał nazwę; wcześniej krążył w serwisach wyłącznie jako pusty numer katalogowy. 1690 elementów przy takiej bryle oznacza gęstą, detaliczną zabudowę wnętrza, a nie duży gabaryt.",
   "dla_rodzica": "To zestaw z linii dla dorosłych — oznaczenie 18+ dotyczy złożoności budowy, nie treści. Jako prezent trafia raczej do czytelnika z półką na książki niż do dziecka; po złożeniu jest elementem wystroju, nie zabawką.",
-  "dla_afol": "Cena katalogowa w złotych nie jest jeszcze znana — LEGO podało 129,99 EUR. Dla porównania sąsiedni Icons 11380 kosztuje 119,99 EUR i 519,99 zł, co daje przelicznik 4,33; przy tej samej proporcji wyszłoby około 550–580 zł, ale to nasze oszacowanie, nie cena podana przez producenta. Przy 1690 elementach próg opłacalności wypadałby wtedy w okolicach 0,33 zł za element — typowo dla Icons. Właściwą cenę podamy, gdy pojawi się karta polska.",
+  "dla_afol": "Ceny katalogowej w złotych LEGO wciąż nie podało — nie ma jej ani w naszym katalogu, ani w feedach producenta. Dwa niezależne sklepy wystawiły zestaw w przedsprzedaży po 559,99 zł (dane z 8 września); przy dwóch identycznych wycenach w dniu startu to najpewniej cena sugerowana, ale dopóki nie potwierdzi jej karta producenta, traktujemy ją jako obserwację ze sklepów, nie jako cenę katalogową. Przy 1690 elementach daje to około 0,33 zł za element — typowo dla Icons.",
   "oferty": [
    {
     "sklep": "planetaklockow",
@@ -30937,5 +30937,17 @@
     "data": "2026-09-08"
    }
   ]
+ },
+ "77094": {
+  "nazwa": "The Legend of Zelda: Ocarina of Time — Link i Epona",
+  "seria": "The Legend of Zelda",
+  "cena_katalogowa": null,
+  "elementy": 1750,
+  "wiek": "18+",
+  "premiera": "2027",
+  "opis": "Scena z Ocarina of Time — Link wraz z klaczą Eponą. To pierwszy zestaw LEGO pod licencją The Legend of Zelda i Brickset założył dla niego osobny motyw, zamiast wpisywać go pod istniejącą serię. 1750 elementów przy oznaczeniu 18+ stawia go w tej samej półce co modele wystawowe, a nie zabawki do odgrywania scen.",
+  "dla_rodzica": "Oznaczenie 18+ dotyczy złożoności budowy — to model do postawienia na półce, nie zestaw do zabawy. Trafiony prezent dla dorosłego gracza z sentymentem do Nintendo 64; dla dziecka nieznającego gry będzie to po prostu trudna konstrukcja z koniem.",
+  "dla_afol": "Ani ceny, ani miesiąca premiery LEGO jeszcze nie podało — Brickset ma rekord bez ceny i bez daty startu, więc progu zakupu na razie nie da się policzyć. Warta uwagi jest sama licencja: to druga po PlayStation nowa marka growa w katalogu w ciągu dwóch tygodni. Nowy motyw w Brickset zwykle zapowiada linię, a nie pojedynczy zestaw — ale terminu kolejnych pozycji nikt nie zapowiedział i nie ma podstaw, żeby go zgadywać.",
+  "oferty": []
  }
 }
