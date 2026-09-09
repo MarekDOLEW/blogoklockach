@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-08",
-    "przebieg": "scheduled 2026-09-08 08:00",
+    "ostatnia_aktualizacja": "2026-09-09",
+    "przebieg": "scheduled 2026-09-09 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 138,
+    "liczba_wpisow": 144,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian."
@@ -1652,6 +1652,79 @@
         "Empik"
       ],
       "notatki": "WAZNE NIE Z POWODU DEALI. Wsrod szesciu zestawow sa 72151 Eevee i 72152 Pikachu i Pokeball, ktorych NIE MAMY ani w katalog.json, ani w sety.json - a nasz wlasny feed ma dla nich zywe oferty (186,27 zl i 589,99 zl). Do tego 72153 (2648 zl u Media Expert). Tymczasem 72150, 72154, 72155, 72156, 72160 i 72168 mamy. Czyli brakuje trzech numerow WEWNATRZ serii, ktora juz prowadzimy - to nie jest przypadek EOL-a z Allegro, tylko dziura w kompletowaniu biezacej serii. Zgloszone Zwiadowcy w DZIENNIKU."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "mikroPoradnik LEGO.pl: Dzien Insiders 9.09 i Dzien Batmana 2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-dzien-insiders-9-09-i-dzien-batmana-2026/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "POTWIERDZENIE, NA KTORE CZEKALEM. Dedykowany poradnik wydany dzien przed terminem: 9 wrzesnia ruszaja DWIE rownolegle akcje, jedna trwa tylko JEDEN dzien. To drugie niezalezne zrodlo dla Member Day, ktory od 05.09 wisial u nas jako przewidywany z jednego zrodla - i zarazem korekta naszego zalozenia, ze Batman Day wypada w okolicach 19.09. Sekcja wrzesniowa naszego kalendarza przepisana."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow 2026 - aktualizacja: GWP halloweenowy 40900 na 21-30 wrzesnia",
+      "url": "https://faniklockow.pl/2026/09/08/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Nowa pozycja na ich liscie: 40900 Straszne nawiedzone drzewo, GWP Creatora w stylistyce Halloween, 21-30 wrzesnia, prog ok. 375 zl (sami oznaczaja prog jako do potwierdzenia). Nasz kalendarz spodziewal sie gratisu halloweenowego dopiero pod koniec pazdziernika - to byla nasza pomylka co do miesiaca, poprawiona. Reszta ich listy bez zmian wzgledem wersji z 04.09."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Store Event - Popiersie Batmana (Zbuduj i Zabierz, 16-17 wrzesnia)",
+      "url": "https://faniklockow.pl/2026/09/08/lego-store-event-popiersie-batmana/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Mikromodel skladany na miejscu w salonach LEGO, 16-17 wrzesnia, 15:00-17:00, ograniczona liczba sztuk. Dopisane do naszego kalendarza z wyraznym zastrzezeniem, ze dotyczy wylacznie sklepow stacjonarnych - dla czytelnika bez salonu w miescie to informacja bezuzyteczna i trzeba to powiedziec wprost, zamiast sprzedawac jako okazje."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Przedsprzedaz dziewiatej serii BrickLink Designer Program",
+      "url": "https://faniklockow.pl/2026/09/08/przedsprzedaz-dziewiatej-serii-bricklink-designer-program/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BDP - granica zakresu ustalona 03.09: limitowana sprzedaz crowdfundingowa bez dystrybucji sklepowej, wiec nasza funkcja porownania cen tam nie dziala. Bez zmian."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 08.09.2026 (zbiorczo: 6 zestawow, w tym trzy Harry Potter)",
+      "url": "https://faniklockow.pl/2026/09/08/okazja-cenowa-harry-potter-76437-nora-edycja-kolekcjonerska-3/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy. 76437, 76450, 76469, 10358, 60444, 60488. Trzy Harry Pottery dzien po zakonczeniu okna Back to Hogwarts (6.09) - czyli sklepy zewnetrzne przeceniaja serie wtedy, gdy LEGO konczy swoja promocje. To potwierdza rade z naszego kalendarza: przy Harrym Potterze nie trzeba czekac na okno LEGO.com."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "GraviTrax Micro - tory dla kulek (material poza LEGO)",
+      "url": "https://faniklockow.pl/2026/09/08/gravitrax-micro-kreatywna-zabawa-w-budowanie-torow-dla-kulek-sprawdzamy-rozne-zestawy/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Marka spoza LEGO (Ravensburger). Drugi w tym tygodniu material u konkurencji poza glowna tematyka - po Robloxie u fanklockow. Wzorzec: obaj szukaja ruchu w sasiednich niszach. My tego nie robimy, bo nasza funkcja zakupowa jest zbudowana wokol katalogu LEGO."
     }
   ],
   "obserwacje_strategiczne": {

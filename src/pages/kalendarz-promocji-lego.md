@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-08"
+zaktualizowano: "2026-09-09"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -28,7 +28,9 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | 29.08–06.09 | Back to Hogwarts: podwójne GWP Harry Potter | <span class="status status--ok">potwierdzone</span> |
 | **1.09** | Rozpoczęcie roku szkolnego – prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
 | **9.09** | Insiders Member Day: podwójne punkty na 7 serii (bez kalendarzy adwentowych) | <span class="status status--maybe">przewidywane</span> |
-| ok. 17–27.09 | Batman Day (19.09): GWP + punkty Insiders | <span class="status status--maybe">przewidywane</span> |
+| od **9.09** | Batman Day: gratis + punkty Insiders na serię Batman | <span class="status status--maybe">przewidywane</span> |
+| **16–17.09** | „Zbuduj i Zabierz": popiersie Batmana w salonach LEGO, 15:00–17:00 | <span class="status status--maybe">przewidywane</span> |
+| **21–30.09** | GWP 40900 Straszne nawiedzone drzewo od ok. 375 zł | <span class="status status--maybe">przewidywane</span> |
 | **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
 | **1.10** (Insiders) / **4.10** | Pozostałe premiery października: 72306 PlayStation, 21371 Wallace i Gromit, fala świąteczna | <span class="status status--ok">potwierdzone</span> |
 | ok. 20.11–30.11 | Black Friday (27.11) i Cyber Monday (30.11) | <span class="status status--maybe">przewidywane</span> |
@@ -92,15 +94,21 @@ Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: pr
 
 Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi punktami** na siedem serii: [City](/serie/city/), Classic, [Creator 3 w 1](/serie/creator/), [DREAMZzz](/serie/dreamzzz/), [DUPLO](/serie/duplo/), [Friends](/serie/friends/) i [Ninjago](/serie/ninjago/).
 
-**Uczciwie o źródle:** datę podają dwa niezależne serwisy branżowe, oba jako wstępną, i nie znaleźliśmy jej potwierdzenia u samego LEGO – dlatego zostaje oznaczona jako przewidywana. Sam mechanizm jest powtarzalny: dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy.
+**Uczciwie o źródle:** datę potwierdzają dwa niezależne serwisy branżowe, w tym poradnik wydany dzień wcześniej – nie znaleźliśmy jej natomiast na samym LEGO.com, więc do czasu ogłoszenia przez producenta zostaje oznaczona jako przewidywana. Sam mechanizm jest powtarzalny: dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy. **Promocja ma trwać tylko jeden dzień.**
 
 **Jeden szczegół, który zmienia decyzję.** Z promocji mają być **wyłączone kalendarze adwentowe** City i Friends. Jeśli planowałeś kupić kalendarz przy okazji podwójnych punktów, to się nie uda – a jednocześnie [nasz ranking kalendarzy](/artykuly/ranking-kalendarze-adwentowe-lego-2026/) tłumaczy, dlaczego z tym zakupem i tak nie warto zwlekać do listopada. Te dwie rzeczy się nie kłócą: kalendarz kupujesz wcześnie mimo braku punktów, a podwójne punkty zbierasz na czymś innym.
 
 **Czy to argument, żeby czekać do 9 września?** Podwójne punkty to w praktyce około 5% wartości zamówienia zwróconej w punktach – realnie mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Jeśli kupujesz na LEGO.com i tak, poczekaj; jeśli porównujesz sklepy, sprawdź najpierw [tabelę cen na podstronie zestawu](/serie/).
 
-## Wrzesień: Batman Day – 19.09 <span class="status status--maybe">przewidywane</span>
+## Wrzesień: Batman Day i gratis halloweenowy <span class="status status--maybe">przewidywane</span>
 
-Batman Day to trzecia sobota września. W poprzednich latach LEGO otwierało wokół tej daty okno (ok. 17–27.09) z gratisem batmanowym i podwójnymi/potrójnymi punktami Insiders za zakupy z serii [Batman](/serie/batman/). Szczegółów na 2026 jeszcze nie ogłoszono – uzupełnimy, gdy tylko się pojawią.
+Tegoroczny Batman Day nie jest jednym dniem, tylko oknem, które według serwisów branżowych **rusza równolegle z Dniem Insiders, 9 września** – a nie w okolicach trzeciej soboty miesiąca, jak zakładaliśmy wcześniej. Zakupy z serii [Batman](/serie/batman/) obejmuje wtedy gratis i wyższe naliczanie punktów Insiders.
+
+**Osobno, w sklepach stacjonarnych: „Zbuduj i Zabierz" z popiersiem Batmana, 16–17 września, w godzinach 15:00–17:00.** To mikromodel składany na miejscu, w ograniczonej liczbie sztuk – kto pierwszy, ten lepszy. Akcja dotyczy wyłącznie salonów LEGO, więc jeśli nie masz takiego w mieście, nie ma czego szukać online.
+
+**Gratis halloweenowy: 40900 Straszne nawiedzone drzewo, 21–30 września**, przy zakupach od około **375 zł**. Próg podajemy za serwisem branżowym, który sam oznacza go jako niepotwierdzony – traktuj go jako orientacyjny i sprawdź w koszyku przed finalizacją zamówienia. Wcześniej spodziewaliśmy się tego gratisu dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
+
+Wszystkie trzy pozycje pochodzą z serwisów branżowych, nie z ogłoszenia LEGO – stąd status przewidywanych.
 
 ## Październik: Executor UCS (1.10 i 4.10) <span class="status status--ok">potwierdzone</span>
 
@@ -137,7 +145,7 @@ Do tego rusza fala sezonowa: powiększona Pani Mikołajowa, Buddy z „Elfa", ś
 
 **Dlaczego to ma znaczenie dla kalendarza.** Zestaw sezonowy kupiony w październiku i zestaw sezonowy kupiony w grudniu to dwie różne transakcje: świąteczne pozycje LEGO mają krótkie okno sprzedaży i potrafią zniknąć przed świętami, a te, które zostaną, rzadko tanieją w grudniu. To jest odwrotność zasady „poczekaj do Black Friday", którą stosujemy przy zwykłych zestawach.
 
-W drugiej połowie miesiąca spodziewamy się jeszcze sezonowego gratisu halloweenowego <span class="status status--maybe">przewidywane</span>. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
+Gratis halloweenowy, którego spodziewaliśmy się tutaj, wypada w tym roku wcześniej – jest w sekcji wrześniowej. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
 
 ## Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span>
 
