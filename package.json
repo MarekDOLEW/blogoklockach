@@ -12,5 +12,8 @@
     "@astrojs/rss": "^4.0.19",
     "@fontsource/archivo": "^5.0.0",
     "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.63.0"
   }
 }
