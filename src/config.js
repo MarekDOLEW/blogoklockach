@@ -2,13 +2,13 @@
 //
 // AUTOR – osoba podpisująca teksty w danych strukturalnych (schema.org Article →
 // author: Person z linkiem do /o-nas/). Google ocenia E-E-A-T lepiej, gdy za
-// tekstem stoi osoba, a nie sama nazwa serwisu. Pole `imie` jest puste do
-// czasu decyzji redakcji, kto się podpisuje (Marek? Piotr? oboje?) – przy
-// pustym imieniu layouty zostają przy autorze-organizacji, żeby nie wysyłać
-// do Google placeholdera. Artykuł może nadpisać autora we frontmatterze:
+// tekstem stoi osoba, a nie sama nazwa serwisu. Decyzja Marka (09.09.2026):
+// artykuły podpisuje „Piotr M.". Przy pustym imieniu layouty wróciłyby do
+// autora-organizacji, żeby nie wysyłać do Google placeholdera. Pojedynczy
+// tekst może nadpisać autora we frontmatterze:
 //   autor: "Imię Nazwisko"
 export const AUTOR = {
-  imie: '',
+  imie: 'Piotr M.',
   url: 'https://tylkoklocki.pl/o-nas/',
 };
 

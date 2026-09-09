@@ -4,7 +4,7 @@ import Faq from '../components/Faq.astro';
 import PowiazaneArtykuly from '../components/PowiazaneArtykuly.astro';
 import { ogStrony, slugZeSciezki } from '../lib/og.js';
 import { dataPl } from '../lib/daty.js';
-import { autorJsonld, WYDAWCA } from '../config.js';
+import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 
 // Layout prezentowników serii (strony .astro, bo treść jest sterowana danymi
 // z katalogu i cen – nie da się jej sensownie utrzymać w markdownie).
@@ -77,6 +77,9 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
         <time datetime={data}>{dataPl(data)}</time>
         {zaktualizowano && zaktualizowano !== data && (
           <> · Aktualizacja: <time datetime={zaktualizowano}>{dataPl(zaktualizowano)}</time></>
+        )}
+        {(autor ?? AUTOR.imie) && (
+          <> · <a href={AUTOR.url} rel="author">{autor ?? AUTOR.imie}</a></>
         )}
       </span>
     </p>

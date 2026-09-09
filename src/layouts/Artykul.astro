@@ -4,7 +4,7 @@ import Faq from '../components/Faq.astro';
 import PowiazaneArtykuly from '../components/PowiazaneArtykuly.astro';
 import { ogStrony, slugZeSciezki } from '../lib/og.js';
 import { dataPl } from '../lib/daty.js';
-import { autorJsonld, WYDAWCA } from '../config.js';
+import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 // `headings` dostarcza Astro dla layoutów markdownu – po nim poznajemy, czy
 // tekst ma już własną sekcję FAQ w treści (starsze artykuły pisały ją ręcznie
 // pod nagłówkiem „## FAQ"); wtedy nie dokładamy drugiej z frontmattera.
@@ -87,6 +87,9 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
         <time datetime={frontmatter.data}>{dataPl(frontmatter.data)}</time>
         {zaktualizowano && (
           <> · Aktualizacja: <time datetime={zaktualizowano}>{dataPl(zaktualizowano)}</time></>
+        )}
+        {(frontmatter.autor ?? AUTOR.imie) && (
+          <> · <a href={AUTOR.url} rel="author">{frontmatter.autor ?? AUTOR.imie}</a></>
         )}
       </span>
     </p>

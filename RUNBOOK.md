@@ -766,9 +766,9 @@ propsa `faq` – do 09.09 FAQ szło wyłącznie do JSON-LD, a Google wymaga tre�
 widocznej; artykuł z własnym „## FAQ" w treści nie dostaje drugiego bloku)
 i `PowiazaneArtykuly.astro` („Przeczytaj też": 4 linki, dobór w
 `src/lib/powiazane.js` – wspólne zestawy → wspólna seria → kategoria → data;
-deale tylko z ostatnich 30 dni). Autor w schema: `src/config.js` → `AUTOR.imie`
-(puste = organizacja; wpisać imię, gdy redakcja zdecyduje, kto się podpisuje;
-frontmatter `autor:` nadpisuje per tekst).
+deale tylko z ostatnich 30 dni). Autor w schema i w widocznym podpisie:
+`src/config.js` → `AUTOR.imie` = „Piotr M." (decyzja Marka 09.09; puste =
+organizacja; frontmatter `autor:` nadpisuje per tekst).
 
 **Usługa w GSC jest domenowa (`sc-domain:tylkoklocki.pl`).** Praktyczny skutek:
 w polu „Dodaj nową mapę witryny" trzeba wpisać **pełny adres**

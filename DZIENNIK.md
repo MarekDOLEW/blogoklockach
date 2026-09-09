@@ -45,8 +45,8 @@ audytu Cowork z 09.09 (3 523 adresy w sitemapie, 3 418 hubów, zero `lastmod`):
   szło wyłącznie do JSON-LD. **„Przeczytaj też"** (`PowiazaneArtykuly.astro`,
   4 linki: wspólne zestawy → seria → kategoria → data).
 - **Data aktualizacji** widoczna jako „Aktualizacja: DD.MM.RRRR" w `<time>`;
-  autor w schema przygotowany pod osobę (`src/config.js`, `AUTOR.imie` puste –
-  do decyzji, kto się podpisuje; do tego czasu organizacja).
+  autor w schema jako osoba i widoczny podpis „Piotr M." (decyzja Marka;
+  `src/config.js`, `AUTOR.imie`).
 - **Huby**: „Najniższa cena, jaką zanotowaliśmy" (z `ceny_baza.json`, tylko gdy
   niższa od dzisiejszej) i „Inne zestawy z serii" (6 linków do hubów
   indeksowalnych tej serii). Pełnej historii cen w danych nie ma – tabeli nie da
@@ -68,8 +68,7 @@ liczniki „zindeksowane" per sekcja i zgłosić, co się rusza.
   niezindeksowana" – to zamierzone. Hub wraca do indeksu sam, gdy Łowca
   dorzuci trzeci sklep albo redakcja dopisze tekst.
 - Nadal do zrobienia (redakcja, nie kod): wydłużenie artykułów do 800–1 200
-  słów, FAQ w tekstach, które go nie mają, imię autora w `src/config.js`,
-  linki z zewnątrz.
+  słów, FAQ w tekstach, które go nie mają, linki z zewnątrz.
 
 ## 2026-09-04 06:50 · CODE · Kolejka redakcyjna w XLSX + osobna sesja na czubek
 
