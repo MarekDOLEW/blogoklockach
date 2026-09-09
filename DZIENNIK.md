@@ -24,6 +24,53 @@ temat jest zamknięty i nikt go nie dubluje.
 
 Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 
+## 2026-09-09 08:00 · CODE · Indeksacja: sitemapy sekcyjne z lastmod, noindex na cienkich hubach, RSS, FAQ, „Przeczytaj też"
+
+**Zrobione** (gałąź `claude/tylkoklocki-indexing-seo-5d1jit`, do wdrożenia
+`git push origin claude/tylkoklocki-indexing-seo-5d1jit:main`), na podstawie
+audytu Cowork z 09.09 (3 523 adresy w sitemapie, 3 418 hubów, zero `lastmod`):
+- **Sitemapy sekcyjne**: `@astrojs/sitemap` zdjęta; `sitemap-index.xml` (ten
+  sam adres) wskazuje 7 plików `sitemap-{artykuly,prezentowniki,deale,serie,
+  nowosci,zestawy,inne}.xml` (`src/lib/sitemapy.js`). `lastmod` tylko z
+  realnych dat: `zaktualizowano`/`data` tekstów, dla hubów – data najnowszego
+  naszego tekstu o zestawie. Stan: artykuły 19, prezentowniki 19, deale 5,
+  serie 45, nowości 12, zestawy 799, inne 4 – razem 903 adresy (było 3 523).
+- **Noindex, follow na cienkich hubach** – `src/lib/seo.js`, `hubIndeksowalny`:
+  ≥3 z 4 warunków (≥3 sklepy, tekst >300 znaków, wspomniany w tekście,
+  premiera ≤18 mies. i nie EOL) albo prezentownik / gorący deal.
+  **799 hubów indeksowalnych, 4 148 z noindex** (z 4 947). Huby działają jak
+  dotąd. `sitemap-priorytet.xml` też filtruje po tej regule.
+- **RSS** `/rss.xml` (30 najnowszych tekstów), link w `<head>` i w stopce.
+- **Widoczne FAQ** pod artykułami i prezentownikami (`Faq.astro`) – dotąd FAQ
+  szło wyłącznie do JSON-LD. **„Przeczytaj też"** (`PowiazaneArtykuly.astro`,
+  4 linki: wspólne zestawy → seria → kategoria → data).
+- **Data aktualizacji** widoczna jako „Aktualizacja: DD.MM.RRRR" w `<time>`;
+  autor w schema przygotowany pod osobę (`src/config.js`, `AUTOR.imie` puste –
+  do decyzji, kto się podpisuje; do tego czasu organizacja).
+- **Huby**: „Najniższa cena, jaką zanotowaliśmy" (z `ceny_baza.json`, tylko gdy
+  niższa od dzisiejszej) i „Inne zestawy z serii" (6 linków do hubów
+  indeksowalnych tej serii). Pełnej historii cen w danych nie ma – tabeli nie da
+  się zrobić bez zbierania szeregów czasowych.
+- **Nietknięte** (decyzja Marka): linkowanie na stronie głównej.
+- `RUNBOOK.md`, sekcja „Sitemapy i Search Console" przepisana.
+
+**Stan:** gotowe w gałęzi; po wdrożeniu na `main` do zrobienia w GSC.
+
+**Dla drugiej strony (COWORK / Marek w GSC):** po wdrożeniu (1) w „Mapy
+witryny" zgłosić ponownie `https://tylkoklocki.pl/sitemap-index.xml` oraz
+osobno każdą z siedmiu sitemap sekcyjnych (pełne adresy – usługa domenowa);
+(2) `sitemap-priorytet.xml` zostawić; (3) `rss.xml` NIE zgłaszać jako sitemapy,
+sprawdzić raport Discover po ~2 tygodniach; (4) po 2–3 tygodniach porównać
+liczniki „zindeksowane" per sekcja i zgłosić, co się rusza.
+
+**Uwagi:**
+- Cienkie huby z `noindex` po pewnym czasie wypadną z raportu „wykryta,
+  niezindeksowana" – to zamierzone. Hub wraca do indeksu sam, gdy Łowca
+  dorzuci trzeci sklep albo redakcja dopisze tekst.
+- Nadal do zrobienia (redakcja, nie kod): wydłużenie artykułów do 800–1 200
+  słów, FAQ w tekstach, które go nie mają, imię autora w `src/config.js`,
+  linki z zewnątrz.
+
 ## 2026-09-04 06:50 · CODE · Kolejka redakcyjna w XLSX + osobna sesja na czubek
 
 **Zrobione:**

@@ -710,19 +710,65 @@ odświeżanie do ustalenia.
 
 ---
 
-## Sitemapy i Search Console *(ustalone 31.08.2026)*
+## Sitemapy i Search Console *(ustalone 31.08.2026, przebudowane 09.09.2026)*
 
-Serwis ma **dwie sitemapy i obie mają zostać**:
+Od 09.09.2026 sitemapy generują **własne endpointy** (`src/pages/sitemap-*.xml.js`,
+logika w `src/lib/sitemapy.js`); integracja `@astrojs/sitemap` została zdjęta,
+plik `sitemap-0.xml` już nie istnieje. Adres indeksu **nie zmienił się**.
 
 | Adres | Co zgłasza | Skąd |
 |---|---|---|
-| `/sitemap-index.xml` | cały serwis (~1 200 adresów) | `@astrojs/sitemap` z filtrem `doSitemapy` w `astro.config.mjs` |
-| `/sitemap-priorytet.xml` | 498 adresów: strona główna, kategorie, teksty, zestawy z kartami | `src/pages/sitemap-priorytet.xml.js` |
+| `/sitemap-index.xml` | indeks siedmiu sitemap sekcyjnych niżej | `src/pages/sitemap-index.xml.js` |
+| `/sitemap-artykuly.xml` | `/artykuly/` + artykuły (także kalendarz i zapowiedzi z korzenia) | `src/lib/teksty.js` |
+| `/sitemap-prezentowniki.xml` | `/prezentowniki/` + prezentowniki `.md` i `.astro` | `src/lib/teksty.js` |
+| `/sitemap-deale.xml` | `/deale/` + posty dealowe | `src/lib/teksty.js` |
+| `/sitemap-serie.xml` | `/serie/` + strony serii (bez adresów przekierowanych w `astro.config.mjs`) | `src/lib/sitemapy.js` |
+| `/sitemap-nowosci.xml` | `/nowosci/` + miesiące premier | ta sama reguła co `nowosci/[miesiac].astro` |
+| `/sitemap-zestawy.xml` | huby `/zestaw/<nr>/`, **tylko indeksowalne** | `hubIndeksowalny()` z `src/lib/seo.js` |
+| `/sitemap-inne.xml` | `/`, `/o-nas/`, `/wycofania/`, `/kolekcjoner/` | `src/lib/sitemapy.js` |
+| `/sitemap-priorytet.xml` | strona główna, kategorie, teksty, zestawy z kartami (i indeksowalne) | `src/pages/sitemap-priorytet.xml.js` |
 
-Sens rozdzielenia: przy ~1 200 adresach, w większości hubów cenowych złożonych
-z danych, nie da się w GSC odróżnić „Google nie indeksuje kart Piotra" od
-„Google nie indeksuje hubów cenowych". Osobna sitemapa daje osobny licznik.
-Obie generują się przy buildzie i nie wymagają utrzymania.
+Sens podziału: w GSC każda sekcja ma osobny licznik „przesłane / zindeksowane",
+więc widać, czy Google nie indeksuje tekstów, czy hubów cenowych. Wszystko
+liczy się przy buildzie i nie wymaga utrzymania. `sitemap-priorytet.xml`
+zostaje, bo jest zgłoszona w GSC – dubluje część sekcyjnych; można ją zdjąć,
+gdy sekcyjne przejmą jej rolę w raportach.
+
+**`<lastmod>` tylko tam, gdzie znamy datę zmiany treści:** artykuły,
+prezentowniki i deale biorą `zaktualizowano` z frontmattera / `meta`
+(fallback: `data`); huby zestawów – datę najnowszego naszego tekstu o
+zestawie (bez tekstu pole pomijamy). Serie, nowości i strony stałe idą bez
+`lastmod`, bo przeliczają się z cen przy każdym buildzie i każda data byłaby
+datą builda. Zasada bez zmian od 24.08: lepiej nie deklarować daty niż
+deklarować nieprawdziwą – Google przy niewiarygodnym `lastmod` przestaje ufać
+polu w całej witrynie. **Nigdy nie stemplować `lastmod` datą builda ani datą
+sprawdzenia cen.** Data z frontmattera z przyszłości jest przycinana do dziś.
+
+**Noindex na cienkich hubach.** `src/lib/seo.js` → `hubIndeksowalny(nr)`:
+hub jest indeksowany, gdy spełnia **co najmniej trzy z czterech** warunków
+(≥3 sklepy z ceną bez Ceneo; tekst redakcyjny >300 znaków – opis/persony
+z `sety.json`, karta z `karty_setow.json` albo uwagi z wycofań; wspomniany
+w naszym tekście; premiera w ostatnich 18 miesiącach i nie wycofany), **albo**
+jest w prezentowniku, **albo** ma gorący deal (reguła jak na `/deale/`).
+Pozostałe huby dostają `<meta name="robots" content="noindex, follow">`
+(`Base.astro`, prop `noindex`), działają normalnie i nie ma ich w sitemapie.
+Stan 09.09: **799 indeksowalnych z 4 947**. Progi (`MIN_SKLEPOW`,
+`MIESIACE_PREMIERY`, `MIN_WARUNKOW`) są stałymi na górze `seo.js`; pierwsza
+gałka, gdyby trzeba było zejść niżej, to wyjątek dealowy (~170 hubów).
+
+**Feed RSS:** `/rss.xml` (`src/pages/rss.xml.js`, `@astrojs/rss`) – 30
+najnowszych tekstów z tego samego indeksu `src/lib/teksty.js`; link w `<head>`
+każdej strony i w stopce. Zgłaszać w GSC **nie trzeba** (to nie sitemapa);
+efekt sprawdzać w raporcie Discover po ~2 tygodniach.
+
+**Bloki pod tekstami:** `Faq.astro` (widoczne FAQ z frontmattera `faq` /
+propsa `faq` – do 09.09 FAQ szło wyłącznie do JSON-LD, a Google wymaga treści
+widocznej; artykuł z własnym „## FAQ" w treści nie dostaje drugiego bloku)
+i `PowiazaneArtykuly.astro` („Przeczytaj też": 4 linki, dobór w
+`src/lib/powiazane.js` – wspólne zestawy → wspólna seria → kategoria → data;
+deale tylko z ostatnich 30 dni). Autor w schema: `src/config.js` → `AUTOR.imie`
+(puste = organizacja; wpisać imię, gdy redakcja zdecyduje, kto się podpisuje;
+frontmatter `autor:` nadpisuje per tekst).
 
 **Usługa w GSC jest domenowa (`sc-domain:tylkoklocki.pl`).** Praktyczny skutek:
 w polu „Dodaj nową mapę witryny" trzeba wpisać **pełny adres**
