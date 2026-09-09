@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-08",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-08 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-09",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-09 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -1709,8 +1709,8 @@
  "11370": {
   "nazwa": "Stranger Things: Dom Creelów",
   "cena_katalogowa": 1199.99,
-  "najnizsza_cena": 999.99,
-  "najnizsza_data": "2026-08-26",
+  "najnizsza_cena": 974.63,
+  "najnizsza_data": "2026-09-09",
   "najnizsza_sklep": "mediaexpert"
  },
  "42698": {
@@ -4628,8 +4628,8 @@
  "10370": {
   "nazwa": "Botanicals Gwiazda Betlejemska",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 199.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 194.15,
+  "najnizsza_data": "2026-09-09",
   "najnizsza_sklep": "mediaexpert"
  },
  "42672": {
