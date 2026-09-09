@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "greensock/gsap-skills"
       }
+    },
+    "md-general-skills": {
+      "source": {
+        "source": "github",
+        "repo": "MarekDOLEW/MDmygeneralskills"
+      }
     }
   },
   "enabledPlugins": {
-    "gsap-skills@gsap-skills": true
+    "gsap-skills@gsap-skills": true,
+    "md-general-skills@md-general-skills": true
   }
 }

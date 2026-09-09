@@ -31,6 +31,13 @@ Zmieniamy dokument w `redakcja/` i uruchamiamy eksport. Pozostałe skille w
 `.claude/skills/` są pisane ręcznie albo wendorowane z zewnątrz i edytuje się je
 na miejscu — eksport ich nie dotyka.
 
+Skille uniwersalne (karuzele social, `html-do-png`, motion design, szablon
+brandowy) i skille GSAP przychodzą z pluginów zadeklarowanych w
+`.claude/settings.json`: własny marketplace `MarekDOLEW/MDmygeneralskills`
+oraz `greensock/gsap-skills`. Poprawki do nich robimy w tamtym repo, nie tutaj.
+Skrypt `html-do-png.mjs` żyje w pluginie; w repo zostaje tylko zależność
+`playwright-core`, z której ten skrypt korzysta.
+
 Dokumenty wspólnika (`standard-artykulow-biezacych.md`,
 `metodologia-researchu-lego.md`) trzymamy verbatim; nasze ustalenia dopisujemy
 w `redakcja/ustalenia-projektowe.md`.
