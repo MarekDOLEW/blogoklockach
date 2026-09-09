@@ -9,8 +9,8 @@
     "prebuild": "node scripts/generuj-obrazy.mjs"
   },
   "dependencies": {
-    "astro": "^5.0.0",
-    "@astrojs/sitemap": "^3.2.0",
-    "@fontsource/archivo": "^5.0.0"
+    "@astrojs/rss": "^4.0.19",
+    "@fontsource/archivo": "^5.0.0",
+    "astro": "^5.0.0"
   }
 }
