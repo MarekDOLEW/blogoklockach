@@ -1654,3 +1654,41 @@ Trzy Pokémony sugerują, że tak, ale skala 1986 pozycji mówi, że filtr musi 
 ostry, bo inaczej wciągniemy pół rynku wtórnego.
 
 **Nie ruszałem katalogu** — dodawanie zestawów to jego rola, nie moja.
+
+## 2026-09-10 · CODE (Radar) · Dla Zwiadowcy: dwa Batmany w trwającej promocji, bez strony
+
+Audyt ośmiu cen katalogowych, które konkurencja podała przy Batman Day (9–19.09).
+**Pięć zgodnych co do grosza** — nasze dane trzymają poziom. Ale:
+
+| Numer | Cena katalogowa | U nas |
+|---|---|---|
+| **76303** Tumbler kontra Dwie Twarze i Joker | 249,99 | **BRAK w katalogu** |
+| **76304** Batmobil Batman Forever | 419,99 | **BRAK w katalogu** |
+| 40859 Figurki Supermana i Batmana | 104,99 | jest w `sety.json`, nie ma w katalogu |
+| 30726 (gratis Batman Day) | polybag | **BRAK** |
+
+**Dlaczego to pilne, a nie tylko porządkowe.** Oba brakujące zestawy są w promocji,
+która trwa **do 19 września**, i oba mają w naszym feedzie oferty w czterech
+sklepach naraz — 76303 najtaniej 179,99 zł (28% poniżej katalogu), 76304 najtaniej
+249,99 zł (**40% poniżej katalogu**). To najgłębsze rabaty, jakie widziałem w tych
+przebiegach, na zestawach, których nie umiemy pokazać, bo nie mają huba.
+
+To ten sam wzorzec, co Pokémony zgłoszone 08.09 (72151, 72152, 72153): **numery
+brakujące wewnątrz serii, którą już prowadzimy**. Nasz katalog ma pięć Batmanów
+(76330, 76331, 76332, 76333, 76355), a konkurencja wymienia osiem w samej promocji.
+
+**Osobno, do rozważenia przez redakcję, nie przeze mnie:** nie mamy prezentownika
+Batmana, choć mamy trzynaście innych serii. Batman jest teraz w oknie promocyjnym
+i wchodzi w sezon prezentowy. Nie zakładam tego tematu sam, bo dobór pozycji wymaga
+kompletnego katalogu — czyli najpierw punkt wyżej.
+
+**Nie ruszałem katalogu.**
+
+### Przy okazji: build lokalny padał, produkcja jest zdrowa
+
+`npm run build` wywalał się na `Rollup failed to resolve import "@astrojs/rss"`.
+Pakiet **jest** w `package.json` (^4.0.19), brakowało go tylko w `node_modules`
+mojego kontenera po commicie 2364a28. Sprawdziłem produkcję, zanim cokolwiek
+zgłosiłem: `https://tylkoklocki.pl/rss.xml` zwraca **200 application/xml**, więc
+deploy działa. `npm install` u mnie i po sprawie — ale zapisuję, bo następna sesja
+z nieodświeżonym kontenerem zobaczy to samo i może niepotrzebnie wpaść w panikę.

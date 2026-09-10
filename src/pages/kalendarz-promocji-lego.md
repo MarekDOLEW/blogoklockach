@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-09"
+zaktualizowano: "2026-09-10"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -27,8 +27,8 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | do 20.08 | GWP 40908 World Restaurants: Greece od 745 zł na LEGO.com | <span class="status status--trwa">trwa</span> |
 | 29.08–06.09 | Back to Hogwarts: podwójne GWP Harry Potter | <span class="status status--ok">potwierdzone</span> |
 | **1.09** | Rozpoczęcie roku szkolnego – prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
-| **9.09** | Insiders Member Day: podwójne punkty na 7 serii (bez kalendarzy adwentowych) | <span class="status status--maybe">przewidywane</span> |
-| od **9.09** | Batman Day: gratis + punkty Insiders na serię Batman | <span class="status status--maybe">przewidywane</span> |
+| 9.09 | Insiders Member Day – odbył się, trwał jeden dzień | <span class="status status--ok">zakończone</span> |
+| **9–19.09** | Batman Day: podwójne punkty + gratis 30726 od 165 zł | <span class="status status--ok">potwierdzone</span> |
 | **16–17.09** | „Zbuduj i Zabierz": popiersie Batmana w salonach LEGO, 15:00–17:00 | <span class="status status--maybe">przewidywane</span> |
 | **21–30.09** | GWP 40900 Straszne nawiedzone drzewo od ok. 375 zł | <span class="status status--maybe">przewidywane</span> |
 | **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
@@ -90,25 +90,29 @@ Pierwszy wariant przekracza próg o niecałe pięć złotych – jeśli któryś
 
 Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: prezent „na osłodę" końca wakacji. Przygotowaliśmy trzy gotowe przewodniki dla dzieci 4–12 lat, wszystkie z realnymi promocjami: [dla chłopca do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/), [dla dziewczynki do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/) i [rodzinny bez limitu](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) – z premierowymi zestawami [Pokémon](/serie/pokemon/) na czele.
 
-## Wrzesień: Insiders Member Day – 9.09 <span class="status status--maybe">przewidywane</span>
+## Wrzesień: Insiders Member Day – 9.09 <span class="status status--ok">zakończone</span>
 
 Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi punktami** na siedem serii: [City](/serie/city/), Classic, [Creator 3 w 1](/serie/creator/), [DREAMZzz](/serie/dreamzzz/), [DUPLO](/serie/duplo/), [Friends](/serie/friends/) i [Ninjago](/serie/ninjago/).
 
-**Uczciwie o źródle:** datę potwierdzają dwa niezależne serwisy branżowe, w tym poradnik wydany dzień wcześniej – nie znaleźliśmy jej natomiast na samym LEGO.com, więc do czasu ogłoszenia przez producenta zostaje oznaczona jako przewidywana. Sam mechanizm jest powtarzalny: dni z podwójnymi punktami LEGO uruchamiało w tym roku już kilka razy. **Promocja ma trwać tylko jeden dzień.**
+**Promocja się odbyła i już się zakończyła** – trwała wyłącznie 9 września. Zapowiadaliśmy ją tu wcześniej jako przewidywaną, bo LEGO nie ogłosiło jej z wyprzedzeniem, i potwierdziła się co do dnia. Zostawiamy wpis, bo pokazuje, jak takie okna wyglądają: **jeden dzień, bez zapowiedzi na LEGO.com, wyłącznie podwójne punkty.**
+
+**Wyłączenia okazały się szersze, niż zapowiadano:** poza kalendarzami adwentowymi City i Friends promocja nie objęła **całej dystrybucji ekskluzywnej**, czyli zestawów dostępnych wyłącznie w LEGO.com. To reguła warta zapamiętania przed listopadowym Insiders Weekend.
 
 **Jeden szczegół, który zmienia decyzję.** Z promocji mają być **wyłączone kalendarze adwentowe** City i Friends. Jeśli planowałeś kupić kalendarz przy okazji podwójnych punktów, to się nie uda – a jednocześnie [nasz ranking kalendarzy](/artykuly/ranking-kalendarze-adwentowe-lego-2026/) tłumaczy, dlaczego z tym zakupem i tak nie warto zwlekać do listopada. Te dwie rzeczy się nie kłócą: kalendarz kupujesz wcześnie mimo braku punktów, a podwójne punkty zbierasz na czymś innym.
 
-**Czy to argument, żeby czekać do 9 września?** Podwójne punkty to w praktyce około 5% wartości zamówienia zwróconej w punktach – realnie mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Jeśli kupujesz na LEGO.com i tak, poczekaj; jeśli porównujesz sklepy, sprawdź najpierw [tabelę cen na podstronie zestawu](/serie/).
+**Ile to realnie było warte.** Podwójne punkty to około 5% wartości zamówienia zwróconej w punktach – mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Ta arytmetyka nie zmieni się w listopadzie, więc warto ją zapamiętać: **dzień z podwójnymi punktami nie jest powodem, żeby przepłacić na LEGO.com za coś, co gdzie indziej jest o jedną piątą tańsze.**
 
-## Wrzesień: Batman Day i gratis halloweenowy <span class="status status--maybe">przewidywane</span>
+## Wrzesień: Batman Day 9–19.09 <span class="status status--ok">potwierdzone</span>
 
-Tegoroczny Batman Day nie jest jednym dniem, tylko oknem, które według serwisów branżowych **rusza równolegle z Dniem Insiders, 9 września** – a nie w okolicach trzeciej soboty miesiąca, jak zakładaliśmy wcześniej. Zakupy z serii [Batman](/serie/batman/) obejmuje wtedy gratis i wyższe naliczanie punktów Insiders.
+Tegoroczny Batman Day to nie jeden dzień, tylko okno **od 9 do 19 września** – a nie okolice trzeciej soboty miesiąca, jak zakładaliśmy wcześniej. Wybrane zestawy z serii [Batman](/serie/batman/) mają wtedy **podwójne punkty Insiders**, a przy zakupach z tej serii **od 165 zł** dochodzi gratis: polybag 30726. LEGO dokłada do tego mały zestaw do wyboru – z City albo Friends.
+
+**Ważniejsze od punktów: dystrybucja zewnętrzna jest tu wyraźnie tańsza.** Dwa zestawy z listy promocyjnej chodzą dziś znacznie poniżej cennika – 76303 Tumbler kontra Dwie Twarze i Joker (katalog 249,99 zł) oraz 76304 Batmobil Batman Forever (katalog 419,99 zł), oba w czterech sklepach naraz. Przy takiej różnicy podwójne punkty na LEGO.com nie mają szans się opłacić. Wyjątkiem są **40859 i 76333, dostępne wyłącznie w LEGO.com** – tam nie ma czego porównywać i promocja punktowa jest jedyną korzyścią.
 
 **Osobno, w sklepach stacjonarnych: „Zbuduj i Zabierz" z popiersiem Batmana, 16–17 września, w godzinach 15:00–17:00.** To mikromodel składany na miejscu, w ograniczonej liczbie sztuk – kto pierwszy, ten lepszy. Akcja dotyczy wyłącznie salonów LEGO, więc jeśli nie masz takiego w mieście, nie ma czego szukać online.
 
 **Gratis halloweenowy: 40900 Straszne nawiedzone drzewo, 21–30 września**, przy zakupach od około **375 zł**. Próg podajemy za serwisem branżowym, który sam oznacza go jako niepotwierdzony – traktuj go jako orientacyjny i sprawdź w koszyku przed finalizacją zamówienia. Wcześniej spodziewaliśmy się tego gratisu dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
 
-Wszystkie trzy pozycje pochodzą z serwisów branżowych, nie z ogłoszenia LEGO – stąd status przewidywanych.
+Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu branżowego z 9 września. Event stacjonarny i gratis halloweenowy zostają przewidywane, bo tych LEGO jeszcze nie ogłosiło.
 
 ## Październik: Executor UCS (1.10 i 4.10) <span class="status status--ok">potwierdzone</span>
 
@@ -160,7 +164,7 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat" wyglądał lepiej. My liczymy każdy rabat **od oficjalnej ceny katalogowej LEGO** – sprawdzisz to na podstronie każdego zestawu, a bieżące realne okazje znajdziesz na [stronie głównej](/).
 
-**Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5360 elementów) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. Ceny katalogowej LEGO jeszcze nie ogłosiło, więc dopóki jej nie poda, nikt – łącznie z nami – nie policzy, czy to dobra cena. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
+**Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5364 elementy) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. Ceny katalogowej LEGO jeszcze nie ogłosiło, więc dopóki jej nie poda, nikt – łącznie z nami – nie policzy, czy to dobra cena. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
 

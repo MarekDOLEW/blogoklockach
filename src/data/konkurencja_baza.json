@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-09",
-    "przebieg": "scheduled 2026-09-09 08:00",
+    "ostatnia_aktualizacja": "2026-09-10",
+    "przebieg": "scheduled 2026-09-10 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 144,
+    "liczba_wpisow": 148,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian."
@@ -1725,6 +1725,59 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Marka spoza LEGO (Ravensburger). Drugi w tym tygodniu material u konkurencji poza glowna tematyka - po Robloxie u fanklockow. Wzorzec: obaj szukaja ruchu w sasiednich niszach. My tego nie robimy, bo nasza funkcja zakupowa jest zbudowana wokol katalogu LEGO."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Dzien Batmana oraz Dzien LEGO Insiders - promocje punktowe (relacja z dnia startu)",
+      "url": "https://faniklockow.pl/2026/09/09/dzien-batmana-oraz-dzien-lego-insiders-promocje-punktowe/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Allegro",
+        "Media Expert",
+        "Empik",
+        "Smyk"
+      ],
+      "notatki": "POTWIERDZENIE OBU OKIEN, na ktore czekalem od 05.09. Member Day: TYLKO 9 wrzesnia, odbyl sie, wylaczenia szersze niz zapowiadano - poza kalendarzami adwentowymi takze CALA dystrybucja ekskluzywna. Batman Day: 9-19 wrzesnia, podwojne punkty na wybrane zestawy DC, gratis polybag 30726 od 165 zl zakupow w serii, plus maly zestaw do wyboru City/Friends. Podali osiem zestawow z cenami katalogowymi - audyt naszych danych ponizej."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Gdzie podzial sie Jokerized Batman? Premiera za nami, a prawie nigdzie go nie ma",
+      "url": "https://faniklockow.pl/2026/09/09/gdzie-podzial-sie-jokerized-batman-premiera-za-nami-a-prawie-nigdzie-go-nie-ma/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "Amazon",
+        "BrickLink"
+      ],
+      "notatki": "Minifigurka dodawana do ksiazki wydawnictwa DK, premiera 02.07 przesunieta na poczatek 2027, na BrickLinku pojedyncze sztuki po 189 zl. Ciekawy temat dla kolekcjonera, ale poza naszym zakresem: to gratis do ksiazki, nie zestaw, i nie da sie tego oprzec na drabinie cenowej ani progu zakupu. Odnotowane, bo pokazuje mechanizm, ktory u nas dziala przy wycofaniach - produkt niedostepny drozeje na rynku wtornym."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Store Szczecin - otwarcie i promocje otwarciowe",
+      "url": "https://faniklockow.pl/2026/09/09/lego-store-szczecin-otwarcie-juz-w-czwartek-zobaczcie-jak-wyglada-sklep-i-jakie-czekaja-na-was-promocje/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Otwarcie salonu stacjonarnego. Poza naszym zakresem - jestesmy serwisem porownujacym ceny online, a promocja otwarciowa dotyczy jednego miasta. Oba serwisy pisza o tym rownolegle."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Harry Potter nadchodzi",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-9-wrzesnia-2026/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny skrot popkulturowy, nie material zakupowy o klockach."
     }
   ],
   "obserwacje_strategiczne": {
