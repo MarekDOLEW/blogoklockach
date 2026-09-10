@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-09",
+  "data_aktualizacji": "2026-09-10",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1169,
+  "liczba_setow": 1170,
   "sety": [
     "10280",
     "10281",
@@ -218,6 +218,7 @@
     "21370",
     "21371",
     "21372",
+    "21375",
     "21376",
     "21582",
     "21587",
@@ -1252,12 +1253,6 @@
       "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. Brak w katalog.json."
     },
     {
-      "numer": "21375",
-      "nazwa": "Godzilla (Ideas)",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. W katalog.json numer jest, ale bez danych."
-    },
-    {
       "numer": "11390",
       "nazwa": "nieujawniony zestaw Icons",
       "premiera": null,
@@ -1460,6 +1455,18 @@
       "nazwa": "Olifant (Wladca Pierscieni) — zapowiedz niepotwierdzona",
       "status": "StoneWars 2026-09-08 podaje ten numer jako Olifanta z serii Wladca Pierscieni na 2027, obok Helmowego Jaru i Gospody pod Rozbrykanym Kucykiem (bez numerow). JEDNO ZRODLO — Brickset ma 11395 jako pusty rekord Icons bez nazwy, PromoBricks milczy. Numer sie zgadza z nasza lista rezerwacji z 05.09, ale zgodnosc numeru to nie potwierdzenie nazwy. Nie publikowac.",
       "premiera": "2027"
+    },
+    {
+      "numer": "30726",
+      "nazwa": "Bruce Wayne i strój Batmana — polybag GWP",
+      "status": "Brickset 2026-09-10: 35 elementow, DC Comics Super Heroes, category 'Normal'. StoneWars 2026-09-09 opisuje to jako gratis na Batman Day — dodawany od 40 EUR zakupow w sklepie LEGO. Gratis promocyjny, nie pozycja detaliczna: nie opisujemy, ale warto wiedziec, ze istnieje, bo wplywa na decyzje zakupowe.",
+      "premiera": "2026-02"
+    },
+    {
+      "numer": "40900",
+      "nazwa": "Zestaw promocyjny — rezerwacja",
+      "status": "Brickset 2026-09-09: pusty rekord, motyw 'Promotional', kategoria '{t.b.a.}', start 2026-09-21. Data startu jest, nazwy nie ma. Numer sasiaduje z 40899 (Astro Bot), tez promocyjnym.",
+      "premiera": "2026-09"
     }
   ],
   "luki_w_bazie": {
@@ -5864,7 +5871,8 @@
     "stonewars": "'Neues 18+ Set zu Ocarina of Time bei der Nintendo Direct aufgetaucht' — stad oznaczenie wiekowe 18+ i informacja, ze zestaw pokazano na Nintendo Direct.",
     "dlaczego_wazne": "Druga nowa marka growa w katalogu w ciagu dwoch tygodni, po PlayStation. Brickset znowu zalozyl OSOBNY MOTYW zamiast wpisac zestaw pod Icons — ten sam sygnal co przy 72306. Historycznie zapowiada linie.",
     "czego_nie_wiemy": "Cena i miesiac premiery. Progu zakupu nie da sie policzyc. Terminu kolejnych zestawow linii nikt nie podal — nie zgadywac.",
-    "wpis": "Dodany do sety.json 2026-09-09 z premiera '2027' (sam rok, bez miesiaca)."
+    "wpis": "Dodany do sety.json 2026-09-09 z premiera '2027' (sam rok, bez miesiaca).",
+    "doprecyzowanie_2026_09_10": "Okres premiery 77094 doprecyzowany przez OBA serwisy niezaleznie: PromoBricks 'erscheint im Fruehjahr 2027', StoneWars 'erscheint erst 2027'. Wiosna 2027 — miesiaca producent nie podal, wiec pole premiera zostaje '2027', a wiosna jest w opisie z przypisaniem do zrodel."
   },
   "schemat_premiera_rok": "2026-09-09: dopuszczamy w polu 'premiera' sam rok ('2027'), gdy miesiac nie jest znany. Do tego dnia wszystkie 1168 wpisow mialo format RRRR-MM. Sprawdzone w src/lib/premiery.js: porownanie premiera > BIEZACY_MIESIAC jest leksykalne, wiec '2027' > '2026-09' dziala poprawnie, a strona huba wyswietla 'premiera 2027'. Alternatywa bylo wpisanie zmyslonego miesiaca — odrzucona.",
   "przeglad_2026_09_09": {
@@ -5873,5 +5881,17 @@
     "odsiane": "Osiem kart kolekcjonerskich Star Wars (theme 'Gear') oraz piec zestawow BrickLink Designer Program 910069-910073 (2252-4027 elementow). BDP to limitowany crowdfunding, nie detal — zgodnie z regula z RUNBOOK.",
     "uzupelnienie_filtra": "Do listy motywow-szumu dopisac 'BrickLink': rekordy 910xxx przyszly z kategoria '{t.b.a.}', wiec sam filtr kategorii ich nie lapal.",
     "stonewars_pojedyncze_zrodlo": "11395 jako Olifant (Wladca Pierscieni 2027) — dopisane do sledzonych jako niepotwierdzone. 11387 Holiday House juz mamy opisany."
+  },
+  "bricklink_designer_program_seria_9": {
+    "co": "910069-910073 (Fisherman's Village 4027 el., Sleepy Dragon Inn 3121, Wild West Blacksmith 2533, Woodbrick Freight Depot 2252, Pumpkin Patch 613). Start 6 pazdziernika, ceny opublikowane.",
+    "zrodla": "PromoBricks i StoneWars — OBA serwisy 2026-09-10 traktuja to jako newsa.",
+    "nasza_decyzja": "Odsiewamy zgodnie z regula z RUNBOOK: BDP to limitowany crowdfunding, nie sprzedaz detaliczna, wiec nie ma stalej ceny katalogowej ani dostepnosci w sklepach partnerskich, na ktorych stoi nasz model.",
+    "napiecie_do_rozstrzygniecia": "Oba nasze zrodla newsowe uwazaja to za temat, my nie. To swiadomy wybor redakcyjny, nie przeoczenie — ale jesli Marek uzna, ze BDP ma byc pokrywany, regula wymaga zmiany i trzeba ustalic, skad brac ceny i linki afiliacyjne."
+  },
+  "przeglad_2026_09_10": {
+    "nowosc": "21375 Godzilla — rekord sledzony od 23.08 jako pusty dostal dane: 5364 elementy, 18+, start 2026-11-27. Dodany do sety.json, cena_katalogowa null. Zadne ze zrodel newsowych o tym nie pisalo — dane sa z Bricksetu, czyli z wlasciwego zrodla dla danych twardych.",
+    "dlaczego_wazny": "5364 elementy to jeden z najwiekszych zestawow rocznika, a 27 listopada to tydzien Black Friday. Premiera w tym oknie oznacza brak rabatu w pierwszym sezonie — to konkretna informacja zakupowa, nie ciekawostka.",
+    "zapowiedzi": "Dopisane 30726 (gratis Batman Day) i 40900 (rezerwacja promocyjna ze startem 21.09).",
+    "odsiane": "6644846 i BATMANBUST — motyw 'Promotional', gadzety."
   }
 }
