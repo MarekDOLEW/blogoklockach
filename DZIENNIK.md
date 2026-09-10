@@ -1692,3 +1692,55 @@ mojego kontenera po commicie 2364a28. Sprawdziłem produkcję, zanim cokolwiek
 zgłosiłem: `https://tylkoklocki.pl/rss.xml` zwraca **200 application/xml**, więc
 deploy działa. `npm install` u mnie i po sprawie — ale zapisuję, bo następna sesja
 z nieodświeżonym kontenerem zobaczy to samo i może niepotrzebnie wpaść w panikę.
+
+## 2026-09-10 (2) · CODE (Radar) · Batman: katalog uzupełniony, prezentownik opublikowany
+
+Na polecenie Marka, w reakcji na dzisiejszy radar.
+
+**Katalog: 7832 → 7837.** Seria Batman z 5 na 10 pozycji. Dodane 76300 Arkham
+Asylum (2953 el., 1299,99), 76301 Batman i Batmobil kontra Mr. Freeze (63 el.,
+89,99), 76303 Tumbler kontra Dwie Twarze i Joker (429 el., 249,99), 76304
+Batmobil Batman Forever (909 el., 419,99), 76328 Batmobil z serialu z lat 60.
+(1822 el., 649,99). Każda pozycja ma `cena_zrodlo`; 76303 i 76304 mają dwa
+niezależne potwierdzenia (lista promocyjna Batman Day + porównywarki).
+
+Wszystkie pięć dostało hub `/zestaw/<nr>/` z tabelą cen — czyli to, czego
+brakowało 76303 i 76304 w trakcie ich własnej promocji.
+
+**Świadomie NIE dodane**, z uzasadnieniem w `katalog.json/_meta`:
+- **76302 Mech Supermana kontra Lex Luthor** — to Superman, nie Batman. Katalog
+  nie ma serii DC ani Superman, a wrzucenie tego pod „Batman" byłoby błędnym
+  oznaczeniem. **Decyzja o założeniu serii należy do Zwiadowcy.**
+- 40859 — jest w `sety.json` jako BrickHeadz z dystrybucją ekskluzywną.
+- 30726 — polybag-gratis, brak ceny detalicznej.
+
+**Prezentownik:** `/prezentowniki/lego-batman/`, osiem zestawów, karta researchu
+w `redakcja/karty/prezentownik-batman.md`.
+
+Oś: Batman to **dwie rozłączne półki** — zabawa (9+, 90–250 zł) i ekspozycja
+(18+, od 650 zł) — a **cena nie mówi, która jest która**. Tumbler za 250 zł jest
+zabawką, Batmobil z serialu za 650 zł nie jest. Przy każdej pozycji najpierw
+„dla kogo", potem kwota.
+
+**Odstępstwo od wzorca, świadome:** drabina zaczyna się od 90 zł zamiast od 25 zł,
+bo Batman nie ma tańszego zestawu detalicznego. Jedyna tańsza pozycja to polybag
+30726, który jest gratisem z Batman Day, a nie towarem. Standard pozwala przesunąć
+próg zamiast wstawiać zapchajdziurę — i mówimy o tym wprost w tekście oraz w FAQ.
+
+### Dla Łowcy: dwie anomalie w feedzie
+
+Wyszły przy ustalaniu poziomów cenowych, obie zapisane w `katalog.json/_meta`:
+
+- **76328** — Empik pokazuje **45,00 zł** za zestaw 1822-elementowy o cenie
+  katalogowej 649,99. Niemal na pewno zły rekord.
+- **76355** — Planeta Klocków pokazuje **2589,99 zł** przy cenie katalogowej
+  899,99, i jest to jedyna oferta tego zestawu w feedzie. Premiera wrzesień 2026.
+
+Obie kwoty pominąłem przy ustalaniu progów zakupu.
+
+### Czego nie zrobiłem
+
+Zestawy weszły **tylko do katalogu**, bez wpisów w `sety.json` — czyli bez opisu
+redakcyjnego, `dla_rodzica` i `dla_afol`. Huby działają (nazwa, parametry, tabela
+cen), ale są chudsze niż te z pełnym opisem. To robota dla sesji redakcyjnej,
+nie dla radaru.

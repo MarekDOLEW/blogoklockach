@@ -13,3 +13,4 @@ Dokumenty wewnętrzne — nie są publikowane.
 | `kalendarze-adwentowe-2026.md` | ranking pięciu kalendarzy rocznika 2026 | `/artykuly/ranking-kalendarze-adwentowe-lego-2026/` |
 | `prezentownik-wedlug-budzetu.md` | prezentownik po budżecie, osiem zestawów w trzech kopertach | `/prezentowniki/wedlug-budzetu/` |
 | `75457-executor.md` | ekskluzyw UCS przed premierą, oś: termin zamiast ceny | `/artykuly/lego-75457-executor-przed-premiera/` |
+| `prezentownik-batman.md` | prezentownik serii Batman, osiem zestawów w dwóch półkach | `/prezentowniki/lego-batman/` |

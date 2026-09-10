@@ -1,0 +1,236 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Batman: 10 zestawów w katalogu (po uzupełnieniu z 10.09.2026), rozpiętość
+// katalogowa 90–1300 zł. Seria dzieli się na dwie rozłączne półki: zabawa (9+,
+// scenki i Batmobile do 250 zł) oraz ekspozycja (18+, od 650 zł). Cena NIE
+// rozstrzyga o odbiorcy – Tumbler za 250 zł jest zabawką, Batmobil z serialu
+// za 650 zł nie jest.
+//
+// Odstępstwo od wzorca: drabina zaczyna się od 90 zł, a nie od 25 zł. Batman
+// nie ma detalicznego zestawu poniżej tej kwoty – jedyna tańsza pozycja to
+// polybag 30726, który jest gratisem z Batman Day, a nie towarem. Zgodnie ze
+// standardem przesuwamy próg zamiast wstawiać zapchajdziurę.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/lego-batman/',
+  kategoria: 'Prezentownik',
+  // ostatnia pozycja na hubie: baza 10 zestawów jest węższa niż w Marvelu (74)
+  // czy City – ale seria jest w oknie promocyjnym i wchodzi w sezon prezentowy,
+  // więc po sezonie warto tę liczbę zrewidować
+  kolejnosc: 13,
+  znacznik: 'Batman',
+  tytul: 'Prezent z LEGO Batman',
+  opis: 'Osiem zestawów, od 90 zł do Arkham Asylum. Dwie rozłączne półki: zabawa i ekspozycja — cena nie mówi, która jest która.',
+  data: '2026-09-10',
+  zaktualizowano: '2026-09-10',
+  okladka: '76300',
+};
+
+const zestawy = [
+  { nr: '76301', nazwa: 'Batman i Batmobil kontra Mr. Freeze', etykieta: 'Do 78 zł',      rrp: 89.99,   dobra: 78 },
+  { nr: '76332', nazwa: 'Batmobil z filmu Batman',             etykieta: 'Do 88 zł',      rrp: 124.99,  dobra: 88 },
+  { nr: '76303', nazwa: 'Tumbler kontra Dwie Twarze i Joker',  etykieta: 'Do 185 zł',     rrp: 249.99,  dobra: 185 },
+  { nr: '76330', nazwa: 'Logo Batmana',                        etykieta: 'Do 255 zł',     rrp: 339.99,  dobra: 255 },
+  { nr: '76304', nazwa: 'Batmobil Batman Forever',             etykieta: 'Do 270 zł',     rrp: 419.99,  dobra: 270 },
+  { nr: '76328', nazwa: 'Batmobil z serialu z lat 60.',        etykieta: 'Do 560 zł',     rrp: 649.99,  dobra: 560 },
+  { nr: '76355', nazwa: 'Batmobil z Powrotu Batmana',          etykieta: 'Do 780 zł',     rrp: 899.99,  dobra: 780 },
+  { nr: '76300', nazwa: 'Arkham Asylum',                       etykieta: 'Wielki prezent', rrp: 1299.99, dobra: 1050 },
+];
+
+const faq = [
+  {
+    q: 'Który zestaw Batmana jest do zabawy, a który tylko na półkę?',
+    a: 'Rozstrzyga oznaczenie wieku, nie cena. Zestawy 9+ — Batmobile z filmów i scenki z złoczyńcami — mają koła, otwierane kokpity i minifigurki, czyli wszystko, czego potrzeba do zabawy. Modele 18+ (Batmobil z serialu z lat 60., Batmobil z Powrotu Batmana) są zbudowane pod ekspozycję: waży to swoje, elementy są łączone na styk i po złożeniu nie ma tam nic do robienia. Logo Batmana z oznaczeniem 12+ stoi pośrodku i jest po prostu dekoracją na ścianę.',
+  },
+  {
+    q: 'Od jakiego wieku Batman ma sens jako prezent?',
+    a: 'Od około sześciu lat, ale nie z powodu trudności budowania — z powodu tego, że Batman bez znajomości postaci jest po prostu czarnym samochodem. Dziecko, które kojarzy bohatera z bajki albo klocków, rozpozna go od razu. Przy młodszym dziecku bezpieczniej sięgnąć po serię, która broni się samym kształtem: strażak, koparka, dinozaur.',
+  },
+  {
+    q: 'Dlaczego w tym zestawieniu nie ma nic poniżej 90 zł?',
+    a: 'Bo LEGO nie sprzedaje takiego zestawu Batmana. Najtańsza detaliczna pozycja to 76301 z ceną katalogową 89,99 zł. Jedyne, co można dostać taniej, to polybag 30726, ale on nie jest towarem — to gratis przy zakupach z serii Batman w oknie 9–19 września. Wolimy zaczynać drabinę wyżej, niż wstawiać do niej coś, czego nie da się kupić osobno.',
+  },
+  {
+    q: 'Które zestawy Batmana znikają z rynku?',
+    a: 'Porównywarki zapowiadają wycofanie 76303 Tumbler kontra Dwie Twarze i Joker oraz 76304 Batmobil Batman Forever z końcem grudnia 2026. Zaznaczamy: to zapowiedź serwisów branżowych, a nie potwierdzenie Grupy LEGO, dlatego nie ma jej jeszcze na naszej liście wycofań. Przy prezencie warto ją jednak znać, bo po wycofaniu ceny tych zestawów zwykle rosną, a nie spadają.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO Batman: co kupić i przy jakiej cenie"
+  opis="Osiem zestawów LEGO Batman na prezent — od Batmobilu za 90 zł po Arkham Asylum. Które są do zabawy, które na półkę i przy jakiej cenie brać."
+  data="2026-09-10"
+  zaktualizowano="2026-09-10"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Batman w LEGO to <b>dwie rozłączne półki</b>, a pomylenie ich jest przy tej serii najczęstszym błędem prezentowym. Na jednej stoją Batmobile i scenki z oznaczeniem 9+: koła, otwierane kokpity, minifigurki złoczyńców — normalna zabawa. Na drugiej modele 18+, które po złożeniu stoją i nic więcej nie robią.</p>
+
+  <p>Najważniejsze: <b>cena nie mówi, która półka to która</b>. Tumbler za dwieście pięćdziesiąt złotych jest zabawką, a Batmobil z serialu z lat sześćdziesiątych za sześćset pięćdziesiąt — nie jest. Dlatego przy każdej pozycji poniżej piszemy najpierw, dla kogo to jest, a dopiero potem, ile powinno kosztować.</p>
+
+  <p>Druga rzecz, mniej przyjemna: <b>Batman nie ma taniego wejścia</b>. Najtańszy zestaw z serii kosztuje w katalogu prawie dziewięćdziesiąt złotych, więc drabina zaczyna się tutaj wyżej niż w innych naszych prezentownikach. Poniżej tej kwoty jest tylko gratisowy polybag z wrześniowej promocji, którego nie da się kupić osobno.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 78 zł: Batman i Batmobil kontra Mr. Freeze — najtańsze wejście</h2>
+
+  <Karta
+    nr="76301"
+    nazwa="Batman i Batmobil kontra Mr. Freeze"
+    rocznik={2025}
+    elementy={63}
+    rrp={89.99}
+    dlaKogo="dziecko 6–9 lat; pierwszy kontakt z serią, dwie strony konfliktu w pudełku"
+    dobra={78}
+    bardzoDobra={70}
+    prog="poniżej 78 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sześćdziesiąt trzy elementy, mały Batmobil i dwie minifigurki — Batman oraz Mr. Freeze. Budowa na kwadrans, konstrukcja zwarta i odporna na zabawę.</p>
+    <p>Wartość leży w tym, że <b>w pudełku od razu są obie strony</b>: pojazd i przeciwnik, a nie sam bohater czekający na kogoś do pokonania. Jako samodzielny prezent urodzinowy trochę za mały, jako dokładka albo pierwsze zetknięcie z serią — trafiony.</p>
+    <p>Uwaga na przelicznik: przy tak małych zestawach cena za element jest zawsze wysoka i to normalne. Nie warto na tej podstawie odrzucać pozycji, ale też nie ma co liczyć na głęboką przecenę — małe zestawy schodzą z ceny najmniej.</p>
+  </Karta>
+
+  <h2>Do 88 zł: Batmobil z filmu „Batman" — najwięcej klocków w tej półce</h2>
+
+  <Karta
+    nr="76332"
+    nazwa="Batmobil z filmu Batman"
+    rocznik={2026}
+    elementy={330}
+    rrp={124.99}
+    dlaKogo="dziecko 8–12 lat; pierwszy pełnowymiarowy Batmobil do jeżdżenia"
+    dobra={88}
+    bardzoDobra={80}
+    prog="poniżej 88 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Trzysta trzydzieści elementów, wersja pojazdu z filmu z 2022 roku — najbardziej surowa i najmniej „komiksowa" z całej trójki Batmobilów w tej cenie.</p>
+    <p>LEGO sprzedaje trzy różne Batmobile po tej samej cenie katalogowej: z „Batman v Superman", z „Batmana i Robina" oraz ten. <b>Wybieramy ten, bo ma najwięcej elementów</b> — o sto dziesięć więcej niż najmniejszy z trójki przy identycznym cenniku. Jeśli obdarowywany ma ulubioną wersję filmową, wybór jest oczywisty; jeśli nie, decyduje przelicznik.</p>
+  </Karta>
+
+  <h2>Do 185 zł: Tumbler kontra Dwie Twarze i Joker — najwięcej zabawy</h2>
+
+  <Karta
+    nr="76303"
+    nazwa="Tumbler Batmana kontra Dwie Twarze i Joker"
+    rocznik={2025}
+    elementy={429}
+    rrp={249.99}
+    dlaKogo="dziecko 8–12 lat; zestaw, w którym jest z kim walczyć, a nie tylko czym jeździć"
+    dobra={185}
+    bardzoDobra={168}
+    prog="poniżej 185 zł — z zastrzeżeniem terminu poniżej"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tumbler w wersji z trylogii Nolana plus dwaj złoczyńcy: Dwie Twarze i Joker. Czterysta dwadzieścia dziewięć elementów, czyli więcej niż jakikolwiek Batmobil z niższej półki.</p>
+    <p><b>To najlepszy zestaw do zabawy w całym zestawieniu</b> i powód jest prosty: ma obsadę. Pojazd bez przeciwnika kończy się po dwóch dniach, scenka z dwoma rozpoznawalnymi złoczyńcami żyje dłużej.</p>
+    <p><b>Zastrzeżenie terminowe.</b> Porównywarki zapowiadają wycofanie tego zestawu z końcem grudnia 2026. To zapowiedź serwisów branżowych, a nie potwierdzenie LEGO, więc nie mamy jej jeszcze na <a href="/wycofania/">liście wycofań</a> — ale jeśli celujesz w ten zestaw pod choinkę, lepiej nie zostawiać decyzji na ostatni tydzień.</p>
+  </Karta>
+
+  <h2>Do 255 zł: Logo Batmana — dekoracja, nie zabawka</h2>
+
+  <Karta
+    nr="76330"
+    nazwa="Logo Batmana"
+    rocznik={2026}
+    elementy={678}
+    rrp={339.99}
+    wiek="12+"
+    dlaKogo="nastolatek albo dorosły; ozdoba na ścianę lub półkę, zero wartości zabawowej"
+    dobra={255}
+    bardzoDobra={235}
+    prog="poniżej 255 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Sześćset siedemdziesiąt osiem elementów złożonych w symbol nietoperza do powieszenia albo postawienia. Oznaczenie 12+ nie wynika z trudności, tylko z tego, komu to jest potrzebne.</p>
+    <p>Postawmy sprawę jasno: <b>dziecko, które dostanie to zamiast Batmobilu, będzie rozczarowane</b>. Nie ma tu minifigurek, nie ma kół, nie ma czego odgrywać. Jako prezent dla nastolatka urządzającego pokój albo dla dorosłego fana — działa dokładnie tak, jak powinno.</p>
+  </Karta>
+
+  <h2>Do 270 zł: Batmobil Batman Forever — duży pojazd, wciąż do zabawy</h2>
+
+  <Karta
+    nr="76304"
+    nazwa="Batmobil Batman Forever"
+    rocznik={2025}
+    elementy={909}
+    rrp={419.99}
+    dlaKogo="dziecko 10–14 lat albo dorosły z sentymentem do lat 90.; największy Batmobil, którym da się jeszcze bawić"
+    dobra={270}
+    bardzoDobra={250}
+    prog="poniżej 270 zł — z zastrzeżeniem terminu poniżej"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dziewięćset dziewięć elementów, wersja pojazdu z filmu z 1995 roku — najbardziej ozdobna i najmniej wojskowa ze wszystkich Batmobilów w ofercie.</p>
+    <p>To pozycja graniczna między dwiema półkami: <b>jest duża jak model ekspozycyjny, ale nadal skonstruowana jak zabawka</b>. Dla dziesięciolatka, który wyrósł ze scenek, i dla dorosłego, który pamięta ten film z kina, sprawdzi się tak samo.</p>
+    <p><b>Zastrzeżenie terminowe</b> jak wyżej: porównywarki zapowiadają wycofanie z końcem grudnia 2026, LEGO tego nie potwierdziło.</p>
+  </Karta>
+
+  <h2>Do 560 zł: Batmobil z serialu z lat 60. — prezent dla dorosłego</h2>
+
+  <Karta
+    nr="76328"
+    nazwa="Klasyczny serial telewizyjny Batman — Batmobil"
+    rocznik={2024}
+    elementy={1822}
+    rrp={649.99}
+    dlaKogo="dorosły z sentymentem do serialu z Adamem Westem; model na półkę, budowa na kilka wieczorów"
+    dobra={560}
+    bardzoDobra={520}
+    prog="poniżej 560 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tysiąc osiemset dwadzieścia dwa elementy, wersja pojazdu z serialu z lat sześćdziesiątych, z charakterystycznymi czerwonymi obwódkami i płetwą. Model ekspozycyjny w pełnym tego słowa znaczeniu.</p>
+    <p>To najbardziej „osobisty" zestaw w całym zestawieniu: <b>trafia wyłącznie do kogoś, kto ten serial zna</b>. Kupiony osobie, dla której Batman zaczyna się od Nolana, będzie po prostu dziwnym starym samochodem.</p>
+    <p>Uczciwie o cenie: ten zestaw prawie nie schodzi z cennika. Rocznik 2024, a rynek trzyma się blisko ceny katalogowej — poniżej pięciuset sześćdziesięciu złotych to już dobry moment, głębszych przecen nie ma co wyczekiwać.</p>
+  </Karta>
+
+  <h2>Do 780 zł: Batmobil z „Powrotu Batmana" — najnowszy model</h2>
+
+  <Karta
+    nr="76355"
+    nazwa="Batmobil z filmu Powrót Batmana"
+    rocznik={2026}
+    elementy={2269}
+    rrp={899.99}
+    dlaKogo="dorosły kolekcjoner; premiera z września 2026, model ekspozycyjny"
+    dobra={780}
+    bardzoDobra={720}
+    prog="poniżej 780 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa tysiące dwieście sześćdziesiąt dziewięć elementów, wersja Burtona z 1992 roku — ta z wysuwanymi osłonami. Zestaw wszedł do sprzedaży we wrześniu 2026, więc jest najświeższą pozycją w serii.</p>
+    <p><b>Świeżość jest tu wadą cenową, nie zaletą.</b> Zestaw z premiery stoi w cenie katalogowej i pierwsze realne przeceny przychodzą zwykle po kilku miesiącach. Jeśli nie musisz mieć go teraz, cierpliwość jest tańsza — chyba że kupujesz pod choinkę, bo do grudnia niewiele się zmieni.</p>
+  </Karta>
+
+  <h2>Wielki prezent: Arkham Asylum — szesnaście minifigurek</h2>
+
+  <Karta
+    nr="76300"
+    nazwa="Arkham Asylum"
+    rocznik={2025}
+    elementy={2953}
+    rrp={1299.99}
+    dlaKogo="dorosły fan uniwersum albo wspólny projekt z nastolatkiem; komplet złoczyńców w jednym pudełku"
+    dobra={1050}
+    bardzoDobra={980}
+    prog="poniżej 1050 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prawie trzy tysiące elementów i <b>szesnaście minifigurek</b> — cały panteon złoczyńców Gotham w jednym zestawie. To najdroższa i największa pozycja w serii.</p>
+    <p>Argument, który przy tej cenie decyduje: szesnaście minifigurek to <b>zupełnie inna proporcja niż w modelach ekspozycyjnych</b>. Batmobil z serialu za sześćset pięćdziesiąt złotych nie ma ani jednej. Jeśli obdarowywany zbiera postacie, a nie pojazdy, ten zestaw jest w tej serii bezkonkurencyjny.</p>
+    <p>Uczciwie: rynek trzyma się tu blisko cennika, przecena rzędu kilku procent to dziś norma. Poniżej tysiąca pięćdziesięciu złotych warto brać, ale nie licz na to, że spadnie o połowę.</p>
+  </Karta>
+
+  <h2>Co jeszcze warto wiedzieć</h2>
+
+  <p>Trzy Batmobile w cenie katalogowej 124,99 zł — z „Batman v Superman", z „Batmana i Robina" i ten wybrany wyżej — to praktycznie ta sama decyzja zakupowa. Jeśli obdarowywany ma ulubiony film, kup wersję z niego; jeśli nie, wybierz ten z największą liczbą elementów. Wszystkie trzy znajdziesz na <a href="/serie/batman/">stronie serii Batman</a> razem z bieżącymi cenami.</p>
+
+  <p>Do 19 września trwa okno Batman Day z podwójnymi punktami w oficjalnym sklepie LEGO. <b>Nie jest to automatycznie powód, żeby kupować właśnie tam</b> — punkty to około pięciu procent wartości zamówienia, a dystrybucja zewnętrzna potrafi zejść o jedną trzecią poniżej cennika. Terminy wszystkich okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>.</p>
+
+  <p>Inne serie na prezent znajdziesz w <a href="/prezentowniki/">pozostałych prezentownikach</a>, a jeśli szukasz według kwoty, a nie licencji — w <a href="/prezentowniki/wedlug-budzetu/">prezentowniku według budżetu</a>.</p>
+</Prezentownik>

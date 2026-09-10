@@ -69,7 +69,26 @@
         "11388, 11390, 21373": "listopadowe pozycje bez niezaleznego potwierdzenia - do sprawdzenia przy nastepnej fali"
       }
     },
-    "uzupelnienie_2026-09-06": "Dopisane 37 zestawow, dla ktorych istniala karta redakcyjna, ale nie bylo ich w katalogu (przez to nie mialy podstrony ani nie wchodzily do kolejki). Nazwy polskie z kart, rok, liczba elementow i przypisanie do serii potwierdzone w Bricksecie (rocznik 2026-2027, 36/37 liczb elementow zgodnych; przy 66813 Brickset nie podaje liczby, bo to szesciopak). Nowa seria \"Ekskluzywne i promocyjne\" zbiera zestawy spoza stalych linii tematycznych: ekskluzywy LEGO House, LEGOLAND i sklepu LEGO, prezenty za zakupy oraz pojedyncze modele bez wlasnej serii (odpowiednik bricksetowych Promotional i Miscellaneous). Bez ogloszonej ceny katalogowej: 40507, 40897, 40902, 40952, 66813."
+    "uzupelnienie_2026-09-06": "Dopisane 37 zestawow, dla ktorych istniala karta redakcyjna, ale nie bylo ich w katalogu (przez to nie mialy podstrony ani nie wchodzily do kolejki). Nazwy polskie z kart, rok, liczba elementow i przypisanie do serii potwierdzone w Bricksecie (rocznik 2026-2027, 36/37 liczb elementow zgodnych; przy 66813 Brickset nie podaje liczby, bo to szesciopak). Nowa seria \"Ekskluzywne i promocyjne\" zbiera zestawy spoza stalych linii tematycznych: ekskluzywy LEGO House, LEGOLAND i sklepu LEGO, prezenty za zakupy oraz pojedyncze modele bez wlasnej serii (odpowiednik bricksetowych Promotional i Miscellaneous). Bez ogloszonej ceny katalogowej: 40507, 40897, 40902, 40952, 66813.",
+    "batman_uzupelnienie_2026_09_10": {
+      "powod": "Radar 10.09: konkurencja wymienila osiem zestawow w promocji Batman Day, a nasz katalog mial piec. 76303 i 76304 byly w trwajacej promocji, mialy oferty w czterech sklepach i nie mialy u nas strony.",
+      "dodane": [
+        "76300",
+        "76301",
+        "76303",
+        "76304",
+        "76328"
+      ],
+      "nie_dodane": {
+        "76302": "Mech Supermana kontra Lex Luthor (120 el., 64,99 zl) - to zestaw Supermana, nie Batmana. Katalog nie ma serii DC ani Superman, a wrzucenie go pod 'Batman' bylo by blednym oznaczeniem. Decyzja o zalozeniu serii nalezy do Zwiadowcy.",
+        "40859": "Figurki Supermana i Batmana ze Zlotej Ery - jest w sety.json jako BrickHeadz z ekskluzywna dystrybucja LEGO.com. Zostaje tam, gdzie jest.",
+        "30726": "polybag, gratis Batman Day - nie ma ceny detalicznej, wiec nie wchodzi do katalogu."
+      },
+      "anomalie_feedu_do_sprawdzenia_przez_Lowce": {
+        "76328": "empik podaje 45,00 zl za zestaw 1822-elementowy o cenie katalogowej 649,99 - to niemal na pewno zly rekord w feedzie.",
+        "76355": "planetaklockow podaje 2589,99 zl przy cenie katalogowej 899,99 dla zestawu z premiera we wrzesniu 2026. Jedyna oferta w feedzie."
+      }
+    }
   },
   "Ideas": [
     {
@@ -62946,6 +62965,51 @@
     }
   ],
   "Batman": [
+    {
+      "numer": "76300",
+      "nazwa": "Arkham Asylum",
+      "rok": 2025,
+      "elementy": 2953,
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99,
+      "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026"
+    },
+    {
+      "numer": "76301",
+      "nazwa": "Batman i Batmobil kontra Mr. Freeze",
+      "rok": 2025,
+      "elementy": 63,
+      "status": "dostepny",
+      "cena_katalogowa": 89.99,
+      "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026"
+    },
+    {
+      "numer": "76303",
+      "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+      "rok": 2025,
+      "elementy": 429,
+      "status": "dostepny",
+      "cena_katalogowa": 249.99,
+      "cena_zrodlo": "lista promocyjna Batman Day 09.09.2026 + porownywarki PL"
+    },
+    {
+      "numer": "76304",
+      "nazwa": "Batmobil Batman Forever",
+      "rok": 2025,
+      "elementy": 909,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "cena_zrodlo": "lista promocyjna Batman Day 09.09.2026 + porownywarki PL"
+    },
+    {
+      "numer": "76328",
+      "nazwa": "Klasyczny serial telewizyjny Batman — Batmobil",
+      "rok": 2024,
+      "elementy": 1822,
+      "status": "dostepny",
+      "cena_katalogowa": 649.99,
+      "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026"
+    },
     {
       "numer": "76330",
       "nazwa": "Logo Batmana",
