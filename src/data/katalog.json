@@ -88,6 +88,31 @@
         "76328": "empik podaje 45,00 zl za zestaw 1822-elementowy o cenie katalogowej 649,99 - to niemal na pewno zly rekord w feedzie.",
         "76355": "planetaklockow podaje 2589,99 zl przy cenie katalogowej 899,99 dla zestawu z premiera we wrzesniu 2026. Jedyna oferta w feedzie."
       }
+    },
+    "seria_dc_2026_09_10": {
+      "pytanie": "Dlaczego nie bylo serii DC?",
+      "odpowiedz": "Bo nigdy jej nie zaimportowalismy. Oficjalny motyw LEGO nazywa sie 'DC Super Heroes' i obejmuje TAKZE wszystkie Batmany - porownywarki trzymaja 76328, 76330-76333 i 76355 pod tym samym adresem co Supermana. Nasz katalog powstal z kart redakcyjnych Piotra i importu, ktore uzywaly etykiety 'Batman', wiec ta czesc weszla, a reszta DC nie weszla wcale. To nie byl blad nazewnictwa, tylko dziura w imporcie.",
+      "co_zrobione": "Zalozona seria 'DC' wylacznie na zestawy SPOZA watku Batmana (pierwszy: 76302 Mech Supermana kontra Lex Luthor). Batman zostaje osobna seria, bo ma juz strone i prezentownik, a rozbijanie Batmanow miedzy dwie serie byloby gorsze niz obecny stan.",
+      "seria_DC_jest_zalazkiem": "Na dzis jedna pozycja. Sensowne wypelnienie wymaga importu calego bloku DC z rocznikami - to robota Zwiadowcy, nie Radaru.",
+      "batmany_wciaz_brakujace_do_sprawdzenia": [
+        "76112",
+        "76117",
+        "76119",
+        "76122",
+        "76139",
+        "76160",
+        "76161",
+        "76179",
+        "76180",
+        "76224",
+        "76240",
+        "76252",
+        "76259",
+        "76272",
+        "76273",
+        "76274"
+      ],
+      "uwaga_o_zrodlach": "Szeroka zapytanie do wyszukiwarki podalo 76303 jako 279,99 zl i 76331/76332 jako 294,99 zl. Punktowa weryfikacja kazdego numeru z osobna potwierdzila NASZE dane: 76303 = 249,99, 76332 = 124,99 przy 330 elementach. Wniosek na przyszlosc: przy cenach ufamy zapytaniom o pojedynczy numer, nie zbiorczym podsumowaniom listingow."
     }
   },
   "Ideas": [
@@ -62966,6 +62991,24 @@
   ],
   "Batman": [
     {
+      "numer": "76264",
+      "nazwa": "Batmobil Pogoń: Batman kontra Joker",
+      "rok": 2023,
+      "elementy": 54,
+      "status": "dostepny",
+      "cena_katalogowa": 119.99,
+      "cena_zrodlo": "promoklocki.pl, 10.09.2026"
+    },
+    {
+      "numer": "76265",
+      "nazwa": "Batwing: Batman kontra Joker",
+      "rok": 2023,
+      "elementy": 357,
+      "status": "dostepny",
+      "cena_katalogowa": 169.99,
+      "cena_zrodlo": "promoklocki.pl, 10.09.2026"
+    },
+    {
       "numer": "76300",
       "nazwa": "Arkham Asylum",
       "rok": 2025,
@@ -63213,6 +63256,17 @@
       "status": "dostepny",
       "cena_katalogowa": 649.99,
       "cena_zrodlo": "karta redakcyjna"
+    }
+  ],
+  "DC": [
+    {
+      "numer": "76302",
+      "nazwa": "Mech Supermana kontra Lex Luthor",
+      "rok": 2025,
+      "elementy": 120,
+      "status": "dostepny",
+      "cena_katalogowa": 64.99,
+      "cena_zrodlo": "promoklocki.pl + zklockow.pl, 10.09.2026"
     }
   ]
 }

@@ -1744,3 +1744,56 @@ Zestawy weszły **tylko do katalogu**, bez wpisów w `sety.json` — czyli bez o
 redakcyjnego, `dla_rodzica` i `dla_afol`. Huby działają (nazwa, parametry, tabela
 cen), ale są chudsze niż te z pełnym opisem. To robota dla sesji redakcyjnej,
 nie dla radaru.
+
+## 2026-09-10 (3) · CODE (Radar) · Seria DC + wykaz zestawów bez opisu
+
+### Dlaczego nie było serii DC
+
+**Bo nigdy jej nie zaimportowaliśmy — to nie był błąd nazewnictwa, tylko dziura
+w imporcie.** Oficjalny motyw LEGO nazywa się „DC Super Heroes" i obejmuje
+także wszystkie Batmany: porównywarki trzymają 76328, 76330–76333 i 76355 pod
+tym samym adresem co Supermana. Nasz katalog powstał z kart Piotra i importu,
+które używały etykiety „Batman" — ta część weszła, reszta DC nie weszła wcale.
+Piotr ma 1087 kart i **ani jednej z serią „DC"**; ma pięć z serią „Batman".
+
+**Co zrobione:** założona seria `DC`, wyłącznie na zestawy spoza wątku Batmana.
+Pierwsza pozycja: 76302 Mech Supermana kontra Lex Luthor (120 el., 64,99 zł).
+
+**Czego świadomie nie zrobiłem:** nie przeniosłem Batmanów do DC. Batman ma już
+stronę serii i świeży prezentownik, a rozbicie Batmanów między dwie serie byłoby
+gorsze niż obecny stan. `DC` jest dziś zalążkiem z jedną pozycją — sensowne
+wypełnienie wymaga importu całego bloku z rocznikami, czyli roboty Zwiadowcy.
+
+Przy okazji domknięty Batman: dodane 76264 (54 el., 119,99) i 76265 (357 el.,
+169,99). Seria ma 12 pozycji. **Wciąż brakuje szesnastu numerów** — lista
+w `katalog.json` → `_meta.seria_dc_2026_09_10.batmany_wciaz_brakujace_do_sprawdzenia`.
+
+### Pułapka źródłowa, która o mało nie weszła do danych
+
+Szerokie zapytanie do wyszukiwarki podało 76303 jako **279,99 zł**, a 76331
+i 76332 jako **294,99 zł** — czyli sprzecznie z tym, co opublikowałem godzinę
+wcześniej. Weryfikacja **każdego numeru z osobna** potwierdziła nasze dane:
+76303 = 249,99, 76332 = 124,99 przy 330 elementach.
+
+**Reguła na przyszłość, zapisana też w `_meta`: przy cenach ufamy zapytaniom
+o pojedynczy numer, nie zbiorczym podsumowaniom listingów.** Zbiorcze wyniki
+mieszają ceny rynkowe z katalogowymi i różne zestawy między sobą.
+
+### Wykaz zestawów bez opisu redakcyjnego
+
+`scripts/bez-opisu-od-najnowszych.py` → `materialy/zestawy-bez-opisu.xlsx`.
+Definicja „bez opisu" ta sama co status `do opisania` w kolejce redakcyjnej:
+ani karty Piotra, ani naszego opisu, ani pary person.
+
+**Arkusz 1 — populacja kolejki (2020–2026, dostępny, z ceną): 15 pozycji.**
+Zaległość jest tam praktycznie zamknięta: na 1135 zestawów 1046 ma kartę Piotra,
+a 1120 ma persony. Z tych 15 aż **7 to Batmany i DC, które sam dziś dodałem** —
+czyli lista sama się domknie, gdy redakcja dopisze im teksty.
+
+**Arkusz 2 — gdzie jest prawdziwa dziura: 3716 pozycji.** Każdy zestaw
+z katalogu, który ma **dziś ofertę w sklepie** i nie ma żadnego tekstu, bez
+ograniczenia rocznika i statusu. Rozkład: 2021 — 344, 2022 — 324, 2018 — 321,
+2020 — 314, 2023 — 306, 2019 — 300. To są zestawy, które ktoś może kupić,
+a my nie mamy o nich zdania.
+
+Oba arkusze sortowane od najnowszych, z metodologią w osobnej zakładce.
