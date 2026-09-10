@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-09",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-09 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-10",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-10 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -590,9 +590,9 @@
  "11212": {
   "nazwa": "Domek w ogrodzie Wróżkici",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.0,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 42.99,
+  "najnizsza_data": "2026-09-10",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11214": {
   "nazwa": "Wróżkowa kolejka górska i podwieczorek",
@@ -1437,8 +1437,8 @@
  "72162": {
   "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 204.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 204.98,
+  "najnizsza_data": "2026-09-10",
   "najnizsza_sklep": "mediaexpert"
  },
  "72163": {
@@ -1592,8 +1592,8 @@
  "10463": {
   "nazwa": "Dinozaur Spidey-Rex i Zielony Goblin",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 53.99,
-  "najnizsza_data": "2026-08-17",
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-09-10",
   "najnizsza_sklep": "mediaexpert"
  },
  "71859": {
@@ -2353,8 +2353,8 @@
  "60470": {
   "nazwa": "Ekspres polarny arktycznych odkrywców",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 639.9,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 602.65,
+  "najnizsza_data": "2026-09-10",
   "najnizsza_sklep": "mediaexpert"
  },
  "42214": {
@@ -4789,9 +4789,9 @@
  "42678": {
   "nazwa": "Furgonetka z akcesoriami dla zwierząt",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.93,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-09-10",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60455": {
   "nazwa": "Pościg na motocyklu policyjnym",
@@ -6910,9 +6910,9 @@
  "60404": {
   "nazwa": "Ciężarówka z burgerami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 63.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 53.73,
+  "najnizsza_data": "2026-09-10",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10989": {
   "nazwa": "Park wodny",

@@ -70,6 +70,21 @@ za martwe i skasuje.
 
 ---
 
+## Allegro: feed potrafi zamarznąć *(zaobserwowane 09–10.09.2026)*
+
+Feed afiliacyjny Allegro (`feeds.allegro.pl/affiliate-feed/...`) pobiera się
+poprawnie (HTTP 200, pełny plik), ale bywa **niezregenerowany po stronie
+Allegro** — 09.09 i 10.09 dwa kolejne przebiegi dostały identyczną treść:
+0 zmian cen na ~7100 ofert (normalny dzień to 100–600 zmian). Serwer nie
+zwraca Last-Modified ani ETag, więc jedynym sygnałem jest właśnie
+**dokładnie zero zmian w statystykach Łowcy**.
+
+Postępowanie: dane traktować jak pobrane (nie jest to błąd pobrania),
+odnotować w raporcie; przy zamrożeniu 3+ dni sprawdzić w panelu afiliacyjnym
+Allegro, czy generowanie feedu nie wymaga odnowienia po naszej stronie.
+
+---
+
 ## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*
 
 **Feed aktualizuje się 2× na dobę, ale z opóźnieniem uploadu.** Stemple
