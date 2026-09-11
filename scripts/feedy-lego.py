@@ -129,15 +129,26 @@ def z_allegro():
             except json.JSONDecodeError:
                 continue
             nazwa = (o.get('name') or '').strip()
-            # atrybut "Numer produktu" ma pierwszeństwo przed regexem z nazwy
+            # Od 11.09.2026 feed to cała kategoria Dziecko (stary feed LEGO
+            # wygaszony przy migracji feedów Allegro), więc najpierw brama
+            # marki: atrybut Marka (id 248811) = LEGO albo nazwa od "LEGO".
+            # Bez niej atrybut "Numer produktu" wpuszczałby podróbki klocków
+            # z numerami łudząco podobnymi do setów.
+            marka = None
             nr = None
             for atrybut in o.get('attributes', []) or []:
-                if str(atrybut.get('id')) == '201105':
+                ident = str(atrybut.get('id'))
+                if ident == '248811':
+                    wartosci = atrybut.get('values') or []
+                    marka = str(wartosci[0]) if wartosci else None
+                elif ident == '201105':
+                    # atrybut "Numer produktu" ma pierwszeństwo przed regexem z nazwy
                     wartosci = atrybut.get('values') or []
                     if wartosci:
                         znaleziony = re.search(r'\b(\d{4,7})\b', str(wartosci[0]))
                         nr = znaleziony.group(1) if znaleziony else None
-                    break
+            if (marka or '').strip().upper() != 'LEGO' and not nazwa.upper().startswith('LEGO'):
+                continue
             if not nr:
                 dopasowanie = WZORZEC_LEGO.match(nazwa)
                 nr = dopasowanie.group(1) if dopasowanie else None
