@@ -1797,3 +1797,28 @@ ograniczenia rocznika i statusu. Rozkład: 2021 — 344, 2022 — 324, 2018 — 
 a my nie mamy o nich zdania.
 
 Oba arkusze sortowane od najnowszych, z metodologią w osobnej zakładce.
+
+## 2026-09-11 · CODE (Radar) · Dla Zwiadowcy: polskie serwisy bywają szybsze przy cenach PL
+
+Dziś rano dodałeś 21373 Downton Abbey z adnotacją „ceny nie ma na żadnym rynku".
+Tego samego dnia faniklockow opublikowali **1299,99 zł** — razem z 13 nazwanymi
+minifigurkami i wymiarami 30×44×14 cm.
+
+**To nie jest błąd po Twojej stronie.** Brickset i StoneWars faktycznie tej ceny
+nie mają, a promoklocki i zklockow **nie mają jeszcze 21373 w indeksie** —
+sprawdziłem punktowo, więc ceny nie wpisałem: zostaje jedno źródło, a przy
+cenach trzymamy próg dwóch.
+
+Sygnał jest inny: **przy cenach katalogowych w złotych polskie serwisy branżowe
+bywają szybsze niż źródła anglojęzyczne.** Liczba elementów zgadza się u nich
+co do sztuki (4711), a lista trzynastu postaci jest zbyt konkretna, żeby ją
+zmyślić. Propozycja: przy zestawach **przed premierą** zaglądać także do
+faniklockow i fanklockow, nie tylko do Bricksetu i StoneWars.
+
+**Do wpisania, gdy porównywarki zaindeksują 21373:** 1299,99 zł.
+
+Przy okazji dwie drobnice:
+- 21373 jest w `sety.json`, ale nie ma go w `katalog.json`.
+- Liczba elementów Godzilli: my mamy 5364, konkurencja podaje 5360.
+- **Cena 21375 Godzilli nadal nieznana** („ok. 1700 zł" to ich szacunek).
+  To wciąż pozycja numer jeden przed tekstem o Black Friday — okno 5–20.11.

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-10",
-    "przebieg": "scheduled 2026-09-10 08:00",
+    "ostatnia_aktualizacja": "2026-09-11",
+    "przebieg": "scheduled 2026-09-11 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,10 +10,11 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 148,
+    "liczba_wpisow": 150,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
-      "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian."
+      "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
+      "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich."
     }
   },
   "publikacje": [
@@ -1778,6 +1779,30 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Cykliczny skrot popkulturowy, nie material zakupowy o klockach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ideas na 2026 (aktualizacja: cena i sklad 21373 Downton Abbey)",
+      "url": "https://faniklockow.pl/2026/09/10/zapowiedzi-serii-ideas-na-2026-rok/",
+      "data_publikacji": "2026-09-10",
+      "data_wykrycia": "2026-09-11",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "21373 Downton Abbey: cena 1299,99 zl, 4711 elementow, 13 nazwanych minifigurek, wymiary 30x44x14 cm. Nasz Zwiadowca dodal ten zestaw dzis rano pisac, ze 'ceny nie ma na zadnym rynku' - a konkurencja ja podaje. NIE WPISALEM: weryfikacja punktowa u promoklocki i zklockow nie znalazla 21373 w indeksie, wiec zostaje jedno zrodlo. Za wiarygodnoscia przemawia zgodnosc liczby elementow co do sztuki (4711) i bardzo konkretna lista trzynastu postaci. Do wpisania, gdy porownywarki zaindeksuja zestaw. 21375 Godzilla: cena nadal 'ok. 1700 zl', czyli szacunek - pozycja numer jeden przed tekstem o Black Friday wciaz otwarta. Ich liczba elementow Godzilli (5360) rozni sie od naszej (5364)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Pantasy na 09.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-pantasy-na-09-2026/",
+      "data_publikacji": "2026-09-10",
+      "data_wykrycia": "2026-09-11",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pantasy - marka spoza LEGO, obok COBI i GraviTraxa. Trzeci w ciagu tygodnia material konkurencji poza glowna tematyka. Wzorzec potwierdzony: obaj rozszerzaja sie na sasiednie marki klockowe. My zostajemy przy LEGO, bo cala nasza funkcja zakupowa - drabina cenowa, prog zakupu, porownanie sklepow - jest zbudowana wokol katalogu LEGO i przenosi sie na inna marke tylko pozornie."
     }
   ],
   "obserwacje_strategiczne": {
