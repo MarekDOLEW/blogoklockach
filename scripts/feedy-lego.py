@@ -27,9 +27,17 @@ G = '{http://base.google.com/ns/1.0}'
 
 
 def pobierz(url, sufiks):
-    """Pobiera plik curl-em (wyjście sieciowe środowiska idzie przez proxy)."""
+    """Pobiera plik curl-em (wyjście sieciowe środowiska idzie przez proxy).
+
+    --fail zamienia HTTP 4xx/5xx na błąd curla, a kontrola rozmiaru łapie
+    pusty plik przy kodzie 200 — oba przypadki mają wylądować w _meta.bledy
+    zamiast przejść po cichu jako „0 ofert" (tak 10–11.09.2026 wygasający
+    feed Allegro przez dwa dni wyglądał na zdrowy).
+    """
     sciezka = os.path.join(tempfile.gettempdir(), f'feed-lego{sufiks}')
-    subprocess.run(['curl', '-sL', '--max-time', '900', url, '-o', sciezka], check=True)
+    subprocess.run(['curl', '-sL', '--fail', '--max-time', '900', url, '-o', sciezka], check=True)
+    if os.path.getsize(sciezka) == 0:
+        raise RuntimeError(f'pusty plik z {url}')
     return sciezka
 
 
