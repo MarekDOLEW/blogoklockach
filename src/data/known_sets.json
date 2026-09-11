@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-10",
+  "data_aktualizacji": "2026-09-11",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1170,
+  "liczba_setow": 1171,
   "sety": [
     "10280",
     "10281",
@@ -218,6 +218,7 @@
     "21370",
     "21371",
     "21372",
+    "21373",
     "21375",
     "21376",
     "21582",
@@ -1247,16 +1248,10 @@
       "status": "NOWE 2026-08-22: polybag promocyjny, 49 elementów, brak RRP w Brickset. Poza katalogiem serwisu (nie do kupienia osobno) — śledzimy."
     },
     {
-      "numer": "21373",
-      "nazwa": "Downton Abbey (Ideas)",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. Brak w katalog.json."
-    },
-    {
       "numer": "11390",
-      "nazwa": "nieujawniony zestaw Icons",
+      "nazwa": "Shenlong / Dragon Ball (Icons) — zapowiedz niepotwierdzona",
       "premiera": null,
-      "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
+      "status": "StoneWars 2026-09-09: duzy zestaw Dragon Ball z minifigurka Goku na Jindujunie, listopad. Brickset ma 11390 jako pusty rekord Icons. JEDNO ZRODLO, PromoBricks milczy. Jesli sie potwierdzi, to trzecia nowa licencja w katalogu w ciagu trzech tygodni, po PlayStation i Zeldzie — ale na razie nie ma na to nic poza jednym tekstem."
     },
     {
       "numer": "21364",
@@ -1266,9 +1261,9 @@
     },
     {
       "numer": "40899",
-      "nazwa": "nieujawniony zestaw z serii PlayStation",
-      "premiera": "2026",
-      "status": "2026-09-05: StoneWars pokazuje pierwsze zdjecie i nazywa zestaw 'Astro Bot', stawiajac pytanie, czy to gratis do 72306 czy osobna pozycja. JEDNO ZRODLO — karta Brickset nadal '{?}', PromoBricks milczy. Numer siedzi w nowej serii PlayStation. Zapowiedz niepotwierdzona."
+      "nazwa": "PlayStation — drugi zestaw linii (nazwa nieujawniona)",
+      "premiera": "2026-10",
+      "status": "2026-09-10: Brickset dodal liczbe elementow (276) i date startu 2026-10-01. Nazwa nadal '{?}'. To przesadza, ze NIE jest to drobny gratis, tylko pelnoprawny zestaw — 276 elementow. StoneWars od 05.09 nazywa go 'Astro Bot', ale to nadal jedno zrodlo i Brickset tego nie potwierdza. Wchodzi do fali 1 pazdziernika."
     },
     {
       "numer": "72052-72061",
@@ -1398,8 +1393,8 @@
     },
     {
       "numer": "11388",
-      "nazwa": "Icons — rezerwacja 2026",
-      "status": "Brickset 2026-09-05: nowy pusty rekord Icons na rocznik 2026, kategoria '{t.b.a.}'. Numer sasiaduje z 11379 (ksiegarnia-podporka) i 11380 (Road Bike) — ta sama podseria numerow.",
+      "nazwa": "Wenecja (Icons) — zapowiedz niepotwierdzona",
+      "status": "StoneWars 2026-09-09 pisze o 11388 jako o wielkiej dioramie Wenecji: blisko 5700 elementow, ponad 15 minifigurek, listopad — ale SAM stawia w tytule znak zapytania. Brickset ma 11388 jako pusty rekord Icons bez nazwy i bez liczby elementow. JEDNO ZRODLO, w dodatku asekuracyjne. Nie publikowac.",
       "premiera": "2026"
     },
     {
@@ -5637,7 +5632,7 @@
   "fala_pazdziernikowa_2026": {
     "ustalenie": "2026-08-26, przebudowane 2026-09-02",
     "metoda": "Wyszukiwanie po launchDate=2026-10-01 w API zamiast sledzenia pustych rekordow. Poprzednia metoda dawala 4 zestawy, ta daje 17 — puste numery to byla tylko ta czesc fali, ktorej Brickset nie zdazyl opisac.",
-    "zestawow": 17,
+    "zestawow": 19,
     "opisanych": 11,
     "sety": [
       {
@@ -5779,7 +5774,10 @@
     ],
     "rekomendacja": "Kompletny kalendarz premier na 1 pazdziernika — gotowy material na tekst typu 'co LEGO wypuszcza 1 pazdziernika'. Trzy watki: flagowiec Star Wars (75457 Executor, 6130 el.), fala swiateczna Seasonal (5 zestawow, wszystkie z cenami EUR od 02.09) i domkniecie linii Avengers: Doomsday (4 zestawy). Material powinien byc gotowy przed 1 pazdziernika.",
     "status_2026_09_07": "FALA KOMPLETNA. 11379 dostal nazwe w Brickset 2026-09-07 00:53: 'Bookshop: Book Nook', Icons, 1690 el., 18+, 129,99 EUR, premiera 2026-10-01. Potwierdza to, co StoneWars podawal z jednego zrodla od 02.09. Wszystkie zestawy fali 1 pazdziernika maja juz nazwy.",
-    "status_2026_09_08": "11379 oficjalnie zaprezentowany i dostepny w przedsprzedazy — StoneWars 2026-09-07 ('offiziell vorgestellt und vorbestellbar'). DO ZROBIENIA: cena w zl nadal nieznana, nie ma jej ani w katalog.json, ani w oferty_feed.json. Wpis w sety.json ma cena_katalogowa: null i wyraznie oznaczone oszacowanie 550-580 zl. Podmienic na cene faktyczna, gdy Lowca zaciagnie ja z feedow."
+    "status_2026_09_08": "11379 oficjalnie zaprezentowany i dostepny w przedsprzedazy — StoneWars 2026-09-07 ('offiziell vorgestellt und vorbestellbar'). DO ZROBIENIA: cena w zl nadal nieznana, nie ma jej ani w katalog.json, ani w oferty_feed.json. Wpis w sety.json ma cena_katalogowa: null i wyraznie oznaczone oszacowanie 550-580 zl. Podmienic na cene faktyczna, gdy Lowca zaciagnie ja z feedow.",
+    "korekta_2026_09_11": "BLAD DO ODWOLANIA: 2026-09-07 napisalem, ze fala jest kompletna. Nie byla. Powtorzony dzis przeglad po launchDate=2026-10-01 na pelnym roczniku 2026 (934 rekordy, 2 zapytania) daje 19 zestawow, nie 17. Doszly 21373 Downton Abbey (4711 el.) i 40899 (276 el., nadal bez nazwy). PRZYCZYNA: przeglad po launchDate zrobilem raz, 02.09. Oba te rekordy dostaly date startu PO tym dniu (10.09), wiec w snapshocie ich nie bylo, a codzienny updatedSince pokazuje zmiane, ale nie przypisuje jej do fali. Deklaracja o kompletnosci opierala sie na nieaktualnym zrzucie.",
+    "poprawka_metody": "Przeglad po launchDate powtarzac CO TYDZIEN az do 1 pazdziernika, nie raz. Rekordy dostaja date startu stopniowo, wiec kazdy jednorazowy snapshot sie starzeje. Koszt: 2 zapytania getSets.",
+    "status_2026_09_11": "19 zestawow, opisanych 18. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy."
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
@@ -5893,5 +5891,12 @@
     "dlaczego_wazny": "5364 elementy to jeden z najwiekszych zestawow rocznika, a 27 listopada to tydzien Black Friday. Premiera w tym oknie oznacza brak rabatu w pierwszym sezonie — to konkretna informacja zakupowa, nie ciekawostka.",
     "zapowiedzi": "Dopisane 30726 (gratis Batman Day) i 40900 (rezerwacja promocyjna ze startem 21.09).",
     "odsiane": "6644846 i BATMANBUST — motyw 'Promotional', gadzety."
+  },
+  "przeglad_2026_09_11": {
+    "nowosc": "21373 Downton Abbey — 4711 elementow, 13 minifigurek wg StoneWars, start 2026-10-01. Dodany do sety.json, cena_katalogowa null.",
+    "korekta": "Fala pazdziernikowa to 19 zestawow, nie 17. Szczegoly w fala_pazdziernikowa_2026.korekta_2026_09_11.",
+    "40899": "Dostal 276 elementow i date startu — to pelnoprawny zestaw, nie gratis. Nazwy nadal brak.",
+    "nowe_zapowiedzi_jedno_zrodlo": "11388 jako Wenecja (blisko 5700 el., listopad) i 11390 jako Dragon Ball Shenlong (listopad). Oba tylko ze StoneWars, oba z pustymi rekordami w Brickset. Nie publikowac.",
+    "gdyby_sie_potwierdzilo": "Dragon Ball bylby trzecia nowa licencja w ciagu trzech tygodni, po PlayStation i Zeldzie. To by juz byl wzorzec, a nie zbieg okolicznosci — ale na razie to jedno zdanie w jednym serwisie."
   }
 }
