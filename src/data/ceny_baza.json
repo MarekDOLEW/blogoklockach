@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-10",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-10 00:30 CEST, swiezy) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-11",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-11 00:30 CEST, swiezy; feed Allegro PUSTY - sklep nieaktualizowany) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -72,9 +72,9 @@
  "10318": {
   "nazwa": "Concorde",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 729.0,
-  "najnizsza_data": "2026-08-12",
-  "najnizsza_sklep": "rozetka"
+  "najnizsza_cena": 639.0,
+  "najnizsza_data": "2026-09-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21348": {
   "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
@@ -996,9 +996,9 @@
  "11216": {
   "nazwa": "Babunie z Bingo i Blue",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41.99,
-  "najnizsza_data": "2026-08-29",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 41.98,
+  "najnizsza_data": "2026-09-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71868": {
   "nazwa": "Transformujący smoczy mech Wyldfyre",
@@ -2059,9 +2059,9 @@
  "71814": {
   "nazwa": "Turniejowe miasto ze świątynią",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 949.0,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 799.0,
+  "najnizsza_data": "2026-09-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42206": {
   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
@@ -2472,8 +2472,8 @@
  "75639": {
   "nazwa": "Statek piracki Going Merry",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 445.9,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 441.99,
+  "najnizsza_data": "2026-09-11",
   "najnizsza_sklep": "mediaexpert"
  },
  "60337": {
@@ -3263,8 +3263,8 @@
  "40808": {
   "nazwa": "Poszukiwanie pisanek z zajączkiem i kurczakiem",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 35.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 35.47,
+  "najnizsza_data": "2026-09-11",
   "najnizsza_sklep": "mediaexpert"
  },
  "76416": {
@@ -4229,9 +4229,9 @@
  "40806": {
   "nazwa": "Piernikowa maszyna krocząca AT-AT",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 189.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 188.99,
+  "najnizsza_data": "2026-09-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10418": {
   "nazwa": "Elza i Bruni w Zaczarowanym Lesie",
@@ -5181,9 +5181,9 @@
  "43270": {
   "nazwa": "Kajakowa przygoda Vaiany",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 179.0,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 176.22,
+  "najnizsza_data": "2026-09-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75372": {
   "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",

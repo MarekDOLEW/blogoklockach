@@ -83,6 +83,13 @@ Postępowanie: dane traktować jak pobrane (nie jest to błąd pobrania),
 odnotować w raporcie; przy zamrożeniu 3+ dni sprawdzić w panelu afiliacyjnym
 Allegro, czy generowanie feedu nie wymaga odnowienia po naszej stronie.
 
+**Eskalacja 11.09.2026: po dwóch dniach zamrożenia feed zwrócił PUSTY plik**
+(HTTP 200, 0 ofert). Pusty feed traktujemy jak feed niepobrany — sklepu NIE
+aktualizujemy (inaczej jedna pusta odpowiedź wymazałaby wszystkie oferty
+i całą gałąź `redirects.allegro`). Pipeline Łowcy pomija sklepy z pustym
+feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
+(link feedu mógł wygasnąć lub wymagać ponownego wygenerowania).
+
 ---
 
 ## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*
