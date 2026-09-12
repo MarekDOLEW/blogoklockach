@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-11",
-    "przebieg": "scheduled 2026-09-11 08:00",
+    "ostatnia_aktualizacja": "2026-09-12",
+    "przebieg": "scheduled 2026-09-12 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 150,
+    "liczba_wpisow": 152,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -1803,6 +1803,33 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Pantasy - marka spoza LEGO, obok COBI i GraviTraxa. Trzeci w ciagu tygodnia material konkurencji poza glowna tematyka. Wzorzec potwierdzony: obaj rozszerzaja sie na sasiednie marki klockowe. My zostajemy przy LEGO, bo cala nasza funkcja zakupowa - drabina cenowa, prog zakupu, porownanie sklepow - jest zbudowana wokol katalogu LEGO i przenosi sie na inna marke tylko pozornie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 - pelna lista (38 tys. znakow, aktualizowana)",
+      "url": "https://faniklockow.pl/2026/09/11/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "data_publikacji": "2026-09-11",
+      "data_wykrycia": "2026-09-12",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "NAJWAZNIEJSZA PUBLIKACJA TYGODNIA - i najlepsza kontrola naszych danych, jaka mielismy. Ich lista ma 418 numerow, nasza wycofania.json 271. POKRYWA SIE 262, czyli praktycznie cala ich lista potwierdzonych. Roznica: 108 zestawow, ktore oni wymieniaja, sa w naszym katalogu i nie ma ich na naszej liscie wycofan - zgloszone runnerowi Wycofan. W druga strone mamy 9 pozycji, ktorych oni nie maja. Ich przewaga to czestotliwosc (datowany dziennik zmian) i osobna aplikacja app.faniklockow.pl z przewidywaniami. Nasza przewaga jest inna i zostaje: przy kazdym wycofaniu mamy hub z zywa tabela cen, wiec czytelnik od razu widzi, gdzie zestaw jeszcze jest i po ile - u nich to sama lista nazw. Odnotowuja tez 'wyprzedane' z data, czego my nie sledzimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 11.09.2026 (zbiorczo: 75367 Venator, 10354 Shire)",
+      "url": "https://faniklockow.pl/2026/09/11/okazja-cenowa-star-wars-75367-gwiezdny-niszczyciel-typu-venator-8/",
+      "data_publikacji": "2026-09-11",
+      "data_wykrycia": "2026-09-12",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, dwa zestawy. Obie pozycje ogrywane wielokrotnie (Venator po raz osmy, Shire po trzynasty)."
     }
   ],
   "obserwacje_strategiczne": {

@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO 75457 Executor: co trzeba wiedzieć przed 1 października"
 opis: "Największy Star Wars w historii LEGO wchodzi do sprzedaży 1 października – najpierw dla Insiders, dla reszty 4 października. Tłumaczymy, czym te trzy dni różnicy naprawdę są i dlaczego przy tym zestawie nasza zwykła rada o szukaniu taniej nie działa."
 data: "2026-09-02"
-zaktualizowano: "2026-09-02"
+zaktualizowano: "2026-09-12"
 kategoria: "Premiery"
 zestawy: ["75457"]
 faq:
@@ -131,6 +131,13 @@ licencję i to jest normalne – pod warunkiem że kupujący o tym wie.
 i masz przygotowane miejsce. Czekanie nie da ci lepszej ceny, bo jej nie będzie,
 a odbierze gratis. Historia poprzednika sugeruje raczej odwrotny scenariusz:
 10221 po wycofaniu należał do najmocniej drożejących zestawów Star Wars.
+
+**Jest jeszcze trzecia droga, o której warto wiedzieć.** Oprócz UCS-a istnieje
+[75356 Executor](/zestaw/75356/) w skali midi — model na biurko za ułamek tej
+kwoty. **LEGO zdjęło go ze sprzedaży na początku września**, więc u innych
+sprzedawców został tylko zapas. Jeśli chodziło ci o kształt okrętu na półce,
+a nie o metr trzydzieści konstrukcji, to okno zamyka się właśnie teraz — i jest
+to jedyna rzecz przy Executorze, przy której pośpiech ma sens.
 
 **Odpuść, jeśli** kupujesz go jako prezent dla dziecka. Oznaczenie 18+ jest tu
 najmniej istotnym argumentem – decydują kilkadziesiąt godzin budowy i rozmiar,

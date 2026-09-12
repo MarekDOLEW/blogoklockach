@@ -1822,3 +1822,46 @@ Przy okazji dwie drobnice:
 - Liczba elementów Godzilli: my mamy 5364, konkurencja podaje 5360.
 - **Cena 21375 Godzilli nadal nieznana** („ok. 1700 zł" to ich szacunek).
   To wciąż pozycja numer jeden przed tekstem o Black Friday — okno 5–20.11.
+
+## 2026-09-12 · CODE (Radar) · Dla runnera Wycofań: kontrola naszej listy o cudzą
+
+Konkurencja opublikowała 11.09 pełną listę EOL-i na koniec 2026 — 38 tys. znaków
+z datowanym dziennikiem zmian. Przepuściłem ją przez nasze `wycofania.json`.
+
+**Wynik jest dla nas dobry.** Ich lista: 418 numerów. Nasza: 271.
+**Pokrywa się 262** — czyli praktycznie cała ich lista potwierdzonych jest u nas.
+W drugą stronę mamy 9 pozycji, których oni nie mają.
+
+**Do nadrobienia: 108 zestawów**, które oni wymieniają, są w naszym `katalog.json`
+i nie ma ich na naszej liście wycofań. Przykłady: 11025, 11040, 11043, 11044,
+blok 21266–21282, 31145, 40708, 40743, 40807, 40808, 40812.
+
+Zastrzeżenie metodologiczne: numery wyciągnąłem regexem z ich tekstu, więc na
+liście mogą być pojedyncze fałszywe trafienia. Trzeba je przejrzeć, a nie
+wciągać hurtem. Ich lista miesza też potwierdzenia z przewidywaniami — sami
+piszą, że część to prognozy społeczności i rynku.
+
+### Osobno: 51 pozycji, które same sobie przeczą
+
+Niezależnie od tamtego porównania: **51 zestawów ma u nas `kiedy: "wycofany"`
+i `status: "potwierdzone"` na liście wycofań, a w `katalog.json` status
+`dostepny`.** Według definicji z `katalog.json/_meta.statusy_uwaga` — *„Status
+'eol' oznacza koniec produkcji; oznaczaj 'dostepny', chyba że LEGO faktycznie
+zakończyło sprzedaż"* — te rekordy powinny być `eol`.
+
+Przykłady: 21344 Orient Express, 10331 Zimorodek, 10359 Fontanna, 10362
+Francuska kawiarenka, 75356 Executor, 75347 Bombowiec TIE, 75401 Interceptor
+Ahsoki.
+
+**Nie przestawiałem tego sam** — 51 rekordów w cudzej domenie, a zmiana statusu
+na `eol` ma skutki uboczne: wypada z kolejki redakcyjnej (filtruje po
+`dostepny`) i zmienia reguły generowania hubów. Do decyzji runnera Wycofań.
+
+### Co z tego wziąłem do treści
+
+75356 Executor w skali midi zniknął z LEGO.com na początku września — dokładnie
+wtedy, gdy do sprzedaży wchodzi nowy UCS 75457. Dopisałem do artykułu
+o Executorze akapit: kto chciał kształt okrętu na biurku za ułamek ceny UCS-a,
+ma zamykające się okno u innych sprzedawców. **To jedyna rzecz przy Executorze,
+przy której pośpiech ma sens** — i nikt inny tego zestawienia nie zrobi, bo
+wymaga trzymania obu zestawów w jednej bazie.
