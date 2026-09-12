@@ -30540,6 +30540,18 @@
   "premiera": "2026-10",
   "opis": "Licencjonowany zestaw z linii Ideas oparty na serialu Downton Abbey — 4711 elementów i, według StoneWars, 13 minifigurek. Numer figurował w katalogu od sierpnia jako pusty rekord; komplet danych pojawił się 10 września, trzy tygodnie przed startem sprzedaży wyznaczonym na 1 października. To drugi po Godzilli duży zestaw Ideas w tym roczniku.",
   "dla_rodzica": "Zestaw pod dorosłego widza serialu, nie pod dziecko — oznaczenie 18+ wynika ze skali budowy. Jako prezent działa wyłącznie wtedy, gdy obdarowany zna Downton Abbey; bez tego zostaje duży budynek bez kontekstu.",
-  "dla_afol": "Ceny w złotych nie ma jeszcze ani w naszym katalogu, ani w feedach, ani w danych Brickset dla żadnego rynku, więc progu zakupu nie policzymy. StoneWars pisze, że zestaw wypadł taniej, niż się spodziewano — sprawdzimy to, gdy pojawi się konkretna kwota, bo przy 4711 elementach o opłacalności decyduje kilkadziesiąt groszy na elemencie. Trzynaście minifigurek w jednym pudełku to dużo jak na Ideas i część wartości siedzi właśnie tam."
+  "dla_afol": "LEGO podało cenę: 299,99 EUR. W złotych jeszcze jej nie ma — ani w naszym katalogu, ani w feedach. Przy przeliczniku rocznika 2026 (4,22) wypadłoby to około 1270 zł; to nasze oszacowanie, nie cena producenta. Przy 4711 elementach daje to jakieś 0,27 zł za element — i to tłumaczy, dlaczego StoneWars pisał, że zestaw wypadł taniej, niż się spodziewano: duże licencjonowane Ideas potrafią kosztować wyraźnie więcej za element. Trzynaście minifigurek w jednym pudełku to dużo jak na tę linię i część wartości siedzi właśnie tam."
+ },
+ "10371": {
+  "nazwa": "Przytulne rośliny",
+  "seria": "Botanicals",
+  "cena_katalogowa": null,
+  "elementy": 248,
+  "wiek": "18+",
+  "premiera": "2026-11",
+  "opis": "Trzeci zestaw roślinny z linii Botanicals w tym roczniku — 248 elementów, start 1 listopada. Numer był zarezerwowany w katalogu od sierpnia jako pusty rekord; nazwa, liczba elementów i cena pojawiły się 11 września.",
+  "dla_rodzica": "Niedrogi zestaw z linii dla dorosłych — oznaczenie 18+ dotyczy charakteru modelu, nie trudności. Sprawdza się jako drobny prezent dla kogoś, kto lubi rośliny doniczkowe, ale nie ma warunków, żeby je utrzymać przy życiu.",
+  "dla_afol": "LEGO podało 19,99 EUR; ceny w złotych jeszcze nie ma ani w naszym katalogu, ani w feedach. Przy przeliczniku rocznika 2026 (4,22) wypadłoby to około 85 zł — to nasze oszacowanie, nie cena producenta. Przy 248 elementach mówimy o najtańszej półce Botanicals, więc o wartości decyduje raczej sam motyw niż cena za element.",
+  "oferty": []
  }
 }

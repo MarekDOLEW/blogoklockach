@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-11",
+  "data_aktualizacji": "2026-09-12",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1171,
+  "liczba_setow": 1172,
   "sety": [
     "10280",
     "10281",
@@ -47,6 +47,7 @@
     "10368",
     "10369",
     "10370",
+    "10371",
     "10372",
     "10374",
     "10412",
@@ -1222,12 +1223,6 @@
       "nazwa": "Zestaw swiateczny / zimowa wioska (Icons)",
       "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna nazwe, cene i karte PL",
       "premiera": "2026-10"
-    },
-    {
-      "numer": "10371",
-      "nazwa": "nieujawniony zestaw Botanicals",
-      "premiera": null,
-      "status": "NOWE 2026-08-22: numer zarezerwowany w Brickset (rocznik 2026), karta bez nazwy, liczby elementów i ceny. Czekamy na ujawnienie."
     },
     {
       "numer": "10481",
@@ -5898,5 +5893,13 @@
     "40899": "Dostal 276 elementow i date startu — to pelnoprawny zestaw, nie gratis. Nazwy nadal brak.",
     "nowe_zapowiedzi_jedno_zrodlo": "11388 jako Wenecja (blisko 5700 el., listopad) i 11390 jako Dragon Ball Shenlong (listopad). Oba tylko ze StoneWars, oba z pustymi rekordami w Brickset. Nie publikowac.",
     "gdyby_sie_potwierdzilo": "Dragon Ball bylby trzecia nowa licencja w ciagu trzech tygodni, po PlayStation i Zeldzie. To by juz byl wzorzec, a nie zbieg okolicznosci — ale na razie to jedno zdanie w jednym serwisie."
-  }
+  },
+  "przeglad_2026_09_12": {
+    "21373_cena": "Brickset dodal 11.09 cene 299,99 EUR. Wczoraj pisalem, ze ceny nie ma na zadnym rynku — jest od wczoraj wieczorem. Tekst dla AFOL uzupelniony: 0,27 zl za element po przeliczniku rocznika, co potwierdza opinie StoneWars, ze zestaw wypadl taniej niz oczekiwano. Cena w zl nadal nieznana, cena_katalogowa zostaje null.",
+    "10371": "Rezerwacja Botanicals z 22.08 ujawniona: 'Cosy Plants', 248 elementow, 19,99 EUR, start 2026-11-01. Potwierdzone przez Brickset i StoneWars. Dodany do sety.json, zdjety ze sledzonych.",
+    "minecraft_nie_nasza_robota": "Brickset odswiezyl 11.09 caly blok Minecraft rocznika 2026. Cztery numery (21583-21586) i polybag 30732 nie mialy u nas opisu, ale NIE SA nowosciami — sa w katalog.json z polskimi cenami, ze statusem 'dostepny', i siedza w kolejce redakcyjnej (sprawdzone: wszystkie cztery sa w arkuszu). Opisze je sesja redakcyjna wedlug kolejnosci cenowej. Scout ich nie dubluje.",
+    "odsiane": "67019 i 67020 (Marvel 2027) — numery z zakresu 67xxx, ktory w calym roczniku 2027 ma kategorie 'Extended' (BrickLink Designer Program i promocje). Tu przyszly z '{t.b.a.}', ale to ta sama rodzina.",
+    "bez_zmian": "11388 (Wenecja), 11390 (Dragon Ball), 40899 (Astro Bot), plytka 1,5 wypustki — zadne ze zrodel nic nowego nie podalo. Statusy zostaja."
+  },
+  "granica_scout_redakcja": "Ustalone 2026-09-12. Zestaw, ktory ma juz polska cene i status 'dostepny' w katalog.json, NIE jest nowoscia dla Scouta, nawet jesli Brickset wlasnie odswiezyl jego rekord i nie ma go w sety.json. Takie pozycje sa w kolejce redakcyjnej i opisuje je sesja redakcyjna. Scout dopisuje do sety.json wylacznie zestawy, ktorych kolejka nie widzi: zapowiedzi, premiery bez ceny w zl, nowe licencje. Inaczej dwie sesje pisza to samo."
 }
