@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-11",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-11 00:30 CEST); Allegro WROCILO po migracji feedow - nowy feed kategorii Dziecko (~5600 setow LEGO) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-12",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-12 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -198,8 +198,8 @@
  "72154": {
   "nazwa": "Kultowy Pokéball z Trenerami",
   "cena_katalogowa": 1129.99,
-  "najnizsza_cena": 1129.07,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 1128.43,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "42238": {
@@ -324,8 +324,8 @@
  "42239": {
   "nazwa": "Batmobile Tumbler",
   "cena_katalogowa": 819.99,
-  "najnizsza_cena": 579.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 579.0,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "75454": {
@@ -345,8 +345,8 @@
  "11383": {
   "nazwa": "Rezydencja burmistrzyni",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 358.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 357.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "43031": {
@@ -695,8 +695,8 @@
  "31387": {
   "nazwa": "Legendarny statek piracki",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 298.95,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 289.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76477": {
@@ -1066,9 +1066,9 @@
  "42694": {
   "nazwa": "Furgonetka z pizzą",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.97,
-  "najnizsza_data": "2026-08-19",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 43.94,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42697": {
   "nazwa": "Kreatywna walizka z domkiem dla lalek",
@@ -1192,8 +1192,8 @@
  "76352": {
   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 385.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 385.34,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "43294": {
@@ -1234,16 +1234,16 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 344.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 344.34,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76340": {
   "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 109.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 105.0,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "11045": {
   "nazwa": "Kreatywne kolorowe klocki",
@@ -1360,16 +1360,16 @@
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 204.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 204.34,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 109.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 103.38,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "77981": {
   "nazwa": "Welociraptor, stegozaur i pteranodon — Centrum ratunkowe",
@@ -1402,8 +1402,8 @@
  "76788": {
   "nazwa": "Akademia Nevermore",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 299.07,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 298.43,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "10464": {
@@ -1730,8 +1730,8 @@
  "11378": {
   "nazwa": "Samolot pasażerski Douglas DC-3 PAN AM",
   "cena_katalogowa": 949.99,
-  "najnizsza_cena": 949.95,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 949.94,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "11371": {
@@ -2017,8 +2017,8 @@
  "10323": {
   "nazwa": "Automat do gry PAC-MAN",
   "cena_katalogowa": 1149.99,
-  "najnizsza_cena": 989.0,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 969.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "10354": {
@@ -2129,8 +2129,8 @@
  "42156": {
   "nazwa": "PEUGEOT 9X8 24H Le Mans Hybrid Hypercar",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 753.9,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 752.9,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76435": {
@@ -2150,9 +2150,9 @@
  "10428": {
   "nazwa": "Duży interaktywny pociąg miejski",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 439.0,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 417.4,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71822": {
   "nazwa": "Smoczyca źródła ruchu",
@@ -2269,9 +2269,9 @@
  "42211": {
   "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
   "cena_katalogowa": 439.99,
-  "najnizsza_cena": 292.17,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 279.99,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "60361": {
   "nazwa": "Ekstremalne wyzwanie kaskaderskie",
@@ -2430,8 +2430,8 @@
  "71813": {
   "nazwa": "Dojo cienia Wilczej Maski",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 448.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 446.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "42141": {
@@ -2514,9 +2514,9 @@
  "42176": {
   "nazwa": "Samochód wyścigowy Porsche GT4 e-Performance",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 515.59,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 510.0,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "76419": {
   "nazwa": "Zamek Hogwart i błonia",
@@ -2724,8 +2724,8 @@
  "41729": {
   "nazwa": "Sklep spożywczy z żywnością ekologiczną",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 328.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 327.89,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "75379": {
@@ -2948,8 +2948,8 @@
  "71844": {
   "nazwa": "Pojazd bojowy ninja",
   "cena_katalogowa": 399.99,
-  "najnizsza_cena": 297.0,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 296.9,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "42619": {
@@ -3060,8 +3060,8 @@
  "10353": {
   "nazwa": "Williams Racing FW14B i Nigel Mansell",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 195.95,
-  "najnizsza_data": "2026-09-06",
+  "najnizsza_cena": 195.9,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "75408": {
@@ -3333,8 +3333,8 @@
  "40957": {
   "nazwa": "Wiosenny wieniec",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 183.98,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 183.49,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "42663": {
@@ -3347,9 +3347,9 @@
  "76341": {
   "nazwa": "Groot w stroju Ravagera",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 179.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 149.0,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "21268": {
   "nazwa": "Dom prosiaczka",
@@ -3487,8 +3487,8 @@
  "40879": {
   "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 187.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 187.98,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "40524": {
@@ -4117,9 +4117,9 @@
  "71866": {
   "nazwa": "Ozdoba z postaciami Ninja – 15-lecie",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 114.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 114.96,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "60451": {
   "nazwa": "Karetka pogotowia",
@@ -4299,8 +4299,8 @@
  "75405": {
   "nazwa": "Krążownik typu Home One",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 187.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 184.96,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "10776": {
@@ -4348,8 +4348,8 @@
  "10433": {
   "nazwa": "Peppa Pig Urodzinowy domek Peppy",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 159.45,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 154.45,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "71838": {
@@ -4558,8 +4558,8 @@
  "60505": {
   "nazwa": "Zestaw z samolotem, ciężarówką serwisową i poduszkowcem",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 199.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 198.0,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "43286": {
@@ -4628,9 +4628,9 @@
  "10370": {
   "nazwa": "Botanicals Gwiazda Betlejemska",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 194.15,
-  "najnizsza_data": "2026-09-09",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 194.14,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "allegro"
  },
  "42672": {
   "nazwa": "Kreatywna walizka plażowa",
@@ -4649,8 +4649,8 @@
  "21365": {
   "nazwa": "Papużki nierozłączki",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 209.8,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 203.5,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "77245": {
@@ -4754,8 +4754,8 @@
  "76343": {
   "nazwa": "Epicka bitwa: Hulkbuster kontra Hulk",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 154.38,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 154.36,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "40867": {
@@ -4845,8 +4845,8 @@
  "10313": {
   "nazwa": "Botanicals Bukiet z polnych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 173.39,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 173.3,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "60479": {
@@ -5020,8 +5020,8 @@
  "10914": {
   "nazwa": "Pudełko z klockami Deluxe",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 136.52,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 136.29,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "75439": {
@@ -5083,8 +5083,8 @@
  "75420": {
   "nazwa": "SMART Play: Śmigacz Luke'a",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 120.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 116.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "40570": {
@@ -5440,9 +5440,9 @@
  "76463": {
   "nazwa": "Zamek Hogwart: skrzydło szpitalne",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 314.98,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 292.16,
+  "najnizsza_data": "2026-09-12",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76460": {
   "nazwa": "Zamek Hogwart: Ceremonia przydziału",
@@ -5699,8 +5699,8 @@
  "71422": {
   "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 122.79,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 122.78,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "31150": {
@@ -5874,8 +5874,8 @@
  "60466": {
   "nazwa": "Żółty buldożer",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 177.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 173.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "60490": {
@@ -6273,15 +6273,15 @@
  "60426": {
   "nazwa": "Terenówka badacza dżungli",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 126.8,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 125.15,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "43288": {
   "nazwa": "Doniczka Sally",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 145.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 136.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76418": {
@@ -6308,8 +6308,8 @@
  "21357": {
   "nazwa": "Disney Pixar Luxo Jr.",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 204.98,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 200.0,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76919": {
@@ -6504,8 +6504,8 @@
  "76333": {
   "nazwa": "Batmobil z filmu Batman i Robin",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 154.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 154.0,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "76420": {
@@ -6728,8 +6728,8 @@
  "75424": {
   "nazwa": "SMART Play: Atak AT-ST na Endor",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 159.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 158.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "40573": {
@@ -7148,8 +7148,8 @@
  "10342": {
   "nazwa": "Piękny bukiet różowych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 178.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 175.0,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "42650": {
@@ -7568,8 +7568,8 @@
  "42614": {
   "nazwa": "Sklep z używaną odzieżą",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 125.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 124.99,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "60312": {
@@ -7785,8 +7785,8 @@
  "42652": {
   "nazwa": "Spotkanie w domku na Drzewie Przyjaźni",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 219.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 218.94,
+  "najnizsza_data": "2026-09-12",
   "najnizsza_sklep": "allegro"
  },
  "40809": {
