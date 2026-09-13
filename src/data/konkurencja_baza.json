@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-12",
-    "przebieg": "scheduled 2026-09-12 08:00",
+    "ostatnia_aktualizacja": "2026-09-13",
+    "przebieg": "scheduled 2026-09-13 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,11 +10,12 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 152,
+    "liczba_wpisow": 154,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
-      "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich."
+      "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich.",
+      "2026-09-13": "Spokojna niedziela: dwie publikacje, obie fanklockow, faniklockow zero. GODZILLA 21375 - kolejne sprawdzenie ceny katalogowej: porownywarki nadal NIE MAJA tego numeru w indeksie. Jedyna kwota w obiegu to 'ok. 1700 zl' z faniklockow, oznaczone przez nich jako szacunek. Stan na 13.09: 75 dni do premiery, 53 dni do otwarcia okna publikacji tekstu o Black Friday (05.11). Jesli ceny nie bedzie do konca pazdziernika, tekst trzeba napisac bez niej - z jawnym powiedzeniem, ze producent jej nie podal, co samo w sobie jest informacja zakupowa przy premierze w dniu BF."
     }
   },
   "publikacje": [
@@ -1830,6 +1831,28 @@
         "Media Expert"
       ],
       "notatki": "Wpis zbiorczy, dwa zestawy. Obie pozycje ogrywane wielokrotnie (Venator po raz osmy, Shire po trzynasty)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: LEGO 75454 AT-AT Resztek Imperium i INT-4",
+      "url": "https://fanklockow.pl/recenzja-lego-75454-at-at-resztek-imperium/",
+      "data_publikacji": "2026-09-13",
+      "data_wykrycia": "2026-09-13",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Sprawdzone: 75454 mamy obsluzony w pelni - katalog (689,99 zl, Star Wars, dostepny), sety.json z 1453 elementami i personami, karta Piotra, hub z oferta 531,99 u Media Expert (23% ponizej cennika). Zadnej luki. Format wideo - nie gonimy, mamy piec recenzji tekstowych i to inna droga: ich recenzja ocenia budowanie, nasza konczy sie progiem zakupu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Angel wybrany!",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-13-wrzesnia-2026/",
+      "data_publikacji": "2026-09-13",
+      "data_wykrycia": "2026-09-13",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny skrot popkulturowy, nie material o klockach."
     }
   ],
   "obserwacje_strategiczne": {
