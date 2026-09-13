@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "aktualizacja": "2026-09-06",
+    "aktualizacja": "2026-09-13",
     "zrodla": [
       "brickset.com (theme Ideas)",
       "lego.com",
@@ -28,7 +28,8 @@
       "lego.com/pl-pl (cena katalogowa 75639)",
       "promoklocki.pl (weryfikacja ceny katalogowej 75639)",
       "brickset.com + metryki P07 (DREAMZzz, Sonic 77117/77118, Gabi 11215 – elementy Brickset, RRP Piotr po kalibracji mnożnikiem)",
-      "metryki P07 partia 6 (Zelda, Shrek, Looney Tunes, Nike x LEGO, polybagi) – elementy Brickset, RRP Piotr po kalibracji mnożnikiem"
+      "metryki P07 partia 6 (Zelda, Shrek, Looney Tunes, Nike x LEGO, polybagi) – elementy Brickset, RRP Piotr po kalibracji mnożnikiem",
+      "lego.com/pl-pl (statusy 593 zestawow z przegladarki, availabilityStatus, 13.09.2026)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. 2026-08-25: ceny katalogowe zsynchronizowane ze zrodlami zweryfikowanymi (sety.json, ceny_baza.json) - 22 poprawki; 31161/42686/76321 potwierdzone na lego.pl. Backfill RRP dla setow spoza tych zrodel bywa zawyzony, kontrola: node scripts/kontrola-rrp.mjs.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
@@ -60,8 +61,8 @@
       "sprawdzone": "2026-09-04, zaktualizowane 2026-09-07",
       "opis": "Weryfikacja pazdziernikowej fali premier. Wiekszosc pozycji zostala w miedzyczasie ROZSTRZYGNIETA przez inne sesje - zostawiam slad, bo pokazuje, co przyszlo z jakiego zrodla.",
       "rozstrzygniete": {
-        "40862, 40865, 40866, 40875": "Ceny potwierdzone 06.09 z kart redakcyjnych Piotra i zapisane w rrp_potwierdzone.json (54,99 / 169,99 / 124,99 / 249,99 zl). Sporna liczba elementow 40865 (713 vs 719) rozstrzygnieta na 713 - Brickset i metryka karty zgodne.",
-        "11379": "Nazwa i parametry potwierdzone 07.09 na Bricksecie: 'Bookshop: Book Nook', Icons, 1690 el., 18+, premiera 01.10. Sprzeczna kwota 559,96 zl faktycznie nie byla cena katalogowa. Cena PL wciaz nieogloszona."
+        "11379": "Nazwa i parametry potwierdzone 07.09 na Bricksecie: 'Bookshop: Book Nook', Icons, 1690 el., 18+, premiera 01.10. Sprzeczna kwota 559,96 zl faktycznie nie byla cena katalogowa. Cena PL wciaz nieogloszona.",
+        "40862, 40865, 40866, 40875": "Ceny potwierdzone 06.09 z kart redakcyjnych Piotra i zapisane w rrp_potwierdzone.json (54,99 / 169,99 / 124,99 / 249,99 zl). Sporna liczba elementow 40865 (713 vs 719) rozstrzygnieta na 713 - Brickset i metryka karty zgodne."
       },
       "wciaz_otwarte": {
         "11379": "cena katalogowa w zlotych - LEGO nie ogloszilo, mamy tylko 129,99 EUR",
@@ -80,9 +81,9 @@
         "76328"
       ],
       "nie_dodane": {
-        "76302": "Mech Supermana kontra Lex Luthor (120 el., 64,99 zl) - to zestaw Supermana, nie Batmana. Katalog nie ma serii DC ani Superman, a wrzucenie go pod 'Batman' bylo by blednym oznaczeniem. Decyzja o zalozeniu serii nalezy do Zwiadowcy.",
+        "30726": "polybag, gratis Batman Day - nie ma ceny detalicznej, wiec nie wchodzi do katalogu.",
         "40859": "Figurki Supermana i Batmana ze Zlotej Ery - jest w sety.json jako BrickHeadz z ekskluzywna dystrybucja LEGO.com. Zostaje tam, gdzie jest.",
-        "30726": "polybag, gratis Batman Day - nie ma ceny detalicznej, wiec nie wchodzi do katalogu."
+        "76302": "Mech Supermana kontra Lex Luthor (120 el., 64,99 zl) - to zestaw Supermana, nie Batmana. Katalog nie ma serii DC ani Superman, a wrzucenie go pod 'Batman' bylo by blednym oznaczeniem. Decyzja o zalozeniu serii nalezy do Zwiadowcy."
       },
       "anomalie_feedu_do_sprawdzenia_przez_Lowce": {
         "76328": "empik podaje 45,00 zl za zestaw 1822-elementowy o cenie katalogowej 649,99 - to niemal na pewno zly rekord w feedzie.",
@@ -113,7 +114,8 @@
         "76274"
       ],
       "uwaga_o_zrodlach": "Szeroka zapytanie do wyszukiwarki podalo 76303 jako 279,99 zl i 76331/76332 jako 294,99 zl. Punktowa weryfikacja kazdego numeru z osobna potwierdzila NASZE dane: 76303 = 249,99, 76332 = 124,99 przy 330 elementach. Wniosek na przyszlosc: przy cenach ufamy zapytaniom o pojedynczy numer, nie zbiorczym podsumowaniom listingow."
-    }
+    },
+    "audyt_2026_09_13": "Weryfikacja statusow na lego.com: 224 zestawy R_RETIRED przestawione na eol, 71 z E_AVAILABLE/backorder przestawione na dostepny, 49 z kiedy=wycofany na liscie wycofan dostaly eol (LEGO: Wyprzedane). Pole status_zrodlo mowi skad status. Raport: materialy/audyt-wycofan-2026-09-13.md"
   },
   "Ideas": [
     {
@@ -482,8 +484,9 @@
       "nazwa": "Gwiaździsta noc (van Gogh)",
       "rok": 2022,
       "elementy": 2316,
-      "status": "eol",
-      "cena_katalogowa": 729.99
+      "status": "dostepny",
+      "cena_katalogowa": 729.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21334",
@@ -548,8 +551,9 @@
       "nazwa": "BTS Dynamite",
       "rok": 2023,
       "elementy": 749,
-      "status": "dostepny",
-      "cena_katalogowa": 439.99
+      "status": "eol",
+      "cena_katalogowa": 439.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21340",
@@ -564,8 +568,9 @@
       "nazwa": "Hokus Pokus: chata sióstr Sanderson",
       "rok": 2023,
       "elementy": 2316,
-      "status": "eol",
-      "cena_katalogowa": 999.99
+      "status": "dostepny",
+      "cena_katalogowa": 999.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: H_OUT_OF_STOCK (Chwilowo niedostępne)"
     },
     {
       "numer": "21342",
@@ -588,8 +593,9 @@
       "nazwa": "Orient Express",
       "rok": 2023,
       "elementy": 2540,
-      "status": "dostepny",
-      "cena_katalogowa": 1299.99
+      "status": "eol",
+      "cena_katalogowa": 1299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40595",
@@ -620,8 +626,9 @@
       "nazwa": "Czerwona londyńska budka telefoniczna",
       "rok": 2024,
       "elementy": 1460,
-      "status": "dostepny",
-      "cena_katalogowa": 519.99
+      "status": "eol",
+      "cena_katalogowa": 519.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21348",
@@ -636,8 +643,9 @@
       "nazwa": "Kot w smokingu",
       "rok": 2024,
       "elementy": 1710,
-      "status": "eol",
-      "cena_katalogowa": 419.99
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21350",
@@ -652,24 +660,27 @@
       "nazwa": "Miasteczko Halloween (Nightmare Before Christmas)",
       "rok": 2024,
       "elementy": 2193,
-      "status": "eol",
-      "cena_katalogowa": 869.99
+      "status": "dostepny",
+      "cena_katalogowa": 869.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21352",
       "nazwa": "Magia Disneya",
       "rok": 2024,
       "elementy": 1103,
-      "status": "eol",
-      "cena_katalogowa": 419.99
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21353",
       "nazwa": "Ogród botaniczny",
       "rok": 2024,
       "elementy": 3792,
-      "status": "eol",
-      "cena_katalogowa": 1399.99
+      "status": "dostepny",
+      "cena_katalogowa": 1399.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40698",
@@ -692,8 +703,9 @@
       "nazwa": "Ewolucja przedmiotów ścisłych",
       "rok": 2025,
       "elementy": 879,
-      "status": "eol",
-      "cena_katalogowa": 339.99
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21356",
@@ -716,8 +728,9 @@
       "nazwa": "Maszyna z minifigurkami",
       "rok": 2025,
       "elementy": 1343,
-      "status": "eol",
-      "cena_katalogowa": 729.99
+      "status": "dostepny",
+      "cena_katalogowa": 729.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21359",
@@ -732,8 +745,9 @@
       "nazwa": "Willy Wonka i fabryka czekolady",
       "rok": 2025,
       "elementy": 2025,
-      "status": "eol",
-      "cena_katalogowa": 949.99
+      "status": "dostepny",
+      "cena_katalogowa": 949.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21361",
@@ -1253,8 +1267,9 @@
       "nazwa": "Queer Eye - Mieszkanie Fab Five",
       "rok": 2021,
       "elementy": 974,
-      "status": "dostepny",
-      "cena_katalogowa": 479.99
+      "status": "eol",
+      "cena_katalogowa": 479.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10292",
@@ -1277,8 +1292,9 @@
       "nazwa": "Titanic",
       "rok": 2021,
       "elementy": 9090,
-      "status": "eol",
-      "cena_katalogowa": 2899.99
+      "status": "dostepny",
+      "cena_katalogowa": 2899.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10295",
@@ -1309,8 +1325,9 @@
       "nazwa": "Każdy jest wspaniały",
       "rok": 2021,
       "elementy": 346,
-      "status": "eol",
-      "cena_katalogowa": 144.99
+      "status": "dostepny",
+      "cena_katalogowa": 144.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10297",
@@ -1389,8 +1406,9 @@
       "nazwa": "Wieża Eiffla",
       "rok": 2022,
       "elementy": 10001,
-      "status": "eol",
-      "cena_katalogowa": 2699.99
+      "status": "dostepny",
+      "cena_katalogowa": 2699.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10308",
@@ -1405,8 +1423,9 @@
       "nazwa": "Sukulenty",
       "rok": 2022,
       "elementy": 771,
-      "status": "eol",
-      "cena_katalogowa": 209.99
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10311",
@@ -1493,8 +1512,9 @@
       "nazwa": "Władca Pierścieni: Rivendell",
       "rok": 2023,
       "elementy": 6167,
-      "status": "eol",
-      "cena_katalogowa": 2149.99
+      "status": "dostepny",
+      "cena_katalogowa": 2149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10317",
@@ -1541,8 +1561,9 @@
       "nazwa": "Górska chata",
       "rok": 2023,
       "elementy": 1517,
-      "status": "dostepny",
-      "cena_katalogowa": 439.99
+      "status": "eol",
+      "cena_katalogowa": 439.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40580",
@@ -1589,8 +1610,9 @@
       "nazwa": "Muzeum historii naturalnej (modular)",
       "rok": 2024,
       "elementy": 4014,
-      "status": "eol",
-      "cena_katalogowa": 1299.99
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10327",
@@ -1629,7 +1651,7 @@
       "nazwa": "Zimorodek",
       "rok": 2024,
       "elementy": 834,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 209.99
     },
     {
@@ -1661,8 +1683,9 @@
       "nazwa": "Endurance",
       "rok": 2024,
       "elementy": 3011,
-      "status": "eol",
-      "cena_katalogowa": 1149.99
+      "status": "dostepny",
+      "cena_katalogowa": 1149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10337",
@@ -1693,8 +1716,9 @@
       "nazwa": "Wieniec",
       "rok": 2024,
       "elementy": 1194,
-      "status": "eol",
-      "cena_katalogowa": 419.99
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10341",
@@ -1781,8 +1805,9 @@
       "nazwa": "Sherlock Holmes: Book nook",
       "rok": 2025,
       "elementy": 1359,
-      "status": "eol",
-      "cena_katalogowa": 519.99
+      "status": "dostepny",
+      "cena_katalogowa": 519.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10352",
@@ -1845,7 +1870,7 @@
       "nazwa": "Fontanna w ogrodzie",
       "rok": 2025,
       "elementy": 1302,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 419.99
     },
     {
@@ -1869,7 +1894,7 @@
       "nazwa": "Francuska kawiarenka",
       "rok": 2025,
       "elementy": 1101,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 339.99
     },
     {
@@ -2823,8 +2848,9 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2020,
       "elementy": 335,
-      "status": "dostepny",
-      "cena_katalogowa": 139.99
+      "status": "eol",
+      "cena_katalogowa": 139.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "30392",
@@ -3047,16 +3073,18 @@
       "nazwa": "Ministerstwo Magii",
       "rok": 2022,
       "elementy": 990,
-      "status": "dostepny",
-      "cena_katalogowa": 479.99
+      "status": "eol",
+      "cena_katalogowa": 479.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76404",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2022,
       "elementy": 334,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76405",
@@ -3175,8 +3203,9 @@
       "nazwa": "Quidditch – kufer",
       "rok": 2023,
       "elementy": 599,
-      "status": "dostepny",
-      "cena_katalogowa": 309.99
+      "status": "eol",
+      "cena_katalogowa": 309.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76417",
@@ -3191,8 +3220,9 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2023,
       "elementy": 227,
-      "status": "dostepny",
-      "cena_katalogowa": 174.99
+      "status": "eol",
+      "cena_katalogowa": 174.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76419",
@@ -3207,8 +3237,9 @@
       "nazwa": "Turniej Trójmagiczny: Jezioro Hogwartu",
       "rok": 2023,
       "elementy": 349,
-      "status": "dostepny",
-      "cena_katalogowa": 199.99
+      "status": "eol",
+      "cena_katalogowa": 199.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76421",
@@ -3287,7 +3318,7 @@
       "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
       "rok": 2024,
       "elementy": 337,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 89.99
     },
     {
@@ -3319,7 +3350,7 @@
       "nazwa": "Mówiąca Tiara Przydziału",
       "rok": 2024,
       "elementy": 561,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 419.99
     },
     {
@@ -3351,8 +3382,9 @@
       "nazwa": "Mandragora",
       "rok": 2024,
       "elementy": 579,
-      "status": "dostepny",
-      "cena_katalogowa": 309.99
+      "status": "eol",
+      "cena_katalogowa": 309.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76434",
@@ -3367,7 +3399,7 @@
       "nazwa": "Zamek Hogwart: Wielka Sala",
       "rok": 2024,
       "elementy": 1732,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 869.99
     },
     {
@@ -3375,8 +3407,9 @@
       "nazwa": "Nora – edycja kolekcjonerska",
       "rok": 2024,
       "elementy": 2405,
-      "status": "eol",
-      "cena_katalogowa": 1129.99
+      "status": "dostepny",
+      "cena_katalogowa": 1129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "76438",
@@ -3391,16 +3424,18 @@
       "nazwa": "Sklepy Ollivandera i Madame Malkin",
       "rok": 2024,
       "elementy": 744,
-      "status": "dostepny",
-      "cena_katalogowa": 399.99
+      "status": "eol",
+      "cena_katalogowa": 399.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76440",
       "nazwa": "Turniej Trójmagiczny: Przybycie",
       "rok": 2024,
       "elementy": 1229,
-      "status": "dostepny",
-      "cena_katalogowa": 619.99
+      "status": "eol",
+      "cena_katalogowa": 619.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "30706",
@@ -3431,8 +3466,9 @@
       "nazwa": "Zamek Hogwart: Klub pojedynków",
       "rok": 2025,
       "elementy": 158,
-      "status": "dostepny",
-      "cena_katalogowa": 109.99
+      "status": "eol",
+      "cena_katalogowa": 109.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76442",
@@ -3447,7 +3483,7 @@
       "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
       "rok": 2025,
       "elementy": 617,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 219.99
     },
     {
@@ -3479,15 +3515,16 @@
       "nazwa": "Zamek Hogwart: lekcja latania na miotle",
       "rok": 2025,
       "elementy": 651,
-      "status": "eol",
-      "cena_katalogowa": 339.99
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "76448",
       "nazwa": "Fawkes: feniks Dumbledore'a",
       "rok": 2025,
       "elementy": 299,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 81.99
     },
     {
@@ -3527,7 +3564,7 @@
       "nazwa": "Dwór Malfoyów",
       "rok": 2025,
       "elementy": 1601,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 649.99
     },
     {
@@ -3543,8 +3580,9 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2025",
       "rok": 2025,
       "elementy": 278,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76457",
@@ -3559,8 +3597,9 @@
       "nazwa": "Rodzina testrali",
       "rok": 2025,
       "elementy": 548,
-      "status": "eol",
-      "cena_katalogowa": 299.99
+      "status": "dostepny",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "30724",
@@ -10047,8 +10086,9 @@
       "nazwa": "Diorama: Szturm na Gwiazdę Śmierci",
       "rok": 2022,
       "elementy": 665,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75330",
@@ -10079,7 +10119,7 @@
       "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
       "rok": 2022,
       "elementy": 282,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 144.99
     },
     {
@@ -10327,7 +10367,7 @@
       "nazwa": "Zestaw bitewny – żołnierze-klony z 501. legionu",
       "rok": 2023,
       "elementy": 119,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 81.99
     },
     {
@@ -10343,7 +10383,7 @@
       "nazwa": "Bombowiec TIE",
       "rok": 2023,
       "elementy": 625,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 274.99
     },
     {
@@ -10351,8 +10391,9 @@
       "nazwa": "Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor",
       "rok": 2023,
       "elementy": 957,
-      "status": "dostepny",
-      "cena_katalogowa": 439.99
+      "status": "eol",
+      "cena_katalogowa": 439.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75349",
@@ -10415,7 +10456,7 @@
       "nazwa": "Gwiezdny superniszczyciel typu Executor",
       "rok": 2023,
       "elementy": 630,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 299.99
     },
     {
@@ -10431,8 +10472,9 @@
       "nazwa": "Świątynia Jedi na Tenoo",
       "rok": 2023,
       "elementy": 124,
-      "status": "dostepny",
-      "cena_katalogowa": 184.99
+      "status": "eol",
+      "cena_katalogowa": 184.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75359",
@@ -10479,8 +10521,9 @@
       "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
       "rok": 2023,
       "elementy": 1056,
-      "status": "dostepny",
-      "cena_katalogowa": 469.99
+      "status": "eol",
+      "cena_katalogowa": 469.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75365",
@@ -10535,8 +10578,9 @@
       "nazwa": "Chewbacca",
       "rok": 2023,
       "elementy": 2319,
-      "status": "dostepny",
-      "cena_katalogowa": 929.99
+      "status": "eol",
+      "cena_katalogowa": 929.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "912302",
@@ -10783,7 +10827,7 @@
       "nazwa": "Zasadzka na Mandalorze – zestaw bitewny",
       "rok": 2024,
       "elementy": 109,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 89.99
     },
     {
@@ -10791,8 +10835,9 @@
       "nazwa": "Onyx Cinder",
       "rok": 2024,
       "elementy": 1325,
-      "status": "dostepny",
-      "cena_katalogowa": 619.99
+      "status": "eol",
+      "cena_katalogowa": 619.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75375",
@@ -10807,8 +10852,9 @@
       "nazwa": "Tantive IV",
       "rok": 2024,
       "elementy": 654,
-      "status": "dostepny",
-      "cena_katalogowa": 349.99
+      "status": "eol",
+      "cena_katalogowa": 349.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75377",
@@ -10823,8 +10869,9 @@
       "nazwa": "Ucieczka na śmigaczu BARC",
       "rok": 2024,
       "elementy": 221,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75379",
@@ -10839,8 +10886,9 @@
       "nazwa": "Diorama: Wyścig ścigaczy w Mos Espa",
       "rok": 2024,
       "elementy": 718,
-      "status": "dostepny",
-      "cena_katalogowa": 349.99
+      "status": "eol",
+      "cena_katalogowa": 349.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75381",
@@ -10855,8 +10903,9 @@
       "nazwa": "TIE Interceptor",
       "rok": 2024,
       "elementy": 1931,
-      "status": "eol",
-      "cena_katalogowa": 999.99
+      "status": "dostepny",
+      "cena_katalogowa": 999.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75383",
@@ -10871,8 +10920,9 @@
       "nazwa": "Karmazynowy Jastrząb",
       "rok": 2024,
       "elementy": 136,
-      "status": "dostepny",
-      "cena_katalogowa": 249.99
+      "status": "eol",
+      "cena_katalogowa": 249.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75385",
@@ -10903,7 +10953,7 @@
       "nazwa": "Myśliwiec rycerza Jedi Boba",
       "rok": 2024,
       "elementy": 305,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 169.99
     },
     {
@@ -10927,7 +10977,7 @@
       "nazwa": "Mikromyśliwiec Y-Wing kapitana Rexa",
       "rok": 2024,
       "elementy": 99,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 54.99
     },
     {
@@ -10951,8 +11001,9 @@
       "nazwa": "Gwiezdny Niszczyciel Imperium",
       "rok": 2024,
       "elementy": 1555,
-      "status": "eol",
-      "cena_katalogowa": 729.99
+      "status": "dostepny",
+      "cena_katalogowa": 729.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75395",
@@ -10967,8 +11018,9 @@
       "nazwa": "Pustynna barka i jama sarlacca",
       "rok": 2024,
       "elementy": 558,
-      "status": "dostepny",
-      "cena_katalogowa": 349.99
+      "status": "eol",
+      "cena_katalogowa": 349.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75397",
@@ -11199,7 +11251,7 @@
       "nazwa": "Interceptor Jedi Ahsoki",
       "rok": 2025,
       "elementy": 290,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 189.99
     },
     {
@@ -11223,7 +11275,7 @@
       "nazwa": "Krążownik szturmowy typu Acclamator",
       "rok": 2025,
       "elementy": 450,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 209.99
     },
     {
@@ -11231,7 +11283,7 @@
       "nazwa": "Krążownik typu Home One",
       "rok": 2025,
       "elementy": 559,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 299.99
     },
     {
@@ -11239,8 +11291,9 @@
       "nazwa": "Wahadłowiec dowodzenia Kylo Rena",
       "rok": 2025,
       "elementy": 386,
-      "status": "eol",
-      "cena_katalogowa": 299.99
+      "status": "dostepny",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75407",
@@ -11311,8 +11364,9 @@
       "nazwa": "Hełm Kylo Rena",
       "rok": 2025,
       "elementy": 529,
-      "status": "eol",
-      "cena_katalogowa": 299.99
+      "status": "dostepny",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75416",
@@ -11335,40 +11389,45 @@
       "nazwa": "Kalendarz adwentowy na 2025 rok",
       "rok": 2025,
       "elementy": 263,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "75419",
       "nazwa": "Gwiazda Śmierci",
       "rok": 2025,
       "elementy": 9023,
-      "status": "eol",
-      "cena_katalogowa": 4199.99
+      "status": "dostepny",
+      "cena_katalogowa": 4199.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75428",
       "nazwa": "Droid bojowy z platformą STAP",
       "rok": 2025,
       "elementy": 1088,
-      "status": "eol",
-      "cena_katalogowa": 559.99
+      "status": "dostepny",
+      "cena_katalogowa": 559.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75429",
       "nazwa": "Hełm operatora AT-AT",
       "rok": 2025,
       "elementy": 730,
-      "status": "eol",
-      "cena_katalogowa": 339.99
+      "status": "dostepny",
+      "cena_katalogowa": 339.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75430",
       "nazwa": "Ewok Wicket",
       "rok": 2025,
       "elementy": 1010,
-      "status": "eol",
-      "cena_katalogowa": 519.99
+      "status": "dostepny",
+      "cena_katalogowa": 519.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "75431",
@@ -11407,8 +11466,9 @@
       "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
       "rok": 2025,
       "elementy": 976,
-      "status": "eol",
-      "cena_katalogowa": 649.99
+      "status": "dostepny",
+      "cena_katalogowa": 649.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "912501",
@@ -13027,9 +13087,10 @@
       "nazwa": "EWA i WALL-E",
       "rok": 2023,
       "elementy": 155,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 81.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40620",
@@ -13196,8 +13257,9 @@
       "nazwa": "Stitch",
       "rok": 2024,
       "elementy": 152,
-      "status": "eol",
-      "cena_katalogowa": 54.99
+      "status": "dostepny",
+      "cena_katalogowa": 54.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40675",
@@ -13258,8 +13320,9 @@
       "nazwa": "Radość, Smutek i Spina",
       "rok": 2024,
       "elementy": 300,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40750",
@@ -13284,8 +13347,9 @@
       "nazwa": "Carl, Russell i Kevin",
       "rok": 2024,
       "elementy": 308,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40753",
@@ -13308,8 +13372,9 @@
       "nazwa": "Czara Ognia – figurki",
       "rok": 2025,
       "elementy": 671,
-      "status": "eol",
-      "cena_katalogowa": 209.99
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40792",
@@ -13337,8 +13402,9 @@
       "nazwa": "Luke Skywalker (pilot Rebelii)",
       "rok": 2025,
       "elementy": 138,
-      "status": "eol",
-      "cena_katalogowa": 54.99
+      "status": "dostepny",
+      "cena_katalogowa": 54.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40796",
@@ -13352,8 +13418,9 @@
       "nazwa": "Kłapouchy",
       "rok": 2025,
       "elementy": 156,
-      "status": "eol",
-      "cena_katalogowa": 44.99
+      "status": "dostepny",
+      "cena_katalogowa": 44.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40798",
@@ -13381,40 +13448,45 @@
       "nazwa": "Figurki Dustina, Mike'a, Willa i Lucasa",
       "rok": 2025,
       "elementy": 542,
-      "status": "eol",
-      "cena_katalogowa": 169.99
+      "status": "dostepny",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40802",
       "nazwa": "Figurki Luny Lovegood i testrala",
       "rok": 2025,
       "elementy": 292,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40803",
       "nazwa": "Robot i pojazd Optimus Prime",
       "rok": 2025,
       "elementy": 237,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40804",
       "nazwa": "Robot i pojazd Bumblebee",
       "rok": 2025,
       "elementy": 253,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40884",
       "nazwa": "Drift i Raven – figurki",
       "rok": 2025,
       "elementy": 280,
-      "status": "eol",
-      "cena_katalogowa": 104.99
+      "status": "dostepny",
+      "cena_katalogowa": 104.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40856",
@@ -13917,16 +13989,18 @@
       "nazwa": "Koenigsegg Jesko",
       "rok": 2021,
       "elementy": 280,
-      "status": "dostepny",
-      "cena_katalogowa": 99.99
+      "status": "eol",
+      "cena_katalogowa": 99.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76901",
       "nazwa": "Toyota GR Supra",
       "rok": 2021,
       "elementy": 299,
-      "status": "dostepny",
-      "cena_katalogowa": 89.99
+      "status": "eol",
+      "cena_katalogowa": 89.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76902",
@@ -13978,16 +14052,18 @@
       "nazwa": "1970 Ferrari 512 M",
       "rok": 2022,
       "elementy": 291,
-      "status": "dostepny",
-      "cena_katalogowa": 99.99
+      "status": "eol",
+      "cena_katalogowa": 99.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76907",
       "nazwa": "Lotus Evija",
       "rok": 2022,
       "elementy": 247,
-      "status": "dostepny",
-      "cena_katalogowa": 99.99
+      "status": "eol",
+      "cena_katalogowa": 99.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76908",
@@ -14097,8 +14173,9 @@
       "nazwa": "Samochód wyścigowy McLaren Formula 1 wersja 2023",
       "rok": 2024,
       "elementy": 245,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76920",
@@ -14113,24 +14190,27 @@
       "nazwa": "Wyścigowe Audi S1 E-tron Quattro",
       "rok": 2024,
       "elementy": 274,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76922",
       "nazwa": "Samochody wyścigowe BMW M4 GT3 & BMW M Hybrid V8",
       "rok": 2024,
       "elementy": 676,
-      "status": "dostepny",
-      "cena_katalogowa": 214.99
+      "status": "eol",
+      "cena_katalogowa": 214.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76923",
       "nazwa": "Luksusowe Lamborghini Lambo V12 Vision GT",
       "rok": 2024,
       "elementy": 230,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76924",
@@ -14161,8 +14241,9 @@
       "nazwa": "NASCAR Next Gen Chevrolet Camaro ZL1",
       "rok": 2024,
       "elementy": 328,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "30709",
@@ -14264,8 +14345,9 @@
       "nazwa": "Bolid F1 KICK Sauber Team C44",
       "rok": 2025,
       "elementy": 259,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "77248",
@@ -17976,8 +18058,9 @@
       "nazwa": "Ciężarówka Mercedes-Benz Zetros z napędem na 4 koła",
       "rok": 2021,
       "elementy": 2110,
-      "status": "dostepny",
-      "cena_katalogowa": 1549.99
+      "status": "eol",
+      "cena_katalogowa": 1549.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42131",
@@ -18008,7 +18091,7 @@
       "nazwa": "BMW M 1000 RR",
       "rok": 2022,
       "elementy": 1920,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 1079.99
     },
     {
@@ -18056,8 +18139,9 @@
       "nazwa": "Formula E Porsche 99X Electric",
       "rok": 2022,
       "elementy": 422,
-      "status": "dostepny",
-      "cena_katalogowa": 239.99
+      "status": "eol",
+      "cena_katalogowa": 239.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42138",
@@ -18088,15 +18172,16 @@
       "nazwa": "Samochód wyścigowy McLaren Formula 1",
       "rok": 2022,
       "elementy": 1432,
-      "status": "dostepny",
-      "cena_katalogowa": 849.99
+      "status": "eol",
+      "cena_katalogowa": 849.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42143",
       "nazwa": "Ferrari Daytona SP3",
       "rok": 2022,
       "elementy": 3778,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 1949.99
     },
     {
@@ -18136,8 +18221,9 @@
       "nazwa": "Żuraw gąsienicowy Liebherr LR 13000",
       "rok": 2023,
       "elementy": 2883,
-      "status": "dostepny",
-      "cena_katalogowa": 2899.99
+      "status": "eol",
+      "cena_katalogowa": 2899.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42147",
@@ -18176,7 +18262,7 @@
       "nazwa": "Bolid Bugatti",
       "rok": 2023,
       "elementy": 905,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 214.99
     },
     {
@@ -18224,15 +18310,16 @@
       "nazwa": "Ciągnik zrywkowy John Deere 948L-II",
       "rok": 2023,
       "elementy": 1492,
-      "status": "dostepny",
-      "cena_katalogowa": 849.99
+      "status": "eol",
+      "cena_katalogowa": 849.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42158",
       "nazwa": "NASA Mars Rover Perseverance",
       "rok": 2023,
       "elementy": 1132,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 419.99
     },
     {
@@ -18248,7 +18335,7 @@
       "nazwa": "Audi RS Q e-tron",
       "rok": 2023,
       "elementy": 914,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 729.99
     },
     {
@@ -18256,7 +18343,7 @@
       "nazwa": "Lamborghini Huracán Tecnica",
       "rok": 2023,
       "elementy": 806,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 219.99
     },
     {
@@ -18312,15 +18399,16 @@
       "nazwa": "Buldożer do zadań specjalnych",
       "rok": 2024,
       "elementy": 195,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42164",
       "nazwa": "Wyścigowy łazik terenowy",
       "rok": 2024,
       "elementy": 219,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 64.99
     },
     {
@@ -18328,23 +18416,25 @@
       "nazwa": "Mercedes-AMG F1 W14 E Performance Pull-Back",
       "rok": 2024,
       "elementy": 240,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42166",
       "nazwa": "NEOM McLaren Extreme E Race",
       "rok": 2024,
       "elementy": 252,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42167",
       "nazwa": "Śmieciarka Mack LR Electric",
       "rok": 2024,
       "elementy": 503,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 144.99
     },
     {
@@ -18360,8 +18450,9 @@
       "nazwa": "NEOM McLaren Formula E Race Car",
       "rok": 2024,
       "elementy": 452,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42170",
@@ -18400,8 +18491,9 @@
       "nazwa": "Jacht Emirates Team New Zealand AC75",
       "rok": 2024,
       "elementy": 962,
-      "status": "dostepny",
-      "cena_katalogowa": 529.99
+      "status": "eol",
+      "cena_katalogowa": 529.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42175",
@@ -18432,8 +18524,9 @@
       "nazwa": "Kosmiczna ładowarka LT78",
       "rok": 2024,
       "elementy": 435,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42179",
@@ -18480,8 +18573,9 @@
       "nazwa": "Pomarańczowe Lamborghini Huracán Tecnica",
       "rok": 2024,
       "elementy": 806,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "5008946",
@@ -18704,8 +18798,9 @@
       "nazwa": "Niebieski Chevrolet Corvette Stingray",
       "rok": 2025,
       "elementy": 732,
-      "status": "eol",
-      "cena_katalogowa": 249.99
+      "status": "dostepny",
+      "cena_katalogowa": 249.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "30735",
@@ -24566,24 +24661,27 @@
       "nazwa": "Park kaskaderski",
       "rok": 2021,
       "elementy": 170,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60294",
       "nazwa": "Ciężarówka kaskaderska",
       "rok": 2021,
       "elementy": 420,
-      "status": "dostepny",
-      "cena_katalogowa": 269.99
+      "status": "eol",
+      "cena_katalogowa": 269.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60295",
       "nazwa": "Arena pokazów kaskaderskich",
       "rok": 2021,
       "elementy": 668,
-      "status": "dostepny",
-      "cena_katalogowa": 469.99
+      "status": "eol",
+      "cena_katalogowa": 469.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60296",
@@ -25131,32 +25229,36 @@
       "nazwa": "Kaskaderska pętla i szympans demolka",
       "rok": 2022,
       "elementy": 226,
-      "status": "dostepny",
-      "cena_katalogowa": 249.99
+      "status": "eol",
+      "cena_katalogowa": 249.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60339",
       "nazwa": "Kaskaderska arena z dwoma pętlami",
       "rok": 2022,
       "elementy": 598,
-      "status": "dostepny",
-      "cena_katalogowa": 699.99
+      "status": "eol",
+      "cena_katalogowa": 699.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60340",
       "nazwa": "Wyzwanie kaskaderskie: ostrze",
       "rok": 2022,
       "elementy": 154,
-      "status": "dostepny",
-      "cena_katalogowa": 79.99
+      "status": "eol",
+      "cena_katalogowa": 79.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60341",
       "nazwa": "Wyzwanie kaskaderskie: przewracanie",
       "rok": 2022,
       "elementy": 117,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60342",
@@ -25280,8 +25382,9 @@
       "nazwa": "Śledztwa wodnej policji",
       "rok": 2022,
       "elementy": 278,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "66707",
@@ -25427,8 +25530,9 @@
       "nazwa": "Wyzwanie kaskaderskie - ciężarówka i ogniste obręcze",
       "rok": 2023,
       "elementy": 479,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60358",
@@ -25453,16 +25557,18 @@
       "nazwa": "Wyzwanie kaskaderskie – obracające się okręgi",
       "rok": 2023,
       "elementy": 117,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60361",
       "nazwa": "Ekstremalne wyzwanie kaskaderskie",
       "rok": 2023,
       "elementy": 385,
-      "status": "dostepny",
-      "cena_katalogowa": 419.99
+      "status": "eol",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60362",
@@ -25522,7 +25628,7 @@
       "nazwa": "Łódź badacza Arktyki",
       "rok": 2023,
       "elementy": 815,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 649.99
     },
     {
@@ -25950,8 +26056,9 @@
       "nazwa": "Walec budowlany",
       "rok": 2024,
       "elementy": 78,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60402",
@@ -25966,8 +26073,9 @@
       "nazwa": "Karetka i snowboardzista",
       "rok": 2024,
       "elementy": 79,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60404",
@@ -26153,8 +26261,9 @@
       "nazwa": "Terenówka badacza dżungli",
       "rok": 2024,
       "elementy": 314,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60428",
@@ -26168,8 +26277,9 @@
       "nazwa": "Statek kosmiczny i odkrywanie asteroidy",
       "rok": 2024,
       "elementy": 126,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60430",
@@ -26228,8 +26338,9 @@
       "nazwa": "Kalendarz adwentowy 2024",
       "rok": 2024,
       "elementy": 195,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60437",
@@ -26441,8 +26552,9 @@
       "nazwa": "Czerwony samochód sportowy",
       "rok": 2025,
       "elementy": 109,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60449",
@@ -26480,8 +26592,9 @@
       "nazwa": "Furgonetka ratowników plażowych",
       "rok": 2025,
       "elementy": 214,
-      "status": "dostepny",
-      "cena_katalogowa": 109.99
+      "status": "eol",
+      "cena_katalogowa": 109.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60454",
@@ -26512,16 +26625,18 @@
       "nazwa": "Policyjny warsztat tuningowy",
       "rok": 2025,
       "elementy": 489,
-      "status": "eol",
-      "cena_katalogowa": 209.99
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "60458",
       "nazwa": "Zestaw wyścigówek: pizza kontra wóz strażacki",
       "rok": 2025,
       "elementy": 70,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60459",
@@ -26536,8 +26651,9 @@
       "nazwa": "Bez granic: tor z rampami dla wyścigówek",
       "rok": 2025,
       "elementy": 436,
-      "status": "dostepny",
-      "cena_katalogowa": 219.99
+      "status": "eol",
+      "cena_katalogowa": 219.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60461",
@@ -26552,7 +26668,7 @@
       "nazwa": "Zestaw z helikopterem, wozem strażackim i łodzią podwodną",
       "rok": 2025,
       "elementy": 874,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 259.99
     },
     {
@@ -26624,8 +26740,9 @@
       "nazwa": "Złomowisko z samochodami",
       "rok": 2025,
       "elementy": 871,
-      "status": "dostepny",
-      "cena_katalogowa": 349.99
+      "status": "eol",
+      "cena_katalogowa": 349.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "60473",
@@ -26647,8 +26764,9 @@
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 186,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "6557633",
@@ -30718,8 +30836,9 @@
       "nazwa": "Żółta taksówka",
       "rok": 2021,
       "elementy": 124,
-      "status": "eol",
-      "cena_katalogowa": 41.99
+      "status": "dostepny",
+      "cena_katalogowa": 41.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40469",
@@ -30925,8 +31044,9 @@
       "nazwa": "Majestatyczny tygrys",
       "rok": 2022,
       "elementy": 755,
-      "status": "dostepny",
-      "cena_katalogowa": 214.99
+      "status": "eol",
+      "cena_katalogowa": 214.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "31130",
@@ -30969,18 +31089,20 @@
       "nazwa": "Pociąg szybkobieżny",
       "rok": 2022,
       "elementy": 284,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 81.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: F_BACKORDER_FOR_DATE (Wysyłka do 29 września 2026)"
     },
     {
       "numer": "40519",
       "nazwa": "Pocztówka z Nowego Jorku",
       "rok": 2022,
       "elementy": 254,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 61.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40520",
@@ -31014,9 +31136,10 @@
       "nazwa": "Pocztówka z Londynu",
       "rok": 2022,
       "elementy": 277,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 61.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40654",
@@ -31152,8 +31275,9 @@
       "nazwa": "Urocze psiaki",
       "rok": 2023,
       "elementy": 475,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "31138",
@@ -31186,8 +31310,9 @@
       "nazwa": "Główna ulica",
       "rok": 2023,
       "elementy": 1459,
-      "status": "dostepny",
-      "cena_katalogowa": 599.99
+      "status": "eol",
+      "cena_katalogowa": 599.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "31142",
@@ -31333,7 +31458,7 @@
       "nazwa": "Kwiaty w konewce",
       "rok": 2024,
       "elementy": 420,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 129.99
     },
     {
@@ -31341,7 +31466,7 @@
       "nazwa": "Dzikie zwierzęta z safari",
       "rok": 2024,
       "elementy": 780,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 279.99
     },
     {
@@ -31349,7 +31474,7 @@
       "nazwa": "Tyranozaur",
       "rok": 2024,
       "elementy": 626,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 259.99
     },
     {
@@ -31357,7 +31482,7 @@
       "nazwa": "Astronauta",
       "rok": 2024,
       "elementy": 647,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 214.99
     },
     {
@@ -31443,17 +31568,19 @@
       "nazwa": "Pocztówka z Japonii",
       "rok": 2024,
       "elementy": 262,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 61.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40747",
       "nazwa": "Botanicals Żonkile",
       "rok": 2024,
       "elementy": 216,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "66789",
@@ -31521,7 +31648,7 @@
       "nazwa": "Statek powietrzny: samolot wyścigowy",
       "rok": 2025,
       "elementy": 178,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 64.99
     },
     {
@@ -31537,7 +31664,7 @@
       "nazwa": "Uroczy króliczek",
       "rok": 2025,
       "elementy": 326,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 84.99
     },
     {
@@ -31553,7 +31680,7 @@
       "nazwa": "Kosmiczny robot",
       "rok": 2025,
       "elementy": 281,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 109.99
     },
     {
@@ -31609,16 +31736,18 @@
       "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
       "rok": 2025,
       "elementy": 780,
-      "status": "eol",
-      "cena_katalogowa": 249.99
+      "status": "dostepny",
+      "cena_katalogowa": 249.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "31172",
       "nazwa": "Gramofon z kwiatami",
       "rok": 2025,
       "elementy": 366,
-      "status": "eol",
-      "cena_katalogowa": 124.99
+      "status": "dostepny",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "31173",
@@ -31641,8 +31770,9 @@
       "nazwa": "Zamek jednorożców",
       "rok": 2025,
       "elementy": 390,
-      "status": "eol",
-      "cena_katalogowa": 169.99
+      "status": "dostepny",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40758",
@@ -31684,7 +31814,8 @@
       "nazwa": "Pocztówka z Włoch",
       "rok": 2025,
       "elementy": 189,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "66810",
@@ -34721,8 +34852,9 @@
       "nazwa": "Restauracja w Heartlake",
       "rok": 2019,
       "elementy": 624,
-      "status": "dostepny",
-      "cena_katalogowa": 259.99
+      "status": "eol",
+      "cena_katalogowa": 259.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41380",
@@ -35489,8 +35621,9 @@
       "nazwa": "Park w Heartlake City",
       "rok": 2021,
       "elementy": 432,
-      "status": "dostepny",
-      "cena_katalogowa": 179.99
+      "status": "eol",
+      "cena_katalogowa": 179.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41448",
@@ -35695,8 +35828,9 @@
       "nazwa": "Magiczny wóz",
       "rok": 2021,
       "elementy": 348,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41689",
@@ -35928,8 +36062,9 @@
       "nazwa": "Pizzeria w Heartlake",
       "rok": 2022,
       "elementy": 144,
-      "status": "dostepny",
-      "cena_katalogowa": 69.99
+      "status": "eol",
+      "cena_katalogowa": 69.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41706",
@@ -35945,16 +36080,18 @@
       "nazwa": "Furgonetka do sadzenia drzew",
       "rok": 2022,
       "elementy": 336,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41708",
       "nazwa": "Automat w dyskotece",
       "rok": 2022,
       "elementy": 642,
-      "status": "dostepny",
-      "cena_katalogowa": 269.99
+      "status": "eol",
+      "cena_katalogowa": 269.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41709",
@@ -35988,16 +36125,18 @@
       "nazwa": "Ciężarówka recyklingowa",
       "rok": 2022,
       "elementy": 259,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41713",
       "nazwa": "Kosmiczna akademia Olivii",
       "rok": 2022,
       "elementy": 757,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41714",
@@ -36013,24 +36152,27 @@
       "nazwa": "Furgonetka z lodami",
       "rok": 2022,
       "elementy": 84,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41716",
       "nazwa": "Stephanie i przygoda pod żaglami",
       "rok": 2022,
       "elementy": 304,
-      "status": "dostepny",
-      "cena_katalogowa": 199.99
+      "status": "eol",
+      "cena_katalogowa": 199.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41717",
       "nazwa": "Mia ratowniczka dzikich zwierząt",
       "rok": 2022,
       "elementy": 430,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41718",
@@ -36176,24 +36318,27 @@
       "nazwa": "Dom Paisley",
       "rok": 2023,
       "elementy": 185,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41725",
       "nazwa": "Zabawa z łazikiem plażowym",
       "rok": 2023,
       "elementy": 61,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41726",
       "nazwa": "Wakacyjna wyprawa na biwak",
       "rok": 2023,
       "elementy": 87,
-      "status": "dostepny",
-      "cena_katalogowa": 109.99
+      "status": "eol",
+      "cena_katalogowa": 109.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41727",
@@ -36209,16 +36354,18 @@
       "nazwa": "Bar w śródmieściu Heartlake",
       "rok": 2023,
       "elementy": 346,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41729",
       "nazwa": "Sklep spożywczy z żywnością ekologiczną",
       "rok": 2023,
       "elementy": 830,
-      "status": "dostepny",
-      "cena_katalogowa": 419.99
+      "status": "eol",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41730",
@@ -36261,8 +36408,9 @@
       "nazwa": "Morska łódź ratunkowa",
       "rok": 2023,
       "elementy": 717,
-      "status": "dostepny",
-      "cena_katalogowa": 359.99
+      "status": "eol",
+      "cena_katalogowa": 359.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41735",
@@ -36305,8 +36453,9 @@
       "nazwa": "Pokój Liann",
       "rok": 2023,
       "elementy": 204,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41740",
@@ -36349,8 +36498,9 @@
       "nazwa": "Centrum sportowe",
       "rok": 2023,
       "elementy": 832,
-      "status": "dostepny",
-      "cena_katalogowa": 409.99
+      "status": "eol",
+      "cena_katalogowa": 409.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41745",
@@ -36402,16 +36552,18 @@
       "nazwa": "Skatepark",
       "rok": 2023,
       "elementy": 431,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41752",
       "nazwa": "Hydroplan ratowniczy",
       "rok": 2023,
       "elementy": 203,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41753",
@@ -36427,8 +36579,9 @@
       "nazwa": "Pokój Leo",
       "rok": 2023,
       "elementy": 203,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41755",
@@ -36462,8 +36615,9 @@
       "nazwa": "Kalendarz adwentowy 2023",
       "rok": 2023,
       "elementy": 231,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "41759",
@@ -36587,8 +36741,9 @@
       "nazwa": "Kamper z mobilnym obserwatorium",
       "rok": 2024,
       "elementy": 364,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42604",
@@ -36604,8 +36759,9 @@
       "nazwa": "Stacja kosmiczna i rakieta",
       "rok": 2024,
       "elementy": 981,
-      "status": "dostepny",
-      "cena_katalogowa": 389.99
+      "status": "eol",
+      "cena_katalogowa": 389.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42606",
@@ -36639,8 +36795,9 @@
       "nazwa": "Samochód elektryczny i stacja ładująca",
       "rok": 2024,
       "elementy": 170,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42610",
@@ -36674,8 +36831,9 @@
       "nazwa": "Sklep z używaną odzieżą",
       "rok": 2024,
       "elementy": 409,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42615",
@@ -36691,8 +36849,9 @@
       "nazwa": "Pokaz talentów muzycznych w szkole w Heartlake City",
       "rok": 2024,
       "elementy": 669,
-      "status": "dostepny",
-      "cena_katalogowa": 279.99
+      "status": "eol",
+      "cena_katalogowa": 279.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42617",
@@ -36708,16 +36867,18 @@
       "nazwa": "Kawiarnia w Heartlake",
       "rok": 2024,
       "elementy": 426,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42619",
       "nazwa": "Autobus koncertowy gwiazdy pop",
       "rok": 2024,
       "elementy": 845,
-      "status": "dostepny",
-      "cena_katalogowa": 359.99
+      "status": "eol",
+      "cena_katalogowa": 359.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42620",
@@ -36759,24 +36920,27 @@
       "nazwa": "Przytulne domki na letnim obozie",
       "rok": 2024,
       "elementy": 437,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42625",
       "nazwa": "Plażowa budka z koktajlami",
       "rok": 2024,
       "elementy": 213,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42626",
       "nazwa": "Sporty wodne na obozie kempingowym",
       "rok": 2024,
       "elementy": 628,
-      "status": "dostepny",
-      "cena_katalogowa": 299.99
+      "status": "eol",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42630",
@@ -36846,8 +37010,9 @@
       "nazwa": "Kalendarz adwentowy 2024",
       "rok": 2024,
       "elementy": 272,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42638",
@@ -36971,23 +37136,25 @@
       "nazwa": "Plac zabaw dla świnek morskich",
       "rok": 2025,
       "elementy": 86,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42641",
       "nazwa": "Przygoda z surfującymi psami i skuterem",
       "rok": 2025,
       "elementy": 113,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42642",
       "nazwa": "Maraton filmowy przyjaciółek",
       "rok": 2025,
       "elementy": 154,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 64.99
     },
     {
@@ -36995,8 +37162,9 @@
       "nazwa": "Stoisko z watą cukrową i skuter",
       "rok": 2025,
       "elementy": 110,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42644",
@@ -37018,15 +37186,16 @@
       "nazwa": "Pokój Autumn",
       "rok": 2025,
       "elementy": 222,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42647",
       "nazwa": "Pokój Paisley",
       "rok": 2025,
       "elementy": 199,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 81.99
     },
     {
@@ -37081,7 +37250,7 @@
       "nazwa": "Ranczo kucyków i stajnia",
       "rok": 2025,
       "elementy": 727,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 299.99
     },
     {
@@ -37103,7 +37272,7 @@
       "nazwa": "Impreza na basenie z jednorożcem i flamingiem",
       "rok": 2025,
       "elementy": 99,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 42.99
     },
     {
@@ -37127,8 +37296,9 @@
       "nazwa": "Salon fryzjerski i sklep z ozdobami",
       "rok": 2025,
       "elementy": 347,
-      "status": "dostepny",
-      "cena_katalogowa": 199.99
+      "status": "eol",
+      "cena_katalogowa": 199.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42663",
@@ -37167,16 +37337,18 @@
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 237,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42669",
       "nazwa": "Dom pszczelarzy i kwiatowy ogród",
       "rok": 2025,
       "elementy": 1161,
-      "status": "dostepny",
-      "cena_katalogowa": 300.99
+      "status": "eol",
+      "cena_katalogowa": 300.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42670",
@@ -37199,8 +37371,9 @@
       "nazwa": "Kreatywna walizka plażowa",
       "rok": 2025,
       "elementy": 188,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "42673",
@@ -37215,8 +37388,9 @@
       "nazwa": "Sklep z grami i komiksami",
       "rok": 2025,
       "elementy": 1005,
-      "status": "eol",
-      "cena_katalogowa": 379.99
+      "status": "dostepny",
+      "cena_katalogowa": 379.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "562412",
@@ -44064,16 +44238,18 @@
       "nazwa": "Zabawa w kąpieli: pływająca wyspa ze zwierzątkami",
       "rok": 2022,
       "elementy": 20,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10967",
       "nazwa": "Motocykl policyjny",
       "rok": 2022,
       "elementy": 5,
-      "status": "dostepny",
-      "cena_katalogowa": 39.99
+      "status": "eol",
+      "cena_katalogowa": 39.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10968",
@@ -44089,8 +44265,9 @@
       "nazwa": "Wóz strażacki",
       "rok": 2022,
       "elementy": 21,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10970",
@@ -44160,8 +44337,9 @@
       "nazwa": "Mój pierwszy szczeniak i kotek z odgłosami",
       "rok": 2022,
       "elementy": 22,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10978",
@@ -44247,8 +44425,9 @@
       "nazwa": "Ryneczek bio",
       "rok": 2023,
       "elementy": 40,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10984",
@@ -44300,8 +44479,9 @@
       "nazwa": "Park wodny",
       "rok": 2023,
       "elementy": 19,
-      "status": "dostepny",
-      "cena_katalogowa": 179.99
+      "status": "eol",
+      "cena_katalogowa": 179.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10990",
@@ -44418,8 +44598,9 @@
       "nazwa": "Codzienne czynności - kąpiel",
       "rok": 2024,
       "elementy": 15,
-      "status": "dostepny",
-      "cena_katalogowa": 39.99
+      "status": "eol",
+      "cena_katalogowa": 39.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10414",
@@ -44459,16 +44640,18 @@
       "nazwa": "Elza i Bruni w Zaczarowanym Lesie",
       "rok": 2024,
       "elementy": 31,
-      "status": "dostepny",
-      "cena_katalogowa": 139.99
+      "status": "eol",
+      "cena_katalogowa": 139.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10419",
       "nazwa": "Opieka nad pszczołami i ulami",
       "rok": 2024,
       "elementy": 22,
-      "status": "dostepny",
-      "cena_katalogowa": 79.99
+      "status": "eol",
+      "cena_katalogowa": 79.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10420",
@@ -44492,16 +44675,18 @@
       "nazwa": "Przygoda w promie kosmicznym 3w1",
       "rok": 2024,
       "elementy": 58,
-      "status": "dostepny",
-      "cena_katalogowa": 279.99
+      "status": "eol",
+      "cena_katalogowa": 279.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10423",
       "nazwa": "Ludziki z emocjami",
       "rok": 2024,
       "elementy": 71,
-      "status": "dostepny",
-      "cena_katalogowa": 234.99
+      "status": "eol",
+      "cena_katalogowa": 234.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10424",
@@ -44517,16 +44702,18 @@
       "nazwa": "Peppa Pig Ogród i domek na drzewie Peppy",
       "rok": 2024,
       "elementy": 20,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10432",
       "nazwa": "Peppa Pig Peppa i rejs łodzią",
       "rok": 2024,
       "elementy": 23,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10433",
@@ -44541,8 +44728,9 @@
       "nazwa": "Peppa Pig Peppa i supermarket",
       "rok": 2024,
       "elementy": 70,
-      "status": "dostepny",
-      "cena_katalogowa": 299.99
+      "status": "eol",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "10435",
@@ -44797,7 +44985,8 @@
       "nazwa": "Ogród i szklarnia Dziadka Świnki",
       "rok": 2025,
       "elementy": 102,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "30686",
@@ -48456,8 +48645,9 @@
       "nazwa": "Świątynia ze smokiem ninja",
       "rok": 2022,
       "elementy": 161,
-      "status": "dostepny",
-      "cena_katalogowa": 199.99
+      "status": "eol",
+      "cena_katalogowa": 199.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71760",
@@ -48824,8 +49014,9 @@
       "nazwa": "Jeździec-Mech Kaia EVO",
       "rok": 2023,
       "elementy": 312,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71784",
@@ -48920,8 +49111,9 @@
       "nazwa": "Drużyna mechów ninja Lloyda i Arina",
       "rok": 2023,
       "elementy": 764,
-      "status": "dostepny",
-      "cena_katalogowa": 359.99
+      "status": "eol",
+      "cena_katalogowa": 359.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71795",
@@ -49209,16 +49401,18 @@
       "nazwa": "Mech bojowy Arina",
       "rok": 2024,
       "elementy": 104,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71805",
       "nazwa": "Zestaw bitewny z mechem Jaya",
       "rok": 2024,
       "elementy": 78,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71806",
@@ -49234,8 +49428,9 @@
       "nazwa": "Mech żywiołu technologii Sory",
       "rok": 2024,
       "elementy": 209,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71808",
@@ -49259,16 +49454,18 @@
       "nazwa": "Smoczątko Riyu",
       "rok": 2024,
       "elementy": 132,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71811",
       "nazwa": "Łazik terenowy ninja Arina",
       "rok": 2024,
       "elementy": 267,
-      "status": "dostepny",
-      "cena_katalogowa": 214.99
+      "status": "eol",
+      "cena_katalogowa": 214.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71812",
@@ -49284,8 +49481,9 @@
       "nazwa": "Dojo cienia Wilczej Maski",
       "rok": 2024,
       "elementy": 1190,
-      "status": "dostepny",
-      "cena_katalogowa": 529.99
+      "status": "eol",
+      "cena_katalogowa": 529.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71814",
@@ -49327,24 +49525,27 @@
       "nazwa": "Arena turniejowa",
       "rok": 2024,
       "elementy": 659,
-      "status": "dostepny",
-      "cena_katalogowa": 214.99
+      "status": "eol",
+      "cena_katalogowa": 214.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71819",
       "nazwa": "Świątynia Smoczego Kamienia",
       "rok": 2024,
       "elementy": 1212,
-      "status": "dostepny",
-      "cena_katalogowa": 529.99
+      "status": "eol",
+      "cena_katalogowa": 529.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71820",
       "nazwa": "Wielofunkcyjny pojazd ninja",
       "rok": 2024,
       "elementy": 576,
-      "status": "dostepny",
-      "cena_katalogowa": 389.99
+      "status": "eol",
+      "cena_katalogowa": 389.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71821",
@@ -49360,8 +49561,9 @@
       "nazwa": "Smoczyca źródła ruchu",
       "rok": 2024,
       "elementy": 1716,
-      "status": "dostepny",
-      "cena_katalogowa": 659.99
+      "status": "eol",
+      "cena_katalogowa": 659.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "892402",
@@ -49524,16 +49726,18 @@
       "nazwa": "Smoczy Spinner Spinjitzu Kaia",
       "rok": 2025,
       "elementy": 54,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71824",
       "nazwa": "Smoczy Spinner Spinjitzu Sory",
       "rok": 2025,
       "elementy": 56,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71826",
@@ -49588,7 +49792,7 @@
       "nazwa": "Smok chaosu Kiełogrzmot",
       "rok": 2025,
       "elementy": 668,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 329.99
     },
     {
@@ -49596,8 +49800,9 @@
       "nazwa": "Ras i burzowy superodrzutowiec Arina",
       "rok": 2025,
       "elementy": 510,
-      "status": "dostepny",
-      "cena_katalogowa": 219.99
+      "status": "eol",
+      "cena_katalogowa": 219.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71834",
@@ -49644,8 +49849,9 @@
       "nazwa": "Pojedynek wyścigowy Rogue kontra Drix",
       "rok": 2025,
       "elementy": 111,
-      "status": "eol",
-      "cena_katalogowa": 81.99
+      "status": "dostepny",
+      "cena_katalogowa": 81.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "71841",
@@ -49659,7 +49865,7 @@
       "nazwa": "Smoczy mistrz Rontu",
       "rok": 2025,
       "elementy": 381,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 189.99
     },
     {
@@ -49667,7 +49873,7 @@
       "nazwa": "Mech smoczego jeźdźca Rogue’a",
       "rok": 2025,
       "elementy": 584,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 299.99
     },
     {
@@ -49675,7 +49881,7 @@
       "nazwa": "Pojazd bojowy ninja",
       "rok": 2025,
       "elementy": 561,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 399.99
     },
     {
@@ -49683,7 +49889,7 @@
       "nazwa": "Odrzutowy mech Lloyda",
       "rok": 2025,
       "elementy": 1112,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 439.99
     },
     {
@@ -51516,16 +51722,18 @@
       "nazwa": "W cieniu Arishem",
       "rok": 2021,
       "elementy": 493,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76156",
       "nazwa": "Domo powstaje",
       "rok": 2021,
       "elementy": 1040,
-      "status": "dostepny",
-      "cena_katalogowa": 479.99
+      "status": "eol",
+      "cena_katalogowa": 479.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76168",
@@ -51944,16 +52152,18 @@
       "nazwa": "Atak na Nowy Asgard",
       "rok": 2022,
       "elementy": 159,
-      "status": "dostepny",
-      "cena_katalogowa": 99.99
+      "status": "eol",
+      "cena_katalogowa": 99.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76208",
       "nazwa": "Kozia łódź",
       "rok": 2022,
       "elementy": 564,
-      "status": "dostepny",
-      "cena_katalogowa": 279.99
+      "status": "eol",
+      "cena_katalogowa": 279.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76209",
@@ -51969,8 +52179,9 @@
       "nazwa": "Hulkbuster",
       "rok": 2022,
       "elementy": 4049,
-      "status": "dostepny",
-      "cena_katalogowa": 2399.99
+      "status": "eol",
+      "cena_katalogowa": 2399.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76211",
@@ -51993,8 +52204,9 @@
       "nazwa": "Sala tronowa króla Namora",
       "rok": 2022,
       "elementy": 355,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76214",
@@ -52091,8 +52303,9 @@
       "nazwa": "Kalendarz adwentowy ze Strażnikami Galaktyki 2022",
       "rok": 2022,
       "elementy": 268,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "TRUSPIDERMAN",
@@ -52325,24 +52538,27 @@
       "nazwa": "Kwatera Strażników Galaktyki",
       "rok": 2023,
       "elementy": 67,
-      "status": "dostepny",
-      "cena_katalogowa": 45.99
+      "status": "eol",
+      "cena_katalogowa": 45.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76254",
       "nazwa": "Statek kosmiczny małego Rocketa",
       "rok": 2023,
       "elementy": 330,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76255",
       "nazwa": "Nowy statek Strażników",
       "rok": 2023,
       "elementy": 1108,
-      "status": "dostepny",
-      "cena_katalogowa": 479.99
+      "status": "eol",
+      "cena_katalogowa": 479.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76256",
@@ -52358,16 +52574,18 @@
       "nazwa": "Figurka Wolverine’a do zbudowania",
       "rok": 2023,
       "elementy": 327,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76258",
       "nazwa": "Figurka Kapitana Ameryki do zbudowania",
       "rok": 2023,
       "elementy": 310,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76260",
@@ -52392,16 +52610,18 @@
       "nazwa": "Tarcza Kapitana Ameryki",
       "rok": 2023,
       "elementy": 3128,
-      "status": "dostepny",
-      "cena_katalogowa": 929.99
+      "status": "eol",
+      "cena_katalogowa": 929.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76263",
       "nazwa": "Hulkbuster Iron Mana vs. Thanos",
       "rok": 2023,
       "elementy": 66,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76266",
@@ -52426,9 +52646,10 @@
       "nazwa": "Wieża Avengersów",
       "rok": 2023,
       "elementy": 5201,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 2149.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: F_BACKORDER_FOR_DATE (Wysyłka do 5 października 2026)"
     },
     {
       "numer": "10792",
@@ -52601,16 +52822,18 @@
       "nazwa": "Warbird Rocketa",
       "rok": 2024,
       "elementy": 290,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76279",
       "nazwa": "Auto Spider-mana",
       "rok": 2024,
       "elementy": 227,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76280",
@@ -52626,8 +52849,9 @@
       "nazwa": "Odrzutowiec X-men",
       "rok": 2024,
       "elementy": 359,
-      "status": "dostepny",
-      "cena_katalogowa": 369.99
+      "status": "eol",
+      "cena_katalogowa": 369.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76282",
@@ -52642,8 +52866,9 @@
       "nazwa": "Figurka Zielonego Goblina",
       "rok": 2024,
       "elementy": 471,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76285",
@@ -52668,16 +52893,18 @@
       "nazwa": "Iron Man z motocyklem i Hulk",
       "rok": 2024,
       "elementy": 68,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76288",
       "nazwa": "Iron Man i Iron Legion kontra żołnierz Hydry",
       "rok": 2024,
       "elementy": 135,
-      "status": "dostepny",
-      "cena_katalogowa": 94.99
+      "status": "eol",
+      "cena_katalogowa": 94.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76289",
@@ -52710,8 +52937,9 @@
       "nazwa": "Kapitan Ameryka kontra Czerwony Hulk - bitwa",
       "rok": 2024,
       "elementy": 223,
-      "status": "dostepny",
-      "cena_katalogowa": 239.99
+      "status": "eol",
+      "cena_katalogowa": 239.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76293",
@@ -52744,15 +52972,16 @@
       "nazwa": "Figurka nowego Kapitana Ameryki",
       "rok": 2024,
       "elementy": 359,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76297",
       "nazwa": "Tańczący Groot",
       "rok": 2024,
       "elementy": 459,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 189.99
     },
     {
@@ -52760,8 +52989,9 @@
       "nazwa": "Figurka Iron Spider-Mana",
       "rok": 2024,
       "elementy": 303,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "11198",
@@ -52776,8 +53006,9 @@
       "nazwa": "Misja ratunkowa zespołu ’ego w dinoterenówce",
       "rok": 2025,
       "elementy": 136,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "11200",
@@ -52914,7 +53145,7 @@
       "nazwa": "Multiwersum: Miles Morales kontra Spot",
       "rok": 2025,
       "elementy": 375,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 209.99
     },
     {
@@ -52922,7 +53153,7 @@
       "nazwa": "Monster truck Hulka kontra Thanos",
       "rok": 2025,
       "elementy": 229,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 129.99
     },
     {
@@ -52938,7 +53169,7 @@
       "nazwa": "Kapitan Ameryka: Wojna bohaterów - bitwa",
       "rok": 2025,
       "elementy": 736,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 439.99
     },
     {
@@ -52962,8 +53193,9 @@
       "nazwa": "Mieszkanie Petera Parkera",
       "rok": 2025,
       "elementy": 394,
-      "status": "eol",
-      "cena_katalogowa": 209.99
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "76319",
@@ -53042,8 +53274,9 @@
       "nazwa": "Maska Milesa Moralesa",
       "rok": 2025,
       "elementy": 487,
-      "status": "eol",
-      "cena_katalogowa": 299.99
+      "status": "dostepny",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "11206",
@@ -54613,8 +54846,9 @@
       "nazwa": "Zajączek wielkanocny",
       "rok": 2021,
       "elementy": 293,
-      "status": "dostepny",
-      "cena_katalogowa": 69.99
+      "status": "eol",
+      "cena_katalogowa": 69.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40484",
@@ -54673,8 +54907,9 @@
       "nazwa": "Sanie Świętego Mikołaja",
       "rok": 2021,
       "elementy": 343,
-      "status": "dostepny",
-      "cena_katalogowa": 174.99
+      "status": "eol",
+      "cena_katalogowa": 174.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "6412186",
@@ -54760,8 +54995,9 @@
       "nazwa": "Kot i mysz na Halloween",
       "rok": 2022,
       "elementy": 328,
-      "status": "dostepny",
-      "cena_katalogowa": 59.99
+      "status": "eol",
+      "cena_katalogowa": 59.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40571",
@@ -54786,8 +55022,9 @@
       "nazwa": "Choinka",
       "rok": 2022,
       "elementy": 784,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "80108",
@@ -55014,8 +55251,9 @@
       "nazwa": "Wiosenny plac zabaw dla zwierzątek",
       "rok": 2024,
       "elementy": 172,
-      "status": "dostepny",
-      "cena_katalogowa": 54.99
+      "status": "eol",
+      "cena_katalogowa": 54.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40711",
@@ -55031,8 +55269,9 @@
       "nazwa": "Halloweenowa stodoła",
       "rok": 2024,
       "elementy": 205,
-      "status": "dostepny",
-      "cena_katalogowa": 64.99
+      "status": "eol",
+      "cena_katalogowa": 64.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "40743",
@@ -55055,8 +55294,9 @@
       "nazwa": "Ciężarówka Świętego Mikołaja",
       "rok": 2024,
       "elementy": 224,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "6509762",
@@ -55233,7 +55473,8 @@
       "nazwa": "Rodzinna choinka",
       "rok": 2025,
       "elementy": 3171,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "5009616",
@@ -56288,8 +56529,9 @@
       "nazwa": "Mickey i przyjaciele Remiza i wóz strażacki Myszki Miki i przyjaciół",
       "rok": 2021,
       "elementy": 144,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "302101",
@@ -56373,9 +56615,10 @@
       "nazwa": "Miniaturowy zamek Disneya",
       "rok": 2021,
       "elementy": 567,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 169.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "43181",
@@ -56400,8 +56643,9 @@
       "nazwa": "Łódź Bouna",
       "rok": 2021,
       "elementy": 247,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43186",
@@ -56586,8 +56830,9 @@
       "nazwa": "Zabawa w zamku z Anną i Olafem",
       "rok": 2022,
       "elementy": 108,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43205",
@@ -56603,8 +56848,9 @@
       "nazwa": "Zamek Kopciuszka i księcia z bajki",
       "rok": 2022,
       "elementy": 365,
-      "status": "dostepny",
-      "cena_katalogowa": 369.99
+      "status": "eol",
+      "cena_katalogowa": 369.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43207",
@@ -56638,16 +56884,18 @@
       "nazwa": "Lightyear Pościg za Zyklopem",
       "rok": 2022,
       "elementy": 87,
-      "status": "dostepny",
-      "cena_katalogowa": 89.99
+      "status": "eol",
+      "cena_katalogowa": 89.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76831",
       "nazwa": "Lightyear Starcie z Zurgiem",
       "rok": 2022,
       "elementy": 261,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76832",
@@ -56715,8 +56963,9 @@
       "nazwa": "Pociąg pełen zabawy",
       "rok": 2023,
       "elementy": 200,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43213",
@@ -56750,8 +56999,9 @@
       "nazwa": "Podróż zaczarowanej księżniczki",
       "rok": 2023,
       "elementy": 320,
-      "status": "dostepny",
-      "cena_katalogowa": 279.99
+      "status": "eol",
+      "cena_katalogowa": 279.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43217",
@@ -56775,32 +57025,36 @@
       "nazwa": "Kreatywne zamki księżniczek Disneya",
       "rok": 2023,
       "elementy": 140,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43220",
       "nazwa": "Książka z przygodami Piotrusia Pana i Wendy",
       "rok": 2023,
       "elementy": 111,
-      "status": "dostepny",
-      "cena_katalogowa": 84.99
+      "status": "eol",
+      "cena_katalogowa": 84.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43221",
       "nazwa": "100 lat kultowych animacji Disneya",
       "rok": 2023,
       "elementy": 1022,
-      "status": "dostepny",
-      "cena_katalogowa": 234.99
+      "status": "eol",
+      "cena_katalogowa": 234.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43222",
       "nazwa": "Zamek Disneya",
       "rok": 2023,
       "elementy": 4837,
-      "status": "dostepny",
-      "cena_katalogowa": 1749.99
+      "status": "eol",
+      "cena_katalogowa": 1749.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43223",
@@ -56816,8 +57070,9 @@
       "nazwa": "Zamek króla Magnifico",
       "rok": 2023,
       "elementy": 613,
-      "status": "dostepny",
-      "cena_katalogowa": 419.99
+      "status": "eol",
+      "cena_katalogowa": 419.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43225",
@@ -56869,8 +57124,9 @@
       "nazwa": "Chatka Ashy",
       "rok": 2023,
       "elementy": 509,
-      "status": "dostepny",
-      "cena_katalogowa": 229.99
+      "status": "eol",
+      "cena_katalogowa": 229.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43232",
@@ -56901,9 +57157,10 @@
       "nazwa": "Disney Mały zamek Arielki",
       "rok": 2024,
       "elementy": 557,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 169.99,
-      "cena_zrodlo": "RK"
+      "cena_zrodlo": "RK",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "40720",
@@ -56937,8 +57194,9 @@
       "nazwa": "Scena muzyczna Arielki",
       "rok": 2024,
       "elementy": 60,
-      "status": "dostepny",
-      "cena_katalogowa": 69.99
+      "status": "eol",
+      "cena_katalogowa": 69.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43236",
@@ -56970,8 +57228,9 @@
       "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
       "rok": 2024,
       "elementy": 334,
-      "status": "dostepny",
-      "cena_katalogowa": 129.99
+      "status": "eol",
+      "cena_katalogowa": 129.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43240",
@@ -57029,8 +57288,9 @@
       "nazwa": "Przygoda księżniczki Disneya",
       "rok": 2024,
       "elementy": 817,
-      "status": "dostepny",
-      "cena_katalogowa": 439.99
+      "status": "eol",
+      "cena_katalogowa": 439.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "43247",
@@ -57097,8 +57357,9 @@
       "nazwa": "Szkatułka na biżuterię z Królewną Śnieżką",
       "rok": 2024,
       "elementy": 358,
-      "status": "dostepny",
-      "cena_katalogowa": 189.99
+      "status": "eol",
+      "cena_katalogowa": 189.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "30695",
@@ -57275,14 +57536,16 @@
       "nazwa": "Samochód Cruelli De Mon",
       "rok": 2025,
       "elementy": 378,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "43278",
       "nazwa": "Miniaturowy zamek w Arendelle i lodowy pałac Elzy",
       "rok": 2025,
       "elementy": 306,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "43279",
@@ -58553,16 +58816,18 @@
       "nazwa": "Pustynna wyprawa Steve'a",
       "rok": 2024,
       "elementy": 75,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21252",
       "nazwa": "Zbrojownia",
       "rok": 2024,
       "elementy": 203,
-      "status": "dostepny",
-      "cena_katalogowa": 89.99
+      "status": "eol",
+      "cena_katalogowa": 89.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21253",
@@ -58578,8 +58843,9 @@
       "nazwa": "Domek na plaży żółwi",
       "rok": 2024,
       "elementy": 234,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21255",
@@ -58595,8 +58861,9 @@
       "nazwa": "Żabi domek",
       "rok": 2024,
       "elementy": 400,
-      "status": "dostepny",
-      "cena_katalogowa": 234.99
+      "status": "eol",
+      "cena_katalogowa": 234.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21257",
@@ -58621,8 +58888,9 @@
       "nazwa": "Wiśniowy ogród",
       "rok": 2024,
       "elementy": 304,
-      "status": "dostepny",
-      "cena_katalogowa": 124.99
+      "status": "eol",
+      "cena_katalogowa": 124.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21261",
@@ -58843,7 +59111,8 @@
       "nazwa": "Komnata prób",
       "rok": 2025,
       "elementy": 322,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "21272",
@@ -58914,15 +59183,17 @@
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 300,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "21282",
       "nazwa": "Papugowe domki",
       "rok": 2025,
       "elementy": 535,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "30705",
@@ -59551,8 +59822,9 @@
       "nazwa": "Boss Sumo Bro i przewracana wieża - zestaw dodatkowy",
       "rok": 2021,
       "elementy": 231,
-      "status": "dostepny",
-      "cena_katalogowa": 139.99
+      "status": "eol",
+      "cena_katalogowa": 139.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71389",
@@ -59568,8 +59840,9 @@
       "nazwa": "Walka z Reznorami - zestaw dodatkowy",
       "rok": 2021,
       "elementy": 862,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71391",
@@ -59700,48 +59973,54 @@
       "nazwa": "But Goomby - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 76,
-      "status": "dostepny",
-      "cena_katalogowa": 45.99
+      "status": "eol",
+      "cena_katalogowa": 45.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71405",
       "nazwa": "Salta Fuzzy’ego - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 154,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71406",
       "nazwa": "Dom prezentów Yoshiego - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 246,
-      "status": "dostepny",
-      "cena_katalogowa": 159.99
+      "status": "eol",
+      "cena_katalogowa": 159.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71407",
       "nazwa": "Cat Peach i lodowa wieża - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 494,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71408",
       "nazwa": "Zamek Peach - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 1216,
-      "status": "dostepny",
-      "cena_katalogowa": 579.99
+      "status": "eol",
+      "cena_katalogowa": 579.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71409",
       "nazwa": "Big Spike i chmury - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 540,
-      "status": "dostepny",
-      "cena_katalogowa": 329.99
+      "status": "eol",
+      "cena_katalogowa": 329.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71410",
@@ -59788,8 +60067,9 @@
       "nazwa": "Conkdor's Noggin Bopper - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 130,
-      "status": "dostepny",
-      "cena_katalogowa": 69.99
+      "status": "eol",
+      "cena_katalogowa": 69.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71415",
@@ -59814,16 +60094,18 @@
       "nazwa": "Śniegowa przygoda Fliprusa - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 567,
-      "status": "dostepny",
-      "cena_katalogowa": 299.99
+      "status": "eol",
+      "cena_katalogowa": 299.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71418",
       "nazwa": "Kreatywna skrzyneczka - zestaw twórcy",
       "rok": 2023,
       "elementy": 588,
-      "status": "dostepny",
-      "cena_katalogowa": 279.99
+      "status": "eol",
+      "cena_katalogowa": 279.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71419",
@@ -59839,24 +60121,27 @@
       "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 106,
-      "status": "dostepny",
-      "cena_katalogowa": 42.99
+      "status": "eol",
+      "cena_katalogowa": 42.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71421",
       "nazwa": "Dżunglowy koncert Dixie Kong - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 174,
-      "status": "dostepny",
-      "cena_katalogowa": 119.99
+      "status": "eol",
+      "cena_katalogowa": 119.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71422",
       "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 259,
-      "status": "dostepny",
-      "cena_katalogowa": 169.99
+      "status": "eol",
+      "cena_katalogowa": 169.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71423",
@@ -59872,16 +60157,18 @@
       "nazwa": "Domek na drzewie Donkey Konga - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 555,
-      "status": "dostepny",
-      "cena_katalogowa": 289.99
+      "status": "eol",
+      "cena_katalogowa": 289.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71425",
       "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 1157,
-      "status": "dostepny",
-      "cena_katalogowa": 469.99
+      "status": "eol",
+      "cena_katalogowa": 469.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "71426",
@@ -60168,14 +60455,16 @@
       "nazwa": "Mario Kart - Piranha Plant i pogoń za ulepszeniami",
       "rok": 2025,
       "elementy": 588,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "72045",
       "nazwa": "Mario Kart - Shy Guy i P-Wing",
       "rok": 2025,
       "elementy": 249,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "72046",
@@ -60761,8 +61050,9 @@
       "nazwa": "Pościg za pteranodonem",
       "rok": 2022,
       "elementy": 94,
-      "status": "dostepny",
-      "cena_katalogowa": 89.99
+      "status": "eol",
+      "cena_katalogowa": 89.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76944",
@@ -61907,8 +62197,9 @@
       "nazwa": "Kreatywne zwierzątka",
       "rok": 2024,
       "elementy": 450,
-      "status": "dostepny",
-      "cena_katalogowa": 149.99
+      "status": "eol",
+      "cena_katalogowa": 149.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "11035",
@@ -61988,7 +62279,8 @@
       "nazwa": "Kreatywny zestaw do budowania i zabawy",
       "rok": 2025,
       "elementy": 750,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "11045",
@@ -62054,8 +62346,9 @@
       "nazwa": "Kwiatowa kompozycja",
       "rok": 2025,
       "elementy": 1161,
-      "status": "eol",
-      "cena_katalogowa": 469.99
+      "status": "dostepny",
+      "cena_katalogowa": 469.99,
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10347",
@@ -62094,7 +62387,8 @@
       "nazwa": "Małe drzewka bonsai",
       "rok": 2025,
       "elementy": 709,
-      "status": "eol"
+      "status": "dostepny",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
     },
     {
       "numer": "10374",
@@ -62995,18 +63289,20 @@
       "nazwa": "Batmobil Pogoń: Batman kontra Joker",
       "rok": 2023,
       "elementy": 54,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 119.99,
-      "cena_zrodlo": "promoklocki.pl, 10.09.2026"
+      "cena_zrodlo": "promoklocki.pl, 10.09.2026",
+      "status_zrodlo": "Marek, 13.09.2026: zestaw wycofany na lego.com"
     },
     {
       "numer": "76265",
       "nazwa": "Batwing: Batman kontra Joker",
       "rok": 2023,
       "elementy": 357,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 169.99,
-      "cena_zrodlo": "promoklocki.pl, 10.09.2026"
+      "cena_zrodlo": "promoklocki.pl, 10.09.2026",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76300",
@@ -63022,9 +63318,10 @@
       "nazwa": "Batman i Batmobil kontra Mr. Freeze",
       "rok": 2025,
       "elementy": 63,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 89.99,
-      "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026"
+      "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     },
     {
       "numer": "76303",
@@ -63264,9 +63561,10 @@
       "nazwa": "Mech Supermana kontra Lex Luthor",
       "rok": 2025,
       "elementy": 120,
-      "status": "dostepny",
+      "status": "eol",
       "cena_katalogowa": 64.99,
-      "cena_zrodlo": "promoklocki.pl + zklockow.pl, 10.09.2026"
+      "cena_zrodlo": "promoklocki.pl + zklockow.pl, 10.09.2026",
+      "status_zrodlo": "lego.com/pl-pl, 13.09.2026: Produkcja zakonczona (R_RETIRED)"
     }
   ]
 }

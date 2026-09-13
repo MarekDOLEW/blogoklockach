@@ -4,6 +4,7 @@ import FiltrSetow from '../components/FiltrSetow.astro';
 import sety from '../data/sety.json';
 import { urlZdjecia } from '../lib/media.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
+import { statusNowosci } from '../lib/premiery.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
@@ -11,9 +12,12 @@ const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
 const biezacy = ym(teraz);
 const nowe = Object.entries(sety)
   .filter(([, s]) => s.premiera >= odKiedy)
-  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }), przeciek: statusNowosci(nr) === 'przeciek' }))
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
+// Zapowiedzi: potwierdzone przez LEGO kontra przecieki z rynku – liczby do legendy
+const zapowiedzi = nowe.filter((s) => s.premiera > biezacy || s.przeciek);
+const przecieki = zapowiedzi.filter((s) => s.przeciek).length;
 
 // Podstrony miesięczne: „co wychodzi we wrześniu" to inne pytanie niż „co jest
 // nowego" i inna fraza w wyszukiwarce. Lista liczy się z tych samych danych,
@@ -32,6 +36,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 <Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy i zapowiedzi. Ceny, liczba elementów, zdjęcia i nasza ocena, czy warto.`}>
   <h1 style="margin-top:28px">Nowości LEGO</h1>
   <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi. Aktualizujemy codziennie rano.</p>
+  <p class="nowosci-legenda">Zapowiedzi dzielimy na dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu lub komunikatem Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, z katalogów sklepowych i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status.{zapowiedzi.length > 0 && <> Obecnie: {zapowiedzi.length - przecieki} {zapowiedzi.length - przecieki === 1 ? 'zapowiedź potwierdzona' : 'zapowiedzi potwierdzone'} i {przecieki} {przecieki === 1 ? 'przeciek' : 'przecieków'}.</>}</p>
   <p>Patrzysz dalej w przyszłość? Zebraliśmy <a href="/zapowiedzi-lego-2027/">wszystkie zapowiedzi LEGO na 2027 rok</a> – z podpowiedziami, które zestawy z obecnej oferty warto mieć, zanim znikną.</p>
 
   <nav class="mies-lista" aria-label="Premiery miesiąc po miesiącu">
@@ -51,8 +56,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
         data-wiersz
         data-numer={s.nr}
         data-nazwa={s.nazwa}
-        data-seria={s.seria}
-      >
+        data-seria={s.seria} target="_blank" rel="noopener">
         {s.foto ? (
           <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
         ) : (
@@ -60,7 +64,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
             <span class="studs"><i></i><i></i><i></i><i></i></span>
           </div>
         )}
-        <span class="nr">LEGO {s.nr} {s.premiera > biezacy && <span class="badge-wkrotce">wkrótce</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+        <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek z rynku</span> : s.premiera > biezacy && <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · potwierdzone przez LEGO</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
         <h3>{s.nazwa}</h3>
         <span class="badge-seria">{s.seria}</span>
         <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>

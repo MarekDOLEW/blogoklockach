@@ -51,3 +51,23 @@ export function zapowiedz(nr) {
   const premiera = premieraSetu(nr);
   return Boolean(premiera && premiera > BIEZACY_MIESIAC);
 }
+
+/**
+ * Status nowości (ustalenie Marka 13.09.2026): to, co potwierdziła Grupa LEGO
+ * (karta produktu na lego.com, oficjalny komunikat), kontra „przeciek z rynku"
+ * – informacja od dystrybutorów, z katalogów sklepowych albo od społeczności,
+ * której LEGO jeszcze nie potwierdziło. Oba statusy publikujemy, ale czytelnik
+ * musi widzieć różnicę, bo przy przecieku numer, cena i liczba elementów
+ * mogą się jeszcze zmienić.
+ *
+ * Źródło: pole `status_nowosci` w sety.json – "przeciek" albo "potwierdzone".
+ * Brak pola = potwierdzone (zestaw w sprzedaży jest z definicji potwierdzony).
+ * Scout ustawia je przy dodawaniu zapowiedzi i przestawia na "potwierdzone",
+ * gdy LEGO ujawni zestaw oficjalnie (RUNBOOK, „Statusy: wycofania, nowości, EOL").
+ */
+export function statusNowosci(nr) {
+  return sety[String(nr)]?.status_nowosci === 'przeciek' ? 'przeciek' : 'potwierdzone';
+}
+
+/** Skrót: czy zestaw jest przeciekiem z rynku (niepotwierdzonym przez LEGO). */
+export const przeciek = (nr) => statusNowosci(nr) === 'przeciek';

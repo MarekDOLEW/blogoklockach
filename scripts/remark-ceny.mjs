@@ -72,12 +72,15 @@ function polaczOferty(nr) {
   return [...perSklep.values()];
 }
 
-// Zestaw wycofany nie dostaje wiersza LEGO.com ani dokładanych sklepów bez ceny
-// (wyszukiwarki bywają wtedy puste) – tak samo jak na hubie.
-const wycofany = (nr) =>
-  !sety[nr] && (wycofaniaIdx.get(nr)?.kiedy === 'wycofany' || (!wycofaniaIdx.has(nr) && katalogIdx.get(nr)?.status === 'eol'));
-
-const Z_WORKERA = new Set(['lego', 'xkom', 'allegro', 'smyk', 'empik', 'ceneo']);
+// EOL w LEGO – ta sama reguła co src/lib/status.js (eolWLego): wpis „wycofany"
+// na liście wycofań albo status eol w katalogu, gdy listy nie ma. Dotyczy
+// także setów śledzonych w sety.json – wcześniej te były zawsze „w sprzedaży".
+const wycofany = (nr) => {
+  const w = wycofaniaIdx.get(nr);
+  if (w?.kiedy === 'wycofany') return true;
+  if (w) return false;
+  return katalogIdx.get(nr)?.status === 'eol';
+};
 
 // ── render (lustrzane odbicie TabelaCen.astro) ──
 
@@ -120,71 +123,74 @@ function tabela(nr) {
   const rrp = cenaKatalogowaSetu(nr);
   const premiera = premieraSetu(nr);
   const wkrotce = Boolean(premiera && premiera > BIEZACY_MIESIAC);
-  // przed premierą nie dokładamy wiersza LEGO.com ani sklepów bez ceny – tak samo jak na hubie
-  const dodajLego = !wycofany(nr) && !wkrotce;
+  const eolLego = wycofany(nr);
+  // przed premierą nie dokładamy wiersza LEGO.com – tak samo jak na hubie
+  const dodajLego = !eolLego && !wkrotce;
   const maAfiliacje = (sklep) =>
     sklep === 'lego' ||
     ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
     Boolean(redirects?.[sklep]?.[nr]);
   const maLink = (sklep) => maAfiliacje(sklep) || Boolean(sklepy[sklep]?.szukaj);
-  const rel = (sklep) => (sklep === 'lego' || !maAfiliacje(sklep) ? 'nofollow' : 'sponsored nofollow');
+  const rel = (sklep) => (sklep === 'lego' || sklep === 'smyk' || !maAfiliacje(sklep) ? 'nofollow' : 'sponsored nofollow');
   const rabat = (c) => Math.round((1 - c / rrp) * 100);
 
+  // Zasada z 13.09.2026 (jak w TabelaCen.astro): tylko sklepy z ofertą cenową,
+  // bez wierszy „Sprawdź cenę" dla sklepów bez ceny. LEGO.com zawsze, gdy znamy
+  // cenę katalogową – jako oferta (w sprzedaży) albo wiersz informacyjny (EOL).
   const oferty = polaczOferty(nr);
   if (wkrotce && oferty.length === 0) return '';
+  const sklepowe = eolLego ? oferty.filter((o) => o.sklep !== 'lego') : oferty;
   const zLego =
-    dodajLego && !oferty.some((o) => o.sklep === 'lego') && rrp ? [{ sklep: 'lego', cena: rrp, data: null }] : [];
-  const wszystkie = [...oferty, ...zLego];
+    dodajLego && !sklepowe.some((o) => o.sklep === 'lego') && rrp ? [{ sklep: 'lego', cena: rrp, data: null }] : [];
+  const wszystkie = [...sklepowe, ...zLego];
   // Ceneo to porównywarka, nie sklep – zawsze na końcu, poza sortowaniem.
   const ceneo = wszystkie.find((o) => o.sklep === 'ceneo') ?? null;
   const posortowane = wszystkie.filter((o) => o.sklep !== 'ceneo').sort((a, b) => a.cena - b.cena);
-  if (posortowane.length === 0 && !ceneo) return '';
-
-  const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk', 'empik'])].filter(
-    (s) => s !== '_meta' && s !== 'ceneo' && maAfiliacje(s) && !posortowane.some((o) => o.sklep === s),
-  );
-  if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includes('lego')) bezCeny.push('lego');
+  const wierszLegoEol = eolLego && rrp ? { cena: rrp } : null;
+  if (posortowane.length === 0 && !ceneo && !wierszLegoEol) return '';
 
   const nazwa = (s) => esc(sklepy[s]?.nazwa ?? s);
-  const uwaga = (s) =>
-    UWAGA_SKLEP[s] ? `<span style="display:block;font-size:0.72rem;opacity:0.65;">${esc(UWAGA_SKLEP[s])}</span>` : '';
-  const kolRabat = (c) => (rrp ? `<td>${rabat(c) > 0 ? `−${rabat(c)}%` : '–'}</td>` : '');
+  const uwaga = (s) => (UWAGA_SKLEP[s] ? `<span class="kc-uwaga">${esc(UWAGA_SKLEP[s])}</span>` : '');
+  const kolRabat = (c) => (rrp ? `<td class="kc-rabat">${rabat(c) > 0 ? `−${rabat(c)}%` : '–'}</td>` : '');
 
   const wiersze = posortowane.map(
     (o, i) =>
-      `<tr${i === 0 ? ' class="najtanszy"' : ''}><td><strong>${nazwa(o.sklep)}</strong>${uwaga(o.sklep)}</td>` +
-      `<td class="cena">${fmt(o.cena)}</td>${kolRabat(o.cena)}<td>` +
+      `<tr${i === 0 ? ' class="najtanszy"' : ''}><td class="kc-sklep"><strong>${nazwa(o.sklep)}</strong>${uwaga(o.sklep)}</td>` +
+      `<td class="cena kc-cena">${fmt(o.cena)}</td>${kolRabat(o.cena)}<td class="kc-cta">` +
       (maLink(o.sklep)
         ? `<a class="cta" href="/idz/${o.sklep}/${nr}" rel="${rel(o.sklep)}">Sprawdź w sklepie →</a>`
-        : '<span style="font-size:0.85rem;opacity:0.55;white-space:nowrap;">link wkrótce</span>') +
+        : '<span class="link-wkrotce">link wkrótce</span>') +
       '</td></tr>',
   );
 
-  const wierszeBezCeny = bezCeny.map(
-    (s) =>
-      `<tr><td><strong>${nazwa(s)}</strong>${uwaga(s)}</td><td class="cena">–</td>${rrp ? '<td>–</td>' : ''}` +
-      `<td><a class="cta" href="/idz/${s}/${nr}" rel="${rel(s)}">Sprawdź cenę →</a></td></tr>`,
-  );
+  const wierszEol = wierszLegoEol
+    ? `<tr class="wiersz-eol"><td class="kc-sklep"><strong>${nazwa('lego')}</strong>` +
+      '<span class="kc-uwaga">oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców</span></td>' +
+      `<td class="cena kc-cena">${fmt(wierszLegoEol.cena)}<span class="tag-eol" title="EOL – LEGO zakończyło produkcję i już nie sprzedaje">EOL</span></td>` +
+      `${rrp ? '<td class="kc-rabat">–</td>' : ''}` +
+      '<td class="kc-cta"><span class="kc-eol-info">produkcja zakończona</span></td></tr>'
+    : '';
 
   const wierszCeneo = ceneo
-    ? `<tr class="wiersz-ceneo"><td><strong>${nazwa('ceneo')}</strong>` +
-      '<span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>' +
-      `</td><td class="cena">${fmt(ceneo.cena)}</td>${kolRabat(ceneo.cena)}` +
-      `<td><a class="cta" href="/idz/ceneo/${nr}" rel="sponsored nofollow">Porównaj oferty →</a></td></tr>`
+    ? `<tr class="wiersz-ceneo"><td class="kc-sklep"><strong>${nazwa('ceneo')}</strong>` +
+      '<span class="kc-uwaga">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>' +
+      `</td><td class="cena kc-cena">${fmt(ceneo.cena)}</td>${kolRabat(ceneo.cena)}` +
+      `<td class="kc-cta"><a class="cta" href="/idz/ceneo/${nr}" rel="sponsored nofollow">Porównaj oferty →</a></td></tr>`
     : '';
 
   const stopka =
     (rrp ? `* Rabat liczony od ceny katalogowej LEGO (${fmt(rrp)}). ` : '') +
+    (wierszLegoEol ? 'EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. ' : '') +
     'Tabela odświeża się razem z cenami w serwisie. Sklepy prowadzą też własne promocje i kody rabatowe, ' +
     'których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, ' +
     'jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.';
 
   return (
-    '<div class="karta karta--ceny">' +
+    '<div class="karta karta--ceny tabela-cen-wrap">' +
     '<table class="tabela-cen">' +
     `<caption>Aktualne ceny – LEGO ${nr}</caption>` +
     `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th></th></tr></thead>` +
-    `<tbody>${wiersze.join('')}${wierszeBezCeny.join('')}${wierszCeneo}</tbody>` +
+    `<tbody>${wiersze.join('')}${wierszEol}${wierszCeneo}</tbody>` +
     '</table>' +
     `<p class="tabela-data">${stopka}</p>` +
     '</div>'

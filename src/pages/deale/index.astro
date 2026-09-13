@@ -5,7 +5,8 @@ import { zajawkiArtykulow } from '../../lib/artykuly.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia } from '../../lib/media.js';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku } from '../../lib/oferty.js';
+import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
 
 // Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
 // dealowe (markdown w tym katalogu). Ta strona nie zawiera ani jednej ręcznie
@@ -43,9 +44,15 @@ const POLKI = [
   { etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
 ];
 const NA_POLKE = 12;
+// Linki do Allegro to maks. 30% pozycji półki (3 z 12) – reguła w src/lib/deale.js
+// (ustalenie Marka 13.09.2026). Po wyczerpaniu limitu zestaw dostaje najlepszą
+// ofertę spoza Allegro, o ile nadal spełnia kryterium deala gorącego (rabat ≥30%
+// albo świeże minimum przy ≥15%); inaczej odpada z półki. Wiersz pokazuje cenę
+// i rabat TEJ oferty, nie najniższej – żeby link i kwota zawsze się zgadzały.
+const kryteriumDealu = (s, o) => rabatOferty(s, o) >= 30 || (noweMinimum(s) && rabatOferty(s, o) >= 15);
 const polki = POLKI.map((p) => ({
   ...p,
-  deale: gorace.filter((s) => p.pasuje(najlepszaCena(s))).slice(0, NA_POLKE),
+  deale: przydzielOferty(gorace.filter((s) => p.pasuje(najlepszaCena(s))), { ile: NA_POLKE, akceptuj: kryteriumDealu }),
 })).filter((p) => p.deale.length);
 
 // posty dealowe: markdown z tego katalogu, najnowsze na górze
@@ -84,8 +91,8 @@ const jsonld = {
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>{polka.etykieta}</h2>
       </div>
-      <div class="karta" style="overflow-x:auto">
-        <table class="tabela-cen">
+      <div class="karta tabela-cen-wrap">
+        <table class="tabela-cen tabela-cen--deale">
           <thead>
             <tr>
               <th>Zestaw</th>
@@ -96,23 +103,24 @@ const jsonld = {
             </tr>
           </thead>
           <tbody>
-            {polka.deale.map((s) => {
-              const oferta = najtanszaOferta(s);
-              const aff = oferta && linkAfiliacyjny(oferta.sklep, s.nr);
+            {polka.deale.map(({ set: s, oferta }) => {
+              const aff = linkAfiliacyjny(oferta.sklep, s.nr);
+              const cena = oferta.cena;
               return (
                 <tr>
-                  <td>
-                    <a href={`/zestaw/${s.nr}/`}><strong>LEGO {s.nr}</strong> {s.nazwa}</a>
-                    {noweMinimum(s) && <> <span class="badge-najnizsza">nowe minimum</span></>}
+                  <td class="kc-sklep">
+                    <a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener"><strong>LEGO {s.nr}</strong> {s.nazwa}</a>
+                    {noweMinimum(s) && cena === najlepszaCena(s) && <> <span class="badge-najnizsza">nowe minimum</span></>}
+                    <span class="kc-uwaga">{nazwaSklepu(oferta.sklep)}</span>
                   </td>
-                  <td class="cena">{fmtCena(najlepszaCena(s))}</td>
-                  <td><span class="badge-rabat-mini">−{rabat(s)}%</span></td>
-                  <td>{s.elementy ? (najlepszaCena(s) / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}</td>
-                  <td>
+                  <td class="cena kc-cena">{fmtCena(cena)}</td>
+                  <td class="kc-rabat"><span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span></td>
+                  <td class="kc-klocek">{s.elementy ? (cena / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}<span class="kc-klocek-etykieta"> za klocek</span></td>
+                  <td class="kc-cta">
                     {aff ? (
-                      <a class="cta" href={aff} rel="sponsored nofollow">Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                      <a class="cta" href={aff} rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
                     ) : (
-                      <a class="cta" href={`/zestaw/${s.nr}/`}>Porównaj ceny</a>
+                      <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>
                     )}
                   </td>
                 </tr>
@@ -140,7 +148,9 @@ const jsonld = {
   <p class="disclosure">
     Linki do sklepów są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis
     i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór dealów: rabaty
-    liczymy zawsze od cen katalogowych LEGO, a najtańszą ofertę pokazujemy niezależnie
-    od tego, czy mamy z danym sklepem współpracę.
+    liczymy zawsze od cen katalogowych LEGO, a ofertę pokazujemy niezależnie
+    od tego, czy mamy z danym sklepem współpracę. Pilnujemy też, by lista nie była
+    wyłącznie aukcjami – Allegro to najwyżej trzy pozycje na półce, resztę oddajemy
+    sklepom z własnym magazynem, jeśli ich cena wciąż jest realnym dealem.
   </p>
 </Base>

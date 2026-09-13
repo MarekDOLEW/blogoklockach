@@ -383,7 +383,7 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .tabela-setow tbody tr { scroll-margin-top: calc(var(--h-naglowek) + 96px); }
 .tabela-setow .kol-foto { width: 116px; padding-right: 6px; vertical-align: middle; }
 .tabela-setow .kol-nr { width: 84px; }
-.tabela-setow .kol-status { width: 136px; }
+.tabela-setow .kol-status { width: 176px; } /* „potwierdzone przez LEGO" + znacznik EOL */
 .tabela-setow .kol-cena { width: 152px; text-align: right; }
 
 /* zdjęcie na wysokość całego wiersza (typowy wiersz z 3-liniowym opisem ma ~100 px);
@@ -1121,3 +1121,74 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
   padding: 1px 7px;
 }
 
+/* ---------- Statusy: EOL, prognozy, przecieki (ustalenia 13.09.2026) ---------- */
+/* Znacznik EOL: LEGO zakończyło sprzedaż, ale zestaw wciąż bywa w sklepach –
+   stoi POD plakietką „w sprzedaży" na listingu i przy cenie LEGO w tabeli cen */
+.tag-eol {
+  display: inline-block; font-weight: 800; font-size: 0.66rem; letter-spacing: 0.08em;
+  padding: 1px 7px; border-radius: 4px; vertical-align: middle; line-height: 1.5;
+  background: rgba(224,49,47,0.10); color: var(--czerwien); border: 1px solid rgba(224,49,47,0.28);
+}
+.tabela-setow .kol-status .tag-eol { display: block; width: max-content; margin-top: 5px; }
+.tabela-cen .kc-cena .tag-eol { margin-left: 8px; }
+.tabela-cen tr.wiersz-eol td { color: var(--granat-60); }
+.tabela-cen .kc-eol-info { font-size: 0.82rem; color: var(--granat-60); white-space: nowrap; }
+.tabela-cen .kc-uwaga { display: block; font-size: 0.72rem; opacity: 0.65; font-weight: 400; }
+/* nowości: zapowiedź nieoficjalna – kreskowana ramka jak .status--maybe w artykułach */
+.badge-przeciek {
+  display: inline-block; background: var(--papier); color: var(--granat-60);
+  border: 1px dashed #b9c0cd; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px;
+}
+.nowosci-legenda { font-size: 0.9rem; color: var(--granat-60); }
+.nowosci-legenda .badge-wkrotce, .nowosci-legenda .badge-przeciek { font-size: 0.74rem; padding: 2px 8px; vertical-align: 1px; }
+/* podobne zestawy pod hubem – kafelki jak „Dziś w dobrej cenie" */
+.podobne .siatka--4x4 { margin-top: 12px; }
+.podobne-cala-seria { font-weight: 700; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
+.podobne-cala-seria:hover { border-bottom-color: var(--granat); }
+
+/* ---------- Tabela cen na wąskim ekranie: wiersz staje się kartą ----------
+   Cztery (na /deale/ pięć) kolumn nie mieści się na telefonie – tabela wystawała
+   poza ekran w przewijanym pojemniku. Na wąskim ekranie rezygnujemy z ramki
+   karty, a każdy wiersz układamy w siatkę: sklep, pod nim cena + rabat, pod
+   nimi przycisk na całą szerokość. Na desktopie zostaje zwykła tabela. */
+.tabela-cen-wrap { padding: 18px; margin: 18px 0; overflow-x: auto; }
+.tabela-cen .kc-klocek-etykieta { display: none; }
+@media (max-width: 720px) {
+  .tabela-cen-wrap { padding: 0; margin: 14px 0; border: 0; box-shadow: none; background: transparent; overflow: visible; }
+  .tabela-cen { font-size: 0.92rem; }
+  .tabela-cen caption { padding: 0 2px 6px; }
+  .tabela-cen thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .tabela-cen, .tabela-cen tbody { display: block; }
+  .tabela-cen tr {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "sklep  sklep"
+      "cena   rabat"
+      "klocek klocek"
+      "cta    cta";
+    gap: 4px 12px;
+    padding: 12px 2px 14px;
+    border-bottom: 1px solid var(--linia);
+  }
+  .tabela-cen td, .tabela-cen th { display: block; padding: 0; border: 0; min-width: 0; }
+  .tabela-cen .kc-sklep { grid-area: sklep; }
+  .tabela-cen .kc-cena { grid-area: cena; font-size: 1.15rem; }
+  .tabela-cen .kc-rabat { grid-area: rabat; align-self: center; font-weight: 700; }
+  .tabela-cen .kc-klocek { grid-area: klocek; font-size: 0.82rem; color: var(--granat-60); }
+  .tabela-cen .kc-klocek-etykieta { display: inline; }
+  .tabela-cen .kc-cta { grid-area: cta; margin-top: 4px; }
+  .tabela-cen .kc-cta .cta { display: block; text-align: center; }
+  .tabela-cen .kc-eol-info { white-space: normal; }
+  .tabela-cen tr.najtanszy { background: #fff8e1; box-shadow: inset 4px 0 0 var(--zolty); padding-left: 10px; padding-right: 8px; border-radius: 6px; }
+  .tabela-cen tr.najtanszy td:first-child { border-left: 0; }
+  .tabela-cen tr.wiersz-ceneo, .tabela-cen tr.wiersz-eol { background: var(--papier); padding-left: 8px; padding-right: 8px; border-radius: 6px; }
+  .tabela-cen-wrap .tabela-data { padding: 0 2px; }
+}
+
+/* uzupełnienia po scaleniu 13.09.2026 */
+.tabela-cen .link-wkrotce { font-size: 0.85rem; opacity: 0.55; white-space: nowrap; }
+/* podobne zestawy pod hubem: 4–6 kafelków, siatka dopasowuje się do liczby */
+.siatka--podobne { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 12px 0 0; }
+.siatka--podobne > * { min-width: 0; }
+.set-karta .nr .tag-eol { margin-left: 4px; }

@@ -36,9 +36,9 @@ import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import karty from '../data/karty_setow.json';
 import cenyBaza from '../data/ceny_baza.json';
-import { wpisKatalogu } from './katalog.js';
 import { wycofanieSetu } from './huby.js';
 import { polaczOferty } from './oferty.js';
+import { wycofanyZProdukcji } from './status.js';
 import { premieraSetu } from './premiery.js';
 import { tekstyOZestawie, wPrezentowniku } from './teksty.js';
 
@@ -72,13 +72,9 @@ export function dlugoscOpisu(nr) {
   return Math.max(zSetow, zKarty, zWycofan);
 }
 
-/** Czy zestaw jest wycofany z produkcji (EOL). */
-export function wycofanyZProdukcji(nr) {
-  const klucz = String(nr);
-  const w = wycofanieSetu(klucz);
-  if (w) return w.kiedy === 'wycofany';
-  return wpisKatalogu(klucz)?.status === 'eol';
-}
+// Definicja EOL mieszka w src/lib/status.js (jedno źródło dla listingów,
+// hubów i tej oceny) – tu tylko re-eksport dla dotychczasowych importów.
+export { wycofanyZProdukcji };
 
 /** Gorący deal – ta sama reguła co lista na /deale/: rabat ≥30% od ceny
  *  katalogowej albo świeże minimum notowań przy rabacie ≥15%. */

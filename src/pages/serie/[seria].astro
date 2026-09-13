@@ -6,8 +6,9 @@ import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../../lib/media.js';
-import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink, fmtCena, cenaKatalogowaSetu } from '../../lib/oferty.js';
+import { najlepszaOferta, linkAfiliacyjny, fmtCena, cenaKatalogowaSetu } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
+import { statusListingu } from '../../lib/status.js';
 
 export function getStaticPaths() {
   const zSetow = [...new Set(Object.values(sety).map((s) => s.seria))];
@@ -27,17 +28,20 @@ const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
 const feedSety = ofertyFeed?.sety ?? {};
 
 // Wiersze do wspólnej tabeli – ten sam kształt co na /wycofania/.
+// Status liczy src/lib/status.js z listy wycofań i katalogu, więc zestaw, który
+// LEGO już wycofało, a sklepy jeszcze mają (np. 76264), dostaje „w sprzedaży"
+// z dopiskiem EOL, a zestaw z listy wycofań – „potwierdzone przez LEGO" albo
+// „prognoza rynku" zamiast gołego „w sprzedaży".
 const wiersze = hist.map((s) => {
-  let oferta = najlepszaOferta(s.numer, { sety, feed: feedSety });
+  const sklepowa = najlepszaOferta(s.numer, { sety, feed: feedSety });
   const cenaKat = cenaKatalogowaSetu(s.numer, { sety });
-  // dopóki LEGO jeszcze sprzedaje zestaw, brak ofert sklepów nie oznacza
-  // braku ceny – pokazujemy cenę katalogową z linkiem do LEGO.com
-  if (!oferta && s.status !== 'eol' && cenaKat) {
-    oferta = { sklep: 'lego', cena: cenaKat, data: null };
-  }
-  const link = oferta
-    ? linkAfiliacyjny(oferta.sklep, s.numer)
-    : (jakikolwiekLink(s.numer)?.url ?? (s.status !== 'eol' ? `/idz/lego/${s.numer}` : null));
+  const status = statusListingu(s.numer, { maOferte: Boolean(sklepowa && sklepowa.sklep !== 'lego') });
+  // dopóki LEGO sprzedaje zestaw, brak ofert sklepów nie oznacza braku ceny –
+  // pokazujemy cenę katalogową z linkiem do LEGO.com. Po EOL w LEGO bez oferty
+  // nie ma linku „na ślepo" – wiersz mówi „brak w sprzedaży".
+  let oferta = sklepowa;
+  if (!oferta && !status.eolLego && cenaKat) oferta = { sklep: 'lego', cena: cenaKat, data: null };
+  const link = oferta ? linkAfiliacyjny(oferta.sklep, s.numer) : null;
   return {
     numer: s.numer,
     nazwa: s.nazwa,
@@ -47,12 +51,15 @@ const wiersze = hist.map((s) => {
     elementy: s.elementy,
     zdjecie: urlZdjecia(s.numer, { sety, feed: feedSety }),
     hub: maHub(s.numer),
-    status: s.status === 'eol' ? 'eol' : 'sprzedaz',
+    status: status.badge,
+    eolLego: status.eolLego,
+    kiedy: status.kiedy,
     oferta,
     link,
     cenaKatalogowa: cenaKat,
   };
 });
+const liczbaEol = wiersze.filter((w) => w.eolLego).length;
 ---
 <Base
   title={`LEGO ${seria} – ceny i katalog serii`}
@@ -88,6 +95,8 @@ const wiersze = hist.map((s) => {
           <a
             class="karta set-karta"
             href={`/zestaw/${s.nr}/`}
+            target="_blank"
+            rel="noopener"
             data-wiersz
             data-licz="0"
             data-numer={s.nr}
@@ -110,7 +119,7 @@ const wiersze = hist.map((s) => {
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
       </div>
-      <p>Wszystkie zestawy serii – także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
+      <p>Wszystkie zestawy serii – także te, których LEGO już nie sprzedaje (znacznik <span class="tag-eol">EOL</span>). Część wycofanych zestawów wciąż kupisz w innych sklepach – wtedy pokazujemy aktualną cenę; resztę już tylko na rynku wtórnym, gdzie ceny często przewyższają katalogowe.</p>
       <p class="disclosure">Ceny prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej – zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją – wiążąca jest zawsze cena w koszyku sklepu.</p>
       <TabelaSetow wiersze={wiersze} />
       <p class="lista-pusta" data-pusto hidden>Żaden zestaw z tej serii nie pasuje do wyszukiwania.</p>

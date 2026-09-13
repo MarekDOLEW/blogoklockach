@@ -124,7 +124,7 @@ Klocków.
 
 ---
 
-## Typowanie deali *(ustalone 18.08.2026, limit Allegro dodany 05.09.2026)*
+## Typowanie deali *(ustalone 18.08.2026, limit Allegro 05.09.2026, zaostrzony 13.09.2026)*
 
 Deale dnia typujemy w **trzech półkach cenowych**: do 200 zł, 201–800 zł,
 801 zł i więcej.
@@ -136,11 +136,14 @@ z −50%).
 Slajder na stronie głównej:
 - sloty 1–3 — najlepszy rabat z każdej półki, od najdroższej
 - sloty 4–5 — dzikie karty wg samego rabatu
-- **Allegro maks. 2 z 5 slotów** (od 05.09.2026): marketplace wygrywa ceną
-  niemal każdy slot, a karuzela ma pokazywać też sklepy z własnym magazynem.
-  Po wyczerpaniu limitu slot dostaje najlepszą ofertę spoza Allegro — z ceną
-  i rabatem tego sklepu (nadal ≥15%); set bez takiej oferty odpada ze slotu.
-  Logika w `src/pages/index.astro` (LIMIT_ALLEGRO).
+- **Allegro maks. 30% linków w dealach** (decyzja Marka 13.09.2026; wcześniej
+  „2 z 5" od 05.09): marketplace wygrywa ceną niemal każdy slot, a deale mają
+  pokazywać też sklepy z własnym magazynem. W karuzeli (5 slotów) to **1 slot**,
+  na półce `/deale/` (12 pozycji) — **3 pozycje**. Po wyczerpaniu limitu zestaw
+  dostaje najlepszą ofertę spoza Allegro — z ceną i rabatem tego sklepu (nadal
+  ≥15%, a na `/deale/` nadal kryterium deala gorącego); set bez takiej oferty
+  odpada. Reguła i próg w `src/lib/deale.js` (`UDZIAL_ALLEGRO`, `limitAllegro`,
+  `przydzielOferty`); karuzela używa `limitAllegro(5)`, półki `przydzielOferty`.
 
 Raporty Łowcy pokazują czołówkę osobno dla każdej półki.
 
@@ -565,8 +568,14 @@ stron produktu (Cloudflare) — działa wyszukiwarka z `allowed_domains`.
 
 ## Oznaczenia wycofań — próg dowodowy
 
-Ustalone 28.08.2026 (decyzja Marka): na `/wycofania/` trafiają **wyłącznie
-zestawy z terminem potwierdzonym przez Grupę LEGO.** Branżowe zestawienia
+**Aneks 13.09.2026 (Marek):** prognozy branżowe WRACAJĄ na listę, ale wyłącznie
+jako osobny, wyraźnie oznaczony status „prognoza rynku" — pełna reguła
+w sekcji „Statusy: wycofania, nowości, EOL" poniżej. Poniższy próg z 28.08
+obowiązuje nadal dla statusu „potwierdzone przez LEGO": to, co podpisujemy jako
+fakt, musi pochodzić od Grupy LEGO.
+
+Ustalone 28.08.2026 (decyzja Marka): na `/wycofania/` jako **potwierdzone**
+trafiają **wyłącznie zestawy z terminem potwierdzonym przez Grupę LEGO.** Branżowe zestawienia
 bywają trafne, ale bywają też przesunięte o miesiące, a data wycofania jest
 informacją, na której czytelnik opiera zakup za kilkaset złotych.
 
@@ -576,6 +585,132 @@ jej**, dopóki LEGO nie poda terminów. Artykuł o restarcie serii mówi o tym
 czytelnikowi wprost i tłumaczy dlaczego, zamiast udawać, że luki nie ma.
 
 ---
+
+## Statusy: wycofania, nowości, EOL na listingu *(ustalone 13.09.2026, decyzje Marka)*
+
+Serwis ma być ekspercki: fakt od Grupy LEGO i prognoza rynku to dwie różne
+informacje i czytelnik musi widzieć, którą dostaje. Obie są ważne — fakt musi
+być u nas odnotowany, prognoza pokazuje, że trzymamy rękę na pulsie.
+
+### Wycofania (`wycofania.json`, runner Wycofań)
+
+| status w pliku | na stronie | znaczenie |
+|---|---|---|
+| `potwierdzone` | **potwierdzone przez LEGO** | fakt: dział „Ostatnie sztuki"/„Retiring soon" na lego.com, oficjalny komunikat LEGO, albo zestaw zniknął z lego.com (`kiedy: "wycofany"`) |
+| `przewidywane` | **prognoza rynku** | zgodne przewidywania ≥2 źródeł branżowych (Brickset, Brick Fanatics, StoneWars, PromoBricks, listy EOL konkurencji) |
+
+Reguły (pełny tekst także w `wycofania.json` → `_meta.regula_statusow`):
+
+1. Każdy wpis ma `zrodlo` (skąd i z jaką datą). Prognoza nigdy nie jest
+   podpisywana jako potwierdzona — nawet gdy „wszyscy tak piszą".
+2. Przejścia: `przewidywane → potwierdzone`, gdy LEGO potwierdzi (zmień status,
+   dopisz `potwierdzono: RRRR-MM-DD`, nie kasuj wpisu); `potwierdzone` z
+   terminem `→ kiedy: "wycofany"`, gdy zestaw zniknie z lego.com; prognoza,
+   której LEGO zaprzeczyło albo termin minął bez wycofania `→ kiedy: "odwołane"`
+   (wpis zostaje w pliku, strona go nie pokazuje). Najczęstsza ścieżka to
+   prognoza, która po sprawdzeniu zamienia się w potwierdzenie.
+3. `kiedy: "wycofany"` wymaga `status: "potwierdzone"` i odbicia w
+   `katalog.json` (`status: "eol"`) — po każdym przebiegu runner uruchamia
+   `node scripts/audyt-wycofan.mjs --napraw` (sekcja A raportu = do naprawy,
+   sekcja B = katalog mówi „eol" przy wpisie z przyszłym terminem, do ręcznego
+   rozstrzygnięcia).
+4. Na stronie lista wycofań ma pierwszeństwo przed statusem katalogu
+   (`src/lib/status.js` → `eolWLego`, `statusWycofania`, `statusListingu`):
+   katalog bywa importowany hurtem z Bricksetu/scouta z domyślnym `dostepny`
+   (np. cała seria Batman 10.09). Wpis `kiedy: "odwołane"` jest dla strony
+   niewidoczny – zestaw wraca do statusu z katalogu.
+5. **`--napraw` nie jest ślepy.** Zanim runner przestawi katalog na `eol`,
+   sprawdza zestaw na lego.com (patrz „Jak sprawdzić status na lego.com"
+   niżej): 13.09 wpis 10307 Wieża Eiffla miał `kiedy: "wycofany"`, a karta
+   na lego.com mówiła „Dostępne teraz" – taki wpis dostaje `kiedy: "odwołane"`
+   z wyjaśnieniem w `uwagi`, a katalog zostaje `dostepny`.
+
+### Nowości (`sety.json`, Scout)
+
+| pole `status_nowosci` | na stronie | znaczenie |
+|---|---|---|
+| brak albo `potwierdzone` | **wkrótce · potwierdzone przez LEGO** (tylko zapowiedzi) | karta produktu na lego.com albo oficjalny komunikat Grupy LEGO |
+| `przeciek` | **przeciek z rynku** | informacja od dystrybutorów, z katalogów sklepowych, od społeczności — numer, nazwa, cena i liczba elementów mogą się zmienić |
+
+Scout ustawia `status_nowosci` **przy każdej zapowiedzi, którą dopisuje**:
+`"przeciek"`, gdy źródłem są dystrybutorzy, rezerwacja numeru w Brickset,
+StoneWars/PromoBricks czy społeczność; `"potwierdzone"`, gdy LEGO ma kartę
+produktu (także „Wkrótce w sprzedaży" / przedsprzedaż), wydało komunikat albo
+pokazało zestaw oficjalnie (targi, LEGO Ideas). Dwa zgodne źródła branżowe to
+wciąż przeciek – tylko producent potwierdza. Gdy LEGO ujawni zestaw, Scout
+przestawia pole na `"potwierdzone"` i uzupełnia oficjalną nazwę, cenę i liczbę
+elementów. Brak pola = potwierdzone (tak są traktowane wszystkie zestawy, które
+weszły do bazy przed 13.09 i mają kartę na lego.com). Zestaw w sprzedaży jest
+z definicji potwierdzony i statusu nie pokazuje.
+Logika: `src/lib/premiery.js` (`statusNowosci`, `przeciek`).
+
+### EOL na listingu i w tabeli cen (`src/lib/status.js`)
+
+Dwa pytania, których nie wolno mieszać: *czy LEGO jeszcze sprzedaje* i *czy da
+się kupić w sklepach*. Zestaw wycofany przez LEGO bywa miesiącami w Media
+Expert, Planecie Klocków czy na Allegro (13.09: 3 152 zestawy z katalogu
+„eol" mają ofertę sklepu).
+
+- Listing (`TabelaSetow`): LEGO sprzedaje → „w sprzedaży"; LEGO nie sprzedaje,
+  sklep ma → „w sprzedaży" + znacznik **EOL** pod plakietką i cena sklepu;
+  nikt nie ma → „wycofany (EOL)", „brak w sklepach – tylko rynek wtórny", bez
+  linku do LEGO.com.
+- Tabela cen huba (`TabelaCen`): tylko sklepy z aktualną ceną; wiersz LEGO.com
+  zostaje z ceną katalogową i znacznikiem **EOL** pod ceną, bez przycisku.
+  Wiersze „Sprawdź cenę" bez kwoty (x-kom, Smyk, Empik, link z `redirects.json`
+  bez ceny w feedzie) po EOL **znikają** — nie wiemy, czy sklep ma zestaw, więc
+  nie wysyłamy czytelnika w pustą wyszukiwarkę. Dla zestawów w sprzedaży
+  zostają (decyzja z 20.08.2026 w `redakcja/README.md`).
+- Serwer nie sprawdzi lego.com (Cloudflare, 403), ale przeglądarka na Macu
+  Marka – tak (sekcja „Jak sprawdzić status na lego.com" niżej). Status EOL
+  spoza listy wycofań ustala człowiek, ta metoda albo Firecrawl (sekcja
+  „lego.pl: dostępne przez Firecrawl"). Przykład: 76264 Batmobil Pogoń —
+  katalog miał `dostepny`, karta na lego.com „Produkcja zakończona"; wpis
+  dostał `status: "eol"` i `status_zrodlo`.
+
+### Jak sprawdzić status na lego.com *(metoda z 13.09.2026)*
+
+Karta produktu `https://www.lego.com/pl-pl/product/<numer>` (przekierowuje na
+adres ze slugiem) niesie w `<script id="__NEXT_DATA__">` stan Apollo:
+obiekt `*Product:*` z `productCode` równym numerowi, jego `variant` →
+`ProductVariant` → `attributes.availabilityStatus` i `availabilityText`.
+Wartości, które widzieliśmy:
+
+| `availabilityStatus` | `availabilityText` | znaczenie dla nas |
+|---|---|---|
+| `E_AVAILABLE` | Dostępne teraz | w sprzedaży |
+| `K_SOLD_OUT` | Wyprzedane | w sprzedaży (chwilowy brak – NIE eol) |
+| `F_BACKORDER_FOR_DATE`, `G_BACKORDER` | zamówienie z opóźnieniem | w sprzedaży |
+| `A_PRE_ORDER_FOR_DATE`, `B_COMING_SOON_AT_DATE` | przedsprzedaż / wkrótce | zapowiedź potwierdzona przez LEGO |
+| `P_FREE_ITEM`, `Q_OUT_STOCK_FREE_ITEM` | gratis (GWP/polybag) | poza sprzedażą detaliczną – nie ruszać statusu |
+| `R_RETIRED` | Produkcja zakończona | **EOL** |
+| HTTP 404 | – | LEGO.com PL nigdy nie miało karty (polybagi, część DUPLO) – status z katalogu zostaje |
+
+Z serwera (runner) to nie działa – 403. Z przeglądarki na Macu działa: po
+otwarciu dowolnej karty na lego.com można z konsoli pobrać kolejne karty
+`fetch('/pl-pl/product/<nr>')` i sparsować `__NEXT_DATA__`. Limity: po ~150
+szybkich zapytaniach lego.com odpowiada 429 na ~90 s; tempo 1 zapytanie /
+1,5 s przechodzi. Prosty regex po samym HTML **nie wystarcza** – strona
+zawiera statusy także polecanych produktów, trzeba czytać obiekt z właściwym
+`productCode`. Wynik przebiegu z 13.09: `materialy/audyt-wycofan-2026-09-13.md`.
+
+### Pozostałe ustalenia z 13.09.2026
+
+- **Szczegóły zestawu otwierają się w nowej karcie** z każdego miejsca serwisu
+  — dwa poziomy: szablony i pluginy remark (`remark-nazwy-setow`,
+  `remark-galeria`) dopisują `target="_blank" rel="noopener"` wprost (działa
+  bez JS, widzą to też roboty), a delegacja kliknięcia w `Base.astro`
+  (`a[href^="/zestaw/"]`) łapie resztę: ręczne linki w markdownie i wyniki
+  wyszukiwarki dorysowane skryptem (tam Enter robi `window.open`). Nowy link
+  do huba w szablonie ma dostawać atrybuty jawnie.
+- **Podobne zestawy pod hubem**: 4–6 kafelków losowanych z hubów tej samej serii
+  (ziarno = dzień + numer, `src/lib/seria-huby.js` → `podobneZSerii`), pod nimi
+  „Zobacz całą serię". Pula: najpierw zestawy z ceną i zdjęciem.
+- **Tabela cen na telefonie** (`≤720px`): bez ramki karty, wiersz jako siatka
+  sklep / cena + rabat / przycisk na całą szerokość (`.tabela-cen-wrap`,
+  klasy `kc-*` w `TabelaCen.astro`, w `scripts/remark-ceny.mjs` i na
+  `/deale/`). Musi mieścić się w jednym widoku bez przewijania w poziomie.
+  Przy zmianie komponentu tabeli poprawiamy oba renderery (komponent i remark).
 
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
 

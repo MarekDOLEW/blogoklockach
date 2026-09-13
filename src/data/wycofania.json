@@ -1,13 +1,13 @@
 {
  "_meta": {
-  "aktualizacja": "2026-09-05",
+  "aktualizacja": "2026-09-13",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
    "brickfanatics.com",
    "pl.brickfanatics.com"
   ],
-  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje. Status 'wycofany' dotyczy tylko lego.com - inni sprzedawcy moga sprzedawac zapasy jeszcze przez wiele miesiecy, wiec w uwagach kieruj czytelnika do innych sklepow (bez slowa 'resztki'), a cene katalogowa i aktywny link do LEGO zostawiamy do konca.",
+  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz zrodel branzowych (Brickset, Brick Fanatics, StoneWars, PromoBricks). Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany' / 'odwolane'. Pole status: 'potwierdzone' (Grupa LEGO dala sygnal) lub 'przewidywane' (prognoza rynku). Pelna regula statusow: _meta.regula_statusow oraz RUNBOOK.md, sekcja 'Statusy: wycofania, nowosci, EOL'. Dopisuj TYLKO zweryfikowane pozycje. Status 'wycofany' dotyczy tylko lego.com - inni sprzedawcy moga sprzedawac zapasy jeszcze przez wiele miesiecy; listing pokazuje wtedy 'w sprzedazy' + znacznik EOL i cene sklepu, a tabela cen huba wiersz LEGO.com z cena katalogowa i EOL bez linku.",
   "serie_kolejnosc": [
    "Ideas",
    "Icons",
@@ -20,6 +20,15 @@
    "Friends",
    "Ninjago",
    "BrickHeadz"
+  ],
+  "aktualizacja_reguly": "2026-09-13",
+  "regula_statusow": [
+   "1. status 'potwierdzone' (na stronie: 'potwierdzone przez LEGO') - FAKT. Tylko gdy Grupa LEGO dala sygnal: zestaw w dziale 'Ostatnie sztuki' / 'Retiring soon' na lego.com, oficjalny komunikat LEGO, albo zestaw zniknal z lego.com (wtedy kiedy: 'wycofany'). Zapisz zrodlo i date w polu 'zrodlo' (np. 'lego.com Ostatnie sztuki, 2026-09-13').",
+   "2. status 'przewidywane' (na stronie: 'prognoza rynku') - PROGNOZA. Zgodne przewidywania co najmniej dwoch zrodel branzowych (Brickset, Brick Fanatics, StoneWars, PromoBricks, listy EOL konkurencji). Pole kiedy = przewidywany termin. Zapisz zrodla w polu 'zrodlo'. Prognozy sa wazne - pokazuja, ze trzymamy reke na pulsie - ale nigdy nie wolno ich podpisac jako potwierdzone.",
+   "3. Przejscia: (a) przewidywane -> potwierdzone, gdy LEGO potwierdzi (nie kasuj wpisu: zmien status, uzupelnij zrodlo, dopisz 'potwierdzono': 'RRRR-MM-DD'); (b) potwierdzone z terminem -> potwierdzone + kiedy: 'wycofany', gdy zestaw zniknie z lego.com; (c) prognoza, ktorej LEGO zaprzeczylo albo termin minal bez wycofania -> kiedy: 'odwolane' + wyjasnienie w uwagach (wpis zostaje w pliku, strona go nie pokazuje). Nowe daty po przesunieciu: zmien kiedy, zostaw status.",
+   "4. kiedy: 'wycofany' wymaga status: 'potwierdzone' (znikniecie z lego.com to fakt) i musi miec odbicie w katalog.json (status 'eol'). Po kazdym przebiegu uruchom: node scripts/audyt-wycofan.mjs --napraw.",
+   "5. Wpis z status: 'przewidywane' nigdy nie ma kiedy: 'wycofany'. Rozjazdy miedzy lista a katalog.json wypisuje node scripts/audyt-wycofan.mjs (sekcja B: katalog 'eol' przy wpisie z przyszlym terminem - sprawdz recznie, ktore zrodlo ma racje; lista wycofan ma pierwszenstwo na stronie).",
+   "6. Kazdy wpis ma pola: numer, nazwa, seria, elementy, kiedy, status, uwagi (1-2 zdania dla czytelnika: dlaczego warto kupic teraz), zrodlo. Pole zdjecie opcjonalne. Liczba wpisow nie moze malec (append-only)."
   ]
  },
  "wycofania": [
@@ -189,9 +198,9 @@
    "nazwa": "Wieża Eiffla",
    "seria": "Icons",
    "elementy": 10001,
-   "kiedy": "wycofany",
+   "kiedy": "odwołane",
    "status": "potwierdzone",
-   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż na lego.com, jednak inni sprzedawcy mogą wciąż mieć zapasy – po ich wyczerpaniu tak monumentalne konstrukcje zwykle drożeją."
+   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż na lego.com, jednak inni sprzedawcy mogą wciąż mieć zapasy – po ich wyczerpaniu tak monumentalne konstrukcje zwykle drożeją. [13.09.2026: karta na lego.com ma status „Dostępne teraz” – wpis „wycofany” odwołany, do ponownej weryfikacji przez runner Wycofań]"
   },
   {
    "numer": "10309",
@@ -1653,9 +1662,9 @@
    "nazwa": "Kwiaty lotosu",
    "seria": "Creator",
    "elementy": 220,
-   "kiedy": "wycofany",
+   "kiedy": "odwołane",
    "status": "potwierdzone",
-   "uwagi": "Budowane z klocków lotosy to tani dodatek do botanicznych kolekcji dorosłych, dlatego po wycofaniu warto jeszcze przejrzeć półki lokalnych sklepów.",
+   "uwagi": "Budowane z klocków lotosy to tani dodatek do botanicznych kolekcji dorosłych, dlatego po wycofaniu warto jeszcze przejrzeć półki lokalnych sklepów. [13.09.2026: karta na lego.com ma status „Dostępne teraz” – wpis „wycofany” odwołany, do ponownej weryfikacji przez runner Wycofań]",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1"
   },
   {

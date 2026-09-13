@@ -10,6 +10,7 @@ import { zajawkaArtykulu, zajawkaZMeta } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
+import { limitAllegro } from '../lib/deale.js';
 
 const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
@@ -57,13 +58,15 @@ const noweMinimumDzis = (s) =>
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const kandydaciSlajdera = zRabatem.filter((s) => s.foto);
 
-// Allegro nie może zdominować karuzeli: maks. 2 z 5 slajdów z linkiem do Allegro
-// (ustalenie z 05.09.2026 – marketplace wygrywa ceną niemal każdy slot, a karuzela
-// jest wizytówką serwisu i ma pokazywać też sklepy z własnym magazynem).
+// Allegro nie może zdominować karuzeli: linki do Allegro to maks. 30% linków
+// w dealach (ustalenie Marka z 13.09.2026, zaostrzenie limitu „2 z 5" z 05.09) –
+// przy 5 slajdach zostaje 1 slot. Marketplace wygrywa ceną niemal każdy slot,
+// a karuzela jest wizytówką serwisu i ma pokazywać też sklepy z własnym magazynem.
 // Po wyczerpaniu limitu slot dostaje najlepszą ofertę SPOZA Allegro – pokazywaną
 // z ceną i rabatem tego sklepu (nadal ≥15%, żeby nie promować pseudopromocji);
-// set bez takiej oferty odpada z dalszych slotów.
-const LIMIT_ALLEGRO = 2;
+// set bez takiej oferty odpada z dalszych slotów. Reguła i próg: src/lib/deale.js.
+const SLOTY_SLAJDERA = 5;
+const LIMIT_ALLEGRO = limitAllegro(SLOTY_SLAJDERA);
 let uzyteAllegro = 0;
 const rabatOferty = (s, o) => Math.round((1 - o.cena / s.cena_katalogowa) * 100);
 const najtanszaSpozaAllegro = (s) =>
@@ -99,7 +102,7 @@ for (const polka of POLKI) {
 }
 // dzikie karty: seedowane losowanie z 10 najwyższych pozostałych rabatów
 const rezerwa = kandydaciSlajdera.filter((s) => !juzWSlajderze(s)).slice(0, 10);
-while (dealeDnia.length < 5 && rezerwa.length) {
+while (dealeDnia.length < SLOTY_SLAJDERA && rezerwa.length) {
   const kandydaci = rezerwa.map(paraDealu).filter((p) => p && (naSerie[p.set.seria] ?? 0) < 2);
   if (!kandydaci.length) break;
   const p = losowyZ(kandydaci);
@@ -144,12 +147,14 @@ const punkty = (w) => {
   if (w.kiedy === 'wycofany') p -= 4; // rynek wtórny – nie da się już „upolować" w sklepie
   return { wiersz, p };
 };
+// wpisy „odwołane" (LEGO przedłużyło sprzedaż) zostają w pliku, ale nie na liście
 const topWycofania = wycofaniaDane.wycofania
+  .filter((w) => w.kiedy !== 'odwołane')
   .map(punkty)
   .sort((a, b) => b.p - a.p)
   .slice(0, 10)
   .map((x) => x.wiersz);
-const liczbaWycofan = wycofaniaDane.wycofania.length;
+const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwołane').length;
 
 // ── Zajawki artykułów: 6 najnowszych (dwa rzędy po trzy w siatce .zajawki) ──
 // Prezentowniki mają na tej stronie własny rząd wyżej, więc tutaj ich nie ma –
@@ -215,7 +220,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         {dealeDnia.map(({ set: deal, oferta }, i) => {
           return (
             <article class="deal-dnia slajd" role="group" aria-roledescription="slajd" aria-label={`${i + 1} z ${dealeDnia.length}`}>
-              <a class="foto-okno deal-foto" href={`/zestaw/${deal.nr}/`}>
+              <a class="foto-okno deal-foto" href={`/zestaw/${deal.nr}/`} target="_blank" rel="noopener">
                 <img
                   src={deal.foto}
                   alt={`LEGO ${deal.nr} ${deal.nazwa}`}
@@ -256,7 +261,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                       Sprawdź w {nazwaSklepu(oferta.sklep)} →
                     </a>
                   )}
-                  <a class="deal-wiecej" href={`/zestaw/${deal.nr}/`}>Pełna karta zestawu i porównanie cen →</a>
+                  <a class="deal-wiecej" href={`/zestaw/${deal.nr}/`} target="_blank" rel="noopener">Pełna karta zestawu i porównanie cen →</a>
                 </div>
               </div>
             </article>
@@ -296,7 +301,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     </div>
     <div class="siatka siatka--4x4">
       {dobreCeny.map((s) => (
-        <a class="karta set-karta set-karta--mini" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
+        <a class="karta set-karta set-karta--mini" href={`/zestaw/${s.nr}/`} data-seria={s.seria} target="_blank" rel="noopener">
           {s.foto
             ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="300" height="225" />
             : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
@@ -335,7 +340,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       <h2>Top 10 wycofań wartych upolowania</h2>
     </div>
     <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
-    <TabelaSetow wiersze={topWycofania} pokazKiedy />
+    <TabelaSetow wiersze={topWycofania} />
   </section>
 
   {artykuly.length > 0 && (

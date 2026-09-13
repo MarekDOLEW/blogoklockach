@@ -134,7 +134,8 @@ const {
       $input.setAttribute('aria-activedescendant', opcje[aktywna].id);
     }
 
-    const idz = (w) => { location.href = `/zestaw/${w.nr}/`; };
+    // szczegóły zestawu zawsze w nowej karcie (jak linki – patrz Base.astro)
+    const idz = (w) => { window.open(`/zestaw/${w.nr}/`, '_blank', 'noopener'); };
 
     $input.addEventListener('focus', wczytaj, { once: true });
     $input.addEventListener('input', rysuj);

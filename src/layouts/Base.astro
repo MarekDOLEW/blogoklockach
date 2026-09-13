@@ -152,6 +152,22 @@ const stanPozycji = (href) => {
       <slot />
     </main>
 
+    <script is:inline>
+      // Szczegóły zestawu (/zestaw/<nr>/) otwierają się w nowej karcie – z każdego
+      // miejsca serwisu: tabel, kafelków, artykułów, wyników wyszukiwania i z innych
+      // hubów (decyzja Marka 13.09.2026). Jedna delegacja zamiast target="_blank"
+      // w kilkunastu szablonach i w markdownie: atrybut ustawiamy w chwili
+      // kliknięcia, więc łapie też linki dorysowane skryptem (wyszukiwarka).
+      // Bez JS link działa normalnie, w tej samej karcie. Klawisz Enter w
+      // wyszukiwarkach robi to samo przez window.open (patrz SzukajGlobalne).
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[href^="/zestaw/"]') : null;
+        if (!a || a.target || e.defaultPrevented) return;
+        a.target = '_blank';
+        a.rel = ((a.rel || '') + ' noopener').trim();
+      });
+    </script>
+
     <button class="na-gore" type="button" aria-label="Wróć na górę strony" hidden>↑</button>
     <script is:inline>
       // przycisk „wróć na górę" pojawia się dopiero na długich stronach po przewinięciu

@@ -3,18 +3,29 @@
 //
 // Układ od lewej: zdjęcie · numer · opis · status · najniższa cena z linkiem afiliacyjnym.
 // Pod opisem wiersz meta: seria · rok produkcji · liczba elementów.
-// Wariant `pokazKiedy` dokłada nad ceną informację, kiedy zestaw znika ze sprzedaży.
 //
 // Wiersze przygotowuje strona – komponent niczego nie liczy, tylko rysuje.
 // Kształt wiersza:
 //   { numer, nazwa, opis, seria, rok, elementy, zdjecie, hub,
 //     status: 'sprzedaz' | 'eol' | 'potwierdzone' | 'przewidywane',
-//     kiedy, oferta: { sklep, cena } | null, link, cenaKatalogowa }
+//     eolLego, kiedy, oferta: { sklep, cena } | null, link, cenaKatalogowa }
+//
+// Kolumna statusu (jedno źródło znaczeń: src/lib/status.js):
+//   w sprzedaży            – ktoś sprzedaje; z dopiskiem „EOL", gdy LEGO już
+//                            zakończyło produkcję, a zestaw został tylko u innych
+//   wycofany (EOL)         – LEGO skończyło i żaden śledzony sklep go nie ma
+//   potwierdzone przez LEGO – termin wycofania ogłoszony przez producenta
+//   prognoza rynku         – termin z zapowiedzi branżowych, bez potwierdzenia
+// Termin („znika: grudzień 2026") stoi pod badge'em, w tej samej kolumnie.
+//
+// Linki do /zestaw/<nr>/ otwierają się w nowej karcie (ustalenie 13.09.2026:
+// szczegóły zestawu zawsze w nowym oknie, z każdego miejsca serwisu).
 // Przekreślona cena katalogowa pojawia się nad ceną, gdy oferta jest od niej
 // wyraźnie niższa – tak widać, że promocja jest prawdziwa.
 
 import { fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
 import { artykulZestawu } from '../lib/artykuly-setow.js';
+import { ETYKIETY_WYCOFANIA } from '../lib/status.js';
 
 // Wiersz nie niesie nazwy sklepu przy linku „Sprawdź cenę", ale ścieżka
 // przekierowania ma postać /idz/<sklep>/<numer> – bierzemy sklep stamtąd,
@@ -27,13 +38,13 @@ const dataKrotka = (d) => {
   return m ? `${m[2]}.${m[1]}` : null;
 };
 
-const { wiersze = [], pokazKiedy = false, naglowekCeny = 'Najniższa cena' } = Astro.props;
+const { wiersze = [], naglowekCeny = 'Najniższa cena' } = Astro.props;
 
 const BADGE = {
   sprzedaz: { klasa: 'badge-status badge-status--sprzedaz', tekst: 'w sprzedaży' },
-  eol: { klasa: 'badge-status badge-status--eol', tekst: 'wycofany (EOL)' },
-  potwierdzone: { klasa: 'badge-status badge-status--pewny', tekst: 'potwierdzone' },
-  przewidywane: { klasa: 'badge-status badge-status--prognoza', tekst: 'przewidywane' },
+  eol: { klasa: 'badge-status badge-status--eol', tekst: ETYKIETY_WYCOFANIA.wycofany },
+  potwierdzone: { klasa: 'badge-status badge-status--pewny', tekst: ETYKIETY_WYCOFANIA.potwierdzone },
+  przewidywane: { klasa: 'badge-status badge-status--prognoza', tekst: ETYKIETY_WYCOFANIA.przewidywane },
 };
 
 const meta = (w) =>
@@ -65,7 +76,7 @@ const meta = (w) =>
             <td class="kol-foto">
               {w.zdjecie ? (
                 w.hub ? (
-                  <a class="set-mini" href={`/zestaw/${w.numer}/`} tabindex="-1" aria-hidden="true">
+                  <a class="set-mini" href={`/zestaw/${w.numer}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
                     <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
                   </a>
                 ) : (
@@ -84,7 +95,7 @@ const meta = (w) =>
 
             <td class="kol-opis">
               <span class="set-nazwa">
-                {w.hub ? <a href={`/zestaw/${w.numer}/`}>{w.nazwa}</a> : w.nazwa}
+                {w.hub ? <a href={`/zestaw/${w.numer}/`} target="_blank" rel="noopener">{w.nazwa}</a> : w.nazwa}
               </span>
               {artykulZestawu(w.numer) && (
                 <a class="badge-artykul" href={artykulZestawu(w.numer).url} title={artykulZestawu(w.numer).tytul}>
@@ -95,14 +106,17 @@ const meta = (w) =>
               <span class="set-meta">{meta(w)}</span>
             </td>
 
-            <td class="kol-status"><span class={badge.klasa}>{badge.tekst}</span></td>
+            <td class="kol-status">
+              <span class={badge.klasa}>{badge.tekst}</span>
+              {w.status === 'sprzedaz' && w.eolLego && (
+                <span class="tag-eol" title="EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców">EOL</span>
+              )}
+              {w.kiedy && w.status !== 'eol' && w.status !== 'sprzedaz' && (
+                <span class="set-kiedy">znika: {w.kiedy}</span>
+              )}
+            </td>
 
             <td class="kol-cena">
-              {pokazKiedy && w.kiedy && (
-                <span class={`set-kiedy${w.kiedy === 'wycofany' ? ' set-kiedy--juz' : ''}`}>
-                  {w.kiedy === 'wycofany' ? 'już wycofany' : `znika: ${w.kiedy}`}
-                </span>
-              )}
               {w.oferta ? (
                 <>
                   {w.cenaKatalogowa > w.oferta.cena * 1.01 && (

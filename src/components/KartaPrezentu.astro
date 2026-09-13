@@ -73,7 +73,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
 
     <div class="prezent__szczyt">
       <p class="prezent__nagl">
-        <a href={`/zestaw/${nr}/`}>LEGO {nr} {nazwa}</a>
+        <a href={`/zestaw/${nr}/`} target="_blank" rel="noopener">LEGO {nr} {nazwa}</a>
         {status === 'eol' && <span class="status status--stop">wycofany</span>}
         {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
       </p>
@@ -126,7 +126,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       ) : (
         <p class="prezent__kup-brak">
           Dziś żaden ze śledzonych sklepów nie schodzi do dobrej ceny – poczekaj albo sprawdź
-          {' '}<a href={`/zestaw/${nr}/`}>aktualne oferty</a>.
+          {' '}<a href={`/zestaw/${nr}/`} target="_blank" rel="noopener">aktualne oferty</a>.
         </p>
       )
     )}
@@ -139,7 +139,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
         </>
       ))}
       {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}
-      <a href={`/zestaw/${nr}/`}><b>wszystkie ceny i historia</b></a>
+      <a href={`/zestaw/${nr}/`} target="_blank" rel="noopener"><b>wszystkie ceny i historia</b></a>
     </p>
   </div>
 </div>

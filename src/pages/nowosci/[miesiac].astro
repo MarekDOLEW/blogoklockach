@@ -16,6 +16,7 @@ import Okruszki from '../../components/Okruszki.astro';
 import sety from '../../data/sety.json';
 import { urlZdjecia } from '../../lib/media.js';
 import { miesiac, ymZeSlugu, PROG_SETOW } from '../../lib/miesiace.js';
+import { statusNowosci } from '../../lib/premiery.js';
 
 const ymSetu = (s) => String(s.premiera ?? '').slice(0, 7);
 
@@ -40,8 +41,9 @@ const przyszly = ym > biezacyYm;
 
 const zestawy = Object.entries(sety)
   .filter(([, s]) => ymSetu(s) === ym)
-  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }), przeciek: statusNowosci(nr) === 'przeciek' }))
   .sort((a, b) => (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0));
+const przecieki = zestawy.filter((s) => s.przeciek).length;
 
 // Sąsiednie miesiące – do przechodzenia bez wracania na /nowosci/.
 const wszystkie = [...new Set(Object.values(sety).map(ymSetu))]
@@ -120,9 +122,13 @@ const jsonld = {
 
   {KOMENTARZ[ym] && <p set:html={KOMENTARZ[ym]} />}
 
+  {przyszly && (
+    <p class="nowosci-legenda"><span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> oznacza zapowiedź z oficjalną kartą produktu lub komunikatem Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> – informację nieoficjalną, przy której numer, nazwa, cena i liczba elementów mogą się jeszcze zmienić.{przecieki > 0 && <> W tym miesiącu: {przecieki} {przecieki === 1 ? 'przeciek' : 'przecieków'} na {zestawy.length} pozycji.</>}</p>
+  )}
+
   {adwentowe.length > 1 && (
     <p><b>Kalendarze adwentowe ({adwentowe.length}):</b> {adwentowe.map((s, i) => (
-      <>{i > 0 ? ', ' : ''}<a href={`/zestaw/${s.nr}/`}>{s.seria}</a></>
+      <>{i > 0 ? ', ' : ''}<a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">{s.seria}</a></>
     ))}. {cenyAdwentowych.length === 1
       ? <>Wszystkie po {cenyAdwentowych[0]}.</>
       : <>Ceny od {cenyAdwentowych[0]} do {cenyAdwentowych[cenyAdwentowych.length - 1]}.</>}</p>
@@ -132,13 +138,13 @@ const jsonld = {
 
   <div class="siatka siatka--nowosci">
     {zestawy.map((s) => (
-      <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+      <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
         {s.foto ? (
           <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />
         ) : (
           <div class="foto-brak" aria-hidden="true"><span class="studs"><i></i><i></i><i></i><i></i></span></div>
         )}
-        <span class="nr">LEGO {s.nr} {przyszly && <span class="badge-wkrotce">wkrótce</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+        <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek z rynku</span> : przyszly && <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · potwierdzone przez LEGO</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
         <h3>{s.nazwa}</h3>
         <span class="badge-seria">{s.seria}</span>
         <div class="cena-linia">

@@ -1865,3 +1865,56 @@ o Executorze akapit: kto chciał kształt okrętu na biurku za ułamek ceny UCS-
 ma zamykające się okno u innych sprzedawców. **To jedyna rzecz przy Executorze,
 przy której pośpiech ma sens** — i nikt inny tego zestawienia nie zrobi, bo
 wymaga trzymania obu zestawów w jednej bazie.
+
+
+## 2026-09-13 20:30 · CODE · Porządki: statusy wycofań i nowości, EOL na listingu, nowa karta, podobne zestawy, tabela cen mobile, Allegro ≤30%
+
+Dwie sesje Code pracowały równolegle nad tym samym zadaniem Marka w jednym
+drzewie (agd-67 i ta); po wykryciu kolizji agd-67 zatrzymała się, ta sesja
+scaliła i dokończyła. Gałąź `porzadki-statusy`, **niewypchnięta** – wdrożenie:
+`git push origin porzadki-statusy:main`. Lokalnie nie ma `node`/`npm`, więc
+build Astro zrobi dopiero Cloudflare; wszystkie `.js/.mjs` i frontmattery
+`.astro` przeszły `node --check` (Node z pakietu Photoshopa), a nowe tabele
+obejrzane w przeglądarce na makiecie z produkcyjnym CSS (375 px: mieści się).
+
+**Zrobione:**
+- `src/lib/status.js` (nowy) – jedno źródło statusów: `eolWLego`,
+  `statusWycofania`, `statusListingu`, etykiety „potwierdzone przez LEGO" /
+  „prognoza rynku" / „wycofany (EOL)"; obsługa `kiedy: "odwołane"`.
+- `/wycofania/`: dwie osobne listy (potwierdzone przez LEGO ↔ prognozy rynku),
+  nowe FAQ i wstęp. `TabelaSetow`: kolumna statusu z terminem i znacznikiem
+  **EOL** pod „w sprzedaży", gdy LEGO skończyło, a sklep ma. Katalog serii
+  i Top 10 wycofań na głównej używają tej samej logiki.
+- `TabelaCen.astro` + `scripts/remark-ceny.mjs`: tylko sklepy z ceną (koniec
+  wierszy „Sprawdź cenę" bez kwoty – przypadek Planeta Klocków/x-kom przy 21323),
+  wiersz LEGO.com z ceną katalogową i EOL bez przycisku po wycofaniu; EOL
+  liczy się także dla hubów z sety.json (wcześniej nigdy). Klasy `kc-*`,
+  wrapper `.tabela-cen-wrap`, układ siatki ≤720 px bez ramki karty.
+- Hub `/zestaw/`: plakietki EOL/wycofanie/przeciek, ramka „LEGO zakończyło
+  produkcję", sekcja **Podobne zestawy z serii** (4–6 losowych kafelków,
+  `podobneZSerii` w `seria-huby.js`, ziarno numer+dzień) + „Zobacz całą serię".
+- Nowa karta dla `/zestaw/`: `target="_blank"` w szablonach i pluginach remark
+  plus delegacja kliknięcia w `Base.astro` (markdown, wyszukiwarki `window.open`).
+- Nowości: pole `status_nowosci` w `sety.json` (`przeciek`/`potwierdzone`),
+  badge „przeciek z rynku" vs „wkrótce · potwierdzone przez LEGO" na
+  `/nowosci/`, podstronach miesięcy i hubie; legenda.
+- Deale: `src/lib/deale.js` – Allegro maks. 30% linków (karuzela 1 z 5,
+  półka `/deale/` 3 z 12), alternatywna oferta spoza Allegro albo pozycja odpada.
+- Dane: audyt 593 numerów na lego.com (`materialy/audyt-wycofan-2026-09-13.md`):
+  katalog 224× `dostepny→eol` (w tym 76264), 71× `eol→dostepny`, 49× `eol`
+  z `--napraw`; wycofania 2× `odwołane` (10307, 40647); przecieki 11387, 21375, 77094.
+  Nowe `_meta.regula_statusow` w `wycofania.json`, `scripts/audyt-wycofan.mjs`.
+- Dokumentacja: `RUNBOOK.md` (sekcja „Statusy: wycofania, nowości, EOL",
+  „Jak sprawdzić status na lego.com", typowanie deali), `redakcja/README.md`.
+
+**Stan:** gotowe do wdrożenia, czeka na push i build na Cloudflare.
+
+**Dla drugiej strony:** runner Wycofań – dopisywać `zrodlo`, przejrzeć 49
+wpisów „wycofany" ze statusem „Wyprzedane" na lego.com i 49 kandydatów
+z raportu; Scout – ustawiać `status_nowosci` przy każdej zapowiedzi,
+zweryfikować 21375 Godzilla (przeciek czy oficjalna zapowiedź LEGO Ideas).
+
+**Uwagi:** wpis 10307 Wieża Eiffla był na liście jako „wycofany", a lego.com
+mówi „Dostępne teraz" – dlatego `--napraw` w skrypcie audytu nie może być
+ślepy (reguła 5 w RUNBOOK). „Wyprzedane" (K_SOLD_OUT) nie jest ani
+dostępnością, ani EOL – nie przestawiamy po nim katalogu automatycznie.
