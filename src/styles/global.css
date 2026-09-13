@@ -1149,37 +1149,43 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* ---------- Tabela cen na wąskim ekranie: wiersz staje się kartą ----------
    Cztery (na /deale/ pięć) kolumn nie mieści się na telefonie – tabela wystawała
    poza ekran w przewijanym pojemniku. Na wąskim ekranie rezygnujemy z ramki
-   karty, a każdy wiersz układamy w siatkę: sklep, pod nim cena + rabat, pod
-   nimi przycisk na całą szerokość. Na desktopie zostaje zwykła tabela. */
+   karty, a każdy wiersz układamy w siatkę: sklep, pod nim cena z rabatem
+   poniżej, a obok przycisk. Na desktopie zostaje zwykła tabela. */
 .tabela-cen-wrap { padding: 18px; margin: 18px 0; overflow-x: auto; }
 .tabela-cen .kc-klocek-etykieta { display: none; }
 @media (max-width: 720px) {
   .tabela-cen-wrap { padding: 0; margin: 14px 0; border: 0; box-shadow: none; background: transparent; overflow: visible; }
   .tabela-cen { font-size: 0.92rem; }
-  .tabela-cen caption { padding: 0 2px 6px; }
+  .tabela-cen caption { display: block; width: 100%; padding: 0 2px 6px; }
   .tabela-cen thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
   .tabela-cen, .tabela-cen tbody { display: block; }
+  /* Układ wiersza (decyzja Marka 13.09.2026): sklep na całą szerokość,
+     pod nim cena, a POD ceną rabat – w jednej kolumnie; przycisk obok,
+     wyśrodkowany względem obu linii. Dzięki temu „Sprawdź w sklepie" mieści
+     się w wierszu zamiast wystawać poza ekran. */
   .tabela-cen tr {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: minmax(0, 1fr) auto;
     grid-template-areas:
       "sklep  sklep"
-      "cena   rabat"
-      "klocek klocek"
-      "cta    cta";
-    gap: 4px 12px;
+      "cena   cta"
+      "rabat  cta"
+      "klocek klocek";
+    gap: 2px 12px;
+    align-items: center;
     padding: 12px 2px 14px;
     border-bottom: 1px solid var(--linia);
   }
   .tabela-cen td, .tabela-cen th { display: block; padding: 0; border: 0; min-width: 0; }
-  .tabela-cen .kc-sklep { grid-area: sklep; }
-  .tabela-cen .kc-cena { grid-area: cena; font-size: 1.15rem; }
-  .tabela-cen .kc-rabat { grid-area: rabat; align-self: center; font-weight: 700; }
-  .tabela-cen .kc-klocek { grid-area: klocek; font-size: 0.82rem; color: var(--granat-60); }
+  .tabela-cen .kc-sklep { grid-area: sklep; margin-bottom: 4px; }
+  .tabela-cen .kc-cena { grid-area: cena; font-size: 1.15rem; align-self: end; }
+  .tabela-cen .kc-rabat { grid-area: rabat; align-self: start; font-weight: 700; font-size: 0.9rem; color: var(--granat-60); }
+  .tabela-cen .kc-rabat .badge-rabat-mini { margin-left: 0; }
+  .tabela-cen .kc-klocek { grid-area: klocek; font-size: 0.82rem; color: var(--granat-60); margin-top: 4px; }
   .tabela-cen .kc-klocek-etykieta { display: inline; }
-  .tabela-cen .kc-cta { grid-area: cta; margin-top: 4px; }
-  .tabela-cen .kc-cta .cta { display: block; text-align: center; }
-  .tabela-cen .kc-eol-info { white-space: normal; }
+  .tabela-cen .kc-cta { grid-area: cta; justify-self: end; }
+  .tabela-cen .kc-cta .cta { display: inline-block; white-space: normal; text-align: center; padding: 9px 12px; font-size: 0.82rem; max-width: 170px; }
+  .tabela-cen .kc-eol-info { white-space: normal; text-align: right; max-width: 120px; }
   .tabela-cen tr.najtanszy { background: #fff8e1; box-shadow: inset 4px 0 0 var(--zolty); padding-left: 10px; padding-right: 8px; border-radius: 6px; }
   .tabela-cen tr.najtanszy td:first-child { border-left: 0; }
   .tabela-cen tr.wiersz-ceneo, .tabela-cen tr.wiersz-eol { background: var(--papier); padding-left: 8px; padding-right: 8px; border-radius: 6px; }
