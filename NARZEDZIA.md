@@ -220,12 +220,29 @@ Stan dostępów na 14.09.2026:
 | Sieć | Sklepy | Stan |
 |---|---|---|
 | Adtraction | Smyk, Egmont | **działa** (`ADTRACTION_TOKEN`); 0 transakcji w 60 dniach — to wynik, nie awaria |
-| Tradedoubler | Empik, Ceneo | **nie mierzymy.** `TD_TOKEN` jest produktowy; `TD_REPORT_TOKEN` to poprawny token systemu Conversions, ale to API tylko wypycha konwersje na webhook, transakcji nie pobierze. Legacy API 1.0 nie ma endpointu raportów. Potrzebne nowe Publisher API: panel TD → Tools → API Info → Client ID + Secret (`TD_CLIENT_ID`, `TD_CLIENT_SECRET`), potem obsługa w skrypcie |
+| Tradedoubler | Empik, Ceneo | **działa** (Publisher API: `TD_CLIENT_ID`, `TD_CLIENT_SECRET`, `TD_USERNAME`, `TD_PASSWORD`); 14.09: pierwsza zmierzona transakcja — Empik, obrót 51,53 EUR, prowizja 1,41 EUR. Token z `/uaa/oauth/token`, grant `password`. Stare `TD_TOKEN` (produktowy) i `TD_REPORT_TOKEN` (Conversions, tylko push) zostają do swoich zadań |
 | Performers | Media Expert | **działa** (`PERFORMERS_API_KEY`); 14.09: 1245 kliknięć, 0 konwersji w 30 dniach |
 | Allegro, webePartners | — | brak API — tylko panel |
 
-Dopóki Tradedoubler jest bez pomiaru, EPC dla Empiku i Ceneo jest **modelem**,
-nie pomiarem. Najtańsza poprawa: klucze nowego Publisher API TD.
+Od 14.09 wszystkie trzy sieci z API są mierzone. Bez pomiaru zostają Allegro
+i Planeta Klocków — tam EPC dalej jest **modelem**, nie pomiarem, i trzeba to
+pisać wprost w każdym raporcie.
+
+Dwie pułapki, na których ten pomiar już raz poległ — obie warte zapamiętania,
+bo dotyczą każdego API, nie tylko TD:
+
+- **Zmyślona ścieżka oddaje 401, nie 404.** `/uni/oauth2/token` nie istnieje,
+  a brama TD odpowiada „Full authentication is required" — identycznie dla
+  każdego adresu, także nieistniejącego. Wzięliśmy to za dowód, że klient nie
+  jest aktywny. Jednakowa odpowiedź pod adresem, który nie ma prawa istnieć,
+  jest sygnałem, że pytamy w złym miejscu — nie diagnozą uprawnień.
+- **Grant trzeba odczytać z panelu, nie założyć.** Nasz klient ma `password`
+  i `refresh_token`; `client_credentials` jest niedozwolony, więc te próby nie
+  przeszłyby nawet pod dobrym adresem.
+
+Zasada z tego: **zanim postawimy tezę o uprawnieniach, sprawdzamy dokumentację
+dostawcy.** Domysł o cudzym systemie wpisany do dokumentacji jako fakt kosztuje
+więcej niż przyznanie, że się nie wie.
 
 ## Harmonogram: generowany, nie pisany
 

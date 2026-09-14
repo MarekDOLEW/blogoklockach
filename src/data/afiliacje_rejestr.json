@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-08-20",
+  "zaktualizowano": "2026-09-14",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -29,7 +29,8 @@
   },
   "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie.",
   "decyzje": {
-   "wiersze_bez_ceny": "DECYZJA (Marek, 2026-08-20): wiersze 'Sprawdz cene' bez kwoty ZOSTAJA na tabelach cen (Smyk, Empik, x-kom itd.) - zawsze lepiej miec link niz nie miec. Nie ukrywac, nie wracac do tematu."
+   "wiersze_bez_ceny": "DECYZJA (Marek, 2026-08-20): wiersze 'Sprawdz cene' bez kwoty ZOSTAJA na tabelach cen (Smyk, Empik, x-kom itd.) - zawsze lepiej miec link niz nie miec. Nie ukrywac, nie wracac do tematu.",
+   "td_publisher_api": "USTALONE 2026-09-14: Publisher API Tradedoublera dziala i oddaje transakcje Empiku i Ceneo. Adres tokenu to https://connect.tradedoubler.com/uaa/oauth/token — NIE /uni/oauth2/token; zmyslona sciezka oddaje 401 \"Full authentication is required\" (Spring Security odbija nieznana sciezke), co latwo wziac za nieaktywnego klienta. Grant `password`, bo `client_credentials` nie jest dozwolony dla naszego klienta. Access token 900 s, refresh 604800 s i JEDNORAZOWY — skrypt bierze swiezy token przy kazdym przebiegu zamiast trzymac stan. Raport: /publisher/report/transactions, max 92 dni, 100/strona, 60 req/min, kwoty w EUR (pole reportCurrencyCode) — nie sumowac ich ze zlotowkami Adtraction i Performers."
   }
  },
  "planetaklockow": {
@@ -75,7 +76,7 @@
  "empik": {
   "siec": "Tradedoubler",
   "status": "aktywny",
-  "prowizja": "do potwierdzenia w panelu (avg EPC 0,75 zł)",
+  "prowizja": "CPS. Pierwsza ZMIERZONA transakcja 13.09.2026 (Publisher API): obrot 51,53 EUR, prowizja 1,41 EUR = 2,74% skutecznej stawki. n=1, wiec to pomiar jednego koszyka, nie potwierdzenie taryfy — do sprawdzenia w panelu przy wiekszej probie. Wczesniejsze \"avg EPC 0,75 zl\" bylo modelowane.",
   "cookie_dni": 7,
   "format_linkow": "deeplink: https://clk.tradedoubler.com/click?p=289664&a=3494691&url=<encoded URL empik.com> - PRZETESTOWANE 2026-08-19, cel zachowany. Impression tracker: imp.tradedoubler.com/imp?type(inv)g(0)p(289664)a(3494691)prod(0). SubID przez parametr epi=.",
   "feed": "Tradedoubler Products API. Feedy Empiku: 52031 (dziecko/zabawki), 52029 (elektronika/gry), 49523 (all). Zwykly endpoint products.json pagina TYLKO do 1000 pozycji (blad PF_430) - do pelnego feedu sluzy productsUnlimited.json;fid=<ID>?token=<TD_TOKEN> (pierwsze wywolanie zwraca 202 i buduje plik, potem 302 -> pobierac z -L). WERYFIKACJA NA PELNYM PLIKU 2,5 GB (2026-08-19): feed NIE ZAWIERA zestawow LEGO - sprawdzone wprost na 10316, 21348, 76454, 60337 (0 trafien kazdy). To marketplace Empiku: gabloty, oplatki, organizery + MAGAZYNY LEGO (Ninjago/City/Minecraft, 23-30 zl). WNIOSEK OSTATECZNY: cen setow z Empiku nie bedzie; feed uzyteczny wylacznie do magazynow LEGO w prezentownikach.",

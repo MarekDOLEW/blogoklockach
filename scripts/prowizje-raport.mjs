@@ -10,16 +10,20 @@
 //   ADTRACTION_TOKEN     — DZIAŁA. Smyk, Egmont. Endpoint transakcji odpowiada,
 //                          w 60 dniach zero konwersji (to wynik, nie awaria).
 //   TD_TOKEN             — token PRODUKTOWY (Products API), do niczego innego.
-//   TD_REPORT_TOKEN      — token systemu CONVERSIONS (sprawdzone 14.09:
-//                          /1.0/conversions/subscriptions odpowiada 200).
-//                          To API jest WYŁĄCZNIE push: TD sam wysyła konwersje
-//                          na zarejestrowany webhook, transakcji nie da się nim
-//                          pobrać. Legacy API 1.0 nie ma endpointu raportów
-//                          (reports/claims/conversions.json → 403 dla każdego
-//                          tokenu). Pobieranie transakcji daje dopiero nowe
-//                          Publisher API (panel TD → Tools → API Info → nowy
-//                          klient: Client ID + Secret, OAuth2) — do wdrożenia,
-//                          gdy będą klucze. Dotyczy Empiku i Ceneo.
+//   TD_REPORT_TOKEN      — token systemu CONVERSIONS (push, webhook). Nie służy
+//                          do pobierania transakcji i nie jest tu używany.
+//   TD_CLIENT_ID/SECRET  — DZIAŁA (Publisher API, sprawdzone 14.09.2026).
+//   + TD_USERNAME/PASSWORD  Empik i Ceneo. UWAGA na dwie pułapki, na których
+//                          ten skrypt już raz poległ:
+//                          1. adres to /uaa/oauth/token, NIE /uni/oauth2/token —
+//                             zmyślona ścieżka oddaje 401 "Full authentication
+//                             is required" (Spring Security odbija nieznaną
+//                             ścieżkę), co łatwo wziąć za nieaktywnego klienta;
+//                          2. klient ma granty `password` i `refresh_token`,
+//                             `client_credentials` NIE jest dozwolony.
+//                          Access token żyje 900 s, refresh 604800 s i jest
+//                          jednorazowy — dlatego bierzemy świeży przez grant
+//                          password przy każdym przebiegu zamiast trzymać stan.
 //   PERFORMERS_API_KEY   — DZIAŁA (sprawdzone 14.09: 1245 kliknięć, 0 konwersji
 //                          w 30 dniach). Dotyczy Media Expertu.
 //   Allegro, webePartners— brak API w rejestrze; panel przez przeglądarkę.
@@ -62,30 +66,91 @@ async function adtraction() {
 }
 
 // ── Tradedoubler (Empik, Ceneo) ──────────────────────────────────────────────
-// Legacy API 1.0 nie udostępnia raportów transakcji (patrz nagłówek). Jedyne, co
-// można sprawdzić tokenem, to czy jest żywy w systemie Conversions. Pobieranie
-// transakcji wymaga nowego Publisher API (Client ID + Secret) — jeszcze nie
-// wdrożone, bo nie ma kluczy.
+// Publisher API na OAuth2. Raport oddaje kwoty w walucie konta (pole
+// reportCurrencyCode) — dziś EUR, więc nie wpisujemy ich do prowizja_pln
+// bez przeliczenia; podajemy walutę wprost, żeby nikt nie zsumował jabłek
+// z gruszkami w podsumowaniu.
+const TD_OAUTH = 'https://connect.tradedoubler.com/uaa/oauth/token';
+const TD_TRANSAKCJE = 'https://connect.tradedoubler.com/publisher/report/transactions';
+const TD_SOURCE_ID = 3494691;   // konto "Tylko Klocki" — to samo co w linkach a=
+
+async function tdToken() {
+  const id = process.env.TD_CLIENT_ID;
+  const sekret = process.env.TD_CLIENT_SECRET;
+  const login = process.env.TD_USERNAME;
+  const haslo = process.env.TD_PASSWORD;
+  if (!id || !sekret || !login || !haslo) return null;
+  const odp = await fetch(TD_OAUTH, {
+    method: 'POST',
+    headers: {
+      authorization: 'Basic ' + Buffer.from(`${id}:${sekret}`).toString('base64'),
+      'content-type': 'application/x-www-form-urlencoded',
+    },
+    body: new URLSearchParams({ grant_type: 'password', username: login, password: haslo }),
+  });
+  if (!odp.ok) return { blad: `HTTP ${odp.status}` };
+  const d = await odp.json().catch(() => null);
+  return d?.access_token ? { token: d.access_token } : { blad: 'brak access_token w odpowiedzi' };
+}
+
 async function tradedoubler() {
-  const token = process.env.TD_REPORT_TOKEN;
-  if (!token) return { stan: 'brak TD_REPORT_TOKEN' };
-  if (process.env.TD_CLIENT_ID || process.env.TD_CLIENT_SECRET) {
-    return { stan: 'TD_CLIENT_ID/SECRET są, ale obsługa nowego Publisher API nie jest jeszcze napisana' };
-  }
-  const odp = await fetch(`https://api.tradedoubler.com/1.0/conversions/subscriptions?token=${token}`);
-  if (odp.status === 403) {
+  const t = await tdToken();
+  if (!t) {
     return {
-      stan: 'TD_REPORT_TOKEN nierozpoznany przez system Conversions',
-      co_zrobic: 'panel TD → Account → Manage tokens → sprawdzić, dla jakiego systemu wystawiono token',
+      stan: 'brak kluczy',
+      co_zrobic: 'TD_CLIENT_ID, TD_CLIENT_SECRET, TD_USERNAME, TD_PASSWORD w zmiennych środowiska',
     };
   }
-  if (!odp.ok) return { stan: `HTTP ${odp.status}` };
-  const subskrypcje = await odp.json().catch(() => null);
+  if (t.blad) return { stan: 'logowanie odrzucone', powod: t.blad };
+
+  // okno raportu: API przyjmuje maksymalnie 92 dni
+  const dniTd = Math.min(dni, 92);
+  const data = (d) => d.toISOString().slice(0, 10).replace(/-/g, '');
+  const q = new URLSearchParams({
+    fromDate: data(new Date(Date.now() - dniTd * 864e5)),
+    toDate: data(new Date()),
+    sourceId: String(TD_SOURCE_ID),
+    status: 'A,P,D',     // zatwierdzone, oczekujące, odrzucone
+    limit: '100',
+  });
+
+  const wszystkie = [];
+  let waluta = null;
+  for (let offset = 0; offset < 2000; offset += 100) {
+    q.set('offset', String(offset));
+    const odp = await fetch(`${TD_TRANSAKCJE}?${q}`, {
+      headers: { authorization: `Bearer ${t.token}` },
+    });
+    if (!odp.ok) return { stan: `HTTP ${odp.status}`, pobrano_przed_bledem: wszystkie.length };
+    const d = await odp.json().catch(() => null);
+    const partia = d?.items ?? [];
+    waluta = d?.reportCurrencyCode ?? waluta;
+    wszystkie.push(...partia);
+    if (partia.length < 100) break;
+  }
+
+  const perProgram = {};
+  for (const tr of wszystkie) {
+    const k = tr.programName || String(tr.programId);
+    const p = (perProgram[k] ??= { transakcje: 0, obrot: 0, prowizja: 0, zatwierdzone: 0 });
+    p.transakcje += 1;
+    p.obrot += Number(tr.orderValue) || 0;
+    p.prowizja += Number(tr.commission) || 0;
+    if (tr.status === 'A') p.zatwierdzone += 1;
+  }
+  for (const p of Object.values(perProgram)) {
+    p.obrot = Math.round(p.obrot * 100) / 100;
+    p.prowizja = Math.round(p.prowizja * 100) / 100;
+    p.stawka_efektywna = p.obrot ? `${(p.prowizja / p.obrot * 100).toFixed(2)}%` : null;
+  }
+
   return {
-    stan: 'brak pobierania transakcji w tym API',
-    token_conversions: 'poprawny',
-    subskrypcje_webhook: Array.isArray(subskrypcje) ? subskrypcje.length : null,
-    co_zrobic: 'panel TD → Tools → API Info → nowy klient → zmienne TD_CLIENT_ID i TD_CLIENT_SECRET; potem dopisać obsługę nowego Publisher API w tym skrypcie',
+    stan: 'ok',
+    okno_dni: dniTd,
+    waluta,
+    transakcje: wszystkie.length,
+    prowizja: Math.round(wszystkie.reduce((s, tr) => s + (Number(tr.commission) || 0), 0) * 100) / 100,
+    programy: perProgram,
   };
 }
 
@@ -131,6 +196,7 @@ const zmierzone = Object.entries(wynik.sieci).filter(([, v]) => v.stan === 'ok')
 wynik.podsumowanie = {
   sieci_zmierzone: zmierzone.length,
   sieci_bez_dostepu: Object.keys(wynik.sieci).length - zmierzone.length,
+  // sumujemy TYLKO złotówki — TD raportuje w EUR i ma własne pole `prowizja`
   prowizja_zmierzona_pln: zmierzone.reduce((s, [, v]) => s + (v.prowizja_pln ?? 0), 0),
 };
 console.log(JSON.stringify(wynik, null, 1));
