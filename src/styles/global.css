@@ -204,6 +204,12 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 
 /* ---------- Artykuł ---------- */
 .prose { max-width: 720px; }
+/* Strony listingowe (wycofania, serie, katalogi) mają wstęp funkcjonalny — legendę
+   statusów obok tabel pełnej szerokości — a nie długi tekst do czytania ciągiem.
+   Ograniczenie do 720px zostawiało tam akapit wyraźnie węższy od sąsiedniej ramki
+   i wyglądał jak urwany. Ten modyfikator zdejmuje limit; w artykułach .prose
+   zostaje bez zmian, bo tam krótki wiersz jest celowy. */
+.prose--szeroki { max-width: none; }
 .prose img { max-width: 100%; border-radius: var(--radius); }
 .disclosure { font-size: 0.82rem; color: var(--granat-60); background: var(--papier); border: 1px dashed var(--linia); padding: 10px 14px; border-radius: 8px; margin: 14px 0 24px; }
 

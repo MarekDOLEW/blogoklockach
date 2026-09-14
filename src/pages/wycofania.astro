@@ -104,7 +104,7 @@ const stronaSchema = {
   <article>
     <h1 style="margin-top:28px">Wycofywane zestawy LEGO 2026 – pełna lista końcówek serii</h1>
     <p class="eol-aktualizacja">Ostatnia aktualizacja: <time datetime={dane._meta.aktualizacja}>{aktualizacjaPL}</time> · {razem} zestawów · {potwierdzone} potwierdzonych przez LEGO · {razem - potwierdzone} prognoz rynku · {juzWycofane} już wycofanych</p>
-    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii – a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Zebraliśmy w jednym miejscu <strong>wszystkie {razem} zestawów, które znikają ze sprzedaży w 2026 roku</strong>, w 11 seriach: od Star Wars i Icons po City i Friends. Użyj filtra poniżej, by zawęzić listę do swojej serii, albo wpisz numer lub nazwę zestawu w wyszukiwarkę. Przy każdym zestawie, w kolumnie <strong>Status</strong>, stoi źródło terminu: <span class="badge-status badge-status--pewny">potwierdzone przez LEGO</span> to fakt – oficjalna informacja Grupy LEGO (dział „Ostatnie sztuki", komunikat albo zniknięcie z lego.com); <span class="badge-status badge-status--prognoza">prognoza rynku</span> to zgodne przewidywania źródeł branżowych, jeszcze niepotwierdzone. W każdej serii potwierdzone terminy stoją na górze. Znacznik <span class="tag-eol">EOL</span> oznacza, że LEGO już nie sprzedaje zestawu – często kupisz go jeszcze w innych sklepach, wtedy pokazujemy ich cenę. Wracaj tu regularnie – listę aktualizujemy na bieżąco.</p>
+    <p class="prose prose--szeroki">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii – a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Zebraliśmy w jednym miejscu <strong>wszystkie {razem} zestawów, które znikają ze sprzedaży w 2026 roku</strong>, w 11 seriach: od Star Wars i Icons po City i Friends. Użyj filtra poniżej, by zawęzić listę do swojej serii, albo wpisz numer lub nazwę zestawu w wyszukiwarkę. Przy każdym zestawie, w kolumnie <strong>Status</strong>, stoi źródło terminu: <span class="badge-status badge-status--pewny">potwierdzone przez LEGO</span> to fakt – oficjalna informacja Grupy LEGO (dział „Ostatnie sztuki", komunikat albo zniknięcie z lego.com); <span class="badge-status badge-status--prognoza">prognoza rynku</span> to zgodne przewidywania źródeł branżowych, jeszcze niepotwierdzone. W każdej serii potwierdzone terminy stoją na górze. Znacznik <span class="tag-eol">EOL</span> oznacza, że LEGO już nie sprzedaje zestawu – często kupisz go jeszcze w innych sklepach, wtedy pokazujemy ich cenę. Wracaj tu regularnie – listę aktualizujemy na bieżąco.</p>
     <p class="disclosure">Ceny i przyciski „Sprawdź cenę" prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej – zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją – wiążąca jest zawsze cena w koszyku sklepu.</p>
 
     <FiltrSetow serie={serie} liczbaWSerii={(s) => wSerii(s).length} rzeczownik="zestawów" />
@@ -122,7 +122,7 @@ const stronaSchema = {
 
     <section class="sekcja karta" style="padding:18px 22px;">
       <h2>Jak czytać tę listę?</h2>
-      <p class="prose" style="margin:0">Dla <strong>rodzica</strong>: jeśli zestaw z listy jest na liście życzeń dziecka – kup przed zniknięciem, po EOL ceny rosną zamiast spadać. Dla <strong>kolekcjonera</strong>: fala przecen tuż przed wycofaniem to często ostatni moment na najniższą cenę w historii; sety licencyjne (Ideas, ekskluzywy) historycznie zyskują najwięcej. Daty podajemy za LEGO – firma potrafi je zmieniać, więc wracaj tu regularnie.</p>
+      <p class="prose prose--szeroki" style="margin:0">Dla <strong>rodzica</strong>: jeśli zestaw z listy jest na liście życzeń dziecka – kup przed zniknięciem, po EOL ceny rosną zamiast spadać. Dla <strong>kolekcjonera</strong>: fala przecen tuż przed wycofaniem to często ostatni moment na najniższą cenę w historii; sety licencyjne (Ideas, ekskluzywy) historycznie zyskują najwięcej. Daty podajemy za LEGO – firma potrafi je zmieniać, więc wracaj tu regularnie.</p>
     </section>
 
     <section class="sekcja eol-faq" id="faq" style="margin: 34px 0;">
@@ -133,7 +133,7 @@ const stronaSchema = {
       {faq.map((f) => (
         <div class="karta eol-faq-wpis">
           <h3>{f.q}</h3>
-          <p class="prose">{f.a}</p>
+          <p class="prose prose--szeroki">{f.a}</p>
         </div>
       ))}
     </section>
