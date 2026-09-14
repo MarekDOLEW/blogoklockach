@@ -73,6 +73,27 @@ sklepy i afiliacja). Skrót najważniejszych reguł:
   `git push origin <gałąź>:main` (lokalny `main` jest rozjechany — nie ruszać);
   przy konflikcie `git fetch origin main` + rebase.
 
+## Kto publikuje (ustalone 14.09.2026)
+
+**Sesja pushuje na `main` sama**, gdy zmiana przeszła build (`npm run build`)
+i walidację danych (JSON parsuje się, liczba wpisów nie zmalała). Użytkownik nie
+jest bramką dla każdej zmiany.
+
+Gałąź robocza z polecenia systemowego (`claude/...`) jest miejscem **pracy**, nie
+miejscem docelowym. Zostawienie tam gotowej zmiany i napisanie „zgodnie z
+CLAUDE.md nie pushowałem" to błąd — reguła powyżej mówi *jak* pushować, nie
+*czy*. Gałęzie, które zostają po sesji, są do skasowania.
+
+Wyjątki — wtedy pytamy przed pushem:
+- użytkownik prosił, żeby czegoś nie publikować, albo praca jest w toku;
+- zmiana kasuje dane (jedyny dopuszczony przypadek: `redirects.empik`);
+- zmiana dotyka `src/worker.js`, `wrangler.toml` albo przekierowań — awaria
+  workera zdejmuje cały serwis, nie jedną podstronę;
+- zmiana wchodzi do dokumentów wspólnika w `redakcja/` (trzymamy je verbatim).
+
+Po pushu podajemy w odpowiedzi hash i jednozdaniowy skutek („1426 cen Ceneo
+w hubach"), żeby było co zweryfikować bez czytania diffa.
+
 ## Zadania cykliczne
 
 Harmonogram runnerów, ich ID i zasady edycji: `materialy/zadania-cykliczne.md`.
