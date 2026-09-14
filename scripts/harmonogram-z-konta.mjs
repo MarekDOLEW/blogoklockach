@@ -57,28 +57,75 @@ function przesunieciePL(data = new Date()) {
 const PRZESUNIECIE = przesunieciePL();
 const STREFA = PRZESUNIECIE === 2 ? 'CEST' : 'CET';
 
-// „0 7 * * 1" → „pon 09:00" przy CEST. Godzina może przeskoczyć dobę, więc
-// przy przejściu przez północ przesuwamy też dzień tygodnia.
+// Jeden parser pola crona dla kolumny PL i dla detektora kolizji. Wcześniej były
+// dwa osobne i oba obsługiwały tylko listę „1,4" — zakres „1-5" dawał w kolumnie
+// pusty dzień, a w detektorze zadanie znikało bez śladu (sprawdzone 14.09 na
+// syntetycznym wpisie pon–pt). Czego parser nie umie, zwraca null, a wiersz
+// dostaje jawne „nieobsługiwane" — nigdy cichą połowę odpowiedzi.
+function rozwinPole(pole, min, max) {
+  const wynik = new Set();
+  for (const czesc of pole.split(',')) {
+    const m = czesc.match(/^(\*|\d+(?:-\d+)?)(?:\/(\d+))?$/);
+    if (!m) return null;
+    const [, zakres, krok] = m;
+    let od = min;
+    let doo = max;
+    if (zakres !== '*') {
+      const [a, b] = zakres.split('-').map(Number);
+      od = a;
+      doo = b ?? a;
+    }
+    const co = krok ? Number(krok) : 1;
+    if (!co || od < min || doo > max || od > doo) return null;
+    for (let v = od; v <= doo; v += co) wynik.add(v);
+  }
+  return [...wynik].sort((a, b) => a - b);
+}
+
+// Rozbija wyrażenie na momenty tygodnia: [{dzien, godz, min}]. null = nie umiem.
+function momentyCrona(cron) {
+  if (!cron) return null;
+  const pola = cron.trim().split(/\s+/);
+  if (pola.length !== 5) return null;
+  const [mi, go, , , dw] = pola;
+  const minuty = rozwinPole(mi, 0, 59);
+  const godziny = rozwinPole(go, 0, 23);
+  const dni = rozwinPole(dw, 0, 6);
+  if (!minuty || !godziny || !dni) return null;
+  // Częstotliwość „co N minut" i tak nie mieści się w tabeli tygodnia —
+  // oddajemy null, żeby wiersz dostał jawną etykietę, nie 96 wierszy.
+  if (minuty.length > 4 || godziny.length > 8) return null;
+  const out = [];
+  for (const d of dni) for (const g of godziny) for (const m of minuty) out.push({ dzien: d, godz: g, min: m });
+  return out;
+}
+
 const DNI = ['ndz', 'pon', 'wt', 'śr', 'czw', 'pt', 'sob'];
+const DNI_KOLEJNOSC = [1, 2, 3, 4, 5, 6, 0];   // pon…ndz, do czytelnego wydruku
+
+function godzinaPL(godz, min) {
+  const h = (godz + PRZESUNIECIE + 24) % 24;
+  return `${String(h).padStart(2, '0')}:${String(min).padStart(2, '0')}`;
+}
+function dzienPL(dzien, godz) {
+  const przeskok = godz + PRZESUNIECIE >= 24 ? 1 : (godz + PRZESUNIECIE < 0 ? -1 : 0);
+  return (dzien + przeskok + 7) % 7;
+}
+
+// „0 7 * * 1" → „pon 09:00"; „0 3 * * *" → „05:00"; „0 5 * * 1-5" → „pon–pt 07:00".
 function cronNaPL(cron) {
-  if (!cron) return '—';
-  const [min, godz, , , dzien] = cron.split(/\s+/);
-  if (!/^\d+$/.test(min)) return cron;
-  const godziny = godz.includes(',') || godz.includes('/') || godz === '*'
-    ? godz.split(',').filter((g) => /^\d+$/.test(g))
-    : [godz];
-  if (!godziny.length) return cron;
-
-  const opis = godziny.map((g) => {
-    const h = (Number(g) + PRZESUNIECIE + 24) % 24;
-    return `${String(h).padStart(2, '0')}:${min.padStart(2, '0')}`;
-  }).join(' / ');
-
-  if (dzien === '*') return opis;
-  // przeskok doby zmienia dzień tygodnia
-  const przeskok = Number(godziny[0]) + PRZESUNIECIE >= 24 ? 1 : (Number(godziny[0]) + PRZESUNIECIE < 0 ? -1 : 0);
-  const dni = dzien.split(',').map((d) => DNI[(Number(d) + przeskok + 7) % 7]).join(',');
-  return `${dni} ${opis}`;
+  const momenty = momentyCrona(cron);
+  if (!momenty) return cron ? `⚠️ nieobsługiwane: \`${cron}\`` : '—';
+  const godziny = [...new Set(momenty.map((m) => godzinaPL(m.godz, m.min)))].join(' / ');
+  const dniUTC = [...new Set(momenty.map((m) => m.dzien))];
+  if (dniUTC.length === 7) return godziny;
+  const dniPL = [...new Set(momenty.map((m) => dzienPL(m.dzien, m.godz)))]
+    .sort((a, b) => DNI_KOLEJNOSC.indexOf(a) - DNI_KOLEJNOSC.indexOf(b));
+  // ciąg kolejnych dni skracamy do „pon–pt"
+  const ciagly = dniPL.length > 2
+    && dniPL.every((d, n) => n === 0 || DNI_KOLEJNOSC.indexOf(d) === DNI_KOLEJNOSC.indexOf(dniPL[n - 1]) + 1);
+  const etykieta = ciagly ? `${DNI[dniPL[0]]}–${DNI[dniPL[dniPL.length - 1]]}` : dniPL.map((d) => DNI[d]).join(',');
+  return `${etykieta} ${godziny}`;
 }
 
 function naPL(iso) {
@@ -132,38 +179,27 @@ const inne = routines.filter((r) => !/^LEGO\b/i.test(r.name)).sort(sortCron).map
 // albo zderzenie na limicie konta. Dwa Kontrolery chodziły tak przez miesiąc
 // i nikt tego nie zauważył, bo nikt nie porównywał listy z listą.
 //
-// Porównywanie NAPISÓW crona nie wystarcza — pierwsza wersja tego detektora tak
-// robiła i przegapiła zderzenie Radara (`0 6 * * *`, codziennie) z Herzfadenem
-// (`0 6 * * 1`): różne napisy, ta sama minuta w każdy poniedziałek. Dlatego
-// rozwijamy crona na realne momenty tygodnia i grupujemy po nich.
-const DOBA = [0, 1, 2, 3, 4, 5, 6];
-function momenty(cron) {
-  const [min, godz, , , dow] = cron.split(/\s+/);
-  if (!/^\d+$/.test(min)) return [];            // nieobsługiwane wyrażenie — nie zgadujemy
-  const godziny = (godz === '*' ? [] : godz.split(',')).filter((g) => /^\d+$/.test(g));
-  const dni = dow === '*' ? DOBA : dow.split(',').filter((d) => /^\d+$/.test(d)).map(Number);
-  return godziny.flatMap((g) => dni.map((d) => `${d}|${String(g).padStart(2, '0')}:${min.padStart(2, '0')}`));
-}
-
+// Porównujemy MOMENTY, nie napisy: `0 6 * * *` i `0 6 * * 1` to różne napisy
+// i ta sama minuta w każdy poniedziałek — pierwsza wersja detektora to przegapiła.
 const kolizje = {};
+const nieobsluzone = [];
 for (const r of routines) {
   if (!r.enabled || !r.cron_expression) continue;
-  for (const m of momenty(r.cron_expression)) (kolizje[m] ??= []).push(r);
+  const momenty = momentyCrona(r.cron_expression);
+  if (!momenty) { nieobsluzone.push(r); continue; }
+  for (const m of momenty) (kolizje[`${m.dzien}|${godzinaPL(m.godz, m.min)}|${m.godz}`] ??= []).push(r);
 }
 // jedno zadanie może zderzać się w kilka dni tygodnia — pokazujemy parę raz
 const widziane = new Set();
 const zderzenia = [];
-for (const [moment, lista] of Object.entries(kolizje).sort()) {
+for (const [klucz, lista] of Object.entries(kolizje).sort()) {
   if (lista.length < 2) continue;
-  const klucz = lista.map((r) => r.id).sort().join('+') + moment.split('|')[1];
-  if (widziane.has(klucz)) continue;
-  widziane.add(klucz);
-  const [dzien, czas] = moment.split('|');
-  const [gg, mm] = czas.split(':').map(Number);
-  const hPL = (gg + PRZESUNIECIE + 24) % 24;
-  const przeskok = gg + PRZESUNIECIE >= 24 ? 1 : (gg + PRZESUNIECIE < 0 ? -1 : 0);
+  const [dzien, czasPL, godzUTC] = klucz.split('|');
+  const para = lista.map((r) => r.id).sort().join('+') + czasPL;
+  if (widziane.has(para)) continue;
+  widziane.add(para);
   zderzenia.push({
-    opis: `${DNI[(Number(dzien) + przeskok + 7) % 7]} ${String(hPL).padStart(2, '0')}:${String(mm).padStart(2, '0')} PL (${czas} UTC)`,
+    opis: `${DNI[dzienPL(Number(dzien), Number(godzUTC))]} ${czasPL} PL`,
     zadania: lista.map((r) => `${r.name} — \`${r.cron_expression}\``),
   });
 }
@@ -200,6 +236,14 @@ const blok = [
   ...(zderzenia.length
     ? zderzenia.flatMap((z) => [`- **${z.opis}**`, ...z.zadania.map((n) => `  - ${n}`)])
     : ['- brak — żadne dwa włączone zadania nie startują w tej samej minucie']),
+  ...(nieobsluzone.length ? [
+    '',
+    '**Poza detektorem** — wyrażenia crona, których nie umiem rozwinąć na momenty',
+    'tygodnia (krok „co N minut" albo składnia spoza list/zakresów). Kolizje z nimi',
+    'trzeba sprawdzić ręcznie:',
+    '',
+    ...nieobsluzone.map((r) => `- ${r.name} — \`${r.cron_expression}\``),
+  ] : []),
   '',
   KONIEC,
 ].join('\n');
@@ -220,6 +264,7 @@ const nowy = dokument.slice(0, i) + blok + dokument.slice(j + KONIEC.length);
 console.log(`Routines: ${routines.length} (LEGO: ${lego.length}, pozostałe: ${inne.length}).`);
 console.log(`Włączonych: ${routines.filter((r) => r.enabled).length}. Kolizji: ${zderzenia.length}.`);
 for (const z of zderzenia) console.log(`  KOLIZJA ${z.opis}: ${z.zadania.join('  +  ')}`);
+for (const r of nieobsluzone) console.log(`  POZA DETEKTOREM: ${r.name} — ${r.cron_expression}`);
 
 if (sucho) {
   console.log('\n--sucho: nic nie zapisano. Podgląd bloku:\n');
