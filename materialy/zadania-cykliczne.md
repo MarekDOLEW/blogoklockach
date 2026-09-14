@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 14.09 17:36 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 14.09 17:43 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -63,14 +63,12 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 |---|---|---|---|---|---|---|
 | send_later 2026-08-15T06:00Z #25932e | `jednorazowo 15.08 08:00` | — | ❌ auto_disabled_session_gone | — | — nigdy nie odpalony | `trig_013x6kw7r5J1a1YBES3V3YuH` |
 | Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 14.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
-| Herzfaden — poniedziałkowy raport tygodniowy | `0 6 * * 1` | pon 08:00 | ✅ | 14.09 08:04 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 | inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 14.09 08:04 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
 ### Kolizje — zadania na tej samej minucie
 
-- **pon 08:00 PL (06:00 UTC)**
-  - LEGO 08:00 — Radar konkurencji (runner, Opus 5) — `0 6 * * *`
-  - Herzfaden — poniedziałkowy raport tygodniowy — `0 6 * * 1`
+- brak — żadne dwa włączone zadania nie startują w tej samej minucie
 
 <!-- HARMONOGRAM:KONIEC -->
 
@@ -107,7 +105,7 @@ drugi przebieg Radara został wycofany świadomie 21.08 dla oszczędności limit
 ### Poniedziałek rano — wąskie gardło
 
 Poniedziałek to najciaśniejsze okno tygodnia — chodzi wtedy wszystko codzienne
-plus cztery zadania tygodniowe, na jednym limicie konta. Rozkład po rozsunięciu
+plus trzy zadania tygodniowe, na jednym limicie konta. Rozkład po rozsunięciu
 z 14.09.2026 (czas PL):
 
 | PL | UTC | Zadanie |
@@ -115,19 +113,30 @@ z 14.09.2026 (czas PL):
 | 05:00 | 03:00 | Scout nowości (codziennie) |
 | 06:10 | 04:10 | Wycofania |
 | 07:00 | 05:00 | Angielski |
-| 08:00 | 06:00 | Radar (codziennie) **+ Herzfaden** ← kolizja |
+| 08:00 | 06:00 | Radar konkurencji (codziennie) |
 | 08:30 | 06:30 | Łowca promocji (codziennie) |
 | 09:00 | 07:00 | Kontroler |
 | 10:00 | 08:00 | inwestycja IV kwartał |
 
-**14.09.2026: inwestycja przesunięta z `0 7 * * 1` na `0 8 * * 1`**, bo startowała
-w tej samej minucie co Kontroler. Została kolizja Radara z Herzfadenem o 08:00 —
-inny projekt, więc do decyzji Marka. Wolne pełne godziny w tym oknie: 04:00,
-09:00, 10:00, 11:00 UTC.
+Poza poniedziałkiem chodzą tylko trzy zadania codzienne (05:00, 08:00, 08:30)
+plus **Herzfaden w środę o 11:00**.
+
+**Rozsunięcie 14.09.2026.** Były dwie kolizje, obie po cichu dzielące limit
+konta w tej samej minucie:
+
+- inwestycja IV kwartał startowała razem z Kontrolerem — przesunięta
+  z `0 7 * * 1` na `0 8 * * 1` (10:00 PL);
+- Herzfaden startował razem z Radarem — przeniesiony z poniedziałku 08:00
+  na **środę 11:00** (`0 6 * * 1` → `0 9 * * 3`), razem z nazwą i jednym
+  zdaniem w promptcie, żeby „poniedziałkowy raport" nie kłócił się z cronem.
+
+Po obu zmianach detektor pokazuje **zero kolizji**. Wolne pełne godziny
+w poniedziałkowym oknie: 04:00, 09:00, 10:00, 11:00 UTC.
 
 Aktualną listę kolizji podaje blok generowany wyżej. Detektor rozwija crona na
 realne momenty tygodnia, a nie porównuje napisów — inaczej `0 6 * * *`
 i `0 6 * * 1` wyglądałyby na rozbieżne, choć w poniedziałki są tą samą minutą.
+Tamta kolizja przez to wisiała niezauważona.
 
 ### Co zapisuje każdy runner
 
