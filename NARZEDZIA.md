@@ -168,12 +168,55 @@ o niewydanych zestawach (Piotr) połączony z doradztwem zakupowym i linkami
 ustalenie zapisujemy w `DZIENNIK.md` przed rozpoczęciem pisania, żeby nie
 powstały dwie wersje tego samego.
 
-### Co Cowork robi dobrze
+### Kiedy wchodzi Cowork
 
-Research, teksty artykułów, social, raporty, analityka przez przeglądarkę
-(Search Console, GA4, panele sieci afiliacyjnych), praca na dokumentach `.docx`
-wspólnika. Oddaje gotowe pliki `.md` do `src/pages/artykuly/`, zgodne ze
-standardem z `redakcja/standard-artykulow-biezacych.md`.
+Nie „od tematów", tylko **od granic technicznych**: Cowork robi to, czego Code
+fizycznie nie może, i nic poza tym. Każde zadanie przypisane mu z przyzwyczajenia
+kosztuje przepisywanie wyników i rozjazd wersji.
+
+Trzy rzeczy, których Code nie zrobi:
+
+1. **Strony blokujące ruch z centrum danych.** Empik i lego.com oddają `403`
+   z Cloudflare — to blokada serwisu, nie naszej sieci, więc dotyczy każdego
+   narzędzia działającego z chmury. Dziś: tygodniowy zrzut cen Empiku.
+2. **Panele bez API.** Allegro Affiliate i webePartners nie mają API w rejestrze
+   — prowizje da się odczytać wyłącznie po zalogowaniu.
+3. **Pliki z dysku Marka.** Dokumenty `.docx` od Piotra, eksporty, zrzuty.
+
+Wszystko inne należy do Code i tam jest tańsze: research (WebSearch, WebFetch,
+Firecrawl), teksty prosto do repo, raporty przez API (Cloudflare Analytics
+Engine, Search Console, Adtraction).
+
+### Zmierzone limity Code *(14.09.2026 — nie zgadywać, to jest sprawdzone)*
+
+| Próba z kontenera sesji | Wynik |
+|---|---|
+| `empik.com`, `lego.com`, `allegro.pl`, `mediaexpert.pl` (curl) | **403** — Cloudflare, blokada ruchu z data center |
+| `planetaklockow.pl` (curl) | 200 |
+| Chromium/Playwright, dowolny adres | **ERR_CONNECTION_RESET** — relay nie obsługuje ruchu przeglądarki, także z jawnym proxy |
+| `api.firecrawl.dev` | działa — droga do stron blokujących nas wprost |
+| usunięcie gałęzi / zapis do GitHub API | **403** od proxy — robi człowiek |
+| wgranie skilla na konto | niemożliwe — synchronizacja tylko serwer → kontener |
+
+Dwa różne mury, których nie wolno mylić: **Cloudflare** blokuje serwis
+(naprawy po naszej stronie nie pomogą, potrzebny Firecrawl w trybie stealth albo
+lokalna przeglądarka), a **brak przeglądarki** to ograniczenie środowiska.
+Naprawa drugiego nie daje dostępu do pierwszego.
+
+### Prowizje: co mierzymy, a co zakładamy
+
+`node scripts/prowizje-raport.mjs --dni 30` — jedyne źródło prawdziwego EPC.
+Stan dostępów na 14.09.2026:
+
+| Sieć | Sklepy | Stan |
+|---|---|---|
+| Adtraction | Smyk, Egmont | **działa** (`ADTRACTION_TOKEN`); 0 transakcji w 60 dniach — to wynik, nie awaria |
+| Tradedoubler | Empik, Ceneo | `TD_TOKEN` jest **produktowy**; raporty wymagają osobnego tokenu → `TD_REPORT_TOKEN` |
+| Performers | Media Expert | brak `PERFORMERS_API_KEY`; API istnieje (HasOffers/TUNE, `NetworkId=wld`) |
+| Allegro, webePartners | — | brak API — tylko panel |
+
+Dopóki dwie środkowe pozycje są puste, każdy EPC w raportach jest **modelem**,
+nie pomiarem. To najtańsza dostępna poprawa jakości raportowania: dwa klucze.
 
 ## Harmonogram: generowany, nie pisany
 
