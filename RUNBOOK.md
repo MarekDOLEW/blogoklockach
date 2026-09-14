@@ -750,6 +750,13 @@ wraca na naszą stronę główną. **Sprawdzone na produkcji — to nieprawda.**
 `/idz/lego/42232` oddaje `302` na `lego.com/pl-pl/product/42232`; worker ma dla
 LEGO fallback z samego numeru i on działa.
 
+**Drugi koniec tej ścieżki też jest potwierdzony** (Marek, w przeglądarce,
+14.09.2026): `lego.com/pl-pl/product/21351` — czyli skrót bez sluga, dla zestawu
+spoza tych 741 z kanonicznym adresem — otwiera właściwą kartę produktu. Cała
+trasa `/idz/lego/<nr>` → karta zestawu jest więc sprawna, także dla zestawów,
+których w `redirects.json` nie ma. To jedyny sposób, żeby to zweryfikować:
+z serwera lego.com oddaje 403, więc sprawdza człowiek w przeglądarce.
+
 Wierszy LEGO.com bez linku jest w serwisie 3 015 i **wszystkie dotyczą zestawów
 po EOL** — zamiast przycisku stoi tam „produkcja zakończona". To zachowanie
 zamierzone: nie wysyłamy czytelnika do sklepu, który zestawu już nie sprzedaje.
