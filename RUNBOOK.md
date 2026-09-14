@@ -126,6 +126,26 @@ idzie tylko serwer → kontener, więc z sesji nie da się tego zrobić.
 
 ---
 
+## Zdjęcia: Planeta Klocków odrzuca fetch z workera *(ustalone 14.09.2026)*
+
+Worker serwuje `/img/<nr>.jpg` i `/img/<nr>-<poz>.jpg` z R2, a gdy w R2 nic nie
+ma — pobiera ze źródła (`obrazy.json` / `galerie.json`) i zapisuje kopię. Ten
+drugi krok **nie działa dla planetaklockow.pl**: z kontenera te same adresy
+oddają 200, ale fetch z workera dostaje odmowę i worker odpowiada 502.
+Audyt 14.09: 348 z 608 zdjęć galerii puste — 37 hubów z rzędem pustych miniatur.
+Działało tylko to, co ktoś wcześniej zdążył zobaczyć (kopia w R2).
+
+Naprawa bez ruszania workera: **wgrać plik do R2 z kontenera** pod kluczem,
+którego używa worker (`42220-1`, bez rozszerzenia). Robi to
+`node scripts/r2-obrazy.mjs` — sprawdza produkcję, dociąga brakujące ze źródła
+i wgrywa przez API. Wymaga `CF_R2_TOKEN` (token *Workers R2 Storage: Edit*,
+osobny od `CF_API_TOKEN`, który ma tylko Analytics: Read). `--sprawdz` działa
+bez tokena. Po dopisaniu nowych galerii do `galerie.json` uruchom skrypt —
+inaczej nowe zdjęcia z Planety nie pokażą się nigdy.
+
+Planeta potrafi resetować połączenie przy serii pobrań (curl 35) — skrypt
+ponawia trzy razy z odstępem; przy setkach plików liczy się w dziesiątkach minut.
+
 ## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
 
 Pomiar z Analytics Engine za 7–14.09: **939 kliknięć w `/idz/`, z czego 867

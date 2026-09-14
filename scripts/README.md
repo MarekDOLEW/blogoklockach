@@ -21,7 +21,7 @@ czy czeka, aż ktoś je wywoła.
 | `kliki-raport.mjs` | Kontroler, tygodniowo | Kliknięcia z Analytics Engine. **Domyślnie liczy tylko ludzi** (blob6) |
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |
 | `prowizje-raport.mjs` | Kontroler | Prowizje zmierzone: Adtraction, Performers, Tradedoubler |
-| `diagnoza.mjs` | Kontroler, KROK 0 | Co widzi środowisko — zmienne, repo, dane, realne wywołania |
+| `diagnoza.mjs` | Kontroler, KROK 0 | Co widzi środowisko — zmienne, repo, dane, realne wywołania (od 14.09 także R2) |
 | `harmonogram-z-konta.mjs` | Kontroler | Przepisuje sekcję „Zrzut" w `materialy/zadania-cykliczne.md` z `list_triggers` |
 | `wyslij-raport.py` | **Łowca, Scout, Radar, Wycofania** (od 14.09.2026, ostatni krok promptu) | Mail z PDF do redakcji przez Resend (`RESEND_API_KEY`), adresy z `src/data/raporty_mail.json`. PDF przez Chromium, bez zależności. `--do` do testów, `--tylko-pdf` bez wysyłki. Kontroler nie — jego raport idzie do Marka przez `SendUserFile` |
 
@@ -55,6 +55,12 @@ lub do ofert. Żaden nie chodzi sam.
 | `firecrawl.mjs` | Cienki klient API; też do diagnostyki z konsoli |
 | `firecrawl-legopl.mjs` | Zaciąg katalogu lego.com/pl-pl (lego.com oddaje nam 403) |
 | `parser-legopl.mjs` | Parser markdownu listingu — **5× tańszy** niż ekstrakcja modelem (1 kredyt wobec 5) |
+
+## Zdjęcia w R2
+
+| Skrypt | Kto uruchamia | Do czego |
+|---|---|---|
+| `r2-obrazy.mjs` | sesja, po dopisaniu galerii do `galerie.json` | Wgrywa do R2 zdjęcia, których worker nie pobierze sam (Planeta Klocków odrzuca fetch z workera). `--sprawdz` = tylko raport, `--glowne` = zdjęcia główne. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
 
 Budżet: 1000 kredytów miesięcznie. Szczegóły w `NARZEDZIA.md`.
 

@@ -87,6 +87,7 @@ const pisz = (tekst) => console.log(bezSekretow(tekst));
 const ZMIENNE = {
   CF_ACCOUNT_ID: 'Cloudflare — konto (raport klików)',
   CF_API_TOKEN: 'Cloudflare — token Analytics Engine',
+  CF_R2_TOKEN: 'Cloudflare — token R2 (wgrywanie zdjęć, scripts/r2-obrazy.mjs)',
   GSC_KEY_JSON_B64: 'Search Console — klucz konta serwisowego',
   ADTRACTION_TOKEN: 'Adtraction — Smyk, Egmont',
   PERFORMERS_API_KEY: 'Performers — Media Expert',
@@ -213,6 +214,25 @@ if (szybko) {
       : { stan: 'błąd', status: o.status, powod: o.blad ?? jednaLinia(o.tresc) };
   } else {
     dostepy.cloudflare = { stan: 'brak zmiennych' };
+  }
+
+  // R2 — osobny token (Workers R2 Storage: Edit), bo CF_API_TOKEN ma tylko
+  // Analytics: Read i na r2/buckets dostaje „Authentication error". Lista
+  // kubełków wystarcza za dowód: bez uprawnienia wywołanie nie przechodzi.
+  if (process.env.CF_ACCOUNT_ID && process.env.CF_R2_TOKEN) {
+    const o = await pobierz(
+      `https://api.cloudflare.com/client/v4/accounts/${process.env.CF_ACCOUNT_ID}/r2/buckets`,
+      { headers: { authorization: `Bearer ${process.env.CF_R2_TOKEN}` } },
+    );
+    let kubelki = null;
+    try {
+      kubelki = JSON.parse(o.tresc)?.result?.buckets?.map((b) => b.name) ?? null;
+    } catch { /* odpowiedź nie jest JSON-em — zostaje sam status */ }
+    dostepy.r2 = o.ok && kubelki
+      ? { stan: 'ok', kubelki }
+      : { stan: 'błąd', status: o.status, powod: o.blad ?? jednaLinia(o.tresc) };
+  } else {
+    dostepy.r2 = { stan: 'brak zmiennych' };
   }
 
   // Tradedoubler — sam token, bez raportu; potwierdza logowanie w 1 wywołaniu.

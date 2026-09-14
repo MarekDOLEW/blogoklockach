@@ -47,6 +47,33 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
+
+**Zrobione:** Marek dodał `CF_R2_TOKEN` (osobny token *Workers R2 Storage: Edit*).
+Sprawdzone realnym wywołaniem (`r2/buckets` → `tylkoklocki-obrazy`), potem
+348 brakujących zdjęć galerii pobrane z Planety Klocków z kontenera i wgrane
+do R2 pod kluczami workera (`42220-1`…). Bez zmiany w workerze, bez deployu —
+worker czyta R2 przed źródłem, więc huby ożyły od razu. Kontrola po wgraniu:
+**608/608 galerii oddaje 200** (było 259).
+- Nowy `scripts/r2-obrazy.mjs`: `--sprawdz` (raport bez tokena), domyślnie
+  galerie, `--glowne` dla zdjęć głównych, `--klucze a,b`. Do uruchomienia po
+  każdym dopisaniu galerii do `galerie.json` — inaczej nowe zdjęcia z Planety
+  nie pokażą się nigdy.
+- `diagnoza.mjs` sprawdza teraz także R2 (lista kubełków). RUNBOOK: sekcja
+  „Zdjęcia: Planeta Klocków odrzuca fetch z workera".
+- Baza RK nie była alternatywą: sięga rocznika 2024, a wszystkie 37 padających
+  galerii to zestawy z 2026.
+
+**Stan:** gotowe. Zdjęcia główne z martwym źródłem (Rebrickable 404: 2927, 11934,
+21375) skrypt nie naprawi — potrzebne inne źródło w `obrazy.json`.
+
+**Dla drugiej strony:** Scout/sesje piszące galerie — po dopisaniu wpisów do
+`galerie.json` odpal `node scripts/r2-obrazy.mjs`.
+
+**Uwagi:** Planeta resetuje połączenie przy serii pobrań (curl 35), skrypt ponawia;
+348 plików zajęło ~25 minut przy 4 równoległych.
+
+
 ## 2026-09-14 20:00 · CODE · Audyt serwisu po dzisiejszych zmianach: dwa błędy naprawione, jeden do decyzji
 
 **Zrobione:** przegląd produkcji po 40 dzisiejszych commitach — build, linki,
