@@ -17,7 +17,6 @@
 //                    gdy jest nazwą serii)
 //   lastmod        – zaktualizowano ?? data (do sitemapy i RSS)
 
-import { readFileSync } from 'node:fs';
 import sety from '../data/sety.json';
 import { wpisKatalogu } from './katalog.js';
 
@@ -28,9 +27,20 @@ const md = {
   ...import.meta.glob('../pages/*.md', { eager: true }),
 };
 
-// Prezentowniki serii to .astro: eksportują `meta`, a treść czytamy z pliku
-// (fs), bo strony .astro nie mają rawContent() jak markdown.
+// Prezentowniki serii to .astro: `meta` bierzemy z modułu, a treść (numery
+// zestawów) z DRUGIEGO globa, tym razem surowego (`?raw`). Nie z `readFileSync`:
+// w buildzie ten moduł jest już zbundlowany do `dist/pages/…mjs`, więc ścieżka
+// względem `import.meta.url` celowała w nieistniejący
+// `dist/pages/prezentowniki/*.astro`, odczyt leciał ENOENT, `catch` go zjadał
+// i każdy prezentownik `.astro` wchodził do indeksu z zerem zestawów (błąd
+// wykryty 14.09.2026 – 98 zestawów niewidocznych dla `wPrezentowniku`,
+// „Przeczytaj też" i warunku C w `hubIndeksowalny`).
 const astro = import.meta.glob('../pages/prezentowniki/*.astro', { eager: true });
+const astroZrodla = import.meta.glob('../pages/prezentowniki/*.astro', {
+  eager: true,
+  query: '?raw',
+  import: 'default',
+});
 
 const serieZnane = new Set(Object.values(sety).map((s) => s.seria).filter(Boolean));
 
@@ -101,11 +111,11 @@ function zMarkdownu(sciezka, modul) {
 function zAstro(sciezka, modul) {
   const meta = modul.meta;
   if (!meta?.url) return null;
-  let surowy = '';
-  try {
-    surowy = readFileSync(new URL(sciezka, import.meta.url), 'utf8');
-  } catch {
-    surowy = '';
+  // Brak źródła = błąd konfiguracji globa, nie sytuacja do przemilczenia.
+  // Poprzednia wersja łykała go po cichu i indeks tekstów cicho gubił zestawy.
+  const surowy = astroZrodla[sciezka];
+  if (typeof surowy !== 'string') {
+    throw new Error(`Brak surowego źródła prezentownika ${sciezka} – sprawdź glob astroZrodla w src/lib/teksty.js`);
   }
   const numery = numeryZTekstu(surowy);
   const data = meta.data ?? '';
