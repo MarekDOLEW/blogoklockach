@@ -101,8 +101,18 @@ mediana ~220 zł.
    nie te elementy).
 
 6. **Przekaż plik do sesji „Łowca Promocji"** (wgraj `lego-empik.json`
-   w jej czacie z notką „zrzut Empiku z RRRR-MM-DD — do importu").
-   Import po stronie Łowcy jest ustalony: filtry anty-gadżetowe, próg
+   w jej czacie). Notka ma brzmieć:
+
+   > zrzut Empiku z RRRR-MM-DD — do importu. Plik ma nowe pole `url`
+   > (adres karty produktu). Po imporcie cen uruchom też
+   > `node scripts/empik-redirects.mjs <plik> --usun-martwe` — wgrywa
+   > deeplinki produktowe do `redirects.json`.
+
+   Ten drugi krok trzeba napisać wprost, bo prompt Łowcy go nie zawiera:
+   import Empiku odbywa się poza jego stałą instrukcją, a skrypt linków
+   powstał dopiero 14.09.2026.
+
+   Import cen po stronie Łowcy jest ustalony: filtry anty-gadżetowe, próg
    sanity 40% ceny katalogowej, aktualizacja `oferty_feed.json` (klucz
    `empik`) i minimów w `ceny_baza.json`, commit i push. **Nie rób tego
    importu samodzielnie** — rozjedziesz się z jego regułami wykluczeń.
