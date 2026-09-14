@@ -171,6 +171,15 @@ Ceneo odświeża osobno `scripts/ceneo-feed.mjs`, ceny Empiku wchodzą ze zrzutu
 przez skill `klocki-ceny-empik`. Powód zmiany: konto uderzyło w tygodniowy limit
 i sesje Łowcy oraz Backfillu dostawały status `rejected`.
 
+**Empik ma inny rytm niż Łowca.** Łowca chodzi codziennie o 08:30, a zrzut
+Empiku robi Cowork **raz w tygodniu, w poniedziałek** — Empik blokuje ruch
+serwerowy, więc katalog trzeba przejść lokalną przeglądarką. Import zrzutu jest
+więc poza codzienną instrukcją Łowcy: Cowork wgrywa plik do jego sesji z notką,
+a Łowca importuje ceny i od 14.09.2026 uruchamia też
+`node scripts/empik-redirects.mjs <plik> --usun-martwe` (deeplinki produktowe).
+Wniosek praktyczny: zmiany dotyczące Empiku wchodzą do serwisu dopiero przy
+najbliższym poniedziałkowym zrzucie, nie następnego dnia.
+
 ## Backfill — obowiązkowa bramka sanity *(od 30.08.2026)*
 
 Przed każdym commitem Backfill MUSI uruchomić `node scripts/kontrola-rrp.mjs`
