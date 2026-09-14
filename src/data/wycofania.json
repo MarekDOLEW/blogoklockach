@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-09-13",
+  "aktualizacja": "2026-09-14",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -200,7 +200,8 @@
    "elementy": 10001,
    "kiedy": "odwołane",
    "status": "potwierdzone",
-   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż na lego.com, jednak inni sprzedawcy mogą wciąż mieć zapasy – po ich wyczerpaniu tak monumentalne konstrukcje zwykle drożeją. [13.09.2026: karta na lego.com ma status „Dostępne teraz” – wpis „wycofany” odwołany, do ponownej weryfikacji przez runner Wycofań]"
+   "uwagi": "Lipcowe wycofanie nie doszło do skutku – LEGO wznowiło sprzedaż prawie półtorametrowej wieży, a branżowe listy przesuwają jej zejście na 2027 rok, więc na razie nie ma powodu do zakupowej paniki.",
+   "zrodlo": "karta produktu lego.com \"Dostępne teraz\" (audyt 13.09.2026); brak w dziale Ostatnie sztuki 2026-09-14"
   },
   {
    "numer": "10309",
@@ -1662,10 +1663,11 @@
    "nazwa": "Kwiaty lotosu",
    "seria": "Creator",
    "elementy": 220,
-   "kiedy": "odwołane",
+   "kiedy": "2026",
    "status": "potwierdzone",
-   "uwagi": "Budowane z klocków lotosy to tani dodatek do botanicznych kolekcji dorosłych, dlatego po wycofaniu warto jeszcze przejrzeć półki lokalnych sklepów. [13.09.2026: karta na lego.com ma status „Dostępne teraz” – wpis „wycofany” odwołany, do ponownej weryfikacji przez runner Wycofań]",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1"
+   "uwagi": "Budowane z klocków lotosy wróciły do sprzedaży na lego.com i wiszą w dziale ostatnich sztuk – to tani dodatek do botanicznych kolekcji, który może zniknąć z dnia na dzień.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1",
+   "zrodlo": "lego.com Ostatnie sztuki, 2026-09-14 (powrót do sprzedaży potwierdzony audytem 13.09)"
   },
   {
    "numer": "40725",
