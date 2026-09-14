@@ -79,14 +79,17 @@ Kontroler odpalał się rano dwa razy: stary trigger z 11.08 o 07:10 UTC i nowy
 SUCCEEDED — czyli dwa raporty w każdy poniedziałek i podwójne zużycie limitu
 w najciaśniejszym oknie tygodnia.
 
-Różnica nie jest kosmetyczna, ale **nie wiadomo dokładnie, na czym polega**.
-Sprawdzenie 14.09: `session_request.environment_variables` jest puste u
-**wszystkich** Routines na koncie, także u nowego — to pole trzyma nadpisania,
-a nie zmienne środowiska, więc niczego nie dowodzi (moja pierwsza wersja tego
-akapitu twierdziła inaczej i była błędna). `list_triggers` nie pokazuje
-`environment_id`, więc z API nie da się porównać, w jakim środowisku startuje
-który runner. Pewne jest tylko tyle: nowy trigger nazwano `[env projektu]`,
-a raport z 14.09
+**Zmierzona różnica: liczba konektorów.** Stary ma trzy (Adobe, Google Calendar,
+Claude_Code_Remote), nowy sześć (dodatkowo Alpha Vantage, Canva, Firecrawl).
+Dla nas liczy się to, że oba mają `Claude_Code_Remote`, więc oba potrafiłyby
+odczytać harmonogram — ale krok generujący sekcję ma w promptcie tylko nowy.
+
+Czego dalej NIE wiadomo: w jakim środowisku startuje który.
+`session_request.environment_variables` jest puste u **wszystkich** Routines na
+koncie, także u nowego — to pole trzyma nadpisania, a nie zmienne środowiska,
+więc niczego nie dowodzi (moja pierwsza wersja tego akapitu twierdziła inaczej
+i była błędna). `list_triggers` nie zwraca `environment_id` w ogóle. Poszlaka
+jest taka: nowy trigger nazwano `[env projektu]`, a raport z 14.09
 (`materialy/kontroler-2026-09-14.md`) nie ma sekcji o kliknięciach, EPC,
 widoczności i indeksacji, i stąd jego rekomendacja numer jeden brzmi
 „przywrócić poświadczenia" — w środowisku projektu one są i działają
@@ -147,7 +150,7 @@ Tamta kolizja przez to wisiała niezauważona.
 | Łowca promocji | `oferty_feed.json`, `ceny_baza.json`, `redirects.json`, `sklepy.json`, `sety.json` (ceny), `src/pages/deale/*.md` |
 | Radar konkurencji | `konkurencja_baza.json` + rekomendacje redakcyjne |
 | Backfill | `katalog.json` → pole `cena_katalogowa` |
-| Kontroler | nic w repo — raport PDF na maila |
+| Kontroler | `materialy/zadania-cykliczne.md` — sekcja między znacznikami HARMONOGRAM (od 14.09.2026); poza tym raport PDF, nie plik w repo |
 
 ### Uwagi do odczytu
 
@@ -176,8 +179,21 @@ Tamta kolizja przez to wisiała niezauważona.
 ### Zmiana czasu — 25.10.2026
 
 Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
-**każdy runner przesunie się o godzinę wcześniej względem zegara**: Scout na
-04:00, Wycofania 05:00, Radar 07:00, Łowca 07:30, Kontroler pon 08:00.
+**każde zadanie przesunie się o godzinę wcześniej względem zegara**:
+
+| Zadanie | Dziś (CEST) | Po 25.10 (CET) |
+|---|---|---|
+| Scout nowości | 05:00 | 04:00 |
+| Wycofania | pon 06:10 | pon 05:10 |
+| Angielski | pon 07:00 | pon 06:00 |
+| Radar konkurencji | 08:00 | 07:00 |
+| Łowca promocji | 08:30 | 07:30 |
+| Kontroler | pon 09:00 | pon 08:00 |
+| inwestycja IV kwartał | pon 10:00 | pon 09:00 |
+| Herzfaden | śr 11:00 | śr 10:00 |
+
+Przesuwa się wszystko równo, więc **nowych kolizji to nie tworzy**. Tabelę
+w bloku generowanym poprawi sam generator — liczy przesunięcie z kalendarza.
 
 Dla Łowcy to jest realny problem, nie kosmetyka: godzina 08:30 została dobrana
 pod moment lądowania nocnego feedu Media Expert (~07:40 czasu polskiego).

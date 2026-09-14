@@ -100,8 +100,11 @@ w hubach"), żeby było co zweryfikować bez czytania diffa.
 
 `node scripts/diagnoza.mjs` — zmienne środowiska (same nazwy, nigdy wartości),
 stan repo, świeżość danych i **realne wywołania** do Cloudflare, Search Console,
-Tradedoublera, Firecrawla i produkcji. Runnery odpalają go w pierwszym kroku
-i wklejają wynik na początku raportu.
+Tradedoublera, Firecrawla i produkcji.
+
+**Stan na 14.09.2026: robi to jeden runner — Kontroler.** Pozostałe sześć ma
+w promptach własne, starsze sprawdzenia albo nie ma żadnych. Nie pisz więc
+„runnery odpalają diagnozę" jako o fakcie; to jest kierunek, nie stan.
 
 Powód: 14.09.2026 trzy razy w jednej sesji padło zdanie o brakującym dostępie,
 które nie było prawdą („Kontroler nie ma poświadczeń”, „LEGO.com nie ma linków”,

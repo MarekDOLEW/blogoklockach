@@ -47,6 +47,46 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-14 17:50 · CODE · Prowizje zmierzone, filtr botów, trzy porządki z audytu
+
+**Zrobione:**
+- **Tradedoubler Publisher API działa** (`scripts/prowizje-raport.mjs`). Pierwsza
+  ZMIERZONA prowizja: Empik 13.09, obrót 51,53 EUR, prowizja 1,41 EUR (2,74%).
+  Adres tokenu to `/uaa/oauth/token`, grant `password` — `client_credentials`
+  nie jest dozwolony. TD raportuje w EUR, nie sumować ze złotówkami.
+- **Filtr botów na `/idz/`** (`src/worker.js`): ruch bez referera z tylkoklocki.pl
+  dostaje `blob6 = 'bot'` i przekierowanie na hub zamiast do sklepu.
+  `kliki-raport.mjs` **domyślnie liczy tylko ludzi** — pomiar: 34 boty na
+  9 ludzi. Wcześniejsze „940 kliknięć" to był w większości ruch scraperów.
+- **Ceneo na produkcji**: 1426 cen, 1538 linków.
+- **`scripts/diagnoza.mjs`** — zmienne (same nazwy), stan repo, świeżość danych
+  i realne wywołania do Cloudflare, GSC, TD, Firecrawla i produkcji.
+- **`scripts/archiwum-dziennika.mjs`** — ten plik schudł z 1971 do 889 linii.
+  Wpisy sierpniowe są w `materialy/dziennik-archiwum-2026-08.md`.
+- **`scripts/harmonogram-z-konta.mjs`** — sekcja „Zrzut" w
+  `materialy/zadania-cykliczne.md` jest generowana z `list_triggers`.
+- **Harmonogram rozsunięty**: inwestycja pon 09:00 → 10:00, Herzfaden
+  pon 08:00 → **środa 11:00**. Zero kolizji.
+
+**Stan:** gotowe, wszystko na `main`.
+
+**Dla drugiej strony (Cowork):** nic nowego do zrobienia, ale dwie zmiany
+dotyczą Twojej pracy. (1) Zrzut Empiku dalej robisz w poniedziałek, tylko Łowca
+uruchamia teraz dodatkowo `scripts/empik-redirects.mjs --usun-martwe` — klucz
+`redirects.empik` powstanie przy pierwszym takim imporcie, dziś go jeszcze nie
+ma. (2) **Nowy wpis w tym dzienniku wstawiaj pod linią znacznika**
+`WPISY PONIŻEJ`; wszystko nad nią (instrukcja, ustalenia trwałe, indeks
+archiwum) jest stałe i archiwizacja tego nie rusza.
+
+**Uwagi:** dzień zszedł też na własne błędy i warto je znać, żeby ich nie
+powtarzać. Trzy razy postawiłem tezę o braku dostępu, która nie była prawdą
+(„Kontroler nie ma poświadczeń" — miał; „LEGO.com nie ma linków" — miał;
+„klient TD nie jest aktywny" — był, tylko biłem w zmyśloną ścieżkę). Stąd
+`diagnoza.mjs` i reguła w CLAUDE.md: nie piszemy o uprawnieniach z pamięci.
+Pierwsza wersja archiwizatora wywoziła sekcję „Ustalenia trwałe" do archiwum,
+a pierwsza wersja diagnozy drukowała fragment sekretu w komunikacie błędu —
+oba znalezione dopiero przy powtórnym czytaniu, oba naprawione i przetestowane.
+
 ## 2026-09-09 08:00 · CODE · Indeksacja: sitemapy sekcyjne z lastmod, noindex na cienkich hubach, RSS, FAQ, „Przeczytaj też"
 
 **Zrobione** (gałąź `claude/tylkoklocki-indexing-seo-5d1jit`, do wdrożenia
