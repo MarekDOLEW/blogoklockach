@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 14.09 17:53 (CEST, UTC+2).** Objął **11 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 14.09 19:22 (CEST, UTC+2).** Objął **11 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -46,12 +46,12 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
 | LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 14.09 05:05 | ✅ SUCCEEDED | `trig_01Nos3qQb8GJFAVMR1SyEEZT` |
-| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 14.09 08:01 | ✅ SUCCEEDED | `trig_01UpMJdpeguEtby68saqBMpD` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — nigdy nie odpalony | `trig_01QtoVYnY4APxugsULZACnJP` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | — | — nigdy nie odpalony | `trig_01CKZcraFW8mfuhaJTrzpzzF` |
 | LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
 | LEGO ndz 10:00 — Social: paczka tygodniowa (ZAWIESZONE do startu kanałów) | `0 8 * * 0` | ndz 10:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01W1CSp8PM3DDN6UEyNLYe6H` |
-| LEGO pon 06:00 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 14.09 06:10 | ✅ SUCCEEDED | `trig_01EZNzF51DPkHRyKkS7MhNBn` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 14.09 08:39 | ✅ SUCCEEDED | `trig_014koskPHBgxP79gLKcLqGvf` |
+| LEGO pon 06:00 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | — | — nigdy nie odpalony | `trig_01158iqakBNwxfe1MNG4FaHS` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — nigdy nie odpalony | `trig_01MivBC8HUjKiWAiQqNWBgjh` |
 
 ### Pozostałe Routines na tym samym koncie
 
@@ -96,7 +96,11 @@ Czego nie udało się ustalić: w jakim środowisku startował który.
 `session_request.environment_variables` jest puste u **wszystkich** Routines na
 koncie — to pole trzyma nadpisania, a nie zmienne środowiska, więc niczego nie
 dowodzi (pierwsza wersja tego akapitu twierdziła inaczej i była błędna).
-`list_triggers` nie zwraca `environment_id` w ogóle. Poszlaka jest taka, że
+`list_triggers` zwraca `session_request.environment_id` **tylko dla triggerów
+przypiętych do trwałej sesji** (Scout, Radar, Łowca, Wycofania, Backfill:
+`env_01YL3diD2yzP3UGYsU7Txvx7` — to samo środowisko, w którym chodzą sesje
+robocze); dla zadań tworzących świeżą sesję pole jest puste — sprawdzone
+14.09.2026 na pełnej liście. Poszlaka co do starego Kontrolera jest taka, że
 raport starego z 14.09 (`materialy/kontroler-2026-09-14.md`, 07:30 UTC) nie ma
 sekcji o kliknięciach, EPC, widoczności ani indeksacji i rekomenduje „przywrócić
 poświadczenia" — a w środowisku projektu te poświadczenia są i działają
@@ -228,7 +232,12 @@ i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 Prompt Routine przypiętej do cudzej sesji **nie da się** zmienić przez
 `update_trigger` („editing the prompt … is not available via this tool") —
 trzeba `delete_trigger` + `create_trigger` z tym samym `persistent_session_id`.
-Nazwę, cron i stan `enabled` można zmieniać normalnie.
+Nazwę, cron i stan `enabled` można zmieniać normalnie. **Potwierdzone
+14.09.2026** próbą no-op na Wycofaniach (ten sam prompt, API odmówiło) i
+odtworzeniem czterech runnerów przy wpinaniu wysyłki maili. Kolejność
+bezpieczna: najpierw `create_trigger` nowego, odczyt z konta, dopiero potem
+`delete_trigger` starego — żeby nie było okna bez runnera. Parametr
+`connectors` w `create_trigger` jest w tej organizacji niedostępny; pomiń go.
 
 **Nie kasuj i nie archiwizuj sesji runnera.** Trigger straci cel i wyłączy się
 sam z `ended_reason: auto_disabled_session_gone` — bez ostrzeżenia i bez błędu.

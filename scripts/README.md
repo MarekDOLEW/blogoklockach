@@ -23,7 +23,7 @@ czy czeka, aż ktoś je wywoła.
 | `prowizje-raport.mjs` | Kontroler | Prowizje zmierzone: Adtraction, Performers, Tradedoubler |
 | `diagnoza.mjs` | Kontroler, KROK 0 | Co widzi środowisko — zmienne, repo, dane, realne wywołania |
 | `harmonogram-z-konta.mjs` | Kontroler | Przepisuje sekcję „Zrzut" w `materialy/zadania-cykliczne.md` z `list_triggers` |
-| `wyslij-raport.py` | **nikt dziś** — Kontroler dostarcza PDF przez `SendUserFile` | Droga mailowa przez Resend (`RESEND_API_KEY`), adresy z `src/data/raporty_mail.json`. Zostaje jako zapas, gdyby SendUserFile przestał wystarczać |
+| `wyslij-raport.py` | **Łowca, Scout, Radar, Wycofania** (od 14.09.2026, ostatni krok promptu) | Mail z PDF do redakcji przez Resend (`RESEND_API_KEY`), adresy z `src/data/raporty_mail.json`. PDF przez Chromium, bez zależności. `--do` do testów, `--tylko-pdf` bez wysyłki. Kontroler nie — jego raport idzie do Marka przez `SendUserFile` |
 
 ## Build i treść
 

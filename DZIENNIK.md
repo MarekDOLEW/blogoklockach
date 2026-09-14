@@ -47,6 +47,36 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-14 19:30 · CODE · Maile do Piotra: wysyłka nigdy nie była podpięta — naprawione
+
+**Zrobione:** Piotr dostał jeden mail (19.08) i potem nic. Log Resend
+potwierdza: w całej historii konta wyszedł jeden mail, z tematem „TEST".
+Trzy niezależne przyczyny: żaden runner nie miał kroku wysyłki w promptcie,
+runnery nie tworzyły pliku raportu, a `wyslij-raport.py` importował
+weasyprint, którego nikt nie instalował.
+- `scripts/wyslij-raport.py` przepisany: PDF przez headless Chromium
+  z kontenera, markdown przez `md-na-pdf.py` — zero zależności. Nowe flagi
+  `--do` (test na jeden adres) i `--tylko-pdf`. Test doręczony na kontakt@.
+- Krok wysyłki dopisany na końcu promptów Łowcy (zawsze), Scouta, Radaru
+  i Wycofań (tylko przy zmianach). Triggery **odtworzone** (nowe ID, te same
+  sesje i crony), bo `update_trigger` odmawia zmiany promptu na trwałej
+  sesji — sprawdzone próbą no-op.
+- Kontroler bez zmian: jego raport idzie do Marka przez SendUserFile.
+
+**Stan:** gotowe. Pierwszy mail od runnera wyjdzie jutro po 08:38 (Łowca,
+zasada „zawsze").
+
+**Dla drugiej strony:** nic. Jeśli jutro Piotr nie dostanie maila od Łowcy,
+pierwsze miejsce do sprawdzenia to podsumowanie tej sesji runnera — prompt
+każe wkleić tam dokładny komunikat błędu skryptu.
+
+**Uwagi:** nowe triggery mają `allowed_tools: []`, skasowany Łowca miał
+jawną listę. Pozostałe trzy stare też jej nie miały i chodziły bez problemu,
+więc to najpewniej domyślna wartość — ale jutrzejsze przebiegi są pierwszym
+realnym dowodem. `environment_id` JEST zwracane przez `list_triggers`
+dla triggerów trwałych sesji; wcześniejsza notatka „nie zwraca w ogóle"
+była błędna i jest poprawiona.
+
 ## 2026-09-14 17:50 · CODE · Prowizje zmierzone, filtr botów, trzy porządki z audytu
 
 **Zrobione:**

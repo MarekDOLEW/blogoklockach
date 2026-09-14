@@ -1,31 +1,44 @@
 {
  "_meta": {
-  "opis": "Odbiorcy raportow PDF z zadan cyklicznych. Wysylka: scripts/wyslij-raport.py (Resend API, nadawca raporty@tylkoklocki.pl).",
-  "uzycie": "python3 scripts/wyslij-raport.py --zadanie promocje --tytul \"Lowca Promocji — 19.08.2026\" --plik raport.md [--wstep \"1-2 zdania do tresci maila\"]",
+  "opis": "Odbiorcy raportow PDF z zadan cyklicznych. Wysylka: scripts/wyslij-raport.py (Resend API, nadawca raporty@tylkoklocki.pl). PDF robi headless Chromium z kontenera, markdown zamienia scripts/md-na-pdf.py — zero zaleznosci do instalowania.",
+  "uzycie": "python3 scripts/wyslij-raport.py --zadanie promocje --tytul \"Lowca Promocji — 14.09.2026\" --plik /tmp/raport-promocje.md [--wstep \"1-2 zdania\"] [--do adres@x.pl (test, nadpisuje odbiorcow)] [--tylko-pdf plik.pdf (bez wysylki)]",
   "zasada_wysylki": "wysylka=zawsze -> mail przy kazdym przebiegu; wysylka=przy_zmianach -> mail tylko gdy przebieg cos zmienil (nowe wpisy/ceny). Brak zmian = nie wysylamy, zeby maile nie spowszednialy.",
   "edycja": "Adresy dopisuj/usuwaj w tablicach odbiorcy - zmiana dziala od nastepnego przebiegu, bez ruszania promptow zadan.",
-  "zaktualizowano": "2026-08-19"
+  "zaktualizowano": "2026-09-14",
+  "historia": "Od 19.08 do 14.09.2026 wyszedl JEDEN mail — reczny test z 19.08 (log Resend). Zaden runner nie mial kroku wysylki w promptcie, runnery nie tworzyly pliku raportu, a skrypt importowal weasyprint, ktorego nikt nie instalowal. 14.09 krok wysylki wpisany do promptow Lowcy, Scouta, Radaru i Wycofan (triggery odtworzone, bo promptu trwalej sesji nie zmienia update_trigger)."
  },
  "zadania": {
   "promocje": {
    "nazwa": "Łowca Promocji",
    "wysylka": "zawsze",
-   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl",
+    "piotrmaculewicz@interia.pl"
+   ]
   },
   "nowosci": {
    "nazwa": "Scout Nowości",
    "wysylka": "przy_zmianach",
-   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl",
+    "piotrmaculewicz@interia.pl"
+   ]
   },
   "wycofania": {
    "nazwa": "Wycofania zestawów",
    "wysylka": "przy_zmianach",
-   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl",
+    "piotrmaculewicz@interia.pl"
+   ]
   },
   "konkurencja": {
    "nazwa": "Radar Konkurencji",
    "wysylka": "przy_zmianach",
-   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl",
+    "piotrmaculewicz@interia.pl"
+   ]
   }
  }
 }
