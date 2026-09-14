@@ -9,13 +9,19 @@
 // Stan dostępów (sprawdzone 14.09.2026):
 //   ADTRACTION_TOKEN     — DZIAŁA. Smyk, Egmont. Endpoint transakcji odpowiada,
 //                          w 60 dniach zero konwersji (to wynik, nie awaria).
-//   TD_TOKEN             — token PRODUKTOWY, do raportów daje 403 „Token not
-//                          authorized for request". Raporty wymagają osobnego
-//                          tokenu z panelu TD (Account → Manage tokens).
-//                          Dotyczy Empiku i Ceneo.
-//   PERFORMERS_API_KEY   — API istnieje i host odpowiada (HasOffers/TUNE,
-//                          NetworkId=wld); klucz dodany 14.09, do sprawdzenia
-//                          w pierwszej nowej sesji. Dotyczy Media Expertu.
+//   TD_TOKEN             — token PRODUKTOWY (Products API), do niczego innego.
+//   TD_REPORT_TOKEN      — token systemu CONVERSIONS (sprawdzone 14.09:
+//                          /1.0/conversions/subscriptions odpowiada 200).
+//                          To API jest WYŁĄCZNIE push: TD sam wysyła konwersje
+//                          na zarejestrowany webhook, transakcji nie da się nim
+//                          pobrać. Legacy API 1.0 nie ma endpointu raportów
+//                          (reports/claims/conversions.json → 403 dla każdego
+//                          tokenu). Pobieranie transakcji daje dopiero nowe
+//                          Publisher API (panel TD → Tools → API Info → nowy
+//                          klient: Client ID + Secret, OAuth2) — do wdrożenia,
+//                          gdy będą klucze. Dotyczy Empiku i Ceneo.
+//   PERFORMERS_API_KEY   — DZIAŁA (sprawdzone 14.09: 1245 kliknięć, 0 konwersji
+//                          w 30 dniach). Dotyczy Media Expertu.
 //   Allegro, webePartners— brak API w rejestrze; panel przez przeglądarkę.
 //
 // Użycie:
@@ -56,18 +62,31 @@ async function adtraction() {
 }
 
 // ── Tradedoubler (Empik, Ceneo) ──────────────────────────────────────────────
+// Legacy API 1.0 nie udostępnia raportów transakcji (patrz nagłówek). Jedyne, co
+// można sprawdzić tokenem, to czy jest żywy w systemie Conversions. Pobieranie
+// transakcji wymaga nowego Publisher API (Client ID + Secret) — jeszcze nie
+// wdrożone, bo nie ma kluczy.
 async function tradedoubler() {
-  const token = process.env.TD_REPORT_TOKEN ?? process.env.TD_TOKEN;
+  const token = process.env.TD_REPORT_TOKEN;
   if (!token) return { stan: 'brak TD_REPORT_TOKEN' };
-  const odp = await fetch(`https://api.tradedoubler.com/1.0/reports.json?token=${token}`);
+  if (process.env.TD_CLIENT_ID || process.env.TD_CLIENT_SECRET) {
+    return { stan: 'TD_CLIENT_ID/SECRET są, ale obsługa nowego Publisher API nie jest jeszcze napisana' };
+  }
+  const odp = await fetch(`https://api.tradedoubler.com/1.0/conversions/subscriptions?token=${token}`);
   if (odp.status === 403) {
     return {
-      stan: 'token bez uprawnień do raportów',
-      co_zrobic: 'panel TD → Account → Manage tokens → token raportowy → zmienna TD_REPORT_TOKEN',
+      stan: 'TD_REPORT_TOKEN nierozpoznany przez system Conversions',
+      co_zrobic: 'panel TD → Account → Manage tokens → sprawdzić, dla jakiego systemu wystawiono token',
     };
   }
   if (!odp.ok) return { stan: `HTTP ${odp.status}` };
-  return { stan: 'ok', raporty: await odp.json().catch(() => null) };
+  const subskrypcje = await odp.json().catch(() => null);
+  return {
+    stan: 'brak pobierania transakcji w tym API',
+    token_conversions: 'poprawny',
+    subskrypcje_webhook: Array.isArray(subskrypcje) ? subskrypcje.length : null,
+    co_zrobic: 'panel TD → Tools → API Info → nowy klient → zmienne TD_CLIENT_ID i TD_CLIENT_SECRET; potem dopisać obsługę nowego Publisher API w tym skrypcie',
+  };
 }
 
 // ── Performers (Media Expert) ────────────────────────────────────────────────
@@ -83,7 +102,7 @@ async function performers() {
   // dopiero `response.status` (1 = ok, -1 = błąd) i lista `response.errors`.
   // Sprawdzanie samego kodu HTTP pokazywałoby sukces przy złym kluczu.
   const url = `https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&Target=Affiliate_Report&Method=getStats&api_key=${klucz}`
-    + `&fields[]=Stat.conversions&fields[]=Stat.payout&fields[]=Stat.date`
+    + `&fields[]=Stat.conversions&fields[]=Stat.payout&fields[]=Stat.clicks`
     + `&data_start=${iso(od).slice(0, 10)}&data_end=${new Date().toISOString().slice(0, 10)}`;
   const odp = await fetch(url);
   if (!odp.ok) return { stan: `HTTP ${odp.status}` };
@@ -98,7 +117,8 @@ async function performers() {
   const wiersze = Array.isArray(r.data?.data) ? r.data.data : [];
   const suma = wiersze.reduce((s, w) => s + (Number(w?.Stat?.payout) || 0), 0);
   const konw = wiersze.reduce((s, w) => s + (Number(w?.Stat?.conversions) || 0), 0);
-  return { stan: 'ok', konwersje: konw, prowizja_pln: Math.round(suma * 100) / 100 };
+  const kliki = wiersze.reduce((s, w) => s + (Number(w?.Stat?.clicks) || 0), 0);
+  return { stan: 'ok', kliki, konwersje: konw, prowizja_pln: Math.round(suma * 100) / 100 };
 }
 
 wynik.sieci.adtraction = await adtraction();

@@ -220,12 +220,12 @@ Stan dostępów na 14.09.2026:
 | Sieć | Sklepy | Stan |
 |---|---|---|
 | Adtraction | Smyk, Egmont | **działa** (`ADTRACTION_TOKEN`); 0 transakcji w 60 dniach — to wynik, nie awaria |
-| Tradedoubler | Empik, Ceneo | `TD_TOKEN` jest **produktowy**; raporty wymagają osobnego tokenu → `TD_REPORT_TOKEN` |
-| Performers | Media Expert | brak `PERFORMERS_API_KEY`; API istnieje (HasOffers/TUNE, `NetworkId=wld`) |
+| Tradedoubler | Empik, Ceneo | **nie mierzymy.** `TD_TOKEN` jest produktowy; `TD_REPORT_TOKEN` to poprawny token systemu Conversions, ale to API tylko wypycha konwersje na webhook, transakcji nie pobierze. Legacy API 1.0 nie ma endpointu raportów. Potrzebne nowe Publisher API: panel TD → Tools → API Info → Client ID + Secret (`TD_CLIENT_ID`, `TD_CLIENT_SECRET`), potem obsługa w skrypcie |
+| Performers | Media Expert | **działa** (`PERFORMERS_API_KEY`); 14.09: 1245 kliknięć, 0 konwersji w 30 dniach |
 | Allegro, webePartners | — | brak API — tylko panel |
 
-Dopóki dwie środkowe pozycje są puste, każdy EPC w raportach jest **modelem**,
-nie pomiarem. To najtańsza dostępna poprawa jakości raportowania: dwa klucze.
+Dopóki Tradedoubler jest bez pomiaru, EPC dla Empiku i Ceneo jest **modelem**,
+nie pomiarem. Najtańsza poprawa: klucze nowego Publisher API TD.
 
 ## Harmonogram: generowany, nie pisany
 
