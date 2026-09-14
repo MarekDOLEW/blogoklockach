@@ -13,8 +13,9 @@
 //                          authorized for request". Raporty wymagają osobnego
 //                          tokenu z panelu TD (Account → Manage tokens).
 //                          Dotyczy Empiku i Ceneo.
-//   PERFORMERS_API_KEY   — brak w środowisku. API istnieje (HasOffers/TUNE,
-//                          NetworkId=wld). Dotyczy Media Expertu.
+//   PERFORMERS_API_KEY   — API istnieje i host odpowiada (HasOffers/TUNE,
+//                          NetworkId=wld); klucz dodany 14.09, do sprawdzenia
+//                          w pierwszej nowej sesji. Dotyczy Media Expertu.
 //   Allegro, webePartners— brak API w rejestrze; panel przez przeglądarkę.
 //
 // Użycie:
@@ -78,11 +79,26 @@ async function performers() {
       co_zrobic: 'panel Performers → API → klucz → zmienna PERFORMERS_API_KEY',
     };
   }
+  // UWAGA: HasOffers/TUNE oddaje HTTP 200 także przy błędzie — prawdę mówi
+  // dopiero `response.status` (1 = ok, -1 = błąd) i lista `response.errors`.
+  // Sprawdzanie samego kodu HTTP pokazywałoby sukces przy złym kluczu.
   const url = `https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&Target=Affiliate_Report&Method=getStats&api_key=${klucz}`
-    + `&fields[]=Stat.conversions&fields[]=Stat.payout&data_start=${iso(od).slice(0, 10)}&data_end=${new Date().toISOString().slice(0, 10)}`;
+    + `&fields[]=Stat.conversions&fields[]=Stat.payout&fields[]=Stat.date`
+    + `&data_start=${iso(od).slice(0, 10)}&data_end=${new Date().toISOString().slice(0, 10)}`;
   const odp = await fetch(url);
   if (!odp.ok) return { stan: `HTTP ${odp.status}` };
-  return { stan: 'ok', dane: await odp.json().catch(() => null) };
+  const d = await odp.json().catch(() => null);
+  const r = d?.response;
+  if (!r || r.status !== 1) {
+    return {
+      stan: 'API odrzuciło zapytanie',
+      powod: r?.errors?.map((e) => e.publicMessage).join('; ') || r?.errorMessage || 'nieznany',
+    };
+  }
+  const wiersze = Array.isArray(r.data?.data) ? r.data.data : [];
+  const suma = wiersze.reduce((s, w) => s + (Number(w?.Stat?.payout) || 0), 0);
+  const konw = wiersze.reduce((s, w) => s + (Number(w?.Stat?.conversions) || 0), 0);
+  return { stan: 'ok', konwersje: konw, prowizja_pln: Math.round(suma * 100) / 100 };
 }
 
 wynik.sieci.adtraction = await adtraction();
