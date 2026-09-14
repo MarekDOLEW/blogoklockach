@@ -13,8 +13,8 @@ Robi go sesja Claude Code wywołaniem `list_triggers`.
 
 ## Zrzut — runnery LEGO
 
-Cron w UTC, kolumna „PL" przy obecnym CEST (UTC+2). Odczyt objął **11 Routines
-na koncie** (pełna lista, bez paginacji).
+Cron w UTC, kolumna „PL" przy obecnym CEST (UTC+2). Odczyt objął **12 Routines
+na koncie** (pełna lista, bez paginacji; stan 14.09.2026).
 
 | Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie | Trigger | Sesja |
 |---|---|---|---|---|---|---|
@@ -22,9 +22,31 @@ na koncie** (pełna lista, bez paginacji).
 | Wycofania | `10 4 * * 1` | pon 06:10 | ✅ | 07.09 06:10 | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` |
 | Radar konkurencji | `0 6 * * *` | 08:00 | ✅ | 31.08 08:01 | `trig_01UpMJdpeguEtby68saqBMpD` | `session_01UFkqKNwQexnxLN34HotM4G` |
 | Łowca promocji | `30 6 * * *` | 08:30 | ✅ | 31.08 08:41 | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` |
-| Kontroler (raport tygodnia) | `0 7 * * 1` | pon 09:00 | ✅ | 31.08 09:11 — **SUCCEEDED** | `trig_01T8AhciW8JD651MrSMuEj7m` | świeża sesja przy każdym odpaleniu |
+| Kontroler (raport tygodnia) **[env projektu]** | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 08:57 — **SUCCEEDED** | `trig_01JhfcGMgzv1nBwiguH93m6N` | świeża sesja przy każdym odpaleniu |
+| ~~Kontroler — STARY~~ | `0 7 * * 1` | pon 09:00 | ❌ wyłączony 14.09 | 14.09 07:10 | `trig_01T8AhciW8JD651MrSMuEj7m` | — |
 | Backfill cen katalogowych | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` | `session_01JSfUBJxddBbATeaXhQ6efS` |
 | Social: paczka tygodniowa | `0 8 * * 0` | ndz 10:00 | ❌ zawieszone | nigdy | `trig_01W1CSp8PM3DDN6UEyNLYe6H` | — |
+
+### Dwa Kontrolery — dlaczego stary jest wyłączony *(14.09.2026)*
+
+Kontroler odpalał się rano dwa razy: stary trigger z 11.08 o 07:10 UTC i nowy
+`[env projektu]`, założony 14.09 o 08:54, o 08:57. Oba `0 7 * * 1`, oba
+SUCCEEDED — czyli dwa raporty w każdy poniedziałek i podwójne zużycie limitu
+w najciaśniejszym oknie tygodnia.
+
+Różnica nie jest kosmetyczna: **stary trigger ma puste
+`session_request.environment_variables`**, więc jego sesje startowały bez
+`CF_ACCOUNT_ID`, `CF_API_TOKEN` i `GSC_KEY_JSON_B64`. Stąd raport z 14.09
+(`materialy/kontroler-2026-09-14.md`) nie ma sekcji o kliknięciach, EPC,
+widoczności i indeksacji, i stąd jego rekomendacja numer jeden brzmi
+„przywrócić poświadczenia" — w środowisku projektu one są i działają
+(sprawdzone 14.09: `kliki-raport.mjs --dni 7` zwraca 940 kliknięć,
+`gsc-raport.mjs --dni 7` — 70 wyświetleń i 1 klik). Raport nie był więc błędny,
+tylko opisywał środowisko bez dostępów.
+
+Stary trigger jest **wyłączony, nie skasowany** — zachowuje historię przebiegów
+i prompt (ten sam w obu). Gdyby nowy okazał się gorszy, wystarczy
+`update_trigger` z `enabled: true`.
 
 **Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) już nie istnieje** —
 był wyłączony od 15.08, zniknął z konta między 30 a 31.08. Nie odtwarzać:
