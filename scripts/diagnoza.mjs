@@ -16,7 +16,8 @@
 //   node scripts/diagnoza.mjs --json     # to samo maszynowo
 //   node scripts/diagnoza.mjs --szybko   # bez ŻADNEGO ruchu sieciowego
 //
-// Runnery odpalają go w PIERWSZYM kroku i wklejają wynik na początku raportu.
+// Kontroler odpala go jako KROK 0 i wkleja wynik na początku raportu. Pozostałe
+// runnery jeszcze nie — stan na 14.09.2026, patrz CLAUDE.md.
 
 import { execSync } from 'node:child_process';
 import crypto from 'node:crypto';
@@ -67,7 +68,7 @@ const jednaLinia = (t, n = 120) => (t ?? '').replace(/\s+/g, ' ').trim().slice(0
 // Dlatego nic nie idzie na wyjście bez przepuszczenia przez tę funkcję, także
 // tryb --json. Lepiej wyciąć za dużo niż raz za mało.
 const SEKRETY = Object.keys(process.env)
-  .filter((k) => /TOKEN|KEY|SECRET|PASSWORD|_ID$/.test(k))
+  .filter((k) => /TOKEN|KEY|SECRET|PASSWORD|USERNAME|EMAIL|UUID|_ID$/.test(k))
   .map((k) => process.env[k])
   .filter((v) => typeof v === 'string' && v.length >= 8)
   .sort((a, b) => b.length - a.length);   // najpierw najdłuższe, żeby nie ciąć w środku
@@ -153,15 +154,33 @@ for (const set of Object.values(oferty.sety ?? {})) {
 // dnia. Jedynym śladem zostaje commit importu, a to znaczy zależność od słowa
 // w komunikacie. Dlatego zwracamy też temat commita: gdy Łowca zmieni wording
 // i grep przestanie trafiać, widać to od razu zamiast cichego „—".
+//
+// Sprawdzone 14.09 w świeżym klonie: `git clone --depth 1` nie ma historii,
+// więc grep nie znajdzie NIC — i wtedy winny jest klon, nie wzorzec. Te dwa
+// przypadki muszą być rozróżnione, inaczej runner pójdzie szukać błędu tam,
+// gdzie go nie ma.
+//
+// Kolejność ma znaczenie: repo robocze też bywa płytkie (sprawdzone — 73
+// commity i plik .git/shallow), a grep w nim trafia. Więc najpierw szukamy,
+// a płytkość jest wyjaśnieniem dopiero wtedy, gdy nie ma wyniku.
 const commitEmpiku = bash(
   "git log -1 --format='%ad\t%s' --date=short --grep=empik -i -- src/data/oferty_feed.json src/data/redirects.json",
 );
+const plytki = bash('git rev-parse --is-shallow-repository') === 'true';
+let importEmpiku;
+if (commitEmpiku) {
+  importEmpiku = { data: commitEmpiku.split('\t')[0], commit: commitEmpiku.split('\t').slice(1).join(' ') };
+} else if (plytki) {
+  const n = Number(bash('git rev-list --count HEAD', '0'));
+  const historia = n === 1 ? '1 commit' : `${n} commity/ów`;
+  importEmpiku = { data: null, commit: `nie sprawdzono — klon jest płytki (${historia} w historii), import może być głębiej` };
+} else {
+  importEmpiku = { data: null, commit: 'NIE ZNALEZIONO commita importu — wzorzec grepa mógł przestać pasować' };
+}
 wynik.sekcje.dane = {
   oferty_feed_zaktualizowano: oferty._meta?.zaktualizowano ?? null,
   ofert_per_sklep: Object.fromEntries(Object.entries(perSklep).sort((a, b) => b[1] - a[1])),
-  import_empiku: commitEmpiku
-    ? { data: commitEmpiku.split('\t')[0], commit: commitEmpiku.split('\t').slice(1).join(' ') }
-    : { data: null, commit: 'NIE ZNALEZIONO commita importu — sprawdź ręcznie, wzorzec grepa mógł przestać pasować' },
+  import_empiku: importEmpiku,
   rejestr_afiliacji_zaktualizowano: meta('afiliacje_rejestr.json').zaktualizowano ?? null,
 };
 
@@ -374,7 +393,7 @@ if (jakoJson) {
   const d = wynik.sekcje.dane;
   pisz(`- oferty_feed zaktualizowane: ${d.oferty_feed_zaktualizowano ?? '—'}`);
   pisz(`- rejestr afiliacji zaktualizowany: ${d.rejestr_afiliacji_zaktualizowano ?? '—'}`);
-  pisz(`- import Empiku: ${d.import_empiku.data ?? '—'} — ${d.import_empiku.commit}`);
+  pisz(`- import Empiku: ${d.import_empiku.data ? `${d.import_empiku.data} — ` : ''}${d.import_empiku.commit}`);
   pisz(`- oferty: ${Object.entries(d.ofert_per_sklep).map(([s, n]) => `${s} ${n}`).join(', ')}`);
 
   pisz('\n**Dostępy** *(realne wywołania, nie deklaracje)*');
