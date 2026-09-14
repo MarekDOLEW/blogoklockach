@@ -31,13 +31,13 @@ description: >-
 
 | Kategoria | Zakres |
 |---|---|
-| Premiery | Nowe zestawy i całe fale premierowe — co wchodzi do sprzedaży i czy warto. |
+| Premiery | Nowe zestawy i całe fale premierowe – co wchodzi do sprzedaży i czy warto. |
 | Recenzje | Pojedynczy zestaw od środka: budowanie, gotowy model, próg zakupu. |
-| Rankingi | Zestawienia od najlepszego — w obrębie serii, budżetu albo tematu. |
+| Rankingi | Zestawienia od najlepszego – w obrębie serii, budżetu albo tematu. |
 | Porównania | Dwa lub kilka zestawów obok siebie: który dla kogo. |
 | Poradniki | Jak kupować, na co uważać, jak czytać ceny i promocje. |
 | Kalendarze | Terminy: okna promocyjne, premiery, wycofania. |
-| Historyczne | Archiwalne serie i zestawy — co się zmieniło i ile są dziś warte. |
+| Historyczne | Archiwalne serie i zestawy – co się zmieniło i ile są dziś warte. |
 
    Jeśli tekst nie mieści się w żadnej — to znak, że albo jest prezentownikiem
    (patrz skill `lego-standard-sprzedazowy`), albo brief wymaga doprecyzowania.
