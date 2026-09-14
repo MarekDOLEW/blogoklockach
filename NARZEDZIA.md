@@ -181,7 +181,16 @@ Trzy rzeczy, których Code nie zrobi:
    narzędzia działającego z chmury. Dziś: tygodniowy zrzut cen Empiku.
 2. **Panele bez API.** Allegro Affiliate i webePartners nie mają API w rejestrze
    — prowizje da się odczytać wyłącznie po zalogowaniu.
-3. **Pliki z dysku Marka.** Dokumenty `.docx` od Piotra, eksporty, zrzuty.
+3. **Pliki, które zostają na dysku.** Tylko takie, których nie da się albo nie
+   opłaca załączyć do rozmowy — bardzo duże eksporty, materiały do otwarcia
+   w aplikacji, rzeczy poufne.
+
+   **Pliki od Piotra idą do Code**, nie tu. Paczka `.docx` albo `.zip` załączona
+   w rozmowie ląduje w kontenerze i jest przetwarzana od razu do repo: parsowanie,
+   transformacja, walidacja JSON, build i commit w jednym przebiegu (sprawdzone
+   14.09 na paczce P07 — dwa zipy, 31 dokumentów, 7 nowych kart i 24 korekty).
+   Droga przez Cowork dokłada krok, w którym ktoś musi przenieść wynik do repo,
+   a to jest dokładnie ten moment, w którym praca się gubi.
 
 Wszystko inne należy do Code i tam jest tańsze: research (WebSearch, WebFetch,
 Firecrawl), teksty prosto do repo, raporty przez API (Cloudflare Analytics
