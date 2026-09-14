@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-13",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-13 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
+  "zaktualizowano": "2026-09-14",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-14 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko) + PK + Allegro; weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna (07.09: +10423), page_price 10967=27,99; zaostrzone filtry: prog wykluczenia Allegro 50% RRP (pasmo 50-60% to podszywki wg audytu 30.08), filtr gadzetow po rdzeniach (lampek/oswietlenie/gablota)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -198,8 +198,8 @@
  "72154": {
   "nazwa": "Kultowy Pokéball z Trenerami",
   "cena_katalogowa": 1129.99,
-  "najnizsza_cena": 1127.71,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 1127.47,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "42238": {
@@ -373,8 +373,8 @@
  "42235": {
   "nazwa": "Samochód Ferrari 488 Pista",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 194.9,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 193.28,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "40860": {
@@ -1066,8 +1066,8 @@
  "42694": {
   "nazwa": "Furgonetka z pizzą",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.92,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 43.88,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "42697": {
@@ -1192,8 +1192,8 @@
  "76352": {
   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 384.62,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 384.38,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "43294": {
@@ -1234,8 +1234,8 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 343.62,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 343.38,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "76340": {
@@ -1353,15 +1353,15 @@
  "76350": {
   "nazwa": "Epickie starcie: Spider-Man kontra Hulk",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 278.98,
-  "najnizsza_data": "2026-08-23",
+  "najnizsza_cena": 278.97,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 203.62,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 203.38,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "43298": {
@@ -1402,8 +1402,8 @@
  "76788": {
   "nazwa": "Akademia Nevermore",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 297.71,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 297.47,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "10464": {
@@ -1634,8 +1634,8 @@
  "11384": {
   "nazwa": "Szczeniak golden retriever",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 438.0,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 436.55,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "10476": {
@@ -1989,8 +1989,8 @@
  "21330": {
   "nazwa": "Kevin sam w domu",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1171.9,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 1159.0,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "21344": {
@@ -2066,8 +2066,8 @@
  "42206": {
   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 704.19,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 699.99,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "10360": {
@@ -2129,8 +2129,8 @@
  "42156": {
   "nazwa": "PEUGEOT 9X8 24H Le Mans Hybrid Hypercar",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 752.9,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 709.99,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "76435": {
@@ -2220,8 +2220,8 @@
  "60422": {
   "nazwa": "Nadmorski port ze statkiem towarowym",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 434.99,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 403.19,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "71819": {
@@ -2430,9 +2430,9 @@
  "71813": {
   "nazwa": "Dojo cienia Wilczej Maski",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 446.99,
-  "najnizsza_data": "2026-09-12",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 445.99,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42141": {
   "nazwa": "Samochód wyścigowy McLaren Formula 1",
@@ -2444,15 +2444,15 @@
  "42154": {
   "nazwa": "Ford GT, wersja z 2022 roku",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 368.91,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 349.99,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "42175": {
   "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 652.89,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 651.71,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "43267": {
@@ -2472,8 +2472,8 @@
  "75639": {
   "nazwa": "Statek piracki Going Merry",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 441.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 439.0,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "60337": {
@@ -3438,8 +3438,8 @@
  "75460": {
   "nazwa": "Myśliwiec X-Wing Nowej Republiki",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 251.49,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 251.48,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "76316": {
@@ -4117,8 +4117,8 @@
  "71866": {
   "nazwa": "Ozdoba z postaciami Ninja – 15-lecie",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 114.92,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 114.77,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "60451": {
@@ -4649,8 +4649,8 @@
  "21365": {
   "nazwa": "Papużki nierozłączki",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 201.16,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 199.99,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "77245": {
@@ -4754,8 +4754,8 @@
  "76343": {
   "nazwa": "Epicka bitwa: Hulkbuster kontra Hulk",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 154.32,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 154.3,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "40867": {
@@ -5699,8 +5699,8 @@
  "71422": {
   "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 122.75,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 122.73,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "31150": {
@@ -5874,8 +5874,8 @@
  "60466": {
   "nazwa": "Żółty buldożer",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 173.99,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 173.97,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "60490": {
@@ -6798,8 +6798,8 @@
  "71855": {
   "nazwa": "Bitwa smoka Riyu",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 194.98,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 194.72,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "allegro"
  },
  "40647": {
@@ -7246,9 +7246,9 @@
  "10475": {
   "nazwa": "Maszyny budowlane 3 w 1",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 73.45,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 72.74,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10471": {
   "nazwa": "Niebieski motocykl policyjny",
