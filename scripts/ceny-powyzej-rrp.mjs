@@ -13,14 +13,21 @@
 // Status EOL ustalamy tak samo jak serwis (src/lib/status.js): najpierw lista
 // wycofań (kuratorowana co tydzień, wpis `kiedy: "wycofany"`), potem katalog.
 //
+// Nasz status EOL bywa niepełny — sprawdzenie 14.09 pokazało, że zestawy
+// oznaczone jako „w sprzedaży" bywają dawno wycofane (przede wszystkim gadżety
+// z serii 40xxx: dodatki do zakupów, sezonowe, krótka dostępność). Dlatego
+// skrypt przyjmuje katalog lego.com i rozstrzyga twardo: czego nie ma
+// w katalogu producenta, tego LEGO nie sprzedaje, więc przebitka jest normalna.
+//
 // Użycie:
-//   node scripts/ceny-powyzej-rrp.mjs                 # podsumowanie na ekran
-//   node scripts/ceny-powyzej-rrp.mjs --csv plik.csv  # pełna lista do sprawdzenia
+//   node scripts/ceny-powyzej-rrp.mjs
+//   node scripts/ceny-powyzej-rrp.mjs --lego katalog-legopl.json --csv plik.csv
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const args = process.argv.slice(2);
 const csv = args.includes('--csv') ? args[args.indexOf('--csv') + 1] : null;
+const plikLego = args.includes('--lego') ? args[args.indexOf('--lego') + 1] : null;
 
 const czytaj = (p) => JSON.parse(readFileSync(`src/data/${p}`, 'utf8'));
 const feed = czytaj('oferty_feed.json').sety ?? {};
@@ -28,6 +35,16 @@ const rrp = czytaj('rrp_potwierdzone.json');
 const katalog = czytaj('katalog.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 const sklepy = czytaj('sklepy.json');
+
+// Katalog lego.com (scripts/firecrawl-legopl.mjs) — opcjonalny, ale bez niego
+// grupa „w sprzedaży" miesza dwie różne rzeczy.
+let wKataloguLego = null;
+let dataKatalogu = null;
+if (plikLego) {
+  const k = JSON.parse(readFileSync(plikLego, 'utf8'));
+  wKataloguLego = new Set((k.products ?? k).map((p) => String(p.setNumber)));
+  dataKatalogu = k.meta?.scrapedAt ?? '?';
+}
 
 const wpis = new Map();
 for (const [seria, lista] of Object.entries(katalog)) {
@@ -75,17 +92,33 @@ for (const [nr, v] of Object.entries(feed)) {
     sklep: sklepy[sklep]?.nazwa ?? sklep,
     nadwyzka: Math.round(((cena / kat) * 100 - 100) * 10) / 10,
     eol: eol(nr),
+    wLego: wKataloguLego ? wKataloguLego.has(nr) : null,
   });
 }
 znalezione.sort((a, b) => b.nadwyzka - a.nadwyzka);
 
-const doSprawdzenia = znalezione.filter((x) => !x.eol);
 const poEol = znalezione.filter((x) => x.eol);
+// Z grupy „w sprzedaży" wypada to, czego nie ma w katalogu producenta —
+// LEGO tego nie sprzedaje, więc przebitka jest normalna, tylko nasz status
+// jest nieaktualny.
+const nieuNasEol = znalezione.filter((x) => !x.eol);
+const doSprawdzenia = nieuNasEol.filter((x) => x.wLego !== false);
+const statusDoPoprawki = nieuNasEol.filter((x) => x.wLego === false);
 
 console.log(`Zestawów z najniższą ofertą powyżej ceny katalogowej: ${znalezione.length}`);
-console.log(`  W SPRZEDAŻY — do sprawdzenia:        ${doSprawdzenia.length}`);
-console.log(`  Po EOL — cena powyżej RRP normalna:  ${poEol.length}`);
-console.log(`\n--- W SPRZEDAŻY (najpierw największa nadwyżka) ---`);
+console.log(`  Po EOL — przebitka normalna:          ${poEol.length}`);
+if (wKataloguLego) {
+  console.log(`  Brak w katalogu lego.com (${dataKatalogu}) —`);
+  console.log(`    przebitka normalna, NASZ STATUS DO POPRAWKI: ${statusDoPoprawki.length}`);
+}
+console.log(`  W sprzedaży wg LEGO — DO SPRAWDZENIA:  ${doSprawdzenia.length}`);
+if (statusDoPoprawki.length) {
+  console.log(`\n--- BRAK W KATALOGU lego.com (u nas wciąż „w sprzedaży") ---`);
+  for (const x of statusDoPoprawki.slice(0, 20)) {
+    console.log(`${x.nr.padEnd(8)}${`+${x.nadwyzka}%`.padStart(9)}  ${x.cena.toFixed(2).padStart(10)}  ${x.kat.toFixed(2).padStart(10)}  ${x.nazwa.slice(0, 40)}`);
+  }
+}
+console.log(`\n--- W SPRZEDAŻY WG LEGO (najpierw największa nadwyżka) ---`);
 console.log(`${'nr'.padEnd(8)}${'nadwyżka'.padStart(9)}  ${'oferta'.padStart(10)}  ${'katalog'.padStart(10)}  ${'sklep'.padEnd(16)}nazwa`);
 for (const x of doSprawdzenia) {
   console.log(
@@ -95,9 +128,11 @@ for (const x of doSprawdzenia) {
 
 if (csv) {
   const wiersze = [
-    'numer;nazwa;seria;status;sklep;cena_oferty;cena_katalogowa;nadwyzka_proc;hub',
+    'numer;nazwa;seria;status;w_katalogu_lego;sklep;cena_oferty;cena_katalogowa;nadwyzka_proc;hub',
     ...znalezione.map((x) =>
-      [x.nr, x.nazwa, x.seria, x.eol ? 'po EOL' : 'w sprzedazy', x.sklep,
+      [x.nr, x.nazwa, x.seria,
+       x.eol ? 'po EOL' : x.wLego === false ? 'status do poprawki' : 'w sprzedazy',
+       x.wLego === null ? '?' : x.wLego ? 'tak' : 'NIE', x.sklep,
        x.cena.toFixed(2), x.kat.toFixed(2), x.nadwyzka,
        `https://tylkoklocki.pl/zestaw/${x.nr}/`].join(';'),
     ),
