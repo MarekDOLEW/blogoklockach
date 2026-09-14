@@ -92,6 +92,48 @@ feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
 
 ---
 
+## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
+
+Pomiar z Analytics Engine za 7–14.09: **939 kliknięć w `/idz/`, z czego 867
+(92,3%) bez referera i spoza Polski**. Polska: 40 kliknięć (4,3%) — przy serwisie
+po polsku, z cenami w złotówkach i linkami do polskich sklepów. Search Console
+za ten sam tydzień: 1 kliknięcie, 70 wyświetleń. Realnych przejść było **37**.
+
+Sygnatury, po których to widać:
+
+| sygnał | wartość |
+|---|---|
+| brak referera | 867 / 939 |
+| podrobiony referer `http://tylkoklocki.pl` | 29 (serwis chodzi wyłącznie po HTTPS) |
+| referer `m.baidu.com` z losową frazą (`?wd=describe884`) | 4 |
+| różnych zestawów w tygodniu | 307 przy ruchu ludzkim dotykającym 24 |
+| szczyt godzinowy | 02:00 UTC (113) wyżej niż 20:00 (36) |
+
+**Dlaczego to nie była kwestia statystyki.** Każde takie przejście szło dalej do
+Allegro Affiliate, Performers, Tradedoublera i Adtraction — z ich perspektywy
+konto wydawcy generowało setki kliknięć miesięcznie przy zerowej konwersji. To
+typowy powód wstrzymania konta, a wstrzymanie w listopadzie kasuje sezon.
+
+**Kryterium to wyłącznie referer, nigdy kraj.** 20 z 66 kliknięć z naszym
+refererem przyszło z Niemiec, 9 z USA — Polacy za granicą, VPN, własne testy.
+Filtr po `request.cf.country` odciąłby realnych czytelników.
+
+Odrzucone żądanie dostaje **302 na hub zestawu**, nie 204: sieć afiliacyjna nie
+widzi pustego kliknięcia, a człowiek, któremu przeglądarka wycięła referer,
+trafia na stronę z tabelą cen i może kliknąć jeszcze raz. Zapis do Analytics
+Engine zostaje w obu przypadkach — doszedł `blob6` z wartością `human`/`bot`,
+żeby dalej mierzyć skalę. Starsze zapytania (`blob1`–`blob5`) działają bez zmian.
+
+    SELECT blob6 AS kto, SUM(_sample_interval) AS kliki FROM idz_kliki
+    WHERE timestamp > NOW() - INTERVAL '7' DAY GROUP BY kto
+
+**Czego pilnować:** gdyby kiedyś doszła restrykcyjna `Referrer-Policy` albo
+`rel="noreferrer"` na linkach `/idz/`, filtr zacznie odcinać własnych
+czytelników. Dziś polityka jest domyślna, a linki mają tylko `sponsored nofollow`
+i `noopener` — żadne z nich referera nie wycina.
+
+---
+
 ## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*
 
 **Feed aktualizuje się 2× na dobę, ale z opóźnieniem uploadu.** Stemple

@@ -52,6 +52,28 @@ export default {
       const numer = czesci[2] ?? '';
       let cel = redirects?.[sklep]?.[numer];
 
+      // Filtr botów (14.09.2026). Pomiar za 7–14.09: 939 kliknięć w /idz/,
+      // z tego 867 (92,3%) BEZ referera i spoza Polski, 29 z podrobionym
+      // refererem `http://tylkoklocki.pl` (serwis chodzi wyłącznie po HTTPS,
+      // więc prawdziwa przeglądarka nigdy tak się nie przedstawi). Realnych
+      // przejść było 37. Search Console za ten sam tydzień: 1 kliknięcie.
+      //
+      // Problem nie jest statystyczny: każde takie przejście szło dalej do
+      // Allegro Affiliate, Performers, Tradedoublera i Adtraction, więc z ich
+      // perspektywy konto wydawcy generowało setki kliknięć przy zerowej
+      // konwersji — typowy powód wstrzymania konta.
+      //
+      // Kryterium to WYŁĄCZNIE referer, nie kraj: 20 z 66 kliknięć z naszym
+      // refererem przyszło z Niemiec, 9 z USA (Polacy za granicą, VPN, testy).
+      // Filtr po kraju odciąłby realnych czytelników.
+      //
+      // Odrzucone żądanie dostaje przekierowanie na hub zestawu zamiast 204:
+      // sieć afiliacyjna nie widzi pustego kliknięcia, a człowiek, któremu
+      // przeglądarka wycięła referer, ląduje na stronie z tabelą cen i może
+      // kliknąć jeszcze raz — normalnie, z refererem.
+      const referer = request.headers.get('referer') ?? '';
+      const zNaszejStrony = /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer);
+
       // LEGO.com nie ma programu afiliacyjnego w naszym miksie — linkujemy
       // bezpośrednio. lego.com akceptuje sam numer zestawu w adresie produktu
       // i przekierowuje na pełny URL ze slugiem.
@@ -117,11 +139,22 @@ export default {
       //   GROUP BY sklep, numer ORDER BY kliki DESC
       try {
         env.KLIKI?.writeDataPoint({
-          blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', request.headers.get('referer') ?? '', request.cf?.country ?? ''],
+          // blob6 dodany 14.09.2026 — starsze zapytania (blob1–blob5) działają bez zmian
+          blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', referer, request.cf?.country ?? '',
+                  zNaszejStrony ? 'human' : 'bot'],
           doubles: [1],
           indexes: [sklep],
         });
       } catch {}
+
+      // Ruch bez referera z naszej domeny nie idzie do sieci afiliacyjnej.
+      // Zapis powyżej zostaje, żeby dalej było widać skalę zjawiska.
+      if (!zNaszejStrony) {
+        return Response.redirect(
+          /^\d{4,7}$/.test(numer) ? `https://tylkoklocki.pl/zestaw/${numer}/` : 'https://tylkoklocki.pl/',
+          302,
+        );
+      }
 
       if (cel) {
         return Response.redirect(cel, 302);
