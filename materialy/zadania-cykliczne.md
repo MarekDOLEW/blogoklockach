@@ -11,6 +11,24 @@ harmonogram rozjeżdżał się już trzy razy (patrz `NARZEDZIA.md`, sekcja
 Zrzutu nie zrobi skrypt w repo — Routines nie mają API dostępnego z kontenera.
 Robi go sesja Claude Code wywołaniem `list_triggers`.
 
+**Zmierzone 14.09.2026: konektory są przypięte do Routine, nie do środowiska.**
+Wywołanie `list_triggers` zadziała tylko w sesji, która ma konektor
+`Claude_Code_Remote`. Rozkład na naszych runnerach:
+
+| Runner | Konektorów | `Claude_Code_Remote` |
+|---|---|---|
+| Kontroler (raport tygodnia) | 6 | **tak** |
+| Łowca promocji | 0 | nie |
+| Scout nowości | 0 | nie |
+| Radar konkurencji | 0 | nie |
+| Wycofania | 0 | nie |
+| Backfill cen katalogowych | 0 | nie |
+
+Czyli sekcja o harmonogramie może powstawać **wyłącznie w raporcie Kontrolera** —
+żaden inny runner listy nie zobaczy. Pole `environment_id` nie jest zwracane
+w ogóle, a `session_request.environment_variables` jest puste u wszystkich
+dwunastu Routines i niczego o dostępach nie dowodzi.
+
 ## Zrzut — runnery LEGO
 
 Cron w UTC, kolumna „PL" przy obecnym CEST (UTC+2). Odczyt objął **12 Routines
