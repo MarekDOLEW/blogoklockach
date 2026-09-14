@@ -7,7 +7,9 @@ zadania cykliczne (runnery) i sesje robocze.
 
 ## Podzial pracy
    - `redakcja/wspolpraca.md` — miedzy Piotrem a Markiem (ludzie)
-   - `NARZEDZIA.md` — miedzy Claude Code a Cowork (narzedzia)
+   - `NARZEDZIA.md` — miedzy Claude Code a Cowork (narzedzia); sekcja
+     „Co gdzie wrzucać" to ściąga dla Marka: co idzie do Code, co do sesji
+     runnera, a co na claude.ai — plus lista punktów, które bez niego stoją
    - `RUNBOOK.md` — wiedza operacyjna, pulapki, procedury awaryjne
    - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami (ostatnie 14 dni
      + sekcja „Ustalenia trwałe”; starsze wpisy w `materialy/dziennik-archiwum-*`,

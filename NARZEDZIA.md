@@ -244,6 +244,84 @@ Zasada z tego: **zanim postawimy tezę o uprawnieniach, sprawdzamy dokumentację
 dostawcy.** Domysł o cudzym systemie wpisany do dokumentacji jako fakt kosztuje
 więcej niż przyznanie, że się nie wie.
 
+## Co gdzie wrzucać — ściąga dla Marka
+
+Lista powstała 14.09.2026, bo trasy były rozsiane po czterech dokumentach.
+Zasada ogólna: **domyślnie Code, w rozmowie, jako załącznik.** Cowork tylko tam,
+gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
+
+1. **Teksty, docx, zipy od Piotra** → **Code**, załącznik w rozmowie.
+   Paczka ląduje w kontenerze i idzie do repo jednym przebiegiem: parsowanie,
+   walidacja, build, commit. *(Od 14.09; wcześniej szło przez Cowork i tam się
+   gubiło.)*
+
+2. **Arkusze do weryfikacji** (xlsx z odznaczeniami, listy do sprawdzenia)
+   → **Code**, załącznik. Odsyłasz ten sam plik z dopiskami.
+
+3. **Zrzut cen Empiku** (`lego-empik.json`) → **do sesji Łowcy Promocji**,
+   nie do Code. Powód jest konkretny: reguły importu (filtry anty-gadżetowe,
+   próg sanity 40% ceny katalogowej, aktualizacja `oferty_feed.json`) istnieją
+   **wyłącznie jako tekst w promptcie Łowcy** — nie ma ich w żadnym skrypcie.
+   Wrzucenie pliku do Code znaczyłoby, że Code odtwarza te reguły z pamięci,
+   a to jest dokładnie ten rodzaj rozjazdu, którego unikamy.
+   *Do zrobienia kiedyś: przenieść import do skryptu, wtedy punkt 3 zmieni się
+   w „Code, jak wszystko inne".*
+
+4. **Paczka `.skill`** (`skille/*.skill` po `node scripts/spakuj-skille.mjs`)
+   → **claude.ai → Settings → Skills**. Nie da się inaczej: synchronizacja idzie
+   tylko serwer → kontener. **Teraz jest zaległość** — paczka na koncie jest
+   starsza od repo po commicie `2f6f3ad`.
+
+5. **Eksporty CSV z paneli afiliacyjnych** (Tradedoubler, Allegro, webePartners)
+   → **Code**, załącznik. Sparsuję i wpiszę do rejestru w jednym przebiegu.
+
+6. **Zrzuty ekranu z paneli** → **Code**, wklejone w rozmowę. Zrzut z panelu TD
+   dał 14.09 `programId` Allegro, na który rejestr czekał od 20 sierpnia.
+
+7. **Pliki klienckie** (landingi, prezentacje, materiały spoza LEGO)
+   → **nie do tego repo**. Jest publiczne. Dwa razy w tym miesiącu wylądowały
+   tu przez pomyłkę (Whirlpool, Beko).
+
+## Punkty ręczne — co bez Ciebie stoi
+
+Żaden z nich **nie zgłasza, że zalega** — brak zrzutu wygląda tak samo jak brak
+zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
+
+| Punkt | Jak często | Co się psuje przy zaległości |
+|---|---|---|
+| **Zrzut cen Empiku** (lokalna przeglądarka, skill `klocki-ceny-empik`) | tygodniowo, poniedziałek | Ceny Empiku zamrażają się na tabelach hubów. Nie odświeżają się deeplinki `redirects.empik`, więc martwe adresy zostają i prowadzą na 404 — gorzej niż wyszukiwarka, na którą worker spada sam |
+| **Wgranie paczki `.skill`** | po każdej zmianie w `redakcja/` albo w eksporcie | Cowork pracuje według starszego standardu niż repo, a rozjazd jest niewidoczny — obie strony są przekonane, że mają aktualną wersję |
+| **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |
+| **Odczyt paneli Allegro i webePartners** | przy przeglądzie prowizji | EPC dla tych dwóch zostaje **modelem**, nie pomiarem — a Allegro to największa ekspozycja w serwisie |
+| **Doładowanie Firecrawla** | tylko powyżej 1000 kredytów/mies. | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
+
+### Czego na tej liście już NIE ma
+
+- **Pliki od Piotra** — od 14.09 prosto do Code (punkt 1 wyżej).
+- **Prowizje Tradedoublera** (Empik, Ceneo) — od 14.09 przez Publisher API,
+  panel niepotrzebny.
+
+### Budżet Firecrawla
+
+**1000 kredytów miesięcznie w abonamencie.** Jedno pobranie strony to 1 kredyt,
+ekstrakcja modelem 5 — dlatego `firecrawl-legopl.mjs` używa parsera markdownu,
+nie ekstrakcji.
+
+- **Odświeżenie katalogu lego.pl** — kilkadziesiąt stron, raz na kwartał:
+  mieści się swobodnie.
+- **Zrzut Empiku** — skill przechodzi ~200 stron **dwa razy** (rosnąco
+  i malejąco, bo przy jednym kierunku Empik gubi produkty), czyli **~400
+  kredytów na przebieg**. Tygodniowo to ~1700 miesięcznie i budżet nie
+  wystarcza. Sprawdzone 14.09: Firecrawl technicznie przechodzi przez Cloudflare
+  Empiku i zwraca poprawne dane (48 kart produktu z cenami i deeplinkami
+  z jednej strony wyników) — bariera jest wyłącznie kosztowa. Zostaje więc drogą
+  awaryjną dla pojedynczych zestawów, nie zamiennikiem zrzutu.
+
+Czego Firecrawl **nie** dostarczył, mimo że tak planowaliśmy: ani jednej ceny
+katalogowej do `katalog.json`. Pokrycie RRP (1136 z 1172 naszych podstron)
+pochodzi z importu bazy RK. Jedyny zmierzony wkład to 741 kanonicznych adresów
+lego.com z 14.09.
+
 ## Harmonogram: generowany, nie pisany
 
 Prawda o triggerach mieszka w Routines w koncie Marka. Każdy ręcznie pisany opis
