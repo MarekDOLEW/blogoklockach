@@ -9,7 +9,9 @@ zadania cykliczne (runnery) i sesje robocze.
    - `redakcja/wspolpraca.md` — miedzy Piotrem a Markiem (ludzie)
    - `NARZEDZIA.md` — miedzy Claude Code a Cowork (narzedzia)
    - `RUNBOOK.md` — wiedza operacyjna, pulapki, procedury awaryjne
-   - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami
+   - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami (ostatnie 14 dni
+     + sekcja „Ustalenia trwałe”; starsze wpisy w `materialy/dziennik-archiwum-*`,
+     przenosi je `node scripts/archiwum-dziennika.mjs`)
 
 ## Skille i standardy — jedno źródło
 
@@ -93,6 +95,18 @@ Wyjątki — wtedy pytamy przed pushem:
 
 Po pushu podajemy w odpowiedzi hash i jednozdaniowy skutek („1426 cen Ceneo
 w hubach"), żeby było co zweryfikować bez czytania diffa.
+
+## Zanim postawisz tezę o dostępach
+
+`node scripts/diagnoza.mjs` — zmienne środowiska (same nazwy, nigdy wartości),
+stan repo, świeżość danych i **realne wywołania** do Cloudflare, Search Console,
+Tradedoublera, Firecrawla i produkcji. Runnery odpalają go w pierwszym kroku
+i wklejają wynik na początku raportu.
+
+Powód: 14.09.2026 trzy razy w jednej sesji padło zdanie o brakującym dostępie,
+które nie było prawdą („Kontroler nie ma poświadczeń”, „LEGO.com nie ma linków”,
+„klient TD nie jest aktywny”). Nie piszemy o uprawnieniach z pamięci —
+sprawdzamy, a gdy sprawdzić się nie da, piszemy „nie sprawdzono”.
 
 ## Zadania cykliczne
 
