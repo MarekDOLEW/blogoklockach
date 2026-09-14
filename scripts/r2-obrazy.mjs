@@ -9,15 +9,19 @@
 // zmiany kodu i bez deployu.
 //
 // Użycie:
-//   node scripts/r2-obrazy.mjs --sprawdz            # tylko raport: które /img/ nie oddają 200
-//   node scripts/r2-obrazy.mjs                      # galerie: sprawdź i wgraj brakujące
-//   node scripts/r2-obrazy.mjs --glowne             # to samo dla zdjęć głównych (obrazy.json)
-//   node scripts/r2-obrazy.mjs --wszystko --limit 800  # galerie + główne, ale wgraj najwyżej 800
-//   node scripts/r2-obrazy.mjs --klucze 42220-1,60478-3
+//   node scripts/r2-obrazy.mjs                      # codzienny tryb: lista R2 → wgraj to, czego brakuje z Planety (sekundy)
+//   node scripts/r2-obrazy.mjs --limit 300          # jak wyżej, ale najwyżej 300 plików w tym przebiegu
+//   node scripts/r2-obrazy.mjs --sprawdz            # audyt: HEAD na każde /img/ na produkcji (~15 min), także martwe źródła
+//   node scripts/r2-obrazy.mjs --sprawdz --galerie  # audyt tylko galerii (2 min)
+//   node scripts/r2-obrazy.mjs --klucze 42220-1,60478-3   # wgraj wskazane klucze (bez pytania R2 i produkcji)
 //
-// --limit N to sposób na rozłożenie zaległości na kilka dni bez żadnego stanu
-// między przebiegami: każdy przebieg sprawdza wszystko, wgrywa N pierwszych
-// brakujących, a gdy zaległość zniknie, codziennie dogrywa tylko to, co nowe.
+// Rejestrem „co już wgrane" jest sam kubełek R2: jedno listowanie (ok. 11 stron
+// po 1000 kluczy) mówi dokładnie, co tam leży. Osobny plik stanu w repo
+// rozjeżdżałby się przy każdym ręcznym wgraniu albo kasowaniu — kubełek nie.
+// W trybie codziennym patrzymy tylko na źródła z Planety Klocków, bo tylko ich
+// worker nie pobierze sam; Allegro i Rebrickable worker dociąga na żądanie.
+// --sprawdz pyta produkcji o każdy plik i dlatego widzi też martwe źródła
+// (np. Rebrickable 404) — to audyt, nie codzienność.
 //
 // Wymaga CF_ACCOUNT_ID i CF_R2_TOKEN (token z uprawnieniem Workers R2 Storage: Edit,
 // osobny od CF_API_TOKEN, który ma tylko Analytics: Read). Sprawdzenie samo
@@ -33,8 +37,7 @@ const ROWNOLEGLE_HEAD = 12;  // samo sprawdzanie produkcji — tanie, można gę
 
 const arg = process.argv.slice(2);
 const tylkoSprawdz = arg.includes('--sprawdz');
-const glowne = arg.includes('--glowne');
-const wszystko = arg.includes('--wszystko');
+const tylkoGalerie = arg.includes('--galerie');
 const limit = Number(arg.find((a) => a.startsWith('--limit='))?.slice(8) ?? (arg.includes('--limit') ? arg[arg.indexOf('--limit') + 1] : 0)) || 0;
 const kluczeArg = arg.find((a) => a.startsWith('--klucze='))?.slice(9) ?? (arg.includes('--klucze') ? arg[arg.indexOf('--klucze') + 1] : null);
 
@@ -56,7 +59,7 @@ if (kluczeArg) {
     .filter(([n]) => /^[0-9]{4,7}$/.test(n))
     .flatMap(([n, lista]) => lista.map((_, i) => `${n}-${i + 1}`));
   const kluczeGlowne = Object.keys(obrazy).filter((k) => /^[0-9]{4,7}$/.test(k));
-  klucze = wszystko ? [...kluczeGalerii, ...kluczeGlowne] : glowne ? kluczeGlowne : kluczeGalerii;
+  klucze = tylkoGalerie ? kluczeGalerii : [...kluczeGalerii, ...kluczeGlowne];
 }
 
 async function partiami(lista, fn, rownolegle = ROWNOLEGLE) {
@@ -80,25 +83,51 @@ async function statusNaProdukcji(klucz) {
   }
 }
 
-console.log(`Sprawdzam ${klucze.length} zdjęć na produkcji…`);
-const statusy = await partiami(klucze, async (k) => [k, await statusNaProdukcji(k)], ROWNOLEGLE_HEAD);
-const wszystkieBrakujace = statusy.filter(([, s]) => s !== 200).map(([k, s]) => ({ klucz: k, status: s }));
-// Przy limicie najpierw Planeta Klocków — tylko jej worker nie pobierze sam.
-// Reszta (Allegro, Rebrickable) padła, bo źródło umarło; worker próbował i nie
-// ma czego wgrać, więc nie ma sensu, żeby zajmowały codzienny limit.
-const zPlanety = (b) => (/planetaklockow\.pl/.test(zrodlo(b.klucz) ?? '') ? 0 : 1);
-wszystkieBrakujace.sort((x, y) => zPlanety(x) - zPlanety(y));
-const brakujace = limit ? wszystkieBrakujace.slice(0, limit) : wszystkieBrakujace;
-console.log(`OK: ${statusy.length - wszystkieBrakujace.length}, brakuje: ${wszystkieBrakujace.length}${limit ? `, w tym przebiegu wgrywam najwyżej ${limit}` : ''}`);
-if (brakujace.length === 0 || tylkoSprawdz) {
+const { CF_ACCOUNT_ID, CF_R2_TOKEN } = process.env;
+const zPlanety = (klucz) => /planetaklockow\.pl/.test(zrodlo(klucz) ?? '');
+
+async function kluczeWR2() {
+  const wR2 = new Set();
+  let cursor = '';
+  for (let strona = 0; strona < 100; strona++) {
+    const r = await fetch(`https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects?per_page=1000${cursor ? `&cursor=${encodeURIComponent(cursor)}` : ''}`,
+      { headers: { authorization: `Bearer ${CF_R2_TOKEN}` } });
+    const d = await r.json().catch(() => ({}));
+    if (!d.success) throw new Error(`listowanie R2 nie przeszło: ${JSON.stringify(d.errors ?? r.status).slice(0, 160)}`);
+    for (const o of d.result) wR2.add(o.key);
+    if (!d.result_info?.is_truncated) break;
+    cursor = d.result_info.cursor;
+  }
+  return wR2;
+}
+
+let wszystkieBrakujace;
+if (tylkoSprawdz) {
+  console.log(`Sprawdzam ${klucze.length} zdjęć na produkcji…`);
+  const statusy = await partiami(klucze, async (k) => [k, await statusNaProdukcji(k)], ROWNOLEGLE_HEAD);
+  wszystkieBrakujace = statusy.filter(([, s]) => s !== 200).map(([k, s]) => ({ klucz: k, status: s }));
+  console.log(`OK: ${statusy.length - wszystkieBrakujace.length}, brakuje: ${wszystkieBrakujace.length}`);
   for (const b of wszystkieBrakujace.slice(0, 40)) console.log(`  ${b.status}  ${b.klucz}  ${zrodlo(b.klucz) ?? '(brak źródła w danych)'}`);
   if (wszystkieBrakujace.length > 40) console.log(`  … i ${wszystkieBrakujace.length - 40} więcej`);
   process.exit(0);
+} else if (kluczeArg) {
+  wszystkieBrakujace = klucze.map((k) => ({ klucz: k, status: '-' }));
+} else {
+  if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
+    console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — bez nich zostaje audyt produkcji (--sprawdz).');
+    process.exit(2);
+  }
+  const wR2 = await kluczeWR2();
+  const zPK = klucze.filter(zPlanety);
+  wszystkieBrakujace = zPK.filter((k) => !wR2.has(k)).map((k) => ({ klucz: k, status: 'brak w R2' }));
+  console.log(`W R2: ${wR2.size} obiektów. Zdjęć z Planety w danych: ${zPK.length}, brakuje w R2: ${wszystkieBrakujace.length}`);
+  if (wszystkieBrakujace.length === 0) process.exit(0);
 }
+const brakujace = limit ? wszystkieBrakujace.slice(0, limit) : wszystkieBrakujace;
+if (limit && wszystkieBrakujace.length > limit) console.log(`W tym przebiegu wgrywam najwyżej ${limit}.`);
 
-const { CF_ACCOUNT_ID, CF_R2_TOKEN } = process.env;
 if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
-  console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — mogę tylko sprawdzać (--sprawdz).');
+  console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — wgrywanie niemożliwe.');
   process.exit(2);
 }
 const API = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects/`;

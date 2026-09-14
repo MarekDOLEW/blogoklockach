@@ -137,11 +137,16 @@ Działało tylko to, co ktoś wcześniej zdążył zobaczyć (kopia w R2).
 
 Naprawa bez ruszania workera: **wgrać plik do R2 z kontenera** pod kluczem,
 którego używa worker (`42220-1`, bez rozszerzenia). Robi to
-`node scripts/r2-obrazy.mjs` — sprawdza produkcję, dociąga brakujące ze źródła
-i wgrywa przez API. Wymaga `CF_R2_TOKEN` (token *Workers R2 Storage: Edit*,
-osobny od `CF_API_TOKEN`, który ma tylko Analytics: Read). `--sprawdz` działa
-bez tokena. Po dopisaniu nowych galerii do `galerie.json` uruchom skrypt —
-inaczej nowe zdjęcia z Planety nie pokażą się nigdy.
+`node scripts/r2-obrazy.mjs`: listuje kubełek R2 (to jest rejestr „co już
+wgrane" — nie trzymamy osobnego pliku stanu, bo rozjeżdżałby się przy każdym
+ręcznym wgraniu albo kasowaniu), porównuje z `galerie.json` i `obrazy.json`
+i wgrywa brakujące zdjęcia z Planety. Przebieg bez zaległości trwa sekundy.
+Wymaga `CF_R2_TOKEN` (token *Workers R2 Storage: Edit*, osobny od
+`CF_API_TOKEN`, który ma tylko Analytics: Read). `--sprawdz` to co innego:
+audyt HEAD na każde `/img/` na produkcji (~15 min), który widzi też martwe
+źródła Rebrickable — bez tokena, ale to nie codzienność. Po dopisaniu nowych
+galerii do `galerie.json` uruchom skrypt — inaczej nowe zdjęcia z Planety nie
+pokażą się nigdy.
 
 Planeta potrafi resetować połączenie przy serii pobrań (curl 35) — skrypt
 ponawia trzy razy z odstępem; przy setkach plików liczy się w dziesiątkach minut.
