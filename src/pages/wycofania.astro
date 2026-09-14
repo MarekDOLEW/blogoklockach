@@ -18,7 +18,15 @@ const wpisy = dane.wycofania.filter((w) => w.kiedy !== 'odwołane');
 // z lego.com) albo „prognoza rynku" (zgodne zapowiedzi branżowe, jeszcze bez
 // potwierdzenia). Etykiety pochodzą z lib/status.js, więc listing, hub i ta
 // strona zawsze mówią to samo.
-const serie = kolejnosc.filter((s) => wpisy.some((w) => w.seria === s));
+// Serie spoza _meta.serie_kolejnosc też muszą trafić na listę. 14.09.2026
+// szesnaście zestawów z ręcznej weryfikacji Marka (Pokémon, Super Mario, DUPLO,
+// Speed Champions…) zniknęło ze strony, bo ich serii nie było w tej liście —
+// liczniki u góry je liczyły, sekcji poniżej nie było. Kolejność: najpierw
+// lista z pliku, potem pozostałe serie alfabetycznie.
+const pozaLista = [...new Set(wpisy.map((w) => w.seria))]
+  .filter((s) => s && !kolejnosc.includes(s))
+  .sort((a, b) => a.localeCompare(b, 'pl'));
+const serie = [...kolejnosc.filter((s) => wpisy.some((w) => w.seria === s)), ...pozaLista];
 const wSerii = (s) => wpisy.filter((w) => w.seria === s);
 const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
 const razem = wpisy.length;

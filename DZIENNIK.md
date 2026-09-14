@@ -47,6 +47,57 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-14 20:00 · CODE · Audyt serwisu po dzisiejszych zmianach: dwa błędy naprawione, jeden do decyzji
+
+**Zrobione:** przegląd produkcji po 40 dzisiejszych commitach — build, linki,
+przekierowania, obrazy, teksty, zrzuty desktop (1440) i mobile (390).
+- Produkcja = build `a9a4e0a` bajt w bajt (8 stron + CSS/JS porównane z `dist/`).
+  Build czysty: 4562 strony, 0 ostrzeżeń. 131 557 linków wewnętrznych, **0 martwych**.
+  Sitemapa 852 adresów, próbka 25 → wszystkie 200. html-validate na 11 stronach:
+  0 błędów (ostrzeżenia tylko o poziomach nagłówków w treści artykułów).
+- `/idz/` sprawdzone po 2 losowe na każdy z 16 sklepów: wszystkie 302 na właściwy
+  adres z parametrami sieci; filtr botów (bez referera → hub) działa; nieznany
+  numer → strona główna. Ceny w hubach „sprawdzone 2026-09-14".
+- **Błąd 1 (z dzisiejszej zmiany, naprawiony):** 16 z 31 zestawów, które Marek
+  ręcznie zweryfikował jako wycofane (`21a4df6`), nie było na `/wycofania/` —
+  szablon wyświetlał tylko serie z `_meta.serie_kolejnosc`, a Pokémon, Super Mario,
+  DUPLO, Speed Champions… w niej nie było. Liczniki u góry je liczyły, sekcji nie było.
+  Szablon dokłada teraz pozostałe serie alfabetycznie za listą z pliku: 281 → 297 wierszy.
+- **Błąd 2 (starszy, naprawiony):** „Obecnie: 30zapowiedzi potwierdzone i 3przecieków"
+  na `/nowosci/` i „1przeciek" na stronach miesięcy — Astro zjada spację między
+  dwoma wyrażeniami `{}` w tekście. Zdania przepisane na jeden szablon `${}`.
+  Cały build przeszukany pod tym kątem: innych miejsc nie ma.
+- **Do decyzji (nie z dzisiaj):** galerie zdjęć na hubach — **348 z 608** obrazów
+  `/img/<nr>-<poz>.jpg` oddaje 502. Wszystkie pochodzą z cache Planety Klocków;
+  z kontenera te same adresy dają 200, worker dostaje odmowę (najpewniej blokada
+  adresów Cloudflare po stronie PK). Widoczny skutek: 37 hubów (m.in. 42220–42239,
+  60478–60505, 75420–75455) z rzędem pustych miniatur i pustych slajdów; 10 hubów
+  częściowo; `/prezentowniki/lego-city/` też. Działa to, co już leży w R2 (259).
+  Naprawa bez ruszania workera: wgrać brakujące pliki do R2 z kontenera — ale
+  `CF_API_TOKEN` nie ma uprawnień R2 (`r2/buckets` → Authentication error).
+  Potrzebna decyzja Marka: token z R2 Write albo wyłączenie galerii dla tych setów.
+- Obrazy główne: próbka 120 → 118 OK; 2 błędy to Rebrickable 404 (2927, 11934),
+  do tego 21375 Godzilla na `/nowosci/` — ~1–2% setów bez działającego zdjęcia,
+  dane, nie kod. 43022 (kask Hamiltona, deal na stronie głównej) bez zdjęcia w ogóle.
+- Empik: 3114 linków w serwisie, 0 deeplinków — `redirects.empik` jeszcze nie
+  istnieje, bo skrypt importu (`9636271`) powstał po dzisiejszym zrzucie. Wszystko
+  idzie na wyszukiwarkę Empiku przez Tradedoublera (działa, prowizja liczona).
+  Wypełni się przy następnym zrzucie, zgodnie z tygodniowym rytmem.
+- Mobile: brak przewijania poziomego na 11 stronach, tabela cen składa się w karty,
+  menu w hamburgerze. Desktop bez uwag poza galeriami.
+
+**Stan:** dwie poprawki szablonów na `main`. Galerie czekają na decyzję o tokenie.
+
+**Dla drugiej strony:** Łowca — nic. Scout — nowe serie w `wycofania.json`
+trafiają na stronę same, listy `serie_kolejnosc` nie trzeba już uzupełniać.
+
+**Uwagi:** Chromium z kontenera nie dochodzi do tylkoklocki.pl (reset przez proxy,
+jak w notatce o konkurencji), więc zrzuty robione z lokalnego `dist/` serwowanego
+na 127.0.0.1, z obrazami dociąganymi z produkcji przez curl — build jest identyczny
+z produkcją, więc wynik jest miarodajny. Drobiazg redakcyjny: pod tabelą cen huba
+dwa akapity mówią to samo o cenach zmiennych w ciągu dnia (TabelaCen + hub).
+
+
 ## 2026-09-14 19:30 · CODE · Maile do Piotra: wysyłka nigdy nie była podpięta — naprawione
 
 **Zrobione:** Piotr dostał jeden mail (19.08) i potem nic. Log Resend
