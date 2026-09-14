@@ -99,6 +99,21 @@ feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
 `storage.googleapis.com` około **7 godzin później** — nocny ok. 07:40,
 wieczorny w środku nocy.
 
+**Po imporcie cen dopisz linki.** Łowca wkłada do `oferty_feed.json` same ceny,
+a worker nie ma dla ME żadnego fallbacku ani szablonu `szukaj` — zestaw bez wpisu
+w `redirects.json` pokazuje więc cenę, ale klik wraca na naszą stronę główną
+i prowizja 2% przepada (24 takie pozycje na 5 945 zł ekspozycji, 14.09.2026):
+
+    python3 scripts/feedy-lego.py --tylko mediaexpert --wyjscie /tmp/me.json
+    node scripts/me-redirects.mjs /tmp/me.json --sucho   # najpierw podgląd
+    node scripts/me-redirects.mjs /tmp/me.json
+
+Skrypt dopisuje wyłącznie brakujące wpisy i tylko dla zestawów, które mają
+ofertę ME w serwisie; istniejących nie rusza. Link z feedu ma placeholdery sieci
+(`aff_sub=Partner_ID`), które podmienia na `tylkoklocki` — starsze wpisy mają
+w zakodowanym URL inne parametry `utm_*` i to jest w porządku, bo o przypisaniu
+prowizji decydują `aff_id`, `aff_sub` i `transaction_id`, identyczne w obu.
+
 Praktyczny skutek: **każdy przebieg Łowcy przed ~07:40 dostaje wczorajszą
 wieczorną wersję.** Dlatego od 31.08 Łowca chodzi o **08:30** — to najwcześniejsza
 sensowna godzina z zapasem na opóźnienie uploadu.
