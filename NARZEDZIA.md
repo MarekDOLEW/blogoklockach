@@ -269,8 +269,8 @@ gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
 
 4. **Paczka `.skill`** (`skille/*.skill` po `node scripts/spakuj-skille.mjs`)
    → **claude.ai → Settings → Skills**. Nie da się inaczej: synchronizacja idzie
-   tylko serwer → kontener. **Teraz jest zaległość** — paczka na koncie jest
-   starsza od repo po commicie `2f6f3ad`.
+   tylko serwer → kontener. Stan na 14.09.2026 16:45: **zgodne** — Marek wgrał
+   trzy paczki po commicie `4c7cf92`.
 
 5. **Eksporty CSV z paneli afiliacyjnych** (Tradedoubler, Allegro, webePartners)
    → **Code**, załącznik. Sparsuję i wpiszę do rejestru w jednym przebiegu.

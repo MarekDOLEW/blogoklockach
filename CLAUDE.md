@@ -113,6 +113,13 @@ które nie było prawdą („Kontroler nie ma poświadczeń”, „LEGO.com nie 
 „klient TD nie jest aktywny”). Nie piszemy o uprawnieniach z pamięci —
 sprawdzamy, a gdy sprawdzić się nie da, piszemy „nie sprawdzono”.
 
+## Gdzie co leży
+
+- `scripts/README.md` — każdy skrypt z informacją, **kto go uruchamia**:
+  runner cyklicznie, build automatycznie, czy człowiek na żądanie.
+- `materialy/README.md` — rozdział na treści trwałe, datowane raporty
+  i pliki generowane przez skrypty, plus gdzie wrzucać nowe.
+
 ## Zadania cykliczne
 
 Harmonogram runnerów, ich ID i zasady edycji: `materialy/zadania-cykliczne.md`.
