@@ -34,9 +34,14 @@ Kontroler odpalał się rano dwa razy: stary trigger z 11.08 o 07:10 UTC i nowy
 SUCCEEDED — czyli dwa raporty w każdy poniedziałek i podwójne zużycie limitu
 w najciaśniejszym oknie tygodnia.
 
-Różnica nie jest kosmetyczna: **stary trigger ma puste
-`session_request.environment_variables`**, więc jego sesje startowały bez
-`CF_ACCOUNT_ID`, `CF_API_TOKEN` i `GSC_KEY_JSON_B64`. Stąd raport z 14.09
+Różnica nie jest kosmetyczna, ale **nie wiadomo dokładnie, na czym polega**.
+Sprawdzenie 14.09: `session_request.environment_variables` jest puste u
+**wszystkich** Routines na koncie, także u nowego — to pole trzyma nadpisania,
+a nie zmienne środowiska, więc niczego nie dowodzi (moja pierwsza wersja tego
+akapitu twierdziła inaczej i była błędna). `list_triggers` nie pokazuje
+`environment_id`, więc z API nie da się porównać, w jakim środowisku startuje
+który runner. Pewne jest tylko tyle: nowy trigger nazwano `[env projektu]`,
+a raport z 14.09
 (`materialy/kontroler-2026-09-14.md`) nie ma sekcji o kliknięciach, EPC,
 widoczności i indeksacji, i stąd jego rekomendacja numer jeden brzmi
 „przywrócić poświadczenia" — w środowisku projektu one są i działają
