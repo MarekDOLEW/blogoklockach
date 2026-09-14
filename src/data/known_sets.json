@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-12",
+  "data_aktualizacji": "2026-09-14",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1172,
   "sety": [
@@ -1256,9 +1256,9 @@
     },
     {
       "numer": "40899",
-      "nazwa": "PlayStation — drugi zestaw linii (nazwa nieujawniona)",
+      "nazwa": "Astro Bot — gratis do konsoli PlayStation (niepotwierdzone)",
       "premiera": "2026-10",
-      "status": "2026-09-10: Brickset dodal liczbe elementow (276) i date startu 2026-10-01. Nazwa nadal '{?}'. To przesadza, ze NIE jest to drobny gratis, tylko pelnoprawny zestaw — 276 elementow. StoneWars od 05.09 nazywa go 'Astro Bot', ale to nadal jedno zrodlo i Brickset tego nie potwierdza. Wchodzi do fali 1 pazdziernika."
+      "status": "2026-09-14. Brickset: 276 elementow, start 2026-10-01, nazwa nadal '{?}'. PromoBricks (artykul 'Astrobot und die LEGO Sony PlayStation Konsole') pisze wprost: wedlug PRZECIEKOW Z REDDITA zestaw Astro Bot to gratis (GWP) o numerze 40899, dodawany przy zakupie konsoli 72306; 276 elementow, ok. 20 cm z podstawka. Serwis SAM zaznacza: 'bislang keine offiziellen Infos'. StoneWars od 05.09 pyta, czy to gratis czy osobny zestaw. STATUS: nadal niepotwierdzone — oba serwisy relacjonuja TEN SAM przeciek z Reddita i zadne nie powoluje sie na zrodlo oficjalne. Dwa serwisy cytujace jeden przeciek to jedno zrodlo."
     },
     {
       "numer": "72052-72061",
@@ -5901,5 +5901,11 @@
     "odsiane": "67019 i 67020 (Marvel 2027) — numery z zakresu 67xxx, ktory w calym roczniku 2027 ma kategorie 'Extended' (BrickLink Designer Program i promocje). Tu przyszly z '{t.b.a.}', ale to ta sama rodzina.",
     "bez_zmian": "11388 (Wenecja), 11390 (Dragon Ball), 40899 (Astro Bot), plytka 1,5 wypustki — zadne ze zrodel nic nowego nie podalo. Statusy zostaja."
   },
-  "granica_scout_redakcja": "Ustalone 2026-09-12. Zestaw, ktory ma juz polska cene i status 'dostepny' w katalog.json, NIE jest nowoscia dla Scouta, nawet jesli Brickset wlasnie odswiezyl jego rekord i nie ma go w sety.json. Takie pozycje sa w kolejce redakcyjnej i opisuje je sesja redakcyjna. Scout dopisuje do sety.json wylacznie zestawy, ktorych kolejka nie widzi: zapowiedzi, premiery bez ceny w zl, nowe licencje. Inaczej dwie sesje pisza to samo."
+  "granica_scout_redakcja": "Ustalone 2026-09-12. Zestaw, ktory ma juz polska cene i status 'dostepny' w katalog.json, NIE jest nowoscia dla Scouta, nawet jesli Brickset wlasnie odswiezyl jego rekord i nie ma go w sety.json. Takie pozycje sa w kolejce redakcyjnej i opisuje je sesja redakcyjna. Scout dopisuje do sety.json wylacznie zestawy, ktorych kolejka nie widzi: zapowiedzi, premiery bez ceny w zl, nowe licencje. Inaczej dwie sesje pisza to samo.",
+  "korekty_2026_09_14": {
+    "bledna_przeslanka_promobricks": "Od 05.09 pisalem w kolejnych raportach, ze 'PromoBricks milczy' o 40899. To bylo nieprawda co najmniej od 09.09 — serwis ma artykul, ktory wymienia numer 40899 wprost. Nie sprawdzilem tresci, tylko naglowki; naglowek 'Astrobot und die LEGO Sony PlayStation Konsole' nie zawieral numeru, wiec przeszedl mi bokiem. Wniosek dla metody: milczenie serwisu stwierdzam po tresci artykulu, nie po tym, czy numer jest w naglowku.",
+    "bledny_wniosek_o_276_elementach": "11.09 napisalem, ze 276 elementow 'przesadza, ze NIE jest to drobny gratis, tylko pelnoprawny zestaw'. Zly wniosek — wielkosc nie rozstrzyga o formie dystrybucji, gratisy LEGO potrafia byc tej skali. Oba serwisy opisuja 40899 jako GWP do zakupu konsoli.",
+    "co_sie_NIE_zmienia": "Status 'zapowiedz niepotwierdzona' zostaje. Zmienia sie uzasadnienie: nie 'jedno zrodlo milczy', tylko 'oba serwisy relacjonuja ten sam przeciek z Reddita, zaden nie ma potwierdzenia oficjalnego'.",
+    "konsekwencja_praktyczna": "Jesli 40899 to GWP, nigdy nie dostanie ceny sklepowej ani ofert w feedach, wiec hub nie zbuduje dla niego tabeli cen. W statystyce fali pazdziernikowej nalezy go liczyc osobno od 18 zestawow detalicznych."
+  }
 }
