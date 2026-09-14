@@ -625,6 +625,22 @@ Reguły (pełny tekst także w `wycofania.json` → `_meta.regula_statusow`):
    na lego.com mówiła „Dostępne teraz" – taki wpis dostaje `kiedy: "odwołane"`
    z wyjaśnieniem w `uwagi`, a katalog zostaje `dostepny`.
 
+**Układ strony `/wycofania/` — jedna lista, nie dwie** *(zmiana 14.09.2026,
+decyzja Marka).* Przez dzień wycofania stały w dwóch blokach: najpierw
+potwierdzone, pod nimi prognozy. Rozróżnienie było czytelne, ale prognozy
+lądowały po kilkuset wierszach i nikt tak nisko nie schodził. Teraz jest jedna
+lista z podziałem tylko na serie, a status niesie kolumna „Status" w każdym
+wierszu — te same etykiety co wszędzie indziej (`lib/status.js` →
+`ETYKIETY_WYCOFANIA`). Wewnątrz serii kolejność idzie od pewnego terminu do
+rzeczy już nieosiągalnych: potwierdzone przez LEGO → prognoza rynku →
+w sprzedaży (po EOL w LEGO, ale sklepy jeszcze mają) → wycofany (EOL).
+
+Sortujemy po **wyświetlanym** statusie, nie po surowym polu z pliku: zestaw po
+EOL w LEGO ma w danych `status: "potwierdzone"`, a na liście jest „w sprzedaży"
+— sortowanie po polu z pliku wrzucało go między zestawy z terminem i układ
+wyglądał przypadkowo. Zasada rozróżniania faktu od prognozy nie zmienia się ani
+o jotę; zmienił się wyłącznie sposób pokazania.
+
 ### Nowości (`sety.json`, Scout)
 
 | pole `status_nowosci` | na stronie | znaczenie |

@@ -6,34 +6,18 @@ import dane from '../data/wycofania.json';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { wierszWycofania } from '../lib/wiersze.js';
-import { ETYKIETY_WYCOFANIA } from '../lib/status.js';
 
 const kolejnosc = dane._meta.serie_kolejnosc;
 // „odwołane" (LEGO przedłużyło sprzedaż) zostają w pliku dla historii, ale nie na liście
 const wpisy = dane.wycofania.filter((w) => w.kiedy !== 'odwołane');
-// Dwie listy, dwa znaczenia (ustalenie 13.09.2026): wycofania POTWIERDZONE
-// przez LEGO to fakt (dział „Ostatnie sztuki", karta „Produkcja zakończona"),
-// PROGNOZY rynku to zgodne zapowiedzi branżowe, które zwykle się sprawdzają,
-// ale LEGO ich jeszcze nie potwierdziło. Pokazujemy jedno i drugie – osobno,
-// pod własnymi nagłówkami, żeby czytelnik nigdy nie wziął prognozy za fakt.
-// Sprawdzona prognoza zmienia status na „potwierdzone" i przechodzi do
-// pierwszej listy (reguła: RUNBOOK → „Statusy: wycofania, nowości, EOL").
-const listyStatusow = [
-  {
-    klucz: 'potwierdzone',
-    naglowek: 'Wycofania potwierdzone przez LEGO',
-    wpisy: wpisy.filter((w) => w.status === 'potwierdzone'),
-    opis: 'Terminy ogłoszone przez Grupę LEGO: zestaw jest w dziale „Ostatnie sztuki" na lego.com, ma na karcie status „Produkcja zakończona" albo LEGO podało datę w komunikacie. To fakty – jeśli zestaw jest na liście życzeń, nie ma na co czekać.',
-  },
-  {
-    klucz: 'przewidywane',
-    naglowek: 'Prognozy wycofań – sygnały z rynku',
-    wpisy: wpisy.filter((w) => w.status !== 'potwierdzone'),
-    opis: 'Zgodne zapowiedzi serwisów branżowych (Brickset, Brick Fanatics, StoneWars) i sygnały z sieci dystrybucji. LEGO tych terminów jeszcze nie potwierdziło – historycznie większość się sprawdza, ale daty potrafią przesunąć się o miesiące. Gdy producent potwierdzi termin, zestaw przechodzi do listy powyżej.',
-  },
-].filter((l) => l.wpisy.length);
-const serieListy = (lista) => kolejnosc.filter((s) => lista.wpisy.some((w) => w.seria === s));
-const wSeriiListy = (lista, s) => lista.wpisy.filter((w) => w.seria === s);
+// Jedna lista, status przy każdym zestawie (ustalenie 14.09.2026). Wcześniej
+// wycofania potwierdzone i prognozy stały w dwóch osobnych blokach – prognozy
+// lądowały wtedy pod kilkuset wierszami i nikt do nich nie docierał. Teraz
+// rozróżnienie niesie kolumna „Status" w każdym wierszu: „potwierdzone przez
+// LEGO" (fakt: dział „Ostatnie sztuki", komunikat producenta albo zniknięcie
+// z lego.com) albo „prognoza rynku" (zgodne zapowiedzi branżowe, jeszcze bez
+// potwierdzenia). Etykiety pochodzą z lib/status.js, więc listing, hub i ta
+// strona zawsze mówią to samo.
 const serie = kolejnosc.filter((s) => wpisy.some((w) => w.seria === s));
 const wSerii = (s) => wpisy.filter((w) => w.seria === s);
 const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
@@ -46,6 +30,18 @@ const feedSety = ofertyFeed?.sety ?? {};
 
 // Wiersze do wspólnej tabeli – ten sam kształt co w katalogu serii i na stronie głównej.
 const wiersz = (w) => wierszWycofania(w, { sety, feed: feedSety });
+
+// Kolejność w serii idzie po tym, co czytelnik widzi w kolumnie Status, a nie po
+// surowym polu z pliku: zestaw po EOL w LEGO, który został w innych sklepach, ma
+// w danych status „potwierdzone", ale na liście jest „w sprzedaży" – sortowanie po
+// surowym polu wrzucało go między zestawy z terminem i układ wyglądał przypadkowo.
+// Od góry: pewny termin → termin z prognozy → już po EOL, ale jeszcze do kupienia →
+// nie do kupienia. Przy równym statusie zostaje kolejność z pliku danych.
+const KOLEJNOSC_STATUSU = { potwierdzone: 0, przewidywane: 1, sprzedaz: 2, eol: 3 };
+const wierszeSerii = (seria) =>
+  wSerii(seria)
+    .map(wiersz)
+    .sort((a, b) => (KOLEJNOSC_STATUSU[a.status] ?? 9) - (KOLEJNOSC_STATUSU[b.status] ?? 9));
 
 // data aktualizacji w formacie polskim (z _meta, jedno źródło prawdy)
 const MIESIACE = ['stycznia','lutego','marca','kwietnia','maja','czerwca','lipca','sierpnia','września','października','listopada','grudnia'];
@@ -108,28 +104,19 @@ const stronaSchema = {
   <article>
     <h1 style="margin-top:28px">Wycofywane zestawy LEGO 2026 – pełna lista końcówek serii</h1>
     <p class="eol-aktualizacja">Ostatnia aktualizacja: <time datetime={dane._meta.aktualizacja}>{aktualizacjaPL}</time> · {razem} zestawów · {potwierdzone} potwierdzonych przez LEGO · {razem - potwierdzone} prognoz rynku · {juzWycofane} już wycofanych</p>
-    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii – a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Zebraliśmy w jednym miejscu <strong>wszystkie {razem} zestawów, które znikają ze sprzedaży w 2026 roku</strong>, w 11 seriach: od Star Wars i Icons po City i Friends. Użyj filtra poniżej, by zawęzić listę do swojej serii, albo wpisz numer lub nazwę zestawu w wyszukiwarkę. Dwa statusy: <span class="badge-status badge-status--pewny">potwierdzone przez LEGO</span> to fakt – oficjalna informacja Grupy LEGO (dział „Ostatnie sztuki", komunikat albo zniknięcie z lego.com); <span class="badge-status badge-status--prognoza">prognoza rynku</span> to zgodne przewidywania źródeł branżowych, jeszcze niepotwierdzone. Znacznik <span class="tag-eol">EOL</span> oznacza, że LEGO już nie sprzedaje zestawu – często kupisz go jeszcze w innych sklepach, wtedy pokazujemy ich cenę. Wracaj tu regularnie – listę aktualizujemy na bieżąco.</p>
+    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii – a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Zebraliśmy w jednym miejscu <strong>wszystkie {razem} zestawów, które znikają ze sprzedaży w 2026 roku</strong>, w 11 seriach: od Star Wars i Icons po City i Friends. Użyj filtra poniżej, by zawęzić listę do swojej serii, albo wpisz numer lub nazwę zestawu w wyszukiwarkę. Przy każdym zestawie, w kolumnie <strong>Status</strong>, stoi źródło terminu: <span class="badge-status badge-status--pewny">potwierdzone przez LEGO</span> to fakt – oficjalna informacja Grupy LEGO (dział „Ostatnie sztuki", komunikat albo zniknięcie z lego.com); <span class="badge-status badge-status--prognoza">prognoza rynku</span> to zgodne przewidywania źródeł branżowych, jeszcze niepotwierdzone. W każdej serii potwierdzone terminy stoją na górze. Znacznik <span class="tag-eol">EOL</span> oznacza, że LEGO już nie sprzedaje zestawu – często kupisz go jeszcze w innych sklepach, wtedy pokazujemy ich cenę. Wracaj tu regularnie – listę aktualizujemy na bieżąco.</p>
     <p class="disclosure">Ceny i przyciski „Sprawdź cenę" prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej – zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją – wiążąca jest zawsze cena w koszyku sklepu.</p>
 
     <FiltrSetow serie={serie} liczbaWSerii={(s) => wSerii(s).length} rzeczownik="zestawów" />
 
-    {listyStatusow.map((lista) => (
-      <section class={`lista-wycofan lista-wycofan--${lista.klucz}`} id={`wycofania-${lista.klucz}`} aria-labelledby={`naglowek-${lista.klucz}`}>
-        <div class="lista-wycofan__head">
-          <span class={`badge-status ${lista.klucz === 'potwierdzone' ? 'badge-status--pewny' : 'badge-status--prognoza'}`}>{ETYKIETY_WYCOFANIA[lista.klucz]}</span>
-          <h2 id={`naglowek-${lista.klucz}`}>{lista.naglowek} <small>({lista.wpisy.length})</small></h2>
+    {serie.map((seria) => (
+      <section class="sekcja" id={`seria-${slug(seria)}`} data-grupa={seria} style="margin: 30px 0;">
+        <div class="sekcja-head">
+          <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <h2>{seria} <small class="sekcja-licznik">{wSerii(seria).length}</small></h2>
         </div>
-        <p class="prose lista-wycofan__opis">{lista.opis}</p>
-        {serieListy(lista).map((seria) => (
-          <section class="sekcja" id={`${lista.klucz}-seria-${slug(seria)}`} data-grupa={seria} style="margin: 26px 0;">
-            <div class="sekcja-head">
-              <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-              <h3>{seria} <small class="sekcja-licznik">{wSeriiListy(lista, seria).length}</small></h3>
-            </div>
-            <TabelaSetow wiersze={wSeriiListy(lista, seria).map(wiersz)} />
-            <p class="lista-pusta" data-pusto hidden>Brak wyników w tej serii dla obecnego filtra.</p>
-          </section>
-        ))}
+        <TabelaSetow wiersze={wierszeSerii(seria)} />
+        <p class="lista-pusta" data-pusto hidden>Brak wyników w tej serii dla obecnego filtra.</p>
       </section>
     ))}
 
@@ -155,14 +142,6 @@ const stronaSchema = {
 
 <style is:global>
   .eol-aktualizacja { font-size: 0.85rem; opacity: 0.7; margin: 4px 0 14px; }
-  .lista-wycofan { margin: 34px 0 10px; padding-top: 18px; border-top: 3px solid var(--linia); }
-  .lista-wycofan--potwierdzone { border-top-color: var(--czerwien); }
-  .lista-wycofan--przewidywane { border-top-color: var(--zolty); }
-  .lista-wycofan__head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; }
-  .lista-wycofan__head h2 { margin: 0; }
-  .lista-wycofan__head small { font-weight: 600; color: var(--granat-60); font-size: 0.7em; }
-  .lista-wycofan__opis { margin: 8px 0 0; max-width: 78ch; }
-  .lista-wycofan h3 { margin: 0; font-size: 1.15rem; }
   .sekcja-licznik { font-weight: 600; color: var(--granat-60); font-size: 0.8em; margin-left: 4px; }
   .eol-faq-wpis { padding: 14px 18px; margin: 12px 0; }
   .eol-faq-wpis h3 { margin: 0 0 6px; font-size: 1.05rem; }
