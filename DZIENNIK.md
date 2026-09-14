@@ -3,9 +3,14 @@
 Jedyny kanał komunikacji między Claude Code a Cowork. Oba narzędzia czytają
 ostatnie wpisy na starcie sesji i dopisują własny na końcu.
 
-**Append-only.** Nowe wpisy na górze, pod tym nagłówkiem. Nie kasuj, nie
-przepisuj cudzych wpisów — historia jest tu po to, żeby druga strona
-wiedziała, co się działo.
+**Append-only.** Nie kasuj i nie przepisuj cudzych wpisów — historia jest tu po
+to, żeby druga strona wiedziała, co się działo.
+
+**Gdzie pisać:** nowy wpis wstawiaj **bezpośrednio pod linią znacznika**
+`<!-- WPISY PONIŻEJ … -->`, na początku listy wpisów. Wszystko NAD znacznikiem
+(ta instrukcja, ustalenia trwałe, indeks archiwum) zostaje w pliku na stałe
+i archiwizacja tego nie rusza. Wpis wstawiony nad znacznikiem nie zostanie
+zarchiwizowany nigdy — skrypt zgłosi to ostrzeżeniem.
 
 Format wpisu:
 
@@ -34,11 +39,13 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
 ## Archiwum
 
 Wpisy starsze niż 14 dni żyją w plikach miesięcznych. Nic nie zostało
-skasowane — jeśli szukasz czegoś sprzed miesiąca, jest tam:
+skasowane — jeśli szukasz czegoś starszego, jest tam:
 
 - [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 27 wpisów
 
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
+
+<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
 ## 2026-09-09 08:00 · CODE · Indeksacja: sitemapy sekcyjne z lastmod, noindex na cienkich hubach, RSS, FAQ, „Przeczytaj też"
 

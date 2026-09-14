@@ -8,12 +8,13 @@
 // więcej niż ten skrypt.
 //
 // Zasada: żadnego pola nie wypełniamy z pamięci. Każdy wiersz to albo wynik
-// realnego wywołania, albo jawne „nie sprawdzono".
+// realnego wywołania, albo jawne „nie sprawdzono" — nigdy domysł podany
+// w tonie faktu.
 //
 // Użycie:
 //   node scripts/diagnoza.mjs            # czytelny wydruk do wklejenia w raport
 //   node scripts/diagnoza.mjs --json     # to samo maszynowo
-//   node scripts/diagnoza.mjs --szybko   # bez wywołań sieciowych (~0,1 s)
+//   node scripts/diagnoza.mjs --szybko   # bez ŻADNEGO ruchu sieciowego
 //
 // Runnery odpalają go w PIERWSZYM kroku i wklejają wynik na początku raportu.
 
@@ -29,25 +30,55 @@ const LIMIT_MS = 8000;
 const wynik = { czas: new Date().toISOString(), sekcje: {} };
 
 // ── narzędzia ────────────────────────────────────────────────────────────────
-function bash(cmd, awaryjnie = null) {
+// execSync bez `timeout` wisi w nieskończoność. Diagnoza, która wisi, jest
+// gorsza od braku diagnozy — runner przez nią nie ruszy dalej.
+function bash(cmd, awaryjnie = null, limitMs = LIMIT_MS) {
   try {
-    return execSync(cmd, { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }).trim();
+    return execSync(cmd, {
+      encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], timeout: limitMs,
+    }).trim();
   } catch {
     return awaryjnie;
   }
 }
 
-// Każde wywołanie sieciowe dostaje limit czasu — diagnoza, która wisi, jest
-// gorsza od braku diagnozy, bo runner przez nią nie ruszy dalej.
 async function pobierz(url, opcje = {}) {
   const stop = AbortSignal.timeout(LIMIT_MS);
   try {
     const odp = await fetch(url, { ...opcje, signal: stop });
     return { status: odp.status, ok: odp.ok, tresc: await odp.text() };
   } catch (e) {
-    return { status: null, ok: false, blad: e.name === 'TimeoutError' ? `brak odpowiedzi w ${LIMIT_MS / 1000} s` : e.message };
+    return {
+      status: null,
+      ok: false,
+      blad: e.name === 'TimeoutError' ? `brak odpowiedzi w ${LIMIT_MS / 1000} s` : e.message,
+    };
   }
 }
+
+// Ciało odpowiedzi bywa wielolinijkowe i rozwala listę markdown, w którą ten
+// wydruk jest wklejany. Spłaszczamy do jednej linii.
+const jednaLinia = (t, n = 120) => (t ?? '').replace(/\s+/g, ' ').trim().slice(0, n);
+
+// OSTATNIA BRAMKA PRZED WYDRUKIEM. Cudze API potrafią oddać nasz sekret
+// w treści błędu — sprawdzone 14.09: Performers na zły klucz odpowiada
+// „Invalid Static API Key: <klucz>", a że jego klucz jedzie w query stringu,
+// to samo wyszłoby w komunikacie błędu sieciowego razem z całym URL-em.
+// Dlatego nic nie idzie na wyjście bez przepuszczenia przez tę funkcję, także
+// tryb --json. Lepiej wyciąć za dużo niż raz za mało.
+const SEKRETY = Object.keys(process.env)
+  .filter((k) => /TOKEN|KEY|SECRET|PASSWORD|_ID$/.test(k))
+  .map((k) => process.env[k])
+  .filter((v) => typeof v === 'string' && v.length >= 8)
+  .sort((a, b) => b.length - a.length);   // najpierw najdłuższe, żeby nie ciąć w środku
+
+function bezSekretow(tekst) {
+  let t = String(tekst);
+  for (const s of SEKRETY) t = t.split(s).join('***');
+  return t;
+}
+
+const pisz = (tekst) => console.log(bezSekretow(tekst));
 
 // ── 1. Zmienne środowiska ────────────────────────────────────────────────────
 // Wypisujemy WYŁĄCZNIE nazwę i to, czy jest ustawiona. Nigdy wartości, nigdy
@@ -73,17 +104,22 @@ wynik.sekcje.zmienne = Object.fromEntries(
 // ── 2. Repo ──────────────────────────────────────────────────────────────────
 // Po restarcie kontenera znikają node_modules i gałąź robocza — sprawdzamy
 // oba, bo „astro: not found" w środku przebiegu kosztuje cały runner.
-const galaz = bash('git rev-parse --abbrev-ref HEAD');
-bash('git fetch origin main --quiet');
+//
+// `git fetch` to ruch sieciowy, więc pod --szybko go NIE robimy. Bez fetcha
+// porównanie z origin/main opisuje stan ostatniego pobrania, nie stan zdalny —
+// i wydruk musi to mówić wprost, zamiast udawać świeży odczyt.
+const fetchZrobiony = szybko ? false : bash('git fetch origin main --quiet', null) !== null;
+
 wynik.sekcje.repo = {
-  galaz,
+  galaz: bash('git rev-parse --abbrev-ref HEAD'),
   head: bash('git rev-parse --short HEAD'),
   main_zdalny: bash('git rev-parse --short origin/main'),
+  main_odswiezony: fetchZrobiony,
   commitow_za_main: Number(bash('git rev-list --count HEAD..origin/main', '0')),
   commitow_przed_main: Number(bash('git rev-list --count origin/main..HEAD', '0')),
   niezacommitowane: (bash('git status --porcelain', '') || '').split('\n').filter(Boolean).length,
   node_modules: existsSync('node_modules'),
-  astro: Boolean(bash('ls node_modules/.bin/astro')),
+  astro: existsSync('node_modules/.bin/astro'),
 };
 
 // ── 3. Świeżość danych ───────────────────────────────────────────────────────
@@ -111,20 +147,29 @@ for (const set of Object.values(oferty.sety ?? {})) {
   }
 }
 
+// Zrzut Empiku przychodzi z komputera Marka raz w tygodniu, a pole `data` przy
+// zestawie NIE nadaje się na znacznik: sprawdzone 14.09 — Łowca przepisuje je
+// codziennie dla wszystkich sklepów, więc Empik wyglądałby na świeży każdego
+// dnia. Jedynym śladem zostaje commit importu, a to znaczy zależność od słowa
+// w komunikacie. Dlatego zwracamy też temat commita: gdy Łowca zmieni wording
+// i grep przestanie trafiać, widać to od razu zamiast cichego „—".
+const commitEmpiku = bash(
+  "git log -1 --format='%ad\t%s' --date=short --grep=empik -i -- src/data/oferty_feed.json src/data/redirects.json",
+);
 wynik.sekcje.dane = {
   oferty_feed_zaktualizowano: oferty._meta?.zaktualizowano ?? null,
   ofert_per_sklep: Object.fromEntries(Object.entries(perSklep).sort((a, b) => b[1] - a[1])),
-  // Zrzut Empiku przychodzi z komputera Marka przez Cowork, więc jedyny ślad
-  // jego wieku to commit importu — plik nie ma własnego znacznika.
-  ostatni_import_empiku: bash(
-    'git log -1 --format=%ad --date=short --grep="Empik" -i -- src/data/oferty_feed.json src/data/redirects.json',
-  ),
+  import_empiku: commitEmpiku
+    ? { data: commitEmpiku.split('\t')[0], commit: commitEmpiku.split('\t').slice(1).join(' ') }
+    : { data: null, commit: 'NIE ZNALEZIONO commita importu — sprawdź ręcznie, wzorzec grepa mógł przestać pasować' },
   rejestr_afiliacji_zaktualizowano: meta('afiliacje_rejestr.json').zaktualizowano ?? null,
 };
 
 // ── 4. Dostępy — realne wywołania ────────────────────────────────────────────
+// Każda pozycja w tej sekcji MUSI być wynikiem wywołania. Sprawdzenie „czy
+// zmienna istnieje" nie należy tutaj — od tego jest sekcja zmiennych.
 if (szybko) {
-  wynik.sekcje.dostepy = { pominiete: '--szybko' };
+  wynik.sekcje.dostepy = { pominiete: '--szybko: nie sprawdzono żadnego dostępu' };
 } else {
   const dostepy = {};
 
@@ -146,7 +191,7 @@ if (szybko) {
     } catch { /* odpowiedź nie jest JSON-em — zostaje sam status */ }
     dostepy.cloudflare = o.ok
       ? { stan: 'ok', klikniec_7dni: klikow === null ? null : Number(klikow) }
-      : { stan: 'błąd', status: o.status, powod: o.blad ?? o.tresc?.slice(0, 120) };
+      : { stan: 'błąd', status: o.status, powod: o.blad ?? jednaLinia(o.tresc) };
   } else {
     dostepy.cloudflare = { stan: 'brak zmiennych' };
   }
@@ -174,52 +219,112 @@ if (szybko) {
   // Search Console — pełna ścieżka: klucz konta serwisowego → JWT → token →
   // lista witryn. Sama obecność zmiennej niczego nie dowodzi; klucz bywa
   // odwołany albo konto usunięte z witryny i wtedy runner SEO pada w połowie.
+  //
+  // NIGDY nie drukujemy tu `e.message`. Node od wersji 20 wkleja do komunikatu
+  // JSON.parse początek wejścia („Unexpected token 'T', \"TAJNY_KLUC\"...”), więc
+  // sekret wrzucony omyłkowo do złej zmiennej wyciekłby do raportu. Zamiast
+  // treści błędu podajemy jego rodzaj.
   if (process.env.GSC_KEY_JSON_B64) {
+    let klucz = null;
     try {
-      const klucz = JSON.parse(Buffer.from(process.env.GSC_KEY_JSON_B64, 'base64').toString('utf8'));
-      const b64url = (t) => Buffer.from(t).toString('base64url');
-      const teraz = Math.floor(Date.now() / 1000);
-      const naglowek = b64url(JSON.stringify({ alg: 'RS256', typ: 'JWT' }));
-      const tresc = b64url(JSON.stringify({
-        iss: klucz.client_email,
-        scope: 'https://www.googleapis.com/auth/webmasters.readonly',
-        aud: 'https://oauth2.googleapis.com/token',
-        iat: teraz,
-        exp: teraz + 3600,
-      }));
-      const podpis = crypto.sign('RSA-SHA256', Buffer.from(`${naglowek}.${tresc}`), klucz.private_key);
-      const o = await pobierz('https://oauth2.googleapis.com/token', {
-        method: 'POST',
-        headers: { 'content-type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams({
-          grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer',
-          assertion: `${naglowek}.${tresc}.${podpis.toString('base64url')}`,
-        }),
-      });
-      if (!o.ok) {
-        dostepy.search_console = { stan: 'błąd', status: o.status, powod: o.blad ?? 'token odrzucony' };
-      } else {
-        const t = JSON.parse(o.tresc).access_token;
-        const w = await pobierz('https://www.googleapis.com/webmasters/v3/sites', {
-          headers: { authorization: `Bearer ${t}` },
+      klucz = JSON.parse(Buffer.from(process.env.GSC_KEY_JSON_B64, 'base64').toString('utf8'));
+    } catch {
+      klucz = null;
+    }
+    if (!klucz?.private_key || !klucz?.client_email) {
+      dostepy.search_console = {
+        stan: 'błąd',
+        powod: klucz
+          ? 'klucz zdekodowany, ale bez pól private_key/client_email'
+          : 'GSC_KEY_JSON_B64 nie dekoduje się do JSON-a konta serwisowego',
+      };
+    } else {
+      try {
+        const b64url = (t) => Buffer.from(t).toString('base64url');
+        const teraz = Math.floor(Date.now() / 1000);
+        const naglowek = b64url(JSON.stringify({ alg: 'RS256', typ: 'JWT' }));
+        const tresc = b64url(JSON.stringify({
+          iss: klucz.client_email,
+          scope: 'https://www.googleapis.com/auth/webmasters.readonly',
+          aud: 'https://oauth2.googleapis.com/token',
+          iat: teraz,
+          exp: teraz + 3600,
+        }));
+        const podpis = crypto.sign('RSA-SHA256', Buffer.from(`${naglowek}.${tresc}`), klucz.private_key);
+        const o = await pobierz('https://oauth2.googleapis.com/token', {
+          method: 'POST',
+          headers: { 'content-type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer',
+            assertion: `${naglowek}.${tresc}.${podpis.toString('base64url')}`,
+          }),
         });
-        const witryny = w.ok ? (JSON.parse(w.tresc).siteEntry ?? []).map((x) => x.siteUrl) : [];
-        dostepy.search_console = w.ok
-          ? { stan: 'ok', witryny: witryny.join(', ') || 'brak — konto nie ma dostępu do żadnej witryny' }
-          : { stan: 'błąd', status: w.status };
+        if (!o.ok) {
+          dostepy.search_console = { stan: 'błąd', status: o.status, powod: o.blad ?? 'token odrzucony' };
+        } else {
+          const t = JSON.parse(o.tresc).access_token;
+          const w = await pobierz('https://www.googleapis.com/webmasters/v3/sites', {
+            headers: { authorization: `Bearer ${t}` },
+          });
+          const witryny = w.ok ? (JSON.parse(w.tresc).siteEntry ?? []).map((x) => x.siteUrl) : [];
+          dostepy.search_console = w.ok
+            ? { stan: 'ok', witryny: witryny.join(', ') || 'brak — konto nie ma dostępu do żadnej witryny' }
+            : { stan: 'błąd', status: w.status };
+        }
+      } catch {
+        // Komunikatu nie pokazujemy z tego samego powodu co wyżej.
+        dostepy.search_console = { stan: 'błąd', powod: 'podpisanie JWT albo odpowiedź Google nie powiodły się' };
       }
-    } catch (e) {
-      dostepy.search_console = { stan: 'błąd', powod: e.message.slice(0, 120) };
     }
   } else {
     dostepy.search_console = { stan: 'brak zmiennych' };
   }
 
-  // Adtraction i Performers — obecność tokenu, bez pełnego raportu.
-  dostepy.adtraction = process.env.ADTRACTION_TOKEN ? { stan: 'token jest, raport w prowizje-raport.mjs' } : { stan: 'brak zmiennych' };
-  dostepy.performers = process.env.PERFORMERS_API_KEY ? { stan: 'token jest, raport w prowizje-raport.mjs' } : { stan: 'brak zmiennych' };
+  // Adtraction — realne pytanie o transakcje z ostatniej doby. Endpoint oddaje
+  // tablicę (także pustą), więc odpowiedź potwierdza token, a nie tylko to,
+  // że zmienna istnieje.
+  if (process.env.ADTRACTION_TOKEN) {
+    const dzien = (d) => d.toISOString().slice(0, 19);
+    const o = await pobierz('https://api.adtraction.com/v2/affiliate/transactions', {
+      method: 'POST',
+      headers: { 'X-Token': process.env.ADTRACTION_TOKEN, 'content-type': 'application/json' },
+      body: JSON.stringify({
+        market: 'PL',
+        fromDate: dzien(new Date(Date.now() - 864e5)),
+        toDate: dzien(new Date()),
+        transactionStatus: 1,
+      }),
+    });
+    dostepy.adtraction = o.ok ? { stan: 'ok' } : { stan: 'błąd', status: o.status, powod: o.blad };
+  } else {
+    dostepy.adtraction = { stan: 'brak zmiennych' };
+  }
 
-  // Produkcja — czy worker w ogóle odpowiada i czy przekierowania żyją.
+  // Performers (HasOffers/TUNE) — UWAGA: oddaje HTTP 200 także przy błędzie.
+  // Prawdę mówi dopiero `response.status` (1 = ok, −1 = błąd), więc samo
+  // sprawdzenie kodu HTTP pokazywałoby sukces przy martwym kluczu.
+  if (process.env.PERFORMERS_API_KEY) {
+    const dzis = new Date().toISOString().slice(0, 10);
+    const o = await pobierz(
+      'https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&Target=Affiliate_Report&Method=getStats'
+      + `&fields[]=Stat.clicks&data_start=${dzis}&data_end=${dzis}&api_key=${process.env.PERFORMERS_API_KEY}`,
+    );
+    let odp = null;
+    try {
+      odp = JSON.parse(o.tresc)?.response ?? null;
+    } catch { /* nie JSON — zostaje status */ }
+    dostepy.performers = odp?.status === 1
+      ? { stan: 'ok' }
+      : {
+        stan: 'błąd',
+        status: o.status,
+        powod: jednaLinia(odp?.errors?.map((e) => e.publicMessage).join('; ') || odp?.errorMessage || o.blad || 'API odrzuciło zapytanie'),
+      };
+  } else {
+    dostepy.performers = { stan: 'brak zmiennych' };
+  }
+
+  // Produkcja — czy worker w ogóle odpowiada.
   const strona = await pobierz('https://tylkoklocki.pl/', { redirect: 'manual' });
   dostepy.produkcja = { stan: strona.ok ? 'ok' : 'błąd', status: strona.status, powod: strona.blad };
 
@@ -242,41 +347,45 @@ if (szybko) {
 
 // ── wydruk ───────────────────────────────────────────────────────────────────
 if (jakoJson) {
-  console.log(JSON.stringify(wynik, null, 1));
+  pisz(JSON.stringify(wynik, null, 1));
 } else {
   const znak = (b) => (b ? '✓' : '✗');
   const r = wynik.sekcje.repo;
 
-  console.log(`## Diagnoza środowiska — ${wynik.czas.slice(0, 16).replace('T', ' ')} UTC\n`);
+  pisz(`## Diagnoza środowiska — ${wynik.czas.slice(0, 16).replace('T', ' ')} UTC\n`);
 
-  console.log('**Repo**');
-  console.log(`- gałąź \`${r.galaz}\` @ \`${r.head}\`, origin/main @ \`${r.main_zdalny}\``);
+  pisz('**Repo**');
+  const swiezosc = r.main_odswiezony ? '' : ' *(bez `git fetch` — stan ostatniego pobrania)*';
+  pisz(`- gałąź \`${r.galaz}\` @ \`${r.head}\`, origin/main @ \`${r.main_zdalny}\`${swiezosc}`);
   const plikow = r.niezacommitowane === 1 ? '1 plik niezacommitowany' : `${r.niezacommitowane} plików niezacommitowanych`;
-  console.log(`- ${r.commitow_przed_main} commitów ponad main, ${r.commitow_za_main} do nadrobienia, ${plikow}`);
-  console.log(`- node_modules ${znak(r.node_modules)}, astro ${znak(r.astro)}${r.astro ? '' : '  ← `npm ci` przed buildem'}`);
+  pisz(`- ${r.commitow_przed_main} commitów ponad main, ${r.commitow_za_main} do nadrobienia, ${plikow}`);
+  pisz(`- node_modules ${znak(r.node_modules)}, astro ${znak(r.astro)}${r.astro ? '' : '  ← `npm ci` przed buildem'}`);
 
-  console.log('\n**Zmienne środowiska**');
+  pisz('\n**Zmienne środowiska**');
   const brakujace = Object.entries(wynik.sekcje.zmienne).filter(([, v]) => !v.jest);
-  console.log(`- ustawione: ${Object.values(wynik.sekcje.zmienne).filter((v) => v.jest).length}/${Object.keys(ZMIENNE).length}`);
+  pisz(`- ustawione: ${Object.values(wynik.sekcje.zmienne).filter((v) => v.jest).length}/${Object.keys(ZMIENNE).length}`);
   if (brakujace.length) {
-    for (const [k, v] of brakujace) console.log(`- ✗ \`${k}\` — ${v.opis}`);
+    for (const [k, v] of brakujace) pisz(`- ✗ \`${k}\` — ${v.opis}`);
   } else {
-    console.log('- komplet');
+    pisz('- komplet');
   }
 
-  console.log('\n**Dane**');
+  pisz('\n**Dane**');
   const d = wynik.sekcje.dane;
-  console.log(`- oferty_feed zaktualizowane: ${d.oferty_feed_zaktualizowano ?? '—'}`);
-  console.log(`- ostatni import Empiku: ${d.ostatni_import_empiku || '—'}`);
-  console.log(`- oferty: ${Object.entries(d.ofert_per_sklep).map(([s, n]) => `${s} ${n}`).join(', ')}`);
+  pisz(`- oferty_feed zaktualizowane: ${d.oferty_feed_zaktualizowano ?? '—'}`);
+  pisz(`- rejestr afiliacji zaktualizowany: ${d.rejestr_afiliacji_zaktualizowano ?? '—'}`);
+  pisz(`- import Empiku: ${d.import_empiku.data ?? '—'} — ${d.import_empiku.commit}`);
+  pisz(`- oferty: ${Object.entries(d.ofert_per_sklep).map(([s, n]) => `${s} ${n}`).join(', ')}`);
 
-  if (!szybko) {
-    console.log('\n**Dostępy** *(realne wywołania, nie deklaracje)*');
+  pisz('\n**Dostępy** *(realne wywołania, nie deklaracje)*');
+  if (szybko) {
+    pisz('- nie sprawdzono — tryb `--szybko`');
+  } else {
     for (const [nazwa, v] of Object.entries(wynik.sekcje.dostepy)) {
       const opis = Object.entries(v)
         .filter(([k, w]) => k !== 'stan' && w !== undefined && w !== null)
         .map(([k, w]) => `${k}: ${w}`).join(', ');
-      console.log(`- ${nazwa}: **${v.stan}**${opis ? ` (${opis})` : ''}`);
+      pisz(`- ${nazwa}: **${v.stan}**${opis ? ` (${opis})` : ''}`);
     }
   }
 }
