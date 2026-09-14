@@ -116,10 +116,15 @@ ${listaKategorii}
 
 ## Reguła, o którą najłatwiej się potknąć
 
-**Nie wpisujesz do tekstu żadnej ceny sklepowej.** Podajesz wyłącznie ceny będące
-oceną: cenę katalogową, dobrą cenę, bardzo dobrą cenę i próg zakupu. Kwoty
-sklepowe wstawia redakcja techniczna przy publikacji, znacznikiem, który renderuje
-się przy każdym budowaniu serwisu. W miejscu linków zostawiasz
+**Nie wpisujesz do tekstu bieżącej ceny sklepowej ani daty kontroli cen.**
+Podajesz trwałą drabinę cenową — standard §18 wymienia ją wprost: **RRP,
+normalny poziom rynkowy, dobrą lub bardzo dobrą cenę i uzasadniony próg
+zakupu**; metodologia dokłada **poziom okazji**, jeśli dane na to pozwalają.
+Pomijanie normalnego poziomu rynkowego jest błędem — bez niego czytelnik nie
+wie, względem czego „dobra cena" jest dobra.
+
+Kwoty bieżące wstawia redakcja techniczna przy publikacji, znacznikiem, który
+renderuje się przy każdym budowaniu serwisu. W miejscu linków zostawiasz
 \`[wstaw link afiliacyjny]\`.
 
 Powód jest prosty: artykuł zostaje na stronie latami, a cena zmienia się
