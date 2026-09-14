@@ -37,10 +37,11 @@
    "nazwa": "Fortepian",
    "seria": "Ideas",
    "elementy": 3662,
-   "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
    "uwagi": "Muzycy i fani mechanicznych cudeniek dostali dodatkowy rok na zakup grającego fortepianu, ale chwilowe braki w sklepie pokazują, że końcówka produkcji bywa kapryśna.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_24221_1024_1024/LEGO-Ideas-21323-Fortepian.jpg?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_24221_1024_1024/LEGO-Ideas-21323-Fortepian.jpg?overlay=1",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026"
   },
   {
    "numer": "21333",
@@ -211,7 +212,8 @@
    "kiedy": "grudzień 2026",
    "status": "potwierdzone",
    "uwagi": "Sukulenty od lat są hitem wśród dorosłych budowniczych, więc ich grudniowe zniknięcie z oferty to dobry powód, by kupić je zawczasu.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30639_1024_1024/LEGO-10309-Icons-Sukulenty.png?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30639_1024_1024/LEGO-10309-Icons-Sukulenty.png?overlay=1",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026 — LEGO sprzedaje ostatnie sztuki"
   },
   {
    "numer": "10315",
@@ -278,9 +280,10 @@
    "nazwa": "Endurance",
    "seria": "Icons",
    "elementy": 3011,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Pasjonaci wypraw polarnych mają czas tylko do końca roku, by statek Shackletona trafił na ich półkę w oficjalnej cenie."
+   "uwagi": "Pasjonaci wypraw polarnych mają czas tylko do końca roku, by statek Shackletona trafił na ich półkę w oficjalnej cenie.",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026"
   },
   {
    "numer": "10337",
@@ -394,9 +397,10 @@
    "nazwa": "Każdy jest wspaniały",
    "seria": "Icons",
    "elementy": 346,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Tęczowa ekipa minifigurek to tani, symboliczny zestaw, po który warto sięgnąć przed wycofaniem, bo podobnych propozycji LEGO nie wydaje często."
+   "uwagi": "Tęczowa ekipa minifigurek to tani, symboliczny zestaw, po który warto sięgnąć przed wycofaniem, bo podobnych propozycji LEGO nie wydaje często.",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026"
   },
   {
    "numer": "75192",
@@ -2614,9 +2618,10 @@
    "nazwa": "Kłapouchy",
    "seria": "BrickHeadz",
    "elementy": 156,
-   "kiedy": "grudzień 2026",
-   "status": "przewidywane",
-   "uwagi": "Sympatyczny osiołek z Kubusia Puchatka sprawdzi się jako drobny upominek, ale kupujący prezenty mają na niego czas tylko do końca roku."
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "uwagi": "Sympatyczny osiołek z Kubusia Puchatka sprawdzi się jako drobny upominek, ale kupujący prezenty mają na niego czas tylko do końca roku.",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026"
   },
   {
    "numer": "40801",
@@ -2687,8 +2692,279 @@
    "seria": "BrickHeadz",
    "elementy": 224,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
-   "uwagi": "Bez Megatrona kolekcja Transformers pozostaje niekompletna, a przewidywane wycofanie po jednym sezonie czyni go potencjalnie najrzadszym z trójki."
+   "status": "potwierdzone",
+   "uwagi": "Bez Megatrona kolekcja Transformers pozostaje niekompletna, a przewidywane wycofanie po jednym sezonie czyni go potencjalnie najrzadszym z trójki.",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026 — LEGO sprzedaje ostatnie sztuki"
+  },
+  {
+   "numer": "41382",
+   "nazwa": "Kalendarz adwentowy 2019",
+   "seria": "Friends",
+   "elementy": 330,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Kalendarz adwentowy sprzed kilku sezonów — LEGO nie wznawia roczników, więc jedynym źródłem pozostaje rynek wtórny, gdzie komplety w folii chodzą powyżej dawnej ceny katalogowej."
+  },
+  {
+   "numer": "41353",
+   "nazwa": "Kalendarz adwentowy 2018",
+   "seria": "Friends",
+   "elementy": 500,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Rocznik 2018 zszedł z oferty dawno temu. Kalendarze adwentowe wracają co roku w nowej wersji, ale stare numery nie są wznawiane, więc ceny zależą już wyłącznie od podaży na rynku wtórnym."
+  },
+  {
+   "numer": "30414",
+   "nazwa": "Magiczny kufer Emmy",
+   "seria": "Friends",
+   "elementy": 67,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek z serii Friends, dawno wycofany. Takie polybagi rozchodzą się szybko i po zejściu z oferty bywają droższe od większych zestawów o tej samej liczbie elementów."
+  },
+  {
+   "numer": "71439",
+   "nazwa": "Przygody z interaktywną figurką Mario",
+   "seria": "Super Mario",
+   "elementy": 218,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Interaktywna figurka Mario była sercem całej linii — po jej wycofaniu pozostałe zestawy Super Mario tracą część funkcji, więc zainteresowanie egzemplarzami z rynku wtórnego utrzymuje się mimo zakończenia produkcji."
+  },
+  {
+   "numer": "30702",
+   "nazwa": "Mario Kart - Toad (Pit Crew)",
+   "seria": "Super Mario",
+   "elementy": 39,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii Mario Kart, rozdawany w krótkiej akcji. Poza oficjalnym obiegiem jego cena zależy od tego, ile sztuk trafiło do kolekcjonerów, a nie od liczby elementów."
+  },
+  {
+   "numer": "76957",
+   "nazwa": "Ucieczka welociraptora",
+   "seria": "Jurassic World",
+   "elementy": 137,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Mały zestaw bitewny z Jurassic World, wycofany po dwóch sezonach. Warto porównać go z nowszymi modelami z dinozaurami, zanim sięgnie się po ofertę z rynku wtórnego."
+  },
+  {
+   "numer": "10356",
+   "nazwa": "Star Trek: U.S.S. Enterprise NCC-1701-D",
+   "seria": "Icons",
+   "elementy": 3600,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Duży model kolekcjonerski dla dorosłych, zdjęty z oferty po jednym sezonie. Przy 3 600 elementach i licencji Star Trek takie zestawy po wycofaniu należą do najmocniej drożejących."
+  },
+  {
+   "numer": "30709",
+   "nazwa": "Ferrari 499P – hipersamochód",
+   "seria": "Speed Champions",
+   "elementy": 62,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy dodatek Speed Champions z krótkiej akcji promocyjnej. Zestawy tego typu nie wracają do oferty, a ich cena po wycofaniu bywa wielokrotnością katalogowej."
+  },
+  {
+   "numer": "30686",
+   "nazwa": "Mój pierwszy kwiatek i pszczoła",
+   "seria": "DUPLO",
+   "elementy": 7,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Najmniejszy dodatek DUPLO, siedem elementów rozdawanych przy zakupach. Po zakończeniu akcji dostępny wyłącznie z drugiej ręki."
+  },
+  {
+   "numer": "30695",
+   "nazwa": "Miniaturowy zamek Kopciuszka z ogrodem",
+   "seria": "Disney",
+   "elementy": 52,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy zamek z serii Disney, dodatek do zakupów. Krótka dostępność sprawia, że na rynku wtórnym bywa wyceniany znacznie powyżej pierwotnej wartości."
+  },
+  {
+   "numer": "30694",
+   "nazwa": "Kosmiczny mech naukowy",
+   "seria": "City",
+   "elementy": 49,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek z serii City, rozdawany w ograniczonej akcji. Jego cena poza oficjalnym obiegiem nie ma związku z liczbą elementów."
+  },
+  {
+   "numer": "30701",
+   "nazwa": "Kwiaty polne",
+   "seria": "Botanicals",
+   "elementy": 77,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Mały zestaw botaniczny z akcji promocyjnej. Seria Botanicals ma wiernych zbieraczy, więc nawet drobne dodatki utrzymują wartość po wycofaniu."
+  },
+  {
+   "numer": "30693",
+   "nazwa": "Policyjny skuter wodny",
+   "seria": "City",
+   "elementy": 29,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii City, wycofany po sezonie. Warto porównać go z regularnymi zestawami policyjnymi, zanim sięgnie się po rynek wtórny."
+  },
+  {
+   "numer": "30708",
+   "nazwa": "Minimodel Sokoła Millennium",
+   "seria": "Star Wars",
+   "elementy": 74,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Minimodel Sokoła Millennium z krótkiej akcji. Miniaturowe wersje kultowych statków Star Wars należą do najczęściej poszukiwanych dodatków po zejściu z oferty."
+  },
+  {
+   "numer": "30692",
+   "nazwa": "Święty Mikołaj i świąteczny komin",
+   "seria": "Creator",
+   "elementy": 60,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Świąteczny dodatek sezonowy — wraca do sprzedaży wyłącznie w formie nowych numerów, nie wznowień."
+  },
+  {
+   "numer": "30661",
+   "nazwa": "Budka powitalna Ashy",
+   "seria": "Disney",
+   "elementy": 46,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek promocyjny z serii Disney, dostępny tylko przez jeden sezon."
+  },
+  {
+   "numer": "40906",
+   "nazwa": "Restauracje świata: Japonia",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": 289,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Zestaw z serii Restauracje świata, rozdawany przy zakupach w ograniczonej akcji. Po jej zakończeniu ceny na rynku wtórnym potrafią kilkukrotnie przekroczyć wartość katalogową — to typowe dla dodatków, których LEGO nie sprzedawało osobno."
+  },
+  {
+   "numer": "40892",
+   "nazwa": "Kolekcja odznak z regionu Kanto",
+   "seria": "Pokémon",
+   "elementy": 312,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Kolekcja odznak Pokémon z krótkiej akcji promocyjnej. Zestawy rozdawane przy zakupach nie wracają do oferty, a ich wycena zależy wyłącznie od podaży."
+  },
+  {
+   "numer": "40887",
+   "nazwa": "SMART Play: Ditto jako Squirtle – maraton filmowy",
+   "seria": "Pokémon",
+   "elementy": 185,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Dodatek z linii SMART Play, dostępny przez krótki czas przy zakupach. Poza oficjalnym obiegiem ceny bywają wielokrotnością katalogowej."
+  },
+  {
+   "numer": "40886",
+   "nazwa": "Zakochane pingwiny",
+   "seria": "Seasonal",
+   "elementy": 278,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Sezonowy zestaw walentynkowy — LEGO wypuszcza takie modele na jeden sezon i nie wznawia ich w kolejnych latach."
+  },
+  {
+   "numer": "40911",
+   "nazwa": "Małe Centrum Pokémonów",
+   "seria": "Pokémon",
+   "elementy": 233,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Małe Centrum Pokémonów z akcji promocyjnej. Po zakończeniu akcji dostępne wyłącznie z drugiej ręki."
+  },
+  {
+   "numer": "40908",
+   "nazwa": "Restauracje świata: Grecja",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": 254,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Grecka odsłona serii Restauracje świata, rozdawana przy zakupach. Ta sama zasada co przy pozostałych dodatkach: brak wznowień i cena zależna od podaży."
+  },
+  {
+   "numer": "40885",
+   "nazwa": "Rodzina kaczek",
+   "seria": "Creator",
+   "elementy": 262,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Niewielki zestaw Creator z krótkiej dostępności. Warto porównać go z regularnymi modelami zwierząt, zanim sięgnie się po ofertę z rynku wtórnego."
+  },
+  {
+   "numer": "30733",
+   "nazwa": "Badnik: Skorp",
+   "seria": "Sonic",
+   "elementy": 80,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii Sonic, rozdawany w ograniczonej akcji przy zakupach."
+  },
+  {
+   "numer": "30716",
+   "nazwa": "Uroczy zajączek wielkanocny",
+   "seria": "Creator",
+   "elementy": 66,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Wielkanocny dodatek sezonowy — wraca wyłącznie jako nowy numer w kolejnym roku, nie jako wznowienie."
+  },
+  {
+   "numer": "30734",
+   "nazwa": "Mały bolid F1 ACADEMY",
+   "seria": "Speed Champions",
+   "elementy": 58,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy bolid z akcji promocyjnej Speed Champions, dostępny przez krótki czas."
+  },
+  {
+   "numer": "30736",
+   "nazwa": "Biały wodnosamolot",
+   "seria": "Technic",
+   "elementy": 82,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek Technic z krótkiej akcji przy zakupach."
   }
  ]
 }
