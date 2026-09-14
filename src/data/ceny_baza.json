@@ -1592,9 +1592,9 @@
  "10463": {
   "nazwa": "Dinozaur Spidey-Rex i Zielony Goblin",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 53.9,
-  "najnizsza_data": "2026-09-10",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 52.98,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "71859": {
   "nazwa": "Smok życia",
@@ -1821,8 +1821,8 @@
  "71861": {
   "nazwa": "Stare miasto — 15-lecie",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1539.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 1524.98,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "empik"
  },
  "60508": {
@@ -2612,9 +2612,9 @@
  "60339": {
   "nazwa": "Kaskaderska arena z dwoma pętlami",
   "cena_katalogowa": 699.99,
-  "najnizsza_cena": 689.99,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "planetaklockow"
+  "najnizsza_cena": 349.0,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "42202": {
   "nazwa": "Motocykl Ducati Panigale V4 S",
@@ -4089,9 +4089,9 @@
  "40816": {
   "nazwa": "Dekoracyjna Pisanka",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.89,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 49.98,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "71414": {
   "nazwa": "Conkdor's Noggin Bopper - zestaw rozszerzający",
@@ -4145,8 +4145,8 @@
  "43221": {
   "nazwa": "100 lat kultowych animacji Disneya",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 134.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 133.33,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "empik"
  },
  "76831": {
@@ -4551,8 +4551,8 @@
  "31174": {
   "nazwa": "Telefon w stylu retro, zabawka konstrukcyjna dla dzieci",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 79.98,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "empik"
  },
  "60505": {
@@ -5181,9 +5181,9 @@
  "43270": {
   "nazwa": "Kajakowa przygoda Vaiany",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 176.22,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 172.45,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "75372": {
   "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",
@@ -6875,8 +6875,8 @@
  "40721": {
   "nazwa": "Halloweenowa stodoła",
   "cena_katalogowa": 64.99,
-  "najnizsza_cena": 44.62,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 43.59,
+  "najnizsza_data": "2026-09-14",
   "najnizsza_sklep": "empik"
  },
  "43032": {
@@ -7400,9 +7400,9 @@
  "60429": {
   "nazwa": "Statek kosmiczny i odkrywanie asteroidy",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 89.74,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 88.8,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "11215": {
   "nazwa": "Koci przyjaciele Gabi z klocków",
@@ -7792,9 +7792,9 @@
  "40809": {
   "nazwa": "Świąteczna chatka z piernika",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 131.86,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 130.84,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "71830": {
   "nazwa": "Burzowy jeździec-mech Kaia",
@@ -7869,15 +7869,15 @@
  "43307": {
   "nazwa": "Kosmita z bujaną rakietą Pizza Planet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 279.99,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 248.98,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  },
  "76921": {
   "nazwa": "Wyścigowe Audi S1 E-tron Quattro",
   "cena_katalogowa": 119.99,
-  "najnizsza_cena": 103.98,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 91.69,
+  "najnizsza_data": "2026-09-14",
+  "najnizsza_sklep": "empik"
  }
 }
