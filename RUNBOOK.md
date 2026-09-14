@@ -743,6 +743,33 @@ zawiera statusy także polecanych produktów, trzeba czytać obiekt z właściwy
   `/deale/`). Musi mieścić się w jednym widoku bez przewijania w poziomie.
   Przy zmianie komponentu tabeli poprawiamy oba renderery (komponent i remark).
 
+## LEGO.com: link z huba *(sprawdzone 14.09.2026)*
+
+Raport Kontrolera z 14.09 podał, że 222 oferty LEGO.com nie mają linku i klik
+wraca na naszą stronę główną. **Sprawdzone na produkcji — to nieprawda.**
+`/idz/lego/42232` oddaje `302` na `lego.com/pl-pl/product/42232`; worker ma dla
+LEGO fallback z samego numeru i on działa.
+
+Wierszy LEGO.com bez linku jest w serwisie 3 015 i **wszystkie dotyczą zestawów
+po EOL** — zamiast przycisku stoi tam „produkcja zakończona". To zachowanie
+zamierzone: nie wysyłamy czytelnika do sklepu, który zestawu już nie sprzedaje.
+Wierszy z działającym linkiem jest 954.
+
+Co mimo to zmieniliśmy: fallback opiera się na CUDZYM przekierowaniu — lego.com
+rozwija skrót z numerem na pełny adres ze slugiem. Działa, ale z naszego
+środowiska nie da się tego monitorować (lego.com odrzuca ruch serwerowy: 403 na
+curl i na WebFetch), więc gdyby LEGO je wyłączyło, dowiedzielibyśmy się od
+czytelnika. `scripts/lego-redirects.mjs` wpisuje kanoniczne adresy kart produktu
+z katalogu lego.pl — 741 zestawów, sprawdzając, że adres kończy się numerem.
+Reszta korzysta z fallbacku jak dotąd.
+
+    node scripts/lego-redirects.mjs katalog-legopl.json --sucho
+    node scripts/lego-redirects.mjs katalog-legopl.json
+
+Warto odświeżać przy każdym nowym zaciągu katalogu (`scripts/firecrawl-legopl.mjs`).
+
+---
+
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
 
 Serwer nie ma dostępu do lego.com (403 na ruch z data center) i to była nasza
