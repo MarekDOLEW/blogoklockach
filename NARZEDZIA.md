@@ -246,14 +246,23 @@ więcej niż przyznanie, że się nie wie.
 
 ## Harmonogram: generowany, nie pisany
 
-Prawda o triczach mieszka w Routines w koncie Marka. Każdy ręcznie pisany opis
-harmonogramu zaczyna się rozjeżdżać w dniu powstania — stało się to już dwa
+Prawda o triggerach mieszka w Routines w koncie Marka. Każdy ręcznie pisany opis
+harmonogramu zaczyna się rozjeżdżać w dniu powstania — stało się to już cztery
 razy (`COWORK-INSTRUKCJA.md` pokazywał Radar 3× dziennie i Łowcę o 09:00;
 `materialy/zadania-cykliczne.md` pokazywał Kontrolera jako aktywnego, gdy był
-wyłączony od 18.08).
+wyłączony od 18.08; 14.09.2026 siedem z ośmiu wierszy kolumny „Ostatnie
+odpalenie" wisiało na 31.08, a nagłówek dokumentu twierdził „stan 31.08" nad
+treścią opisującą 14.09).
 
-Dlatego `materialy/zadania-cykliczne.md` jest **zrzutem realnej konfiguracji**,
-odświeżanym cyklicznie, z nagłówkiem i datą. Nikt go nie edytuje ręcznie.
+**Od 14.09.2026 jest czym to generować.** Sekcja „Zrzut" w
+`materialy/zadania-cykliczne.md` leży między znacznikami `HARMONOGRAM:START`
+i `HARMONOGRAM:KONIEC` i przepisuje ją `scripts/harmonogram-z-konta.mjs`
+z odpowiedzi `list_triggers`. Wszystko poza znacznikami to wiedza pisana ręcznie
+i generator jej nie rusza. Uruchamia to Kontroler przy cotygodniowym raporcie —
+ma jako jedyny z runnerów konektor `Claude_Code_Remote` (pozostałe pięć ma zero
+konektorów, sprawdzone 14.09), więc tylko w jego przebiegu ta sekcja może
+powstać. Ręczna poprawka w tej sekcji jest błędem: przepadnie przy najbliższym
+przebiegu i po drodze da fałszywe poczucie, że dokument jest aktualny.
 
 Zrzut musi zawierać dla każdego zadania: nazwę, cron, **flagę enabled**, datę
 ostatniego odpalenia i pliki, do których zapisuje. Flaga `enabled` i data

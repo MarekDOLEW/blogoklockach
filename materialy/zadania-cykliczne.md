@@ -1,15 +1,20 @@
 # Zadania cykliczne (Routines)
 
-**Zrzut realnej konfiguracji: 31.08.2026, 15:25.** Odczytany z Routines w koncie
-Marka (`list_triggers` + `list_sessions`), nie pisany z pamięci.
+Sekcja „Zrzut" niżej jest **generowana**, nie pisana. Leży między znacznikami
+`HARMONOGRAM:START` i `HARMONOGRAM:KONIEC`; wszystko poza nimi to wiedza pisana
+ręcznie i generator jej nie dotyka.
 
-Sekcja „Zrzut" **nie jest edytowana ręcznie** — przy każdym przeglądzie nadpisuje
-się ją w całości nowym odczytem i podbija datę w nagłówku. Powód: ręcznie pisany
-harmonogram rozjeżdżał się już trzy razy (patrz `NARZEDZIA.md`, sekcja
-„Harmonogram: generowany, nie pisany").
+Jak powstaje: sesja z konektorem `Claude_Code_Remote` woła `list_triggers`,
+zapisuje odpowiedź do pliku i uruchamia `node scripts/harmonogram-z-konta.mjs
+<plik>.json`. Routines nie mają API dostępnego dla skryptu w repo, więc odczyt
+musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Robi to
+Kontroler przy cotygodniowym raporcie.
 
-Zrzutu nie zrobi skrypt w repo — Routines nie mają API dostępnego z kontenera.
-Robi go sesja Claude Code wywołaniem `list_triggers`.
+**Dlaczego nie ręcznie.** Sprawdzone 14.09.2026: siedem z ośmiu wierszy kolumny
+„Ostatnie odpalenie" pokazywało 31.08, gdy konto mówiło 14.09. Zgadzał się
+jedyny wiersz ruszony tego dnia ręcznie, a nagłówek twierdził „stan 31.08" nad
+treścią opisującą 14.09. Harmonogram pisany ręcznie rozjechał się już cztery
+razy (patrz `NARZEDZIA.md`, „Harmonogram: generowany, nie pisany").
 
 **Zmierzone 14.09.2026: konektory są przypięte do Routine, nie do środowiska.**
 Wywołanie `list_triggers` zadziała tylko w sesji, która ma konektor
@@ -29,21 +34,45 @@ Czyli sekcja o harmonogramie może powstawać **wyłącznie w raporcie Kontroler
 w ogóle, a `session_request.environment_variables` jest puste u wszystkich
 dwunastu Routines i niczego o dostępach nie dowodzi.
 
+<!-- HARMONOGRAM:START — generuje scripts/harmonogram-z-konta.mjs, nie edytuj ręcznie -->
+
 ## Zrzut — runnery LEGO
 
-Cron w UTC, kolumna „PL" przy obecnym CEST (UTC+2). Odczyt objął **12 Routines
-na koncie** (pełna lista, bez paginacji; stan 14.09.2026).
+**Odczyt z konta: 14.09 17:30 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
 
-| Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie | Trigger | Sesja |
+Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
+z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
+
+| Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Scout nowości | `0 3 * * *` | 05:00 | ✅ | 31.08 05:05 | `trig_01Nos3qQb8GJFAVMR1SyEEZT` | `session_012AZejbFzsfzkTh4FPaAkVg` |
-| Wycofania | `10 4 * * 1` | pon 06:10 | ✅ | 07.09 06:10 | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` |
-| Radar konkurencji | `0 6 * * *` | 08:00 | ✅ | 31.08 08:01 | `trig_01UpMJdpeguEtby68saqBMpD` | `session_01UFkqKNwQexnxLN34HotM4G` |
-| Łowca promocji | `30 6 * * *` | 08:30 | ✅ | 31.08 08:41 | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` |
-| Kontroler (raport tygodnia) **[env projektu]** | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 08:57 — **SUCCEEDED** | `trig_01JhfcGMgzv1nBwiguH93m6N` | świeża sesja przy każdym odpaleniu |
-| ~~Kontroler — STARY~~ | `0 7 * * 1` | pon 09:00 | ❌ wyłączony 14.09 | 14.09 07:10 | `trig_01T8AhciW8JD651MrSMuEj7m` | — |
-| Backfill cen katalogowych | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` | `session_01JSfUBJxddBbATeaXhQ6efS` |
-| Social: paczka tygodniowa | `0 8 * * 0` | ndz 10:00 | ❌ zawieszone | nigdy | `trig_01W1CSp8PM3DDN6UEyNLYe6H` | — |
+| LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 14.09 05:05 | ✅ SUCCEEDED | `trig_01Nos3qQb8GJFAVMR1SyEEZT` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 14.09 08:01 | ✅ SUCCEEDED | `trig_01UpMJdpeguEtby68saqBMpD` |
+| LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
+| LEGO pon 09:00 — Kontroler (raport tygodnia) [STARY, wyłączony 14.09 — zastąpiony przez env projektu] | `0 7 * * 1` | pon 09:00 | ❌ wyłączony | 14.09 09:10 | ✅ SUCCEEDED | `trig_01T8AhciW8JD651MrSMuEj7m` |
+| LEGO ndz 10:00 — Social: paczka tygodniowa (ZAWIESZONE do startu kanałów) | `0 8 * * 0` | ndz 10:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01W1CSp8PM3DDN6UEyNLYe6H` |
+| LEGO pon 06:00 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 14.09 06:10 | ✅ SUCCEEDED | `trig_01EZNzF51DPkHRyKkS7MhNBn` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 14.09 08:39 | ✅ SUCCEEDED | `trig_014koskPHBgxP79gLKcLqGvf` |
+
+### Pozostałe Routines na tym samym koncie
+
+Nie dotyczą serwisu, ale **dzielą z runnerami ten sam limit użycia** — a to on
+wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był pełny.
+
+| Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
+|---|---|---|---|---|---|---|
+| send_later 2026-08-15T06:00Z #25932e | `jednorazowo 15.08 08:00` | — | ❌ auto_disabled_session_gone | — | — nigdy nie odpalony | `trig_013x6kw7r5J1a1YBES3V3YuH` |
+| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 14.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
+| Herzfaden — poniedziałkowy raport tygodniowy | `0 6 * * 1` | pon 08:00 | ✅ | 14.09 08:04 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
+| inwestycja IV kwartal | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+
+### Kolizje — zadania na tej samej minucie
+
+- `0 7 * * 1` (pon 09:00):
+  - LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu]
+  - inwestycja IV kwartal
+
+<!-- HARMONOGRAM:KONIEC -->
 
 ### Dwa Kontrolery — dlaczego stary jest wyłączony *(14.09.2026)*
 
@@ -75,21 +104,11 @@ i prompt (ten sam w obu). Gdyby nowy okazał się gorszy, wystarczy
 był wyłączony od 15.08, zniknął z konta między 30 a 31.08. Nie odtwarzać:
 drugi przebieg Radara został wycofany świadomie 21.08 dla oszczędności limitu.
 
-### Pozostałe Routines na tym samym koncie
+### Poniedziałek rano — wąskie gardło
 
-Nie dotyczą serwisu, ale **dzielą z runnerami ten sam limit użycia** — a to on
-wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był pełny.
-
-| Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie |
-|---|---|---|---|---|
-| Angielski — tygodniowy plan nauki | `0 5 * * 1` | pon 07:00 | ✅ | 31.08 07:19 |
-| Herzfaden — raport tygodniowy | `0 6 * * 1` | pon 08:00 | ✅ | 31.08 08:05 |
-| inwestycja IV kwartał | `0 7 * * 1` | pon 09:00 | ✅ | 31.08 09:23 |
-| `send_later` z 15.08 (jednorazowy) | — | — | ❌ | `auto_disabled_session_gone` |
-
-Poniedziałek rano to wąskie gardło: **pięć zadań między 07:00 a 09:30**
-(Angielski, Herzfaden, Radar, Łowca, Kontroler + inwestycja). Przy kolejnym
-uderzeniu w limit to jest pierwsze miejsce do rozsunięcia.
+**Pięć zadań między 07:00 a 09:30** (Angielski, Herzfaden, Radar, Łowca,
+Kontroler + inwestycja). Przy kolejnym uderzeniu w limit to jest pierwsze
+miejsce do rozsunięcia. Aktualną listę kolizji podaje blok generowany wyżej.
 
 ### Co zapisuje każdy runner
 
@@ -104,11 +123,13 @@ uderzeniu w limit to jest pierwsze miejsce do rozsunięcia.
 
 ### Uwagi do odczytu
 
-- **`last_fired_at` zwracają wszystkie triggery** — to na nim opiera się kolumna
-  „Ostatnie odpalenie". Pełny `last_run` ze statusem (`SUCCEEDED` / `FAILED`)
-  zwracają wyłącznie zadania tworzące świeżą sesję, czyli u nas Kontroler.
-  Dla runnerów przypiętych do trwałej sesji wiemy więc, **że** trigger wystrzelił,
-  ale nie **czy** przebieg się udał — dowodem jest dopiero commit w historii `main`.
+- **`last_run` ze statusem zwracają także triggery przypięte do trwałej sesji.**
+  Sprawdzone 14.09.2026 na pełnej liście: Scout, Radar, Łowca i Wycofania mają
+  `persist_session: true` i komplet statusów. Wcześniej stało tu, że status
+  dostajemy wyłącznie od zadań tworzących świeżą sesję — **to była nieprawda**
+  (albo API się zmieniło). Status jest pusty wyłącznie tam, gdzie trigger nigdy
+  nie wystrzelił: Backfill i Social. Mimo to `SUCCEEDED` mówi o przebiegu sesji,
+  nie o tym, że dane wylądowały w repo — dowodem zapisu jest commit w `main`.
 - **Odpalenie ≠ dane na produkcji.** Commity runnerów potrafiły spóźnić się
   7–12 godzin przy zakolejkowaniu na limicie (patrz `RUNBOOK.md`, „Runnery:
   opóźnione commity"). Przy diagnozie „strona ma stare ceny" sprawdzaj czas
