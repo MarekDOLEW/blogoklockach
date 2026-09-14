@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 14.09 17:30 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 14.09 17:36 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -64,13 +64,13 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 | send_later 2026-08-15T06:00Z #25932e | `jednorazowo 15.08 08:00` | — | ❌ auto_disabled_session_gone | — | — nigdy nie odpalony | `trig_013x6kw7r5J1a1YBES3V3YuH` |
 | Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 14.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
 | Herzfaden — poniedziałkowy raport tygodniowy | `0 6 * * 1` | pon 08:00 | ✅ | 14.09 08:04 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
-| inwestycja IV kwartal | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
 
 ### Kolizje — zadania na tej samej minucie
 
-- `0 7 * * 1` (pon 09:00):
-  - LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu]
-  - inwestycja IV kwartal
+- **pon 08:00 PL (06:00 UTC)**
+  - LEGO 08:00 — Radar konkurencji (runner, Opus 5) — `0 6 * * *`
+  - Herzfaden — poniedziałkowy raport tygodniowy — `0 6 * * 1`
 
 <!-- HARMONOGRAM:KONIEC -->
 
@@ -106,9 +106,28 @@ drugi przebieg Radara został wycofany świadomie 21.08 dla oszczędności limit
 
 ### Poniedziałek rano — wąskie gardło
 
-**Pięć zadań między 07:00 a 09:30** (Angielski, Herzfaden, Radar, Łowca,
-Kontroler + inwestycja). Przy kolejnym uderzeniu w limit to jest pierwsze
-miejsce do rozsunięcia. Aktualną listę kolizji podaje blok generowany wyżej.
+Poniedziałek to najciaśniejsze okno tygodnia — chodzi wtedy wszystko codzienne
+plus cztery zadania tygodniowe, na jednym limicie konta. Rozkład po rozsunięciu
+z 14.09.2026 (czas PL):
+
+| PL | UTC | Zadanie |
+|---|---|---|
+| 05:00 | 03:00 | Scout nowości (codziennie) |
+| 06:10 | 04:10 | Wycofania |
+| 07:00 | 05:00 | Angielski |
+| 08:00 | 06:00 | Radar (codziennie) **+ Herzfaden** ← kolizja |
+| 08:30 | 06:30 | Łowca promocji (codziennie) |
+| 09:00 | 07:00 | Kontroler |
+| 10:00 | 08:00 | inwestycja IV kwartał |
+
+**14.09.2026: inwestycja przesunięta z `0 7 * * 1` na `0 8 * * 1`**, bo startowała
+w tej samej minucie co Kontroler. Została kolizja Radara z Herzfadenem o 08:00 —
+inny projekt, więc do decyzji Marka. Wolne pełne godziny w tym oknie: 04:00,
+09:00, 10:00, 11:00 UTC.
+
+Aktualną listę kolizji podaje blok generowany wyżej. Detektor rozwija crona na
+realne momenty tygodnia, a nie porównuje napisów — inaczej `0 6 * * *`
+i `0 6 * * 1` wyglądałyby na rozbieżne, choć w poniedziałki są tą samą minutą.
 
 ### Co zapisuje każdy runner
 

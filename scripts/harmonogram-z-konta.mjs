@@ -131,12 +131,42 @@ const inne = routines.filter((r) => !/^LEGO\b/i.test(r.name)).sort(sortCron).map
 // Dwa włączone zadania na tej samej minucie to albo duplikat po delete+create,
 // albo zderzenie na limicie konta. Dwa Kontrolery chodziły tak przez miesiąc
 // i nikt tego nie zauważył, bo nikt nie porównywał listy z listą.
+//
+// Porównywanie NAPISÓW crona nie wystarcza — pierwsza wersja tego detektora tak
+// robiła i przegapiła zderzenie Radara (`0 6 * * *`, codziennie) z Herzfadenem
+// (`0 6 * * 1`): różne napisy, ta sama minuta w każdy poniedziałek. Dlatego
+// rozwijamy crona na realne momenty tygodnia i grupujemy po nich.
+const DOBA = [0, 1, 2, 3, 4, 5, 6];
+function momenty(cron) {
+  const [min, godz, , , dow] = cron.split(/\s+/);
+  if (!/^\d+$/.test(min)) return [];            // nieobsługiwane wyrażenie — nie zgadujemy
+  const godziny = (godz === '*' ? [] : godz.split(',')).filter((g) => /^\d+$/.test(g));
+  const dni = dow === '*' ? DOBA : dow.split(',').filter((d) => /^\d+$/.test(d)).map(Number);
+  return godziny.flatMap((g) => dni.map((d) => `${d}|${String(g).padStart(2, '0')}:${min.padStart(2, '0')}`));
+}
+
 const kolizje = {};
 for (const r of routines) {
   if (!r.enabled || !r.cron_expression) continue;
-  (kolizje[r.cron_expression] ??= []).push(r.name);
+  for (const m of momenty(r.cron_expression)) (kolizje[m] ??= []).push(r);
 }
-const zderzenia = Object.entries(kolizje).filter(([, l]) => l.length > 1);
+// jedno zadanie może zderzać się w kilka dni tygodnia — pokazujemy parę raz
+const widziane = new Set();
+const zderzenia = [];
+for (const [moment, lista] of Object.entries(kolizje).sort()) {
+  if (lista.length < 2) continue;
+  const klucz = lista.map((r) => r.id).sort().join('+') + moment.split('|')[1];
+  if (widziane.has(klucz)) continue;
+  widziane.add(klucz);
+  const [dzien, czas] = moment.split('|');
+  const [gg, mm] = czas.split(':').map(Number);
+  const hPL = (gg + PRZESUNIECIE + 24) % 24;
+  const przeskok = gg + PRZESUNIECIE >= 24 ? 1 : (gg + PRZESUNIECIE < 0 ? -1 : 0);
+  zderzenia.push({
+    opis: `${DNI[(Number(dzien) + przeskok + 7) % 7]} ${String(hPL).padStart(2, '0')}:${String(mm).padStart(2, '0')} PL (${czas} UTC)`,
+    zadania: lista.map((r) => `${r.name} — \`${r.cron_expression}\``),
+  });
+}
 
 // ── tekst ────────────────────────────────────────────────────────────────────
 const tabela = (wiersze) => [
@@ -168,10 +198,7 @@ const blok = [
   '### Kolizje — zadania na tej samej minucie',
   '',
   ...(zderzenia.length
-    ? zderzenia.flatMap(([cron, lista]) => [
-      `- \`${cron}\` (${cronNaPL(cron)}):`,
-      ...lista.map((n) => `  - ${n}`),
-    ])
+    ? zderzenia.flatMap((z) => [`- **${z.opis}**`, ...z.zadania.map((n) => `  - ${n}`)])
     : ['- brak — żadne dwa włączone zadania nie startują w tej samej minucie']),
   '',
   KONIEC,
@@ -192,7 +219,7 @@ const nowy = dokument.slice(0, i) + blok + dokument.slice(j + KONIEC.length);
 
 console.log(`Routines: ${routines.length} (LEGO: ${lego.length}, pozostałe: ${inne.length}).`);
 console.log(`Włączonych: ${routines.filter((r) => r.enabled).length}. Kolizji: ${zderzenia.length}.`);
-for (const [cron, lista] of zderzenia) console.log(`  KOLIZJA ${cron}: ${lista.join(' + ')}`);
+for (const z of zderzenia) console.log(`  KOLIZJA ${z.opis}: ${z.zadania.join('  +  ')}`);
 
 if (sucho) {
   console.log('\n--sucho: nic nie zapisano. Podgląd bloku:\n');
