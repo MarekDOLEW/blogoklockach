@@ -92,6 +92,40 @@ feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
 
 ---
 
+## Empik: deeplinki produktowe *(przygotowane 14.09.2026)*
+
+Do 14.09 `/idz/empik/<nr>` prowadził na wyszukiwarkę Empiku — nie z lenistwa,
+tylko dlatego, że **feed Tradedoublera nie zawiera zestawów LEGO** (weryfikacja
+na pełnym pliku 2,5 GB z 19.08: 10316, 21348, 76454, 60337 — zero trafień; to
+marketplace: gabloty, opłatki, magazyny). Adresów kart nie było skąd wziąć.
+
+Bierzemy je teraz z tygodniowego zrzutu Coworka (skill `klocki-ceny-empik`,
+nowe pole `url`), a wgrywa je `scripts/empik-redirects.mjs`:
+
+    node scripts/empik-redirects.mjs lego-empik.json --sucho          # podgląd
+    node scripts/empik-redirects.mjs lego-empik.json --usun-martwe
+
+**Afiliacja zostaje nietknięta.** Adres produktu pakujemy w ten sam deeplink
+`clk.tradedoubler.com/click?p=289664&a=3494691&url=<adres>` — prowizję liczy
+tracker, cel jest w nim tylko parametrem. Bezpośredni link do empik.com
+oznaczałby klik bez prowizji, więc skrypt odrzuca wszystko, co nie jest kartą
+produktu na empik.com (w tym adresy wyszukiwarki).
+
+**Worker bez zmian.** Bierze wpis z `redirects.json` przed swoją wyszukiwarką,
+więc zestawy bez adresu zachowują dotychczasowe zachowanie.
+
+**Dlaczego `--usun-martwe`.** Cena starzeje się z dnia na dzień, ale adres karty
+nie — Empik trzyma w URL stabilne ID produktu. Link psuje się dopiero, gdy
+produkt zniknie z oferty, a wtedy znika też z naszego zrzutu i to jest sygnał do
+skasowania wpisu. Zestaw wraca wtedy na wyszukiwarkę, która nigdy nie oddaje 404.
+To jedyny wyjątek od append-only w `src/data/` — zapisany w CLAUDE.md.
+
+**Po zmianie skilla trzeba go wgrać do Coworka:** `node scripts/spakuj-skille.mjs`
+i przeciągnięcie `skille/klocki-ceny-empik.skill` w Settings → Skills. Synchronizacja
+idzie tylko serwer → kontener, więc z sesji nie da się tego zrobić.
+
+---
+
 ## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
 
 Pomiar z Analytics Engine za 7–14.09: **939 kliknięć w `/idz/`, z czego 867
