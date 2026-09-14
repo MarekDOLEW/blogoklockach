@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 14.09 17:43 (CEST, UTC+2).** Objął **12 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 14.09 17:53 (CEST, UTC+2).** Objął **11 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -49,7 +49,6 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 14.09 05:05 | ✅ SUCCEEDED | `trig_01Nos3qQb8GJFAVMR1SyEEZT` |
 | LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 14.09 08:01 | ✅ SUCCEEDED | `trig_01UpMJdpeguEtby68saqBMpD` |
 | LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
-| LEGO pon 09:00 — Kontroler (raport tygodnia) [STARY, wyłączony 14.09 — zastąpiony przez env projektu] | `0 7 * * 1` | pon 09:00 | ❌ wyłączony | 14.09 09:10 | ✅ SUCCEEDED | `trig_01T8AhciW8JD651MrSMuEj7m` |
 | LEGO ndz 10:00 — Social: paczka tygodniowa (ZAWIESZONE do startu kanałów) | `0 8 * * 0` | ndz 10:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01W1CSp8PM3DDN6UEyNLYe6H` |
 | LEGO pon 06:00 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 14.09 06:10 | ✅ SUCCEEDED | `trig_01EZNzF51DPkHRyKkS7MhNBn` |
 | LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 14.09 08:39 | ✅ SUCCEEDED | `trig_014koskPHBgxP79gLKcLqGvf` |
@@ -72,34 +71,37 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 
 <!-- HARMONOGRAM:KONIEC -->
 
-### Dwa Kontrolery — dlaczego stary jest wyłączony *(14.09.2026)*
+### Kontroler — jeden trigger *(14.09.2026)*
 
-Kontroler odpalał się rano dwa razy: stary trigger z 11.08 o 07:10 UTC i nowy
-`[env projektu]`, założony 14.09 o 08:54, o 08:57. Oba `0 7 * * 1`, oba
-SUCCEEDED — czyli dwa raporty w każdy poniedziałek i podwójne zużycie limitu
-w najciaśniejszym oknie tygodnia.
+Rano odpalały się dwa: stary z 11.08 (`trig_01T8AhciW8JD651MrSMuEj7m`) o 07:10
+UTC i nowy `[env projektu]` (`trig_01JhfcGMgzv1nBwiguH93m6N`) o 08:57. Oba
+`0 7 * * 1`, oba SUCCEEDED — dwa raporty w każdy poniedziałek i podwójne zużycie
+limitu w najciaśniejszym oknie tygodnia.
 
-**Zmierzona różnica: liczba konektorów.** Stary ma trzy (Adobe, Google Calendar,
-Claude_Code_Remote), nowy sześć (dodatkowo Alpha Vantage, Canva, Firecrawl).
-Dla nas liczy się to, że oba mają `Claude_Code_Remote`, więc oba potrafiłyby
-odczytać harmonogram — ale krok generujący sekcję ma w promptcie tylko nowy.
+**Stary został skasowany 14.09.** Najpierw tylko wyłączony, jako zapas na wypadek
+gdyby nowy okazał się gorszy — ale po przepisaniu promptu ten zapas przestał być
+zapasem: stary miał wersję sprzed 14.09 (3840 znaków, bez diagnozy środowiska,
+bez filtra botów, bez harmonogramu i bez prowizji zmierzonych), więc włączenie go
+cofnęłoby cały dzień pracy. Do tego wyłączony trigger dalej pokazywał
+`next_run_at`, co przy pobieżnym czytaniu wygląda jak zaplanowany przebieg.
 
-Czego dalej NIE wiadomo: w jakim środowisku startuje który.
+**Zostaje jeden: `trig_01JhfcGMgzv1nBwiguH93m6N`**, poniedziałek 09:00 PL.
+
+Zmierzona różnica między nimi, zanim stary zniknął: stary miał trzy konektory
+(Adobe, Google Calendar, Claude_Code_Remote), nowy ma sześć (dodatkowo Alpha
+Vantage, Canva, Firecrawl). Oba miały `Claude_Code_Remote`, więc oba potrafiłyby
+odczytać harmonogram.
+
+Czego nie udało się ustalić: w jakim środowisku startował który.
 `session_request.environment_variables` jest puste u **wszystkich** Routines na
-koncie, także u nowego — to pole trzyma nadpisania, a nie zmienne środowiska,
-więc niczego nie dowodzi (moja pierwsza wersja tego akapitu twierdziła inaczej
-i była błędna). `list_triggers` nie zwraca `environment_id` w ogóle. Poszlaka
-jest taka: nowy trigger nazwano `[env projektu]`, a raport z 14.09
-(`materialy/kontroler-2026-09-14.md`) nie ma sekcji o kliknięciach, EPC,
-widoczności i indeksacji, i stąd jego rekomendacja numer jeden brzmi
-„przywrócić poświadczenia" — w środowisku projektu one są i działają
-(sprawdzone 14.09: `kliki-raport.mjs --dni 7` zwraca 940 kliknięć,
-`gsc-raport.mjs --dni 7` — 70 wyświetleń i 1 klik). Raport nie był więc błędny,
-tylko opisywał środowisko bez dostępów.
-
-Stary trigger jest **wyłączony, nie skasowany** — zachowuje historię przebiegów
-i prompt (ten sam w obu). Gdyby nowy okazał się gorszy, wystarczy
-`update_trigger` z `enabled: true`.
+koncie — to pole trzyma nadpisania, a nie zmienne środowiska, więc niczego nie
+dowodzi (pierwsza wersja tego akapitu twierdziła inaczej i była błędna).
+`list_triggers` nie zwraca `environment_id` w ogóle. Poszlaka jest taka, że
+raport starego z 14.09 (`materialy/kontroler-2026-09-14.md`, 07:30 UTC) nie ma
+sekcji o kliknięciach, EPC, widoczności ani indeksacji i rekomenduje „przywrócić
+poświadczenia" — a w środowisku projektu te poświadczenia są i działają
+(sprawdzone 14.09: `kliki-raport.mjs` i `gsc-raport.mjs` zwracają dane).
+Raport nie był więc błędny, tylko opisywał środowisko bez dostępów.
 
 **Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) już nie istnieje** —
 był wyłączony od 15.08, zniknął z konta między 30 a 31.08. Nie odtwarzać:
