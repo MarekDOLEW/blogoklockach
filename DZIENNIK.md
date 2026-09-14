@@ -1918,3 +1918,53 @@ zweryfikować 21375 Godzilla (przeciek czy oficjalna zapowiedź LEGO Ideas).
 mówi „Dostępne teraz" – dlatego `--napraw` w skrypcie audytu nie może być
 ślepy (reguła 5 w RUNBOOK). „Wyprzedane" (K_SOLD_OUT) nie jest ani
 dostępnością, ani EOL – nie przestawiamy po nim katalogu automatycznie.
+
+## 2026-09-14 · CODE (Radar) · Zero publikacji u konkurencji; skutek uboczny poprawki wycofań
+
+**Pierwszy dzień bez ani jednej nowej publikacji** na fanklockow i faniklockow.
+Bazy konkurencji nie commitowałem — zgodnie z instrukcją przebiegu.
+
+### Moje zgłoszenie z 12.09 zostało wdrożone i wdrożone dobrze
+
+**51 zestawów ze sprzecznym statusem → 0.** Runner Wycofań przestawił statusy
+w katalogu na `eol`, zgodnie z definicją, i przy okazji zapisał w
+`wycofania.json/_meta.regula_statusow` porządną regułę rozróżniania
+„potwierdzone" (sygnał od LEGO) od „przewidywane" (zgodne prognozy co najmniej
+**dwóch** źródeł branżowych). Huby wycofanych zestawów zostały — generują się
+z listy wycofań niezależnie od statusu.
+
+**108 zestawów z listy konkurencji: wciąż żadnego nie dodano — i to jest
+poprawne zachowanie, nie przeoczenie.** Ich nowa reguła wymaga przy prognozie
+dwóch zgodnych źródeł, a lista faniklockow to jedno. Zamykam ten wątek po swojej
+stronie: nie jest zaległością, tylko oczekiwaniem na drugie źródło.
+
+### Skutek uboczny, przed którym ostrzegałem — zmierzony
+
+Populacja kolejki redakcyjnej spadła z **1135 na 922**. Wypadło z niej
+**67 zestawów** z rocznika 2020–2026, bo zmieniły status na `eol`.
+
+Z tych 67: **65 ma dziś ofertę w sklepie**, a **14 nie ma u nas żadnego tekstu**.
+I najciekawsze — większość chodzi **powyżej ceny katalogowej**:
+
+| Zestaw | Katalogowa | Dziś |
+|---|---|---|
+| 76417 Bank Gringotta | 1849,99 | **3179,00** |
+| 10305 Zamek rycerzy herbu Lew | 1749,99 | **2399,99** |
+| 21323 Fortepian | 1699,99 | **1778,00** |
+| 21335 Latarnia morska | 1299,99 | **1489,00** |
+| 76430 Sowiarnia w Hogwarcie | 199,99 | **246,44** |
+
+**To są zestawy, przy których nasza funkcja jest najbardziej potrzebna.** Ktoś
+widzi Gringotta za 3179 zł i nie ma pojęcia, że katalogowo kosztował 1849,99 —
+a my przy czternastu z nich nie mamy ani zdania. Wypadnięcie z kolejki jest
+logiczne (zestaw nie jest już w sprzedaży u LEGO), ale akurat te pozycje
+zasługują na tekst bardziej niż niejedna bieżąca nowość.
+
+**Propozycja dla redakcji, nie decyzja:** kolejka redakcyjna filtruje po statusie
+`dostepny`. Warto rozważyć drugi, mniejszy strumień — „wycofane, ale wciąż
+kupowane i bez opisu". Czternaście pozycji to robota na kilka dni, a dotyka
+zestawów z najwyższymi koszykami w całym serwisie.
+
+To uzupełnia arkusz `materialy/zestawy-bez-opisu.xlsx` z 10.09: jego arkusz 2
+pokazywał 3716 takich pozycji w całym katalogu, ale bez wyróżnienia tych
+świeżo wycofanych i drożejących.
