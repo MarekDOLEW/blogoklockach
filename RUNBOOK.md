@@ -161,6 +161,12 @@ Engine zostaje w obu przypadkach — doszedł `blob6` z wartością `human`/`bot
     SELECT blob6 AS kto, SUM(_sample_interval) AS kliki FROM idz_kliki
     WHERE timestamp > NOW() - INTERVAL '7' DAY GROUP BY kto
 
+**`scripts/kliki-raport.mjs` od 14.09 domyślnie liczy wyłącznie `human`** —
+suma z raportu będzie więc mniejsza niż z powyższego zapytania, i to jest
+zamierzone. Pełny ruch daje `--wszystko`. Kliknięcia sprzed wdrożenia mają
+`blob6` puste i raport pokazuje je osobno jako „nieoznaczone", bo nie da się
+ich zaklasyfikować wstecz.
+
 **Czego pilnować:** gdyby kiedyś doszła restrykcyjna `Referrer-Policy` albo
 `rel="noreferrer"` na linkach `/idz/`, filtr zacznie odcinać własnych
 czytelników. Dziś polityka jest domyślna, a linki mają tylko `sponsored nofollow`

@@ -13,7 +13,8 @@ zadania cykliczne (runnery) i sesje robocze.
    - `RUNBOOK.md` — wiedza operacyjna, pulapki, procedury awaryjne
    - `DZIENNIK.md` — biezace zadania i wymiana miedzy sesjami (ostatnie 14 dni
      + sekcja „Ustalenia trwałe”; starsze wpisy w `materialy/dziennik-archiwum-*`,
-     przenosi je `node scripts/archiwum-dziennika.mjs`)
+     przenosi je `node scripts/archiwum-dziennika.mjs` — uruchamia Kontroler
+     co poniedziałek, nowy wpis wstawiaj pod linią znacznika `WPISY PONIŻEJ`)
 
 ## Skille i standardy — jedno źródło
 

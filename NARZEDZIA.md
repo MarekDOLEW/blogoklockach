@@ -110,15 +110,17 @@ zdublowana praca na plikach po 2 MB.
 
 ## Runnery cykliczne należą do Claude Code
 
-Scout, Wycofania, Łowca, Radar, Backfill, Kontroler i Social działają jako
-trwałe sesje Claude Code Remote i pushują do repo.
+Scout, Wycofania, Łowca, Radar i Backfill działają jako trwałe sesje Claude
+Code Remote (`persist_session: true`); Kontroler i Social startują świeżą sesją
+przy każdym odpaleniu. Wszystkie pushują do repo. Rozróżnienie ma znaczenie
+praktyczne: promptu trwałej sesji nie zmienia się przez `update_trigger`
+(patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie").
 
-**Cowork nie uruchamia tych zadań.** Skille `klocki-scout-nowosci`,
-`klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`
-zainstalowane w Cowork to uśpione duplikaty — zapisują do
-`~/Documents/Claude/Projects/blogoklockach/`, czyli w próżnię. Ich wynik nigdy
-nie dotrze na produkcję i nie zgłosi błędu. **Do odinstalowania z Cowork albo
-przepisania na tryb wyłącznie czytający.**
+**Cowork nie uruchamia tych zadań.** Uśpione duplikaty `klocki-scout-nowosci`,
+`klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`, które
+zapisywały w próżnię do `~/Documents/Claude/Projects/blogoklockach/`, **zostały
+odinstalowane** — stan na 14.09.2026: w koncie są `klocki-afiliacje`,
+`klocki-seo`, `klocki-social`, `klocki-ceny-empik` i dwa standardy.
 
 Skille `klocki-redaktor`, `klocki-social`, `klocki-seo` i `klocki-afiliacje`
 zostają — to treść i research, czyli właściwa robota Coworka.

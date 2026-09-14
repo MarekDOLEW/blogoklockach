@@ -23,7 +23,7 @@ czy czeka, aż ktoś je wywoła.
 | `prowizje-raport.mjs` | Kontroler | Prowizje zmierzone: Adtraction, Performers, Tradedoubler |
 | `diagnoza.mjs` | Kontroler, KROK 0 | Co widzi środowisko — zmienne, repo, dane, realne wywołania |
 | `harmonogram-z-konta.mjs` | Kontroler | Przepisuje sekcję „Zrzut" w `materialy/zadania-cykliczne.md` z `list_triggers` |
-| `wyslij-raport.py` | runnery z raportem | Wysyła PDF na adresy z `src/data/raporty_mail.json` |
+| `wyslij-raport.py` | **nikt dziś** — Kontroler dostarcza PDF przez `SendUserFile` | Droga mailowa przez Resend (`RESEND_API_KEY`), adresy z `src/data/raporty_mail.json`. Zostaje jako zapas, gdyby SendUserFile przestał wystarczać |
 
 ## Build i treść
 
@@ -61,19 +61,24 @@ Budżet: 1000 kredytów miesięcznie. Szczegóły w `NARZEDZIA.md`.
 ## Kontrola i listingi — uruchamiasz, gdy coś podejrzewasz
 
 Te nie mają odwołań w dokumentach i właśnie dlatego wyglądały na martwe.
-Wszystkie działają (sprawdzone 14.09.2026, wynik w nawiasie).
+Wszystkie uruchomione i sprawdzone 14.09.2026. Liczb z wyników tu nie ma —
+zmieniają się co przebieg, a ten plik ma być prawdziwy za miesiąc.
 
-| Skrypt | Do czego | Ostatni wynik |
+| Skrypt | Do czego | Zapisuje |
 |---|---|---|
-| `audyt-wycofan.mjs` | Porównuje trzy źródła prawdy o statusie EOL | — |
-| `kontrola-ofert.mjs` | Oferty odrzucone przez odsiew — te same reguły co w serwisie | — |
-| `ceny-powyzej-rrp.mjs` | Zestawy z najniższą ofertą powyżej ceny katalogowej | 129 pozycji, z tego 42 to błąd naszego statusu |
-| `lista-do-indeksacji.mjs` | Adresy z autorską treścią do ręcznego zgłoszenia w GSC | działa, wypisuje listę |
-| `zestawy-bez-ceny.py` | W sprzedaży, z podstroną, bez znanej ceny katalogowej | 29 pozycji, 16 z kartą Piotra |
-| `karty-poza-kolejka.py` | Karty Piotra, które wypadają z kolejki redakcyjnej | 0 pozycji — czysto |
-| `bez-opisu-od-najnowszych.py` | Zestawy bez opisu, od najnowszych | — |
-| `kolejka-redakcyjna.py` | Kolejka redakcyjna do XLSX | — |
-| `import-karty.py` | Import kart zestawów z paczek Piotra | — |
+| `audyt-wycofan.mjs` | Porównuje trzy źródła prawdy o statusie EOL | stdout |
+| `kontrola-ofert.mjs` | Oferty odrzucone przez odsiew — te same reguły co w serwisie | stdout |
+| `ceny-powyzej-rrp.mjs` | Zestawy z najniższą ofertą powyżej ceny katalogowej; `--lego` rozdziela EOL od błędu statusu | stdout |
+| `lista-do-indeksacji.mjs` | Adresy z autorską treścią do ręcznego zgłoszenia w GSC | stdout |
+| `zestawy-bez-ceny.py` | W sprzedaży, z podstroną, bez znanej ceny katalogowej | `materialy/zestawy-bez-ceny.xlsx` |
+| `karty-poza-kolejka.py` | Karty Piotra, które wypadają z kolejki redakcyjnej | `materialy/karty-poza-kolejka.xlsx` |
+| `bez-opisu-od-najnowszych.py` | Zestawy bez opisu, od najnowszych | `materialy/zestawy-bez-opisu.xlsx` |
+| `kolejka-redakcyjna.py` | Kolejka redakcyjna | `materialy/kolejka-redakcyjna.xlsx` |
+| `import-karty.py` | Import kart zestawów z paczek Piotra | `src/data/karty_setow.json` |
+
+Uwaga do plików `.xlsx`: po każdym uruchomieniu git pokazuje je jako zmienione,
+nawet gdy dane są identyczne — zip zapisuje czas. Zanim zacommitujesz, porównaj
+`xl/worksheets/sheet1.xml` po rozpakowaniu; sam `docProps/core.xml` to szum.
 
 ## Raporty analityczne
 
@@ -96,7 +101,7 @@ eksporcie — zdarzyło się to 09.09 i wyszło dopiero 14.09.
 
 | Skrypt | Do czego |
 |---|---|
-| `archiwum-dziennika.mjs` | Wpisy starsze niż 14 dni z `DZIENNIK.md` do archiwum miesięcznego |
+| `archiwum-dziennika.mjs` | Wpisy starsze niż 14 dni z `DZIENNIK.md` do archiwum miesięcznego. **Uruchamia Kontroler co poniedziałek** (od 14.09.2026); sesja może odpalić ręcznie w każdej chwili |
 | `md-na-pdf.py` | Markdown → HTML do wydruku; PDF robi headless Chromium (użycie na końcu pliku) |
 
 ---
