@@ -314,6 +314,16 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**15.09.2026 (późne popołudnie)**
+- Scout odtworzony (delete+create, ta sama stała sesja) pod ID
+  `trig_01Rvt1kEmrv2Ltis4oYJS5EN`, cron `0 3 * * *`: krok PRZECIEKI — właściciel
+  `src/data/przecieki.json` (dopisywanie z drabiną pewności, rozstrzygnięcia po
+  premierze), przecieki nie wchodzą do `sety.json`. Stary
+  `trig_01VSNGR5PnnobJW9i9x5PAmQ` skasowany od razu. Kontroler (prompt z konta):
+  repo najpierw, `routines.json` w /tmp, commit obu generowanych plików, huby
+  i inspekcja URL co tydzień, „Zadania bez właściciela". Prompty czterech Routine
+  z panelu (LEGO.pl, Alerty, R2, Empik) wymienione przez Marka; Social skasowany.
+
 **15.09.2026 (wieczór)** — Marek założył w panelu (z repo jako źródłem) cztery
 Routine ze świeżą sesją: Zdjęcia → R2 `trig_01EAhU5SKn2GuXxY14WYxNkJ` (`0 2 * * *`),
 Przypomnienie Empik `trig_01BWC5ydHBNVE5Q8usmf62PN` (`15 6 * * 1`, 08:15 PL),
