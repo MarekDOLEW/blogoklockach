@@ -154,7 +154,12 @@ function wiersz(r) {
   } else if (kiedy) {
     status = '— odpalony, bez zapisanego statusu';
   } else {
-    status = '— nigdy nie odpalony';
+    // delete+create zeruje historię: trigger sprzed kilku dni bez przebiegu to
+    // zwykle świeżo odtworzony, nie martwy (audyt 15.09: 7 fałszywych alarmów)
+    const dniOdUtworzenia = r.created_at ? Math.floor((Date.now() - Date.parse(r.created_at)) / 864e5) : null;
+    status = dniOdUtworzenia !== null && dniOdUtworzenia <= 7
+      ? `— utworzony ${r.created_at.slice(0, 10)}, bez przebiegu od tego czasu (sprawdź commity runnera)`
+      : '— nigdy nie odpalony';
   }
   const stan = r.enabled
     ? '✅'

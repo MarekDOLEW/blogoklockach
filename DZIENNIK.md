@@ -47,6 +47,31 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 14:50 · CODE · Audyt, przebieg 2 — 11 napraw na main, reszta do decyzji Marka
+
+Raport: `materialy/audyt-mechanizmu-2026-09-15b.md` (PDF na czacie). Trzy równoległe
+przeglądy: przepływ danych runnerów, SEO/UX, redakcja–sprzedaż–konkurencja.
+
+**Naprawione (497043e → ef836e7 + ten commit):** cena w meta/JSON-LD huba bez Ceneo
+(737 hubów obiecywało w Google cenę niższą niż tabela — najpewniejsza przyczyna 0% CTR);
+`SearchAction` → `/szukaj/`; eksport skilli (nie uruchamiał się od 08:19, skill mówił
+odwrotnie niż decyzja o opcjonalnym poziomie rynkowym — paczki wysłane Markowi);
+alerty liczą RRP jak hub i pomijają ceny starsze niż 2 dni; wspólny zapis JSON
+z kolejnością kluczy (`scripts/json-kolejnosc.mjs`) w `lego-ceny` i `ceneo-feed`;
+`daty.ceneo` zamiast nadpisywania wspólnej daty; auto-EOL po 14 dniach poza listingiem
+lego.pl; `RESEND_API_KEY`/`GH_PUSH_TOKEN` w diagnozie; `sharp` zadeklarowany;
+`routines.json` w .gitignore; prompt Kontrolera przepisany na koncie (repo najpierw,
+commit obu generowanych plików, huby i inspekcja URL co tydzień, „Zadania bez właściciela").
+
+**Do Marka (sekcja 10 raportu):** zgoda na worker (limit `/obserwuj`, komunikat przy
+odrzuconym refererze `/idz/`, 301 dla przekierowań), delete+create Łowcy i Wycofań,
+usunięcie 4 duplikatów katalogu, 4 prompty do wklejenia w panelu (plik na czacie —
+API nie edytuje Routine z panelu), przecieki, kategorie, karty, kadencja, `/kolekcjoner/`,
+zrzut Empiku (3 968 cen bez deeplinków — jedyny sklep ze zmierzoną transakcją).
+
+**Ustalenie (do „Ustaleń trwałych" po akceptacji):** decyzja o runnerze = zmiana
+promptu tego samego dnia + linijka w ustaleniach; DZIENNIK nie jest kanałem do runnerów.
+
 ## 2026-09-15 10:50 · CODE · Opisy producenta (166 PDF) + „Obserwuj zestaw" gotowe na gałęzi
 
 - **Opisy z kart lego.pl**: 166 zestawów w sprzedaży bez opisu i bez karty
