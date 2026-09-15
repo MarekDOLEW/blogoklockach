@@ -1038,7 +1038,7 @@ ostatni kafelek na stronie zgarnia stopkę listingu (odcinamy na „Wyświetla N
 a etykieta statusu musi dopuszczać cyfry — bez nich przepada „Czyszczenie magazynu
 -30%", jedyna informacja przesądzająca o tym, że cena jest promocyjna.
 
-## Alerty cenowe „Obserwuj zestaw" *(zbudowane 15.09.2026, czeka na włączenie)*
+## Alerty cenowe „Obserwuj zestaw" *(na produkcji od 15.09.2026)*
 
 Hub zestawu ma formularz (`src/components/ObserwujCene.astro`) → `POST /obserwuj`
 w workerze → obiekt `_obserwuj/<nr>/<token>.json` w kubełku R2 `tylkoklocki-obrazy`
@@ -1048,11 +1048,12 @@ z Resend (double opt-in, link `/obserwuj/potwierdz?nr=&t=`) → codziennie
 zestaw jest ≥20% poniżej ceny katalogowej (próg „dobry" z reguł deali) i taniej
 niż przy ostatnim alercie. Rezygnacja: `/obserwuj/rezygnuj?nr=&t=` kasuje obiekt.
 
-Do włączenia potrzebne są dwie rzeczy, których Code nie zrobi:
-1. sekret `RESEND_API_KEY` w workerze (Workers → blogoklockach → Settings →
-   Variables and Secrets → Add secret). Bez niego worker odsyła na hub ze stanem
-   `niedostepne` i nic nie zapisuje;
-2. Routine „Alerty cen" w panelu (prompt nr 4 w `materialy/routine-prompty-2026-09-15.md`).
+Worker ma sekret `RESEND_API_KEY` (dodany ręcznie w panelu 15.09: Workers →
+blogoklockach → Settings → Variables and Secrets). Bez niego worker odsyła na hub
+ze stanem `niedostepne` i nic nie zapisuje. Maile z alertami wysyła Routine
+„Alerty cen" (prompt nr 4 w `materialy/routine-prompty-2026-09-15.md`) — bez
+niego zapisy się zbierają, ale nikt nie dostaje alertu. Podgląd zapisów bez
+wysyłki: `node scripts/alerty-cen.mjs --sucho`.
 
 Nadawca `alerty@tylkoklocki.pl` — ta sama domena, którą Resend ma już
 zweryfikowaną dla `raporty@`. Polityka prywatności ma sekcję o alertach

@@ -55,15 +55,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   30685, 60198, 12010…) — to polybagi i zestawy spoza listingu „all-sets".
   Firecrawl: plan darmowy ma limit 10 zapytań/min — pierwsze podejście straciło
   136 z 166 na 429; skrypt ma teraz odstęp 6,5 s i ponowienie po minucie.
-- **„Obserwuj zestaw" (alerty cenowe) zbudowane, NIE na produkcji**: commit
-  `b3d5a08` na gałęzi `claude/lego-cyclic-tasks-access-b3k6jl`. Formularz na hubie,
+- **„Obserwuj zestaw" (alerty cenowe) — na produkcji od 11:20** (Marek dodał sekret
+  `RESEND_API_KEY` w workerze i dał „tak"; push `4c3a636`). Test na żywo: zły
+  e-mail → `zly-email`, honeypot → udany „wyslano" bez zapisu, zły token → 400,
+  zapis `kontakt@tylkoklocki.pl` → obiekt w R2 + mail potwierdzający z Resend
+  (kliknięcie linku z tej skrzynki kończy test end-to-end); `alerty-cen.mjs --sucho`
+  widzi zapis. Zostaje Routine nr 4 do założenia w panelu. Formularz na hubie,
   trasy `/obserwuj` w workerze (zapis w R2, double opt-in przez Resend),
   `scripts/alerty-cen.mjs` (próg 20% poniżej RRP, kasowanie niepotwierdzonych po
   7 dniach), polityka prywatności z sekcją RODO. Trasy przetestowane na atrapie R2
   (zapis, zły e-mail, honeypot, potwierdzenie, zły token, rezygnacja, brak sekretu).
-  Zmiana dotyka `src/worker.js`, więc czeka na „tak" Marka; przed włączeniem
-  potrzebny sekret `RESEND_API_KEY` w workerze i Routine nr 4 z
-  `materialy/routine-prompty-2026-09-15.md`.
+  Prompt Routine: nr 4 w `materialy/routine-prompty-2026-09-15.md`.
 
 ## 2026-09-15 10:20 · CODE · LEGO.pl co tydzień: ceny, dostępność, ekskluzywy + strona /ekskluzywne/
 
