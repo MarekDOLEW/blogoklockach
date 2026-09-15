@@ -97,6 +97,11 @@ które worker pobiera sam.
 
 **Uwagi:** decyzja Marka 15.09: „dlaczego nie może być bazy co już jest wgrane" —
 słusznie; odpowiedzią jest kubełek jako baza, nie nowy plik.
+Przebieg testowy Routine (sesja `session_01XtaGYLcaUj6N8LtrqzYSen`, 06:48–06:51 PL):
+zakończony bez błędu (IDLE po 3 min 20 s, 65 tys. tokenów, model sonnet-5
+z domyślnych ustawień Routine). Linijki podsumowania nie da się odczytać z tej
+sesji przez API — widać ją w claude.ai/code. Kontrola pośrednia: listowanie R2
+po przebiegu nadal „brakuje 0", czyli skrypt nie zepsuł stanu.
 
 
 ## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
