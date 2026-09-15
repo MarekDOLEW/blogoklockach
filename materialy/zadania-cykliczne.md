@@ -157,6 +157,7 @@ Tamta kolizja przez to wisiała niezauważona.
 | Radar konkurencji | `konkurencja_baza.json` + rekomendacje redakcyjne |
 | Backfill | `katalog.json` → pole `cena_katalogowa` |
 | Kontroler | `materialy/zadania-cykliczne.md` — sekcja między znacznikami HARMONOGRAM (od 14.09.2026); poza tym raport PDF, nie plik w repo |
+| Zdjęcia → R2 | nic w repo — wgrywa pliki do kubełka R2 `tylkoklocki-obrazy` (`scripts/r2-obrazy.mjs`); świeża sesja, bez commitów |
 
 ### Uwagi do odczytu
 
@@ -189,6 +190,7 @@ Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
 
 | Zadanie | Dziś (CEST) | Po 25.10 (CET) |
 |---|---|---|
+| Zdjęcia → R2 | 04:00 | 03:00 |
 | Scout nowości | 05:00 | 04:00 |
 | Wycofania | pon 06:10 | pon 05:10 |
 | Angielski | pon 07:00 | pon 06:00 |
@@ -297,6 +299,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**15.09.2026**
+- Nowy Routine „LEGO 04:00 — Zdjęcia → R2 (Planeta Klocków)"
+  (`trig_01TSSqtf4ke7wfxwbmkAp6GM`, cron `0 2 * * *`, świeża sesja na każdy
+  przebieg). Uruchamia `node scripts/r2-obrazy.mjs`: listuje kubełek R2
+  i dogrywa zdjęcia z Planety, których worker sam nie pobierze. Bez zaległości
+  trwa kilkanaście sekund. Godzina 04:00 PL leży przed Scoutem (05:06) i nie
+  koliduje z niczym. Powód: audyt 14.09 — 348 z 608 zdjęć galerii dawało 502.
 
 **31.08.2026**
 - Łowca przesunięty na 08:30 (cron `30 6 * * *`). Nocny feed ME ląduje na GCS

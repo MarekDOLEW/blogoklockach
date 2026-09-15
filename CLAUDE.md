@@ -130,6 +130,10 @@ Sekcja „Zrzut" w tym pliku jest **generowana** — leży między znacznikami
 Kontroler w cotygodniowym raporcie. Nie poprawiaj jej ręcznie.
 Łowca korzysta z `scripts/feedy-lego.py` (wyciąg ofert LEGO z feedów), Ceneo
 odświeża `scripts/ceneo-feed.mjs`.
+Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:00 dogrywa je
+do R2 Routine „Zdjęcia → R2" (`node scripts/r2-obrazy.mjs`). Po dopisaniu galerii
+do `galerie.json` w sesji uruchom ten skrypt od razu, żeby nowy tekst nie czekał
+z pustymi miniaturami do rana.
 
 ## Rejestr afiliacji
 

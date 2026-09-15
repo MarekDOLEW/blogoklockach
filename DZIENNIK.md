@@ -47,6 +47,34 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 06:55 · CODE · Zdjęcia → R2: rejestrem jest kubełek, codzienny Routine o 04:00
+
+**Zrobione:** pełny przegląd zdjęć głównych (10 664 na produkcji): 10 530 działa,
+z Planety brakowały 3 (dograne), reszta to martwe źródła Rebrickable. Planeta jest
+więc w R2 w całości: 4 991 głównych + 608 galerii. Problem dotyczył tylko przyszłości.
+- `scripts/r2-obrazy.mjs` przepisany: **rejestrem „co wgrane" jest listowanie
+  kubełka R2** (12 stron po 1000 kluczy), nie plik stanu w repo — plik rozjeżdżałby
+  się przy ręcznym wgraniu albo kasowaniu, kubełek nie. Przebieg bez zaległości:
+  **16 s** (było 15 min HEAD-ów). `--sprawdz` zostaje jako audyt produkcji, który
+  widzi też martwe źródła.
+- Nowy Routine „LEGO 04:00 — Zdjęcia → R2" (`trig_01TSSqtf4ke7wfxwbmkAp6GM`,
+  `0 2 * * *`, świeża sesja): `git fetch` + skrypt + jednolinijkowy raport.
+  Osobny trigger zamiast kroku w Scoucie: nowe zdjęcia przychodzą z trzech stron
+  (Scout, Łowca, sesje z tekstami), jeden sprzątacz jest prostszy niż trzy kroki,
+  a istniejących triggerów nie trzeba odtwarzać.
+- CLAUDE.md: sesja, która dopisuje galerię, uruchamia skrypt od razu — nowy tekst
+  nie czeka z pustymi miniaturami do rana.
+
+**Stan:** przebieg testowy Routine odpalony ręcznie 06:48 — wynik niżej w „Uwagi".
+
+**Dla drugiej strony:** Scout — nic nie zmieniasz; Routine o 04:00 dogra to, co
+dopiszesz o 05:00 następnego dnia, a huby nowości i tak mają zdjęcia z Allegro/ME,
+które worker pobiera sam.
+
+**Uwagi:** decyzja Marka 15.09: „dlaczego nie może być bazy co już jest wgrane" —
+słusznie; odpowiedzią jest kubełek jako baza, nie nowy plik.
+
+
 ## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
 
 **Zrobione:** Marek dodał `CF_R2_TOKEN` (osobny token *Workers R2 Storage: Edit*).
