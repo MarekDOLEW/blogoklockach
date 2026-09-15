@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-13",
-    "przebieg": "scheduled 2026-09-13 08:00",
+    "ostatnia_aktualizacja": "2026-09-15",
+    "przebieg": "scheduled 2026-09-15 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 154,
+    "liczba_wpisow": 160,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -1853,6 +1853,84 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Cykliczny skrot popkulturowy, nie material o klockach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Mamy oficjalne wycofanie ponad 100 zestawow - LEGO odslania karty",
+      "url": "https://faniklockow.pl/2026/09/14/mamy-oficjalne-wycofanie-ponad-100-zestawow-lego-tradycyjnie-odslania-karty/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Allegro",
+        "Smyk",
+        "Media Expert",
+        "Amazon"
+      ],
+      "notatki": "WYDARZENIE SEZONU. LEGO potwierdzilo w dziale 'Ostatnie Sztuki' wycofanie ponad 100 zestawow na koniec 2026. Najwazniejszy: 75192 Sokol Millennium UCS, 3599,99 zl, po prawie dziesieciu latach produkcji. Poza tym 10326 Muzeum, 10335 Endurance, 10341 Rakieta SLS, 21333 Van Gogh, 21351 Miasteczko Halloween, 21353 Ogrod botaniczny, 21356 Parowiec, 43263 Zamek z Pieknej i Bestii, 75367 Venator, 75397 Barka Jabby, 76294 Instytut Xaviera, 76437 Nora. Nasza lista ma wszystkie trzynascie - zadnego nie brakuje. ALE piec ma u nas status 'przewidywane', a oni podaja je jako potwierdzone przez LEGO: 21333, 21351, 21353, 21356, 76437. Zgloszone runnerowi Wycofan do weryfikacji w dziale Ostatnie Sztuki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Planowane wycofania LEGO (EOL) na 12.2026 - kompletna lista",
+      "url": "https://fanklockow.pl/wycofania-lego-eol-na-12-2026-kompletna-lista/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Rownolegla lista u drugiego serwisu, mowia o ok. 150 zestawach oficjalnie potwierdzonych. Oba serwisy reaguja tego samego dnia - to standardowy wrzesniowy rytual LEGO, warto go wpisac do naszego kalendarza redakcyjnego jako powtarzalna date."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Pick a Brick na LEGO.pl - 1800 elementow znika na koniec 2026",
+      "url": "https://fanklockow.pl/pick-a-brick-lego-eol-2026/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Wycofania pojedynczych elementow z Pick a Brick, nie zestawow. Poza naszym zakresem - nie prowadzimy danych o pojedynczych klockach i nie ma tam czego porownywac miedzy sklepami."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BLDP 2028, Fala 1 - zgloszenia pomyslow",
+      "url": "https://fanklockow.pl/bldp-2028-fala-1-mozna-zglaszac-pomysly/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BrickLink Designer Program - granica zakresu ustalona 03.09, bez zmian."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Biuletyn specjalny dla Patronow 14/2026 - przecieki na koniec 2026 (platny)",
+      "url": "https://fanklockow.pl/%f0%9f%94%92-biuletyn-specjalny-dla-patronow-14/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRUKTURALNA U KONKURENCJI, nie tresc. Platny biuletyn dla patronow z przeciekami - czyli monetyzuja informacje przed publikacja. To inny model niz nasz (afiliacja z linkow), ale warto wiedziec, ze czesc ich najswiezszych danych jest za plotkiem i moze do nas docierac z opoznieniem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Ninjago) - 71830 Burzowy jezdziec-mech Kaia",
+      "url": "https://faniklockow.pl/2026/09/14/okazja-cenowa-ninjago-71830-burzowy-jezdziec-mech-kaia/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro"
+      ],
+      "notatki": "Pojedyncza okazja dnia."
     }
   ],
   "obserwacje_strategiczne": {

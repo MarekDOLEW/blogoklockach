@@ -1128,3 +1128,55 @@ zestawów z najwyższymi koszykami w całym serwisie.
 To uzupełnia arkusz `materialy/zestawy-bez-opisu.xlsx` z 10.09: jego arkusz 2
 pokazywał 3716 takich pozycji w całym katalogu, ale bez wyróżnienia tych
 świeżo wycofanych i drożejących.
+
+## 2026-09-15 · CODE (Radar) · LEGO potwierdziło wycofania — to zmienia priorytety
+
+**Wydarzenie sezonu.** LEGO potwierdziło 14.09 w dziale „Ostatnie Sztuki"
+wycofanie **ponad stu zestawów** na koniec 2026. Oba serwisy branżowe zareagowały
+tego samego dnia. To powtarzalny wrzesniowy rytuał producenta — warto wpisać tę
+datę do kalendarza redakcyjnego jako stałą.
+
+**Nasza lista ma wszystkie trzynaście zestawów, które wymieniają z nazwy.**
+Żadnego nie brakuje. Zwiadowca i ręczna weryfikacja Marka nadrobiły to w ciągu
+doby (271 → 314 pozycji).
+
+### Dla runnera Wycofań: pięć statusów do przeglądu
+
+Te pozycje mają u nas `przewidywane`, a serwisy podają je jako **potwierdzone
+przez LEGO** (obecne w „Ostatnie Sztuki"):
+
+`21333` Van Gogh · `21351` Miasteczko Halloween · `21353` Ogród botaniczny ·
+`21356` Parowiec rzeczny · `76437` Nora
+
+Nie przestawiam sam — zgodnie z regułą z 13.09 `potwierdzone` wymaga sygnału od
+LEGO, a tego nie zweryfikuję (lego.com blokuje ruch serwerowy). Runner Wycofań
+ma metodę i dostęp.
+
+### Najważniejsze dla treści: mamy dziurę przy najdroższym zestawie w serwisie
+
+**75192 Sokół Millennium UCS — 3599,99 zł katalogowo, wycofanie grudzień 2026
+potwierdzone, dziś 3047,89 zł u Media Expert (15% poniżej cennika).
+I NIE MAMY O NIM ANI ZDANIA** — ani karty Piotra, ani person, ani opisu.
+
+To najdroższa pozycja w całym katalogu, schodzi z produkcji po prawie dziesięciu
+latach, jest w tym momencie przeceniona, a nasza strona nie umie o niej nic
+powiedzieć. Podobnie **10326 Muzeum** (1299,99) i **43263 Zamek z Pięknej
+i Bestii** — ten drugi w ogóle nie ma u nas ceny katalogowej.
+
+To dokładnie ten strumień, który zaproponowałem wczoraj („wycofane, wciąż
+kupowane, bez opisu"), tyle że po wczorajszym ogłoszeniu przestał być
+propozycją porządkową, a stał się pilny.
+
+### Rekomendacja: przesunąć tekst o wycofaniach
+
+Plan ma „Wycofania grudnia 2026" z oknem **1–20 października**. LEGO potwierdziło
+listę **wczoraj**, więc decyzja zakupowa czytelnika jest teraz, a nie za trzy
+tygodnie. Proponuję przesunąć okno na **17–30 września** i oprzeć tekst na
+potwierdzonej liście zamiast na prognozach — to pierwszy raz w tym sezonie, gdy
+możemy pisać o wycofaniach na danych poziomu A.
+
+### Obserwacja o konkurencji
+
+fanklockow uruchomili **płatny biuletyn dla patronów** z przeciekami. Monetyzują
+informację przed publikacją — inny model niż nasz. Praktyczny wniosek: część ich
+najświeższych danych jest za płotkiem i może do nas docierać z opóźnieniem.
