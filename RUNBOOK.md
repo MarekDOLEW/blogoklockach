@@ -163,13 +163,15 @@ w razie potrzeby.** Nie blokuje to wyszukiwania: OAI-SearchBot (ChatGPT search �
 trening. Gdyby Claude, Perplexity albo inny asystent miał nas polecać, trzeba
 zdjąć ClaudeBot / PerplexityBot w panelu: Cloudflare → AI Crawl Control.
 
-## HTTP bez przekierowania na HTTPS *(wykryte 15.09.2026)*
+## HTTP → HTTPS *(wykryte i naprawione 15.09.2026)*
 
-`http://tylkoklocki.pl/` oddaje **200**, nie 301 na https — Search Console
-pokazuje wyświetlenia dla `http://tylkoklocki.pl/`, czyli Google widzi dwie
-wersje. Poprawka jest w panelu, nie w repo: Cloudflare → SSL/TLS → Edge
-Certificates → **Always Use HTTPS** (włącz). `www.` nie ma rekordu DNS —
-w porządku, serwis jest bez www.
+Do 15.09 `http://tylkoklocki.pl/` oddawało **200** zamiast 301 i Search Console
+widziała dwie wersje serwisu. Marek włączył w panelu Cloudflare → SSL/TLS →
+Edge Certificates → **Always Use HTTPS**. Sprawdzone tego samego dnia: strona
+główna, hub, `/img/` i `/idz/` oddają **301** na https jednym skokiem. `www.`
+nie ma rekordu DNS — w porządku, serwis jest bez www. Nagłówka HSTS nie ma;
+to opcja (Cloudflare → HSTS), nie konieczność — włączać dopiero, gdy nic
+w serwisie nie ma już wracać na http, bo przeglądarki pamiętają ją miesiącami.
 
 ## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
 
