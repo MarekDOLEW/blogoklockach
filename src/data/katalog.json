@@ -574,9 +574,10 @@
    "nazwa": "Hokus Pokus: chata sióstr Sanderson",
    "rok": 2023,
    "elementy": 2316,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": 999.99,
-   "status_zrodlo": "lego.com/pl-pl, 13.09.2026: H_OUT_OF_STOCK (Chwilowo niedostępne)"
+   "status_zrodlo": "lego.com/pl-pl, 13.09.2026: H_OUT_OF_STOCK (Chwilowo niedostępne)",
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "21342",
@@ -1242,8 +1243,9 @@
    "nazwa": "Creator Bukiet kwiatów",
    "rok": 2021,
    "elementy": 756,
-   "status": "dostepny",
-   "cena_katalogowa": 249.99
+   "status": "eol",
+   "cena_katalogowa": 249.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2021-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10281",
@@ -3936,8 +3938,9 @@
    "nazwa": "Gabinet Dumbledore’a z Harrym Potterem",
    "rok": 2026,
    "elementy": 42,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-02 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40901",
@@ -7732,8 +7735,9 @@
    "nazwa": "Sergeant Jyn Erso",
    "rok": 2016,
    "elementy": 104,
-   "status": "dostepny",
-   "cena_katalogowa": 99.99
+   "status": "eol",
+   "cena_katalogowa": 99.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2016-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "75120",
@@ -11052,8 +11056,9 @@
    "nazwa": "Minimodel TIE Interceptor",
    "rok": 2024,
    "elementy": 48,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40686",
@@ -11352,8 +11357,9 @@
    "nazwa": "Hybryda TIE Fightera i X-Winga",
    "rok": 2024,
    "elementy": 1063,
-   "status": "dostepny",
-   "cena_katalogowa": 479.99
+   "status": "eol",
+   "cena_katalogowa": 479.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "75394",
@@ -11971,16 +11977,18 @@
    "nazwa": "Minimodel TIE Advanced",
    "rok": 2026,
    "elementy": 68,
-   "status": "dostepny",
-   "cena_katalogowa": 16.49
+   "status": "eol",
+   "cena_katalogowa": 16.49,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30728",
    "nazwa": "Minimodel Brzeszczota",
    "rok": 2026,
    "elementy": 74,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-04 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40897",
@@ -14028,8 +14036,9 @@
    "nazwa": "Mistrz Rzucania Mięsem i Podniebna - figurki",
    "rok": 2026,
    "elementy": 288,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40919",
@@ -14620,8 +14629,9 @@
    "nazwa": "Nissan Skyline GT-R (R34) z filmu „Za szybcy, za wściekli\"",
    "rok": 2023,
    "elementy": 319,
-   "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "status": "eol",
+   "cena_katalogowa": 109.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76918",
@@ -14653,8 +14663,9 @@
    "nazwa": "Sportowy Ford Mustang Dark Horse",
    "rok": 2024,
    "elementy": 344,
-   "status": "dostepny",
-   "cena_katalogowa": 119.99
+   "status": "eol",
+   "cena_katalogowa": 119.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76921",
@@ -14697,8 +14708,9 @@
    "nazwa": "Samochód bezpieczeństwa Aston Martin i AMR23",
    "rok": 2024,
    "elementy": 564,
-   "status": "dostepny",
-   "cena_katalogowa": 214.99
+   "status": "eol",
+   "cena_katalogowa": 214.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76934",
@@ -18446,8 +18458,9 @@
    "nazwa": "Lamborghini Sián FKP 37",
    "rok": 2020,
    "elementy": 3696,
-   "status": "dostepny",
-   "cena_katalogowa": 1949.99
+   "status": "eol",
+   "cena_katalogowa": 1949.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2020-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30465",
@@ -18803,8 +18816,9 @@
    "nazwa": "PEUGEOT 9X8 24H Le Mans Hybrid Hypercar",
    "rok": 2023,
    "elementy": 1775,
-   "status": "dostepny",
-   "cena_katalogowa": 869.99
+   "status": "eol",
+   "cena_katalogowa": 869.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-05 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42157",
@@ -19067,8 +19081,9 @@
    "nazwa": "NASA Apollo - pojazd LRV",
    "rok": 2024,
    "elementy": 1913,
-   "status": "dostepny",
-   "cena_katalogowa": 949.99
+   "status": "eol",
+   "cena_katalogowa": 949.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42184",
@@ -19108,8 +19123,9 @@
    "nazwa": "Miniładowarka",
    "rok": 2025,
    "elementy": 52,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "412502",
@@ -19283,8 +19299,9 @@
    "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
    "rok": 2025,
    "elementy": 1082,
-   "status": "dostepny",
-   "cena_katalogowa": 439.99
+   "status": "eol",
+   "cena_katalogowa": 439.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42212",
@@ -19337,8 +19354,9 @@
    "nazwa": "Hot Rod",
    "rok": 2026,
    "elementy": 83,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30736",
@@ -23994,8 +24012,9 @@
    "nazwa": "Pociąg towarowy",
    "rok": 2018,
    "elementy": 1226,
-   "status": "dostepny",
-   "cena_katalogowa": 829.99
+   "status": "eol",
+   "cena_katalogowa": 829.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2018-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60200",
@@ -26603,8 +26622,9 @@
    "nazwa": "Spotkanie z małym gorylem",
    "rok": 2024,
    "elementy": 34,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60399",
@@ -26807,8 +26827,9 @@
    "nazwa": "Nadmorski port ze statkiem towarowym",
    "rok": 2024,
    "elementy": 1226,
-   "status": "dostepny",
-   "cena_katalogowa": 469.99
+   "status": "eol",
+   "cena_katalogowa": 469.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60423",
@@ -26894,8 +26915,9 @@
    "nazwa": "Modułowa stacja kosmiczna",
    "rok": 2024,
    "elementy": 1097,
-   "status": "dostepny",
-   "cena_katalogowa": 429.99
+   "status": "eol",
+   "cena_katalogowa": 429.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60434",
@@ -27105,8 +27127,9 @@
    "nazwa": "F1 Garaż i bolidy Mercedes-AMG i Alpine",
    "rok": 2025,
    "elementy": 678,
-   "status": "dostepny",
-   "cena_katalogowa": 349.99
+   "status": "eol",
+   "cena_katalogowa": 349.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60445",
@@ -27154,8 +27177,9 @@
    "nazwa": "Żółta ładowarka kołowa",
    "rok": 2025,
    "elementy": 81,
-   "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "status": "eol",
+   "cena_katalogowa": 64.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60451",
@@ -27171,8 +27195,9 @@
    "nazwa": "Mobilna pączkarnia",
    "rok": 2025,
    "elementy": 196,
-   "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "status": "eol",
+   "cena_katalogowa": 84.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60453",
@@ -27234,8 +27259,9 @@
    "nazwa": "Zestaw wyścigówek: samolot kontra łóżko szpitalne",
    "rok": 2025,
    "elementy": 70,
-   "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "status": "eol",
+   "cena_katalogowa": 42.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60460",
@@ -27251,8 +27277,9 @@
    "nazwa": "Czerwony traktor z przyczepą i owcą",
    "rok": 2025,
    "elementy": 116,
-   "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "status": "eol",
+   "cena_katalogowa": 84.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60462",
@@ -27492,8 +27519,9 @@
    "nazwa": "Gokart wyścigowy",
    "rok": 2026,
    "elementy": 48,
-   "status": "dostepny",
-   "cena_katalogowa": 16.49
+   "status": "eol",
+   "cena_katalogowa": 16.49,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "60478",
@@ -31654,8 +31682,9 @@
    "nazwa": "Statek piracki",
    "rok": 2020,
    "elementy": 1264,
-   "status": "dostepny",
-   "cena_katalogowa": 559.99
+   "status": "eol",
+   "cena_katalogowa": 559.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2020-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "11944",
@@ -32300,8 +32329,9 @@
    "nazwa": "Bałwan",
    "rok": 2023,
    "elementy": 78,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "31133",
@@ -32434,8 +32464,9 @@
    "nazwa": "Botanicals Kwiaty Lotosu",
    "rok": 2023,
    "elementy": 220,
-   "status": "dostepny",
-   "cena_katalogowa": 61.99
+   "status": "eol",
+   "cena_katalogowa": 61.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40650",
@@ -32488,16 +32519,18 @@
    "nazwa": "Przejażdżka saniami Świętego Mikołaja",
    "rok": 2024,
    "elementy": 73,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "31145",
    "nazwa": "Czerwony smok",
    "rok": 2024,
    "elementy": 149,
-   "status": "dostepny",
-   "cena_katalogowa": 42.99
+   "status": "eol",
+   "cena_katalogowa": 42.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "31146",
@@ -32675,24 +32708,27 @@
    "nazwa": "Tropikalny tukan",
    "rok": 2025,
    "elementy": 59,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30689",
    "nazwa": "Urodzinowe zwierzaki",
    "rok": 2025,
    "elementy": 60,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30690",
    "nazwa": "Malowanie pisanek z kurczaczkiem",
    "rok": 2025,
    "elementy": 65,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-02 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30691",
@@ -32918,16 +32954,18 @@
    "nazwa": "Rudy kot",
    "rok": 2026,
    "elementy": 79,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30715",
    "nazwa": "Przyjęcie urodzinowe z uroczymi zwierzątkami",
    "rok": 2026,
    "elementy": 64,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30716",
@@ -35543,8 +35581,9 @@
    "nazwa": "Pudełko przyjaźni",
    "rok": 2018,
    "elementy": 563,
-   "status": "dostepny",
-   "cena_katalogowa": 219.99
+   "status": "eol",
+   "cena_katalogowa": 219.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2018-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "41347",
@@ -38074,8 +38113,9 @@
    "nazwa": "Strzelnica na letnim obozie łuczniczym",
    "rok": 2024,
    "elementy": 157,
-   "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "status": "eol",
+   "cena_katalogowa": 64.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42623",
@@ -38291,16 +38331,18 @@
    "nazwa": "Stoisko z goframi Autumn",
    "rok": 2025,
    "elementy": 37,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30697",
    "nazwa": "Buda dla psa Novy",
    "rok": 2025,
    "elementy": 50,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42640",
@@ -38640,16 +38682,18 @@
    "nazwa": "Kwiatowe stoisko z różami",
    "rok": 2026,
    "elementy": 55,
-   "status": "dostepny",
-   "cena_katalogowa": 16.49
+   "status": "eol",
+   "cena_katalogowa": 16.49,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30722",
    "nazwa": "Domek króliczka w ogrodzie",
    "rok": 2026,
    "elementy": 46,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "42675",
@@ -45033,8 +45077,9 @@
    "nazwa": "Moja pierwsza kaczuszka",
    "rok": 2019,
    "elementy": 6,
-   "status": "dostepny",
-   "cena_katalogowa": 17
+   "status": "eol",
+   "cena_katalogowa": 17,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2019-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30328",
@@ -45879,24 +45924,27 @@
    "nazwa": "Codzienne czynności - jedzenie",
    "rok": 2024,
    "elementy": 28,
-   "status": "dostepny",
-   "cena_katalogowa": 124.99
+   "status": "eol",
+   "cena_katalogowa": 124.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10415",
    "nazwa": "Moje uczucia i emocje",
    "rok": 2024,
    "elementy": 23,
-   "status": "dostepny",
-   "cena_katalogowa": 124.99
+   "status": "eol",
+   "cena_katalogowa": 124.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10416",
    "nazwa": "Opieka nad zwierzętami na farmie",
    "rok": 2024,
    "elementy": 74,
-   "status": "dostepny",
-   "cena_katalogowa": 234.99
+   "status": "eol",
+   "cena_katalogowa": 234.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10417",
@@ -45993,8 +46041,9 @@
    "nazwa": "Peppa Pig Urodzinowy domek Peppy",
    "rok": 2024,
    "elementy": 59,
-   "status": "dostepny",
-   "cena_katalogowa": 189.99
+   "status": "eol",
+   "cena_katalogowa": 189.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10434",
@@ -46010,8 +46059,9 @@
    "nazwa": "Disney Magiczny podwodny pałac Arielki",
    "rok": 2024,
    "elementy": 116,
-   "status": "dostepny",
-   "cena_katalogowa": 389.99
+   "status": "eol",
+   "cena_katalogowa": 389.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10438",
@@ -46036,8 +46086,9 @@
    "nazwa": "Moja pierwsza kaczuszka",
    "rok": 2024,
    "elementy": 7,
-   "status": "dostepny",
-   "cena_katalogowa": 17.99
+   "status": "eol",
+   "cena_katalogowa": 17.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "472402",
@@ -46094,8 +46145,9 @@
    "nazwa": "Balansujące drzewko",
    "rok": 2025,
    "elementy": 27,
-   "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "status": "eol",
+   "cena_katalogowa": 84.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10441",
@@ -46174,8 +46226,9 @@
    "nazwa": "Pierwszy raz: wizyta u lekarza",
    "rok": 2025,
    "elementy": 65,
-   "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "status": "eol",
+   "cena_katalogowa": 174.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10450",
@@ -46218,8 +46271,9 @@
    "nazwa": "Disney Klub przyjaciół Myszki Miki i samochód",
    "rok": 2025,
    "elementy": 27,
-   "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "status": "eol",
+   "cena_katalogowa": 84.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10455",
@@ -46244,8 +46298,9 @@
    "nazwa": "Przyjęcie urodzinowe Kubusia Puchatka",
    "rok": 2025,
    "elementy": 22,
-   "status": "dostepny",
-   "cena_katalogowa": 84.99
+   "status": "eol",
+   "cena_katalogowa": 84.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "10458",
@@ -46476,8 +46531,9 @@
    "nazwa": "Tort",
    "rok": 2026,
    "elementy": 9,
-   "status": "dostepny",
-   "cena_katalogowa": 16.49
+   "status": "eol",
+   "cena_katalogowa": 16.49,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "LANDDUCK",
@@ -50667,8 +50723,9 @@
    "nazwa": "Turniejowy teren szkoleniowy",
    "rok": 2024,
    "elementy": 49,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40703",
@@ -51043,16 +51100,18 @@
    "nazwa": "Wielofunkcyjny minimech ninja",
    "rok": 2025,
    "elementy": 80,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30700",
    "nazwa": "Bitwa Arina z Dragonem",
    "rok": 2025,
    "elementy": 48,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "6565144",
@@ -51381,8 +51440,9 @@
    "nazwa": "Samochód ninja Cole’a",
    "rok": 2026,
    "elementy": 39,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "6614227",
@@ -54488,8 +54548,9 @@
    "nazwa": "Figurka Rocketa do zbudowania",
    "rok": 2024,
    "elementy": 566,
-   "status": "dostepny",
-   "cena_katalogowa": 259.99
+   "status": "eol",
+   "cena_katalogowa": 259.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76284",
@@ -54559,8 +54620,9 @@
    "nazwa": "Avengers: Czas Ultrona",
    "rok": 2024,
    "elementy": 613,
-   "status": "dostepny",
-   "cena_katalogowa": 439.99
+   "status": "eol",
+   "cena_katalogowa": 439.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76292",
@@ -54979,8 +55041,9 @@
    "nazwa": "Spider-Man vs. Anti-Venom - Napad",
    "rok": 2026,
    "elementy": 31,
-   "status": "dostepny",
-   "cena_katalogowa": 16.99
+   "status": "eol",
+   "cena_katalogowa": 16.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-02 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76334",
@@ -56890,8 +56953,9 @@
    "nazwa": "Kalendarz festiwalowy",
    "rok": 2024,
    "elementy": 345,
-   "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "status": "eol",
+   "cena_katalogowa": 129.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40679",
@@ -56965,8 +57029,9 @@
    "nazwa": "Kolekcja ozdób świątecznych",
    "rok": 2024,
    "elementy": 153,
-   "status": "dostepny",
-   "cena_katalogowa": 54.99
+   "status": "eol",
+   "cena_katalogowa": 54.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-09 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40746",
@@ -57331,24 +57396,27 @@
    "nazwa": "Wielkanocne dekoracje",
    "rok": 2026,
    "elementy": 312,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40905",
    "nazwa": "Urodzinowa babeczka",
    "rok": 2026,
    "elementy": 174,
-   "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "status": "eol",
+   "cena_katalogowa": 64.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40915",
    "nazwa": "Taniec lwa",
    "rok": 2026,
    "elementy": 480,
-   "status": "dostepny",
-   "cena_katalogowa": 124.99
+   "status": "eol",
+   "cena_katalogowa": 124.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40920",
@@ -59023,8 +59091,9 @@
    "nazwa": "Diabolina jako smok",
    "rok": 2024,
    "elementy": 583,
-   "status": "dostepny",
-   "cena_katalogowa": 299.99
+   "status": "eol",
+   "cena_katalogowa": 299.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43241",
@@ -59058,16 +59127,18 @@
    "nazwa": "Lodowy pałac Elzy",
    "rok": 2024,
    "elementy": 630,
-   "status": "dostepny",
-   "cena_katalogowa": 439.99
+   "status": "eol",
+   "cena_katalogowa": 439.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43245",
    "nazwa": "Magiczny dom Madrigalów",
    "rok": 2024,
    "elementy": 1560,
-   "status": "dostepny",
-   "cena_katalogowa": 699.99
+   "status": "eol",
+   "cena_katalogowa": 699.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43246",
@@ -59083,16 +59154,18 @@
    "nazwa": "Król Lew - młody Simba",
    "rok": 2024,
    "elementy": 1445,
-   "status": "dostepny",
-   "cena_katalogowa": 559.99
+   "status": "eol",
+   "cena_katalogowa": 559.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43248",
    "nazwa": "W głowie się nie mieści 2 - kostki z emocjami",
    "rok": 2024,
    "elementy": 394,
-   "status": "dostepny",
-   "cena_katalogowa": 149.99
+   "status": "eol",
+   "cena_katalogowa": 149.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-05 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43249",
@@ -59252,8 +59325,9 @@
    "nazwa": "Suknia Kopciuszka",
    "rok": 2025,
    "elementy": 474,
-   "status": "dostepny",
-   "cena_katalogowa": 169.99
+   "status": "eol",
+   "cena_katalogowa": 169.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43267",
@@ -59314,16 +59388,18 @@
    "nazwa": "Kalendarz adwentowy 2025",
    "rok": 2025,
    "elementy": 231,
-   "status": "dostepny",
-   "cena_katalogowa": 149.99
+   "status": "eol",
+   "cena_katalogowa": 149.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-09 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43274",
    "nazwa": "Hotel dla zwierząt Minnie",
    "rok": 2025,
    "elementy": 161,
-   "status": "dostepny",
-   "cena_katalogowa": 174.99
+   "status": "eol",
+   "cena_katalogowa": 174.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "43275",
@@ -60974,8 +61050,9 @@
    "nazwa": "Steve i mała panda",
    "rok": 2024,
    "elementy": 35,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "6527190",
@@ -61238,8 +61315,9 @@
    "nazwa": "Walka w bujnej jaskini",
    "rok": 2025,
    "elementy": 40,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "472506",
@@ -62231,8 +62309,9 @@
    "nazwa": "Kwiatek Pirania",
    "rok": 2023,
    "elementy": 540,
-   "status": "dostepny",
-   "cena_katalogowa": 289.99
+   "status": "eol",
+   "cena_katalogowa": 289.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-11 (zaciąg 2026-09-15)"
   },
   {
    "numer": "71427",
@@ -62409,16 +62488,18 @@
    "nazwa": "Mario Kart - Yoshi Bike",
    "rok": 2025,
    "elementy": 133,
-   "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "status": "eol",
+   "cena_katalogowa": 64.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72032",
    "nazwa": "Mario Kart - Standard Kart",
    "rok": 2025,
    "elementy": 174,
-   "status": "dostepny",
-   "cena_katalogowa": 89.99
+   "status": "eol",
+   "cena_katalogowa": 89.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72033",
@@ -62434,8 +62515,9 @@
    "nazwa": "Mario kart - baby Mario kontra baby Luigi",
    "rok": 2025,
    "elementy": 321,
-   "status": "dostepny",
-   "cena_katalogowa": 129.99
+   "status": "eol",
+   "cena_katalogowa": 129.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72035",
@@ -62451,8 +62533,9 @@
    "nazwa": "Mario kart - zestaw baby Peach i Grand Prix",
    "rok": 2025,
    "elementy": 823,
-   "status": "dostepny",
-   "cena_katalogowa": 339.99
+   "status": "eol",
+   "cena_katalogowa": 339.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72037",
@@ -62469,24 +62552,27 @@
    "nazwa": "Mario Kart - Wario i King Boo",
    "rok": 2025,
    "elementy": 512,
-   "status": "dostepny",
-   "cena_katalogowa": 209.99
+   "status": "eol",
+   "cena_katalogowa": 209.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72039",
    "nazwa": "Mario Kart - Bowser i jego zamek",
    "rok": 2025,
    "elementy": 1068,
-   "status": "dostepny",
-   "cena_katalogowa": 419.99
+   "status": "eol",
+   "cena_katalogowa": 419.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72040",
    "nazwa": "Captain Toad i obóz",
    "rok": 2025,
    "elementy": 159,
-   "status": "dostepny",
-   "cena_katalogowa": 64.99
+   "status": "eol",
+   "cena_katalogowa": 64.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72041",
@@ -62502,16 +62588,18 @@
    "nazwa": "Prince Florian i Castle Bowser",
    "rok": 2025,
    "elementy": 1251,
-   "status": "dostepny",
-   "cena_katalogowa": 449.99
+   "status": "eol",
+   "cena_katalogowa": 449.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72043",
    "nazwa": "Mario Kart - Interaktywna figurka Mario i Standard Kart",
    "rok": 2025,
    "elementy": 278,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "72044",
@@ -63502,8 +63590,9 @@
    "nazwa": "Tyranozaur Mały",
    "rok": 2025,
    "elementy": 317,
-   "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "status": "eol",
+   "cena_katalogowa": 109.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76968",
@@ -63528,8 +63617,9 @@
    "nazwa": "Mały dinozaur Dolores: aquilops",
    "rok": 2025,
    "elementy": 339,
-   "status": "dostepny",
-   "cena_katalogowa": 109.99
+   "status": "eol",
+   "cena_katalogowa": 109.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76972",
@@ -63545,8 +63635,9 @@
    "nazwa": "Na tropie tytanozaura i raptora",
    "rok": 2025,
    "elementy": 582,
-   "status": "dostepny",
-   "cena_katalogowa": 449.99
+   "status": "eol",
+   "cena_katalogowa": 449.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-06 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76974",
@@ -64201,8 +64292,9 @@
    "nazwa": "Niebieska płytka konstrukcyjna",
    "rok": 2022,
    "elementy": 1,
-   "status": "dostepny",
-   "cena_katalogowa": 36.99
+   "status": "eol",
+   "cena_katalogowa": 36.99,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2022-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "11026",
@@ -64381,8 +64473,9 @@
    "nazwa": "Kreatywny zestaw do budowania i zabawy",
    "rok": 2025,
    "elementy": 750,
-   "status": "dostepny",
-   "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)"
+   "status": "eol",
+   "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "11045",
@@ -64668,8 +64761,9 @@
    "nazwa": "Kwiatowa ramka na zdjęcia",
    "rok": 2026,
    "elementy": 310,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "6614216",
@@ -66132,8 +66226,9 @@
    "nazwa": "Tom Nook i latający prezent",
    "rok": 2026,
    "elementy": 33,
-   "status": "dostepny",
-   "cena_katalogowa": 16.49
+   "status": "eol",
+   "cena_katalogowa": 16.49,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "30662",
@@ -66784,8 +66879,9 @@
    "nazwa": "Seria 28 – Zwierzęta – sześciopak",
    "rok": 2026,
    "elementy": 45,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "71051",
@@ -67545,9 +67641,10 @@
    "nazwa": "Klasyczny serial telewizyjny Batman — Batmobil",
    "rok": 2024,
    "elementy": 1822,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": 649.99,
-   "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026"
+   "cena_zrodlo": "porownywarki PL (promoklocki, zklockow) 10.09.2026",
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
   },
   {
    "numer": "76330",
@@ -69007,16 +69104,18 @@
    "nazwa": "I love Billund",
    "rok": 2026,
    "elementy": 1404,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40902",
    "nazwa": "Hołd dla Leonarda da Vinci",
    "rok": 2026,
    "elementy": 251,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40906",
@@ -69032,9 +69131,10 @@
    "nazwa": "Restauracje świata: Meksyk",
    "rok": 2026,
    "elementy": 326,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": 84.99,
-   "cena_zrodlo": "karta redakcyjna"
+   "cena_zrodlo": "karta redakcyjna",
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-04 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40908",
@@ -69060,8 +69160,9 @@
    "nazwa": "Zamek LEGOLAND",
    "rok": 2026,
    "elementy": 613,
-   "status": "dostepny",
-   "cena_katalogowa": null
+   "status": "eol",
+   "cena_katalogowa": null,
+   "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
   },
   {
    "numer": "40955",

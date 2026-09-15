@@ -118,14 +118,30 @@ for (const p of produkty) {
 // widzieliśmy, więc nie wiemy, czy zniknęły, czy jeszcze nie weszły.
 const PROG_NIEOBECNOSCI_DNI = 14;
 const granica = new Date(Date.parse(dataZaciagu) - PROG_NIEOBECNOSCI_DNI * 864e5).toISOString().slice(0, 10);
-const naEol = [], nigdyNieWidziane = [];
+// Zestaw „dostepny", którego listing NIGDY nie pokazał (stare wpisy katalogu
+// sprzed 15.09, zapowiedzi Scouta): jeśli premiera była dawniej niż 3 miesiące
+// temu, to nie jest „jeszcze nie wszedł", tylko „już zniknął" — EOL (decyzja
+// Marka 15.09.2026 po przeglądzie listy 122 takich zestawów). Zestaw bez daty
+// premiery, z samym rokiem bieżącym, zostaje do sprawdzenia — nie wiemy, który
+// to miesiąc.
+const PROG_PREMIERY_MIES = 3;
+const granicaPremiery = (() => { const d = new Date(Date.parse(dataZaciagu)); d.setMonth(d.getMonth() - PROG_PREMIERY_MIES); return d.toISOString().slice(0, 7); })();
+const rokZaciagu = Number(dataZaciagu.slice(0, 4));
+const premieraSetu = (nr, k) => sety[nr]?.premiera?.slice(0, 7) ?? (k.rok && k.rok < rokZaciagu ? `${k.rok}-12` : null);
+const naEol = [], nigdyNieWidziane = [], staraPremiera = [];
 for (const [nr, k] of wKatalogu) {
   if (k.status !== 'dostepny' || k.lego_pl_widziano === dataZaciagu) continue;
-  if (!k.lego_pl_widziano) { nigdyNieWidziane.push(nr); continue; }
+  if (!k.lego_pl_widziano) {
+    const prem = premieraSetu(nr, k);
+    if (prem && prem < granicaPremiery) { k.status = 'eol'; k.eol_zrodlo = `nigdy na listingu lego.pl, premiera ${prem} (zaciąg ${dataZaciagu})`; staraPremiera.push(nr); katalogZmiany++; }
+    else nigdyNieWidziane.push(nr);
+    continue;
+  }
   if (k.lego_pl_widziano < granica) { k.status = 'eol'; k.eol_zrodlo = `brak na listingu lego.pl od ${k.lego_pl_widziano}`; naEol.push(nr); katalogZmiany++; }
 }
 if (naEol.length) console.log(`  Na EOL (nieobecne na listingu ponad ${PROG_NIEOBECNOSCI_DNI} dni): ${naEol.length} — ${naEol.slice(0, 20).join(' ')}${naEol.length > 20 ? '…' : ''}`);
-if (nigdyNieWidziane.length) console.log(`  „dostepny" bez śladu na listingu (zapowiedzi / do sprawdzenia): ${nigdyNieWidziane.length}`);
+if (staraPremiera.length) console.log(`  Na EOL (nigdy na listingu, premiera starsza niż ${PROG_PREMIERY_MIES} mies.): ${staraPremiera.length} — ${staraPremiera.slice(0, 20).join(' ')}${staraPremiera.length > 20 ? '…' : ''}`);
+if (nigdyNieWidziane.length) console.log(`  „dostepny" bez śladu na listingu i bez daty premiery starszej niż ${PROG_PREMIERY_MIES} mies. (zapowiedzi / do sprawdzenia): ${nigdyNieWidziane.length} — ${nigdyNieWidziane.slice(0, 20).join(' ')}`);
 
 console.log(`Produkty z listingu: ${produkty.length}, znane serwisowi: ${produkty.length - spozaKatalogu.length} (ekskluzywne: ${ekskl}). Zmiany: feed ${feedZmiany}, sety ${setyZmiany}, katalog ${katalogZmiany} (nowo „dostepny": ${nowyDostepny}). Spoza katalogu: ${spozaKatalogu.length}${spozaKatalogu.length ? ' — ' + spozaKatalogu.slice(0, 15).join(' ') + (spozaKatalogu.length > 15 ? '…' : '') : ''}`);
 if (spozaKatalogu.length) console.log('  Spoza katalogu i sety.json: pominięte (bez nazwy i serii nie ma huba). Zestawy stąd dopisze Scout (nowości) albo katalog-z-rebrickable.mjs; numery 5xxxxxx to akcesoria/merch.');
