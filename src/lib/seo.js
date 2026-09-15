@@ -108,7 +108,12 @@ export function ocenaHubu(nr) {
     premiera: Boolean(premiera && premiera >= progPremiery) && !wycofanyZProdukcji(klucz),
   };
   const spelnione = Object.values(warunki).filter(Boolean).length;
-  const wyjatek = wPrezentowniku(klucz) ? 'prezentownik' : goracyDeal(klucz) ? 'deal' : null;
+  // Karta Piotra (≥2 akapity + FAQ) to pełna treść redakcyjna — hub z kartą jest
+  // indeksowalny niezależnie od liczby sklepów i tekstów (decyzja Marka
+  // 15.09.2026; wcześniej ~390 hubów z kartą stało poza indeksem, w tym
+  // zapowiedzi przed premierą, których czytelnik szuka właśnie wtedy).
+  const maKarte = (karty[klucz]?.akapity?.length ?? 0) >= 2 && (karty[klucz]?.faq?.length ?? 0) >= 3;
+  const wyjatek = wPrezentowniku(klucz) ? 'prezentownik' : goracyDeal(klucz) ? 'deal' : maKarte ? 'karta' : null;
 
   return { indeksowalny: Boolean(wyjatek) || spelnione >= MIN_WARUNKOW, warunki, spelnione, wyjatek };
 }
