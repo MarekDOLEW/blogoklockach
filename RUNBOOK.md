@@ -930,7 +930,7 @@ Warto odświeżać przy każdym nowym zaciągu katalogu (`scripts/firecrawl-lego
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
 
 **Od 15.09.2026 listing czytamy co tydzień** (Routine „LEGO.pl katalog", wtorek
-05:00 PL, prompt w `materialy/routine-prompty-2026-09-15.md`). Łańcuch:
+05:00 PL, prompt w `materialy/routine-prompty.md`). Łańcuch:
 `firecrawl-legopl.mjs` (katalog + plik RRP) → `lego-ceny.mjs` (cena LEGO.com do
 `oferty_feed.sety[nr].oferty.lego` z datą w `daty.lego`, oferta `lego` w
 `sety.json`, status `dostepny` + `ekskluzyw` + `lego_pl_widziano` w `katalog.json`)
@@ -1051,7 +1051,7 @@ niż przy ostatnim alercie. Rezygnacja: `/obserwuj/rezygnuj?nr=&t=` kasuje obiek
 Worker ma sekret `RESEND_API_KEY` (dodany ręcznie w panelu 15.09: Workers →
 blogoklockach → Settings → Variables and Secrets). Bez niego worker odsyła na hub
 ze stanem `niedostepne` i nic nie zapisuje. Maile z alertami wysyła Routine
-„Alerty cen" (prompt nr 4 w `materialy/routine-prompty-2026-09-15.md`) — bez
+„Alerty cen" (prompt „LEGO 09:30 — Alerty cen" w `materialy/routine-prompty.md`, kopia z konta) — bez
 niego zapisy się zbierają, ale nikt nie dostaje alertu. Podgląd zapisów bez
 wysyłki: `node scripts/alerty-cen.mjs --sucho`.
 

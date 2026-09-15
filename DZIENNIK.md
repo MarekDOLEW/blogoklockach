@@ -65,7 +65,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   `scripts/alerty-cen.mjs` (próg 20% poniżej RRP, kasowanie niepotwierdzonych po
   7 dniach), polityka prywatności z sekcją RODO. Trasy przetestowane na atrapie R2
   (zapis, zły e-mail, honeypot, potwierdzenie, zły token, rezygnacja, brak sekretu).
-  Prompt Routine: nr 4 w `materialy/routine-prompty-2026-09-15.md`.
+  Prompt Routine „LEGO 09:30 — Alerty cen" w `materialy/routine-prompty.md` (plik generowany z konta).
 
 ## 2026-09-15 10:20 · CODE · LEGO.pl co tydzień: ceny, dostępność, ekskluzywy + strona /ekskluzywne/
 
@@ -91,7 +91,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   Od następnego zaciągu katalog niesie pełną listę `labels` (poprawka w
   `firecrawl-legopl.mjs`), więc rozbieżności powinny zmaleć.
 - **Routine „LEGO.pl katalog" (wtorek 05:00 PL)** — prompt nr 3 w
-  `materialy/routine-prompty-2026-09-15.md`, do założenia przez Marka w panelu
+  `materialy/routine-prompty.md`, do założenia przez Marka w panelu
   (z repo jako źródłem). Prompt ma bramkę: poniżej 1 000 produktów = listing
   urwany, nie wczytywać (Marek: „ostatnio listing urywał się po 20 zestawach").
 - **Opisy producenta** dla zestawów w sprzedaży bez opisu i bez karty:

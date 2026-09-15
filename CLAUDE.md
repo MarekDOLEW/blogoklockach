@@ -127,7 +127,10 @@ Harmonogram runnerów, ich ID i zasady edycji: `materialy/zadania-cykliczne.md`.
 Sekcja „Zrzut" w tym pliku jest **generowana** — leży między znacznikami
 `HARMONOGRAM:START` i `HARMONOGRAM:KONIEC`, przepisuje ją
 `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`, a uruchamia
-Kontroler w cotygodniowym raporcie. Nie poprawiaj jej ręcznie.
+Kontroler w cotygodniowym raporcie. Nie poprawiaj jej ręcznie. Tak samo cały plik
+`materialy/routine-prompty.md` (prompty Routines) — to kopia z konta robiona tym
+samym skryptem; prompt zmienia się w panelu (albo delete+create dla stałej sesji),
+nigdy w tym pliku.
 Łowca korzysta z `scripts/feedy-lego.py` (wyciąg ofert LEGO z feedów), Ceneo
 odświeża `scripts/ceneo-feed.mjs`.
 Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:00 dogrywa je

@@ -274,3 +274,38 @@ if (sucho) {
 
 writeFileSync(DOKUMENT, nowy, 'utf8');
 console.log(`\n${DOKUMENT}: sekcja „Zrzut" przepisana z odczytu.`);
+
+// ── prompty Routines LEGO → materialy/routine-prompty.md (cały plik generowany) ──
+// Od 15.09.2026 (uwaga Marka: „to rodzi możliwość błędu") repo NIE utrzymuje
+// promptów ręcznie. Jedynym źródłem prawdy jest konto; ten plik to jego kopia
+// do czytania i do diffów w git (widać, kto i kiedy zmienił prompt w panelu).
+// Odświeża go Kontroler razem z sekcją „Zrzut" — nikt nie musi tego pilnować.
+const PROMPTY = 'materialy/routine-prompty.md';
+const promptRoutine = (r) =>
+  r.derived_state?.prompt
+  ?? r.session_request?.events?.find((e) => e.payload?.type === 'user')?.payload?.internal_anthropic_catchall?.message?.content
+  ?? '';
+const tryb = (r) => (r.persist_session || r.persistent_session_id ? 'stała sesja (zmiana promptu = delete + create)' : 'świeża sesja na każdy przebieg');
+const legoSurowe = routines.filter((r) => /^LEGO\b/i.test(r.name)).sort(sortCron);
+const blokPromptow = [
+  '# Prompty Routines LEGO — kopia z konta',
+  '',
+  `*Plik w całości generuje \`scripts/harmonogram-z-konta.mjs\` z odpowiedzi \`list_triggers\`;`,
+  `odczyt z konta: ${new Date().toLocaleString('pl-PL', { timeZone: 'Europe/Warsaw', dateStyle: 'short', timeStyle: 'short' })} (${STREFA}). Nie edytuj ręcznie — źródłem prawdy`,
+  'jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git',
+  'pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją',
+  'wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*',
+  '',
+  ...legoSurowe.flatMap((r) => [
+    `## ${r.name}`,
+    '',
+    `- ID: \`${r.id}\` · cron \`${r.cron_expression ?? '—'}\` (UTC) · ${r.enabled ? 'włączony' : 'WYŁĄCZONY'} · ${tryb(r)}`,
+    '',
+    '```',
+    promptRoutine(r).trim() || '(brak promptu w odczycie)',
+    '```',
+    '',
+  ]),
+].join('\n');
+writeFileSync(PROMPTY, blokPromptow, 'utf8');
+console.log(`${PROMPTY}: ${legoSurowe.length} promptów przepisanych z odczytu.`);

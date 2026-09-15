@@ -22,7 +22,7 @@ czy czeka, aż ktoś je wywoła.
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |
 | `prowizje-raport.mjs` | Kontroler | Prowizje zmierzone: Adtraction, Performers, Tradedoubler |
 | `diagnoza.mjs` | Kontroler, KROK 0 | Co widzi środowisko — zmienne, repo, dane, realne wywołania (od 14.09 także R2) |
-| `harmonogram-z-konta.mjs` | Kontroler | Przepisuje sekcję „Zrzut" w `materialy/zadania-cykliczne.md` z `list_triggers` |
+| `harmonogram-z-konta.mjs` | Kontroler | Przepisuje sekcję „Zrzut" w `materialy/zadania-cykliczne.md` i cały plik `materialy/routine-prompty.md` (prompty Routines LEGO, kopia z konta) z `list_triggers` |
 | `wyslij-raport.py` | **Łowca, Scout, Radar, Wycofania** (od 14.09.2026, ostatni krok promptu) | Mail z PDF do redakcji przez Resend (`RESEND_API_KEY`), adresy z `src/data/raporty_mail.json`. PDF przez Chromium, bez zależności. `--do` do testów, `--tylko-pdf` bez wysyłki. Kontroler nie — jego raport idzie do Marka przez `SendUserFile` |
 
 ## Build i treść
