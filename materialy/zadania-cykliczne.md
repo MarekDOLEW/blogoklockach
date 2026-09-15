@@ -191,6 +191,7 @@ Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
 | Zadanie | Dziś (CEST) | Po 25.10 (CET) |
 |---|---|---|
 | Zdjęcia → R2 | 04:00 | 03:00 |
+| Przypomnienie: Empik | pon 07:00 | pon 06:00 |
 | Scout nowości | 05:00 | 04:00 |
 | Wycofania | pon 06:10 | pon 05:10 |
 | Angielski | pon 07:00 | pon 06:00 |
@@ -301,6 +302,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 ## Historia zmian harmonogramu
 
 **15.09.2026**
+- Łowca i Radar **odtworzone** (delete+create): Łowca `trig_01AdSEcWEMGmYPJyESzoxE6s`
+  z krokiem 0 (`diagnoza.mjs --szybko`); Radar `trig_01WgDxbN6eB2QzAZha7dWBfx`
+  z nowym formatem raportu (najwyżej 5 pozycji × 4 linijki: fakt / mamy? /
+  zrobić / kto) i rejestrem „RADAR · Do zrobienia" w DZIENNIK.md. Powód: Marek —
+  „radar zasypuje mnie mnóstwem tematów, nieczytelne".
+- Nowy Routine „LEGO pon 07:00 — Przypomnienie: zrzut Empiku" (`0 5 * * 1`,
+  świeża sesja): mail na kontakt@ przez `wyslij-raport.py --zadanie przypomnienie`.
+  Decyzja Marka: zrzut Empiku ręcznie, wystarczy przypominajka.
 - Scout i Wycofania **odtworzone** (delete+create, te same sesje i crony):
   Scout `trig_01VSNGR5PnnobJW9i9x5PAmQ` — zakaz edycji `wycofania.json`, sygnały
   wycofań zapisuje do `DZIENNIK.md`; Wycofania `trig_01S5hMfivCCFytZSqces2pYw` —

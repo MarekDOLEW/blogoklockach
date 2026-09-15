@@ -4,8 +4,9 @@
   "uzycie": "python3 scripts/wyslij-raport.py --zadanie promocje --tytul \"Lowca Promocji — 14.09.2026\" --plik /tmp/raport-promocje.md [--wstep \"1-2 zdania\"] [--do adres@x.pl (test, nadpisuje odbiorcow)] [--tylko-pdf plik.pdf (bez wysylki)]",
   "zasada_wysylki": "wysylka=zawsze -> mail przy kazdym przebiegu; wysylka=przy_zmianach -> mail tylko gdy przebieg cos zmienil (nowe wpisy/ceny). Brak zmian = nie wysylamy, zeby maile nie spowszednialy.",
   "edycja": "Adresy dopisuj/usuwaj w tablicach odbiorcy - zmiana dziala od nastepnego przebiegu, bez ruszania promptow zadan.",
-  "zaktualizowano": "2026-09-14",
-  "historia": "Od 19.08 do 14.09.2026 wyszedl JEDEN mail — reczny test z 19.08 (log Resend). Zaden runner nie mial kroku wysylki w promptcie, runnery nie tworzyly pliku raportu, a skrypt importowal weasyprint, ktorego nikt nie instalowal. 14.09 krok wysylki wpisany do promptow Lowcy, Scouta, Radaru i Wycofan (triggery odtworzone, bo promptu trwalej sesji nie zmienia update_trigger)."
+  "zaktualizowano": "2026-09-15",
+  "historia": "Od 19.08 do 14.09.2026 wyszedl JEDEN mail — reczny test z 19.08 (log Resend). Zaden runner nie mial kroku wysylki w promptcie, runnery nie tworzyly pliku raportu, a skrypt importowal weasyprint, ktorego nikt nie instalowal. 14.09 krok wysylki wpisany do promptow Lowcy, Scouta, Radaru i Wycofan (triggery odtworzone, bo promptu trwalej sesji nie zmienia update_trigger).",
+  "przypomnienie": "Klucz przypomnienie (od 15.09.2026): cotygodniowy Routine „Przypomnienie: zrzut Empiku” wysyla nim w poniedzialek 07:00 PL krotka wiadomosc na kontakt@ — Marek robi zrzut Empiku recznie (decyzja 15.09: wystarczy przypominajka)."
  },
  "zadania": {
   "promocje": {
@@ -38,6 +39,13 @@
    "odbiorcy": [
     "kontakt@tylkoklocki.pl",
     "piotrmaculewicz@interia.pl"
+   ]
+  },
+  "przypomnienie": {
+   "nazwa": "Przypomnienie dla Marka",
+   "wysylka": "zawsze",
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl"
    ]
   }
  }
