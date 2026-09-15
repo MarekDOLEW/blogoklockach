@@ -22,7 +22,7 @@
 // Progi wybrane na danych z 09.09.2026 (4 947 hubów): przy „dwóch z czterech"
 // wychodziło 1 212 hubów; „trzy z czterech" z dwoma sklepami i premierą do
 // 24 miesięcy – 815 (+ wyjątki 853); trzy sklepy i 18 miesięcy – 799.
-// Cel: 300–800 hubów w indeksie. Sam wyjątek dealowy dodaje ~170 hubów
+// Cel: 300–800 hubów w indeksie (od 15.09.2026 z wyjątkiem „karta" jest ich 1 162 przy 9 363 hubach). Sam wyjątek dealowy dodaje ~170 hubów
 // (wszystkie mają już dwa z czterech warunków) – gdyby trzeba było zejść
 // niżej, to jest pierwsza gałka do przekręcenia.
 //

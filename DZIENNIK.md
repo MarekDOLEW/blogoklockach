@@ -47,6 +47,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 18:40 · CODE · Karty Piotra P07b (10371, 21373), karta jako wyjątek indeksowalności, plan 30 tekstów
+
+- Import dwóch kart Piotra w nowym szablonie (nazwa w tytule, FAQ jako nagłówki H2,
+  polski nagłówek FAQ) — `import-karty.py` poprawiony; RRP obu do rejestru; 21373
+  ekskluzyw. Rozbieżność nazwy 10371: Piotr „Urocze roślinki", repo „Przytulne
+  rośliny" — została kanoniczna z repo, do rozstrzygnięcia z Piotrem.
+- **Karta Piotra = wyjątek indeksowalności** (decyzja Marka): hub z kartą (≥2 akapity,
+  ≥3 FAQ) idzie do sitemapy niezależnie od sklepów i tekstów. Sitemapa zestawów
+  775 → **1 162**. Kontroler zobaczy to w poniedziałek jako skok liczby hubów.
+- Decyzje z listy siedmiu punktów wdrożone (etykieta „brak w lego.pl", kategorie
+  7+2 z walidacją w buildzie, karta researchu tylko dla tekstów Code,
+  `/kolekcjoner/` noindex); plan 30 tekstów na 21–27.09 w `redakcja/plan-tygodnia-2026-09-21.md`.
+- Kontrola porannych runnerów 16.09 zaplanowana na 10:05 PL.
+
 ## 2026-09-15 17:20 · CODE · Duplikaty katalogu usunięte, etykieta „brak w LEGO.com", Łowca i Wycofania odtworzone
 
 - **Katalog 9 363 → 9 359** (decyzja Marka): 43026 zostaje w Nike x LEGO, 72423 w Shrek,

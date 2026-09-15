@@ -1172,7 +1172,9 @@ w naszym tekście; premiera w ostatnich 18 miesiącach i nie wycofany), **albo**
 jest w prezentowniku, **albo** ma gorący deal (reguła jak na `/deale/`).
 Pozostałe huby dostają `<meta name="robots" content="noindex, follow">`
 (`Base.astro`, prop `noindex`), działają normalnie i nie ma ich w sitemapie.
-Stan 09.09: **799 indeksowalnych z 4 947**. Progi (`MIN_SKLEPOW`,
+Stan 09.09: **799 indeksowalnych z 4 947**. Stan 15.09: **1 162 z 9 363** — huby
+dla całego katalogu (nigdy 404) i wyjątek „karta": hub z kartą Piotra (≥2 akapity,
+≥3 FAQ) jest indeksowalny jak prezentownik i deal (decyzja Marka 15.09.2026). Progi (`MIN_SKLEPOW`,
 `MIESIACE_PREMIERY`, `MIN_WARUNKOW`) są stałymi na górze `seo.js`; pierwsza
 gałka, gdyby trzeba było zejść niżej, to wyjątek dealowy (~170 hubów).
 
