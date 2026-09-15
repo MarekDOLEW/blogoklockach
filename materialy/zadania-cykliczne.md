@@ -232,6 +232,17 @@ i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 
 ## Jak edytować zadanie
 
+**Routine założony przez API (`create_trigger`) nie podpina repozytorium** — świeża
+sesja startuje z pustym `/home/user` (`session_request.config.sources: []`), a
+sesja bez URL-a odmawia szukania repo (klasyfikator blokuje przeszukiwanie
+poświadczeń — słusznie). Sprawdzone 15.09.2026 na „Zdjęcia → R2": sesja
+zakończyła się czysto, skrypt nie ruszył. Dlatego prompt każdego takiego Routine
+zaczyna się od `git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`
+(repo jest publiczne) i `npm ci`, gdy skrypt potrzebuje zależności. Routine
+z panelu claude.ai (Kontroler) ma źródło podpięte i tego nie potrzebuje.
+Prompt Routine ze świeżą sesją **da się** zmienić przez `update_trigger` —
+ograniczenie delete+create dotyczy tylko trwałych sesji.
+
 Prompt Routine przypiętej do cudzej sesji **nie da się** zmienić przez
 `update_trigger` („editing the prompt … is not available via this tool") —
 trzeba `delete_trigger` + `create_trigger` z tym samym `persistent_session_id`.

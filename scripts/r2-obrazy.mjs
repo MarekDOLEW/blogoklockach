@@ -115,6 +115,20 @@ async function kluczeWR2(zRozmiarem = false) {
   return wR2;
 }
 
+// Ślad ostatniego przebiegu trybu codziennego: klucz `_stan/r2-obrazy.json` w tym
+// samym kubełku. Worker go nie serwuje (nie pasuje do wzorca numeru), a Kontroler
+// i diagnoza mogą go odczytać przez API — inaczej nie da się z zewnątrz sprawdzić,
+// czy Routine w świeżej sesji naprawdę uruchomił skrypt (15.09.2026: sesja
+// zakończyła się „czysto", a skrypt nie ruszył, bo nie było repo).
+let slad = null;
+async function zapiszSlad(dane) {
+  try {
+    await fetch(`https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects/${encodeURIComponent('_stan/r2-obrazy.json')}`, {
+      method: 'PUT', headers: { authorization: `Bearer ${CF_R2_TOKEN}`, 'content-type': 'application/json' }, body: JSON.stringify(dane),
+    });
+  } catch { /* ślad jest pomocniczy — brak zapisu nie unieważnia przebiegu */ }
+}
+
 let wszystkieBrakujace;
 if (optymalizuj) {
   if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
@@ -167,7 +181,11 @@ if (tylkoSprawdz) {
   const zPK = klucze.filter(zPlanety);
   wszystkieBrakujace = zPK.filter((k) => !wR2.has(k)).map((k) => ({ klucz: k, status: 'brak w R2' }));
   console.log(`W R2: ${wR2.size} obiektów. Zdjęć z Planety w danych: ${zPK.length}, brakuje w R2: ${wszystkieBrakujace.length}`);
-  if (wszystkieBrakujace.length === 0) process.exit(0);
+  slad = { kiedy: new Date().toISOString(), w_r2: wR2.size, z_planety: zPK.length, brakowalo: wszystkieBrakujace.length };
+  if (wszystkieBrakujace.length === 0) {
+    await zapiszSlad({ ...slad, wgrano: 0, bledy: 0 });
+    process.exit(0);
+  }
 }
 const brakujace = limit ? wszystkieBrakujace.slice(0, limit) : wszystkieBrakujace;
 if (limit && wszystkieBrakujace.length > limit) console.log(`W tym przebiegu wgrywam najwyżej ${limit}.`);
@@ -232,5 +250,6 @@ console.log(`Po wgraniu nadal nie 200: ${nadal.length}`);
 for (const [k, s] of nadal.slice(0, 20)) console.log(`  ${s}  ${k}`);
 const zostalo = wszystkieBrakujace.length - brakujace.length;
 if (zostalo) console.log(`Poza limitem tego przebiegu zostało: ${zostalo} — dogra się w następnych.`);
+if (slad) await zapiszSlad({ ...slad, wgrano: brakujace.length - bledy.length, bledy: bledy.length, nadal_nie_200: nadal.length });
 // kod 1 tylko, gdy coś z tego przebiegu się nie udało; zaległość poza limitem to nie błąd
 process.exit(nadal.length ? 1 : 0);

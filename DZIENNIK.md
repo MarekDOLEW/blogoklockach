@@ -134,6 +134,14 @@ zakończony bez błędu (IDLE po 3 min 20 s, 65 tys. tokenów, model sonnet-5
 z domyślnych ustawień Routine). Linijki podsumowania nie da się odczytać z tej
 sesji przez API — widać ją w claude.ai/code. Kontrola pośrednia: listowanie R2
 po przebiegu nadal „brakuje 0", czyli skrypt nie zepsuł stanu.
+**SPROSTOWANIE 15.09 09:00 (Marek wkleił podsumowanie sesji):** sesja
+zakończyła się czysto, ale **skrypt nie ruszył** — świeża sesja z Routine
+założonego przez API startuje **bez sklonowanego repo** (`sources: []`; Kontroler
+z panelu ma repo podpięte, moje dwa Routine nie). „Kontrola pośrednia" niczego
+nie dowodziła. Naprawa: prompty obu świeżo-sesyjnych Routine (Zdjęcia → R2,
+Przypomnienie Empik) klonują repo same (`git clone --depth 1` + `npm ci`), a tryb
+codzienny skryptu zostawia ślad `_stan/r2-obrazy.json` w R2, który da się
+odczytać z zewnątrz — bez tego nie ma jak potwierdzić, że skrypt się wykonał.
 
 
 ## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
