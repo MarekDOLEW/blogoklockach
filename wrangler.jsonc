@@ -6,7 +6,14 @@
     "directory": "./dist",
     "binding": "ASSETS",
     "html_handling": "auto-trailing-slash",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    // 15.09.2026 wieczorem: żądania nawigacyjne przeglądarki (Sec-Fetch-Mode:
+    // navigate) na ścieżki bez pliku statycznego dostawały stronę 404 z warstwy
+    // assets, ZANIM worker się uruchomił — padły wszystkie linki /idz/, obrazy
+    // /img/ otwierane w karcie, linki z maili /obserwuj/ i 410 dla /p/. curl bez
+    // tego nagłówka trafiał do workera, więc testy z serwera przechodziły. Te
+    // ścieżki muszą iść do workera przed assets; reszta serwisu zostaje na assets.
+    "run_worker_first": ["/idz/*", "/img/*", "/obserwuj", "/obserwuj/*", "/p/*"]
   },
   // Trwałe kopie zdjęć zestawów — kubełek utworzony ręcznie w panelu R2
   "r2_buckets": [
