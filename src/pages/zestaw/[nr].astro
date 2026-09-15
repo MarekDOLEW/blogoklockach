@@ -90,14 +90,14 @@ const okruszki = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
     ...(seria ? [{ '@type': 'ListItem', position: 2, name: `LEGO ${seria}`, item: new URL(sciezkaSerii, Astro.site).href }] : []),
-    { '@type': 'ListItem', position: seria ? 3 : 2, name: `LEGO ${nr} ${nazwa}` },
+    { '@type': 'ListItem', position: seria ? 3 : 2, name: `LEGO ${nazwa} (${nr})` },
   ],
 };
 
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Product',
-  name: `LEGO ${nr} ${nazwa}`,
+  name: `LEGO ${nazwa} (${nr})`,
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
   ...(opis ? { description: opis } : {}),
@@ -174,9 +174,11 @@ const podobne = podobneZSerii(seria, nr);
 // Długie nazwy (np. bolidy F1 z pełną nazwą zespołu) skracamy do ~40 znaków na
 // granicy słowa; audyt 15.09.2026 znalazł tytuły po 122 znaki na 2673 stronach.
 const nazwaKrotka = nazwa.length <= 40 ? nazwa : `${nazwa.slice(0, 40).replace(/\s+\S*$/, '')}…`;
+// Nazwa przed numerem (decyzja Marka 15.09.2026): ludzie szukają „lego gustav
+// klimt", „sagrada familia lego" — numer zostaje w nawiasie dla kolekcjonerów.
 const tytul = najlepsza
-  ? `LEGO ${nr} ${nazwaKrotka} – cena i promocje`
-  : `LEGO ${nr} ${nazwaKrotka}${eol ? ' – wycofany (EOL)' : ''}`;
+  ? `LEGO ${nazwaKrotka} (${nr}) – cena i promocje`
+  : `LEGO ${nazwaKrotka} (${nr})${eol ? ' – wycofany (EOL)' : ''}`;
 // Opis meta zaczyna się od ceny i liczby sklepów — GSC 15.09.2026: huby na
 // pozycjach 7–12 miały 0% CTR obok sklepów, które pokazują cenę w wyniku.
 const liczbaSklepow = new Set(oferty.map((o) => o.sklep)).size;
@@ -246,7 +248,7 @@ const opisMeta = najlepsza
           )}
           {tagi.map((t) => <span class="badge-tag">{t}</span>)}
         </p>
-        <h1>LEGO {nr} {nazwa}</h1>
+        <h1>LEGO {nazwa} <span class="h1-numer">({nr})</span></h1>
         <div class="deal-meta" style="margin-bottom: 8px">
           {elementy && <span><strong>{fmtElementy(elementy)}</strong> elementów</span>}
           {s?.cena_katalogowa && s?.elementy && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
