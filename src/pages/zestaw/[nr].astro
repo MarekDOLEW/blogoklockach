@@ -170,10 +170,13 @@ const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza;
 // czytelnika podpowiedź „co jeszcze z tej serii" z ceną i zdjęciem.
 const podobne = podobneZSerii(seria, nr);
 
-// tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base
+// tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base.
+// Długie nazwy (np. bolidy F1 z pełną nazwą zespołu) skracamy do ~40 znaków na
+// granicy słowa; audyt 15.09.2026 znalazł tytuły po 122 znaki na 2673 stronach.
+const nazwaKrotka = nazwa.length <= 40 ? nazwa : `${nazwa.slice(0, 40).replace(/\s+\S*$/, '')}…`;
 const tytul = najlepsza
-  ? `LEGO ${nr} ${nazwa} – cena i promocje`
-  : `LEGO ${nr} ${nazwa}${eol ? ' – zestaw wycofany (EOL)' : ''}`;
+  ? `LEGO ${nr} ${nazwaKrotka} – cena i promocje`
+  : `LEGO ${nr} ${nazwaKrotka}${eol ? ' – wycofany (EOL)' : ''}`;
 const opisMeta = najlepsza
   ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
@@ -313,7 +316,7 @@ const opisMeta = najlepsza
             {' '}– dziś jest o {fmt(najlepsza - minimum.cena)} drożej.
           </p>
         )}
-        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy – wiążąca jest zawsze cena w koszyku sklepu.</p>
+        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańszy sklep zawsze na górze; Ceneo stoi osobno na końcu, bo to porównywarka, nie sklep – jego cena może być niższa niż w wierszach wyżej.</p>
       </div>
     ) : (
       <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż (EOL), pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>

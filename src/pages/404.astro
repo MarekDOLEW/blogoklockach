@@ -1,0 +1,21 @@
+---
+// Strona 404. Do 15.09.2026 jej nie było: wrangler.jsonc ma
+// `not_found_handling: "404-page"`, ale bez dist/404.html Cloudflare oddawał
+// pustą odpowiedź (0 bajtów) — każda literówka w numerze zestawu kończyła się
+// białą kartą. Najczęstszy przypadek to właśnie zły numer w /zestaw/<nr>/,
+// więc od razu podajemy wyszukiwarkę i wejścia do działów.
+import Base from '../layouts/Base.astro';
+---
+<Base title="Nie ma takiej strony" description="Strona nie istnieje albo zmieniła adres. Wpisz numer zestawu w wyszukiwarkę albo wejdź do działu." noindex={true}>
+  <section class="karta" style="padding: 28px 22px; margin: 28px 0; max-width: 720px;">
+    <p class="eyebrow"><span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span> Błąd 404</p>
+    <h1 style="margin-top: 8px">Nie ma takiej strony</h1>
+    <p class="prose">Adres nie istnieje albo się zmienił. Jeśli szukasz zestawu, wpisz jego numer w wyszukiwarkę u góry – huby mają adresy <code>/zestaw/&lt;numer&gt;/</code>, np. <a href="/zestaw/75430/">/zestaw/75430/</a>.</p>
+    <p class="prose">Albo wejdź do działu:</p>
+    <ul class="prose">
+      <li><a href="/">Promocje dziś</a> – prawdziwe rabaty liczone od cen katalogowych</li>
+      <li><a href="/deale/">Deale</a> · <a href="/nowosci/">Nowości</a> · <a href="/wycofania/">Wycofania</a></li>
+      <li><a href="/serie/">Serie</a> · <a href="/prezentowniki/">Prezentowniki</a> · <a href="/artykuly/">Artykuły</a></li>
+    </ul>
+  </section>
+</Base>

@@ -43,7 +43,12 @@ const stanPozycji = (href) => {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" type="application/rss+xml" title="tylkoklocki.pl" href="/rss.xml" />
-    {noindex && <meta name="robots" content="noindex, follow" />}
+    {/* max-image-preview:large – bez tego Google Discover i wyniki z obrazem
+        pokazują tylko miniaturę; audyt 15.09.2026 */}
+    <meta name="robots" content={noindex ? 'noindex, follow, max-image-preview:large' : 'max-image-preview:large'} />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />

@@ -1,5 +1,6 @@
 ---
 import { relLinku as relSklepu } from '../lib/oferty.js';
+import { dataPl } from '../lib/daty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 // Tabela cen jednego zestawu. Zasada z 13.09.2026: w tabeli są WYŁĄCZNIE sklepy,
@@ -72,7 +73,7 @@ const UWAGA_SKLEP = {
             {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniższa w historii</span>}
             {UWAGA_SKLEP[o.sklep] && <span class="kc-uwaga">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
-          <td class="cena kc-cena">{fmt(o.cena)}</td>
+          <td class="cena kc-cena">{fmt(o.cena)}{o.data && <span class="kc-data">z {dataPl(o.data)}</span>}</td>
           {cenaKatalogowa && <td class="kc-rabat">{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '–'}</td>}
           <td class="kc-cta">
             {maLink(o.sklep) ? (
@@ -100,12 +101,12 @@ const UWAGA_SKLEP = {
             <strong>{sklepy.ceneo?.nazwa ?? 'Ceneo'}</strong>
             <span class="kc-uwaga">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
           </td>
-          <td class="cena kc-cena">{fmt(ceneo.cena)}</td>
+          <td class="cena kc-cena">{fmt(ceneo.cena)}{ceneo.data && <span class="kc-data">z {dataPl(ceneo.data)}</span>}</td>
           {cenaKatalogowa && <td class="kc-rabat">{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '–'}</td>}
           <td class="kc-cta"><a class="cta" href={`/idz/ceneo/${nr}`} rel="sponsored nofollow">Porównaj oferty →</a></td>
         </tr>
       )}
     </tbody>
   </table>
-  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
+  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Przy każdej cenie stoi dzień, w którym ją widzieliśmy – wiersze mogą mieć różne daty, bo sklepy odświeżamy w różnym rytmie. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
 </div>
