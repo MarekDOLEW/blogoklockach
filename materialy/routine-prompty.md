@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 15.09.2026, 15:32 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 15.09.2026, 15:35 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -140,18 +140,27 @@ Raport dostarcz jako PDF przez SendUserFile (nie Markdown — Marek nie otwiera 
 
 ## LEGO pon 06:10 — Wycofania (runner z pushem)
 
-- ID: `trig_01S5hMfivCCFytZSqces2pYw` · cron `10 4 * * 1` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01NLRxmXX6Y6bMwCV8sevTUs` · cron `10 4 * * 1` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
-Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesji — zacznij od git pull na main, na końcu commit i push bezpośrednio.
+Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
 
-1. Plik danych: src/data/wycofania.json w klonie tej sesji (w _meta instrukcja formatu — trzymaj się jej). Zweryfikuj, że ma co najmniej ~270 pozycji.
-2. Źródła: dział „Ostatnie sztuki" na lego.com/pl-pl (potwierdzone), brickset.com oraz listy „Ostatnia szansa"/„Retiring soon" na stonewars.de i promobricks.de (potwierdzone, gdy piszą, że to oznaczenie LEGO w firmowym sklepie; inaczej przewidywane). WSZYSTKIE serie — od 14.09.2026 strona /wycofania/ pokazuje każdą serię z pliku, nie tylko listę z `_meta.serie_kolejnosc`.
-2a. Sygnały od Scouta (od 15.09.2026): zacznij od `DZIENNIK.md` — Scout dopisuje w ciągu tygodnia wpisy „SCOUT · Sygnały wycofań dla runnera Wycofań" z numerami i źródłami. Każdy sygnał zweryfikuj u źródła i dopiero wtedy dopisz do pliku; bez potwierdzenia u LEGO wpis dostaje status „przewidywane" tylko wtedy, gdy podają go dwa niezależne źródła. Jesteś JEDYNYM autorem `src/data/wycofania.json` — Scout ma zakaz jego edycji.
-3. Aktualizuj przez DOŁOŻENIE zmian: dopisz nowe pozycje (numer, nazwa PL, seria, elementy, kiedy, status potwierdzone/przewidywane, jedno zdanie uwag własnymi słowami), zmieniaj status przewidywane→potwierdzone gdy LEGO potwierdzi, oznaczaj „wycofany" gdy zniknie ze sprzedaży LEGO, nie usuwaj wpisów.
-4. Jeśli są zmiany: zaktualizuj _meta.aktualizacja, zwaliduj JSON (liczba pozycji nie zmalała), commit "Wycofania: aktualizacja <data>", push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + plik przez SendUserFile. Jeśli nic się nie zmieniło — napisz to wprost i nie commituj.
-5. Podsumowanie: co doszło, co zmieniło status. Opisy własnymi słowami, po polsku.
-6. WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani plików z SendUserFile — dostaje wyłącznie mail, a przez cztery tygodnie nie dostał żadnego, bo tego kroku tu nie było. Zapisz PODSUMOWANIE z poprzedniego punktu do pliku `/tmp/raport-wycofania.md` (zwykły markdown: nagłówki, tabele, listy — dokładnie to, co piszesz w rozmowie), po czym z katalogu repo uruchom:
+0. DIAGNOZA (od 15.09.2026): zaraz po pull `node scripts/diagnoza.mjs --szybko`. Brak zmiennej (RESEND_API_KEY do maila) wpisz w pierwszej linii podsumowania i pracuj dalej.
+
+1. Plik danych: src/data/wycofania.json w klonie tej sesji (w _meta instrukcja formatu — trzymaj się jej). Zweryfikuj, że ma co najmniej ~300 pozycji. Jesteś JEDYNYM autorem tego pliku. NIE edytujesz `src/data/katalog.json` — status „dostepny/eol" w katalogu ustawia cotygodniowy zaciąg listingu lego.pl (wtorek, `lego-ceny.mjs`): zestaw widziany na listingu jest „dostepny", zestaw nieobecny 14 dni przechodzi na „eol". Listing lego.pl jest arbitrem tego, czy LEGO sprzedaje zestaw.
+
+2. Źródła: dział „Ostatnie sztuki" na lego.com/pl-pl (potwierdzone), brickset.com oraz listy „Ostatnia szansa"/„Retiring soon" na stonewars.de i promobricks.de (potwierdzone, gdy piszą, że to oznaczenie LEGO w firmowym sklepie; inaczej przewidywane). WSZYSTKIE serie — strona /wycofania/ pokazuje każdą serię z pliku. Uwaga: lego.com blokuje ruch serwerowy (403) — gdy nie odpowiada, nie kombinuj; pole `lego_pl_widziano` w `katalog.json` mówi, kiedy listing lego.pl ostatnio pokazał zestaw, i to jest Twój zamiennik sprawdzenia „czy jeszcze w sprzedaży".
+2a. Sygnały od Scouta: zacznij od `DZIENNIK.md` — Scout dopisuje w ciągu tygodnia wpisy „SCOUT · Sygnały wycofań dla runnera Wycofań" z numerami i źródłami. Każdy sygnał zweryfikuj u źródła i dopiero wtedy dopisz do pliku; bez potwierdzenia u LEGO wpis dostaje status „przewidywane" tylko wtedy, gdy podają go dwa niezależne źródła. Pod każdym przetworzonym wpisem Scouta dopisz jedną linijkę „→ Wycofania <data>: dopisane / odrzucone (powód)", żeby Kontroler nie liczył go jako zadania bez właściciela.
+
+3. Aktualizuj przez DOŁOŻENIE zmian: dopisz nowe pozycje (numer, nazwa PL, seria, elementy, kiedy, status potwierdzone/przewidywane, jedno zdanie uwag własnymi słowami), zmieniaj status przewidywane→potwierdzone gdy LEGO potwierdzi, nie usuwaj wpisów. Oznaczenie „wycofany" (kiedy: "wycofany") dajesz TYLKO, gdy zestaw ma w `katalog.json` status „eol" albo `lego_pl_widziano` starsze niż 14 dni — jeśli listing lego.pl widział go w ostatnim tygodniu, LEGO go jeszcze sprzedaje i wpis zostaje z terminem, nie „wycofany".
+
+4. KONTROLA SPÓJNOŚCI (od 15.09.2026, po zmianach): `node scripts/audyt-wycofan.mjs` — sam raport, BEZ `--napraw` (skrypt nie sprawdza niczego w sieci, a status katalogu należy do zaciągu lego.pl). Sekcja A (wpis „wycofany" przy katalogowym „dostepny") i H (kandydaci do sprawdzenia) idą do podsumowania jako lista dla Marka; jeśli w sekcji A jest zestaw, który listing lego.pl widział w ostatnich 14 dniach — to Twój wpis jest błędny: przywróć mu poprzedni termin/status i napisz o tym.
+
+5. Jeśli są zmiany: zaktualizuj _meta.aktualizacja, zwaliduj JSON (liczba pozycji nie zmalała), commit "Wycofania: aktualizacja <data>" (wycofania.json + DZIENNIK.md z adnotacjami do sygnałów), push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + plik przez SendUserFile. Jeśli nic się nie zmieniło — napisz to wprost i nie commituj.
+
+6. Podsumowanie: co doszło, co zmieniło status, wynik kontroli spójności (A i H), sygnały Scouta przetworzone/odrzucone. Opisy własnymi słowami, po polsku.
+
+7. WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani plików z SendUserFile — dostaje wyłącznie mail. Zapisz PODSUMOWANIE z poprzedniego punktu do pliku `/tmp/raport-wycofania.md` (zwykły markdown: nagłówki, tabele, listy — dokładnie to, co piszesz w rozmowie), po czym z katalogu repo uruchom:
 
     python3 scripts/wyslij-raport.py --zadanie wycofania --tytul "Wycofania zestawów — <DD.MM.RRRR>" --plik /tmp/raport-wycofania.md --wstep "<1–2 zdania: co w tym przebiegu najważniejsze>"
 
@@ -222,7 +231,7 @@ Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadn
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_01HUdmCx3Z57H7VcX2uLLuQp` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_015CVad7UA3mJpXYWxuEwfNo` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -238,17 +247,19 @@ Pobiera feedy Media Expert, Planety Klocków i Allegro, wyciąga z nich WYŁĄCZ
 ZASADY PRACY Z WYCIĄGIEM:
 - Nie wczytuj pliku w całości do kontekstu — przetwarzaj go skryptami w Pythonie i wypisuj tylko wyniki (liczby, listy dealów).
 - `_meta.mediaexpert_feed_updated` to data generowania feedu ME (00:30 CEST). Podaj ją w raporcie; jeśli nie jest z dzisiaj, napisz to wprost.
-- `_meta.bledy` — sklep, którego feed się nie pobrał. Wtedy NIE aktualizuj ofert tego sklepu i napisz to w raporcie.
+- `_meta.bledy` — sklep, którego feed się nie pobrał. Wtedy NIE aktualizuj ofert tego sklepu, nie kasuj jego wczorajszych ofert i napisz to w raporcie.
 - `_meta.planetaklockow_archiwum_eol` — numery z archiwum PK (wycofane z oferty). Raportuj jako alerty EOL, nie jako deale.
 - Skrypt filtruje marki i numery setów (tylko tytuły `^LEGO ... <numer>`), więc puzzle i gry innych marek już nie wchodzą — nie powtarzaj tego filtrowania.
 
 UWAGA — feed PK nie pokazuje cen promocyjnych (akcje typu −7% na koszyk są niewidoczne; NIE mnóż cen przez współczynnik). Dla setów, gdzie cena PK mieści się w 15% od najtańszej znanej oferty, sprawdź cenę na stronie produktu przez WebFetch (URL z pola `link`) i użyj ceny ze strony. Rozbieżności odnotuj w raporcie.
 
-PLIKI w src/data/ (po git pull):
+PLIKI w src/data/ (po git pull). Zapisuj je z Pythona (`json.dump(..., ensure_ascii=False)`), wczytując i zapisując cały obiekt bez zmiany kolejności kluczy; oferty_feed.json ma być jedną linią (tak jak jest), sety.json z wcięciem 1 spacji — nigdy nie zmieniaj formatu pliku, bo diff rośnie do dziesiątek tysięcy linii.
 - ceny_baza.json — ceny katalogowe i minima historyczne. Rabaty licz WYŁĄCZNIE od ceny katalogowej. Nowe minimum (niższe, nie równe) → zaktualizuj najnizsza_cena/najnizsza_data/najnizsza_sklep.
-- sety.json — zmieniaj tylko ceny i oferty, dopisuj nowe sety wg wzorca, nie usuwaj opisów ani wpisów.
-- oferty_feed.json — migawka dla wszystkich setów; wpis: {"zdjecie", "data", "oferty": {"mediaexpert": X, "planetaklockow": Y, "allegro": Z}} + pola "cena"/"sklep" z najniższą (zgodność wstecz). Sety nieobecne w dzisiejszych feedach: usuń oferty/cena/sklep, zostaw zdjecie. NIE RUSZAJ klucza "ceneo" — wypełnia go osobny skrypt (scripts/ceneo-feed.mjs), a wiersz Ceneo jest poza sortowaniem tabeli. NIE RUSZAJ klucza "lego" w ofertach — wypełnia go cotygodniowy zaciąg lego.pl (scripts/lego-ceny.mjs).
-- redirects.json — linki afiliacyjne: PK dopisuj do gałęzi planetaklockow (nie nadpisuj istniejących); gałąź allegro ODŚWIEŻAJ przy każdym przebiegu linkami z pola `link` wyciągu Allegro. Gałęzi ceneo i lego nie dotykaj.
+- sety.json — zmieniaj tylko ceny i oferty, dopisuj nowe sety wg wzorca, nie usuwaj opisów ani wpisów. Każda oferta z datą odczytu.
+- oferty_feed.json — migawka dla wszystkich setów; wpis: {"zdjecie", "data", "daty": {"<sklep>": "RRRR-MM-DD"}, "oferty": {"mediaexpert": X, "planetaklockow": Y, "allegro": Z, ...}} + pola "cena"/"sklep" z najniższą (zgodność wstecz). Przy każdej zapisanej cenie ustaw `daty[sklep]` na dzisiejszą datę (hub pokazuje datę per sklep — bez tego wiersz ME dostaje datę zrzutu Empiku). TWOJE klucze w `oferty` to WYŁĄCZNIE: mediaexpert, planetaklockow, allegro. Sety nieobecne w dzisiejszych feedach: usuń TYLKO te trzy klucze (i przelicz cena/sklep z tego, co zostało), zostaw zdjecie. NIE RUSZAJ kluczy „ceneo" (skrypt ceneo-feed.mjs, wtorek), „lego" (zaciąg lego.pl, wtorek), „empik" (zrzut tygodniowy — patrz IMPORT EMPIKU) ani „smyk".
+- redirects.json — linki afiliacyjne: PK dopisuj do gałęzi planetaklockow (nie nadpisuj istniejących); gałąź allegro: NADPISUJ wpisy setów obecnych w dzisiejszym feedzie linkami z pola `link`, wpisów nieobecnych NIE kasuj (append-only z CLAUDE.md — pusty feed nie może wymazać 5 000 linków). Gałęzi ceneo, lego, empik, smyk nie dotykaj.
+
+IMPORT EMPIKU (tylko gdy Marek wrzucił do tej sesji plik `lego-empik.json` ze zrzutu; zwykle w poniedziałek, po przypominajce o 08:15). Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalnie. Gdy plik jest: (1) ceny → `oferty_feed.json` pod kluczem `empik` z `daty.empik` = data zrzutu z pliku (nie dzisiejsza), plus oferta `{sklep: "empik", cena, data}` w sety.json dla setów, które tam są; (2) `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` — to JEDYNY skrypt, który wolno kasować wpisy (deeplinki produktów, które zniknęły z oferty, prowadziłyby na 404); (3) w podsumowaniu: ile cen, ile linków dodanych/skasowanych, data zrzutu. Gdy pliku nie ma — klucza `empik` nie ruszasz i nic o tym nie piszesz poza jedną linijką „bez zrzutu Empiku".
 
 ŚWIEŻOŚĆ OFERT: każda oferta z datą faktycznego odczytu; NADPISZ ofertę sklepu dzisiejszą ceną nawet gdy wyższa (koniec promocji musi zniknąć tego samego dnia); minima tylko w ceny_baza.json.
 
@@ -256,11 +267,13 @@ WERYFIKACJA: przed pushem sprawdź 3 sety z dealów gorących przez WebFetch na 
 
 KLASYFIKACJA: gorący ≥30% lub nowe minimum; dobry 20–29%; <15% = pseudopromocja. Przy rabacie >60% na Allegro (marketplace) oznacz deal jako „do weryfikacji", nie publikuj jako pewnik.
 
-POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.2026 — wcześniej było tylko „przy wyjątkowych okazjach"): piszesz post, gdy (a) rabat ≥35% od ceny katalogowej na zestawie o RRP ≥300 zł w sklepie (nie marketplace), albo (b) historyczne minimum na zestawie z listy wycofań (`wycofania.json`), albo (c) akcja sklepowa obejmująca ≥5 zestawów LEGO (kod rabatowy, „wyższa szkoła rabatu" itp.). Najwyżej 2 posty tygodniowo — jeśli kandydatów jest więcej, wybierz te o największym rabacie w złotych. Post wg `lego-standard-sprzedazowy` (`.claude/skills/`), z linkiem do huba `/zestaw/<nr>/`, bez daty końca promocji, jeśli sklep jej nie podaje. Nie pisz postu o zestawie, który miał post w ostatnich 14 dniach.
+POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.2026): piszesz post, gdy (a) rabat ≥35% od ceny katalogowej na zestawie o RRP ≥300 zł w sklepie (nie marketplace), albo (b) historyczne minimum na zestawie z listy wycofań (`wycofania.json`), albo (c) akcja sklepowa obejmująca ≥5 zestawów LEGO (kod rabatowy, „wyższa szkoła rabatu" itp.). Najwyżej 2 posty tygodniowo — jeśli kandydatów jest więcej, wybierz te o największym rabacie w złotych. Post wg `lego-standard-sprzedazowy` (`.claude/skills/`), z linkiem do huba `/zestaw/<nr>/`, bez daty końca promocji, jeśli sklep jej nie podaje. Nie pisz postu o zestawie, który miał post w ostatnich 14 dniach.
 
-PUBLIKACJA: walidacja JSON-ów (liczby wpisów nie zmalały), commit „Łowca: ceny i oferty <data>", push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
+PRZED COMMITEM: `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda. Plik dołącz do commita.
 
-PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), weryfikacje PK, zmiany cen (ile w górę), deale gorące (cena, rabat, zł/klocek) i gotowe posty dealowe.
+PUBLIKACJA: walidacja JSON-ów (liczby wpisów nie zmalały w ŻADNEJ gałęzi: sety, oferty_feed.sety, każda gałąź redirects), commit „Łowca: ceny i oferty <data>", push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
+
+PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), weryfikacje PK, zmiany cen (ile w górę), deale gorące (cena, rabat, zł/klocek), gotowe posty dealowe, import Empiku (jeśli był).
 
 BUDŻET: pracuj oszczędnie — jedno uruchomienie skryptu, przetwarzanie w Pythonie, bez powtarzania kroków i bez eksperymentów z parsowaniem. Jeśli skrypt zwróci błąd, napisz jaki i zakończ, zamiast parsować feedy ręcznie.
 
