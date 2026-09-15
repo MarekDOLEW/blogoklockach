@@ -126,6 +126,25 @@ idzie tylko serwer → kontener, więc z sesji nie da się tego zrobić.
 
 ---
 
+## Hub dla każdego zestawu z katalogu — nigdy 404 *(decyzja Marka 15.09.2026)*
+
+Do 15.09 hub `/zestaw/<nr>/` istniał tylko dla zestawu z ofertą w feedzie, wpisem
+w `sety.json`, kartą Piotra albo statusem „dostepny" z RRP. Gdy oferta wypadała
+z feedu, **strona znikała i oddawała 404** — Search Console: 9% skanowań to 404
+na `/zestaw/NNNN/`, a Google do nich wraca. Od 15.09 `policzHuby()` bierze
+**każdy numer z `katalog.json`** (9 363 huby, build 25 s). Cienki hub dostaje
+`noindex, follow` z reguł `seo.js` i nie trafia do sitemapy, ale odpowiada 200.
+Raz wpisany zestaw zostaje na zawsze — to dane historyczne.
+
+Katalog dostał 1 523 numery z Rebrickable (`scripts/katalog-z-rebrickable.mjs`):
+wycenione w feedach, których katalog nie znał (stare numery z Allegro). Nazwy
+po angielsku, bez RRP, pole `zrodlo: "rebrickable"`; motywy mapowane na nasze
+serie (Super Heroes DC → DC, Creator Expert → Icons, breloki → Gadżety),
+realne dawne linie (Nexo Knights, DOTS, Bionicle, Chima…) dostały własne serie,
+gdy mają ≥10 zestawów; reszta i śmieci → Archiwum. 197 numerów z feedów
+Rebrickable nie zna (podszywki, EAN-y, numery pomocnicze) — bez huba, celowo.
+Skrypt jest append-only; uruchamiać, gdy `--sucho` pokaże nowe „spoza katalogu".
+
 ## Zdjęcia: Planeta Klocków odrzuca fetch z workera *(ustalone 14.09.2026)*
 
 Worker serwuje `/img/<nr>.jpg` i `/img/<nr>-<poz>.jpg` z R2, a gdy w R2 nic nie
