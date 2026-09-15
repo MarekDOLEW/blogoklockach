@@ -195,6 +195,21 @@ const DOMENA = 'https://tylkoklocki.pl';
 const NADAWCA_ALERTOW = 'tylkoklocki.pl <alerty@tylkoklocki.pl>';
 const naHub = (nr, stan) => Response.redirect(`${DOMENA}/zestaw/${nr}/?obserwuj=${stan}#obserwuj`, 303);
 
+// Linki z maila (potwierdzenie, rezygnacja) dostają własną stronę zamiast
+// przekierowania: 15.09.2026 Marek zobaczył po kliknięciu „nie ma takiej strony"
+// (przekierowanie 303 + kotwica + komunikat rysowany skryptem to za dużo ogniw
+// dla klienta poczty). Prosta strona HTML bez skryptu działa wszędzie.
+const KOMUNIKATY_STRONY = {
+  ok: ['Alerty włączone', 'Napiszemy, gdy cena tego zestawu spadnie co najmniej 20% poniżej ceny katalogowej albo zanotujemy nową najniższą cenę. W każdej wiadomości jest link do rezygnacji.'],
+  koniec: ['Alerty wyłączone', 'Adres e-mail został usunięty. Możesz zapisać się ponownie na stronie zestawu.'],
+  brak: ['Ten link już nie działa', 'Zapis mógł zostać usunięty (niepotwierdzone adresy kasujemy po tygodniu). Możesz zapisać się ponownie na stronie zestawu.'],
+};
+function stronaStanu(nr, stan) {
+  const [tytul, tresc] = KOMUNIKATY_STRONY[stan] ?? KOMUNIKATY_STRONY.brak;
+  const html = `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>${tytul} – tylkoklocki.pl</title><style>body{font-family:system-ui,sans-serif;background:#f6f7fb;color:#17233f;margin:0;padding:40px 16px}main{max-width:520px;margin:0 auto;background:#fff;border-radius:14px;padding:28px 26px;box-shadow:0 2px 12px rgba(23,35,63,.08)}h1{font-size:1.4rem;margin:0 0 10px}p{line-height:1.5;margin:0 0 14px}a.btn{display:inline-block;background:#17233f;color:#ffc933;font-weight:700;text-decoration:none;padding:10px 18px;border-radius:999px}small{opacity:.7}</style></head><body><main><h1>${tytul}</h1><p>${tresc}</p><p><a class="btn" href="${DOMENA}/zestaw/${nr}/">Strona zestawu LEGO ${nr} →</a></p><p><small>tylkoklocki.pl · <a href="${DOMENA}/polityka-prywatnosci/#obserwuj">polityka prywatności</a></small></p></main></body></html>`;
+  return new Response(html, { status: stan === 'brak' ? 404 : 200, headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'no-store' } });
+}
+
 async function obserwuj(request, env, url) {
   const akcja = url.pathname.split('/').filter(Boolean)[1] ?? '';
   if (!env.OBRAZY) return new Response('Alerty niedostępne', { status: 503 });
@@ -215,7 +230,9 @@ async function obserwuj(request, env, url) {
     const tekst = [
       `Ktoś (mamy nadzieję, że Ty) poprosił o alerty cenowe zestawu LEGO ${nr} na tylkoklocki.pl.`,
       '',
-      `Żeby je włączyć, kliknij: ${potwierdz}`,
+      'Żeby je włączyć, kliknij ten link (albo skopiuj go w całości do przeglądarki):',
+      '',
+      potwierdz,
       '',
       'Jeśli to nie Ty – zignoruj tę wiadomość; bez kliknięcia adres zostanie usunięty w ciągu tygodnia.',
       `Strona zestawu: ${DOMENA}/zestaw/${nr}/`,
@@ -230,15 +247,15 @@ async function obserwuj(request, env, url) {
     if (!/^\d{4,7}$/.test(nr) || !/^[0-9a-f]{32}$/.test(t)) return new Response('Zły link', { status: 400 });
     const klucz = `_obserwuj/${nr}/${t}.json`;
     const obiekt = await env.OBRAZY.get(klucz);
-    if (!obiekt) return naHub(nr, 'brak');
-    if (akcja === 'rezygnuj') { await env.OBRAZY.delete(klucz); return naHub(nr, 'koniec'); }
+    if (!obiekt) return stronaStanu(nr, 'brak');
+    if (akcja === 'rezygnuj') { await env.OBRAZY.delete(klucz); return stronaStanu(nr, 'koniec'); }
     const wpis = await obiekt.json();
     if (!wpis.potwierdzony) {
       wpis.potwierdzony = true;
       wpis.potwierdzono = new Date().toISOString();
       await env.OBRAZY.put(klucz, JSON.stringify(wpis), { httpMetadata: { contentType: 'application/json' } });
     }
-    return naHub(nr, 'ok');
+    return stronaStanu(nr, 'ok');
   }
   return new Response('Nie znaleziono', { status: 404 });
 }
