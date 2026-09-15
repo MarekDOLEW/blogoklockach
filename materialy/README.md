@@ -30,6 +30,7 @@ Nie aktualizuje się ich. Nowy raport to nowy plik z nową datą w nazwie.
 |---|---|
 | `kontroler-2026-09-14.md` | Raport Kontrolera. Opisuje przebieg **bez dostępów** — patrz `zadania-cykliczne.md`, sekcja o Kontrolerze |
 | `audyt-wycofan-2026-09-13.md` | Audyt statusów EOL |
+| `audyt-mechanizmu-2026-09-15.md` | Audyt całego mechanizmu (przepływ danych, SEO/indeksacja, UX, redakcja, konkurencja, nisze) — lista 19 punktów i 6 pytań do Marka |
 | `dziennik-archiwum-2026-08.md` | Archiwum dziennika. **Tworzy i linkuje je `scripts/archiwum-dziennika.mjs`** — nie przenoś, indeks w `DZIENNIK.md` wskazuje na tę ścieżkę |
 | `gsc-test.txt` | Test połączeń z API Google, 18.08.2026 — zapis momentu włączenia Search Console API w GCP |
 | `mail-do-piotra-karty-poprawki.md` + `.pdf` | Jednorazowa korespondencja |

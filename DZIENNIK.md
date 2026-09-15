@@ -47,6 +47,30 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 08:20 · CODE · Audyt mechanizmu od researchu po widoczność — raport
+
+**Zrobione:** `materialy/audyt-mechanizmu-2026-09-15.md` (PDF wysłany Markowi).
+Najważniejsze liczby: 8 kliknięć z Google w 30 dni, wyświetlenia spadają
+(132 → 70 → 39/tydz.), huby na frazach numerowych na pozycjach 37–50; 78
+użytkowników/7 dni, z czego 37 z ChatGPT. Mechanizm produkcyjny szczelny; luki:
+`wycofania.json` pisane przez Scouta bez reguł (runner Wycofań nigdy nie odpalił),
+Backfill wyłączony (2005 wycenionych setów bez RRP), jedna data dla wierszy
+o różnej świeżości w tabeli cen, robots.txt na produkcji z blokadami AI
+z panelu Cloudflare (nie z repo), brak favicony, pusta 404, obrazy w oryginale
+(p90 517 KB). Nisze policzone na katalogu: hełmy 11, BrickHeadz 26, Speed
+Champions 32, Botanicals 40, 18+ 192, wg wieku 12 przedziałów, adwentowe 6.
+
+**Stan:** raport gotowy; 19 punktów z priorytetami i 6 pytań do Marka — bez
+odpowiedzi nie ruszam punktów 1, 4, 5, 6, 11, 15, 16.
+
+**Dla drugiej strony:** Piotr — §4 (karty vs teksty, dwie puste kategorie:
+Kalendarze i Historyczne) i §6 (tematy). Scout — nie dotykaj `wycofania.json`
+do decyzji Marka (§1.1).
+
+**Uwagi:** pole „zindeksowane" w API sitemap pokazuje 0 dla wszystkich —
+niewiarygodne od 2022; realną liczbę trzeba odczytać z panelu GSC.
+
+
 ## 2026-09-15 06:55 · CODE · Zdjęcia → R2: rejestrem jest kubełek, codzienny Routine o 04:00
 
 **Zrobione:** pełny przegląd zdjęć głównych (10 664 na produkcji): 10 530 działa,
