@@ -9,7 +9,7 @@
 // Piotrowi. To materiał do researchu, NIE treść do publikacji: standard zakazuje
 // języka marketingowego producenta, a tekst LEGO jest chroniony prawem autorskim.
 //
-// Koszt: 1 kredyt Firecrawla na kartę (markdown). Adresy kart bierzemy z katalogu
+// Koszt: 1 kredyt Firecrawla na kartę (markdown), tempo 10 kart/min (limit planu). Adresy kart bierzemy z katalogu
 // lego.pl (scripts/firecrawl-legopl.mjs); zestaw bez adresu w katalogu pomijamy.
 //
 // Użycie:
@@ -17,6 +17,7 @@
 //   node scripts/opisy-legopl.mjs katalog-legopl.json [--limit 50]      # pobierz brakujące
 //   node scripts/opisy-legopl.mjs katalog-legopl.json --numery 21333,21341
 //   node scripts/opisy-legopl.mjs --pdf /tmp/opisy-pdf                  # same PDF-y z istniejących .md
+//   node scripts/opisy-legopl.mjs --wyczysc                             # przeczyść istniejące .md po zmianie reguł
 //
 // Wymaga FIRECRAWL_KEY (pobieranie). PDF: scripts/md-na-pdf.py + Chromium z kontenera.
 
@@ -47,6 +48,19 @@ if (pdfDir && !plikKatalogu) {
     n++;
   }
   console.log(`PDF-y: ${n} plików w ${pdfDir}`);
+  process.exit(0);
+}
+
+if (arg.includes('--wyczysc')) {
+  let n = 0;
+  for (const f of readdirSync(KATALOG_MD).filter((x) => /^\d+\.md$/.test(x))) {
+    const md = readFileSync(`${KATALOG_MD}/${f}`, 'utf8');
+    const i = md.indexOf('\n## ');
+    if (i < 0) continue;
+    const nowy = md.slice(0, i + 1) + wyczysc(md.slice(i + 1)) + '\n';
+    if (nowy !== md) { writeFileSync(`${KATALOG_MD}/${f}`, nowy); n++; }
+  }
+  console.log(`Wyczyszczono ${n} plików.`);
   process.exit(0);
 }
 
@@ -84,6 +98,19 @@ if (sucho) { console.log('Tryb --sucho: nic nie pobrano.'); process.exit(0); }
 if (!process.env.FIRECRAWL_KEY) { console.error('Brak FIRECRAWL_KEY.'); process.exit(2); }
 
 // --- wycinanie treści z markdownu karty ------------------------------------
+// Markdown karty ma obrazki, przycisk „Play", karuzele powtórzone dwa razy
+// i sekcję ze zdjęciami fanów — zostaje sam tekst, każdy akapit raz.
+function wyczysc(md) {
+  const bezObrazkow = md
+    .replace(/^\s*\d+\.\s*!\[[^\]]*\]\([^)]*\)\s*$/gm, '')   // „1. ![…](…)" – numer karuzeli z obrazkiem
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')                       // pozostałe obrazki
+    .replace(/^\s*Play\s*$/gm, '');
+  const bloki = bezObrazkow.split(/\n\s*\n/).map((b) => b.trim()).filter(Boolean);
+  const widziane = new Set(); const out = [];
+  for (const b of bloki) { if (widziane.has(b)) continue; widziane.add(b); out.push(b); }
+  return out.join('\n\n');
+}
+
 function wytnij(md) {
   const linie = md.split('\n');
   const start = linie.findIndex((l) => /^## (Funkcje|Szczegóły produktu)/.test(l));
@@ -93,10 +120,24 @@ function wytnij(md) {
   // wytnij sekcje marketingowe „Zobacz więcej zestawów…" w środku
   const out = []; let pomijam = false;
   for (const l of fragment) {
-    if (/^## /.test(l)) pomijam = /^## (Zobacz więcej|Załóż strój|Zdobądź)/.test(l);
+    if (/^## /.test(l)) pomijam = /^## (Zobacz więcej|Załóż strój|Zdobądź|Chwile uwiecznione|Zdjęcia fanów)/.test(l);
     if (!pomijam) out.push(l);
   }
-  return out.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+  return wyczysc(out.join('\n'));
+}
+
+// Plan darmowy Firecrawla: 10 zapytań/min. Odstęp 6,5 s trzyma się pod limitem,
+// a przy 429 czekamy minutę i próbujemy raz jeszcze (15.09: bez tego 136 z 166 padło).
+const ODSTEP_MS = 6500;
+const czekaj = (ms) => new Promise((r) => setTimeout(r, ms));
+async function pobierzMarkdown(url) {
+  try {
+    return await scrape(url, { formaty: ['markdown'] });
+  } catch (e) {
+    if (!/429/.test(String(e.message))) throw e;
+    await czekaj(61_000);
+    return scrape(url, { formaty: ['markdown'] });
+  }
 }
 
 const lista = limit ? zAdresem.slice(0, limit) : zAdresem;
@@ -104,7 +145,7 @@ let ok = 0, bledy = [];
 for (const nr of lista) {
   const { url, nazwa } = urlKarty.get(nr);
   try {
-    const md = await scrape(url, { formaty: ['markdown'] });
+    const md = await pobierzMarkdown(url);
     const tresc = wytnij(typeof md === 'string' ? md : md?.markdown ?? '');
     if (!tresc) { bledy.push(`${nr}: brak sekcji Funkcje/Szczegóły w karcie`); continue; }
     const naglowek = `# LEGO ${nazwa} (${nr}) — opis producenta\n\n*Źródło: ${url} · pobrano ${new Date().toISOString().slice(0, 10)} · materiał do researchu, nie do publikacji dosłownie (język producenta, prawa autorskie LEGO).*\n\n`;
@@ -113,6 +154,7 @@ for (const nr of lista) {
   } catch (e) {
     bledy.push(`${nr}: ${String(e.message).slice(0, 100)}`);
   }
+  await czekaj(ODSTEP_MS);
 }
 console.log(`Pobrane: ${ok}, błędy: ${bledy.length}`);
 for (const b of bledy.slice(0, 20)) console.log('  ' + b);

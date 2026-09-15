@@ -1,0 +1,59 @@
+---
+// „Obserwuj zestaw" (decyzja Marka 15.09.2026): jeden mail, gdy zestaw wejdzie
+// w promocję (co najmniej 20% poniżej ceny katalogowej, próg „dobry" z reguł
+// deali) albo zanotujemy nową najniższą cenę. Formularz idzie do workera
+// (/obserwuj), zapis w R2, potwierdzenie mailem (double opt-in), alerty wysyła
+// scripts/alerty-cen.mjs raz dziennie po Łowcy. Stan po powrocie z workera
+// przychodzi w ?obserwuj=… i jest pokazywany skryptem poniżej.
+const { nr, eol = false } = Astro.props;
+---
+<section class="karta obserwuj" id="obserwuj">
+  <h2>Obserwuj cenę tego zestawu</h2>
+  <p>
+    {eol
+      ? 'LEGO zakończyło produkcję, ale inne sklepy bywają jeszcze z zapasami. Damy znać mailem, gdy któryś zejdzie z ceną wyraźnie poniżej katalogowej albo gdy zanotujemy nową najniższą cenę.'
+      : 'Wyślemy jeden mail, gdy zestaw zejdzie do promocji co najmniej 20% poniżej ceny katalogowej albo gdy zanotujemy nową najniższą cenę. Bez newslettera i bez reklam – rezygnacja jednym kliknięciem w każdej wiadomości.'}
+  </p>
+  <form method="post" action="/obserwuj" class="obserwuj-form">
+    <input type="hidden" name="nr" value={nr} />
+    <label class="obserwuj-www" aria-hidden="true">Nie wypełniaj <input type="text" name="www" tabindex="-1" autocomplete="off" /></label>
+    <label class="tylko-czytnik" for={`obserwuj-email-${nr}`}>Adres e-mail</label>
+    <input type="email" id={`obserwuj-email-${nr}`} name="email" required placeholder="twoj@adres.pl" maxlength="120" autocomplete="email" />
+    <button type="submit" class="przycisk-drugi obserwuj-btn">Obserwuj</button>
+  </form>
+  <p class="obserwuj-stan" data-obserwuj-stan hidden></p>
+  <p class="obserwuj-rodo">Adres służy wyłącznie do alertów o tym zestawie i zostaje u nas do Twojej rezygnacji. <a href="/polityka-prywatnosci/#obserwuj">Polityka prywatności</a>.</p>
+</section>
+<script>
+  const KOMUNIKATY: Record<string, string> = {
+    wyslano: 'Wysłaliśmy mail z linkiem potwierdzającym – kliknij go, żeby włączyć alerty (sprawdź też spam).',
+    ok: 'Alerty włączone. Napiszemy, gdy cena spadnie.',
+    koniec: 'Alerty wyłączone. Adres usunęliśmy.',
+    brak: 'Ten link już nie działa – zapis mógł zostać usunięty. Możesz zapisać się ponownie.',
+    'zly-email': 'Ten adres e-mail nie wygląda poprawnie – sprawdź go i spróbuj jeszcze raz.',
+    niedostepne: 'Alerty są jeszcze wyłączone po naszej stronie. Spróbuj za kilka dni.',
+    blad: 'Nie udało się wysłać maila potwierdzającego. Spróbuj ponownie za chwilę.',
+  };
+  const stan = new URLSearchParams(location.search).get('obserwuj');
+  const pole = document.querySelector<HTMLElement>('[data-obserwuj-stan]');
+  if (stan && pole && KOMUNIKATY[stan]) {
+    pole.textContent = KOMUNIKATY[stan];
+    pole.hidden = false;
+    pole.classList.add(stan === 'ok' || stan === 'wyslano' || stan === 'koniec' ? 'obserwuj-stan--ok' : 'obserwuj-stan--blad');
+    document.getElementById('obserwuj')?.scrollIntoView({ block: 'center' });
+  }
+</script>
+<style is:global>
+  .obserwuj { padding: 16px 20px; margin-top: 18px; }
+  .obserwuj h2 { margin: 0 0 6px; font-size: 1.1rem; }
+  .obserwuj p { margin: 0 0 10px; font-size: 0.95rem; }
+  .obserwuj-form { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .obserwuj-form input[type="email"] { font: inherit; padding: 9px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: #fff; color: var(--granat); flex: 1 1 220px; min-width: 0; }
+  .obserwuj-form input[type="email"]:focus { border-color: var(--granat-60); outline: none; }
+  .obserwuj-btn { cursor: pointer; font: inherit; font-weight: 700; }
+  .obserwuj-www { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+  .obserwuj-stan { padding: 8px 12px; border-radius: 8px; font-weight: 600; }
+  .obserwuj-stan--ok { background: #e7f6ec; color: #17623a; }
+  .obserwuj-stan--blad { background: #fdecec; color: #8a1c1c; }
+  .obserwuj-rodo { font-size: 0.82rem; opacity: 0.75; margin-bottom: 0 !important; }
+</style>

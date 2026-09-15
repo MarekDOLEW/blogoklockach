@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
 import Okruszki from '../../components/Okruszki.astro';
+import ObserwujCene from '../../components/ObserwujCene.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { zdjecieSetu, opisSetu } from '../../lib/media.js';
@@ -343,6 +344,8 @@ const opisMeta = najlepsza
     ) : (
       <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż (EOL), pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
     )}
+
+    {!przeciek && <ObserwujCene nr={nr} eol={eol} />}
 
     {karta && (
       <section class="sekcja karta-setu" style="margin-top:24px">

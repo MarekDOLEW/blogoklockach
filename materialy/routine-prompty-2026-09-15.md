@@ -68,6 +68,25 @@ Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i
 Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat.
 ```
 
+## 4. „LEGO 09:30 — Alerty cen (Obserwuj zestaw)" — codziennie, cron `30 7 * * *`
+
+*Zakładać dopiero, gdy worker z trasą `/obserwuj` jest na produkcji i sekret
+`RESEND_API_KEY` jest dodany do workera (Workers → blogoklockach → Settings →
+Variables and Secrets). Bez tego formularz na hubie odpowiada „alerty jeszcze
+wyłączone" i nic nie zapisuje.*
+
+```
+Codzienna wysyłka alertów cenowych „Obserwuj zestaw" dla tylkoklocki.pl. Czytelnicy zapisują się na hubie zestawu, zapisy leżą w R2, a ten przebieg porównuje dzisiejsze ceny (po porannym Łowcy) z progiem i wysyła maile przez Resend. Wszystko robi jeden skrypt; Ty go uruchamiasz i czytasz wynik. Kontekst: RUNBOOK.md, sekcja „Alerty cenowe (Obserwuj zestaw)".
+
+Kroki:
+1. W katalogu repo: `git fetch origin main && git checkout -q origin/main` (skrypt nie ma zależności npm). Nic nie commitujesz, nic nie pushujesz.
+2. `node scripts/alerty-cen.mjs --sucho` — przeczytaj, ile alertów skrypt chce wysłać. Jeśli więcej niż 200 albo lista wygląda podejrzanie (jeden adres wiele razy, ceny 0 zł) — NIE uruchamiaj wysyłki, opisz to w podsumowaniu.
+3. `node scripts/alerty-cen.mjs` — wysyłka. Kod wyjścia 2 = brak zmiennej środowiska (CF_ACCOUNT_ID, CF_R2_TOKEN, RESEND_API_KEY): wklej komunikat, nie szukaj obejść.
+4. Podsumowanie: jedna linijka ze skryptu (zapisów / potwierdzonych / wysłanych / błędów). Gdy były błędy — wklej je dosłownie.
+
+Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnych maili poza tymi, które wysyła skrypt.
+```
+
 ---
 
 Po założeniu wszystkich w panelu: daj znać w sesji Code — skasuję `trig_01TSSqtf4ke7wfxwbmkAp6GM`

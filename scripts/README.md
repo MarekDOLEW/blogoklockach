@@ -50,6 +50,12 @@ lub do ofert. Żaden nie chodzi sam.
 | `lego-ceny.mjs` | LEGO.com | **Routine „LEGO.pl katalog" (wtorek 05:00)**. Wejściem jest katalog z `firecrawl-legopl.mjs`: cena LEGO.com do `oferty_feed` (klucz `lego` + `daty.lego`) i do `sety.json`, status `dostepny` + flaga `ekskluzyw` + `lego_pl_widziano` w `katalog.json`. Nic nie kasuje. Zawsze najpierw `--sucho` |
 | `katalog-z-rebrickable.mjs` | sesja, gdy `--sucho` pokaże nowe numery spoza katalogu | Dopisuje do `katalog.json` zestawy wycenione w feedach, których katalog nie zna (Rebrickable CSV, nazwy EN, bez RRP). Append-only. Patrz RUNBOOK „Hub dla każdego zestawu" |
 
+## Alerty cenowe „Obserwuj zestaw"
+
+| Skrypt | Kto uruchamia | Do czego |
+|---|---|---|
+| `alerty-cen.mjs` | Routine „Alerty cen" codziennie 09:30 (po Łowcy) | Listuje zapisy z R2 (`_obserwuj/`), kasuje niepotwierdzone po 7 dniach, wysyła mail (Resend), gdy cena jest ≥20% poniżej katalogowej i niższa od ostatnio wysłanej. `--sucho` pokazuje, co by wysłał. Zapisy zakłada worker (`/obserwuj`) |
+
 ## Firecrawl — tylko tam, gdzie nas blokują
 
 | Skrypt | Do czego |

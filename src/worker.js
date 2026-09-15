@@ -18,6 +18,14 @@ export default {
       });
     }
 
+    // Alerty cenowe „Obserwuj zestaw" (15.09.2026): POST /obserwuj z formularza
+    // huba, GET /obserwuj/potwierdz i /obserwuj/rezygnuj z linków w mailu.
+    // Zapis w R2 (_obserwuj/<nr>/<token>.json), mail potwierdzający przez Resend
+    // (sekret RESEND_API_KEY workera); alerty wysyła scripts/alerty-cen.mjs.
+    if (url.pathname === '/obserwuj' || url.pathname.startsWith('/obserwuj/')) {
+      return obserwuj(request, env, url);
+    }
+
     // Zdjęcia zestawów z naszej domeny: /img/<numer>.jpg
     // Kolejność: trwała kopia w R2 -> pobranie ze źródła (sklep/rebrickable)
     // z zapisem przelotowym do R2. Raz zapisane zdjęcie zostaje u nas na zawsze,
@@ -178,3 +186,72 @@ export default {
     return env.ASSETS.fetch(request);
   },
 };
+
+// ---------------------------------------------------------------------------
+// „Obserwuj zestaw" — zapis, potwierdzenie (double opt-in) i rezygnacja.
+// Obiekt w R2: { nr, email, token, kiedy, potwierdzony, potwierdzono?, ostatnia_cena, ostatni_alert }.
+// Bez RESEND_API_KEY worker nic nie zapisuje i odsyła na hub ze stanem „niedostepne".
+const DOMENA = 'https://tylkoklocki.pl';
+const NADAWCA_ALERTOW = 'tylkoklocki.pl <alerty@tylkoklocki.pl>';
+const naHub = (nr, stan) => Response.redirect(`${DOMENA}/zestaw/${nr}/?obserwuj=${stan}#obserwuj`, 303);
+
+async function obserwuj(request, env, url) {
+  const akcja = url.pathname.split('/').filter(Boolean)[1] ?? '';
+  if (!env.OBRAZY) return new Response('Alerty niedostępne', { status: 503 });
+
+  if (request.method === 'POST' && !akcja) {
+    let dane;
+    try { dane = await request.formData(); } catch { return new Response('Złe żądanie', { status: 400 }); }
+    const nr = String(dane.get('nr') ?? '').trim();
+    const email = String(dane.get('email') ?? '').trim().toLowerCase();
+    if (!/^\d{4,7}$/.test(nr)) return new Response('Zły numer zestawu', { status: 400 });
+    if (String(dane.get('www') ?? '')) return naHub(nr, 'wyslano'); // honeypot: bot dostaje „sukces", nic nie zapisujemy
+    if (email.length > 120 || !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return naHub(nr, 'zly-email');
+    if (!env.RESEND_API_KEY) return naHub(nr, 'niedostepne');
+    const token = [...crypto.getRandomValues(new Uint8Array(16))].map((b) => b.toString(16).padStart(2, '0')).join('');
+    const wpis = { nr, email, token, kiedy: new Date().toISOString(), potwierdzony: false, ostatnia_cena: null, ostatni_alert: null };
+    await env.OBRAZY.put(`_obserwuj/${nr}/${token}.json`, JSON.stringify(wpis), { httpMetadata: { contentType: 'application/json' } });
+    const potwierdz = `${DOMENA}/obserwuj/potwierdz?nr=${nr}&t=${token}`;
+    const tekst = [
+      `Ktoś (mamy nadzieję, że Ty) poprosił o alerty cenowe zestawu LEGO ${nr} na tylkoklocki.pl.`,
+      '',
+      `Żeby je włączyć, kliknij: ${potwierdz}`,
+      '',
+      'Jeśli to nie Ty – zignoruj tę wiadomość; bez kliknięcia adres zostanie usunięty w ciągu tygodnia.',
+      `Strona zestawu: ${DOMENA}/zestaw/${nr}/`,
+    ].join('\n');
+    const wyslano = await mailResend(env, email, `Potwierdź alerty cenowe LEGO ${nr}`, tekst);
+    return naHub(nr, wyslano ? 'wyslano' : 'blad');
+  }
+
+  if (request.method === 'GET' && (akcja === 'potwierdz' || akcja === 'rezygnuj')) {
+    const nr = url.searchParams.get('nr') ?? '';
+    const t = url.searchParams.get('t') ?? '';
+    if (!/^\d{4,7}$/.test(nr) || !/^[0-9a-f]{32}$/.test(t)) return new Response('Zły link', { status: 400 });
+    const klucz = `_obserwuj/${nr}/${t}.json`;
+    const obiekt = await env.OBRAZY.get(klucz);
+    if (!obiekt) return naHub(nr, 'brak');
+    if (akcja === 'rezygnuj') { await env.OBRAZY.delete(klucz); return naHub(nr, 'koniec'); }
+    const wpis = await obiekt.json();
+    if (!wpis.potwierdzony) {
+      wpis.potwierdzony = true;
+      wpis.potwierdzono = new Date().toISOString();
+      await env.OBRAZY.put(klucz, JSON.stringify(wpis), { httpMetadata: { contentType: 'application/json' } });
+    }
+    return naHub(nr, 'ok');
+  }
+  return new Response('Nie znaleziono', { status: 404 });
+}
+
+async function mailResend(env, odbiorca, temat, tekst) {
+  try {
+    const r = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: { authorization: `Bearer ${env.RESEND_API_KEY}`, 'content-type': 'application/json' },
+      body: JSON.stringify({ from: NADAWCA_ALERTOW, to: [odbiorca], subject: temat, text: tekst }),
+    });
+    return r.ok;
+  } catch {
+    return false;
+  }
+}

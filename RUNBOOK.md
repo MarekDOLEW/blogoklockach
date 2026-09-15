@@ -1038,6 +1038,27 @@ ostatni kafelek na stronie zgarnia stopkę listingu (odcinamy na „Wyświetla N
 a etykieta statusu musi dopuszczać cyfry — bez nich przepada „Czyszczenie magazynu
 -30%", jedyna informacja przesądzająca o tym, że cena jest promocyjna.
 
+## Alerty cenowe „Obserwuj zestaw" *(zbudowane 15.09.2026, czeka na włączenie)*
+
+Hub zestawu ma formularz (`src/components/ObserwujCene.astro`) → `POST /obserwuj`
+w workerze → obiekt `_obserwuj/<nr>/<token>.json` w kubełku R2 `tylkoklocki-obrazy`
+(ten sam binding `OBRAZY`, żadnej nowej infrastruktury) → mail potwierdzający
+z Resend (double opt-in, link `/obserwuj/potwierdz?nr=&t=`) → codziennie
+`scripts/alerty-cen.mjs` liczy najlepszą cenę z danych serwisu i pisze, gdy
+zestaw jest ≥20% poniżej ceny katalogowej (próg „dobry" z reguł deali) i taniej
+niż przy ostatnim alercie. Rezygnacja: `/obserwuj/rezygnuj?nr=&t=` kasuje obiekt.
+
+Do włączenia potrzebne są dwie rzeczy, których Code nie zrobi:
+1. sekret `RESEND_API_KEY` w workerze (Workers → blogoklockach → Settings →
+   Variables and Secrets → Add secret). Bez niego worker odsyła na hub ze stanem
+   `niedostepne` i nic nie zapisuje;
+2. Routine „Alerty cen" w panelu (prompt nr 4 w `materialy/routine-prompty-2026-09-15.md`).
+
+Nadawca `alerty@tylkoklocki.pl` — ta sama domena, którą Resend ma już
+zweryfikowaną dla `raporty@`. Polityka prywatności ma sekcję o alertach
+(`#obserwuj`); formularz linkuje do niej. Honeypot (pole `www`) odsiewa boty
+bez captchy. Adresy niepotwierdzone przez 7 dni kasuje skrypt alertów.
+
 ## Dział /deale/ (od 29.08.2026)
 
 Podstrona `/deale/` generuje się z danych przy każdym buildzie: deale gorące
