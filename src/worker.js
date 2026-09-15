@@ -221,8 +221,18 @@ async function obserwuj(request, env, url) {
     const email = String(dane.get('email') ?? '').trim().toLowerCase();
     if (!/^\d{4,7}$/.test(nr)) return new Response('Zły numer zestawu', { status: 400 });
     if (String(dane.get('www') ?? '')) return naHub(nr, 'wyslano'); // honeypot: bot dostaje „sukces", nic nie zapisujemy
+    // formularz żyje tylko na naszej domenie — POST z obcym Origin to nie czytelnik
+    const origin = request.headers.get('origin');
+    if (origin && !/^https:\/\/(www\.)?tylkoklocki\.pl$/.test(origin)) return new Response('Złe źródło', { status: 403 });
     if (email.length > 120 || !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return naHub(nr, 'zly-email');
     if (!env.RESEND_API_KEY) return naHub(nr, 'niedostepne');
+    // Limit (decyzja Marka 15.09.2026): 10 zapisów na dobę z jednego adresu IP
+    // i 10 na jeden e-mail. Bez tego pętla z jednego skryptu wysyłałaby maile
+    // „Potwierdź alerty" na cudze adresy z naszej domeny, aż Resend zablokuje konto.
+    // Liczniki w R2 pod _obserwuj/_limit/<dzień>/<hash>.json; skrypt alertów
+    // kasuje dni starsze niż wczorajszy.
+    const ip = request.headers.get('cf-connecting-ip') ?? '0.0.0.0';
+    if (!(await limitOk(env, ip)) || !(await limitOk(env, email))) return naHub(nr, 'limit');
     const token = [...crypto.getRandomValues(new Uint8Array(16))].map((b) => b.toString(16).padStart(2, '0')).join('');
     const wpis = { nr, email, token, kiedy: new Date().toISOString(), potwierdzony: false, ostatnia_cena: null, ostatni_alert: null };
     await env.OBRAZY.put(`_obserwuj/${nr}/${token}.json`, JSON.stringify(wpis), { httpMetadata: { contentType: 'application/json' } });
@@ -258,6 +268,18 @@ async function obserwuj(request, env, url) {
     return stronaStanu(nr, 'ok');
   }
   return new Response('Nie znaleziono', { status: 404 });
+}
+
+const LIMIT_NA_DOBE = 10;
+async function limitOk(env, klucz) {
+  const dzien = new Date().toISOString().slice(0, 10);
+  const skrot = [...new Uint8Array(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(klucz)))].slice(0, 12).map((b) => b.toString(16).padStart(2, '0')).join('');
+  const sciezka = `_obserwuj/_limit/${dzien}/${skrot}.json`;
+  const obiekt = await env.OBRAZY.get(sciezka);
+  const stan = obiekt ? await obiekt.json() : { n: 0 };
+  if (stan.n >= LIMIT_NA_DOBE) return false;
+  await env.OBRAZY.put(sciezka, JSON.stringify({ n: stan.n + 1 }), { httpMetadata: { contentType: 'application/json' } });
+  return true;
 }
 
 async function mailResend(env, odbiorca, temat, tekst) {

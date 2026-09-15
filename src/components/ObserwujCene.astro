@@ -33,6 +33,7 @@ const { nr, eol = false } = Astro.props;
     'zly-email': 'Ten adres e-mail nie wygląda poprawnie – sprawdź go i spróbuj jeszcze raz.',
     niedostepne: 'Alerty są jeszcze wyłączone po naszej stronie. Spróbuj za kilka dni.',
     blad: 'Nie udało się wysłać maila potwierdzającego. Spróbuj ponownie za chwilę.',
+    limit: 'Za dużo zapisów z tego adresu dzisiaj (limit 10 na dobę). Spróbuj jutro.',
   };
   const stan = new URLSearchParams(location.search).get('obserwuj');
   const pole = document.querySelector<HTMLElement>('[data-obserwuj-stan]');

@@ -96,7 +96,13 @@ async function mail(odbiorca, temat, tekst) {
 }
 
 // --- przebieg ---------------------------------------------------------------
-const klucze = await listaZapisow();
+const wszystkieKlucze = await listaZapisow();
+// liczniki limitu (_obserwuj/_limit/<dzień>/…) — kasujemy dni starsze niż wczoraj
+const wczoraj = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+const liczniki = wszystkieKlucze.filter((k) => k.startsWith(`${PREFIKS}_limit/`));
+let skasowaneLiczniki = 0;
+for (const k of liczniki) { const dzien = k.split('/')[2]; if (dzien < wczoraj) { if (!sucho) await usun(k); skasowaneLiczniki++; } }
+const klucze = wszystkieKlucze.filter((k) => !k.startsWith(`${PREFIKS}_limit/`));
 const dzis = new Date().toISOString().slice(0, 10);
 let potwierdzone = 0, skasowane = 0, wyslane = 0, bezCeny = 0;
 const bledy = [];
@@ -142,6 +148,6 @@ for (const klucz of klucze) {
     bledy.push(`${klucz}: ${String(e.message).slice(0, 120)}`);
   }
 }
-console.log(`Zapisów: ${klucze.length}, potwierdzonych: ${potwierdzone}, bez ceny: ${bezCeny}, skasowanych niepotwierdzonych: ${skasowane}, alertów ${sucho ? 'do wysłania' : 'wysłanych'}: ${wyslane}, błędów: ${bledy.length}`);
+console.log(`Liczników limitu skasowanych: ${skasowaneLiczniki}. Zapisów: ${klucze.length}, potwierdzonych: ${potwierdzone}, bez ceny: ${bezCeny}, skasowanych niepotwierdzonych: ${skasowane}, alertów ${sucho ? 'do wysłania' : 'wysłanych'}: ${wyslane}, błędów: ${bledy.length}`);
 for (const b of bledy) console.log('  ' + b);
 process.exit(bledy.length ? 1 : 0);
