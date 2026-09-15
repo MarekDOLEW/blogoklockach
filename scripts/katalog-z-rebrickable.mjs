@@ -18,7 +18,7 @@
 // - kandydaci: numery z ceną w oferty_feed.json + z redirects.json + z wycofania.json;
 // - seria: nazwa motywu Rebrickable, gdy istnieje w katalogu (porównanie bez
 //   wielkości liter, także po motywie nadrzędnym); inaczej „Archiwum";
-// - status: 'dostepny' dla rocznika ≥ 2025 (może być w sprzedaży), 'eol' dla starszych;
+// - status: zawsze 'eol' — o „dostepny" decyduje listing lego.pl (cotygodniowy zaciąg);
 // - nazwa po angielsku z Rebrickable (RUNBOOK: stare pozycje mają angielskie nazwy,
 //   nie ma do czego wyrównywać), pole cena_zrodlo brak — RRP nieznane;
 // - pole `zrodlo: 'rebrickable'`, żeby dało się je odróżnić i kiedyś poprawić.
@@ -134,7 +134,8 @@ for (const n of brakujace) {
   const seria = seriaZMotywu(wlasny, nadrz);
   dopisane.push({ seria, wpis: {
     numer: n, nazwa: s.name, rok, elementy: Number(s.num_parts) || null,
-    status: rok && rok >= 2025 ? 'dostepny' : 'eol', cena_katalogowa: null,
+    status: 'eol', // o „dostepny" decyduje listing lego.pl, nie rocznik
+    cena_katalogowa: null,
     zrodlo: 'rebrickable', motyw_rebrickable: [wlasny, nadrz].filter(Boolean).join(' / ') || null,
   } });
 }

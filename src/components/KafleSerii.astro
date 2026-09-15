@@ -1,0 +1,26 @@
+---
+// Siatka kafli serii – wspólna dla /serie/ i /serie/archiwalne/.
+import { odmienZestaw } from '../lib/serie-listing.js';
+const { kafle, archiwalne = false } = Astro.props;
+---
+<div class="siatka siatka--serie">
+  {kafle.map((k) => (
+    <a class="karta seria-karta" href={k.url}>
+      {k.foty.length > 0 ? (
+        <span class="seria-foty" aria-hidden="true">
+          {k.foty.map((f) => <img src={f} alt="" loading="lazy" width="200" height="200" />)}
+        </span>
+      ) : (
+        <span class="seria-foty seria-foty--brak" aria-hidden="true">
+          <span class="studs studs--granat"><i></i><i></i><i></i><i></i></span>
+        </span>
+      )}
+      <h2>{k.seria}</h2>
+      <span class="seria-meta">
+        {k.liczba > 0 ? `${k.liczba} ${odmienZestaw(k.liczba)} · ` : ''}
+        {archiwalne && k.rokOd ? `${k.rokOd}${k.rokDo && k.rokDo !== k.rokOd ? `–${k.rokDo}` : ''} · ` : ''}
+        {archiwalne ? 'zobacz katalog →' : 'zobacz ceny →'}
+      </span>
+    </a>
+  ))}
+</div>

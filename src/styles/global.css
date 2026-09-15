@@ -311,6 +311,11 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 }
 
 /* ---------- Kafle serii ze zdjęciami najświeższych zestawów ---------- */
+/* nagłówek strony z akcją po prawej (np. /serie/ → „Serie archiwalne") */
+.naglowek-akcja { display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap; margin-top: 28px; }
+.naglowek-akcja h1 { margin: 0; }
+.przycisk-drugi { display: inline-block; padding: 8px 14px; border: 1.5px solid var(--granat); border-radius: 999px; color: var(--granat); font-weight: 700; font-size: 0.9rem; text-decoration: none; white-space: nowrap; background: var(--karta); }
+.przycisk-drugi:hover { background: var(--granat); color: #fff; }
 .siatka--serie { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
 .siatka--serie > * { min-width: 0; }
 .seria-karta { padding: 14px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }

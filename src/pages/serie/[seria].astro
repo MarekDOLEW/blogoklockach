@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import FiltrSetow from '../../components/FiltrSetow.astro';
 import TabelaSetow from '../../components/TabelaSetow.astro';
+import { seriaArchiwalna } from '../../lib/serie-listing.js';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
@@ -32,6 +33,7 @@ const feedSety = ofertyFeed?.sety ?? {};
 // LEGO już wycofało, a sklepy jeszcze mają (np. 76264), dostaje „w sprzedaży"
 // z dopiskiem EOL, a zestaw z listy wycofań – „potwierdzone przez LEGO" albo
 // „prognoza rynku" zamiast gołego „w sprzedaży".
+const archiwalna = seriaArchiwalna(seria);
 const wiersze = hist.map((s) => {
   const sklepowa = najlepszaOferta(s.numer, { sety, feed: feedSety });
   const cenaKat = cenaKatalogowaSetu(s.numer, { sety });
@@ -78,6 +80,9 @@ const liczbaEol = wiersze.filter((w) => w.eolLego).length;
   }}
 >
   <h1 style="margin-top:28px">LEGO {seria}</h1>
+  {archiwalna && (
+    <p class="karta" style="padding: 12px 16px; margin: 12px 0 18px;"><strong>Seria archiwalna</strong> – LEGO nie ma już tej linii w ofercie. Zestawy zostają w katalogu na zawsze; ceny, które widzisz, pochodzą z rynku wtórnego. <a href="/serie/archiwalne/">Wszystkie serie archiwalne →</a></p>
+  )}
 
   {(wSerii.length > 0 || hist.length > 0) && (
     <FiltrSetow

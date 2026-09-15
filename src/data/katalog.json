@@ -116,7 +116,7 @@
    "uwaga_o_zrodlach": "Szeroka zapytanie do wyszukiwarki podalo 76303 jako 279,99 zl i 76331/76332 jako 294,99 zl. Punktowa weryfikacja kazdego numeru z osobna potwierdzila NASZE dane: 76303 = 249,99, 76332 = 124,99 przy 330 elementach. Wniosek na przyszlosc: przy cenach ufamy zapytaniom o pojedynczy numer, nie zbiorczym podsumowaniom listingow."
   },
   "audyt_2026_09_13": "Weryfikacja statusow na lego.com: 224 zestawy R_RETIRED przestawione na eol, 71 z E_AVAILABLE/backorder przestawione na dostepny, 49 z kiedy=wycofany na liscie wycofan dostaly eol (LEGO: Wyprzedane). Pole status_zrodlo mowi skad status. Raport: materialy/audyt-wycofan-2026-09-13.md",
-  "rebrickable": "2026-09-15: dopisano 1523 zestawów z katalogu Rebrickable (nazwy EN, bez RRP, pole zrodlo=rebrickable) — wycenione w feedach numery, których katalog nie znał; decyzja Marka 15.09.2026: raz wpisany zestaw zostaje na zawsze."
+  "rebrickable": "2026-09-15: dopisano 1523 zestawów z katalogu Rebrickable (nazwy EN, bez RRP, pole zrodlo=rebrickable) — wycenione w feedach numery, których katalog nie znał; decyzja Marka 15.09.2026: raz wpisany zestaw zostaje na zawsze. Statusy importu: wszystkie eol — o „dostepny\" decyduje listing lego.pl (cotygodniowy zaciąg), nie rocznik."
  },
  "Ideas": [
   {
@@ -2311,7 +2311,7 @@
    "nazwa": "Bookstore: Book Nook",
    "rok": 2026,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Icons"
@@ -56754,7 +56754,7 @@
    "nazwa": "Hot Chocolate Stand",
    "rok": 2025,
    "elementy": 256,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Christmas / Seasonal"
@@ -56764,7 +56764,7 @@
    "nazwa": "Winter Gazebo",
    "rok": 2025,
    "elementy": 245,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Christmas / Seasonal"
@@ -56774,7 +56774,7 @@
    "nazwa": "LEGO Harry Potter 25th Anniversary Holiday Baubles",
    "rok": 2026,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Seasonal / Gear"
@@ -63912,7 +63912,7 @@
    "nazwa": "Eevee",
    "rok": 2026,
    "elementy": 587,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Pokémon"
@@ -63922,7 +63922,7 @@
    "nazwa": "Pikachu and Poké Ball",
    "rok": 2026,
    "elementy": 2050,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Pokémon"
@@ -63932,7 +63932,7 @@
    "nazwa": "Venusaur, Charizard and Blastoise",
    "rok": 2026,
    "elementy": 6838,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Pokémon"
@@ -64150,7 +64150,7 @@
    "nazwa": "LOVE",
    "rok": 2025,
    "elementy": 791,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Art"
@@ -64160,7 +64160,7 @@
    "nazwa": "Vincent van Gogh – Sunflowers",
    "rok": 2025,
    "elementy": 2615,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Art"
@@ -64170,7 +64170,7 @@
    "nazwa": "Keith Haring - Dancing Figures",
    "rok": 2025,
    "elementy": 1773,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Art"
@@ -64180,7 +64180,7 @@
    "nazwa": "Tiger",
    "rok": 2025,
    "elementy": 744,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Art"
@@ -64755,7 +64755,7 @@
    "nazwa": "Trevi Fountain",
    "rok": 2025,
    "elementy": 1880,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Architecture"
@@ -64765,7 +64765,7 @@
    "nazwa": "Neuschwanstein Castle",
    "rok": 2025,
    "elementy": 3455,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Architecture"
@@ -64994,7 +64994,7 @@
    "nazwa": "Balkiry Attack",
    "rok": 2025,
    "elementy": 42,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65004,7 +65004,7 @@
    "nazwa": "SEGA Genesis Controller",
    "rok": 2025,
    "elementy": 260,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65014,7 +65014,7 @@
    "nazwa": "Badnik: Crabmeat",
    "rok": 2025,
    "elementy": 181,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65134,7 +65134,7 @@
    "nazwa": "Sonic’s Campfire Clash",
    "rok": 2025,
    "elementy": 177,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65144,7 +65144,7 @@
    "nazwa": "Cyclone vs. Metal Sonic",
    "rok": 2025,
    "elementy": 290,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65154,7 +65154,7 @@
    "nazwa": "Super Shadow vs. Biolizard",
    "rok": 2025,
    "elementy": 419,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65164,7 +65164,7 @@
    "nazwa": "Knuckles vs. Dr. Eggman Egg Crusher Mech",
    "rok": 2025,
    "elementy": 350,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65174,7 +65174,7 @@
    "nazwa": "Team Sonic Command Truck",
    "rok": 2025,
    "elementy": 747,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Sonic The Hedgehog"
@@ -65220,7 +65220,7 @@
    "nazwa": "Julian's Beach Painting",
    "rok": 2025,
    "elementy": 43,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65300,7 +65300,7 @@
    "nazwa": "Stargazing with Celeste",
    "rok": 2025,
    "elementy": 78,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65310,7 +65310,7 @@
    "nazwa": "Leif's Caravan & Garden Shop",
    "rok": 2025,
    "elementy": 263,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65320,7 +65320,7 @@
    "nazwa": "Able Sisters' Clothing Shop",
    "rok": 2025,
    "elementy": 322,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65330,7 +65330,7 @@
    "nazwa": "Blathers's Museum Collection",
    "rok": 2025,
    "elementy": 543,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65340,7 +65340,7 @@
    "nazwa": "Creative Houses: Seasons of Fun",
    "rok": 2025,
    "elementy": 814,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65350,7 +65350,7 @@
    "nazwa": "Goldie's Cosy House",
    "rok": 2025,
    "elementy": 149,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Animal Crossing"
@@ -65426,7 +65426,7 @@
    "nazwa": "Windmill Village Hut",
    "rok": 2025,
    "elementy": 298,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "One Piece"
@@ -65436,7 +65436,7 @@
    "nazwa": "Buggy the Clown's Circus Tent",
    "rok": 2025,
    "elementy": 576,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "One Piece"
@@ -65446,7 +65446,7 @@
    "nazwa": "Battle at Arlong Park",
    "rok": 2025,
    "elementy": 923,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "One Piece"
@@ -65456,7 +65456,7 @@
    "nazwa": "The Baratie Floating Restaurant",
    "rok": 2025,
    "elementy": 3398,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "One Piece"
@@ -65568,7 +65568,7 @@
    "nazwa": "Elphaba's Retreat",
    "rok": 2025,
    "elementy": 228,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wicked"
@@ -65578,7 +65578,7 @@
    "nazwa": "Glinda’s Wedding Day",
    "rok": 2025,
    "elementy": 476,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wicked"
@@ -65588,7 +65588,7 @@
    "nazwa": "Emerald City & Kiamo Ko Castle",
    "rok": 2025,
    "elementy": 860,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wicked"
@@ -65598,7 +65598,7 @@
    "nazwa": "Glinda & Elphaba Visit Munchkinland",
    "rok": 2025,
    "elementy": 744,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wicked"
@@ -65608,7 +65608,7 @@
    "nazwa": "Glinda & Elphaba Bookends",
    "rok": 2025,
    "elementy": 1327,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wicked"
@@ -65692,7 +65692,7 @@
    "nazwa": "Peely & Sparkplug's Camp",
    "rok": 2025,
    "elementy": 250,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Fortnite"
@@ -65702,7 +65702,7 @@
    "nazwa": "Durrr Burger Restaurant",
    "rok": 2025,
    "elementy": 546,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Fortnite"
@@ -65712,7 +65712,7 @@
    "nazwa": "Klombo",
    "rok": 2025,
    "elementy": 1084,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Fortnite"
@@ -65722,7 +65722,7 @@
    "nazwa": "Mecha Team Leader",
    "rok": 2025,
    "elementy": 2503,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Fortnite"
@@ -65766,7 +65766,7 @@
    "nazwa": "Playground Fun with Bluey",
    "rok": 2025,
    "elementy": 104,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Bluey"
@@ -65776,7 +65776,7 @@
    "nazwa": "Bluey’s Beach & Family Car Trip",
    "rok": 2025,
    "elementy": 133,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Bluey"
@@ -65786,7 +65786,7 @@
    "nazwa": "Bluey’s Family House",
    "rok": 2025,
    "elementy": 382,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Bluey"
@@ -65796,7 +65796,7 @@
    "nazwa": "Bluey Tea Party",
    "rok": 2025,
    "elementy": 33,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Bluey"
@@ -66230,7 +66230,7 @@
    "nazwa": "Hamster Costume Fan",
    "rok": 2025,
    "elementy": 6,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Series 27 Minifigures / Collectible Minifigures"
@@ -66240,7 +66240,7 @@
    "nazwa": "RB20",
    "rok": 2025,
    "elementy": 29,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Formula 1 / Collectible Minifigures"
@@ -66250,7 +66250,7 @@
    "nazwa": "Miles Morales / Spider-Man",
    "rok": 2025,
    "elementy": 7,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Spider-Man - Across the Spider-Verse / Collectible Minifigures"
@@ -66368,7 +66368,7 @@
    "nazwa": "Black Dahlia Flower",
    "rok": 2025,
    "elementy": 358,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wednesday"
@@ -66378,7 +66378,7 @@
    "nazwa": "Thing's Apartment",
    "rok": 2025,
    "elementy": 828,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wednesday"
@@ -66388,7 +66388,7 @@
    "nazwa": "Morticia's Cottage",
    "rok": 2025,
    "elementy": 1002,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Wednesday"
@@ -66749,7 +66749,7 @@
    "nazwa": "Batman: Bruce Wayne and the Batsuit",
    "rok": 2026,
    "elementy": 35,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Batman / Super Heroes DC"
@@ -67469,7 +67469,7 @@
    "nazwa": "Off-road Batmobile",
    "rok": 2025,
    "elementy": 45,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Batman / Super Heroes DC"
@@ -67561,7 +67561,7 @@
    "nazwa": "Cooper's Flying Controller Mini Build",
    "rok": 2025,
    "elementy": 53,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67801,7 +67801,7 @@
    "nazwa": "Z-Blob's Robot and Vehicle Adventures",
    "rok": 2025,
    "elementy": 121,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67811,7 +67811,7 @@
    "nazwa": "Bunchu's Creative Animal Adventures",
    "rok": 2025,
    "elementy": 143,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67821,7 +67821,7 @@
    "nazwa": "Cooper's Gaming Controller Jet",
    "rok": 2025,
    "elementy": 266,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67831,7 +67831,7 @@
    "nazwa": "Izzie and Bunchurro the Gaming Bunny",
    "rok": 2025,
    "elementy": 252,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67841,7 +67841,7 @@
    "nazwa": "Mateo and the Z-Blob Action Race Car",
    "rok": 2025,
    "elementy": 485,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67851,7 +67851,7 @@
    "nazwa": "Mateo's Fire Chameleon",
    "rok": 2025,
    "elementy": 443,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67861,7 +67861,7 @@
    "nazwa": "Zoey's Time Owl",
    "rok": 2025,
    "elementy": 359,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67871,7 +67871,7 @@
    "nazwa": "Mateo vs. Cyber Brain Mech",
    "rok": 2025,
    "elementy": 368,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67881,7 +67881,7 @@
    "nazwa": "Cooper's Tiger Mech & Zero's Hot Rod Car",
    "rok": 2025,
    "elementy": 1006,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67891,7 +67891,7 @@
    "nazwa": "Mateo's Spray Paint Truck",
    "rok": 2025,
    "elementy": 929,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -67901,7 +67901,7 @@
    "nazwa": "Nightmare Shark Submarine",
    "rok": 2025,
    "elementy": 1413,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Dreamzzz"
@@ -68340,7 +68340,7 @@
    "nazwa": "LEGO Fabuland Tribute",
    "rok": 2025,
    "elementy": 1026,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Exclusive"
@@ -68630,7 +68630,7 @@
    "nazwa": "Tribute to Jane Austen's Books",
    "rok": 2025,
    "elementy": 361,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68640,7 +68640,7 @@
    "nazwa": "Up-Scaled Baby Astronaut",
    "rok": 2025,
    "elementy": 250,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68650,7 +68650,7 @@
    "nazwa": "Mini Knight's Castle",
    "rok": 2025,
    "elementy": 590,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68660,7 +68660,7 @@
    "nazwa": "Tropical Rainforest Diorama",
    "rok": 2025,
    "elementy": 299,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68670,7 +68670,7 @@
    "nazwa": "Coral Reef Diorama",
    "rok": 2025,
    "elementy": 260,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68680,7 +68680,7 @@
    "nazwa": "African Savanna Diorama",
    "rok": 2025,
    "elementy": 287,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68690,7 +68690,7 @@
    "nazwa": "Northern Lights Diorama",
    "rok": 2025,
    "elementy": 332,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68830,7 +68830,7 @@
    "nazwa": "Toy Store",
    "rok": 2025,
    "elementy": 1769,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Exclusive"
@@ -68920,7 +68920,7 @@
    "nazwa": "Amelia Ticket Booth",
    "rok": 2025,
    "elementy": 153,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68930,7 +68930,7 @@
    "nazwa": "The Simpsons Living Room",
    "rok": 2025,
    "elementy": 123,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68940,7 +68940,7 @@
    "nazwa": "Italian Market Van",
    "rok": 2025,
    "elementy": 142,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68950,7 +68950,7 @@
    "nazwa": "Fish Tank",
    "rok": 2025,
    "elementy": 150,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68960,7 +68960,7 @@
    "nazwa": "Retro Space Explorer",
    "rok": 2025,
    "elementy": 150,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68970,7 +68970,7 @@
    "nazwa": "Fish Tank Filter & Fish Food",
    "rok": 2025,
    "elementy": 177,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -68980,7 +68980,7 @@
    "nazwa": "Dolphin",
    "rok": 2026,
    "elementy": 153,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Promotional"
@@ -69020,7 +69020,7 @@
    "nazwa": "Kraków Grand Opening",
    "rok": 2025,
    "elementy": 158,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "LEGO Brand Store"
@@ -70306,7 +70306,7 @@
    "nazwa": "Mermaid Gabby's Aquarium Adventure",
    "rok": 2025,
    "elementy": 114,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Gabby's Dollhouse"
@@ -70316,7 +70316,7 @@
    "nazwa": "Sweet Treat Mountain & Kitty Garden",
    "rok": 2025,
    "elementy": 263,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Gabby's Dollhouse"
@@ -70496,7 +70496,7 @@
    "nazwa": "Play with Braille Bricks",
    "rok": 2025,
    "elementy": 10,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -70916,7 +70916,7 @@
    "nazwa": "Arcade Machine",
    "rok": 2025,
    "elementy": 468,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -70926,7 +70926,7 @@
    "nazwa": "LEGOLAND Park Portal",
    "rok": 2025,
    "elementy": 323,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Legoland Parks"
@@ -70936,7 +70936,7 @@
    "nazwa": "Baby Elephant in the Sky",
    "rok": 2025,
    "elementy": 402,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -70946,7 +70946,7 @@
    "nazwa": "Yellow Travel Suitcase",
    "rok": 2025,
    "elementy": 184,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -70956,7 +70956,7 @@
    "nazwa": "Up-Scaled Racing Driver Minifigure",
    "rok": 2025,
    "elementy": 694,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -71156,7 +71156,7 @@
    "nazwa": "Nike Slam Dunk",
    "rok": 2025,
    "elementy": 809,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Nike"
@@ -71166,7 +71166,7 @@
    "nazwa": "Nike Dunk Trickshot",
    "rok": 2025,
    "elementy": 454,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Nike"
@@ -71186,7 +71186,7 @@
    "nazwa": "Moon Mission Science Kit",
    "rok": 2026,
    "elementy": 519,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Learning at Home / Educational and Dacta"
@@ -71196,7 +71196,7 @@
    "nazwa": "Antarctic Animals Science Kit",
    "rok": 2026,
    "elementy": 461,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Learning at Home / Educational and Dacta"
@@ -71206,7 +71206,7 @@
    "nazwa": "Mars Mission Science Kit",
    "rok": 2026,
    "elementy": 933,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Learning at Home / Educational and Dacta"
@@ -71216,7 +71216,7 @@
    "nazwa": "Arctic Animals Science Kit",
    "rok": 2026,
    "elementy": 1134,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Learning at Home / Educational and Dacta"
@@ -71276,7 +71276,7 @@
    "nazwa": "Computer Science & AI Kit 3-5",
    "rok": 2026,
    "elementy": 321,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Educational and Dacta"
@@ -71326,7 +71326,7 @@
    "nazwa": "Science Kit Year 1-3",
    "rok": 2025,
    "elementy": 278,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Educational and Dacta"
@@ -71336,7 +71336,7 @@
    "nazwa": "Science Kit Year 4-6",
    "rok": 2025,
    "elementy": 336,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Educational and Dacta"
@@ -71476,7 +71476,7 @@
    "nazwa": "PlayStation",
    "rok": 2026,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Other"
@@ -71886,7 +71886,7 @@
    "nazwa": "Aloy & Varl vs. Shell-Walker & Sawtooth",
    "rok": 2025,
    "elementy": 768,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Horizon Adventures"
@@ -74214,7 +74214,7 @@
    "nazwa": "The Art of Chocolate",
    "rok": 2025,
    "elementy": 2615,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74224,7 +74224,7 @@
    "nazwa": "Harbormaster's Office",
    "rok": 2025,
    "elementy": 2419,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74234,7 +74234,7 @@
    "nazwa": "Camping Adventure",
    "rok": 2025,
    "elementy": 667,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74244,7 +74244,7 @@
    "nazwa": "Lost City",
    "rok": 2025,
    "elementy": 3506,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74254,7 +74254,7 @@
    "nazwa": "Forest Stronghold",
    "rok": 2025,
    "elementy": 3396,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74264,7 +74264,7 @@
    "nazwa": "Wild West Train",
    "rok": 2025,
    "elementy": 3197,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74274,7 +74274,7 @@
    "nazwa": "Siege Encampment",
    "rok": 2025,
    "elementy": 2601,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74284,7 +74284,7 @@
    "nazwa": "Merchant Boat",
    "rok": 2025,
    "elementy": 2196,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74294,7 +74294,7 @@
    "nazwa": "Medieval Seaside Market",
    "rok": 2025,
    "elementy": 2560,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74304,7 +74304,7 @@
    "nazwa": "Adventure in Transylvania",
    "rok": 2025,
    "elementy": 4060,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74314,7 +74314,7 @@
    "nazwa": "Antique Shop",
    "rok": 2025,
    "elementy": 1918,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74324,7 +74324,7 @@
    "nazwa": "Mushroom Village",
    "rok": 2025,
    "elementy": 2437,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74334,7 +74334,7 @@
    "nazwa": "Popcorn Wagon",
    "rok": 2025,
    "elementy": 594,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74344,7 +74344,7 @@
    "nazwa": "The Thieves of Tortuga",
    "rok": 2025,
    "elementy": 4002,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74354,7 +74354,7 @@
    "nazwa": "The Art Factory",
    "rok": 2026,
    "elementy": 2567,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74364,7 +74364,7 @@
    "nazwa": "Off-Road Adventure",
    "rok": 2026,
    "elementy": 978,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74374,7 +74374,7 @@
    "nazwa": "Outlaw Forest Den",
    "rok": 2026,
    "elementy": 2623,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -74384,7 +74384,7 @@
    "nazwa": "Privateer Frigate Fortuna",
    "rok": 2026,
    "elementy": 4086,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "BrickLink Designer Program"
@@ -77078,7 +77078,7 @@
    "nazwa": "Erlang's Celestial Mech",
    "rok": 2025,
    "elementy": 806,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Monkie Kid"
@@ -77088,7 +77088,7 @@
    "nazwa": "Mythical Creature Qilin",
    "rok": 2025,
    "elementy": 791,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Monkie Kid"
@@ -77564,7 +77564,7 @@
    "nazwa": "Pen Pal Mechanical Pencil with Construction Worker Minifigure",
    "rok": 2025,
    "elementy": 6,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -77574,7 +77574,7 @@
    "nazwa": "Stationery Set with Minifigure",
    "rok": 2026,
    "elementy": 11,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -77944,7 +77944,7 @@
    "nazwa": "Silver Minifigure Keychain",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -77954,7 +77954,7 @@
    "nazwa": "R2-D2 Key Chain",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -77964,7 +77964,7 @@
    "nazwa": "C-3PO Key Chain",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -77974,7 +77974,7 @@
    "nazwa": "Stitch Key Chain",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -77984,7 +77984,7 @@
    "nazwa": "Dumbo Key Chain",
    "rok": 2026,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -78114,7 +78114,7 @@
    "nazwa": "Jango Fett's Starship Key Chain",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Key Chain / Gear"
@@ -78124,7 +78124,7 @@
    "nazwa": "Jango Fett’s Starship Coin",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Gear"
@@ -78134,7 +78134,7 @@
    "nazwa": "Hogsmeade Sign",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Gear"
@@ -78144,7 +78144,7 @@
    "nazwa": "Ministry of Magic Phone Booth",
    "rok": 2026,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Gear"
@@ -78364,7 +78364,7 @@
    "nazwa": "Lightsaber Gel Pen with Clip (All Colors)",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -78374,7 +78374,7 @@
    "nazwa": "Farmers Market Tab Notebook",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -78384,7 +78384,7 @@
    "nazwa": "Pen Pal Gel Pen with Botanicals Mini-Build (Bright Purple)",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -78394,7 +78394,7 @@
    "nazwa": "Star Wars Mandalorian Notebook and Pen",
    "rok": 2025,
    "elementy": null,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -78404,7 +78404,7 @@
    "nazwa": "Pen Pal Gel Pen with Botanicals Mini-Build (Lavendar)",
    "rok": 2025,
    "elementy": 4,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"
@@ -78414,7 +78414,7 @@
    "nazwa": "Pencil Box with Four Building Bricks and Construction Worker Minifigure",
    "rok": 2025,
    "elementy": 4,
-   "status": "dostepny",
+   "status": "eol",
    "cena_katalogowa": null,
    "zrodlo": "rebrickable",
    "motyw_rebrickable": "Stationery and Office Supplies / Gear"

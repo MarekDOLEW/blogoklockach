@@ -94,6 +94,7 @@ function serie() {
   }
   return [
     wpis('/serie/', dzisIso),
+    wpis('/serie/archiwalne/', dzisIso),
     ...[...wpisy.keys()].sort().map((slug) => wpis(`/serie/${slug}/`, wpisy.get(slug))),
   ];
 }

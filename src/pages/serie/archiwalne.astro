@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import KafleSerii from '../../components/KafleSerii.astro';
+import { kafleSerii } from '../../lib/serie-listing.js';
+
+// Serie, których nie ma już na listingu lego.pl: Bionicle, Nexo Knights, Chima,
+// DOTS… Zestawy żyją na rynku wtórnym (Allegro), więc huby mają ceny i historię,
+// ale w głównym listingu /serie/ tylko by przeszkadzały (decyzja Marka 15.09.2026).
+const kafle = kafleSerii(true);
+---
+<Base title="Serie archiwalne LEGO" description="Serie LEGO, których nie ma już w ofercie producenta: Bionicle, Nexo Knights, Legends of Chima, DOTS, Elves i inne. Zestawy, ceny z rynku wtórnego i pełne katalogi serii.">
+  <div class="naglowek-akcja">
+    <h1>Serie archiwalne LEGO</h1>
+    <a class="przycisk-drugi" href="/serie/">← Serie aktualne</a>
+  </div>
+  <p>Linie, których LEGO już nie sprzedaje. Zestawy zostają w naszym katalogu na zawsze – z cenami z rynku wtórnego tam, gdzie je widzimy, i z pełną listą numerów dla kolekcjonerów.</p>
+
+  <KafleSerii kafle={kafle} archiwalne={true} />
+</Base>

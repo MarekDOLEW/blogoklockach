@@ -7,6 +7,17 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
+    // Adresy sklepu z zabawkami, który żył na tej domenie przed nami
+    // (/p/<id>/<id>/<slug>.html — Search Console 15.09.2026: Google wciąż je
+    // odwiedza, stare linki z zewnątrz też). 410 Gone mówi Google „usunięte na
+    // stałe” i wypada z indeksu szybciej niż 404; nie przekierowujemy, bo nie
+    // mamy odpowiedników (decyzja Marka 15.09.2026: „wykasuj – zablokuj”).
+    if (/^\/p\/\d+\/\d+\/[^/]+\.html$/.test(url.pathname)) {
+      return new Response('Ta strona została usunięta na stałe.', {
+        status: 410, headers: { 'content-type': 'text/plain; charset=utf-8' },
+      });
+    }
+
     // Zdjęcia zestawów z naszej domeny: /img/<numer>.jpg
     // Kolejność: trwała kopia w R2 -> pobranie ze źródła (sklep/rebrickable)
     // z zapisem przelotowym do R2. Raz zapisane zdjęcie zostaje u nas na zawsze,
