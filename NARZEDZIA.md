@@ -271,8 +271,11 @@ gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
 
 4. **Paczka `.skill`** (`skille/*.skill` po `node scripts/spakuj-skille.mjs`)
    → **claude.ai → Settings → Skills**. Nie da się inaczej: synchronizacja idzie
-   tylko serwer → kontener. Stan na 14.09.2026 16:45: **zgodne** — Marek wgrał
-   trzy paczki po commicie `4c7cf92`.
+   tylko serwer → kontener. Stan na 15.09.2026 ok. 15:00: **zgodne** — Marek wgrał
+   paczki po commicie `497043e` (naprawa eksportu + opcjonalny „normalny poziom
+   rynkowy"). Uwaga z audytu: paczki z 08:03 tego dnia były zapakowane ze starych
+   plików, bo eksport miał błąd składni — od `497043e` `prebuild` sprawdza składnię
+   eksportu, więc build padnie zamiast cicho rozjechać skill z repo.
 
 5. **Eksporty CSV z paneli afiliacyjnych** (Tradedoubler, Allegro, webePartners)
    → **Code**, załącznik. Sparsuję i wpiszę do rejestru w jednym przebiegu.

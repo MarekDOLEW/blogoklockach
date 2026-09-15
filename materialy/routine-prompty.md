@@ -1,12 +1,12 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 15.09.2026, 14:35 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 15.09.2026, 14:46 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
 
-## LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem)
+## LEGO co 8h (2:00/10:00/18:00 PL) — Backfill cen katalogowych (runner z pushem)
 
 - ID: `trig_01D5ZK2mHY9CSXAQNnfwaV3q` · cron `0 2,10,18 * * *` (UTC) · WYŁĄCZONY · stała sesja (zmiana promptu = delete + create)
 
@@ -105,73 +105,34 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 ```
 Raport kontrolera — wynik tygodnia vs plan 20 000 zł na grudzień, EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień.
 
-KROK 0 — DIAGNOZA ŚRODOWISKA. Zaraz po sklonowaniu repo uruchom `node scripts/diagnoza.mjs` i wklej wynik na początku raportu jako sekcję „Diagnoza środowiska". To jest JEDYNE źródło zdań o tym, co środowisko widzi — nie pisz o dostępach z pamięci ani z założeń. Skrypt nie drukuje wartości sekretów, więc wynik można wkleić w całości.
+REPO — NAJPIERW. Sesja powinna mieć repo podpięte z panelu; jeśli katalogu `blogoklockach` nie ma, sklonuj: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git` (gdy jest zmienna GH_PUSH_TOKEN — przez `https://x-access-token:${GH_PUSH_TOKEN}@github.com/MarekDOLEW/blogoklockach.git`). W repo: `git fetch origin main && git checkout -B kontroler origin/main`, potem `npm ci --no-audit --no-fund`. Push zawsze poleceniem `git push origin kontroler:main` (nigdy na lokalny `main`); przy odrzuceniu: `git fetch origin main && git rebase origin/main` i ponów (do 3 razy); jeśli dalej nie wchodzi — wyślij zmienione pliki przez SendUserFile i napisz o tym w raporcie.
 
-HARMONOGRAM RUNNERÓW. Wywołaj narzędzie `list_triggers` (konektor Claude_Code_Remote, limit 30), zapisz surową odpowiedź do pliku `routines.json` i uruchom `node scripts/harmonogram-z-konta.mjs routines.json`. Skrypt przepisuje wyłącznie sekcję między znacznikami HARMONOGRAM:START i HARMONOGRAM:KONIEC w `materialy/zadania-cykliczne.md`; reszty dokumentu nie tykaj i nie poprawiaj ręcznie. Zmieniony plik wypchnij do repo (zasady pushu niżej). W raporcie daj sekcję „Harmonogram" z trzema rzeczami: ile zadań jest włączonych, które włączone zadanie NIE odpaliło się w minionym tygodniu, oraz jakie są kolizje (dwa zadania startujące w tej samej minucie dzielą limit konta). Jeśli `list_triggers` nie odpowie albo zażąda zgody, której nie ma jak udzielić — napisz o tym jedno zdanie i licz resztę raportu normalnie, tak jak przy braku CF_ACCOUNT_ID. NIE przepisuj tej sekcji ręcznie: harmonogram pisany ręcznie rozjechał się już cztery razy.
+KROK 0 — DIAGNOZA ŚRODOWISKA. Uruchom `node scripts/diagnoza.mjs` i wklej wynik na początku raportu jako sekcję „Diagnoza środowiska". To jest JEDYNE źródło zdań o tym, co środowisko widzi — nie pisz o dostępach z pamięci ani z założeń. Skrypt nie drukuje wartości sekretów.
 
-ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs`. Skrypt przenosi wpisy starsze niż 14 dni z `DZIENNIK.md` do `materialy/dziennik-archiwum-RRRR-MM.md` i jest idempotentny — gdy nie ma nic do przeniesienia, nie zmienia pliku. Jeśli coś przeniósł, dołącz `DZIENNIK.md` i nowy plik archiwum do tego samego commita co harmonogram. Jeśli skrypt PRZERWAŁ z komunikatem o sekcji stałej pod znacznikiem — nie naprawiaj dziennika ręcznie, napisz o tym jedno zdanie w raporcie; to jest praca dla człowieka.
+HARMONOGRAM I PROMPTY RUNNERÓW. Wywołaj narzędzie `list_triggers` (konektor Claude_Code_Remote, limit 30), zapisz surową odpowiedź do pliku `/tmp/routines.json` (NIE do repo — zawiera ID sesji i treść promptów) i uruchom `node scripts/harmonogram-z-konta.mjs /tmp/routines.json`. Skrypt przepisuje DWA pliki: sekcję między znacznikami HARMONOGRAM:START/KONIEC w `materialy/zadania-cykliczne.md` oraz cały `materialy/routine-prompty.md` (kopia promptów z konta — dzięki temu diff w git pokazuje, kto i kiedy zmienił prompt). Oba dołącz do commita: `git add materialy/zadania-cykliczne.md materialy/routine-prompty.md`. Reszty tych dokumentów nie tykaj. W raporcie sekcja „Harmonogram": ile zadań włączonych; kolizje; które włączone zadanie NIE odpaliło się w minionym tygodniu — ale UWAGA: kolumna „ostatnie odpalenie" zeruje się po każdym odtworzeniu triggera (delete+create), więc dla runnerów z pushem sprawdź też `git log --since=7.days --oneline | grep -i "<nazwa runnera>"` (Scout, Łowca, Radar, Wycofania, LEGO.pl) — brak commita w tygodniu to prawdziwy alarm, brak `last_run` sam w sobie nie. Jeśli `list_triggers` nie odpowie — jedno zdanie i licz resztę normalnie. NIE przepisuj sekcji ręcznie.
 
-KLIKNIĘCIA AFILIACYJNE: sklonuj repo (patrz niżej) i uruchom `node scripts/kliki-raport.mjs --dni 7`. Skrypt czyta dataset idz_kliki z Workers Analytics Engine przez SQL API i wymaga zmiennych CF_ACCOUNT_ID oraz CF_API_TOKEN (token z uprawnieniem "Account Analytics: Read"; NIE wypisuj ich wartości).
+ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie pozycje „RADAR · Do zrobienia" oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela" — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie.
 
-RUCH BOTÓW — to jest najważniejsza rzecz przy liczeniu EPC. Od 14.09.2026 worker oznacza każde kliknięcie jako „human" albo „bot" (rozstrzyga referer z tylkoklocki.pl), a `kliki-raport.mjs` domyślnie liczy WYŁĄCZNIE ludzi. Pomiar z 14.09: 34 boty na 9 ludzi wśród oznaczonych kliknięć, a w analizie z 13.09 scrapery odpowiadały za 92% ruchu na /idz/. EPC licz z liczb po filtrze i NIGDY nie mieszaj ich z liczbami z `--wszystko`. W raporcie podaj osobno pole `podzial_ruchu` (human / bot / nieoznaczone) — „nieoznaczone" to kliknięcia sprzed 14.09, których nie da się zaklasyfikować, więc nie doliczaj ich do ludzi ani nie udawaj, że ich nie było. Udział kliknięć ze stanem „brak-linku" licz po ruchu ludzkim — bot, który trafił w brak linku, nie jest utraconą prowizją.
+KLIKNIĘCIA AFILIACYJNE: `node scripts/kliki-raport.mjs --dni 7` (Workers Analytics Engine przez SQL API; wymaga CF_ACCOUNT_ID i CF_API_TOKEN, NIE wypisuj wartości).
 
-Stan zapisu na 25.08.2026: wiązanie analytics_engine_datasets jest w wrangler.jsonc, produkt aktywowany na koncie, dataset potwierdzony danymi w panelu — worker ZAPISUJE kliknięcia. Jeśli skrypt zwróci błąd o brakujących zmiennych, to znaczy, że brakuje wyłącznie poświadczeń do ODCZYTU: napisz w raporcie jedno zdanie o tym i licz resztę normalnie, nie drąż tematu wiązania.
+RUCH BOTÓW — najważniejsza rzecz przy liczeniu EPC. Od 14.09.2026 worker oznacza każde kliknięcie jako „human" albo „bot" (rozstrzyga referer z tylkoklocki.pl), a `kliki-raport.mjs` domyślnie liczy WYŁĄCZNIE ludzi. EPC licz z liczb po filtrze i NIGDY nie mieszaj ich z `--wszystko`. Podaj osobno `podzial_ruchu` (human / bot / nieoznaczone; „nieoznaczone" to kliknięcia sprzed 14.09). Udział „brak-linku" licz po ruchu ludzkim.
 
-PROWIZJE ZMIERZONE: uruchom `node scripts/prowizje-raport.mjs --dni 30`. Od 14.09.2026 działają trzy sieci: Adtraction (Smyk, Egmont), Performers (Media Expert) i Tradedoubler przez Publisher API (Empik, Ceneo). To są prowizje ZMIERZONE, nie modelowane — jeśli raport je zwraca, EPC liczy się z nich, a nie z założeń. Uwaga: Tradedoubler raportuje w EUR, Adtraction i Performers w złotówkach; nie sumuj tego jedną liczbą. Allegro i Planeta Klocków nie mają API i tam EPC pozostaje modelem — napisz to wprost.
+Stan zapisu na 25.08.2026: wiązanie analytics_engine_datasets jest w wrangler.jsonc, produkt aktywowany, dataset potwierdzony — worker ZAPISUJE kliknięcia. Błąd o brakujących zmiennych = brak poświadczeń do ODCZYTU: jedno zdanie, nie drąż wiązania.
 
-Dane wejściowe pobieraj z repo (folder Cowork NIE jest dostępny z zadań cyklicznych): https://raw.githubusercontent.com/MarekDOLEW/blogoklockach/main/src/data/known_sets.json oraz .../src/data/ceny_baza.json — do obu URL-i dodaj parametr ?t=<bieżący znacznik czasu>.
+PROWIZJE ZMIERZONE: `node scripts/prowizje-raport.mjs --dni 30`. Trzy sieci z API: Adtraction (Smyk, Egmont), Performers (Media Expert), Tradedoubler przez Publisher API (Empik, Ceneo). To są prowizje ZMIERZONE — jeśli raport je zwraca, EPC liczy się z nich. Tradedoubler raportuje w EUR, reszta w PLN — nie sumuj jedną liczbą. Allegro i Planeta Klocków nie mają API — tam EPC to model, napisz to wprost. Stan afiliacji: LEGO.com bez programu (Rakuten odmówił 15.09), linkujemy bez prowizji.
 
-UWAGA historyczna: w danych sprzed 26.08 siedzi sześć przejść testowych przez /idz/ z 25.08 ok. 05:11 UTC (empik, smyk, xkom, allegro, mediaexpert, planetaklockow; zestawy 76467 i 31168) wykonanych z serwerowego IP podczas weryfikacji wdrożenia. Przy oknie 7-dniowym już ich nie ma; liczą się tylko przy raportach obejmujących koniec sierpnia.
+Dane wejściowe bierz z repo (folder Cowork nie jest dostępny): `src/data/known_sets.json`, `src/data/ceny_baza.json`, `src/data/afiliacje_rejestr.json`.
 
-WIDOCZNOŚĆ W GOOGLE (Search Console): uruchom `node scripts/gsc-raport.mjs --dni 7` — wymaga zmiennej środowiskowej GSC_KEY_JSON_B64 (ustawiona w środowisku; NIE wypisuj jej wartości). Wynik (suma klików/wyświetleń, TOP frazy, TOP podstrony, pozycje) włącz do raportu jako sekcję „Widoczność w Google" z porównaniem do poprzedniego tygodnia (`--dni 14` pomoże policzyć trend). Jeśli zmiennej brak albo API zwróci błąd — jedno zdanie w raporcie zamiast sekcji.
+WIDOCZNOŚĆ W GOOGLE: `node scripts/gsc-raport.mjs --dni 7` i `--dni 14` (trend). Wymaga GSC_KEY_JSON_B64 (NIE wypisuj). Sekcja „Widoczność w Google": kliki, wyświetlenia, TOP frazy, TOP podstrony, pozycje, trend tydzień do tygodnia.
 
-INDEKSACJA: to jest dziś wąskie gardło całego serwisu, więc raportuj ją co tydzień. Przez API Search Console sprawdź status sitemapy (endpoint sites/<usluga>/sitemaps: ile adresów przesłanych, ile zindeksowanych) oraz zainspektuj kilka adresów (POST https://searchconsole.googleapis.com/v1/urlInspection/index:inspect z inspectionUrl i siteUrl=sc-domain:tylkoklocki.pl): stronę główną, /artykuly/, jeden artykuł, /serie/ i jeden hub /zestaw/. Podaj werdykt, coverageState i datę ostatniego crawla.
+INDEKSACJA — wąskie gardło serwisu, raportuj co tydzień. (1) Zbuduj serwis: `npm run build` (ok. 30 s) i policz: `ls dist/zestaw | wc -l` (wszystkie huby) oraz `grep -c "<loc>" dist/sitemap-zestawy.xml` (huby zgłaszane do indeksu) — obie liczby do raportu z tygodniowym trendem. (2) Przez API Search Console zainspektuj adresy (POST https://searchconsole.googleapis.com/v1/urlInspection/index:inspect z inspectionUrl i siteUrl=sc-domain:tylkoklocki.pl; konto serwisowe z GSC_KEY_JSON_B64 ma pełne uprawnienie): stronę główną, /artykuly/, jeden artykuł z ostatniego tygodnia, /serie/, /wycofania/, /ekskluzywne/ i dwa huby /zestaw/ z sitemapy. Podaj werdykt, coverageState i datę ostatniego crawla. NIE raportuj pola „zindeksowane" z endpointu sitemaps — od 2022 pokazuje 0 i jest bezwartościowe; realną liczbę zindeksowanych stron ma tylko panel GSC (raport „Strony"), o który poproś Marka jednym zdaniem, jeśli minęły 2 tygodnie od ostatniego odczytu w DZIENNIKU. (3) Jeśli którykolwiek inspektowany adres ma werdykt inny niż „zindeksowany" lub crawl starszy niż 14 dni — wypisz go wprost.
 
-Punkty odniesienia:
-- 24.08.2026 (przed przycięciem sitemapy): 4 874 adresy przesłane, 0 zindeksowanych; tylko strona główna zindeksowana, ostatni crawl 15.08; reszta „wykryta, obecnie niezindeksowana" albo nieznana Google, crawl NIGDY.
-- 25.08.2026 (po przycięciu): sitemapa zawiera 1 160 adresów — zgłaszamy tylko huby /zestaw/ z redakcyjnym opisem albo z ceną z co najmniej dwóch sklepów, plus artykuły, prezentowniki, serie i strony stałe. Pozostałe huby dalej działają i są linkowane wewnętrznie, po prostu nie są zgłaszane. Filtr przelicza się przy każdym buildzie (astro.config.mjs). Tego samego dnia Cowork zgłosił ręcznie kilkanaście adresów przez „Poproś o zaindeksowanie".
-Każdą poprawę albo pogorszenie względem tych liczb wypunktuj wprost. Szczególnie interesuje nas, czy rośnie liczba zindeksowanych adresów i czy Google zaczyna crawlować cokolwiek poza stroną główną.
+Punkty odniesienia: 24.08.2026 — 4 874 adresy przesłane, 0 zindeksowanych, tylko strona główna w indeksie. 15.09.2026 (panel GSC, dane z 4.09) — 307 zindeksowanych, 3 360 nie („wykryta – obecnie niezindeksowana" 3 291), 8 kliknięć / 263 wyświetlenia w 30 dni; 9 363 huby, z tego ok. 775 w sitemapie. Każdą poprawę albo pogorszenie względem tych liczb wypunktuj wprost.
 
-Raport dostarcz jako PDF przez SendUserFile (nie Markdown — Marek nie otwiera plików .md). Jeśli w wyniku analizy aktualizujesz któryś plik danych, wypchnij go do repo (git clone https://github.com/MarekDOLEW/blogoklockach.git, a jeśli w środowisku jest zmienna GH_PUSH_TOKEN — klonuj przez https://x-access-token:${GH_PUSH_TOKEN}@github.com/MarekDOLEW/blogoklockach.git, commit, push na main); jeśli push odrzucony — wyślij plik przez SendUserFile.
+Raport dostarcz jako PDF przez SendUserFile (nie Markdown — Marek nie otwiera plików .md) i zapisz kopię `materialy/kontroler-RRRR-MM-DD.md` w repo (commit razem z harmonogramem).
 ```
 
-## LEGO ndz 10:00 — Social: paczka tygodniowa (ZAWIESZONE do startu kanałów)
-
-- ID: `trig_01W1CSp8PM3DDN6UEyNLYe6H` · cron `0 8 * * 0` (UTC) · WYŁĄCZONY · świeża sesja na każdy przebieg
-
-```
-Przygotuj cotygodniową paczkę social media dla serwisu tylkoklocki.pl (IG + TikTok + FB) na nadchodzący tydzień (pon–ndz). Użyj skilla klocki-social — trzymaj się jego zasad (faceless, konwersja afiliacyjna, ton serwisu). Odpowiadaj po polsku.
-
-DANE WEJŚCIOWE (pobieraj z repo przez raw.githubusercontent.com/MarekDOLEW/blogoklockach/main/... z parametrem ?t=<znacznik czasu> dla ominięcia cache):
-- src/data/sety.json — śledzone sety, oferty, opisy dla_rodzica/dla_afol
-- src/data/wycofania.json — wycofania (pole kiedy — najbliższe terminy są najpilniejsze)
-- src/data/oferty_feed.json — aktualne ceny ME/PK (pole oferty per sklep; rabaty licz od cen katalogowych z sety.json/katalog.json, nie od PreviousPrice)
-- src/data/katalog.json — statusy i ceny katalogowe
-Z tych danych wybierz na tydzień: 2–3 realne deale (rabat ≥20% od ceny katalogowej), 1–2 nowości/premiery, 1 temat wycofaniowy (zestaw znikający najbliżej), 1 temat evergreen (ranking/ciekawostka z katalogu).
-
-PLAN TYGODNIA (nie spamować):
-- IG: 3 publikacje (1 karuzela 7 slajdów, 2 posty statyczne 1080×1350)
-- FB: 3 posty (mogą być adaptacją IG, inny lead tekstu)
-- TikTok: 2 scenariusze rolek (hook ≤3 s, sceny z tekstem na ekranie, bez twarzy i bez głosu autora, sugestia podkładu z biblioteki TikToka)
-Każdej publikacji przypisz dzień i godzinę (pory o wysokim zasięgu: 12:00–13:00 lub 19:00–21:00).
-
-GRAFIKI — renderuj sam:
-1. Zbuduj szablony HTML w identyfikacji serwisu: tło #f6f7f9, granat #17233f, żółty #ffc933, czerwień ceny #e0312f, zieleń #0f7a43, font Archivo (Google Fonts lokalnie lub fallback sans-serif), logo tekstowe „tylkoklocki.pl" z 4 żółtymi kropkami (wypustki klocka). Format: 1080×1350 posty, 1080×1080 slajdy karuzeli.
-2. Zdjęcia setów bierz z pól zdjecie/zdjecia w danych repo (URL-e planetaklockow/mediaexpert/rebrickable).
-3. Render HTML→PNG: playwright + chromium (npx playwright install chromium, screenshot elementu). Jeśli instalacja się nie uda, spróbuj wkhtmltoimage; w ostateczności dostarcz same pliki HTML z dopiskiem, że wymagają zrzutu.
-4. Na każdej grafice z ceną: cena + rabat od ceny katalogowej + data sprawdzenia ceny (z pola data oferty). Nie pisz „najniższa cena w historii", jeśli nie potwierdza tego ceny_baza/najnizsza_cena.
-
-TEKSTY: dla każdej publikacji caption (IG/FB per platforma, nie kopiuj 1:1), hashtagi (IG 15–20 mieszanych PL, TikTok 4–6, FB 2–3), CTA kierujące na tylkoklocki.pl (link w bio na IG/TT, link bezpośredni na FB — do konkretnej podstrony /zestaw/... lub /wycofania/). Oznaczenie afiliacji zgodnie ze skillem.
-
-DOSTAWA — WAŻNE: Marek nie otwiera plików .md, wszystkie dokumenty dostarczaj jako PDF:
-1. Katalog roboczy: grafiki/*.png (nazwy: pon-ig-karuzela-1.png itd.), kalendarz.pdf (tabela: dzień, godzina, platforma, plik grafiki, caption do wklejenia, hashtagi — captiony muszą dać się skopiować z PDF-a) oraz rolki.pdf (2 scenariusze klatka po klatce). PDF-y generuj przez weasyprint (pip install weasyprint markdown --break-system-packages), styl czytelny, A4.
-2. Spakuj wszystko do ZIP i wyślij przez SendUserFile; dodatkowo wyślij sam kalendarz.pdf osobno (żeby dało się go otworzyć bez rozpakowywania).
-3. W czacie: krótkie podsumowanie planu (co, kiedy, dlaczego te tematy) — bez wklejania wszystkich tekstów.
-
-Jeśli któregoś pliku danych nie uda się pobrać, użyj pozostałych i napisz to wprost. Nie wymyślaj cen ani dat.
-```
-
-## LEGO pon 06:00 — Wycofania (runner z pushem)
+## LEGO pon 06:10 — Wycofania (runner z pushem)
 
 - ID: `trig_01S5hMfivCCFytZSqces2pYw` · cron `10 4 * * 1` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
@@ -191,7 +152,7 @@ Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesj
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj TYLKO wtedy, gdy przebieg coś zmienił (był commit). Brak zmian = brak maila — inaczej raporty spowszednieją i przestaną być czytane. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
 ```
 
-## LEGO pon 07:00 — Przypomnienie: zrzut Empiku
+## LEGO pon 08:15 — Przypomnienie: zrzut Empiku
 
 - ID: `trig_01BWC5ydHBNVE5Q8usmf62PN` · cron `15 6 * * 1` (UTC) · włączony · świeża sesja na każdy przebieg
 
@@ -216,7 +177,7 @@ Kroki:
 4. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
 ```
 
-## LEGO 04:00 — Zdjęcia → R2 (Planeta Klocków)
+## LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków)
 
 - ID: `trig_01EAhU5SKn2GuXxY14WYxNkJ` · cron `30 2 * * *` (UTC) · włączony · świeża sesja na każdy przebieg
 
@@ -232,7 +193,7 @@ Kroki, dokładnie w tej kolejności:
 Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
 ```
 
-## LEGO wt 05:00 — LEGO.pl katalog (ceny, dostępność, ekskluzywy)
+## LEGO wt 05:30 — LEGO.pl katalog (ceny, dostępność, ekskluzywy)
 
 - ID: `trig_012JWbmYwHb59sYazo6K9X33` · cron `30 3 * * 2` (UTC) · włączony · świeża sesja na każdy przebieg
 
