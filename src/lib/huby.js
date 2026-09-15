@@ -50,10 +50,12 @@ function policzHuby() {
   for (const [seria, lista] of Object.entries(katalogCaly)) {
     if (seria === '_meta' || !Array.isArray(lista)) continue;
     for (const s of lista) {
-      if (s.status === 'dostepny' && (s.cena_katalogowa || rrpPotwierdzone[s.numer]?.cena)) numery.add(s.numer);
-      // karta redakcyjna to gotowa tresc – zestaw z karta dostaje podstrone
-      // niezaleznie od ceny i statusu, bo inaczej opis nie ma sie gdzie pokazac
-      if (karty[s.numer]) numery.add(s.numer);
+      // Od 15.09.2026 (decyzja Marka): KAŻDY zestaw z katalogu ma hub — także po
+      // EOL i bez oferty. Raz wpisany zostaje na zawsze; to dane historyczne.
+      // Wcześniej hub istniał tylko przy ofercie/RRP/karcie i znikał, gdy oferta
+      // wypadała z feedu — Search Console pokazywała 9% skanowań jako 404 na
+      // /zestaw/<nr>/. Cienki hub dostaje noindex (seo.js), ale nigdy 404.
+      numery.add(String(s.numer));
     }
   }
   return numery;

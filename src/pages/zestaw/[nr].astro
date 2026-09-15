@@ -177,8 +177,11 @@ const nazwaKrotka = nazwa.length <= 40 ? nazwa : `${nazwa.slice(0, 40).replace(/
 const tytul = najlepsza
   ? `LEGO ${nr} ${nazwaKrotka} – cena i promocje`
   : `LEGO ${nr} ${nazwaKrotka}${eol ? ' – wycofany (EOL)' : ''}`;
+// Opis meta zaczyna się od ceny i liczby sklepów — GSC 15.09.2026: huby na
+// pozycjach 7–12 miały 0% CTR obok sklepów, które pokazują cenę w wyniku.
+const liczbaSklepow = new Set(oferty.map((o) => o.sklep)).size;
 const opisMeta = najlepsza
-  ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
+  ? `Od ${fmt(najlepsza)} w ${liczbaSklepow} ${liczbaSklepow === 1 ? 'sklepie' : liczbaSklepow < 5 ? 'sklepach' : 'sklepach'}${cenaKatalogowa && najlepsza < cenaKatalogowa ? ` (${Math.round((1 - najlepsza / cenaKatalogowa) * 100)}% poniżej ceny katalogowej ${fmt(cenaKatalogowa)})` : cenaKatalogowa ? ` (cena katalogowa ${fmt(cenaKatalogowa)})` : ''}. LEGO ${nr} ${nazwa}${elementy ? `, ${elementy} elementów` : ''} – porównanie cen, rabat liczony od RRP, dla rodzica i dla kolekcjonera.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
 <Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny}>

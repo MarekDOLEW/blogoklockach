@@ -151,17 +151,19 @@ pokażą się nigdy.
 Planeta potrafi resetować połączenie przy serii pobrań (curl 35) — skrypt
 ponawia trzy razy z odstępem; przy setkach plików liczy się w dziesiątkach minut.
 
-## Robots.txt na produkcji ≠ repo *(ustalone 15.09.2026)*
+## Robots.txt: blokady AI zdjęte *(15.09.2026)*
 
-`public/robots.txt` ma tylko `Disallow: /idz/` i sitemapę. Produkcja oddaje więcej:
-Cloudflare (AI Crawl Control, ustawienie domyślne) dokłada `Content-Signal:
-search=yes,ai-train=no,use=reference` oraz `Disallow: /` dla GPTBot, ClaudeBot,
-CCBot, Google-Extended, Bytespider, Amazonbot, Applebot-Extended,
-meta-externalagent. Decyzja Marka 15.09: **zostaje jako domyślne, do zdjęcia
-w razie potrzeby.** Nie blokuje to wyszukiwania: OAI-SearchBot (ChatGPT search —
-15.09 największe źródło ruchu w GA4) i Googlebot nie są na liście; blokuje
-trening. Gdyby Claude, Perplexity albo inny asystent miał nas polecać, trzeba
-zdjąć ClaudeBot / PerplexityBot w panelu: Cloudflare → AI Crawl Control.
+Do 15.09 Cloudflare (AI Crawl Control, ustawienie domyślne) dokładał do naszego
+`robots.txt` blokady GPTBot, ClaudeBot, CCBot, Google-Extended i pięciu innych
+oraz `Content-Signal: ai-train=no`. Marek zdjął to 15.09 rano: produkcja oddaje
+teraz dokładnie `public/robots.txt` (`Allow: /`, `Disallow: /idz/`, sitemapa).
+Na brzegu (AI Crawl Control, osobny przełącznik od robots.txt) zablokowane
+zostały wyłącznie boty treningowe: Bytespider, CCBot, PetalBot, Amazonbot,
+GPTBot, Google-CloudVertexBot, FacebookBot, Meta-ExternalAgent i kilka
+niszowych. Boty wyszukiwania i asystentów (Googlebot, OAI-SearchBot,
+ChatGPT-User, ClaudeBot, PerplexityBot) mają wstęp — ChatGPT był 15.09
+największym źródłem ruchu w GA4, więc to jest świadomy wybór, nie domyślne
+ustawienie. Sprawdzenie: `curl -s https://tylkoklocki.pl/robots.txt`.
 
 ## HTTP → HTTPS *(wykryte i naprawione 15.09.2026)*
 

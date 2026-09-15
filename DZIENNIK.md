@@ -47,6 +47,31 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 09:30 · CODE · Po raporcie GSC: huby na zawsze, katalog +1523, opisy meta z ceną
+
+**Zrobione (decyzje Marka po odczycie panelu GSC):**
+- **Hub dla każdego zestawu z katalogu, nigdy 404** — `policzHuby()` bierze cały
+  katalog: 4 450 → **9 363 huby**, build 25 s, 0 martwych linków (335 789
+  sprawdzonych). Cienkie huby mają noindex; sitemapa zestawów 742 → 752.
+- **Katalog +1 523 zestawy z Rebrickable** (`katalog-z-rebrickable.mjs`): wycenione
+  w feedach numery bez huba (41087, 1382, 911617…). 20 nowych serii dawnych
+  linii (Nexo Knights, DOTS, Chima, Bionicle, Castle, Pirates…), 265 w Archiwum,
+  96 gadżetów. 197 numerów Rebrickable nie zna — bez huba, celowo.
+- **Opis meta hubów zaczyna się od ceny**: „Od 429,00 zł w 2 sklepach (17% poniżej
+  ceny katalogowej 519,99 zł)…" — huby na pozycjach 7–12 miały 0% CTR.
+- Stopka: linki do wszystkich działów — strony działowe były „wykryte,
+  niezindeksowane".
+- Robots: Marek zdjął blokady AI; produkcja = `public/robots.txt`. RUNBOOK.
+
+**Stan:** na main. Czeka: prompt dla Coworka „Poproś o zindeksowanie" (w czacie),
+410 dla starych adresów sklepu z zabawkami (worker — zgoda Marka), tabela
+dystrybucji i cotygodniowy lego.pl, alerty.
+
+**Dla drugiej strony:** Scout — nowe serie w katalogu mają nazwy z Rebrickable;
+nie tłumacz ich hurtem, tylko gdy zestaw wraca do sprzedaży. Kontroler — od
+teraz raport tygodniowy ma podawać liczbę hubów i 404 z GSC.
+
+
 ## 2026-09-15 09:40 · CODE · Decyzje Marka po audycie: zdjęcia, wycofania, Rakuten, robots, poprawki A
 
 **Zrobione:**

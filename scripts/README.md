@@ -47,6 +47,7 @@ lub do ofert. Żaden nie chodzi sam.
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
 | `smyk-ceny.mjs` | Smyk | Wymaga pliku: `node scripts/smyk-ceny.mjs <plik.json>` |
 | `wczytaj-rrp.mjs` | — | Potwierdzone ceny katalogowe do `rrp_potwierdzone.json` |
+| `katalog-z-rebrickable.mjs` | sesja, gdy `--sucho` pokaże nowe numery spoza katalogu | Dopisuje do `katalog.json` zestawy wycenione w feedach, których katalog nie zna (Rebrickable CSV, nazwy EN, bez RRP). Append-only. Patrz RUNBOOK „Hub dla każdego zestawu" |
 
 ## Firecrawl — tylko tam, gdzie nas blokują
 
