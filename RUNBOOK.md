@@ -929,6 +929,23 @@ Warto odświeżać przy każdym nowym zaciągu katalogu (`scripts/firecrawl-lego
 
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
 
+**Od 15.09.2026 listing czytamy co tydzień** (Routine „LEGO.pl katalog", wtorek
+05:00 PL, prompt w `materialy/routine-prompty-2026-09-15.md`). Łańcuch:
+`firecrawl-legopl.mjs` (katalog + plik RRP) → `lego-ceny.mjs` (cena LEGO.com do
+`oferty_feed.sety[nr].oferty.lego` z datą w `daty.lego`, oferta `lego` w
+`sety.json`, status `dostepny` + `ekskluzyw` + `lego_pl_widziano` w `katalog.json`)
+→ `wczytaj-rrp.mjs` → `lego-redirects.mjs`. Bramka: poniżej 1 000 produktów
+w zaciągu = listing się urwał, nie wczytywać. Trzy pułapki:
+- `JSON.stringify` sortuje klucze numeryczne — `lego-ceny.mjs` zachowuje
+  kolejność z pliku własnym parserem; każdy nowy skrypt piszący `sety.json`
+  albo `oferty_feed.json` z JS musi robić to samo (albo pisać z Pythona).
+- Etykieta „Ekskluzywne" bywa na listingu przykryta przez „Nowość" / „Zamówienie
+  oczekujące" — flagę `ekskluzyw` w `sety.json` skrypt tylko podnosi, nigdy nie
+  zdejmuje; rozbieżności wypisuje w raporcie. Strona `/ekskluzywne/` bierze
+  sumę flag z `sety.json` i `katalog.json`.
+- Numery spoza katalogu i `sety.json` (głównie akcesoria 5xxxxxx) skrypt pomija —
+  bez nazwy i serii nie ma z czego zrobić huba.
+
 Serwer nie ma dostępu do lego.com (403 na ruch z data center) i to była nasza
 największa dziura w danych — polskie ceny katalogowe braliśmy z Bricksetu,
 przeliczane kursem, co dawało systematyczne zawyżenia.

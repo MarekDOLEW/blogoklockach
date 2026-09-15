@@ -1,4 +1,9 @@
 {
+  "10281": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10294": {
     "cena": 2899.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -9,10 +14,30 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10300": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10302": {
+    "cena": 769.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10307": {
     "cena": 2699.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "10309": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10311": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "10313": {
     "cena": 249.99,
@@ -29,6 +54,26 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10318": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10323": {
+    "cena": 1149.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10326": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10328": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10329": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -44,15 +89,55 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10334": {
+    "cena": 419.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10335": {
+    "cena": 1149.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10337": {
+    "cena": 779.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10338": {
+    "cena": 379.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10340": {
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10341": {
+    "cena": 1129.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10342": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10343": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10344": {
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "10345": {
+    "cena": 469.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "10347": {
     "cena": 124.99,
@@ -79,10 +164,45 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10352": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10353": {
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "10354": {
+    "cena": 1149.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10356": {
+    "cena": 1649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10357": {
+    "cena": 649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10358": {
+    "cena": 779.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10360": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10361": {
+    "cena": 519.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "10363": {
     "cena": 249.99,
@@ -109,15 +229,35 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10369": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10370": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10372": {
+    "cena": 299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "10373": {
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "10374": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "10375": {
+    "cena": 299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "10412": {
     "cena": 79.99,
@@ -444,6 +584,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11202": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "11203": {
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -509,6 +654,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11371": {
+    "cena": 1079.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "11372": {
     "cena": 469.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -539,6 +689,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11378": {
+    "cena": 949.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "11379": {
+    "cena": 559.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "11380": {
     "cena": 519.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -553,6 +713,21 @@
     "cena": 559.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "11383": {
+    "cena": 469.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "11384": {
+    "cena": 599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "11385": {
+    "cena": 779.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "11386": {
     "cena": 899.99,
@@ -578,6 +753,11 @@
     "cena": 379.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "11504": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "11505": {
     "cena": 339.99,
@@ -609,6 +789,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11511": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "11512": {
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -629,6 +814,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21060": {
+    "cena": 689.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21061": {
     "cena": 999.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -638,6 +828,16 @@
     "cena": 689.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "21063": {
+    "cena": 1149.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21064": {
+    "cena": 339.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
   },
   "21065": {
     "cena": 3199.99,
@@ -729,6 +929,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21330": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21333": {
+    "cena": 729.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21341": {
     "cena": 999.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -738,6 +948,16 @@
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "21349": {
+    "cena": 419.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21351": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "21352": {
     "cena": 419.99,
@@ -749,10 +969,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21354": {
+    "cena": 949.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21355": {
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "21356": {
+    "cena": 1399.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "21357": {
     "cena": 299.99,
@@ -764,6 +994,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21359": {
+    "cena": 1199.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21360": {
+    "cena": 949.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21361": {
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -773,6 +1013,11 @@
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "21363": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "21365": {
     "cena": 209.99,
@@ -784,6 +1029,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21367": {
+    "cena": 689.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21368": {
+    "cena": 339.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21369": {
     "cena": 869.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -793,6 +1048,11 @@
     "cena": 559.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "21371": {
+    "cena": 419.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "21372": {
     "cena": 519.99,
@@ -864,6 +1124,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "21594": {
+    "cena": 189.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "21595": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "21596": {
     "cena": 379.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -898,6 +1168,11 @@
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "31147": {
+    "cena": 81.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "31148": {
     "cena": 124.99,
@@ -983,6 +1258,11 @@
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "31215": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "31216": {
     "cena": 519.99,
@@ -1124,6 +1404,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40516": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "40518": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1189,6 +1474,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40719": {
+    "cena": 319.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "40722": {
     "cena": 379.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1234,6 +1524,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40797": {
+    "cena": 54.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "40801": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1258,6 +1553,11 @@
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40806": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "40807": {
     "cena": 81.99,
@@ -1344,6 +1644,31 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40858": {
+    "cena": 54.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40859": {
+    "cena": 104.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40860": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40861": {
+    "cena": 104.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40862": {
+    "cena": 54.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
   "40863": {
     "cena": 61.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1353,6 +1678,16 @@
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40865": {
+    "cena": 169.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40866": {
+    "cena": 124.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
   },
   "40867": {
     "cena": 81.99,
@@ -1379,6 +1714,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40874": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40875": {
+    "cena": 249.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
   "40878": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1388,6 +1733,11 @@
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40880": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "40881": {
     "cena": 104.99,
@@ -1403,6 +1753,36 @@
     "cena": 104.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40892": {
+    "cena": 129.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40906": {
+    "cena": 84.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40907": {
+    "cena": 84.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40908": {
+    "cena": 81.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40911": {
+    "cena": 84.99,
+    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
+    "data": "06.09.2026"
+  },
+  "40919": {
+    "cena": 104.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "40920": {
     "cena": 169.99,
@@ -1424,6 +1804,21 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40924": {
+    "cena": 104.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40925": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40926": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "40953": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1444,6 +1839,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40958": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "40975": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "41843": {
     "cena": 1299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1458,6 +1863,16 @@
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42171": {
+    "cena": 949.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "42172": {
+    "cena": 1949.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "42173": {
     "cena": 219.99,
@@ -1529,6 +1944,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42206": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "42207": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "42208": {
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1538,6 +1963,11 @@
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42210": {
+    "cena": 599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "42211": {
     "cena": 439.99,
@@ -1599,6 +2029,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42224": {
+    "cena": 599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "42225": {
     "cena": 41.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1614,10 +2049,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42228": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "42229": {
     "cena": 274.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42231": {
+    "cena": 649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "42232": {
     "cena": 1949.99,
@@ -1653,6 +2098,11 @@
     "cena": 819.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42240": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "42241": {
     "cena": 274.99,
@@ -1744,6 +2194,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42676": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "42677": {
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1804,6 +2259,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42690": {
+    "cena": 41.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "42691": {
     "cena": 559.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1838,6 +2298,11 @@
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42698": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "42699": {
     "cena": 209.99,
@@ -1914,6 +2379,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43017": {
+    "cena": 379.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "43018": {
     "cena": 779.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1939,10 +2409,25 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43023": {
+    "cena": 379.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "43024": {
+    "cena": 379.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "43025": {
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43026": {
+    "cena": 419.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "43027": {
     "cena": 124.99,
@@ -2009,6 +2494,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43263": {
+    "cena": 1199.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "43264": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2033,6 +2523,11 @@
     "cena": 379.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43269": {
+    "cena": 599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "43270": {
     "cena": 249.99,
@@ -2094,6 +2589,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43286": {
+    "cena": 169.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "43287": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2119,6 +2619,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43292": {
+    "cena": 299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "43293": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2143,6 +2648,11 @@
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43298": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "43299": {
     "cena": 299.99,
@@ -2183,6 +2693,11 @@
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43307": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "45200": {
     "cena": 209.99,
@@ -2384,6 +2899,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "60480": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "60481": {
     "cena": 41.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2438,6 +2958,11 @@
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "60492": {
+    "cena": 124.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "60493": {
     "cena": 189.99,
@@ -2519,10 +3044,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "60510": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "60511": {
     "cena": 379.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "60512": {
+    "cena": 81.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "71043": {
     "cena": 2049.99,
@@ -2699,6 +3234,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "71851": {
+    "cena": 41.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "71853": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2738,6 +3278,21 @@
     "cena": 559.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "71861": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "71862": {
+    "cena": 41.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "71863": {
+    "cena": 81.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "71864": {
     "cena": 124.99,
@@ -2794,6 +3349,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "72037": {
+    "cena": 729.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "72038": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2828,6 +3388,11 @@
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "72050": {
+    "cena": 779.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "72051": {
     "cena": 729.99,
@@ -2883,6 +3448,21 @@
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "72152": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "72153": {
+    "cena": 2799.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "72154": {
+    "cena": 1129.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "72155": {
     "cena": 81.99,
@@ -2954,6 +3534,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "72306": {
+    "cena": 689.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "72423": {
     "cena": 519.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2964,10 +3549,25 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75192": {
+    "cena": 3599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "75328": {
+    "cena": 299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "75356": {
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75367": {
+    "cena": 2799.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "75372": {
     "cena": 124.99,
@@ -2983,6 +3583,11 @@
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75382": {
+    "cena": 999.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "75389": {
     "cena": 779.99,
@@ -3043,6 +3648,11 @@
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75409": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "75410": {
     "cena": 124.99,
@@ -3113,6 +3723,11 @@
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75425": {
+    "cena": 339.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "75426": {
     "cena": 419.99,
@@ -3189,6 +3804,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75441": {
+    "cena": 339.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "75442": {
+    "cena": 1079.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "75443": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3249,6 +3874,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75456": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "75457": {
     "cena": 3199.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3258,6 +3888,11 @@
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75459": {
+    "cena": 649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "75460": {
     "cena": 299.99,
@@ -3334,6 +3969,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75685": {
+    "cena": 649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "75687": {
     "cena": 104.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3368,6 +4008,11 @@
     "cena": 1399.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76300": {
+    "cena": 1299.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76303": {
     "cena": 249.99,
@@ -3449,6 +4094,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76326": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "76327": {
+    "cena": 249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76329": {
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3478,6 +4133,11 @@
     "cena": 104.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76335": {
+    "cena": 41.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76336": {
     "cena": 81.99,
@@ -3519,6 +4179,21 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76344": {
+    "cena": 559.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "76345": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "76346": {
+    "cena": 419.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76347": {
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3529,20 +4204,50 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76349": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "76350": {
+    "cena": 379.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76352": {
     "cena": 469.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76354": {
+    "cena": 1599.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "76355": {
+    "cena": 899.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76356": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76419": {
+    "cena": 729.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76424": {
     "cena": 61.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76437": {
+    "cena": 1129.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76442": {
     "cena": 81.99,
@@ -3594,10 +4299,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76457": {
+    "cena": 1649.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76458": {
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76459": {
+    "cena": 81.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76460": {
     "cena": 61.99,
@@ -3609,6 +4324,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76462": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "76463": {
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3618,6 +4338,11 @@
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76466": {
+    "cena": 689.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76467": {
     "cena": 419.99,
@@ -3703,6 +4428,11 @@
     "cena": 119.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76968": {
+    "cena": 1079.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "76969": {
     "cena": 189.99,
@@ -3874,6 +4604,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "77239": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "77240": {
     "cena": 114.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3888,6 +4623,11 @@
     "cena": 114.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77243": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "77244": {
     "cena": 114.99,
@@ -3919,6 +4659,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "77251": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "77252": {
     "cena": 114.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3933,6 +4678,11 @@
     "cena": 114.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77255": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "77256": {
     "cena": 114.99,
@@ -3953,6 +4703,11 @@
     "cena": 114.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77260": {
+    "cena": 114.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "77261": {
     "cena": 114.99,
@@ -3998,6 +4753,11 @@
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77984": {
+    "cena": 869.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "77985": {
     "cena": 419.99,
@@ -4064,10 +4824,35 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "80120": {
+    "cena": 209.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
   "80121": {
     "cena": 469.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "88010": {
+    "cena": 94.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "88012": {
+    "cena": 339.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "88013": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
+  },
+  "88015": {
+    "cena": 144.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "15.09.2026"
   },
   "_meta": {
     "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
@@ -4075,56 +4860,6 @@
     "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
-    "zaktualizowano": "2026-08-28"
-  },
-  "40862": {
-    "cena": 54.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40865": {
-    "cena": 169.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40866": {
-    "cena": 124.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40875": {
-    "cena": 249.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "21064": {
-    "cena": 339.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40892": {
-    "cena": 129.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40911": {
-    "cena": 84.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40906": {
-    "cena": 84.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40907": {
-    "cena": 84.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
-  },
-  "40908": {
-    "cena": 81.99,
-    "zrodlo": "karta redakcyjna Piotra (metryka zestawu)",
-    "data": "06.09.2026"
+    "zaktualizowano": "2026-09-15"
   }
 }

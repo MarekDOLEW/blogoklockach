@@ -98,6 +98,9 @@ export function parsujListing(markdown) {
       // „Wkrótce dostępne”, „Ekskluzywne”). „Nowość” stoi na końcu i jest
       // dopiskiem marketingowym, nie stanem produktu.
       status: etykiety.find((e) => PROMOCJA.test(e)) ?? etykiety[0] ?? null,
+      // pełna lista etykiet (od 15.09.2026) — lego-ceny.mjs czyta z niej
+      // „Ekskluzywne" (dystrybucja tylko w LEGO), „Ostatnie zestawy", „Przedsprzedaż"
+      labels: etykiety,
       url,
       ...(elementy !== null ? { elements: elementy } : {}),
     });

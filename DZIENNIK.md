@@ -47,6 +47,42 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 10:20 · CODE · LEGO.pl co tydzień: ceny, dostępność, ekskluzywy + strona /ekskluzywne/
+
+**Zrobione (polecenie Marka „Działaj z tym"):**
+- **Pełny listing lego.pl przez Firecrawl** (57 stron, 1 342 pozycje: 936 zestawów,
+  406 akcesoriów; ~75 kredytów). Nowy `scripts/lego-ceny.mjs` wczytał go do danych:
+  949 cen LEGO.com w `oferty_feed` (klucz `lego` + data per sklep `daty.lego`),
+  850 ofert LEGO w `sety.json`, 93 zestawy z katalogu wróciły na `dostepny`,
+  112 dostało flagę `ekskluzyw`, każdy widziany na lego.pl ma `lego_pl_widziano`.
+  Do tego 147 nowych cen katalogowych (`wczytaj-rrp.mjs`, 0 konfliktów) i 219
+  nowych linków do kart produktu (`lego-redirects.mjs`: 741 → 960).
+- **Strona `/ekskluzywne/`** — tabela dystrybucji wyłącznej LEGO: 126 zestawów
+  w sprzedaży (Icons 32, BrickHeadz 23, Ideas 12…) + 4 po EOL, filtr serii, FAQ.
+  Hub zestawu ekskluzywnego dostał ramkę „nie czekaj na promocję w innych sklepach".
+  Link w stopce, na /kolekcjoner/ i w sitemapie „inne".
+- **Kolejność kluczy w JSON zachowana** — `JSON.stringify` sortuje klucze numeryczne,
+  co przy pierwszym przebiegu przepisało cały `sety.json` (37 tys. linii diffu).
+  `lego-ceny.mjs` ma własny parser kolejności; nowe wpisy idą na koniec.
+- **Etykiety ekskluzywu: listing gubi je przy „Nowość"/„Zamówienie oczekujące"**
+  (pole `status` niesie jedną etykietę). 18 zestawów z ręczną flagą w `sety.json`
+  (31221 Klimt, 21369 X-Files, 76476…) nie ma jej na listingu — flagi ręcznej NIE
+  zdejmujemy automatycznie, skrypt tylko podnosi do `true` i raportuje rozbieżności.
+  Od następnego zaciągu katalog niesie pełną listę `labels` (poprawka w
+  `firecrawl-legopl.mjs`), więc rozbieżności powinny zmaleć.
+- **Routine „LEGO.pl katalog" (wtorek 05:00 PL)** — prompt nr 3 w
+  `materialy/routine-prompty-2026-09-15.md`, do założenia przez Marka w panelu
+  (z repo jako źródłem). Prompt ma bramkę: poniżej 1 000 produktów = listing
+  urwany, nie wczytywać (Marek: „ostatnio listing urywał się po 20 zestawach").
+- **Opisy producenta** dla zestawów w sprzedaży bez opisu i bez karty:
+  `scripts/opisy-legopl.mjs` pobiera sekcje „Funkcje"/„Szczegóły produktu" do
+  `materialy/opisy-lego/lego-pl/<nr>.md` i robi PDF `<nr>.pdf`. Kandydatów 190
+  (po odświeżeniu statusów), 166 z adresem karty — w toku, wynik w kolejnym wpisie.
+
+**Do zrobienia (Marek):** założyć Routine nr 3 w panelu; sprawdzić ręcznie 18
+rozbieżności ekskluzywów po następnym zaciągu (wtorek); wgrać ponownie
+`skille/*.skill` (opcjonalny „normalny poziom rynkowy").
+
 ## 2026-09-15 09:30 · CODE · Po raporcie GSC: huby na zawsze, katalog +1523, opisy meta z ceną
 
 **Zrobione (decyzje Marka po odczycie panelu GSC):**

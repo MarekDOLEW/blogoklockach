@@ -135,6 +135,7 @@ function inne() {
     wpis('/', dzisIso),
     wpis('/wycofania/', dzisIso),
     wpis('/kolekcjoner/', dzisIso),
+    wpis('/ekskluzywne/', dzisIso),
     wpis('/o-nas/'),
     ...korzen,
   ];

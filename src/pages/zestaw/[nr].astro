@@ -65,6 +65,8 @@ const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety 
 // (src/lib/status.js); liczy się także dla pełnych hubów z sety.json, bo
 // śledzony zestaw też potrafi zejść z lego.com, a tabela cen musi to pokazać
 const eol = eolWLego(nr);
+// dystrybucja wyłączna LEGO: flaga z sety.json (ręczna) albo z katalogu (listing lego.pl, co tydzień)
+const ekskluzyw = Boolean(s?.ekskluzyw || kat?.ekskluzyw);
 const wycof = statusWycofania(nr);
 // oferty sklepów poza LEGO – po EOL to one decydują, czy zestaw da się jeszcze kupić
 const ofertySklepowe = oferty.filter((o) => o.sklep !== 'lego' && o.sklep !== 'ceneo');
@@ -241,7 +243,7 @@ const opisMeta = najlepsza
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
           {wkrotce && !przeciek && <span class="badge-wkrotce">wkrótce – zapowiedź potwierdzona przez LEGO</span>}
           {przeciek && <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">zapowiedź – przeciek z rynku</span>}
-          {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
+          {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && <span class="badge-status badge-status--eol" title="End of life – LEGO zakończyło produkcję i sprzedaż tego zestawu">EOL – koniec produkcji w LEGO</span>}
           {wycof && wycof.etap !== 'wycofany' && (
             <span class={`badge-status ${wycof.etap === 'potwierdzone' ? 'badge-status--pewny' : 'badge-status--prognoza'}`}>wycofanie: {wycof.etykieta}</span>
@@ -318,6 +320,13 @@ const opisMeta = najlepsza
           <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
             <strong>Cena katalogowa nieogłoszona.</strong> LEGO nie podało jeszcze sugerowanej ceny tego zestawu –
             uzupełnimy ją, gdy tylko się pojawi. Poniżej ceny sklepów, o ile już go mają.
+          </p>
+        )}
+        {ekskluzyw && !eol && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Zestaw ekskluzywny – sprzedaje go tylko LEGO.</strong> Nie czekaj na promocję w innych sklepach,
+            bo nie trafia do ich cenników; okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).
+            {' '}<a href="/ekskluzywne/">Wszystkie ekskluzywy →</a>
           </p>
         )}
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} eolLego={eol} />

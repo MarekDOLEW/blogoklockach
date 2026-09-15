@@ -3,7 +3,7 @@
 // żeby ta sama pozycja wszędzie miała identyczną cenę, link i status.
 
 import { najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu } from './oferty.js';
-import { rokSetu } from './katalog.js';
+import { rokSetu, wpisKatalogu } from './katalog.js';
 import { urlZdjecia } from './media.js';
 import { maHub } from './huby.js';
 import { statusListingu } from './status.js';
@@ -28,6 +28,40 @@ export function wierszWycofania(w, { sety = {}, feed = {} } = {}) {
     elementy: w.elementy,
     zdjecie: urlZdjecia(w.numer, { sety, feed }),
     hub: maHub(w.numer),
+    status: status.badge,
+    eolLego: status.eolLego,
+    kiedy: status.kiedy,
+    oferta,
+    link,
+    cenaKatalogowa: cenaKat,
+  };
+}
+
+/**
+ * Wiersz TabelaSetow z samego numeru – dla list budowanych z katalogu i sety.json
+ * (np. /ekskluzywne/). Nazwa, seria, rok i liczba elementów z katalogu, gdy
+ * sety.json ich nie ma. Cena: najlepsza oferta śledzonych sklepów, a gdy jej nie
+ * ma i LEGO jeszcze sprzedaje – cena katalogowa z linkiem do LEGO.com.
+ */
+export function wierszZNumeru(nr, { sety = {}, feed = {}, opis = null } = {}) {
+  const numer = String(nr);
+  const s = sety[numer] ?? null;
+  const kat = wpisKatalogu(numer);
+  const sklepowa = najlepszaOferta(numer, { sety, feed });
+  const cenaKat = cenaKatalogowaSetu(numer, { sety });
+  const status = statusListingu(numer, { maOferte: Boolean(sklepowa && sklepowa.sklep !== 'lego') });
+  let oferta = sklepowa;
+  if (!oferta && cenaKat && !status.eolLego) oferta = { sklep: 'lego', cena: cenaKat, data: null };
+  const link = oferta ? linkAfiliacyjny(oferta.sklep, numer) : null;
+  return {
+    numer,
+    nazwa: s?.nazwa ?? kat?.nazwa ?? `Zestaw ${numer}`,
+    opis,
+    seria: s?.seria ?? kat?.seria ?? null,
+    rok: rokSetu(numer) ?? (s?.premiera ? Number(s.premiera.slice(0, 4)) : null),
+    elementy: s?.elementy ?? kat?.elementy ?? null,
+    zdjecie: urlZdjecia(numer, { sety, feed }),
+    hub: maHub(numer),
     status: status.badge,
     eolLego: status.eolLego,
     kiedy: status.kiedy,

@@ -47,6 +47,7 @@ lub do ofert. Żaden nie chodzi sam.
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
 | `smyk-ceny.mjs` | Smyk | Wymaga pliku: `node scripts/smyk-ceny.mjs <plik.json>` |
 | `wczytaj-rrp.mjs` | — | Potwierdzone ceny katalogowe do `rrp_potwierdzone.json` |
+| `lego-ceny.mjs` | LEGO.com | **Routine „LEGO.pl katalog" (wtorek 05:00)**. Wejściem jest katalog z `firecrawl-legopl.mjs`: cena LEGO.com do `oferty_feed` (klucz `lego` + `daty.lego`) i do `sety.json`, status `dostepny` + flaga `ekskluzyw` + `lego_pl_widziano` w `katalog.json`. Nic nie kasuje. Zawsze najpierw `--sucho` |
 | `katalog-z-rebrickable.mjs` | sesja, gdy `--sucho` pokaże nowe numery spoza katalogu | Dopisuje do `katalog.json` zestawy wycenione w feedach, których katalog nie zna (Rebrickable CSV, nazwy EN, bez RRP). Append-only. Patrz RUNBOOK „Hub dla każdego zestawu" |
 
 ## Firecrawl — tylko tam, gdzie nas blokują
@@ -56,6 +57,7 @@ lub do ofert. Żaden nie chodzi sam.
 | `firecrawl.mjs` | Cienki klient API; też do diagnostyki z konsoli |
 | `firecrawl-legopl.mjs` | Zaciąg katalogu lego.com/pl-pl (lego.com oddaje nam 403) |
 | `parser-legopl.mjs` | Parser markdownu listingu — **5× tańszy** niż ekstrakcja modelem (1 kredyt wobec 5) |
+| `opisy-legopl.mjs` | Sesja na żądanie. Opisy producenta z kart lego.pl (sekcje „Funkcje" i „Szczegóły produktu") jako materiał do researchu dla zestawów w sprzedaży bez opisu i bez karty — `materialy/opisy-lego/lego-pl/<nr>.md`, opcjonalnie PDF `<nr>.pdf` (`--pdf <katalog>`). 1 kredyt na kartę. Tekst LEGO nie jest treścią do publikacji |
 
 ## Zdjęcia w R2
 

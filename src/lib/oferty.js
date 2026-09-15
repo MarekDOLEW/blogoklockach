@@ -43,11 +43,15 @@ const katalogowaDoOdsiewu = (nr) => cenaKatalogowaSetu(nr, { sety: setyDane });
 export function ofertyZFeedu(wpisFeedu, nr = null) {
   if (!wpisFeedu) return [];
   const { data } = wpisFeedu;
+  // Data per sklep (`daty: {lego: '2026-09-15'}`), gdy sklep odświeża się w innym
+  // rytmie niż reszta feedu (LEGO.com co tydzień z listingu lego.pl, reszta
+  // codziennie od Łowcy); bez wpisu w `daty` obowiązuje wspólna `data`.
+  const daty = wpisFeedu.daty && typeof wpisFeedu.daty === 'object' ? wpisFeedu.daty : {};
   const surowe =
     wpisFeedu.oferty && typeof wpisFeedu.oferty === 'object'
       ? Object.entries(wpisFeedu.oferty)
           .filter(([, cena]) => typeof cena === 'number' && cena > 0)
-          .map(([sklep, cena]) => ({ sklep, cena, data }))
+          .map(([sklep, cena]) => ({ sklep, cena, data: daty[sklep] ?? data }))
       : wpisFeedu.cena
         ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }]
         : [];

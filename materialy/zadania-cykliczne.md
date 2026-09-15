@@ -312,6 +312,22 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**15.09.2026 (po południu)**
+- Łowca ponownie odtworzony (delete+create) pod ID `trig_01HUdmCx3Z57H7VcX2uLLuQp`:
+  reguła postów dealowych (≥35% od RRP ≥300 zł w sklepie, historyczne minimum na
+  zestawie z wycofań albo akcja sklepu ≥5 zestawów; najwyżej 2 tygodniowo, bez
+  powtórki 14 dni) i zakaz dotykania klucza `lego` w feedzie (należy do Routine
+  LEGO.pl). Stary `trig_01AdSEcWEMGmYPJyESzoxE6s` skasowany od razu, żeby nie
+  odpalił podwójnie o 06:38.
+- Zaprojektowany Routine „LEGO wt 05:00 — LEGO.pl katalog" (cron `0 3 * * 2`):
+  `firecrawl-legopl.mjs` → `lego-ceny.mjs` → `wczytaj-rrp.mjs` → `lego-redirects.mjs`
+  → build → push. Prompt w `materialy/routine-prompty-2026-09-15.md` (nr 3);
+  zakłada go Marek w panelu z repo jako źródłem (Routine z API startuje bez repo
+  i wpada na klasyfikator „Code from External"). Godzina 05:00 PL leży przed
+  Scoutem (05:06) — zaciąg trwa kilkanaście minut, więc Scout może wystartować
+  w trakcie; oba piszą inne pliki (Scout: nowości/dziennik, LEGO.pl: feed, sety,
+  katalog, rrp, redirects), a push idzie przez rebase.
+
 **15.09.2026**
 - Łowca i Radar **odtworzone** (delete+create): Łowca `trig_01AdSEcWEMGmYPJyESzoxE6s`
   z krokiem 0 (`diagnoza.mjs --szybko`); Radar `trig_01WgDxbN6eB2QzAZha7dWBfx`

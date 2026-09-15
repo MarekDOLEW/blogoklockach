@@ -1,0 +1,110 @@
+---
+// Tabela dystrybucji: zestawy sprzedawane wyłącznie przez LEGO (etykieta
+// „Ekskluzywne" na lego.pl). Decyzja Marka 15.09.2026: takie zestawy nigdy nie
+// dostaną niższej ceny w innych sklepach, więc czytelnik nie powinien na nią
+// czekać – liczą się promocje samego LEGO (gratisy, punkty Insiders, okna
+// promocyjne). Źródło flag: `ekskluzyw` w sety.json (ręcznie, z kart) oraz
+// w katalog.json (co tydzień z listingu lego.pl, scripts/lego-ceny.mjs).
+import Base from '../layouts/Base.astro';
+import FiltrSetow from '../components/FiltrSetow.astro';
+import TabelaSetow from '../components/TabelaSetow.astro';
+import sety from '../data/sety.json';
+import katalogDane from '../data/katalog.json';
+import ofertyFeed from '../data/oferty_feed.json';
+import { wierszZNumeru } from '../lib/wiersze.js';
+
+const feedSety = ofertyFeed?.sety ?? {};
+const numery = new Set();
+const dataListingu = katalogDane?._meta?.lego_pl?.match(/^\d{4}-\d{2}-\d{2}/)?.[0] ?? null;
+for (const [nr, s] of Object.entries(sety)) if (s && typeof s === 'object' && s.ekskluzyw) numery.add(String(nr));
+for (const [seria, lista] of Object.entries(katalogDane)) {
+  if (seria === '_meta' || !Array.isArray(lista)) continue;
+  for (const s of lista) if (s.ekskluzyw) numery.add(String(s.numer));
+}
+const wiersze = [...numery].map((nr) => wierszZNumeru(nr, { sety, feed: feedSety }))
+  // po EOL ekskluzyw nie ma już „jednej ceny" – zostaje rynek wtórny; te idą na koniec
+  .sort((a, b) => Number(a.eolLego) - Number(b.eolLego) || (b.cenaKatalogowa ?? 0) - (a.cenaKatalogowa ?? 0));
+const wSprzedazy = wiersze.filter((w) => !w.eolLego);
+const poEol = wiersze.filter((w) => w.eolLego);
+const serie = [...new Set(wSprzedazy.map((w) => w.seria).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'pl'));
+const wSerii = (s) => wSprzedazy.filter((w) => w.seria === s);
+const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
+const MIESIACE = ['stycznia','lutego','marca','kwietnia','maja','czerwca','lipca','sierpnia','września','października','listopada','grudnia'];
+const dataPl = (d) => { const [r, m, dd] = d.split('-').map(Number); return `${dd} ${MIESIACE[m - 1]} ${r}`; };
+
+const faq = [
+  {
+    q: 'Co znaczy, że zestaw LEGO jest ekskluzywny?',
+    a: 'LEGO sprzedaje go wyłącznie we własnych kanałach: na lego.com i w firmowych sklepach LEGO Store. Nie trafia do hurtu, więc Empik, Smyk, Media Expert ani inne sieci nie mają go w cenniku. Na lego.pl takie zestawy noszą etykietę „Ekskluzywne”.',
+  },
+  {
+    q: 'Czy ekskluzywny zestaw LEGO kiedyś stanieje w innym sklepie?',
+    a: 'Nie – dopóki jest ekskluzywny, cena jest jedna. Jedyne okazje to promocje samego LEGO: podwójne punkty Insiders, gratisy przy zakupie za określoną kwotę i sezonowe obniżki. Wyjątkiem są zestawy, które po kilkunastu miesiącach LEGO przenosi do zwykłej dystrybucji – wtedy pojawiają się w sieciach handlowych i znikają z tej listy.',
+  },
+  {
+    q: 'Dlaczego na Allegro ekskluzyw bywa droższy niż w LEGO?',
+    a: 'Bo sprzedają go tam osoby prywatne i resellerzy, którzy kupili go wcześniej w LEGO i doliczają marżę. Gdy zestaw jest jeszcze w sprzedaży na lego.com, kupowanie go drożej na rynku wtórnym nie ma sensu; po wycofaniu z produkcji rynek wtórny staje się jedynym źródłem i ceny rosną.',
+  },
+];
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+};
+---
+<Base
+  title="Ekskluzywne zestawy LEGO – tylko na LEGO.com"
+  description={`${wSprzedazy.length} zestawów LEGO w dystrybucji wyłącznej producenta: lista z ceną, serią i liczbą elementów. Tu nie ma na co czekać w innych sklepach – liczą się tylko promocje LEGO.`}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <article>
+    <h1 style="margin-top:28px">Ekskluzywne zestawy LEGO – dostępne tylko w LEGO.com</h1>
+    <p class="eol-aktualizacja">{wSprzedazy.length} zestawów w sprzedaży{poEol.length ? ` · ${poEol.length} po zakończeniu produkcji` : ''}{dataListingu ? ` · listing lego.pl z ${dataPl(dataListingu)}` : ''}</p>
+    <p class="prose prose--szeroki">Część zestawów LEGO sprzedaje wyłącznie we własnym sklepie i w salonach LEGO Store – na lego.pl stoją z etykietą <span class="badge-ex">ekskluzyw</span>. Nie ma ich w Empiku, Smyku ani w elektromarketach, więc <strong>porównywanie cen nic tu nie daje: cena jest jedna</strong>. Jeśli któryś z tych zestawów jest na Twojej liście, nie czekaj na promocję w innych sklepach, bo nie nadejdzie. Obserwuj za to okna promocyjne LEGO: podwójne punkty Insiders, gratisy za zakupy powyżej progu i sezonowe obniżki – właśnie wtedy ekskluzywy kupuje się najtaniej. Zestawy, które LEGO po czasie przenosi do zwykłej dystrybucji, znikają z tej listy i trafiają do <a href="/serie/">porównania cen w seriach</a>.</p>
+    <p class="disclosure">Przyciski „Sprawdź cenę" prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Cena na LEGO.com pochodzi z cotygodniowego odczytu listingu lego.pl; wiążąca jest zawsze cena w koszyku sklepu.</p>
+
+    {serie.length > 0 && <FiltrSetow serie={serie} liczbaWSerii={(s) => wSerii(s).length} rzeczownik="zestawów" />}
+
+    {serie.map((seria) => (
+      <section class="sekcja" id={`seria-${slug(seria)}`} data-grupa={seria} style="margin: 30px 0;">
+        <div class="sekcja-head">
+          <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <h2>{seria} <small class="sekcja-licznik">{wSerii(seria).length}</small></h2>
+        </div>
+        <TabelaSetow wiersze={wSerii(seria)} naglowekCeny="Cena" />
+        <p class="lista-pusta" data-pusto hidden>Brak wyników w tej serii dla obecnego filtra.</p>
+      </section>
+    ))}
+
+    {poEol.length > 0 && (
+      <section class="sekcja" id="po-eol" style="margin: 30px 0;">
+        <div class="sekcja-head">
+          <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <h2>Ekskluzywy po zakończeniu produkcji <small class="sekcja-licznik">{poEol.length}</small></h2>
+        </div>
+        <p class="prose prose--szeroki">LEGO już ich nie sprzedaje, a że nigdy nie trafiły do innych sklepów, zostaje wyłącznie rynek wtórny – ceny poniżej to oferty z Allegro, jeśli je widzimy.</p>
+        <TabelaSetow wiersze={poEol} naglowekCeny="Cena" />
+      </section>
+    )}
+
+    <section class="sekcja eol-faq" id="faq" style="margin: 34px 0;">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Ekskluzywy LEGO – najczęstsze pytania</h2>
+      </div>
+      {faq.map((f) => (
+        <div class="karta eol-faq-wpis">
+          <h3>{f.q}</h3>
+          <p class="prose prose--szeroki">{f.a}</p>
+        </div>
+      ))}
+    </section>
+  </article>
+</Base>
+
+<style is:global>
+  .eol-aktualizacja { font-size: 0.85rem; opacity: 0.7; margin: 4px 0 14px; }
+  .sekcja-licznik { font-weight: 600; color: var(--granat-60); font-size: 0.8em; margin-left: 4px; }
+  .eol-faq-wpis { padding: 14px 18px; margin: 12px 0; }
+  .eol-faq-wpis h3 { margin: 0 0 6px; font-size: 1.05rem; }
+</style>

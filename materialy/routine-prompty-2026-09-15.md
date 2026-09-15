@@ -5,7 +5,7 @@ kod jest dla klasyfikatora trybu auto „Code from External" — pierwsze
 uruchomienie `node scripts/r2-obrazy.mjs` zostało 15.09 zablokowane i przeszło
 dopiero przy ponownym podejściu. Routine założony w panelu z repozytorium jako
 źródłem (jak Kontroler „[env projektu]") tego problemu nie ma: kod repo jest
-zaufany. Dlatego oba Routine ze świeżą sesją zakłada Marek w panelu, wklejając
+zaufany. Dlatego Routine ze świeżą sesją zakłada Marek w panelu, wklejając
 prompty poniżej; Code kasuje potem swoje wersje z API.*
 
 Ustawienia wspólne: środowisko projektu (to samo, co Kontroler), źródło:
@@ -51,7 +51,24 @@ Kroki:
 4. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
 ```
 
+## 3. „LEGO wt 05:00 — LEGO.pl katalog (ceny, dostępność, ekskluzywy)" — wtorek, cron `0 3 * * 2`
+
+```
+Cotygodniowy odczyt listingu lego.pl dla tylkoklocki.pl (decyzja Marka 15.09.2026: LEGO sprawdzamy co najmniej raz w tygodniu). Ty tylko uruchamiasz skrypty z repo w podanej kolejności i czytasz ich wyniki; skrypty same walidują dane (append-only) i przerywają przy błędzie. Kontekst: RUNBOOK.md, sekcja „lego.pl: dostępne przez Firecrawl". Koszt: ok. 75 kredytów Firecrawla (57 stron listingu).
+
+Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i wklej komunikat do podsumowania:
+1. W katalogu repo: `git fetch origin main && git checkout -B lego-pl-katalog origin/main`. Jeśli nie ma node_modules: `npm ci --no-audit --no-fund`.
+2. Zaciąg listingu (kilkanaście minut, nie przerywaj): `node scripts/firecrawl-legopl.mjs --wyjscie /tmp/legopl-katalog.json --rrp /tmp/legopl-rrp.json`. Skrypt sam przechodzi wszystkie strony listingu (ok. 57 po 22–24 zestawy). Sprawdź w wyniku, że liczba produktów przekracza 1000 — jeśli jest mniejsza (np. listing urwał się po kilku stronach), NIE wczytuj danych, tylko opisz to w podsumowaniu.
+3. `node scripts/lego-ceny.mjs /tmp/legopl-katalog.json --sucho` — przeczytaj raport (produkty, ekskluzywne, zmiany). Gdy raport wygląda rozsądnie (zmiany liczone w setkach, nie w tysiącach; liczba „nowo dostepny" poniżej 100), uruchom bez `--sucho`.
+4. `node scripts/wczytaj-rrp.mjs /tmp/legopl-rrp.json --zrodlo "lego.pl (Firecrawl)" --sucho`, potem bez `--sucho` (rejestr cen katalogowych jest write-once — konflikty zostają w raporcie, nie nadpisuj ich flagą --nadpisz).
+5. `node scripts/lego-redirects.mjs /tmp/legopl-katalog.json --sucho`, potem bez `--sucho` (adresy kart produktu do redirects.json, tylko dopisywanie).
+6. `npm run build` — musi przejść. Potem `git add src/data && git commit -m "LEGO.pl: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób).
+7. Podsumowanie (5 linijek): liczba produktów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, nowych cen RRP, nowych linków; hash commita. Zestawy „spoza katalogu" z raportu lego-ceny.mjs wypisz numerami (dopisze je Scout albo katalog-z-rebrickable.mjs).
+
+Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat.
+```
+
 ---
 
-Po założeniu obu w panelu: daj znać w sesji Code — skasuję `trig_01TSSqtf4ke7wfxwbmkAp6GM`
+Po założeniu wszystkich w panelu: daj znać w sesji Code — skasuję `trig_01TSSqtf4ke7wfxwbmkAp6GM`
 i `trig_01RimXSd1NCqbbRP16MBrjVu` (wersje z API), żeby nic nie chodziło podwójnie.

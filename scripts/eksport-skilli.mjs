@@ -117,9 +117,11 @@ ${listaKategorii}
 ## Reguła, o którą najłatwiej się potknąć
 
 **Nie wpisujesz do tekstu bieżącej ceny sklepowej ani daty kontroli cen.**
-Podajesz trwałą drabinę cenową — standard §18 wymienia ją wprost: **RRP,
-normalny poziom rynkowy, dobrą lub bardzo dobrą cenę i uzasadniony próg
-zakupu**; metodologia dokłada **poziom okazji**, jeśli dane na to pozwalają.
+Podajesz trwałą drabinę cenową: **RRP, dobrą lub bardzo dobrą cenę
+i uzasadniony próg zakupu** (§18–19); **normalny poziom rynkowy** dopisujesz,
+gdy dane go dają (decyzja 15.09.2026, `redakcja/ustalenia-projektowe.md` —
+przykład w §19.1 ma trzy szczeble i to jest wzorzec); metodologia dokłada
+**poziom okazji**, jeśli dane na to pozwalają.
 Pomijanie normalnego poziomu rynkowego jest błędem — bez niego czytelnik nie
 wie, względem czego „dobra cena" jest dobra.
 
