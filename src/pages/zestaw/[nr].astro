@@ -248,7 +248,7 @@ const opisMeta = najlepsza
         <p style="margin-top:0" class="set-plakietki">
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
           {wkrotce && !przeciek && <span class="badge-wkrotce">wkrótce – zapowiedź potwierdzona przez LEGO</span>}
-          {przeciek && <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">zapowiedź – przeciek z rynku</span>}
+          {przeciek && <a class="badge-przeciek" href="/przecieki/" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu; źródło i ocena pewności w dziale Przecieki">zapowiedź – przeciek z rynku</a>}
           {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && <span class="badge-status badge-status--eol" title="End of life – LEGO zakończyło produkcję i sprzedaż tego zestawu">EOL – koniec produkcji w LEGO</span>}
           {wycof && wycof.etap !== 'wycofany' && (

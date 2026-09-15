@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 15.09.2026, 14:56 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 15.09.2026, 15:08 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -157,40 +157,24 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 - ID: `trig_01BWC5ydHBNVE5Q8usmf62PN` · cron `15 6 * * 1` (UTC) · włączony · świeża sesja na każdy przebieg
 
 ```
-``` Cotygodniowa przypominajka dla Marka o ręcznym zrzucie cen Empiku (decyzja 15.09.2026:Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalną przeglądarką przez skill klocki-ceny-empik, a plik lego-empik.json wrzuca do sesji Łowcy Promocji). Ty tylko wysyłasz mail.
-Kroki: 1. Jeśli katalogu
-blogoklockach
-nie ma:
-cd /home/user && git clone --depth 1https://github.com/MarekDOLEW/blogoklockach.git
-. W repo:
-git fetch origin main && git checkout-B empik origin/main
-(bez npm — skrypt wysyłki to Python bez zależności; PDF robi Chromium zkontenera). Wymaga RESEND_API_KEY — gdy brak, wklej komunikat i zakończ. 2. Zapisz plik
-/tmp/przypomnienie-empik.md
-z treścią (uzupełnij datę poniedziałku):
-Pora na cotygodniowy zrzut cen LEGO z empik.com (skill
-klocki-ceny-empik
-, lokalna przeglądarka).
-1. Zrób zrzut →
-lego-empik.json
-. 2. Wrzuć plik do sesji
-Łowca Promocji
-z notką „import cen +linków Empik”. 3. Łowca importuje ceny i uruchamia
-node scripts/empik-redirects.mjs lego-empik.json --usun-martwe
-(deeplinki produktowe zamiast wyszukiwarki). UWAGA: dziś wredirects.json nie ma w ogóle klucza
-empik
-— 3 968 cen prowadzi na wyszukiwarkę; pierwszy zrzutz linkami to najważniejsza rzecz do zrobienia dla przychodu.
-Ostatni zrzut wg
-src/data/oferty_feed.json
-: <najczęstsza wartość pola
-daty.empik
-albo
-data
-przywpisach z
-"sklep": "empik"
-; jeśli nie ustalisz w minutę, wpisz „nie ustalono”>.
-3. Wyślij:
-python3 scripts/wyslij-raport.py --zadanie przypomnienie --tytul "Przypomnienie:zrzut Empiku — <DD.MM.RRRR>" --plik /tmp/przypomnienie-empik.md --wstep "Cotygodnioweprzypomnienie o ręcznym zrzucie cen Empiku."
-4. Podsumowanie: jedna linijka — wysłano / błąd(wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz. ```
+Cotygodniowa przypominajka dla Marka o ręcznym zrzucie cen Empiku (decyzja 15.09.2026: Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalną przeglądarką przez skill klocki-ceny-empik, a plik lego-empik.json wrzuca do sesji Łowcy Promocji). Ty tylko wysyłasz mail.
+
+Kroki:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B empik origin/main` (bez npm — skrypt wysyłki to Python bez zależności; PDF robi Chromium z kontenera). Wymaga RESEND_API_KEY — gdy brak, wklej komunikat i zakończ.
+2. Zapisz plik `/tmp/przypomnienie-empik.md` z treścią (uzupełnij datę poniedziałku):
+
+   # Zrzut Empiku — tydzień od <DD.MM.RRRR>
+
+   Pora na cotygodniowy zrzut cen LEGO z empik.com (skill `klocki-ceny-empik`, lokalna przeglądarka).
+
+   1. Zrób zrzut → `lego-empik.json`.
+   2. Wrzuć plik do sesji **Łowca Promocji** z notką „import cen + linków Empik”.
+   3. Łowca importuje ceny i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). UWAGA: dziś w redirects.json nie ma w ogóle klucza `empik` — 3 968 cen prowadzi na wyszukiwarkę; pierwszy zrzut z linkami to najważniejsza rzecz do zrobienia dla przychodu.
+
+   Ostatni zrzut wg `src/data/oferty_feed.json`: <najczęstsza wartość pola `daty.empik` albo `data` przy wpisach z `"sklep": "empik"`; jeśli nie ustalisz w minutę, wpisz „nie ustalono”>.
+
+3. Wyślij: `python3 scripts/wyslij-raport.py --zadanie przypomnienie --tytul "Przypomnienie: zrzut Empiku — <DD.MM.RRRR>" --plik /tmp/przypomnienie-empik.md --wstep "Cotygodniowe przypomnienie o ręcznym zrzucie cen Empiku."`
+4. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
 ```
 
 ## LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków)
@@ -225,52 +209,20 @@ Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, ża
 - ID: `trig_012JWbmYwHb59sYazo6K9X33` · cron `30 3 * * 2` (UTC) · włączony · świeża sesja na każdy przebieg
 
 ```
-``` Cotygodniowy odczyt listingu lego.pl dla tylkoklocki.pl (decyzja Marka 15.09.2026: LEGOsprawdzamy co najmniej raz w tygodniu) plus tygodniowe odświeżenie cen Ceneo. Ty tylkouruchamiasz skrypty z repo w podanej kolejności i czytasz ich wyniki; skrypty same walidują dane(append-only) i przerywają przy błędzie. Kontekst: RUNBOOK.md, sekcja „lego.pl: dostępne przezFirecrawl". Koszt: ok. 75 kredytów Firecrawla (57 stron listingu).
-Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i wklej komunikat dopodsumowania: 0. REPO I ŚRODOWISKO. Jeśli katalogu
-blogoklockach
-nie ma:
-cd /home/user && gitclone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git
-. W repo:
-git fetch origin main&& git checkout -B lego-pl-katalog origin/main
-; jeśli nie ma node_modules:
-npm ci --no-audit --no-fund
-. Potem
-node scripts/diagnoza.mjs --szybko
-— ten przebieg wymaga zmiennychFIRECRAWL_KEY (listing) i TD_TOKEN (Ceneo). Brak którejś: nie szukaj obejść, wpisz to dopodsumowania i pomiń zależny krok (bez FIRECRAWL_KEY pomijasz kroki 1–5, bez TD_TOKENpomijasz krok 6). 1. Zaciąg listingu (kilkanaście minut, nie przerywaj):
-node scripts/firecrawl-legopl.mjs --wyjscie /tmp/legopl-katalog.json --rrp /tmp/legopl-rrp.json
-. Skrypt sam przechodziwszystkie strony listingu (ok. 57 po 22–24 pozycje). BRAMKA: w podsumowaniu skryptu sprawdźliczbę ZESTAWÓW (nie pozycji — akcesoria to ok. 400 dodatkowych). Jeśli zestawów jest mniej niż800 (15.09 było 936) — listing się urwał; NIE wczytuj danych, opisz to w podsumowaniu i przejdź dokroku 6. 2.
-node scripts/lego-ceny.mjs /tmp/legopl-katalog.json --sucho
-— przeczytaj raport(produkty, ekskluzywne, zmiany, ile zestawów przechodzi na EOL po 14 dniach nieobecności,rozbieżności ekskluzywów). Gdy raport wygląda rozsądnie (zmiany w setkach, nie tysiącach; „nowodostepny" poniżej 100; „na EOL" poniżej 150), uruchom bez
---sucho
-. Jeśli „na EOL" jest większe —listing był niepełny mimo bramki: NIE wczytuj, opisz. 3.
-node scripts/wczytaj-rrp.mjs /tmp/legopl-rrp.json --zrodlo "lego.pl (Firecrawl)" --sucho
-, potem bez
---sucho
-(rejestr cen katalogowychjest write-once — konfl ikty zostają w raporcie, nie używaj --nadpisz). 4.
-node scripts/lego-redirects.mjs /tmp/legopl-katalog.json --sucho
-, potem bez
---sucho
-(adresy kart produktu, tylkodopisywanie). 5. Zestawy „spoza katalogu" z raportu lego-ceny.mjs:
-node scripts/katalog-z-rebrickable.mjs --sucho
-; jeśli skrypt proponuje dopisać zestawy (nie akcesoria 5xxxxxx) —uruchom bez
---sucho
-. To jedyny mechanizm, który daje hub zestawom widocznym na lego.pl, anieznanym katalogowi. 6. Ceny Ceneo (tygodniowo, wymaga TD_TOKEN):
-node scripts/ceneo-feed.mjs
-. Skrypt dopisuje klucz
-ceneo
-do feedu z datą per sklep i linki do redirects.json; nic niekasuje. 7.
-node scripts/generuj-obrazy.mjs
-(odświeża obrazy.json dla nowych zestawów — bez tego
-Routine Zdjęcia → R2 ich nie dogra), potem
-npm run build
-— musi przejść. Potem
-git add src/data&& git commit -m "LEGO.pl + Ceneo: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" &&git push origin lego-pl-katalog:main
-. Przy odrzuconym pushu:
-git fetch origin main && gitrebase origin/main
-i push ponownie (do 3 prób); jeśli rebase zgłosi konfl ikt w src/data — NIErozwiązuj go ręcznie, przerwij (
-git rebase --abort
-) i wklej komunikat do podsumowania. 8.Podsumowanie (do 8 linijek): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety /katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanychz Rebrickable, cen Ceneo; hash commita. Rozbieżności ekskluzywów (fl aga w sety.json bez etykietyna listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
-Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. GdyFirecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat. ```
+Cotygodniowy odczyt listingu lego.pl dla tylkoklocki.pl (decyzja Marka 15.09.2026: LEGO sprawdzamy co najmniej raz w tygodniu) plus tygodniowe odświeżenie cen Ceneo. Ty tylko uruchamiasz skrypty z repo w podanej kolejności i czytasz ich wyniki; skrypty same walidują dane (append-only) i przerywają przy błędzie. Kontekst: RUNBOOK.md, sekcja „lego.pl: dostępne przez Firecrawl". Koszt: ok. 75 kredytów Firecrawla (57 stron listingu).
+
+Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i wklej komunikat do podsumowania:
+0. REPO I ŚRODOWISKO. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B lego-pl-katalog origin/main`; jeśli nie ma node_modules: `npm ci --no-audit --no-fund`. Potem `node scripts/diagnoza.mjs --szybko` — ten przebieg wymaga zmiennych FIRECRAWL_KEY (listing) i TD_TOKEN (Ceneo). Brak którejś: nie szukaj obejść, wpisz to do podsumowania i pomiń zależny krok (bez FIRECRAWL_KEY pomijasz kroki 1–5, bez TD_TOKEN pomijasz krok 6).
+1. Zaciąg listingu (kilkanaście minut, nie przerywaj): `node scripts/firecrawl-legopl.mjs --wyjscie /tmp/legopl-katalog.json --rrp /tmp/legopl-rrp.json`. Skrypt sam przechodzi wszystkie strony listingu (ok. 57 po 22–24 pozycje). BRAMKA: w podsumowaniu skryptu sprawdź liczbę ZESTAWÓW (nie pozycji — akcesoria to ok. 400 dodatkowych). Jeśli zestawów jest mniej niż 800 (15.09 było 936) — listing się urwał; NIE wczytuj danych, opisz to w podsumowaniu i przejdź do kroku 6.
+2. `node scripts/lego-ceny.mjs /tmp/legopl-katalog.json --sucho` — przeczytaj raport (produkty, ekskluzywne, zmiany, ile zestawów przechodzi na EOL po 14 dniach nieobecności, rozbieżności ekskluzywów). Gdy raport wygląda rozsądnie (zmiany w setkach, nie tysiącach; „nowo dostepny" poniżej 100; „na EOL" poniżej 150), uruchom bez `--sucho`. Jeśli „na EOL" jest większe — listing był niepełny mimo bramki: NIE wczytuj, opisz.
+3. `node scripts/wczytaj-rrp.mjs /tmp/legopl-rrp.json --zrodlo "lego.pl (Firecrawl)" --sucho`, potem bez `--sucho` (rejestr cen katalogowych jest write-once — konflikty zostają w raporcie, nie używaj --nadpisz).
+4. `node scripts/lego-redirects.mjs /tmp/legopl-katalog.json --sucho`, potem bez `--sucho` (adresy kart produktu, tylko dopisywanie).
+5. Zestawy „spoza katalogu" z raportu lego-ceny.mjs: `node scripts/katalog-z-rebrickable.mjs --sucho`; jeśli skrypt proponuje dopisać zestawy (nie akcesoria 5xxxxxx) — uruchom bez `--sucho`. To jedyny mechanizm, który daje hub zestawom widocznym na lego.pl, a nieznanym katalogowi.
+6. Ceny Ceneo (tygodniowo, wymaga TD_TOKEN): `node scripts/ceneo-feed.mjs`. Skrypt dopisuje klucz `ceneo` do feedu z datą per sklep i linki do redirects.json; nic nie kasuje.
+7. `node scripts/generuj-obrazy.mjs` (odświeża obrazy.json dla nowych zestawów — bez tego Routine Zdjęcia → R2 ich nie dogra), potem `npm run build` — musi przejść. Potem `git add src/data && git commit -m "LEGO.pl + Ceneo: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); jeśli rebase zgłosi konflikt w src/data — NIE rozwiązuj go ręcznie, przerwij (`git rebase --abort`) i wklej komunikat do podsumowania.
+8. Podsumowanie (do 8 linijek): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanych z Rebrickable, cen Ceneo; hash commita. Rozbieżności ekskluzywów (flaga w sety.json bez etykiety na listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
+
+Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat.
 ```
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)

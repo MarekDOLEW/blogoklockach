@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 15.09 14:56 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 15.09 15:08 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.

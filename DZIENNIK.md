@@ -47,6 +47,25 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 16:10 · CODE · Dział /przecieki/, limit „Obserwuj", auto-EOL, prompty Routine
+
+- **`/przecieki/` na produkcji** (decyzja Marka: osobno od faktów, od razu w sitemapie):
+  15 wpisów na start (3 z `sety.json` ze statusem przeciek + 12 z tekstu Zapowiedzi
+  2027), każdy ze źródłem, oceną pewności (wysoka/średnia/niska) i miejscem na
+  rozstrzygnięcie; tablica trafności na górze strony; menu, stopka, link z /nowosci/
+  i z plakietki na hubie. Dane: `src/data/przecieki.json` (append-only, właściciel
+  Scout). Reguły w RUNBOOK „Przecieki — dział osobno od faktów".
+- **Scout** odtworzony (delete+create, ta sama sesja) z krokiem PRZECIEKI: dopisuje
+  wpisy z pewnością wg drabiny, rozstrzyga po premierze, ustawia `status_nowosci`.
+- **„Obserwuj zestaw"**: limit 10 zapisów/dobę per IP i per e-mail + odrzucanie obcego
+  Origin (worker, decyzja Marka „zmień obserwuj na 10 zapytań").
+- **Auto-EOL**: 101 zestawów „dostepny" bez śladu na lego.pl i z premierą starszą niż
+  3 miesiące → EOL (lista 122 przejrzana przez Marka, reguła w `lego-ceny.mjs`);
+  17 zostaje do sprawdzenia (bez daty premiery).
+- **Prompty Routine z panelu**: Alerty i Zdjęcia → R2 wklejone poprawnie; LEGO.pl
+  i Empik za pierwszym razem z PDF-a — sklejone słowa, rozbite komendy — ponowione
+  z bloków kodu na czacie (weryfikacja odczytem z konta w tym wpisie niżej).
+
 ## 2026-09-15 14:50 · CODE · Audyt, przebieg 2 — 11 napraw na main, reszta do decyzji Marka
 
 Raport: `materialy/audyt-mechanizmu-2026-09-15b.md` (PDF na czacie). Trzy równoległe

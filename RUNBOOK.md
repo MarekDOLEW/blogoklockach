@@ -1207,3 +1207,26 @@ przez `maHub`; bez tego zgłaszałaby 32 adresy zwracające 404. Do naprawy
 u źródła: dopuścić kartę jako podstawę huba w `huby.js` i dodać `karta.nazwa`
 do łańcucha fallbacków nazwy w `[nr].astro` (dziś nazwa leci wyłącznie
 z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
+
+## Przecieki — dział osobno od faktów *(od 15.09.2026, decyzja Marka)*
+
+`/przecieki/` pokazuje nieoficjalne zapowiedzi z `src/data/przecieki.json`
+(`src/lib/przecieki.js`, strona `src/pages/przecieki/index.astro`). Zasady:
+
+- **Przeciek nigdy nie wchodzi do huba faktów**, tabeli cen ani danych
+  strukturalnych `Product`. Dostaje cenę „ok. X zł wg źródła", termin wg źródła,
+  ocenę pewności i źródło. Progu zakupu nie ma, bo cena nie jest katalogowa.
+- **Pewność** (drabina jak przy prognozach wycofań): *wysoka* = ≥2 niezależne
+  serwisy (PromoBricks + StoneWars) zgodne co do numeru i ceny; *średnia* = jedno
+  źródło branżowe + dowód (zdjęcie, listing sklepu, katalog dystrybutora);
+  *niska* = jedno źródło społecznościowe albo sam numer.
+- **Tablica trafności** to wyróżnik działu: po premierze albo zaprzeczeniu Scout
+  dopisuje `rozstrzygniecie: {kiedy, wynik: potwierdzony|zmieniony|obalony,
+  co_sie_zmienilo}`. Wpis nigdy nie jest kasowany — to historia trafności.
+- Gdy LEGO potwierdzi przeciek, Scout dopisuje zestaw do `sety.json` jak każdą
+  nowość (bez `status_nowosci: przeciek`) i rozstrzyga wpis w `przecieki.json`.
+  Zestawy, które siedzą w `sety.json` z `status_nowosci: przeciek` (stan sprzed
+  działu: 21375, 11387, 77094), mają hub bez ofert i plakietkę linkującą do działu.
+- Strona jest w sitemapie `inne` i w menu od pierwszego dnia (Marek: „od razu do
+  sitemapy"). Do RSS przecieki nie wchodzą — RSS to teksty redakcyjne.
+- Właściciel danych: Scout (codziennie 05:00). Prompt Scouta ma krok „PRZECIEKI".
