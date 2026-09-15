@@ -142,6 +142,11 @@ nie dowodziła. Naprawa: prompty obu świeżo-sesyjnych Routine (Zdjęcia → R2
 Przypomnienie Empik) klonują repo same (`git clone --depth 1` + `npm ci`), a tryb
 codzienny skryptu zostawia ślad `_stan/r2-obrazy.json` w R2, który da się
 odczytać z zewnątrz — bez tego nie ma jak potwierdzić, że skrypt się wykonał.
+**Test nr 2, 08:59–09:00 PL (sesja `session_01YHUx55HaYYWBYqZdteQn4H`): przeszedł
+z dowodem** — ślad w R2 `kiedy: 2026-09-15T07:00:12Z` (mój własny zapis był
+06:58:35Z), `w_r2 11141, z_planety 5599, brakowalo 0, wgrano 0, bledy 0`.
+Klon + npm ci + skrypt zmieściły się w 80 s, koszt 0,17 $. Routine gotowy na
+jutro 04:02.
 
 
 ## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
