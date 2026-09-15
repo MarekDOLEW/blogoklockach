@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "LEGO 21330 Kevin sam w domu pierwszy raz poniżej 1200 zł – wrzesień to ostatni spokojny moment"
 opis: "Dom McCallisterów właśnie zaliczył najniższą cenę naszych notowań. Na ten zestaw rabaty są rzadkie i płytkie, a przed świętami cena tradycyjnie rośnie."
 data: "2026-08-31"
-kategoria: "Deal dnia"
+kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
 ---

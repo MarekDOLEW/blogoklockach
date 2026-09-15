@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "Kalendarze adwentowe LEGO 2026 pierwszy raz poniżej 90 zł – kupuj teraz, nie w listopadzie"
 opis: "City i Friends właśnie zaliczyły najniższe ceny naszych notowań, a licencje Marvel, Disney i Star Wars też są daleko od cen katalogowych. Sierpień to najlepszy moment na ten zakup."
 data: "2026-08-29"
-kategoria: "Deal dnia"
+kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla rodziców"]
 ---

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "opis": "Stala lista kategorii dzialu /artykuly/ w kolejnosci wyswietlania. Pasek filtra pokazuje wszystkie, takze puste – czytelnik ma od razu widziec, czego szukac, a redakcja: gdzie sa dziury.",
-    "zasada": "Kategoria artykulu (frontmatter `kategoria`) musi byc jedna z tych nazw. Prezentowniki NIE sa kategoria artykulu – maja wlasny dzial /prezentowniki/.",
+    "zasada": "Kategoria artykulu (frontmatter `kategoria`) musi byc jedna z tych siedmiu nazw redakcyjnych. Teksty SPRZEDAZOWE maja dwie osobne wartosci poza ta lista: `Prezentownik` (dzial /prezentowniki/) i `Deal` (dzial /deale/) – decyzja Marka 15.09.2026. Build sprawdza pole skryptem scripts/sprawdz-kategorie.mjs.",
     "nazewnictwo": "Nowy artykul nazywamy od kategorii: 'Recenzja LEGO 71858 ...', 'Ranking ...' – po nazwie widac, gdzie tekst trafia.",
     "zaktualizowano": "2026-08-27"
   },

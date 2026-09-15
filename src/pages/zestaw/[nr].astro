@@ -71,7 +71,7 @@ const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety 
 // śledzony zestaw też potrafi zejść z lego.com, a tabela cen musi to pokazać
 const eol = eolWLego(nr);
 // „EOL – koniec produkcji" tylko gdy lista wycofań to potwierdza; sam status
-// katalogu (z listingu lego.pl albo importu) znaczy jedynie „brak w LEGO.com"
+// katalogu (z listingu lego.pl albo importu) znaczy jedynie „brak w lego.pl"
 const eolPewny = eol && eolPotwierdzony(nr);
 // dystrybucja wyłączna LEGO: flaga z sety.json (ręczna) albo z katalogu (listing lego.pl, co tydzień)
 const ekskluzyw = Boolean(s?.ekskluzyw || kat?.ekskluzyw);
@@ -255,7 +255,7 @@ const opisMeta = najlepsza
           {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && (eolPewny
             ? <span class="badge-status badge-status--eol" title="End of life – LEGO zakończyło produkcję i sprzedaż tego zestawu">EOL – koniec produkcji w LEGO</span>
-            : <span class="badge-status badge-status--eol" title="Zestawu nie ma w sklepie LEGO.com; inne sklepy mogą mieć zapasy">brak w LEGO.com</span>)}
+            : <span class="badge-status badge-status--eol" title="Zestawu nie ma w sklepie lego.pl; inne sklepy mogą mieć zapasy">brak w lego.pl</span>)}
           {wycof && wycof.etap !== 'wycofany' && (
             <span class={`badge-status ${wycof.etap === 'potwierdzone' ? 'badge-status--pewny' : 'badge-status--prognoza'}`}>wycofanie: {wycof.etykieta}</span>
           )}
@@ -283,7 +283,7 @@ const opisMeta = najlepsza
         )}
         {eol && (
           <p class="karta" style="padding:10px 14px; font-size:0.92rem;">
-            <strong>{eolPewny ? 'LEGO zakończyło produkcję tego zestawu (EOL).' : 'Tego zestawu nie ma już w sklepie LEGO.com.'}</strong>
+            <strong>{eolPewny ? 'LEGO zakończyło produkcję tego zestawu (EOL).' : 'Tego zestawu nie ma już w sklepie lego.pl.'}</strong>
             {ofertySklepowe.length > 0
               ? ' Inne sklepy sprzedają jeszcze zapasy – ceny poniżej to ostatnie sztuki, po ich wyczerpaniu zostaje rynek wtórny.'
               : ' Żaden ze śledzonych sklepów nie ma go dziś w cenniku – zostaje rynek wtórny (Allegro, OLX).'}
@@ -407,7 +407,7 @@ const opisMeta = najlepsza
               {z.zdjecie
                 ? <img class="miniatura" src={z.zdjecie} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" width="300" height="225" />
                 : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
-              <span class="nr">LEGO {z.nr}{z.eolLego && <> <span class="tag-eol" title={z.eolPewny ? 'EOL – LEGO zakończyło produkcję' : 'brak w sklepie LEGO.com'}>{z.eolPewny ? 'EOL' : 'brak w LEGO.com'}</span></>}</span>
+              <span class="nr">LEGO {z.nr}{z.eolLego && <> <span class="tag-eol" title={z.eolPewny ? 'EOL – LEGO zakończyło produkcję' : 'brak w sklepie lego.pl'}>{z.eolPewny ? 'EOL' : 'brak w lego.pl'}</span></>}</span>
               <h3>{z.nazwa}</h3>
               <div class="cena-linia">
                 <span class="cena">{z.cena ? `od ${fmtCena(z.cena)}` : z.cenaKatalogowa && !z.eolLego ? fmtCena(z.cenaKatalogowa) : 'sprawdź cenę'}</span>

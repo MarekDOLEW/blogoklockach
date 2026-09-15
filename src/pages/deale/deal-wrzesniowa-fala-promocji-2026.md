@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "Wrześniowa fala promocji wystartowała – McLaren P1 i Lotniskowiec T.A.R.C.Z.Y. na progach opłacalności"
 opis: "Pierwszego września ponad sto zestawów staniało jednego dnia. Przegląd najmocniejszych okazji z trzech półek cenowych – od flagowców Technic i Marvel po drobnicę pod pierwszy szkolny prezent."
 data: "2026-09-01"
-kategoria: "Deal dnia"
+kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL", "Dla rodziców"]
 ---

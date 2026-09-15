@@ -53,8 +53,11 @@ Przed pisaniem lub redagowaniem JAKIEGOKOLWIEK artykułu przeczytaj dokumenty
 bazowe w `redakcja/` (README + metodologia researchu + standard artykułów +
 sklepy i afiliacja). Skrót najważniejszych reguł:
 
-- najpierw research i karta researchu (`redakcja/karty/`), potem artykuł;
-  nierozstrzygnięte rozbieżności eskaluj do użytkownika przed finalną redakcją;
+- teksty pisane w Code: najpierw research i karta researchu (`redakcja/karty/`),
+  potem artykuł; nierozstrzygnięte rozbieżności eskaluj do użytkownika przed
+  finalną redakcją. Teksty Piotra: karta jest częścią JEGO środowiska pracy
+  i nie musi trafiać do repo (decyzja Marka 15.09.2026) — my dostajemy gotowy
+  artykuł i uzupełniamy ceny oraz linki;
 - w treści artykułu: trwała drabina cenowa i próg zakupu zamiast datowanego
   snapshotu cen; 2–3 sklepy publikacyjne + link do huba `/zestaw/<nr>/`
   (tabela huba aktualizuje się sama i tam data jest właściwa);

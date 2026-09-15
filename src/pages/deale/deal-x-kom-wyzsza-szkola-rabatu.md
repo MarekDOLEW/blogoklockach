@@ -3,7 +3,7 @@ layout: ../../layouts/Artykul.astro
 title: "Wyższa szkoła rabatu w x-kom — magnolia Botanicals najtaniej w historii naszych notowań"
 opis: "Akcja z kodem rabatowym zbija ceny kilku zestawów LEGO poniżej poziomów znanych z porównywarek. Dwie pozycje są naprawdę warte uwagi — reszta to poziom, który znajdziesz i bez kodu."
 data: "2026-09-14"
-kategoria: "Deal dnia"
+kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
 ---

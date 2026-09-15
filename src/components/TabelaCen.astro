@@ -88,9 +88,9 @@ const UWAGA_SKLEP = {
         <tr class="wiersz-eol">
           <td class="kc-sklep">
             <strong>{sklepy.lego?.nazwa ?? 'LEGO.com'}</strong>
-            <span class="kc-uwaga">{eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie LEGO.com'}</span>
+            <span class="kc-uwaga">{eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie lego.pl'}</span>
           </td>
-          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title={eolPewny ? 'EOL – LEGO zakończyło produkcję i już nie sprzedaje' : 'Zestawu nie ma w sklepie LEGO.com'}>{eolPewny ? 'EOL' : 'brak w LEGO.com'}</span></td>
+          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title={eolPewny ? 'EOL – LEGO zakończyło produkcję i już nie sprzedaje' : 'Zestawu nie ma w sklepie lego.pl'}>{eolPewny ? 'EOL' : 'brak w lego.pl'}</span></td>
           {cenaKatalogowa && <td class="kc-rabat">–</td>}
           <td class="kc-cta"><span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span></td>
         </tr>

@@ -38,7 +38,7 @@ export const ETYKIETY_WYCOFANIA = {
   // katalog mówi „eol", ale lista wycofań tego nie potwierdza — wiemy tylko tyle,
   // że listing lego.pl zestawu nie pokazuje (decyzja Marka 15.09.2026: nie
   // twierdzimy „koniec produkcji", gdy nikt tego nie sprawdził)
-  brakWLego: 'brak w LEGO.com',
+  brakWLego: 'brak w lego.pl',
 };
 
 /** EOL potwierdzony: wpis „wycofany" na liście wycofań (kuratorowanej, ze źródłem). */

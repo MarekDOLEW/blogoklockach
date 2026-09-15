@@ -131,31 +131,38 @@ O tym, kto pisze artykuł, decyduje pole **`kategoria`** we frontmatterze —
 **nie katalog, w którym plik leży**. Katalog bywa przypadkowy (prezentowniki
 leżą dziś w dwóch miejscach), kategoria jest deklaracją intencji.
 
-| Kategoria | Co to jest | Kto pisze |
-|---|---|---|
-| `Recenzja` | omówienie zestawu, wrażenia z budowania, ocena | **Piotr** |
-| `Premiera` | debiut lub nowa seria, dane ze Scouta | Marek / Cowork |
-| `Prezentownik` | zestawienia „LEGO dla…", okazjonalne | Marek / Cowork |
-| `Deal` | pojedyncza okazja cenowa, dane z Łowcy | Marek / Cowork |
-| `Kalendarz` | kalendarz promocji, cykle sezonowe | Marek / Cowork |
-| `Zapowiedzi` | zestawy jeszcze niewydane | **graniczna** — patrz niżej |
+| Kategoria | Rodzaj | Co to jest | Kto pisze |
+|---|---|---|---|
+| `Premiery` | redakcyjna | debiut lub nowa fala, dane ze Scouta | Marek / Cowork / Piotr |
+| `Recenzje` | redakcyjna | omówienie zestawu, wrażenia z budowania, ocena | **Piotr** |
+| `Rankingi` | redakcyjna | zestawienia od najlepszego w serii, budżecie, temacie | Piotr / Code |
+| `Porównania` | redakcyjna | dwa lub kilka zestawów obok siebie | Piotr |
+| `Poradniki` | redakcyjna | jak kupować, jak czytać ceny i promocje | Piotr / Code |
+| `Kalendarze` | redakcyjna | okna promocyjne, premiery, wycofania | Marek / Code |
+| `Historyczne` | redakcyjna | archiwalne serie i zestawy | Piotr |
+| `Prezentownik` | sprzedażowa | zestawienia „LEGO dla…", dział /prezentowniki/ | Marek / Cowork |
+| `Deal` | sprzedażowa | pojedyncza okazja cenowa z Łowcy, dział /deale/ | Łowca / Marek |
 
 Linia podziału: **Piotr pisze o zestawach, Marek o cenach i okazjach.**
 Wszystko, co powstaje z danych Łowcy i Scouta, może być generowane
 półautomatycznie i należy do Coworka. To, co wymaga obcowania z zestawem,
-należy do Piotra.
+należy do Piotra. Zapowiedzi niepotwierdzone nie są kategorią tekstu —
+od 15.09.2026 mają własny dział `/przecieki/` na danych.
 
 ### Lista kategorii jest zamknięta
 
-Sześć wartości powyżej to komplet. `kategoria` nie jest dziś przez nic
-walidowana — to zwykły string, wypisywany dosłownie na plakietce artykułu,
-na `/artykuly/` i w zajawkach na stronie głównej. Nic nie stoi na
-przeszkodzie, żeby powstały obok siebie `Deal`, `deal` i `Okazja`.
+Siedem kategorii redakcyjnych to `src/data/kategorie_artykulow.json` — jedyne
+źródło (decyzja Marka 15.09.2026; wcześniej ten dokument miał własną, inną
+listę). Do tego dwie wartości sprzedażowe: `Prezentownik` i `Deal`. Build
+sprawdza pole `kategoria` we wszystkich tekstach (`scripts/sprawdz-kategorie.mjs`,
+uruchamiany w `prebuild`) i pada przy każdej innej wartości — więc `Deal`,
+`deal` i `Okazja` nie powstaną obok siebie.
 
 Dlatego: **nowa kategoria to decyzja, nie odruch.** Zanim jej użyjesz,
-dopisz ją do tej tabeli i odnotuj w `DZIENNIK.md` wraz z właścicielem.
+dopisz ją do `kategorie_artykulow.json` (redakcyjna) albo do listy w
+`scripts/sprawdz-kategorie.mjs` (sprzedażowa) i odnotuj w `DZIENNIK.md`.
 
-Pisownia dokładnie jak w tabeli — wielka litera, bez skrótów, bez liczby
+Pisownia dokładnie jak w tabeli — wielka litera, bez skrótów.
 mnogiej.
 
 ### Artykuły graniczne

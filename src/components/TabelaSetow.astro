@@ -111,7 +111,7 @@ const meta = (w) =>
             <td class="kol-status">
               <span class={badge.klasa}>{badge.tekst}</span>
               {w.status === 'sprzedaz' && w.eolLego && (
-                <span class="tag-eol" title={w.eolPewny ? 'EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców' : 'Zestawu nie ma w sklepie LEGO.com; został u innych sprzedawców'}>{w.eolPewny ? 'EOL' : 'brak w LEGO.com'}</span>
+                <span class="tag-eol" title={w.eolPewny ? 'EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców' : 'Zestawu nie ma w sklepie lego.pl; został u innych sprzedawców'}>{w.eolPewny ? 'EOL' : 'brak w lego.pl'}</span>
               )}
               {w.kiedy && w.status !== 'eol' && w.status !== 'sprzedaz' && (
                 <span class="set-kiedy">znika: {w.kiedy}</span>

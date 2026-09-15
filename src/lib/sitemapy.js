@@ -134,7 +134,6 @@ function inne() {
   return [
     wpis('/', dzisIso),
     wpis('/wycofania/', dzisIso),
-    wpis('/kolekcjoner/', dzisIso),
     wpis('/ekskluzywne/', dzisIso),
     wpis('/przecieki/', dzisIso),
     wpis('/o-nas/'),
