@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-09-06",
+  "zaktualizowano": "2026-09-15",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -55134,6 +55134,107 @@
    {
     "q": "Jakie modele można zbudować i czy zestaw należy do większej kolekcji?",
     "a": "Z tych samych klocków powstaje przenośna konsola, minikomputer albo automat do gier; modeli nie można zbudować jednocześnie. Samodzielny zestaw Creator 3 w 1 związany z tematyką gier i dawnych technologii. <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>."
+   }
+  ]
+ },
+ "10371": {
+  "seria": "Botanicals",
+  "nazwa": "Przytulne rośliny",
+  "elementy": 248,
+  "akapity": [
+   "LEGO Botanicals 10371 Urocze roślinki rozszerzą niewielką, bardziej figlarną część kolekcji botanicznej. Z 248 elementów będzie można zbudować miętę pieprzową i rumianek w dwóch antropomorficznych doniczkach. Brązowa postać zostanie pokazana z książką, a fioletowa z filiżanką herbaty; uśmiechnięte twarze i ruchliwe pozy odsuną ten model od realistycznych bukietów w stronę dekoracji do pokoju lub na biurko.",
+   "Rośliny będzie można zamieniać miejscami między doniczkami, a także łączyć z innymi zestawami małych roślinek LEGO Botanicals. Najwyższa kompozycja z miętą osiągnie 11 cm wysokości, 8 cm szerokości i 7 cm głębokości. Zestaw zostanie przeznaczony dla osób od 9 lat, ale jego niewielki format i spokojny motyw książki oraz herbaty mogą zainteresować również dorosłych kolekcjonerów. Najważniejszym wyróżnikiem będzie połączenie dwóch rozpoznawalnych roślin z wymiennymi, wyraźnie scharakteryzowanymi doniczkami."
+  ],
+  "metryka": {
+   "Numer": "10371",
+   "Nazwa": "Przytulne rośliny",
+   "Seria": "LEGO Botanicals",
+   "Premiera": "1 listopada 2026",
+   "Liczba elementów": "248",
+   "Wiek": "9+",
+   "Minifigurki lub postacie": "brak minifigurek; dwie antropomorficzne doniczki",
+   "Cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "około 0,33 zł",
+   "Typ zestawu": "niewielki model dekoracyjny",
+   "Charakter i powiązanie": "mięta pieprzowa i rumianek; wymienne doniczki kompatybilne z innymi małymi roślinkami LEGO Botanicals",
+   "Wymiary": "mięta: 11 cm wysokości, 8 cm szerokości i 7 cm głębokości",
+   "Dystrybucja": "regularna; przed premierą potwierdzona na LEGO.com, dostępność u innych sprzedawców nie została jeszcze ogłoszona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10371 Urocze roślinki?",
+    "a": "Polska cena katalogowa zestawu wyniesie 81,99 zł. <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 10371?",
+    "a": "Przy cenie katalogowej 81,99 zł i 248 elementach koszt jednego elementu wyniesie około 0,33 zł. To wskaźnik pomocniczy, który nie uwzględnia walorów dekoracyjnych ani wymiennych doniczek."
+   },
+   {
+    "q": "Czy warto kupić LEGO 10371 w cenie katalogowej?",
+    "a": "Cena 81,99 zł nie jest wygórowana jak na dwa kompletne modele, ale zestaw nie został oznaczony jako ekskluzywny. Jeśli po premierze trafi do szerokiej dystrybucji, rozsądnie będzie poczekać na typowy rabat zamiast kupować go od razu w RRP."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 10371 Urocze roślinki?",
+    "a": "Przed premierą potwierdzona jest sprzedaż na LEGO.com. Jeśli zestaw pojawi się także w innych sklepach, warto porównać wiarygodne oferty i koszt dostawy. <a href=\"#ceny\">porównaj oferty w sekcji cen nad opisem</a>"
+   },
+   {
+    "q": "Czy LEGO 10371 jest częścią większej kolekcji?",
+    "a": "Tak. Urocze roślinki należą do LEGO Botanicals i rozwijają grupę małych roślin w doniczkach z twarzami. Miętę i rumianek będzie można przekładać między dołączonymi doniczkami oraz łączyć z kompatybilnymi modelami z tej grupy. <a href=\"/serie/botanicals/\">zobacz wszystkie zestawy LEGO Botanicals</a>"
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Botanicals?",
+    "a": "Najbliższymi propozycjami są 10349 Wesołe roślinki oraz 11506 Bujające się roślinki. Wszystkie stawiają na niewielkie, kolorowe doniczki z charakterem, dlatego mogą tworzyć wspólną ekspozycję. <a href=\"/serie/botanicals/\">zobacz wszystkie zestawy LEGO Botanicals</a>"
+   }
+  ]
+ },
+ "21373": {
+  "seria": "Ideas",
+  "nazwa": "Downton Abbey",
+  "elementy": 4711,
+  "akapity": [
+   "LEGO Ideas 21373 Downton Abbey będzie rozbudowanym modelem ekspozycyjnym dla dorosłych fanów serialu i brytyjskiej architektury. Z 4711 elementów powstanie fasada rezydencji inspirowanej Highclere Castle wraz z przekrojem najważniejszych wnętrz znanych z ekranu. Konstrukcja będzie miała 30 cm wysokości, 44 cm szerokości i 16 cm głębokości, dzięki czemu mimo dużej liczby elementów pozostanie stosunkowo płytka i łatwiejsza do ustawienia na półce niż pełna, zamknięta bryła.",
+   "Najważniejszym pomysłem zestawu będzie pokazanie dwóch światów Downton Abbey. Na górnym poziomie znajdą się jadalnia, główny hol i biblioteka, a na parterze kuchnia, sala dla służby oraz gabinet pana Carsona. Górną część będzie można zdjąć, aby uzyskać lepszy dostęp do pomieszczeń. Wystrój ma odtwarzać realia początku XX wieku: obok świec pojawi się wczesne oświetlenie elektryczne, a wśród drobnych rekwizytów znajdą się mikser, telefon z lat 1910–1920, portrety, tablica dzwonków dla służby i stoły nakryte zgodnie z hierarchią domowników. Całość uzupełnią cedr oraz ławka przed budynkiem.",
+   "W pudełku znajdzie się 13 minifigurek bohaterów w wersjach nawiązujących do szóstego sezonu: The Dowager Countess, Lord Grantham, Lady Grantham, Lady Mary, Lady Edith, Tom Branson, Mr Carson, Mrs Hughes, Mr Bates, Anna Bates, Thomas Barrow, Mrs Patmore oraz Daisy Parker. Wszystkie mają otrzymać dwustronne twarze, a dodatkowe elementy strojów pozwolą posadzić postacie przy stole. Będzie to samodzielny, licencjonowany model LEGO Ideas, powstały na podstawie projektu Sebastiana Veselki. Jego wyróżnikiem nie będzie wyłącznie skala, lecz połączenie eleganckiej fasady z czytelnym podziałem na życie rodziny i służby. Dla odbiorcy niezwiązanego z serialem pozostanie efektowną rezydencją, ale pełna wartość detali i licznej obsady będzie wyraźnie zależała od znajomości Downton Abbey."
+  ],
+  "metryka": {
+   "Numer": "21373",
+   "Nazwa": "Downton Abbey",
+   "Seria": "LEGO Ideas",
+   "Premiera": "1 października 2026 dla LEGO Insiders; 4 października 2026 dla wszystkich",
+   "Liczba elementów": "4711",
+   "Wiek": "18+",
+   "Minifigurki": "13: The Dowager Countess, Lord Grantham, Lady Grantham, Lady Mary, Lady Edith, Tom Branson, Mr Carson, Mrs Hughes, Mr Bates, Anna Bates, Thomas Barrow, Mrs Patmore i Daisy Parker",
+   "Cena katalogowa RRP": "1299,99 zł",
+   "Cena katalogowa za element": "około 0,28 zł",
+   "Typ zestawu": "licencjonowany model ekspozycyjny dla dorosłych",
+   "Charakter i powiązanie": "samodzielny model rezydencji z wnętrzami; projekt wybrany w LEGO Ideas",
+   "Wymiary": "30 cm wysokości, 44 cm szerokości i 16 cm głębokości",
+   "Dystrybucja": "ekskluzywna: LEGO.com i sklepy LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21373 Downton Abbey?",
+    "a": "Polska cena katalogowa zestawu wyniesie 1299,99 zł. <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 21373?",
+    "a": "Przy cenie katalogowej 1299,99 zł i 4711 elementach koszt jednego elementu wyniesie około 0,28 zł. To jedynie wskaźnik pomocniczy: w tym modelu na wartość wpływają także licencja, 13 minifigurek i rozbudowane wnętrza."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21373 w cenie katalogowej?",
+    "a": "Zakup w RRP może być uzasadniony dla zdecydowanych fanów serialu, ponieważ zestaw będzie oferowany wyłącznie przez LEGO. Cena 1299,99 zł jest jednak wysoka, więc przy braku pośpiechu warto sprawdzać okresowe promocje, podwójne punkty Insiders lub prezenty do zakupów."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 21373 Downton Abbey?",
+    "a": "Zgodnie z zapowiedzią zestaw będzie dostępny w oficjalnym sklepie LEGO.com oraz w sklepach LEGO. Wcześniejszy dostęp dla uczestników LEGO Insiders rozpocznie się 1 października 2026, a regularna sprzedaż 4 października. <a href=\"#ceny\">porównaj oferty w sekcji cen nad opisem</a>"
+   },
+   {
+    "q": "Czy LEGO 21373 jest częścią większej kolekcji?",
+    "a": "To samodzielny zestaw LEGO Ideas oparty na licencji Downton Abbey. Nie zapowiedziano systemu łączenia go z innymi budynkami ani kolejnych modeli z tej marki, choć może pasować tematycznie do kolekcji dużych budowli i zestawów inspirowanych ekranem. <a href=\"/serie/ideas/\">zobacz wszystkie zestawy LEGO Ideas</a>"
+   },
+   {
+    "q": "Jak LEGO 21373 wypada na tle innych zestawów LEGO Ideas w podobnej cenie?",
+    "a": "Downton Abbey będzie wyróżniać się liczbą minifigurek, płytką bryłą z otwartym tyłem i mocnym oparciem na jednej licencji. Przy porównaniu z innymi dużymi zestawami Ideas kluczowe będzie więc nie samo przeliczenie elementów, lecz zainteresowanie serialem, architekturą rezydencji i ekspozycją rozbudowanych wnętrz. <a href=\"/serie/ideas/\">zobacz wszystkie zestawy LEGO Ideas</a>"
    }
   ]
  }

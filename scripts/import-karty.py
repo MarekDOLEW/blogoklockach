@@ -70,16 +70,21 @@ def parsuj(path):
     d = {'plik': os.path.basename(path), 'nr': None, 'akapity': [], 'metryka': collections.OrderedDict(), 'faq': []}
     sekcja = None; met = []; faq = []
     for styl, t in akapity_docx(path):
+        if styl.startswith('Heading') and sekcja == 'faq' and styl != 'Heading1':
+            faq.append(t); continue   # P07b: pytania FAQ są nagłówkami 2. stopnia
         if styl.startswith('Heading'):
+            # paczka P07b (15.09.2026): nagłówek FAQ po polsku („Najczęściej zadawane
+            # pytania"), tytuł z nazwą po numerze („LEGO 10371 Urocze roślinki")
             sekcja = ('opis' if 'Opis' in t else 'metryka' if 'Metryka' in t
-                      else 'faq' if 'FAQ' in t else 'inne')
+                      else 'faq' if ('FAQ' in t or 'pytania' in t.lower()) else 'inne')
             continue
         if sekcja is None:
-            m = re.match(r'LEGO (\d{4,5})$', t)
-            if m: d['nr'] = m.group(1)
+            m = re.match(r'LEGO (\d{4,5})(?:\s|$)', t)
+            if m and not d['nr']: d['nr'] = m.group(1)
         elif sekcja == 'opis': d['akapity'].append(t)
         elif sekcja == 'metryka': met.append(t)
         elif sekcja == 'faq': faq.append(t)
+    if met[:2] == ['Pole', 'Informacja']: met = met[2:]   # nagłówek tabeli w P07b
     d['metryka'] = collections.OrderedDict((met[i], met[i+1]) for i in range(0, len(met)-1, 2))
     d['faq'] = [{'q': faq[i], 'a': faq[i+1]} for i in range(0, len(faq)-1, 2)]
     return d
