@@ -12,7 +12,7 @@ import { wpisKatalogu } from './katalog.js';
 import { najlepszaOferta, cenaKatalogowaSetu } from './oferty.js';
 import { hubIndeksowalny } from './seo.js';
 import { urlZdjecia } from './media.js';
-import { eolWLego } from './status.js';
+import { eolWLego, eolPotwierdzony } from './status.js';
 
 const feed = ofertyFeed?.sety ?? {};
 
@@ -36,6 +36,7 @@ function zbuduj() {
       cenaKatalogowa: cenaKatalogowaSetu(nr, { sety }),
       zdjecie: urlZdjecia(nr, { sety, feed }),
       eolLego: eolWLego(nr),
+      eolPewny: eolPotwierdzony(nr),
     };
     if (!m.has(seria)) m.set(seria, []);
     m.get(seria).push(wpis);

@@ -47,6 +47,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 17:20 · CODE · Duplikaty katalogu usunięte, etykieta „brak w LEGO.com", Łowca i Wycofania odtworzone
+
+- **Katalog 9 363 → 9 359** (decyzja Marka): 43026 zostaje w Nike x LEGO, 72423 w Shrek,
+  40824 w Looney Tunes, 77059 jeden wpis. Jedyne świadome zmniejszenie liczby wpisów
+  poza `redirects.empik`. Od teraz `sprawdzUnikalnoscKatalogu()` (json-kolejnosc.mjs)
+  blokuje zapis katalogu z dublem — w `lego-ceny.mjs` i `katalog-z-rebrickable.mjs`.
+- **Etykieta EOL** (decyzja Marka): „EOL – koniec produkcji w LEGO" tylko gdy lista
+  wycofań ma wpis „wycofany" (`eolPotwierdzony()` w status.js); sam status `eol`
+  z katalogu (listing lego.pl, import Rebrickable) daje „brak w LEGO.com" — na
+  listingach, hubie, w tabeli cen i w „podobnych z serii". Strona City: 982 etykiet
+  „brak w LEGO.com", 0 „wycofany (EOL)" — bo lista wycofań nie potwierdza żadnego.
+- **Łowca** `trig_015CVad7UA3mJpXYWxuEwfNo` i **Wycofania** `trig_01NLRxmXX6Y6bMwCV8sevTUs`
+  odtworzone z poprawkami z audytu (szczegóły: zadania-cykliczne.md, historia).
+
 ## 2026-09-15 16:10 · CODE · Dział /przecieki/, limit „Obserwuj", auto-EOL, prompty Routine
 
 - **`/przecieki/` na produkcji** (decyzja Marka: osobno od faktów, od razu w sitemapie):

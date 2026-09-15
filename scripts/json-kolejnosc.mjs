@@ -84,3 +84,14 @@ export function zapiszSety(sciezka, sety, tekstOryg) {
   const wciecie = wykryjWciecie(tekstOryg) || 1;
   writeFileSync(sciezka, stringifyMapa(sety, kluczeObiektu(tekstOryg), wciecie) + (tekstOryg.endsWith('\n') ? '\n' : ''));
 }
+
+/** katalog.json: liczba wpisów musi równać się liczbie unikalnych numerów (15.09.2026: 4 duble). */
+export function sprawdzUnikalnoscKatalogu(katalog) {
+  const numery = new Map();
+  for (const [seria, lista] of Object.entries(katalog)) {
+    if (seria === '_meta' || !Array.isArray(lista)) continue;
+    for (const s of lista) { const nr = String(s.numer); numery.set(nr, [...(numery.get(nr) ?? []), seria]); }
+  }
+  const duble = [...numery].filter(([, serie]) => serie.length > 1);
+  if (duble.length) throw new Error(`katalog.json: zdublowane numery ${duble.map(([nr, s]) => `${nr} (${s.join(', ')})`).join('; ')} — nie zapisuję`);
+}

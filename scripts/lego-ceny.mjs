@@ -26,7 +26,7 @@
 //   node scripts/lego-ceny.mjs katalog-legopl.json
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { zapiszFeed, zapiszSety } from './json-kolejnosc.mjs';
+import { zapiszFeed, zapiszSety, sprawdzUnikalnoscKatalogu } from './json-kolejnosc.mjs';
 
 const arg = process.argv.slice(2);
 const plik = arg.find((a) => !a.startsWith('--'));
@@ -154,6 +154,7 @@ katalog._meta = katalog._meta ?? {};
 katalog._meta.lego_pl = `${dataZaciagu}: status dostepny + ekskluzyw + lego_pl_widziano z listingu lego.pl (scripts/lego-ceny.mjs).`;
 zapiszFeed(P('oferty_feed.json'), feed, feedTekst);
 zapiszSety(P('sety.json'), sety, setyTekst);
+sprawdzUnikalnoscKatalogu(katalog);
 writeFileSync(P('katalog.json'), JSON.stringify(katalog, null, 1) + '\n');
 // walidacja append-only
 const po = {

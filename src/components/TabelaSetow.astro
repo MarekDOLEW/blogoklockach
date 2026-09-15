@@ -64,7 +64,9 @@ const meta = (w) =>
     </thead>
     <tbody>
       {wiersze.map((w) => {
-        const badge = BADGE[w.status] ?? BADGE.sprzedaz;
+        const badge = w.status === 'eol' && !w.eolPewny
+          ? { klasa: 'badge-status badge-status--eol', tekst: ETYKIETY_WYCOFANIA.brakWLego }
+          : (BADGE[w.status] ?? BADGE.sprzedaz);
         return (
           <tr
             id={`set-${w.numer}`}
@@ -109,7 +111,7 @@ const meta = (w) =>
             <td class="kol-status">
               <span class={badge.klasa}>{badge.tekst}</span>
               {w.status === 'sprzedaz' && w.eolLego && (
-                <span class="tag-eol" title="EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców">EOL</span>
+                <span class="tag-eol" title={w.eolPewny ? 'EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców' : 'Zestawu nie ma w sklepie LEGO.com; został u innych sprzedawców'}>{w.eolPewny ? 'EOL' : 'brak w LEGO.com'}</span>
               )}
               {w.kiedy && w.status !== 'eol' && w.status !== 'sprzedaz' && (
                 <span class="set-kiedy">znika: {w.kiedy}</span>

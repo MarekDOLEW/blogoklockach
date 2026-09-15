@@ -17,7 +17,7 @@ import redirects from '../data/redirects.json';
 //                i bez przycisku – nie wysyłamy czytelnika tam, gdzie nie kupi.
 // cenaKatalogowa jest opcjonalna – lekkie huby (spoza sety.json) jej nie znają,
 // wtedy tabela nie pokazuje kolumny rabatu.
-const { nr, oferty, cenaKatalogowa = null, dodajLego = false, eolLego = false } = Astro.props;
+const { nr, oferty, cenaKatalogowa = null, dodajLego = false, eolLego = false, eolPewny = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
 // link do LEGO.com generuje worker z samego numeru – nie wymaga wpisu w redirects;
@@ -88,11 +88,11 @@ const UWAGA_SKLEP = {
         <tr class="wiersz-eol">
           <td class="kc-sklep">
             <strong>{sklepy.lego?.nazwa ?? 'LEGO.com'}</strong>
-            <span class="kc-uwaga">oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców</span>
+            <span class="kc-uwaga">{eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie LEGO.com'}</span>
           </td>
-          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title="EOL – LEGO zakończyło produkcję i już nie sprzedaje">EOL</span></td>
+          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title={eolPewny ? 'EOL – LEGO zakończyło produkcję i już nie sprzedaje' : 'Zestawu nie ma w sklepie LEGO.com'}>{eolPewny ? 'EOL' : 'brak w LEGO.com'}</span></td>
           {cenaKatalogowa && <td class="kc-rabat">–</td>}
-          <td class="kc-cta"><span class="kc-eol-info">produkcja zakończona</span></td>
+          <td class="kc-cta"><span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span></td>
         </tr>
       )}
       {ceneo && (

@@ -55,6 +55,7 @@ const wiersze = hist.map((s) => {
     hub: maHub(s.numer),
     status: status.badge,
     eolLego: status.eolLego,
+    eolPewny: status.eolPewny,
     kiedy: status.kiedy,
     oferta,
     link,
@@ -124,7 +125,7 @@ const liczbaEol = wiersze.filter((w) => w.eolLego).length;
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
       </div>
-      <p>Wszystkie zestawy serii – także te, których LEGO już nie sprzedaje (znacznik <span class="tag-eol">EOL</span>). Część wycofanych zestawów wciąż kupisz w innych sklepach – wtedy pokazujemy aktualną cenę; resztę już tylko na rynku wtórnym, gdzie ceny często przewyższają katalogowe.</p>
+      <p>Wszystkie zestawy serii – także te, których nie ma już w sklepie LEGO (znacznik <span class="tag-eol">brak w LEGO.com</span>; „EOL" tylko tam, gdzie wycofanie potwierdza nasza lista). Część wycofanych zestawów wciąż kupisz w innych sklepach – wtedy pokazujemy aktualną cenę; resztę już tylko na rynku wtórnym, gdzie ceny często przewyższają katalogowe.</p>
       <p class="disclosure">Ceny prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej – zwykle na Twoją korzyść. Sklepy zmieniają ceny także w ciągu dnia, więc kwota na stronie zestawu jest ostatnią, jaką zobaczyliśmy, a nie gwarancją – wiążąca jest zawsze cena w koszyku sklepu.</p>
       <TabelaSetow wiersze={wiersze} />
       <p class="lista-pusta" data-pusto hidden>Żaden zestaw z tej serii nie pasuje do wyszukiwania.</p>

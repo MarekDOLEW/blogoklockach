@@ -35,7 +35,17 @@ export const ETYKIETY_WYCOFANIA = {
   potwierdzone: 'potwierdzone przez LEGO',
   przewidywane: 'prognoza rynku',
   wycofany: 'wycofany (EOL)',
+  // katalog mówi „eol", ale lista wycofań tego nie potwierdza — wiemy tylko tyle,
+  // że listing lego.pl zestawu nie pokazuje (decyzja Marka 15.09.2026: nie
+  // twierdzimy „koniec produkcji", gdy nikt tego nie sprawdził)
+  brakWLego: 'brak w LEGO.com',
 };
+
+/** EOL potwierdzony: wpis „wycofany" na liście wycofań (kuratorowanej, ze źródłem). */
+export function eolPotwierdzony(nr) {
+  const w = wycofanieSetu(nr);
+  return Boolean(w && w.kiedy === 'wycofany');
+}
 
 /** Wpis z listy wycofań, o ile nie został odwołany. */
 const wpisAktywny = (nr) => {
@@ -77,9 +87,9 @@ export function statusWycofania(nr) {
  */
 export function statusListingu(nr, { maOferte = false } = {}) {
   const w = statusWycofania(nr);
-  if (w && w.etap !== 'wycofany') return { badge: w.etap, eolLego: false, kiedy: w.kiedy };
-  if (eolWLego(nr)) return { badge: maOferte ? 'sprzedaz' : 'eol', eolLego: true, kiedy: null };
-  return { badge: 'sprzedaz', eolLego: false, kiedy: null };
+  if (w && w.etap !== 'wycofany') return { badge: w.etap, eolLego: false, eolPewny: false, kiedy: w.kiedy };
+  if (eolWLego(nr)) return { badge: maOferte ? 'sprzedaz' : 'eol', eolLego: true, eolPewny: eolPotwierdzony(nr), kiedy: null };
+  return { badge: 'sprzedaz', eolLego: false, eolPewny: false, kiedy: null };
 }
 
 // Nazwy używane przez starsze importy (seo.js liczył kiedyś własny EOL) –
