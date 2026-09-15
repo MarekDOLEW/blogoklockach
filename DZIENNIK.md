@@ -47,6 +47,38 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 09:40 · CODE · Decyzje Marka po audycie: zdjęcia, wycofania, Rakuten, robots, poprawki A
+
+**Zrobione:**
+- **Zdjęcia**: każdy plik przechodzi przez sharp przed wgraniem do R2 (≤1200 px,
+  JPEG q80); `--optymalizuj` przepuszcza 3716 obiektów cięższych niż 250 KB
+  (w toku; 4,6 MB PNG → 101 KB na produkcji). Worker bez zmian.
+- **Wycofania — jeden autor** (decyzja: raz w tygodniu): Scout i Wycofania
+  odtworzone. Scout ma zakaz edycji `wycofania.json`; sygnały zapisuje w DZIENNIK
+  jako „SCOUT · Sygnały wycofań dla runnera Wycofań". Wycofania (pon 06:10) czyta
+  je, weryfikuje u źródła, obsługuje wszystkie serie. Nowe ID w zadania-cykliczne.
+- **Rakuten**: odmowa — w rejestrze afiliacji ze wskazówką, kiedy wracać.
+- **Robots.txt**: blokady AI z panelu Cloudflare zostają (domyślne, do zdjęcia w
+  razie potrzeby) — opisane w RUNBOOK, razem z brakiem przekierowania http→https
+  (do włączenia w panelu: SSL/TLS → Always Use HTTPS).
+- **Poprawki A bez decyzji**: favicon (SVG+ICO+apple), strona 404, meta
+  `max-image-preview:large`, tytuły hubów z nazwą ≤40 znaków, data przy każdej
+  cenie w tabeli, jeden akapit pod tabelą z wyjaśnieniem pozycji Ceneo.
+  Sprawdzone na produkcji po deployu (`1e0893a`).
+- `materialy/gsc-checklista-2026-09-15.md` — prompt dla sesji Cowork z panelem GSC.
+
+**Stan:** czekam na wynik GSC od Marka i na zrzuty cen RK (historia cen — „teraz").
+
+**Dla drugiej strony:** Scout — od jutra nowy prompt (05:00). Wycofania — pierwszy
+przebieg 21.09 z sygnałami Scouta. Piotr — mail od Łowcy doszedł (potwierdzenie
+Marka 15.09 rano).
+
+**Uwagi:** hub 75430 (bohater deala x-kom) jest noindex — 2 sklepy + opis,
+brak tekstu, bo post dealowy nie liczy się jako tekst o zestawie? Do sprawdzenia
+w `teksty.js` (`poSecie`). Jeśli deale nie są liczone, warto je dołożyć: hub
+zestawu z aktualnym dealem powinien być w indeksie.
+
+
 ## 2026-09-15 08:20 · CODE · Audyt mechanizmu od researchu po widoczność — raport
 
 **Zrobione:** `materialy/audyt-mechanizmu-2026-09-15.md` (PDF wysłany Markowi).
