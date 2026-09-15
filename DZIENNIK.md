@@ -70,7 +70,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 - Import dwóch kart Piotra w nowym szablonie (nazwa w tytule, FAQ jako nagłówki H2,
   polski nagłówek FAQ) — `import-karty.py` poprawiony; RRP obu do rejestru; 21373
   ekskluzyw. Rozbieżność nazwy 10371: Piotr „Urocze roślinki", repo „Przytulne
-  rośliny" — została kanoniczna z repo, do rozstrzygnięcia z Piotrem.
+  rośliny" — została kanoniczna z repo; Marek 15.09 wieczorem: „Przytulne" (rozstrzygnięte).
 - **Karta Piotra = wyjątek indeksowalności** (decyzja Marka): hub z kartą (≥2 akapity,
   ≥3 FAQ) idzie do sitemapy niezależnie od sklepów i tekstów. Sitemapa zestawów
   775 → **1 162**. Kontroler zobaczy to w poniedziałek jako skok liczby hubów.
