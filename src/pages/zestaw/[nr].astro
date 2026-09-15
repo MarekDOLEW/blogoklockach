@@ -40,7 +40,11 @@ const cenaKatalogowa = cenaKatalogowaSetu(nr, { sety });
 
 // redakcyjne oferty + ceny z feedów sklepowych w jednej tabeli (dubel sklepu -> niższa cena)
 const oferty = polaczOferty(s?.oferty ?? [], feedOferta, nr);
-const najlepsza = oferty.length ? Math.min(...oferty.map((o) => o.cena)) : null;
+// Ceneo to porównywarka, nie sklep: tabela i listingi (najlepszaOferta) go pomijają,
+// więc title/meta/JSON-LD też muszą — audyt 15.09.2026: 737 hubów obiecywało w Google
+// cenę Ceneo niższą niż najtańszy wiersz tabeli (10281: meta 139,47 zł, tabela 149 zł).
+const ofertyBezCeneo = oferty.filter((o) => o.sklep !== 'ceneo');
+const najlepsza = ofertyBezCeneo.length ? Math.min(...ofertyBezCeneo.map((o) => o.cena)) : null;
 
 const zdj = s?.zdjecia ?? null;
 // zdjęcie z fallbackiem: sety.json -> feed -> zdjecia.json; wycofania mają czasem własne
@@ -103,16 +107,17 @@ const jsonld = {
   name: `LEGO ${nazwa} (${nr})`,
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
-  ...(opis ? { description: opis } : {}),
+  ...(opis ? { description: opis } : karta?.akapity?.[0] ? { description: String(karta.akapity[0]).replace(/<[^>]+>/g, '').slice(0, 300) } : {}),
   ...(foto?.url ? { image: new URL(foto.url, Astro.site).href } : {}),
-  ...(oferty.length
+  ...(ofertyBezCeneo.length
     ? {
         offers: {
           '@type': 'AggregateOffer',
           priceCurrency: 'PLN',
           lowPrice: najlepsza,
-          highPrice: Math.max(...oferty.map((o) => o.cena)),
-          offerCount: oferty.length,
+          highPrice: Math.max(...ofertyBezCeneo.map((o) => o.cena)),
+          offerCount: ofertyBezCeneo.length,
+          url: new URL(`/zestaw/${nr}/`, Astro.site).href,
           availability: eol && ofertySklepowe.length === 0 ? 'https://schema.org/Discontinued' : 'https://schema.org/InStock',
         },
       }
@@ -184,7 +189,7 @@ const tytul = najlepsza
   : `LEGO ${nazwaKrotka} (${nr})${eol ? ' – wycofany (EOL)' : ''}`;
 // Opis meta zaczyna się od ceny i liczby sklepów — GSC 15.09.2026: huby na
 // pozycjach 7–12 miały 0% CTR obok sklepów, które pokazują cenę w wyniku.
-const liczbaSklepow = new Set(oferty.map((o) => o.sklep)).size;
+const liczbaSklepow = new Set(ofertyBezCeneo.map((o) => o.sklep)).size;
 // Gdy najtaniej jest po cenie katalogowej (albo drożej), „od X w 1 sklepie" brzmi
 // jak okazja, którą nie jest — wtedy mówimy wprost, że promocji jeszcze nie ma.
 const rabatMeta = cenaKatalogowa && najlepsza ? Math.round((1 - najlepsza / cenaKatalogowa) * 100) : 0;

@@ -86,3 +86,13 @@ Gotowe szkielety: `redakcja/wzorce/`.
   je skryptem `scripts/wczytaj-rrp.mjs` do `src/data/rrp_potwierdzone.json`.
 - Transkrypty YouTube bywają niedostępne — wtedy w karcie zaznaczamy zakres
   analizy zgodnie z Metodologią §5.3.
+
+## Drabina cenowa: „normalny poziom rynkowy" jest opcjonalny *(decyzja Marka 15.09.2026)*
+
+§18 standardu wymienia cztery poziomy (RRP, normalny poziom rynkowy, dobra/bardzo
+dobra cena, próg zakupu), a przykład w §19.1 pokazuje trzy. Rozstrzygnięcie:
+**obowiązkowe są RRP, dobra i bardzo dobra cena oraz próg zakupu; normalny
+poziom rynkowy podajemy, gdy dane go dają** (np. zestaw od miesięcy stabilnie
+10% poniżej RRP) — wtedy jest informacją, a nie wymogiem. Dokument Piotra
+zostaje bez zmian; skill `lego-standard-redakcyjny` generuje się z tą regułą.
+
