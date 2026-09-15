@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-09-14",
+  "zaktualizowano": "2026-09-15",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -135,13 +135,13 @@
  },
  "lego": {
   "siec": "Rakuten Advertising",
-  "status": "do zgloszenia",
+  "status": "odmowa",
   "prowizja": "ok. 3% (niska, ale pelna oferta ekskluzywow)",
   "cookie_dni": 7,
   "format_linkow": null,
   "feed": null,
-  "data": null,
-  "uwagi": "Oficjalny program LEGO.com przez Rakuten (mid=50641) - promoklocki uzywa go z deeplinkami na karty produktow (click.linksynergy.com/deeplink?...&murl=lego.com/pl-pl/product/...), wiec program dziala w PL w praktyce. Research: katalog produktow przez SFTP (ciezki), sprawdzic tez agregator Dognet. Bonus: legalne oficjalne zdjecia. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
+  "data": "2026-09-15",
+  "uwagi": "Oficjalny program LEGO.com przez Rakuten (mid=50641) - promoklocki uzywa go z deeplinkami na karty produktow (click.linksynergy.com/deeplink?...&murl=lego.com/pl-pl/product/...), wiec program dziala w PL w praktyce. Research: katalog produktow przez SFTP (ciezki), sprawdzic tez agregator Dognet. Bonus: legalne oficjalne zdjecia. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/). | 2026-09-15: zgłoszenie odrzucone (informacja Marka). W GA4 7–14.09 widać 14 sesji z publisher.rakutenadvertising.com po ~14 min — przegląd serwisu przed decyzją. Ponowne zgłoszenie dopiero po zbudowaniu strony „dlaczego nam wierzyć\" i większym ruchu."
  },
  "alto": {
   "siec": "SalesMasters (program wlasny grupy x-kom)",

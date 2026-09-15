@@ -301,6 +301,12 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 ## Historia zmian harmonogramu
 
 **15.09.2026**
+- Scout i Wycofania **odtworzone** (delete+create, te same sesje i crony):
+  Scout `trig_01VSNGR5PnnobJW9i9x5PAmQ` — zakaz edycji `wycofania.json`, sygnały
+  wycofań zapisuje do `DZIENNIK.md`; Wycofania `trig_01S5hMfivCCFytZSqces2pYw` —
+  jedyny autor pliku, wszystkie serie, czyta sygnały Scouta, źródła + StoneWars
+  i PromoBricks. Powód: 15.09 Scout dopisał 16 wycofań bez reguł w promptcie,
+  a runner Wycofań (tygodniowy, decyzja Marka) jeszcze nie odpalił.
 - Nowy Routine „LEGO 04:00 — Zdjęcia → R2 (Planeta Klocków)"
   (`trig_01TSSqtf4ke7wfxwbmkAp6GM`, cron `0 2 * * *`, świeża sesja na każdy
   przebieg). Uruchamia `node scripts/r2-obrazy.mjs`: listuje kubełek R2

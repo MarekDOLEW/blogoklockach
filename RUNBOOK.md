@@ -151,6 +151,26 @@ pokażą się nigdy.
 Planeta potrafi resetować połączenie przy serii pobrań (curl 35) — skrypt
 ponawia trzy razy z odstępem; przy setkach plików liczy się w dziesiątkach minut.
 
+## Robots.txt na produkcji ≠ repo *(ustalone 15.09.2026)*
+
+`public/robots.txt` ma tylko `Disallow: /idz/` i sitemapę. Produkcja oddaje więcej:
+Cloudflare (AI Crawl Control, ustawienie domyślne) dokłada `Content-Signal:
+search=yes,ai-train=no,use=reference` oraz `Disallow: /` dla GPTBot, ClaudeBot,
+CCBot, Google-Extended, Bytespider, Amazonbot, Applebot-Extended,
+meta-externalagent. Decyzja Marka 15.09: **zostaje jako domyślne, do zdjęcia
+w razie potrzeby.** Nie blokuje to wyszukiwania: OAI-SearchBot (ChatGPT search —
+15.09 największe źródło ruchu w GA4) i Googlebot nie są na liście; blokuje
+trening. Gdyby Claude, Perplexity albo inny asystent miał nas polecać, trzeba
+zdjąć ClaudeBot / PerplexityBot w panelu: Cloudflare → AI Crawl Control.
+
+## HTTP bez przekierowania na HTTPS *(wykryte 15.09.2026)*
+
+`http://tylkoklocki.pl/` oddaje **200**, nie 301 na https — Search Console
+pokazuje wyświetlenia dla `http://tylkoklocki.pl/`, czyli Google widzi dwie
+wersje. Poprawka jest w panelu, nie w repo: Cloudflare → SSL/TLS → Edge
+Certificates → **Always Use HTTPS** (włącz). `www.` nie ma rekordu DNS —
+w porządku, serwis jest bez www.
+
 ## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
 
 Pomiar z Analytics Engine za 7–14.09: **939 kliknięć w `/idz/`, z czego 867

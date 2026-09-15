@@ -60,7 +60,7 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
-| `r2-obrazy.mjs` | sesja, po dopisaniu galerii do `galerie.json` | Wgrywa do R2 zdjęcia, których worker nie pobierze sam (Planeta Klocków odrzuca fetch z workera). Rejestrem wgranych jest sam kubełek (listowanie R2), więc bez zaległości przebieg trwa sekundy. `--limit N` = najwyżej N wgrań, `--sprawdz` = audyt HEAD produkcji (~15 min, widzi też martwe źródła), `--galerie` = tylko galerie. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
+| `r2-obrazy.mjs` | sesja, po dopisaniu galerii do `galerie.json` | Wgrywa do R2 zdjęcia, których worker nie pobierze sam (Planeta Klocków odrzuca fetch z workera). Rejestrem wgranych jest sam kubełek (listowanie R2), więc bez zaległości przebieg trwa sekundy. Każdy plik przechodzi przez sharp (≤1200 px, JPEG q80) — `--optymalizuj` robi to samo z tym, co już leży w R2. `--limit N` = najwyżej N wgrań, `--sprawdz` = audyt HEAD produkcji (~15 min, widzi też martwe źródła), `--galerie` = tylko galerie. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
 
 Budżet: 1000 kredytów miesięcznie. Szczegóły w `NARZEDZIA.md`.
 
