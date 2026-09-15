@@ -369,6 +369,18 @@ if (szybko) {
   const strona = await pobierz('https://tylkoklocki.pl/', { redirect: 'manual' });
   dostepy.produkcja = { stan: strona.ok ? 'ok' : 'błąd', status: strona.status, powod: strona.blad };
 
+  // Trasa workera tak, jak widzi ją PRZEGLĄDARKA (Sec-Fetch-Mode: navigate).
+  // 15.09.2026: warstwa assets oddawała 404 przed workerem dla każdego kliknięcia
+  // w link sklepu, a curl bez tego nagłówka dostawał 302 — zwykły test nic nie
+  // widział. Oczekiwane: 302 na lego.com (run_worker_first w wrangler.jsonc).
+  const klik = await pobierz('https://tylkoklocki.pl/idz/lego/76355', {
+    redirect: 'manual',
+    headers: { 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'sec-fetch-site': 'same-origin', accept: 'text/html' },
+  });
+  dostepy.link_sklepu_z_przegladarki = klik.status === 302
+    ? { stan: 'ok', status: 302 }
+    : { stan: 'błąd', status: klik.status, powod: klik.blad ?? 'trasa /idz/ nie trafia do workera (patrz RUNBOOK „run_worker_first")' };
+
   // Firecrawl — jedyna droga do stron, które blokują ruch z centrum danych.
   if (process.env.FIRECRAWL_KEY) {
     const o = await pobierz('https://api.firecrawl.dev/v1/team/credit-usage', {

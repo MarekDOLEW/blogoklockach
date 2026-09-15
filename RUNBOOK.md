@@ -1237,3 +1237,31 @@ z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
 - Strona jest w sitemapie `inne` i w menu od pierwszego dnia (Marek: „od razu do
   sitemapy"). Do RSS przecieki nie wchodzą — RSS to teksty redakcyjne.
 - Właściciel danych: Scout (codziennie 05:00). Prompt Scouta ma krok „PRZECIEKI".
+
+## Worker za warstwą assets: trasy workera muszą być w `run_worker_first` *(awaria 15.09.2026 wieczorem)*
+
+Objaw: każde kliknięcie w link sklepu wracało na `/idz/<sklep>/<nr>` jako
+strona 404; padły też obrazy otwierane w nowej karcie, linki `/obserwuj/`
+z maili i 410 dla `/p/…`. Z serwera wszystko „działało": curl dostawał 302.
+
+Przyczyna: Cloudflare Workers Static Assets obsługuje żądania NAWIGACYJNE
+przeglądarki (nagłówek `Sec-Fetch-Mode: navigate`) najpierw warstwą plików;
+dla ścieżki bez pliku i przy `not_found_handling: "404-page"` oddaje stronę
+404 i workera nie uruchamia. curl tego nagłówka nie wysyła, więc trafia do
+workera — testy z serwera są ślepe na ten błąd.
+
+Naprawa: `wrangler.jsonc` → `assets.run_worker_first` z listą ścieżek workera
+(`/idz/*`, `/img/*`, `/obserwuj`, `/obserwuj/*`, `/p/*`). Reszta serwisu dalej
+idzie z plików statycznych. Każda nowa trasa w `src/worker.js` MUSI trafić na tę
+listę, inaczej w przeglądarce dostanie 404.
+
+Test, który wykrywa tę klasę awarii (do `diagnoza.mjs` i do ręcznych sprawdzeń):
+
+    curl -sS -o /dev/null -w "%{http_code} %{redirect_url}\n" \
+      -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Dest: document" \
+      -H "Accept: text/html" -H "Sec-Fetch-Site: same-origin" \
+      https://tylkoklocki.pl/idz/lego/76355      # oczekiwane: 302 na lego.com
+
+Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfiguracja
+w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
+przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.

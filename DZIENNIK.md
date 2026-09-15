@@ -47,6 +47,24 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 20:15 · CODE · AWARIA linków do sklepów (naprawiona): warstwa assets przed workerem
+
+- Objaw (zgłoszenie Marka ok. 18:30): każde kliknięcie w sklep kończyło się na
+  `/idz/<sklep>/<nr>` jako 404; padły też `/img/` w nowej karcie, `/obserwuj/`
+  z maili i 410 dla `/p/`. Z serwera curl dostawał 302 — testy były ślepe, bo nie
+  wysyłały `Sec-Fetch-Mode: navigate`. Przez ~godzinę odpowiadałem, że linki działają.
+- Przyczyna: Workers Static Assets obsługuje żądania nawigacyjne najpierw warstwą
+  plików; dla ścieżki bez pliku oddaje stronę 404 i nie uruchamia workera.
+- Naprawa `9ca3d5a`: `assets.run_worker_first` = `/idz/*`, `/img/*`, `/obserwuj`,
+  `/obserwuj/*`, `/p/*` w `wrangler.jsonc` (push bez pytania — awaria). Sprawdzone
+  na produkcji z nagłówkami przeglądarki: 302 do sklepów, 200 obraz, 410 stare adresy.
+- Wcześniejsza poprawka `fb082a1` (Sec-Fetch-Site jako dowód kliknięcia + komunikat
+  na hubie przy odrzuceniu) zostaje — to inna warstwa (filtr botów w workerze).
+- `diagnoza.mjs` ma nowy test `link_sklepu_z_przegladarki` (nagłówki nawigacji).
+  RUNBOOK: sekcja „Worker za warstwą assets". Nie wiadomo, czemu do rana działało
+  bez tej opcji — konfiguracja w repo nie zmieniała się; najpewniej zmiana po
+  stronie Cloudflare.
+
 ## 2026-09-15 18:40 · CODE · Karty Piotra P07b (10371, 21373), karta jako wyjątek indeksowalności, plan 30 tekstów
 
 - Import dwóch kart Piotra w nowym szablonie (nazwa w tytule, FAQ jako nagłówki H2,
