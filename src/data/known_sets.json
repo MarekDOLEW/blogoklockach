@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-14",
+  "data_aktualizacji": "2026-09-15",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1172,
   "sety": [
@@ -1457,6 +1457,24 @@
       "nazwa": "Zestaw promocyjny — rezerwacja",
       "status": "Brickset 2026-09-09: pusty rekord, motyw 'Promotional', kategoria '{t.b.a.}', start 2026-09-21. Data startu jest, nazwy nie ma. Numer sasiaduje z 40899 (Astro Bot), tez promocyjnym.",
       "premiera": "2026-09"
+    },
+    {
+      "numer": "30759",
+      "nazwa": "Speed Champions — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30760",
+      "nazwa": "Speed Champions — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30761",
+      "nazwa": "Technic — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
     }
   ],
   "luki_w_bazie": {
@@ -5907,5 +5925,18 @@
     "bledny_wniosek_o_276_elementach": "11.09 napisalem, ze 276 elementow 'przesadza, ze NIE jest to drobny gratis, tylko pelnoprawny zestaw'. Zly wniosek — wielkosc nie rozstrzyga o formie dystrybucji, gratisy LEGO potrafia byc tej skali. Oba serwisy opisuja 40899 jako GWP do zakupu konsoli.",
     "co_sie_NIE_zmienia": "Status 'zapowiedz niepotwierdzona' zostaje. Zmienia sie uzasadnienie: nie 'jedno zrodlo milczy', tylko 'oba serwisy relacjonuja ten sam przeciek z Reddita, zaden nie ma potwierdzenia oficjalnego'.",
     "konsekwencja_praktyczna": "Jesli 40899 to GWP, nigdy nie dostanie ceny sklepowej ani ofert w feedach, wiec hub nie zbuduje dla niego tabeli cen. W statystyce fali pazdziernikowej nalezy go liczyc osobno od 18 zestawow detalicznych."
+  },
+  "eol_koniec_2026": {
+    "ustalenie": "2026-09-15. StoneWars opublikowal 13.09 liste zestawow, ktore LEGO oznaczylo w firmowym sklepie jako 'Ostatnia szansa' — wycofanie do konca 2026. Z artykulu wyciagnalem 93 numery.",
+    "co_zrobilem": "67 z nich juz bylo w wycofania.json. Z pozostalych 26 dopisalem 16 — te, ktore mamy w katalog.json z polska nazwa i seria. Status 'potwierdzone' (oznaczenie pochodzi od LEGO), kiedy 'grudzien 2026', zrodlo nazwane wprost w kazdym wpisie.",
+    "czego_nie_dopisalem": "10 numerow spoza naszego katalogu — nie mamy dla nich polskiej nazwy ani ceny, a wpisywanie nazw niemieckich zlamaloby konwencje pliku. Do uzupelnienia, gdy trafia do katalogu.",
+    "ograniczenie": "Nie zweryfikowalem tego bezposrednio na lego.com — serwis blokuje nasz ruch (ustalone 21.08). Opieramy sie na relacji StoneWars z oznaczen w sklepie LEGO. Zapisane w polu zrodlo kazdego wpisu.",
+    "dlaczego_wazne": "Wszystkie 16 mialo w katalogu status 'dostepny', czyli serwis pokazywal je bez zadnego sygnalu o koncu produkcji. Wsrod nich 14 ma juz opis redakcyjny — tam warto uzupelnic informacje o EOL.",
+    "do_zrobienia": "76304 (Batmobil Batman Forever, 419,99 zl) i 40708 (Mini zamek Arielki, 169,99 zl) sa wycofywane, a NIE MAJA u nas opisu. To pozycje z kolejki redakcyjnej, ktore warto przesunac do przodu — zestaw schodzacy z oferty ma krotsze okno na ruch z wyszukiwarki."
+  },
+  "przeglad_2026_09_15": {
+    "brickset": "Cztery rekordy: trzy puste rezerwacje 2027 (30759, 30760 Speed Champions, 30761 Technic) i L0002226 (kategoria 'Other', odsiane). Zadnej nowej nazwy ani ceny.",
+    "promobricks": "Trzy nowe wpisy, wszystkie okoloprodukcyjne: rosliny doniczkowe, Skylines, klocek LEGOLAND. Zadnej nowosci katalogowej.",
+    "stonewars": "Lista EOL na koniec 2026 — patrz eol_koniec_2026. Poza tym lista EOL dla Pick a Brick (1800 czesci) i zwyciezca konkursu Ideas Yu-Gi-Oh! (bez numeru zestawu)."
   }
 }
