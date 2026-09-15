@@ -52,17 +52,37 @@ const usun = (klucz) => fetch(`${API}/${encodeURIComponent(klucz)}`, { method: '
 const sety = JSON.parse(readFileSync('src/data/sety.json', 'utf8'));
 const feed = JSON.parse(readFileSync('src/data/oferty_feed.json', 'utf8')).sety ?? {};
 const rrp = JSON.parse(readFileSync('src/data/rrp_potwierdzone.json', 'utf8'));
+const cenyBaza = JSON.parse(readFileSync('src/data/ceny_baza.json', 'utf8'));
+const katalogIdx = new Map();
+for (const [seria, lista] of Object.entries(JSON.parse(readFileSync('src/data/katalog.json', 'utf8')))) {
+  if (seria === '_meta' || !Array.isArray(lista)) continue;
+  for (const s of lista) if (!katalogIdx.has(String(s.numer))) katalogIdx.set(String(s.numer), s);
+}
 const sklepy = JSON.parse(readFileSync('src/data/sklepy.json', 'utf8'));
+// Oferta starsza niż tyle dni nie jest „dzisiejsza" — LEGO.com odświeża się co
+// tydzień, Empik/Ceneo tygodniowo, więc mail mówi o dacie, a stare pomija.
+const MAKS_WIEK_OFERTY_DNI = 2;
 const nazwaSklepu = (s) => sklepy?.[s]?.nazwa ?? s;
 
 function najlepszaCena(nr) {
+  const dzis = new Date().toISOString().slice(0, 10);
+  const swieza = (data) => data && (Date.parse(dzis) - Date.parse(data)) / 864e5 <= MAKS_WIEK_OFERTY_DNI;
   const oferty = [];
-  for (const [sklep, cena] of Object.entries(feed[nr]?.oferty ?? {})) if (sklep !== 'ceneo' && cena > 0) oferty.push({ sklep, cena });
-  if (feed[nr]?.cena > 0 && !feed[nr]?.oferty) oferty.push({ sklep: feed[nr].sklep, cena: feed[nr].cena });
-  for (const o of sety[nr]?.oferty ?? []) if (o.sklep !== 'ceneo' && o.cena > 0) oferty.push({ sklep: o.sklep, cena: o.cena });
+  const w = feed[nr];
+  const daty = w?.daty && typeof w.daty === 'object' ? w.daty : {};
+  for (const [sklep, cena] of Object.entries(w?.oferty ?? {})) {
+    const data = daty[sklep] ?? w.data;
+    if (sklep !== 'ceneo' && cena > 0 && swieza(data)) oferty.push({ sklep, cena, data });
+  }
+  if (w?.cena > 0 && !w?.oferty && swieza(w.data)) oferty.push({ sklep: w.sklep, cena: w.cena, data: w.data });
+  for (const o of sety[nr]?.oferty ?? []) if (o.sklep !== 'ceneo' && o.cena > 0 && swieza(o.data)) oferty.push({ sklep: o.sklep, cena: o.cena, data: o.data });
   return oferty.sort((a, b) => a.cena - b.cena)[0] ?? null;
 }
-const cenaKatalogowa = (nr) => sety[nr]?.cena_katalogowa || rrp?.[nr]?.cena || null;
+// Ta sama kolejność źródeł co src/lib/oferty.js cenaKatalogowaSetu(): rejestr
+// potwierdzony → sety.json → baza Łowcy → katalog. Inna kolejność = mail o
+// rabacie, którego hub nie pokazuje (audyt 15.09: 3 209 zestawów bez alertu,
+// 6 z zawyżonym rabatem).
+const cenaKatalogowa = (nr) => rrp?.[nr]?.cena ?? sety[nr]?.cena_katalogowa ?? cenyBaza?.[nr]?.cena_katalogowa ?? katalogIdx.get(nr)?.cena_katalogowa ?? null;
 const nazwaSetu = (nr) => sety[nr]?.nazwa ?? '';
 const zl = (c) => `${Number(c).toFixed(2).replace('.', ',')} zł`;
 
@@ -103,7 +123,7 @@ for (const klucz of klucze) {
     const tekst = [
       `Cena zestawu LEGO ${nr}${nazwaSetu(nr) ? ' ' + nazwaSetu(nr) : ''} spadła.`,
       '',
-      `Najniższa dziś: ${zl(oferta.cena)} w sklepie ${nazwaSklepu(oferta.sklep)} – ${rabat}% poniżej ceny katalogowej ${zl(kat)}.`,
+      `Najniższa cena (stan z ${oferta.data}): ${zl(oferta.cena)} w sklepie ${nazwaSklepu(oferta.sklep)} – ${rabat}% poniżej ceny katalogowej ${zl(kat)}.`,
       rabat >= 30 ? 'To poziom „gorący” w naszej skali (30% i więcej) – takie ceny zwykle nie trwają długo.' : 'To poziom „dobry” w naszej skali (20–29%).',
       '',
       `Porównanie sklepów i link do oferty: ${DOMENA}/zestaw/${nr}/`,

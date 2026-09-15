@@ -17,14 +17,13 @@ import redirects from '../data/redirects.json';
 import wycofaniaDane from '../data/wycofania.json';
 import katalogCaly from '../data/katalog.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
-import karty from '../data/karty_setow.json';
 import { wpisKatalogu } from './katalog.js';
 
 const feed = ofertyFeed?.sety ?? {};
 const wycofaniaIdx = new Map(wycofaniaDane.wycofania.map((w) => [w.numer, w]));
 
 const maLinkGdziekolwiek = (nr) =>
-  Object.keys(redirects).some((sklep) => redirects[sklep]?.[nr]);
+  Object.keys(redirects).some((sklep) => typeof redirects[sklep] === 'object' && redirects[sklep]?.[nr]);
 
 // cena w starym formacie (pole cena) albo nowym (mapa oferty per sklep)
 const maCeneZFeedu = (wpis) =>
@@ -34,7 +33,7 @@ function policzHuby() {
   const numery = new Set([...Object.keys(sety), ...wycofaniaIdx.keys()]);
   const kandydaci = new Set([
     ...Object.keys(feed),
-    ...Object.values(redirects).flatMap((mapa) => Object.keys(mapa ?? {})),
+    ...Object.values(redirects).flatMap((mapa) => (mapa && typeof mapa === 'object' ? Object.keys(mapa) : [])),
   ]);
   for (const nr of kandydaci) {
     if (numery.has(nr)) continue;

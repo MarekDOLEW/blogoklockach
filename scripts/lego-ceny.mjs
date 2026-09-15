@@ -26,6 +26,7 @@
 //   node scripts/lego-ceny.mjs katalog-legopl.json
 
 import { readFileSync, writeFileSync } from 'node:fs';
+import { zapiszFeed, zapiszSety } from './json-kolejnosc.mjs';
 
 const arg = process.argv.slice(2);
 const plik = arg.find((a) => !a.startsWith('--'));
@@ -49,52 +50,6 @@ const feedTekst = readFileSync(P('oferty_feed.json'), 'utf8');
 const setyTekst = readFileSync(P('sety.json'), 'utf8');
 const feed = JSON.parse(feedTekst);
 const sety = JSON.parse(setyTekst);
-
-// Klucze numeryczne („21372") JSON.stringify wypisuje posortowane rosnąco — a
-// sety.json i mapa feed.sety są w kolejności wpisów (pisze je Python, który ją
-// zachowuje). Bez tego jeden przebieg przepisywał cały plik (37 tys. linii diffu).
-// Dlatego kolejność kluczy bierzemy z oryginalnego tekstu (własny mini-parser
-// zwracający obiekty jako Map), a nowe wpisy dopisujemy na końcu.
-function parsujZKolejnoscia(tekst) {
-  let i = 0;
-  const bialy = () => { while (i < tekst.length && ' \t\n\r'.includes(tekst[i])) i++; };
-  const napis = () => {
-    const p = i; i++;
-    while (i < tekst.length) { if (tekst[i] === '\\') i += 2; else if (tekst[i] === '"') break; else i++; }
-    i++;
-    return JSON.parse(tekst.slice(p, i));
-  };
-  const wartosc = () => {
-    bialy();
-    const c = tekst[i];
-    if (c === '{') {
-      i++; const m = new Map(); bialy();
-      if (tekst[i] === '}') { i++; return m; }
-      for (;;) { bialy(); const k = napis(); bialy(); i++; m.set(k, wartosc()); bialy(); if (tekst[i] === ',') { i++; continue; } i++; return m; }
-    }
-    if (c === '[') {
-      i++; const a = []; bialy();
-      if (tekst[i] === ']') { i++; return a; }
-      for (;;) { a.push(wartosc()); bialy(); if (tekst[i] === ',') { i++; continue; } i++; return a; }
-    }
-    if (c === '"') return napis();
-    const p = i; while (i < tekst.length && !',}] \t\n\r'.includes(tekst[i])) i++;
-    return JSON.parse(tekst.slice(p, i));
-  };
-  return wartosc();
-}
-const kluczeObiektu = (tekst, sciezka = []) => {
-  let w = parsujZKolejnoscia(tekst);
-  for (const k of sciezka) w = w?.get(k);
-  return w instanceof Map ? [...w.keys()] : [];
-};
-// JSON.stringify i tak posortuje klucze numeryczne — serializujemy mapę ręcznie
-function stringifyMapa(obiekt, klucze, wciecie) {
-  const kolejnosc = [...klucze.filter((k) => k in obiekt), ...Object.keys(obiekt).filter((k) => !klucze.includes(k))];
-  if (!wciecie) return '{' + kolejnosc.map((k) => JSON.stringify(k) + ':' + JSON.stringify(obiekt[k])).join(',') + '}';
-  const pad = ' '.repeat(wciecie);
-  return '{\n' + kolejnosc.map((k) => pad + JSON.stringify(k) + ': ' + JSON.stringify(obiekt[k], null, wciecie).replace(/\n/g, '\n' + pad)).join(',\n') + '\n}';
-}
 const katalog = JSON.parse(readFileSync(P('katalog.json'), 'utf8'));
 const liczbaSetow = Object.keys(sety).length;
 const liczbaFeed = Object.keys(feed.sety ?? {}).length;
@@ -155,6 +110,23 @@ for (const p of produkty) {
   }
 }
 
+// Zestaw „dostepny", którego listing nie pokazał przez dwa kolejne tygodnie,
+// LEGO już nie sprzedaje — reguła Marka 15.09.2026: „za archiwalne uważamy
+// wszystkie, których nie ma na listingu lego.pl". Bez tego status tylko rósł
+// (audyt 15.09: 118 zestawów „dostepny" bez śladu na listingu). Zestawy bez
+// żadnego `lego_pl_widziano` (np. zapowiedzi Scouta) zostawiamy — nigdy ich nie
+// widzieliśmy, więc nie wiemy, czy zniknęły, czy jeszcze nie weszły.
+const PROG_NIEOBECNOSCI_DNI = 14;
+const granica = new Date(Date.parse(dataZaciagu) - PROG_NIEOBECNOSCI_DNI * 864e5).toISOString().slice(0, 10);
+const naEol = [], nigdyNieWidziane = [];
+for (const [nr, k] of wKatalogu) {
+  if (k.status !== 'dostepny' || k.lego_pl_widziano === dataZaciagu) continue;
+  if (!k.lego_pl_widziano) { nigdyNieWidziane.push(nr); continue; }
+  if (k.lego_pl_widziano < granica) { k.status = 'eol'; k.eol_zrodlo = `brak na listingu lego.pl od ${k.lego_pl_widziano}`; naEol.push(nr); katalogZmiany++; }
+}
+if (naEol.length) console.log(`  Na EOL (nieobecne na listingu ponad ${PROG_NIEOBECNOSCI_DNI} dni): ${naEol.length} — ${naEol.slice(0, 20).join(' ')}${naEol.length > 20 ? '…' : ''}`);
+if (nigdyNieWidziane.length) console.log(`  „dostepny" bez śladu na listingu (zapowiedzi / do sprawdzenia): ${nigdyNieWidziane.length}`);
+
 console.log(`Produkty z listingu: ${produkty.length}, znane serwisowi: ${produkty.length - spozaKatalogu.length} (ekskluzywne: ${ekskl}). Zmiany: feed ${feedZmiany}, sety ${setyZmiany}, katalog ${katalogZmiany} (nowo „dostepny": ${nowyDostepny}). Spoza katalogu: ${spozaKatalogu.length}${spozaKatalogu.length ? ' — ' + spozaKatalogu.slice(0, 15).join(' ') + (spozaKatalogu.length > 15 ? '…' : '') : ''}`);
 if (spozaKatalogu.length) console.log('  Spoza katalogu i sety.json: pominięte (bez nazwy i serii nie ma huba). Zestawy stąd dopisze Scout (nowości) albo katalog-z-rebrickable.mjs; numery 5xxxxxx to akcesoria/merch.');
 if (rozbieznosci.length) console.log(`  Ekskluzyw wg sety.json, ale bez etykiety na listingu (flaga zostaje, do sprawdzenia ręcznie): ${rozbieznosci.join(' ')}`);
@@ -164,12 +136,8 @@ feed._meta = feed._meta ?? {};
 feed._meta.lego_pl = `${dataZaciagu}: ceny LEGO.com z listingu lego.pl (scripts/lego-ceny.mjs, klucz oferty.lego + daty.lego). Odświeżane co tydzień.`;
 katalog._meta = katalog._meta ?? {};
 katalog._meta.lego_pl = `${dataZaciagu}: status dostepny + ekskluzyw + lego_pl_widziano z listingu lego.pl (scripts/lego-ceny.mjs).`;
-// oferty_feed.json pisze feedy-lego.py w jednej linii; sety.json ma wcięcie 1 spacji
-const kluczeFeed = kluczeObiektu(feedTekst, ['sety']);
-const feedBezSetow = Object.fromEntries(Object.entries(feed).filter(([k]) => k !== 'sety'));
-const feedJson = '{' + Object.entries(feedBezSetow).map(([k, v]) => JSON.stringify(k) + ':' + JSON.stringify(v)).join(',') + (Object.keys(feedBezSetow).length ? ',' : '') + '"sety":' + stringifyMapa(feed.sety, kluczeFeed, 0) + '}';
-writeFileSync(P('oferty_feed.json'), feedJson + (feedTekst.endsWith('\n') ? '\n' : ''));
-writeFileSync(P('sety.json'), stringifyMapa(sety, kluczeObiektu(setyTekst), 1) + (setyTekst.endsWith('\n') ? '\n' : ''));
+zapiszFeed(P('oferty_feed.json'), feed, feedTekst);
+zapiszSety(P('sety.json'), sety, setyTekst);
 writeFileSync(P('katalog.json'), JSON.stringify(katalog, null, 1) + '\n');
 // walidacja append-only
 const po = {

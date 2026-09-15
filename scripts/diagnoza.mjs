@@ -97,6 +97,8 @@ const ZMIENNE = {
   TD_PASSWORD: 'Tradedoubler — grant password',
   TD_TOKEN: 'Tradedoubler — Products API (feed Ceneo)',
   FIRECRAWL_KEY: 'Firecrawl — strony blokujące ruch z chmury',
+  RESEND_API_KEY: 'Resend — maile raportów (wyslij-raport.py) i alertów cen (alerty-cen.mjs)',
+  GH_PUSH_TOKEN: 'GitHub — push z Routine bez podpiętego repo (opcjonalne, gdy repo jest źródłem sesji)',
 };
 
 wynik.sekcje.zmienne = Object.fromEntries(

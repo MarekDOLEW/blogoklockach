@@ -15,6 +15,7 @@
 // Wymaga TD_TOKEN w środowisku. Użycie: node scripts/ceneo-feed.mjs
 
 import { readFileSync, writeFileSync } from 'node:fs';
+import { zapiszFeed } from './json-kolejnosc.mjs';
 import { execFileSync } from 'node:child_process';
 
 const FID = 256472;
@@ -76,20 +77,24 @@ redirects.ceneo = { ...(redirects.ceneo ?? {}) };
 for (const [nr, { link }] of zebrane) redirects.ceneo[nr] = link;
 const poR = Object.keys(redirects.ceneo).length;
 if (poR < przedR) throw new Error('Liczba linków Ceneo zmalała — przerywam (append-only).');
-writeFileSync(sciezkaRedirects, JSON.stringify(redirects, null, 2) + '\n');
+writeFileSync(sciezkaRedirects, JSON.stringify(redirects, null, 1) + '\n'); // wcięcie 1 jak reszta skryptów redirects
 
 // --- oferty_feed.json ---
 const sciezkaOfert = 'src/data/oferty_feed.json';
-const oferty = JSON.parse(readFileSync(sciezkaOfert, 'utf8'));
+const ofertyTekst = readFileSync(sciezkaOfert, 'utf8');
+const oferty = JSON.parse(ofertyTekst);
 const przedO = Object.keys(oferty.sety).length;
 for (const [nr, { cena }] of zebrane) {
   const wpis = (oferty.sety[nr] ??= { oferty: {}, data: dzis });
   wpis.oferty = { ...(wpis.oferty ?? {}), ceneo: cena };
-  wpis.data = dzis;
+  // data per sklep — wspólnej `data` nie ruszamy, bo hub pokazuje ją przy cenach
+  // innych sklepów (audyt 15.09: 1 426 wierszy Ceneo i cudze wiersze dostawały
+  // datę tego przebiegu zamiast daty swojego zrzutu)
+  (wpis.daty ??= {}).ceneo = dzis;
 }
 const poO = Object.keys(oferty.sety).length;
 if (poO < przedO) throw new Error('Liczba setów w oferty_feed zmalała — przerywam (append-only).');
 oferty._meta = { ...(oferty._meta ?? {}), ceneo_pobrano: dzis };
-writeFileSync(sciezkaOfert, JSON.stringify(oferty, null, 2) + '\n');
+zapiszFeed(sciezkaOfert, oferty, ofertyTekst);
 
 console.log(`Linki Ceneo: ${przedR} → ${poR}. Sety w oferty_feed: ${przedO} → ${poO}.`);

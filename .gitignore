@@ -10,3 +10,4 @@ dist/
 # scripts/spakuj-skille.mjs. Źródłem jest repo, nie ma po co wersjonować zipów.
 skille/
 __pycache__/
+routines.json
