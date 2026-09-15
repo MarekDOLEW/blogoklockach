@@ -312,6 +312,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**15.09.2026 (wieczór)** — Marek założył w panelu (z repo jako źródłem) cztery
+Routine ze świeżą sesją: Zdjęcia → R2 `trig_01EAhU5SKn2GuXxY14WYxNkJ` (`0 2 * * *`),
+Przypomnienie Empik `trig_01BWC5ydHBNVE5Q8usmf62PN` (`15 6 * * 1`, 08:15 PL),
+LEGO.pl katalog `trig_012JWbmYwHb59sYazo6K9X33` (`0 3 * * 2`, wtorek 05:00 PL),
+Alerty cen `trig_01BLKenDsuWfNpJ4iFdCN9Vc` (`30 7 * * *`, 09:30 PL). Wersje z API
+(`trig_01TSSqtf4ke7wfxwbmkAp6GM`, `trig_01RimXSd1NCqbbRP16MBrjVu`) skasowane —
+nic nie chodzi podwójnie. Prompty: `materialy/routine-prompty-2026-09-15.md`.
+
 **15.09.2026 (po południu)**
 - Łowca ponownie odtworzony (delete+create) pod ID `trig_01HUdmCx3Z57H7VcX2uLLuQp`:
   reguła postów dealowych (≥35% od RRP ≥300 zł w sklepie, historyczne minimum na

@@ -89,5 +89,7 @@ Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, ża
 
 ---
 
-Po założeniu wszystkich w panelu: daj znać w sesji Code — skasuję `trig_01TSSqtf4ke7wfxwbmkAp6GM`
-i `trig_01RimXSd1NCqbbRP16MBrjVu` (wersje z API), żeby nic nie chodziło podwójnie.
+*Stan 15.09.2026 wieczór: wszystkie cztery założone w panelu (ID w
+`materialy/zadania-cykliczne.md`, historia zmian). Wersje z API skasowane.
+Ten plik zostaje jako źródło treści promptów — przy zmianie prompt edytujesz
+w panelu i tutaj, żeby repo nie rozjechało się z kontem.*
