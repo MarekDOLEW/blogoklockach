@@ -47,6 +47,24 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-15 10:50 · CODE · Opisy producenta (166 PDF) + „Obserwuj zestaw" gotowe na gałęzi
+
+- **Opisy z kart lego.pl**: 166 zestawów w sprzedaży bez opisu i bez karty
+  (`materialy/opisy-lego/lego-pl/<nr>.md`, PDF-y `<nr>.pdf` w paczce wysłanej
+  Markowi na czacie). 24 kandydatów nie ma adresu karty w katalogu (21341, 75119,
+  30685, 60198, 12010…) — to polybagi i zestawy spoza listingu „all-sets".
+  Firecrawl: plan darmowy ma limit 10 zapytań/min — pierwsze podejście straciło
+  136 z 166 na 429; skrypt ma teraz odstęp 6,5 s i ponowienie po minucie.
+- **„Obserwuj zestaw" (alerty cenowe) zbudowane, NIE na produkcji**: commit
+  `b3d5a08` na gałęzi `claude/lego-cyclic-tasks-access-b3k6jl`. Formularz na hubie,
+  trasy `/obserwuj` w workerze (zapis w R2, double opt-in przez Resend),
+  `scripts/alerty-cen.mjs` (próg 20% poniżej RRP, kasowanie niepotwierdzonych po
+  7 dniach), polityka prywatności z sekcją RODO. Trasy przetestowane na atrapie R2
+  (zapis, zły e-mail, honeypot, potwierdzenie, zły token, rezygnacja, brak sekretu).
+  Zmiana dotyka `src/worker.js`, więc czeka na „tak" Marka; przed włączeniem
+  potrzebny sekret `RESEND_API_KEY` w workerze i Routine nr 4 z
+  `materialy/routine-prompty-2026-09-15.md`.
+
 ## 2026-09-15 10:20 · CODE · LEGO.pl co tydzień: ceny, dostępność, ekskluzywy + strona /ekskluzywne/
 
 **Zrobione (polecenie Marka „Działaj z tym"):**
