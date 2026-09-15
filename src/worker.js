@@ -91,7 +91,14 @@ export default {
       // przeglądarka wycięła referer, ląduje na stronie z tabelą cen i może
       // kliknąć jeszcze raz — normalnie, z refererem.
       const referer = request.headers.get('referer') ?? '';
-      const zNaszejStrony = /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer);
+      // 15.09.2026: sam referer to za mało — przeglądarki z wyłączonym refererem
+      // (ustawienia prywatności, część webview) dostawały pętlę „klik → ten sam
+      // hub". Nagłówek Sec-Fetch-Site wysyła każda współczesna przeglądarka przy
+      // nawigacji i nie da się go wyłączyć w ustawieniach; „same-origin"/„same-site"
+      // znaczy, że klik przyszedł z naszej strony. curl i scrapery go nie wysyłają.
+      const secFetch = request.headers.get('sec-fetch-site') ?? '';
+      const zNaszejStrony =
+        /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer) || secFetch === 'same-origin' || secFetch === 'same-site';
 
       // LEGO.com nie ma programu afiliacyjnego w naszym miksie — linkujemy
       // bezpośrednio. lego.com akceptuje sam numer zestawu w adresie produktu
@@ -169,8 +176,10 @@ export default {
       // Ruch bez referera z naszej domeny nie idzie do sieci afiliacyjnej.
       // Zapis powyżej zostaje, żeby dalej było widać skalę zjawiska.
       if (!zNaszejStrony) {
+        // odrzucony klik wraca na hub Z INFORMACJĄ (audyt 15.09: bez niej przycisk
+        // wyglądał na zepsuty) — hub pokazuje komunikat i prosi o ponowne kliknięcie
         return Response.redirect(
-          /^\d{4,7}$/.test(numer) ? `https://tylkoklocki.pl/zestaw/${numer}/` : 'https://tylkoklocki.pl/',
+          /^\d{4,7}$/.test(numer) ? `https://tylkoklocki.pl/zestaw/${numer}/?idz=odrzucony&sklep=${encodeURIComponent(sklep)}#ceny` : 'https://tylkoklocki.pl/',
           302,
         );
       }

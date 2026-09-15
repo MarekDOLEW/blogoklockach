@@ -59,6 +59,7 @@ const UWAGA_SKLEP = {
   lego: 'oficjalna strona LEGO',
 };
 ---
+<p class="obserwuj-stan obserwuj-stan--blad" data-idz-stan hidden></p>
 <div class="karta tabela-cen-wrap">
   <table class="tabela-cen">
     <caption>Porównanie cen – LEGO {nr}</caption>
@@ -110,3 +111,19 @@ const UWAGA_SKLEP = {
   </table>
   <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Przy każdej cenie stoi dzień, w którym ją widzieliśmy – wiersze mogą mieć różne daty, bo sklepy odświeżamy w różnym rytmie. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
 </div>
+
+<script>
+  // Klik w sklep odrzucony przez filtr botów (worker /idz/): przeglądarka nie
+  // wysłała ani referera, ani Sec-Fetch-Site — np. link otwarty z maila lub
+  // wklejony do paska adresu. Mówimy to wprost zamiast przeładowywać stronę.
+  const q = new URLSearchParams(location.search);
+  if (q.get('idz') === 'odrzucony') {
+    const el = document.querySelector<HTMLElement>('[data-idz-stan]');
+    if (el) {
+      const sklep = q.get('sklep') ?? '';
+      el.textContent = `Link do sklepu${sklep ? ` (${sklep})` : ''} został otwarty spoza strony, więc przekierowanie zostało wstrzymane. Kliknij przycisk „Sprawdź w sklepie" w tabeli poniżej – z tej strony przejście działa.`;
+      el.hidden = false;
+      history.replaceState(null, '', location.pathname + '#ceny');
+    }
+  }
+</script>
