@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 15.09 15:08 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 15.09 15:32 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -46,7 +46,7 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
 | LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01VSNGR5PnnobJW9i9x5PAmQ` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Rvt1kEmrv2Ltis4oYJS5EN` |
 | LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
 | LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
 | LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01S5hMfivCCFytZSqces2pYw` |

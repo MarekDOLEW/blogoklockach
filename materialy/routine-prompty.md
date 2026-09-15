@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 15.09.2026, 15:08 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 15.09.2026, 15:32 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -31,7 +31,7 @@ PODSUMOWANIE przebiegu: ile sprawdzono, ile cen (per źródło), ile null, ile p
 
 ## LEGO 05:00 — Scout nowości (runner z pushem, Opus 5)
 
-- ID: `trig_01VSNGR5PnnobJW9i9x5PAmQ` · cron `0 3 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01Rvt1kEmrv2Ltis4oYJS5EN` · cron `0 3 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Scouta Nowości. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -42,13 +42,13 @@ Kolejny przebieg Scouta Nowości. Repo dopięte do tej sesji — zacznij od `git
 2. PromoBricks — `promobricks.de` — zapowiedzi i premiery (serwis niemiecki, szybko podaje nowe zestawy).
 3. StoneWars — `stonewars.de` — drugie źródło zapowiedzi; przydatne do potwierdzania informacji z PromoBricks.
 
-Zasada: dane katalogowe (numer, elementy, RRP) zawsze z Bricksetu. PromoBricks i StoneWars służą do wychwycenia, ŻE coś się pojawiło, i do kontekstu. Informacji z jednego serwisu newsowego nie podawaj jako pewnika — jeśli nie ma jej w Brickset ani w drugim serwisie, oznacz jako „zapowiedź niepotwierdzona".
+Zasada: dane katalogowe (numer, elementy, RRP) zawsze z Bricksetu. PromoBricks i StoneWars służą do wychwycenia, ŻE coś się pojawiło, i do kontekstu. Informacji z jednego serwisu newsowego nie podawaj jako pewnika — jeśli LEGO nie potwierdziło zestawu (karta na lego.com, komunikat, Brickset z oficjalną datą), to jest PRZECIEK i idzie do działu przecieków (punkt 6), nie do sety.json.
 
 PROCEDURA:
 1. Lista znanych setów: `src/data/known_sets.json`. Nowościami są wyłącznie sety, których tam nie ma. Na końcu zaktualizuj ten plik.
-2. Nowe sety DOŁÓŻ do `src/data/sety.json` — nigdy od zera, nie usuwaj ani nie skracaj wpisów. Struktura: numer jako klucz; pola: nazwa (PL), seria, cena_katalogowa, elementy, wiek, premiera (RRRR-MM), opis, dla_rodzica, dla_afol, oferty ({sklep, cena, data}). Opisy własnymi słowami po polsku, w tonie serwisu (zasady w `redakcja/standard-artykulow-biezacych.md`: bez „cegieł", bez języka marketingowego producenta, bez sztucznej presji).
-3. Walidacja: poprawny JSON, liczba setów nie zmalała. Commit „Scout: nowości <data>" (sety.json + known_sets.json razem), push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
-4. Brak nowości = napisz to wprost i nie commituj.
+2. Nowe sety POTWIERDZONE przez LEGO DOŁÓŻ do `src/data/sety.json` — nigdy od zera, nie usuwaj ani nie skracaj wpisów. Struktura: numer jako klucz; pola: nazwa (PL), seria, cena_katalogowa, elementy, wiek, premiera (RRRR-MM), opis, dla_rodzica, dla_afol, oferty ({sklep, cena, data}). Nie ustawiaj `status_nowosci: przeciek` nowym wpisom — od 15.09.2026 przecieki żyją w osobnym pliku (punkt 6); trzy stare wpisy z tym statusem (21375, 11387, 77094) zostają, dopóki LEGO ich nie potwierdzi — wtedy usuń im pole `status_nowosci` i uzupełnij dane. Opisy własnymi słowami po polsku, w tonie serwisu (zasady w `redakcja/standard-artykulow-biezacych.md`: bez „cegieł", bez języka marketingowego producenta, bez sztucznej presji).
+3. Walidacja: poprawny JSON, liczba setów nie zmalała (dotyczy też `przecieki.json` — liczba wpisów nie maleje, wpisy się rozstrzyga, nie kasuje). Commit „Scout: nowości <data>" (sety.json + known_sets.json + przecieki.json razem), push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
+4. Brak nowości i brak zmian w przeciekach = napisz to wprost i nie commituj.
 5. WYCOFANIA — NIE TWOJE ZADANIE (ustalone 15.09.2026). Nie edytuj `src/data/wycofania.json` — właścicielem tego pliku i jego reguł statusów jest cotygodniowy runner „Wycofania" (poniedziałek). Jeśli w źródłach trafisz na sygnał wycofania (lista „Ostatnia szansa"/„Retiring soon" na StoneWars, PromoBricks, Brickset, komunikat LEGO), dopisz go do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako krótki wpis:
 
     ## <RRRR-MM-DD> <HH:MM> · SCOUT · Sygnały wycofań dla runnera Wycofań
@@ -56,9 +56,15 @@ PROCEDURA:
 
 Jeden wpis na przebieg, tylko gdy są sygnały; wpis commitujesz razem z resztą. Runner Wycofań czyta te wpisy w poniedziałek i weryfikuje u źródła. Dzięki temu plik ma jednego autora, a Ty nie tracisz informacji.
 
+6. PRZECIEKI — TWÓJ PLIK: `src/data/przecieki.json` (od 15.09.2026; strona `/przecieki/`, zasady w RUNBOOK.md „Przecieki — dział osobno od faktów"). Przeciek = zestaw, o którym piszą PromoBricks/StoneWars/społeczność, a LEGO go nie potwierdziło. Taki zestaw NIE wchodzi do sety.json. Zamiast tego:
+   a) NOWY przeciek (nie ma go w `przecieki` po numerze ani po nazwie) — dopisz wpis: `{id (numer albo slug), numer (albo null), nazwa (PL), seria, elementy, cena_wg_zrodla (PLN, orientacyjnie; jeśli źródło podaje EUR — przelicz i zaokrąglij do 10 zł), premiera_wg_zrodla (RRRR-MM albo RRRR), pewnosc, zrodla: [{nazwa, url, data}], dodano: <dziś>, uwagi, rozstrzygniecie: null}`. Pewność wg drabiny z `_meta.pewnosc`: „wysoka" tylko gdy DWA niezależne serwisy (PromoBricks i StoneWars) zgadzają się co do numeru i ceny; „srednia" gdy jedno źródło branżowe plus dowód (zdjęcie, listing sklepu, katalog dystrybutora); „niska" gdy jedno źródło społecznościowe albo sam numer. Nie zawyżaj: brak drugiego źródła = najwyżej „srednia".
+   b) ZNANY przeciek z nowym dowodem — podnieś `pewnosc` (nigdy nie obniżaj) i dopisz źródło do `zrodla`; nie zmieniaj `dodano`.
+   c) ROZSTRZYGNIĘCIE — gdy LEGO ujawni zestaw (karta na lego.com wg Bricksetu, komunikat) albo minie zapowiadane okno plus 3 miesiące: ustaw `rozstrzygniecie: {kiedy: <dziś>, wynik: potwierdzony|zmieniony|obalony, co_sie_zmienilo}` wg `_meta.wynik` (potwierdzony = numer zgodny, cena ±10%, termin ±1 miesiąc; zmieniony = wszedł, ale inny numer/cena/termin — wpisz co; obalony = nie wszedł). Zestaw potwierdzony dołóż wtedy normalnie do sety.json (punkt 2). Wpisu w przecieki.json nigdy nie kasuj — to jest tablica trafności.
+   d) Zaktualizuj `_meta.zaktualizowano` na dzisiejszą datę, gdy cokolwiek zmieniłeś.
+
 BUDŻET — przebieg ma być tani: maksymalnie ~10 pobrań stron łącznie, bez równoległych agentów, bez WebSearch. Jeśli któreś ze źródeł nie odpowiada, pracuj na pozostałych i napisz to w raporcie zamiast szukać zamienników.
 
-PODSUMOWANIE: nowości z priorytetami redakcyjnymi (co warto opisać najpierw i dlaczego), zapowiedzi śledzone, co zmieniło status, oraz z których źródeł pochodziły ustalenia.
+PODSUMOWANIE: nowości z priorytetami redakcyjnymi (co warto opisać najpierw i dlaczego), zapowiedzi śledzone, co zmieniło status, przecieki dopisane/podniesione/rozstrzygnięte (numery + pewność), oraz z których źródeł pochodziły ustalenia.
 
 WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani plików z SendUserFile — dostaje wyłącznie mail, a przez cztery tygodnie nie dostał żadnego, bo tego kroku tu nie było. Zapisz PODSUMOWANIE z poprzedniego punktu do pliku `/tmp/raport-nowosci.md` (zwykły markdown: nagłówki, tabele, listy — dokładnie to, co piszesz w rozmowie), po czym z katalogu repo uruchom:
 
@@ -182,26 +188,15 @@ Kroki:
 - ID: `trig_01EAhU5SKn2GuXxY14WYxNkJ` · cron `30 2 * * *` (UTC) · włączony · świeża sesja na każdy przebieg
 
 ```
-``` Codzienne dogranie zdjęć do R2 dla tylkoklocki.pl. Kontekst: worker serwuje /img/ z kubełka R2,a gdy tam nic nie ma, pobiera ze źródła — ale Planeta Klocków odrzuca pobrania z workera, więckażde nowe zdjęcie z Planety (nowość od Scouta, galeria do nowego tekstu) trzeba wgrać do R2 zkontenera. Robi to jeden skrypt z repo; Ty go tylko uruchamiasz i czytasz wynik. Szczegóły:RUNBOOK.md, sekcja „Zdjęcia: Planeta Klocków odrzuca fetch z workera".
-Kroki, dokładnie w tej kolejności: 1. Jeśli katalogu
-blogoklockach
-nie ma:
-cd /home/user && gitclone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git
-. W repo:
-git fetch origin main&& git checkout -B zdjecia origin/main
-. Jeśli nie ma katalogu node_modules:
-npm ci --no-audit --
-no-fund
-(skrypt używa sharp — od 15.09 jest zadeklarowaną zależnością w package.json). Nic niecommitujesz, nic nie pushujesz. 2.
-node scripts/r2-obrazy.mjs
-— bez fl ag. Skrypt listuje kubełek,porównuje z danymi i wgrywa brakujące zdjęcia z Planety; zostawia ślad
-_stan/r2-obrazy.json
-wR2. Zwykle kończy w kilkanaście sekund komunikatem „brakuje w R2: 0". Nie uruchamiaj
---sprawdz
-ani
---optymalizuj
-(to długie audyty) i nie dopisuj własnych poprawek do skryptu. 3. Jeśli skryptzakończył się kodem 2 (brak CF_ACCOUNT_ID lub CF_R2_TOKEN w środowisku), błędem importusharp albo błędem listowania R2 — wklej dokładny komunikat do podsumowania. Nie wymyślajobejść. 4. Podsumowanie: jedna linijka z wynikiem (ile w R2, ile z Planety w danych, ile brakowało,ile wgrano). Gdy brakowało 0 — to cała odpowiedź. Gdy coś wgrano — wypisz klucze. Gdy byłybłędy — wklej listę błędów ze skryptu dosłownie.
-Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłaniamaili. ```
+Codzienne dogranie zdjęć do R2 dla tylkoklocki.pl. Kontekst: worker serwuje /img/ z kubełka R2, a gdy tam nic nie ma, pobiera ze źródła — ale Planeta Klocków odrzuca pobrania z workera, więc każde nowe zdjęcie z Planety (nowość od Scouta, galeria do nowego tekstu) trzeba wgrać do R2 z kontenera. Robi to jeden skrypt z repo; Ty go tylko uruchamiasz i czytasz wynik. Szczegóły: RUNBOOK.md, sekcja „Zdjęcia: Planeta Klocków odrzuca fetch z workera".
+
+Kroki, dokładnie w tej kolejności:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B zdjecia origin/main`. Jeśli nie ma katalogu node_modules: `npm ci --no-audit --no-fund` (skrypt używa sharp — od 15.09 jest zadeklarowaną zależnością w package.json). Nic nie commitujesz, nic nie pushujesz.
+2. `node scripts/r2-obrazy.mjs` — bez flag. Skrypt listuje kubełek, porównuje z danymi i wgrywa brakujące zdjęcia z Planety; zostawia ślad `_stan/r2-obrazy.json` w R2. Zwykle kończy w kilkanaście sekund komunikatem „brakuje w R2: 0". Nie uruchamiaj `--sprawdz` ani `--optymalizuj` (to długie audyty) i nie dopisuj własnych poprawek do skryptu.
+3. Jeśli skrypt zakończył się kodem 2 (brak CF_ACCOUNT_ID lub CF_R2_TOKEN w środowisku), błędem importu sharp albo błędem listowania R2 — wklej dokładny komunikat do podsumowania. Nie wymyślaj obejść.
+4. Podsumowanie: jedna linijka z wynikiem (ile w R2, ile z Planety w danych, ile brakowało, ile wgrano). Gdy brakowało 0 — to cała odpowiedź. Gdy coś wgrano — wypisz klucze. Gdy były błędy — wklej listę błędów ze skryptu dosłownie.
+
+Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
 ```
 
 ## LEGO wt 05:30 — LEGO.pl katalog (ceny, dostępność, ekskluzywy)
@@ -281,19 +276,14 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 - ID: `trig_01BLKenDsuWfNpJ4iFdCN9Vc` · cron `30 7 * * *` (UTC) · włączony · świeża sesja na każdy przebieg
 
 ```
-``` Codzienna wysyłka alertów cenowych „Obserwuj zestaw" dla tylkoklocki.pl. Czytelnicy zapisująsię na hubie zestawu, zapisy leżą w R2, a ten przebieg porównuje dzisiejsze ceny (po porannymŁowcy) z progiem i wysyła maile przez Resend. Wszystko robi jeden skrypt; Ty go uruchamiasz iczytasz wynik. Kontekst: RUNBOOK.md, sekcja „Alerty cenowe (Obserwuj zestaw)".
-Kroki: 1. Jeśli katalogu
-blogoklockach
-nie ma:
-cd /home/user && git clone --depth 1https://github.com/MarekDOLEW/blogoklockach.git
-. W repo:
-git fetch origin main && git checkout-B alerty origin/main
-(skrypt nie ma zależności npm). Nic nie commitujesz, nic nie pushujesz. 2.Sprawdź, czy Łowca dziś pushnął:
-git log -1 --format="%ci %s" --grep="Łowca"
-. Jeśli data nie jestdzisiejsza — ceny w repo są wczorajsze; skrypt i tak pominie oferty starsze niż 2 dni, ale napisz to wpodsumowaniu jednym zdaniem. 3.
-node scripts/alerty-cen.mjs --sucho
-— przeczytaj, ile alertówskrypt chce wysłać. Jeśli więcej niż 200 albo lista wygląda podejrzanie (jeden adres wiele razy, ceny0 zł) — NIE uruchamiaj wysyłki, opisz to w podsumowaniu. 4.
-node scripts/alerty-cen.mjs
-—wysyłka. Kod wyjścia 2 = brak zmiennej środowiska (CF_ACCOUNT_ID, CF_R2_TOKEN,RESEND_API_KEY): wklej komunikat, nie szukaj obejść. 5. Podsumowanie: jedna linijka ze skryptu(zapisów / potwierdzonych / wysłanych / błędów). Gdy były błędy — wklej je dosłownie.
-Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnych maili pozatymi, które wysyła skrypt. ```
+Codzienna wysyłka alertów cenowych „Obserwuj zestaw" dla tylkoklocki.pl. Czytelnicy zapisują się na hubie zestawu, zapisy leżą w R2, a ten przebieg porównuje dzisiejsze ceny (po porannym Łowcy) z progiem i wysyła maile przez Resend. Wszystko robi jeden skrypt; Ty go uruchamiasz i czytasz wynik. Kontekst: RUNBOOK.md, sekcja „Alerty cenowe (Obserwuj zestaw)".
+
+Kroki:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B alerty origin/main` (skrypt nie ma zależności npm). Nic nie commitujesz, nic nie pushujesz.
+2. Sprawdź, czy Łowca dziś pushnął: `git log -1 --format="%ci %s" --grep="Łowca"`. Jeśli data nie jest dzisiejsza — ceny w repo są wczorajsze; skrypt i tak pominie oferty starsze niż 2 dni, ale napisz to w podsumowaniu jednym zdaniem.
+3. `node scripts/alerty-cen.mjs --sucho` — przeczytaj, ile alertów skrypt chce wysłać. Jeśli więcej niż 200 albo lista wygląda podejrzanie (jeden adres wiele razy, ceny 0 zł) — NIE uruchamiaj wysyłki, opisz to w podsumowaniu.
+4. `node scripts/alerty-cen.mjs` — wysyłka. Kod wyjścia 2 = brak zmiennej środowiska (CF_ACCOUNT_ID, CF_R2_TOKEN, RESEND_API_KEY): wklej komunikat, nie szukaj obejść.
+5. Podsumowanie: jedna linijka ze skryptu (zapisów / potwierdzonych / wysłanych / błędów). Gdy były błędy — wklej je dosłownie.
+
+Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnych maili poza tymi, które wysyła skrypt.
 ```
