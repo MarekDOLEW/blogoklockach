@@ -774,21 +774,26 @@ Reguły (pełny tekst także w `wycofania.json` → `_meta.regula_statusow`):
    której LEGO zaprzeczyło albo termin minął bez wycofania `→ kiedy: "odwołane"`
    (wpis zostaje w pliku, strona go nie pokazuje). Najczęstsza ścieżka to
    prognoza, która po sprawdzeniu zamienia się w potwierdzenie.
-3. `kiedy: "wycofany"` wymaga `status: "potwierdzone"` i odbicia w
-   `katalog.json` (`status: "eol"`) — po każdym przebiegu runner uruchamia
-   `node scripts/audyt-wycofan.mjs --napraw` (sekcja A raportu = do naprawy,
-   sekcja B = katalog mówi „eol" przy wpisie z przyszłym terminem, do ręcznego
-   rozstrzygnięcia).
+3. `kiedy: "wycofany"` wymaga `status: "potwierdzone"` i zgodności z katalogiem:
+   od 15.09.2026 status `dostepny`/`eol` w `katalog.json` ustawia wyłącznie
+   cotygodniowy zaciąg listingu lego.pl (`lego-ceny.mjs`, wtorek): zestaw
+   widziany na listingu jest `dostepny`, nieobecny 14 dni przechodzi na `eol`.
+   Runner Wycofań NIE edytuje katalogu — daje `kiedy: "wycofany"` tylko, gdy
+   katalog mówi `eol` albo `lego_pl_widziano` jest starsze niż 14 dni. Po każdym
+   przebiegu uruchamia `node scripts/audyt-wycofan.mjs` (sam raport, BEZ
+   `--napraw`): sekcja A (wpis „wycofany" przy katalogowym `dostepny`) i H
+   (kandydaci) idą do podsumowania dla Marka; wpis „wycofany" o zestawie
+   widzianym na listingu w ostatnich 14 dniach runner sam cofa do poprzedniego
+   terminu.
 4. Na stronie lista wycofań ma pierwszeństwo przed statusem katalogu
-   (`src/lib/status.js` → `eolWLego`, `statusWycofania`, `statusListingu`):
-   katalog bywa importowany hurtem z Bricksetu/scouta z domyślnym `dostepny`
-   (np. cała seria Batman 10.09). Wpis `kiedy: "odwołane"` jest dla strony
-   niewidoczny – zestaw wraca do statusu z katalogu.
-5. **`--napraw` nie jest ślepy.** Zanim runner przestawi katalog na `eol`,
-   sprawdza zestaw na lego.com (patrz „Jak sprawdzić status na lego.com"
-   niżej): 13.09 wpis 10307 Wieża Eiffla miał `kiedy: "wycofany"`, a karta
-   na lego.com mówiła „Dostępne teraz" – taki wpis dostaje `kiedy: "odwołane"`
-   z wyjaśnieniem w `uwagi`, a katalog zostaje `dostepny`.
+   (`src/lib/status.js` → `eolWLego`, `statusWycofania`, `statusListingu`).
+   Wpis `kiedy: "odwołane"` jest dla strony niewidoczny – zestaw wraca do
+   statusu z katalogu.
+5. **`--napraw` nic nie sprawdza w sieci** (poprzednia wersja tego punktu
+   twierdziła, że „sprawdza zestaw na lego.com" — nieprawda, lego.com oddaje
+   serwerowi 403). Tryb `--napraw` zostaje jako narzędzie dla człowieka po
+   ręcznej weryfikacji; runner go nie używa. Weryfikacją „czy LEGO jeszcze
+   sprzedaje" jest pole `lego_pl_widziano` z listingu lego.pl.
 
 **Układ strony `/wycofania/` — jedna lista, nie dwie** *(zmiana 14.09.2026,
 decyzja Marka).* Przez dzień wycofania stały w dwóch blokach: najpierw

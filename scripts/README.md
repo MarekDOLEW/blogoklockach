@@ -16,7 +16,7 @@ czy czeka, aż ktoś je wywoła.
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
 | `feedy-lego.py` | Łowca, codziennie | Wyciąga z feedów sklepowych wyłącznie oferty LEGO (~4 MB zamiast ~630 MB) |
-| `ceneo-feed.mjs` | Łowca | Feed Ceneo przez Tradedoubler (program 385881, fid 256472) |
+| `ceneo-feed.mjs` | Routine „LEGO.pl katalog + Ceneo" (wtorek 05:30, krok 6) | Feed Ceneo przez Tradedoubler (program 385881, fid 256472); data per sklep w `daty.ceneo`, zapis przez `json-kolejnosc.mjs` |
 | `kontrola-rrp.mjs` | Backfill, obowiązkowo przed commitem | Bramka sanity: cena rynkowa poniżej 50% RRP oznacza błąd po którejś stronie |
 | `kliki-raport.mjs` | Kontroler, tygodniowo | Kliknięcia z Analytics Engine. **Domyślnie liczy tylko ludzi** (blob6) |
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |
@@ -69,7 +69,7 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
-| `r2-obrazy.mjs` | sesja, po dopisaniu galerii do `galerie.json` | Wgrywa do R2 zdjęcia, których worker nie pobierze sam (Planeta Klocków odrzuca fetch z workera). Rejestrem wgranych jest sam kubełek (listowanie R2), więc bez zaległości przebieg trwa sekundy. Każdy plik przechodzi przez sharp (≤1200 px, JPEG q80) — `--optymalizuj` robi to samo z tym, co już leży w R2. `--limit N` = najwyżej N wgrań, `--sprawdz` = audyt HEAD produkcji (~15 min, widzi też martwe źródła), `--galerie` = tylko galerie. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
+| `r2-obrazy.mjs` | Routine „Zdjęcia → R2" codziennie 04:30 + sesja od razu po dopisaniu galerii do `galerie.json` | Wgrywa do R2 zdjęcia, których worker nie pobierze sam (Planeta Klocków odrzuca fetch z workera). Rejestrem wgranych jest sam kubełek (listowanie R2), więc bez zaległości przebieg trwa sekundy. Każdy plik przechodzi przez sharp (≤1200 px, JPEG q80) — `--optymalizuj` robi to samo z tym, co już leży w R2. `--limit N` = najwyżej N wgrań, `--sprawdz` = audyt HEAD produkcji (~15 min, widzi też martwe źródła), `--galerie` = tylko galerie. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
 
 Budżet: 1000 kredytów miesięcznie. Szczegóły w `NARZEDZIA.md`.
 

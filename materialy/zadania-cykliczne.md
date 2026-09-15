@@ -314,6 +314,18 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**15.09.2026 (wieczór, po audycie 2)**
+- Łowca odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_015CVad7UA3mJpXYWxuEwfNo`: import zrzutu Empiku (ceny z `daty.empik`,
+  `empik-redirects.mjs --usun-martwe`), ochrona kluczy `ceneo/lego/empik/smyk`
+  przy kasowaniu ofert nieobecnych w feedach, gałąź `allegro` nadpisywana bez
+  kasowania (append-only), `daty[sklep]` przy każdej cenie, `generuj-obrazy.mjs`
+  przed commitem, walidacja liczby wpisów w każdej gałęzi, format plików bez zmian.
+- Wycofania odtworzone pod ID `trig_01NLRxmXX6Y6bMwCV8sevTUs`: diagnoza,
+  listing lego.pl (`lego_pl_widziano`) jako arbiter „czy LEGO sprzedaje", zakaz
+  edycji katalogu, `audyt-wycofan.mjs` bez `--napraw` po każdym przebiegu,
+  adnotacje pod sygnałami Scouta w DZIENNIKU. Stare ID obu skasowane od razu.
+
 **15.09.2026 (późne popołudnie)**
 - Scout odtworzony (delete+create, ta sama stała sesja) pod ID
   `trig_01Rvt1kEmrv2Ltis4oYJS5EN`, cron `0 3 * * *`: krok PRZECIEKI — właściciel
