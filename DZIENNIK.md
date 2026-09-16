@@ -47,6 +47,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 13:10 · CODE · Smyk odświeżony (668 cen z dziś), stała kolejność ofert, sprostowanie daty zrzutu
+
+- **Smyk ma świeże ceny po raz pierwszy od sierpnia.** Adtraction nie daje feedu
+  (`"feed": false` w API), ale smyk.com odpowiada zwykłemu curl z kontenera i niesie
+  cenę oraz dostępność w schema.org. `scripts/smyk-odswiez.mjs` czyta 704 adresy
+  z `redirects.smyk`, po 6 naraz, ok. 4 min, 0 kredytów. Wynik: 668 cen z 16.09
+  (95 realnie zmienionych), 36 zestawów wyprzedanych straciło ofertę, 0 błędów po
+  trybie `--stare`. Do wtorkowego Routine dochodzi krok 6a (prompt do wklejenia
+  przekazany Markowi).
+- **Stała kolejność ofert w `sety.json`** (alfabetycznie po sklepie, `porzadek-ofert.mjs`):
+  dzienny diff Łowcy schodzi z 76 tys. linii do realnych zmian. Strona sortuje po
+  cenie sama, więc czytelnik nic nie zauważy.
+- **SPROSTOWANIE daty zrzutu Smyka.** Pisałem „zrzut z 29 sierpnia" jako fakt —
+  to była wartość z RUNBOOK-a, której nie sprawdziłem. Twarde dane: rejestr afiliacji
+  ma przy Smyku datę 28.08, a `redirects.smyk` weszło do repo 09.09 (commit 27178b9).
+  Dokładnego dnia odczytu tamtych cen nie da się dziś ustalić. Data 29.08, którą
+  wpisałem rano do 704 wpisów, żyła w pliku niecałe dwie godziny — od 13:00 wszystkie
+  ceny Smyka mają datę 16.09, zweryfikowaną odczytem ze stron.
+  Reguła na przyszłość: data w danych pochodzi z odczytu, nie z dokumentu.
+
 ## 2026-09-16 11:30 · CODE · Kontrola przebiegu Łowcy: dwa błędy naprawione
 
 Sprawdzenie raportu Łowcy (commit `fa38f5f`) wobec repo. Potwierdzone i zgodne:
