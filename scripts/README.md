@@ -45,7 +45,8 @@ lub do ofert. Żaden nie chodzi sam.
 | `empik-redirects.mjs` | Empik | **Jedyny skrypt, który wolno kasować wpisy** (`--usun-martwe`) — patrz CLAUDE.md |
 | `me-redirects.mjs` | Media Expert | |
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
-| `smyk-ceny.mjs` | Smyk | Wymaga pliku: `node scripts/smyk-ceny.mjs <plik.json>` |
+| `smyk-ceny.mjs` | Smyk | Wczytanie katalogu ze zrzutu: `node scripts/smyk-ceny.mjs <plik.json>` (pierwsze wejście sklepu, adresy kart do `redirects.smyk`) |
+| `smyk-odswiez.mjs` | Smyk | **Cotygodniowe odświeżenie cen wprost ze stron produktów, 0 kredytów** — Adtraction nie daje feedu (`feed: false`), a smyk.com odpowiada zwykłemu zapytaniu. Czyta adresy z `redirects.smyk`, zapisuje `oferty.smyk` + `daty.smyk`; wyprzedany zestaw traci cenę. `--stare` domyka błędy sieci, `--limit N --sucho` to próbka |
 | `wczytaj-rrp.mjs` | — | Potwierdzone ceny katalogowe do `rrp_potwierdzone.json` |
 | `lego-ceny.mjs` | LEGO.com | **Routine „LEGO.pl katalog" (wtorek 05:00)**. Wejściem jest katalog z `firecrawl-legopl.mjs`: cena LEGO.com do `oferty_feed` (klucz `lego` + `daty.lego`) i do `sety.json`, status `dostepny` + flaga `ekskluzyw` + `lego_pl_widziano` w `katalog.json`. Nic nie kasuje. Zawsze najpierw `--sucho` |
 | `katalog-z-rebrickable.mjs` | sesja, gdy `--sucho` pokaże nowe numery spoza katalogu | Dopisuje do `katalog.json` zestawy wycenione w feedach, których katalog nie zna (Rebrickable CSV, nazwy EN, bez RRP). Append-only. Patrz RUNBOOK „Hub dla każdego zestawu" |

@@ -1271,6 +1271,29 @@ Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfigura
 w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
 przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
 
+## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
+
+Adtraction **nie daje feedu produktowego dla Smyka** — sprawdzone w API
+(`GET /v2/affiliate/programs?market=PL`: `Smyk PL` ma `"feed": false`, dla
+porównania `Egmont.pl` ma `true`). Dlatego ceny stały od jednorazowego zrzutu
+z 29.08 i hub pokazywał je jako świeże (wspólna data wpisu).
+
+Rozwiązanie: **smyk.com odpowiada zwykłemu `curl` z kontenera** (200, ~0,5 MB,
+1,7 s) i niesie cenę oraz dostępność w danych strukturalnych:
+
+    <meta itemProp="price" content="1179"/>
+    <link itemProp="availability" href="http://schema.org/InStock"/>
+
+`node scripts/smyk-odswiez.mjs` czyta 704 adresy kart z `redirects.smyk`, pobiera
+je po sześć naraz (ok. 4 min) i zapisuje `oferty.smyk` + `daty.smyk`. Zestaw
+wyprzedany (`OutOfStock`) traci cenę — jego karta nie pokazuje wtedy żadnej kwoty
+(przykład 10333 Barad-dûr). Błąd sieci NIE kasuje wczorajszej ceny; domyka je
+`--stare` (tylko zestawy bez dzisiejszej daty). Pierwszy przebieg 16.09: 668 cen,
+95 realnie zmienionych wobec zrzutu z 29.08, 36 zestawów wyprzedanych.
+
+Uwaga o prowizji bez zmian: linkujemy wprost na kartę produktu, bo deeplink
+Adtraction nie dowozi (patrz rejestr afiliacji).
+
 ## Oferty w sety.json: kolejność alfabetyczna po sklepie *(od 16.09.2026)*
 
 Łowca zapisywał oferty posortowane po cenie, więc każda zmiana ceny przestawiała
