@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-15",
+  "data_aktualizacji": "2026-09-16",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1172,
   "sety": [
@@ -1217,12 +1217,6 @@
       "numer": "72422",
       "nazwa": "nieujawniony Pokemon",
       "status": "numer bez danych"
-    },
-    {
-      "numer": "11387",
-      "nazwa": "Zestaw swiateczny / zimowa wioska (Icons)",
-      "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna nazwe, cene i karte PL",
-      "premiera": "2026-10"
     },
     {
       "numer": "10481",
@@ -5938,5 +5932,14 @@
     "brickset": "Cztery rekordy: trzy puste rezerwacje 2027 (30759, 30760 Speed Champions, 30761 Technic) i L0002226 (kategoria 'Other', odsiane). Zadnej nowej nazwy ani ceny.",
     "promobricks": "Trzy nowe wpisy, wszystkie okoloprodukcyjne: rosliny doniczkowe, Skylines, klocek LEGOLAND. Zadnej nowosci katalogowej.",
     "stonewars": "Lista EOL na koniec 2026 — patrz eol_koniec_2026. Poza tym lista EOL dla Pick a Brick (1800 czesci) i zwyciezca konkursu Ideas Yu-Gi-Oh! (bez numeru zestawu)."
-  }
+  },
+  "przeglad_2026_09_16": {
+    "rozstrzygniecie": "11387 potwierdzony przez LEGO. Brickset ma ceny lego.com na czterech rynkach (109,99 EUR / 119,99 USD / 99,99 GBP / 169,99 CAD, dateFirstAvailable 2026-09-16), StoneWars opisuje oficjalna prezentacje z 15.09. Wpis w sety.json przepisany z przecieku na fakt: 'Swiateczny dom', Icons / Winter Village Collection, 1354 elementy, 18+, start 2026-10-01, dostepnosc 'Retail - limited'. Pole status_nowosci usuniete. W przecieki.json wynik 'potwierdzony'.",
+    "nazwa_PL": "LEGO nie opublikowalo polskiej nazwy — 'Swiateczny dom' to nasze tlumaczenie robocze z 'Holiday House', zaznaczone wprost w tekscie dla AFOL. Do podmiany, gdy pojawi sie karta PL.",
+    "cena_PL": "Nieznana; cena_katalogowa zostaje null. Oszacowanie ~465 zl podane w tekscie jako nasze.",
+    "poprawka_jezykowa": "Stary opis 11387 uzywal slowa 'cegielka' (light brick). CLAUDE.md zabrania 'cegiel' — przy przepisywaniu wpisu zwrot usuniety.",
+    "odsiane": "L0002207 (Ninjago, 5 elementow) i L0002240 (Star Wars) — numery z prefiksem 'L000', czyli modele i figurki LEGOLAND, nie zestawy detaliczne. Trzeci taki przypadek w tygodniu (14.09 L0002226).",
+    "zrodla_bez_zmian": "PromoBricks bez nowych wpisow. StoneWars poza 11387 bez nowosci katalogowych."
+  },
+  "filtr_numery_LEGOLAND": "Ustalone 2026-09-16: numery z prefiksem 'L000' (np. L0002207, L0002226, L0002240) to modele i figurki LEGOLAND, nie zestawy detaliczne. Przychodza z kategoria '{t.b.a.}' i normalnym motywem (Ninjago, Star Wars, City), wiec ani filtr kategorii, ani filtr motywu ich nie lapie. Odsiewac po prefiksie numeru."
 }

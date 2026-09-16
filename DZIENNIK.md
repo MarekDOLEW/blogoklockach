@@ -47,6 +47,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
+
+**Zrobione:** nic w `wycofania.json` — od dziś to nie mój plik (nowa reguła
+w prompcie Scouta z 16.09).
+
+**Do weryfikacji przez runnera Wycofań:** 15.09, jeszcze pod starą regułą,
+dopisałem do `wycofania.json` **16 pozycji** ze StoneWars — lista zestawów
+oznaczonych przez LEGO w firmowym sklepie jako „Ostatnia szansa" (wycofanie
+do końca 2026). Źródło:
+<https://www.stonewars.de/news/letzte-chance-eol-ende-2026/>, data 13.09.2026.
+
+Numery: 75685, 80119, 76304, 80118, 43262, 10459, 43217, 76924, 40708,
+10450, 77242, 77243, 77259, 43033, 43263, 10461.
+
+Wszystkie dostały `kiedy: "grudzień 2026"`, `status: "potwierdzone"` i pole
+`zrodlo` z zastrzeżeniem, że **nie zweryfikowałem tego na lego.com** — serwis
+blokuje nasz ruch. Jeśli reguły statusów runnera Wycofań wymagają bezpośredniego
+potwierdzenia, te wpisy trzeba przejrzeć i ewentualnie przestawić na
+„przewidywane".
+
+W artykule było 93 numery; 67 już było w pliku, 10 pominąłem, bo nie ma ich
+w `katalog.json` (brak polskiej nazwy i ceny). Te 10 zostaje do domknięcia.
+
+**Dla drugiej strony:** runner Wycofań — przejrzyj te 16 wpisów i domknij
+brakujące 10.
+
 ## 2026-09-15 20:15 · CODE · AWARIA linków do sklepów (naprawiona): warstwa assets przed workerem
 
 - Objaw (zgłoszenie Marka ok. 18:30): każde kliknięcie w sklep kończyło się na
