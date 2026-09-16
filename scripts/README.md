@@ -16,7 +16,7 @@ czy czeka, aż ktoś je wywoła.
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
 | `feedy-lego.py` | Łowca, codziennie | Wyciąga z feedów sklepowych wyłącznie oferty LEGO (~4 MB zamiast ~630 MB) |
-| `ceneo-feed.mjs` | Routine „LEGO.pl katalog + Ceneo" (wtorek 05:30, krok 6) | Feed Ceneo przez Tradedoubler (program 385881, fid 256472); data per sklep w `daty.ceneo`, zapis przez `json-kolejnosc.mjs` |
+| `ceneo-feed.mjs` | Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (krok 6) | Feed Ceneo przez Tradedoubler (program 385881, fid 256472); data per sklep w `daty.ceneo`, zapis przez `json-kolejnosc.mjs` |
 | `kontrola-rrp.mjs` | Backfill, obowiązkowo przed commitem | Bramka sanity: cena rynkowa poniżej 50% RRP oznacza błąd po którejś stronie |
 | `kliki-raport.mjs` | Kontroler, tygodniowo | Kliknięcia z Analytics Engine. **Domyślnie liczy tylko ludzi** (blob6) |
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |
@@ -46,9 +46,9 @@ lub do ofert. Żaden nie chodzi sam.
 | `me-redirects.mjs` | Media Expert | |
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
 | `smyk-ceny.mjs` | Smyk | Wczytanie katalogu ze zrzutu: `node scripts/smyk-ceny.mjs <plik.json>` (pierwsze wejście sklepu, adresy kart do `redirects.smyk`) |
-| `smyk-odswiez.mjs` | Smyk | **Cotygodniowe odświeżenie cen wprost ze stron produktów, 0 kredytów** — Adtraction nie daje feedu (`feed: false`), a smyk.com odpowiada zwykłemu zapytaniu. Czyta adresy z `redirects.smyk`, zapisuje `oferty.smyk` + `daty.smyk`; wyprzedany zestaw traci cenę. `--stare` domyka błędy sieci, `--limit N --sucho` to próbka |
+| `smyk-odswiez.mjs` | Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (krok 6a) | **Cotygodniowe odświeżenie cen wprost ze stron produktów, 0 kredytów** — Adtraction nie daje feedu (`feed: false`), a smyk.com odpowiada zwykłemu zapytaniu. Czyta adresy z `redirects.smyk`, zapisuje `oferty.smyk` + `daty.smyk`; wyprzedany zestaw traci cenę. `--stare` domyka błędy sieci, `--limit N --sucho` to próbka |
 | `wczytaj-rrp.mjs` | — | Potwierdzone ceny katalogowe do `rrp_potwierdzone.json` |
-| `lego-ceny.mjs` | LEGO.com | **Routine „LEGO.pl katalog" (wtorek 05:00)**. Wejściem jest katalog z `firecrawl-legopl.mjs`: cena LEGO.com do `oferty_feed` (klucz `lego` + `daty.lego`) i do `sety.json`, status `dostepny` + flaga `ekskluzyw` + `lego_pl_widziano` w `katalog.json`. Nic nie kasuje. Zawsze najpierw `--sucho` |
+| `lego-ceny.mjs` | LEGO.com | **Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (kroki 1–5)**. Wejściem jest katalog z `firecrawl-legopl.mjs`: cena LEGO.com do `oferty_feed` (klucz `lego` + `daty.lego`) i do `sety.json`, status `dostepny` + flaga `ekskluzyw` + `lego_pl_widziano` w `katalog.json`. Nic nie kasuje. Zawsze najpierw `--sucho` |
 | `katalog-z-rebrickable.mjs` | sesja, gdy `--sucho` pokaże nowe numery spoza katalogu | Dopisuje do `katalog.json` zestawy wycenione w feedach, których katalog nie zna (Rebrickable CSV, nazwy EN, bez RRP). Append-only. Patrz RUNBOOK „Hub dla każdego zestawu" |
 
 ## Alerty cenowe „Obserwuj zestaw"

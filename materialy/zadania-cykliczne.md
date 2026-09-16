@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 16.09 10:06 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 16.09 10:22 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -52,7 +52,7 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
 | LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
 | LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 16.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
-| LEGO wt 05:30 — LEGO.pl katalog (ceny, dostępność, ekskluzywy) | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_012JWbmYwHb59sYazo6K9X33` |
+| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_012JWbmYwHb59sYazo6K9X33` |
 | LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 16.09 08:33 | ✅ SUCCEEDED | `trig_015CVad7UA3mJpXYWxuEwfNo` |
 | LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 16.09 09:37 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
 

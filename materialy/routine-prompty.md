@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 16.09.2026, 10:06 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 16.09.2026, 10:22 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -208,7 +208,7 @@ Kroki, dokładnie w tej kolejności:
 Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
 ```
 
-## LEGO wt 05:30 — LEGO.pl katalog (ceny, dostępność, ekskluzywy)
+## Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk
 
 - ID: `trig_012JWbmYwHb59sYazo6K9X33` · cron `30 3 * * 2` (UTC) · włączony · świeża sesja na każdy przebieg
 
@@ -223,8 +223,9 @@ Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i
 4. `node scripts/lego-redirects.mjs /tmp/legopl-katalog.json --sucho`, potem bez `--sucho` (adresy kart produktu, tylko dopisywanie).
 5. Zestawy „spoza katalogu" z raportu lego-ceny.mjs: `node scripts/katalog-z-rebrickable.mjs --sucho`; jeśli skrypt proponuje dopisać zestawy (nie akcesoria 5xxxxxx) — uruchom bez `--sucho`. To jedyny mechanizm, który daje hub zestawom widocznym na lego.pl, a nieznanym katalogowi.
 6. Ceny Ceneo (tygodniowo, wymaga TD_TOKEN): `node scripts/ceneo-feed.mjs`. Skrypt dopisuje klucz `ceneo` do feedu z datą per sklep i linki do redirects.json; nic nie kasuje.
-7. `node scripts/generuj-obrazy.mjs` (odświeża obrazy.json dla nowych zestawów — bez tego Routine Zdjęcia → R2 ich nie dogra), potem `npm run build` — musi przejść. Potem `git add src/data && git commit -m "LEGO.pl + Ceneo: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); jeśli rebase zgłosi konflikt w src/data — NIE rozwiązuj go ręcznie, przerwij (`git rebase --abort`) i wklej komunikat do podsumowania.
-8. Podsumowanie (do 8 linijek): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanych z Rebrickable, cen Ceneo; hash commita. Rozbieżności ekskluzywów (flaga w sety.json bez etykiety na listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
+6a. Ceny Smyka (tygodniowo, bez kredytów Firecrawla): `node scripts/smyk-odswiez.mjs`, potem `node scripts/smyk-odswiez.mjs --stare` (domyka błędy sieci). Skrypt czyta 704 adresy kart z `redirects.smyk` i pobiera je zwykłym curl-em po sześć naraz — trwa ok. 4 minut. Zapisuje `oferty.smyk` + `daty.smyk`; zestaw wyprzedany (OutOfStock) traci cenę Smyka, wpis zostaje. Adtraction nie daje dla Smyka feedu produktowego, więc to jedyne źródło świeżych cen. Gdy po `--stare` zostaje więcej niż 30 błędów, napisz to w podsumowaniu i nie powtarzaj więcej niż raz.
+7. `node scripts/generuj-obrazy.mjs` (odświeża obrazy.json dla nowych zestawów — bez tego Routine Zdjęcia → R2 ich nie dogra), potem `npm run build` — musi przejść. Potem `git add src/data && git commit -m "LEGO.pl + Ceneo + Smyk: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); jeśli rebase zgłosi konflikt w src/data — NIE rozwiązuj go ręcznie, przerwij (`git rebase --abort`) i wklej komunikat do podsumowania.
+8. Podsumowanie (do 8 linijek): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanych z Rebrickable, cen Ceneo, cen Smyka (odczytanych / wyprzedanych / błędów); hash commita. Rozbieżności ekskluzywów (flaga w sety.json bez etykiety na listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
 
 Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat.
 ```

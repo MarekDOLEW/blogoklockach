@@ -176,8 +176,30 @@ function wiersz(r) {
 }
 
 const sortCron = (a, b) => (a.cron_expression || '~').localeCompare(b.cron_expression || '~');
-const lego = routines.filter((r) => /^LEGO\b/i.test(r.name)).sort(sortCron).map(wiersz);
-const inne = routines.filter((r) => !/^LEGO\b/i.test(r.name)).sort(sortCron).map(wiersz);
+
+// Który Routine jest nasz. Do 16.09.2026 decydował prefiks nazwy (`/^LEGO\b/`)
+// i tego samego dnia to pękło: Marek przemianował wtorkowy Routine na „Dane wt
+// 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (nazwa opisuje zakres, bo obok
+// LEGO leci Ceneo i Smyk), a generator przesunął go do tabeli „Pozostałe
+// Routines na tym samym koncie" — czyli dokument zaczął twierdzić, że runner
+// serwisu nie jest runnerem serwisu. Nazwa jest opisem dla człowieka i będzie
+// się zmieniać; przynależność czytamy więc z dwóch trwałych śladów:
+//   1. środowisko runnerów serwisu (wszystkie mają je wspólne),
+//   2. prompt wskazujący repo albo domenę (Kontroler chodzi na środowisku
+//      projektu, więc nie ma pola environment_id).
+// Prefiks nazwy zostaje jako trzecia, zapasowa przesłanka.
+const SRODOWISKO_SERWISU = 'env_01YL3diD2yzP3UGYsU7Txvx7';
+const tekstPromptu = (r) =>
+  r.derived_state?.prompt
+  ?? r.session_request?.events?.find((e) => e.payload?.type === 'user')?.payload?.internal_anthropic_catchall?.message?.content
+  ?? '';
+const naszRoutine = (r) =>
+  r.session_request?.environment_id === SRODOWISKO_SERWISU
+  || /blogoklockach|tylkoklocki/i.test(tekstPromptu(r))
+  || /^LEGO\b/i.test(r.name);
+
+const lego = routines.filter(naszRoutine).sort(sortCron).map(wiersz);
+const inne = routines.filter((r) => !naszRoutine(r)).sort(sortCron).map(wiersz);
 
 // ── kolizje ──────────────────────────────────────────────────────────────────
 // Dwa włączone zadania na tej samej minucie to albo duplikat po delete+create,
@@ -286,12 +308,9 @@ console.log(`\n${DOKUMENT}: sekcja „Zrzut" przepisana z odczytu.`);
 // do czytania i do diffów w git (widać, kto i kiedy zmienił prompt w panelu).
 // Odświeża go Kontroler razem z sekcją „Zrzut" — nikt nie musi tego pilnować.
 const PROMPTY = 'materialy/routine-prompty.md';
-const promptRoutine = (r) =>
-  r.derived_state?.prompt
-  ?? r.session_request?.events?.find((e) => e.payload?.type === 'user')?.payload?.internal_anthropic_catchall?.message?.content
-  ?? '';
+const promptRoutine = tekstPromptu;
 const tryb = (r) => (r.persist_session || r.persistent_session_id ? 'stała sesja (zmiana promptu = delete + create)' : 'świeża sesja na każdy przebieg');
-const legoSurowe = routines.filter((r) => /^LEGO\b/i.test(r.name)).sort(sortCron);
+const legoSurowe = routines.filter(naszRoutine).sort(sortCron);
 const blokPromptow = [
   '# Prompty Routines LEGO — kopia z konta',
   '',

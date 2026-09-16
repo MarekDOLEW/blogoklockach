@@ -47,6 +47,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 14:05 · CODE · Wtorkowy Routine to slot na dane, nie na LEGO — nazwa i generator poprawione
+
+- **Marek przemianował Routine `trig_012JWbmYwHb59sYazo6K9X33`** na „Dane wt 05:30 —
+  katalog LEGO.pl + ceny Ceneo i Smyk" i wkleił prompt z krokiem 6a. Odczyt z konta
+  potwierdza: prompt na koncie jest znak w znak tym, który przekazałem (diff pusty),
+  więc wklejenie nic nie pogięło. Jeden slot tygodniowo obsługuje teraz trzy źródła
+  cen: listing lego.pl (kroki 1–5), Ceneo (6) i Smyk (6a).
+- **Generator harmonogramu rozpoznawał nasze Routine po prefiksie nazwy** (`/^LEGO\b/`)
+  i zmiana nazwy natychmiast go złamała: wtorkowy runner wylądował w tabeli
+  „Pozostałe Routines na tym samym koncie", czyli dokument zaczął twierdzić, że
+  runner serwisu nie jest runnerem serwisu. Nazwa jest opisem dla człowieka i będzie
+  się zmieniać, więc przynależność czytamy teraz z dwóch trwałych śladów: środowiska
+  runnerów (`env_01YL3diD2yzP3UGYsU7Txvx7`) i promptu wskazującego repo albo domenę
+  (Kontroler chodzi na środowisku projektu i pola `environment_id` nie ma). Prefiks
+  nazwy został jako zapasowa przesłanka. Po poprawce: 10 naszych, 3 obce — jak ma być.
+- **Ślady starej nazwy w dokumentach** („LEGO.pl katalog", „wtorek 05:00") poprawione
+  w `scripts/README.md` (trzy wiersze, w tym `smyk-odswiez.mjs` dostał wreszcie
+  właściciela w kolumnie „kto uruchamia") i w `RUNBOOK.md`. Wpisy datowane w logu
+  `materialy/zadania-cykliczne.md` zostawiam bez zmian — opisują stan z 15.09.
+
 ## 2026-09-16 13:10 · CODE · Smyk odświeżony (668 cen z dziś), stała kolejność ofert, sprostowanie daty zrzutu
 
 - **Smyk ma świeże ceny po raz pierwszy od sierpnia.** Adtraction nie daje feedu
