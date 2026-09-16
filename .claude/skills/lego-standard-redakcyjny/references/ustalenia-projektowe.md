@@ -71,7 +71,7 @@ Gotowe szkielety: `redakcja/wzorce/`.
 | rejestr sklepów (Sklepy §2–3) | `src/data/sklepy.json` + `src/data/afiliacje_rejestr.json` |
 | snapshot cenowy (Metodologia §6.3) | `src/data/oferty_feed.json`, odświeżany codziennie przez Łowcę |
 | „sprawdź bieżącą cenę" | hub `/zestaw/<nr>/` — tabela renderowana przy buildzie |
-| karta researchu (Metodologia §10) | `redakcja/karty/<nr>-<slug>.md`, katalog niepublikowany |
+| karta researchu (Metodologia §10) | `redakcja/karty/<nr>-<slug>.md` dla tekstów pisanych w Code; przy tekstach Piotra karta zostaje w jego środowisku, do repo trafia artykuł (decyzja Marka 15.09.2026) |
 | oznaczenie afiliacji (Standard §20) | disclosure w layoucie + `rel="sponsored nofollow"` |
 | `[wstaw link afiliacyjny]` | podmieniane przy publikacji na `/idz/<sklep>/<nr>` |
 
