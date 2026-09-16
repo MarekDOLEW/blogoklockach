@@ -47,6 +47,34 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 06:30 · RADAR · Wycofania grudnia 2026 — okno przesunięte i tekst opublikowany
+
+**Polecenie Marka:** przesunąć okno wycofań na 17–30.09, robić jak najszybciej.
+
+**Zrobione:**
+- `redakcja/plan-redakcyjny.json` — okno `2026-10-01..2026-10-20` → `2026-09-17..2026-09-30`,
+  status `opublikowane`, url `/artykuly/wycofania-lego-grudzien-2026/`.
+- `redakcja/karty/wycofania-grudnia-2026.md` — karta researchu (populacja 206 zestawów
+  z potwierdzonym EOL, ceną katalogową i żywą ofertą).
+- `src/pages/artykuly/wycofania-lego-grudzien-2026.md` — tekst, dział Kalendarze.
+- Commit `1aa0a33`, push na `main`.
+
+**Czego się dowiedzieliśmy z własnych danych (to jest oś tekstu):**
+- 54 z 206 zestawów (26%) kosztuje dziś **więcej** niż cennik — „ostatni moment"
+  bywa najgorszym momentem;
+- mediana rabatu na całej populacji: 18%;
+- **liczba sklepów, które zestaw jeszcze mają, przewiduje cenę lepiej niż seria
+  i lepiej niż poziom cenowy**: 4 sklepy → mediana 11% pod cennikiem, 1 sklep →
+  wielokrotność cennika. Tę liczbę nasze huby już pokazują, tylko nikt jej tak nie czytał.
+
+**Pułapka, na którą się nadziałem (drugi raz w tym tygodniu):** polski cudzysłów
+zamykający wpisany jako ASCII `"` w polu YAML łamie build — `bad indentation of
+a mapping entry`. Zamiana `„..."` → `„...”` w frontmatterze i w treści.
+
+**Zostaje otwarte:** 75192 Sokół Millennium i reszta wycofywanych bez tekstu (Piotr);
+pięć statusów do sprawdzenia — 21333, 21351, 21353, 21356, 76437 (runner Wycofań).
+
+
 ## 2026-09-16 08:00 · RADAR · Do zrobienia
 
 **faniklockow · 15.09** — zaktualizowali listę Icons 2026 o ceny 11379 (559,99) i 11387 (469,99).
@@ -65,9 +93,9 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Kto:** — Piotr (tekst)
 
 **Radar · 15.09** — potwierdzona lista wycofań grudniowych jest dostępna od 14.09.
-**Mamy?** — nie: plan ma tekst o wycofaniach z oknem 1–20.10, czyli po fakcie.
-**Zrobić:** — zmiana w danych `redakcja/plan-redakcyjny.json`: okno na 17–30.09.
-**Kto:** — Marek (decyzja)
+**Mamy?** — tak: `/artykuly/wycofania-lego-grudzien-2026/`, okno przesunięte na 17–30.09.
+**Zrobić:** — nic (zamknięte 16.09, decyzja Marka + tekst w tym samym przebiegu).
+**Kto:** — Marek (decyzja) → Code (tekst, zrobione)
 
 **Radar · 15.09** — pięć zestawów ma u nas status „przewidywane", a serwisy podają je jako potwierdzone przez LEGO.
 **Mamy?** — częściowo: są na liście, zły status (21333, 21351, 21353, 21356, 76437).
