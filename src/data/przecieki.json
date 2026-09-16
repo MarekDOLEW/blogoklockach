@@ -14,20 +14,314 @@
   "zaktualizowano": "2026-09-16"
  },
  "przecieki": [
-  {"id": "21375", "numer": "21375", "nazwa": "Godzilla", "seria": "Ideas", "elementy": 5364, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2026-11", "pewnosc": "srednia", "zrodla": [{"nazwa": "PromoBricks / StoneWars", "url": null, "data": "2026-09"}], "dodano": "2026-09-15", "uwagi": "Liczba elementów z przecieku.", "rozstrzygniecie": null},
-  {"id": "11387", "numer": "11387", "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)", "seria": "Icons", "elementy": 1354, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2026-10", "pewnosc": "srednia", "zrodla": [{"nazwa": "PromoBricks / StoneWars", "url": null, "data": "2026-09"}, {"nazwa": "StoneWars — oficjalna prezentacja", "url": "https://stonewars.de/", "data": "2026-09-15"}], "dodano": "2026-09-15", "uwagi": "Coroczny zestaw zimowy Icons; nazwa robocza.", "rozstrzygniecie": {"kiedy": "2026-09-16", "wynik": "potwierdzony", "co_sie_zmienilo": "Numer i liczba elementów (1354) zgodne z przeciekiem, termin też — start 2026-10-01, czyli w zapowiadanym oknie. Przeciek nie podawał ceny, więc nie ma czego porównać. Różni się nazwa: robocza „Zimowa wioska 2026” kontra oficjalna „Holiday House” (u nas „Świąteczny dom”). Potwierdzenie: ceny lego.com na czterech rynkach w karcie Brickset (dateFirstAvailable 2026-09-16) oraz oficjalna prezentacja opisana przez StoneWars 15.09."}},
-  {"id": "77094", "numer": "77094", "nazwa": "The Legend of Zelda: Ocarina of Time — Link i Epona", "seria": "The Legend of Zelda", "elementy": 1750, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027", "pewnosc": "srednia", "zrodla": [{"nazwa": "PromoBricks / StoneWars", "url": null, "data": "2026-09"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "11392", "numer": "11392", "nazwa": "Diuna: Czerw Pustyni", "seria": "Icons", "elementy": 1840, "cena_wg_zrodla": 560, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "11395", "numer": "11395", "nazwa": "Władca Pierścieni: Oliphant", "seria": "Icons", "elementy": 2020, "cena_wg_zrodla": 950, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "11391", "numer": "11391", "nazwa": "Wieża zegarowa", "seria": "Icons", "elementy": 3260, "cena_wg_zrodla": 1100, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "helmowy-jar", "numer": null, "nazwa": "Władca Pierścieni: Helmowy Jar", "seria": "Icons", "elementy": 6000, "cena_wg_zrodla": 2500, "premiera_wg_zrodla": "2027", "pewnosc": "niska", "zrodla": [{"nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": "Bez numeru; termin 2027/2028.", "rozstrzygniecie": null},
-  {"id": "star-wars-50-lecie", "numer": null, "nazwa": "Star Wars: fala na 50-lecie", "seria": "Star Wars", "elementy": null, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027-04", "pewnosc": "niska", "zrodla": [{"nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": "Bez numerów; sama informacja o fali rocznicowej.", "rozstrzygniecie": null},
-  {"id": "ucs-sokol-2027", "numer": null, "nazwa": "Nowy UCS Sokół Millennium", "seria": "Star Wars", "elementy": null, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027", "pewnosc": "niska", "zrodla": [{"nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": "Następca 75192 (wycofanie grudzień 2026).", "rozstrzygniecie": null},
-  {"id": "76483", "numer": "76483", "nazwa": "Harry Potter: Pierwszy rok w Hogwarcie", "seria": "Harry Potter", "elementy": null, "cena_wg_zrodla": 480, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "76479", "numer": "76479", "nazwa": "Harry Potter: Harry poznaje Zgredka", "seria": "Harry Potter", "elementy": null, "cena_wg_zrodla": 65, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "67006", "numer": "67006", "nazwa": "Marvel Skyline", "seria": "Marvel", "elementy": 1260, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "67005", "numer": "67005", "nazwa": "Sanctum Strange'a Supreme", "seria": "Marvel", "elementy": 810, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null},
-  {"id": "67008", "numer": "67008", "nazwa": "Batmobil z „Powrotu Batmana\"", "seria": "DC", "elementy": null, "cena_wg_zrodla": 215, "premiera_wg_zrodla": "2027-01", "pewnosc": "srednia", "zrodla": [{"nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).", "rozstrzygniecie": null},
-  {"id": "daily-planet", "numer": null, "nazwa": "DC: Daily Planet — budynek modularny", "seria": "DC", "elementy": null, "cena_wg_zrodla": null, "premiera_wg_zrodla": "2027", "pewnosc": "niska", "zrodla": [{"nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027", "url": "/zapowiedzi-lego-2027/", "data": "2026-08-20"}], "dodano": "2026-09-15", "uwagi": null, "rozstrzygniecie": null}
+  {
+   "id": "21375",
+   "numer": "21375",
+   "nazwa": "Godzilla",
+   "seria": "Ideas",
+   "elementy": 5364,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Liczba elementów z przecieku.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11387",
+   "numer": "11387",
+   "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
+   "seria": "Icons",
+   "elementy": 1354,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    },
+    {
+     "nazwa": "StoneWars — oficjalna prezentacja",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-15"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Coroczny zestaw zimowy Icons; nazwa robocza.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-16",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i liczba elementów (1354) zgodne z przeciekiem, termin też — start 2026-10-01, czyli w zapowiadanym oknie. Przeciek nie podawał ceny, więc nie ma czego porównać. Różni się nazwa: robocza „Zimowa wioska 2026” kontra oficjalna „Holiday House” (u nas „Świąteczny dom”). Potwierdzenie: ceny lego.com na czterech rynkach w karcie Brickset (dateFirstAvailable 2026-09-16) oraz oficjalna prezentacja opisana przez StoneWars 15.09."
+   }
+  },
+  {
+   "id": "77094",
+   "numer": "77094",
+   "nazwa": "The Legend of Zelda: Ocarina of Time — Link i Epona",
+   "seria": "The Legend of Zelda",
+   "elementy": 1750,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11392",
+   "numer": "11392",
+   "nazwa": "Diuna: Czerw Pustyni",
+   "seria": "Icons",
+   "elementy": 1840,
+   "cena_wg_zrodla": 560,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11395",
+   "numer": "11395",
+   "nazwa": "Władca Pierścieni: Oliphant",
+   "seria": "Icons",
+   "elementy": 2020,
+   "cena_wg_zrodla": 950,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11391",
+   "numer": "11391",
+   "nazwa": "Wieża zegarowa",
+   "seria": "Icons",
+   "elementy": 3260,
+   "cena_wg_zrodla": 1100,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "helmowy-jar",
+   "numer": null,
+   "nazwa": "Władca Pierścieni: Helmowy Jar",
+   "seria": "Icons",
+   "elementy": 6000,
+   "cena_wg_zrodla": 2500,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Bez numeru; termin 2027/2028.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "star-wars-50-lecie",
+   "numer": null,
+   "nazwa": "Star Wars: fala na 50-lecie",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Bez numerów; sama informacja o fali rocznicowej.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "ucs-sokol-2027",
+   "numer": null,
+   "nazwa": "Nowy UCS Sokół Millennium",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Następca 75192 (wycofanie grudzień 2026).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76483",
+   "numer": "76483",
+   "nazwa": "Harry Potter: Pierwszy rok w Hogwarcie",
+   "seria": "Harry Potter",
+   "elementy": null,
+   "cena_wg_zrodla": 480,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76479",
+   "numer": "76479",
+   "nazwa": "Harry Potter: Harry poznaje Zgredka",
+   "seria": "Harry Potter",
+   "elementy": null,
+   "cena_wg_zrodla": 65,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67006",
+   "numer": "67006",
+   "nazwa": "Marvel Skyline",
+   "seria": "Marvel",
+   "elementy": 1260,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67005",
+   "numer": "67005",
+   "nazwa": "Sanctum Strange'a Supreme",
+   "seria": "Marvel",
+   "elementy": 810,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67008",
+   "numer": "67008",
+   "nazwa": "Batmobil z „Powrotu Batmana\"",
+   "seria": "DC",
+   "elementy": null,
+   "cena_wg_zrodla": 215,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "daily-planet",
+   "numer": null,
+   "nazwa": "DC: Daily Planet — budynek modularny",
+   "seria": "DC",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  }
  ]
 }

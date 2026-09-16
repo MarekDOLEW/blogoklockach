@@ -1237,6 +1237,11 @@ z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
 - Strona jest w sitemapie `inne` i w menu od pierwszego dnia (Marek: „od razu do
   sitemapy"). Do RSS przecieki nie wchodzą — RSS to teksty redakcyjne.
 - Właściciel danych: Scout (codziennie 05:00). Prompt Scouta ma krok „PRZECIEKI".
+- Format pliku: JSON z wcięciem 1 spacji jak `sety.json` (od 16.09.2026; pierwsza
+  wersja miała hybrydę „_meta z wcięciem, wpisy w jednej linii" i Scout musiał
+  pisać własny serializer). Zapis z Pythona: `json.dump(..., ensure_ascii=False, indent=1)`
+  + końcowy `\n`; z JS: `JSON.stringify(d, null, 1) + '\n'` (klucze nie są numeryczne,
+  więc kolejność się nie psuje).
 
 ## Worker za warstwą assets: trasy workera muszą być w `run_worker_first` *(awaria 15.09.2026 wieczorem)*
 
