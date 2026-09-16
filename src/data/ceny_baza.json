@@ -2171,8 +2171,8 @@
  "60471": {
   "nazwa": "Ciężarówka z laboratorium arktycznej odkrywczyni",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 324.97,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 324.96,
+  "najnizsza_data": "2026-09-15",
   "najnizsza_sklep": "empik"
  },
  "10302": {
@@ -2304,9 +2304,9 @@
  "75413": {
   "nazwa": "Czołg Republiki Juggernaut",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 459.73,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 448.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "43247": {
   "nazwa": "Król Lew - młody Simba",
@@ -2976,9 +2976,9 @@
  "60414": {
   "nazwa": "Remiza strażacka z wozem strażackim",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 233.41,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 226.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "76452": {
   "nazwa": "Markowy sprzęt do quidditcha i lodziarnia",
@@ -3130,9 +3130,9 @@
  "60445": {
   "nazwa": "F1 Ciężarówka z bolidami RB20 i AMR24 F1",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 287.0,
+  "najnizsza_cena": 278.99,
   "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "41707": {
   "nazwa": "Furgonetka do sadzenia drzew",
@@ -3662,9 +3662,9 @@
  "76972": {
   "nazwa": "Ucieczka terenówką przed raptorem",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 99.98,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 98.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "31140": {
   "nazwa": "Magiczny jednorożec",
@@ -3984,16 +3984,16 @@
  "60483": {
   "nazwa": "Pojazdy – Ładowarka kołowa",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.46,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 27.96,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "42225": {
   "nazwa": "Żółty motocykl",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.0,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 27.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21274": {
   "nazwa": "Spotkanie ze strażnikiem",
@@ -4033,8 +4033,8 @@
  "40811": {
   "nazwa": "Ołtarz Día De Los Muertos",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 43.96,
+  "najnizsza_data": "2026-09-15",
   "najnizsza_sklep": "empik"
  },
  "60442": {
@@ -4054,9 +4054,9 @@
  "60486": {
   "nazwa": "Supersamochód elektryczny",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.87,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 27.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "40906": {
   "nazwa": "Restauracje świata: Japonia",
@@ -4068,9 +4068,9 @@
  "10477": {
   "nazwa": "Kreatywne zwierzaki 3 w 1",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 28.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 27.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "42681": {
   "nazwa": "Przygoda na aksolotlowej łodzi",
@@ -4390,9 +4390,9 @@
  "60484": {
   "nazwa": "Pojazdy – Gamingowa wyścigówka",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.9,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 26.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "76315": {
   "nazwa": "Laboratorium Iron Mana: Zbrojownia",
@@ -4789,9 +4789,9 @@
  "42678": {
   "nazwa": "Furgonetka z akcesoriami dla zwierząt",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.89,
-  "najnizsza_data": "2026-09-10",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 48.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "60455": {
   "nazwa": "Pościg na motocyklu policyjnym",
@@ -4852,9 +4852,9 @@
  "60479": {
   "nazwa": "Furgonetka policyjnego konwoju więziennego",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.0,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 52.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21269": {
   "nazwa": "Wyprawa do pancernikowej kopalni",
@@ -5034,9 +5034,9 @@
  "60415": {
   "nazwa": "Pościg radiowozu za muscle carem",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.43,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 49.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "71514": {
   "nazwa": "Dinostatek kosmiczny",
@@ -5048,9 +5048,9 @@
  "60402": {
   "nazwa": "Niebieski monster truck",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 45.44,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 44.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21064": {
   "nazwa": "Paryż – miasto miłości",
@@ -5202,9 +5202,9 @@
  "42199": {
   "nazwa": "Monster Jam DIGatron",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 75.58,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 73.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "31148": {
   "nazwa": "Wrotka w stylu retro",
@@ -5321,9 +5321,9 @@
  "42200": {
   "nazwa": "Monster Jam ThunderROARus z napędem typu pull-back",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 77.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 76.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "75411": {
   "nazwa": "Mech Dartha Maula",
@@ -5335,9 +5335,9 @@
  "60478": {
   "nazwa": "Betoniarka",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 115.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 114.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "77238": {
   "nazwa": "Lamborghini Revuelto i Huracán STO",
@@ -5377,9 +5377,9 @@
  "60487": {
   "nazwa": "Żółta taksówka",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 39.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 37.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "60341": {
   "nazwa": "Wyzwanie kaskaderskie: przewracanie",
@@ -5510,9 +5510,9 @@
  "10941": {
   "nazwa": "Disney Urodzinowy pociąg myszek Miki i Minnie",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 98.94,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 94.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "10413": {
   "nazwa": "Codzienne czynności - kąpiel",
@@ -5524,9 +5524,9 @@
  "60463": {
   "nazwa": "Wóz strażacki z drabiną",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 57.96,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 52.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21362": {
   "nazwa": "Kolekcja minerałów",
@@ -5874,16 +5874,16 @@
  "60466": {
   "nazwa": "Żółty buldożer",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 173.14,
+  "najnizsza_cena": 167.98,
   "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "60490": {
   "nazwa": "Pług śnieżny",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 69.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 66.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "77243": {
   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
@@ -6007,9 +6007,9 @@
  "60482": {
   "nazwa": "Pojazdy – Wóz strażacki",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 25.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "42223": {
   "nazwa": "Samochód wyścigowy 1966 Ford GT40 MKII",
@@ -6042,9 +6042,9 @@
  "60504": {
   "nazwa": "Łódź ratunkowa i helikopter straży przybrzeżnej",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 316.99,
-  "najnizsza_data": "2026-09-13",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 315.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21256": {
   "nazwa": "Żabi domek",
@@ -6077,9 +6077,9 @@
  "60407": {
   "nazwa": "Czerwony, piętrowy autokar",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 80.63,
+  "najnizsza_cena": 77.98,
   "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "76335": {
   "nazwa": "Spider-Man kontra Ghost Rider na motocyklu",
@@ -6427,9 +6427,9 @@
  "42659": {
   "nazwa": "Samochodowa wycieczka przyjaciółek",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.93,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 52.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "42668": {
   "nazwa": "Kalendarz adwentowy 2025",
@@ -6833,9 +6833,9 @@
  "60481": {
   "nazwa": "Pojazdy – Ciężarówka policyjna",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 26.79,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 25.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "11039": {
   "nazwa": "Kreatywne smakołyki",
@@ -6896,9 +6896,9 @@
  "60485": {
   "nazwa": "Hot Rod",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 26.99,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 25.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "42603": {
   "nazwa": "Kamper z mobilnym obserwatorium",
@@ -6910,9 +6910,9 @@
  "60404": {
   "nazwa": "Ciężarówka z burgerami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.89,
+  "najnizsza_cena": 50.98,
   "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "10989": {
   "nazwa": "Park wodny",
@@ -7015,8 +7015,8 @@
  "11207": {
   "nazwa": "Spidey: podwodne pojazdy",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 95.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 94.99,
+  "najnizsza_data": "2026-09-15",
   "najnizsza_sklep": "empik"
  },
  "30701": {
@@ -7253,9 +7253,9 @@
  "10471": {
   "nazwa": "Niebieski motocykl policyjny",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 26.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "21252": {
   "nazwa": "Zbrojownia",
@@ -7435,9 +7435,9 @@
  "10447": {
   "nazwa": "Karetka z kierowcą",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 59.49,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 53.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "40856": {
   "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
@@ -7498,9 +7498,9 @@
  "43217": {
   "nazwa": "Dom z bajki „Odlot”",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 173.8,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "10416": {
   "nazwa": "Opieka nad zwierzętami na farmie",
@@ -7652,9 +7652,9 @@
  "40822": {
   "nazwa": "Dyniowy pickup",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 44.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 42.99,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "60489": {
   "nazwa": "Odrzutowiec kontra samochód",
@@ -7736,9 +7736,9 @@
  "71513": {
   "nazwa": "Koszmarna skorpionowa koparka",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 146.36,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 144.98,
+  "najnizsza_data": "2026-09-15",
+  "najnizsza_sklep": "empik"
  },
  "31169": {
   "nazwa": "Maszyna do pisania z kwiatami",
