@@ -23,6 +23,30 @@ FEEDY = json.load(open(os.path.join(KATALOG, 'src/data/feedy.json'), encoding='u
 # numer setu tylko z tytułu zaczynającego się od "LEGO <numer>" — inaczej do wyników
 # wpadają puzzle i gry innych marek z czterocyfrowym numerem w nazwie
 WZORZEC_LEGO = re.compile(r'^LEGO\b.*?\b(\d{4,7})\b', re.IGNORECASE)
+
+# Oferty, które NIE są zestawem, choć tytuł zaczyna się od „LEGO" i niesie numer:
+# pojedyncze minifigurki (kod katalogowy sw1160 / njo104 / hp200 / cty0123),
+# instrukcje, pudełka, naklejki, części na wagę. Taka aukcja bierze numer setu
+# z tytułu i udaje deal rzędu −45%.
+#
+# Wzorzec kodu minifigurki wszedł 16.09.2026 po wycieku „Lego min­ifgurka sw1160"
+# (415 zł, udawało −44,6% na 75315) — literówka w słowie „minifigurka" omijała
+# filtr po słowach, ale kod `sw1160` w tytule jest jednoznaczny. Oba testy
+# stosujemy razem: słowo albo kod.
+WZORZEC_KOD_MINIFIGURKI = re.compile(
+    r'\b(?:sw|njo|hp|cty|col|sh|iaj|tlm|dis|hs|loc|nex|elf|frnd|twn|cas|pi|gs|adp|idea|mk)\d{2,4}[a-z]?\b',
+    re.IGNORECASE,
+)
+SLOWA_NIE_ZESTAW = re.compile(
+    r'minifig|figurka\s+lego|instrukcj|pude[lł]k|naklejk|breloc|zestaw\s+cz[eę][sś]ci|cz[eę][sś]ci\s+lego|luzem|na\s+wag[eę]',
+    re.IGNORECASE,
+)
+
+
+def nie_zestaw(nazwa):
+    """Czy tytuł oferty to nie zestaw, tylko minifigurka/część/instrukcja."""
+    tekst = (nazwa or '').replace('\u00ad', '')   # miękki dywiz z tytułów Allegro
+    return bool(WZORZEC_KOD_MINIFIGURKI.search(tekst) or SLOWA_NIE_ZESTAW.search(tekst))
 G = '{http://base.google.com/ns/1.0}'
 
 
@@ -152,7 +176,7 @@ def z_allegro():
             if not nr:
                 dopasowanie = WZORZEC_LEGO.match(nazwa)
                 nr = dopasowanie.group(1) if dopasowanie else None
-            if not nr:
+            if not nr or nie_zestaw(nazwa):
                 continue
             cena = cena_liczba((o.get('price') or {}).get('value') if isinstance(o.get('price'), dict) else o.get('price'))
             if not cena:

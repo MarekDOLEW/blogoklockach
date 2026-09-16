@@ -47,6 +47,35 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 11:30 · CODE · Kontrola przebiegu Łowcy: dwa błędy naprawione
+
+Sprawdzenie raportu Łowcy (commit `fa38f5f`) wobec repo. Potwierdzone i zgodne:
+redirects append-only (allegro 5016→5039, planetaklockow 1866→1877, **zero
+skasowanych wpisów w każdej gałęzi**), feed 8255→8257, daty per sklep dla ME/PK/
+Allegro/Empik/LEGO, `obrazy.json` 10 701, usunięte oferty tylko z trzech kluczy
+Łowcy (allegro 61, ME 3, PK 1), 60505 i 42698 mają w danych to, co w raporcie.
+
+**Błąd 1 — poprawka filtra nie trafiła do repo.** Wzorzec kodów minifigurek, który
+wyłapał „Lego min­ifgurka sw1160" (415 zł, udawało −44,6% na 75315), Łowca dopisał
+do `pipeline_run19.py` w `/tmp` — a kontener czyści `/tmp`. Jutro wyciek wróciłby.
+Przeniesione do `scripts/feedy-lego.py` jako `nie_zestaw()`: kody `sw####/njo###/
+hp###/cty####` i słowa (minifigurka, instrukcja, pudełko, naklejka, luzem, na wagę),
+z usuwaniem miękkiego dywizu z tytułów Allegro. 12 testów, 0 fałszywych trafień na
+prawdziwych tytułach zestawów. **Reguła: poprawka reguły biznesowej należy do repo,
+nie do skryptu w /tmp.**
+
+**Błąd 2 — 1 373 wierszy pokazywało nieprawdziwą datę.** Łowca podbija wspólne pole
+`data` wpisu na dziś, a wiersze Ceneo (1 426 cen z 14.09) i Smyk (704 z 29.08) nie
+miały własnej daty i brały tę wspólną — czytelnik widział „z 16.09". Uzupełnione:
+`daty.ceneo` z `_meta.ceneo_pobrano`, `daty.smyk` = 29.08 (RUNBOOK). `smyk-ceny.mjs`
+zapisuje teraz własną datę i nie rusza wspólnej. Po poprawce **0 wpisów bez daty
+per sklep**.
+
+Drobne: raport mówi o 40 nowych minimach, w `ceny_baza.json` jest 42 wpisy z datą
+16.09 — różnica nie wyjaśniona, ale bez wpływu na dane. Diff `sety.json` to 76 tys.
+linii, bo oferty są sortowane po cenie i przy wcięciu 2 zmiana kolejności przepisuje
+plik; do rozważenia stabilna kolejność (po nazwie sklepu) dla czytelności historii.
+
 ## 2026-09-16 06:30 · RADAR · Wycofania grudnia 2026 — okno przesunięte i tekst opublikowany
 
 **Polecenie Marka:** przesunąć okno wycofań na 17–30.09, robić jak najszybciej.
