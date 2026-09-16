@@ -1355,6 +1355,12 @@ obie przy odczycie (dane zostają surowe, jak przy odsiewie podszywek):
    („Test rynkowy": wiersz mówi, czy oferta jest potwierdzona i na stronie,
    czy ukryta). 16.09: 60339, 10423, 76156 — prawdziwe wyprzedaże końcówek
    (Empik + Ceneo), potwierdzone przez Marka.
+   **Rano przychodzi mail** (decyzja Marka 16.09): Łowca po zapisie danych
+   uruchamia `scripts/podejrzany-rynek-mail.mjs` — lista ukrytych ofert z linkiem
+   do sklepu i do huba na kontakt@ (klucz `podejrzane` w `raporty_mail.json`;
+   brak kandydatów = brak maila). Marek potwierdza w rozmowie z Code
+   („potwierdzam <nr> <cena> <sklep>"), Code dopisuje do `deale_potwierdzone.json`,
+   oferta wraca na stronę z najbliższym buildem.
 
 Kontrola po zmianach: `node scripts/kontrola-rrp.mjs` (test rynkowy) i skaner
 `dist/` z audytu (żaden link `/idz/` nie może prowadzić na stronę główną sklepu).

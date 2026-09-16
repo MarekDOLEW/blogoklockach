@@ -34,7 +34,25 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 Rzeczy, które obowiązują niezależnie od daty. Nie archiwizują się. Wpisuj tu
 tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisach.
 
-- (pusto — dopisuj, gdy ustalenie przeżyje swój wpis)
+- **Decyzja o runnerze = zmiana jego promptu tego samego dnia** (Marek, 16.09.2026).
+  Do runnera prowadzi tylko jeden kanał: prompt Routine (panel albo delete+create
+  z sesji). `DZIENNIK.md` czytają sesje robocze, nie runnery — wpis w dzienniku
+  sam w sobie niczego w runnerze nie zmienia (15.09 Scout dopisał 16 wycofań wbrew
+  ustaleniu, które istniało wyłącznie tutaj). Ustalenie bez zmiany promptu nie jest
+  wdrożone i nie wolno pisać, że jest.
+- **Zamykanie zadań bez właściciela** (Marek, 16.09.2026). Kontroler co poniedziałek
+  zbiera z dziennika pozycje „RADAR · Do zrobienia" i sygnały Scouta bez odpowiedzi.
+  Zamknięcie: Marek mówi w rozmowie z Code jedno zdanie („zamknij 75192 — Piotr
+  odmówił / zrobione / odkładamy do X"), Code dopisuje pod pozycją linię
+  `→ zamknięte <data>: <powód>`; runner Wycofań dopisuje `→ Wycofania <data>: …`.
+  Pozycje z taką linią Kontroler pomija. Pozycje „Kto: Piotr" i cała sekcja
+  „Zadania bez właściciela" idą **mailem do Piotra i Marka** (klucz `kontroler`
+  w `raporty_mail.json`), nie tylko PDF-em na czacie.
+- **Oferta poniżej 50% potwierdzonej ceny katalogowej wymaga sprawdzenia przez
+  człowieka** (Marek, 16.09.2026). Sito `filtrujOferty()` ukrywa ją na stronie;
+  rano przychodzi mail z linkami (`podejrzany-rynek-mail.mjs`, klucz `podejrzane`,
+  kontakt@); Marek potwierdza w rozmowie z Code („potwierdzam <nr> <cena> <sklep>"),
+  Code dopisuje do `deale_potwierdzone.json` i oferta wraca tego samego dnia.
 
 ## Archiwum
 
@@ -83,10 +101,15 @@ hrefów, sitemapy 0 braków, wszystkie `/idz/` 302 na cel afiliacyjny, 11 150 z
   `zadania-cykliczne.md` (tabele „Co zapisuje" i „Zmiana czasu" — pełna lista),
   `scripts/README.md`, `_meta` feedu.
 
-**Otwarte (czekają na Marka):** B3 — konwencja zamykania zadań bez właściciela;
-B5 — ustalenie trwałe „decyzja o runnerze = zmiana promptu tego samego dnia";
-zmiana promptu Łowcy (delete+create), żeby krok IMPORT EMPIKU wołał
-`empik-import.mjs` zamiast pamięci sesji; B4 — kanał planu tekstów do Piotra.
+**Domknięte po odpowiedziach Marka (16.09, 15:30–15:45):** B5 i B3 — w „Ustaleniach
+trwałych" (zamykanie zadań: „zamknij X — powód" w czacie → linia `→ zamknięte`;
+sekcja „Zadania bez właściciela" mailem do Piotra i Marka). Kontroler zaktualizowany
+(`update_trigger`), Łowca odtworzony pod `trig_013VvvPKDiN4W8Bmj4qwd9LK` (import
+Empiku przez skrypt + poranny mail z ofertami do sprawdzenia —
+`podejrzany-rynek-mail.mjs`, klucz `podejrzane`, na kontakt@; dziś na liście są
+4 oferty Ceneo: 31382, 71830, 60404, 31146). Zrzut Empiku od teraz do Code.
+**Nadal otwarte:** B4 — kanał planu tekstów do Piotra (propozycja: mail z PDF
+w piątek po zatwierdzeniu).
 
 ## 2026-09-16 14:05 · CODE · Wtorkowy Routine to slot na dane, nie na LEGO — nazwa i generator poprawione
 

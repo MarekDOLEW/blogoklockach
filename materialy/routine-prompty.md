@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 16.09.2026, 10:22 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 16.09.2026, 15:28 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -117,7 +117,7 @@ KROK 0 — DIAGNOZA ŚRODOWISKA. Uruchom `node scripts/diagnoza.mjs` i wklej wyn
 
 HARMONOGRAM I PROMPTY RUNNERÓW. Wywołaj narzędzie `list_triggers` (konektor Claude_Code_Remote, limit 30), zapisz surową odpowiedź do pliku `/tmp/routines.json` (NIE do repo — zawiera ID sesji i treść promptów) i uruchom `node scripts/harmonogram-z-konta.mjs /tmp/routines.json`. Skrypt przepisuje DWA pliki: sekcję między znacznikami HARMONOGRAM:START/KONIEC w `materialy/zadania-cykliczne.md` oraz cały `materialy/routine-prompty.md` (kopia promptów z konta — dzięki temu diff w git pokazuje, kto i kiedy zmienił prompt). Oba dołącz do commita: `git add materialy/zadania-cykliczne.md materialy/routine-prompty.md`. Reszty tych dokumentów nie tykaj. W raporcie sekcja „Harmonogram": ile zadań włączonych; kolizje; które włączone zadanie NIE odpaliło się w minionym tygodniu — ale UWAGA: kolumna „ostatnie odpalenie" zeruje się po każdym odtworzeniu triggera (delete+create), więc dla runnerów z pushem sprawdź też `git log --since=7.days --oneline | grep -i "<nazwa runnera>"` (Scout, Łowca, Radar, Wycofania, LEGO.pl) — brak commita w tygodniu to prawdziwy alarm, brak `last_run` sam w sobie nie. Jeśli `list_triggers` nie odpowie — jedno zdanie i licz resztę normalnie. NIE przepisuj sekcji ręcznie.
 
-ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie pozycje „RADAR · Do zrobienia" oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela" — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie.
+ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie pozycje „RADAR · Do zrobienia" oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela" — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie. ZAMKNIĘCIA (od 16.09.2026): pozycja, pod którą stoi linia zaczynająca się od „→ zamknięte" (dopisuje Code po decyzji Marka) albo „→ Wycofania" (dopisuje runner Wycofań), jest załatwiona — pomiń ją. Pozycje Scouta rozpoznawaj po nagłówku zaczynającym się od „SCOUT ·" i słowie „wycofa" w tytule (nagłówki bywają różne). WYSYŁKA TEJ SEKCJI: jeśli lista nie jest pusta, zapisz ją do `/tmp/zadania-bez-wlasciciela.md` (te same cztery linijki na pozycję: fakt / mamy? / zrobić / kto, plus data wpisu i kto go zostawił) i uruchom `python3 scripts/wyslij-raport.py --zadanie kontroler --tytul "Zadania bez właściciela — <DD.MM.RRRR>" --plik /tmp/zadania-bez-wlasciciela.md --wstep "<ile pozycji, ile dla Piotra, ile dla Marka>"` — idzie do Marka i Piotra (klucz `kontroler` w raporty_mail.json; Piotr nie widzi PDF-u z SendUserFile). Pusta lista = brak maila. Błąd skryptu wklej do raportu, nie ponawiaj więcej niż raz.
 
 KLIKNIĘCIA AFILIACYJNE: `node scripts/kliki-raport.mjs --dni 7` (Workers Analytics Engine przez SQL API; wymaga CF_ACCOUNT_ID i CF_API_TOKEN, NIE wypisuj wartości).
 
@@ -184,7 +184,7 @@ Kroki:
 
    1. Zrób zrzut → `lego-empik.json`.
    2. Wrzuć plik do sesji **Łowca Promocji** z notką „import cen + linków Empik”.
-   3. Łowca importuje ceny i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). UWAGA: dziś w redirects.json nie ma w ogóle klucza `empik` — 3 968 cen prowadzi na wyszukiwarkę; pierwszy zrzut z linkami to najważniejsza rzecz do zrobienia dla przychodu.
+3. Łowca importuje ceny i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). Bez cotygodniowego zrzutu ceny Empiku stoją na hubach, a martwe adresy kart zostają i prowadzą na 404.
 
    Ostatni zrzut wg `src/data/oferty_feed.json`: <najczęstsza wartość pola `daty.empik` albo `data` przy wpisach z `"sklep": "empik"`; jeśli nie ustalisz w minutę, wpisz „nie ustalono”>.
 
@@ -232,7 +232,7 @@ Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadn
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_015CVad7UA3mJpXYWxuEwfNo` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_013VvvPKDiN4W8Bmj4qwd9LK` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -260,7 +260,7 @@ PLIKI w src/data/ (po git pull). Zapisuj je z Pythona (`json.dump(..., ensure_as
 - oferty_feed.json — migawka dla wszystkich setów; wpis: {"zdjecie", "data", "daty": {"<sklep>": "RRRR-MM-DD"}, "oferty": {"mediaexpert": X, "planetaklockow": Y, "allegro": Z, ...}} + pola "cena"/"sklep" z najniższą (zgodność wstecz). Przy każdej zapisanej cenie ustaw `daty[sklep]` na dzisiejszą datę (hub pokazuje datę per sklep — bez tego wiersz ME dostaje datę zrzutu Empiku). TWOJE klucze w `oferty` to WYŁĄCZNIE: mediaexpert, planetaklockow, allegro. Sety nieobecne w dzisiejszych feedach: usuń TYLKO te trzy klucze (i przelicz cena/sklep z tego, co zostało), zostaw zdjecie. NIE RUSZAJ kluczy „ceneo" (skrypt ceneo-feed.mjs, wtorek), „lego" (zaciąg lego.pl, wtorek), „empik" (zrzut tygodniowy — patrz IMPORT EMPIKU) ani „smyk".
 - redirects.json — linki afiliacyjne: PK dopisuj do gałęzi planetaklockow (nie nadpisuj istniejących); gałąź allegro: NADPISUJ wpisy setów obecnych w dzisiejszym feedzie linkami z pola `link`, wpisów nieobecnych NIE kasuj (append-only z CLAUDE.md — pusty feed nie może wymazać 5 000 linków). Gałęzi ceneo, lego, empik, smyk nie dotykaj.
 
-IMPORT EMPIKU (tylko gdy Marek wrzucił do tej sesji plik `lego-empik.json` ze zrzutu; zwykle w poniedziałek, po przypominajce o 08:15). Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalnie. Gdy plik jest: (1) ceny → `oferty_feed.json` pod kluczem `empik` z `daty.empik` = data zrzutu z pliku (nie dzisiejsza), plus oferta `{sklep: "empik", cena, data}` w sety.json dla setów, które tam są; (2) `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` — to JEDYNY skrypt, który wolno kasować wpisy (deeplinki produktów, które zniknęły z oferty, prowadziłyby na 404); (3) w podsumowaniu: ile cen, ile linków dodanych/skasowanych, data zrzutu. Gdy pliku nie ma — klucza `empik` nie ruszasz i nic o tym nie piszesz poza jedną linijką „bez zrzutu Empiku".
+IMPORT EMPIKU (tylko gdy w tej sesji jest plik `lego-empik.json` ze zrzutu; zwykle Marek wrzuca go do sesji Code, ale może trafić i tu). Od 16.09.2026 import robi SKRYPT, nie Ty — reguły (gadżety, numer 4–7 cyfr, konflikt numeru z nazwą, próg sanity 40% RRP, świeżość nadrzędna, `daty.empik` z pola meta.scrapedAt) są w `scripts/empik-import.mjs` i nie wolno ich odtwarzać z pamięci. Kolejność: (1) `node scripts/empik-import.mjs lego-empik.json --sucho` — przeczytaj raport (odrzucone gadżety/sanity/konflikty; gdy odrzuconych jest więcej niż 20% pozycji, NIE importuj, opisz w podsumowaniu); (2) bez `--sucho`; (3) `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` — to JEDYNY skrypt, który wolno kasować wpisy; (4) w podsumowaniu liczby ze skryptów (cen, nowych/zmienionych/usuniętych, linków, data zrzutu). Gdy pliku nie ma — klucza `empik` nie ruszasz i nic o tym nie piszesz poza jedną linijką „bez zrzutu Empiku".
 
 ŚWIEŻOŚĆ OFERT: każda oferta z datą faktycznego odczytu; NADPISZ ofertę sklepu dzisiejszą ceną nawet gdy wyższa (koniec promocji musi zniknąć tego samego dnia); minima tylko w ceny_baza.json.
 
@@ -269,6 +269,8 @@ WERYFIKACJA: przed pushem sprawdź 3 sety z dealów gorących przez WebFetch na 
 KLASYFIKACJA: gorący ≥30% lub nowe minimum; dobry 20–29%; <15% = pseudopromocja. Przy rabacie >60% na Allegro (marketplace) oznacz deal jako „do weryfikacji", nie publikuj jako pewnik.
 
 POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.2026): piszesz post, gdy (a) rabat ≥35% od ceny katalogowej na zestawie o RRP ≥300 zł w sklepie (nie marketplace), albo (b) historyczne minimum na zestawie z listy wycofań (`wycofania.json`), albo (c) akcja sklepowa obejmująca ≥5 zestawów LEGO (kod rabatowy, „wyższa szkoła rabatu" itp.). Najwyżej 2 posty tygodniowo — jeśli kandydatów jest więcej, wybierz te o największym rabacie w złotych. Post wg `lego-standard-sprzedazowy` (`.claude/skills/`), z linkiem do huba `/zestaw/<nr>/`, bez daty końca promocji, jeśli sklep jej nie podaje. Nie pisz postu o zestawie, który miał post w ostatnich 14 dniach.
+
+PODEJRZANY RYNEK (od 16.09.2026, decyzja Marka): po zapisaniu danych uruchom `node scripts/podejrzany-rynek-mail.mjs`. Skrypt wypisuje oferty poniżej 50% POTWIERDZONEJ ceny katalogowej bez potwierdzenia człowieka (strona sama je ukrywa — `deale_potwierdzone.json`) i gdy takie są, wysyła Markowi mail z linkami do sprawdzenia (klucz `podejrzane` w raporty_mail.json; wymaga RESEND_API_KEY). Ofert tych NIE usuwaj z danych i NIE oceniaj sam; liczba z wyniku skryptu idzie do podsumowania jedną linijką. Brak kandydatów = brak maila.
 
 PRZED COMMITEM: `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda. Plik dołącz do commita.
 

@@ -56,6 +56,7 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
+| `podejrzany-rynek-mail.mjs` | Łowca, codziennie po zapisie danych | Lista ofert ukrytych przez sito „podejrzany rynek" (< 50% potwierdzonego RRP bez wpisu w `deale_potwierdzone.json`) z linkami do sklepu i huba — mail do Marka przez `wyslij-raport.py --zadanie podejrzane`; pusta lista = brak maila. `--sucho` tylko wypisuje |
 | `alerty-cen.mjs` | Routine „Alerty cen" codziennie 09:30 (po Łowcy) | Listuje zapisy z R2 (`_obserwuj/`), kasuje niepotwierdzone po 7 dniach, wysyła mail (Resend), gdy cena jest ≥20% poniżej katalogowej i niższa od ostatnio wysłanej. `--sucho` pokazuje, co by wysłał. Zapisy zakłada worker (`/obserwuj`) |
 
 ## Firecrawl — tylko tam, gdzie nas blokują

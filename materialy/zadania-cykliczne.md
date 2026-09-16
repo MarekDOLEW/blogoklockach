@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 16.09 10:22 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 16.09 15:28 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -53,7 +53,7 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
 | LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 16.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
 | Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_012JWbmYwHb59sYazo6K9X33` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 16.09 08:33 | ✅ SUCCEEDED | `trig_015CVad7UA3mJpXYWxuEwfNo` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — utworzony 2026-09-16, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_013VvvPKDiN4W8Bmj4qwd9LK` |
 | LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 16.09 09:37 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
 
 ### Pozostałe Routines na tym samym koncie
@@ -65,7 +65,7 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 |---|---|---|---|---|---|---|
 | Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 14.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
 | inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
-| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 14.09 08:04 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
+| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 16.09 11:03 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
 ### Kolizje — zadania na tej samej minucie
 
@@ -318,6 +318,22 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**16.09.2026 (po audycie końcowym, decyzje Marka)**
+- Łowca odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_013VvvPKDiN4W8Bmj4qwd9LK`: krok IMPORT EMPIKU woła
+  `scripts/empik-import.mjs` (reguły w skrypcie, nie w pamięci sesji); nowy
+  krok PODEJRZANY RYNEK — `scripts/podejrzany-rynek-mail.mjs` wysyła Markowi
+  poranny mail z ofertami poniżej 50% potwierdzonego RRP do sprawdzenia
+  (klucz `podejrzane` w raporty_mail.json). Stary `trig_015CVad7UA3mJpXYWxuEwfNo`
+  skasowany od razu.
+- Kontroler (`update_trigger`, świeża sesja): pomija zadania z linią
+  „→ zamknięte" / „→ Wycofania", rozpoznaje wpisy Scouta po „SCOUT ·" + „wycofa",
+  sekcję „Zadania bez właściciela" wysyła mailem do Marka i Piotra (klucz
+  `kontroler`).
+- Wtorkowy Routine przemianowany przez Marka na „Dane wt 05:30 — katalog
+  LEGO.pl + ceny Ceneo i Smyk" (krok 6a: Smyk); generator harmonogramu
+  rozpoznaje nasze Routine po środowisku i prompcie, nie po prefiksie nazwy.
 
 **15.09.2026 (wieczór, po audycie 2)**
 - Łowca odtworzony (delete+create, ta sama sesja) pod ID
