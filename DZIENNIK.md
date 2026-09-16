@@ -47,6 +47,34 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 08:00 · RADAR · Do zrobienia
+
+**faniklockow · 15.09** — zaktualizowali listę Icons 2026 o ceny 11379 (559,99) i 11387 (469,99).
+**Mamy?** — tak: `/zestaw/11379/` i `/zestaw/11387/`, ceny wpisane w tym przebiegu.
+**Zrobić:** — nic (zamknięte).
+**Kto:** — Code (zrobione)
+
+**Kontrola własna · 16.09** — `kontrola-rrp.mjs` po imporcie z lego.pl pokazał 8 cen katalogowych niezgodnych ze źródłem.
+**Mamy?** — tak: poprawione w `katalog.json` (10338, 10361, 75328, 40797, 31147, 76326, 76327, 43269).
+**Zrobić:** — nic (zamknięte).
+**Kto:** — Code (zrobione)
+
+**Radar · 15.09** — LEGO potwierdziło wycofanie ponad stu zestawów; 75192 Sokół Millennium UCS bez żadnego opisu u nas.
+**Mamy?** — częściowo: hub `/zestaw/75192/` jest, brakuje karty, person i opisu.
+**Zrobić:** — nowy tekst „LEGO 75192 Sokół Millennium schodzi z produkcji — kupować teraz czy odpuścić".
+**Kto:** — Piotr (tekst)
+
+**Radar · 15.09** — potwierdzona lista wycofań grudniowych jest dostępna od 14.09.
+**Mamy?** — nie: plan ma tekst o wycofaniach z oknem 1–20.10, czyli po fakcie.
+**Zrobić:** — zmiana w danych `redakcja/plan-redakcyjny.json`: okno na 17–30.09.
+**Kto:** — Marek (decyzja)
+
+**Radar · 15.09** — pięć zestawów ma u nas status „przewidywane", a serwisy podają je jako potwierdzone przez LEGO.
+**Mamy?** — częściowo: są na liście, zły status (21333, 21351, 21353, 21356, 76437).
+**Zrobić:** — zmiana w danych `src/data/wycofania.json` po sprawdzeniu działu „Ostatnie Sztuki".
+**Kto:** — Code (runner Wycofań)
+
+
 ## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
 
 **Zrobione:** nic w `wycofania.json` — od dziś to nie mój plik (nowa reguła

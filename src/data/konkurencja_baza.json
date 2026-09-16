@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-15",
-    "przebieg": "scheduled 2026-09-15 08:00",
+    "ostatnia_aktualizacja": "2026-09-16",
+    "przebieg": "scheduled 2026-09-16 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 160,
+    "liczba_wpisow": 163,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -1931,6 +1931,44 @@
         "Allegro"
       ],
       "notatki": "Pojedyncza okazja dnia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Icons na 2026 (aktualizacja: ceny 11379 i 11387)",
+      "url": "https://faniklockow.pl/2026/09/15/zapowiedzi-serii-icons-na-2026-rok/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Dwie ceny, ktorych nie mielismy: 11379 Ksiegarnia Book Nook 559,99 zl i 11387 Swiateczny dom 469,99 zl (1354 el., 4 minifigurki i kon). Obie wpisane. 11379 domyka rozbieznosc z 04.09 - promoklocki podawali 559,96, co nie konczy sie na ',99', wiec bylo wyliczeniem porownywarki. 11387 potwierdza przelicznik: Brickset ma 109,99 EUR z lego.com, co daje 470 zl. 40899 Astrobot: sami pisza, ze nie wiadomo, czy to GWP do PlayStation czy normalny zestaw - zostawiamy jako nierozstrzygniete."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Lumibricks na 09.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-lumibricks-na-09-2026/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czwarta obca marka w dwa tygodnie, po COBI, GraviTraxie i Pantasy. Bez zmian w naszym zakresie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 15.09.2026 (zbiorczo: 60480, 60447, 75446)",
+      "url": "https://faniklockow.pl/2026/09/15/okazja-cenowa-city-60480-zolta-koparko-ladowarka/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy."
     }
   ],
   "obserwacje_strategiczne": {
