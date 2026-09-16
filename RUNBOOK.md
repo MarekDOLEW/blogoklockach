@@ -1271,6 +1271,19 @@ Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfigura
 w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
 przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
 
+## Oferty w sety.json: kolejność alfabetyczna po sklepie *(od 16.09.2026)*
+
+Łowca zapisywał oferty posortowane po cenie, więc każda zmiana ceny przestawiała
+kolejność — diff jednego przebiegu miał 76 tys. linii (wcięcie 2 spacji, oferta
+to 5 linii). Historia zmian była nieczytelna, a przy konflikcie rebase nie dało
+się zobaczyć, co runner naprawdę zmienił.
+
+Od 16.09 kolejność jest stała: **alfabetycznie po `sklep`**. Strony to nie
+dotyczy — `TabelaCen` i `najlepszaOferta()` sortują po cenie same, więc czytelnik
+dalej widzi najtańszą ofertę na górze. Normalizacja: `node scripts/porzadek-ofert.mjs`
+(`--sucho` pokazuje, ile wpisów wymaga zmiany). Reguła jest w promptcie Łowcy;
+każdy skrypt dopisujący ofertę do `sety.json` ma ją utrzymać.
+
 ## Zestaw po EOL: link do lego.pl zostaje, dopóki żyje karta produktu *(zasada Marka 16.09.2026)*
 
 Powód: `75377 Niewidzialna ręka` ma u nas status „brak w lego.pl" i nie miał
