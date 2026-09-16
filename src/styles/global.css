@@ -1211,3 +1211,8 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .siatka--podobne { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 12px 0 0; }
 .siatka--podobne > * { min-width: 0; }
 .set-karta .nr .tag-eol { margin-left: 4px; }
+
+/* Wiersz LEGO.com po EOL: link do karty produktu (zdjęcia, opis), ale to nie jest oferta —
+   przycisk jest wyciszony, żeby nie konkurował z realnymi ofertami sklepów. */
+.cta--eol { background: transparent; color: var(--granat); border: 1.5px solid var(--linia); font-weight: 600; }
+.cta--eol:hover { border-color: var(--granat); background: var(--papier); }

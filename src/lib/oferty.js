@@ -12,6 +12,7 @@ import redirectsMapa from '../data/redirects.json';
 import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
+import legoBezStrony from '../data/lego_strony_brak.json';
 import setyDane from '../data/sety.json';
 import { wpisKatalogu } from './katalog.js';
 
@@ -150,6 +151,17 @@ export function linkAfiliacyjny(sklep, nr) {
 //           linkujemy wprost na kartę produktu i świadomie rezygnujemy z
 //           prowizji. Gdy deeplink zacznie działać, usunąć 'smyk' z tego zbioru.
 const SKLEPY_BEZ_PROWIZJI = new Set(['lego', 'smyk']);
+
+// Karta produktu na lego.pl po EOL (zasada Marka 16.09.2026). Zestaw wycofany
+// zostaje w tabeli z ceną katalogową, linkiem i dopiskiem „brak w sprzedaży",
+// bo na lego.pl dalej są zdjęcia, opis i wymiary — czytelnik ma po co tam pójść
+// (75377 Niewidzialna ręka: karta żyje, na niej „Produkcja zakończona").
+// Link znika dopiero, gdy karty nie ma; takie numery trzyma
+// `lego_strony_brak.json`, uzupełniane przez scripts/lego-strony.mjs.
+const BEZ_STRONY_LEGO = new Set((legoBezStrony.bez_strony ?? []).map(String));
+
+/** Czy na lego.pl jest jeszcze karta produktu (zdjęcia, opis) tego zestawu. */
+export const legoMaStrone = (nr) => !BEZ_STRONY_LEGO.has(String(nr));
 
 /** Wartość atrybutu rel dla linku do sklepu – „sponsored" tylko gdy zarabiamy. */
 export function relLinku(sklep, nr) {

@@ -1,5 +1,5 @@
 ---
-import { relLinku as relSklepu } from '../lib/oferty.js';
+import { relLinku as relSklepu, legoMaStrone } from '../lib/oferty.js';
 import { dataPl } from '../lib/daty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
@@ -50,6 +50,9 @@ const posortowane = [...sklepowe, ...zLego]
   .sort((a, b) => a.cena - b.cena);
 const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
 const wierszLegoEol = eolLego && cenaKatalogowa ? { sklep: 'lego', cena: cenaKatalogowa } : null;
+// Po EOL link do lego.pl zostaje, dopóki karta produktu istnieje (zasada Marka
+// 16.09.2026) – to nadal najlepsze zdjęcia, opis i wymiary zestawu w sieci.
+const maStroneLego = legoMaStrone(nr);
 
 // sklepy, w których cena na stronie potrafi odbiegać od tej z feedu
 // (kody rabatowe i akcje na koszyk, których feedy produktowe nie pokazują)
@@ -89,11 +92,17 @@ const UWAGA_SKLEP = {
         <tr class="wiersz-eol">
           <td class="kc-sklep">
             <strong>{sklepy.lego?.nazwa ?? 'LEGO.com'}</strong>
-            <span class="kc-uwaga">{eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie lego.pl'}</span>
+            <span class="kc-uwaga">{maStroneLego
+              ? 'oficjalny sklep – zestawu już nie kupisz, ale na karcie zostały zdjęcia, opis i wymiary'
+              : (eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie lego.pl')}</span>
           </td>
-          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title={eolPewny ? 'EOL – LEGO zakończyło produkcję i już nie sprzedaje' : 'Zestawu nie ma w sklepie lego.pl'}>{eolPewny ? 'EOL' : 'brak w lego.pl'}</span></td>
+          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title="Cena katalogowa LEGO – w oficjalnym sklepie zestawu już nie ma">brak w sprzedaży</span></td>
           {cenaKatalogowa && <td class="kc-rabat">–</td>}
-          <td class="kc-cta"><span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span></td>
+          <td class="kc-cta">
+            {maStroneLego
+              ? <a class="cta cta--eol" href={`/idz/lego/${nr}`} rel={relSklepu('lego')}>Sprawdź w sklepie →</a>
+              : <span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span>}
+          </td>
         </tr>
       )}
       {ceneo && (
@@ -109,7 +118,7 @@ const UWAGA_SKLEP = {
       )}
     </tbody>
   </table>
-  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Przy każdej cenie stoi dzień, w którym ją widzieliśmy – wiersze mogą mieć różne daty, bo sklepy odświeżamy w różnym rytmie. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
+  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{wierszLegoEol && maStroneLego && <>Wiersz LEGO.com to cena katalogowa zestawu, którego oficjalny sklep już nie sprzedaje – link prowadzi do karty produktu ze zdjęciami i opisem. </>}{dataSprawdzenia && <>Przy każdej cenie stoi dzień, w którym ją widzieliśmy – wiersze mogą mieć różne daty, bo sklepy odświeżamy w różnym rytmie. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
 </div>
 
 <script>

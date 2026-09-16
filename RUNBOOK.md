@@ -1270,3 +1270,30 @@ Test, który wykrywa tę klasę awarii (do `diagnoza.mjs` i do ręcznych sprawdz
 Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfiguracja
 w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
 przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
+
+## Zestaw po EOL: link do lego.pl zostaje, dopóki żyje karta produktu *(zasada Marka 16.09.2026)*
+
+Powód: `75377 Niewidzialna ręka` ma u nas status „brak w lego.pl" i nie miał
+linku, a na `lego.com/pl-pl/product/invisible-hand-75377` dalej są zdjęcia,
+opis, wymiary i adnotacja „Produkcja zakończona". Czytelnik ma po co tam pójść,
+nawet jeśli nie kupi.
+
+Reguła w tabeli cen (`src/components/TabelaCen.astro`, wiersz `wiersz-eol`):
+
+1. Zestaw po EOL ze znaną ceną katalogową dostaje wiersz LEGO.com z tą ceną,
+   plakietką **„brak w sprzedaży"** i przyciskiem „Sprawdź w sklepie" (link
+   `/idz/lego/<nr>`, wyciszony stylem `.cta--eol`, żeby nie konkurował z realnymi
+   ofertami). Pod nazwą sklepu: „zestawu już nie kupisz, ale na karcie zostały
+   zdjęcia, opis i wymiary".
+2. Link znika **tylko wtedy**, gdy karty produktu nie ma. Numery takich zestawów
+   trzyma `src/data/lego_strony_brak.json` (`legoMaStrone()` w `src/lib/oferty.js`).
+3. Adres buduje worker z samego numeru — `lego.com/pl-pl/product/<nr>` przekierowuje
+   na pełny slug także po EOL (sprawdzone na 75377).
+
+Weryfikacja: `node scripts/lego-strony.mjs <numery>` albo `--kandydaci N`
+(zestawy `eol` z ceną katalogową, od najstarszych). 1 kredyt Firecrawla na zestaw;
+karta istniejąca to ~30 tys. znaków markdownu, nieistniejąca ~70 znaków (lego.com
+oddaje pustą stronę, nie 404). **Sitemapa lego.pl nie nadaje się do tego testu:**
+`sitemap-productPage-pl-PL0.xml` ma 2 165 numerów, ale 75377 w nim nie ma, choć
+karta żyje. Stan 16.09.2026: sprawdzone 3 zestawy z lat 2005–2007 (10182, 7235,
+2198) — kart nie mają. Resztę bierzemy partiami przy wtorkowym zaciągu LEGO.pl.
