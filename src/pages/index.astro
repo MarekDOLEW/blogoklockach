@@ -257,7 +257,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                 </div>
                 <div class="deal-akcje">
                   {oferta && linkAfiliacyjny(oferta.sklep, deal.nr) && (
-                    <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} rel={relSklepu(oferta.sklep, deal.nr)}>
+                    <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} target="_blank" rel={relSklepu(oferta.sklep, deal.nr)}>
                       Sprawdź w {nazwaSklepu(oferta.sklep)} →
                     </a>
                   )}

@@ -167,7 +167,8 @@ const stanPozycji = (href) => {
       // Bez JS link działa normalnie, w tej samej karcie. Klawisz Enter w
       // wyszukiwarkach robi to samo przez window.open (patrz SzukajGlobalne).
       document.addEventListener('click', function (e) {
-        var a = e.target && e.target.closest ? e.target.closest('a[href^="/zestaw/"]') : null;
+        // /zestaw/ (szczegóły zestawu) i /idz/ (sklepy, Ceneo) — decyzje Marka 13.09 i 16.09.2026
+        var a = e.target && e.target.closest ? e.target.closest('a[href^="/zestaw/"], a[href^="/idz/"]') : null;
         if (!a || a.target || e.defaultPrevented) return;
         a.target = '_blank';
         a.rel = ((a.rel || '') + ' noopener').trim();

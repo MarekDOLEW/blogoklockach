@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import remarkGaleria from './scripts/remark-galeria.mjs';
 import remarkCeny from './scripts/remark-ceny.mjs';
 import remarkNazwySetow from './scripts/remark-nazwy-setow.mjs';
+import remarkLinkiSklepow from './scripts/remark-linki-sklepow.mjs';
 
 // ── Sitemapy ─────────────────────────────────────────────────────────────────
 //
@@ -32,6 +33,7 @@ export default defineConfig({
   // przy budowaniu na slajder zdjęć zestawów (scripts/remark-galeria.mjs).
   // remarkNazwySetow stoi na końcu: pracuje na tekście, a dwa poprzednie
   // wstawiają gotowy HTML, którego nie rusza.
-  markdown: { remarkPlugins: [remarkGaleria, remarkCeny, remarkNazwySetow] },
+  // remarkLinkiSklepow: ręczne linki /idz/ w markdownie dostają nową kartę + noopener.
+  markdown: { remarkPlugins: [remarkGaleria, remarkCeny, remarkNazwySetow, remarkLinkiSklepow] },
   build: { inlineStylesheets: 'auto' }
 });

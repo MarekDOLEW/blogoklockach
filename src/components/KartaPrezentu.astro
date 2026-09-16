@@ -114,7 +114,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
           <ul class="prezent__kup-lista">
             {wProgu.map((o) => (
               <li>
-                <a href={linkAfiliacyjny(o.sklep, nr)} rel={rel(o.sklep)}>{nazwaSklepu(o.sklep)}</a>
+                <a href={linkAfiliacyjny(o.sklep, nr)} target="_blank" rel={rel(o.sklep)}>{nazwaSklepu(o.sklep)}</a>
                 <b>{fmtCena(o.cena)}</b>
                 <span class={bardzoTanio(o.cena) ? 'prezent__kup-poziom prezent__kup-poziom--top' : 'prezent__kup-poziom'}>
                   {bardzoTanio(o.cena) ? 'bardzo dobra cena' : 'dobra cena'}
@@ -135,7 +135,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       {doPokazania.map((s, i) => (
         <>
           {i > 0 && <span aria-hidden="true"> · </span>}
-          <a href={`/idz/${s}/${nr}`} rel={rel(s)}>{sklepy[s]?.nazwa ?? s}</a>
+          <a href={`/idz/${s}/${nr}`} target="_blank" rel={rel(s)}>{sklepy[s]?.nazwa ?? s}</a>
         </>
       ))}
       {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}

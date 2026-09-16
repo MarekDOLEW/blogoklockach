@@ -81,7 +81,7 @@ const UWAGA_SKLEP = {
           {cenaKatalogowa && <td class="kc-rabat">{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '–'}</td>}
           <td class="kc-cta">
             {maLink(o.sklep) ? (
-              <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel={relLinku(o.sklep)}>Sprawdź w sklepie →</a>
+              <a class="cta" href={`/idz/${o.sklep}/${nr}`} target="_blank" rel={relLinku(o.sklep)}>Sprawdź w sklepie →</a>
             ) : (
               <span class="link-wkrotce" title="Link afiliacyjny w przygotowaniu">link wkrótce</span>
             )}
@@ -100,7 +100,7 @@ const UWAGA_SKLEP = {
           {cenaKatalogowa && <td class="kc-rabat">–</td>}
           <td class="kc-cta">
             {maStroneLego
-              ? <a class="cta cta--eol" href={`/idz/lego/${nr}`} rel={relSklepu('lego')}>Sprawdź w sklepie →</a>
+              ? <a class="cta cta--eol" href={`/idz/lego/${nr}`} target="_blank" rel={relSklepu('lego')}>Sprawdź w sklepie →</a>
               : <span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span>}
           </td>
         </tr>
@@ -113,7 +113,7 @@ const UWAGA_SKLEP = {
           </td>
           <td class="cena kc-cena">{fmt(ceneo.cena)}{ceneo.data && <span class="kc-data">z {dataPl(ceneo.data)}</span>}</td>
           {cenaKatalogowa && <td class="kc-rabat">{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '–'}</td>}
-          <td class="kc-cta"><a class="cta" href={`/idz/ceneo/${nr}`} rel="sponsored nofollow">Porównaj oferty →</a></td>
+          <td class="kc-cta"><a class="cta" href={`/idz/ceneo/${nr}`} target="_blank" rel="sponsored nofollow noopener">Porównaj oferty →</a></td>
         </tr>
       )}
     </tbody>

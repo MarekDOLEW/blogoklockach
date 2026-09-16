@@ -65,6 +65,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 16:20 · CODE · Linki do sklepów i Ceneo w nowej karcie (decyzja Marka)
+
+Wszystkie anchory `/idz/…` mają `target="_blank"` w szablonach (TabelaCen ×3,
+TabelaSetow, KartaPrezentu ×2, karuzela strony głównej, `/deale/`, `remark-ceny.mjs`
+×2), `relLinku()` dokłada `noopener`, a delegacja w `Base.astro` obejmuje też
+`/idz/` z markdownu. Po buildzie: 0 linków do sklepów bez nowej karty, 0 `noreferrer`
+(referer zostaje — filtr botów na `/idz/` działa jak dotąd). RUNBOOK, sekcja
+„Filtr botów" — akapit o nowej karcie.
+
 ## 2026-09-16 15:40 · CODE · Audyt końcowy: raport + naprawy 1–3 i 6 (decyzje Marka)
 
 Raport: `materialy/audyt-koncowy-2026-09-16.md`, plan: `materialy/plan-dzialan-2026-09-16.md`

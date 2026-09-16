@@ -248,6 +248,16 @@ ich zaklasyfikować wstecz.
 czytelników. Dziś polityka jest domyślna, a linki mają tylko `sponsored nofollow`
 i `noopener` — żadne z nich referera nie wycina.
 
+**Linki do sklepów i Ceneo otwierają się w nowej karcie** *(decyzja Marka
+16.09.2026: czytelnik ma wracać do nas, nie wypuszczamy ruchu)*. Każdy anchor
+`/idz/…` ma `target="_blank"` wpisane w szablonie (TabelaCen, TabelaSetow,
+KartaPrezentu, karuzela na stronie głównej, `/deale/`, `remark-ceny.mjs`) plus
+`noopener` w `relLinku()`; ręczne linki `/idz/` w markdownie dostają to samo przy
+buildzie (`scripts/remark-linki-sklepow.mjs`), a delegacja kliknięcia w `Base.astro`
+jest siatką bezpieczeństwa dla reszty. Sprawdzone po buildzie 16.09: 0 anchorów
+`/idz/` bez `target="_blank"`. `noopener` NIE wycina referera, więc filtr botów
+działa bez zmian; `noreferrer` jest zakazany.
+
 ---
 
 ## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*

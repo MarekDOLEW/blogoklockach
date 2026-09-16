@@ -34,6 +34,7 @@ czy czeka, aż ktoś je wywoła.
 | `remark-ceny.mjs` | Astro przy budowaniu | Tabela cen w treści artykułu |
 | `remark-galeria.mjs` | Astro przy budowaniu | Slajder ze zdjęciami |
 | `remark-nazwy-setow.mjs` | Astro przy budowaniu | Numery i nazwy zestawów — wyróżnione i linkowane |
+| `remark-linki-sklepow.mjs` | Astro przy budowaniu | Ręczne linki `/idz/…` w markdownie dostają `target="_blank"` + `rel` z `noopener` (decyzja 16.09.2026: sklepy w nowej karcie) |
 
 ## Importery linków i cen — uruchamiane z plikiem na wejściu
 

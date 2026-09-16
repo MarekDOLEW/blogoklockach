@@ -131,7 +131,7 @@ function tabela(nr) {
     ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
     Boolean(redirects?.[sklep]?.[nr]);
   const maLink = (sklep) => maAfiliacje(sklep) || Boolean(sklepy[sklep]?.szukaj);
-  const rel = (sklep) => (sklep === 'lego' || sklep === 'smyk' || !maAfiliacje(sklep) ? 'nofollow' : 'sponsored nofollow');
+  const rel = (sklep) => (sklep === 'lego' || sklep === 'smyk' || !maAfiliacje(sklep) ? 'nofollow noopener' : 'sponsored nofollow noopener');
   const rabat = (c) => Math.round((1 - c / rrp) * 100);
 
   // Zasada z 13.09.2026 (jak w TabelaCen.astro): tylko sklepy z ofertą cenową,
@@ -158,7 +158,7 @@ function tabela(nr) {
       `<tr${i === 0 ? ' class="najtanszy"' : ''}><td class="kc-sklep"><strong>${nazwa(o.sklep)}</strong>${uwaga(o.sklep)}</td>` +
       `<td class="cena kc-cena">${fmt(o.cena)}</td>${kolRabat(o.cena)}<td class="kc-cta">` +
       (maLink(o.sklep)
-        ? `<a class="cta" href="/idz/${o.sklep}/${nr}" rel="${rel(o.sklep)}">Sprawdź w sklepie →</a>`
+        ? `<a class="cta" href="/idz/${o.sklep}/${nr}" target="_blank" rel="${rel(o.sklep)}">Sprawdź w sklepie →</a>`
         : '<span class="link-wkrotce">link wkrótce</span>') +
       '</td></tr>',
   );
@@ -175,7 +175,7 @@ function tabela(nr) {
     ? `<tr class="wiersz-ceneo"><td class="kc-sklep"><strong>${nazwa('ceneo')}</strong>` +
       '<span class="kc-uwaga">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>' +
       `</td><td class="cena kc-cena">${fmt(ceneo.cena)}</td>${kolRabat(ceneo.cena)}` +
-      `<td class="kc-cta"><a class="cta" href="/idz/ceneo/${nr}" rel="sponsored nofollow">Porównaj oferty →</a></td></tr>`
+      `<td class="kc-cta"><a class="cta" href="/idz/ceneo/${nr}" target="_blank" rel="sponsored nofollow noopener">Porównaj oferty →</a></td></tr>`
     : '';
 
   const stopka =

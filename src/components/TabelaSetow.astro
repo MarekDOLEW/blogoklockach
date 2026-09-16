@@ -125,7 +125,7 @@ const meta = (w) =>
                     <span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(w.cenaKatalogowa)}</span>
                   )}
                   {w.link ? (
-                    <a class="set-cena" href={w.link} rel={relSklepu(w.oferta.sklep ?? sklepZLinku(w.link), w.numer)}>{fmtCena(w.oferta.cena)}</a>
+                    <a class="set-cena" href={w.link} target="_blank" rel={relSklepu(w.oferta.sklep ?? sklepZLinku(w.link), w.numer)}>{fmtCena(w.oferta.cena)}</a>
                   ) : (
                     <span class="set-cena set-cena--bez-linku">{fmtCena(w.oferta.cena)}</span>
                   )}

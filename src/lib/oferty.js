@@ -206,8 +206,11 @@ export const legoMaStrone = (nr) => !BEZ_STRONY_LEGO.has(String(nr));
 
 /** Wartość atrybutu rel dla linku do sklepu – „sponsored" tylko gdy zarabiamy. */
 export function relLinku(sklep, nr) {
-  if (SKLEPY_BEZ_PROWIZJI.has(sklep)) return 'nofollow';
-  return linkAfiliacyjny(sklep, nr) ? 'sponsored nofollow' : 'nofollow';
+  // `noopener`, bo linki do sklepów otwierają się w nowej karcie (decyzja Marka
+  // 16.09.2026); NIGDY `noreferrer` — filtr botów na /idz/ rozpoznaje klik
+  // z naszej strony po refererze / Sec-Fetch-Site (RUNBOOK „Filtr botów").
+  if (SKLEPY_BEZ_PROWIZJI.has(sklep)) return 'nofollow noopener';
+  return linkAfiliacyjny(sklep, nr) ? 'sponsored nofollow noopener' : 'nofollow noopener';
 }
 
 /**

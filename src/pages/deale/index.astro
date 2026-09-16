@@ -118,7 +118,7 @@ const jsonld = {
                   <td class="kc-klocek">{s.elementy ? (cena / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}<span class="kc-klocek-etykieta"> za klocek</span></td>
                   <td class="kc-cta">
                     {aff ? (
-                      <a class="cta" href={aff} rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                      <a class="cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
                     ) : (
                       <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>
                     )}
