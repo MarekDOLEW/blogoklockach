@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 15.09 15:35 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 16.09 10:06 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -46,15 +46,15 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
 | LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Rvt1kEmrv2Ltis4oYJS5EN` |
-| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 16.09 05:09 | ✅ SUCCEEDED | `trig_01Rvt1kEmrv2Ltis4oYJS5EN` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 16.09 08:10 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
 | LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
 | LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
 | LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
-| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
+| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 16.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
 | LEGO wt 05:30 — LEGO.pl katalog (ceny, dostępność, ekskluzywy) | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_012JWbmYwHb59sYazo6K9X33` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_015CVad7UA3mJpXYWxuEwfNo` |
-| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 16.09 08:33 | ✅ SUCCEEDED | `trig_015CVad7UA3mJpXYWxuEwfNo` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 16.09 09:37 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
 
 ### Pozostałe Routines na tym samym koncie
 

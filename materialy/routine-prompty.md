@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 15.09.2026, 15:35 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 16.09.2026, 10:06 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
