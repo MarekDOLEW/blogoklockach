@@ -47,6 +47,47 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-16 15:40 · CODE · Audyt końcowy: raport + naprawy 1–3 i 6 (decyzje Marka)
+
+Raport: `materialy/audyt-koncowy-2026-09-16.md`, plan: `materialy/plan-dzialan-2026-09-16.md`
+(PDF-y na czacie). Werdykt: mechanika czysta (0 martwych linków na 412 tys.
+hrefów, sitemapy 0 braków, wszystkie `/idz/` 302 na cel afiliacyjny, 11 150 z
+11 281 obrazów 200), błędy w danych i procedurach. Decyzje Marka i naprawy:
+
+- **Cztery ekskluzywy (10335, 10356, 40516, 40797)** — Marek: „ostatnie sztuki,
+  ale dostępne w sklepie LEGO". `wycofania.json`: `kiedy: "grudzień 2026"`,
+  status potwierdzone, źródło poprawione. Do tego **strona sama broni się przed
+  takim wpisem**: `status.js` → `widzianyNaListingu()` — „wycofany" o zestawie
+  widzianym na listingu lego.pl w ostatnich 14 dniach jest traktowany jak termin.
+  `audyt-wycofan.mjs` A = 0.
+- **18 ofert z 12–16.08** (sklepy bez feedu + 4 LEGO.com sprzed listingu) usunięte
+  z `sety.json` (`scripts/oferty-przeterminowane.mjs`, decyzja Marka „usunąć");
+  szablony `szukaj` bez `{nr}` (proshop, sferis, dadada → strona główna sklepu)
+  wycięte ze `sklepy.json`; **sito `filtrujOferty()`** w `oferty.js`: oferta
+  starsza niż 14 dni nie wchodzi do tabel, meta, deali ani oceny indeksowalności.
+- **Trzy deale poniżej 50% RRP (60339, 10423, 76156)** — Marek: prawdziwe.
+  Nowy plik `src/data/deale_potwierdzone.json` + reguła „podejrzany rynek" w tym
+  samym sicie: oferta < 50% POTWIERDZONEGO RRP bez wpisu człowieka jest ukryta;
+  `kontrola-rrp.mjs` mówi, co jest potwierdzone, a co ukryte.
+- **Import Empiku jako skrypt** (`scripts/empik-import.mjs`): reguły z pamięci
+  sesji Łowcy (commit `f9b0cef`) spisane i wykonywane deterministycznie; test na
+  syntetycznym zrzutie z 3 950 pozycji: 0 zmian wobec danych + poprawnie odrzucone
+  gadżet, sanity i konflikt numeru. Plik od Marka idzie do Code (NARZEDZIA pkt 3).
+- Artykuł z datą 17.09 zostaje (decyzja Marka „artykuł ok"). Przypominajka
+  o Empiku i skille — Marek wgrał. Paczka `klocki-ceny-empik.skill` zmieniona
+  (trasa przez skrypt) — do wgrania przy okazji, treść informacyjna.
+- Dokumenty do stanu faktycznego: RUNBOOK („Mapa plików danych" 16.09, „Ceny
+  Empik", „Stabilność JSON" rozwiązane, „karta ≠ podstrona" rozwiązane, nowa
+  sekcja o sicie ofert, zabezpieczenie w regule 3 statusów), NARZEDZIA (kto
+  startuje świeżą sesją, budżet Firecrawla przy tygodniowym listingu, pkt 3),
+  `zadania-cykliczne.md` (tabele „Co zapisuje" i „Zmiana czasu" — pełna lista),
+  `scripts/README.md`, `_meta` feedu.
+
+**Otwarte (czekają na Marka):** B3 — konwencja zamykania zadań bez właściciela;
+B5 — ustalenie trwałe „decyzja o runnerze = zmiana promptu tego samego dnia";
+zmiana promptu Łowcy (delete+create), żeby krok IMPORT EMPIKU wołał
+`empik-import.mjs` zamiast pamięci sesji; B4 — kanał planu tekstów do Piotra.
+
 ## 2026-09-16 14:05 · CODE · Wtorkowy Routine to slot na dane, nie na LEGO — nazwa i generator poprawione
 
 - **Marek przemianował Routine `trig_012JWbmYwHb59sYazo6K9X33`** na „Dane wt 05:30 —

@@ -5,7 +5,7 @@ import { zajawkiArtykulow } from '../../lib/artykuly.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia } from '../../lib/media.js';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku } from '../../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
 import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
 
 // Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
@@ -19,7 +19,7 @@ const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena <
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
 const wpisy = Object.entries(sety)
-  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({ nr, ...s, oferty: filtrujOferty(s.oferty, nr), foto: urlZdjecia(nr, { sety }) }))
   .filter((s) => s.oferty?.length && s.cena_katalogowa);
 
 // dzień danych = najświeższa data ofert (nie zegar builda – build po północy

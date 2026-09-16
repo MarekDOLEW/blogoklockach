@@ -149,17 +149,20 @@ realne momenty tygodnia, a nie porównuje napisów — inaczej `0 6 * * *`
 i `0 6 * * 1` wyglądałyby na rozbieżne, choć w poniedziałki są tą samą minutą.
 Tamta kolizja przez to wisiała niezauważona.
 
-### Co zapisuje każdy runner
+### Co zapisuje każdy runner *(stan 16.09.2026, z promptów)*
 
 | Zadanie | Pliki |
 |---|---|
-| Scout nowości | `sety.json`, `known_sets.json`, `katalog.json` (nazwy, roczniki) |
-| Wycofania | `wycofania.json` |
-| Łowca promocji | `oferty_feed.json`, `ceny_baza.json`, `redirects.json`, `sklepy.json`, `sety.json` (ceny), `src/pages/deale/*.md` |
-| Radar konkurencji | `konkurencja_baza.json` + rekomendacje redakcyjne |
-| Backfill | `katalog.json` → pole `cena_katalogowa` |
-| Kontroler | `materialy/zadania-cykliczne.md` — sekcja między znacznikami HARMONOGRAM (od 14.09.2026); poza tym raport PDF, nie plik w repo |
-| Zdjęcia → R2 | nic w repo — wgrywa pliki do kubełka R2 `tylkoklocki-obrazy` (`scripts/r2-obrazy.mjs`); świeża sesja, bez commitów |
+| Scout nowości (codziennie 05:00) | `sety.json`, `known_sets.json`, `przecieki.json`; sygnały wycofań do `DZIENNIK.md` |
+| Wycofania (pon 06:10) | `wycofania.json` (jedyny autor); adnotacje pod sygnałami Scouta w `DZIENNIK.md` |
+| Radar konkurencji (codziennie 08:00) | `konkurencja_baza.json`; wpis „RADAR · Do zrobienia" w `DZIENNIK.md` |
+| Łowca promocji (codziennie 08:30) | `oferty_feed.json` (klucze `mediaexpert`, `planetaklockow`, `allegro`, `empik` przy zrzucie), `ceny_baza.json`, `redirects.json` (gałęzie `planetaklockow`, `allegro`, `empik` przez `empik-redirects.mjs`), `sety.json` (oferty), `obrazy.json`, `src/pages/deale/*.md` |
+| Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
+| Kontroler (pon 09:00) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md`, `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika |
+| Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
+| Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
+| Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
+| Backfill (wyłączony) | `katalog.json` → `cena_katalogowa` |
 
 ### Uwagi do odczytu
 
@@ -192,14 +195,16 @@ Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
 
 | Zadanie | Dziś (CEST) | Po 25.10 (CET) |
 |---|---|---|
-| Zdjęcia → R2 | 04:00 | 03:00 |
-| Przypomnienie: Empik | pon 07:00 | pon 06:00 |
+| Zdjęcia → R2 | 04:30 | 03:30 |
 | Scout nowości | 05:00 | 04:00 |
+| Dane wt (LEGO.pl + Ceneo + Smyk) | wt 05:30 | wt 04:30 |
 | Wycofania | pon 06:10 | pon 05:10 |
 | Angielski | pon 07:00 | pon 06:00 |
 | Radar konkurencji | 08:00 | 07:00 |
-| Łowca promocji | 08:30 | 07:30 |
+| Przypomnienie: Empik | pon 08:15 | pon 07:15 |
+| Łowca promocji | 08:30 | **07:30 — do przestawienia na cron `30 7`** |
 | Kontroler | pon 09:00 | pon 08:00 |
+| Alerty cen | 09:30 | 08:30 (po Łowcy — kolejność musi zostać) |
 | inwestycja IV kwartał | pon 10:00 | pon 09:00 |
 | Herzfaden | śr 11:00 | śr 10:00 |
 

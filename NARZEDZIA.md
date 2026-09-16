@@ -111,8 +111,9 @@ zdublowana praca na plikach po 2 MB.
 ## Runnery cykliczne należą do Claude Code
 
 Scout, Wycofania, Łowca, Radar i Backfill działają jako trwałe sesje Claude
-Code Remote (`persist_session: true`); Kontroler i Social startują świeżą sesją
-przy każdym odpaleniu. Wszystkie pushują do repo. Rozróżnienie ma znaczenie
+Code Remote (`persist_session: true`); Kontroler, Zdjęcia → R2, Przypomnienie
+o Empiku, „Dane wt 05:30" i Alerty cen startują świeżą sesją przy każdym
+odpaleniu (Social skasowany 15.09.2026). Wszystkie pushują do repo. Rozróżnienie ma znaczenie
 praktyczne: promptu trwałej sesji nie zmienia się przez `update_trigger`
 (patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie").
 
@@ -267,14 +268,12 @@ gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
 2. **Arkusze do weryfikacji** (xlsx z odznaczeniami, listy do sprawdzenia)
    → **Code**, załącznik. Odsyłasz ten sam plik z dopiskami.
 
-3. **Zrzut cen Empiku** (`lego-empik.json`) → **do sesji Łowcy Promocji**,
-   nie do Code. Powód jest konkretny: reguły importu (filtry anty-gadżetowe,
-   próg sanity 40% ceny katalogowej, aktualizacja `oferty_feed.json`) istnieją
-   **wyłącznie jako tekst w promptcie Łowcy** — nie ma ich w żadnym skrypcie.
-   Wrzucenie pliku do Code znaczyłoby, że Code odtwarza te reguły z pamięci,
-   a to jest dokładnie ten rodzaj rozjazdu, którego unikamy.
-   *Do zrobienia kiedyś: przenieść import do skryptu, wtedy punkt 3 zmieni się
-   w „Code, jak wszystko inne".*
+3. **Zrzut cen Empiku** (`lego-empik.json`) → **Code, załącznik** — jak
+   wszystko inne. Od 16.09.2026 reguły importu są w `scripts/empik-import.mjs`
+   (do tego dnia żyły wyłącznie w pamięci trwałej sesji Łowcy, bez pokrycia
+   w prompcie — audyt końcowy, pkt 2.2). Code uruchamia `empik-import.mjs`
+   i `empik-redirects.mjs --usun-martwe`, buduje, pushuje. Plik wrzucony do
+   sesji Łowcy też zadziała — z notką „uruchom `node scripts/empik-import.mjs`".
 
 4. **Paczka `.skill`** (`skille/*.skill` po `node scripts/spakuj-skille.mjs`)
    → **claude.ai → Settings → Skills**. Nie da się inaczej: synchronizacja idzie
@@ -319,8 +318,10 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 ekstrakcja modelem 5 — dlatego `firecrawl-legopl.mjs` używa parsera markdownu,
 nie ekstrakcji.
 
-- **Odświeżenie katalogu lego.pl** — kilkadziesiąt stron, raz na kwartał:
-  mieści się swobodnie.
+- **Odświeżenie katalogu lego.pl** — 57 stron listingu, **co tydzień**
+  (Routine „Dane wt 05:30", od 15.09.2026): ~75 kredytów na przebieg, ~300
+  miesięcznie. Do tego `lego-strony.mjs` (1 kredyt na zestaw, partie po kilkadziesiąt)
+  i `opisy-legopl.mjs` na żądanie. Mieści się, ale bez zapasu na drugi taki zaciąg.
 - **Zrzut Empiku** — skill przechodzi ~200 stron **dwa razy** (rosnąco
   i malejąco, bo przy jednym kierunku Empik gubi produkty), czyli **~400
   kredytów na przebieg**. Tygodniowo to ~1700 miesięcznie i budżet nie
@@ -329,10 +330,11 @@ nie ekstrakcji.
   z jednej strony wyników) — bariera jest wyłącznie kosztowa. Zostaje więc drogą
   awaryjną dla pojedynczych zestawów, nie zamiennikiem zrzutu.
 
-Czego Firecrawl **nie** dostarczył, mimo że tak planowaliśmy: ani jednej ceny
-katalogowej do `katalog.json`. Pokrycie RRP (1136 z 1172 naszych podstron)
-pochodzi z importu bazy RK. Jedyny zmierzony wkład to 741 kanonicznych adresów
-lego.com z 14.09.
+Co Firecrawl realnie dostarczył (stan 16.09.2026): 960 kanonicznych adresów
+kart lego.com (`redirects.lego`), 949 cen LEGO.com z datą (`oferty.lego`),
+147 nowych cen katalogowych 15.09 (`wczytaj-rrp.mjs` z listingu; wcześniejsze
+pokrycie RRP pochodzi z importu bazy RK), 166 opisów producenta jako materiał
+do researchu, statusy „karta istnieje / nie istnieje" dla zestawów po EOL.
 
 ## Harmonogram: generowany, nie pisany
 

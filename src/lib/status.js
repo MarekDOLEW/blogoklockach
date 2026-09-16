@@ -41,17 +41,37 @@ export const ETYKIETY_WYCOFANIA = {
   brakWLego: 'brak w lego.pl',
 };
 
-/** EOL potwierdzony: wpis „wycofany" na liście wycofań (kuratorowanej, ze źródłem). */
-export function eolPotwierdzony(nr) {
-  const w = wycofanieSetu(nr);
-  return Boolean(w && w.kiedy === 'wycofany');
+// Listing lego.pl jest arbitrem tego, czy LEGO sprzedaje (RUNBOOK „Statusy",
+// pkt 3). Wpis „wycofany" o zestawie widzianym na listingu w ostatnich 14 dniach
+// jest błędny i strona go NIE respektuje — 16.09.2026 cztery ekskluzywy (10335,
+// 10356, 40516, 40797) stały jako „wycofany (EOL)" z ukrytym jedynym linkiem
+// zakupowym, choć listing pokazał je dzień wcześniej z ceną. Runner Wycofań
+// poprawia dane w poniedziałek; ta reguła chroni stronę przez resztę tygodnia.
+export const DNI_LISTINGU = 14;
+const TERMIN_ZAMIAST_WYCOFANY = 'wkrótce (ostatnie sztuki w LEGO)';
+
+/** Czy listing lego.pl pokazał zestaw w ostatnich `dni` dniach (pole `lego_pl_widziano`). */
+export function widzianyNaListingu(nr, dni = DNI_LISTINGU) {
+  const widziano = wpisKatalogu(nr)?.lego_pl_widziano;
+  if (!widziano) return false;
+  const ms = Date.parse(widziano);
+  return !Number.isNaN(ms) && (Date.now() - ms) / 864e5 <= dni;
 }
 
-/** Wpis z listy wycofań, o ile nie został odwołany. */
+/** Wpis z listy wycofań, o ile nie został odwołany; „wycofany" wbrew listingowi
+ *  zamienia się w termin (LEGO wciąż sprzedaje). */
 const wpisAktywny = (nr) => {
   const w = wycofanieSetu(nr);
-  return w && w.kiedy !== 'odwołane' ? w : null;
+  if (!w || w.kiedy === 'odwołane') return null;
+  if (w.kiedy === 'wycofany' && widzianyNaListingu(nr)) return { ...w, kiedy: TERMIN_ZAMIAST_WYCOFANY, status: 'potwierdzone' };
+  return w;
 };
+
+/** EOL potwierdzony: wpis „wycofany" na liście wycofań (kuratorowanej, ze źródłem),
+ *  niepodważony przez listing lego.pl. */
+export function eolPotwierdzony(nr) {
+  return wpisAktywny(nr)?.kiedy === 'wycofany';
+}
 
 /** Czy LEGO zakończyło sprzedaż zestawu (EOL na lego.com). */
 export function eolWLego(nr) {

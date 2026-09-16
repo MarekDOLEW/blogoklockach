@@ -38,6 +38,7 @@ const czytaj = (p) => JSON.parse(readFileSync(sciezka(p)));
 const katalog = czytaj('katalog.json');
 const cenyBaza = czytaj('ceny_baza.json');
 const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
+const dealePotwierdzone = JSON.parse(readFileSync(new URL('../src/data/deale_potwierdzone.json', import.meta.url)));
 const sety = czytaj('sety.json');
 
 const naprawiaj = process.argv.includes('--napraw');
@@ -110,7 +111,12 @@ for (const w of wpisy) {
 }
 console.log(`\nTest rynkowy (rynek < 50% ceny katalogowej): ${rynkowe.length} setów`);
 for (const r of rynkowe.slice(0, 30)) {
-  const potw = zweryfikowana(r.numer) !== null ? 'RRP potwierdzone → podejrzany rynek' : 'RRP niepotwierdzone → sprawdź cenę katalogową';
+  const potwDeal = dealePotwierdzone.potwierdzone?.[r.numer];
+  const potw = zweryfikowana(r.numer) === null
+    ? 'RRP niepotwierdzone → sprawdź cenę katalogową'
+    : potwDeal && r.rynek >= potwDeal.cena - 0.01
+      ? `RRP potwierdzone, oferta sprawdzona przez człowieka ${potwDeal.data} (${potwDeal.kto}) → na stronie`
+      : 'RRP potwierdzone → podejrzany rynek, UKRYTA na stronie do potwierdzenia w deale_potwierdzone.json';
   console.log(`  ${r.numer.padEnd(8)} katalog ${String(r.cena_katalogowa).padStart(8)} | rynek ${String(r.rynek).padStart(8)}  (${potw})`);
 }
 

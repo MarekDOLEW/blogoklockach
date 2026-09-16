@@ -312,11 +312,6 @@
   "dla_afol": "Blisko tegorocznego dołka (619,99 zł z 3.08). Set z 2022 – każdy kwartał przybliża go do EOL. Przy 659 zł z darmową dostawą: brać.",
   "oferty": [
    {
-    "sklep": "klocekplus",
-    "cena": 750,
-    "data": "2026-08-12"
-   },
-   {
     "sklep": "lego",
     "cena": 869.99,
     "data": "2026-09-15"
@@ -325,11 +320,6 @@
     "sklep": "mediaexpert",
     "cena": 849.99,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "proshop",
-    "cena": 719,
-    "data": "2026-08-12"
    },
    {
     "sklep": "smyk",
@@ -355,19 +345,9 @@
   "dla_afol": "0,30 zł/klocek przy obecnej cenie wygląda nieźle, ale uczciwie: w grudniu 2025 bywał za 1390 zł. Obecne −14% to nie okazja – cierpliwość popłaca.",
   "oferty": [
    {
-    "sklep": "brixani",
-    "cena": 1849.99,
-    "data": "2026-08-12"
-   },
-   {
     "sklep": "lego",
     "cena": 2149.99,
     "data": "2026-09-15"
-   },
-   {
-    "sklep": "rozetka",
-    "cena": 1899,
-    "data": "2026-08-12"
    }
   ],
   "ekskluzyw": true
@@ -397,16 +377,6 @@
     "sklep": "mediaexpert",
     "cena": 799.99,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "rozetka",
-    "cena": 729,
-    "data": "2026-08-12"
-   },
-   {
-    "sklep": "sferis",
-    "cena": 739,
-    "data": "2026-08-12"
    }
   ],
   "zdjecia": {
@@ -430,21 +400,6 @@
     "sklep": "allegro",
     "cena": 1679,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "bricksberg",
-    "cena": 1419.9,
-    "data": "2026-08-12"
-   },
-   {
-    "sklep": "brixani",
-    "cena": 1449.99,
-    "data": "2026-08-12"
-   },
-   {
-    "sklep": "rozetka",
-    "cena": 1349,
-    "data": "2026-08-12"
    }
   ]
  },
@@ -6161,11 +6116,6 @@
     "data": "2026-09-15"
    },
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 149.99,
     "data": "2026-09-16"
@@ -8855,11 +8805,6 @@
     "sklep": "allegro",
     "cena": 468.89,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-15"
    }
   ]
  },
@@ -8878,11 +8823,6 @@
     "sklep": "allegro",
     "cena": 399.98,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-15"
    }
   ]
  },
@@ -8901,11 +8841,6 @@
     "sklep": "allegro",
     "cena": 209.99,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "amazon",
-    "cena": 66.76,
-    "data": "2026-08-15"
    },
    {
     "sklep": "empik",
@@ -8951,11 +8886,6 @@
     "data": "2026-09-15"
    },
    {
-    "sklep": "lego",
-    "cena": 16.49,
-    "data": "2026-08-15"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 16.99,
     "data": "2026-09-16"
@@ -8983,11 +8913,6 @@
   "dla_rodzica": "Najtańsza pozycja sierpniowej fali Pokémon i dobry sposób, żeby dołożyć coś małego do prezentu. Wiek 6+, więc nadaje się nawet dla przedszkolaka.",
   "dla_afol": "0,29 zł/klocek – najlepszy wynik wśród sierpniowych drobiazgów Pokémon, a w sklepach zewnętrznych schodzi już do 12,27 zł. Uwaga: cena katalogowa PL nie jest jeszcze potwierdzona na LEGO.com (podajemy stawkę bliźniaczego 30729).",
   "oferty": [
-   {
-    "sklep": "dadada",
-    "cena": 12.27,
-    "data": "2026-08-15"
-   },
    {
     "sklep": "empik",
     "cena": 17.99,
@@ -9063,11 +8988,6 @@
     "sklep": "lego",
     "cena": 169.99,
     "data": "2026-09-15"
-   },
-   {
-    "sklep": "proshop",
-    "cena": 179,
-    "data": "2026-08-16"
    }
   ]
  },
@@ -9106,11 +9026,6 @@
     "sklep": "planetaklockow",
     "cena": 134.99,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "proshop",
-    "cena": 159,
-    "data": "2026-08-16"
    }
   ]
  },
@@ -9149,11 +9064,6 @@
     "sklep": "planetaklockow",
     "cena": 104.99,
     "data": "2026-09-16"
-   },
-   {
-    "sklep": "proshop",
-    "cena": 129,
-    "data": "2026-08-16"
    }
   ]
  },

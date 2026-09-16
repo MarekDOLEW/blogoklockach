@@ -37,7 +37,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import karty from '../data/karty_setow.json';
 import cenyBaza from '../data/ceny_baza.json';
 import { wycofanieSetu } from './huby.js';
-import { polaczOferty } from './oferty.js';
+import { polaczOferty, filtrujOferty } from './oferty.js';
 import { wycofanyZProdukcji } from './status.js';
 import { premieraSetu } from './premiery.js';
 import { tekstyOZestawie, wPrezentowniku } from './teksty.js';
@@ -81,10 +81,11 @@ export { wycofanyZProdukcji };
 export function goracyDeal(nr) {
   const klucz = String(nr);
   const s = sety[klucz];
-  if (!s?.oferty?.length || !s.cena_katalogowa) return false;
-  const najlepsza = Math.min(...s.oferty.map((o) => o.cena));
+  const oferty = filtrujOferty(s?.oferty ?? [], klucz);
+  if (!oferty.length || !s.cena_katalogowa) return false;
+  const najlepsza = Math.min(...oferty.map((o) => o.cena));
   const rabat = Math.round((1 - najlepsza / s.cena_katalogowa) * 100);
-  const dzien = s.oferty.map((o) => o.data ?? '').reduce((a, b) => (b > a ? b : a), '');
+  const dzien = oferty.map((o) => o.data ?? '').reduce((a, b) => (b > a ? b : a), '');
   const noweMinimum =
     cenyBaza[klucz]?.najnizsza_data === dzien && cenyBaza[klucz]?.najnizsza_cena === najlepsza;
   return rabat >= 30 || (noweMinimum && rabat >= 15);

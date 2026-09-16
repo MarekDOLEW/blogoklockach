@@ -100,22 +100,19 @@ mediana ~220 zł.
    zgadza (najczęściej: Empik zmienił układ listingu i selektor łapie
    nie te elementy).
 
-6. **Przekaż plik do sesji „Łowca Promocji"** (wgraj `lego-empik.json`
-   w jej czacie). Notka ma brzmieć:
+6. **Przekaż plik do Code** (załącznik w rozmowie Claude Code z repo) albo do
+   sesji „Łowca Promocji" z notką:
 
-   > zrzut Empiku z RRRR-MM-DD — do importu. Plik ma nowe pole `url`
-   > (adres karty produktu). Po imporcie cen uruchom też
-   > `node scripts/empik-redirects.mjs <plik> --usun-martwe` — wgrywa
-   > deeplinki produktowe do `redirects.json`.
+   > zrzut Empiku z RRRR-MM-DD — do importu: `node scripts/empik-import.mjs
+   > lego-empik.json --sucho`, potem bez `--sucho`, potem
+   > `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe`,
+   > build i push.
 
-   Ten drugi krok trzeba napisać wprost, bo prompt Łowcy go nie zawiera:
-   import Empiku odbywa się poza jego stałą instrukcją, a skrypt linków
-   powstał dopiero 14.09.2026.
-
-   Import cen po stronie Łowcy jest ustalony: filtry anty-gadżetowe, próg
-   sanity 40% ceny katalogowej, aktualizacja `oferty_feed.json` (klucz
-   `empik`) i minimów w `ceny_baza.json`, commit i push. **Nie rób tego
-   importu samodzielnie** — rozjedziesz się z jego regułami wykluczeń.
+   Reguły importu (filtry gadżetów, numer 4–7 cyfr, konflikt numeru z nazwą,
+   próg sanity 40% ceny katalogowej, świeżość nadrzędna, `daty.empik` z pola
+   `meta.scrapedAt`) są **w skrypcie** `scripts/empik-import.mjs` — od
+   16.09.2026 nie zależą od pamięci żadnej sesji. **Nie rób importu
+   ręcznie** — rozjedziesz się z regułami skryptu.
 
 ## Czego NIE robić
 
@@ -123,8 +120,8 @@ mediana ~220 zł.
   sklepu, nie cena katalogowa LEGO. Rabaty w serwisie liczy się wyłącznie
   od RRP z `ceny_baza.json` i robi to import Łowcy.
 - **Nie filtruj gadżetów** (breloki, gablotki, pościel…) — celowo robi to
-  import po stronie Łowcy, żeby jedna lista wykluczeń obowiązywała dla
-  wszystkich sklepów. Twój plik ma być surowym zrzutem.
+  `scripts/empik-import.mjs`, żeby jedna lista wykluczeń obowiązywała dla
+  wszystkich zrzutów. Twój plik ma być surowym zrzutem.
 - **Nie zmieniaj schematu pliku** ani nazw pól — import się na nim opiera.
 - **Nie scrapuj częściej niż raz w tygodniu** i nie równolegle z innym
   zadaniem korzystającym z przeglądarki użytkownika.

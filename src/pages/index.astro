@@ -8,7 +8,7 @@ import cenyBaza from '../data/ceny_baza.json';
 import { urlZdjecia } from '../lib/media.js';
 import { zajawkaArtykulu, zajawkaZMeta } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu } from '../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
 
@@ -21,7 +21,7 @@ const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100
 const KOLEKCJONERSKIE = new Set(['Ideas', 'Icons', 'Star Wars', 'Technic', 'Harry Potter', 'Botanicals']);
 
 const wpisy = Object.entries(sety)
-  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({ nr, ...s, oferty: filtrujOferty(s.oferty, nr), foto: urlZdjecia(nr, { sety }) }))
   .filter((s) => s.oferty?.length);
 
 // ── Deale dnia (slajder, do 5 odsłon): po jednym z każdej półki cenowej + 2 dzikie karty ──

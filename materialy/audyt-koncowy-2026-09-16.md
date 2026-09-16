@@ -2,7 +2,7 @@
 
 *Zakres: zadania cykliczne i odpowiedzialność, komunikacja automat ↔ człowiek, aktualność cen / linków / zdjęć / opisów, linkowanie wewnętrzne i zewnętrzne, rzetelność wobec czytelnika, spójność dokumentów z narzędziami. Każdy punkt ma źródło (plik, skrypt, wywołanie), z którego wynika. Nic nie jest pisane z pamięci; gdzie sprawdzić się nie dało, jest napisane „nie sprawdzono".*
 
-**Werdykt: serwis nie jest dziś w 100% poprawny.** Mechanika (build, linki, przekierowania, obrazy, sitemapy, runnery) jest sprawna — zero martwych linków, wszystkie trasy sklepowe działają, cztery poranne runnery przeszły. Błędy leżą w warstwie **danych i procedur**: cztery ekskluzywy pokazane jako wycofane, choć lego.pl je sprzedaje; 17 przeterminowanych ofert z sierpnia z przyciskami prowadzącymi na strony główne sklepów; trzy „gorące deale" z ceną poniżej połowy katalogu, których nikt nie zweryfikował; artykuł datowany na jutro. Do tego skill Coworka jest o jedną decyzję do tyłu, a poniedziałkowa przypominajka wysyła Markowi nieprawdziwe zdanie. Poniżej wszystko punkt po punkcie, najpierw to, co dotyka czytelnika.
+**Werdykt: serwis nie jest dziś w 100% poprawny.** Mechanika (build, linki, przekierowania, obrazy, sitemapy, runnery) jest sprawna — zero martwych linków, wszystkie trasy sklepowe działają, cztery poranne runnery przeszły. Błędy leżą w warstwie **danych i procedur**: cztery ekskluzywy pokazane jako wycofane, choć lego.pl je sprzedaje; 18 przeterminowanych ofert z sierpnia z przyciskami prowadzącymi na strony główne sklepów; trzy „gorące deale" z ceną poniżej połowy katalogu, których nikt nie zweryfikował; artykuł datowany na jutro. Do tego skill Coworka jest o jedną decyzję do tyłu, a poniedziałkowa przypominajka wysyła Markowi nieprawdziwe zdanie. Poniżej wszystko punkt po punkcie, najpierw to, co dotyka czytelnika.
 
 ---
 
@@ -18,12 +18,12 @@ Zestawy: **10335 Endurance** (1 149,99 zł), **10356 U.S.S. Enterprise** (1 649,
 - Skutek: dla zestawu ekskluzywnego LEGO.com jest **jedynym** sklepem — ukrywamy jedyny link zakupowy i mówimy nieprawdę o dostępności. Reguła z RUNBOOK („Statusy", pkt 3: listing lego.pl jest arbitrem; wpis „wycofany" przy zestawie widzianym w ostatnich 14 dniach jest błędny) istnieje od 15.09, ale wykona ją dopiero runner Wycofań w poniedziałek 21.09 — do tego czasu błąd stoi na stronie.
 - Trzy dalsze konflikty (sekcja B audytu): 10280, 42211, 40647 — katalog `eol`, lista podaje przyszły termin; kto ma rację, nie sprawdzono.
 
-**1.2. Siedemnaście ofert z sierpnia wyświetlanych jako aktualne, z przyciskami na strony główne sklepów.**
-- `sety.json` trzyma 14 ofert z 12–16.08 ze sklepów bez feedu: klocekplus, proshop (4), brixani (2), rozetka (3), sferis, bricksberg, dadada, amazon — plus 3 oferty LEGO.com z 13–15.08 (30729, 40896, 42697) dla zestawów, których listing lego.pl 15.09 **nie pokazał** (`lego_pl_widziano` puste).
+**1.2. Osiemnaście ofert z sierpnia wyświetlanych jako aktualne, z przyciskami na strony główne sklepów.**
+- `sety.json` trzyma 14 ofert z 12–16.08 ze sklepów bez feedu: klocekplus, proshop (4), brixani (2), rozetka (3), sferis, bricksberg, dadada, amazon — plus 4 oferty LEGO.com z 13–15.08 (30729, 40887, 40896, 42697) dla zestawów, których listing lego.pl 15.09 **nie pokazał** (`lego_pl_widziano` puste).
 - `src/lib/oferty.js` → `polaczOferty()` nie filtruje po wieku oferty; tabela pokazuje datę („z 12.08.2026"), ale wiersz ma normalny przycisk „Sprawdź w sklepie".
 - `sklepy.json`: szablony `szukaj` dla proshop, sferis i dadada to **strona główna sklepu** (bez `{nr}`) — sprawdzone na produkcji: `/idz/proshop/42698` → `https://www.proshop.pl/`, `/idz/sferis/10318` → `https://sferis.pl/`, `/idz/dadada/30730` → `https://dadada.pl/`.
 - Przykład: hub 10316 Rivendell pokazuje Rozetkę 1 899 zł i brixani 1 849,99 zł „z 12.08.2026" (`dist/zestaw/10316/`); hub 30729 pokazuje LEGO.com 16,49 zł „z 15.08.2026" z przyciskiem.
-- Skala: 17 wierszy w serwisie, 8 + 3 + 2 + … linków `/idz/` w buildzie (proshop 8, rozetka 3, amazon 2, xkom 2, brixani 2, klocekplus 1, sferis 1, bricksberg 1, dadada 1).
+- Skala: 18 wierszy w serwisie (przy liczeniu ręcznym w pierwszej wersji raportu: 17 — skrypt policzył 18, bo 40887 też miał ofertę LEGO.com z 15.08), 8 + 3 + 2 + … linków `/idz/` w buildzie (proshop 8, rozetka 3, amazon 2, xkom 2, brixani 2, klocekplus 1, sferis 1, bricksberg 1, dadada 1).
 
 **1.3. Trzy „gorące deale" z ceną poniżej 50% potwierdzonej ceny katalogowej — niezweryfikowane.**
 - `scripts/kontrola-rrp.mjs`, „Test rynkowy": 60339 (katalog 699,99 / rynek 349), 10423 (234,99 / 109), 76156 (479,99 / 229) — wszystkie z RRP potwierdzonym w `rrp_potwierdzone.json`, więc skrypt klasyfikuje je jako „podejrzany rynek".
@@ -151,3 +151,17 @@ Każdy sklep z ofertą przekierowuje `302` na poprawny cel afiliacyjny: Allegro 
 - Modele sesji runnerów („Modele" w zadaniach cyklicznych).
 - Liczba zindeksowanych stron w panelu GSC po 4.09.
 - Poprawność wizualna na urządzeniach (bez przeglądarki w kontenerze — struktura HTML i CSS tak, render nie).
+
+
+---
+
+## 8. Uzupełnienie po decyzjach Marka (16.09, po południu)
+
+- 1.1 — **naprawione**: cztery wpisy przestawione na „grudzień 2026" (Marek: ostatnie sztuki, ale w sprzedaży), zabezpieczenie w `status.js`; `audyt-wycofan.mjs` A = 0; hub 10356 pokazuje wiersz LEGO.com z linkiem i „znika grudzień 2026 – termin potwierdzony przez LEGO".
+- 1.2 — **naprawione**: 18 ofert usuniętych, szablony bez `{nr}` wycięte, sito wieku 14 dni (`filtrujOferty`); w buildzie 0 linków `/idz/` do proshop/rozetka/brixani/sferis/dadada/klocekplus/bricksberg (został 1 link `/idz/amazon/21372` wpisany ręcznie w poście dealowym — wyszukiwarka Amazon, bez afiliacji).
+- 1.3 — **rozstrzygnięte**: Marek potwierdził trzy deale; `deale_potwierdzone.json` + reguła „podejrzany rynek" w sicie; przyszłe takie oferty są ukryte do sprawdzenia.
+- 1.4 — decyzja Marka: artykuł zostaje z datą 17.09.
+- 1.5, 5.1 — Marek wgrał prompt i skille.
+- 2.2 — **naprawione**: `scripts/empik-import.mjs`.
+- 5.2–5.5 — **naprawione** (RUNBOOK, NARZEDZIA, zadania-cykliczne, README, `_meta` feedu).
+- Otwarte: 2.3 (nagłówek sygnałów Scouta — czeka na delete+create Wycofań/Kontrolera), 2.4 (konwencja zamykania zadań, plan do Piotra, ustalenie trwałe), 3.6 (131 obrazów Rebrickable), 2.5 (zmiana czasu 25.10).

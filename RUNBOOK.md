@@ -44,27 +44,35 @@ Który plik co zasila na stronie. Kolumna „co zasila" jest tu jedynym takim
 zestawieniem w całym repo — przed zmianą formatu któregokolwiek z tych plików
 sprawdź, co się posypie.
 
-Kolumna „kto zapisuje" odzwierciedla realną konfigurację triggerów
-(stan 23.08.2026) — przy rozbieżności rozstrzyga
+Kolumna „kto zapisuje" odzwierciedla realną konfigurację Routines
+(stan 16.09.2026, po audycie końcowym) — przy rozbieżności rozstrzyga
 `materialy/zadania-cykliczne.md`.
 
 | Plik w `src/data/` | Kto zapisuje | Co zasila na stronie |
 |---|---|---|
-| `sety.json` | Scout 05:00 (nowe sety) + Łowca 08:30 (ceny, oferty, zdjęcia) | `/nowosci/`, podstrony `/zestaw/{nr}/`, sekcja „Śledzone" na stronach serii |
-| `wycofania.json` | Wycofania 06:00 | `/wycofania/` — lista, filtr, FAQ |
-| `katalog.json` | Scout 05:00 (nazwy, roczniki) + Backfill (pole `cena_katalogowa`, **wyłączony od 29.08**) + sesje ad hoc (dokładanie serii) | katalogi historyczne na `/serie/{seria}/` + kafelki na `/serie/` |
-| `redirects.json` | Łowca 08:30 (linki z feedu) + sesje ad hoc | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków sklepowych |
-| `sklepy.json` | Łowca 08:30 (nowe sklepy) | nazwy sklepów w tabelach cen |
-| `oferty_feed.json` | Łowca 08:30 | ceny i oferty w tabelach na podstronach zestawów |
-| `ceny_baza.json` | Łowca 08:30 | historia cen, drabina cenowa |
-| `known_sets.json` | Scout 05:00 | nic — stan runnera, nie zasila strony |
-| `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera, nie zasila strony |
-| `obrazy.json` | `scripts/generuj-obrazy.mjs` w prebuild | zdjęcia zestawów |
-| `src/pages/deale/*.md` | Łowca (posty dealowe przy wyjątkowych okazjach) | dział `/deale/` — sekcja „Okazje pod lupą” |
+| `sety.json` | Scout 05:00 (nowe sety) + Łowca 08:30 (ceny ME/PK/Allegro, import Empiku) + Dane wt 05:30 (oferta `lego`, `smyk`) | `/nowosci/`, huby `/zestaw/{nr}/`, „Śledzone" na stronach serii, deale |
+| `oferty_feed.json` | Łowca 08:30 (`mediaexpert`, `planetaklockow`, `allegro`; `empik` przy zrzucie) + Dane wt 05:30 (`lego`, `ceneo`, `smyk`) — każdy sklep z własną datą w `daty` | ceny i oferty w tabelach hubów, miniatury katalogów serii |
+| `ceny_baza.json` | Łowca 08:30 (minima), importy sklepów | historia cen, drabina cenowa, badge „nowe minimum" |
+| `redirects.json` | Łowca (`planetaklockow`, `allegro`), Dane wt (`lego`, `ceneo`), `empik-redirects.mjs` (`empik`, jedyny klucz z kasowaniem), sesje (`mediaexpert`, `smyk`) | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków |
+| `sklepy.json` | ręcznie (sesja) | nazwy sklepów, szablony `szukaj` workera (muszą mieć `{nr}`) |
+| `katalog.json` | Dane wt 05:30 (`status`, `ekskluzyw`, `lego_pl_widziano` z listingu lego.pl) + `katalog-z-rebrickable.mjs` + sesje (serie, nazwy) | huby dla każdego numeru (nigdy 404), katalogi serii, `/ekskluzywne/` |
+| `wycofania.json` | Wycofania, poniedziałek 06:10 (jedyny autor) | `/wycofania/`, etykiety statusu na hubach i listingach |
+| `przecieki.json` | Scout 05:00 (jedyny autor) | `/przecieki/` |
+| `known_sets.json` | Scout 05:00 | nic — stan runnera |
+| `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera |
+| `karty_setow.json` | `import-karty.py` z paczek Piotra (sesja) | opis, metryka i FAQ na hubie; wyjątek indeksowalności „karta" |
+| `rrp_potwierdzone.json` | `wczytaj-rrp.mjs` (Dane wt z listingu lego.pl; sesje) — write-once | cena katalogowa o najwyższym pierwszeństwie, rabaty, odsiew |
+| `deale_potwierdzone.json` | ręcznie po sprawdzeniu w sklepie (od 16.09.2026) | odblokowanie oferty poniżej 50% potwierdzonego RRP |
+| `lego_strony_brak.json` | `lego-strony.mjs` (sesja) | czy hub po EOL ma jeszcze link do karty lego.pl |
+| `obrazy.json` | `generuj-obrazy.mjs` w prebuild (także Łowca i Dane wt przed commitem) | zdjęcia zestawów przez `/img/` |
+| `galerie.json`, `zdjecia.json` | sesje (galerie do tekstów; zdjęcia ze źródeł) | slajdery i miniatury; R2 dogrywa Routine „Zdjęcia → R2" |
+| `opisy.json`, `ean.json`, `feedy.json` | sesje ad hoc | opisy serii, kody EAN, adresy feedów dla `feedy-lego.py` |
+| `kategorie_artykulow.json` | ręcznie (decyzja) | zamknięta lista kategorii; walidacja w prebuild |
+| `src/pages/deale/*.md` | Łowca (posty dealowe wg reguły z 15.09) | dział `/deale/` |
 | `afiliacje_rejestr.json` | ręcznie | nic — dokumentacja |
 | `raporty_mail.json` | ręcznie | odbiorcy raportów PDF |
 
-Trzy ostatnie pozycje w kolumnie „co zasila" to celowe „nic" — te pliki są
+Pozycje z „nic" w kolumnie „co zasila" to celowe „nic" — te pliki są
 dokumentacją albo stanem runnerów. Warto o tym wiedzieć, zanim ktoś uzna je
 za martwe i skasuje.
 
@@ -345,21 +353,20 @@ commita, nie czas triggera.
 
 ---
 
-## Stabilność formatu plików JSON *(do naprawy)*
+## Stabilność formatu plików JSON *(rozwiązane 15–16.09.2026)*
 
-Scout przepisuje `known_sets.json` w całości (219 zmienionych linii przy
-80 dodanych w `sety.json`). Łowca przepisuje całą gałąź Allegro
-w `redirects.json` — 2 646 zmienionych linii przy każdym przebiegu.
+Problem z 23.08 (Łowca przepisywał całą gałąź Allegro, Scout cały
+`known_sets.json`, a skrypt z Node zmieniał kolejność kluczy numerycznych)
+jest domknięty trzema rzeczami:
 
-Diagnoza: **serializacja JSON nie jest deterministyczna** — kolejność kluczy
-lub formatowanie zmieniają się między przebiegami, więc git widzi zmianę tam,
-gdzie danych nie ruszono.
+- `scripts/json-kolejnosc.mjs` — wspólny zapis `sety.json`, `oferty_feed.json`
+  i map z numerami jako kluczami: kolejność z pliku, wcięcie z pliku, nowe
+  klucze na końcu. Używają go `lego-ceny`, `ceneo-feed`, `smyk-odswiez`,
+  `empik-import`, `oferty-przeterminowane`.
+- stała kolejność ofert w `sety.json` (alfabetycznie po sklepie, sekcja niżej).
+- Łowca zapisuje z Pythona z zachowaniem kolejności i wcięcia (prompt).
 
-Skutek: codzienne commity po kilka megabajtów, historia repo puchnie bez
-powodu, a prawdziwe zmiany giną w szumie i nie da się ich przejrzeć w diffie.
-
-Kierunek naprawy: sortowanie kluczy, stałe wcięcie, stabilne formatowanie
-liczb — po stronie każdego runnera, który zapisuje JSON.
+Uzupełnienie historyczne o Scoucie zostaje w sekcji Bricksetu niżej.
 
 ---
 
@@ -785,6 +792,13 @@ Reguły (pełny tekst także w `wycofania.json` → `_meta.regula_statusow`):
    (kandydaci) idą do podsumowania dla Marka; wpis „wycofany" o zestawie
    widzianym na listingu w ostatnich 14 dniach runner sam cofa do poprzedniego
    terminu.
+   **Strona nie czeka na runner** (od 16.09.2026, `src/lib/status.js` →
+   `widzianyNaListingu`): wpis „wycofany" o zestawie, który listing lego.pl
+   pokazał w ostatnich 14 dniach, jest na stronie traktowany jak termin
+   „wkrótce (ostatnie sztuki w LEGO)" ze statusem potwierdzonym — hub zachowuje
+   wiersz LEGO.com z linkiem. Powód: 16.09 cztery ekskluzywy (10335, 10356,
+   40516, 40797) stały jako „wycofany (EOL)" z ukrytym jedynym linkiem
+   zakupowym, choć listing pokazał je dzień wcześniej z ceną.
 4. Na stronie lista wycofań ma pierwszeństwo przed statusem katalogu
    (`src/lib/status.js` → `eolWLego`, `statusWycofania`, `statusListingu`).
    Wpis `kiedy: "odwołane"` jest dla strony niewidoczny – zestaw wraca do
@@ -1109,22 +1123,32 @@ opisem a FAQ — pole `metryka` musi być mapą klucz→wartość.
 
 ---
 
-## Ceny Empik (od 29.08.2026, cotygodniowo od 31.08.2026)
+## Ceny Empik *(od 29.08.2026; deeplinki i skrypt importu od 16.09.2026)*
 
-`oferty_feed.json` ma klucz `empik` — ~4400 setów ze zrzutu katalogu
-empik.com. Zrzut robi **cotygodniowe zadanie cykliczne Coworka** (rytm
-poniedziałkowy, skill `klocki-ceny-empik`, lokalna przeglądarka — Empik
-blokuje ruch serwerowy, więc Łowca sam NIE odświeża tych cen); plik
-`lego-empik.json` ląduje w czacie sesji Łowcy, a **import robi Łowca**.
-Filtry przy imporcie: bez gadżetów po nazwie, numer 4–7 cyfr bez zera
-wiodącego, cena ≥40% RRP, konflikt numeru z nazwy rozstrzygany po znanym
-uniwersum numerów (od 31.08 — łapie setNumber wzięty z liczby elementów
-„1016el" i modeli aut „BMW M 1000"), tylko sety już obecne w oferty_feed.
-Sety nieobecne w świeżym zrzucie tracą cenę Empiku (świeżość nadrzędna).
-Linki idą przez szablon `szukaj` (worker `/idz/empik/<nr>`). Ostatni
-zrzut: 31.08.2026 (5376 pozycji → 5027 po filtrach → 4426 wierszy).
-Smyk i lego.pl wciąż na jednorazowych zrzutach z 29.08 — cykliczne
-odświeżanie do ustalenia.
+Empik blokuje ruch serwerowy, więc zrzut katalogu robi Marek lokalną
+przeglądarką (skill `klocki-ceny-empik`, rytm poniedziałkowy — przypomina o tym
+Routine „Przypomnienie: zrzut Empiku"). Plik `lego-empik.json` wchodzi do danych
+**skryptem**, nie z pamięci sesji:
+
+    node scripts/empik-import.mjs lego-empik.json --sucho    # raport, nic nie zapisuje
+    node scripts/empik-import.mjs lego-empik.json            # ceny do feedu, sety.json, ceny_baza
+    node scripts/empik-redirects.mjs lego-empik.json --usun-martwe   # deeplinki kart produktu
+
+Reguły importu są w skrypcie i tylko tam (do 16.09 żyły w pamięci trwałej sesji
+Łowcy — commit `f9b0cef` „415 gadżetów, 54 sanity, 10 konfliktów" nie miał
+pokrycia w żadnym prompcie): numer 4–7 cyfr bez zera wiodącego, konflikt numeru
+z nazwą rozstrzygany po katalogu (Empik wpisuje w `setNumber` liczbę elementów
+„1016el" albo model auta), gadżety po rdzeniach nazwy, próg sanity 40% ceny
+katalogowej, tylko zestawy z hubem, z kilku pozycji najtańsza, zestaw nieobecny
+w zrzucie traci cenę Empiku, `daty.empik` = data zrzutu (`meta.scrapedAt`).
+Zapis przez `json-kolejnosc.mjs`, walidacja liczby wpisów.
+
+Plik wrzucasz **do Code** (jak każdy załącznik) albo do sesji Łowcy z notką
+„uruchom `node scripts/empik-import.mjs lego-empik.json`, potem
+`empik-redirects.mjs --usun-martwe`". Stan 16.09.2026: 3 947 cen ze zrzutu
+z 15.09, 4 480 deeplinków (`redirects.empik`), 13 cen dla numerów spoza
+katalogu (bez huba, nieobsługiwane). Smyk i lego.pl mają własne cotygodniowe
+odświeżenie (sekcje „Smyk" i „lego.pl" w tym pliku).
 
 ---
 
@@ -1207,15 +1231,12 @@ crawla NIGDY — czyli wykrycie już nastąpiło, a robot świadomie nie wchodzi
 Ponowne zgłoszenie listy tego samo nie odwróci; zmienia to jakość treści
 i linkowanie wewnętrzne.
 
-**Pułapka przy zgłaszaniu zestawów: karta ≠ podstrona.** `karty_setow.json`
-ma 445 wpisów, ale `/zestaw/<nr>/` powstaje tylko dla numerów ze zbioru
-`numeryHubow` (`src/lib/huby.js`), który wymaga wpisu w `katalog.json`.
-Na 31.08 **32 karty nie mają podstrony** — mają ceny i linki afiliacyjne, ale
-nie ma ich w katalogu. Dlatego `sitemap-priorytet.xml.js` filtruje zestawy
-przez `maHub`; bez tego zgłaszałaby 32 adresy zwracające 404. Do naprawy
-u źródła: dopuścić kartę jako podstawę huba w `huby.js` i dodać `karta.nazwa`
-do łańcucha fallbacków nazwy w `[nr].astro` (dziś nazwa leci wyłącznie
-z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
+**Karta ≠ podstrona — rozwiązane 15.09.2026.** Do 15.09 hub powstawał tylko
+dla numeru z `katalog.json`, więc karty spoza katalogu (31.08: 32 z 445) nie
+miały strony. Od 15.09 każdy numer z katalogu ma hub, a karty importowane są
+tylko dla numerów z katalogu; 16.09: 1 097 kart, wszystkie z hubem
+(sprawdzone w audycie końcowym). `sitemap-priorytet.xml.js` dalej filtruje
+przez `maHub` — to tania bramka, zostaje.
 
 ## Przecieki — dział osobno od faktów *(od 15.09.2026, decyzja Marka)*
 
@@ -1308,6 +1329,35 @@ dotyczy — `TabelaCen` i `najlepszaOferta()` sortują po cenie same, więc czyt
 dalej widzi najtańszą ofertę na górze. Normalizacja: `node scripts/porzadek-ofert.mjs`
 (`--sucho` pokazuje, ile wpisów wymaga zmiany). Reguła jest w promptcie Łowcy;
 każdy skrypt dopisujący ofertę do `sety.json` ma ją utrzymać.
+
+## Oferty przeterminowane i „podejrzany rynek": sito przy odczycie *(od 16.09.2026)*
+
+`src/lib/oferty.js` → `filtrujOferty()` jest jedynym sitem dla ofert z `sety.json`
+i z feedu; przechodzą przez nie tabela cen huba, meta/JSON-LD, karuzela na
+stronie głównej, `/deale/`, listingi serii i ocena indeksowalności. Dwie reguły,
+obie przy odczycie (dane zostają surowe, jak przy odsiewie podszywek):
+
+1. **Wiek oferty — 14 dni** (`MAX_WIEK_OFERTY_DNI`). Audyt 16.09 znalazł w
+   `sety.json` osiemnaście ofert z 12–16.08 (sklepy bez feedu: proshop, rozetka,
+   brixani, sferis, dadada, klocekplus, bricksberg, amazon; cztery LEGO.com sprzed
+   listingu) z normalnym przyciskiem „Sprawdź w sklepie" — trzy prowadziły na
+   stronę główną sklepu, bo szablon `szukaj` nie miał `{nr}`. Oferty usunięte
+   (`scripts/oferty-przeterminowane.mjs`), szablony bez `{nr}` wycięte ze
+   `sklepy.json`, a sito pilnuje, żeby to nie wróciło. Sklepy tygodniowe
+   (Ceneo, Empik, Smyk, LEGO.com) mieszczą się w 14 dniach z zapasem.
+2. **Podejrzany rynek — poniżej 50% potwierdzonego RRP**
+   (`PROG_PODEJRZANEGO_RYNKU`). Odsiew podszywek działa od 28%, ale cena
+   47–50% katalogu przy RRP potwierdzonym przez człowieka to najczęściej
+   zaślepka sklepu; taka oferta nie wchodzi nigdzie, dopóki człowiek nie
+   sprawdzi jej w sklepie i nie dopisze do `src/data/deale_potwierdzone.json`
+   (numer, cena, sklep, data, kto). Wpis obowiązuje, dopóki cena nie spadnie
+   poniżej potwierdzonej. Kandydatów pokazuje `node scripts/kontrola-rrp.mjs`
+   („Test rynkowy": wiersz mówi, czy oferta jest potwierdzona i na stronie,
+   czy ukryta). 16.09: 60339, 10423, 76156 — prawdziwe wyprzedaże końcówek
+   (Empik + Ceneo), potwierdzone przez Marka.
+
+Kontrola po zmianach: `node scripts/kontrola-rrp.mjs` (test rynkowy) i skaner
+`dist/` z audytu (żaden link `/idz/` nie może prowadzić na stronę główną sklepu).
 
 ## Zestaw po EOL: link do lego.pl zostaje, dopóki żyje karta produktu *(zasada Marka 16.09.2026)*
 

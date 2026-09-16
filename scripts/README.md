@@ -17,7 +17,7 @@ czy czeka, aż ktoś je wywoła.
 |---|---|---|
 | `feedy-lego.py` | Łowca, codziennie | Wyciąga z feedów sklepowych wyłącznie oferty LEGO (~4 MB zamiast ~630 MB) |
 | `ceneo-feed.mjs` | Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (krok 6) | Feed Ceneo przez Tradedoubler (program 385881, fid 256472); data per sklep w `daty.ceneo`, zapis przez `json-kolejnosc.mjs` |
-| `kontrola-rrp.mjs` | Backfill, obowiązkowo przed commitem | Bramka sanity: cena rynkowa poniżej 50% RRP oznacza błąd po którejś stronie |
+| `kontrola-rrp.mjs` | Backfill przed commitem; sesja po każdym imporcie cen | Bramka sanity: cena rynkowa poniżej 50% RRP oznacza błąd po którejś stronie. Od 16.09 „Test rynkowy" mówi też, czy oferta jest potwierdzona przez człowieka (`deale_potwierdzone.json`) i widoczna, czy ukryta przez sito `filtrujOferty` |
 | `kliki-raport.mjs` | Kontroler, tygodniowo | Kliknięcia z Analytics Engine. **Domyślnie liczy tylko ludzi** (blob6) |
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |
 | `prowizje-raport.mjs` | Kontroler | Prowizje zmierzone: Adtraction, Performers, Tradedoubler |
@@ -42,6 +42,7 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Sklep | Uwaga |
 |---|---|---|
+| `empik-import.mjs` | Code (załącznik od Marka) albo Łowca z notką; co tydzień po zrzucie | **Ceny ze zrzutu `lego-empik.json` do feedu, sety.json i ceny_baza** z regułami importu (gadżety, numer 4–7 cyfr, konflikt numeru z nazwą, sanity 40% RRP, tylko zestawy z hubem, świeżość nadrzędna, `daty.empik` z pliku). Zawsze najpierw `--sucho`. Do 16.09.2026 reguły żyły w pamięci sesji Łowcy |
 | `empik-redirects.mjs` | Empik | **Jedyny skrypt, który wolno kasować wpisy** (`--usun-martwe`) — patrz CLAUDE.md |
 | `me-redirects.mjs` | Media Expert | |
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
@@ -83,6 +84,7 @@ zmieniają się co przebieg, a ten plik ma być prawdziwy za miesiąc.
 | Skrypt | Do czego | Zapisuje |
 |---|---|---|
 | `audyt-wycofan.mjs` | Porównuje trzy źródła prawdy o statusie EOL | stdout |
+| `oferty-przeterminowane.mjs` | Usuwa z `sety.json` oferty starsze niż 14 dni (`--dni N`, `--sucho`); strona i tak ich nie pokazuje (`filtrujOferty`), ale dane nie mają udawać oferty | `src/data/sety.json` |
 | `kontrola-ofert.mjs` | Oferty odrzucone przez odsiew — te same reguły co w serwisie | stdout |
 | `ceny-powyzej-rrp.mjs` | Zestawy z najniższą ofertą powyżej ceny katalogowej; `--lego` rozdziela EOL od błędu statusu | stdout |
 | `lista-do-indeksacji.mjs` | Adresy z autorską treścią do ręcznego zgłoszenia w GSC | stdout |

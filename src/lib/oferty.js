@@ -14,6 +14,47 @@ import cenyBaza from '../data/ceny_baza.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
 import legoBezStrony from '../data/lego_strony_brak.json';
 import setyDane from '../data/sety.json';
+import dealePotwierdzone from '../data/deale_potwierdzone.json';
+
+// ── Które oferty w ogóle pokazujemy (audyt 16.09.2026) ─────────────────────
+//
+// Dwie reguły, obie przy ODCZYCIE (dane zostają surowe, jak przy odsiewie):
+//
+// 1. Wiek. Oferta starsza niż MAX_WIEK_OFERTY_DNI nie wchodzi do tabel, meta,
+//    JSON-LD ani deali. Powód: 16.09 w sety.json leżało 17 ofert z 12–16.08
+//    (sklepy bez feedu: proshop, rozetka, brixani…, plus trzy LEGO.com sprzed
+//    listingu) i każda miała normalny przycisk „Sprawdź w sklepie". Sklepy
+//    tygodniowe (Ceneo, Empik, Smyk, LEGO.com) mieszczą się w 14 dniach z zapasem.
+// 2. Podejrzany rynek. Oferta poniżej PROG_PODEJRZANEGO_RYNKU × RRP, gdy RRP jest
+//    POTWIERDZONE przez człowieka (rrp_potwierdzone.json), to najczęściej zaślepka
+//    sklepu albo podszywka — odsiew (28%) tego nie łapie. Taka oferta czeka na
+//    potwierdzenie w src/data/deale_potwierdzone.json (człowiek otworzył kartę
+//    sklepu); do tego czasu jej nie ma. 16.09: 60339, 10423, 76156 — prawdziwe
+//    wyprzedaże, potwierdzone przez Marka, stąd ten plik.
+export const MAX_WIEK_OFERTY_DNI = 14;
+export const PROG_PODEJRZANEGO_RYNKU = 0.5;
+const DZIS_MS = Date.now();
+
+/** Czy oferta jest dość świeża, żeby ją pokazać (bez daty = nie oceniamy). */
+export function ofertaAktualna(o) {
+  if (!o?.data) return true;
+  const ms = Date.parse(o.data);
+  return Number.isNaN(ms) || (DZIS_MS - ms) / 864e5 <= MAX_WIEK_OFERTY_DNI;
+}
+
+/** Powód, dla którego oferta jest „podejrzanym rynkiem", albo null. */
+export function podejrzanyRynek(o, nr) {
+  const klucz = String(nr ?? '');
+  const rrp = rrpPotwierdzone[klucz]?.cena;
+  if (!rrp || !(o?.cena > 0) || o.cena >= PROG_PODEJRZANEGO_RYNKU * rrp) return null;
+  const p = dealePotwierdzone.potwierdzone?.[klucz];
+  if (p && o.cena >= p.cena - 0.01) return null;
+  return `${Math.round(100 * (1 - o.cena / rrp))}% poniżej potwierdzonej ceny katalogowej (${rrp} zł) bez potwierdzenia w deale_potwierdzone.json`;
+}
+
+/** Oferty do pokazania: świeże i niepodejrzane. Jedyne sito dla sety.json i feedu. */
+export const filtrujOferty = (oferty, nr) =>
+  (oferty ?? []).filter((o) => ofertaAktualna(o) && podejrzanyRynek(o, nr) === null);
 import { wpisKatalogu } from './katalog.js';
 
 // Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
@@ -65,7 +106,7 @@ export function ofertyZFeedu(wpisFeedu, nr = null) {
  */
 export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
   const perSklep = new Map();
-  for (const o of [...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)]) {
+  for (const o of filtrujOferty([...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)], nr)) {
     const stara = perSklep.get(o.sklep);
     if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
   }
@@ -82,7 +123,7 @@ export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
  */
 export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
-  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz], klucz)].filter(
+  const kandydaci = filtrujOferty([...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz], klucz)], klucz).filter(
     (o) => o.sklep !== 'ceneo',
   );
   return kandydaci.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);

@@ -24,8 +24,7 @@
     "szukaj": "https://www.smyk.com/search?q=LEGO%20{nr}"
   },
   "proshop": {
-    "nazwa": "Proshop",
-    "szukaj": "https://www.proshop.pl/"
+    "nazwa": "Proshop"
   },
   "klocekplus": {
     "nazwa": "Klocek Plus",
@@ -36,8 +35,7 @@
     "szukaj": "https://rozetka.pl/search/?text=LEGO+{nr}"
   },
   "sferis": {
-    "nazwa": "Sferis.pl",
-    "szukaj": "https://sferis.pl/"
+    "nazwa": "Sferis.pl"
   },
   "brixani": {
     "nazwa": "brixani.com",
@@ -60,14 +58,13 @@
     "nazwa": "x-kom"
   },
   "dadada": {
-    "nazwa": "dadada.pl",
-    "szukaj": "https://dadada.pl/"
+    "nazwa": "dadada.pl"
   },
   "ceneo": {
     "nazwa": "Ceneo",
     "szukaj": "https://www.ceneo.pl/;szukaj-LEGO+{nr}"
   },
   "_meta": {
-    "opis": "Mapa sklepow: nazwa wyswietlana + opcjonalny szablon `szukaj` (URL wyszukiwarki sklepu z {nr}). Worker uzywa go jako NIEafiliacyjnego fallbacku trasy /idz/, gdy brak linku w redirects.json - zasada: skoro znamy cene, dajemy przynajmniej zwykly link. Szablony bez {nr} to strona glowna (wyszukiwarki niezweryfikowane)."
+    "opis": "Mapa sklepow: nazwa wyswietlana + opcjonalny szablon `szukaj` (URL wyszukiwarki sklepu z {nr}). Worker uzywa go jako NIEafiliacyjnego fallbacku trasy /idz/, gdy brak linku w redirects.json - zasada: skoro znamy cene, dajemy przynajmniej zwykly link. Szablon MUSI zawierac {nr} — szablon bez numeru prowadzil na strone glowna sklepu (proshop, sferis, dadada — usuniete 16.09.2026 po audycie); sklep bez szablonu i bez wpisu w redirects nie dostaje przycisku."
   }
 }

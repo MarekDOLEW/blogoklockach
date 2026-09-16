@@ -12,6 +12,8 @@
 // przez `akceptuj`). Zestaw bez takiej oferty odpada z listy – lepiej pokazać
 // inny deal niż pseudopromocję.
 
+import { filtrujOferty } from './oferty.js';
+
 export const UDZIAL_ALLEGRO = 0.3;
 export const MIN_RABAT_ALTERNATYWY = 15;
 
@@ -23,7 +25,9 @@ export const rabatOferty = (s, o) => Math.round((1 - o.cena / s.cena_katalogowa)
 
 /** Najtańsza oferta zestawu (opcjonalnie z pominięciem Allegro) albo null. */
 export function najtanszaOferta(s, { bezAllegro = false } = {}) {
-  return (s.oferty ?? [])
+  // to samo sito co tabela cen (wiek oferty, podejrzany rynek) — deal nie może
+  // pokazywać oferty, której hub już nie pokazuje
+  return filtrujOferty(s.oferty ?? [], s.nr ?? s.numer)
     .filter((o) => o.sklep !== 'ceneo' && (!bezAllegro || o.sklep !== 'allegro'))
     .reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 }

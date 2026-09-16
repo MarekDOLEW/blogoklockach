@@ -1,0 +1,12 @@
+{
+ "_meta": {
+  "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia.",
+  "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
+  "zaktualizowano": "2026-09-16"
+ },
+ "potwierdzone": {
+  "60339": { "cena": 330.99, "sklep": "ceneo/empik", "data": "2026-09-16", "kto": "Marek", "uwagi": "Kaskaderska arena z dwoma pętlami — wyprzedaż końcówek, Empik 349 i Ceneo 330,99 przy RRP 699,99" },
+  "10423": { "cena": 109, "sklep": "empik/ceneo", "data": "2026-09-16", "kto": "Marek", "uwagi": "Ludziki z emocjami — Empik i Ceneo 109 przy RRP 234,99" },
+  "76156": { "cena": 220, "sklep": "ceneo/empik", "data": "2026-09-16", "kto": "Marek", "uwagi": "Domo powstaje — Empik 229, Ceneo 220 przy RRP 479,99" }
+ }
+}
