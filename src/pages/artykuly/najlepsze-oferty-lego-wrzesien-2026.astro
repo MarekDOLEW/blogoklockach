@@ -1,0 +1,317 @@
+---
+import Artykul from '../../layouts/Artykul.astro';
+import KartaOferty from '../../components/KartaOferty.astro';
+
+// Poradnik miesięczny „najlepsze oferty". Strona jest .astro, a nie markdownem,
+// bo każda pozycja ma kartę z ceną liczoną przy budowaniu (KartaOferty.astro) —
+// dzięki temu tekst nie starzeje się jak listy ofert z kwotami wpisanymi ręcznie.
+// Research i uzasadnienie doboru: redakcja/karty/najlepsze-oferty-wrzesien-2026.md
+//
+// Dobór: 12 pozycji, progi budżetowe od 40 zł do 1 100 zł, limit Allegro ≤30%
+// linków (reguła Marka 13.09.2026) — stąd trzy karty z Allegro, reszta pokazuje
+// najtańszy sklep spoza marketplace'u. Pełna tabela zawsze jest na hubie.
+// Liczby w sekcji „Ile znaczy minus 30 procent": wyliczenie z 17.09.2026 na
+// populacji 1 150 zestawów z ceną katalogową i żywą ofertą (karta researchu §3–4).
+
+export const meta = {
+  url: '/artykuly/najlepsze-oferty-lego-wrzesien-2026/',
+  kategoria: 'Poradniki',
+  tytul: 'Najlepsze oferty na LEGO — wrzesień 2026',
+  opis: 'Dwanaście przecen na LEGO, które naprawdę są przecenami — z komentarzem, dla kogo i przy jakiej cenie warto. Ceny odświeżają się codziennie z naszych danych.',
+  data: '2026-09-17',
+  zaktualizowano: '2026-09-17',
+  okladka: '76354',   // zdjęcie na listingu /artykuly/ i w blokach „Przeczytaj też"
+  tagi: ['Dla rodziców', 'Dla kolekcjonera'],
+  zestawy: ['60487', '42678', '60407', '43221', '42208', '10362', '10359', '60339', '42182', '43018', '21067', '76354'],
+  faq: [
+    {
+      q: 'Skąd wiadomo, że to naprawdę okazja, a nie zwykła cena?',
+      a: 'Punktem odniesienia jest dla nas cały rynek, a nie baner sklepu. Na 1 150 zestawów, które mają cenę katalogową i żywą ofertę, mediana przeceny wynosi 27 procent — to znaczy, że połowa katalogu stoi taniej niż 27 procent poniżej cennika przez cały czas. Do zestawienia trafiają pozycje wyraźnie poniżej mediany swojej półki cenowej albo takie, które są dziś w najniższej cenie, odkąd je notujemy.',
+    },
+    {
+      q: 'Czy ceny w tym tekście są aktualne?',
+      a: 'Tak. Żadna kwota nie jest tu wpisana ręcznie — każda liczy się przy budowaniu strony z tych samych danych co tabela cen na stronie zestawu, a serwis przebudowuje się po każdym porannym odczycie ofert. Przy każdej cenie stoi dzień, w którym ją widzieliśmy. Zmienia się tylko dobór dwunastu pozycji: ten jest wrześniowy.',
+    },
+    {
+      q: 'Dlaczego jest tu dwanaście ofert, a nie dwieście?',
+      a: 'Bo lista dwustu linków nie pomaga w decyzji — po piątej pozycji nikt jej nie czyta, a po tygodniu połowa cen jest nieaktualna. Dwanaście pozycji daje się opisać: dla kogo jest zestaw, co się dostaje po zbudowaniu i czy dzisiejsza cena jest naprawdę niska. Pełną listę wszystkich przecen prowadzimy osobno w dziale Deale, a każdy zestaw ma własną stronę z tabelą cen ze wszystkich sklepów.',
+    },
+    {
+      q: 'Czy lepiej poczekać na Black Friday?',
+      a: 'Nie wiemy i nie będziemy udawać, że wiemy: nasze notowania cen zaczynają się w sierpniu 2026, więc nie mamy zeszłorocznego listopada do porównania. Z danych widać za to co innego — im droższy zestaw, tym mniej się przecenia. Na półce powyżej 1 000 zł mediana rabatu wynosi 7,5 procent i tylko jeden zestaw schodzi dziś o ponad 30 procent. Jeśli poluje się na duży model w konkretnej cenie, czekanie bywa kosztowne.',
+    },
+    {
+      q: 'Dlaczego przy niektórych zestawach pokazujecie droższy sklep?',
+      a: 'Bo pilnujemy, żeby linki do Allegro nie przekraczały 30 procent wszystkich linków w zestawieniu. Marketplace wygrywa ceną prawie każdą pozycję, ale ma inne warunki zwrotu i inną gwarancję niż sklep z własnym magazynem, a my chcemy pokazywać też te drugie. Gdy Allegro jest tańsze, zobaczysz to na stronie zestawu — tabela cen pokazuje wszystkie sklepy bez wyjątku.',
+    },
+  ],
+};
+
+const frontmatter = {
+  title: meta.tytul,
+  opis: meta.opis,
+  data: meta.data,
+  zaktualizowano: meta.zaktualizowano,
+  kategoria: meta.kategoria,
+  tagi: meta.tagi,
+  faq: meta.faq,
+};
+---
+<Artykul frontmatter={frontmatter}>
+  <p>
+    Wrzesień to miesiąc, w którym sklepy wyprzedają to, co zostało po sezonie szkolnym, a jednocześnie
+    robią miejsce na asortyment świąteczny. Przecen jest dużo — i właśnie dlatego łatwo kupić coś
+    w cenie, która wygląda na okazję, a jest zwykłą ceną rynkową.
+  </p>
+  <p>
+    Poniżej dwanaście ofert, które sprawdziliśmy w naszych danych: od dodatku za czterdzieści złotych
+    po model dla dorosłego za tysiąc. Przy każdej piszemy, dla kogo jest ten zestaw i co dokładnie
+    kupujesz za tę kwotę — także wtedy, gdy rabat jest duży, a zestaw przeciętny.
+    <strong>Ceny na kartach liczą się automatycznie</strong> z tych samych danych co tabele na stronach
+    zestawów, więc nie zestarzeją się po tygodniu jak lista kwot przepisana ręcznie.
+  </p>
+
+  <h2>Ile naprawdę znaczy „minus 30 procent"</h2>
+  <p>
+    Zanim przejdziemy do zestawów — jedna liczba, która porządkuje cały temat. Śledzimy dziś
+    <strong>1 150 zestawów</strong>, które mają znaną cenę katalogową i żywą ofertę w sklepie.
+    <strong>Mediana przeceny wynosi 27 procent.</strong> To znaczy, że połowa katalogu stoi poniżej
+    tego poziomu przez cały czas, bez żadnej akcji promocyjnej.
+  </p>
+  <p>
+    Konsekwencja jest prosta: baner z napisem „−25%" nie informuje o niczym. Rabat zaczyna być
+    informacją dopiero powyżej mediany, a naprawdę rzadkie są dopiero te głębokie —
+    <strong>zestawów z przeceną 40 procent i większą jest w tej chwili 27</strong>, a powyżej
+    50 procent zaledwie trzy. W drugą stronę też warto wiedzieć: 276 zestawów ma dziś rabat
+    w przedziale 0–15 procent, a 60 pozycji kosztuje <em>więcej</em> niż w cenniku LEGO.
+  </p>
+  <p>
+    Druga rzecz odwraca intuicję. Im droższy zestaw, tym mniejsza przecena:
+  </p>
+  <table>
+    <thead>
+      <tr><th>Cena katalogowa</th><th>Zestawów</th><th>Mediana rabatu</th><th>Z rabatem ≥30%</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>do 100 zł</td><td>270</td><td>24%</td><td>89</td></tr>
+      <tr><td>100–250 zł</td><td>459</td><td>28%</td><td>152</td></tr>
+      <tr><td>250–500 zł</td><td>250</td><td>28%</td><td>89</td></tr>
+      <tr><td>500–1000 zł</td><td>126</td><td>26%</td><td>30</td></tr>
+      <tr><td><strong>powyżej 1000 zł</strong></td><td>45</td><td><strong>7,5%</strong></td><td><strong>1</strong></td></tr>
+    </tbody>
+  </table>
+  <p>
+    Na czterdzieści pięć zestawów droższych niż tysiąc złotych tylko jeden schodzi dziś o ponad
+    30 procent. Jeśli czekasz z dużym modelem na „jakąś promocję", to warto wiedzieć, że na tej półce
+    promocje po prostu bywają płytkie — i że różnica między dobrą a złą ceną jest tam liczona w setkach
+    złotych.
+  </p>
+
+  <h2>Do 150 zł: prezent, dodatek, zestaw do zabawy</h2>
+
+  <KartaOferty nr="60487" sklep="empik" etykieta="Do 40 zł">
+    <p>
+      Najtańsza sensowna pozycja w całym zestawieniu i klasyczny dodatek do większego prezentu.
+      Taksówka ma otwierany bagażnik i maskę, więc pięciolatek ma przy niej co robić poza samym
+      jeżdżeniem, a jako pojazd miejski łączy się z każdą inną sceną, którą dziecko już ma.
+    </p>
+    <p>
+      Przy takiej kwocie nie ma się nad czym zastanawiać — to jest cena, przy której zestaw kupuje się
+      „przy okazji". Warto tylko pamiętać, że 122 elementy to kwadrans budowania, więc jako
+      samodzielny prezent będzie rozczarowaniem.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="42678" sklep="empik" etykieta="Do 50 zł · znika w grudniu">
+    <p>
+      Furgonetka otwiera się w mobilny sklep, więc w jednym niewielkim pudełku dziecko dostaje
+      i pojazd, i zabawę w handel. Oznaczenie 6+ jest realne, a 237 elementów daje ponad pół godziny
+      spokojnego budowania.
+    </p>
+    <p>
+      To jedna z niewielu pozycji, przy których „teraz albo nigdy" nie jest chwytem: LEGO potwierdziło
+      wycofanie zestawu z końcem 2026 roku. Zastrzeżenie jest takie samo jak przy większości małych
+      Friends — to zestaw uzupełniający, który najlepiej działa obok większego budynku z serii.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="60407" sklep="empik" etykieta="Do 80 zł">
+    <p>
+      Najlepszy „duży pojazd" w tym progu cenowym. Górny pokład zdejmuje się w całości, więc dziecko
+      ma pełny dostęp do wnętrza, a wśród pasażerów jest miejsce na wózek z niemowlęciem — drobiazg,
+      po który dzieci w zabawie sięgają zaskakująco często.
+    </p>
+    <p>
+      Ocena 4,1/5 przy 152 głosach na Bricksecie to jeden z lepiej przyjętych autobusów w City.
+      Dzisiejsza cena jest najniższa, odkąd notujemy ten zestaw, a według źródeł branżowych autokar
+      ma zejść z produkcji z końcem roku — choć LEGO jeszcze tego nie potwierdziło.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="43221" sklep="empik" etykieta="Do 140 zł · najlepszy przelicznik">
+    <p>
+      Tysiąc dwadzieścia dwa elementy za mniej niż sto czterdzieści złotych to
+      <strong>13 groszy za klocek</strong> — najlepszy przelicznik w całym zestawieniu i jeden
+      z najlepszych w katalogu. Dla porównania: typowy zestaw City z tej półki kosztuje dwa razy tyle
+      w przeliczeniu na element.
+    </p>
+    <p>
+      Trzeba jednak wiedzieć, co się kupuje. To nie jest playset, tylko zestaw kreatywny: buduje się
+      z niego niewielkie portrety bohaterów Disneya na kwadratowych płytkach, które wiesza się na
+      ścianie. Efekt zostaje w pokoju na dłużej niż zabawa — ale dziecko szukające pojazdów i figurek
+      będzie zawiedzione.
+    </p>
+  </KartaOferty>
+
+  <h2>150–400 zł: modele, przy których warto policzyć elementy</h2>
+
+  <KartaOferty nr="42208" sklep="allegro" etykieta="Do 160 zł">
+    <p>
+      Licencjonowany hipersamochód z 707 elementami w cenie, w której zwykle kupuje się o połowę
+      mniejsze zestawy Technica. Unoszone drzwi i sterowanie pokrętłem z dachu to funkcje, które
+      dziewięciolatek obsłuży sam — i do których wraca się częściej niż do samego oglądania modelu.
+    </p>
+    <p>
+      Uczciwie: baza ocen jest tu wąska (14 głosów), a Aston Martin pojawiał się w tej serii
+      wielokrotnie, więc potencjału kolekcjonerskiego bym się nie spodziewał. To zestaw do zbudowania
+      i postawienia, nie do trzymania w folii.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="10362" sklep="allegro" etykieta="Do 200 zł · LEGO już nie sprzedaje">
+    <p>
+      Pierwszy model z serii Restauracje świata i jedna z najlepszych wycen w całych Icons:
+      <strong>31 groszy za element</strong> przy medianie serii około 46 groszy. Wąska fasada
+      z markizą i szyldem stoi na półce jak obrazek i nie wymaga znajomości żadnej licencji, więc
+      sprawdza się też jako prezent dla osoby, która LEGO się nie interesuje.
+    </p>
+    <p>
+      Zestaw zszedł już z oferty LEGO — to, co jest w sklepach, to zapasy, a te w tej serii schodzą
+      szybko. Dostępu do wnętrza nie ma i nie ma minifigurek: to dekoracja dla dorosłego, nie zabawka.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="10359" sklep="smyk" etykieta="Do 260 zł · po wycofaniu">
+    <p>
+      Tysiąc trzysta dwa elementy śródziemnomorskiego ogrodu z wielopoziomową fontanną, brukiem
+      i czterema pergolami — 32 grosze za element, czyli poziom, którego w Icons praktycznie się nie
+      spotyka poza wyprzedażą po wycofaniu. I dokładnie z takim przypadkiem mamy tu do czynienia.
+    </p>
+    <p>
+      Budowanie jest spokojne i mocno roślinne, bez trudnych technik; to dobry wspólny projekt na
+      kilka wieczorów. Wartości zabawowej nie ma żadnej, więc dla dziecka to zły wybór niezależnie
+      od ceny.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="60339" sklep="empik" etykieta="Do 350 zł · największy rabat">
+    <p>
+      Największa przecena w tym zestawieniu — i zarazem pozycja, przy której procent mówi najmniej.
+      Arena składa się z kilkunastu bardzo dużych części, więc w przeliczeniu na element wychodzi
+      ponad złotówka: najgorszy wynik z całej dwunastki. Kupuje się tu mechanizm i tor, a nie klocki.
+    </p>
+    <p>
+      Jeśli jednak szukasz prezentu dla siedmiolatka, który ma już pół pudła samochodów, to jest to
+      zestaw, który realnie zmienia zabawę: dwie pętle, rampy i koło zamachowe działające bez baterii.
+      Budowa jest krótka, dziecko złoży ją samo, a cała wartość zaczyna się po zbudowaniu.
+    </p>
+  </KartaOferty>
+
+  <h2>Powyżej 500 zł: tam, gdzie przecena jest rzadkością</h2>
+
+  <KartaOferty nr="43018" sklep="empik" etykieta="Do 550 zł">
+    <p>
+      Prezent dla nastolatka, który gra w piłkę — cieszynka Messiego to obraz na ścianę zamiast
+      plakatu, 1 427 elementów i oznaczenie 14+. Sportowe wall-arty to nowy kierunek LEGO i Messi
+      jest w tej linii najgłośniejszym nazwiskiem.
+    </p>
+    <p>
+      Jedna uwaga: ten zestaw miał już w sierpniu niższe notowanie w innym sklepie, więc dzisiejsza
+      cena jest dobra, ale nie rekordowa. Przy tej kwocie warto zerknąć w tabelę na stronie zestawu
+      przed zakupem.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="42182" sklep="empik" etykieta="Do 620 zł">
+    <p>
+      Łazik księżycowy z programu Apollo: 1 913 elementów, 38 centymetrów długości, rozkładane
+      podwozie i odwzorowany osprzęt naukowy, wszystko na licencji NASA i na podstawie prawdziwej
+      dokumentacji. W dzisiejszej cenie wychodzi 32 grosze za element — w Technicu tej wielkości to
+      bardzo dobra stawka.
+    </p>
+    <p>
+      Oznaczenie 11+ jest tu realne i to rzadkość przy modelu tej skali: nastolatek poradzi sobie
+      samodzielnie. Temat jest historyczny i dobrze udokumentowany, więc zestaw nie zestarzeje się
+      razem z filmową licencją.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="21067" sklep="smyk" etykieta="Do 950 zł">
+    <p>
+      Prawie cztery tysiące elementów i jeden z najbardziej rozpoznawalnych symboli Londynu.
+      Przecena wygląda skromnie obok czterdziestu procent z niższych półek — ale to złudzenie:
+      na półce powyżej tysiąca złotych mediana rabatu wynosi 7,5 procent, więc <strong>to jest
+      jedna z dwóch najgłębszych przecen w tym przedziale</strong>.
+    </p>
+    <p>
+      Budowa jest długa i miejscami powtarzalna, dla cierpliwego dorosłego. Przed zakupem warto
+      zmierzyć półkę: gotowy model zajmuje ponad metr przestrzeni razem z podjazdami.
+    </p>
+  </KartaOferty>
+
+  <KartaOferty nr="76354" sklep="allegro" etykieta="Powyżej 1 000 zł · jedyny taki">
+    <p>
+      To <strong>jedyny zestaw powyżej tysiąca złotych, który schodzi dziś o ponad 30 procent</strong>
+      — na czterdzieści pięć pozycji z tej półki. Do tego jest ekskluzywem, czyli formalnie sprzedaje
+      go tylko LEGO, a zestawy z tym statusem tanieją najrzadziej ze wszystkich.
+    </p>
+    <p>
+      Trzy tysiące elementów, model wystawowy dla dorosłego fana Marvela i duchowy następca kultowego
+      lotniskowca 76042, którego ceny na rynku wtórnym dawno odjechały. To nie jest zabawka do
+      odgrywania bitew — to jest coś, co stoi na półce i zajmuje na niej dużo miejsca.
+    </p>
+  </KartaOferty>
+
+  <h2>Czego w tym zestawieniu nie ma</h2>
+  <p>
+    Trzy rodzaje ofert odrzuciliśmy świadomie, mimo że procentowo wyglądają lepiej niż część
+    powyższych.
+  </p>
+  <p>
+    <strong>Głębokie przeceny na słabych zestawach.</strong> Jeden ze startowych statków Star Wars
+    schodzi dziś o 46 procent, ale ma 136 elementów, ocenę 3,2/5 i kosztuje po przecenie tyle, co
+    dobry zestaw City z trzema razy większą liczbą klocków. Sam procent nie czyni zestawu dobrym.
+  </p>
+  <p>
+    <strong>Końcówki magazynowe sprzed kilku lat.</strong> Kilka zestawów z lat 2021–2022 stoi dziś
+    ponad 50 procent poniżej cennika, ale są dostępne w jednym czy dwóch sklepach i za tydzień może
+    ich nie być. Trafiają do działu <a href="/deale/">Deale</a>, gdzie opisujemy pojedyncze okazje na
+    bieżąco — w miesięcznym zestawieniu wyglądałyby jak stała oferta, którą nie są.
+  </p>
+  <p>
+    <strong>Zestawy droższe niż w cenniku LEGO.</strong> Sześćdziesiąt pozycji z naszej bazy kosztuje
+    dziś więcej, niż wynosi ich cena katalogowa — najczęściej są to modele wycofane, na które popyt
+    został, a dostaw już nie ma. To nie jest okazja, tylko rynek wtórny w sklepowej oprawie.
+  </p>
+
+  <h2>Jak czytamy ceny</h2>
+  <p>
+    Rabat liczymy wyłącznie od <strong>ceny katalogowej LEGO</strong>, nigdy od „ceny poprzedniej"
+    podanej przez sklep — ta druga bywa ustawiona tak, żeby przecena wyglądała lepiej. Ceny zbieramy
+    codziennie rano z feedów sklepowych i raz w tygodniu ze stron producenta; przy każdej kwocie na
+    tej stronie stoi dzień, w którym ją widzieliśmy.
+  </p>
+  <p>
+    Plakietka „najniżej, odkąd notujemy" znaczy dokładnie tyle, ile mówi: nasze notowania zaczynają
+    się w sierpniu 2026 roku, więc nie twierdzimy, że to najniższa cena w historii zestawu. Gdy
+    zestaw jest na liście wycofań, piszemy o tym przy karcie — ale traktujemy to jako informację
+    o <em>dostępności</em>, nie o cenie. Sprawdziliśmy to na własnych danych: mediana przeceny
+    zestawów wycofywanych jest praktycznie taka sama jak reszty rynku.
+  </p>
+  <p>
+    Pełną tabelę wszystkich sklepów, historię i próg zakupu znajdziesz na stronie każdego zestawu —
+    linki prowadzą tam ze zdjęć i tytułów. Zestawienie odświeżamy co miesiąc; bieżące okazje między
+    wydaniami trafiają do działu <a href="/deale/">Deale</a>, a zestawy schodzące ze sprzedaży
+    śledzimy w dziale <a href="/wycofania/">Wycofania</a>.
+  </p>
+</Artykul>

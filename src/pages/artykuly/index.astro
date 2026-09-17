@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import FiltrKategorii from '../../components/FiltrKategorii.astro';
-import { zajawkiArtykulow } from '../../lib/artykuly.js';
+import { zajawkiArtykulow, zajawkaZMeta } from '../../lib/artykuly.js';
 // Artykuły leżą w ./ oraz – jak kalendarz i zapowiedzi – bezpośrednio
 // w src/pages/. Każdy plik .md z polem `kategoria` jest artykułem.
 //
@@ -14,10 +14,19 @@ const posts = Object.entries({
   ...import.meta.glob('../*.md', { eager: true }),
 })
   .map(([, m]) => m)
-  .filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik')
-  .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data));
+  .filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik');
 
-const zajawki = zajawkiArtykulow(posts);
+// Od 17.09.2026 artykuł bywa stroną .astro, a nie markdownem – poradniki
+// z kartami ofert liczą ceny przy budowaniu, więc nie da się ich zapisać
+// frontmatterem. Taka strona eksportuje `meta` w tym samym kształcie co
+// prezentowniki serii (src/lib/artykuly.js → zajawkaZMeta); `index.astro`
+// jej nie ma, więc odpada na filtrze `meta?.url`.
+const strony = Object.values(import.meta.glob('./*.astro', { eager: true }))
+  .map((m) => m.meta)
+  .filter((meta) => meta?.url && meta.kategoria && meta.kategoria !== 'Prezentownik');
+
+const zajawki = [...zajawkiArtykulow(posts), ...strony.map((meta) => zajawkaZMeta(meta))]
+  .sort((a, b) => new Date(b.data) - new Date(a.data));
 ---
 <Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
   <h1 style="margin-top:28px">Artykuły</h1>

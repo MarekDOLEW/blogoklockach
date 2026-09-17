@@ -35,12 +35,17 @@ const md = {
 // i każdy prezentownik `.astro` wchodził do indeksu z zerem zestawów (błąd
 // wykryty 14.09.2026 – 98 zestawów niewidocznych dla `wPrezentowniku`,
 // „Przeczytaj też" i warunku C w `hubIndeksowalny`).
-const astro = import.meta.glob('../pages/prezentowniki/*.astro', { eager: true });
-const astroZrodla = import.meta.glob('../pages/prezentowniki/*.astro', {
-  eager: true,
-  query: '?raw',
-  import: 'default',
-});
+// Od 17.09.2026 tak samo działają artykuły pisane jako .astro (poradniki
+// z kartami ofert liczonymi z danych) — glob obejmuje oba katalogi, a sekcję
+// i kategorię bierzemy z `meta`, nie ze ścieżki.
+const astro = {
+  ...import.meta.glob('../pages/prezentowniki/*.astro', { eager: true }),
+  ...import.meta.glob('../pages/artykuly/*.astro', { eager: true }),
+};
+const astroZrodla = {
+  ...import.meta.glob('../pages/prezentowniki/*.astro', { eager: true, query: '?raw', import: 'default' }),
+  ...import.meta.glob('../pages/artykuly/*.astro', { eager: true, query: '?raw', import: 'default' }),
+};
 
 const serieZnane = new Set(Object.values(sety).map((s) => s.seria).filter(Boolean));
 
@@ -115,22 +120,24 @@ function zAstro(sciezka, modul) {
   // Poprzednia wersja łykała go po cichu i indeks tekstów cicho gubił zestawy.
   const surowy = astroZrodla[sciezka];
   if (typeof surowy !== 'string') {
-    throw new Error(`Brak surowego źródła prezentownika ${sciezka} – sprawdź glob astroZrodla w src/lib/teksty.js`);
+    throw new Error(`Brak surowego źródła strony ${sciezka} – sprawdź glob astroZrodla w src/lib/teksty.js`);
   }
   const numery = numeryZTekstu(surowy);
   const data = meta.data ?? '';
   const zaktualizowano = meta.zaktualizowano && meta.zaktualizowano > data ? meta.zaktualizowano : data;
+  const kategoria = meta.kategoria ?? 'Prezentownik';
+  for (const nr of meta.zestawy ?? []) numery.add(String(nr));
   return {
     url: meta.url,
-    sekcja: 'prezentowniki',
+    sekcja: sekcjaZeSciezki(sciezka, kategoria),
     tytul: meta.tytul,
     opis: meta.opis ?? '',
     data,
     zaktualizowano,
     lastmod: zaktualizowano || data || null,
-    kategoria: meta.kategoria ?? 'Prezentownik',
+    kategoria,
     tagi: meta.tagi ?? [],
-    faq: [],
+    faq: meta.faq ?? [],
     sety: numery,
     serie: serieZestawow(numery, [meta.znacznik]),
   };

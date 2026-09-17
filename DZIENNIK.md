@@ -65,6 +65,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 16:20 · CODE · Poradnik „Najlepsze oferty na LEGO — wrzesień 2026" (nowy format: karty ofert z żywą ceną)
+
+Polecenie Marka: odpowiednik listy ofert z fanklockow.pl, ale „mniej ofert i kilka
+słów treści do każdej — sprzedażowe, a nie listing linków", ze zdjęciami do kliknięcia
+w stylu `/nowosci/`.
+
+- **Tekst:** `/artykuly/najlepsze-oferty-lego-wrzesien-2026/`, kategoria Poradniki,
+  12 pozycji w progach od 40 zł do 1 100 zł. Karta researchu:
+  `redakcja/karty/najlepsze-oferty-wrzesien-2026.md`.
+- **Nowy komponent `KartaOferty.astro`:** klikalne zdjęcie → hub, cena i rabat liczone
+  przy buildzie z tych samych danych co tabela cen, plakietki („najniżej, odkąd notujemy",
+  ekskluzyw, status wycofania), CTA do sklepu i link do pełnej tabeli. Fakt i prognoza
+  mają OSOBNE etykiety (reguła z RUNBOOK) — „potwierdzone przez LEGO" vs „prognoza rynku".
+- **Przewaga nad wzorem:** u konkurencji ceny są wpisane ręcznie w dniu publikacji i
+  starzeją się w tydzień; nasze odświeżają się z każdym buildem. Do tego tekst zaczyna się
+  od mediany rynku (27% na 1 150 zestawach), więc czytelnik wie, ile w ogóle znaczy „−25%".
+- **Uczciwość:** 60339 ma największy rabat (−50%) i najgorszy przelicznik zł/element —
+  napisane wprost. Odrzucone świadomie: głębokie rabaty na słabych zestawach (75384),
+  końcówki magazynowe (10423, 76156 — zostają na `/deale/`), pozycje powyżej cennika.
+  Nie powtarzamy tezy konkurencji o wzroście cen przed świętami — nie mamy notowań
+  sprzed roku i mówimy to w tekście.
+- **Limit Allegro** ≤30% linków utrzymany: 3 karty z 12; przy pozostałych karta pokazuje
+  najtańszy sklep spoza marketplace'u, a pełna tabela jest na hubie (wyjaśnione w FAQ).
+- **Infrastruktura:** `teksty.js` i listing `/artykuly/` widzą teraz artykuły pisane jako
+  `.astro` (glob + `meta`), nie tylko markdown — to było potrzebne, żeby poradnik z kartami
+  trafił do sitemapy, RSS i bloków „Przeczytaj też". Sprawdzone po buildzie: jest na
+  listingu, w `sitemap-artykuly.xml`, w RSS i w powiązanych na sześciu innych stronach.
+
+**Dla drugiej strony:** nic. Kolejny w kolejce (polecenie Marka): lepszy słowniczek LEGO
+niż `fanklockow.pl/slowniczek-lego/`.
+
 ## 2026-09-17 10:40 · CODE · Lidl (Tradedoubler, feed 259772) — przygotowane, czeka na akcept
 
 - Marek zgłosił się do programu Lidl online w TD; feed „LEGO klocki" fid 259772

@@ -1,0 +1,110 @@
+---
+import sety from '../data/sety.json';
+import ofertyFeed from '../data/oferty_feed.json';
+import cenyBaza from '../data/ceny_baza.json';
+import { polaczOferty, cenaKatalogowaSetu, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku } from '../lib/oferty.js';
+import { statusWycofania } from '../lib/status.js';
+import { wpisKatalogu } from '../lib/katalog.js';
+import { urlZdjecia } from '../lib/media.js';
+import { dataPl } from '../lib/daty.js';
+
+// Karta jednej oferty w poradniku „najlepsze oferty miesiąca".
+//
+// Czym różni się od karty prezentownika: tam liczy się trwała drabina cenowa
+// (RRP → dobra cena → próg zakupu), tu treścią jest KONKRETNA dzisiejsza cena,
+// bo po to czytelnik przychodzi do tekstu o ofertach. Żadna kwota nie jest
+// jednak wpisana ręcznie w treść: wszystko liczy się przy budowaniu z tych
+// samych danych co tabela na hubie, a build leci po każdym przebiegu Łowcy.
+// Dzięki temu tekst nie kłamie po tygodniu — inaczej niż listy ofert, w których
+// ceny wklepano na sztywno w dniu publikacji.
+//
+// `sklep` jest decyzją redakcyjną (jak sklepy publikacyjne w prezentowniku):
+// pozwala trzymać limit Allegro w całym tekście. Gdy wskazany sklep nie ma dziś
+// oferty, karta schodzi na najtańszą dostępną i mówi o tym wprost przez nazwę
+// sklepu — nigdy nie pokazuje ceny sklepu, który zestawu nie ma.
+const { nr, sklep = null, etykieta = null } = Astro.props;
+
+const klucz = String(nr);
+const s = sety[klucz] ?? {};
+const k = wpisKatalogu(klucz) ?? {};
+const nazwa = s.nazwa ?? k.nazwa ?? `zestaw ${klucz}`;
+const seria = s.seria ?? k.seria ?? null;
+const elementy = s.elementy ?? k.elementy ?? null;
+const wiek = s.wiek ?? null;
+const foto = urlZdjecia(klucz, { sety });
+
+// Oferty przechodzą przez to samo sito co reszta serwisu (wiek oferty,
+// odsiew podszywek, „podejrzany rynek") — polaczOferty robi to w jednym miejscu.
+const wszystkie = polaczOferty(s.oferty ?? [], ofertyFeed?.sety?.[klucz], klucz).filter((o) => o.sklep !== 'ceneo');
+const wybrana = (sklep && wszystkie.find((o) => o.sklep === sklep)) || wszystkie.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
+const rrp = cenaKatalogowaSetu(klucz, { sety });
+const rabat = wybrana && rrp ? Math.round((1 - wybrana.cena / rrp) * 100) : null;
+const link = wybrana ? linkAfiliacyjny(wybrana.sklep, klucz) : null;
+
+// „Najniżej, odkąd notujemy" zamiast gołego procentu: rabat liczy się od ceny
+// katalogowej, która bywa zawyżona, a minimum notowań jest faktem z naszych
+// danych. Porównujemy do grosza w dół, bo cena bywa równa minimum.
+const minimum = cenyBaza[klucz]?.najnizsza_cena;
+const noweMinimum = Boolean(wybrana && minimum && wybrana.cena <= minimum + 0.01);
+// Fakt i prognoza NIGDY pod tą samą etykietą (RUNBOOK „Statusy: wycofania"):
+// „potwierdzone" ma termin od LEGO, „przewidywane" to zgodne zapowiedzi
+// branżowe, a „wycofany" znaczy, że producent już nie sprzedaje.
+const wycofanie = statusWycofania(klucz);
+const plakietkaWycofania = !wycofanie
+  ? null
+  : wycofanie.etap === 'wycofany'
+    ? { tekst: 'LEGO już nie sprzedaje', klasa: 'badge-status--eol', tytul: 'Producent zakończył sprzedaż – w sklepach są zapasy' }
+    : wycofanie.etap === 'potwierdzone'
+      ? { tekst: `znika ${wycofanie.kiedy} · potwierdzone przez LEGO`, klasa: 'badge-status--pewny', tytul: 'Termin podany przez Grupę LEGO' }
+      : { tekst: `prognoza rynku: znika ${wycofanie.kiedy}`, klasa: 'badge-status--prognoza', tytul: 'Zgodne zapowiedzi źródeł branżowych – LEGO tego nie potwierdziło' };
+const zlKlocek = elementy && wybrana ? (wybrana.cena / elementy).toFixed(2).replace('.', ',') : null;
+---
+<div class="oferta-karta">
+  <a class="oferta-karta__foto" href={`/zestaw/${klucz}/`} target="_blank" rel="noopener" aria-label={`LEGO ${klucz} ${nazwa} – strona zestawu z pełną tabelą cen`}>
+    {foto ? (
+      <img src={foto} alt={`LEGO ${klucz} ${nazwa}`} loading="lazy" width="400" height="300" />
+    ) : (
+      <div class="foto-brak" aria-hidden="true"><span class="studs"><i></i><i></i><i></i><i></i></span></div>
+    )}
+    {rabat !== null && rabat >= 15 && <span class="oferta-karta__rabat">−{rabat}%</span>}
+  </a>
+
+  <div class="oferta-karta__tresc">
+    <p class="oferta-karta__meta">
+      {etykieta && <span class="badge-tag">{etykieta}</span>}
+      {seria && <span class="badge-seria">{seria}</span>}
+      {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}
+      {noweMinimum && <span class="badge-najnizsza">najniżej, odkąd notujemy</span>}
+      {plakietkaWycofania && <span class={`badge-status ${plakietkaWycofania.klasa}`} title={plakietkaWycofania.tytul}>{plakietkaWycofania.tekst}</span>}
+    </p>
+
+    <h3 class="oferta-karta__tytul">
+      <a href={`/zestaw/${klucz}/`} target="_blank" rel="noopener">LEGO {klucz} {nazwa}</a>
+    </h3>
+
+    <p class="oferta-karta__dane">
+      {elementy && <>{elementy} elementów</>}
+      {elementy && zlKlocek && <> · {zlKlocek} zł za element</>}
+      {wiek && <> · wiek {wiek}</>}
+    </p>
+
+    <div class="oferta-karta__slot"><slot /></div>
+
+    {wybrana ? (
+      <div class="oferta-karta__cena">
+        <span class="cena">{fmtCena(wybrana.cena)}</span>
+        {rrp && wybrana.cena < rrp && <span class="oferta-karta__rrp">katalogowa {fmtCena(rrp)}</span>}
+        <span class="oferta-karta__sklep">
+          w sklepie {nazwaSklepu(wybrana.sklep)}{wybrana.data && <> · cena z {dataPl(wybrana.data)}</>}
+        </span>
+      </div>
+    ) : (
+      <p class="oferta-karta__cena oferta-karta__cena--brak">Dziś żaden ze śledzonych sklepów nie ma tego zestawu w ofercie.</p>
+    )}
+
+    <p class="oferta-karta__akcje">
+      {link && <a class="cta" href={link} target="_blank" rel={relLinku(wybrana.sklep, klucz)}>Sprawdź w {nazwaSklepu(wybrana.sklep)} →</a>}
+      <a class="oferta-karta__hub" href={`/zestaw/${klucz}/`} target="_blank" rel="noopener">Porównaj {wszystkie.length > 1 ? `${wszystkie.length} ofert` : 'oferty'} i historię ceny</a>
+    </p>
+  </div>
+</div>

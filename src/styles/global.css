@@ -1216,3 +1216,35 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
    przycisk jest wyciszony, żeby nie konkurował z realnymi ofertami sklepów. */
 .cta--eol { background: transparent; color: var(--granat); border: 1.5px solid var(--linia); font-weight: 600; }
 .cta--eol:hover { border-color: var(--granat); background: var(--papier); }
+
+/* ── Karta oferty w poradnikach „najlepsze oferty" (KartaOferty.astro) ──
+   Zdjęcie po lewej, treść po prawej; na telefonie jeden słupek. Zdjęcie i tytuł
+   prowadzą na hub zestawu (pełna tabela cen), przycisk — do sklepu. */
+.oferta-karta { display: grid; grid-template-columns: 260px 1fr; gap: 20px; align-items: start; background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); padding: 18px; margin: 22px 0 28px; }
+.oferta-karta__foto { position: relative; display: block; border-radius: 8px; overflow: hidden; background: var(--papier); }
+.oferta-karta__foto img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; transition: transform 0.2s ease; }
+.oferta-karta__foto:hover img { transform: scale(1.03); }
+.oferta-karta__foto .foto-brak { width: 100%; aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
+.oferta-karta__rabat { position: absolute; top: 10px; left: 10px; background: var(--czerwien); color: #fff; font-weight: 700; font-size: 0.95rem; padding: 4px 10px; border-radius: 6px; }
+.oferta-karta__meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 8px; }
+.oferta-karta__tytul { margin: 0 0 4px; font-size: 1.15rem; line-height: 1.3; }
+.oferta-karta__tytul a { color: var(--granat); text-decoration: none; }
+.oferta-karta__tytul a:hover { text-decoration: underline; }
+.oferta-karta__dane { margin: 0 0 10px; font-size: 0.85rem; color: var(--granat-60); }
+.oferta-karta__slot p { margin: 0 0 10px; }
+.oferta-karta__slot p:last-child { margin-bottom: 14px; }
+.oferta-karta__cena { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 0 0 12px; }
+.oferta-karta__cena .cena { font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--czerwien); }
+.oferta-karta__rrp { font-size: 0.9rem; color: var(--granat-60); text-decoration: line-through; }
+.oferta-karta__sklep { font-size: 0.85rem; color: var(--granat-60); }
+.oferta-karta__cena--brak { display: block; font-size: 0.9rem; color: var(--granat-60); }
+.oferta-karta__akcje { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 0; }
+.oferta-karta__akcje .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; padding: 11px 18px; border-radius: 8px; }
+.oferta-karta__akcje .cta:hover { background: #0f1830; }
+.oferta-karta__hub { font-size: 0.88rem; }
+
+@media (max-width: 720px) {
+  .oferta-karta { grid-template-columns: 1fr; gap: 14px; padding: 14px; }
+  .oferta-karta__akcje .cta { width: 100%; text-align: center; }
+  .oferta-karta__akcje { gap: 10px; }
+}
