@@ -1,12 +1,53 @@
 {
  "_meta": {
-  "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia.",
+  "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia. Sekcja 'odrzucone' (od 17.09.2026): werdykty „fałsz\" po sprawdzeniu — oferta zostaje ukryta jak każda niepotwierdzona, a podejrzany-rynek-mail.mjs przestaje o nią pytać; niższa cena niż oceniona wraca do maila.",
   "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
-  "zaktualizowano": "2026-09-16"
+  "zaktualizowano": "2026-09-17"
  },
  "potwierdzone": {
-  "60339": { "cena": 330.99, "sklep": "ceneo/empik", "data": "2026-09-16", "kto": "Marek", "uwagi": "Kaskaderska arena z dwoma pętlami — wyprzedaż końcówek, Empik 349 i Ceneo 330,99 przy RRP 699,99" },
-  "10423": { "cena": 109, "sklep": "empik/ceneo", "data": "2026-09-16", "kto": "Marek", "uwagi": "Ludziki z emocjami — Empik i Ceneo 109 przy RRP 234,99" },
-  "76156": { "cena": 220, "sklep": "ceneo/empik", "data": "2026-09-16", "kto": "Marek", "uwagi": "Domo powstaje — Empik 229, Ceneo 220 przy RRP 479,99" }
+  "60339": {
+   "cena": 330.99,
+   "sklep": "ceneo/empik",
+   "data": "2026-09-16",
+   "kto": "Marek",
+   "uwagi": "Kaskaderska arena z dwoma pętlami — wyprzedaż końcówek, Empik 349 i Ceneo 330,99 przy RRP 699,99"
+  },
+  "10423": {
+   "cena": 109,
+   "sklep": "empik/ceneo",
+   "data": "2026-09-16",
+   "kto": "Marek",
+   "uwagi": "Ludziki z emocjami — Empik i Ceneo 109 przy RRP 234,99"
+  },
+  "76156": {
+   "cena": 220,
+   "sklep": "ceneo/empik",
+   "data": "2026-09-16",
+   "kto": "Marek",
+   "uwagi": "Domo powstaje — Empik 229, Ceneo 220 przy RRP 479,99"
+  }
+ },
+ "odrzucone": {
+  "71830": {
+   "cena": 77.9,
+   "sklep": "ceneo",
+   "data": "2026-09-17",
+   "kto": "Marek",
+   "uwagi": "Burzowy jeździec-mech Kaia — fałsz (werdykt po sprawdzeniu karty Ceneo)"
+  },
+  "60404": {
+   "cena": 35.98,
+   "sklep": "ceneo",
+   "data": "2026-09-17",
+   "kto": "Marek",
+   "uwagi": "Ciężarówka z burgerami — fałsz"
+  },
+  "31146": {
+   "cena": 37.6,
+   "sklep": "ceneo",
+   "data": "2026-09-17",
+   "kto": "Marek",
+   "uwagi": "Ciężarówka z platformą i helikopterem 3w1 — fałsz"
+  }
  }
 }

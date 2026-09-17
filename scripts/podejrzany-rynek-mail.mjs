@@ -22,7 +22,12 @@ const czytaj = (p) => JSON.parse(readFileSync(new URL(`../src/data/${p}`, import
 const feed = czytaj('oferty_feed.json').sety;
 const sety = czytaj('sety.json');
 const rrpPotwierdzone = czytaj('rrp_potwierdzone.json');
-const potwierdzone = czytaj('deale_potwierdzone.json').potwierdzone ?? {};
+const dealePotwierdzone = czytaj('deale_potwierdzone.json');
+const potwierdzone = dealePotwierdzone.potwierdzone ?? {};
+// Werdykty „fałsz" (zaślepka/podszywka) — oferta zostaje ukryta na stronie
+// jak każda niepotwierdzona, a tu przestajemy o nią pytać w mailu. Nowa,
+// NIŻSZA cena niż oceniona wraca do maila (może to już inna oferta).
+const odrzucone = dealePotwierdzone.odrzucone ?? {};
 const redirects = czytaj('redirects.json');
 const katalog = czytaj('katalog.json');
 const PROG = 0.5; // = PROG_PODEJRZANEGO_RYNKU w src/lib/oferty.js
@@ -46,6 +51,8 @@ function sprawdz(nr, sklep, cena) {
   if (!rrp || !(cena > 0) || cena >= PROG * rrp) return;
   const p = potwierdzone[nr];
   if (p && cena >= p.cena - 0.01) return;
+  const o = odrzucone[nr];
+  if (o && cena >= o.cena - 0.01) return;
   kandydaci.set(`${nr}|${sklep}`, { nr, sklep, cena, rrp, rabat: Math.round(100 * (1 - cena / rrp)), nazwa: sety[nr]?.nazwa ?? nazwy.get(nr) ?? '', link: linkSklepu(sklep, nr), potwierdzonaWczesniej: p ? `${p.cena} zł (${p.data})` : '' });
 }
 for (const [nr, w] of Object.entries(feed)) for (const [sklep, cena] of Object.entries(w.oferty ?? {})) sprawdz(nr, sklep, cena);
