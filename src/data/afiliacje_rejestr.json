@@ -215,12 +215,13 @@
  },
  "lidl": {
   "siec": "Tradedoubler",
-  "status": "wyslane",
+  "status": "aktywny",
   "prowizja": "CPS - stawka do odczytu w panelu po akcepcie",
   "cookie_dni": null,
   "format_linkow": "gotowy productUrl z feedu (pdt.tradedoubler.com, jak Ceneo) - do zweryfikowania po pierwszym pobraniu",
   "feed": "TD productFeeds: „LEGO klocki” fid=259772 (tylko klocki LEGO; info od TD 17.09.2026). Import: scripts/ceneo-feed.mjs --sklep lidl; wpis w feedy.json z aktywny:false do czasu akceptu",
   "data": "2026-09-17",
-  "uwagi": "Zgloszenie do programu Lidl online wyslane 17.09.2026 (Marek). Po akcepcie: programId do rejestru, feedy.json lidl.aktywny=true, pierwsze pobranie --sucho, sklepy.json ma juz wpis lidl."
+  "uwagi": "Program „Lidl Sklep Online” programId 298327 — Publisher API (sourceId 3494691) 17.09.2026 12:10: statusName ACCEPTED, avgEpc 169,95. Feed produktowy 259772 mimo to odpowiada PF_392 „Requester is not connected to Feed” (takze linkiem z panelu, ten sam token) — nie ma go na liscie productFeeds naszego tokena; polaczenie feedu z witryna trzeba odblokowac po stronie TD (opiekun programu). feedy.json lidl.aktywny=false do czasu pierwszego udanego pobrania.",
+  "programId": 298327
  }
 }

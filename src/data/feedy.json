@@ -118,7 +118,7 @@
  "lidl": {
   "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=259772?token=<TD_TOKEN>",
   "format": "json",
-  "siec": "Tradedoubler (program Lidl online, konto a=3494691; programId do wpisania po akcepcie)",
+  "siec": "Tradedoubler (program „Lidl Sklep Online” 298327, ACCEPTED 17.09.2026; konto a=3494691)",
   "fid": 259772,
   "aktywny": false,
   "skrypt": "node scripts/ceneo-feed.mjs --sklep lidl — ten sam importer co Ceneo; po akcepcie programu ustawic aktywny: true, wtedy wtorkowy Routine (krok 6) bierze go automatycznie",
@@ -129,7 +129,7 @@
    "zdjecie": "products[].productImage.url"
   },
   "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
-  "status": "oczekuje na akcept programu (zgloszenie Marka 17.09.2026); TD: PF_392 „Requester is not connected to Feed (259772)”",
+  "status": "program ACCEPTED (Publisher API 17.09.2026), ale feed 259772 nie jest podpiety do witryny: PF_392 z API i z linku panelu; czeka na TD",
   "ostatnie_pobranie": null,
   "uwagi": [
    "Feed „LEGO klocki” nr 259772 — tylko klocki LEGO (info od TD 17.09.2026).",
