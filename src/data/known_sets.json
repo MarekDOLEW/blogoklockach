@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-16",
+  "data_aktualizacji": "2026-09-17",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1172,
+  "liczba_setow": 1173,
   "sety": [
     "10280",
     "10281",
@@ -385,6 +385,7 @@
     "40894",
     "40896",
     "40897",
+    "40900",
     "40901",
     "40902",
     "40905",
@@ -1445,12 +1446,6 @@
       "nazwa": "Bruce Wayne i strój Batmana — polybag GWP",
       "status": "Brickset 2026-09-10: 35 elementow, DC Comics Super Heroes, category 'Normal'. StoneWars 2026-09-09 opisuje to jako gratis na Batman Day — dodawany od 40 EUR zakupow w sklepie LEGO. Gratis promocyjny, nie pozycja detaliczna: nie opisujemy, ale warto wiedziec, ze istnieje, bo wplywa na decyzje zakupowe.",
       "premiera": "2026-02"
-    },
-    {
-      "numer": "40900",
-      "nazwa": "Zestaw promocyjny — rezerwacja",
-      "status": "Brickset 2026-09-09: pusty rekord, motyw 'Promotional', kategoria '{t.b.a.}', start 2026-09-21. Data startu jest, nazwy nie ma. Numer sasiaduje z 40899 (Astro Bot), tez promocyjnym.",
-      "premiera": "2026-09"
     },
     {
       "numer": "30759",
@@ -5941,5 +5936,12 @@
     "odsiane": "L0002207 (Ninjago, 5 elementow) i L0002240 (Star Wars) — numery z prefiksem 'L000', czyli modele i figurki LEGOLAND, nie zestawy detaliczne. Trzeci taki przypadek w tygodniu (14.09 L0002226).",
     "zrodla_bez_zmian": "PromoBricks bez nowych wpisow. StoneWars poza 11387 bez nowosci katalogowych."
   },
-  "filtr_numery_LEGOLAND": "Ustalone 2026-09-16: numery z prefiksem 'L000' (np. L0002207, L0002226, L0002240) to modele i figurki LEGOLAND, nie zestawy detaliczne. Przychodza z kategoria '{t.b.a.}' i normalnym motywem (Ninjago, Star Wars, City), wiec ani filtr kategorii, ani filtr motywu ich nie lapie. Odsiewac po prefiksie numeru."
+  "filtr_numery_LEGOLAND": "Ustalone 2026-09-16: numery z prefiksem 'L000' (np. L0002207, L0002226, L0002240) to modele i figurki LEGOLAND, nie zestawy detaliczne. Przychodza z kategoria '{t.b.a.}' i normalnym motywem (Ninjago, Star Wars, City), wiec ani filtr kategorii, ani filtr motywu ich nie lapie. Odsiewac po prefiksie numeru.",
+  "przeglad_2026_09_17": {
+    "nowosc": "40900 ujawniony i potwierdzony: 'Scary Haunted Tree' (u nas 'Straszne nawiedzone drzewo'), Creator / Seasonal, 218 elementow, 8+, start 2026-09-21. Brickset ma oficjalna date i oznaczenie availability 'LEGO Gift with Purchase'; StoneWars opisuje prezentacje. Dodany do sety.json, cena_katalogowa null — gratis nie ma ceny katalogowej.",
+    "zmiana_motywu": "Rekord 40900 sledzilismy od 09.09 jako pusty z motywem 'Promotional'. Brickset przepisal go do 'Creator' z podseria 'Seasonal'. Motyw nie przesadza wiec o formie dystrybucji — przesadza pole availability. Ta sama lekcja co przy 40899 (14.09): wielkosc ani motyw nie mowia, czy cos jest gratisem.",
+    "drugi_gratis_w_miesiacu": "40899 (Astro Bot, 276 el.) i 40900 (drzewo, 218 el.) to dwa gratisy w ciagu trzech tygodni. Roznica: 40900 JEST potwierdzony przez LEGO, 40899 nadal opiera sie na przecieku z Reddita.",
+    "odsiane": "6644878 'Batman Mini Bust' — kategoria 'Other', gadzet.",
+    "promobricks": "Bez nowych wpisow katalogowych."
+  }
 }

@@ -65,6 +65,25 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 05:30 · SCOUT · Sygnały wycofań dla runnera Wycofań
+
+- **Lista „Ostatnia szansa" urosła z ponad 100 do ponad 300 pozycji** —
+  <https://www.stonewars.de/news/letzte-chance-eol-ende-2026/>, artykuł
+  zaktualizowany: „LEGO markiert weitere 200 EOL-Sets, jetzt über 300
+  Auslaufmodelle zum Jahresende 2026". Termin: koniec 2026.
+
+  To ten sam adres, z którego 15.09 wziąłem 93 numery (16 z nich dopisałem
+  wtedy do `wycofania.json`, jeszcze pod starą regułą — patrz wpis z 16.09).
+  Artykuł od tamtej pory urósł o około 200 pozycji, więc **poprzedni odczyt
+  jest już niepełny**.
+
+  Numerów nie wyciągałem — `wycofania.json` nie jest moim plikiem, a przy tej
+  skali sensowniej zrobić to raz, po stronie właściciela, razem z weryfikacją.
+
+**Dla drugiej strony:** runner Wycofań — to jest największy sygnał EOL w tym
+sezonie i wypada na trzy miesiące przed świętami. Warto go wziąć w poniedziałek
+w całości, a nie w kawałkach.
+
 ## 2026-09-16 16:20 · CODE · Linki do sklepów i Ceneo w nowej karcie (decyzja Marka)
 
 Wszystkie anchory `/idz/…` mają `target="_blank"` w szablonach (TabelaCen ×3,
