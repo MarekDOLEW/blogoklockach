@@ -11,7 +11,7 @@
    "storage.googleapis.com",
    "webep1.com"
   ],
-  "zaktualizowano": "2026-08-17",
+  "zaktualizowano": "2026-09-17",
   "wyciag_lego": "scripts/feedy-lego.py — pobiera feedy ME/PK/Allegro i zapisuje WYLACZNIE oferty LEGO do jednego pliku JSON (domyslnie /tmp/feedy-lego.json, ~4 MB zamiast ~630 MB surowych feedow). Uzycie: python3 scripts/feedy-lego.py [--tylko mediaexpert,allegro] [--wyjscie plik.json]. Lowca Promocji NIE parsuje juz feedow recznie - uruchamia ten skrypt i pracuje na wyciagu. Zweryfikowane 2026-08-21: ME 758 setow, PK 1299, Allegro 7037."
  },
  "planetaklockow": {
@@ -95,7 +95,7 @@
   "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=256472?token=<TD_TOKEN>",
   "format": "json",
   "siec": "Tradedoubler (program Ceneo CPS 385881, konto a=3494691)",
-  "skrypt": "node scripts/ceneo-feed.mjs — pobiera feed, aktualizuje redirects.ceneo i ceny w oferty_feed",
+  "skrypt": "node scripts/ceneo-feed.mjs — pobiera wszystkie aktywne feedy TD z tego pliku (Ceneo, Lidl…), aktualizuje redirects.<sklep>, ceny w oferty_feed i (poza Ceneo) oferty w sety.json",
   "pola": {
    "nazwa": "products[].name",
    "cena": "products[].offers[0].priceHistory[-1].price.value",
@@ -111,6 +111,29 @@
    "Node fetch nie idzie przez proxy srodowiska - skrypt pobiera curl-em.",
    "Ceneo to porownywarka: cena = najnizsza oferta rynkowa. W tabelach cen wiersz Ceneo stoi ZAWSZE NA KONCU i nie bierze udzialu w sortowaniu ani w 'najnizszej cenie' na listach (decyzja Marka 2026-08-20).",
    "Feed nie ma daty waznosci cen - odswiezac codziennie razem z pozostalymi."
+  ],
+  "fid": 256472,
+  "aktywny": true
+ },
+ "lidl": {
+  "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=259772?token=<TD_TOKEN>",
+  "format": "json",
+  "siec": "Tradedoubler (program Lidl online, konto a=3494691; programId do wpisania po akcepcie)",
+  "fid": 259772,
+  "aktywny": false,
+  "skrypt": "node scripts/ceneo-feed.mjs --sklep lidl — ten sam importer co Ceneo; po akcepcie programu ustawic aktywny: true, wtedy wtorkowy Routine (krok 6) bierze go automatycznie",
+  "pola": {
+   "nazwa": "products[].name",
+   "cena": "products[].offers[0].priceHistory[-1].price.value",
+   "link_afiliacyjny": "products[].offers[0].productUrl (gotowy link pdt.tradedoubler.com)",
+   "zdjecie": "products[].productImage.url"
+  },
+  "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
+  "status": "oczekuje na akcept programu (zgloszenie Marka 17.09.2026); TD: PF_392 „Requester is not connected to Feed (259772)”",
+  "ostatnie_pobranie": null,
+  "uwagi": [
+   "Feed „LEGO klocki” nr 259772 — tylko klocki LEGO (info od TD 17.09.2026).",
+   "Lidl to sklep z wlasnym magazynem: oferty wchodza tez do sety.json (deale), inaczej niz Ceneo."
   ]
  }
 }

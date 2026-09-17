@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-09-15",
+  "zaktualizowano": "2026-09-17",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -212,5 +212,15 @@
   "feed": null,
   "data": null,
   "uwagi": "dadada.pl monetyzowane przez BuyBox (ustalone z linkow promoklocki). Rejestracja buybox.pl moze dac kilka malych sklepow naraz."
+ },
+ "lidl": {
+  "siec": "Tradedoubler",
+  "status": "wyslane",
+  "prowizja": "CPS - stawka do odczytu w panelu po akcepcie",
+  "cookie_dni": null,
+  "format_linkow": "gotowy productUrl z feedu (pdt.tradedoubler.com, jak Ceneo) - do zweryfikowania po pierwszym pobraniu",
+  "feed": "TD productFeeds: „LEGO klocki” fid=259772 (tylko klocki LEGO; info od TD 17.09.2026). Import: scripts/ceneo-feed.mjs --sklep lidl; wpis w feedy.json z aktywny:false do czasu akceptu",
+  "data": "2026-09-17",
+  "uwagi": "Zgloszenie do programu Lidl online wyslane 17.09.2026 (Marek). Po akcepcie: programId do rejestru, feedy.json lidl.aktywny=true, pierwsze pobranie --sucho, sklepy.json ma juz wpis lidl."
  }
 }
