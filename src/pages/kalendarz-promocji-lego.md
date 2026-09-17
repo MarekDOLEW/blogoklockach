@@ -31,6 +31,7 @@ Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span
 | **9–19.09** | Batman Day: podwójne punkty + gratis 30726 od 165 zł | <span class="status status--ok">potwierdzone</span> |
 | **16–17.09** | „Zbuduj i Zabierz": popiersie Batmana w salonach LEGO, 15:00–17:00 | <span class="status status--maybe">przewidywane</span> |
 | **21–30.09** | GWP 40900 Straszne nawiedzone drzewo od ok. 375 zł | <span class="status status--maybe">przewidywane</span> |
+| **21–30.09** | GWP 40722 Świecący duszek od 500 zł – tylko z kodów partnerskich | <span class="status status--maybe">przewidywane</span> |
 | **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
 | **1.10** (Insiders) / **4.10** | Pozostałe premiery października: 72306 PlayStation, 21371 Wallace i Gromit, fala świąteczna | <span class="status status--ok">potwierdzone</span> |
 | ok. 20.11–30.11 | Black Friday (27.11) i Cyber Monday (30.11) | <span class="status status--maybe">przewidywane</span> |
@@ -111,6 +112,8 @@ Tegoroczny Batman Day to nie jeden dzień, tylko okno **od 9 do 19 września** �
 **Osobno, w sklepach stacjonarnych: „Zbuduj i Zabierz" z popiersiem Batmana, 16–17 września, w godzinach 15:00–17:00.** To mikromodel składany na miejscu, w ograniczonej liczbie sztuk – kto pierwszy, ten lepszy. Akcja dotyczy wyłącznie salonów LEGO, więc jeśli nie masz takiego w mieście, nie ma czego szukać online.
 
 **Gratis halloweenowy: 40900 Straszne nawiedzone drzewo, 21–30 września**, przy zakupach od około **375 zł**. Próg podajemy za serwisem branżowym, który sam oznacza go jako niepotwierdzony – traktuj go jako orientacyjny i sprawdź w koszyku przed finalizacją zamówienia. Wcześniej spodziewaliśmy się tego gratisu dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
+
+**W tym samym oknie 21–30 września krążą kody partnerskie na drugi gratis** – zestaw 40722 Świecący duszek, przy progu 500 zł z dowolnej serii. Kodów nie rozdajemy i nie musisz ich szukać: ważniejsze jest to, co z nich wynika. Gratis odebrany z kodu najprawdopodobniej zajmuje **jeden z trzech slotów nagrody Insiders**, więc nie zakładaj, że oba upominki wpadną do jednego koszyka. Jeśli masz wybrać jeden, licz progi: 375 zł do drzewa jest niżej niż 500 zł do duszka. Oba warunki pochodzą z serwisu branżowego i oba są tam oznaczone jako niepotwierdzone – sprawdź koszyk przed zapłatą.
 
 Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu branżowego z 9 września. Event stacjonarny i gratis halloweenowy zostają przewidywane, bo tych LEGO jeszcze nie ogłosiło.
 
