@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-16",
-  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-16 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
+  "zaktualizowano": "2026-09-17",
+  "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-17 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -37,8 +37,8 @@
  "72168": {
   "nazwa": "Rayquaza",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 409.7,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "11381": {
@@ -93,8 +93,8 @@
  "11382": {
   "nazwa": "Kosmiczny Teleskop Hubble'a",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 395.0,
-  "najnizsza_data": "2026-08-28",
+  "najnizsza_cena": 369.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31221": {
@@ -198,8 +198,8 @@
  "72154": {
   "nazwa": "Kultowy Pokéball z Trenerami",
   "cena_katalogowa": 1129.99,
-  "najnizsza_cena": 1126.49,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 1126.01,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42238": {
@@ -233,8 +233,8 @@
  "11505": {
   "nazwa": "Grzyby leśne",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 225.98,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 224.9,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "11507": {
@@ -254,8 +254,8 @@
  "76354": {
   "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
   "cena_katalogowa": 1599.99,
-  "najnizsza_cena": 1123.27,
-  "najnizsza_data": "2026-09-02",
+  "najnizsza_cena": 1089.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "21368": {
@@ -289,16 +289,16 @@
  "72537": {
   "nazwa": "Tygrys Derpy i Sroka Sussie",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 205.0,
-  "najnizsza_data": "2026-08-27",
+  "najnizsza_cena": 195.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42240": {
   "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 719.99,
-  "najnizsza_data": "2026-08-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 659.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "75453": {
   "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
@@ -324,8 +324,8 @@
  "42239": {
   "nazwa": "Batmobile Tumbler",
   "cena_katalogowa": 819.99,
-  "najnizsza_cena": 569.0,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 559.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "75454": {
@@ -366,16 +366,16 @@
  "42231": {
   "nazwa": "Samochód Fast and Furious Dodge Charger R/T",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 459.99,
-  "najnizsza_data": "2026-08-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 454.99,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "42235": {
   "nazwa": "Samochód Ferrari 488 Pista",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 193.28,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 175.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "40860": {
   "nazwa": "Toy Story",
@@ -387,8 +387,8 @@
  "42234": {
   "nazwa": "Samochód sportowy Dodge Viper GTS-R",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 189.98,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 179.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "43029": {
@@ -471,8 +471,8 @@
  "77059": {
   "nazwa": "Timmy i Tommy na spacerze",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 182.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 169.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "11511": {
@@ -583,8 +583,8 @@
  "77983": {
   "nazwa": "Atak mozazaura na łódź",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 289.0,
-  "najnizsza_data": "2026-09-04",
+  "najnizsza_cena": 280.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "11212": {
@@ -954,8 +954,8 @@
  "77082": {
   "nazwa": "Jaskinia Ubawu",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 589.0,
-  "najnizsza_data": "2026-08-27",
+  "najnizsza_cena": 579.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42704": {
@@ -1017,8 +1017,8 @@
  "21597": {
   "nazwa": "Stacja Ghasta",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 279.0,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 265.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10469": {
@@ -1066,8 +1066,8 @@
  "42694": {
   "nazwa": "Furgonetka z pizzą",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.87,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 43.81,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "mediaexpert"
  },
  "42697": {
@@ -1164,8 +1164,8 @@
  "60497": {
   "nazwa": "Automatyczna myjnia samochodowa",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 155.98,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 149.9,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42690": {
@@ -1192,8 +1192,8 @@
  "76352": {
   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 383.4,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 382.92,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "43294": {
@@ -1234,8 +1234,8 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 342.4,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 341.92,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76340": {
@@ -1276,8 +1276,8 @@
  "21596": {
   "nazwa": "Najazd przywoływaczy na wioskę",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 254.98,
-  "najnizsza_data": "2026-08-23",
+  "najnizsza_cena": 239.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42676": {
@@ -1360,8 +1360,8 @@
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 202.4,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 201.92,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "43298": {
@@ -1402,8 +1402,8 @@
  "76788": {
   "nazwa": "Akademia Nevermore",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 296.49,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 296.01,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10464": {
@@ -1751,8 +1751,8 @@
  "21367": {
   "nazwa": "Tintin i rakieta na Księżyc",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 480.11,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 429.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "21366": {
@@ -1821,9 +1821,9 @@
  "71861": {
   "nazwa": "Stare miasto — 15-lecie",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1524.98,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 1389.99,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "60508": {
   "nazwa": "Napad na policyjny pociąg",
@@ -1835,8 +1835,8 @@
  "42228": {
   "nazwa": "Bolid McLaren MCL39 F1",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 639.0,
-  "najnizsza_data": "2026-08-30",
+  "najnizsza_cena": 619.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42691": {
@@ -2066,9 +2066,9 @@
  "42206": {
   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 699.99,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 699.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "10360": {
   "nazwa": "Samolot transportowy z promem kosmicznym",
@@ -2234,8 +2234,8 @@
  "10337": {
   "nazwa": "Lamborghini Countach 5000 Quattrovalvole",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 654.99,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 589.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10334": {
@@ -2269,8 +2269,8 @@
  "42211": {
   "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
   "cena_katalogowa": 439.99,
-  "najnizsza_cena": 279.99,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 279.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60361": {
@@ -2304,9 +2304,9 @@
  "75413": {
   "nazwa": "Czołg Republiki Juggernaut",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 448.99,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 419.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "43247": {
   "nazwa": "Król Lew - młody Simba",
@@ -2430,8 +2430,8 @@
  "71813": {
   "nazwa": "Dojo cienia Wilczej Maski",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 442.99,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 442.98,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42141": {
@@ -2451,8 +2451,8 @@
  "42175": {
   "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 651.71,
-  "najnizsza_data": "2026-09-14",
+  "najnizsza_cena": 613.39,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "43267": {
@@ -2472,8 +2472,8 @@
  "75639": {
   "nazwa": "Statek piracki Going Merry",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 438.88,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 438.56,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60337": {
@@ -2507,15 +2507,15 @@
  "10291": {
   "nazwa": "Queer Eye - Mieszkanie Fab Five",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 248.95,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 248.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "42176": {
   "nazwa": "Samochód wyścigowy Porsche GT4 e-Performance",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 499.79,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 429.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76419": {
@@ -2542,8 +2542,8 @@
  "10357": {
   "nazwa": "Shelby Cobra 427 S/C",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 499.0,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 469.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31109": {
@@ -2864,8 +2864,8 @@
  "42664": {
   "nazwa": "Przygoda na łodzi",
   "cena_katalogowa": 319.99,
-  "najnizsza_cena": 204.99,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 189.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76450": {
@@ -3074,8 +3074,8 @@
  "42671": {
   "nazwa": "Zielona kawiarnia i kwiaciarnia",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 251.99,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 229.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "72039": {
@@ -3088,8 +3088,8 @@
  "42170": {
   "nazwa": "Motocykl Kawasaki Ninja H2R",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 229.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 219.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "71794": {
@@ -3242,8 +3242,8 @@
  "42654": {
   "nazwa": "Ranczo kucyków i stajnia",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 237.0,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 219.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60436": {
@@ -3389,8 +3389,8 @@
  "75440": {
   "nazwa": "AT-AT",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 189.99,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 185.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31384": {
@@ -3466,8 +3466,8 @@
  "76254": {
   "nazwa": "Statek kosmiczny małego Rocketa",
   "cena_katalogowa": 149.99,
-  "najnizsza_cena": 117.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 117.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31151": {
@@ -3571,8 +3571,8 @@
  "31220": {
   "nazwa": "Claude Monet – Most nad stawem z liliami wodnymi",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 635.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 609.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76922": {
@@ -3858,8 +3858,8 @@
  "43306": {
   "nazwa": "Miś Tuliś",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 169.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 161.99,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31173": {
@@ -3907,8 +3907,8 @@
  "76344": {
   "nazwa": "Iron Man Mark 3 - edycja kolekcjonerska",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 410.0,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 399.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "41751": {
@@ -4082,8 +4082,8 @@
  "42618": {
   "nazwa": "Kawiarnia w Heartlake",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 101.73,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 101.67,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "40816": {
@@ -4117,8 +4117,8 @@
  "71866": {
   "nazwa": "Ozdoba z postaciami Ninja – 15-lecie",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 114.16,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 113.9,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60451": {
@@ -4299,8 +4299,8 @@
  "75405": {
   "nazwa": "Krążownik typu Home One",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 184.96,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 170.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10776": {
@@ -4537,8 +4537,8 @@
  "76424": {
   "nazwa": "Latający Ford Anglia",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 40.99,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 40.98,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "mediaexpert"
  },
  "71856": {
@@ -4649,8 +4649,8 @@
  "21365": {
   "nazwa": "Papużki nierozłączki",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 199.69,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 199.25,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "77245": {
@@ -4705,8 +4705,8 @@
  "42208": {
   "nazwa": "Aston Martin Valkyrie",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 164.9,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 155.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60403": {
@@ -4845,8 +4845,8 @@
  "10313": {
   "nazwa": "Botanicals Bukiet z polnych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 173.3,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 169.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60479": {
@@ -4978,8 +4978,8 @@
  "42689": {
   "nazwa": "Domek klubu przyjaciół z Heartlake",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 249.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 249.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60340": {
@@ -5097,15 +5097,15 @@
  "42204": {
   "nazwa": "Fast and Furious Toyota Supra MK4",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 176.22,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 165.99,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "43264": {
   "nazwa": "Toy Story - Okolicznościowy pociąg i Pan Sterowany",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 130.11,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 129.98,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "41752": {
@@ -5181,9 +5181,9 @@
  "43270": {
   "nazwa": "Kajakowa przygoda Vaiany",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 172.45,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 159.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "75372": {
   "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",
@@ -5237,8 +5237,8 @@
  "42227": {
   "nazwa": "SUV Jeep Wrangler Rubicon",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 179.89,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 179.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42688": {
@@ -5342,8 +5342,8 @@
  "77238": {
   "nazwa": "Lamborghini Revuelto i Huracán STO",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 157.0,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 155.4,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10344": {
@@ -5370,8 +5370,8 @@
  "42212": {
   "nazwa": "Ferrari FXX K",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 167.18,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 159.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "60487": {
@@ -5699,8 +5699,8 @@
  "71422": {
   "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 122.69,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 122.67,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "31150": {
@@ -5741,15 +5741,15 @@
  "41717": {
   "nazwa": "Mia ratowniczka dzikich zwierząt",
   "cena_katalogowa": 229.99,
-  "najnizsza_cena": 159.0,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 138.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "10374": {
   "nazwa": "Bukiet różowych róż",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 174.99,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 174.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "40886": {
@@ -6301,8 +6301,8 @@
  "31218": {
   "nazwa": "Japoński krajobraz z kwitnącą wiśnią",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 370.01,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 369.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "21357": {
@@ -6504,8 +6504,8 @@
  "76333": {
   "nazwa": "Batmobil z filmu Batman i Robin",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 149.0,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 147.99,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76420": {
@@ -6700,8 +6700,8 @@
  "42669": {
   "nazwa": "Dom pszczelarzy i kwiatowy ogród",
   "cena_katalogowa": 300.99,
-  "najnizsza_cena": 289.0,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 270.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "71824": {
@@ -6742,8 +6742,8 @@
  "40901": {
   "nazwa": "Przekąski Ministerskie i Prorok Codzienny – stoiska",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 138.97,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 138.84,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42203": {
@@ -6798,8 +6798,8 @@
  "71855": {
   "nazwa": "Bitwa smoka Riyu",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 193.88,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 192.98,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "40647": {
@@ -6973,8 +6973,8 @@
  "71843": {
   "nazwa": "Mech smoczego jeźdźca Rogue’a",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 235.99,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 229.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "42626": {
@@ -7043,9 +7043,9 @@
  "71515": {
   "nazwa": "Rekinoczołg tygrysi",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 419.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 409.9,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "76975": {
   "nazwa": "Ucieczka rzeką przed tyranozaurem",
@@ -7106,8 +7106,8 @@
  "60338": {
   "nazwa": "Kaskaderska pętla i szympans demolka",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 139.99,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 139.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "75445": {
@@ -7162,8 +7162,8 @@
  "42213": {
   "nazwa": "SUV Ford Bronco",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 186.96,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 175.0,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "76297": {
@@ -7372,9 +7372,9 @@
  "31161": {
   "nazwa": "Średniowieczny smok",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 173.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 163.99,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "60454": {
   "nazwa": "Wakacyjny kamper pełen przygód",
@@ -7428,9 +7428,9 @@
  "42173": {
   "nazwa": "Szary hipersamochód Koenigsegg Jesko Absolut",
   "cena_katalogowa": 219.99,
-  "najnizsza_cena": 155.77,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 149.0,
+  "najnizsza_data": "2026-09-17",
+  "najnizsza_sklep": "allegro"
  },
  "10447": {
   "nazwa": "Karetka z kierowcą",
@@ -7785,8 +7785,8 @@
  "42652": {
   "nazwa": "Spotkanie w domku na Drzewie Przyjaźni",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 218.89,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 217.9,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  },
  "40809": {
@@ -7890,8 +7890,8 @@
  "11379": {
   "nazwa": "Księgarnia — zakątek z książkami",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 556.49,
-  "najnizsza_data": "2026-09-16",
+  "najnizsza_cena": 556.01,
+  "najnizsza_data": "2026-09-17",
   "najnizsza_sklep": "allegro"
  }
 }
