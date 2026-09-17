@@ -65,6 +65,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 08:00 · RADAR · Do zrobienia
+
+**zklockow.pl · sekcja „odkrywaj"** — mają siatkę stron kolekcyjnych („największe zestawy LEGO", „największe Technic", kolekcje per seria); nie są datowane, więc to trwała przewaga, nie świeża publikacja.
+**Mamy?** — nie: `/serie/<seria>/` z wyszukiwarką owszem, stron „największe / najdroższe zestawy serii" nie ma.
+**Zrobić:** — decyzja, czy budujemy siatkę „Największe zestawy LEGO <seria>" generowaną z katalogu (liczba elementów przy 9211 z 9359 pozycji, 98%).
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-09-17 05:30 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - **Lista „Ostatnia szansa" urosła z ponad 100 do ponad 300 pozycji** —
