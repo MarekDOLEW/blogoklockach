@@ -65,6 +65,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 06:30 · CYKL RANKINGÓW · Ustalenie trybu i pierwszy tekst
+
+**Polecenie Marka (17.09):** cykl dziewięciu rankingów katalogowych, publikacja
+co 3 dni, artykuły najpierw w PDF do niego — podsyła Piotrowi do akceptacji.
+
+**Kolejność ustalona po dopytaniu:** PDF → akceptacja Piotra → dopiero push na
+`main`. To wyjątek od reguły „sesja pushuje sama" i obowiązuje na cały cykl.
+Teksty czekają na lokalnej gałęzi `cykl-rankingi`, nie na `main`.
+
+**Harmonogram** (Routine `trig_017bUnuamQeRs6QuUgoXadkf`, co 3 dni o 07:00):
+19.09 najdroższe wg cennika · 22.09 najdroższe do kupienia dziś · 25.09 Technic
+· 28.09 Harry Potter · 1.10 Star Wars · 4.10 Friends · 7.10 najrzadsze
+· 10.10 licencje LEGO. Routine sam bierze pierwszą pozycję `planowane`
+z `redakcja/plan-redakcyjny.json` po polu `cykl`.
+
+**Tekst 1/9 gotowy, czeka na akceptację:** `/artykuly/najwieksze-zestawy-lego-historia/`,
+karta w `redakcja/karty/najwieksze-zestawy-lego.md`, commit `c25f368` na
+`cykl-rankingi`.
+
+**Pułapka, którą warto zapamiętać:** pierwsza analiza liczby sklepów dla
+gigantów wyszła „mediana 0 sklepów", bo poszła z `sety.json`. Źródłem ofert
+jest `oferty_feed.json` (klucz `sety`) — po poprawce mediana to 2, czyli
+dokładnie tyle, co dla całej bazy. Teza o słabej dystrybucji gigantów była
+fałszywa i nie weszła do tekstu.
+
+
 ## 2026-09-17 08:00 · RADAR · Do zrobienia
 
 **zklockow.pl · sekcja „odkrywaj"** — mają siatkę stron kolekcyjnych („największe zestawy LEGO", „największe Technic", kolekcje per seria); nie są datowane, więc to trwała przewaga, nie świeża publikacja.
