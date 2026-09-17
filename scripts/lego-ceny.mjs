@@ -26,7 +26,7 @@
 //   node scripts/lego-ceny.mjs katalog-legopl.json
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { zapiszFeed, zapiszSety, sprawdzUnikalnoscKatalogu } from './json-kolejnosc.mjs';
+import { zapiszFeed, zapiszSety, sprawdzUnikalnoscKatalogu, wykryjWciecie } from './json-kolejnosc.mjs';
 
 const arg = process.argv.slice(2);
 const plik = arg.find((a) => !a.startsWith('--'));
@@ -155,7 +155,8 @@ katalog._meta.lego_pl = `${dataZaciagu}: status dostepny + ekskluzyw + lego_pl_w
 zapiszFeed(P('oferty_feed.json'), feed, feedTekst);
 zapiszSety(P('sety.json'), sety, setyTekst);
 sprawdzUnikalnoscKatalogu(katalog);
-writeFileSync(P('katalog.json'), JSON.stringify(katalog, null, 1) + '\n');
+// wcięcie z pliku (17.09.2026: plik ma 2 spacje, sztywna „1” przepisywała 80 tys. linii)
+writeFileSync(P('katalog.json'), JSON.stringify(katalog, null, wykryjWciecie(readFileSync(P('katalog.json'), 'utf8')) || 2) + '\n');
 // walidacja append-only
 const po = {
   sety: Object.keys(JSON.parse(readFileSync(P('sety.json'), 'utf8'))).length,

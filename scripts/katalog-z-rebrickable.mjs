@@ -24,7 +24,7 @@
 // - pole `zrodlo: 'rebrickable'`, żeby dało się je odróżnić i kiedyś poprawić.
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { sprawdzUnikalnoscKatalogu } from './json-kolejnosc.mjs';
+import { sprawdzUnikalnoscKatalogu, wykryjWciecie } from './json-kolejnosc.mjs';
 import { gunzipSync } from 'node:zlib';
 
 const arg = process.argv.slice(2);
@@ -161,7 +161,8 @@ for (const { seria, wpis } of dopisane) {
 katalog._meta = katalog._meta ?? {};
 katalog._meta.rebrickable = `${new Date().toISOString().slice(0, 10)}: dopisano ${dopisane.length} zestawów z katalogu Rebrickable (nazwy EN, bez RRP, pole zrodlo=rebrickable) — wycenione w feedach numery, których katalog nie znał; decyzja Marka 15.09.2026: raz wpisany zestaw zostaje na zawsze.`;
 sprawdzUnikalnoscKatalogu(katalog);
-writeFileSync(KATALOG, JSON.stringify(katalog, null, 1) + '\n');
+// wcięcie z pliku (17.09.2026: plik ma 2 spacje, sztywna „1” przepisywała 80 tys. linii)
+writeFileSync(KATALOG, JSON.stringify(katalog, null, wykryjWciecie(readFileSync(KATALOG, 'utf8')) || 2) + '\n');
 // walidacja append-only
 const po = JSON.parse(readFileSync(KATALOG, 'utf8'));
 let liczba = 0; for (const [k, v] of Object.entries(po)) if (k !== '_meta' && Array.isArray(v)) liczba += v.length;

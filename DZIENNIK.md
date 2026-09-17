@@ -65,6 +65,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 09:10 · CODE · Karty Piotra P07c: 11387 Świąteczny dom, 40900 Straszne nawiedzone drzewo
+
+- Import `import-karty.py` (2 karty, 0 zablokowanych): 11387 — 4 akapity, 6 FAQ, metryka;
+  40900 — 2 akapity, 6 FAQ. Rejestr kart: 1 097 → 1 099.
+- **Nazwa 11387:** Piotr „Świąteczny domek", repo „Świąteczny dom" (tłumaczenie robocze
+  Scouta z 16.09; Brickset „Holiday Cottage"). Została nazwa z repo (reguła z 15.09),
+  ale ŻADNA nie pochodzi z lego.com PL — `katalog.json` miał jeszcze „Zimowa wioska 2026
+  (nazwa nieoficjalna)", wyrównany do sety.json z polem `nazwa_zrodlo`. Do potwierdzenia
+  na lego.com/pl-pl po 1.10 (start sprzedaży) — Dane wt wczyta oficjalną nazwę z listingu.
+- **40900 to GWP** (gratis do zakupów, bez RRP) — nie było go w katalogu, więc karta nie
+  miałaby huba; dopisany do Creator (`zrodlo` Brickset + karta). Dwa nowe placeholdery
+  Piotra („sprawdź warunki zdobycia LEGO <nr>", „sprawdź aktualne promocje LEGO") importer
+  kieruje na `/deale/`.
+- Pułapka przy okazji: `lego-ceny.mjs` i `katalog-z-rebrickable.mjs` zapisywały
+  `katalog.json` ze sztywnym wcięciem 1, a plik ma 2 — najbliższy wtorkowy przebieg
+  przepisałby 80 tys. linii. Oba biorą teraz wcięcie z pliku (`wykryjWciecie`).
+
 ## 2026-09-17 06:30 · CYKL RANKINGÓW · Zadanie cykliczne skasowane, teksty pisze Piotr
 
 **Przebieg dnia:** Marek zamówił rano cykl dziewięciu rankingów katalogowych

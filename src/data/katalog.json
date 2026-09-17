@@ -2241,12 +2241,13 @@
     },
     {
       "numer": "11387",
-      "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
+      "nazwa": "Świąteczny dom",
       "rok": 2026,
       "elementy": 1354,
       "status": "dostepny",
       "cena_katalogowa": 469.99,
-      "cena_zrodlo": "faniklockow 15.09.2026 + przelicznik z 109,99 EUR (Brickset)"
+      "cena_zrodlo": "faniklockow 15.09.2026 + przelicznik z 109,99 EUR (Brickset)",
+      "nazwa_zrodlo": "tłumaczenie robocze (Scout 16.09.2026, Brickset „Holiday Cottage”); nazwa PL z lego.com do potwierdzenia"
     },
     {
       "numer": "11389",
@@ -33262,6 +33263,16 @@
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Creator / Christmas"
+    },
+    {
+      "numer": "40900",
+      "nazwa": "Straszne nawiedzone drzewo",
+      "rok": 2026,
+      "elementy": 218,
+      "status": "dostepny",
+      "cena_katalogowa": null,
+      "zrodlo": "Brickset (GWP, start 21.09.2026) + karta Piotra 17.09.2026",
+      "uwagi": "gratis do zakupów w sklepie LEGO (GWP), bez ceny katalogowej"
     }
   ],
   "Friends": [

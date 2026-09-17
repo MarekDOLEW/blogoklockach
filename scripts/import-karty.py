@@ -170,6 +170,12 @@ def linkuj(t, seria_repo, slug, seria_ma_strone=True):
                '<a href="#ceny">porównaj oferty w sekcji cen nad opisem</a>', t)
     t = re.sub(r'\[zobacz analizę ceny(?: i próg zakupu)? – link wewnętrzny\]',
                '<a href="#ceny">sprawdź bieżące ceny na tle katalogowej w sekcji nad opisem</a>', t)
+    # Zestawy promocyjne (GWP, paczka P07c 17.09.2026): karta odsyła do warunków
+    # promocji, a nie do cen — kierujemy na dział deali, gdzie Łowca opisuje akcje sklepów.
+    t = re.sub(r'\[sprawdź warunki zdobycia LEGO \d+ – link wewnętrzny\]',
+               '<a href="/deale/">sprawdź bieżące promocje i akcje sklepów</a>', t)
+    t = re.sub(r'\[sprawdź aktualne promocje LEGO – link wewnętrzny\]',
+               '<a href="/deale/">zobacz aktualne promocje LEGO</a>', t)
     # kategoria bez własnej strony serii (GWP „Inne", LEGO House, LEGOLAND itp.)
     # albo etykieta opisowa – kierujemy na przegląd wszystkich serii
     if seria_ma_strone:

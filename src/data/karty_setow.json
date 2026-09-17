@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-09-15",
+  "zaktualizowano": "2026-09-17",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -55235,6 +55235,108 @@
    {
     "q": "Jak LEGO 21373 wypada na tle innych zestawów LEGO Ideas w podobnej cenie?",
     "a": "Downton Abbey będzie wyróżniać się liczbą minifigurek, płytką bryłą z otwartym tyłem i mocnym oparciem na jednej licencji. Przy porównaniu z innymi dużymi zestawami Ideas kluczowe będzie więc nie samo przeliczenie elementów, lecz zainteresowanie serialem, architekturą rezydencji i ekspozycją rozbudowanych wnętrz. <a href=\"/serie/ideas/\">zobacz wszystkie zestawy LEGO Ideas</a>"
+   }
+  ]
+ },
+ "11387": {
+  "seria": "Icons",
+  "nazwa": "Świąteczny dom",
+  "elementy": 1354,
+  "akapity": [
+   "LEGO Icons 11387 Świąteczny domek będzie tegoroczną odsłoną Winter Village Collection, czyli rozwijanej od lat kolekcji zimowych budynków i scenek. Z 1354 elementów powstanie zaśnieżony dom z dwuspadowymi dachami, werandą biegnącą wzdłuż elewacji oraz wykuszami i oknami ze szprosami. Fasada zostanie udekorowana girlandą, złotymi dzwonkami i ostrokrzewem, dzięki czemu model będzie pełnił przede wszystkim funkcję świątecznej dekoracji. Całość uzupełnią bałwan oraz sanie zaprzężone w konia.",
+   "W otwartym od tyłu wnętrzu znajdą się dwa poziomy wyposażone w kominek, gramofon, telefon z tarczą i zegar kominkowy. Świąteczny charakter podkreślą prezenty, skarpety, laski cukrowe i ciasto dyniowe. Centralnym elementem ekspozycji będzie choinka, którą będzie można ustawić wewnątrz budynku i podświetlić dołączonym elementem świetlnym. Jej blask będzie widoczny przez okna na obu kondygnacjach, co stanowi najważniejszy wyróżnik zestawu po zbudowaniu. Gotowy model będzie mierzył 21 cm wysokości, 28 cm szerokości i 14 cm głębokości. Otwarty tył ułatwi oglądanie umeblowania, a stosunkowo płytka konstrukcja pomoże włączyć dom do dłuższej uliczki albo ustawić go samodzielnie na komodzie. Weranda, bałwan i zaprzęg rozbudują scenkę bez znacznego zwiększania jej głębokości.",
+   "W zestawie znajdą się cztery minifigurki pozwalające zaludnić dom i otaczającą go zimową scenkę. Model został oznaczony jako 18+, lecz jego skala minifigurkowa i klasyczna architektura sprawią, że naturalnie połączy się ze starszymi zestawami Winter Village. To propozycja przede wszystkim dla kolekcjonerów budujących wspólną bożonarodzeniową makietę oraz dla osób szukających sezonowej dekoracji, którą można co roku ponownie ustawiać. Polska cena katalogowa wyniesie 469,99 zł. Członkowie LEGO Insiders będą mogli kupić zestaw od 1 października 2026, natomiast regularna sprzedaż rozpocznie się 4 października.",
+   "Na tle rocznika 2026 serii LEGO Icons to 11. największy zestaw spośród 21, o których wiemy w tym roku."
+  ],
+  "metryka": {
+   "Numer": "11387",
+   "Nazwa": "Świąteczny dom",
+   "Seria": "LEGO Icons",
+   "Premiera": "1 października 2026 dla LEGO Insiders; 4 października 2026 dla wszystkich",
+   "Liczba elementów": "1354",
+   "Wiek": "18+",
+   "Minifigurki": "4",
+   "Cena katalogowa RRP": "469,99 zł",
+   "Cena katalogowa za element": "około 0,35 zł",
+   "Typ zestawu": "sezonowy model ekspozycyjny dla dorosłych",
+   "Charakter i powiązanie": "coroczny zestaw z Winter Village Collection; dom w skali minifigurkowej",
+   "Wymiary": "21 cm wysokości, 28 cm szerokości i 14 cm głębokości",
+   "Dystrybucja": "ekskluzywna: LEGO.com i sklepy LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje zestaw LEGO 11387 Świąteczny domek?",
+    "a": "Polska cena katalogowa zestawu wyniesie 469,99 zł. <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 11387?",
+    "a": "Przy cenie katalogowej 469,99 zł i 1354 elementach koszt jednego elementu wyniesie około 0,35 zł. To wskaźnik pomocniczy, który nie uwzględnia elementu świetlnego, minifigurek ani wartości modelu jako części Winter Village Collection."
+   },
+   {
+    "q": "Czy warto kupić LEGO 11387 w cenie katalogowej?",
+    "a": "Zakup w RRP może mieć sens dla kolekcjonerów, którzy chcą dołączyć tegoroczny budynek do zimowej makiety już na początku sezonu. Przy ekskluzywnej dystrybucji większe znaczenie niż rabat mogą mieć podwójne punkty LEGO Insiders lub wartościowy prezent do zakupów."
+   },
+   {
+    "q": "Gdzie najlepiej kupić zestaw LEGO 11387 Świąteczny domek?",
+    "a": "Zestaw będzie oferowany przez LEGO.com i sklepy LEGO. Wcześniejszy dostęp dla członków LEGO Insiders rozpocznie się 1 października 2026, a regularna sprzedaż 4 października. <a href=\"#ceny\">porównaj oferty w sekcji cen nad opisem</a>"
+   },
+   {
+    "q": "Czy LEGO 11387 jest częścią większej kolekcji?",
+    "a": "Tak. Świąteczny domek należy do Winter Village Collection, w której co roku pojawiają się zimowe budynki, pojazdy i scenki w skali minifigurkowej. Model będzie można ustawić jako samodzielną dekorację albo połączyć ze starszymi zestawami kolekcji. <a href=\"/serie/icons/\">zobacz wszystkie zestawy LEGO Icons</a>"
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Najbliższymi propozycjami są wcześniejsze zestawy Winter Village przedstawiające świąteczne budynki i zimowe scenki. Przy wyborze warto sprawdzić przede wszystkim rozmiar dostępnej ekspozycji, liczbę minifigurek oraz to, czy model uzupełnia posiadaną już wioskę. <a href=\"/serie/icons/\">zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "40900": {
+  "seria": "Creator",
+  "nazwa": "Straszne nawiedzone drzewo",
+  "elementy": 218,
+  "akapity": [
+   "LEGO Creator 40900 Straszne nawiedzone drzewo będzie halloweenowym zestawem promocyjnym z 218 elementów, przeznaczonym dla osób od 8 lat. Główny model przedstawi czarne, powykręcane drzewo z szerokim pyskiem, ruchomymi ramionami i świecącymi w ciemności oczami. Niewielką scenkę uzupełnią dynia z klocków oraz kruk siedzący na gałęzi.",
+   "Obracany mechanizm pozwoli poruszać ramionami drzewa, a przycisk umieszczony z tyłu uruchomi czerwony element świetlny rozjaśniający jego uśmiech. Model będzie miał około 16 cm wysokości i sprawdzi się zarówno jako prosta konstrukcja do zabawy, jak i sezonowa dekoracja ustawiona na półce lub parapecie. Najważniejszym wyróżnikiem będzie połączenie dwóch funkcji – ruchu i podświetlenia – w niewielkim prezencie do zakupów. Dokładny termin oraz próg promocji w Polsce nie zostały jeszcze oficjalnie potwierdzone."
+  ],
+  "metryka": {
+   "Numer": "40900",
+   "Nazwa": "Straszne nawiedzone drzewo",
+   "Seria": "LEGO Creator",
+   "Premiera": "zapowiedziana na wrzesień 2026; dokładny termin promocji w Polsce nie został oficjalnie potwierdzony",
+   "Liczba elementów": "218",
+   "Wiek": "8+",
+   "Minifigurki lub postacie": "brak minifigurek; nawiedzone drzewo, dynia i kruk",
+   "Cena katalogowa RRP": "brak regularnej ceny detalicznej",
+   "Cena katalogowa za element": "nie dotyczy zestawu promocyjnego",
+   "Typ zestawu": "halloweenowy GWP z funkcją ruchu i podświetlenia",
+   "Charakter i powiązanie": "sezonowa dekoracja LEGO Creator",
+   "Wymiary": "16 cm wysokości, 17 cm szerokości i 7 cm głębokości",
+   "Dystrybucja": "promocyjna; polski próg i dokładne warunki uzyskania pozostają do potwierdzenia"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje zestaw LEGO 40900 Straszne nawiedzone drzewo?",
+    "a": "Zestaw nie ma regularnej ceny detalicznej, ponieważ został zapowiedziany jako prezent do zakupów. W Polsce istotny będzie próg promocji, który nie został jeszcze oficjalnie potwierdzony. <a href=\"/deale/\">sprawdź bieżące promocje i akcje sklepów</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 40900?",
+    "a": "Tego wskaźnika nie da się miarodajnie obliczyć, ponieważ zestaw nie ma ceny katalogowej RRP. O wartości GWP lepiej decydować na podstawie progu zakupowego i tego, czy wymagane zakupy były planowane niezależnie od promocji."
+   },
+   {
+    "q": "Czy warto spełnić próg promocji dla LEGO 40900?",
+    "a": "Tak, jeśli planowany koszyk i tak zbliża się do wymaganego progu, a halloweenowy model jest dla kupującego atrakcyjny. Nie warto natomiast dodawać niepotrzebnych zestawów wyłącznie po to, aby zdobyć gratis; decyzję najlepiej podjąć po ogłoszeniu oficjalnych warunków dla Polski."
+   },
+   {
+    "q": "Gdzie będzie można zdobyć zestaw LEGO 40900 Straszne nawiedzone drzewo?",
+    "a": "Zestaw ma być upominkiem związanym z zakupami w oficjalnych kanałach LEGO. Dokładny termin, próg i ewentualne ograniczenia terytorialne dla Polski wymagają jeszcze potwierdzenia. <a href=\"/deale/\">zobacz aktualne promocje LEGO</a>"
+   },
+   {
+    "q": "Czy LEGO 40900 jest częścią większej kolekcji?",
+    "a": "To sezonowy zestaw LEGO Creator na Halloween. Nie tworzy systemu wymagającego innych modeli, ale tematycznie nawiązuje do wcześniejszych jesiennych dekoracji i halloweenowych prezentów do zakupów. <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>"
+   },
+   {
+    "q": "Jaki zestaw LEGO Creator warto wybrać zamiast modelu 40900?",
+    "a": "Jeżeli podświetlane drzewo nie odpowiada odbiorcy albo próg promocji okaże się zbyt wysoki, warto sprawdzić regularnie sprzedawane dekoracje halloweenowe i sezonowe modele Creator. <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>"
    }
   ]
  }
