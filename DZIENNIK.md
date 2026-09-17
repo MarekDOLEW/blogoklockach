@@ -65,6 +65,38 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 17:40 · CODE · Poradnik wrześniowy przepisany: procent nie mierzy okazji (uwaga Marka)
+
+Marek po pierwszej wersji: „Nie zawsze procent jest największą okazją. Są zestawy
+ekskluzywne, które rzadko tanieją bardziej niż o 15% i te 15% jest najlepszą okazją,
+jaka była. Im droższy zestaw, tym mniejszy procent jest potrzebny, aby korzyść była
+większa." Policzone w ośmiu pasmach cenowych — **teza potwierdzona w danych**:
+
+| Pasmo | n | Mediana rabatu | Mediana oszczędności |
+|---|---|---|---|
+| do 100 zł | 270 | 24,1% | 13 zł |
+| 101–400 | 623 | 28,0% | 45 zł |
+| 401–800 | 178 | 26,2% | 128 zł |
+| 801–1200 | 47 | 18,8% | 217 zł |
+| 1201–1600 | 14 | 3,7% | 52 zł |
+| 1601–2000 | 10 | 7,1% | 138 zł |
+| 2001–2500 | 3 | 0% | 0 zł |
+| 2501+ | 5 | 0% | 0 zł |
+
+Do tego drugi przekrój: **ekskluzywy mediana 5,5% (n=79) wobec 27,3% reszty katalogu**.
+Skrajny przykład: 10333 Barad-dûr −4,8% = 109 zł i jest to minimum notowań.
+
+- Nowa oś tekstu: „−42% na zestawie za 43 zł to 18 zł; −20% na Barce Jabby to 423 zł
+  i najniższa cena, odkąd notujemy". Trzy miary przy każdej pozycji: procent,
+  oszczędność w złotówkach, pozycja na tle pasma.
+- **Dobór 12 pozycji przebudowany** — z każdego pasma. Weszły trzy zestawy, których
+  żadna lista sortowana procentem nie pokaże: 42172 McLaren P1 (−28%, 551 zł, ekskluzyw,
+  Media Expert), 75397 Barka Jabby (−20%, 423 zł, jedyna przecena w paśmie 2001–2500),
+  75367 Venator (−22%, 620 zł, największa oszczędność w tekście). Wypadły 60407, 42208,
+  43018 — z pasm, gdzie i tak było najgęściej.
+- Limit Allegro dalej 3/12. FAQ przepisane (pierwsze pytanie: dlaczego mały procent bywa
+  lepszą okazją). Karta researchu §3–6 przepisana z pełnymi tabelami.
+
 ## 2026-09-17 16:20 · CODE · Poradnik „Najlepsze oferty na LEGO — wrzesień 2026" (nowy format: karty ofert z żywą ceną)
 
 Polecenie Marka: odpowiednik listy ofert z fanklockow.pl, ale „mniej ofert i kilka
