@@ -116,10 +116,10 @@
       "tytul": "Ranking: największe zestawy LEGO w historii — pięćdziesiąt lat rosnącego rekordu",
       "dzial": "Rankingi",
       "okno": "2026-09-17..2026-09-17",
-      "status": "w_akceptacji",
+      "status": "planowane",
       "dlaczego": "Cykl 1/9. Progresja rekordu 1977-2026, punkt zwrotny w 2001 (pierwsza licencja na szczycie), gwiazdka przy mozaice 31203, druga oś: zł za element - rekordzista ma najniższą stawkę.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main.",
-      "url": "/artykuly/najwieksze-zestawy-lego-historia/"
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: najdroższe zestawy LEGO według ceny katalogowej",
@@ -127,7 +127,8 @@
       "okno": "2026-09-19..2026-09-19",
       "status": "planowane",
       "dlaczego": "Cykl 2/9. Tylko cennik producenta - co LEGO wycenia najwyżej i dlaczego to nie pokrywa się z listą największych.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: najdroższe zestawy LEGO, które da się dziś kupić",
@@ -135,7 +136,8 @@
       "okno": "2026-09-22..2026-09-22",
       "status": "planowane",
       "dlaczego": "Cykl 3/9. Ceny rynkowe zamiast cennika, więc wchodzą pozycje wycofane i historyczne. Nawiązanie do ustalenia z 16.09: giganty po wycofaniu mają medianę +20% wobec cennika.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: największe zestawy LEGO Technic",
@@ -143,7 +145,8 @@
       "okno": "2026-09-25..2026-09-25",
       "status": "planowane",
       "dlaczego": "Cykl 4/9. Technic trzymał rekord całego LEGO do 1999 - artykuł ma pokazać, co się z tą serią stało potem.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: największe zestawy LEGO Harry Potter",
@@ -151,7 +154,8 @@
       "okno": "2026-09-28..2026-09-28",
       "status": "planowane",
       "dlaczego": "Cykl 5/9.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: największe zestawy LEGO Star Wars",
@@ -159,7 +163,8 @@
       "okno": "2026-10-01..2026-10-01",
       "status": "planowane",
       "dlaczego": "Cykl 6/9. Seria z najwyższą ceną za element w całym katalogu - to musi być w tekście, nie w przypisie.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Ranking: największe zestawy LEGO Friends",
@@ -167,7 +172,8 @@
       "okno": "2026-10-04..2026-10-04",
       "status": "planowane",
       "dlaczego": "Cykl 7/9.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Historyczne: najrzadsze zestawy LEGO w historii",
@@ -175,7 +181,8 @@
       "okno": "2026-10-07..2026-10-07",
       "status": "planowane",
       "dlaczego": "Cykl 8/9. Kategoria Historyczne, nie Rankingi - oś to nakład i dostępność, nie liczba elementów.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     },
     {
       "tytul": "Poradniki: licencje LEGO - jakie były, jakie są i czym producent kieruje się przy wyborze",
@@ -183,7 +190,8 @@
       "okno": "2026-10-10..2026-10-10",
       "status": "planowane",
       "dlaczego": "Cykl 9/9. Materiał wyjaśniający, spina cały cykl: licencja jako narzędzie znalezienia dorosłego kupującego, widoczna w danych od 2001.",
-      "cykl": "rankingi-katalogowe (polecenie Marka 17.09.2026). Rytm co 3 dni. Kolejnosc ustalona 17.09: PDF do Marka -> akceptacja Piotra -> dopiero push na main."
+      "cykl": "rankingi-katalogowe. Tematy zamowione przez Marka 17.09.2026; 17.09 ustalone, ze pisze je Piotr. Zadanie cykliczne po stronie Code skasowane tego samego dnia.",
+      "autor": "Piotr"
     }
   ]
 }

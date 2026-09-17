@@ -65,31 +65,29 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
-## 2026-09-17 06:30 · CYKL RANKINGÓW · Ustalenie trybu i pierwszy tekst
+## 2026-09-17 06:30 · CYKL RANKINGÓW · Zadanie cykliczne skasowane, teksty pisze Piotr
 
-**Polecenie Marka (17.09):** cykl dziewięciu rankingów katalogowych, publikacja
-co 3 dni, artykuły najpierw w PDF do niego — podsyła Piotrowi do akceptacji.
+**Przebieg dnia:** Marek zamówił rano cykl dziewięciu rankingów katalogowych
+co 3 dni. Ustawiłem Routine, napisałem tekst 1/9 i wysłałem PDF. Po południu
+Marek dogadał z Piotrem, że **te artykuły napisze Piotr** — Routine
+`trig_017bUnuamQeRs6QuUgoXadkf` skasowany tego samego dnia.
 
-**Kolejność ustalona po dopytaniu:** PDF → akceptacja Piotra → dopiero push na
-`main`. To wyjątek od reguły „sesja pushuje sama" i obowiązuje na cały cykl.
-Teksty czekają na lokalnej gałęzi `cykl-rankingi`, nie na `main`.
+**Co zostaje w planie:** dziewięć tematów z terminami 17.09–10.10, status
+`planowane`, `autor: Piotr`. Tematy są dobre i zostały zamówione przez Marka —
+zmienił się tylko wykonawca.
 
-**Harmonogram** (Routine `trig_017bUnuamQeRs6QuUgoXadkf`, co 3 dni o 07:00):
-19.09 najdroższe wg cennika · 22.09 najdroższe do kupienia dziś · 25.09 Technic
-· 28.09 Harry Potter · 1.10 Star Wars · 4.10 Friends · 7.10 najrzadsze
-· 10.10 licencje LEGO. Routine sam bierze pierwszą pozycję `planowane`
-z `redakcja/plan-redakcyjny.json` po polu `cykl`.
+**Materiał, który już powstał** (gałąź lokalna `cykl-rankingi`, NIE na `main`):
+`src/pages/artykuly/najwieksze-zestawy-lego-historia.md` plus karta
+`redakcja/karty/najwieksze-zestawy-lego.md`. Do wykorzystania przez Piotra albo
+do skasowania — decyzja Marka. Karta ma policzone: progresję rekordu 1977–2026,
+zł za element dla całej półki 5 000+, medianę rabatu dla gigantów dostępnych
+(−5%) i wycofanych (+20%).
 
-**Tekst 1/9 gotowy, czeka na akceptację:** `/artykuly/najwieksze-zestawy-lego-historia/`,
-karta w `redakcja/karty/najwieksze-zestawy-lego.md`, commit `c25f368` na
-`cykl-rankingi`.
-
-**Pułapka, którą warto zapamiętać:** pierwsza analiza liczby sklepów dla
-gigantów wyszła „mediana 0 sklepów", bo poszła z `sety.json`. Źródłem ofert
-jest `oferty_feed.json` (klucz `sety`) — po poprawce mediana to 2, czyli
-dokładnie tyle, co dla całej bazy. Teza o słabej dystrybucji gigantów była
-fałszywa i nie weszła do tekstu.
-
+**Pułapka warta zapamiętania niezależnie od losu cyklu:** źródłem bieżących
+ofert jest `oferty_feed.json` (klucz `sety`), a NIE `sety.json`. Analiza
+policzona z tego drugiego dała „mediana 0 sklepów dla gigantów" i fałszywą tezę
+o ich słabej dystrybucji; po poprawce mediana to 2, czyli tyle, co dla całej
+bazy.
 
 ## 2026-09-17 08:00 · RADAR · Do zrobienia
 
