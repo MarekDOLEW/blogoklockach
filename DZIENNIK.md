@@ -76,12 +76,13 @@ Marek dogadał z Piotrem, że **te artykuły napisze Piotr** — Routine
 `planowane`, `autor: Piotr`. Tematy są dobre i zostały zamówione przez Marka —
 zmienił się tylko wykonawca.
 
-**Materiał, który już powstał** (gałąź lokalna `cykl-rankingi`, NIE na `main`):
-`src/pages/artykuly/najwieksze-zestawy-lego-historia.md` plus karta
-`redakcja/karty/najwieksze-zestawy-lego.md`. Do wykorzystania przez Piotra albo
-do skasowania — decyzja Marka. Karta ma policzone: progresję rekordu 1977–2026,
-zł za element dla całej półki 5 000+, medianę rabatu dla gigantów dostępnych
-(−5%) i wycofanych (+20%).
+**Materiał, który powstał, poszedł do Piotra w PDF i został skasowany.**
+Gałąź `cykl-rankingi` (artykuł `najwieksze-zestawy-lego-historia.md` + karta
+`najwieksze-zestawy-lego.md`) usunięta 17.09 na polecenie Marka — nic z tego
+nigdy nie było na `main`. Gdyby ktoś chciał odtworzyć research: progresja
+rekordu 1977–2026, zł za element dla półki 5 000+ i mediana rabatu osobno dla
+gigantów dostępnych (−5%) i wycofanych (+20%) liczą się z `katalog.json`
+i `oferty_feed.json` w kilkanaście minut.
 
 **Pułapka warta zapamiętania niezależnie od losu cyklu:** źródłem bieżących
 ofert jest `oferty_feed.json` (klucz `sety`), a NIE `sety.json`. Analiza
