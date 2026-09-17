@@ -230,7 +230,7 @@ Stan dostępów na 14.09.2026:
 | Sieć | Sklepy | Stan |
 |---|---|---|
 | Adtraction | Smyk, Egmont | **działa** (`ADTRACTION_TOKEN`); 0 transakcji w 60 dniach — to wynik, nie awaria |
-| Tradedoubler | Empik, Ceneo | **działa** (Publisher API: `TD_CLIENT_ID`, `TD_CLIENT_SECRET`, `TD_USERNAME`, `TD_PASSWORD`); 14.09: pierwsza zmierzona transakcja — Empik, obrót 51,53 EUR, prowizja 1,41 EUR. Token z `/uaa/oauth/token`, grant `password`. Stare `TD_TOKEN` (produktowy) i `TD_REPORT_TOKEN` (Conversions, tylko push) zostają do swoich zadań |
+| Tradedoubler | Empik, Ceneo, Lidl (zgłoszenie 17.09.2026, czeka na akcept) | **działa** (Publisher API: `TD_CLIENT_ID`, `TD_CLIENT_SECRET`, `TD_USERNAME`, `TD_PASSWORD`); 14.09: pierwsza zmierzona transakcja — Empik, obrót 51,53 EUR, prowizja 1,41 EUR. Token z `/uaa/oauth/token`, grant `password`. Stare `TD_TOKEN` (produktowy) i `TD_REPORT_TOKEN` (Conversions, tylko push) zostają do swoich zadań |
 | Performers | Media Expert | **działa** (`PERFORMERS_API_KEY`); 14.09: 1245 kliknięć, 0 konwersji w 30 dniach |
 | Allegro, webePartners | — | brak API — tylko panel |
 

@@ -65,6 +65,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-17 10:40 · CODE · Lidl (Tradedoubler, feed 259772) — przygotowane, czeka na akcept
+
+- Marek zgłosił się do programu Lidl online w TD; feed „LEGO klocki" fid 259772
+  (tylko klocki LEGO). Dziś TD odpowiada `PF_392 not connected` — normalne przed akceptem.
+- `ceneo-feed.mjs` przerobiony na importer **wszystkich feedów TD z `feedy.json`**
+  (Ceneo + Lidl; `--sklep`, `--sucho`); sklep z magazynem dostaje też ofertę
+  w `sety.json`. Test: Lidl — czysty komunikat bez zapisu; Ceneo `--sucho` — 1 441
+  zestawów, 67 nowych, 690 zmian (zapisze wtorkowy przebieg). Prompt wtorkowego
+  Routine bez zmian — nowy feed to wpis w danych.
+- Dane: `feedy.json` lidl (`aktywny: false`), `sklepy.json` lidl, rejestr afiliacji
+  lidl `wyslane`. RUNBOOK „Lidl przez Tradedoubler" opisuje kroki po akcepcie.
+
 ## 2026-09-17 09:10 · CODE · Karty Piotra P07c: 11387 Świąteczny dom, 40900 Straszne nawiedzone drzewo
 
 - Import `import-karty.py` (2 karty, 0 zablokowanych): 11387 — 4 akapity, 6 FAQ, metryka;

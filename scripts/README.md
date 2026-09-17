@@ -16,7 +16,7 @@ czy czeka, aż ktoś je wywoła.
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
 | `feedy-lego.py` | Łowca, codziennie | Wyciąga z feedów sklepowych wyłącznie oferty LEGO (~4 MB zamiast ~630 MB) |
-| `ceneo-feed.mjs` | Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (krok 6) | Feed Ceneo przez Tradedoubler (program 385881, fid 256472); data per sklep w `daty.ceneo`, zapis przez `json-kolejnosc.mjs` |
+| `ceneo-feed.mjs` | Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk" (krok 6) | **Wszystkie feedy Tradedoublera z `feedy.json`** (Ceneo fid 256472; Lidl fid 259772 po akcepcie — `aktywny: true`): linki do `redirects.<sklep>`, ceny do feedu z datą per sklep, dla sklepów (nie Ceneo) także oferta w `sety.json`. `--sklep x`, `--sucho` |
 | `kontrola-rrp.mjs` | Backfill przed commitem; sesja po każdym imporcie cen | Bramka sanity: cena rynkowa poniżej 50% RRP oznacza błąd po którejś stronie. Od 16.09 „Test rynkowy" mówi też, czy oferta jest potwierdzona przez człowieka (`deale_potwierdzone.json`) i widoczna, czy ukryta przez sito `filtrujOferty` |
 | `kliki-raport.mjs` | Kontroler, tygodniowo | Kliknięcia z Analytics Engine. **Domyślnie liczy tylko ludzi** (blob6) |
 | `gsc-raport.mjs` | Kontroler | Widoczność w Search Console |

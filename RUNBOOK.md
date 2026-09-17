@@ -1304,6 +1304,26 @@ Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfigura
 w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
 przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
 
+## Lidl przez Tradedoubler — nowy sklep to wpis w danych, nie w promptach *(od 17.09.2026)*
+
+Lidl online ma w Tradedoublerze feed produktowy **„LEGO klocki", fid 259772**
+(tylko klocki LEGO; informacja od TD 17.09). Marek zgłosił się do programu 17.09;
+do akceptu TD odpowiada `PF_392 „Requester is not connected to Feed (259772)"`.
+
+Co jest już przygotowane: `feedy.json` → wpis `lidl` (`fid`, `aktywny: false`),
+`sklepy.json` → `lidl: Lidl`, `afiliacje_rejestr.json` → `lidl` ze statusem
+`wyslane`. `scripts/ceneo-feed.mjs` od 17.09 obsługuje **wszystkie feedy TD
+z `feedy.json`** (bez argumentów: wszystkie aktywne; `--sklep lidl` jeden;
+`--sucho` bez zapisu) — krok 6 wtorkowego Routine nie wymaga zmiany. Sklep
+z własnym magazynem (Lidl) dostaje też ofertę w `sety.json` (deale); Ceneo
+nadal nie (porównywarka).
+
+Po akcepcie programu (Marek): `programId` do rejestru → `feedy.json`
+`lidl.aktywny: true` → `node scripts/ceneo-feed.mjs --sklep lidl --sucho`
+(sprawdzić liczbę zestawów i format `productUrl`) → bez `--sucho` → build →
+push. Linki idą z feedu (gotowy `pdt.tradedoubler.com`), worker bierze je
+z `redirects.lidl` — bez zmian w `src/worker.js`.
+
 ## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
 
 Adtraction **nie daje feedu produktowego dla Smyka** — sprawdzone w API
