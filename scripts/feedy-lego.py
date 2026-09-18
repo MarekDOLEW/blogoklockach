@@ -203,13 +203,44 @@ ZRODLA = {
     'allegro': z_allegro,
 }
 
+
+def feedy_td_codzienne():
+    """Feedy Tradedoublera oznaczone w feedy.json jako codzienne.
+
+    Te feedy importuje `scripts/ceneo-feed.mjs`, który sam zapisuje dane serwisu
+    (redirects, oferty_feed, sety) — nie przechodzą więc przez wyciąg w /tmp.
+    Wołamy je stąd, bo Łowca i tak uruchamia ten skrypt codziennie, a prompt
+    Routine'a jest w stałej sesji (zmiana = delete + create). Dzięki temu
+    częstotliwość sklepu jest decyzją w danych, nie w promptach — tak jak mówi
+    `_meta` w feedy.json. Sklep przestawia się na codzienny jednym polem:
+    "odswiezanie": "codziennie".
+    """
+    return [k for k, v in FEEDY.items()
+            if isinstance(v, dict)
+            and str(v.get('siec', '')).startswith('Tradedoubler')
+            and v.get('aktywny')
+            and v.get('odswiezanie') == 'codziennie']
+
+
+def importuj_feed_td(sklep):
+    """Uruchamia importer TD dla jednego sklepu. Zwraca (ok, ostatnia_linia)."""
+    wynik = subprocess.run(
+        ['node', 'scripts/ceneo-feed.mjs', '--sklep', sklep],
+        cwd=KATALOG, capture_output=True, text=True, timeout=600,
+    )
+    wyjscie = (wynik.stdout or '') + (wynik.stderr or '')
+    linie = [l.strip() for l in wyjscie.splitlines() if l.strip()]
+    return wynik.returncode == 0, (linie[-1] if linie else 'brak wyjścia')
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--wyjscie', default='/tmp/feedy-lego.json')
     parser.add_argument('--tylko', default='', help='lista sklepów po przecinku')
+    parser.add_argument('--bez-td', action='store_true', help='pomiń import feedów Tradedoublera')
+    parser.add_argument('--tylko-td', action='store_true', help='TYLKO import feedów TD (bez pobierania wielkich feedów)')
     args = parser.parse_args()
 
-    wybrane = [s.strip() for s in args.tylko.split(',') if s.strip()] or list(ZRODLA)
+    wybrane = [] if args.tylko_td else ([s.strip() for s in args.tylko.split(',') if s.strip()] or list(ZRODLA))
     wynik = {'_meta': {'pobrano': date.today().isoformat(), 'liczby': {}, 'bledy': {}}}
 
     for sklep in wybrane:
@@ -222,6 +253,39 @@ if __name__ == '__main__':
         except Exception as blad:  # feed niedostępny nie może przerwać pozostałych
             wynik['_meta']['bledy'][sklep] = str(blad)
             print(f'{sklep}: BŁĄD — {blad}', file=sys.stderr)
+
+    # Feedy TD (dziś: Lidl) — importer zapisuje dane serwisu sam, więc nie wchodzą
+    # do wyciągu. Błąd jednego feedu nie może przerwać reszty przebiegu Łowcy.
+    if not args.bez_td:
+        wynik['_meta']['td'] = {}
+        for sklep in feedy_td_codzienne():
+            try:
+                ok, podsumowanie = importuj_feed_td(sklep)
+            except Exception as blad:
+                ok, podsumowanie = False, str(blad)
+            wynik['_meta']['td'][sklep] = podsumowanie
+            if not ok:
+                wynik['_meta']['bledy'][f'td:{sklep}'] = podsumowanie
+            print(f'td:{sklep}: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
+
+    # Historia cen — jedna linia na zestaw tylko wtedy, gdy cena się ruszyła.
+    # Tu, bo Łowca uruchamia ten skrypt codziennie po imporcie feedów, a seria
+    # czasowa ma sens wyłącznie wtedy, gdy zbiera się bez przerw.
+    try:
+        h = subprocess.run(['node', 'scripts/historia-cen.mjs'], cwd=KATALOG,
+                           capture_output=True, text=True, timeout=180)
+        linia = [l for l in (h.stdout or '').splitlines() if l.strip()]
+        wynik['_meta']['historia_cen'] = linia[-1] if linia else 'brak wyjścia'
+        if h.returncode != 0:
+            wynik['_meta']['bledy']['historia_cen'] = (h.stderr or '').strip()[:200]
+        print(f'historia-cen: {wynik["_meta"]["historia_cen"]}', file=sys.stderr)
+    except Exception as blad:
+        wynik['_meta']['bledy']['historia_cen'] = str(blad)
+        print(f'historia-cen: BŁĄD — {blad}', file=sys.stderr)
+
+    if args.tylko_td:
+        print('--tylko-td: wyciągu nie zapisuję.', file=sys.stderr)
+        sys.exit(0)
 
     with open(args.wyjscie, 'w', encoding='utf-8') as f:
         json.dump(wynik, f, ensure_ascii=False)

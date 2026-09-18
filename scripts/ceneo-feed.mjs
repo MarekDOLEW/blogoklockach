@@ -45,7 +45,18 @@ function pobierzFeed(fid) {
     const granica = wynik.lastIndexOf('\n');
     const status = wynik.slice(granica + 1).trim();
     const tresc = wynik.slice(0, granica);
-    if (status === '200') return JSON.parse(tresc);
+    if (status === '200') {
+      const dane = JSON.parse(tresc);
+      // TD potrafi odpowiedzieć 200 z samym komunikatem („Unlimited file will be
+      // created for the first time, please come back in a bit…") zamiast 202.
+      // Zmierzone 18.09.2026 na feedzie Lidla. Bez tego warunku skrypt uznawał
+      // taką odpowiedź za pusty feed i pomijał sklep — przy dziennym przebiegu
+      // znaczyłoby to ciche zniknięcie ofert na dobę.
+      if (Array.isArray(dane.products)) return dane;
+      console.log(`  feed się generuje (200 + komunikat, próba ${proba}): ${String(dane.message ?? '').slice(0, 80)}`);
+      execFileSync('sleep', ['20']);
+      continue;
+    }
     if (status !== '202') throw new Error(`TD zwrócił ${status}: ${tresc.slice(0, 200)}`);
     console.log(`  feed się generuje (próba ${proba})…`);
     execFileSync('sleep', ['20']);

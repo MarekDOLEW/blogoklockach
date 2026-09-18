@@ -1335,6 +1335,69 @@ wypuszczałby ruch bez prowizji. Nie wracamy do tematu bez nowej decyzji —
 w szczególności nie dopisujemy Lidlowi pola `szukaj` w `sklepy.json`, bo to
 ta sama ścieżka tylnymi drzwiami (worker schodzi na `sklepy[sklep].szukaj`).
 
+## Lidl codziennie, choć jedzie importerem „wtorkowym" *(od 18.09.2026)*
+
+Marek: skoro mamy feed produktowy, Lidl ma się odświeżać codziennie, nie raz
+w tygodniu. Prompt Łowcy siedzi w **stałej sesji** (zmiana = delete + create
+triggera), więc dokładanie tam kroku byłoby operacją na żywym runnerze.
+
+Zrobione inaczej i to jest wzorzec na przyszłość: **`scripts/feedy-lego.py`
+(który Łowca uruchamia codziennie) sam woła `ceneo-feed.mjs` dla tych feedów TD,
+które mają w `feedy.json` pole `"odswiezanie": "codziennie"`.** Częstotliwość
+sklepu jest więc decyzją w danych, dokładnie jak mówi `_meta` tego pliku — żeby
+przestawić kolejny sklep na codzienny, wystarczy jedno pole, bez ruszania
+promptów. Ceneo zostaje tygodniowe (porównywarka, duży feed).
+
+Kolejność jest bezpieczna: importer zapisuje dane, ZANIM Łowca je wczyta i dopisze
+swoje oferty. Błąd feedu nie przerywa przebiegu — ląduje w `_meta.bledy['td:<sklep>']`
+wyciągu i w raporcie Łowcy.
+
+Przy okazji poprawka w `ceneo-feed.mjs`: TD potrafi odpowiedzieć **200 z samym
+komunikatem** „Unlimited file will be created…" zamiast 202. Przedtem skrypt
+uznawał to za pusty feed i pomijał sklep — przy dziennym przebiegu oznaczałoby to
+ciche zniknięcie ofert na dobę. Teraz czeka i ponawia.
+
+## Kontrola linków sklepowych — próba losowa, nigdy przez tracker *(od 18.09.2026)*
+
+`node scripts/kontrola-linkow.mjs --ile 200` — krok Kontrolera w poniedziałek.
+Losuje linki z `redirects.json` i sprawdza, czy karta produktu jeszcze żyje.
+
+**Zasada nienaruszalna: nie odpytujemy linków trackingowych.** Wejście na
+`pdt.tradedoubler.com`, `clk.tradedoubler.com`, `webep1.com`,
+`track.performers.tech` czy `allegro.pl/affiliate` to zarejestrowany klik
+w sieci afiliacyjnej — sztucznie nabity, bez człowieka. Skrypt wyciąga z linku
+**adres docelowy sklepu** (`url(...)`, `&url=`, `redirect_url=`, base64 w `r=`)
+i sprawdza wyłącznie jego.
+
+**Czego się nie da sprawdzić z kontenera** (zmierzone 18.09.2026 na próbie 150):
+Allegro, Empik, Media Expert i LEGO.com odrzucają każde zapytanie serwerowe —
+403 albo timeout, niezależnie od nagłówków. Dlatego skrypt bierze z nich tylko
+**5 linków kontrolnych** (żeby zauważyć, gdyby któryś przestał blokować), a resztę
+próby przeznacza na Planetę Klocków, Ceneo, Smyk, Lidla i x-kom. W raporcie te
+sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć ich jako
+„żywe". Pierwszy przebieg znalazł jeden martwy link (Planeta Klocków, 43024, 404).
+
+Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
+
+## Historia cen — seria czasowa pod wykresy *(od 18.09.2026)*
+
+Do 18.09.2026 **nie mieliśmy żadnej historii cen**: `ceny_baza.json` trzyma
+wyłącznie minimum wszech czasów (jedna liczba), a `oferty_feed.json` to migawka
+z dziś. Wykres „jak zmieniała się cena" był niewykonalny — i pozostałby taki,
+dopóki ktoś nie zacznie zapisywać.
+
+`scripts/historia-cen.mjs` (odpalany codziennie przez `feedy-lego.py`) dopisuje
+najniższą dzienną cenę każdego zestawu do `materialy/historia-cen/RRRR-MM.jsonl`
+w formacie `{"d":data,"nr":numer,"c":cena,"s":sklep}`. **Tylko zmiany** — gdy cena
+stoi, linii nie ma. Stan ostatnich cen trzyma `_ostatnie.json`, żeby nie czytać
+całej historii przy każdym przebiegu.
+
+Dlaczego poza `src/data`: wszystko w `src/data` wchodzi do builda Astro, a ta
+historia ma rosnąć latami. Gdy dojdą wykresy na hubach, osobny skrypt wytnie
+z tego kompaktową serię (punkty tygodniowe, tylko zestawy z hubem) do `src/data`.
+
+Pierwszy zapis 18.09.2026: 5 966 zestawów, 328 kB. Ceneo pomijamy (porównywarka).
+
 ## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
 
 Adtraction **nie daje feedu produktowego dla Smyka** — sprawdzone w API

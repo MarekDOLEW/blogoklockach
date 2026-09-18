@@ -65,6 +65,50 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 08:10 · CODE · Lidl codziennie, kontrola linków, start historii cen
+
+Trzy rzeczy z porannej rozmowy z Markiem.
+
+**1. Lidl codziennie.** Marek: „skoro mamy feed produktowy, nie możemy przerzucić
+na codziennie?". Można — ale prompt Łowcy siedzi w stałej sesji, więc dokładanie
+tam kroku to delete+create triggera. Zrobione bez ruszania promptu:
+`scripts/feedy-lego.py` (Łowca odpala go codziennie) sam woła `ceneo-feed.mjs`
+dla feedów TD z polem `"odswiezanie": "codziennie"` w `feedy.json`.
+**Wzorzec: częstotliwość sklepu jest decyzją w danych, nie w promptach.**
+Ceneo zostaje tygodniowe (porównywarka, duży feed).
+
+Przy okazji: TD potrafi odpowiedzieć **200 z komunikatem** „Unlimited file will be
+created…" zamiast 202 — skrypt uznawał to za pusty feed i pomijał sklep. Przy
+dziennym przebiegu oznaczałoby to ciche zniknięcie ofert na dobę. Poprawione.
+
+**2. Kontrola linków sklepowych** (Marek: „tak dodaj testowanie losowe linków").
+`scripts/kontrola-linkow.mjs` — krok Kontrolera w poniedziałek, mail tylko gdy są
+martwe (klucz `linki`, kontakt@). Prompt Kontrolera zaktualizowany przez
+`update_trigger` (to Routine bez stałej sesji, więc bez delete+create); kopia
+w `materialy/routine-prompty.md` odświeży się przy poniedziałkowym raporcie.
+
+**Zasada, która zdecydowała o konstrukcji: nie odpytujemy linków trackingowych.**
+Wejście na `pdt.tradedoubler.com` czy `webep1.com` to zarejestrowany klik w sieci
+afiliacyjnej — sztucznie nabity, bez człowieka po drugiej stronie. Skrypt wyciąga
+z linku adres docelowy sklepu i sprawdza wyłącznie jego.
+
+Zmierzone na próbie 150: **Allegro, Empik, Media Expert i LEGO.com odrzucają każde
+zapytanie serwerowe** (403 albo timeout). Dlatego skrypt bierze z nich po 5 linków
+kontrolnych, a resztę próby kieruje na sklepy sprawdzalne — z 37/150 realnych
+sprawdzeń zrobiło się 134/150. Pierwszy przebieg złapał martwy link:
+**Planeta Klocków 43024 → 404**.
+
+**3. Historia cen — zaczęliśmy zbierać.** Marek pytał, czy da się za pół roku
+zrobić wykres zmian ceny. Odpowiedź brzmiała **nie**: `ceny_baza.json` trzyma
+tylko minimum wszech czasów, `oferty_feed.json` to migawka z dziś, a historia repo
+sięga 9 dni. Od dziś zbieramy: `scripts/historia-cen.mjs` (codziennie, z tego
+samego miejsca co Lidl) dopisuje najniższą dzienną cenę zestawu do
+`materialy/historia-cen/RRRR-MM.jsonl`, **tylko gdy cena się ruszyła**.
+Pierwszy zapis: 5 966 zestawów, 328 kB. Poza `src/data`, żeby nie rosło w buildzie.
+
+→ Wykresy na hubach mają sens najwcześniej po 2–3 miesiącach zbierania (grudzień).
+Wtedy osobny skrypt wytnie z JSONL kompaktową serię do `src/data`.
+
 ## 2026-09-18 08:00 · RADAR · Do zrobienia
 
 **fanklockow.pl · 17.09** — uruchomili drugi kalendarz obok kalendarza promocji: osobno klockowe wydarzenia 2026 (otwarcia salonów, eventy, prywatne zakupy, ścianki BaM).

@@ -4,10 +4,11 @@
   "uzycie": "python3 scripts/wyslij-raport.py --zadanie promocje --tytul \"Lowca Promocji — 14.09.2026\" --plik /tmp/raport-promocje.md [--wstep \"1-2 zdania\"] [--do adres@x.pl (test, nadpisuje odbiorcow)] [--tylko-pdf plik.pdf (bez wysylki)]",
   "zasada_wysylki": "wysylka=zawsze -> mail przy kazdym przebiegu; wysylka=przy_zmianach -> mail tylko gdy przebieg cos zmienil (nowe wpisy/ceny). Brak zmian = nie wysylamy, zeby maile nie spowszednialy.",
   "edycja": "Adresy dopisuj/usuwaj w tablicach odbiorcy - zmiana dziala od nastepnego przebiegu, bez ruszania promptow zadan.",
-  "zaktualizowano": "2026-09-16",
+  "zaktualizowano": "2026-09-18",
   "historia": "Od 19.08 do 14.09.2026 wyszedl JEDEN mail — reczny test z 19.08 (log Resend). Zaden runner nie mial kroku wysylki w promptcie, runnery nie tworzyly pliku raportu, a skrypt importowal weasyprint, ktorego nikt nie instalowal. 14.09 krok wysylki wpisany do promptow Lowcy, Scouta, Radaru i Wycofan (triggery odtworzone, bo promptu trwalej sesji nie zmienia update_trigger).",
   "przypomnienie": "Klucz przypomnienie (od 15.09.2026): cotygodniowy Routine „Przypomnienie: zrzut Empiku” wysyla nim w poniedzialek 07:00 PL krotka wiadomosc na kontakt@ — Marek robi zrzut Empiku recznie (decyzja 15.09: wystarczy przypominajka).",
-  "podejrzane": "Klucz podejrzane (od 16.09.2026): scripts/podejrzany-rynek-mail.mjs (krok Lowcy) wysyla rano liste ofert ukrytych przez sito „podejrzany rynek” (cena < 50% potwierdzonego RRP) z linkami do sklepu — Marek sprawdza i potwierdza w rozmowie z Code. Klucz kontroler: sekcja „Zadania bez wlasciciela” z raportu tygodniowego idzie mailem do Marka i Piotra (decyzja 16.09.2026)."
+  "podejrzane": "Klucz podejrzane (od 16.09.2026): scripts/podejrzany-rynek-mail.mjs (krok Lowcy) wysyla rano liste ofert ukrytych przez sito „podejrzany rynek” (cena < 50% potwierdzonego RRP) z linkami do sklepu — Marek sprawdza i potwierdza w rozmowie z Code. Klucz kontroler: sekcja „Zadania bez wlasciciela” z raportu tygodniowego idzie mailem do Marka i Piotra (decyzja 16.09.2026).",
+  "linki": "Klucz linki (od 18.09.2026, decyzja Marka): scripts/kontrola-linkow.mjs (krok Kontrolera, poniedzialek) losuje probe linkow z redirects.json i sprawdza kod HTTP ADRESU DOCELOWEGO sklepu — nigdy linku trackingowego, bo kazde wejscie na tracker to sztucznie nabity klik. Mail idzie tylko, gdy sa martwe karty produktow (404/410)."
  },
  "zadania": {
   "promocje": {
@@ -62,6 +63,13 @@
    "odbiorcy": [
     "kontakt@tylkoklocki.pl",
     "piotrmaculewicz@interia.pl"
+   ]
+  },
+  "linki": {
+   "nazwa": "Martwe linki sklepowe",
+   "wysylka": "przy_zmianach",
+   "odbiorcy": [
+    "kontakt@tylkoklocki.pl"
    ]
   }
  }

@@ -113,7 +113,8 @@
    "Feed nie ma daty waznosci cen - odswiezac codziennie razem z pozostalymi."
   ],
   "fid": 256472,
-  "aktywny": true
+  "aktywny": true,
+  "odswiezanie": "co tydzien (Routine „Dane wt 05:30\", krok 6)"
  },
  "lidl": {
   "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=259772?token=<TD_TOKEN>",
@@ -134,6 +135,7 @@
   "uwagi": [
    "Feed „LEGO klocki” nr 259772 — tylko klocki LEGO (info od TD 17.09.2026).",
    "Lidl to sklep z wlasnym magazynem: oferty wchodza tez do sety.json (deale), inaczej niz Ceneo."
-  ]
+  ],
+  "odswiezanie": "codziennie"
  }
 }
