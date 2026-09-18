@@ -65,6 +65,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 08:00 · RADAR · Do zrobienia
+
+**fanklockow.pl · 17.09** — uruchomili drugi kalendarz obok kalendarza promocji: osobno klockowe wydarzenia 2026 (otwarcia salonów, eventy, prywatne zakupy, ścianki BaM).
+**Mamy?** — nie: mamy jeden kalendarz, w którym wydarzenia stacjonarne albo mieszają się z promocjami cenowymi, albo w ogóle ich nie ma.
+**Zrobić:** — decyzja, czy rozdzielamy nasz kalendarz na promocje (cena) i wydarzenia (termin, miejsce), czy zostajemy przy jednym.
+**Kto:** — Marek (decyzja)
+
+**Korekta, którą warto zapamiętać:** 17.09 wpisaliśmy do kalendarza gratis
+jako 40722, za fanklockow. 18.09 faniklockow podał ten sam gratis jako 40772
+i nasz własny katalog to potwierdził — 40772 „Seria okolicznościowa: Świecący
+duszek" (Creator, 2025). Poprawione. Wniosek na przyszłość: numer zestawu
+z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
+
+
 ## 2026-09-18 06:10 · MAREK → CODE · Lidl: tylko linki z feedu, bez zapasowego deeplinku
 
 Odpowiedź na pytanie z porannego raportu: „zostaw lidl jak jest — tylko linki
