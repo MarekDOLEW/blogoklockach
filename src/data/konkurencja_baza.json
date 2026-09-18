@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-17",
-    "przebieg": "scheduled 2026-09-17 08:00",
+    "ostatnia_aktualizacja": "2026-09-18",
+    "przebieg": "scheduled 2026-09-18 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 169,
+    "liczba_wpisow": 174,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2037,6 +2037,66 @@
       "ocena": "LUKA",
       "sklepy_linkowane": [],
       "notatki": "Wpis zbiorczy na sekcje. Wykryte strony: /lego/najwieksze-zestawy-lego-odkrywaj, /lego-technic/najwieksze-zestawy-lego-technic-odkrywaj, /lego-harry-potter/najwieksze-zestawy-lego-harry-potter-odkrywaj, /lego-brickheadz/figurki-lego-brickheadz-z-wladcy-pierscieni-odkrywaj, /lego-speed-champions/kolekcja-bolidow-formuly-1-lego-speed-champions-odkrywaj, /lego-ninjago/mikromodele-miasta-ninjago-kolekcja-zestawow-lego-odkrywaj, /dla-doroslych-lego/najlepsze-zestawy-lego-dla-doroslych-fanow-harryego-pottera-odkrywaj. Strony evergreen, nie datowane - to nie jest swieza publikacja, tylko cala klasa stron, ktorej u nas nie ma. Nasz katalog ma liczbe elementow przy 9211 z 9359 pozycji (98%), wiec taka siatka jest generowalna z danych, ktore juz mamy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Prywatne zakupy 2026 w polskich LEGO Stores (14.11, godzina przed otwarciem)",
+      "url": "https://fanklockow.pl/prywatne-zakupy-2026-w-polskich-lego-stores",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "14.11 (sobota), 8:00/9:00 zaleznie od miasta, kazdy polski LEGO Store, ok. 15 osob na salon, zapisy od 16.09. Atrakcje: budowanie i upominki, bez zapowiedzianego rabatu. Termin tydzien przed Insiders Weekend i dwa tygodnie przed Black Friday. Dopisane do /kalendarz-promocji-lego/ jako przewidywane - jedno zrodlo, LEGO nie oglosilo publicznie."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "FanKlockowy kalendarz: klockowe wydarzenia w roku 2026",
+      "url": "https://fanklockow.pl/kalendarz-klockowe-wydarzenia",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Zmiana strukturalna: drugi kalendarz obok ich kalendarza promocji - osobno wydarzenia (otwarcia salonow, eventy, prywatne zakupy, BaM). My mamy jeden /kalendarz-promocji-lego/, w ktorym wydarzenia stacjonarne mieszaja sie z promocjami cenowymi albo w ogole ich nie ma."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Gratis dla czytelnikow - 40772 Seria okolicznosciowa: Swiecacy duszek",
+      "url": "https://faniklockow.pl/2026/09/17/gratis-dla-naszych-czytelnikow-40772-seria-okolicznosciowa-swiecacy-duszek",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Drugie zrodlo na ten sam GWP z kodow w oknie 21-30.09 - i zrodlo numeru zestawu. WAZNE: podaja 40772, fanklockow podal 40722. Nasz katalog rozstrzyga: 40772 = 'Seria okolicznosciowa: Swiecacy duszek' (Creator, 2025). 18.09 poprawiono numer w /kalendarz-promocji-lego/ w dwoch miejscach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 17.09.2026 (zbiorczo: 11380, 77249, 31168)",
+      "url": "https://faniklockow.pl/2026/09/17/okazja-cenowa-icons-11380-rower-gorski-2",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy. 31168 mamy z wlasna recenzja."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Editions na 2027 rok",
+      "url": "https://faniklockow.pl/2026/09/17/zapowiedzi-serii-lego-editions-na-2027-rok",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem zakupowym XI-XII. Material dla runnera Scouta, nie dla radaru."
     }
   ],
   "obserwacje_strategiczne": {
