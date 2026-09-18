@@ -65,6 +65,35 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 09:45 · MAREK → CODE · Historia cen per sklep, nie tylko najniższa
+
+Marek po zobaczeniu pierwszych liczb: „przestaw na wersję per sklep". Zrobione
+tego samego dnia, zanim plik urósł — przy danych historycznych to jedyny moment,
+w którym taka zmiana jest darmowa.
+
+| | rano (tylko najniższa) | teraz (per sklep) |
+|---|---|---|
+| linii w pliku | 5 991 | **12 606** |
+| zestawów | 5 991 | 5 977 |
+| sklepów | — (tylko ten najtańszy) | **7** |
+| rozmiar | 322 kB | 685 kB |
+
+Rozkład startowy: allegro 5 080, empik 3 947, planetaklockow 1 150, lego 949,
+mediaexpert 752, smyk 668, lidl 60. Ceneo pomijamy (porównywarka).
+
+Co to otwiera, czego pierwsza wersja nie umiała: „ile to kosztowało w Empiku
+w listopadzie", „który sklep jest najczęściej najtańszy w tej serii", „jak
+zmieniała się rozpiętość ofert przed świętami".
+
+**Zniknięcie oferty zapisujemy teraz jako `c: null`** — to fakt, nie dziura.
+Do tego bezpiecznik, bez którego ta funkcja byłaby pułapką: sklep, który z dnia
+na dzień stracił ponad połowę ofert, jest traktowany jako awaria pobrania i jego
+zniknięć nie zapisujemy. Sprawdzone na symulacji padniętego feedu Empiku —
+skrypt pominął **3 947 fałszywych zniknięć** i nazwał sklep w wyniku.
+
+Dzisiejszy plik przeliczony od zera w nowym formacie (stare 5 991 linii to
+podzbiór nowych 12 606, więc nic nie przepadło).
+
 ## 2026-09-18 09:20 · CODE · Martwy link PK to była nasza stara kopia — linki nie odświeżały się nigdy
 
 Marek zauważył, że zestaw 43024 jest na Planecie Klocków pod dłuższym adresem,

@@ -1399,10 +1399,24 @@ z dziś. Wykres „jak zmieniała się cena" był niewykonalny — i pozostałby
 dopóki ktoś nie zacznie zapisywać.
 
 `scripts/historia-cen.mjs` (odpalany codziennie przez `feedy-lego.py`) dopisuje
-najniższą dzienną cenę każdego zestawu do `src/data/historia-cen/RRRR-MM.jsonl`
-w formacie `{"d":data,"nr":numer,"c":cena,"s":sklep}`. **Tylko zmiany** — gdy cena
-stoi, linii nie ma. Stan ostatnich cen trzyma `_ostatnie.json`, żeby nie czytać
-całej historii przy każdym przebiegu.
+cenę **każdej pary (zestaw, sklep)** do `src/data/historia-cen/RRRR-MM.jsonl`
+w formacie `{"d":data,"nr":numer,"s":sklep,"c":cena}`. **Tylko zmiany** — cena,
+która stoi, nie generuje linii. Stan ostatnich cen trzyma `_ostatnie.json`, żeby
+nie czytać całej historii przy każdym przebiegu.
+
+Pierwsza wersja (rano 18.09) zapisywała tylko najniższą cenę dnia. **Marek
+przestawił na wersję per sklep tego samego dnia**, zanim plik urósł — i to jest
+właściwy odruch przy danych historycznych: czego nie zaczniemy zbierać dziś, tego
+nie odtworzymy za pół roku. Wersja per sklep odpowiada na pytania, których ta
+pierwsza nie umiała: „ile to kosztowało w Empiku w listopadzie", „który sklep jest
+najczęściej najtańszy w tej serii".
+
+**Zniknięcie oferty zapisujemy jako `c: null`** — to informacja („wtedy zestaw
+wypadł z Empiku"), nie brak danych. Bezpiecznik: sklep, który z dnia na dzień
+stracił ponad połowę ofert, jest traktowany jako **awaria pobrania** i jego
+zniknięć nie zapisujemy. Bez tego jeden nieudany feed wpisałby tysiące fałszywych
+„zniknięć" — sprawdzone na symulacji padniętego Empiku: skrypt pominął 3 947
+zniknięć i nazwał sklep po imieniu.
 
 Dlaczego w `src/data`, skoro to nie są dane serwisu: **runnery commitują
 `src/data`** (Łowca i wtorkowy „Dane 05:30" mają to wprost w promptach), a kontener
@@ -1412,7 +1426,8 @@ zaimportuje, a `.jsonl` nie importuje nikt (w `src/` nie ma `import.meta.glob`
 po `src/data`). Gdy dojdą wykresy na hubach, osobny skrypt wytnie z tego
 kompaktową serię (punkty tygodniowe, tylko zestawy z hubem) do zwykłego `.json`.
 
-Pierwszy zapis 18.09.2026: 5 966 zestawów, 328 kB. Ceneo pomijamy (porównywarka).
+Pierwszy zapis 18.09.2026: **12 606 par (5 977 zestawów × 7 sklepów), 685 kB.**
+Ceneo pomijamy (porównywarka — jej cena jest echem innych sklepów).
 
 ## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
 
