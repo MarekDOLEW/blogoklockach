@@ -2,7 +2,7 @@
  "_meta": {
   "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia. Sekcja 'odrzucone' (od 17.09.2026): werdykty „fałsz\" po sprawdzeniu — oferta zostaje ukryta jak każda niepotwierdzona, a podejrzany-rynek-mail.mjs przestaje o nią pytać; niższa cena niż oceniona wraca do maila.",
   "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
-  "zaktualizowano": "2026-09-17"
+  "zaktualizowano": "2026-09-18"
  },
  "potwierdzone": {
   "60339": {
@@ -48,6 +48,13 @@
    "data": "2026-09-17",
    "kto": "Marek",
    "uwagi": "Ciężarówka z platformą i helikopterem 3w1 — fałsz"
+  },
+  "31382": {
+   "cena": 44.98,
+   "sklep": "ceneo",
+   "data": "2026-09-18",
+   "kto": "Marek",
+   "uwagi": "Urocze zwierzątka: psotny szczeniaczek — oszust (werdykt po sprawdzeniu karty Ceneo)"
   }
  }
 }
