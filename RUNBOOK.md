@@ -1406,6 +1406,13 @@ sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć 
 
 Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
 
+**Sprawdzenie jednego zestawu na żądanie:** `node scripts/sprawdz-oferte.mjs <nr>`.
+Pokazuje każdą ofertę z ceną, datą odczytu, wiekiem w dniach, informacją, czy
+przechodzi sito serwisu (czyli czy czytelnik ją w ogóle widzi), i kodem HTTP karty
+produktu. To jest odpowiedź na pytanie „czy ta oferta jest jeszcze aktualna",
+którego same dane nie rozstrzygają: data mówi, kiedy widzieliśmy cenę w feedzie,
+a nie czy sklep dalej ją ma.
+
 **Pierwsza naprawa, którą ta kontrola wymusiła (18.09.2026).** Martwy link
 Planety Klocków do 43024 okazał się nie błędem sklepu, tylko **naszą starą kopią**:
 feed z tego samego dnia miał poprawny adres (`…-editions-kask-ayrton-senna`),

@@ -65,6 +65,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 11:30 · MAREK → CODE · noindex zostaje, zestawy bez cen zostają, nowe narzędzie do ofert
+
+Trzy ustalenia z rozmowy o liczbie podstron.
+
+**1. 8 201 hubów zostaje w noindex**, zdejmujemy je pojedynczo w miarę
+dopisywania opisów (decyzja Marka). **Uwaga praktyczna, żeby ta praca nie poszła
+w próżnię:** sam opis to JEDEN z czterech warunków `ocenaHubu` (opis >300 znaków,
+≥3 sklepy, ≥1 tekst redakcyjny, świeża premiera), a do indeksu trzeba trzech.
+Opis dopisany do huba bez ofert i bez tekstu **nie zdejmie noindex**.
+Zdejmuje go natomiast od ręki **karta w formacie Piotra** (≥2 akapity + ≥3 FAQ) —
+to wyjątek `karta` z 15.09. Czyli: jeśli celem jest wyprowadzanie hubów z noindex,
+najtańszą dźwignią są karty, nie krótkie opisy.
+
+**2. Zestawy bez żadnej ceny zostają na stronie** (Marek: budują historię i są
+ważne dla kogoś, kto przegląda całą serię). To już działa: hub powstaje dla
+każdego zestawu z katalogu, a strona serii listuje **pełny katalog** z katalog.json
+ze statusem „brak w sprzedaży", nie tylko to, co ma dziś ofertę. Liczby dzisiaj:
+**3 516 hubów nie ma żadnej żywej oferty**, z czego 3 509 siedzi w noindex —
+i tak ma zostać.
+
+**3. Nowe narzędzie: `node scripts/sprawdz-oferte.mjs <nr>`** — odpowiedź na
+pytanie „jak sprawdzić, czy oferta jest aktualna". Dane mówią tylko, KIEDY
+widzieliśmy cenę w feedzie; skrypt dokłada kod HTTP karty produktu i informację,
+czy oferta przechodzi sito (14 dni / 28% RRP / podejrzany rynek). Na 43024 widać
+od razu: Ceneo i Planeta Klocków — karta OK, Allegro/Empik/ME/LEGO.com — sklep
+blokuje ruch serwerowy, więc „nie sprawdzone", nigdy „OK".
+
+Logika wyciągania adresu docelowego z linku trackingowego wyjechała do
+`scripts/linki-cel.mjs` — wspólna dla kontroli linków i tego skryptu, żeby żaden
+z nich nie wszedł przypadkiem na tracker (to byłby sztucznie nabity klik).
+
 ## 2026-09-18 10:30 · MAREK → CODE · /llms.txt w wersji długiej — 1 163 zestawy z ceną
 
 Marek zapytał, czy mamy `llms.txt` (nie mieliśmy), a po propozycji krótkiej

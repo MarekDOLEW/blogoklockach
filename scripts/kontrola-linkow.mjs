@@ -24,6 +24,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { execFile, spawnSync } from 'node:child_process';
 import { promisify } from 'node:util';
 import { tmpdir } from 'node:os';
+import { celLinku, SKLEPY_BLOKUJACE, UA_PRZEGLADARKI } from './linki-cel.mjs';
 import { join } from 'node:path';
 
 const uruchom = promisify(execFile);
@@ -37,32 +38,6 @@ const czytaj = (p) => JSON.parse(readFileSync(new URL(`../src/data/${p}`, import
 const redirects = czytaj('redirects.json');
 const sety = czytaj('sety.json');
 
-// ── Adres docelowy ukryty w linku trackingowym ──────────────────────────────
-// Każda sieć pakuje go inaczej; kolejność testów od najbardziej jednoznacznej.
-const dekoduj = (s) => { try { return decodeURIComponent(s); } catch { return s; } };
-export function celLinku(link) {
-  if (!link) return null;
-  // Tradedoubler productUrl: …ttid(3)url(https%3A%2F%2F…)
-  const wNawiasie = /\burl\((.+)\)\s*$/.exec(link);
-  if (wNawiasie) return dekoduj(wNawiasie[1]);
-  // Tradedoubler deeplink i Adtraction/Performers: &url=…
-  const param = /[?&]url=([^&]+)/.exec(link);
-  if (param) return dekoduj(param[1]);
-  // Allegro: ?redirect_url=… (bez kodowania)
-  const allegro = /[?&]redirect_url=([^&]+)/.exec(link);
-  if (allegro) return dekoduj(allegro[1]);
-  // webePartners (Planeta Klocków): &r=<base64 adresu>
-  const base64 = /[?&]r=([A-Za-z0-9_-]+=*)/.exec(link);
-  if (base64) {
-    try {
-      const adres = Buffer.from(base64[1].replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString('utf8');
-      if (/^https?:\/\//.test(adres)) return adres;
-    } catch { /* nie base64 — spada niżej */ }
-  }
-  // Link bezpośredni (lego.com, smyk.com, x-kom.pl)
-  return /^https?:\/\//.test(link) ? link : null;
-}
-
 const TRACKERY = /(tradedoubler\.com|webep1\.com|performers\.tech|adt\d+\.com|allegro\.pl\/affiliate)/i;
 
 // ── Próba losowa ────────────────────────────────────────────────────────────
@@ -71,7 +46,6 @@ const TRACKERY = /(tradedoubler\.com|webep1\.com|performers\.tech|adt\d+\.com|al
 // z całości marnowało na nie 3/4 budżetu czasu i 3/4 próby. Bierzemy z nich
 // tylko kilka linków kontrolnych — po to, żeby zauważyć, gdyby któryś przestał
 // blokować — a resztę próby przeznaczamy na sklepy, które da się sprawdzić.
-const SKLEPY_BLOKUJACE = new Set(['allegro', 'empik', 'mediaexpert', 'lego']);
 const PROBA_KONTROLNA = 5;
 
 const losuj = (tablica) => { // Fisher–Yates; sortowanie po Math.random() daje krzywy rozkład
@@ -102,7 +76,7 @@ console.log(`Linków w redirects.json: ${wszystkie.length}${TYLKO ? ` (sklep ${T
 // odpowiadał 403, z UA Chrome'a odpowiada 200. To nie jest podszywanie się pod człowieka
 // w celu obejścia regulaminu: sprawdzamy tylko kod odpowiedzi własnych linków, jednym
 // zapytaniem na link, raz w tygodniu.
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36';
+const UA = UA_PRZEGLADARKI;
 async function kod(adres, metoda) {
   const wspolne = ['-s', '-o', '/dev/null', '-w', '%{http_code}', '-L', '--max-time', '12', '--connect-timeout', '6',
     '-A', UA, '-H', 'Accept-Language: pl-PL,pl;q=0.9', '-H', 'Accept: text/html,application/xhtml+xml'];
