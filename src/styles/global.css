@@ -1249,6 +1249,41 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
   .oferta-karta__akcje { gap: 10px; }
 }
 
+/* ── Ściąga „co trwa teraz" (/kalendarz-promocji-lego/) ───────────────────────
+   Lista zamiast tabeli, bo na telefonie trzykolumnowa tabela ściska opis do
+   dwóch słów w wierszu. Na szerokim ekranie układ jest tabelaryczny: termin,
+   opis, status. Poniżej 600 px termin i status siadają w jednym wierszu,
+   a opis przechodzi pod nie na pełną szerokość. */
+.prose .okna { list-style: none; margin: 16px 0 22px; padding: 0; }
+.prose .okna li {
+  display: grid;
+  grid-template-columns: 128px minmax(0, 1fr) auto;
+  gap: 2px 16px; align-items: baseline;
+  padding: 11px 0; border-top: 1px solid var(--linia);
+}
+.prose .okna li:last-child { border-bottom: 1px solid var(--linia); }
+.prose .okna__data { grid-column: 1; grid-row: 1; font-weight: 700; color: var(--granat); }
+.prose .okna__opis {
+  grid-column: 2; grid-row: 1;
+  /* podkreślamy tylko nazwę okna, nie cały opis — osiem podkreślonych zdań
+     pod sobą czyta się jak ściana, a nazwa wystarczy, żeby było widać link */
+  text-decoration: none;
+}
+.prose .okna__opis b { text-decoration: underline; }
+.prose .okna__opis:hover { text-decoration: underline; }
+.prose .okna .status { grid-column: 3; grid-row: 1; justify-self: end; white-space: nowrap; }
+@media (max-width: 600px) {
+  .prose .okna li { grid-template-columns: minmax(0, 1fr) auto; gap: 6px 10px; }
+  .prose .okna__opis { grid-column: 1 / -1; grid-row: 2; }
+  .prose .okna .status { grid-column: 2; grid-row: 1; }
+}
+
+/* ── Kotwice sekcji w artykułach ──────────────────────────────────────────────
+   Nagłówki z własnym id są celem odsyłaczy ze ściągi na górze kalendarza
+   promocji. Pasek nawigacji jest przyklejony, więc bez tego zapasu trafiony
+   nagłówek chowa się pod nim i czytelnik ląduje w środku akapitu. */
+.prose h2[id], .prose h3[id] { scroll-margin-top: 90px; }
+
 /* ── Słowniczek pojęć (/artykuly/slowniczek-lego/) ────────────────────────────
    Hasła stoją w <dl>, bo to jedyny znacznik, który mówi robotowi „termin
    i jego definicja". Każde <dt> ma własne id — dzięki temu indeks A–Z u góry

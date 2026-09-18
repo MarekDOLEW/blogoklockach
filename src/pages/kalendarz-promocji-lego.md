@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-10"
+zaktualizowano: "2026-09-18"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -16,30 +16,26 @@ faq:
     a: "Nie. Gratisy GWP i punkty Insiders dotyczą tylko oficjalnego sklepu LEGO. Sklepy zewnętrzne (Media Expert, Empik, al.to, Amazon, Allegro) konkurują ceną – często niższą niż katalogowa nawet poza promocjami LEGO.com. Dlatego zawsze liczymy, co się bardziej opłaca: gratis czy rabat."
 ---
 
-Jedna strona zamiast dziesięciu newsów: wszystkie znane promocje LEGO od września do grudnia 2026 – z datami, progami kwotowymi i naszą oceną, czy warto czekać. Wracaj tu przed każdym większym zakupem: **aktualizujemy ten kalendarz przy każdej potwierdzonej promocji** (datę ostatniej aktualizacji widzisz nad tytułem).
+Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z datami, progami kwotowymi i naszą oceną, czy warto czekać. **Kalendarz aktualizujemy przy każdej potwierdzonej zmianie** (datę widzisz nad tytułem).
 
-Rozróżniamy dwie kategorie: <span class="status status--ok">potwierdzone</span> – oficjalnie ogłoszone, oraz <span class="status status--maybe">przewidywane</span> – powtarzalny wzorzec z poprzednich lat, daty mogą się przesunąć.
+<h2 id="teraz">Co trwa teraz i co dalej</h2>
 
-## Najbliższe okna promocyjne – ściąga
+<ul class="okna">
+<li><span class="okna__data">do 19.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#batman-day"><b>Batman Day</b> – podwójne punkty na serię Batman i gratis 30726 od 165 zł, tylko na LEGO.com</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo, przy zakupach od ok. 375 zł</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
+<li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
+<li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
+<li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
+<li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
+<li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta</b> – ostatnie terminy dostaw przed Wigilią i ostatnia szansa na wycofywane zestawy</a></li>
+</ul>
 
-| Termin | Promocja | Status |
-|---|---|---|
-| do 20.08 | GWP 40908 World Restaurants: Greece od 745 zł na LEGO.com | <span class="status status--trwa">trwa</span> |
-| 29.08–06.09 | Back to Hogwarts: podwójne GWP Harry Potter | <span class="status status--ok">potwierdzone</span> |
-| **1.09** | Rozpoczęcie roku szkolnego – prezenty „na osłodę": [nasze prezentowniki](/prezentowniki/) | <span class="status status--ok">co roku</span> |
-| 9.09 | Insiders Member Day – odbył się, trwał jeden dzień | <span class="status status--ok">zakończone</span> |
-| **9–19.09** | Batman Day: podwójne punkty + gratis 30726 od 165 zł | <span class="status status--ok">potwierdzone</span> |
-| **16–17.09** | „Zbuduj i Zabierz": popiersie Batmana w salonach LEGO, 15:00–17:00 | <span class="status status--maybe">przewidywane</span> |
-| **21–30.09** | GWP 40900 Straszne nawiedzone drzewo od ok. 375 zł | <span class="status status--maybe">przewidywane</span> |
-| **21–30.09** | GWP 40772 Świecący duszek od 500 zł – tylko z kodów partnerskich | <span class="status status--maybe">przewidywane</span> |
-| **1.10** (Insiders) / **4.10** | Premiera 75457 Executor UCS + gratis 40897 | <span class="status status--ok">potwierdzone</span> |
-| **1.10** (Insiders) / **4.10** | Pozostałe premiery października: 72306 PlayStation, 21371 Wallace i Gromit, fala świąteczna | <span class="status status--ok">potwierdzone</span> |
-| **14.11** | Prywatne zakupy w salonach LEGO, godzinę przed otwarciem – zapisy już trwają | <span class="status status--maybe">przewidywane</span> |
-| ok. 20.11–30.11 | Black Friday (27.11) i Cyber Monday (30.11) | <span class="status status--maybe">przewidywane</span> |
-| **27.11** | Premiera 21375 Godzilla – w sam Black Friday, więc bez przeceny | <span class="status status--ok">potwierdzone</span> |
-| XII | Promocje świąteczne + ostatnia szansa na [wycofywane zestawy](/wycofania/) | <span class="status status--maybe">przewidywane</span> |
+<span class="status status--ok">potwierdzone</span> to termin oficjalnie ogłoszony, <span class="status status--maybe">przewidywane</span> – powtarzalny wzorzec z poprzednich lat, data może się przesunąć.
 
-## Sierpień/wrzesień: Back to Hogwarts (29.08–06.09) <span class="status status--ok">potwierdzone</span>
+Okna, które już się zamknęły – [Back to Hogwarts](#back-to-hogwarts), [Insiders Member Day 9.09](#member-day) i [„Zbuduj i Zabierz" 16–17.09](#wydarzenia) – zostawiamy niżej: pokazują, czego spodziewać się po ich listopadowych odpowiednikach.
+
+<h2 id="back-to-hogwarts">Sierpień/wrzesień: Back to Hogwarts (29.08–06.09) <span class="status status--ok">potwierdzone</span></h2>
 
 Największe potwierdzone okno przed jesienią – **trzy gratisy naraz** na LEGO.com, w dwóch progach kwotowych i jednym powiązanym z konkretnym zestawem:
 
@@ -88,11 +84,11 @@ Pierwszy wariant przekracza próg o niecałe pięć złotych – jeśli któryś
 
 **Nie potrzebujesz gratisu?** Sklepy zewnętrzne przeceniają zestawy Harry Potter niezależnie od okien LEGO.com – np. [Magiczne Sklepy na Pokątnej 76471](/zestaw/76471/) i [Zielnik w Hogwarcie 76474](/zestaw/76474/) chodzą około jednej trzeciej poniżej ceny katalogowej. Pełną listę z aktualnymi cenami masz na [stronie serii Harry Potter](/serie/harry-potter/).
 
-## Wrzesień: pierwszy dzwonek – 1.09
+<h2 id="pierwszy-dzwonek">Wrzesień: pierwszy dzwonek – 1.09</h2>
 
 Rozpoczęcie roku szkolnego to nieoficjalne, ale bardzo realne okno zakupowe: prezent „na osłodę" końca wakacji. Przygotowaliśmy trzy gotowe przewodniki dla dzieci 4–12 lat, wszystkie z realnymi promocjami: [dla chłopca do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/), [dla dziewczynki do 500 zł](/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/) i [rodzinny bez limitu](/artykuly/lego-na-rozpoczecie-roku-szkolnego/) – z premierowymi zestawami [Pokémon](/serie/pokemon/) na czele.
 
-## Wrzesień: Insiders Member Day – 9.09 <span class="status status--ok">zakończone</span>
+<h2 id="member-day">Wrzesień: Insiders Member Day – 9.09 <span class="status status--ok">zakończone</span></h2>
 
 Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi punktami** na siedem serii: [City](/serie/city/), Classic, [Creator 3 w 1](/serie/creator/), [DREAMZzz](/serie/dreamzzz/), [DUPLO](/serie/duplo/), [Friends](/serie/friends/) i [Ninjago](/serie/ninjago/).
 
@@ -104,21 +100,23 @@ Zapowiadany na **9 września** dzień członkowski LEGO Insiders z **podwójnymi
 
 **Ile to realnie było warte.** Podwójne punkty to około 5% wartości zamówienia zwróconej w punktach – mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Ta arytmetyka nie zmieni się w listopadzie, więc warto ją zapamiętać: **dzień z podwójnymi punktami nie jest powodem, żeby przepłacić na LEGO.com za coś, co gdzie indziej jest o jedną piątą tańsze.**
 
-## Wrzesień: Batman Day 9–19.09 <span class="status status--ok">potwierdzone</span>
+<h2 id="batman-day">Wrzesień: Batman Day 9–19.09 <span class="status status--ok">potwierdzone</span></h2>
 
 Tegoroczny Batman Day to nie jeden dzień, tylko okno **od 9 do 19 września** – a nie okolice trzeciej soboty miesiąca, jak zakładaliśmy wcześniej. Wybrane zestawy z serii [Batman](/serie/batman/) mają wtedy **podwójne punkty Insiders**, a przy zakupach z tej serii **od 165 zł** dochodzi gratis: polybag 30726. LEGO dokłada do tego mały zestaw do wyboru – z City albo Friends.
 
 **Ważniejsze od punktów: dystrybucja zewnętrzna jest tu wyraźnie tańsza.** Dwa zestawy z listy promocyjnej chodzą dziś znacznie poniżej cennika – 76303 Tumbler kontra Dwie Twarze i Joker (katalog 249,99 zł) oraz 76304 Batmobil Batman Forever (katalog 419,99 zł), oba w czterech sklepach naraz. Przy takiej różnicy podwójne punkty na LEGO.com nie mają szans się opłacić. Wyjątkiem są **40859 i 76333, dostępne wyłącznie w LEGO.com** – tam nie ma czego porównywać i promocja punktowa jest jedyną korzyścią.
 
-**Osobno, w sklepach stacjonarnych: „Zbuduj i Zabierz" z popiersiem Batmana, 16–17 września, w godzinach 15:00–17:00.** To mikromodel składany na miejscu, w ograniczonej liczbie sztuk – kto pierwszy, ten lepszy. Akcja dotyczy wyłącznie salonów LEGO, więc jeśli nie masz takiego w mieście, nie ma czego szukać online.
+Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu branżowego z 9 września. Stacjonarne „Zbuduj i Zabierz" z popiersiem Batmana, które wypadło 16–17 września, opisujemy w [sekcji wydarzeń](#wydarzenia).
+
+<h2 id="halloween">Wrzesień: dwa gratisy halloweenowe, 21–30.09 <span class="status status--maybe">przewidywane</span></h2>
 
 **Gratis halloweenowy: 40900 Straszne nawiedzone drzewo, 21–30 września**, przy zakupach od około **375 zł**. Próg podajemy za serwisem branżowym, który sam oznacza go jako niepotwierdzony – traktuj go jako orientacyjny i sprawdź w koszyku przed finalizacją zamówienia. Wcześniej spodziewaliśmy się tego gratisu dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
 
 **W tym samym oknie 21–30 września krążą kody partnerskie na drugi gratis** – zestaw 40772 Świecący duszek, przy progu 500 zł z dowolnej serii. Kodów nie rozdajemy i nie musisz ich szukać: ważniejsze jest to, co z nich wynika. Gratis odebrany z kodu najprawdopodobniej zajmuje **jeden z trzech slotów nagrody Insiders**, więc nie zakładaj, że oba upominki wpadną do jednego koszyka. Jeśli masz wybrać jeden, licz progi: 375 zł do drzewa jest niżej niż 500 zł do duszka. Oba warunki pochodzą z serwisu branżowego i oba są tam oznaczone jako niepotwierdzone – sprawdź koszyk przed zapłatą.
 
-Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu branżowego z 9 września. Event stacjonarny i gratis halloweenowy zostają przewidywane, bo tych LEGO jeszcze nie ogłosiło.
+Obu terminów LEGO nie ogłosiło publicznie – dlatego całe to okno zostaje przewidywane.
 
-## Październik: Executor UCS (1.10 i 4.10) <span class="status status--ok">potwierdzone</span>
+<h2 id="pazdziernik">Październik: Executor UCS (1.10 i 4.10) <span class="status status--ok">potwierdzone</span></h2>
 
 Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku października" – teraz jest już konkret i jest większy, niż się spodziewaliśmy.
 
@@ -139,7 +137,7 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 
 **Czy warto czekać z innymi zakupami Star Wars?** Nie na sam Executor – to zestaw z zupełnie innej półki cenowej i nie wpływa na resztę oferty. Ale okna premierowe UCS bywają w LEGO.com łączone z podwójnymi punktami na całą serię, więc jeśli i tak planujesz coś z [Gwiezdnych wojen](/prezentowniki/lego-star-wars/), pierwszy tydzień października jest dobrym momentem, żeby sprawdzić warunki.
 
-### Październik to nie tylko Executor
+<h3 id="pazdziernik-fala">Październik to nie tylko Executor</h3>
 
 Tego samego dnia – **1 października dla Insiders, 4 października dla wszystkich** – wchodzi reszta fali. Trzy pozycje z potwierdzoną ceną katalogową:
 
@@ -155,7 +153,7 @@ Do tego rusza fala sezonowa: powiększona Pani Mikołajowa, Buddy z „Elfa", ś
 
 Gratis halloweenowy, którego spodziewaliśmy się tutaj, wypada w tym roku wcześniej – jest w sekcji wrześniowej. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
 
-## Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span>
+<h2 id="listopad">Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span></h2>
 
 Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
@@ -166,17 +164,7 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
 
-**Osobno, 14 listopada: prywatne zakupy w salonach LEGO.** W sobotę o 8:00 lub
-9:00, zależnie od miasta, każdy polski LEGO Store otwiera się godzinę wcześniej
-dla zapisanej grupy – według serwisu branżowego około piętnastu osób na salon,
-a zapisy ruszyły 16 września i miejsca się kończą. W opisie wydarzenia są
-„atrakcje specjalne": budowanie i upominki. **To wydarzenie, nie promocja** –
-nikt nie zapowiedział rabatu, a termin wypada tydzień przed Insiders Weekend
-i dwa tygodnie przed Black Friday, czyli najgorzej, jak się da z punktu widzenia
-cen. Jedź, jeśli chcesz mieć salon dla siebie i zgarnąć upominek; nie jedź
-z listą prezentów, bo tańsze będą dwa tygodnie później. Termin i szczegóły mamy
-z jednego źródła i LEGO nie ogłosiło ich publicznie, więc przed wyjazdem
-potwierdź w swoim salonie.
+W ten sam miesiąc wpada jedno wydarzenie stacjonarne – prywatne zakupy w salonach 14 listopada, z zapisami, które już trwają. Opisujemy je w [sekcji wydarzeń](#wydarzenia), bo z cenami nie ma nic wspólnego.
 
 Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat" wyglądał lepiej. My liczymy każdy rabat **od oficjalnej ceny katalogowej LEGO** – sprawdzisz to na podstronie każdego zestawu, a bieżące realne okazje znajdziesz na [stronie głównej](/).
 
@@ -184,11 +172,43 @@ Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
 
-## Grudzień: święta i ostatnia szansa na wycofywane zestawy <span class="status status--maybe">przewidywane</span>
+<h2 id="grudzien">Grudzień: święta i ostatnia szansa na wycofywane zestawy <span class="status status--maybe">przewidywane</span></h2>
 
 Do ok. 18–19.12 sklepy gwarantują dostawę przed Wigilią – po tej dacie zostaje odbiór osobisty. Grudzień to też ostatni pełny miesiąc sprzedaży wielu zestawów [wycofywanych z produkcji](/wycofania/) – po Nowym Roku ich ceny zaczynają rosnąć, nie spadać. Jeśli szukasz konkretnych pomysłów, zajrzyj do naszych [prezentowników](/prezentowniki/).
 
-## Jak wycisnąć z tego kalendarza maksimum
+<h2 id="wydarzenia">Wydarzenia w salonach LEGO</h2>
+
+Tu zbieramy to, czego nie da się kupić taniej w internecie, bo liczy się termin
+i miejsce, a nie cena: akcje w salonach stacjonarnych i wymiany na stanowiskach
+Build a Minifigure. Jeśli nie masz salonu w mieście, całą tę sekcję możesz
+pominąć.
+
+**14 listopada (sobota): prywatne zakupy.** O 8:00 lub 9:00, zależnie od miasta,
+każdy polski LEGO Store otwiera się godzinę wcześniej dla zapisanej grupy –
+według serwisu branżowego około piętnastu osób na salon, a zapisy ruszyły
+16 września i miejsca się kończą. W opisie wydarzenia są „atrakcje specjalne":
+budowanie i upominki. **To wydarzenie, nie promocja** – nikt nie zapowiedział
+rabatu, a termin wypada tydzień przed Insiders Weekend i dwa tygodnie przed
+Black Friday, czyli najgorzej, jak się da z punktu widzenia cen. Jedź, jeśli
+chcesz mieć salon dla siebie i zgarnąć upominek; nie jedź z listą prezentów, bo
+tańsze będą dwa tygodnie później. Termin mamy z jednego źródła i LEGO nie
+ogłosiło go publicznie, więc przed wyjazdem potwierdź w swoim salonie.
+<span class="status status--maybe">przewidywane</span>
+
+**1 października: wymiana figurek na stanowiskach Build a Minifigure.** Siedem
+nowych postaci zastępuje wrześniową serię halloweenową – rozpisaliśmy je
+w [osobnym tekście](/artykuly/lego-bam-pazdziernik-2026/), razem z tym, które
+pojedyncze elementy są w tej serii naprawdę rzadkie. Stanowisko BAM to trzy
+elementy za stałą cenę, więc wartość całej akcji zależy wyłącznie od tego, co
+akurat stoi w pojemnikach. <span class="status status--ok">potwierdzone</span>
+
+**16–17 września: „Zbuduj i Zabierz" z popiersiem Batmana.** Mikromodel składany
+na miejscu w godzinach 15:00–17:00, w ograniczonej liczbie sztuk – kto pierwszy,
+ten lepszy. Akcja już się odbyła; zostawiamy ją, bo pokazuje wzorzec: takie
+eventy trwają dwie godziny, dotyczą wyłącznie salonów i nie mają odpowiednika
+online. <span class="status status--ok">zakończone</span>
+
+<h2 id="jak-kupowac">Jak wycisnąć z tego kalendarza maksimum</h2>
 
 1. **Gratisy GWP planuj pod większe zakupy** – próg 540–750 zł łatwo przekroczyć jednym średnim zestawem, zamiast dopychać koszyk drobnicą.
 2. **Poza oknami GWP porównuj sklepy** – najniższa cena w Media Expert, Empik, al.to, na Amazonie czy Allegro potrafi bić rabaty LEGO.com nawet w szczycie promocji. Tabele cen znajdziesz na podstronie każdego zestawu – wejście przez [strony serii](/serie/) albo wyszukiwarkę na [stronie głównej](/).
