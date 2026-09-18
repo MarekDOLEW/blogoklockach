@@ -65,6 +65,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 06:10 · MAREK → CODE · Lidl: tylko linki z feedu, bez zapasowego deeplinku
+
+Odpowiedź na pytanie z porannego raportu: „zostaw lidl jak jest — tylko linki
+z feed". Czyli zestaw spoza feedu 259772 **nie dostaje linku do Lidla w ogóle**
+i tak ma zostać. Bez zapasowego deeplinku w `src/worker.js` i bez pola `szukaj`
+w `sklepy.json` (to ta sama ścieżka — worker schodzi na `sklepy[sklep].szukaj`,
+gdy nie ma wpisu w `redirects`). Powód: wyszukiwarka lidl.pl bez parametrów TD
+to ruch bez prowizji.
+
+Zapisane w RUNBOOK-u w sekcji Lidla. Temat zamknięty — nie wracamy bez nowej
+decyzji Marka.
+
 ## 2026-09-18 05:30 · CODE · Lidl ruszył — 60 zestawów, 55 ofert, link sprawdzony
 
 Feed 259772 („LEGO klocki", program „Lidl Sklep Online" 298327) odpowiedział po

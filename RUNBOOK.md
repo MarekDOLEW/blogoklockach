@@ -1326,10 +1326,14 @@ Ceneo nadal nie (porównywarka).
 
 Linki idą z feedu (gotowy `pdt.tradedoubler.com`), worker bierze je
 z `redirects.lidl` — **bez zmian w `src/worker.js`**. Konsekwencja: zestaw spoza
-feedu nie dostaje linku do Lidla w ogóle. Innych sklepów dotyczy to inaczej —
-tam w workerze stoi zapasowy deeplink na wyszukiwarkę. Dla Lidla takiego
-zapasu **nie zakładamy bez decyzji Marka**: link do wyszukiwarki lidl.pl bez
-parametrów TD wypuszczałby ruch bez prowizji.
+feedu nie dostaje linku do Lidla w ogóle.
+
+**Decyzja Marka (18.09.2026): tak zostaje — tylko linki z feedu.** Innych sklepów
+dotyczy to inaczej (w workerze stoi zapasowy deeplink na wyszukiwarkę), ale dla
+Lidla zapasu **nie dorabiamy**: link do wyszukiwarki lidl.pl bez parametrów TD
+wypuszczałby ruch bez prowizji. Nie wracamy do tematu bez nowej decyzji —
+w szczególności nie dopisujemy Lidlowi pola `szukaj` w `sklepy.json`, bo to
+ta sama ścieżka tylnymi drzwiami (worker schodzi na `sklepy[sklep].szukaj`).
 
 ## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
 
