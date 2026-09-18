@@ -1387,14 +1387,18 @@ z dziś. Wykres „jak zmieniała się cena" był niewykonalny — i pozostałby
 dopóki ktoś nie zacznie zapisywać.
 
 `scripts/historia-cen.mjs` (odpalany codziennie przez `feedy-lego.py`) dopisuje
-najniższą dzienną cenę każdego zestawu do `materialy/historia-cen/RRRR-MM.jsonl`
+najniższą dzienną cenę każdego zestawu do `src/data/historia-cen/RRRR-MM.jsonl`
 w formacie `{"d":data,"nr":numer,"c":cena,"s":sklep}`. **Tylko zmiany** — gdy cena
 stoi, linii nie ma. Stan ostatnich cen trzyma `_ostatnie.json`, żeby nie czytać
 całej historii przy każdym przebiegu.
 
-Dlaczego poza `src/data`: wszystko w `src/data` wchodzi do builda Astro, a ta
-historia ma rosnąć latami. Gdy dojdą wykresy na hubach, osobny skrypt wytnie
-z tego kompaktową serię (punkty tygodniowe, tylko zestawy z hubem) do `src/data`.
+Dlaczego w `src/data`, skoro to nie są dane serwisu: **runnery commitują
+`src/data`** (Łowca i wtorkowy „Dane 05:30" mają to wprost w promptach), a kontener
+po przebiegu znika — plik poza tym katalogiem groziłby tym, że historia nigdy nie
+trafi do repo. Buildowi to nie ciąży: Astro pakuje wyłącznie to, co ktoś
+zaimportuje, a `.jsonl` nie importuje nikt (w `src/` nie ma `import.meta.glob`
+po `src/data`). Gdy dojdą wykresy na hubach, osobny skrypt wytnie z tego
+kompaktową serię (punkty tygodniowe, tylko zestawy z hubem) do zwykłego `.json`.
 
 Pierwszy zapis 18.09.2026: 5 966 zestawów, 328 kB. Ceneo pomijamy (porównywarka).
 

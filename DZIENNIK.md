@@ -103,8 +103,10 @@ zrobić wykres zmian ceny. Odpowiedź brzmiała **nie**: `ceny_baza.json` trzyma
 tylko minimum wszech czasów, `oferty_feed.json` to migawka z dziś, a historia repo
 sięga 9 dni. Od dziś zbieramy: `scripts/historia-cen.mjs` (codziennie, z tego
 samego miejsca co Lidl) dopisuje najniższą dzienną cenę zestawu do
-`materialy/historia-cen/RRRR-MM.jsonl`, **tylko gdy cena się ruszyła**.
-Pierwszy zapis: 5 966 zestawów, 328 kB. Poza `src/data`, żeby nie rosło w buildzie.
+`src/data/historia-cen/RRRR-MM.jsonl`, **tylko gdy cena się ruszyła**.
+Pierwszy zapis: 5 966 zestawów, 328 kB. Katalog jest w `src/data`, bo **runnery
+commitują wyłącznie `src/data`** — plik gdzie indziej przepadałby razem
+z kontenerem. Build tego nie widzi (`.jsonl` nikt nie importuje).
 
 → Wykresy na hubach mają sens najwcześniej po 2–3 miesiącach zbierania (grudzień).
 Wtedy osobny skrypt wytnie z JSONL kompaktową serię do `src/data`.

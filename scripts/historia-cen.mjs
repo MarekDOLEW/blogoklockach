@@ -3,10 +3,15 @@
 // zmieniała się cena" (dziś nie mamy żadnej serii czasowej: ceny_baza.json trzyma
 // wyłącznie minimum wszech czasów, oferty_feed.json to migawka z dziś).
 //
-// Format: JSON Lines, jeden plik na miesiąc, w `materialy/historia-cen/`.
-// CELOWO POZA src/data: wszystko w src/data wchodzi do builda Astro, a historia
-// ma rosnąć latami. Gdy dojdą wykresy na hubach, osobny skrypt wytnie z tego
-// kompaktową serię (tygodniowe punkty, tylko zestawy z hubem) do src/data.
+// Format: JSON Lines, jeden plik na miesiąc, w `src/data/historia-cen/`.
+// Dlaczego w src/data, skoro to nie są dane serwisu: runnery commitują `src/data`
+// (Łowca i wtorkowy „Dane 05:30" mają to wprost w promptach), a kontener po
+// przebiegu znika. Plik poza tym katalogiem groziłby tym, że historia nigdy nie
+// trafi do repo i każdy dzień przepadnie. Buildowi to nie ciąży: Astro pakuje
+// wyłącznie to, co ktoś zaimportuje, a .jsonl nie importuje nikt (sprawdzone —
+// w src/ nie ma żadnego import.meta.glob po src/data).
+// Gdy dojdą wykresy na hubach, osobny skrypt wytnie z tego kompaktową serię
+// (tygodniowe punkty, tylko zestawy z hubem) do zwykłego .json.
 //
 // Zapisujemy TYLKO ZMIANY: jeśli najniższa cena zestawu jest taka sama jak
 // w ostatnim wpisie, nowej linii nie ma. Dzięki temu plik rośnie w tempie
@@ -30,7 +35,7 @@ const feed = czytaj('oferty_feed.json').sety ?? {};
 const sety = czytaj('sety.json');
 const dzis = new Date().toISOString().slice(0, 10);
 
-const KATALOG_HISTORII = join(KATALOG, 'materialy/historia-cen');
+const KATALOG_HISTORII = join(KATALOG, 'src/data/historia-cen');
 const PLIK_MIESIACA = join(KATALOG_HISTORII, `${dzis.slice(0, 7)}.jsonl`);
 const PLIK_STANU = join(KATALOG_HISTORII, '_ostatnie.json');
 mkdirSync(KATALOG_HISTORII, { recursive: true });
