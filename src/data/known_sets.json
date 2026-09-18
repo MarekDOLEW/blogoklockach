@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-17",
+  "data_aktualizacji": "2026-09-18",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1173,
   "sety": [
@@ -5634,7 +5634,7 @@
   "fala_pazdziernikowa_2026": {
     "ustalenie": "2026-08-26, przebudowane 2026-09-02",
     "metoda": "Wyszukiwanie po launchDate=2026-10-01 w API zamiast sledzenia pustych rekordow. Poprzednia metoda dawala 4 zestawy, ta daje 17 — puste numery to byla tylko ta czesc fali, ktorej Brickset nie zdazyl opisac.",
-    "zestawow": 19,
+    "zestawow": 20,
     "opisanych": 11,
     "sety": [
       {
@@ -5779,7 +5779,14 @@
     "status_2026_09_08": "11379 oficjalnie zaprezentowany i dostepny w przedsprzedazy — StoneWars 2026-09-07 ('offiziell vorgestellt und vorbestellbar'). DO ZROBIENIA: cena w zl nadal nieznana, nie ma jej ani w katalog.json, ani w oferty_feed.json. Wpis w sety.json ma cena_katalogowa: null i wyraznie oznaczone oszacowanie 550-580 zl. Podmienic na cene faktyczna, gdy Lowca zaciagnie ja z feedow.",
     "korekta_2026_09_11": "BLAD DO ODWOLANIA: 2026-09-07 napisalem, ze fala jest kompletna. Nie byla. Powtorzony dzis przeglad po launchDate=2026-10-01 na pelnym roczniku 2026 (934 rekordy, 2 zapytania) daje 19 zestawow, nie 17. Doszly 21373 Downton Abbey (4711 el.) i 40899 (276 el., nadal bez nazwy). PRZYCZYNA: przeglad po launchDate zrobilem raz, 02.09. Oba te rekordy dostaly date startu PO tym dniu (10.09), wiec w snapshocie ich nie bylo, a codzienny updatedSince pokazuje zmiane, ale nie przypisuje jej do fali. Deklaracja o kompletnosci opierala sie na nieaktualnym zrzucie.",
     "poprawka_metody": "Przeglad po launchDate powtarzac CO TYDZIEN az do 1 pazdziernika, nie raz. Rekordy dostaja date startu stopniowo, wiec kazdy jednorazowy snapshot sie starzeje. Koszt: 2 zapytania getSets.",
-    "status_2026_09_11": "19 zestawow, opisanych 18. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy."
+    "status_2026_09_11": "19 zestawow, opisanych 18. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy.",
+    "status_2026_09_18": {
+      "liczba": "20 pozycji, nie 19. Tygodniowy przeglad po launchDate na pelnym roczniku 2026 (937 rekordow, 2 zapytania). Doszlo 11387 — dostalo date startu 2026-10-01, gdy LEGO potwierdzilo je 15-16.09.",
+      "sklad": "18 pozycji do kupienia (11 'Retail'/'Retail - limited' + 7 'LEGO exclusive') oraz 2 gratisy z polem availability 'LEGO Gift with Purchase': 40897 (Miecz swietlny Vadera) i 40899.",
+      "opisane": "19 z 20. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy.",
+      "korekta_wlasnego_raportu": "We wczorajszym raporcie napisalem '18 detalicznych + 1 gratis'. Bylo to niepelne z dwoch powodow: 11387 jeszcze nie mialo daty startu, a 40897 juz wtedy bylo gratisem, tylko nie sprawdzilem jego pola availability. Poprawnie: 18 do kupienia + 2 gratisy.",
+      "metoda_dziala": "To drugi raz, gdy tygodniowy przeglad po launchDate wylapal pozycje, ktorej przyrostowy updatedSince nie przypisal do fali (pierwszy raz 11.09: 21373 i 40899). Kadencja tygodniowa zostaje do 1 pazdziernika."
+    }
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
@@ -5943,5 +5950,12 @@
     "drugi_gratis_w_miesiacu": "40899 (Astro Bot, 276 el.) i 40900 (drzewo, 218 el.) to dwa gratisy w ciagu trzech tygodni. Roznica: 40900 JEST potwierdzony przez LEGO, 40899 nadal opiera sie na przecieku z Reddita.",
     "odsiane": "6644878 'Batman Mini Bust' — kategoria 'Other', gadzet.",
     "promobricks": "Bez nowych wpisow katalogowych."
+  },
+  "przeglad_2026_09_18": {
+    "brickset_przyrostowo": "Jeden rekord: 5010478 'Sherpa Backed Throw' (motyw Gear) — koc, odsiany. Rocznik 2027 bez zmian.",
+    "40899_forma_potwierdzona": "Brickset ma teraz w karcie 40899 pole availability = 'LEGO Gift with Purchase'. To potwierdza w katalogu FORME dystrybucji, ktora dotad opierala sie na przecieku z Reddita relacjonowanym przez PromoBricks. Nazwa 'Astro Bot' nadal niepotwierdzona — karta Brickset ma '{?}'. Do sety.json nie wchodzi, bo bez nazwy nie ma czego opisac.",
+    "promobricks": "Jeden nowy wpis: Insiders Private Store Shopping Event w polowie listopada. Akcja handlowa, nie nowosc produktowa — ale termin warto miec w kalendarzu promocji.",
+    "stonewars": "Dwa nowe wpisy: analiza podwyzki cen czesci w Pick a Brick (ponad 6000 pozycji) i tekst o standardach aukcji eBay Live. Zadnej nowosci katalogowej.",
+    "przecieki": "Bez zmian: 15 wpisow, 1 rozstrzygniety. Zadnego nowego przecieku ani nowego dowodu."
   }
 }
