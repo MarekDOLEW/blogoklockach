@@ -65,6 +65,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 09:20 · CODE · Martwy link PK to była nasza stara kopia — linki nie odświeżały się nigdy
+
+Marek zauważył, że zestaw 43024 jest na Planecie Klocków pod dłuższym adresem,
+i zapytał, czy nie ma go w feedzie. **Jest.** Feed z dzisiaj niesie poprawny
+`…-editions-kask-ayrton-senna` (200), a my trzymaliśmy `…-editions` (404).
+
+Przyczyna jest szersza niż jeden zestaw: **mapy linków tylko rosły**. Łowca
+dopisywał adresy dla zestawów, których nie było w `redirects.json`, ale nigdy nie
+poprawiał tych, które już tam były — więc każda zmiana slugu w sklepie zostawała
+u nas jako martwy link na zawsze.
+
+Skala: porównanie 1 307 zestawów PK obecnych w dzisiejszym feedzie dało **3 adresy
+inne niż nasze**. Mało, ale to jedyny rodzaj błędu, który wysyła czytelnika prosto
+na 404 — i sam z siebie nigdy się nie naprawi.
+
+Naprawione w `feedy-lego.py`: po sparsowaniu feedów skrypt **nadpisuje adresy**
+w `redirects.json` dla Media Expertu, Planety Klocków i Allegro. „Append-only"
+dotyczy kasowania wpisów, nie aktualizacji adresu tego samego zestawu — liczba
+wpisów i tak jest sprawdzana, a skrypt przerywa, gdyby zmalała.
+
+Po przebiegu wszystkie trzy adresy PK odpowiadają 200. Liczba linków PK bez zmian
+(1 877). Znów bez ruszania promptu Łowcy — ta sama ścieżka co przy Lidlu.
+
+→ Wniosek do zapamiętania: kontrola linków nie jest kosmetyką. Pierwszy przebieg
+znalazł błąd, którego żaden runner nie mógł wykryć, bo każdy patrzył tylko na ceny.
+
 ## 2026-09-18 08:10 · CODE · Lidl codziennie, kontrola linków, start historii cen
 
 Trzy rzeczy z porannej rozmowy z Markiem.

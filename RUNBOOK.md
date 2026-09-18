@@ -1379,6 +1379,18 @@ sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć 
 
 Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
 
+**Pierwsza naprawa, którą ta kontrola wymusiła (18.09.2026).** Martwy link
+Planety Klocków do 43024 okazał się nie błędem sklepu, tylko **naszą starą kopią**:
+feed z tego samego dnia miał poprawny adres (`…-editions-kask-ayrton-senna`),
+a my trzymaliśmy wersję sprzed zmiany slugu (`…-editions`, 404). Przyczyna: mapy
+linków **rosły, ale nigdy się nie odświeżały** — wpis raz zapisany zostawał na zawsze.
+
+Od 18.09 `feedy-lego.py` po sparsowaniu feedów **nadpisuje adresy** w
+`redirects.json` dla Media Expertu, Planety Klocków i Allegro. „Append-only"
+dotyczy KASOWANIA wpisów, nie aktualizacji adresu tego samego zestawu w tym samym
+sklepie; skrypt i tak sprawdza, że liczba wpisów nie zmalała, i przerywa, gdyby
+zmalała. Empik, Ceneo, Lidl i LEGO.com mają własne importery, które robią to samo.
+
 ## Historia cen — seria czasowa pod wykresy *(od 18.09.2026)*
 
 Do 18.09.2026 **nie mieliśmy żadnej historii cen**: `ceny_baza.json` trzyma

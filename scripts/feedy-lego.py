@@ -204,6 +204,44 @@ ZRODLA = {
 }
 
 
+def odswiez_redirects(wynik):
+    """Wpisuje do redirects.json dzisiejsze adresy kart produktów z feedów.
+
+    Powód (18.09.2026): mapy linków rosły, ale nigdy się nie odświeżały — wpis raz
+    zapisany zostawał na zawsze, także gdy sklep zmienił adres karty. Kontrola
+    linków znalazła 43024 w Planecie Klocków: nasz link dawał 404, a feed z tego
+    samego dnia miał poprawny, dłuższy adres. Różnic było 3 na 1 307 zestawów
+    obecnych w feedzie — mało, ale każda to czytelnik wysłany na 404.
+
+    „Append-only" znaczy, że nie wolno KASOWAĆ wpisów. Aktualizacja adresu tego
+    samego zestawu w tym samym sklepie nie jest kasowaniem — liczba wpisów nigdy
+    nie maleje i skrypt to sprawdza.
+    """
+    sciezka = os.path.join(KATALOG, 'src/data/redirects.json')
+    with open(sciezka, encoding='utf-8') as f:
+        redirects = json.load(f)
+    zmiany, nowe = {}, {}
+    for sklep in ('mediaexpert', 'planetaklockow', 'allegro'):
+        mapa = redirects.setdefault(sklep, {})
+        przed = len(mapa)
+        for nr, oferta in (wynik.get(sklep) or {}).items():
+            link = (oferta.get('link') or '').strip()
+            if not link:
+                continue
+            if nr not in mapa:
+                mapa[nr] = link
+                nowe[sklep] = nowe.get(sklep, 0) + 1
+            elif mapa[nr] != link:
+                mapa[nr] = link
+                zmiany[sklep] = zmiany.get(sklep, 0) + 1
+        if len(mapa) < przed:  # nie powinno się zdarzyć — pilnujemy tego wprost
+            raise RuntimeError(f'redirects.{sklep}: liczba wpisów zmalała {przed} -> {len(mapa)}')
+    with open(sciezka, 'w', encoding='utf-8') as f:
+        json.dump(redirects, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    return nowe, zmiany
+
+
 def feedy_td_codzienne():
     """Feedy Tradedoublera oznaczone w feedy.json jako codzienne.
 
@@ -253,6 +291,16 @@ if __name__ == '__main__':
         except Exception as blad:  # feed niedostępny nie może przerwać pozostałych
             wynik['_meta']['bledy'][sklep] = str(blad)
             print(f'{sklep}: BŁĄD — {blad}', file=sys.stderr)
+
+    # Adresy kart produktów z dzisiejszych feedów — zanim Łowca zacznie liczyć ceny.
+    if wybrane and not args.tylko_td:
+        try:
+            nowe_linki, zmiany_linkow = odswiez_redirects(wynik)
+            wynik['_meta']['redirects'] = {'nowe': nowe_linki, 'zmienione': zmiany_linkow}
+            print(f'redirects: nowe {nowe_linki or "—"}, zmienione {zmiany_linkow or "—"}', file=sys.stderr)
+        except Exception as blad:
+            wynik['_meta']['bledy']['redirects'] = str(blad)
+            print(f'redirects: BŁĄD — {blad}', file=sys.stderr)
 
     # Feedy TD (dziś: Lidl) — importer zapisuje dane serwisu sam, więc nie wchodzą
     # do wyciągu. Błąd jednego feedu nie może przerwać reszty przebiegu Łowcy.
