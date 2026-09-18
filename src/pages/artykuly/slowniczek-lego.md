@@ -35,7 +35,77 @@ prowadzi wprost do definicji.
 
 ## Indeks A–Z
 
-<p class="slownik-indeks"><a href="#afol">AFOL</a> · <a href="#bam">BaM (Build a Minifigure)</a> · <a href="#belka">Belka (liftarm)</a> · <a href="#bigfig">BigFig</a> · <a href="#brick">Brick (klocek)</a> · <a href="#bricklink">BrickLink</a> · <a href="#studio">BrickLink Studio</a> · <a href="#brickset">Brickset i Rebrickable</a> · <a href="#cena-katalogowa">Cena katalogowa (RRP, MSRP)</a> · <a href="#clip-bar">Clip i bar (zacisk i pręt)</a> · <a href="#cmf">CMF</a> · <a href="#custom">Custom</a> · <a href="#czesci-zamienne">Części zamienne</a> · <a href="#d2c">D2C</a> · <a href="#drabina-cenowa">Drabina cenowa</a> · <a href="#duplo">Duplo</a> · <a href="#ekskluzyw">Ekskluzyw</a> · <a href="#element">Element</a> · <a href="#eol">EOL</a> · <a href="#greebling">Greebling</a> · <a href="#gwp">GWP</a> · <a href="#icons">Icons</a> · <a href="#instrukcja">Instrukcja cyfrowa (LEGO Builder)</a> · <a href="#inwestowanie">Inwestowanie w klocki</a> · <a href="#jumper">Jumper</a> · <a href="#kfol">KFOL i TFOL</a> · <a href="#klony">Klony (lepiny)</a> · <a href="#kompletnosc">Kompletność</a> · <a href="#lan">LAN (LEGO Ambassador Network)</a> · <a href="#ldd">LDD (LEGO Digital Designer)</a> · <a href="#lego-ideas">LEGO Ideas</a> · <a href="#insiders">LEGO Insiders</a> · <a href="#lug">LUG</a> · <a href="#marketplace">Marketplace</a> · <a href="#mikrofigurka">Mikrofigurka</a> · <a href="#mikroskala">Mikroskala</a> · <a href="#miks">Miks</a> · <a href="#mini-doll">Mini-doll (figurka Friends)</a> · <a href="#minifigurka">Minifigurka</a> · <a href="#misb">MISB, MIB, NISB</a> · <a href="#moc">MOC</a> · <a href="#model-alternatywny">Model alternatywny (B-model)</a> · <a href="#modulary">Modulary</a> · <a href="#lu">Moduł LU (1,6 mm)</a> · <a href="#najnizsza-cena-30-dni">Najniższa cena z 30 dni</a> · <a href="#npu">NPU</a> · <a href="#numer-zestawu">Numer zestawu</a> · <a href="#ostatnie-sztuki">Ostatnie Sztuki (Retiring Soon)</a> · <a href="#osiemnascie-plus">Oznaczenie 18+</a> · <a href="#pick-a-brick">Pick a Brick</a> · <a href="#technic-pin">Pin Technic</a> · <a href="#plate">Plate (płytka)</a> · <a href="#plytka-bazowa">Płytka bazowa (baseplate)</a> · <a href="#podszywka">Podszywka</a> · <a href="#podwojne-punkty">Podwójne punkty</a> · <a href="#polybag">Polybag</a> · <a href="#print-naklejka">Print kontra naklejka</a> · <a href="#promocja-pozorna">Promocja pozorna</a> · <a href="#prog-zakupu">Próg zakupu</a> · <a href="#rlfm">RLFM</a> · <a href="#rlug">RLUG</a> · <a href="#rozdzielacz">Rozdzielacz (brick separator)</a> · <a href="#scalper">Scalper</a> · <a href="#seria">Seria (temat)</a> · <a href="#snot">SNOT</a> · <a href="#stud">Stud</a> · <a href="#tile">Tile (płytka gładka)</a> · <a href="#ucs">UCS</a> · <a href="#zl-za-element">Złotówka za element (zł/el.)</a></p>
+<ul class="slownik-indeks">
+<li><a href="#afol">AFOL</a></li>
+<li><a href="#bam">BaM (Build a Minifigure)</a></li>
+<li><a href="#belka">Belka (liftarm)</a></li>
+<li><a href="#bigfig">BigFig</a></li>
+<li><a href="#brick">Brick (klocek)</a></li>
+<li><a href="#bricklink">BrickLink</a></li>
+<li><a href="#studio">BrickLink Studio</a></li>
+<li><a href="#brickset">Brickset i Rebrickable</a></li>
+<li><a href="#cena-katalogowa">Cena katalogowa (RRP, MSRP)</a></li>
+<li><a href="#clip-bar">Clip i bar (zacisk i pręt)</a></li>
+<li><a href="#cmf">CMF</a></li>
+<li><a href="#custom">Custom</a></li>
+<li><a href="#czesci-zamienne">Części zamienne</a></li>
+<li><a href="#d2c">D2C</a></li>
+<li><a href="#drabina-cenowa">Drabina cenowa</a></li>
+<li><a href="#duplo">Duplo</a></li>
+<li><a href="#ekskluzyw">Ekskluzyw</a></li>
+<li><a href="#element">Element</a></li>
+<li><a href="#eol">EOL</a></li>
+<li><a href="#greebling">Greebling</a></li>
+<li><a href="#gwp">GWP</a></li>
+<li><a href="#icons">Icons</a></li>
+<li><a href="#instrukcja">Instrukcja cyfrowa (LEGO Builder)</a></li>
+<li><a href="#inwestowanie">Inwestowanie w klocki</a></li>
+<li><a href="#jumper">Jumper</a></li>
+<li><a href="#kfol">KFOL i TFOL</a></li>
+<li><a href="#klony">Klony (lepiny)</a></li>
+<li><a href="#kompletnosc">Kompletność</a></li>
+<li><a href="#lan">LAN (LEGO Ambassador Network)</a></li>
+<li><a href="#ldd">LDD (LEGO Digital Designer)</a></li>
+<li><a href="#lego-ideas">LEGO Ideas</a></li>
+<li><a href="#insiders">LEGO Insiders</a></li>
+<li><a href="#lug">LUG</a></li>
+<li><a href="#marketplace">Marketplace</a></li>
+<li><a href="#mikrofigurka">Mikrofigurka</a></li>
+<li><a href="#mikroskala">Mikroskala</a></li>
+<li><a href="#miks">Miks</a></li>
+<li><a href="#mini-doll">Mini-doll (figurka Friends)</a></li>
+<li><a href="#minifigurka">Minifigurka</a></li>
+<li><a href="#misb">MISB, MIB, NISB</a></li>
+<li><a href="#moc">MOC</a></li>
+<li><a href="#model-alternatywny">Model alternatywny (B-model)</a></li>
+<li><a href="#modulary">Modulary</a></li>
+<li><a href="#lu">Moduł LU (1,6 mm)</a></li>
+<li><a href="#najnizsza-cena-30-dni">Najniższa cena z 30 dni</a></li>
+<li><a href="#npu">NPU</a></li>
+<li><a href="#numer-zestawu">Numer zestawu</a></li>
+<li><a href="#ostatnie-sztuki">Ostatnie Sztuki (Retiring Soon)</a></li>
+<li><a href="#osiemnascie-plus">Oznaczenie 18+</a></li>
+<li><a href="#pick-a-brick">Pick a Brick</a></li>
+<li><a href="#technic-pin">Pin Technic</a></li>
+<li><a href="#plate">Plate (płytka)</a></li>
+<li><a href="#plytka-bazowa">Płytka bazowa (baseplate)</a></li>
+<li><a href="#podszywka">Podszywka</a></li>
+<li><a href="#podwojne-punkty">Podwójne punkty</a></li>
+<li><a href="#polybag">Polybag</a></li>
+<li><a href="#print-naklejka">Print kontra naklejka</a></li>
+<li><a href="#promocja-pozorna">Promocja pozorna</a></li>
+<li><a href="#prog-zakupu">Próg zakupu</a></li>
+<li><a href="#rlfm">RLFM</a></li>
+<li><a href="#rlug">RLUG</a></li>
+<li><a href="#rozdzielacz">Rozdzielacz (brick separator)</a></li>
+<li><a href="#scalper">Scalper</a></li>
+<li><a href="#seria">Seria (temat)</a></li>
+<li><a href="#snot">SNOT</a></li>
+<li><a href="#stud">Stud</a></li>
+<li><a href="#tile">Tile (płytka gładka)</a></li>
+<li><a href="#ucs">UCS</a></li>
+<li><a href="#zl-za-element">Złotówka za element (zł/el.)</a></li>
+</ul>
 
 ## Pięć haseł, które zmieniły znaczenie
 

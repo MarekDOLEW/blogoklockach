@@ -1267,14 +1267,29 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .prose .slownik dt:target { background: #fff6da; border-left-color: var(--zolty-ciemny); }
 .prose .slownik dd { margin: 5px 0 0 16px; color: var(--granat-60); }
 .prose .slownik dd em { color: var(--granat); font-style: italic; }
+/* Indeks A–Z: trzy kolumny zamiast jednego ciągu oddzielonego kropkami —
+   69 haseł w jednej linijce czyta się źle, w kolumnach wzrok skacze po
+   pierwszych literach. columns (a nie grid) celowo: hasła płyną w dół
+   kolumny, więc kolejność alfabetyczna zostaje czytelna. Na wąskim ekranie
+   schodzimy do dwóch, potem do jednej kolumny. */
 .prose .slownik-indeks {
+  columns: 3;
+  column-gap: 28px;
+  list-style: none;
+  margin: 14px 0 26px;
+  padding: 16px 18px;
   background: var(--karta);
   border: 1px solid var(--linia);
   border-radius: var(--radius);
-  padding: 14px 16px;
-  font-size: 0.92rem;
-  line-height: 2;
-  color: var(--granat-60);
+  font-size: 0.9rem;
+}
+.prose .slownik-indeks li {
+  break-inside: avoid;
+  margin: 0 0 6px;
+  padding: 0;
+  line-height: 1.45;
 }
 .prose .slownik-indeks a { color: var(--granat); text-decoration: none; border-bottom: 1px solid var(--linia); }
 .prose .slownik-indeks a:hover { border-bottom-color: var(--zolty-ciemny); }
+@media (max-width: 720px) { .prose .slownik-indeks { columns: 2; column-gap: 20px; } }
+@media (max-width: 420px) { .prose .slownik-indeks { columns: 1; } }
