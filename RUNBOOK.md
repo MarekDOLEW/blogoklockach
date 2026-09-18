@@ -1304,25 +1304,32 @@ Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfigura
 w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
 przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
 
-## Lidl przez Tradedoubler — nowy sklep to wpis w danych, nie w promptach *(od 17.09.2026)*
+## Lidl przez Tradedoubler — działa od 18.09.2026
 
 Lidl online ma w Tradedoublerze feed produktowy **„LEGO klocki", fid 259772**
-(tylko klocki LEGO; informacja od TD 17.09). Marek zgłosił się do programu 17.09;
-do akceptu TD odpowiada `PF_392 „Requester is not connected to Feed (259772)"`.
+(tylko klocki LEGO). Program „Lidl Sklep Online" (programId **298327**) dostał
+akcept 17.09, ale feed przez dobę odpowiadał `PF_392 „Requester is not connected
+to Feed (259772)"` — akcept programu i podpięcie feedu do witryny to w TD **dwie
+różne rzeczy**. Ruszyło 18.09 po zgłoszeniu Marka do TD; z perspektywy kodu nie
+było czego naprawiać, trzeba było tylko sprawdzać feed co kilka godzin.
 
-Co jest już przygotowane: `feedy.json` → wpis `lidl` (`fid`, `aktywny: false`),
-`sklepy.json` → `lidl: Lidl`, `afiliacje_rejestr.json` → `lidl` ze statusem
-`wyslane`. `scripts/ceneo-feed.mjs` od 17.09 obsługuje **wszystkie feedy TD
-z `feedy.json`** (bez argumentów: wszystkie aktywne; `--sklep lidl` jeden;
-`--sucho` bez zapisu) — krok 6 wtorkowego Routine nie wymaga zmiany. Sklep
-z własnym magazynem (Lidl) dostaje też ofertę w `sety.json` (deale); Ceneo
-nadal nie (porównywarka).
+Stan: `feedy.json` → `lidl.aktywny: true`, `sklepy.json` → `lidl: Lidl`,
+`afiliacje_rejestr.json` → status `aktywny`. Pierwszy import 18.09: **102 produkty
+w feedzie, 60 rozpoznanych numerów zestawów, 60 linków w `redirects.lidl`,
+55 ofert w `sety.json`.**
 
-Po akcepcie programu (Marek): `programId` do rejestru → `feedy.json`
-`lidl.aktywny: true` → `node scripts/ceneo-feed.mjs --sklep lidl --sucho`
-(sprawdzić liczbę zestawów i format `productUrl`) → bez `--sucho` → build →
-push. Linki idą z feedu (gotowy `pdt.tradedoubler.com`), worker bierze je
-z `redirects.lidl` — bez zmian w `src/worker.js`.
+`scripts/ceneo-feed.mjs` obsługuje **wszystkie feedy TD z `feedy.json`** (bez
+argumentów: wszystkie aktywne; `--sklep lidl` jeden; `--sucho` bez zapisu) —
+krok 6 wtorkowego Routine bierze Lidla automatycznie, bez zmiany w promptach.
+Sklep z własnym magazynem (Lidl) dostaje też ofertę w `sety.json` (deale);
+Ceneo nadal nie (porównywarka).
+
+Linki idą z feedu (gotowy `pdt.tradedoubler.com`), worker bierze je
+z `redirects.lidl` — **bez zmian w `src/worker.js`**. Konsekwencja: zestaw spoza
+feedu nie dostaje linku do Lidla w ogóle. Innych sklepów dotyczy to inaczej —
+tam w workerze stoi zapasowy deeplink na wyszukiwarkę. Dla Lidla takiego
+zapasu **nie zakładamy bez decyzji Marka**: link do wyszukiwarki lidl.pl bez
+parametrów TD wypuszczałby ruch bez prowizji.
 
 ## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
 

@@ -65,6 +65,45 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 05:30 · CODE · Lidl ruszył — 60 zestawów, 55 ofert, link sprawdzony
+
+Feed 259772 („LEGO klocki", program „Lidl Sklep Online" 298327) odpowiedział po
+raz pierwszy o **05:16 UTC**, przy szóstym sprawdzeniu od wczorajszego popołudnia.
+Wcześniej przez dobę zwracał `PF_392 „Requester is not connected to Feed"`, mimo
+że program był ACCEPTED już 17.09 o 12:10.
+
+**Wniosek na przyszłość: w Tradedoublerze akcept programu i podpięcie feedu do
+witryny to dwie różne rzeczy.** Nie ma tu czego naprawiać po naszej stronie —
+trzeba tylko sprawdzać feed co kilka godzin (albo poprosić TD, co Marek zrobił
+mailem 17.09 ok. 12:00 UTC; feed ruszył ~17 godzin później).
+
+Import (`node scripts/ceneo-feed.mjs --sklep lidl`):
+
+| | |
+|---|---|
+| produktów w feedzie | 102 |
+| rozpoznanych numerów zestawów | 60 |
+| linków w `redirects.lidl` | 0 → **60** |
+| ofert w `sety.json` | **55** |
+| sety w `oferty_feed.json` | 8 260 → 8 260 (bez zmian, tylko ceny) |
+
+- `feedy.json` → `lidl.aktywny: true`, więc **krok 6 wtorkowego Routine bierze
+  Lidla automatycznie** — bez zmiany promptu.
+- Sprawdzone na żywym zestawie: 76444 Magiczne sklepy na Ulicy Pokątnej, Lidl 649 zł
+  obok Allegro 629,99 i Media Expert 613,39. Link `/idz/lidl/76444` →
+  `pdt.tradedoubler.com/click?a(3494691)p(298327)…`, atrybuty
+  `target="_blank" rel="sponsored nofollow noopener"`.
+- Rejestr afiliacji: status `wyslane` → **`aktywny`**, format linków zweryfikowany.
+- Build 9 505 stron OK; liczby wpisów w danych nie zmalały (sprawdzone per sklep
+  w `redirects.json` i per plik).
+
+**Jedna rzecz do decyzji Marka:** zestaw spoza feedu Lidla nie dostaje linku do
+Lidla w ogóle. Dla innych sklepów worker ma zapasowy deeplink na wyszukiwarkę,
+dla Lidla go nie zakładam — link do `lidl.pl` bez parametrów TD wypuszczałby ruch
+bez prowizji, a zmiana w `src/worker.js` i tak wymaga pytania (CLAUDE.md).
+Jeśli TD potwierdzi, że deeplink na wyszukiwarkę Lidla liczy prowizję, dorobię go
+tak jak dla Empiku i Ceneo.
+
 ## 2026-09-18 01:30 · CODE · Słowniczek LEGO — 69 haseł, indeks A–Z, pięć haseł poprawionych względem wzoru
 
 Zadanie Marka z 17.09: „Ciekawym artykułem też może być słownik — ale lepiej

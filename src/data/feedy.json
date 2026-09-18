@@ -120,7 +120,7 @@
   "format": "json",
   "siec": "Tradedoubler (program „Lidl Sklep Online” 298327, ACCEPTED 17.09.2026; konto a=3494691)",
   "fid": 259772,
-  "aktywny": false,
+  "aktywny": true,
   "skrypt": "node scripts/ceneo-feed.mjs --sklep lidl — ten sam importer co Ceneo; po akcepcie programu ustawic aktywny: true, wtedy wtorkowy Routine (krok 6) bierze go automatycznie",
   "pola": {
    "nazwa": "products[].name",
@@ -129,8 +129,8 @@
    "zdjecie": "products[].productImage.url"
   },
   "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
-  "status": "program ACCEPTED (Publisher API 17.09.2026), ale feed 259772 nie jest podpiety do witryny: PF_392 z API i z linku panelu; czeka na TD",
-  "ostatnie_pobranie": null,
+  "status": "aktywny od 18.09.2026 — TD podpiął feed do witryny po zgłoszeniu Marka; 102 produkty w feedzie, 60 rozpoznanych numerów zestawów",
+  "ostatnie_pobranie": "2026-09-18",
   "uwagi": [
    "Feed „LEGO klocki” nr 259772 — tylko klocki LEGO (info od TD 17.09.2026).",
    "Lidl to sklep z wlasnym magazynem: oferty wchodza tez do sety.json (deale), inaczej niz Ceneo."
