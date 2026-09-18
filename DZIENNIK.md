@@ -65,6 +65,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 10:30 · MAREK → CODE · /llms.txt w wersji długiej — 1 163 zestawy z ceną
+
+Marek zapytał, czy mamy `llms.txt` (nie mieliśmy), a po propozycji krótkiej
+wersji postawił argument biznesowy i miał rację: „ludzie szukają w Google
+zestawu, to wchodzą na wynik, a nie na stronę główną czy artykuły" — więc długa.
+
+Zrobione: `src/pages/llms.txt.js`, generowane przy każdym buildzie, 220 kB.
+Nie jest to kopia sitemapy. Sitemapa mówi, JAKIE adresy istnieją; llms.txt mówi,
+CO na nich jest:
+
+`- [LEGO 76444 Magiczne sklepy na Ulicy Pokątnej](…/zestaw/76444/): od 613,39 zł
+w Media Expert, katalogowa 869,99 zł, −29%, oferty w 6 sklepach, 2750 elementów`
+
+**Zakres: 1 163 huby indeksowalne, nie wszystkie 9 364.** Ta sama reguła co
+w sitemapie (`hubIndeksowalny`) — hub bez opisu, z jedną ofertą i bez tekstu nie
+ma czego zaoferować ani czytelnikowi, ani modelowi. Lista rośnie sama.
+
+Do pliku weszła sekcja „Jak czytać nasze dane": cena katalogowa nie jest ceną
+rynkową, Ceneo pomijamy w cenach „od", sito ofert (14 dni, 28% RRP, podejrzany
+rynek), trzy rozłączne stany wycofania — i **żeby nie cytować adresów `/idz/`**,
+bo to przekierowania afiliacyjne; adresem do podania jest hub zestawu.
+
+**Czego NIE twierdzimy:** że to przyniesie ruch. Żaden dostawca modeli nie
+potwierdził, że czyta llms.txt — to konwencja, nie standard. Utrzymanie kosztuje
+zero, więc plik jest na wypadek, gdyby zaczęło się liczyć.
+
 ## 2026-09-18 09:45 · MAREK → CODE · Historia cen per sklep, nie tylko najniższa
 
 Marek po zobaczeniu pierwszych liczb: „przestaw na wersję per sklep". Zrobione

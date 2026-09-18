@@ -1335,6 +1335,33 @@ wypuszczałby ruch bez prowizji. Nie wracamy do tematu bez nowej decyzji —
 w szczególności nie dopisujemy Lidlowi pola `szukaj` w `sklepy.json`, bo to
 ta sama ścieżka tylnymi drzwiami (worker schodzi na `sklepy[sklep].szukaj`).
 
+## /llms.txt — indeks dla modeli, wersja długa *(od 18.09.2026)*
+
+`src/pages/llms.txt.js` generuje przy każdym buildzie plik `/llms.txt`
+w konwencji llms.txt (propozycja Answer.AI z 2024). Nie mylić z sitemapą:
+sitemapa mówi wyszukiwarce, JAKIE adresy istnieją; llms.txt mówi modelowi,
+CO na nich jest — nazwa zestawu, dzisiejsza najniższa cena, liczba sklepów,
+rabat wobec cennika i status wycofania.
+
+**Uczciwie o statusie: żaden dostawca modeli nie potwierdził, że to czyta.**
+To konwencja społecznościowa, nie standard jak `robots.txt`. Utrzymanie kosztuje
+zero (plik generuje się sam), więc trzymamy go na wypadek, gdyby zaczęło się
+liczyć — ale nie planujemy na nim ruchu i nie liczymy z niego EPC.
+
+**Decyzja Marka (18.09.2026): wersja długa, z listą zestawów.** Uzasadnienie
+biznesowe jest jego: czytelnik nie szuka „bloga o LEGO", tylko konkretnego
+numeru, i wchodzi wprost na hub — to huby zarabiają, nie strona główna.
+
+„Długa" znaczy **1 163 huby indeksowalne, nie wszystkie 9 364**. Reguła jest ta
+sama, którą stosuje sitemapa (`hubIndeksowalny` z `src/lib/seo.js`): hub bez
+opisu, z jedną ofertą i bez tekstu nie ma czego zaoferować ani czytelnikowi, ani
+modelowi. Lista rośnie sama, w miarę jak huby dostają treść. Rozmiar: 220 kB.
+
+Plik zawiera też sekcję „Jak czytać nasze dane" — tam mówimy modelowi wprost,
+że cena katalogowa nie jest ceną rynkową, że Ceneo pomijamy w cenach „od", jak
+działa sito ofert i **żeby nie cytował adresów `/idz/`** (to przekierowania
+afiliacyjne, zablokowane w robots.txt — adresem do podania jest hub).
+
 ## Lidl codziennie, choć jedzie importerem „wtorkowym" *(od 18.09.2026)*
 
 Marek: skoro mamy feed produktowy, Lidl ma się odświeżać codziennie, nie raz
