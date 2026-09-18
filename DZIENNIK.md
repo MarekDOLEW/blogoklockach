@@ -65,6 +65,41 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-18 01:30 · CODE · Słowniczek LEGO — 69 haseł, indeks A–Z, pięć haseł poprawionych względem wzoru
+
+Zadanie Marka z 17.09: „Ciekawym artykułem też może być słownik — ale lepiej
+zrobiony", wzór: `fanklockow.pl/slowniczek-lego/`. Tekst:
+`/artykuly/slowniczek-lego/` (Poradniki), karta researchu w
+`redakcja/karty/slowniczek-lego.md`.
+
+**Czym bijemy wzór** (zrzut konkurencji z 18.09, data modyfikacji strony: 27.06.2023):
+
+| Hasło u konkurencji | Stan faktyczny | Źródło |
+|---|---|---|
+| VIP jako program lojalnościowy | **LEGO Insiders** od 21.08.2023 | newsroom LEGO |
+| LDD „ściągniesz go stąd" + link | LDD wyłączony **31.01.2022**, następca BrickLink Studio | komunikat prasowy Grupy LEGO |
+| B&P i PaB jako dwie usługi | scalone w 2022; LEGO.pl ma dziś „Części zamienne" i hub „Klocki i elementy" | lego.com/pl-pl/service/replacementparts, sprawdzone 18.09 |
+| RLFM: „jednym z takich podmiotów jest BrickLink" | BrickLink należy do Grupy LEGO od XI 2019 | komunikat o przejęciu |
+| płytka bazowa 32×32 = „25,5 × 25,5 **mm**" | 32 × 8 mm = **25,6 cm** | rachunek z rozstawu studów |
+
+- **69 haseł w ośmiu działach tematycznych** + indeks A–Z z działającymi kotwicami
+  (`<dl class="slownik">`, każde `<dt>` ma id). Zamiast „patrz wyżej/niżej" — odnośniki.
+- **Dział o pieniądzach, którego wzór nie ma w ogóle**: cena katalogowa, zł/element,
+  najniższa cena z 30 dni (Omnibus, od 1.01.2023), promocja pozorna, próg zakupu,
+  drabina cenowa, podszywka (nasz próg 28% RRP), marketplace, scalper.
+- **Linkowanie wewnętrzne**: /wycofania/, /ekskluzywne/, /serie/, /prezentowniki/,
+  /zestaw/10350/, artykuł o Insiders i o wycofaniach grudniowych. 18 adresów, wszystkie
+  sprawdzone w `dist/`.
+- **Nie powtarzamy tezy „wycofanie = wzrost wartości"** — hasło EOL cytuje nasze dane
+  (206 zestawów, mediana −18%, powyżej cennika co czwarty). Hasło o modularach mówi
+  wprost, że opinii rynku nie potwierdzamy własnymi notowaniami (mamy je od VIII 2026).
+- Nie podajemy „3,18 mm" jako średnicy pręta — nie znaleźliśmy tego w dokumencie
+  producenta; piszemy „ok. 3,2 mm" i tłumaczymy, że to dwa moduły LU (1,6 mm).
+- CSS: blok `.slownik` / `.slownik-indeks` w `global.css` (podświetlenie `dt:target`).
+
+Build 9 505 stron OK; artykuł wchodzi na listing /artykuly/, stronę główną, RSS
+i sitemapę. Okładka: 10350.
+
 ## 2026-09-17 17:40 · CODE · Poradnik wrześniowy przepisany: procent nie mierzy okazji (uwaga Marka)
 
 Marek po pierwszej wersji: „Nie zawsze procent jest największą okazją. Są zestawy
