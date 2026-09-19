@@ -23,6 +23,15 @@
 // ZAPISUJEMY TYLKO ZMIANY. Cena, która stoi, nie generuje linii — plik rośnie
 // w tempie realnych ruchów rynku, nie 12 000 linii dziennie.
 //
+// DATA WPISU TO DATA ODCZYTU CENY, NIE DZIEŃ URUCHOMIENIA SKRYPTU. Zmierzone
+// 19.09.2026 na pierwszym pełnym przebiegu: Łowca uruchamia `feedy-lego.py`
+// (a ten nas) NA POCZĄTKU swojej pracy, a ceny zapisuje dopiero na końcu —
+// więc widzimy stan sprzed jego zapisu i dowiadujemy się o zmianie dzień
+// później. Gdyby wpis był stemplowany dniem uruchomienia, cała historia byłaby
+// przesunięta o dobę. Bierzemy więc `daty[sklep]` z feedu albo `data` oferty;
+// dniem uruchomienia stemplujemy wyłącznie zniknięcia, bo tylko wtedy data
+// naszego spostrzeżenia jest jedyną, jaką mamy.
+//
 // Ceneo pomijamy: to porównywarka, a jej cena jest echem innych sklepów.
 //
 // Użycie:
@@ -52,14 +61,15 @@ const stan = existsSync(PLIK_STANU) ? JSON.parse(readFileSync(PLIK_STANU, 'utf8'
 
 // Dzisiejsze ceny: feed i sety.json razem, najniższa gdy sklep występuje w obu.
 const dzisiaj = new Map();
-const zglos = (nr, sklep, cena) => {
+const zglos = (nr, sklep, cena, data) => {
   if (!sklep || sklep === 'ceneo' || !(cena > 0)) return;
   const klucz = `${nr}|${sklep}`;
   const stara = dzisiaj.get(klucz);
-  if (stara === undefined || cena < stara) dzisiaj.set(klucz, Number(cena));
+  if (stara === undefined || cena < stara.c) dzisiaj.set(klucz, { c: Number(cena), d: data || dzis });
 };
-for (const [nr, w] of Object.entries(feed)) for (const [sklep, cena] of Object.entries(w.oferty ?? {})) zglos(nr, sklep, cena);
-for (const [nr, z] of Object.entries(sety)) for (const o of z.oferty ?? []) zglos(nr, o.sklep, o.cena);
+for (const [nr, w] of Object.entries(feed))
+  for (const [sklep, cena] of Object.entries(w.oferty ?? {})) zglos(nr, sklep, cena, (w.daty ?? {})[sklep] ?? w.data);
+for (const [nr, z] of Object.entries(sety)) for (const o of z.oferty ?? []) zglos(nr, o.sklep, o.cena, o.data);
 
 // Ile ofert ma dziś każdy sklep — potrzebne do bezpiecznika niżej.
 const dzisPerSklep = new Map();
@@ -87,13 +97,13 @@ for (const [sklep, bylo] of wczorajPerSklep) {
 
 const linie = [];
 let bezZmian = 0;
-for (const [klucz, cena] of [...dzisiaj].sort((a, b) => a[0].localeCompare(b[0]))) {
+for (const [klucz, { c: cena, d: data }] of [...dzisiaj].sort((a, b) => a[0].localeCompare(b[0]))) {
   const p = stan[klucz];
-  if (p && p.d === dzis) { bezZmian++; continue; }            // już zapisane dziś
-  if (p && p.c !== null && Math.abs(p.c - cena) < 0.005) { bezZmian++; continue; } // bez ruchu
+  if (p && p.c !== null && Math.abs(p.c - cena) < 0.005) { bezZmian++; continue; } // cena bez ruchu
+  if (p && p.d === data) { bezZmian++; continue; }             // ten sam odczyt już zapisany
   const [nr, sklep] = [klucz.slice(0, klucz.indexOf('|')), klucz.slice(klucz.indexOf('|') + 1)];
-  linie.push(JSON.stringify({ d: dzis, nr, s: sklep, c: cena }));
-  stan[klucz] = { d: dzis, c: cena };
+  linie.push(JSON.stringify({ d: data, nr, s: sklep, c: cena }));
+  stan[klucz] = { d: data, c: cena };
 }
 
 let zniknieto = 0;

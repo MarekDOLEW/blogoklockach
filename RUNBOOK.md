@@ -1445,6 +1445,13 @@ nie odtworzymy za pół roku. Wersja per sklep odpowiada na pytania, których ta
 pierwsza nie umiała: „ile to kosztowało w Empiku w listopadzie", „który sklep jest
 najczęściej najtańszy w tej serii".
 
+**Data wpisu to data ODCZYTU ceny, nie dzień uruchomienia skryptu** (poprawione
+19.09.2026). Łowca uruchamia `feedy-lego.py` na początku swojej pracy, a ceny
+zapisuje na końcu — skrypt widzi więc stan sprzed jego zapisu i dowiaduje się
+o zmianie dobę później. Gdyby wpis nosił dzień uruchomienia, cała historia byłaby
+przesunięta o dobę. Bierzemy `daty[sklep]` z feedu albo `data` oferty; dniem
+uruchomienia stemplujemy wyłącznie zniknięcia.
+
 **Zniknięcie oferty zapisujemy jako `c: null`** — to informacja („wtedy zestaw
 wypadł z Empiku"), nie brak danych. Bezpiecznik: sklep, który z dnia na dzień
 stracił ponad połowę ofert, jest traktowany jako **awaria pobrania** i jego

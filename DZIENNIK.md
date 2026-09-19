@@ -65,6 +65,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-19 07:30 · CODE · Pierwszy pełny przebieg: Lidl OK, llms.txt OK, historia cen miała datę o dobę za późno
+
+**Lidl — działa.** 60 zestawów z dzisiejszą `daty.lidl` w feedzie, 55 ofert
+w `sety.json`, 60 linków, żadna gałąź `redirects` nie zmalała. Krok nadpisywania
+adresów też poszedł: **1 371 adresów zaktualizowanych**, Allegro +318 nowych
+linków, Media Expert +11.
+
+**`/llms.txt` na produkcji — 200, `text/plain`, 225 790 bajtów, 1 179 pozycji,
+„Stan pliku: 2026-09-19".** Cena w pliku zgadza się z danymi (76444: 550,00 zł
+z Allegro w obu miejscach), więc plik generuje się z danych, a nie zamarł.
+
+**Błąd, który wyszedł dopiero na pełnym przebiegu: historia cen dołożyła 4 linie
+zamiast tysiąca.** Powód: Łowca uruchamia `feedy-lego.py` (a ten nas) NA POCZĄTKU
+swojej pracy, a ceny zapisuje na KOŃCU. Widzieliśmy więc stan sprzed jego zapisu —
+zmiany łapaliśmy dobę później, a stempel „dziś" przypisywał je do złego dnia.
+Złapały się tylko oferty Lidla, bo te importuje `ceneo-feed.mjs` chwilę wcześniej.
+
+Naprawione u źródła zamiast przestawiania kolejności: **wpis nosi teraz datę
+ODCZYTU ceny** (`daty[sklep]` z feedu albo `data` oferty), a nie dzień
+uruchomienia skryptu. Dniem uruchomienia stemplujemy wyłącznie zniknięcia — tam
+data naszego spostrzeżenia jest jedyną, jaką mamy. Dzięki temu nie ma znaczenia,
+w którym momencie przebiegu skrypt się odpali.
+
+Po poprawce 19.09 dołożył **976 linii: 949 zmian ceny i 27 zniknięć ofert**,
++54 kB. Rozkład: allegro 808, mediaexpert 163, lidl 4, planetaklockow 1 —
+zgodnie z oczekiwaniem ruszają się tylko sklepy odświeżane codziennie; Empik,
+Smyk, Ceneo i LEGO.com dołożą swoje po wtorkowym przebiegu.
+
+→ Tempo roczne przy tym rytmie to ok. 350 tys. linii i ~20 MB. Do przeglądu
+w grudniu, gdy będziemy robić wykresy — wtedy warto zamykać rok osobnym plikiem.
+
 ## 2026-09-18 11:30 · MAREK → CODE · noindex zostaje, zestawy bez cen zostają, nowe narzędzie do ofert
 
 Trzy ustalenia z rozmowy o liczbie podstron.
