@@ -1362,6 +1362,37 @@ Plik zawiera też sekcję „Jak czytać nasze dane" — tam mówimy modelowi wp
 działa sito ofert i **żeby nie cytował adresów `/idz/`** (to przekierowania
 afiliacyjne, zablokowane w robots.txt — adresem do podania jest hub).
 
+## Dostępność, nie tylko cena — co który sklep nam mówi *(od 20.09.2026)*
+
+Marek 20.09: „sokoła nie ma w Smyku". Sprawdzone — miał rację: karta 75192 na
+smyk.com odpowiada 200, ale w środku ma `schema.org/OutOfStock`, a u nas stała
+cena 2799 zł z 16.09, w dodatku najniższa w tabeli tego zestawu.
+
+**Mechanizm działa, zawodzi rytm.** `smyk-odswiez.mjs` czyta `InStock`/`OutOfStock`
+i wyprzedanemu zestawowi odbiera cenę — ale Smyka odświeża wtorkowy Routine, więc
+między przebiegami mamy do siedmiu dni na pokazanie ceny nie do zrealizowania.
+
+Stan źródeł dostępności:
+
+| Sklep | Skąd wiemy | Jak często |
+|---|---|---|
+| Media Expert | pole `availability` w feedzie (`feedy-lego.py`) | codziennie |
+| Allegro | oferta znika z feedu | codziennie |
+| Planeta Klocków | kategoria „wycofane z oferty" + cena 9999 zł | codziennie |
+| Smyk | `OutOfStock` na karcie produktu | **tygodniowo** |
+| Lidl, Ceneo | pole `availability` w feedzie TD | tygodniowo (Lidl codziennie) |
+| Empik | **zrzut nie niesie dostępności** | tygodniowo |
+| LEGO.com | status z listingu | tygodniowo |
+
+**Poprawka 20.09: `ceneo-feed.mjs` czyta `availability`.** Wcześniej ignorował to
+pole, choć feed Tradedoublera je podaje — produkt oznaczony inaczej niż „in stock"
+wchodziłby do danych z ceną, której sklep nie realizuje. Teraz taki produkt jest
+pomijany, a skrypt pisze, ilu pominął. W dniu wprowadzenia wszystkie 100 pozycji
+feedu Lidla było „in stock", więc nic nie ubyło — luka była zapobiegawcza.
+
+**Czego nie da się załatać:** Empik nie podaje dostępności w zrzucie. Tam jedynym
+zabezpieczeniem zostaje sito 14 dni.
+
 ## Lidl codziennie, choć jedzie importerem „wtorkowym" *(od 18.09.2026)*
 
 Marek: skoro mamy feed produktowy, Lidl ma się odświeżać codziennie, nie raz

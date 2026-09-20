@@ -86,16 +86,23 @@ for (const [sklep, cfg] of doPobrania) {
   const produkty = dane.products ?? [];
   console.log(`  pobrano ${produkty.length} produktów`);
   const zebrane = new Map(); // nr -> { cena, link }
+  let niedostepne = 0;
   for (const p of produkty) {
     const nr = NUMER.exec(p.name ?? '')?.[1];
     const oferta = p.offers?.[0];
     const cena = Number(oferta?.priceHistory?.at(-1)?.price?.value);
     const link = oferta?.productUrl;
+    // Dostępność (dopisane 20.09.2026 po uwadze Marka: „sokoła nie ma w Smyku").
+    // Feed Tradedoublera niesie pole `availability`; bez tego warunku wpisywaliśmy
+    // cenę produktu, którego sklep nie ma na stanie — czyli dokładnie ten błąd,
+    // tylko w innym sklepie. Pole bywa puste i wtedy ufamy obecności w feedzie.
     if (!nr || !link || !(cena > 0)) continue;
+    const dostepnosc = String(oferta?.availability ?? '').toLowerCase();
+    if (dostepnosc && !dostepnosc.includes('in stock') && !dostepnosc.includes('in_stock')) { niedostepne++; continue; }
     const stara = zebrane.get(nr);
     if (!stara || cena < stara.cena) zebrane.set(nr, { cena, link });
   }
-  console.log(`  rozpoznano ${zebrane.size} numerów zestawów`);
+  console.log(`  rozpoznano ${zebrane.size} numerów zestawów${niedostepne ? `, pominięto ${niedostepne} niedostępnych` : ''}`);
   if (!zebrane.size) { console.error('  0 zestawów — nic nie zapisuję dla tego sklepu'); bladow++; continue; }
 
   const przedR = Object.keys(redirects[sklep] ?? {}).length;
