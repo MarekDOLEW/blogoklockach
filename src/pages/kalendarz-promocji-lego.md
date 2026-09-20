@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-18"
+zaktualizowano: "2026-09-20"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -22,7 +22,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 
 <ul class="okna">
 <li><span class="okna__data">do 19.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#batman-day"><b>Batman Day</b> – podwójne punkty na serię Batman i gratis 30726 od 165 zł, tylko na LEGO.com</a></li>
-<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo, przy zakupach od ok. 375 zł</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo, przy zakupach od ok. 430 zł</a></li>
 <li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
@@ -110,9 +110,15 @@ Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu 
 
 <h2 id="halloween">Wrzesień: dwa gratisy halloweenowe, 21–30.09 <span class="status status--maybe">przewidywane</span></h2>
 
-**Gratis halloweenowy: 40900 Straszne nawiedzone drzewo, 21–30 września**, przy zakupach od około **375 zł**. Próg podajemy za serwisem branżowym, który sam oznacza go jako niepotwierdzony – traktuj go jako orientacyjny i sprawdź w koszyku przed finalizacją zamówienia. Wcześniej spodziewaliśmy się tego gratisu dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
+**Gratis halloweenowy: 40900 Straszne nawiedzone drzewo (218 elementów), 21–30 września**, przy zakupach od około **430 zł**. Próg podnieśliśmy 20 września: serwis branżowy, z którego go bierzemy, sam podawał wcześniej około 375 zł i skorygował tę liczbę w swoim poradniku – dalej oznacza ją jako niepotwierdzoną. Traktuj 430 zł jako orientacyjne i sprawdź w koszyku przed zapłatą. Ten gratis obejmuje **zarówno sklep internetowy, jak i salony stacjonarne**. Wcześniej spodziewaliśmy się go dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
 
-**W tym samym oknie 21–30 września krążą kody partnerskie na drugi gratis** – zestaw 40772 Świecący duszek, przy progu 500 zł z dowolnej serii. Kodów nie rozdajemy i nie musisz ich szukać: ważniejsze jest to, co z nich wynika. Gratis odebrany z kodu najprawdopodobniej zajmuje **jeden z trzech slotów nagrody Insiders**, więc nie zakładaj, że oba upominki wpadną do jednego koszyka. Jeśli masz wybrać jeden, licz progi: 375 zł do drzewa jest niżej niż 500 zł do duszka. Oba warunki pochodzą z serwisu branżowego i oba są tam oznaczone jako niepotwierdzone – sprawdź koszyk przed zapłatą.
+**W tym samym oknie krążą kody partnerskie na drugi gratis** – 40772 Świecący duszek (167 elementów), przy progu **równo 500 zł** z dowolnej serii, i **wyłącznie w sklepie internetowym**. Kodów nie rozdajemy i nie musisz ich szukać: ważniejsze jest to, co z nich wynika.
+
+**Czy oba gratisy wpadną do jednego koszyka – tego nie wiadomo.** Ten sam serwis branżowy najpierw pisał, że upominek z kodu najprawdopodobniej zajmuje jeden z trzech slotów nagrody Insiders, a w poradniku z 19 września liczy już korzyść tak, jakby oba gratisy wpadały razem przy 500 zł. Te dwie rzeczy się wykluczają i żadnej z nich nie potwierdziło LEGO. Zakładaj więc jeden gratis, a drugi potraktuj jako premię – i sprawdź koszyk przed zapłatą.
+
+Jeśli masz wybrać jeden, licz progi: **430 zł do drzewa jest niżej niż 500 zł do duszka**, a drzewo dostaniesz też w salonie.
+
+**Czym dobić do progu, żeby nie dokładać drobnicy.** Na LEGO.com nie ma teraz sensownych przecen, więc próg 430 czy 500 zł najrozsądniej zapełnić czymś, co i tak zniknie: zestawami z [potwierdzonej listy wycofań na koniec roku](/artykuly/wycofania-lego-grudzien-2026/). Uwaga, która wynika z naszych własnych danych, a nie z kalendarza promocji: **co czwarty wycofywany zestaw jest już dziś droższy od ceny katalogowej**, więc przed dorzuceniem czegokolwiek do koszyka sprawdź tabelę cen na podstronie zestawu. Gratis nie ratuje zakupu zrobionego powyżej cennika.
 
 Obu terminów LEGO nie ogłosiło publicznie – dlatego całe to okno zostaje przewidywane.
 
