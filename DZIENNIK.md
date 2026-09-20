@@ -65,6 +65,45 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-20 17:45 · CODE · Ranking najdroższych zestawów (Piotr) + ustalenie: „styczeń 2027" nie istnieje jako termin wycofań
+
+**Artykuł Piotra opublikowany:** `/artykuly/najdrozsze-zestawy-lego/` (Rankingi),
+karta w `redakcja/karty/najdrozsze-zestawy-lego.md`. Pierwszy z pięciu plików,
+które Marek wrzucił 20.09.
+
+Weryfikacja: **19 z 19 cen katalogowych Piotra zgadza się co do grosza** z naszymi
+danymi — najczystszy materiał, jaki od niego dostaliśmy. Poziomy rynkowe też się
+bronią; nasze dzisiejsze minima mieszczą się w jego widełkach albo tuż pod nimi.
+
+Dwie rzeczy dołożyliśmy od siebie:
+
+1. **76417 Bank Gringotta kosztuje dziś ok. 3250 zł przy cenniku 1849,99 zł** —
+   +76%, **jedyny zestaw w zestawieniu droższy od katalogu**. Piotr zostawił go
+   bez poziomu rynkowego. To najmocniejszy argument tekstu: ranking liczony
+   cennikiem stawia go na 19. miejscu z 19, a liczony realną ceną — w pierwszej trójce.
+2. **75419 Gwiazda Śmierci** — Piotr podał poziom „3620–3970 zł", a my mamy
+   jedną ofertę: LEGO.com w cenie katalogowej. Nie przepisaliśmy jego widełek;
+   w tekście stoi to, co widzimy, plus zdanie „nie znaczy to, że rabatów nie ma —
+   znaczy, że my ich dziś nie widzimy".
+
+Wszystkie kwoty bieżące idą przez znaczniki `<div class="ceny-setu">` (9 tabel,
+33 wiersze cen) — tekst nie zestarzeje się w listopadzie.
+
+**Ustalenie przy okazji polecenia Marka o „wycofaniach ze stycznia 2027":
+taki termin nie istnieje.** Sprawdzone u źródła (Brick Fanatics, pełna lista
+wycofań): Grupa LEGO wycofuje zestawy w dwóch terminach rocznie — **31 lipca
+i 31 grudnia**. Rozkład nagłówków na liście: 31.07.2026 (29 grup), 31.12.2026 (28),
+31.07.2027 (25), 31.12.2027 (25), dalej 2028–2029. Żadnego stycznia.
+
+Nasz `wycofania.json` ma **zero pozycji z 2027** (wartości pola `kiedy`:
+„grudzień 2026" 209, „wycofany" 93, „2026" 11, „odwołane" 1) — czyli za grudniem
+2026 jesteśmy ślepi, choć branża publikuje już 50 grup terminów na 2027.
+To jest zadanie dla Scouta, nie dla tekstu.
+
+→ Do decyzji Marka: „co znika 31 grudnia 2026" mamy opisane w tekście z 17.09;
+sensowny nowy temat to „co LEGO wycofuje w 2027", ale wymaga najpierw importu
+terminów 2027 do `wycofania.json`.
+
 ## 2026-09-19 07:30 · CODE · Pierwszy pełny przebieg: Lidl OK, llms.txt OK, historia cen miała datę o dobę za późno
 
 **Lidl — działa.** 60 zestawów z dzisiejszą `daty.lidl` w feedzie, 55 ofert
