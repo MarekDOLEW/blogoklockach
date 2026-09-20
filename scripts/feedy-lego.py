@@ -242,6 +242,38 @@ def odswiez_redirects(wynik):
     return nowe, zmiany
 
 
+# Zadania, które nie chodzą codziennie, a i tak odpala je ten skrypt.
+# Klucz: nazwa, wartość: dni tygodnia wg date.weekday() (0 = poniedziałek).
+#
+# Smyk: wtorek i piątek (decyzja Marka 20.09.2026). Wtorkowy przebieg robi
+# Routine „Dane wt 05:30" — my dokładamy piątek, żeby dostępność nie była
+# siedmiodniowa. Powód decyzji: 75192 Sokół Millennium stał u nas z ceną Smyka
+# 2799 zł przez pięć dni po tym, jak sklep go wyprzedał, i była to najniższa
+# cena w tabeli tego zestawu. Odczyt trwa ok. 4–8 minut (704 karty po sześć naraz).
+ZADANIA_TYGODNIOWE = {'smyk': {4}}
+
+
+def zadania_na_dzis():
+    dzis = date.today().weekday()
+    return [k for k, dni in ZADANIA_TYGODNIOWE.items() if dzis in dni]
+
+
+def odswiez_smyka():
+    """Ceny i dostępność Smyka: `smyk-odswiez.mjs` + domknięcie błędów sieci."""
+    wynik = subprocess.run(['node', 'scripts/smyk-odswiez.mjs'], cwd=KATALOG,
+                           capture_output=True, text=True, timeout=1800)
+    linie = [l.strip() for l in ((wynik.stdout or '') + (wynik.stderr or '')).splitlines() if l.strip()]
+    podsumowanie = linie[-1] if linie else 'brak wyjścia'
+    if wynik.returncode == 0:
+        # --stare domyka zestawy, których nie udało się odczytać za pierwszym razem
+        domkniecie = subprocess.run(['node', 'scripts/smyk-odswiez.mjs', '--stare'], cwd=KATALOG,
+                                    capture_output=True, text=True, timeout=900)
+        linie2 = [l.strip() for l in ((domkniecie.stdout or '') + (domkniecie.stderr or '')).splitlines() if l.strip()]
+        if linie2:
+            podsumowanie += ' | --stare: ' + linie2[-1]
+    return wynik.returncode == 0, podsumowanie
+
+
 def feedy_td_codzienne():
     """Feedy Tradedoublera oznaczone w feedy.json jako codzienne.
 
@@ -315,6 +347,20 @@ if __name__ == '__main__':
             if not ok:
                 wynik['_meta']['bledy'][f'td:{sklep}'] = podsumowanie
             print(f'td:{sklep}: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
+
+    # Zadania tygodniowe (dziś: Smyk we wtorki i piątki) — przed historią cen,
+    # żeby jej wpisy widziały już świeże ceny i zniknięcia ofert Smyka.
+    for zadanie in zadania_na_dzis():
+        if zadanie != 'smyk' or args.tylko_td:
+            continue
+        try:
+            ok, podsumowanie = odswiez_smyka()
+        except Exception as blad:
+            ok, podsumowanie = False, str(blad)
+        wynik['_meta'].setdefault('tygodniowe', {})['smyk'] = podsumowanie
+        if not ok:
+            wynik['_meta']['bledy']['smyk'] = podsumowanie
+        print(f'smyk: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
 
     # Historia cen — jedna linia na zestaw tylko wtedy, gdy cena się ruszyła.
     # Tu, bo Łowca uruchamia ten skrypt codziennie po imporcie feedów, a seria

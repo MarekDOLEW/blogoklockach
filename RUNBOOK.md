@@ -1379,7 +1379,7 @@ Stan źródeł dostępności:
 | Media Expert | pole `availability` w feedzie (`feedy-lego.py`) | codziennie |
 | Allegro | oferta znika z feedu | codziennie |
 | Planeta Klocków | kategoria „wycofane z oferty" + cena 9999 zł | codziennie |
-| Smyk | `OutOfStock` na karcie produktu | **tygodniowo** |
+| Smyk | `OutOfStock` na karcie produktu | **wtorek i piątek** |
 | Lidl, Ceneo | pole `availability` w feedzie TD | tygodniowo (Lidl codziennie) |
 | Empik | **zrzut nie niesie dostępności** | tygodniowo |
 | LEGO.com | status z listingu | tygodniowo |
@@ -1389,6 +1389,14 @@ pole, choć feed Tradedoublera je podaje — produkt oznaczony inaczej niż „i
 wchodziłby do danych z ceną, której sklep nie realizuje. Teraz taki produkt jest
 pomijany, a skrypt pisze, ilu pominął. W dniu wprowadzenia wszystkie 100 pozycji
 feedu Lidla było „in stock", więc nic nie ubyło — luka była zapobiegawcza.
+
+**Poprawka 20.09, druga: Smyk dwa razy w tygodniu** (decyzja Marka). Wtorek robi
+Routine „Dane wt 05:30" jak dotąd, piątek dokłada `feedy-lego.py` — ten sam
+mechanizm co przy Lidlu, czyli bez nowego runnera i bez ruszania promptów.
+Mapa `ZADANIA_TYGODNIOWE` w skrypcie trzyma dni tygodnia (`{'smyk': {4}}`,
+0 = poniedziałek); dołożenie kolejnego sklepu albo dnia to jedna liczba.
+Po odczycie skrypt uruchamia jeszcze `--stare`, żeby domknąć zestawy, których
+nie udało się pobrać za pierwszym razem. Przebieg trwa 4–8 minut.
 
 **Czego nie da się załatać:** Empik nie podaje dostępności w zrzucie. Tam jedynym
 zabezpieczeniem zostaje sito 14 dni.
