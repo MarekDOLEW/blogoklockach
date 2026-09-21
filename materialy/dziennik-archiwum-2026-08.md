@@ -1102,3 +1102,261 @@ w `redakcja/plan-redakcyjny.json`, a Marek dostaje go osobnym prywatnym
 linkiem, nie jako podstronę serwisu.
 
 ---
+
+## 2026-08-31 15:30 · CODE · Zrzut harmonogramu odtworzony + korekty w RUNBOOK
+
+**Zrobione:**
+- **`materialy/zadania-cykliczne.md` przepisany na zrzut** ze świeżego odczytu
+  `list_triggers` + `list_sessions` (31.08, 15:25). Wymagane przez `NARZEDZIA.md`
+  kolumny są: cron, **enabled**, ostatnie odpalenie. Odczyt objął 11 Routines
+  na koncie — pełna lista, bez paginacji.
+- Dołożona druga tabela: Routines spoza projektu (Angielski, Herzfaden,
+  inwestycja). Nie dotyczą serwisu, ale **dzielą ten sam limit konta**, a to on
+  wywrócił harmonogram 21.08. Widać z niej, że poniedziałek 07:00-09:30 to pięć
+  zadań naraz — pierwsze miejsce do rozsunięcia przy kolejnym uderzeniu w limit.
+- **`RUNBOOK.md`**: pięć wystąpień „Łowca 07:00" w mapie plików → 08:30;
+  „Backfill 12:00" → wyłączony od 29.08; usługa GSC poprawiona na domenową.
+- **`RUNBOOK.md`, sekcja Media Expert**: przepisana. Mówiła, że przebieg o 07:00
+  łapie wczorajszy feed — to już nieprawda, bo po to Łowca poszedł na 08:30.
+  Dopisane dwie pułapki: zmiana czasu 25.10 cofnie przebieg na 07:30 i problem
+  wróci, oraz że nazwa Routine musi iść za cronem.
+- **`RUNBOOK.md`, nowa sekcja „Sitemapy i Search Console"**: dwie sitemapy i po
+  co obie, pułapka usługi domenowej w GSC, oraz że karta w `karty_setow.json`
+  nie gwarantuje podstrony.
+
+**Stan:** gotowe
+
+**Dla drugiej strony:** nic — runnery i infrastruktura należą do Claude Code.
+
+**Uwagi:**
+- **Kontroler działa.** Przebieg 31.08 09:11, status `SUCCEEDED`. To zamyka wątek
+  z 30.08, gdy ostatni odczyt pochodził z 17.08 i wyglądało to na cichą awarię.
+- **Korekta mojej wczorajszej notatki:** `last_fired_at` zwracają WSZYSTKIE
+  triggery, także te przypięte do trwałej sesji. Pełny `last_run` ze statusem
+  tylko te tworzące świeżą sesję. Wczoraj napisałem, że runnery nie zwracają nic
+  i zastępowałem to `updated_at` sesji — niepotrzebnie, dane są dokładniejsze.
+- **Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) zniknął z konta**
+  między 30 a 31.08. Był wyłączony od 15.08, więc nic nie przestało działać.
+  Nie odtwarzać — drugi przebieg Radara wycofano świadomie 21.08.
+- **Zostaje otwarte: 32 karty bez podstrony.** `karty_setow.json` ma 445 wpisów,
+  `/zestaw/<nr>/` powstaje dla 413. Brakujące nie są w `katalog.json`, więc
+  `huby.js` ich nie generuje mimo cen i linków. Teksty leżą w repo niewidoczne.
+  Naprawa opisana w RUNBOOK, sekcja „Sitemapy i Search Console".
+
+## 2026-08-31 08:10 · CODE · Typografia: pauza → półpauza w całym serwisie; H2 kart bez „— opis"
+
+**Zrobione (decyzja Marka):**
+- Nagłówek karty zestawu to teraz samo „LEGO <nr> <nazwa>" — sufiks „— opis"
+  usunięty z `[nr].astro`.
+- Wszystkie pauzy (—) zamienione na półpauzy (–) w treściach serwisu:
+  dane zasilające strony (karty_setow, katalog, sety, wycofania, opisy,
+  kategorie_artykulow, galerie), wszystkie strony/komponenty/lib/layouty
+  i pluginy remark (tabele cen w artykułach). Zbudowany dist: **zero pauz**
+  na 4980 stronach.
+- `import-karty.py` dostał `typografia()` — przyszłe DOCX-y Piotra (pisane
+  pauzą) normalizują się przy imporcie same.
+- NIE ruszone: pliki wewnętrzne (rrp_potwierdzone, rejestr afiliacji, stany
+  runnerów, ceny_baza) i dokumenty w `redakcja/` (materiały Piotra verbatim).
+
+**Stan:** gotowe, opublikowane na main.
+
+**Dla drugiej strony:** runnery piszące teksty do plików zasilających stronę
+(Scout — opisy w sety.json) powinny od teraz używać półpauzy.
+
+## 2026-08-31 07:25 · CODE · Szósta (ostatnia) partia kart P07: brakujące 57 + Archive + Nike + Super Mario
+
+**Zrobione:**
+- `karty_setow.json`: **70 nowych kart** z 4 zipów (w tym „brakujące 57"
+  domykające luki w ~30 seriach: polybagi 30xxx, GWP-y 40xxx, Architecture
+  21065–67, minifigurki, Zelda, Wednesday, Animal Crossing, KPop, Nike,
+  Super Mario). Rejestr: 375 → **445**; na żywo 413 stron. Duplikaty
+  międzyseryjne znów pominięte (40920 Looney=Seasonal, 40923 Shrek=BrickHeadz).
+- `katalog.json`: nowe serie **The Legend of Zelda, Shrek, Looney Tunes,
+  Nike x LEGO** + sety dołożone do AC/Bluey/Sonic/Minifigurek; elementy
+  z Bricksetu, RRP Piotra po kalibracji mnożnikiem. 71052: elementy 7→8.
+- Bramka RRP zablokowała 7 polybagów (my 16,99/29,99 vs Piotr 16,49) —
+  rejestr lego.pl rozstrzygnął NA KORZYŚĆ PIOTRA: saszetki 2026 kosztują
+  16,49 (71051–71053 potwierdzone), a 30734 ma €3.99. Poprawione 7 wpisów
+  katalogu; stara wiedza „polybag = 16,99" (m.in. komentarz w odsiew.js)
+  dotyczy poprzednich roczników.
+- `scripts/import-karty.py`: nowe warianty placeholderów partii („sprawdź
+  aktualne informacje/oferty/dostępność", „zobacz analizę ceny"), RRP też
+  z pola „Cena / sposób uzyskania" (wariant szablonu dla polybagów/GWP),
+  fallback linku kategorii na `/serie/` dla serii bez strony (GWP „Inne",
+  LEGO House, LEGOLAND), filtr plików macOS `._*`, aliasy Creator 3 w 1
+  i Nike x LEGO Collection.
+- `[nr].astro`: kotwica `#ceny` istnieje też przy braku tabeli cen
+  (fallbackowy komunikat) — linki z kart GWP nie prowadzą w nic.
+
+**Stan:** gotowe, wypchnięte. Build 4978 stron zielony; kontrola-rrp: zero
+rozbieżności; zero nierozwiązanych placeholderów w dist.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** GWP-y i sety LEGO House/LEGOLAND (17 kart „Inne") świadomie BEZ
+wpisu w katalogu (RUNBOOK: gratisy odsiewamy) — karty czekają w danych na
+ewentualne huby. Nierozstrzygnięte 1:1 (Piotr vs Brickset, bez trzeciego
+głosu): dystrybucja 77093 (P: ekskluzyw, BS: Retail) i 40824 (odwrotnie) —
+zostały wartości Piotra.
+
+## 2026-08-31 07:20 · CODE · Piąta paczka kart P07: Sonic, One Piece, Gabi, Fortnite, DREAMZzz
+
+**Zrobione:**
+- `karty_setow.json`: **24 nowe karty** (Sonic 5, One Piece 7, Koci Domek
+  Gabi 3, Fortnite 4, DREAMZzz 5 — rozkład zliczony z rejestru).
+  Rejestr: 351 → 375; na żywo 358 stron.
+- `katalog.json`: **nowa seria DREAMZzz** (5 setów) + dołożone 77117/77118
+  (Sonic) i 11215 (Gabi) — elementy z Bricksetu, RRP Piotra po kontroli
+  mnożnikiem drabiny (wszystkie 4,20–4,29 od EUR, zgodne). Dzięki temu
+  powstało 8 nowych hubów i `/serie/dreamzzz/` — build 4959 → 4968 stron.
+- 75646 (One Piece, okręt Garpa): elementy w katalogu 1738 → **1705**
+  (Brickset potwierdza wartość Piotra).
+- 11371: domknięty ogon wczorajszej poprawki — `katalog.json` miał jeszcze
+  1099,99; `kontrola-rrp --napraw` wyrównało do 1079,99, kontrola ZERO
+  rozbieżności.
+- `scripts/import-karty.py`: aliasy serii Sonic the Hedgehog→Sonic,
+  ONE PIECE→One Piece.
+
+**Stan:** gotowe, wypchnięte. Build 4968 stron zielony.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** nazwy DREAMZzz w katalogu pochodzą z metryk Piotra (jedyne
+polskie, jakie mamy) — przy zaciągu lego.pl zweryfikować jak zwykle.
+
+## 2026-08-31 07:15 · CODE · Czwarta paczka kart P07: DC/Batman, Bluey, Art, Architecture (+2 zipy duplikatów)
+
+**Zrobione:**
+- `karty_setow.json`: **12 nowych kart** (DC/Batman 5, Bluey 3, Art 3,
+  Architecture 1; rozkład sprostowany po zliczeniu z rejestru). Rejestr: 339 → 351; 334 strony z kartą na żywo.
+  Zip Chinese Festivals to w całości duplikaty (80118–80121 wgrane jako
+  Seasonal), z Bluey odpadł duplikat 10469 (DUPLO), z DC — 40859 (BrickHeadz).
+- `scripts/import-karty.py`: **mapowanie serii na klucz katalogu** —
+  „LEGO DC / Batman" dawało zepsuty slug `/serie/dc-/-batman/`;
+  teraz aliasy (DC/Batman→Batman, Chinese Festivals→Seasonal,
+  NINJAGO→Ninjago) + walidacja, że seria istnieje w katalog.json
+  (inaczej ostrzeżenie o linku w próżnię). Pole `seria` karty i teksty
+  linków biorą nazwę kanoniczną repo.
+- 6 kart bez huba (76330/76331/76333 DC, 31218/31220 Art, 21064
+  Architecture) — czekają na pierwszą ofertę, jak Editions z paczki 2.
+
+**Stan:** gotowe, wypchnięte. Build 4959 stron zielony, linki
+/serie/batman/ i /serie/bluey/ sprawdzone w dist.
+
+**Dla drugiej strony:** nic.
+
+## 2026-08-31 07:10 · CODE · Trzecia paczka kart P07: Seasonal-2, Jurassic World, Ideas, Icons, Botanicals
+
+**Zrobione:**
+- `karty_setow.json`: **46 nowych kart** przez `scripts/import-karty.py`
+  (61 DOCX, z czego 15 to duplikaty Seasonal z paczki pierwszej — skrypt
+  je pominął). Rejestr: 293 → 339; 328 stron z kartą na żywo.
+- Bramka RRP: blokada 11371 (Icons Shopping Street) — Piotr 1079,99 vs
+  nasze 1099,99. Kalibracja drabiną rozstrzygnęła NA KORZYŚĆ PIOTRA:
+  wszystkie 5 potwierdzonych setów z RRP 249,99 € (42177, 71814, 71837,
+  76454, 76473) ma polską cenę 1079,99. Poprawione `sety.json`
+  i `ceny_baza.json` (błąd Scouta); do rejestru potwierdzonego nie wpisuję
+  (kalibracja to poszlaka, nie odczyt u źródła) — potwierdzi się przy
+  następnym zaciągu lego.pl.
+- 21369 The X-Files: Piotr „regularna" vs Brickset LEGO exclusive i nasz
+  własny opis — metryka i FAQ o RRP podmienione na wariant ekskluzywny.
+
+**Stan:** gotowe, wypchnięte. Build 4959 stron zielony.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** technika kalibracji drabiny (rejestr potwierdzony × RRP EUR
+z Bricksetu) rozstrzyga spory o polską cenę bez dostępu do lego.pl —
+warta zapamiętania przy kolejnych blokadach RRP.
+
+## 2026-08-31 07:00 · CODE · Druga paczka kart P07: 5 serii, 127 zestawów
+
+**Zrobione:**
+- `karty_setow.json`: **127 nowych kart** przez `scripts/import-karty.py`
+  (pierwszy bojowy przebieg skryptu): NINJAGO 23, Friends 30, Disney 28,
+  Editions 21, Marvel 25. Rejestr: 166 → 293. (Rozkład per seria poprawiony
+  po sprawdzeniu — pierwotny wpis i opis commita d10ff5f podawały błędne
+  liczby; suma 127 była dobra.) Build 4959 stron zielony.
+- Bramka RRP zadziałała: zablokowała 43306 (Piotr 249,99 vs nasze 169,99 —
+  rejestr lego.pl + rynek 173–220 zł potwierdzają nasze) i 43307 (Piotr
+  299,99 vs katalog 249,99 — drabina 59,99 € = 249,99 zł). Obie karty
+  wgrane nakładką z poprawionym RRP w metryce, FAQ i przeliczniku
+  za element. 43307 do potwierdzenia przy następnym zaciągu lego.pl.
+- `sety.json`: −ekskluzyw 76345 (Brickset: Retail, Piotr: regularna — 2:1).
+- 11 setów Disney (43011–43033: piłkarze „momenty", logo FIFA itp.) nie ma
+  huba `/zestaw/` — brak ofert i ceny w feedach. Karty siedzą w danych
+  i pojawią się same, gdy set dostanie pierwszą ofertę.
+
+**Stan:** gotowe, wypchnięte.
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:** nasza kanoniczna nazwa 43301 „Toy Story **Cienki** — podpórki pod
+książki" wygląda na błąd zaciągu (postać w polskim dubbingu to Chudy; Piotr
+też pisze Chudy) — do sprawdzenia na LEGO.com jak 40881.
+
+## 2026-08-31 06:50 · CODE · Korekta starych kart + skrypt importu na kolejne paczki
+
+**Zrobione:**
+- `karty_setow.json`: 47 odpowiedzi FAQ w kartach City/Technic/Star Wars
+  z pierwszej partii domknięte tą samą korektą co P07 („Najbardziej
+  naturalnym kierunkiem są większych samochodów…" → „…jest dokupienie…").
+  Stare paczki miały tylko ten jeden wadliwy wzorzec; frazy odbiorcy
+  i „Obsadę tworzą" doszły dopiero w P07. Build 4959 stron zielony.
+- **`scripts/import-karty.py`** — od teraz jedna ścieżka importu paczek
+  Piotra: parsowanie DOCX, bramka RRP (rozjazd blokuje), raport rozbieżności
+  elementów/premier/dystrybucji, placeholdery→linki, korekty szablonu
+  (z logiem każdej), akapity redakcyjne wg progu, zapis w stabilnym
+  formacie. Tryb `--sucho` = sam raport. Procedura opisana w RUNBOOK
+  („Karty zestawów — import paczek Piotra").
+- Test: przebieg na paczce P07 --sucho → 77× „karta już istnieje", zero
+  fałszywych blokad; transformacje bajt w bajt zgodne z wgranym P07.
+
+**Stan:** gotowe. Następne zipy: `python3 scripts/import-karty.py <zipy>
+--sucho`, przejrzeć raport, rozstrzygnąć rozjazdy Bricksetem, puścić bez
+--sucho, build, commit.
+
+**Dla drugiej strony:** nic.
+
+## 2026-08-31 06:40 · CODE · Karty Piotra: 5 serii (77 zestawów) + metryka zestawu na stronie
+
+**Zrobione:**
+- `src/data/karty_setow.json`: **77 nowych kart** z DOCX Piotra (paczka P07):
+  BrickHeadz 14, DUPLO 19, Harry Potter 17, Seasonal 14, Speed Champions 13.
+  Razem w rejestrze 166 kart. Placeholdery `[… – link wewnętrzny]` zamienione
+  na `#ceny` i `/serie/<slug>/` jak w poprzednich partiach; sety 501–1200 el.
+  dostały +1, a 1201+ el. +2 akapity redakcyjne liczone z naszych danych
+  katalogu (pozycja w roczniku serii, cena/element vs mediana, sąsiedzi
+  cenowi z linkami do hubów).
+- `src/pages/zestaw/[nr].astro` + `global.css`: sekcja **„Metryka zestawu"**
+  (tabela klucz→wartość między opisem a FAQ, podkład #eef1f7 odróżnia ją od
+  białych tabel cen). Pole `metryka` istniało w danych od pierwszej partii,
+  ale nie było renderowane — tabelkę dostało od razu wszystkie 166 kart.
+- Weryfikacja danych Piotra przed importem (Brickset przez curl):
+  RRP **77/77 zgodne** z naszym rejestrem. Poprawki za zgodą Marka: elementy
+  40923 260→259 i 77259 216→215, premiera 10462 1 stycznia→1 czerwca,
+  dystrybucja 80120/80121 regularna→ekskluzywna (FAQ o zakupie w RRP
+  podmienione na ekskluzywny wariant Piotra) + ~40 mechanicznych domknięć
+  szablonu mail-merge (pola w złym przypadku: „kierunkiem są innych modeli").
+- `src/data/sety.json`: rozstrzygnięcia Bricksetu po NASZEJ stronie —
+  +ekskluzyw 40858/40860/40872/40924/40925, −ekskluzyw 40923, premiery
+  40860/40925 2026-08→2026-06, opis 76473 „ponad 2100"→„2164 elementów"
+  (kolidował z metryką karty).
+
+**Stan:** gotowe, build 4959 stron zielony, HTML zweryfikowany (metryka
+między opisem a FAQ, FAQPage w schema, linki działają).
+
+**Dla drugiej strony:** nic.
+
+**Uwagi:**
+- Nazwy 6 setów u Piotra różnią się od kanonicznych (m.in. 40864 „Mistrz
+  pomyślności" vs „Mistrz Szczęścia", 77252, 10468, 10479, 77262) — w kartach
+  stoi nazwa kanoniczna, tekst akapitów Piotra bez zmian.
+- 40881: nasza kanoniczna nazwa „Lama Zaopatrzeniowa i Palucha Rybnego —
+  figurki" wygląda na niegramatyczną (Piotr ma „…i Paluch Rybny”) — do
+  sprawdzenia na LEGO.com PL przy najbliższym zaciągu.
+- Karty City/Technic/SW z pierwszej partii mają te same zgrzyty szablonu
+  („kierunkiem są większych samochodów…") — do decyzji, czy przejechać tą
+  samą korektą.
+- Premiera 77264 nierozstrzygnięta (Piotr: 1 sierpnia, my: 2026-06, Brickset
+  nie podaje) — w metryce data Piotra nie weszła, zostało nasze źródło.

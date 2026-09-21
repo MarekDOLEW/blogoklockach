@@ -59,7 +59,8 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
 Wpisy starsze niż 14 dni żyją w plikach miesięcznych. Nic nie zostało
 skasowane — jeśli szukasz czegoś starszego, jest tam:
 
-- [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 27 wpisów
+- [`2026-09`](materialy/dziennik-archiwum-2026-09.md) — 3 wpisy
+- [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 36 wpisów
 
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
@@ -414,7 +415,6 @@ i nasz własny katalog to potwierdził — 40772 „Seria okolicznościowa: Świ
 duszek" (Creator, 2025). Poprawione. Wniosek na przyszłość: numer zestawu
 z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
 
-
 ## 2026-09-18 06:10 · MAREK → CODE · Lidl: tylko linki z feedu, bez zapasowego deeplinku
 
 Odpowiedź na pytanie z porannego raportu: „zostaw lidl jak jest — tylko linki
@@ -625,7 +625,6 @@ bazy.
 **Zrobić:** — decyzja, czy budujemy siatkę „Największe zestawy LEGO <seria>" generowaną z katalogu (liczba elementów przy 9211 z 9359 pozycji, 98%).
 **Kto:** — Marek (decyzja)
 
-
 ## 2026-09-17 05:30 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - **Lista „Ostatnia szansa" urosła z ponad 100 do ponad 300 pozycji** —
@@ -802,7 +801,6 @@ a mapping entry`. Zamiana `„..."` → `„...”` w frontmatterze i w treści.
 **Zostaje otwarte:** 75192 Sokół Millennium i reszta wycofywanych bez tekstu (Piotr);
 pięć statusów do sprawdzenia — 21333, 21351, 21353, 21356, 76437 (runner Wycofań).
 
-
 ## 2026-09-16 08:00 · RADAR · Do zrobienia
 
 **faniklockow · 15.09** — zaktualizowali listę Icons 2026 o ceny 11379 (559,99) i 11387 (469,99).
@@ -829,7 +827,6 @@ pięć statusów do sprawdzenia — 21333, 21351, 21353, 21356, 76437 (runner Wy
 **Mamy?** — częściowo: są na liście, zły status (21333, 21351, 21353, 21356, 76437).
 **Zrobić:** — zmiana w danych `src/data/wycofania.json` po sprawdzeniu działu „Ostatnie Sztuki".
 **Kto:** — Code (runner Wycofań)
-
 
 ## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
 
@@ -1027,7 +1024,6 @@ dystrybucji i cotygodniowy lego.pl, alerty.
 nie tłumacz ich hurtem, tylko gdy zestaw wraca do sprzedaży. Kontroler — od
 teraz raport tygodniowy ma podawać liczbę hubów i 404 z GSC.
 
-
 ## 2026-09-15 09:40 · CODE · Decyzje Marka po audycie: zdjęcia, wycofania, Rakuten, robots, poprawki A
 
 **Zrobione:**
@@ -1059,7 +1055,6 @@ brak tekstu, bo post dealowy nie liczy się jako tekst o zestawie? Do sprawdzeni
 w `teksty.js` (`poSecie`). Jeśli deale nie są liczone, warto je dołożyć: hub
 zestawu z aktualnym dealem powinien być w indeksie.
 
-
 ## 2026-09-15 08:20 · CODE · Audyt mechanizmu od researchu po widoczność — raport
 
 **Zrobione:** `materialy/audyt-mechanizmu-2026-09-15.md` (PDF wysłany Markowi).
@@ -1082,7 +1077,6 @@ do decyzji Marka (§1.1).
 
 **Uwagi:** pole „zindeksowane" w API sitemap pokazuje 0 dla wszystkich —
 niewiarygodne od 2022; realną liczbę trzeba odczytać z panelu GSC.
-
 
 ## 2026-09-15 06:55 · CODE · Zdjęcia → R2: rejestrem jest kubełek, codzienny Routine o 04:00
 
@@ -1129,7 +1123,6 @@ z dowodem** — ślad w R2 `kiedy: 2026-09-15T07:00:12Z` (mój własny zapis by�
 Klon + npm ci + skrypt zmieściły się w 80 s, koszt 0,17 $. Routine gotowy na
 jutro 04:02.
 
-
 ## 2026-09-14 21:15 · CODE · Galerie zdjęć wgrane do R2 — 608/608 działa
 
 **Zrobione:** Marek dodał `CF_R2_TOKEN` (osobny token *Workers R2 Storage: Edit*).
@@ -1155,7 +1148,6 @@ worker czyta R2 przed źródłem, więc huby ożyły od razu. Kontrola po wgrani
 
 **Uwagi:** Planeta resetuje połączenie przy serii pobrań (curl 35), skrypt ponawia;
 348 plików zajęło ~25 minut przy 4 równoległych.
-
 
 ## 2026-09-14 20:00 · CODE · Audyt serwisu po dzisiejszych zmianach: dwa błędy naprawione, jeden do decyzji
 
@@ -1206,7 +1198,6 @@ jak w notatce o konkurencji), więc zrzuty robione z lokalnego `dist/` serwowane
 na 127.0.0.1, z obrazami dociąganymi z produkcji przez curl — build jest identyczny
 z produkcją, więc wynik jest miarodajny. Drobiazg redakcyjny: pod tabelą cen huba
 dwa akapity mówią to samo o cenach zmiennych w ciągu dnia (TabelaCen + hub).
-
 
 ## 2026-09-14 19:30 · CODE · Maile do Piotra: wysyłka nigdy nie była podpięta — naprawione
 
@@ -1362,414 +1353,6 @@ nie dublować opisów z arkusza.
   `git diff -U0 src/data/sety.json | grep -c '^-[^-]'` = 0.
 - Zestaw 40824 (Tweety) jest w katalogu dwa razy: Seasonal/2025 i
   Looney Tunes/2026. W arkuszu został nowszy wpis — do weryfikacji przy opisie.
-
-## 2026-08-31 15:30 · CODE · Zrzut harmonogramu odtworzony + korekty w RUNBOOK
-
-**Zrobione:**
-- **`materialy/zadania-cykliczne.md` przepisany na zrzut** ze świeżego odczytu
-  `list_triggers` + `list_sessions` (31.08, 15:25). Wymagane przez `NARZEDZIA.md`
-  kolumny są: cron, **enabled**, ostatnie odpalenie. Odczyt objął 11 Routines
-  na koncie — pełna lista, bez paginacji.
-- Dołożona druga tabela: Routines spoza projektu (Angielski, Herzfaden,
-  inwestycja). Nie dotyczą serwisu, ale **dzielą ten sam limit konta**, a to on
-  wywrócił harmonogram 21.08. Widać z niej, że poniedziałek 07:00-09:30 to pięć
-  zadań naraz — pierwsze miejsce do rozsunięcia przy kolejnym uderzeniu w limit.
-- **`RUNBOOK.md`**: pięć wystąpień „Łowca 07:00" w mapie plików → 08:30;
-  „Backfill 12:00" → wyłączony od 29.08; usługa GSC poprawiona na domenową.
-- **`RUNBOOK.md`, sekcja Media Expert**: przepisana. Mówiła, że przebieg o 07:00
-  łapie wczorajszy feed — to już nieprawda, bo po to Łowca poszedł na 08:30.
-  Dopisane dwie pułapki: zmiana czasu 25.10 cofnie przebieg na 07:30 i problem
-  wróci, oraz że nazwa Routine musi iść za cronem.
-- **`RUNBOOK.md`, nowa sekcja „Sitemapy i Search Console"**: dwie sitemapy i po
-  co obie, pułapka usługi domenowej w GSC, oraz że karta w `karty_setow.json`
-  nie gwarantuje podstrony.
-
-**Stan:** gotowe
-
-**Dla drugiej strony:** nic — runnery i infrastruktura należą do Claude Code.
-
-**Uwagi:**
-- **Kontroler działa.** Przebieg 31.08 09:11, status `SUCCEEDED`. To zamyka wątek
-  z 30.08, gdy ostatni odczyt pochodził z 17.08 i wyglądało to na cichą awarię.
-- **Korekta mojej wczorajszej notatki:** `last_fired_at` zwracają WSZYSTKIE
-  triggery, także te przypięte do trwałej sesji. Pełny `last_run` ze statusem
-  tylko te tworzące świeżą sesję. Wczoraj napisałem, że runnery nie zwracają nic
-  i zastępowałem to `updated_at` sesji — niepotrzebnie, dane są dokładniejsze.
-- **Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) zniknął z konta**
-  między 30 a 31.08. Był wyłączony od 15.08, więc nic nie przestało działać.
-  Nie odtwarzać — drugi przebieg Radara wycofano świadomie 21.08.
-- **Zostaje otwarte: 32 karty bez podstrony.** `karty_setow.json` ma 445 wpisów,
-  `/zestaw/<nr>/` powstaje dla 413. Brakujące nie są w `katalog.json`, więc
-  `huby.js` ich nie generuje mimo cen i linków. Teksty leżą w repo niewidoczne.
-  Naprawa opisana w RUNBOOK, sekcja „Sitemapy i Search Console".
-
-## 2026-08-31 08:10 · CODE · Typografia: pauza → półpauza w całym serwisie; H2 kart bez „— opis"
-
-**Zrobione (decyzja Marka):**
-- Nagłówek karty zestawu to teraz samo „LEGO <nr> <nazwa>" — sufiks „— opis"
-  usunięty z `[nr].astro`.
-- Wszystkie pauzy (—) zamienione na półpauzy (–) w treściach serwisu:
-  dane zasilające strony (karty_setow, katalog, sety, wycofania, opisy,
-  kategorie_artykulow, galerie), wszystkie strony/komponenty/lib/layouty
-  i pluginy remark (tabele cen w artykułach). Zbudowany dist: **zero pauz**
-  na 4980 stronach.
-- `import-karty.py` dostał `typografia()` — przyszłe DOCX-y Piotra (pisane
-  pauzą) normalizują się przy imporcie same.
-- NIE ruszone: pliki wewnętrzne (rrp_potwierdzone, rejestr afiliacji, stany
-  runnerów, ceny_baza) i dokumenty w `redakcja/` (materiały Piotra verbatim).
-
-**Stan:** gotowe, opublikowane na main.
-
-**Dla drugiej strony:** runnery piszące teksty do plików zasilających stronę
-(Scout — opisy w sety.json) powinny od teraz używać półpauzy.
-
-## 2026-08-31 07:25 · CODE · Szósta (ostatnia) partia kart P07: brakujące 57 + Archive + Nike + Super Mario
-
-**Zrobione:**
-- `karty_setow.json`: **70 nowych kart** z 4 zipów (w tym „brakujące 57"
-  domykające luki w ~30 seriach: polybagi 30xxx, GWP-y 40xxx, Architecture
-  21065–67, minifigurki, Zelda, Wednesday, Animal Crossing, KPop, Nike,
-  Super Mario). Rejestr: 375 → **445**; na żywo 413 stron. Duplikaty
-  międzyseryjne znów pominięte (40920 Looney=Seasonal, 40923 Shrek=BrickHeadz).
-- `katalog.json`: nowe serie **The Legend of Zelda, Shrek, Looney Tunes,
-  Nike x LEGO** + sety dołożone do AC/Bluey/Sonic/Minifigurek; elementy
-  z Bricksetu, RRP Piotra po kalibracji mnożnikiem. 71052: elementy 7→8.
-- Bramka RRP zablokowała 7 polybagów (my 16,99/29,99 vs Piotr 16,49) —
-  rejestr lego.pl rozstrzygnął NA KORZYŚĆ PIOTRA: saszetki 2026 kosztują
-  16,49 (71051–71053 potwierdzone), a 30734 ma €3.99. Poprawione 7 wpisów
-  katalogu; stara wiedza „polybag = 16,99" (m.in. komentarz w odsiew.js)
-  dotyczy poprzednich roczników.
-- `scripts/import-karty.py`: nowe warianty placeholderów partii („sprawdź
-  aktualne informacje/oferty/dostępność", „zobacz analizę ceny"), RRP też
-  z pola „Cena / sposób uzyskania" (wariant szablonu dla polybagów/GWP),
-  fallback linku kategorii na `/serie/` dla serii bez strony (GWP „Inne",
-  LEGO House, LEGOLAND), filtr plików macOS `._*`, aliasy Creator 3 w 1
-  i Nike x LEGO Collection.
-- `[nr].astro`: kotwica `#ceny` istnieje też przy braku tabeli cen
-  (fallbackowy komunikat) — linki z kart GWP nie prowadzą w nic.
-
-**Stan:** gotowe, wypchnięte. Build 4978 stron zielony; kontrola-rrp: zero
-rozbieżności; zero nierozwiązanych placeholderów w dist.
-
-**Dla drugiej strony:** nic.
-
-**Uwagi:** GWP-y i sety LEGO House/LEGOLAND (17 kart „Inne") świadomie BEZ
-wpisu w katalogu (RUNBOOK: gratisy odsiewamy) — karty czekają w danych na
-ewentualne huby. Nierozstrzygnięte 1:1 (Piotr vs Brickset, bez trzeciego
-głosu): dystrybucja 77093 (P: ekskluzyw, BS: Retail) i 40824 (odwrotnie) —
-zostały wartości Piotra.
-
-## 2026-08-31 07:20 · CODE · Piąta paczka kart P07: Sonic, One Piece, Gabi, Fortnite, DREAMZzz
-
-**Zrobione:**
-- `karty_setow.json`: **24 nowe karty** (Sonic 5, One Piece 7, Koci Domek
-  Gabi 3, Fortnite 4, DREAMZzz 5 — rozkład zliczony z rejestru).
-  Rejestr: 351 → 375; na żywo 358 stron.
-- `katalog.json`: **nowa seria DREAMZzz** (5 setów) + dołożone 77117/77118
-  (Sonic) i 11215 (Gabi) — elementy z Bricksetu, RRP Piotra po kontroli
-  mnożnikiem drabiny (wszystkie 4,20–4,29 od EUR, zgodne). Dzięki temu
-  powstało 8 nowych hubów i `/serie/dreamzzz/` — build 4959 → 4968 stron.
-- 75646 (One Piece, okręt Garpa): elementy w katalogu 1738 → **1705**
-  (Brickset potwierdza wartość Piotra).
-- 11371: domknięty ogon wczorajszej poprawki — `katalog.json` miał jeszcze
-  1099,99; `kontrola-rrp --napraw` wyrównało do 1079,99, kontrola ZERO
-  rozbieżności.
-- `scripts/import-karty.py`: aliasy serii Sonic the Hedgehog→Sonic,
-  ONE PIECE→One Piece.
-
-**Stan:** gotowe, wypchnięte. Build 4968 stron zielony.
-
-**Dla drugiej strony:** nic.
-
-**Uwagi:** nazwy DREAMZzz w katalogu pochodzą z metryk Piotra (jedyne
-polskie, jakie mamy) — przy zaciągu lego.pl zweryfikować jak zwykle.
-
-## 2026-08-31 07:15 · CODE · Czwarta paczka kart P07: DC/Batman, Bluey, Art, Architecture (+2 zipy duplikatów)
-
-**Zrobione:**
-- `karty_setow.json`: **12 nowych kart** (DC/Batman 5, Bluey 3, Art 3,
-  Architecture 1; rozkład sprostowany po zliczeniu z rejestru). Rejestr: 339 → 351; 334 strony z kartą na żywo.
-  Zip Chinese Festivals to w całości duplikaty (80118–80121 wgrane jako
-  Seasonal), z Bluey odpadł duplikat 10469 (DUPLO), z DC — 40859 (BrickHeadz).
-- `scripts/import-karty.py`: **mapowanie serii na klucz katalogu** —
-  „LEGO DC / Batman" dawało zepsuty slug `/serie/dc-/-batman/`;
-  teraz aliasy (DC/Batman→Batman, Chinese Festivals→Seasonal,
-  NINJAGO→Ninjago) + walidacja, że seria istnieje w katalog.json
-  (inaczej ostrzeżenie o linku w próżnię). Pole `seria` karty i teksty
-  linków biorą nazwę kanoniczną repo.
-- 6 kart bez huba (76330/76331/76333 DC, 31218/31220 Art, 21064
-  Architecture) — czekają na pierwszą ofertę, jak Editions z paczki 2.
-
-**Stan:** gotowe, wypchnięte. Build 4959 stron zielony, linki
-/serie/batman/ i /serie/bluey/ sprawdzone w dist.
-
-**Dla drugiej strony:** nic.
-
-## 2026-08-31 07:10 · CODE · Trzecia paczka kart P07: Seasonal-2, Jurassic World, Ideas, Icons, Botanicals
-
-**Zrobione:**
-- `karty_setow.json`: **46 nowych kart** przez `scripts/import-karty.py`
-  (61 DOCX, z czego 15 to duplikaty Seasonal z paczki pierwszej — skrypt
-  je pominął). Rejestr: 293 → 339; 328 stron z kartą na żywo.
-- Bramka RRP: blokada 11371 (Icons Shopping Street) — Piotr 1079,99 vs
-  nasze 1099,99. Kalibracja drabiną rozstrzygnęła NA KORZYŚĆ PIOTRA:
-  wszystkie 5 potwierdzonych setów z RRP 249,99 € (42177, 71814, 71837,
-  76454, 76473) ma polską cenę 1079,99. Poprawione `sety.json`
-  i `ceny_baza.json` (błąd Scouta); do rejestru potwierdzonego nie wpisuję
-  (kalibracja to poszlaka, nie odczyt u źródła) — potwierdzi się przy
-  następnym zaciągu lego.pl.
-- 21369 The X-Files: Piotr „regularna" vs Brickset LEGO exclusive i nasz
-  własny opis — metryka i FAQ o RRP podmienione na wariant ekskluzywny.
-
-**Stan:** gotowe, wypchnięte. Build 4959 stron zielony.
-
-**Dla drugiej strony:** nic.
-
-**Uwagi:** technika kalibracji drabiny (rejestr potwierdzony × RRP EUR
-z Bricksetu) rozstrzyga spory o polską cenę bez dostępu do lego.pl —
-warta zapamiętania przy kolejnych blokadach RRP.
-
-## 2026-08-31 07:00 · CODE · Druga paczka kart P07: 5 serii, 127 zestawów
-
-**Zrobione:**
-- `karty_setow.json`: **127 nowych kart** przez `scripts/import-karty.py`
-  (pierwszy bojowy przebieg skryptu): NINJAGO 23, Friends 30, Disney 28,
-  Editions 21, Marvel 25. Rejestr: 166 → 293. (Rozkład per seria poprawiony
-  po sprawdzeniu — pierwotny wpis i opis commita d10ff5f podawały błędne
-  liczby; suma 127 była dobra.) Build 4959 stron zielony.
-- Bramka RRP zadziałała: zablokowała 43306 (Piotr 249,99 vs nasze 169,99 —
-  rejestr lego.pl + rynek 173–220 zł potwierdzają nasze) i 43307 (Piotr
-  299,99 vs katalog 249,99 — drabina 59,99 € = 249,99 zł). Obie karty
-  wgrane nakładką z poprawionym RRP w metryce, FAQ i przeliczniku
-  za element. 43307 do potwierdzenia przy następnym zaciągu lego.pl.
-- `sety.json`: −ekskluzyw 76345 (Brickset: Retail, Piotr: regularna — 2:1).
-- 11 setów Disney (43011–43033: piłkarze „momenty", logo FIFA itp.) nie ma
-  huba `/zestaw/` — brak ofert i ceny w feedach. Karty siedzą w danych
-  i pojawią się same, gdy set dostanie pierwszą ofertę.
-
-**Stan:** gotowe, wypchnięte.
-
-**Dla drugiej strony:** nic.
-
-**Uwagi:** nasza kanoniczna nazwa 43301 „Toy Story **Cienki** — podpórki pod
-książki" wygląda na błąd zaciągu (postać w polskim dubbingu to Chudy; Piotr
-też pisze Chudy) — do sprawdzenia na LEGO.com jak 40881.
-
-## 2026-08-31 06:50 · CODE · Korekta starych kart + skrypt importu na kolejne paczki
-
-**Zrobione:**
-- `karty_setow.json`: 47 odpowiedzi FAQ w kartach City/Technic/Star Wars
-  z pierwszej partii domknięte tą samą korektą co P07 („Najbardziej
-  naturalnym kierunkiem są większych samochodów…" → „…jest dokupienie…").
-  Stare paczki miały tylko ten jeden wadliwy wzorzec; frazy odbiorcy
-  i „Obsadę tworzą" doszły dopiero w P07. Build 4959 stron zielony.
-- **`scripts/import-karty.py`** — od teraz jedna ścieżka importu paczek
-  Piotra: parsowanie DOCX, bramka RRP (rozjazd blokuje), raport rozbieżności
-  elementów/premier/dystrybucji, placeholdery→linki, korekty szablonu
-  (z logiem każdej), akapity redakcyjne wg progu, zapis w stabilnym
-  formacie. Tryb `--sucho` = sam raport. Procedura opisana w RUNBOOK
-  („Karty zestawów — import paczek Piotra").
-- Test: przebieg na paczce P07 --sucho → 77× „karta już istnieje", zero
-  fałszywych blokad; transformacje bajt w bajt zgodne z wgranym P07.
-
-**Stan:** gotowe. Następne zipy: `python3 scripts/import-karty.py <zipy>
---sucho`, przejrzeć raport, rozstrzygnąć rozjazdy Bricksetem, puścić bez
---sucho, build, commit.
-
-**Dla drugiej strony:** nic.
-
-## 2026-08-31 06:40 · CODE · Karty Piotra: 5 serii (77 zestawów) + metryka zestawu na stronie
-
-**Zrobione:**
-- `src/data/karty_setow.json`: **77 nowych kart** z DOCX Piotra (paczka P07):
-  BrickHeadz 14, DUPLO 19, Harry Potter 17, Seasonal 14, Speed Champions 13.
-  Razem w rejestrze 166 kart. Placeholdery `[… – link wewnętrzny]` zamienione
-  na `#ceny` i `/serie/<slug>/` jak w poprzednich partiach; sety 501–1200 el.
-  dostały +1, a 1201+ el. +2 akapity redakcyjne liczone z naszych danych
-  katalogu (pozycja w roczniku serii, cena/element vs mediana, sąsiedzi
-  cenowi z linkami do hubów).
-- `src/pages/zestaw/[nr].astro` + `global.css`: sekcja **„Metryka zestawu"**
-  (tabela klucz→wartość między opisem a FAQ, podkład #eef1f7 odróżnia ją od
-  białych tabel cen). Pole `metryka` istniało w danych od pierwszej partii,
-  ale nie było renderowane — tabelkę dostało od razu wszystkie 166 kart.
-- Weryfikacja danych Piotra przed importem (Brickset przez curl):
-  RRP **77/77 zgodne** z naszym rejestrem. Poprawki za zgodą Marka: elementy
-  40923 260→259 i 77259 216→215, premiera 10462 1 stycznia→1 czerwca,
-  dystrybucja 80120/80121 regularna→ekskluzywna (FAQ o zakupie w RRP
-  podmienione na ekskluzywny wariant Piotra) + ~40 mechanicznych domknięć
-  szablonu mail-merge (pola w złym przypadku: „kierunkiem są innych modeli").
-- `src/data/sety.json`: rozstrzygnięcia Bricksetu po NASZEJ stronie —
-  +ekskluzyw 40858/40860/40872/40924/40925, −ekskluzyw 40923, premiery
-  40860/40925 2026-08→2026-06, opis 76473 „ponad 2100"→„2164 elementów"
-  (kolidował z metryką karty).
-
-**Stan:** gotowe, build 4959 stron zielony, HTML zweryfikowany (metryka
-między opisem a FAQ, FAQPage w schema, linki działają).
-
-**Dla drugiej strony:** nic.
-
-**Uwagi:**
-- Nazwy 6 setów u Piotra różnią się od kanonicznych (m.in. 40864 „Mistrz
-  pomyślności" vs „Mistrz Szczęścia", 77252, 10468, 10479, 77262) — w kartach
-  stoi nazwa kanoniczna, tekst akapitów Piotra bez zmian.
-- 40881: nasza kanoniczna nazwa „Lama Zaopatrzeniowa i Palucha Rybnego —
-  figurki" wygląda na niegramatyczną (Piotr ma „…i Paluch Rybny”) — do
-  sprawdzenia na LEGO.com PL przy najbliższym zaciągu.
-- Karty City/Technic/SW z pierwszej partii mają te same zgrzyty szablonu
-  („kierunkiem są większych samochodów…") — do decyzji, czy przejechać tą
-  samą korektą.
-- Premiera 77264 nierozstrzygnięta (Piotr: 1 sierpnia, my: 2026-06, Brickset
-  nie podaje) — w metryce data Piotra nie weszła, zostało nasze źródło.
-
-## 02.09.2026 — 75457 Executor (punkt 2 z radaru 02.09)
-
-Opublikowane: `/artykuly/lego-75457-executor-przed-premiera/`, dział Premiery.
-Karta researchu: `redakcja/karty/75457-executor.md`.
-
-**Oś tekstu jest odwrotna niż zwykle.** Executor to ekskluzyw LEGO.com i sklepów
-stacjonarnych LEGO — nie ma drugiej ceny, rabatu ani progu zakupu. Nasza
-standardowa rada („sprawdź, gdzie taniej", „poczekaj do listopada") nie ma tu
-zastosowania i tekst mówi to wprost, zamiast udawać porównanie. Jedyna zmienna
-pod kontrolą kupującego to zdążyć przed wyczerpaniem gratisu 40897 — stąd
-praktyczna konsekwencja: **konto Insiders trzeba mieć założone przed 1.10**,
-nie w dniu premiery.
-
-**Wartość, której nikt inny nie poda:** 21065 Sagrada Família ma dokładnie tę
-samą cenę katalogową 3199,99 zł przy 12 060 elementach (0,27 zł/el.) wobec
-6130 u Executora (0,52 zł/el.). Widać to tylko z jednego katalogu z obiema
-pozycjami.
-
-**Dane poprawione przy okazji:**
-- `sety.json` 75457: `cena_katalogowa` było `null`, a `dla_afol` szacowało
-  ~3170 zł z przelicznika euro — wpisana potwierdzona kwota 3199,99 zł.
-- `kalendarz-promocji-lego.md`: sekcja październikowa twierdziła, że polskiej
-  ceny nie ogłoszono. Poprawione, dołożone okno gratisu i kanał sprzedaży.
-
-**Nierozstrzygnięte i tak zapisane w tekście:** okno GWP — źródła
-anglojęzyczne podają 1–10.10, polskie 1–7.10. Nie rozstrzygamy (LEGO różnicuje
-okna między rynkami); w tekście krótsza wersja plus zdanie, że decyduje
-wyczerpanie zapasów, nie kalendarz.
-
-**Zdjęć 75457 nie mamy** — zestaw jeszcze nie istnieje w feedach. Zamiast
-pustego znacznika galerii poszły dwie pozycje faktycznie w tekście
-porównywane: 10221 (poprzednik) i 21065 (alternatywa), z podpisem
-wyjaśniającym, czyje to zdjęcie.
-
-Tekst wyszedł 18 dni przed planowanym oknem 20–30.09, bo cena potwierdziła się
-wcześniej, a czekanie nie dawało nic poza ryzykiem.
-
-**Zostaje z planu:** Wycofania grudnia 2026 (okno 1–20.10) i Black Friday —
-rabat kontra pseudopromocja (okno 10–24.11).
-
----
-
-## 04.09.2026 — punkty 1–3 z radaru: fala października i haczyk Black Friday
-
-**Punkt 1 i 3 (dane).** Zweryfikowałem u źródeł październikową falę premier. Wpisane
-tylko to, co potwierdzone niezależnie w co najmniej dwóch miejscach:
-
-| Zestaw | Było | Jest |
-|---|---|---|
-| 72306 PlayStation | `cena_katalogowa: null` | **689,99 zł** (0,36 zł/el.) |
-| 21371 Wallace i Gromit | `null` | **419,99 zł** (0,40 zł/el.) |
-| 40874 Świąteczne odliczanie | `null` | **249,99 zł** (0,29 zł/el.) |
-| 11387 Zimowa wioska | `elementy: null` | **1354** |
-
-Miła kontrola własnej metody: nasze wcześniejsze szacunki z przelicznika euro
-(≈680, ≈420, ≈250 zł) trafiły co do kilku złotych w kwoty, które LEGO faktycznie
-ogłosiło. Przelicznik euro jako *szacunek oznaczony jako szacunek* działa.
-
-**Czego NIE wpisałem i dlaczego** — zapisane w `katalog.json` →
-`_meta.rozbieznosci_fala_pazdziernik_2026`:
-- **40865 Elf Buddy** — liczba elementów sporna: 713 (faniklockow) kontra 719
-  (zklockow). Żadnej nie przyjmuję.
-- **11379 Księgarnia Book Nook** — cena sprzeczna: „ok. 520 zł" kontra 559,96 zł.
-  Ta druga nie kończy się na „,99", więc to niemal na pewno wyliczenie
-  porównywarki, a nie cena katalogowa.
-- **40875, 40862, 40866, 11388, 11390, 21373** — po jednym źródle, w dodatku
-  samo oznaczonym jako plotka. Zostają puste.
-- 72306 nie ma wpisu w `katalog.json` (nowa seria „PlayStation") — hub działa
-  z `sety.json`. Dodanie serii do katalogu należy do Zwiadowcy, nie do Radaru.
-
-**Punkt 2 (Black Friday).** 21375 Godzilla ma premierę **27 listopada, czyli w sam
-Black Friday**, z własnym gratisem — potwierdzone w dwóch źródłach, cena wciąż
-nieznana. To zmienia planowany tekst z ogólnego wywodu w konkret: zestaw
-debiutujący w dniu BF z definicji nie jest przeceniony, a stoi obok przecen
-i korzysta z ich rozpędu.
-
-- okno tekstu przesunięte z `11-10..11-24` na **`11-05..11-20`**, żeby wyszedł
-  przed premierą, nie po niej; w planie dopisany hak i przypomnienie, żeby przed
-  publikacją sprawdzić cenę katalogową (bez niej nie policzymy rabatu ani jego braku);
-- do kotwic sezonu doszła data 27.11 z premierą Godzilli;
-- w `kalendarz-promocji-lego.md` — akapit w sekcji listopadowej („Nowość w Black
-  Friday nie jest okazją"), nowa sekcja „Październik to nie tylko Executor"
-  z tabelą trzech potwierdzonych cen, oraz dwa wiersze w ściądze.
-
-Sekcja październikowa mówiła dotąd wyłącznie o Executorze, choć tego samego dnia
-wchodzi cała reszta fali — to była realna dziura na stronie, która już rankuje.
-
-Build czysty, `kontrola-rrp.mjs` → ROZBIEŻNYCH: 0, wszystkie nowe linki żyją.
-`/nowosci/pazdziernik-2026/` podchwyciło ceny samo.
-
-## 2026-09-05 · CODE (Radar) · Dla Łowcy: 16 „okazji" konkurencji — co z nich wynika
-
-Konkurencja (faniklockow) wypuściła 4.09 **szesnaście mikropostów dealowych w jednej
-dobie**, większość między 12:22 a 15:08. Poprzednie dni: dwa. Przepuściłem tę listę
-przez nasz `oferty_feed.json` (stan 05.09) i zamiast jednej hipotezy wyszły trzy
-konkrety. **Nie ruszałem danych Łowcy — to jest zgłoszenie, nie zmiana.**
-
-Zestawy: 10316, 76300, 11389, 11375, 42240, 21355, 77256, 77260, 76475, 60423,
-60478, 60488, 71848, 42224, 42226, 42229, 43023.
-
-### 1. To nie jest jeden sklep — i to dobra wiadomość
-
-Rozkład najtańszych ofert: **Allegro 11, Smyk 4, Empik 1, Media Expert 1**. Czyli nie
-jedna wyprzedaż u jednego sprzedawcy, tylko szeroki ruch przedsezonowy. Nasze tabele
-złapały go same — 15 z 17 zestawów ma świeże oferty, rabaty 23–39% względem katalogu.
-Pod tym względem nie mamy nic do nadrabiania.
-
-**Warte uwagi: Smyk jest najtańszy przy czterech pozycjach** (11375 Ferrari −30%,
-42240 Aston Martin −26%, 42224 Porsche −23%, 42226 BMW −28%) — same duże Technic
-i Icons, czyli wysokie koszyki. Smyk mamy w rejestrze jako **aktywny (Adtraction,
-2,10% CPS, cookie 45 dni)**. To sugestia, żeby przy doborze sklepów publikacyjnych
-dla Technica nie pomijać Smyku odruchowo na rzecz Allegro.
-
-### 2. Jedna z ich „okazji" okazją nie jest
-
-**11389 Projekt Hail Mary** — u nich „Okazja Cenowa". Nasze dane: cena katalogowa
-**469,99 zł**, najtańsza oferta **479,99 zł** (Allegro), Empik 543 zł. Czyli
-„okazja" jest **droższa od ceny katalogowej LEGO o dwa procent**.
-
-To jest dokładnie ten mechanizm, o którym ma być listopadowy tekst o Black Friday,
-tyle że złapany na żywo we wrześniu. Zapisuję to jako materiał do tamtego artykułu.
-
-### 3. Dwa pytania do sprawdzenia po stronie Łowcy
-
-**a) Empik nigdy nie wygrywa pola `cena`.** W całym feedzie `sklep == "empik"`
-występuje **zero razy**, a w **386 zestawach Empik ma najniższą ofertę, która nie
-trafiła do pola `cena`**. Przykłady: 3677 (empik 2899 vs allegro 3141), 3818
-(1899 vs 2299), 3831 (1599 vs 2177).
-
-Nie przesądzam, czy to błąd. `_meta.zasady` opisuje regułę wyboru `cena` przez
-pryzmat PK i ME, a Empik dokumentuje osobno jako klucz w `oferty` — więc możliwe,
-że wyłączenie jest **celowe** (marketplace, zrzut tygodniowy, wątpliwa dostępność).
-Za celowością przemawiają pozycje w rodzaju 1246 (empik 60,50 vs allegro 179,99),
-gdzie cena wygląda na ofertę używanego albo niekompletnego zestawu.
-
-**Jeśli celowe — warto to dopisać wprost do `_meta.zasady`**, bo dziś czyta się to
-jak przeoczenie. **Jeśli nie — to 386 zestawów, przy których pokazujemy cenę wyższą
-niż dostępna**, a to uderza w jedyną rzecz, którą sprzedajemy.
-
-**b) 2644 zestawy mają cenę rynkową, ale nie mają ceny katalogowej** — więc przy
-żadnym z nich nie policzymy rabatu. Z dzisiejszej listy dotyczy to **76300 Arkham
-Asylum**: konkurencja ogłasza okazję, a my nie umiemy powiedzieć, czy nią jest.
-To nie zadanie na dziś, ale przy 2644 pozycjach to systemowa dziura w funkcji,
-która jest sednem serwisu.
-
-### Czego NIE trzeba robić
-
-Odświeżania feedu — dane są z 05.09 i złapały ruch. Zrzut Empiku jest z 31.08
-(tygodniowy, przez Cowork), więc w normie.
 
 ## 2026-09-08 · CODE (Radar) · Dla Zwiadowcy: trzy Pokémony z ofertami i bez strony
 
