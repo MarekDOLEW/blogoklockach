@@ -30,7 +30,7 @@ import { join } from 'node:path';
 const uruchom = promisify(execFile);
 const arg = (n, d) => { const i = process.argv.indexOf(n); return i > -1 ? process.argv[i + 1] : d; };
 const sucho = process.argv.includes('--sucho');
-const ILE = Number(arg('--ile', 200));
+const ILE = Number(arg('--ile', 150));
 const TYLKO = arg('--sklep', null);
 const ROWNOLEGLE = 12;
 
@@ -135,9 +135,35 @@ console.log(`\nMartwych linków: ${martwe.length} / ${wyniki.length - zablokowan
 if (sklepyBlokujace.length) console.log(`Sklepy, których nie da się sprawdzić z serwera: ${sklepyBlokujace.join(', ')} — nie twierdzimy o nich niczego.`);
 for (const w of martwe) console.log(`  ${w.sklep} ${w.nr} (${w.kod}) ${w.cel}`);
 
-if (!martwe.length || sucho) { if (sucho) console.log('\n--sucho: bez wysyłki.'); process.exit(0); }
-
 const dzis = new Date().toISOString().slice(0, 10);
+
+// Raport zapisujemy ZAWSZE, także gdy nic nie jest martwe. Powód (21.09.2026):
+// pierwszy przebieg tego kroku w Kontrolerze nie zostawił po sobie żadnego śladu
+// w repo, więc nie dało się stwierdzić, czy krok się wykonał, czy został pominięty.
+// „Brak martwych linków" to wynik, a nie brak wyniku.
+const raport = [
+  `# Kontrola linków sklepowych — ${dzis.split('-').reverse().join('.')}`,
+  '',
+  `Próba ${wyniki.length} linków z \`redirects.json\` (${wszystkie.length} w całości). Martwych: **${martwe.length}**.`,
+  '',
+  'Sprawdzamy adres docelowy sklepu, nigdy link trackingowy — wejście na tracker byłoby sztucznie nabitym klikiem w sieci afiliacyjnej.',
+  '',
+  '| Sklep | w próbie | żywe | martwe (404/410) | blokada sklepu | nierozstrzygnięte |',
+  '|---|---|---|---|---|---|',
+  ...wiersze,
+  '',
+  martwe.length
+    ? ['| Sklep | Zestaw | Kod | Karta produktu | Hub |', '|---|---|---|---|---|',
+       ...martwe.map((w) => `| ${w.sklep} | ${w.nr} ${sety[w.nr]?.nazwa ?? ''} | ${w.kod} | [adres](${w.cel}) | [hub](https://tylkoklocki.pl/zestaw/${w.nr}/) |`)].join('\n')
+    : 'Żaden sprawdzalny link nie prowadzi na nieistniejącą kartę produktu.',
+  '',
+  `Blokada sklepu: ${zablokowane.length} linków (sklep odrzuca ruch serwerowy — o tych nie twierdzimy nic).${sklepyBlokujace.length ? ' Dotyczy: ' + sklepyBlokujace.join(', ') + '.' : ''} Nierozstrzygniętych: ${nieznane.length}.`,
+  '',
+].join('\n');
+const plikRaportu = new URL(`../materialy/kontrola-linkow-${dzis}.md`, import.meta.url);
+if (!sucho) { writeFileSync(plikRaportu, raport + '\n'); console.log(`Raport: materialy/kontrola-linkow-${dzis}.md`); }
+
+if (!martwe.length || sucho) { if (sucho) console.log('\n--sucho: bez zapisu i bez wysyłki.'); process.exit(0); }
 const md = [
   `Losowa próba ${wyniki.length} linków sklepowych z \`redirects.json\`. **Martwych: ${martwe.length}** (HTTP 404/410 na karcie produktu).`,
   '',

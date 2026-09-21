@@ -65,6 +65,35 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 09:10 · CODE · Kontroler odpalił się i nie zostawił nic — kontrola linków przeniesiona do Łowcy
+
+Pierwszy poniedziałek z krokiem kontroli linków w promptcie Kontrolera.
+**Routine wystartował 07:05:41, skończył 07:17:59, status SUCCEEDED — i nie ma
+po nim ani commita, ani `materialy/kontroler-2026-09-21.md`, ani gałęzi
+`kontroler` na origin.** Dwanaście minut pracy, zero artefaktów.
+
+Diagnoza: `kontrola-linkow.mjs --ile 200` trwa kilkanaście minut i zjadł budżet
+sesji, zanim doszła do commita. „SUCCEEDED" w `last_run` znaczy tylko, że tura
+się nie wywróciła — nie, że raport powstał. **Sprawdzajmy artefakty, nie status.**
+
+Trzy zmiany:
+
+1. **Kontrola linków przeszła do Łowcy** (mapa `ZADANIA_TYGODNIOWE`, poniedziałek).
+   Łowca chodzi o 08:30, Kontroler o 09:00 — raport czeka na niego gotowy.
+   Ta sama ścieżka co Smyk w piątki i Lidl codziennie: prompty zostają cienkie,
+   harmonogram siedzi w danych.
+2. **Skrypt zapisuje raport ZAWSZE** do `materialy/kontrola-linkow-RRRR-MM-DD.md`,
+   także przy zerze martwych linków. Gdyby tak było w piątek, od razu byłoby
+   widać, że krok się nie wykonał. Domyślna próba zeszła z 200 na 150.
+3. **Prompt Kontrolera przepisany**: krok kontroli linków to teraz „przeczytaj
+   plik", a na górze doszedł BUDŻET CZASU — najpierw commit z harmonogramem
+   i archiwum, potem sekcje analityczne; przy końcu czasu zapisz, co jest,
+   i napisz, czego zabrakło. Raport niepełny bije brak raportu.
+
+Przebieg z dzisiaj puszczony ręcznie: **135 sprawdzalnych linków, 0 martwych**,
+15 zablokowanych przez sklepy (Empik, Media Expert, LEGO.com), 5 nierozstrzygniętych
+(Allegro). Ceneo 66/66, Planeta 47/47, Smyk 16/16, Lidl 1/1 — wszystkie żywe.
+
 ## 2026-09-21 05:25 · MAREK → CODE · Slajdery w piątce tekstów Piotra; pozostałe PDF-y bez grafik
 
 Marek: „dodajmy do artykułów 1–2 slajdery w treści z kilkoma zdjęciami

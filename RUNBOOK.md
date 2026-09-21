@@ -1476,6 +1476,16 @@ sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć 
 
 Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
 
+**Kto uruchamia kontrolę (zmiana 21.09.2026).** Pierwszy przebieg tego kroku
+w Kontrolerze trwał **12 minut i skończył się bez commita i bez raportu** —
+sprawdzanie 200 linków zjadło cały budżet sesji, a „SUCCEEDED" w `last_run`
+znaczy tylko tyle, że tura się nie wywróciła. Od 21.09 skrypt odpala **Łowca
+w poniedziałek** (mapa `ZADANIA_TYGODNIOWE` w `feedy-lego.py`, dzień 0), czyli
+pół godziny przed Kontrolerem, a Kontroler **tylko czyta** najnowszy plik
+`materialy/kontrola-linkow-RRRR-MM-DD.md`. Raport zapisuje się teraz **zawsze**,
+także gdy nic nie jest martwe — „brak martwych linków" to wynik, a nie brak
+wyniku, i po pliku widać, że krok się wykonał.
+
 **Sprawdzenie jednego zestawu na żądanie:** `node scripts/sprawdz-oferte.mjs <nr>`.
 Pokazuje każdą ofertę z ceną, datą odczytu, wiekiem w dniach, informacją, czy
 przechodzi sito serwisu (czyli czy czytelnik ją w ogóle widzi), i kodem HTTP karty

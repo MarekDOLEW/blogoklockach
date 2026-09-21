@@ -250,7 +250,12 @@ def odswiez_redirects(wynik):
 # siedmiodniowa. Powód decyzji: 75192 Sokół Millennium stał u nas z ceną Smyka
 # 2799 zł przez pięć dni po tym, jak sklep go wyprzedał, i była to najniższa
 # cena w tabeli tego zestawu. Odczyt trwa ok. 4–8 minut (704 karty po sześć naraz).
-ZADANIA_TYGODNIOWE = {'smyk': {4}}
+# Kontrola linków: poniedziałek (0). Do 21.09.2026 robił to Kontroler własnym
+# krokiem w promptcie — jego pierwszy przebieg trwał 12 minut i skończył się bez
+# commita i bez raportu, bo sprawdzanie 200 linków zjadło cały budżet czasu sesji.
+# Skrypt jest tańszy w Łowcy: Łowca startuje 08:30, Kontroler 09:00, więc raport
+# czeka już na niego w repo i wystarczy go przeczytać.
+ZADANIA_TYGODNIOWE = {'smyk': {4}, 'linki': {0}}
 
 
 def zadania_na_dzis():
@@ -272,6 +277,15 @@ def odswiez_smyka():
         if linie2:
             podsumowanie += ' | --stare: ' + linie2[-1]
     return wynik.returncode == 0, podsumowanie
+
+
+def kontrola_linkow():
+    """Losowa próba linków sklepowych — raport do materialy/, mail gdy są martwe."""
+    wynik = subprocess.run(['node', 'scripts/kontrola-linkow.mjs', '--ile', '150'],
+                           cwd=KATALOG, capture_output=True, text=True, timeout=1800)
+    linie = [l.strip() for l in ((wynik.stdout or '') + (wynik.stderr or '')).splitlines() if l.strip()]
+    martwe = next((l for l in linie if l.startswith('Martwych linków')), linie[-1] if linie else 'brak wyjścia')
+    return wynik.returncode == 0, martwe
 
 
 def feedy_td_codzienne():
@@ -350,17 +364,18 @@ if __name__ == '__main__':
 
     # Zadania tygodniowe (dziś: Smyk we wtorki i piątki) — przed historią cen,
     # żeby jej wpisy widziały już świeże ceny i zniknięcia ofert Smyka.
+    ZADANIA = {'smyk': odswiez_smyka, 'linki': kontrola_linkow}
     for zadanie in zadania_na_dzis():
-        if zadanie != 'smyk' or args.tylko_td:
+        if args.tylko_td:
             continue
         try:
-            ok, podsumowanie = odswiez_smyka()
+            ok, podsumowanie = ZADANIA[zadanie]()
         except Exception as blad:
             ok, podsumowanie = False, str(blad)
-        wynik['_meta'].setdefault('tygodniowe', {})['smyk'] = podsumowanie
+        wynik['_meta'].setdefault('tygodniowe', {})[zadanie] = podsumowanie
         if not ok:
-            wynik['_meta']['bledy']['smyk'] = podsumowanie
-        print(f'smyk: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
+            wynik['_meta']['bledy'][zadanie] = podsumowanie
+        print(f'{zadanie}: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
 
     # Historia cen — jedna linia na zestaw tylko wtedy, gdy cena się ruszyła.
     # Tu, bo Łowca uruchamia ten skrypt codziennie po imporcie feedów, a seria
