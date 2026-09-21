@@ -97,6 +97,7 @@ zmieniają się co przebieg, a ten plik ma być prawdziwy za miesiąc.
 | `zestawy-bez-ceny.py` | W sprzedaży, z podstroną, bez znanej ceny katalogowej | `materialy/zestawy-bez-ceny.xlsx` |
 | `karty-poza-kolejka.py` | Karty Piotra, które wypadają z kolejki redakcyjnej | `materialy/karty-poza-kolejka.xlsx` |
 | `bez-opisu-od-najnowszych.py` | Zestawy bez opisu, od najnowszych | `materialy/zestawy-bez-opisu.xlsx` |
+| `noindex-do-opisania.py` | człowiek na żądanie | **Kolejka hubów z `noindex`** (8 044 pozycje), sortowana: najpierw zestawy z ofertami, potem od najnowszych. Przy każdym: liczba sklepów, długość opisu, czy jest karta Piotra i **czego brakuje do indeksu**. Źródłem prawdy o `noindex` jest zbudowany `dist/`, nie powtórzona reguła — wymaga `npm run build`. `--ile N` = podgląd w konsoli | `materialy/zestawy-noindex.xlsx` |
 | `kolejka-redakcyjna.py` | Kolejka redakcyjna | `materialy/kolejka-redakcyjna.xlsx` |
 | `import-karty.py` | Import kart zestawów z paczek Piotra | `src/data/karty_setow.json` |
 | `import-artykul.py` | człowiek przy materiale Piotra | **DOCX → markdown z niczym zgubionym**: akapity, nagłówki, tabele w ich miejscu oraz **obrazy osadzone** zapisane do `materialy/obrazy-artykulow/<slug>/` ze znacznikiem `<!-- OBRAZ n -->` w treści. Nie pisze frontmattera ani slajderów — to decyzje redakcyjne. `--slug`, `--wyjscie`, `--sucho` |
