@@ -66,6 +66,36 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 12:00 · CODE · Werdykt: Routines odpalane od zera nie mają repo ani konektorów — naprawa tylko z panelu
+
+Jednorazowy trigger testowy (świeża sesja, jak Kontroler) pokazał to już w chwili
+utworzenia: `session_request.config.sources: []`, `mcp_connections: []`, plus
+ostrzeżenie platformy: *„this trigger stores no MCP connectors… If the routine
+needs connectors, create it from the claude.ai routines UI"*. Parametr `connectors`
+w `create_trigger` jest w tej organizacji odrzucany, źródeł API nie przyjmuje wcale.
+Wyniku samej sesji testowej nie da się odczytać z tej sesji (przebiegi odpalane
+przez Routine nie są na liście sesji; `get_session` na `cse_…` zwraca 404) —
+ale konfiguracja rozstrzyga sprawę bez tego.
+
+**Stan triggerów z konta:** Kontroler `sources: None`, „Dane wt 05:30" `sources: None`.
+Oba pushują w promptcie, oba skończą jak 21.09 — pliki + patch na czat.
+
+**Naprawa (decyzja Marka, droga A):** utworzyć oba Routine **z panelu claude.ai**
+z repozytorium `MarekDOLEW/blogoklockach` w źródłach i konektorem
+`Claude_Code_Remote` (Kontroler; „Dane wt" konektora nie potrzebuje). Gotowy prompt
+Kontrolera: `materialy/kontroler-prompt-2026-09-21.md`. Droga B (stała sesja przez
+`create_session(source_url)` + `persistent_session_id`) rozwiązuje repo, ale
+konektora nie gwarantuje i wraca do delete+create przy każdej zmianie promptu —
+gorsza.
+
+Prompt w obecnym triggerze zaktualizowany (`update_trigger`): usunięte fałszywe
+zdanie o „12 minutach", dopisane: co robić przy odmowie proxy (`git format-patch`
++ SendUserFile), pomijanie harmonogramu bez konektora, ostrzeżenie o własnym
+ruchu audytowym w „human". Do czasu decyzji Marka poniedziałek 28.09 pójdzie tą
+samą drogą co 21.09 — z patchem, który nakładam ręcznie.
+
+Trigger testowy skasowany. Sprawdzenie wtorkowego runnera ustawione na 22.09 05:00 UTC.
+
 ## 2026-09-21 09:40 · CODE · Korekta: Kontroler NIE zawiódł — zawiódł dostęp. Patch nałożony, dziura w filtrze botów potwierdzona
 
 Wpis z 09:10 („Kontroler odpalił się i nie zostawił nic") miał **błędną diagnozę**.
