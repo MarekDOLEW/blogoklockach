@@ -57,3 +57,11 @@ klon nie pokazywałby stanu kolejki bez uruchamiania czterech skryptów.
 - **Wynik skryptu** → tam, gdzie skrypt go zapisuje; nie kopiuj ręcznie.
 - **Materiał klienta spoza LEGO** (landing, prezentacja) → **nie do tego repo**.
   Jest publiczne. W tym miesiącu trafiły tu dwa razy przez pomyłkę.
+
+## `obrazy-artykulow/<slug>/`
+
+Obrazy wyciągnięte z DOCX-ów Piotra przez `scripts/import-artykul.py` — po jednym
+katalogu na artykuł. To materiał źródłowy, nie zasób serwisu: leży tu po to, żeby
+było widać, co było w oryginale, i żeby dało się wrócić do grafiki, gdy tekst
+zostanie później poprawiony. Zdjęcia publikowane idą normalną drogą (R2, `/img/`).
+

@@ -99,6 +99,7 @@ zmieniają się co przebieg, a ten plik ma być prawdziwy za miesiąc.
 | `bez-opisu-od-najnowszych.py` | Zestawy bez opisu, od najnowszych | `materialy/zestawy-bez-opisu.xlsx` |
 | `kolejka-redakcyjna.py` | Kolejka redakcyjna | `materialy/kolejka-redakcyjna.xlsx` |
 | `import-karty.py` | Import kart zestawów z paczek Piotra | `src/data/karty_setow.json` |
+| `import-artykul.py` | człowiek przy materiale Piotra | **DOCX → markdown z niczym zgubionym**: akapity, nagłówki, tabele w ich miejscu oraz **obrazy osadzone** zapisane do `materialy/obrazy-artykulow/<slug>/` ze znacznikiem `<!-- OBRAZ n -->` w treści. Nie pisze frontmattera ani slajderów — to decyzje redakcyjne. `--slug`, `--wyjscie`, `--sucho` |
 
 Uwaga do plików `.xlsx`: po każdym uruchomieniu git pokazuje je jako zmienione,
 nawet gdy dane są identyczne — zip zapisuje czas. Zanim zacommitujesz, porównaj

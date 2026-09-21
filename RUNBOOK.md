@@ -1362,6 +1362,37 @@ Plik zawiera też sekcję „Jak czytać nasze dane" — tam mówimy modelowi wp
 działa sito ofert i **żeby nie cytował adresów `/idz/`** (to przekierowania
 afiliacyjne, zablokowane w robots.txt — adresem do podania jest hub).
 
+## Materiały Piotra: DOCX zawsze przez `import-artykul.py` *(od 21.09.2026)*
+
+21.09.2026 z materiału „Jak rosły zestawy LEGO" wypadł wykres. W Wordzie był
+widoczny, w naszej konwersji nie — siedział w dokumencie jako obraz osadzony
+(`word/media/image1.png`, 116 kB), a konwersja czytała wyłącznie akapity.
+Wyszło to **przypadkiem**: w tekście został podpis pod nieistniejącą grafiką.
+Gdyby Piotr nie podpisał wykresu, strata byłaby niewidoczna.
+
+Dlatego artykuły Piotra importujemy **wyłącznie** przez
+`python3 scripts/import-artykul.py <plik.docx> --slug <slug> --wyjscie <plik.md>`:
+
+- akapity i nagłówki jak dotąd,
+- **tabele w miejscu, w którym stoją w dokumencie** (python-docx trzyma je poza
+  listą akapitów, więc ręczna konwersja przenosi je na koniec albo gubi),
+- **każdy obraz zapisany** do `materialy/obrazy-artykulow/<slug>/` i oznaczony
+  w treści znacznikiem `<!-- OBRAZ n: … -->` dokładnie tam, gdzie był,
+- na końcu głośna linia „UWAGA: dokument ma N obrazów" — obraz nie może zniknąć
+  po cichu.
+
+Skrypt **nie** pisze frontmattera, nie dobiera slajderów i nie wstawia znaczników
+cen. To są decyzje redakcyjne i robi je sesja według `redakcja/`.
+
+Co zrobić ze znacznikiem `<!-- OBRAZ n -->`: wykres danych najlepiej odtworzyć
+jako **inline SVG** (jak w `/artykuly/jak-rosly-zestawy-lego/`) — skaluje się,
+czyta go czytnik ekranu i nie wymaga wgrywania pliku do R2. Zdjęcie albo grafika,
+której nie da się odtworzyć, idzie normalnie jako obraz. Wybór zostawia się
+człowiekowi, ale **znacznik nie może zostać w opublikowanym tekście**.
+
+PDF od Piotra jest wtedy kontrolą, nie źródłem: `/Subtype/Image` w pliku mówi,
+ile grafik powinien mieć materiał.
+
 ## Dostępność, nie tylko cena — co który sklep nam mówi *(od 20.09.2026)*
 
 Marek 20.09: „sokoła nie ma w Smyku". Sprawdzone — miał rację: karta 75192 na
