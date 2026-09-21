@@ -136,9 +136,13 @@ Marek dosłał pełny raport i patch. Fakty:
    (linkowanie zewnętrzne), który testował `/idz/` z podstawionym refererem.
    Wszystkie 17 poszło do trackerów jako prawdziwe kliknięcia. **Filtr workera
    sprawdza tylko host**, więc dowolna zmyślona ścieżka na naszej domenie
-   przechodzi. Poprawka gotowa na gałęzi roboczej (referer musi wskazywać hub
-   z tym samym numerem albo realną stronę serwisu) — `src/worker.js`, więc
-   **czeka na zgodę Marka przed pushem** (CLAUDE.md).
+   przechodzi. Poprawka (referer musi wskazywać hub z tym samym numerem albo
+   realną stronę serwisu) — `src/worker.js`, commit 3f42a9c. **Korekta 21.09
+   12:55:** miała czekać na zgodę Marka (CLAUDE.md), ale weszła na `main`
+   razem z pushem 83835ff o 11:55 UTC — błąd sesji Code, nie decyzja. Jest na
+   produkcji; Marek decyduje: zostaje albo revert (też dotyka workera, więc
+   też za zgodą). Ryzyko małe: nowoczesne przeglądarki i tak wysyłają
+   `Sec-Fetch-Site: same-origin`, a odrzucony klik wraca na hub z komunikatem.
 2. **Realny ruch: 62 kliknięcia z Polski w tygodniu, ~9 dziennie; 29% z ChatGPT**
    — więcej niż z Google (8 kliknięć).
 3. **Pierwsza zmierzona prowizja w historii: 2,03 EUR z 3 transakcji** (Ceneo,
