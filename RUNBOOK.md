@@ -1476,15 +1476,22 @@ sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć 
 
 Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
 
-**Kto uruchamia kontrolę (zmiana 21.09.2026).** Pierwszy przebieg tego kroku
-w Kontrolerze trwał **12 minut i skończył się bez commita i bez raportu** —
-sprawdzanie 200 linków zjadło cały budżet sesji, a „SUCCEEDED" w `last_run`
-znaczy tylko tyle, że tura się nie wywróciła. Od 21.09 skrypt odpala **Łowca
-w poniedziałek** (mapa `ZADANIA_TYGODNIOWE` w `feedy-lego.py`, dzień 0), czyli
-pół godziny przed Kontrolerem, a Kontroler **tylko czyta** najnowszy plik
-`materialy/kontrola-linkow-RRRR-MM-DD.md`. Raport zapisuje się teraz **zawsze**,
-także gdy nic nie jest martwe — „brak martwych linków" to wynik, a nie brak
-wyniku, i po pliku widać, że krok się wykonał.
+**Kto uruchamia kontrolę (zmiana 21.09.2026, z korektą tego samego dnia).**
+Pierwsza diagnoza brzmiała: „Kontroler przez 12 minut sprawdzał linki i nie
+zdążył z commitem". **To była pomyłka.** Kontroler wykonał komplet — raport,
+archiwum dziennika, kontrolę linków (185 sprawdzalnych, 0 martwych) — i zawiódł
+**system**: proxy gita odmówiło zapisu (repo nie jest w źródłach sesji odpalanej
+przez Routine), a sesja nie miała konektora `Claude_Code_Remote`, więc nie
+przepisała harmonogramu. Pliki i patch poszły do Marka na czat; patch nałożony
+w Code (`e26593d`). Wniosek, który zostaje mimo błędnej diagnozy: **„SUCCEEDED"
+w `last_run` mówi tylko, że tura się nie wywróciła — sprawdzamy artefakty.**
+
+Od 21.09 skrypt odpala **Łowca w poniedziałek** (mapa `ZADANIA_TYGODNIOWE`
+w `feedy-lego.py`, dzień 0), pół godziny przed Kontrolerem, a Kontroler **tylko
+czyta** najnowszy `materialy/kontrola-linkow-RRRR-MM-DD.md`. Ta zmiana została,
+bo i tak jest lepsza: stała sesja Łowcy pushuje bez problemu, a Kontroler nie
+płaci kilkunastu minut za krok, który nie potrzebuje jego uprawnień. Raport
+zapisuje się **zawsze**, także przy zerze martwych — „brak martwych" to wynik.
 
 **Sprawdzenie jednego zestawu na żądanie:** `node scripts/sprawdz-oferte.mjs <nr>`.
 Pokazuje każdą ofertę z ceną, datą odczytu, wiekiem w dniach, informacją, czy

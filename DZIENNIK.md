@@ -66,6 +66,45 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 09:40 · CODE · Korekta: Kontroler NIE zawiódł — zawiódł dostęp. Patch nałożony, dziura w filtrze botów potwierdzona
+
+Wpis z 09:10 („Kontroler odpalił się i nie zostawił nic") miał **błędną diagnozę**.
+Marek dosłał pełny raport i patch. Fakty:
+
+- Kontroler wykonał komplet: raport 24 kB, archiwum dziennika (12 wpisów),
+  kontrola linków **185 sprawdzalnych / 0 martwych**, mail „Zadania bez
+  właściciela" (5 pozycji) do Marka i Piotra.
+- **Push odrzuciło proxy gita**: „MarekDOLEW/blogoklockach is not in this session's
+  authorized repository set" — repo nie jest w źródłach sesji, którą Routine
+  odpala od zera. Klon działa, zapis nie. Identycznie z tokenem.
+- **Brak konektora `Claude_Code_Remote`** w tej sesji → `list_triggers` nie było
+  czym wywołać → harmonogram nie przepisany. 14.09 ten sam Routine konektor MIAŁ.
+- Kontroler zrobił jedyną słuszną rzecz: wysłał cztery pliki + patch na czat.
+  **Nałożone `git am -3`, bez konfliktów — `e26593d` na main.**
+
+**Co ustalił raport i co z tego wynika (do gruntownej analizy, bo tak prosił Marek):**
+
+1. **53% „ludzkich" kliknięć to nasz audyt.** 17 wejść 16.09 z refererem
+   `https://tylkoklocki.pl/zestaw/x/`, po jednym na sklep — to był mój audyt C
+   (linkowanie zewnętrzne), który testował `/idz/` z podstawionym refererem.
+   Wszystkie 17 poszło do trackerów jako prawdziwe kliknięcia. **Filtr workera
+   sprawdza tylko host**, więc dowolna zmyślona ścieżka na naszej domenie
+   przechodzi. Poprawka gotowa na gałęzi roboczej (referer musi wskazywać hub
+   z tym samym numerem albo realną stronę serwisu) — `src/worker.js`, więc
+   **czeka na zgodę Marka przed pushem** (CLAUDE.md).
+2. **Realny ruch: 62 kliknięcia z Polski w tygodniu, ~9 dziennie; 29% z ChatGPT**
+   — więcej niż z Google (8 kliknięć).
+3. **Pierwsza zmierzona prowizja w historii: 2,03 EUR z 3 transakcji** (Ceneo,
+   Lidl), żadna zatwierdzona. EPC 0,033 EUR/klik → do 20 000 zł w grudniu
+   brakuje mnożnika ~515×.
+4. **Scout bez commita 19 i 20.09** (weekend), przy komplecie w pozostałe dni.
+5. **Google: 8 kliknięć / 295 wyświetleń w 7 dni** — tyle, ile wcześniej w 30.
+   Sitemapa hubów 775 → 1 164. **Strona główna bez crawla od 25.08.**
+
+**Ryzyko na jutro:** „Dane wt 05:30" to też Routine ze świeżą sesją i z pushem
+w promptcie — bez repo w źródłach skończy jak Kontroler. Test dostępu puszczony
+osobnym jednorazowym triggerem.
+
 ## 2026-09-21 09:10 · CODE · Kontroler odpalił się i nie zostawił nic — kontrola linków przeniesiona do Łowcy
 
 Pierwszy poniedziałek z krokiem kontroli linków w promptcie Kontrolera.
