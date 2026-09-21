@@ -10,7 +10,8 @@
 //   1. numer 4–7 cyfr bez zera wiodącego; numer z pola setNumber musi występować
 //      w nazwie — gdy nazwa niesie INNY numer znany katalogowi, wygrywa katalog
 //      (Empik potrafi wpisać w setNumber liczbę elementów albo model auta);
-//   2. gadżety odpadają po rdzeniach nazwy (breloki, gablotki, uchwyty, pościel…);
+//   2. gadżety odpadają po rdzeniach nazwy (breloki, gablotki, uchwyty, pościel…),
+//      obce marki (Playmobil, Cobi…) po nazwie marki — Empik miesza je w „Klockach";
 //   3. próg sanity: cena poniżej 40% ceny katalogowej = zaślepka albo podszywka;
 //   4. do danych wchodzą tylko zestawy, które mają hub (katalog.json / sety.json);
 //   5. z kilku pozycji tego samego numeru zostaje najtańsza;
@@ -36,6 +37,9 @@ if (!plik) { console.error('Użycie: node scripts/empik-import.mjs <lego-empik.j
 
 export const PROG_SANITY = 0.4;
 export const GADZETY = /minifig|figurka\s+lego|instrukcj|pude[lł]k|naklejk|brelo|gablot|uchwyt|mocowan|lampk|latark|plecak|pi[oó]rnik|po[sś]ciel|kubek|zegar|ksi[aą][zż]k|magnes|d[lł]ugopis|notes|zeszyt|skarbonk|o[sś]wietleni|\bled\b|stojak|ramk[aiu]|poduszk|r[eę]cznik|portfel|czapk|puzzle|koszulk|torb|torebk|etui|worek|pisak|kalendarz\s+(?:szkolny|ścienny|biurkowy)|luzem|na\s+wag[eę]|cz[eę][sś]ci\s+lego|zestaw\s+cz[eę][sś]ci/i;
+// Empik miesza w kategorii „Klocki" inne marki (Playmobil, Cobi…) — numer modelu
+// potrafi kolidować z numerem zestawu LEGO (70734, 71417), więc odpadają po nazwie.
+export const OBCE_MARKI = /playmobil|\bcobi\b|\bmega\s*bloks|mega\s*construx|\bsluban\b|\bqman\b|\bcada\b|\bwange\b/i;
 const NUMER = /^[1-9]\d{3,6}$/;
 const numeryZNazwy = (nazwa) => [...String(nazwa ?? '').matchAll(/(?<!\d)([1-9]\d{3,6})(?!\d)/g)].map((m) => m[1]);
 
@@ -66,7 +70,7 @@ const dataZrzutu = dataArg ?? String(zrzut.meta?.scrapedAt ?? '').slice(0, 10);
 if (!/^\d{4}-\d{2}-\d{2}$/.test(dataZrzutu)) { console.error('Brak daty zrzutu (meta.scrapedAt) — podaj --data RRRR-MM-DD'); process.exit(1); }
 if (!Array.isArray(produkty) || produkty.length < 500) { console.error(`Zrzut ma ${produkty?.length ?? 0} pozycji — za mało, żeby wierzyć (oczekiwane ~5 000). Nie importuję.`); process.exit(1); }
 
-const odrzucone = { numer: [], konflikt: [], gadzet: [], sanity: [], spoza: [], cena: [] };
+const odrzucone = { numer: [], konflikt: [], gadzet: [], obca: [], sanity: [], spoza: [], cena: [] };
 const ceny = new Map(); // nr -> {cena, nazwa}
 for (const p of produkty) {
   const nazwa = String(p.name ?? '');
@@ -88,6 +92,7 @@ for (const p of produkty) {
     // setNumber znany, ale nazwa mówi o innym numerze — nie zgadujemy
     odrzucone.konflikt.push(`${nr} vs nazwa [${zNazwy.join(',')}] ${nazwa}`); continue;
   }
+  if (OBCE_MARKI.test(nazwa)) { odrzucone.obca.push(`${nr} ${nazwa} (${cena} zł)`); continue; }
   if (GADZETY.test(nazwa)) { odrzucone.gadzet.push(`${nr} ${nazwa} (${cena} zł)`); continue; }
   if (!maHub(nr)) { odrzucone.spoza.push(`${nr} ${nazwa}`); continue; }
   const kat = rrp(nr);
@@ -139,7 +144,7 @@ for (const [nr, { cena }] of ceny) {
 
 // ── raport ───────────────────────────────────────────────────────────────────
 console.log(`Zrzut Empiku z ${dataZrzutu}: ${produkty.length} pozycji → ${ceny.size} cen po filtrach.`);
-console.log(`Odrzucone: gadżety ${odrzucone.gadzet.length}, sanity (<${PROG_SANITY * 100}% RRP) ${odrzucone.sanity.length}, konflikt numeru ${odrzucone.konflikt.length}, zły numer ${odrzucone.numer.length}, spoza katalogu ${odrzucone.spoza.length}, bez ceny ${odrzucone.cena.length}.`);
+console.log(`Odrzucone: gadżety ${odrzucone.gadzet.length}, obca marka ${odrzucone.obca.length}, sanity (<${PROG_SANITY * 100}% RRP) ${odrzucone.sanity.length}, konflikt numeru ${odrzucone.konflikt.length}, zły numer ${odrzucone.numer.length}, spoza katalogu ${odrzucone.spoza.length}, bez ceny ${odrzucone.cena.length}.`);
 console.log(`oferty_feed: nowe ${nowe}, zmiany ${zmiany}, bez zmian ${bezZmian}, usunięte (brak w zrzucie) ${usuniete}; sety.json: ${setyZmienione} ofert empik zapisanych, ${setyUsuniete} usuniętych; ceny_baza: ${noweMinima.length} nowych minimów.`);
 for (const [k, lista] of Object.entries(odrzucone)) if (lista.length) { console.log(`\n${k} (${lista.length}, pierwsze 15):`); for (const x of lista.slice(0, 15)) console.log('  ' + x); }
 if (noweMinima.length) console.log('\nnowe minima: ' + noweMinima.slice(0, 20).join(', ') + (noweMinima.length > 20 ? ' …' : ''));

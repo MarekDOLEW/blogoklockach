@@ -66,6 +66,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 12:50 · CODE · Zrzut Empiku z 21.09 wgrany: 4 370 cen, 4 775 deeplinków
+
+Cowork (skill `klocki-ceny-empik`) dostarczył 5 309 pozycji z trzech przebiegów
+listingu — Empik ucina każde sortowanie po ~4 860 pozycjach, więc `priceAsc`
+i `priceDesc` zostawiały lukę ok. 170–234 zł; trzeci przebieg z filtrem
+`priceFrom=150&priceTo=260` domknął katalog (11 153 z 11 155). Zapisane w skillu
+i przepakowane (`skille/klocki-ceny-empik.skill` — do wgrania na claude.ai).
+
+Import (`empik-import.mjs`): 4 370 cen (było 3 947), 571 nowych, 1 268 zmian,
+148 setów straciło cenę Empiku (świeżość nadrzędna), 34 nowe minima w `ceny_baza`.
+Nowy filtr `OBCE_MARKI` — Empik miesza w „Klockach" Playmobil i CaDA, a numery
+70734/71417 kolidują z zestawami LEGO; 13 pozycji odrzuconych po nazwie marki.
+`empik-redirects.mjs --usun-martwe`: 4 480 → 4 775 (325 nowych, 261
+zaktualizowanych, 30 martwych skasowanych). Liczba setów w feedzie 8 285 → 8 545,
+`sety.json` i `ceny_baza` bez ubytków. Sokoła 75192 w zrzucie nie ma — Empik
+go nie sprzedaje, hub pokazuje pozostałe sklepy.
+
 ## 2026-09-21 12:00 · CODE · Werdykt: Routines odpalane od zera nie mają repo ani konektorów — naprawa tylko z panelu
 
 Jednorazowy trigger testowy (świeża sesja, jak Kontroler) pokazał to już w chwili

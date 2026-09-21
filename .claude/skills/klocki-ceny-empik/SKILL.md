@@ -27,11 +27,21 @@ mediana ~220 zł.
    (~200 stron po ~60 pozycji). Nie loguj się, nie dodawaj niczego
    do koszyka.
 
-   **UWAGA — sortowanie domyślne się zapętla**: po ~4 000 setów kolejne
-   strony zaczynają powtarzać te same produkty i pełnego katalogu nie
-   widać. Przejdź katalog **dwa razy: z `sort=priceAsc` i z
-   `sort=priceDesc`**, a wyniki połącz po numerze setu — dopiero suma obu
-   przebiegów pokrywa całość (ustalenie z przebiegu 31.08.2026).
+   **UWAGA — listing ucina się po ~4 860 pozycjach w każdym sortowaniu**
+   (sortowanie domyślne dodatkowo zapętla się po ~4 000). Katalog ma
+   ~11 000 pozycji, więc dwa przebiegi (`sort=priceAsc` dochodzi do
+   ~170 zł, `sort=priceDesc` schodzi do ~234 zł) zostawiają lukę w
+   środku drabiny cenowej. Przejdź katalog **trzy razy**:
+   `sort=priceAsc`, `sort=priceDesc` oraz trzeci przebieg z filtrem
+   ceny obejmującym lukę z zapasem (`priceFrom=150&priceTo=260`;
+   granice odczytaj z ostatnich stron dwóch pierwszych przebiegów).
+   Wyniki połącz po numerze setu i porównaj z liczbą pozycji, którą
+   Empik podaje w nagłówku kategorii — 21.09.2026 trzy przebiegi dały
+   11 153 z 11 155 (ustalenia z przebiegów 31.08 i 21.09.2026).
+
+   W kategorii „Klocki" Empik miesza inne marki (Playmobil, Cobi…) —
+   zostaw je w zrzucie, filtr po nazwie marki robi import
+   (`scripts/empik-import.mjs`, `OBCE_MARKI`).
 
 2. **Z każdej karty produktu na listingu zbierz:**
    - pełną nazwę produktu,

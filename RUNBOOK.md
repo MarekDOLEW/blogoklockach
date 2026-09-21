@@ -1155,9 +1155,11 @@ Zapis przez `json-kolejnosc.mjs`, walidacja liczby wpisów.
 
 Plik wrzucasz **do Code** (jak każdy załącznik) albo do sesji Łowcy z notką
 „uruchom `node scripts/empik-import.mjs lego-empik.json`, potem
-`empik-redirects.mjs --usun-martwe`". Stan 16.09.2026: 3 947 cen ze zrzutu
-z 15.09, 4 480 deeplinków (`redirects.empik`), 13 cen dla numerów spoza
-katalogu (bez huba, nieobsługiwane). Smyk i lego.pl mają własne cotygodniowe
+`empik-redirects.mjs --usun-martwe`". Stan 21.09.2026: 4 370 cen ze zrzutu
+z 21.09 (5 309 pozycji po trzech przebiegach listingu — zob. skill), 4 775
+deeplinków (`redirects.empik`, 30 martwych skasowanych), 13 obcych marek
+(Playmobil, CaDA) odrzuconych po nazwie (`OBCE_MARKI` w imporcie), 334 numery
+spoza katalogu (bez huba, nieobsługiwane). Smyk i lego.pl mają własne cotygodniowe
 odświeżenie (sekcje „Smyk" i „lego.pl" w tym pliku).
 
 ---
