@@ -1328,3 +1328,9 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .prose .slownik-indeks a:hover { border-bottom-color: var(--zolty-ciemny); }
 @media (max-width: 720px) { .prose .slownik-indeks { columns: 2; column-gap: 20px; } }
 @media (max-width: 420px) { .prose .slownik-indeks { columns: 1; } }
+
+/* Wykres w treści artykułu (inline SVG — bez biblioteki, bez JS, skaluje się
+   z szerokością kolumny). Opis dla czytnika ekranu siedzi w <title>/<desc>
+   samego SVG, a pod wykresem stoi ta sama tabela z liczbami — kto nie widzi
+   grafiki, dostaje dane, a nie informację „wykres". */
+.prose .wykres { width: 100%; height: auto; margin: 18px 0 10px; display: block; }

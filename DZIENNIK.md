@@ -65,6 +65,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 05:20 · MAREK → CODE · Brakujący wykres z PDF-a Piotra wstawiony jako SVG
+
+Marek dosłał PDF z materiałem o wzroście zestawów — był w nim wykres, którego nie
+miał DOCX. Wczoraj zbudowałem w jego miejsce tabelę z liczb rozsianych po prozie
+i zostawiłem kreskę przy latach 90., bo Piotr nie podał tam udziału ≥500 elementów.
+
+Wykres ma wszystkie sześć punktów obu serii, więc:
+
+- **kreska zniknęła** — lata 90. to **7,5%** zestawów ≥500 elementów,
+- liczby są teraz dokładne zamiast „około": 3 / 5,2 / 7,5 / 13,4 / 16,8 / **28,9%**
+  dla ≥500 oraz 0 / 0 / 1,1 / 3,9 / 5,8 / **13%** dla ≥1000,
+- zgadzają się co do jednego z prozą Piotra („prawie 29 procent", „blisko sześć"),
+  więc tabela i tekst mówią to samo.
+
+Wykres odtworzony jako **inline SVG** (`.wykres` w `global.css`): bez biblioteki,
+bez JS, skaluje się z szerokością kolumny. Pod nim została tabela z tymi samymi
+liczbami — kto nie widzi grafiki, dostaje dane, a nie komunikat „wykres".
+Opis dla czytnika ekranu siedzi w `<title>`/`<desc>` SVG i wymienia wszystkie
+wartości.
+
 ## 2026-09-21 05:00 · CODE · Cała piątka Piotra na stronie + Smyk: 8 zestawów straciło cenę
 
 **Opublikowane cztery pozostałe teksty** (ranking wyszedł 20.09):

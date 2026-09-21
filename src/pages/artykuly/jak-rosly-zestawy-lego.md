@@ -107,14 +107,70 @@ Szersze dane prowadzą do ważniejszego wniosku. Do końca pierwszej dekady XXI 
 
 Duże zestawy stają się coraz częstsze
 
+<svg class="wykres" viewBox="0 0 820 420" role="img" xmlns="http://www.w3.org/2000/svg" aria-labelledby="wykres-tytul wykres-opis">
+<title id="wykres-tytul">Duże zestawy stają się coraz częstsze</title>
+<desc id="wykres-opis">Udział zestawów o co najmniej 500 i co najmniej 1000 elementów w ofercie LEGO, od lat 70. do 2026 roku. 1977–1979: 3% i 0%; Lata 80.: 5,2% i 0%; Lata 90.: 7,5% i 1,1%; Lata 2000.: 13,4% i 3,9%; Lata 2010.: 16,8% i 5,8%; 2020–2026: 28,9% i 13%.</desc>
+<line x1="70" y1="360.0" x2="790" y2="360.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="364.0" text-anchor="end" font-size="13" fill="#4a5670">0%</text>
+<line x1="70" y1="310.0" x2="790" y2="310.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="314.0" text-anchor="end" font-size="13" fill="#4a5670">5%</text>
+<line x1="70" y1="260.0" x2="790" y2="260.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="264.0" text-anchor="end" font-size="13" fill="#4a5670">10%</text>
+<line x1="70" y1="210.0" x2="790" y2="210.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="214.0" text-anchor="end" font-size="13" fill="#4a5670">15%</text>
+<line x1="70" y1="160.0" x2="790" y2="160.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="164.0" text-anchor="end" font-size="13" fill="#4a5670">20%</text>
+<line x1="70" y1="110.0" x2="790" y2="110.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="114.0" text-anchor="end" font-size="13" fill="#4a5670">25%</text>
+<line x1="70" y1="60.0" x2="790" y2="60.0" stroke="#dde1e8" stroke-width="1"/>
+<text x="58" y="64.0" text-anchor="end" font-size="13" fill="#4a5670">30%</text>
+<text x="70.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">1977–1979</text>
+<text x="214.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">Lata 80.</text>
+<text x="358.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">Lata 90.</text>
+<text x="502.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">Lata 2000.</text>
+<text x="646.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">Lata 2010.</text>
+<text x="790.0" y="384" text-anchor="middle" font-size="13" fill="#17233f">2020–2026</text>
+<polyline points="70.0,360.0 214.0,360.0 358.0,349.0 502.0,321.0 646.0,302.0 790.0,230.0" fill="none" stroke="#8b93a5" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="70.0" cy="360.0" r="5" fill="#8b93a5"/>
+<text x="70.0" y="380.0" text-anchor="middle" font-size="13" fill="#8b93a5">0%</text>
+<circle cx="214.0" cy="360.0" r="5" fill="#8b93a5"/>
+<text x="214.0" y="380.0" text-anchor="middle" font-size="13" fill="#8b93a5">0%</text>
+<circle cx="358.0" cy="349.0" r="5" fill="#8b93a5"/>
+<text x="358.0" y="369.0" text-anchor="middle" font-size="13" fill="#8b93a5">1,1%</text>
+<circle cx="502.0" cy="321.0" r="5" fill="#8b93a5"/>
+<text x="502.0" y="341.0" text-anchor="middle" font-size="13" fill="#8b93a5">3,9%</text>
+<circle cx="646.0" cy="302.0" r="5" fill="#8b93a5"/>
+<text x="646.0" y="322.0" text-anchor="middle" font-size="13" fill="#8b93a5">5,8%</text>
+<circle cx="790.0" cy="230.0" r="5" fill="#8b93a5"/>
+<text x="790.0" y="250.0" text-anchor="middle" font-size="13" fill="#8b93a5">13%</text>
+<polyline points="70.0,330.0 214.0,308.0 358.0,285.0 502.0,226.0 646.0,192.0 790.0,71.0" fill="none" stroke="#17233f" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="70.0" cy="330.0" r="5" fill="#17233f"/>
+<text x="70.0" y="316.0" text-anchor="middle" font-size="13" fill="#17233f">3%</text>
+<circle cx="214.0" cy="308.0" r="5" fill="#17233f"/>
+<text x="214.0" y="294.0" text-anchor="middle" font-size="13" fill="#17233f">5,2%</text>
+<circle cx="358.0" cy="285.0" r="5" fill="#17233f"/>
+<text x="358.0" y="271.0" text-anchor="middle" font-size="13" fill="#17233f">7,5%</text>
+<circle cx="502.0" cy="226.0" r="5" fill="#17233f"/>
+<text x="502.0" y="212.0" text-anchor="middle" font-size="13" fill="#17233f">13,4%</text>
+<circle cx="646.0" cy="192.0" r="5" fill="#17233f"/>
+<text x="646.0" y="178.0" text-anchor="middle" font-size="13" fill="#17233f">16,8%</text>
+<circle cx="790.0" cy="71.0" r="5" fill="#17233f"/>
+<text x="790.0" y="57.0" text-anchor="middle" font-size="13" fill="#17233f">28,9%</text>
+<line x1="70" y1="28" x2="104" y2="28" stroke="#17233f" stroke-width="3"/><circle cx="87" cy="28" r="5" fill="#17233f"/>
+<text x="114" y="33" font-size="14" fill="#17233f">Co najmniej 500 elementów</text>
+<line x1="360" y1="28" x2="394" y2="28" stroke="#8b93a5" stroke-width="3"/><circle cx="377" cy="28" r="5" fill="#8b93a5"/>
+<text x="404" y="33" font-size="14" fill="#4a5670">Co najmniej 1000 elementów</text>
+<text x="18" y="210" font-size="13" fill="#4a5670" transform="rotate(-90 18 210)" text-anchor="middle">Udział zestawów</text>
+</svg>
+
 | Okres | Zestawy ≥ 500 elementów | Zestawy ≥ 1000 elementów |
 |---|---|---|
-| 1977–1979 | ok. 3% | pojedyncze przypadki |
-| Lata 80. | ok. 5% | brak |
-| Lata 90. | — | ok. 1% |
-| Lata 2000. | ponad 13% | prawie 4% |
-| Lata 2010. | prawie 17% | blisko 6% |
-| 2020–2026 | prawie 29% | ok. 13% |
+| 1977–1979 | 3% | 0% |
+| Lata 80. | 5,2% | 0% |
+| Lata 90. | 7,5% | 1,1% |
+| Lata 2000. | 13,4% | 3,9% |
+| Lata 2010. | 16,8% | 5,8% |
+| 2020–2026 | 28,9% | 13% |
 
 Źródło i zakres danych jak w tabeli powyżej. Ostatni okres obejmuje lata 2020–2026.
 
