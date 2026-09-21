@@ -65,6 +65,38 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 05:00 · CODE · Cała piątka Piotra na stronie + Smyk: 8 zestawów straciło cenę
+
+**Opublikowane cztery pozostałe teksty** (ranking wyszedł 20.09):
+
+| Artykuł | Kategoria | Znaków |
+|---|---|---|
+| `/artykuly/historia-licencji-lego-poczatki/` | Historyczne | 13 100 |
+| `/artykuly/historia-licencji-lego-star-wars-minecraft/` | Historyczne | 15 400 |
+| `/artykuly/historia-licencji-lego-gry-sport-lifestyle/` | Historyczne | 14 200 |
+| `/artykuly/jak-rosly-zestawy-lego/` | Historyczne | 13 500 |
+
+Trzy części historii licencji linkują się wzajemnie (część 3 domyka serię odsyłaczem
+do obu poprzednich), tekst o wielkości zestawów linkuje do rankingu najdroższych,
+a ranking do artykułu o wycofaniach. **Zero martwych linków wewnętrznych** — sprawdzone
+skryptem po buildzie na wszystkich artykułach.
+
+Do tekstu o wzroście zestawów przeniosłem z DOCX-a dwie tabele (średnia/mediana/próg
+10% per dekada oraz elementy kontra wymiary modelu) i **dorobiłem trzecią**: udział
+zestawów ≥500 i ≥1000 elementów per dekada, złożony z liczb rozsianych po prozie
+Piotra. Powód: tekst miał podpis „Duże zestawy stają się coraz częstsze" pod wykresem,
+którego nie dostaliśmy — zamiast usuwać podpis, dołożyliśmy dane, które go bronią.
+Dla lat 90. udział ≥500 elementów zostaje kreską, bo Piotr go nie podał.
+
+**Smyk po pełnym odświeżeniu 704 kart** (uwaga Marka: „sokoła nie ma w Smyku"):
+ofert 668 → 663, **8 zestawów straciło cenę** (10440, 21267, 30722, 42233, 72041,
+**75192**, 75412, 76307), 3 doszły. Sokół Millennium zniknął ze Smyka — czyli
+z tabeli tego zestawu zeszła najniższa cena, która nie była do zrealizowania.
+
+Od 25.09 Smyk odświeża się w piątki (`feedy-lego.py`, mapa `ZADANIA_TYGODNIOWE`),
+niezależnie od wtorkowego Routine — dostępność najwyżej czterodniowa zamiast
+siedmiodniowej.
+
 ## 2026-09-20 17:45 · CODE · Ranking najdroższych zestawów (Piotr) + ustalenie: „styczeń 2027" nie istnieje jako termin wycofań
 
 **Artykuł Piotra opublikowany:** `/artykuly/najdrozsze-zestawy-lego/` (Rankingi),
