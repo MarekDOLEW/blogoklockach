@@ -33,6 +33,8 @@ Co ważniejsze, linia bardzo szybko pokazała swoją siłę biznesową. W raporc
 
 Ten układ będzie powtarzał się przez kolejne lata. Licencje rosły, ale nie zastępowały automatycznie własnych pomysłów LEGO.
 
+<div class="galeria-setow" data-sety="71043,76476,76417"></div>
+
 ## Kryzys LEGO nie był historią wyłącznie o licencjach
 
 To szczególnie ważne, gdy dochodzimy do początku lat 2000. LEGO znalazło się wtedy w poważnych problemach finansowych. Rok 2003 zakończył się spadkiem sprzedaży o 26 procent i stratą przed opodatkowaniem przekraczającą 1,4 mld koron duńskich. W 2004 roku firma rozpoczęła głęboką restrukturyzację, a w kolejnym raporcie pisała wprost, że na początku 2004 roku jej przetrwanie jako niezależnej firmy rodzinnej było zagrożone.
@@ -80,6 +82,8 @@ Minecraft był czymś innym. Pierwszy zestaw wyrósł z LEGO CUUSOO, czyli poprz
 To jeden z najważniejszych momentów w historii licencji LEGO, bo kierunek przepływu pomysłu był inny niż wcześniej. Impuls nie wyszedł wyłącznie z rozmów dwóch korporacji o tym, jak wykorzystać nowy film. Najpierw społeczność pokazała, że chce połączenia Minecrafta z LEGO, a dopiero później pojedynczy projekt przekształcił się w trwałą serię.
 
 Trudno było zresztą znaleźć dwie marki lepiej do siebie pasujące. Minecraft i LEGO opierają się na budowaniu świata z prostych elementów, więc licencja nie nakładała na system konstrukcyjny obcej logiki. W pewnym sensie cyfrowy świat już wcześniej zachowywał się jak przestrzeń zbudowana z klocków.
+
+<div class="galeria-setow" data-sety="21267,21268,10316,11377"></div>
 
 ## LEGO Ideas otworzyło boczne drzwi dla znanych marek
 

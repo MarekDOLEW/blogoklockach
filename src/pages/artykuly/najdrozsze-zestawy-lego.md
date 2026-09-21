@@ -75,6 +75,8 @@ samych danych co podstrony zestawów.
 Już z tego zestawienia widać najważniejszy wniosek: kolejność katalogowa
 przestaje odpowiadać rzeczywistym kosztom zakupu mniej więcej od piątego miejsca.
 
+<div class="galeria-setow" data-sety="75419,75192,21065,10294,10307"></div>
+
 ## Gwiazda Śmierci tworzy własną kategorię
 
 Na pierwszym miejscu nie ma wątpliwości. 4199,99 zł to o 600 zł więcej niż drugi

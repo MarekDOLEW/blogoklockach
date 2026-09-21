@@ -91,6 +91,8 @@ Jeszcze dalej idzie Nike. Ogłoszone w 2025 roku wieloletnie partnerstwo obejmuj
 
 Trudno taką współpracę sprowadzić do słowa „licencja” w rozumieniu znanym z początku wieku. To raczej wspólne wykorzystanie siły dwóch marek i dwóch społeczności.
 
+<div class="galeria-setow" data-sety="42232,10366,76476"></div>
+
 ## Streaming przyspieszył wejście nowych światów do LEGO
 
 Równolegle tradycyjna licencja filmowo-telewizyjna wcale nie zniknęła. Zmieniło się jednak źródło najgłośniejszych nowych marek.
@@ -106,6 +108,8 @@ Nie oznacza to, że LEGO automatycznie zamienia każdy internetowy hit w zestaw.
 W 2026 roku do portfolio LEGO dołączył jeszcze jeden gigant świata gier — Pokémon. Samo wejście tej marki byłoby już wydarzeniem, ale ciekawsza jest forma całej linii.
 
 LEGO Pokémon obejmuje zarówno zestawy do interaktywnej zabawy z wykorzystaniem platformy SMART Play, jak i modele 18+ przeznaczone przede wszystkim do budowania i ekspozycji. W jednej licencji mieszczą się więc dziecięca zabawa, technologia, minifigurki, figurki Pokémonów oraz kolekcjonerskie modele dla dorosłych.
+
+<div class="galeria-setow" data-sety="72153,72041"></div>
 
 To dobry kontrast z pierwszymi latami Harry’ego Pottera czy Batmanem z połowy lat 2000. Wtedy licencja zazwyczaj miała dość czytelną grupę odbiorców i jeden podstawowy język produktu. Dzisiaj duże IP może jednocześnie obsługiwać kilka zupełnie różnych rodzajów LEGO.
 

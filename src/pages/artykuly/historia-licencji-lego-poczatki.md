@@ -101,4 +101,6 @@ Przez większą część XX wieku zewnętrzne marki były dodatkiem do świata b
 
 Od tej chwili można było wziąć kompletny, istniejący wcześniej świat – jego bohaterów, pojazdy, miejsca, symbole i fabułę – i przełożyć go na język klocków. To dlatego 1999 rok można traktować jako początek nowoczesnej ery licencji LEGO, mimo że sama historia współpracy z zewnętrznymi markami jest znacznie starsza.
 
+<div class="galeria-setow" data-sety="75192,75419,75367,75397"></div>
+
 W kolejnych latach do Star Wars dołączyły Harry Potter, Spider-Man, Ferrari, Batman, Indiana Jones i dziesiątki innych marek. Licencja przestała być eksperymentem i stała się jednym z podstawowych sposobów budowania portfolio LEGO. O tym jest [druga część tej historii](/artykuly/historia-licencji-lego-star-wars-minecraft/).

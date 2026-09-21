@@ -99,6 +99,8 @@ Liczba elementów a rozmiar modelu po zbudowaniu
 
 Wymiary zaokrąglone na podstawie oficjalnych danych LEGO. Liczba elementów nie jest miarą objętości ani miejsca potrzebnego do ekspozycji.
 
+<div class="galeria-setow" data-sety="31203,10307,10294,75252"></div>
+
 ## Najważniejsza zmiana zaszła poniżej rekordu
 
 Jeżeli spojrzymy wyłącznie na rekordzistów, historia LEGO przypomina serię gwałtownych skoków: około tysiąca elementów pod koniec lat 70., niespełna 1800 w połowie lat 90., prawie 6000 w 2008 roku i ponad 11 000 w 2021. Taki wykres jest efektowny, lecz pokazuje tylko najwyższy punkt każdej epoki.

@@ -65,6 +65,33 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-21 05:25 · MAREK → CODE · Slajdery w piątce tekstów Piotra; pozostałe PDF-y bez grafik
+
+Marek: „dodajmy do artykułów 1–2 slajdery w treści z kilkoma zdjęciami
+przykładowymi". Zrobione — **7 slajderów, 25 zdjęć**, wszystkie z naszych danych
+(znacznik `galeria-setow`, więc miniatury idą z R2 i klikają się w huby):
+
+| Artykuł | Slajdery |
+|---|---|
+| Historia licencji cz. 1 | 1 — dzisiejsze Star Wars (75192, 75419, 75367, 75397) przy akapicie o 1999 jako początku ery |
+| Historia licencji cz. 2 | 2 — Harry Potter i Gringott przy sekcji o HP; Minecraft i Śródziemie przy roku 2012 |
+| Historia licencji cz. 3 | 2 — Pokémon i Mario przy sekcji o szerokich licencjach; Technic, akwarium i HP 18+ przy partnerstwach lifestyle |
+| Najdroższe zestawy | 1 — pięć pierwszych miejsc rankingu, zaraz pod tabelą |
+| Jak rosły zestawy | 1 — World Map, Wieża Eiffla, Titanic, Star Destroyer pod tabelą wymiarów |
+
+Zero pustych slajdów — sprawdzone po buildzie. Do galerii nie weszły **75457
+Executor** i **72306 PlayStation**, bo nie mamy dla nich zdjęć; zamiast pustych
+kafelków są zestawy, które je mają. Po dopisaniu zdjęć warto je dołożyć.
+`r2-obrazy.mjs`: 11 152 obiekty w R2, brakujących 0.
+
+**Sprawdzone przy okazji: pozostałe cztery PDF-y Piotra nie mają żadnych grafik**
+(`/Subtype/Image` = 0 w każdym z nich). Wykres był wyłącznie w tekście o wzroście
+zestawów i już jest w serwisie. Czyli konwersja DOCX → nasz markdown niczego nie
+zgubiła w trzech częściach historii licencji ani w rankingu.
+
+→ Ustalenie robocze: przy materiałach Piotra bierzemy DOCX na tekst, a PDF jako
+kontrolę, czy nie ma w środku grafiki. Dziś PDF-y potwierdziły komplet.
+
 ## 2026-09-21 05:20 · MAREK → CODE · Brakujący wykres z PDF-a Piotra wstawiony jako SVG
 
 Marek dosłał PDF z materiałem o wzroście zestawów — był w nim wykres, którego nie
