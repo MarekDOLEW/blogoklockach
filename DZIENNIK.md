@@ -537,6 +537,12 @@ bazy.
 sezonie i wypada na trzy miesiące przed świętami. Warto go wziąć w poniedziałek
 w całości, a nie w kawałkach.
 
+→ Wycofania 2026-09-21: dopisane — z artykułu wyciągnięto 246 numerów, 88
+brakujących dodano jako potwierdzone/grudzień 2026 (dane z katalog.json,
+źródło StoneWars); do tego 2 pozycje widoczne tylko w PL dziale (71051, 71052).
+Dział „Ostatnie sztuki" na lego.com/pl-pl potwierdza falę: 369 produktów
+(tydzień temu 30). Breloczki i minipuzzle z działu pominięte jako gadżety.
+
 ## 2026-09-16 16:20 · CODE · Linki do sklepów i Ceneo w nowej karcie (decyzja Marka)
 
 Wszystkie anchory `/idz/…` mają `target="_blank"` w szablonach (TabelaCen ×3,
