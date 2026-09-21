@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-20"
+zaktualizowano: "2026-09-21"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,9 +21,8 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">do 19.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#batman-day"><b>Batman Day</b> – podwójne punkty na serię Batman i gratis 30726 od 165 zł, tylko na LEGO.com</a></li>
-<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo, przy zakupach od ok. 430 zł</a></li>
-<li><span class="okna__data">21–30.09</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo – próg sporny, 375 albo 430 zł</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
@@ -110,13 +109,13 @@ Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu 
 
 <h2 id="halloween">Wrzesień: dwa gratisy halloweenowe, 21–30.09 <span class="status status--maybe">przewidywane</span></h2>
 
-**Gratis halloweenowy: 40900 Straszne nawiedzone drzewo (218 elementów), 21–30 września**, przy zakupach od około **430 zł**. Próg podnieśliśmy 20 września: serwis branżowy, z którego go bierzemy, sam podawał wcześniej około 375 zł i skorygował tę liczbę w swoim poradniku – dalej oznacza ją jako niepotwierdzoną. Traktuj 430 zł jako orientacyjne i sprawdź w koszyku przed zapłatą. Ten gratis obejmuje **zarówno sklep internetowy, jak i salony stacjonarne**. Wcześniej spodziewaliśmy się go dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
+**Gratis halloweenowy: 40900 Straszne nawiedzone drzewo (218 elementów), 21–30 września.** Okno rusza dziś, ale **progu nikt nie potwierdził i dwa serwisy branżowe podają dwie różne kwoty: około 375 zł i około 430 zł**. Oba oznaczają swoją liczbę jako niepewną, a LEGO nie ogłosiło warunków publicznie. My tego nie rozstrzygniemy za Ciebie: **włóż zestawy do koszyka i sprawdź, przy jakiej kwocie doskoczy gratis** – to jedyny pewny sposób. Jeśli planujesz zakup pod sam próg, licz się z 430 zł, a nie z 375 zł. Ten gratis obejmuje **zarówno sklep internetowy, jak i salony stacjonarne**. Wcześniej spodziewaliśmy się go dopiero pod koniec października; okazuje się, że LEGO wchodzi z Halloween wcześniej.
 
 **W tym samym oknie krążą kody partnerskie na drugi gratis** – 40772 Świecący duszek (167 elementów), przy progu **równo 500 zł** z dowolnej serii, i **wyłącznie w sklepie internetowym**. Kodów nie rozdajemy i nie musisz ich szukać: ważniejsze jest to, co z nich wynika.
 
 **Czy oba gratisy wpadną do jednego koszyka – tego nie wiadomo.** Ten sam serwis branżowy najpierw pisał, że upominek z kodu najprawdopodobniej zajmuje jeden z trzech slotów nagrody Insiders, a w poradniku z 19 września liczy już korzyść tak, jakby oba gratisy wpadały razem przy 500 zł. Te dwie rzeczy się wykluczają i żadnej z nich nie potwierdziło LEGO. Zakładaj więc jeden gratis, a drugi potraktuj jako premię – i sprawdź koszyk przed zapłatą.
 
-Jeśli masz wybrać jeden, licz progi: **430 zł do drzewa jest niżej niż 500 zł do duszka**, a drzewo dostaniesz też w salonie.
+Jeśli masz wybrać jeden, wybierz drzewo: jego próg jest niższy przy obu krążących kwotach, a sam gratis dostaniesz również w salonie stacjonarnym.
 
 **Czym dobić do progu, żeby nie dokładać drobnicy.** Na LEGO.com nie ma teraz sensownych przecen, więc próg 430 czy 500 zł najrozsądniej zapełnić czymś, co i tak zniknie: zestawami z [potwierdzonej listy wycofań na koniec roku](/artykuly/wycofania-lego-grudzien-2026/). Uwaga, która wynika z naszych własnych danych, a nie z kalendarza promocji: **co czwarty wycofywany zestaw jest już dziś droższy od ceny katalogowej**, więc przed dorzuceniem czegokolwiek do koszyka sprawdź tabelę cen na podstronie zestawu. Gratis nie ratuje zakupu zrobionego powyżej cennika.
 
@@ -138,6 +137,7 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 | Gratis (GWP) | Warunek | Uwaga |
 |---|---|---|
 | 40897 Świetlny miecz Dartha Vadera (174 el.) | zakup [75457](/zestaw/75457/) | 1–7.10, do wyczerpania zapasów |
+| 40899 Astrobot | zakupy od **650 zł** (kwota do potwierdzenia) | 1–7.10 |
 
 **Co z tego wynika praktycznie.** Gratis idzie do wyczerpania zapasów, a nie do końca okna – przy zestawie tej rangi trzy dni przewagi Insiders mają realne znaczenie. Jeśli celujesz w Executora z mieczem, **konto Insiders trzeba mieć założone przed 1 października**, nie w dniu premiery. Dochodzi do tego zmiana, którą LEGO wprowadziło w sierpniu: punkty Insiders schodzą z konta dopiero przy złożeniu zamówienia, a nie przy odbiorze nagrody. Nie ma więc powodu wydawać ich wcześniej „na zaś" – można spokojnie poczekać z decyzją do premiery.
 
