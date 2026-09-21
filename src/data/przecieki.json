@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-16"
+  "zaktualizowano": "2026-09-21"
  },
  "przecieki": [
   {
@@ -321,6 +321,36 @@
    ],
    "dodano": "2026-09-15",
    "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40899",
+   "numer": "40899",
+   "nazwa": "Astro Bot — gratis do konsoli PlayStation",
+   "seria": "PlayStation",
+   "elementy": 276,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks — przeciek z Reddita",
+     "url": "https://www.promobricks.de/astrobot-lego-sony-playstation-konsole/",
+     "data": "2026-09-09"
+    },
+    {
+     "nazwa": "PromoBricks — „AstroBot Set als Gratis-Zugabe Anfang Oktober”",
+     "url": "https://www.promobricks.de/",
+     "data": "2026-09-21"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu (dowód katalogowy)",
+     "url": "https://brickset.com/sets/40899-1",
+     "data": "2026-09-18"
+    }
+   ],
+   "dodano": "2026-09-21",
+   "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.",
    "rozstrzygniecie": null
   }
  ]

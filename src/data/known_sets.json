@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-18",
+  "data_aktualizacji": "2026-09-21",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1173,
   "sety": [
@@ -1463,6 +1463,42 @@
       "numer": "30761",
       "nazwa": "Technic — rezerwacja 2027",
       "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11394",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11396",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11410",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30756",
+      "nazwa": "Pokémon — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "31222",
+      "nazwa": "Art — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "31224",
+      "nazwa": "Art — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
       "premiera": "2027"
     }
   ],
@@ -5834,7 +5870,8 @@
     "bledy_metody": "Do 2026-09-04 Scout pytal Brickset tylko o rocznik 2026 i o zmiany przyrostowe. Fala Super Mario 2027 wisiala w katalogu od 2026-08-27 i zostala przeoczona. Poprawka: raz w tygodniu pelny przeglad rocznika 2027, nie tylko updatedSince.",
     "korekta_2026_09_06": "Wczorajsze liczby (222/211) liczylem filtrem category in ('Normal','Collection'). Dwa rekordy — 11227 i 11229 — maja kategorie '{t.b.a.}' i wypadly z filtra. To ta sama pomylka co z motywem 'tbd': '{t.b.a.}' nie oznacza smiecia, tylko rekord, ktoremu kategorii jeszcze nie nadano, czyli najswiezszy. Poprawione: 224 rekordy, 213 bez nazwy.",
     "nowe_rezerwacje_2026_09_06": "76480 (Harry Potter), 30758 (Super Mario), 11227 (Gabby's Dollhouse), 11229 (tbd)",
-    "kohorta_kpop_2026_09_07": "KPop Demon Hunters: 1 numer 05.09 -> 6 numerow 07.09 (30746, 72539, 72541, 72542, 72544 zalozone 06.09 w ciagu jednej minuty). Wszystkie z kategoria '{t.b.a.}' — czyli takie, ktore filtr sprzed poprawki z 06.09 by pominal. Zgodnie z wzorcem rezerwacji: rozmiar fali jest wiarygodny, termin nadania nazw nie."
+    "kohorta_kpop_2026_09_07": "KPop Demon Hunters: 1 numer 05.09 -> 6 numerow 07.09 (30746, 72539, 72541, 72542, 72544 zalozone 06.09 w ciagu jednej minuty). Wszystkie z kategoria '{t.b.a.}' — czyli takie, ktore filtr sprzed poprawki z 06.09 by pominal. Zgodnie z wzorcem rezerwacji: rozmiar fali jest wiarygodny, termin nadania nazw nie.",
+    "nowe_rezerwacje_2026_09_21": "Szesc pustych rekordow: 11394, 11396, 11410 (Icons), 30756 (Pokemon), 31222 i 31224 (Art). MOTYW 'Art' pojawia sie w roczniku 2027 po raz pierwszy — w pelnym zrzucie z 05.09 go nie bylo. Seria Art byla u LEGO wygaszana, wiec dwa nowe numery moga oznaczac jej powrot. To interpretacja, nie fakt: rekordy sa puste, zadne zrodlo o tym nie pisze."
   },
   "harry_potter_hbo": {
     "ustalenie": "2026-09-05 — potwierdzone DWOMA zrodlami newsowymi.",
@@ -5957,5 +5994,12 @@
     "promobricks": "Jeden nowy wpis: Insiders Private Store Shopping Event w polowie listopada. Akcja handlowa, nie nowosc produktowa — ale termin warto miec w kalendarzu promocji.",
     "stonewars": "Dwa nowe wpisy: analiza podwyzki cen czesci w Pick a Brick (ponad 6000 pozycji) i tekst o standardach aukcji eBay Live. Zadnej nowosci katalogowej.",
     "przecieki": "Bez zmian: 15 wpisow, 1 rozstrzygniety. Zadnego nowego przecieku ani nowego dowodu."
+  },
+  "przeglad_2026_09_21": {
+    "przeciek_40899": "PromoBricks opublikowal 21.09 tekst 'LEGO AstroBot Set als Gratis-Zugabe Anfang Oktober' — tym razem bez zastrzezen, jako fakt. Dopisalem 40899 do przecieki.json z pewnoscia 'srednia': katalog potwierdza numer, elementy, forme i date, ale NIE nazwe. Dwa teksty PromoBricks to jedno zrodlo.",
+    "30732": "Minecraft, 31 elementow, availability 'Retail - limited', start 2026-02-01. Jest w katalog.json z polska nazwa, ale BEZ ceny, wiec nie widzi go kolejka redakcyjna. Luka, nie nowosc — polybag w sprzedazy od lutego. Nie dopisuje do sety.json.",
+    "format_przeciekow": "przecieki.json zmienil uklad: 16.09 kazdy wpis byl w jednej linii, dzis plik jest w zwyklym indent=1. Wykrywanie formatu przez round-trip przed zapisem zlapalo to i odmowilo zapisu starym serializerem. Nie zakladac ukladu z pamieci.",
+    "historia_gita": "Poranny 'git pull' zglosil forced update na origin/main — ktos przepisal historie. Sprawdzone: dane sa (40900 w sety.json, 11387 potwierdzony i rozstrzygniety), HEAD rowny origin/main, brak rozjazdu. Z logu zniknely jednak moje commity z 15-16.09.",
+    "stonewars": "Bez nowosci katalogowych."
   }
 }
