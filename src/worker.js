@@ -97,8 +97,27 @@ export default {
       // nawigacji i nie da się go wyłączyć w ustawieniach; „same-origin"/„same-site"
       // znaczy, że klik przyszedł z naszej strony. curl i scrapery go nie wysyłają.
       const secFetch = request.headers.get('sec-fetch-site') ?? '';
-      const zNaszejStrony =
-        /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer) || secFetch === 'same-origin' || secFetch === 'same-site';
+      // 21.09.2026 (raport Kontrolera): sam host w refererze to za mało. Audyt
+      // z 16.09 przeszedł przez filtr z refererem `https://tylkoklocki.pl/zestaw/x/`
+      // — strona, która nie istnieje — i 17 sztucznych kliknięć poszło do sieci
+      // afiliacyjnych jako ludzkie. Dlatego referer musi wskazywać stronę, z której
+      // realnie da się kliknąć w sklep: hub zestawu (wtedy numer w refererze musi
+      // być tym samym, który kliknięto), artykuł, prezentownik, deal, seria, listing
+      // nowości, wycofania, ekskluzywne, kolekcjoner albo strona główna.
+      // Sec-Fetch-Site zostaje jako druga droga dla przeglądarek tnących referer;
+      // to nagłówek również do podrobienia z curla, ale prawdziwe przeglądarki
+      // go potrzebują — pełne domknięcie wymagałoby podpisanego tokenu w linku.
+      const sciezkaReferera = (() => {
+        try { return new URL(referer).pathname; } catch { return null; }
+      })();
+      const hostOk = /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer);
+      const zHubu = sciezkaReferera && /^\/zestaw\/(\d{4,7})\/$/.exec(sciezkaReferera);
+      const refererOk =
+        hostOk &&
+        (zHubu
+          ? zHubu[1] === numer
+          : /^\/($|artykuly\/|prezentowniki\/|deale\/|serie\/|nowosci\/|wycofania\/|ekskluzywne\/|kolekcjoner\/|kalendarz-promocji-lego\/|zapowiedzi-lego-2027\/|przecieki\/)/.test(sciezkaReferera ?? ''));
+      const zNaszejStrony = refererOk || secFetch === 'same-origin' || secFetch === 'same-site';
 
       // LEGO.com nie ma programu afiliacyjnego w naszym miksie — linkujemy
       // bezpośrednio. lego.com akceptuje sam numer zestawu w adresie produktu
