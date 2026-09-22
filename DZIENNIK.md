@@ -66,6 +66,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 05:40 · CODE · „Dane wt 05:30" przebiegł i nic nie zapisał — sekwencję wykonała sesja Code
+
+Routine `trig_012JWbmYwHb59sYazo6K9X33` odpalił się 03:36 UTC, sesja
+`session_01KuJvFCLE1Ad2xxcrAEMZgT` pracowała 22 minuty (Sonnet 5, 94 k tokenów),
+status „SUCCEEDED" — a na `main` nie ma commita „LEGO.pl + Ceneo + Smyk…".
+Konfiguracja sesji: `sources` puste, jak u Kontrolera 21.09. Drugi dowód na to
+samo: Routine ze świeżą sesją nie ma repo, więc push odpada. Co runner zrobił
+z danymi (patch? pliki na czat?) z tej sesji nie widać — Marek zobaczy w panelu.
+
+Sekwencję z promptu wykonała sesja Code (ten sam FIRECRAWL_KEY i TD_TOKEN):
+listing lego.pl 1 343 pozycje / 938 zestawów (bramka ≥800 OK), 951 cen `lego`
+(2 nowe), 975 RRP (+1, 0 konfliktów), `redirects.lego` +1; Ceneo 1 552 cen
+(126 nowych, 809 zmian), linki 1 538 → 1 618; Lidl 61; Smyk 662 z ceną,
+42 niedostępnych, 0 błędów — cztery zestawy z datą 16.09 (42699, 43266, 43271,
+43272) domknięte datą 22.09; Rebrickable dopisał 140 zestawów do katalogu
+(9 360 → 9 500). Koszt: drugie ~75 kredytów Firecrawla w tym samym dniu, bo
+przebiegu runnera nie da się odzyskać. Ekskluzywy bez etykiety na listingu (do
+ręcznego sprawdzenia): 76355 40858 11386 43026 11385 40919 76476 31221 40872
+40975 21369 76354 40880 21373 40868 80121 80120 40859.
+
 ## 2026-09-21 12:50 · CODE · Zrzut Empiku z 21.09 wgrany: 4 370 cen, 4 775 deeplinków
 
 Cowork (skill `klocki-ceny-empik`) dostarczył 5 309 pozycji z trzech przebiegów
