@@ -315,7 +315,7 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 | **Routine założone z panelu** (Zdjęcia → R2, Przypomnienie: Empik, Alerty cen) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
 | **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |
 | **Odczyt paneli Allegro i webePartners** | przy przeglądzie prowizji | EPC dla tych dwóch zostaje **modelem**, nie pomiarem — a Allegro to największa ekspozycja w serwisie |
-| **Doładowanie Firecrawla** | tylko powyżej 1000 kredytów/mies. | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
+| **Doładowanie Firecrawla** | pakiet 1 500 kredytów odnawia się co miesiąc (28.09, 28.10…); doładowanie tylko gdy tygodniowy listing (~75) plus sesje przekroczą pakiet | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
 
 ### Czego na tej liście już NIE ma
 

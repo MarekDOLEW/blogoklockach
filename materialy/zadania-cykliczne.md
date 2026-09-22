@@ -339,6 +339,11 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 ## Historia zmian harmonogramu
 
 **22.09.2026 (po południu, po audycie)**
+- Kontroler odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_0167qmnWn3Qjjz8HTwZU1uEP`: cel „20 000 zł w grudniu" zastąpiony czterema
+  kamieniami milowymi (decyzja Marka 22.09), pomiar Allegro/PK zostawiony bez
+  ręcznego odczytu (decyzja Marka), `sitemap-priorytet.xml` zdjęta z repo, punkty
+  odniesienia z 22.09, zakaz tezy „zakaz audytu niewdrożony" dla kliknięć sprzed 21.09.
 - Łowca w NOWEJ trwałej sesji `session_01SdxKtAvW8UmktsuXrsPYga` (Fable 5,
   repo w źródłach) pod ID `trig_01Fu1fB4ZmZN6daDtHqEDWZy` — poprzednia sesja
   `session_017FKg5b8kSCwbJd8r7xPrwD` miała 753 k z 1 M tokenów kontekstu po

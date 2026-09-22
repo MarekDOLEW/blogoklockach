@@ -92,6 +92,28 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 12:05 · MAREK → CODE · Decyzje: kamienie milowe zamiast 20 000 zł, sitemap-priorytet zdjęta, pomiar Allegro/PK zostaje, Firecrawl 1 500/mies.
+
+- **Cel na grudzień 2026 = cztery kamienie milowe** (pierwsza zatwierdzona prowizja
+  w każdej z trzech sieci z API, EPC per sklep na próbie > 1 transakcji, kliknięcia
+  z Polski dziennie, zaindeksowane strony z panelu GSC); 20 000 zł to cel roku 2027.
+  Prompt Kontrolera przepisany (`trig_0167qmnWn3Qjjz8HTwZU1uEP`).
+  → zamknięte 22.09: decyzja Marka.
+- **`sitemap-priorytet.xml` zdjęta z repo** (`src/pages/sitemap-priorytet.xml.js`
+  usunięty; nie była w `sitemap-index.xml`). Z panelu GSC (Mapy witryny) usuwa ją
+  Marek — Cowork dostaje komendę razem z prośbą o indeksowanie 10 adresów.
+  → zamknięte 22.09 (pozycja 10 audytu mechanizmu z 15.09).
+- **Pomiar Allegro i Planety Klocków: zostawiamy** bez ręcznego odczytu z paneli;
+  EPC tych sklepów pozostaje modelem. Kontroler nie proponuje tego ponownie.
+  → zamknięte 22.09: decyzja Marka.
+- **Firecrawl: 1 500 kredytów miesięcznie, odnowienie 28.09** (i co miesiąc).
+  Tygodniowy listing lego.pl (~75) mieści się z zapasem; alarm z audytu 22.09
+  (107 kredytów) nieaktualny.
+- **Scout 13/19/20.09**: Marek sprawdził w panelu — przebiegi były, bez nowości.
+  → zamknięte 22.09.
+- **Nowy feed Allegro** `39967a61-8483-4037-bc45-165d4978a379` odpowiada 200
+  (ndjson, LEGO w środku) — porównanie z obecnym `497662bc…` w toku, wynik niżej.
+
 ## 2026-09-22 11:40 · CODE · Łowca w nowej sesji (decyzja Marka), stara zostaje do 29.09
 
 Nowa sesja `session_01SdxKtAvW8UmktsuXrsPYga` (Fable 5, repo w źródłach), trigger
