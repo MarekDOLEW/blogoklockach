@@ -101,7 +101,7 @@ gadżety/archiwum); (4) harmonogram i kopie promptów przepisane z konta.
 Kontroler (06:12): panel nie ma pola na konektor (Marek sprawdził), więc
 zamiast odtwarzania z panelu — trwała sesja z repo
 `session_01M8qMJFfKHEozBSGXjAKP4n` (Opus 5; dry-run pushu OK, 14/14 zmiennych),
-trigger `trig_01UjqSHw15xGcvVpQmkfqESZ` (pon 09:00 PL). Krok „harmonogram
+trigger `trig_01EDEhtPiW4AVSAiGg9Co1mx` (pon 09:00 PL). Krok „harmonogram
 z konta" przejęła ta sesja Code własnym Routine `trig_01GJ2ecMp3gwtkZ1pFyUPKLH`
 (pon 08:00 PL, self-bind — tylko sesja Code ma konektor `Claude_Code_Remote`);
 Kontroler czyta gotowe pliki z repo. Prompt: `materialy/kontroler-prompt-2026-09-22.md`.
@@ -113,10 +113,14 @@ oraz dwa Kontrolery bez repo: `trig_01JhfcGMgzv1nBwiguH93m6N` (stary; próba
 skasowania z tej sesji zablokowana przez klasyfikator uprawnień) i założony dziś
 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` (`sources: null`, konektory bez
 `Claude_Code_Remote` — panel nie daje go wybrać). Inaczej w poniedziałek
-odpalą się trzy raporty, z których pushuje tylko `trig_01UjqSHw15xGcvVpQmkfqESZ`.
+odpalą się trzy raporty, z których pushuje tylko `trig_01EDEhtPiW4AVSAiGg9Co1mx`.
 Harmonogram z konta przesunięty na 07:45 PL (kolizja z Radarem o 08:00).
 
-**06:20 — Marek: trzy zbędne Routine skasowane, worker zatwierdzony.** Poprawka
+**06:20 — Marek skasował dwa Routine, worker zatwierdzony.** Z panelu zniknął
+mój nowy Kontroler (`trig_01UjqSHw…`) i jego własny z 22.09; stary
+`trig_01JhfcGMgzv1nBwiguH93m6N` („[env projektu]", bez repo) nadal istnieje —
+do skasowania, inaczej w poniedziałek dwa raporty. Kontroler odtworzony na tę
+samą sesję pod `trig_01EDEhtPiW4AVSAiGg9Co1mx` i odpalony próbnie o 06:21 UTC. Poprawka
 referera (3f42a9c) była na produkcji od 21.09 11:55 UTC; decyzja Marka 22.09
 zamyka sprawę — zostaje. Test produkcji (bez podążania za redirectem, więc bez
 kliknięcia u trackera): fałszywy referer `/zestaw/x/` → 302 na hub z

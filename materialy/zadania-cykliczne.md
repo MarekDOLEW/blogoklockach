@@ -342,7 +342,7 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   oraz założony 22.09 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` („Raport kontrolera
   — wynik tygodnia") — ten drugi ma w konfiguracji `sources: null` i sześć
   konektorów bez `Claude_Code_Remote`, więc też nie pushuje ani nie czyta
-  harmonogramu. Zostaje wyłącznie `trig_01UjqSHw15xGcvVpQmkfqESZ`.
+  harmonogramu. Zostaje wyłącznie `trig_01EDEhtPiW4AVSAiGg9Co1mx`.
 - Harmonogram z konta przesunięty na pon 07:45 PL (`45 5 * * 1`), żeby nie
   kolidował z Radarem o 08:00.
 
