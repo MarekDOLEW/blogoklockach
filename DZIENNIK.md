@@ -109,8 +109,12 @@ Kontroler czyta gotowe pliki z repo. Prompt: `materialy/kontroler-prompt-2026-09
 Do zrobienia z panelu przez Marka (sesja Code nie ma uprawnień do Routines
 założonych w panelu): skasować stare `trig_012JWbmYwHb59sYazo6K9X33` (Dane wt,
 inaczej we wtorek odpalą się dwa, stary bez pushu za ~75 kredytów Firecrawla)
-i `trig_01JhfcGMgzv1nBwiguH93m6N` (Kontroler, inaczej w poniedziałek dwa
-raporty). Decyzja o poprawce workera (3f42a9c na produkcji od 21.09 11:55 UTC)
+oraz dwa Kontrolery bez repo: `trig_01JhfcGMgzv1nBwiguH93m6N` (stary; próba
+skasowania z tej sesji zablokowana przez klasyfikator uprawnień) i założony dziś
+z panelu `trig_012F22qZPFRvBhxG2HUG9puV` (`sources: null`, konektory bez
+`Claude_Code_Remote` — panel nie daje go wybrać). Inaczej w poniedziałek
+odpalą się trzy raporty, z których pushuje tylko `trig_01UjqSHw15xGcvVpQmkfqESZ`.
+Harmonogram z konta przesunięty na 07:45 PL (kolizja z Radarem o 08:00). Decyzja o poprawce workera (3f42a9c na produkcji od 21.09 11:55 UTC)
 nadal otwarta.
 
 ## 2026-09-22 05:40 · CODE · „Dane wt 05:30" przebiegł i nic nie zapisał — sekwencję wykonała sesja Code

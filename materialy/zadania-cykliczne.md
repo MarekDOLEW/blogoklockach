@@ -345,7 +345,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   przejęła sesja Code własnym Routine „LEGO pon 08:00 — Harmonogram z konta"
   (`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`, self-bind, godzinę przed Kontrolerem);
   Kontroler czyta pliki z repo, nie woła API. Prompt: `materialy/kontroler-prompt-2026-09-22.md`.
-  Stary `trig_01JhfcGMgzv1nBwiguH93m6N` (z panelu) **do skasowania przez Marka**.
+  Do skasowania z panelu przez Marka (sesja Code: jeden z panelu, drugi
+  zablokowany przez klasyfikator uprawnień): stary `trig_01JhfcGMgzv1nBwiguH93m6N`
+  oraz założony 22.09 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` („Raport kontrolera
+  — wynik tygodnia") — ten drugi ma w konfiguracji `sources: null` i sześć
+  konektorów bez `Claude_Code_Remote`, więc też nie pushuje ani nie czyta
+  harmonogramu. Zostaje wyłącznie `trig_01UjqSHw15xGcvVpQmkfqESZ`.
+- Harmonogram z konta przesunięty na pon 07:45 PL (`45 5 * * 1`), żeby nie
+  kolidował z Radarem o 08:00.
 
 **16.09.2026 (po audycie końcowym, decyzje Marka)**
 - Łowca odtworzony (delete+create, ta sama sesja) pod ID
