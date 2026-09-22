@@ -1,29 +1,29 @@
-# Prompt Kontrolera — wersja z 21.09.2026 (do wklejenia w panelu claude.ai)
+# Prompt Kontrolera — wersja z 22.09.2026 (trwała sesja z repo)
 
-Po co ten plik: Routine „Kontroler" odpalany od zera nie ma repozytorium w źródłach
-sesji (`sources: []`), więc proxy gita odrzuca push, i nie dostaje konektora
-`Claude_Code_Remote`, więc nie może przepisać harmonogramu. Obu rzeczy nie da się
-ustawić przez API (`create_trigger` odrzuca `connectors` w tej organizacji, a źródeł
-nie przyjmuje w ogóle). **Routine trzeba utworzyć z panelu claude.ai** z repozytorium
-`MarekDOLEW/blogoklockach` i konektorem `Claude_Code_Remote`, cron `0 7 * * 1` (UTC),
-model Opus 5. Poniżej gotowy prompt — identyczny z tym, który siedzi dziś w triggerze
-`trig_01JhfcGMgzv1nBwiguH93m6N`; po utworzeniu nowego stary trigger skasować.
+Po co ten plik: Routine „Kontroler" odpalany od zera (z panelu) nie ma repozytorium
+w źródłach sesji ani konektora `Claude_Code_Remote` — 21.09 wykonał cały raport
+i nie mógł pushować. Panel nie daje pola na konektor (sprawdzone przez Marka
+22.09), a API nie przyjmuje ani źródeł, ani konektorów. Rozwiązanie z 22.09:
 
-To samo dotyczy Routine „Dane wt 05:30" (`trig_012JWbmYwHb59sYazo6K9X33`, cron
-`30 3 * * 2`): też świeża sesja bez repo w źródłach, też push w promptcie. Prompt
-do skopiowania jest w panelu; przy tworzeniu od nowa wystarczy dodać repozytorium.
+- Kontroler chodzi jako **trwała sesja z repo** (jak Łowca) — push działa;
+- krok „harmonogram z konta" (`list_triggers`) przejęła sesja Code przez własny
+  Routine „LEGO pon 08:00 — Harmonogram z konta" (godzinę przed Kontrolerem);
+  Kontroler czyta gotowe pliki z repo i nie woła API.
+
+Prompt poniżej siedzi w triggerze Kontrolera (ID w `materialy/zadania-cykliczne.md`);
+zmiana promptu = delete + create na tę samą sesję.
 
 ---
 
 Raport kontrolera — wynik tygodnia vs plan 20 000 zł na grudzień, EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień.
 
-REPO — NAJPIERW. Sesja powinna mieć repo podpięte z panelu; jeśli katalogu `blogoklockach` nie ma, sklonuj: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git` (gdy jest zmienna GH_PUSH_TOKEN — przez `https://x-access-token:${GH_PUSH_TOKEN}@github.com/MarekDOLEW/blogoklockach.git`). W repo: `git fetch origin main && git checkout -B kontroler origin/main`, potem `npm ci --no-audit --no-fund`. Push zawsze poleceniem `git push origin kontroler:main` (nigdy na lokalny `main`); przy odrzuceniu: `git fetch origin main && git rebase origin/main` i ponów (do 3 razy). Jeśli proxy odmawia z komunikatem „not in this session's authorized repository set" — nie szukaj obejść: zrób commit lokalnie, `git format-patch -1 -o /tmp` i wyślij patch razem ze zmienionymi plikami przez SendUserFile, a w raporcie napisz jednym zdaniem, że repo nie jest w źródłach tej sesji. Tak zrobił przebieg z 21.09.2026 i patch nałożył Code bez konfliktów.
+REPO — NAJPIERW. Repo jest dopięte do tej stałej sesji. W katalogu repo: `git fetch origin main && git checkout -B kontroler origin/main`, potem `npm ci --no-audit --no-fund` (jeśli nie ma node_modules). Push zawsze poleceniem `git push origin kontroler:main` (nigdy na lokalny `main`); przy odrzuceniu: `git fetch origin main && git rebase origin/main` i ponów (do 3 razy). Jeśli katalogu repo nie ma wcale albo proxy odmawia pushu z komunikatem o braku uprawnień — sesja straciła źródło: nie szukaj obejść, zrób commit lokalnie, `git format-patch origin/main --stdout > /tmp/kontroler.patch`, wyślij patch i raport przez SendUserFile, a w PIERWSZEJ linii raportu napisz dokładny komunikat gita.
 
 KOLEJNOŚĆ. Najpierw kroki, które zostawiają ślad w repo (harmonogram, archiwum dziennika, commit), potem sekcje analityczne. Raport niepełny jest wart więcej niż brak raportu — gdy kończy się czas, zapisz to, co masz, i napisz w raporcie, czego zabrakło.
 
 KROK 0 — DIAGNOZA ŚRODOWISKA. Uruchom `node scripts/diagnoza.mjs` i wklej wynik na początku raportu jako sekcję „Diagnoza środowiska". To jest JEDYNE źródło zdań o tym, co środowisko widzi — nie pisz o dostępach z pamięci ani z założeń. Skrypt nie drukuje wartości sekretów.
 
-HARMONOGRAM I PROMPTY RUNNERÓW. Najpierw `ListConnectors`. Jeśli nie ma konektora `Claude_Code_Remote` — pomiń ten krok, napisz w raporcie jedno zdanie („brak konektora, harmonogram nieprzepisany") i NIE przepisuj sekcji ręcznie; kontrolę runnerów zrób po commitach (niżej). Jeśli konektor jest: wywołaj `list_triggers` (limit 30), zapisz surową odpowiedź do pliku `/tmp/routines.json` (NIE do repo — zawiera ID sesji i treść promptów) i uruchom `node scripts/harmonogram-z-konta.mjs /tmp/routines.json`. Skrypt przepisuje DWA pliki: sekcję między znacznikami HARMONOGRAM:START/KONIEC w `materialy/zadania-cykliczne.md` oraz cały `materialy/routine-prompty.md` (kopia promptów z konta — dzięki temu diff w git pokazuje, kto i kiedy zmienił prompt). Oba dołącz do commita: `git add materialy/zadania-cykliczne.md materialy/routine-prompty.md`. Reszty tych dokumentów nie tykaj. W raporcie sekcja „Harmonogram": ile zadań włączonych; kolizje; które włączone zadanie NIE odpaliło się w minionym tygodniu — ale UWAGA: kolumna „ostatnie odpalenie" zeruje się po każdym odtworzeniu triggera (delete+create), więc dla runnerów z pushem sprawdź też `git log --since=7.days --oneline | grep -i "<nazwa runnera>"` (Scout, Łowca, Radar, Wycofania, LEGO.pl) — brak commita w tygodniu to prawdziwy alarm, brak `last_run` sam w sobie nie.
+HARMONOGRAM I PROMPTY RUNNERÓW. NIE wołaj `list_triggers` i nie sprawdzaj konektorów — ta sesja ich nie ma. Sekcję między znacznikami HARMONOGRAM:START/KONIEC w `materialy/zadania-cykliczne.md` oraz `materialy/routine-prompty.md` przepisuje z konta sesja Code w poniedziałek o 08:00 czasu polskiego (Routine „Harmonogram z konta"), godzinę przed Tobą. Ty czytasz te pliki po `git fetch`: w sekcji „Harmonogram" raportu podaj datę odczytu z nagłówka sekcji Zrzut (jeśli starsza niż 2 dni — alarm jednym zdaniem: „harmonogram nieprzepisany, sesja Code nie odpaliła"), ile zadań włączonych, kolizje, które włączone zadanie NIE odpaliło się w minionym tygodniu — ale UWAGA: kolumna „ostatnie odpalenie" zeruje się po każdym odtworzeniu triggera (delete+create), więc dla runnerów z pushem sprawdź też `git log --since=7.days --oneline | grep -i "<nazwa runnera>"` (Scout, Łowca, Radar, Wycofania, LEGO.pl / Dane wt) — brak commita w tygodniu to prawdziwy alarm, brak `last_run` sam w sobie nie. Sekcji nie przepisuj ręcznie.
 
 ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie pozycje „RADAR · Do zrobienia" oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela" — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie. ZAMKNIĘCIA (od 16.09.2026): pozycja, pod którą stoi linia zaczynająca się od „→ zamknięte" (dopisuje Code po decyzji Marka) albo „→ Wycofania" (dopisuje runner Wycofań), jest załatwiona — pomiń ją. Pozycje Scouta rozpoznawaj po nagłówku zaczynającym się od „SCOUT ·" i słowie „wycofa" w tytule (nagłówki bywają różne). WYSYŁKA TEJ SEKCJI: jeśli lista nie jest pusta, zapisz ją do `/tmp/zadania-bez-wlasciciela.md` (te same cztery linijki na pozycję: fakt / mamy? / zrobić / kto, plus data wpisu i kto go zostawił) i uruchom `python3 scripts/wyslij-raport.py --zadanie kontroler --tytul "Zadania bez właściciela — <DD.MM.RRRR>" --plik /tmp/zadania-bez-wlasciciela.md --wstep "<ile pozycji, ile dla Piotra, ile dla Marka>"` — idzie do Marka i Piotra (klucz `kontroler` w raporty_mail.json; Piotr nie widzi PDF-u z SendUserFile). Pusta lista = brak maila. Błąd skryptu wklej do raportu, nie ponawiaj więcej niż raz.
 

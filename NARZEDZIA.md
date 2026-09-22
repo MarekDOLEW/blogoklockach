@@ -116,9 +116,10 @@ w źródłach sesji — tylko one mogą pushować. Kontroler, Zdjęcia → R2,
 Przypomnienie o Empiku i Alerty cen startują świeżą sesją przy każdym
 odpaleniu (Social skasowany 15.09.2026); **świeża sesja z Routine nie ma repo
 ani konektorów** (dowody 21.09 Kontroler i 22.09 Dane wt), więc taki Routine
-może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Kontroler do
-odtworzenia z panelu (repo + konektor `Claude_Code_Remote`), prompt gotowy
-w `materialy/kontroler-prompt-2026-09-21.md`. Rozróżnienie ma też znaczenie
+może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Od 22.09.2026
+Kontroler też jest trwałą sesją z repo; konektor `Claude_Code_Remote` ma
+wyłącznie sesja Code, więc ona przepisuje harmonogram własnym Routine
+w poniedziałek o 08:00 (prompt Kontrolera: `materialy/kontroler-prompt-2026-09-22.md`). Rozróżnienie ma też znaczenie
 przy edycji: promptu trwałej sesji nie zmienia się przez `update_trigger`
 (patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie"), a Routine
 założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.

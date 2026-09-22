@@ -98,11 +98,20 @@ ofercie z feedu — 30732 (14,04 zł, Minecraft) wchodzi do obu arkuszy z dopisk
 „bez RRP — cena z rynku"; takich zestawów jest 13 (4 polybagi 2026, reszta
 gadżety/archiwum); (4) harmonogram i kopie promptów przepisane z konta.
 
+Kontroler (06:12): panel nie ma pola na konektor (Marek sprawdził), więc
+zamiast odtwarzania z panelu — trwała sesja z repo
+`session_01M8qMJFfKHEozBSGXjAKP4n` (Opus 5; dry-run pushu OK, 14/14 zmiennych),
+trigger `trig_01UjqSHw15xGcvVpQmkfqESZ` (pon 09:00 PL). Krok „harmonogram
+z konta" przejęła ta sesja Code własnym Routine `trig_01GJ2ecMp3gwtkZ1pFyUPKLH`
+(pon 08:00 PL, self-bind — tylko sesja Code ma konektor `Claude_Code_Remote`);
+Kontroler czyta gotowe pliki z repo. Prompt: `materialy/kontroler-prompt-2026-09-22.md`.
+
 Do zrobienia z panelu przez Marka (sesja Code nie ma uprawnień do Routines
-założonych w panelu): skasować stary `trig_012JWbmYwHb59sYazo6K9X33` (inaczej
-we wtorek odpalą się dwa „Dane wt", stary bez pushu za ~75 kredytów Firecrawla)
-i odtworzyć Kontrolera z repo + konektorem. Decyzja o poprawce workera
-(3f42a9c na produkcji od 21.09 11:55 UTC) nadal otwarta.
+założonych w panelu): skasować stare `trig_012JWbmYwHb59sYazo6K9X33` (Dane wt,
+inaczej we wtorek odpalą się dwa, stary bez pushu za ~75 kredytów Firecrawla)
+i `trig_01JhfcGMgzv1nBwiguH93m6N` (Kontroler, inaczej w poniedziałek dwa
+raporty). Decyzja o poprawce workera (3f42a9c na produkcji od 21.09 11:55 UTC)
+nadal otwarta.
 
 ## 2026-09-22 05:40 · CODE · „Dane wt 05:30" przebiegł i nic nie zapisał — sekwencję wykonała sesja Code
 
@@ -158,7 +167,7 @@ Oba pushują w promptcie, oba skończą jak 21.09 — pliki + patch na czat.
 **Naprawa (decyzja Marka, droga A):** utworzyć oba Routine **z panelu claude.ai**
 z repozytorium `MarekDOLEW/blogoklockach` w źródłach i konektorem
 `Claude_Code_Remote` (Kontroler; „Dane wt" konektora nie potrzebuje). Gotowy prompt
-Kontrolera: `materialy/kontroler-prompt-2026-09-21.md`. Droga B (stała sesja przez
+Kontrolera: `materialy/kontroler-prompt-2026-09-22.md`. Droga B (stała sesja przez
 `create_session(source_url)` + `persistent_session_id`) rozwiązuje repo, ale
 konektora nie gwarantuje i wraca do delete+create przy każdej zmianie promptu —
 gorsza.
