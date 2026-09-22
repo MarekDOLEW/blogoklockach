@@ -114,7 +114,13 @@ skasowania z tej sesji zablokowana przez klasyfikator uprawnień) i założony d
 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` (`sources: null`, konektory bez
 `Claude_Code_Remote` — panel nie daje go wybrać). Inaczej w poniedziałek
 odpalą się trzy raporty, z których pushuje tylko `trig_01UjqSHw15xGcvVpQmkfqESZ`.
-Harmonogram z konta przesunięty na 07:45 PL (kolizja z Radarem o 08:00). Decyzja o poprawce workera (3f42a9c na produkcji od 21.09 11:55 UTC)
+Harmonogram z konta przesunięty na 07:45 PL (kolizja z Radarem o 08:00).
+
+**06:20 — Marek: trzy zbędne Routine skasowane, worker zatwierdzony.** Poprawka
+referera (3f42a9c) była na produkcji od 21.09 11:55 UTC; decyzja Marka 22.09
+zamyka sprawę — zostaje. Test produkcji (bez podążania za redirectem, więc bez
+kliknięcia u trackera): fałszywy referer `/zestaw/x/` → 302 na hub z
+`?idz=odrzucony`; realny hub + `Sec-Fetch-Site: same-origin` → 302 do trackera. Decyzja o poprawce workera (3f42a9c na produkcji od 21.09 11:55 UTC)
 nadal otwarta.
 
 ## 2026-09-22 05:40 · CODE · „Dane wt 05:30" przebiegł i nic nie zapisał — sekwencję wykonała sesja Code
