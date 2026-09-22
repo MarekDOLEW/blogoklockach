@@ -53,9 +53,11 @@ sesja z dopiętym repo rozwiązała problem, o który chodziło.
 
 ## Harmonogram
 
-**Data odczytu z konta: 22.09, 08:18 CEST — dzisiejsza.** Sekcję przepisała sesja
-Code przed tym przebiegiem, zgodnie z nowym podziałem pracy. Odczyt objął
-14 Routines bez paginacji. Alarmu o nieprzepisanym harmonogramie nie ma.
+**Data odczytu z konta: 22.09, 08:50 CEST — dzisiejsza.** Sekcję przepisała sesja
+Code, zgodnie z nowym podziałem pracy; odczyt objął 15 Routines bez paginacji.
+Alarmu o nieprzepisanym harmonogramie nie ma. Sekcja została dziś przepisana
+dwa razy (08:18 i 08:50) — biorę nowszy odczyt, bo wszedł na `main` jako
+`3d57cc6` przed tym raportem.
 
 **Włączonych zadań: 10 z 11 w sekcji LEGO** (wyłączony jest tylko „Backfill cen
 katalogowych", nigdy nieodpalony) **plus 3 zadania spoza serwisu** na tym samym
@@ -82,9 +84,13 @@ jeszcze testowana w boju — pierwszy sprawdzian wypada 29.09**. To ten sam bł�
 który 21.09 zdjął Kontrolera: Routine w świeżej sesji nie ma repo.
 
 Pozostałe włączone zadania odpaliły się z sukcesem: Radar (22.09 08:01),
-Wycofania (21.09 06:10), Zdjęcia → R2 (22.09 04:31), Łowca (21.09 08:34),
-Alerty cen (21.09 09:38), Przypomnienie o Empiku (21.09 08:16), Kontroler
-(21.09 09:05).
+Łowca (22.09 08:34), Zdjęcia → R2 (22.09 04:31), Wycofania (21.09 06:10),
+Alerty cen (21.09 09:38), Przypomnienie o Empiku (21.09 08:16).
+
+Kontroler ma od dziś nowy trigger `trig_01EDEhtPiW4AVSAiGg9Co1mx` (poprzedni
+skasowano przy przenosinach do stałej sesji) i wpis „22.09 08:20 — odpalony, bez
+zapisanego statusu". To jest ten przebieg próbny; status dopisze się po jego
+zakończeniu.
 
 ---
 
