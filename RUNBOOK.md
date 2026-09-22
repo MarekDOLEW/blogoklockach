@@ -959,7 +959,9 @@ Warto odświeżać przy każdym nowym zaciągu katalogu (`scripts/firecrawl-lego
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
 
 **Od 15.09.2026 listing czytamy co tydzień** (Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk",
-prompt w `materialy/routine-prompty.md`). Ten sam Routine odświeża tygodniowo
+prompt w `materialy/routine-prompty.md`; od 22.09.2026 to trwała sesja z repo —
+`trig_01PwyDWKRCLydgDxAH8eRzzR`, bo wersja w świeżej sesji 22.09 przeszła cały
+łańcuch i nie mogła pushować; sekwencję wykonała wtedy ręcznie sesja Code). Ten sam Routine odświeża tygodniowo
 ceny Ceneo (krok 6) i Smyka (krok 6a) — nazwa mówi „Dane", a nie „LEGO",
 bo od 16.09.2026 to jest wspólny slot na dane cenowe, nie tylko listing. Łańcuch:
 `firecrawl-legopl.mjs` (katalog + plik RRP) → `lego-ceny.mjs` (cena LEGO.com do

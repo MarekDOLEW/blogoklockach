@@ -66,6 +66,36 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 06:00 · CODE · Naprawy po dwóch dniach awarii runnerów: Dane wt w trwałej sesji, Scout z regułą dowodu, luka 30732
+
+Ustalenia z gita (ten klon, reflog `origin/main` od 12.09): zero przepisań
+historii `main` — każdy odczyt jest przodkiem następnego; wszystkie commity
+Scouta z 15–18.09 są na `main` (f743218, 6d47664, 8af713c, fee8edd); jedyne
+duble to dwie pary z 15.09 08:28/08:48 vs 08:49 (rebase w sesji Code, obie
+kopie na `main`, bez skutków dla danych). Force-push z tej sesji szedł tylko na
+własną gałąź `claude/…`, nigdy na `main`. Zgłoszenie Scouta „forced update +
+zniknęły commity z 15–16.09" nie ma pokrycia w `main`; prawdopodobna przyczyna
+po stronie jego klonu (płytka historia / stały ref), ale z tej sesji tego nie
+widać — od jutra Scout ma wklejać reflog zamiast tezy. Nadal bez wyjaśnienia:
+brak commitów Scouta 19–20.09 (historia przebiegów tylko w panelu).
+`przecieki.json` z wcięciem 1 to zmiana zamierzona (bf85683, 16.09, na uwagę
+samego Scouta) — Scout pamiętał stan sprzed niej i zgłosił ją jako nową.
+
+Zrobione: (1) „Dane wt 05:30" jako trwała sesja z repo
+(`session_011Ced7USAHUBBsCPZ1os3F9`, Sonnet 5; dry-run pushu OK, 14/14
+zmiennych), trigger `trig_01PwyDWKRCLydgDxAH8eRzzR`; (2) Scout odtworzony
+`trig_01DmDAaz993ddzz61pQj9o9X` z sekcją „GIT I PAMIĘĆ" i „Luki katalogu";
+(3) kolejka redakcyjna i wykaz bez opisu liczą zestawy bez RRP po najniższej
+ofercie z feedu — 30732 (14,04 zł, Minecraft) wchodzi do obu arkuszy z dopiskiem
+„bez RRP — cena z rynku"; takich zestawów jest 13 (4 polybagi 2026, reszta
+gadżety/archiwum); (4) harmonogram i kopie promptów przepisane z konta.
+
+Do zrobienia z panelu przez Marka (sesja Code nie ma uprawnień do Routines
+założonych w panelu): skasować stary `trig_012JWbmYwHb59sYazo6K9X33` (inaczej
+we wtorek odpalą się dwa „Dane wt", stary bez pushu za ~75 kredytów Firecrawla)
+i odtworzyć Kontrolera z repo + konektorem. Decyzja o poprawce workera
+(3f42a9c na produkcji od 21.09 11:55 UTC) nadal otwarta.
+
 ## 2026-09-22 05:40 · CODE · „Dane wt 05:30" przebiegł i nic nie zapisał — sekwencję wykonała sesja Code
 
 Routine `trig_012JWbmYwHb59sYazo6K9X33` odpalił się 03:36 UTC, sesja

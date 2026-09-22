@@ -38,7 +38,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 16.09 15:28 (CEST, UTC+2).** Objął **13 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 22.09 07:43 (CEST, UTC+2).** Objął **14 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
@@ -46,15 +46,16 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
 | LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 16.09 05:09 | ✅ SUCCEEDED | `trig_01Rvt1kEmrv2Ltis4oYJS5EN` |
-| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 16.09 08:10 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
-| LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 14.09 10:57 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
-| LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
-| LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
-| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 16.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
-| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-15, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_012JWbmYwHb59sYazo6K9X33` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — utworzony 2026-09-16, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_013VvvPKDiN4W8Bmj4qwd9LK` |
-| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 16.09 09:37 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01DmDAaz993ddzz61pQj9o9X` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 21.09 08:17 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
+| LEGO pon 09:00 — Kontroler (raport tygodnia) [env projektu] | `0 7 * * 1` | pon 09:00 | ✅ | 21.09 09:05 | ✅ SUCCEEDED | `trig_01JhfcGMgzv1nBwiguH93m6N` |
+| LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 21.09 06:10 | ✅ SUCCEEDED | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
+| LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | 21.09 08:16 | ✅ SUCCEEDED | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
+| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 22.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
+| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01PwyDWKRCLydgDxAH8eRzzR` |
+| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk | `30 3 * * 2` | wt 05:30 | ✅ | 22.09 05:36 | ✅ SUCCEEDED | `trig_012JWbmYwHb59sYazo6K9X33` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 21.09 08:34 | ✅ SUCCEEDED | `trig_013VvvPKDiN4W8Bmj4qwd9LK` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 21.09 09:38 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
 
 ### Pozostałe Routines na tym samym koncie
 
@@ -63,13 +64,15 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 14.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
-| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 14.09 09:13 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 21.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
+| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 21.09 10:06 | ⚠️ ABANDONED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
 | Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 16.09 11:03 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
 ### Kolizje — zadania na tej samej minucie
 
-- brak — żadne dwa włączone zadania nie startują w tej samej minucie
+- **wt 05:30 PL**
+  - Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) — `30 3 * * 2`
+  - Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk — `30 3 * * 2`
 
 <!-- HARMONOGRAM:KONIEC -->
 
@@ -318,6 +321,21 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**22.09.2026 (po dwóch nieudanych pushach runnerów ze świeżej sesji)**
+- „Dane wt 05:30" przeniesiony do trwałej sesji z repo
+  (`session_011Ced7USAHUBBsCPZ1os3F9`, Sonnet 5, dry-run pushu OK) pod nowym ID
+  `trig_01PwyDWKRCLydgDxAH8eRzzR`. Stary `trig_012JWbmYwHb59sYazo6K9X33`
+  (założony z panelu, `sources: None`) przebiegł 22.09 03:36 bez commita —
+  sesja Code nie może go skasować ani wyłączyć (Routine z panelu edytuje tylko
+  Marek): **do skasowania z panelu**, inaczej we wtorek odpalą się oba.
+- Scout odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_01DmDAaz993ddzz61pQj9o9X`: sekcja „GIT I PAMIĘĆ" — przy „forced update"
+  wkleja reflog zamiast tezy o przepisaniu historii, format `przecieki.json`
+  (wcięcie 1) uznany za docelowy, zakaz powtarzania uwag bez dowodu z bieżącego
+  przebiegu, sekcja „Luki katalogu" w podsumowaniu.
+- Kontroler nadal w świeżej sesji bez repo i konektora — czeka na odtworzenie
+  z panelu (prompt: `materialy/kontroler-prompt-2026-09-21.md`).
 
 **16.09.2026 (po audycie końcowym, decyzje Marka)**
 - Łowca odtworzony (delete+create, ta sama sesja) pod ID

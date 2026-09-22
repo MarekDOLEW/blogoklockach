@@ -110,12 +110,18 @@ zdublowana praca na plikach po 2 MB.
 
 ## Runnery cykliczne należą do Claude Code
 
-Scout, Wycofania, Łowca, Radar i Backfill działają jako trwałe sesje Claude
-Code Remote (`persist_session: true`); Kontroler, Zdjęcia → R2, Przypomnienie
-o Empiku, „Dane wt 05:30" i Alerty cen startują świeżą sesją przy każdym
-odpaleniu (Social skasowany 15.09.2026). Wszystkie pushują do repo. Rozróżnienie ma znaczenie
-praktyczne: promptu trwałej sesji nie zmienia się przez `update_trigger`
-(patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie").
+Scout, Wycofania, Łowca, Radar, Backfill i (od 22.09.2026) „Dane wt 05:30"
+działają jako trwałe sesje Claude Code Remote (`persist_session: true`) z repo
+w źródłach sesji — tylko one mogą pushować. Kontroler, Zdjęcia → R2,
+Przypomnienie o Empiku i Alerty cen startują świeżą sesją przy każdym
+odpaleniu (Social skasowany 15.09.2026); **świeża sesja z Routine nie ma repo
+ani konektorów** (dowody 21.09 Kontroler i 22.09 Dane wt), więc taki Routine
+może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Kontroler do
+odtworzenia z panelu (repo + konektor `Claude_Code_Remote`), prompt gotowy
+w `materialy/kontroler-prompt-2026-09-21.md`. Rozróżnienie ma też znaczenie
+przy edycji: promptu trwałej sesji nie zmienia się przez `update_trigger`
+(patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie"), a Routine
+założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.
 
 **Cowork nie uruchamia tych zadań.** Uśpione duplikaty `klocki-scout-nowosci`,
 `klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`, które

@@ -21,6 +21,14 @@ sety = json.load(open(BAZA + 'src/data/sety.json'))
 karty = {k for k in json.load(open(BAZA + 'src/data/karty_setow.json')) if k != '_meta'}
 feed = json.load(open(BAZA + 'src/data/oferty_feed.json')).get('sety', {})
 
+def cena_ref(r):
+    # jak w kolejka-redakcyjna.py: bez RRP liczy się najniższa oferta z feedu
+    c = r.get('cena_katalogowa')
+    if c not in (None, '', 0): return float(c), False
+    of = (feed.get(str(r['numer'])) or {}).get('oferty') or {}
+    ceny = [float(v) for v in of.values() if isinstance(v, (int, float)) and v > 0]
+    return (min(ceny), True) if ceny else (None, True)
+
 def bez_opisu(nr):
     w = sety.get(nr)
     return not (nr in karty or (w and (w.get('opis') or (w.get('dla_rodzica') and w.get('dla_afol')))))
@@ -29,7 +37,7 @@ rows = [(s, r) for s, v in kat.items() if s != '_meta' and isinstance(v, list) f
 kand = [(s, r) for s, r in rows
         if isinstance(r.get('rok'), int) and 2020 <= r['rok'] <= 2026
         and r.get('status') == 'dostepny'
-        and r.get('cena_katalogowa') not in (None, '', 0)
+        and cena_ref(r)[0] is not None
         and bez_opisu(str(r['numer']))]
 
 best = {}
@@ -45,7 +53,7 @@ def premiera(nr, rok):
 # od najnowszych: premiera malejąco, potem rocznik, potem cena (droższe wyżej)
 data = sorted(best.values(),
               key=lambda x: (premiera(str(x[1]['numer']), x[1]['rok']), x[1]['rok'],
-                             float(x[1]['cena_katalogowa'])),
+                             cena_ref(x[1])[0]),
               reverse=True)
 
 ARIAL = 'Arial'
@@ -73,7 +81,9 @@ for i, (seria, r) in enumerate(data, start=2):
     ws.cell(row=i, column=5, value=r['rok']).alignment = Alignment(horizontal='center')
     el = ws.cell(row=i, column=6, value=r.get('elementy'))
     el.alignment = Alignment(horizontal='center')
-    pc = ws.cell(row=i, column=7, value=float(r['cena_katalogowa'])); pc.number_format = '#,##0.00'
+    cena, bez_rrp = cena_ref(r)
+    pc = ws.cell(row=i, column=7, value=cena); pc.number_format = '#,##0.00'
+    if bez_rrp: pc.comment = None; ws.cell(row=i, column=2, value=f"{r.get('nazwa')} (bez RRP — cena z rynku)")
     ws.cell(row=i, column=8,
             value='tak' if (feed.get(nr) or {}).get('cena') else '—'
             ).alignment = Alignment(horizontal='center')
@@ -167,8 +177,8 @@ for i, (seria, r) in enumerate(dane2, start=2):
     ws3.cell(row=i, column=3, value=seria)
     ws3.cell(row=i, column=4, value=r.get('rok')).alignment = Alignment(horizontal='center')
     ws3.cell(row=i, column=5, value=r.get('elementy')).alignment = Alignment(horizontal='center')
-    if r.get('cena_katalogowa'):
-        cc = ws3.cell(row=i, column=6, value=float(r['cena_katalogowa'])); cc.number_format = '#,##0.00'
+    if cena_ref(r)[0] is not None:
+        cc = ws3.cell(row=i, column=6, value=cena_ref(r)[0]); cc.number_format = '#,##0.00'
     cr = ws3.cell(row=i, column=7, value=float(f.get('cena'))); cr.number_format = '#,##0.00'
     ws3.cell(row=i, column=8, value=f.get('sklep')).alignment = Alignment(horizontal='center')
     ws3.cell(row=i, column=9, value=r.get('status')).alignment = Alignment(horizontal='center')
