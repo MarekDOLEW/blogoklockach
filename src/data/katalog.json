@@ -134,7 +134,8 @@
         "76327 Marvel: 269.99 -> 249.99",
         "43269 Disney: 619.99 -> 599.99"
       ]
-    }
+    },
+    "uzupelnienie_rrp_2026_09_22": "Uzupelniono 112 pustych cen katalogowych z rrp_potwierdzone.json (zrodlo: pelny katalog lego.com/pl-pl, Firecrawl 28.08.2026). Luka powstala, bo kontrola-rrp.mjs porownuje ze zrodlem tylko wpisy, ktore JUZ maja cene (linia 66: `if (s.cena_katalogowa)`), wiec nulle nigdy nie byly raportowane jako rozbieznosc."
   },
   "Ideas": [
     {
@@ -922,7 +923,7 @@
       "rok": 2026,
       "elementy": 1212,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 519.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -2449,7 +2450,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 559.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Icons",
       "lego_pl_widziano": "2026-09-22"
@@ -12364,7 +12365,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 3199.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Star Wars"
     }
@@ -13969,7 +13970,7 @@
       "rok": 2026,
       "elementy": 661,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "ekskluzyw": true,
       "lego_pl_widziano": "2026-09-22"
     },
@@ -13979,7 +13980,7 @@
       "rok": 2026,
       "elementy": 72,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 54.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -13988,7 +13989,7 @@
       "rok": 2026,
       "elementy": 218,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 104.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -14036,7 +14037,7 @@
       "rok": 2026,
       "elementy": 467,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -14064,7 +14065,7 @@
       "rok": 2026,
       "elementy": 230,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 104.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -14073,7 +14074,7 @@
       "rok": 2026,
       "elementy": 133,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 54.99,
       "ekskluzyw": true,
       "lego_pl_widziano": "2026-09-22"
     },
@@ -32969,7 +32970,8 @@
       "elementy": 189,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "66810",
@@ -33089,7 +33091,7 @@
       "rok": 2026,
       "elementy": 286,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -33162,7 +33164,7 @@
       "rok": 2026,
       "elementy": 272,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -46378,7 +46380,8 @@
       "elementy": 102,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "30686",
@@ -57297,7 +57300,8 @@
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
       "ekskluzyw": true,
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "5009616",
@@ -59365,7 +59369,8 @@
       "elementy": 2916,
       "status": "dostepny",
       "ekskluzyw": true,
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 1199.99
     },
     {
       "numer": "43264",
@@ -59481,7 +59486,8 @@
       "elementy": 378,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43278",
@@ -59490,7 +59496,8 @@
       "elementy": 306,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43279",
@@ -59540,7 +59547,7 @@
       "rok": 2026,
       "elementy": 85,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -61294,7 +61301,8 @@
       "elementy": 322,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "21272",
@@ -61384,7 +61392,8 @@
       "elementy": 535,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "30705",
@@ -62674,7 +62683,7 @@
       "rok": 2025,
       "elementy": 278,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
     },
     {
@@ -62684,7 +62693,8 @@
       "elementy": 588,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "72045",
@@ -62693,7 +62703,8 @@
       "elementy": 249,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "72046",
@@ -62701,7 +62712,7 @@
       "rok": 2025,
       "elementy": 421,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -62710,7 +62721,7 @@
       "rok": 2026,
       "elementy": 2234,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 779.99,
       "ekskluzyw": true,
       "lego_pl_widziano": "2026-09-22"
     },
@@ -62720,7 +62731,7 @@
       "rok": 2026,
       "elementy": 1367,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 729.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -63677,7 +63688,8 @@
       "elementy": 3145,
       "status": "dostepny",
       "ekskluzyw": true,
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "76969",
@@ -64551,7 +64563,8 @@
       "elementy": 750,
       "status": "eol",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "11045",
@@ -64559,7 +64572,7 @@
       "rok": 2026,
       "elementy": 820,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "lego_pl_widziano": "2026-09-22"
     }
   ],
@@ -64673,7 +64686,8 @@
       "elementy": 709,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-09-22"
+      "lego_pl_widziano": "2026-09-22",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10374",
@@ -64712,7 +64726,7 @@
       "rok": 2026,
       "elementy": 576,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -64730,7 +64744,7 @@
       "rok": 2026,
       "elementy": 879,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "lego_pl_widziano": "2026-09-22"
     },
     {
@@ -64861,7 +64875,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Botanicals"
     }
@@ -64969,7 +64983,7 @@
       "rok": 2026,
       "elementy": 587,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Pokémon",
       "ekskluzyw": true,
@@ -64981,7 +64995,7 @@
       "rok": 2026,
       "elementy": 2050,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 869.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Pokémon",
       "ekskluzyw": true,
@@ -64993,7 +65007,7 @@
       "rok": 2026,
       "elementy": 6838,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 2799.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Pokémon",
       "ekskluzyw": true,
@@ -65197,7 +65211,7 @@
       "rok": 2024,
       "elementy": 3091,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 869.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art",
       "ekskluzyw": true,
@@ -65219,7 +65233,7 @@
       "rok": 2025,
       "elementy": 791,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art",
       "lego_pl_widziano": "2026-09-22"
@@ -65230,7 +65244,7 @@
       "rok": 2025,
       "elementy": 2615,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 869.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art",
       "ekskluzyw": true,
@@ -65242,7 +65256,7 @@
       "rok": 2025,
       "elementy": 1773,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 519.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art",
       "lego_pl_widziano": "2026-09-22"
@@ -65253,7 +65267,7 @@
       "rok": 2025,
       "elementy": 744,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     }
@@ -65613,7 +65627,7 @@
       "rok": 2016,
       "elementy": 468,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Skylines / Architecture",
       "lego_pl_widziano": "2026-09-22"
@@ -65814,7 +65828,7 @@
       "rok": 2023,
       "elementy": 2125,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 689.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Architecture",
       "lego_pl_widziano": "2026-09-22"
@@ -65825,7 +65839,7 @@
       "rok": 2024,
       "elementy": 4382,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 999.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Architecture",
       "lego_pl_widziano": "2026-09-22"
@@ -65836,7 +65850,7 @@
       "rok": 2025,
       "elementy": 1880,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 689.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Architecture",
       "lego_pl_widziano": "2026-09-22"
@@ -65847,7 +65861,7 @@
       "rok": 2025,
       "elementy": 3455,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 1149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Architecture",
       "lego_pl_widziano": "2026-09-22"
@@ -66241,7 +66255,7 @@
       "rok": 2025,
       "elementy": 177,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog",
       "lego_pl_widziano": "2026-09-22"
@@ -66252,7 +66266,7 @@
       "rok": 2025,
       "elementy": 290,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog",
       "lego_pl_widziano": "2026-09-22"
@@ -66273,7 +66287,7 @@
       "rok": 2025,
       "elementy": 350,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog",
       "lego_pl_widziano": "2026-09-22"
@@ -66284,7 +66298,7 @@
       "rok": 2025,
       "elementy": 747,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog",
       "lego_pl_widziano": "2026-09-22"
@@ -66405,7 +66419,7 @@
       "rok": 2025,
       "elementy": 78,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 41.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing",
       "lego_pl_widziano": "2026-09-22"
@@ -66416,7 +66430,7 @@
       "rok": 2025,
       "elementy": 263,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -66426,7 +66440,7 @@
       "rok": 2025,
       "elementy": 322,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -66436,7 +66450,7 @@
       "rok": 2025,
       "elementy": 543,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing",
       "lego_pl_widziano": "2026-09-22"
@@ -66447,7 +66461,7 @@
       "rok": 2025,
       "elementy": 814,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -66457,7 +66471,7 @@
       "rok": 2025,
       "elementy": 149,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing",
       "lego_pl_widziano": "2026-09-22"
@@ -66542,7 +66556,7 @@
       "rok": 2025,
       "elementy": 298,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "One Piece",
       "lego_pl_widziano": "2026-09-22"
@@ -66553,7 +66567,7 @@
       "rok": 2025,
       "elementy": 576,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "One Piece",
       "lego_pl_widziano": "2026-09-22"
@@ -66574,7 +66588,7 @@
       "rok": 2025,
       "elementy": 3398,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 1299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "One Piece",
       "lego_pl_widziano": "2026-09-22"
@@ -66664,7 +66678,7 @@
       "rok": 2024,
       "elementy": 558,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 234.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked"
     },
@@ -66684,7 +66698,7 @@
       "rok": 2024,
       "elementy": 945,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66695,7 +66709,7 @@
       "rok": 2025,
       "elementy": 228,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 104.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66706,7 +66720,7 @@
       "rok": 2025,
       "elementy": 476,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66717,7 +66731,7 @@
       "rok": 2025,
       "elementy": 860,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66728,7 +66742,7 @@
       "rok": 2025,
       "elementy": 744,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66739,7 +66753,7 @@
       "rok": 2025,
       "elementy": 1327,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 519.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked",
       "lego_pl_widziano": "2026-09-22"
@@ -66798,7 +66812,7 @@
       "rok": 2024,
       "elementy": 691,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66819,7 +66833,7 @@
       "rok": 2024,
       "elementy": 954,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66830,7 +66844,7 @@
       "rok": 2025,
       "elementy": 250,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66841,7 +66855,7 @@
       "rok": 2025,
       "elementy": 546,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66852,7 +66866,7 @@
       "rok": 2025,
       "elementy": 1084,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66863,7 +66877,7 @@
       "rok": 2025,
       "elementy": 2503,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 999.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
       "lego_pl_widziano": "2026-09-22"
@@ -66911,7 +66925,7 @@
       "rok": 2025,
       "elementy": 104,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Bluey",
       "ekskluzyw": true,
@@ -66923,7 +66937,7 @@
       "rok": 2025,
       "elementy": 133,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Bluey",
       "ekskluzyw": true,
@@ -66935,7 +66949,7 @@
       "rok": 2025,
       "elementy": 382,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Bluey",
       "ekskluzyw": true,
@@ -67525,7 +67539,7 @@
       "rok": 2025,
       "elementy": 358,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 104.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wednesday",
       "lego_pl_widziano": "2026-09-22"
@@ -67536,7 +67550,7 @@
       "rok": 2025,
       "elementy": 828,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 359.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wednesday"
     },
@@ -67546,7 +67560,7 @@
       "rok": 2025,
       "elementy": 1002,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wednesday",
       "lego_pl_widziano": "2026-09-22"
@@ -69106,7 +69120,7 @@
       "rok": 2025,
       "elementy": 443,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
       "lego_pl_widziano": "2026-09-22"
@@ -69117,7 +69131,7 @@
       "rok": 2025,
       "elementy": 359,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69147,7 +69161,7 @@
       "rok": 2025,
       "elementy": 929,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
       "lego_pl_widziano": "2026-09-22"
@@ -69158,7 +69172,7 @@
       "rok": 2025,
       "elementy": 1413,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 599.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
       "lego_pl_widziano": "2026-09-22"
@@ -71556,7 +71570,7 @@
       "rok": 2023,
       "elementy": 499,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse",
       "lego_pl_widziano": "2026-09-22"
@@ -71877,7 +71891,7 @@
       "rok": 2016,
       "elementy": 4502,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Mosaic / Sculptures",
       "lego_pl_widziano": "2026-09-22"
@@ -72158,7 +72172,7 @@
       "rok": 2023,
       "elementy": 654,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "ekskluzyw": true,
@@ -72200,7 +72214,7 @@
       "rok": 2024,
       "elementy": 743,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 319.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -72211,7 +72225,7 @@
       "rok": 2025,
       "elementy": 468,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -72232,7 +72246,7 @@
       "rok": 2025,
       "elementy": 402,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -72243,7 +72257,7 @@
       "rok": 2025,
       "elementy": 184,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 61.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -72254,7 +72268,7 @@
       "rok": 2025,
       "elementy": 694,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -72455,7 +72469,7 @@
       "rok": 2025,
       "elementy": 809,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Nike",
       "ekskluzyw": true,
@@ -72467,7 +72481,7 @@
       "rok": 2025,
       "elementy": 454,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Nike",
       "ekskluzyw": true,
@@ -72489,7 +72503,7 @@
       "rok": 2026,
       "elementy": 519,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Learning at Home / Educational and Dacta",
       "lego_pl_widziano": "2026-09-22"
@@ -72500,7 +72514,7 @@
       "rok": 2026,
       "elementy": 461,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Learning at Home / Educational and Dacta",
       "lego_pl_widziano": "2026-09-22"
@@ -72511,7 +72525,7 @@
       "rok": 2026,
       "elementy": 933,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Learning at Home / Educational and Dacta",
       "lego_pl_widziano": "2026-09-22"
@@ -72522,7 +72536,7 @@
       "rok": 2026,
       "elementy": 1134,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Learning at Home / Educational and Dacta",
       "lego_pl_widziano": "2026-09-22"
@@ -72783,7 +72797,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 689.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-09-22"
@@ -73194,7 +73208,7 @@
       "rok": 2025,
       "elementy": 768,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Horizon Adventures",
       "lego_pl_widziano": "2026-09-22"
@@ -73626,7 +73640,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 1299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Ideas and CUUSOO"
     },
@@ -73826,7 +73840,7 @@
       "rok": 2025,
       "elementy": 1180,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Nike"
     },
@@ -75218,7 +75232,7 @@
       "rok": 2019,
       "elementy": 1,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 94.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Powered Up / Power Functions",
       "lego_pl_widziano": "2026-09-22"
@@ -75229,7 +75243,7 @@
       "rok": 2020,
       "elementy": 1,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Powered Up / Power Functions",
       "lego_pl_widziano": "2026-09-22"
@@ -75240,7 +75254,7 @@
       "rok": 2020,
       "elementy": 1,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 144.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Powered Up / Power Functions",
       "lego_pl_widziano": "2026-09-22"
@@ -75261,7 +75275,7 @@
       "rok": 2021,
       "elementy": 1,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 144.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Powered Up / Power Functions",
       "lego_pl_widziano": "2026-09-22"
@@ -79042,7 +79056,7 @@
       "rok": 2023,
       "elementy": 277,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79083,7 +79097,7 @@
       "rok": 2023,
       "elementy": 1715,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 599.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79144,7 +79158,7 @@
       "rok": 2024,
       "elementy": 557,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79165,7 +79179,7 @@
       "rok": 2024,
       "elementy": 2330,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 779.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79176,7 +79190,7 @@
       "rok": 2024,
       "elementy": 712,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79187,7 +79201,7 @@
       "rok": 2024,
       "elementy": 1163,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 469.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79198,7 +79212,7 @@
       "rok": 2025,
       "elementy": 806,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"
@@ -79209,7 +79223,7 @@
       "rok": 2025,
       "elementy": 791,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
       "lego_pl_widziano": "2026-09-22"

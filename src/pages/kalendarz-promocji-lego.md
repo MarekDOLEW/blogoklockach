@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-21"
+zaktualizowano: "2026-09-22"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -118,6 +118,8 @@ Warunki Batman Day potwierdziliśmy w dniu startu, na podstawie relacji serwisu 
 Jeśli masz wybrać jeden, wybierz drzewo: jego próg jest niższy przy obu krążących kwotach, a sam gratis dostaniesz również w salonie stacjonarnym.
 
 **Czym dobić do progu, żeby nie dokładać drobnicy.** Na LEGO.com nie ma teraz sensownych przecen, więc próg 430 czy 500 zł najrozsądniej zapełnić czymś, co i tak zniknie: zestawami z [potwierdzonej listy wycofań na koniec roku](/artykuly/wycofania-lego-grudzien-2026/). Uwaga, która wynika z naszych własnych danych, a nie z kalendarza promocji: **co czwarty wycofywany zestaw jest już dziś droższy od ceny katalogowej**, więc przed dorzuceniem czegokolwiek do koszyka sprawdź tabelę cen na podstronie zestawu. Gratis nie ratuje zakupu zrobionego powyżej cennika.
+
+**Trzy zestawy, przy których LEGO.com naprawdę jest najtańszy.** To rzadka sytuacja, więc warto ją nazwać: [43021 Nike Dunk Trickshot](/zestaw/43021/) (169,99 zł), [76356 Popiersie Venoma](/zestaw/76356/) (209,99 zł) i [31394 Urocze zwierzątka: Panda ruda](/zestaw/31394/) (124,99 zł) siedzą teraz w dystrybucji ekskluzywnej. Sprawdziliśmy je w naszych tabelach: w sklepach zewnętrznych są **droższe od cennika** – Nike Dunk o 47% na Allegro, Venom o 33% w Empiku, Panda o 56% na Allegro. Przy takich zestawach dobicie do progu gratisowego nic nie kosztuje, bo i tak nie ma taniej alternatywy. To odwrotność sytuacji z wycofaniami opisanej wyżej – i dlatego przed każdym dorzuceniem do koszyka warto zajrzeć w tabelę cen, zamiast zgadywać.
 
 Obu terminów LEGO nie ogłosiło publicznie – dlatego całe to okno zostaje przewidywane.
 

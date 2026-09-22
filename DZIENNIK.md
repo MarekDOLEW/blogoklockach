@@ -66,6 +66,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 08:00 · RADAR · Do zrobienia
+
+**Kontrola własna · 22.09** — `kontrola-rrp.mjs` porównuje ze źródłem tylko wpisy, które JUŻ mają cenę (linia 66: `if (s.cena_katalogowa)`), więc puste ceny nigdy nie były zgłaszane jako rozbieżność. Tak przeleżało 112 zestawów z ceną potwierdzoną w `rrp_potwierdzone.json` i `null` w katalogu.
+**Mamy?** — tak: ceny uzupełnione w tym przebiegu, `ROZBIEŻNYCH: 0`, liczba wpisów z ceną 4661 → 4773.
+**Zrobić:** — zmiana w `scripts/kontrola-rrp.mjs`: osobny licznik „puste ceny, a źródło je zna", żeby następna taka luka wyszła sama, zamiast czekać na przypadek.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-09-22 06:00 · CODE · Naprawy po dwóch dniach awarii runnerów: Dane wt w trwałej sesji, Scout z regułą dowodu, luka 30732
 
 Ustalenia z gita (ten klon, reflog `origin/main` od 12.09): zero przepisań

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-21",
-    "przebieg": "scheduled 2026-09-21 08:00",
+    "ostatnia_aktualizacja": "2026-09-22",
+    "przebieg": "scheduled 2026-09-22 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 180,
+    "liczba_wpisow": 186,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2170,6 +2170,77 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Przeglad popkulturowy, bez zwiazku z zakupami LEGO."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa - mala kumulacja z gratisami + EOL",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-mala-kumulacja-z-gratisami-eol",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Ich material o starcie okna 21-30.09. PROGU DALEJ NIE PODAJA - pytanie z 21.09 zostaje otwarte. Konkret, ktory sprawdzilismy i potwierdzilismy w swoich danych: 43021 Nike Dunk Trickshot, 76356 Popiersie Venoma i 31394 Panda ruda sa w dystrybucji ekskluzywnej i w sklepach zewnetrznych sa DROZSZE od cennika (Allegro +47%, Empik +33%, Allegro +56%). Dopisane do /kalendarz-promocji-lego/ jako trzy zestawy, przy ktorych LEGO.com naprawde jest najtanszy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 21.09.2026 (zbiorczo: 10365, 21358, 11371, 10360, 10351, 42211, 75415, 21357, 11503)",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-icons-10365-czarna-perla-8",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Dziewiec wpisow jednego dnia, wszystkie w naszych hubach z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Okolicznosciowe i specjalne",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-okolicznosciowe-specjalne",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem XI-XII. Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi zestawow okazjonalnych/specjalnych na 2027 rok",
+      "url": "https://faniklockow.pl/2026/09/21/zapowiedzi-zestawow-okazjonalnych-specjalnych-na-2027-rok",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow, rocznik 2027."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Katalog COBI 2026-2 juz dostepny",
+      "url": "https://fanklockow.pl/katalog-cobi-2026-2-juz-dostepny",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "KLOCkast 2.0: Spokojny wrzesien (10-21.09.2026)",
+      "url": "https://fanklockow.pl/klockast-2-0-spokojny-wrzesien-i-troche-o-wolverine-10-21-09-2026",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Podcast, przeglad dwoch tygodni. Bez nowych faktow zakupowych."
     }
   ],
   "obserwacje_strategiczne": {
