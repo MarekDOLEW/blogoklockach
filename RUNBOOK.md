@@ -100,6 +100,19 @@ feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
 
 ---
 
+**22.09.2026 — powrót do feedu „tylko LEGO".** Feed `39967a61…` (kategoria
+LEGO, ~476 tys. ofert) znów odpowiada 200 po przerwie od 24.08; szeroki feed
+`497662bc…` (cała kategoria Dziecko, LEGO to 65 tys. z 777 tys. linii) był
+zapasem i został w `feedy.json` jako `url_zapasowy`. Feed LEGO niesie 227 tys.
+pojedynczych elementów z numerami, które kolidują z numerami starych zestawów
+(„Lego Tile 1751", „Lego 2432 Tile"), dlatego `feedy-lego.py` bierze wyłącznie
+ścieżkę kategorii `> LEGO > Zestawy`, odrzuca oferty z atrybutem „Liczba
+elementów" < 10 i tytuły części (tile/brick/plate/płytka/klocek, wymiary 1x…/
+2x…, „szt", gramy). Wynik wyciągu 22.09: 6 398 numerów (stary feed 5 380),
+5 975 z hubem, 1 105 zestawów z `sety.json` z ofertą (było 1 002); 477 numerów
+było tylko w starym feedzie, 1 495 tylko w nowym. Gdy `39967a61…` znów da 404 —
+przełączyć `url` na `url_zapasowy` ręcznie i wpisać to do dziennika.
+
 ## Empik: deeplinki produktowe *(przygotowane 14.09.2026)*
 
 Do 14.09 `/idz/empik/<nr>` prowadził na wyszukiwarkę Empiku — nie z lenistwa,

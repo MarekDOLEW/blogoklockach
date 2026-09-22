@@ -92,6 +92,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 13:20 · CODE · Allegro: przełączenie na feed „tylko LEGO" (decyzja Marka), filtr części w feedy-lego.py
+
+Porównanie (surowo): feed LEGO `39967a61…` 475 847 linii / 475 419 LEGO; feed
+szeroki `497662bc…` 777 165 / 64 977 LEGO. Wyciąg bez zmian w skrypcie dawał
+z nowego feedu 25 895 „zestawów" — w tym 605 ofert poniżej 15 zł na numerach
+elementów kolidujących z Archiwum (1747, 2431, 2434…). Po nowych bramkach
+(ścieżka `> LEGO > Zestawy`, „Liczba elementów" ≥ 10, słownik części w
+`SLOWA_NIE_ZESTAW`, atrybut „Numer produktu" tylko gdy sam numer, fallback
+numeru z tytułu w kategorii Zestawy): 6 398 numerów, 5 975 z hubem, 2 odsiane
+progiem 28%, 957 powyżej 3× RRP (kolekcjonerskie, ukrywa górne sito), 83 bez
+RRP poniżej 15 zł — same polybagi Creator 119xx. `feedy.json`: `url` → feed
+LEGO, stary jako `url_zapasowy`. Testy zaciągały feed czterokrotnie po ~1,1 GB;
+skutki uboczne w `historia-cen`, `oferty_feed`, `redirects` cofnięte, na main
+idzie tylko konfiguracja i skrypt. Pierwszy realny przebieg: Łowca 23.09 08:30 —
+sprawdzić `_meta.liczby.allegro` (oczekiwane ~6 400) i czy huby Archiwum nie
+dostały ofert za 1 zł.
+
 ## 2026-09-22 12:05 · MAREK → CODE · Decyzje: kamienie milowe zamiast 20 000 zł, sitemap-priorytet zdjęta, pomiar Allegro/PK zostaje, Firecrawl 1 500/mies.
 
 - **Cel na grudzień 2026 = cztery kamienie milowe** (pierwsza zatwierdzona prowizja

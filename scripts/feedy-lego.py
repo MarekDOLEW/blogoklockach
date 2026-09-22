@@ -38,9 +38,20 @@ WZORZEC_KOD_MINIFIGURKI = re.compile(
     re.IGNORECASE,
 )
 SLOWA_NIE_ZESTAW = re.compile(
-    r'minifig|figurka\s+lego|instrukcj|pude[lł]k|naklejk|breloc|zestaw\s+cz[eę][sś]ci|cz[eę][sś]ci\s+lego|luzem|na\s+wag[eę]',
+    r'minifig|figurka\s+lego|instrukcj|pude[lł]k|naklejk|breloc|zestaw\s+cz[eę][sś]ci|cz[eę][sś]ci\s+lego|luzem|na\s+wag[eę]'
+    # pojedyncze elementy (feed Allegro „tylko LEGO" od 22.09.2026 niesie ~470 tys.
+    # ofert, w większości części z numerem elementu, który koliduje z numerami
+    # starych zestawów: „Lego Tile 1751 Płytka 4x4", „Lego 2432 Tile Zaczep", „Lego
+    # Klocek 2x4x2 (2434/4494850)"): nazwy części, wymiary 1x4/2x4x2, sztuki, gramy
+    r'|\b(?:tile|brick|plate|slope|wedge|technic\s+pin|pin\b|axle|beam)\b|p[lł]ytk|\bklocek\b|\b[12]\s*x\s*\d+\b|\b\d+\s*x\s*\d+\s*x\s*\d+\b'
+    r'|\b\d+\s*szt\b|\(\d+\s*g\)|\bnr\.?\s*\d{4,7}\b|katalog\s+lego|drukowany|[lł]odyg|\belement\b',
     re.IGNORECASE,
 )
+
+# Liczba elementów z atrybutu Allegro („Liczba elementów", id 201121): zestaw ma
+# ich dziesiątki–tysiące, pojedyncza część 1–9. Poniżej tego progu oferta nie
+# jest zestawem niezależnie od tytułu.
+MIN_ELEMENTOW_ZESTAWU = 10
 
 
 def nie_zestaw(nazwa):
@@ -160,22 +171,48 @@ def z_allegro():
             # z numerami łudząco podobnymi do setów.
             marka = None
             nr = None
+            elementow = None
             for atrybut in o.get('attributes', []) or []:
                 ident = str(atrybut.get('id'))
+                nazwa_atrybutu = str(atrybut.get('name') or '')
+                wartosci = atrybut.get('values') or []
                 if ident == '248811':
-                    wartosci = atrybut.get('values') or []
                     marka = str(wartosci[0]) if wartosci else None
-                elif ident == '201105':
-                    # atrybut "Numer produktu" ma pierwszeństwo przed regexem z nazwy
-                    wartosci = atrybut.get('values') or []
+                elif ident == '201105' or nazwa_atrybutu == 'Numer produktu':
+                    # atrybut "Numer produktu" ma pierwszeństwo przed regexem z nazwy —
+                    # ale tylko gdy niesie SAM numer (w kategorii LEGO id atrybutu to
+                    # 245781, a części mają tam opisy typu „LEGO liść 3565 5x")
                     if wartosci:
-                        znaleziony = re.search(r'\b(\d{4,7})\b', str(wartosci[0]))
+                        znaleziony = re.fullmatch(r'\s*(?:LEGO\s+)?(\d{4,7})\s*', str(wartosci[0]), re.IGNORECASE)
                         nr = znaleziony.group(1) if znaleziony else None
+                elif ident == '201121' or nazwa_atrybutu == 'Liczba elementów':
+                    if wartosci:
+                        znaleziony = re.search(r'\d+', str(wartosci[0]).replace(' ', ''))
+                        elementow = int(znaleziony.group(0)) if znaleziony else None
             if (marka or '').strip().upper() != 'LEGO' and not nazwa.upper().startswith('LEGO'):
+                continue
+            if elementow is not None and elementow < MIN_ELEMENTOW_ZESTAWU:
+                continue
+            # Feed „tylko LEGO" (od 22.09.2026, fid 39967a61…) ma drzewo kategorii:
+            # „… > LEGO > Zestawy > <seria>" to zestawy; „Klocki pojedyncze > Elementy"
+            # (227 tys. ofert), „Minifigurki", „Pojemniki", „Breloczki", „Instrukcje",
+            # „Mieszane" to nie zestawy — odpadają po ścieżce, zanim tytuł cokolwiek
+            # powie. Feed zapasowy (cała kategoria Dziecko) tej ścieżki nie ma, więc
+            # brama działa tylko, gdy ścieżka zawiera „> LEGO >".
+            sciezka = str(o.get('category_name_path') or '')
+            w_zestawach = ' > Zestawy' in sciezka
+            if '> LEGO >' in sciezka and not w_zestawach:
                 continue
             if not nr:
                 dopasowanie = WZORZEC_LEGO.match(nazwa)
                 nr = dopasowanie.group(1) if dopasowanie else None
+            if not nr and w_zestawach:
+                # w kategorii Zestawy tytuły często nie zaczynają się od „LEGO"
+                # („Klocki Lego City…", „75399 Lego Star Wars…", „1x Lego Friends 42677…")
+                # — bierz pierwszy 4–7-cyfrowy numer, o ile nie jest liczbą elementów/sztuk
+                for znaleziony in re.finditer(r'\b(\d{4,7})\b(?!\s*(?:el\b|elem|szt|klock|cz[eę][sś]ci))', nazwa):
+                    nr = znaleziony.group(1)
+                    break
             if not nr or nie_zestaw(nazwa):
                 continue
             cena = cena_liczba((o.get('price') or {}).get('value') if isinstance(o.get('price'), dict) else o.get('price'))
