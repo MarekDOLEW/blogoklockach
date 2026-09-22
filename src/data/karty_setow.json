@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-09-17",
+  "zaktualizowano": "2026-09-22",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -55337,6 +55337,56 @@
    {
     "q": "Jaki zestaw LEGO Creator warto wybrać zamiast modelu 40900?",
     "a": "Jeżeli podświetlane drzewo nie odpowiada odbiorcy albo próg promocji okaże się zbyt wysoki, warto sprawdzić regularnie sprzedawane dekoracje halloweenowe i sezonowe modele Creator. <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "75192": {
+  "seria": "Star Wars",
+  "nazwa": "Sokół Millennium",
+  "elementy": 7541,
+  "akapity": [
+   "LEGO Star Wars 75192 Sokół Millennium to flagowy model Ultimate Collector Series, który zadebiutował w regularnej sprzedaży 1 października 2017 roku. Zestaw składa się z 7541 elementów, ma oznaczenie wiekowe 16+ i po zbudowaniu osiąga około 84 cm długości, 60 cm szerokości oraz 21 cm wysokości. Mimo upływu lat pozostaje największą i najbardziej szczegółową wersją Sokoła Millennium w ofercie LEGO Star Wars.",
+   "Model powstał przede wszystkim z myślą o ekspozycji i kolekcjonerach Star Wars, ale nie jest zamkniętą makietą. Zdejmowane panele kadłuba odsłaniają fragmenty wnętrza, w tym główną ładownię ze stołem do Dejarika, maszynownię z hipernapędem i stanowisko strzelnicze. Statek ma także opuszczaną rampę, obrotowe poczwórne działa laserowe, kokpit mieszczący cztery minifigurki i siedem podpór do lądowania. Szczególnie ciekawym rozwiązaniem jest możliwość skonfigurowania modelu w wersji odpowiadającej klasycznej trylogii albo nowszym filmom – służą do tego wymienne anteny oraz dwie grupy bohaterów.",
+   "W zestawie znajdziemy Hana Solo, Chewbaccę, księżniczkę Leię i C-3PO w wersjach z klasycznej trylogii oraz starszego Hana, Rey i Finna z trylogii sequeli. Osobno występuje BB-8, a całość uzupełniają dwa porgi i mynock. 75192 jest więc przede wszystkim dużym modelem kolekcjonerskim dla fana Star Wars, który ma odpowiednio dużo miejsca na ekspozycję. Jego największym wyróżnikiem pozostaje skala połączona z możliwością przedstawienia dwóch filmowych epok Sokoła Millennium. LEGO nadal oferuje zestaw, ale oznacza go obecnie jako „Ostatnie zestawy”.",
+   "Na tle rocznika 2026 serii LEGO Star Wars to największy zestaw spośród 43, o których wiemy w tym roku."
+  ],
+  "metryka": {
+   "Numer": "75192",
+   "Nazwa": "Sokół Millennium",
+   "Seria": "LEGO Star Wars",
+   "Podseria": "Ultimate Collector Series (UCS)",
+   "Premiera": "1 października 2017",
+   "Liczba elementów": "7541",
+   "Wiek": "16+",
+   "Minifigurki i postacie": "7 minifigurek + BB-8; dodatkowo 2 porgi i mynock",
+   "RRP LEGO Polska": "3599,99 zł",
+   "Cena katalogowa za element": "ok. 0,48 zł / 47,7 gr",
+   "Wymiary": "ok. 84 × 60 × 21 cm",
+   "Typ zestawu": "kolekcjonerski / ekspozycyjny",
+   "Powiązanie": "duży model UCS Sokoła Millennium",
+   "Dystrybucja": "selektywna; LEGO oznacza zestaw jako „Ekskluzywne”, ale jest dostępny także u wybranych sprzedawców",
+   "Aktualny status": "dostępny; oznaczony przez LEGO jako „Ostatnie zestawy”"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75192 Sokół Millennium?",
+    "a": "Oficjalna polska cena katalogowa wynosi obecnie 3599,99 zł. Ze względu na wysoką cenę zestawu przed zakupem warto porównać dostępność u LEGO i wybranych sprzedawców.<a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 75192?",
+    "a": "Przy RRP 3599,99 zł i 7541 elementach wychodzi około 47,7 gr za element. To jednak wyłącznie wskaźnik pomocniczy – w tak dużym zestawie UCS znacznie większe znaczenie mają skala modelu, licencja, specjalistyczne elementy i wartość ekspozycyjna."
+   },
+   {
+    "q": "Czy warto kupić LEGO 75192 w cenie katalogowej?",
+    "a": "Przy cenie 3599,99 zł warto najpierw sprawdzić oferty innych wiarygodnych sprzedawców. Sytuację zmienia jednak obecny status zestawu: LEGO oznacza go już jako „Ostatnie zestawy”, więc wraz ze zmniejszaniem dostępności oczekiwanie wyłącznie na duży rabat może być mniej uzasadnione niż kilka lat wcześniej. Zakup bezpośrednio w LEGO może mieć dodatkowy sens przy korzystnej promocji, punktach Insiders lub wartościowym prezencie przy zakupie."
+   },
+   {
+    "q": "Gdzie najlepiej kupić LEGO 75192 Sokół Millennium?",
+    "a": "Zestaw nadal można kupić bezpośrednio w LEGO, a także u wybranych dużych sprzedawców. Przy tak wysokiej wartości zamówienia warto porównywać nie tylko samą cenę, ale również wiarygodność sklepu, warunki dostawy i możliwość bezproblemowego zwrotu.<a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy LEGO 75192 jest częścią większej kolekcji?",
+    "a": "Tak. 75192 należy do kolekcjonerskiej linii LEGO Star Wars Ultimate Collector Series. Jest jednocześnie największą wersją Sokoła Millennium w historii LEGO Star Wars, ale w ofercie występują również znacznie mniejsze modele tego statku przeznaczone do ekspozycji lub zabawy."
    }
   ]
  }

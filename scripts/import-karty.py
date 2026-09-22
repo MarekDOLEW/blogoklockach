@@ -70,6 +70,11 @@ def parsuj(path):
     d = {'plik': os.path.basename(path), 'nr': None, 'akapity': [], 'metryka': collections.OrderedDict(), 'faq': []}
     sekcja = None; met = []; faq = []
     for styl, t in akapity_docx(path):
+        # paczka P07c (22.09.2026, karta 75192): zero stylów i zero kolorów —
+        # nagłówki sekcji to gołe akapity „Metryka zestawu" / „FAQ", metryka jest
+        # tabelą (Pole | Dane), a opis stoi od razu pod tytułem bez nagłówka „Opis"
+        if not styl and t in ('Opis zestawu', 'Metryka zestawu', 'FAQ') or (not styl and t.startswith('FAQ ')):
+            styl = 'Heading2'
         if styl.startswith('Heading') and sekcja == 'faq' and styl != 'Heading1':
             faq.append(t); continue   # P07b: pytania FAQ są nagłówkami 2. stopnia
         if styl.startswith('Heading'):
@@ -79,13 +84,24 @@ def parsuj(path):
                       else 'faq' if ('FAQ' in t or 'pytania' in t.lower()) else 'inne')
             continue
         if sekcja is None:
-            m = re.match(r'LEGO (\d{4,5})(?:\s|$)', t)
-            if m and not d['nr']: d['nr'] = m.group(1)
+            m = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,5})(?:\s|$)', t)
+            if m and not d['nr']: d['nr'] = m.group(1); continue
+            if d['nr']: d['akapity'].append(t)   # P07c: opis bez nagłówka, zaraz pod tytułem
         elif sekcja == 'opis': d['akapity'].append(t)
         elif sekcja == 'metryka': met.append(t)
         elif sekcja == 'faq': faq.append(t)
-    if met[:2] == ['Pole', 'Informacja']: met = met[2:]   # nagłówek tabeli w P07b
+    if met[:2] in (['Pole', 'Informacja'], ['Pole', 'Dane']): met = met[2:]   # nagłówek tabeli w P07b/P07c
+    # P07c: metryka kończy się zdaniem-przypisem („Aktualne RRP oraz status…") bez pary
+    if len(met) % 2 == 1 and len(met[-1]) > 60: met = met[:-1]
     d['metryka'] = collections.OrderedDict((met[i], met[i+1]) for i in range(0, len(met)-1, 2))
+    # P07c: pytanie i odpowiedź w jednym akapicie („Ile kosztuje…?Oficjalna…") —
+    # rozcinamy na pierwszym „?" po którym od razu stoi wielka litera
+    rozciete = []
+    for t in faq:
+        m = re.match(r'^(.+?\?)(?=[A-ZŁŚŻŹĆŃÓĘĄ])(.+)$', t, re.DOTALL)
+        if m and not t.endswith('?'): rozciete += [m.group(1).strip(), m.group(2).strip()]
+        else: rozciete.append(t)
+    faq = rozciete
     d['faq'] = [{'q': faq[i], 'a': faq[i+1]} for i in range(0, len(faq)-1, 2)]
     return d
 

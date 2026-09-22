@@ -92,6 +92,38 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 14:40 · CODE · Trzy rankingi Piotra + karta 75192 na stronie
+
+Artykuły (Rankingi, data 22.09, tagi „Dla kolekcjonera"): `/artykuly/najwieksze-zestawy-lego-technic/`
+(okładka 42100; tabele cen 42177, 42172, 42232; galeria 6 zdjęć),
+`/artykuly/najwieksze-zestawy-lego-star-wars/` (okładka 75419; tabele cen 75397,
+75367, 75192, 75419 w miejscach oznaczonych przez Piotra `[TABELA CENOWA]`; galeria 6),
+`/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/` (okładka 10123; tabele cen dla
+wycofanych z ofertą: 21137, 10196; galeria 6; ceny w USD z BrickLink/eBay III–VIII
+2026 to treść rankingu, nie snapshot sklepowy). Tabele zbiorcze mają linki do hubów
+tylko w kolumnie zestawu (pierwsza wersja zlinkowała też kolumnę „Mediana USD" — 8098
+to numer zestawu; poprawione przed buildem). FAQ w frontmatter napisane z faktów
+z tekstu (3 na artykuł). Sześć numerów z rankingu wtórnego nie ma huba (6286, 6285,
+852293, 7783, 7785, 6991) — bez linku. Bez „cegieł" w żadnym z tekstów.
+
+Karta P07 75192 Sokół Millennium: nowy wariant szablonu (bez stylów, metryka jako
+tabela Pole|Dane, FAQ w jednym akapicie „pytanie?odpowiedź") — `import-karty.py`
+rozszerzony (P07c), RRP 3 599,99 zgodne, 4 akapity + 5 FAQ, rejestr 1 098 → 1 099.
+Hub `/zestaw/75192/` bez `noindex` (przy crawlu 10.09 Google widział noindex —
+prośba o indeksowanie wysłana dziś przez Coworka). Build: 9 651 stron.
+
+## 2026-09-22 14:10 · MAREK (Cowork) → CODE · GSC: 807 zaindeksowanych (18.09), sitemap-priorytet usunięta, 10 próśb o indeksowanie wysłanych
+
+Panel GSC, dane z 18.09.2026: **807 zaindeksowanych, 2 910 niezaindeksowanych**
+(6 przyczyn) — wobec 307 / 3 360 z odczytu 15.09 (dane z 4.09). Mapa
+`sitemap-priorytet.xml` usunięta z GSC, zostało 8 map (index nietknięty).
+Prośby o zindeksowanie wysłane dla 10 adresów bez limitu: `/` (crawl 25.08),
+`/artykuly/najdrozsze-zestawy-lego/`, `/przecieki/`, `/artykuly/jak-rosly-zestawy-lego/`,
+`/artykuly/slowniczek-lego/`, dwa teksty o historii licencji — wszystkie
+„nieznane Google"; `/zestaw/76354/` i `/ekskluzywne/` — „wykryta, niezindeksowana";
+`/zestaw/75192/` — przy crawlu 10.09 miał `noindex` (dziś w buildzie go nie ma,
+karta P07 Piotra dla 75192 w imporcie). Punkt odniesienia dla Kontrolera 29.09.
+
 ## 2026-09-22 13:20 · CODE · Allegro: przełączenie na feed „tylko LEGO" (decyzja Marka), filtr części w feedy-lego.py
 
 Porównanie (surowo): feed LEGO `39967a61…` 475 847 linii / 475 419 LEGO; feed
