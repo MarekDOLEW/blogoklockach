@@ -10,7 +10,8 @@
 //
 // Skrypt NIE pobiera danych sam: Routines nie mają API dostępnego z kontenera.
 // Odczyt robi sesja Claude Code wywołaniem `list_triggers` (potrzebny konektor
-// `Claude_Code_Remote` — z naszych runnerów ma go wyłącznie Kontroler) i zapisuje
+// `Claude_Code_Remote` — od 22.09.2026 ma go wyłącznie sesja Code, która robi to
+// Routine „LEGO pon 07:45 — Harmonogram z konta"; żaden runner go nie ma) i zapisuje
 // odpowiedź do pliku. Tutaj zamieniamy ją na tekst dokumentu.
 //
 // Użycie:
@@ -247,7 +248,7 @@ const blok = [
   + `Objął **${routines.length} Routines** — pełna lista, bez paginacji.`,
   '',
   'Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`',
-  'z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.',
+  'z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z konta" (pon 07:45 PL); Kontroler ją czyta.',
   '',
   tabela(lego),
   '',
@@ -316,7 +317,7 @@ const blokPromptow = [
   '',
   `*Plik w całości generuje \`scripts/harmonogram-z-konta.mjs\` z odpowiedzi \`list_triggers\`;`,
   `odczyt z konta: ${new Date().toLocaleString('pl-PL', { timeZone: 'Europe/Warsaw', dateStyle: 'short', timeStyle: 'short' })} (${STREFA}). Nie edytuj ręcznie — źródłem prawdy`,
-  'jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git',
+  'jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git',
   'pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją',
   'wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*',
   '',

@@ -15,7 +15,7 @@ Każdy temat ma jedno miejsce. Jeśli szukasz czegoś indziej, szukasz źle.
 |---|---|
 | Kto z ludzi czym włada | `redakcja/wspolpraca.md` |
 | Które narzędzie czym włada | ten plik |
-| Harmonogram runnerów | `materialy/zadania-cykliczne.md` *(generowany)* |
+| Harmonogram runnerów | `materialy/zadania-cykliczne.md` *(sekcja „Zrzut" generowana)* |
 | Wiedza operacyjna, pułapki, awarie | `RUNBOOK.md` |
 | Wymiana informacji między sesjami | `DZIENNIK.md` |
 | Standard artykułów, metodologia | `redakcja/` |
@@ -67,7 +67,7 @@ jest ich zrzutem, nie konfiguracją — patrz sekcja „Harmonogram".
 | `materialy/` | **Cowork** | pisze |
 | `redakcja/` | wspólnik + Cowork | pisze |
 | `DZIENNIK.md` | oba, append-only | dopisuje |
-| `materialy/zadania-cykliczne.md` | generator | **nikt nie edytuje ręcznie** |
+| `materialy/zadania-cykliczne.md` | sekcja między `HARMONOGRAM:START/KONIEC`: generator (**nikt nie edytuje ręcznie**); reszta: Claude Code | tylko czyta |
 
 ### Dlaczego `src/data/*.json` jest zamknięte dla Cowork
 
@@ -112,14 +112,17 @@ zdublowana praca na plikach po 2 MB.
 
 Scout, Wycofania, Łowca, Radar, Backfill i (od 22.09.2026) „Dane wt 05:30"
 działają jako trwałe sesje Claude Code Remote (`persist_session: true`) z repo
-w źródłach sesji — tylko one mogą pushować. Kontroler, Zdjęcia → R2,
+w źródłach sesji — tylko one mogą pushować. Od 22.09.2026 Kontroler
+(`trig_01EDEhtPiW4AVSAiGg9Co1mx`) też jest trwałą sesją z repo. Zdjęcia → R2,
 Przypomnienie o Empiku i Alerty cen startują świeżą sesją przy każdym
-odpaleniu (Social skasowany 15.09.2026); **świeża sesja z Routine nie ma repo
-ani konektorów** (dowody 21.09 Kontroler i 22.09 Dane wt), więc taki Routine
-może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Od 22.09.2026
-Kontroler też jest trwałą sesją z repo; konektor `Claude_Code_Remote` ma
-wyłącznie sesja Code, więc ona przepisuje harmonogram własnym Routine
-w poniedziałek o 08:00 (prompt Kontrolera: `materialy/kontroler-prompt-2026-09-22.md`). Rozróżnienie ma też znaczenie
+odpaleniu (Social skasowany 15.09.2026); **świeża sesja z Routine — z API
+i z panelu — nie ma repo w źródłach (klonuje je tylko do odczytu) ani konektora
+`Claude_Code_Remote`** (dowody 21.09 Kontroler i 22.09 Dane wt), więc taki
+Routine może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Konektor
+`Claude_Code_Remote` ma wyłącznie sesja Code, więc ona przepisuje harmonogram
+własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
+(`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`), a Kontroler o 09:00 czyta gotowe pliki;
+prompty wszystkich Routines: `materialy/routine-prompty.md`. Rozróżnienie ma też znaczenie
 przy edycji: promptu trwałej sesji nie zmienia się przez `update_trigger`
 (patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie"), a Routine
 założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.
@@ -308,7 +311,8 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 | Punkt | Jak często | Co się psuje przy zaległości |
 |---|---|---|
 | **Zrzut cen Empiku** (lokalna przeglądarka, skill `klocki-ceny-empik`) | tygodniowo, poniedziałek | Ceny Empiku zamrażają się na tabelach hubów. Nie odświeżają się deeplinki `redirects.empik`, więc martwe adresy zostają i prowadzą na 404 — gorzej niż wyszukiwarka, na którą worker spada sam |
-| **Wgranie paczki `.skill`** | po każdej zmianie w `redakcja/` albo w eksporcie | Cowork pracuje według starszego standardu niż repo, a rozjazd jest niewidoczny — obie strony są przekonane, że mają aktualną wersję |
+| **Wgranie paczki `.skill`** | po każdej zmianie w `redakcja/`, w eksporcie albo w ręcznym skillu z `.claude/skills/` (21.09.2026: `klocki-ceny-empik`, trzeci przebieg listingu) | Cowork pracuje według starszego standardu niż repo, a rozjazd jest niewidoczny — obie strony są przekonane, że mają aktualną wersję |
+| **Routine założone z panelu** (Zdjęcia → R2, Przypomnienie: Empik, Alerty cen) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
 | **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |
 | **Odczyt paneli Allegro i webePartners** | przy przeglądzie prowizji | EPC dla tych dwóch zostaje **modelem**, nie pomiarem — a Allegro to największa ekspozycja w serwisie |
 | **Doładowanie Firecrawla** | tylko powyżej 1000 kredytów/mies. | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
@@ -329,9 +333,10 @@ nie ekstrakcji.
   (Routine „Dane wt 05:30", od 15.09.2026): ~75 kredytów na przebieg, ~300
   miesięcznie. Do tego `lego-strony.mjs` (1 kredyt na zestaw, partie po kilkadziesiąt)
   i `opisy-legopl.mjs` na żądanie. Mieści się, ale bez zapasu na drugi taki zaciąg.
-- **Zrzut Empiku** — skill przechodzi ~200 stron **dwa razy** (rosnąco
-  i malejąco, bo przy jednym kierunku Empik gubi produkty), czyli **~400
-  kredytów na przebieg**. Tygodniowo to ~1700 miesięcznie i budżet nie
+- **Zrzut Empiku** — skill przechodzi ~200 stron **trzy razy** (rosnąco,
+  malejąco i przedział cen 150–260 zł, bo listing ucina się po ~4 860 pozycjach;
+  od 21.09.2026), czyli **~600 kredytów na przebieg**. Tygodniowo to ~2500
+  miesięcznie i budżet nie
   wystarcza. Sprawdzone 14.09: Firecrawl technicznie przechodzi przez Cloudflare
   Empiku i zwraca poprawne dane (48 kart produktu z cenami i deeplinkami
   z jednej strony wyników) — bariera jest wyłącznie kosztowa. Zostaje więc drogą
@@ -357,10 +362,11 @@ treścią opisującą 14.09).
 `materialy/zadania-cykliczne.md` leży między znacznikami `HARMONOGRAM:START`
 i `HARMONOGRAM:KONIEC` i przepisuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`. Wszystko poza znacznikami to wiedza pisana ręcznie
-i generator jej nie rusza. Uruchamia to Kontroler przy cotygodniowym raporcie —
-ma jako jedyny z runnerów konektor `Claude_Code_Remote` (pozostałe pięć ma zero
-konektorów, sprawdzone 14.09), więc tylko w jego przebiegu ta sekcja może
-powstać. Ręczna poprawka w tej sekcji jest błędem: przepadnie przy najbliższym
+i generator jej nie rusza. Do 21.09.2026 uruchamiał to Kontroler jako jedyny
+runner z konektorem `Claude_Code_Remote`; 21.09 odpalił się już bez niego
+(panel nie daje go wybrać, API nie przyjmuje), więc **od 22.09 sekcję przepisuje
+sesja Code własnym Routine „LEGO pon 07:45 — Harmonogram z konta"**, a Kontroler
+o 09:00 tylko ją czyta. Ręczna poprawka w tej sekcji jest błędem: przepadnie przy najbliższym
 przebiegu i po drodze da fałszywe poczucie, że dokument jest aktualny.
 
 Zrzut musi zawierać dla każdego zadania: nazwę, cron, **flagę enabled**, datę

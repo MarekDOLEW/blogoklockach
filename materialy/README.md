@@ -29,9 +29,14 @@ Nie aktualizuje się ich. Nowy raport to nowy plik z nową datą w nazwie.
 | Plik | Z kiedy |
 |---|---|
 | `kontroler-2026-09-14.md` | Raport Kontrolera. Opisuje przebieg **bez dostępów** — patrz `zadania-cykliczne.md`, sekcja o Kontrolerze |
+| `kontroler-RRRR-MM-DD.md` (np. `-2026-09-21`) | Cotygodniowe raporty Kontrolera — kopia PDF-u wysyłanego Markowi; zapisuje je sam runner w poniedziałek |
+| `kontroler-prompt-2026-09-22.md` | Uzasadnienie przeniesienia Kontrolera do trwałej sesji (22.09.2026). Sam prompt jest wyłącznie w `routine-prompty.md` |
+| `kontrola-linkow-RRRR-MM-DD.md` (np. `-2026-09-21`) | Wynik `scripts/kontrola-linkow.mjs` — zapisuje go Łowca w każdy poniedziałek, także przy zerze martwych linków; Kontroler czyta najnowszy |
 | `audyt-wycofan-2026-09-13.md` | Audyt statusów EOL |
-| `audyt-mechanizmu-2026-09-15.md` | Audyt całego mechanizmu (przepływ danych, SEO/indeksacja, UX, redakcja, konkurencja, nisze) — lista 19 punktów i 6 pytań do Marka |
-| `dziennik-archiwum-2026-08.md` | Archiwum dziennika. **Tworzy i linkuje je `scripts/archiwum-dziennika.mjs`** — nie przenoś, indeks w `DZIENNIK.md` wskazuje na tę ścieżkę |
+| `audyt-mechanizmu-2026-09-15.md`, `-2026-09-15b.md` | Audyt całego mechanizmu (przepływ danych, SEO/indeksacja, UX, redakcja, konkurencja, nisze) — lista 19 punktów i 6 pytań do Marka; `b` to drugi przebieg tego samego dnia |
+| `gsc-checklista-2026-09-15.md` | Checklista do Search Console z 15.09 |
+| `audyt-koncowy-2026-09-16.md`, `plan-dzialan-2026-09-16.md` | Audyt końcowy po naprawach i plan działań z decyzjami Marka (16.09) |
+| `dziennik-archiwum-RRRR-MM.md` (`-2026-08`, `-2026-09`) | Archiwum dziennika, plik na miesiąc. **Tworzy i linkuje je `scripts/archiwum-dziennika.mjs`** — nie przenoś, indeks w `DZIENNIK.md` wskazuje na tę ścieżkę |
 | `gsc-test.txt` | Test połączeń z API Google, 18.08.2026 — zapis momentu włączenia Search Console API w GCP |
 | `mail-do-piotra-karty-poprawki.md` + `.pdf` | Jednorazowa korespondencja |
 
@@ -45,6 +50,8 @@ Nie edytuj ich ręcznie: najbliższe uruchomienie skryptu i tak je nadpisze.
 | `zestawy-bez-opisu.xlsx` | `scripts/bez-opisu-od-najnowszych.py` |
 | `zestawy-bez-ceny.xlsx` | `scripts/zestawy-bez-ceny.py` |
 | `karty-poza-kolejka.xlsx` | `scripts/karty-poza-kolejka.py` |
+| `zestawy-noindex.xlsx` | `scripts/noindex-do-opisania.py` (wymaga `npm run build`) |
+| `routine-prompty.md` | `scripts/harmonogram-z-konta.mjs` — kopia promptów Routines z konta, cały plik; odświeża sesja Code w poniedziałek 07:45 (tak samo sekcja „Zrzut" w `zadania-cykliczne.md`) |
 
 Zostają w gicie mimo że są odtwarzalne — Marek je otwiera, a bez nich świeży
 klon nie pokazywałby stanu kolejki bez uruchamiania czterech skryptów.

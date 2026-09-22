@@ -32,7 +32,10 @@ const kat = wpisKatalogu(nr);
 const wycofanie = wycofanieSetu(nr);
 const feedOferta = ofertyFeed?.sety?.[nr] ?? null;
 
-const nazwa = s?.nazwa ?? kat?.nazwa ?? wycofanie?.nazwa;
+// „{?}" to placeholder Bricksetu dla zestawu bez ogłoszonej nazwy — nie może
+// trafić do tytułu strony ani JSON-LD (audyt 22.09: trzy huby „LEGO {?}").
+const bezPlaceholdera = (n) => (n && String(n).trim() !== '{?}' ? n : undefined);
+const nazwa = bezPlaceholdera(s?.nazwa) ?? bezPlaceholdera(kat?.nazwa) ?? bezPlaceholdera(wycofanie?.nazwa) ?? 'bez ogłoszonej nazwy';
 const seria = s?.seria ?? kat?.seria ?? wycofanie?.seria;
 const elementy = s?.elementy ?? kat?.elementy ?? wycofanie?.elementy ?? null;
 const rok = kat?.rok ?? null;

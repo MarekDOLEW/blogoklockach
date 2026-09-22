@@ -48,6 +48,32 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
   Pozycje z taką linią Kontroler pomija. Pozycje „Kto: Piotr" i cała sekcja
   „Zadania bez właściciela" idą **mailem do Piotra i Marka** (klucz `kontroler`
   w `raporty_mail.json`), nie tylko PDF-em na czacie.
+- **Pushuje tylko trwała sesja z repo w źródłach** (ustalone 21–22.09.2026 na
+  dwóch awariach: Kontroler 21.09, Dane wt 22.09). Routine odpalany w świeżej
+  sesji — założony z API czy z panelu — nie ma repo w źródłach (klon tylko do
+  odczytu, push odrzuca proxy) ani konektora `Claude_Code_Remote`; może czytać,
+  mailować i wgrywać do R2. Runner z danymi = `create_session(source_url)` +
+  `create_trigger(persistent_session_id)`. Ręczny `fire_trigger` takiego
+  Routine NIE trafia do trwałej sesji (zakłada pustą jednorazową); próbny przebieg
+  robi się jednorazowym Routine z `run_once_at` przypiętym do sesji.
+- **Routine założony z panelu zmienia i kasuje tylko Marek** (22.09.2026). API
+  odmawia agentom (`created_via: http_api`), a klasyfikator uprawnień blokuje też
+  kasowanie części Routine agentowych — prośba do Marka z ID i adresem
+  `claude.ai/code/routines/<id>`.
+- **Harmonogram z konta przepisuje sesja Code (pon 07:45), Kontroler tylko
+  czyta** (22.09.2026). Konektor `Claude_Code_Remote` ma wyłącznie sesja Code.
+- **Żaden audyt nie chodzi przez `/idz/` ani przez link trackingowy** (Marek,
+  21.09.2026; 16.09 audyt C wysłał 17 kliknięć do trackerów). Cel linku sprawdza
+  się przez `celLinku` z `scripts/linki-cel.mjs`, worker testuje się bez
+  podążania za przekierowaniem (`curl` bez `-L`).
+- **„SUCCEEDED" w `last_run` nie jest dowodem** (21–22.09.2026). Dowodem
+  przebiegu runnera jest commit na `main` albo plik w repo; brak `last_run`
+  po delete+create też nic nie znaczy.
+- **Sesja runnera ma limit 1 M tokenów kontekstu** (22.09.2026: Łowca 753 k po
+  37 dniach, ok. 20 k dziennie). Gdy `context_usage` z `get_session` przekroczy
+  ~850 k, zakładamy nową sesję tym samym sposobem (`create_session` + nowy
+  trigger, stary skasować) — reguły runnera muszą być w prompcie i skryptach,
+  nigdy w pamięci sesji.
 - **Oferta poniżej 50% potwierdzonej ceny katalogowej wymaga sprawdzenia przez
   człowieka** (Marek, 16.09.2026). Sito `filtrujOferty()` ukrywa ją na stronie;
   rano przychodzi mail z linkami (`podejrzany-rynek-mail.mjs`, klucz `podejrzane`,
@@ -65,6 +91,31 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-09-22 09:45 · CODE · Audyt po awariach: 18 cen-absurdów, 3 zapowiedzi jako EOL, Łowca bez porządku ofert, 25 zdań nieprawdziwych w dokumentach
+
+Raport: `materialy/audyt-2026-09-22.md` (PDF u Marka). Trzy przebiegi — A zadania
+cykliczne, B dane, C dokumenty. Korekty do wcześniejszych wpisów: stary Kontroler
+`trig_01JhfcGMgzv1nBwiguH93m6N` skasowany przez Marka przed 08:50 (wpis 06:20
+mówił „nadal istnieje"); decyzja o workerze zamknięta 22.09 — zostaje; plan
+„28.09 z patchem" z wpisu 21.09 12:00 nieaktualny (Kontroler w trwałej sesji,
+próbny przebieg 06:40 UTC wypchnął raport sam: 6337305, 897729e).
+
+Naprawione dziś: próg górny 3× RRP w `src/lib/odsiew.js` (18 ofert, m.in. 11025
+za 8 981,49 zł przy RRP 36,99 zniknęło z tabel i JSON-LD); 75457, 10371, 21373
+z EOL na `dostepny` (21373 do Ideas), `katalog-z-rebrickable.mjs` czyta sety.json;
+trzy huby „LEGO {?}" → „bez ogłoszonej nazwy" + osłona w szablonie; granica tokenu
+numeru w `empik-import.mjs` i `empik-redirects.mjs` (sw1246 ≠ 1246);
+`porzadek-ofert.mjs` uruchomiony (905 zestawów) i dopisany do promptu Łowcy —
+nowy trigger `trig_01XWKB1HjSS5riTkB37bQK5V`, stary skasowany; CLAUDE.md,
+NARZEDZIA, RUNBOOK, zadania-cykliczne (część ręczna), scripts/README,
+materialy/README, skill Empik (przepakowany — do wgrania), redakcja/README,
+szablon generatora harmonogramu. Sześć nowych Ustaleń trwałych.
+
+Decyzje dla Marka: nowa sesja Łowcy (753 k z 1 M tokenów), kredyty Firecrawla
+(107, tydzień = 75), prompt „Przypomnienie: Empik" w panelu (plik do Code, nie
+do Łowcy), historia przebiegów Scouta 13/19/20.09, trzy decyzje z raportu
+Kontrolera.
 
 ## 2026-09-22 08:00 · RADAR · Do zrobienia
 

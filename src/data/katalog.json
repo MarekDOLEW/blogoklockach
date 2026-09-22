@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "aktualizacja": "2026-09-13",
+    "aktualizacja": "2026-09-22",
     "zrodla": [
       "brickset.com (theme Ideas)",
       "lego.com",
@@ -957,6 +957,17 @@
       "elementy": 241,
       "status": "eol",
       "cena_katalogowa": null
+    },
+    {
+      "numer": "21373",
+      "nazwa": "Downton Abbey",
+      "rok": 2026,
+      "elementy": null,
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "LEGO Ideas and CUUSOO",
+      "lego_pl_widziano": "2026-09-22"
     }
   ],
   "Icons": [
@@ -12364,10 +12375,11 @@
       "nazwa": "Executor Super Star Destroyer",
       "rok": 2026,
       "elementy": null,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 3199.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Star Wars"
+      "motyw_rebrickable": "Star Wars",
+      "lego_pl_widziano": "2026-09-22"
     }
   ],
   "BrickHeadz": [
@@ -46564,7 +46576,7 @@
     },
     {
       "numer": "10481",
-      "nazwa": "{?}",
+      "nazwa": "bez ogłoszonej nazwy",
       "rok": 2026,
       "status": "dostepny",
       "cena_katalogowa": null
@@ -59518,7 +59530,7 @@
     },
     {
       "numer": "40857",
-      "nazwa": "{?}",
+      "nazwa": "bez ogłoszonej nazwy",
       "rok": 2026,
       "status": "dostepny",
       "cena_katalogowa": null
@@ -63777,7 +63789,7 @@
     },
     {
       "numer": "40895",
-      "nazwa": "{?}",
+      "nazwa": "bez ogłoszonej nazwy",
       "rok": 2026,
       "status": "dostepny",
       "cena_katalogowa": null
@@ -64874,10 +64886,11 @@
       "nazwa": "Cozy Plants",
       "rok": 2026,
       "elementy": null,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Botanicals"
+      "motyw_rebrickable": "Botanicals",
+      "lego_pl_widziano": "2026-09-22"
     }
   ],
   "Pokémon": [
@@ -73633,16 +73646,6 @@
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monster Fighters"
-    },
-    {
-      "numer": "21373",
-      "nazwa": "Downton Abbey",
-      "rok": 2026,
-      "elementy": null,
-      "status": "eol",
-      "cena_katalogowa": 1299.99,
-      "zrodlo": "rebrickable",
-      "motyw_rebrickable": "LEGO Ideas and CUUSOO"
     },
     {
       "numer": "40465",

@@ -41,7 +41,9 @@ export const GADZETY = /minifig|figurka\s+lego|instrukcj|pude[lł]k|naklejk|brel
 // potrafi kolidować z numerem zestawu LEGO (70734, 71417), więc odpadają po nazwie.
 export const OBCE_MARKI = /playmobil|\bcobi\b|\bmega\s*bloks|mega\s*construx|\bsluban\b|\bqman\b|\bcada\b|\bwange\b/i;
 const NUMER = /^[1-9]\d{3,6}$/;
-const numeryZNazwy = (nazwa) => [...String(nazwa ?? '').matchAll(/(?<!\d)([1-9]\d{3,6})(?!\d)/g)].map((m) => m[1]);
+// Numer musi być osobnym tokenem: „sw1246" (kod minifigurki), „p1697333680" (ID
+// Empiku) ani „42130el" nie są numerami zestawów (audyt 22.09: 1246 → minifigurka).
+const numeryZNazwy = (nazwa) => [...String(nazwa ?? '').matchAll(/(?<![A-Za-z0-9])([1-9]\d{3,6})(?![A-Za-z0-9])/g)].map((m) => m[1]);
 
 // ── dane repo ────────────────────────────────────────────────────────────────
 const czytaj = (p) => readFileSync(p, 'utf8');

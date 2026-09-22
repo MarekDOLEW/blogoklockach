@@ -108,9 +108,10 @@ w hubach"), żeby było co zweryfikować bez czytania diffa.
 stan repo, świeżość danych i **realne wywołania** do Cloudflare, Search Console,
 Tradedoublera, Firecrawla i produkcji.
 
-**Stan na 14.09.2026: robi to jeden runner — Kontroler.** Pozostałe sześć ma
-w promptach własne, starsze sprawdzenia albo nie ma żadnych. Nie pisz więc
-„runnery odpalają diagnozę" jako o fakcie; to jest kierunek, nie stan.
+**Stan na 22.09.2026: pełną diagnozę robi Kontroler; `--szybko` (bez sieci)
+robią Łowca, Wycofania i Dane wt.** Scout, Radar i Backfill nie mają żadnego
+sprawdzenia, Routine bez pushu (Zdjęcia → R2, Alerty, Przypomnienie) też nie.
+Nie pisz więc „runnery odpalają diagnozę" jako o fakcie; to jest kierunek, nie stan.
 
 Powód: 14.09.2026 trzy razy w jednej sesji padło zdanie o brakującym dostępie,
 które nie było prawdą („Kontroler nie ma poświadczeń”, „LEGO.com nie ma linków”,
@@ -130,13 +131,15 @@ Harmonogram runnerów, ich ID i zasady edycji: `materialy/zadania-cykliczne.md`.
 Sekcja „Zrzut" w tym pliku jest **generowana** — leży między znacznikami
 `HARMONOGRAM:START` i `HARMONOGRAM:KONIEC`, przepisuje ją
 `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`, a uruchamia
-Kontroler w cotygodniowym raporcie. Nie poprawiaj jej ręcznie. Tak samo cały plik
+sesja Code własnym Routine „Harmonogram z konta" (poniedziałek 07:45 PL) — tylko
+sesja Code ma konektor `Claude_Code_Remote`; Kontroler czyta gotowe pliki z repo.
+Nie poprawiaj jej ręcznie. Tak samo cały plik
 `materialy/routine-prompty.md` (prompty Routines) — to kopia z konta robiona tym
 samym skryptem; prompt zmienia się w panelu (albo delete+create dla stałej sesji),
 nigdy w tym pliku.
 Łowca korzysta z `scripts/feedy-lego.py` (wyciąg ofert LEGO z feedów), Ceneo
 odświeża `scripts/ceneo-feed.mjs`.
-Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:00 dogrywa je
+Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:30 dogrywa je
 do R2 Routine „Zdjęcia → R2" (`node scripts/r2-obrazy.mjs`). Po dopisaniu galerii
 do `galerie.json` w sesji uruchom ten skrypt od razu, żeby nowy tekst nie czekał
 z pustymi miniaturami do rana.

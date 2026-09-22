@@ -76,6 +76,12 @@ for (const p of produkty) {
     continue;
   }
   if (!znane.has(nr)) continue; // zestaw spoza naszego katalogu — nie ma podstrony
+  // numer musi być osobnym tokenem w nazwie produktu: „sw1246" to kod minifigurki,
+  // nie zestaw 1246 (audyt 22.09) — taka karta nie może być deeplinkiem zestawu
+  if (!new RegExp(`(?<![A-Za-z0-9])${nr}(?![A-Za-z0-9])`).test(String(p.name ?? ''))) {
+    odrzucone.push([nr, `numer tylko wewnątrz tokenu: ${String(p.name ?? '').slice(0, 60)}`]);
+    continue;
+  }
   const nowy = DEEPLINK(url);
   if (!empik[nr]) dodane.push(nr);
   else if (empik[nr] !== nowy) zmienione.push(nr);

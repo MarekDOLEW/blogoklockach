@@ -1,6 +1,6 @@
 ---
 name: klocki-ceny-empik
-description: 'Cykliczny zrzut cen zestawów LEGO z empik.com dla serwisu tylkoklocki.pl. Używaj ZAWSZE, gdy zadanie cykliczne każe odświeżyć ceny Empiku, albo gdy użytkownik prosi o - zrzut Empiku, odśwież ceny Empik, aktualizacja cen z Empiku, scraping katalogu LEGO w Empiku, plik lego-empik.json, dane do porównywarki cen. Triggeruj też przy frazach "przeleć Empik", "zbierz ceny z Empiku". Skill przechodzi katalog LEGO na empik.com przez lokalną przeglądarkę użytkownika (Empik blokuje ruch serwerowy), buduje lego-empik.json w ustalonym schemacie i przekazuje plik do sesji Łowcy Promocji, która importuje go do danych serwisu.'
+description: 'Cykliczny zrzut cen zestawów LEGO z empik.com dla serwisu tylkoklocki.pl. Używaj ZAWSZE, gdy zadanie cykliczne każe odświeżyć ceny Empiku, albo gdy użytkownik prosi o - zrzut Empiku, odśwież ceny Empik, aktualizacja cen z Empiku, scraping katalogu LEGO w Empiku, plik lego-empik.json, dane do porównywarki cen. Triggeruj też przy frazach "przeleć Empik", "zbierz ceny z Empiku". Skill przechodzi katalog LEGO na empik.com przez lokalną przeglądarkę użytkownika (Empik blokuje ruch serwerowy), buduje lego-empik.json w ustalonym schemacie i przekazuje plik do Claude Code jako załącznik w rozmowie z repo (alternatywnie do sesji Łowcy Promocji z notką); import do danych serwisu robi scripts/empik-import.mjs.'
 ---
 
 # Ceny Empik — cotygodniowy zrzut katalogu LEGO
@@ -141,7 +141,8 @@ mediana ~220 zł.
 ## Kontekst w repo
 
 - Import i konwencje: `RUNBOOK.md` → sekcja „Ceny Empik".
-- Ten sam obieg dotyczy zrzutów `lego-smyk.json` i
-  `lego-pl-katalog-pelny.json` — jeśli użytkownik prosi o „komplet do
-  porównywarki", odśwież wszystkie trzy tą samą metodą (Smyk i lego.pl
-  mają własne listingi, schemat pliku analogiczny).
+- Smyk i lego.pl **nie wymagają** zrzutu lokalną przeglądarką: Smyk odświeża
+  serwer wprost ze stron produktów (`scripts/smyk-odswiez.mjs`, wtorek i piątek),
+  lego.pl czyta Firecrawl w Routine „Dane wt 05:30" (`scripts/firecrawl-legopl.mjs`).
+  Jeśli użytkownik prosi o „komplet do porównywarki", zrób tylko Empik i powiedz,
+  że pozostałe dwa idą automatem.

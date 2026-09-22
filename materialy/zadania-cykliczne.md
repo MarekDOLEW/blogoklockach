@@ -7,8 +7,10 @@ ręcznie i generator jej nie dotyka.
 Jak powstaje: sesja z konektorem `Claude_Code_Remote` woła `list_triggers`,
 zapisuje odpowiedź do pliku i uruchamia `node scripts/harmonogram-z-konta.mjs
 <plik>.json`. Routines nie mają API dostępnego dla skryptu w repo, więc odczyt
-musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Robi to
-Kontroler przy cotygodniowym raporcie.
+musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Od 22.09.2026
+robi to sesja Code własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
+(`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`); Kontroler (pon 09:00) czyta gotowe pliki
+z repo i nie woła API.
 
 **Dlaczego nie ręcznie.** Sprawdzone 14.09.2026: siedem z ośmiu wierszy kolumny
 „Ostatnie odpalenie" pokazywało 31.08, gdy konto mówiło 14.09. Zgadzał się
@@ -18,7 +20,8 @@ razy (patrz `NARZEDZIA.md`, „Harmonogram: generowany, nie pisany").
 
 **Zmierzone 14.09.2026: konektory są przypięte do Routine, nie do środowiska.**
 Wywołanie `list_triggers` zadziała tylko w sesji, która ma konektor
-`Claude_Code_Remote`. Rozkład na naszych runnerach:
+`Claude_Code_Remote`. Rozkład na naszych runnerach *(stan z 14.09.2026;
+nieaktualny od 21.09 — patrz uwaga pod tabelą)*:
 
 | Runner | Konektorów | `Claude_Code_Remote` |
 |---|---|---|
@@ -29,8 +32,11 @@ Wywołanie `list_triggers` zadziała tylko w sesji, która ma konektor
 | Wycofania | 0 | nie |
 | Backfill cen katalogowych | 0 | nie |
 
-Czyli sekcja o harmonogramie może powstawać **wyłącznie w raporcie Kontrolera** —
-żaden inny runner listy nie zobaczy. Pole `environment_id` nie jest zwracane
+Tak było do 21.09.2026. Tego dnia Kontroler odpalił się już **bez** konektora
+`Claude_Code_Remote` (panel nie daje go wybrać, API nie przyjmuje `connectors`),
+a od 22.09 jest inną, trwałą sesją. Konektor ma dziś wyłącznie sesja Code — żaden
+runner listy nie zobaczy, dlatego sekcję przepisuje Routine „Harmonogram z konta"
+z sesji Code. Pole `environment_id` nie jest zwracane
 w ogóle, a `session_request.environment_variables` jest puste u wszystkich
 dwunastu Routines i niczego o dostępach nie dowodzi.
 
@@ -90,6 +96,8 @@ cofnęłoby cały dzień pracy. Do tego wyłączony trigger dalej pokazywał
 `next_run_at`, co przy pobieżnym czytaniu wygląda jak zaplanowany przebieg.
 
 **Zostaje jeden: `trig_01JhfcGMgzv1nBwiguH93m6N`**, poniedziałek 09:00 PL.
+*(Nieaktualne od 22.09.2026: ten trigger też został skasowany, obowiązuje
+`trig_01EDEhtPiW4AVSAiGg9Co1mx` na trwałej sesji — patrz „Historia zmian".)*
 
 Zmierzona różnica między nimi, zanim stary zniknął: stary miał trzy konektory
 (Adobe, Google Calendar, Claude_Code_Remote), nowy ma sześć (dodatkowo Alpha
@@ -132,7 +140,10 @@ z 14.09.2026 (czas PL):
 | 10:00 | 08:00 | inwestycja IV kwartał |
 
 Poza poniedziałkiem chodzą tylko trzy zadania codzienne (05:00, 08:00, 08:30)
-plus **Herzfaden w środę o 11:00**.
+plus **Herzfaden w środę o 11:00**. *(Rozkład z 14.09 — od tego czasu doszły
+codzienne Zdjęcia → R2 04:30 i Alerty cen 09:30, wtorkowe Dane wt 05:30 oraz
+poniedziałkowe Harmonogram z konta 07:45 i Przypomnienie: Empik 08:15; aktualny
+obraz daje blok generowany wyżej.)*
 
 **Rozsunięcie 14.09.2026.** Były dwie kolizje, obie po cichu dzielące limit
 konta w tej samej minucie:
@@ -144,7 +155,7 @@ konta w tej samej minucie:
   zdaniem w promptcie, żeby „poniedziałkowy raport" nie kłócił się z cronem.
 
 Po obu zmianach detektor pokazuje **zero kolizji**. Wolne pełne godziny
-w poniedziałkowym oknie: 04:00, 09:00, 10:00, 11:00 UTC.
+w poniedziałkowym oknie (stan 14.09): 04:00, 09:00, 10:00, 11:00 UTC.
 
 Aktualną listę kolizji podaje blok generowany wyżej. Detektor rozwija crona na
 realne momenty tygodnia, a nie porównuje napisów — inaczej `0 6 * * *`
@@ -158,9 +169,10 @@ Tamta kolizja przez to wisiała niezauważona.
 | Scout nowości (codziennie 05:00) | `sety.json`, `known_sets.json`, `przecieki.json`; sygnały wycofań do `DZIENNIK.md` |
 | Wycofania (pon 06:10) | `wycofania.json` (jedyny autor); adnotacje pod sygnałami Scouta w `DZIENNIK.md` |
 | Radar konkurencji (codziennie 08:00) | `konkurencja_baza.json`; wpis „RADAR · Do zrobienia" w `DZIENNIK.md` |
-| Łowca promocji (codziennie 08:30) | `oferty_feed.json` (klucze `mediaexpert`, `planetaklockow`, `allegro`, `empik` przy zrzucie), `ceny_baza.json`, `redirects.json` (gałęzie `planetaklockow`, `allegro`, `empik` przez `empik-redirects.mjs`), `sety.json` (oferty), `obrazy.json`, `src/pages/deale/*.md` |
+| Łowca promocji (codziennie 08:30) | `oferty_feed.json` (klucze `mediaexpert`, `planetaklockow`, `allegro`, `empik` przy zrzucie; `lidl` codziennie przez `ceneo-feed.mjs`; `smyk` w piątki), `ceny_baza.json`, `redirects.json` (gałęzie `planetaklockow`, `allegro`, `empik` przez `empik-redirects.mjs`), `sety.json` (oferty), `obrazy.json`, `src/pages/deale/*.md`, `src/data/historia-cen/RRRR-MM.jsonl`; w poniedziałek `materialy/kontrola-linkow-RRRR-MM-DD.md` (od 21.09) |
 | Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
-| Kontroler (pon 09:00) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md`, `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika |
+| Harmonogram z konta (pon 07:45, sesja Code, od 22.09) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md` |
+| Kontroler (pon 09:00) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
 | Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
 | Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
 | Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
@@ -231,11 +243,14 @@ Podział wynika z charakteru pracy, nie z prestiżu modelu:
   sądu i dobrego polskiego.
 - **Fable 5** — Łowca, Wycofania, Backfill. Po przeniesieniu parsowania do
   skryptów to praca mechaniczna: uruchom, porównaj liczby, zapisz JSON.
+- **Sonnet 5** — „Dane wt 05:30" (trwała sesja od 22.09.2026).
 
-Zgodne ze stanem faktycznym sesji na 31.08.
+Zgodne ze stanem faktycznym sesji na 31.08 (Dane wt i Kontroler jako trwała
+sesja Opus 5 dopisane 22.09).
 
 Model jest własnością SESJI, nie Routine: `update_trigger --model` działa tylko
-dla zadań tworzących świeżą sesję (Kontroler). Runner przypięty do trwałej sesji
+dla zadań tworzących świeżą sesję (Zdjęcia → R2, Alerty cen, Przypomnienie:
+Empik). Runner przypięty do trwałej sesji
 zachowuje jej model — żeby go zmienić, trzeba `create_session` z nowym modelem
 i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 
@@ -248,7 +263,9 @@ poświadczeń — słusznie). Sprawdzone 15.09.2026 na „Zdjęcia → R2": sesj
 zakończyła się czysto, skrypt nie ruszył. Dlatego prompt każdego takiego Routine
 zaczyna się od `git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`
 (repo jest publiczne) i `npm ci`, gdy skrypt potrzebuje zależności. Routine
-z panelu claude.ai (Kontroler) ma źródło podpięte i tego nie potrzebuje.
+z panelu claude.ai też **nie ma** repo w źródłach — sprawdzone 21.09 (Kontroler)
+i 22.09 (Dane wt): `sources: None`, push odrzucony; klon działa tylko do odczytu.
+Pushować może wyłącznie trwała sesja założona `create_session(source_url)`.
 Prompt Routine ze świeżą sesją **da się** zmienić przez `update_trigger` —
 ograniczenie delete+create dotyczy tylko trwałych sesji.
 
@@ -296,8 +313,9 @@ i sesje Łowcy oraz Backfillu dostawały status `rejected`.
 **Empik ma inny rytm niż Łowca.** Łowca chodzi codziennie o 08:30, a zrzut
 Empiku robi Cowork **raz w tygodniu, w poniedziałek** — Empik blokuje ruch
 serwerowy, więc katalog trzeba przejść lokalną przeglądarką. Import zrzutu jest
-więc poza codzienną instrukcją Łowcy: Cowork wgrywa plik do jego sesji z notką,
-a Łowca importuje ceny i od 14.09.2026 uruchamia też
+więc poza codzienną instrukcją Łowcy: plik idzie **do Code jako załącznik**
+(domyślnie, patrz `NARZEDZIA.md` „Co gdzie wrzucać") albo do sesji Łowcy z notką;
+importuje go `scripts/empik-import.mjs`, a po nim
 `node scripts/empik-redirects.mjs <plik> --usun-martwe` (deeplinki produktowe).
 Wniosek praktyczny: zmiany dotyczące Empiku wchodzą do serwisu dopiero przy
 najbliższym poniedziałkowym zrzucie, nie następnego dnia.
@@ -327,7 +345,8 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   `trig_01PwyDWKRCLydgDxAH8eRzzR`. Stary `trig_012JWbmYwHb59sYazo6K9X33`
   (założony z panelu, `sources: None`) przebiegł 22.09 03:36 bez commita —
   sesja Code nie może go skasować ani wyłączyć (Routine z panelu edytuje tylko
-  Marek): **do skasowania z panelu**, inaczej we wtorek odpalą się oba.
+  Marek): **do skasowania z panelu**, inaczej we wtorek odpalą się oba
+  *(skasowany przez Marka 22.09 przed odczytem z konta 08:50)*.
 - Scout odtworzony (delete+create, ta sama sesja) pod ID
   `trig_01DmDAaz993ddzz61pQj9o9X`: sekcja „GIT I PAMIĘĆ" — przy „forced update"
   wkleja reflog zamiast tezy o przepisaniu historii, format `przecieki.json`
@@ -343,7 +362,9 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   oraz założony 22.09 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` („Raport kontrolera
   — wynik tygodnia") — ten drugi ma w konfiguracji `sources: null` i sześć
   konektorów bez `Claude_Code_Remote`, więc też nie pushuje ani nie czyta
-  harmonogramu. Zostaje wyłącznie `trig_01EDEhtPiW4AVSAiGg9Co1mx`.
+  harmonogramu. Zostaje wyłącznie `trig_01EDEhtPiW4AVSAiGg9Co1mx`
+  *(oba skasowane przez Marka 22.09 przed odczytem z konta 08:50 — na liście
+  z konta jest już tylko ten jeden Kontroler)*.
 - Harmonogram z konta przesunięty na pon 07:45 PL (`45 5 * * 1`), żeby nie
   kolidował z Radarem o 08:00.
 

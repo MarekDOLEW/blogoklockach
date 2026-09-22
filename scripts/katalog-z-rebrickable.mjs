@@ -34,6 +34,10 @@ const numeryArg = arg.find((a) => a.startsWith('--numery='))?.slice(9) ?? (arg.i
 const KATALOG = 'src/data/katalog.json';
 const katalog = JSON.parse(readFileSync(KATALOG, 'utf8'));
 const feed = JSON.parse(readFileSync('src/data/oferty_feed.json', 'utf8')).sety ?? {};
+// Zestawy śledzone w sety.json (zapowiedzi Scouta, karty Piotra) są w sprzedaży
+// albo przed premierą — nie wolno ich dopisać jako „eol" (audyt 22.09: 75457,
+// 10371, 21373 dostały EOL, bo listing lego.pl przebiegł przed tym skryptem).
+const setyJson = JSON.parse(readFileSync('src/data/sety.json', 'utf8'));
 const redirects = JSON.parse(readFileSync('src/data/redirects.json', 'utf8'));
 const wycofania = JSON.parse(readFileSync('src/data/wycofania.json', 'utf8')).wycofania ?? [];
 
@@ -132,10 +136,10 @@ for (const n of brakujace) {
   if (!s) { nieznane.push(n); continue; }
   const rok = Number(s.year) || null;
   const wlasny = nazwaMotywu(s.theme_id); const nadrz = motywNadrzedny(s.theme_id);
-  const seria = seriaZMotywu(wlasny, nadrz);
+  const seria = setyJson[n]?.seria && serieKatalogu.has(String(setyJson[n].seria).toLowerCase()) ? setyJson[n].seria : seriaZMotywu(wlasny, nadrz);
   dopisane.push({ seria, wpis: {
     numer: n, nazwa: s.name, rok, elementy: Number(s.num_parts) || null,
-    status: 'eol', // o „dostepny" decyduje listing lego.pl, nie rocznik
+    status: setyJson[n] ? 'dostepny' : 'eol', // o „dostepny" decyduje listing lego.pl (albo obecność w sety.json), nie rocznik
     cena_katalogowa: null,
     zrodlo: 'rebrickable', motyw_rebrickable: [wlasny, nadrz].filter(Boolean).join(' / ') || null,
   } });

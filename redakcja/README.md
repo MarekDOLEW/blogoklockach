@@ -83,7 +83,9 @@ Ustalenia integracyjne:
   poziom A metodologii (LEGO.com) realizujemy przez Brickset, instrukcje,
   feedy sklepów i dane podane przez użytkownika; wymóg „minimum pięciu
   polskich sklepów" pokrywają feedy + osiągalne witryny (Smyk, Planeta
-  Klocków, Allegro przez feed, Media Expert przez feed, Empik przez TD).
+  Klocków, Allegro przez feed, Media Expert przez feed, Empik przez cotygodniowy
+  zrzut lokalną przeglądarką — skill `klocki-ceny-empik`; feed TD nie zawiera
+  zestawów LEGO).
 - Recenzje wideo: transkrypty YouTube bywają niedostępne — wtedy w karcie
   zaznaczamy zakres analizy zgodnie z Metodologią §5.3.
 

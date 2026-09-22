@@ -258,6 +258,19 @@ jest siatką bezpieczeństwa dla reszty. Sprawdzone po buildzie 16.09: 0 anchor�
 `/idz/` bez `target="_blank"`. `noopener` NIE wycina referera, więc filtr botów
 działa bez zmian; `noreferrer` jest zakazany.
 
+**Dwa zaostrzenia po 14.09** (oba w `src/worker.js`, komentarze przy kodzie):
+- *15.09.2026 (fb082a1):* klik z naszej strony jest rozpoznawany także po
+  nagłówku `Sec-Fetch-Site: same-origin` — druga droga dla przeglądarek tnących
+  referer; odrzucony klik wraca na hub z `?idz=odrzucony` zamiast cicho
+  przeładowywać stronę.
+- *21.09.2026 (3f42a9c), zatwierdzone przez Marka 22.09:* sam host w refererze
+  to za mało — 16.09 nasz własny audyt przeszedł przez filtr z refererem
+  `https://tylkoklocki.pl/zestaw/x/` i 17 kliknięć poszło do trackerów jako
+  ludzkie. Teraz referer musi wskazywać **hub z tym samym numerem** albo realną
+  stronę serwisu (lista ścieżek w workerze). Wniosek trwały: **żaden audyt nie
+  chodzi przez `/idz/` ani przez link trackingowy** — testy workera robimy bez
+  podążania za redirectem.
+
 ---
 
 ## Media Expert *(ustalone 18.08.2026, godzina Łowcy poprawiona 31.08.2026)*
@@ -1460,7 +1473,9 @@ ciche zniknięcie ofert na dobę. Teraz czeka i ponawia.
 
 ## Kontrola linków sklepowych — próba losowa, nigdy przez tracker *(od 18.09.2026)*
 
-`node scripts/kontrola-linkow.mjs --ile 200` — krok Kontrolera w poniedziałek.
+`node scripts/kontrola-linkow.mjs --ile 150` — od 21.09.2026 krok Łowcy
+w poniedziałek (mapa `ZADANIA_TYGODNIOWE` w `feedy-lego.py`); Kontroler czyta
+gotowy raport, nie uruchamia skryptu (szczegóły niżej, „Kto uruchamia kontrolę").
 Losuje linki z `redirects.json` i sprawdza, czy karta produktu jeszcze żyje.
 
 **Zasada nienaruszalna: nie odpytujemy linków trackingowych.** Wejście na
