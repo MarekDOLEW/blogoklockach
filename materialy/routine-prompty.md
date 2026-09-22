@@ -1,8 +1,8 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 22.09.2026, 08:50 (CEST). Nie edytuj ręcznie — źródłem prawdy
-jest panel claude.ai, a ten plik odświeża Kontroler co poniedziałek. Diff w git
+odczyt z konta: 22.09.2026, 11:39 (CEST). Nie edytuj ręcznie — źródłem prawdy
+jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
 
@@ -242,7 +242,7 @@ Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadn
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_013VvvPKDiN4W8Bmj4qwd9LK` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01Fu1fB4ZmZN6daDtHqEDWZy` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -282,7 +282,7 @@ POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.202
 
 PODEJRZANY RYNEK (od 16.09.2026, decyzja Marka): po zapisaniu danych uruchom `node scripts/podejrzany-rynek-mail.mjs`. Skrypt wypisuje oferty poniżej 50% POTWIERDZONEJ ceny katalogowej bez potwierdzenia człowieka (strona sama je ukrywa — `deale_potwierdzone.json`) i gdy takie są, wysyła Markowi mail z linkami do sprawdzenia (klucz `podejrzane` w raporty_mail.json; wymaga RESEND_API_KEY). Ofert tych NIE usuwaj z danych i NIE oceniaj sam; liczba z wyniku skryptu idzie do podsumowania jedną linijką. Brak kandydatów = brak maila.
 
-PRZED COMMITEM: `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda. Plik dołącz do commita.
+PRZED COMMITEM (dwa skrypty, zawsze): (1) `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda; (2) `node scripts/porzadek-ofert.mjs` — przestawia oferty w `sety.json` w stałą kolejność alfabetyczną po sklepie (reguła Marka z 16.09.2026; audyt 22.09 wykazał, że 905 z 1 165 zestawów było zapisanych po cenie, a dzienny diff miał tysiące linii szumu). Oba pliki dołącz do commita.
 
 PUBLIKACJA: walidacja JSON-ów (liczby wpisów nie zmalały w ŻADNEJ gałęzi: sety, oferty_feed.sety, każda gałąź redirects), commit „Łowca: ceny i oferty <data>", push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
 

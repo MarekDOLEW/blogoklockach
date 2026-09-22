@@ -44,10 +44,10 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 22.09 08:50 (CEST, UTC+2).** Objął **15 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 22.09 11:39 (CEST, UTC+2).** Objął **14 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
-z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
+z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z konta" (pon 07:45 PL); Kontroler ją czyta.
 
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
@@ -59,8 +59,8 @@ z odpowiedzi `list_triggers`, a uruchamia Kontroler w cotygodniowym raporcie.
 | LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | 21.09 08:16 | ✅ SUCCEEDED | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
 | LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 22.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
 | Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01PwyDWKRCLydgDxAH8eRzzR` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 22.09 08:34 | ✅ SUCCEEDED | `trig_013VvvPKDiN4W8Bmj4qwd9LK` |
-| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 21.09 09:38 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Fu1fB4ZmZN6daDtHqEDWZy` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 22.09 09:38 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
 | LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `45 5 * * 1` | pon 07:45 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` |
 
 ### Pozostałe Routines na tym samym koncie
@@ -70,9 +70,8 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Kontroler — wynik przebiegu próbnego | `jednorazowo 22.09 09:20` | — | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01TUwVwTxun5dZsAkFAM6T7G` |
 | Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 21.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
-| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 21.09 10:06 | ⚠️ ABANDONED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 21.09 10:06 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
 | Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 16.09 11:03 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
 ### Kolizje — zadania na tej samej minucie
@@ -338,6 +337,17 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**22.09.2026 (po południu, po audycie)**
+- Łowca w NOWEJ trwałej sesji `session_01SdxKtAvW8UmktsuXrsPYga` (Fable 5,
+  repo w źródłach) pod ID `trig_01Fu1fB4ZmZN6daDtHqEDWZy` — poprzednia sesja
+  `session_017FKg5b8kSCwbJd8r7xPrwD` miała 753 k z 1 M tokenów kontekstu po
+  37 dniach (decyzja Marka 22.09). Prompt bez zmian poza krokiem PRZED COMMITEM:
+  `generuj-obrazy.mjs` + `porzadek-ofert.mjs` (audyt 22.09: 905 zestawów po
+  cenie zamiast alfabetycznie). Triggery przejściowe z tego dnia
+  (`trig_013VvvPKDiN4W8Bmj4qwd9LK`, `trig_01XWKB1HjSS5riTkB37bQK5V`) skasowane.
+  Stara sesja zostaje nieużywana do 29.09 (gdyby trzeba było coś z niej odczytać),
+  potem do archiwizacji.
 
 **22.09.2026 (po dwóch nieudanych pushach runnerów ze świeżej sesji)**
 - „Dane wt 05:30" przeniesiony do trwałej sesji z repo

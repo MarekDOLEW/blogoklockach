@@ -92,6 +92,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-22 11:40 · CODE · Łowca w nowej sesji (decyzja Marka), stara zostaje do 29.09
+
+Nowa sesja `session_01SdxKtAvW8UmktsuXrsPYga` (Fable 5, repo w źródłach), trigger
+`trig_01Fu1fB4ZmZN6daDtHqEDWZy`, ten sam prompt z krokiem `porzadek-ofert.mjs`.
+Sesja startowa: fetch, `npm ci`, diagnoza `--szybko`, dry-run pushu — wynik w
+podsumowaniu sesji. Pierwszy realny przebieg jutro 08:30 PL; sprawdzić commit
+„Łowca: ceny i oferty 2026-09-23" i czy `sety.json` nie wraca do kolejności po
+cenie (`node scripts/porzadek-ofert.mjs --sucho` ma zwrócić 0). Stara sesja
+Łowcy (753 k tokenów, 1 030 USD od 16.08) bez triggera — do archiwizacji 29.09.
+Skill `klocki-ceny-empik` — Marek podmienia paczkę na koncie (stara do skasowania,
+nowa z pliku `skille/klocki-ceny-empik.skill`).
+
 ## 2026-09-22 09:45 · CODE · Audyt po awariach: 18 cen-absurdów, 3 zapowiedzi jako EOL, Łowca bez porządku ofert, 25 zdań nieprawdziwych w dokumentach
 
 Raport: `materialy/audyt-2026-09-22.md` (PDF u Marka). Trzy przebiegi — A zadania
