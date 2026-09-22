@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-21",
+  "data_aktualizacji": "2026-09-22",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1173,
   "sety": [
@@ -5898,8 +5898,10 @@
   },
   "do_obserwacji_jakosc_produkcji": {
     "ustalenie": "StoneWars 2026-09-07: 'Qualitaetsproblem in der Fertigung? Weissbruch und Spannungsrisse bei zwei aktuellen Minifiguren' — zbielenia i pekniecia naprezeniowe w dwoch biezacych minifigurkach.",
-    "status": "JEDNO ZRODLO, PromoBricks milczy, Brickset takich rzeczy nie rejestruje. Nie publikowac.",
-    "dlaczego_sledzimy": "Jesli sie potwierdzi, to material do sekcji 'na co uwazac' w opisach zestawow z tymi figurkami — a nie temat sam w sobie. Wada produkcyjna to zarzut wobec producenta i wymaga drugiego zrodla."
+    "status": "Jedno zrodlo (StoneWars), ale z twardym dowodem: czesc zamienna w serwisie LEGO. Wciaz NIE publikujemy tego jako tematu ani jako zarzutu wobec producenta. Nadaje sie natomiast na jedno zdanie w sekcji 'na co uwazac' przy zestawach z ta figurka — z informacja, ze LEGO wysyla czesc zamienna przez swoj serwis. Do sprawdzenia: czy wymiana dziala takze dla polskich klientow.",
+    "dlaczego_sledzimy": "Jesli sie potwierdzi, to material do sekcji 'na co uwazac' w opisach zestawow z tymi figurkami — a nie temat sam w sobie. Wada produkcyjna to zarzut wobec producenta i wymaga drugiego zrodla.",
+    "rozwoj_2026_09_22": "StoneWars 2026-09-20: 'Weissbruch und Spannungsrisse bei Minifiguren: Ersatzteil fuer Pfeffy (Gingy) beim LEGO Service gelistet'. LEGO wystawilo w swoim serwisie czesc zamienna do dotknietej figurki. To zmienia charakter sprawy: zrodlo nadal jedno (StoneWars), ale dowod nie jest juz relacja z forum, tylko dzialaniem samego producenta — LEGO uznalo problem na tyle, ze uruchomilo wymiane.",
+    "do_zrobienia": "Ustalic, w ktorych zestawach wystepuje figurka Pfeffy/Gingy — dopiero wtedy da sie dopisac ostrzezenie do konkretnych wpisow. Nie robie tego dzis, bo wymaga to przeszukania skladow minifigurek, czego Brickset API nie zwraca w getSets."
   },
   "przeglad_2026_09_08": {
     "wynik": "Brak nowych zestawow do opisania. sety.json nietkniety.",
@@ -6001,5 +6003,12 @@
     "format_przeciekow": "przecieki.json zmienil uklad: 16.09 kazdy wpis byl w jednej linii, dzis plik jest w zwyklym indent=1. Wykrywanie formatu przez round-trip przed zapisem zlapalo to i odmowilo zapisu starym serializerem. Nie zakladac ukladu z pamieci.",
     "historia_gita": "Poranny 'git pull' zglosil forced update na origin/main — ktos przepisal historie. Sprawdzone: dane sa (40900 w sety.json, 11387 potwierdzony i rozstrzygniety), HEAD rowny origin/main, brak rozjazdu. Z logu zniknely jednak moje commity z 15-16.09.",
     "stonewars": "Bez nowosci katalogowych."
+  },
+  "przeglad_2026_09_22": {
+    "nowosci": "Brak nowych zestawow. Cztery rekordy 2026 ruszone (11513, 40905, 60510 — wszystkie juz opisane u nas z cenami PL; L0002240 odsiane jako 'Magazine gift').",
+    "rezerwacje_2027": "Szesc wczorajszych rezerwacji (11394, 11396, 11410, 30756, 31222, 31224) zmienilo kategorie z '{t.b.a.}' na 'Normal'. To potwierdza, ze sa to realne zestawy, nadal bez nazw.",
+    "odsiane_50090": "'LEGOLAND Park Adventure', 1578 elementow, motyw Promotional, availability 'LEGOLAND exclusive'. Duzy zestaw, ale sprzedawany wylacznie w parkach — brak dystrybucji w Polsce i brak linkow afiliacyjnych, wiec poza zakresem serwisu. PromoBricks o nim pisze.",
+    "40900": "StoneWars potwierdza: gratis dostepny od 21.09, zgodnie z data w Brickset. Bez zmian we wpisie.",
+    "przecieki": "Bez zmian: 16 wpisow, 1 rozstrzygniety. Zadnego nowego dowodu do 40899."
   }
 }
