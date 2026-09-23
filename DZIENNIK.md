@@ -92,6 +92,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 15:40 · CODE · Ceny x-kom w tabelach (pierwsze w historii serwisu) + pole `wazne_do`
+
+Marek: „nie mamy w ogóle cen z x-kom?" — nie mieliśmy: zero w `sety.json`
+i `oferty_feed.json`, bo SalesMasters nie daje feedu, a x-kom blokuje ruch
+serwerowy; sklep był w tabelach tylko jako link z workera. Teraz 9 cen z mailingu
+(23.09) siedzi w `sety.json` jako oferty `xkom` z `wazne_do: 2026-09-30`;
+`ofertaAktualna()` w `src/lib/oferty.js` respektuje to pole, więc po 30.09 wiersz
+znika sam. Skutek: x-kom jest najtańszy w tabelach 8 z 9 hubów (43014, 42231,
+43012, 43027, 43022, 11380, 42235, 43011), meta description hubów liczy rabat od
+tej ceny. W poście linki do x-kom zmienione z tekstu na przyciski `.przycisk`
+z ceną. Do decyzji Marka: skąd brać ceny x-kom na stałe (feed z Admitad — w
+planie z 18.08 — albo prośba do opiekuna SalesMasters o feed).
+
 ## 2026-09-23 15:15 · CODE · „Podobne zestawy z serii": tylko z ceną i dostępne w LEGO
 
 Marek (zrzut z huba 42130): obok BMW M 1000 RR stał Test Car 8865 z 1988 roku

@@ -35,8 +35,17 @@ export const MAX_WIEK_OFERTY_DNI = 14;
 export const PROG_PODEJRZANEGO_RYNKU = 0.5;
 const DZIS_MS = Date.now();
 
-/** Czy oferta jest dość świeża, żeby ją pokazać (bez daty = nie oceniamy). */
+/**
+ * Czy oferta jest dość świeża, żeby ją pokazać (bez daty = nie oceniamy).
+ * Oferta z polem `wazne_do` (RRRR-MM-DD) – akcja sklepu z ogłoszoną datą końca,
+ * np. mailing x-kom 23.09.2026 – znika po tym dniu niezależnie od sita 14 dni,
+ * żeby cena z promocji nie wisiała tydzień po jej zakończeniu.
+ */
 export function ofertaAktualna(o) {
+  if (o?.wazne_do) {
+    const koniec = Date.parse(o.wazne_do);
+    if (!Number.isNaN(koniec) && DZIS_MS > koniec + 864e5) return false;
+  }
   if (!o?.data) return true;
   const ms = Date.parse(o.data);
   return Number.isNaN(ms) || (DZIS_MS - ms) / 864e5 <= MAX_WIEK_OFERTY_DNI;

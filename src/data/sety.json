@@ -1106,6 +1106,12 @@
     "sklep": "planetaklockow",
     "cena": 509.99,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 369.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ],
   "zdjecia": {
@@ -1981,6 +1987,12 @@
     "sklep": "smyk",
     "cena": 479,
     "data": "2026-09-22"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 444.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ],
   "zdjecia": {
@@ -2028,6 +2040,12 @@
     "sklep": "smyk",
     "cena": 194.9,
     "data": "2026-09-22"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 179.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ],
   "zdjecia": {
@@ -10146,6 +10164,12 @@
     "sklep": "smyk",
     "cena": 739,
     "data": "2026-09-22"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 699.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ],
   "zdjecia": {
@@ -32580,6 +32604,12 @@
     "sklep": "planetaklockow",
     "cena": 369.99,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 249.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ]
  },
@@ -32613,6 +32643,12 @@
     "sklep": "planetaklockow",
     "cena": 369.99,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 249.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ]
  },
@@ -32834,6 +32870,12 @@
     "sklep": "planetaklockow",
     "cena": 116.99,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 76.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ]
  },
@@ -32872,6 +32914,12 @@
     "sklep": "planetaklockow",
     "cena": 117.4,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 76.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ]
  },
@@ -32948,6 +32996,12 @@
     "sklep": "planetaklockow",
     "cena": 116.99,
     "data": "2026-09-23"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 76.9,
+    "data": "2026-09-23",
+    "wazne_do": "2026-09-30"
    }
   ]
  },

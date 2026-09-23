@@ -1661,6 +1661,19 @@ każdy skrypt dopisujący ofertę do `sety.json` ma ją utrzymać.
 
 ## Oferty przeterminowane i „podejrzany rynek": sito przy odczycie *(od 16.09.2026)*
 
+**`wazne_do` (od 23.09.2026).** Oferta może mieć pole `wazne_do: "RRRR-MM-DD"` –
+akcja sklepu z ogłoszoną datą końca (pierwszy przypadek: mailing x-kom na Dzień
+Chłopaka, 9 zestawów do 30.09). `ofertaAktualna()` odrzuca ją po tym dniu
+niezależnie od sita 14 dni, więc cena z promocji nie wisi tydzień po jej końcu.
+Wpisuje się ręcznie w `sety.json` (`{"sklep": "xkom", "cena": …, "data": …,
+"wazne_do": …}`); po dacie wpis można zostawić – sito go nie pokaże.
+
+**x-kom nie ma feedu.** Do 23.09.2026 nie mieliśmy ani jednej ceny x-kom:
+SalesMasters nie daje feedu produktowego (`feed: null` w rejestrze), a strony
+x-kom blokują ruch serwerowy, więc sklep istniał w tabelach tylko jako link
+z workera. Ceny x-kom wchodzą wyłącznie ręcznie (mailing partnera, Cowork
+z przeglądarki) i zawsze z `wazne_do`.
+
 `src/lib/oferty.js` → `filtrujOferty()` jest jedynym sitem dla ofert z `sety.json`
 i z feedu; przechodzą przez nie tabela cen huba, meta/JSON-LD, karuzela na
 stronie głównej, `/deale/`, listingi serii i ocena indeksowalności. Dwie reguły,

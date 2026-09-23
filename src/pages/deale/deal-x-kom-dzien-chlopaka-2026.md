@@ -17,19 +17,19 @@ wyroznienie: true
 
 **LEGO Editions 43014 Kask Charles Leclerc Scuderia Ferrari HP — 249,90 zł.** Katalogowo **379,99 zł**, czyli **−34%**; do dziś kask Leclerca nie schodził poniżej 255 zł. 886 elementów, kask w skali do postawienia na biurku — jeden z dwóch zestawów w akcji, które kupuje się dla siebie, nie dla dziecka.
 
-<a href="/idz/xkom/43014" rel="sponsored nofollow">Sprawdź w x-kom →</a>
+<a class="przycisk" href="/idz/xkom/43014" rel="sponsored nofollow">Kask Leclerca w x-kom: 249,90 zł →</a>
 
 <div class="ceny-setu" data-set="43014"></div>
 
 **LEGO Technic 42231 Dodge Charger R/T z Fast & Furious — 444,90 zł.** Katalogowo **649,99 zł** (**−32%**); dotychczasowe minimum to 454,99 zł na Allegro, tu masz zwykły sklep i dziesięć złotych mniej. 1516 elementów, samochód Doma Toretto w Technic dla budowniczych od 10 lat.
 
-<a href="/idz/xkom/42231" rel="sponsored nofollow">Sprawdź w x-kom →</a>
+<a class="przycisk" href="/idz/xkom/42231" rel="sponsored nofollow">Dodge Charger w x-kom: 444,90 zł →</a>
 
 <div class="ceny-setu" data-set="42231"></div>
 
 **LEGO Editions 43012 Cristiano Ronaldo i 43027 Vini Jr. z serii „piłkarskie momenty" — po 76,90 zł.** Katalogowo **124,99 zł** każdy, czyli **−38%**; oba stały dotąd najniżej po 82,98 zł. To prezent pod stówkę dla dziecka, które zna te nazwiska z boiska, a nie z pudełka LEGO — 490 i 510 elementów, figurka w charakterystycznej pozie do postawienia na półce.
 
-<a href="/idz/xkom/43012" rel="sponsored nofollow">Ronaldo w x-kom →</a> · <a href="/idz/xkom/43027" rel="sponsored nofollow">Vini Jr. w x-kom →</a>
+<a class="przycisk" href="/idz/xkom/43012" rel="sponsored nofollow">Ronaldo w x-kom: 76,90 zł →</a> <a class="przycisk" href="/idz/xkom/43027" rel="sponsored nofollow">Vini Jr. w x-kom: 76,90 zł →</a>
 
 <div class="ceny-setu" data-set="43012"></div>
 
@@ -43,7 +43,7 @@ wyroznienie: true
 
 **43011 Lionel Messi — 76,90 zł** (katalogowo 124,99 zł, −38%). Ta sama cena co Ronaldo i Vini Jr., z tą różnicą, że Messi był już raz tańszy: 72,76 zł na Allegro na początku września.
 
-Aktualne ceny całej czwórki porównasz na kartach zestawów: [43022](/zestaw/43022/), [11380](/zestaw/11380/), [42235](/zestaw/42235/), [43011](/zestaw/43011/).
+Linki do sklepu: <a href="/idz/xkom/43022" rel="sponsored nofollow">kask Hamiltona</a>, <a href="/idz/xkom/11380" rel="sponsored nofollow">rower szosowy</a>, <a href="/idz/xkom/42235" rel="sponsored nofollow">Ferrari 488 Pista</a>, <a href="/idz/xkom/43011" rel="sponsored nofollow">Messi</a>. Aktualne ceny całej czwórki porównasz na kartach zestawów: [43022](/zestaw/43022/), [11380](/zestaw/11380/), [42235](/zestaw/42235/), [43011](/zestaw/43011/) — wiersz x-kom jest tam do 30 września.
 
 ## Jeden zestaw do pominięcia
 
@@ -51,4 +51,4 @@ Aktualne ceny całej czwórki porównasz na kartach zestawów: [43022](/zestaw/4
 
 ## Jak skorzystać
 
-Ceny obowiązują do **30 września** bez kodu, dopóki starczy zapasu. Kwoty z tego tekstu to informacja sklepu z 23 września — nie sprawdzamy stron x-kom automatycznie, więc potwierdź cenę na karcie produktu. Codziennie odświeżana lista okazji ze wszystkich sklepów — w [dziale Deale](/deale/).
+Ceny obowiązują do **30 września** bez kodu, dopóki starczy zapasu; w tabelach cen na kartach zestawów wiersz x-kom z ceną z akcji znika automatycznie po tym dniu. Kwoty z tego tekstu to informacja sklepu z 23 września — nie sprawdzamy stron x-kom automatycznie, więc potwierdź cenę na karcie produktu. Codziennie odświeżana lista okazji ze wszystkich sklepów — w [dziale Deale](/deale/).
