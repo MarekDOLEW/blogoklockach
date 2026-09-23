@@ -338,6 +338,16 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**23.09.2026 (rano)**
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`)
+  pod ID `trig_017omSdzXXrZQTjBBp4UfVTg`: nowa sekcja „SKRYPTY ROBOCZE POZA REPO"
+  — pierwszy przebieg w nowej sesji utknął na 40 minut na pytaniu o uprawnienia,
+  bo runner zrobił `cat > lowca-zapisz-dzis.py` w katalogu repo (tryb auto pyta
+  o tworzenie plików poza `src/data`, a nikt nie odpowiada). Odblokowany
+  jednorazowym Routine do sesji z instrukcją heredoc/scratchpad; commit eba381f
+  o 07:15 UTC. Do promptu weszły też oczekiwane rzędy wielkości Allegro po
+  zmianie feedu (~6 400; alarm poniżej 4 000 i powyżej 10 000).
+
 **22.09.2026 (po południu, po audycie)**
 - Kontroler odtworzony (delete+create, ta sama sesja) pod ID
   `trig_0167qmnWn3Qjjz8HTwZU1uEP`: cel „20 000 zł w grudniu" zastąpiony czterema

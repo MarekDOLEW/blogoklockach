@@ -92,6 +92,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 10:00 · CODE · Łowca: pierwszy przebieg w nowej sesji i na feedzie „tylko LEGO" — po 40-minutowym zacięciu na uprawnieniach
+
+Przebieg 06:33 UTC stanął na `cat > lowca-zapisz-dzis.py && python3 …` w katalogu
+repo — tryb auto zapytał o zgodę, której w sesji runnera nikt nie daje (stara
+sesja pisała skrypty inaczej i pytań nie miała). Odblokowanie: jednorazowy Routine
+do sesji (07:10) z instrukcją „skrypty robocze przez heredoc albo ze scratchpadu";
+commit eba381f o 07:15, raport do redakcji wysłany. Stała poprawka: sekcja
+„SKRYPTY ROBOCZE POZA REPO" w prompcie Łowcy (`trig_017omSdzXXrZQTjBBp4UfVTg`).
+
+Dane z nowego feedu Allegro: 6 398 ofert z datą 23.09 (wczoraj 5 108 ze starego
+feedu), `porzadek-ofert --sucho` = 0, w repo nie ma pliku roboczego. Sito: 6 ofert
+powyżej 3× RRP ukryte. Najtańsze oferty Allegro to prawdziwe polybagi i minibuildy
+(11947, 11969, 30659, 30636…), 1 w Archiwum (30711 Creator polybag) — filtr części
+trzyma. Diff commita: sety.json 7 453 linii, redirects.json 11 377 — jednorazowo, bo
+wszystkie linki Allegro dostały nowe adresy z nowego feedu; jutro ma być mały.
+Dwa posty dealowe (60470 Ekspres polarny < 600 zł, 75404 Acclamator nowe minimum) —
+oba z reguły (b): minimum na zestawie z listy wycofań. Łowca zgłosił w podsumowaniu
+„55 niedostępnych ofert PK i błąd filtru akcesoriów" — do przeczytania w raporcie
+mailowym Łowcy z 23.09 (Code nie widzi rozmowy runnera).
+
 ## 2026-09-23 08:00 · RADAR · Do zrobienia
 
 **faniklockow.pl · 22.09** — opublikowali tekst o 75455 Boba Fett z tezą, że ponad połowa wartości zestawu to minifigurka.
