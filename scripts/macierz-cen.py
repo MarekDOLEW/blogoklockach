@@ -98,7 +98,7 @@ ws.auto_filter.ref = f'A1:{get_column_letter(len(naglowek))}{ws.max_row}'
 
 zr = wb.create_sheet('Źródła')
 zr.append(['Sklep', 'Skąd cena', 'Jak często', 'Kto', 'Zestawów ze świeżą ceną', 'Przeterminowane (w danych, nie na stronie)', 'Afiliacja'])
-afil = {'lego': 'Tradedoubler? – patrz afiliacje_rejestr.json', 'mediaexpert': 'Performers', 'planetaklockow': 'webePartners', 'allegro': 'Allegro (bezpośrednio)', 'empik': 'Tradedoubler', 'smyk': 'Tradedoubler', 'ceneo': 'Ceneo Program Partnerski', 'lidl': 'Tradedoubler', 'xkom': 'SalesMasters (kod uniwersalny sm=)'}
+afil = {'lego': 'Performers (aktywny) + Tradedoubler', 'mediaexpert': 'Performers (aktywny)', 'planetaklockow': 'webePartners (aktywny)', 'allegro': 'Allegro Affiliate bezpośrednio (aktywny); Admitad do zgłoszenia', 'empik': 'Tradedoubler (aktywny)', 'smyk': 'Adtraction (aktywny)', 'ceneo': 'Tradedoubler (aktywny)', 'lidl': 'Tradedoubler (aktywny)', 'xkom': 'SalesMasters, kod uniwersalny sm= (aktywny)'}
 for k, n, z, c, kto in SKLEPY:
     zr.append([n, z, c, kto, statystyka[k]['swieze'], statystyka[k]['stare'], afil.get(k, '')])
 for cell in zr[1]: cell.font = Font(bold=True)
