@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
-import { zajawkiArtykulow } from '../../lib/artykuly.js';
+import { zajawkiArtykulow, sortujPostyDealowe } from '../../lib/artykuly.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia } from '../../lib/media.js';
@@ -56,11 +56,7 @@ const polki = POLKI.map((p) => ({
 })).filter((p) => p.deale.length);
 
 // posty dealowe: markdown z tego katalogu, najnowsze na górze
-const posty = zajawkiArtykulow(
-  Object.entries(import.meta.glob('./*.md', { eager: true }))
-    .map(([, m]) => m)
-    .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data)),
-);
+const posty = zajawkiArtykulow(sortujPostyDealowe(Object.values(import.meta.glob('./*.md', { eager: true }))));
 
 const jsonld = {
   '@context': 'https://schema.org',

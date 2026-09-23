@@ -87,6 +87,19 @@ export function zajawkaArtykulu(modul, { karty = false } = {}) {
 }
 
 /** Lista zajawek, najnowsze pierwsze. */
+/**
+ * Kolejność postów dealowych (strona główna i listing /deale/): najpierw posty
+ * z `wyroznienie: true` we frontmatterze (kampania sklepu z datą końca, którą
+ * redakcja chce trzymać na wierzchu – Marek 23.09.2026), w obrębie grupy data
+ * malejąco. Wyróżnienie zdejmuje się ręcznie, gdy akcja się skończy.
+ */
+export function sortujPostyDealowe(moduly) {
+  const czas = (m) => new Date(m.frontmatter?.data ?? 0).getTime() || 0;
+  return moduly
+    .filter((m) => m.frontmatter?.data)
+    .sort((a, b) => (Boolean(b.frontmatter.wyroznienie) - Boolean(a.frontmatter.wyroznienie)) || czas(b) - czas(a));
+}
+
 export function zajawkiArtykulow(moduly, opcje) {
   return moduly.map((m) => zajawkaArtykulu(m, opcje));
 }
