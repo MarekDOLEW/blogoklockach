@@ -92,6 +92,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 15:15 · CODE · „Podobne zestawy z serii": tylko z ceną i dostępne w LEGO
+
+Marek (zrzut z huba 42130): obok BMW M 1000 RR stał Test Car 8865 z 1988 roku
+i trzy kafelki „brak w lego.pl". Reguła w `src/lib/seria-huby.js` dobierała
+„z reszty", gdy brakowało pełnych pozycji. Teraz pula to wyłącznie zestawy ze
+zdjęciem, aktualną ofertą i obecne w sklepie LEGO (`!eolLego`); mniej niż
+cztery → tyle, ile jest; zero → sekcja znika. Po buildzie: 8 888 hubów
+z sekcją, 613 bez, zero plakietek EOL/„brak w lego.pl" i zero „sprawdź cenę"
+w kafelkach. Kolejność postów dealowych: pole `wyroznienie: true` we
+frontmatterze wypycha post na początek na głównej i w `/deale/` (x-kom do 30.09).
+
 ## 2026-09-23 15:00 · CODE · Strona główna: trzy najnowsze posty dealowe pod slajderem + przycisk „Zobacz wszystkie deale"
 
 Decyzja Marka: dział /deale/ był zbyt ukryty (wejście tylko z menu i stopki).

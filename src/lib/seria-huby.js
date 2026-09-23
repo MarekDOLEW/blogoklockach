@@ -77,15 +77,17 @@ const DZIEN = Number(new Date().toISOString().slice(0, 10).replaceAll('-', ''));
 /**
  * Losowy dobór 4–6 podobnych zestawów z tej samej serii (bez `nr`).
  *
- * Losujemy najpierw spośród pozycji, które mają zdjęcie i aktualną ofertę
- * (takie kafelki niosą coś czytelnikowi), a dopiero gdy ich brakuje – z reszty.
- * Liczba kafelków (4–6) też jest losowana, żeby sekcja nie wyglądała na
- * szablon. Zestaw bez żadnego sąsiada w serii dostaje pustą listę.
+ * Do puli wchodzą WYŁĄCZNIE zestawy ze zdjęciem, aktualną ofertą i obecne
+ * w sklepie LEGO (decyzja Marka 23.09.2026 – wcześniej przy braku takich
+ * pozycji dobieraliśmy „z reszty" i obok BMW M 1000 RR lądował Test Car 8865
+ * z 1988 roku z plakietką „brak w lego.pl"). Gdy seria ma mniej niż `min`
+ * takich sąsiadów, pokazujemy tyle, ile jest; bez żadnego – sekcja znika.
+ * Liczba kafelków (4–6) jest losowana, żeby sekcja nie wyglądała na szablon.
  */
 export function podobneZSerii(seria, nr, { min = 4, max = 6 } = {}) {
   if (!seria) return [];
   mapa ??= zbuduj();
-  const pula = (mapa.get(seria) ?? []).filter((w) => w.nr !== String(nr));
+  const pula = (mapa.get(seria) ?? []).filter((w) => w.nr !== String(nr) && w.zdjecie && w.cena !== null && !w.eolLego);
   if (!pula.length) return [];
   const los = losZZiarnem(Number(nr) * 31 + DZIEN);
   const ile = Math.min(pula.length, min + Math.floor(los() * (max - min + 1)));
@@ -97,7 +99,5 @@ export function podobneZSerii(seria, nr, { min = 4, max = 6 } = {}) {
     }
     return kopia;
   };
-  const pelne = tasuj(pula.filter((w) => w.zdjecie && w.cena !== null));
-  const reszta = tasuj(pula.filter((w) => !(w.zdjecie && w.cena !== null)));
-  return [...pelne, ...reszta].slice(0, ile);
+  return tasuj(pula).slice(0, ile);
 }
