@@ -33157,7 +33157,7 @@
  "72050": {
   "nazwa": "Mario Kart - Luigi i Mach 8",
   "seria": "Super Mario",
-  "cena_katalogowa": null,
+  "cena_katalogowa": 779.99,
   "elementy": 2234,
   "wiek": "18+",
   "premiera": "2026-04",
@@ -33201,7 +33201,7 @@
  "11503": {
   "nazwa": "Kwiatowa ścianka",
   "seria": "Botanicals",
-  "cena_katalogowa": null,
+  "cena_katalogowa": 379.99,
   "elementy": 879,
   "wiek": "18+",
   "premiera": "2026-02",
@@ -33314,7 +33314,8 @@
     "cena": 329,
     "data": "2026-09-23"
    }
-  ]
+  ],
+  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — nigdy nie miał ceny katalogowej; oferty w Polsce to odsprzedaż"
  },
  "40910": {
   "nazwa": "Mistrz Rzucania Mięsem i Podniebna - figurki",
@@ -33600,7 +33601,8 @@
     "cena": 649.99,
     "data": "2026-09-23"
    }
-  ]
+  ],
+  "bez_rrp": "ekskluzyw LEGO House, sprzedawany tylko w Billund — nigdy nie miał polskiej ceny katalogowej; oferty w Polsce to import"
  },
  "40890": {
   "nazwa": "Wielkanocne dekoracje",
@@ -33676,7 +33678,8 @@
     "cena": 329.49,
     "data": "2026-09-21"
    }
-  ]
+  ],
+  "bez_rrp": "ekskluzyw parków LEGOLAND — nigdy nie miał polskiej ceny katalogowej (54,99 € w parkach); oferty w Polsce to import z marżą"
  },
  "66813": {
   "nazwa": "Seria 28 – Zwierzęta – sześciopak",
@@ -42162,5 +42165,44 @@
   "dla_rodzica": "To nie jest pozycja, którą się kupuje — dostaje się ją przy zakupach w sklepie LEGO po przekroczeniu progu kwotowego, którego producent na razie nie podał. Oznaczenie 8+ i 218 elementów oznacza krótkie, proste budowanie, w sam raz na sezonową dekorację.",
   "dla_afol": "Gratis nie ma ceny katalogowej i nigdy nie trafi do tabeli cen — nie da się policzyć progu zakupu ani ceny za element. Warto natomiast pilnować progu kwotowego akcji, bo od niego zależy, czy dodatek faktycznie jest darmowy, czy dokłada się do koszyka rzeczy, których się nie potrzebuje. Progu LEGO jeszcze nie ogłosiło.",
   "oferty": []
+ },
+ "72153": {
+  "nazwa": "Venusaur, Charizard i Blastoise",
+  "seria": "Pokémon",
+  "cena_katalogowa": 2799.99,
+  "elementy": 6838,
+  "wiek": "18+",
+  "premiera": "2026-02",
+  "opis": "",
+  "dla_rodzica": "To rzeźba kolekcjonerska z trzema w pełni wyewoluowanymi starterami z pierwszej generacji, nie zestaw do zabawy: 6838 elementów, oznaczenie 18+ i cena katalogowa 2 799,99 zł. Dla dziecka fanującego Pokémonom sensowniejszy jest mniejszy 72152 Pikachu i Poké Ball z tej samej linii.",
+  "dla_afol": "Największy zestaw linii Pokémon i jeden z największych zestawów LEGO 2026 roku; sprzedawany jako ekskluzyw LEGO.com (na Bricksecie „Retail - limited\"). Potencjał kolekcjonerski oceniam na wysoki: pierwsza generacja starterów to najmocniejszy temat marki, a nakład ekskluzywu jest z definicji mniejszy niż zestawu z pełnej dystrybucji.",
+  "oferty": [],
+  "ekskluzyw": true
+ },
+ "72152": {
+  "nazwa": "Pikachu i Poké Ball",
+  "seria": "Pokémon",
+  "cena_katalogowa": 869.99,
+  "elementy": 2050,
+  "wiek": "18+",
+  "premiera": "2026-02",
+  "opis": "",
+  "dla_rodzica": "Rzeźba ekspozycyjna Pikachu z Poké Ballem, 2050 elementów, oznaczenie 18+ dotyczy budowy, nie treści. To model na półkę, nie do zabawy — dziecko dostanie z niego tyle, ile z figurki, a mniej niż z małego zestawu z pojazdem.",
+  "dla_afol": "Najbardziej dostępny zestaw linii Pokémon (pełna dystrybucja, nie ekskluzyw jak 72153). Polska cena katalogowa 869,99 zł jest wyższa niż europejska (199,99 €), a rynek stabilnie schodzi w okolice 540–600 zł — rabat od cennika mówi tu mniej niż cena rynkowa. Potencjał kolekcjonerski oceniam na umiarkowany: duży nakład, ale temat trafia do dwóch pokoleń naraz.",
+  "oferty": []
+ },
+ "910059": {
+  "nazwa": "Privateer Frigate Fortuna",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 4087,
+  "wiek": "18+",
+  "premiera": "2026-07",
+  "opis": "",
+  "dla_rodzica": "Fregata z programu projektantów BrickLink: 4087 elementów, 20 minifigurek, oznaczenie 18+. Sprzedawana tylko przez LEGO.com w wybranych krajach i tylko do końca 2026 roku; w Polsce dostępna wyłącznie z odsprzedaży, zwykle za ponad dwukrotność ceny europejskiej (349,99 €). Nie jest to zakup dla dziecka.",
+  "dla_afol": "Największy zestaw siódmej serii BrickLink Designer Program z dwudziestoma unikalnymi minifigurkami; wąskie okno sprzedaży i brak polskiej dystrybucji robią z niego zestaw kolekcjonerski od pierwszego dnia. Potencjał kolekcjonerski oceniam na wysoki, ale ceny w polskich ofertach to już rynek wtórny — rabatu tu nie ma od czego liczyć.",
+  "oferty": [],
+  "ekskluzyw": true,
+  "bez_rrp": "BrickLink Designer Program (seria 7), sprzedaż wyłącznie przez LEGO.com w wybranych krajach 1.07–31.12.2026, bez polskiego cennika (349,99 €); oferty w Polsce to odsprzedaż"
  }
 }

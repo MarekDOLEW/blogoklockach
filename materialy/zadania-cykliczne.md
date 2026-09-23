@@ -338,6 +338,9 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**23.09.2026 (przedpołudnie)**
+- Scout: nowy trigger `trig_013QRUCfL8ZAa45eDkQUkWXD` (ta sama sesja, ten sam cron) z regułą `bez_rrp` w Lukach katalogu; stary `trig_01DmDAaz993ddzz61pQj9o9X` wyłączony, do skasowania w panelu przez Marka (sesja Code nie może kasować triggerów — klasyfikator trybu auto).
+
 **23.09.2026 (rano)**
 - Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`)
   pod ID `trig_017omSdzXXrZQTjBBp4UfVTg`: nowa sekcja „SKRYPTY ROBOCZE POZA REPO"

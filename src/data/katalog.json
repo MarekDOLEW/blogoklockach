@@ -135,7 +135,8 @@
         "43269 Disney: 619.99 -> 599.99"
       ]
     },
-    "uzupelnienie_rrp_2026_09_22": "Uzupelniono 112 pustych cen katalogowych z rrp_potwierdzone.json (zrodlo: pelny katalog lego.com/pl-pl, Firecrawl 28.08.2026). Luka powstala, bo kontrola-rrp.mjs porownuje ze zrodlem tylko wpisy, ktore JUZ maja cene (linia 66: `if (s.cena_katalogowa)`), wiec nulle nigdy nie byly raportowane jako rozbieznosc."
+    "uzupelnienie_rrp_2026_09_22": "Uzupelniono 112 pustych cen katalogowych z rrp_potwierdzone.json (zrodlo: pelny katalog lego.com/pl-pl, Firecrawl 28.08.2026). Luka powstala, bo kontrola-rrp.mjs porownuje ze zrodlem tylko wpisy, ktore JUZ maja cene (linia 66: `if (s.cena_katalogowa)`), wiec nulle nigdy nie byly raportowane jako rozbieznosc.",
+    "weryfikacja_cowork_2026_09_23": "Cowork sprawdzil watpliwosci Scouta w przegladarce (LEGO.com PL, Brickset, Ceneo): 72050 i 11503 maja RRP PL (779,99 / 379,99 - byly w katalogu, brakowalo w sety.json); 40507, 40952, 40916, 910059 nigdy nie mialy polskiej ceny katalogowej (ekskluzywy LEGO House / LEGOLAND, GWP, BrickLink Designer Program) - pole bez_rrp z powodem, zeby hub i Scout nie zglaszaly braku w nieskonczonosc; 45521 to LEGO Education, nie wchodzi do sety.json; 72152 RRP 869,99 potwierdzone (rynek ~540-600 zl to cena europejska, nie blad)."
   },
   "Ideas": [
     {
@@ -64865,7 +64866,8 @@
       "elementy": 310,
       "status": "eol",
       "cena_katalogowa": null,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)",
+      "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — nigdy nie miał ceny katalogowej; oferty w Polsce to odsprzedaż"
     },
     {
       "numer": "6614216",
@@ -69282,7 +69284,8 @@
       "elementy": 1404,
       "status": "eol",
       "cena_katalogowa": null,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)",
+      "bez_rrp": "ekskluzyw LEGO House, sprzedawany tylko w Billund — nigdy nie miał polskiej ceny katalogowej; oferty w Polsce to import"
     },
     {
       "numer": "40902",
@@ -69338,7 +69341,8 @@
       "elementy": 613,
       "status": "eol",
       "cena_katalogowa": null,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)",
+      "bez_rrp": "ekskluzyw parków LEGOLAND — nigdy nie miał polskiej ceny katalogowej (54,99 € w parkach); oferty w Polsce to import z marżą"
     },
     {
       "numer": "40955",
@@ -76323,11 +76327,12 @@
       "numer": "910059",
       "nazwa": "Privateer Frigate Fortuna",
       "rok": 2026,
-      "elementy": 4086,
+      "elementy": 4087,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "bez_rrp": "BrickLink Designer Program (seria 7), sprzedaż wyłącznie przez LEGO.com w wybranych krajach 1.07–31.12.2026, bez polskiego cennika (349,99 €); oferty w Polsce to odsprzedaż"
     },
     {
       "numer": "910017",

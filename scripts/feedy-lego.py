@@ -43,8 +43,10 @@ SLOWA_NIE_ZESTAW = re.compile(
     # ofert, w większości części z numerem elementu, który koliduje z numerami
     # starych zestawów: „Lego Tile 1751 Płytka 4x4", „Lego 2432 Tile Zaczep", „Lego
     # Klocek 2x4x2 (2434/4494850)"): nazwy części, wymiary 1x4/2x4x2, sztuki, gramy
-    r'|\b(?:tile|brick|plate|slope|wedge|technic\s+pin|pin\b|axle|beam)\b|p[lł]ytk|\bklocek\b|\b[12]\s*x\s*\d+\b|\b\d+\s*x\s*\d+\s*x\s*\d+\b'
-    r'|\b\d+\s*szt\b|\(\d+\s*g\)|\bnr\.?\s*\d{4,7}\b|katalog\s+lego|drukowany|[lł]odyg|\belement\b',
+    r'|\b(?:tile|brick|plate|slope|wedge|technic\s+pin|pin\b|axle|beam)\b|\bklocek\b|\b[12]\s*x\s*\d+\b|\b\d+\s*x\s*\d+\s*x\s*\d+\b'
+    r'|\b\d+\s*szt\b|\(\d+\s*g\)|\bnr\.?\s*\d{4,7}\b|katalog\s+lego|drukowany|[lł]odyg|\belement\b'
+    # akcesoria z numerem w tytule (Łowca 23.09: separator 96874 za 3,99 zł)
+    r'|separator|akcesori|wyciskacz|\bmata\b|podk[lł]adk',
     re.IGNORECASE,
 )
 
@@ -139,6 +141,8 @@ def z_planetyklockow():
             elif cena:
                 zdjecie = next((p.text for p in el.findall('property')
                                 if p.get('name') == 'ImageOriginalUrl'), None)
+                strona = next((p.text for p in el.findall('property')
+                               if p.get('name') == 'ProductUrl'), None)
                 stara = oferty.get(nr)
                 if not stara or cena < stara['cena']:
                     oferty[nr] = {
@@ -147,10 +151,66 @@ def z_planetyklockow():
                         'zdjecie': (zdjecie or '').strip(),
                         'dostepny': True,
                         'nazwa': nazwa,
+                        'strona': (strona or '').strip(),
                     }
         el.clear()
     os.unlink(plik)
-    return oferty, {'archiwum_eol': sorted(set(wycofane))}
+    niedostepne = sprawdz_dostepnosc_pk(oferty)
+    return oferty, {'archiwum_eol': sorted(set(wycofane)), 'niedostepne': niedostepne}
+
+
+# Feed Planety Klocków (nokaut.xml) NIE niesie dostępności: poza kategorią
+# „Produkty wycofane z oferty" każda pozycja wygląda na sprzedawaną, a część
+# to widma — karta produktu ma schema.org/OutOfStock i przycisk „Powiadom
+# o dostępności" (Łowca 23.09.2026: 55 z 85 „najtańszych" ofert PK, m.in.
+# 21065 Sagrada Família za 559,99 zł). Dlatego każdą ofertę PK sprawdzamy na
+# stronie produktu (zwykły curl, 8 naraz, ~1 300 stron w kilka minut):
+# OutOfStock → oferta wypada z wyciągu (Łowca traktuje ją jak nieobecną w feedzie
+# i zdejmuje cenę PK z huba). Błąd sieci = zostaje (nie kasujemy na ślepo).
+PK_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36'
+PK_ROWNOLEGLE = 8
+
+def _pk_strona_dostepna(url, max_time='15'):
+    try:
+        r = subprocess.run(['curl', '-sL', '--max-time', max_time, '-A', PK_UA, url],
+                           capture_output=True, text=True, timeout=int(max_time) + 10)
+        html = r.stdout
+    except Exception:
+        return None
+    if 'schema.org/OutOfStock' in html:
+        return False
+    if 'schema.org/InStock' in html:
+        return True
+    return None   # nieznany układ strony / 404 / blokada — nie rozstrzygamy
+
+def sprawdz_dostepnosc_pk(oferty):
+    from concurrent.futures import ThreadPoolExecutor
+    adresy = {}
+    for nr, o in oferty.items():
+        url = (o.get('strona') or '').strip()
+        if url:
+            adresy[nr] = url
+    wyniki = {}
+    with ThreadPoolExecutor(max_workers=PK_ROWNOLEGLE) as pula:
+        for nr, wynik in zip(adresy, pula.map(_pk_strona_dostepna, adresy.values())):
+            wyniki[nr] = wynik
+    # Druga próba dla nierozstrzygniętych (test 23.09: 235 z 1302 — strony PK mają
+    # 200–700 kB i przy 8 równoległych część nie mieści się w 15 s; przy ponownym
+    # odczycie próbka 40 kart dała 40 rozstrzygnięć). Wolniej, z dłuższym limitem.
+    ponownie = {nr: adresy[nr] for nr, w in wyniki.items() if w is None}
+    if ponownie:
+        with ThreadPoolExecutor(max_workers=max(1, PK_ROWNOLEGLE // 2)) as pula:
+            for nr, wynik in zip(ponownie, pula.map(lambda u: _pk_strona_dostepna(u, '40'), ponownie.values())):
+                wyniki[nr] = wynik
+    niedostepne = sorted(nr for nr, w in wyniki.items() if w is False)
+    nieznane = sum(1 for w in wyniki.values() if w is None)
+    for nr in niedostepne:
+        del oferty[nr]
+    for o in oferty.values():
+        o.pop('strona', None)
+    print(f'planetaklockow: sprawdzono {len(wyniki)} kart, niedostępnych (OutOfStock) {len(niedostepne)}, '
+          f'nierozstrzygniętych {nieznane} (druga próba: {len(ponownie)})', file=sys.stderr)
+    return niedostepne
 
 
 def z_allegro():

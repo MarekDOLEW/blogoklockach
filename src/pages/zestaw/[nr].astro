@@ -92,6 +92,10 @@ const przeciek = przeciekSetu(nr);
 // cena katalogowa bywa nieogłoszona (premiery, zestawy promocyjne) – wtedy
 // mówimy o tym wprost, zamiast zostawiać puste miejsce
 const cenaNieznana = !cenaKatalogowa;
+// zestaw bez polskiej ceny katalogowej z natury (ekskluzyw LEGO House/LEGOLAND,
+// prezent GWP, BrickLink Designer Program) – pole `bez_rrp` z powodem w sety.json
+// albo katalog.json (Cowork 23.09.2026). Wtedy nie obiecujemy, że cenę „podamy”.
+const bezRrp = s?.bez_rrp || kat?.bez_rrp || null;
 
 const sciezkaSerii = seria
   ? `/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`
@@ -199,9 +203,11 @@ const liczbaSklepow = new Set(ofertyBezCeneo.map((o) => o.sklep)).size;
 // Gdy najtaniej jest po cenie katalogowej (albo drożej), „od X w 1 sklepie" brzmi
 // jak okazja, którą nie jest — wtedy mówimy wprost, że promocji jeszcze nie ma.
 const rabatMeta = cenaKatalogowa && najlepsza ? Math.round((1 - najlepsza / cenaKatalogowa) * 100) : 0;
-const ogonMeta = `LEGO ${nr} ${nazwa}${elementy ? `, ${elementy} elementów` : ''} – porównanie cen, rabat liczony od RRP, dla rodzica i dla kolekcjonera.`;
+const ogonMeta = `LEGO ${nr} ${nazwa}${elementy ? `, ${elementy} elementów` : ''} – porównanie cen, ${bezRrp ? 'bez polskiej ceny katalogowej' : 'rabat liczony od RRP'}, dla rodzica i dla kolekcjonera.`;
 const opisMeta = najlepsza
-  ? rabatMeta >= 3
+  ? bezRrp
+    ? `Od ${fmt(najlepsza)} w ${liczbaSklepow} ${liczbaSklepow === 1 ? 'sklepie' : 'sklepach'} – to rynek wtórny, nie promocja. ${ogonMeta}`
+    : rabatMeta >= 3
     ? `Od ${fmt(najlepsza)} w ${liczbaSklepow} ${liczbaSklepow === 1 ? 'sklepie' : 'sklepach'} (${rabatMeta}% poniżej ceny katalogowej ${fmt(cenaKatalogowa)}). ${ogonMeta}`
     : cenaKatalogowa
       ? `Cena katalogowa ${fmt(cenaKatalogowa)}, promocji jeszcze nie ma – sprawdzamy codziennie w ${liczbaSklepow} ${liczbaSklepow === 1 ? 'sklepie' : 'sklepach'}. ${ogonMeta}`
@@ -272,7 +278,9 @@ const opisMeta = najlepsza
           {premiera ? <span>premiera <strong>{premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
           {cenaKatalogowa
             ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
-            : <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>}
+            : bezRrp
+              ? <span>cena katalogowa <strong>brak</strong> (zestaw bez polskiego cennika)</span>
+              : <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>}
         </div>
         {opis && <p class="prose">{opis}</p>}
         {wycof && wycof.etap !== 'wycofany' && (
@@ -330,7 +338,13 @@ const opisMeta = najlepsza
       </p>
     ) : oferty.length > 0 || cenaKatalogowa ? (
       <div id="ceny">
-        {cenaNieznana && (
+        {cenaNieznana && bezRrp && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Bez polskiej ceny katalogowej:</strong> {bezRrp}. Rabatu nie liczymy – ceny poniżej to
+            rynek wtórny, nie promocja.
+          </p>
+        )}
+        {cenaNieznana && !bezRrp && (
           <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
             <strong>Cena katalogowa nieogłoszona.</strong> LEGO nie podało jeszcze sugerowanej ceny tego zestawu –
             uzupełnimy ją, gdy tylko się pojawi. Poniżej ceny sklepów, o ile już go mają.

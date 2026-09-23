@@ -1439,7 +1439,7 @@ Stan źródeł dostępności:
 |---|---|---|
 | Media Expert | pole `availability` w feedzie (`feedy-lego.py`) | codziennie |
 | Allegro | oferta znika z feedu | codziennie |
-| Planeta Klocków | kategoria „wycofane z oferty" + cena 9999 zł | codziennie |
+| Planeta Klocków | kategoria „wycofane z oferty" + cena 9999 zł; **od 23.09 także `OutOfStock` na karcie produktu** (sekcja niżej) | codziennie |
 | Smyk | `OutOfStock` na karcie produktu | **wtorek i piątek** |
 | Lidl, Ceneo | pole `availability` w feedzie TD | tygodniowo (Lidl codziennie) |
 | Empik | **zrzut nie niesie dostępności** | tygodniowo |
@@ -1461,6 +1461,40 @@ nie udało się pobrać za pierwszym razem. Przebieg trwa 4–8 minut.
 
 **Czego nie da się załatać:** Empik nie podaje dostępności w zrzucie. Tam jedynym
 zabezpieczeniem zostaje sito 14 dni.
+
+## Planeta Klocków: feed nie niesie dostępności — karty sprawdzamy same *(od 23.09.2026)*
+
+Łowca 23.09: z 85 „najtańszych" ofert PK 55 było widmami — feed `nokaut.xml`
+podaje cenę, ale strona produktu ma `schema.org/OutOfStock` i przycisk
+„Powiadom o dostępności" (sztandarowy przykład: 21065 Sagrada Família za
+559,99 zł, na stronie od dawna niedostępny). Poza kategorią „Produkty wycofane
+z oferty" feed nie ma żadnego pola o dostępności, więc każdy zestaw wyglądał
+na sprzedawany.
+
+**Mechanizm:** `feedy-lego.py` zapamiętuje z feedu adres karty (`ProductUrl`)
+i po wyciągu odpytuje każdą kartę zwykłym `curl` (8 równolegle, ~1 300 stron,
+ok. 11 minut; nierozstrzygnięte z pierwszej próby dostają drugą, wolniejszą,
+z limitem 40 s — w teście 23.09 pierwsza próba zostawiła 235 z 1 302 bez
+odpowiedzi, a przy ponownym odczycie próbka 40 kart rozstrzygnęła się w całości).
+Wynik testu 23.09: 137 kart OutOfStock, m.in. 21065, 11503, 10365. Wynik:
+
+- `OutOfStock` → oferta **wypada z wyciągu**. Łowca traktuje ją jak nieobecną
+  w feedzie i z reguły „sety nieobecne w dzisiejszych feedach: usuń klucz sklepu"
+  zdejmuje cenę PK z huba — bez zmian w prompcie;
+- `InStock` → zostaje;
+- błąd sieci, 404, inny układ strony → zostaje (nie kasujemy na ślepo; liczba
+  nierozstrzygniętych idzie do stderr).
+
+Numery odrzucone lądują w `_meta.planetaklockow_niedostepne`, w stderr jedna
+linijka „sprawdzono N kart, niedostępnych M, nierozstrzygniętych K".
+Adres karty nie trafia do wyciągu (pole `strona` jest zdejmowane przed zapisem).
+
+**Czego to nie załatwia:** promocji koszykowych (−7% itp.), których feed też nie
+widzi — to nadal reguła z promptu Łowcy: cena PK w 15% od najtańszej → sprawdź
+stronę przez WebFetch. Gdyby PK zaczęła blokować `curl` (dziś nie blokuje;
+worker jest blokowany przy zdjęciach, kontener nie), wszystkie karty wyjdą jako
+„nierozstrzygnięte", oferty zostaną i wrócimy do stanu sprzed 23.09 — alarmem
+jest liczba nierozstrzygniętych równa liczbie sprawdzonych.
 
 ## Lidl codziennie, choć jedzie importerem „wtorkowym" *(od 18.09.2026)*
 

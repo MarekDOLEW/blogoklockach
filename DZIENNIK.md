@@ -92,6 +92,54 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 10:30 · CODE · Łowca 23.09: widma PK i śmieci z Allegro — poprawki w `feedy-lego.py`; werdykty Coworka o lukach katalogu
+
+**Planeta Klocków — 55 z 85 „najtańszych" ofert to widma.** Feed `nokaut.xml` nie
+niesie dostępności; karta produktu ma `schema.org/OutOfStock` (np. 21065 Sagrada
+Família za 559,99 zł). Od dziś `feedy-lego.py` sprawdza każdą kartę PK z feedu
+(`ProductUrl`, `curl`, 8 równolegle, druga próba z dłuższym limitem dla
+nierozstrzygniętych) i oferty OutOfStock wyrzuca z wyciągu — Łowca traktuje je
+jak nieobecne w feedzie i zdejmuje z huba bez zmiany promptu. Test na dzisiejszym
+feedzie: 1 302 karty, 137 OutOfStock (w tym 21065, 11503, 10365), 235
+nierozstrzygniętych w pierwszej próbie (limit 15 s — stąd druga próba; próbka 40
+kart przy ponownym odczycie: 40 rozstrzygnięć, próbka 12 „OutOfStock": 12 trafień,
+zero stron z oboma znacznikami). Przebieg Łowcy wydłuży się o ~10 minut. Szczegóły:
+RUNBOOK „Planeta Klocków: feed nie niesie dostępności". Numery odrzucone:
+`_meta.planetaklockow_niedostepne`.
+
+**Allegro — śmieci z numerem w tytule.** Separator 96874 za 3,99 zł wchodził jako
+„najtańsza oferta" — do `SLOWA_NIE_ZESTAW` doszły akcesoria (separator, akcesori,
+wyciskacz, mata, podkładka); `p[lł]ytk` i słowa o płytkach bazowych wypadły
+(łapały zestawy 11717, 11026). **561701 i 391506 to prawdziwe polybagi** (są
+w katalogu) — nie błąd filtru. Podwójny mail „podejrzany rynek" wziął się z
+dwukrotnego uruchomienia skryptu w jednym przebiegu — bez poprawki, do obserwacji.
+Jednorazowy trigger odblokowujący Łowcę (07:10) już się wyłączył sam.
+
+**Werdykty Coworka (przeglądarka: LEGO.com PL, Brickset, Ceneo) o lukach Scouta:**
+- 72050 (779,99 zł) i 11503 (379,99 zł) miały RRP w katalogu, brakowało w
+  `sety.json` — uzupełnione; 72050 pokazuje teraz −29% od cennika;
+- 40507 (LEGO House), 40952 (LEGOLAND), 40916 (GWP) i 910059 (BrickLink Designer
+  Program) nigdy nie miały polskiej ceny katalogowej — nowe pole **`bez_rrp`**
+  (powód w wartości) w `sety.json` i `katalog.json`; hub zamiast „podamy, gdy LEGO
+  ją poda" pisze „bez polskiej ceny katalogowej: <powód>, rabatu nie liczymy",
+  meta description bez „rabat liczony od RRP"; Scout ma je pomijać w Lukach;
+- nowe wpisy w `sety.json`: 72153 Venusaur, Charizard i Blastoise (2 799,99 zł,
+  6 838 el., ekskluzyw), 72152 Pikachu i Poké Ball (869,99 zł, 2 050 el.), 910059
+  Privateer Frigate Fortuna (4 087 el., 20 minifigurek, `bez_rrp`); 45521 to LEGO
+  Education — nie wchodzi;
+- 72152: RRP 869,99 zł potwierdzone; rynek ~540–600 zł to cena europejska
+  (199,99 €), nie błąd — tekst „dla kolekcjonera" mówi o tym wprost. Temat na
+  krótką formę dla Piotra: „cena LEGO.com odstaje, rynek stabilny".
+
+**Scout — nowy trigger `trig_013QRUCfL8ZAa45eDkQUkWXD`** (ta sama sesja
+`session_012AZejbFzsfzkTh4FPaAkVg`, cron `0 3 * * *`) z regułą `bez_rrp`
+i zakazem dodawania LEGO Education. Stary `trig_01DmDAaz993ddzz61pQj9o9X`
+wyłączony i przemianowany na „STARY (do skasowania)" — klasyfikator trybu auto nie
+pozwala sesji Code kasować triggerów (jak przy Kontrolerze 22.09), a prompt
+stałej sesji da się zmienić tylko z tej sesji albo przez delete+create. Marek
+kasuje stary w panelu. Harmonogram w `zadania-cykliczne.md` przepisze się
+w poniedziałek.
+
 ## 2026-09-23 10:00 · CODE · Łowca: pierwszy przebieg w nowej sesji i na feedzie „tylko LEGO" — po 40-minutowym zacięciu na uprawnieniach
 
 Przebieg 06:33 UTC stanął na `cat > lowca-zapisz-dzis.py && python3 …` w katalogu
