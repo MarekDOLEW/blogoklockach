@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-22",
+  "data_aktualizacji": "2026-09-23",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1173,
   "sety": [
@@ -6010,5 +6010,11 @@
     "odsiane_50090": "'LEGOLAND Park Adventure', 1578 elementow, motyw Promotional, availability 'LEGOLAND exclusive'. Duzy zestaw, ale sprzedawany wylacznie w parkach — brak dystrybucji w Polsce i brak linkow afiliacyjnych, wiec poza zakresem serwisu. PromoBricks o nim pisze.",
     "40900": "StoneWars potwierdza: gratis dostepny od 21.09, zgodnie z data w Brickset. Bez zmian we wpisie.",
     "przecieki": "Bez zmian: 16 wpisow, 1 rozstrzygniety. Zadnego nowego dowodu do 40899."
+  },
+  "przeglad_2026_09_23": {
+    "nowosci": "Brak nowych zestawow w sety.json.",
+    "przecieki": "Dopisane 11390 (Shenlong / Dragon Ball, pewnosc 'srednia' — StoneWars opisuje TEASER OD LEGO) oraz 11388 (Wenecja, pewnosc 'niska' — jedno zrodlo ze znakiem zapytania w tytule). Oba byly dotad tylko w zapowiedziach sledzonych, a od 15.09 miejscem na takie rzeczy jest przecieki.json. Teaser LEGO zapowiada temat, nie dane katalogowe — karta 11390 w Brickset jest pusta, wiec do sety.json nie wchodzi.",
+    "50090_filtr": "Dostal date startu 2027-02-01. Kategoria 'Normal', motyw 'Promotional', availability 'LEGOLAND exclusive'. Moj filtr przepuscil go jako NOWY, bo sprawdza motyw tylko przy kategorii '{t.b.a.}'. POPRAWKA: o odsianiu przesadza pole availability — 'LEGOLAND exclusive' i 'Magazine gift' nigdy nie sa dystrybucja detaliczna w Polsce.",
+    "klon_plytki": "Sprawdzone dzis: 'test -f .git/shallow' zwraca PLYTKI, 'git rev-list --count origin/main' daje 83. Klon jest plytki, wiec brak starych commitow w logu nie znaczy, ze ich nie ma. Moja uwaga z 21.09 o przepisanej historii byla nietrafiona."
   }
 }

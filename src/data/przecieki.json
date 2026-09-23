@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-21"
+  "zaktualizowano": "2026-09-23"
  },
  "przecieki": [
   {
@@ -351,6 +351,51 @@
    ],
    "dodano": "2026-09-21",
    "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11390",
+   "numer": "11390",
+   "nazwa": "Shenlong (Dragon Ball) z minifigurką Goku",
+   "seria": "Icons",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — pierwsze informacje",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-09"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Teaser-Video zum großen Dragon Ball Set!”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-22"
+    }
+   ],
+   "dodano": "2026-09-23",
+   "uwagi": "Dowód po stronie producenta: StoneWars opisuje TEASER OD LEGO zapowiadający duży zestaw Dragon Ball na listopad, z minifigurką Goku. Karta 11390 w Brickset jest pusta — bez nazwy, elementów, ceny i daty; numer przypisuje wyłącznie StoneWars. Zapowiedź tematu przez LEGO nie jest tym samym co potwierdzenie danych katalogowych, dlatego zestaw zostaje w przeciekach. Pewność „srednia”: jedno źródło branżowe plus dowód (materiał LEGO). Do „wysokiej” brakuje drugiego serwisu zgodnego co do numeru i ceny. Jeśli się potwierdzi, byłaby to trzecia nowa licencja growo-rozrywkowa w katalogu po PlayStation i Zeldzie.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11388",
+   "numer": "11388",
+   "nazwa": "Wenecja — diorama Icons",
+   "seria": "Icons",
+   "elementy": 5700,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Erste Infos zum LEGO Venedig (11388)?”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-09"
+    }
+   ],
+   "dodano": "2026-09-23",
+   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu.",
    "rozstrzygniecie": null
   }
  ]
