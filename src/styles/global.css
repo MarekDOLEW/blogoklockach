@@ -317,6 +317,11 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .h1-numer { font-weight: 600; color: var(--granat-60, #5b6478); font-size: 0.7em; white-space: nowrap; }
 .przycisk-drugi { display: inline-block; padding: 8px 14px; border: 1.5px solid var(--granat); border-radius: 999px; color: var(--granat); font-weight: 700; font-size: 0.9rem; text-decoration: none; white-space: nowrap; background: var(--karta); }
 .przycisk-drugi:hover { background: var(--granat); color: #fff; }
+.przycisk { display: inline-block; padding: 11px 22px; border: 1.5px solid var(--granat); border-radius: 999px; background: var(--granat); color: #fff; font-weight: 700; font-size: 0.95rem; text-decoration: none; white-space: nowrap; }
+.przycisk:hover { background: var(--karta); color: var(--granat); }
+.sekcja--deale-posty { margin-top: 24px; }
+.sekcja--deale-posty .zajawki--zwarte { margin-bottom: 18px; }
+.sekcja-stopka { text-align: center; margin: 0 0 8px; }
 .siatka--serie { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
 .siatka--serie > * { min-width: 0; }
 .seria-karta { padding: 14px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }

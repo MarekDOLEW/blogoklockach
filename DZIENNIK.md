@@ -92,6 +92,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 15:00 · CODE · Strona główna: trzy najnowsze posty dealowe pod slajderem + przycisk „Zobacz wszystkie deale"
+
+Decyzja Marka: dział /deale/ był zbyt ukryty (wejście tylko z menu i stopki).
+Nowa sekcja „Najnowsze deale" zaraz pod karuzelą dealów dnia: trzy najświeższe
+posty z `src/pages/deale/*.md` (te same zajawki co listing działu), zakończone
+pełnym przyciskiem `.przycisk` (nowy styl, granatowy) do `/deale/`. Posty nie
+dublują się z sekcją „Ostatnio na blogu" (tamta nie czyta katalogu deale).
+Reguła Marka: „jak jest taka akcja, to trzeba o niej pisać" — kampania sklepu
+z datą końca jest poza limitem dwóch postów tygodniowo.
+
 ## 2026-09-23 12:00 · CODE · Deal: Dzień Chłopaka w x-kom (mailing SalesMasters, do 30.09)
 
 Marek wkleił mailing opiekuna x-kom: 9 zestawów, „rabaty do −23%" liczone od
