@@ -92,6 +92,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 08:00 · RADAR · Do zrobienia
+
+**faniklockow.pl · 22.09** — opublikowali tekst o 75455 Boba Fett z tezą, że ponad połowa wartości zestawu to minifigurka.
+**Mamy?** — częściowo: `/zestaw/75455/` ma kartę redakcyjną, ale nie mamy żadnego własnego tekstu o tym zestawie.
+**Zrobić:** — krótka forma dealowa „LEGO 75455 Boba Fett trzydzieści procent pod cennikiem". Oś nasza, nie ich: zestaw chodzi w siedmiu sklepach, najtaniej 509 zł wobec 729,99 zł katalogowo, a LEGO.com jest najdroższy. Ich tezy o udziale minifigurki nie powtarzamy — nie mamy danych o cenach minifigurek i nie da się jej sprawdzić.
+**Kto:** — Piotr (tekst)
+
+**promoklocki.pl · 23.09** — prowadzą osobne wpisy z terminami na każdą kampanię sklepu zewnętrznego: Allegro Smart! Weeks, Allegro Days, Black Weeks, okazje limitowane.
+**Mamy?** — nie: nasz kalendarz mówi ogólnie o „kampaniach sklepów zewnętrznych przed Black Friday", ale nie nazywa żadnej i nie podaje terminu.
+**Zrobić:** — ustalić termin Allegro Black Weeks 2026 i dopisać go do sekcji listopadowej `/kalendarz-promocji-lego/`; to jedyna kampania sklepowa, która realnie wpada w nasz szczyt sezonu.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-09-22 14:40 · CODE · Trzy rankingi Piotra + karta 75192 na stronie
 
 Artykuły (Rankingi, data 22.09, tagi „Dla kolekcjonera"): `/artykuly/najwieksze-zestawy-lego-technic/`

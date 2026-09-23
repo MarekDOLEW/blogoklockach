@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-22",
-    "przebieg": "scheduled 2026-09-22 08:00",
+    "ostatnia_aktualizacja": "2026-09-23",
+    "przebieg": "scheduled 2026-09-23 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 186,
+    "liczba_wpisow": 190,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2241,6 +2241,57 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Podcast, przeglad dwoch tygodni. Bez nowych faktow zakupowych."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Ponad polowa wartosci tego zestawu to minifigurka - 75455 Boba Fett",
+      "url": "https://faniklockow.pl/2026/09/22/ponad-polowa-wartosci-tego-zestawu-to-minifigurka-a-sam-build-tez-wymiata-poznajcie-boba-fetta",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Ich osi - udzial minifigurki w wartosci zestawu - nie zweryfikujemy, bo nie mamy danych o cenach minifigurek na rynku wtornym; nie powtarzamy tej tezy. Mamy za to fakt, ktorego oni nie podaja: 75455 chodzi w SIEDMIU sklepach, najtaniej 509 zl (Ceneo) wobec cennika 729,99 zl, czyli -30%, a LEGO.com stoi w cenniku i jest najdrozszy. Rocznik 2026, karta redakcyjna jest, wlasnego tekstu nie ma."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Archiwum kampanii sklepowych: Allegro Smart! Weeks, Allegro Days, Black Weeks",
+      "url": "https://promoklocki.pl/promocje-lego/festiwal-okazji-allegro-smart-weeks-2026-n1531",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-23",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Allegro"
+      ],
+      "notatki": "Wpis zbiorczy na klase tresci. Prowadza osobne wpisy na kazda kampanie sklepu zewnetrznego z terminami (Smart! Weeks, Allegro Days, Black Weeks, okazje limitowane). Sprawdzone: edycja Smart! Weeks 2026 byla 11-20 maja, wiec to NIE jest swiezy temat - liczy sie sama klasa tresci. Nasz kalendarz wspomina o 'kampaniach sklepow zewnetrznych przed Black Friday' ogolnie, ale nie nazywa zadnej z terminem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Speed Champions) - 77261 Ferrari 499P",
+      "url": "https://faniklockow.pl/2026/09/22/okazja-cenowa-speed-champions-77261-ferrari-499p-2",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Pojedyncza okazja, zestaw w naszym hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Pantasy 85066 Ghost Cinema",
+      "url": "https://fanklockow.pl/videorecenzja-pantasy-85066-ghost-cinema",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pantasy, nie LEGO - poza zakresem serwisu."
     }
   ],
   "obserwacje_strategiczne": {
