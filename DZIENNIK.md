@@ -92,6 +92,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-23 12:00 · CODE · Deal: Dzień Chłopaka w x-kom (mailing SalesMasters, do 30.09)
+
+Marek wkleił mailing opiekuna x-kom: 9 zestawów, „rabaty do −23%" liczone od
+ceny wyjściowej sklepu. Od RRP to −29% do −38%. Porównanie z naszymi danymi:
+cztery rekordy notowań (43014 Leclerc 249,90; 42231 Dodge Charger 444,90; 43012
+Ronaldo i 43027 Vini Jr. po 76,90), cztery poniżej dzisiejszego rynku bez rekordu
+(43022, 11380, 42235, 43011), jeden droższy niż Allegro (42228 McLaren 699,90 vs
+659). Post `/deale/deal-x-kom-dzien-chlopaka-2026/` z reguły (c) — akcja sklepowa
+≥5 zestawów; **trzeci post dealowy w tym tygodniu** (Łowca dał dziś 60470 i
+75404) — limit „2 tygodniowo" dotyczy Łowcy, kampania partnera z datą końca
+uznana za wyjątek; Marek może zdjąć. Linki produktowe x-kom z uniwersalnym kodem
+SalesMasters (`sm=Y74rgdCO`) dopisane do `redirects.json` (gałąź `xkom`, 2 → 11).
+Cen x-kom NIE wpisano do `sety.json`/`oferty_feed.json`: sito 14 dni pokazywałoby
+je do 7.10, a akcja kończy się 30.09 — hub ma wiersz „Sprawdź cenę" z workera.
+Stron x-kom nie da się zweryfikować z kontenera (blokada ruchu serwerowego) —
+post mówi wprost, że kwoty są z informacji sklepu z 23.09.
+
 ## 2026-09-23 10:30 · CODE · Łowca 23.09: widma PK i śmieci z Allegro — poprawki w `feedy-lego.py`; werdykty Coworka o lukach katalogu
 
 **Planeta Klocków — 55 z 85 „najtańszych" ofert to widma.** Feed `nokaut.xml` nie
