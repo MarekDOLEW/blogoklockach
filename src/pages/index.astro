@@ -362,15 +362,6 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     </section>
   )}
 
-  <section class="sekcja" aria-label="Najciekawsze wycofania">
-    <div class="sekcja-head">
-      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-      <h2>Top 10 wycofań wartych upolowania</h2>
-    </div>
-    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
-    <TabelaSetow wiersze={topWycofania} />
-  </section>
-
   {artykuly.length > 0 && (
     <section class="sekcja" aria-label="Najnowsze artykuły">
       <div class="sekcja-head">
@@ -382,6 +373,15 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       </div>
     </section>
   )}
+
+  <section class="sekcja" aria-label="Najciekawsze wycofania">
+    <div class="sekcja-head">
+      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <h2>Top 10 wycofań wartych upolowania</h2>
+    </div>
+    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
+    <TabelaSetow wiersze={topWycofania} />
+  </section>
 
   <section class="sekcja persony">
     <div class="karta persona">
