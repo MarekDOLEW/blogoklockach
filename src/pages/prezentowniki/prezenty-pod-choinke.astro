@@ -1,0 +1,94 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
+import { zajawkaZMeta, zajawkaArtykulu } from '../../lib/artykuly.js';
+
+// ROZDZIELNIK sezonu, nie prezentownik z listą zestawów (decyzja Marka
+// 24.09.2026, po sygnale Radaru: konkurencja ma stałą stronę pod frazę
+// „prezenty LEGO pod choinkę", my mieliśmy treść, ale nie wejście). Strona
+// celuje w frazę sezonu i rozdziela ruch na cztery prezentowniki świąteczne,
+// kalendarze adwentowe i wycofania. Własnej listy zestawów nie ma – żeby nie
+// dublować treści z prezentowników, do których kieruje.
+// Po sezonie: zostaje (evergreen), aktualizować listę kafelków co rok.
+const CELE = [
+  '/prezentowniki/na-mikolaja/',
+  '/prezentowniki/swieta-dla-dzieci/',
+  '/prezentowniki/swieta-dla-doroslych/',
+  '/prezentowniki/swieta-licencje/',
+];
+const kartyPrezentownikow = new Map(
+  Object.values(import.meta.glob('./*.astro', { eager: true }))
+    .map((m) => m.meta)
+    .filter(Boolean)
+    .map((m) => zajawkaZMeta(m, { karty: true }))
+    .map((z) => [z.url, z]),
+);
+const kafelki = CELE.map((u) => kartyPrezentownikow.get(u)).filter(Boolean);
+const artykuly = {
+  ...import.meta.glob('../artykuly/*.md', { eager: true }),
+};
+const dodatkowe = ['../artykuly/ranking-kalendarze-adwentowe-lego-2026.md', '../artykuly/wycofania-lego-grudzien-2026.md']
+  .map((p) => artykuly[p])
+  .filter(Boolean)
+  .map((m) => zajawkaArtykulu(m));
+
+export const meta = {
+  url: '/prezentowniki/prezenty-pod-choinke/',
+  kategoria: 'Prezentownik',
+  kolejnosc: 0,
+  znacznik: 'Pod choinkę',
+  tytul: 'Prezenty LEGO pod choinkę',
+  opis: 'Wejście na sezon: Mikołajki, dzieci w trzech kopertach, dorośli, licencje, kalendarze adwentowe i zestawy, które znikają w grudniu.',
+  data: '2026-09-24',
+  zaktualizowano: '2026-09-24',
+  okladka: '40809',
+};
+
+const faq = [
+  {
+    q: 'Od czego zacząć wybór prezentu LEGO pod choinkę?',
+    a: 'Od trzech pytań: ile lat ma obdarowany, ile chcesz wydać i czy zna jakiś świat z licencji – Harry Potter, Star Wars, Minecraft, Pokémon. Odpowiedź na pierwsze dwa prowadzi do prezentownika dla dzieci w trzech kopertach albo do prezentownika dla dorosłych; twierdząca odpowiedź na trzecie – do prezentownika po licencjach. Mikołajki mają osobny tekst, bo to mniejszy prezent, który nie może dublować gwiazdkowego.',
+  },
+  {
+    q: 'Kiedy kupować prezenty LEGO na święta?',
+    a: 'Najgłębsze przeceny roku wypadają w okolicach Black Friday, 27 listopada – i to jest właściwy moment dla większości zestawów. Wyjątki to zestawy z listy wycofań, które w grudniu potrafią zniknąć z półek, oraz tegoroczne hity list życzeń, gdzie ryzyko braku jest większe niż ryzyko przepłacenia. Zamówienia na Mikołajki składaj do 1–2 grudnia, na Wigilię do 15 grudnia.',
+  },
+  {
+    q: 'Czy warto kupić kalendarz adwentowy LEGO?',
+    a: 'Tak, jeśli dziecko ma 5–10 lat i zna serię, z której pochodzi kalendarz – City, Friends, Star Wars, Harry Potter, Minecraft. Kalendarze wchodzą do sklepów we wrześniu i najtańsze są w październiku; w listopadzie ceny rosną, bo kończą się zapasy. Nasz ranking porównuje tegoroczne kalendarze po zawartości i cenie za okienko.',
+  },
+  {
+    q: 'Dlaczego lista wycofań ma znaczenie przy prezencie?',
+    a: 'Bo zestaw, który LEGO kończy produkować w grudniu, może zniknąć ze sklepów przed świętami, a po zniknięciu wraca tylko na rynku wtórnym, drożej. Jeśli wymarzony zestaw stoi na liście wycofań, kupuj go przy pierwszej dobrej cenie, nie czekaj na ostatnią promocję.',
+  },
+];
+---
+<Prezentownik
+  title="Prezenty LEGO pod choinkę: cztery prezentowniki na sezon 2026"
+  opis="Prezenty LEGO pod choinkę w jednym miejscu: Mikołajki, dzieci w trzech kopertach cenowych, dorośli, fani licencji, kalendarze adwentowe i zestawy, które znikają w grudniu. Progi zakupu i terminy zamówień."
+  data="2026-09-24"
+  zaktualizowano="2026-09-24"
+  faq={faq}
+>
+  <p>Ta strona nie jest kolejną listą dwudziestu zestawów. To <b>wejście na sezon</b>: cztery prezentowniki, każdy pod inną sytuację zakupową, plus dwa teksty, bez których łatwo kupić źle – ranking kalendarzy adwentowych i lista zestawów znikających w grudniu. Wszystkie progi cen liczymy po zwykłych sklepach, nie po cenniku LEGO, a przy każdym zestawie mówimy, dla kogo jest i kiedy go zamawiać.</p>
+
+  <p>Jak wybrać w trzy pytania: <b>ile lat</b> ma obdarowany, <b>ile chcesz wydać</b> i <b>czy zna jakiś świat</b> z licencji. Dziecko i konkretna kwota – prezentownik dla dzieci w trzech kopertach. Dorosły – prezentownik dla dorosłych, oparty na tym, co dorośli fani naprawdę kupują. Fan Harry'ego Pottera, Minecrafta albo One Piece – prezentownik po licencjach. Prezent na 6 grudnia, mniejszy od gwiazdkowego – Mikołajki.</p>
+
+  <h2>Cztery prezentowniki na sezon</h2>
+
+  <div class="zajawki">
+    {kafelki.map((z) => <ZajawkaArtykulu zajawka={z} />)}
+  </div>
+
+  <h2>Dwa teksty do przeczytania przed zakupem</h2>
+
+  <p>Kalendarz adwentowy kupuje się w październiku, a nie w grudniu – w listopadzie zapasy się kończą i ceny rosną. Lista wycofań mówi, które zestawy mogą zniknąć z półek przed Wigilią; przy nich nie czeka się na ostatnią promocję.</p>
+
+  <div class="zajawki">
+    {dodatkowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
+  </div>
+
+  <h2>Terminy</h2>
+
+  <p><b>Black Friday 27 listopada</b> – najgłębsze przeceny roku, właściwy moment dla większości zestawów. <b>Mikołajki 6 grudnia</b> – zamówienie do 1–2 grudnia. <b>Wigilia</b> – zamówienie do 15 grudnia, później kurierzy nie gwarantują dostawy. Wszystkie terminy i akcje sklepów zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji LEGO</a>, a przewodniki po seriach i wieku – od City po Technic, od czterolatka po dorosłego – w <a href="/prezentowniki/">dziale Prezentowniki</a>.</p>
+</Prezentownik>

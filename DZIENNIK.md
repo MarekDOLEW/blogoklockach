@@ -92,6 +92,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 11:45 · CODE · Rozdzielnik sezonu `/prezentowniki/prezenty-pod-choinke/` (Radar 24.09 → zrobione)
+
+Decyzja Marka: robimy, adres `prezenty-pod-choinke` (nie samo „pod choinkę").
+Strona bez własnej listy zestawów: trzy pytania (wiek, kwota, licencja),
+kafelki do czterech prezentowników świątecznych, kafelki do rankingu kalendarzy
+adwentowych i wycofań grudniowych, terminy (Black Friday 27.11, Mikołajki do
+1–2.12, Wigilia do 15.12), FAQ. Cztery prezentowniki sezonowe linkują do niej
+z akapitu końcowego. Okładka 40809 (piernikowa chatka). Jest w sitemapie
+prezentowników i na listingu działu. Po sezonie zostaje jako evergreen —
+kafelki aktualizować co rok.
+
 ## 2026-09-24 11:15 · CODE · Prezentownik świąteczny po licencjach + sezonowa trójka na stronie głównej
 
 `/prezentowniki/swieta-licencje/`: po jednej pozycji z ośmiu światów (Disney
