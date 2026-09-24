@@ -1,0 +1,222 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Prezentownik ŚWIĄTECZNY po LICENCJACH: jedna pozycja na świat (Disney, Super
+// Mario, Minecraft, Star Wars, Bluey, Harry Potter, Marvel, One Piece), ułożone
+// po cenie rynkowej 125–430 zł. Kryterium doboru to znajomość świata przez
+// obdarowanego, nie wiek i nie płeć. Pokémon, Sonic i Jurassic World są
+// w prezentowniku dla dzieci, Speed Champions na Mikołaja – tu ich nie
+// powtarzamy. Karta: redakcja/karty/prezentownik-swieta-licencje.md
+// Kontrola przy aktualizacji: żaden z ośmiu nie może wejść na listę wycofań.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/swieta-licencje/',
+  kategoria: 'Prezentownik',
+  kolejnosc: 0,
+  znacznik: 'Święta · licencje',
+  tytul: 'Prezent z LEGO dla fana: Harry Potter, Star Wars i inne licencje',
+  opis: 'Osiem zestawów z ośmiu światów – od Vaiany po One Piece. Jedna pewna pozycja na licencję, od 125 do 430 zł.',
+  data: '2026-09-24',
+  zaktualizowano: '2026-09-24',
+  okladka: '76471',
+};
+
+const zestawy = [
+  { nr: '43293', nazwa: 'Disney: Kakamora', etykieta: 'Do 125 zł', rrp: 169.99, dobra: 125 },
+  { nr: '72035', nazwa: 'Super Mario: Mario Kart – Toad i jego garaż', etykieta: 'Do 135 zł', rrp: 169.99, dobra: 135 },
+  { nr: '21595', nazwa: 'Minecraft: Smok Kresu', etykieta: 'Do 180 zł', rrp: 249.99, dobra: 180 },
+  { nr: '75402', nazwa: 'Star Wars: Myśliwiec ARC-170', etykieta: 'Do 210 zł', rrp: 299.99, dobra: 210 },
+  { nr: '11217', nazwa: 'Bluey: Rodzina Blue z klocków', etykieta: 'Do 215 zł', rrp: 299.99, dobra: 215 },
+  { nr: '76471', nazwa: 'Harry Potter: Magiczne sklepy na ulicy Śmiertelnego Nokturnu', etykieta: 'Do 295 zł', rrp: 419.99, dobra: 295 },
+  { nr: '76342', nazwa: 'Marvel: Spider-Man kontra Mysterio – Daily Bugle', etykieta: 'Do 350 zł', rrp: 469.99, dobra: 350 },
+  { nr: '75639', nazwa: 'One Piece: Statek piracki Going Merry', etykieta: 'Do 430 zł', rrp: 559.99, dobra: 430 },
+];
+
+const faq = [
+  {
+    q: 'Jak wybrać zestaw na licencji, żeby nie kupić „nie tej" postaci?',
+    a: 'Zapytaj nie o serię, tylko o postać albo scenę, którą dziecko ostatnio wspominało. Licencje LEGO dzielą się na fale po filmach i sezonach, a w każdej fali są zestawy z bohaterami pierwszego planu i statyści. Osiem pozycji poniżej to w każdej licencji zestaw z postaciami, które zna każdy fan danego świata – nie z bohaterem jednego odcinka.',
+  },
+  {
+    q: 'Czy zestaw z licencją jest droższy niż zwykły?',
+    a: 'Tak, i to widać w przeliczniku: za element płaci się zwykle 20–40% więcej niż w City czy Creatorze o podobnej wielkości. Kupuje się jednak nie klocki, tylko minifigurki i miejsce w znanym świecie. Rabaty w zwykłych sklepach są za to podobne – 25–30% od ceny katalogowej przy wszystkich ośmiu pozycjach z listy.',
+  },
+  {
+    q: 'Co z Super Mario – podobno LEGO zmienia tę serię?',
+    a: 'Od 2027 roku LEGO wygasza interaktywne figurki Super Mario i przechodzi na zwykłe minifigurki. Garaż Toada z tej listy działa bez elektroniki – to pełnoprawny zestaw z podnośnikiem i zdejmowanymi kołami – więc zmiana formuły go nie unieważnia. Nie kupuj natomiast samych rozszerzeń wymagających interaktywnej postaci, jeśli dziecko jej nie ma.',
+  },
+  {
+    q: 'Kiedy kupować?',
+    a: 'Najgłębsze przeceny wypadają w okolicach Black Friday, 27 listopada, i dotyczy to wszystkich ośmiu zestawów – żaden nie jest zagrożony wycofaniem w tym sezonie. Zamówienia składaj do 15 grudnia. Przy licencjach z 2026 roku – Harry Potter, Marvel, Minecraft, Bluey, Disney – rabaty dopiero się rozkręcają, więc próg „dobra cena" z listy może zostać pobity w listopadzie.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO dla fana: jeden pewny zestaw z każdej licencji"
+  opis="Osiem zestawów LEGO na święta dla fanów ośmiu światów: Disney, Super Mario, Minecraft, Star Wars, Bluey, Harry Potter, Marvel i One Piece. Po jednej pewnej pozycji na licencję, od 125 do 430 zł, z progiem zakupu."
+  data="2026-09-24"
+  zaktualizowano="2026-09-24"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Prezent na licencji ma jedną zasadę, która przebija wszystkie inne: <b>obdarowany musi znać ten świat</b>. Dziecko spoza Minecrafta dostanie czarnego smoka, dziecko spoza One Piece – ładny statek piracki. Dlatego zamiast osiem zestawów z jednej serii, ta lista daje po jednej pewnej pozycji z ośmiu światów, ułożonej po cenie – i przy każdej mówi wprost, kto się ucieszy, a kto wzruszy ramionami.</p>
+
+  <p>Druga rzecz: licencja kosztuje. Za element płaci się tu więcej niż w City czy Creatorze, ale rabaty w zwykłych sklepach są takie same – <b>25–30% od ceny katalogowej przy wszystkich ośmiu pozycjach</b>, a żadna nie stoi na liście wycofań. Prezentowniki po całych seriach Star Wars i Harry'ego Pottera są osobno – tu jest skrót dla kogoś, kto ma na liście kilka różnych fanów.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 125 zł: Kakamora – Vaiana bez księżniczki</h2>
+
+  <Karta
+    nr="43293"
+    nazwa="Disney: Kakamora"
+    rocznik={2026}
+    elementy={407}
+    rrp={169.99}
+    dlaKogo="dziecko 8–11 lat po Vaianie; także dorosły fan Disneya z półką na figury"
+    dobra={125}
+    bardzoDobra={110}
+    prog="poniżej 125 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Kokosowy pirat z Vaiany jako figura do zbudowania – czterysta elementów, wyraziste oczy, postawa do ustawienia. To ten rzadki zestaw Disneya, który <b>nie jest ani zamkiem, ani księżniczką</b>, więc trafia do dziecka, które ma już wszystkie pałace, i do widza, który wolał drugi plan.</p>
+    <p>Model stoi, nie bawi się nim w scenki. Dla dziecka, które chce odgrywać historie z Vaianą, lepszy będzie zestaw z łodzią z tej samej linii.</p>
+  </Karta>
+
+  <h2>Do 135 zł: garaż Toada – Mario Kart, który działa bez elektroniki</h2>
+
+  <Karta
+    nr="72035"
+    nazwa="Super Mario: Mario Kart – Toad i jego garaż"
+    rocznik={2025}
+    elementy={390}
+    rrp={169.99}
+    dlaKogo="dziecko 7–10 lat, które gra w Mario Kart; nie wymaga interaktywnej figurki"
+    dobra={135}
+    bardzoDobra={120}
+    prog="poniżej 135 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Garaż z podnośnikiem, zdejmowane koła, gokart i Toad – <b>konkretna, powtarzalna zabawa w serwisowanie</b>, a nie tor przeszkód dla elektronicznej figurki. To jeden z niewielu zestawów tej serii, który jest kompletny sam w sobie.</p>
+    <p>Ważne przy tej licencji: od 2027 LEGO wygasza interaktywną formułę Super Mario. Garaż na tym nie traci, ale rozszerzeń wymagających interaktywnej postaci nie kupuj dziecku, które jej nie ma.</p>
+  </Karta>
+
+  <h2>Do 180 zł: Smok Kresu – trofeum dla gracza</h2>
+
+  <Karta
+    nr="21595"
+    nazwa="Minecraft: Smok Kresu"
+    rocznik={2026}
+    elementy={710}
+    rrp={249.99}
+    dlaKogo="dziecko 9–12 lat, które pokonało smoka w grze; model do postawienia"
+    dobra={180}
+    bardzoDobra={160}
+    prog="poniżej 180 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Finałowy przeciwnik Minecrafta z rozpostartymi skrzydłami, ponad siedemset czarnych elementów z fioletowymi akcentami Endu. Dla gracza, który przeszedł grę, to <b>trofeum, a nie zabawka</b> – i dlatego działa lepiej niż kolejny domek z creeperem.</p>
+    <p>Zestaw z czerwca 2026, rabat w sklepach już około 30%. Dla dziecka, które gra, ale woli budować bazy i odgrywać, lepszy będzie zestaw z wioską; smok jest do ustawienia na półce.</p>
+  </Karta>
+
+  <h2>Do 210 zł: ARC-170 – Star Wars do latania w ręku</h2>
+
+  <Karta
+    nr="75402"
+    nazwa="Star Wars: Myśliwiec ARC-170"
+    rocznik={2025}
+    elementy={497}
+    rrp={299.99}
+    dlaKogo="dziecko 8–11 lat, które ogląda Wojny klonów; komplet załogi w pudełku"
+    dobra={210}
+    bardzoDobra={190}
+    prog="poniżej 210 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Myśliwiec z otwieranymi skrzydłami, uchwytami do latania i trzema pilotami-klonami w malowaniu eskadry – <b>wszystkie stanowiska obsadzone, nic nie trzeba dokupować</b>. Prawie osiem tysięcy egzemplarzy w kolekcjach na Bricksecie mówi, że to sprawdzony wybór, nie eksperyment.</p>
+    <p>To model do zabawy, nie na półkę: wytrzymuje normalne użytkowanie. Jeśli obdarowany zbiera Star Wars do gabloty, sięgnij raczej po hełmy albo droidy z prezentownika serii.</p>
+  </Karta>
+
+  <h2>Do 215 zł: rodzina Blue – licencja dla pięciolatka</h2>
+
+  <Karta
+    nr="11217"
+    nazwa="Bluey: Rodzina Blue z klocków"
+    rocznik={2026}
+    elementy={466}
+    rrp={299.99}
+    dlaKogo="dziecko 5–7 lat, które ogląda Bluey; także rodzic budujący razem"
+    dobra={215}
+    bardzoDobra={195}
+    prog="poniżej 215 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Cztery psie postacie z klocków – cała rodzina Heelerów – do wspólnego zbudowania i ustawienia. To <b>najmłodsza licencja na tej liście</b>: pięciolatek buduje z pomocą, a potem ma bohaterów serialu w skali, którą widać z drugiego końca pokoju.</p>
+    <p>Rabat w sklepach przekracza 30% od cennika. Ryzyko jest jedno: dziecko, które wyrosło z Bluey rok temu, uzna prezent za „dla maluchów" – ta licencja starzeje się szybciej niż inne.</p>
+  </Karta>
+
+  <h2>Do 295 zł: sklepy na ulicy Śmiertelnego Nokturnu – Harry Potter poza zamkiem</h2>
+
+  <Karta
+    nr="76471"
+    nazwa="Harry Potter: Magiczne sklepy na ulicy Śmiertelnego Nokturnu"
+    rocznik={2026}
+    elementy={788}
+    rrp={419.99}
+    dlaKogo="dziecko 8–12 lat po Komnacie Tajemnic; fan, który ma już Hogwart"
+    dobra={295}
+    bardzoDobra={265}
+    prog="poniżej 295 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Zakątek świata czarodziejów, którego LEGO prawie nie pokazywało: sklepy z ciemnymi artefaktami, ponad siedemset elementów i komplet postaci do odgrywania scen. To zestaw <b>dla fana, który zamek już ma</b> – łączy się z innymi lokacjami, a nie dubluje ich.</p>
+    <p>Zestaw z czerwca 2026, rabat już 30%, ale w listopadzie może spaść niżej – to dobra pozycja, żeby czekać na Black Friday. Dla dziecka na początku przygody z serią lepszy będzie sam Hogwart z prezentownika Harry Potter.</p>
+  </Karta>
+
+  <h2>Do 350 zł: Daily Bugle – Marvel dla tych, którzy zbierają obsadę</h2>
+
+  <Karta
+    nr="76342"
+    nazwa="Marvel: Spider-Man kontra Mysterio – Daily Bugle"
+    rocznik={2026}
+    elementy={781}
+    rrp={469.99}
+    dlaKogo="dziecko 10–12 lat albo dorosły fan komiksów; zestaw kupowany dla minifigurek"
+    dobra={350}
+    bardzoDobra={315}
+    prog="poniżej 350 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Siedem postaci przy niespełna ośmiuset elementach – to pudełko mówi wprost, za co się płaci. Spider-Man, Mysterio i Rhino w <b>wersjach komiksowych, nie filmowych</b>, a pionowa bryła redakcji zajmuje mało miejsca na półce. Obie strony konfliktu są w środku, zabawa zaczyna się od razu.</p>
+    <p>Uwaga na rozrzut cen: część sklepów stoi z tym zestawem powyżej cennika, inne 25% poniżej – porównaj przed zakupem. Dla dziecka, które chce pojazdu i akcji, lepszy będzie mniejszy zestaw z pościgiem.</p>
+  </Karta>
+
+  <h2>Do 430 zł: Going Merry – najlepiej oceniany zestaw One Piece</h2>
+
+  <Karta
+    nr="75639"
+    nazwa="One Piece: Statek piracki Going Merry"
+    rocznik={2025}
+    elementy={1376}
+    rrp={559.99}
+    dlaKogo="dziecko 10–13 lat albo dorosły fan mangi; wejście do świata One Piece w LEGO"
+    dobra={430}
+    bardzoDobra={390}
+    prog="poniżej 430 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Statek Słomkowych Kapeluszy z otwieranym wnętrzem, pięcioma postaciami o wyraźnych rolach i kompletem akcesoriów. <b>Ocena 4,7 na 5 przy blisko stu głosach</b> to najwyższy wynik w tej młodej licencji, a 0,31 zł za element przy dzisiejszej cenie – najlepszy przelicznik na tej liście.</p>
+    <p>Warunek jest ostry: bez znajomości serii zostaje ładny okręt piracki. Dla fana to pierwszy statek, od którego zaczyna się kolekcja, i najbezpieczniejszy zakup z całej fali One Piece.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Żaden z ośmiu zestawów nie stoi na liście wycofań, więc obowiązuje zwykła zasada: <b>najgłębsze przeceny w okolicach Black Friday, 27 listopada</b>, zamówienia do 15 grudnia. Przy licencjach z 2026 roku rabaty dopiero się rozkręcają – tam progi z tej listy mogą w listopadzie zostać pobite. Terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, listę znikających w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <p>Pełne przewodniki po seriach: <a href="/prezentowniki/lego-star-wars/">Star Wars</a>, <a href="/prezentowniki/lego-harry-potter/">Harry Potter</a>, <a href="/prezentowniki/lego-marvel/">Marvel</a>, <a href="/prezentowniki/lego-minecraft/">Minecraft</a>. Prezenty dla dzieci w trzech kopertach – w <a href="/prezentowniki/swieta-dla-dzieci/">świątecznym prezentowniku dla dzieci</a>, dla dorosłych – w <a href="/prezentowniki/swieta-dla-doroslych/">prezentowniku dla dorosłych</a>, pozostałe w <a href="/prezentowniki/">dziale Prezentowniki</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO. Oceny i liczby posiadaczy pochodzą z serwisu Brickset.</p>
+</Prezentownik>

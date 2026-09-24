@@ -92,6 +92,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 11:15 · CODE · Prezentownik świąteczny po licencjach + sezonowa trójka na stronie głównej
+
+`/prezentowniki/swieta-licencje/`: po jednej pozycji z ośmiu światów (Disney
+43293, Super Mario 72035, Minecraft 21595, Star Wars 75402, Bluey 11217, Harry
+Potter 76471, Marvel 76342, One Piece 75639), 125–430 zł. Karta:
+`redakcja/karty/prezentownik-swieta-licencje.md`. Tym samym komplet czterech
+tekstów z briefu Marka jest na produkcji. Rząd „Prezentowniki" na stronie
+głównej przełączony na sezon: Mikołajki, dzieci, dorośli (po świętach wrócić
+do wiek / seria / budżet — komentarz w `index.astro`). Do rozważenia
+(Radar 24.09): rozdzielnik `/prezentowniki/pod-choinke/` pod frazę sezonu —
+teraz ma sens, bo jest co rozdzielać.
+
 ## 2026-09-24 10:45 · CODE · Prezentownik świąteczny dla dzieci — trzy koperty
 
 `/prezentowniki/swieta-dla-dzieci/`: dzieci 6–10 lat, koperty do 120 / 250 /
