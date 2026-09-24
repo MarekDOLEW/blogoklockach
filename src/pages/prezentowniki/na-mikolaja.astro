@@ -1,0 +1,222 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Prezentownik SEZONOWY (Mikołajki, 6 grudnia), nie po serii. Mikołajkowy prezent
+// ma być mniejszy niż gwiazdkowy i kupiony szybko – często w tygodniu po Black
+// Friday – więc drabina zaczyna się od polybagu do skarpety, a kończy około
+// 200 zł; próg 300 zł z briefu to sufit. Osiem serii, osiem sposobów zabawy,
+// wiek 4–10 lat. Karta researchu: redakcja/karty/prezentownik-na-mikolaja.md
+// Kontrola przy aktualizacji: żaden z ośmiu zestawów nie może wejść na listę
+// wycofań ani wyjść trwale ze swojego progu w zwykłych sklepach.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/na-mikolaja/',
+  kategoria: 'Prezentownik',
+  kolejnosc: 0,
+  znacznik: 'Mikołajki',
+  tytul: 'Prezent z LEGO na Mikołaja',
+  opis: 'Osiem małych zestawów dla dzieci od 4 do 10 lat, od polybagu za kilkanaście złotych do 200 zł. Wszystkie w sprzedaży, żaden na liście wycofań.',
+  data: '2026-09-24',
+  zaktualizowano: '2026-09-24',
+  okladka: '60505',
+};
+
+const zestawy = [
+  { nr: '30729', nazwa: 'Pokémon: Premierball', etykieta: 'Do 13 zł', rrp: 16.49, dobra: 13 },
+  { nr: '42675', nazwa: 'Friends: Jednorożcowa dostawa tortu', etykieta: 'Do 30 zł', rrp: 41.99, dobra: 30 },
+  { nr: '31173', nazwa: 'Creator 3 w 1: Tropikalny tukan', etykieta: 'Do 45 zł', rrp: 61.99, dobra: 45 },
+  { nr: '77261', nazwa: 'Speed Champions: Ferrari 499P', etykieta: 'Do 78 zł', rrp: 114.99, dobra: 78 },
+  { nr: '21593', nazwa: 'Minecraft: Przetrwanie pierwszej nocy', etykieta: 'Do 85 zł', rrp: 124.99, dobra: 85 },
+  { nr: '76469', nazwa: 'Harry Potter: Wolny skrzat Zgredek', etykieta: 'Do 100 zł', rrp: 144.99, dobra: 100 },
+  { nr: '76349', nazwa: 'Marvel: Pościg Spider-Mana za więźniarką', etykieta: 'Do 155 zł', rrp: 209.99, dobra: 155 },
+  { nr: '60505', nazwa: 'City: Samolot, ciężarówka serwisowa i poduszkowiec', etykieta: 'Do 210 zł', rrp: 299.99, dobra: 210 },
+];
+
+const faq = [
+  {
+    q: 'Kiedy kupować prezent na Mikołajki, żeby zdążył i żeby nie przepłacić?',
+    a: 'Najgłębsze przeceny roku wypadają w okolicach Black Friday, czyli 27 listopada – dziewięć dni przed Mikołajkami. To wystarczający zapas na dostawę kurierem, ale nie na zwrot i drugi zakup, więc zamówienie warto złożyć najpóźniej 1–2 grudnia. Jeśli sklep podaje termin wysyłki dłuższy niż dwa dni robocze, wybierz inny – w tym tygodniu magazyny są najbardziej obciążone w całym roku.',
+  },
+  {
+    q: 'Ile wydać na mikołajkowy prezent z LEGO?',
+    a: 'Mikołajki to z założenia mniejszy prezent niż gwiazdkowy. Sensowna „skarpetkowa" półka to 10–30 zł: polybag albo najmniejszy zestaw z serii, którą dziecko lubi. Prezent samodzielny mieści się w 60–120 zł – to już pudełko z 200–400 elementów i zabawą na kilka dni. Powyżej 200 zł kupujesz coś, co zwykle leży pod choinką; robić tak ma sens tylko wtedy, gdy 24 grudnia dziecko dostanie od was coś innego niż klocki.',
+  },
+  {
+    q: 'Czy sześciolatek poradzi sobie z zestawem oznaczonym 8+?',
+    a: 'Zwykle tak, jeśli składał już pudełka po 200–300 elementów. Oznaczenie wieku na pudełku to wskazówka producenta z dużym marginesem, nie granica umiejętności. Trudniejsze bywają nie same klocki, tylko naklejki i drobne detale – tu dziecko czasem poprosi o pomoc. Odwrotna pomyłka jest gorsza: zestaw wyraźnie poniżej możliwości kończy się w kwadrans i rozczarowuje.',
+  },
+  {
+    q: 'Czy polybag to dobry prezent na Mikołajki?',
+    a: 'Jako dodatek – bardzo dobry, jako jedyny prezent – słaby. Polybag to kilkadziesiąt elementów i kwadrans budowania, ale za kilkanaście złotych daje dziecku coś z ulubionej serii, a do tego znika z rynku po kilku miesiącach, więc nie da się go „dokupić później". W skarpecie obok słodyczy działa świetnie; jako pudełko wręczane uroczyście rozczaruje.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO na Mikołaja: osiem małych zestawów do 200 zł"
+  opis="Osiem zestawów LEGO na Mikołajki dla dzieci od 4 do 10 lat – od polybagu do skarpety po pudełko za 200 zł. Dla kogo każdy, od jakiej ceny kupować i kiedy zamawiać, żeby zdążyć na 6 grudnia."
+  data="2026-09-24"
+  zaktualizowano="2026-09-24"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Mikołajki mają swoją własną mechanikę i o niej trzeba pamiętać przed zakupem: <b>prezent ma być mniejszy niż ten spod choinki</b> i nie może się z nim dublować. Dlatego ta lista zaczyna się od kilkunastu złotych, a kończy około dwustu – nie dlatego, że drożej nie da się kupić, tylko dlatego, że 6 grudnia to nie jest dzień na wielkie pudełko.</p>
+
+  <p>Druga rzecz to termin. Black Friday wypada 27 listopada, dziewięć dni przed Mikołajkami – to najlepszy moment na zakup, ale też tydzień, w którym magazyny sklepów pracują na granicy. <b>Zamówienie złożone po 2 grudnia może nie zdążyć.</b> Wszystkie osiem zestawów poniżej jest w bieżącej sprzedaży i żaden nie stoi na liście wycofań, więc nie ma powodu kupować ich wcześniej niż w promocji.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do skarpety, do 13 zł: Premierball z Pokémonami</h2>
+
+  <Karta
+    nr="30729"
+    nazwa="Pokémon: Premierball"
+    rocznik={2026}
+    elementy={46}
+    rrp={16.49}
+    dlaKogo="dziecko 6–10 lat, które zna Pokémony z gry albo z kart; dodatek do większego prezentu"
+    dobra={13}
+    bardzoDobra={10}
+    prog="poniżej 13 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Czterdzieści sześć elementów, kwadrans budowania i mała kula, którą da się otworzyć. To najtańszy sposób, żeby dać dziecku coś z tegorocznej linii Pokémon, która w większych pudełkach kosztuje kilkaset złotych.</p>
+    <p>Polybagi są w sklepach przez kilka miesięcy i znikają bez zapowiedzi – w oficjalnym sklepie LEGO tej torebki już nie ma. <b>Jako jedyny prezent to za mało</b>; w skarpecie obok słodyczy działa dokładnie tak, jak powinien.</p>
+  </Karta>
+
+  <h2>Do 30 zł: jednorożcowa dostawa tortu – dla czterolatka</h2>
+
+  <Karta
+    nr="42675"
+    nazwa="Friends: Jednorożcowa dostawa tortu"
+    rocznik={2026}
+    elementy={67}
+    rrp={41.99}
+    dlaKogo="dziecko 4–6 lat; pierwszy kontakt z Friends albo drobny upominek"
+    dobra={30}
+    bardzoDobra={26}
+    prog="poniżej 30 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Zestaw z linii 4+, czyli z dużymi modułami startowymi, które czterolatek składa sam bez pomocy. Figurka, skuter i tort – jedna prosta scenka dostawy, do której dziecko wraca, bo ma początek i koniec.</p>
+    <p>Nie oczekuj długiej budowy: to kilkanaście minut. Siła tego pudełka jest w tym, że <b>najmłodsze dziecko w domu dostaje coś, co złoży samodzielnie</b>, a nie coś, co złoży za nie rodzic.</p>
+  </Karta>
+
+  <h2>Do 45 zł: tukan 3 w 1 – trzy budowy z jednego pudełka</h2>
+
+  <Karta
+    nr="31173"
+    nazwa="Creator 3 w 1: Dzikie zwierzęta – tropikalny tukan"
+    rocznik={2025}
+    elementy={225}
+    rrp={61.99}
+    dlaKogo="dziecko 7–9 lat, które lubi rozkładać i budować od nowa"
+    dobra={45}
+    bardzoDobra={40}
+    prog="poniżej 45 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Tukan z ruchomymi skrzydłami, dziobem i ogonem, a po rozłożeniu – motyl albo ryba z tych samych klocków. Dwieście dwadzieścia pięć elementów w tej cenie to więcej, niż daje większość zestawów Creatora z tego rocznika.</p>
+    <p>To zestaw dla dziecka, które <b>woli budować niż bawić się gotowym modelem</b>. Jeśli w domu liczy się wyłącznie zabawa figurkami, lepiej sprawdzi się Friends albo City z tej listy.</p>
+  </Karta>
+
+  <h2>Do 78 zł: Ferrari 499P – auto z Le Mans</h2>
+
+  <Karta
+    nr="77261"
+    nazwa="Speed Champions: Ferrari 499P"
+    rocznik={2026}
+    elementy={329}
+    rrp={114.99}
+    dlaKogo="dziecko 9–12 lat, które ogląda wyścigi; także dorosły kibic"
+    dobra={78}
+    bardzoDobra={70}
+    prog="poniżej 78 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prototyp, który wygrał 24-godzinny wyścig Le Mans, w skali Speed Champions z minifigurką kierowcy. Trzysta trzydzieści elementów za mniej niż osiemdziesiąt złotych to jeden z lepszych przeliczników na tej liście.</p>
+    <p>Speed Champions to seria, którą <b>dziecko i rodzic rozumieją tak samo</b> – model stoi na półce, ale wytrzymuje też jazdę po dywanie. Jeśli obdarowany ma już kilka bolidów F1 z tej serii, prototyp z Le Mans będzie czymś innym niż kolejna „efjedynka".</p>
+  </Karta>
+
+  <h2>Do 85 zł: pierwsza noc w Minecrafcie</h2>
+
+  <Karta
+    nr="21593"
+    nazwa="Minecraft: Przetrwanie pierwszej nocy"
+    rocznik={2026}
+    elementy={301}
+    rrp={124.99}
+    dlaKogo="dziecko 8–11 lat, które gra w Minecrafta"
+    dobra={85}
+    bardzoDobra={78}
+    prog="poniżej 85 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Scena, którą zna każdy gracz: zbuduj schronienie, zanim o zmroku przyjdą moby. W pudełku jest creeper i zombie, więc <b>scenariusz zabawy jest gotowy bez tłumaczenia</b> – dziecko wie, co robić, od pierwszej minuty.</p>
+    <p>Trzysta elementów to godzina samodzielnej budowy dla ośmiolatka. Warunek jest jeden: obdarowany musi grać w Minecrafta. Dla dziecka spoza gry to zwykły domek z zielonym potworem.</p>
+  </Karta>
+
+  <h2>Do 100 zł: Zgredek – figura do ustawienia</h2>
+
+  <Karta
+    nr="76469"
+    nazwa="Harry Potter: Wolny skrzat Zgredek"
+    rocznik={2026}
+    elementy={379}
+    rrp={144.99}
+    dlaKogo="dziecko 8–12 lat po lekturze albo seansie Komnaty Tajemnic"
+    dobra={100}
+    bardzoDobra={90}
+    prog="poniżej 100 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Zgredek z ruchomymi uszami, skarpetką i pamiętnikiem, w skali do postawienia na biurku. To odświeżona wersja figury, która kilka lat temu była jednym z najchętniej kupowanych zestawów Harry'ego Pottera – i dobra okazja dla tych, którzy ją wtedy przegapili.</p>
+    <p>Uwaga na typ zabawy: to <b>model do zbudowania i ustawienia</b>, nie scenka z minifigurkami. Dziecko, które chce odgrywać Hogwart, dostanie więcej z zestawu z zamkiem; dziecko, które chce mieć Zgredka na półce, dostanie dokładnie to.</p>
+  </Karta>
+
+  <h2>Do 155 zł: pościg Spider-Mana – akcja z minifigurkami</h2>
+
+  <Karta
+    nr="76349"
+    nazwa="Marvel: Pościg Spider-Mana za więźniarką"
+    rocznik={2026}
+    elementy={367}
+    rrp={209.99}
+    dlaKogo="dziecko 7–10 lat, które bawi się postaciami i odgrywa akcję"
+    dobra={155}
+    bardzoDobra={140}
+    prog="poniżej 155 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Więźniarka, motocykl i komplet minifigurek do pościgu – zestaw, w którym po zbudowaniu zaczyna się właściwa zabawa. Marvel w tym przedziale cenowym daje zwykle mniej elementów niż City; tu proporcja jest w porządku, a postacie są rozpoznawalne.</p>
+    <p>To pozycja z tej listy, przy której <b>najbardziej opłaca się poczekać na Black Friday</b>: zestaw jest z czerwca 2026, więc rabaty dopiero się rozkręcają. Sto pięćdziesiąt pięć złotych to dobra cena; poniżej stu czterdziestu – bardzo dobra.</p>
+  </Karta>
+
+  <h2>Do 210 zł: trzy pojazdy służb – prawie tysiąc elementów</h2>
+
+  <Karta
+    nr="60505"
+    nazwa="City: Zestaw z samolotem, ciężarówką serwisową i poduszkowcem"
+    rocznik={2026}
+    elementy={990}
+    rrp={299.99}
+    dlaKogo="dziecko 7–10 lat; także rodzeństwo budujące razem"
+    dobra={210}
+    bardzoDobra={190}
+    prog="poniżej 210 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Samolot, ciężarówka serwisowa i poduszkowiec – trzy pojazdy zbudowane z wymiennych modułów, które dziecko może rozkręcać i mieszać, tworząc maszyny, których nie ma w instrukcji. Dziewięćset dziewięćdziesiąt elementów za dwieście złotych to najlepszy przelicznik w tym zestawieniu.</p>
+    <p>To górna granica mikołajkowego prezentu i pozycja dla domu, w którym <b>pod choinką będzie coś innego niż klocki</b>. Trzy pojazdy dzielą się naturalnie między rodzeństwo, więc jedno pudełko załatwia dwa prezenty.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Kolejność jest prosta: <b>Black Friday 27 listopada, zamówienie najpóźniej 1–2 grudnia</b>. Żaden z ośmiu zestawów nie stoi na liście wycofań, więc nie ma powodu kupować ich przed promocją; jest za to powód, żeby nie kupować po 2 grudnia, bo w pierwszym tygodniu grudnia kurierzy jeżdżą najwolniej w całym roku. Terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, listę znikających w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <p>Jeśli mikołajkowy prezent ma być większy, bo święta obchodzicie inaczej, sięgnij po <a href="/prezentowniki/wedlug-budzetu/">prezentownik według budżetu</a> – tam koperty sięgają sześciuset złotych. Prezenty po seriach, od City po Harry'ego Pottera, znajdziesz w <a href="/prezentowniki/">dziale Prezentowniki</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>

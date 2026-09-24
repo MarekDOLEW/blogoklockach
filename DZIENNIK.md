@@ -92,6 +92,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 09:30 · CODE · Prezentownik „na Mikołaja" — pierwszy z czterech sezonowych
+
+Brief Marka: Mikołajki (małe zestawy dla dzieci do 300 zł), potem trzy
+świąteczne: dorośli (kolekcje, auta, Technic — z researchem, co kupują AFOL-e),
+dzieci w trzech progach cenowych, linie licencyjne. Pierwszy gotowy:
+`/prezentowniki/na-mikolaja/` — osiem serii, osiem sposobów zabawy, wiek 4–10,
+od polybagu 30729 po 60505 (990 el. za ~200 zł); sufit 300 zł z briefu
+świadomie nieużyty (Mikołajki to mniejszy prezent niż gwiazdkowy). Kandydaci:
+271 zestawów po filtrach (dostępny, RRP, cena rynkowa, bez wycofań, bez użytych
+w innych prezentownikach). Karta: `redakcja/karty/prezentownik-na-mikolaja.md`.
+Odpowiedź na pytanie Marka o rytm: Empik raz w tygodniu (pon.), dwa razy
+w tygodniu to Smyk (automat); x-kom ręcznie, dopóki nie ma feedu (Admitad).
+
 ## 2026-09-24 09:20 · CODE · Skill `klocki-ceny-xkom` + wspólny import zrzutów (Empik, x-kom)
 
 Marek: „zrób skill klocki-ceny-xkom jak dla Empiku". Zrobione na tym samym
