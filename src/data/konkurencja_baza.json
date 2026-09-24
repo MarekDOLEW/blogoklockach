@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-23",
-    "przebieg": "scheduled 2026-09-23 08:00",
+    "ostatnia_aktualizacja": "2026-09-24",
+    "przebieg": "scheduled 2026-09-24 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 190,
+    "liczba_wpisow": 193,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2292,6 +2292,39 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Pantasy, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Prezenty LEGO pod choinke dla dzieci - pomysly dla chlopcow i dziewczynek",
+      "url": "https://zklockow.pl/blog/prezenty-lego-pod-choinke-dla-dzieci",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-24",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Strona evergreen wprost pod fraze sezonu XI-XII. My mamy szesnascie prezentownikow (serie, wiek, budzet), ale zaden nie celuje w 'prezenty pod choinke' - slowo 'choinka' pada tylko wewnatrz kilku tekstow, nie w tytule ani adresie zadnej strony. Do zrobienia: strona-rozdzielnik prowadzaca do istniejacych prezentownikow."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Skroty LEGO (slowniczek pojec)",
+      "url": "https://zklockow.pl/odkrywaj/skroty-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-24",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mamy wlasny /artykuly/slowniczek-lego/ z hasłami w <dl>, wlasnymi id i indeksem A-Z."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Sort A Brick - litewski startup na rynku uzywanych klockow",
+      "url": "https://fanklockow.pl/sort-a-brick-litewski-startup-zatrzesie-rynkiem-uzywanych-klockow",
+      "data_publikacji": "2026-09-23",
+      "data_wykrycia": "2026-09-24",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rynek klockow uzywanych - poza naszym zakresem (sprzedaz nowych zestawow przez afiliacje). Ciekawostka branzowa, bez przelozenia na sezon XI-XII."
     }
   ],
   "obserwacje_strategiczne": {

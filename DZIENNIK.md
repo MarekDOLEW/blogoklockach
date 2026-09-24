@@ -92,6 +92,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 08:00 · RADAR · Do zrobienia
+
+**zklockow.pl · 24.09** — mają evergreenową stronę „Prezenty LEGO pod choinkę dla dzieci", wprost pod frazę szczytu sezonu.
+**Mamy?** — nie: szesnaście prezentowników po seriach, wieku i budżecie, ale żaden nie celuje w tę frazę. „Choinka" pada tylko w środku kilku tekstów, nie w tytule ani adresie żadnej strony.
+**Zrobić:** — strona-rozdzielnik `/prezentowniki/pod-choinke/` kierująca do istniejących prezentowników (wiek, budżet, seria) plus do [kalendarzy adwentowych](/artykuly/ranking-kalendarze-adwentowe-lego-2026/) i [wycofań](/artykuly/wycofania-lego-grudzien-2026/). Treść już mamy, brakuje wejścia pod frazę.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-09-23 15:40 · CODE · Ceny x-kom w tabelach (pierwsze w historii serwisu) + pole `wazne_do`
 
 Marek: „nie mamy w ogóle cen z x-kom?" — nie mieliśmy: zero w `sety.json`
