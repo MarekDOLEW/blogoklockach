@@ -1172,6 +1172,9 @@ Routine „Przypomnienie: zrzut Empiku"). Plik `lego-empik.json` wchodzi do dany
     node scripts/empik-import.mjs lego-empik.json            # ceny do feedu, sety.json, ceny_baza
     node scripts/empik-redirects.mjs lego-empik.json --usun-martwe   # deeplinki kart produktu
 
+Od 24.09.2026 oba to nakładki na wspólne `zrzut-import.mjs` / `zrzut-redirects.mjs`
+(`--sklep empik|xkom`) — jedna lista reguł dla Empiku i x-komu (sekcja „Ceny x-kom").
+
 Reguły importu są w skrypcie i tylko tam (do 16.09 żyły w pamięci trwałej sesji
 Łowcy — commit `f9b0cef` „415 gadżetów, 54 sanity, 10 konfliktów" nie miał
 pokrycia w żadnym prompcie): numer 4–7 cyfr bez zera wiodącego, konflikt numeru
@@ -1189,6 +1192,38 @@ deeplinków (`redirects.empik`, 30 martwych skasowanych), 13 obcych marek
 (Playmobil, CaDA) odrzuconych po nazwie (`OBCE_MARKI` w imporcie), 334 numery
 spoza katalogu (bez huba, nieobsługiwane). Smyk i lego.pl mają własne cotygodniowe
 odświeżenie (sekcje „Smyk" i „lego.pl" w tym pliku).
+
+---
+
+## Ceny x-kom *(od 24.09.2026; skill `klocki-ceny-xkom`)*
+
+Do 23.09.2026 serwis nie miał **ani jednej ceny x-kom** mimo aktywnej afiliacji
+(SalesMasters): program nie daje feedu, a x-kom.pl oddaje 403 na ruch serwerowy.
+Sklep był w tabelach tylko jako link „Sprawdź cenę" z workera. Marek 23.09:
+„mamy z nimi afiliację, trzeba wstawić ceny poza przebiegiem" — stąd skill
+`klocki-ceny-xkom` na wzór Empiku: zrzut lokalną przeglądarką (Cowork), plik
+`lego-xkom.json`, import skryptem:
+
+    node scripts/xkom-import.mjs lego-xkom.json --sucho
+    node scripts/xkom-import.mjs lego-xkom.json
+    node scripts/xkom-redirects.mjs lego-xkom.json --usun-martwe
+
+Reguły te same co dla Empiku (`zrzut-import.mjs`), plus jedna: **pozycja
+z `available: false` nie wchodzi** — x-kom pokazuje cenę także przy produkcie
+niedostępnym. Link = adres karty produktu + uniwersalny kod SalesMasters
+(`?sm=…`, stała `KOD_SALESMASTERS` w `zrzut-redirects.mjs`, ten sam co w workerze);
+`redirects.xkom` podlega temu samemu wyjątkowi od append-only co `redirects.empik`
+(martwe karty kasuje tylko `xkom-redirects.mjs --usun-martwe`).
+
+Ręczne ceny z mailingów partnera (pierwszy: Dzień Chłopaka 23–30.09.2026) idą do
+`sety.json` z polem `wazne_do`; tygodniowy zrzut je nadpisuje. Rytm: raz w tygodniu,
+razem z Empikiem, nigdy równolegle (jedna przeglądarka). Liczby odniesienia do
+kontroli jakości ustala pierwszy przebieg — wpisać je potem do skilla.
+
+Uwaga regulaminowa (rejestr afiliacji, 18.08.2026): SalesMasters zabrania
+„automatycznych wtyczek porównujących ceny". Nasza tabela to ręcznie odświeżane
+porównanie redakcyjne, jak przy Empiku; czy dopytać opiekuna programu z
+wyprzedzeniem — decyzja Marka.
 
 ---
 

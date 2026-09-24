@@ -149,7 +149,7 @@
   "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
   "cookie_dni": null,
   "format_linkow": "dowolny URL x-kom.pl/al.to + sm=Y74rgdCO — kod UNIWERSALNY dla konta (potwierdzone testem 2026-08-16: dziala doklejony do kazdego adresu, takze w incognito).",
-  "feed": null,
+  "feed": "brak feedu; ceny ze zrzutu lokalna przegladarka (skill klocki-ceny-xkom, od 2026-09-24) -> scripts/xkom-import.mjs; linki = adres karty + sm= (scripts/xkom-redirects.mjs)",
   "data": "2026-08-16",
   "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Worker ma fallback /idz/xkom/<nr> -> wyszukiwarka x-kom z kodem (automatycznie pokrywa nowe sety); bezposrednie linki produktowe w redirects.json maja pierwszenstwo. Listy zakupow x-kom = wehikul na prezentowniki (jeden link, prowizja od zakupow z listy). Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu. DO SPRAWDZENIA po ~1 dniu: czy kliki widac w statystykach panelu."
  },

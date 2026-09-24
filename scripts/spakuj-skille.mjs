@@ -19,7 +19,7 @@ const wyjscie = new URL('../skille/', import.meta.url);
 // Pakujemy skille redakcyjne (generowane z redakcja/) oraz operacyjne skille
 // Coworka pisane ręcznie w .claude/skills/ — reszta tego katalogu to skille
 // techniczne (SEO, UX), które z Cowork-iem nie mają nic wspólnego.
-const NASZE = ['lego-standard-redakcyjny', 'lego-standard-sprzedazowy', 'klocki-ceny-empik'];
+const NASZE = ['lego-standard-redakcyjny', 'lego-standard-sprzedazowy', 'klocki-ceny-empik', 'klocki-ceny-xkom'];
 
 if (existsSync(wyjscie)) rmSync(wyjscie, { recursive: true });
 mkdirSync(wyjscie, { recursive: true });

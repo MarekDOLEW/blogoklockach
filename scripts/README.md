@@ -44,8 +44,10 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Sklep | Uwaga |
 |---|---|---|
-| `empik-import.mjs` | Code (załącznik od Marka) albo Łowca z notką; co tydzień po zrzucie | **Ceny ze zrzutu `lego-empik.json` do feedu, sety.json i ceny_baza** z regułami importu (gadżety, obce marki po nazwie — `OBCE_MARKI`: Playmobil, CaDA… od 21.09.2026, numer 4–7 cyfr, konflikt numeru z nazwą, sanity 40% RRP, tylko zestawy z hubem, świeżość nadrzędna, `daty.empik` z pliku). Zawsze najpierw `--sucho`. Do 16.09.2026 reguły żyły w pamięci sesji Łowcy |
-| `empik-redirects.mjs` | Empik | **Jedyny skrypt, który wolno kasować wpisy** (`--usun-martwe`) — patrz CLAUDE.md |
+| `zrzut-import.mjs` | Code (załącznik od Marka) albo Łowca z notką; co tydzień po zrzucie | **Ceny ze zrzutu lokalną przeglądarką do feedu, sety.json i ceny_baza** — jeden skrypt dla Empiku i x-komu (`--sklep empik\|xkom`), reguły importu w jednym miejscu (gadżety, obce marki — `OBCE_MARKI`, numer 4–7 cyfr, konflikt numeru z nazwą, sanity 40% RRP, tylko zestawy z hubem, świeżość nadrzędna, `daty.<sklep>` z pliku; x-kom: `available: false` odpada). Zawsze najpierw `--sucho` |
+| `empik-import.mjs`, `xkom-import.mjs` | jw. | Nakładki na `zrzut-import.mjs` (ustawiają `--sklep`) — polecenia w promptach i skillach zostają bez zmian |
+| `zrzut-redirects.mjs` | Code / Łowca, po imporcie | Linki kart produktu ze zrzutu: Empik → deeplink Tradedoublera, x-kom → adres + kod SalesMasters. **Jedyny skrypt, który wolno kasować wpisy** (`--usun-martwe`, gałęzie `empik` i `xkom`) — patrz CLAUDE.md |
+| `empik-redirects.mjs`, `xkom-redirects.mjs` | jw. | Nakładki na `zrzut-redirects.mjs` |
 | `me-redirects.mjs` | Media Expert | |
 | `lego-redirects.mjs` | LEGO.com | Wejściem jest katalog z `firecrawl-legopl.mjs` |
 | `smyk-ceny.mjs` | Smyk | Wczytanie katalogu ze zrzutu: `node scripts/smyk-ceny.mjs <plik.json>` (pierwsze wejście sklepu, adresy kart do `redirects.smyk`) |

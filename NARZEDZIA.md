@@ -131,7 +131,7 @@ założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.
 `klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`, które
 zapisywały w próżnię do `~/Documents/Claude/Projects/blogoklockach/`, **zostały
 odinstalowane** — stan na 14.09.2026: w koncie są `klocki-afiliacje`,
-`klocki-seo`, `klocki-social`, `klocki-ceny-empik` i dwa standardy.
+`klocki-seo`, `klocki-social`, `klocki-ceny-empik`, `klocki-ceny-xkom` i dwa standardy.
 
 Skille `klocki-redaktor`, `klocki-social`, `klocki-seo` i `klocki-afiliacje`
 zostają — to treść i research, czyli właściwa robota Coworka.
@@ -278,7 +278,7 @@ gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
 2. **Arkusze do weryfikacji** (xlsx z odznaczeniami, listy do sprawdzenia)
    → **Code**, załącznik. Odsyłasz ten sam plik z dopiskami.
 
-3. **Zrzut cen Empiku** (`lego-empik.json`) → **Code, załącznik** — jak
+3. **Zrzut cen Empiku** (`lego-empik.json`) i **x-komu** (`lego-xkom.json`, skill `klocki-ceny-xkom` od 24.09.2026) → **Code, załącznik** — jak
    wszystko inne. Od 16.09.2026 reguły importu są w `scripts/empik-import.mjs`
    (do tego dnia żyły wyłącznie w pamięci trwałej sesji Łowcy, bez pokrycia
    w prompcie — audyt końcowy, pkt 2.2). Code uruchamia `empik-import.mjs`

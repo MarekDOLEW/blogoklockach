@@ -31,7 +31,7 @@ SKLEPY = [
     ('smyk', 'Smyk', 'strony produktów (smyk-odswiez.mjs)', 'wtorek i piątek', 'Dane wt / Łowca'),
     ('ceneo', 'Ceneo', 'feed Tradedoubler (ceneo-feed.mjs) – najniższa oferta w porównywarce', 'wtorek', 'Dane wt'),
     ('lidl', 'Lidl', 'feed Tradedoubler (importer „wtorkowy" wołany codziennie)', 'codziennie', 'Łowca'),
-    ('xkom', 'x-kom', 'BRAK FEEDU – SalesMasters nie daje feedu, strony blokują ruch serwerowy; ceny tylko ręcznie (mailing partnera, Cowork) z polem wazne_do', 'nieregularnie', 'Marek / sesja Code'),
+    ('xkom', 'x-kom', 'zrzut z przeglądarki (Cowork, skill klocki-ceny-xkom, od 24.09.2026) → xkom-import.mjs; brak feedu, strony blokują ruch serwerowy; akcje z mailingu ręcznie z polem wazne_do', 'tygodniowo, ręcznie', 'Marek + Cowork'),
 ]
 KODY = [k for k, *_ in SKLEPY]
 

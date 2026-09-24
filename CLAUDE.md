@@ -70,12 +70,14 @@ sklepy i afiliacja). Skrót najważniejszych reguł:
 
 - Pliki `src/data/*.json`: append-only — liczba wpisów nie może maleć;
   po każdej zmianie walidacja JSON przed commitem.
-- **Jedyny wyjątek: `redirects.empik`** (ustalone 14.09.2026). Adres karty
-  produktu żyje tylko dopóki produkt jest w ofercie; gdy zniknie, link prowadzi
-  na 404 — gorzej niż wyszukiwarka, na którą worker sam spada przy braku wpisu.
-  Dlatego `scripts/empik-redirects.mjs --usun-martwe` kasuje wpisy zestawów
-  nieobecnych w bieżącym zrzucie. Dotyczy wyłącznie tego klucza i wyłącznie
-  tego skryptu; ceny i pozostałe mapy linków są dalej append-only.
+- **Jedyny wyjątek: `redirects.empik` i `redirects.xkom`** (ustalone 14.09.2026,
+  x-kom dopisany 24.09.2026). Adres karty produktu żyje tylko dopóki produkt
+  jest w ofercie; gdy zniknie, link prowadzi na 404 — gorzej niż wyszukiwarka,
+  na którą worker sam spada przy braku wpisu. Dlatego
+  `scripts/zrzut-redirects.mjs --usun-martwe` (nakładki `empik-redirects.mjs`,
+  `xkom-redirects.mjs`) kasuje wpisy zestawów nieobecnych w bieżącym zrzucie.
+  Dotyczy wyłącznie tych dwóch kluczy i wyłącznie tego skryptu; ceny i pozostałe
+  mapy linków są dalej append-only.
 - Sekretów (tokeny, klucze) nigdy nie commitować — są w zmiennych środowiska.
 - Push na `main` robimy z lokalnej gałęzi roboczej:
   `git push origin <gałąź>:main` (lokalny `main` jest rozjechany — nie ruszać);

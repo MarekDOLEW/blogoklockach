@@ -92,6 +92,21 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 09:20 · CODE · Skill `klocki-ceny-xkom` + wspólny import zrzutów (Empik, x-kom)
+
+Marek: „zrób skill klocki-ceny-xkom jak dla Empiku". Zrobione na tym samym
+wzorcu: `.claude/skills/klocki-ceny-xkom/SKILL.md`, paczka
+`skille/klocki-ceny-xkom.skill` (Marek wgrywa w Settings → Skills), plik
+`lego-xkom.json` z polem `available` (x-kom pokazuje cenę także przy
+niedostępnym). Skrypty: `empik-import.mjs`/`empik-redirects.mjs` przepisane na
+wspólne `zrzut-import.mjs`/`zrzut-redirects.mjs` z `--sklep`, stare nazwy
+zostały jako nakładki (polecenia w promptach i skillu Empiku bez zmian);
+`--sucho` na zrzucie Empiku z 21.09 daje identyczny wynik jak przed zmianą.
+Test na syntetycznym zrzucie x-kom: gadżet, obca marka, niedostępny i adres
+wyszukiwarki odrzucone, link = karta + `sm=`. CLAUDE.md: wyjątek od append-only
+rozszerzony na `redirects.xkom` (ten sam powód co Empik). Liczby odniesienia
+do kontroli jakości ustali pierwszy przebieg Coworka — wpisać je do skilla.
+
 ## 2026-09-24 08:00 · RADAR · Do zrobienia
 
 **zklockow.pl · 24.09** — mają evergreenową stronę „Prezenty LEGO pod choinkę dla dzieci", wprost pod frazę szczytu sezonu.
