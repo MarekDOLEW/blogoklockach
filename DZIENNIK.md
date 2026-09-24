@@ -92,6 +92,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 10:45 · CODE · Prezentownik świąteczny dla dzieci — trzy koperty
+
+`/prezentowniki/swieta-dla-dzieci/`: dzieci 6–10 lat, koperty do 120 / 250 /
+500 zł (3+3+2): 60498 Traktor, 71864 Ninjago pojazdy, 77119 Sonic Tails,
+43299 łódź Arielki, 42688 stadnina Friends, 77982 spinozaur, 31168 zamek 3 w 1,
+72168 Rayquaza (rada „kupuj przed Black Friday, nie po"). Różni się od
+„według budżetu" zakresem wieku i wysokością prezentu. Karta:
+`redakcja/karty/prezentownik-swieta-dzieci.md`.
+
 ## 2026-09-24 10:15 · CODE · Prezentownik świąteczny dla dorosłych — z researchem Bricksetu
 
 `/prezentowniki/swieta-dla-doroslych/`: osiem zestawów 180–1 400 zł (Game Boy,

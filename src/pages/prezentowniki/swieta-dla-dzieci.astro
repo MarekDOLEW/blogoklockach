@@ -1,0 +1,229 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Prezentownik ŚWIĄTECZNY dla dzieci 6–10 lat w trzech kopertach: do 120, do 250,
+// do 500 zł (3 + 3 + 2 = osiem pozycji, dwa rzędy galerii). Różni się od
+// „według budżetu" (wszystkie wieki, koperty 100/300/600) zakresem wieku
+// i wysokością prezentu – gwiazdkowy jest większy niż mikołajkowy. W kopercie
+// różnicujemy po sposobie zabawy i wieku, nie po cenie; osiem serii, żadnej
+// z prezentownika na Mikołaja. Karta: redakcja/karty/prezentownik-swieta-dzieci.md
+// Kontrola przy aktualizacji: żaden z ośmiu nie może wejść na listę wycofań
+// ani wyjść trwale ze swojej koperty w zwykłych sklepach.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/swieta-dla-dzieci/',
+  kategoria: 'Prezentownik',
+  kolejnosc: 0,
+  znacznik: 'Święta · dzieci',
+  tytul: 'Prezent z LEGO dla dziecka na święta',
+  opis: 'Osiem zestawów dla dzieci 6–10 lat w trzech kopertach: do 120, do 250 i do 500 zł. Dobrane po sposobie zabawy, nie po płci.',
+  data: '2026-09-24',
+  zaktualizowano: '2026-09-24',
+  okladka: '31168',
+};
+
+const zestawy = [
+  { nr: '60498', nazwa: 'City: Traktor', etykieta: 'Do 55 zł', rrp: 81.99, dobra: 55 },
+  { nr: '71864', nazwa: 'Ninjago: Wielofunkcyjne pojazdy Kaia i Cole’a', etykieta: 'Do 85 zł', rrp: 124.99, dobra: 85 },
+  { nr: '77119', nazwa: 'Sonic: Tails i Tornado-1', etykieta: 'Do 95 zł', rrp: 124.99, dobra: 95 },
+  { nr: '43299', nazwa: 'Disney: Królewska łódź weselna Arielki', etykieta: 'Do 215 zł', rrp: 299.99, dobra: 215 },
+  { nr: '42688', nazwa: 'Friends: Stadnina i szkółka jeździecka', etykieta: 'Do 235 zł', rrp: 339.99, dobra: 235 },
+  { nr: '77982', nazwa: 'Jurassic World: Ucieczka spinozaura', etykieta: 'Do 230 zł', rrp: 299.99, dobra: 230 },
+  { nr: '31168', nazwa: 'Creator 3 w 1: Średniowieczny zamek rycerzy', etykieta: 'Do 370 zł', rrp: 519.99, dobra: 370 },
+  { nr: '72168', nazwa: 'Pokémon: Rayquaza', etykieta: 'Do 435 zł', rrp: 559.99, dobra: 435 },
+];
+
+const faq = [
+  {
+    q: 'Ile wydać na gwiazdkowy prezent z LEGO dla dziecka?',
+    a: 'Trzy koperty z tego tekstu odpowiadają trzem sytuacjom. Do 120 zł to prezent od dziadków albo chrzestnych obok głównego – kompletny zestaw z figurkami, nie drobiazg. Do 250 zł to typowy główny prezent: pudełko na 500–800 elementów, czyli kilka wieczorów budowania i scena do zabawy na miesiące. Do 500 zł ma sens, gdy klocki są jedynym prezentem albo składa się na nie kilka osób – powyżej tej kwoty dla dziecka poniżej dziesięciu lat przyrost radości przestaje rosnąć z ceną.',
+  },
+  {
+    q: 'Jak wybrać, jeśli nie wiem, co dziecko już ma?',
+    a: 'Wybieraj po sposobie zabawy, nie po serii. Dziecko, które odgrywa historie, ucieszy się z łodzi Arielki albo stadniny niezależnie od tego, ile ma już zestawów; dziecko, które lubi rozkładać i budować od nowa, dostanie najwięcej z zamku 3 w 1. Unikaj tylko dokładnego dubla – ten sam numer zestawu – a to łatwo sprawdzić, pytając o numer z pudełka, które stoi na półce.',
+  },
+  {
+    q: 'Czy zestaw 9+ jest za trudny dla siedmiolatka?',
+    a: 'Zwykle nie, jeśli dziecko składało już pudełka po 300–400 elementów. Oznaczenie wieku ma spory margines. Realną barierą przy dużych zestawach jest nie trudność, tylko długość: 1300 elementów to kilka wieczorów, a siedmiolatek może stracić zapał w połowie. W takim wypadku zestaw z tej listy, który dzieli się na etapy albo drużyny – zamek, stadnina – jest bezpieczniejszy niż jeden duży model.',
+  },
+  {
+    q: 'Kiedy kupować, żeby zdążyć przed świętami i nie przepłacić?',
+    a: 'Najgłębsze przeceny wypadają w okolicach Black Friday, 27 listopada, i to jest właściwy moment dla siedmiu z ośmiu zestawów. Wyjątkiem jest Rayquaza: to przewidywany hit list życzeń tego roku i zestaw z sierpnia, więc ryzyko pustej półki w grudniu jest większe niż ryzyko przepłacenia o kilka procent – kupuj, gdy zobaczysz dobrą cenę, nie czekaj na ostatnią. Zamówienia składaj do 15 grudnia; później kurierzy nie gwarantują dostawy przed Wigilią.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO dla dziecka na święta: osiem zestawów w trzech kopertach"
+  opis="Osiem zestawów LEGO na Boże Narodzenie dla dzieci 6–10 lat: do 120, do 250 i do 500 zł. Dla kogo każdy, jaki sposób zabawy, od jakiej ceny kupować i kiedy zamawiać."
+  data="2026-09-24"
+  zaktualizowano="2026-09-24"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Gwiazdkowy prezent z LEGO ma jedną cechę, o której zapominają dorośli: <b>dziecko nie wie, ile kosztował, ale wie, ile się nim bawi</b>. Dlatego osiem zestawów poniżej dobraliśmy najpierw po sposobie zabawy – czynności, akcja, latanie, scena, opieka, pościg, przebudowa, ekspozycja – a dopiero potem ułożyliśmy w trzy koperty: do 120, do 250 i do 500 złotych, liczone po cenach w zwykłych sklepach, nie z cennika LEGO.</p>
+
+  <p>Druga rzecz: żaden z nich nie jest podzielony „dla chłopca" i „dla dziewczynki". Stadnina i statek Arielki trafiają do dziecka, które lubi odgrywać historie; zamek i dinozaur do tego, które lubi budować i ścigać. <b>Wszystkie osiem jest w bieżącej sprzedaży i żaden nie stoi na liście wycofań</b>, więc można spokojnie poczekać na listopadowe przeceny – z jednym wyjątkiem opisanym przy Rayquazie.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 120 zł: prezent obok głównego</h2>
+
+  <h3>Traktor – dla sześciolatka, który lubi „robić", a nie „walczyć"</h3>
+
+  <Karta
+    nr="60498"
+    nazwa="City: Traktor"
+    rocznik={2026}
+    elementy={204}
+    rrp={81.99}
+    dlaKogo="dziecko 5–7 lat; pierwszy własny pojazd City albo dodatek do farmy"
+    dobra={55}
+    bardzoDobra={48}
+    prog="poniżej 55 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Traktor z osprzętem do prostych prac polowych i figurką. Zabawa opiera się na czynnościach – orka, przewożenie, ładowanie – a nie na akcji, co dla wielu sześciolatków jest naturalniejsze niż pościgi. <b>Ocena 4,4 na 5 na Bricksecie</b> to jeden z lepszych wyników wśród tanich pojazdów City.</p>
+    <p>Jako jedyny prezent wypada skromnie; jako pudełko od dziadków obok głównego – w sam raz. Dwieście elementów to godzina samodzielnej budowy.</p>
+  </Karta>
+
+  <h3>Pojazdy Kaia i Cole'a – trzy postacie za mniej niż sto złotych</h3>
+
+  <Karta
+    nr="71864"
+    nazwa="Ninjago: Wielofunkcyjne pojazdy Kaia i Cole’a"
+    rocznik={2026}
+    elementy={394}
+    rrp={124.99}
+    dlaKogo="dziecko 7–9 lat, które ogląda Ninjago albo lubi zabawę w drużynę"
+    dobra={85}
+    bardzoDobra={75}
+    prog="poniżej 85 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwa pojazdy do przebudowy i trzy minifigurki, w tym dwóch ninja – <b>najbardziej „obsadzony" zestaw w tej kopercie</b>. W Ninjago liczy się, kto jest w pudełku, a tu są bohaterowie sezonu, nie statyści.</p>
+    <p>Ryzyko: dziecko, które nie zna serialu, dostanie „dwa pojazdy i trzech ludzików". Dla widza Ninjago to najlepszy start w serię za tę kwotę.</p>
+  </Karta>
+
+  <h3>Tails i Tornado-1 – samolot z gry, do latania po pokoju</h3>
+
+  <Karta
+    nr="77119"
+    nazwa="Sonic: Tails i Tornado-1"
+    rocznik={2026}
+    elementy={310}
+    rrp={124.99}
+    dlaKogo="dziecko 8–10 lat, które gra w Sonica albo ogląda filmy"
+    dobra={95}
+    bardzoDobra={85}
+    prog="poniżej 95 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Dwupłatowiec Tailsa z figurką pilota – samolot, który po zbudowaniu lata w ręku, a nie stoi na półce. Trzysta elementów to spokojne popołudnie dla ośmiolatka.</p>
+    <p>Sonic ma w LEGO niewiele zestawów w tej cenie, więc jeśli obdarowany jest fanem, wybór jest krótki i ten model jest w nim najlepszy. Dla dziecka spoza gry – zwykły żółty samolot z lisem.</p>
+  </Karta>
+
+  <h2>Do 250 zł: główny prezent</h2>
+
+  <h3>Łódź weselna Arielki – dla sześciolatka, który odgrywa historie</h3>
+
+  <Karta
+    nr="43299"
+    nazwa="Disney: Królewska łódź weselna Arielki"
+    rocznik={2026}
+    elementy={519}
+    rrp={299.99}
+    dlaKogo="dziecko 6–8 lat, które bawi się postaciami i scenami"
+    dobra={215}
+    bardzoDobra={195}
+    prog="poniżej 215 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Pływająca scena ślubu z Małej Syrenki, ponad pięćset elementów podzielonych na etapy, które sześciolatek składa sam. To nie zamek, jakich w linii Disney było wiele – <b>łódź daje inną zabawę niż kolejny pałac</b>, bo wszystko dzieje się na pokładzie i wokół niego.</p>
+    <p>Zestaw jest z czerwca 2026, rabat w sklepach już przekracza 25%. Dla dziecka, które woli budować niż odgrywać, lepiej sprawdzi się zamek 3 w 1 z górnej koperty.</p>
+  </Karta>
+
+  <h3>Stadnina i szkółka jeździecka – zabawa w opiekę, nie w rywalizację</h3>
+
+  <Karta
+    nr="42688"
+    nazwa="Friends: Stadnina i szkółka jeździecka"
+    rocznik={2026}
+    elementy={735}
+    rrp={339.99}
+    dlaKogo="dziecko 7–9 lat, które lubi zabawę w codzienność: karmienie, czyszczenie, trening"
+    dobra={235}
+    bardzoDobra={210}
+    prog="poniżej 235 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Konie, boksy, tor przeszkód i komplet drobnych akcesoriów do opieki. Siłą tego pudełka jest <b>rutyna, którą dziecko prowadzi samo</b> – zabawa nie kończy się po pierwszym ustawieniu, bo zawsze jest coś do nakarmienia albo wyczyszczenia.</p>
+    <p>Siedemset elementów za niecałe dwieście czterdzieści złotych to jeden z lepszych przeliczników we Friends. Wada praktyczna: drobiazgi łatwo gubić, więc pudełko na części przyda się od pierwszego dnia.</p>
+  </Karta>
+
+  <h3>Ucieczka spinozaura – duży dinozaur i pościg</h3>
+
+  <Karta
+    nr="77982"
+    nazwa="Jurassic World: Ucieczka spinozaura"
+    rocznik={2026}
+    elementy={820}
+    rrp={299.99}
+    dlaKogo="dziecko 8–10 lat, dla którego dinozaur jest ważniejszy niż pojazd"
+    dobra={230}
+    bardzoDobra={205}
+    prog="poniżej 230 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Spory spinozaur z ruchomymi szczękami, pojazd i figurki do pościgu – prosty scenariusz, który dziecko rozumie bez instrukcji. Osiemset elementów daje kilka wieczorów budowania, a sam dinozaur jest największym elementem zabawy i po rozłożeniu reszty zostaje na półce.</p>
+    <p>Spinozaur wrócił do LEGO po latach nieobecności i to jest jego najlepsza dotychczasowa wersja. Rabat w sklepach sięga 27% mimo premiery w lipcu – nie trzeba czekać na Black Friday, żeby kupić go rozsądnie.</p>
+  </Karta>
+
+  <h2>Do 500 zł: gdy klocki są głównym prezentem</h2>
+
+  <h3>Zamek rycerzy 3 w 1 – trzy budowy i dwie drużyny</h3>
+
+  <Karta
+    nr="31168"
+    nazwa="Creator 3 w 1: Średniowieczny zamek rycerzy konnych"
+    rocznik={2025}
+    elementy={1371}
+    rrp={519.99}
+    dlaKogo="dziecko 9–11 lat, które lubi budować od nowa; także rodzeństwo budujące razem"
+    dobra={370}
+    bardzoDobra={340}
+    prog="poniżej 370 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Zamek, turniej albo miasteczko – trzy warianty z jednego pudełka, prawie tysiąc czterysta elementów i wyraźny podział na dwie drużyny rycerzy. To <b>najbardziej „wielokrotny" zestaw na tej liście</b>: po zamku można zbudować turniej, a po turnieju miasto, i za każdym razem jest to inna zabawka.</p>
+    <p>Warto uprzedzić dziecko, że wariant drugi wymaga rozebrania pierwszego – w Creatorze stoi tylko jedna wersja naraz. Budowa na kilka wieczorów, przelicznik 0,27 zł za element.</p>
+  </Karta>
+
+  <h3>Rayquaza – hit list życzeń, kupuj wcześniej</h3>
+
+  <Karta
+    nr="72168"
+    nazwa="Pokémon: Rayquaza"
+    rocznik={2026}
+    elementy={1183}
+    rrp={559.99}
+    dlaKogo="dziecko 10–12 lat, które zna Pokémony; model do zbudowania i ustawienia"
+    dobra={435}
+    bardzoDobra={400}
+    prog="poniżej 435 zł – i raczej przed Black Friday niż po"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Legendarny zielony smok z pierwszej kolekcji LEGO Pokémon, prawie tysiąc dwieście elementów, po zbudowaniu długi model do ustawienia na półce. To <b>flagowy zestaw najgłośniejszej nowej licencji tego roku</b> i przewidywany hit grudniowych list życzeń.</p>
+    <p>I dlatego jedyna pozycja na liście, przy której nie radzimy czekać na ostatnią promocję: zestaw jest z sierpnia, sklepy dopiero budują zapasy, a w grudniu ryzyko pustej półki jest większe niż ryzyko przepłacenia o kilka procent. Dla dziecka, które nie zna Pokémonów, to po prostu duży smok – wtedy zamek powyżej da więcej.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Siedem z ośmiu zestawów kupuje się najtaniej w okolicach <b>Black Friday, 27 listopada</b>; Rayquazę – gdy tylko zobaczysz dobrą cenę. Zamówienia składaj do 15 grudnia, później kurierzy nie gwarantują dostawy przed Wigilią. Terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, listę znikających w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <p>Mniejszy prezent na 6 grudnia znajdziesz w <a href="/prezentowniki/na-mikolaja/">prezentowniku na Mikołaja</a>, prezenty dla dorosłych w <a href="/prezentowniki/swieta-dla-doroslych/">świątecznym prezentowniku dla dorosłych</a>, a przewodniki po seriach – od City po Harry'ego Pottera – w <a href="/prezentowniki/">dziale Prezentowniki</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+</Prezentownik>
