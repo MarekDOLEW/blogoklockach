@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-23"
+  "zaktualizowano": "2026-09-24"
  },
  "przecieki": [
   {
@@ -396,6 +396,46 @@
    ],
    "dodano": "2026-09-23",
    "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "cutelings",
+   "numer": null,
+   "nazwa": "LEGO Cutelings — nowy motyw",
+   "seria": null,
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Aus der LEGO Gerüchteküche”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-23"
+    }
+   ],
+   "dodano": "2026-09-24",
+   "uwagi": "Nowy motyw wymieniony w przeglądzie plotek StoneWars. Bez numeru, bez ceny, bez terminu — serwis sam podpisuje tekst jako „Gerüchteküche”, czyli kuchnię plotek. Jeśli się potwierdzi, byłby to nowy motyw w katalogu, więc warto trzymać wpis dla tablicy trafności.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "icons-buldog-francuski",
+   "numer": null,
+   "nazwa": "Icons: buldog francuski",
+   "seria": "Icons",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Aus der LEGO Gerüchteküche”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-23"
+    }
+   ],
+   "dodano": "2026-09-24",
+   "uwagi": "Wymieniony w tym samym przeglądzie plotek StoneWars. Bez numeru, elementów, ceny i terminu. Icons ma już serię modeli zwierząt, więc kolejny pies jest wiarygodny, ale to nie jest dowód.",
    "rozstrzygniecie": null
   }
  ]

@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-23",
+  "data_aktualizacji": "2026-09-24",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1173,
+  "liczba_setow": 1176,
   "sety": [
     "10280",
     "10281",
@@ -874,6 +874,8 @@
     "72060",
     "72061",
     "72150",
+    "72152",
+    "72153",
     "72154",
     "72155",
     "72156",
@@ -1175,7 +1177,8 @@
     "80118",
     "80119",
     "80120",
-    "80121"
+    "80121",
+    "910059"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1499,6 +1502,96 @@
       "numer": "31224",
       "nazwa": "Art — rezerwacja 2027",
       "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43035",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43036",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43037",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43038",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43039",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43040",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43041",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43042",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43043",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43044",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43046",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43057",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43058",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43059",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43060",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
       "premiera": "2027"
     }
   ],
@@ -5871,7 +5964,8 @@
     "korekta_2026_09_06": "Wczorajsze liczby (222/211) liczylem filtrem category in ('Normal','Collection'). Dwa rekordy — 11227 i 11229 — maja kategorie '{t.b.a.}' i wypadly z filtra. To ta sama pomylka co z motywem 'tbd': '{t.b.a.}' nie oznacza smiecia, tylko rekord, ktoremu kategorii jeszcze nie nadano, czyli najswiezszy. Poprawione: 224 rekordy, 213 bez nazwy.",
     "nowe_rezerwacje_2026_09_06": "76480 (Harry Potter), 30758 (Super Mario), 11227 (Gabby's Dollhouse), 11229 (tbd)",
     "kohorta_kpop_2026_09_07": "KPop Demon Hunters: 1 numer 05.09 -> 6 numerow 07.09 (30746, 72539, 72541, 72542, 72544 zalozone 06.09 w ciagu jednej minuty). Wszystkie z kategoria '{t.b.a.}' — czyli takie, ktore filtr sprzed poprawki z 06.09 by pominal. Zgodnie z wzorcem rezerwacji: rozmiar fali jest wiarygodny, termin nadania nazw nie.",
-    "nowe_rezerwacje_2026_09_21": "Szesc pustych rekordow: 11394, 11396, 11410 (Icons), 30756 (Pokemon), 31222 i 31224 (Art). MOTYW 'Art' pojawia sie w roczniku 2027 po raz pierwszy — w pelnym zrzucie z 05.09 go nie bylo. Seria Art byla u LEGO wygaszana, wiec dwa nowe numery moga oznaczac jej powrot. To interpretacja, nie fakt: rekordy sa puste, zadne zrodlo o tym nie pisze."
+    "nowe_rezerwacje_2026_09_21": "Szesc pustych rekordow: 11394, 11396, 11410 (Icons), 30756 (Pokemon), 31222 i 31224 (Art). MOTYW 'Art' pojawia sie w roczniku 2027 po raz pierwszy — w pelnym zrzucie z 05.09 go nie bylo. Seria Art byla u LEGO wygaszana, wiec dwa nowe numery moga oznaczac jej powrot. To interpretacja, nie fakt: rekordy sa puste, zadne zrodlo o tym nie pisze.",
+    "blok_editions_2026_09_24": "15 rezerwacji Editions zalozonych 24.09 miedzy 03:44 a 03:45: 43035-43044, 43046, 43057-43060. To najwiekszy jednodniowy blok rezerwacji, jaki widzielismy. Editions to linia, w ktorej siedzi m.in. 43033 (koszulka reprezentacji USA 2026), wiec blok tej wielkosci moze oznaczac serie sportowa albo rozbudowe linii. To interpretacja, nie fakt — rekordy sa puste. Zgodnie z korekta wzorca z 31.08: rozmiar fali jest wiarygodny, termin nadania nazw nie."
   },
   "harry_potter_hbo": {
     "ustalenie": "2026-09-05 — potwierdzone DWOMA zrodlami newsowymi.",
@@ -6016,5 +6110,12 @@
     "przecieki": "Dopisane 11390 (Shenlong / Dragon Ball, pewnosc 'srednia' — StoneWars opisuje TEASER OD LEGO) oraz 11388 (Wenecja, pewnosc 'niska' — jedno zrodlo ze znakiem zapytania w tytule). Oba byly dotad tylko w zapowiedziach sledzonych, a od 15.09 miejscem na takie rzeczy jest przecieki.json. Teaser LEGO zapowiada temat, nie dane katalogowe — karta 11390 w Brickset jest pusta, wiec do sety.json nie wchodzi.",
     "50090_filtr": "Dostal date startu 2027-02-01. Kategoria 'Normal', motyw 'Promotional', availability 'LEGOLAND exclusive'. Moj filtr przepuscil go jako NOWY, bo sprawdza motyw tylko przy kategorii '{t.b.a.}'. POPRAWKA: o odsianiu przesadza pole availability — 'LEGOLAND exclusive' i 'Magazine gift' nigdy nie sa dystrybucja detaliczna w Polsce.",
     "klon_plytki": "Sprawdzone dzis: 'test -f .git/shallow' zwraca PLYTKI, 'git rev-list --count origin/main' daje 83. Klon jest plytki, wiec brak starych commitow w logu nie znaczy, ze ich nie ma. Moja uwaga z 21.09 o przepisanej historii byla nietrafiona."
+  },
+  "przeglad_2026_09_24": {
+    "ceny_uzupelnione": "21373 Downton Abbey dostal cene katalogowa 1299,99 zl, a 10371 Przytulne rosliny 81,99 zl. Obie z feedu sklepu LEGO (pole sklep='lego', data 2026-09-22), czyli od producenta, nie od posrednika — to jest cena katalogowa, nie oferta. Teksty dla AFOL przepisane na realne liczby: 0,28 zl za element przy 21373 i 0,33 zl przy 10371.",
+    "trafnosc_przelicznika": "Moje wczesniejsze oszacowania z przelicznika rocznika 2026 (4,22): 21373 okolo 1270 zl wobec 1299,99 faktycznych (2% ponizej), 10371 okolo 85 zl wobec 81,99 (4% powyzej). Przelicznik trzyma sie w granicach kilku procent — ale nadal podajemy go jako oszacowanie, nie cene.",
+    "przecieki": "Dopisane dwa wpisy bez numerow z przegladu plotek StoneWars: 'cutelings' (nowy motyw) i 'icons-buldog-francuski'. Oba pewnosc 'niska' — serwis sam podpisuje tekst jako kuchnie plotek.",
+    "40900": "Rekord ruszony: pole released zmienilo sie na true. Gratis jest w obiegu. Ceny nadal brak i nie bedzie — to GWP.",
+    "odsiane": "5010478 (koc, Gear) i L0002227 (Magazine gift). Filtr po polu availability zadzialal."
   }
 }
