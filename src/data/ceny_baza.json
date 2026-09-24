@@ -3,7 +3,7 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-23",
+  "zaktualizowano": "2026-09-24",
   "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-22 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
  },
  "21372": {
@@ -198,9 +198,9 @@
  "72154": {
   "nazwa": "Kultowy Pokéball z Trenerami",
   "cena_katalogowa": 1129.99,
-  "najnizsza_cena": 1123.45,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 1099.99,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "planetaklockow"
  },
  "42238": {
   "nazwa": "Motocykl Ducati Desmo450 MX Factory",
@@ -835,9 +835,9 @@
  "77079": {
   "nazwa": "Pomidorek",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41.48,
-  "najnizsza_data": "2026-08-29",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 40.99,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43017": {
   "nazwa": "Kask Oscar Piastri McLaren Mastercard F1 Team",
@@ -1066,8 +1066,8 @@
  "42694": {
   "nazwa": "Furgonetka z pizzą",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.51,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 43.45,
+  "najnizsza_data": "2026-09-24",
   "najnizsza_sklep": "mediaexpert"
  },
  "42697": {
@@ -1402,9 +1402,9 @@
  "76788": {
   "nazwa": "Akademia Nevermore",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 293.45,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 289.99,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "planetaklockow"
  },
  "10464": {
   "nazwa": "Kryjówka Pajęczej Drużyny",
@@ -3772,8 +3772,8 @@
  "11036": {
   "nazwa": "Kreatywne pojazdy",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 164.98,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 164.53,
+  "najnizsza_data": "2026-09-24",
   "najnizsza_sklep": "mediaexpert"
  },
  "42649": {
@@ -7531,9 +7531,9 @@
  "43217": {
   "nazwa": "Dom z bajki „Odlot”",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 169.99,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 169.9,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10416": {
   "nazwa": "Opieka nad zwierzętami na farmie",
@@ -7923,8 +7923,8 @@
  "11379": {
   "nazwa": "Księgarnia — zakątek z książkami",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 553.45,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 549.99,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "planetaklockow"
  }
 }
