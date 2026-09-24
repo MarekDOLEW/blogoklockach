@@ -1,0 +1,224 @@
+---
+import Prezentownik from '../../layouts/PrezentownikSerii.astro';
+import Galeria from '../../components/GaleriaZestawow.astro';
+import Karta from '../../components/KartaPrezentu.astro';
+
+// Prezentownik ŚWIĄTECZNY dla dorosłych (persona AFOL, kupujący często partner
+// albo rodzic dorosłego fana). Drabina przesunięta w górę: 180 zł – 1 400 zł.
+// Dobór po researchu Bricksetu (co dorośli faktycznie mają w kolekcjach,
+// roczniki 2025–26): Icons > Star Wars > Botanicals > Ideas > Technic; osiem
+// różnych typów kolekcji, tylko zestawy z realną przeceną w zwykłych sklepach
+// (ekskluzywy LEGO.com bez rynku odpadły). Karta researchu:
+// redakcja/karty/prezentownik-swieta-dorosli.md
+// Kontrola przy aktualizacji: 42177 znika w grudniu 2026 – po wycofaniu zamienić.
+const SKLEPY = ['mediaexpert', 'allegro', 'planetaklockow'];
+
+export const meta = {
+  url: '/prezentowniki/swieta-dla-doroslych/',
+  kategoria: 'Prezentownik',
+  kolejnosc: 0,
+  znacznik: 'Święta · dorośli',
+  tytul: 'Prezent z LEGO dla dorosłego na święta',
+  opis: 'Osiem zestawów dla dorosłych fanów: od Game Boya po McLarena P1. Kolekcje, auta i Technic – wybrane po tym, co dorośli naprawdę kupują.',
+  data: '2026-09-24',
+  zaktualizowano: '2026-09-24',
+  okladka: '11381',
+};
+
+const zestawy = [
+  { nr: '72046', nazwa: 'Game Boy', etykieta: 'Do 180 zł', rrp: 249.99, dobra: 180 },
+  { nr: '43279', nazwa: 'Pixar: WALL-E i Ewa', etykieta: 'Do 220 zł', rrp: 299.99, dobra: 220 },
+  { nr: '11505', nazwa: 'Botanicals: Grzyby leśne', etykieta: 'Do 245 zł', rrp: 339.99, dobra: 245 },
+  { nr: '21366', nazwa: 'Ideas: Pływające wydry', etykieta: 'Do 345 zł', rrp: 469.99, dobra: 345 },
+  { nr: '11381', nazwa: 'Icons: Jaguar E-Type', etykieta: 'Do 440 zł', rrp: 599.99, dobra: 440 },
+  { nr: '21062', nazwa: 'Architecture: Fontanna di Trevi', etykieta: 'Do 490 zł', rrp: 689.99, dobra: 490 },
+  { nr: '42177', nazwa: 'Technic: Mercedes-Benz G 500', etykieta: 'Do 760 zł', rrp: 1079.99, dobra: 760 },
+  { nr: '42172', nazwa: 'Technic: McLaren P1', etykieta: 'Wielki prezent', rrp: 1949.99, dobra: 1400 },
+];
+
+const faq = [
+  {
+    q: 'Co dorośli fani LEGO kupują najczęściej?',
+    a: 'Sprawdziliśmy to na Bricksecie, największej bazie kolekcji na świecie, dla roczników 2025 i 2026. Wśród zestawów 18+ najwięcej posiadaczy ma seria Icons, potem Star Wars, Botanicals, Ideas i Technic. Pojedyncze hity to Game Boy, Mini Orchid, logo Star Wars, WALL-E z Ewą i hełmy z Gwiezdnych wojen – czyli albo tanie, szybkie budowy z nostalgią, albo modele na półkę z licencją. Duże auta Technic mają mniej posiadaczy, ale to one są najczęstszym „wielkim prezentem" – bo rzadko kupuje się je sobie samemu.',
+  },
+  {
+    q: 'Czy dorosły ucieszy się z zestawu „dla dzieci"?',
+    a: 'Zwykle nie, i to jest najczęstszy błąd przy prezencie dla fana. Zestawy 18+ różnią się od dziecięcych nie trudnością, tylko celem: buduje się je dla samej budowy i stawia na półce, a nie bawi. Jeśli obdarowany ma w domu więcej gablot niż pudełek z minifigurkami, kupuj z listy powyżej, nie z działu dla dzieci.',
+  },
+  {
+    q: 'Ile trwa budowa takich zestawów?',
+    a: 'Game Boy i grzyby to jeden wieczór, WALL-E i wydry dwa–trzy. Jaguar i fontanna to weekend spokojnego budowania. Mercedes G 500 zajmuje kilkanaście godzin, McLaren P1 kilkadziesiąt – to prezent na całe ferie, nie na Wigilię. Ten czas jest częścią prezentu, więc przy dużych zestawach warto wiedzieć, czy obdarowany go w ogóle ma.',
+  },
+  {
+    q: 'Czy w sklepach jest taniej niż w LEGO.com i kiedy kupować?',
+    a: 'Przy wszystkich ośmiu zestawach tak – rabaty w zwykłych sklepach sięgają 25–30% ceny katalogowej. Najgłębsze przeceny wypadają w okolicach Black Friday, 27 listopada; przy Technicu i Icons z roczników 2024–2025 realne są wtedy zejścia o kolejne kilka procent. Wyjątkiem jest Mercedes G 500: LEGO kończy jego produkcję w grudniu 2026, więc czekanie na ostatnią promocję może skończyć się pustą półką.',
+  },
+];
+---
+<Prezentownik
+  title="Prezent z LEGO dla dorosłego na święta: osiem zestawów, które fani naprawdę kupują"
+  opis="Osiem zestawów LEGO na święta dla dorosłego fana – od Game Boya za 180 zł po McLarena P1. Kolekcje, auta i Technic wybrane po tym, co dorośli mają w kolekcjach, z progami cen w zwykłych sklepach."
+  data="2026-09-24"
+  zaktualizowano="2026-09-24"
+  faq={faq}
+  zestawy={zestawy}
+>
+  <p>Prezent dla dorosłego fana ma jedną pułapkę, której nie ma przy dziecku: <b>on już wie, czego chce, i zwykle to ma</b>. Dlatego zamiast zgadywać, sprawdziliśmy na Bricksecie, co dorośli naprawdę trzymają w kolekcjach z dwóch ostatnich roczników – i z tej listy wybraliśmy osiem zestawów, które kupuje się chętnie, a rzadko samemu.</p>
+
+  <p>Druga rzecz: ceny. Największe hity dorosłych – Tudor Corner, Shire, Minas Tirith – to ekskluzywy sklepu LEGO, gdzie nie ma czego porównywać. Na tej liście są wyłącznie zestawy, które <b>w zwykłych sklepach kosztują o ćwierć do jednej trzeciej mniej niż w cenniku</b>, a przy jednym z nich liczy się też termin: Mercedes G 500 znika z produkcji w grudniu.</p>
+
+  <Galeria zestawy={zestawy} />
+
+  <h2>Do 180 zł: Game Boy – najchętniej kupowany zestaw dla dorosłych</h2>
+
+  <Karta
+    nr="72046"
+    nazwa="Super Mario: Game Boy"
+    rocznik={2025}
+    elementy={421}
+    rrp={249.99}
+    dlaKogo="każdy, kto miał Game Boya w latach dziewięćdziesiątych; najbezpieczniejszy prezent z tej listy"
+    dobra={180}
+    bardzoDobra={165}
+    prog="poniżej 180 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Konsola w skali jeden do jednego, z dwoma kartridżami i lentykularnymi ekranami, które udają animację. Czterysta dwadzieścia jeden elementów to szybka budowa na jeden wieczór, a mimo to <b>najczęściej posiadany zestaw dla dorosłych z rocznika 2025</b> na Bricksecie, z oceną 4,7 na 5.</p>
+    <p>Działa dokładnie tam, gdzie inne prezenty zawodzą: u osoby, która „nie zbiera LEGO", ale miała Game Boya. Jeśli obdarowany jest kolekcjonerem z krwi i kości, prawdopodobnie już go ma – wtedy niżej.</p>
+  </Karta>
+
+  <h2>Do 220 zł: WALL-E i Ewa – komplet postaci z filmu</h2>
+
+  <Karta
+    nr="43279"
+    nazwa="Disney i Pixar: WALL-E i Ewa"
+    rocznik={2025}
+    elementy={811}
+    rrp={299.99}
+    dlaKogo="dorosły, który ma film na liście ulubionych; także nastolatek"
+    dobra={220}
+    bardzoDobra={200}
+    prog="poniżej 220 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Oba roboty z ruchomymi elementami plus para mniejszych bohaterów w jednym pudełku. To jeden z najlepiej ocenianych zestawów dla dorosłych w ogóle – <b>4,6 na 5 przy ponad stu głosach</b> i ponad pięć tysięcy egzemplarzy w kolekcjach – a przy tym kosztuje mniej niż większość pozycji Icons.</p>
+    <p>Poprzedni WALL-E z serii Ideas jest od lat wycofany i drogi na rynku wtórnym, więc ten zestaw domyka temat dla tych, którzy tamtego nie zdążyli kupić. Ryzyko: obdarowany musi lubić film, nie wystarczy, że lubi Pixara.</p>
+  </Karta>
+
+  <h2>Do 245 zł: grzyby leśne – Botanicals poza kwiatami</h2>
+
+  <Karta
+    nr="11505"
+    nazwa="Botanicals: Grzyby leśne"
+    rocznik={2026}
+    elementy={806}
+    rrp={339.99}
+    dlaKogo="osoba, która ma już bukiet albo orchideę z tej linii i nie chce kolejnego wazonu"
+    dobra={245}
+    bardzoDobra={220}
+    prog="poniżej 245 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Botanicals to trzecia najczęściej kupowana seria wśród dorosłych, ale po kilku latach bukietów i storczyków większość fanów ma już to, co chciała. Grzyby są pierwszym w tej linii motywem, który nie jest kwiatem – <b>na Bricksecie zebrały 4,5 na 5</b>, najwięcej z tegorocznych roślin.</p>
+    <p>Osiemset elementów to dwa spokojne wieczory. Zestaw stoi na półce jak każdy Botanicals; jeśli obdarowany nie ma jeszcze nic z tej serii, bezpieczniejszym wejściem będzie bukiet tulipanów, ale grzyby zapamięta lepiej.</p>
+  </Karta>
+
+  <h2>Do 345 zł: pływające wydry – Ideas ze zwierzętami</h2>
+
+  <Karta
+    nr="21366"
+    nazwa="Ideas: Pływające wydry"
+    rocznik={2026}
+    elementy={1234}
+    rrp={469.99}
+    dlaKogo="dorosły, który lubi projekty społeczności i modele do postawienia poza gablotą z klockami"
+    dobra={345}
+    bardzoDobra={310}
+    prog="poniżej 345 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Para wydr trzymających się za łapy na tafli wody – projekt, który przeszedł głosowanie fanów w programie Ideas. Ponad tysiąc dwieście elementów przy cenie poniżej trzystu pięćdziesięciu złotych daje <b>przelicznik lepszy niż większość Ideas</b>, gdzie zwykle dopłaca się do samego faktu, że projekt wygrał.</p>
+    <p>Zestawy zwierzęce z Ideas mają odbiorców daleko poza światem klocków – to prezent, który nie wymaga „bycia fanem LEGO". Dla osoby zbierającej wyłącznie licencje będzie za spokojny.</p>
+  </Karta>
+
+  <h2>Do 440 zł: Jaguar E-Type – auto Icons dla petrolheada</h2>
+
+  <Karta
+    nr="11381"
+    nazwa="Icons: Jaguar E-Type"
+    rocznik={2026}
+    elementy={1673}
+    rrp={599.99}
+    dlaKogo="miłośnik klasycznej motoryzacji; prezent dla ojca albo partnera, który „nie bawi się klockami”"
+    dobra={440}
+    bardzoDobra={400}
+    prog="poniżej 440 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Klasyk z lat sześćdziesiątych w skali Icons, z otwieraną maską i drzwiami. Tysiąc siedemset elementów za mniej niż czterysta pięćdziesiąt złotych to <b>0,26 zł za element – najlepszy przelicznik na tej liście</b>, a Icons to seria, którą dorośli kupują najchętniej ze wszystkich.</p>
+    <p>Auta Icons po wycofaniu zwykle drożeją, więc to także rozsądny zakup „na przyszłość". Zestaw jest z sierpnia 2026, więc na najgłębsze przeceny trzeba poczekać do Black Friday – czterysta czterdzieści to dobra cena, poniżej czterystu bardzo dobra.</p>
+  </Karta>
+
+  <h2>Do 490 zł: Fontanna di Trevi – pamiątka z podróży</h2>
+
+  <Karta
+    nr="21062"
+    nazwa="Architecture: Fontanna di Trevi"
+    rocznik={2025}
+    elementy={1880}
+    rrp={689.99}
+    dlaKogo="osoba, która była w Rzymie albo planuje; dorosły spoza świata klocków"
+    dobra={490}
+    bardzoDobra={450}
+    prog="poniżej 490 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Największy model Architecture z rocznika 2025: fasada pałacu Poli i basen fontanny z przezroczystych elementów, prawie tysiąc dziewięćset klocków. Architecture jest tą serią LEGO, którą <b>kupuje się na pamiątkę, nie do kolekcji</b> – dlatego działa u ludzi, którzy nigdy nie weszli do sklepu z klockami.</p>
+    <p>Ocena 4,2 na 5 przy ponad dwóch tysiącach posiadaczy to solidny, sprawdzony odbiór. Rabat w sklepach sięga dziś 30%, więc pięćset złotych z cennika zostaje w kieszeni – to jeden z lepszych momentów na Architecture w tym roku.</p>
+  </Karta>
+
+  <h2>Do 760 zł: Mercedes G 500 – Technic, który znika w grudniu</h2>
+
+  <Karta
+    nr="42177"
+    nazwa="Technic: Mercedes-Benz G 500 PROFESSIONAL Line"
+    rocznik={2024}
+    elementy={2891}
+    rrp={1079.99}
+    status="znika"
+    dlaKogo="dorosły albo doświadczony nastolatek, który chce mechaniki, nie tylko wyglądu"
+    dobra={760}
+    bardzoDobra={700}
+    prog="poniżej 760 zł – przy wycofaniu w grudniu nie warto grać o ostatnie kilkadziesiąt złotych"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Prawie trzy tysiące elementów, skrzynia biegów i <b>trzy blokady mechanizmów różnicowych</b> – rozwiązanie, którego nie ma w większości modeli terenowych Technic. 0,26 zł za element to bardzo dobra stawka jak na Technica z licencją; bolidy F1 z tej linii kosztują za element wyraźnie więcej.</p>
+    <p><b>Wycofanie przewidziane na grudzień 2026.</b> To jedyna pozycja na tej liście, przy której czekanie na promocję jest ryzykiem: model jest z 2024 roku, sklepy wyprzedają zapasy i po zniknięciu z półek Technic tej wielkości wraca tylko na rynku wtórnym, drożej.</p>
+  </Karta>
+
+  <h2>Wielki prezent: McLaren P1 – Technic w skali 1:8</h2>
+
+  <Karta
+    nr="42172"
+    nazwa="Technic: McLaren P1"
+    rocznik={2024}
+    elementy={3893}
+    rrp={1949.99}
+    dlaKogo="dorosły, który ma czas i miejsce: kilkadziesiąt godzin budowy i model długi na ponad pół metra"
+    dobra={1400}
+    bardzoDobra={1300}
+    prog="poniżej 1 400 zł"
+    sklepyPublikacyjne={SKLEPY}
+  >
+    <p>Flagowy Technic 1:8 z ośmiobiegową skrzynią, silnikiem V8 z ruchomymi tłokami i <b>ruchomym spojlerem – funkcją, której nie ma większość modeli tej skali</b>. Prawie cztery tysiące elementów i budowa na całe ferie. Model jest ciężki i nie nadaje się do jeżdżenia; to rzeźba, nie zabawka.</p>
+    <p>Rocznik 2024, bez presji wycofania, a rabat w zwykłych sklepach przekracza 25% – tysiąc czterysta to dobra cena, poniżej tysiąca trzystu bardzo dobra. Jeśli obdarowany ma już Daytonę albo Bugatti z tej linii, P1 nie będzie powtórką: mechanicznie to najlepiej oceniany z nich.</p>
+  </Karta>
+
+  <h2>Kiedy kupować</h2>
+
+  <p>Siedem z ośmiu zestawów nie jest zagrożonych wycofaniem, więc obowiązuje zwykła zasada: <b>najgłębsze przeceny wypadają w okolicach Black Friday, 27 listopada</b>, a Technic i Icons z roczników 2024–2025 potrafią wtedy zejść o kolejne kilka procent. Wyjątkiem jest Mercedes G 500 – tam liczy się dostępność, nie ostatnie złotówki. Terminy zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, listę znikających w dziale <a href="/wycofania/">Wycofania</a>.</p>
+
+  <p>Prezenty po seriach dla dorosłych – <a href="/prezentowniki/lego-icons/">Icons</a>, <a href="/prezentowniki/lego-technic/">Technic</a>, <a href="/prezentowniki/lego-botanicals/">Botanicals</a> – oraz prezentowniki dla dzieci znajdziesz w <a href="/prezentowniki/">dziale Prezentowniki</a>.</p>
+
+  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO. Liczby posiadaczy i oceny pochodzą z serwisu Brickset (stan 24.09.2026).</p>
+</Prezentownik>

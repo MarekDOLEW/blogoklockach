@@ -92,6 +92,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-24 10:15 · CODE · Prezentownik świąteczny dla dorosłych — z researchem Bricksetu
+
+`/prezentowniki/swieta-dla-doroslych/`: osiem zestawów 180–1 400 zł (Game Boy,
+WALL-E i Ewa, Grzyby leśne, Pływające wydry, Jaguar E-Type, Fontanna di Trevi,
+Mercedes G 500 — znika XII 2026, McLaren P1). Research: pełny listing Bricksetu
+2025–26 (594 zestawy) posortowany po liczbie posiadaczy — Icons > Star Wars >
+Botanicals > Ideas > Technic; hity to Game Boy (8 471 posiadaczy, 4,7), WALL-E
+(5 274, 4,6), hełmy SW. Ekskluzywy bez rynku (Tudor Corner, Shire, Minas Tirith)
+świadomie poza listą. Karta: `redakcja/karty/prezentownik-swieta-dorosli.md`.
+Uwaga z danych: 40896 X-Files Laboratorium Scully ma w `sety.json` RRP 81,99 zł
+przy cenie rynkowej ~419 zł — RRP do sprawdzenia (prawdopodobnie 469,99).
+
 ## 2026-09-24 09:30 · CODE · Prezentownik „na Mikołaja" — pierwszy z czterech sezonowych
 
 Brief Marka: Mikołajki (małe zestawy dla dzieci do 300 zł), potem trzy
