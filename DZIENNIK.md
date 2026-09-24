@@ -102,6 +102,11 @@ adwentowych i wycofań grudniowych, terminy (Black Friday 27.11, Mikołajki do
 z akapitu końcowego. Okładka 40809 (piernikowa chatka). Jest w sitemapie
 prezentowników i na listingu działu. Po sezonie zostaje jako evergreen —
 kafelki aktualizować co rok.
+**GSC (Cowork, 24.09 ok. 12:00):** 5 próśb o indeksowanie wysłanych
+(rozdzielnik + 4 prezentowniki), wszystkie „niezindeksowany" przy inspekcji
+(strony sprzed 3 godzin — oczekiwane), limit dzienny nie wyczerpany.
+Kontrola: Kontroler w poniedziałek 28.09 sprawdza, czy pięć adresów jest już
+w indeksie; jeśli nie — druga prośba tylko dla rozdzielnika.
 
 ## 2026-09-24 11:15 · CODE · Prezentownik świąteczny po licencjach + sezonowa trójka na stronie głównej
 
