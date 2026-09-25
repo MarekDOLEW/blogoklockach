@@ -110,6 +110,10 @@ zdanie: „W poście dealowym podaj we frontmatterze `pasek_zestaw: "<nr>"` z nu
 zestawu z tytułu — layout wstawi pasek z ceną pod tytułem.” Prompt Scouta bez zmian
 (F odrzucone). Pomiar skutku: `node scripts/kliki-raport.mjs --dni 14` ok. 9.10 —
 punkt odniesienia 139 realnych kliknięć/14 dni, 0 z prezentowników.
+Uzupełnienie 07:10: Marek wstawił zdanie w panelu (edycja promptu Routine ze
+stałą sesją zadziałała bez delete+create — `updated_at` 07:02, ta sama sesja
+Łowcy); potwierdzone przez `get_trigger`. Kopia w `routine-prompty.md` odświeży
+się w poniedziałek Routine „Harmonogram z konta".
 
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
