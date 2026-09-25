@@ -3,7 +3,7 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-09-24",
+  "zaktualizowano": "2026-09-25",
   "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-22 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
  },
  "21372": {
@@ -1066,8 +1066,8 @@
  "42694": {
   "nazwa": "Furgonetka z pizzą",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 43.45,
-  "najnizsza_data": "2026-09-24",
+  "najnizsza_cena": 43.43,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "42697": {
@@ -1332,9 +1332,9 @@
  "10462": {
   "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 58,
-  "najnizsza_data": "2026-08-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 57.99,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
@@ -1514,8 +1514,8 @@
  "72161": {
   "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 159,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 158.0,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "72156": {
@@ -1945,8 +1945,8 @@
  "10333": {
   "nazwa": "Władca Pierścieni: Barad-dûr",
   "cena_katalogowa": 1999.99,
-  "najnizsza_cena": 1890.5,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 1876.83,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "76210": {
@@ -2008,9 +2008,9 @@
  "10365": {
   "nazwa": "Statek piracki kapitana Jacka Sparrowa",
   "cena_katalogowa": 1499.99,
-  "najnizsza_cena": 1349,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 1279.83,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42129": {
   "nazwa": "Ciężarówka Mercedes-Benz Zetros 4x4",
@@ -2463,8 +2463,8 @@
  "71813": {
   "nazwa": "Dojo cienia Wilczej Maski",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 437.99,
-  "najnizsza_data": "2026-09-22",
+  "najnizsza_cena": 417.99,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "42141": {
@@ -3730,8 +3730,8 @@
  "10474": {
   "nazwa": "Kreatywne pojazdy",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.97,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 52.9,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "75414": {
@@ -4542,9 +4542,9 @@
  "76336": {
   "nazwa": "Spider-Man w samochodzie kontra zvenomowany Wolverine",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.99,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 54.9,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75402": {
   "nazwa": "Myśliwiec ARC-170",
@@ -4759,9 +4759,9 @@
  "40825": {
   "nazwa": "Wieniec na Halloween",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 122.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 119.57,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77249": {
   "nazwa": "Bolid F1 Williams Racing FW46",
@@ -4885,9 +4885,9 @@
  "60479": {
   "nazwa": "Furgonetka policyjnego konwoju więziennego",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.98,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21269": {
   "nazwa": "Wyprawa do pancernikowej kopalni",
@@ -6404,9 +6404,9 @@
  "76445": {
   "nazwa": "Zamek Hogwart: zajęcia z zielarstwa",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 148.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 148.94,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "31129": {
   "nazwa": "Majestatyczny tygrys",
@@ -7104,8 +7104,8 @@
  "40807": {
   "nazwa": "Urodzinowe cyferki",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.9,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 53.3,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "11041": {
@@ -7468,9 +7468,9 @@
  "10447": {
   "nazwa": "Karetka z kierowcą",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.99,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "40856": {
   "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
@@ -7748,8 +7748,8 @@
  "76924": {
   "nazwa": "Mercedes-AMG G 63 i Mercedes-AMG SL 63",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 148.94,
-  "najnizsza_data": "2026-09-22",
+  "najnizsza_cena": 145.99,
+  "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "21266": {
