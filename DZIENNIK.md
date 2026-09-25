@@ -115,6 +115,19 @@ stałą sesją zadziałała bez delete+create — `updated_at` 07:02, ta sama se
 Łowcy); potwierdzone przez `get_trigger`. Kopia w `routine-prompty.md` odświeży
 się w poniedziałek Routine „Harmonogram z konta".
 
+**Otwarte po tej sesji (dla następnego wątku Code):**
+- H z audytu CRO: filtr podrobionego referera na `/idz/` (`src/worker.js`) —
+  czeka na decyzję Marka, dotyka workera.
+- 40896 X-Files Laboratorium Scully: błędne RRP 81,99 zł w `sety.json`
+  (wpis z 25.09 wyżej) — do poprawy po sprawdzeniu w lego.pl.
+- 29.09: zarchiwizować starą sesję Łowcy `session_017FKg5b8kSCwbJd8r7xPrwD`
+  (nowa działa od 23.09).
+- Poniedziałek 28.09: Kontroler sprawdza indeksację 5 stron sezonowych
+  (prezentowniki + rozdzielnik `/prezentowniki/prezenty-pod-choinke/`).
+- Empik dwa zrzuty w tygodniu: Marek nie potwierdził — Routine „Przypomnienie
+  Empik" zostaje raz w tygodniu, dopóki nie powie inaczej.
+- Ok. 9.10: `node scripts/kliki-raport.mjs --dni 14` — skutek CRO.
+
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
 **Zrobione:** poprawki A–G z audytu CRO (`materialy/audyt-cro-hubow-2026-09-25.md`)
