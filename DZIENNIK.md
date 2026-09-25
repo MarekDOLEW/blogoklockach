@@ -92,11 +92,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
-## 2026-09-25 10:30 · CODE · Allegro 25.09: feed „tylko LEGO” znowu 404 — bez zapasowego (decyzja Marka)
+## 2026-09-25 09:15 · CODE · Allegro 25.09: feed „tylko LEGO” znowu 404 — bez zapasowego (decyzja Marka)
 
 **Zrobione:** diagnoza błędu z przebiegu Łowcy (commit `d60fee4`, curl exit 22).
 Główny feed `39967a61…` odpowiada **HTTP 404, pusta treść** (dwa sprawdzenia
-ok. 10:00–10:20). Czyli awaria po stronie Allegro, nie nasza: skrypt, proxy
+ok. 09:00–09:10). Czyli awaria po stronie Allegro, nie nasza: skrypt, proxy
 i sieć są sprawne, a szeroki feed `497662bc…` w tym samym czasie odpowiadał 200.
 To druga taka przerwa (pierwsza 24.08–21.09). Marek: **nie przechodzimy na feed
 zapasowy.** Notka w `feedy.json` (`allegro.uwaga_feed`) mówiła „przełączyć
@@ -135,15 +135,26 @@ się w poniedziałek Routine „Harmonogram z konta".
 **Otwarte po tej sesji (dla następnego wątku Code):**
 - H z audytu CRO: filtr podrobionego referera na `/idz/` (`src/worker.js`) —
   czeka na decyzję Marka, dotyka workera.
+  → zamknięte 25.09: Marek — nie robimy.
 - 40896 X-Files Laboratorium Scully: błędne RRP 81,99 zł w `sety.json`
   (wpis z 25.09 wyżej) — do poprawy po sprawdzeniu w lego.pl.
+  → zamknięte 25.09: RRP poprawne — lego.pl podaje 81,99 zł, 221 el., zestaw
+  promocyjny (GWP), niedostępny; ~419 zł na Allegro to cena rynku wtórnego.
 - 29.09: zarchiwizować starą sesję Łowcy `session_017FKg5b8kSCwbJd8r7xPrwD`
   (nowa działa od 23.09).
+  → 25.09: zgoda Marka; zaplanowane `send_later` na 29.09 07:00 PL
+  (`trig_01TP1mKUB2TX4BSrwD7CeWN2`) — sprawdza commit Łowcy i brak Routine
+  na starej sesji, potem archive_session. Żaden Routine 25.09 jej nie używał.
 - Poniedziałek 28.09: Kontroler sprawdza indeksację 5 stron sezonowych
   (prezentowniki + rozdzielnik `/prezentowniki/prezenty-pod-choinke/`).
+  → zamknięte 25.09: inspekcja API GSC — wszystkie 5 „Submitted and indexed”,
+  crawl 24.09. Uwaga: tej kontroli nie było w prompcie Kontrolera, istniała
+  tylko w dzienniku.
 - Empik dwa zrzuty w tygodniu: Marek nie potwierdził — Routine „Przypomnienie
   Empik" zostaje raz w tygodniu, dopóki nie powie inaczej.
+  → zamknięte 25.09: Marek — raz w tygodniu.
 - Ok. 9.10: `node scripts/kliki-raport.mjs --dni 14` — skutek CRO.
+  → 25.09: zaplanowane `send_later` na 9.10 09:00 PL (`trig_01MCXZFZBymmddVXBNiWk6x1`).
 
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
