@@ -102,7 +102,9 @@ To druga taka przerwa (pierwsza 24.08–21.09). Marek: **nie przechodzimy na fee
 zapasowy.** Notka w `feedy.json` (`allegro.uwaga_feed`) mówiła „przełączyć
 ręcznie przy 404” i została poprawiona. Skrypt bez zmian: przy awarii oferty
 Allegro zostają z ostatnią datą.
-**Stan:** feed Allegro leży, czekamy, aż wróci.
+**Stan:** feed Allegro leży, czekamy, aż wróci. 11:27–11:33 UTC (po sygnale Marka, że Allegro usunęło przerwę):
+404 zmieniło się na **HTTP 200 z pustą treścią** (0 bajtów, 5 prób). `feedy-lego.py` odrzuci to jako „pusty plik”,
+więc nadal nic nie wchodzi. Jeśli Łowca 26.09 znowu zgłosi błąd, zgłosić Allegro, że feed jest pusty.
 **Dla drugiej strony:** Łowca każdego dnia zgłosi to samo, dopóki feed nie wróci.
 Jeśli 404 potrwa dłużej niż kilka dni, Marek sprawdza feed w panelu Allegro
 Affiliate (czy nie wygasł albo nie zmienił ID; nowe ID wpisujemy w `allegro.url`).
@@ -401,11 +403,13 @@ mailowym Łowcy z 23.09 (Code nie widzi rozmowy runnera).
 **Mamy?** — częściowo: `/zestaw/75455/` ma kartę redakcyjną, ale nie mamy żadnego własnego tekstu o tym zestawie.
 **Zrobić:** — krótka forma dealowa „LEGO 75455 Boba Fett trzydzieści procent pod cennikiem". Oś nasza, nie ich: zestaw chodzi w siedmiu sklepach, najtaniej 509 zł wobec 729,99 zł katalogowo, a LEGO.com jest najdroższy. Ich tezy o udziale minifigurki nie powtarzamy — nie mamy danych o cenach minifigurek i nie da się jej sprawdzić.
 **Kto:** — Piotr (tekst)
+→ zamknięte 25.09: decyzja Marka — przekazane Piotrowi mailem (Resend, z kontakt@ w kopii) z cenami z 25.09 (ME 515,59 … LEGO.com 729,99).
 
 **promoklocki.pl · 23.09** — prowadzą osobne wpisy z terminami na każdą kampanię sklepu zewnętrznego: Allegro Smart! Weeks, Allegro Days, Black Weeks, okazje limitowane.
 **Mamy?** — nie: nasz kalendarz mówi ogólnie o „kampaniach sklepów zewnętrznych przed Black Friday", ale nie nazywa żadnej i nie podaje terminu.
 **Zrobić:** — ustalić termin Allegro Black Weeks 2026 i dopisać go do sekcji listopadowej `/kalendarz-promocji-lego/`; to jedyna kampania sklepowa, która realnie wpada w nasz szczyt sezonu.
 **Kto:** — Code (dane, strona)
+→ zamknięte 25.09: w kalendarzu jako „przewidywane” (sekcja `#allegro-black-weeks`, 2025: 31.10–1.12, 2024: start 4.11). Termin 2026 wpisać, gdy Allegro ogłosi. Tekstu o Black Weeks nie mieliśmy — temat poszedł mailem do Piotra.
 
 
 ## 2026-09-22 14:40 · CODE · Trzy rankingi Piotra + karta 75192 na stronie
@@ -522,6 +526,7 @@ Kontrolera.
 **Mamy?** — tak: ceny uzupełnione w tym przebiegu, `ROZBIEŻNYCH: 0`, liczba wpisów z ceną 4661 → 4773.
 **Zrobić:** — zmiana w `scripts/kontrola-rrp.mjs`: osobny licznik „puste ceny, a źródło je zna", żeby następna taka luka wyszła sama, zamiast czekać na przypadek.
 **Kto:** — Code (dane, strona)
+→ zamknięte 25.09: licznik „PUSTYCH, A ŹRÓDŁO ZNA CENĘ” liczy się do kodu wyjścia; pierwszy przebieg znalazł 1 (40896, uzupełnione 81,99). `--napraw` zachowuje teraz wcięcie pliku (wcześniej przepisałby cały `katalog.json`).
 
 
 ## 2026-09-22 06:00 · CODE · Naprawy po dwóch dniach awarii runnerów: Dane wt w trwałej sesji, Scout z regułą dowodu, luka 30732
