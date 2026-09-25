@@ -92,6 +92,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-25 09:30 · CODE · Audyt CRO hubów — raport `materialy/audyt-cro-hubow-2026-09-25.md`
+
+Pomiar układu (Playwright, 390 i 1280 px) + kliknięcia z Analytics Engine.
+Fakty: 156 „ludzkich" kliknięć w 14 dni, z czego 17 to bot z podrobionym
+refererem `/zestaw/x/` (16.09) — realnie ~10 dziennie; **78% z hubów, 0 z
+prezentowników**, 8% z adresów `utm_source=chatgpt.com`. Na telefonie żaden hub
+nie pokazuje ceny ani przycisku na pierwszym ekranie (tabela 776–1 320 px,
+zgięcie 844), a poniżej tabeli — 85% długości strony — nie ma żadnego przycisku
+sklepu. Poprawki po wpływie: A cena+przycisk nad zgięciem (hub), B dolny
+przycisk/pasek, C prezentowniki z przyciskami (przed BF), D post dealowy,
+E pasek zaufania (Allegro/dostawa), F dowód społeczny z Bricksetu (pole w
+sety.json, Scout), G etykiety przycisków, H worker: referer bota (zgoda Marka).
+
 ## 2026-09-24 11:45 · CODE · Rozdzielnik sezonu `/prezentowniki/prezenty-pod-choinke/` (Radar 24.09 → zrobione)
 
 Decyzja Marka: robimy, adres `prezenty-pod-choinke` (nie samo „pod choinkę").
