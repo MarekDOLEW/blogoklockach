@@ -21,14 +21,18 @@
 // Co robi skrypt:
 //   1. porównuje katalog.json ze źródłami zweryfikowanymi (sety.json,
 //      ceny_baza.json) tam, gdzie set występuje w obu — to miara błędu;
-//   2. wypisuje ceny, których nie ma w żadnym zweryfikowanym wpisie i które
+//   2. liczy wpisy BEZ ceny, dla których źródło zweryfikowane ją zna (Radar
+//      22.09.2026: porównanie brało tylko wpisy z ceną, więc 112 pustych cen
+//      przeleżało niezauważonych) — liczą się jak rozbieżność;
+//   3. wypisuje ceny, których nie ma w żadnym zweryfikowanym wpisie i które
 //      nie leżą na polskiej drabinie cenowej — kandydatów do sprawdzenia.
 //
 // Użycie:
 //   node scripts/kontrola-rrp.mjs           # raport
 //   node scripts/kontrola-rrp.mjs --napraw  # nadpisz katalog danymi zweryfikowanymi
 //
-// Kod wyjścia 1, gdy są rozbieżności — nadaje się do bramki przed commitem.
+// Kod wyjścia 1, gdy są rozbieżności albo puste ceny, które źródło zna —
+// nadaje się do bramki przed commitem.
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
@@ -61,9 +65,13 @@ for (const s of Object.values(sety)) if (s.cena_katalogowa) drabina.add(s.cena_k
 for (const [nr, w] of Object.entries(rrpPotwierdzone)) if (nr !== '_meta' && w.cena) drabina.add(w.cena);
 
 const wpisy = [];
+const puste = [];
 for (const [seria, lista] of Object.entries(katalog)) {
   if (seria === '_meta' || !Array.isArray(lista)) continue;
-  for (const s of lista) if (s.cena_katalogowa) wpisy.push({ ...s, seria, wpis: s });
+  for (const s of lista) {
+    if (s.cena_katalogowa) wpisy.push({ ...s, seria, wpis: s });
+    else if (zweryfikowana(s.numer) !== null) puste.push({ ...s, seria, wpis: s, pewna: zweryfikowana(s.numer) });
+  }
 }
 
 const rozbiezne = [];
@@ -79,6 +87,10 @@ console.log(`ROZBIEŻNYCH: ${rozbiezne.length}`);
 for (const r of rozbiezne.slice(0, 40)) {
   const kierunek = r.cena_katalogowa > r.pewna ? 'zawyżona' : 'zaniżona';
   console.log(`  ${r.numer.padEnd(8)} ${r.seria.padEnd(16)} katalog ${String(r.cena_katalogowa).padStart(8)} | pewna ${String(r.pewna).padStart(8)}  (${kierunek})`);
+}
+console.log(`PUSTYCH, A ŹRÓDŁO ZNA CENĘ: ${puste.length}`);
+for (const r of puste.slice(0, 40)) {
+  console.log(`  ${r.numer.padEnd(8)} ${r.seria.padEnd(16)} katalog    pusta | pewna ${String(r.pewna).padStart(8)}`);
 }
 
 const nieNaDrabinie = wpisy.filter((w) => zweryfikowana(w.numer) === null && !drabina.has(w.cena_katalogowa));
@@ -120,15 +132,18 @@ for (const r of rynkowe.slice(0, 30)) {
   console.log(`  ${r.numer.padEnd(8)} katalog ${String(r.cena_katalogowa).padStart(8)} | rynek ${String(r.rynek).padStart(8)}  (${potw})`);
 }
 
-if (naprawiaj && rozbiezne.length) {
+if (naprawiaj && (rozbiezne.length || puste.length)) {
   // Kształt pliku zachowujemy dokładnie taki, jaki zastaliśmy — RUNBOOK
-  // („Stabilność formatu plików JSON"): katalog.json ma wcięcie 1 spacji i NIE
-  // kończy się znakiem nowej linii. Wcześniejsza wersja dopisywała `\n`, czyli
+  // („Stabilność formatu plików JSON"): wcięcie i końcowy znak nowej linii
+  // zostają takie, jakie są w pliku. Wcześniejsza wersja dopisywała `\n`, czyli
   // do diffu z poprawkami cen doklejała zmianę formatu. Round-trip sprawdzamy
   // przed zapisem, żeby wypisać, ile linii zmienia samo formatowanie.
   const przed = readFileSync(sciezka('katalog.json'), 'utf8');
   const konczyNowaLinia = przed.endsWith('\n');
-  const serializuj = () => JSON.stringify(katalog, null, 1) + (konczyNowaLinia ? '\n' : '');
+  // Wcięcie bierzemy z pliku (25.09.2026 było już 2 spacje, a stała 1 przepisywała
+  // cały katalog przy uzupełnieniu jednej ceny).
+  const wciecie = przed.match(/^\{\n( +)/)?.[1].length ?? 1;
+  const serializuj = () => JSON.stringify(katalog, null, wciecie) + (konczyNowaLinia ? '\n' : '');
 
   const bezZmian = serializuj();
   if (bezZmian !== przed) {
@@ -146,10 +161,10 @@ if (naprawiaj && rozbiezne.length) {
     );
   }
 
-  for (const r of rozbiezne) r.wpis.cena_katalogowa = r.pewna;
+  for (const r of [...rozbiezne, ...puste]) r.wpis.cena_katalogowa = r.pewna;
   writeFileSync(sciezka('katalog.json'), serializuj());
-  console.log(`Naprawiono ${rozbiezne.length} wpisów w katalog.json.`);
+  console.log(`Naprawiono ${rozbiezne.length} rozbieżnych i uzupełniono ${puste.length} pustych wpisów w katalog.json.`);
   process.exit(0);
 }
 
-process.exit(rozbiezne.length ? 1 : 0);
+process.exit(rozbiezne.length || puste.length ? 1 : 0);

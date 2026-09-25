@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-22"
+zaktualizowano: "2026-09-25"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -25,6 +25,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
+<li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
 <li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta</b> – ostatnie terminy dostaw przed Wigilią i ostatnia szansa na wycofywane zestawy</a></li>
@@ -167,10 +168,17 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 | Kiedy | Co się dzieje |
 |---|---|
-| ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w sklepach zewnętrznych |
+| ok. 1.11–30.11 | [Allegro Black Weeks](#allegro-black-weeks) – najdłuższa kampania sklepu zewnętrznego w sezonie |
+| ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w pozostałych sklepach zewnętrznych |
 | ok. 21–26.11 | Insiders Weekend na LEGO.com: podwójne punkty + wczesny dostęp do ofert |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
+
+<h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
+
+Jedyna kampania sklepu zewnętrznego, która obejmuje cały nasz szczyt sezonu. W 2025 roku trwała od 31 października do 1 grudnia (termin z ogłoszenia Allegro dla sprzedających), w 2024 ruszyła 4 listopada. Terminu na 2026 Allegro jeszcze nie podało. Jeśli wzorzec się utrzyma, kampania ruszy na przełomie października i listopada i skończy się w Cyber Monday, 30 listopada. Datę wpiszemy, gdy Allegro ją ogłosi.
+
+Kampania trwa miesiąc, ale to nie znaczy, że przez miesiąc wszystko jest tańsze. Rabaty dają poszczególni sprzedający na wybrane oferty, a promocje zmieniają się w trakcie kampanii. Ceny LEGO z Allegro śledzimy w tabelach na podstronach zestawów, więc rabat widać tam od razu, liczony od ceny katalogowej, a nie od ceny „przed promocją”.
 
 W ten sam miesiąc wpada jedno wydarzenie stacjonarne – prywatne zakupy w salonach 14 listopada, z zapisami, które już trwają. Opisujemy je w [sekcji wydarzeń](#wydarzenia), bo z cenami nie ma nic wspólnego.
 
