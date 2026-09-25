@@ -92,6 +92,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-25 10:30 · CODE · Allegro 25.09: feed „tylko LEGO” znowu 404 — bez zapasowego (decyzja Marka)
+
+**Zrobione:** diagnoza błędu z przebiegu Łowcy (commit `d60fee4`, curl exit 22).
+Główny feed `39967a61…` odpowiada **HTTP 404, pusta treść** (dwa sprawdzenia
+ok. 10:00–10:20). Czyli awaria po stronie Allegro, nie nasza: skrypt, proxy
+i sieć są sprawne, a szeroki feed `497662bc…` w tym samym czasie odpowiadał 200.
+To druga taka przerwa (pierwsza 24.08–21.09). Marek: **nie przechodzimy na feed
+zapasowy.** Notka w `feedy.json` (`allegro.uwaga_feed`) mówiła „przełączyć
+ręcznie przy 404” i została poprawiona. Skrypt bez zmian: przy awarii oferty
+Allegro zostają z ostatnią datą.
+**Stan:** feed Allegro leży, czekamy, aż wróci.
+**Dla drugiej strony:** Łowca każdego dnia zgłosi to samo, dopóki feed nie wróci.
+Jeśli 404 potrwa dłużej niż kilka dni, Marek sprawdza feed w panelu Allegro
+Affiliate (czy nie wygasł albo nie zmienił ID; nowe ID wpisujemy w `allegro.url`).
+Termin: `ofertaAktualna()` (`src/lib/oferty.js`) ukrywa oferty starsze niż 14 dni.
+Oferty Allegro mają datę 24.09, więc bez feedu znikną z tabel ok. 9.10.
+
 ## 2026-09-25 07:05 · CODE · CRO: A, B (dolny blok), C, D, E, G na main; F i pasek przyklejony odrzucone
 
 **Zrobione:** decyzja Marka po prezentacji przed/po: publikujemy wszystko oprócz F

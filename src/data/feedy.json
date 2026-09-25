@@ -75,7 +75,7 @@
  "allegro": {
   "url": "https://feeds.allegro.pl/affiliate-feed/39967a61-8483-4037-bc45-165d4978a379",
   "url_zapasowy": "https://feeds.allegro.pl/affiliate-feed/497662bc-9f41-42d3-871b-b657da0e73e0",
-  "uwaga_feed": "Od 22.09.2026 feed TYLKO LEGO (39967a61, ~476 tys. ofert: 227 tys. pojedynczych elementow, 33 tys. minifigurek, reszta zestawy per seria w sciezce '> LEGO > Zestawy > <seria>'). feedy-lego.py bierze wylacznie sciezke Zestawy + bramy tytulu i liczby elementow. Wyciag 22.09: 6 398 numerow (stary feed: 5 380), 5 975 z hubem, 1 105 zestawow z sety.json z oferta (bylo 1 002). url_zapasowy to szeroki feed kategorii Dziecko (feed LEGO nie dzialal 24.08-21.09) — przelaczyc recznie, gdy 39967a61 znow odpowie 404.",
+  "uwaga_feed": "Od 22.09.2026 feed TYLKO LEGO (39967a61, ~476 tys. ofert: 227 tys. pojedynczych elementow, 33 tys. minifigurek, reszta zestawy per seria w sciezce '> LEGO > Zestawy > <seria>'). feedy-lego.py bierze wylacznie sciezke Zestawy + bramy tytulu i liczby elementow. Wyciag 22.09: 6 398 numerow (stary feed: 5 380), 5 975 z hubem, 1 105 zestawow z sety.json z oferta (bylo 1 002). url_zapasowy to szeroki feed kategorii Dziecko (feed LEGO nie dzialal 24.08-21.09). NIE przelaczac na zapasowy (decyzja Marka 25.09.2026, gdy 39967a61 znow dal 404): przy awarii glownego oferty Allegro zostaja z ostatnia data.",
   "format": "ndjson",
   "siec": "Allegro Affiliate (program wlasny)",
   "pola": {
