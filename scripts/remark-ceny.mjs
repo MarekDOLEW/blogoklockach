@@ -158,7 +158,7 @@ function tabela(nr) {
       `<tr${i === 0 ? ' class="najtanszy"' : ''}><td class="kc-sklep"><strong>${nazwa(o.sklep)}</strong>${uwaga(o.sklep)}</td>` +
       `<td class="cena kc-cena">${fmt(o.cena)}</td>${kolRabat(o.cena)}<td class="kc-cta">` +
       (maLink(o.sklep)
-        ? `<a class="cta" href="/idz/${o.sklep}/${nr}" target="_blank" rel="${rel(o.sklep)}">Sprawdź w sklepie →</a>`
+        ? `<a class="cta" href="/idz/${o.sklep}/${nr}" target="_blank" rel="${rel(o.sklep)}" aria-label="Przejdź do sklepu ${nazwa(o.sklep)}">${nazwa(o.sklep)} →</a>`
         : '<span class="link-wkrotce">link wkrótce</span>') +
       '</td></tr>',
   );
@@ -192,6 +192,9 @@ function tabela(nr) {
     `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th></th></tr></thead>` +
     `<tbody>${wiersze.join('')}${wierszEol}${wierszCeneo}</tbody>` +
     '</table>' +
+    (posortowane.length
+      ? `<p class="tabela-zaufanie">${posortowane.some((o) => o.sklep !== 'allegro') ? `<strong>Sklepy z własnym magazynem</strong> (${posortowane.filter((o) => o.sklep !== 'allegro').map((o) => nazwa(o.sklep)).join(', ')}) – kupujesz nowy, zapieczętowany zestaw od sklepu. ` : ''}${posortowane.some((o) => o.sklep === 'allegro') ? '<strong>Allegro</strong> to marketplace: przed zakupem sprawdź, czy sprzedawca jest firmą i czy zestaw jest nowy, nie z drugiej ręki. ' : ''}Koszt i termin dostawy zobaczysz w koszyku sklepu – wiążąca jest cena w koszyku.</p>`
+      : '') +
     `<p class="tabela-data">${stopka}</p>` +
     '</div>'
   );

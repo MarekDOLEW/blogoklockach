@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
 import Okruszki from '../../components/Okruszki.astro';
 import ObserwujCene from '../../components/ObserwujCene.astro';
+import PasekCeny from '../../components/PasekCeny.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { zdjecieSetu, opisSetu } from '../../lib/media.js';
@@ -281,7 +282,15 @@ const opisMeta = najlepsza
             : bezRrp
               ? <span>cena katalogowa <strong>brak</strong> (zestaw bez polskiego cennika)</span>
               : <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>}
+          {/* ocena tylko przy sensownej próbie – kilka głosów to szum, nie dowód (audyt CRO 25.09) */}
+          {s?.brickset?.ocena && (s.brickset.glosy ?? 0) >= 20 && (
+            <span title="Ocena użytkowników serwisu Brickset i liczba osób, które mają ten zestaw w kolekcji">
+              Brickset <strong>{String(s.brickset.ocena).replace('.', ',')}/5</strong>
+              {s.brickset.glosy && <>{` (${s.brickset.glosy} ocen)`}</>}{s.brickset.posiadacze && <>{', '}<strong>{fmtElementy(s.brickset.posiadacze)}</strong> w kolekcjach</>}
+            </span>
+          )}
         </div>
+        {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="gora" />}
         {opis && <p class="prose">{opis}</p>}
         {wycof && wycof.etap !== 'wycofany' && (
           <p class="karta" style="padding:10px 14px; font-size:0.92rem;">
@@ -366,7 +375,7 @@ const opisMeta = najlepsza
             {' '}– dziś jest o {fmt(najlepsza - minimum.cena)} drożej.
           </p>
         )}
-        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańszy sklep zawsze na górze; Ceneo stoi osobno na końcu, bo to porównywarka, nie sklep – jego cena może być niższa niż w wierszach wyżej.</p>
+        <p class="disclosure">Przyciski z nazwą sklepu i strzałką są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańszy sklep zawsze na górze; Ceneo stoi osobno na końcu, bo to porównywarka, nie sklep – jego cena może być niższa niż w wierszach wyżej.</p>
       </div>
     ) : (
       <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż (EOL), pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
@@ -412,6 +421,8 @@ const opisMeta = najlepsza
     )}
 
 
+    {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="dol" />}
+
     {podobne.length > 0 && (
       <section class="sekcja podobne" style="margin-top:28px" aria-label={`Podobne zestawy z serii ${seria}`}>
         <div class="sekcja-head">
@@ -452,7 +463,21 @@ const opisMeta = najlepsza
         <p style="margin-top: 20px"><a href={`/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`}>← Wszystkie zestawy serii {seria}</a></p>
       )
     )}
-  </article>
+      {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="przyklejony" />}
+    <script>
+      // Pasek przyklejony (telefon): widoczny, gdy tabela cen wyjechała poza ekran
+      // w górę, chowa się, gdy tabela lub pasek dolny jest w kadrze.
+      const pasek = document.querySelector<HTMLElement>('[data-pasek="przyklejony"]');
+      const ceny = document.getElementById('ceny');
+      const dol = document.querySelector<HTMLElement>('[data-pasek="dol"]');
+      if (pasek && ceny && 'IntersectionObserver' in window) {
+        const stan = { ceny: true, dol: false };
+        const odswiez = () => { pasek.hidden = stan.ceny || stan.dol || ceny.getBoundingClientRect().top > 0; };
+        new IntersectionObserver((e) => { stan.ceny = e[0].isIntersecting; odswiez(); }, { threshold: 0 }).observe(ceny);
+        if (dol) new IntersectionObserver((e) => { stan.dol = e[0].isIntersecting; odswiez(); }, { threshold: 0 }).observe(dol);
+      }
+    </script>
+</article>
   <script is:inline>
     // Miniatury przewijają taśmę zdjęć w poziomie. Bez skryptu kotwice #kl-…
     // też działają – skrypt tylko zapobiega przeskokowi całej strony

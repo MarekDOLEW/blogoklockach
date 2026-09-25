@@ -92,6 +92,27 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
+
+**Zrobione:** poprawki A–G z audytu CRO (`materialy/audyt-cro-hubow-2026-09-25.md`)
+zaimplementowane w kodzie: nowy `src/components/PasekCeny.astro` (pasek „od X zł
+w N sklepach −Y%” z przyciskiem do najtańszego sklepu; warianty gora/dol/przyklejony),
+hub `[nr].astro` (pasek pod tytułem, dolny blok „Najtaniej dziś”, pasek przyklejony
+na telefonie po przewinięciu tabeli, wiersz Brickset przy ≥20 głosach), `TabelaCen.astro`
++ `remark-ceny.mjs` (etykiety „x-kom →” zamiast „Sprawdź w sklepie →”, linia zaufania
+pod tabelą), `KartaPrezentu.astro` (sklepy jako przyciski, najtańszy na żółto),
+`GaleriaZestawow.astro` („dziś od X zł”), `Artykul.astro` (pasek z frontmatter
+`pasek_zestaw`, użyty w poście x-kom). Dane testowe: `brickset` dla 43014 i 60470
+w `sety.json`. Prezentacja porównawcza: `materialy/cro-przed-po-2026-09-25.pdf`
+(13 slajdów, zrzuty przed/po z lokalnego buildu, pomiar: pierwszy przycisk sklepu na
+telefonie 864→413 px na 43014, 1029→485 na 60470, 1432→462 w poście x-kom).
+**Stan:** w toku — kod na gałęzi roboczej, **nie na main**; build przechodzi
+(9 659 stron). Czeka na decyzję Marka: publikować A–G razem czy etapami (A+G, potem
+C i B). H (filtr referera w workerze) osobno, wymaga zgody.
+**Dla drugiej strony:** nic do czasu decyzji. Po publikacji: prompt Łowcy dostaje
+zdanie o `pasek_zestaw` w postach dealowych, prompt Scouta — uzupełnianie pola
+`brickset` (ocena, głosy, posiadacze, data) dla nowości.
+
 ## 2026-09-25 09:30 · CODE · Audyt CRO hubów — raport `materialy/audyt-cro-hubow-2026-09-25.md`
 
 Pomiar układu (Playwright, 390 i 1280 px) + kliknięcia z Analytics Engine.

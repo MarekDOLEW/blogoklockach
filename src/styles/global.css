@@ -1339,3 +1339,41 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
    samego SVG, a pod wykresem stoi ta sama tabela z liczbami — kto nie widzi
    grafiki, dostaje dane, a nie informację „wykres". */
 .prose .wykres { width: 100%; height: auto; margin: 18px 0 10px; display: block; }
+
+/* ── Audyt CRO 25.09.2026 (A–G) ──────────────────────────────────────────── */
+/* A: telefon – tytuł i pasek ceny przed zdjęciem, zdjęcie niższe */
+@media (max-width: 760px) {
+  .set-hero > div:first-child { order: 2; }
+  .set-hero > div:last-child { order: 1; }
+  .set-hero .foto-okno, .set-hero .foto-placeholder { aspect-ratio: 16 / 10; max-height: 230px; }
+}
+.pasek-ceny { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin: 12px 0 14px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid var(--zolty); border-radius: var(--radius); }
+.pasek-ceny__cena { font-size: 1.05rem; }
+.pasek-ceny__cena strong { font-family: var(--font-display); font-size: 1.35rem; }
+.pasek-ceny__rabat { margin-left: 8px; font-weight: 700; color: #b42318; }
+.pasek-ceny .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.95rem; padding: 10px 18px; border-radius: 6px; }
+.pasek-ceny__wszystkie { font-size: 0.9rem; color: var(--granat); }
+/* B: blok „Najtaniej dziś" po karcie redakcyjnej */
+.pasek-ceny--dol { margin: 28px 0; }
+/* B: pasek przyklejony – tylko telefon */
+.pasek-ceny--przyklejony { display: none; }
+@media (max-width: 760px) {
+  .pasek-ceny--przyklejony:not([hidden]) { display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; margin: 0; border-radius: 0; border-left: 0; border-top: 1px solid var(--linia); box-shadow: 0 -4px 16px rgba(0,0,0,0.12); justify-content: space-between; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); }
+  .pasek-ceny--przyklejony .pasek-ceny__cena strong { font-size: 1.2rem; }
+}
+/* E: linia zaufania pod tabelą */
+.tabela-zaufanie { margin: 12px 0 4px; font-size: 0.86rem; color: var(--granat); line-height: 1.45; }
+/* C: wiersze sklepów w karcie prezentownika jako przyciski */
+.prezent__kup-wiersz { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "sklep cena" "poziom cta"; align-items: center; gap: 4px 12px; padding: 10px 12px; border: 1px solid var(--linia); border-radius: 8px; margin-bottom: 8px; }
+.prezent__kup-wiersz--najtanszy { background: #fff8e1; border-left: 4px solid var(--zolty); }
+.prezent__kup-sklep { grid-area: sklep; font-weight: 700; }
+.prezent__kup-naj { margin-left: 8px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: #b42318; font-weight: 700; }
+.prezent__kup-wiersz > b { grid-area: cena; font-family: var(--font-display); font-size: 1.15rem; text-align: right; }
+.prezent__kup-wiersz .prezent__kup-poziom { grid-area: poziom; }
+.prezent__kup-wiersz .cta { grid-area: cta; justify-self: end; display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.88rem; padding: 8px 14px; border-radius: 6px; }
+.galeria__dzis { display: block; font-size: 0.8rem; color: var(--granat-60); }
+.galeria__dzis--ok { color: #1a7f37; font-weight: 700; }
+/* B: przycisk „na górę" nad paskiem przyklejonym, żeby się nie nakładały (telefon) */
+@media (max-width: 760px) {
+  body:has(.pasek-ceny--przyklejony:not([hidden])) .na-gore { bottom: 84px; }
+}

@@ -112,13 +112,14 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
         <div class="prezent__kup">
           <p class="prezent__kup-tytul">Kup teraz w</p>
           <ul class="prezent__kup-lista">
-            {wProgu.map((o) => (
-              <li>
-                <a href={linkAfiliacyjny(o.sklep, nr)} target="_blank" rel={rel(o.sklep)}>{nazwaSklepu(o.sklep)}</a>
+            {wProgu.map((o, i) => (
+              <li class={i === 0 ? 'prezent__kup-wiersz prezent__kup-wiersz--najtanszy' : 'prezent__kup-wiersz'}>
+                <span class="prezent__kup-sklep">{nazwaSklepu(o.sklep)}{i === 0 && <span class="prezent__kup-naj">najtaniej</span>}</span>
                 <b>{fmtCena(o.cena)}</b>
                 <span class={bardzoTanio(o.cena) ? 'prezent__kup-poziom prezent__kup-poziom--top' : 'prezent__kup-poziom'}>
                   {bardzoTanio(o.cena) ? 'bardzo dobra cena' : 'dobra cena'}
                 </span>
+                <a class="cta" href={linkAfiliacyjny(o.sklep, nr)} target="_blank" rel={rel(o.sklep)} aria-label={`Przejdź do sklepu ${nazwaSklepu(o.sklep)}`}>{nazwaSklepu(o.sklep)} →</a>
               </li>
             ))}
           </ul>
@@ -139,7 +140,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
         </>
       ))}
       {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}
-      <a href={`/zestaw/${nr}/`} target="_blank" rel="noopener"><b>wszystkie ceny i historia</b></a>
+      <a class="przycisk-drugi" href={`/zestaw/${nr}/`} target="_blank" rel="noopener">wszystkie ceny i historia →</a>
     </p>
   </div>
 </div>

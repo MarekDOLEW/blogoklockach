@@ -4,8 +4,18 @@
 // a nie od razu na zewnątrz: czytelnik najpierw czyta uzasadnienie, dopiero
 // potem klika do sklepu. Zdjęcia idą przez worker (/img/<numer>.jpg), więc
 // serwujemy je z własnej domeny i mamy trwałą kopię w R2.
+import sety from '../data/sety.json';
+import ofertyFeed from '../data/oferty_feed.json';
+import { polaczOferty } from '../lib/oferty.js';
 const { zestawy } = Astro.props;
 const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+// dzisiejsza najniższa cena sklepowa (bez Ceneo) – z tych samych danych co
+// tabela huba; audyt CRO 25.09.2026: kafelek bez ceny „dziś" nie mówił, czy próg
+// z etykiety jest osiągalny
+const dzis = (nr) => {
+  const o = polaczOferty(sety[nr]?.oferty ?? [], ofertyFeed?.sety?.[nr] ?? null, nr).filter((x) => x.sklep !== 'ceneo' && x.cena > 0);
+  return o.length ? Math.min(...o.map((x) => x.cena)) : null;
+};
 ---
 <section class="galeria" aria-label="Zestawy opisane w tym przewodniku">
   {zestawy.map((z) => (
@@ -18,6 +28,7 @@ const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' z�
       <span class="galeria__cena">
         {z.dobra ? <>dobra cena od <b>{zl(z.dobra)}</b></> : <>katalogowo {zl(z.rrp)}</>}
       </span>
+      {dzis(z.nr) && <span class={`galeria__dzis${z.dobra && dzis(z.nr) <= z.dobra ? ' galeria__dzis--ok' : ''}`}>dziś od <b>{zl(dzis(z.nr))}</b></span>}
     </a>
   ))}
 </section>

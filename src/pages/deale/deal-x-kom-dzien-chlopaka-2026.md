@@ -7,6 +7,7 @@ kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla rodzica", "Dla AFOL"]
 wyroznienie: true
+pasek_zestaw: "43014"
 ---
 
 **x-kom** prowadzi do **30 września** akcję na Dzień Chłopaka z dziewięcioma zestawami LEGO. Kwoty w tym tekście pochodzą z informacji sklepu z 23 września — bez kodu, ceny są widoczne od razu na kartach produktów. Sklep liczy rabat od własnej ceny wyjściowej, my liczymy od ceny katalogowej LEGO, więc procenty poniżej są inne niż w reklamie. Z dziewięciu pozycji **cztery są najtańsze w historii naszych notowań**, cztery biją dzisiejszy rynek bez rekordu, a jedną znajdziesz taniej gdzie indziej.
