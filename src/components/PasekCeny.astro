@@ -4,8 +4,8 @@
 // Audyt CRO 25.09.2026: na telefonie żaden hub nie pokazywał ceny ani przycisku
 // na pierwszym ekranie, a poniżej tabeli (85% długości strony) nie było żadnego
 // przycisku sklepu. Warianty: `gora` (pod tytułem), `dol` (po karcie
-// redakcyjnej), `przyklejony` (dolna krawędź ekranu na telefonie, pokazuje się
-// po przewinięciu tabeli – mały skrypt w hubie).
+// redakcyjnej). Wariant przyklejony do dołu ekranu Marek odrzucił 25.09.2026
+// (zabiera miejsce przy czytaniu) – nie dopisywać bez nowej decyzji.
 // Dobór sklepu wyłącznie po cenie (najtańsza oferta bez Ceneo) – afiliacja nie
 // wpływa na wybór, tak jak w tabeli.
 import { fmtCena, nazwaSklepu, relLinku, linkAfiliacyjny } from '../lib/oferty.js';
@@ -16,13 +16,13 @@ const liczba = new Set(z.map((o) => o.sklep)).size;
 const rabat = najlepsza && cenaKatalogowa ? Math.round((1 - najlepsza.cena / cenaKatalogowa) * 100) : 0;
 ---
 {najlepsza && (
-  <p class={`pasek-ceny pasek-ceny--${wariant}`} data-pasek={wariant} hidden={wariant === 'przyklejony'}>
+  <p class={`pasek-ceny pasek-ceny--${wariant}`} data-pasek={wariant}>
     <span class="pasek-ceny__cena">
       {wariant === 'dol' ? 'Najtaniej dziś: ' : 'od '}<strong>{fmtCena(najlepsza.cena)}</strong>
-      {wariant !== 'przyklejony' && <>{` w ${liczba} ${liczba === 1 ? 'sklepie' : 'sklepach'}`}</>}
+      {` w ${liczba} ${liczba === 1 ? 'sklepie' : 'sklepach'}`}
       {rabat >= 3 && <span class="pasek-ceny__rabat">−{rabat}%</span>}
     </span>
     <a class="cta" href={`/idz/${najlepsza.sklep}/${nr}`} target="_blank" rel={relLinku(najlepsza.sklep, nr)} aria-label={`Przejdź do sklepu ${nazwaSklepu(najlepsza.sklep)}`}>{nazwaSklepu(najlepsza.sklep)} →</a>
-    {wariant !== 'przyklejony' && <a class="pasek-ceny__wszystkie" href={kotwica}>wszystkie ceny {wariant === 'dol' ? '↑' : '↓'}</a>}
+    <a class="pasek-ceny__wszystkie" href={kotwica}>wszystkie ceny {wariant === 'dol' ? '↑' : '↓'}</a>
   </p>
 )}

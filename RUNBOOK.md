@@ -1134,6 +1134,17 @@ wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
 dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
 do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
 
+**Pasek z ceną pod tytułem (od 25.09.2026, poprawka D z audytu CRO):** post
+może wskazać jeden zestaw we frontmatterze — `pasek_zestaw: "43014"` — i wtedy
+layout `Artykul.astro` wstawia pod h1 komponent `PasekCeny` („od X zł w N
+sklepach −Y%”, przycisk do najtańszego sklepu z linkiem afiliacyjnym, kotwica
+„wszystkie ceny” na hub). Dane biorą się z huba (`sety.json` + feed + sito
+14 dni i `wazne_do`), nie z treści posta, więc po wygaśnięciu promocji pasek sam
+pokaże kolejny sklep. Bez pola post wygląda jak dawniej. Ten sam komponent
+siedzi na hubie dwa razy: pod tytułem (`gora`) i po karcie redakcyjnej
+(`dol`); wariant przyklejony do dołu ekranu Marek odrzucił 25.09.2026, tak samo
+wiersz z oceną Bricksetu (F) — nie dopisywać bez nowej decyzji.
+
 ## Karty zestawów — import paczek Piotra *(ustalone 31.08.2026)*
 
 Opisy DOCX od Piotra (zip per seria) wchodzą do `karty_setow.json` **wyłącznie

@@ -92,6 +92,25 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-25 07:05 · CODE · CRO: A, B (dolny blok), C, D, E, G na main; F i pasek przyklejony odrzucone
+
+**Zrobione:** decyzja Marka po prezentacji przed/po: publikujemy wszystko oprócz F
+(wiersz Brickset) i paska przyklejonego do dołu ekranu. Wycofane z kodu: wiersz
+Brickset w `[nr].astro` i testowe pole `brickset` w `sety.json` (nie było go na
+main, więc nic nie ubyło), wariant `przyklejony` w `PasekCeny.astro`, jego CSS
+i skrypt IntersectionObserver w hubie. Zostaje: pasek „od X zł” pod tytułem huba
+i posta (`pasek_zestaw`), blok „Najtaniej dziś” po karcie redakcyjnej, etykiety
+przycisków z nazwą sklepu (tabele w hubach i artykułach), linia zaufania pod
+tabelą, przyciski sklepów i „dziś od” w prezentownikach. RUNBOOK: sekcja
+„Dział /deale/” opisuje `pasek_zestaw` i obie odrzucone rzeczy. Build 9 659 stron,
+JSON bez ubytków.
+**Stan:** gotowe, na produkcji po deployu z main.
+**Dla drugiej strony (Marek, panel Routines):** w prompcie Łowcy dopisać jedno
+zdanie: „W poście dealowym podaj we frontmatterze `pasek_zestaw: "<nr>"` z numerem
+zestawu z tytułu — layout wstawi pasek z ceną pod tytułem.” Prompt Scouta bez zmian
+(F odrzucone). Pomiar skutku: `node scripts/kliki-raport.mjs --dni 14` ok. 9.10 —
+punkt odniesienia 139 realnych kliknięć/14 dni, 0 z prezentowników.
+
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
 **Zrobione:** poprawki A–G z audytu CRO (`materialy/audyt-cro-hubow-2026-09-25.md`)
