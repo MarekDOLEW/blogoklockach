@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-25"
+zaktualizowano: "2026-09-26"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -25,6 +25,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
+<li><span class="okna__data">13–19.10</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje Świata: Włochy od 745 zł</a></li>
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
@@ -140,11 +141,28 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 | Gratis (GWP) | Warunek | Uwaga |
 |---|---|---|
 | 40897 Świetlny miecz Dartha Vadera (174 el.) | zakup [75457](/zestaw/75457/) | 1–7.10, do wyczerpania zapasów |
-| 40899 Astrobot | zakupy od **650 zł** (kwota do potwierdzenia) | 1–7.10 |
+| 40899 Astrobot | zakupy od **650 zł** (kwota do potwierdzenia) | 1–7.10; serwis branżowy zakłada, że **zakup samego Executora się nie liczy** |
 
 **Co z tego wynika praktycznie.** Gratis idzie do wyczerpania zapasów, a nie do końca okna – przy zestawie tej rangi trzy dni przewagi Insiders mają realne znaczenie. Jeśli celujesz w Executora z mieczem, **konto Insiders trzeba mieć założone przed 1 października**, nie w dniu premiery. Dochodzi do tego zmiana, którą LEGO wprowadziło w sierpniu: punkty Insiders schodzą z konta dopiero przy złożeniu zamówienia, a nie przy odbiorze nagrody. Nie ma więc powodu wydawać ich wcześniej „na zaś" – można spokojnie poczekać z decyzją do premiery.
 
 **Czy warto czekać z innymi zakupami Star Wars?** Nie na sam Executor – to zestaw z zupełnie innej półki cenowej i nie wpływa na resztę oferty. Ale okna premierowe UCS bywają w LEGO.com łączone z podwójnymi punktami na całą serię, więc jeśli i tak planujesz coś z [Gwiezdnych wojen](/prezentowniki/lego-star-wars/), pierwszy tydzień października jest dobrym momentem, żeby sprawdzić warunki.
+
+<h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--maybe">przewidywane</span></h3>
+
+Dwa tygodnie po premierze Executora wraca układ, który znamy z całego roku:
+**podwójne punkty Insiders plus gratis powyżej progu**. Tym razem upominkiem ma
+być **40909 Restauracje Świata: Włochy, przy zakupach od 745 zł** — kolejna
+pozycja tej samej serii co 40908 Grecja, którą LEGO rozdawało w sierpniu przy
+identycznym progu. Ta powtarzalność jest jedynym powodem, dla którego podajemy
+tu kwotę; ani terminu, ani progu LEGO nie ogłosiło.
+
+**Kiedy to okno bije pierwszy tydzień października.** Jeśli nie kupujesz
+Executora, a planujesz większe zakupy na LEGO.com, drugie okno jest lepsze:
+próg 745 zł jest wyższy niż 650 zł do Astrobota, ale dochodzą podwójne punkty
+na całe zamówienie, czyli około pięciu procent wartości wracających w punktach.
+Przy zamówieniu za 745 zł to mniej więcej 37 zł ekstra. **Kiedy nie bije:** gdy
+i tak bierzesz Executora — wtedy pierwszy tydzień daje miecz świetlny, którego
+nie zdobędziesz inaczej.
 
 <h3 id="pazdziernik-fala">Październik to nie tylko Executor</h3>
 

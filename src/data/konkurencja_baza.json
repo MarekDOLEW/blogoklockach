@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-25",
-    "przebieg": "scheduled 2026-09-25 08:00",
+    "ostatnia_aktualizacja": "2026-09-26",
+    "przebieg": "scheduled 2026-09-26 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 197,
+    "liczba_wpisow": 203,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2372,6 +2372,77 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Wydarzenie w LEGO House w Danii - poza rynkiem polskim i poza zakresem naszej sekcji wydarzen (salony w Polsce)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow LEGO 2026 - aktualizacja 25.09",
+      "url": "https://faniklockow.pl/2026/09/25/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Prog dla 40900 DALEJ 375 zl 'do potwierdzenia' - rozbieznosc z fanklockow (430 zl) trwa mimo otwartego okna; nasz kalendarz opisuje ja jako sporna i to zostaje. NOWE, czego nie mielismy: 13-19.10 podwojne punkty Insiders plus GwP 40909 Restauracje Swiata: Wlochy przy zakupach od 745 zl (ten sam prog, co 40908 Grecja w sierpniu - stad podajemy kwote). Plus zastrzezenie do 40899 Astrobot: zakup samego Executora prawdopodobnie sie nie liczy do progu 650 zl. Oba dopisane do /kalendarz-promocji-lego/ 26.09."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 - pelna lista",
+      "url": "https://faniklockow.pl/2026/09/25/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Ich tabela ma kolumne, ktorej nasza /wycofania/ nie ma: DYSTRYBUCJA (szeroka / ekskluzywna / ograniczona) plus notke 'wyprzedane'. To jest etykieta producenta; my mamy lepszy, bo zywy odpowiednik - liczbe sklepow z oferta - i wlasny tekst z 16.09 pokazal, ze to najlepszy predyktor ceny wzgledem cennika. Tylko na samej liscie /wycofania/ tej liczby nie pokazujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Statystyki francuskiego oddzialu LEGO: udzial doroslych i licencji",
+      "url": "https://faniklockow.pl/2026/09/25/ciekawe-statystyki-z-francuskiego-oddzialu-lego-jaki-udzial-w-rynku-maja-dorosli-i-licencje",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Dane rynkowe z Francji - bez przelozenia na polskie ceny, ale to material zrodlowy do tekstu o licencjach z planu redakcyjnego (pozycja 9 cyklu, autor Piotr)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 11375 Ferrari F2004 i Michael Schumacher",
+      "url": "https://faniklockow.pl/2026/09/25/okazja-cenowa-icons-11375-ferrari-f2004-i-michael-schumacher-4",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Zestaw w naszym hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO x Nike: nowe akcesoria",
+      "url": "https://faniklockow.pl/2026/09/25/lego-x-nike-nowe-akcesoria-w-kosmicznym-stylu",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Akcesoria, nie zestawy klockow - poza zakresem porownywarki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Biuletyn specjalny dla Patronow 15/2026 - przecieki 2027 cz. 3 (platny)",
+      "url": "https://fanklockow.pl/%f0%9f%94%92-biuletyn-specjalny-dla-patronow-15-2026",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Tresc za paywallem patronackim, rocznik 2027. Nie kupujemy i nie cytujemy."
     }
   ],
   "obserwacje_strategiczne": {

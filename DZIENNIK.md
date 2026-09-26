@@ -92,6 +92,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-26 08:00 · RADAR · Do zrobienia
+
+**faniklockow.pl · 25.09** — w ich tabeli wycofań jest kolumna „Dystrybucja" (szeroka / ekskluzywna / ograniczona) plus notka „wyprzedane".
+**Mamy?** — częściowo: `/wycofania/` pokazuje status terminu, cenę i znacznik EOL, ale nie pokazuje, ilu sklepów zestaw jeszcze ma.
+**Zrobić:** — dopisać do listy na `/wycofania/` liczbę sklepów z żywą ofertą (dane są już w `oferty_feed.json`, strona je wczytuje). To nasz odpowiednik ich „dystrybucji", tylko żywy — i to właśnie tę zmienną nasz tekst z 16.09 wskazał jako najlepszy predyktor ceny względem cennika.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-09-25 09:15 · CODE · Allegro 25.09: feed „tylko LEGO” znowu 404 — bez zapasowego (decyzja Marka)
 
 **Zrobione:** diagnoza błędu z przebiegu Łowcy (commit `d60fee4`, curl exit 22).
