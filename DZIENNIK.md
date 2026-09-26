@@ -113,6 +113,10 @@ Allegro zostają z ostatnią datą.
 **Stan:** feed Allegro leży, czekamy, aż wróci. 11:27–11:33 UTC (po sygnale Marka, że Allegro usunęło przerwę):
 404 zmieniło się na **HTTP 200 z pustą treścią** (0 bajtów, 5 prób). `feedy-lego.py` odrzuci to jako „pusty plik”,
 więc nadal nic nie wchodzi. Jeśli Łowca 26.09 znowu zgłosi błąd, zgłosić Allegro, że feed jest pusty.
+→ zamknięte 26.09: feed wrócił (przerwa po stronie Allegro, potwierdził Marek). Łowca 26.09 (`ca6d5bc`)
+wczytał 6066 zestawów, 1093 oferty Allegro w `sety.json` z datą 26.09. Feed jest teraz dużo mniejszy:
+26 MB i 8 442 linie (6 583 w „Zestawy”, 1 859 w innych kategoriach LEGO), a 22.09 było ~1,1 GB i 476 tys. linii.
+Allegro wycięło pojedyncze elementy. Wyciąg jest bez zmian, bramki w `feedy-lego.py` działają dalej.
 **Dla drugiej strony:** Łowca każdego dnia zgłosi to samo, dopóki feed nie wróci.
 Jeśli 404 potrwa dłużej niż kilka dni, Marek sprawdza feed w panelu Allegro
 Affiliate (czy nie wygasł albo nie zmienił ID; nowe ID wpisujemy w `allegro.url`).
