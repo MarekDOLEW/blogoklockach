@@ -14,7 +14,7 @@ Pole oferty: cena (float), link (afiliacyjny), zdjecie, dostepny (bool), nazwa.
 Zasady dopasowania numeru setu są takie same jak w src/data/feedy.json.
 """
 
-import argparse, json, os, re, subprocess, sys, tempfile, xml.etree.ElementTree as ET
+import argparse, base64, json, os, re, subprocess, sys, tempfile, urllib.parse, xml.etree.ElementTree as ET
 from datetime import date
 
 KATALOG = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -61,6 +61,60 @@ def nie_zestaw(nazwa):
     tekst = (nazwa or '').replace('\u00ad', '')   # miękki dywiz z tytułów Allegro
     return bool(WZORZEC_KOD_MINIFIGURKI.search(tekst) or SLOWA_NIE_ZESTAW.search(tekst))
 G = '{http://base.google.com/ns/1.0}'
+
+
+# Feedy ME i PK miewają przesunięte wiersze: tytuł (i numer) jednego produktu
+# z linkiem i ceną sąsiedniego. 25–26.09.2026 tak weszłyby m.in. „Tower Bridge
+# 21067 za 132,95 zł" (naprawdę bukiet 11507) i cały blok Ninjago 71862–71871
+# w PK — fałszywe minimum w ceny_baza i czytelnik odsyłany do innego produktu.
+# Sito: numer zestawu z tytułu musi zgadzać się z numerem w adresie karty
+# produktu; wiersz z innym numerem w URL wypada z wyciągu PRZED odswiez_redirects.
+# Wzorce adresów są sklepowe (ME: slug „lego-<nr>-", PK: numer w ostatnim
+# segmencie ścieżki), więc sito obejmuje tylko ME i PK; slugi ofert Allegro
+# pisze sprzedawca i rozjazd z numerem niczego tam nie dowodzi.
+def cel_linku(link):
+    """Adres karty produktu wyłuskany z linku trackingowego (bez wywołań sieci)."""
+    if 'url=' in link:      # performers.tech (ME): cel w parametrze url=, URL-encoded
+        return urllib.parse.unquote(link.split('url=')[1].split('&')[0])
+    if 'r=' in link:        # webepartners (PK): cel w parametrze r=, base64
+        b = link.split('r=')[1].split('&')[0]
+        b += '=' * (-len(b) % 4)
+        try:
+            return base64.b64decode(b).decode('utf-8', 'replace')
+        except Exception:
+            return ''
+    return link
+
+
+WZORZEC_NR_W_URL = {
+    # ME: rok w dalszej części sluga (…-2022) nie może się mylić z numerem,
+    # stąd kotwica na przedrostku „lego-"
+    'mediaexpert': re.compile(r'/lego-(\d{4,7})-'),
+    'planetaklockow': re.compile(r'(\d{4,7})'),
+}
+
+
+def numer_z_linku(sklep, link):
+    """Numer zestawu z adresu karty produktu; None, gdy adres go nie niesie."""
+    wzorzec = WZORZEC_NR_W_URL.get(sklep)
+    if not wzorzec:
+        return None
+    url = cel_linku(link or '')
+    if sklep == 'planetaklockow':
+        url = url.rstrip('/').rsplit('/', 1)[-1]
+    dopasowanie = wzorzec.search(url)
+    return dopasowanie.group(1) if dopasowanie else None
+
+
+def odsiej_niespojne(sklep, oferty):
+    """Usuwa wiersze, których numer z tytułu nie zgadza się z numerem w URL."""
+    niespojne = []
+    for nr in list(oferty):
+        nr_url = numer_z_linku(sklep, oferty[nr].get('link', ''))
+        if nr_url and nr_url != nr:
+            niespojne.append((nr, nr_url))
+            del oferty[nr]
+    return sorted(niespojne)
 
 
 def pobierz(url, sufiks):
@@ -427,6 +481,11 @@ if __name__ == '__main__':
     for sklep in wybrane:
         try:
             oferty, dodatki = ZRODLA[sklep]()
+            niespojne = odsiej_niespojne(sklep, oferty)
+            if niespojne:
+                wynik['_meta'][f'{sklep}_niespojne'] = niespojne
+                print(f'{sklep}: odrzucone niespójne wiersze (numer z tytułu ≠ numer w URL): '
+                      f'{len(niespojne)} — {", ".join(nr for nr, _ in niespojne)}', file=sys.stderr)
             wynik[sklep] = oferty
             wynik['_meta']['liczby'][sklep] = len(oferty)
             wynik['_meta'].update({f'{sklep}_{k}': v for k, v in dodatki.items()})
