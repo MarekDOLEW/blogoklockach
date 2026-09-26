@@ -110,13 +110,29 @@ while (dealeDnia.length < SLOTY_SLAJDERA && rezerwa.length) {
   wez(p);
 }
 
-// ── „Dziś w dobrej cenie": do 12 setów kolekcjonerskich + po ≤10 z 12 losowych serii ──
+// ── „Dziś w dobrej cenie": 6 obowiązkowych kategorii + po ≤10 z 12 losowych serii ──
 // (korzysta z tego samego seedowanego `los` co slajder – zdefiniowany wyżej)
+// Obowiązkowa szóstka z minimum 5 zestawów każda (decyzja Marka 27.09.2026).
+// Kwalifikacja od progu serii: Ideas i Icons 20% (krótsze katalogi rzadko
+// schodzą 30% pod cenę – 27.09 Ideas miało 3 sety ≥30%, a 9 setów ≥20%),
+// pozostałe 30%. Gdy seria nie wystawia 5 zestawów z progiem, dobieramy do
+// pięciu z jej ofert ≥15% (pula bloku) – to wciąż realny rabat, nie
+// pseudopromocja; poniżej 15% wolimy pokazać mniej niż 5.
+const OBOWIAZKOWE = new Map([
+  ['City', 30], ['Star Wars', 30], ['Technic', 30], ['Harry Potter', 30],
+  ['Icons', 20], ['Ideas', 20],
+]);
+const MIN_NA_KATEGORIE = 5;
 const wSlajderze = new Set(dealeDnia.map((d) => d.set.nr));
 const pula = zRabatem.filter((s) => !wSlajderze.has(s.nr));
-const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 12);
+const obowiazkowe = [...OBOWIAZKOWE].flatMap(([seria, prog]) => {
+  const wSerii = pula.filter((s) => s.seria === seria).sort((a, b) => rabat(b) - rabat(a));
+  const zProgiem = wSerii.filter((s) => rabat(s) >= prog).slice(0, 10);
+  const brakuje = MIN_NA_KATEGORIE - zProgiem.length;
+  return brakuje > 0 ? [...zProgiem, ...wSerii.filter((s) => rabat(s) < prog).slice(0, brakuje)] : zProgiem;
+});
 
-const serieInne = [...new Set(pula.filter((s) => !KOLEKCJONERSKIE.has(s.seria)).map((s) => s.seria))]
+const serieInne = [...new Set(pula.filter((s) => !OBOWIAZKOWE.has(s.seria)).map((s) => s.seria))]
   .map((seria) => ({ seria, klucz: los() }))
   .sort((a, b) => a.klucz - b.klucz)
   .slice(0, 12)
@@ -125,10 +141,10 @@ const zSerii = serieInne.flatMap((seria) =>
   pula.filter((s) => s.seria === seria).sort((a, b) => rabat(b) - rabat(a)).slice(0, 10),
 );
 
-const dobreCeny = [...kolekcjonerskie, ...zSerii].sort((a, b) => rabat(b) - rabat(a));
-// chipy: serie kolekcjonerskie najpierw, potem reszta alfabetycznie
+const dobreCeny = [...obowiazkowe, ...zSerii].sort((a, b) => rabat(b) - rabat(a));
+// chipy: obowiązkowa szóstka najpierw, potem reszta alfabetycznie
 const serieWSiatce = [...new Set(dobreCeny.map((s) => s.seria))]
-  .sort((a, b) => (KOLEKCJONERSKIE.has(b) ? 1 : 0) - (KOLEKCJONERSKIE.has(a) ? 1 : 0) || a.localeCompare(b, 'pl'));
+  .sort((a, b) => (OBOWIAZKOWE.has(b) ? 1 : 0) - (OBOWIAZKOWE.has(a) ? 1 : 0) || a.localeCompare(b, 'pl'));
 
 // ── Top 10 wycofań wartych upolowania ──
 const feedSety = ofertyFeed?.sety ?? {};
