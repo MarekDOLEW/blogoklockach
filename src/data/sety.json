@@ -33371,7 +33371,8 @@
   "opis": "",
   "dla_rodzica": "To replika rękojeści do postawienia na półce, bez funkcji i bez postaci. Oznaczenie 18+ dotyczy precyzji budowy. Najważniejsza rzecz przed zakupem: zestawu nie kupuje się osobno, bo jest prezentem do bardzo drogiego modelu, więc o jego sensie decyduje decyzja o tamtym zakupie, nie ten model sam w sobie.",
   "dla_afol": "Zestaw jest zbyt świeży, żeby Brickset miał jakiekolwiek oceny. Potencjał kolekcjonerski oceniam na wysoki: prezenty za zakupy przy modelach z najwyższej półki mają bardzo ograniczony nakład i nie wracają do oferty.",
-  "oferty": []
+  "oferty": [],
+  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — Brickset: availability „LEGO Gift with Purchase” (sprawdzone 26.09.2026); nigdy nie miał polskiej ceny katalogowej"
  },
  "40902": {
   "nazwa": "Hołd dla Leonarda da Vinci",
@@ -41800,10 +41801,11 @@
   "elementy": 218,
   "wiek": "8+",
   "premiera": "2026-09",
-  "opis": "Halloweenowy dodatek gratisowy z linii Creator Seasonal — 218 elementów, dostępny od 21 września. Brickset oznacza go jako „LEGO Gift with Purchase\", czyli zestaw dodawany do zakupów w sklepie LEGO, a nie sprzedawany osobno. Numer figurował w katalogu od 9 września jako pusty rekord bez nazwy.",
+  "opis": "Halloweenowy dodatek gratisowy z linii Creator Seasonal — 218 elementów, dostępny od 21 września. Brickset oznacza go jako „LEGO Gift with Purchase”, czyli zestaw dodawany do zakupów w sklepie LEGO, a nie sprzedawany osobno. Numer figurował w katalogu od 9 września jako pusty rekord bez nazwy.",
   "dla_rodzica": "To nie jest pozycja, którą się kupuje — dostaje się ją przy zakupach w sklepie LEGO po przekroczeniu progu kwotowego, którego producent na razie nie podał. Oznaczenie 8+ i 218 elementów oznacza krótkie, proste budowanie, w sam raz na sezonową dekorację.",
   "dla_afol": "Gratis nie ma ceny katalogowej i nigdy nie trafi do tabeli cen — nie da się policzyć progu zakupu ani ceny za element. Warto natomiast pilnować progu kwotowego akcji, bo od niego zależy, czy dodatek faktycznie jest darmowy, czy dokłada się do koszyka rzeczy, których się nie potrzebuje. Progu LEGO jeszcze nie ogłosiło.",
-  "oferty": []
+  "oferty": [],
+  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — Brickset: availability „LEGO Gift with Purchase” (sprawdzone 26.09.2026); nigdy nie miał polskiej ceny katalogowej"
  },
  "72153": {
   "nazwa": "Venusaur, Charizard i Blastoise",
@@ -41876,5 +41878,18 @@
   ],
   "ekskluzyw": true,
   "bez_rrp": "BrickLink Designer Program (seria 7), sprzedaż wyłącznie przez LEGO.com w wybranych krajach 1.07–31.12.2026, bez polskiego cennika (349,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "40899": {
+  "nazwa": "Astro Bot",
+  "seria": "PlayStation",
+  "cena_katalogowa": null,
+  "elementy": 276,
+  "wiek": "18+",
+  "premiera": "2026-10",
+  "opis": "Figurka Astro Bota z gry na PlayStation — 276 elementów, ruchome ramiona, głowa na przegubie kulowym i przezroczysta szybka w roli peleryny. W pudełku są wymienne płytki oczu, więc minę modelu da się zmienić. Całość staje na czarnej podstawce z nadrukowaną płytką 2×3 z logo i mierzy 20 cm wysokości przy rozłożonych ramionach. Brickset oznacza zestaw jako „LEGO Gift with Purchase”, czyli dodatek do zakupów w sklepie LEGO, a nie pozycję sprzedawaną osobno; start 1 października 2026, razem z wejściem do sprzedaży zestawu PlayStation (72306).",
+  "dla_rodzica": "Tego zestawu się nie kupuje — trafia do koszyka jako gratis przy zakupach w sklepie LEGO. Oznaczenie 18+ mówi o adresacie (dekoracja na biurko, nie zabawka), a nie o trudności budowania; 276 elementów to krótka, prosta konstrukcja. Progu kwotowego dla polskiego sklepu LEGO nie podało. Niemiecki StoneWars pisze o 150 euro, ale sam zastrzega, że to na razie plotka, więc nie ma po co planować zakupów pod tę kwotę, dopóki producent nie ogłosi warunków.",
+  "dla_afol": "Gratis nie ma ceny katalogowej, więc nie wejdzie do tabeli cen ani do przeliczeń zł za element — LEGO wycenia go na 19,99 euro, ale to wartość deklarowana dodatku, nie cena sprzedaży. Ciekawe jest 18+ przy 276 elementach i dwa warianty płytek oczu: wymienna mina to w dodatku promocyjnym rzadkość. Sensowne jest pilnowanie progu akcji — przy wysokim progu „darmowy” dodatek kosztuje tyle, ile dołożone do koszyka rzeczy, których się nie potrzebowało.",
+  "oferty": [],
+  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — gratis do zamówienia, nigdy nie miał polskiej ceny katalogowej"
  }
 }

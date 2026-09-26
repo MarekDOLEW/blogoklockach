@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-25",
+  "data_aktualizacji": "2026-09-26",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1176,
+  "liczba_setow": 1177,
   "sety": [
     "10280",
     "10281",
@@ -1178,7 +1178,8 @@
     "80119",
     "80120",
     "80121",
-    "910059"
+    "910059",
+    "40899"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -5916,7 +5917,8 @@
       "korekta_wlasnego_raportu": "We wczorajszym raporcie napisalem '18 detalicznych + 1 gratis'. Bylo to niepelne z dwoch powodow: 11387 jeszcze nie mialo daty startu, a 40897 juz wtedy bylo gratisem, tylko nie sprawdzilem jego pola availability. Poprawnie: 18 do kupienia + 2 gratisy.",
       "metoda_dziala": "To drugi raz, gdy tygodniowy przeglad po launchDate wylapal pozycje, ktorej przyrostowy updatedSince nie przypisal do fali (pierwszy raz 11.09: 21373 i 40899). Kadencja tygodniowa zostaje do 1 pazdziernika."
     },
-    "status_2026_09_25": "Tygodniowy przeglad po launchDate na pelnym roczniku 2026 (938 rekordow): fala nadal 20 pozycji, bez zmian wobec 18.09. Opisanych 19; brakuje wylacznie 40899, bo nie ma nazwy. Do premiery 6 dni."
+    "status_2026_09_25": "Tygodniowy przeglad po launchDate na pelnym roczniku 2026 (938 rekordow): fala nadal 20 pozycji, bez zmian wobec 18.09. Opisanych 19; brakuje wylacznie 40899, bo nie ma nazwy. Do premiery 6 dni.",
+    "status_2026_09_26": "Komplet. 20 pozycji (18 do kupienia + 2 gratisy), wszystkie 20 opisane — 40899 Astro Bot dostał nazwę 25.09 i wpis w sety.json 26.09. Premiera fali 1.10.2026."
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
@@ -6125,5 +6127,12 @@
     "bez_rrp_bdp": "910054, 910056 i 910057 oznaczone w katalog.json polem bez_rrp z powodem 'BrickLink Designer Program'. Te trzy wracaly w lukach katalogu co przebieg, a nigdy nie mialy polskiej ceny katalogowej. Od teraz nie beda zglaszane.",
     "zrodla": "PromoBricks i StoneWars bez nowosci katalogowych. Zaden serwis nie podal dzis nazwy 40899.",
     "przecieki": "Bez zmian: 20 wpisow, 1 rozstrzygniety."
+  },
+  "przeglad_2026_09_26": {
+    "nowosci": "40899 Astro Bot (PlayStation, 276 el., 18+, start 1.10.2026) — Brickset nadał karcie oficjalną nazwę 25.09 o 23:55 UTC, wcześniej „{?}”. Zestaw dołożony do sety.json jako GWP bez ceny katalogowej. To ostatnia nieopisana pozycja fali październikowej — fala jest teraz kompletna: 20 pozycji, 20 opisanych.",
+    "przyrostowo": "Sześć rekordów w oknie updatedSince=25.09: 3438 (McDonald's Restaurant z 1999 — korekta archiwalna, nie nowość), 40893, 40897, 40900 (znane GWP, bez zmiany danych), 40899 (nazwa) i 72188 (pusta rezerwacja rocznika 2027, kategoria '{t.b.a.}', bez nazwy i danych).",
+    "bez_rrp_gwp": "40897 i 40900 oznaczone bez_rrp w sety.json i katalog.json — Brickset w tym przebiegu podaje dla obu availability 'LEGO Gift with Purchase'. Wracały w lukach katalogu co przebieg. 40899 dostał bez_rrp od razu.",
+    "zrodla": "Brickset API (1 wywołanie getSets), PromoBricks i StoneWars. StoneWars 25.09 opisał oficjalną prezentację 40899 — to drugie niezależne źródło, więc przeciek 40899 rozstrzygnięty jako potwierdzony.",
+    "wycofania": "Brak nowych sygnałów. Artykuł PromoBricks o EOL Ogrodu botanicznego (21353) to tekst z 21.08 — sygnał już zapisany w wycofania.json i DZIENNIKU."
   }
 }

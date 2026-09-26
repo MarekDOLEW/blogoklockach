@@ -12016,7 +12016,8 @@
       "rok": 2026,
       "elementy": 174,
       "status": "dostepny",
-      "cena_katalogowa": null
+      "cena_katalogowa": null,
+      "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — Brickset: availability „LEGO Gift with Purchase” (sprawdzone 26.09.2026); nigdy nie miał polskiej ceny katalogowej"
     },
     {
       "numer": "40917",
@@ -33308,7 +33309,8 @@
       "status": "dostepny",
       "cena_katalogowa": null,
       "zrodlo": "Brickset (GWP, start 21.09.2026) + karta Piotra 17.09.2026",
-      "uwagi": "gratis do zakupów w sklepie LEGO (GWP), bez ceny katalogowej"
+      "uwagi": "gratis do zakupów w sklepie LEGO (GWP), bez ceny katalogowej",
+      "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — Brickset: availability „LEGO Gift with Purchase” (sprawdzone 26.09.2026); nigdy nie miał polskiej ceny katalogowej"
     }
   ],
   "Friends": [

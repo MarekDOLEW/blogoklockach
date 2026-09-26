@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-24"
+  "zaktualizowano": "2026-09-26"
  },
  "przecieki": [
   {
@@ -331,7 +331,7 @@
    "elementy": 276,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-10",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "PromoBricks — przeciek z Reddita",
@@ -347,11 +347,20 @@
      "nazwa": "Brickset — karta zestawu (dowód katalogowy)",
      "url": "https://brickset.com/sets/40899-1",
      "data": "2026-09-18"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO 40899 Astro Bot: GWP … offiziell vorgestellt”",
+     "url": "https://www.stonewars.de/news/lego-40899-astro-bot-vorgestellung/",
+     "data": "2026-09-25"
     }
    ],
    "dodano": "2026-09-21",
    "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-26",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Nic. Karta Brickset ma od 25.09.2026 oficjalną nazwę „Astro Bot” zamiast „{?}”, seria PlayStation, 276 elementów, start 1.10.2026, availability „LEGO Gift with Purchase”, wiek 18+. StoneWars tego samego dnia opisał oficjalną prezentację w sklepie LEGO. Numer, forma gratisu i termin zgodne z przeciekiem PromoBricks z 09.09; ceny przeciek nie podawał, bo to GWP (LEGO deklaruje wartość 19,99 euro). Zestaw dołożony do sety.json."
+   }
   },
   {
    "id": "11390",
