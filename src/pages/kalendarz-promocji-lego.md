@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-26"
+zaktualizowano: "2026-09-27"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -175,6 +175,16 @@ Tego samego dnia – **1 października dla Insiders, 4 października dla wszystk
 | [40874 Świąteczne odliczanie Mikołaja](/zestaw/40874/) | 873 | 249,99 zł | ok. 0,29 zł |
 
 Do tego rusza fala sezonowa: powiększona Pani Mikołajowa, Buddy z „Elfa", świąteczna skarpeta i kolejna [zimowa wioska](/zestaw/11387/). Części z tych zestawów LEGO nie podało jeszcze cen w złotych, więc ich tu nie zgadujemy – pojawią się w tabelach na podstronach, gdy tylko będą oficjalne.
+
+**Która część tej fali w ogóle stanieje.** Sprawdziliśmy październikowe
+premiery w naszych danych ofertowych i wychodzi wyraźny podział, który decyduje
+o tym, czy warto czekać:
+
+| Zestawy | Oferty poza LEGO.com | Co to znaczy |
+|---|---|---|
+| 72306 PlayStation, 11379 Księgarnia, trzy zestawy Avengers: Doomsday (76347, 76348, 76352) | **są** – trzy do czterech sklepów | konkurencja cenowa działa, na Black Friday jest o co grać |
+| 21371 Wallace i Gromit, 21373 Downton Abbey | dziś brak | wyłączność czasowa: oferty zewnętrzne zwykle dochodzą po kilku tygodniach |
+| **Cała paczka świąteczna** – 40862 ozdoby, 40865 Elf Buddy, 40866 sanie Mikołaja, 40874 odliczanie, 40875 Pani Mikołajowa | **brak i nie będzie** | ekskluzywne dla LEGO, cena jedna przez cały sezon |
 
 **Dlaczego to ma znaczenie dla kalendarza.** Zestaw sezonowy kupiony w październiku i zestaw sezonowy kupiony w grudniu to dwie różne transakcje: świąteczne pozycje LEGO mają krótkie okno sprzedaży i potrafią zniknąć przed świętami, a te, które zostaną, rzadko tanieją w grudniu. To jest odwrotność zasady „poczekaj do Black Friday", którą stosujemy przy zwykłych zestawach.
 

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-26",
-    "przebieg": "scheduled 2026-09-26 08:00",
+    "ostatnia_aktualizacja": "2026-09-27",
+    "przebieg": "scheduled 2026-09-27 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 203,
+    "liczba_wpisow": 206,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2443,6 +2443,46 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Tresc za paywallem patronackim, rocznik 2027. Nie kupujemy i nie cytujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Premiery zestawow LEGO na pazdziernik 2026 z dystrybucja",
+      "url": "https://faniklockow.pl/2026/09/26/premiery-zestawow-lego-na-pazdziernik-2026-z-dystrybucja",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl",
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Lista premier z etykieta dystrybucji. Sprawdzilismy ich etykiety we wlasnych danych ofertowych i sie zgadzaja: 72306, 11379 oraz trojka Avengers Doomsday (76347, 76348, 76352) maja 3-4 sklepy poza LEGO; 21371 i 21373 dzis tylko LEGO (czasowa wylacznosc); cala paczka swiateczna 40862, 40865, 40866, 40874, 40875 oraz 40880 - wylacznie LEGO. Dopisane do /kalendarz-promocji-lego/ jako tabela 'ktora czesc tej fali w ogole stanieje', na naszych liczbach sklepow, nie na ich etykiecie. Nowe w ich liscie, czego nie mamy w kalendarzu: przedsprzedaz BrickLink Designer Program seria 9 rusza 6.10 o 17:00 (piec zestawow 209,99-1499,99 zl, dystrybucja specjalna)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 26.09.2026 (zbiorczo: 77978, 75413, 31387)",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-star-wars-75413-czolg-republiki-juggernaut-4",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy, wszystkie w naszych hubach z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Przejsciowe problemy z dzialaniem serwisu (09.2026)",
+      "url": "https://fanklockow.pl/przejsciowe-problemy-z-dzialaniem-serwisu-09-2026",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Komunikat techniczny ich serwisu, bez tresci merytorycznej."
     }
   ],
   "obserwacje_strategiczne": {
