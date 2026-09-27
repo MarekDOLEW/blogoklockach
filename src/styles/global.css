@@ -1415,3 +1415,21 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 @media (max-width: 700px) { .akt-strzalka { display: none; } }
 .akt-siatka { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin: 18px 0 40px; }
 @media (max-width: 700px) { .akt-siatka { grid-template-columns: 1fr; } }
+
+/* ---------- Podgląd przebudowy (27.09.2026): /podglad/glowna/, /podglad/promocje-lego/ ---------- */
+.podglad-pasek { margin: 16px 0 0; padding: 10px 14px; background: #fff3cd; border: 2px dashed var(--zolty-ciemny); border-radius: 8px; font-size: 0.9rem; font-weight: 600; }
+.siatka--trzy { grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.siatka--trzy > * { min-width: 0; }
+@media (max-width: 900px) { .siatka--trzy { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .siatka--trzy { grid-template-columns: 1fr; } }
+.przycisk--duzy { padding: 15px 34px; font-size: 1.08rem; }
+.sekcja--trzy-promocje .sekcja-stopka { margin-top: 18px; }
+.promo-boks { display: flex; flex-direction: column; gap: 8px; }
+.promo-boks h3 { margin: 0; font-size: 1.02rem; line-height: 1.3; }
+.promo-boks h3 a { text-decoration: none; color: var(--granat); }
+.promo-boks__kat { font-size: 0.82rem; color: var(--granat-60); }
+.promo-boks .cta { margin-top: auto; text-align: center; }
+.promo-podtytul { margin: 34px 0 6px; font-size: 1.3rem; }
+@media (max-width: 600px) { .przycisk--duzy { white-space: normal; max-width: 100%; padding: 14px 20px; } }
+.promo-boks .cta { display: block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.9rem; padding: 10px 14px; border-radius: 8px; }
+.promo-boks .cta:hover { background: #0f1830; }
