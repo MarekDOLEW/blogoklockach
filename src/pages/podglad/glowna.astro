@@ -195,6 +195,17 @@ const artykuly = Object.entries({
 // ── Aktualności pod slajderem (Marek 27.09.2026): akcje sklepów i kampanie
 // z datą – ważniejsze niż zwykłe teksty, więc dwie karty w rzędzie zamiast
 // trzech. Slajder do 6 pozycji, reszta pod „Zobacz wszystkie" (/aktualnosci/).
+// ── 3 zestawy „Dziś w dobrej cenie" (Marek 27.09): losowo, nie same największe rabaty
+// i nie same tanie – po jednym z przedziałów >500 zł, 151–500 zł, do 150 zł (los z ziarnem
+// daty: stały w ciągu dnia, inny każdego dnia). Brak w przedziale → los z całej puli.
+const PRZEDZIALY_TRZECH = [(c) => c > 500, (c) => c > 150 && c <= 500, (c) => c <= 150];
+const trzyDobre = [];
+for (const pasuje of PRZEDZIALY_TRZECH) {
+  const pula3 = dobreCeny.filter((s) => pasuje(najlepszaCena(s)) && !trzyDobre.includes(s));
+  const z = pula3.length ? pula3 : dobreCeny.filter((s) => !trzyDobre.includes(s));
+  if (z.length) trzyDobre.push(z[Math.floor(los() * z.length)]);
+}
+
 const MAKS_AKTUALNOSCI = 6;
 
 // ── Wejścia do działów (podgląd 27.09.2026): Nowości / Wycofania / Artykuły z licznikami ──
@@ -351,7 +362,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         <h2>Dziś w dobrej cenie</h2>
       </div>
       <div class="siatka siatka--trzy">
-        {dobreCeny.slice(0, 3).map((s) => (
+        {trzyDobre.map((s) => (
           <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
             {s.foto
               ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />

@@ -1507,3 +1507,18 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 /* podgląd Promocji: krótki opis zestawu w listingu (jak na wycofaniach) */
 .tabela-promocje .set-opis { display: block; margin-top: 4px; font-size: 0.86rem; color: var(--granat-60); line-height: 1.4; }
 @media (max-width: 720px) { .tabela-promocje tr { grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "opis opis" "rabat cena" "cta cta"; } .tabela-promocje .set-opis { grid-area: opis; } }
+/* podgląd Promocji v3: cena i rabat w jednej kolumnie, równe znaczki, stała wysokość zdjęcia w slajdzie */
+.tabela-promocje .kol-cena { width: 170px; }
+.tabela-promocje .kol-cta { width: 210px; }
+.tabela-promocje .promo-cena-gora { display: flex; justify-content: flex-end; align-items: center; gap: 8px; }
+.tabela-promocje .kol-cena .promo-cena-gora .set-cena-kat { display: inline; }
+.promo-znaczki { align-items: center; }
+.promo-znaczki > span { display: inline-flex; align-items: center; height: 24px; padding: 0 10px; font-size: 0.74rem; line-height: 1; letter-spacing: 0.04em; font-weight: 800; border-radius: 999px; }
+.promo-slajd .akt-foto { position: relative; aspect-ratio: auto; height: 250px; overflow: hidden; }
+.promo-slajd .akt-foto img { position: absolute; inset: 10%; width: 80%; height: 80%; object-fit: contain; padding: 0; }
+@media (max-width: 700px) { .promo-slajd .akt-foto { height: 200px; } }
+@media (max-width: 720px) {
+  .tabela-promocje tr { grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "opis opis" "cena cena" "cta cta"; }
+  .tabela-promocje .promo-cena-gora { display: inline-flex; }
+  .tabela-promocje .kol-cena { text-align: left; }
+}

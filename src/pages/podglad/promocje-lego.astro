@@ -203,7 +203,6 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
             <tr>
               <th class="kol-foto"><span class="tylko-czytnik">Zdjęcie</span></th>
               <th class="kol-opis">Zestaw</th>
-              <th class="kol-rabat">Rabat</th>
               <th class="kol-cena">Cena</th>
               <th class="kol-cta"><span class="tylko-czytnik">Sklep</span></th>
             </tr>
@@ -229,9 +228,8 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
                       {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}
                     </span>
                   </td>
-                  <td class="kol-rabat"><span class="badge-rabat-mini">−{r}%</span></td>
                   <td class="kol-cena">
-                    <span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span>
+                    <span class="promo-cena-gora"><span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span> <span class="badge-rabat-mini">−{r}%</span></span>
                     <span class="set-cena">{fmtCena(oferta.cena)}</span>
                     <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>
                   </td>
