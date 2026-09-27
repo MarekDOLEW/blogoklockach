@@ -92,7 +92,22 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
-## 2026-09-28 10:30 · CODE · Ekskluzywy: definicja „tylko LEGO” zastąpiona (decyzja Marka)
+## 2026-09-27 12:45 · CODE · Trzy recenzje Piotra na stronie (75438, 60508, 77242)
+
+**Zrobione:** DOCX przez `import-artykul.py` (bez obrazów w dokumentach). Treść Piotra bez zmian;
+dodane: frontmatter (Recenzje, data 27.09, okładka, 3 FAQ z faktów w tekście), tabele cen w miejscu
+`[TABELA CENOWA]`, linki do hubów (75439, 60470) i stron serii, zdjęcia z galerii (75438: 2, 60508: 3;
+77242 nie ma galerii — tylko okładka). Adresy: `/artykuly/lego-75438-popiersie-yody-recenzja/`,
+`/artykuly/lego-60508-napad-na-policyjny-pociag-recenzja/`, `/artykuly/lego-77242-bolid-f1-ferrari-sf-24-recenzja/`.
+Kontrola: RRP w tekstach = dane serwisu (169,99 / 869,99 / 114,99), liczby elementów, roczniki i wiek
+zgodne z katalogiem, bez „cegieł”. Build 9 663 stron. Przy okazji: `python-docx` dopisany do
+`requirements.txt` (skrypt importu go wymagał, a pliku nie było w zależnościach).
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** nic.
+**Uwagi:** tytuł 77242 bez tezy („LEGO Speed Champions 77242 Bolid F1 Ferrari SF-24”) — zostawiony
+jak u Piotra; pozostałe dwa mają tezę po myślniku.
+
+## 2026-09-27 12:30 · CODE · Ekskluzywy: definicja „tylko LEGO” zastąpiona (decyzja Marka)
 
 **Zrobione:** Marek zauważył, że 11371 jest opisany jako „sprzedaje go tylko LEGO”, a tabela
 pokazuje Empik o 95 zł taniej. Pomiar: 115 ze 133 ekskluzywów miało ofertę w Empiku, ME, PK
