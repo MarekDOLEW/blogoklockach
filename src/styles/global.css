@@ -1522,3 +1522,5 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .tabela-promocje .promo-cena-gora { display: inline-flex; }
   .tabela-promocje .kol-cena { text-align: left; }
 }
+.promo-slajd .akt-opis { font-size: 0.9rem; line-height: 1.4; }
+.podglad-widok [data-lupa-pag] { margin-top: 20px; }
