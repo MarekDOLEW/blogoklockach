@@ -196,6 +196,16 @@ const artykuly = Object.entries({
 // z datą – ważniejsze niż zwykłe teksty, więc dwie karty w rzędzie zamiast
 // trzech. Slajder do 6 pozycji, reszta pod „Zobacz wszystkie" (/aktualnosci/).
 const MAKS_AKTUALNOSCI = 6;
+
+// ── Wejścia do działów (podgląd 27.09.2026): Nowości / Wycofania / Artykuły z licznikami ──
+// ta sama reguła co /nowosci/: premiery od dwóch miesięcy wstecz + zapowiedzi
+const teraz = new Date();
+const odKiedyNowosci = `${new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1).getFullYear()}-${String(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1).getMonth() + 1).padStart(2, '0')}`;
+const liczbaNowosci = Object.values(sety).filter((s) => String(s?.premiera ?? '') >= odKiedyNowosci).length;
+const liczbaArtykulow = Object.values({
+  ...import.meta.glob('../artykuly/*.md', { eager: true }),
+  ...import.meta.glob('../*.md', { eager: true }),
+}).filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik').length;
 const aktualnosciGlowna = aktualnosci().slice(0, MAKS_AKTUALNOSCI);
 
 // ── Trzy najnowsze posty dealowe (od 27.09.2026 pod „Dziś w dobrej cenie",
@@ -252,6 +262,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     },
   }}
 >
+  <div class="podglad-widok">
   <p class="podglad-pasek">PODGLĄD – nowa strona główna (wersja robocza, niewidoczna dla Google). Obecna: <a href="/">tylkoklocki.pl</a> · druga strona podglądu: <a href="/podglad/promocje-lego/">Promocje LEGO</a></p>
   <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO – rabaty liczone od cen katalogowych</h1>
 
@@ -380,8 +391,21 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         )}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
+        <a class="przycisk przycisk--duzy" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
       </p>
+    </section>
+  )}
+
+
+  {artykuly.length > 0 && (
+    <section class="sekcja" aria-label="Najnowsze artykuły">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Ostatnio na blogu</h2>
+      </div>
+      <div class="zajawki">
+        {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
+      </div>
     </section>
   )}
 
@@ -396,24 +420,36 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         {postyDealowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk" href="/podglad/promocje-lego/#okazje-pod-lupa">Zobacz wszystkie deale →</a>
+        <a class="przycisk przycisk--duzy" href="/podglad/promocje-lego/#okazje-pod-lupa">Zobacz wszystkie deale →</a>
       </p>
     </section>
   )}
 
-  {artykuly.length > 0 && (
-    <section class="sekcja" aria-label="Najnowsze artykuły">
-      <div class="sekcja-head">
-        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Ostatnio na blogu</h2>
-      </div>
-      <div class="zajawki">
-        {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
-      </div>
-    </section>
-  )}
+  <section class="sekcja" aria-label="Działy serwisu">
+    <div class="wejscia">
+      <a class="karta wejscie" href="/nowosci/">
+        <span class="wejscie__ile">{liczbaNowosci}</span>
+        <span class="wejscie__etykieta">Nowości</span>
+        <span class="wejscie__opis">Premiery ostatnich miesięcy i zapowiedzi – z ceną katalogową, zanim zestawy trafią na półki sklepów.</span>
+        <span class="wejscie__cta">Zobacz nowości →</span>
+      </a>
+      <a class="karta wejscie" href="/wycofania/">
+        <span class="wejscie__ile">{liczbaWycofan}</span>
+        <span class="wejscie__etykieta">Wycofania</span>
+        <span class="wejscie__opis">Zestawy, które LEGO niedługo zdejmuje z produkcji. Po wycofaniu drożeją – teraz bywają najtańsze w historii.</span>
+        <span class="wejscie__cta">Zobacz wycofania →</span>
+      </a>
+      <a class="karta wejscie" href="/artykuly/">
+        <span class="wejscie__ile">{liczbaArtykulow}</span>
+        <span class="wejscie__etykieta">Artykuły</span>
+        <span class="wejscie__opis">Recenzje, rankingi i poradniki: co warto kupić, za ile i dla kogo – bez sponsorowanych ocen.</span>
+        <span class="wejscie__cta">Czytaj artykuły →</span>
+      </a>
+    </div>
+  </section>
 
 
+  </div>
 </Base>
 
 <script>

@@ -1433,3 +1433,16 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 @media (max-width: 600px) { .przycisk--duzy { white-space: normal; max-width: 100%; padding: 14px 20px; } }
 .promo-boks .cta { display: block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.9rem; padding: 10px 14px; border-radius: 8px; }
 .promo-boks .cta:hover { background: #0f1830; }
+/* podgląd strony głównej – poprawki Marka 27.09 (po akceptacji do przeniesienia globalnie) */
+.podglad-widok .sekcja-head h2 { margin: 0; line-height: 1.15; }
+.podglad-widok .set-karta .miniatura, .podglad-widok .zajawka-foto { border: 0; }
+.podglad-widok .sekcja-stopka { margin: 26px 0 8px; }
+.podglad-widok .sekcja { margin-bottom: 44px; }
+.wejscia { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+@media (max-width: 800px) { .wejscia { grid-template-columns: 1fr; } }
+.wejscie { display: flex; flex-direction: column; gap: 6px; padding: 22px 22px 20px; text-decoration: none; color: var(--granat); border-top: 5px solid var(--zolty); transition: transform 0.12s ease, box-shadow 0.12s ease; }
+.wejscie:hover { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(23,35,63,0.14); }
+.wejscie__ile { font-family: var(--font-display); font-size: 2.2rem; font-weight: 800; line-height: 1; }
+.wejscie__etykieta { font-size: 1.25rem; font-weight: 800; }
+.wejscie__opis { font-size: 0.92rem; color: var(--granat-60); }
+.wejscie__cta { margin-top: auto; padding-top: 6px; font-weight: 700; }
