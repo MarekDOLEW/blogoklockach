@@ -58,7 +58,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
         data-nazwa={s.nazwa}
         data-seria={s.seria} target="_blank" rel="noopener">
         {s.foto ? (
-          <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
+          <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
         ) : (
           <div class="foto-brak" aria-hidden="true">
             <span class="studs"><i></i><i></i><i></i><i></i></span>

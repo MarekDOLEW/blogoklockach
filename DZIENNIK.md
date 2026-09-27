@@ -92,6 +92,21 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 14:10 · CODE · Informacja prawna LEGO, bez podpisów pod zdjęciami, wszystkie zdjęcia w R2
+
+**Zrobione:** (1) stopka (`Base.astro`): pełna informacja prawna — niezależność od Grupy LEGO, lista
+znaków towarowych, „Zdjęcia zestawów © Grupa LEGO”. (2) Usunięte podpisy „Fot.: …” pod zdjęciem huba
+i w powiększeniu w Nowościach (decyzja Marka). (3) Zdjęcia na naszym serwerze: przed zmianą 11 362
+z 11 624 miało kopię w R2, reszta kopiowała się dopiero przy pierwszym wyświetleniu. Wgrane 133
+z Allegro; 131 adresów Rebrickable (wzorzec `<nr>-1.jpg`, archiwalne DUPLO i promocyjne) zwracało 404 —
+56 przestawione na Brickset i wgrane, 75 dostało w `zdjecia.json` `url: null` (+ stary adres w
+`poprzednio`), więc strona pokazuje zastępczy klocek zamiast zepsutego obrazka. `obrazy.json` (plik
+generowany) ma przez to 75 pozycji mniej; `zdjecia.json` bez zmiany liczby wpisów (7 777).
+(4) `r2-obrazy.mjs` w trybie codziennym (Routine „Zdjęcia → R2”) kopiuje każde brakujące zdjęcie
+z danych, także literowe i warianty — stan: 11 549 w danych, brakuje w R2: 0.
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** nic. Routine „Zdjęcia → R2” wywołuje skrypt tak samo jak dotąd.
+
 ## 2026-09-27 13:30 · CODE · Zdjęcia dla 166 zestawów bez zdjęcia (Rebrickable/Brickset → R2)
 
 **Zrobione:** z 176 zestawów bez żadnego zdjęcia 166 dostało wpis w `zdjecia.json` (68 Rebrickable,

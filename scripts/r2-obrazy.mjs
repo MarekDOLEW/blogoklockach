@@ -9,7 +9,7 @@
 // zmiany kodu i bez deployu.
 //
 // Użycie:
-//   node scripts/r2-obrazy.mjs                      # codzienny tryb: lista R2 → wgraj to, czego brakuje z Planety (sekundy)
+//   node scripts/r2-obrazy.mjs                      # codzienny tryb: lista R2 → wgraj każde brakujące zdjęcie z danych (sekundy)
 //   node scripts/r2-obrazy.mjs --limit 300          # jak wyżej, ale najwyżej 300 plików w tym przebiegu
 //   node scripts/r2-obrazy.mjs --sprawdz            # audyt: HEAD na każde /img/ na produkcji (~15 min), także martwe źródła
 //   node scripts/r2-obrazy.mjs --sprawdz --galerie  # audyt tylko galerii (2 min)
@@ -75,7 +75,8 @@ if (kluczeArg) {
   const kluczeGalerii = Object.entries(galerie)
     .filter(([n]) => /^[0-9]{4,7}$/.test(n))
     .flatMap(([n, lista]) => lista.map((_, i) => `${n}-${i + 1}`));
-  const kluczeGlowne = Object.keys(obrazy).filter((k) => /^[0-9]{4,7}$/.test(k));
+  // wszystkie zdjęcia główne, także warianty i klucze literowe (od 27.09.2026 worker je obsługuje)
+  const kluczeGlowne = Object.keys(obrazy).filter((k) => /^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(k));
   klucze = tylkoGalerie ? kluczeGalerii : [...kluczeGalerii, ...kluczeGlowne];
 }
 
@@ -181,10 +182,14 @@ if (tylkoSprawdz) {
     process.exit(2);
   }
   const wR2 = await kluczeWR2();
+  // Od 27.09.2026 (decyzja Marka: „wszystkie zdjęcia mają być u nas") kopiujemy
+  // każde brakujące zdjęcie z danych, nie tylko z Planety — wcześniej Allegro,
+  // Rebrickable i Brickset trafiały do R2 dopiero przy pierwszym wyświetleniu.
   const zPK = klucze.filter(zPlanety);
-  wszystkieBrakujace = zPK.filter((k) => !wR2.has(k)).map((k) => ({ klucz: k, status: 'brak w R2' }));
-  console.log(`W R2: ${wR2.size} obiektów. Zdjęć z Planety w danych: ${zPK.length}, brakuje w R2: ${wszystkieBrakujace.length}`);
-  slad = { kiedy: new Date().toISOString(), w_r2: wR2.size, z_planety: zPK.length, brakowalo: wszystkieBrakujace.length };
+  const zDanych = klucze.filter((k) => zrodlo(k));
+  wszystkieBrakujace = zDanych.filter((k) => !wR2.has(k)).map((k) => ({ klucz: k, status: 'brak w R2' }));
+  console.log(`W R2: ${wR2.size} obiektów. Zdjęć w danych: ${zDanych.length} (z Planety ${zPK.length}), brakuje w R2: ${wszystkieBrakujace.length}`);
+  slad = { kiedy: new Date().toISOString(), w_r2: wR2.size, w_danych: zDanych.length, z_planety: zPK.length, brakowalo: wszystkieBrakujace.length };
   if (wszystkieBrakujace.length === 0) {
     await zapiszSlad({ ...slad, wgrano: 0, bledy: 0 });
     process.exit(0);
