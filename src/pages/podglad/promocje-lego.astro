@@ -157,7 +157,7 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
                 </a>
                 <span class="akt-tresc">
                   <span class="akt-meta">
-                    <span class="akt-etykieta">Okazja</span>
+                    <span class="akt-etykieta">{okazja(s, oferta) ? 'Okazja' : 'Dobra cena'}</span>
                     <span>LEGO {s.nr} · {s.seria}</span>
                     {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}
                     {noweMinimum(s) && oferta.cena === najlepszaCena(s) && <span class="badge-najnizsza">nowe minimum</span>}
