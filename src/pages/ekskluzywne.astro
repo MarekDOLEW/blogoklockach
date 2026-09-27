@@ -1,9 +1,10 @@
 ---
-// Tabela dystrybucji: zestawy sprzedawane wyłącznie przez LEGO (etykieta
-// „Ekskluzywne" na lego.pl). Decyzja Marka 15.09.2026: takie zestawy nigdy nie
-// dostaną niższej ceny w innych sklepach, więc czytelnik nie powinien na nią
-// czekać – liczą się promocje samego LEGO (gratisy, punkty Insiders, okna
-// promocyjne). Źródło flag: `ekskluzyw` w sety.json (ręcznie, z kart) oraz
+// Zestawy z etykietą „Ekskluzywne" na lego.pl. Do 27.09.2026 strona pisała, że
+// sprzedaje je tylko LEGO i „cena jest jedna" (decyzja 15.09) — pomiar z 27.09:
+// 115 ze 133 miało ofertę w Empiku, Media Expercie, Planecie Klocków albo Smyku.
+// Decyzja Marka 27.09: jedna uczciwa definicja („LEGO zastrzega je dla siebie,
+// ale część trafia do wybranych sieci"), a hub zestawu mówi, jak jest dziś
+// (sieciEkskluzywu() w src/lib/oferty.js). Źródło flag: `ekskluzyw` w sety.json (ręcznie, z kart) oraz
 // w katalog.json (co tydzień z listingu lego.pl, scripts/lego-ceny.mjs).
 import Base from '../layouts/Base.astro';
 import FiltrSetow from '../components/FiltrSetow.astro';
@@ -12,6 +13,7 @@ import sety from '../data/sety.json';
 import katalogDane from '../data/katalog.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { wierszZNumeru } from '../lib/wiersze.js';
+import { sieciEkskluzywu } from '../lib/oferty.js';
 
 const feedSety = ofertyFeed?.sety ?? {};
 const numery = new Set();
@@ -25,6 +27,7 @@ const wiersze = [...numery].map((nr) => wierszZNumeru(nr, { sety, feed: feedSety
   // po EOL ekskluzyw nie ma już „jednej ceny" – zostaje rynek wtórny; te idą na koniec
   .sort((a, b) => Number(a.eolLego) - Number(b.eolLego) || (b.cenaKatalogowa ?? 0) - (a.cenaKatalogowa ?? 0));
 const wSprzedazy = wiersze.filter((w) => !w.eolLego);
+const wSieciach = wSprzedazy.filter((w) => sieciEkskluzywu(w.numer ?? w.nr, { sety, feed: feedSety }).length > 0).length;
 const poEol = wiersze.filter((w) => w.eolLego);
 const serie = [...new Set(wSprzedazy.map((w) => w.seria).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'pl'));
 const wSerii = (s) => wSprzedazy.filter((w) => w.seria === s);
@@ -35,11 +38,11 @@ const dataPl = (d) => { const [r, m, dd] = d.split('-').map(Number); return `${d
 const faq = [
   {
     q: 'Co znaczy, że zestaw LEGO jest ekskluzywny?',
-    a: 'LEGO sprzedaje go wyłącznie we własnych kanałach: na lego.com i w firmowych sklepach LEGO Store. Nie trafia do hurtu, więc Empik, Smyk, Media Expert ani inne sieci nie mają go w cenniku. Na lego.pl takie zestawy noszą etykietę „Ekskluzywne”.',
+    a: 'Na lego.pl nosi etykietę „Ekskluzywne”: LEGO zastrzega go przede wszystkim dla własnych kanałów, czyli lego.com i salonów LEGO Store. Nie znaczy to jednak, że zawsze kupisz go tylko tam. Część ekskluzywów – na stałe albo na jakiś czas – trafia do wybranych sieci, takich jak Empik, Media Expert czy Smyk. Na stronie każdego zestawu piszemy, jak jest dziś.',
   },
   {
-    q: 'Czy ekskluzywny zestaw LEGO kiedyś stanieje w innym sklepie?',
-    a: 'Nie – dopóki jest ekskluzywny, cena jest jedna. Jedyne okazje to promocje samego LEGO: podwójne punkty Insiders, gratisy przy zakupie za określoną kwotę i sezonowe obniżki. Wyjątkiem są zestawy, które po kilkunastu miesiącach LEGO przenosi do zwykłej dystrybucji – wtedy pojawiają się w sieciach handlowych i znikają z tej listy.',
+    q: 'Czy ekskluzywny zestaw LEGO bywa tańszy w innym sklepie?',
+    a: 'Tak, jeśli trafił do sieci handlowych – wtedy sklepy potrafią sprzedawać go poniżej ceny katalogowej LEGO, dlatego warto porównać ceny w tabeli na stronie zestawu. Jeśli sprzedaje go tylko LEGO, okazje to promocje samego producenta: podwójne punkty Insiders, gratisy przy zakupie za określoną kwotę i sezonowe obniżki.',
   },
   {
     q: 'Dlaczego na Allegro ekskluzyw bywa droższy niż w LEGO?',
@@ -53,14 +56,14 @@ const faqSchema = {
 };
 ---
 <Base
-  title="Ekskluzywne zestawy LEGO – tylko na LEGO.com"
-  description={`${wSprzedazy.length} zestawów LEGO w dystrybucji wyłącznej producenta: lista z ceną, serią i liczbą elementów. Tu nie ma na co czekać w innych sklepach – liczą się tylko promocje LEGO.`}
+  title="Ekskluzywne zestawy LEGO – co znaczy etykieta i gdzie je kupić"
+  description={`${wSprzedazy.length} zestawów z etykietą „Ekskluzywne” na LEGO.com: lista z ceną, serią i liczbą elementów. Sprawdzamy, które sprzedaje tylko LEGO, a które trafiły też do sieci handlowych.`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   <article>
-    <h1 style="margin-top:28px">Ekskluzywne zestawy LEGO – dostępne tylko w LEGO.com</h1>
+    <h1 style="margin-top:28px">Ekskluzywne zestawy LEGO – co znaczy etykieta i gdzie je kupić</h1>
     <p class="eol-aktualizacja">{wSprzedazy.length} zestawów w sprzedaży{poEol.length ? ` · ${poEol.length} po zakończeniu produkcji` : ''}{dataListingu ? ` · listing lego.pl z ${dataPl(dataListingu)}` : ''}</p>
-    <p class="prose prose--szeroki">Część zestawów LEGO sprzedaje wyłącznie we własnym sklepie i w salonach LEGO Store – na lego.pl stoją z etykietą <span class="badge-ex">ekskluzyw</span>. Nie ma ich w Empiku, Smyku ani w elektromarketach, więc <strong>porównywanie cen nic tu nie daje: cena jest jedna</strong>. Jeśli któryś z tych zestawów jest na Twojej liście, nie czekaj na promocję w innych sklepach, bo nie nadejdzie. Obserwuj za to okna promocyjne LEGO: podwójne punkty Insiders, gratisy za zakupy powyżej progu i sezonowe obniżki – właśnie wtedy ekskluzywy kupuje się najtaniej. Zestawy, które LEGO po czasie przenosi do zwykłej dystrybucji, znikają z tej listy i trafiają do <a href="/serie/">porównania cen w seriach</a>.</p>
+    <p class="prose prose--szeroki">Na lego.pl część zestawów stoi z etykietą <span class="badge-ex">ekskluzyw</span>: LEGO zastrzega je przede wszystkim dla własnego sklepu i salonów LEGO Store. <strong>Etykieta nie oznacza jednak, że kupisz je tylko tam.</strong> Część ekskluzywów – na stałe albo na jakiś czas – trafia do wybranych sieci. Z {wSprzedazy.length} zestawów na tej liście {wSieciach} widzimy dziś także w Empiku, Media Expercie, Planecie Klocków lub Smyku, często poniżej ceny LEGO. Dlatego zanim kupisz, otwórz stronę zestawu: piszemy tam, czy dziś sprzedaje go tylko LEGO, a tabela pokazuje ceny sklepów. Gdy zestaw jest wyłącznie u producenta, okazje to promocje LEGO: podwójne punkty Insiders, gratisy za zakupy powyżej progu i sezonowe obniżki.</p>
     <p class="disclosure">Przyciski „Sprawdź cenę" prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Cena na LEGO.com pochodzi z cotygodniowego odczytu listingu lego.pl; wiążąca jest zawsze cena w koszyku sklepu.</p>
 
     {serie.length > 0 && <FiltrSetow serie={serie} liczbaWSerii={(s) => wSerii(s).length} rzeczownik="zestawów" />}
@@ -82,7 +85,7 @@ const faqSchema = {
           <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
           <h2>Ekskluzywy, których nie ma już w lego.pl <small class="sekcja-licznik">{poEol.length}</small></h2>
         </div>
-        <p class="prose prose--szeroki">Nie ma ich już w sklepie LEGO, a że nigdy nie trafiły do innych sklepów, zostaje wyłącznie rynek wtórny – ceny poniżej to oferty z Allegro, jeśli je widzimy.</p>
+        <p class="prose prose--szeroki">Nie ma ich już w sklepie LEGO. Czasem zostają jeszcze w sieciach, które je dostały, ale najczęściej zostaje rynek wtórny – ceny poniżej to najtańsze oferty, jakie widzimy.</p>
         <TabelaSetow wiersze={poEol} naglowekCeny="Cena" />
       </section>
     )}

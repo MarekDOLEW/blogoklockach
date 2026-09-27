@@ -40,7 +40,7 @@ const DZIALY = [
   ['/deale/', 'Deale', 'zestawy, które dziś są wyraźnie poniżej ceny katalogowej'],
   ['/nowosci/', 'Nowości', 'premiery miesiąc po miesiącu'],
   ['/wycofania/', 'Wycofania', 'zestawy z potwierdzonym albo prognozowanym końcem sprzedaży'],
-  ['/ekskluzywne/', 'Ekskluzywne', 'zestawy dostępne wyłącznie w kanałach LEGO'],
+  ['/ekskluzywne/', 'Ekskluzywne', 'zestawy z etykietą „Ekskluzywne” na LEGO.com — część trafia też do sieci'],
   ['/serie/', 'Serie', 'City, Technic, Icons, Star Wars i pozostałe linie'],
   ['/kolekcjoner/', 'Dla kolekcjonera', 'zestawy o najwyższej cenie za element i najdłuższej obecności w ofercie'],
 ];

@@ -14,7 +14,7 @@ import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
 import { premieraSetu, zapowiedz, przeciek as przeciekSetu } from '../../lib/premiery.js';
 import { eolWLego, eolPotwierdzony, statusWycofania } from '../../lib/status.js';
-import { fmtElementy, polaczOferty, cenaKatalogowaSetu, nazwaSklepu, fmtCena } from '../../lib/oferty.js';
+import { fmtElementy, polaczOferty, cenaKatalogowaSetu, nazwaSklepu, fmtCena, sieciEkskluzywu } from '../../lib/oferty.js';
 import { hubIndeksowalny } from '../../lib/seo.js';
 import { podobneZSerii } from '../../lib/seria-huby.js';
 import { dataPl } from '../../lib/daty.js';
@@ -79,6 +79,9 @@ const eol = eolWLego(nr);
 const eolPewny = eol && eolPotwierdzony(nr);
 // dystrybucja wyłączna LEGO: flaga z sety.json (ręczna) albo z katalogu (listing lego.pl, co tydzień)
 const ekskluzyw = Boolean(s?.ekskluzyw || kat?.ekskluzyw);
+// …ale część ekskluzywów trafia też do wybranych sieci — wtedy nie piszemy „tylko LEGO”
+const sieciEx = ekskluzyw ? sieciEkskluzywu(nr, { sety, feed: ofertyFeed?.sety ?? {} }) : [];
+const listaSieci = (k) => k.map(nazwaSklepu).reduce((a, n, i, t) => (i === 0 ? n : i === t.length - 1 ? `${a} i ${n}` : `${a}, ${n}`), '');
 const wycof = statusWycofania(nr);
 // oferty sklepów poza LEGO – po EOL to one decydują, czy zestaw da się jeszcze kupić
 const ofertySklepowe = oferty.filter((o) => o.sklep !== 'lego' && o.sklep !== 'ceneo');
@@ -352,11 +355,18 @@ const opisMeta = najlepsza
             uzupełnimy ją, gdy tylko się pojawi. Poniżej ceny sklepów, o ile już go mają.
           </p>
         )}
-        {ekskluzyw && !eol && (
+        {ekskluzyw && !eol && sieciEx.length === 0 && (
           <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
-            <strong>Zestaw ekskluzywny – sprzedaje go tylko LEGO.</strong> Nie czekaj na promocję w innych sklepach,
-            bo nie trafia do ich cenników; okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).
+            <strong>Zestaw ekskluzywny – dziś sprzedaje go tylko LEGO.</strong> Nie widzimy go w innych sklepach,
+            więc okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).
             {' '}<a href="/ekskluzywne/">Wszystkie ekskluzywy →</a>
+          </p>
+        )}
+        {ekskluzyw && !eol && sieciEx.length > 0 && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Na LEGO.com zestaw ma etykietę „Ekskluzywne”, ale trafił też do wybranych sieci.</strong>{' '}
+            Dziś mamy go w: {listaSieci(sieciEx)}. Porównaj ceny w tabeli poniżej – bywa taniej niż u producenta.
+            {' '}<a href="/ekskluzywne/">Co znaczy „ekskluzywny”? →</a>
           </p>
         )}
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} eolLego={eol} eolPewny={eolPewny} />

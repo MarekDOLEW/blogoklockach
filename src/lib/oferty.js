@@ -123,6 +123,21 @@ export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
 }
 
 /**
+ * Sieci handlowe, w których zestaw z etykietą „Ekskluzywne” na LEGO.com mamy dziś
+ * w ofercie (klucze sklepów, najtańszy pierwszy). Decyzja Marka 27.09.2026: 115 ze
+ * 133 ekskluzywów miało ofertę w Empiku, Media Expercie, Planecie Klocków albo
+ * Smyku, a strona pisała „sprzedaje go tylko LEGO”. Nie liczymy LEGO, Ceneo
+ * (porównywarka) ani Allegro (resellerzy — ekskluzyw bywa tam zawsze).
+ */
+export function sieciEkskluzywu(nr, { sety = {}, feed = {} } = {}) {
+  const klucz = String(nr);
+  return polaczOferty(sety[klucz]?.oferty ?? [], feed[klucz] ?? null, klucz)
+    .filter((o) => !['lego', 'ceneo', 'allegro'].includes(o.sklep))
+    .sort((x, y) => x.cena - y.cena)
+    .map((o) => o.sklep);
+}
+
+/**
  * Najniższa aktualna oferta zestawu albo null. Zwraca { sklep, cena, data }.
  *
  * Pomija Ceneo: to porównywarka, a nie sklep – jej cena jest najniższą ofertą

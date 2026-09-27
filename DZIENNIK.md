@@ -92,6 +92,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-28 10:30 · CODE · Ekskluzywy: definicja „tylko LEGO” zastąpiona (decyzja Marka)
+
+**Zrobione:** Marek zauważył, że 11371 jest opisany jako „sprzedaje go tylko LEGO”, a tabela
+pokazuje Empik o 95 zł taniej. Pomiar: 115 ze 133 ekskluzywów miało ofertę w Empiku, ME, PK
+albo Smyku. Nowa funkcja `sieciEkskluzywu()` (`src/lib/oferty.js`) liczy sieci z ofertą
+(bez LEGO, Ceneo i Allegro). Hub (`[nr].astro`): gdy nie ma sieci, zostaje „dziś sprzedaje
+go tylko LEGO”; gdy są — „ma etykietę »Ekskluzywne«, ale trafił też do wybranych sieci:
+<lista>, porównaj ceny”. Strona `/ekskluzywne/`: nowy tytuł, H1 i wstęp z liczbą zestawów
+w sieciach, przepisane dwa pytania FAQ i akapit o zestawach po EOL. Poprawione opisy
+w `kolekcjoner.astro` i `llms.txt`. Build 9 660 stron: 102 huby z sieciami, 30 „tylko LEGO”.
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** nic. Nie piszemy już, że ekskluzyw „nigdy nie stanieje w innym
+sklepie” (dotyczy też tekstów i postów).
+
 ## 2026-09-27 08:00 · RADAR · Do zrobienia
 
 **faniklockow.pl · 26.09** — w ich liście premier października jest termin, którego nie mamy: przedsprzedaż BrickLink Designer Program seria 9 rusza 6 października o 17:00 (pięć zestawów, 209,99–1499,99 zł, dystrybucja specjalna).
