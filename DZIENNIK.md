@@ -103,8 +103,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Plan wdrożenia (po wyborze v1 albo v2):**
 1. Wybraną wersję → `src/pages/index.astro` (bez paska PODGLĄD, bez `noindex`, bez wrappera `.podglad-widok`).
 2. `promocje-lego.astro` → `src/pages/promocje-lego/index.astro` (albo zostaje adres /deale/ — do decyzji
-   Marka); stare `/deale/` → przekierowanie 301 na nowy adres (astro.config `redirects`), posty dealowe
-   `/deale/<slug>/` zostają pod swoimi adresami.
+   Marka); stare `/deale/` → **prawdziwe 301** na nowy adres, posty dealowe `/deale/<slug>/` zostają pod
+   swoimi adresami. UWAGA (Marek 27.09: „przenosić z 301”): `redirects` w astro.config przy stronie
+   statycznej daje 200 + meta refresh, NIE 301 — sprawdzone 27.09 na `/serie/tradycyjne-festiwale-chinskie/`
+   (200). Robimy 301 plikiem `public/_redirects` (obsługiwany przez Cloudflare static assets) albo w
+   workerze (wtedy zgoda Marka — zmiana workera); po wdrożeniu `curl -I` bez `-L` ma pokazać 301 + Location.
+   Przy okazji przenieść na 301 dwa istniejące przekierowania z astro.config (`/kalendarz-redakcyjny`,
+   `/serie/tradycyjne-festiwale-chinskie`).
 3. Menu (`Base.astro`): „Deale” → „Promocje LEGO”; „🔥 Promocje dziś” prowadzi na Promocje, nie na „/”.
 4. Poprawki stylu z `.podglad-widok` globalnie: `.sekcja-head h2 { margin:0 }` (klocek w osi tytułu),
    odstępy 16/20 px, bez ramek zdjęć w kartach i slajderze — sprawdzić wszystkie strony (huby, serie,
