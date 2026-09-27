@@ -1491,3 +1491,6 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .podglad-widok .sekcja-head + p { margin: 0 0 20px; }
 .podglad-widok .sekcja-head + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap),
 .podglad-widok .sekcja-head + p + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap, .chipy) { margin-top: 0; }
+/* slajder okazji: zdjęcie o 20% mniejsze, z oddechem */
+.promo-slajd .akt-foto img { width: 80%; height: 80%; padding: 0; }
+.podglad-widok .zajawki { margin-bottom: 0; }

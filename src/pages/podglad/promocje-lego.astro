@@ -47,36 +47,43 @@ const okazja = (s, o) => {
 };
 const jestOkazja = (s) => okazja(s, s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null));
 
-// 1. Slajder: 12 najlepszych okazji (limit Allegro jak w dealach).
-const okazje = wpisy.filter(jestOkazja).sort((a, b) => rabat(b) - rabat(a));
-const slajdy = przydzielOferty(okazje, { ile: 12, akceptuj: okazja });
-const wSlajderze = new Set(slajdy.map((d) => d.set.nr));
 
 // 2. Półki: okazje najpierw, potem pozostałe rabaty ≥15% („Dziś w dobrej cenie"
 //    w jednej liście). Zawsze co najmniej 10 pozycji – gdy w półce brakuje rabatów
 //    ≥15%, dopełniamy najwyższymi mniejszymi (procent widać przy cenie).
 //    Widać pierwsze MIN_WIDOCZNYCH (albo wszystkie okazje, jeśli jest ich więcej),
 //    reszta do MAKS_W_POLCE pod „Pokaż więcej".
-const MIN_WIDOCZNYCH = 10;
-const MAKS_W_POLCE = 40;
+const MIN_W_POLCE = 10;
+const MAKS_W_POLCE = 20;
+const NA_SLAJDER_Z_POLKI = 3;
 const POLKI = [
   { klucz: 'p1500', etykieta: 'Powyżej 1500 zł', pasuje: (c) => c > 1500 },
   { klucz: 'p800', etykieta: '801–1500 zł', pasuje: (c) => c > 800 && c <= 1500 },
   { klucz: 'p200', etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
   { klucz: 'do200', etykieta: 'Do 200 zł', pasuje: (c) => c <= 200 },
 ];
-const polki = POLKI.map((p) => {
-  const wPolce = wpisy.filter((s) => !wSlajderze.has(s.nr) && p.pasuje(najlepszaCena(s)) && rabat(s) > 0);
-  const kolejka = [
+// kolejka półki: okazje, potem rabaty ≥15%, na końcu mniejsze (tylko do minimum)
+const kolejkaPolki = (p, pomin = new Set()) => {
+  const wPolce = wpisy.filter((s) => !pomin.has(s.nr) && p.pasuje(najlepszaCena(s)) && rabat(s) > 0);
+  return [
     ...wPolce.filter(jestOkazja).sort((a, b) => rabat(b) - rabat(a)),
     ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a)),
     ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) < 15).sort((a, b) => rabat(b) - rabat(a)),
   ];
-  const pary = przydzielOferty(kolejka, { ile: MAKS_W_POLCE, minRabat: 1 });
-  // dopełnienie poniżej 15% tylko do minimum 10 pozycji
-  const pelne = pary.filter((d, i) => rabatOferty(d.set, d.oferta) >= 15 || i < MIN_WIDOCZNYCH);
-  const ileOkazji = pelne.filter((d) => okazja(d.set, d.oferta)).length;
-  return { ...p, pary: pelne, widoczne: Math.max(MIN_WIDOCZNYCH, ileOkazji) };
+};
+// 1. Slajder (Marek 27.09): po 3 zestawy z każdej półki cenowej, od najwyższej.
+const slajdy = POLKI.flatMap((p) => przydzielOferty(kolejkaPolki(p), { ile: NA_SLAJDER_Z_POLKI, minRabat: 1 }));
+const wSlajderze = new Set(slajdy.map((d) => d.set.nr));
+// 2. Półki: 10–20 pozycji. Zestawy ze slajdera odpadają, chyba że półka spadłaby
+//    przez to poniżej 10 (np. powyżej 1500 zł bywa ledwie kilka rabatów).
+const polki = POLKI.map((p) => {
+  const zbuduj = (pomin) => {
+    const pary = przydzielOferty(kolejkaPolki(p, pomin), { ile: MAKS_W_POLCE, minRabat: 1 });
+    return pary.filter((d, i) => rabatOferty(d.set, d.oferta) >= 15 || i < MIN_W_POLCE);
+  };
+  let pary = zbuduj(wSlajderze);
+  if (pary.length < MIN_W_POLCE) pary = zbuduj(new Set());
+  return { ...p, pary, widoczne: pary.length };
 }).filter((p) => p.pary.length);
 
 // 3. Posty dealowe (bez aktualności).
@@ -256,10 +263,11 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Prezentowniki dla dzieci i dorosłych</h2>
       </div>
-      <p>Przewodniki prezentowe według wieku, serii i budżetu – z realnymi cenami. <a href="/prezentowniki/">Wszystkie prezentowniki →</a></p>
+      <p>Przewodniki prezentowe według wieku, serii i budżetu – z realnymi cenami.</p>
       <div class="zajawki">
         {prezentowniki.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
+      <p class="sekcja-stopka"><a class="przycisk przycisk--duzy" href="/prezentowniki/">Zobacz wszystkie prezentowniki →</a></p>
     </section>
   )}
 
@@ -268,8 +276,9 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
       <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
       <h2>Top 10 wycofań wartych upolowania</h2>
     </div>
-    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
+    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii.</p>
     <TabelaSetow wiersze={topWycofania} />
+    <p class="sekcja-stopka"><a class="przycisk przycisk--duzy" href="/wycofania/">Zobacz wszystkie wycofania ({liczbaWycofan}) →</a></p>
   </section>
 
   <section class="sekcja persony">
