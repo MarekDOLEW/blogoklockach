@@ -1494,3 +1494,16 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* slajder okazji: zdjęcie o 20% mniejsze, z oddechem */
 .promo-slajd .akt-foto img { width: 80%; height: 80%; padding: 0; }
 .podglad-widok .zajawki { margin-bottom: 0; }
+
+/* ---------- Najazd na przycisk sklepu: żółty wszędzie (Marek 27.09.2026) ----------
+   Jedna reguła dla wszystkich przycisków prowadzących do sklepu (tabele cen, pasek
+   ceny, prezentowniki, slajder, przyciski w postach). !important, bo poszczególne
+   komponenty mają własne :hover o wyższej swoistości. */
+a.cta:hover, a.cta:focus-visible,
+a.set-sprawdz:hover, a.set-sprawdz:focus-visible,
+a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
+  background: var(--zolty) !important; color: var(--granat) !important; border-color: var(--zolty) !important;
+}
+/* podgląd Promocji: krótki opis zestawu w listingu (jak na wycofaniach) */
+.tabela-promocje .set-opis { display: block; margin-top: 4px; font-size: 0.86rem; color: var(--granat-60); line-height: 1.4; }
+@media (max-width: 720px) { .tabela-promocje tr { grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "opis opis" "rabat cena" "cta cta"; } .tabela-promocje .set-opis { grid-area: opis; } }

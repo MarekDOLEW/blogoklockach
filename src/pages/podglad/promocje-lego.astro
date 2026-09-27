@@ -12,12 +12,21 @@ import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import wycofaniaDane from '../../data/wycofania.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { urlZdjecia } from '../../lib/media.js';
+import { urlZdjecia, opisSetu } from '../../lib/media.js';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
 import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
 import { wierszWycofania } from '../../lib/wiersze.js';
 
+// krótki opis do listingu: pierwsze zdanie (albo dwa, gdy pierwsze bardzo krótkie), maks. ~170 znaków
+const krotkiOpis = (nr) => {
+  const t = (opisSetu(nr, { sety })?.tekst ?? '').replace(/\s+/g, ' ').trim();
+  if (!t) return null;
+  const zdania = t.match(/[^.!?]+[.!?]+/g) ?? [t];
+  let wynik = zdania[0].trim();
+  if (wynik.length < 70 && zdania[1]) wynik += ' ' + zdania[1].trim();
+  return wynik.length > 180 ? wynik.slice(0, 170).replace(/\s+\S*$/, '') + '…' : wynik;
+};
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
@@ -212,6 +221,7 @@ const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwoła
                   </td>
                   <td class="kol-opis">
                     <span class="set-nazwa"><a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">LEGO {s.nr} {s.nazwa}</a></span>
+                    {krotkiOpis(s.nr) && <span class="set-opis">{krotkiOpis(s.nr)}</span>}
                     <span class="set-meta">{[s.seria, s.elementy ? `${fmtElementy(s.elementy)} el.` : null].filter(Boolean).join(' · ')}</span>
                     <span class="promo-znaczki">
                       {okazja(s, oferta) && <span class="badge-okazja">okazja</span>}
