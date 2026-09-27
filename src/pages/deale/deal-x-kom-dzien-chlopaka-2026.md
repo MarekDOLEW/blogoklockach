@@ -3,12 +3,17 @@ layout: ../../layouts/Artykul.astro
 title: "Dzień Chłopaka w x-kom: kask Leclerca, Dodge Charger i piłkarskie momenty najtaniej w naszych notowaniach"
 opis: "Akcja x-kom na Dzień Chłopaka trwa do 30 września i obejmuje dziewięć zestawów LEGO. Cztery z nich schodzą poniżej wszystkiego, co dotąd notowaliśmy, jeden jest droższy niż rynek. Rozkładamy listę na czynniki pierwsze."
 data: "2026-09-23"
-kategoria: "Deal"
-dzial: "Deale"
+kategoria: "Aktualności"
+dzial: "Aktualności"
+zaktualizowano: "2026-09-27"
+okladka: "43014"
+wazne_do: "2026-09-30"
 tagi: ["Dla rodzica", "Dla AFOL"]
 wyroznienie: true
 pasek_zestaw: "43014"
 ---
+
+> **W skrócie:** akcja x-kom na Dzień Chłopaka trwa **do 30 września**, bez kodu. Najmocniejsze pozycje: kask Leclerca 43014 za 249,90 zł, Dodge Charger 42231 za 444,90 zł i piłkarskie momenty 43012/43027 po 76,90 zł – wszystkie najtańsze w historii naszych notowań. Jedną pozycję, McLarena 42228, znajdziesz taniej gdzie indziej.
 
 **x-kom** prowadzi do **30 września** akcję na Dzień Chłopaka z dziewięcioma zestawami LEGO. Kwoty w tym tekście pochodzą z informacji sklepu z 23 września — bez kodu, ceny są widoczne od razu na kartach produktów. Sklep liczy rabat od własnej ceny wyjściowej, my liczymy od ceny katalogowej LEGO, więc procenty poniżej są inne niż w reklamie. Z dziewięciu pozycji **cztery są najtańsze w historii naszych notowań**, cztery biją dzisiejszy rynek bez rekordu, a jedną znajdziesz taniej gdzie indziej.
 

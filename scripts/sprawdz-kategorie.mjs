@@ -17,6 +17,8 @@ for (const p of pliki) {
   const m = /^---\n([\s\S]*?)\n---/.exec(readFileSync(p, 'utf8'));
   const k = m && /^kategoria:\s*["']?([^"'\n]+?)["']?\s*(#.*)?$/m.exec(m[1])?.[1]?.trim();
   if (k && !dozwolone.has(k)) bledy.push(`${p}: kategoria "${k}"`);
+  // Aktualność zawsze ze zdjęciem (decyzja Marka 27.09.2026) — karta na głównej bez niego jest pusta.
+  if (k === 'Aktualności' && !/^okladka:\s*\S/m.test(m[1])) bledy.push(`${p}: aktualność bez pola okladka`);
 }
 if (bledy.length) { console.error(`Niedozwolone kategorie (dozwolone: ${[...dozwolone].join(', ')}):\n  ${bledy.join('\n  ')}`); process.exit(1); }
 console.log(`Kategorie OK (${pliki.length} tekstów).`);

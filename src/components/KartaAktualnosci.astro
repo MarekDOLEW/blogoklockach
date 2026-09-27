@@ -1,0 +1,27 @@
+---
+// Karta aktualności: większa od zwykłej zajawki (dwie w rzędzie, nie trzy),
+// z żółtym paskiem u góry, zdjęciem 16:9, datą publikacji i — gdy akcja sklepu
+// ma koniec — plakietką „trwa do …" / „akcja zakończona". Dane: src/lib/aktualnosci.js.
+const { a, poziom = 3, eager = false } = Astro.props;
+const Tytul = `h${poziom}`;
+---
+<a class:list={['karta', 'akt-karta', { 'akt-karta--koniec': a.zakonczona }]} href={a.url} data-kategoria={a.grupa}>
+  <span class="akt-foto">
+    {a.foto ? (
+      <img src={a.foto} alt={a.fotoAlt} width="800" height="450" loading={eager ? 'eager' : 'lazy'} />
+    ) : (
+      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+    )}
+  </span>
+  <span class="akt-tresc">
+    <span class="akt-meta">
+      <span class="akt-etykieta">Aktualność</span>
+      <time datetime={a.data}>{a.dataTekst}</time>
+      {a.wazneDo && !a.zakonczona && <span class="akt-termin">trwa do {a.wazneDoTekst}</span>}
+      {a.zakonczona && <span class="akt-termin akt-termin--koniec">akcja zakończona</span>}
+    </span>
+    <Tytul class="akt-tytul">{a.tytul}</Tytul>
+    <span class="akt-opis">{a.opis}</span>
+    <span class="akt-wiecej">Czytaj →</span>
+  </span>
+</a>

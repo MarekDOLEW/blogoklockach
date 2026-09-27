@@ -135,6 +135,7 @@ function inne() {
     wpis('/', dzisIso),
     wpis('/wycofania/', dzisIso),
     wpis('/ekskluzywne/', dzisIso),
+    wpis('/aktualnosci/', maxData(teksty().filter((x) => x.kategoria === 'Aktualności').map((x) => x.lastmod))),
     wpis('/przecieki/', dzisIso),
     wpis('/o-nas/'),
     ...korzen,

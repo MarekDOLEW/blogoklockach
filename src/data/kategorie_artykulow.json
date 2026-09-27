@@ -1,11 +1,12 @@
 {
   "_meta": {
     "opis": "Stala lista kategorii dzialu /artykuly/ w kolejnosci wyswietlania. Pasek filtra pokazuje wszystkie, takze puste – czytelnik ma od razu widziec, czego szukac, a redakcja: gdzie sa dziury.",
-    "zasada": "Kategoria artykulu (frontmatter `kategoria`) musi byc jedna z tych siedmiu nazw redakcyjnych. Teksty SPRZEDAZOWE maja dwie osobne wartosci poza ta lista: `Prezentownik` (dzial /prezentowniki/) i `Deal` (dzial /deale/) – decyzja Marka 15.09.2026. Build sprawdza pole skryptem scripts/sprawdz-kategorie.mjs.",
+    "zasada": "Kategoria artykulu (frontmatter `kategoria`) musi byc jedna z tych nazw (siedem redakcyjnych ze standardu + Aktualnosci od 27.09.2026, decyzja Marka: akcje sklepow i kampanie z data; obowiazkowe pole okladka, opcjonalne wazne_do). Teksty SPRZEDAZOWE maja dwie osobne wartosci poza ta lista: `Prezentownik` (dzial /prezentowniki/) i `Deal` (dzial /deale/) – decyzja Marka 15.09.2026. Build sprawdza pole skryptem scripts/sprawdz-kategorie.mjs.",
     "nazewnictwo": "Nowy artykul nazywamy od kategorii: 'Recenzja LEGO 71858 ...', 'Ranking ...' – po nazwie widac, gdzie tekst trafia.",
-    "zaktualizowano": "2026-08-27"
+    "zaktualizowano": "2026-09-27"
   },
   "kategorie": [
+    { "nazwa": "Aktualności", "opis": "Akcje sklepów i kampanie z terminem – co jest naprawdę okazją." },
     { "nazwa": "Premiery",    "opis": "Nowe zestawy i całe fale premierowe – co wchodzi do sprzedaży i czy warto." },
     { "nazwa": "Recenzje",    "opis": "Pojedynczy zestaw od środka: budowanie, gotowy model, próg zakupu." },
     { "nazwa": "Rankingi",    "opis": "Zestawienia od najlepszego – w obrębie serii, budżetu albo tematu." },

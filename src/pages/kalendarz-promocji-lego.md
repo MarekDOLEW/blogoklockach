@@ -204,7 +204,7 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 
-Jedyna kampania sklepu zewnętrznego, która obejmuje cały nasz szczyt sezonu. W 2025 roku trwała od 31 października do 1 grudnia (termin z ogłoszenia Allegro dla sprzedających), w 2024 ruszyła 4 listopada. Terminu na 2026 Allegro jeszcze nie podało. Jeśli wzorzec się utrzyma, kampania ruszy na przełomie października i listopada i skończy się w Cyber Monday, 30 listopada. Datę wpiszemy, gdy Allegro ją ogłosi.
+Jedyna kampania sklepu zewnętrznego, która obejmuje cały nasz szczyt sezonu. W 2025 roku trwała od 31 października do 1 grudnia (termin z ogłoszenia Allegro dla sprzedających), w 2024 ruszyła 4 listopada. Terminu na 2026 Allegro jeszcze nie podało. Jeśli wzorzec się utrzyma, kampania ruszy na przełomie października i listopada i skończy się w Cyber Monday, 30 listopada. Datę wpiszemy, gdy Allegro ją ogłosi. Jakie zestawy obserwować i od jakiej ceny zaczyna się okazja – piszemy w aktualności [Allegro Black Weeks 2026 – na jakie LEGO warto polować?](/artykuly/allegro-black-weeks-2026-lego/).
 
 Kampania trwa miesiąc, ale to nie znaczy, że przez miesiąc wszystko jest tańsze. Rabaty dają poszczególni sprzedający na wybrane oferty, a promocje zmieniają się w trakcie kampanii. Ceny LEGO z Allegro śledzimy w tabelach na podstronach zestawów, więc rabat widać tam od razu, liczony od ceny katalogowej, a nie od ceny „przed promocją”.
 

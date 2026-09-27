@@ -31,6 +31,7 @@ description: >-
 
 | Kategoria | Zakres |
 |---|---|
+| Aktualności | Akcje sklepów i kampanie z terminem – co jest naprawdę okazją. |
 | Premiery | Nowe zestawy i całe fale premierowe – co wchodzi do sprzedaży i czy warto. |
 | Recenzje | Pojedynczy zestaw od środka: budowanie, gotowy model, próg zakupu. |
 | Rankingi | Zestawienia od najlepszego – w obrębie serii, budżetu albo tematu. |

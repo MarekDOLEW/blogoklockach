@@ -1,0 +1,20 @@
+---
+// Wszystkie aktualności (wejście „Zobacz wszystkie" ze strony głównej).
+// Ta sama lista i ta sama karta co slajder na głównej — src/lib/aktualnosci.js.
+import Base from '../../layouts/Base.astro';
+import KartaAktualnosci from '../../components/KartaAktualnosci.astro';
+import { aktualnosci } from '../../lib/aktualnosci.js';
+
+const lista = aktualnosci();
+---
+<Base
+  title="Aktualności LEGO – akcje sklepów, kampanie i okazje z terminem"
+  description="Akcje sklepów na zestawy LEGO, kampanie typu Black Weeks i promocje z datą końca. Sprawdzamy, co jest naprawdę okazją, a co tylko wygląda na rabat."
+>
+  <h1 style="margin-top:28px">Aktualności</h1>
+  <p class="prose prose--szeroki">Akcje sklepów, kampanie i promocje z datą końca – z naszą oceną, co jest naprawdę okazją, a co tylko dużym procentem na plakacie. Warto tu zaglądać, bo czasem trafia się niezła okazja.</p>
+  <div class="akt-siatka">
+    {lista.map((a, i) => <KartaAktualnosci a={a} poziom={2} eager={i < 2} />)}
+  </div>
+  {lista.length === 0 && <p>Na razie brak aktualności.</p>}
+</Base>

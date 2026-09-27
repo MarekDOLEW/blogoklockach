@@ -92,6 +92,24 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 13:00 · CODE · Nowa kategoria „Aktualności” + sekcja na głównej, Black Weeks i Dzień Chłopaka
+
+**Zrobione:** kategoria `Aktualności` (rejestr `kategorie_artykulow.json`, filtr w `/artykuly/`,
+reguła w `redakcja/ustalenia-projektowe.md`, skille wyeksportowane). Build odrzuca aktualność bez
+`okladka`; opcjonalne `wazne_do` daje plakietkę „trwa do …” / „akcja zakończona”.
+Strona główna: pod slajderem deali sekcja „Aktualności” (2 karty w rzędzie, slajder do 6,
+„Zobacz wszystkie” → nowa strona `/aktualnosci/`, w sitemapie `inne`, link w stopce);
+„Najnowsze deale” przeniesione pod „Dziś w dobrej cenie”; aktualności nie dublują się w
+„Najnowszych deal[ach]” ani „Ostatnio na blogu”. Dwie aktualności:
+`/deale/deal-x-kom-dzien-chlopaka-2026/` (adres bez zmian, kategoria Aktualności, okładka 43014,
+wazne_do 30.09, blok „W skrócie”) i nowa `/artykuly/allegro-black-weeks-2026-lego/` (tekst Piotra,
+śródtytuły, 5 tabel cen, linki do hubów, recenzji 31168 i 60508 oraz kalendarza; kalendarz linkuje
+z powrotem). Przy okazji: z końca `global.css` usunięty osierocony `}` — po dopisaniu reguł zjadłby
+pierwszą z nich. Build 9 665 stron, bez ostrzeżeń CSS, bez poziomego scrolla (1280 i 390 px).
+**Stan:** gotowe, na main.
+**Dla drugiej strony (Marek):** paczki `skille/*.skill` odświeżone — wgrać `lego-standard-redakcyjny`
+i `lego-standard-sprzedazowy` w claude.ai → Settings → Skills, żeby Cowork znał nową kategorię.
+
 ## 2026-09-27 12:45 · CODE · Trzy recenzje Piotra na stronie (75438, 60508, 77242)
 
 **Zrobione:** DOCX przez `import-artykul.py` (bez obrazów w dokumentach). Treść Piotra bez zmian;

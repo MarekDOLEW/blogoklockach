@@ -96,3 +96,20 @@ poziom rynkowy podajemy, gdy dane go dają** (np. zestaw od miesięcy stabilnie
 10% poniżej RRP) — wtedy jest informacją, a nie wymogiem. Dokument Piotra
 zostaje bez zmian; skill `lego-standard-redakcyjny` generuje się z tą regułą.
 
+
+## Kategoria „Aktualności” *(decyzja Marka 27.09.2026)*
+
+Ósma kategoria obok siedmiu ze standardu: **akcje sklepów i kampanie z terminem**
+(Dzień Chłopaka w x-kom, Allegro Black Weeks itp.). Na stronie głównej stoją zaraz
+pod slajderem deali, w **dwóch kolumnach** (slajder do 6 pozycji), a lista pełna
+jest pod `/aktualnosci/`. Zasady:
+
+- frontmatter `kategoria: "Aktualności"`; plik w `src/pages/artykuly/` (starsze
+  posty mogą zostać w swoim katalogu — liczy się kategoria, nie ścieżka);
+- **`okladka` obowiązkowa** — build (`scripts/sprawdz-kategorie.mjs`) odrzuca
+  aktualność bez zdjęcia;
+- `wazne_do: "RRRR-MM-DD"`, gdy akcja ma koniec — karta pokazuje „trwa do …”,
+  a po terminie „akcja zakończona” i spada na koniec listy;
+- datowane ceny sklepowe są tu dopuszczalne, jeśli tekst podaje datę sprawdzenia
+  („Ceny sprawdzone: 26.09.2026”) — aktualność opisuje moment, nie trwałą drabinę.
+  Próg zakupu i odniesienie do RRP obowiązują jak w innych tekstach.
