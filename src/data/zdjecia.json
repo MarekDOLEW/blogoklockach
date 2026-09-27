@@ -5,14 +5,15 @@
    "planetaklockow": "feed afiliacyjny webePartners (pole ImageOriginalUrl)",
    "mediaexpert": "feed afiliacyjny Performers (pole g:image_link)",
    "rebrickable": "https://rebrickable.com/terms/ - \"Images of Sets and Parts may be used on external websites or apps. You can download them or hotlink them\". Wymagana wzmianka o zrodle.",
-   "brickset": "https://brickset.com/article/52664/about-brickset - oficjalne zdjecia prasowe LEGO; uzyte tylko dla 10318 (brak na Rebrickable)"
+   "brickset": "https://brickset.com/article/52664/about-brickset - oficjalne zdjecia prasowe LEGO; od 27.09.2026 zapasowe zrodlo dla zestawow bez zdjecia na Rebrickable (98 pozycji, glownie nowosci i warianty -2/-3)"
   },
   "uwagi": [
    "Zdjecia sa hotlinkowane, nie hostowane u nas. URL-e sklepow moga sie zmienic gdy produkt zejdzie z oferty - frontend musi miec obsluge onerror i placeholder.",
    "URL-e Rebrickable zbudowane wzorcem <numer>-1.jpg, nie weryfikowane pojedynczo. Probka 15 zestawow z lat 1977-2010 zwrocila HTTP 200 dla wszystkich.",
    "Rebrickable wymaga wzmianki o zrodle - dodaj podpis \"Zdjecia zestawow archiwalnych: Rebrickable.com\" w stopce lub przy zdjeciu.",
    "Numery niecyfrowe (slugi typu PONDDUCK) nie maja zdjecia - dla nich placeholder.",
-   "URL-e Media Expert dzialaja z przegladarki, ale odrzucaja zapytania z Cloudflare Workers - worker /img/ nie moze ich pobrac (502). Dlatego generator obrazy.json pomija mediaexpert.pl, a sety z feedu ME maja tu nadpisane zrodlo Rebrickable (2026-08-16)."
+   "URL-e Media Expert dzialaja z przegladarki, ale odrzucaja zapytania z Cloudflare Workers - worker /img/ nie moze ich pobrac (502). Dlatego generator obrazy.json pomija mediaexpert.pl, a sety z feedu ME maja tu nadpisane zrodlo Rebrickable (2026-08-16).",
+   "27.09.2026: dopisane 166 zdjec dla zestawow bez zadnego zrodla (68 Rebrickable, 98 Brickset), wgrane do R2 skryptem r2-obrazy.mjs --klucze. Bez zdjecia zostalo 10 pozycji (edukacyjne 20209/20211/20212, 75188-3, IRONMAN, 342160 i promocyjne L000...) - brak ich na Rebrickable, Brickset i LEGO.com."
   ],
   "wygenerowano": "2026-08-14"
  },
@@ -30455,5 +30456,669 @@
  "76355": {
   "url": "https://cdn.rebrickable.com/media/sets/76355-1.jpg",
   "zrodlo": "rebrickable"
+ },
+ "10048": {
+  "url": "https://cdn.rebrickable.com/media/sets/10048-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "169930": {
+  "url": "https://cdn.rebrickable.com/media/sets/169930-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "169920": {
+  "url": "https://cdn.rebrickable.com/media/sets/169920-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "1000": {
+  "url": "https://cdn.rebrickable.com/media/sets/1000-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "10282-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/10282-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "170110": {
+  "url": "https://cdn.rebrickable.com/media/sets/170110-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "170180": {
+  "url": "https://cdn.rebrickable.com/media/sets/170180-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "1965": {
+  "url": "https://cdn.rebrickable.com/media/sets/1965-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "10072": {
+  "url": "https://cdn.rebrickable.com/media/sets/10072-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "169940": {
+  "url": "https://cdn.rebrickable.com/media/sets/169940-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "10371": {
+  "url": "https://cdn.rebrickable.com/media/sets/10371-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "20013": {
+  "url": "https://cdn.rebrickable.com/media/sets/20013-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "20205": {
+  "url": "https://cdn.rebrickable.com/media/sets/20205-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "1270-3": {
+  "url": "https://images.brickset.com/sets/images/1270-3.jpg",
+  "zrodlo": "brickset"
+ },
+ "20207": {
+  "url": "https://cdn.rebrickable.com/media/sets/20207-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "2878-3": {
+  "url": "https://cdn.rebrickable.com/media/sets/2878-3.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "170050": {
+  "url": "https://cdn.rebrickable.com/media/sets/170050-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "2878-4": {
+  "url": "https://cdn.rebrickable.com/media/sets/2878-4.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "2878-5": {
+  "url": "https://cdn.rebrickable.com/media/sets/2878-5.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "3181-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/3181-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "21373": {
+  "url": "https://cdn.rebrickable.com/media/sets/21373-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "2928-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/2928-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "342140": {
+  "url": "https://cdn.rebrickable.com/media/sets/342140-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4085-3": {
+  "url": "https://cdn.rebrickable.com/media/sets/4085-3.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "342170": {
+  "url": "https://cdn.rebrickable.com/media/sets/342170-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "40899": {
+  "url": "https://cdn.rebrickable.com/media/sets/40899-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "3191-2": {
+  "url": "https://images.brickset.com/sets/images/3191-2.jpg",
+  "zrodlo": "brickset"
+ },
+ "40897": {
+  "url": "https://cdn.rebrickable.com/media/sets/40897-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "40907": {
+  "url": "https://cdn.rebrickable.com/media/sets/40907-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4346-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4346-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4347-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4347-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4348-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4348-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4496-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4496-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4349-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4349-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4856": {
+  "url": "https://cdn.rebrickable.com/media/sets/4856-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "5007094": {
+  "url": "https://cdn.rebrickable.com/media/sets/5007094-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "5007851": {
+  "url": "https://cdn.rebrickable.com/media/sets/5007851-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "4768-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/4768-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "5352-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/5352-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "6614229-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/6614229-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "5009393": {
+  "url": "https://cdn.rebrickable.com/media/sets/5009393-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "66813": {
+  "url": "https://cdn.rebrickable.com/media/sets/66813-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "71316": {
+  "url": "https://cdn.rebrickable.com/media/sets/71316-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72052": {
+  "url": "https://cdn.rebrickable.com/media/sets/72052-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72055": {
+  "url": "https://cdn.rebrickable.com/media/sets/72055-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72054": {
+  "url": "https://cdn.rebrickable.com/media/sets/72054-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72056": {
+  "url": "https://cdn.rebrickable.com/media/sets/72056-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72058": {
+  "url": "https://cdn.rebrickable.com/media/sets/72058-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72060": {
+  "url": "https://cdn.rebrickable.com/media/sets/72060-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72061": {
+  "url": "https://cdn.rebrickable.com/media/sets/72061-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "72057": {
+  "url": "https://cdn.rebrickable.com/media/sets/72057-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7221-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7221-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7237-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7237-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7236-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7236-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7245-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7245-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7261-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7261-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "75188-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/75188-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7349-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7349-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7349-3": {
+  "url": "https://cdn.rebrickable.com/media/sets/7349-3.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "75457": {
+  "url": "https://cdn.rebrickable.com/media/sets/75457-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7893-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7893-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "7894-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/7894-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "850514": {
+  "url": "https://cdn.rebrickable.com/media/sets/850514-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "8061": {
+  "url": "https://cdn.rebrickable.com/media/sets/8061-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "77094": {
+  "url": "https://images.brickset.com/sets/images/77094-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "853766": {
+  "url": "https://cdn.rebrickable.com/media/sets/853766-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "853649": {
+  "url": "https://cdn.rebrickable.com/media/sets/853649-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "8857-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/8857-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "8858-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/8858-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "912408-2": {
+  "url": "https://cdn.rebrickable.com/media/sets/912408-2.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "880021": {
+  "url": "https://images.brickset.com/sets/images/880021-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "9472": {
+  "url": "https://cdn.rebrickable.com/media/sets/9472-1.jpg",
+  "zrodlo": "rebrickable"
+ },
+ "ARENDELLE": {
+  "url": "https://images.brickset.com/sets/images/ARENDELLE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "AUTODESK1": {
+  "url": "https://images.brickset.com/sets/images/AUTODESK1-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "BLUE": {
+  "url": "https://images.brickset.com/sets/images/BLUE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "BELLE": {
+  "url": "https://images.brickset.com/sets/images/BELLE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "BNJOL": {
+  "url": "https://images.brickset.com/sets/images/BNJOL-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "CAPTAINMARVEL": {
+  "url": "https://images.brickset.com/sets/images/CAPTAINMARVEL-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON021": {
+  "url": "https://images.brickset.com/sets/images/COMCON021-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON023": {
+  "url": "https://images.brickset.com/sets/images/COMCON023-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON028": {
+  "url": "https://images.brickset.com/sets/images/COMCON028-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON027": {
+  "url": "https://images.brickset.com/sets/images/COMCON027-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON034": {
+  "url": "https://images.brickset.com/sets/images/COMCON034-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "COMCON035": {
+  "url": "https://images.brickset.com/sets/images/COMCON035-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "DRWU": {
+  "url": "https://images.brickset.com/sets/images/DRWU-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "EASTERCHICK": {
+  "url": "https://images.brickset.com/sets/images/EASTERCHICK-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "ELEPHANT": {
+  "url": "https://images.brickset.com/sets/images/ELEPHANT-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "FLOWER": {
+  "url": "https://images.brickset.com/sets/images/FLOWER-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "ICECREAM": {
+  "url": "https://images.brickset.com/sets/images/ICECREAM-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "FRIENDS10": {
+  "url": "https://images.brickset.com/sets/images/FRIENDS10-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "JEEP": {
+  "url": "https://images.brickset.com/sets/images/JEEP-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002198": {
+  "url": "https://images.brickset.com/sets/images/L0002198-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002199": {
+  "url": "https://images.brickset.com/sets/images/L0002199-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002200": {
+  "url": "https://images.brickset.com/sets/images/L0002200-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002201": {
+  "url": "https://images.brickset.com/sets/images/L0002201-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002202": {
+  "url": "https://images.brickset.com/sets/images/L0002202-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002203": {
+  "url": "https://images.brickset.com/sets/images/L0002203-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002212": {
+  "url": "https://images.brickset.com/sets/images/L0002212-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002214": {
+  "url": "https://images.brickset.com/sets/images/L0002214-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002220": {
+  "url": "https://images.brickset.com/sets/images/L0002220-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002221": {
+  "url": "https://images.brickset.com/sets/images/L0002221-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002222": {
+  "url": "https://images.brickset.com/sets/images/L0002222-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002223": {
+  "url": "https://images.brickset.com/sets/images/L0002223-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002224": {
+  "url": "https://images.brickset.com/sets/images/L0002224-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002246": {
+  "url": "https://images.brickset.com/sets/images/L0002246-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002225": {
+  "url": "https://images.brickset.com/sets/images/L0002225-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002247": {
+  "url": "https://images.brickset.com/sets/images/L0002247-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002248": {
+  "url": "https://images.brickset.com/sets/images/L0002248-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002249": {
+  "url": "https://images.brickset.com/sets/images/L0002249-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002250": {
+  "url": "https://images.brickset.com/sets/images/L0002250-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002251": {
+  "url": "https://images.brickset.com/sets/images/L0002251-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002252": {
+  "url": "https://images.brickset.com/sets/images/L0002252-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002260": {
+  "url": "https://images.brickset.com/sets/images/L0002260-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002265": {
+  "url": "https://images.brickset.com/sets/images/L0002265-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002276": {
+  "url": "https://images.brickset.com/sets/images/L0002276-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002277": {
+  "url": "https://images.brickset.com/sets/images/L0002277-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "20204": {
+  "url": "https://images.brickset.com/sets/images/20204-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002278": {
+  "url": "https://images.brickset.com/sets/images/L0002278-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002283": {
+  "url": "https://images.brickset.com/sets/images/L0002283-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002284": {
+  "url": "https://images.brickset.com/sets/images/L0002284-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002285": {
+  "url": "https://images.brickset.com/sets/images/L0002285-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "45678": {
+  "url": "https://images.brickset.com/sets/images/45678-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002291": {
+  "url": "https://images.brickset.com/sets/images/L0002291-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002293": {
+  "url": "https://images.brickset.com/sets/images/L0002293-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002292": {
+  "url": "https://images.brickset.com/sets/images/L0002292-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002294": {
+  "url": "https://images.brickset.com/sets/images/L0002294-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "LANDDUCK": {
+  "url": "https://images.brickset.com/sets/images/LANDDUCK-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "LCP2012": {
+  "url": "https://images.brickset.com/sets/images/LCP2012-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "LJXMAS01": {
+  "url": "https://images.brickset.com/sets/images/LJXMAS01-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "7235-2": {
+  "url": "https://images.brickset.com/sets/images/7235-2.jpg",
+  "zrodlo": "brickset"
+ },
+ "LJXMAS03": {
+  "url": "https://images.brickset.com/sets/images/LJXMAS03-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "MCPIG": {
+  "url": "https://images.brickset.com/sets/images/MCPIG-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "MINECON": {
+  "url": "https://images.brickset.com/sets/images/MINECON-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "NL2023": {
+  "url": "https://images.brickset.com/sets/images/NL2023-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "LJXMAS02": {
+  "url": "https://images.brickset.com/sets/images/LJXMAS02-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "NL2023-2": {
+  "url": "https://images.brickset.com/sets/images/NL2023-2.jpg",
+  "zrodlo": "brickset"
+ },
+ "OLAF": {
+  "url": "https://images.brickset.com/sets/images/OLAF-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "PETSHOP": {
+  "url": "https://images.brickset.com/sets/images/PETSHOP-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "REDTEMPLE": {
+  "url": "https://images.brickset.com/sets/images/REDTEMPLE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "PONDDUCK": {
+  "url": "https://images.brickset.com/sets/images/PONDDUCK-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2015": {
+  "url": "https://images.brickset.com/sets/images/SDCC2015-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2015-4": {
+  "url": "https://images.brickset.com/sets/images/SDCC2015-4.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2018": {
+  "url": "https://images.brickset.com/sets/images/SDCC2018-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2017": {
+  "url": "https://images.brickset.com/sets/images/SDCC2017-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2016": {
+  "url": "https://images.brickset.com/sets/images/SDCC2016-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SMMM": {
+  "url": "https://images.brickset.com/sets/images/SMMM-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "SDCC2019": {
+  "url": "https://images.brickset.com/sets/images/SDCC2019-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "STORMBREAKER": {
+  "url": "https://images.brickset.com/sets/images/STORMBREAKER-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TEDDY": {
+  "url": "https://images.brickset.com/sets/images/TEDDY-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRICERATOPS": {
+  "url": "https://images.brickset.com/sets/images/TRICERATOPS-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRU02": {
+  "url": "https://images.brickset.com/sets/images/TRU02-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUCOGSWORTH": {
+  "url": "https://images.brickset.com/sets/images/TRUCOGSWORTH-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUJWGATE": {
+  "url": "https://images.brickset.com/sets/images/TRUJWGATE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUKAYAK": {
+  "url": "https://images.brickset.com/sets/images/TRUKAYAK-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRULUMIERE": {
+  "url": "https://images.brickset.com/sets/images/TRULUMIERE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUNINJAGO": {
+  "url": "https://images.brickset.com/sets/images/TRUNINJAGO-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUNINJAGO-2": {
+  "url": "https://images.brickset.com/sets/images/TRUNINJAGO-2.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUNINJAGO-3": {
+  "url": "https://images.brickset.com/sets/images/TRUNINJAGO-3.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUNINJAGO-4": {
+  "url": "https://images.brickset.com/sets/images/TRUNINJAGO-4.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUSANTA": {
+  "url": "https://images.brickset.com/sets/images/TRUSANTA-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUSHIELD": {
+  "url": "https://images.brickset.com/sets/images/TRUSHIELD-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "TRUSPIDERMAN": {
+  "url": "https://images.brickset.com/sets/images/TRUSPIDERMAN-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "VALENTINE": {
+  "url": "https://images.brickset.com/sets/images/VALENTINE-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "WISHINGWELL": {
+  "url": "https://images.brickset.com/sets/images/WISHINGWELL-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002204": {
+  "url": "https://images.brickset.com/sets/images/L0002204-1.jpg",
+  "zrodlo": "brickset"
+ },
+ "L0002282": {
+  "url": "https://images.brickset.com/sets/images/L0002282-1.jpg",
+  "zrodlo": "brickset"
  }
 }

@@ -58,10 +58,15 @@ const kluczeArg = arg.find((a) => a.startsWith('--klucze='))?.slice(9) ?? (arg.i
 const galerie = JSON.parse(readFileSync('src/data/galerie.json', 'utf8'));
 const obrazy = JSON.parse(readFileSync('src/data/obrazy.json', 'utf8'));
 
-// klucz -> URL źródła, dokładnie tak, jak liczy to worker
+// klucz -> URL źródła, tak jak liczy to worker. Wyjątek (27.09.2026): numer
+// wariantu zestawu („4496-2", „75188-2") wygląda jak pozycja galerii, a jest
+// osobnym zestawem z własnym zdjęciem głównym w obrazy.json. Worker czyta R2
+// przed galerią, więc kopia wgrana pod tym kluczem serwuje się poprawnie —
+// dopóki bazowy numer nie dostanie galerii (dziś żaden z nich jej nie ma).
 function zrodlo(klucz) {
   const m = /^([0-9]{4,7})(?:-([1-9][0-9]?))?$/.exec(klucz);
   if (!m) return null;
+  if (m[2] && !galerie[m[1]] && obrazy[klucz]) return obrazy[klucz];
   return m[2] ? galerie[m[1]]?.[Number(m[2]) - 1] ?? null : obrazy[m[1]] ?? null;
 }
 

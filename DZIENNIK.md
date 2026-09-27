@@ -92,6 +92,22 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 13:30 · CODE · Zdjęcia dla 166 zestawów bez zdjęcia (Rebrickable/Brickset → R2)
+
+**Zrobione:** z 176 zestawów bez żadnego zdjęcia 166 dostało wpis w `zdjecia.json` (68 Rebrickable,
+98 Brickset; 7611 → 7777 wpisów). LEGO.com, Allegro, Empik i ME odrzucają pobieranie z serwera (403);
+LEGO.com przez Firecrawl nie ma pozostałych 10 (edukacyjne 20209/20211/20212, 75188-3, IRONMAN, 342160,
+promocyjne L0002205/2213/2215/2290) — zostają z zastępczym klockiem. Do R2 wgrane (zmniejszone):
+44 zwykłe numery (m.in. nowości 72052–72061, 40897, 40899, 40907, 10371, 21373, 75457, 77094) i 31
+wariantów „nr-N” — `r2-obrazy.mjs` bierze dla takiego klucza zdjęcie główne wariantu, gdy bazowy
+numer nie ma galerii. `media.js`: numer, którego worker nie obsłuży (spoza 4–7 cyfr), nie dostaje
+adresu `/img/` — wcześniej 28 zestawów (np. 850–876) miało na stronie zepsuty obrazek.
+**Stan:** gotowe dla 75 zestawów; 91 kodów literowych (ARENDELLE, SDCC2019, L0002199…) ma zdjęcie
+w danych, ale czeka na zmianę workera.
+**Dla drugiej strony (Marek):** zgoda na małą zmianę w `src/worker.js`: trasa `/img/` przyjmuje
+też klucze literowe i numer wariantu, a zdjęcie główne z `obrazy.json` ma pierwszeństwo przed galerią.
+Po zgodzie: zmiana, test na produkcji, wgranie 91 (+28 krótkich numerów) do R2, zdjęcie guard z `media.js`.
+
 ## 2026-09-27 13:15 · CODE · Black Weeks ze zdjęciami, Dzień Chłopaka w Artykułach/Aktualnościach, kolejność 3–2–1
 
 **Zrobione:** (1) Black Weeks: zdjęcie pod nagłówkiem każdego z 5 zestawów (42213 i 77264 — zdjęcie
