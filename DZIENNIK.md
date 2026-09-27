@@ -92,6 +92,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 18:05 · CODE · 25 kart P07 (Cowork) w karty_setow.json
+
+**Zrobione:** plik od Coworka (pełny `karty_setow.json`) porównany z repo: 1 099 kart identycznych,
+25 nowych (30717, 30718, 30720, 30732, 31215, 45200–45203, 45521, 5010075, 5011072, 5011093, 53708,
+72151–72153, 72159, 77002, 77078, 854328, 910054, 910056, 910057, 910059); `_meta`: data i lista serii.
+Kontrola 25 kart: nazwy, liczby elementów i RRP zgodne z danymi serwisu, każdy numer ma hub, bez „cegieł”.
+Zapis w formacie repo (wcięcie 1). 1 099 → 1 124 kart. Build przeszedł.
+**Stan:** gotowe, na main.
+**Dla drugiej strony (Cowork):** nic — karty są na hubach po deployu.
+
 ## 2026-09-27 14:10 · CODE · Informacja prawna LEGO, bez podpisów pod zdjęciami, wszystkie zdjęcia w R2
 
 **Zrobione:** (1) stopka (`Base.astro`): pełna informacja prawna — niezależność od Grupy LEGO, lista

@@ -3,15 +3,17 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-09-22",
+  "zaktualizowano": "2026-09-27",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
+   "Archiwum",
    "Art",
    "Batman",
    "Bluey",
    "Botanicals",
    "BrickHeadz",
+   "BrickLink Designer Program",
    "City",
    "Classic",
    "Creator",
@@ -19,8 +21,10 @@
    "DUPLO",
    "Disney",
    "Editions",
+   "Ekskluzywne i promocyjne",
    "Fortnite",
    "Friends",
+   "Gadżety",
    "Harry Potter",
    "House",
    "Icons",
@@ -39,6 +43,7 @@
    "Ninjago",
    "One Piece",
    "Pokémon",
+   "SMART Play",
    "Seasonal",
    "Shrek",
    "Sonic",
@@ -55387,6 +55392,1068 @@
    {
     "q": "Czy LEGO 75192 jest częścią większej kolekcji?",
     "a": "Tak. 75192 należy do kolekcjonerskiej linii LEGO Star Wars Ultimate Collector Series. Jest jednocześnie największą wersją Sokoła Millennium w historii LEGO Star Wars, ale w ofercie występują również znacznie mniejsze modele tego statku przeznaczone do ekspozycji lub zabawy."
+   }
+  ]
+ },
+ "30717": {
+  "seria": "Creator",
+  "nazwa": "Śmieszny halloweenowy szkielet",
+  "elementy": 71,
+  "akapity": [
+   "LEGO Creator 30717 Śmieszny halloweenowy szkielet to zabawowy zestaw z 2026 roku: z 71 elementów powstaje figurka szkieletu w halloweenowym klimacie. To kompaktowy model na krótką sesję budowania.",
+   "To propozycja dla fanów tego konkretnego motywu, a nie zestaw wybierany ze względu na liczbę elementów – przy decyzji liczy się przede wszystkim temat i miejsce, jakie model zajmie w kolekcji."
+  ],
+  "metryka": {
+   "Numer": "30717",
+   "Nazwa": "Śmieszny halloweenowy szkielet",
+   "Seria": "LEGO Creator",
+   "Premiera": "2026",
+   "Liczba elementów": "71",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Creator."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 30717 Śmieszny halloweenowy szkielet?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 30717?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 30717 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Creator. Pełną listę znajdziesz tutaj: <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Jak LEGO 30717 wypada na tle innych zestawów LEGO Creator w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>."
+   }
+  ]
+ },
+ "30718": {
+  "seria": "Creator",
+  "nazwa": "Śnieżna przygoda Cataclaws",
+  "elementy": 70,
+  "akapity": [
+   "LEGO Creator 30718 Śnieżna przygoda Cataclaws to zabawowy zestaw z 2026 roku: z 70 elementów powstaje mała scena z motywem „Śnieżnej przygody Cataclaws”. To kompaktowy model na krótką sesję budowania.",
+   "To propozycja dla fanów tego konkretnego motywu, a nie zestaw wybierany ze względu na liczbę elementów – najważniejsze są temat i miejsce, jakie model zajmie w kolekcji."
+  ],
+  "metryka": {
+   "Numer": "30718",
+   "Nazwa": "Śnieżna przygoda Cataclaws",
+   "Seria": "LEGO Creator",
+   "Premiera": "2026",
+   "Liczba elementów": "70",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Creator."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 30718 Śnieżna przygoda Cataclaws?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 30718?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 30718 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Creator. Pełną listę znajdziesz tutaj: <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Creator wybrać zamiast LEGO 30718?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/creator/\">zobacz wszystkie zestawy LEGO Creator</a>."
+   }
+  ]
+ },
+ "30720": {
+  "seria": "Disney",
+  "nazwa": "Urodzinowa potańcówka Arielki i Florka",
+  "elementy": 39,
+  "akapity": [
+   "LEGO Disney 30720 Urodzinowa potańcówka Arielki i Florka to zabawowy zestaw z 2026 roku: z 39 elementów powstaje mała scena urodzinowej potańcówki Arielki i Florka. To kompaktowy model na krótką sesję budowania.",
+   "W komplecie jest 1 minifigurka lub postać. Zestaw można łączyć tematycznie z innymi modelami LEGO Disney."
+  ],
+  "metryka": {
+   "Numer": "30720",
+   "Nazwa": "Urodzinowa potańcówka Arielki i Florka",
+   "Seria": "LEGO Disney",
+   "Premiera": "2026",
+   "Liczba elementów": "39",
+   "Minifigurki / postacie": "1",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Disney."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 30720 Urodzinowa potańcówka Arielki i Florka?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 30720?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 30720 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Disney. Pełną listę znajdziesz tutaj: <a href=\"/serie/disney/\">zobacz wszystkie zestawy LEGO Disney</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/disney/\">zobacz wszystkie zestawy LEGO Disney</a>."
+   }
+  ]
+ },
+ "30732": {
+  "seria": "Minecraft",
+  "nazwa": "Potyczka Alex przy ognisku",
+  "elementy": 31,
+  "akapity": [
+   "LEGO Minecraft 30732 Potyczka Alex przy ognisku to zabawowy zestaw z 2026 roku: z 31 elementów powstaje mała scena z Alex przy ognisku. To kompaktowy model na krótką sesję budowania.",
+   "W komplecie są 2 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Minecraft."
+  ],
+  "metryka": {
+   "Numer": "30732",
+   "Nazwa": "Potyczka Alex przy ognisku",
+   "Seria": "LEGO Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "31",
+   "Minifigurki / postacie": "2",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Minecraft."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 30732 Potyczka Alex przy ognisku?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 30732?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 30732 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Minecraft. Pełną listę znajdziesz tutaj: <a href=\"/serie/minecraft/\">zobacz wszystkie zestawy LEGO Minecraft</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft wybrać zamiast LEGO 30732?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/minecraft/\">zobacz wszystkie zestawy LEGO Minecraft</a>."
+   }
+  ]
+ },
+ "31215": {
+  "seria": "Art",
+  "nazwa": "Vincent van Gogh – Sunflowers",
+  "elementy": 2615,
+  "akapity": [
+   "LEGO Art 31215 Vincent van Gogh – Sunflowers to ekspozycyjny zestaw z 2025 roku: z 2615 elementów powstaje dekoracyjny model odtwarzający „Słoneczniki” Vincenta van Gogha. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "Projekt nie opiera się na minifigurkach; jego wartością jest sama bryła, temat i sposób prezentacji. Zestaw ma status LEGO Exclusive, więc sprzedaje go przede wszystkim LEGO – w sklepach firmowych i na LEGO.com.",
+   "Przy modelu na półkę najważniejsze jest to, jak czytelnie prezentuje się z typowej odległości. Liczba elementów pomaga ocenić skalę budowy, ale nie przesądza o opłacalności – przy zestawach licencyjnych lepiej porównać cenę z innymi modelami tej samej serii.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/31220/\">LEGO 31220 Claude Monet – Most nad stawem z liliami wodnymi</a> (869,99 zł katalogowo) i <a href=\"/zestaw/31218/\">LEGO 31218 Japoński krajobraz z kwitnącą wiśnią</a> (519,99 zł). Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, ale i to, co z każdego pudełka realnie trafia na półkę."
+  ],
+  "metryka": {
+   "Numer": "31215",
+   "Nazwa": "Vincent van Gogh – Sunflowers",
+   "Seria": "LEGO Art",
+   "Premiera": "29 stycznia 2025",
+   "Liczba elementów": "2615",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "869,99 zł",
+   "Cena katalogowa za element": "około 0,33 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "Może działać samodzielnie, ale naturalnie pasuje do ekspozycji innych modeli LEGO Art.",
+   "Dystrybucja": "LEGO Exclusive"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31215 Vincent van Gogh – Sunflowers?",
+    "a": "Polska cena katalogowa wynosi 869,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 31215?",
+    "a": "Przy cenie katalogowej wychodzi około 0,33 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 31215 warto kupić w cenie katalogowej?",
+    "a": "Przy cenie katalogowej warto kupić przede wszystkim wtedy, gdy liczy się konkretny motyw lub ograniczona dystrybucja. Zamiast czekać na duży rabat, lepiej porównać warunki sprzedaży, punkty lojalnościowe i ewentualne dodatki."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 31215?",
+    "a": "Najpierw warto sprawdzić LEGO.com i wybrane kanały partnerskie. Aktualny przegląd ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31215 należy do większej kolekcji lub systemu?",
+    "a": "Może działać samodzielnie, ale naturalnie pasuje do ekspozycji innych modeli LEGO Art. Pełną listę znajdziesz tutaj: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "45200": {
+  "seria": "Archiwum",
+  "nazwa": "Moon Mission Science Kit",
+  "elementy": 519,
+  "akapity": [
+   "LEGO Education 45200 Moon Mission Science Kit to edukacyjny zestaw z 2026 roku: z 519 elementów powstaje zestaw edukacyjny poświęcony misji księżycowej. To projekt średniej wielkości, z wyraźnie etapowym budowaniem.",
+   "W komplecie są 2 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Education.",
+   "W zestawie edukacyjnym liczba elementów mówi o skali budowy, ale ważniejsze jest to, do czego zestaw ma służyć. Przed zakupem warto zestawić go z pozostałymi zestawami z tej linii."
+  ],
+  "metryka": {
+   "Numer": "45200",
+   "Nazwa": "Moon Mission Science Kit",
+   "Seria": "LEGO Education",
+   "Premiera": "2026",
+   "Liczba elementów": "519",
+   "Minifigurki / postacie": "2",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "około 0,40 zł",
+   "Typ zestawu": "edukacyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 45200 Moon Mission Science Kit?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 45200?",
+    "a": "Przy cenie katalogowej wychodzi około 0,40 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 45200 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 209,99 zł zakup ma sens dla kogoś, kto szuka właśnie tego zestawu. Dla pozostałych rozsądnym progiem jest około 167,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 45200?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 45200 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education. Pełną listę znajdziesz tutaj: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Education wybrać zamiast LEGO 45200?",
+    "a": "Alternatywy szukaj wśród zestawów o podobnym temacie i wielkości, a nie tylko o zbliżonej liczbie elementów. Pozostałe zestawy: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   }
+  ]
+ },
+ "45201": {
+  "seria": "Archiwum",
+  "nazwa": "Antarctic Animals Science Kit",
+  "elementy": 461,
+  "akapity": [
+   "LEGO Education 45201 Antarctic Animals Science Kit to edukacyjny zestaw z 2026 roku: z 461 elementów powstaje zestaw edukacyjny poświęcony zwierzętom Antarktyki. To kompaktowy projekt na krótszą sesję budowania.",
+   "W komplecie są 2 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  ],
+  "metryka": {
+   "Numer": "45201",
+   "Nazwa": "Antarctic Animals Science Kit",
+   "Seria": "LEGO Education",
+   "Premiera": "2026",
+   "Liczba elementów": "461",
+   "Minifigurki / postacie": "2",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "około 0,46 zł",
+   "Typ zestawu": "edukacyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 45201 Antarctic Animals Science Kit?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 45201?",
+    "a": "Przy cenie katalogowej wychodzi około 0,46 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 45201 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 209,99 zł zakup ma sens dla kogoś, kto szuka właśnie tego zestawu. Dla pozostałych rozsądnym progiem jest około 167,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 45201?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 45201 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education. Pełną listę znajdziesz tutaj: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Education?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   }
+  ]
+ },
+ "45202": {
+  "seria": "Archiwum",
+  "nazwa": "Mars Mission Science Kit",
+  "elementy": 933,
+  "akapity": [
+   "LEGO Education 45202 Mars Mission Science Kit to edukacyjny zestaw z 2026 roku: z 933 elementów powstaje zestaw edukacyjny poświęcony misji na Marsa. To projekt średniej wielkości, z wyraźnie etapowym budowaniem.",
+   "W komplecie są 4 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Education.",
+   "W zestawie edukacyjnym liczba elementów mówi o skali budowy, ale ważniejsze jest to, do czego zestaw ma służyć. Przed zakupem warto zestawić go z pozostałymi zestawami z tej linii."
+  ],
+  "metryka": {
+   "Numer": "45202",
+   "Nazwa": "Mars Mission Science Kit",
+   "Seria": "LEGO Education",
+   "Premiera": "2026",
+   "Liczba elementów": "933",
+   "Minifigurki / postacie": "4",
+   "Cena katalogowa w Polsce": "419,99 zł",
+   "Cena katalogowa za element": "około 0,45 zł",
+   "Typ zestawu": "edukacyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 45202 Mars Mission Science Kit?",
+    "a": "Polska cena katalogowa wynosi 419,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 45202?",
+    "a": "Przy cenie katalogowej wychodzi około 0,45 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 45202 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 419,99 zł zakup ma sens dla kogoś, kto szuka właśnie tego zestawu. Dla pozostałych rozsądnym progiem jest około 335,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 45202?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 45202 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education. Pełną listę znajdziesz tutaj: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   },
+   {
+    "q": "Jak LEGO 45202 wypada na tle innych zestawów LEGO Education w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   }
+  ]
+ },
+ "45203": {
+  "seria": "Archiwum",
+  "nazwa": "Arctic Animals Science Kit",
+  "elementy": 1134,
+  "akapity": [
+   "LEGO Education 45203 Arctic Animals Science Kit to edukacyjny zestaw z 2026 roku: z 1134 elementów powstaje zestaw edukacyjny poświęcony zwierzętom Arktyki. To rozbudowany projekt na dłuższe, wieloetapowe składanie.",
+   "W komplecie są 4 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Education.",
+   "W zestawie edukacyjnym liczba elementów mówi o skali budowy, ale ważniejsze jest to, do czego zestaw ma służyć. Przed zakupem warto zestawić go z pozostałymi zestawami z tej linii."
+  ],
+  "metryka": {
+   "Numer": "45203",
+   "Nazwa": "Arctic Animals Science Kit",
+   "Seria": "LEGO Education",
+   "Premiera": "2026",
+   "Liczba elementów": "1134",
+   "Minifigurki / postacie": "4",
+   "Cena katalogowa w Polsce": "419,99 zł",
+   "Cena katalogowa za element": "około 0,37 zł",
+   "Typ zestawu": "edukacyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 45203 Arctic Animals Science Kit?",
+    "a": "Polska cena katalogowa wynosi 419,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 45203?",
+    "a": "Przy cenie katalogowej wychodzi około 0,37 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 45203 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 419,99 zł zakup ma sens dla kogoś, kto szuka właśnie tego zestawu. Dla pozostałych rozsądnym progiem jest około 335,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 45203?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 45203 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education. Pełną listę znajdziesz tutaj: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Education?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   }
+  ]
+ },
+ "45521": {
+  "seria": "Archiwum",
+  "nazwa": "Computer Science & AI Kit 3-5",
+  "elementy": 321,
+  "akapity": [
+   "LEGO Education 45521 Computer Science & AI Kit 3-5 to edukacyjny zestaw z 2026 roku: z 321 elementów powstaje zestaw edukacyjny z linii Computer Science & AI. To kompaktowy projekt na krótszą sesję budowania.",
+   "W komplecie są 4 minifigurki lub postacie. Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  ],
+  "metryka": {
+   "Numer": "45521",
+   "Nazwa": "Computer Science & AI Kit 3-5",
+   "Seria": "LEGO Education",
+   "Premiera": "2026",
+   "Liczba elementów": "321",
+   "Minifigurki / postacie": "4",
+   "Typ zestawu": "edukacyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 45521 Computer Science & AI Kit 3-5?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 45521?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 45521 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Education. Pełną listę znajdziesz tutaj: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Education wybrać zamiast LEGO 45521?",
+    "a": "Alternatywy szukaj wśród zestawów o podobnym temacie i wielkości, a nie tylko o zbliżonej liczbie elementów. Pozostałe zestawy: <a href=\"/serie/archiwum/\">zobacz pozostałe zestawy z tej kategorii</a>."
+   }
+  ]
+ },
+ "5010075": {
+  "seria": "Ekskluzywne i promocyjne",
+  "nazwa": "Dolphin",
+  "elementy": 153,
+  "akapity": [
+   "LEGO 5010075 Dolphin to promocyjny zestaw z 2026 roku: z 153 elementów powstaje model delfina. To kompaktowy model na krótką sesję budowania.",
+   "To drobny zestaw promocyjny, więc przy decyzji liczy się przede wszystkim temat i to, czy pasuje do kolekcji."
+  ],
+  "metryka": {
+   "Numer": "5010075",
+   "Nazwa": "Dolphin",
+   "Seria": "Zestawy ekskluzywne i promocyjne",
+   "Premiera": "2026",
+   "Liczba elementów": "153",
+   "Typ zestawu": "promocyjny",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami zestawami ekskluzywnymi i promocyjnymi LEGO."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 5010075 Dolphin?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 5010075?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 5010075 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami zestawami ekskluzywnymi i promocyjnymi LEGO. Pełną listę znajdziesz tutaj: <a href=\"/serie/ekskluzywne-i-promocyjne/\">zobacz wszystkie zestawy ekskluzywne i promocyjne</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy promocyjne LEGO?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/ekskluzywne-i-promocyjne/\">zobacz wszystkie zestawy ekskluzywne i promocyjne</a>."
+   }
+  ]
+ },
+ "5011072": {
+  "seria": "Gadżety",
+  "nazwa": "Ministry of Magic Phone Booth",
+  "elementy": 0,
+  "akapity": [
+   "LEGO 5011072 Ministry of Magic Phone Booth to gadżet z 2026 roku stylizowany na budkę telefoniczną Ministerstwa Magii ze świata Harry’ego Pottera.",
+   "To produkt dla fanów tego konkretnego motywu – przy decyzji liczy się przede wszystkim temat i to, gdzie gadżet trafi w kolekcji."
+  ],
+  "metryka": {
+   "Numer": "5011072",
+   "Nazwa": "Ministry of Magic Phone Booth",
+   "Seria": "Gadżety LEGO",
+   "Premiera": "2026",
+   "Typ zestawu": "gadżet",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 5011072 Ministry of Magic Phone Booth?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 5011072?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 5011072 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO. Pełną listę znajdziesz tutaj: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   },
+   {
+    "q": "Jakie są podobne gadżety LEGO?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   }
+  ]
+ },
+ "5011093": {
+  "seria": "Seasonal",
+  "nazwa": "Harry Potter 25th Anniversary Holiday Baubles",
+  "elementy": 0,
+  "akapity": [
+   "LEGO 5011093 Harry Potter 25th Anniversary Holiday Baubles to sezonowe bombki z 2026 roku, wydane z okazji 25-lecia serii LEGO Harry Potter.",
+   "To propozycja przede wszystkim dla fanów Harry’ego Pottera, którzy dekorują choinkę motywami z ulubionej serii."
+  ],
+  "metryka": {
+   "Numer": "5011093",
+   "Nazwa": "Harry Potter 25th Anniversary Holiday Baubles",
+   "Seria": "Zestawy sezonowe LEGO",
+   "Premiera": "2026",
+   "Typ zestawu": "ozdoba sezonowa",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi zestawami sezonowymi LEGO."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 5011093 Harry Potter 25th Anniversary Holiday Baubles?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 5011093?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 5011093 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi zestawami sezonowymi LEGO. Pełną listę znajdziesz tutaj: <a href=\"/serie/seasonal/\">zobacz wszystkie zestawy sezonowe LEGO</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy sezonowe LEGO?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/seasonal/\">zobacz wszystkie zestawy sezonowe LEGO</a>."
+   }
+  ]
+ },
+ "53708": {
+  "seria": "Gadżety",
+  "nazwa": "Stationery Set with Minifigure",
+  "elementy": 11,
+  "akapity": [
+   "LEGO 53708 Stationery Set with Minifigure to gadżet z 2026 roku: zestaw przyborów piśmienniczych z minifigurką, w sumie 11 elementów.",
+   "To drobny gadżet, a nie zestaw do budowania – liczy się przede wszystkim motyw i praktyczne zastosowanie."
+  ],
+  "metryka": {
+   "Numer": "53708",
+   "Nazwa": "Stationery Set with Minifigure",
+   "Seria": "Gadżety LEGO",
+   "Premiera": "2026",
+   "Liczba elementów": "11",
+   "Minifigurki / postacie": "1",
+   "Typ zestawu": "gadżet",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 53708 Stationery Set with Minifigure?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 53708?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 53708 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO. Pełną listę znajdziesz tutaj: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   },
+   {
+    "q": "Jakie są podobne gadżety LEGO?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   }
+  ]
+ },
+ "72151": {
+  "seria": "Pokémon",
+  "nazwa": "Eevee",
+  "elementy": 587,
+  "akapity": [
+   "LEGO Pokémon 72151 Eevee to kolekcjonerski zestaw z 2026 roku: z 587 elementów powstaje model Eevee. To projekt średniej wielkości, z wyraźnie etapowym budowaniem. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "Model ma ruchome uszy, głowę, kończyny i ogon, więc można zmieniać jego pozę. W konstrukcji ukryto też detal nawiązujący do ewolucji tej postaci. Zestaw ma status LEGO Exclusive, więc sprzedaje go przede wszystkim LEGO – w sklepach firmowych i na LEGO.com.",
+   "Przy modelu na półkę najważniejsze jest to, jak czytelnie prezentuje się z typowej odległości. Liczba elementów pomaga ocenić skalę budowy, ale nie przesądza o opłacalności – przy zestawach licencyjnych lepiej porównać cenę z innymi modelami tej samej serii.",
+   "Na tle rocznika 2026 serii LEGO Pokémon to 8. największy zestaw spośród 14, o których wiemy w tym roku. Przelicznik ceny katalogowej na element wypada u niego wyżej niż mediana serii (0,43 zł wobec 0,41 zł) – to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką."
+  ],
+  "metryka": {
+   "Numer": "72151",
+   "Nazwa": "Eevee",
+   "Seria": "LEGO Pokémon",
+   "Premiera": "2026",
+   "Liczba elementów": "587",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "249,99 zł",
+   "Cena katalogowa za element": "około 0,43 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon.",
+   "Dystrybucja": "LEGO Exclusive"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72151 Eevee?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 72151?",
+    "a": "Przy cenie katalogowej wychodzi około 0,43 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 72151 warto kupić w cenie katalogowej?",
+    "a": "Przy cenie katalogowej warto kupić przede wszystkim wtedy, gdy liczy się konkretny motyw lub ograniczona dystrybucja. Zamiast czekać na duży rabat, lepiej porównać warunki sprzedaży, punkty lojalnościowe i ewentualne dodatki."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 72151?",
+    "a": "Najpierw warto sprawdzić LEGO.com i wybrane kanały partnerskie. Aktualny przegląd ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72151 należy do większej kolekcji lub systemu?",
+    "a": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon. Pełną listę znajdziesz tutaj: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Pokémon?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   }
+  ]
+ },
+ "72152": {
+  "seria": "Pokémon",
+  "nazwa": "Pikachu i Poké Ball",
+  "elementy": 2050,
+  "akapity": [
+   "LEGO Pokémon 72152 Pikachu i Poké Ball to kolekcjonerski zestaw z 2026 roku: z 2050 elementów powstaje model Pikachu z Poké Ballem. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "Pikachu ma ruchome uszy i kończyny, a model można ustawić w dynamicznej pozie przy otwartym Poké Ballu albo spokojniej obok zamkniętej kuli. Podstawa nawiązuje do elektrycznego typu postaci i numeru 25 w Pokédexie. Trafia do ograniczonej sprzedaży detalicznej.",
+   "Przy modelu na półkę najważniejsze jest to, jak czytelnie prezentuje się z typowej odległości. Liczba elementów pomaga ocenić skalę budowy, ale nie przesądza o opłacalności – przy zestawach licencyjnych lepiej porównać cenę z innymi modelami tej samej serii.",
+   "Na tle rocznika 2026 serii LEGO Pokémon to 3. największy zestaw spośród 14, o których wiemy w tym roku – więcej elementów ma m.in. <a href=\"/zestaw/72153/\">LEGO 72153 Venusaur, Charizard i Blastoise</a> (6838 el.). Przelicznik ceny katalogowej na element wypada u niego wyżej niż mediana serii (0,42 zł wobec 0,41 zł) – to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/72154/\">LEGO 72154 Kultowy Pokéball z Trenerami</a> (1 129,99 zł katalogowo) i <a href=\"/zestaw/72168/\">LEGO 72168 Rayquaza</a> (559,99 zł). Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, ale i to, co z każdego pudełka realnie trafia na półkę."
+  ],
+  "metryka": {
+   "Numer": "72152",
+   "Nazwa": "Pikachu i Poké Ball",
+   "Seria": "LEGO Pokémon",
+   "Premiera": "2026",
+   "Liczba elementów": "2050",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "869,99 zł",
+   "Cena katalogowa za element": "około 0,42 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon.",
+   "Dystrybucja": "sprzedaż detaliczna ograniczona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72152 Pikachu i Poké Ball?",
+    "a": "Polska cena katalogowa wynosi 869,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 72152?",
+    "a": "Przy cenie katalogowej wychodzi około 0,42 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 72152 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 869,99 zł zakup ma sens głównie dla zdecydowanego fana serii. Dla pozostałych rozsądnym progiem jest około 695,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 72152?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72152 należy do większej kolekcji lub systemu?",
+    "a": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon. Pełną listę znajdziesz tutaj: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Pokémon wybrać zamiast LEGO 72152?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   }
+  ]
+ },
+ "72153": {
+  "seria": "Pokémon",
+  "nazwa": "Venusaur, Charizard i Blastoise",
+  "elementy": 6838,
+  "akapity": [
+   "LEGO Pokémon 72153 Venusaur, Charizard i Blastoise to kolekcjonerski zestaw z 2026 roku: z 6838 elementów powstaje kompozycja trzech dużych modeli: Venusaura, Charizarda i Blastoise’a. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "To zestaw nastawiony na długie budowanie i wspólną ekspozycję najbardziej rozpoznawalnego tria z pierwszej generacji. Trafia do ograniczonej sprzedaży detalicznej.",
+   "To zakup dla kogoś, kto świadomie wybiera serię i motyw – sama wysoka liczba elementów nie jest dobrym powodem. Przed zakupem warto sprawdzić, czy ten temat wnosi do kolekcji coś, czego nie dają mniejsze zestawy.",
+   "Na tle rocznika 2026 serii LEGO Pokémon to największy zestaw spośród 14, o których wiemy w tym roku.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/72154/\">LEGO 72154 Kultowy Pokéball z Trenerami</a> (1 129,99 zł katalogowo) i <a href=\"/zestaw/72152/\">LEGO 72152 Pikachu i Poké Ball</a> (869,99 zł). Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, ale i to, co z każdego pudełka realnie trafia na półkę."
+  ],
+  "metryka": {
+   "Numer": "72153",
+   "Nazwa": "Venusaur, Charizard i Blastoise",
+   "Seria": "LEGO Pokémon",
+   "Premiera": "2026",
+   "Liczba elementów": "6838",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "2 799,99 zł",
+   "Cena katalogowa za element": "około 0,41 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon.",
+   "Dystrybucja": "sprzedaż detaliczna ograniczona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72153 Venusaur, Charizard i Blastoise?",
+    "a": "Polska cena katalogowa wynosi 2 799,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 72153?",
+    "a": "Przy cenie katalogowej wychodzi około 0,41 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 72153 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 2 799,99 zł zakup ma sens głównie dla zdecydowanego fana serii. Dla pozostałych rozsądnym progiem jest około 2 239,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 72153?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72153 należy do większej kolekcji lub systemu?",
+    "a": "Należy do pierwszej fali kolekcjonerskich zestawów LEGO Pokémon. Pełną listę znajdziesz tutaj: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   },
+   {
+    "q": "Jak LEGO 72153 wypada na tle innych zestawów LEGO Pokémon w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/pokemon/\">zobacz wszystkie zestawy LEGO Pokémon</a>."
+   }
+  ]
+ },
+ "72159": {
+  "seria": "SMART Play",
+  "nazwa": "SMART Play: Jigglypuff i koncert",
+  "elementy": 88,
+  "akapity": [
+   "LEGO 72159 SMART Play: Jigglypuff i koncert to zestaw z 2026 roku: z 88 elementów powstaje scena z Jigglypuffem, dwoma głośnikami i mikrofonem. To kompaktowy model na krótką sesję budowania. Producent oznacza go jako 7+.",
+   "Wbudowany SMART Tag reaguje po użyciu SMART klocka z zestawu Wszystko w jednym; sam SMART klocek nie wchodzi w skład kompletu. Jest w zwykłej sprzedaży detalicznej."
+  ],
+  "metryka": {
+   "Numer": "72159",
+   "Nazwa": "SMART Play: Jigglypuff i koncert",
+   "Seria": "LEGO SMART Play",
+   "Premiera": "sierpień 2026",
+   "Liczba elementów": "88",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "61,99 zł",
+   "Cena katalogowa za element": "około 0,70 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można rozszerzyć o SMART klocek z kompatybilnego kompletu Wszystko w jednym.",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72159 SMART Play: Jigglypuff i koncert?",
+    "a": "Polska cena katalogowa wynosi 61,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 72159?",
+    "a": "Przy cenie katalogowej wychodzi około 0,70 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 72159 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 61,99 zł zakup ma sens głównie dla zdecydowanego fana serii. Dla pozostałych rozsądnym progiem jest około 49,59 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 72159?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72159 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można rozszerzyć o SMART klocek z kompatybilnego kompletu Wszystko w jednym. Pełną listę znajdziesz tutaj: <a href=\"/serie/smart-play/\">zobacz wszystkie zestawy LEGO SMART Play</a>."
+   },
+   {
+    "q": "Jak LEGO 72159 wypada na tle innych zestawów LEGO SMART Play w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/smart-play/\">zobacz wszystkie zestawy LEGO SMART Play</a>."
+   }
+  ]
+ },
+ "77002": {
+  "seria": "Sonic",
+  "nazwa": "Cyclone vs. Metal Sonic",
+  "elementy": 290,
+  "akapity": [
+   "LEGO Sonic the Hedgehog 77002 Cyclone vs. Metal Sonic to zabawowy zestaw z 2025 roku: z 290 elementów powstaje scena pojedynku „Cyclone vs. Metal Sonic”. To kompaktowy projekt na krótszą sesję budowania. Producent oznacza go jako 8+.",
+   "W komplecie są 2 minifigurki lub postacie. Jest w szerokiej sprzedaży detalicznej. Zestaw można łączyć tematycznie z innymi modelami LEGO Sonic."
+  ],
+  "metryka": {
+   "Numer": "77002",
+   "Nazwa": "Cyclone vs. Metal Sonic",
+   "Seria": "LEGO Sonic the Hedgehog",
+   "Premiera": "2025",
+   "Liczba elementów": "290",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2",
+   "Cena katalogowa w Polsce": "124,99 zł",
+   "Cena katalogowa za element": "około 0,43 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Sonic.",
+   "Dystrybucja": "szeroka sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77002 Cyclone vs. Metal Sonic?",
+    "a": "Polska cena katalogowa wynosi 124,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 77002?",
+    "a": "Przy cenie katalogowej wychodzi około 0,43 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 77002 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 124,99 zł zakup ma sens głównie dla zdecydowanego fana serii. Dla pozostałych rozsądnym progiem jest około 99,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 77002?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77002 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Sonic. Pełną listę znajdziesz tutaj: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Sonic wybrać zamiast LEGO 77002?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "77078": {
+  "seria": "Fortnite",
+  "nazwa": "Mecha Team Leader",
+  "elementy": 2503,
+  "akapity": [
+   "LEGO Fortnite 77078 Mecha Team Leader to kolekcjonerski zestaw z 2025 roku: z 2503 elementów powstaje duży model postaci Mecha Team Leader z Fortnite. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "W komplecie jest 1 minifigurka lub postać. Jest w szerokiej sprzedaży detalicznej. Zestaw można łączyć tematycznie z innymi modelami LEGO Fortnite.",
+   "Przy modelu na półkę najważniejsze jest to, jak czytelnie prezentuje się z typowej odległości. Liczba elementów pomaga ocenić skalę budowy, ale nie przesądza o opłacalności – przy zestawach licencyjnych lepiej porównać cenę z innymi modelami tej samej serii.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/77082/\">LEGO 77082 Jaskinia Ubawu</a> (869,99 zł katalogowo) i <a href=\"/zestaw/77081/\">LEGO 77081 Kitek</a> (419,99 zł). Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, ale i to, co z każdego pudełka realnie trafia na półkę."
+  ],
+  "metryka": {
+   "Numer": "77078",
+   "Nazwa": "Mecha Team Leader",
+   "Seria": "LEGO Fortnite",
+   "Premiera": "25 kwietnia 2025",
+   "Liczba elementów": "2503",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "1",
+   "Cena katalogowa w Polsce": "999,99 zł",
+   "Cena katalogowa za element": "około 0,40 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi modelami LEGO Fortnite.",
+   "Dystrybucja": "szeroka sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77078 Mecha Team Leader?",
+    "a": "Polska cena katalogowa wynosi 999,99 zł. Oferty sklepów zmieniają się codziennie – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena jednego elementu w LEGO 77078?",
+    "a": "Przy cenie katalogowej wychodzi około 0,40 zł za element. To tylko wskaźnik pomocniczy: nie uwzględnia licencji, dużych elementów ani nadruków."
+   },
+   {
+    "q": "Czy LEGO 77078 warto kupić w cenie katalogowej?",
+    "a": "Przy pełnej cenie 999,99 zł zakup ma sens głównie dla zdecydowanego fana serii. Dla pozostałych rozsądnym progiem jest około 799,99 zł lub mniej, czyli mniej więcej 20% rabatu."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 77078?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77078 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi modelami LEGO Fortnite. Pełną listę znajdziesz tutaj: <a href=\"/serie/fortnite/\">zobacz wszystkie zestawy LEGO Fortnite</a>."
+   },
+   {
+    "q": "Jak LEGO 77078 wypada na tle innych zestawów LEGO Fortnite w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/fortnite/\">zobacz wszystkie zestawy LEGO Fortnite</a>."
+   }
+  ]
+ },
+ "854328": {
+  "seria": "Gadżety",
+  "nazwa": "Dumbo Key Chain",
+  "elementy": 0,
+  "akapity": [
+   "LEGO 854328 Dumbo Key Chain to brelok z 2026 roku z postacią Dumbo.",
+   "To drobny gadżet dla fanów tej postaci – liczy się przede wszystkim motyw, a nie budowanie."
+  ],
+  "metryka": {
+   "Numer": "854328",
+   "Nazwa": "Dumbo Key Chain",
+   "Seria": "Gadżety LEGO",
+   "Premiera": "2026",
+   "Typ zestawu": "gadżet",
+   "Kolekcja / system": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO."
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 854328 Dumbo Key Chain?",
+    "a": "LEGO nie podało polskiej ceny katalogowej tego zestawu. Aktualne oferty sklepów, o ile już go mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 854328?",
+    "a": "Najlepiej porównać kilka sklepów, koszty dostawy i warunki zwrotu – <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 854328 należy do większej kolekcji lub systemu?",
+    "a": "Zestaw można łączyć tematycznie z innymi gadżetami LEGO. Pełną listę znajdziesz tutaj: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   },
+   {
+    "q": "Jakie są podobne gadżety LEGO?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/gadzety/\">zobacz wszystkie gadżety LEGO</a>."
+   }
+  ]
+ },
+ "910054": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "The Art Factory",
+  "elementy": 2567,
+  "akapity": [
+   "LEGO 910054 The Art Factory to kolekcjonerski zestaw z 2026 roku: z 2567 elementów powstaje budynek „The Art Factory”. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "W komplecie jest 10 minifigurek lub postaci. Należy do limitowanego BrickLink Designer Program, więc nie jest zestawem z ciągłej dystrybucji.",
+   "W limitowanych zestawach o wartości decyduje bardziej projekt niż sama liczba elementów. Przy ograniczonej dystrybucji liczy się też moment zakupu, bo późniejsza dostępność zwykle wygląda inaczej niż w przypadku zwykłych zestawów detalicznych."
+  ],
+  "metryka": {
+   "Numer": "910054",
+   "Nazwa": "The Art Factory",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2026",
+   "Liczba elementów": "2567",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "10",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji.",
+   "Dystrybucja": "limitowana sprzedaż w BrickLink Designer Program"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 910054 The Art Factory?",
+    "a": "Zestawy BrickLink Designer Program nie mają polskiej ceny katalogowej – sprzedaje je BrickLink w limitowanych seriach. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 910054?",
+    "a": "Pierwotnym kanałem jest BrickLink Designer Program, a po zakończeniu sprzedaży zwykle pozostaje rynek wtórny. Bieżące możliwości: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 910054 należy do większej kolekcji lub systemu?",
+    "a": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji. Pełną listę znajdziesz tutaj: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   },
+   {
+    "q": "Jaki zestaw BrickLink Designer Program wybrać zamiast LEGO 910054?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910056": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Off-Road Adventure",
+  "elementy": 978,
+  "akapity": [
+   "LEGO 910056 Off-Road Adventure to kolekcjonerski zestaw z 2026 roku: z 978 elementów powstaje scena terenowej wyprawy „Off-Road Adventure”. To projekt średniej wielkości, z wyraźnie etapowym budowaniem. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "W komplecie są 3 minifigurki lub postacie. Należy do limitowanego BrickLink Designer Program, więc nie jest zestawem z ciągłej dystrybucji.",
+   "W limitowanych zestawach o wartości decyduje bardziej projekt niż sama liczba elementów. Przy ograniczonej dystrybucji liczy się też moment zakupu, bo późniejsza dostępność zwykle wygląda inaczej niż w przypadku zwykłych zestawów detalicznych."
+  ],
+  "metryka": {
+   "Numer": "910056",
+   "Nazwa": "Off-Road Adventure",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2026",
+   "Liczba elementów": "978",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "3",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji.",
+   "Dystrybucja": "limitowana sprzedaż w BrickLink Designer Program"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 910056 Off-Road Adventure?",
+    "a": "Zestawy BrickLink Designer Program nie mają polskiej ceny katalogowej – sprzedaje je BrickLink w limitowanych seriach. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 910056?",
+    "a": "Pierwotnym kanałem jest BrickLink Designer Program, a po zakończeniu sprzedaży zwykle pozostaje rynek wtórny. Bieżące możliwości: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 910056 należy do większej kolekcji lub systemu?",
+    "a": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji. Pełną listę znajdziesz tutaj: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy BrickLink Designer Program?",
+    "a": "Najbliższych odpowiedników szukaj według motywu, skali i grupy odbiorców. Lista: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910057": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Outlaw Forest Den",
+  "elementy": 2623,
+  "akapity": [
+   "LEGO 910057 Outlaw Forest Den to kolekcjonerski zestaw z 2026 roku: z 2623 elementów powstaje leśna kryjówka banitów „Outlaw Forest Den”. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "W komplecie jest 10 minifigurek lub postaci. Należy do limitowanego BrickLink Designer Program, więc nie jest zestawem z ciągłej dystrybucji.",
+   "W limitowanych zestawach o wartości decyduje bardziej projekt niż sama liczba elementów. Przy ograniczonej dystrybucji liczy się też moment zakupu, bo późniejsza dostępność zwykle wygląda inaczej niż w przypadku zwykłych zestawów detalicznych."
+  ],
+  "metryka": {
+   "Numer": "910057",
+   "Nazwa": "Outlaw Forest Den",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2026",
+   "Liczba elementów": "2623",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "10",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji.",
+   "Dystrybucja": "limitowana sprzedaż w BrickLink Designer Program"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 910057 Outlaw Forest Den?",
+    "a": "Zestawy BrickLink Designer Program nie mają polskiej ceny katalogowej – sprzedaje je BrickLink w limitowanych seriach. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 910057?",
+    "a": "Pierwotnym kanałem jest BrickLink Designer Program, a po zakończeniu sprzedaży zwykle pozostaje rynek wtórny. Bieżące możliwości: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 910057 należy do większej kolekcji lub systemu?",
+    "a": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji. Pełną listę znajdziesz tutaj: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   },
+   {
+    "q": "Jak LEGO 910057 wypada na tle innych zestawów BrickLink Designer Program w podobnej cenie?",
+    "a": "Porównaj przede wszystkim skalę, typ modelu i liczbę postaci. Zestawy z tej samej serii: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910059": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Privateer Frigate Fortuna",
+  "elementy": 4087,
+  "akapity": [
+   "LEGO 910059 Privateer Frigate Fortuna to kolekcjonerski zestaw z 2026 roku: z 4087 elementów powstaje fregata korsarska „Fortuna”. To rozbudowany projekt na dłuższe, wieloetapowe składanie. Oznaczenie 18+ dobrze sygnalizuje poziom złożoności i to, że model powstał z myślą o dorosłych kolekcjonerach.",
+   "W komplecie jest 20 minifigurek lub postaci. Należy do limitowanego BrickLink Designer Program, więc nie jest zestawem z ciągłej dystrybucji.",
+   "W limitowanych zestawach o wartości decyduje bardziej projekt niż sama liczba elementów. Przy ograniczonej dystrybucji liczy się też moment zakupu, bo późniejsza dostępność zwykle wygląda inaczej niż w przypadku zwykłych zestawów detalicznych."
+  ],
+  "metryka": {
+   "Numer": "910059",
+   "Nazwa": "Privateer Frigate Fortuna",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2026",
+   "Liczba elementów": "4087",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "20",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji.",
+   "Dystrybucja": "limitowana sprzedaż w BrickLink Designer Program"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 910059 Privateer Frigate Fortuna?",
+    "a": "Zestawy BrickLink Designer Program nie mają polskiej ceny katalogowej – sprzedaje je BrickLink w limitowanych seriach. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Gdzie najlepiej kupić lub zdobyć LEGO 910059?",
+    "a": "Pierwotnym kanałem jest BrickLink Designer Program, a po zakończeniu sprzedaży zwykle pozostaje rynek wtórny. Bieżące możliwości: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 910059 należy do większej kolekcji lub systemu?",
+    "a": "Należy do limitowanego BrickLink Designer Program i nie jest typowym zestawem z ciągłej dystrybucji. Pełną listę znajdziesz tutaj: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
+   },
+   {
+    "q": "Jaki zestaw BrickLink Designer Program wybrać zamiast LEGO 910059?",
+    "a": "Alternatywą powinien być model o podobnym zastosowaniu – ekspozycyjnym, zabawowym albo kolekcjonerskim – a nie tylko o zbliżonej liczbie elementów. Sprawdź serię: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy BrickLink Designer Program</a>."
    }
   ]
  }
