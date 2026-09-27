@@ -1446,3 +1446,48 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .wejscie__etykieta { font-size: 1.25rem; font-weight: 800; }
 .wejscie__opis { font-size: 0.92rem; color: var(--granat-60); }
 .wejscie__cta { margin-top: auto; padding-top: 6px; font-weight: 700; }
+/* podgląd Promocji v2 – slajder okazji i listing w stylu wycofań */
+.promo-slajd .akt-tytul a { color: var(--granat); text-decoration: none; }
+.promo-slajd__ceny { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.promo-slajd__ceny .cena { font-family: var(--font-display); font-size: 1.6rem; font-weight: 800; color: #c8102e; }
+.promo-slajd__kat { font-size: 0.85rem; color: var(--granat-60); text-decoration: line-through; }
+.promo-cta { display: block; margin-top: 8px; text-align: center; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; padding: 11px 16px; border-radius: 8px; }
+.promo-cta:hover { background: #0f1830; }
+.promo-wstep { margin: 6px 0 26px; }
+.set-mini--duza { width: 130px; height: 130px; }
+.set-mini--duza img { width: 130px; height: 130px; }
+.tabela-promocje .kol-foto { width: 146px; }
+.tabela-promocje .kol-rabat { width: 80px; vertical-align: middle; }
+.tabela-promocje .kol-cena { width: 150px; text-align: right; vertical-align: middle; }
+.tabela-promocje .kol-cta { width: 190px; text-align: right; vertical-align: middle; }
+.tabela-promocje .kol-opis { vertical-align: middle; }
+.tabela-promocje .set-nazwa { display: block; font-weight: 700; font-size: 1.02rem; }
+.tabela-promocje .set-nazwa a { color: var(--granat); text-decoration: none; }
+.tabela-promocje .set-meta { display: block; margin-top: 4px; }
+.tabela-promocje .kol-cena .set-cena-kat { display: block; font-size: 0.8rem; color: var(--granat-60); text-decoration: line-through; }
+.tabela-promocje .kol-cena .set-cena { display: block; font-family: var(--font-display); font-weight: 800; font-size: 1.2rem; color: #c8102e; }
+.tabela-promocje .kol-cena .set-sklep { display: block; font-size: 0.8rem; color: var(--granat-60); }
+.tabela-promocje .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.86rem; padding: 9px 14px; border-radius: 6px; white-space: normal; }
+.tabela-promocje .cta:hover { background: #0f1830; }
+.promo-znaczki { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.promo-znaczki:empty { display: none; }
+.badge-okazja { display: inline-block; background: var(--zolty); color: var(--granat); font-weight: 800; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 2px 8px; border-radius: 999px; }
+@media (max-width: 720px) {
+  .tabela-promocje tr { grid-template-columns: 100px 1fr; grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "rabat cena" "cta cta"; align-items: start; }
+  .tabela-promocje .kol-foto { grid-area: foto; width: auto; margin: 0; }
+  .tabela-promocje .set-mini--duza, .tabela-promocje .set-mini--duza img { width: 100px; height: 100px; }
+  .tabela-promocje .set-nazwa { grid-area: nazwa; }
+  .tabela-promocje .set-meta { grid-area: meta; margin: 0; }
+  .tabela-promocje .promo-znaczki { grid-area: znaczki; margin: 0; }
+  .tabela-promocje .kol-rabat { grid-area: rabat; width: auto; align-self: center; }
+  .tabela-promocje .kol-cena { grid-area: cena; width: auto; text-align: right; display: block; }
+  .tabela-promocje .kol-cena .set-cena-kat, .tabela-promocje .kol-cena .set-cena, .tabela-promocje .kol-cena .set-sklep { display: inline; margin-left: 8px; }
+  .tabela-promocje .kol-cta { grid-area: cta; width: auto; text-align: left; }
+  .tabela-promocje .cta { display: block; text-align: center; }
+}
+/* podgląd: równe odstępy nagłówek → treść i slajder bez ramki zdjęcia (Marek 27.09) */
+.podglad-widok .foto-okno { border: 0; box-shadow: none; }
+.podglad-widok .sekcja-head { margin-bottom: 16px; }
+.podglad-widok .sekcja-head + p { margin: 0 0 20px; }
+.podglad-widok .sekcja-head + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap),
+.podglad-widok .sekcja-head + p + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap, .chipy) { margin-top: 0; }

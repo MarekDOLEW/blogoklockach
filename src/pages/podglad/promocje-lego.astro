@@ -1,93 +1,90 @@
 ---
+// PODGLĄD „Promocje LEGO" (27.09.2026, wersja 2 po uwagach Marka) – następca /deale/.
+// Kolejność: slajder 12 najlepszych okazji (2 karty w widoku, jak Aktualności) →
+// tekst o zasadach → listing w półkach cenowych (styl tabeli wycofań, większe
+// zdjęcia, bez ceny za klocek; „Dziś w dobrej cenie" wmieszane w półki, żeby się
+// nie dublowało) → Okazje pod lupą → Prezentowniki → Top 10 wycofań → Persony.
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
-import { zajawkiArtykulow, sortujPostyDealowe } from '../../lib/artykuly.js';
+import TabelaSetow from '../../components/TabelaSetow.astro';
+import { zajawkiArtykulow, sortujPostyDealowe, zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
-import { urlZdjecia } from '../../lib/media.js';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
-import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
-import TabelaSetow from '../../components/TabelaSetow.astro';
 import wycofaniaDane from '../../data/wycofania.json';
 import ofertyFeed from '../../data/oferty_feed.json';
+import { urlZdjecia } from '../../lib/media.js';
+import { wpisKatalogu } from '../../lib/katalog.js';
+import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
+import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
 import { wierszWycofania } from '../../lib/wiersze.js';
-import { zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
-
-// Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
-// dealowe (markdown w tym katalogu). Ta strona nie zawiera ani jednej ręcznie
-// wpisanej ceny – wszystko liczy się przy buildzie z sety.json/ceny_baza.json,
-// a Łowca pushuje świeże dane praktycznie codziennie, więc lista jest tak samo
-// aktualna jak tabele na hubach zestawów.
 
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
-const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
 const wpisy = Object.entries(sety)
-  .map(([nr, s]) => ({ nr, ...s, oferty: filtrujOferty(s.oferty, nr), foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({
+    nr,
+    ...s,
+    oferty: filtrujOferty(s.oferty, nr).filter((o) => o.sklep !== 'ceneo'),
+    foto: urlZdjecia(nr, { sety }),
+    ekskluzyw: Boolean(s.ekskluzyw || wpisKatalogu(nr)?.ekskluzyw),
+  }))
   .filter((s) => s.oferty?.length && s.cena_katalogowa);
 
-// dzień danych = najświeższa data ofert (nie zegar builda – build po północy
-// UTC ma już „jutrzejszą" datę, patrz identyczna uwaga w index.astro)
-const dzienDanych = wpisy
-  .flatMap((s) => s.oferty.map((o) => o.data ?? ''))
-  .reduce((a, b) => (b > a ? b : a), '');
+const dzienDanych = wpisy.flatMap((s) => s.oferty.map((o) => o.data ?? '')).reduce((a, b) => (b > a ? b : a), '');
 const dzienDanychPl = dzienDanych.split('-').reverse().join('.');
-
 const noweMinimum = (s) =>
   cenyBaza[s.nr]?.najnizsza_data === dzienDanych && cenyBaza[s.nr]?.najnizsza_cena === najlepszaCena(s);
 
-// deal gorący = rabat ≥30% od ceny katalogowej LUB świeże minimum notowań;
-// pseudopromocji (<15%) nie pokazujemy wcale – patrz standard Łowcy
-const gorace = wpisy
-  .filter((s) => rabat(s) >= 30 || (noweMinimum(s) && rabat(s) >= 15))
-  .sort((a, b) => rabat(b) - rabat(a));
+// Okazja (Marek 27.09.2026): rabat ≥30% albo nowe minimum przy ≥15%;
+// zestaw ekskluzywny (sprzedaje go głównie LEGO) – już ≥15%, bo tam to dużo.
+const PROG = 30;
+const PROG_EKSKLUZYW = 15;
+const PROG_MINIMUM = 15;
+const okazja = (s, o) => {
+  const r = rabatOferty(s, o);
+  return r >= PROG || (s.ekskluzyw && r >= PROG_EKSKLUZYW) || (noweMinimum(s) && o.cena === najlepszaCena(s) && r >= PROG_MINIMUM);
+};
+const jestOkazja = (s) => okazja(s, s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null));
 
+// 1. Slajder: 12 najlepszych okazji (limit Allegro jak w dealach).
+const okazje = wpisy.filter(jestOkazja).sort((a, b) => rabat(b) - rabat(a));
+const slajdy = przydzielOferty(okazje, { ile: 12, akceptuj: okazja });
+const wSlajderze = new Set(slajdy.map((d) => d.set.nr));
+
+// 2. Półki: okazje najpierw, potem pozostałe rabaty ≥15% („Dziś w dobrej cenie"
+//    w jednej liście). Zawsze co najmniej 10 pozycji – gdy w półce brakuje rabatów
+//    ≥15%, dopełniamy najwyższymi mniejszymi (procent widać przy cenie).
+//    Widać pierwsze MIN_WIDOCZNYCH (albo wszystkie okazje, jeśli jest ich więcej),
+//    reszta do MAKS_W_POLCE pod „Pokaż więcej".
+const MIN_WIDOCZNYCH = 10;
+const MAKS_W_POLCE = 40;
 const POLKI = [
-  { etykieta: '801 zł i więcej', pasuje: (c) => c > 800 },
-  { etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
-  { etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
+  { klucz: 'p1500', etykieta: 'Powyżej 1500 zł', pasuje: (c) => c > 1500 },
+  { klucz: 'p800', etykieta: '801–1500 zł', pasuje: (c) => c > 800 && c <= 1500 },
+  { klucz: 'p200', etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
+  { klucz: 'do200', etykieta: 'Do 200 zł', pasuje: (c) => c <= 200 },
 ];
-const NA_POLKE = 12;
-// Linki do Allegro to maks. 30% pozycji półki (3 z 12) – reguła w src/lib/deale.js
-// (ustalenie Marka 13.09.2026). Po wyczerpaniu limitu zestaw dostaje najlepszą
-// ofertę spoza Allegro, o ile nadal spełnia kryterium deala gorącego (rabat ≥30%
-// albo świeże minimum przy ≥15%); inaczej odpada z półki. Wiersz pokazuje cenę
-// i rabat TEJ oferty, nie najniższej – żeby link i kwota zawsze się zgadzały.
-const kryteriumDealu = (s, o) => rabatOferty(s, o) >= 30 || (noweMinimum(s) && rabatOferty(s, o) >= 15);
-const polki = POLKI.map((p) => ({
-  ...p,
-  deale: przydzielOferty(gorace.filter((s) => p.pasuje(najlepszaCena(s))), { ile: NA_POLKE, akceptuj: kryteriumDealu }),
-})).filter((p) => p.deale.length);
+const polki = POLKI.map((p) => {
+  const wPolce = wpisy.filter((s) => !wSlajderze.has(s.nr) && p.pasuje(najlepszaCena(s)) && rabat(s) > 0);
+  const kolejka = [
+    ...wPolce.filter(jestOkazja).sort((a, b) => rabat(b) - rabat(a)),
+    ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a)),
+    ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) < 15).sort((a, b) => rabat(b) - rabat(a)),
+  ];
+  const pary = przydzielOferty(kolejka, { ile: MAKS_W_POLCE, minRabat: 1 });
+  // dopełnienie poniżej 15% tylko do minimum 10 pozycji
+  const pelne = pary.filter((d, i) => rabatOferty(d.set, d.oferta) >= 15 || i < MIN_WIDOCZNYCH);
+  const ileOkazji = pelne.filter((d) => okazja(d.set, d.oferta)).length;
+  return { ...p, pary: pelne, widoczne: Math.max(MIN_WIDOCZNYCH, ileOkazji) };
+}).filter((p) => p.pary.length);
 
-// posty dealowe: markdown z tego katalogu, najnowsze na górze
-// Aktualności (kategoria od 27.09.2026) mają własny dział /aktualnosci/ i filtr
-// w /artykuly/ – tu zostają same posty dealowe, nawet gdy plik leży w tym katalogu.
+// 3. Posty dealowe (bez aktualności).
 const posty = zajawkiArtykulow(
   sortujPostyDealowe(Object.values(import.meta.glob('../deale/*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
 );
 
-// ══ PODGLĄD „Promocje LEGO" (27.09.2026) – kopia /deale/ + bloki ze strony głównej ══
-// 1. Dwanaście najlepszych okazji ze wszystkich półek jako boksy, reszta w listingu.
-const wszystkieDeale = polki.flatMap((p) => p.deale).sort((a, b) => rabatOferty(b.set, b.oferta) - rabatOferty(a.set, a.oferta));
-const boksy = wszystkieDeale.slice(0, 12);
-const wBoksach = new Set(boksy.map((d) => d.set.nr));
-const polkiListing = polki.map((p) => ({ ...p, deale: p.deale.filter((d) => !wBoksach.has(d.set.nr)) })).filter((p) => p.deale.length);
-
-// 2. „Dziś w dobrej cenie": rabat ≥15%, do 12 najlepszych z każdej serii, poza zestawami
-//    wyżej; ułożone seriami (alfabetycznie), w serii od największego rabatu.
-const wyzej = new Set(wszystkieDeale.map((d) => d.set.nr));
-const NA_SERIE = 12;
-const poSeriach = new Map();
-for (const s of wpisy.filter((s) => rabat(s) >= 15 && !wyzej.has(s.nr)).sort((a, b) => rabat(b) - rabat(a))) {
-  const l = poSeriach.get(s.seria) ?? [];
-  if (l.length < NA_SERIE) l.push(s);
-  poSeriach.set(s.seria, l);
-}
-const serieDobre = [...poSeriach.keys()].sort((a, b) => a.localeCompare(b, 'pl'));
-const dobreCeny = serieDobre.flatMap((s) => poSeriach.get(s));
-
-// 3. Prezentowniki – te same trzy co na stronie głównej.
+// 4. Prezentowniki – te same trzy co na stronie głównej.
 const WYBRANE_PREZENTOWNIKI = ['/prezentowniki/na-mikolaja/', '/prezentowniki/swieta-dla-dzieci/', '/prezentowniki/swieta-dla-doroslych/'];
 const kartyPrezentownikow = new Map(
   [
@@ -100,7 +97,7 @@ const kartyPrezentownikow = new Map(
 );
 const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u)).filter(Boolean);
 
-// 4. Top 10 wycofań – ta sama punktacja co na stronie głównej.
+// 5. Top 10 wycofań – ta sama punktacja co na stronie głównej.
 const KOLEKCJONERSKIE = new Set(['Ideas', 'Icons', 'Star Wars', 'Technic', 'Harry Potter', 'Botanicals']);
 const feedSety = ofertyFeed?.sety ?? {};
 const punkty = (w) => {
@@ -119,105 +116,112 @@ const punkty = (w) => {
 };
 const topWycofania = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwołane').map(punkty).sort((a, b) => b.p - a.p).slice(0, 10).map((x) => x.wiersz);
 const liczbaWycofan = wycofaniaDane.wycofania.filter((w) => w.kiedy !== 'odwołane').length;
-
-const jsonld = {
-  '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  name: 'Deale LEGO dziś – realne rabaty od cen katalogowych',
-  url: 'https://tylkoklocki.pl/deale/',
-  inLanguage: 'pl-PL',
-  isPartOf: { '@type': 'WebSite', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
-};
 ---
 <Base
   noindex={true}
   title="PODGLĄD – Promocje LEGO | tylkoklocki.pl"
-  description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, trzy półki cenowe, oznaczone nowe minima cenowe."
-  jsonld={jsonld}
+  description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, półki cenowe, oznaczone nowe minima cenowe."
 >
   <div class="podglad-widok">
   <p class="podglad-pasek">PODGLĄD – nowa strona „Promocje LEGO” w miejsce Deali (wersja robocza, niewidoczna dla Google). Druga strona podglądu: <a href="/podglad/glowna/">nowa strona główna</a></p>
   <h1 class="glowna-h1">Promocje LEGO – tylko realne rabaty, liczone od cen katalogowych</h1>
-  <p>
-    Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
-    (ostatnie dane: {dzienDanychPl}). Pokazujemy wyłącznie rabaty co najmniej 30%
-    od oficjalnej ceny katalogowej LEGO oraz zestawy, które właśnie zaliczyły
-    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań –
-    bez pseudopromocji liczonych od zawyżonych „cen przekreślonych".
-  </p>
 
-  {boksy.length > 0 && (
-    <section class="sekcja" aria-label="Najlepsze okazje dziś">
-      <div class="sekcja-head">
-        <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Najlepsze okazje dziś</h2>
-      </div>
-      <div class="siatka siatka--trzy">
-        {boksy.map(({ set: s, oferta }) => {
-          const aff = linkAfiliacyjny(oferta.sklep, s.nr);
-          return (
-            <div class="karta set-karta promo-boks">
-              <a class="promo-boks__foto" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
-                {s.foto
-                  ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />
-                  : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
-              </a>
-              <span class="nr">LEGO {s.nr} <span class="badge-seria">{s.seria}</span></span>
-              <h3><a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">{s.nazwa}</a></h3>
-              <div class="cena-linia">
-                <span class="cena">{fmtCena(oferta.cena)}</span>
-                <span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span>
-                {noweMinimum(s) && oferta.cena === najlepszaCena(s) && <span class="badge-najnizsza">nowe minimum</span>}
+  {slajdy.length > 0 && (
+    <section class="sekcja sekcja--aktualnosci" aria-label="Najlepsze okazje dziś">
+      <div class="akt-slajder" data-akt-slajder>
+        <div class="akt-tor" data-akt-tor tabindex="0" aria-label="Najlepsze okazje – przewiń w bok">
+          {slajdy.map(({ set: s, oferta }, i) => {
+            const aff = linkAfiliacyjny(oferta.sklep, s.nr);
+            return (
+              <div class="karta akt-karta promo-slajd">
+                <a class="akt-foto" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
+                  {s.foto
+                    ? <img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} width="800" height="450" loading={i < 2 ? 'eager' : 'lazy'} />
+                    : <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>}
+                </a>
+                <span class="akt-tresc">
+                  <span class="akt-meta">
+                    <span class="akt-etykieta">Okazja</span>
+                    <span>LEGO {s.nr} · {s.seria}</span>
+                    {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}
+                    {noweMinimum(s) && oferta.cena === najlepszaCena(s) && <span class="badge-najnizsza">nowe minimum</span>}
+                  </span>
+                  <h2 class="akt-tytul"><a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">{s.nazwa}</a></h2>
+                  <span class="promo-slajd__ceny">
+                    <span class="cena">{fmtCena(oferta.cena)}</span>
+                    <span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span>
+                    <span class="promo-slajd__kat">katalogowo {fmtCena(s.cena_katalogowa)}</span>
+                  </span>
+                  {aff
+                    ? <a class="cta promo-cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)} →</a>
+                    : <a class="cta promo-cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny →</a>}
+                </span>
               </div>
-              <span class="promo-boks__kat">katalogowo {fmtCena(s.cena_katalogowa)}</span>
-              {aff
-                ? <a class="cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)} →</a>
-                : <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny →</a>}
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
+        <button type="button" class="akt-strzalka akt-strzalka--wstecz" data-akt="wstecz" aria-label="Poprzednie okazje">‹</button>
+        <button type="button" class="akt-strzalka akt-strzalka--dalej" data-akt="dalej" aria-label="Następne okazje">›</button>
       </div>
     </section>
   )}
 
-  <h2 class="promo-podtytul">Pozostałe okazje – według ceny</h2>
-  {polkiListing.map((polka) => (
-    <section class="sekcja" aria-label={`Deale z półki ${polka.etykieta}`}>
+  <p class="promo-wstep">
+    Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
+    (ostatnie dane: {dzienDanychPl}). Rabaty liczymy wyłącznie od oficjalnej ceny
+    katalogowej LEGO, bez pseudopromocji od zawyżonych „cen przekreślonych”. Za okazję
+    uznajemy rabat co najmniej {PROG}%, zestaw, który właśnie zaliczył
+    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań, albo –
+    przy zestawach <span class="badge-ex">ekskluzyw</span>, które rzadko tanieją – rabat od {PROG_EKSKLUZYW}%.
+  </p>
+
+  {polki.map((polka) => (
+    <section class="sekcja" aria-label={`Promocje: ${polka.etykieta}`} data-polka>
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>{polka.etykieta}</h2>
       </div>
-      <div class="karta tabela-cen-wrap">
-        <table class="tabela-cen tabela-cen--deale">
+      <div class="tabela-setow-wrap">
+        <table class="tabela-setow tabela-promocje">
           <thead>
             <tr>
-              <th>Zestaw</th>
-              <th>Cena</th>
-              <th>Rabat</th>
-              <th>zł/klocek</th>
-              <th></th>
+              <th class="kol-foto"><span class="tylko-czytnik">Zdjęcie</span></th>
+              <th class="kol-opis">Zestaw</th>
+              <th class="kol-rabat">Rabat</th>
+              <th class="kol-cena">Cena</th>
+              <th class="kol-cta"><span class="tylko-czytnik">Sklep</span></th>
             </tr>
           </thead>
           <tbody>
-            {polka.deale.map(({ set: s, oferta }) => {
+            {polka.pary.map(({ set: s, oferta }, i) => {
               const aff = linkAfiliacyjny(oferta.sklep, s.nr);
-              const cena = oferta.cena;
+              const r = rabatOferty(s, oferta);
               return (
-                <tr>
-                  <td class="kc-sklep">
-                    <a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener"><strong>LEGO {s.nr}</strong> {s.nazwa}</a>
-                    {noweMinimum(s) && cena === najlepszaCena(s) && <> <span class="badge-najnizsza">nowe minimum</span></>}
-                    <span class="kc-uwaga">{nazwaSklepu(oferta.sklep)}</span>
+                <tr data-dodatkowy={i >= polka.widoczne ? '' : undefined} hidden={i >= polka.widoczne}>
+                  <td class="kol-foto">
+                    {s.foto
+                      ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
+                      : <span class="set-mini-placeholder" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
                   </td>
-                  <td class="cena kc-cena">{fmtCena(cena)}</td>
-                  <td class="kc-rabat"><span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span></td>
-                  <td class="kc-klocek">{s.elementy ? (cena / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}<span class="kc-klocek-etykieta"> za klocek</span></td>
-                  <td class="kc-cta">
-                    {aff ? (
-                      <a class="cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
-                    ) : (
-                      <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>
-                    )}
+                  <td class="kol-opis">
+                    <span class="set-nazwa"><a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">LEGO {s.nr} {s.nazwa}</a></span>
+                    <span class="set-meta">{[s.seria, s.elementy ? `${fmtElementy(s.elementy)} el.` : null].filter(Boolean).join(' · ')}</span>
+                    <span class="promo-znaczki">
+                      {okazja(s, oferta) && <span class="badge-okazja">okazja</span>}
+                      {noweMinimum(s) && oferta.cena === najlepszaCena(s) && <span class="badge-najnizsza">nowe minimum</span>}
+                      {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}
+                    </span>
+                  </td>
+                  <td class="kol-rabat"><span class="badge-rabat-mini">−{r}%</span></td>
+                  <td class="kol-cena">
+                    <span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span>
+                    <span class="set-cena">{fmtCena(oferta.cena)}</span>
+                    <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>
+                  </td>
+                  <td class="kol-cta">
+                    {aff
+                      ? <a class="cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                      : <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>}
                   </td>
                 </tr>
               );
@@ -225,41 +229,24 @@ const jsonld = {
           </tbody>
         </table>
       </div>
+      {polka.pary.length > polka.widoczne && (
+        <p class="sekcja-stopka">
+          <button type="button" class="przycisk przycisk--duzy" data-pokaz-wiecej>Pokaż więcej ({polka.pary.length - polka.widoczne}) ↓</button>
+        </p>
+      )}
     </section>
   ))}
 
-  {dobreCeny.length > 0 && (
-    <section class="sekcja" aria-label="Dziś w dobrej cenie">
+  {posty.length > 0 && (
+    <section class="sekcja" id="okazje-pod-lupa" aria-label="Okazje pod lupą">
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Dziś w dobrej cenie</h2>
+        <h2>Okazje pod lupą</h2>
       </div>
-      <p>Rabaty od 15% od ceny katalogowej, do {NA_SERIE} najlepszych w każdej serii. Wybierz serię albo przeglądaj wszystkie.</p>
-      <div class="chipy" role="group" aria-label="Filtruj po serii">
-        <button type="button" class="chip chip--aktywny" data-chip="">Wszystkie</button>
-        {serieDobre.map((s) => <button type="button" class="chip" data-chip={s}>{s}</button>)}
+      <p>Najciekawsze okazje opisujemy szerzej: dla kogo jest zestaw, przy jakiej cenie warto brać i na co uważać.</p>
+      <div class="zajawki">
+        {posty.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
-      <div class="siatka siatka--trzy" data-dobre-siatka>
-        {dobreCeny.map((s) => (
-          <a class="karta set-karta" href={`/zestaw/${s.nr}/`} data-seria={s.seria} target="_blank" rel="noopener">
-            {s.foto
-              ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />
-              : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
-            <span class="nr">LEGO {s.nr}</span>
-            <h3>{s.nazwa}</h3>
-            <span class="badge-seria">{s.seria}</span>
-            <div class="cena-linia">
-              <span class="cena">{fmtCena(najlepszaCena(s))}</span>
-              <span class="badge-rabat-mini">−{rabat(s)}%</span>
-            </div>
-          </a>
-        ))}
-      </div>
-      <nav class="paginacja" aria-label="Kolejne strony" hidden>
-        <button type="button" class="pg-przycisk" data-pg="wstecz">‹ Poprzednie</button>
-        <span class="pg-licznik" aria-live="polite"></span>
-        <button type="button" class="pg-przycisk" data-pg="dalej">Następne ›</button>
-      </nav>
     </section>
   )}
 
@@ -285,63 +272,50 @@ const jsonld = {
     <TabelaSetow wiersze={topWycofania} />
   </section>
 
-  {posty.length > 0 && (
-    <section class="sekcja" id="okazje-pod-lupa" aria-label="Posty dealowe">
-      <div class="sekcja-head">
-        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Okazje pod lupą</h2>
-      </div>
-      <p>Najciekawsze deale opisujemy szerzej: dla kogo jest zestaw, przy jakiej cenie warto brać i na co uważać.</p>
-      <div class="zajawki">
-        {posty.map((z) => <ZajawkaArtykulu zajawka={z} />)}
-      </div>
-    </section>
-  )}
+  <section class="sekcja persony">
+    <div class="karta persona">
+      <h3>👨‍👩‍👧 Kupujesz dla dziecka?</h3>
+      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> – nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
+    </div>
+    <div class="karta persona afol">
+      <h3>🧱 Budujesz kolekcję?</h3>
+      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów – wiemy, co i kiedy warto brać.</p>
+    </div>
+  </section>
 
   <p class="disclosure">
     Linki do sklepów są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis
-    i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór dealów: rabaty
-    liczymy zawsze od cen katalogowych LEGO, a ofertę pokazujemy niezależnie
-    od tego, czy mamy z danym sklepem współpracę. Pilnujemy też, by lista nie była
-    wyłącznie aukcjami – Allegro to najwyżej trzy pozycje na półce, resztę oddajemy
-    sklepom z własnym magazynem, jeśli ich cena wciąż jest realnym dealem.
+    i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór okazji: rabaty
+    liczymy zawsze od cen katalogowych LEGO, a ofertę pokazujemy niezależnie od tego,
+    czy mamy z danym sklepem współpracę. Allegro to najwyżej 30% pozycji w każdej części listy.
   </p>
   </div>
 </Base>
 
 <script>
-  // Filtr serii + stronicowanie po 12 (4 rzędy × 3) – wszystkie karty są w HTML.
-  const siatka = document.querySelector('[data-dobre-siatka]');
-  if (siatka) {
-    const chipy = [...document.querySelectorAll('.chip')];
-    const karty = [...siatka.querySelectorAll('.set-karta')];
-    const $pag = document.querySelector('.paginacja');
-    const $licznik = $pag.querySelector('.pg-licznik');
-    const NA_STRONE = 12;
-    let seria = '', strona = 0;
-    const pokaz = () => {
-      const pasujace = karty.filter((k) => !seria || k.dataset.seria === seria);
-      const stron = Math.max(1, Math.ceil(pasujace.length / NA_STRONE));
-      strona = Math.min(strona, stron - 1);
-      for (const k of karty) k.hidden = true;
-      pasujace.slice(strona * NA_STRONE, (strona + 1) * NA_STRONE).forEach((k) => (k.hidden = false));
-      $pag.hidden = stron < 2;
-      $licznik.textContent = `${strona + 1} / ${stron}`;
-      $pag.querySelector('[data-pg="wstecz"]').disabled = strona === 0;
-      $pag.querySelector('[data-pg="dalej"]').disabled = strona === stron - 1;
+  // Slajder okazji – ten sam mechanizm co Aktualności na stronie głównej.
+  for (const s of document.querySelectorAll('[data-akt-slajder]')) {
+    const tor = s.querySelector('[data-akt-tor]');
+    const wstecz = s.querySelector('[data-akt="wstecz"]');
+    const dalej = s.querySelector('[data-akt="dalej"]');
+    if (!tor || !wstecz || !dalej) continue;
+    const krok = () => (tor.firstElementChild?.getBoundingClientRect().width ?? tor.clientWidth) + 18;
+    const odswiez = () => {
+      wstecz.disabled = tor.scrollLeft <= 4;
+      dalej.disabled = tor.scrollLeft + tor.clientWidth >= tor.scrollWidth - 4;
     };
-    for (const c of chipy) c.addEventListener('click', () => {
-      seria = c.dataset.chip; strona = 0;
-      chipy.forEach((x) => x.classList.toggle('chip--aktywny', x === c));
-      pokaz();
+    wstecz.addEventListener('click', () => tor.scrollBy({ left: -krok(), behavior: 'smooth' }));
+    dalej.addEventListener('click', () => tor.scrollBy({ left: krok(), behavior: 'smooth' }));
+    tor.addEventListener('scroll', odswiez, { passive: true });
+    addEventListener('resize', odswiez);
+    odswiez();
+  }
+  // „Pokaż więcej" w półce: odsłania ukryte wiersze tej półki.
+  for (const b of document.querySelectorAll('[data-pokaz-wiecej]')) {
+    b.addEventListener('click', () => {
+      const polka = b.closest('[data-polka]');
+      for (const w of polka.querySelectorAll('tr[data-dodatkowy]')) w.hidden = false;
+      b.closest('.sekcja-stopka').remove();
     });
-    $pag.addEventListener('click', (e) => {
-      const b = e.target.closest('[data-pg]');
-      if (!b || b.disabled) return;
-      strona += b.dataset.pg === 'dalej' ? 1 : -1;
-      pokaz();
-      document.querySelector('.chipy').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-    });
-    pokaz();
   }
 </script>
