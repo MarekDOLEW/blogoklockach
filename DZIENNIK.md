@@ -107,6 +107,11 @@ w danych, ale czeka na zmianę workera.
 **Dla drugiej strony (Marek):** zgoda na małą zmianę w `src/worker.js`: trasa `/img/` przyjmuje
 też klucze literowe i numer wariantu, a zdjęcie główne z `obrazy.json` ma pierwszeństwo przed galerią.
 Po zgodzie: zmiana, test na produkcji, wgranie 91 (+28 krótkich numerów) do R2, zdjęcie guard z `media.js`.
+→ zamknięte 27.09: zgoda Marka. `src/worker.js`: klucz `/img/` = litery/cyfry + opcjonalne „-N”
+(max 24 znaki), dokładny klucz z `obrazy.json` przed pozycją galerii. Test offline (esbuild + atrapa R2):
+galeria, zdjęcie główne, R2, warianty, literowe, 850 → 200; śmieciowe klucze → 404; `/idz/` bez zmian.
+Ten sam wzorzec w `media.js` i `r2-obrazy.mjs` (tryb Routine sprawdzony: „brakuje w R2: 0”).
+119 zdjęć (91 literowych + 28 krótkich numerów) wgranych do R2 przed deployem.
 
 ## 2026-09-27 13:15 · CODE · Black Weeks ze zdjęciami, Dzień Chłopaka w Artykułach/Aktualnościach, kolejność 3–2–1
 

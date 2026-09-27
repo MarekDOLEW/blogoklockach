@@ -23,11 +23,10 @@ const wycofaniaFoto = new Map(
  * Cloudflare zamiast hotlinkować do sklepów (mapę numer->źródło buduje
  * scripts/generuj-obrazy.mjs z tych samych priorytetów).
  */
-// Klucze, które worker umie podać pod /img/ (src/worker.js: 4–7 cyfr, opcjonalnie
-// „-N"). Dla innych numerów (850, ARENDELLE, L0002199…) /img/ odda 404, więc
-// zamiast zepsutego obrazka zwracamy null i strona pokazuje zastępczy klocek.
-// Zdjęcia tych zestawów czekają w zdjecia.json na rozszerzenie workera (27.09.2026).
-const KLUCZ_WORKERA = /^[0-9]{4,7}(?:-[1-9][0-9]?)?$/;
+// Klucze, które worker umie podać pod /img/ — ten sam wzorzec co w src/worker.js
+// (od 27.09.2026 także literowe i warianty: 850, ARENDELLE, 4496-2). Klucz spoza
+// wzorca dostałby 404, więc wtedy null i zastępczy klocek zamiast zepsutego obrazka.
+const KLUCZ_WORKERA = /^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/;
 
 export function zdjecieSetu(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);

@@ -31,13 +31,15 @@ export default {
     // z zapisem przelotowym do R2. Raz zapisane zdjęcie zostaje u nas na zawsze,
     // nawet gdy sklep skasuje oryginał; cache Cloudflare przyspiesza oba przypadki.
     if (url.pathname.startsWith('/img/')) {
-      // sam numer = zdjęcie główne (obrazy.json); numer-pozycja = zdjęcie
-      // z galerii artykułowej (galerie.json, pozycje liczone od 1)
+      // Klucz: numer zestawu (zdjęcie główne z obrazy.json) albo numer-pozycja
+      // (zdjęcie z galerii artykułowej, galerie.json, pozycje od 1).
+      // Od 27.09.2026 (zgoda Marka) numer bywa też literowy albo wariantem:
+      // 850, ARENDELLE, SDCC2019, L0002199, 4496-2, TRUNINJAGO-2 — dlatego
+      // dokładny klucz z obrazy.json ma pierwszeństwo przed odczytem „pozycji
+      // galerii". Wzorzec wpuszcza tylko litery, cyfry i jeden sufiks „-N".
       const klucz = url.pathname.slice(5).replace(/\.jpg$/, '');
-      const dopasowanie = /^([0-9]{4,7})(?:-([1-9][0-9]?))?$/.exec(klucz);
-      if (!dopasowanie) return new Response('Brak zdjęcia', { status: 404 });
-      const numer = dopasowanie[1];
-      const pozycja = dopasowanie[2] ? Number(dopasowanie[2]) : null;
+      if (!/^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(klucz)) return new Response('Brak zdjęcia', { status: 404 });
+      const galeria = /^([0-9]{4,7})-([1-9][0-9]?)$/.exec(klucz);
       const naglowki = (typ, zrodlo) => ({
         'content-type': typ ?? 'image/jpeg',
         'cache-control': 'public, max-age=2592000, stale-while-revalidate=86400',
@@ -49,7 +51,7 @@ export default {
         return new Response(kopia.body, { headers: naglowki(kopia.httpMetadata?.contentType, 'r2') });
       }
 
-      const zrodlo = pozycja ? galerie[numer]?.[pozycja - 1] : obrazy[numer];
+      const zrodlo = obrazy[klucz] ?? (galeria ? galerie[galeria[1]]?.[Number(galeria[2]) - 1] : null);
       if (!zrodlo) return new Response('Brak zdjęcia', { status: 404 });
       const odp = await fetch(zrodlo, {
         cf: { cacheEverything: true, cacheTtl: 60 * 60 * 24 * 30 },
