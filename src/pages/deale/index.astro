@@ -56,7 +56,11 @@ const polki = POLKI.map((p) => ({
 })).filter((p) => p.deale.length);
 
 // posty dealowe: markdown z tego katalogu, najnowsze na górze
-const posty = zajawkiArtykulow(sortujPostyDealowe(Object.values(import.meta.glob('./*.md', { eager: true }))));
+// Aktualności (kategoria od 27.09.2026) mają własny dział /aktualnosci/ i filtr
+// w /artykuly/ – tu zostają same posty dealowe, nawet gdy plik leży w tym katalogu.
+const posty = zajawkiArtykulow(
+  sortujPostyDealowe(Object.values(import.meta.glob('./*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
+);
 
 const jsonld = {
   '@context': 'https://schema.org',

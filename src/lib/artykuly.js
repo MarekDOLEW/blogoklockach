@@ -86,6 +86,21 @@ export function zajawkaArtykulu(modul, { karty = false } = {}) {
   };
 }
 
+/**
+ * Kolejność „najnowsze pierwsze" dla listingów tekstów. Przy tej samej dacie
+ * decyduje tytuł malejąco (numerycznie): cykl „Historia licencji LEGO, część 1–3”
+ * wyszedł jednego dnia i bez tej reguły listing układał go 3–1–2 (Marek 27.09.2026:
+ * „zrób kolejność 3–2–1”). Działa na zajawce ({ data, tytul }) albo module ({ frontmatter }).
+ */
+export function najnowszePierwsze(a, b) {
+  const pola = (x) => (x?.frontmatter ? { data: x.frontmatter.data, tytul: x.frontmatter.title } : x);
+  const [x, y] = [pola(a), pola(b)];
+  return (
+    new Date(y.data) - new Date(x.data) ||
+    String(y.tytul ?? '').localeCompare(String(x.tytul ?? ''), 'pl', { numeric: true })
+  );
+}
+
 /** Lista zajawek, najnowsze pierwsze. */
 /**
  * Kolejność postów dealowych (strona główna i listing /deale/): najpierw posty

@@ -36,6 +36,8 @@ Ceny sprawdzone: 26.09.2026. Podane poziomy docelowe nie są przewidywaniem cen 
 
 ### [LEGO Technic 42213 SUV Ford Bronco](/zestaw/42213/)
 
+![LEGO Technic 42213 SUV Ford Bronco – czerwony Bronco z opcją terenową, 943 elementy](/img/42213.jpg)
+
 Cena katalogowa wynosi 249,99 zł, ale obecnie zestaw można znaleźć na Allegro nawet w okolicach 170 zł.
 
 To oznacza, że podczas Black Weeks oferta za 180–190 zł nie będzie już szczególnie interesująca. Obserwowałbym poziom około 160 zł lub niższy. Bronco ma 943 elementy i sporo funkcji mechanicznych, więc przy takiej cenie byłby bardzo mocnym kandydatem na prezent w okolicach 150–200 zł.
@@ -43,6 +45,8 @@ To oznacza, że podczas Black Weeks oferta za 180–190 zł nie będzie już szc
 <div class="ceny-setu" data-set="42213"></div>
 
 ### [LEGO Speed Champions 77264 Jaguar Project 7 i Land Rover Defender](/zestaw/77264/)
+
+![LEGO Speed Champions 77264 – Jaguar Project 7 i Land Rover Defender w jednym pudełku](/img/77264.jpg)
 
 RRP to 234,99 zł, podczas gdy obecny rynek zszedł już do około 160 zł.
 
@@ -52,6 +56,8 @@ Tutaj poprzeczka dla Black Weeks jest więc ustawiona wysoko. Interesujący pozi
 
 ### [LEGO City 60506 Tramwaj przy plaży](/zestaw/60506/)
 
+![LEGO City 60506 Tramwaj przy plaży – zbudowany tramwaj z minifigurkami](/img/60506-5.jpg)
+
 Cena katalogowa wynosi 299,99 zł, ale zestaw kosztuje obecnie około 190 zł.
 
 To już dobry poziom, dlatego podczas Black Weeks celowałbym w okolice 175–180 zł. Tramwaj jest ciekawy także dlatego, że nie jest kolejnym typowym samochodem City: sprawdza się jako samodzielny zestaw do zabawy i jako element większego miasta.
@@ -60,6 +66,8 @@ To już dobry poziom, dlatego podczas Black Weeks celowałbym w okolice 175–18
 
 ### [LEGO Creator 3 w 1 31168 Średniowieczny zamek rycerzy konnych](/zestaw/31168/)
 
+![LEGO Creator 3 w 1 31168 – trzy wersje do zbudowania: zamek, turniej i średniowieczne miasto](/img/31168-5.jpg)
+
 Tutaj przechodzimy do większych pudełek. RRP wynosi 519,99 zł, a dobre oferty schodziły już w okolice 350 zł.
 
 Dlatego zwykłe 399 zł podczas Black Weeks nie byłoby żadną rewelacją. Naprawdę interesujący zrobiłby się poziom około 330 zł lub niższy. Zamek ma 1371 elementów, sześć minifigurek i trzy pełne konstrukcje 3 w 1 (więcej w [naszej recenzji zamku](/artykuly/lego-31168-sredniowieczny-zamek-recenzja/)), więc może być jednym z ciekawszych większych prezentów, jeśli pojawi się dodatkowa obniżka.
@@ -67,6 +75,8 @@ Dlatego zwykłe 399 zł podczas Black Weeks nie byłoby żadną rewelacją. Napr
 <div class="ceny-setu" data-set="31168"></div>
 
 ### [LEGO City 60508 Napad na policyjny pociąg](/zestaw/60508/)
+
+![LEGO City 60508 – policyjna lokomotywa i wagony z celą, sejfem i samochodem](/img/60508-6.jpg)
 
 To przykład zestawu, przy którym kilka dodatkowych procent rabatu oznacza już sporą kwotę. RRP wynosi 869,99 zł, a obecne najniższe ceny oscylują wokół 600 zł.
 

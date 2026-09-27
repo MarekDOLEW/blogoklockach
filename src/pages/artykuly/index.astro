@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import FiltrKategorii from '../../components/FiltrKategorii.astro';
-import { zajawkiArtykulow, zajawkaZMeta } from '../../lib/artykuly.js';
+import { zajawkiArtykulow, zajawkaZMeta, najnowszePierwsze } from '../../lib/artykuly.js';
 // Artykuły leżą w ./ oraz – jak kalendarz i zapowiedzi – bezpośrednio
 // w src/pages/. Każdy plik .md z polem `kategoria` jest artykułem.
 //
@@ -12,6 +12,11 @@ import { zajawkiArtykulow, zajawkaZMeta } from '../../lib/artykuly.js';
 const posts = Object.entries({
   ...import.meta.glob('./*.md', { eager: true }),
   ...import.meta.glob('../*.md', { eager: true }),
+  // Aktualności spod /deale/ (Dzień Chłopaka został pod starym adresem) też są
+  // tekstami działu – bierzemy z tamtego katalogu tylko je, nie posty dealowe.
+  ...Object.fromEntries(
+    Object.entries(import.meta.glob('../deale/*.md', { eager: true })).filter(([, m]) => m.frontmatter?.kategoria === 'Aktualności'),
+  ),
 })
   .map(([, m]) => m)
   .filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik');
@@ -26,7 +31,7 @@ const strony = Object.values(import.meta.glob('./*.astro', { eager: true }))
   .filter((meta) => meta?.url && meta.kategoria && meta.kategoria !== 'Prezentownik');
 
 const zajawki = [...zajawkiArtykulow(posts), ...strony.map((meta) => zajawkaZMeta(meta))]
-  .sort((a, b) => new Date(b.data) - new Date(a.data));
+  .sort(najnowszePierwsze);
 ---
 <Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
   <h1 style="margin-top:28px">Artykuły</h1>

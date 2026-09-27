@@ -92,6 +92,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 13:15 · CODE · Black Weeks ze zdjęciami, Dzień Chłopaka w Artykułach/Aktualnościach, kolejność 3–2–1
+
+**Zrobione:** (1) Black Weeks: zdjęcie pod nagłówkiem każdego z 5 zestawów (42213 i 77264 — zdjęcie
+główne, bo nie mają galerii; 60506-5, 31168-5, 60508-6 z galerii, model zamiast pudełka).
+(2) Dzień Chłopaka (adres `/deale/…` bez zmian) jest teraz w `/artykuly/` pod filtrem Aktualności
+(2 teksty), a z listy `/deale/` zszedł. (3) Listingi przy tej samej dacie sortują po tytule malejąco
+(`najnowszePierwsze()` w `src/lib/artykuly.js`, `/artykuly/` i „Ostatnio na blogu”) — cykl Historii
+licencji układa się 3–2–1, wcześniej 3–1–2.
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** nic.
+
 ## 2026-09-27 13:00 · CODE · Nowa kategoria „Aktualności” + sekcja na głównej, Black Weeks i Dzień Chłopaka
 
 **Zrobione:** kategoria `Aktualności` (rejestr `kategorie_artykulow.json`, filtr w `/artykuly/`,
