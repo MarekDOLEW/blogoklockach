@@ -1524,3 +1524,13 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 }
 .promo-slajd .akt-opis { font-size: 0.9rem; line-height: 1.4; }
 .podglad-widok [data-lupa-pag] { margin-top: 20px; }
+/* slajder okazji: przycisk sklepu zawsze na dole karty – krótszy opis = większy odstęp nad przyciskiem */
+.promo-slajd .akt-tresc { flex: 1; }
+.promo-slajd .promo-slajd__ceny { margin-top: auto; padding-top: 10px; margin-bottom: 4px; flex-wrap: nowrap; }
+.promo-slajd .promo-cta { margin-top: 8px; }
+@media (max-width: 700px) {
+  .promo-slajd .promo-slajd__ceny { flex-wrap: wrap; }
+  .promo-slajd .promo-slajd__kat { flex-basis: 100%; }
+}
+.promo-slajd .promo-cta { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 700px) { .promo-slajd .promo-cta { font-size: 0.88rem; padding: 11px 10px; } }
