@@ -92,6 +92,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-27 20:30 · CODE · DO WDROŻENIA 28.09: nowa strona główna + „Promocje LEGO” (czeka na opinię Piotra)
+
+**Stan:** podglądy zaakceptowane przez Marka („jest super”), czekają na opinię Piotra; wdrożenie planowane
+28.09. Podglądy (noindex, poza sitemapą i menu):
+- `/podglad/glowna/` (v1: 3 boksy „Dziś w dobrej cenie”, losowo z przedziałów >500 / 151–500 / ≤150 zł)
+- `/podglad/glowna-v2/` (v2: listing 12 pozycji, po 3 z przedziałów >1500 / 801–1500 / 201–800 / ≤200, losowo)
+- `/podglad/promocje-lego/` (następca /deale/)
+
+**Plan wdrożenia (po wyborze v1 albo v2):**
+1. Wybraną wersję → `src/pages/index.astro` (bez paska PODGLĄD, bez `noindex`, bez wrappera `.podglad-widok`).
+2. `promocje-lego.astro` → `src/pages/promocje-lego/index.astro` (albo zostaje adres /deale/ — do decyzji
+   Marka); stare `/deale/` → przekierowanie 301 na nowy adres (astro.config `redirects`), posty dealowe
+   `/deale/<slug>/` zostają pod swoimi adresami.
+3. Menu (`Base.astro`): „Deale” → „Promocje LEGO”; „🔥 Promocje dziś” prowadzi na Promocje, nie na „/”.
+4. Poprawki stylu z `.podglad-widok` globalnie: `.sekcja-head h2 { margin:0 }` (klocek w osi tytułu),
+   odstępy 16/20 px, bez ramek zdjęć w kartach i slajderze — sprawdzić wszystkie strony (huby, serie,
+   artykuły) zrzutami przed/po.
+5. Scalić zdublowany kod (dobór okazji, półki, wycofania, prezentowniki) do `src/lib/` — dziś to kopie
+   `index.astro` i `deale/index.astro`.
+6. Sitemap (`sitemapy.js`): nowy adres Promocji zamiast /deale/; skasować strony `/podglad/*`.
+7. Reguła okazji do RUNBOOK/ustaleń: ≥30% albo nowe minimum przy ≥15%, ekskluzyw ≥15%; półki 10–20
+   pozycji (dopełnienie mniejszymi rabatami), slajder po 3 z każdej półki.
+8. Build, zrzuty (1280/390), brak poziomego scrolla, push; potem GSC: prośba o indeksację nowej strony.
+
+**Dla drugiej strony:** nic — czeka na decyzję Marka po opinii Piotra.
+
 ## 2026-09-27 18:40 · CODE · Podgląd przebudowy: nowa strona główna + „Promocje LEGO” (w toku)
 
 **Zrobione:** dwie strony podglądu (noindex, poza sitemapą i menu, pasek „PODGLĄD” u góry), produkcja
