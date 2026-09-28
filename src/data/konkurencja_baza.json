@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-27",
-    "przebieg": "scheduled 2026-09-27 08:00",
+    "ostatnia_aktualizacja": "2026-09-28",
+    "przebieg": "scheduled 2026-09-28 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 206,
+    "liczba_wpisow": 208,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2483,6 +2483,28 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Komunikat techniczny ich serwisu, bez tresci merytorycznej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Lumibricks 23002 Protein Farm z Blade Runner 2049",
+      "url": "https://fanklockow.pl/videorecenzja-lumibricks-23002-protein-farm-blade-runner-2049",
+      "data_publikacji": "2026-09-27",
+      "data_wykrycia": "2026-09-28",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Lumibricks, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Nowy Wladca Pierscieni na zdjeciach",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-27-wrzesnia-2026",
+      "data_publikacji": "2026-09-27",
+      "data_wykrycia": "2026-09-28",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad popkulturowy, bez zwiazku z zakupami LEGO."
     }
   ],
   "obserwacje_strategiczne": {
