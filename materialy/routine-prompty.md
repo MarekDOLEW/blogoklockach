@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 22.09.2026, 11:39 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 28.09.2026, 07:47 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -31,7 +31,7 @@ PODSUMOWANIE przebiegu: ile sprawdzono, ile cen (per źródło), ile null, ile p
 
 ## LEGO 05:00 — Scout nowości (runner z pushem, Opus 5)
 
-- ID: `trig_01DmDAaz993ddzz61pQj9o9X` · cron `0 3 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_013QRUCfL8ZAa45eDkQUkWXD` · cron `0 3 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Scouta Nowości. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -40,7 +40,7 @@ GIT I PAMIĘĆ MIĘDZY PRZEBIEGAMI (od 22.09.2026):
 - Jeśli `git pull` zgłosi „forced update", NIE pisz „historia została przepisana" — wklej do podsumowania wynik `git reflog show origin/main -n 3 --date=iso` oraz `git log --oneline -3 origin/main@{1}` i zostaw ocenę sesji Code. Klon w tej sesji może być płytki: brak starych commitów w `git log` nie znaczy, że zniknęły — sprawdź `test -f .git/shallow && echo PLYTKI` i `git rev-list --count origin/main`. 22.09 na `main` były wszystkie Twoje commity z 15–18.09 (f743218, 6d47664, 8af713c, fee8edd) — zgłoszenie „zniknęły z logu" było nietrafione.
 - `src/data/przecieki.json` ma wcięcie 1 spacji od 16.09.2026 (commit bf85683, na Twoją własną uwagę) — to układ docelowy; round-trip przed zapisem zostaje, ale nie raportuj tego jako zmiany formatu.
 - Nie powtarzaj w podsumowaniu uwag z poprzednich przebiegów. Każda uwaga techniczna musi mieć dowód z TEGO przebiegu (wynik polecenia z datą).
-- LUKI KATALOGU: zestaw, który jest w sprzedaży (oferty w `oferty_feed.json`), ale nie ma ceny katalogowej albo nie ma go w `sety.json` — wypisz w podsumowaniu w sekcji „Luki katalogu" (numer, seria, od kiedy w sprzedaży). Od 22.09 kolejka redakcyjna (`scripts/kolejka-redakcyjna.py`) liczy takie zestawy po najniższej cenie z rynku, więc lista trafia do redakcji — Ty jej nie łatasz.
+- LUKI KATALOGU: zestaw, który jest w sprzedaży (oferty w `oferty_feed.json`), ale nie ma ceny katalogowej albo nie ma go w `sety.json` — wypisz w podsumowaniu w sekcji „Luki katalogu" (numer, seria, od kiedy w sprzedaży). Od 22.09 kolejka redakcyjna (`scripts/kolejka-redakcyjna.py`) liczy takie zestawy po najniższej cenie z rynku, więc lista trafia do redakcji — Ty jej nie łatasz. POMIŃ wpisy z polem `bez_rrp` (sety.json albo katalog.json; wartość to powód: ekskluzyw LEGO House/LEGOLAND, prezent GWP, BrickLink Designer Program — od 23.09.2026, po weryfikacji Coworka w przeglądarce) — te zestawy nigdy nie miały polskiej ceny katalogowej i nie są luką. Gdy sam trafisz na taki zestaw, dopisz mu `bez_rrp` z powodem zamiast zgłaszać brak co przebieg. Zestawów LEGO Education (kanał szkolny, np. 45521) nie dodawaj do sety.json.
 
 ŹRÓDŁA — DOKŁADNIE TRZY, żadnych innych. Nie przeszukuj internetu poza nimi, nie używaj WebSearch do szukania kolejnych serwisów. (Ustalone 21.08.2026: lego.com i BrickLink blokują nasz ruch — 403/405 — więc ich nie próbuj.)
 
@@ -112,10 +112,10 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 
 ## LEGO pon 09:00 — Kontroler (raport tygodnia, runner z pushem, Opus 5)
 
-- ID: `trig_01EDEhtPiW4AVSAiGg9Co1mx` · cron `0 7 * * 1` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_0167qmnWn3Qjjz8HTwZU1uEP` · cron `0 7 * * 1` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
-Raport kontrolera — wynik tygodnia vs plan 20 000 zł na grudzień, EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień.
+Raport kontrolera — wynik tygodnia wobec CZTERECH KAMIENI MILOWYCH na grudzień 2026 (decyzja Marka 22.09.2026: cel „20 000 zł w grudniu" przesunięty na rok 2027 — nie licz już mnożnika do 20 000 zł, nie proponuj tej zamiany ponownie): (1) pierwsza ZATWIERDZONA prowizja w każdej z trzech sieci z API (Tradedoubler, Adtraction, Performers), (2) EPC per sklep na próbie większej niż jedna transakcja, (3) kliknięcia z Polski dziennie, (4) liczba zaindeksowanych stron z panelu GSC. Każdy kamień: wartość dziś, tydzień temu, kierunek. Do tego EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień. Pomiar Allegro i Planety Klocków (sieci bez API): decyzja Marka 22.09 — ZOSTAWIAMY bez ręcznego odczytu; EPC tych sklepów zawsze oznaczaj jako model i nie proponuj comiesięcznego odczytu z paneli.
 
 REPO — NAJPIERW. Repo jest dopięte do tej stałej sesji. W katalogu repo: `git fetch origin main && git checkout -B kontroler origin/main`, potem `npm ci --no-audit --no-fund` (jeśli nie ma node_modules). Push zawsze poleceniem `git push origin kontroler:main` (nigdy na lokalny `main`); przy odrzuceniu: `git fetch origin main && git rebase origin/main` i ponów (do 3 razy). Jeśli katalogu repo nie ma wcale albo proxy odmawia pushu z komunikatem o braku uprawnień — sesja straciła źródło: nie szukaj obejść, zrób commit lokalnie, `git format-patch origin/main --stdout > /tmp/kontroler.patch`, wyślij patch i raport przez SendUserFile, a w PIERWSZEJ linii raportu napisz dokładny komunikat gita.
 
@@ -129,7 +129,7 @@ ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpis
 
 KLIKNIĘCIA AFILIACYJNE: `node scripts/kliki-raport.mjs --dni 7` (Workers Analytics Engine przez SQL API; wymaga CF_ACCOUNT_ID i CF_API_TOKEN, NIE wypisuj wartości).
 
-RUCH BOTÓW — najważniejsza rzecz przy liczeniu EPC. Od 14.09.2026 worker oznacza każde kliknięcie jako „human" albo „bot" (rozstrzyga referer z tylkoklocki.pl; od 21.09 referer musi wskazywać hub z tym samym numerem albo realną stronę serwisu), a `kliki-raport.mjs` domyślnie liczy WYŁĄCZNIE ludzi. EPC licz z liczb po filtrze i NIGDY nie mieszaj ich z `--wszystko`. Podaj osobno `podzial_ruchu` (human / bot / nieoznaczone; „nieoznaczone" to kliknięcia sprzed 14.09). Udział „brak-linku" licz po ruchu ludzkim. Sprawdź referery ruchu „human": jeśli powtarza się referer wskazujący nieistniejącą stronę (jak `/zestaw/x/` 16.09.2026) albo ruch skupiony w jednym dniu z jednego kraju — to najpewniej nasz własny audyt; odejmij go i napisz o tym wprost. Żaden audyt nie ma prawa chodzić przez `/idz/` ani przez link trackingowy.
+RUCH BOTÓW — najważniejsza rzecz przy liczeniu EPC. Od 14.09.2026 worker oznacza każde kliknięcie jako „human" albo „bot" (rozstrzyga referer z tylkoklocki.pl; od 21.09 referer musi wskazywać hub z tym samym numerem albo realną stronę serwisu), a `kliki-raport.mjs` domyślnie liczy WYŁĄCZNIE ludzi. EPC licz z liczb po filtrze i NIGDY nie mieszaj ich z `--wszystko`. Podaj osobno `podzial_ruchu` (human / bot / nieoznaczone; „nieoznaczone" to kliknięcia sprzed 14.09). Udział „brak-linku" licz po ruchu ludzkim. Sprawdź referery ruchu „human": jeśli powtarza się referer wskazujący nieistniejącą stronę (jak `/zestaw/x/` 16.09.2026) albo ruch skupiony w jednym dniu z jednego kraju — to najpewniej nasz własny audyt; odejmij go i napisz o tym wprost, ale NIE pisz, że „zakaz audytu nie został wdrożony", jeśli kliknięcia pochodzą sprzed 21.09 (poprawka workera 3f42a9c odrzuca fałszywe referery od 21.09 11:55 UTC). Żaden audyt nie ma prawa chodzić przez `/idz/` ani przez link trackingowy.
 
 Stan zapisu na 25.08.2026: wiązanie analytics_engine_datasets jest w wrangler.jsonc, produkt aktywowany, dataset potwierdzony — worker ZAPISUJE kliknięcia. Błąd o brakujących zmiennych = brak poświadczeń do ODCZYTU: jedno zdanie, nie drąż wiązania.
 
@@ -139,9 +139,9 @@ Dane wejściowe bierz z repo (folder Cowork nie jest dostępny): `src/data/known
 
 WIDOCZNOŚĆ W GOOGLE: `node scripts/gsc-raport.mjs --dni 7` i `--dni 14` (trend). Wymaga GSC_KEY_JSON_B64 (NIE wypisuj). Sekcja „Widoczność w Google": kliki, wyświetlenia, TOP frazy, TOP podstrony, pozycje, trend tydzień do tygodnia.
 
-INDEKSACJA — wąskie gardło serwisu, raportuj co tydzień. (1) Zbuduj serwis: `npm run build` (ok. 30 s) i policz: `ls dist/zestaw | wc -l` (wszystkie huby) oraz `grep -c "<loc>" dist/sitemap-zestawy.xml` (huby zgłaszane do indeksu) — obie liczby do raportu z tygodniowym trendem. (2) Przez API Search Console zainspektuj adresy (POST https://searchconsole.googleapis.com/v1/urlInspection/index:inspect z inspectionUrl i siteUrl=sc-domain:tylkoklocki.pl; konto serwisowe z GSC_KEY_JSON_B64 ma pełne uprawnienie): stronę główną, /artykuly/, jeden artykuł z ostatniego tygodnia, /serie/, /wycofania/, /ekskluzywne/ i dwa huby /zestaw/ z sitemapy. Podaj werdykt, coverageState i datę ostatniego crawla. NIE raportuj pola „zindeksowane" z endpointu sitemaps — od 2022 pokazuje 0 i jest bezwartościowe; realną liczbę zindeksowanych stron ma tylko panel GSC (raport „Strony"), o który poproś Marka jednym zdaniem, jeśli minęły 2 tygodnie od ostatniego odczytu w DZIENNIKU. (3) Jeśli którykolwiek inspektowany adres ma werdykt inny niż „zindeksowany" lub crawl starszy niż 14 dni — wypisz go wprost.
+INDEKSACJA — wąskie gardło serwisu, raportuj co tydzień. (1) Zbuduj serwis: `npm run build` (ok. 30 s) i policz: `ls dist/zestaw | wc -l` (wszystkie huby) oraz `grep -c "<loc>" dist/sitemap-zestawy.xml` (huby zgłaszane do indeksu) — obie liczby do raportu z tygodniowym trendem. (2) Przez API Search Console zainspektuj adresy (POST https://searchconsole.googleapis.com/v1/urlInspection/index:inspect z inspectionUrl i siteUrl=sc-domain:tylkoklocki.pl; konto serwisowe z GSC_KEY_JSON_B64 ma pełne uprawnienie): stronę główną, /artykuly/, jeden artykuł z ostatniego tygodnia, /serie/, /wycofania/, /ekskluzywne/ i dwa huby /zestaw/ z sitemapy. Podaj werdykt, coverageState i datę ostatniego crawla. NIE raportuj pola „zindeksowane" z endpointu sitemaps — od 2022 pokazuje 0 i jest bezwartościowe; realną liczbę zindeksowanych stron ma tylko panel GSC (raport „Strony"), o który poproś Marka jednym zdaniem, jeśli minęły 2 tygodnie od ostatniego odczytu w DZIENNIKU. (3) Jeśli którykolwiek inspektowany adres ma werdykt inny niż „zindeksowany" lub crawl starszy niż 14 dni — wypisz go wprost. (4) `sitemap-priorytet.xml` został zdjęty z repo 22.09.2026 (decyzja Marka) — jeśli nadal widnieje w GSC jako zgłoszona mapa, jedno zdanie do Marka, żeby ją usunął z panelu; nie proponuj tego jako nowej decyzji.
 
-Punkty odniesienia: 24.08.2026 — 4 874 adresy przesłane, 0 zindeksowanych, tylko strona główna w indeksie. 15.09.2026 (panel GSC, dane z 4.09) — 307 zindeksowanych, 3 360 nie („wykryta – obecnie niezindeksowana" 3 291), 8 kliknięć / 263 wyświetlenia w 30 dni; 9 363 huby, z tego ok. 775 w sitemapie. 21.09.2026 — 1 164 huby w sitemapie, 8 kliknięć / 295 wyświetleń w 7 dni, strona główna bez crawla od 25.08. Każdą poprawę albo pogorszenie względem tych liczb wypunktuj wprost.
+Punkty odniesienia: 24.08.2026 — 4 874 adresy przesłane, 0 zindeksowanych, tylko strona główna w indeksie. 15.09.2026 (panel GSC, dane z 4.09) — 307 zindeksowanych, 3 360 nie („wykryta – obecnie niezindeksowana" 3 291), 8 kliknięć / 263 wyświetlenia w 30 dni; 9 363 huby, z tego ok. 775 w sitemapie. 22.09.2026 — 9 501 hubów, 1 163 w sitemapie, 9 kliknięć / 275 wyświetleń w 7 dni, 52 kliknięcia afiliacyjne z Polski (7,4 dziennie), prowizje 7 dni 2,89 EUR (4 transakcje TD), strona główna bez crawla od 25.08. Każdą poprawę albo pogorszenie względem tych liczb wypunktuj wprost.
 
 KONTROLA LINKÓW SKLEPOWYCH. Ty tego NIE uruchamiasz — robi to Łowca w poniedziałek o 08:30, pół godziny przed Tobą (`scripts/kontrola-linkow.mjs` z mapy `ZADANIA_TYGODNIOWE` w `feedy-lego.py`). Twoje zadanie to PRZECZYTAĆ wynik: weź najnowszy plik `materialy/kontrola-linkow-RRRR-MM-DD.md`, wklej do raportu jego tabelę per sklep i liczbę martwych linków. Jeśli pliku z dzisiejszą datą nie ma — napisz w raporcie jednym zdaniem, że kontrola linków się nie wykonała, i sprawdź `git log --since=24.hours` pod kątem commita Łowcy; NIE uruchamiaj skryptu sam. UWAGA na uczciwość liczb: Allegro, Empik, Media Expert i LEGO.com odrzucają ruch serwerowy i ich linki stoją w kolumnie „blokada sklepu" — o nich NIE pisz „OK", tylko „nie sprawdzone". Martwe linki Empiku zgłoś jako zadanie do `scripts/empik-redirects.mjs --usun-martwe`.
 
@@ -182,7 +182,7 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 - ID: `trig_01BWC5ydHBNVE5Q8usmf62PN` · cron `15 6 * * 1` (UTC) · włączony · świeża sesja na każdy przebieg
 
 ```
-Cotygodniowa przypominajka dla Marka o ręcznym zrzucie cen Empiku (decyzja 15.09.2026: Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalną przeglądarką przez skill klocki-ceny-empik, a plik lego-empik.json wrzuca do sesji Łowcy Promocji). Ty tylko wysyłasz mail.
+Cotygodniowa przypominajka dla Marka o ręcznym zrzucie cen Empiku (decyzja 15.09.2026: Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalną przeglądarką przez skill klocki-ceny-empik, a plik lego-empik.json wrzuca do sesji Claude Code jako załącznik). Ty tylko wysyłasz mail.
 
 Kroki:
 1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B empik origin/main` (bez npm — skrypt wysyłki to Python bez zależności; PDF robi Chromium z kontenera). Wymaga RESEND_API_KEY — gdy brak, wklej komunikat i zakończ.
@@ -193,8 +193,8 @@ Kroki:
    Pora na cotygodniowy zrzut cen LEGO z empik.com (skill `klocki-ceny-empik`, lokalna przeglądarka).
 
    1. Zrób zrzut → `lego-empik.json`.
-   2. Wrzuć plik do sesji **Łowca Promocji** z notką „import cen + linków Empik”.
-3. Łowca importuje ceny i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). Bez cotygodniowego zrzutu ceny Empiku stoją na hubach, a martwe adresy kart zostają i prowadzą na 404.
+   2. Wrzuć plik do sesji Claude Code (jak dziś, jako załącznik do rozmowy)
+3. Code importuje ceny (empik-import.mjs) i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). Bez cotygodniowego zrzutu ceny Empiku stoją na hubach, a martwe adresy kart zostają i prowadzą na 404.
 
    Ostatni zrzut wg `src/data/oferty_feed.json`: <najczęstsza wartość pola `daty.empik` albo `data` przy wpisach z `"sklep": "empik"`; jeśli nie ustalisz w minutę, wpisz „nie ustalono”>.
 
@@ -242,10 +242,12 @@ Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadn
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_01Fu1fB4ZmZN6daDtHqEDWZy` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_017omSdzXXrZQTjBBp4UfVTg` · cron `30 6 * * *` (UTC) · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
-Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
+Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio. 
+
+SKRYPTY ROBOCZE POZA REPO (od 23.09.2026): własne skrypty Pythona uruchamiaj przez `python3 - <<'EOF' … EOF` albo z katalogu scratchpad (`python3 /tmp/claude-0/…/scratchpad/nazwa.py`). NIGDY nie twórz plików w katalogu repo (`cat > cokolwiek.py` w repo zatrzymuje przebieg na pytaniu o uprawnienia, którego nikt nie zatwierdzi — 23.09 tak stanęły ceny na cały poranek). `git status` przed commitem ma pokazywać wyłącznie `src/data/` i ewentualny post w `src/pages/deale/`.
 
 KROK 0 — DIAGNOZA (od 15.09.2026): zaraz po pull uruchom `node scripts/diagnoza.mjs --szybko` (0,2 s, bez sieci). Jeśli brakuje którejś zmiennej środowiska albo plik danych jest starszy, niż powinien, wpisz to w podsumowaniu w pierwszej linii i pracuj dalej na tym, co jest — nie zgaduj, że dostęp „na pewno jest".
 
@@ -253,13 +255,14 @@ DANE — NIE PARSUJ SUROWYCH FEEDÓW. Od 21.08.2026 robi to skrypt w repo:
 
     python3 scripts/feedy-lego.py
 
-Pobiera feedy Media Expert, Planety Klocków i Allegro, wyciąga z nich WYŁĄCZNIE oferty LEGO i zapisuje /tmp/feedy-lego.json (~4 MB zamiast ~630 MB). Struktura: {"_meta": {...}, "mediaexpert": {"<nr>": {cena, link, zdjecie, dostepny, nazwa}}, "planetaklockow": {...}, "allegro": {...}}. Oczekiwane rzędy wielkości: ME ~750 setów, PK ~1300, Allegro ~7000.
+Pobiera feedy Media Expert, Planety Klocków i Allegro, wyciąga z nich WYŁĄCZNIE oferty LEGO i zapisuje /tmp/feedy-lego.json (~4 MB zamiast ~630 MB). Struktura: {"_meta": {...}, "mediaexpert": {"<nr>": {cena, link, zdjecie, dostepny, nazwa}}, "planetaklockow": {...}, "allegro": {...}}. Oczekiwane rzędy wielkości: ME ~750 setów, PK ~1300, Allegro ~6400 (od 22.09.2026 feed „tylko LEGO" z bramkami na pojedyncze elementy — jeśli Allegro spadnie poniżej 4 000 albo przekroczy 10 000, napisz to w pierwszej linii podsumowania).
 
 ZASADY PRACY Z WYCIĄGIEM:
 - Nie wczytuj pliku w całości do kontekstu — przetwarzaj go skryptami w Pythonie i wypisuj tylko wyniki (liczby, listy dealów).
 - `_meta.mediaexpert_feed_updated` to data generowania feedu ME (00:30 CEST). Podaj ją w raporcie; jeśli nie jest z dzisiaj, napisz to wprost.
 - `_meta.bledy` — sklep, którego feed się nie pobrał. Wtedy NIE aktualizuj ofert tego sklepu, nie kasuj jego wczorajszych ofert i napisz to w raporcie.
 - `_meta.planetaklockow_archiwum_eol` — numery z archiwum PK (wycofane z oferty). Raportuj jako alerty EOL, nie jako deale.
+- `_meta.<sklep>_niespojne` — wiersze odrzucone przez sito spójności numer↔link (od 26.09.2026 w skrypcie; feedy ME i PK miewają przesunięte wiersze). Podaj liczbę w raporcie; nie powtarzaj tego testu ręcznie.
 - Skrypt filtruje marki i numery setów (tylko tytuły `^LEGO ... <numer>`), więc puzzle i gry innych marek już nie wchodzą — nie powtarzaj tego filtrowania.
 
 UWAGA — feed PK nie pokazuje cen promocyjnych (akcje typu −7% na koszyk są niewidoczne; NIE mnóż cen przez współczynnik). Dla setów, gdzie cena PK mieści się w 15% od najtańszej znanej oferty, sprawdź cenę na stronie produktu przez WebFetch (URL z pola `link`) i użyj ceny ze strony. Rozbieżności odnotuj w raporcie.
@@ -278,6 +281,8 @@ WERYFIKACJA: przed pushem sprawdź 3 sety z dealów gorących przez WebFetch na 
 
 KLASYFIKACJA: gorący ≥30% lub nowe minimum; dobry 20–29%; <15% = pseudopromocja. Przy rabacie >60% na Allegro (marketplace) oznacz deal jako „do weryfikacji", nie publikuj jako pewnik.
 
+OBOWIĄZKOWE KATEGORIE (od 27.09.2026): blok „Dziś w dobrej cenie" na stronie głównej ma 6 obowiązkowych kategorii — City, Star Wars, Technic, Harry Potter (próg 30%) oraz Icons i Ideas (próg 20%), minimum 5 zestawów każda; niedobór dobiera się automatycznie z ofert ≥15% (logika w `src/pages/index.astro`, niczego nie liczysz ręcznie). Po zapisaniu danych policz zestawy z progiem per kategoria i podaj w podsumowaniu; gdy któraś kategoria spada poniżej 5 z progiem, napisz to wprost w pierwszej linii.
+
 POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.2026): piszesz post, gdy (a) rabat ≥35% od ceny katalogowej na zestawie o RRP ≥300 zł w sklepie (nie marketplace), albo (b) historyczne minimum na zestawie z listy wycofań (`wycofania.json`), albo (c) akcja sklepowa obejmująca ≥5 zestawów LEGO (kod rabatowy, „wyższa szkoła rabatu" itp.). Najwyżej 2 posty tygodniowo — jeśli kandydatów jest więcej, wybierz te o największym rabacie w złotych. Post wg `lego-standard-sprzedazowy` (`.claude/skills/`), z linkiem do huba `/zestaw/<nr>/`, bez daty końca promocji, jeśli sklep jej nie podaje. Nie pisz postu o zestawie, który miał post w ostatnich 14 dniach.
 
 PODEJRZANY RYNEK (od 16.09.2026, decyzja Marka): po zapisaniu danych uruchom `node scripts/podejrzany-rynek-mail.mjs`. Skrypt wypisuje oferty poniżej 50% POTWIERDZONEJ ceny katalogowej bez potwierdzenia człowieka (strona sama je ukrywa — `deale_potwierdzone.json`) i gdy takie są, wysyła Markowi mail z linkami do sprawdzenia (klucz `podejrzane` w raporty_mail.json; wymaga RESEND_API_KEY). Ofert tych NIE usuwaj z danych i NIE oceniaj sam; liczba z wyniku skryptu idzie do podsumowania jedną linijką. Brak kandydatów = brak maila.
@@ -286,7 +291,7 @@ PRZED COMMITEM (dwa skrypty, zawsze): (1) `node scripts/generuj-obrazy.mjs` — 
 
 PUBLIKACJA: walidacja JSON-ów (liczby wpisów nie zmalały w ŻADNEJ gałęzi: sety, oferty_feed.sety, każda gałąź redirects), commit „Łowca: ceny i oferty <data>", push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
 
-PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), weryfikacje PK, zmiany cen (ile w górę), deale gorące (cena, rabat, zł/klocek), gotowe posty dealowe, import Empiku (jeśli był).
+PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), weryfikacje PK, zmiany cen (ile w górę), deale gorące (cena, rabat, zł/klocek), obowiązkowe kategorie (liczba z progiem per kategoria), gotowe posty dealowe, import Empiku (jeśli był).
 
 BUDŻET: pracuj oszczędnie — jedno uruchomienie skryptu, przetwarzanie w Pythonie, bez powtarzania kroków i bez eksperymentów z parsowaniem. Jeśli skrypt zwróci błąd, napisz jaki i zakończ, zamiast parsować feedy ręcznie.
 
@@ -295,6 +300,8 @@ WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani pl
     python3 scripts/wyslij-raport.py --zadanie promocje --tytul "Łowca Promocji — <DD.MM.RRRR>" --plik /tmp/raport-promocje.md --wstep "<1–2 zdania: co w tym przebiegu najważniejsze>"
 
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj po KAŻDYM przebiegu, także gdy nic się nie zmieniło — wtedy raport ma to powiedzieć wprost. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
+
+W poście dealowym podaj we frontmatterze pasek_zestaw: "<nr>" z numerem zestawu z tytułu — layout wstawi pasek z ceną pod tytułem.
 ```
 
 ## LEGO 09:30 — Alerty cen (Obserwuj zestaw)

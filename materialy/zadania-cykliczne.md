@@ -44,7 +44,7 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 22.09 11:39 (CEST, UTC+2).** Objął **14 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 28.09 07:47 (CEST, UTC+2).** Objął **17 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z konta" (pon 07:45 PL); Kontroler ją czyta.
@@ -52,16 +52,16 @@ z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z ko
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
 | LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem) | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | — nigdy nie odpalony | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01DmDAaz993ddzz61pQj9o9X` |
-| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 22.09 08:01 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
-| LEGO pon 09:00 — Kontroler (raport tygodnia, runner z pushem, Opus 5) | `0 7 * * 1` | pon 09:00 | ✅ | 22.09 08:20 | — odpalony, bez zapisanego statusu | `trig_01EDEhtPiW4AVSAiGg9Co1mx` |
-| LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 21.09 06:10 | ✅ SUCCEEDED | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `0 3 * * *` | 05:00 | ✅ | 28.09 05:04 | ✅ SUCCEEDED | `trig_013QRUCfL8ZAa45eDkQUkWXD` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `0 6 * * *` | 08:00 | ✅ | 27.09 08:11 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
+| LEGO pon 09:00 — Kontroler (raport tygodnia, runner z pushem, Opus 5) | `0 7 * * 1` | pon 09:00 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_0167qmnWn3Qjjz8HTwZU1uEP` |
+| LEGO pon 06:10 — Wycofania (runner z pushem) | `10 4 * * 1` | pon 06:10 | ✅ | 28.09 06:10 | ✅ SUCCEEDED | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
 | LEGO pon 08:15 — Przypomnienie: zrzut Empiku | `15 6 * * 1` | pon 08:15 | ✅ | 21.09 08:16 | ✅ SUCCEEDED | `trig_01BWC5ydHBNVE5Q8usmf62PN` |
-| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 22.09 04:31 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
+| LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków) | `30 2 * * *` | 04:30 | ✅ | 28.09 04:40 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
 | Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `30 3 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01PwyDWKRCLydgDxAH8eRzzR` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Fu1fB4ZmZN6daDtHqEDWZy` |
-| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 22.09 09:38 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
-| LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `45 5 * * 1` | pon 07:45 | ✅ | — | — utworzony 2026-09-22, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `30 6 * * *` | 08:30 | ✅ | 27.09 08:41 | ✅ SUCCEEDED | `trig_017omSdzXXrZQTjBBp4UfVTg` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `30 7 * * *` | 09:30 | ✅ | 27.09 09:34 | ✅ SUCCEEDED | `trig_01BLKenDsuWfNpJ4iFdCN9Vc` |
+| LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `45 5 * * 1` | pon 07:45 | ✅ | 28.09 07:45 | ✅ SUCCEEDED | `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` |
 
 ### Pozostałe Routines na tym samym koncie
 
@@ -70,13 +70,22 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 
 | Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 21.09 07:10 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
+| Raport kliknięć — skutek CRO | `jednorazowo 09.10 09:00` | — | ✅ | — | — utworzony 2026-09-25, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01MCXZFZBymmddVXBNiWk6x1` |
+| Archiwizacja starej sesji Łowcy | `jednorazowo 29.09 07:00` | — | ✅ | — | — utworzony 2026-09-25, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01TP1mKUB2TX4BSrwD7CeWN2` |
+| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 28.09 07:16 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
 | inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 21.09 10:06 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
-| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 16.09 11:03 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
+| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 23.09 11:02 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
+| Empik co tydzien | `CRON_TZ=Europe/Warsaw 0 8 * * 1` | ⚠️ nieobsługiwane: `CRON_TZ=Europe/Warsaw 0 8 * * 1` | ✅ | — | — utworzony 2026-09-23, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01BQY7Vd3URxtM7yk9bqLT2d` |
 
 ### Kolizje — zadania na tej samej minucie
 
 - brak — żadne dwa włączone zadania nie startują w tej samej minucie
+
+**Poza detektorem** — wyrażenia crona, których nie umiem rozwinąć na momenty
+tygodnia (krok „co N minut" albo składnia spoza list/zakresów). Kolizje z nimi
+trzeba sprawdzić ręcznie:
+
+- Empik co tydzien — `CRON_TZ=Europe/Warsaw 0 8 * * 1`
 
 <!-- HARMONOGRAM:KONIEC -->
 
