@@ -5,13 +5,14 @@ opis: "Akcja x-kom na Dzień Chłopaka trwa do 30 września i obejmuje dziewię�
 data: "2026-09-23"
 kategoria: "Aktualności"
 dzial: "Aktualności"
-zaktualizowano: "2026-09-27"
+zaktualizowano: "2026-09-28"
 okladka: "43014"
 wazne_do: "2026-09-30"
 tagi: ["Dla rodzica", "Dla AFOL"]
-wyroznienie: true
 pasek_zestaw: "43014"
 ---
+
+> **Aktualizacja 28 września:** część cen z tej akcji już nie obowiązuje. Kask Leclerca 43014 kosztuje dziś w x-kom 286,90 zł, kask Hamiltona 43022 – 289,90 zł, rower 11380 – 429,90 zł, Messi 43011 – 99,90 zł, a Ronaldo 43012 jest niedostępny. Utrzymały się Dodge Charger 42231, Ferrari 488 Pista 42235, Vini Jr. 43027 i McLaren 42228 – przeszły do nowej akcji x-kom, którą opisujemy w tekście [Wyższa Szkoła Rabatu w x-kom](/artykuly/x-kom-wyzsza-szkola-rabatu-2026-lego/).
 
 > **W skrócie:** akcja x-kom na Dzień Chłopaka trwa **do 30 września**, bez kodu. Najmocniejsze pozycje: kask Leclerca 43014 za 249,90 zł, Dodge Charger 42231 za 444,90 zł i piłkarskie momenty 43012/43027 po 76,90 zł – wszystkie najtańsze w historii naszych notowań. Jedną pozycję, McLarena 42228, znajdziesz taniej gdzie indziej.
 

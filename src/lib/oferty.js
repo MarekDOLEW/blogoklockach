@@ -39,12 +39,13 @@ const DZIS_MS = Date.now();
  * Czy oferta jest dość świeża, żeby ją pokazać (bez daty = nie oceniamy).
  * Oferta z polem `wazne_do` (RRRR-MM-DD) – akcja sklepu z ogłoszoną datą końca,
  * np. mailing x-kom 23.09.2026 – znika po tym dniu niezależnie od sita 14 dni,
- * żeby cena z promocji nie wisiała tydzień po jej zakończeniu.
+ * żeby cena z promocji nie wisiała tydzień po jej zakończeniu. I odwrotnie:
+ * do tego dnia sito 14 dni jej nie zdejmuje (akcja x-kom 28.09–18.10 trwa 3 tygodnie).
  */
 export function ofertaAktualna(o) {
   if (o?.wazne_do) {
     const koniec = Date.parse(o.wazne_do);
-    if (!Number.isNaN(koniec) && DZIS_MS > koniec + 864e5) return false;
+    if (!Number.isNaN(koniec)) return DZIS_MS <= koniec + 864e5;
   }
   if (!o?.data) return true;
   const ms = Date.parse(o.data);
