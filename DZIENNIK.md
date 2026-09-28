@@ -92,6 +92,22 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-28 08:40 · CODE · Import zrzutu Empiku z 28.09 (sesja Code, plik od Marka)
+
+**Zrobione:** `empik-import.mjs` (sucho → zapis) + `empik-redirects.mjs --usun-martwe`.
+Zrzut 5 320 pozycji → 4 378 cen po filtrach (odrzucone: gadżety 538, obca marka 13,
+sanity 52, spoza katalogu 337 = 17,7%, poniżej progu 20%). oferty_feed: 56 nowych,
+1 281 zmian, 48 zestawów bez Empiku w zrzucie straciło jego cenę; sety.json 982 ofert;
+18 nowych minimów w ceny_baza. Deeplinki: 41 zaktualizowanych, 52 martwe usunięte
+(jedyny dopuszczony ubytek), gałąź empik 4 775 → 4 787. Build OK.
+Marek zmienił metodę zrzutu (dwa sortowania bez luki, filtr „tylko dostępne",
+szersza reguła numeru „1016el") — dlatego ok. 10% więcej pozycji niż 21.09.
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** skill `klocki-ceny-empik` opisuje jeszcze trzy przebiegi
+z filtrem ceny — Marek zrobił dwa i wystarczyło; do aktualizacji w skillu przy
+najbliższej okazji (52 „podstawki Blacked Brick" wpadają w sanity zamiast w gadżety —
+też do dopisania rdzenia „podstawka" w `zrzut-import.mjs`).
+
 ## 2026-09-27 20:30 · CODE · DO WDROŻENIA 28.09: nowa strona główna + „Promocje LEGO” (czeka na opinię Piotra)
 
 **Stan:** podglądy zaakceptowane przez Marka („jest super”), czekają na opinię Piotra; wdrożenie planowane
