@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-27"
+zaktualizowano: "2026-09-29"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -25,6 +25,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
+<li><span class="okna__data">6.10, 17:00</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#bldp"><b>BrickLink Designer Program, seria 9</b> – pięć zestawów tylko na Bricklinku, poza LEGO.com i poza promocjami</a></li>
 <li><span class="okna__data">13–19.10</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje Świata: Włochy od 745 zł</a></li>
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
@@ -147,6 +148,29 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 
 **Czy warto czekać z innymi zakupami Star Wars?** Nie na sam Executor – to zestaw z zupełnie innej półki cenowej i nie wpływa na resztę oferty. Ale okna premierowe UCS bywają w LEGO.com łączone z podwójnymi punktami na całą serię, więc jeśli i tak planujesz coś z [Gwiezdnych wojen](/prezentowniki/lego-star-wars/), pierwszy tydzień października jest dobrym momentem, żeby sprawdzić warunki.
 
+<h3 id="bldp">6 października: przedsprzedaż BrickLink Designer Program, seria 9 <span class="status status--ok">potwierdzone</span></h3>
+
+We wtorek **6 października o 17:00** rusza sprzedaż piątej serii z programu
+BrickLink Designer Program — pięć zestawów projektowanych przez fanów:
+
+| Zestaw | Cena katalogowa |
+|---|---|
+| 910069 Fisherman's Village | 1499,99 zł |
+| 910070 Sleepy Dragon Inn | 1149,99 zł |
+| 910071 Wild West Blacksmith | 969,99 zł |
+| 910072 Woodbrick Freight Depot | 969,99 zł |
+| 910073 Pumpkin Patch | 209,99 zł |
+
+**To nie jest zwykła premiera i nie obowiązują tu żadne reguły z reszty tego
+kalendarza.** Sprzedaż idzie wyłącznie przez Bricklink.com, nie przez LEGO.com,
+więc nie liczy się do progów gratisowych ani do punktów Insiders. Te zestawy
+nie wchodzą też nigdy do normalnej dystrybucji, czyli **nie stanieją** — ani na
+Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
+wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
+podejmujesz w oknie przedsprzedaży albo wcale.
+
+Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
+
 <h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--maybe">przewidywane</span></h3>
 
 Dwa tygodnie po premierze Executora wraca układ, który znamy z całego roku:
@@ -182,9 +206,16 @@ o tym, czy warto czekać:
 
 | Zestawy | Oferty poza LEGO.com | Co to znaczy |
 |---|---|---|
-| 72306 PlayStation, 11379 Księgarnia, trzy zestawy Avengers: Doomsday (76347, 76348, 76352) | **są** – trzy do czterech sklepów | konkurencja cenowa działa, na Black Friday jest o co grać |
-| 21371 Wallace i Gromit, 21373 Downton Abbey | dziś brak | wyłączność czasowa: oferty zewnętrzne zwykle dochodzą po kilku tygodniach |
+| 11379 Księgarnia, trzy zestawy Avengers: Doomsday (76347, 76348, 76352) | **są i są tańsze** od cennika | konkurencja cenowa działa, na Black Friday jest o co grać |
+| 72306 PlayStation, 11387 Świąteczny domek | są, ale **powyżej cennika** | to odsprzedaż, nie dystrybucja. 72306 ma wejść do szerokiej sprzedaży dopiero w grudniu |
+| 21371 Wallace i Gromit, 21373 Downton Abbey | brak | wyłączność czasowa: oferty zewnętrzne zwykle dochodzą po kilku tygodniach |
 | **Cała paczka świąteczna** – 40862 ozdoby, 40865 Elf Buddy, 40866 sanie Mikołaja, 40874 odliczanie, 40875 Pani Mikołajowa | **brak i nie będzie** | ekskluzywne dla LEGO, cena jedna przez cały sezon |
+
+**Jak sam to rozpoznasz.** Oferta w sklepie zewnętrznym **powyżej** ceny
+katalogowej przy świeżej premierze prawie zawsze znaczy odsprzedaż, a nie
+normalną dystrybucję — ktoś kupił w LEGO.com i stawia marżę. Dopiero oferty
+poniżej cennika oznaczają, że sklepy naprawdę mają towar od producenta. Ta
+różnica jest widoczna w tabeli cen na podstronie każdego zestawu.
 
 **Dlaczego to ma znaczenie dla kalendarza.** Zestaw sezonowy kupiony w październiku i zestaw sezonowy kupiony w grudniu to dwie różne transakcje: świąteczne pozycje LEGO mają krótkie okno sprzedaży i potrafią zniknąć przed świętami, a te, które zostaną, rzadko tanieją w grudniu. To jest odwrotność zasady „poczekaj do Black Friday", którą stosujemy przy zwykłych zestawach.
 

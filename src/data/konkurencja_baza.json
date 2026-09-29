@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-28",
-    "przebieg": "scheduled 2026-09-28 08:00",
+    "ostatnia_aktualizacja": "2026-09-29",
+    "przebieg": "scheduled 2026-09-29 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 208,
+    "liczba_wpisow": 215,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2505,6 +2505,88 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Przeglad popkulturowy, bez zwiazku z zakupami LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Premiery LEGO na 10.2026 (z dystrybucja)",
+      "url": "https://fanklockow.pl/premiery-lego-na-10-2026-z-dystrybucja",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl",
+        "Bricklink.com"
+      ],
+      "notatki": "DRUGIE ZRODLO na BLDP seria 9: 6 pazdziernika (wtorek) 17:00, piec zestawow 910069-910073 z cenami identycznymi jak u faniklockow. Zadanie z rejestru 27.09 zamkniete - BLDP dopisany do kalendarza z wlasna sekcja. WAZNIEJSZE: ich etykiety roznia sie od faniklockow przy dwoch zestawach. 72306 PlayStation to u nich 'Ekskluzywna (szeroka od 12.2026)', 11387 'Ekskluzywna (czasowo)' - a faniklockow dal 72306 jako 'Szeroka'. Nasze dane rozstrzygaja na korzysc fanklockow: oferty poza LEGO dla obu sa POWYZEJ cennika (72306 allegro 748,99 wobec 689,99; 11387 allegro 699 wobec 469,99), czyli to odsprzedaz, nie dystrybucja. Tabela w kalendarzu poprawiona 29.09 - wczoraj wrzucilem 72306 do rubryki 'konkurencja cenowa dziala', co bylo za mocne."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow LEGO 2026 - aktualizacja 28.09",
+      "url": "https://faniklockow.pl/2026/09/28/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Kolejna aktualizacja tej samej listy. Okno halloweenowe konczy sie 30.09, wiec spor o prog 375 vs 430 zl traci znaczenie - nie ruszamy kalendarza."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO Inside Tour 2027 - terminy",
+      "url": "https://fanklockow.pl/lego-inside-tour-2027-terminy",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Wycieczka do Billund w 2027. Poza rynkiem polskim i poza sezonem XI-XII."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Inside Tour 2027 - daty wycieczek i zapisow",
+      "url": "https://faniklockow.pl/2026/09/28/lego-inside-tour-2027-znamy-daty-wycieczek-i-zapisow",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Ninjago",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-ninjago",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii Icons na 2026 rok",
+      "url": "https://faniklockow.pl/2026/09/28/zapowiedzi-serii-icons-na-2026-rok",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Aktualizacja ich listy zapowiedzi Icons - material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Unikatowa kaczka z drukarki 3D",
+      "url": "https://faniklockow.pl/2026/09/28/unikatowa-kaczka-z-drukarki-3d-ma-az-kilka-kolorow-czerwony-zielony-oraz",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ciekawostka kolekcjonerska, bez zwiazku z zakupami."
     }
   ],
   "obserwacje_strategiczne": {

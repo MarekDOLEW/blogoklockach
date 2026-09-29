@@ -284,8 +284,8 @@ sklepie” (dotyczy też tekstów i postów).
 
 **faniklockow.pl · 26.09** — w ich liście premier października jest termin, którego nie mamy: przedsprzedaż BrickLink Designer Program seria 9 rusza 6 października o 17:00 (pięć zestawów, 209,99–1499,99 zł, dystrybucja specjalna).
 **Mamy?** — nie: `/kalendarz-promocji-lego/` ma pierwszy tydzień października (Executor, fala premierowa), ale o BLDP nie wspomina.
-**Zrobić:** — dopisać 6.10 do sekcji październikowej jako osobny wiersz, z zastrzeżeniem, że BLDP to przedsprzedaż na Bricklinku, a nie na LEGO.com, i że zestawy nie wejdą do normalnej dystrybucji — czyli nigdy nie stanieją. Przed dopisaniem potwierdzić godzinę i skład serii u drugiego źródła.
-**Kto:** — Code (dane, strona)
+**Zrobić:** — nic (zamknięte 29.09). Drugie źródło potwierdziło termin i skład serii co do złotówki, więc BLDP ma w kalendarzu własną sekcję `#bldp`.
+**Kto:** — Code (zrobione)
 
 ## 2026-09-26 08:00 · RADAR · Do zrobienia
 
