@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-26"
+  "zaktualizowano": "2026-09-29"
  },
  "przecieki": [
   {
@@ -445,6 +445,26 @@
    ],
    "dodano": "2026-09-24",
    "uwagi": "Wymieniony w tym samym przeglądzie plotek StoneWars. Bez numeru, elementów, ceny i terminu. Icons ma już serię modeli zwierząt, więc kolejny pies jest wiarygodny, ale to nie jest dowód.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40909",
+   "numer": "40909",
+   "nazwa": "Restauracje świata: Włochy (nazwa niepotwierdzona)",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Neuheiten im Oktober 2026”, sekcja „Gratisbeigaben im Oktober”",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-im-oktober-2026/",
+     "data": "2026-09-28"
+    }
+   ],
+   "dodano": "2026-09-29",
+   "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.",
    "rozstrzygniecie": null
   }
  ]
