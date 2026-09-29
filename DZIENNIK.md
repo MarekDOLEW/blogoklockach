@@ -348,7 +348,7 @@ się w poniedziałek Routine „Harmonogram z konta".
   (wpis z 25.09 wyżej) — do poprawy po sprawdzeniu w lego.pl.
   → zamknięte 25.09: RRP poprawne — lego.pl podaje 81,99 zł, 221 el., zestaw
   promocyjny (GWP), niedostępny; ~419 zł na Allegro to cena rynku wtórnego.
-- 29.09: zarchiwizować starą sesję Łowcy `session_017FKg5b8kSCwbJd8r7xPrwD`
+- 29.09: zarchiwizować starą sesję Łowcy `session_017FKg5b8kSCwbJd8r7xPrwD` → zamknięte 29.09: zarchiwizowana (Łowca pracuje w session_01SdxKtAvW8UmktsuXrsPYga, commit z 28.09 na main; żaden Routine nie wskazywał starej sesji)
   (nowa działa od 23.09).
   → 25.09: zgoda Marka; zaplanowane `send_later` na 29.09 07:00 PL
   (`trig_01TP1mKUB2TX4BSrwD7CeWN2`) — sprawdza commit Łowcy i brak Routine
