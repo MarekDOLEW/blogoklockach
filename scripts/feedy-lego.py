@@ -209,8 +209,9 @@ def z_planetyklockow():
                     }
         el.clear()
     os.unlink(plik)
-    niedostepne = sprawdz_dostepnosc_pk(oferty)
-    return oferty, {'archiwum_eol': sorted(set(wycofane)), 'niedostepne': niedostepne}
+    niedostepne, nierozstrzygniete = sprawdz_dostepnosc_pk(oferty)
+    return oferty, {'archiwum_eol': sorted(set(wycofane)), 'niedostepne': niedostepne,
+                    'nierozstrzygniete_usuniete': nierozstrzygniete}
 
 
 # Feed Planety Klocków (nokaut.xml) NIE niesie dostępności: poza kategorią
@@ -256,15 +257,26 @@ def sprawdz_dostepnosc_pk(oferty):
         with ThreadPoolExecutor(max_workers=max(1, PK_ROWNOLEGLE // 2)) as pula:
             for nr, wynik in zip(ponownie, pula.map(lambda u: _pk_strona_dostepna(u, '40'), ponownie.values())):
                 wyniki[nr] = wynik
+    # Trzecia, powolna próba i zero benefitu wątpliwości. Karty nierozstrzygnięte
+    # przechodziły dotąd jako dostępne i trzy dni z rzędu wpuściły martwe minimum:
+    # 11378 (24.09), 40872 (28.09), 11503 i 77093 (29.09) — każde ręcznie cofane
+    # przez Łowcę po weryfikacji strony. Wolimy stracić na dzień ofertę PK, której
+    # nie umiemy potwierdzić, niż pokazać cenę produktu, którego nie da się kupić.
+    trzecia = {nr: adresy[nr] for nr, w in wyniki.items() if w is None}
+    if trzecia:
+        with ThreadPoolExecutor(max_workers=2) as pula:
+            for nr, wynik in zip(trzecia, pula.map(lambda u: _pk_strona_dostepna(u, '60'), trzecia.values())):
+                wyniki[nr] = wynik
     niedostepne = sorted(nr for nr, w in wyniki.items() if w is False)
-    nieznane = sum(1 for w in wyniki.values() if w is None)
-    for nr in niedostepne:
+    nierozstrzygniete = sorted(nr for nr, w in wyniki.items() if w is None)
+    for nr in niedostepne + nierozstrzygniete:
         del oferty[nr]
     for o in oferty.values():
         o.pop('strona', None)
     print(f'planetaklockow: sprawdzono {len(wyniki)} kart, niedostępnych (OutOfStock) {len(niedostepne)}, '
-          f'nierozstrzygniętych {nieznane} (druga próba: {len(ponownie)})', file=sys.stderr)
-    return niedostepne
+          f'usuniętych jako nierozstrzygnięte po trzech próbach {len(nierozstrzygniete)} '
+          f'(druga próba: {len(ponownie)}, trzecia: {len(trzecia)})', file=sys.stderr)
+    return niedostepne, nierozstrzygniete
 
 
 def z_allegro():
