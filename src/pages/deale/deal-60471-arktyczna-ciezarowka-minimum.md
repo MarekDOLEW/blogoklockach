@@ -23,4 +23,4 @@ Katalogowo **469,99 zł**; dzisiejsze minimum to niecałe **0,30 zł za klocek**
 
 ## Dla kogo
 
-Dla dziecka od 8 lat, które lubi historie badawcze zamiast pościgów — laboratorium otwiera się do zabawy figurkami, a płozy pozwalają ciągnąć je za ciężarówką. Dobrze łączy się z resztą arktycznej serii, jeśli w domu już jest Ekspres polarny. Pełna karta zestawu i historia cen: [/zestaw/60471/](/zestaw/60471/). Pozostałe okazje dnia — w [dziale Deale](/deale/).
+Dla dziecka od 8 lat, które lubi historie badawcze zamiast pościgów — laboratorium otwiera się do zabawy figurkami, a płozy pozwalają ciągnąć je za ciężarówką. Dobrze łączy się z resztą arktycznej serii, jeśli w domu już jest Ekspres polarny. Pełna karta zestawu i historia cen: [/zestaw/60471/](/zestaw/60471/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).

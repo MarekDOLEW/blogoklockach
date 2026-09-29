@@ -36,4 +36,4 @@ Uczciwie: reszta akcji nie wymaga pośpiechu. **75416 Chopper** kosztuje w akcji
 
 ## Jak skorzystać
 
-Dodaj zestaw do koszyka w x-kom i wpisz kod **rabat1** — cena przeliczy się przed płatnością. Kwoty z tego tekstu to stan z 14 września; jeśli czytasz później, potwierdź cenę w koszyku, bo akcje z kodem wygasają bez zapowiedzi. Pełna, codziennie odświeżana lista okazji — w [dziale Deale](/deale/).
+Dodaj zestaw do koszyka w x-kom i wpisz kod **rabat1** — cena przeliczy się przed płatnością. Kwoty z tego tekstu to stan z 14 września; jeśli czytasz później, potwierdź cenę w koszyku, bo akcje z kodem wygasają bez zapowiedzi. Pełna, codziennie odświeżana lista okazji — w [Promocjach LEGO](/promocje-lego/).

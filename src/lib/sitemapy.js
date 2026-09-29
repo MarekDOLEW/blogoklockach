@@ -150,8 +150,9 @@ export function wpisySekcji(sekcja) {
     case 'prezentowniki':
       return [wpis('/prezentowniki/', lastmodDzialu('prezentowniki')), ...zTekstow('prezentowniki')];
     case 'deale':
-      // /deale/ ma automatyczną listę gorących deali z cen – zmienia się co dzień
-      return [wpis('/deale/', dzisIso), ...zTekstow('deale')];
+      // /promocje-lego/ (od 29.09.2026 zamiast /deale/, które robi 301) ma listę
+      // okazji liczoną z cen – zmienia się co dzień; posty dealowe zostają pod /deale/<slug>/
+      return [wpis('/promocje-lego/', dzisIso), ...zTekstow('deale')];
     case 'serie':
       return serie();
     case 'nowosci':

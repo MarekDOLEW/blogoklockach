@@ -23,12 +23,8 @@ export default defineConfig({
   // redakcyjny to material wewnetrzny, nie tresc dla czytelnika. Adres zdjety;
   // przekierowanie zostaje, zeby ewentualny odsylacz z zewnatrz nie trafial
   // w 404. Plan mieszka teraz w redakcja/plan-redakcyjny.json (poza buildem).
-  redirects: {
-    '/kalendarz-redakcyjny': '/artykuly/',
-    // 80120 i 80121 przeniesione do Seasonal (decyzja Marka, 28.08.2026), przez co
-    // seria "Tradycyjne festiwale chinskie" zostala bez zestawow i jej strona znikla.
-    '/serie/tradycyjne-festiwale-chinskie': '/serie/seasonal/',
-  },
+  // Przekierowania: od 29.09.2026 wyłącznie public/_redirects (prawdziwe 301
+  // z Cloudflare). `redirects` Astro przy stronie statycznej dawało 200 + meta refresh.
   // Znacznik <div class="galeria-setow" data-sety="…"> w markdownie zamienia się
   // przy budowaniu na slajder zdjęć zestawów (scripts/remark-galeria.mjs).
   // remarkNazwySetow stoi na końcu: pracuje na tekście, a dwa poprzednie

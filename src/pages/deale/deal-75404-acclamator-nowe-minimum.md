@@ -22,4 +22,4 @@ Katalogowo **209,99 zł**. Obecne minimum to rabat około 30% i **0,32 zł za kl
 
 ## Dla kogo
 
-Dla dorosłego fana Wojen klonów, który chce mieć flotę Republiki w jednej skali, oraz na pierwszy „dorosły" zestaw Star Wars do gabinetu — budowa jest krótka, efekt ekspozycyjny duży. Pełna karta zestawu i historia cen: [/zestaw/75404/](/zestaw/75404/). Pozostałe okazje dnia — w [dziale Deale](/deale/).
+Dla dorosłego fana Wojen klonów, który chce mieć flotę Republiki w jednej skali, oraz na pierwszy „dorosły" zestaw Star Wars do gabinetu — budowa jest krótka, efekt ekspozycyjny duży. Pełna karta zestawu i historia cen: [/zestaw/75404/](/zestaw/75404/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).

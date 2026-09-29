@@ -58,4 +58,4 @@ Linki do sklepu: <a href="/idz/xkom/43022" rel="sponsored nofollow">kask Hamilto
 
 ## Jak skorzystać
 
-Ceny obowiązują do **30 września** bez kodu, dopóki starczy zapasu; w tabelach cen na kartach zestawów wiersz x-kom z ceną z akcji znika automatycznie po tym dniu. Kwoty z tego tekstu to informacja sklepu z 23 września — nie sprawdzamy stron x-kom automatycznie, więc potwierdź cenę na karcie produktu. Codziennie odświeżana lista okazji ze wszystkich sklepów — w [dziale Deale](/deale/).
+Ceny obowiązują do **30 września** bez kodu, dopóki starczy zapasu; w tabelach cen na kartach zestawów wiersz x-kom z ceną z akcji znika automatycznie po tym dniu. Kwoty z tego tekstu to informacja sklepu z 23 września — nie sprawdzamy stron x-kom automatycznie, więc potwierdź cenę na karcie produktu. Codziennie odświeżana lista okazji ze wszystkich sklepów — w [Promocjach LEGO](/promocje-lego/).

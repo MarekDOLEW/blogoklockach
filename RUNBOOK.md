@@ -1779,3 +1779,14 @@ oddaje pustą stronę, nie 404). **Sitemapa lego.pl nie nadaje się do tego test
 `sitemap-productPage-pl-PL0.xml` ma 2 165 numerów, ale 75377 w nim nie ma, choć
 karta żyje. Stan 16.09.2026: sprawdzone 3 zestawy z lat 2005–2007 (10182, 7235,
 2198) — kart nie mają. Resztę bierzemy partiami przy wtorkowym zaciągu LEGO.pl.
+
+---
+
+## Przekierowania stron: tylko `public/_redirects` *(od 29.09.2026)*
+
+`redirects` w `astro.config.mjs` przy stronie statycznej generuje plik HTML z meta refresh i kodem
+**200**, nie 301 (sprawdzone 27.09 na `/serie/tradycyjne-festiwale-chinskie/`). Prawdziwe 301 daje
+plik `public/_redirects` (składnia Cloudflare: `źródło cel 301`), który Cloudflare Workers static
+assets czyta przy deployu. Źródło nie może mieć własnej strony w `dist/`, inaczej wygra plik.
+Po każdej zmianie: `curl -sI https://tylkoklocki.pl/<źródło>` **bez `-L`** → `301` + `location`.
+Pierwsze wpisy: `/deale/` → `/promocje-lego/` (29.09.2026) i dwa przeniesione z astro.config.

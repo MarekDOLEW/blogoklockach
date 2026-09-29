@@ -1,4 +1,6 @@
 ---
+// KOPIA ZAPASOWA (29.09.2026): listing /deale/ sprzed zastąpienia go stroną
+// /promocje-lego/ (301 z /deale/ w public/_redirects). noindex, poza menu i sitemapą.
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import { zajawkiArtykulow, sortujPostyDealowe } from '../../lib/artykuly.js';
@@ -59,7 +61,7 @@ const polki = POLKI.map((p) => ({
 // Aktualności (kategoria od 27.09.2026) mają własny dział /aktualnosci/ i filtr
 // w /artykuly/ – tu zostają same posty dealowe, nawet gdy plik leży w tym katalogu.
 const posty = zajawkiArtykulow(
-  sortujPostyDealowe(Object.values(import.meta.glob('./*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
+  sortujPostyDealowe(Object.values(import.meta.glob('../deale/*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
 );
 
 const jsonld = {
@@ -72,7 +74,8 @@ const jsonld = {
 };
 ---
 <Base
-  title="Deale LEGO dziś – rabaty 30% i najniższe ceny w historii"
+  noindex={true}
+  title="KOPIA – poprzednie Deale (do 29.09.2026)"
   description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, trzy półki cenowe, oznaczone nowe minima cenowe."
   jsonld={jsonld}
 >

@@ -22,4 +22,4 @@ Katalogowo **2799,99 zł**. W naszej skali dobra cena to **poniżej 2350 zł**, 
 
 ## Dla kogo
 
-To zakup dla dorosłego fana Wojen klonów i kolekcjonera UCS — 109 cm długości po zbudowaniu wymaga poważnej półki. Jeśli Venator ma być prezentem pod choinkę, grudniowe wycofanie czyni z wcześniejszego zakupu zwykły rozsądek, nie panikę. Pełna karta zestawu i historia cen: [/zestaw/75367/](/zestaw/75367/). Pozostałe okazje dnia — w [dziale Deale](/deale/).
+To zakup dla dorosłego fana Wojen klonów i kolekcjonera UCS — 109 cm długości po zbudowaniu wymaga poważnej półki. Jeśli Venator ma być prezentem pod choinkę, grudniowe wycofanie czyni z wcześniejszego zakupu zwykły rozsądek, nie panikę. Pełna karta zestawu i historia cen: [/zestaw/75367/](/zestaw/75367/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).

@@ -37,7 +37,7 @@ const adres = (sciezka) => STRONA + sciezka;
 const DZIALY = [
   ['/artykuly/', 'Artykuły', 'recenzje, rankingi, porównania, poradniki zakupowe i kalendarze promocji'],
   ['/prezentowniki/', 'Prezentowniki', 'zestawy dobrane pod wiek, budżet i okazję'],
-  ['/deale/', 'Deale', 'zestawy, które dziś są wyraźnie poniżej ceny katalogowej'],
+  ['/promocje-lego/', 'Promocje LEGO', 'zestawy, które dziś są wyraźnie poniżej ceny katalogowej'],
   ['/nowosci/', 'Nowości', 'premiery miesiąc po miesiącu'],
   ['/wycofania/', 'Wycofania', 'zestawy z potwierdzonym albo prognozowanym końcem sprzedaży'],
   ['/ekskluzywne/', 'Ekskluzywne', 'zestawy z etykietą „Ekskluzywne” na LEGO.com — część trafia też do sieci'],

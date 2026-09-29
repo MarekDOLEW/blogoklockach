@@ -48,7 +48,7 @@ const artykulJsonld = {
 
 // Dział w okruszkach: domyślnie Artykuły; teksty spoza /artykuly/ (np. posty
 // dealowe w /deale/) podają własny dział w frontmatterze (dzial: "Deale").
-const DZIALY = { Artykuły: '/artykuly/', Aktualności: '/aktualnosci/', Deale: '/deale/', Prezentowniki: '/prezentowniki/' };
+const DZIALY = { Artykuły: '/artykuly/', Aktualności: '/aktualnosci/', Deale: '/promocje-lego/', Prezentowniki: '/prezentowniki/' };
 const dzial = frontmatter.dzial ?? (frontmatter.kategoria === 'Aktualności' ? 'Aktualności' : 'Artykuły');
 const okruszkiJsonld = {
   '@context': 'https://schema.org',

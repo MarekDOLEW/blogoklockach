@@ -23,4 +23,4 @@ Katalogowo **419,99 zł**; dzisiejsza cena to około **0,19 zł za klocek** — 
 
 ## Dla kogo
 
-Dla dorosłego budującego, który chce dużego botanicznego projektu na parapet albo komodę — budowa jest odprężająca, a gotowy model nie wygląda „klockowo" z dwóch metrów. Dobrze łączy się z bukietami i drzewkiem bonsai, jeśli botaniczna półka już istnieje. Pełna karta zestawu i historia cen: [/zestaw/10359/](/zestaw/10359/). Pozostałe okazje dnia — w [dziale Deale](/deale/).
+Dla dorosłego budującego, który chce dużego botanicznego projektu na parapet albo komodę — budowa jest odprężająca, a gotowy model nie wygląda „klockowo" z dwóch metrów. Dobrze łączy się z bukietami i drzewkiem bonsai, jeśli botaniczna półka już istnieje. Pełna karta zestawu i historia cen: [/zestaw/10359/](/zestaw/10359/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).

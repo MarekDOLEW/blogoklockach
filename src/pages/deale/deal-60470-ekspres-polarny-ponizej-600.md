@@ -22,4 +22,4 @@ Katalogowo **869,99 zł**; dzisiejszy rekord to rabat rzędu jednej trzeciej i *
 
 ## Dla kogo
 
-Dla rodziny z dzieckiem od 7 lat wzwyż, która chce wspólnego projektu na jesienne wieczory — i dla każdego, kto kompletuje kolejową część miasta LEGO. Pełna karta zestawu i historia cen: [/zestaw/60470/](/zestaw/60470/). Pozostałe okazje dnia — w [dziale Deale](/deale/).
+Dla rodziny z dzieckiem od 7 lat wzwyż, która chce wspólnego projektu na jesienne wieczory — i dla każdego, kto kompletuje kolejową część miasta LEGO. Pełna karta zestawu i historia cen: [/zestaw/60470/](/zestaw/60470/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).

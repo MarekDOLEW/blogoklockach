@@ -89,4 +89,4 @@ Pozycje z akcji na Dzień Chłopaka, które x-kom przeniósł do nowej listy, te
 
 ## Jak skorzystać
 
-Ceny obowiązują **do 18 października** albo do wyczerpania zapasów. Jeśli przy cenie na karcie produktu jest dopisek „Z kodem”, wpisz w koszyku **rabat12**; w przeciwnym razie cena z akcji jest już w koszyku. Kwoty w tym tekście sprawdziliśmy na stronach x-kom 28 września. Nie odświeżamy ich automatycznie, więc przed zakupem potwierdź cenę na karcie produktu. Codziennie odświeżaną listę okazji ze wszystkich sklepów znajdziesz w [dziale Deale](/deale/).
+Ceny obowiązują **do 18 października** albo do wyczerpania zapasów. Jeśli przy cenie na karcie produktu jest dopisek „Z kodem”, wpisz w koszyku **rabat12**; w przeciwnym razie cena z akcji jest już w koszyku. Kwoty w tym tekście sprawdziliśmy na stronach x-kom 28 września. Nie odświeżamy ich automatycznie, więc przed zakupem potwierdź cenę na karcie produktu. Codziennie odświeżaną listę okazji ze wszystkich sklepów znajdziesz w [Promocjach LEGO](/promocje-lego/).

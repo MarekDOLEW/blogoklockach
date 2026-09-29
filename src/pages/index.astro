@@ -5,12 +5,13 @@ import sety from '../data/sety.json';
 import wycofaniaDane from '../data/wycofania.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import cenyBaza from '../data/ceny_baza.json';
-import { urlZdjecia } from '../lib/media.js';
+import { urlZdjecia, opisSetu } from '../lib/media.js';
+import { wpisKatalogu } from '../lib/katalog.js';
 import { zajawkaArtykulu, zajawkaZMeta, sortujPostyDealowe, najnowszePierwsze } from '../lib/artykuly.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import KartaAktualnosci from '../components/KartaAktualnosci.astro';
 import { aktualnosci, jestAktualnoscia } from '../lib/aktualnosci.js';
-import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
 
@@ -195,7 +196,50 @@ const artykuly = Object.entries({
 // ── Aktualności pod slajderem (Marek 27.09.2026): akcje sklepów i kampanie
 // z datą – ważniejsze niż zwykłe teksty, więc dwie karty w rzędzie zamiast
 // trzech. Slajder do 6 pozycji, reszta pod „Zobacz wszystkie" (/aktualnosci/).
+// ── 3 zestawy „Dziś w dobrej cenie" (Marek 27.09): losowo, nie same największe rabaty
+// i nie same tanie – po jednym z przedziałów >500 zł, 151–500 zł, do 150 zł (los z ziarnem
+// daty: stały w ciągu dnia, inny każdego dnia). Brak w przedziale → los z całej puli.
+const PRZEDZIALY_TRZECH = [(c) => c > 500, (c) => c > 150 && c <= 500, (c) => c <= 150];
+const trzyDobre = [];
+for (const pasuje of PRZEDZIALY_TRZECH) {
+  const pula3 = dobreCeny.filter((s) => pasuje(najlepszaCena(s)) && !trzyDobre.includes(s));
+  const z = pula3.length ? pula3 : dobreCeny.filter((s) => !trzyDobre.includes(s));
+  if (z.length) trzyDobre.push(z[Math.floor(los() * z.length)]);
+}
+
+// ── WERSJA 2 (Marek 27.09): „Dziś w dobrej cenie" jako listing jak na Promocjach –
+// po 3 zestawy z każdego przedziału cenowego (>1500, 801–1500, 201–800, do 200 zł),
+// losowo (ziarno daty) i przemieszane. Pula: rabat ≥15%; gdy w przedziale za mało,
+// dobieramy z rabatem >0 (powyżej 1500 zł rabatów ≥15% bywa ledwie kilka).
+const PRZEDZIALY_V2 = [(c) => c > 1500, (c) => c > 800 && c <= 1500, (c) => c > 200 && c <= 800, (c) => c <= 200];
+const wLosowej = (lista) => lista.map((x) => ({ x, k: los() })).sort((a, b) => a.k - b.k).map((o) => o.x);
+const listingDobre = wLosowej(PRZEDZIALY_V2.flatMap((pasuje) => {
+  const wPrzedziale = wpisy.filter((s) => s.cena_katalogowa && pasuje(najlepszaCena(s)));
+  const mocne = wLosowej(wPrzedziale.filter((s) => rabat(s) >= 15));
+  const slabsze = wPrzedziale.filter((s) => rabat(s) > 0 && rabat(s) < 15).sort((a, b) => rabat(b) - rabat(a));
+  return [...mocne, ...slabsze].slice(0, 3);
+}));
+const krotkiOpis = (nr) => {
+  const tx = (opisSetu(nr, { sety })?.tekst ?? '').replace(/\s+/g, ' ').trim();
+  if (!tx) return null;
+  const zdania = tx.match(/[^.!?]+[.!?]+/g) ?? [tx];
+  let w = zdania[0].trim();
+  if (w.length < 70 && zdania[1]) w += ' ' + zdania[1].trim();
+  return w.length > 180 ? w.slice(0, 170).replace(/\s+\S*$/, '') + '…' : w;
+};
+const ekskluzywny = (s) => Boolean(s.ekskluzyw || wpisKatalogu(s.nr)?.ekskluzyw);
+
 const MAKS_AKTUALNOSCI = 6;
+
+// ── Wejścia do działów (podgląd 27.09.2026): Nowości / Wycofania / Artykuły z licznikami ──
+// ta sama reguła co /nowosci/: premiery od dwóch miesięcy wstecz + zapowiedzi
+const teraz = new Date();
+const odKiedyNowosci = `${new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1).getFullYear()}-${String(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1).getMonth() + 1).padStart(2, '0')}`;
+const liczbaNowosci = Object.values(sety).filter((s) => String(s?.premiera ?? '') >= odKiedyNowosci).length;
+const liczbaArtykulow = Object.values({
+  ...import.meta.glob('./artykuly/*.md', { eager: true }),
+  ...import.meta.glob('./*.md', { eager: true }),
+}).filter((m) => m.frontmatter?.kategoria && m.frontmatter.kategoria !== 'Prezentownik').length;
 const aktualnosciGlowna = aktualnosci().slice(0, MAKS_AKTUALNOSCI);
 
 // ── Trzy najnowsze posty dealowe (od 27.09.2026 pod „Dziś w dobrej cenie",
@@ -251,6 +295,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     },
   }}
 >
+  <div class="podglad-widok">
   <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO – rabaty liczone od cen katalogowych</h1>
 
   {dealeDnia.length > 0 && (
@@ -326,6 +371,69 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     </section>
   )}
 
+
+
+
+
+
+  {listingDobre.length > 0 && (
+    <section class="sekcja sekcja--trzy-promocje" aria-label="Dziś w dobrej cenie">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Dziś w dobrej cenie</h2>
+      </div>
+      <div class="tabela-setow-wrap">
+        <table class="tabela-setow tabela-promocje">
+          <thead>
+            <tr>
+              <th class="kol-foto"><span class="tylko-czytnik">Zdjęcie</span></th>
+              <th class="kol-opis">Zestaw</th>
+              <th class="kol-cena">Cena</th>
+              <th class="kol-cta"><span class="tylko-czytnik">Sklep</span></th>
+            </tr>
+          </thead>
+          <tbody>
+            {listingDobre.map((s) => {
+              const oferta = najtanszaOferta(s);
+              const aff = linkAfiliacyjny(oferta.sklep, s.nr);
+              return (
+                <tr>
+                  <td class="kol-foto">
+                    {s.foto
+                      ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
+                      : <span class="set-mini-placeholder" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
+                  </td>
+                  <td class="kol-opis">
+                    <span class="set-nazwa"><a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">LEGO {s.nr} {s.nazwa}</a></span>
+                    {krotkiOpis(s.nr) && <span class="set-opis">{krotkiOpis(s.nr)}</span>}
+                    <span class="set-meta">{[s.seria, s.elementy ? `${fmtElementy(s.elementy)} el.` : null].filter(Boolean).join(' · ')}</span>
+                    <span class="promo-znaczki">
+                      {noweMinimumDzis(s) && <span class="badge-najnizsza">nowe minimum</span>}
+                      {ekskluzywny(s) && <span class="badge-ex">ekskluzyw</span>}
+                    </span>
+                  </td>
+                  <td class="kol-cena">
+                    <span class="promo-cena-gora"><span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span> <span class="badge-rabat-mini">−{rabat(s)}%</span></span>
+                    <span class="set-cena">{fmtCena(oferta.cena)}</span>
+                    <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>
+                  </td>
+                  <td class="kol-cta">
+                    {aff
+                      ? <a class="cta" href={aff} target="_blank" rel={relSklepu(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                      : <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p class="sekcja-stopka">
+        <a class="przycisk przycisk--duzy" href="/promocje-lego/">Zobacz wszystkie promocje LEGO →</a>
+      </p>
+    </section>
+  )}
+
   {aktualnosciGlowna.length > 0 && (
     <section class="sekcja sekcja--aktualnosci" aria-label="Aktualności">
       <div class="sekcja-head">
@@ -345,45 +453,24 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         )}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
+        <a class="przycisk przycisk--duzy" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
       </p>
     </section>
   )}
 
 
-  <section class="sekcja" aria-label="Dzisiejsze dobre ceny">
-    <div class="sekcja-head">
-      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-      <h2>Dziś w dobrej cenie</h2>
-    </div>
-    <p>Najlepsze dzisiejsze rabaty od cen katalogowych. Skład serii losujemy codziennie.</p>
-    <div class="chipy" role="group" aria-label="Filtruj po serii">
-      <button type="button" class="chip chip--aktywny" data-chip="">Wszystkie</button>
-      {serieWSiatce.map((s) => (
-        <button type="button" class="chip" data-chip={s}>{s}</button>
-      ))}
-    </div>
-    <div class="siatka siatka--4x4">
-      {dobreCeny.map((s) => (
-        <a class="karta set-karta set-karta--mini" href={`/zestaw/${s.nr}/`} data-seria={s.seria} target="_blank" rel="noopener">
-          {s.foto
-            ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="300" height="225" />
-            : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
-          <span class="nr">LEGO {s.nr}</span>
-          <h3>{s.nazwa}</h3>
-          <div class="cena-linia">
-            <span class="cena">{fmtCena(najlepszaCena(s))}</span>
-            <span class="badge-rabat-mini">−{rabat(s)}%</span>
-          </div>
-        </a>
-      ))}
-    </div>
-    <nav class="paginacja" aria-label="Kolejne strony dobrych cen" hidden>
-      <button type="button" class="pg-przycisk" data-pg="wstecz">‹ Poprzednie</button>
-      <span class="pg-licznik" aria-live="polite"></span>
-      <button type="button" class="pg-przycisk" data-pg="dalej">Następne ›</button>
-    </nav>
-  </section>
+  {artykuly.length > 0 && (
+    <section class="sekcja" aria-label="Najnowsze artykuły">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Ostatnio na blogu</h2>
+      </div>
+      <div class="zajawki">
+        {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
+      </div>
+      <p class="sekcja-stopka"><a class="przycisk przycisk--duzy" href="/artykuly/">Zobacz wszystkie wpisy →</a></p>
+    </section>
+  )}
 
   {postyDealowe.length > 0 && (
     <section class="sekcja sekcja--deale-posty" aria-label="Najnowsze deale">
@@ -396,55 +483,36 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         {postyDealowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk" href="/deale/">Zobacz wszystkie deale →</a>
+        <a class="przycisk przycisk--duzy" href="/promocje-lego/#okazje-pod-lupa">Zobacz wszystkie deale →</a>
       </p>
     </section>
   )}
 
-  {prezentowniki.length > 0 && (
-    <section class="sekcja" aria-label="Prezentowniki">
-      <div class="sekcja-head">
-        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Prezentowniki dla dzieci i dorosłych</h2>
-      </div>
-      <p>Przewodniki prezentowe według wieku, serii i budżetu – z realnymi cenami i progiem, poniżej którego warto brać. <a href="/prezentowniki/">Wszystkie prezentowniki →</a></p>
-      <div class="zajawki">
-        {prezentowniki.map((z) => <ZajawkaArtykulu zajawka={z} />)}
-      </div>
-    </section>
-  )}
-
-  {artykuly.length > 0 && (
-    <section class="sekcja" aria-label="Najnowsze artykuły">
-      <div class="sekcja-head">
-        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Ostatnio na blogu</h2>
-      </div>
-      <div class="zajawki">
-        {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
-      </div>
-    </section>
-  )}
-
-  <section class="sekcja" aria-label="Najciekawsze wycofania">
-    <div class="sekcja-head">
-      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-      <h2>Top 10 wycofań wartych upolowania</h2>
-    </div>
-    <p>Zestawy, które niedługo znikną z produkcji – kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
-    <TabelaSetow wiersze={topWycofania} />
-  </section>
-
-  <section class="sekcja persony">
-    <div class="karta persona">
-      <h3>👨‍👩‍👧 Kupujesz dla dziecka?</h3>
-      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> – nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
-    </div>
-    <div class="karta persona afol">
-      <h3>🧱 Budujesz kolekcję?</h3>
-      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów – wiemy, co i kiedy warto brać.</p>
+  <section class="sekcja" aria-label="Działy serwisu">
+    <div class="wejscia">
+      <a class="karta wejscie" href="/nowosci/">
+        <span class="wejscie__ile">{liczbaNowosci}</span>
+        <span class="wejscie__etykieta">Nowości</span>
+        <span class="wejscie__opis">Premiery ostatnich miesięcy i zapowiedzi – z ceną katalogową, zanim zestawy trafią na półki sklepów.</span>
+        <span class="wejscie__cta">Zobacz nowości →</span>
+      </a>
+      <a class="karta wejscie" href="/wycofania/">
+        <span class="wejscie__ile">{liczbaWycofan}</span>
+        <span class="wejscie__etykieta">Wycofania</span>
+        <span class="wejscie__opis">Zestawy, które LEGO niedługo zdejmuje z produkcji. Po wycofaniu drożeją – teraz bywają najtańsze w historii.</span>
+        <span class="wejscie__cta">Zobacz wycofania →</span>
+      </a>
+      <a class="karta wejscie" href="/artykuly/">
+        <span class="wejscie__ile">{liczbaArtykulow}</span>
+        <span class="wejscie__etykieta">Artykuły</span>
+        <span class="wejscie__opis">Recenzje, rankingi i poradniki: co warto kupić, za ile i dla kogo – bez sponsorowanych ocen.</span>
+        <span class="wejscie__cta">Czytaj artykuły →</span>
+      </a>
     </div>
   </section>
+
+
+  </div>
 </Base>
 
 <script>
@@ -516,47 +584,4 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     }
   }
 
-  // Filtr chipów + stronicowanie – czysto klienckie, wszystkie karty są w HTML (SEO).
-  // Widok „Wszystkie" stronicuje po 12 (3 rzędy × 4); pojedyncza seria ma ≤12 kart,
-  // więc mieści się bez stronicowania.
-  const NA_STRONE = 12;
-  const chipy = [...document.querySelectorAll('.chip')];
-  const karty = [...document.querySelectorAll('.set-karta--mini')];
-  const $pag = document.querySelector('.paginacja');
-  const $licznik = document.querySelector('.pg-licznik');
-  let seria = '';
-  let strona = 0;
-
-  function rysuj() {
-    const widoczne = seria ? karty.filter((k) => k.dataset.seria === seria) : karty;
-    const stron = Math.max(1, Math.ceil(widoczne.length / NA_STRONE));
-    strona = Math.min(strona, stron - 1);
-    const od = seria ? 0 : strona * NA_STRONE;
-    const doIdx = seria ? widoczne.length : od + NA_STRONE;
-    karty.forEach((k) => { k.hidden = true; });
-    widoczne.slice(od, doIdx).forEach((k) => { k.hidden = false; });
-
-    const pokazPag = !seria && stron > 1;
-    $pag.hidden = !pokazPag;
-    if (pokazPag) {
-      $licznik.textContent = `${strona + 1} / ${stron}`;
-      $pag.querySelector('[data-pg="wstecz"]').disabled = strona === 0;
-      $pag.querySelector('[data-pg="dalej"]').disabled = strona === stron - 1;
-    }
-  }
-
-  chipy.forEach((ch) => ch.addEventListener('click', () => {
-    chipy.forEach((c) => c.classList.toggle('chip--aktywny', c === ch));
-    seria = ch.dataset.chip;
-    strona = 0;
-    rysuj();
-  }));
-  $pag.addEventListener('click', (e) => {
-    const b = e.target.closest('.pg-przycisk');
-    if (!b || b.disabled) return;
-    strona += b.dataset.pg === 'dalej' ? 1 : -1;
-    rysuj();
-    document.querySelector('.chipy').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-  });
-  rysuj();
 </script>

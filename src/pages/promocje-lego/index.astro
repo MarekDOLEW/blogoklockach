@@ -1,5 +1,5 @@
 ---
-// PODGLĄD „Promocje LEGO" (wersja 3, 29.09.2026 po audycie UX) – następca /deale/.
+// „Promocje LEGO" (wdrożone 29.09.2026 w miejsce /deale/; 301 z /deale/ w public/_redirects).
 // Kolejność: slajder 12 najlepszych okazji (po 3 z każdej półki cenowej) → tekst
 // o zasadach → jeden listing do 150 pozycji (30 na stronę, sortowanie po cenie,
 // filtr serii – wszystko w przeglądarce, HTML zawiera całą listę) → Okazje pod
@@ -109,12 +109,10 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
 
 ---
 <Base
-  noindex={true}
-  title="PODGLĄD – Promocje LEGO | tylkoklocki.pl"
+  title="Promocje LEGO dziś – realne rabaty od cen katalogowych"
   description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, filtr serii, sortowanie po cenie, oznaczone nowe minima cenowe."
 >
   <div class="podglad-widok">
-  <p class="podglad-pasek">PODGLĄD – nowa strona „Promocje LEGO” w miejsce Deali (wersja robocza, niewidoczna dla Google). Druga strona podglądu: <a href="/podglad/glowna/">nowa strona główna</a></p>
   <h1 class="glowna-h1">Promocje LEGO – tylko realne rabaty, liczone od cen katalogowych</h1>
 
   {slajdy.length > 0 && (
