@@ -92,6 +92,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-29 14:20 · CODE · Recenzja Piotra: 31163 Psotny kot (Creator 3 w 1)
+
+**Zrobione:** `artykuly/lego-31163-psotny-kot-recenzja.md` z docx Piotra (Recenzje_004) — tekst bez zmian,
+dopisane: frontmatter + 3 FAQ, tabela cen w miejsce `[TABELA CENOWA]`, link do serii Creator, 3 zdjęcia
+(kot 31163-3, pies 31163-11, gołąb 31163-12) bez podpisów. Fakty z tekstu zgodne z danymi (RRP 104,99 zł
+potwierdzone na lego.pl, 407 el., 8+, premiera 01.2025). Galeria 12 zdjęć z Planety Klocków w `galerie.json`
+(80 → 81), od razu wgrana do R2 (`r2-obrazy.mjs --galerie`: 12/12). Uwaga: rynek dziś ~68 zł (Media Expert,
+Lidl) — już poniżej progu Piotra 75 zł; tabela huba pokazuje to sama.
+**Stan:** na main.
+
 ## 2026-09-29 12:40 · CODE · WDROŻONE: v2 strony głównej + „Promocje LEGO” zamiast /deale/ (301)
 
 **Decyzja Marka 29.09:** „wdrażamy v2 i promocje zamiast deali z 301, ale zostaw wersję obecną”.
