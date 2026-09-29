@@ -70,6 +70,10 @@ def parsuj(path):
     d = {'plik': os.path.basename(path), 'nr': None, 'akapity': [], 'metryka': collections.OrderedDict(), 'faq': []}
     sekcja = None; met = []; faq = []
     for styl, t in akapity_docx(path):
+        # paczka P07 partia 02 (29.09.2026): pierwszy akapit opisu to metka szablonu
+        # „Opis P07 • LEGO Bluey • 2025” – nie jest treścią, nie może trafić na stronę
+        if re.match(r'^Opis P07\b', t):
+            continue
         # paczka P07c (22.09.2026, karta 75192): zero stylów i zero kolorów —
         # nagłówki sekcji to gołe akapity „Metryka zestawu" / „FAQ", metryka jest
         # tabelą (Pole | Dane), a opis stoi od razu pod tytułem bez nagłówka „Opis"
