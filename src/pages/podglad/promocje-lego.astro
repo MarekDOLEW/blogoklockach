@@ -184,6 +184,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
           <option value="polecane">Polecane</option>
           <option value="cena-rosnaco">Cena: od najniższej</option>
           <option value="cena-malejaco">Cena: od najwyższej</option>
+          <option value="rabat">Największy rabat %</option>
         </select>
       </label>
     </div>
@@ -202,7 +203,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
             const aff = linkAfiliacyjny(oferta.sklep, s.nr);
             const r = rabatOferty(s, oferta);
             return (
-              <tr data-poz={i} data-cena={oferta.cena} data-seria={s.seria} hidden={i >= NA_STRONE}>
+              <tr data-poz={i} data-cena={oferta.cena} data-rabat={r} data-seria={s.seria} hidden={i >= NA_STRONE}>
                 <td class="kol-foto">
                   {s.foto
                     ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
@@ -349,6 +350,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       lista.sort((a, b) =>
         klucz === 'cena-rosnaco' ? a.dataset.cena - b.dataset.cena
         : klucz === 'cena-malejaco' ? b.dataset.cena - a.dataset.cena
+        : klucz === 'rabat' ? b.dataset.rabat - a.dataset.rabat || a.dataset.poz - b.dataset.poz
         : a.dataset.poz - b.dataset.poz);
       return lista;
     };
