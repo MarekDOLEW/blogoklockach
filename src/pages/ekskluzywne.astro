@@ -57,8 +57,8 @@ const faqSchema = {
 };
 ---
 <Base
-  title="Ekskluzywne zestawy LEGO – co znaczy etykieta i gdzie je kupić"
-  description={`${wSprzedazy.length} zestawów z etykietą „Ekskluzywne” na LEGO.com: lista z ceną, serią i liczbą elementów. Sprawdzamy, które sprzedaje tylko LEGO, a które trafiły też do sieci handlowych.`}
+  title="Ekskluzywne zestawy LEGO – gdzie je kupić"
+  description={`${wSprzedazy.length} ${odmien(wSprzedazy.length, 'zestaw', 'zestawy', 'zestawów')} z etykietą „Ekskluzywne” na LEGO.com – z ceną i serią. Sprawdzamy, które sprzedaje tylko LEGO, a które kupisz też w innych sklepach.`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   <article>

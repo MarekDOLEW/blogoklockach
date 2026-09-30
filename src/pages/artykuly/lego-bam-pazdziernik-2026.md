@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Siedem nowych figurek LEGO Build a Minifigure na październik 2026"
 opis: "XVII-wieczny szermierz, Wróżka Zębowa, Pirat Surfer i cztery inne postacie wchodzą na stanowiska BAM 1 października. Przeglądamy, które pojedyncze elementy są w tej serii najcenniejsze."
+seo_tytul: "LEGO Build a Minifigure: siedem figurek na październik"
+seo_opis: "Szermierz z XVII wieku, Wróżka Zębowa, Pirat Surfer i cztery inne postacie na stanowiskach BAM od 1 października. Które elementy są w tej serii najcenniejsze?"
 data: "2026-09-14"
 kategoria: "Premiery"
 zestawy: ["71052", "71051", "71053"]

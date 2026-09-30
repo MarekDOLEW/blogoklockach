@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Najdroższe zestawy LEGO dostępne obecnie – które naprawdę kosztują najwięcej?"
 opis: "Gwiazda Śmierci za 4199,99 zł otwiera katalog, ale kolejność sklepowa wygląda zupełnie inaczej. Venator tanieje o 800 zł, Hogwart o 540, a jeden zestaw z tej listy kosztuje dziś o 76% więcej niż w cenniku."
+seo_tytul: "Najdroższe zestawy LEGO dostępne dziś"
+seo_opis: "Gwiazda Śmierci za 4199,99 zł otwiera katalog, ale w sklepach kolejność jest inna. Venator tanieje o 800 zł, a jeden zestaw kosztuje o 76% więcej niż w cenniku."
 data: "2026-09-20"
 zaktualizowano: "2026-09-20"
 kategoria: "Rankingi"

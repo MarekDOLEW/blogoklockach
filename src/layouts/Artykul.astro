@@ -87,7 +87,7 @@ const zaktualizowano =
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={frontmatter.title} description={frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny}>
+<Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny}>
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{frontmatter.kategoria}</span>

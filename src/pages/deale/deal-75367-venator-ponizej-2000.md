@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Venator pierwszy raz poniżej 2000 zł w sklepie — ostatnia prosta przed grudniowym wycofaniem"
 opis: "Gwiezdny Niszczyciel typu Venator właśnie zaliczył rekord naszych notowań w zwykłym sklepie, nie na marketplace. Do potwierdzonego końca sprzedaży zostały trzy miesiące — a zestawy tej klasy po wycofaniu drożeją najmocniej."
+seo_tytul: "LEGO 75367 Venator poniżej 2000 zł w sklepie"
+seo_opis: "Venator z rekordem naszych notowań w zwykłym sklepie, nie na marketplace. Do końca sprzedaży zostały trzy miesiące, a takie zestawy po wycofaniu drożeją."
 data: "2026-09-18"
 kategoria: "Deal"
 dzial: "Deale"

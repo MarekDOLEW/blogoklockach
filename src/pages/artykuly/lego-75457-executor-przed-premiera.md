@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 75457 Executor: co trzeba wiedzieć przed 1 października"
 opis: "Największy Star Wars w historii LEGO wchodzi do sprzedaży 1 października – najpierw dla Insiders, dla reszty 4 października. Tłumaczymy, czym te trzy dni różnicy naprawdę są i dlaczego przy tym zestawie nasza zwykła rada o szukaniu taniej nie działa."
+seo_opis: "Największy Star Wars w historii LEGO: 1 października dla Insiders, 4 października dla wszystkich. Co znaczą te trzy dni i dlaczego tu nie radzimy czekać."
 data: "2026-09-02"
 zaktualizowano: "2026-09-12"
 kategoria: "Premiery"

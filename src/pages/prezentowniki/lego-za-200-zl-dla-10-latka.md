@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "Jakie LEGO za około 200 zł kupić 10-latkowi na prezent?"
 opis: "Sześć zestawów w budżecie 150–200 zł, dobranych nie według liczby elementów, tylko według tego, jak dziecko bawi się LEGO. Plus jeden zestaw na sytuację, w której nie wiemy o dziecku prawie nic."
+seo_opis: "Sześć zestawów LEGO za 150–200 zł dla 10-latka, dobranych według tego, jak dziecko się bawi. Plus jeden na sytuację, gdy nic o nim nie wiemy."
 data: "2026-08-25"
 kategoria: "Prezentownik"
 okladka: "31161"

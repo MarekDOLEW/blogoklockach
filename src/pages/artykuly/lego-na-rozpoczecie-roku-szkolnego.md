@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO na rozpoczęcie roku szkolnego 2026 – 10 zestawów dla 4–12 lat"
 opis: "Wielki prezentownik na 1 września bez limitu cenowego: od kreatywnego pudełka za 146 zł po wieżę Hogwartu. Premiery Pokémon SMART Play, pociągi i zestawy dla całej rodziny."
+seo_tytul: "LEGO na rozpoczęcie roku szkolnego 2026 – 10 zestawów"
+seo_opis: "Prezentownik na 1 września bez limitu ceny: od kreatywnego pudełka za 146 zł po wieżę Hogwartu. Pokémon SMART Play, pociągi i zestawy dla całej rodziny."
 data: "2026-08-18"
 kategoria: "Prezentownik"
 karta_kolejnosc: 1

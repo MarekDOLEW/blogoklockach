@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 31168 Średniowieczny zamek rycerzy konnych – zamek to dopiero początek zabawy"
 opis: "Creator 3 w 1: duży zamek, turniej rycerski i średniowieczne miasteczko z jednego pudełka. 1371 elementów, 6 minifigurek. Recenzja + progi cenowe: 380 zł to dobry próg zakupu."
+seo_tytul: "LEGO 31168 Średniowieczny zamek rycerzy konnych – recenzja"
+seo_opis: "Creator 3 w 1: zamek, turniej rycerski albo średniowieczne miasteczko z jednego pudełka. 1371 elementów, 6 minifigurek i próg zakupu: 380 zł."
 data: "2026-08-20"
 kategoria: "Recenzje"
 zestawy: ["31168"]

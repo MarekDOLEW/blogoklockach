@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 76467 Dom Luny Lovegood – wreszcie coś innego niż kolejny kawałek Hogwartu"
 opis: "Pierwszy oficjalny Dom Lovegoodów: 764 elementy, 5 minifigurek z debiutującym Ksenofiliusem i projektor Opowieści o Trzech Braciach. Recenzja + progi cenowe: przy 299 zł to bardzo dobra oferta."
+seo_tytul: "LEGO 76467 Dom Luny Lovegood – recenzja"
+seo_opis: "Pierwszy oficjalny Dom Lovegoodów: 764 elementy, 5 minifigurek z debiutującym Ksenofiliusem. Recenzja i progi cenowe: przy 299 zł to bardzo dobra oferta."
 data: "2026-08-20"
 kategoria: "Recenzje"
 zestawy: ["76467"]

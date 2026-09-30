@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Dzień Chłopaka w x-kom: kask Leclerca, Dodge Charger i piłkarskie momenty najtaniej w naszych notowaniach"
 opis: "Akcja x-kom na Dzień Chłopaka trwa do 30 września i obejmuje dziewięć zestawów LEGO. Cztery z nich schodzą poniżej wszystkiego, co dotąd notowaliśmy, jeden jest droższy niż rynek. Rozkładamy listę na czynniki pierwsze."
+seo_tytul: "Dzień Chłopaka w x-kom: LEGO w najniższych cenach"
+seo_opis: "Akcja x-kom na Dzień Chłopaka do 30 września: dziewięć zestawów LEGO. Cztery poniżej wszystkiego, co notowaliśmy, jeden droższy niż rynek."
 data: "2026-09-23"
 kategoria: "Aktualności"
 dzial: "Aktualności"

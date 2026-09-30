@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO na start roku szkolnego dla chłopca – 10 zestawów do 500 zł"
 opis: "Pierwszy dzwonek 1 września nie musi boleć. 10 sprawdzonych zestawów LEGO dla chłopców 4–12 lat w realnych promocjach – od 26 zł do 265 zł, rabaty liczone od cen katalogowych."
+seo_tytul: "LEGO na start roku szkolnego dla chłopca – do 500 zł"
+seo_opis: "10 zestawów LEGO dla chłopców 4–12 lat na 1 września, w promocjach od 26 do 265 zł. Rabaty liczone od cen katalogowych."
 data: "2026-08-18"
 kategoria: "Prezentownik"
 karta_kolejnosc: 2

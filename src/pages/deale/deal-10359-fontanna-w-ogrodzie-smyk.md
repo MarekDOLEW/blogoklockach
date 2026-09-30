@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Fontanna w ogrodzie 40% pod ceną w Smyku — botaniczne Icons w cenie, na którą zwykle czeka się do listopada"
 opis: "10359 Fontanna w ogrodzie kosztuje w Smyku o 169 zł mniej niż w cenniku — z wysyłką tego samego dnia. Rabaty tej głębokości na dekoracyjne Icons zdarzają się zwykle dopiero przy listopadowych szczytach promocji."
+seo_tytul: "LEGO 10359 Fontanna w ogrodzie −40% w Smyku"
+seo_opis: "10359 Fontanna w ogrodzie kosztuje w Smyku 169 zł mniej niż w cenniku. Rabat tej głębokości na dekoracyjne Icons zwykle zdarza się dopiero w listopadzie."
 data: "2026-09-29"
 kategoria: "Deal"
 dzial: "Deale"

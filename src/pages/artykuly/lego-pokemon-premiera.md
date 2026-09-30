@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Pokémon zadebiutowało – 18 zestawów naraz. Co warto kupić, a co odpuścić?"
 opis: "Największa premiera licencyjna roku: od polybagów za 16,49 zł po smoka Rayquaza. Analizujemy ceny za klocek i wskazujemy najlepsze wybory dla dzieci i kolekcjonerów."
+seo_tytul: "LEGO Pokémon – 18 zestawów. Co kupić, a co odpuścić?"
+seo_opis: "Największa premiera licencyjna roku: od polybagów za 16,49 zł po Rayquazę. Ceny za element i najlepsze wybory dla dzieci oraz kolekcjonerów."
 data: "2026-08-11"
 kategoria: "Premiery"
 ---

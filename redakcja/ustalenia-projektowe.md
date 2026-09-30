@@ -113,3 +113,18 @@ jest pod `/aktualnosci/`. Zasady:
 - datowane ceny sklepowe są tu dopuszczalne, jeśli tekst podaje datę sprawdzenia
   („Ceny sprawdzone: 26.09.2026”) — aktualność opisuje moment, nie trwałą drabinę.
   Próg zakupu i odniesienie do RRP obowiązują jak w innych tekstach.
+
+## Tytuł i opis dla Google (30.09.2026)
+
+Google pokazuje ok. 60 znaków tytułu i ok. 160 znaków opisu. Tytuł i lead
+artykułu mogą być dłuższe — na stronie zostają bez zmian — ale wtedy we
+frontmatterze dopisujemy wersje wyszukiwarkowe:
+
+- `seo_tytul:` do 60 znaków (sufiks „· tylkoklocki.pl” layout dokłada sam,
+  tylko gdy się zmieści);
+- `seo_opis:` do 160 znaków, pełne zdania, bez „…”.
+
+W prezentownikach na layoucie `PrezentownikSerii` te same pola nazywają się
+`seoTytul` i `seoOpis`. Opis bez wersji skróconej layout przytnie sam na
+ostatnim końcu zdania i zgłosi to w logu builda (`[meta] opis przycięty`).
+Huby zestawów dobierają tytuł automatycznie z wariantów mieszczących się w 60 znakach.

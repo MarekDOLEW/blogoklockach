@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Wycofania LEGO na koniec 2026: co kupić teraz, a gdzie jest już za późno"
 opis: "LEGO potwierdziło wycofanie ponad stu zestawów z końcem roku. Sprawdziliśmy 206 z nich w naszej bazie: co czwarty jest już droższy od ceny katalogowej. Pokazujemy, po czym poznać, który to który."
+seo_tytul: "Wycofania LEGO na koniec 2026: co kupić teraz"
+seo_opis: "LEGO wycofuje ponad sto zestawów z końcem roku. Sprawdziliśmy 206 z nich: co czwarty jest już droższy od ceny katalogowej. Jak poznać, który to który."
 data: "2026-09-17"
 zaktualizowano: "2026-09-17"
 kategoria: "Kalendarze"

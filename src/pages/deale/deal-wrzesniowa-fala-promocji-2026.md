@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Wrześniowa fala promocji wystartowała – McLaren P1 i Lotniskowiec T.A.R.C.Z.Y. na progach opłacalności"
 opis: "Pierwszego września ponad sto zestawów staniało jednego dnia. Przegląd najmocniejszych okazji z trzech półek cenowych – od flagowców Technic i Marvel po drobnicę pod pierwszy szkolny prezent."
+seo_tytul: "Wrześniowa fala promocji LEGO 2026"
+seo_opis: "1 września ponad sto zestawów staniało jednego dnia. Najmocniejsze okazje z trzech półek cenowych – od flagowców Technic i Marvel po drobne prezenty."
 data: "2026-09-01"
 kategoria: "Deal"
 dzial: "Deale"

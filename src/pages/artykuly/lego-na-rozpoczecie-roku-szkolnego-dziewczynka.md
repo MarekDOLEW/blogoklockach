@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO na start roku szkolnego dla dziewczynki – 10 zestawów do 500 zł"
 opis: "Mała nagroda na pierwszy dzwonek: 10 zestawów LEGO dla dziewczynek 4–12 lat, wszystkie do 500 zł i w realnych promocjach – od 24 zł po Grand Hotel Heartlake za 458 zł."
+seo_tytul: "LEGO na start roku szkolnego dla dziewczynki – do 500 zł"
+seo_opis: "Mała nagroda na pierwszy dzwonek: 10 zestawów LEGO dla dziewczynek 4–12 lat, wszystkie do 500 zł – od 24 zł po Grand Hotel Heartlake za 458 zł."
 data: "2026-08-18"
 kategoria: "Prezentownik"
 karta_kolejnosc: 3

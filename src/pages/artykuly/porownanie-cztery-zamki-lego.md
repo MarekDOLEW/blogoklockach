@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "Cztery pomysły na zamek LEGO – od Creator 3 w 1 po NINJAGO"
 opis: "31120, 31168, 10305 i 71814 obok siebie. Nie który zamek jest najlepszy, tylko jak LEGO rozkłada priorytety między architekturą, budowaniem, zabawą i ekspozycją – i który z tych czterech pomysłów pasuje do Ciebie."
+seo_opis: "31120, 31168, 10305 i 71814 obok siebie: jak LEGO dzieli priorytety między architekturę, budowanie, zabawę i ekspozycję – i który zamek pasuje do Ciebie."
 data: "2026-08-27"
 kategoria: "Porównania"
 okladka: "10305"

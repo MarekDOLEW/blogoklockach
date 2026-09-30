@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 75367 Gwiezdny Niszczyciel typu Venator w najniższej cenie naszych notowań"
 opis: "5374 elementy najpotężniejszego okrętu Republiki pierwszy raz tak daleko od ceny katalogowej. Sprawdzamy, czy to moment na największy zakup Star Wars tego roku."
+seo_tytul: "LEGO 75367 Venator w najniższej cenie naszych notowań"
 data: "2026-08-29"
 kategoria: "Deal"
 dzial: "Deale"

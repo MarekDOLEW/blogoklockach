@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "Historia licencji LEGO, część 2: od Star Wars do Minecrafta"
 opis: "Harry Potter, Ferrari, Marvel, Minecraft i LEGO Dimensions. W niespełna dwie dekady powstało kilka zupełnie różnych modeli licencji — a mimo to największą premierą w historii firmy pozostało jej własne NINJAGO."
+seo_opis: "Harry Potter, Ferrari, Marvel, Minecraft i LEGO Dimensions – różne modele licencji. A największą premierą w historii firmy zostało jej własne NINJAGO."
 data: "2026-09-21"
 kategoria: "Historyczne"
 okladka: "71043"

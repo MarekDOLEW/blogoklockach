@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Creator 3 w 1 31163 Psotny kot – najlepszy, gdy budujesz więcej niż raz"
 opis: "Recenzja LEGO Creator 31163 Psotny kot: 407 elementów, kot, pies i gołąb z jednego pudełka. Wyrazisty kot, ograniczone pozy. Próg zakupu ok. 75 zł zamiast 104,99 zł."
+seo_tytul: "LEGO 31163 Psotny kot – recenzja zestawu Creator 3 w 1"
+seo_opis: "Recenzja LEGO Creator 31163 Psotny kot: 407 elementów, kot, pies i gołąb z jednego pudełka. Wyrazisty kot, mniej pozycji. Próg zakupu ok. 75 zł."
 data: "2026-09-29"
 kategoria: "Recenzje"
 zestawy: ["31163"]

@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Arktyczna ciężarówka z laboratorium 150 zł pod ceną — rekord w zwykłym sklepie, nie na marketplace"
 opis: "60471 Ciężarówka z laboratorium arktycznej odkrywczyni ustanowiła dziś minimum naszych notowań w elektromarkecie. Według listy wycofań zestaw kończy karierę w grudniu — to ta sama arktyczna fala City, co Ekspres polarny."
+seo_tytul: "LEGO 60471 Arktyczna ciężarówka 150 zł poniżej ceny"
+seo_opis: "60471 Ciężarówka z laboratorium arktycznej odkrywczyni ma minimum naszych notowań w zwykłym sklepie. Według listy wycofań zestaw znika w grudniu."
 data: "2026-09-28"
 kategoria: "Deal"
 dzial: "Deale"

@@ -4,6 +4,23 @@ import '@fontsource/archivo/800.css';
 import '../styles/global.css';
 import SzukajGlobalne from '../components/SzukajGlobalne.astro';
 const { title, description, jsonld, ogImage = '/og.png', noindex = false } = Astro.props;
+// Sufiks domeny tylko wtedy, gdy tytuł z nim mieści się w 60 znakach, które
+// Google pokazuje w wynikach – inaczej obcinał właśnie treść (audyt 30.09.2026).
+const SUFIKS = ' · tylkoklocki.pl';
+const tytulPelny = !title ? 'tylkoklocki.pl' : title.length + SUFIKS.length <= 60 ? title + SUFIKS : title;
+// Opis dłuższy niż 160 znaków Google i tak utnie w pół słowa. Siatka
+// bezpieczeństwa dla tekstów bez ręcznego `seo_opis`: tniemy na ostatnim końcu
+// zdania w zakresie 100–160 znaków, a gdy go nie ma – na granicy słowa z „…”.
+const MAX_OPIS = 160;
+const przytnijOpis = (t) => {
+  const s = String(t ?? '').replace(/\s+/g, ' ').trim();
+  if (s.length <= MAX_OPIS) return s;
+  const zdania = [...s.slice(0, MAX_OPIS + 1).matchAll(/[.!?](?=\s)/g)].map((m) => m.index + 1).filter((i) => i >= 100);
+  if (zdania.length) return s.slice(0, zdania.at(-1));
+  return s.slice(0, MAX_OPIS - 1).replace(/[\s,;:–—-]+\S*$/, '').replace(/[\s,;:–—-]+$/, '') + '…';
+};
+const opisMeta = description ? przytnijOpis(description) : description;
+if (description && description.length > MAX_OPIS && import.meta.env.PROD) console.warn(`[meta] opis przycięty (${description.length} zn.): ${Astro.url.pathname}`);
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
 
@@ -39,8 +56,8 @@ const stanPozycji = (href) => {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="verify-admitad" content="2fc69e6e81" />
-    <title>{title} · tylkoklocki.pl</title>
-    <meta name="description" content={description} />
+    <title>{tytulPelny}</title>
+    <meta name="description" content={opisMeta} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" type="application/rss+xml" title="tylkoklocki.pl" href="/rss.xml" />
     {/* max-image-preview:large – bez tego Google Discover i wyniki z obrazem

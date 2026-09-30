@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Super Mario zaczyna od nowa. Osiem zestawów z minifigurkami na 2027 rok"
 opis: "Znamy polskie ceny katalogowe całej pierwszej fali: od 41,99 zł do 429,99 zł. Sprawdzamy, co daje przejście z elektronicznej figurki na klasyczne minifigurki i co zrobić z zestawami, które są w sprzedaży dziś."
+seo_tytul: "LEGO Super Mario 2027: osiem zestawów z minifigurkami"
+seo_opis: "Polskie ceny całej pierwszej fali: od 41,99 do 429,99 zł. Co zmienia przejście na klasyczne minifigurki i co z zestawami, które są w sprzedaży dziś."
 data: "2026-09-06"
 zaktualizowano: "2026-09-06"
 kategoria: "Premiery"

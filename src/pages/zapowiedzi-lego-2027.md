@@ -2,6 +2,7 @@
 layout: ../layouts/Artykul.astro
 title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
 opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC, Star Wars na 50-lecie i potwierdzony restart Super Mario. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
+seo_opis: "Zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, Harry Potter, Marvel, DC, Star Wars i Super Mario. Przy każdej – co z obecnej oferty kupić, zanim zniknie."
 data: "2026-08-20"
 zaktualizowano: "2026-08-27"
 kategoria: "Premiery"

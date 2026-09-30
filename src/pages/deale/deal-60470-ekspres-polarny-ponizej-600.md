@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Ekspres polarny pierwszy raz poniżej 600 zł — pociąg City na ostatniej prostej przed zimą"
 opis: "60470 Ekspres polarny arktycznych odkrywców zszedł w naszych notowaniach poniżej 600 zł. Według naszej listy wycofań zestaw kończy karierę w tym roku, a pociągi LEGO po zniknięciu z półek tanieć nie mają w zwyczaju."
+seo_tytul: "LEGO 60470 Ekspres polarny poniżej 600 zł"
+seo_opis: "60470 Ekspres polarny zszedł w naszych notowaniach poniżej 600 zł. Według listy wycofań zestaw znika w tym roku, a pociągi City po wycofaniu raczej nie tanieją."
 data: "2026-09-23"
 kategoria: "Deal"
 dzial: "Deale"

@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO City – nowa fala z czerwca 2026. Który zestaw warto wybrać?"
 opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Przewodnik po całej fali – dla kogo który zestaw, progi zakupu i gdzie rynek już mocno zszedł poniżej RRP."
+seo_tytul: "LEGO City, fala z czerwca 2026 – który zestaw wybrać?"
+seo_opis: "Dziesięć zestawów LEGO City: tramwaj, dwa pociągi, plac budowy, myjnia, pizzeria i park rozrywki. Dla kogo który, progi zakupu i gdzie rynek już zszedł."
 data: "2026-08-25"
 kategoria: "Premiery"
 tagi: ["Dla rodziców"]

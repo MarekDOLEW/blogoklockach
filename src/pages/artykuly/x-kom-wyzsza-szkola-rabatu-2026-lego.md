@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Wyższa Szkoła Rabatu w x-kom: 128 zestawów LEGO do 18 października – co jest naprawdę okazją"
 opis: "Akcja x-kom trwa do 18 października i obejmuje 128 pozycji LEGO, część z kodem rabat12. Porównaliśmy każdą z naszymi notowaniami: kilkanaście rekordów, sporo cen rynkowych i kilka pozycji, które gdzie indziej kupisz taniej."
+seo_tytul: "x-kom Wyższa Szkoła Rabatu: 128 zestawów LEGO"
+seo_opis: "Akcja x-kom do 18 października: 128 pozycji LEGO, część z kodem rabat12. Porównaliśmy każdą z naszymi notowaniami – rekordy, ceny rynkowe i gorsze oferty."
 data: "2026-09-28"
 kategoria: "Aktualności"
 okladka: "75417"

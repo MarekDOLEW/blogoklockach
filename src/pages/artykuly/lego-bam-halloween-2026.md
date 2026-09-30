@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Halloween w LEGO Store. Trzy nowe figurki we wrześniowej ofercie Build a Minifigure"
 opis: "Potwór Frankensteina, dziewczyna w kostiumie wilka i zombie w eleganckim stroju – trzy halloweenowe postacie na stanowiskach BAM. Tłumaczymy, które elementy są naprawdę rzadkie."
+seo_tytul: "Halloween w LEGO Store: trzy nowe figurki BAM"
+seo_opis: "Potwór Frankensteina, dziewczyna w kostiumie wilka i elegancki zombie – halloweenowe postacie Build a Minifigure. Które elementy są naprawdę rzadkie?"
 data: "2026-09-14"
 kategoria: "Premiery"
 zestawy: ["40872", "40883", "40825", "40822"]

@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO City 60508 Napad na policyjny pociąg – świetna zabawa, trudna cena"
 opis: "Recenzja LEGO City 60508: jeżdżący pociąg Powered Up, helikopter z chwytakiem i sześć minifigurek. Za 869,99 zł za drogo, sensownie od ok. 650 zł."
+seo_tytul: "LEGO City 60508 Napad na policyjny pociąg – recenzja"
 data: "2026-09-27"
 kategoria: "Recenzje"
 zestawy: ["60508"]

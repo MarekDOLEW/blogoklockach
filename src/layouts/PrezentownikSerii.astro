@@ -10,7 +10,7 @@ import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 // z katalogu i cen – nie da się jej sensownie utrzymać w markdownie).
 // Odpowiednik Artykul.astro: te same dane strukturalne + disclosure, plus
 // ItemList z rekomendowanymi zestawami, żeby Google widziało listę produktów.
-const { title, opis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [], autor } = Astro.props;
+const { title, opis, seoTytul, seoOpis, data, zaktualizowano, kategoria = 'Prezentownik', faq = [], zestawy = [], autor } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 const artykulJsonld = {
@@ -69,7 +69,7 @@ const jsonld = [artykulJsonld, okruszkiJsonld, ...(listaJsonld ? [listaJsonld] :
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={title} description={opis} jsonld={jsonld} ogImage={ogWlasny}>
+<Base title={seoTytul ?? title} description={seoOpis ?? opis} jsonld={jsonld} ogImage={ogWlasny}>
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{kategoria}</span>

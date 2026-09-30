@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Historia licencji LEGO, część 3: od Super Mario i Atari do Nike i Formuły 1"
 opis: "Po 2018 roku nie chodzi już o liczbę licencji, tylko o zmianę ich funkcji. Konsola PlayStation jako zestaw, gra powstała z licencji, partnerstwo z Nike w obie strony — i pytanie, czy LEGO jest od tego zależne."
+seo_tytul: "Historia licencji LEGO, cz. 3: od Mario do Nike i F1"
+seo_opis: "Po 2018 roku licencje LEGO zmieniają funkcję: PlayStation jako zestaw, gra z licencji, partnerstwo z Nike. I pytanie, czy LEGO jest od tego zależne."
 data: "2026-09-21"
 kategoria: "Historyczne"
 okladka: "72306"

@@ -200,12 +200,17 @@ const podobne = podobneZSerii(seria, nr);
 // tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base.
 // Długie nazwy (np. bolidy F1 z pełną nazwą zespołu) skracamy do ~40 znaków na
 // granicy słowa; audyt 15.09.2026 znalazł tytuły po 122 znaki na 2673 stronach.
-const nazwaKrotka = nazwa.length <= 40 ? nazwa : `${nazwa.slice(0, 40).replace(/\s+\S*$/, '')}…`;
 // Nazwa przed numerem (decyzja Marka 15.09.2026): ludzie szukają „lego gustav
 // klimt", „sagrada familia lego" — numer zostaje w nawiasie dla kolekcjonerów.
-const tytul = najlepsza
-  ? `LEGO ${nazwaKrotka} (${nr}) – cena i promocje`
-  : `LEGO ${nazwaKrotka} (${nr})${eol ? ' – wycofany (EOL)' : ''}`;
+// Od 30.09.2026 bierzemy pierwszy wariant, który mieści się w 60 znakach (audyt:
+// 1 162 hubów miało tytuł po 61–80 znaków): pełny dopisek, krótszy, sam zestaw,
+// a na końcu nazwa ucięta na granicy słowa. Sufiks domeny Base dokłada tylko,
+// gdy też się zmieści.
+const MAX_TYTUL = 60;
+const rdzen = `LEGO ${nazwa} (${nr})`;
+const dopiski = najlepsza ? [' – cena i promocje', ' – ceny', ''] : eol ? [' – wycofany (EOL)', ' (EOL)', ''] : [''];
+const tytul = dopiski.map((d) => rdzen + d).find((t) => t.length <= MAX_TYTUL)
+  ?? `LEGO ${nazwa.slice(0, MAX_TYTUL - 9 - nr.length).replace(/\s+\S*$/, '').replace(/[\s,–-]+$/, '')}… (${nr})`;
 // Opis meta zaczyna się od ceny i liczby sklepów — GSC 15.09.2026: huby na
 // pozycjach 7–12 miały 0% CTR obok sklepów, które pokazują cenę w wyniku.
 const liczbaSklepow = new Set(ofertyBezCeneo.map((o) => o.sklep)).size;

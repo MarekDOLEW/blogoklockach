@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Najdroższe zestawy LEGO na rynku wtórnym – za które kolekcjonerzy płacą najwięcej?"
 opis: "Cloud City 10123 z medianą około 8100 USD, piraci z lat 80., pierwsze modulary i UCS z początku Star Wars. Siedemnaście fabrycznie zamkniętych zestawów według realnych transakcji z BrickLink i eBay, nie cen ofertowych."
+seo_tytul: "Najdroższe zestawy LEGO na rynku wtórnym"
+seo_opis: "Cloud City 10123 z medianą ok. 8100 USD, piraci z lat 80., pierwsze modulary. Siedemnaście zamkniętych zestawów według realnych transakcji z BrickLink i eBay."
 data: "2026-09-22"
 zaktualizowano: "2026-09-22"
 kategoria: "Rankingi"

@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Acclamator po wycofaniu z lego.com właśnie ustanowił minimum — 18+ ze Star Wars za mniej niż trzy czwarte ceny"
 opis: "75404 Krążownik szturmowy typu Acclamator ma potwierdzone wycofanie, a mimo to jego cena wciąż spada — dziś nowe minimum naszych notowań. Krótkie okno, w którym wycofany zestaw kupuje się taniej, nie drożej."
+seo_tytul: "LEGO 75404 Acclamator – nowe minimum po wycofaniu"
+seo_opis: "75404 Krążownik szturmowy typu Acclamator ma potwierdzone wycofanie, a cena dalej spada – dziś nowe minimum naszych notowań. Rzadkie okno przed wzrostem cen."
 data: "2026-09-23"
 kategoria: "Deal"
 dzial: "Deale"

@@ -7,7 +7,7 @@ import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../../lib/media.js';
-import { najlepszaOferta, linkAfiliacyjny, fmtCena, cenaKatalogowaSetu } from '../../lib/oferty.js';
+import { najlepszaOferta, linkAfiliacyjny, fmtCena, cenaKatalogowaSetu, odmien } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
 import { statusListingu } from '../../lib/status.js';
 
@@ -66,7 +66,7 @@ const liczbaEol = wiersze.filter((w) => w.eolLego).length;
 ---
 <Base
   title={`LEGO ${seria} – ceny i katalog serii`}
-  description={`Zestawy LEGO z serii ${seria}: aktualne ceny i promocje${hist.length ? ` oraz kompletny katalog wszystkich ${hist.length} zestawów serii z lat ${rokMin}–${new Date().getFullYear()}, ze statusem wycofania (EOL)` : ''}.`}
+  description={`Ceny zestawów LEGO ${seria} w polskich sklepach i rabat od ceny katalogowej.${hist.length ? ` W katalogu ${hist.length} ${odmien(hist.length, 'zestaw', 'zestawy', 'zestawów')} ${rokMin === new Date().getFullYear() ? `z ${rokMin} roku` : `z lat ${rokMin}–${new Date().getFullYear()}`}, ze statusem wycofania.` : ''}`}
   jsonld={{
     '@context': 'https://schema.org',
     '@type': 'ItemList',

@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "Najlepsze samochody LEGO Icons w historii"
 opis: "Jedenaście dużych samochodów LEGO od 2008 do 2026 roku, ustawionych według jakości projektu, a nie rocznika. Dlaczego Porsche 911 wygrywa z Mustangiem, a Ferrari F40 z Jaguarem E-Type."
+seo_opis: "Jedenaście dużych samochodów LEGO z lat 2008–2026 według jakości projektu. Dlaczego Porsche 911 wygrywa z Mustangiem, a Ferrari F40 z Jaguarem E-Type."
 data: "2026-08-27"
 kategoria: "Rankingi"
 okladka: "10295"

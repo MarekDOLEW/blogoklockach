@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Największe zestawy LEGO Star Wars w historii – Top 10 gigantów z odległej galaktyki"
 opis: "Gwiazda Śmierci 75419 z 9023 elementami na czele, dwa Sokoły Millennium, AT-AT, Razor Crest i zapowiedziany Executor. Siedemnaście zestawów Star Wars przekroczyło 3000 elementów – ranking i historia rekordu."
+seo_tytul: "Największe zestawy LEGO Star Wars – top 10"
+seo_opis: "Gwiazda Śmierci 75419 z 9023 elementami na czele, dwa Sokoły Millennium, AT-AT i Executor. Siedemnaście zestawów powyżej 3000 elementów – ranking i historia."
 data: "2026-09-22"
 zaktualizowano: "2026-09-22"
 kategoria: "Rankingi"

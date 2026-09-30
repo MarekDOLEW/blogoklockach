@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Największe zestawy LEGO Technic w historii – od Bugatti do rekordowego Liebherra"
 opis: "Dziewięć zestawów Technic z ponad 3500 elementów, rekord 4108 części z 2019 roku i Koenigsegg, któremu zabrakło czterech. Ranking według liczby elementów z wnioskiem, że od siedmiu lat seria przestała rosnąć."
+seo_tytul: "Największe zestawy LEGO Technic w historii"
+seo_opis: "Dziewięć zestawów Technic powyżej 3500 elementów i rekord 4108 części z 2019 roku. Ranking, z którego wynika, że od siedmiu lat seria przestała rosnąć."
 data: "2026-09-22"
 zaktualizowano: "2026-09-22"
 kategoria: "Rankingi"

@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Słowniczek LEGO: 69 haseł, którymi mówią fani, sklepy i sam producent"
 opis: "AFOL, SNOT, EOL, D2C, zł za element, najniższa cena z 30 dni. Wszystkie pojęcia z jednego miejsca, z działającym indeksem A–Z, podziałem na tematy i — co ważniejsze — bez haseł, które zdążyły się zdezaktualizować."
+seo_tytul: "Słowniczek LEGO: 69 haseł fanów, sklepów i producenta"
+seo_opis: "AFOL, SNOT, EOL, D2C, zł za element, najniższa cena z 30 dni. Pojęcia LEGO w jednym miejscu, z indeksem A–Z i podziałem na tematy."
 data: "2026-09-18"
 zaktualizowano: "2026-09-18"
 kategoria: "Poradniki"

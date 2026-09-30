@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Jak rosły zestawy LEGO? Od niewielkich modeli lat 70. do dzisiejszych gigantów"
 opis: "Rekordy rosły skokowo: 1000 elementów w 1978, 5922 w 2008, 11 695 w 2021. Ale mediana zestawu stała w miejscu przez trzydzieści lat — i dopiero jej ruch mówi, co naprawdę się zmieniło."
+seo_tytul: "Jak rosły zestawy LEGO – od lat 70. do dziś"
+seo_opis: "Rekordy rosły skokowo: 1000 elementów w 1978, 5922 w 2008, 11 695 w 2021. Mediana zestawu stała w miejscu przez trzydzieści lat – i to jej ruch jest ciekawy."
 data: "2026-09-21"
 kategoria: "Historyczne"
 okladka: "10307"

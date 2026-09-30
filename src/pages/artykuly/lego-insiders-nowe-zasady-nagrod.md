@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO zmieniło zasady odbioru nagród Insiders. Sprawdzamy, co to znaczy przed Black Friday"
 opis: "Koniec z kodami, do trzech nagród na jedno zamówienie, punkty schodzą dopiero przy zakupie. Co się realnie zmieniło w Centrum Nagród LEGO Insiders i czy warto teraz kupować na LEGO.com."
+seo_tytul: "Nowe zasady nagród LEGO Insiders przed Black Friday"
+seo_opis: "Koniec z kodami, do trzech nagród na zamówienie, punkty schodzą przy zakupie. Co się zmieniło w Centrum Nagród LEGO Insiders i czy teraz kupować na LEGO.com."
 data: "2026-08-27"
 zaktualizowano: "2026-08-27"
 kategoria: "Poradniki"

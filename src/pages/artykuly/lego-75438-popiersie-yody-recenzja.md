@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Star Wars 75438 Popiersie Yody – ciekawsze w budowaniu niż na zdjęciach"
 opis: "Recenzja LEGO 75438 Popiersie Yody: 399 elementów, świetne szaty i ruchome uszy, ale kanciaste oczy. Próg zakupu ok. 125 zł zamiast 169,99 zł."
+seo_tytul: "LEGO Star Wars 75438 Popiersie Yody – recenzja"
 data: "2026-09-27"
 kategoria: "Recenzje"
 zestawy: ["75438"]
