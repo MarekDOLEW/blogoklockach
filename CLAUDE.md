@@ -141,8 +141,8 @@ samym skryptem; prompt zmienia się w panelu (albo delete+create dla stałej ses
 nigdy w tym pliku.
 Łowca korzysta z `scripts/feedy-lego.py` (wyciąg ofert LEGO z feedów), Ceneo
 odświeża `scripts/ceneo-feed.mjs`.
-Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:30 dogrywa je
-do R2 Routine „Zdjęcia → R2" (`node scripts/r2-obrazy.mjs`). Po dopisaniu galerii
+Zdjęcia z Planety Klocków worker sam nie pobierze — codziennie o 04:45 i 09:45 (po Łowcy)
+dogrywa je do R2 Routine „Zdjęcia → R2" (`node scripts/r2-obrazy.mjs`). Po dopisaniu galerii
 do `galerie.json` w sesji uruchom ten skrypt od razu, żeby nowy tekst nie czekał
 z pustymi miniaturami do rana.
 

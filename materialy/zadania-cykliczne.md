@@ -338,6 +338,7 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 - Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`: `trig_01LU2xZxWqyCmNYv7rPyik3x` (stary `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` skasowany), plus kontrola wielkości sesji runnerów.
 - Alerty cen: nowy `trig_018D4PGvCaYkcDKDfNM3fjLZ` (09:30 PL, krok 2 sprawdza datę cen w `oferty_feed.json`), stary z panelu `trig_01BLKenDsuWfNpJ4iFdCN9Vc` skasowany.
 - Zdjęcia → R2: drugi przebieg 09:45 PL `trig_01XAJy9vca6HUK6YY3XarLWM` (po Łowcy); pierwszy z panelu przesunięty na 04:45.
+- Przypomnienie o zrzutach: nowe wspólne dla Empiku i x-komu (decyzja Marka: x-kom co tydzień jak Empik) — `trig_01XaicucSMa3S5xGKhAFBkEk`, pon 08:15 PL; mail każe napisać w Coworku „zrzuty tygodniowe" (nowy skill `klocki-zrzuty-tygodniowe`). Stare „Przypomnienie: zrzut Empiku" z panelu (`trig_01BWC5ydHBNVE5Q8usmf62PN`) do skasowania przez Marka.
 - Skasowane: „Empik co tydzien" (skill w chmurze, Empik blokuje — nic nie dostarczał) i Backfill (wyłączony od 30.08). Przypomnienie o Empiku zostaje — to mail do Marka.
 
 **23.09.2026 (przedpołudnie)**
