@@ -108,6 +108,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Czeka na Marka (panel, zadania założone przez http_api — agent ich nie zmieni):** Alerty
 (cron + krok 2), Zdjęcia → R2 (cron 04:45 i 09:45), Przypomnienie (cron), wyłączenie
 „Empik co tydzien”, skasowanie Backfill.
+→ 30.09 wieczorem: Marek poprawił w panelu prompt Alertów i czas Zdjęć (04:45). Code założył
+dwa zadania z czasem polskim: „Zdjęcia → R2, drugi przebieg” 09:45 (`trig_01XAJy9vca6HUK6YY3XarLWM`,
+próba 15:18: 11 563 w R2, brak 0, błędów 0) i nowe Alerty 09:30 (`trig_018D4PGvCaYkcDKDfNM3fjLZ`) —
+stare Alerty z panelu Marek wyłącza. Przypomnienie o Empiku zostaje (tylko mail do Marka);
+do wyłączenia „Empik co tydzien” (skill w chmurze), Backfill wstrzymany — do skasowania.
 
 ## 2026-09-30 18:00 · CODE · Teksty szablonowe, SEO meta, odczyt GSC od Coworka
 
