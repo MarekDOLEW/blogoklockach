@@ -66,7 +66,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
           </div>
         )}
         <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek z rynku</span> : s.premiera > biezacy && <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · potwierdzone przez LEGO</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
-        <h3>{s.nazwa}</h3>
+        <h2>{s.nazwa}</h2>
         <span class="badge-seria">{s.seria}</span>
         <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
       </a>

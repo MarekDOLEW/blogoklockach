@@ -190,6 +190,8 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .set-karta:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
 .set-karta .nr { font-size: 0.78rem; color: var(--granat-60); font-weight: 700; }
 .set-karta h3 { margin: 0; }
+/* /nowosci/: nazwa zestawu to h2 (brak nagłówka pośredniego pod h1), wygląda jak h3 */
+.set-karta h2 { margin: 0; font-size: 1.15rem; }
 .set-karta .cena-linia { display: flex; align-items: baseline; gap: 10px; margin-top: auto; padding-top: 10px; }
 .set-karta .cena-linia .cena { font-family: var(--font-display); font-size: 1.2rem; color: var(--czerwien); }
 .set-karta .cena-linia .za-klocek { font-size: 0.8rem; color: var(--granat-60); }

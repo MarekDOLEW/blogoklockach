@@ -10,3 +10,6 @@
 # 28.08.2026: 80120 i 80121 przeniesione do Seasonal, seria bez zestawów
 /serie/tradycyjne-festiwale-chinskie   /serie/seasonal/    301
 /serie/tradycyjne-festiwale-chinskie/  /serie/seasonal/    301
+# 30.09.2026: /kolekcjoner/ był pustą zapowiedzią działu (audyt 30.09) – treść o EOL żyje w /wycofania/
+/kolekcjoner                           /wycofania/         301
+/kolekcjoner/                          /wycofania/         301

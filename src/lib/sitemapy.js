@@ -20,7 +20,7 @@
 //   serie – max z lastmod hubów tej serii i tekstów o niej;
 //   miesiące nowości – max z lastmod zestawów z premierą w tym miesiącu;
 //   strony przeliczane codziennie z cen (/, /deale/, /nowosci/, /serie/,
-//     /wycofania/, /kolekcjoner/) – data builda, bo realnie zmieniają się
+//     /wycofania/) – data builda, bo realnie zmieniają się
 //     co dzień; /o-nas/ – bez daty (treść stała).
 // Data z przyszłości (błąd w frontmatterze) jest przycinana do dzisiejszej.
 //
