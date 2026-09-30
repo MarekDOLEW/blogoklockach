@@ -110,22 +110,28 @@ zdublowana praca na plikach po 2 MB.
 
 ## Runnery cykliczne należą do Claude Code
 
-Scout, Wycofania, Łowca, Radar, Backfill i (od 22.09.2026) „Dane wt 05:30"
+Scout, Wycofania, Łowca, Radar i (od 22.09.2026) „Dane wt 05:30"
 działają jako trwałe sesje Claude Code Remote (`persist_session: true`) z repo
 w źródłach sesji — tylko one mogą pushować. Od 22.09.2026 Kontroler
-(`trig_01EDEhtPiW4AVSAiGg9Co1mx`) też jest trwałą sesją z repo. Zdjęcia → R2,
-Przypomnienie o Empiku i Alerty cen startują świeżą sesją przy każdym
-odpaleniu (Social skasowany 15.09.2026); **świeża sesja z Routine — z API
+(`trig_0167qmnWn3Qjjz8HTwZU1uEP`) też jest trwałą sesją z repo. Zdjęcia → R2
+(04:45 i drugi przebieg 09:45), Przypomnienie o Empiku i Alerty cen startują
+świeżą sesją przy każdym odpaleniu (Social skasowany 15.09.2026, Backfill
+i „Empik co tydzien” skasowane 30.09.2026); **świeża sesja z Routine — z API
 i z panelu — nie ma repo w źródłach (klonuje je tylko do odczytu) ani konektora
 `Claude_Code_Remote`** (dowody 21.09 Kontroler i 22.09 Dane wt), więc taki
 Routine może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Konektor
 `Claude_Code_Remote` ma wyłącznie sesja Code, więc ona przepisuje harmonogram
 własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
-(`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`), a Kontroler o 09:00 czyta gotowe pliki;
+(`trig_01LU2xZxWqyCmNYv7rPyik3x`, od 30.09.2026 przypięty do sesji Code
+`session_011GrNNd6UVQFF1NamoPaQMS`), a Kontroler o 09:00 czyta gotowe pliki;
 prompty wszystkich Routines: `materialy/routine-prompty.md`. Rozróżnienie ma też znaczenie
 przy edycji: promptu trwałej sesji nie zmienia się przez `update_trigger`
 (patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie"), a Routine
 założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.
+Od 30.09.2026 crony runnerów LEGO są zapisane w czasie polskim
+(`CRON_TZ=Europe/Warsaw …`), więc zmiana czasu nie przesuwa ich względem siebie;
+panel zapisuje godzinę bez strefy (UTC), dlatego zadania, których pora ma
+znaczenie, zakłada sesja Code (Alerty, Zdjęcia 09:45).
 
 **Cowork nie uruchamia tych zadań.** Uśpione duplikaty `klocki-scout-nowosci`,
 `klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`, które
@@ -312,7 +318,9 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 |---|---|---|
 | **Zrzut cen Empiku** (lokalna przeglądarka, skill `klocki-ceny-empik`) | tygodniowo, poniedziałek | Ceny Empiku zamrażają się na tabelach hubów. Nie odświeżają się deeplinki `redirects.empik`, więc martwe adresy zostają i prowadzą na 404 — gorzej niż wyszukiwarka, na którą worker spada sam |
 | **Wgranie paczki `.skill`** | po każdej zmianie w `redakcja/`, w eksporcie albo w ręcznym skillu z `.claude/skills/` (21.09.2026: `klocki-ceny-empik`, trzeci przebieg listingu) | Cowork pracuje według starszego standardu niż repo, a rozjazd jest niewidoczny — obie strony są przekonane, że mają aktualną wersję |
-| **Routine założone z panelu** (Zdjęcia → R2, Przypomnienie: Empik, Alerty cen) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
+| **Routine założone z panelu** (Zdjęcia → R2 04:45, Przypomnienie: Empik) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
+| **Zrzut cen x-komu** (lokalna przeglądarka, skill `klocki-ceny-xkom`) | brak ustalonego rytmu — do decyzji Marka (audyt 30.09.2026) | Oferty x-komu mają `wazne_do` z akcji; po terminie znikają z tabel i nikt ich nie odświeża |
+| **Odczyt panelu GSC „Strony"** (liczba zaindeksowanych) | co 2 tygodnie; Kontroler przypomina w raporcie | API nie podaje liczby zaindeksowanych stron — bez odczytu kamień milowy nr 4 Kontrolera stoi |
 | **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |
 | **Odczyt paneli Allegro i webePartners** | przy przeglądzie prowizji | EPC dla tych dwóch zostaje **modelem**, nie pomiarem — a Allegro to największa ekspozycja w serwisie |
 | **Doładowanie Firecrawla** | pakiet 1 500 kredytów odnawia się co miesiąc (28.09, 28.10…); doładowanie tylko gdy tygodniowy listing (~75) plus sesje przekroczą pakiet | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |

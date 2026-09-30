@@ -95,8 +95,9 @@ cofnęłoby cały dzień pracy. Do tego wyłączony trigger dalej pokazywał
 `next_run_at`, co przy pobieżnym czytaniu wygląda jak zaplanowany przebieg.
 
 **Zostaje jeden: `trig_01JhfcGMgzv1nBwiguH93m6N`**, poniedziałek 09:00 PL.
-*(Nieaktualne od 22.09.2026: ten trigger też został skasowany, obowiązuje
-`trig_01EDEhtPiW4AVSAiGg9Co1mx` na trwałej sesji — patrz „Historia zmian".)*
+*(Nieaktualne od 22.09.2026: ten trigger też został skasowany; od 22.09 po
+południu obowiązuje `trig_0167qmnWn3Qjjz8HTwZU1uEP` na trwałej sesji — patrz
+„Historia zmian".)*
 
 Zmierzona różnica między nimi, zanim stary zniknął: stary miał trzy konektory
 (Adobe, Google Calendar, Claude_Code_Remote), nowy ma sześć (dodatkowo Alpha
@@ -201,33 +202,24 @@ Tamta kolizja przez to wisiała niezauważona.
   nowym ID, bo prompt Routine cudzej sesji da się zmienić tylko przez
   delete+create. Nie włączać bez przeczytania „Bramki sanity" niżej.
 
-### Zmiana czasu — 25.10.2026
+### Zmiana czasu — 25.10.2026 *(rozwiązane 30.09.2026)*
 
-Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
-**każde zadanie przesunie się o godzinę wcześniej względem zegara**:
+Od 30.09.2026 wszystkie crony runnerów LEGO założone przez sesję Code są zapisane
+w czasie polskim (`CRON_TZ=Europe/Warsaw …`): Scout, Dane wt, Wycofania,
+Harmonogram, Radar, Łowca, Kontroler, Alerty cen i Zdjęcia 09:45. Po przejściu
+na CET startują o tych samych godzinach co dziś — Łowca dalej o 08:30, po
+wylądowaniu feedu Media Expert (~07:40), a Alerty o 09:30, po Łowcy.
+
+Godzinę bez strefy (UTC) mają tylko zadania zapisane w panelu — panel nie
+zapisuje strefy. Po 25.10 przesuną się o godzinę wcześniej i to nie szkodzi:
 
 | Zadanie | Dziś (CEST) | Po 25.10 (CET) |
 |---|---|---|
-| Zdjęcia → R2 | 04:30 | 03:30 |
-| Scout nowości | 05:00 | 04:00 |
-| Dane wt (LEGO.pl + Ceneo + Smyk) | wt 05:30 | wt 04:30 |
-| Wycofania | pon 06:10 | pon 05:10 |
-| Angielski | pon 07:00 | pon 06:00 |
-| Radar konkurencji | 08:00 | 07:00 |
-| Przypomnienie: Empik | pon 08:15 | pon 07:15 |
-| Łowca promocji | 08:30 | **07:30 — do przestawienia na cron `30 7`** |
-| Kontroler | pon 09:00 | pon 08:00 |
-| Alerty cen | 09:30 | 08:30 (po Łowcy — kolejność musi zostać) |
-| inwestycja IV kwartał | pon 10:00 | pon 09:00 |
-| Herzfaden | śr 11:00 | śr 10:00 |
+| Zdjęcia → R2 (pierwszy przebieg) | 04:45 | 03:45 |
+| Przypomnienie: Empik (mail do Marka) | pon 08:15 | pon 07:15 |
+| Angielski / inwestycja / Herzfaden (spoza serwisu) | 07:00 / 10:00 / śr 11:00 | godzinę wcześniej |
 
-Przesuwa się wszystko równo, więc **nowych kolizji to nie tworzy**. Tabelę
-w bloku generowanym poprawi sam generator — liczy przesunięcie z kalendarza.
-
-Dla Łowcy to jest realny problem, nie kosmetyka: godzina 08:30 została dobrana
-pod moment lądowania nocnego feedu Media Expert (~07:40 czasu polskiego).
-Po zmianie czasu przebieg wypadnie o 07:30 i **znowu zacznie łapać wczorajszą
-wieczorną wersję**. Do przestawienia razem ze zmianą czasu, nie później.
+Zadanie, którego pora ma znaczenie, zakłada sesja Code z `CRON_TZ`, nie panel.
 
 ---
 
@@ -240,16 +232,18 @@ Podział wynika z charakteru pracy, nie z prestiżu modelu:
 - **Opus 5** — Scout (pisze opisy zestawów), Radar (ocenia konkurencję
   i rekomenduje tematy), Kontroler (analiza tygodnia). Zadania wymagające
   sądu i dobrego polskiego.
-- **Fable 5** — Łowca, Wycofania, Backfill. Po przeniesieniu parsowania do
+- **Fable 5** — Łowca, Wycofania (Backfill skasowany 30.09.2026). Po przeniesieniu parsowania do
   skryptów to praca mechaniczna: uruchom, porównaj liczby, zapisz JSON.
 - **Sonnet 5** — „Dane wt 05:30" (trwała sesja od 22.09.2026).
 
 Zgodne ze stanem faktycznym sesji na 31.08 (Dane wt i Kontroler jako trwała
-sesja Opus 5 dopisane 22.09).
+sesja Opus 5 dopisane 22.09). Pole `model` na koncie jest puste u wszystkich
+Routines LEGO — model to model sesji; sprawdza się go `get_session`
+(`session_context.model`), nie `list_triggers`.
 
 Model jest własnością SESJI, nie Routine: `update_trigger --model` działa tylko
-dla zadań tworzących świeżą sesję (Zdjęcia → R2, Alerty cen, Przypomnienie:
-Empik). Runner przypięty do trwałej sesji
+dla zadań tworzących świeżą sesję (Zdjęcia → R2 04:45 i 09:45, Alerty cen,
+Przypomnienie: Empik). Runner przypięty do trwałej sesji
 zachowuje jej model — żeby go zmienić, trzeba `create_session` z nowym modelem
 i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 
@@ -319,7 +313,7 @@ importuje go `scripts/empik-import.mjs`, a po nim
 Wniosek praktyczny: zmiany dotyczące Empiku wchodzą do serwisu dopiero przy
 najbliższym poniedziałkowym zrzucie, nie następnego dnia.
 
-## Backfill — obowiązkowa bramka sanity *(od 30.08.2026)*
+## Backfill — obowiązkowa bramka sanity *(od 30.08.2026; Backfill skasowany 30.09.2026 — reguła zostaje dla każdej sesji wpisującej ceny katalogowe)*
 
 Przed każdym commitem Backfill MUSI uruchomić `node scripts/kontrola-rrp.mjs`
 i przejrzeć sekcję „Test rynkowy": cena rynkowa z feedów poniżej 50% wpisywanej
@@ -337,6 +331,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**30.09.2026 (po audycie Routines)**
+- Crony runnerów LEGO przepisane na `CRON_TZ=Europe/Warsaw` z tymi samymi godzinami PL (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt) — zmiana czasu 25.10 nic nie przesunie.
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`): nowy `trig_01L8awRzxEbeUSQsad7ye18Y`, prompt z buildem przed pushem, regułą konfliktu dla `historia-cen/` i `seo_tytul`/`seo_opis` w postach.
+- Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`: `trig_01LU2xZxWqyCmNYv7rPyik3x` (stary `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` skasowany), plus kontrola wielkości sesji runnerów.
+- Alerty cen: nowy `trig_018D4PGvCaYkcDKDfNM3fjLZ` (09:30 PL, krok 2 sprawdza datę cen w `oferty_feed.json`), stary z panelu `trig_01BLKenDsuWfNpJ4iFdCN9Vc` skasowany.
+- Zdjęcia → R2: drugi przebieg 09:45 PL `trig_01XAJy9vca6HUK6YY3XarLWM` (po Łowcy); pierwszy z panelu przesunięty na 04:45.
+- Skasowane: „Empik co tydzien" (skill w chmurze, Empik blokuje — nic nie dostarczał) i Backfill (wyłączony od 30.08). Przypomnienie o Empiku zostaje — to mail do Marka.
 
 **23.09.2026 (przedpołudnie)**
 - Scout: nowy trigger `trig_013QRUCfL8ZAa45eDkQUkWXD` (ta sama sesja, ten sam cron) z regułą `bez_rrp` w Lukach katalogu; stary `trig_01DmDAaz993ddzz61pQj9o9X` wyłączony, do skasowania w panelu przez Marka (sesja Code nie może kasować triggerów — klasyfikator trybu auto).

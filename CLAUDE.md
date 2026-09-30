@@ -111,7 +111,7 @@ stan repo, świeżość danych i **realne wywołania** do Cloudflare, Search Con
 Tradedoublera, Firecrawla i produkcji.
 
 **Stan na 22.09.2026: pełną diagnozę robi Kontroler; `--szybko` (bez sieci)
-robią Łowca, Wycofania i Dane wt.** Scout, Radar i Backfill nie mają żadnego
+robią Łowca, Wycofania i Dane wt.** Scout i Radar nie mają żadnego
 sprawdzenia, Routine bez pushu (Zdjęcia → R2, Alerty, Przypomnienie) też nie.
 Nie pisz więc „runnery odpalają diagnozę" jako o fakcie; to jest kierunek, nie stan.
 

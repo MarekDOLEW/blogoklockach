@@ -315,9 +315,10 @@ sensowna godzina z zapasem na opóźnienie uploadu.
 To ograniczenie rządzi godziną Łowcy i żadna zmiana harmonogramu nie może go
 pominąć. Dwie pułapki na przyszłość:
 
-- **Zmiana czasu 25.10.2026.** Crony są w UTC, więc po przejściu na CET przebieg
-  wypadnie o 07:30 i znowu zacznie łapać wczorajszy feed. Trzeba go wtedy
-  przesunąć razem ze zmianą czasu.
+- **Zmiana czasu 25.10.2026 — rozwiązane 30.09.2026.** Cron Łowcy (i pozostałych
+  runnerów LEGO) jest zapisany jako `CRON_TZ=Europe/Warsaw 30 8 * * *`, więc po
+  przejściu na CET dalej startuje o 08:30 czasu polskiego. Nie wracać do zapisu
+  w UTC — wtedy wypadłby o 07:30 i łapał wczorajszy feed.
 - **Nazwa Routine musi iść za cronem.** 30.08 Łowca nazywał się „07:00",
   chodząc faktycznie o 08:00; próba „naprawy" na 07:00 pogorszyła sprawę,
   bo trafiała przed upload feedu.
@@ -993,8 +994,9 @@ bo od 16.09.2026 to jest wspólny slot na dane cenowe, nie tylko listing. Łańc
 `firecrawl-legopl.mjs` (katalog + plik RRP) → `lego-ceny.mjs` (cena LEGO.com do
 `oferty_feed.sety[nr].oferty.lego` z datą w `daty.lego`, oferta `lego` w
 `sety.json`, status `dostepny` + `ekskluzyw` + `lego_pl_widziano` w `katalog.json`)
-→ `wczytaj-rrp.mjs` → `lego-redirects.mjs`. Bramka: poniżej 1 000 produktów
-w zaciągu = listing się urwał, nie wczytywać. Trzy pułapki:
+→ `wczytaj-rrp.mjs` → `lego-redirects.mjs`. Bramka (jak w prompcie Dane wt):
+poniżej 800 ZESTAWÓW w zaciągu (22.09 było 938; akcesoria liczone osobno) =
+listing się urwał, nie wczytywać. Trzy pułapki:
 - `JSON.stringify` sortuje klucze numeryczne — `lego-ceny.mjs` zachowuje
   kolejność z pliku własnym parserem; każdy nowy skrypt piszący `sety.json`
   albo `oferty_feed.json` z JS musi robić to samo (albo pisać z Pythona).
