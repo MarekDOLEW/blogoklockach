@@ -78264,7 +78264,8 @@
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "bez_rrp": "BrickLink Designer Program — sprzedaż w limitowanym crowdfundingu, bez polskiej ceny katalogowej"
     },
     {
       "numer": "910058",
@@ -78274,7 +78275,8 @@
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "bez_rrp": "BrickLink Designer Program — sprzedaż w limitowanym crowdfundingu, bez polskiej ceny katalogowej"
     },
     {
       "numer": "910060",
@@ -78284,7 +78286,8 @@
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "bez_rrp": "BrickLink Designer Program — sprzedaż w limitowanym crowdfundingu, bez polskiej ceny katalogowej"
     },
     {
       "numer": "910062",
@@ -78294,7 +78297,8 @@
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "bez_rrp": "BrickLink Designer Program — sprzedaż w limitowanym crowdfundingu, bez polskiej ceny katalogowej"
     }
   ],
   "Legends of Chima": [
