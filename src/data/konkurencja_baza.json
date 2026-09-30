@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-29",
-    "przebieg": "scheduled 2026-09-29 08:00",
+    "ostatnia_aktualizacja": "2026-09-30",
+    "przebieg": "scheduled 2026-09-30 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 215,
+    "liczba_wpisow": 218,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2587,6 +2587,43 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Ciekawostka kolekcjonerska, bez zwiazku z zakupami."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Poradnik LEGO.pl: Executor UCS i upominki od 1.10.2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-executor-ucs-i-upominki-od-1-10-2026",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Potwierdzaja to, co mamy od 26.09: 40899 Astro Bot w dniach 1-7.10 do zakupow od ok. 650 zl (kwota do potwierdzenia), najpewniej z wylaczeniem Executora - u nich '95% pewnosci'. NOWE i wazne: zapowiadaja przejscie 75457 Executora do dystrybucji ograniczonej w styczniu 2027 i przecene rzedu 15-20% ok. rok po premierze. Nasz kalendarz pisal 'cena jest jedna i taka zostanie' - zdanie za mocne, poprawione 30.09 na ograniczone do biezacego sezonu, z zaznaczeniem, ze dalsza czesc to ICH prognoza, nie zapowiedz LEGO. Ich szacunkow wartosci gratisow na rynku wtornym (600-700 zl za Miecz Vadera) nie przepisujemy - to spekulacja, ktorej nie umiemy sprawdzic."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa - wycofywany Ogrod Botaniczny + gratisy",
+      "url": "https://faniklockow.pl/2026/09/29/okazja-cenowa-wycofywany-ogrod-botaniczny-gratisy",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Zestaw wycofywany z gratisem w ostatnim dniu okna halloweenowego. Mamy go w /wycofania/ i w hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Shenron i Goku - pierwszy zestaw LEGO na licencji Dragon Ball",
+      "url": "https://faniklockow.pl/2026/09/29/shenron-goku-pierwszy-zestaw-lego-na-licencji-dragon-ball",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Nowa licencja w portfolio LEGO. Poza sezonem XI-XII, ale to material zrodlowy do tekstu o licencjach z planu redakcyjnego (pozycja 9 cyklu, autor Piotr) - pierwszy zestaw nowej licencji to dokladnie ten typ faktu, ktorego tamten tekst potrzebuje."
     }
   ],
   "obserwacje_strategiczne": {

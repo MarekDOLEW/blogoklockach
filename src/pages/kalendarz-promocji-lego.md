@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-29"
+zaktualizowano: "2026-09-30"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -130,7 +130,7 @@ Obu terminów LEGO nie ogłosiło publicznie – dlatego całe to okno zostaje p
 
 Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku października" – teraz jest już konkret i jest większy, niż się spodziewaliśmy.
 
-**LEGO 75457 Executor – supergwiezdny niszczyciel**: 6130 elementów, siedem minifigurek, model o długości **136 cm** i cena katalogowa **3199,99 zł**. LEGO nazywa go najdłuższym klockowym modelem Star Wars w historii; przy 136 cm mija też Titanica (135 cm) – to już nasze porównanie, nie deklaracja producenta. Zestaw jest **ekskluzywny dla LEGO.com i sklepów stacjonarnych LEGO**, więc nie będzie ofert zewnętrznych ani rabatu – cena jest jedna i taka zostanie. Co z tego wynika przy zakupie, rozpisaliśmy w [osobnym tekście](/artykuly/lego-75457-executor-przed-premiera/).
+**LEGO 75457 Executor – supergwiezdny niszczyciel**: 6130 elementów, siedem minifigurek, model o długości **136 cm** i cena katalogowa **3199,99 zł**. LEGO nazywa go najdłuższym klockowym modelem Star Wars w historii; przy 136 cm mija też Titanica (135 cm) – to już nasze porównanie, nie deklaracja producenta. Zestaw jest **ekskluzywny dla LEGO.com i sklepów stacjonarnych LEGO**, więc w tym sezonie nie będzie ofert zewnętrznych ani rabatu – do świąt cena jest jedna. **Na dłuższą metę to się zmienia:** serwis branżowy zapowiada przejście Executora do dystrybucji ograniczonej w styczniu 2027 i spodziewa się przeceny rzędu 15–20% mniej więcej rok po premierze. To prognoza, nie zapowiedź LEGO – ale wystarczy, żeby nie traktować dzisiejszej ceny jako wiecznej. Jeśli umiesz poczekać rok, poczekasz taniej; jeśli nie, tegoroczna cena jest tą, którą zapłacisz. Co z tego wynika przy zakupie, rozpisaliśmy w [osobnym tekście](/artykuly/lego-75457-executor-przed-premiera/).
 
 **Dwie daty, nie jedna – i to jest najważniejszy szczegół zakupowy tego okna:**
 
