@@ -1,41 +1,10 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 30.09.2026, 10:51 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 30.09.2026, 17:31 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
-
-## GSC: czy /promocje-lego/ w indeksie
-
-- ID: `trig_01J6PDuKgRNNqjPoRydaBo6J` · cron `` · włączony · stała sesja (zmiana promptu = delete + create)
-
-```
-02.10 — kontrola indeksacji po wdrożeniu 29.09 (prośba Marka). Przez GSC URL Inspection API (GSC_KEY_JSON_B64, sc-domain:tylkoklocki.pl, NODE_USE_ENV_PROXY=1; kod jak w scripts/gsc-raport.mjs, zakres webmasters) sprawdź: https://tylkoklocki.pl/promocje-lego/ (29.09: „Adres URL jest Google nieznany”), https://tylkoklocki.pl/ (czy lastCrawlTime po 29.09 10:40 UTC, czyli już nowa v2) i https://tylkoklocki.pl/deale/ (czy Google widzi już przekierowanie 301 na /promocje-lego/). Zrób też szybki curl -sI bez -L na /deale/ (ma być 301). Napisz Markowi krótko: stan każdego adresu (verdict, coverageState, ostatnie odwiedziny) i czy trzeba coś ponowić — jeśli /promocje-lego/ dalej nieznana, podaj ponownie komendę dla Coworka „Poproś o zindeksowanie”. Dopisz jedną linię wyniku do wpisu z 29.09 12:40 w DZIENNIK.md i wypchnij na main.
-```
-
-## LEGO co 8h (4:00/12:00/20:00 PL) — Backfill cen katalogowych (runner z pushem)
-
-- ID: `trig_01D5ZK2mHY9CSXAQNnfwaV3q` · cron `0 2,10,18 * * *` · WYŁĄCZONY · stała sesja (zmiana promptu = delete + create)
-
-```
-Kolejny przebieg backfillu cen katalogowych. Repo jest dopięte do tej sesji — pushuj bezpośrednio.
-
-PROCEDURA (jak w poprzednich przebiegach tej rozmowy):
-1. git pull na main tuż przed pracą (inne zadania też pushują). Wczytaj src/data/katalog.json.
-2. Pula wg priorytetów: (1) status "dostepny", (2) numery z src/data/wycofania.json, (3) EOL z serii Ideas/Icons/Star Wars/Technic/Harry Potter. Pomiń wpisy mające już cena_katalogowa (także null — null znaczy "sprawdzono, brak ceny w zł"). EOL z pozostałych serii poza zakresem. UWAGA: od 30.08.2026 duża część pul ma już ceny z bazy Republiki Klocków (wpisy z polem cena_zrodlo="RK") — te wpisy pomijaj tak samo jak inne z ceną.
-3. Partia: ~250 numerów, jeśli WebFetch do brickset.com/promoklocki.pl działa; przy blokadzie (EGRESS_BLOCKED) ~120 numerów i maks. 4 równoległych agentów (wspólny limit WebSearch ~200 zapytań). Numer niesprawdzony z braku budżetu zostaw BEZ zmian.
-4. Źródła cen w kolejności: brickset.com/sets/NUMER-1 (pole RRP, WYŁĄCZNIE wartość w zł — walut nie przeliczaj), potem promoklocki.pl ("Cena katalogowa"), potem zklockow.pl. Cena tylko wprost ze źródła; bez szacowania. Brak ceny w zł w żadnym źródle → "cena_katalogowa": null.
-5. Sanity-check: 4–6000 zł; typowo 0,15–1,50 zł/element — poza tym przedziałem sprawdź drugie źródło; przy rozbieżności bierz promoklocki.
-6. Zapis: dopisuj TYLKO pole cena_katalogowa, niczego nie usuwaj, formatowanie indent=2, ensure_ascii=False. Zaktualizuj _meta.backfill_cen {data, uzupelnione_lacznie, ostatnie_serie}.
-7. Walidacja: poprawny JSON, liczba wpisów i liczba pól cena_katalogowa nie zmalały. Commit "Backfill: ceny katalogowe — <serie>, <ile> setów (<data>)", push na main. Przy konflikcie: pull, nanieś ceny ponownie, push raz jeszcze. Przebieg MUSI skończyć się commitem — jeśli push się nie uda, opisz dokładny błąd gita w podsumowaniu i wyślij plik przez SendUserFile.
-
-BRAMKA SANITY (obowiązkowa od 30.08.2026, po audycie fałszywych rabatów): przed commitem uruchom `node scripts/kontrola-rrp.mjs` i przejrzyj sekcję „Test rynkowy". Cena rynkowa z feedów poniżej 50% wpisywanej ceny katalogowej = któraś strona jest błędna. Rozstrzyganie: RRP potwierdzone niezależnie (rrp_potwierdzone.json / wpis RK w katalog.json) → wina rynku (zaślepka sklepu lub oferta-podszywka), wpis zostaje, przypadek do raportu; RRP bez niezależnego potwierdzenia → ceny NIE zapisuj (brak ceny jest lepszy niż fałszywy rabat). Nigdy nie zapisuj ceny z przeliczenia walutowego bez oznaczenia i bez sprawdzenia mnożnika rocznika (RUNBOOK, sekcja o przeliczniku).
-
-ZAKOŃCZENIE CAŁOŚCI: gdy pule 1–3 nie mają już wpisów bez cena_katalogowa, napisz "BACKFILL ZAKOŃCZONY — wyłącz zadanie «LEGO co 8h — Backfill cen katalogowych (runner z pushem)»".
-
-PODSUMOWANIE przebiegu: ile sprawdzono, ile cen (per źródło), ile null, ile pominięto z braku budżetu, które serie, ile zostało w pulach.
-```
 
 ## LEGO pon 08:15 — Przypomnienie: zrzut Empiku
 
@@ -62,9 +31,9 @@ Kroki:
 4. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
 ```
 
-## LEGO 04:30 — Zdjęcia → R2 (Planeta Klocków)
+## LEGO 04:45 - 09.45 — Zdjęcia → R2 (Planeta Klocków)
 
-- ID: `trig_01EAhU5SKn2GuXxY14WYxNkJ` · cron `30 2 * * *` · włączony · świeża sesja na każdy przebieg
+- ID: `trig_01EAhU5SKn2GuXxY14WYxNkJ` · cron `45 2 * * *` · włączony · świeża sesja na każdy przebieg
 
 ```
 Codzienne dogranie zdjęć do R2 dla tylkoklocki.pl. Kontekst: worker serwuje /img/ z kubełka R2, a gdy tam nic nie ma, pobiera ze źródła — ale Planeta Klocków odrzuca pobrania z workera, więc każde nowe zdjęcie z Planety (nowość od Scouta, galeria do nowego tekstu) trzeba wgrać do R2 z kontenera. Robi to jeden skrypt z repo; Ty go tylko uruchamiasz i czytasz wynik. Szczegóły: RUNBOOK.md, sekcja „Zdjęcia: Planeta Klocków odrzuca fetch z workera".
@@ -76,23 +45,6 @@ Kroki, dokładnie w tej kolejności:
 4. Podsumowanie: jedna linijka z wynikiem (ile w R2, ile z Planety w danych, ile brakowało, ile wgrano). Gdy brakowało 0 — to cała odpowiedź. Gdy coś wgrano — wypisz klucze. Gdy były błędy — wklej listę błędów ze skryptu dosłownie.
 
 Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
-```
-
-## LEGO 09:30 — Alerty cen (Obserwuj zestaw)
-
-- ID: `trig_01BLKenDsuWfNpJ4iFdCN9Vc` · cron `30 7 * * *` · włączony · świeża sesja na każdy przebieg
-
-```
-Codzienna wysyłka alertów cenowych „Obserwuj zestaw" dla tylkoklocki.pl. Czytelnicy zapisują się na hubie zestawu, zapisy leżą w R2, a ten przebieg porównuje dzisiejsze ceny (po porannym Łowcy) z progiem i wysyła maile przez Resend. Wszystko robi jeden skrypt; Ty go uruchamiasz i czytasz wynik. Kontekst: RUNBOOK.md, sekcja „Alerty cenowe (Obserwuj zestaw)".
-
-Kroki:
-1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B alerty origin/main` (skrypt nie ma zależności npm). Nic nie commitujesz, nic nie pushujesz.
-2. Sprawdź, czy Łowca dziś pushnął: `git log -1 --format="%ci %s" --grep="Łowca"`. Jeśli data nie jest dzisiejsza — ceny w repo są wczorajsze; skrypt i tak pominie oferty starsze niż 2 dni, ale napisz to w podsumowaniu jednym zdaniem.
-3. `node scripts/alerty-cen.mjs --sucho` — przeczytaj, ile alertów skrypt chce wysłać. Jeśli więcej niż 200 albo lista wygląda podejrzanie (jeden adres wiele razy, ceny 0 zł) — NIE uruchamiaj wysyłki, opisz to w podsumowaniu.
-4. `node scripts/alerty-cen.mjs` — wysyłka. Kod wyjścia 2 = brak zmiennej środowiska (CF_ACCOUNT_ID, CF_R2_TOKEN, RESEND_API_KEY): wklej komunikat, nie szukaj obejść.
-5. Podsumowanie: jedna linijka ze skryptu (zapisów / potwierdzonych / wysłanych / błędów). Gdy były błędy — wklej je dosłownie.
-
-Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnych maili poza tymi, które wysyła skrypt.
 ```
 
 ## LEGO 05:00 — Scout nowości (runner z pushem, Opus 5)
@@ -334,10 +286,43 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 W poście dealowym podaj we frontmatterze pasek_zestaw: "<nr>" z numerem zestawu z tytułu — layout wstawi pasek z ceną pod tytułem.
 ```
 
+## LEGO 09:30 — Alerty cen (Obserwuj zestaw)
+
+- ID: `trig_018D4PGvCaYkcDKDfNM3fjLZ` · cron `CRON_TZ=Europe/Warsaw 30 9 * * *` · włączony · świeża sesja na każdy przebieg
+
+```
+Codzienna wysyłka alertów cenowych „Obserwuj zestaw" dla tylkoklocki.pl. Czytelnicy zapisują się na hubie zestawu, zapisy leżą w R2, a ten przebieg porównuje dzisiejsze ceny (po porannym Łowcy) z progiem i wysyła maile przez Resend. Wszystko robi jeden skrypt; Ty go uruchamiasz i czytasz wynik. Kontekst: RUNBOOK.md, sekcja „Alerty cenowe (Obserwuj zestaw)".
+
+Kroki:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B alerty origin/main` (skrypt nie ma zależności npm). Nic nie commitujesz, nic nie pushujesz.
+2. Sprawdź, czy ceny są dzisiejsze: python3 -c "import json,datetime;d=json.load(open('src/data/oferty_feed.json'));t=datetime.date.today().isoformat();print(sum(1 for s in d['sety'].values() if (s.get('daty') or {}).get('mediaexpert')==t))". Wynik 0 = Łowca dziś jeszcze nie zapisał cen; skrypt i tak pominie oferty starsze niż 2 dni, ale napisz to w podsumowaniu jednym zdaniem.
+3. `node scripts/alerty-cen.mjs --sucho` — przeczytaj, ile alertów skrypt chce wysłać. Jeśli więcej niż 200 albo lista wygląda podejrzanie (jeden adres wiele razy, ceny 0 zł) — NIE uruchamiaj wysyłki, opisz to w podsumowaniu.
+4. `node scripts/alerty-cen.mjs` — wysyłka. Kod wyjścia 2 = brak zmiennej środowiska (CF_ACCOUNT_ID, CF_R2_TOKEN, RESEND_API_KEY): wklej komunikat, nie szukaj obejść.
+5. Podsumowanie: jedna linijka ze skryptu (zapisów / potwierdzonych / wysłanych / błędów). Gdy były błędy — wklej je dosłownie.
+
+Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnych maili poza tymi, które wysyła skrypt.
+```
+
 ## LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers)
 
 - ID: `trig_01LU2xZxWqyCmNYv7rPyik3x` · cron `CRON_TZ=Europe/Warsaw 45 7 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Cotygodniowe przepisanie harmonogramu Routines do repo (zadanie przejęte 22.09.2026 od Kontrolera, bo sesje runnerów nie dostają konektora Claude_Code_Remote — ma go tylko ta sesja Code; od 30.09.2026 Routine jest przypięty do tej sesji). Kroki: (1) `cd /home/user/blogoklockach && git fetch origin main && git checkout -B praca origin/main`; (2) wywołaj narzędzie `list_triggers` (limit 50); wynik ląduje w pliku w katalogu tool-results — wytnij z niego czysty JSON (od pierwszego `{` do ostatniego `}`) do `/tmp/routines.json`, NIE do repo (prompty są w polu `derived_state.prompt` każdego wpisu); (3) `node scripts/harmonogram-z-konta.mjs /tmp/routines.json` — przepisuje sekcję HARMONOGRAM w `materialy/zadania-cykliczne.md` i cały `materialy/routine-prompty.md` (skrypt od 30.09 rozumie crony `CRON_TZ=Europe/Warsaw …`); (4) WIELKOŚĆ SESJI RUNNERÓW: dla każdego `persistent_session_id` z Routines LEGO wywołaj `get_session` i odczytaj `external_metadata.context_usage.used_tokens` / `max_tokens`. Sesja powyżej 850 000 tokenów = alarm („<runner>: <N> tys. z 1 mln — założyć nową sesję”); (5) jeśli `git diff --stat` pokazuje zmiany: `git add materialy/zadania-cykliczne.md materialy/routine-prompty.md && git commit -m "Harmonogram i prompty: odczyt z konta <DD.MM.RRRR>" && git push origin praca:main` (przy odrzuceniu: fetch + rebase + push, do 3 razy); (6) w jednej-dwóch linijkach do Marka: ile Routines włączonych, kolizje ze skryptu, które WŁĄCZONE zadanie LEGO nie ma `last_run` z ostatnich 7 dni ani commita w `git log --since=7.days`, alarmy wielkości sesji — tylko to, bez komentarza, gdy wszystko gra. Ten krok ma być gotowy przed Kontrolerem (09:00 PL), który czyta te pliki z repo zamiast wołać API.
+```
+
+## LEGO 09:45 — Zdjęcia → R2, drugi przebieg (po Łowcy)
+
+- ID: `trig_01XAJy9vca6HUK6YY3XarLWM` · cron `CRON_TZ=Europe/Warsaw 45 9 * * *` · włączony · świeża sesja na każdy przebieg
+
+```
+Drugi dzienny przebieg dogrania zdjęć do R2 dla tylkoklocki.pl (od 30.09.2026) — o 09:45, po porannym Łowcy, żeby nowe zestawy z feedów nie czekały z pustą miniaturą do jutra 04:45. Kontekst: worker serwuje /img/ z kubełka R2, a gdy tam nic nie ma, pobiera ze źródła — ale Planeta Klocków odrzuca pobrania z workera, więc każde nowe zdjęcie z Planety trzeba wgrać do R2 z kontenera. Robi to jeden skrypt z repo; Ty go tylko uruchamiasz i czytasz wynik. Szczegóły: RUNBOOK.md, sekcja „Zdjęcia: Planeta Klocków odrzuca fetch z workera".
+
+Kroki, dokładnie w tej kolejności:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B zdjecia origin/main`. Jeśli nie ma katalogu node_modules: `npm ci --no-audit --no-fund` (skrypt używa sharp). Nic nie commitujesz, nic nie pushujesz.
+2. `node scripts/r2-obrazy.mjs` — bez flag. Skrypt listuje kubełek, porównuje z danymi i wgrywa brakujące zdjęcia; zostawia ślad `_stan/r2-obrazy.json` w R2. Nie uruchamiaj `--sprawdz` ani `--optymalizuj` i nie dopisuj własnych poprawek do skryptu.
+3. Jeśli skrypt zakończył się kodem 2 (brak CF_ACCOUNT_ID lub CF_R2_TOKEN w środowisku), błędem importu sharp albo błędem listowania R2 — wklej dokładny komunikat do podsumowania. Nie wymyślaj obejść.
+4. Podsumowanie: jedna linijka z wynikiem (ile w R2, ile brakowało, ile wgrano). Gdy coś wgrano — wypisz klucze. Gdy były błędy — wklej listę błędów ze skryptu dosłownie.
+
+Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
 ```
