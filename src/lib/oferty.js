@@ -259,3 +259,15 @@ export const fmtCena = (c) =>
   Number(c).toLocaleString('pl-PL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' zł';
 
 export const fmtElementy = (n) => Number(n).toLocaleString('pl-PL');
+
+// Polska odmiana rzeczownika po liczebniku: 1 element, 2–4 elementy, 5+ elementów
+// (12–14 zawsze „elementów”). Audyt tekstów 30.09.2026: „23 elementów”, „3 zdjęć”,
+// „4 ofert” na ~250 stronach – każdy szablon miał liczebnik z rzeczownikiem na sztywno.
+export function odmien(n, jeden, kilka, wiele) {
+  const x = Math.abs(Math.trunc(Number(n)));
+  if (x === 1) return jeden;
+  const d = x % 100, j = x % 10;
+  return j >= 2 && j <= 4 && !(d >= 12 && d <= 14) ? kilka : wiele;
+}
+/** „1 element”, „23 elementy”, „598 elementów” – liczba sformatowana po polsku. */
+export const ileElementow = (n) => `${fmtElementy(n)} ${odmien(n, 'element', 'elementy', 'elementów')}`;

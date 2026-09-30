@@ -26,7 +26,7 @@ const dzis = (nr) => {
       <span class="galeria__etykieta">{z.etykieta}</span>
       <span class="galeria__nazwa">{z.nazwa}</span>
       <span class="galeria__cena">
-        {z.dobra ? <>dobra cena od <b>{zl(z.dobra)}</b></> : <>katalogowo {zl(z.rrp)}</>}
+        {z.dobra ? <>dobra cena: do <b>{zl(z.dobra)}</b></> : <>katalogowo {zl(z.rrp)}</>}
       </span>
       {dzis(z.nr) && <span class={`galeria__dzis${z.dobra && dzis(z.nr) <= z.dobra ? ' galeria__dzis--ok' : ''}`}>dziś od <b>{zl(dzis(z.nr))}</b></span>}
     </a>

@@ -121,7 +121,7 @@ const {
       $input.setAttribute('aria-expanded', 'true');
       $licznik.textContent =
         wszystkie.length > trafienia.length
-          ? `${wszystkie.length} trafień, pokazano ${trafienia.length}`
+          ? `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : [2,3,4].includes(wszystkie.length % 10) && ![12,13,14].includes(wszystkie.length % 100) ? 'trafienia' : 'trafień'}, pokazano ${trafienia.length}`
           : `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : 'trafień'}`;
     }
 

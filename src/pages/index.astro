@@ -11,7 +11,7 @@ import { zajawkaArtykulu, zajawkaZMeta, sortujPostyDealowe, najnowszePierwsze } 
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import KartaAktualnosci from '../components/KartaAktualnosci.astro';
 import { aktualnosci, jestAktualnoscia } from '../lib/aktualnosci.js';
-import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, fmtElementy, odmien, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
 
@@ -282,7 +282,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
 ---
 <Base
   title="Promocje LEGO dziś – prawdziwe rabaty"
-  description="Codziennie sprawdzamy ceny zestawów LEGO w największych sklepach. Rabaty liczymy od cen katalogowych, wyłapujemy najniższe ceny w historii."
+  description="Ceny zestawów LEGO w polskich sklepach z rabatem liczonym od ceny katalogowej. Nowe minima z naszych notowań, wycofania, nowości i recenzje."
   jsonld={{
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -316,7 +316,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
               <div class="deal-tresc">
                 <span class="eyebrow">
                   <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-                  Deal dnia · {new Date().toLocaleDateString('pl-PL')}
+                  Okazja dnia · dane z {dzienDanych.split('-').reverse().join('.')}
                   {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
                   {POLKI.find((p) => p.pasuje(oferta.cena)) && (
                     <span class="slajd-polka">{POLKI.find((p) => p.pasuje(oferta.cena)).etykieta}</span>
@@ -334,7 +334,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   )}
                 </div>
                 <div class="deal-meta">
-                  <span><strong>{deal.elementy}</strong> elementów</span>
+                  <span><strong>{fmtElementy(deal.elementy)}</strong> {odmien(deal.elementy, 'element', 'elementy', 'elementów')}</span>
                   <span><strong>{zaKlocek(deal)} zł</strong> za klocek</span>
                   <span>seria <strong>{deal.seria}</strong></span>
                   <span>wiek <strong>{deal.wiek}</strong></span>
@@ -440,7 +440,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Aktualności</h2>
       </div>
-      <p class="akt-wstep">Akcje sklepów i kampanie z terminem – warto przeczytać, bo może się trafić niezła okazja.</p>
+      <p class="akt-wstep">Akcje sklepów i kampanie z datą końca – z naszą oceną, co naprawdę jest okazją.</p>
       <div class="akt-slajder" data-akt-slajder>
         <div class="akt-tor" data-akt-tor tabindex="0" aria-label="Aktualności – przewiń w bok">
           {aktualnosciGlowna.map((a) => <KartaAktualnosci a={a} />)}
@@ -463,7 +463,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     <section class="sekcja" aria-label="Najnowsze artykuły">
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Ostatnio na blogu</h2>
+        <h2>Ostatnie artykuły</h2>
       </div>
       <div class="zajawki">
         {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
@@ -473,17 +473,17 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   )}
 
   {postyDealowe.length > 0 && (
-    <section class="sekcja sekcja--deale-posty" aria-label="Najnowsze deale">
+    <section class="sekcja sekcja--deale-posty" aria-label="Okazje pod lupą">
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Najnowsze deale</h2>
+        <h2>Okazje pod lupą</h2>
       </div>
       <p>Okazje opisane przez redakcję: skąd rabat, czy to naprawdę minimum i dla kogo ten zestaw ma sens.</p>
       <div class="zajawki zajawki--zwarte">
         {postyDealowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk przycisk--duzy" href="/promocje-lego/#okazje-pod-lupa">Zobacz wszystkie deale →</a>
+        <a class="przycisk przycisk--duzy" href="/promocje-lego/#okazje-pod-lupa">Wszystkie okazje pod lupą →</a>
       </p>
     </section>
   )}
@@ -499,7 +499,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       <a class="karta wejscie" href="/wycofania/">
         <span class="wejscie__ile">{liczbaWycofan}</span>
         <span class="wejscie__etykieta">Wycofania</span>
-        <span class="wejscie__opis">Zestawy, które LEGO niedługo zdejmuje z produkcji. Po wycofaniu drożeją – teraz bywają najtańsze w historii.</span>
+        <span class="wejscie__opis">Zestawy, które LEGO wkrótce zdejmuje z produkcji – z terminem, statusem i dzisiejszą ceną.</span>
         <span class="wejscie__cta">Zobacz wycofania →</span>
       </a>
       <a class="karta wejscie" href="/artykuly/">

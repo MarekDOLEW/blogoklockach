@@ -12,7 +12,7 @@ const lista = aktualnosci();
   description="Akcje sklepów na zestawy LEGO, kampanie typu Black Weeks i promocje z datą końca. Sprawdzamy, co jest naprawdę okazją, a co tylko wygląda na rabat."
 >
   <h1 style="margin-top:28px">Aktualności</h1>
-  <p class="prose prose--szeroki">Akcje sklepów, kampanie i promocje z datą końca – z naszą oceną, co jest naprawdę okazją, a co tylko dużym procentem na plakacie. Warto tu zaglądać, bo czasem trafia się niezła okazja.</p>
+  <p class="prose prose--szeroki">Akcje sklepów, kampanie i promocje z datą końca – z naszą oceną, co jest naprawdę okazją, a co tylko dużym procentem na plakacie.</p>
   <div class="akt-siatka">
     {lista.map((a, i) => <KartaAktualnosci a={a} poziom={2} eager={i < 2} />)}
   </div>

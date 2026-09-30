@@ -109,11 +109,11 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
 
 ---
 <Base
-  title="Promocje LEGO dziś – realne rabaty od cen katalogowych"
-  description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, filtr serii, sortowanie po cenie, oznaczone nowe minima cenowe."
+  title="Promocje LEGO – rabaty liczone od cen katalogowych"
+  description="Zestawy LEGO w promocji w polskich sklepach. Rabat liczymy od ceny katalogowej, nie od przekreślonej. Filtr serii, sortowanie po cenie i rabacie, nowe minima."
 >
   <div class="podglad-widok">
-  <h1 class="glowna-h1">Promocje LEGO – tylko realne rabaty, liczone od cen katalogowych</h1>
+  <h1 class="glowna-h1">Promocje LEGO – rabaty liczone od cen katalogowych</h1>
 
   {slajdy.length > 0 && (
     <section class="sekcja sekcja--aktualnosci" aria-label="Najlepsze okazje dziś">
@@ -157,9 +157,8 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   )}
 
   <p class="promo-wstep">
-    Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
-    (ostatnie dane: {dzienDanychPl}). Rabaty liczymy wyłącznie od oficjalnej ceny
-    katalogowej LEGO, bez pseudopromocji od zawyżonych „cen przekreślonych”. Za okazję
+    Stan cen z {dzienDanychPl}. Rabat liczymy od ceny katalogowej LEGO, a nie od
+    „ceny przekreślonej”, którą sklep ustala sam. Za okazję
     uznajemy rabat co najmniej {PROG}%, zestaw, który właśnie zaliczył
     <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań, albo –
     przy zestawach <span class="badge-ex">ekskluzyw</span>, które rzadko tanieją – rabat od {PROG_EKSKLUZYW}%.
@@ -271,19 +270,18 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   <section class="sekcja persony">
     <div class="karta persona">
       <h3>👨‍👩‍👧 Kupujesz dla dziecka?</h3>
-      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> – nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
+      <p>Prezentowniki układamy według wieku i budżetu, a przy wielu zestawach piszemy, czy poradzi sobie z nimi dziecko w wieku z pudełka.</p>
     </div>
     <div class="karta persona afol">
       <h3>🧱 Budujesz kolekcję?</h3>
-      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów – wiemy, co i kiedy warto brać.</p>
+      <p>Cena za element, terminy wycofań (EOL) i najniższa cena z naszych notowań. Sami mamy w domu ponad 1000 zestawów.</p>
     </div>
   </section>
 
   <p class="disclosure">
-    Linki do sklepów są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis
-    i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór okazji: rabaty
-    liczymy zawsze od cen katalogowych LEGO, a ofertę pokazujemy niezależnie od tego,
-    czy mamy z danym sklepem współpracę. Allegro to najwyżej 30% pozycji w każdej części listy.
+    Linki do sklepów to linki afiliacyjne: kupując przez nie, wspierasz serwis
+    i nie płacisz więcej. Na listę trafiają też sklepy, z którymi nie współpracujemy –
+    o miejscu decyduje wyłącznie rabat od ceny katalogowej. Allegro to najwyżej 30% pozycji w każdej części listy.
   </p>
   </div>
 </Base>

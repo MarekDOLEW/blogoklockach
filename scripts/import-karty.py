@@ -203,6 +203,10 @@ def linkuj(t, seria_repo, slug, seria_ma_strone=True):
                    f'<a href="/serie/{slug}/">zobacz wszystkie zestawy LEGO {s}</a>', t)
     t = re.sub(r'\[zobacz kategorię [^\]]+ – link wewnętrzny\]',
                '<a href="/serie/">zobacz wszystkie serie LEGO</a>', t)
+    # placeholder stojący na początku zdania daje link od małej litery
+    # („… 99,99 zł. <a>zobacz tabelę…</a>”) – audyt tekstów 30.09.2026
+    t = re.sub(r'(^|[.!?]\s)(<a [^>]*>)([a-ząćęłńóśźż])',
+               lambda m: m.group(1) + m.group(2) + m.group(3).upper(), t)
     return t
 
 # fraza szablonu (przyjmuje mianownik) -> zamiennik przyjmujący dopełniacz;
@@ -250,19 +254,23 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
         zc = [x for x in rocznik if x.get('cena_katalogowa') and x.get('elementy')]
         med = sorted(x['cena_katalogowa'] / x['elementy'] for x in zc)[len(zc)//2] if zc else None
         cel = rrp / el if rrp else None
-        a = (f'Na tle rocznika 2026 serii LEGO {s} to '
-             + ('największy zestaw' if poz == 1 else f'{poz}. największy zestaw')
-             + f' spośród {len(rocznik)}, o których wiemy w tym roku')
+        # Zestaw spoza rocznika 2026 porównujemy z tym rocznikiem w trybie
+        # warunkowym – wcześniej 228 kart starszych zestawów mówiło, że są
+        # „N. największe spośród tych, o których wiemy w tym roku”.
+        if any(x.get('numer') == nr for x in rocznik):
+            a = (f'Wśród {len(rocznik)} zestawów LEGO {s} z 2026 roku to '
+                 + ('największy' if poz == 1 else f'{poz}. największy'))
+        else:
+            a = (f'Gdyby stanął obok {len(rocznik)} zestawów LEGO {s} z 2026 roku, byłby '
+                 + ('największy' if poz == 1 else f'{poz}. co do wielkości'))
         if 1 < poz <= 3 and wieksze:
             w0 = wieksze[0]
             a += (f' – więcej elementów ma {"tylko " if poz == 2 else "m.in. "}'
                   f'<a href="/zestaw/{w0["numer"]}/">LEGO {w0["numer"]} {w0["nazwa"]}</a> ({w0["elementy"]} el.)')
         a += '.'
         if cel and med:
-            rel = 'niżej' if cel < med else 'wyżej'
-            a += (f' Przelicznik ceny katalogowej na element wypada u niego {rel} niż mediana serii'
-                  f' ({cel:.2f} zł wobec {med:.2f} zł)'.replace('.', ',')
-                  + ' – to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką.')
+            a += (f' Za element płaci się tu katalogowo {cel:.2f} zł, przy typowych dla serii {med:.2f} zł.'
+                  .replace('.', ',').rstrip(',') + '.')
         out.append(a)
     if el and el > 1200 and rrp:
         sasiedzi = sorted([x for x in rocznik if x.get('cena_katalogowa') and x['numer'] != nr],
@@ -272,9 +280,7 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
             out.append(
                 f'Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to '
                 f'<a href="/zestaw/{a["numer"]}/">LEGO {a["numer"]} {a["nazwa"]}</a> ({fmt_zl(a["cena_katalogowa"])} katalogowo) '
-                f'i <a href="/zestaw/{b["numer"]}/">LEGO {b["numer"]} {b["nazwa"]}</a> ({fmt_zl(b["cena_katalogowa"])}). '
-                f'Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, '
-                f'ale i to, co z każdego pudełka realnie trafia na półkę.')
+                f'i <a href="/zestaw/{b["numer"]}/">LEGO {b["numer"]} {b["nazwa"]}</a> ({fmt_zl(b["cena_katalogowa"])}).')
     return out
 
 # ---------- główny przebieg ----------

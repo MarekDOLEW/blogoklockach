@@ -5,6 +5,7 @@ import sety from '../data/sety.json';
 import { urlZdjecia } from '../lib/media.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 import { statusNowosci } from '../lib/premiery.js';
+import { odmien } from '../lib/oferty.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
@@ -35,9 +36,9 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 ---
 <Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy i zapowiedzi. Ceny, liczba elementów, zdjęcia i nasza ocena, czy warto.`}>
   <h1 style="margin-top:28px">Nowości LEGO</h1>
-  <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi. Aktualizujemy codziennie rano.</p>
-  <p class="nowosci-legenda">Zapowiedzi dzielimy na dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu lub komunikatem Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, z katalogów sklepowych i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status. Pełną listę nieoficjalnych zapowiedzi ze źródłami, oceną pewności i tablicą trafności prowadzimy osobno w dziale <a href="/przecieki/">Przecieki</a>.{zapowiedzi.length > 0 && <> Obecnie: {`${zapowiedzi.length - przecieki} ${zapowiedzi.length - przecieki === 1 ? 'zapowiedź potwierdzona' : 'zapowiedzi potwierdzone'} i ${przecieki} ${przecieki === 1 ? 'przeciek' : 'przecieków'}`}.</>}</p>
-  <p>Patrzysz dalej w przyszłość? Zebraliśmy <a href="/zapowiedzi-lego-2027/">wszystkie zapowiedzi LEGO na 2027 rok</a> – z podpowiedziami, które zestawy z obecnej oferty warto mieć, zanim znikną.</p>
+  <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi.</p>
+  <p class="nowosci-legenda">Zapowiedzi dzielimy na dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu lub komunikatem Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, z katalogów sklepowych i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status. Pełną listę nieoficjalnych zapowiedzi ze źródłami, oceną pewności i tablicą trafności prowadzimy osobno w dziale <a href="/przecieki/">Przecieki</a>.{zapowiedzi.length > 0 && <> Obecnie: {`${zapowiedzi.length - przecieki} ${odmien(zapowiedzi.length - przecieki, 'zapowiedź potwierdzona', 'zapowiedzi potwierdzone', 'zapowiedzi potwierdzonych')} i ${przecieki} ${odmien(przecieki, 'przeciek', 'przecieki', 'przecieków')}`}.</>}</p>
+  <p>Zapowiedzi na kolejny rok zbieramy osobno: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>, z podpowiedzią, które zestawy z obecnej oferty kupić, zanim znikną.</p>
 
   <nav class="mies-lista" aria-label="Premiery miesiąc po miesiącu">
     <span class="mies-lista__etykieta">Miesiąc po miesiącu:</span>

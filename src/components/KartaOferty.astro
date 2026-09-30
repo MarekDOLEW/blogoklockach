@@ -2,7 +2,7 @@
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import cenyBaza from '../data/ceny_baza.json';
-import { polaczOferty, cenaKatalogowaSetu, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku } from '../lib/oferty.js';
+import { polaczOferty, cenaKatalogowaSetu, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku, odmien, ileElementow } from '../lib/oferty.js';
 import { statusWycofania } from '../lib/status.js';
 import { wpisKatalogu } from '../lib/katalog.js';
 import { urlZdjecia } from '../lib/media.js';
@@ -83,7 +83,7 @@ const zlKlocek = elementy && wybrana ? (wybrana.cena / elementy).toFixed(2).repl
     </h3>
 
     <p class="oferta-karta__dane">
-      {elementy && <>{elementy} elementów</>}
+      {elementy && <>{ileElementow(elementy)}</>}
       {elementy && zlKlocek && <> · {zlKlocek} zł za element</>}
       {wiek && <> · wiek {wiek}</>}
     </p>
@@ -104,7 +104,7 @@ const zlKlocek = elementy && wybrana ? (wybrana.cena / elementy).toFixed(2).repl
 
     <p class="oferta-karta__akcje">
       {link && <a class="cta" href={link} target="_blank" rel={relLinku(wybrana.sklep, klucz)}>Sprawdź w {nazwaSklepu(wybrana.sklep)} →</a>}
-      <a class="oferta-karta__hub" href={`/zestaw/${klucz}/`} target="_blank" rel="noopener">Porównaj {wszystkie.length > 1 ? `${wszystkie.length} ofert` : 'oferty'} i historię ceny</a>
+      <a class="oferta-karta__hub" href={`/zestaw/${klucz}/`} target="_blank" rel="noopener">Porównaj {wszystkie.length > 1 ? `${wszystkie.length} ${odmien(wszystkie.length, 'ofertę', 'oferty', 'ofert')}` : 'oferty'} i najniższą notowaną cenę</a>
     </p>
   </div>
 </div>

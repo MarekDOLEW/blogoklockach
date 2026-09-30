@@ -3,6 +3,7 @@ import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 import galerie from '../data/galerie.json';
 import sety from '../data/sety.json';
+import { wycofanieSetu } from '../lib/huby.js';
 import ofertyFeed from '../data/oferty_feed.json';
 import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku as relSklepu } from '../lib/oferty.js';
 
@@ -25,6 +26,9 @@ const {
   status = null, sklepyPublikacyjne = [],
 } = Astro.props;
 
+// Termin wycofania z wycofania.json („grudzień 2026”), nie wpisany na sztywno.
+const kiedyZnika = wycofanieSetu(nr)?.kiedy;
+const terminZnika = kiedyZnika && !['wycofany', 'odwołane'].includes(kiedyZnika) ? `wycofanie: ${kiedyZnika}` : 'zapowiedziane wycofanie';
 const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const maLink = (s) => s === 'lego' || Boolean(redirects?.[s]?.[nr]) || Boolean(sklepy[s]?.szukaj);
 const rel = (s) => relSklepu(s, nr);
@@ -75,7 +79,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       <p class="prezent__nagl">
         <a href={`/zestaw/${nr}/`} target="_blank" rel="noopener">LEGO {nr} {nazwa}</a>
         {status === 'eol' && <span class="status status--stop">wycofany</span>}
-        {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
+        {status === 'znika' && <span class="status status--maybe">{terminZnika}</span>}
       </p>
 
       <dl class="prezent__dane">
@@ -110,7 +114,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
     {dobra && (
       wProgu.length > 0 ? (
         <div class="prezent__kup">
-          <p class="prezent__kup-tytul">Kup teraz w</p>
+          <p class="prezent__kup-tytul">Dziś w dobrej cenie w:</p>
           <ul class="prezent__kup-lista">
             {wProgu.map((o, i) => (
               <li class={i === 0 ? 'prezent__kup-wiersz prezent__kup-wiersz--najtanszy' : 'prezent__kup-wiersz'}>
@@ -140,7 +144,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
         </>
       ))}
       {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}
-      <a class="przycisk-drugi" href={`/zestaw/${nr}/`} target="_blank" rel="noopener">wszystkie ceny i historia →</a>
+      <a class="przycisk-drugi" href={`/zestaw/${nr}/`} target="_blank" rel="noopener">wszystkie ceny →</a>
     </p>
   </div>
 </div>

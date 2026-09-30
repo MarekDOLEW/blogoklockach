@@ -17,6 +17,7 @@ import sety from '../../data/sety.json';
 import { urlZdjecia } from '../../lib/media.js';
 import { miesiac, ymZeSlugu, PROG_SETOW } from '../../lib/miesiace.js';
 import { statusNowosci } from '../../lib/premiery.js';
+import { odmien } from '../../lib/oferty.js';
 
 const ymSetu = (s) => String(s.premiera ?? '').slice(0, 7);
 
@@ -73,7 +74,7 @@ const KOMENTARZ = {
 };
 
 const tytul = `Premiery LEGO ${m.wMiesiacu} ${m.rok}`;
-const opis = `${zestawy.length} ${przyszly ? 'zapowiedzianych premier' : 'premier'} LEGO ${m.wMiesiacu} ${m.rok}: ceny katalogowe, liczba elementów i to, co z nich warto kupić. Dane aktualizujemy codziennie.`;
+const opis = `${zestawy.length} ${przyszly ? 'zapowiedzianych premier' : 'premier'} LEGO ${m.wMiesiacu} ${m.rok}: ceny katalogowe, liczba elementów i zdjęcia.`;
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -107,8 +108,8 @@ const jsonld = {
 
   <p>
     {przyszly
-      ? `W tym miesiącu do sprzedaży wchodzi ${zestawy.length} zapowiedzianych zestawów`
-      : `W tym miesiącu do sprzedaży weszło ${zestawy.length} zestawów`}
+      ? `W tym miesiącu do sprzedaży ${odmien(zestawy.length, 'wchodzi', 'wchodzą', 'wchodzi')} ${zestawy.length} ${odmien(zestawy.length, 'zapowiedziany zestaw', 'zapowiedziane zestawy', 'zapowiedzianych zestawów')}`
+      : `W tym miesiącu do sprzedaży ${odmien(zestawy.length, 'wszedł', 'weszły', 'weszło')} ${zestawy.length} ${odmien(zestawy.length, 'zestaw', 'zestawy', 'zestawów')}`}
     {serie.length > 1 ? ` z ${serie.length} serii` : ''}.
     {najdrozszy && najtanszy && najdrozszy.nr !== najtanszy.nr && (
       <span> Rozpiętość cen katalogowych: od <b>{fmt(najtanszy.cena_katalogowa)}</b> do <b>{fmt(najdrozszy.cena_katalogowa)}</b>.</span>
@@ -116,7 +117,7 @@ const jsonld = {
     {ekskluzywy.length > 0 && (
       <span> {ekskluzywy.length === 1
         ? 'Jedna pozycja jest ekskluzywna'
-        : `${ekskluzywy.length} pozycji jest ekskluzywnych`} dla oficjalnego sklepu LEGO – tam nie ma czego porównywać, cena jest jedna.</span>
+        : `${ekskluzywy.length} ${odmien(ekskluzywy.length, 'pozycja jest ekskluzywna', 'pozycje są ekskluzywne', 'pozycji jest ekskluzywnych')}`} dla oficjalnego sklepu LEGO – tam nie ma czego porównywać, cena jest jedna.</span>
     )}
   </p>
 

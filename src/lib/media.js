@@ -12,6 +12,7 @@
 import zdjeciaMapa from '../data/zdjecia.json';
 import opisyMapa from '../data/opisy.json';
 import wycofaniaDane from '../data/wycofania.json';
+import { wpisKatalogu } from './katalog.js';
 
 const wycofaniaFoto = new Map(
   (wycofaniaDane.wycofania ?? []).filter((w) => w.zdjecie).map((w) => [w.numer, w.zdjecie]),
@@ -49,15 +50,59 @@ export function urlZdjecia(nr, zrodla) {
   return zdjecieSetu(nr, zrodla)?.url ?? null;
 }
 
+// Opisy generowane (opisy.json, 22.09.2026) mają zdania o dostępności i o wieku
+// zestawu zapisane w dniu generowania: „Nie ma go już w śledzonych sklepach”,
+// „dziś dostępny głównie z drugiej ręki”, „Tegoroczna premiera”. Stały obok żywej
+// tabeli cen i jej przeczyły (audyt tekstów 30.09.2026: 60339 „z drugiej ręki”
+// obok Empiku −50% na /promocje-lego/). Dostępność pokazuje tabela, więc takie
+// zdania wypadają, a każde zdanie o roczniku sprowadzamy do „Zestaw z 2021 roku.” –
+// bez ocen („wyraźnie kolekcjonerski”, „Klasyk”) i bez czasu względnego, który
+// starzeje się sam. Dane w opisy.json zostają nietknięte (append-only).
+const ZDANIA_O_DOSTEPNOSCI = [
+  /^Poza bieżącą ofertą/,
+  /^Nie ma go już w śledzonych sklepach/,
+  /^Wycofany z bieżącej oferty/,
+  /^Nie widzimy go w żadnym ze śledzonych feedów/,
+  /^Jest w bieżącej ofercie/,
+  /^Aktualnie w sprzedaży/,
+  /^Wciąż dostępny w sklepach/,
+];
+const ZDANIE_O_ROCZNIKU =
+  /^(Zestaw z \d{4} roku\s*[,–]|Premiera w \d{4} roku|Rocznik \d{4}|Premiera w zeszłym roku|Tegoroczna premiera|Zestaw z bieżącego rocznika|Klasyk z \d{4} roku)/;
+
+/** Oczyszcza opis generowany; `rok` z katalogu dla zdań bez liczby („Tegoroczna premiera”). */
+export function oczyscOpisGenerowany(tekst, rok = null) {
+  const zdania = String(tekst ?? '').replace(/\s+/g, ' ').trim().split(/(?<=[.!?])\s+/);
+  const wynik = [];
+  let bylRocznik = false;
+  for (let z of zdania) {
+    if (!z || ZDANIA_O_DOSTEPNOSCI.some((r) => r.test(z))) continue;
+    if (ZDANIE_O_ROCZNIKU.test(z)) {
+      const r = z.match(/\b(19[4-9]\d|20\d\d)\b/)?.[1] ?? (rok ? String(rok) : null);
+      if (r && !bylRocznik) wynik.push(`Zestaw z ${r} roku.`);
+      bylRocznik = true;
+      continue;
+    }
+    // „598 elementów, czyli okolice mediany serii City.” – żargon statystyczny
+    z = z.replace(/^(\d[\d  ]*\s+element\S*), czyli okolice mediany (serii|linii) (.+)\.$/, '$1 to rozmiar typowy dla $2 $3.');
+    // „Zestaw średniej wielkości – 22 elementy.” – przy małych zestawach absurd
+    const sredni = z.match(/^Zestaw średniej wielkości – (\d[\d  ]*)\s+(element\S*)\.$/);
+    if (sredni && Number(sredni[1].replace(/\D/g, '')) < 150) z = `Niewielki zestaw: ${sredni[1]} ${sredni[2]}.`;
+    wynik.push(z);
+  }
+  return wynik.join(' ').trim() || null;
+}
+
 /** Opis zestawu: redakcyjny z sety.json ma pierwszeństwo nad generowanym. */
-export function opisSetu(nr, { sety = {} } = {}) {
+export function opisSetu(nr, { sety = {}, rok = null } = {}) {
   const klucz = String(nr);
   const redakcyjny = sety[klucz]?.opis;
   if (redakcyjny) return { tekst: redakcyjny, generowany: false };
 
   const generowany = opisyMapa[klucz];
   if (typeof generowany === 'string' && generowany.trim()) {
-    return { tekst: generowany, generowany: true };
+    const tekst = oczyscOpisGenerowany(generowany, rok ?? wpisKatalogu(klucz)?.rok ?? null);
+    return tekst ? { tekst, generowany: true } : null;
   }
 
   return null;

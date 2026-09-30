@@ -11,7 +11,7 @@ const { nr, eol = false } = Astro.props;
   <h2>Obserwuj cenę tego zestawu</h2>
   <p>
     {eol
-      ? 'LEGO zakończyło produkcję, ale inne sklepy bywają jeszcze z zapasami. Damy znać mailem, gdy któryś zejdzie z ceną wyraźnie poniżej katalogowej albo gdy zanotujemy nową najniższą cenę.'
+      ? 'LEGO zakończyło produkcję, ale w innych sklepach zestaw bywa jeszcze dostępny z zapasów. Damy znać mailem, gdy któryś zejdzie z ceną wyraźnie poniżej katalogowej albo gdy zanotujemy nową najniższą cenę.'
       : 'Wyślemy jeden mail, gdy zestaw zejdzie do promocji co najmniej 20% poniżej ceny katalogowej albo gdy zanotujemy nową najniższą cenę. Bez newslettera i bez reklam – rezygnacja jednym kliknięciem w każdej wiadomości.'}
   </p>
   <form method="post" action="/obserwuj" class="obserwuj-form">

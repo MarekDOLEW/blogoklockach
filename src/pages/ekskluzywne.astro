@@ -1,4 +1,5 @@
 ---
+import { odmien } from '../lib/oferty.js';
 // Zestawy z etykietą „Ekskluzywne" na lego.pl. Do 27.09.2026 strona pisała, że
 // sprzedaje je tylko LEGO i „cena jest jedna" (decyzja 15.09) — pomiar z 27.09:
 // 115 ze 133 miało ofertę w Empiku, Media Expercie, Planecie Klocków albo Smyku.
@@ -62,9 +63,9 @@ const faqSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   <article>
     <h1 style="margin-top:28px">Ekskluzywne zestawy LEGO – co znaczy etykieta i gdzie je kupić</h1>
-    <p class="eol-aktualizacja">{wSprzedazy.length} zestawów w sprzedaży{poEol.length ? ` · ${poEol.length} po zakończeniu produkcji` : ''}{dataListingu ? ` · listing lego.pl z ${dataPl(dataListingu)}` : ''}</p>
+    <p class="eol-aktualizacja">{wSprzedazy.length} {odmien(wSprzedazy.length, 'zestaw', 'zestawy', 'zestawów')} w sprzedaży{poEol.length ? ` · ${poEol.length} po zakończeniu produkcji` : ''}{dataListingu ? ` · listing lego.pl z ${dataPl(dataListingu)}` : ''}</p>
     <p class="prose prose--szeroki">Na lego.pl część zestawów stoi z etykietą <span class="badge-ex">ekskluzyw</span>: LEGO zastrzega je przede wszystkim dla własnego sklepu i salonów LEGO Store. <strong>Etykieta nie oznacza jednak, że kupisz je tylko tam.</strong> Część ekskluzywów – na stałe albo na jakiś czas – trafia do wybranych sieci. Z {wSprzedazy.length} zestawów na tej liście {wSieciach} widzimy dziś także w Empiku, Media Expercie, Planecie Klocków lub Smyku, często poniżej ceny LEGO. Dlatego zanim kupisz, otwórz stronę zestawu: piszemy tam, czy dziś sprzedaje go tylko LEGO, a tabela pokazuje ceny sklepów. Gdy zestaw jest wyłącznie u producenta, okazje to promocje LEGO: podwójne punkty Insiders, gratisy za zakupy powyżej progu i sezonowe obniżki.</p>
-    <p class="disclosure">Przyciski „Sprawdź cenę" prowadzą przez linki afiliacyjne – kupując przez nie, wspierasz serwis, nie płacąc więcej. Cena na LEGO.com pochodzi z cotygodniowego odczytu listingu lego.pl; wiążąca jest zawsze cena w koszyku sklepu.</p>
+    <p class="disclosure">Przyciski „Sprawdź cenę" to linki afiliacyjne: kupując przez nie, wspierasz serwis i nie płacisz więcej. Cena na LEGO.com pochodzi z cotygodniowego odczytu listingu lego.pl; wiążąca jest zawsze cena w koszyku sklepu.</p>
 
     {serie.length > 0 && <FiltrSetow serie={serie} liczbaWSerii={(s) => wSerii(s).length} rzeczownik="zestawów" />}
 

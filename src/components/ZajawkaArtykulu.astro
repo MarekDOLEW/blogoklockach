@@ -1,4 +1,5 @@
 ---
+import { dataPl } from '../lib/daty.js';
 // Karta artykułu: data i kategoria, pod nimi zdjęcie z tematu tekstu,
 // dalej tytuł i opis. Ten sam komponent na stronie głównej, w /artykuly/
 // i w /prezentownikach/ – trzy listingi wyglądają identycznie.
@@ -9,9 +10,10 @@ const Tytul = `h${poziom}`;
 // np. „7 lat" zamiast „Prezentownik" – dlatego do filtrowania służy osobne
 // pole `grupa`, a nie tekst widoczny w plakietce.
 const grupa = zajawka.grupa ?? zajawka.kategoria;
+const data = dataPl(zajawka.data);
 ---
 <a class="karta zajawka" href={zajawka.url} data-kategoria={grupa}>
-  <span class="nr">{zajawka.data} · {zajawka.kategoria}</span>
+  <span class="nr">{data} · {zajawka.kategoria}</span>
   {(zajawka.tagi ?? []).length > 0 && (
     <span class="zajawka-tagi">
       {zajawka.tagi.map((t) => <span class="badge-tag">{t}</span>)}
