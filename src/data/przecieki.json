@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-29"
+  "zaktualizowano": "2026-09-30"
  },
  "przecieki": [
   {
@@ -367,10 +367,10 @@
    "numer": "11390",
    "nazwa": "Shenlong (Dragon Ball) z minifigurką Goku",
    "seria": "Icons",
-   "elementy": null,
+   "elementy": 1764,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-11",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — pierwsze informacje",
@@ -381,11 +381,20 @@
      "nazwa": "StoneWars — „LEGO Teaser-Video zum großen Dragon Ball Set!”",
      "url": "https://stonewars.de/",
      "data": "2026-09-22"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z oficjalna nazwa, data startu i cenami czterech rynkow",
+     "url": "https://brickset.com/sets/11390-1",
+     "data": "2026-09-30"
     }
    ],
    "dodano": "2026-09-23",
    "uwagi": "Dowód po stronie producenta: StoneWars opisuje TEASER OD LEGO zapowiadający duży zestaw Dragon Ball na listopad, z minifigurką Goku. Karta 11390 w Brickset jest pusta — bez nazwy, elementów, ceny i daty; numer przypisuje wyłącznie StoneWars. Zapowiedź tematu przez LEGO nie jest tym samym co potwierdzenie danych katalogowych, dlatego zestaw zostaje w przeciekach. Pewność „srednia”: jedno źródło branżowe plus dowód (materiał LEGO). Do „wysokiej” brakuje drugiego serwisu zgodnego co do numeru i ceny. Jeśli się potwierdzi, byłaby to trzecia nowa licencja growo-rozrywkowa w katalogu po PlayStation i Zeldzie.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-30",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Nic istotnego. Termin zgodny: przeciek mówił „listopad”, Brickset podaje launchDate 2026-11-01. Numer zgodny. Nazwa oficjalna to „Dragon Ball: Shenron & Goku” — StoneWars pisał „Shenlong”, czyli tę samą postać w innej transliteracji. Doszły dane, których przeciek nie miał: 1764 elementy, wiek 18+, availability „Retail - limited”, RRP 139,99 euro (DE). Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json; polskiej ceny katalogowej LEGO jeszcze nie ogłosiło."
+   }
   },
   {
    "id": "11388",

@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-26",
+  "data_aktualizacji": "2026-09-30",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1177,
+  "liczba_setow": 1178,
   "sety": [
     "10280",
     "10281",
@@ -1179,7 +1179,8 @@
     "80120",
     "80121",
     "910059",
-    "40899"
+    "40899",
+    "11390"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1244,8 +1245,8 @@
     {
       "numer": "11390",
       "nazwa": "Shenlong / Dragon Ball (Icons) — zapowiedz niepotwierdzona",
-      "premiera": null,
-      "status": "StoneWars 2026-09-09: duzy zestaw Dragon Ball z minifigurka Goku na Jindujunie, listopad. Brickset ma 11390 jako pusty rekord Icons. JEDNO ZRODLO, PromoBricks milczy. Jesli sie potwierdzi, to trzecia nowa licencja w katalogu w ciagu trzech tygodni, po PlayStation i Zeldzie — ale na razie nie ma na to nic poza jednym tekstem."
+      "premiera": "2026-11",
+      "status": "UJAWNIONY 2026-09-30: karta Brickset z oficjalna nazwa „Dragon Ball: Shenron & Goku”, 1764 el., 18+, launchDate 2026-11-01, availability „Retail - limited”, RRP DE 139,99 EUR. Wpis dodany do sety.json, przeciek rozstrzygniety jako potwierdzony. Polskiej ceny katalogowej brak."
     },
     {
       "numer": "21364",
@@ -1611,6 +1612,60 @@
       "numer": "72188",
       "nazwa": "Editions — rezerwacja 2027",
       "status": "Brickset 2026-09-25: pusty rekord, kategoria '{t.b.a.}', motyw 'tbd'. Wychwycony 26.09, dopisany do sledzenia 29.09.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30755",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z zakresu polybagow 3075x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72361",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72362",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72363",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72364",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72365",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72366",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72367",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72368",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
       "premiera": "2027"
     }
   ],
@@ -6170,5 +6225,12 @@
     "rozbieznosc_ze_stonewars": "StoneWars 28.09 pisze o 24 pazdziernikowych nowosciach (w tym 9 z oznaczeniem 18+), my liczymy 20. Jedna roznica jest nazwana: 40909, ktory StoneWars wymienia jako trzeci gratis pazdziernika, a Brickset trzyma jako pusty rekord bez launchDate — dlatego nie wpada do naszego filtra po dacie startu i trafil do przeciekow. Reszty roznicy nie rozstrzygam: nasza liczba jest liczona po launchDate z Bricksetu, ich po ofercie niemieckiego sklepu LEGO, a te dwie definicje nie musza sie pokrywac. Do sprawdzenia w kolejnym przegladzie.",
     "status_nowosci_21375": "Godzilla (21375) stracila pole status_nowosci: przeciek. Brickset ma nazwe, 5364 elementy i launchDate 2026-11-27 — konkretna date, nie zastepcza '01-01' calego rocznika. Zgodnie z regula 'Brickset z oficjalna data = potwierdzenie' to juz nie jest przeciek. Ceny dalej brak, wiec zestaw zostaje w lukach katalogu. 77094 (Zelda) zostaje przeciekiem: w zrzucie rocznika 2027 ma released=false i pusty launchDate.",
     "nowy_przeciek": "40909 — pewnosc 'srednia'. Numer i forma gratisu z Bricksetu plus StoneWars, nazwa wylacznie z domyslu StoneWars (podana ze znakiem zapytania)."
+  },
+  "przeglad_2026_09_30": {
+    "nowosc": "11390 Dragon Ball: Shenron i Goku — Icons/Dragon Ball, 1764 el., 18+, start 2026-11-01, availability 'Retail - limited'. LEGO uruchomilo karte 30.09.2026 na czterech rynkach naraz (dateFirstAvailable identyczne dla US, UK, CA i DE), RRP DE 139,99 EUR. Polskiej ceny katalogowej nie ma ani w katalogu, ani w feedzie producenta, wiec cena_katalogowa zostaje null.",
+    "przeciek_rozstrzygniety": "11390 -> potwierdzony, pewnosc podniesiona z 'srednia' na 'wysoka'. Termin z przecieku (listopad) i numer zgodne. Nazwa oficjalna 'Shenron' zamiast 'Shenlong' ze StoneWars — ta sama postac, inna transliteracja, wiec nie 'zmieniony'.",
+    "kohorta_dragon_ball_2027": "Dziewiec nowych pustych rekordow zalozonych 29-30.09: 30755 (polybag) oraz 72361-72368. Wszystkie z motywem 'Dragon Ball' jako OSOBNYM motywem, nie podseria Icons — a 11390 jest Icons/Dragon Ball. To znaczy, ze licencja dostaje w 2027 wlasna linie, nie kolejny zestaw w Icons. Zgodnie z wzorcem rezerwacji: rozmiar fali (9 numerow) jest wiarygodny, termin nadania nazw nie.",
+    "odsiane": "EG00173 'White Road Bike parts' — motyw Miscellaneous, kategoria '{t.b.a.}', availability 'LEGO exclusive', prefiks EG (nie sprzedaz detaliczna). 71888 Ninjago dotkniety powtornie: kategoria zmienila sie z '{t.b.a.}' na 'Normal', nazwy dalej nie ma.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=29.09). PromoBricks i StoneWars sprawdzone osobno."
   }
 }
