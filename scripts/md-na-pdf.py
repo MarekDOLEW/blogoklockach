@@ -47,10 +47,22 @@ while i < len(linie):
                 poz[-1] += ' ' + linie[i].strip()
             i += 1
         out.append('<ul>' + ''.join(f'<li>{inline(p)}</li>' for p in poz) + '</ul>'); continue
+    # lista numerowana „1. …" (30.09.2026: raport audytu zlewal kroki w jeden akapit);
+    # wiersze wciete pod pozycja to jej ciag dalszy, jak w liscie punktowanej
+    if re.match(r'^\d+[.)]\s+', w):
+        poz = []
+        while i < len(linie) and (re.match(r'^\d+[.)]\s+', linie[i]) or (poz and linie[i].startswith('  ') and linie[i].strip())):
+            if re.match(r'^\d+[.)]\s+', linie[i]):
+                poz.append(re.sub(r'^\d+[.)]\s+', '', linie[i]))
+            else:
+                poz[-1] += ' ' + linie[i].strip()
+            i += 1
+        out.append('<ol>' + ''.join(f'<li>{inline(p)}</li>' for p in poz) + '</ol>'); continue
     # myslnik i gwiazdka otwieraja liste tylko ze spacja po nich - inaczej
     # akapit zaczynajacy sie od **pogrubienia** przepadal
     lista_lub_blok = lambda w: (w.lstrip().startswith(('|', '>', '#'))
-                                or re.match(r'^[-*]\s+', w.lstrip()) is not None)
+                                or re.match(r'^[-*]\s+', w.lstrip()) is not None
+                                or re.match(r'^\d+[.)]\s+', w) is not None)
     akapit = []
     while i < len(linie) and linie[i].strip() and not lista_lub_blok(linie[i]):
         akapit.append(linie[i].strip()); i += 1
@@ -70,7 +82,7 @@ h2 { font-size: 12.5pt; color: #0f2b57; margin: 20pt 0 6pt;
      padding-bottom: 4pt; border-bottom: 2px solid #f0c419; page-break-after: avoid; }
 h3 { font-size: 11pt; margin: 14pt 0 4pt; page-break-after: avoid; }
 p { margin: 0 0 7pt; }
-ul { margin: 0 0 8pt; padding-left: 16pt; }
+ul, ol { margin: 0 0 8pt; padding-left: 16pt; }
 li { margin-bottom: 2.5pt; }
 hr { border: 0; border-top: 1px solid #dfe3ea; margin: 14pt 0; }
 code { font-family: "DejaVu Sans Mono", monospace; font-size: 8.8pt;
