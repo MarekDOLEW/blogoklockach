@@ -84,8 +84,22 @@ function rozwinPole(pole, min, max) {
 }
 
 // Rozbija wyrażenie na momenty tygodnia: [{dzien, godz, min}]. null = nie umiem.
+// Od 30.09.2026 crony LEGO są zapisane jako „CRON_TZ=Europe/Warsaw 30 8 * * *"
+// (godzina polska, zmiana czasu 25.10 nie przesuwa zadań względem siebie).
+// Resztę skryptu zostawiamy w UTC: taki wpis przeliczamy na momenty UTC
+// z dzisiejszym przesunięciem. Inna strefa niż Warszawa = „nieobsługiwane".
 function momentyCrona(cron) {
   if (!cron) return null;
+  const tz = cron.trim().match(/^CRON_TZ=(\S+)\s+(.*)$/);
+  if (tz) {
+    if (tz[1] !== 'Europe/Warsaw') return null;
+    const lokalne = momentyCrona(tz[2]);
+    if (!lokalne) return null;
+    return lokalne.map(({ dzien, godz, min }) => {
+      const g = godz - PRZESUNIECIE;
+      return { dzien: (dzien + (g < 0 ? -1 : g >= 24 ? 1 : 0) + 7) % 7, godz: (g + 24) % 24, min };
+    });
+  }
   const pola = cron.trim().split(/\s+/);
   if (pola.length !== 5) return null;
   const [mi, go, , , dw] = pola;
@@ -234,7 +248,7 @@ for (const [klucz, lista] of Object.entries(kolizje).sort()) {
 
 // ── tekst ────────────────────────────────────────────────────────────────────
 const tabela = (wiersze) => [
-  '| Zadanie | Cron (UTC) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |',
+  '| Zadanie | Cron (UTC albo CRON_TZ) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |',
   '|---|---|---|---|---|---|---|',
   ...wiersze.map((w) => `| ${w.nazwa} | \`${w.cron}\` | ${w.pl} | ${w.stan} | ${w.odpalenie} | ${w.status} | \`${w.id}\` |`),
 ].join('\n');
@@ -324,7 +338,7 @@ const blokPromptow = [
   ...legoSurowe.flatMap((r) => [
     `## ${r.name}`,
     '',
-    `- ID: \`${r.id}\` · cron \`${r.cron_expression ?? '—'}\` (UTC) · ${r.enabled ? 'włączony' : 'WYŁĄCZONY'} · ${tryb(r)}`,
+    `- ID: \`${r.id}\` · cron \`${r.cron_expression ?? '—'}\` · ${r.enabled ? 'włączony' : 'WYŁĄCZONY'} · ${tryb(r)}`,
     '',
     '```',
     promptRoutine(r).trim() || '(brak promptu w odczycie)',

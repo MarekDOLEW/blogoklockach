@@ -92,6 +92,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-30 19:00 · CODE · Routines po audycie: czas polski, Łowca z buildem, Harmonogram w tej sesji
+
+**Zrobione na koncie:**
+- Crony runnerów LEGO w zapisie `CRON_TZ=Europe/Warsaw …` z tymi samymi godzinami PL
+  (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt, Harmonogram) — zmiana czasu 25.10
+  niczego nie przesunie; jednorazowe przypomnienie o DST niepotrzebne.
+- Łowca odtworzony (delete + create w tej samej sesji `session_01SdxKtAvW8UmktsuXrsPYga`,
+  nowe ID `trig_01L8awRzxEbeUSQsad7ye18Y`): `npm run build` przed pushem, przy konflikcie
+  `historia-cen/` z origin + `historia-cen.mjs` zamiast ręcznego scalania, `seo_tytul`/`seo_opis` w postach.
+- Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`
+  (`trig_01LU2xZxWqyCmNYv7rPyik3x`) + kontrola wielkości sesji runnerów (`get_session`, alarm > 850 tys.).
+  Scout 30.09: 313 tys. z 1 mln — nowa sesja niepotrzebna.
+- `harmonogram-z-konta.mjs` rozumie `CRON_TZ=Europe/Warsaw`.
+**Czeka na Marka (panel, zadania założone przez http_api — agent ich nie zmieni):** Alerty
+(cron + krok 2), Zdjęcia → R2 (cron 04:45 i 09:45), Przypomnienie (cron), wyłączenie
+„Empik co tydzien”, skasowanie Backfill.
+
 ## 2026-09-30 18:00 · CODE · Teksty szablonowe, SEO meta, odczyt GSC od Coworka
 
 **Zrobione:** `d526d69` — poprawki tekstów szablonowych z audytu (opisy generowane bez zdań
