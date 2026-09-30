@@ -92,6 +92,22 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-09-30 18:00 · CODE · Teksty szablonowe, SEO meta, odczyt GSC od Coworka
+
+**Zrobione:** `d526d69` — poprawki tekstów szablonowych z audytu (opisy generowane bez zdań
+o dostępności, odmiana liczebników, 880 kart z poprawionym akapitem rocznikowym). `259f5c9` —
+tytuły ≤ 60 i opisy ≤ 160 znaków na 1 433 indeksowanych stronach; pola `seo_tytul`/`seo_opis`
+(artykuły, deale) i `seoTytul`/`seoOpis` (prezentowniki), zasada w `redakcja/ustalenia-projektowe.md`.
+**GSC (odczyt Coworka + URL Inspection API 30.09):** raport „Strony” z 21.09 jest nieaktualny.
+10312 i 75355 nie mają już noindex. 0 z 133 stron z wyświetleniami zwraca 404 i 0 martwych
+linków wewnętrznych — 220 × 404 to stare adresy spoza serwisu, do obejrzenia przez eksport.
+Zgłoszenia Coworka zadziałały (x-kom WSR i 31163 zindeksowane 30.09).
+Niezindeksowane teksty: nieznane — 77242, najwieksze-zestawy-lego-star-wars,
+najdrozsze-zestawy-lego-rynek-wtorny; wykryte — allegro-black-weeks, jesien-swieta-premiery,
+wycofania-grudzien, 75438, 60508, bam-halloween, historia-licencji cz. 3; zeskanowane —
+super-mario-2027, najwieksze-technic.
+**Dla drugiej strony:** Cowork — 1.10 zgłoszenia wg listy w odpowiedzi Code (zaczynając od 75389).
+
 ## 2026-09-30 10:30 · CODE · Audyt po wdrożeniu 29.09: afiliacje, Cloudflare, Firecrawl, Routines, GSC, spójność, teksty
 
 **Zrobione:** `materialy/audyt-2026-09-30.md` (raport zbiorczy, 9 sekcji) + `audyt-2026-09-30.xlsx`
