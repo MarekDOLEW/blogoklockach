@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-09-30",
+  "data_aktualizacji": "2026-10-01",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1178,
   "sety": [
@@ -1667,6 +1667,12 @@
       "nazwa": "Dragon Ball — rezerwacja 2027",
       "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
       "premiera": "2027"
+    },
+    {
+      "numer": "5011071",
+      "nazwa": "Gingerbread House (promocyjny)",
+      "status": "Brickset 2026-10-01: rekord ma nazwe, ale zero danych — brak elementow, ceny i daty, availability '{Not specified}', kategoria '{t.b.a.}', motyw Promotional. Wyglada na swiateczna pozycje promocyjna.",
+      "premiera": "2026"
     }
   ],
   "luki_w_bazie": {
@@ -6232,5 +6238,13 @@
     "kohorta_dragon_ball_2027": "Dziewiec nowych pustych rekordow zalozonych 29-30.09: 30755 (polybag) oraz 72361-72368. Wszystkie z motywem 'Dragon Ball' jako OSOBNYM motywem, nie podseria Icons — a 11390 jest Icons/Dragon Ball. To znaczy, ze licencja dostaje w 2027 wlasna linie, nie kolejny zestaw w Icons. Zgodnie z wzorcem rezerwacji: rozmiar fali (9 numerow) jest wiarygodny, termin nadania nazw nie.",
     "odsiane": "EG00173 'White Road Bike parts' — motyw Miscellaneous, kategoria '{t.b.a.}', availability 'LEGO exclusive', prefiks EG (nie sprzedaz detaliczna). 71888 Ninjago dotkniety powtornie: kategoria zmienila sie z '{t.b.a.}' na 'Normal', nazwy dalej nie ma.",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=29.09). PromoBricks i StoneWars sprawdzone osobno."
+  },
+  "przeglad_2026_10_01": {
+    "fala_pazdziernikowa_start": "Dzien premiery. Wszystkie 18 sprzedazowych pozycji fali ma polska cene katalogowa zgodna co do grosza z feedem sklepu LEGO (zrzut z 29-30.09): 11379, 11387, 21371, 21373, 40862, 40865, 40866, 40868, 40874, 40875, 40880, 40958, 72306, 75457, 76347, 76348, 76352, 76788. Bez ceny sa tylko dwa gratisy, 40897 i 40899 — oba z bez_rrp. Fala zamknieta: 20 pozycji, 20 opisanych, 18 wycenionych.",
+    "korekta_21375": "Brickset WYCOFAL z karty 21375 nazwe i liczbe elementow. Bezposrednie zapytanie o karte (setNumber=21375-1, lastUpdated 2026-10-01 00:08 UTC) zwraca name '{?}', pieces null, availability '{Not specified}', released false; zostala tylko data startu 2026-11-27 i wiek 18+. 29.09 zdjalem temu wpisowi status_nowosci: przeciek wlasnie na podstawie nazwy plus daty — ta podstawa znikla, wiec status wraca. Nazwe i 5364 elementy zostawiam we wpisie, bo Brickset podawal je od 09.09, ale wpis jest znowu oznaczony jako przeciek.",
+    "zmiana_kanalu_40899": "Brickset zmienil 40899 availability z 'LEGO Gift with Purchase' na 'Retail - limited' (lastUpdated 2026-10-01 00:51 UTC). Nie traktuje tego jako zmiany statusu na detal: zestaw nie ma ceny detalicznej w zadnym z czterech rynkow Bricksetu ani wpisu w feedzie polskiego sklepu LEGO, a wszystkie 18 sprzedazowych pozycji fali ten feed ma. StoneWars tego samego dnia pisze o starcie sprzedazy fali 'z GWP od zaraz'. bez_rrp zostaje, w opisie dopisana informacja o zmianie.",
+    "odsiane": "5010878 (plytka 'I Love LEGO Store Praha Centrum', 1 element), 6644870, 6659451, 6674871 (45-55 elementow, availability 'Promotional'), BLOCKS143 i BLOCKS144 (czasopismo Blocks, kategoria 'Book'). 5011071 'Gingerbread House' ma nazwe bez zadnych danych — dopisany do zapowiedzi_sledzone.",
+    "sygnal_wycofan": "StoneWars 30.09 opublikowal 'Top 10 der LEGO EOL-Sets 2026'. Dziesiatka (75192, 42179, 40516, 75397, 10335, 21353, 40805, 21060, 31171, 60495) jest w calosci w wycofania.json. Poza nia artykul wskazuje jako EOL serie Harry Potter 'Zamek Hogwart' i 'Ulica Pokatna' — z wymienionych tam numerow 76477 nie ma w wycofania.json, wiec idzie do DZIENNIKA dla runnera Wycofan.",
+    "zrodla": "Brickset API — 3 wywolania getSets (przyrostowe updatedSince=30.09 oraz dwie karty pojedyncze: 21375-1 i 40899-1). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus artykul o EOL 2026."
   }
 }
