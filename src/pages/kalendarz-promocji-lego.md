@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-09-30"
+zaktualizowano: "2026-10-01"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -142,7 +142,9 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 | Gratis (GWP) | Warunek | Uwaga |
 |---|---|---|
 | 40897 Świetlny miecz Dartha Vadera (174 el.) | zakup [75457](/zestaw/75457/) | 1–7.10, do wyczerpania zapasów |
-| 40899 Astrobot | zakupy od **650 zł** (kwota do potwierdzenia) | 1–7.10; serwis branżowy zakłada, że **zakup samego Executora się nie liczy** |
+| 40899 Astrobot | zakupy od **625 albo 650 zł** – próg sporny | 1–7.10; dwa serwisy branżowe podają różne kwoty, oba „do potwierdzenia". Zakup samego Executora najpewniej **się nie liczy** |
+
+**Próg do Astrobota jest sporny, a okno trwa od dziś.** Jeden serwis branżowy podaje 625 zł, drugi około 650 zł; żaden nie ma potwierdzenia od LEGO. Jeśli planujesz zakup pod sam próg, licz się z wyższą kwotą i **sprawdź w koszyku, przy jakiej sumie gratis doskakuje** — to jedyny pewny sposób. Drugi serwis sugeruje też, że od 4 października Executor idzie do otwartej sprzedaży „bez gratisu"; ich własna lista gratisów mówi co innego (1–7.10), więc tego nie przesądzamy — jeśli celujesz w miecz świetlny, nie zwlekaj z decyzją do końca okna.
 
 **Co z tego wynika praktycznie.** Gratis idzie do wyczerpania zapasów, a nie do końca okna – przy zestawie tej rangi trzy dni przewagi Insiders mają realne znaczenie. Jeśli celujesz w Executora z mieczem, **konto Insiders trzeba mieć założone przed 1 października**, nie w dniu premiery. Dochodzi do tego zmiana, którą LEGO wprowadziło w sierpniu: punkty Insiders schodzą z konta dopiero przy złożeniu zamówienia, a nie przy odbiorze nagrody. Nie ma więc powodu wydawać ich wcześniej „na zaś" – można spokojnie poczekać z decyzją do premiery.
 
@@ -209,7 +211,7 @@ o tym, czy warto czekać:
 | 11379 Księgarnia, trzy zestawy Avengers: Doomsday (76347, 76348, 76352) | **są i są tańsze** od cennika | konkurencja cenowa działa, na Black Friday jest o co grać |
 | 72306 PlayStation, 11387 Świąteczny domek | są, ale **powyżej cennika** | to odsprzedaż, nie dystrybucja. 72306 ma wejść do szerokiej sprzedaży dopiero w grudniu |
 | 21371 Wallace i Gromit, 21373 Downton Abbey | brak | wyłączność czasowa: oferty zewnętrzne zwykle dochodzą po kilku tygodniach |
-| **Cała paczka świąteczna** – 40862 ozdoby, 40865 Elf Buddy, 40866 sanie Mikołaja, 40874 odliczanie, 40875 Pani Mikołajowa | **brak i nie będzie** | ekskluzywne dla LEGO, cena jedna przez cały sezon |
+| **Cała paczka świąteczna** – 40862 ozdoby, 40865 Elf Buddy, 40866 sanie Mikołaja, 40868 Red, 40874 odliczanie, 40875 Pani Mikołajowa, 40958 świąteczna skarpeta | **brak i nie będzie** | ekskluzywne dla LEGO, cena jedna przez cały sezon |
 
 **Jak sam to rozpoznasz.** Oferta w sklepie zewnętrznym **powyżej** ceny
 katalogowej przy świeżej premierze prawie zawsze znaczy odsprzedaż, a nie
