@@ -114,7 +114,14 @@ export function ocenaHubu(nr) {
   // 15.09.2026; wcześniej ~390 hubów z kartą stało poza indeksem, w tym
   // zapowiedzi przed premierą, których czytelnik szuka właśnie wtedy).
   const maKarte = (karty[klucz]?.akapity?.length ?? 0) >= 2 && (karty[klucz]?.faq?.length ?? 0) >= 3;
-  const wyjatek = wPrezentowniku(klucz) ? 'prezentownik' : goracyDeal(klucz) ? 'deal' : maKarte ? 'karta' : null;
+  // Własny opis w sety.json (opis + persony) dłuższy niż próg — też pełna treść,
+  // nie szablon (decyzja Marka 02.10.2026: 18 hubów z opisem stało poza indeksem,
+  // m.in. Rivendell, Concorde, Ferrari Daytona). Przecieki zostają poza indeksem —
+  // dane niepotwierdzone przez LEGO.
+  const s0 = sety[klucz];
+  const opisWlasny = bezHtml(s0?.opis).length + bezHtml(s0?.dla_rodzica).length + bezHtml(s0?.dla_afol).length;
+  const maOpis = opisWlasny > MIN_ZNAKOW_OPISU && s0?.status_nowosci !== 'przeciek';
+  const wyjatek = wPrezentowniku(klucz) ? 'prezentownik' : goracyDeal(klucz) ? 'deal' : maKarte ? 'karta' : maOpis ? 'opis' : null;
 
   return { indeksowalny: Boolean(wyjatek) || spelnione >= MIN_WARUNKOW, warunki, spelnione, wyjatek };
 }
