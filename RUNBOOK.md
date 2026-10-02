@@ -323,14 +323,51 @@ pominąć. Dwie pułapki na przyszłość:
   chodząc faktycznie o 08:00; próba „naprawy" na 07:00 pogorszyła sprawę,
   bo trafiała przed upload feedu.
 
-**Stron produktowych ME nie da się weryfikować punktowo z sesji.** curl
-i WebFetch dostają HTTP 403, prawdziwa przeglądarka (Chromium) — reset
-połączenia. ME blokuje ruch z data center. WebFetch działał do 16.08.2026,
-potem przestał.
+**Stron produktowych ME nie otwiera curl ani WebFetch** — HTTP 403, bo ME
+blokuje ruch z data center (WebFetch działał do 16.08.2026, potem przestał);
+goły curl i curl z nagłówkami przeglądarki dostają tę samą 403 ze stroną blokady,
+która nie ma w ogóle ceny w meta. **Firecrawl wchodzi** (`proxy: basic`,
+HTTP 200, 1 kredyt za kartę w formacie markdown) i to on jest naszą drogą do
+kart ME.
 
-Wniosek obowiązujący: **ceny ME bierzemy wyłącznie z feedu afiliacyjnego**
-(oficjalny, wiarygodny). Weryfikację na stronach robimy tylko dla Planety
-Klocków.
+### Feed ME kłamie o cenach w obie strony *(ustalone 02.10.2026)*
+
+Poprzedni wniosek — „ceny ME bierzemy wyłącznie z feedu afiliacyjnego, bo jest
+oficjalny i wiarygodny" — **jest nieprawdziwy i został wycofany.** Dwa osobne
+błędy, oba zmierzone na kartach przez Firecrawla:
+
+1. **Promocja siedzi w `<g:sale_price>`, nie w `<g:price>`.** Parser czytał samo
+   `g:price`, czyli cenę regularną, przez cały czas trwania promocji. 60499:
+   feed 199,99 — karta 179,00. Po łatce 143 zestawy dostały niższą, prawdziwą
+   cenę (mediana rabatu 8,4%, maksimum 39,9%). To było główne źródło zawyżonych
+   kwot w hubach.
+2. **Nawet `g:price` bywa nieaktualny wobec karty**, i to znacznie: 10440 feed
+   84,99 / karta 52,89; 71513 feed 219,99 / karta 146,36; 10300 feed 849,99 /
+   karta 775,00; 42213 feed 202,99 / karta 185,50. W próbie dziesięciu
+   największych skoków po łatce rozbieżność została w jednym przypadku, ale na
+   pięciu sprawdzonych „wzrostach" cztery były wymysłem feedu.
+
+Kierunek błędu jest zawsze ten sam i najgorszy z możliwych: **feed pokazuje
+więcej, niż czytelnik zapłaci w sklepie.**
+
+Stąd dwie reguły:
+
+- `g:price` to cena regularna; cena do zapłaty to `g:sale_price`, gdy jest.
+  **Tak samo na karcie**: `product:sale_price:amount` wygrywa z
+  `product:price:amount`, a `product:original_price:amount` NIE jest ceną
+  regularną — powtarza `price` (72050: price 829,99 + sale_price 499,00).
+- Ceny wątpliwe sprawdzamy na kartach — robi to `me-ceny-stron.mjs`, wołany
+  przez `feedy-lego.py` od razu po sparsowaniu feedu, więc Łowca dostaje już
+  poprawiony wyciąg i nikt nie musi o tym pamiętać. Nie sprawdzamy wszystkich
+  ~750 kart, bo budżet Firecrawla to 5 000 kredytów na miesiąc — kryteria wyboru
+  i limit opisuje `scripts/README.md`.
+
+**Pułapka przy czytaniu surowego feedu:** każde `<entry>` ma po kilka elementów
+`<g:price>`, ale dodatkowe siedzą w `<g:shipping>` (14,90 kurier, 7,99 InPost,
+0,00 przy darmowej dostawie). `findtext`/`findall` patrzą tylko na dzieci
+`<entry>`, więc cena produktu jest jedna. Grep po pliku pokazuje wszystkie
+i wygląda to na zdublowaną cenę z zerem na początku — 02.10.2026 na tej podstawie
+postawiliśmy w tym repo tezę o „zdublowanym `g:price`", która była nieprawdziwa.
 
 ---
 

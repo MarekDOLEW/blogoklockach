@@ -51,8 +51,8 @@
  "77263": {
   "nazwa": "BMW M3 E30",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 79.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 74.99,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "10300": {
@@ -142,9 +142,9 @@
  "11513": {
   "nazwa": "Kompozycja z ciemnych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 249.99,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "lego"
+  "najnizsza_cena": 199.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75455": {
   "nazwa": "Boba Fett",
@@ -254,16 +254,16 @@
  "76354": {
   "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
   "cena_katalogowa": 1599.99,
-  "najnizsza_cena": 1089,
-  "najnizsza_data": "2026-09-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 999.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21368": {
   "nazwa": "Fistaszki: Buda Snoopy'ego",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 224.9,
-  "najnizsza_data": "2026-09-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 199.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77264": {
   "nazwa": "Jaguar Project 7 i Land Rover Defender",
@@ -296,9 +296,9 @@
  "42240": {
   "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 659,
-  "najnizsza_data": "2026-09-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 649.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75453": {
   "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
@@ -457,9 +457,9 @@
  "43028": {
   "nazwa": "Płyta winylowa Olivii Rodrigo",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 86.4,
-  "najnizsza_data": "2026-09-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 86.3,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
@@ -807,9 +807,9 @@
  "77081": {
   "nazwa": "Kitek",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 280,
-  "najnizsza_data": "2026-08-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 269.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77978": {
   "nazwa": "Ciężarówka do transportu młodego tyranozaura",
@@ -891,9 +891,9 @@
  "60494": {
   "nazwa": "Wywrotka i ładowarka czołowa",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 348.99,
-  "najnizsza_data": "2026-08-29",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 329.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21592": {
   "nazwa": "Atak kurzego jeźdźca na pustyni",
@@ -919,9 +919,9 @@
  "60506": {
   "nazwa": "Tramwaj przy plaży",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 189.9,
-  "najnizsza_data": "2026-09-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 179.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43289": {
   "nazwa": "Zaczarowany zamek Pięknej i Bestii",
@@ -954,9 +954,9 @@
  "77082": {
   "nazwa": "Jaskinia Ubawu",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 579,
-  "najnizsza_data": "2026-09-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 549.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42704": {
   "nazwa": "Grand Hotel w mieście Heartlake",
@@ -1010,9 +1010,9 @@
  "11217": {
   "nazwa": "Rodzina Blue z klocków",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 199,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 189.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21597": {
   "nazwa": "Stacja Ghasta",
@@ -1325,9 +1325,9 @@
  "42702": {
   "nazwa": "Wróżkowa karuzela z kwiatami",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 116.99,
-  "najnizsza_data": "2026-08-31",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10462": {
   "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
@@ -1339,8 +1339,8 @@
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 82,
-  "najnizsza_data": "2026-09-13",
+  "najnizsza_cena": 79.5,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "76346": {
@@ -1388,9 +1388,9 @@
  "71053": {
   "nazwa": "Seria Shrek",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 12.99,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 12.8,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "40975": {
   "nazwa": "Minizamek Hogwart",
@@ -1444,9 +1444,9 @@
  "72163": {
   "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 221.79,
+  "najnizsza_cena": 169.0,
   "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "mediaexpert"
  },
  "72164": {
   "nazwa": "SMART Play: Dom treningowy z Pikachu",
@@ -1479,9 +1479,9 @@
  "72166": {
   "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 269.0,
-  "najnizsza_data": "2026-09-28",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 199.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
@@ -1507,9 +1507,9 @@
  "72165": {
   "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 261.46,
+  "najnizsza_cena": 189.0,
   "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "mediaexpert"
  },
  "72161": {
   "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
@@ -1528,9 +1528,9 @@
  "75426": {
   "nazwa": "SMART Play: Sokół Millennium",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 296.99,
-  "najnizsza_data": "2026-09-28",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 279.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "30729": {
   "nazwa": "Premierball",
@@ -1577,7 +1577,10 @@
  },
  "42151": {
   "nazwa": "Bolid Bugatti",
-  "cena_katalogowa": 214.99
+  "cena_katalogowa": 214.99,
+  "najnizsza_cena": 155.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42161": {
   "nazwa": "Lamborghini Huracán Tecnica",
@@ -1666,7 +1669,10 @@
  },
  "42130": {
   "nazwa": "BMW M 1000 RR",
-  "cena_katalogowa": 1079.99
+  "cena_katalogowa": 1079.99,
+  "najnizsza_cena": 769.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76453": {
   "nazwa": "Dwór Malfoyów",
@@ -1763,9 +1769,9 @@
  "11378": {
   "nazwa": "Samolot pasażerski Douglas DC-3 PAN AM",
   "cena_katalogowa": 949.99,
-  "najnizsza_cena": 945,
-  "najnizsza_data": "2026-09-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 749.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11371": {
   "nazwa": "Ulica handlowa",
@@ -1847,8 +1853,8 @@
  "75442": {
   "nazwa": "Myśliwiec N-1 Mandalorianina",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 879.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 849.0,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "71861": {
@@ -1861,16 +1867,16 @@
  "60508": {
   "nazwa": "Napad na policyjny pociąg",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 599,
-  "najnizsza_data": "2026-08-27",
+  "najnizsza_cena": 549.0,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "42228": {
   "nazwa": "Bolid McLaren MCL39 F1",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 619,
-  "najnizsza_data": "2026-09-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 599.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42691": {
   "nazwa": "Restauracja z ogrodem",
@@ -1882,9 +1888,9 @@
  "42224": {
   "nazwa": "Porsche 911 GT3 R Rexy AO Racing",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 398.11,
-  "najnizsza_data": "2026-09-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 389.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75427": {
   "nazwa": "SMART Play: Pojedynek w sali tronowej i A-wing",
@@ -1910,9 +1916,9 @@
  "43301": {
   "nazwa": "Podpórki do książek ze Sprężynkiem (Toy Story)",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 441.98,
-  "najnizsza_data": "2026-09-27",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 399.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42115": {
   "nazwa": "Lamborghini Sián FKP 37",
@@ -2043,9 +2049,9 @@
  "75409": {
   "nazwa": "Patrolowiec typu Firespray Jango Fetta",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 1084.39,
-  "najnizsza_data": "2026-09-30",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 969.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10323": {
   "nazwa": "Automat do gry PAC-MAN",
@@ -2274,9 +2280,9 @@
  "10334": {
   "nazwa": "Retro radio",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 374.98,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 319.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76291": {
   "nazwa": "Avengers: Czas Ultrona",
@@ -2512,8 +2518,8 @@
  "60337": {
   "nazwa": "Ekspresowy pociąg pasażerski",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 493.16,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 449.0,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "10359": {
@@ -3065,9 +3071,9 @@
  "10330": {
   "nazwa": "McLaren MP4/4 i Ayrton Senna",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 204.98,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 199.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60444": {
   "nazwa": "F1 Garaż i bolidy Mercedes-AMG i Alpine",
@@ -3163,9 +3169,9 @@
  "60445": {
   "nazwa": "F1 Ciężarówka z bolidami RB20 i AMR24 F1",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 278.99,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 269.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "41707": {
   "nazwa": "Furgonetka do sadzenia drzew",
@@ -3198,9 +3204,9 @@
  "42686": {
   "nazwa": "Niezwykła sala zabaw",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 164.99,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 159.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10443": {
   "nazwa": "Pierwszy raz na lotnisku",
@@ -3394,9 +3400,9 @@
  "75425": {
   "nazwa": "SMART Play: Kantyna Mos Eisley",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 219,
-  "najnizsza_data": "2026-09-18",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 209.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71854": {
   "nazwa": "Mech specjalny Cole’a i Zane w smoczej zbroi",
@@ -3457,9 +3463,9 @@
  "76470": {
   "nazwa": "Zaczarowany latający Ford Anglia",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 219.99,
-  "najnizsza_data": "2026-09-20",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 189.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10449": {
   "nazwa": "Pierwszy raz: wizyta u lekarza",
@@ -4689,9 +4695,9 @@
  "77245": {
   "nazwa": "Bolid F1 Aston Martin Aramco AMR24",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 78.69,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 74.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75449": {
   "nazwa": "Oblężenie Mandalory – zestaw bitewny",
@@ -4885,8 +4891,8 @@
  "60479": {
   "nazwa": "Furgonetka policyjnego konwoju więziennego",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.89,
-  "najnizsza_data": "2026-09-25",
+  "najnizsza_cena": 49.99,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "21269": {
@@ -4920,9 +4926,9 @@
  "60491": {
   "nazwa": "Laweta dla motocykli",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 51.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60430": {
   "nazwa": "Statek międzygwiezdny",
@@ -5074,9 +5080,9 @@
  "71514": {
   "nazwa": "Dinostatek kosmiczny",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 276.94,
-  "najnizsza_data": "2026-09-27",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 269.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60402": {
   "nazwa": "Niebieski monster truck",
@@ -5102,8 +5108,8 @@
  "60443": {
   "nazwa": "F1 Pit stop i mechanicy z bolidem Ferrari",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 84.99,
-  "najnizsza_data": "2026-09-15",
+  "najnizsza_cena": 79.99,
+  "najnizsza_data": "2026-10-02",
   "najnizsza_sklep": "mediaexpert"
  },
  "76920": {
@@ -5445,9 +5451,9 @@
  "71512": {
   "nazwa": "Krokodylołódź podwodna",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 196.99,
-  "najnizsza_data": "2026-09-21",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 179.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71420": {
   "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
@@ -6054,9 +6060,9 @@
  "40820": {
   "nazwa": "Powiększona minifigurka Świętego Mikołaja",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 185.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 181.59,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42616": {
   "nazwa": "Pokaz talentów muzycznych w szkole w Heartlake City",
@@ -6201,9 +6207,9 @@
  "43015": {
   "nazwa": "Lionel Messi – piłkarska legenda",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 236.98,
-  "najnizsza_data": "2026-09-21",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 219.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "40864": {
   "nazwa": "Mistrz Szczęścia",
@@ -6943,9 +6949,9 @@
  "60404": {
   "nazwa": "Ciężarówka z burgerami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 50.98,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 49.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10989": {
   "nazwa": "Park wodny",
@@ -7146,9 +7152,9 @@
  "75445": {
   "nazwa": "Anzellański statek gwiezdny",
   "cena_katalogowa": 319.99,
-  "najnizsza_cena": 218.9,
-  "najnizsza_data": "2026-09-16",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 199.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42692": {
   "nazwa": "Stoisko z lodami i balonami",
@@ -7615,9 +7621,9 @@
  "10467": {
   "nazwa": "Dom rodzinny",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 209.97,
-  "najnizsza_data": "2026-09-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 189.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75345": {
   "nazwa": "Zestaw bitewny – żołnierze-klony z 501. legionu",
@@ -7916,9 +7922,9 @@
  "72050": {
   "nazwa": "Mario Kart - Luigi i Mach 8",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 544.9,
-  "najnizsza_data": "2026-09-27",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 499.0,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11379": {
   "nazwa": "Księgarnia — zakątek z książkami",

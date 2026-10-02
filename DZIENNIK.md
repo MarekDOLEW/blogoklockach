@@ -92,6 +92,56 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-02 12:40 · RADAR · Media Expert: sprostowanie diagnozy i poprawka w parserze
+
+**Sprostowanie do wpisu z dzisiejszego 08:00.** Napisałem tam, że zawyżone ceny
+Media Expertu to skutek niepełnego odświeżenia (594 z 735 pozycji z datą 29.09
+lub starszą). To nie była przyczyna. Dzisiejszy świeży feed
+(`mediaexpert_feed_updated: 2026-10-02 00:30 CEST`) zwrócił **te same stare
+kwoty**, więc świeżość danych nie miała z tym nic wspólnego.
+
+**Prawdziwa przyczyna — dwie, obie zmierzone na kartach przez Firecrawla:**
+
+1. `scripts/feedy-lego.py` czytał tylko `<g:price>`, a cena promocyjna siedzi
+   w `<g:sale_price>`. `g:price` zostaje przez cały czas promocji ceną regularną,
+   więc czytelnik widział u nas kwoty wyższe od sklepowych (60499: feed 199,99,
+   karta 179,00). Po łatce **143 zestawy dostały niższą, prawdziwą cenę** —
+   mediana rabatu 8,4%, maksimum 39,9%; 10 z 11 kontrolnych zgadza się teraz
+   co do groszy z listą przecen, którą opisał faniklockow.
+2. Nawet `g:price` bywa rozjechany z kartą, i to mocno: 10440 feed 84,99 /
+   karta 52,89; 71513 feed 219,99 / karta 146,36; 10300 feed 849,99 /
+   karta 775,00; 42213 feed 202,99 / karta 185,50. Na pięciu sprawdzonych
+   „wzrostach ceny" **cztery były wymysłem feedu**. Kierunek błędu zawsze ten
+   sam: feed pokazuje więcej, niż się płaci w sklepie.
+
+**Druga rzecz do odnotowania jako błąd mój:** w pierwszej wersji łatki
+zapisałem, że `<g:price>` bywa zdublowane z „0 PLN" na początku. Nieprawda —
+dodatkowe `<g:price>` siedzą w `<g:shipping>` (kurier 14,90, InPost 7,99, 0,00
+przy darmowej dostawie), a `findtext` i tak patrzy tylko na dzieci `<entry>`.
+Teza wzięła się z grepa po surowym pliku. Komentarz w skrypcie i RUNBOOK mówią
+teraz, jak ten plik wygląda naprawdę.
+
+**Zrobione w repo:**
+- `scripts/feedy-lego.py` — `g:sale_price` przed `g:price`, pole `cena_regularna`
+  w wyciągu.
+- `scripts/me-ceny-stron.mjs` (nowy) — kontrola cen ME na kartach produktów przez
+  Firecrawla, wołana automatycznie przez `feedy-lego.py`, więc Łowca dostaje już
+  poprawiony wyciąg i prompt Routine'a nie wymaga zmiany. Sprawdza wąski podzbiór
+  (skok ceny powyżej 15% albo ME najtańszy z przewagą powyżej 10%), limit 80 kart
+  i budżet 900 s, bo karta to 1 kredyt Firecrawla przy 5 000 na miesiąc.
+  Bez `FIRECRAWL_KEY` przepuszcza wyciąg bez zmian — nie może wywrócić Łowcy.
+- RUNBOOK: **wycofany** dotychczasowy wniosek „ceny ME bierzemy wyłącznie z feedu,
+  bo jest oficjalny i wiarygodny" oraz zdanie, że kart ME nie da się sprawdzić
+  z sesji (Firecrawl wchodzi, `proxy: basic`, 1 kredyt).
+- Ceny ME w `oferty_feed.json`, `sety.json` i minima w `ceny_baza.json` nanie-
+  sione poprawnym parserem na dane, które Łowca zapisał dziś starym.
+
+**Zrobić:** — przy następnym przeglądzie budżetu Firecrawla sprawdzić, czy limit
+80 kart dziennie wystarcza; dziś kandydatów było 85, ale to jednorazowy efekt
+samej poprawki — w normalny dzień kryterium „skok ceny" powinno dawać kilka.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-10-02 08:00 · RADAR · Do zrobienia
 
 **Media Expert · 1.10** — od rana 1 października ruszyła u nich duża fala przecen na LEGO (20–44%, kilka pozycji „historycznie najtaniej"), a nasze ceny Media Expert tego nie widzą.

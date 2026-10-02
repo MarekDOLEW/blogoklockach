@@ -158,7 +158,20 @@ def z_mediaexpert():
         if marka.upper() == 'LEGO':
             dopasowanie = WZORZEC_LEGO.match(tytul)
             if dopasowanie:
-                cena = cena_liczba(el.findtext(G + 'price'))
+                # Cena promocyjna siedzi w <g:sale_price>, a <g:price> zostaje
+                # regularna (potwierdzone 02.10.2026). Czytanie samego g:price
+                # pokazywalo czytelnikowi kwoty wyzsze od tych w sklepie przez
+                # caly czas trwania promocji — 60499: feed 199,99, karta 179,00.
+                #
+                # Uwaga na mylacy ksztalt wpisu: kazde <entry> ma po kilka
+                # elementow <g:price>, ale te dodatkowe siedza w <g:shipping>
+                # (14,90 kurier, 7,99 InPost, 0 przy darmowej dostawie). findtext
+                # i findall patrza tylko na dzieci <entry>, wiec cena produktu
+                # jest jedna; grep po pliku pokazuje wszystkie i wyglada to na
+                # zdublowana cene z zerem na poczatku. Nie jest.
+                regularna = cena_liczba(el.findtext(G + 'price'))
+                promocyjna = cena_liczba(el.findtext(G + 'sale_price'))
+                cena = promocyjna or regularna
                 if cena:
                     nr = dopasowanie.group(1)
                     dostepny = (el.findtext(G + 'availability') or '').strip() == 'In stock'
@@ -166,6 +179,7 @@ def z_mediaexpert():
                     if not stara or cena < stara['cena']:
                         oferty[nr] = {
                             'cena': cena,
+                            'cena_regularna': regularna if promocyjna and regularna and regularna > cena else None,
                             'link': (el.findtext(G + 'link') or '').strip(),
                             'zdjecie': (el.findtext(G + 'image_link') or '').strip(),
                             'dostepny': dostepny,
@@ -174,6 +188,28 @@ def z_mediaexpert():
         el.clear()  # bez tego 600 MB ląduje w pamięci
     os.unlink(plik)
     return oferty, {'feed_updated': updated}
+
+
+def karty_me(wynik):
+    """Kontrola cen ME na kartach produktów — `me-ceny-stron.mjs` na wyciągu.
+
+    Feed ME rozjeżdża się z kartą w obie strony (powody i próba w nagłówku tego
+    skryptu), a karta jest tym, co czytelnik zapłaci. Sprawdzamy więc wąski
+    podzbiór ofert — te, w których błędna cena faktycznie myli — i podmieniamy
+    w wyciągu cenę na tę z karty. Skrypt sam pilnuje budżetu Firecrawla i bez
+    klucza przepuszcza wyciąg bez zmian, więc ten krok nie może wywrócić Łowcy.
+    """
+    proces = subprocess.run(
+        ['node', 'scripts/me-ceny-stron.mjs'], cwd=KATALOG,
+        input=json.dumps(wynik, ensure_ascii=False), capture_output=True,
+        text=True, timeout=1800,
+    )
+    linie = [l.strip() for l in (proces.stderr or '').splitlines() if l.strip()]
+    for linia in linie:
+        print(linia, file=sys.stderr)
+    if proces.returncode != 0 or not (proces.stdout or '').strip():
+        raise RuntimeError(linie[-1] if linie else f'kod wyjścia {proces.returncode}')
+    return json.loads(proces.stdout)
 
 
 def z_planetyklockow():
@@ -505,6 +541,14 @@ if __name__ == '__main__':
         except Exception as blad:  # feed niedostępny nie może przerwać pozostałych
             wynik['_meta']['bledy'][sklep] = str(blad)
             print(f'{sklep}: BŁĄD — {blad}', file=sys.stderr)
+
+    # Ceny ME z kart produktów — poprawka do feedu, zanim cokolwiek ruszy dalej.
+    if wynik.get('mediaexpert'):
+        try:
+            wynik = karty_me(wynik)
+        except Exception as blad:
+            wynik['_meta']['bledy']['mediaexpert_karty'] = str(blad)
+            print(f'me-ceny-stron: BŁĄD — {blad}', file=sys.stderr)
 
     # Adresy kart produktów z dzisiejszych feedów — zanim Łowca zacznie liczyć ceny.
     if wybrane and not args.tylko_td:
