@@ -589,20 +589,15 @@ if __name__ == '__main__':
             wynik['_meta']['bledy'][zadanie] = podsumowanie
         print(f'{zadanie}: {"ok" if ok else "BŁĄD"} — {podsumowanie}', file=sys.stderr)
 
-    # Historia cen — jedna linia na zestaw tylko wtedy, gdy cena się ruszyła.
-    # Tu, bo Łowca uruchamia ten skrypt codziennie po imporcie feedów, a seria
-    # czasowa ma sens wyłącznie wtedy, gdy zbiera się bez przerw.
-    try:
-        h = subprocess.run(['node', 'scripts/historia-cen.mjs'], cwd=KATALOG,
-                           capture_output=True, text=True, timeout=180)
-        linia = [l for l in (h.stdout or '').splitlines() if l.strip()]
-        wynik['_meta']['historia_cen'] = linia[-1] if linia else 'brak wyjścia'
-        if h.returncode != 0:
-            wynik['_meta']['bledy']['historia_cen'] = (h.stderr or '').strip()[:200]
-        print(f'historia-cen: {wynik["_meta"]["historia_cen"]}', file=sys.stderr)
-    except Exception as blad:
-        wynik['_meta']['bledy']['historia_cen'] = str(blad)
-        print(f'historia-cen: BŁĄD — {blad}', file=sys.stderr)
+    # HISTORII CEN TU NIE MA — i to jest celowe (poprawione 02.10.2026).
+    # `historia-cen.mjs` porównuje `oferty_feed.json` z `_ostatnie.json`, a ten
+    # skrypt tylko robi wyciąg: ceny do `oferty_feed.json` nanosi Łowca dopiero
+    # po nas. Wołany stąd skrypt widział więc stan wczorajszy i codziennie
+    # spisywał wczorajsze zmiany — 02.10 po przebiegu Łowcy plik miał 65 wpisów
+    # z dzisiejszą datą, a uruchomienie po naniesieniu danych dopisało 1310.
+    # Historię spisuje teraz Łowca na końcu swojego przebiegu, razem z
+    # `generuj-obrazy.mjs` i `porzadek-ofert.mjs` (krok PRZED COMMITEM w jego
+    # promptcie). Nie wracać z tym wywołaniem tutaj.
 
     if args.tylko_td:
         print('--tylko-td: wyciągu nie zapisuję.', file=sys.stderr)

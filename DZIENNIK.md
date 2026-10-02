@@ -151,12 +151,30 @@ a uruchomienie skryptu po naniesieniu danych dopisało **1310** (986 Allegro,
 321 Media Expert, 3 Planeta Klocków) — tyle zmian cen z dziś nie było zapisanych.
 Te 1310 wpisów dopisałem w tym przebiegu, więc dzisiejszy dzień jest kompletny.
 
-**Zrobić:** — przenieść wywołanie `historia-cen.mjs` z `feedy-lego.py` na koniec
-przebiegu Łowcy (po zapisaniu `oferty_feed.json`). Sam nie ruszam: wyjęcie
-wywołania ze skryptu bez równoczesnego dopisania kroku do promptu Routine'a
-zatrzymałoby zbieranie historii w ogóle, a prompt stałej sesji zmienia się
-na koncie (delete + create), nie w repo.
-**Kto:** — Marek (prompt Łowcy) + Code (skrypt, w tej samej zmianie)
+**ZROBIONE tego samego dnia** (Marek: „zmień ten prompt Łowcy sam"). Wywołanie
+`historia-cen.mjs` wyjęte z `feedy-lego.py` i dopisane do promptu Łowcy jako
+trzeci skrypt w kroku PRZED COMMITEM — oba końce w jednej zmianie, więc
+zbieranie historii nigdzie nie wypada.
+
+Prompt: `update_trigger` odmawia zmiany instrukcji z innej sesji niż ta, do
+której Routine wpada („a routine's instructions can be changed only from the
+conversation the routine posts into"), więc delete+create — tak jak mówi
+CLAUDE.md. Najpierw create, potem delete, żeby ani na chwilę nie zostać bez
+Routine'a. Nowy `trig_01RjjGRUpJ8QVvhBQrLXiy7Z` (stary
+`trig_01L8awRzxEbeUSQsad7ye18Y` skasowany), ta sama stała sesja
+`session_01SdxKtAvW8UmktsuXrsPYga`, ten sam cron `CRON_TZ=Europe/Warsaw 30 8 * * *`,
+następny przebieg 03.10 08:34 PL. Sprawdzone po zmianie: sesja Łowcy żyje,
+na liście jest dokładnie jeden Routine Łowcy.
+
+Przy okazji w promptcie: pole `_meta.mediaexpert_karty` do raportu, weryfikacja
+kart ME przez Firecrawla zamiast WebFetcha (ME oddaje 403) i liczba nowych wpisów
+historii w podsumowaniu.
+
+**Zrobić:** — przy następnym przeglądzie budżetu Firecrawla sprawdzić, czy limit
+80 kart dziennie wystarcza (dziś 85 kandydatów to jednorazowy efekt poprawki),
+i czy pierwszy przebieg Łowcy na nowym promptcie 03.10 dopisał historię cen
+w normalnej skali (rzędu kilkuset wpisów, nie 65).
+**Kto:** — Code (dane, strona)
 
 
 ## 2026-10-02 08:00 · RADAR · Do zrobienia

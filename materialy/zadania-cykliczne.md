@@ -332,6 +332,20 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**02.10.2026 (historia cen we właściwym miejscu)**
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`, ten sam cron
+  `CRON_TZ=Europe/Warsaw 30 8 * * *`): nowy `trig_01RjjGRUpJ8QVvhBQrLXiy7Z`, stary
+  `trig_01L8awRzxEbeUSQsad7ye18Y` skasowany. Powód: `update_trigger` nie zmienia promptu z innej
+  sesji niż ta, do której Routine wpada („a routine's instructions can be changed only from the
+  conversation the routine posts into") — delete+create zostaje jedyną drogą i tak to jest zapisane
+  w CLAUDE.md. Kolejność: najpierw create, potem delete, żeby ani na chwilę nie zostać bez Routine'a.
+- Co weszło do promptu: `node scripts/historia-cen.mjs` jako trzeci skrypt w kroku PRZED COMMITEM
+  (do dziś wołał go `feedy-lego.py`, czyli przed naniesieniem cen — seria spóźniała się o dobę),
+  pole `_meta.mediaexpert_karty` do raportu, weryfikacja kart Media Expertu przez Firecrawla
+  zamiast WebFetcha (ME oddaje 403) i liczba nowych wpisów historii w podsumowaniu.
+- Wiersz Łowcy w sekcji „Zrzut" powyżej ma jeszcze stare ID — przepisze go poniedziałkowy
+  `harmonogram-z-konta.mjs`, nie poprawiamy ręcznie.
+
 **30.09.2026 (po audycie Routines)**
 - Crony runnerów LEGO przepisane na `CRON_TZ=Europe/Warsaw` z tymi samymi godzinami PL (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt) — zmiana czasu 25.10 nic nie przesunie.
 - Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`): nowy `trig_01L8awRzxEbeUSQsad7ye18Y`, prompt z buildem przed pushem, regułą konfliktu dla `historia-cen/` i `seo_tytul`/`seo_opis` w postach.
