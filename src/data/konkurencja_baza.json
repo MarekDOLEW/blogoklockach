@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-01",
-    "przebieg": "scheduled 2026-10-01 08:00",
+    "ostatnia_aktualizacja": "2026-10-02",
+    "przebieg": "scheduled 2026-10-02 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 225,
+    "liczba_wpisow": 230,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -2663,13 +2663,13 @@
     {
       "serwis": "fanklockow.pl",
       "tytul": "BLDP Fala 1 2028: The Tall Tollhouse - projekt Brewy",
-      "url": "https://fanklockow.pl/bldp-fala-1-2028-glosowanie-rozpoczete-tollhouse",
+      "url": "https://fanklockow.pl/bldp-fala-1-2028-the-tall-tollhouse-prezentacja-projektu-brewy",
       "data_publikacji": "2026-09-30",
       "data_wykrycia": "2026-10-01",
       "typ": "news",
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
-      "notatki": "Prezentacja wlasnego projektu redaktora w glosowaniu BLDP."
+      "notatki": "Prezentacja wlasnego projektu redaktora w glosowaniu BLDP. KOREKTA 2.10: wpis mial 1.10 zmyslony adres (slug zlozony z pamieci zamiast wziecia go z feedu), przez co wpis wrocil nastepnego dnia jako nowy. Adres poprawiony na ten z RSS."
     },
     {
       "serwis": "faniklockow.pl",
@@ -2703,6 +2703,63 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Relacja z wydarzen w Danii, poza rynkiem polskim."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zbiorcze okazje na zestawy LEGO w Media Expert (fala przecen z 1.10)",
+      "url": "https://faniklockow.pl/2026/10/01/zbiorcze-okazje-na-zestawy-lego-w-media-expert",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Media Expert"
+      ],
+      "notatki": "Duza fala przecen w Media Expert od rana 1.10, rabaty 20-44%, kilka pozycji 'historycznie najtaniej'. Sprawdzilismy dwanascie ich pozycji w naszym feedzie: w KAZDEJ nasza cena Media Expert jest wyzsza od faktycznej, zwykle o 8-15%, a przy 31174 prawie dwukrotnie (129,99 wobec 70). Pomiar szerszy: 735 zestawow ma u nas oferte Media Expert, ale tylko 141 odswiezono 1.10 - 594 (81%) ma ceny z 29.09 lub starsze, czyli sprzed fali. Caly feed ma 4632 wpisy z 1.10, wiec odswiezenie sie odbylo, tylko pokrycie Media Expert jest czesciowe. To zadanie dla Lowcy, nie dla radaru."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Najlepsze oferty na LEGO - 1 pazdziernika 2026",
+      "url": "https://fanklockow.pl/najlepsze-oferty-na-lego-1-pazdziernika-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ich cykliczny przeglad ofert. Ten sam material zrodlowy co fala Media Expert powyzej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowosci LEGO Pick a Brick na pazdziernik 2026",
+      "url": "https://fanklockow.pl/nowosci-lego-pick-a-brick-na-pazdziernik-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pojedyncze elementy, nie zestawy - poza zakresem porownywarki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Konkurs nieustajacy - wyniki z 09.2026",
+      "url": "https://fanklockow.pl/konkurs-nieustajacy-wyniki-z-09-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Konkurs ich serwisu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ninjago na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/01/zapowiedzi-serii-lego-ninjago-na-2027-rok",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, material dla Scouta."
     }
   ],
   "obserwacje_strategiczne": {
