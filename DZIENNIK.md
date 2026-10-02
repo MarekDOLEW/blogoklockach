@@ -141,6 +141,23 @@ teraz, jak ten plik wygląda naprawdę.
 samej poprawki — w normalny dzień kryterium „skok ceny" powinno dawać kilka.
 **Kto:** — Code (dane, strona)
 
+### Przy okazji: historia cen spisuje się o jeden krok za wcześnie
+
+`historia-cen.mjs` jest wołany z wnętrza `feedy-lego.py`, czyli **zanim** Łowca
+naniesie ceny z wyciągu na `oferty_feed.json`. Skrypt widzi więc stan wczorajszy
+i codziennie spisuje wczorajsze zmiany, nie dzisiejsze. Liczby z dziś:
+plik z `origin/main` miał po przebiegu Łowcy **65** wpisów z datą 2026-10-02,
+a uruchomienie skryptu po naniesieniu danych dopisało **1310** (986 Allegro,
+321 Media Expert, 3 Planeta Klocków) — tyle zmian cen z dziś nie było zapisanych.
+Te 1310 wpisów dopisałem w tym przebiegu, więc dzisiejszy dzień jest kompletny.
+
+**Zrobić:** — przenieść wywołanie `historia-cen.mjs` z `feedy-lego.py` na koniec
+przebiegu Łowcy (po zapisaniu `oferty_feed.json`). Sam nie ruszam: wyjęcie
+wywołania ze skryptu bez równoczesnego dopisania kroku do promptu Routine'a
+zatrzymałoby zbieranie historii w ogóle, a prompt stałej sesji zmienia się
+na koncie (delete + create), nie w repo.
+**Kto:** — Marek (prompt Łowcy) + Code (skrypt, w tej samej zmianie)
+
 
 ## 2026-10-02 08:00 · RADAR · Do zrobienia
 
