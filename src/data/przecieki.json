@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-09-30"
+  "zaktualizowano": "2026-10-02"
  },
  "przecieki": [
   {
@@ -474,6 +474,86 @@
    ],
    "dodano": "2026-09-29",
    "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71875",
+   "numer": "71875",
+   "nazwa": "Lloyd kontra Ras — pojedynek spinnerów",
+   "seria": "Ninjago",
+   "elementy": 153,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Dowód: oficjalne zdjęcia produktowe LEGO, udostępnione na Instagramie przez sklep JB Spielwaren — nie przez samo LEGO. StoneWars podaje 153 elementy, 2 minifigurki, UVP 19,99 euro, wiek 6+, start 1 stycznia 2027 i koniec produkcji 31 grudnia 2027. Katalog Brickset ma ten numer z OFICJALNĄ NAZWĄ zgodną z przeciekiem („Lloyd vs. Ras Spinner Battle”), ale bez liczby elementów, bez ceny i bez daty startu, `released` false (pełny zrzut rocznika 2027, 02.10.2026). Dlatego to przeciek, nie fakt: LEGO nie ujawniło fali styczniowej, a StoneWars sam spodziewa się oficjalnej odsłony na początku grudnia. Cena w złotych to przeliczenie 19,99 euro mnożnikiem 4,22 (84,36 zł) zaokrąglone do 10 zł.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71873",
+   "numer": "71873",
+   "nazwa": "Cole kontra Zły Cole — atak spinnera",
+   "seria": "Ninjago",
+   "elementy": 58,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30748",
+   "numer": "30748",
+   "nazwa": "Speedor tygrysa Rasa (nazwa niepotwierdzona)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "W tabeli nowości Ninjago 2027 u StoneWars numer figuruje z nazwą w nawiasie kwadratowym i znakiem zapytania — „[Ras' Tiger Speedor ?]” — czyli to ich domysł, a nie informacja. Elementów i ceny nie podają. Brickset ma pusty rekord. Numer z zakresu polybagów 307xx.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75484",
+   "numer": "75484",
+   "nazwa": "UCS Myśliwiec Jedi Anakina",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Anakins Jedi Interceptor (75484) als nächstes »kleines« UCS-Set im August 2027?”, dzial Gerüchte",
+     "url": "https://www.stonewars.de/geruechte/ucs-anakins-jedi-interceptor-75484-geruecht/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Źródłem pierwotnym jest kanał społecznościowy buggyleaks, StoneWars tylko go relacjonuje w dziale plotek. Z przecieku wynika numer, wiek 18+, identyfikacja statku (Eta-2 Actis Anakina) i okno sierpnia 2027 plus nadrukowana płytka plakatowa; liczby elementów ani ceny nie ma. Brickset NIE MA tego numeru wcale — w pełnym zrzucie rocznika 2027 z 02.10.2026 (282 rekordy) go nie znalazłem, więc nie ma nawet rezerwacji numeru. Stąd „niska”. W tym samym tekście StoneWars wspomina o plotkach o UCS TIE Advanced (maj 2027) i nowym UCS Millennium Falconie (październik 2027), ale bez numerów — nie zakładam dla nich wpisów.",
    "rozstrzygniecie": null
   }
  ]
