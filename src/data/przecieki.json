@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-02"
+  "zaktualizowano": "2026-10-03"
  },
  "przecieki": [
   {
@@ -484,17 +484,26 @@
    "elementy": 153,
    "cena_wg_zrodla": 80,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
      "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
      "data": "2026-10-01"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy, zdjecia i ceny czterech rynkow",
+     "url": "https://brickset.com/sets/71875-1",
+     "data": "2026-10-03"
     }
    ],
    "dodano": "2026-10-02",
    "uwagi": "Dowód: oficjalne zdjęcia produktowe LEGO, udostępnione na Instagramie przez sklep JB Spielwaren — nie przez samo LEGO. StoneWars podaje 153 elementy, 2 minifigurki, UVP 19,99 euro, wiek 6+, start 1 stycznia 2027 i koniec produkcji 31 grudnia 2027. Katalog Brickset ma ten numer z OFICJALNĄ NAZWĄ zgodną z przeciekiem („Lloyd vs. Ras Spinner Battle”), ale bez liczby elementów, bez ceny i bez daty startu, `released` false (pełny zrzut rocznika 2027, 02.10.2026). Dlatego to przeciek, nie fakt: LEGO nie ujawniło fali styczniowej, a StoneWars sam spodziewa się oficjalnej odsłony na początku grudnia. Cena w złotych to przeliczenie 19,99 euro mnożnikiem 4,22 (84,36 zł) zaokrąglone do 10 zł.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-03",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, nazwa, liczba elementów (153), wiek 6+ i termin — wszystko się zgadza. Brickset 2026-10-02 o 20:39 UTC uzupełnił kartę: oficjalna nazwa „Lloyd vs. Ras Spinner Battle”, podseria „Spinner Battle”, 153 elementy, availability „Retail”, zdjęcia oraz ceny detaliczne w US, UK, CA i DE (19,99 euro) z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyły. `launchDate` karta nadal ma puste. Cena z przecieku (19,99 euro) jest identyczna z katalogową. Zestaw dołożony do sety.json; polskiej ceny katalogowej jeszcze nie ma."
+   }
   },
   {
    "id": "71873",
@@ -504,17 +513,26 @@
    "elementy": 58,
    "cena_wg_zrodla": 40,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
      "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
      "data": "2026-10-01"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy, zdjecia i ceny czterech rynkow",
+     "url": "https://brickset.com/sets/71873-1",
+     "data": "2026-10-03"
     }
    ],
    "dodano": "2026-10-02",
    "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-03",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json."
+   }
   },
   {
    "id": "30748",
@@ -554,6 +572,26 @@
    ],
    "dodano": "2026-10-02",
    "uwagi": "Źródłem pierwotnym jest kanał społecznościowy buggyleaks, StoneWars tylko go relacjonuje w dziale plotek. Z przecieku wynika numer, wiek 18+, identyfikacja statku (Eta-2 Actis Anakina) i okno sierpnia 2027 plus nadrukowana płytka plakatowa; liczby elementów ani ceny nie ma. Brickset NIE MA tego numeru wcale — w pełnym zrzucie rocznika 2027 z 02.10.2026 (282 rekordy) go nie znalazłem, więc nie ma nawet rezerwacji numeru. Stąd „niska”. W tym samym tekście StoneWars wspomina o plotkach o UCS TIE Advanced (maj 2027) i nowym UCS Millennium Falconie (październik 2027), ale bez numerów — nie zakładam dla nich wpisów.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40889",
+   "numer": "40889",
+   "nazwa": "„Buduj, maluj, graj!” — gratis z konkursu Ideas (nazwa niepotwierdzona)",
+   "seria": "Ideas",
+   "elementy": 158,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Neue Infos zu Classic Spacemen im LEGO Ideas GWP »Build, Paint and Play!« (40889) durch Leakbilder!”",
+     "url": "https://www.stonewars.de/news/lego-ideas-build-your-hobby-siegerehrung/",
+     "data": "2026-10-02"
+    }
+   ],
+   "dodano": "2026-10-03",
+   "uwagi": "Dowód: wyciekłe zdjęcia przodu i tyłu pudełka, z których StoneWars odczytuje 158 elementów, dwie minifigurki i wiek 18+. Projekt jest znany — to zwycięzca konkursu LEGO Ideas „Build Your Hobby” autorstwa użytkownika „Doomslizer”, ogłoszony 3 września 2025, więc sam zestaw nie jest wymysłem. Niepewne pozostają trzy rzeczy: nazwa handlowa (StoneWars podaje ją ze znakiem zapytania), termin (koniec października wg kanału BrickTap na Reddicie, czyli źródła społecznościowego) oraz próg zakupu, którego nikt nie podaje. Brickset ma numer 40889 jako pusty rekord Ideas rocznika 2026 — bez nazwy, elementów i daty. Ciekawostka dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, które wcześniej były wyłącznie w starym odcieniu szarości.",
    "rozstrzygniecie": null
   }
  ]

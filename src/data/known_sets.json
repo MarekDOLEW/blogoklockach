@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-10-02",
+  "data_aktualizacji": "2026-10-03",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1178,
+  "liczba_setow": 1180,
   "sety": [
     "10280",
     "10281",
@@ -1180,7 +1180,9 @@
     "80121",
     "910059",
     "40899",
-    "11390"
+    "11390",
+    "71873",
+    "71875"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1371,7 +1373,7 @@
     {
       "numer": "71875",
       "nazwa": "Lloyd vs. Ras Spinner Battle",
-      "status": "Brickset 2026-07-24 nadal nazwe; 02.10.2026 katalog ma ja bez elementow, ceny i daty startu (released false). StoneWars 01.10 opublikowal oficjalne zdjecia produktowe (przez sklep JB Spielwaren) i dane: 153 el., 2 minifigurki, 19,99 EUR, 6+, start 1.01.2027. Przeniesiony do przecieki.json z pewnoscia 'srednia'.",
+      "status": "UJAWNIONY 2026-10-02/03: karta Brickset z nazwa, 153 elementami, zdjeciami i cenami czterech rynkow (19,99 EUR), availability 'Retail'. Wpis w sety.json, przeciek rozstrzygniety jako potwierdzony.",
       "premiera": "2027-01"
     },
     {
@@ -1598,8 +1600,8 @@
     },
     {
       "numer": "40889",
-      "nazwa": "Ideas — rezerwacja 2026",
-      "status": "Brickset 2026-09-28: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty. Numer z zakresu promocyjnego 408xx, ale motyw Ideas.",
+      "nazwa": "Ideas GWP z konkursu 'Build Your Hobby'",
+      "status": "Brickset dalej pusty rekord. StoneWars 02.10.2026 opublikowal wycieki zdjec pudelka: 158 elementow, 2 minifigurki, 18+, projekt zwyciezcy konkursu Ideas 'Build Your Hobby' (Doomslizer, ogloszony 03.09.2025). Przeniesiony do przecieki.json, pewnosc 'srednia'.",
       "premiera": "2026"
     },
     {
@@ -6260,5 +6262,14 @@
     "40899_bez_zmian": "40899 i 21375 wrocily w okno updatedSince=01.10 z lastUpdated odpowiednio 2026-10-01 00:51 i 00:08 UTC — to te same zmiany, ktore opisalem wczoraj, nie kolejne. 40899 nadal bez ceny detalicznej w czterech rynkach Bricksetu i nadal nieobecny w feedzie sklepu LEGO (feed przeladowany 01.10), wiec bez_rrp zostaje uzasadnione. 21375 nadal '{?}' bez elementow — wycofanie danych przez Brickset sie utrzymuje.",
     "odsiane": "10, 18, 181 (Service Packs 1980-1985), 6566835 Snow Groomer (2024), STOCKHOLM (2019, 'Not sold'), 45835 FIRST LEGO League (kanal edukacyjny/zawody), 854336, 854337, 854338 (bronie do zabawy Ninjago, motyw '{Undefined}', kategoria '{t.b.a.}').",
     "zrodla": "Brickset API — 2 wywolania getSets (przyrostowe updatedSince=01.10 i pelny rocznik 2027). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus dwa artykuly (spinnery Ninjago 2027, plotka o UCS 75484)."
+  },
+  "przeglad_2026_10_03": {
+    "nowosci": "71875 Lloyd kontra Ras (153 el.) i 71873 Cole kontra Zly Cole (58 el.) — Ninjago, podseria 'Spinner Battle', 6+, deklarowany start 1.01.2027. Brickset uzupelnil obie karty 02.10 wieczorem: nazwy, elementy, zdjecia (15 i 9 dodatkowych) oraz ceny detaliczne w US, UK, CA i DE z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyly. Oba dolozone do sety.json bez ceny katalogowej: feed polskiego sklepu (zrzut 02.10) ich jeszcze nie ma.",
+    "przecieki_rozstrzygniete": "71875 i 71873 -> potwierdzone, obie pewnosci podniesione do 'wysoka'. To najszybsze rozstrzygniecie w historii pliku: wpisy zalozone 02.10 na podstawie jednego artykulu StoneWars, potwierdzone katalogiem nastepnego dnia. Liczby z przecieku (153 i 58 elementow, 19,99 i 9,99 EUR) zgodzily sie co do jednego — w tym 71873, ktory dostal 'niska', bo StoneWars nie mogl pokazac zdjec.",
+    "nadal_otwarte": "30748 (Speedor tygrysa Rasa) zostaje przeciekiem o pewnosci 'niska' — Brickset ma dalej pusty rekord. 75484 (UCS Mysliwiec Jedi Anakina) tez bez zmian, numeru w katalogu nadal nie ma.",
+    "launchdate_uwaga": "Obie karty maja launchDate puste mimo kompletu pozostalych danych. Reguly 'Brickset z oficjalna data' nie da sie tu zastosowac doslownie; podstawa potwierdzenia sa ceny detaliczne czterech rynkow z dateFirstAvailable, czyli dokladnie sygnal 'karta na lego.com' z instrukcji. Premiera 2027-01 wziecta z deklaracji StoneWars, nie z katalogu.",
+    "odsiane": "4858 i 4860 (4 Juniors, 2004), 6566835 Snow Groomer (kategoria 'Extended'), 854336-854338 (teraz motyw 'Gear', kategoria 'Extended' — potwierdza wczorajsza klasyfikacje jako merch). 45835 dostal motyw 'Education' — kanal szkolny, nie wchodzi do sety.json.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=02.10). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus artykul o 40889. Razem 5 pobran.",
+    "przeciek_dopisany": "40889 — pewnosc 'srednia'. Dowodem sa wyciekle zdjecia pudelka (158 elementow, 2 minifigurki, 18+) plus udokumentowane zwyciestwo projektu w konkursie Ideas 'Build Your Hobby'. Niepewne: nazwa handlowa (StoneWars ze znakiem zapytania), termin (koniec pazdziernika wg kanalu BrickTap na Reddicie) i prog zakupu."
   }
 }
