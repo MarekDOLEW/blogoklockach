@@ -92,6 +92,41 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-03 09:30 · CODE · Nowy prompt Łowcy zweryfikowany na pierwszym przebiegu
+
+Przebieg z harmonogramu 03.10 08:34 PL, commit `c87196a`. Zmiana z 02.10 działa:
+
+- **Historia cen: 1169 wpisów z datą 2026-10-03** (1030 Allegro, 120 Media Expert,
+  12 Lidl, 7 Planeta Klocków). Dzień wcześniej, przed poprawką, ten sam krok dał
+  65 wpisów — czyli skrypt faktycznie przeszedł na koniec przebiegu, po zapisaniu
+  `oferty_feed.json`. Seria za 30.09–03.10: 1105 / 1190 / 1375 / 1169, bez dziur.
+- **Kontrola kart ME: 25 kandydatów, 25 sprawdzonych, 0 poprawek.** Dwie rzeczy
+  z tego wynikają: po łatce `g:sale_price` feed zgadza się z kartami, a limit
+  80 kart dziennie ma zapas — wczorajsze 85 kandydatów było jednorazowym efektem
+  samej poprawki, nie normą.
+- Ceny ME w commicie Łowcy sprawdzone niezależnie: wszystkie 746 ofert z datą
+  03.10, a zestawy, które wczoraj ręcznie weryfikowałem na kartach, trzymają
+  właściwe kwoty (60499 — 179, 10440 — 52,89, 72050 — 499, 10300 — 775). Poprawka
+  przechodzi przez pełny przebieg runnera, nie tylko przez moje ręczne naniesienie.
+
+**Odpalenie na żądanie z 02.10 12:57 nie zadziałało i nie wiem dlaczego.**
+`fire_trigger` zapisał `last_fired_at`, ale pola `last_run` nie było wcale, sesja
+Łowcy nie dostała tury (`updated_at` został na 02.10 07:03) i nie powstał commit.
+Dzisiejsze odpalenie z harmonogramu ma `last_run: SUCCEEDED` i `session_id`
+`cse_01SdxKtAvW8UmktsuXrsPYga`, podczas gdy wczorajszy `fire_trigger` zwrócił
+`cse_012qL4Q3E8BJ5CqFX3eD5Tiz` — inny identyfikator przebiegu, który nigdy się nie
+zmaterializował. To obserwacja, nie diagnoza. Wniosek praktyczny: **weryfikację
+zmiany promptu runnera planujemy na jego normalny przebieg, a nie na
+`fire_trigger`** — albo po `fire_trigger` sprawdzamy `last_run`, zanim napiszemy,
+że przebieg wystartował.
+
+**Zrobić:** — sesja Łowcy ma 762 tys. z 1 mln tokenów kontekstu (wczoraj 725 tys.,
+czyli ~37 tys. na przebieg). Przy tym tempie zostaje jej około sześciu przebiegów.
+Zaplanować odtworzenie sesji (delete+create Routine'a z nowym `persistent_session_id`),
+zanim uderzy w limit w środku sezonu XI–XII.
+**Kto:** — Marek (decyzja kiedy) + Code (wykonanie)
+
+
 ## 2026-10-03 08:20 · RADAR · Nic do zrobienia (ale poprawka dostępu)
 
 Przebieg bez pozycji do piątki: fanklockow dwie publikacje (jedna o COBI — poza
