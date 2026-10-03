@@ -92,6 +92,27 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-03 08:20 · RADAR · Nic do zrobienia (ale poprawka dostępu)
+
+Przebieg bez pozycji do piątki: fanklockow dwie publikacje (jedna o COBI — poza
+zakresem), faniklockow zero nowych (feed RSS bajt w bajt identyczny z wczorajszym,
+najnowsza pozycja z 01.10 15:35). Cztery wpisy dołożone do bazy, żadnego zadania.
+
+**Poprawka zapisanego „faktu" o dostępie.** `konkurencja_baza.json` miała w
+`_meta.dostep`, że dla promoklocki.pl i zklockow.pl „jedynym źródłem pozostaje
+WebSearch z allowed_domains". To nieprawda: dziś oba serwisy **weszły Firecrawlem**,
+HTTP 200 z `proxy: basic` — zklockow.pl oddał listę produktów i pełne menu sekcji,
+promoklocki.pl w formacie `links` kategorie i karty produktów za 1 kredyt. Stary
+zapis był obejściem z czasów, gdy nie próbowaliśmy Firecrawla; curl i WebFetch
+dalej dostają 403 i to się nie zmieniło. Monitoring strukturalny tych dwóch
+serwisów robimy od teraz Firecrawlem, nie WebSearchem — zapisane w `_meta.dostep`.
+
+Przy okazji sprawdzone, czy świąteczny asortyment z promoklocki ma u nas luki:
+11 z 12 numerów (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355,
+11379, 21373) jest w `katalog.json`; brakuje tylko 5011029, a to gra planszowa
+Ninjago, nie zestaw klocków. Luki więc nie ma.
+
+
 ## 2026-10-02 12:40 · RADAR · Media Expert: sprostowanie diagnozy i poprawka w parserze
 
 **Sprostowanie do wpisu z dzisiejszego 08:00.** Napisałem tam, że zawyżone ceny

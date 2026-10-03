@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-02",
-    "przebieg": "scheduled 2026-10-02 08:00",
+    "ostatnia_aktualizacja": "2026-10-03",
+    "przebieg": "scheduled 2026-10-03 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,12 +10,13 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 230,
-    "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
+    "liczba_wpisow": 234,
+    "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
       "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich.",
-      "2026-09-13": "Spokojna niedziela: dwie publikacje, obie fanklockow, faniklockow zero. GODZILLA 21375 - kolejne sprawdzenie ceny katalogowej: porownywarki nadal NIE MAJA tego numeru w indeksie. Jedyna kwota w obiegu to 'ok. 1700 zl' z faniklockow, oznaczone przez nich jako szacunek. Stan na 13.09: 75 dni do premiery, 53 dni do otwarcia okna publikacji tekstu o Black Friday (05.11). Jesli ceny nie bedzie do konca pazdziernika, tekst trzeba napisac bez niej - z jawnym powiedzeniem, ze producent jej nie podal, co samo w sobie jest informacja zakupowa przy premierze w dniu BF."
+      "2026-09-13": "Spokojna niedziela: dwie publikacje, obie fanklockow, faniklockow zero. GODZILLA 21375 - kolejne sprawdzenie ceny katalogowej: porownywarki nadal NIE MAJA tego numeru w indeksie. Jedyna kwota w obiegu to 'ok. 1700 zl' z faniklockow, oznaczone przez nich jako szacunek. Stan na 13.09: 75 dni do premiery, 53 dni do otwarcia okna publikacji tekstu o Black Friday (05.11). Jesli ceny nie bedzie do konca pazdziernika, tekst trzeba napisac bez niej - z jawnym powiedzeniem, ze producent jej nie podal, co samo w sobie jest informacja zakupowa przy premierze w dniu BF.",
+      "2026-10-03": "Bardzo spokojny przebieg: fanklockow dwie publikacje (jedna o COBI, wiec poza zakresem), faniklockow ZERO nowych - feed RSS bajt w bajt identyczny z wczorajszym, najnowsza pozycja z 01.10 15:35. Dwa wpisy faniklockow dodane dzis to zalegle mikroposty dealowe z 26.09, nie swieze publikacje. Zmiana metody: promoklocki.pl i zklockow.pl pierwszy raz przeczytane Firecrawlem zamiast WebSearch (szczegoly w _meta.dostep). Na promoklocki ZADNEJ zmiany strukturalnej - strona glowna niesie tylko kategorie serii i karty produktow, bez nowych sekcji, funkcji i bez listy porownywanych sklepow. Na zklockow menu bez nowych pozycji wobec bazy. Sprawdzilem tez, czy ich swiateczny asortyment (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355, 11379, 21373) ma luki u nas: 11 z 12 numerow jest w katalog.json, brakuje tylko 5011029 - gry planszowej Ninjago, a nie zestawu klockow."
     }
   },
   "publikacje": [
@@ -2760,6 +2761,50 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Rocznik 2027, material dla Scouta."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO® kontra inwestorzy: Batmanowe szaleństwo",
+      "url": "https://fanklockow.pl/lego-kontra-inwestorzy-batmanowe-szalenstwo",
+      "data_publikacji": "2026-10-02",
+      "data_wykrycia": "2026-10-03",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Analiza: dwie figurki Batmana w specyficznej dystrybucji i co z nimi zrobia inwestorzy. Temat mamy pokryty w sekcji Batman Day kalendarza (/kalendarz-promocji-lego/#batman-day): wprost piszemy, ze dystrybucja zewnetrzna jest tansza od podwojnych punktow, i wskazujemy 40859 i 76333 jako jedyne bez alternatywy. Okno Batman Day 9-19.09 zamkniete, wiec bez dzialania."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery COBI na 10.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-cobi-na-10-2026",
+      "data_publikacji": "2026-10-02",
+      "data_wykrycia": "2026-10-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu. Odnotowane tylko po to, by kolejny przebieg nie zwrocil tego jako nowosci."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Jurassic World) – 77978 Ciężarówka do transportu młodego tyranozaura",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-juraccis-world-77978-ciezarowka-do-transportu-mlodego-tyranozaura",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-10-03",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mikropost dealowy o jednym zestawie, z 26.09 - umknal wczesniejszym przebiegom, nie jest swieza publikacja. Ich cene biezaca i tak mamy z feedow."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Creator) – 31387 Legendarny Statek Piracki",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-creator-31387-legendarny-statek-piracki-2",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-10-03",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej - mikropost dealowy z 26.09, uzupelnienie bazy."
     }
   ],
   "obserwacje_strategiczne": {
