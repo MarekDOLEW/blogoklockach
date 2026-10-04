@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-03",
-    "przebieg": "scheduled 2026-10-03 08:00",
+    "ostatnia_aktualizacja": "2026-10-04",
+    "przebieg": "scheduled 2026-10-04 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,13 +10,14 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 234,
+    "liczba_wpisow": 239,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
       "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich.",
       "2026-09-13": "Spokojna niedziela: dwie publikacje, obie fanklockow, faniklockow zero. GODZILLA 21375 - kolejne sprawdzenie ceny katalogowej: porownywarki nadal NIE MAJA tego numeru w indeksie. Jedyna kwota w obiegu to 'ok. 1700 zl' z faniklockow, oznaczone przez nich jako szacunek. Stan na 13.09: 75 dni do premiery, 53 dni do otwarcia okna publikacji tekstu o Black Friday (05.11). Jesli ceny nie bedzie do konca pazdziernika, tekst trzeba napisac bez niej - z jawnym powiedzeniem, ze producent jej nie podal, co samo w sobie jest informacja zakupowa przy premierze w dniu BF.",
-      "2026-10-03": "Bardzo spokojny przebieg: fanklockow dwie publikacje (jedna o COBI, wiec poza zakresem), faniklockow ZERO nowych - feed RSS bajt w bajt identyczny z wczorajszym, najnowsza pozycja z 01.10 15:35. Dwa wpisy faniklockow dodane dzis to zalegle mikroposty dealowe z 26.09, nie swieze publikacje. Zmiana metody: promoklocki.pl i zklockow.pl pierwszy raz przeczytane Firecrawlem zamiast WebSearch (szczegoly w _meta.dostep). Na promoklocki ZADNEJ zmiany strukturalnej - strona glowna niesie tylko kategorie serii i karty produktow, bez nowych sekcji, funkcji i bez listy porownywanych sklepow. Na zklockow menu bez nowych pozycji wobec bazy. Sprawdzilem tez, czy ich swiateczny asortyment (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355, 11379, 21373) ma luki u nas: 11 z 12 numerow jest w katalog.json, brakuje tylko 5011029 - gry planszowej Ninjago, a nie zestawu klockow."
+      "2026-10-03": "Bardzo spokojny przebieg: fanklockow dwie publikacje (jedna o COBI, wiec poza zakresem), faniklockow ZERO nowych - feed RSS bajt w bajt identyczny z wczorajszym, najnowsza pozycja z 01.10 15:35. Dwa wpisy faniklockow dodane dzis to zalegle mikroposty dealowe z 26.09, nie swieze publikacje. Zmiana metody: promoklocki.pl i zklockow.pl pierwszy raz przeczytane Firecrawlem zamiast WebSearch (szczegoly w _meta.dostep). Na promoklocki ZADNEJ zmiany strukturalnej - strona glowna niesie tylko kategorie serii i karty produktow, bez nowych sekcji, funkcji i bez listy porownywanych sklepow. Na zklockow menu bez nowych pozycji wobec bazy. Sprawdzilem tez, czy ich swiateczny asortyment (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355, 11379, 21373) ma luki u nas: 11 z 12 numerow jest w katalog.json, brakuje tylko 5011029 - gry planszowej Ninjago, a nie zestawu klockow.",
+      "2026-10-04": "fanklockow wrocil do kadencji: trzy publikacje 03.10, w tym recenzja wideo 72306 - to ich mocna strona i nasza jedyna dzisiejsza luka. faniklockow jedna publikacja 03.10 (relacja z Danii) plus jeden zalegly mikropost dealowy z 21.09. Sprawdzona i ODRZUCONA hipoteza: puste pole 'opis' przy 72306 w sety.json nie wypycha huba z indeksu - prog 300 znakow tekstu redakcyjnego wyrabiaja persony (dla_rodzica 277 + dla_afol 658), a wyrenderowany hub nie ma noindex. Zmiana w cenach 72306 warta odnotowania: 03.10 Ceneo 619,99, czyli pierwsza oferta ponizej katalogu 689,99 - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika i stad nasz wczesniejszy wniosek o odsprzedazy. Allegro 748,99 nadal jest odsprzedaza."
     }
   },
   "publikacje": [
@@ -2805,6 +2806,63 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Jak wyzej - mikropost dealowy z 26.09, uzupelnienie bazy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: LEGO® 72306 PlayStation™",
+      "url": "https://fanklockow.pl/recenzja-lego-72306-playstation",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja wideo swiezej premiery 72306 (RRP 689,99, 1911 elementow). U nas hub /zestaw/72306/ z personami (dla_rodzica + dla_afol, razem 935 znakow, wiec hub jest indeksowalny) i wzmianki w trzech tekstach, ale recenzji nie ma. Zestaw wszedl w okno prezentowe: 03.10 Ceneo 619,99, czyli pierwsza oferta PONIZEJ katalogu - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika (Allegro 748,99, dalej odsprzedaz)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO® 2026: Minifigurki",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-minifigurki",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Plotki o seriach minifigurek do konca roku, w tym figurki z Build a Minifigure na listopad. Oznaczone przez nich jako NIEPOTWIERDZONE, wiec do naszego kalendarza nie wchodzi bez drugiego zrodla. Material dla Scouta, nie dla Radaru."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Podsumowanie LEGO® IDEAS – wrzesień 2026",
+      "url": "https://fanklockow.pl/podsumowanie-lego-ideas-wrzesien-2026",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad projektow z platformy IDEAS - bez znaczenia zakupowego, projekty z przegladu trafiaja do sprzedazy po latach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "AFOL Day, Kopenhaga i SKAERBAEK Fan Weekend",
+      "url": "https://faniklockow.pl/2026/10/03/afol-day-kopenhaga-i-skaerbaek-fan-weekend-czyli-to-co-kazdy-legoman-powinien-zrobic",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Relacja wideo z wyjazdu do Danii - format osobisty, ktorego nie prowadzimy i nie planujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Ideas) – 21358 Maszyna z minifigurkami",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-ideas-21358-maszyna-z-minifigurkami-3",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-10-04",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "empik"
+      ],
+      "notatki": "Zalegly mikropost dealowy z 21.09 (Empik 579,99, -21% od katalogu) - nie jest swieza publikacja, uzupelnienie bazy."
     }
   ],
   "obserwacje_strategiczne": {
