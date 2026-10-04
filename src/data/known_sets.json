@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-10-03",
+  "data_aktualizacji": "2026-10-04",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1180,
   "sety": [
@@ -1674,6 +1674,12 @@
       "numer": "5011071",
       "nazwa": "Gingerbread House (promocyjny)",
       "status": "Brickset 2026-10-01: rekord ma nazwe, ale zero danych — brak elementow, ceny i daty, availability '{Not specified}', kategoria '{t.b.a.}', motyw Promotional. Wyglada na swiateczna pozycje promocyjna.",
+      "premiera": "2026"
+    },
+    {
+      "numer": "4000351",
+      "nazwa": "FIFA World Cup Official Trophy — Champions Edition",
+      "status": "Brickset 2026-10-03: motyw 'Editions', podseria 'Football', 2845 elementow, wiek 14+, availability 'LEGO exclusive', released true, 5 zdjec dodatkowych. BRAK ceny detalicznej w ktorymkolwiek z czterech rynkow i brak launchDate. Ani PromoBricks, ani StoneWars nie pisza o tym zestawie — sprawdzone w tresci stron glownych 04.10.2026 (szukane: FIFA, Trophy, Pokal, numer). Numery 4000xxx to u Bricksetu wydania specjalne i limitowane, nie detal, dlatego zestaw nie wchodzi do sety.json: brak ceny i kanalu sprzedazy. Do obserwacji — 2845 elementow to duzy model, a rok mundialu czyni temat atrakcyjnym, jesli trafi do sprzedazy.",
       "premiera": "2026"
     }
   ],
@@ -6271,5 +6277,12 @@
     "odsiane": "4858 i 4860 (4 Juniors, 2004), 6566835 Snow Groomer (kategoria 'Extended'), 854336-854338 (teraz motyw 'Gear', kategoria 'Extended' — potwierdza wczorajsza klasyfikacje jako merch). 45835 dostal motyw 'Education' — kanal szkolny, nie wchodzi do sety.json.",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=02.10). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus artykul o 40889. Razem 5 pobran.",
     "przeciek_dopisany": "40889 — pewnosc 'srednia'. Dowodem sa wyciekle zdjecia pudelka (158 elementow, 2 minifigurki, 18+) plus udokumentowane zwyciestwo projektu w konkursie Ideas 'Build Your Hobby'. Niepewne: nazwa handlowa (StoneWars ze znakiem zapytania), termin (koniec pazdziernika wg kanalu BrickTap na Reddicie) i prog zakupu."
+  },
+  "przeglad_2026_10_04": {
+    "nowosci": "Brak nowosci do sety.json. Jeden nowy rekord katalogowy do obserwacji: 4000351 FIFA World Cup Official Trophy — Champions Edition (Editions/Football, 2845 el., 14+, LEGO exclusive). Pelne dane poza cena i data; zadne ze zrodel newsowych o nim nie pisze.",
+    "launchdate_spinnerow": "71873 i 71875 dostaly dzis launchDate 2027-01-01. Wczoraj obie karty mialy to pole puste i date premiery (2027-01) wzialem z deklaracji StoneWars — katalog ja teraz potwierdza. Reszta danych bez zmian.",
+    "przecieki": "Bez zmian: 26 wpisow, 5 rozstrzygnietych. Nic nowego w zrodlach newsowych, nic do podniesienia ani rozstrzygniecia.",
+    "odsiane": "8483 CyberMaster (Technic, 1998), 40958 Christmas Stocking (dotkniety, juz opisany z cena), ISBN9780241816516 (kategoria 'Book').",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=03.10). PromoBricks i StoneWars — strony glowne, bez nowych tekstow o nowosciach katalogowych. Razem 3 pobrania."
   }
 }
