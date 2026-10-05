@@ -1,37 +1,12 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 30.09.2026, 17:31 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 5.10.2026, 07:46 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
 
-## LEGO pon 08:15 — Przypomnienie: zrzut Empiku
-
-- ID: `trig_01BWC5ydHBNVE5Q8usmf62PN` · cron `15 6 * * 1` · włączony · świeża sesja na każdy przebieg
-
-```
-Cotygodniowa przypominajka dla Marka o ręcznym zrzucie cen Empiku (decyzja 15.09.2026: Empik blokuje ruch serwerowy, więc zrzut robi Marek lokalną przeglądarką przez skill klocki-ceny-empik, a plik lego-empik.json wrzuca do sesji Claude Code jako załącznik). Ty tylko wysyłasz mail.
-
-Kroki:
-1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B empik origin/main` (bez npm — skrypt wysyłki to Python bez zależności; PDF robi Chromium z kontenera). Wymaga RESEND_API_KEY — gdy brak, wklej komunikat i zakończ.
-2. Zapisz plik `/tmp/przypomnienie-empik.md` z treścią (uzupełnij datę poniedziałku):
-
-   # Zrzut Empiku — tydzień od <DD.MM.RRRR>
-
-   Pora na cotygodniowy zrzut cen LEGO z empik.com (skill `klocki-ceny-empik`, lokalna przeglądarka).
-
-   1. Zrób zrzut → `lego-empik.json`.
-   2. Wrzuć plik do sesji Claude Code (jak dziś, jako załącznik do rozmowy)
-3. Code importuje ceny (empik-import.mjs) i uruchamia `node scripts/empik-redirects.mjs lego-empik.json --usun-martwe` (deeplinki produktowe zamiast wyszukiwarki). Bez cotygodniowego zrzutu ceny Empiku stoją na hubach, a martwe adresy kart zostają i prowadzą na 404.
-
-   Ostatni zrzut wg `src/data/oferty_feed.json`: <najczęstsza wartość pola `daty.empik` albo `data` przy wpisach z `"sklep": "empik"`; jeśli nie ustalisz w minutę, wpisz „nie ustalono”>.
-
-3. Wyślij: `python3 scripts/wyslij-raport.py --zadanie przypomnienie --tytul "Przypomnienie: zrzut Empiku — <DD.MM.RRRR>" --plik /tmp/przypomnienie-empik.md --wstep "Cotygodniowe przypomnienie o ręcznym zrzucie cen Empiku."`
-4. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
-```
-
-## LEGO 04:45 - 09.45 — Zdjęcia → R2 (Planeta Klocków)
+## LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków)
 
 - ID: `trig_01EAhU5SKn2GuXxY14WYxNkJ` · cron `45 2 * * *` · włączony · świeża sesja na każdy przebieg
 
@@ -195,6 +170,35 @@ Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesj
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj TYLKO wtedy, gdy przebieg coś zmienił (był commit). Brak zmian = brak maila — inaczej raporty spowszednieją i przestaną być czytane. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
 ```
 
+## LEGO pon 08:15 — Przypomnienie: zrzut Empiku i x-komu
+
+- ID: `trig_01XaicucSMa3S5xGKhAFBkEk` · cron `CRON_TZ=Europe/Warsaw 15 8 * * 1` · włączony · świeża sesja na każdy przebieg
+
+```
+Cotygodniowa przypominajka dla Marka o ręcznych zrzutach cen Empiku i x-komu (decyzje: Empik 15.09.2026, x-kom 30.09.2026 — oba sklepy blokują ruch serwerowy, więc zrzut robi Marek w Coworku lokalną przeglądarką skillem `klocki-zrzuty-tygodniowe`, który odpala po kolei `klocki-ceny-empik` i `klocki-ceny-xkom`; pliki `lego-empik.json` i `lego-xkom.json` Marek wrzuca do sesji Claude Code jako załączniki). Ty tylko wysyłasz mail.
+
+Kroki:
+1. Jeśli katalogu `blogoklockach` nie ma: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`. W repo: `git fetch origin main && git checkout -B przypomnienie origin/main` (bez npm — skrypt wysyłki to Python bez zależności; PDF robi Chromium z kontenera). Wymaga RESEND_API_KEY — gdy brak, wklej komunikat i zakończ.
+2. Ustal datę ostatniego zrzutu każdego sklepu jednym poleceniem:
+   python3 -c "import json,collections;f=json.load(open('src/data/oferty_feed.json'))['sety'];s=json.load(open('src/data/sety.json'));e=collections.Counter((v.get('daty') or {}).get('empik') for v in f.values() if (v.get('daty') or {}).get('empik'));x=collections.Counter(o.get('data') for k,v in s.items() if isinstance(v,dict) for o in (v.get('oferty') or []) if isinstance(o,dict) and o.get('sklep')=='xkom');print('empik',e.most_common(1));print('xkom',x.most_common(1))"
+   Gdy polecenie się wywróci, wpisz „nie ustalono” — nie szukaj dalej.
+3. Zapisz plik `/tmp/przypomnienie-zrzuty.md` z treścią (uzupełnij datę poniedziałku i daty z kroku 2):
+
+   # Zrzuty Empiku i x-komu — tydzień od <DD.MM.RRRR>
+
+   Ostatni zrzut: Empik <data>, x-kom <data>.
+
+   1. W Coworku (komputer z przeglądarką) napisz: **zrzuty tygodniowe**
+      (skill `klocki-zrzuty-tygodniowe` zrobi po kolei Empik i x-kom i odda dwa pliki).
+   2. Pliki `lego-empik.json` i `lego-xkom.json` wrzuć do sesji Claude Code jako załączniki.
+   3. Code importuje ceny i odświeża deeplinki.
+
+   Bez zrzutu ceny tych sklepów stoją na hubach, a martwe adresy kart prowadzą na 404. Oferty x-komu z akcji mają datę ważności i po niej znikają z tabel.
+
+4. Wyślij: `python3 scripts/wyslij-raport.py --zadanie przypomnienie --tytul "Przypomnienie: zrzuty Empiku i x-komu — <DD.MM.RRRR>" --plik /tmp/przypomnienie-zrzuty.md --wstep "W Coworku napisz: zrzuty tygodniowe."`
+5. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
+```
+
 ## Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem)
 
 - ID: `trig_01PwyDWKRCLydgDxAH8eRzzR` · cron `CRON_TZ=Europe/Warsaw 30 5 * * 2` · włączony · stała sesja (zmiana promptu = delete + create)
@@ -219,7 +223,7 @@ Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadn
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_01L8awRzxEbeUSQsad7ye18Y` · cron `CRON_TZ=Europe/Warsaw 30 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01RjjGRUpJ8QVvhBQrLXiy7Z` · cron `CRON_TZ=Europe/Warsaw 30 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio. 
@@ -240,6 +244,7 @@ ZASADY PRACY Z WYCIĄGIEM:
 - `_meta.bledy` — sklep, którego feed się nie pobrał. Wtedy NIE aktualizuj ofert tego sklepu, nie kasuj jego wczorajszych ofert i napisz to w raporcie.
 - `_meta.planetaklockow_archiwum_eol` — numery z archiwum PK (wycofane z oferty). Raportuj jako alerty EOL, nie jako deale.
 - `_meta.<sklep>_niespojne` — wiersze odrzucone przez sito spójności numer↔link (od 26.09.2026 w skrypcie; feedy ME i PK miewają przesunięte wiersze). Podaj liczbę w raporcie; nie powtarzaj tego testu ręcznie.
+- `_meta.mediaexpert_karty` (od 02.10.2026) — wynik kontroli cen ME na kartach produktów (`me-ceny-stron.mjs`, woła go `feedy-lego.py`): ilu kandydatów, ile kart sprawdzonych, ile cen poprawionych, ile zostało nieodpytanych po wyczerpaniu budżetu. Podaj te liczby w raporcie. Ceny ME w wyciągu są już poprawione — NIE sprawdzaj ich po raz drugi i nie mnóż niczego przez współczynnik.
 - Skrypt filtruje marki i numery setów (tylko tytuły `^LEGO ... <numer>`), więc puzzle i gry innych marek już nie wchodzą — nie powtarzaj tego filtrowania.
 
 UWAGA — feed PK nie pokazuje cen promocyjnych (akcje typu −7% na koszyk są niewidoczne; NIE mnóż cen przez współczynnik). Dla setów, gdzie cena PK mieści się w 15% od najtańszej znanej oferty, sprawdź cenę na stronie produktu przez WebFetch (URL z pola `link`) i użyj ceny ze strony. Rozbieżności odnotuj w raporcie.
@@ -254,7 +259,7 @@ IMPORT EMPIKU (tylko gdy w tej sesji jest plik `lego-empik.json` ze zrzutu; zwyk
 
 ŚWIEŻOŚĆ OFERT: każda oferta z datą faktycznego odczytu; NADPISZ ofertę sklepu dzisiejszą ceną nawet gdy wyższa (koniec promocji musi zniknąć tego samego dnia); minima tylko w ceny_baza.json.
 
-WERYFIKACJA: przed pushem sprawdź 3 sety z dealów gorących przez WebFetch na stronach produktowych (ME/PK działają; allegro.pl blokuje boty — cen Allegro nie weryfikuj na stronie, ufaj feedowi). Różnica >1% → obie wartości w raporcie, użyj ceny ze strony.
+WERYFIKACJA: przed pushem sprawdź 3 sety z dealów gorących na stronach produktowych (PK przez WebFetch; ME przez Firecrawla — `node scripts/firecrawl.mjs scrape <url karty>`, bo WebFetch i curl dostają od ME 403; allegro.pl blokuje boty, cen Allegro nie weryfikuj na stronie, ufaj feedowi). Różnica >1% → obie wartości w raporcie, użyj ceny ze strony.
 
 KLASYFIKACJA: gorący ≥30% lub nowe minimum; dobry 20–29%; <15% = pseudopromocja. Przy rabacie >60% na Allegro (marketplace) oznacz deal jako „do weryfikacji", nie publikuj jako pewnik.
 
@@ -264,7 +269,7 @@ POSTY DEALOWE (`src/pages/deale/<slug>.md`, reguła ustalona z Markiem 15.09.202
 
 PODEJRZANY RYNEK (od 16.09.2026, decyzja Marka): po zapisaniu danych uruchom `node scripts/podejrzany-rynek-mail.mjs`. Skrypt wypisuje oferty poniżej 50% POTWIERDZONEJ ceny katalogowej bez potwierdzenia człowieka (strona sama je ukrywa — `deale_potwierdzone.json`) i gdy takie są, wysyła Markowi mail z linkami do sprawdzenia (klucz `podejrzane` w raporty_mail.json; wymaga RESEND_API_KEY). Ofert tych NIE usuwaj z danych i NIE oceniaj sam; liczba z wyniku skryptu idzie do podsumowania jedną linijką. Brak kandydatów = brak maila.
 
-PRZED COMMITEM (dwa skrypty, zawsze): (1) `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda; (2) `node scripts/porzadek-ofert.mjs` — przestawia oferty w `sety.json` w stałą kolejność alfabetyczną po sklepie (reguła Marka z 16.09.2026; audyt 22.09 wykazał, że 905 z 1 165 zestawów było zapisanych po cenie, a dzienny diff miał tysiące linii szumu). Oba pliki dołącz do commita.
+PRZED COMMITEM (trzy skrypty, zawsze): (1) `node scripts/generuj-obrazy.mjs` — odświeża `src/data/obrazy.json` o zdjęcia nowych setów z feedów; bez tego Routine „Zdjęcia → R2" nie dogra ich do R2 i hub ma pustą miniaturę aż do wtorkowego builda; (2) `node scripts/porzadek-ofert.mjs` — przestawia oferty w `sety.json` w stałą kolejność alfabetyczną po sklepie (reguła Marka z 16.09.2026; audyt 22.09 wykazał, że 905 z 1 165 zestawów było zapisanych po cenie, a dzienny diff miał tysiące linii szumu); (3) `node scripts/historia-cen.mjs` — dopisuje do `src/data/historia-cen/RRRR-MM.jsonl` zmiany cen każdej pary (zestaw, sklep). URUCHAMIAJ GO DOPIERO TUTAJ, po zapisaniu `oferty_feed.json`: skrypt porównuje ten plik z `_ostatnie.json`, więc odpalony wcześniej widzi stan wczorajszy. Do 02.10.2026 wołał go `feedy-lego.py` i przez to seria spóźniała się o dobę — 02.10 po Twoim przebiegu plik miał 65 wpisów z datą dnia, a uruchomienie po naniesieniu danych dopisało 1310. Liczbę nowych wpisów z wyjścia skryptu podaj w podsumowaniu. Wszystkie trzy pliki dołącz do commita.
 
 PUBLIKACJA (zmienione 30.09.2026 po audycie Routines):
 1. Walidacja JSON-ów (liczby wpisów nie zmalały w ŻADNEJ gałęzi: sety, oferty_feed.sety, każda gałąź redirects).
@@ -273,7 +278,7 @@ PUBLIKACJA (zmienione 30.09.2026 po audycie Routines):
 4. KONFLIKT przy pushu (inna sesja pushnęła w międzyczasie, np. import Empiku 28.09): `git fetch origin main`, weź wersję z origin, nanieś swoje zmiany ponownie na `sety.json`, `oferty_feed.json`, `ceny_baza.json`, `redirects.json`, `obrazy.json`. HISTORIA CEN: nie scalaj plików `src/data/historia-cen/` ręcznie — `git checkout origin/main -- src/data/historia-cen/`, a po naniesieniu danych uruchom `node scripts/historia-cen.mjs`; skrypt porówna Twoje dzisiejsze ceny z `_ostatnie.json` z origin i dopisze tylko różnice (28.09 ręczne przełożenie zgubiło 732 wpisy). Potem znów walidacja i build, dopiero wtedy push.
 5. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
 
-PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), weryfikacje PK, zmiany cen (ile w górę), deale gorące (cena, rabat, zł/klocek), obowiązkowe kategorie (liczba z progiem per kategoria), gotowe posty dealowe, import Empiku (jeśli był).
+PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), kontrola kart ME (z `_meta.mediaexpert_karty`), weryfikacje PK, zmiany cen (ile w górę), nowe wpisy historii cen, deale gorące (cena, rabat, zł/klocek), obowiązkowe kategorie (liczba z progiem per kategoria), gotowe posty dealowe, import Empiku (jeśli był).
 
 BUDŻET: pracuj oszczędnie — jedno uruchomienie skryptu, przetwarzanie w Pythonie, bez powtarzania kroków i bez eksperymentów z parsowaniem. Jeśli skrypt zwróci błąd, napisz jaki i zakończ, zamiast parsować feedy ręcznie.
 
