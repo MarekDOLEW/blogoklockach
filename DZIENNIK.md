@@ -263,6 +263,12 @@ w normalnej skali (rzędu kilkuset wpisów, nie 65).
   wymienione w tekście (76442, 76445, 76447, 76452) już są. Sama dziesiątka z rankingu
   (75192, 42179, 40516, 75397, 10335, 21353, 40805, 21060, 31171, 60495) jest w pliku w całości.
 
+→ Wycofania 2026-10-05: odrzucone (na razie). U źródła: 76477 występuje tylko w sekcji
+„Extra-Tipp" jako prognoza redakcji StoneWars, nie oznaczenie LEGO; drugiego niezależnego
+źródła brak (sprawdzono promobricks/web). Do tego 76477 to wg katalogu „Norbert: mały smok
+Hagrida" (premiera VI 2026, widziany na listingu lego.pl 29.09) — nazwa z sygnału nie pasuje.
+Wrócę do tematu, gdy potwierdzi drugie źródło albo LEGO oznaczy zestaw w sklepie.
+
 ## 2026-09-30 19:00 · CODE · Routines po audycie: czas polski, Łowca z buildem, Harmonogram w tej sesji
 
 **Zrobione na koncie:**
