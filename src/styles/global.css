@@ -1551,3 +1551,22 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .listing-sterowanie label { justify-content: space-between; }
   .listing-sterowanie select { flex: 1; }
 }
+
+/* ---------- Mobile: slajder okazji i tabela promocji (Marek 05.10.2026) ----------
+   Slajder: zdjęcie w mniejszym kwadracie, żeby cena była widoczna bez przewijania;
+   półka cenowa jako granatowy prostokąt w prawym górnym rogu, tuż pod żółtą kreską.
+   Tabela: cena w jednym wierszu z ceną katalogową i rabatem, przycisk wyśrodkowany
+   (nazwa sklepu jest na przycisku, więc przy cenie jej nie powtarzamy). */
+@media (max-width: 760px) {
+  .deale-slajder .deal-dnia { position: relative; padding-top: 20px; gap: 16px; }
+  .deale-slajder .deal-foto { width: min(100%, 220px); justify-self: center; }
+  .deale-slajder .slajd-polka { position: absolute; top: 0; right: 0; z-index: 1; border-radius: 0 0 0 6px; padding: 6px 12px; font-size: 0.85rem; letter-spacing: 0.04em; }
+}
+@media (max-width: 720px) {
+  .tabela-promocje .kol-cena { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; width: auto; }
+  .tabela-promocje .kol-cena .set-cena { margin-left: 0; order: 2; }
+  .tabela-promocje .kol-cena .promo-cena-gora { order: 1; }
+  .tabela-promocje .kol-cena .set-sklep { order: 3; margin-left: 0; }
+  .tabela-promocje .kol-cta { width: auto; text-align: center; }
+  .tabela-promocje .cta { display: inline-block; min-width: 70%; }
+}

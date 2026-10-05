@@ -415,7 +415,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   <td class="kol-cena">
                     <span class="promo-cena-gora"><span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span> <span class="badge-rabat-mini">−{rabat(s)}%</span></span>
                     <span class="set-cena">{fmtCena(oferta.cena)}</span>
-                    <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>
+                    {!aff && <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>}
                   </td>
                   <td class="kol-cta">
                     {aff
