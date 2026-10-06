@@ -92,6 +92,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-06 08:25 · RADAR · Do zrobienia
+
+**fanklockow.pl · 05.10** — Zapraszają na transmisję ze wspólnych zakupów przy starcie 9. serii BrickLink Designer Program, który wypada dziś.
+**Mamy?** — tak: `/kalendarz-promocji-lego/#bldp` z terminem, pełnym składem serii i pięcioma cenami katalogowymi.
+**Zrobić:** — ZROBIONE w tym przebiegu: nagłówek mówił „seria 9", a zdanie pod nim „piątej serii" — poprawione na „dziewiątej".
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 05.10** — LEGO i Sanrio ogłosiły wieloletnią współpracę: Hello Kitty wchodzi do klocków, pierwsze produkty w 2027 roku.
+**Mamy?** — nie: dział licencji kończy się na Nike i Formule 1 (`/artykuly/historia-licencji-lego-gry-sport-lifestyle/`, tekst z 21.09), Sanrio tam nie ma.
+**Zrobić:** — uzupełnić ten artykuł o akapit o licencji Sanrio (oficjalne oświadczenie obu firm, opisane niezależnie przez oba serwisy — nie plotka).
+**Kto:** — Piotr (tekst)
+
+Uwaga do pierwszej pozycji, żeby nikt tego nie „poprawił" w drugą stronę: ich
+**16:15 to godzina transmisji live**, nie startu sprzedaży. Nasze 17:00 w kalendarzu
+zostaje bez zmian — potwierdzaliśmy je w dwóch serwisach branżowych.
+
+
 ## 2026-10-04 08:15 · RADAR · Do zrobienia
 
 **fanklockow.pl · 03.10** — Wideorecenzja LEGO 72306 PlayStation, czyli świeżej premiery za 689,99 zł, która właśnie weszła w okno prezentowe.

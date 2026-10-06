@@ -152,7 +152,7 @@ Prognozowaliśmy tu wcześniej „premierę dużego UCS-a na początku paździer
 
 <h3 id="bldp">6 października: przedsprzedaż BrickLink Designer Program, seria 9 <span class="status status--ok">potwierdzone</span></h3>
 
-We wtorek **6 października o 17:00** rusza sprzedaż piątej serii z programu
+We wtorek **6 października o 17:00** rusza sprzedaż dziewiątej serii z programu
 BrickLink Designer Program — pięć zestawów projektowanych przez fanów:
 
 | Zestaw | Cena katalogowa |
