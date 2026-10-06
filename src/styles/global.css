@@ -1568,7 +1568,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .deal-kategoria { display: flex; gap: 6px 12px; flex-wrap: wrap; font-size: 1rem; color: var(--granat-60); margin-top: -6px; }
 .deal-kategoria strong { color: var(--granat); }
 .deal-dnia .deal-tresc > .eyebrow { font-size: 0.72rem; color: var(--granat-60); font-weight: 700; }
-.deal-dnia .deal-tresc > .eyebrow .slajd-licznik { margin-left: auto; }
+.deale-slajder .slajd-licznik { position: absolute; top: 10px; left: 10px; z-index: 1; }
 @media (max-width: 720px) {
   .tabela-promocje .kol-cena { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; width: auto; }
   .tabela-promocje .kol-cena .set-cena { margin-left: 0; order: 2; }
@@ -1578,3 +1578,12 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .tabela-promocje .cta { display: inline-block; min-width: 70%; }
 }
 @media (max-width: 760px) { .deal-kategoria { font-size: 0.9rem; gap: 4px 12px; } .deal-kategoria .deal-etyk { display: none; } }
+/* slajder okazji na telefonie: treść wyśrodkowana pod wyśrodkowanym zdjęciem (Marek 06.10) */
+@media (max-width: 760px) {
+  .deal-dnia .deal-tresc { text-align: center; justify-items: center; }
+  .deal-dnia .deal-kategoria, .deal-dnia .deal-badges, .deal-dnia .deal-akcje { justify-content: center; }
+  .deal-dnia .deal-tresc > .eyebrow { justify-content: center; flex-wrap: wrap; gap: 8px; letter-spacing: 0.06em; }
+}
+/* „Podobne zestawy” na karcie zestawu: kwadrat jak w listingu, wysokość z szerokości
+   (atrybut height=225 na <img> robił z wąskiej kolumny pionowy prostokąt) */
+.set-karta--mini .miniatura { aspect-ratio: 1 / 1; height: auto; }

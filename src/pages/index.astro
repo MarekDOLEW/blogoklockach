@@ -312,6 +312,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   loading={i === 0 ? 'eager' : 'lazy'}
                 />
               </a>
+              {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
               {POLKI.find((p) => p.pasuje(oferta.cena)) && (
                 <span class="slajd-polka">{POLKI.find((p) => p.pasuje(oferta.cena)).etykieta}</span>
               )}
@@ -343,7 +344,6 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                 <span class="eyebrow">
                   <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
                   Okazja dnia · dane z {dzienDanych.split('-').reverse().join('.')}
-                  {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
                 </span>
               </div>
             </article>
