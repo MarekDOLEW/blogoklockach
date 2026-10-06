@@ -3,7 +3,7 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-10-05",
+  "zaktualizowano": "2026-10-06",
   "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-22 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
  },
  "21372": {
@@ -520,8 +520,8 @@
  "76339": {
   "nazwa": "Fantastyczna Czwórka H.E.R.B.I.E.",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 179.99,
-  "najnizsza_data": "2026-09-30",
+  "najnizsza_cena": 179.0,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "43023": {
@@ -576,8 +576,8 @@
  "75459": {
   "nazwa": "Imperialny prom typu Lambda",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 529.67,
-  "najnizsza_data": "2026-10-01",
+  "najnizsza_cena": 529.63,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "77983": {
@@ -835,8 +835,8 @@
  "77079": {
   "nazwa": "Pomidorek",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 40.87,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 40.77,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "43017": {
@@ -1003,9 +1003,9 @@
  "71868": {
   "nazwa": "Transformujący smoczy mech Wyldfyre",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 267,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 266.9,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11217": {
   "nazwa": "Rodzina Blue z klocków",
@@ -1234,8 +1234,8 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 336.17,
-  "najnizsza_data": "2026-09-29",
+  "najnizsza_cena": 333.22,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "76340": {
@@ -1311,8 +1311,8 @@
  "42701": {
   "nazwa": "Sanktuarium koali",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 241.99,
-  "najnizsza_data": "2026-08-19",
+  "najnizsza_cena": 238.19,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "42700": {
@@ -1332,15 +1332,15 @@
  "10462": {
   "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.9,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 53.99,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "60510": {
   "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 79.5,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 76.97,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "76346": {
@@ -1360,8 +1360,8 @@
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 191.22,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 190.42,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "43298": {
@@ -1388,8 +1388,8 @@
  "71053": {
   "nazwa": "Seria Shrek",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 12.8,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 12.75,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "40975": {
@@ -1402,8 +1402,8 @@
  "76788": {
   "nazwa": "Akademia Nevermore",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 230.66,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 229.98,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "10464": {
@@ -1437,8 +1437,8 @@
  "72162": {
   "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 188.99,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 187.99,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "72163": {
@@ -1451,15 +1451,15 @@
  "72164": {
   "nazwa": "SMART Play: Dom treningowy z Pikachu",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 227.93,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 227.92,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "72157": {
   "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 62.74,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 62.63,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "40958": {
@@ -1472,8 +1472,8 @@
  "72159": {
   "nazwa": "SMART Play: Jigglypuff i koncert",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41.99,
-  "najnizsza_data": "2026-10-01",
+  "najnizsza_cena": 41.17,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "72166": {
@@ -1521,9 +1521,9 @@
  "72156": {
   "nazwa": "SMART Play: zestaw startowy",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 89.9,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 89.8,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75426": {
   "nazwa": "SMART Play: Sokół Millennium",
@@ -1801,8 +1801,8 @@
  "75456": {
   "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 104.97,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 101.03,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "21367": {
@@ -1822,8 +1822,8 @@
  "11372": {
   "nazwa": "Jesienny ogród z chatką",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 311.25,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 309.0,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "21376": {
@@ -1864,8 +1864,8 @@
  "77984": {
   "nazwa": "Jurassic Park Jeep Wrangler",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 749.99,
-  "najnizsza_data": "2026-08-25",
+  "najnizsza_cena": 749.98,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "75442": {
@@ -2417,8 +2417,8 @@
  "42214": {
   "nazwa": "Supersamochód Lamborghini Revuelto",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 499,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 495.0,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "72042": {
@@ -2515,8 +2515,8 @@
  "43267": {
   "nazwa": "Zamek księżniczek i królewskie zwierzaki",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 369,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 368.91,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "43245": {
@@ -3733,9 +3733,9 @@
  "10452": {
   "nazwa": "Świnka Peppa Wyprawa na biwak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.99,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76257": {
   "nazwa": "Figurka Wolverine’a do zbudowania",
@@ -3838,8 +3838,8 @@
  "11024": {
   "nazwa": "Szara płytka konstrukcyjna",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41.9,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 41.8,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "77237": {
@@ -3922,9 +3922,9 @@
  "31173": {
   "nazwa": "Dzikie zwierzęta Tropikalny tukan",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 40.9,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60294": {
   "nazwa": "Ciężarówka kaskaderska",
@@ -4321,8 +4321,8 @@
  "10453": {
   "nazwa": "Peppa Pig Wesołe miasteczko",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 152.97,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 152.96,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "43276": {
@@ -4797,8 +4797,8 @@
  "76967": {
   "nazwa": "Tyranozaur Mały",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 88.45,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 88.07,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "77246": {
@@ -4951,8 +4951,8 @@
  "60430": {
   "nazwa": "Statek międzygwiezdny",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.98,
-  "najnizsza_data": "2026-10-03",
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "71857": {
@@ -5007,8 +5007,8 @@
  "75356": {
   "nazwa": "Gwiezdny superniszczyciel typu Executor",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 224.99,
-  "najnizsza_data": "2026-09-22",
+  "najnizsza_cena": 224.9,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "75433": {
@@ -5070,9 +5070,9 @@
  "42662": {
   "nazwa": "Salon fryzjerski i sklep z ozdobami",
   "cena_katalogowa": 199.99,
-  "najnizsza_cena": 149,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 143.84,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10914": {
   "nazwa": "Pudełko z klockami Deluxe",
@@ -5399,9 +5399,9 @@
  "77238": {
   "nazwa": "Lamborghini Revuelto i Huracán STO",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 149.99,
-  "najnizsza_data": "2026-09-29",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 149.89,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10344": {
   "nazwa": "Dracena sandera",
@@ -5441,9 +5441,9 @@
  "60341": {
   "nazwa": "Wyzwanie kaskaderskie: przewracanie",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 66,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 65.95,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "allegro"
  },
  "43248": {
   "nazwa": "W głowie się nie mieści 2 - kostki z emocjami",
@@ -5483,9 +5483,9 @@
  "10456": {
   "nazwa": "Disney Wizyta McQueena w warsztacie Wójta",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 90.59,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 90.49,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71440": {
   "nazwa": "Przygody z interaktywną figurką Luigi",
@@ -5609,8 +5609,8 @@
  "41725": {
   "nazwa": "Zabawa z łazikiem plażowym",
   "cena_katalogowa": 42.99,
-  "najnizsza_cena": 22.99,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 19.98,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "10468": {
@@ -5847,9 +5847,9 @@
  "31170": {
   "nazwa": "Dzikie zwierzęta różowy flaming",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 65.96,
-  "najnizsza_data": "2026-09-30",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 65.66,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "allegro"
  },
  "30661": {
   "nazwa": "Budka powitalna Ashy",
@@ -6092,8 +6092,8 @@
  "11198": {
   "nazwa": "Spider-Man Pościg Spina za Electro w dinopojeździe",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.98,
-  "najnizsza_data": "2026-09-30",
+  "najnizsza_cena": 55.88,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "60504": {
@@ -6246,8 +6246,8 @@
  "30736": {
   "nazwa": "Biały wodnosamolot",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 12.72,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 12.5,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "40921": {
@@ -6302,8 +6302,8 @@
  "30688": {
   "nazwa": "Tropikalny tukan",
   "cena_katalogowa": 16.99,
-  "najnizsza_cena": 12.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 12.98,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "40911": {
@@ -6715,8 +6715,8 @@
  "40881": {
   "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego – figurki",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 123,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 120.68,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "42648": {
@@ -6771,8 +6771,8 @@
  "43281": {
   "nazwa": "Lodowy zamek Elzy i Śnieżna przejażdżka",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 149.98,
-  "najnizsza_data": "2026-09-29",
+  "najnizsza_cena": 149.89,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "40871": {
@@ -7303,8 +7303,8 @@
  "10475": {
   "nazwa": "Maszyny budowlane 3 w 1",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 71.98,
-  "najnizsza_data": "2026-09-29",
+  "najnizsza_cena": 71.88,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "10471": {
@@ -7415,9 +7415,9 @@
  "71508": {
   "nazwa": "Lisi mech-strażnik",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 234.9,
-  "najnizsza_data": "2026-09-19",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 233.42,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43284": {
   "nazwa": "Mała Anna i Elza",
@@ -7723,8 +7723,8 @@
  "42221": {
   "nazwa": "Rakieta SLS NASA Artemis",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 177.98,
-  "najnizsza_data": "2026-09-30",
+  "najnizsza_cena": 177.88,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "40917": {
@@ -7814,8 +7814,8 @@
  "42696": {
   "nazwa": "Lecznica dla zwierząt",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79.1,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 77.41,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  },
  "76282": {
@@ -7842,8 +7842,8 @@
  "42652": {
   "nazwa": "Spotkanie w domku na Drzewie Przyjaźni",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 199.89,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 199.79,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "mediaexpert"
  },
  "40809": {
@@ -7947,8 +7947,8 @@
  "11379": {
   "nazwa": "Księgarnia — zakątek z książkami",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 440.72,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 437.54,
+  "najnizsza_data": "2026-10-06",
   "najnizsza_sklep": "allegro"
  }
 }
