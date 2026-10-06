@@ -15,7 +15,6 @@ import { linkAfiliacyjny, fmtCena, fmtElementy, odmien, nazwaSklepu, relLinku as
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
 
-const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
 const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
@@ -313,16 +312,15 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   loading={i === 0 ? 'eager' : 'lazy'}
                 />
               </a>
+              {POLKI.find((p) => p.pasuje(oferta.cena)) && (
+                <span class="slajd-polka">{POLKI.find((p) => p.pasuje(oferta.cena)).etykieta}</span>
+              )}
               <div class="deal-tresc">
-                <span class="eyebrow">
-                  <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-                  Okazja dnia · dane z {dzienDanych.split('-').reverse().join('.')}
-                  {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
-                  {POLKI.find((p) => p.pasuje(oferta.cena)) && (
-                    <span class="slajd-polka">{POLKI.find((p) => p.pasuje(oferta.cena)).etykieta}</span>
-                  )}
-                </span>
                 <h2 class="deal-tytul">LEGO {deal.nr} {deal.nazwa}</h2>
+                <div class="deal-kategoria">
+                  <span>seria <strong>{deal.seria}</strong></span>
+                  <span>wiek <strong>{deal.wiek}</strong></span>
+                </div>
                 <div class="cena-duza">
                   {fmtCena(oferta.cena)}
                   <small>{fmtCena(deal.cena_katalogowa)}</small>
@@ -333,12 +331,6 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                     <span class="badge-najnizsza">nowe minimum cenowe</span>
                   )}
                 </div>
-                <div class="deal-meta">
-                  <span><strong>{fmtElementy(deal.elementy)}</strong> {odmien(deal.elementy, 'element', 'elementy', 'elementów')}</span>
-                  <span><strong>{zaKlocek(deal)} zł</strong> za klocek</span>
-                  <span>seria <strong>{deal.seria}</strong></span>
-                  <span>wiek <strong>{deal.wiek}</strong></span>
-                </div>
                 <div class="deal-akcje">
                   {oferta && linkAfiliacyjny(oferta.sklep, deal.nr) && (
                     <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} target="_blank" rel={relSklepu(oferta.sklep, deal.nr)}>
@@ -347,6 +339,14 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   )}
                   <a class="deal-wiecej" href={`/zestaw/${deal.nr}/`} target="_blank" rel="noopener">Pełna karta zestawu i porównanie cen →</a>
                 </div>
+                <div class="deal-meta">
+                  <span><strong>{fmtElementy(deal.elementy)}</strong> {odmien(deal.elementy, 'element', 'elementy', 'elementów')}</span>
+                </div>
+                <span class="eyebrow">
+                  <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+                  Okazja dnia · dane z {dzienDanych.split('-').reverse().join('.')}
+                  {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
+                </span>
               </div>
             </article>
           );

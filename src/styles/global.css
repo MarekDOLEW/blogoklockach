@@ -1558,10 +1558,17 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
    Tabela: cena w jednym wierszu z ceną katalogową i rabatem, przycisk wyśrodkowany
    (nazwa sklepu jest na przycisku, więc przy cenie jej nie powtarzamy). */
 @media (max-width: 760px) {
-  .deale-slajder .deal-dnia { position: relative; padding-top: 20px; gap: 16px; }
+  .deale-slajder .deal-dnia { padding-top: 20px; gap: 16px; }
   .deale-slajder .deal-foto { width: min(100%, 220px); justify-self: center; }
-  .deale-slajder .slajd-polka { position: absolute; top: 0; right: 0; z-index: 1; border-radius: 0 0 0 6px; padding: 6px 12px; font-size: 0.85rem; letter-spacing: 0.04em; }
 }
+/* Kolejność slajdu (Marek 06.10): nazwa → seria i wiek → cena → przycisk → elementy
+   i cena za klocek → „okazja dnia · dane z” na końcu. Półka cenowa w rogu na każdej szerokości. */
+.deale-slajder .deal-dnia { position: relative; }
+.deale-slajder .slajd-polka { position: absolute; top: 0; right: 0; z-index: 1; border-radius: 0 0 0 6px; padding: 6px 12px; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.deal-kategoria { display: flex; gap: 14px; flex-wrap: wrap; font-size: 1rem; color: var(--granat-60); margin-top: -6px; }
+.deal-kategoria strong { color: var(--granat); }
+.deal-dnia .deal-tresc > .eyebrow { font-size: 0.72rem; color: var(--granat-60); font-weight: 700; }
+.deal-dnia .deal-tresc > .eyebrow .slajd-licznik { margin-left: auto; }
 @media (max-width: 720px) {
   .tabela-promocje .kol-cena { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; width: auto; }
   .tabela-promocje .kol-cena .set-cena { margin-left: 0; order: 2; }
