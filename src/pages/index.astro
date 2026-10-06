@@ -318,8 +318,9 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
               <div class="deal-tresc">
                 <h2 class="deal-tytul">LEGO {deal.nr} {deal.nazwa}</h2>
                 <div class="deal-kategoria">
-                  <span>seria <strong>{deal.seria}</strong></span>
+                  <span><span class="deal-etyk">seria </span><strong>{deal.seria}</strong></span>
                   <span>wiek <strong>{deal.wiek}</strong></span>
+                  <span><strong>{fmtElementy(deal.elementy)}</strong> {odmien(deal.elementy, 'element', 'elementy', 'elementów')}</span>
                 </div>
                 <div class="cena-duza">
                   {fmtCena(oferta.cena)}
@@ -338,9 +339,6 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                     </a>
                   )}
                   <a class="deal-wiecej" href={`/zestaw/${deal.nr}/`} target="_blank" rel="noopener">Pełna karta zestawu i porównanie cen →</a>
-                </div>
-                <div class="deal-meta">
-                  <span><strong>{fmtElementy(deal.elementy)}</strong> {odmien(deal.elementy, 'element', 'elementy', 'elementów')}</span>
                 </div>
                 <span class="eyebrow">
                   <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>

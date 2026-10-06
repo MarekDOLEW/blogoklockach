@@ -1565,7 +1565,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
    i cena za klocek → „okazja dnia · dane z” na końcu. Półka cenowa w rogu na każdej szerokości. */
 .deale-slajder .deal-dnia { position: relative; }
 .deale-slajder .slajd-polka { position: absolute; top: 0; right: 0; z-index: 1; border-radius: 0 0 0 6px; padding: 6px 12px; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; }
-.deal-kategoria { display: flex; gap: 14px; flex-wrap: wrap; font-size: 1rem; color: var(--granat-60); margin-top: -6px; }
+.deal-kategoria { display: flex; gap: 6px 12px; flex-wrap: wrap; font-size: 1rem; color: var(--granat-60); margin-top: -6px; }
 .deal-kategoria strong { color: var(--granat); }
 .deal-dnia .deal-tresc > .eyebrow { font-size: 0.72rem; color: var(--granat-60); font-weight: 700; }
 .deal-dnia .deal-tresc > .eyebrow .slajd-licznik { margin-left: auto; }
@@ -1577,3 +1577,4 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .tabela-promocje .kol-cta { width: auto; text-align: center; }
   .tabela-promocje .cta { display: inline-block; min-width: 70%; }
 }
+@media (max-width: 760px) { .deal-kategoria { font-size: 0.9rem; gap: 4px 12px; } .deal-kategoria .deal-etyk { display: none; } }
