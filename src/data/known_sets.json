@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-10-04",
+  "data_aktualizacji": "2026-10-06",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1180,
+  "liczba_setow": 1183,
   "sety": [
     "10280",
     "10281",
@@ -1182,7 +1182,10 @@
     "40899",
     "11390",
     "71873",
-    "71875"
+    "71875",
+    "67008",
+    "67009",
+    "67012"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1681,6 +1684,12 @@
       "nazwa": "FIFA World Cup Official Trophy — Champions Edition",
       "status": "Brickset 2026-10-03: motyw 'Editions', podseria 'Football', 2845 elementow, wiek 14+, availability 'LEGO exclusive', released true, 5 zdjec dodatkowych. BRAK ceny detalicznej w ktorymkolwiek z czterech rynkow i brak launchDate. Ani PromoBricks, ani StoneWars nie pisza o tym zestawie — sprawdzone w tresci stron glownych 04.10.2026 (szukane: FIFA, Trophy, Pokal, numer). Numery 4000xxx to u Bricksetu wydania specjalne i limitowane, nie detal, dlatego zestaw nie wchodzi do sety.json: brak ceny i kanalu sprzedazy. Do obserwacji — 2845 elementow to duzy model, a rok mundialu czyni temat atrakcyjnym, jesli trafi do sprzedazy.",
       "premiera": "2026"
+    },
+    {
+      "numer": "40898",
+      "nazwa": "Wenecja — gratis listopadowy (Icons)",
+      "status": "Brickset 2026-10-05: rekord bez nazwy, availability 'LEGO Gift with Purchase', launchDate 2026-11-01. StoneWars 05.10 ustalil, czym to jest: LEGO omylkowo osadzilo grafike '40898_Prod.png' na stronie produktowej 67012. To gratis do duzej Wenecji (11388). Przeniesiony do przecieki.json z pewnoscia 'srednia'.",
+      "premiera": "2026-11"
     }
   ],
   "luki_w_bazie": {
@@ -6284,5 +6293,16 @@
     "przecieki": "Bez zmian: 26 wpisow, 5 rozstrzygnietych. Nic nowego w zrodlach newsowych, nic do podniesienia ani rozstrzygniecia.",
     "odsiane": "8483 CyberMaster (Technic, 1998), 40958 Christmas Stocking (dotkniety, juz opisany z cena), ISBN9780241816516 (kategoria 'Book').",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=03.10). PromoBricks i StoneWars — strony glowne, bez nowych tekstow o nowosciach katalogowych. Razem 3 pobrania."
+  },
+  "przeglad_2026_10_06": {
+    "nowosci": "Trzy zestawy DC rocznika 2027, wszystkie z podseria lub motywem Batman: 67008 Batmobil z 'Powrotu Batmana' i kaczka (672 el., 9+, 59,99 EUR), 67009 Batmobil Batmana z Arkham (317 el., 9+, 29,99 EUR) i 67012 Joker — okladka komiksu jako dekoracja scienna (1849 el., 18+, 169,99 EUR). Wszystkie trzy maja launchDate 2027-01-01, availability 'Retail', zdjecia (11, 10 i 13 dodatkowych) oraz ceny detaliczne w US, UK, CA i DE z dateFirstAvailable 2026-10-06 — karty produktowe LEGO ruszyly dzis. Dolozone do sety.json bez ceny katalogowej: feed polskiego sklepu ich jeszcze nie ma.",
+    "nowa_podseria": "67008 i 67009 naleza do nowej podserii 'Legendary Batmobile Collection'. To nowa linia w DC na 2027 rok — jesli LEGO bedzie ja ciagnac, pierwsza fala stanie sie punktem odniesienia dla calej kolekcji. 67012 jest poza nia, w podserii Batman.",
+    "przeciek_rozstrzygniety": "67008 -> potwierdzony, pewnosc podniesiona z 'srednia' na 'wysoka'. Numer i termin zgodne. Osi ceny nie oceniam: przeciek podawal 215 zl orientacyjnie, polskiej ceny katalogowej nie ma, a oficjalne RRP DE (59,99 EUR) daje po przeliczeniu okolo 253 zl, czyli ~18% powyzej przecieku. Zapisane w co_sie_zmienilo jako podstawa ewentualnej korekty na 'zmieniony'.",
+    "nadal_otwarte": "67005 (Sanctum Strange'a Supreme) i 67006 (Marvel Skyline) to przecieki Marvela z tej samej serii numerow, ale dzisiejsza partia ich nie dotyczy — zostaja otwarte z pewnoscia 'srednia'.",
+    "nowa_rezerwacja": "40898 — listopadowy gratis Icons, launchDate 2026-11-01, availability 'LEGO Gift with Purchase', bez nazwy i bez zdjec. Dopisany do zapowiedzi_sledzone.",
+    "odsiane": "Duza partia rekordow promocyjnych i eventowych: 5010487 (minifigurka na 5 lat w Japonii), 5010878 i 5011181 (plytki 'I Love LEGO Store', 1 element), 5011070 Santas Workshop, 5011071 Gingerbread House, 5011164 Beetle Garden, 6644890 The Holiday Duo oraz osiem rekordow Make & Take ze sklepow: GHOSTSTREET, HPHOLIDAY, NORTHPOLE, PUMPKIN, REINDEER, SANTA, WEBGOAL, WITCHPUMPKIN. Wszystkie z kategoria '{t.b.a.}' albo 'Extended', bez cen i bez dat — to buildy eventowe, nie sprzedaz. Plus 5008195 Jack-o'-lantern (2023, kategoria 'Other').",
+    "przecieki_wenecja": "Dopisany 40898 (pewnosc 'srednia') — gratis do Wenecji, ktorego zdjecie wyciekllo z samej strony produktowej LEGO (plik 40898_Prod.png osadzony omylkowo na karcie 67012). Katalog potwierdza numer, forme gratisu i launchDate 2026-11-01. Przy tej okazji 11388 (Wenecja, diorama Icons) podniesiona z 'niska' na 'srednia': doszedl dowod po stronie producenta, choc posredni. Do 'wysokiej' brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w tresci strony glownej, nie tylko w naglowkach).",
+    "potwierdzenie_zewnetrzne": "StoneWars 05.10 niezaleznie opisal cala partie DC: 67012 'offiziell vorgestellt und vorbestellbar' oraz dwa Batmobile z kaczka i minifigurka Pingwina na styczen 2027, 'jetzt vorbestellbar'. Zgadza sie z danymi katalogowymi.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=05.10). StoneWars — strona glowna plus artykul o gratisie 40898. PromoBricks — strona glowna, bez nowych tekstow; sprawdzone w tresci, ze nie pisze ani o Wenecji, ani o partii DC. Razem 4 pobrania."
   }
 }

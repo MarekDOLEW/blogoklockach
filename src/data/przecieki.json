@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-03"
+  "zaktualizowano": "2026-10-06"
  },
  "przecieki": [
   {
@@ -288,20 +288,29 @@
    "numer": "67008",
    "nazwa": "Batmobil z „Powrotu Batmana\"",
    "seria": "DC",
-   "elementy": null,
+   "elementy": 672,
    "cena_wg_zrodla": 215,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z oficjalna nazwa, 672 elementami, podseria i cenami czterech rynkow",
+     "url": "https://brickset.com/sets/67008-1",
+     "data": "2026-10-06"
     }
    ],
    "dodano": "2026-09-15",
    "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-06",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę."
+   }
   },
   {
    "id": "daily-planet",
@@ -404,16 +413,21 @@
    "elementy": 5700,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-11",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Erste Infos zum LEGO Venedig (11388)?”",
      "url": "https://stonewars.de/",
      "data": "2026-09-09"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
+     "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
+     "data": "2026-10-05"
     }
    ],
    "dodano": "2026-09-23",
-   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu.",
+   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
    "rozstrzygniecie": null
   },
   {
@@ -592,6 +606,26 @@
    ],
    "dodano": "2026-10-03",
    "uwagi": "Dowód: wyciekłe zdjęcia przodu i tyłu pudełka, z których StoneWars odczytuje 158 elementów, dwie minifigurki i wiek 18+. Projekt jest znany — to zwycięzca konkursu LEGO Ideas „Build Your Hobby” autorstwa użytkownika „Doomslizer”, ogłoszony 3 września 2025, więc sam zestaw nie jest wymysłem. Niepewne pozostają trzy rzeczy: nazwa handlowa (StoneWars podaje ją ze znakiem zapytania), termin (koniec października wg kanału BrickTap na Reddicie, czyli źródła społecznościowego) oraz próg zakupu, którego nikt nie podaje. Brickset ma numer 40889 jako pusty rekord Ideas rocznika 2026 — bez nazwy, elementów i daty. Ciekawostka dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, które wcześniej były wyłącznie w starym odcieniu szarości.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40898",
+   "numer": "40898",
+   "nazwa": "Wenecja — gratis do dużego zestawu (nazwa niepotwierdzona)",
+   "seria": "Icons",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
+     "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
+     "data": "2026-10-05"
+    }
+   ],
+   "dodano": "2026-10-06",
+   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
    "rozstrzygniecie": null
   }
  ]
