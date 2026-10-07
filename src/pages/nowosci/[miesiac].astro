@@ -14,7 +14,7 @@
 import Base from '../../layouts/Base.astro';
 import Okruszki from '../../components/Okruszki.astro';
 import sety from '../../data/sety.json';
-import { urlZdjecia, obrazStaly } from '../../lib/media.js';
+import { urlZdjecia, obrazPlynny } from '../../lib/media.js';
 import { miesiac, ymZeSlugu, PROG_SETOW } from '../../lib/miesiace.js';
 import { statusNowosci } from '../../lib/premiery.js';
 import { odmien } from '../../lib/oferty.js';
@@ -138,10 +138,10 @@ const jsonld = {
   <p>Bieżące ceny w sklepach są w tabelach na podstronach zestawów – klikasz kafelek i widzisz, gdzie dziś najtaniej. Terminy okien promocyjnych zbieramy w <a href="/kalendarz-promocji-lego/">kalendarzu promocji</a>, a to, co z rynku znika, w dziale <a href="/wycofania/">Wycofania</a>.</p>
 
   <div class="siatka siatka--nowosci">
-    {zestawy.map((s) => (
+    {zestawy.map((s, i) => (
       <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
         {s.foto ? (
-          <img class="miniatura" {...obrazStaly(s.foto, 440, 880)} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />
+          <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" />
         ) : (
           <div class="foto-brak" aria-hidden="true"><span class="studs"><i></i><i></i><i></i><i></i></span></div>
         )}

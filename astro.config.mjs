@@ -47,7 +47,10 @@ export default defineConfig({
         weights: [700, 800],
         styles: ['normal'],
         subsets: ['latin', 'latin-ext'],
-        fallbacks: ['system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
+        // Czcionki zastępcze z metrykami definiujemy sami w global.css (Astro
+        // dopasowałoby tylko Arial, a Android ma Roboto, Linux Liberation Sans).
+        fallbacks: [],
+        optimizedFallbacks: false,
       },
     ],
   },

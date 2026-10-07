@@ -4,6 +4,23 @@
    żółty klockowy (marka), czerwień (cena/deal),
    zieleń (najniższa cena w historii).
    ============================================ */
+/* ── Czcionki zastępcze dla Archivo z dopasowanymi metrykami ───────────────
+   Fonts API Astro generuje dopasowanie tylko do Arial, a Android ma Roboto,
+   Linux (i maszyny PageSpeed) Liberation Sans. Bez tego podmiana kroju po
+   załadowaniu woff2 zmieniała wysokość nagłówków i przesuwała układ (CLS 0,23
+   na hubach zestawów, audyt 7.10.2026). Wartości policzone z metryk Archivo 700
+   (xWidthAvg 0,4720 em, ascent 0,878, descent 0,210) i metryk capsize. */
+/* Android */
+@font-face { font-family: "Archivo zastepcza Roboto"; src: local("Roboto"); size-adjust: 106.1102%; ascent-override: 82.7442%; descent-override: 19.7908%; line-gap-override: 0%; }
+/* iOS, macOS, Windows */
+@font-face { font-family: "Archivo zastepcza Arial"; src: local("Arial"); size-adjust: 105.8769%; ascent-override: 82.9265%; descent-override: 19.8344%; line-gap-override: 0%; }
+/* Linux, także maszyny PageSpeed Insights (metryki zgodne z Arial) */
+@font-face { font-family: "Archivo zastepcza Liberation Sans"; src: local("Liberation Sans"); size-adjust: 105.8769%; ascent-override: 82.9265%; descent-override: 19.8344%; line-gap-override: 0%; }
+/* Windows bez Arial */
+@font-face { font-family: "Archivo zastepcza Segoe UI"; src: local("Segoe UI"); size-adjust: 106.4596%; ascent-override: 82.4726%; descent-override: 19.7258%; line-gap-override: 0%; }
+/* starsze macOS/iOS */
+@font-face { font-family: "Archivo zastepcza Helvetica Neue"; src: local("Helvetica Neue"); size-adjust: 104.8887%; ascent-override: 83.7078%; descent-override: 20.0213%; line-gap-override: 0%; }
+
 :root {
   --papier: #f6f7f9;
   --karta: #ffffff;
@@ -16,7 +33,7 @@
   --zielen: #0f7a43;
   --linia: #dde1e8;
 
-  --font-display: var(--font-archivo, "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif);
+  --font-display: var(--font-archivo, "Archivo"), "Archivo zastepcza Roboto", "Archivo zastepcza Arial", "Archivo zastepcza Liberation Sans", "Archivo zastepcza Segoe UI", "Archivo zastepcza Helvetica Neue", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
 
@@ -447,7 +464,7 @@ a.set-mini img { cursor: pointer; }
 .badge-status { display: inline-block; font-weight: 700; font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
 .badge-status--sprzedaz { background: rgba(22,138,76,0.12); color: var(--zielen); border: 1px solid rgba(22,138,76,0.30); }
 .badge-status--eol { background: var(--papier); color: var(--granat-60); border: 1px solid var(--linia); }
-.badge-status--pewny { background: rgba(224,49,47,0.10); color: var(--czerwien); border: 1px solid rgba(224,49,47,0.28); }
+.badge-status--pewny { background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28); }
 .badge-status--prognoza { background: #fff8e1; color: #8a6100; border: 1px solid rgba(230,174,0,0.45); }
 
 .set-kiedy { display: block; font-size: 0.75rem; font-weight: 700; color: var(--czerwien); margin-bottom: 4px; }
