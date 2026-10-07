@@ -220,3 +220,42 @@ npx lighthouse https://tylkoklocki.pl/ --output=html --output-path=lh.html \
 ```
 
 albo https://pagespeed.web.dev/ (dodatkowo pokaże dane terenowe CrUX).
+
+## 6. Po wdrożeniu (7.10.2026, ten sam dzień)
+
+Wdrożone na `main` (commity `77e2298`, `12c281a`, `b21d238`): skalowanie
+obrazów `?w=` przez Cloudflare Image Transformations z formatem AVIF/WebP
+dobranym z nagłówka Accept, `srcset`/`sizes` we wszystkich komponentach ze
+zdjęciami zestawów, `fetchpriority` i preload obrazu LCP, GA po `load`,
+czcionki przez Fonts API z własnymi czcionkami zastępczymi o dopasowanych
+metrykach (Roboto, Arial, Liberation Sans, Segoe UI, Helvetica Neue), CSS
+inline, `public/_headers` z `immutable`, poprawki dostępności.
+
+Pomiar tą samą metodą (Lighthouse z kontenera, mobile):
+
+| Strona | Wydajność przed → po | LCP przed → po | CLS przed → po | Waga przed → po |
+|---|---|---|---|---|
+| `/` (główna) | 60 → **93** | 5,7 s → 3,0 s | 0,02 → 0 | 1 329 → 405 KiB |
+| `/zestaw/10291/` (hub) | 59 → **93** | 5,4 s → 3,0 s | 0,23 → 0 | 410 → 353 KiB |
+| `/deale/deal-76325-…/` | 67 → **98** | 5,5 s → 1,4 s | 0 → 0 | 482 → 391 KiB |
+| `/promocje-lego/` | 72 → **82** | 5,1 s → 3,9 s | 0 → 0 | 838 → 447 KiB |
+| `/artykuly/lego-31163-…/` | 84 → **99** | 3,4 s → 1,3 s | 0,07 → 0 | 391 → 391 KiB |
+| `/serie/animal-crossing/` | 92 → **93** | 3,2 s → 2,8 s | 0 → 0 | 478 → 355 KiB |
+
+Desktop, strona główna: 94 → **100**. Dostępność: 91–98 → **100** na każdej
+mierzonej stronie. Przykładowe wagi obrazów: 42143 w slajderze 93 KB → 14 KB
+(AVIF 440 px), 75442 jako miniatura 246 KB → 1,7 KB.
+
+Co zostało:
+
+- `/promocje-lego/` (82): to już nie obrazy, tylko rozmiar dokumentu —
+  288 KB HTML (42 KB po brotli), 3 185 elementów DOM, 1,1 s samego renderu
+  po pobraniu obrazu LCP. Poprawa wymaga podziału listingu (stronicowanie
+  albo sekcje renderowane po przewinięciu) — osobna decyzja redakcyjna.
+- Obrazy w treści artykułów wstawione składnią markdown (`![…](/img/…)`)
+  nie dostają `?w=` ani wymiarów; CSS rezerwuje im proporcję 4:3, ale wciąż
+  pobierają oryginał. Warto dopisać wtyczkę remark, która dla `/img/` doda
+  `srcset` tak jak `remark-galeria`.
+- Lighthouse nadal wskazuje „oszczędność 24–94 KiB" na obrazach: przy
+  emulowanym ekranie 2,6× wybiera wariant 880 px dla kart ~300 px. To koszt
+  ostrości na ekranach Retina, zostawiamy świadomie.
