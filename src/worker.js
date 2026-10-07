@@ -54,9 +54,13 @@ export default {
       if (SZEROKOSCI.includes(szerokosc) && !przezUsluge) {
         const oryginal = new URL(url);
         oryginal.search = '';
-        const skalowany = await fetch(new Request(oryginal, { headers: { accept: request.headers.get('accept') ?? '' } }), {
+        // W Workerach `format: 'auto'` nie czyta nagłówka Accept — format
+        // wybieramy sami (sprawdzone 7.10.2026: z 'auto' wracał JPEG).
+        const accept = request.headers.get('accept') ?? '';
+        const format = /image\/avif/.test(accept) ? 'avif' : /image\/webp/.test(accept) ? 'webp' : undefined;
+        const skalowany = await fetch(new Request(oryginal, { headers: { accept } }), {
           cf: {
-            image: { width: szerokosc, fit: 'scale-down', format: 'auto', quality: 82, metadata: 'none' },
+            image: { width: szerokosc, fit: 'scale-down', ...(format ? { format } : {}), quality: 82, metadata: 'none' },
             cacheEverything: true,
             cacheTtl: 60 * 60 * 24 * 30,
           },
