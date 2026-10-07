@@ -1,0 +1,159 @@
+---
+// KOPIA ZAPASOWA (29.09.2026): listing /deale/ sprzed zastąpienia go stroną
+// /promocje-lego/ (301 z /deale/ w public/_redirects). noindex, poza menu i sitemapą.
+import Base from '../../layouts/Base.astro';
+import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
+import { zajawkiArtykulow, sortujPostyDealowe } from '../../lib/artykuly.js';
+import sety from '../../data/sety.json';
+import cenyBaza from '../../data/ceny_baza.json';
+import { urlZdjecia } from '../../lib/media.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
+import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
+
+// Dział Deale: automatyczna lista dealów gorących z danych Łowcy + posty
+// dealowe (markdown w tym katalogu). Ta strona nie zawiera ani jednej ręcznie
+// wpisanej ceny – wszystko liczy się przy buildzie z sety.json/ceny_baza.json,
+// a Łowca pushuje świeże dane praktycznie codziennie, więc lista jest tak samo
+// aktualna jak tabele na hubach zestawów.
+
+const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
+const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
+const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
+
+const wpisy = Object.entries(sety)
+  .map(([nr, s]) => ({ nr, ...s, oferty: filtrujOferty(s.oferty, nr), foto: urlZdjecia(nr, { sety }) }))
+  .filter((s) => s.oferty?.length && s.cena_katalogowa);
+
+// dzień danych = najświeższa data ofert (nie zegar builda – build po północy
+// UTC ma już „jutrzejszą" datę, patrz identyczna uwaga w index.astro)
+const dzienDanych = wpisy
+  .flatMap((s) => s.oferty.map((o) => o.data ?? ''))
+  .reduce((a, b) => (b > a ? b : a), '');
+const dzienDanychPl = dzienDanych.split('-').reverse().join('.');
+
+const noweMinimum = (s) =>
+  cenyBaza[s.nr]?.najnizsza_data === dzienDanych && cenyBaza[s.nr]?.najnizsza_cena === najlepszaCena(s);
+
+// deal gorący = rabat ≥30% od ceny katalogowej LUB świeże minimum notowań;
+// pseudopromocji (<15%) nie pokazujemy wcale – patrz standard Łowcy
+const gorace = wpisy
+  .filter((s) => rabat(s) >= 30 || (noweMinimum(s) && rabat(s) >= 15))
+  .sort((a, b) => rabat(b) - rabat(a));
+
+const POLKI = [
+  { etykieta: '801 zł i więcej', pasuje: (c) => c > 800 },
+  { etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
+  { etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
+];
+const NA_POLKE = 12;
+// Linki do Allegro to maks. 30% pozycji półki (3 z 12) – reguła w src/lib/deale.js
+// (ustalenie Marka 13.09.2026). Po wyczerpaniu limitu zestaw dostaje najlepszą
+// ofertę spoza Allegro, o ile nadal spełnia kryterium deala gorącego (rabat ≥30%
+// albo świeże minimum przy ≥15%); inaczej odpada z półki. Wiersz pokazuje cenę
+// i rabat TEJ oferty, nie najniższej – żeby link i kwota zawsze się zgadzały.
+const kryteriumDealu = (s, o) => rabatOferty(s, o) >= 30 || (noweMinimum(s) && rabatOferty(s, o) >= 15);
+const polki = POLKI.map((p) => ({
+  ...p,
+  deale: przydzielOferty(gorace.filter((s) => p.pasuje(najlepszaCena(s))), { ile: NA_POLKE, akceptuj: kryteriumDealu }),
+})).filter((p) => p.deale.length);
+
+// posty dealowe: markdown z tego katalogu, najnowsze na górze
+// Aktualności (kategoria od 27.09.2026) mają własny dział /aktualnosci/ i filtr
+// w /artykuly/ – tu zostają same posty dealowe, nawet gdy plik leży w tym katalogu.
+const posty = zajawkiArtykulow(
+  sortujPostyDealowe(Object.values(import.meta.glob('../deale/*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
+);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Deale LEGO dziś – realne rabaty od cen katalogowych',
+  url: 'https://tylkoklocki.pl/deale/',
+  inLanguage: 'pl-PL',
+  isPartOf: { '@type': 'WebSite', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+};
+---
+<Base
+  noindex={true}
+  title="KOPIA – poprzednie Deale (do 29.09.2026)"
+  description="Codziennie odświeżana lista realnych okazji na zestawy LEGO: rabaty liczone od cen katalogowych, trzy półki cenowe, oznaczone nowe minima cenowe."
+  jsonld={jsonld}
+>
+  <h1 class="glowna-h1">Deale LEGO – tylko realne rabaty, liczone od cen katalogowych</h1>
+  <p>
+    Lista aktualizuje się automatycznie z każdym przebiegiem naszego monitoringu cen
+    (ostatnie dane: {dzienDanychPl}). Pokazujemy wyłącznie rabaty co najmniej 30%
+    od oficjalnej ceny katalogowej LEGO oraz zestawy, które właśnie zaliczyły
+    <span class="badge-najnizsza">nowe minimum cenowe</span> naszych notowań –
+    bez pseudopromocji liczonych od zawyżonych „cen przekreślonych".
+  </p>
+
+  {polki.map((polka) => (
+    <section class="sekcja" aria-label={`Deale z półki ${polka.etykieta}`}>
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>{polka.etykieta}</h2>
+      </div>
+      <div class="karta tabela-cen-wrap">
+        <table class="tabela-cen tabela-cen--deale">
+          <thead>
+            <tr>
+              <th>Zestaw</th>
+              <th>Cena</th>
+              <th>Rabat</th>
+              <th>zł/klocek</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {polka.deale.map(({ set: s, oferta }) => {
+              const aff = linkAfiliacyjny(oferta.sklep, s.nr);
+              const cena = oferta.cena;
+              return (
+                <tr>
+                  <td class="kc-sklep">
+                    <a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener"><strong>LEGO {s.nr}</strong> {s.nazwa}</a>
+                    {noweMinimum(s) && cena === najlepszaCena(s) && <> <span class="badge-najnizsza">nowe minimum</span></>}
+                    <span class="kc-uwaga">{nazwaSklepu(oferta.sklep)}</span>
+                  </td>
+                  <td class="cena kc-cena">{fmtCena(cena)}</td>
+                  <td class="kc-rabat"><span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span></td>
+                  <td class="kc-klocek">{s.elementy ? (cena / s.elementy).toFixed(2).replace('.', ',') + ' zł' : '–'}<span class="kc-klocek-etykieta"> za klocek</span></td>
+                  <td class="kc-cta">
+                    {aff ? (
+                      <a class="cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)}</a>
+                    ) : (
+                      <a class="cta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">Porównaj ceny</a>
+                    )}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  ))}
+
+  {posty.length > 0 && (
+    <section class="sekcja" aria-label="Posty dealowe">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Okazje pod lupą</h2>
+      </div>
+      <p>Najciekawsze deale opisujemy szerzej: dla kogo jest zestaw, przy jakiej cenie warto brać i na co uważać.</p>
+      <div class="zajawki">
+        {posty.map((z) => <ZajawkaArtykulu zajawka={z} />)}
+      </div>
+    </section>
+  )}
+
+  <p class="disclosure">
+    Linki do sklepów są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis
+    i nie płacisz ani grosza więcej. Afiliacja nie wpływa na dobór dealów: rabaty
+    liczymy zawsze od cen katalogowych LEGO, a ofertę pokazujemy niezależnie
+    od tego, czy mamy z danym sklepem współpracę. Pilnujemy też, by lista nie była
+    wyłącznie aukcjami – Allegro to najwyżej trzy pozycje na półce, resztę oddajemy
+    sklepom z własnym magazynem, jeśli ich cena wciąż jest realnym dealem.
+  </p>
+</Base>

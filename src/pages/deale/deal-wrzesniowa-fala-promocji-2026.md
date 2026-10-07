@@ -2,8 +2,10 @@
 layout: ../../layouts/Artykul.astro
 title: "Wrześniowa fala promocji wystartowała – McLaren P1 i Lotniskowiec T.A.R.C.Z.Y. na progach opłacalności"
 opis: "Pierwszego września ponad sto zestawów staniało jednego dnia. Przegląd najmocniejszych okazji z trzech półek cenowych – od flagowców Technic i Marvel po drobnicę pod pierwszy szkolny prezent."
+seo_tytul: "Wrześniowa fala promocji LEGO 2026"
+seo_opis: "1 września ponad sto zestawów staniało jednego dnia. Najmocniejsze okazje z trzech półek cenowych – od flagowców Technic i Marvel po drobne prezenty."
 data: "2026-09-01"
-kategoria: "Deal dnia"
+kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL", "Dla rodziców"]
 ---
@@ -48,4 +50,4 @@ Aktualne kwoty znajdziesz na kartach zestawów: [31147](/zestaw/31147/), [31149]
 
 ## Jak czytać tę falę
 
-Tabele powyżej odświeżają się z naszym codziennym monitoringiem – jeśli czytasz ten tekst po kilku dniach, kwoty mogły się zmienić, ale progi opłacalności zostają. Pierwsze dni fali zwykle wyznaczają jej poziom: część cen jeszcze drgnie w dół, ale najciekawsze pozycje (McLaren, Lotniskowiec) potrafią wrócić do katalogu bez ostrzeżenia, gdy skończy się magazyn. Z droższej półki wciąż aktualne jest też [wczorajsze minimum na 21330 Kevin sam w domu](/deale/deal-21330-kevin-sam-w-domu/). Pełna, codziennie odświeżana lista okazji – w [dziale Deale](/deale/).
+Tabele powyżej odświeżają się z naszym codziennym monitoringiem – jeśli czytasz ten tekst po kilku dniach, kwoty mogły się zmienić, ale progi opłacalności zostają. Pierwsze dni fali zwykle wyznaczają jej poziom: część cen jeszcze drgnie w dół, ale najciekawsze pozycje (McLaren, Lotniskowiec) potrafią wrócić do katalogu bez ostrzeżenia, gdy skończy się magazyn. Z droższej półki wciąż aktualne jest też [wczorajsze minimum na 21330 Kevin sam w domu](/deale/deal-21330-kevin-sam-w-domu/). Pełna, codziennie odświeżana lista okazji – w [Promocjach LEGO](/promocje-lego/).

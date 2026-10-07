@@ -1,0 +1,28 @@
+---
+// Blok „Przeczytaj też" pod treścią artykułu / prezentownika / posta dealowego.
+// Dobór: src/lib/powiazane.js (wspólne zestawy → wspólna seria → kategoria →
+// świeżość). Zwykłe statyczne linki <a> bez nofollow – blok istnieje po to,
+// żeby robot i czytelnik przeszli do następnego tekstu.
+import { powiazane } from '../lib/powiazane.js';
+import { dataPl } from '../lib/daty.js';
+
+const { url = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`, ile = 4 } =
+  Astro.props;
+const lista = powiazane(url, { ile });
+---
+{lista.length > 0 && (
+  <nav class="powiazane" aria-labelledby="powiazane-naglowek">
+    <h2 id="powiazane-naglowek">Przeczytaj też</h2>
+    <ul class="powiazane-lista">
+      {lista.map((t) => (
+        <li>
+          <a href={t.url}>{t.tytul}</a>
+          <span class="powiazane-meta">
+            <time datetime={t.zaktualizowano || t.data}>{dataPl(t.zaktualizowano || t.data)}</time> · {t.kategoria}
+          </span>
+          {t.opis && <p>{t.opis}</p>}
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}

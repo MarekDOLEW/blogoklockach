@@ -2,16 +2,24 @@
 import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
 import Okruszki from '../../components/Okruszki.astro';
+import ObserwujCene from '../../components/ObserwujCene.astro';
+import PasekCeny from '../../components/PasekCeny.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { zdjecieSetu, opisSetu } from '../../lib/media.js';
+import { zdjecieSetu, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
 import karty from '../../data/karty_setow.json';
 import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
-import { premieraSetu, zapowiedz } from '../../lib/premiery.js';
-import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
+import { premieraSetu, zapowiedz, przeciek as przeciekSetu } from '../../lib/premiery.js';
+import { eolWLego, eolPotwierdzony, statusWycofania } from '../../lib/status.js';
+import { fmtElementy, odmien, ileElementow, polaczOferty, cenaKatalogowaSetu, nazwaSklepu, fmtCena, sieciEkskluzywu } from '../../lib/oferty.js';
+import { hubIndeksowalny } from '../../lib/seo.js';
+import { podobneZSerii } from '../../lib/seria-huby.js';
+import { dataPl } from '../../lib/daty.js';
+import { miesiac } from '../../lib/miesiace.js';
+import cenyBaza from '../../data/ceny_baza.json';
 
 export function getStaticPaths() {
   return [...numeryHubow].map((nr) => ({ params: { nr } }));
@@ -26,7 +34,10 @@ const kat = wpisKatalogu(nr);
 const wycofanie = wycofanieSetu(nr);
 const feedOferta = ofertyFeed?.sety?.[nr] ?? null;
 
-const nazwa = s?.nazwa ?? kat?.nazwa ?? wycofanie?.nazwa;
+// „{?}" to placeholder Bricksetu dla zestawu bez ogłoszonej nazwy — nie może
+// trafić do tytułu strony ani JSON-LD (audyt 22.09: trzy huby „LEGO {?}").
+const bezPlaceholdera = (n) => (n && String(n).trim() !== '{?}' ? n : undefined);
+const nazwa = bezPlaceholdera(s?.nazwa) ?? bezPlaceholdera(kat?.nazwa) ?? bezPlaceholdera(wycofanie?.nazwa) ?? 'bez ogłoszonej nazwy';
 const seria = s?.seria ?? kat?.seria ?? wycofanie?.seria;
 const elementy = s?.elementy ?? kat?.elementy ?? wycofanie?.elementy ?? null;
 const rok = kat?.rok ?? null;
@@ -34,7 +45,11 @@ const cenaKatalogowa = cenaKatalogowaSetu(nr, { sety });
 
 // redakcyjne oferty + ceny z feedów sklepowych w jednej tabeli (dubel sklepu -> niższa cena)
 const oferty = polaczOferty(s?.oferty ?? [], feedOferta, nr);
-const najlepsza = oferty.length ? Math.min(...oferty.map((o) => o.cena)) : null;
+// Ceneo to porównywarka, nie sklep: tabela i listingi (najlepszaOferta) go pomijają,
+// więc title/meta/JSON-LD też muszą — audyt 15.09.2026: 737 hubów obiecywało w Google
+// cenę Ceneo niższą niż najtańszy wiersz tabeli (10281: meta 139,47 zł, tabela 149 zł).
+const ofertyBezCeneo = oferty.filter((o) => o.sklep !== 'ceneo');
+const najlepsza = ofertyBezCeneo.length ? Math.min(...ofertyBezCeneo.map((o) => o.cena)) : null;
 
 const zdj = s?.zdjecia ?? null;
 // zdjęcie z fallbackiem: sety.json -> feed -> zdjecia.json; wycofania mają czasem własne
@@ -56,17 +71,39 @@ const galeriaSlajder = galerie[nr] ?? [];
 // się dwa razy, a generator bywa nieaktualny.
 const opis = s?.opis ?? wycofanie?.uwagi ?? (karta ? null : opisSetu(nr, { sety })?.tekst) ?? null;
 
-// status sprzedaży dla lekkich hubów
-const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
+// LEGO zakończyło sprzedaż (EOL) – jedna definicja dla całego serwisu
+// (src/lib/status.js); liczy się także dla pełnych hubów z sety.json, bo
+// śledzony zestaw też potrafi zejść z lego.com, a tabela cen musi to pokazać
+const eol = eolWLego(nr);
+// „EOL – koniec produkcji" tylko gdy lista wycofań to potwierdza; sam status
+// katalogu (z listingu lego.pl albo importu) znaczy jedynie „brak w lego.pl"
+const eolPewny = eol && eolPotwierdzony(nr);
+// dystrybucja wyłączna LEGO: flaga z sety.json (ręczna) albo z katalogu (listing lego.pl, co tydzień)
+const ekskluzyw = Boolean(s?.ekskluzyw || kat?.ekskluzyw);
+// …ale część ekskluzywów trafia też do wybranych sieci — wtedy nie piszemy „tylko LEGO”
+const sieciEx = ekskluzyw ? sieciEkskluzywu(nr, { sety, feed: ofertyFeed?.sety ?? {} }) : [];
+const listaSieci = (k) => k.map(nazwaSklepu).reduce((a, n, i, t) => (i === 0 ? n : i === t.length - 1 ? `${a} i ${n}` : `${a}, ${n}`), '');
+const wycof = statusWycofania(nr);
+// oferty sklepów poza LEGO – po EOL to one decydują, czy zestaw da się jeszcze kupić
+const ofertySklepowe = oferty.filter((o) => o.sklep !== 'lego' && o.sklep !== 'ceneo');
+// Allegro to marketplace – po EOL jego oferty to rynek wtórny, nie „zapasy sklepów”
+// (audyt tekstów 30.09.2026: „Ostatnie sztuki w sklepach” na 1 640 hubach z samym Allegro).
+const ofertyZMagazynu = ofertySklepowe.filter((o) => o.sklep !== 'allegro');
 
 // zapowiedź: premiera w przyszłym miesiącu lub później. Datę bierzemy też
 // z karty redakcyjnej i z rocznika katalogu, bo zestaw zapowiedziany zwykle
 // nie ma jeszcze wpisu w sety.json, a i tak nie może dostać tabeli cen.
 const premiera = premieraSetu(nr);
 const wkrotce = zapowiedz(nr);
+// zapowiedź potwierdzona przez LEGO kontra przeciek z rynku (src/lib/premiery.js)
+const przeciek = przeciekSetu(nr);
 // cena katalogowa bywa nieogłoszona (premiery, zestawy promocyjne) – wtedy
 // mówimy o tym wprost, zamiast zostawiać puste miejsce
 const cenaNieznana = !cenaKatalogowa;
+// zestaw bez polskiej ceny katalogowej z natury (ekskluzyw LEGO House/LEGOLAND,
+// prezent GWP, BrickLink Designer Program) – pole `bez_rrp` z powodem w sety.json
+// albo katalog.json (Cowork 23.09.2026). Wtedy nie obiecujemy, że cenę „podamy”.
+const bezRrp = s?.bez_rrp || kat?.bez_rrp || null;
 
 const sciezkaSerii = seria
   ? `/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`
@@ -78,27 +115,28 @@ const okruszki = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
     ...(seria ? [{ '@type': 'ListItem', position: 2, name: `LEGO ${seria}`, item: new URL(sciezkaSerii, Astro.site).href }] : []),
-    { '@type': 'ListItem', position: seria ? 3 : 2, name: `LEGO ${nr} ${nazwa}` },
+    { '@type': 'ListItem', position: seria ? 3 : 2, name: `LEGO ${nazwa} (${nr})` },
   ],
 };
 
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Product',
-  name: `LEGO ${nr} ${nazwa}`,
+  name: `LEGO ${nazwa} (${nr})`,
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
-  ...(opis ? { description: opis } : {}),
+  ...(opis ? { description: opis } : karta?.akapity?.[0] ? { description: String(karta.akapity[0]).replace(/<[^>]+>/g, '').slice(0, 300) } : {}),
   ...(foto?.url ? { image: new URL(foto.url, Astro.site).href } : {}),
-  ...(oferty.length
+  ...(ofertyBezCeneo.length
     ? {
         offers: {
           '@type': 'AggregateOffer',
           priceCurrency: 'PLN',
           lowPrice: najlepsza,
-          highPrice: Math.max(...oferty.map((o) => o.cena)),
-          offerCount: oferty.length,
-          availability: 'https://schema.org/InStock',
+          highPrice: Math.max(...ofertyBezCeneo.map((o) => o.cena)),
+          offerCount: ofertyBezCeneo.length,
+          url: new URL(`/zestaw/${nr}/`, Astro.site).href,
+          availability: eol && ofertySklepowe.length === 0 ? 'https://schema.org/Discontinued' : 'https://schema.org/InStock',
         },
       }
     : {}),
@@ -112,7 +150,9 @@ const tagi = [
   elementy && elementy >= 2000 ? 'Duży zestaw' : null,
   elementy && elementy <= 300 ? 'Mały zestaw' : null,
   cenaKatalogowa && cenaKatalogowa <= 100 ? 'Do 100 zł' : null,
-  wycofanie && wycofanie.kiedy !== 'wycofany' ? 'Znika z rynku' : null,
+  wycof && wycof.etap !== 'wycofany' ? 'Znika z rynku' : null,
+  eol && ofertyZMagazynu.length > 0 ? 'Ostatnie sztuki w sklepach' : null,
+  eol && ofertyZMagazynu.length === 0 && ofertySklepowe.length > 0 ? 'Rynek wtórny' : null,
 ].filter(Boolean);
 
 // Okruszki widoczne – ta sama ścieżka co w danych strukturalnych powyżej,
@@ -137,15 +177,66 @@ const faqJsonld = karta?.faq?.length
     }
   : null;
 
-// tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base
-const tytul = najlepsza
-  ? `LEGO ${nr} ${nazwa} – cena i promocje`
-  : `LEGO ${nr} ${nazwa}${eol ? ' – zestaw wycofany' : ''}`;
+// Cienkie huby (sam szablon cenowy bez tekstu, bez naszego artykułu, stary
+// zestaw) dostają noindex, follow – strona działa i przekazuje moc dalej, ale
+// nie zjada budżetu crawlowania. Reguła i progi: src/lib/seo.js; ta sama
+// funkcja decyduje o obecności huba w sitemap-zestawy.xml.
+const indeksowalny = hubIndeksowalny(nr);
+
+// Najniższa cena, jaką zanotował Łowca (ceny_baza.json) – jedyna „historia
+// ceny", jaką mamy w danych (pełnych szeregów czasowych nie zbieramy).
+// Pokazujemy ją tylko, gdy jest niższa od dzisiejszej najlepszej oferty:
+// wtedy niesie informację, że bywało taniej i przy jakiej cenie.
+const minimum = cenyBaza[nr]?.najnizsza_cena
+  ? { cena: cenyBaza[nr].najnizsza_cena, data: cenyBaza[nr].najnizsza_data, sklep: cenyBaza[nr].najnizsza_sklep }
+  : null;
+const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza;
+
+// Podobne zestawy tej serii pod szczegółami – 4–6 pozycji losowanych z ziarnem
+// dnia (src/lib/seria-huby.js): linkowanie wewnętrzne między hubami, a dla
+// czytelnika podpowiedź „co jeszcze z tej serii" z ceną i zdjęciem.
+const podobne = podobneZSerii(seria, nr);
+
+// tytuł zwięzły – Google obcina ~60 znaków, sufiks domeny dokłada Base.
+// Długie nazwy (np. bolidy F1 z pełną nazwą zespołu) skracamy do ~40 znaków na
+// granicy słowa; audyt 15.09.2026 znalazł tytuły po 122 znaki na 2673 stronach.
+// Nazwa przed numerem (decyzja Marka 15.09.2026): ludzie szukają „lego gustav
+// klimt", „sagrada familia lego" — numer zostaje w nawiasie dla kolekcjonerów.
+// Od 30.09.2026 bierzemy pierwszy wariant, który mieści się w 60 znakach (audyt:
+// 1 162 hubów miało tytuł po 61–80 znaków): pełny dopisek, krótszy, sam zestaw,
+// a na końcu nazwa ucięta na granicy słowa. Sufiks domeny Base dokłada tylko,
+// gdy też się zmieści.
+const MAX_TYTUL = 60;
+const rdzen = `LEGO ${nazwa} (${nr})`;
+const dopiski = najlepsza ? [' – cena i promocje', ' – ceny', ''] : eol ? [' – wycofany (EOL)', ' (EOL)', ''] : [''];
+const tytul = dopiski.map((d) => rdzen + d).find((t) => t.length <= MAX_TYTUL)
+  ?? `LEGO ${nazwa.slice(0, MAX_TYTUL - 9 - nr.length).replace(/\s+\S*$/, '').replace(/[\s,–-]+$/, '')}… (${nr})`;
+// Opis meta zaczyna się od ceny i liczby sklepów — GSC 15.09.2026: huby na
+// pozycjach 7–12 miały 0% CTR obok sklepów, które pokazują cenę w wyniku.
+const liczbaSklepow = new Set(ofertyBezCeneo.map((o) => o.sklep)).size;
+// Gdy najtaniej jest po cenie katalogowej (albo drożej), „od X w 1 sklepie" brzmi
+// jak okazja, którą nie jest — wtedy mówimy wprost, że promocji jeszcze nie ma.
+const rabatMeta = cenaKatalogowa && najlepsza ? Math.round((1 - najlepsza / cenaKatalogowa) * 100) : 0;
+// Ogon meta mówi tylko to, co strona naprawdę ma (audyt 30.09.2026: 4 556 hubów
+// obiecywało „dla rodzica i dla kolekcjonera” bez tej sekcji, 1 851 hubów EOL –
+// „promocji jeszcze nie ma – sprawdzamy codziennie”). Nazwę niesie tytuł, więc tu
+// jej nie powtarzamy – opisy mieszczą się w ~155 znakach, które pokazuje Google.
+const wSklepach = (n) => `w ${n} ${n === 1 ? 'sklepie' : 'sklepach'}`;
+const ogonMeta = `${elementy ? `${ileElementow(elementy)}, ` : ''}${s?.dla_rodzica ? 'porównanie cen i rady dla rodzica oraz kolekcjonera' : 'porównanie cen w polskich sklepach'}.`;
+const ogonDuzy = ogonMeta.charAt(0).toUpperCase() + ogonMeta.slice(1);
 const opisMeta = najlepsza
-  ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
-  : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
+  ? bezRrp
+    ? `Od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)}, bez polskiej ceny katalogowej. ${ogonDuzy}`
+    : rabatMeta >= 3
+    ? `Od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)} – ${rabatMeta}% poniżej ceny katalogowej ${fmt(cenaKatalogowa)}. ${ogonDuzy}`
+    : cenaKatalogowa
+      ? eol
+        ? `LEGO już go nie sprzedaje. Dziś od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)} (cena katalogowa ${fmt(cenaKatalogowa)}). ${ogonDuzy}`
+        : `Dziś bez rabatu: od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)}, cena katalogowa ${fmt(cenaKatalogowa)}. ${ogonDuzy}`
+      : `Od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)}. ${ogonDuzy}`
+  : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${ileElementow(elementy)}` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji.' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny} preloadObrazu={foto?.url ? obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px') : null}>
   <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
@@ -153,64 +244,86 @@ const opisMeta = najlepsza
         {galeriaSlajder.length > 0 ? (
           <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
             <div class="slajder-tasma" id={`tasma-${nr}`}>
-              <img id={`kl-${nr}-0`} src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" />
+              <img id={`kl-${nr}-0`} {...obrazPlynny(foto?.url ?? `/img/${nr}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" fetchpriority="high" />
               {galeriaSlajder.map((_, i) => (
-                <img id={`kl-${nr}-${i + 1}`} src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+                <img id={`kl-${nr}-${i + 1}`} {...obrazPlynny(`/img/${nr}-${i + 1}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
           </figure>
         ) : foto?.url ? (
           <figure class="foto-okno">
-            <img src={foto.url} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" />
+            <img {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" fetchpriority="high" />
           </figure>
         ) : (
           <div class="foto-placeholder">
             <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
             <span>LEGO {nr}</span>
-            <span>zdjęcie wkrótce</span>
+            <span>brak zdjęcia</span>
           </div>
         )}
         {galeriaSlajder.length > 0 && (
           <>
             <div class="miniatury" data-tasma={`tasma-${nr}`}>
               <a href={`#kl-${nr}-0`} class="miniatura-btn" aria-label="Zdjęcie 1">
-                <img src={foto?.url ?? `/img/${nr}.jpg`} alt="" loading="lazy" width="80" height="80" />
+                <img {...obrazStaly(foto?.url ?? `/img/${nr}.jpg`, 130, 260)} alt="" loading="lazy" width="80" height="80" />
               </a>
               {galeriaSlajder.map((_, i) => (
                 <a href={`#kl-${nr}-${i + 1}`} class="miniatura-btn" aria-label={`Zdjęcie ${i + 2}`}>
-                  <img src={`/img/${nr}-${i + 1}.jpg`} alt="" loading="lazy" width="80" height="80" />
+                  <img {...obrazStaly(`/img/${nr}-${i + 1}.jpg`, 130, 260)} alt="" loading="lazy" width="80" height="80" />
                 </a>
               ))}
             </div>
-            <p class="slajder-info">{galeriaSlajder.length + 1} zdjęć – przesuń palcem lub kliknij miniaturę</p>
+            <p class="slajder-info">{galeriaSlajder.length + 1} {odmien(galeriaSlajder.length + 1, 'zdjęcie', 'zdjęcia', 'zdjęć')} – przesuń palcem lub kliknij miniaturę</p>
           </>
         )}
-        {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>
       <div>
         <p style="margin-top:0" class="set-plakietki">
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
-          {wkrotce && <span class="badge-wkrotce">wkrótce – zapowiedź</span>}
-          {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
-          {eol && <span class="badge-seria">wycofany (EOL)</span>}
+          {wkrotce && !przeciek && <span class="badge-wkrotce">wkrótce – zapowiedź potwierdzona przez LEGO</span>}
+          {przeciek && <a class="badge-przeciek" href="/przecieki/" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu; źródło i ocena pewności w dziale Przecieki">zapowiedź – przeciek z rynku</a>}
+          {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
+          {eol && (eolPewny
+            ? <span class="badge-status badge-status--eol" title="End of life – LEGO zakończyło produkcję i sprzedaż tego zestawu">EOL – koniec produkcji w LEGO</span>
+            : <span class="badge-status badge-status--eol" title="Zestawu nie ma w sklepie lego.pl; inne sklepy mogą mieć zapasy">brak w lego.pl</span>)}
+          {wycof && wycof.etap !== 'wycofany' && (
+            <span class={`badge-status ${wycof.etap === 'potwierdzone' ? 'badge-status--pewny' : 'badge-status--prognoza'}`}>wycofanie: {wycof.etykieta}</span>
+          )}
           {tagi.map((t) => <span class="badge-tag">{t}</span>)}
         </p>
-        <h1>LEGO {nr} {nazwa}</h1>
+        <h1>LEGO {nazwa} <span class="h1-numer">({nr})</span></h1>
         <div class="deal-meta" style="margin-bottom: 8px">
-          {elementy && <span><strong>{fmtElementy(elementy)}</strong> elementów</span>}
+          {elementy && <span><strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}</span>}
           {s?.cena_katalogowa && s?.elementy && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
           {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
-          {premiera ? <span>premiera <strong>{premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
+          {premiera ? <span>premiera <strong>{(() => { try { return `${miesiac(premiera).mianownik} ${premiera.slice(0, 4)}`; } catch { return premiera; } })()}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
           {cenaKatalogowa
             ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
-            : <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>}
+            : bezRrp
+              ? <span>cena katalogowa <strong>brak</strong> (zestaw bez polskiego cennika)</span>
+              : wkrotce || przeciek
+                ? <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>
+                : <span>cena katalogowa <strong>brak w naszych danych</strong></span>}
         </div>
+        {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="gora" />}
         {opis && <p class="prose">{opis}</p>}
-        {wycofanie && wycofanie.kiedy !== 'wycofany' && (
+        {wycof && wycof.etap !== 'wycofany' && (
           <p class="karta" style="padding:10px 14px; font-size:0.92rem;">
-            <strong>Zestaw na liście wycofań:</strong> znika {wycofanie.kiedy}
-            ({wycofanie.status === 'potwierdzone' ? 'potwierdzone przez LEGO' : 'przewidywane'}).
+            <strong>Zestaw na liście wycofań:</strong> znika {wycof.kiedy}
+            {wycof.etap === 'potwierdzone'
+              ? ' – termin potwierdzony przez LEGO.'
+              : ' – prognoza rynku, LEGO nie potwierdziło terminu.'}
             {' '}<a href={`/wycofania/?q=${nr}`}>Zobacz na liście wycofań →</a>
+          </p>
+        )}
+        {eol && (
+          <p class="karta" style="padding:10px 14px; font-size:0.92rem;">
+            <strong>{eolPewny ? 'LEGO zakończyło produkcję tego zestawu (EOL).' : 'Tego zestawu nie ma już w sklepie lego.pl.'}</strong>
+            {ofertyZMagazynu.length > 0
+              ? ' Inne sklepy mają jeszcze zapasy – ceny poniżej to ostatnie sztuki; po ich wyczerpaniu zostaje rynek wtórny.'
+              : ofertySklepowe.length > 0
+                ? ' Nie ma go już w sklepach z własnym magazynem – poniżej oferty z Allegro, czyli rynek wtórny.'
+                : ' Żaden ze śledzonych sklepów nie ma go dziś w cenniku – zostaje rynek wtórny (Allegro, OLX).'}
           </p>
         )}
       </div>
@@ -235,7 +348,7 @@ const opisMeta = najlepsza
         <div class="galeria">
           {zdj.galeria.map((g, i) => (
             <a href={g} target="_blank" rel="noopener">
-              <img src={g} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
+              <img {...obrazStaly(g, 440, 880)} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
             </a>
           ))}
         </div>
@@ -245,27 +358,59 @@ const opisMeta = najlepsza
     {wkrotce && oferty.length === 0 ? (
       <p class="karta" style="padding: 14px 18px; margin: 18px 0;">
         <strong>Zapowiedź:</strong> premiera {premiera}.
+        {przeciek && ' To przeciek z rynku – Grupa LEGO nie potwierdziła jeszcze tego zestawu, więc numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO go ujawni, oznaczymy zapowiedź jako potwierdzoną.'}
         {cenaNieznana && ' Cena katalogowa nie została jeszcze ogłoszona – podamy ją, gdy LEGO ją poda.'}
         {' '}Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.
       </p>
-    ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
+    ) : oferty.length > 0 || cenaKatalogowa ? (
       <div id="ceny">
-        {cenaNieznana && (
+        {cenaNieznana && bezRrp && (
           <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
-            <strong>Cena katalogowa nieogłoszona.</strong> LEGO nie podało jeszcze sugerowanej ceny tego zestawu –
-            uzupełnimy ją, gdy tylko się pojawi. Poniżej ceny sklepów, o ile już go mają.
+            <strong>Bez polskiej ceny katalogowej:</strong> {bezRrp}. Rabatu nie liczymy – ceny poniżej to
+            rynek wtórny, nie promocja.
           </p>
         )}
-        <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
-        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi – kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze. Sklepy zmieniają ceny także w ciągu dnia, więc kwota w tabeli jest ostatnią, jaką zobaczyliśmy – wiążąca jest zawsze cena w koszyku sklepu.</p>
+        {cenaNieznana && !bezRrp && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            {wkrotce || przeciek
+              ? <><strong>Cena katalogowa nieogłoszona.</strong> LEGO nie podało jeszcze sugerowanej ceny tego zestawu – uzupełnimy ją, gdy się pojawi. Poniżej ceny sklepów, o ile już go mają.</>
+              : <><strong>Nie mamy polskiej ceny katalogowej tego zestawu,</strong> więc nie liczymy rabatu – poniżej ceny, jakie widzimy dziś w sklepach.</>}
+          </p>
+        )}
+        {ekskluzyw && !eol && sieciEx.length === 0 && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Zestaw ekskluzywny – dziś sprzedaje go tylko LEGO.</strong> Nie widzimy go w innych sklepach,
+            więc okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).
+            {' '}<a href="/ekskluzywne/">Wszystkie ekskluzywy →</a>
+          </p>
+        )}
+        {ekskluzyw && !eol && sieciEx.length > 0 && (
+          <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
+            <strong>Na LEGO.com zestaw ma etykietę „Ekskluzywne”, ale trafił też do wybranych sieci.</strong>{' '}
+            Dziś mamy go w: {listaSieci(sieciEx)}. Porównaj ceny w tabeli poniżej – bywa taniej niż u producenta.
+            {' '}<a href="/ekskluzywne/">Co znaczy „ekskluzywny”? →</a>
+          </p>
+        )}
+        <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} eolLego={eol} eolPewny={eolPewny} />
+        {minimumWarte && (
+          <p class="set-minimum">
+            Najniższa cena, jaką zanotowaliśmy: <strong>{fmt(minimum.cena)}</strong>
+            {minimum.sklep && <> ({nazwaSklepu(minimum.sklep)}{minimum.data && <>, {dataPl(minimum.data)}</>})</>}
+            {!minimum.sklep && minimum.data && <> ({dataPl(minimum.data)})</>}
+            {' '}– dziś jest o {fmt(najlepsza - minimum.cena)} drożej.
+          </p>
+        )}
+        <p class="disclosure">Przyciski ze strzałką to linki afiliacyjne – nie zmieniają ani ceny, ani kolejności: najtańszy sklep zawsze stoi na górze.{oferty.some((o) => o.sklep === 'ceneo') && ' Ceneo to porównywarka, nie sklep, dlatego ma osobny wiersz na końcu.'}</p>
       </div>
     ) : (
-      <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
+      <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż, zostaje rynek wtórny (Allegro, OLX).' : '. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.'}</p>
     )}
+
+    {!przeciek && <ObserwujCene nr={nr} eol={eol} />}
 
     {karta && (
       <section class="sekcja karta-setu" style="margin-top:24px">
-        <h2>LEGO {nr} {karta.nazwa}</h2>
+        <h2>LEGO {nr} {bezPlaceholdera(karta.nazwa) ?? nazwa}</h2>
         {karta.akapity.map((a) => <p class="prose" set:html={a} />)}
         {karta.metryka && Object.keys(karta.metryka).length > 0 && (
           <>
@@ -276,7 +421,7 @@ const opisMeta = najlepsza
                   {Object.entries(karta.metryka).map(([pole, wartosc]) => (
                     <tr>
                       <th scope="row">{pole}</th>
-                      <td>{wartosc}</td>
+                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : wartosc}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -301,6 +446,32 @@ const opisMeta = najlepsza
     )}
 
 
+    {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="dol" />}
+
+    {podobne.length > 0 && (
+      <section class="sekcja podobne" style="margin-top:28px" aria-label={`Podobne zestawy z serii ${seria}`}>
+        <div class="sekcja-head">
+          <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <h2>Podobne zestawy z serii {seria}</h2>
+        </div>
+        <div class="siatka siatka--podobne">
+          {podobne.map((z) => (
+            <a class="karta set-karta set-karta--mini" href={`/zestaw/${z.nr}/`} target="_blank" rel="noopener">
+              {z.zdjecie
+                ? <img class="miniatura" {...obrazStaly(z.zdjecie, 440, 880)} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" width="300" height="225" />
+                : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
+              <span class="nr">LEGO {z.nr}{z.eolLego && <> <span class="tag-eol" title={z.eolPewny ? 'EOL – LEGO zakończyło produkcję' : 'brak w sklepie lego.pl'}>{z.eolPewny ? 'EOL' : 'brak w lego.pl'}</span></>}</span>
+              <h3>{z.nazwa}</h3>
+              <div class="cena-linia">
+                <span class="cena">{z.cena ? `od ${fmtCena(z.cena)}` : z.cenaKatalogowa && !z.eolLego ? fmtCena(z.cenaKatalogowa) : 'sprawdź cenę'}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+        {sciezkaSerii && <p style="margin-top:14px"><a class="podobne-cala-seria" href={sciezkaSerii}>Zobacz całą serię {seria} →</a></p>}
+      </section>
+    )}
+
     {s ? (
       <div class="persony">
         <div class="karta persona">
@@ -317,7 +488,7 @@ const opisMeta = najlepsza
         <p style="margin-top: 20px"><a href={`/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`}>← Wszystkie zestawy serii {seria}</a></p>
       )
     )}
-  </article>
+</article>
   <script is:inline>
     // Miniatury przewijają taśmę zdjęć w poziomie. Bez skryptu kotwice #kl-…
     // też działają – skrypt tylko zapobiega przeskokowi całej strony

@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Nowe zestawy LEGO na jesień i święta 2026 – co pojawi się do końca roku?"
 opis: "Sześć premier Seasonal na 1 października, Executor i PlayStation dla dorosłych, Pokéball z trenerami, Avengers: Doomsday, Wednesday, a w listopadzie rekordowa Sagrada Família. Przegląd całej końcówki roku."
+seo_tytul: "Nowe zestawy LEGO na jesień i święta 2026"
+seo_opis: "Seasonal na 1 października, Executor, PlayStation, Pokéball, Avengers: Doomsday, Wednesday i rekordowa Sagrada Família. Przegląd premier do końca roku."
 data: "2026-09-06"
 kategoria: "Premiery"
 tagi: ["Dla kolekcjonera"]

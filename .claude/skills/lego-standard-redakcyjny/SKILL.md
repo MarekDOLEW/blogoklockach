@@ -31,13 +31,14 @@ description: >-
 
 | Kategoria | Zakres |
 |---|---|
-| Premiery | Nowe zestawy i całe fale premierowe — co wchodzi do sprzedaży i czy warto. |
+| Aktualności | Akcje sklepów i kampanie z terminem – co jest naprawdę okazją. |
+| Premiery | Nowe zestawy i całe fale premierowe – co wchodzi do sprzedaży i czy warto. |
 | Recenzje | Pojedynczy zestaw od środka: budowanie, gotowy model, próg zakupu. |
-| Rankingi | Zestawienia od najlepszego — w obrębie serii, budżetu albo tematu. |
+| Rankingi | Zestawienia od najlepszego – w obrębie serii, budżetu albo tematu. |
 | Porównania | Dwa lub kilka zestawów obok siebie: który dla kogo. |
 | Poradniki | Jak kupować, na co uważać, jak czytać ceny i promocje. |
 | Kalendarze | Terminy: okna promocyjne, premiery, wycofania. |
-| Historyczne | Archiwalne serie i zestawy — co się zmieniło i ile są dziś warte. |
+| Historyczne | Archiwalne serie i zestawy – co się zmieniło i ile są dziś warte. |
 
    Jeśli tekst nie mieści się w żadnej — to znak, że albo jest prezentownikiem
    (patrz skill `lego-standard-sprzedazowy`), albo brief wymaga doprecyzowania.
@@ -57,10 +58,16 @@ description: >-
 
 ## Reguła, o którą najłatwiej się potknąć
 
-**Nie wpisujesz do tekstu żadnej ceny sklepowej.** Podajesz wyłącznie ceny będące
-oceną: cenę katalogową, dobrą cenę, bardzo dobrą cenę i próg zakupu. Kwoty
-sklepowe wstawia redakcja techniczna przy publikacji, znacznikiem, który renderuje
-się przy każdym budowaniu serwisu. W miejscu linków zostawiasz
+**Nie wpisujesz do tekstu bieżącej ceny sklepowej ani daty kontroli cen.**
+Podajesz trwałą drabinę cenową: **RRP, dobrą lub bardzo dobrą cenę
+i uzasadniony próg zakupu** (§18–19); **normalny poziom rynkowy** dopisujesz,
+gdy dane go dają (decyzja 15.09.2026, `references/ustalenia-projektowe.md` —
+przykład w §19.1 ma trzy szczeble i to jest wzorzec); metodologia dokłada
+**poziom okazji**, jeśli dane na to pozwalają. Gdy podajesz normalny poziom
+rynkowy, napisz, skąd go wziąłeś — bez źródła to zgadywanie, nie drabina.
+
+Kwoty bieżące wstawia redakcja techniczna przy publikacji, znacznikiem, który
+renderuje się przy każdym budowaniu serwisu. W miejscu linków zostawiasz
 `[wstaw link afiliacyjny]`.
 
 Powód jest prosty: artykuł zostaje na stronie latami, a cena zmienia się

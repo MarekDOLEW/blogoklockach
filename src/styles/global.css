@@ -16,7 +16,7 @@
   --zielen: #0f7a43;
   --linia: #dde1e8;
 
-  --font-display: "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: var(--font-archivo, "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif);
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
 
@@ -150,8 +150,10 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .slajder-strzalka:hover { background: #0f1830; }
 .slajder-strzalka--wstecz { left: 10px; }
 .slajder-strzalka--dalej { right: 10px; }
-.slajder-kropki { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; gap: 10px; z-index: 2; }
-.slajder-kropka { width: 12px; height: 12px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+.slajder-kropki { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; gap: 14px; z-index: 2; }
+.slajder-kropka { position: relative; width: 12px; height: 12px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+/* obszar dotyku 24×24 px (WCAG 2.5.8) – kropka wygląda tak samo */
+.slajder-kropka::before { content: ""; position: absolute; inset: -6px; }
 .slajder-kropka:hover { border-color: var(--granat); }
 .slajder-kropka--aktywna { background: var(--zolty); border-color: var(--granat); }
 @media (max-width: 760px) {
@@ -190,6 +192,8 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .set-karta:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
 .set-karta .nr { font-size: 0.78rem; color: var(--granat-60); font-weight: 700; }
 .set-karta h3 { margin: 0; }
+/* /nowosci/: nazwa zestawu to h2 (brak nagłówka pośredniego pod h1), wygląda jak h3 */
+.set-karta h2 { margin: 0; font-size: 1.15rem; }
 .set-karta .cena-linia { display: flex; align-items: baseline; gap: 10px; margin-top: auto; padding-top: 10px; }
 .set-karta .cena-linia .cena { font-family: var(--font-display); font-size: 1.2rem; color: var(--czerwien); }
 .set-karta .cena-linia .za-klocek { font-size: 0.8rem; color: var(--granat-60); }
@@ -203,15 +207,42 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .persona h3 { display: flex; align-items: center; gap: 8px; }
 
 /* ---------- Artykuł ---------- */
-.prose { max-width: 720px; }
+/* 720px trzyma wiersz w 60–80 znakach — dłuższy męczy przy przeskoku wzroku
+   do następnej linii. Kolumna jest wyśrodkowana w .wrap (27.09.2026: dobita
+   do lewej zostawiała pustą prawą 1/3 ekranu), a elementy skanowane, nie
+   czytane — galerie, tabele cen, siatki kart — wychodzą na pełną szerokość
+   kontenera. Breakout liczy się od środka kolumny: .prose jest wyśrodkowane
+   w .wrap, więc oba środki się pokrywają; poniżej 760px szerokość kolumny
+   i kontenera są równe i wcięcie wychodzi zerowe samo z siebie. html ma
+   overflow-x: clip, żeby 100vw z paskiem przewijania (Windows) nie robiło
+   poziomego scrolla o szerokość tego paska. */
+html { overflow-x: clip; }
+.prose { max-width: 720px; margin-inline: auto; }
+.prose .galeria-slajder,
+.prose .tabela-cen-wrap,
+.prose .galeria,
+.prose .siatka {
+  --pelna: min(var(--max-w) - 40px, 100vw - 40px);
+  width: var(--pelna);
+  margin-left: calc(50% - var(--pelna) / 2);
+}
+/* Strony listingowe (wycofania, serie, katalogi) mają wstęp funkcjonalny — legendę
+   statusów obok tabel pełnej szerokości — a nie długi tekst do czytania ciągiem.
+   Ograniczenie do 720px zostawiało tam akapit wyraźnie węższy od sąsiedniej ramki
+   i wyglądał jak urwany. Ten modyfikator zdejmuje limit; w artykułach .prose
+   zostaje bez zmian, bo tam krótki wiersz jest celowy. */
+.prose--szeroki { max-width: none; }
 .prose img { max-width: 100%; border-radius: var(--radius); }
+/* zdjęcia z markdownu nie mają width/height – rezerwujemy proporcję 4:3 do
+   czasu załadowania (`auto` oddaje pierwszeństwo naturalnej proporcji) */
+.prose img:not([width]) { width: 100%; height: auto; aspect-ratio: auto 4 / 3; }
 .disclosure { font-size: 0.82rem; color: var(--granat-60); background: var(--papier); border: 1px dashed var(--linia); padding: 10px 14px; border-radius: 8px; margin: 14px 0 24px; }
 
 /* ---------- Footer ---------- */
 .site-footer { margin-top: 60px; background: var(--granat); color: #cfd6e4; padding: 36px 0; font-size: 0.9rem; }
 .site-footer a { color: var(--zolty); }
 .site-footer .wrap { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-.site-footer h4 { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
+.site-footer .stopka-tytul { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
 
 :focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
 
@@ -305,6 +336,17 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 }
 
 /* ---------- Kafle serii ze zdjęciami najświeższych zestawów ---------- */
+/* nagłówek strony z akcją po prawej (np. /serie/ → „Serie archiwalne") */
+.naglowek-akcja { display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap; margin-top: 28px; }
+.naglowek-akcja h1 { margin: 0; }
+.h1-numer { font-weight: 600; color: var(--granat-60, #5b6478); font-size: 0.7em; white-space: nowrap; }
+.przycisk-drugi { display: inline-block; padding: 8px 14px; border: 1.5px solid var(--granat); border-radius: 999px; color: var(--granat); font-weight: 700; font-size: 0.9rem; text-decoration: none; white-space: nowrap; background: var(--karta); }
+.przycisk-drugi:hover { background: var(--granat); color: #fff; }
+.przycisk { display: inline-block; padding: 11px 22px; border: 1.5px solid var(--granat); border-radius: 999px; background: var(--granat); color: #fff; font-weight: 700; font-size: 0.95rem; text-decoration: none; white-space: nowrap; }
+.przycisk:hover { background: var(--karta); color: var(--granat); }
+.sekcja--deale-posty { margin-top: 24px; }
+.sekcja--deale-posty .zajawki--zwarte { margin-bottom: 18px; }
+.sekcja-stopka { text-align: center; margin: 0 0 8px; }
 .siatka--serie { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
 .siatka--serie > * { min-width: 0; }
 .seria-karta { padding: 14px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
@@ -337,7 +379,6 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .galeria a:hover { transform: scale(1.03); }
 .galeria img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
 .set-karta .miniatura { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; border-radius: 8px; border: 1px solid var(--linia); }
-.zrodlo-foto { font-size: 0.75rem; color: var(--granat-60); margin-top: 4px; }
 
 /* ============================================
    Wspólna lista zestawów: pasek filtrów + tabela
@@ -383,7 +424,7 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .tabela-setow tbody tr { scroll-margin-top: calc(var(--h-naglowek) + 96px); }
 .tabela-setow .kol-foto { width: 116px; padding-right: 6px; vertical-align: middle; }
 .tabela-setow .kol-nr { width: 84px; }
-.tabela-setow .kol-status { width: 136px; }
+.tabela-setow .kol-status { width: 176px; } /* „potwierdzone przez LEGO" + znacznik EOL */
 .tabela-setow .kol-cena { width: 152px; text-align: right; }
 
 /* zdjęcie na wysokość całego wiersza (typowy wiersz z 3-liniowym opisem ma ~100 px);
@@ -511,7 +552,7 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
 /* ---------- Typografia: lżejszy krój wyświetleniowy (Archivo 700/800) ---------- */
 h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
-.logo, .site-footer h4 { font-weight: 800; }
+.logo, .site-footer .stopka-tytul { font-weight: 800; }
 .badge-rabat, .deal-dnia .cena-duza, .tabela-cen .cena, .set-karta .cena-linia .cena { font-weight: 700; }
 
 /* ---------- Nowości: większe karty, filtr serii, zdjęcia z powiększeniem ---------- */
@@ -1059,6 +1100,23 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .faq-setu { margin: 10px 0 0; }
 .faq-setu dt { font-weight: 700; margin-top: 14px; }
 .faq-setu dd { margin: 4px 0 0; color: var(--granat-60); }
+/* FAQ pod artykułem/prezentownikiem (Faq.astro) – ta sama lista, co w JSON-LD */
+.faq-tekstu { margin-top: 36px; }
+/* „Przeczytaj też" (PowiazaneArtykuly.astro) – statyczne linki między tekstami */
+.powiazane { margin: 40px 0 8px; padding-top: 18px; border-top: 1px solid var(--linia); }
+.powiazane-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.powiazane-lista li { padding: 12px 16px; background: var(--karta); border: 1px solid var(--linia); border-left: 4px solid var(--zolty); border-radius: 8px; }
+.powiazane-lista a { font-weight: 700; color: var(--granat); text-decoration: none; }
+.powiazane-lista a:hover { text-decoration: underline; }
+.powiazane-meta { display: block; font-size: 0.82rem; color: var(--granat-60); margin-top: 2px; }
+.powiazane-lista p { margin: 6px 0 0; font-size: 0.9rem; color: var(--granat-60); }
+/* Hub zestawu: najniższa zanotowana cena + inne zestawy serii */
+.set-minimum { margin: 14px 0 0; font-size: 0.95rem; }
+.set-minimum strong { color: var(--zielen); }
+.seria-inne { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.seria-inne li { padding: 10px 14px; background: var(--karta); border: 1px solid var(--linia); border-radius: 8px; font-size: 0.92rem; }
+.seria-inne a { font-weight: 700; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
+.seria-inne small { display: block; color: var(--granat-60); margin-top: 3px; }
 /* ── nawigacja miesiąc-po-miesiącu (/nowosci/<miesiac>-<rok>/) ─────────── */
 .mies-nawigacja {
   display: flex;
@@ -1104,3 +1162,433 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
   padding: 1px 7px;
 }
 
+/* ---------- Statusy: EOL, prognozy, przecieki (ustalenia 13.09.2026) ---------- */
+/* Znacznik EOL: LEGO zakończyło sprzedaż, ale zestaw wciąż bywa w sklepach –
+   stoi POD plakietką „w sprzedaży" na listingu i przy cenie LEGO w tabeli cen */
+.tag-eol {
+  display: inline-block; font-weight: 800; font-size: 0.66rem; letter-spacing: 0.08em;
+  padding: 1px 7px; border-radius: 4px; vertical-align: middle; line-height: 1.5;
+  background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28);
+}
+.tabela-setow .kol-status .tag-eol { display: block; width: max-content; margin-top: 5px; }
+.tabela-cen .kc-cena .tag-eol { margin-left: 8px; }
+.tabela-cen tr.wiersz-eol td { color: var(--granat-60); }
+.tabela-cen .kc-eol-info { font-size: 0.82rem; color: var(--granat-60); white-space: nowrap; }
+.tabela-cen .kc-uwaga { display: block; font-size: 0.72rem; color: var(--granat-60); font-weight: 400; }
+.tabela-cen .kc-data { display: block; font-size: 0.7rem; color: var(--granat-60); font-weight: 400; white-space: nowrap; }
+/* nowości: zapowiedź nieoficjalna – kreskowana ramka jak .status--maybe w artykułach */
+.badge-przeciek {
+  display: inline-block; background: var(--papier); color: var(--granat-60);
+  border: 1px dashed #b9c0cd; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px;
+}
+.nowosci-legenda { font-size: 0.9rem; color: var(--granat-60); }
+.nowosci-legenda .badge-wkrotce, .nowosci-legenda .badge-przeciek { font-size: 0.74rem; padding: 2px 8px; vertical-align: 1px; }
+/* podobne zestawy pod hubem – kafelki jak „Dziś w dobrej cenie" */
+.podobne .siatka--4x4 { margin-top: 12px; }
+.podobne-cala-seria { font-weight: 700; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
+.podobne-cala-seria:hover { border-bottom-color: var(--granat); }
+
+/* ---------- Tabela cen na wąskim ekranie: wiersz staje się kartą ----------
+   Cztery (na /deale/ pięć) kolumn nie mieści się na telefonie – tabela wystawała
+   poza ekran w przewijanym pojemniku. Na wąskim ekranie rezygnujemy z ramki
+   karty, a każdy wiersz układamy w siatkę: sklep, pod nim cena z rabatem
+   poniżej, a obok przycisk. Na desktopie zostaje zwykła tabela. */
+.tabela-cen-wrap { padding: 18px; margin: 18px 0; overflow-x: auto; }
+.tabela-cen .kc-klocek-etykieta { display: none; }
+@media (max-width: 720px) {
+  .tabela-cen-wrap { padding: 0; margin: 14px 0; border: 0; box-shadow: none; background: transparent; overflow: visible; }
+  .tabela-cen { font-size: 0.92rem; }
+  .tabela-cen caption { display: block; width: 100%; padding: 0 2px 6px; }
+  .tabela-cen thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .tabela-cen, .tabela-cen tbody { display: block; }
+  /* Układ wiersza (decyzja Marka 13.09.2026): sklep na całą szerokość,
+     pod nim cena, a POD ceną rabat – w jednej kolumnie; przycisk obok,
+     wyśrodkowany względem obu linii. Dzięki temu „Sprawdź w sklepie" mieści
+     się w wierszu zamiast wystawać poza ekran. */
+  .tabela-cen tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "sklep  sklep"
+      "cena   cta"
+      "rabat  cta"
+      "klocek klocek";
+    gap: 2px 12px;
+    align-items: center;
+    padding: 12px 2px 14px;
+    border-bottom: 1px solid var(--linia);
+  }
+  .tabela-cen td, .tabela-cen th { display: block; padding: 0; border: 0; min-width: 0; }
+  .tabela-cen .kc-sklep { grid-area: sklep; margin-bottom: 4px; }
+  .tabela-cen .kc-cena { grid-area: cena; font-size: 1.15rem; align-self: end; }
+  .tabela-cen .kc-rabat { grid-area: rabat; align-self: start; font-weight: 700; font-size: 0.9rem; color: var(--granat-60); }
+  .tabela-cen .kc-rabat .badge-rabat-mini { margin-left: 0; }
+  .tabela-cen .kc-klocek { grid-area: klocek; font-size: 0.82rem; color: var(--granat-60); margin-top: 4px; }
+  .tabela-cen .kc-klocek-etykieta { display: inline; }
+  .tabela-cen .kc-cta { grid-area: cta; justify-self: end; }
+  .tabela-cen .kc-cta .cta { display: inline-block; white-space: normal; text-align: center; padding: 9px 12px; font-size: 0.82rem; max-width: 170px; }
+  .tabela-cen .kc-eol-info { white-space: normal; text-align: right; max-width: 120px; }
+  .tabela-cen tr.najtanszy { background: #fff8e1; box-shadow: inset 4px 0 0 var(--zolty); padding-left: 10px; padding-right: 8px; border-radius: 6px; }
+  .tabela-cen tr.najtanszy td:first-child { border-left: 0; }
+  .tabela-cen tr.wiersz-ceneo, .tabela-cen tr.wiersz-eol { background: var(--papier); padding-left: 8px; padding-right: 8px; border-radius: 6px; }
+  .tabela-cen-wrap .tabela-data { padding: 0 2px; }
+}
+
+/* uzupełnienia po scaleniu 13.09.2026 */
+.tabela-cen .link-wkrotce { font-size: 0.85rem; opacity: 0.55; white-space: nowrap; }
+/* podobne zestawy pod hubem: 4–6 kafelków, siatka dopasowuje się do liczby */
+.siatka--podobne { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 12px 0 0; }
+.siatka--podobne > * { min-width: 0; }
+.set-karta .nr .tag-eol { margin-left: 4px; }
+
+/* Wiersz LEGO.com po EOL: link do karty produktu (zdjęcia, opis), ale to nie jest oferta —
+   przycisk jest wyciszony, żeby nie konkurował z realnymi ofertami sklepów. */
+.cta--eol { background: transparent; color: var(--granat); border: 1.5px solid var(--linia); font-weight: 600; }
+.cta--eol:hover { border-color: var(--granat); background: var(--papier); }
+
+/* ── Karta oferty w poradnikach „najlepsze oferty" (KartaOferty.astro) ──
+   Zdjęcie po lewej, treść po prawej; na telefonie jeden słupek. Zdjęcie i tytuł
+   prowadzą na hub zestawu (pełna tabela cen), przycisk — do sklepu. */
+.oferta-karta { display: grid; grid-template-columns: 260px 1fr; gap: 20px; align-items: start; background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); padding: 18px; margin: 22px 0 28px; }
+.oferta-karta__foto { position: relative; display: block; border-radius: 8px; overflow: hidden; background: var(--papier); }
+.oferta-karta__foto img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; transition: transform 0.2s ease; }
+.oferta-karta__foto:hover img { transform: scale(1.03); }
+.oferta-karta__foto .foto-brak { width: 100%; aspect-ratio: 4 / 3; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
+.oferta-karta__rabat { position: absolute; top: 10px; left: 10px; background: var(--czerwien); color: #fff; font-weight: 700; font-size: 0.95rem; padding: 4px 10px; border-radius: 6px; }
+.oferta-karta__meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 8px; }
+.oferta-karta__tytul { margin: 0 0 4px; font-size: 1.15rem; line-height: 1.3; }
+.oferta-karta__tytul a { color: var(--granat); text-decoration: none; }
+.oferta-karta__tytul a:hover { text-decoration: underline; }
+.oferta-karta__dane { margin: 0 0 10px; font-size: 0.85rem; color: var(--granat-60); }
+.oferta-karta__slot p { margin: 0 0 10px; }
+.oferta-karta__slot p:last-child { margin-bottom: 14px; }
+.oferta-karta__cena { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 0 0 12px; }
+.oferta-karta__cena .cena { font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--czerwien); }
+.oferta-karta__rrp { font-size: 0.9rem; color: var(--granat-60); text-decoration: line-through; }
+.oferta-karta__sklep { font-size: 0.85rem; color: var(--granat-60); }
+.oferta-karta__cena--brak { display: block; font-size: 0.9rem; color: var(--granat-60); }
+.oferta-karta__akcje { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 0; }
+.oferta-karta__akcje .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; padding: 11px 18px; border-radius: 8px; }
+.oferta-karta__akcje .cta:hover { background: #0f1830; }
+.oferta-karta__hub { font-size: 0.88rem; }
+
+@media (max-width: 720px) {
+  .oferta-karta { grid-template-columns: 1fr; gap: 14px; padding: 14px; }
+  .oferta-karta__akcje .cta { width: 100%; text-align: center; }
+  .oferta-karta__akcje { gap: 10px; }
+}
+
+/* ── Ściąga „co trwa teraz" (/kalendarz-promocji-lego/) ───────────────────────
+   Lista zamiast tabeli, bo na telefonie trzykolumnowa tabela ściska opis do
+   dwóch słów w wierszu. Na szerokim ekranie układ jest tabelaryczny: termin,
+   opis, status. Poniżej 600 px termin i status siadają w jednym wierszu,
+   a opis przechodzi pod nie na pełną szerokość. */
+.prose .okna { list-style: none; margin: 16px 0 22px; padding: 0; }
+.prose .okna li {
+  display: grid;
+  grid-template-columns: 128px minmax(0, 1fr) auto;
+  gap: 2px 16px; align-items: baseline;
+  padding: 11px 0; border-top: 1px solid var(--linia);
+}
+.prose .okna li:last-child { border-bottom: 1px solid var(--linia); }
+.prose .okna__data { grid-column: 1; grid-row: 1; font-weight: 700; color: var(--granat); }
+.prose .okna__opis {
+  grid-column: 2; grid-row: 1;
+  /* podkreślamy tylko nazwę okna, nie cały opis — osiem podkreślonych zdań
+     pod sobą czyta się jak ściana, a nazwa wystarczy, żeby było widać link */
+  text-decoration: none;
+}
+.prose .okna__opis b { text-decoration: underline; }
+.prose .okna__opis:hover { text-decoration: underline; }
+.prose .okna .status { grid-column: 3; grid-row: 1; justify-self: end; white-space: nowrap; }
+@media (max-width: 600px) {
+  .prose .okna li { grid-template-columns: minmax(0, 1fr) auto; gap: 6px 10px; }
+  .prose .okna__opis { grid-column: 1 / -1; grid-row: 2; }
+  .prose .okna .status { grid-column: 2; grid-row: 1; }
+}
+
+/* ── Kotwice sekcji w artykułach ──────────────────────────────────────────────
+   Nagłówki z własnym id są celem odsyłaczy ze ściągi na górze kalendarza
+   promocji. Pasek nawigacji jest przyklejony, więc bez tego zapasu trafiony
+   nagłówek chowa się pod nim i czytelnik ląduje w środku akapitu. */
+.prose h2[id], .prose h3[id] { scroll-margin-top: 90px; }
+
+/* ── Słowniczek pojęć (/artykuly/slowniczek-lego/) ────────────────────────────
+   Hasła stoją w <dl>, bo to jedyny znacznik, który mówi robotowi „termin
+   i jego definicja". Każde <dt> ma własne id — dzięki temu indeks A–Z u góry
+   i odsyłacze wewnątrz haseł prowadzą wprost do definicji, zamiast kazać
+   czytelnikowi szukać „patrz wyżej". scroll-margin-top zostawia miejsce, żeby
+   trafione hasło nie kleiło się do krawędzi okna. */
+.prose .slownik { margin: 18px 0 26px; }
+.prose .slownik dt {
+  font-weight: 700;
+  color: var(--granat);
+  margin: 18px 0 0;
+  padding-left: 12px;
+  border-left: 4px solid var(--zolty);
+  scroll-margin-top: 90px;
+}
+.prose .slownik dt:target { background: #fff6da; border-left-color: var(--zolty-ciemny); }
+.prose .slownik dd { margin: 5px 0 0 16px; color: var(--granat-60); }
+.prose .slownik dd em { color: var(--granat); font-style: italic; }
+/* Indeks A–Z: trzy kolumny zamiast jednego ciągu oddzielonego kropkami —
+   69 haseł w jednej linijce czyta się źle, w kolumnach wzrok skacze po
+   pierwszych literach. columns (a nie grid) celowo: hasła płyną w dół
+   kolumny, więc kolejność alfabetyczna zostaje czytelna. Na wąskim ekranie
+   schodzimy do dwóch, potem do jednej kolumny. */
+.prose .slownik-indeks {
+  columns: 3;
+  column-gap: 28px;
+  list-style: none;
+  margin: 14px 0 26px;
+  padding: 16px 18px;
+  background: var(--karta);
+  border: 1px solid var(--linia);
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+}
+.prose .slownik-indeks li {
+  break-inside: avoid;
+  margin: 0 0 6px;
+  padding: 0;
+  line-height: 1.45;
+}
+.prose .slownik-indeks a { color: var(--granat); text-decoration: none; border-bottom: 1px solid var(--linia); }
+.prose .slownik-indeks a:hover { border-bottom-color: var(--zolty-ciemny); }
+@media (max-width: 720px) { .prose .slownik-indeks { columns: 2; column-gap: 20px; } }
+@media (max-width: 420px) { .prose .slownik-indeks { columns: 1; } }
+
+/* Wykres w treści artykułu (inline SVG — bez biblioteki, bez JS, skaluje się
+   z szerokością kolumny). Opis dla czytnika ekranu siedzi w <title>/<desc>
+   samego SVG, a pod wykresem stoi ta sama tabela z liczbami — kto nie widzi
+   grafiki, dostaje dane, a nie informację „wykres". */
+.prose .wykres { width: 100%; height: auto; margin: 18px 0 10px; display: block; }
+
+/* ── Audyt CRO 25.09.2026 (A–G) ──────────────────────────────────────────── */
+/* A: telefon – tytuł i pasek ceny przed zdjęciem, zdjęcie niższe */
+@media (max-width: 760px) {
+  .set-hero > div:first-child { order: 2; }
+  .set-hero > div:last-child { order: 1; }
+  .set-hero .foto-okno, .set-hero .foto-placeholder { aspect-ratio: 16 / 10; max-height: 230px; }
+}
+.pasek-ceny { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin: 12px 0 14px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid var(--zolty); border-radius: var(--radius); }
+.pasek-ceny__cena { font-size: 1.05rem; }
+.pasek-ceny__cena strong { font-family: var(--font-display); font-size: 1.35rem; }
+.pasek-ceny__rabat { margin-left: 8px; font-weight: 700; color: #b42318; }
+.pasek-ceny .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.95rem; padding: 10px 18px; border-radius: 6px; }
+.pasek-ceny__wszystkie { font-size: 0.9rem; color: var(--granat); }
+/* B: blok „Najtaniej dziś" po karcie redakcyjnej */
+.pasek-ceny--dol { margin: 28px 0; }
+/* E: linia zaufania pod tabelą */
+.tabela-zaufanie { margin: 12px 0 4px; font-size: 0.86rem; color: var(--granat); line-height: 1.45; }
+/* C: wiersze sklepów w karcie prezentownika jako przyciski */
+.prezent__kup-wiersz { display: grid; grid-template-columns: 1fr auto; grid-template-areas: "sklep cena" "poziom cta"; align-items: center; gap: 4px 12px; padding: 10px 12px; border: 1px solid var(--linia); border-radius: 8px; margin-bottom: 8px; }
+.prezent__kup-wiersz--najtanszy { background: #fff8e1; border-left: 4px solid var(--zolty); }
+.prezent__kup-sklep { grid-area: sklep; font-weight: 700; }
+.prezent__kup-naj { margin-left: 8px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: #b42318; font-weight: 700; }
+.prezent__kup-wiersz > b { grid-area: cena; font-family: var(--font-display); font-size: 1.15rem; text-align: right; }
+.prezent__kup-wiersz .prezent__kup-poziom { grid-area: poziom; }
+.prezent__kup-wiersz .cta { grid-area: cta; justify-self: end; display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.88rem; padding: 8px 14px; border-radius: 6px; }
+.galeria__dzis { display: block; font-size: 0.8rem; color: var(--granat-60); }
+.galeria__dzis--ok { color: #1a7f37; font-weight: 700; }
+
+/* ---------- Aktualności (27.09.2026): karta 2 w rzędzie, slajder na głównej ---------- */
+.akt-karta { display: flex; flex-direction: column; overflow: hidden; text-decoration: none; color: var(--granat); border-top: 5px solid var(--zolty); transition: transform 0.12s ease, box-shadow 0.12s ease; min-width: 0; }
+.akt-karta:hover { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(23,35,63,0.14); }
+.akt-foto { display: flex; align-items: center; justify-content: center; aspect-ratio: 16 / 9; background: #fff; border-bottom: 1px solid var(--linia); }
+.akt-foto img { width: 100%; height: 100%; object-fit: contain; padding: 10px; }
+.akt-tresc { display: flex; flex-direction: column; gap: 8px; padding: 16px 18px 18px; flex: 1; }
+.akt-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 0.8rem; color: var(--granat-60); }
+.akt-etykieta { font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: var(--granat); }
+.akt-termin { background: var(--zolty); color: var(--granat); font-weight: 700; padding: 2px 9px; border-radius: 999px; }
+.akt-termin--koniec { background: var(--papier); color: var(--granat-60); border: 1px solid var(--linia); }
+.akt-karta--koniec .akt-foto img { filter: grayscale(0.6); opacity: 0.85; }
+.akt-tytul { margin: 0; font-size: 1.22rem; line-height: 1.3; }
+.akt-opis { font-size: 0.92rem; color: var(--granat-60); }
+.akt-wiecej { margin-top: auto; padding-top: 4px; font-weight: 700; font-size: 0.9rem; }
+
+.sekcja--aktualnosci { margin-top: 26px; }
+.akt-wstep { margin-top: -4px; }
+.akt-slajder { position: relative; }
+.akt-tor { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 18px) / 2); gap: 18px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; padding: 4px 2px 10px; }
+.akt-tor::-webkit-scrollbar { display: none; }
+.akt-tor > * { scroll-snap-align: start; }
+@media (max-width: 700px) { .akt-tor { grid-auto-columns: 86%; gap: 12px; } }
+.akt-strzalka { position: absolute; top: 34%; width: 40px; height: 40px; border-radius: 50%; border: 1.5px solid var(--granat); background: var(--karta); color: var(--granat); font-size: 1.4rem; line-height: 1; cursor: pointer; box-shadow: var(--shadow); z-index: 2; }
+.akt-strzalka:hover { background: var(--granat); color: #fff; }
+.akt-strzalka[disabled] { opacity: 0; pointer-events: none; }
+.akt-strzalka--wstecz { left: -14px; }
+.akt-strzalka--dalej { right: -14px; }
+@media (max-width: 700px) { .akt-strzalka { display: none; } }
+.akt-siatka { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin: 18px 0 40px; }
+@media (max-width: 700px) { .akt-siatka { grid-template-columns: 1fr; } }
+
+/* ---------- Podgląd przebudowy (27.09.2026): /podglad/glowna/, /podglad/promocje-lego/ ---------- */
+.podglad-pasek { margin: 16px 0 0; padding: 10px 14px; background: #fff3cd; border: 2px dashed var(--zolty-ciemny); border-radius: 8px; font-size: 0.9rem; font-weight: 600; }
+.siatka--trzy { grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.siatka--trzy > * { min-width: 0; }
+@media (max-width: 900px) { .siatka--trzy { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .siatka--trzy { grid-template-columns: 1fr; } }
+.przycisk--duzy { padding: 15px 34px; font-size: 1.08rem; }
+.sekcja--trzy-promocje .sekcja-stopka { margin-top: 18px; }
+.promo-boks { display: flex; flex-direction: column; gap: 8px; }
+.promo-boks h3 { margin: 0; font-size: 1.02rem; line-height: 1.3; }
+.promo-boks h3 a { text-decoration: none; color: var(--granat); }
+.promo-boks__kat { font-size: 0.82rem; color: var(--granat-60); }
+.promo-boks .cta { margin-top: auto; text-align: center; }
+.promo-podtytul { margin: 34px 0 6px; font-size: 1.3rem; }
+@media (max-width: 600px) { .przycisk--duzy { white-space: normal; max-width: 100%; padding: 14px 20px; } }
+.promo-boks .cta { display: block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.9rem; padding: 10px 14px; border-radius: 8px; }
+.promo-boks .cta:hover { background: #0f1830; }
+/* podgląd strony głównej – poprawki Marka 27.09 (po akceptacji do przeniesienia globalnie) */
+.podglad-widok .sekcja-head h2 { margin: 0; line-height: 1.15; }
+.podglad-widok .set-karta .miniatura, .podglad-widok .zajawka-foto { border: 0; }
+.podglad-widok .sekcja-stopka { margin: 26px 0 8px; }
+.podglad-widok .sekcja { margin-bottom: 44px; }
+.wejscia { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+@media (max-width: 800px) { .wejscia { grid-template-columns: 1fr; } }
+.wejscie { display: flex; flex-direction: column; gap: 6px; padding: 22px 22px 20px; text-decoration: none; color: var(--granat); border-top: 5px solid var(--zolty); transition: transform 0.12s ease, box-shadow 0.12s ease; }
+.wejscie:hover { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(23,35,63,0.14); }
+.wejscie__ile { font-family: var(--font-display); font-size: 2.2rem; font-weight: 800; line-height: 1; }
+.wejscie__etykieta { font-size: 1.25rem; font-weight: 800; }
+.wejscie__opis { font-size: 0.92rem; color: var(--granat-60); }
+.wejscie__cta { margin-top: auto; padding-top: 6px; font-weight: 700; }
+/* podgląd Promocji v2 – slajder okazji i listing w stylu wycofań */
+.promo-slajd .akt-tytul a { color: var(--granat); text-decoration: none; }
+.promo-slajd__ceny { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.promo-slajd__ceny .cena { font-family: var(--font-display); font-size: 1.6rem; font-weight: 800; color: #c8102e; }
+.promo-slajd__kat { font-size: 0.85rem; color: var(--granat-60); text-decoration: line-through; }
+.promo-cta { display: block; margin-top: 8px; text-align: center; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; padding: 11px 16px; border-radius: 8px; }
+.promo-cta:hover { background: #0f1830; }
+.promo-wstep { margin: 6px 0 26px; }
+.set-mini--duza { width: 130px; height: 130px; }
+.set-mini--duza img { width: 130px; height: 130px; }
+.tabela-promocje .kol-foto { width: 146px; }
+.tabela-promocje .kol-rabat { width: 80px; vertical-align: middle; }
+.tabela-promocje .kol-cena { width: 150px; text-align: right; vertical-align: middle; }
+.tabela-promocje .kol-cta { width: 190px; text-align: right; vertical-align: middle; }
+.tabela-promocje .kol-opis { vertical-align: middle; }
+.tabela-promocje .set-nazwa { display: block; font-weight: 700; font-size: 1.02rem; }
+.tabela-promocje .set-nazwa a { color: var(--granat); text-decoration: none; }
+.tabela-promocje .set-meta { display: block; margin-top: 4px; }
+.tabela-promocje .kol-cena .set-cena-kat { display: block; font-size: 0.8rem; color: var(--granat-60); text-decoration: line-through; }
+.tabela-promocje .kol-cena .set-cena { display: block; font-family: var(--font-display); font-weight: 800; font-size: 1.2rem; color: #c8102e; }
+.tabela-promocje .kol-cena .set-sklep { display: block; font-size: 0.8rem; color: var(--granat-60); }
+.tabela-promocje .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.86rem; padding: 9px 14px; border-radius: 6px; white-space: normal; }
+.tabela-promocje .cta:hover { background: #0f1830; }
+.promo-znaczki { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.promo-znaczki:empty { display: none; }
+.badge-okazja { display: inline-block; background: var(--zolty); color: var(--granat); font-weight: 800; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 2px 8px; border-radius: 999px; }
+@media (max-width: 720px) {
+  .tabela-promocje tr { grid-template-columns: 100px 1fr; grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "rabat cena" "cta cta"; align-items: start; }
+  .tabela-promocje .kol-foto { grid-area: foto; width: auto; margin: 0; }
+  .tabela-promocje .set-mini--duza, .tabela-promocje .set-mini--duza img { width: 100px; height: 100px; }
+  .tabela-promocje .set-nazwa { grid-area: nazwa; }
+  .tabela-promocje .set-meta { grid-area: meta; margin: 0; }
+  .tabela-promocje .promo-znaczki { grid-area: znaczki; margin: 0; }
+  .tabela-promocje .kol-rabat { grid-area: rabat; width: auto; align-self: center; }
+  .tabela-promocje .kol-cena { grid-area: cena; width: auto; text-align: right; display: block; }
+  .tabela-promocje .kol-cena .set-cena-kat, .tabela-promocje .kol-cena .set-cena, .tabela-promocje .kol-cena .set-sklep { display: inline; margin-left: 8px; }
+  .tabela-promocje .kol-cta { grid-area: cta; width: auto; text-align: left; }
+  .tabela-promocje .cta { display: block; text-align: center; }
+}
+/* podgląd: równe odstępy nagłówek → treść i slajder bez ramki zdjęcia (Marek 27.09) */
+.podglad-widok .foto-okno { border: 0; box-shadow: none; }
+.podglad-widok .sekcja-head { margin-bottom: 16px; }
+.podglad-widok .sekcja-head + p { margin: 0 0 20px; }
+.podglad-widok .sekcja-head + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap),
+.podglad-widok .sekcja-head + p + :is(.siatka, .zajawki, .akt-slajder, .wejscia, .tabela-setow-wrap, .chipy) { margin-top: 0; }
+/* slajder okazji: zdjęcie o 20% mniejsze, z oddechem */
+.promo-slajd .akt-foto img { width: 80%; height: 80%; padding: 0; }
+.podglad-widok .zajawki { margin-bottom: 0; }
+
+/* ---------- Najazd na przycisk sklepu: żółty wszędzie (Marek 27.09.2026) ----------
+   Jedna reguła dla wszystkich przycisków prowadzących do sklepu (tabele cen, pasek
+   ceny, prezentowniki, slajder, przyciski w postach). !important, bo poszczególne
+   komponenty mają własne :hover o wyższej swoistości. */
+a.cta:hover, a.cta:focus-visible,
+a.set-sprawdz:hover, a.set-sprawdz:focus-visible,
+a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
+  background: var(--zolty) !important; color: var(--granat) !important; border-color: var(--zolty) !important;
+}
+/* podgląd Promocji: krótki opis zestawu w listingu (jak na wycofaniach) */
+.tabela-promocje .set-opis { display: block; margin-top: 4px; font-size: 0.86rem; color: var(--granat-60); line-height: 1.4; }
+@media (max-width: 720px) { .tabela-promocje tr { grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "opis opis" "rabat cena" "cta cta"; } .tabela-promocje .set-opis { grid-area: opis; } }
+/* podgląd Promocji v3: cena i rabat w jednej kolumnie, równe znaczki, stała wysokość zdjęcia w slajdzie */
+.tabela-promocje .kol-cena { width: 170px; }
+.tabela-promocje .kol-cta { width: 210px; }
+.tabela-promocje .promo-cena-gora { display: flex; justify-content: flex-end; align-items: center; gap: 8px; }
+.tabela-promocje .kol-cena .promo-cena-gora .set-cena-kat { display: inline; }
+.promo-znaczki { align-items: center; }
+.promo-znaczki > span { display: inline-flex; align-items: center; height: 24px; padding: 0 10px; font-size: 0.74rem; line-height: 1; letter-spacing: 0.04em; font-weight: 800; border-radius: 999px; }
+.promo-slajd .akt-foto { position: relative; aspect-ratio: auto; height: 250px; overflow: hidden; }
+.promo-slajd .akt-foto img { position: absolute; inset: 10%; width: 80%; height: 80%; object-fit: contain; padding: 0; }
+@media (max-width: 700px) { .promo-slajd .akt-foto { height: 200px; } }
+@media (max-width: 720px) {
+  .tabela-promocje tr { grid-template-areas: "foto nazwa" "foto meta" "foto znaczki" "opis opis" "cena cena" "cta cta"; }
+  .tabela-promocje .promo-cena-gora { display: inline-flex; }
+  .tabela-promocje .kol-cena { text-align: left; }
+}
+.promo-slajd .akt-opis { font-size: 0.9rem; line-height: 1.4; }
+.podglad-widok [data-lupa-pag] { margin-top: 20px; }
+/* slajder okazji: przycisk sklepu zawsze na dole karty – krótszy opis = większy odstęp nad przyciskiem */
+.promo-slajd .akt-tresc { flex: 1; }
+.promo-slajd .promo-slajd__ceny { margin-top: auto; padding-top: 10px; margin-bottom: 4px; flex-wrap: nowrap; }
+.promo-slajd .promo-cta { margin-top: 8px; }
+@media (max-width: 700px) {
+  .promo-slajd .promo-slajd__ceny { flex-wrap: wrap; }
+  .promo-slajd .promo-slajd__kat { flex-basis: 100%; }
+}
+.promo-slajd .promo-cta { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 700px) { .promo-slajd .promo-cta { font-size: 0.88rem; padding: 11px 10px; } }
+
+/* Promocje LEGO (podgląd 29.09): sterowanie listingiem i numerowane stronicowanie */
+.listing-licznik { font-size: 0.7em; color: var(--granat-60); font-weight: 600; }
+.listing-sterowanie { display: flex; flex-wrap: wrap; gap: 12px 20px; margin: 0 0 14px; }
+.listing-sterowanie label { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 0.92rem; color: var(--granat); }
+.listing-sterowanie select { font: inherit; font-weight: 500; font-size: 0.95rem; min-height: 44px; padding: 8px 36px 8px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: var(--karta); color: var(--granat); max-width: 100%; }
+.listing-sterowanie select:focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
+.paginacja--numery { flex-wrap: wrap; gap: 6px; margin-top: 16px; }
+.paginacja--numery .pg-przycisk { min-width: 44px; min-height: 44px; padding: 8px 12px; }
+.pg-przycisk--biezaca, .pg-przycisk--biezaca:disabled { background: var(--granat); color: #fff; border-color: var(--granat); opacity: 1; }
+@media (max-width: 560px) {
+  .listing-sterowanie { flex-direction: column; }
+  .listing-sterowanie label { justify-content: space-between; }
+  .listing-sterowanie select { flex: 1; }
+}
+
+/* ---------- Mobile: slajder okazji i tabela promocji (Marek 05.10.2026) ----------
+   Slajder: zdjęcie w mniejszym kwadracie, żeby cena była widoczna bez przewijania;
+   półka cenowa jako granatowy prostokąt w prawym górnym rogu, tuż pod żółtą kreską.
+   Tabela: cena w jednym wierszu z ceną katalogową i rabatem, przycisk wyśrodkowany
+   (nazwa sklepu jest na przycisku, więc przy cenie jej nie powtarzamy). */
+@media (max-width: 760px) {
+  .deale-slajder .deal-dnia { padding-top: 20px; gap: 16px; }
+  .deale-slajder .deal-foto { width: min(100%, 220px); justify-self: center; }
+}
+/* Kolejność slajdu (Marek 06.10): nazwa → seria i wiek → cena → przycisk → elementy
+   i cena za klocek → „okazja dnia · dane z” na końcu. Półka cenowa w rogu na każdej szerokości. */
+.deale-slajder .deal-dnia { position: relative; }
+.deale-slajder .slajd-polka { position: absolute; top: 0; right: 0; z-index: 1; border-radius: 0 0 0 6px; padding: 6px 12px; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.deal-kategoria { display: flex; gap: 6px 12px; flex-wrap: wrap; font-size: 1rem; color: var(--granat-60); margin-top: -6px; }
+.deal-kategoria strong { color: var(--granat); }
+.deal-dnia .deal-tresc > .eyebrow { font-size: 0.72rem; color: var(--granat-60); font-weight: 700; }
+.deale-slajder .slajd-licznik { position: absolute; top: 10px; left: 10px; z-index: 1; }
+@media (max-width: 720px) {
+  .tabela-promocje .kol-cena { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; width: auto; }
+  .tabela-promocje .kol-cena .set-cena { margin-left: 0; order: 2; }
+  .tabela-promocje .kol-cena .promo-cena-gora { order: 1; }
+  .tabela-promocje .kol-cena .set-sklep { order: 3; margin-left: 0; }
+  .tabela-promocje .kol-cta { width: auto; text-align: center; }
+  .tabela-promocje .cta { display: inline-block; min-width: 70%; }
+}
+@media (max-width: 760px) { .deal-kategoria { font-size: 0.9rem; gap: 4px 12px; } .deal-kategoria .deal-etyk { display: none; } }
+/* slajder okazji na telefonie: treść wyśrodkowana pod wyśrodkowanym zdjęciem (Marek 06.10) */
+@media (max-width: 760px) {
+  .deal-dnia .deal-tresc { text-align: center; justify-items: center; }
+  .deal-dnia .deal-kategoria, .deal-dnia .deal-badges, .deal-dnia .deal-akcje { justify-content: center; }
+  .deal-dnia .deal-tresc > .eyebrow { justify-content: center; flex-wrap: wrap; gap: 8px; letter-spacing: 0.06em; }
+}
+/* „Podobne zestawy” na karcie zestawu: kwadrat jak w listingu, wysokość z szerokości
+   (atrybut height=225 na <img> robił z wąskiej kolumny pionowy prostokąt) */
+.set-karta--mini .miniatura { aspect-ratio: 1 / 1; height: auto; }

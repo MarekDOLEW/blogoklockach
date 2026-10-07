@@ -1,0 +1,632 @@
+{
+ "_meta": {
+  "opis": "Dział /przecieki/ — nieoficjalne zapowiedzi zestawów LEGO z oceną pewności i tablicą trafności. Decyzja Marka 15.09.2026: przecieki osobno od faktów, od razu w sitemapie. Przeciek NIGDY nie trafia do huba faktów, tabeli cen ani danych strukturalnych Product; dostaje tylko cenę „orientacyjnie wg źródła\". Wpisy dopisuje Scout (codziennie), rozstrzygnięcia też Scout — gdy LEGO potwierdzi (karta na lego.com, komunikat) albo gdy numer/cena okażą się inne. Append-only: wpis raz dodany zostaje z rozstrzygnięciem, nigdy nie jest kasowany — to jest historia trafności.",
+  "pewnosc": {
+   "wysoka": "co najmniej dwa niezależne serwisy (np. PromoBricks + StoneWars) zgodne co do numeru i ceny",
+   "srednia": "jedno źródło branżowe plus dowód (zdjęcie, listing sklepu, wpis w katalogu dystrybutora)",
+   "niska": "jedno źródło społecznościowe albo sam numer bez dowodu"
+  },
+  "wynik": {
+   "potwierdzony": "LEGO ujawniło zestaw zgodnie z przeciekiem (numer, cena ±10%, termin ±1 miesiąc)",
+   "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
+   "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
+  },
+  "zaktualizowano": "2026-10-06"
+ },
+ "przecieki": [
+  {
+   "id": "21375",
+   "numer": "21375",
+   "nazwa": "Godzilla",
+   "seria": "Ideas",
+   "elementy": 5364,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Liczba elementów z przecieku.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11387",
+   "numer": "11387",
+   "nazwa": "Zimowa wioska 2026 (nazwa nieoficjalna)",
+   "seria": "Icons",
+   "elementy": 1354,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    },
+    {
+     "nazwa": "StoneWars — oficjalna prezentacja",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-15"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Coroczny zestaw zimowy Icons; nazwa robocza.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-16",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i liczba elementów (1354) zgodne z przeciekiem, termin też — start 2026-10-01, czyli w zapowiadanym oknie. Przeciek nie podawał ceny, więc nie ma czego porównać. Różni się nazwa: robocza „Zimowa wioska 2026” kontra oficjalna „Holiday House” (u nas „Świąteczny dom”). Potwierdzenie: ceny lego.com na czterech rynkach w karcie Brickset (dateFirstAvailable 2026-09-16) oraz oficjalna prezentacja opisana przez StoneWars 15.09."
+   }
+  },
+  {
+   "id": "77094",
+   "numer": "77094",
+   "nazwa": "The Legend of Zelda: Ocarina of Time — Link i Epona",
+   "seria": "The Legend of Zelda",
+   "elementy": 1750,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks / StoneWars",
+     "url": null,
+     "data": "2026-09"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11392",
+   "numer": "11392",
+   "nazwa": "Diuna: Czerw Pustyni",
+   "seria": "Icons",
+   "elementy": 1840,
+   "cena_wg_zrodla": 560,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11395",
+   "numer": "11395",
+   "nazwa": "Władca Pierścieni: Oliphant",
+   "seria": "Icons",
+   "elementy": 2020,
+   "cena_wg_zrodla": 950,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11391",
+   "numer": "11391",
+   "nazwa": "Wieża zegarowa",
+   "seria": "Icons",
+   "elementy": 3260,
+   "cena_wg_zrodla": 1100,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "helmowy-jar",
+   "numer": null,
+   "nazwa": "Władca Pierścieni: Helmowy Jar",
+   "seria": "Icons",
+   "elementy": 6000,
+   "cena_wg_zrodla": 2500,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Bez numeru; termin 2027/2028.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "star-wars-50-lecie",
+   "numer": null,
+   "nazwa": "Star Wars: fala na 50-lecie",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Bez numerów; sama informacja o fali rocznicowej.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "ucs-sokol-2027",
+   "numer": null,
+   "nazwa": "Nowy UCS Sokół Millennium",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Następca 75192 (wycofanie grudzień 2026).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76483",
+   "numer": "76483",
+   "nazwa": "Harry Potter: Pierwszy rok w Hogwarcie",
+   "seria": "Harry Potter",
+   "elementy": null,
+   "cena_wg_zrodla": 480,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76479",
+   "numer": "76479",
+   "nazwa": "Harry Potter: Harry poznaje Zgredka",
+   "seria": "Harry Potter",
+   "elementy": null,
+   "cena_wg_zrodla": 65,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67006",
+   "numer": "67006",
+   "nazwa": "Marvel Skyline",
+   "seria": "Marvel",
+   "elementy": 1260,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67005",
+   "numer": "67005",
+   "nazwa": "Sanctum Strange'a Supreme",
+   "seria": "Marvel",
+   "elementy": 810,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "67008",
+   "numer": "67008",
+   "nazwa": "Batmobil z „Powrotu Batmana\"",
+   "seria": "DC",
+   "elementy": 672,
+   "cena_wg_zrodla": 215,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z oficjalna nazwa, 672 elementami, podseria i cenami czterech rynkow",
+     "url": "https://brickset.com/sets/67008-1",
+     "data": "2026-10-06"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-06",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę."
+   }
+  },
+  {
+   "id": "daily-planet",
+   "numer": null,
+   "nazwa": "DC: Daily Planet — budynek modularny",
+   "seria": "DC",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
+     "url": "/zapowiedzi-lego-2027/",
+     "data": "2026-08-20"
+    }
+   ],
+   "dodano": "2026-09-15",
+   "uwagi": null,
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40899",
+   "numer": "40899",
+   "nazwa": "Astro Bot — gratis do konsoli PlayStation",
+   "seria": "PlayStation",
+   "elementy": 276,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks — przeciek z Reddita",
+     "url": "https://www.promobricks.de/astrobot-lego-sony-playstation-konsole/",
+     "data": "2026-09-09"
+    },
+    {
+     "nazwa": "PromoBricks — „AstroBot Set als Gratis-Zugabe Anfang Oktober”",
+     "url": "https://www.promobricks.de/",
+     "data": "2026-09-21"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu (dowód katalogowy)",
+     "url": "https://brickset.com/sets/40899-1",
+     "data": "2026-09-18"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO 40899 Astro Bot: GWP … offiziell vorgestellt”",
+     "url": "https://www.stonewars.de/news/lego-40899-astro-bot-vorgestellung/",
+     "data": "2026-09-25"
+    }
+   ],
+   "dodano": "2026-09-21",
+   "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-26",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Nic. Karta Brickset ma od 25.09.2026 oficjalną nazwę „Astro Bot” zamiast „{?}”, seria PlayStation, 276 elementów, start 1.10.2026, availability „LEGO Gift with Purchase”, wiek 18+. StoneWars tego samego dnia opisał oficjalną prezentację w sklepie LEGO. Numer, forma gratisu i termin zgodne z przeciekiem PromoBricks z 09.09; ceny przeciek nie podawał, bo to GWP (LEGO deklaruje wartość 19,99 euro). Zestaw dołożony do sety.json."
+   }
+  },
+  {
+   "id": "11390",
+   "numer": "11390",
+   "nazwa": "Shenlong (Dragon Ball) z minifigurką Goku",
+   "seria": "Icons",
+   "elementy": 1764,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — pierwsze informacje",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-09"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Teaser-Video zum großen Dragon Ball Set!”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-22"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z oficjalna nazwa, data startu i cenami czterech rynkow",
+     "url": "https://brickset.com/sets/11390-1",
+     "data": "2026-09-30"
+    }
+   ],
+   "dodano": "2026-09-23",
+   "uwagi": "Dowód po stronie producenta: StoneWars opisuje TEASER OD LEGO zapowiadający duży zestaw Dragon Ball na listopad, z minifigurką Goku. Karta 11390 w Brickset jest pusta — bez nazwy, elementów, ceny i daty; numer przypisuje wyłącznie StoneWars. Zapowiedź tematu przez LEGO nie jest tym samym co potwierdzenie danych katalogowych, dlatego zestaw zostaje w przeciekach. Pewność „srednia”: jedno źródło branżowe plus dowód (materiał LEGO). Do „wysokiej” brakuje drugiego serwisu zgodnego co do numeru i ceny. Jeśli się potwierdzi, byłaby to trzecia nowa licencja growo-rozrywkowa w katalogu po PlayStation i Zeldzie.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-09-30",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Nic istotnego. Termin zgodny: przeciek mówił „listopad”, Brickset podaje launchDate 2026-11-01. Numer zgodny. Nazwa oficjalna to „Dragon Ball: Shenron & Goku” — StoneWars pisał „Shenlong”, czyli tę samą postać w innej transliteracji. Doszły dane, których przeciek nie miał: 1764 elementy, wiek 18+, availability „Retail - limited”, RRP 139,99 euro (DE). Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json; polskiej ceny katalogowej LEGO jeszcze nie ogłosiło."
+   }
+  },
+  {
+   "id": "11388",
+   "numer": "11388",
+   "nazwa": "Wenecja — diorama Icons",
+   "seria": "Icons",
+   "elementy": 5700,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Erste Infos zum LEGO Venedig (11388)?”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-09"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
+     "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
+     "data": "2026-10-05"
+    }
+   ],
+   "dodano": "2026-09-23",
+   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "cutelings",
+   "numer": null,
+   "nazwa": "LEGO Cutelings — nowy motyw",
+   "seria": null,
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Aus der LEGO Gerüchteküche”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-23"
+    }
+   ],
+   "dodano": "2026-09-24",
+   "uwagi": "Nowy motyw wymieniony w przeglądzie plotek StoneWars. Bez numeru, bez ceny, bez terminu — serwis sam podpisuje tekst jako „Gerüchteküche”, czyli kuchnię plotek. Jeśli się potwierdzi, byłby to nowy motyw w katalogu, więc warto trzymać wpis dla tablicy trafności.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "icons-buldog-francuski",
+   "numer": null,
+   "nazwa": "Icons: buldog francuski",
+   "seria": "Icons",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Aus der LEGO Gerüchteküche”",
+     "url": "https://stonewars.de/",
+     "data": "2026-09-23"
+    }
+   ],
+   "dodano": "2026-09-24",
+   "uwagi": "Wymieniony w tym samym przeglądzie plotek StoneWars. Bez numeru, elementów, ceny i terminu. Icons ma już serię modeli zwierząt, więc kolejny pies jest wiarygodny, ale to nie jest dowód.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40909",
+   "numer": "40909",
+   "nazwa": "Restauracje świata: Włochy (nazwa niepotwierdzona)",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Neuheiten im Oktober 2026”, sekcja „Gratisbeigaben im Oktober”",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-im-oktober-2026/",
+     "data": "2026-09-28"
+    }
+   ],
+   "dodano": "2026-09-29",
+   "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71875",
+   "numer": "71875",
+   "nazwa": "Lloyd kontra Ras — pojedynek spinnerów",
+   "seria": "Ninjago",
+   "elementy": 153,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy, zdjecia i ceny czterech rynkow",
+     "url": "https://brickset.com/sets/71875-1",
+     "data": "2026-10-03"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Dowód: oficjalne zdjęcia produktowe LEGO, udostępnione na Instagramie przez sklep JB Spielwaren — nie przez samo LEGO. StoneWars podaje 153 elementy, 2 minifigurki, UVP 19,99 euro, wiek 6+, start 1 stycznia 2027 i koniec produkcji 31 grudnia 2027. Katalog Brickset ma ten numer z OFICJALNĄ NAZWĄ zgodną z przeciekiem („Lloyd vs. Ras Spinner Battle”), ale bez liczby elementów, bez ceny i bez daty startu, `released` false (pełny zrzut rocznika 2027, 02.10.2026). Dlatego to przeciek, nie fakt: LEGO nie ujawniło fali styczniowej, a StoneWars sam spodziewa się oficjalnej odsłony na początku grudnia. Cena w złotych to przeliczenie 19,99 euro mnożnikiem 4,22 (84,36 zł) zaokrąglone do 10 zł.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-03",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, nazwa, liczba elementów (153), wiek 6+ i termin — wszystko się zgadza. Brickset 2026-10-02 o 20:39 UTC uzupełnił kartę: oficjalna nazwa „Lloyd vs. Ras Spinner Battle”, podseria „Spinner Battle”, 153 elementy, availability „Retail”, zdjęcia oraz ceny detaliczne w US, UK, CA i DE (19,99 euro) z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyły. `launchDate` karta nadal ma puste. Cena z przecieku (19,99 euro) jest identyczna z katalogową. Zestaw dołożony do sety.json; polskiej ceny katalogowej jeszcze nie ma."
+   }
+  },
+  {
+   "id": "71873",
+   "numer": "71873",
+   "nazwa": "Cole kontra Zły Cole — atak spinnera",
+   "seria": "Ninjago",
+   "elementy": 58,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy, zdjecia i ceny czterech rynkow",
+     "url": "https://brickset.com/sets/71873-1",
+     "data": "2026-10-03"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-03",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json."
+   }
+  },
+  {
+   "id": "30748",
+   "numer": "30748",
+   "nazwa": "Speedor tygrysa Rasa (nazwa niepotwierdzona)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Offizielle Bilder zu erster LEGO Ninjago 2027 Neuheit”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71875-lloyd-vs-ras-spinner-duell-erste-bilder/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "W tabeli nowości Ninjago 2027 u StoneWars numer figuruje z nazwą w nawiasie kwadratowym i znakiem zapytania — „[Ras' Tiger Speedor ?]” — czyli to ich domysł, a nie informacja. Elementów i ceny nie podają. Brickset ma pusty rekord. Numer z zakresu polybagów 307xx.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75484",
+   "numer": "75484",
+   "nazwa": "UCS Myśliwiec Jedi Anakina",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Anakins Jedi Interceptor (75484) als nächstes »kleines« UCS-Set im August 2027?”, dzial Gerüchte",
+     "url": "https://www.stonewars.de/geruechte/ucs-anakins-jedi-interceptor-75484-geruecht/",
+     "data": "2026-10-01"
+    }
+   ],
+   "dodano": "2026-10-02",
+   "uwagi": "Źródłem pierwotnym jest kanał społecznościowy buggyleaks, StoneWars tylko go relacjonuje w dziale plotek. Z przecieku wynika numer, wiek 18+, identyfikacja statku (Eta-2 Actis Anakina) i okno sierpnia 2027 plus nadrukowana płytka plakatowa; liczby elementów ani ceny nie ma. Brickset NIE MA tego numeru wcale — w pełnym zrzucie rocznika 2027 z 02.10.2026 (282 rekordy) go nie znalazłem, więc nie ma nawet rezerwacji numeru. Stąd „niska”. W tym samym tekście StoneWars wspomina o plotkach o UCS TIE Advanced (maj 2027) i nowym UCS Millennium Falconie (październik 2027), ale bez numerów — nie zakładam dla nich wpisów.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40889",
+   "numer": "40889",
+   "nazwa": "„Buduj, maluj, graj!” — gratis z konkursu Ideas (nazwa niepotwierdzona)",
+   "seria": "Ideas",
+   "elementy": 158,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-10",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Neue Infos zu Classic Spacemen im LEGO Ideas GWP »Build, Paint and Play!« (40889) durch Leakbilder!”",
+     "url": "https://www.stonewars.de/news/lego-ideas-build-your-hobby-siegerehrung/",
+     "data": "2026-10-02"
+    }
+   ],
+   "dodano": "2026-10-03",
+   "uwagi": "Dowód: wyciekłe zdjęcia przodu i tyłu pudełka, z których StoneWars odczytuje 158 elementów, dwie minifigurki i wiek 18+. Projekt jest znany — to zwycięzca konkursu LEGO Ideas „Build Your Hobby” autorstwa użytkownika „Doomslizer”, ogłoszony 3 września 2025, więc sam zestaw nie jest wymysłem. Niepewne pozostają trzy rzeczy: nazwa handlowa (StoneWars podaje ją ze znakiem zapytania), termin (koniec października wg kanału BrickTap na Reddicie, czyli źródła społecznościowego) oraz próg zakupu, którego nikt nie podaje. Brickset ma numer 40889 jako pusty rekord Ideas rocznika 2026 — bez nazwy, elementów i daty. Ciekawostka dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, które wcześniej były wyłącznie w starym odcieniu szarości.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40898",
+   "numer": "40898",
+   "nazwa": "Wenecja — gratis do dużego zestawu (nazwa niepotwierdzona)",
+   "seria": "Icons",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
+     "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
+     "data": "2026-10-05"
+    }
+   ],
+   "dodano": "2026-10-06",
+   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
+   "rozstrzygniecie": null
+  }
+ ]
+}

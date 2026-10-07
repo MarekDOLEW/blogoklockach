@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 21372 La Catrina za 359,90 zł na Amazonie – −31% na świeżej premierze"
 opis: "Sierpniowa nowość z serii Ideas przeceniona o 160 zł już kilka dni po debiucie. Sprawdzamy, czy to okazja i dla kogo jest ten zestaw."
+seo_tytul: "LEGO 21372 La Catrina za 359,90 zł – −31% na Amazonie"
 data: "2026-08-11"
 kategoria: "Premiery"
 zestawy: ["21372"]

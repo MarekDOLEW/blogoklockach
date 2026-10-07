@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO NINJAGO 71858 Kuźnia Cztery Bronie – jubileuszowy powrót do początków serii"
 opis: "1259 elementów, sześć minifigurek i miejsce, od którego zaczęło się NINJAGO. Recenzja zestawu na 15-lecie: bardzo dobre budowanie, ciasne wnętrza i cena, przy której warto poczekać. Próg zakupu: ok. 300 zł."
+seo_tytul: "LEGO NINJAGO 71858 Kuźnia Cztery Bronie – recenzja"
+seo_opis: "1259 elementów i sześć minifigurek na 15-lecie NINJAGO. Bardzo dobre budowanie, ciasne wnętrza i cena, przy której warto poczekać. Próg zakupu: ok. 300 zł."
 data: "2026-08-25"
 kategoria: "Recenzje"
 zestawy: ["71858"]

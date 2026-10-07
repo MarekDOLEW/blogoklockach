@@ -71,7 +71,7 @@ Gotowe szkielety: `redakcja/wzorce/`.
 | rejestr sklepów (Sklepy §2–3) | `src/data/sklepy.json` + `src/data/afiliacje_rejestr.json` |
 | snapshot cenowy (Metodologia §6.3) | `src/data/oferty_feed.json`, odświeżany codziennie przez Łowcę |
 | „sprawdź bieżącą cenę" | hub `/zestaw/<nr>/` — tabela renderowana przy buildzie |
-| karta researchu (Metodologia §10) | `redakcja/karty/<nr>-<slug>.md`, katalog niepublikowany |
+| karta researchu (Metodologia §10) | `redakcja/karty/<nr>-<slug>.md` dla tekstów pisanych w Code; przy tekstach Piotra karta zostaje w jego środowisku, do repo trafia artykuł (decyzja Marka 15.09.2026) |
 | oznaczenie afiliacji (Standard §20) | disclosure w layoucie + `rel="sponsored nofollow"` |
 | `[wstaw link afiliacyjny]` | podmieniane przy publikacji na `/idz/<sklep>/<nr>` |
 
@@ -86,3 +86,45 @@ Gotowe szkielety: `redakcja/wzorce/`.
   je skryptem `scripts/wczytaj-rrp.mjs` do `src/data/rrp_potwierdzone.json`.
 - Transkrypty YouTube bywają niedostępne — wtedy w karcie zaznaczamy zakres
   analizy zgodnie z Metodologią §5.3.
+
+## Drabina cenowa: „normalny poziom rynkowy" jest opcjonalny *(decyzja Marka 15.09.2026)*
+
+§18 standardu wymienia cztery poziomy (RRP, normalny poziom rynkowy, dobra/bardzo
+dobra cena, próg zakupu), a przykład w §19.1 pokazuje trzy. Rozstrzygnięcie:
+**obowiązkowe są RRP, dobra i bardzo dobra cena oraz próg zakupu; normalny
+poziom rynkowy podajemy, gdy dane go dają** (np. zestaw od miesięcy stabilnie
+10% poniżej RRP) — wtedy jest informacją, a nie wymogiem. Dokument Piotra
+zostaje bez zmian; skill `lego-standard-redakcyjny` generuje się z tą regułą.
+
+
+## Kategoria „Aktualności” *(decyzja Marka 27.09.2026)*
+
+Ósma kategoria obok siedmiu ze standardu: **akcje sklepów i kampanie z terminem**
+(Dzień Chłopaka w x-kom, Allegro Black Weeks itp.). Na stronie głównej stoją zaraz
+pod slajderem deali, w **dwóch kolumnach** (slajder do 6 pozycji), a lista pełna
+jest pod `/aktualnosci/`. Zasady:
+
+- frontmatter `kategoria: "Aktualności"`; plik w `src/pages/artykuly/` (starsze
+  posty mogą zostać w swoim katalogu — liczy się kategoria, nie ścieżka);
+- **`okladka` obowiązkowa** — build (`scripts/sprawdz-kategorie.mjs`) odrzuca
+  aktualność bez zdjęcia;
+- `wazne_do: "RRRR-MM-DD"`, gdy akcja ma koniec — karta pokazuje „trwa do …”,
+  a po terminie „akcja zakończona” i spada na koniec listy;
+- datowane ceny sklepowe są tu dopuszczalne, jeśli tekst podaje datę sprawdzenia
+  („Ceny sprawdzone: 26.09.2026”) — aktualność opisuje moment, nie trwałą drabinę.
+  Próg zakupu i odniesienie do RRP obowiązują jak w innych tekstach.
+
+## Tytuł i opis dla Google (30.09.2026)
+
+Google pokazuje ok. 60 znaków tytułu i ok. 160 znaków opisu. Tytuł i lead
+artykułu mogą być dłuższe — na stronie zostają bez zmian — ale wtedy we
+frontmatterze dopisujemy wersje wyszukiwarkowe:
+
+- `seo_tytul:` do 60 znaków (sufiks „· tylkoklocki.pl” layout dokłada sam,
+  tylko gdy się zmieści);
+- `seo_opis:` do 160 znaków, pełne zdania, bez „…”.
+
+W prezentownikach na layoucie `PrezentownikSerii` te same pola nazywają się
+`seoTytul` i `seoOpis`. Opis bez wersji skróconej layout przytnie sam na
+ostatnim końcu zdania i zgłosi to w logu builda (`[meta] opis przycięty`).
+Huby zestawów dobierają tytuł automatycznie z wariantów mieszczących się w 60 znakach.

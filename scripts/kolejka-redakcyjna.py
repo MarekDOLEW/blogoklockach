@@ -7,6 +7,18 @@ from openpyxl.utils import get_column_letter
 kat = json.load(open('/home/user/blogoklockach/src/data/katalog.json'))
 sety = json.load(open('/home/user/blogoklockach/src/data/sety.json'))
 karty = {k for k in json.load(open('/home/user/blogoklockach/src/data/karty_setow.json')) if k != '_meta'}
+feed = json.load(open('/home/user/blogoklockach/src/data/oferty_feed.json')).get('sety', {})
+
+# Zestaw bez ceny katalogowej (polybagi, gadżety — lego.pl ich nie listuje), ale
+# z ofertami w feedzie, też jest w sprzedaży i też wymaga opisu (uwaga Scouta
+# 22.09.2026: 30732 miał 4 oferty i nie było go w żadnej kolejce). Wtedy ceną
+# odniesienia jest najniższa oferta, a wiersz dostaje dopisek „bez RRP".
+def cena_ref(r):
+    c = r.get('cena_katalogowa')
+    if c not in (None, '', 0): return float(c), False
+    of = (feed.get(str(r['numer'])) or {}).get('oferty') or {}
+    ceny = [float(v) for v in of.values() if isinstance(v, (int, float)) and v > 0]
+    return (min(ceny), True) if ceny else (None, True)
 
 # Arkusz obejmuje CAŁĄ populację kwalifikującą się do opisu (decyzja Marka
 # 06.09.2026). Wcześniej wykluczał zestawy obecne w sety.json, więc odhaczeniem
@@ -28,7 +40,7 @@ rows = [(s, r) for s, v in kat.items() if s != '_meta' and isinstance(v, list) f
 kand = [(s, r) for s, r in rows
         if isinstance(r.get('rok'), int) and 2020 <= r['rok'] <= 2026
         and r.get('status') == 'dostepny'
-        and r.get('cena_katalogowa') not in (None, '', 0)]
+        and cena_ref(r)[0] is not None]
 
 # dedup po numerze — zostawiamy rekord z nowszym rocznikiem
 best = {}
@@ -36,7 +48,7 @@ for s, r in kand:
     n = str(r['numer'])
     if n not in best or r['rok'] > best[n][1]['rok']:
         best[n] = (s, r)
-data = sorted(best.values(), key=lambda x: (-float(x[1]['cena_katalogowa']), x[1]['rok'], str(x[1]['numer'])))
+data = sorted(best.values(), key=lambda x: (-cena_ref(x[1])[0], x[1]['rok'], str(x[1]['numer'])))
 
 ARIAL = 'Arial'
 wb = Workbook()
@@ -59,10 +71,11 @@ for c, h in enumerate(headers, 1):
 band = PatternFill('solid', fgColor='F2F2F2')
 for i, (seria, r) in enumerate(data, start=2):
     ws.cell(row=i, column=1, value=str(r['numer'])).alignment = Alignment(horizontal='left')
-    ws.cell(row=i, column=2, value=r.get('nazwa'))
+    ws.cell(row=i, column=2, value=r.get('nazwa') + (' (bez RRP — cena z rynku)' if cena_ref(r)[1] else ''))
     ws.cell(row=i, column=3, value=r['rok']).alignment = Alignment(horizontal='center')
     ws.cell(row=i, column=4, value=seria)
-    pc = ws.cell(row=i, column=5, value=float(r['cena_katalogowa']))
+    cena, bez_rrp = cena_ref(r)
+    pc = ws.cell(row=i, column=5, value=cena)
     pc.number_format = '#,##0.00'
     nr = str(r['numer'])
     wpis = sety.get(nr)

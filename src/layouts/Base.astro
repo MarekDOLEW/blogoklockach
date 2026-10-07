@@ -1,9 +1,32 @@
 ---
-import '@fontsource/archivo/700.css';
-import '@fontsource/archivo/800.css';
+// Archivo idzie przez Fonts API Astro (astro.config → experimental.fonts):
+// pliki woff2 z preloadem i zastępcza czcionka systemowa o dopasowanych
+// metrykach, żeby podmiana kroju nie przesuwała układu (CLS 0,23 na hubach
+// zestawów w audycie PageSpeed 7.10.2026).
+import { Font } from 'astro:assets';
 import '../styles/global.css';
 import SzukajGlobalne from '../components/SzukajGlobalne.astro';
-const { title, description, jsonld, ogImage = '/og.png', noindex = false } = Astro.props;
+// `preloadObrazu` – atrybuty obrazu LCP ({ src, srcset, sizes }); strona
+// dostaje <link rel="preload" as="image">, więc przeglądarka zaczyna pobierać
+// zdjęcie równolegle z CSS-em, a nie dopiero po sparsowaniu całego HTML-a.
+const { title, description, jsonld, ogImage = '/og.png', noindex = false, preloadObrazu = null } = Astro.props;
+// Sufiks domeny tylko wtedy, gdy tytuł z nim mieści się w 60 znakach, które
+// Google pokazuje w wynikach – inaczej obcinał właśnie treść (audyt 30.09.2026).
+const SUFIKS = ' · tylkoklocki.pl';
+const tytulPelny = !title ? 'tylkoklocki.pl' : title.length + SUFIKS.length <= 60 ? title + SUFIKS : title;
+// Opis dłuższy niż 160 znaków Google i tak utnie w pół słowa. Siatka
+// bezpieczeństwa dla tekstów bez ręcznego `seo_opis`: tniemy na ostatnim końcu
+// zdania w zakresie 100–160 znaków, a gdy go nie ma – na granicy słowa z „…”.
+const MAX_OPIS = 160;
+const przytnijOpis = (t) => {
+  const s = String(t ?? '').replace(/\s+/g, ' ').trim();
+  if (s.length <= MAX_OPIS) return s;
+  const zdania = [...s.slice(0, MAX_OPIS + 1).matchAll(/[.!?](?=\s)/g)].map((m) => m.index + 1).filter((i) => i >= 100);
+  if (zdania.length) return s.slice(0, zdania.at(-1));
+  return s.slice(0, MAX_OPIS - 1).replace(/[\s,;:–—-]+\S*$/, '').replace(/[\s,;:–—-]+$/, '') + '…';
+};
+const opisMeta = description ? przytnijOpis(description) : description;
+if (description && description.length > MAX_OPIS && import.meta.env.PROD) console.warn(`[meta] opis przycięty (${description.length} zn.): ${Astro.url.pathname}`);
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
 
@@ -15,9 +38,9 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
 // stamtąd. Kolekcjoner zszedł, bo dział był pusty – strona zostaje pod adresem,
 // żeby nie psuć linków, ale nie zajmuje miejsca w nawigacji.
 const MENU = [
-  { href: '/', etykieta: '🔥 Promocje dziś', klasa: 'nav--hot' },
-  { href: '/deale/', etykieta: 'Deale' },
+  { href: '/promocje-lego/', etykieta: '🔥 Promocje LEGO', klasa: 'nav--hot' },
   { href: '/nowosci/', etykieta: 'Nowości' },
+  { href: '/przecieki/', etykieta: 'Przecieki' },
   { href: '/wycofania/', etykieta: 'Wycofania' },
   { href: '/serie/', etykieta: 'Serie' },
   { href: '/prezentowniki/', etykieta: 'Prezentowniki' },
@@ -39,10 +62,16 @@ const stanPozycji = (href) => {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="verify-admitad" content="2fc69e6e81" />
-    <title>{title} · tylkoklocki.pl</title>
-    <meta name="description" content={description} />
+    <title>{tytulPelny}</title>
+    <meta name="description" content={opisMeta} />
     <link rel="canonical" href={canonical} />
-    {noindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="alternate" type="application/rss+xml" title="tylkoklocki.pl" href="/rss.xml" />
+    {/* max-image-preview:large – bez tego Google Discover i wyniki z obrazem
+        pokazują tylko miniaturę; audyt 15.09.2026 */}
+    <meta name="robots" content={noindex ? 'noindex, follow, max-image-preview:large' : 'max-image-preview:large'} />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
@@ -52,17 +81,37 @@ const stanPozycji = (href) => {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImageAbs} />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+    <Font cssVariable="--font-archivo" preload />
+    {preloadObrazu?.src && (
+      <link rel="preload" as="image" href={preloadObrazu.src} imagesrcset={preloadObrazu.srcset} imagesizes={preloadObrazu.sizes} fetchpriority="high" />
+    )}
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
     <!-- Cloudflare Web Analytics – darmowe, bez cookies. Token: panel Cloudflare ->
          Analytics & Logs -> Web Analytics -> Add a site (tylkoklocki.pl) -> skopiuj token
          i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>
-    <!-- Google tag (gtag.js) – GA4, usługa tylkoklocki.pl -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC"></script>
+    <!-- Google tag (gtag.js) – GA4, usługa tylkoklocki.pl.
+         Skrypt (179 KB) dociągamy dopiero po zdarzeniu `load` i w czasie
+         bezczynności: wcześniej konkurował o łącze z CSS-em i zdjęciem LCP
+         i dawał całe TBT strony (audyt PageSpeed 7.10.2026). Wywołania gtag()
+         sprzed załadowania czekają w dataLayer, więc nic nie ginie. -->
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-5M8LH9SKQC');
+      (function () {
+        var start = function () {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC';
+          document.head.appendChild(s);
+        };
+        var pozniej = function () {
+          'requestIdleCallback' in window ? requestIdleCallback(start, { timeout: 3000 }) : setTimeout(start, 1500);
+        };
+        document.readyState === 'complete' ? pozniej() : addEventListener('load', pozniej, { once: true });
+      })();
     </script>
   </head>
   <body>
@@ -151,6 +200,23 @@ const stanPozycji = (href) => {
       <slot />
     </main>
 
+    <script is:inline>
+      // Szczegóły zestawu (/zestaw/<nr>/) otwierają się w nowej karcie – z każdego
+      // miejsca serwisu: tabel, kafelków, artykułów, wyników wyszukiwania i z innych
+      // hubów (decyzja Marka 13.09.2026). Jedna delegacja zamiast target="_blank"
+      // w kilkunastu szablonach i w markdownie: atrybut ustawiamy w chwili
+      // kliknięcia, więc łapie też linki dorysowane skryptem (wyszukiwarka).
+      // Bez JS link działa normalnie, w tej samej karcie. Klawisz Enter w
+      // wyszukiwarkach robi to samo przez window.open (patrz SzukajGlobalne).
+      document.addEventListener('click', function (e) {
+        // /zestaw/ (szczegóły zestawu) i /idz/ (sklepy, Ceneo) — decyzje Marka 13.09 i 16.09.2026
+        var a = e.target && e.target.closest ? e.target.closest('a[href^="/zestaw/"], a[href^="/idz/"]') : null;
+        if (!a || a.target || e.defaultPrevented) return;
+        a.target = '_blank';
+        a.rel = ((a.rel || '') + ' noopener').trim();
+      });
+    </script>
+
     <button class="na-gore" type="button" aria-label="Wróć na górę strony" hidden>↑</button>
     <script is:inline>
       // przycisk „wróć na górę" pojawia się dopiero na długich stronach po przewinięciu
@@ -167,16 +233,16 @@ const stanPozycji = (href) => {
     <footer class="site-footer">
       <div class="wrap">
         <div>
-          <h4>tylkoklocki.pl</h4>
+          <p class="stopka-tytul">tylkoklocki.pl</p>
           <p>Tylko klocki – polujemy na prawdziwe promocje na zestawy LEGO®. Rabaty liczymy zawsze od oficjalnej ceny katalogowej – bez pseudopromocji.</p>
         </div>
         <div>
-          <h4>Przejrzystość</h4>
+          <p class="stopka-tytul">Przejrzystość</p>
           <p>Część linków na stronie to linki afiliacyjne. Kupując przez nie, wspierasz nasz serwis – Ty nie płacisz ani grosza więcej. Najtańszą ofertę pokazujemy zawsze, niezależnie od prowizji.</p>
         </div>
         <div>
-          <h4>Info</h4>
-          <p>LEGO® jest znakiem towarowym Grupy LEGO, która nie sponsoruje ani nie wspiera tej strony.<br /><a href="/o-nas/">O nas</a> · <a href="/artykuly/">Wszystkie artykuły</a> · <a href="/wycofania/">Wycofania 2026</a></p>
+          <p class="stopka-tytul">Info</p>
+          <p>Niniejsza strona nie jest w żaden sposób powiązana ani wspierana przez Grupę LEGO. LEGO®, logo LEGO®, Minifigurka, DUPLO™, LEGENDS OF CHIMA™, NINJAGO™, BIONICLE™, MINDSTORMS™, MIXELS™ i VIDIYO™ są znakami towarowymi Grupy LEGO. Zdjęcia zestawów © Grupa LEGO.<br /><a href="/o-nas/">O nas</a> · <a href="/aktualnosci/">Aktualności</a> · <a href="/promocje-lego/">Promocje LEGO</a> · <a href="/nowosci/">Nowości</a> · <a href="/wycofania/">Wycofania 2026</a> · <a href="/ekskluzywne/">Ekskluzywy</a> · <a href="/przecieki/">Przecieki</a> · <a href="/serie/">Serie</a> · <a href="/prezentowniki/">Prezentowniki</a> · <a href="/artykuly/">Wszystkie artykuły</a> · <a href="/rss.xml">RSS</a> · <a href="/polityka-prywatnosci/">Polityka prywatności</a></p>
         </div>
       </div>
     </footer>

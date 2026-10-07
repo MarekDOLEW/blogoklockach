@@ -1,0 +1,13 @@
+{
+ "_meta": {
+  "opis": "Zestawy, których karta produktu na lego.pl już NIE istnieje (adres oddaje 404). Zasada Marka 16.09.2026: zestaw po EOL zostaje w tabeli cen z ceną katalogową, linkiem do lego.pl i dopiskiem „brak w sprzedaży\" — bo na lego.pl dalej można obejrzeć zdjęcia i opis (przykład 75377 Niewidzialna ręka: karta żyje, na niej „Produkcja zakończona\"). Link zdejmujemy DOPIERO wtedy, gdy karty nie ma; takie numery trafiają tutaj.",
+  "jak_uzupelniac": "Sprawdzenie robi scripts/lego-strony.mjs (Firecrawl, 1 kredyt na zestaw) — uruchamiany na żądanie z listą numerów albo w trybie --kandydaci (zestawy EOL z ceną katalogową, od najstarszych). Sitemapa lego.pl NIE nadaje się do tego testu: 75377 ma stronę, a w sitemapie go nie ma.",
+  "zaktualizowano": "2026-09-16",
+  "sprawdzono_kart": 3
+ },
+ "bez_strony": [
+  "10182",
+  "2198",
+  "7235"
+ ]
+}

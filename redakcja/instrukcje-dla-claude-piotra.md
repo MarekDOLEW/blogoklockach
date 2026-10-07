@@ -35,10 +35,12 @@ W repozytorium, katalog `redakcja/`:
 Przed każdym artykułem przeczytaj je (lub poproś Claude o ich zastosowanie).
 Najważniejsze reguły w skrócie:
 
-1. **Najpierw research, potem artykuł.** Karta researchu w
-   `redakcja/karty/<numer>-<slug>.md` (wewnętrzna, niepublikowana):
-   fakty ze źródłami, mapa min. 4 niezależnych recenzji, snapshot cenowy
-   z min. 5 polskich sklepów z datą, uzasadniony próg zakupu.
+1. **Najpierw research, potem artykuł.** Kartę researchu (fakty ze
+   źródłami, mapa niezależnych recenzji, uzasadniony próg zakupu) prowadzisz
+   u siebie — do repo trafia gotowy artykuł, karta nie musi być w
+   `redakcja/karty/` (ustalenie 15.09.2026). Snapshotu cen z pięciu sklepów
+   nie robisz: ceny sklepowe i linki uzupełnia serwis automatycznie
+   (patrz `ustalenia-projektowe.md` §1).
 2. **Rozbieżności eskaluj przed finalną redakcją** — nie rozstrzygaj po
    cichu, nie uśredniaj. Opisz, które źródło co podaje, i zapytaj.
 3. **W artykule: trwała drabina cenowa, nie snapshot.** RRP → dobra cena →
@@ -64,7 +66,7 @@ layout: ../../layouts/Artykul.astro
 title: "Tytuł artykułu"
 opis: "1–2 zdania na listing i do Google (max ~160 znaków)."
 data: "RRRR-MM-DD"
-kategoria: "Recenzja"        # albo: Poradnik, Prezentownik, Kalendarz...
+kategoria: "Recenzje"        # jedna z: Premiery, Recenzje, Rankingi, Porównania, Poradniki, Kalendarze, Historyczne
 faq:                          # opcjonalnie — trafia do Google jako FAQ
   - q: "Pytanie?"
     a: "Odpowiedź."

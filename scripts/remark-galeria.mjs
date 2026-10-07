@@ -106,7 +106,10 @@ function slajdy({ sety: lista, set }) {
 function html(slajd) {
   // slajder nigdy nie jest największym elementem nad zgięciem – wszystkie
   // zdjęcia ładujemy leniwie, także pierwsze
-  const obraz = `<img src="${slajd.src}" alt="${esc(slajd.alt)}" loading="lazy" width="600" height="600" />`;
+  // warianty skalowane przez worker (?w=), ten sam zestaw szerokości co w src/lib/media.js
+  const wariant = (w) => (slajd.src.startsWith('/img/') && !slajd.src.includes('?') ? `${slajd.src}?w=${w}` : slajd.src);
+  const srcset = wariant(600) !== slajd.src ? ` srcset="${wariant(600)} 1x, ${wariant(1200)} 2x"` : '';
+  const obraz = `<img src="${wariant(600)}"${srcset} alt="${esc(slajd.alt)}" loading="lazy" width="600" height="600" />`;
   const tresc = maHubNaPewno(slajd.nr)
     ? `<a href="/zestaw/${slajd.nr}/">${obraz}</a>`
     : obraz;

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-09-07",
-    "przebieg": "scheduled 2026-09-07 08:00",
+    "ostatnia_aktualizacja": "2026-10-07",
+    "przebieg": "scheduled 2026-10-07 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,10 +10,17 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 135,
-    "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: challenge Cloudflare na wszystkim (403 'Just a moment...') - potwierdzone 2026-08-22 dla /feed/, /blog i strony glownej. Sprawdzone i NIEDZIALAJACE obejscia (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET). Dla tych dwoch serwisow jedynym zrodlem pozostaje WebSearch z allowed_domains - wystarcza do monitoringu strukturalnego (nowe sekcje, funkcje), nie do sledzenia publikacji dzien po dniu.",
+    "liczba_wpisow": 259,
+    "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
-      "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian."
+      "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
+      "2026-09-11": "Bardzo spokojny dzien: dwie publikacje lacznie. Warta odnotowania jest ROZBIEZNOSC MIEDZY NASZYMI SESJAMI: Zwiadowca dodal 21373 z adnotacja, ze ceny nie ma na zadnym rynku, a konkurencja opublikowala ja tego samego dnia. To nie blad Zwiadowcy - jego zrodla (Brickset, StoneWars) rzeczywiscie jej nie mialy - tylko sygnal, ze polskie serwisy branzowe bywaja przy cenach PL szybsze niz zrodla anglojezyczne. Warto, zeby Zwiadowca przy zestawach przed premiera zagladal takze do nich.",
+      "2026-09-13": "Spokojna niedziela: dwie publikacje, obie fanklockow, faniklockow zero. GODZILLA 21375 - kolejne sprawdzenie ceny katalogowej: porownywarki nadal NIE MAJA tego numeru w indeksie. Jedyna kwota w obiegu to 'ok. 1700 zl' z faniklockow, oznaczone przez nich jako szacunek. Stan na 13.09: 75 dni do premiery, 53 dni do otwarcia okna publikacji tekstu o Black Friday (05.11). Jesli ceny nie bedzie do konca pazdziernika, tekst trzeba napisac bez niej - z jawnym powiedzeniem, ze producent jej nie podal, co samo w sobie jest informacja zakupowa przy premierze w dniu BF.",
+      "2026-10-03": "Bardzo spokojny przebieg: fanklockow dwie publikacje (jedna o COBI, wiec poza zakresem), faniklockow ZERO nowych - feed RSS bajt w bajt identyczny z wczorajszym, najnowsza pozycja z 01.10 15:35. Dwa wpisy faniklockow dodane dzis to zalegle mikroposty dealowe z 26.09, nie swieze publikacje. Zmiana metody: promoklocki.pl i zklockow.pl pierwszy raz przeczytane Firecrawlem zamiast WebSearch (szczegoly w _meta.dostep). Na promoklocki ZADNEJ zmiany strukturalnej - strona glowna niesie tylko kategorie serii i karty produktow, bez nowych sekcji, funkcji i bez listy porownywanych sklepow. Na zklockow menu bez nowych pozycji wobec bazy. Sprawdzilem tez, czy ich swiateczny asortyment (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355, 11379, 21373) ma luki u nas: 11 z 12 numerow jest w katalog.json, brakuje tylko 5011029 - gry planszowej Ninjago, a nie zestawu klockow.",
+      "2026-10-04": "fanklockow wrocil do kadencji: trzy publikacje 03.10, w tym recenzja wideo 72306 - to ich mocna strona i nasza jedyna dzisiejsza luka. faniklockow jedna publikacja 03.10 (relacja z Danii) plus jeden zalegly mikropost dealowy z 21.09. Sprawdzona i ODRZUCONA hipoteza: puste pole 'opis' przy 72306 w sety.json nie wypycha huba z indeksu - prog 300 znakow tekstu redakcyjnego wyrabiaja persony (dla_rodzica 277 + dla_afol 658), a wyrenderowany hub nie ma noindex. Zmiana w cenach 72306 warta odnotowania: 03.10 Ceneo 619,99, czyli pierwsza oferta ponizej katalogu 689,99 - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika i stad nasz wczesniejszy wniosek o odsprzedazy. Allegro 748,99 nadal jest odsprzedaza.",
+      "2026-10-05": "Spokojna niedziela u obu serwisow: po jednej publikacji z 04.10 i zadna nie kwalifikuje sie do piatki. Rzecz warta zapamietania na przyszle przebiegi: wczoraj zapisalem zapowiedz minifigurek z fanklockow jako 'material dla Scouta, brak drugiego zrodla', a dzis faniklockow opublikowal swoja liste CMF i BaM. To NIE domyka progu dowodowego - oba teksty same nazywaja te informacje plotkami i wskazuja to samo zrodlo zewnetrzne (twogayafols), czyli mamy jedno zrodlo powtorzone dwa razy, nie dwa niezalezne. Dwa polskie serwisy piszace o tym samym przecieku to nadal jeden przeciek.",
+      "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia.",
+      "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic."
     }
   },
   "publikacje": [
@@ -1613,6 +1620,1494 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Rocznik 2027, poza sezonem XI-XII."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Gra planszowa LEGO - Przygody Perly Przeznaczenia",
+      "url": "https://fanklockow.pl/recenzja-gra-planszowa-lego-przygody-perly-przeznaczenia/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja wideo gry planszowej LEGO. U nas gry planszowe praktycznie nie istnieja - w sety.json sa dwie pozycje (10472, 10450) i nie ma dla nich osobnej serii w katalogu. To jednak swiadoma granica, nie luka: gra planszowa to inny produkt niz zestaw do budowania i nasza funkcja (drabina cenowa, prog zakupu, porownanie sklepow) dziala tam slabiej. Odnotowane, bo jesli LEGO rozbuduje te linie, trzeba bedzie decyzje podjac na nowo."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Art / Ideas / Editions na 2027 (zbiorczo, trzy wpisy)",
+      "url": "https://faniklockow.pl/2026/09/07/zapowiedzi-serii-lego-art-na-2027-rok/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Te same trzy serie rocznika 2027, ktore fanklockow opublikowali DZIEN WCZESNIEJ (06.09). Wzorzec wart odnotowania: przy zapowiedziach oba serwisy chodza za tym samym zrodlem z doba opoznienia, wiec sledzenie jednego z nich wystarczy do wychwycenia tematu. Rocznik 2027 poza sezonem XI-XII."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 07.09.2026 (zbiorczo: 6 zestawow, powrot po trzech dniach ciszy)",
+      "url": "https://faniklockow.pl/2026/09/07/okazja-cenowa-star-wars-75414-plomienny-smigacz-sniezny/",
+      "data_publikacji": "2026-09-07",
+      "data_wykrycia": "2026-09-08",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert",
+        "Empik"
+      ],
+      "notatki": "WAZNE NIE Z POWODU DEALI. Wsrod szesciu zestawow sa 72151 Eevee i 72152 Pikachu i Pokeball, ktorych NIE MAMY ani w katalog.json, ani w sety.json - a nasz wlasny feed ma dla nich zywe oferty (186,27 zl i 589,99 zl). Do tego 72153 (2648 zl u Media Expert). Tymczasem 72150, 72154, 72155, 72156, 72160 i 72168 mamy. Czyli brakuje trzech numerow WEWNATRZ serii, ktora juz prowadzimy - to nie jest przypadek EOL-a z Allegro, tylko dziura w kompletowaniu biezacej serii. Zgloszone Zwiadowcy w DZIENNIKU."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "mikroPoradnik LEGO.pl: Dzien Insiders 9.09 i Dzien Batmana 2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-dzien-insiders-9-09-i-dzien-batmana-2026/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "POTWIERDZENIE, NA KTORE CZEKALEM. Dedykowany poradnik wydany dzien przed terminem: 9 wrzesnia ruszaja DWIE rownolegle akcje, jedna trwa tylko JEDEN dzien. To drugie niezalezne zrodlo dla Member Day, ktory od 05.09 wisial u nas jako przewidywany z jednego zrodla - i zarazem korekta naszego zalozenia, ze Batman Day wypada w okolicach 19.09. Sekcja wrzesniowa naszego kalendarza przepisana."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow 2026 - aktualizacja: GWP halloweenowy 40900 na 21-30 wrzesnia",
+      "url": "https://faniklockow.pl/2026/09/08/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Nowa pozycja na ich liscie: 40900 Straszne nawiedzone drzewo, GWP Creatora w stylistyce Halloween, 21-30 wrzesnia, prog ok. 375 zl (sami oznaczaja prog jako do potwierdzenia). Nasz kalendarz spodziewal sie gratisu halloweenowego dopiero pod koniec pazdziernika - to byla nasza pomylka co do miesiaca, poprawiona. Reszta ich listy bez zmian wzgledem wersji z 04.09."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Store Event - Popiersie Batmana (Zbuduj i Zabierz, 16-17 wrzesnia)",
+      "url": "https://faniklockow.pl/2026/09/08/lego-store-event-popiersie-batmana/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Mikromodel skladany na miejscu w salonach LEGO, 16-17 wrzesnia, 15:00-17:00, ograniczona liczba sztuk. Dopisane do naszego kalendarza z wyraznym zastrzezeniem, ze dotyczy wylacznie sklepow stacjonarnych - dla czytelnika bez salonu w miescie to informacja bezuzyteczna i trzeba to powiedziec wprost, zamiast sprzedawac jako okazje."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Przedsprzedaz dziewiatej serii BrickLink Designer Program",
+      "url": "https://faniklockow.pl/2026/09/08/przedsprzedaz-dziewiatej-serii-bricklink-designer-program/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BDP - granica zakresu ustalona 03.09: limitowana sprzedaz crowdfundingowa bez dystrybucji sklepowej, wiec nasza funkcja porownania cen tam nie dziala. Bez zmian."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 08.09.2026 (zbiorczo: 6 zestawow, w tym trzy Harry Potter)",
+      "url": "https://faniklockow.pl/2026/09/08/okazja-cenowa-harry-potter-76437-nora-edycja-kolekcjonerska-3/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy. 76437, 76450, 76469, 10358, 60444, 60488. Trzy Harry Pottery dzien po zakonczeniu okna Back to Hogwarts (6.09) - czyli sklepy zewnetrzne przeceniaja serie wtedy, gdy LEGO konczy swoja promocje. To potwierdza rade z naszego kalendarza: przy Harrym Potterze nie trzeba czekac na okno LEGO.com."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "GraviTrax Micro - tory dla kulek (material poza LEGO)",
+      "url": "https://faniklockow.pl/2026/09/08/gravitrax-micro-kreatywna-zabawa-w-budowanie-torow-dla-kulek-sprawdzamy-rozne-zestawy/",
+      "data_publikacji": "2026-09-08",
+      "data_wykrycia": "2026-09-09",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Marka spoza LEGO (Ravensburger). Drugi w tym tygodniu material u konkurencji poza glowna tematyka - po Robloxie u fanklockow. Wzorzec: obaj szukaja ruchu w sasiednich niszach. My tego nie robimy, bo nasza funkcja zakupowa jest zbudowana wokol katalogu LEGO."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Dzien Batmana oraz Dzien LEGO Insiders - promocje punktowe (relacja z dnia startu)",
+      "url": "https://faniklockow.pl/2026/09/09/dzien-batmana-oraz-dzien-lego-insiders-promocje-punktowe/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Allegro",
+        "Media Expert",
+        "Empik",
+        "Smyk"
+      ],
+      "notatki": "POTWIERDZENIE OBU OKIEN, na ktore czekalem od 05.09. Member Day: TYLKO 9 wrzesnia, odbyl sie, wylaczenia szersze niz zapowiadano - poza kalendarzami adwentowymi takze CALA dystrybucja ekskluzywna. Batman Day: 9-19 wrzesnia, podwojne punkty na wybrane zestawy DC, gratis polybag 30726 od 165 zl zakupow w serii, plus maly zestaw do wyboru City/Friends. Podali osiem zestawow z cenami katalogowymi - audyt naszych danych ponizej."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Gdzie podzial sie Jokerized Batman? Premiera za nami, a prawie nigdzie go nie ma",
+      "url": "https://faniklockow.pl/2026/09/09/gdzie-podzial-sie-jokerized-batman-premiera-za-nami-a-prawie-nigdzie-go-nie-ma/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "Amazon",
+        "BrickLink"
+      ],
+      "notatki": "Minifigurka dodawana do ksiazki wydawnictwa DK, premiera 02.07 przesunieta na poczatek 2027, na BrickLinku pojedyncze sztuki po 189 zl. Ciekawy temat dla kolekcjonera, ale poza naszym zakresem: to gratis do ksiazki, nie zestaw, i nie da sie tego oprzec na drabinie cenowej ani progu zakupu. Odnotowane, bo pokazuje mechanizm, ktory u nas dziala przy wycofaniach - produkt niedostepny drozeje na rynku wtornym."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Store Szczecin - otwarcie i promocje otwarciowe",
+      "url": "https://faniklockow.pl/2026/09/09/lego-store-szczecin-otwarcie-juz-w-czwartek-zobaczcie-jak-wyglada-sklep-i-jakie-czekaja-na-was-promocje/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Otwarcie salonu stacjonarnego. Poza naszym zakresem - jestesmy serwisem porownujacym ceny online, a promocja otwarciowa dotyczy jednego miasta. Oba serwisy pisza o tym rownolegle."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Harry Potter nadchodzi",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-9-wrzesnia-2026/",
+      "data_publikacji": "2026-09-09",
+      "data_wykrycia": "2026-09-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny skrot popkulturowy, nie material zakupowy o klockach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ideas na 2026 (aktualizacja: cena i sklad 21373 Downton Abbey)",
+      "url": "https://faniklockow.pl/2026/09/10/zapowiedzi-serii-ideas-na-2026-rok/",
+      "data_publikacji": "2026-09-10",
+      "data_wykrycia": "2026-09-11",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "21373 Downton Abbey: cena 1299,99 zl, 4711 elementow, 13 nazwanych minifigurek, wymiary 30x44x14 cm. Nasz Zwiadowca dodal ten zestaw dzis rano pisac, ze 'ceny nie ma na zadnym rynku' - a konkurencja ja podaje. NIE WPISALEM: weryfikacja punktowa u promoklocki i zklockow nie znalazla 21373 w indeksie, wiec zostaje jedno zrodlo. Za wiarygodnoscia przemawia zgodnosc liczby elementow co do sztuki (4711) i bardzo konkretna lista trzynastu postaci. Do wpisania, gdy porownywarki zaindeksuja zestaw. 21375 Godzilla: cena nadal 'ok. 1700 zl', czyli szacunek - pozycja numer jeden przed tekstem o Black Friday wciaz otwarta. Ich liczba elementow Godzilli (5360) rozni sie od naszej (5364)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Pantasy na 09.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-pantasy-na-09-2026/",
+      "data_publikacji": "2026-09-10",
+      "data_wykrycia": "2026-09-11",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pantasy - marka spoza LEGO, obok COBI i GraviTraxa. Trzeci w ciagu tygodnia material konkurencji poza glowna tematyka. Wzorzec potwierdzony: obaj rozszerzaja sie na sasiednie marki klockowe. My zostajemy przy LEGO, bo cala nasza funkcja zakupowa - drabina cenowa, prog zakupu, porownanie sklepow - jest zbudowana wokol katalogu LEGO i przenosi sie na inna marke tylko pozornie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 - pelna lista (38 tys. znakow, aktualizowana)",
+      "url": "https://faniklockow.pl/2026/09/11/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "data_publikacji": "2026-09-11",
+      "data_wykrycia": "2026-09-12",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "NAJWAZNIEJSZA PUBLIKACJA TYGODNIA - i najlepsza kontrola naszych danych, jaka mielismy. Ich lista ma 418 numerow, nasza wycofania.json 271. POKRYWA SIE 262, czyli praktycznie cala ich lista potwierdzonych. Roznica: 108 zestawow, ktore oni wymieniaja, sa w naszym katalogu i nie ma ich na naszej liscie wycofan - zgloszone runnerowi Wycofan. W druga strone mamy 9 pozycji, ktorych oni nie maja. Ich przewaga to czestotliwosc (datowany dziennik zmian) i osobna aplikacja app.faniklockow.pl z przewidywaniami. Nasza przewaga jest inna i zostaje: przy kazdym wycofaniu mamy hub z zywa tabela cen, wiec czytelnik od razu widzi, gdzie zestaw jeszcze jest i po ile - u nich to sama lista nazw. Odnotowuja tez 'wyprzedane' z data, czego my nie sledzimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 11.09.2026 (zbiorczo: 75367 Venator, 10354 Shire)",
+      "url": "https://faniklockow.pl/2026/09/11/okazja-cenowa-star-wars-75367-gwiezdny-niszczyciel-typu-venator-8/",
+      "data_publikacji": "2026-09-11",
+      "data_wykrycia": "2026-09-12",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, dwa zestawy. Obie pozycje ogrywane wielokrotnie (Venator po raz osmy, Shire po trzynasty)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: LEGO 75454 AT-AT Resztek Imperium i INT-4",
+      "url": "https://fanklockow.pl/recenzja-lego-75454-at-at-resztek-imperium/",
+      "data_publikacji": "2026-09-13",
+      "data_wykrycia": "2026-09-13",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Sprawdzone: 75454 mamy obsluzony w pelni - katalog (689,99 zl, Star Wars, dostepny), sety.json z 1453 elementami i personami, karta Piotra, hub z oferta 531,99 u Media Expert (23% ponizej cennika). Zadnej luki. Format wideo - nie gonimy, mamy piec recenzji tekstowych i to inna droga: ich recenzja ocenia budowanie, nasza konczy sie progiem zakupu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Angel wybrany!",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-13-wrzesnia-2026/",
+      "data_publikacji": "2026-09-13",
+      "data_wykrycia": "2026-09-13",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny skrot popkulturowy, nie material o klockach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Mamy oficjalne wycofanie ponad 100 zestawow - LEGO odslania karty",
+      "url": "https://faniklockow.pl/2026/09/14/mamy-oficjalne-wycofanie-ponad-100-zestawow-lego-tradycyjnie-odslania-karty/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Allegro",
+        "Smyk",
+        "Media Expert",
+        "Amazon"
+      ],
+      "notatki": "WYDARZENIE SEZONU. LEGO potwierdzilo w dziale 'Ostatnie Sztuki' wycofanie ponad 100 zestawow na koniec 2026. Najwazniejszy: 75192 Sokol Millennium UCS, 3599,99 zl, po prawie dziesieciu latach produkcji. Poza tym 10326 Muzeum, 10335 Endurance, 10341 Rakieta SLS, 21333 Van Gogh, 21351 Miasteczko Halloween, 21353 Ogrod botaniczny, 21356 Parowiec, 43263 Zamek z Pieknej i Bestii, 75367 Venator, 75397 Barka Jabby, 76294 Instytut Xaviera, 76437 Nora. Nasza lista ma wszystkie trzynascie - zadnego nie brakuje. ALE piec ma u nas status 'przewidywane', a oni podaja je jako potwierdzone przez LEGO: 21333, 21351, 21353, 21356, 76437. Zgloszone runnerowi Wycofan do weryfikacji w dziale Ostatnie Sztuki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Planowane wycofania LEGO (EOL) na 12.2026 - kompletna lista",
+      "url": "https://fanklockow.pl/wycofania-lego-eol-na-12-2026-kompletna-lista/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Rownolegla lista u drugiego serwisu, mowia o ok. 150 zestawach oficjalnie potwierdzonych. Oba serwisy reaguja tego samego dnia - to standardowy wrzesniowy rytual LEGO, warto go wpisac do naszego kalendarza redakcyjnego jako powtarzalna date."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Pick a Brick na LEGO.pl - 1800 elementow znika na koniec 2026",
+      "url": "https://fanklockow.pl/pick-a-brick-lego-eol-2026/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Wycofania pojedynczych elementow z Pick a Brick, nie zestawow. Poza naszym zakresem - nie prowadzimy danych o pojedynczych klockach i nie ma tam czego porownywac miedzy sklepami."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BLDP 2028, Fala 1 - zgloszenia pomyslow",
+      "url": "https://fanklockow.pl/bldp-2028-fala-1-mozna-zglaszac-pomysly/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BrickLink Designer Program - granica zakresu ustalona 03.09, bez zmian."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Biuletyn specjalny dla Patronow 14/2026 - przecieki na koniec 2026 (platny)",
+      "url": "https://fanklockow.pl/%f0%9f%94%92-biuletyn-specjalny-dla-patronow-14/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRUKTURALNA U KONKURENCJI, nie tresc. Platny biuletyn dla patronow z przeciekami - czyli monetyzuja informacje przed publikacja. To inny model niz nasz (afiliacja z linkow), ale warto wiedziec, ze czesc ich najswiezszych danych jest za plotkiem i moze do nas docierac z opoznieniem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Ninjago) - 71830 Burzowy jezdziec-mech Kaia",
+      "url": "https://faniklockow.pl/2026/09/14/okazja-cenowa-ninjago-71830-burzowy-jezdziec-mech-kaia/",
+      "data_publikacji": "2026-09-14",
+      "data_wykrycia": "2026-09-15",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro"
+      ],
+      "notatki": "Pojedyncza okazja dnia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Icons na 2026 (aktualizacja: ceny 11379 i 11387)",
+      "url": "https://faniklockow.pl/2026/09/15/zapowiedzi-serii-icons-na-2026-rok/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
+      "notatki": "Dwie ceny, ktorych nie mielismy: 11379 Ksiegarnia Book Nook 559,99 zl i 11387 Swiateczny dom 469,99 zl (1354 el., 4 minifigurki i kon). Obie wpisane. 11379 domyka rozbieznosc z 04.09 - promoklocki podawali 559,96, co nie konczy sie na ',99', wiec bylo wyliczeniem porownywarki. 11387 potwierdza przelicznik: Brickset ma 109,99 EUR z lego.com, co daje 470 zl. 40899 Astrobot: sami pisza, ze nie wiadomo, czy to GWP do PlayStation czy normalny zestaw - zostawiamy jako nierozstrzygniete."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Lumibricks na 09.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-lumibricks-na-09-2026/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czwarta obca marka w dwa tygodnie, po COBI, GraviTraxie i Pantasy. Bez zmian w naszym zakresie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 15.09.2026 (zbiorczo: 60480, 60447, 75446)",
+      "url": "https://faniklockow.pl/2026/09/15/okazja-cenowa-city-60480-zolta-koparko-ladowarka/",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-16",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Wrzesniowy gratis na LEGO.pl dla naszych czytelnikow (40722 Swiecacy duszek, 21-30.09, od 500 zl)",
+      "url": "https://fanklockow.pl/wrzesniowy-2026-gratis-na-lego-pl-dla-naszych-czytelnikow",
+      "data_publikacji": "2026-09-16",
+      "data_wykrycia": "2026-09-17",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Kody dla czytelnikow na dodatkowy GWP 40722, prog 500 zl z dowolnej serii, 21-30.09. W tych samych dniach ich zdaniem [DO POTWIERDZENIA] leci regularna akcja halloweenowa z 40900 od ok. 375 zl - czyli dwa gratisy w jednym oknie. Dodaja, ze gratis z kodu zajmuje jeden z trzech slotow nagrody Insiders. Naszego kalendarza to nie podwaza (mamy 40900 na 21-30.09 jako przewidywane), ale brakuje nam akapitu o kumulacji i o limicie slotow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Wysyp gratisow w LS Wroclavia",
+      "url": "https://fanklockow.pl/wysyp-gratisow-w-ls-wroclavia",
+      "data_publikacji": "2026-09-16",
+      "data_wykrycia": "2026-09-17",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Stan scianki GwP w jednym sklepie stacjonarnym. Nieprzenoszalne na ruch zakupowy online."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Minifigure Factory w Pradze jeszcze w tym roku",
+      "url": "https://fanklockow.pl/minifigure-factory-w-pradze-jeszcze-w-tym-roku",
+      "data_publikacji": "2026-09-16",
+      "data_wykrycia": "2026-09-17",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Otwarcie LEGO Store w Czechach. Poza naszym rynkiem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO STORE Praga - Centrum. Nowy sklep flagowy w Czechach",
+      "url": "https://faniklockow.pl/2026/09/15/lego-store-praga-centrum-nowy-sklep-flagowy-otwiera-sie-w-czechach",
+      "data_publikacji": "2026-09-15",
+      "data_wykrycia": "2026-09-17",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow. Poza naszym rynkiem."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Aktualizacja listy zestawow do wycofania",
+      "url": "https://promoklocki.pl/promocje-lego/aktualizacja-listy-zestawow-do-wycofania-n926",
+      "data_publikacji": "2026-09-16",
+      "data_wykrycia": "2026-09-17",
+      "typ": "produkt",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zmiana strukturalna: wpis blogowy odswiezajacy ich liste EOL, plus istniejace podstrony per seria (/lego-eol/lego-technic). My mamy od 16.09 wlasny tekst /artykuly/wycofania-lego-grudzien-2026/ z analiza cen wzgledem cennika, ktorej ich lista nie ma."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Sekcja 'odkrywaj': strony kolekcji tematycznych (najwieksze, najdrozsze, kolekcje per seria)",
+      "url": "https://zklockow.pl/lego/odkrywaj",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-17",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Wpis zbiorczy na sekcje. Wykryte strony: /lego/najwieksze-zestawy-lego-odkrywaj, /lego-technic/najwieksze-zestawy-lego-technic-odkrywaj, /lego-harry-potter/najwieksze-zestawy-lego-harry-potter-odkrywaj, /lego-brickheadz/figurki-lego-brickheadz-z-wladcy-pierscieni-odkrywaj, /lego-speed-champions/kolekcja-bolidow-formuly-1-lego-speed-champions-odkrywaj, /lego-ninjago/mikromodele-miasta-ninjago-kolekcja-zestawow-lego-odkrywaj, /dla-doroslych-lego/najlepsze-zestawy-lego-dla-doroslych-fanow-harryego-pottera-odkrywaj. Strony evergreen, nie datowane - to nie jest swieza publikacja, tylko cala klasa stron, ktorej u nas nie ma. Nasz katalog ma liczbe elementow przy 9211 z 9359 pozycji (98%), wiec taka siatka jest generowalna z danych, ktore juz mamy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Prywatne zakupy 2026 w polskich LEGO Stores (14.11, godzina przed otwarciem)",
+      "url": "https://fanklockow.pl/prywatne-zakupy-2026-w-polskich-lego-stores",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "14.11 (sobota), 8:00/9:00 zaleznie od miasta, kazdy polski LEGO Store, ok. 15 osob na salon, zapisy od 16.09. Atrakcje: budowanie i upominki, bez zapowiedzianego rabatu. Termin tydzien przed Insiders Weekend i dwa tygodnie przed Black Friday. Dopisane do /kalendarz-promocji-lego/ jako przewidywane - jedno zrodlo, LEGO nie oglosilo publicznie."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "FanKlockowy kalendarz: klockowe wydarzenia w roku 2026",
+      "url": "https://fanklockow.pl/kalendarz-klockowe-wydarzenia",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Zmiana strukturalna: drugi kalendarz obok ich kalendarza promocji - osobno wydarzenia (otwarcia salonow, eventy, prywatne zakupy, BaM). My mamy jeden /kalendarz-promocji-lego/, w ktorym wydarzenia stacjonarne mieszaja sie z promocjami cenowymi albo w ogole ich nie ma."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Gratis dla czytelnikow - 40772 Seria okolicznosciowa: Swiecacy duszek",
+      "url": "https://faniklockow.pl/2026/09/17/gratis-dla-naszych-czytelnikow-40772-seria-okolicznosciowa-swiecacy-duszek",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Drugie zrodlo na ten sam GWP z kodow w oknie 21-30.09 - i zrodlo numeru zestawu. WAZNE: podaja 40772, fanklockow podal 40722. Nasz katalog rozstrzyga: 40772 = 'Seria okolicznosciowa: Swiecacy duszek' (Creator, 2025). 18.09 poprawiono numer w /kalendarz-promocji-lego/ w dwoch miejscach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 17.09.2026 (zbiorczo: 11380, 77249, 31168)",
+      "url": "https://faniklockow.pl/2026/09/17/okazja-cenowa-icons-11380-rower-gorski-2",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy. 31168 mamy z wlasna recenzja."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Editions na 2027 rok",
+      "url": "https://faniklockow.pl/2026/09/17/zapowiedzi-serii-lego-editions-na-2027-rok",
+      "data_publikacji": "2026-09-17",
+      "data_wykrycia": "2026-09-18",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem zakupowym XI-XII. Material dla runnera Scouta, nie dla radaru."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 18.09.2026 (zbiorczo: 75428, 75459, 75455, 10361, 10353, 77240, 21268)",
+      "url": "https://faniklockow.pl/2026/09/18/okazja-cenowa-star-wars-75455-boba-fett",
+      "data_publikacji": "2026-09-18",
+      "data_wykrycia": "2026-09-19",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Siedem wpisow jednego dnia - wiecej niz zwykle. Wszystkie siedem mamy w bazie z glebszym rabatem niz oni pokazuja: 75428 -20%, 75459 -13%, 75455 -27%, 10361 -19%, 10353 -39%, 77240 -39%, 21268 -48% wobec cennika. Sprawdzone 19.09 w oferty_feed.json."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Poradnik LEGO.pl: Halloweenowa kumulacja 09.2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-halloweenowa-kumulacja-09-2026",
+      "data_publikacji": "2026-09-19",
+      "data_wykrycia": "2026-09-20",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Skorygowali wlasny prog dla 40900 Straszne nawiedzone drzewo: bylo ok. 375 zl, jest ok. 430 zl (u nich dalej 'do potwierdzenia'). Nowe fakty: drzewo (218 el.) obejmuje tez salony stacjonarne, duszek (z kodu, prog rowno 500 zl) tylko online. Ich wyliczenie cashbacku 37% przy 500 zl zaklada, ze OBA gratisy wpadaja do jednego koszyka - to przeczy ich wlasnej wczesniejszej uwadze o trzech slotach nagrody Insiders. Kalendarz poprawiony 20.09: prog 430 zl, rozdzial online/stacjonarnie, otwarta kwestia laczenia gratisow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Rozstrzygniecie numeru gratisu: 40772, nie 40722",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-halloweenowa-kumulacja-09-2026#numer",
+      "data_publikacji": "2026-09-19",
+      "data_wykrycia": "2026-09-20",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "fanklockow drugi raz pisze '40722 Swiecacy duszek', faniklockow pisze 40772. Nasze dane rozstrzygaja na korzysc 40772: katalog ma 40772 'Seria okolicznosciowa: Swiecacy duszek', Creator, 167 elementow, rocznik 2025 - profil zgodny z opisem gratisu (light brick, mniejszy niz 218-elementowe drzewo, ok. 85 zl na rynku wtornym). Numer 40722 ma w rrp_potwierdzone.json cene katalogowa 379,99 zl z pelnego katalogu lego.com z 28.08 - zestaw tej klasy nie jest gratisem. Zostawiamy 40772; nie zmieniac przy nastepnym przebiegu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow LEGO 2026 - stan na dzien startu okna halloweenowego",
+      "url": "https://faniklockow.pl/2026/09/08/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-21",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Sprawdzone 21.09, w dniu startu okna: ich lista dalej podaje prog 375 zl (do potwierdzenia) dla 40900, podczas gdy fanklockow podaje ok. 430 zl. To NIE jest korekta jednego serwisu, tylko rozbieznosc miedzy dwoma - wczoraj opisalismy to w kalendarzu blednie jako autokorekte. Poprawione 21.09. Z tej samej listy nowy fakt, ktorego nie mielismy: 1-7.10 GwP 40899 Astrobot przy zakupach od 650 zl (kwota do potwierdzenia) - dopisane do tabeli pazdziernikowej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Botanicals",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-botanicals",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-21",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem zakupowym XI-XII. Material dla Scouta."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Wolverine juz z nami",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-20-wrzesnia-2026",
+      "data_publikacji": "2026-09-20",
+      "data_wykrycia": "2026-09-21",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad popkulturowy, bez zwiazku z zakupami LEGO."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa - mala kumulacja z gratisami + EOL",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-mala-kumulacja-z-gratisami-eol",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Ich material o starcie okna 21-30.09. PROGU DALEJ NIE PODAJA - pytanie z 21.09 zostaje otwarte. Konkret, ktory sprawdzilismy i potwierdzilismy w swoich danych: 43021 Nike Dunk Trickshot, 76356 Popiersie Venoma i 31394 Panda ruda sa w dystrybucji ekskluzywnej i w sklepach zewnetrznych sa DROZSZE od cennika (Allegro +47%, Empik +33%, Allegro +56%). Dopisane do /kalendarz-promocji-lego/ jako trzy zestawy, przy ktorych LEGO.com naprawde jest najtanszy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 21.09.2026 (zbiorczo: 10365, 21358, 11371, 10360, 10351, 42211, 75415, 21357, 11503)",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-icons-10365-czarna-perla-8",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Dziewiec wpisow jednego dnia, wszystkie w naszych hubach z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Okolicznosciowe i specjalne",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-okolicznosciowe-specjalne",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem XI-XII. Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi zestawow okazjonalnych/specjalnych na 2027 rok",
+      "url": "https://faniklockow.pl/2026/09/21/zapowiedzi-zestawow-okazjonalnych-specjalnych-na-2027-rok",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow, rocznik 2027."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Katalog COBI 2026-2 juz dostepny",
+      "url": "https://fanklockow.pl/katalog-cobi-2026-2-juz-dostepny",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "KLOCkast 2.0: Spokojny wrzesien (10-21.09.2026)",
+      "url": "https://fanklockow.pl/klockast-2-0-spokojny-wrzesien-i-troche-o-wolverine-10-21-09-2026",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-09-22",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Podcast, przeglad dwoch tygodni. Bez nowych faktow zakupowych."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Ponad polowa wartosci tego zestawu to minifigurka - 75455 Boba Fett",
+      "url": "https://faniklockow.pl/2026/09/22/ponad-polowa-wartosci-tego-zestawu-to-minifigurka-a-sam-build-tez-wymiata-poznajcie-boba-fetta",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Ich osi - udzial minifigurki w wartosci zestawu - nie zweryfikujemy, bo nie mamy danych o cenach minifigurek na rynku wtornym; nie powtarzamy tej tezy. Mamy za to fakt, ktorego oni nie podaja: 75455 chodzi w SIEDMIU sklepach, najtaniej 509 zl (Ceneo) wobec cennika 729,99 zl, czyli -30%, a LEGO.com stoi w cenniku i jest najdrozszy. Rocznik 2026, karta redakcyjna jest, wlasnego tekstu nie ma."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Archiwum kampanii sklepowych: Allegro Smart! Weeks, Allegro Days, Black Weeks",
+      "url": "https://promoklocki.pl/promocje-lego/festiwal-okazji-allegro-smart-weeks-2026-n1531",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-23",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Allegro"
+      ],
+      "notatki": "Wpis zbiorczy na klase tresci. Prowadza osobne wpisy na kazda kampanie sklepu zewnetrznego z terminami (Smart! Weeks, Allegro Days, Black Weeks, okazje limitowane). Sprawdzone: edycja Smart! Weeks 2026 byla 11-20 maja, wiec to NIE jest swiezy temat - liczy sie sama klasa tresci. Nasz kalendarz wspomina o 'kampaniach sklepow zewnetrznych przed Black Friday' ogolnie, ale nie nazywa zadnej z terminem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Speed Champions) - 77261 Ferrari 499P",
+      "url": "https://faniklockow.pl/2026/09/22/okazja-cenowa-speed-champions-77261-ferrari-499p-2",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Pojedyncza okazja, zestaw w naszym hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Pantasy 85066 Ghost Cinema",
+      "url": "https://fanklockow.pl/videorecenzja-pantasy-85066-ghost-cinema",
+      "data_publikacji": "2026-09-22",
+      "data_wykrycia": "2026-09-23",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pantasy, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Prezenty LEGO pod choinke dla dzieci - pomysly dla chlopcow i dziewczynek",
+      "url": "https://zklockow.pl/blog/prezenty-lego-pod-choinke-dla-dzieci",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-24",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Strona evergreen wprost pod fraze sezonu XI-XII. My mamy szesnascie prezentownikow (serie, wiek, budzet), ale zaden nie celuje w 'prezenty pod choinke' - slowo 'choinka' pada tylko wewnatrz kilku tekstow, nie w tytule ani adresie zadnej strony. Do zrobienia: strona-rozdzielnik prowadzaca do istniejacych prezentownikow."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Skroty LEGO (slowniczek pojec)",
+      "url": "https://zklockow.pl/odkrywaj/skroty-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-09-24",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mamy wlasny /artykuly/slowniczek-lego/ z hasłami w <dl>, wlasnymi id i indeksem A-Z."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Sort A Brick - litewski startup na rynku uzywanych klockow",
+      "url": "https://fanklockow.pl/sort-a-brick-litewski-startup-zatrzesie-rynkiem-uzywanych-klockow",
+      "data_publikacji": "2026-09-23",
+      "data_wykrycia": "2026-09-24",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rynek klockow uzywanych - poza naszym zakresem (sprzedaz nowych zestawow przez afiliacje). Ciekawostka branzowa, bez przelozenia na sezon XI-XII."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Disney) - 43272 Heihei",
+      "url": "https://faniklockow.pl/2026/09/24/okazja-cenowa-disney-43272-heihei-5",
+      "data_publikacji": "2026-09-24",
+      "data_wykrycia": "2026-09-25",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Mamy w hubie z zywa tabela: siedem sklepow, najtaniej 114,93 zl wobec 169,99 zl katalogowo, czyli -32%."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Minifigurki",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-minifigurki",
+      "data_publikacji": "2026-09-24",
+      "data_wykrycia": "2026-09-25",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, poza sezonem XI-XII. Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Minifigures na 2027 rok",
+      "url": "https://faniklockow.pl/2026/09/24/zapowiedzi-serii-lego-minifigures-na-2027-rok",
+      "data_publikacji": "2026-09-24",
+      "data_wykrycia": "2026-09-25",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow, rocznik 2027."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Afol Day - zwiedzanie LEGO House w wyzszej cenie",
+      "url": "https://faniklockow.pl/2026/09/24/lego-fan-tour-czyli-zwiedzanie-lego-house-w-wyzszej-cenie-jest-jednak-kilka-plusow",
+      "data_publikacji": "2026-09-24",
+      "data_wykrycia": "2026-09-25",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Wydarzenie w LEGO House w Danii - poza rynkiem polskim i poza zakresem naszej sekcji wydarzen (salony w Polsce)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow LEGO 2026 - aktualizacja 25.09",
+      "url": "https://faniklockow.pl/2026/09/25/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Prog dla 40900 DALEJ 375 zl 'do potwierdzenia' - rozbieznosc z fanklockow (430 zl) trwa mimo otwartego okna; nasz kalendarz opisuje ja jako sporna i to zostaje. NOWE, czego nie mielismy: 13-19.10 podwojne punkty Insiders plus GwP 40909 Restauracje Swiata: Wlochy przy zakupach od 745 zl (ten sam prog, co 40908 Grecja w sierpniu - stad podajemy kwote). Plus zastrzezenie do 40899 Astrobot: zakup samego Executora prawdopodobnie sie nie liczy do progu 650 zl. Oba dopisane do /kalendarz-promocji-lego/ 26.09."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 - pelna lista",
+      "url": "https://faniklockow.pl/2026/09/25/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Ich tabela ma kolumne, ktorej nasza /wycofania/ nie ma: DYSTRYBUCJA (szeroka / ekskluzywna / ograniczona) plus notke 'wyprzedane'. To jest etykieta producenta; my mamy lepszy, bo zywy odpowiednik - liczbe sklepow z oferta - i wlasny tekst z 16.09 pokazal, ze to najlepszy predyktor ceny wzgledem cennika. Tylko na samej liscie /wycofania/ tej liczby nie pokazujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Statystyki francuskiego oddzialu LEGO: udzial doroslych i licencji",
+      "url": "https://faniklockow.pl/2026/09/25/ciekawe-statystyki-z-francuskiego-oddzialu-lego-jaki-udzial-w-rynku-maja-dorosli-i-licencje",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Dane rynkowe z Francji - bez przelozenia na polskie ceny, ale to material zrodlowy do tekstu o licencjach z planu redakcyjnego (pozycja 9 cyklu, autor Piotr)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 11375 Ferrari F2004 i Michael Schumacher",
+      "url": "https://faniklockow.pl/2026/09/25/okazja-cenowa-icons-11375-ferrari-f2004-i-michael-schumacher-4",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Zestaw w naszym hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO x Nike: nowe akcesoria",
+      "url": "https://faniklockow.pl/2026/09/25/lego-x-nike-nowe-akcesoria-w-kosmicznym-stylu",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Akcesoria, nie zestawy klockow - poza zakresem porownywarki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Biuletyn specjalny dla Patronow 15/2026 - przecieki 2027 cz. 3 (platny)",
+      "url": "https://fanklockow.pl/%f0%9f%94%92-biuletyn-specjalny-dla-patronow-15-2026",
+      "data_publikacji": "2026-09-25",
+      "data_wykrycia": "2026-09-26",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Tresc za paywallem patronackim, rocznik 2027. Nie kupujemy i nie cytujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Premiery zestawow LEGO na pazdziernik 2026 z dystrybucja",
+      "url": "https://faniklockow.pl/2026/09/26/premiery-zestawow-lego-na-pazdziernik-2026-z-dystrybucja",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl",
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Lista premier z etykieta dystrybucji. Sprawdzilismy ich etykiety we wlasnych danych ofertowych i sie zgadzaja: 72306, 11379 oraz trojka Avengers Doomsday (76347, 76348, 76352) maja 3-4 sklepy poza LEGO; 21371 i 21373 dzis tylko LEGO (czasowa wylacznosc); cala paczka swiateczna 40862, 40865, 40866, 40874, 40875 oraz 40880 - wylacznie LEGO. Dopisane do /kalendarz-promocji-lego/ jako tabela 'ktora czesc tej fali w ogole stanieje', na naszych liczbach sklepow, nie na ich etykiecie. Nowe w ich liscie, czego nie mamy w kalendarzu: przedsprzedaz BrickLink Designer Program seria 9 rusza 6.10 o 17:00 (piec zestawow 209,99-1499,99 zl, dystrybucja specjalna)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazje Cenowe 26.09.2026 (zbiorczo: 77978, 75413, 31387)",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-star-wars-75413-czolg-republiki-juggernaut-4",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "Allegro",
+        "Media Expert"
+      ],
+      "notatki": "Wpis zbiorczy, trzy zestawy, wszystkie w naszych hubach z zywa tabela cen."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Przejsciowe problemy z dzialaniem serwisu (09.2026)",
+      "url": "https://fanklockow.pl/przejsciowe-problemy-z-dzialaniem-serwisu-09-2026",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-09-27",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Komunikat techniczny ich serwisu, bez tresci merytorycznej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Lumibricks 23002 Protein Farm z Blade Runner 2049",
+      "url": "https://fanklockow.pl/videorecenzja-lumibricks-23002-protein-farm-blade-runner-2049",
+      "data_publikacji": "2026-09-27",
+      "data_wykrycia": "2026-09-28",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Lumibricks, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Nowy Wladca Pierscieni na zdjeciach",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-27-wrzesnia-2026",
+      "data_publikacji": "2026-09-27",
+      "data_wykrycia": "2026-09-28",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad popkulturowy, bez zwiazku z zakupami LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Premiery LEGO na 10.2026 (z dystrybucja)",
+      "url": "https://fanklockow.pl/premiery-lego-na-10-2026-z-dystrybucja",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl",
+        "Bricklink.com"
+      ],
+      "notatki": "DRUGIE ZRODLO na BLDP seria 9: 6 pazdziernika (wtorek) 17:00, piec zestawow 910069-910073 z cenami identycznymi jak u faniklockow. Zadanie z rejestru 27.09 zamkniete - BLDP dopisany do kalendarza z wlasna sekcja. WAZNIEJSZE: ich etykiety roznia sie od faniklockow przy dwoch zestawach. 72306 PlayStation to u nich 'Ekskluzywna (szeroka od 12.2026)', 11387 'Ekskluzywna (czasowo)' - a faniklockow dal 72306 jako 'Szeroka'. Nasze dane rozstrzygaja na korzysc fanklockow: oferty poza LEGO dla obu sa POWYZEJ cennika (72306 allegro 748,99 wobec 689,99; 11387 allegro 699 wobec 469,99), czyli to odsprzedaz, nie dystrybucja. Tabela w kalendarzu poprawiona 29.09 - wczoraj wrzucilem 72306 do rubryki 'konkurencja cenowa dziala', co bylo za mocne."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Lista gratisow LEGO 2026 - aktualizacja 28.09",
+      "url": "https://faniklockow.pl/2026/09/28/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Kolejna aktualizacja tej samej listy. Okno halloweenowe konczy sie 30.09, wiec spor o prog 375 vs 430 zl traci znaczenie - nie ruszamy kalendarza."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO Inside Tour 2027 - terminy",
+      "url": "https://fanklockow.pl/lego-inside-tour-2027-terminy",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Wycieczka do Billund w 2027. Poza rynkiem polskim i poza sezonem XI-XII."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Inside Tour 2027 - daty wycieczek i zapisow",
+      "url": "https://faniklockow.pl/2026/09/28/lego-inside-tour-2027-znamy-daty-wycieczek-i-zapisow",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Ninjago",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-ninjago",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii Icons na 2026 rok",
+      "url": "https://faniklockow.pl/2026/09/28/zapowiedzi-serii-icons-na-2026-rok",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Aktualizacja ich listy zapowiedzi Icons - material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Unikatowa kaczka z drukarki 3D",
+      "url": "https://faniklockow.pl/2026/09/28/unikatowa-kaczka-z-drukarki-3d-ma-az-kilka-kolorow-czerwony-zielony-oraz",
+      "data_publikacji": "2026-09-28",
+      "data_wykrycia": "2026-09-29",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ciekawostka kolekcjonerska, bez zwiazku z zakupami."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Poradnik LEGO.pl: Executor UCS i upominki od 1.10.2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-executor-ucs-i-upominki-od-1-10-2026",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Potwierdzaja to, co mamy od 26.09: 40899 Astro Bot w dniach 1-7.10 do zakupow od ok. 650 zl (kwota do potwierdzenia), najpewniej z wylaczeniem Executora - u nich '95% pewnosci'. NOWE i wazne: zapowiadaja przejscie 75457 Executora do dystrybucji ograniczonej w styczniu 2027 i przecene rzedu 15-20% ok. rok po premierze. Nasz kalendarz pisal 'cena jest jedna i taka zostanie' - zdanie za mocne, poprawione 30.09 na ograniczone do biezacego sezonu, z zaznaczeniem, ze dalsza czesc to ICH prognoza, nie zapowiedz LEGO. Ich szacunkow wartosci gratisow na rynku wtornym (600-700 zl za Miecz Vadera) nie przepisujemy - to spekulacja, ktorej nie umiemy sprawdzic."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa - wycofywany Ogrod Botaniczny + gratisy",
+      "url": "https://faniklockow.pl/2026/09/29/okazja-cenowa-wycofywany-ogrod-botaniczny-gratisy",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Zestaw wycofywany z gratisem w ostatnim dniu okna halloweenowego. Mamy go w /wycofania/ i w hubie z zywa tabela cen."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Shenron i Goku - pierwszy zestaw LEGO na licencji Dragon Ball",
+      "url": "https://faniklockow.pl/2026/09/29/shenron-goku-pierwszy-zestaw-lego-na-licencji-dragon-ball",
+      "data_publikacji": "2026-09-29",
+      "data_wykrycia": "2026-09-30",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Nowa licencja w portfolio LEGO. Poza sezonem XI-XII, ale to material zrodlowy do tekstu o licencjach z planu redakcyjnego (pozycja 9 cyklu, autor Piotr) - pierwszy zestaw nowej licencji to dokladnie ten typ faktu, ktorego tamten tekst potrzebuje."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Poczatek pazdziernika z gratisami - poradnik zakupowy",
+      "url": "https://faniklockow.pl/2026/09/30/poczatek-pazdziernika-z-gratisami-poradnik-zakupowy",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "ROZBIEZNOSC PROGU, okno trwa od dzis: oni podaja 625 zl do gratisu 40899, fanklockow ok. 650 zl - oba bez potwierdzenia LEGO. Kalendarz poprawiony 1.10: prog opisany jako sporny (625 albo 650), z rada, zeby sprawdzic koszyk. DRUGA NIEJASNOSC: w ich tabeli przy 75457 stoi 'Bez Insiders od 4 pazdziernika (i bez gratisu)', co przeczy ich wlasnej liscie gratisow mowiacej 1-7.10. Nie przesadzamy - w kalendarzu jest zdanie, zeby nie zwlekac z decyzja do konca okna. Nowe zestawy ekskluzywne, ktorych nie mielismy w tabeli paczki swiatecznej: 40868 Powiekszona minifigurka Reda (339,99) i 40958 Swiateczna skarpeta (144,99) - sprawdzone w naszym feedzie, obie tylko LEGO, dopisane."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Kalendarz klockowych eventow w Polsce - 2026",
+      "url": "https://faniklockow.pl/2026/09/30/kalendarz-klockowych-eventow-w-polsce-2026-rok",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Drugi serwis z osobnym kalendarzem wydarzen. U nas sekcja 'Wydarzenia w salonach LEGO' w jednym kalendarzu - decyzja Marka z 18.09, zostaje."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BLDP Fala 1 2028 - glosowanie rozpoczete",
+      "url": "https://fanklockow.pl/bldp-fala-1-2028-glosowanie-rozpoczete",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Glosowanie na projekty do fali 2028 - nie jest to sprzedaz ani termin zakupowy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BLDP Fala 1 2028: The Tall Tollhouse - projekt Brewy",
+      "url": "https://fanklockow.pl/bldp-fala-1-2028-the-tall-tollhouse-prezentacja-projektu-brewy",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Prezentacja wlasnego projektu redaktora w glosowaniu BLDP. KOREKTA 2.10: wpis mial 1.10 zmyslony adres (slug zlozony z pamieci zamiast wziecia go z feedu), przez co wpis wrocil nastepnego dnia jako nowy. Adres poprawiony na ten z RSS."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Designer Program 2028 Wave 1 - polskie projekty",
+      "url": "https://faniklockow.pl/2026/09/30/designer-program-2028-wave-1-zaglosujcie-na-polskie-projekty",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ten sam temat co u fanklockow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Wycofania COBI - koniec 2026",
+      "url": "https://fanklockow.pl/wycofania-cobi-koniec-2026",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Afol Day, Kopenhaga i Fan Weekend w Skaerbaek - meldunek z Danii",
+      "url": "https://faniklockow.pl/2026/09/30/afol-day-kopenhaga-i-fan-weekend-w-skaerbaek-czyli-krotki-meldunek-z-danii",
+      "data_publikacji": "2026-09-30",
+      "data_wykrycia": "2026-10-01",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Relacja z wydarzen w Danii, poza rynkiem polskim."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zbiorcze okazje na zestawy LEGO w Media Expert (fala przecen z 1.10)",
+      "url": "https://faniklockow.pl/2026/10/01/zbiorcze-okazje-na-zestawy-lego-w-media-expert",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "Media Expert"
+      ],
+      "notatki": "Duza fala przecen w Media Expert od rana 1.10, rabaty 20-44%, kilka pozycji 'historycznie najtaniej'. Sprawdzilismy dwanascie ich pozycji w naszym feedzie: w KAZDEJ nasza cena Media Expert jest wyzsza od faktycznej, zwykle o 8-15%, a przy 31174 prawie dwukrotnie (129,99 wobec 70). Pomiar szerszy: 735 zestawow ma u nas oferte Media Expert, ale tylko 141 odswiezono 1.10 - 594 (81%) ma ceny z 29.09 lub starsze, czyli sprzed fali. Caly feed ma 4632 wpisy z 1.10, wiec odswiezenie sie odbylo, tylko pokrycie Media Expert jest czesciowe. To zadanie dla Lowcy, nie dla radaru."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Najlepsze oferty na LEGO - 1 pazdziernika 2026",
+      "url": "https://fanklockow.pl/najlepsze-oferty-na-lego-1-pazdziernika-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ich cykliczny przeglad ofert. Ten sam material zrodlowy co fala Media Expert powyzej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowosci LEGO Pick a Brick na pazdziernik 2026",
+      "url": "https://fanklockow.pl/nowosci-lego-pick-a-brick-na-pazdziernik-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pojedyncze elementy, nie zestawy - poza zakresem porownywarki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Konkurs nieustajacy - wyniki z 09.2026",
+      "url": "https://fanklockow.pl/konkurs-nieustajacy-wyniki-z-09-2026",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Konkurs ich serwisu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ninjago na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/01/zapowiedzi-serii-lego-ninjago-na-2027-rok",
+      "data_publikacji": "2026-10-01",
+      "data_wykrycia": "2026-10-02",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rocznik 2027, material dla Scouta."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO® kontra inwestorzy: Batmanowe szaleństwo",
+      "url": "https://fanklockow.pl/lego-kontra-inwestorzy-batmanowe-szalenstwo",
+      "data_publikacji": "2026-10-02",
+      "data_wykrycia": "2026-10-03",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Analiza: dwie figurki Batmana w specyficznej dystrybucji i co z nimi zrobia inwestorzy. Temat mamy pokryty w sekcji Batman Day kalendarza (/kalendarz-promocji-lego/#batman-day): wprost piszemy, ze dystrybucja zewnetrzna jest tansza od podwojnych punktow, i wskazujemy 40859 i 76333 jako jedyne bez alternatywy. Okno Batman Day 9-19.09 zamkniete, wiec bez dzialania."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery COBI na 10.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-cobi-na-10-2026",
+      "data_publikacji": "2026-10-02",
+      "data_wykrycia": "2026-10-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu. Odnotowane tylko po to, by kolejny przebieg nie zwrocil tego jako nowosci."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Jurassic World) – 77978 Ciężarówka do transportu młodego tyranozaura",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-juraccis-world-77978-ciezarowka-do-transportu-mlodego-tyranozaura",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-10-03",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mikropost dealowy o jednym zestawie, z 26.09 - umknal wczesniejszym przebiegom, nie jest swieza publikacja. Ich cene biezaca i tak mamy z feedow."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Creator) – 31387 Legendarny Statek Piracki",
+      "url": "https://faniklockow.pl/2026/09/26/okazja-cenowa-creator-31387-legendarny-statek-piracki-2",
+      "data_publikacji": "2026-09-26",
+      "data_wykrycia": "2026-10-03",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej - mikropost dealowy z 26.09, uzupelnienie bazy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: LEGO® 72306 PlayStation™",
+      "url": "https://fanklockow.pl/recenzja-lego-72306-playstation",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja wideo swiezej premiery 72306 (RRP 689,99, 1911 elementow). U nas hub /zestaw/72306/ z personami (dla_rodzica + dla_afol, razem 935 znakow, wiec hub jest indeksowalny) i wzmianki w trzech tekstach, ale recenzji nie ma. Zestaw wszedl w okno prezentowe: 03.10 Ceneo 619,99, czyli pierwsza oferta PONIZEJ katalogu - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika (Allegro 748,99, dalej odsprzedaz)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO® 2026: Minifigurki",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2026-minifigurki",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Plotki o seriach minifigurek do konca roku, w tym figurki z Build a Minifigure na listopad. Oznaczone przez nich jako NIEPOTWIERDZONE, wiec do naszego kalendarza nie wchodzi bez drugiego zrodla. Material dla Scouta, nie dla Radaru."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Podsumowanie LEGO® IDEAS – wrzesień 2026",
+      "url": "https://fanklockow.pl/podsumowanie-lego-ideas-wrzesien-2026",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad projektow z platformy IDEAS - bez znaczenia zakupowego, projekty z przegladu trafiaja do sprzedazy po latach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "AFOL Day, Kopenhaga i SKAERBAEK Fan Weekend",
+      "url": "https://faniklockow.pl/2026/10/03/afol-day-kopenhaga-i-skaerbaek-fan-weekend-czyli-to-co-kazdy-legoman-powinien-zrobic",
+      "data_publikacji": "2026-10-03",
+      "data_wykrycia": "2026-10-04",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Relacja wideo z wyjazdu do Danii - format osobisty, ktorego nie prowadzimy i nie planujemy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Ideas) – 21358 Maszyna z minifigurkami",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-ideas-21358-maszyna-z-minifigurkami-3",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-10-04",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "empik"
+      ],
+      "notatki": "Zalegly mikropost dealowy z 21.09 (Empik 579,99, -21% od katalogu) - nie jest swieza publikacja, uzupelnienie bazy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii Minifigures (CMF) & BaM na 2026 rok",
+      "url": "https://faniklockow.pl/2026/10/04/zapowiedzi-serii-minifigures-cmf-na-2026-rok",
+      "data_publikacji": "2026-10-04",
+      "data_wykrycia": "2026-10-05",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Zbiorcza lista zapowiedzi CMF i Build a Minifigure, w tym BaM na listopad (Dziewczyna w stroju Choinki, Zlota Pani Mikolajowa, rozowy Renifer) i pazdziernikowy rzut figurek. WAZNE dla progu dowodowego: to NIE jest drugie niezalezne zrodlo do wczorajszej zapowiedzi fanklockow. Tekst sam konczy sie zdaniem, ze do oficjalnego potwierdzenia nalezy traktowac te informacje jako plotki, i cytuje to samo zrodlo zewnetrzne (twogayafols). Do kalendarza nie wchodzi. Jedyny numer w tekscie to 71053 Seria Shrek - mamy go w katalogu (Minifigurki, dostepny), z ofertami czterech sklepow i hubem. Rozbieznosc ceny katalogowej: oni podaja 16,99, my 16,49 z listingu lego.pl - nasza wartosc zostaje."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrót: Klony Spider-Mana nadchodzą!",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-4-pazdziernika-2026",
+      "data_publikacji": "2026-10-04",
+      "data_wykrycia": "2026-10-05",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny przeglad newsow popkulturowych (seriale, kino) - format bez zwiazku z zakupem zestawow, nie prowadzimy go i nie planujemy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zaproszenie: Wspólne zakupy BLDP – seria 9!",
+      "url": "https://fanklockow.pl/zaproszenie-wspolne-zakupy-bldp-seria-9",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "Zapraszaja na transmisje LIVE ze wspolnych zakupow 06.10 o 16:15, przy starcie 9. serii BLDP. UWAGA na pulapke: 16:15 to godzina ICH transmisji, nie startu sprzedazy - naszego 17:00 w kalendarzu to NIE podwaza i nie zmieniam go na tej podstawie. Przy tej okazji znalazlem i poprawilem WLASNY blad w /kalendarz-promocji-lego/: naglowek mowil 'seria 9', a zdanie pod nim 'piatej serii'. Strona ma ruch wlasnie dzisiaj."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Nowa licencja wkracza do świata LEGO. Przyszedł czas na… Hello Kitty?",
+      "url": "https://faniklockow.pl/2026/10/05/nowa-licencja-wkracza-do-swiata-lego-przyszedl-czas-na-hello-kitty",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "news",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Grupa LEGO i Sanrio oglosily wieloletnia wspolprace - Hello Kitty wchodzi do klockow, pierwsze produkty w 2027. W przeciwienstwie do wczorajszych plotek o CMF to jest oficjalne oswiadczenie obu firm i opisuja je dwa serwisy niezaleznie (fanklockow tego samego dnia). U nas dzial licencji konczy sie na Nike i F1 (/artykuly/historia-licencji-lego-gry-sport-lifestyle/, data 21.09) - Sanrio tam nie ma."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO® 2027: Hello Kity (Sanrio)",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-hello-kity-sanrio",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Drugie zrodlo do ogloszenia licencji Sanrio, u nich pod tagiem 'Niepotwierdzone', choc tekst otwiera sie slowami 'To juz oficjalne'. Konkretne zestawy na 2027 - material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® DC na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/05/zapowiedzi-serii-lego-dc-na-2027-rok",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zbiorcza lista zapowiedzi DC na 2027. Scout przeszedl ten temat tego samego dnia (commit d2e542c: trzy zestawy DC 2027), wiec bez zadania dla Radaru."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Fani pokochali powiększone minifigurki. Zobaczcie wszystkie i poznajcie ich historie",
+      "url": "https://faniklockow.pl/2026/10/05/fani-pokochali-powiekszone-minifigurki-zobaczcie-wszystkie-i-poznajcie-ich-historie",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Przeglad powiekszonych minifigurek LEGO z ich historia. Temat tylko posrednio zakupowy; z tej rodziny w sezonie liczy sie u nas 40875 Powiekszona minifigurka Pani Mikolajowej, ktora mamy w katalogu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "KLOCkast 2.0: Shenron, spinnery i… Terminator? (22.09-5.10.2026)",
+      "url": "https://fanklockow.pl/klockast-2-0-shenron-spinnery-i-terminator",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Podcast dwutygodniowy - format, ktorego nie prowadzimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) – 11371 Ulica handlowa",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-icons-11371-ulica-handlowa-2",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-10-06",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "empik"
+      ],
+      "notatki": "Zalegly mikropost dealowy z 21.09 (Empik 897,96, -17%) - uzupelnienie bazy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) – 10360 Nosiciel wahadłowców",
+      "url": "https://faniklockow.pl/2026/09/21/okazja-cenowa-icons-10360-nosiciel-wahadlowcow-5",
+      "data_publikacji": "2026-09-21",
+      "data_wykrycia": "2026-10-06",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "empik"
+      ],
+      "notatki": "Zalegly mikropost dealowy z 21.09 (Empik 779,99, -22%) - uzupelnienie bazy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO® 2027: City",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-city",
+      "data_publikacji": "2026-10-05",
+      "data_wykrycia": "2026-10-06",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pierwsze zapowiedzi City na 2027, u nich pod tagiem 'Niepotwierdzone'. Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Przedsprzedaż dziewiątej serii Bricklink Designer Program",
+      "url": "https://faniklockow.pl/2026/10/06/przedsprzedaz-dziewiatej-serii-bricklink-designer-program",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "POTWIERDZENIE NASZEJ GODZINY: pisza '6 pazdziernika, rowno o godz. 17.00' - dokladnie to, co mamy w /kalendarz-promocji-lego/#bldp. Wczoraj fanklockow podawal 16:15 i nie zmienilem na tej podstawie naszego 17:00, bo to byla godzina ich transmisji; drugie zrodlo to potwierdza. Dodaja limit serii 150 000 sztuk, czego u nas nie ma, ale to liczba bez wplywu na decyzje zakupowa w oknie przedsprzedazy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BrickLink Designer Program Series 9 – co i jak?",
+      "url": "https://fanklockow.pl/bricklink-designer-program-series-9-co-i-jak",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "Poradnik 'jak zlapac' zestawy z 9. serii BLDP. Mechanike i konsekwencje cenowe mamy opisane w kalendarzu (sprzedaz tylko przez Bricklink, bez punktow i progow, zestawy nie wchodza do normalnej dystrybucji, wiec nie stanieja)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Marki alternatywne na Dni Amazon Prime 2026",
+      "url": "https://fanklockow.pl/marki-alternatywne-na-dni-amazon-prime-2026",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "amazon"
+      ],
+      "notatki": "Tekst o przecenach Pantasy i Lumibricks (marki alternatywne, poza naszym zakresem - piszemy wylacznie o LEGO). Sprawdzilem natomiast samo okno: Wielkie Okazje Prime na Amazon.pl trwaja 6-7.10.2026, potwierdzone u zrodla (post Amazon.pl i komunikat aboutamazon o Prime Big Deal Days 6-7.10). Naszego kalendarza NIE uzupelniam: okno konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a sprawa programu afiliacyjnego jest juz ROZSTRZYGNIETA w afiliacje_rejestr.json od 08.2026 - PA-API wylaczone 15.05.2026, nastepca wymaga 10 kwalifikowanych sprzedazy w 30 dniach, decyzja: wracac przy realnej sprzedazy z serwisu. Nie odgrzewam tego jako zadania dla Marka."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Ostrzeżenie: MiniVerse.pl",
+      "url": "https://fanklockow.pl/ostrzezenie-miniverse-pl",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ostrzezenie przed konkretnym biznesem 'klockowym'. NIE powtarzamy zarzutu wobec nazwanej firmy na podstawie jednego zrodla i bez wlasnej weryfikacji - gdybysmy chcieli ten temat ruszyc, trzeba zaczac od sprawdzenia faktow u siebie, nie od przedruku."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Lumibricks na 10.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-lumibricks-na-10-2026",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Marka alternatywna Lumibricks - poza zakresem serwisu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Technic) – 42201 Badawcza łódź podwodna",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-technic-42201-badawcza-lodz-podwodna",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 106,26, -37%. Pojedyncze oferty Allegro mamy z feedu codziennie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Botanicals) – 10344 Dracena sandera",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-botanicals-10344-dracena-sandera-4",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 74,99, -40%. Ten sam zestaw, na ktorym 02.10 weryfikowalem karte Media Expertu (80,63) przy lataniu feedu ME."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) – 11389 Hail Mary",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-icons-11389-hail-mary",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 389,99, -17%."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Star Wars) – 75406 Wahadłowiec dowodzenia Kylo Rena",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-star-wars-75406-wahadlowiec-dowodzenia-kylo-rena-2",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 208,99, -30%."
     }
   ],
   "obserwacje_strategiczne": {

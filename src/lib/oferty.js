@@ -12,7 +12,59 @@ import redirectsMapa from '../data/redirects.json';
 import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
 import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
+import legoBezStrony from '../data/lego_strony_brak.json';
 import setyDane from '../data/sety.json';
+import dealePotwierdzone from '../data/deale_potwierdzone.json';
+
+// ── Które oferty w ogóle pokazujemy (audyt 16.09.2026) ─────────────────────
+//
+// Dwie reguły, obie przy ODCZYCIE (dane zostają surowe, jak przy odsiewie):
+//
+// 1. Wiek. Oferta starsza niż MAX_WIEK_OFERTY_DNI nie wchodzi do tabel, meta,
+//    JSON-LD ani deali. Powód: 16.09 w sety.json leżało 17 ofert z 12–16.08
+//    (sklepy bez feedu: proshop, rozetka, brixani…, plus trzy LEGO.com sprzed
+//    listingu) i każda miała normalny przycisk „Sprawdź w sklepie". Sklepy
+//    tygodniowe (Ceneo, Empik, Smyk, LEGO.com) mieszczą się w 14 dniach z zapasem.
+// 2. Podejrzany rynek. Oferta poniżej PROG_PODEJRZANEGO_RYNKU × RRP, gdy RRP jest
+//    POTWIERDZONE przez człowieka (rrp_potwierdzone.json), to najczęściej zaślepka
+//    sklepu albo podszywka — odsiew (28%) tego nie łapie. Taka oferta czeka na
+//    potwierdzenie w src/data/deale_potwierdzone.json (człowiek otworzył kartę
+//    sklepu); do tego czasu jej nie ma. 16.09: 60339, 10423, 76156 — prawdziwe
+//    wyprzedaże, potwierdzone przez Marka, stąd ten plik.
+export const MAX_WIEK_OFERTY_DNI = 14;
+export const PROG_PODEJRZANEGO_RYNKU = 0.5;
+const DZIS_MS = Date.now();
+
+/**
+ * Czy oferta jest dość świeża, żeby ją pokazać (bez daty = nie oceniamy).
+ * Oferta z polem `wazne_do` (RRRR-MM-DD) – akcja sklepu z ogłoszoną datą końca,
+ * np. mailing x-kom 23.09.2026 – znika po tym dniu niezależnie od sita 14 dni,
+ * żeby cena z promocji nie wisiała tydzień po jej zakończeniu. I odwrotnie:
+ * do tego dnia sito 14 dni jej nie zdejmuje (akcja x-kom 28.09–18.10 trwa 3 tygodnie).
+ */
+export function ofertaAktualna(o) {
+  if (o?.wazne_do) {
+    const koniec = Date.parse(o.wazne_do);
+    if (!Number.isNaN(koniec)) return DZIS_MS <= koniec + 864e5;
+  }
+  if (!o?.data) return true;
+  const ms = Date.parse(o.data);
+  return Number.isNaN(ms) || (DZIS_MS - ms) / 864e5 <= MAX_WIEK_OFERTY_DNI;
+}
+
+/** Powód, dla którego oferta jest „podejrzanym rynkiem", albo null. */
+export function podejrzanyRynek(o, nr) {
+  const klucz = String(nr ?? '');
+  const rrp = rrpPotwierdzone[klucz]?.cena;
+  if (!rrp || !(o?.cena > 0) || o.cena >= PROG_PODEJRZANEGO_RYNKU * rrp) return null;
+  const p = dealePotwierdzone.potwierdzone?.[klucz];
+  if (p && o.cena >= p.cena - 0.01) return null;
+  return `${Math.round(100 * (1 - o.cena / rrp))}% poniżej potwierdzonej ceny katalogowej (${rrp} zł) bez potwierdzenia w deale_potwierdzone.json`;
+}
+
+/** Oferty do pokazania: świeże i niepodejrzane. Jedyne sito dla sety.json i feedu. */
+export const filtrujOferty = (oferty, nr) =>
+  (oferty ?? []).filter((o) => ofertaAktualna(o) && podejrzanyRynek(o, nr) === null);
 import { wpisKatalogu } from './katalog.js';
 
 // Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
@@ -43,11 +95,15 @@ const katalogowaDoOdsiewu = (nr) => cenaKatalogowaSetu(nr, { sety: setyDane });
 export function ofertyZFeedu(wpisFeedu, nr = null) {
   if (!wpisFeedu) return [];
   const { data } = wpisFeedu;
+  // Data per sklep (`daty: {lego: '2026-09-15'}`), gdy sklep odświeża się w innym
+  // rytmie niż reszta feedu (LEGO.com co tydzień z listingu lego.pl, reszta
+  // codziennie od Łowcy); bez wpisu w `daty` obowiązuje wspólna `data`.
+  const daty = wpisFeedu.daty && typeof wpisFeedu.daty === 'object' ? wpisFeedu.daty : {};
   const surowe =
     wpisFeedu.oferty && typeof wpisFeedu.oferty === 'object'
       ? Object.entries(wpisFeedu.oferty)
           .filter(([, cena]) => typeof cena === 'number' && cena > 0)
-          .map(([sklep, cena]) => ({ sklep, cena, data }))
+          .map(([sklep, cena]) => ({ sklep, cena, data: daty[sklep] ?? data }))
       : wpisFeedu.cena
         ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }]
         : [];
@@ -60,11 +116,26 @@ export function ofertyZFeedu(wpisFeedu, nr = null) {
  */
 export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
   const perSklep = new Map();
-  for (const o of [...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)]) {
+  for (const o of filtrujOferty([...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)], nr)) {
     const stara = perSklep.get(o.sklep);
     if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
   }
   return [...perSklep.values()];
+}
+
+/**
+ * Sieci handlowe, w których zestaw z etykietą „Ekskluzywne” na LEGO.com mamy dziś
+ * w ofercie (klucze sklepów, najtańszy pierwszy). Decyzja Marka 27.09.2026: 115 ze
+ * 133 ekskluzywów miało ofertę w Empiku, Media Expercie, Planecie Klocków albo
+ * Smyku, a strona pisała „sprzedaje go tylko LEGO”. Nie liczymy LEGO, Ceneo
+ * (porównywarka) ani Allegro (resellerzy — ekskluzyw bywa tam zawsze).
+ */
+export function sieciEkskluzywu(nr, { sety = {}, feed = {} } = {}) {
+  const klucz = String(nr);
+  return polaczOferty(sety[klucz]?.oferty ?? [], feed[klucz] ?? null, klucz)
+    .filter((o) => !['lego', 'ceneo', 'allegro'].includes(o.sklep))
+    .sort((x, y) => x.cena - y.cena)
+    .map((o) => o.sklep);
 }
 
 /**
@@ -77,7 +148,7 @@ export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
  */
 export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
-  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz], klucz)].filter(
+  const kandydaci = filtrujOferty([...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz], klucz)], klucz).filter(
     (o) => o.sklep !== 'ceneo',
   );
   return kandydaci.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
@@ -147,10 +218,24 @@ export function linkAfiliacyjny(sklep, nr) {
 //           prowizji. Gdy deeplink zacznie działać, usunąć 'smyk' z tego zbioru.
 const SKLEPY_BEZ_PROWIZJI = new Set(['lego', 'smyk']);
 
+// Karta produktu na lego.pl po EOL (zasada Marka 16.09.2026). Zestaw wycofany
+// zostaje w tabeli z ceną katalogową, linkiem i dopiskiem „brak w sprzedaży",
+// bo na lego.pl dalej są zdjęcia, opis i wymiary — czytelnik ma po co tam pójść
+// (75377 Niewidzialna ręka: karta żyje, na niej „Produkcja zakończona").
+// Link znika dopiero, gdy karty nie ma; takie numery trzyma
+// `lego_strony_brak.json`, uzupełniane przez scripts/lego-strony.mjs.
+const BEZ_STRONY_LEGO = new Set((legoBezStrony.bez_strony ?? []).map(String));
+
+/** Czy na lego.pl jest jeszcze karta produktu (zdjęcia, opis) tego zestawu. */
+export const legoMaStrone = (nr) => !BEZ_STRONY_LEGO.has(String(nr));
+
 /** Wartość atrybutu rel dla linku do sklepu – „sponsored" tylko gdy zarabiamy. */
 export function relLinku(sklep, nr) {
-  if (SKLEPY_BEZ_PROWIZJI.has(sklep)) return 'nofollow';
-  return linkAfiliacyjny(sklep, nr) ? 'sponsored nofollow' : 'nofollow';
+  // `noopener`, bo linki do sklepów otwierają się w nowej karcie (decyzja Marka
+  // 16.09.2026); NIGDY `noreferrer` — filtr botów na /idz/ rozpoznaje klik
+  // z naszej strony po refererze / Sec-Fetch-Site (RUNBOOK „Filtr botów").
+  if (SKLEPY_BEZ_PROWIZJI.has(sklep)) return 'nofollow noopener';
+  return linkAfiliacyjny(sklep, nr) ? 'sponsored nofollow noopener' : 'nofollow noopener';
 }
 
 /**
@@ -174,3 +259,15 @@ export const fmtCena = (c) =>
   Number(c).toLocaleString('pl-PL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' zł';
 
 export const fmtElementy = (n) => Number(n).toLocaleString('pl-PL');
+
+// Polska odmiana rzeczownika po liczebniku: 1 element, 2–4 elementy, 5+ elementów
+// (12–14 zawsze „elementów”). Audyt tekstów 30.09.2026: „23 elementów”, „3 zdjęć”,
+// „4 ofert” na ~250 stronach – każdy szablon miał liczebnik z rzeczownikiem na sztywno.
+export function odmien(n, jeden, kilka, wiele) {
+  const x = Math.abs(Math.trunc(Number(n)));
+  if (x === 1) return jeden;
+  const d = x % 100, j = x % 10;
+  return j >= 2 && j <= 4 && !(d >= 12 && d <= 14) ? kilka : wiele;
+}
+/** „1 element”, „23 elementy”, „598 elementów” – liczba sformatowana po polsku. */
+export const ileElementow = (n) => `${fmtElementy(n)} ${odmien(n, 'element', 'elementy', 'elementów')}`;

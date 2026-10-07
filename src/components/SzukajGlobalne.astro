@@ -162,7 +162,8 @@
         const fraza = $input.value.trim();
         if (trafienia[aktywna]) {
           e.preventDefault();
-          location.href = `/zestaw/${trafienia[aktywna].nr}/`;
+          // szczegóły zestawu zawsze w nowej karcie (jak linki – patrz Base.astro)
+          window.open(`/zestaw/${trafienia[aktywna].nr}/`, '_blank', 'noopener');
         } else if (fraza) {
           e.preventDefault();
           location.href = `/szukaj/?q=${encodeURIComponent(fraza)}`;

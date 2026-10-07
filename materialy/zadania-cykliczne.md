@@ -1,69 +1,194 @@
 # Zadania cykliczne (Routines)
 
-**Zrzut realnej konfiguracji: 31.08.2026, 15:25.** Odczytany z Routines w koncie
-Marka (`list_triggers` + `list_sessions`), nie pisany z pamięci.
+Sekcja „Zrzut" niżej jest **generowana**, nie pisana. Leży między znacznikami
+`HARMONOGRAM:START` i `HARMONOGRAM:KONIEC`; wszystko poza nimi to wiedza pisana
+ręcznie i generator jej nie dotyka.
 
-Sekcja „Zrzut" **nie jest edytowana ręcznie** — przy każdym przeglądzie nadpisuje
-się ją w całości nowym odczytem i podbija datę w nagłówku. Powód: ręcznie pisany
-harmonogram rozjeżdżał się już trzy razy (patrz `NARZEDZIA.md`, sekcja
-„Harmonogram: generowany, nie pisany").
+Jak powstaje: sesja z konektorem `Claude_Code_Remote` woła `list_triggers`,
+zapisuje odpowiedź do pliku i uruchamia `node scripts/harmonogram-z-konta.mjs
+<plik>.json`. Routines nie mają API dostępnego dla skryptu w repo, więc odczyt
+musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Od 22.09.2026
+robi to sesja Code własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
+(`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`); Kontroler (pon 09:00) czyta gotowe pliki
+z repo i nie woła API.
 
-Zrzutu nie zrobi skrypt w repo — Routines nie mają API dostępnego z kontenera.
-Robi go sesja Claude Code wywołaniem `list_triggers`.
+**Dlaczego nie ręcznie.** Sprawdzone 14.09.2026: siedem z ośmiu wierszy kolumny
+„Ostatnie odpalenie" pokazywało 31.08, gdy konto mówiło 14.09. Zgadzał się
+jedyny wiersz ruszony tego dnia ręcznie, a nagłówek twierdził „stan 31.08" nad
+treścią opisującą 14.09. Harmonogram pisany ręcznie rozjechał się już cztery
+razy (patrz `NARZEDZIA.md`, „Harmonogram: generowany, nie pisany").
+
+**Zmierzone 14.09.2026: konektory są przypięte do Routine, nie do środowiska.**
+Wywołanie `list_triggers` zadziała tylko w sesji, która ma konektor
+`Claude_Code_Remote`. Rozkład na naszych runnerach *(stan z 14.09.2026;
+nieaktualny od 21.09 — patrz uwaga pod tabelą)*:
+
+| Runner | Konektorów | `Claude_Code_Remote` |
+|---|---|---|
+| Kontroler (raport tygodnia) | 6 | **tak** |
+| Łowca promocji | 0 | nie |
+| Scout nowości | 0 | nie |
+| Radar konkurencji | 0 | nie |
+| Wycofania | 0 | nie |
+| Backfill cen katalogowych | 0 | nie |
+
+Tak było do 21.09.2026. Tego dnia Kontroler odpalił się już **bez** konektora
+`Claude_Code_Remote` (panel nie daje go wybrać, API nie przyjmuje `connectors`),
+a od 22.09 jest inną, trwałą sesją. Konektor ma dziś wyłącznie sesja Code — żaden
+runner listy nie zobaczy, dlatego sekcję przepisuje Routine „Harmonogram z konta"
+z sesji Code. Pole `environment_id` nie jest zwracane
+w ogóle, a `session_request.environment_variables` jest puste u wszystkich
+dwunastu Routines i niczego o dostępach nie dowodzi.
+
+<!-- HARMONOGRAM:START — generuje scripts/harmonogram-z-konta.mjs, nie edytuj ręcznie -->
 
 ## Zrzut — runnery LEGO
 
-Cron w UTC, kolumna „PL" przy obecnym CEST (UTC+2). Odczyt objął **11 Routines
-na koncie** (pełna lista, bez paginacji).
+**Odczyt z konta: 05.10 07:46 (CEST, UTC+2).** Objął **16 Routines** — pełna lista, bez paginacji.
 
-| Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie | Trigger | Sesja |
+Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
+z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z konta" (pon 07:45 PL); Kontroler ją czyta.
+
+| Zadanie | Cron (UTC albo CRON_TZ) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Scout nowości | `0 3 * * *` | 05:00 | ✅ | 31.08 05:05 | `trig_01Nos3qQb8GJFAVMR1SyEEZT` | `session_012AZejbFzsfzkTh4FPaAkVg` |
-| Wycofania | `10 4 * * 1` | pon 06:10 | ✅ | 07.09 06:10 | `trig_01EZNzF51DPkHRyKkS7MhNBn` | `session_01KfWF14fJvwK78sBVG6XAz8` |
-| Radar konkurencji | `0 6 * * *` | 08:00 | ✅ | 31.08 08:01 | `trig_01UpMJdpeguEtby68saqBMpD` | `session_01UFkqKNwQexnxLN34HotM4G` |
-| Łowca promocji | `30 6 * * *` | 08:30 | ✅ | 31.08 08:41 | `trig_014koskPHBgxP79gLKcLqGvf` | `session_017FKg5b8kSCwbJd8r7xPrwD` |
-| Kontroler (raport tygodnia) | `0 7 * * 1` | pon 09:00 | ✅ | 31.08 09:11 — **SUCCEEDED** | `trig_01T8AhciW8JD651MrSMuEj7m` | świeża sesja przy każdym odpaleniu |
-| Backfill cen katalogowych | `0 2,10,18 * * *` | 04:00 / 12:00 / 20:00 | ❌ wyłączony | — | `trig_01D5ZK2mHY9CSXAQNnfwaV3q` | `session_01JSfUBJxddBbATeaXhQ6efS` |
-| Social: paczka tygodniowa | `0 8 * * 0` | ndz 10:00 | ❌ zawieszone | nigdy | `trig_01W1CSp8PM3DDN6UEyNLYe6H` | — |
-
-**Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) już nie istnieje** —
-był wyłączony od 15.08, zniknął z konta między 30 a 31.08. Nie odtwarzać:
-drugi przebieg Radara został wycofany świadomie 21.08 dla oszczędności limitu.
+| LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków) | `45 2 * * *` | 04:45 | ✅ | 05.10 04:45 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 0 5 * * *` | 05:00 | ✅ | 05.10 05:04 | ✅ SUCCEEDED | `trig_013QRUCfL8ZAa45eDkQUkWXD` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `CRON_TZ=Europe/Warsaw 0 8 * * *` | 08:00 | ✅ | 04.10 08:09 | ✅ SUCCEEDED | `trig_01WgDxbN6eB2QzAZha7dWBfx` |
+| LEGO pon 09:00 — Kontroler (raport tygodnia, runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 0 9 * * 1` | pon 09:00 | ✅ | 28.09 09:21 | ✅ SUCCEEDED | `trig_0167qmnWn3Qjjz8HTwZU1uEP` |
+| LEGO pon 06:10 — Wycofania (runner z pushem) | `CRON_TZ=Europe/Warsaw 10 6 * * 1` | pon 06:10 | ✅ | 05.10 06:11 | ✅ SUCCEEDED | `trig_01NLRxmXX6Y6bMwCV8sevTUs` |
+| LEGO pon 08:15 — Przypomnienie: zrzut Empiku i x-komu | `CRON_TZ=Europe/Warsaw 15 8 * * 1` | pon 08:15 | ✅ | — | — utworzony 2026-09-30, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01XaicucSMa3S5xGKhAFBkEk` |
+| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 5 * * 2` | wt 05:30 | ✅ | 29.09 05:34 | ✅ SUCCEEDED | `trig_01PwyDWKRCLydgDxAH8eRzzR` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 8 * * *` | 08:30 | ✅ | 04.10 08:44 | ✅ SUCCEEDED | `trig_01RjjGRUpJ8QVvhBQrLXiy7Z` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `CRON_TZ=Europe/Warsaw 30 9 * * *` | 09:30 | ✅ | 04.10 09:34 | ✅ SUCCEEDED | `trig_018D4PGvCaYkcDKDfNM3fjLZ` |
+| LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `CRON_TZ=Europe/Warsaw 45 7 * * 1` | pon 07:45 | ✅ | 05.10 07:45 | ✅ SUCCEEDED | `trig_01LU2xZxWqyCmNYv7rPyik3x` |
+| LEGO 09:45 — Zdjęcia → R2, drugi przebieg (po Łowcy) | `CRON_TZ=Europe/Warsaw 45 9 * * *` | 09:45 | ✅ | 04.10 09:45 | ✅ SUCCEEDED | `trig_01XAJy9vca6HUK6YY3XarLWM` |
 
 ### Pozostałe Routines na tym samym koncie
 
 Nie dotyczą serwisu, ale **dzielą z runnerami ten sam limit użycia** — a to on
 wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był pełny.
 
-| Zadanie | Cron (UTC) | PL | Enabled | Ostatnie odpalenie |
-|---|---|---|---|---|
-| Angielski — tygodniowy plan nauki | `0 5 * * 1` | pon 07:00 | ✅ | 31.08 07:19 |
-| Herzfaden — raport tygodniowy | `0 6 * * 1` | pon 08:00 | ✅ | 31.08 08:05 |
-| inwestycja IV kwartał | `0 7 * * 1` | pon 09:00 | ✅ | 31.08 09:23 |
-| `send_later` z 15.08 (jednorazowy) | — | — | ❌ | `auto_disabled_session_gone` |
+| Zadanie | Cron (UTC albo CRON_TZ) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
+|---|---|---|---|---|---|---|
+| Usunąć /podglad/ (kopie sprzed v2) | `jednorazowo 14.10 09:00` | — | ✅ | — | — utworzony 2026-09-30, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01RTWXNaHH82W1E4M1g65Ku6` |
+| Raport kliknięć — skutek CRO | `jednorazowo 09.10 09:00` | — | ✅ | — | — nigdy nie odpalony | `trig_01MCXZFZBymmddVXBNiWk6x1` |
+| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 07:00 | ✅ | 05.10 07:14 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
+| inwestycja IV kwartal | `0 8 * * 1` | pon 10:00 | ✅ | 28.09 10:07 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 11:00 | ✅ | 30.09 11:09 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
-Poniedziałek rano to wąskie gardło: **pięć zadań między 07:00 a 09:30**
-(Angielski, Herzfaden, Radar, Łowca, Kontroler + inwestycja). Przy kolejnym
-uderzeniu w limit to jest pierwsze miejsce do rozsunięcia.
+### Kolizje — zadania na tej samej minucie
 
-### Co zapisuje każdy runner
+- brak — żadne dwa włączone zadania nie startują w tej samej minucie
+
+<!-- HARMONOGRAM:KONIEC -->
+
+### Kontroler — jeden trigger *(14.09.2026)*
+
+Rano odpalały się dwa: stary z 11.08 (`trig_01T8AhciW8JD651MrSMuEj7m`) o 07:10
+UTC i nowy `[env projektu]` (`trig_01JhfcGMgzv1nBwiguH93m6N`) o 08:57. Oba
+`0 7 * * 1`, oba SUCCEEDED — dwa raporty w każdy poniedziałek i podwójne zużycie
+limitu w najciaśniejszym oknie tygodnia.
+
+**Stary został skasowany 14.09.** Najpierw tylko wyłączony, jako zapas na wypadek
+gdyby nowy okazał się gorszy — ale po przepisaniu promptu ten zapas przestał być
+zapasem: stary miał wersję sprzed 14.09 (3840 znaków, bez diagnozy środowiska,
+bez filtra botów, bez harmonogramu i bez prowizji zmierzonych), więc włączenie go
+cofnęłoby cały dzień pracy. Do tego wyłączony trigger dalej pokazywał
+`next_run_at`, co przy pobieżnym czytaniu wygląda jak zaplanowany przebieg.
+
+**Zostaje jeden: `trig_01JhfcGMgzv1nBwiguH93m6N`**, poniedziałek 09:00 PL.
+*(Nieaktualne od 22.09.2026: ten trigger też został skasowany; od 22.09 po
+południu obowiązuje `trig_0167qmnWn3Qjjz8HTwZU1uEP` na trwałej sesji — patrz
+„Historia zmian".)*
+
+Zmierzona różnica między nimi, zanim stary zniknął: stary miał trzy konektory
+(Adobe, Google Calendar, Claude_Code_Remote), nowy ma sześć (dodatkowo Alpha
+Vantage, Canva, Firecrawl). Oba miały `Claude_Code_Remote`, więc oba potrafiłyby
+odczytać harmonogram.
+
+Czego nie udało się ustalić: w jakim środowisku startował który.
+`session_request.environment_variables` jest puste u **wszystkich** Routines na
+koncie — to pole trzyma nadpisania, a nie zmienne środowiska, więc niczego nie
+dowodzi (pierwsza wersja tego akapitu twierdziła inaczej i była błędna).
+`list_triggers` zwraca `session_request.environment_id` **tylko dla triggerów
+przypiętych do trwałej sesji** (Scout, Radar, Łowca, Wycofania, Backfill:
+`env_01YL3diD2yzP3UGYsU7Txvx7` — to samo środowisko, w którym chodzą sesje
+robocze); dla zadań tworzących świeżą sesję pole jest puste — sprawdzone
+14.09.2026 na pełnej liście. Poszlaka co do starego Kontrolera jest taka, że
+raport starego z 14.09 (`materialy/kontroler-2026-09-14.md`, 07:30 UTC) nie ma
+sekcji o kliknięciach, EPC, widoczności ani indeksacji i rekomenduje „przywrócić
+poświadczenia" — a w środowisku projektu te poświadczenia są i działają
+(sprawdzone 14.09: `kliki-raport.mjs` i `gsc-raport.mjs` zwracają dane).
+Raport nie był więc błędny, tylko opisywał środowisko bez dostępów.
+
+**Trigger Radara 13:00 (`trig_01KbUQcgjek5iQFhbyokoLLi`) już nie istnieje** —
+był wyłączony od 15.08, zniknął z konta między 30 a 31.08. Nie odtwarzać:
+drugi przebieg Radara został wycofany świadomie 21.08 dla oszczędności limitu.
+
+### Poniedziałek rano — wąskie gardło
+
+Poniedziałek to najciaśniejsze okno tygodnia — chodzi wtedy wszystko codzienne
+plus trzy zadania tygodniowe, na jednym limicie konta. Rozkład po rozsunięciu
+z 14.09.2026 (czas PL):
+
+| PL | UTC | Zadanie |
+|---|---|---|
+| 05:00 | 03:00 | Scout nowości (codziennie) |
+| 06:10 | 04:10 | Wycofania |
+| 07:00 | 05:00 | Angielski |
+| 08:00 | 06:00 | Radar konkurencji (codziennie) |
+| 08:30 | 06:30 | Łowca promocji (codziennie) |
+| 09:00 | 07:00 | Kontroler |
+| 10:00 | 08:00 | inwestycja IV kwartał |
+
+Poza poniedziałkiem chodzą tylko trzy zadania codzienne (05:00, 08:00, 08:30)
+plus **Herzfaden w środę o 11:00**. *(Rozkład z 14.09 — od tego czasu doszły
+codzienne Zdjęcia → R2 04:30 i Alerty cen 09:30, wtorkowe Dane wt 05:30 oraz
+poniedziałkowe Harmonogram z konta 07:45 i Przypomnienie: Empik 08:15; aktualny
+obraz daje blok generowany wyżej.)*
+
+**Rozsunięcie 14.09.2026.** Były dwie kolizje, obie po cichu dzielące limit
+konta w tej samej minucie:
+
+- inwestycja IV kwartał startowała razem z Kontrolerem — przesunięta
+  z `0 7 * * 1` na `0 8 * * 1` (10:00 PL);
+- Herzfaden startował razem z Radarem — przeniesiony z poniedziałku 08:00
+  na **środę 11:00** (`0 6 * * 1` → `0 9 * * 3`), razem z nazwą i jednym
+  zdaniem w promptcie, żeby „poniedziałkowy raport" nie kłócił się z cronem.
+
+Po obu zmianach detektor pokazuje **zero kolizji**. Wolne pełne godziny
+w poniedziałkowym oknie (stan 14.09): 04:00, 09:00, 10:00, 11:00 UTC.
+
+Aktualną listę kolizji podaje blok generowany wyżej. Detektor rozwija crona na
+realne momenty tygodnia, a nie porównuje napisów — inaczej `0 6 * * *`
+i `0 6 * * 1` wyglądałyby na rozbieżne, choć w poniedziałki są tą samą minutą.
+Tamta kolizja przez to wisiała niezauważona.
+
+### Co zapisuje każdy runner *(stan 16.09.2026, z promptów)*
 
 | Zadanie | Pliki |
 |---|---|
-| Scout nowości | `sety.json`, `known_sets.json`, `katalog.json` (nazwy, roczniki) |
-| Wycofania | `wycofania.json` |
-| Łowca promocji | `oferty_feed.json`, `ceny_baza.json`, `redirects.json`, `sklepy.json`, `sety.json` (ceny), `src/pages/deale/*.md` |
-| Radar konkurencji | `konkurencja_baza.json` + rekomendacje redakcyjne |
-| Backfill | `katalog.json` → pole `cena_katalogowa` |
-| Kontroler | nic w repo — raport PDF na maila |
+| Scout nowości (codziennie 05:00) | `sety.json`, `known_sets.json`, `przecieki.json`; sygnały wycofań do `DZIENNIK.md` |
+| Wycofania (pon 06:10) | `wycofania.json` (jedyny autor); adnotacje pod sygnałami Scouta w `DZIENNIK.md` |
+| Radar konkurencji (codziennie 08:00) | `konkurencja_baza.json`; wpis „RADAR · Do zrobienia" w `DZIENNIK.md` |
+| Łowca promocji (codziennie 08:30) | `oferty_feed.json` (klucze `mediaexpert`, `planetaklockow`, `allegro`, `empik` przy zrzucie; `lidl` codziennie przez `ceneo-feed.mjs`; `smyk` w piątki), `ceny_baza.json`, `redirects.json` (gałęzie `planetaklockow`, `allegro`, `empik` przez `empik-redirects.mjs`), `sety.json` (oferty), `obrazy.json`, `src/pages/deale/*.md`, `src/data/historia-cen/RRRR-MM.jsonl`; w poniedziałek `materialy/kontrola-linkow-RRRR-MM-DD.md` (od 21.09) |
+| Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
+| Harmonogram z konta (pon 07:45, sesja Code, od 22.09) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md` |
+| Kontroler (pon 09:00) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
+| Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
+| Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
+| Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
+| Backfill (wyłączony) | `katalog.json` → `cena_katalogowa` |
 
 ### Uwagi do odczytu
 
-- **`last_fired_at` zwracają wszystkie triggery** — to na nim opiera się kolumna
-  „Ostatnie odpalenie". Pełny `last_run` ze statusem (`SUCCEEDED` / `FAILED`)
-  zwracają wyłącznie zadania tworzące świeżą sesję, czyli u nas Kontroler.
-  Dla runnerów przypiętych do trwałej sesji wiemy więc, **że** trigger wystrzelił,
-  ale nie **czy** przebieg się udał — dowodem jest dopiero commit w historii `main`.
+- **`last_run` ze statusem zwracają także triggery przypięte do trwałej sesji.**
+  Sprawdzone 14.09.2026 na pełnej liście: Scout, Radar, Łowca i Wycofania mają
+  `persist_session: true` i komplet statusów. Wcześniej stało tu, że status
+  dostajemy wyłącznie od zadań tworzących świeżą sesję — **to była nieprawda**
+  (albo API się zmieniło). Status jest pusty wyłącznie tam, gdzie trigger nigdy
+  nie wystrzelił: Backfill i Social. Mimo to `SUCCEEDED` mówi o przebiegu sesji,
+  nie o tym, że dane wylądowały w repo — dowodem zapisu jest commit w `main`.
 - **Odpalenie ≠ dane na produkcji.** Commity runnerów potrafiły spóźnić się
   7–12 godzin przy zakolejkowaniu na limicie (patrz `RUNBOOK.md`, „Runnery:
   opóźnione commity"). Przy diagnozie „strona ma stare ceny" sprawdzaj czas
@@ -79,16 +204,24 @@ uderzeniu w limit to jest pierwsze miejsce do rozsunięcia.
   nowym ID, bo prompt Routine cudzej sesji da się zmienić tylko przez
   delete+create. Nie włączać bez przeczytania „Bramki sanity" niżej.
 
-### Zmiana czasu — 25.10.2026
+### Zmiana czasu — 25.10.2026 *(rozwiązane 30.09.2026)*
 
-Crony są w UTC i nie znają polskiej zmiany czasu. Po przejściu na CET (UTC+1)
-**każdy runner przesunie się o godzinę wcześniej względem zegara**: Scout na
-04:00, Wycofania 05:00, Radar 07:00, Łowca 07:30, Kontroler pon 08:00.
+Od 30.09.2026 wszystkie crony runnerów LEGO założone przez sesję Code są zapisane
+w czasie polskim (`CRON_TZ=Europe/Warsaw …`): Scout, Dane wt, Wycofania,
+Harmonogram, Radar, Łowca, Kontroler, Alerty cen i Zdjęcia 09:45. Po przejściu
+na CET startują o tych samych godzinach co dziś — Łowca dalej o 08:30, po
+wylądowaniu feedu Media Expert (~07:40), a Alerty o 09:30, po Łowcy.
 
-Dla Łowcy to jest realny problem, nie kosmetyka: godzina 08:30 została dobrana
-pod moment lądowania nocnego feedu Media Expert (~07:40 czasu polskiego).
-Po zmianie czasu przebieg wypadnie o 07:30 i **znowu zacznie łapać wczorajszą
-wieczorną wersję**. Do przestawienia razem ze zmianą czasu, nie później.
+Godzinę bez strefy (UTC) mają tylko zadania zapisane w panelu — panel nie
+zapisuje strefy. Po 25.10 przesuną się o godzinę wcześniej i to nie szkodzi:
+
+| Zadanie | Dziś (CEST) | Po 25.10 (CET) |
+|---|---|---|
+| Zdjęcia → R2 (pierwszy przebieg) | 04:45 | 03:45 |
+| Przypomnienie: Empik (mail do Marka) | pon 08:15 | pon 07:15 |
+| Angielski / inwestycja / Herzfaden (spoza serwisu) | 07:00 / 10:00 / śr 11:00 | godzinę wcześniej |
+
+Zadanie, którego pora ma znaczenie, zakłada sesja Code z `CRON_TZ`, nie panel.
 
 ---
 
@@ -101,22 +234,45 @@ Podział wynika z charakteru pracy, nie z prestiżu modelu:
 - **Opus 5** — Scout (pisze opisy zestawów), Radar (ocenia konkurencję
   i rekomenduje tematy), Kontroler (analiza tygodnia). Zadania wymagające
   sądu i dobrego polskiego.
-- **Fable 5** — Łowca, Wycofania, Backfill. Po przeniesieniu parsowania do
+- **Fable 5** — Łowca, Wycofania (Backfill skasowany 30.09.2026). Po przeniesieniu parsowania do
   skryptów to praca mechaniczna: uruchom, porównaj liczby, zapisz JSON.
+- **Sonnet 5** — „Dane wt 05:30" (trwała sesja od 22.09.2026).
 
-Zgodne ze stanem faktycznym sesji na 31.08.
+Zgodne ze stanem faktycznym sesji na 31.08 (Dane wt i Kontroler jako trwała
+sesja Opus 5 dopisane 22.09). Pole `model` na koncie jest puste u wszystkich
+Routines LEGO — model to model sesji; sprawdza się go `get_session`
+(`session_context.model`), nie `list_triggers`.
 
 Model jest własnością SESJI, nie Routine: `update_trigger --model` działa tylko
-dla zadań tworzących świeżą sesję (Kontroler). Runner przypięty do trwałej sesji
+dla zadań tworzących świeżą sesję (Zdjęcia → R2 04:45 i 09:45, Alerty cen,
+Przypomnienie: Empik). Runner przypięty do trwałej sesji
 zachowuje jej model — żeby go zmienić, trzeba `create_session` z nowym modelem
 i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 
 ## Jak edytować zadanie
 
+**Routine założony przez API (`create_trigger`) nie podpina repozytorium** — świeża
+sesja startuje z pustym `/home/user` (`session_request.config.sources: []`), a
+sesja bez URL-a odmawia szukania repo (klasyfikator blokuje przeszukiwanie
+poświadczeń — słusznie). Sprawdzone 15.09.2026 na „Zdjęcia → R2": sesja
+zakończyła się czysto, skrypt nie ruszył. Dlatego prompt każdego takiego Routine
+zaczyna się od `git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`
+(repo jest publiczne) i `npm ci`, gdy skrypt potrzebuje zależności. Routine
+z panelu claude.ai też **nie ma** repo w źródłach — sprawdzone 21.09 (Kontroler)
+i 22.09 (Dane wt): `sources: None`, push odrzucony; klon działa tylko do odczytu.
+Pushować może wyłącznie trwała sesja założona `create_session(source_url)`.
+Prompt Routine ze świeżą sesją **da się** zmienić przez `update_trigger` —
+ograniczenie delete+create dotyczy tylko trwałych sesji.
+
 Prompt Routine przypiętej do cudzej sesji **nie da się** zmienić przez
 `update_trigger` („editing the prompt … is not available via this tool") —
 trzeba `delete_trigger` + `create_trigger` z tym samym `persistent_session_id`.
-Nazwę, cron i stan `enabled` można zmieniać normalnie.
+Nazwę, cron i stan `enabled` można zmieniać normalnie. **Potwierdzone
+14.09.2026** próbą no-op na Wycofaniach (ten sam prompt, API odmówiło) i
+odtworzeniem czterech runnerów przy wpinaniu wysyłki maili. Kolejność
+bezpieczna: najpierw `create_trigger` nowego, odczyt z konta, dopiero potem
+`delete_trigger` starego — żeby nie było okna bez runnera. Parametr
+`connectors` w `create_trigger` jest w tej organizacji niedostępny; pomiń go.
 
 **Nie kasuj i nie archiwizuj sesji runnera.** Trigger straci cel i wyłączy się
 sam z `ended_reason: auto_disabled_session_gone` — bez ostrzeżenia i bez błędu.
@@ -149,7 +305,17 @@ Ceneo odświeża osobno `scripts/ceneo-feed.mjs`, ceny Empiku wchodzą ze zrzutu
 przez skill `klocki-ceny-empik`. Powód zmiany: konto uderzyło w tygodniowy limit
 i sesje Łowcy oraz Backfillu dostawały status `rejected`.
 
-## Backfill — obowiązkowa bramka sanity *(od 30.08.2026)*
+**Empik ma inny rytm niż Łowca.** Łowca chodzi codziennie o 08:30, a zrzut
+Empiku robi Cowork **raz w tygodniu, w poniedziałek** — Empik blokuje ruch
+serwerowy, więc katalog trzeba przejść lokalną przeglądarką. Import zrzutu jest
+więc poza codzienną instrukcją Łowcy: plik idzie **do Code jako załącznik**
+(domyślnie, patrz `NARZEDZIA.md` „Co gdzie wrzucać") albo do sesji Łowcy z notką;
+importuje go `scripts/empik-import.mjs`, a po nim
+`node scripts/empik-redirects.mjs <plik> --usun-martwe` (deeplinki produktowe).
+Wniosek praktyczny: zmiany dotyczące Empiku wchodzą do serwisu dopiero przy
+najbliższym poniedziałkowym zrzucie, nie następnego dnia.
+
+## Backfill — obowiązkowa bramka sanity *(od 30.08.2026; Backfill skasowany 30.09.2026 — reguła zostaje dla każdej sesji wpisującej ceny katalogowe)*
 
 Przed każdym commitem Backfill MUSI uruchomić `node scripts/kontrola-rrp.mjs`
 i przejrzeć sekcję „Test rynkowy": cena rynkowa z feedów poniżej 50% wpisywanej
@@ -167,6 +333,171 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**02.10.2026 (historia cen we właściwym miejscu)**
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`, ten sam cron
+  `CRON_TZ=Europe/Warsaw 30 8 * * *`): nowy `trig_01RjjGRUpJ8QVvhBQrLXiy7Z`, stary
+  `trig_01L8awRzxEbeUSQsad7ye18Y` skasowany. Powód: `update_trigger` nie zmienia promptu z innej
+  sesji niż ta, do której Routine wpada („a routine's instructions can be changed only from the
+  conversation the routine posts into") — delete+create zostaje jedyną drogą i tak to jest zapisane
+  w CLAUDE.md. Kolejność: najpierw create, potem delete, żeby ani na chwilę nie zostać bez Routine'a.
+- Co weszło do promptu: `node scripts/historia-cen.mjs` jako trzeci skrypt w kroku PRZED COMMITEM
+  (do dziś wołał go `feedy-lego.py`, czyli przed naniesieniem cen — seria spóźniała się o dobę),
+  pole `_meta.mediaexpert_karty` do raportu, weryfikacja kart Media Expertu przez Firecrawla
+  zamiast WebFetcha (ME oddaje 403) i liczba nowych wpisów historii w podsumowaniu.
+- Wiersz Łowcy w sekcji „Zrzut" powyżej ma jeszcze stare ID — przepisze go poniedziałkowy
+  `harmonogram-z-konta.mjs`, nie poprawiamy ręcznie.
+
+**30.09.2026 (po audycie Routines)**
+- Crony runnerów LEGO przepisane na `CRON_TZ=Europe/Warsaw` z tymi samymi godzinami PL (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt) — zmiana czasu 25.10 nic nie przesunie.
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`): nowy `trig_01L8awRzxEbeUSQsad7ye18Y`, prompt z buildem przed pushem, regułą konfliktu dla `historia-cen/` i `seo_tytul`/`seo_opis` w postach.
+- Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`: `trig_01LU2xZxWqyCmNYv7rPyik3x` (stary `trig_01GJ2ecMp3gwtkZ1pFyUPKLH` skasowany), plus kontrola wielkości sesji runnerów.
+- Alerty cen: nowy `trig_018D4PGvCaYkcDKDfNM3fjLZ` (09:30 PL, krok 2 sprawdza datę cen w `oferty_feed.json`), stary z panelu `trig_01BLKenDsuWfNpJ4iFdCN9Vc` skasowany.
+- Zdjęcia → R2: drugi przebieg 09:45 PL `trig_01XAJy9vca6HUK6YY3XarLWM` (po Łowcy); pierwszy z panelu przesunięty na 04:45.
+- Przypomnienie o zrzutach: nowe wspólne dla Empiku i x-komu (decyzja Marka: x-kom co tydzień jak Empik) — `trig_01XaicucSMa3S5xGKhAFBkEk`, pon 08:15 PL; mail każe napisać w Coworku „zrzuty tygodniowe" (nowy skill `klocki-zrzuty-tygodniowe`). Stare „Przypomnienie: zrzut Empiku" z panelu (`trig_01BWC5ydHBNVE5Q8usmf62PN`) do skasowania przez Marka.
+- Skasowane: „Empik co tydzien" (skill w chmurze, Empik blokuje — nic nie dostarczał) i Backfill (wyłączony od 30.08). Przypomnienie o Empiku zostaje — to mail do Marka.
+
+**23.09.2026 (przedpołudnie)**
+- Scout: nowy trigger `trig_013QRUCfL8ZAa45eDkQUkWXD` (ta sama sesja, ten sam cron) z regułą `bez_rrp` w Lukach katalogu; stary `trig_01DmDAaz993ddzz61pQj9o9X` wyłączony, do skasowania w panelu przez Marka (sesja Code nie może kasować triggerów — klasyfikator trybu auto).
+
+**23.09.2026 (rano)**
+- Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`)
+  pod ID `trig_017omSdzXXrZQTjBBp4UfVTg`: nowa sekcja „SKRYPTY ROBOCZE POZA REPO"
+  — pierwszy przebieg w nowej sesji utknął na 40 minut na pytaniu o uprawnienia,
+  bo runner zrobił `cat > lowca-zapisz-dzis.py` w katalogu repo (tryb auto pyta
+  o tworzenie plików poza `src/data`, a nikt nie odpowiada). Odblokowany
+  jednorazowym Routine do sesji z instrukcją heredoc/scratchpad; commit eba381f
+  o 07:15 UTC. Do promptu weszły też oczekiwane rzędy wielkości Allegro po
+  zmianie feedu (~6 400; alarm poniżej 4 000 i powyżej 10 000).
+
+**22.09.2026 (po południu, po audycie)**
+- Kontroler odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_0167qmnWn3Qjjz8HTwZU1uEP`: cel „20 000 zł w grudniu" zastąpiony czterema
+  kamieniami milowymi (decyzja Marka 22.09), pomiar Allegro/PK zostawiony bez
+  ręcznego odczytu (decyzja Marka), `sitemap-priorytet.xml` zdjęta z repo, punkty
+  odniesienia z 22.09, zakaz tezy „zakaz audytu niewdrożony" dla kliknięć sprzed 21.09.
+- Łowca w NOWEJ trwałej sesji `session_01SdxKtAvW8UmktsuXrsPYga` (Fable 5,
+  repo w źródłach) pod ID `trig_01Fu1fB4ZmZN6daDtHqEDWZy` — poprzednia sesja
+  `session_017FKg5b8kSCwbJd8r7xPrwD` miała 753 k z 1 M tokenów kontekstu po
+  37 dniach (decyzja Marka 22.09). Prompt bez zmian poza krokiem PRZED COMMITEM:
+  `generuj-obrazy.mjs` + `porzadek-ofert.mjs` (audyt 22.09: 905 zestawów po
+  cenie zamiast alfabetycznie). Triggery przejściowe z tego dnia
+  (`trig_013VvvPKDiN4W8Bmj4qwd9LK`, `trig_01XWKB1HjSS5riTkB37bQK5V`) skasowane.
+  Stara sesja zostaje nieużywana do 29.09 (gdyby trzeba było coś z niej odczytać),
+  potem do archiwizacji.
+
+**22.09.2026 (po dwóch nieudanych pushach runnerów ze świeżej sesji)**
+- „Dane wt 05:30" przeniesiony do trwałej sesji z repo
+  (`session_011Ced7USAHUBBsCPZ1os3F9`, Sonnet 5, dry-run pushu OK) pod nowym ID
+  `trig_01PwyDWKRCLydgDxAH8eRzzR`. Stary `trig_012JWbmYwHb59sYazo6K9X33`
+  (założony z panelu, `sources: None`) przebiegł 22.09 03:36 bez commita —
+  sesja Code nie może go skasować ani wyłączyć (Routine z panelu edytuje tylko
+  Marek): **do skasowania z panelu**, inaczej we wtorek odpalą się oba
+  *(skasowany przez Marka 22.09 przed odczytem z konta 08:50)*.
+- Scout odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_01DmDAaz993ddzz61pQj9o9X`: sekcja „GIT I PAMIĘĆ" — przy „forced update"
+  wkleja reflog zamiast tezy o przepisaniu historii, format `przecieki.json`
+  (wcięcie 1) uznany za docelowy, zakaz powtarzania uwag bez dowodu z bieżącego
+  przebiegu, sekcja „Luki katalogu" w podsumowaniu.
+- Kontroler przeniesiony do trwałej sesji z repo (`session_01M8qMJFfKHEozBSGXjAKP4n`,
+  Opus 5) — panel nie daje pola na konektor, więc krok „harmonogram z konta"
+  przejęła sesja Code własnym Routine „LEGO pon 08:00 — Harmonogram z konta"
+  (`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`, self-bind, godzinę przed Kontrolerem);
+  Kontroler czyta pliki z repo, nie woła API. Prompt: `materialy/kontroler-prompt-2026-09-22.md`.
+  Do skasowania z panelu przez Marka (sesja Code: jeden z panelu, drugi
+  zablokowany przez klasyfikator uprawnień): stary `trig_01JhfcGMgzv1nBwiguH93m6N`
+  oraz założony 22.09 z panelu `trig_012F22qZPFRvBhxG2HUG9puV` („Raport kontrolera
+  — wynik tygodnia") — ten drugi ma w konfiguracji `sources: null` i sześć
+  konektorów bez `Claude_Code_Remote`, więc też nie pushuje ani nie czyta
+  harmonogramu. Zostaje wyłącznie `trig_01EDEhtPiW4AVSAiGg9Co1mx`
+  *(oba skasowane przez Marka 22.09 przed odczytem z konta 08:50 — na liście
+  z konta jest już tylko ten jeden Kontroler)*.
+- Harmonogram z konta przesunięty na pon 07:45 PL (`45 5 * * 1`), żeby nie
+  kolidował z Radarem o 08:00.
+
+**16.09.2026 (po audycie końcowym, decyzje Marka)**
+- Łowca odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_013VvvPKDiN4W8Bmj4qwd9LK`: krok IMPORT EMPIKU woła
+  `scripts/empik-import.mjs` (reguły w skrypcie, nie w pamięci sesji); nowy
+  krok PODEJRZANY RYNEK — `scripts/podejrzany-rynek-mail.mjs` wysyła Markowi
+  poranny mail z ofertami poniżej 50% potwierdzonego RRP do sprawdzenia
+  (klucz `podejrzane` w raporty_mail.json). Stary `trig_015CVad7UA3mJpXYWxuEwfNo`
+  skasowany od razu.
+- Kontroler (`update_trigger`, świeża sesja): pomija zadania z linią
+  „→ zamknięte" / „→ Wycofania", rozpoznaje wpisy Scouta po „SCOUT ·" + „wycofa",
+  sekcję „Zadania bez właściciela" wysyła mailem do Marka i Piotra (klucz
+  `kontroler`).
+- Wtorkowy Routine przemianowany przez Marka na „Dane wt 05:30 — katalog
+  LEGO.pl + ceny Ceneo i Smyk" (krok 6a: Smyk); generator harmonogramu
+  rozpoznaje nasze Routine po środowisku i prompcie, nie po prefiksie nazwy.
+
+**15.09.2026 (wieczór, po audycie 2)**
+- Łowca odtworzony (delete+create, ta sama sesja) pod ID
+  `trig_015CVad7UA3mJpXYWxuEwfNo`: import zrzutu Empiku (ceny z `daty.empik`,
+  `empik-redirects.mjs --usun-martwe`), ochrona kluczy `ceneo/lego/empik/smyk`
+  przy kasowaniu ofert nieobecnych w feedach, gałąź `allegro` nadpisywana bez
+  kasowania (append-only), `daty[sklep]` przy każdej cenie, `generuj-obrazy.mjs`
+  przed commitem, walidacja liczby wpisów w każdej gałęzi, format plików bez zmian.
+- Wycofania odtworzone pod ID `trig_01NLRxmXX6Y6bMwCV8sevTUs`: diagnoza,
+  listing lego.pl (`lego_pl_widziano`) jako arbiter „czy LEGO sprzedaje", zakaz
+  edycji katalogu, `audyt-wycofan.mjs` bez `--napraw` po każdym przebiegu,
+  adnotacje pod sygnałami Scouta w DZIENNIKU. Stare ID obu skasowane od razu.
+
+**15.09.2026 (późne popołudnie)**
+- Scout odtworzony (delete+create, ta sama stała sesja) pod ID
+  `trig_01Rvt1kEmrv2Ltis4oYJS5EN`, cron `0 3 * * *`: krok PRZECIEKI — właściciel
+  `src/data/przecieki.json` (dopisywanie z drabiną pewności, rozstrzygnięcia po
+  premierze), przecieki nie wchodzą do `sety.json`. Stary
+  `trig_01VSNGR5PnnobJW9i9x5PAmQ` skasowany od razu. Kontroler (prompt z konta):
+  repo najpierw, `routines.json` w /tmp, commit obu generowanych plików, huby
+  i inspekcja URL co tydzień, „Zadania bez właściciela". Prompty czterech Routine
+  z panelu (LEGO.pl, Alerty, R2, Empik) wymienione przez Marka; Social skasowany.
+
+**15.09.2026 (wieczór)** — Marek założył w panelu (z repo jako źródłem) cztery
+Routine ze świeżą sesją: Zdjęcia → R2 `trig_01EAhU5SKn2GuXxY14WYxNkJ` (`0 2 * * *`),
+Przypomnienie Empik `trig_01BWC5ydHBNVE5Q8usmf62PN` (`15 6 * * 1`, 08:15 PL),
+LEGO.pl katalog `trig_012JWbmYwHb59sYazo6K9X33` (`0 3 * * 2`, wtorek 05:00 PL),
+Alerty cen `trig_01BLKenDsuWfNpJ4iFdCN9Vc` (`30 7 * * *`, 09:30 PL). Wersje z API
+(`trig_01TSSqtf4ke7wfxwbmkAp6GM`, `trig_01RimXSd1NCqbbRP16MBrjVu`) skasowane —
+nic nie chodzi podwójnie. Prompty: `materialy/routine-prompty.md`.
+
+**15.09.2026 (po południu)**
+- Łowca ponownie odtworzony (delete+create) pod ID `trig_01HUdmCx3Z57H7VcX2uLLuQp`:
+  reguła postów dealowych (≥35% od RRP ≥300 zł w sklepie, historyczne minimum na
+  zestawie z wycofań albo akcja sklepu ≥5 zestawów; najwyżej 2 tygodniowo, bez
+  powtórki 14 dni) i zakaz dotykania klucza `lego` w feedzie (należy do Routine
+  LEGO.pl). Stary `trig_01AdSEcWEMGmYPJyESzoxE6s` skasowany od razu, żeby nie
+  odpalił podwójnie o 06:38.
+- Zaprojektowany Routine „LEGO wt 05:00 — LEGO.pl katalog" (cron `0 3 * * 2`):
+  `firecrawl-legopl.mjs` → `lego-ceny.mjs` → `wczytaj-rrp.mjs` → `lego-redirects.mjs`
+  → build → push. Prompt w `materialy/routine-prompty.md` (kopia z konta);
+  zakłada go Marek w panelu z repo jako źródłem (Routine z API startuje bez repo
+  i wpada na klasyfikator „Code from External"). Godzina 05:00 PL leży przed
+  Scoutem (05:06) — zaciąg trwa kilkanaście minut, więc Scout może wystartować
+  w trakcie; oba piszą inne pliki (Scout: nowości/dziennik, LEGO.pl: feed, sety,
+  katalog, rrp, redirects), a push idzie przez rebase.
+
+**15.09.2026**
+- Łowca i Radar **odtworzone** (delete+create): Łowca `trig_01AdSEcWEMGmYPJyESzoxE6s`
+  z krokiem 0 (`diagnoza.mjs --szybko`); Radar `trig_01WgDxbN6eB2QzAZha7dWBfx`
+  z nowym formatem raportu (najwyżej 5 pozycji × 4 linijki: fakt / mamy? /
+  zrobić / kto) i rejestrem „RADAR · Do zrobienia" w DZIENNIK.md. Powód: Marek —
+  „radar zasypuje mnie mnóstwem tematów, nieczytelne".
+- Nowy Routine „LEGO pon 07:00 — Przypomnienie: zrzut Empiku" (`0 5 * * 1`,
+  świeża sesja): mail na kontakt@ przez `wyslij-raport.py --zadanie przypomnienie`.
+  Decyzja Marka: zrzut Empiku ręcznie, wystarczy przypominajka.
+- Scout i Wycofania **odtworzone** (delete+create, te same sesje i crony):
+  Scout `trig_01VSNGR5PnnobJW9i9x5PAmQ` — zakaz edycji `wycofania.json`, sygnały
+  wycofań zapisuje do `DZIENNIK.md`; Wycofania `trig_01S5hMfivCCFytZSqces2pYw` —
+  jedyny autor pliku, wszystkie serie, czyta sygnały Scouta, źródła + StoneWars
+  i PromoBricks. Powód: 15.09 Scout dopisał 16 wycofań bez reguł w promptcie,
+  a runner Wycofań (tygodniowy, decyzja Marka) jeszcze nie odpalił.
+- Nowy Routine „LEGO 04:00 — Zdjęcia → R2 (Planeta Klocków)"
+  (`trig_01TSSqtf4ke7wfxwbmkAp6GM`, cron `0 2 * * *`, świeża sesja na każdy
+  przebieg). Uruchamia `node scripts/r2-obrazy.mjs`: listuje kubełek R2
+  i dogrywa zdjęcia z Planety, których worker sam nie pobierze. Bez zaległości
+  trwa kilkanaście sekund. Godzina 04:00 PL leży przed Scoutem (05:06) i nie
+  koliduje z niczym. Powód: audyt 14.09 — 348 z 608 zdjęć galerii dawało 502.
 
 **31.08.2026**
 - Łowca przesunięty na 08:30 (cron `30 6 * * *`). Nocny feed ME ląduje na GCS

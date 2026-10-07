@@ -121,7 +121,7 @@ const {
       $input.setAttribute('aria-expanded', 'true');
       $licznik.textContent =
         wszystkie.length > trafienia.length
-          ? `${wszystkie.length} trafień, pokazano ${trafienia.length}`
+          ? `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : [2,3,4].includes(wszystkie.length % 10) && ![12,13,14].includes(wszystkie.length % 100) ? 'trafienia' : 'trafień'}, pokazano ${trafienia.length}`
           : `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : 'trafień'}`;
     }
 
@@ -134,7 +134,8 @@ const {
       $input.setAttribute('aria-activedescendant', opcje[aktywna].id);
     }
 
-    const idz = (w) => { location.href = `/zestaw/${w.nr}/`; };
+    // szczegóły zestawu zawsze w nowej karcie (jak linki – patrz Base.astro)
+    const idz = (w) => { window.open(`/zestaw/${w.nr}/`, '_blank', 'noopener'); };
 
     $input.addEventListener('focus', wczytaj, { once: true });
     $input.addEventListener('input', rysuj);

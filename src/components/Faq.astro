@@ -1,0 +1,26 @@
+---
+// Widoczna sekcja „Najczęstsze pytania" pod treścią artykułu lub prezentownika.
+//
+// Dane strukturalne FAQPage budują layouty (Artykul.astro, PrezentownikSerii.astro)
+// z tej samej listy. Do 09.09.2026 FAQ trafiało WYŁĄCZNIE do JSON-LD, a Google
+// wymaga, żeby treść z danych strukturalnych była widoczna na stronie – bez
+// tego schema jest bezużyteczne, a przy kontroli ręcznej może zaszkodzić.
+//
+// Renderuje się tylko przy co najmniej dwóch pytaniach – jedno pytanie to nie
+// jest sekcja FAQ. Ten sam wygląd co FAQ na kartach zestawów (.faq-setu).
+const { faq = [], naglowek = 'Najczęstsze pytania' } = Astro.props;
+const pytania = faq.filter((p) => p?.q && p?.a);
+---
+{pytania.length >= 2 && (
+  <section class="faq-tekstu" aria-labelledby="faq-naglowek">
+    <h2 id="faq-naglowek">{naglowek}</h2>
+    <dl class="faq-setu">
+      {pytania.map((p) => (
+        <>
+          <dt>{p.q}</dt>
+          <dd>{p.a}</dd>
+        </>
+      ))}
+    </dl>
+  </section>
+)}

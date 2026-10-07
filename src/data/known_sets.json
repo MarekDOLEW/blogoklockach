@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-09-07",
+  "data_aktualizacji": "2026-10-07",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1168,
+  "liczba_setow": 1183,
   "sety": [
     "10280",
     "10281",
@@ -47,6 +47,7 @@
     "10368",
     "10369",
     "10370",
+    "10371",
     "10372",
     "10374",
     "10412",
@@ -218,6 +219,8 @@
     "21370",
     "21371",
     "21372",
+    "21373",
+    "21375",
     "21376",
     "21582",
     "21587",
@@ -382,6 +385,7 @@
     "40894",
     "40896",
     "40897",
+    "40900",
     "40901",
     "40902",
     "40905",
@@ -870,6 +874,8 @@
     "72060",
     "72061",
     "72150",
+    "72152",
+    "72153",
     "72154",
     "72155",
     "72156",
@@ -1128,6 +1134,7 @@
     "77081",
     "77082",
     "77093",
+    "77094",
     "77117",
     "77118",
     "77119",
@@ -1170,7 +1177,15 @@
     "80118",
     "80119",
     "80120",
-    "80121"
+    "80121",
+    "910059",
+    "40899",
+    "11390",
+    "71873",
+    "71875",
+    "67008",
+    "67009",
+    "67012"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1215,18 +1230,6 @@
       "status": "numer bez danych"
     },
     {
-      "numer": "11387",
-      "nazwa": "Zestaw swiateczny / zimowa wioska (Icons)",
-      "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna nazwe, cene i karte PL",
-      "premiera": "2026-10"
-    },
-    {
-      "numer": "10371",
-      "nazwa": "nieujawniony zestaw Botanicals",
-      "premiera": null,
-      "status": "NOWE 2026-08-22: numer zarezerwowany w Brickset (rocznik 2026), karta bez nazwy, liczby elementów i ceny. Czekamy na ujawnienie."
-    },
-    {
       "numer": "10481",
       "nazwa": "nieujawniony zestaw DUPLO",
       "premiera": null,
@@ -1245,22 +1248,10 @@
       "status": "NOWE 2026-08-22: polybag promocyjny, 49 elementów, brak RRP w Brickset. Poza katalogiem serwisu (nie do kupienia osobno) — śledzimy."
     },
     {
-      "numer": "21373",
-      "nazwa": "Downton Abbey (Ideas)",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. Brak w katalog.json."
-    },
-    {
-      "numer": "21375",
-      "nazwa": "Godzilla (Ideas)",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: karta w Brickset bez liczby elementow i ceny, status „jeszcze nie wydany”. W katalog.json numer jest, ale bez danych."
-    },
-    {
       "numer": "11390",
-      "nazwa": "nieujawniony zestaw Icons",
-      "premiera": null,
-      "status": "NOWE 2026-08-23: numer zarezerwowany w Brickset, karta bez danych."
+      "nazwa": "Shenlong / Dragon Ball (Icons) — zapowiedz niepotwierdzona",
+      "premiera": "2026-11",
+      "status": "UJAWNIONY 2026-09-30: karta Brickset z oficjalna nazwa „Dragon Ball: Shenron & Goku”, 1764 el., 18+, launchDate 2026-11-01, availability „Retail - limited”, RRP DE 139,99 EUR. Wpis dodany do sety.json, przeciek rozstrzygniety jako potwierdzony. Polskiej ceny katalogowej brak."
     },
     {
       "numer": "21364",
@@ -1270,9 +1261,9 @@
     },
     {
       "numer": "40899",
-      "nazwa": "nieujawniony zestaw z serii PlayStation",
-      "premiera": "2026",
-      "status": "2026-09-05: StoneWars pokazuje pierwsze zdjecie i nazywa zestaw 'Astro Bot', stawiajac pytanie, czy to gratis do 72306 czy osobna pozycja. JEDNO ZRODLO — karta Brickset nadal '{?}', PromoBricks milczy. Numer siedzi w nowej serii PlayStation. Zapowiedz niepotwierdzona."
+      "nazwa": "Astro Bot — gratis do konsoli PlayStation (niepotwierdzone)",
+      "premiera": "2026-10",
+      "status": "2026-09-14. Brickset: 276 elementow, start 2026-10-01, nazwa nadal '{?}'. PromoBricks (artykul 'Astrobot und die LEGO Sony PlayStation Konsole') pisze wprost: wedlug PRZECIEKOW Z REDDITA zestaw Astro Bot to gratis (GWP) o numerze 40899, dodawany przy zakupie konsoli 72306; 276 elementow, ok. 20 cm z podstawka. Serwis SAM zaznacza: 'bislang keine offiziellen Infos'. StoneWars od 05.09 pyta, czy to gratis czy osobny zestaw. STATUS: nadal niepotwierdzone — oba serwisy relacjonuja TEN SAM przeciek z Reddita i zadne nie powoluje sie na zrodlo oficjalne. Dwa serwisy cytujace jeden przeciek to jedno zrodlo."
     },
     {
       "numer": "72052-72061",
@@ -1337,55 +1328,55 @@
     {
       "numer": "72052",
       "nazwa": "Mario's Pipe Jump",
-      "status": "Brickset 2026-08-27: rocznik 2027, 61 el., start 2027-01-01. Brak ceny EUR i nazwy PL. Zadne ze zrodel newsowych o tej fali nie pisalo.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 61 el., start 2027-01-01. Brak ceny EUR i nazwy PL. Zadne ze zrodel newsowych o tej fali nie pisalo. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72054",
       "nazwa": "Racing with Mario",
-      "status": "Brickset 2026-08-27: rocznik 2027, 84 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 84 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72055",
       "nazwa": "Mario's Beach Adventures",
-      "status": "Brickset 2026-08-27: rocznik 2027, 196 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 196 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72056",
       "nazwa": "Luigi & Bowser Jr.'s Race",
-      "status": "Brickset 2026-08-27: rocznik 2027, 104 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 104 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72057",
       "nazwa": "Yoshi at Mario's House",
-      "status": "Brickset 2026-08-27: rocznik 2027, 147 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 147 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72058",
       "nazwa": "Bowser's Rumbling Race",
-      "status": "Brickset 2026-08-27: rocznik 2027, 409 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 409 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72060",
       "nazwa": "Fire Mario & Bowser's Castle",
-      "status": "Brickset 2026-08-27: rocznik 2027, 850 el., start 2027-01-01 — najwiekszy zestaw fali. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 850 el., start 2027-01-01 — najwiekszy zestaw fali. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "72061",
       "nazwa": "Fire Luigi vs. Koopa Troopa Battle",
-      "status": "Brickset 2026-08-27: rocznik 2027, 241 el., start 2027-01-01. Brak ceny EUR i nazwy PL.",
-      "premiera": "2027-01"
+      "status": "Brickset 2026-08-27: rocznik 2027, 241 el., start 2027-01-01. Brak ceny EUR i nazwy PL. KOREKTA 2026-09-29: Brickset ma released=true i ceny DE od 2026-08-27; w calym roczniku 2027 (282 rekordy) tylko te 8 pozycji ma released=true. Zestawy sa w sprzedazy, launchDate 2027-01-01 to rocznik, nie start sprzedazy.",
+      "premiera": "2026-08"
     },
     {
       "numer": "71875",
       "nazwa": "Lloyd vs. Ras Spinner Battle",
-      "status": "Brickset 2026-07-24: rocznik 2027, Ninjago, nazwa nadana, brak liczby elementow i daty startu.",
+      "status": "UJAWNIONY 2026-10-02/03: karta Brickset z nazwa, 153 elementami, zdjeciami i cenami czterech rynkow (19,99 EUR), availability 'Retail'. Wpis w sety.json, przeciek rozstrzygniety jako potwierdzony.",
       "premiera": "2027-01"
     },
     {
@@ -1402,8 +1393,8 @@
     },
     {
       "numer": "11388",
-      "nazwa": "Icons — rezerwacja 2026",
-      "status": "Brickset 2026-09-05: nowy pusty rekord Icons na rocznik 2026, kategoria '{t.b.a.}'. Numer sasiaduje z 11379 (ksiegarnia-podporka) i 11380 (Road Bike) — ta sama podseria numerow.",
+      "nazwa": "Wenecja (Icons) — zapowiedz niepotwierdzona",
+      "status": "StoneWars 2026-09-09 pisze o 11388 jako o wielkiej dioramie Wenecji: blisko 5700 elementow, ponad 15 minifigurek, listopad — ale SAM stawia w tytule znak zapytania. Brickset ma 11388 jako pusty rekord Icons bez nazwy i bez liczby elementow. JEDNO ZRODLO, w dodatku asekuracyjne. Nie publikowac.",
       "premiera": "2026"
     },
     {
@@ -1453,6 +1444,258 @@
       "nazwa": "KPop Demon Hunters — rezerwacja 2027",
       "status": "Brickset 2026-09-06 13:22-13:23: pusty rekord, kategoria '{t.b.a.}'. Piec numerow zalozonych w ciagu jednej minuty — kohorta KPop Demon Hunters na 2027 urosla z 1 do 6. Bez nazwy, elementow, ceny i daty. Zadne ze zrodel newsowych o tym nie pisalo.",
       "premiera": "2027"
+    },
+    {
+      "numer": "11395",
+      "nazwa": "Olifant (Wladca Pierscieni) — zapowiedz niepotwierdzona",
+      "status": "StoneWars 2026-09-08 podaje ten numer jako Olifanta z serii Wladca Pierscieni na 2027, obok Helmowego Jaru i Gospody pod Rozbrykanym Kucykiem (bez numerow). JEDNO ZRODLO — Brickset ma 11395 jako pusty rekord Icons bez nazwy, PromoBricks milczy. Numer sie zgadza z nasza lista rezerwacji z 05.09, ale zgodnosc numeru to nie potwierdzenie nazwy. Nie publikowac.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30726",
+      "nazwa": "Bruce Wayne i strój Batmana — polybag GWP",
+      "status": "Brickset 2026-09-10: 35 elementow, DC Comics Super Heroes, category 'Normal'. StoneWars 2026-09-09 opisuje to jako gratis na Batman Day — dodawany od 40 EUR zakupow w sklepie LEGO. Gratis promocyjny, nie pozycja detaliczna: nie opisujemy, ale warto wiedziec, ze istnieje, bo wplywa na decyzje zakupowe.",
+      "premiera": "2026-02"
+    },
+    {
+      "numer": "30759",
+      "nazwa": "Speed Champions — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30760",
+      "nazwa": "Speed Champions — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30761",
+      "nazwa": "Technic — rezerwacja 2027",
+      "status": "Brickset 2026-09-14: pusty rekord, kategoria '{t.b.a.}'. Numer z zakresu polybagow 3075x. Bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11394",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11396",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11410",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30756",
+      "nazwa": "Pokémon — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "31222",
+      "nazwa": "Art — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "31224",
+      "nazwa": "Art — rezerwacja 2027",
+      "status": "Brickset 2026-09-21: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43035",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43036",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43037",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43038",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43039",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43040",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43041",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43042",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43043",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43044",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43046",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43057",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43058",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43059",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "43060",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-24 03:44-03:45: pusty rekord, kategoria '{t.b.a.}'. Czesc bloku 15 numerow Editions zalozonych w ciagu jednej minuty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "40889",
+      "nazwa": "Ideas GWP z konkursu 'Build Your Hobby'",
+      "status": "Brickset dalej pusty rekord. StoneWars 02.10.2026 opublikowal wycieki zdjec pudelka: 158 elementow, 2 minifigurki, 18+, projekt zwyciezcy konkursu Ideas 'Build Your Hobby' (Doomslizer, ogloszony 03.09.2025). Przeniesiony do przecieki.json, pewnosc 'srednia'.",
+      "premiera": "2026"
+    },
+    {
+      "numer": "71888",
+      "nazwa": "Ninjago — rezerwacja 2027",
+      "status": "Brickset 2026-09-29: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72188",
+      "nazwa": "Editions — rezerwacja 2027",
+      "status": "Brickset 2026-09-25: pusty rekord, kategoria '{t.b.a.}', motyw 'tbd'. Wychwycony 26.09, dopisany do sledzenia 29.09.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "30755",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z zakresu polybagow 3075x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72361",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72362",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72363",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72364",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72365",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72366",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72367",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "72368",
+      "nazwa": "Dragon Ball — rezerwacja 2027",
+      "status": "Brickset 2026-09-30: pusty rekord, kategoria 'Normal', motyw 'Dragon Ball' (nie podseria Icons). Bez nazwy, elementow, ceny i daty. Numer z bloku 7236x.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "5011071",
+      "nazwa": "Gingerbread House (promocyjny)",
+      "status": "Brickset 2026-10-01: rekord ma nazwe, ale zero danych — brak elementow, ceny i daty, availability '{Not specified}', kategoria '{t.b.a.}', motyw Promotional. Wyglada na swiateczna pozycje promocyjna.",
+      "premiera": "2026"
+    },
+    {
+      "numer": "4000351",
+      "nazwa": "FIFA World Cup Official Trophy — Champions Edition",
+      "status": "Brickset 2026-10-03: motyw 'Editions', podseria 'Football', 2845 elementow, wiek 14+, availability 'LEGO exclusive', released true, 5 zdjec dodatkowych. BRAK ceny detalicznej w ktorymkolwiek z czterech rynkow i brak launchDate. Ani PromoBricks, ani StoneWars nie pisza o tym zestawie — sprawdzone w tresci stron glownych 04.10.2026 (szukane: FIFA, Trophy, Pokal, numer). Numery 4000xxx to u Bricksetu wydania specjalne i limitowane, nie detal, dlatego zestaw nie wchodzi do sety.json: brak ceny i kanalu sprzedazy. Do obserwacji — 2845 elementow to duzy model, a rok mundialu czyni temat atrakcyjnym, jesli trafi do sprzedazy.",
+      "premiera": "2026"
+    },
+    {
+      "numer": "40898",
+      "nazwa": "Wenecja — gratis listopadowy (Icons)",
+      "status": "Brickset 2026-10-05: rekord bez nazwy, availability 'LEGO Gift with Purchase', launchDate 2026-11-01. StoneWars 05.10 ustalil, czym to jest: LEGO omylkowo osadzilo grafike '40898_Prod.png' na stronie produktowej 67012. To gratis do duzej Wenecji (11388). Przeniesiony do przecieki.json z pewnoscia 'srednia'.",
+      "premiera": "2026-11"
+    },
+    {
+      "numer": "11399",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-06: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow i ceny, ale z KONKRETNA data startu launchDate 2027-06-01. Nietypowe: wiekszosc pustych rezerwacji rocznika nie ma daty wcale albo ma zastepcze 01-01, a ta wskazuje czerwiec.",
+      "premiera": "2027-06"
     }
   ],
   "luki_w_bazie": {
@@ -5623,7 +5866,7 @@
   "fala_pazdziernikowa_2026": {
     "ustalenie": "2026-08-26, przebudowane 2026-09-02",
     "metoda": "Wyszukiwanie po launchDate=2026-10-01 w API zamiast sledzenia pustych rekordow. Poprzednia metoda dawala 4 zestawy, ta daje 17 — puste numery to byla tylko ta czesc fali, ktorej Brickset nie zdazyl opisac.",
-    "zestawow": 17,
+    "zestawow": 20,
     "opisanych": 11,
     "sety": [
       {
@@ -5764,7 +6007,20 @@
       }
     ],
     "rekomendacja": "Kompletny kalendarz premier na 1 pazdziernika — gotowy material na tekst typu 'co LEGO wypuszcza 1 pazdziernika'. Trzy watki: flagowiec Star Wars (75457 Executor, 6130 el.), fala swiateczna Seasonal (5 zestawow, wszystkie z cenami EUR od 02.09) i domkniecie linii Avengers: Doomsday (4 zestawy). Material powinien byc gotowy przed 1 pazdziernika.",
-    "status_2026_09_07": "FALA KOMPLETNA. 11379 dostal nazwe w Brickset 2026-09-07 00:53: 'Bookshop: Book Nook', Icons, 1690 el., 18+, 129,99 EUR, premiera 2026-10-01. Potwierdza to, co StoneWars podawal z jednego zrodla od 02.09. Wszystkie zestawy fali 1 pazdziernika maja juz nazwy."
+    "status_2026_09_07": "FALA KOMPLETNA. 11379 dostal nazwe w Brickset 2026-09-07 00:53: 'Bookshop: Book Nook', Icons, 1690 el., 18+, 129,99 EUR, premiera 2026-10-01. Potwierdza to, co StoneWars podawal z jednego zrodla od 02.09. Wszystkie zestawy fali 1 pazdziernika maja juz nazwy.",
+    "status_2026_09_08": "11379 oficjalnie zaprezentowany i dostepny w przedsprzedazy — StoneWars 2026-09-07 ('offiziell vorgestellt und vorbestellbar'). DO ZROBIENIA: cena w zl nadal nieznana, nie ma jej ani w katalog.json, ani w oferty_feed.json. Wpis w sety.json ma cena_katalogowa: null i wyraznie oznaczone oszacowanie 550-580 zl. Podmienic na cene faktyczna, gdy Lowca zaciagnie ja z feedow.",
+    "korekta_2026_09_11": "BLAD DO ODWOLANIA: 2026-09-07 napisalem, ze fala jest kompletna. Nie byla. Powtorzony dzis przeglad po launchDate=2026-10-01 na pelnym roczniku 2026 (934 rekordy, 2 zapytania) daje 19 zestawow, nie 17. Doszly 21373 Downton Abbey (4711 el.) i 40899 (276 el., nadal bez nazwy). PRZYCZYNA: przeglad po launchDate zrobilem raz, 02.09. Oba te rekordy dostaly date startu PO tym dniu (10.09), wiec w snapshocie ich nie bylo, a codzienny updatedSince pokazuje zmiane, ale nie przypisuje jej do fali. Deklaracja o kompletnosci opierala sie na nieaktualnym zrzucie.",
+    "poprawka_metody": "Przeglad po launchDate powtarzac CO TYDZIEN az do 1 pazdziernika, nie raz. Rekordy dostaja date startu stopniowo, wiec kazdy jednorazowy snapshot sie starzeje. Koszt: 2 zapytania getSets.",
+    "status_2026_09_11": "19 zestawow, opisanych 18. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy.",
+    "status_2026_09_18": {
+      "liczba": "20 pozycji, nie 19. Tygodniowy przeglad po launchDate na pelnym roczniku 2026 (937 rekordow, 2 zapytania). Doszlo 11387 — dostalo date startu 2026-10-01, gdy LEGO potwierdzilo je 15-16.09.",
+      "sklad": "18 pozycji do kupienia (11 'Retail'/'Retail - limited' + 7 'LEGO exclusive') oraz 2 gratisy z polem availability 'LEGO Gift with Purchase': 40897 (Miecz swietlny Vadera) i 40899.",
+      "opisane": "19 z 20. Bez opisu zostaje wylacznie 40899 — bo nie ma nazwy.",
+      "korekta_wlasnego_raportu": "We wczorajszym raporcie napisalem '18 detalicznych + 1 gratis'. Bylo to niepelne z dwoch powodow: 11387 jeszcze nie mialo daty startu, a 40897 juz wtedy bylo gratisem, tylko nie sprawdzilem jego pola availability. Poprawnie: 18 do kupienia + 2 gratisy.",
+      "metoda_dziala": "To drugi raz, gdy tygodniowy przeglad po launchDate wylapal pozycje, ktorej przyrostowy updatedSince nie przypisal do fali (pierwszy raz 11.09: 21373 i 40899). Kadencja tygodniowa zostaje do 1 pazdziernika."
+    },
+    "status_2026_09_25": "Tygodniowy przeglad po launchDate na pelnym roczniku 2026 (938 rekordow): fala nadal 20 pozycji, bez zmian wobec 18.09. Opisanych 19; brakuje wylacznie 40899, bo nie ma nazwy. Do premiery 6 dni.",
+    "status_2026_09_26": "Komplet. 20 pozycji (18 do kupienia + 2 gratisy), wszystkie 20 opisane — 40899 Astro Bot dostał nazwę 25.09 i wpis w sety.json 26.09. Premiera fali 1.10.2026."
   },
   "wzorzec_rezerwacji_numerow": {
     "ustalenie": "2026-08-30",
@@ -5812,7 +6068,9 @@
     "bledy_metody": "Do 2026-09-04 Scout pytal Brickset tylko o rocznik 2026 i o zmiany przyrostowe. Fala Super Mario 2027 wisiala w katalogu od 2026-08-27 i zostala przeoczona. Poprawka: raz w tygodniu pelny przeglad rocznika 2027, nie tylko updatedSince.",
     "korekta_2026_09_06": "Wczorajsze liczby (222/211) liczylem filtrem category in ('Normal','Collection'). Dwa rekordy — 11227 i 11229 — maja kategorie '{t.b.a.}' i wypadly z filtra. To ta sama pomylka co z motywem 'tbd': '{t.b.a.}' nie oznacza smiecia, tylko rekord, ktoremu kategorii jeszcze nie nadano, czyli najswiezszy. Poprawione: 224 rekordy, 213 bez nazwy.",
     "nowe_rezerwacje_2026_09_06": "76480 (Harry Potter), 30758 (Super Mario), 11227 (Gabby's Dollhouse), 11229 (tbd)",
-    "kohorta_kpop_2026_09_07": "KPop Demon Hunters: 1 numer 05.09 -> 6 numerow 07.09 (30746, 72539, 72541, 72542, 72544 zalozone 06.09 w ciagu jednej minuty). Wszystkie z kategoria '{t.b.a.}' — czyli takie, ktore filtr sprzed poprawki z 06.09 by pominal. Zgodnie z wzorcem rezerwacji: rozmiar fali jest wiarygodny, termin nadania nazw nie."
+    "kohorta_kpop_2026_09_07": "KPop Demon Hunters: 1 numer 05.09 -> 6 numerow 07.09 (30746, 72539, 72541, 72542, 72544 zalozone 06.09 w ciagu jednej minuty). Wszystkie z kategoria '{t.b.a.}' — czyli takie, ktore filtr sprzed poprawki z 06.09 by pominal. Zgodnie z wzorcem rezerwacji: rozmiar fali jest wiarygodny, termin nadania nazw nie.",
+    "nowe_rezerwacje_2026_09_21": "Szesc pustych rekordow: 11394, 11396, 11410 (Icons), 30756 (Pokemon), 31222 i 31224 (Art). MOTYW 'Art' pojawia sie w roczniku 2027 po raz pierwszy — w pelnym zrzucie z 05.09 go nie bylo. Seria Art byla u LEGO wygaszana, wiec dwa nowe numery moga oznaczac jej powrot. To interpretacja, nie fakt: rekordy sa puste, zadne zrodlo o tym nie pisze.",
+    "blok_editions_2026_09_24": "15 rezerwacji Editions zalozonych 24.09 miedzy 03:44 a 03:45: 43035-43044, 43046, 43057-43060. To najwiekszy jednodniowy blok rezerwacji, jaki widzielismy. Editions to linia, w ktorej siedzi m.in. 43033 (koszulka reprezentacji USA 2026), wiec blok tej wielkosci moze oznaczac serie sportowa albo rozbudowe linii. To interpretacja, nie fakt — rekordy sa puste. Zgodnie z korekta wzorca z 31.08: rozmiar fali jest wiarygodny, termin nadania nazw nie."
   },
   "harry_potter_hbo": {
     "ustalenie": "2026-09-05 — potwierdzone DWOMA zrodlami newsowymi.",
@@ -5820,7 +6078,8 @@
     "stonewars": "'LEGO Harry Potter Sets zur neuen HBO-Serie bestaetigt! Teaser zeigt erste Minifiguren'",
     "slad_w_katalogu": "Brickset 2026-09-03 zalozyl trzy nowe rekordy Harry Potter na rocznik 2027 (76481, 76482, 76492), a 2026-09-05 czwarty (76480). Lacznie kohorta HP 2027 to 7 numerow bez nazwy: 30751, 76479, 76480, 76481, 76482, 76483, 76492. Rezerwacje przybywaja w dniach, w ktorych serwisy pisza o serialu — to nadal nasza interpretacja, nie fakt podany przez zrodlo.",
     "czego_NIE_wiemy": "Ani numery, ani nazwy, ani ceny zestawow do serialu nie sa znane. Powiazanie miedzy rezerwacjami 2027 a zapowiedzia HBO jest nasza interpretacja, nie faktem podanym przez zrodlo.",
-    "konsekwencja_redakcyjna": "Obecne moduly zamku i Wielka Sala moga przyspieszyc EOL. Warto o tym wspominac w opisach zestawow HP jako ryzyko, nie jako pewnik. Marek 2026-09-04 jawnie odrzucil przestawienie priorytetu kolejki redakcyjnej na Harry'ego Pottera — kolejnosc pozostaje po cenie malejaco."
+    "konsekwencja_redakcyjna": "Obecne moduly zamku i Wielka Sala moga przyspieszyc EOL. Warto o tym wspominac w opisach zestawow HP jako ryzyko, nie jako pewnik. Marek 2026-09-04 jawnie odrzucil przestawienie priorytetu kolejki redakcyjnej na Harry'ego Pottera — kolejnosc pozostaje po cenie malejaco.",
+    "plotki_stonewars_2026_09_07": "StoneWars opublikowal 'LEGO Harry Potter 2027 Geruechte-Uebersicht' — zestawy do serialu HBO oraz rzekoma nowa Kammer des Schreckens Collectors Edition. Serwis SAM oznacza to jako plotki (Geruechte). UWAGA METODOLOGICZNA: to nie jest niezalezne potwierdzenie naszej interpretacji rezerwacji HP 2027 — StoneWars spekuluje w te sama strone, co my, na tych samych przeslankach. Dwie spekulacje to nadal zero faktow. Nie publikowac."
   },
   "przeglad_2026_09_06": {
     "wynik": "Brak nowych zestawow do opisania. Zadnej nowej nazwy, ceny ani daty premiery.",
@@ -5835,5 +6094,240 @@
     "stonewars": "Jeden nowy wpis: poradnik laczenia modulow zamku Hogwart (aktualizacja starego tekstu). O nadaniu nazwy 11379 nie pisza, choc sami podawali ja z jednego zrodla od 02.09.",
     "wniosek": "Nazwe 11379 potwierdzil katalog, nie serwis newsowy — zgodnie z zasada, ze dane twarde biora sie z Bricksetu. Zapowiedz przestaje byc niepotwierdzona.",
     "bez_zmian": "40899 (Astro Bot) i plytka 1,5 wypustki — nadal jedno zrodlo, statusy zostaja."
+  },
+  "do_obserwacji_jakosc_produkcji": {
+    "ustalenie": "StoneWars 2026-09-07: 'Qualitaetsproblem in der Fertigung? Weissbruch und Spannungsrisse bei zwei aktuellen Minifiguren' — zbielenia i pekniecia naprezeniowe w dwoch biezacych minifigurkach.",
+    "status": "Jedno zrodlo (StoneWars), ale z twardym dowodem: czesc zamienna w serwisie LEGO. Wciaz NIE publikujemy tego jako tematu ani jako zarzutu wobec producenta. Nadaje sie natomiast na jedno zdanie w sekcji 'na co uwazac' przy zestawach z ta figurka — z informacja, ze LEGO wysyla czesc zamienna przez swoj serwis. Do sprawdzenia: czy wymiana dziala takze dla polskich klientow.",
+    "dlaczego_sledzimy": "Jesli sie potwierdzi, to material do sekcji 'na co uwazac' w opisach zestawow z tymi figurkami — a nie temat sam w sobie. Wada produkcyjna to zarzut wobec producenta i wymaga drugiego zrodla.",
+    "rozwoj_2026_09_22": "StoneWars 2026-09-20: 'Weissbruch und Spannungsrisse bei Minifiguren: Ersatzteil fuer Pfeffy (Gingy) beim LEGO Service gelistet'. LEGO wystawilo w swoim serwisie czesc zamienna do dotknietej figurki. To zmienia charakter sprawy: zrodlo nadal jedno (StoneWars), ale dowod nie jest juz relacja z forum, tylko dzialaniem samego producenta — LEGO uznalo problem na tyle, ze uruchomilo wymiane.",
+    "do_zrobienia": "Ustalic, w ktorych zestawach wystepuje figurka Pfeffy/Gingy — dopiero wtedy da sie dopisac ostrzezenie do konkretnych wpisow. Nie robie tego dzis, bo wymaga to przeszukania skladow minifigurek, czego Brickset API nie zwraca w getSets."
+  },
+  "przeglad_2026_09_08": {
+    "wynik": "Brak nowych zestawow do opisania. sety.json nietkniety.",
+    "brickset": "7 rekordow ruszonych od 07.09: 11379 (juz opisany wczoraj) i szesc kart kolekcjonerskich Star Wars o numerach 66499xx. Rocznik 2027 bez zadnej zmiany.",
+    "uwaga_do_filtra": "Karty maja kategorie '{t.b.a.}', czyli te, ktorej wczorajsza regula kazala NIE odsiewac, ale motyw 'Gear' i siedmiocyfrowy numer. Wniosek: gdy kategoria jest '{t.b.a.}', o szumie decyduje MOTYW. Regula uzupelniona w RUNBOOK.",
+    "promobricks": "Jeden nowy wpis (Insiders Mitgliedertag 2026) — akcja punktowa, nie nowosc produktowa.",
+    "stonewars": "Trzy nowe wpisy: oficjalna prezentacja 11379, przeglad PLOTEK o Harry Potterze 2027 oraz sygnal o wadzie produkcyjnej minifigurek."
+  },
+  "nowa_seria_zelda": {
+    "ustalenie": "2026-09-09 — 77094 'Ocarina of Time: Link & Epona' potwierdzony TRZEMA zrodlami.",
+    "brickset": "Rekord z 2026-09-08 20:30: 1750 elementow, rocznik 2027, category 'Normal', NOWY MOTYW 'The Legend of Zelda'. Bez ceny EUR i bez daty startu.",
+    "promobricks": "'LEGO Zelda Link und Epona: Erstes Bild zur Set-Neuheit'",
+    "stonewars": "'Neues 18+ Set zu Ocarina of Time bei der Nintendo Direct aufgetaucht' — stad oznaczenie wiekowe 18+ i informacja, ze zestaw pokazano na Nintendo Direct.",
+    "dlaczego_wazne": "Druga nowa marka growa w katalogu w ciagu dwoch tygodni, po PlayStation. Brickset znowu zalozyl OSOBNY MOTYW zamiast wpisac zestaw pod Icons — ten sam sygnal co przy 72306. Historycznie zapowiada linie.",
+    "czego_nie_wiemy": "Cena i miesiac premiery. Progu zakupu nie da sie policzyc. Terminu kolejnych zestawow linii nikt nie podal — nie zgadywac.",
+    "wpis": "Dodany do sety.json 2026-09-09 z premiera '2027' (sam rok, bez miesiaca).",
+    "doprecyzowanie_2026_09_10": "Okres premiery 77094 doprecyzowany przez OBA serwisy niezaleznie: PromoBricks 'erscheint im Fruehjahr 2027', StoneWars 'erscheint erst 2027'. Wiosna 2027 — miesiaca producent nie podal, wiec pole premiera zostaje '2027', a wiosna jest w opisie z przypisaniem do zrodel."
+  },
+  "schemat_premiera_rok": "2026-09-09: dopuszczamy w polu 'premiera' sam rok ('2027'), gdy miesiac nie jest znany. Do tego dnia wszystkie 1168 wpisow mialo format RRRR-MM. Sprawdzone w src/lib/premiery.js: porownanie premiera > BIEZACY_MIESIAC jest leksykalne, wiec '2027' > '2026-09' dziala poprawnie, a strona huba wyswietla 'premiera 2027'. Alternatywa bylo wpisanie zmyslonego miesiaca — odrzucona.",
+  "przeglad_2026_09_09": {
+    "nowosc": "77094 Zelda — jedyny nowy zestaw, dodany do sety.json.",
+    "korekta_11379": "Tekst dla AFOL przepisany: moje oszacowanie 550-580 zl zastapione faktem z feedow — dwa sklepy wystawily zestaw po 559,99 zl (08.09). cena_katalogowa nadal null, bo karty producenta nie widzielismy.",
+    "odsiane": "Osiem kart kolekcjonerskich Star Wars (theme 'Gear') oraz piec zestawow BrickLink Designer Program 910069-910073 (2252-4027 elementow). BDP to limitowany crowdfunding, nie detal — zgodnie z regula z RUNBOOK.",
+    "uzupelnienie_filtra": "Do listy motywow-szumu dopisac 'BrickLink': rekordy 910xxx przyszly z kategoria '{t.b.a.}', wiec sam filtr kategorii ich nie lapal.",
+    "stonewars_pojedyncze_zrodlo": "11395 jako Olifant (Wladca Pierscieni 2027) — dopisane do sledzonych jako niepotwierdzone. 11387 Holiday House juz mamy opisany."
+  },
+  "bricklink_designer_program_seria_9": {
+    "co": "910069-910073 (Fisherman's Village 4027 el., Sleepy Dragon Inn 3121, Wild West Blacksmith 2533, Woodbrick Freight Depot 2252, Pumpkin Patch 613). Start 6 pazdziernika, ceny opublikowane.",
+    "zrodla": "PromoBricks i StoneWars — OBA serwisy 2026-09-10 traktuja to jako newsa.",
+    "nasza_decyzja": "Odsiewamy zgodnie z regula z RUNBOOK: BDP to limitowany crowdfunding, nie sprzedaz detaliczna, wiec nie ma stalej ceny katalogowej ani dostepnosci w sklepach partnerskich, na ktorych stoi nasz model.",
+    "napiecie_do_rozstrzygniecia": "Oba nasze zrodla newsowe uwazaja to za temat, my nie. To swiadomy wybor redakcyjny, nie przeoczenie — ale jesli Marek uzna, ze BDP ma byc pokrywany, regula wymaga zmiany i trzeba ustalic, skad brac ceny i linki afiliacyjne."
+  },
+  "przeglad_2026_09_10": {
+    "nowosc": "21375 Godzilla — rekord sledzony od 23.08 jako pusty dostal dane: 5364 elementy, 18+, start 2026-11-27. Dodany do sety.json, cena_katalogowa null. Zadne ze zrodel newsowych o tym nie pisalo — dane sa z Bricksetu, czyli z wlasciwego zrodla dla danych twardych.",
+    "dlaczego_wazny": "5364 elementy to jeden z najwiekszych zestawow rocznika, a 27 listopada to tydzien Black Friday. Premiera w tym oknie oznacza brak rabatu w pierwszym sezonie — to konkretna informacja zakupowa, nie ciekawostka.",
+    "zapowiedzi": "Dopisane 30726 (gratis Batman Day) i 40900 (rezerwacja promocyjna ze startem 21.09).",
+    "odsiane": "6644846 i BATMANBUST — motyw 'Promotional', gadzety."
+  },
+  "przeglad_2026_09_11": {
+    "nowosc": "21373 Downton Abbey — 4711 elementow, 13 minifigurek wg StoneWars, start 2026-10-01. Dodany do sety.json, cena_katalogowa null.",
+    "korekta": "Fala pazdziernikowa to 19 zestawow, nie 17. Szczegoly w fala_pazdziernikowa_2026.korekta_2026_09_11.",
+    "40899": "Dostal 276 elementow i date startu — to pelnoprawny zestaw, nie gratis. Nazwy nadal brak.",
+    "nowe_zapowiedzi_jedno_zrodlo": "11388 jako Wenecja (blisko 5700 el., listopad) i 11390 jako Dragon Ball Shenlong (listopad). Oba tylko ze StoneWars, oba z pustymi rekordami w Brickset. Nie publikowac.",
+    "gdyby_sie_potwierdzilo": "Dragon Ball bylby trzecia nowa licencja w ciagu trzech tygodni, po PlayStation i Zeldzie. To by juz byl wzorzec, a nie zbieg okolicznosci — ale na razie to jedno zdanie w jednym serwisie."
+  },
+  "przeglad_2026_09_12": {
+    "21373_cena": "Brickset dodal 11.09 cene 299,99 EUR. Wczoraj pisalem, ze ceny nie ma na zadnym rynku — jest od wczoraj wieczorem. Tekst dla AFOL uzupelniony: 0,27 zl za element po przeliczniku rocznika, co potwierdza opinie StoneWars, ze zestaw wypadl taniej niz oczekiwano. Cena w zl nadal nieznana, cena_katalogowa zostaje null.",
+    "10371": "Rezerwacja Botanicals z 22.08 ujawniona: 'Cosy Plants', 248 elementow, 19,99 EUR, start 2026-11-01. Potwierdzone przez Brickset i StoneWars. Dodany do sety.json, zdjety ze sledzonych.",
+    "minecraft_nie_nasza_robota": "Brickset odswiezyl 11.09 caly blok Minecraft rocznika 2026. Cztery numery (21583-21586) i polybag 30732 nie mialy u nas opisu, ale NIE SA nowosciami — sa w katalog.json z polskimi cenami, ze statusem 'dostepny', i siedza w kolejce redakcyjnej (sprawdzone: wszystkie cztery sa w arkuszu). Opisze je sesja redakcyjna wedlug kolejnosci cenowej. Scout ich nie dubluje.",
+    "odsiane": "67019 i 67020 (Marvel 2027) — numery z zakresu 67xxx, ktory w calym roczniku 2027 ma kategorie 'Extended' (BrickLink Designer Program i promocje). Tu przyszly z '{t.b.a.}', ale to ta sama rodzina.",
+    "bez_zmian": "11388 (Wenecja), 11390 (Dragon Ball), 40899 (Astro Bot), plytka 1,5 wypustki — zadne ze zrodel nic nowego nie podalo. Statusy zostaja."
+  },
+  "granica_scout_redakcja": "Ustalone 2026-09-12. Zestaw, ktory ma juz polska cene i status 'dostepny' w katalog.json, NIE jest nowoscia dla Scouta, nawet jesli Brickset wlasnie odswiezyl jego rekord i nie ma go w sety.json. Takie pozycje sa w kolejce redakcyjnej i opisuje je sesja redakcyjna. Scout dopisuje do sety.json wylacznie zestawy, ktorych kolejka nie widzi: zapowiedzi, premiery bez ceny w zl, nowe licencje. Inaczej dwie sesje pisza to samo.",
+  "korekty_2026_09_14": {
+    "bledna_przeslanka_promobricks": "Od 05.09 pisalem w kolejnych raportach, ze 'PromoBricks milczy' o 40899. To bylo nieprawda co najmniej od 09.09 — serwis ma artykul, ktory wymienia numer 40899 wprost. Nie sprawdzilem tresci, tylko naglowki; naglowek 'Astrobot und die LEGO Sony PlayStation Konsole' nie zawieral numeru, wiec przeszedl mi bokiem. Wniosek dla metody: milczenie serwisu stwierdzam po tresci artykulu, nie po tym, czy numer jest w naglowku.",
+    "bledny_wniosek_o_276_elementach": "11.09 napisalem, ze 276 elementow 'przesadza, ze NIE jest to drobny gratis, tylko pelnoprawny zestaw'. Zly wniosek — wielkosc nie rozstrzyga o formie dystrybucji, gratisy LEGO potrafia byc tej skali. Oba serwisy opisuja 40899 jako GWP do zakupu konsoli.",
+    "co_sie_NIE_zmienia": "Status 'zapowiedz niepotwierdzona' zostaje. Zmienia sie uzasadnienie: nie 'jedno zrodlo milczy', tylko 'oba serwisy relacjonuja ten sam przeciek z Reddita, zaden nie ma potwierdzenia oficjalnego'.",
+    "konsekwencja_praktyczna": "Jesli 40899 to GWP, nigdy nie dostanie ceny sklepowej ani ofert w feedach, wiec hub nie zbuduje dla niego tabeli cen. W statystyce fali pazdziernikowej nalezy go liczyc osobno od 18 zestawow detalicznych."
+  },
+  "eol_koniec_2026": {
+    "ustalenie": "2026-09-15. StoneWars opublikowal 13.09 liste zestawow, ktore LEGO oznaczylo w firmowym sklepie jako 'Ostatnia szansa' — wycofanie do konca 2026. Z artykulu wyciagnalem 93 numery.",
+    "co_zrobilem": "67 z nich juz bylo w wycofania.json. Z pozostalych 26 dopisalem 16 — te, ktore mamy w katalog.json z polska nazwa i seria. Status 'potwierdzone' (oznaczenie pochodzi od LEGO), kiedy 'grudzien 2026', zrodlo nazwane wprost w kazdym wpisie.",
+    "czego_nie_dopisalem": "10 numerow spoza naszego katalogu — nie mamy dla nich polskiej nazwy ani ceny, a wpisywanie nazw niemieckich zlamaloby konwencje pliku. Do uzupelnienia, gdy trafia do katalogu.",
+    "ograniczenie": "Nie zweryfikowalem tego bezposrednio na lego.com — serwis blokuje nasz ruch (ustalone 21.08). Opieramy sie na relacji StoneWars z oznaczen w sklepie LEGO. Zapisane w polu zrodlo kazdego wpisu.",
+    "dlaczego_wazne": "Wszystkie 16 mialo w katalogu status 'dostepny', czyli serwis pokazywal je bez zadnego sygnalu o koncu produkcji. Wsrod nich 14 ma juz opis redakcyjny — tam warto uzupelnic informacje o EOL.",
+    "do_zrobienia": "76304 (Batmobil Batman Forever, 419,99 zl) i 40708 (Mini zamek Arielki, 169,99 zl) sa wycofywane, a NIE MAJA u nas opisu. To pozycje z kolejki redakcyjnej, ktore warto przesunac do przodu — zestaw schodzacy z oferty ma krotsze okno na ruch z wyszukiwarki."
+  },
+  "przeglad_2026_09_15": {
+    "brickset": "Cztery rekordy: trzy puste rezerwacje 2027 (30759, 30760 Speed Champions, 30761 Technic) i L0002226 (kategoria 'Other', odsiane). Zadnej nowej nazwy ani ceny.",
+    "promobricks": "Trzy nowe wpisy, wszystkie okoloprodukcyjne: rosliny doniczkowe, Skylines, klocek LEGOLAND. Zadnej nowosci katalogowej.",
+    "stonewars": "Lista EOL na koniec 2026 — patrz eol_koniec_2026. Poza tym lista EOL dla Pick a Brick (1800 czesci) i zwyciezca konkursu Ideas Yu-Gi-Oh! (bez numeru zestawu)."
+  },
+  "przeglad_2026_09_16": {
+    "rozstrzygniecie": "11387 potwierdzony przez LEGO. Brickset ma ceny lego.com na czterech rynkach (109,99 EUR / 119,99 USD / 99,99 GBP / 169,99 CAD, dateFirstAvailable 2026-09-16), StoneWars opisuje oficjalna prezentacje z 15.09. Wpis w sety.json przepisany z przecieku na fakt: 'Swiateczny dom', Icons / Winter Village Collection, 1354 elementy, 18+, start 2026-10-01, dostepnosc 'Retail - limited'. Pole status_nowosci usuniete. W przecieki.json wynik 'potwierdzony'.",
+    "nazwa_PL": "LEGO nie opublikowalo polskiej nazwy — 'Swiateczny dom' to nasze tlumaczenie robocze z 'Holiday House', zaznaczone wprost w tekscie dla AFOL. Do podmiany, gdy pojawi sie karta PL.",
+    "cena_PL": "Nieznana; cena_katalogowa zostaje null. Oszacowanie ~465 zl podane w tekscie jako nasze.",
+    "poprawka_jezykowa": "Stary opis 11387 uzywal slowa 'cegielka' (light brick). CLAUDE.md zabrania 'cegiel' — przy przepisywaniu wpisu zwrot usuniety.",
+    "odsiane": "L0002207 (Ninjago, 5 elementow) i L0002240 (Star Wars) — numery z prefiksem 'L000', czyli modele i figurki LEGOLAND, nie zestawy detaliczne. Trzeci taki przypadek w tygodniu (14.09 L0002226).",
+    "zrodla_bez_zmian": "PromoBricks bez nowych wpisow. StoneWars poza 11387 bez nowosci katalogowych."
+  },
+  "filtr_numery_LEGOLAND": "Ustalone 2026-09-16: numery z prefiksem 'L000' (np. L0002207, L0002226, L0002240) to modele i figurki LEGOLAND, nie zestawy detaliczne. Przychodza z kategoria '{t.b.a.}' i normalnym motywem (Ninjago, Star Wars, City), wiec ani filtr kategorii, ani filtr motywu ich nie lapie. Odsiewac po prefiksie numeru.",
+  "przeglad_2026_09_17": {
+    "nowosc": "40900 ujawniony i potwierdzony: 'Scary Haunted Tree' (u nas 'Straszne nawiedzone drzewo'), Creator / Seasonal, 218 elementow, 8+, start 2026-09-21. Brickset ma oficjalna date i oznaczenie availability 'LEGO Gift with Purchase'; StoneWars opisuje prezentacje. Dodany do sety.json, cena_katalogowa null — gratis nie ma ceny katalogowej.",
+    "zmiana_motywu": "Rekord 40900 sledzilismy od 09.09 jako pusty z motywem 'Promotional'. Brickset przepisal go do 'Creator' z podseria 'Seasonal'. Motyw nie przesadza wiec o formie dystrybucji — przesadza pole availability. Ta sama lekcja co przy 40899 (14.09): wielkosc ani motyw nie mowia, czy cos jest gratisem.",
+    "drugi_gratis_w_miesiacu": "40899 (Astro Bot, 276 el.) i 40900 (drzewo, 218 el.) to dwa gratisy w ciagu trzech tygodni. Roznica: 40900 JEST potwierdzony przez LEGO, 40899 nadal opiera sie na przecieku z Reddita.",
+    "odsiane": "6644878 'Batman Mini Bust' — kategoria 'Other', gadzet.",
+    "promobricks": "Bez nowych wpisow katalogowych."
+  },
+  "przeglad_2026_09_18": {
+    "brickset_przyrostowo": "Jeden rekord: 5010478 'Sherpa Backed Throw' (motyw Gear) — koc, odsiany. Rocznik 2027 bez zmian.",
+    "40899_forma_potwierdzona": "Brickset ma teraz w karcie 40899 pole availability = 'LEGO Gift with Purchase'. To potwierdza w katalogu FORME dystrybucji, ktora dotad opierala sie na przecieku z Reddita relacjonowanym przez PromoBricks. Nazwa 'Astro Bot' nadal niepotwierdzona — karta Brickset ma '{?}'. Do sety.json nie wchodzi, bo bez nazwy nie ma czego opisac.",
+    "promobricks": "Jeden nowy wpis: Insiders Private Store Shopping Event w polowie listopada. Akcja handlowa, nie nowosc produktowa — ale termin warto miec w kalendarzu promocji.",
+    "stonewars": "Dwa nowe wpisy: analiza podwyzki cen czesci w Pick a Brick (ponad 6000 pozycji) i tekst o standardach aukcji eBay Live. Zadnej nowosci katalogowej.",
+    "przecieki": "Bez zmian: 15 wpisow, 1 rozstrzygniety. Zadnego nowego przecieku ani nowego dowodu."
+  },
+  "przeglad_2026_09_21": {
+    "przeciek_40899": "PromoBricks opublikowal 21.09 tekst 'LEGO AstroBot Set als Gratis-Zugabe Anfang Oktober' — tym razem bez zastrzezen, jako fakt. Dopisalem 40899 do przecieki.json z pewnoscia 'srednia': katalog potwierdza numer, elementy, forme i date, ale NIE nazwe. Dwa teksty PromoBricks to jedno zrodlo.",
+    "30732": "Minecraft, 31 elementow, availability 'Retail - limited', start 2026-02-01. Jest w katalog.json z polska nazwa, ale BEZ ceny, wiec nie widzi go kolejka redakcyjna. Luka, nie nowosc — polybag w sprzedazy od lutego. Nie dopisuje do sety.json.",
+    "format_przeciekow": "przecieki.json zmienil uklad: 16.09 kazdy wpis byl w jednej linii, dzis plik jest w zwyklym indent=1. Wykrywanie formatu przez round-trip przed zapisem zlapalo to i odmowilo zapisu starym serializerem. Nie zakladac ukladu z pamieci.",
+    "historia_gita": "Poranny 'git pull' zglosil forced update na origin/main — ktos przepisal historie. Sprawdzone: dane sa (40900 w sety.json, 11387 potwierdzony i rozstrzygniety), HEAD rowny origin/main, brak rozjazdu. Z logu zniknely jednak moje commity z 15-16.09.",
+    "stonewars": "Bez nowosci katalogowych."
+  },
+  "przeglad_2026_09_22": {
+    "nowosci": "Brak nowych zestawow. Cztery rekordy 2026 ruszone (11513, 40905, 60510 — wszystkie juz opisane u nas z cenami PL; L0002240 odsiane jako 'Magazine gift').",
+    "rezerwacje_2027": "Szesc wczorajszych rezerwacji (11394, 11396, 11410, 30756, 31222, 31224) zmienilo kategorie z '{t.b.a.}' na 'Normal'. To potwierdza, ze sa to realne zestawy, nadal bez nazw.",
+    "odsiane_50090": "'LEGOLAND Park Adventure', 1578 elementow, motyw Promotional, availability 'LEGOLAND exclusive'. Duzy zestaw, ale sprzedawany wylacznie w parkach — brak dystrybucji w Polsce i brak linkow afiliacyjnych, wiec poza zakresem serwisu. PromoBricks o nim pisze.",
+    "40900": "StoneWars potwierdza: gratis dostepny od 21.09, zgodnie z data w Brickset. Bez zmian we wpisie.",
+    "przecieki": "Bez zmian: 16 wpisow, 1 rozstrzygniety. Zadnego nowego dowodu do 40899."
+  },
+  "przeglad_2026_09_23": {
+    "nowosci": "Brak nowych zestawow w sety.json.",
+    "przecieki": "Dopisane 11390 (Shenlong / Dragon Ball, pewnosc 'srednia' — StoneWars opisuje TEASER OD LEGO) oraz 11388 (Wenecja, pewnosc 'niska' — jedno zrodlo ze znakiem zapytania w tytule). Oba byly dotad tylko w zapowiedziach sledzonych, a od 15.09 miejscem na takie rzeczy jest przecieki.json. Teaser LEGO zapowiada temat, nie dane katalogowe — karta 11390 w Brickset jest pusta, wiec do sety.json nie wchodzi.",
+    "50090_filtr": "Dostal date startu 2027-02-01. Kategoria 'Normal', motyw 'Promotional', availability 'LEGOLAND exclusive'. Moj filtr przepuscil go jako NOWY, bo sprawdza motyw tylko przy kategorii '{t.b.a.}'. POPRAWKA: o odsianiu przesadza pole availability — 'LEGOLAND exclusive' i 'Magazine gift' nigdy nie sa dystrybucja detaliczna w Polsce.",
+    "klon_plytki": "Sprawdzone dzis: 'test -f .git/shallow' zwraca PLYTKI, 'git rev-list --count origin/main' daje 83. Klon jest plytki, wiec brak starych commitow w logu nie znaczy, ze ich nie ma. Moja uwaga z 21.09 o przepisanej historii byla nietrafiona."
+  },
+  "przeglad_2026_09_24": {
+    "ceny_uzupelnione": "21373 Downton Abbey dostal cene katalogowa 1299,99 zl, a 10371 Przytulne rosliny 81,99 zl. Obie z feedu sklepu LEGO (pole sklep='lego', data 2026-09-22), czyli od producenta, nie od posrednika — to jest cena katalogowa, nie oferta. Teksty dla AFOL przepisane na realne liczby: 0,28 zl za element przy 21373 i 0,33 zl przy 10371.",
+    "trafnosc_przelicznika": "Moje wczesniejsze oszacowania z przelicznika rocznika 2026 (4,22): 21373 okolo 1270 zl wobec 1299,99 faktycznych (2% ponizej), 10371 okolo 85 zl wobec 81,99 (4% powyzej). Przelicznik trzyma sie w granicach kilku procent — ale nadal podajemy go jako oszacowanie, nie cene.",
+    "przecieki": "Dopisane dwa wpisy bez numerow z przegladu plotek StoneWars: 'cutelings' (nowy motyw) i 'icons-buldog-francuski'. Oba pewnosc 'niska' — serwis sam podpisuje tekst jako kuchnie plotek.",
+    "40900": "Rekord ruszony: pole released zmienilo sie na true. Gratis jest w obiegu. Ceny nadal brak i nie bedzie — to GWP.",
+    "odsiane": "5010478 (koc, Gear) i L0002227 (Magazine gift). Filtr po polu availability zadzialal."
+  },
+  "przeglad_2026_09_25": {
+    "nowosci": "Brak. Przyrostowo ruszyl sie tylko 40900 (bez zmiany danych) i blok 15 rezerwacji Editions z wczoraj, ktory zmienil kategorie z '{t.b.a.}' na 'Normal' — czyli to realne zestawy, nadal bez nazw.",
+    "ceny_z_feedu_lego": "40856 (Mandalorian i Grogu) dostal 169,99 zl, 40922 (Lilo i Stitch: Andzia) 54,99 zl. Obie z pola sklep='lego' w oferty_feed.json, data 2026-09-21 — to cena producenta, nie oferta posrednika. Metoda ta sama co 24.09 przy 21373 i 10371.",
+    "bez_rrp_bdp": "910054, 910056 i 910057 oznaczone w katalog.json polem bez_rrp z powodem 'BrickLink Designer Program'. Te trzy wracaly w lukach katalogu co przebieg, a nigdy nie mialy polskiej ceny katalogowej. Od teraz nie beda zglaszane.",
+    "zrodla": "PromoBricks i StoneWars bez nowosci katalogowych. Zaden serwis nie podal dzis nazwy 40899.",
+    "przecieki": "Bez zmian: 20 wpisow, 1 rozstrzygniety."
+  },
+  "przeglad_2026_09_26": {
+    "nowosci": "40899 Astro Bot (PlayStation, 276 el., 18+, start 1.10.2026) — Brickset nadał karcie oficjalną nazwę 25.09 o 23:55 UTC, wcześniej „{?}”. Zestaw dołożony do sety.json jako GWP bez ceny katalogowej. To ostatnia nieopisana pozycja fali październikowej — fala jest teraz kompletna: 20 pozycji, 20 opisanych.",
+    "przyrostowo": "Sześć rekordów w oknie updatedSince=25.09: 3438 (McDonald's Restaurant z 1999 — korekta archiwalna, nie nowość), 40893, 40897, 40900 (znane GWP, bez zmiany danych), 40899 (nazwa) i 72188 (pusta rezerwacja rocznika 2027, kategoria '{t.b.a.}', bez nazwy i danych).",
+    "bez_rrp_gwp": "40897 i 40900 oznaczone bez_rrp w sety.json i katalog.json — Brickset w tym przebiegu podaje dla obu availability 'LEGO Gift with Purchase'. Wracały w lukach katalogu co przebieg. 40899 dostał bez_rrp od razu.",
+    "zrodla": "Brickset API (1 wywołanie getSets), PromoBricks i StoneWars. StoneWars 25.09 opisał oficjalną prezentację 40899 — to drugie niezależne źródło, więc przeciek 40899 rozstrzygnięty jako potwierdzony.",
+    "wycofania": "Brak nowych sygnałów. Artykuł PromoBricks o EOL Ogrodu botanicznego (21353) to tekst z 21.08 — sygnał już zapisany w wycofania.json i DZIENNIKU."
+  },
+  "rocznik_2027_przeglad_2026_09_29": {
+    "rekordow": 282,
+    "nazwanych": 19,
+    "released_true": 8,
+    "wobec_05_09": "Z 224 rekordow zrobilo sie 282, z 11 nazwanych — 19. Przyrost idzie glownie pustymi rezerwacjami.",
+    "nazwane_pozycje": "50090 (LEGOLAND, start 2027-02-01), 71054 Minifigures Seria 30 (trzy warianty rekordu), 71875 Ninjago, 77094 Zelda, 910069-910073 (BrickLink Designer Program) oraz fala Super Mario 72052/72054-72058/72060/72061.",
+    "odkrycie": "released=true ma w calym roczniku 2027 wylacznie osiem zestawow Super Mario, wszystkie z cenami DE i dateFirstAvailable 2026-08-27. Kazda inna nazwana pozycja rocznika (Zelda, Ninjago, CMF S30, BDP, LEGOLAND) ma released=false. To znaczy, ze pole nie jest znacznikiem calej kohorty, tylko realnej dostepnosci — a fala Mario jest w sprzedazy od sierpnia 2026, mimo launchDate 2027-01-01."
+  },
+  "przeglad_2026_09_29": {
+    "korekta_premiery_mario": "Osiem zestawow Super Mario (72052, 72054-72058, 72060, 72061) mialo w sety.json premiere '2027-01' wziecta z launchDate. Przy tej wartosci src/lib/premiery.js uznawal je za zapowiedzi ('2027-01' > '2026-09'), wiec hub pisal 'wkrotce — zapowiedz potwierdzona przez LEGO', a ponizej pokazywal cene LEGO.com z 22.09.2026 (sprawdzone w dist/zestaw/72060/index.html z buildu 26.09). Poprawione na '2026-08' — miesiac, ktory Brickset podaje jako dateFirstAvailable dla DE, US, UK i CA. Nasz katalog ma te zestawy jako 'dostepny' z lego_pl_widziano 2026-09-22.",
+    "nowe_rezerwacje": "40889 (Ideas, rocznik 2026) i 71888 (Ninjago, rocznik 2027) — oba puste, kategoria '{t.b.a.}'. Dopisane do zapowiedzi_sledzone razem z 72188 z 26.09.",
+    "odsiane": "12002, 12003, 12007, 12008, 12010, 12011 — 'World Builder parts', woreczki czesci dolaczane do ksiazek (availability '{Not specified}', powiazane z ISBN9780241712467 i ISBN9780593959480). 40703-40706 Micro NINJAGO (Insiders Reward, 2024). 66619 Super Pack (kategoria 'Collection', 2019). Dwie pozycje ISBN (kategoria 'Book').",
+    "zrodla": "Brickset API — 2 wywolania getSets (przyrostowe updatedSince=28.09 i pelny rocznik 2027). PromoBricks i StoneWars sprawdzone osobno.",
+    "fala_pazdziernikowa_przeglad": "Pelny zrzut rocznika 2026 (939 rekordow, 2 wywolania). LaunchDate w X.2026 ma 21 rekordow, z czego jeden to ksiazka (ISBN9780241789940, kategoria 'Book'). Czyli 20 zestawow i wszystkie 20 sa opisane — bez zmian wobec 26.09.",
+    "rozbieznosc_ze_stonewars": "StoneWars 28.09 pisze o 24 pazdziernikowych nowosciach (w tym 9 z oznaczeniem 18+), my liczymy 20. Jedna roznica jest nazwana: 40909, ktory StoneWars wymienia jako trzeci gratis pazdziernika, a Brickset trzyma jako pusty rekord bez launchDate — dlatego nie wpada do naszego filtra po dacie startu i trafil do przeciekow. Reszty roznicy nie rozstrzygam: nasza liczba jest liczona po launchDate z Bricksetu, ich po ofercie niemieckiego sklepu LEGO, a te dwie definicje nie musza sie pokrywac. Do sprawdzenia w kolejnym przegladzie.",
+    "status_nowosci_21375": "Godzilla (21375) stracila pole status_nowosci: przeciek. Brickset ma nazwe, 5364 elementy i launchDate 2026-11-27 — konkretna date, nie zastepcza '01-01' calego rocznika. Zgodnie z regula 'Brickset z oficjalna data = potwierdzenie' to juz nie jest przeciek. Ceny dalej brak, wiec zestaw zostaje w lukach katalogu. 77094 (Zelda) zostaje przeciekiem: w zrzucie rocznika 2027 ma released=false i pusty launchDate.",
+    "nowy_przeciek": "40909 — pewnosc 'srednia'. Numer i forma gratisu z Bricksetu plus StoneWars, nazwa wylacznie z domyslu StoneWars (podana ze znakiem zapytania)."
+  },
+  "przeglad_2026_09_30": {
+    "nowosc": "11390 Dragon Ball: Shenron i Goku — Icons/Dragon Ball, 1764 el., 18+, start 2026-11-01, availability 'Retail - limited'. LEGO uruchomilo karte 30.09.2026 na czterech rynkach naraz (dateFirstAvailable identyczne dla US, UK, CA i DE), RRP DE 139,99 EUR. Polskiej ceny katalogowej nie ma ani w katalogu, ani w feedzie producenta, wiec cena_katalogowa zostaje null.",
+    "przeciek_rozstrzygniety": "11390 -> potwierdzony, pewnosc podniesiona z 'srednia' na 'wysoka'. Termin z przecieku (listopad) i numer zgodne. Nazwa oficjalna 'Shenron' zamiast 'Shenlong' ze StoneWars — ta sama postac, inna transliteracja, wiec nie 'zmieniony'.",
+    "kohorta_dragon_ball_2027": "Dziewiec nowych pustych rekordow zalozonych 29-30.09: 30755 (polybag) oraz 72361-72368. Wszystkie z motywem 'Dragon Ball' jako OSOBNYM motywem, nie podseria Icons — a 11390 jest Icons/Dragon Ball. To znaczy, ze licencja dostaje w 2027 wlasna linie, nie kolejny zestaw w Icons. Zgodnie z wzorcem rezerwacji: rozmiar fali (9 numerow) jest wiarygodny, termin nadania nazw nie.",
+    "odsiane": "EG00173 'White Road Bike parts' — motyw Miscellaneous, kategoria '{t.b.a.}', availability 'LEGO exclusive', prefiks EG (nie sprzedaz detaliczna). 71888 Ninjago dotkniety powtornie: kategoria zmienila sie z '{t.b.a.}' na 'Normal', nazwy dalej nie ma.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=29.09). PromoBricks i StoneWars sprawdzone osobno."
+  },
+  "przeglad_2026_10_01": {
+    "fala_pazdziernikowa_start": "Dzien premiery. Wszystkie 18 sprzedazowych pozycji fali ma polska cene katalogowa zgodna co do grosza z feedem sklepu LEGO (zrzut z 29-30.09): 11379, 11387, 21371, 21373, 40862, 40865, 40866, 40868, 40874, 40875, 40880, 40958, 72306, 75457, 76347, 76348, 76352, 76788. Bez ceny sa tylko dwa gratisy, 40897 i 40899 — oba z bez_rrp. Fala zamknieta: 20 pozycji, 20 opisanych, 18 wycenionych.",
+    "korekta_21375": "Brickset WYCOFAL z karty 21375 nazwe i liczbe elementow. Bezposrednie zapytanie o karte (setNumber=21375-1, lastUpdated 2026-10-01 00:08 UTC) zwraca name '{?}', pieces null, availability '{Not specified}', released false; zostala tylko data startu 2026-11-27 i wiek 18+. 29.09 zdjalem temu wpisowi status_nowosci: przeciek wlasnie na podstawie nazwy plus daty — ta podstawa znikla, wiec status wraca. Nazwe i 5364 elementy zostawiam we wpisie, bo Brickset podawal je od 09.09, ale wpis jest znowu oznaczony jako przeciek.",
+    "zmiana_kanalu_40899": "Brickset zmienil 40899 availability z 'LEGO Gift with Purchase' na 'Retail - limited' (lastUpdated 2026-10-01 00:51 UTC). Nie traktuje tego jako zmiany statusu na detal: zestaw nie ma ceny detalicznej w zadnym z czterech rynkow Bricksetu ani wpisu w feedzie polskiego sklepu LEGO, a wszystkie 18 sprzedazowych pozycji fali ten feed ma. StoneWars tego samego dnia pisze o starcie sprzedazy fali 'z GWP od zaraz'. bez_rrp zostaje, w opisie dopisana informacja o zmianie.",
+    "odsiane": "5010878 (plytka 'I Love LEGO Store Praha Centrum', 1 element), 6644870, 6659451, 6674871 (45-55 elementow, availability 'Promotional'), BLOCKS143 i BLOCKS144 (czasopismo Blocks, kategoria 'Book'). 5011071 'Gingerbread House' ma nazwe bez zadnych danych — dopisany do zapowiedzi_sledzone.",
+    "sygnal_wycofan": "StoneWars 30.09 opublikowal 'Top 10 der LEGO EOL-Sets 2026'. Dziesiatka (75192, 42179, 40516, 75397, 10335, 21353, 40805, 21060, 31171, 60495) jest w calosci w wycofania.json. Poza nia artykul wskazuje jako EOL serie Harry Potter 'Zamek Hogwart' i 'Ulica Pokatna' — z wymienionych tam numerow 76477 nie ma w wycofania.json, wiec idzie do DZIENNIKA dla runnera Wycofan.",
+    "zrodla": "Brickset API — 3 wywolania getSets (przyrostowe updatedSince=30.09 oraz dwie karty pojedyncze: 21375-1 i 40899-1). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus artykul o EOL 2026."
+  },
+  "rocznik_2027_przeglad_2026_10_02": {
+    "rekordow": 282,
+    "nazwanych": 19,
+    "released_true": 8,
+    "wobec_29_09": "Bez zmian: te same 282 rekordy, 19 nazw i osiem pozycji z released=true (fala Super Mario). Kohorta Dragon Ball (30755, 72361-72368) byla wiec w roczniku juz 29.09 — w przegladzie przyrostowym 30.09 pojawila sie jako AKTUALIZACJA rekordow, nie jako ich zalozenie. Poprzedni opis ('zalozonych 29-30.09') byl nadinterpretacja."
+  },
+  "przeglad_2026_10_02": {
+    "nowosci": "Brak. Zadnego nowego zestawu potwierdzonego przez LEGO.",
+    "przecieki_dopisane": "71875 (srednia), 71873 (niska), 30748 (niska) — fala spinnerow Ninjago 2027 ze StoneWars; 75484 (niska) — UCS Mysliwiec Jedi Anakina z kanalu buggyleaks relacjonowanego przez StoneWars.",
+    "dlaczego_nie_sety": "Ninjago: Brickset ma 71875 z oficjalna nazwa, ale bez elementow, ceny i daty, released false. 71873 i 30748 to puste rekordy. Zdjecia 71875 sa oficjalnymi zdjeciami LEGO, ale udostepnil je sklep (JB Spielwaren na Instagramie), a nie producent — StoneWars sam pisze, ze oficjalnej odslony fali styczniowej spodziewa sie na poczatku grudnia. Star Wars: 75484 nie ma w Brickset ani jako rezerwacji numeru.",
+    "40899_bez_zmian": "40899 i 21375 wrocily w okno updatedSince=01.10 z lastUpdated odpowiednio 2026-10-01 00:51 i 00:08 UTC — to te same zmiany, ktore opisalem wczoraj, nie kolejne. 40899 nadal bez ceny detalicznej w czterech rynkach Bricksetu i nadal nieobecny w feedzie sklepu LEGO (feed przeladowany 01.10), wiec bez_rrp zostaje uzasadnione. 21375 nadal '{?}' bez elementow — wycofanie danych przez Brickset sie utrzymuje.",
+    "odsiane": "10, 18, 181 (Service Packs 1980-1985), 6566835 Snow Groomer (2024), STOCKHOLM (2019, 'Not sold'), 45835 FIRST LEGO League (kanal edukacyjny/zawody), 854336, 854337, 854338 (bronie do zabawy Ninjago, motyw '{Undefined}', kategoria '{t.b.a.}').",
+    "zrodla": "Brickset API — 2 wywolania getSets (przyrostowe updatedSince=01.10 i pelny rocznik 2027). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus dwa artykuly (spinnery Ninjago 2027, plotka o UCS 75484)."
+  },
+  "przeglad_2026_10_03": {
+    "nowosci": "71875 Lloyd kontra Ras (153 el.) i 71873 Cole kontra Zly Cole (58 el.) — Ninjago, podseria 'Spinner Battle', 6+, deklarowany start 1.01.2027. Brickset uzupelnil obie karty 02.10 wieczorem: nazwy, elementy, zdjecia (15 i 9 dodatkowych) oraz ceny detaliczne w US, UK, CA i DE z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyly. Oba dolozone do sety.json bez ceny katalogowej: feed polskiego sklepu (zrzut 02.10) ich jeszcze nie ma.",
+    "przecieki_rozstrzygniete": "71875 i 71873 -> potwierdzone, obie pewnosci podniesione do 'wysoka'. To najszybsze rozstrzygniecie w historii pliku: wpisy zalozone 02.10 na podstawie jednego artykulu StoneWars, potwierdzone katalogiem nastepnego dnia. Liczby z przecieku (153 i 58 elementow, 19,99 i 9,99 EUR) zgodzily sie co do jednego — w tym 71873, ktory dostal 'niska', bo StoneWars nie mogl pokazac zdjec.",
+    "nadal_otwarte": "30748 (Speedor tygrysa Rasa) zostaje przeciekiem o pewnosci 'niska' — Brickset ma dalej pusty rekord. 75484 (UCS Mysliwiec Jedi Anakina) tez bez zmian, numeru w katalogu nadal nie ma.",
+    "launchdate_uwaga": "Obie karty maja launchDate puste mimo kompletu pozostalych danych. Reguly 'Brickset z oficjalna data' nie da sie tu zastosowac doslownie; podstawa potwierdzenia sa ceny detaliczne czterech rynkow z dateFirstAvailable, czyli dokladnie sygnal 'karta na lego.com' z instrukcji. Premiera 2027-01 wziecta z deklaracji StoneWars, nie z katalogu.",
+    "odsiane": "4858 i 4860 (4 Juniors, 2004), 6566835 Snow Groomer (kategoria 'Extended'), 854336-854338 (teraz motyw 'Gear', kategoria 'Extended' — potwierdza wczorajsza klasyfikacje jako merch). 45835 dostal motyw 'Education' — kanal szkolny, nie wchodzi do sety.json.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=02.10). PromoBricks — strona glowna, bez nowych tekstow. StoneWars — strona glowna plus artykul o 40889. Razem 5 pobran.",
+    "przeciek_dopisany": "40889 — pewnosc 'srednia'. Dowodem sa wyciekle zdjecia pudelka (158 elementow, 2 minifigurki, 18+) plus udokumentowane zwyciestwo projektu w konkursie Ideas 'Build Your Hobby'. Niepewne: nazwa handlowa (StoneWars ze znakiem zapytania), termin (koniec pazdziernika wg kanalu BrickTap na Reddicie) i prog zakupu."
+  },
+  "przeglad_2026_10_04": {
+    "nowosci": "Brak nowosci do sety.json. Jeden nowy rekord katalogowy do obserwacji: 4000351 FIFA World Cup Official Trophy — Champions Edition (Editions/Football, 2845 el., 14+, LEGO exclusive). Pelne dane poza cena i data; zadne ze zrodel newsowych o nim nie pisze.",
+    "launchdate_spinnerow": "71873 i 71875 dostaly dzis launchDate 2027-01-01. Wczoraj obie karty mialy to pole puste i date premiery (2027-01) wzialem z deklaracji StoneWars — katalog ja teraz potwierdza. Reszta danych bez zmian.",
+    "przecieki": "Bez zmian: 26 wpisow, 5 rozstrzygnietych. Nic nowego w zrodlach newsowych, nic do podniesienia ani rozstrzygniecia.",
+    "odsiane": "8483 CyberMaster (Technic, 1998), 40958 Christmas Stocking (dotkniety, juz opisany z cena), ISBN9780241816516 (kategoria 'Book').",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=03.10). PromoBricks i StoneWars — strony glowne, bez nowych tekstow o nowosciach katalogowych. Razem 3 pobrania."
+  },
+  "przeglad_2026_10_06": {
+    "nowosci": "Trzy zestawy DC rocznika 2027, wszystkie z podseria lub motywem Batman: 67008 Batmobil z 'Powrotu Batmana' i kaczka (672 el., 9+, 59,99 EUR), 67009 Batmobil Batmana z Arkham (317 el., 9+, 29,99 EUR) i 67012 Joker — okladka komiksu jako dekoracja scienna (1849 el., 18+, 169,99 EUR). Wszystkie trzy maja launchDate 2027-01-01, availability 'Retail', zdjecia (11, 10 i 13 dodatkowych) oraz ceny detaliczne w US, UK, CA i DE z dateFirstAvailable 2026-10-06 — karty produktowe LEGO ruszyly dzis. Dolozone do sety.json bez ceny katalogowej: feed polskiego sklepu ich jeszcze nie ma.",
+    "nowa_podseria": "67008 i 67009 naleza do nowej podserii 'Legendary Batmobile Collection'. To nowa linia w DC na 2027 rok — jesli LEGO bedzie ja ciagnac, pierwsza fala stanie sie punktem odniesienia dla calej kolekcji. 67012 jest poza nia, w podserii Batman.",
+    "przeciek_rozstrzygniety": "67008 -> potwierdzony, pewnosc podniesiona z 'srednia' na 'wysoka'. Numer i termin zgodne. Osi ceny nie oceniam: przeciek podawal 215 zl orientacyjnie, polskiej ceny katalogowej nie ma, a oficjalne RRP DE (59,99 EUR) daje po przeliczeniu okolo 253 zl, czyli ~18% powyzej przecieku. Zapisane w co_sie_zmienilo jako podstawa ewentualnej korekty na 'zmieniony'.",
+    "nadal_otwarte": "67005 (Sanctum Strange'a Supreme) i 67006 (Marvel Skyline) to przecieki Marvela z tej samej serii numerow, ale dzisiejsza partia ich nie dotyczy — zostaja otwarte z pewnoscia 'srednia'.",
+    "nowa_rezerwacja": "40898 — listopadowy gratis Icons, launchDate 2026-11-01, availability 'LEGO Gift with Purchase', bez nazwy i bez zdjec. Dopisany do zapowiedzi_sledzone.",
+    "odsiane": "Duza partia rekordow promocyjnych i eventowych: 5010487 (minifigurka na 5 lat w Japonii), 5010878 i 5011181 (plytki 'I Love LEGO Store', 1 element), 5011070 Santas Workshop, 5011071 Gingerbread House, 5011164 Beetle Garden, 6644890 The Holiday Duo oraz osiem rekordow Make & Take ze sklepow: GHOSTSTREET, HPHOLIDAY, NORTHPOLE, PUMPKIN, REINDEER, SANTA, WEBGOAL, WITCHPUMPKIN. Wszystkie z kategoria '{t.b.a.}' albo 'Extended', bez cen i bez dat — to buildy eventowe, nie sprzedaz. Plus 5008195 Jack-o'-lantern (2023, kategoria 'Other').",
+    "przecieki_wenecja": "Dopisany 40898 (pewnosc 'srednia') — gratis do Wenecji, ktorego zdjecie wyciekllo z samej strony produktowej LEGO (plik 40898_Prod.png osadzony omylkowo na karcie 67012). Katalog potwierdza numer, forme gratisu i launchDate 2026-11-01. Przy tej okazji 11388 (Wenecja, diorama Icons) podniesiona z 'niska' na 'srednia': doszedl dowod po stronie producenta, choc posredni. Do 'wysokiej' brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w tresci strony glownej, nie tylko w naglowkach).",
+    "potwierdzenie_zewnetrzne": "StoneWars 05.10 niezaleznie opisal cala partie DC: 67012 'offiziell vorgestellt und vorbestellbar' oraz dwa Batmobile z kaczka i minifigurka Pingwina na styczen 2027, 'jetzt vorbestellbar'. Zgadza sie z danymi katalogowymi.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=05.10). StoneWars — strona glowna plus artykul o gratisie 40898. PromoBricks — strona glowna, bez nowych tekstow; sprawdzone w tresci, ze nie pisze ani o Wenecji, ani o partii DC. Razem 4 pobrania."
+  },
+  "nowa_seria_sanrio": {
+    "co": "LEGO Sanrio — nowy motyw licencyjny z Hello Kitty.",
+    "status": "POTWIERDZONE OFICJALNIE przez LEGO 2026-10-06: producent uruchomil dedykowana strone z emblematem 'Hello Kitty and Friends', nowym logo LEGO Sanrio, interaktywnym kalendarzem i wideo, oraz wydal komunikat prasowy. To nie przeciek.",
+    "co_wiadomo": "Start motywu w 2027 roku, 'kilka zestawow do zabawy' wokol tematu przyjazni i kultury kawaii. Numerow zestawow, cen ani dat LEGO nie podaje — na pytanie o termin odpowiada, ze to 'na razie nasz maly sekret', i zapowiada comiesieczne podpowiedzi na tej stronie.",
+    "czego_nie_wiemy": "Czy beda minifigurki, czy raczej budowalne figurki postaci; ile zestawow; kiedy dokladnie. Plotki mowia o styczniu, ale StoneWars sam oznacza to jako plotke, wiec nie traktujemy terminu jako ustalonego.",
+    "zrodlo": "StoneWars — 'LEGO Hello Kitty fur 2027 offiziell bestatigt', https://www.stonewars.de/news/lego-sanrio-hello-kitty-2027-announcement/, 2026-10-06, relacjonujacy oficjalna strone i komunikat LEGO.",
+    "dla_redakcji": "Nowa licencja potwierdzona przez producenta to material na tekst zapowiedziowy niezalezny od pojedynczych zestawow: po PlayStation, Zeldzie i Dragon Ball to czwarta nowa licencja w katalogu w ciagu dwoch miesiecy. Zestawow do opisania jeszcze nie ma, wiec do sety.json ani do przeciekow nic nie wchodzi.",
+    "dodano": "2026-10-07"
+  },
+  "przeglad_2026_10_07": {
+    "nowosci": "Brak nowych zestawow potwierdzonych przez LEGO.",
+    "korekta_67012": "Brickset przeniosl wczoraj 67012 z motywu 'DC Comics Super Heroes' (podseria Batman) do motywu 'Art', podseria 'Licensed' (lastUpdated 2026-10-06 17:46 UTC). Wczoraj dolozylem ten zestaw z seria 'DC' i napisalem w opisie, ze Brickset trzyma go w podserii Batman — jedno i drugie poprawione: seria to teraz 'Art' (mamy ja juz w katalogu i w sety.json), a zdanie w opisie mowi o przeniesieniu. Dane liczbowe bez zmian: 1849 elementow, 18+, launchDate 2027-01-01.",
+    "nowa_licencja": "LEGO potwierdzilo oficjalnie motyw Sanrio z Hello Kitty na 2027 rok — wlasna strona, logo, kalendarz i komunikat prasowy. Szczegoly w sekcji nowa_seria_sanrio. Bez numerow zestawow, wiec nic nie wchodzi do sety.json ani do przeciekow.",
+    "bdp_seria_9": "StoneWars 06.10: wystartowala dziewiata seria BrickLink Designer Program, wszystkie piec zestawow (910069-910073, nazwane w roczniku 2027) jest do zamowienia. Zgodnie z ustaleniem z 25.09 zestawy BDP nie maja polskiej ceny katalogowej — crowdfunding — wiec nie wchodza do sety.json, a gdy pojawia sie w feedzie, dostana bez_rrp.",
+    "nowa_rezerwacja": "11399 — pusty rekord Icons rocznika 2027 z konkretna data launchDate 2027-06-01. Dopisany do zapowiedzi_sledzone; nietypowy, bo puste rezerwacje zwykle nie maja daty albo maja zastepcze 01-01.",
+    "odsiane": "5011197 (torba Herschel, motyw '{Undefined}'), 6557591 Rangoli (2024), 6565182 i 6593417 Mosaic (2025 i 2026) — buildy promocyjne sklepowe, kategoria '{t.b.a.}', availability 'LEGO exclusive', bez cen i dat.",
+    "przecieki": "Bez zmian: 27 wpisow, 6 rozstrzygnietych. Nic nowego do dopisania, nic do podniesienia.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=06.10). StoneWars — strona glowna plus artykul o LEGO Sanrio. PromoBricks — strona glowna, bez nowych tekstow. Razem 4 pobrania."
   }
 }

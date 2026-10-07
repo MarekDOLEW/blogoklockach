@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "md-general-skills": {
+      "source": {
+        "source": "github",
+        "repo": "MarekDOLEW/MDmygeneralskills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "md-general-skills@md-general-skills": true,
+    "gsap-skills@md-general-skills": true
+  }
+}

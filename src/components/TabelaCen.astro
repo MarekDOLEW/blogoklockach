@@ -1,17 +1,28 @@
 ---
-import { relLinku as relSklepu } from '../lib/oferty.js';
+import { relLinku as relSklepu, legoMaStrone } from '../lib/oferty.js';
+import { dataPl } from '../lib/daty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
+// Tabela cen jednego zestawu. Zasada z 13.09.2026: w tabeli są WYŁĄCZNIE sklepy,
+// które dziś mają ten zestaw w cenniku (oferta z ceną). Nie dokładamy już
+// wierszy „Sprawdź cenę" dla sklepów bez oferty – link z przeterminowanego
+// feedu (np. Planeta Klocków przy 21323) prowadził do pustej strony i podważał
+// wiarygodność całej tabeli.
+//
+// Wyjątkiem jest LEGO.com – oficjalny sklep pokazujemy zawsze, gdy znamy cenę
+// katalogową:
+//   dodajLego  – LEGO wciąż sprzedaje: zwykły wiersz z ceną katalogową i linkiem,
+//   eolLego    – LEGO zakończyło produkcję: wiersz na końcu, cena katalogowa
+//                ze znacznikiem EOL (informacja, ile zestaw kosztował u producenta)
+//                i bez przycisku – nie wysyłamy czytelnika tam, gdzie nie kupi.
 // cenaKatalogowa jest opcjonalna – lekkie huby (spoza sety.json) jej nie znają,
 // wtedy tabela nie pokazuje kolumny rabatu.
-// dodajLego dokłada wiersz LEGO.com (oficjalny sklep, link bezpośredni z workera),
-// jeśli ofert LEGO nie ma już na liście.
-const { nr, oferty, cenaKatalogowa = null, dodajLego = false } = Astro.props;
+const { nr, oferty, cenaKatalogowa = null, dodajLego = false, eolLego = false, eolPewny = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
 // link do LEGO.com generuje worker z samego numeru – nie wymaga wpisu w redirects;
-// x-kom tak samo (uniwersalny kod SalesMasters + wyszukiwarka), ale tylko dla
-// setów w sprzedaży – dla wycofanych wyszukiwarka x-kom bywa pusta
+// x-kom/smyk/empik tak samo, ale tylko dla setów w sprzedaży – dla wycofanych
+// wyszukiwarki tych sklepów bywają puste
 const maAfiliacje = (sklep) =>
   sklep === 'lego' ||
   ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
@@ -23,26 +34,25 @@ const maLink = (sklep) => maAfiliacje(sklep) || Boolean(sklepy[sklep]?.szukaj);
 // niej mieszka w lib/oferty.js, żeby wszystkie listingi mówiły to samo.
 const relLinku = (sklep) => (maAfiliacje(sklep) ? relSklepu(sklep, nr) : 'nofollow');
 
-const zLego = dodajLego && !oferty.some((o) => o.sklep === 'lego') && cenaKatalogowa
+// Po EOL wiersz LEGO z sety.json (cena katalogowa) nie jest już ofertą –
+// przenosimy go do wiersza informacyjnego na końcu.
+const sklepowe = eolLego ? oferty.filter((o) => o.sklep !== 'lego') : oferty;
+const zLego = dodajLego && !sklepowe.some((o) => o.sklep === 'lego') && cenaKatalogowa
   ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]
   : [];
 // Ceneo to porównywarka, nie sklep: jego cena to najniższa oferta rynkowa,
 // a klient po kliknięciu trafia na kartę produktu w Ceneo i dopiero stamtąd
 // do sklepu. Dlatego stoi zawsze na końcu tabeli i nie bierze udziału
 // w sortowaniu ani w wyróżnieniu "najtańszy".
-const ceneo = [...oferty, ...zLego].find((o) => o.sklep === 'ceneo') ?? null;
-const posortowane = [...oferty, ...zLego]
+const ceneo = [...sklepowe, ...zLego].find((o) => o.sklep === 'ceneo') ?? null;
+const posortowane = [...sklepowe, ...zLego]
   .filter((o) => o.sklep !== 'ceneo')
   .sort((a, b) => a.cena - b.cena);
 const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
-// sklepy z linkiem afiliacyjnym, ale bez oferty cenowej – pokaż wiersz "sprawdź cenę";
-// xkom i smyk mają linki budowane dynamicznie przez worker, więc dokładamy je
-// niezależnie od obecności w redirects.json
-const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk', 'empik'])]
-  .filter((s) => s !== '_meta' && s !== 'ceneo' && maAfiliacje(s) && !posortowane.some((o) => o.sklep === s));
-if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includes('lego')) {
-  bezCeny.push('lego');
-}
+const wierszLegoEol = eolLego && cenaKatalogowa ? { sklep: 'lego', cena: cenaKatalogowa } : null;
+// Po EOL link do lego.pl zostaje, dopóki karta produktu istnieje (zasada Marka
+// 16.09.2026) – to nadal najlepsze zdjęcia, opis i wymiary zestawu w sieci.
+const maStroneLego = legoMaStrone(nr);
 
 // sklepy, w których cena na stronie potrafi odbiegać od tej z feedu
 // (kody rabatowe i akcje na koszyk, których feedy produktowe nie pokazują)
@@ -52,54 +62,84 @@ const UWAGA_SKLEP = {
   lego: 'oficjalna strona LEGO',
 };
 ---
-<div class="karta" style="padding: 18px; margin: 18px 0; overflow-x: auto;">
+<p class="obserwuj-stan obserwuj-stan--blad" data-idz-stan hidden></p>
+<div class="karta tabela-cen-wrap">
   <table class="tabela-cen">
     <caption>Porównanie cen – LEGO {nr}</caption>
     <thead>
-      <tr><th>Sklep</th><th>Cena</th>{cenaKatalogowa && <th>Rabat*</th>}<th></th></tr>
+      <tr><th>Sklep</th><th>Cena</th>{cenaKatalogowa && <th>Rabat*</th>}<th><span class="tylko-czytnik">Oferta</span></th></tr>
     </thead>
     <tbody>
       {posortowane.map((o, i) => (
         <tr class={i === 0 ? 'najtanszy' : ''}>
-          <td>
+          <td class="kc-sklep">
             <strong>{sklepy[o.sklep]?.nazwa ?? o.sklep}</strong>
-            {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniższa w historii</span>}
-            {UWAGA_SKLEP[o.sklep] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[o.sklep]}</span>}
+            {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniżej w naszych notowaniach</span>}
+            {UWAGA_SKLEP[o.sklep] && <span class="kc-uwaga">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
-          <td class="cena">{fmt(o.cena)}</td>
-          {cenaKatalogowa && <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '–'}</td>}
-          <td>
+          <td class="cena kc-cena">{fmt(o.cena)}{o.data && <span class="kc-data">z {dataPl(o.data)}</span>}</td>
+          {cenaKatalogowa && <td class="kc-rabat">{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '–'}</td>}
+          <td class="kc-cta">
             {maLink(o.sklep) ? (
-              <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel={relLinku(o.sklep)}>Sprawdź w sklepie →</a>
+              <a class="cta" href={`/idz/${o.sklep}/${nr}`} target="_blank" rel={relLinku(o.sklep)} aria-label={`Przejdź do sklepu ${sklepy[o.sklep]?.nazwa ?? o.sklep}`}>{sklepy[o.sklep]?.nazwa ?? o.sklep} →</a>
             ) : (
-              <span style="font-size:0.85rem;opacity:0.55;white-space:nowrap;" title="Link afiliacyjny w przygotowaniu">link wkrótce</span>
+              <span class="link-wkrotce">bez linku</span>
             )}
           </td>
         </tr>
       ))}
-      {bezCeny.map((s) => (
-        <tr>
-          <td>
-            <strong>{sklepy[s]?.nazwa ?? s}</strong>
-            {UWAGA_SKLEP[s] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[s]}</span>}
+      {wierszLegoEol && (
+        <tr class="wiersz-eol">
+          <td class="kc-sklep">
+            <strong>{sklepy.lego?.nazwa ?? 'LEGO.com'}</strong>
+            <span class="kc-uwaga">{maStroneLego
+              ? 'oficjalny sklep – zestawu już nie kupisz, ale na karcie zostały zdjęcia, opis i wymiary'
+              : (eolPewny ? 'oficjalny sklep – produkcja zakończona, zestaw został u innych sprzedawców' : 'oficjalny sklep – zestawu nie ma już w ofercie lego.pl')}</span>
           </td>
-          <td class="cena">–</td>
-          {cenaKatalogowa && <td>–</td>}
-          <td><a class="cta" href={`/idz/${s}/${nr}`} rel={relLinku(s)}>Sprawdź cenę →</a></td>
+          <td class="cena kc-cena">{fmt(wierszLegoEol.cena)}<span class="tag-eol" title="Cena katalogowa LEGO – w oficjalnym sklepie zestawu już nie ma">brak w sprzedaży</span></td>
+          {cenaKatalogowa && <td class="kc-rabat">–</td>}
+          <td class="kc-cta">
+            {maStroneLego
+              ? <a class="cta cta--eol" href={`/idz/lego/${nr}`} target="_blank" rel={relSklepu('lego')} aria-label="Przejdź do sklepu LEGO.com">LEGO.com →</a>
+              : <span class="kc-eol-info">{eolPewny ? 'produkcja zakończona' : 'brak w ofercie'}</span>}
+          </td>
         </tr>
-      ))}
+      )}
       {ceneo && (
         <tr class="wiersz-ceneo">
-          <td>
+          <td class="kc-sklep">
             <strong>{sklepy.ceneo?.nazwa ?? 'Ceneo'}</strong>
-            <span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
+            <span class="kc-uwaga">porównywarka – najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
           </td>
-          <td class="cena">{fmt(ceneo.cena)}</td>
-          {cenaKatalogowa && <td>{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '–'}</td>}
-          <td><a class="cta" href={`/idz/ceneo/${nr}`} rel="sponsored nofollow">Porównaj oferty →</a></td>
+          <td class="cena kc-cena">{fmt(ceneo.cena)}{ceneo.data && <span class="kc-data">z {dataPl(ceneo.data)}</span>}</td>
+          {cenaKatalogowa && <td class="kc-rabat">{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '–'}</td>}
+          <td class="kc-cta"><a class="cta" href={`/idz/ceneo/${nr}`} target="_blank" rel="sponsored nofollow noopener">Porównaj oferty →</a></td>
         </tr>
       )}
     </tbody>
   </table>
-  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach, i zmieniają ceny także w ciągu dnia – kwota powyżej jest ostatnią, jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.</p>
+  {posortowane.length > 0 && (
+    <p class="tabela-zaufanie">
+      {posortowane.some((o) => o.sklep !== 'allegro') && <><strong>Sklepy z własnym magazynem</strong> ({posortowane.filter((o) => o.sklep !== 'allegro').map((o) => sklepy[o.sklep]?.nazwa ?? o.sklep).join(', ')}) – kupujesz nowy, zapieczętowany zestaw od sklepu. </>}
+      {posortowane.some((o) => o.sklep === 'allegro') && <><strong>Allegro</strong> to marketplace: przed zakupem sprawdź, czy sprzedawca jest firmą i czy zestaw jest nowy, nie z drugiej ręki. </>}
+      Koszt i termin dostawy zobaczysz w koszyku sklepu.
+    </p>
+  )}
+  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{wierszLegoEol && maStroneLego && <>Wiersz LEGO.com to cena katalogowa zestawu, którego oficjalny sklep już nie sprzedaje – link prowadzi do karty produktu ze zdjęciami i opisem. </>}{dataSprawdzenia && <>Przy każdej cenie stoi dzień, w którym ją widzieliśmy – wiersze mogą mieć różne daty, bo sklepy odświeżamy w różnym rytmie. </>}{wierszLegoEol && <>EOL – LEGO zakończyło produkcję tego zestawu; sklepy sprzedają zapasy, dopóki je mają. </>}Sklepy zmieniają ceny w ciągu dnia i mają kody rabatowe spoza cennika – wiążąca jest cena w koszyku.</p>
 </div>
+
+<script>
+  // Klik w sklep odrzucony przez filtr botów (worker /idz/): przeglądarka nie
+  // wysłała ani referera, ani Sec-Fetch-Site — np. link otwarty z maila lub
+  // wklejony do paska adresu. Mówimy to wprost zamiast przeładowywać stronę.
+  const q = new URLSearchParams(location.search);
+  if (q.get('idz') === 'odrzucony') {
+    const el = document.querySelector<HTMLElement>('[data-idz-stan]');
+    if (el) {
+      const sklep = q.get('sklep') ?? '';
+      el.textContent = `Link do sklepu${sklep ? ` (${sklep})` : ''} został otwarty spoza strony, więc przekierowanie zostało wstrzymane. Kliknij przycisk z nazwą sklepu w tabeli poniżej – z tej strony przejście działa.`;
+      el.hidden = false;
+      history.replaceState(null, '', location.pathname + '#ceny');
+    }
+  }
+</script>

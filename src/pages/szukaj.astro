@@ -75,7 +75,7 @@ import Base from '../layouts/Base.astro';
 
     $licznik.textContent = wszystkie.length
       ? wszystkie.length > pokazane.length
-        ? `${wszystkie.length} trafień, pokazano ${pokazane.length}`
+        ? `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : [2,3,4].includes(wszystkie.length % 10) && ![12,13,14].includes(wszystkie.length % 100) ? 'trafienia' : 'trafień'}, pokazano ${pokazane.length}`
         : `${wszystkie.length} ${wszystkie.length === 1 ? 'trafienie' : 'trafień'}`
       : 'brak trafień';
 

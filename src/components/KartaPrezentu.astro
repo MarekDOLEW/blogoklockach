@@ -1,8 +1,10 @@
 ---
+import { obrazStaly } from '../lib/media.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 import galerie from '../data/galerie.json';
 import sety from '../data/sety.json';
+import { wycofanieSetu } from '../lib/huby.js';
 import ofertyFeed from '../data/oferty_feed.json';
 import { polaczOferty, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku as relSklepu } from '../lib/oferty.js';
 
@@ -25,6 +27,9 @@ const {
   status = null, sklepyPublikacyjne = [],
 } = Astro.props;
 
+// Termin wycofania z wycofania.json („grudzień 2026”), nie wpisany na sztywno.
+const kiedyZnika = wycofanieSetu(nr)?.kiedy;
+const terminZnika = kiedyZnika && !['wycofany', 'odwołane'].includes(kiedyZnika) ? `wycofanie: ${kiedyZnika}` : 'zapowiedziane wycofanie';
 const zl = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const maLink = (s) => s === 'lego' || Boolean(redirects?.[s]?.[nr]) || Boolean(sklepy[s]?.szukaj);
 const rel = (s) => relSklepu(s, nr);
@@ -55,7 +60,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
     <figure class="prezent__media">
       <img
         class="prezent__foto"
-        src={`/img/${nr}.jpg`}
+        {...obrazStaly(`/img/${nr}.jpg`, 600, 1200)}
         alt={`LEGO ${nr} ${nazwa}`}
         loading="lazy"
         decoding="async"
@@ -65,7 +70,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       {dodatkowe.length > 0 && (
         <span class="prezent__miniatury">
           {dodatkowe.map((u, i) => (
-            <img src={u} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
+            <img {...obrazStaly(u, 130, 260)} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
           ))}
         </span>
       )}
@@ -73,9 +78,9 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
 
     <div class="prezent__szczyt">
       <p class="prezent__nagl">
-        <a href={`/zestaw/${nr}/`}>LEGO {nr} {nazwa}</a>
+        <a href={`/zestaw/${nr}/`} target="_blank" rel="noopener">LEGO {nr} {nazwa}</a>
         {status === 'eol' && <span class="status status--stop">wycofany</span>}
-        {status === 'znika' && <span class="status status--maybe">wycofanie w XII 2026</span>}
+        {status === 'znika' && <span class="status status--maybe">{terminZnika}</span>}
       </p>
 
       <dl class="prezent__dane">
@@ -110,15 +115,16 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
     {dobra && (
       wProgu.length > 0 ? (
         <div class="prezent__kup">
-          <p class="prezent__kup-tytul">Kup teraz w</p>
+          <p class="prezent__kup-tytul">Dziś w dobrej cenie w:</p>
           <ul class="prezent__kup-lista">
-            {wProgu.map((o) => (
-              <li>
-                <a href={linkAfiliacyjny(o.sklep, nr)} rel={rel(o.sklep)}>{nazwaSklepu(o.sklep)}</a>
+            {wProgu.map((o, i) => (
+              <li class={i === 0 ? 'prezent__kup-wiersz prezent__kup-wiersz--najtanszy' : 'prezent__kup-wiersz'}>
+                <span class="prezent__kup-sklep">{nazwaSklepu(o.sklep)}{i === 0 && <span class="prezent__kup-naj">najtaniej</span>}</span>
                 <b>{fmtCena(o.cena)}</b>
                 <span class={bardzoTanio(o.cena) ? 'prezent__kup-poziom prezent__kup-poziom--top' : 'prezent__kup-poziom'}>
                   {bardzoTanio(o.cena) ? 'bardzo dobra cena' : 'dobra cena'}
                 </span>
+                <a class="cta" href={linkAfiliacyjny(o.sklep, nr)} target="_blank" rel={rel(o.sklep)} aria-label={`Przejdź do sklepu ${nazwaSklepu(o.sklep)}`}>{nazwaSklepu(o.sklep)} →</a>
               </li>
             ))}
           </ul>
@@ -126,7 +132,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       ) : (
         <p class="prezent__kup-brak">
           Dziś żaden ze śledzonych sklepów nie schodzi do dobrej ceny – poczekaj albo sprawdź
-          {' '}<a href={`/zestaw/${nr}/`}>aktualne oferty</a>.
+          {' '}<a href={`/zestaw/${nr}/`} target="_blank" rel="noopener">aktualne oferty</a>.
         </p>
       )
     )}
@@ -135,11 +141,11 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       {doPokazania.map((s, i) => (
         <>
           {i > 0 && <span aria-hidden="true"> · </span>}
-          <a href={`/idz/${s}/${nr}`} rel={rel(s)}>{sklepy[s]?.nazwa ?? s}</a>
+          <a href={`/idz/${s}/${nr}`} target="_blank" rel={rel(s)}>{sklepy[s]?.nazwa ?? s}</a>
         </>
       ))}
       {doPokazania.length > 0 && <span aria-hidden="true"> · </span>}
-      <a href={`/zestaw/${nr}/`}><b>wszystkie ceny i historia</b></a>
+      <a class="przycisk-drugi" href={`/zestaw/${nr}/`} target="_blank" rel="noopener">wszystkie ceny →</a>
     </p>
   </div>
 </div>

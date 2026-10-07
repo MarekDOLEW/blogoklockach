@@ -70,17 +70,42 @@ def parsuj(path):
     d = {'plik': os.path.basename(path), 'nr': None, 'akapity': [], 'metryka': collections.OrderedDict(), 'faq': []}
     sekcja = None; met = []; faq = []
     for styl, t in akapity_docx(path):
+        # paczka P07 partia 02 (29.09.2026): pierwszy akapit opisu to metka szablonu
+        # „Opis P07 • LEGO Bluey • 2025” – nie jest treścią, nie może trafić na stronę
+        if re.match(r'^Opis P07\b', t):
+            continue
+        # paczka P07c (22.09.2026, karta 75192): zero stylów i zero kolorów —
+        # nagłówki sekcji to gołe akapity „Metryka zestawu" / „FAQ", metryka jest
+        # tabelą (Pole | Dane), a opis stoi od razu pod tytułem bez nagłówka „Opis"
+        if not styl and t in ('Opis zestawu', 'Metryka zestawu', 'FAQ') or (not styl and t.startswith('FAQ ')):
+            styl = 'Heading2'
+        if styl.startswith('Heading') and sekcja == 'faq' and styl != 'Heading1':
+            faq.append(t); continue   # P07b: pytania FAQ są nagłówkami 2. stopnia
         if styl.startswith('Heading'):
+            # paczka P07b (15.09.2026): nagłówek FAQ po polsku („Najczęściej zadawane
+            # pytania"), tytuł z nazwą po numerze („LEGO 10371 Urocze roślinki")
             sekcja = ('opis' if 'Opis' in t else 'metryka' if 'Metryka' in t
-                      else 'faq' if 'FAQ' in t else 'inne')
+                      else 'faq' if ('FAQ' in t or 'pytania' in t.lower()) else 'inne')
             continue
         if sekcja is None:
-            m = re.match(r'LEGO (\d{4,5})$', t)
-            if m: d['nr'] = m.group(1)
+            m = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,5})(?:\s|$)', t)
+            if m and not d['nr']: d['nr'] = m.group(1); continue
+            if d['nr']: d['akapity'].append(t)   # P07c: opis bez nagłówka, zaraz pod tytułem
         elif sekcja == 'opis': d['akapity'].append(t)
         elif sekcja == 'metryka': met.append(t)
         elif sekcja == 'faq': faq.append(t)
+    if met[:2] in (['Pole', 'Informacja'], ['Pole', 'Dane']): met = met[2:]   # nagłówek tabeli w P07b/P07c
+    # P07c: metryka kończy się zdaniem-przypisem („Aktualne RRP oraz status…") bez pary
+    if len(met) % 2 == 1 and len(met[-1]) > 60: met = met[:-1]
     d['metryka'] = collections.OrderedDict((met[i], met[i+1]) for i in range(0, len(met)-1, 2))
+    # P07c: pytanie i odpowiedź w jednym akapicie („Ile kosztuje…?Oficjalna…") —
+    # rozcinamy na pierwszym „?" po którym od razu stoi wielka litera
+    rozciete = []
+    for t in faq:
+        m = re.match(r'^(.+?\?)(?=[A-ZŁŚŻŹĆŃÓĘĄ])(.+)$', t, re.DOTALL)
+        if m and not t.endswith('?'): rozciete += [m.group(1).strip(), m.group(2).strip()]
+        else: rozciete.append(t)
+    faq = rozciete
     d['faq'] = [{'q': faq[i], 'a': faq[i+1]} for i in range(0, len(faq)-1, 2)]
     return d
 
@@ -165,6 +190,12 @@ def linkuj(t, seria_repo, slug, seria_ma_strone=True):
                '<a href="#ceny">porównaj oferty w sekcji cen nad opisem</a>', t)
     t = re.sub(r'\[zobacz analizę ceny(?: i próg zakupu)? – link wewnętrzny\]',
                '<a href="#ceny">sprawdź bieżące ceny na tle katalogowej w sekcji nad opisem</a>', t)
+    # Zestawy promocyjne (GWP, paczka P07c 17.09.2026): karta odsyła do warunków
+    # promocji, a nie do cen — kierujemy na dział deali, gdzie Łowca opisuje akcje sklepów.
+    t = re.sub(r'\[sprawdź warunki zdobycia LEGO \d+ – link wewnętrzny\]',
+               '<a href="/promocje-lego/">sprawdź bieżące promocje i akcje sklepów</a>', t)
+    t = re.sub(r'\[sprawdź aktualne promocje LEGO – link wewnętrzny\]',
+               '<a href="/promocje-lego/">zobacz aktualne promocje LEGO</a>', t)
     # kategoria bez własnej strony serii (GWP „Inne", LEGO House, LEGOLAND itp.)
     # albo etykieta opisowa – kierujemy na przegląd wszystkich serii
     if seria_ma_strone:
@@ -172,6 +203,10 @@ def linkuj(t, seria_repo, slug, seria_ma_strone=True):
                    f'<a href="/serie/{slug}/">zobacz wszystkie zestawy LEGO {s}</a>', t)
     t = re.sub(r'\[zobacz kategorię [^\]]+ – link wewnętrzny\]',
                '<a href="/serie/">zobacz wszystkie serie LEGO</a>', t)
+    # placeholder stojący na początku zdania daje link od małej litery
+    # („… 99,99 zł. <a>zobacz tabelę…</a>”) – audyt tekstów 30.09.2026
+    t = re.sub(r'(^|[.!?]\s)(<a [^>]*>)([a-ząćęłńóśźż])',
+               lambda m: m.group(1) + m.group(2) + m.group(3).upper(), t)
     return t
 
 # fraza szablonu (przyjmuje mianownik) -> zamiennik przyjmujący dopełniacz;
@@ -219,19 +254,23 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
         zc = [x for x in rocznik if x.get('cena_katalogowa') and x.get('elementy')]
         med = sorted(x['cena_katalogowa'] / x['elementy'] for x in zc)[len(zc)//2] if zc else None
         cel = rrp / el if rrp else None
-        a = (f'Na tle rocznika 2026 serii LEGO {s} to '
-             + ('największy zestaw' if poz == 1 else f'{poz}. największy zestaw')
-             + f' spośród {len(rocznik)}, o których wiemy w tym roku')
+        # Zestaw spoza rocznika 2026 porównujemy z tym rocznikiem w trybie
+        # warunkowym – wcześniej 228 kart starszych zestawów mówiło, że są
+        # „N. największe spośród tych, o których wiemy w tym roku”.
+        if any(x.get('numer') == nr for x in rocznik):
+            a = (f'Wśród {len(rocznik)} zestawów LEGO {s} z 2026 roku to '
+                 + ('największy' if poz == 1 else f'{poz}. największy'))
+        else:
+            a = (f'Gdyby stanął obok {len(rocznik)} zestawów LEGO {s} z 2026 roku, byłby '
+                 + ('największy' if poz == 1 else f'{poz}. co do wielkości'))
         if 1 < poz <= 3 and wieksze:
             w0 = wieksze[0]
             a += (f' – więcej elementów ma {"tylko " if poz == 2 else "m.in. "}'
                   f'<a href="/zestaw/{w0["numer"]}/">LEGO {w0["numer"]} {w0["nazwa"]}</a> ({w0["elementy"]} el.)')
         a += '.'
         if cel and med:
-            rel = 'niżej' if cel < med else 'wyżej'
-            a += (f' Przelicznik ceny katalogowej na element wypada u niego {rel} niż mediana serii'
-                  f' ({cel:.2f} zł wobec {med:.2f} zł)'.replace('.', ',')
-                  + ' – to miara pomocnicza, ale przy porównywaniu zestawów z jednej półki cenowej bywa pierwszą wskazówką.')
+            a += (f' Za element płaci się tu katalogowo {cel:.2f} zł, przy typowych dla serii {med:.2f} zł.'
+                  .replace('.', ',').rstrip(',') + '.')
         out.append(a)
     if el and el > 1200 and rrp:
         sasiedzi = sorted([x for x in rocznik if x.get('cena_katalogowa') and x['numer'] != nr],
@@ -241,9 +280,7 @@ def akapity_redakcyjne(nr, seria_repo, el, rrp, ctx):
             out.append(
                 f'Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to '
                 f'<a href="/zestaw/{a["numer"]}/">LEGO {a["numer"]} {a["nazwa"]}</a> ({fmt_zl(a["cena_katalogowa"])} katalogowo) '
-                f'i <a href="/zestaw/{b["numer"]}/">LEGO {b["numer"]} {b["nazwa"]}</a> ({fmt_zl(b["cena_katalogowa"])}). '
-                f'Różnią się charakterem, więc przed zakupem warto zestawić nie tylko ceny, '
-                f'ale i to, co z każdego pudełka realnie trafia na półkę.')
+                f'i <a href="/zestaw/{b["numer"]}/">LEGO {b["numer"]} {b["nazwa"]}</a> ({fmt_zl(b["cena_katalogowa"])}).')
     return out
 
 # ---------- główny przebieg ----------

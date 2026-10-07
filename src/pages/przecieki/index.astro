@@ -1,0 +1,141 @@
+---
+// Przecieki: nieoficjalne zapowiedzi osobno od faktów (decyzja Marka 15.09.2026).
+// Wyróżnik: ocena pewności przy każdym wpisie i tablica trafności — po
+// rozstrzygnięciu zapisujemy, czy przeciek się sprawdził. Żaden z pięciu
+// monitorowanych serwisów PL tego nie robi (konkurencja_baza.json).
+import Base from '../../layouts/Base.astro';
+import Okruszki from '../../components/Okruszki.astro';
+import { otwarte, rozstrzygniete, statystyki, PEWNOSC, WYNIK, terminPl, dataPl, meta } from '../../lib/przecieki.js';
+
+const st = statystyki();
+const fmt = (c) => `${Number(c).toLocaleString('pl-PL')} zł`;
+const okruszki = [{ nazwa: 'Start', href: '/' }, { nazwa: 'Przecieki' }];
+const faq = [
+  { q: 'Skąd pochodzą przecieki o zestawach LEGO?', a: 'Z trzech miejsc: z sieci dystrybucji (katalogi hurtowe i sklepowe, w których numer i cena pojawiają się na kilka miesięcy przed premierą), z branżowych serwisów zagranicznych, głównie niemieckich PromoBricks i StoneWars, oraz ze społeczności fanów, gdzie trafiają zdjęcia z targów i pudełek. Przy każdym wpisie podajemy, z której z tych warstw pochodzi.' },
+  { q: 'Co oznacza pewność wysoka, średnia i niska?', a: `Wysoka: ${meta.pewnosc.wysoka}. Średnia: ${meta.pewnosc.srednia}. Niska: ${meta.pewnosc.niska}. Ocena rośnie, gdy pojawia się drugie niezależne źródło, i nigdy nie jest oceną tego, czy zestaw jest dobry.` },
+  { q: 'Czy przeciek to to samo co zapowiedź?', a: 'Nie. Zapowiedź to informacja od Grupy LEGO: karta produktu na lego.com, komunikat prasowy, prezentacja na targach. Zapowiedzi trafiają do działu Nowości i dostają stronę z ceną i sklepami. Przeciek zostaje tutaj, dopóki LEGO go nie potwierdzi, i nie ma tabeli cen, bo numer, cena i termin mogą się jeszcze zmienić.' },
+  { q: 'Dlaczego nie podajecie progu zakupu przy przeciekach?', a: 'Bo próg zakupu wymaga pewnej ceny katalogowej, a przy przecieku cena jest orientacyjna. Podajemy ją wyłącznie z dopiskiem „wg źródła”. Próg pojawi się na stronie zestawu, gdy LEGO ogłosi cenę oficjalnie.' },
+];
+const jsonld = [
+  { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Przecieki LEGO – nieoficjalne zapowiedzi z oceną pewności', inLanguage: 'pl-PL', dateModified: meta.zaktualizowano, description: `Nieoficjalne zapowiedzi zestawów LEGO: ${st.otwarte} przecieków w obserwacji, każdy ze źródłem i oceną pewności, plus tablica trafności.` },
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: okruszki.map((o, i) => ({ '@type': 'ListItem', position: i + 1, name: o.nazwa, ...(o.href ? { item: new URL(o.href, Astro.site).href } : {}) })) },
+  { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+];
+---
+<Base title="Przecieki LEGO – nieoficjalne zapowiedzi z oceną pewności" description={`${st.otwarte} nieoficjalnych zapowiedzi LEGO w obserwacji: numer, orientacyjna cena, termin, źródło i ocena pewności. Po premierze zapisujemy, czy przeciek się sprawdził.`} jsonld={jsonld}>
+  <Okruszki sciezka={okruszki} />
+  <article>
+    <h1 style="margin-top:16px">Przecieki LEGO – co może wejść, zanim LEGO to ogłosi</h1>
+    <p class="eol-aktualizacja">{st.otwarte} w obserwacji · {st.rozstrzygniete} rozstrzygniętych{st.trafnosc !== null ? ` · trafność ${st.trafnosc}%` : ''} · dział od {st.odKiedyPl}</p>
+    <p class="prose prose--szeroki">Tu zbieramy to, czego Grupa LEGO jeszcze nie potwierdziła: numery z katalogów dystrybutorów, zdjęcia z targów, doniesienia branżowych serwisów. <strong>Nie mieszamy tego z faktami</strong> – przeciek nie dostaje strony z tabelą cen ani progu zakupu, dopóki LEGO nie pokaże zestawu oficjalnie. Za to przy każdym wpisie stoi źródło i ocena pewności, a po premierze zapisujemy wynik: sprawdził się, wszedł inaczej, albo nie wszedł wcale. Tablica trafności rośnie z każdym rozstrzygnięciem – dzięki temu wiesz, ile są warte plotki, które czytasz. Potwierdzone zapowiedzi znajdziesz w <a href="/nowosci/">Nowościach</a>, a szerszy kontekst na 2027 rok w tekście <a href="/zapowiedzi-lego-2027/">Zapowiedzi LEGO 2027</a>.</p>
+
+    <section class="sekcja karta tablica-trafnosci" aria-label="Tablica trafności">
+      <div class="tt-liczby">
+        <div><strong>{st.razem}</strong><span>przecieków od {st.odKiedyPl}</span></div>
+        <div><strong>{st.potwierdzony}</strong><span>potwierdzonych przez LEGO</span></div>
+        <div><strong>{st.zmieniony}</strong><span>weszło, ale inaczej</span></div>
+        <div><strong>{st.obalony}</strong><span>nie weszło</span></div>
+      </div>
+      <p class="tt-opis">{st.rozstrzygniete === 0
+        ? 'Żaden z obserwowanych przecieków nie doczekał się jeszcze premiery ani zaprzeczenia. Pierwsze rozstrzygnięcia przyjdą z jesiennymi premierami i z falą styczniową 2027.'
+        : `Rozstrzygnięte: ${st.rozstrzygniete}. Za trafiony liczymy przeciek potwierdzony przez LEGO albo taki, po którym zestaw wszedł z inną ceną lub terminem – bo czytelnik i tak dowiedział się o nim wcześniej.`}</p>
+    </section>
+
+    <section class="sekcja" style="margin: 26px 0;">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>W obserwacji <small class="sekcja-licznik">{st.otwarte}</small></h2>
+      </div>
+      <div class="tabela-setow-wrap">
+        <table class="tabela-setow tabela-przeciekow">
+          <thead><tr><th>Zestaw</th><th>Seria</th><th>Elementy</th><th>Cena wg źródła</th><th>Termin</th><th>Pewność</th><th>Źródło</th></tr></thead>
+          <tbody>
+            {otwarte.map((p) => (
+              <tr id={`p-${p.id}`}>
+                <td><strong>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</strong>{p.hub && <> · <a href={p.hub} target="_blank" rel="noopener">strona zestawu</a></>}{p.uwagi && <div class="p-uwagi">{p.uwagi}</div>}</td>
+                <td>{p.seria}</td>
+                <td>{p.elementy ? `~${p.elementy.toLocaleString('pl-PL')}` : '–'}</td>
+                <td>{p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : '–'}</td>
+                <td>{terminPl(p.premiera_wg_zrodla)}</td>
+                <td><span class={PEWNOSC[p.pewnosc].klasa}>{PEWNOSC[p.pewnosc].etykieta}</span></td>
+                <td class="p-zrodla">{p.zrodla.map((z, i) => <>{i > 0 && ', '}{z.url ? <a href={z.url} rel={z.url.startsWith('/') ? undefined : 'nofollow noopener'} target={z.url.startsWith('/') ? undefined : '_blank'}>{z.nazwa}</a> : z.nazwa}{z.data && <small> ({dataPl(z.data)})</small>}</>)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="sekcja" style="margin: 26px 0;">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Rozstrzygnięte <small class="sekcja-licznik">{st.rozstrzygniete}</small></h2>
+      </div>
+      {rozstrzygniete.length === 0 ? (
+        <p class="prose">Jeszcze nic – dział ruszył {st.odKiedyPl}. Gdy LEGO potwierdzi albo zaprzeczy któremuś z przecieków, wpis trafi tutaj z datą i wynikiem, a licznik na górze się zmieni.</p>
+      ) : (
+        <div class="tabela-setow-wrap">
+          <table class="tabela-setow tabela-przeciekow">
+            <thead><tr><th>Zestaw</th><th>Przeciek mówił</th><th>Wynik</th><th>Co się zmieniło</th><th>Kiedy</th></tr></thead>
+            <tbody>
+              {rozstrzygniete.map((p) => (
+                <tr id={`p-${p.id}`}>
+                  <td><strong>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</strong>{p.hub && <> · <a href={p.hub} target="_blank" rel="noopener">strona zestawu</a></>}</td>
+                  <td>{[p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : null, terminPl(p.premiera_wg_zrodla), PEWNOSC[p.pewnosc].etykieta].filter(Boolean).join(' · ')}</td>
+                  <td><span class={WYNIK[p.rozstrzygniecie.wynik]?.klasa ?? 'badge-status'}>{WYNIK[p.rozstrzygniecie.wynik]?.etykieta ?? p.rozstrzygniecie.wynik}</span></td>
+                  <td>{p.rozstrzygniecie.co_sie_zmienilo ?? '–'}</td>
+                  <td>{dataPl(p.rozstrzygniecie.kiedy)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </section>
+
+    <section class="sekcja karta" style="padding:18px 22px;">
+      <h2>Jak to czytać</h2>
+      <p class="prose prose--szeroki" style="margin:0">Dla <strong>rodzica</strong>: przeciek to podpowiedź, żeby nie kupować dziś zestawu, którego następca wejdzie za dwa miesiące – ale nie powód, żeby czekać z prezentem, bo terminy się przesuwają. Dla <strong>kolekcjonera</strong>: zapowiedź nowej wersji kultowego modelu zwykle podnosi cenę wersji schodzącej z produkcji; jeśli coś z tej listy dotyczy Twojej kolekcji, sprawdź <a href="/wycofania/">listę wycofań</a>. Cena „wg źródła” to nie cena katalogowa – próg zakupu policzymy dopiero po oficjalnym ogłoszeniu.</p>
+    </section>
+
+    <section class="sekcja eol-faq" id="faq" style="margin: 34px 0;">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Przecieki LEGO – najczęstsze pytania</h2>
+      </div>
+      {faq.map((f) => (
+        <div class="karta eol-faq-wpis">
+          <h3>{f.q}</h3>
+          <p class="prose prose--szeroki">{f.a}</p>
+        </div>
+      ))}
+    </section>
+  </article>
+</Base>
+
+<style is:global>
+  .eol-aktualizacja { font-size: 0.85rem; opacity: 0.7; margin: 4px 0 14px; }
+  .sekcja-licznik { font-weight: 600; color: var(--granat-60); font-size: 0.8em; margin-left: 4px; }
+  .eol-faq-wpis { padding: 14px 18px; margin: 12px 0; }
+  .eol-faq-wpis h3 { margin: 0 0 6px; font-size: 1.05rem; }
+  .tablica-trafnosci { padding: 16px 20px; }
+  .tt-liczby { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
+  .tt-liczby div { display: flex; flex-direction: column; gap: 2px; }
+  .tt-liczby strong { font-size: 1.6rem; line-height: 1; color: var(--granat); }
+  .tt-liczby span { font-size: 0.82rem; color: var(--granat-60); }
+  .tt-opis { margin: 12px 0 0; font-size: 0.92rem; }
+  .pewnosc { display: inline-block; font-size: 0.78rem; font-weight: 700; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+  .pewnosc--wysoka { background: #e7f6ec; color: #17623a; }
+  .pewnosc--srednia { background: #fff4d6; color: #7a5200; }
+  .pewnosc--niska { background: var(--papier); color: var(--granat-60); border: 1px dashed #b9c0cd; }
+  .tabela-przeciekow td, .tabela-przeciekow th { font-size: 0.9rem; vertical-align: top; }
+  .p-uwagi { font-size: 0.8rem; color: var(--granat-60); margin-top: 2px; }
+  .p-zrodla { font-size: 0.82rem; }
+  .p-zrodla small { color: var(--granat-60); }
+  @media (max-width: 720px) {
+    .tabela-przeciekow thead { display: none; }
+    .tabela-przeciekow tr { display: block; padding: 10px 0; border-bottom: 1px solid var(--linia); }
+    .tabela-przeciekow td { display: inline-block; border: 0; padding: 2px 8px 2px 0; }
+    .tabela-przeciekow td:first-child { display: block; }
+  }
+</style>

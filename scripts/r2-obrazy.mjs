@@ -1,0 +1,263 @@
+#!/usr/bin/env node
+// Wgrywa do R2 zdjęcia, których worker nie potrafi pobrać ze źródła.
+//
+// Skąd ten skrypt (14.09.2026): 348 z 608 zdjęć galerii (/img/<nr>-<poz>.jpg)
+// oddawało 502. Wszystkie leżą w cache Planety Klocków; z kontenera te same
+// adresy dają 200, ale fetch z workera dostaje odmowę (PK odrzuca adresy
+// Cloudflare). Worker czyta R2 PRZED źródłem, więc wystarczy wgrać plik pod
+// tym samym kluczem, którego używa worker (`42220-1`, bez rozszerzenia) — bez
+// zmiany kodu i bez deployu.
+//
+// Użycie:
+//   node scripts/r2-obrazy.mjs                      # codzienny tryb: lista R2 → wgraj każde brakujące zdjęcie z danych (sekundy)
+//   node scripts/r2-obrazy.mjs --limit 300          # jak wyżej, ale najwyżej 300 plików w tym przebiegu
+//   node scripts/r2-obrazy.mjs --sprawdz            # audyt: HEAD na każde /img/ na produkcji (~15 min), także martwe źródła
+//   node scripts/r2-obrazy.mjs --sprawdz --galerie  # audyt tylko galerii (2 min)
+//   node scripts/r2-obrazy.mjs --klucze 42220-1,60478-3   # wgraj wskazane klucze (bez pytania R2 i produkcji)
+//   node scripts/r2-obrazy.mjs --optymalizuj [--limit N]  # zmniejsz obiekty w R2 cięższe niż PROG_OPTYMALIZACJI
+//
+// Optymalizacja (od 15.09.2026, decyzja Marka): worker serwuje pliki z R2 bez
+// zmiany rozmiaru, a źródła oddają oryginały do 4,6 MB (PNG 3028 px). Każdy
+// plik przechodzi więc przez sharp PRZED wgraniem: obrót wg EXIF, najwyżej
+// 1200 px dłuższego boku, JPEG progresywny (mozjpeg, jakość 80). Z 4,6 MB
+// robi się ~100 KB, z typowych 150–500 KB — 40–90 KB. Tryb --optymalizuj
+// przepuszcza przez to samo obiekty, które już leżą w R2 (listowanie podaje
+// rozmiar, więc bierzemy tylko cięższe niż próg). sharp przychodzi z Astro.
+//
+// Rejestrem „co już wgrane" jest sam kubełek R2: jedno listowanie (ok. 11 stron
+// po 1000 kluczy) mówi dokładnie, co tam leży. Osobny plik stanu w repo
+// rozjeżdżałby się przy każdym ręcznym wgraniu albo kasowaniu — kubełek nie.
+// W trybie codziennym patrzymy tylko na źródła z Planety Klocków, bo tylko ich
+// worker nie pobierze sam; Allegro i Rebrickable worker dociąga na żądanie.
+// --sprawdz pyta produkcji o każdy plik i dlatego widzi też martwe źródła
+// (np. Rebrickable 404) — to audyt, nie codzienność.
+//
+// Wymaga CF_ACCOUNT_ID i CF_R2_TOKEN (token z uprawnieniem Workers R2 Storage: Edit,
+// osobny od CF_API_TOKEN, który ma tylko Analytics: Read). Sprawdzenie samo
+// (--sprawdz) działa bez tokena.
+
+import { readFileSync } from 'node:fs';
+import sharp from 'sharp';
+
+const KUBELEK = 'tylkoklocki-obrazy';
+const PRODUKCJA = 'https://tylkoklocki.pl';
+const UA_WORKERA = 'Mozilla/5.0 (compatible; tylkoklocki.pl image cache)';
+const ROWNOLEGLE = 4;        // pobieranie ze źródła + PUT (Planeta zrywa przy większej liczbie)
+const ROWNOLEGLE_HEAD = 12;  // samo sprawdzanie produkcji — tanie, można gęściej
+const MAX_BOK = 1200;           // px; hub pokazuje 800 px CSS, 1200 starcza na retinę
+const JAKOSC = 80;
+const PROG_OPTYMALIZACJI = 250 * 1024; // obiekty w R2 cięższe niż to idą do --optymalizuj
+
+const arg = process.argv.slice(2);
+const tylkoSprawdz = arg.includes('--sprawdz');
+const tylkoGalerie = arg.includes('--galerie');
+const optymalizuj = arg.includes('--optymalizuj');
+const limit = Number(arg.find((a) => a.startsWith('--limit='))?.slice(8) ?? (arg.includes('--limit') ? arg[arg.indexOf('--limit') + 1] : 0)) || 0;
+const kluczeArg = arg.find((a) => a.startsWith('--klucze='))?.slice(9) ?? (arg.includes('--klucze') ? arg[arg.indexOf('--klucze') + 1] : null);
+
+const galerie = JSON.parse(readFileSync('src/data/galerie.json', 'utf8'));
+const obrazy = JSON.parse(readFileSync('src/data/obrazy.json', 'utf8'));
+
+// klucz -> URL źródła, dokładnie tak, jak liczy to worker (od 27.09.2026):
+// dokładny klucz z obrazy.json (także literowy i wariant „4496-2") ma
+// pierwszeństwo, dopiero potem „numer-pozycja" z galerii.
+function zrodlo(klucz) {
+  if (!/^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(klucz)) return null;
+  if (obrazy[klucz]) return obrazy[klucz];
+  const m = /^([0-9]{4,7})-([1-9][0-9]?)$/.exec(klucz);
+  return m ? galerie[m[1]]?.[Number(m[2]) - 1] ?? null : null;
+}
+
+let klucze;
+if (kluczeArg) {
+  klucze = kluczeArg.split(',').map((k) => k.trim()).filter(Boolean);
+} else {
+  const kluczeGalerii = Object.entries(galerie)
+    .filter(([n]) => /^[0-9]{4,7}$/.test(n))
+    .flatMap(([n, lista]) => lista.map((_, i) => `${n}-${i + 1}`));
+  // wszystkie zdjęcia główne, także warianty i klucze literowe (od 27.09.2026 worker je obsługuje)
+  const kluczeGlowne = Object.keys(obrazy).filter((k) => /^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(k));
+  klucze = tylkoGalerie ? kluczeGalerii : [...kluczeGalerii, ...kluczeGlowne];
+}
+
+async function partiami(lista, fn, rownolegle = ROWNOLEGLE) {
+  const wyniki = [];
+  let i = 0;
+  await Promise.all(Array.from({ length: rownolegle }, async () => {
+    while (i < lista.length) {
+      const j = i++;
+      wyniki[j] = await fn(lista[j]);
+    }
+  }));
+  return wyniki;
+}
+
+async function statusNaProdukcji(klucz) {
+  try {
+    const r = await fetch(`${PRODUKCJA}/img/${klucz}.jpg`, { method: 'HEAD', headers: { 'user-agent': UA_WORKERA } });
+    return r.status;
+  } catch {
+    return 0;
+  }
+}
+
+const { CF_ACCOUNT_ID, CF_R2_TOKEN } = process.env;
+const zPlanety = (klucz) => /planetaklockow\.pl/.test(zrodlo(klucz) ?? '');
+
+async function kluczeWR2(zRozmiarem = false) {
+  const wR2 = zRozmiarem ? new Map() : new Set();
+  let cursor = '';
+  for (let strona = 0; strona < 100; strona++) {
+    const r = await fetch(`https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects?per_page=1000${cursor ? `&cursor=${encodeURIComponent(cursor)}` : ''}`,
+      { headers: { authorization: `Bearer ${CF_R2_TOKEN}` } });
+    const d = await r.json().catch(() => ({}));
+    if (!d.success) throw new Error(`listowanie R2 nie przeszło: ${JSON.stringify(d.errors ?? r.status).slice(0, 160)}`);
+    for (const o of d.result) zRozmiarem ? wR2.set(o.key, o.size) : wR2.add(o.key);
+    if (!d.result_info?.is_truncated) break;
+    cursor = d.result_info.cursor;
+  }
+  return wR2;
+}
+
+// Ślad ostatniego przebiegu trybu codziennego: klucz `_stan/r2-obrazy.json` w tym
+// samym kubełku. Worker go nie serwuje (nie pasuje do wzorca numeru), a Kontroler
+// i diagnoza mogą go odczytać przez API — inaczej nie da się z zewnątrz sprawdzić,
+// czy Routine w świeżej sesji naprawdę uruchomił skrypt (15.09.2026: sesja
+// zakończyła się „czysto", a skrypt nie ruszył, bo nie było repo).
+let slad = null;
+async function zapiszSlad(dane) {
+  try {
+    await fetch(`https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects/${encodeURIComponent('_stan/r2-obrazy.json')}`, {
+      method: 'PUT', headers: { authorization: `Bearer ${CF_R2_TOKEN}`, 'content-type': 'application/json' }, body: JSON.stringify(dane),
+    });
+  } catch { /* ślad jest pomocniczy — brak zapisu nie unieważnia przebiegu */ }
+}
+
+let wszystkieBrakujace;
+if (optymalizuj) {
+  if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
+    console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — optymalizacja niemożliwa.');
+    process.exit(2);
+  }
+  const API = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects/`;
+  const wR2 = await kluczeWR2(true);
+  const ciezkie = [...wR2].filter(([, rozmiar]) => rozmiar > PROG_OPTYMALIZACJI).sort((a, b) => b[1] - a[1]);
+  const doZrobienia = limit ? ciezkie.slice(0, limit) : ciezkie;
+  console.log(`W R2: ${wR2.size} obiektów, cięższych niż ${PROG_OPTYMALIZACJI / 1024} KB: ${ciezkie.length}${limit ? `, w tym przebiegu ${doZrobienia.length}` : ''}`);
+  let przed = 0, po = 0;
+  const bledy = (await partiami(doZrobienia, async ([klucz, rozmiar]) => {
+    try {
+      const r = await fetch(API + encodeURIComponent(klucz), { headers: { authorization: `Bearer ${CF_R2_TOKEN}` } });
+      if (!r.ok) return `${klucz}: GET z R2 ${r.status}`;
+      const { dane, typ } = await zoptymalizuj(Buffer.from(await r.arrayBuffer()));
+      if (dane.length >= rozmiar) return null; // nie ma zysku — zostawiamy
+      const put = await fetch(API + encodeURIComponent(klucz), {
+        method: 'PUT', headers: { authorization: `Bearer ${CF_R2_TOKEN}`, 'content-type': typ }, body: dane,
+      });
+      const w = await put.json().catch(() => ({}));
+      if (!w.success) return `${klucz}: PUT ${JSON.stringify(w.errors ?? put.status).slice(0, 100)}`;
+      przed += rozmiar; po += dane.length;
+      return null;
+    } catch (e) {
+      return `${klucz}: ${String(e.message).slice(0, 100)}`;
+    }
+  })).filter(Boolean);
+  console.log(`Zmniejszone: ${doZrobienia.length - bledy.length} plików, ${(przed / 1048576).toFixed(0)} MB → ${(po / 1048576).toFixed(0)} MB. Błędy: ${bledy.length}`);
+  for (const b of bledy.slice(0, 30)) console.log('  ' + b);
+  process.exit(bledy.length ? 1 : 0);
+}
+if (tylkoSprawdz) {
+  console.log(`Sprawdzam ${klucze.length} zdjęć na produkcji…`);
+  const statusy = await partiami(klucze, async (k) => [k, await statusNaProdukcji(k)], ROWNOLEGLE_HEAD);
+  wszystkieBrakujace = statusy.filter(([, s]) => s !== 200).map(([k, s]) => ({ klucz: k, status: s }));
+  console.log(`OK: ${statusy.length - wszystkieBrakujace.length}, brakuje: ${wszystkieBrakujace.length}`);
+  for (const b of wszystkieBrakujace.slice(0, 40)) console.log(`  ${b.status}  ${b.klucz}  ${zrodlo(b.klucz) ?? '(brak źródła w danych)'}`);
+  if (wszystkieBrakujace.length > 40) console.log(`  … i ${wszystkieBrakujace.length - 40} więcej`);
+  process.exit(0);
+} else if (kluczeArg) {
+  wszystkieBrakujace = klucze.map((k) => ({ klucz: k, status: '-' }));
+} else {
+  if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
+    console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — bez nich zostaje audyt produkcji (--sprawdz).');
+    process.exit(2);
+  }
+  const wR2 = await kluczeWR2();
+  // Od 27.09.2026 (decyzja Marka: „wszystkie zdjęcia mają być u nas") kopiujemy
+  // każde brakujące zdjęcie z danych, nie tylko z Planety — wcześniej Allegro,
+  // Rebrickable i Brickset trafiały do R2 dopiero przy pierwszym wyświetleniu.
+  const zPK = klucze.filter(zPlanety);
+  const zDanych = klucze.filter((k) => zrodlo(k));
+  wszystkieBrakujace = zDanych.filter((k) => !wR2.has(k)).map((k) => ({ klucz: k, status: 'brak w R2' }));
+  console.log(`W R2: ${wR2.size} obiektów. Zdjęć w danych: ${zDanych.length} (z Planety ${zPK.length}), brakuje w R2: ${wszystkieBrakujace.length}`);
+  slad = { kiedy: new Date().toISOString(), w_r2: wR2.size, w_danych: zDanych.length, z_planety: zPK.length, brakowalo: wszystkieBrakujace.length };
+  if (wszystkieBrakujace.length === 0) {
+    await zapiszSlad({ ...slad, wgrano: 0, bledy: 0 });
+    process.exit(0);
+  }
+}
+const brakujace = limit ? wszystkieBrakujace.slice(0, limit) : wszystkieBrakujace;
+if (limit && wszystkieBrakujace.length > limit) console.log(`W tym przebiegu wgrywam najwyżej ${limit}.`);
+
+if (!CF_ACCOUNT_ID || !CF_R2_TOKEN) {
+  console.error('Brak CF_ACCOUNT_ID albo CF_R2_TOKEN — wgrywanie niemożliwe.');
+  process.exit(2);
+}
+const API = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects/`;
+
+/** Zmniejsza obraz do MAX_BOK i zapisuje jako progresywny JPEG. Zwraca { dane, typ }. */
+async function zoptymalizuj(bufor) {
+  const dane = await sharp(bufor, { failOn: 'none' })
+    .rotate()
+    .resize({ width: MAX_BOK, height: MAX_BOK, fit: 'inside', withoutEnlargement: true })
+    .flatten({ background: '#ffffff' })
+    .jpeg({ quality: JAKOSC, progressive: true, mozjpeg: true })
+    .toBuffer();
+  return { dane, typ: 'image/jpeg' };
+}
+
+async function wgraj({ klucz, status }) {
+  const url = zrodlo(klucz);
+  if (!url) return `${klucz}: brak źródła w danych (produkcja ${status})`;
+  let odp;
+  for (let proba = 1; proba <= 3; proba++) {
+    try {
+      odp = await fetch(url, { headers: { 'user-agent': UA_WORKERA } });
+      if (odp.ok) break;
+    } catch { odp = null; }
+    await new Promise((r) => setTimeout(r, proba * 2000));
+  }
+  if (!odp?.ok) return `${klucz}: źródło ${odp?.status ?? 'błąd sieci'} (${url})`;
+  const typ = odp.headers.get('content-type') ?? '';
+  if (!typ.startsWith('image/')) return `${klucz}: źródło oddało ${typ || 'nieznany typ'}, nie obraz — pomijam`;
+  let dane = Buffer.from(await odp.arrayBuffer());
+  let typWgrania = typ;
+  try {
+    ({ dane, typ: typWgrania } = await zoptymalizuj(dane));
+  } catch (e) {
+    return `${klucz}: sharp nie przetworzył pliku (${String(e.message).slice(0, 80)}) — nie wgrywam oryginału`;
+  }
+  const put = await fetch(API + encodeURIComponent(klucz), {
+    method: 'PUT',
+    headers: { authorization: `Bearer ${CF_R2_TOKEN}`, 'content-type': typWgrania },
+    body: dane,
+  });
+  const wynik = await put.json().catch(() => ({}));
+  if (!wynik.success) return `${klucz}: PUT do R2 nie przeszedł (${JSON.stringify(wynik.errors ?? put.status).slice(0, 120)})`;
+  return null;
+}
+
+console.log(`Wgrywam ${brakujace.length} plików do R2 (${KUBELEK})…`);
+const bledy = (await partiami(brakujace, wgraj)).filter(Boolean);
+console.log(`Wgrane: ${brakujace.length - bledy.length}, błędy: ${bledy.length}`);
+for (const b of bledy) console.log('  ' + b);
+
+// kontrola po wgraniu — worker ma czytać z R2, więc produkcja powinna oddać 200 od razu
+const poWgraniu = await partiami(brakujace.map((b) => b.klucz), async (k) => [k, await statusNaProdukcji(k)]);
+const nadal = poWgraniu.filter(([, s]) => s !== 200);
+console.log(`Po wgraniu nadal nie 200: ${nadal.length}`);
+for (const [k, s] of nadal.slice(0, 20)) console.log(`  ${s}  ${k}`);
+const zostalo = wszystkieBrakujace.length - brakujace.length;
+if (zostalo) console.log(`Poza limitem tego przebiegu zostało: ${zostalo} — dogra się w następnych.`);
+if (slad) await zapiszSlad({ ...slad, wgrano: brakujace.length - bledy.length, bledy: bledy.length, nadal_nie_200: nadal.length });
+// kod 1 tylko, gdy coś z tego przebiegu się nie udało; zaległość poza limitem to nie błąd
+process.exit(nadal.length ? 1 : 0);

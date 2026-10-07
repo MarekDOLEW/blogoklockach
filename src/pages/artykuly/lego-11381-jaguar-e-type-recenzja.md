@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Icons 11381 Jaguar E-Type – piękny klasyk, którego najlepiej nie oglądać tylko z przodu"
 opis: "1673 elementy, ciemnozielone nadwozie i historia konkretnego auta 77 RW z Genewy 1961. Recenzja Jaguara E-Type z serii Icons + progi cenowe: 439 zł zamiast 599,99 zł już teraz."
+seo_tytul: "LEGO 11381 Jaguar E-Type – recenzja"
+seo_opis: "1673 elementy, ciemnozielone nadwozie i historia auta 77 RW z Genewy 1961. Recenzja Jaguara E-Type z serii Icons i próg zakupu: 439 zł zamiast 599,99 zł."
 data: "2026-08-20"
 kategoria: "Recenzje"
 zestawy: ["11381"]

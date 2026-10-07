@@ -38,6 +38,12 @@
 
 export const PROG_WZGLEDEM_KATALOGU = 0.28;
 
+// Próg górny (audyt 22.09.2026): oferta powyżej 3× ceny katalogowej to
+// marketplace'owy absurd albo zły numer w feedzie (11025 za 8 981 zł przy
+// RRP 36,99; minifigurki 71051–71053 po 170–200 zł przy 16,49). Takiej ceny
+// czytelnik nie ma prawa zobaczyć w tabeli ani w JSON-LD.
+export const PROG_GORNY_WZGLEDEM_KATALOGU = 3;
+
 /**
  * Powód odrzucenia oferty albo null, gdy oferta jest wiarygodna.
  * @param {{sklep: string, cena: number}} oferta
@@ -47,6 +53,9 @@ export function powodOdrzucenia(oferta, rrp) {
   if (!rrp) return null;
   if (oferta.cena < PROG_WZGLEDEM_KATALOGU * rrp) {
     return `${Math.round(100 * (1 - oferta.cena / rrp))}% poniżej ceny katalogowej (${rrp} zł)`;
+  }
+  if (oferta.cena > PROG_GORNY_WZGLEDEM_KATALOGU * rrp) {
+    return `${(oferta.cena / rrp).toFixed(1)}× cena katalogowa (${rrp} zł)`;
   }
   return null;
 }

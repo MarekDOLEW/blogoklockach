@@ -2,6 +2,7 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO 76355 Batmobil z Powrotu Batmana – wielka premiera DC"
 opis: "2269 elementów, 45 cm i funkcja Batmissile prosto z filmu Burtona. Nowy Batmobil debiutuje 1 września – tuż przed Batman Day. Porównujemy całą linię Batmobili LEGO."
+seo_opis: "2269 elementów, 45 cm i Batmissile z filmu Burtona. Nowy Batmobil debiutuje 1 września, tuż przed Batman Day. Porównujemy całą linię Batmobili LEGO."
 data: "2026-08-19"
 kategoria: "Premiery"
 zestawy: ["76355"]

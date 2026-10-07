@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "Ranking kalendarzy adwentowych LEGO 2026: który wybrać i kiedy kupić"
 opis: "Pięć kalendarzy zamiast sześciu, bez Harry'ego Pottera, za to taniej niż rok temu. Sprawdzamy, co jest w środku każdego, i tłumaczymy, dlaczego akurat tu czekanie na Black Friday się nie opłaca."
+seo_tytul: "Kalendarze adwentowe LEGO 2026 – ranking i kiedy kupić"
+seo_opis: "Pięć kalendarzy zamiast sześciu, bez Harry'ego Pottera i taniej niż rok temu. Co jest w każdym i dlaczego tu czekanie na Black Friday się nie opłaca."
 data: "2026-08-30"
 zaktualizowano: "2026-08-30"
 kategoria: "Rankingi"

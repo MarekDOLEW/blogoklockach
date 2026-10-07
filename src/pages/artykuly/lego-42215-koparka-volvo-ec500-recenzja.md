@@ -2,6 +2,8 @@
 layout: ../../layouts/Artykul.astro
 title: "LEGO Technic 42215 Koparka Volvo EC500 Hybrid – świetna do budowania, dużo mniej przekonująca w działaniu"
 opis: "2359 elementów, jeden silnik i rozbudowana skrzynia przekładniowa. Recenzja: dlaczego 42215 jest ciekawszy w trakcie budowania niż po nim – i przy jakiej cenie ma sens. Próg zakupu: ok. 1150 zł."
+seo_tytul: "LEGO 42215 Koparka Volvo EC500 Hybrid – recenzja"
+seo_opis: "2359 elementów, jeden silnik i rozbudowana skrzynia. Dlaczego 42215 ciekawiej się buduje, niż potem działa – i przy jakiej cenie ma sens. Próg: ok. 1150 zł."
 data: "2026-08-25"
 kategoria: "Recenzje"
 zestawy: ["42215"]

@@ -181,6 +181,7 @@ while (!zPliku && strona < limitStron) {
       name: (p.name ?? '').replace(/®|™/g, '').trim(),
       price: p.price,
       status: p.status ?? null,
+      ...(Array.isArray(p.labels) && p.labels.length ? { labels: p.labels } : {}),
       url: p.url,
       ...(typeof p.elements === 'number' ? { elements: p.elements } : {}),
       ...(typeof p.priceBefore === 'number' ? { priceBefore: p.priceBefore } : {}),

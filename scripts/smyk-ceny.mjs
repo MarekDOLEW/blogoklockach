@@ -101,7 +101,10 @@ for (const [nr, { cena, url }] of przyjete) {
   if (o.smyk === undefined) nowe += 1;
   else if (o.smyk !== cena) zmienione += 1;
   o.smyk = cena;
-  wpis.data = dzis;
+  // data per sklep — hub pokazuje przy każdej cenie dzień jej odczytu;
+  // wspólnego `data` nie ruszamy, bo opisuje wiersze innych sklepów
+  (wpis.daty ??= {}).smyk = dzis;
+  if (!wpis.data) wpis.data = dzis;
   if (rodzajLinku === 'produkt') (redirects.smyk ??= {})[nr] = url;
 }
 

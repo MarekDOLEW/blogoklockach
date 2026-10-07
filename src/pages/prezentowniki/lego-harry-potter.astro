@@ -25,6 +25,9 @@ export const meta = {
   tytul: 'Prezent z LEGO Harry Potter',
   opis: 'Siedem zestawów, od 40 zł do wielkiego prezentu. Dla kogo, przy jakiej cenie kupować i co znika z rynku w grudniu.',
   data: '2026-08-24',
+  // data ostatniej zmiany treści – ta sama, którą pokazuje strona; czyta ją
+  // sitemap-prezentowniki.xml (lastmod) i feed RSS
+  zaktualizowano: '2026-08-24',
   // zdjęcie karty na /prezentowniki/ – flagowy zestaw z listy
   okladka: '76473',
 };
@@ -61,6 +64,7 @@ const faq = [
 <Prezentownik
   title="Prezent z LEGO Harry Potter: co kupić i przy jakiej cenie"
   opis="Siedem zestawów Harry Potter na prezent – od 40 zł do wielkiego pudełka. Dla kogo każdy z nich, od jakiej ceny warto kupować i które znikają z rynku w grudniu 2026."
+  seoOpis="Siedem zestawów Harry Potter na prezent – od 40 zł do wielkiego pudełka. Dla kogo każdy, od jakiej ceny kupować i które znikają w grudniu 2026."
   data="2026-08-24"
   zaktualizowano="2026-08-24"
   faq={faq}
@@ -204,11 +208,11 @@ const faq = [
 
   <h2>Czego w tym zestawieniu nie ma i dlaczego</h2>
 
-  <p><b>Kalendarza adwentowego</b> – bo to zakup sezonowy, nie prezent na dowolną okazję. Jeśli szukasz go pod grudzień, <a href="/zestaw/76456/">76456</a> jest tegoroczną pozycją i schodzi wyraźnie poniżej katalogu. Kupuje się go w październiku, nie w ostatnim tygodniu listopada, kiedy znikają z półek.</p>
+  <p><b>Kalendarza adwentowego</b> – bo to zakup sezonowy, nie prezent na dowolną okazję. Jeśli szukasz go pod grudzień, <a href="/zestaw/76456/" target="_blank" rel="noopener">76456</a> jest tegoroczną pozycją i schodzi wyraźnie poniżej katalogu. Kupuje się go w październiku, nie w ostatnim tygodniu listopada, kiedy znikają z półek.</p>
 
-  <p><b>Największych zamków</b> – <a href="/zestaw/71043/">71043 Zamek Hogwart</a> (6020 elementów) i <a href="/zestaw/76476/">76476 Ministerstwo Magii</a> (3491 elementów, ekskluzyw LEGO.com) to znakomite zestawy, ale nie prezenty. Przy kwotach powyżej tysiąca ośmiuset złotych obdarowywana osoba powinna sama zdecydować.</p>
+  <p><b>Największych zamków</b> – <a href="/zestaw/71043/" target="_blank" rel="noopener">71043 Zamek Hogwart</a> (6020 elementów) i <a href="/zestaw/76476/" target="_blank" rel="noopener">76476 Ministerstwo Magii</a> (3491 elementów, ekskluzyw LEGO.com) to znakomite zestawy, ale nie prezenty. Przy kwotach powyżej tysiąca ośmiuset złotych obdarowywana osoba powinna sama zdecydować.</p>
 
-  <p><b>Zestawów już wycofanych</b> – takich jak <a href="/zestaw/76435/">76435 Wielka Sala</a> czy <a href="/zestaw/76453/">76453 Dwór Malfoyów</a>. Bywają jeszcze w sklepach zewnętrznych, ale dostępność jest przypadkowa, a przy prezencie z terminem to zbyt duże ryzyko.</p>
+  <p><b>Zestawów już wycofanych</b> – takich jak <a href="/zestaw/76435/" target="_blank" rel="noopener">76435 Wielka Sala</a> czy <a href="/zestaw/76453/" target="_blank" rel="noopener">76453 Dwór Malfoyów</a>. Bywają jeszcze w sklepach zewnętrznych, ale dostępność jest przypadkowa, a przy prezencie z terminem to zbyt duże ryzyko.</p>
 
   <h2>Kiedy kupować</h2>
 
@@ -216,5 +220,5 @@ const faq = [
 
   <p>Po drugie: <b>najgłębsze przeceny wypadają w okolicach Black Friday (27 listopada)</b>, ale jednocześnie na grudzień 2026 przypada wycofanie kilkunastu zestawów Harry Potter. Przy pozycjach z listy wycofań czekanie do końca listopada bywa więc grą o wysoką stawkę – pełne terminy prowadzimy w dziale <a href="/wycofania/">Wycofania</a>.</p>
 
-  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych w serii, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO.</p>
+  <p class="drobne">Progi „dobra cena" i „bardzo dobra cena" wyznaczamy sami – z cen, jakie zestawy w tej serii faktycznie osiągały w sklepach. To nie stały procent od ceny katalogowej ani obietnica, że taka kwota jest dostępna dziś; bieżące oferty są w tabelach na stronach zestawów. Ceny katalogowe podajemy za sklepem LEGO.</p>
 </Prezentownik>

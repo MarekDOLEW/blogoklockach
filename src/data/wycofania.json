@@ -1,13 +1,13 @@
 {
  "_meta": {
-  "aktualizacja": "2026-09-05",
+  "aktualizacja": "2026-09-28",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
    "brickfanatics.com",
    "pl.brickfanatics.com"
   ],
-  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje. Status 'wycofany' dotyczy tylko lego.com - inni sprzedawcy moga sprzedawac zapasy jeszcze przez wiele miesiecy, wiec w uwagach kieruj czytelnika do innych sklepow (bez slowa 'resztki'), a cene katalogowa i aktywny link do LEGO zostawiamy do konca.",
+  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz zrodel branzowych (Brickset, Brick Fanatics, StoneWars, PromoBricks). Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany' / 'odwolane'. Pole status: 'potwierdzone' (Grupa LEGO dala sygnal) lub 'przewidywane' (prognoza rynku). Pelna regula statusow: _meta.regula_statusow oraz RUNBOOK.md, sekcja 'Statusy: wycofania, nowosci, EOL'. Dopisuj TYLKO zweryfikowane pozycje. Status 'wycofany' dotyczy tylko lego.com - inni sprzedawcy moga sprzedawac zapasy jeszcze przez wiele miesiecy; listing pokazuje wtedy 'w sprzedazy' + znacznik EOL i cene sklepu, a tabela cen huba wiersz LEGO.com z cena katalogowa i EOL bez linku.",
   "serie_kolejnosc": [
    "Ideas",
    "Icons",
@@ -20,6 +20,15 @@
    "Friends",
    "Ninjago",
    "BrickHeadz"
+  ],
+  "aktualizacja_reguly": "2026-09-13",
+  "regula_statusow": [
+   "1. status 'potwierdzone' (na stronie: 'potwierdzone przez LEGO') - FAKT. Tylko gdy Grupa LEGO dala sygnal: zestaw w dziale 'Ostatnie sztuki' / 'Retiring soon' na lego.com, oficjalny komunikat LEGO, albo zestaw zniknal z lego.com (wtedy kiedy: 'wycofany'). Zapisz zrodlo i date w polu 'zrodlo' (np. 'lego.com Ostatnie sztuki, 2026-09-13').",
+   "2. status 'przewidywane' (na stronie: 'prognoza rynku') - PROGNOZA. Zgodne przewidywania co najmniej dwoch zrodel branzowych (Brickset, Brick Fanatics, StoneWars, PromoBricks, listy EOL konkurencji). Pole kiedy = przewidywany termin. Zapisz zrodla w polu 'zrodlo'. Prognozy sa wazne - pokazuja, ze trzymamy reke na pulsie - ale nigdy nie wolno ich podpisac jako potwierdzone.",
+   "3. Przejscia: (a) przewidywane -> potwierdzone, gdy LEGO potwierdzi (nie kasuj wpisu: zmien status, uzupelnij zrodlo, dopisz 'potwierdzono': 'RRRR-MM-DD'); (b) potwierdzone z terminem -> potwierdzone + kiedy: 'wycofany', gdy zestaw zniknie z lego.com; (c) prognoza, ktorej LEGO zaprzeczylo albo termin minal bez wycofania -> kiedy: 'odwolane' + wyjasnienie w uwagach (wpis zostaje w pliku, strona go nie pokazuje). Nowe daty po przesunieciu: zmien kiedy, zostaw status.",
+   "4. kiedy: 'wycofany' wymaga status: 'potwierdzone' (znikniecie z lego.com to fakt) i musi miec odbicie w katalog.json (status 'eol'). Po kazdym przebiegu uruchom: node scripts/audyt-wycofan.mjs --napraw.",
+   "5. Wpis z status: 'przewidywane' nigdy nie ma kiedy: 'wycofany'. Rozjazdy miedzy lista a katalog.json wypisuje node scripts/audyt-wycofan.mjs (sekcja B: katalog 'eol' przy wpisie z przyszlym terminem - sprawdz recznie, ktore zrodlo ma racje; lista wycofan ma pierwszenstwo na stronie).",
+   "6. Kazdy wpis ma pola: numer, nazwa, seria, elementy, kiedy, status, uwagi (1-2 zdania dla czytelnika: dlaczego warto kupic teraz), zrodlo. Pole zdjecie opcjonalne. Liczba wpisow nie moze malec (append-only)."
   ]
  },
  "wycofania": [
@@ -28,10 +37,11 @@
    "nazwa": "Fortepian",
    "seria": "Ideas",
    "elementy": 3662,
-   "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
    "uwagi": "Muzycy i fani mechanicznych cudeniek dostali dodatkowy rok na zakup grającego fortepianu, ale chwilowe braki w sklepie pokazują, że końcówka produkcji bywa kapryśna.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_24221_1024_1024/LEGO-Ideas-21323-Fortepian.jpg?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_24221_1024_1024/LEGO-Ideas-21323-Fortepian.jpg?overlay=1",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026"
   },
   {
    "numer": "21333",
@@ -159,10 +169,11 @@
    "nazwa": "Bukiet kwiatów",
    "seria": "Icons",
    "elementy": 756,
-   "kiedy": "2026",
-   "status": "przewidywane",
-   "uwagi": "Kultowy bukiet, którego wycofanie przekładano już kilka razy, tym razem naprawdę się żegna – a to prezent, który sprawdza się zawsze.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_23190_1024_1024/LEGO-Creator-10280-Bukiet-kwiatow.jpg?overlay=1"
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "uwagi": "Kultowy bukiet, którego wycofanie przekładano latami, faktycznie zniknął ze sklepu LEGO – u innych sprzedawców wciąż bywa dostępny, a to jeden z najczęściej kupowanych prezentowych zestawów.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_23190_1024_1024/LEGO-Creator-10280-Bukiet-kwiatow.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany w migawkach 15.09 i 22.09, katalog.json status eol — stan na 2026-09-28"
   },
   {
    "numer": "10302",
@@ -189,9 +200,10 @@
    "nazwa": "Wieża Eiffla",
    "seria": "Icons",
    "elementy": 10001,
-   "kiedy": "wycofany",
+   "kiedy": "odwołane",
    "status": "potwierdzone",
-   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż na lego.com, jednak inni sprzedawcy mogą wciąż mieć zapasy – po ich wyczerpaniu tak monumentalne konstrukcje zwykle drożeją."
+   "uwagi": "Lipcowe wycofanie nie doszło do skutku – LEGO wznowiło sprzedaż prawie półtorametrowej wieży, a branżowe listy przesuwają jej zejście na 2027 rok, więc na razie nie ma powodu do zakupowej paniki.",
+   "zrodlo": "karta produktu lego.com \"Dostępne teraz\" (audyt 13.09.2026); brak w dziale Ostatnie sztuki 2026-09-14"
   },
   {
    "numer": "10309",
@@ -201,7 +213,8 @@
    "kiedy": "grudzień 2026",
    "status": "potwierdzone",
    "uwagi": "Sukulenty od lat są hitem wśród dorosłych budowniczych, więc ich grudniowe zniknięcie z oferty to dobry powód, by kupić je zawczasu.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30639_1024_1024/LEGO-10309-Icons-Sukulenty.png?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30639_1024_1024/LEGO-10309-Icons-Sukulenty.png?overlay=1",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026 — LEGO sprzedaje ostatnie sztuki"
   },
   {
    "numer": "10315",
@@ -270,7 +283,8 @@
    "elementy": 3011,
    "kiedy": "grudzień 2026",
    "status": "potwierdzone",
-   "uwagi": "Pasjonaci wypraw polarnych mają czas tylko do końca roku, by statek Shackletona trafił na ich półkę w oficjalnej cenie."
+   "uwagi": "Pasjonaci wypraw polarnych mają czas tylko do końca roku, by statek Shackletona trafił na ich półkę w oficjalnej cenie.",
+   "zrodlo": "listing lego.pl 15.09.2026: w sprzedaży (ostatnie sztuki), potwierdzone przez Marka 16.09.2026; wcześniej błędnie „wycofany” po weryfikacji z 14.09"
   },
   {
    "numer": "10337",
@@ -386,7 +400,8 @@
    "elementy": 346,
    "kiedy": "grudzień 2026",
    "status": "potwierdzone",
-   "uwagi": "Tęczowa ekipa minifigurek to tani, symboliczny zestaw, po który warto sięgnąć przed wycofaniem, bo podobnych propozycji LEGO nie wydaje często."
+   "uwagi": "Tęczowa ekipa minifigurek to tani, symboliczny zestaw, po który warto sięgnąć przed wycofaniem, bo podobnych propozycji LEGO nie wydaje często.",
+   "zrodlo": "listing lego.pl 15.09.2026: w sprzedaży (ostatnie sztuki), potwierdzone przez Marka 16.09.2026; wcześniej błędnie „wycofany” po weryfikacji z 14.09"
   },
   {
    "numer": "75192",
@@ -1184,10 +1199,11 @@
    "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
    "seria": "Technic",
    "elementy": 1080,
-   "kiedy": "2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Wyprzedaż magazynowa z rabatem 40% czyni księżycowy łazik wyjątkowo opłacalnym celem dla łowców okazji, zanim zniknie na dobre.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42495_1024_1024/LEGO-42211-Technic-Kosmiczny-lazik-ksiezycowy-Lunar-Outpost.jpg?overlay=1"
+   "uwagi": "Kosmiczny łazik zszedł ze sklepu LEGO po sierpniowej wyprzedaży końcówek – inni sprzedawcy mogą mieć jeszcze zapasy, często poniżej ceny katalogowej.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42495_1024_1024/LEGO-42211-Technic-Kosmiczny-lazik-ksiezycowy-Lunar-Outpost.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany w migawkach 15.09 i 22.09, katalog.json status eol — stan na 2026-09-28"
   },
   {
    "numer": "42215",
@@ -1655,8 +1671,9 @@
    "elementy": 220,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Budowane z klocków lotosy to tani dodatek do botanicznych kolekcji dorosłych, dlatego po wycofaniu warto jeszcze przejrzeć półki lokalnych sklepów.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1"
+   "uwagi": "Lotosy po kilku powrotach do sprzedaży ostatecznie zniknęły ze sklepu LEGO – tani zestaw botaniczny łatwo jeszcze znaleźć u innych sprzedawców, ale to już końcówki.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany w migawkach 15.09 i 22.09, katalog.json status eol — stan na 2026-09-28"
   },
   {
    "numer": "40725",
@@ -2604,8 +2621,9 @@
    "seria": "BrickHeadz",
    "elementy": 156,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
-   "uwagi": "Sympatyczny osiołek z Kubusia Puchatka sprawdzi się jako drobny upominek, ale kupujący prezenty mają na niego czas tylko do końca roku."
+   "status": "potwierdzone",
+   "uwagi": "Sympatyczny osiołek z Kubusia Puchatka sprawdzi się jako drobny upominek, ale kupujący prezenty mają na niego czas tylko do końca roku.",
+   "zrodlo": "listing lego.pl 15.09.2026: w sprzedaży (ostatnie sztuki), potwierdzone przez Marka 16.09.2026; wcześniej błędnie „wycofany” po weryfikacji z 14.09"
   },
   {
    "numer": "40801",
@@ -2676,8 +2694,1339 @@
    "seria": "BrickHeadz",
    "elementy": 224,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
-   "uwagi": "Bez Megatrona kolekcja Transformers pozostaje niekompletna, a przewidywane wycofanie po jednym sezonie czyni go potencjalnie najrzadszym z trójki."
+   "status": "potwierdzone",
+   "uwagi": "Bez Megatrona kolekcja Transformers pozostaje niekompletna, a przewidywane wycofanie po jednym sezonie czyni go potencjalnie najrzadszym z trójki.",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026 — LEGO sprzedaje ostatnie sztuki"
+  },
+  {
+   "numer": "41382",
+   "nazwa": "Kalendarz adwentowy 2019",
+   "seria": "Friends",
+   "elementy": 330,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Kalendarz adwentowy sprzed kilku sezonów — LEGO nie wznawia roczników, więc jedynym źródłem pozostaje rynek wtórny, gdzie komplety w folii chodzą powyżej dawnej ceny katalogowej."
+  },
+  {
+   "numer": "41353",
+   "nazwa": "Kalendarz adwentowy 2018",
+   "seria": "Friends",
+   "elementy": 500,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Rocznik 2018 zszedł z oferty dawno temu. Kalendarze adwentowe wracają co roku w nowej wersji, ale stare numery nie są wznawiane, więc ceny zależą już wyłącznie od podaży na rynku wtórnym."
+  },
+  {
+   "numer": "30414",
+   "nazwa": "Magiczny kufer Emmy",
+   "seria": "Friends",
+   "elementy": 67,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek z serii Friends, dawno wycofany. Takie polybagi rozchodzą się szybko i po zejściu z oferty bywają droższe od większych zestawów o tej samej liczbie elementów."
+  },
+  {
+   "numer": "71439",
+   "nazwa": "Przygody z interaktywną figurką Mario",
+   "seria": "Super Mario",
+   "elementy": 218,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Interaktywna figurka Mario była sercem całej linii — po jej wycofaniu pozostałe zestawy Super Mario tracą część funkcji, więc zainteresowanie egzemplarzami z rynku wtórnego utrzymuje się mimo zakończenia produkcji."
+  },
+  {
+   "numer": "30702",
+   "nazwa": "Mario Kart - Toad (Pit Crew)",
+   "seria": "Super Mario",
+   "elementy": 39,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii Mario Kart, rozdawany w krótkiej akcji. Poza oficjalnym obiegiem jego cena zależy od tego, ile sztuk trafiło do kolekcjonerów, a nie od liczby elementów."
+  },
+  {
+   "numer": "76957",
+   "nazwa": "Ucieczka welociraptora",
+   "seria": "Jurassic World",
+   "elementy": 137,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Mały zestaw bitewny z Jurassic World, wycofany po dwóch sezonach. Warto porównać go z nowszymi modelami z dinozaurami, zanim sięgnie się po ofertę z rynku wtórnego."
+  },
+  {
+   "numer": "10356",
+   "nazwa": "Star Trek: U.S.S. Enterprise NCC-1701-D",
+   "seria": "Icons",
+   "elementy": 3600,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "zrodlo": "listing lego.pl 15.09.2026: w sprzedaży (ostatnie sztuki), potwierdzone przez Marka 16.09.2026; wcześniej błędnie „wycofany” po weryfikacji z 14.09",
+   "uwagi": "Duży model kolekcjonerski dla dorosłych, schodzi z oferty po jednym sezonie. Przy 3 600 elementach i licencji Star Trek takie zestawy po wycofaniu należą do najmocniej drożejących."
+  },
+  {
+   "numer": "30709",
+   "nazwa": "Ferrari 499P – hipersamochód",
+   "seria": "Speed Champions",
+   "elementy": 62,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy dodatek Speed Champions z krótkiej akcji promocyjnej. Zestawy tego typu nie wracają do oferty, a ich cena po wycofaniu bywa wielokrotnością katalogowej."
+  },
+  {
+   "numer": "30686",
+   "nazwa": "Mój pierwszy kwiatek i pszczoła",
+   "seria": "DUPLO",
+   "elementy": 7,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Najmniejszy dodatek DUPLO, siedem elementów rozdawanych przy zakupach. Po zakończeniu akcji dostępny wyłącznie z drugiej ręki."
+  },
+  {
+   "numer": "30695",
+   "nazwa": "Miniaturowy zamek Kopciuszka z ogrodem",
+   "seria": "Disney",
+   "elementy": 52,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy zamek z serii Disney, dodatek do zakupów. Krótka dostępność sprawia, że na rynku wtórnym bywa wyceniany znacznie powyżej pierwotnej wartości."
+  },
+  {
+   "numer": "30694",
+   "nazwa": "Kosmiczny mech naukowy",
+   "seria": "City",
+   "elementy": 49,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek z serii City, rozdawany w ograniczonej akcji. Jego cena poza oficjalnym obiegiem nie ma związku z liczbą elementów."
+  },
+  {
+   "numer": "30701",
+   "nazwa": "Kwiaty polne",
+   "seria": "Botanicals",
+   "elementy": 77,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Mały zestaw botaniczny z akcji promocyjnej. Seria Botanicals ma wiernych zbieraczy, więc nawet drobne dodatki utrzymują wartość po wycofaniu."
+  },
+  {
+   "numer": "30693",
+   "nazwa": "Policyjny skuter wodny",
+   "seria": "City",
+   "elementy": 29,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii City, wycofany po sezonie. Warto porównać go z regularnymi zestawami policyjnymi, zanim sięgnie się po rynek wtórny."
+  },
+  {
+   "numer": "30708",
+   "nazwa": "Minimodel Sokoła Millennium",
+   "seria": "Star Wars",
+   "elementy": 74,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Minimodel Sokoła Millennium z krótkiej akcji. Miniaturowe wersje kultowych statków Star Wars należą do najczęściej poszukiwanych dodatków po zejściu z oferty."
+  },
+  {
+   "numer": "30692",
+   "nazwa": "Święty Mikołaj i świąteczny komin",
+   "seria": "Creator",
+   "elementy": 60,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Świąteczny dodatek sezonowy — wraca do sprzedaży wyłącznie w formie nowych numerów, nie wznowień."
+  },
+  {
+   "numer": "30661",
+   "nazwa": "Budka powitalna Ashy",
+   "seria": "Disney",
+   "elementy": 46,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek promocyjny z serii Disney, dostępny tylko przez jeden sezon."
+  },
+  {
+   "numer": "40906",
+   "nazwa": "Restauracje świata: Japonia",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": 289,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Zestaw z serii Restauracje świata, rozdawany przy zakupach w ograniczonej akcji. Po jej zakończeniu ceny na rynku wtórnym potrafią kilkukrotnie przekroczyć wartość katalogową — to typowe dla dodatków, których LEGO nie sprzedawało osobno."
+  },
+  {
+   "numer": "40892",
+   "nazwa": "Kolekcja odznak z regionu Kanto",
+   "seria": "Pokémon",
+   "elementy": 312,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Kolekcja odznak Pokémon z krótkiej akcji promocyjnej. Zestawy rozdawane przy zakupach nie wracają do oferty, a ich wycena zależy wyłącznie od podaży."
+  },
+  {
+   "numer": "40887",
+   "nazwa": "SMART Play: Ditto jako Squirtle – maraton filmowy",
+   "seria": "Pokémon",
+   "elementy": 185,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Dodatek z linii SMART Play, dostępny przez krótki czas przy zakupach. Poza oficjalnym obiegiem ceny bywają wielokrotnością katalogowej."
+  },
+  {
+   "numer": "40886",
+   "nazwa": "Zakochane pingwiny",
+   "seria": "Seasonal",
+   "elementy": 278,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Sezonowy zestaw walentynkowy — LEGO wypuszcza takie modele na jeden sezon i nie wznawia ich w kolejnych latach."
+  },
+  {
+   "numer": "40911",
+   "nazwa": "Małe Centrum Pokémonów",
+   "seria": "Pokémon",
+   "elementy": 233,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Małe Centrum Pokémonów z akcji promocyjnej. Po zakończeniu akcji dostępne wyłącznie z drugiej ręki."
+  },
+  {
+   "numer": "40908",
+   "nazwa": "Restauracje świata: Grecja",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": 254,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Grecka odsłona serii Restauracje świata, rozdawana przy zakupach. Ta sama zasada co przy pozostałych dodatkach: brak wznowień i cena zależna od podaży."
+  },
+  {
+   "numer": "40885",
+   "nazwa": "Rodzina kaczek",
+   "seria": "Creator",
+   "elementy": 262,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Niewielki zestaw Creator z krótkiej dostępności. Warto porównać go z regularnymi modelami zwierząt, zanim sięgnie się po ofertę z rynku wtórnego."
+  },
+  {
+   "numer": "30733",
+   "nazwa": "Badnik: Skorp",
+   "seria": "Sonic",
+   "elementy": 80,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Polybag z serii Sonic, rozdawany w ograniczonej akcji przy zakupach."
+  },
+  {
+   "numer": "30716",
+   "nazwa": "Uroczy zajączek wielkanocny",
+   "seria": "Creator",
+   "elementy": 66,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Wielkanocny dodatek sezonowy — wraca wyłącznie jako nowy numer w kolejnym roku, nie jako wznowienie."
+  },
+  {
+   "numer": "30734",
+   "nazwa": "Mały bolid F1 ACADEMY",
+   "seria": "Speed Champions",
+   "elementy": 58,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Miniaturowy bolid z akcji promocyjnej Speed Champions, dostępny przez krótki czas."
+  },
+  {
+   "numer": "30736",
+   "nazwa": "Biały wodnosamolot",
+   "seria": "Technic",
+   "elementy": 82,
+   "kiedy": "wycofany",
+   "status": "potwierdzone",
+   "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
+   "uwagi": "Drobny dodatek Technic z krótkiej akcji przy zakupach."
+  },
+  {
+   "numer": "75685",
+   "nazwa": "Obraz Emerald City",
+   "seria": "Wicked",
+   "elementy": 1518,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Obraz z Wicked wchodzi na liste wycofan po niespelna roku w sprzedazy — krotki cykl typowy dla zestawow zwiazanych z premiera filmowa.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "80119",
+   "nazwa": "Obraz z galopującymi końmi",
+   "seria": "Seasonal",
+   "elementy": 1650,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii swiat ksiezycowych konczy cykl razem z reszta chinskiej kolekcji sezonowej; poza Azja byl w Polsce dostepny nierownomiernie.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "76304",
+   "nazwa": "Batmobil Batman Forever",
+   "seria": "Batman",
+   "elementy": 909,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Batmobil z Batman Forever schodzi z oferty producenta; to jedna z nielicznych wersji tego pojazdu w skali do ekspozycji.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "80118",
+   "nazwa": "Chińska petarda noworoczna",
+   "seria": "Seasonal",
+   "elementy": 1039,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Petarda noworoczna to pozycja sezonowa — po wycofaniu wraca zwykle tylko na rynku wtornym.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "43262",
+   "nazwa": "Classic Suknie Diaboliny i Cruelli De Mon",
+   "seria": "Disney",
+   "elementy": 524,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z sukniami Diaboliny i Cruelli zamyka podserie kostiumowa Disneya z tego rocznika.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "10459",
+   "nazwa": "Bluey Dom rodzinny Blue z grą pamięciową",
+   "seria": "DUPLO",
+   "elementy": 83,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Dom rodziny Bluey z gra pamieciowa konczy cykl w DUPLO; licencja Bluey w klockach rotuje szybko.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "43217",
+   "nazwa": "Dom z bajki „Odlot”",
+   "seria": "Disney",
+   "elementy": 598,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Dom z „Odlotu” byl w sprzedazy dlugo jak na Disneya i nalezy do zestawow czesto wybieranych na prezent.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "76924",
+   "nazwa": "Mercedes-AMG G 63 i Mercedes-AMG SL 63",
+   "seria": "Speed Champions",
+   "elementy": 808,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Para Mercedesow zamyka rocznik Speed Champions 2024 — te zestawy wymienia sie rok do roku.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "40708",
+   "nazwa": "Disney Mały zamek Arielki",
+   "seria": "Disney",
+   "elementy": 557,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Mini zamek Arielki to drobna pozycja uzupelniajaca, ktora po wycofaniu znika z oferty bez nastepcy w tej skali.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "10450",
+   "nazwa": "Gra Zamek Hopsy",
+   "seria": "DUPLO",
+   "elementy": 47,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Gra Zamek Hopsy konczy cykl w DUPLO.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "77242",
+   "nazwa": "Bolid F1 Ferrari SF-24",
+   "seria": "Speed Champions",
+   "elementy": 275,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Bolid Ferrari SF-24 schodzi razem z cala trojka samochodow F1 z tego rocznika — nowe sezony dostaja nowe numery.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "77243",
+   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
+   "seria": "Speed Champions",
+   "elementy": 251,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Bolid Red Bull RB20 wycofywany razem z pozostalymi modelami F1 z rocznika.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "77259",
+   "nazwa": "Bolid Audi Revolut F1 Team R26",
+   "seria": "Speed Champions",
+   "elementy": 215,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Bolid Audi R26 wycofywany razem z pozostalymi modelami F1 z rocznika.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "43033",
+   "nazwa": "Koszulka piłkarska reprezentacji USA 2026",
+   "seria": "Editions",
+   "elementy": 167,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Koszulka reprezentacji USA to pozycja zwiazana z mistrzostwami 2026 — po turnieju schodzi z oferty.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "43263",
+   "nazwa": "Zamek z Pięknej i Bestii",
+   "seria": "Disney",
+   "elementy": 2916,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zamek z Pieknej i Bestii ma juz w naszym katalogu status wycofanego; wpis porzadkuje liste.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "10461",
+   "nazwa": "Ogród i szklarnia Dziadka Świnki",
+   "seria": "DUPLO",
+   "elementy": 102,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Ogrod i szklarnia Dziadka Swinki konczy cykl w DUPLO.",
+   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+  },
+  {
+   "numer": "77053",
+   "nazwa": "Stargazing with Celeste",
+   "seria": "Animal Crossing",
+   "elementy": 78,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Animal Crossing kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77056",
+   "nazwa": "Blathers's Museum Collection",
+   "seria": "Animal Crossing",
+   "elementy": 543,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Animal Crossing kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77058",
+   "nazwa": "Goldie's Cosy House",
+   "seria": "Animal Crossing",
+   "elementy": 149,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Animal Crossing kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21060",
+   "nazwa": "Himeji Castle",
+   "seria": "Architecture",
+   "elementy": 2125,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Duży zestaw (2125 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "31216",
+   "nazwa": "Keith Haring - Dancing Figures",
+   "seria": "Art",
+   "elementy": 1773,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Duży zestaw (1773 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "11201",
+   "nazwa": "Playground Fun with Bluey",
+   "seria": "Bluey",
+   "elementy": 104,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Bluey kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "11202",
+   "nazwa": "Bluey’s Beach & Family Car Trip",
+   "seria": "Bluey",
+   "elementy": 133,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Bluey kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "11040",
+   "nazwa": "Magiczny zestaw z przezroczystymi klockami",
+   "seria": "Classic",
+   "elementy": 340,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Classic dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "76303",
+   "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+   "seria": "Batman",
+   "elementy": 429,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Batman dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43258",
+   "nazwa": "Barka Kakamorów",
+   "seria": "Disney",
+   "elementy": 572,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43260",
+   "nazwa": "Zabawy Vaiany na wyspie",
+   "seria": "Disney",
+   "elementy": 175,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43264",
+   "nazwa": "Toy Story - Okolicznościowy pociąg i Pan Sterowany",
+   "seria": "Disney",
+   "elementy": 206,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43265",
+   "nazwa": "Kraina lodu - Zamek w Arendelle",
+   "seria": "Disney",
+   "elementy": 177,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43267",
+   "nazwa": "Zamek księżniczek i królewskie zwierzaki",
+   "seria": "Disney",
+   "elementy": 787,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43268",
+   "nazwa": "Domek na plaży Lilo i Stitcha",
+   "seria": "Disney",
+   "elementy": 834,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43270",
+   "nazwa": "Kajakowa przygoda Vaiany",
+   "seria": "Disney",
+   "elementy": 529,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43272",
+   "nazwa": "Heiheia",
+   "seria": "Disney",
+   "elementy": 566,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43277",
+   "nazwa": "Samochód Cruelli De Mon",
+   "seria": "Disney",
+   "elementy": 378,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43278",
+   "nazwa": "Miniaturowy zamek w Arendelle i lodowy pałac Elzy",
+   "seria": "Disney",
+   "elementy": 306,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43284",
+   "nazwa": "Mała Anna i Elza",
+   "seria": "Disney",
+   "elementy": 65,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43285",
+   "nazwa": "Magiczny minipałac Arielki",
+   "seria": "Disney",
+   "elementy": 179,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43291",
+   "nazwa": "Mała Bella i Tiana z zamkiem",
+   "seria": "Disney",
+   "elementy": 358,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z disneyowskiej półki schodzi w grudniowej fali – to zwykle ostatni moment na zakup w normalnej cenie.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43303",
+   "nazwa": "Mała Dżasmina i Roszpunka",
+   "seria": "Disney",
+   "elementy": 59,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Disneyowska pozycja żegna się z ofertą z końcem roku – kolekcjonerzy bajkowych światów mają czas do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71492",
+   "nazwa": "Mateo's Fire Chameleon",
+   "seria": "DREAMZzz",
+   "elementy": 443,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71499",
+   "nazwa": "Mateo's Spray Paint Truck",
+   "seria": "DREAMZzz",
+   "elementy": 929,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71500",
+   "nazwa": "Nightmare Shark Submarine",
+   "seria": "DREAMZzz",
+   "elementy": 1413,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71508",
+   "nazwa": "Lisi mech-strażnik",
+   "seria": "DREAMZzz",
+   "elementy": 883,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71512",
+   "nazwa": "Krokodylołódź podwodna",
+   "seria": "DREAMZzz",
+   "elementy": 1107,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71513",
+   "nazwa": "Koszmarna skorpionowa koparka",
+   "seria": "DREAMZzz",
+   "elementy": 505,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71514",
+   "nazwa": "Dinostatek kosmiczny",
+   "seria": "DREAMZzz",
+   "elementy": 1007,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71515",
+   "nazwa": "Rekinoczołg tygrysi",
+   "seria": "DREAMZzz",
+   "elementy": 1548,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii DREAMZzz kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10412",
+   "nazwa": "Pociąg ze zwierzątkami",
+   "seria": "DUPLO",
+   "elementy": 19,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10441",
+   "nazwa": "Sorter kształtów: dom szczeniaczków",
+   "seria": "DUPLO",
+   "elementy": 17,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10442",
+   "nazwa": "Rodziny dzikich zwierząt: pingwiny i lwy",
+   "seria": "DUPLO",
+   "elementy": 10,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Prosty zestaw dla najmłodszych, który po grudniu zniknie z regularnej oferty – rodzice maluchów mają ostatni kwartał na spokojny zakup.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10443",
+   "nazwa": "Pierwszy raz na lotnisku",
+   "seria": "DUPLO",
+   "elementy": 23,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Prosty zestaw dla najmłodszych, który po grudniu zniknie z regularnej oferty – rodzice maluchów mają ostatni kwartał na spokojny zakup.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10444",
+   "nazwa": "Kreatywny ogród i kwiaty",
+   "seria": "DUPLO",
+   "elementy": 45,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10445",
+   "nazwa": "Bolidy i kierowcy F1",
+   "seria": "DUPLO",
+   "elementy": 70,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "DUPLO schodzi falami, a ten zestaw żegna się wraz z końcem roku – warto go złapać przy okazji świątecznych zakupów.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10446",
+   "nazwa": "Rodziny dzikich zwierząt 3w1",
+   "seria": "DUPLO",
+   "elementy": 92,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "DUPLO schodzi falami, a ten zestaw żegna się wraz z końcem roku – warto go złapać przy okazji świątecznych zakupów.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10448",
+   "nazwa": "3 w 1 Zwierzątka na kółkach",
+   "seria": "DUPLO",
+   "elementy": 58,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Prosty zestaw dla najmłodszych, który po grudniu zniknie z regularnej oferty – rodzice maluchów mają ostatni kwartał na spokojny zakup.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10451",
+   "nazwa": "3 w 1 Dinozaury na kółkach",
+   "seria": "DUPLO",
+   "elementy": 108,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10452",
+   "nazwa": "Świnka Peppa Wyprawa na biwak",
+   "seria": "DUPLO",
+   "elementy": 32,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10453",
+   "nazwa": "Peppa Pig Wesołe miasteczko",
+   "seria": "DUPLO",
+   "elementy": 53,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Prosty zestaw dla najmłodszych, który po grudniu zniknie z regularnej oferty – rodzice maluchów mają ostatni kwartał na spokojny zakup.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10455",
+   "nazwa": "Disney Przyjęcie w lodowym zamku Anny i Elzy",
+   "seria": "DUPLO",
+   "elementy": 54,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "DUPLO schodzi falami, a ten zestaw żegna się wraz z końcem roku – warto go złapać przy okazji świątecznych zakupów.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10456",
+   "nazwa": "Disney Wizyta McQueena w warsztacie Wójta",
+   "seria": "DUPLO",
+   "elementy": 35,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "DUPLO schodzi falami, a ten zestaw żegna się wraz z końcem roku – warto go złapać przy okazji świątecznych zakupów.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "10458",
+   "nazwa": "Bluey Wyprawa po lody z Blue",
+   "seria": "DUPLO",
+   "elementy": 22,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Klasyczna pozycja do pierwszej zabawy klockami; grudniowe zejście oznacza, że w nowym roku zostaną tylko następcy.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43032",
+   "nazwa": "Oficjalne logo FIFA World Cup 2026",
+   "seria": "Editions",
+   "elementy": 298,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Editions dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77075",
+   "nazwa": "Peely & Sparkplug's Camp",
+   "seria": "Fortnite",
+   "elementy": 250,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Fortnite kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77076",
+   "nazwa": "Durrr Burger Restaurant",
+   "seria": "Fortnite",
+   "elementy": 546,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Fortnite kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77078",
+   "nazwa": "Mecha Team Leader",
+   "seria": "Fortnite",
+   "elementy": 2503,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Fortnite kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "42692",
+   "nazwa": "Stoisko z lodami i balonami",
+   "seria": "Friends",
+   "elementy": 107,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Friends dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "76969",
+   "nazwa": "Szkielety dinozaurów: czaszka triceratopsa",
+   "seria": "Jurassic World",
+   "elementy": 468,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Jurassic World dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "76972",
+   "nazwa": "Ucieczka terenówką przed raptorem",
+   "seria": "Jurassic World",
+   "elementy": 285,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Jurassic World dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "76974",
+   "nazwa": "Misja na łodzi i model mozazaura",
+   "seria": "Jurassic World",
+   "elementy": 858,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Duży zestaw (858 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21266",
+   "nazwa": "Bitwa na moście Netheru",
+   "seria": "Minecraft",
+   "elementy": 99,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Jeden z wielu Minecraftów żegnających się w tej fali; po wycofaniu takie małe zestawy potrafią zaskakująco drożeć.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21267",
+   "nazwa": "Pustynny patrol złosadników",
+   "seria": "Minecraft",
+   "elementy": 105,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Jeden z wielu Minecraftów żegnających się w tej fali; po wycofaniu takie małe zestawy potrafią zaskakująco drożeć.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21268",
+   "nazwa": "Dom prosiaczka",
+   "seria": "Minecraft",
+   "elementy": 238,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21269",
+   "nazwa": "Wyprawa do pancernikowej kopalni",
+   "seria": "Minecraft",
+   "elementy": 247,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21270",
+   "nazwa": "Dom grzybowej krowy",
+   "seria": "Minecraft",
+   "elementy": 500,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Minecraftowa scenka kończy sprzedaż w grudniu – fani gry kompletujący świat z klocków nie powinni zwlekać do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21272",
+   "nazwa": "Ring w Leśnym dworze",
+   "seria": "Minecraft",
+   "elementy": 491,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21273",
+   "nazwa": "Atak balonowego Ghasta na wioskę",
+   "seria": "Minecraft",
+   "elementy": 555,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21274",
+   "nazwa": "Spotkanie ze strażnikiem",
+   "seria": "Minecraft",
+   "elementy": 238,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21275",
+   "nazwa": "Dom TNT w dżungli",
+   "seria": "Minecraft",
+   "elementy": 287,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21277",
+   "nazwa": "Kilofowa kopalnia",
+   "seria": "Minecraft",
+   "elementy": 530,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Minecraftowa scenka kończy sprzedaż w grudniu – fani gry kompletujący świat z klocków nie powinni zwlekać do świąt.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21278",
+   "nazwa": "Kryjówka rozbójników i dewastatorów",
+   "seria": "Minecraft",
+   "elementy": 665,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21279",
+   "nazwa": "Wieża Endermana",
+   "seria": "Minecraft",
+   "elementy": 867,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z kultowej gry schodzi z półek z końcem roku – dobra okazja, by domknąć kolekcję przed wymianą fali.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21282",
+   "nazwa": "Papugowe domki",
+   "seria": "Minecraft",
+   "elementy": 535,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Jeden z wielu Minecraftów żegnających się w tej fali; po wycofaniu takie małe zestawy potrafią zaskakująco drożeć.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "21584",
+   "nazwa": "Podróż przez portal Netheru",
+   "seria": "Minecraft",
+   "elementy": 192,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Jeden z wielu Minecraftów żegnających się w tej fali; po wycofaniu takie małe zestawy potrafią zaskakująco drożeć.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43010",
+   "nazwa": "Nike Slam Dunk",
+   "seria": "Archiwum",
+   "elementy": 809,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Duży zestaw (809 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "43021",
+   "nazwa": "Nike Dunk Trickshot",
+   "seria": "Archiwum",
+   "elementy": 454,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Archiwum dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "75636",
+   "nazwa": "Windmill Village Hut",
+   "seria": "One Piece",
+   "elementy": 298,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii One Piece kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "75637",
+   "nazwa": "Buggy the Clown's Circus Tent",
+   "seria": "One Piece",
+   "elementy": 576,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii One Piece kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40179",
+   "nazwa": "Personalised Mosaic Portrait",
+   "seria": "Archiwum",
+   "elementy": 4502,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Duży zestaw (4502 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40805",
+   "nazwa": "Arcade Machine",
+   "seria": "Archiwum",
+   "elementy": 468,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Archiwum dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40807",
+   "nazwa": "Urodzinowe cyferki",
+   "seria": "Seasonal",
+   "elementy": 281,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Seasonal dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40814",
+   "nazwa": "Baby Elephant in the Sky",
+   "seria": "Archiwum",
+   "elementy": 402,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Archiwum dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40815",
+   "nazwa": "Tort na przyjęcie urodzinowe",
+   "seria": "Seasonal",
+   "elementy": 219,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Seasonal dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40819",
+   "nazwa": "Up-Scaled Racing Driver Minifigure",
+   "seria": "Archiwum",
+   "elementy": 694,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Archiwum dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40808",
+   "nazwa": "Poszukiwanie pisanek z zajączkiem i kurczakiem",
+   "seria": "Seasonal",
+   "elementy": 140,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Seasonal dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40816",
+   "nazwa": "Dekoracyjna Pisanka",
+   "seria": "Seasonal",
+   "elementy": 386,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Seasonal dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "40824",
+   "nazwa": "Uroczy kanarek Tweety",
+   "seria": "Looney Tunes",
+   "elementy": 412,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Looney Tunes kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77001",
+   "nazwa": "Sonic’s Campfire Clash",
+   "seria": "Sonic",
+   "elementy": 177,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77002",
+   "nazwa": "Cyclone vs. Metal Sonic",
+   "seria": "Sonic",
+   "elementy": 290,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77005",
+   "nazwa": "Knuckles vs. Dr. Eggman Egg Crusher Mech",
+   "seria": "Sonic",
+   "elementy": 350,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77006",
+   "nazwa": "Team Sonic Command Truck",
+   "seria": "Sonic",
+   "elementy": 747,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77117",
+   "nazwa": "Sonic: Speedster Lightning",
+   "seria": "Sonic",
+   "elementy": 126,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77118",
+   "nazwa": "Silver w samochodzie kontra Knuckles w monster trucku",
+   "seria": "Sonic",
+   "elementy": 378,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Licencyjny zestaw z serii Sonic kończy sprzedaż w grudniu – po zejściu fali dostępność takich licencji bywa loterią, więc fani nie powinni czekać.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "77244",
+   "nazwa": "Bolid F1 Mercedes-AMG W15",
+   "seria": "Speed Champions",
+   "elementy": 267,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Speed Champions dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "72045",
+   "nazwa": "Mario Kart - Shy Guy i P-Wing",
+   "seria": "Super Mario",
+   "elementy": 249,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Zestaw z serii Super Mario dostał od LEGO oznaczenie ostatniej szansy i zejdzie z oferty z końcem 2026 roku – rozsądnie kupić przed świątecznym szczytem.",
+   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+  },
+  {
+   "numer": "71051",
+   "nazwa": "Seria 28 – Zwierzęta",
+   "seria": "Minifigurki",
+   "elementy": 9,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Minifigurkowa seria zbiorcza znika z oferty z końcem roku – saszetki po wycofaniu praktycznie nie wracają.",
+   "zrodlo": "lego.com/pl-pl dział Ostatnie sztuki, 2026-09-21"
+  },
+  {
+   "numer": "71052",
+   "nazwa": "Seria 29",
+   "seria": "Minifigurki",
+   "elementy": 7,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "uwagi": "Minifigurkowa seria zbiorcza znika z oferty z końcem roku – saszetki po wycofaniu praktycznie nie wracają.",
+   "zrodlo": "lego.com/pl-pl dział Ostatnie sztuki, 2026-09-21"
   }
  ]
 }

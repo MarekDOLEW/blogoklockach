@@ -32,6 +32,9 @@ export const meta = {
   tytul: 'Prezent z LEGO według budżetu',
   opis: 'Osiem zestawów w trzech kopertach: do 100, do 300 i do 600 zł. Dla kupującego, który wie, ile chce wydać, ale nie wie, co wybrać.',
   data: '2026-09-01',
+  // data ostatniej zmiany treści – ta sama, którą pokazuje strona; czyta ją
+  // sitemap-prezentowniki.xml (lastmod) i feed RSS
+  zaktualizowano: '2026-09-01',
   okladka: '31386',
 };
 
@@ -68,6 +71,7 @@ const faq = [
 <Prezentownik
   title="Prezent z LEGO według budżetu: do 100, do 300 i do 600 zł"
   opis="Osiem zestawów LEGO na prezent w trzech przedziałach cenowych – do 100, do 300 i do 600 zł. Dla kupującego, który wie, ile chce wydać, ale nie wie jeszcze, co wybrać."
+  seoOpis="Osiem zestawów LEGO na prezent w trzech przedziałach: do 100, do 300 i do 600 zł. Dla kogoś, kto wie, ile chce wydać, ale jeszcze nie wie, co wybrać."
   data="2026-09-01"
   zaktualizowano="2026-09-01"
   faq={faq}
@@ -252,5 +256,5 @@ const faq = [
 
   <p>Jeśli po lekturze wiesz już nie tylko, ile chcesz wydać, ale też jaka seria wchodzi w grę, dalej prowadzą <a href="/prezentowniki/">prezentowniki po seriach</a> – dwanaście serii z osobnymi rekomendacjami.</p>
 
-  <p class="drobne">Poziomy „dobra cena" i „bardzo dobra cena" to nasza ocena redakcyjna oparta na rozkładzie realnych cen rynkowych, a nie stały procent ceny katalogowej. Nie są obietnicą, że zestaw będzie w tej kwocie dostępny w danym momencie – bieżące oferty ze wszystkich śledzonych sklepów znajdziesz w tabelach na podstronach zestawów, aktualizowanych codziennie. Ceny katalogowe podajemy za oficjalnym sklepem LEGO. Przedziały w nagłówkach odnoszą się do cen rynkowych, dlatego zestaw o cenie katalogowej wyższej niż próg przedziału może się w nim znaleźć.</p>
+  <p class="drobne">Progi „dobra cena" i „bardzo dobra cena" wyznaczamy sami – z cen, jakie zestawy faktycznie osiągały w sklepach. To nie stały procent od ceny katalogowej ani obietnica, że taka kwota jest dostępna dziś; bieżące oferty są w tabelach na stronach zestawów. Ceny katalogowe podajemy za sklepem LEGO. Przedziały w nagłówkach odnoszą się do cen rynkowych, dlatego zestaw o cenie katalogowej wyższej niż próg przedziału może się w nim znaleźć.</p>
 </Prezentownik>

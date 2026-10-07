@@ -1,0 +1,15 @@
+# Prawdziwe 301 (Cloudflare Workers static assets). Od 29.09.2026 jedyne miejsce
+# przekierowań stron – `redirects` w astro.config dawało 200 + meta refresh.
+# Sprawdzenie po wdrożeniu: curl -sI https://tylkoklocki.pl/deale/ (bez -L) → 301 + location.
+# Posty dealowe /deale/<slug>/ zostają pod swoimi adresami – przekierowany jest tylko listing.
+/deale/                                /promocje-lego/     301
+/deale                                 /promocje-lego/     301
+# 27.08.2026: kalendarz przeniesiony do artykułów
+/kalendarz-redakcyjny                  /artykuly/          301
+/kalendarz-redakcyjny/                 /artykuly/          301
+# 28.08.2026: 80120 i 80121 przeniesione do Seasonal, seria bez zestawów
+/serie/tradycyjne-festiwale-chinskie   /serie/seasonal/    301
+/serie/tradycyjne-festiwale-chinskie/  /serie/seasonal/    301
+# 30.09.2026: /kolekcjoner/ był pustą zapowiedzią działu (audyt 30.09) – treść o EOL żyje w /wycofania/
+/kolekcjoner                           /wycofania/         301
+/kolekcjoner/                          /wycofania/         301

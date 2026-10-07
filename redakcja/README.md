@@ -83,7 +83,9 @@ Ustalenia integracyjne:
   poziom A metodologii (LEGO.com) realizujemy przez Brickset, instrukcje,
   feedy sklepów i dane podane przez użytkownika; wymóg „minimum pięciu
   polskich sklepów" pokrywają feedy + osiągalne witryny (Smyk, Planeta
-  Klocków, Allegro przez feed, Media Expert przez feed, Empik przez TD).
+  Klocków, Allegro przez feed, Media Expert przez feed, Empik przez cotygodniowy
+  zrzut lokalną przeglądarką — skill `klocki-ceny-empik`; feed TD nie zawiera
+  zestawów LEGO).
 - Recenzje wideo: transkrypty YouTube bywają niedostępne — wtedy w karcie
   zaznaczamy zakres analizy zgodnie z Metodologią §5.3.
 
@@ -99,6 +101,17 @@ Ustalenia integracyjne:
   dokument, nie CSS. Do `.claude/skills/` wpięty skill `canvas-design`
   (anthropics/skills, Apache 2.0) z Archivo dołożonym do jego biblioteki krojów;
   skill ma pomijać swój etap wymyślania filozofii i brać tę z dokumentu.
+
+- 2026-09-13 (Marek): **statusy i listing.** Wycofania mają dwa jawnie różne
+  statusy — „potwierdzone przez LEGO" (fakt) i „prognoza rynku" (przewidywania
+  branżowe); nowości analogicznie „potwierdzone przez LEGO" / „przeciek z rynku".
+  Zestaw, którego LEGO już nie sprzedaje, ale sklepy mają, jest „w sprzedaży"
+  ze znacznikiem EOL; w tabeli cen huba po EOL zostają tylko sklepy z ceną plus
+  LEGO.com z EOL bez linku — **to zawęża decyzję z 20.08** (wiersze „Sprawdź
+  cenę" bez kwoty zostają wyłącznie dla zestawów w sprzedaży). Szczegóły
+  zestawu otwierają się w nowej karcie; pod hubem 4–6 losowych podobnych
+  zestawów z serii; Allegro maks. 30% linków w dealach. Reguły: `RUNBOOK.md`,
+  „Statusy: wycofania, nowości, EOL".
 
 - 2026-08-27 (Marek): **porządki w menu i artykułach.** Menu schodzi do sześciu
   pozycji (Promocje dziś, Nowości, Wycofania, Serie, Prezentowniki, Artykuły).

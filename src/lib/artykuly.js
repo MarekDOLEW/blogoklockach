@@ -86,7 +86,35 @@ export function zajawkaArtykulu(modul, { karty = false } = {}) {
   };
 }
 
+/**
+ * Kolejność „najnowsze pierwsze" dla listingów tekstów. Przy tej samej dacie
+ * decyduje tytuł malejąco (numerycznie): cykl „Historia licencji LEGO, część 1–3”
+ * wyszedł jednego dnia i bez tej reguły listing układał go 3–1–2 (Marek 27.09.2026:
+ * „zrób kolejność 3–2–1”). Działa na zajawce ({ data, tytul }) albo module ({ frontmatter }).
+ */
+export function najnowszePierwsze(a, b) {
+  const pola = (x) => (x?.frontmatter ? { data: x.frontmatter.data, tytul: x.frontmatter.title } : x);
+  const [x, y] = [pola(a), pola(b)];
+  return (
+    new Date(y.data) - new Date(x.data) ||
+    String(y.tytul ?? '').localeCompare(String(x.tytul ?? ''), 'pl', { numeric: true })
+  );
+}
+
 /** Lista zajawek, najnowsze pierwsze. */
+/**
+ * Kolejność postów dealowych (strona główna i listing /deale/): najpierw posty
+ * z `wyroznienie: true` we frontmatterze (kampania sklepu z datą końca, którą
+ * redakcja chce trzymać na wierzchu – Marek 23.09.2026), w obrębie grupy data
+ * malejąco. Wyróżnienie zdejmuje się ręcznie, gdy akcja się skończy.
+ */
+export function sortujPostyDealowe(moduly) {
+  const czas = (m) => new Date(m.frontmatter?.data ?? 0).getTime() || 0;
+  return moduly
+    .filter((m) => m.frontmatter?.data)
+    .sort((a, b) => (Boolean(b.frontmatter.wyroznienie) - Boolean(a.frontmatter.wyroznienie)) || czas(b) - czas(a));
+}
+
 export function zajawkiArtykulow(moduly, opcje) {
   return moduly.map((m) => zajawkaArtykulu(m, opcje));
 }

@@ -44,29 +44,245 @@ Który plik co zasila na stronie. Kolumna „co zasila" jest tu jedynym takim
 zestawieniem w całym repo — przed zmianą formatu któregokolwiek z tych plików
 sprawdź, co się posypie.
 
-Kolumna „kto zapisuje" odzwierciedla realną konfigurację triggerów
-(stan 23.08.2026) — przy rozbieżności rozstrzyga
+Kolumna „kto zapisuje" odzwierciedla realną konfigurację Routines
+(stan 16.09.2026, po audycie końcowym) — przy rozbieżności rozstrzyga
 `materialy/zadania-cykliczne.md`.
 
 | Plik w `src/data/` | Kto zapisuje | Co zasila na stronie |
 |---|---|---|
-| `sety.json` | Scout 05:00 (nowe sety) + Łowca 08:30 (ceny, oferty, zdjęcia) | `/nowosci/`, podstrony `/zestaw/{nr}/`, sekcja „Śledzone" na stronach serii |
-| `wycofania.json` | Wycofania 06:00 | `/wycofania/` — lista, filtr, FAQ |
-| `katalog.json` | Scout 05:00 (nazwy, roczniki) + Backfill (pole `cena_katalogowa`, **wyłączony od 29.08**) + sesje ad hoc (dokładanie serii) | katalogi historyczne na `/serie/{seria}/` + kafelki na `/serie/` |
-| `redirects.json` | Łowca 08:30 (linki z feedu) + sesje ad hoc | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków sklepowych |
-| `sklepy.json` | Łowca 08:30 (nowe sklepy) | nazwy sklepów w tabelach cen |
-| `oferty_feed.json` | Łowca 08:30 | ceny i oferty w tabelach na podstronach zestawów |
-| `ceny_baza.json` | Łowca 08:30 | historia cen, drabina cenowa |
-| `known_sets.json` | Scout 05:00 | nic — stan runnera, nie zasila strony |
-| `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera, nie zasila strony |
-| `obrazy.json` | `scripts/generuj-obrazy.mjs` w prebuild | zdjęcia zestawów |
-| `src/pages/deale/*.md` | Łowca (posty dealowe przy wyjątkowych okazjach) | dział `/deale/` — sekcja „Okazje pod lupą” |
+| `sety.json` | Scout 05:00 (nowe sety) + Łowca 08:30 (ceny ME/PK/Allegro, import Empiku) + Dane wt 05:30 (oferta `lego`, `smyk`) | `/nowosci/`, huby `/zestaw/{nr}/`, „Śledzone" na stronach serii, deale |
+| `oferty_feed.json` | Łowca 08:30 (`mediaexpert`, `planetaklockow`, `allegro`; `empik` przy zrzucie) + Dane wt 05:30 (`lego`, `ceneo`, `smyk`) — każdy sklep z własną datą w `daty` | ceny i oferty w tabelach hubów, miniatury katalogów serii |
+| `ceny_baza.json` | Łowca 08:30 (minima), importy sklepów | historia cen, drabina cenowa, badge „nowe minimum" |
+| `redirects.json` | Łowca (`planetaklockow`, `allegro`), Dane wt (`lego`, `ceneo`), `empik-redirects.mjs` (`empik`, jedyny klucz z kasowaniem), sesje (`mediaexpert`, `smyk`) | przekierowania `/idz/{sklep}/{nr}` i widoczność przycisków |
+| `sklepy.json` | ręcznie (sesja) | nazwy sklepów, szablony `szukaj` workera (muszą mieć `{nr}`) |
+| `katalog.json` | Dane wt 05:30 (`status`, `ekskluzyw`, `lego_pl_widziano` z listingu lego.pl) + `katalog-z-rebrickable.mjs` + sesje (serie, nazwy) | huby dla każdego numeru (nigdy 404), katalogi serii, `/ekskluzywne/` |
+| `wycofania.json` | Wycofania, poniedziałek 06:10 (jedyny autor) | `/wycofania/`, etykiety statusu na hubach i listingach |
+| `przecieki.json` | Scout 05:00 (jedyny autor) | `/przecieki/` |
+| `known_sets.json` | Scout 05:00 | nic — stan runnera |
+| `konkurencja_baza.json` | Radar 08:00 | nic — stan runnera |
+| `karty_setow.json` | `import-karty.py` z paczek Piotra (sesja) | opis, metryka i FAQ na hubie; wyjątek indeksowalności „karta" |
+| `rrp_potwierdzone.json` | `wczytaj-rrp.mjs` (Dane wt z listingu lego.pl; sesje) — write-once | cena katalogowa o najwyższym pierwszeństwie, rabaty, odsiew |
+| `deale_potwierdzone.json` | ręcznie po sprawdzeniu w sklepie (od 16.09.2026) | odblokowanie oferty poniżej 50% potwierdzonego RRP |
+| `lego_strony_brak.json` | `lego-strony.mjs` (sesja) | czy hub po EOL ma jeszcze link do karty lego.pl |
+| `obrazy.json` | `generuj-obrazy.mjs` w prebuild (także Łowca i Dane wt przed commitem) | zdjęcia zestawów przez `/img/` |
+| `galerie.json`, `zdjecia.json` | sesje (galerie do tekstów; zdjęcia ze źródeł) | slajdery i miniatury; R2 dogrywa Routine „Zdjęcia → R2" |
+| `opisy.json`, `ean.json`, `feedy.json` | sesje ad hoc | opisy serii, kody EAN, adresy feedów dla `feedy-lego.py` |
+| `kategorie_artykulow.json` | ręcznie (decyzja) | zamknięta lista kategorii; walidacja w prebuild |
+| `src/pages/deale/*.md` | Łowca (posty dealowe wg reguły z 15.09) | dział `/deale/` |
 | `afiliacje_rejestr.json` | ręcznie | nic — dokumentacja |
 | `raporty_mail.json` | ręcznie | odbiorcy raportów PDF |
 
-Trzy ostatnie pozycje w kolumnie „co zasila" to celowe „nic" — te pliki są
+Pozycje z „nic" w kolumnie „co zasila" to celowe „nic" — te pliki są
 dokumentacją albo stanem runnerów. Warto o tym wiedzieć, zanim ktoś uzna je
 za martwe i skasuje.
+
+---
+
+## Allegro: feed potrafi zamarznąć *(zaobserwowane 09–10.09.2026)*
+
+Feed afiliacyjny Allegro (`feeds.allegro.pl/affiliate-feed/...`) pobiera się
+poprawnie (HTTP 200, pełny plik), ale bywa **niezregenerowany po stronie
+Allegro** — 09.09 i 10.09 dwa kolejne przebiegi dostały identyczną treść:
+0 zmian cen na ~7100 ofert (normalny dzień to 100–600 zmian). Serwer nie
+zwraca Last-Modified ani ETag, więc jedynym sygnałem jest właśnie
+**dokładnie zero zmian w statystykach Łowcy**.
+
+Postępowanie: dane traktować jak pobrane (nie jest to błąd pobrania),
+odnotować w raporcie; przy zamrożeniu 3+ dni sprawdzić w panelu afiliacyjnym
+Allegro, czy generowanie feedu nie wymaga odnowienia po naszej stronie.
+
+**Eskalacja 11.09.2026: po dwóch dniach zamrożenia feed zwrócił PUSTY plik**
+(HTTP 200, 0 ofert). Pusty feed traktujemy jak feed niepobrany — sklepu NIE
+aktualizujemy (inaczej jedna pusta odpowiedź wymazałaby wszystkie oferty
+i całą gałąź `redirects.allegro`). Pipeline Łowcy pomija sklepy z pustym
+feedem automatycznie. Stan wymaga sprawdzenia w panelu afiliacyjnym Allegro
+(link feedu mógł wygasnąć lub wymagać ponownego wygenerowania).
+
+---
+
+**22.09.2026 — powrót do feedu „tylko LEGO".** Feed `39967a61…` (kategoria
+LEGO, ~476 tys. ofert) znów odpowiada 200 po przerwie od 24.08; szeroki feed
+`497662bc…` (cała kategoria Dziecko, LEGO to 65 tys. z 777 tys. linii) był
+zapasem i został w `feedy.json` jako `url_zapasowy`. Feed LEGO niesie 227 tys.
+pojedynczych elementów z numerami, które kolidują z numerami starych zestawów
+(„Lego Tile 1751", „Lego 2432 Tile"), dlatego `feedy-lego.py` bierze wyłącznie
+ścieżkę kategorii `> LEGO > Zestawy`, odrzuca oferty z atrybutem „Liczba
+elementów" < 10 i tytuły części (tile/brick/plate/płytka/klocek, wymiary 1x…/
+2x…, „szt", gramy). Wynik wyciągu 22.09: 6 398 numerów (stary feed 5 380),
+5 975 z hubem, 1 105 zestawów z `sety.json` z ofertą (było 1 002); 477 numerów
+było tylko w starym feedzie, 1 495 tylko w nowym. Gdy `39967a61…` znów da 404 —
+przełączyć `url` na `url_zapasowy` ręcznie i wpisać to do dziennika.
+
+## Empik: deeplinki produktowe *(przygotowane 14.09.2026)*
+
+Do 14.09 `/idz/empik/<nr>` prowadził na wyszukiwarkę Empiku — nie z lenistwa,
+tylko dlatego, że **feed Tradedoublera nie zawiera zestawów LEGO** (weryfikacja
+na pełnym pliku 2,5 GB z 19.08: 10316, 21348, 76454, 60337 — zero trafień; to
+marketplace: gabloty, opłatki, magazyny). Adresów kart nie było skąd wziąć.
+
+Bierzemy je teraz z tygodniowego zrzutu Coworka (skill `klocki-ceny-empik`,
+nowe pole `url`), a wgrywa je `scripts/empik-redirects.mjs`:
+
+    node scripts/empik-redirects.mjs lego-empik.json --sucho          # podgląd
+    node scripts/empik-redirects.mjs lego-empik.json --usun-martwe
+
+**Afiliacja zostaje nietknięta.** Adres produktu pakujemy w ten sam deeplink
+`clk.tradedoubler.com/click?p=289664&a=3494691&url=<adres>` — prowizję liczy
+tracker, cel jest w nim tylko parametrem. Bezpośredni link do empik.com
+oznaczałby klik bez prowizji, więc skrypt odrzuca wszystko, co nie jest kartą
+produktu na empik.com (w tym adresy wyszukiwarki).
+
+**Worker bez zmian.** Bierze wpis z `redirects.json` przed swoją wyszukiwarką,
+więc zestawy bez adresu zachowują dotychczasowe zachowanie.
+
+**Dlaczego `--usun-martwe`.** Cena starzeje się z dnia na dzień, ale adres karty
+nie — Empik trzyma w URL stabilne ID produktu. Link psuje się dopiero, gdy
+produkt zniknie z oferty, a wtedy znika też z naszego zrzutu i to jest sygnał do
+skasowania wpisu. Zestaw wraca wtedy na wyszukiwarkę, która nigdy nie oddaje 404.
+To jedyny wyjątek od append-only w `src/data/` — zapisany w CLAUDE.md.
+
+**Po zmianie skilla trzeba go wgrać do Coworka:** `node scripts/spakuj-skille.mjs`
+i przeciągnięcie `skille/klocki-ceny-empik.skill` w Settings → Skills. Synchronizacja
+idzie tylko serwer → kontener, więc z sesji nie da się tego zrobić.
+
+---
+
+## Hub dla każdego zestawu z katalogu — nigdy 404 *(decyzja Marka 15.09.2026)*
+
+Do 15.09 hub `/zestaw/<nr>/` istniał tylko dla zestawu z ofertą w feedzie, wpisem
+w `sety.json`, kartą Piotra albo statusem „dostepny" z RRP. Gdy oferta wypadała
+z feedu, **strona znikała i oddawała 404** — Search Console: 9% skanowań to 404
+na `/zestaw/NNNN/`, a Google do nich wraca. Od 15.09 `policzHuby()` bierze
+**każdy numer z `katalog.json`** (9 363 huby, build 25 s). Cienki hub dostaje
+`noindex, follow` z reguł `seo.js` i nie trafia do sitemapy, ale odpowiada 200.
+Raz wpisany zestaw zostaje na zawsze — to dane historyczne.
+
+Katalog dostał 1 523 numery z Rebrickable (`scripts/katalog-z-rebrickable.mjs`):
+wycenione w feedach, których katalog nie znał (stare numery z Allegro). Nazwy
+po angielsku, bez RRP, pole `zrodlo: "rebrickable"`; motywy mapowane na nasze
+serie (Super Heroes DC → DC, Creator Expert → Icons, breloki → Gadżety),
+realne dawne linie (Nexo Knights, DOTS, Bionicle, Chima…) dostały własne serie,
+gdy mają ≥10 zestawów; reszta i śmieci → Archiwum. 197 numerów z feedów
+Rebrickable nie zna (podszywki, EAN-y, numery pomocnicze) — bez huba, celowo.
+Skrypt jest append-only; uruchamiać, gdy `--sucho` pokaże nowe „spoza katalogu".
+
+## Zdjęcia: Planeta Klocków odrzuca fetch z workera *(ustalone 14.09.2026)*
+
+Worker serwuje `/img/<nr>.jpg` i `/img/<nr>-<poz>.jpg` z R2, a gdy w R2 nic nie
+ma — pobiera ze źródła (`obrazy.json` / `galerie.json`) i zapisuje kopię. Ten
+drugi krok **nie działa dla planetaklockow.pl**: z kontenera te same adresy
+oddają 200, ale fetch z workera dostaje odmowę i worker odpowiada 502.
+Audyt 14.09: 348 z 608 zdjęć galerii puste — 37 hubów z rzędem pustych miniatur.
+Działało tylko to, co ktoś wcześniej zdążył zobaczyć (kopia w R2).
+
+Naprawa bez ruszania workera: **wgrać plik do R2 z kontenera** pod kluczem,
+którego używa worker (`42220-1`, bez rozszerzenia). Robi to
+`node scripts/r2-obrazy.mjs`: listuje kubełek R2 (to jest rejestr „co już
+wgrane" — nie trzymamy osobnego pliku stanu, bo rozjeżdżałby się przy każdym
+ręcznym wgraniu albo kasowaniu), porównuje z `galerie.json` i `obrazy.json`
+i wgrywa brakujące zdjęcia z Planety. Przebieg bez zaległości trwa sekundy.
+Wymaga `CF_R2_TOKEN` (token *Workers R2 Storage: Edit*, osobny od
+`CF_API_TOKEN`, który ma tylko Analytics: Read). `--sprawdz` to co innego:
+audyt HEAD na każde `/img/` na produkcji (~15 min), który widzi też martwe
+źródła Rebrickable — bez tokena, ale to nie codzienność. Po dopisaniu nowych
+galerii do `galerie.json` uruchom skrypt — inaczej nowe zdjęcia z Planety nie
+pokażą się nigdy.
+
+Planeta potrafi resetować połączenie przy serii pobrań (curl 35) — skrypt
+ponawia trzy razy z odstępem; przy setkach plików liczy się w dziesiątkach minut.
+
+## Robots.txt: blokady AI zdjęte *(15.09.2026)*
+
+Do 15.09 Cloudflare (AI Crawl Control, ustawienie domyślne) dokładał do naszego
+`robots.txt` blokady GPTBot, ClaudeBot, CCBot, Google-Extended i pięciu innych
+oraz `Content-Signal: ai-train=no`. Marek zdjął to 15.09 rano: produkcja oddaje
+teraz dokładnie `public/robots.txt` (`Allow: /`, `Disallow: /idz/`, sitemapa).
+Na brzegu (AI Crawl Control, osobny przełącznik od robots.txt) zablokowane
+zostały wyłącznie boty treningowe: Bytespider, CCBot, PetalBot, Amazonbot,
+GPTBot, Google-CloudVertexBot, FacebookBot, Meta-ExternalAgent i kilka
+niszowych. Boty wyszukiwania i asystentów (Googlebot, OAI-SearchBot,
+ChatGPT-User, ClaudeBot, PerplexityBot) mają wstęp — ChatGPT był 15.09
+największym źródłem ruchu w GA4, więc to jest świadomy wybór, nie domyślne
+ustawienie. Sprawdzenie: `curl -s https://tylkoklocki.pl/robots.txt`.
+
+## HTTP → HTTPS *(wykryte i naprawione 15.09.2026)*
+
+Do 15.09 `http://tylkoklocki.pl/` oddawało **200** zamiast 301 i Search Console
+widziała dwie wersje serwisu. Marek włączył w panelu Cloudflare → SSL/TLS →
+Edge Certificates → **Always Use HTTPS**. Sprawdzone tego samego dnia: strona
+główna, hub, `/img/` i `/idz/` oddają **301** na https jednym skokiem. `www.`
+nie ma rekordu DNS — w porządku, serwis jest bez www. Nagłówka HSTS nie ma;
+to opcja (Cloudflare → HSTS), nie konieczność — włączać dopiero, gdy nic
+w serwisie nie ma już wracać na http, bo przeglądarki pamiętają ją miesiącami.
+
+## Filtr botów na /idz/ *(wdrożony 14.09.2026)*
+
+Pomiar z Analytics Engine za 7–14.09: **939 kliknięć w `/idz/`, z czego 867
+(92,3%) bez referera i spoza Polski**. Polska: 40 kliknięć (4,3%) — przy serwisie
+po polsku, z cenami w złotówkach i linkami do polskich sklepów. Search Console
+za ten sam tydzień: 1 kliknięcie, 70 wyświetleń. Realnych przejść było **37**.
+
+Sygnatury, po których to widać:
+
+| sygnał | wartość |
+|---|---|
+| brak referera | 867 / 939 |
+| podrobiony referer `http://tylkoklocki.pl` | 29 (serwis chodzi wyłącznie po HTTPS) |
+| referer `m.baidu.com` z losową frazą (`?wd=describe884`) | 4 |
+| różnych zestawów w tygodniu | 307 przy ruchu ludzkim dotykającym 24 |
+| szczyt godzinowy | 02:00 UTC (113) wyżej niż 20:00 (36) |
+
+**Dlaczego to nie była kwestia statystyki.** Każde takie przejście szło dalej do
+Allegro Affiliate, Performers, Tradedoublera i Adtraction — z ich perspektywy
+konto wydawcy generowało setki kliknięć miesięcznie przy zerowej konwersji. To
+typowy powód wstrzymania konta, a wstrzymanie w listopadzie kasuje sezon.
+
+**Kryterium to wyłącznie referer, nigdy kraj.** 20 z 66 kliknięć z naszym
+refererem przyszło z Niemiec, 9 z USA — Polacy za granicą, VPN, własne testy.
+Filtr po `request.cf.country` odciąłby realnych czytelników.
+
+Odrzucone żądanie dostaje **302 na hub zestawu**, nie 204: sieć afiliacyjna nie
+widzi pustego kliknięcia, a człowiek, któremu przeglądarka wycięła referer,
+trafia na stronę z tabelą cen i może kliknąć jeszcze raz. Zapis do Analytics
+Engine zostaje w obu przypadkach — doszedł `blob6` z wartością `human`/`bot`,
+żeby dalej mierzyć skalę. Starsze zapytania (`blob1`–`blob5`) działają bez zmian.
+
+    SELECT blob6 AS kto, SUM(_sample_interval) AS kliki FROM idz_kliki
+    WHERE timestamp > NOW() - INTERVAL '7' DAY GROUP BY kto
+
+**`scripts/kliki-raport.mjs` od 14.09 domyślnie liczy wyłącznie `human`** —
+suma z raportu będzie więc mniejsza niż z powyższego zapytania, i to jest
+zamierzone. Pełny ruch daje `--wszystko`. Kliknięcia sprzed wdrożenia mają
+`blob6` puste i raport pokazuje je osobno jako „nieoznaczone", bo nie da się
+ich zaklasyfikować wstecz.
+
+**Czego pilnować:** gdyby kiedyś doszła restrykcyjna `Referrer-Policy` albo
+`rel="noreferrer"` na linkach `/idz/`, filtr zacznie odcinać własnych
+czytelników. Dziś polityka jest domyślna, a linki mają tylko `sponsored nofollow`
+i `noopener` — żadne z nich referera nie wycina.
+
+**Linki do sklepów i Ceneo otwierają się w nowej karcie** *(decyzja Marka
+16.09.2026: czytelnik ma wracać do nas, nie wypuszczamy ruchu)*. Każdy anchor
+`/idz/…` ma `target="_blank"` wpisane w szablonie (TabelaCen, TabelaSetow,
+KartaPrezentu, karuzela na stronie głównej, `/deale/`, `remark-ceny.mjs`) plus
+`noopener` w `relLinku()`; ręczne linki `/idz/` w markdownie dostają to samo przy
+buildzie (`scripts/remark-linki-sklepow.mjs`), a delegacja kliknięcia w `Base.astro`
+jest siatką bezpieczeństwa dla reszty. Sprawdzone po buildzie 16.09: 0 anchorów
+`/idz/` bez `target="_blank"`. `noopener` NIE wycina referera, więc filtr botów
+działa bez zmian; `noreferrer` jest zakazany.
+
+**Dwa zaostrzenia po 14.09** (oba w `src/worker.js`, komentarze przy kodzie):
+- *15.09.2026 (fb082a1):* klik z naszej strony jest rozpoznawany także po
+  nagłówku `Sec-Fetch-Site: same-origin` — druga droga dla przeglądarek tnących
+  referer; odrzucony klik wraca na hub z `?idz=odrzucony` zamiast cicho
+  przeładowywać stronę.
+- *21.09.2026 (3f42a9c), zatwierdzone przez Marka 22.09:* sam host w refererze
+  to za mało — 16.09 nasz własny audyt przeszedł przez filtr z refererem
+  `https://tylkoklocki.pl/zestaw/x/` i 17 kliknięć poszło do trackerów jako
+  ludzkie. Teraz referer musi wskazywać **hub z tym samym numerem** albo realną
+  stronę serwisu (lista ścieżek w workerze). Wniosek trwały: **żaden audyt nie
+  chodzi przez `/idz/` ani przez link trackingowy** — testy workera robimy bez
+  podążania za redirectem.
 
 ---
 
@@ -77,6 +293,21 @@ za martwe i skasuje.
 `storage.googleapis.com` około **7 godzin później** — nocny ok. 07:40,
 wieczorny w środku nocy.
 
+**Po imporcie cen dopisz linki.** Łowca wkłada do `oferty_feed.json` same ceny,
+a worker nie ma dla ME żadnego fallbacku ani szablonu `szukaj` — zestaw bez wpisu
+w `redirects.json` pokazuje więc cenę, ale klik wraca na naszą stronę główną
+i prowizja 2% przepada (24 takie pozycje na 5 945 zł ekspozycji, 14.09.2026):
+
+    python3 scripts/feedy-lego.py --tylko mediaexpert --wyjscie /tmp/me.json
+    node scripts/me-redirects.mjs /tmp/me.json --sucho   # najpierw podgląd
+    node scripts/me-redirects.mjs /tmp/me.json
+
+Skrypt dopisuje wyłącznie brakujące wpisy i tylko dla zestawów, które mają
+ofertę ME w serwisie; istniejących nie rusza. Link z feedu ma placeholdery sieci
+(`aff_sub=Partner_ID`), które podmienia na `tylkoklocki` — starsze wpisy mają
+w zakodowanym URL inne parametry `utm_*` i to jest w porządku, bo o przypisaniu
+prowizji decydują `aff_id`, `aff_sub` i `transaction_id`, identyczne w obu.
+
 Praktyczny skutek: **każdy przebieg Łowcy przed ~07:40 dostaje wczorajszą
 wieczorną wersję.** Dlatego od 31.08 Łowca chodzi o **08:30** — to najwcześniejsza
 sensowna godzina z zapasem na opóźnienie uploadu.
@@ -84,25 +315,63 @@ sensowna godzina z zapasem na opóźnienie uploadu.
 To ograniczenie rządzi godziną Łowcy i żadna zmiana harmonogramu nie może go
 pominąć. Dwie pułapki na przyszłość:
 
-- **Zmiana czasu 25.10.2026.** Crony są w UTC, więc po przejściu na CET przebieg
-  wypadnie o 07:30 i znowu zacznie łapać wczorajszy feed. Trzeba go wtedy
-  przesunąć razem ze zmianą czasu.
+- **Zmiana czasu 25.10.2026 — rozwiązane 30.09.2026.** Cron Łowcy (i pozostałych
+  runnerów LEGO) jest zapisany jako `CRON_TZ=Europe/Warsaw 30 8 * * *`, więc po
+  przejściu na CET dalej startuje o 08:30 czasu polskiego. Nie wracać do zapisu
+  w UTC — wtedy wypadłby o 07:30 i łapał wczorajszy feed.
 - **Nazwa Routine musi iść za cronem.** 30.08 Łowca nazywał się „07:00",
   chodząc faktycznie o 08:00; próba „naprawy" na 07:00 pogorszyła sprawę,
   bo trafiała przed upload feedu.
 
-**Stron produktowych ME nie da się weryfikować punktowo z sesji.** curl
-i WebFetch dostają HTTP 403, prawdziwa przeglądarka (Chromium) — reset
-połączenia. ME blokuje ruch z data center. WebFetch działał do 16.08.2026,
-potem przestał.
+**Stron produktowych ME nie otwiera curl ani WebFetch** — HTTP 403, bo ME
+blokuje ruch z data center (WebFetch działał do 16.08.2026, potem przestał);
+goły curl i curl z nagłówkami przeglądarki dostają tę samą 403 ze stroną blokady,
+która nie ma w ogóle ceny w meta. **Firecrawl wchodzi** (`proxy: basic`,
+HTTP 200, 1 kredyt za kartę w formacie markdown) i to on jest naszą drogą do
+kart ME.
 
-Wniosek obowiązujący: **ceny ME bierzemy wyłącznie z feedu afiliacyjnego**
-(oficjalny, wiarygodny). Weryfikację na stronach robimy tylko dla Planety
-Klocków.
+### Feed ME kłamie o cenach w obie strony *(ustalone 02.10.2026)*
+
+Poprzedni wniosek — „ceny ME bierzemy wyłącznie z feedu afiliacyjnego, bo jest
+oficjalny i wiarygodny" — **jest nieprawdziwy i został wycofany.** Dwa osobne
+błędy, oba zmierzone na kartach przez Firecrawla:
+
+1. **Promocja siedzi w `<g:sale_price>`, nie w `<g:price>`.** Parser czytał samo
+   `g:price`, czyli cenę regularną, przez cały czas trwania promocji. 60499:
+   feed 199,99 — karta 179,00. Po łatce 143 zestawy dostały niższą, prawdziwą
+   cenę (mediana rabatu 8,4%, maksimum 39,9%). To było główne źródło zawyżonych
+   kwot w hubach.
+2. **Nawet `g:price` bywa nieaktualny wobec karty**, i to znacznie: 10440 feed
+   84,99 / karta 52,89; 71513 feed 219,99 / karta 146,36; 10300 feed 849,99 /
+   karta 775,00; 42213 feed 202,99 / karta 185,50. W próbie dziesięciu
+   największych skoków po łatce rozbieżność została w jednym przypadku, ale na
+   pięciu sprawdzonych „wzrostach" cztery były wymysłem feedu.
+
+Kierunek błędu jest zawsze ten sam i najgorszy z możliwych: **feed pokazuje
+więcej, niż czytelnik zapłaci w sklepie.**
+
+Stąd dwie reguły:
+
+- `g:price` to cena regularna; cena do zapłaty to `g:sale_price`, gdy jest.
+  **Tak samo na karcie**: `product:sale_price:amount` wygrywa z
+  `product:price:amount`, a `product:original_price:amount` NIE jest ceną
+  regularną — powtarza `price` (72050: price 829,99 + sale_price 499,00).
+- Ceny wątpliwe sprawdzamy na kartach — robi to `me-ceny-stron.mjs`, wołany
+  przez `feedy-lego.py` od razu po sparsowaniu feedu, więc Łowca dostaje już
+  poprawiony wyciąg i nikt nie musi o tym pamiętać. Nie sprawdzamy wszystkich
+  ~750 kart, bo budżet Firecrawla to 5 000 kredytów na miesiąc — kryteria wyboru
+  i limit opisuje `scripts/README.md`.
+
+**Pułapka przy czytaniu surowego feedu:** każde `<entry>` ma po kilka elementów
+`<g:price>`, ale dodatkowe siedzą w `<g:shipping>` (14,90 kurier, 7,99 InPost,
+0,00 przy darmowej dostawie). `findtext`/`findall` patrzą tylko na dzieci
+`<entry>`, więc cena produktu jest jedna. Grep po pliku pokazuje wszystkie
+i wygląda to na zdublowaną cenę z zerem na początku — 02.10.2026 na tej podstawie
+postawiliśmy w tym repo tezę o „zdublowanym `g:price`", która była nieprawdziwa.
 
 ---
 
-## Typowanie deali *(ustalone 18.08.2026, limit Allegro dodany 05.09.2026)*
+## Typowanie deali *(ustalone 18.08.2026, limit Allegro 05.09.2026, zaostrzony 13.09.2026)*
 
 Deale dnia typujemy w **trzech półkach cenowych**: do 200 zł, 201–800 zł,
 801 zł i więcej.
@@ -114,11 +383,14 @@ z −50%).
 Slajder na stronie głównej:
 - sloty 1–3 — najlepszy rabat z każdej półki, od najdroższej
 - sloty 4–5 — dzikie karty wg samego rabatu
-- **Allegro maks. 2 z 5 slotów** (od 05.09.2026): marketplace wygrywa ceną
-  niemal każdy slot, a karuzela ma pokazywać też sklepy z własnym magazynem.
-  Po wyczerpaniu limitu slot dostaje najlepszą ofertę spoza Allegro — z ceną
-  i rabatem tego sklepu (nadal ≥15%); set bez takiej oferty odpada ze slotu.
-  Logika w `src/pages/index.astro` (LIMIT_ALLEGRO).
+- **Allegro maks. 30% linków w dealach** (decyzja Marka 13.09.2026; wcześniej
+  „2 z 5" od 05.09): marketplace wygrywa ceną niemal każdy slot, a deale mają
+  pokazywać też sklepy z własnym magazynem. W karuzeli (5 slotów) to **1 slot**,
+  na półce `/deale/` (12 pozycji) — **3 pozycje**. Po wyczerpaniu limitu zestaw
+  dostaje najlepszą ofertę spoza Allegro — z ceną i rabatem tego sklepu (nadal
+  ≥15%, a na `/deale/` nadal kryterium deala gorącego); set bez takiej oferty
+  odpada. Reguła i próg w `src/lib/deale.js` (`UDZIAL_ALLEGRO`, `limitAllegro`,
+  `przydzielOferty`); karuzela używa `limitAllegro(5)`, półki `przydzielOferty`.
 
 Raporty Łowcy pokazują czołówkę osobno dla każdej półki.
 
@@ -155,21 +427,20 @@ commita, nie czas triggera.
 
 ---
 
-## Stabilność formatu plików JSON *(do naprawy)*
+## Stabilność formatu plików JSON *(rozwiązane 15–16.09.2026)*
 
-Scout przepisuje `known_sets.json` w całości (219 zmienionych linii przy
-80 dodanych w `sety.json`). Łowca przepisuje całą gałąź Allegro
-w `redirects.json` — 2 646 zmienionych linii przy każdym przebiegu.
+Problem z 23.08 (Łowca przepisywał całą gałąź Allegro, Scout cały
+`known_sets.json`, a skrypt z Node zmieniał kolejność kluczy numerycznych)
+jest domknięty trzema rzeczami:
 
-Diagnoza: **serializacja JSON nie jest deterministyczna** — kolejność kluczy
-lub formatowanie zmieniają się między przebiegami, więc git widzi zmianę tam,
-gdzie danych nie ruszono.
+- `scripts/json-kolejnosc.mjs` — wspólny zapis `sety.json`, `oferty_feed.json`
+  i map z numerami jako kluczami: kolejność z pliku, wcięcie z pliku, nowe
+  klucze na końcu. Używają go `lego-ceny`, `ceneo-feed`, `smyk-odswiez`,
+  `empik-import`, `oferty-przeterminowane`.
+- stała kolejność ofert w `sety.json` (alfabetycznie po sklepie, sekcja niżej).
+- Łowca zapisuje z Pythona z zachowaniem kolejności i wcięcia (prompt).
 
-Skutek: codzienne commity po kilka megabajtów, historia repo puchnie bez
-powodu, a prawdziwe zmiany giną w szumie i nie da się ich przejrzeć w diffie.
-
-Kierunek naprawy: sortowanie kluczy, stałe wcięcie, stabilne formatowanie
-liczb — po stronie każdego runnera, który zapisuje JSON.
+Uzupełnienie historyczne o Scoucie zostaje w sekcji Bricksetu niżej.
 
 ---
 
@@ -459,6 +730,30 @@ Reguła po poprawce: **odsiewaj po tym, co jest szumem** (`Gear`, `Book`,
 Wszystko inne — łącznie z `{t.b.a.}` i każdą nową wartością, której
 wcześniej nie widziałeś — traktuj jako zestaw i sprawdź ręcznie.
 
+**Uzupełnienie** *(8.09.2026)*: `{t.b.a.}` w polu `category` znaczy tylko
+tyle, że kategorii nie nadano — nie że rekord jest zestawem. Gdy kategoria
+jest pusta, **o szumie decyduje motyw**. Tego dnia przyszło sześć rekordów
+`category='{t.b.a.}'`, `theme='Gear'` o numerach `66499xx` — karty
+kolekcjonerskie Star Wars, czyli merch. Praktyczna kolejność sprawdzania:
+kategoria → jeśli `{t.b.a.}`, to motyw → jeśli i to nie rozstrzyga, numer
+(7 cyfr to prawie zawsze gadżet).
+
+Motywy-szum przy pustej kategorii: **`Gear`** (gadżety, karty kolekcjonerskie)
+i **`BrickLink`** (Designer Program, numery `910xxx` — limitowany crowdfunding,
+nie sprzedaż detaliczna). 9.09.2026 przyszło pięć rekordów `910069`–`910073`
+o 613–4027 elementach z kategorią `{t.b.a.}`; sam filtr kategorii ich nie łapał.
+
+## Pole `premiera`: dopuszczalny sam rok *(9.09.2026)*
+
+Do 9.09 wszystkie wpisy w `sety.json` miały `premiera` w formacie `RRRR-MM`.
+Gdy Brickset zna rocznik, ale nie ma daty startu (77094 Zelda), **wpisujemy
+sam rok** — `"2027"` — zamiast zmyślać miesiąc.
+
+Sprawdzone przed zmianą: `src/lib/premiery.js` porównuje `premiera >
+BIEZACY_MIESIAC` leksykalnie, więc `"2027" > "2026-09"` daje poprawny wynik,
+a hub wyświetla „premiera 2027". Nie psuje to ani flagi zapowiedzi, ani
+renderowania.
+
 ## Co NIE trafia na stronę publiczną
 
 Ustalone 28.08.2026 po wpadce: plan redakcyjny został opublikowany jako
@@ -519,8 +814,14 @@ stron produktu (Cloudflare) — działa wyszukiwarka z `allowed_domains`.
 
 ## Oznaczenia wycofań — próg dowodowy
 
-Ustalone 28.08.2026 (decyzja Marka): na `/wycofania/` trafiają **wyłącznie
-zestawy z terminem potwierdzonym przez Grupę LEGO.** Branżowe zestawienia
+**Aneks 13.09.2026 (Marek):** prognozy branżowe WRACAJĄ na listę, ale wyłącznie
+jako osobny, wyraźnie oznaczony status „prognoza rynku" — pełna reguła
+w sekcji „Statusy: wycofania, nowości, EOL" poniżej. Poniższy próg z 28.08
+obowiązuje nadal dla statusu „potwierdzone przez LEGO": to, co podpisujemy jako
+fakt, musi pochodzić od Grupy LEGO.
+
+Ustalone 28.08.2026 (decyzja Marka): na `/wycofania/` jako **potwierdzone**
+trafiają **wyłącznie zestawy z terminem potwierdzonym przez Grupę LEGO.** Branżowe zestawienia
 bywają trafne, ale bywają też przesunięte o miesiące, a data wycofania jest
 informacją, na której czytelnik opiera zakup za kilkaset złotych.
 
@@ -531,7 +832,217 @@ czytelnikowi wprost i tłumaczy dlaczego, zamiast udawać, że luki nie ma.
 
 ---
 
+## Statusy: wycofania, nowości, EOL na listingu *(ustalone 13.09.2026, decyzje Marka)*
+
+Serwis ma być ekspercki: fakt od Grupy LEGO i prognoza rynku to dwie różne
+informacje i czytelnik musi widzieć, którą dostaje. Obie są ważne — fakt musi
+być u nas odnotowany, prognoza pokazuje, że trzymamy rękę na pulsie.
+
+### Wycofania (`wycofania.json`, runner Wycofań)
+
+| status w pliku | na stronie | znaczenie |
+|---|---|---|
+| `potwierdzone` | **potwierdzone przez LEGO** | fakt: dział „Ostatnie sztuki"/„Retiring soon" na lego.com, oficjalny komunikat LEGO, albo zestaw zniknął z lego.com (`kiedy: "wycofany"`) |
+| `przewidywane` | **prognoza rynku** | zgodne przewidywania ≥2 źródeł branżowych (Brickset, Brick Fanatics, StoneWars, PromoBricks, listy EOL konkurencji) |
+
+Reguły (pełny tekst także w `wycofania.json` → `_meta.regula_statusow`):
+
+1. Każdy wpis ma `zrodlo` (skąd i z jaką datą). Prognoza nigdy nie jest
+   podpisywana jako potwierdzona — nawet gdy „wszyscy tak piszą".
+2. Przejścia: `przewidywane → potwierdzone`, gdy LEGO potwierdzi (zmień status,
+   dopisz `potwierdzono: RRRR-MM-DD`, nie kasuj wpisu); `potwierdzone` z
+   terminem `→ kiedy: "wycofany"`, gdy zestaw zniknie z lego.com; prognoza,
+   której LEGO zaprzeczyło albo termin minął bez wycofania `→ kiedy: "odwołane"`
+   (wpis zostaje w pliku, strona go nie pokazuje). Najczęstsza ścieżka to
+   prognoza, która po sprawdzeniu zamienia się w potwierdzenie.
+3. `kiedy: "wycofany"` wymaga `status: "potwierdzone"` i zgodności z katalogiem:
+   od 15.09.2026 status `dostepny`/`eol` w `katalog.json` ustawia wyłącznie
+   cotygodniowy zaciąg listingu lego.pl (`lego-ceny.mjs`, wtorek): zestaw
+   widziany na listingu jest `dostepny`, nieobecny 14 dni przechodzi na `eol`.
+   Runner Wycofań NIE edytuje katalogu — daje `kiedy: "wycofany"` tylko, gdy
+   katalog mówi `eol` albo `lego_pl_widziano` jest starsze niż 14 dni. Po każdym
+   przebiegu uruchamia `node scripts/audyt-wycofan.mjs` (sam raport, BEZ
+   `--napraw`): sekcja A (wpis „wycofany" przy katalogowym `dostepny`) i H
+   (kandydaci) idą do podsumowania dla Marka; wpis „wycofany" o zestawie
+   widzianym na listingu w ostatnich 14 dniach runner sam cofa do poprzedniego
+   terminu.
+   **Strona nie czeka na runner** (od 16.09.2026, `src/lib/status.js` →
+   `widzianyNaListingu`): wpis „wycofany" o zestawie, który listing lego.pl
+   pokazał w ostatnich 14 dniach, jest na stronie traktowany jak termin
+   „wkrótce (ostatnie sztuki w LEGO)" ze statusem potwierdzonym — hub zachowuje
+   wiersz LEGO.com z linkiem. Powód: 16.09 cztery ekskluzywy (10335, 10356,
+   40516, 40797) stały jako „wycofany (EOL)" z ukrytym jedynym linkiem
+   zakupowym, choć listing pokazał je dzień wcześniej z ceną.
+4. Na stronie lista wycofań ma pierwszeństwo przed statusem katalogu
+   (`src/lib/status.js` → `eolWLego`, `statusWycofania`, `statusListingu`).
+   Wpis `kiedy: "odwołane"` jest dla strony niewidoczny – zestaw wraca do
+   statusu z katalogu.
+5. **`--napraw` nic nie sprawdza w sieci** (poprzednia wersja tego punktu
+   twierdziła, że „sprawdza zestaw na lego.com" — nieprawda, lego.com oddaje
+   serwerowi 403). Tryb `--napraw` zostaje jako narzędzie dla człowieka po
+   ręcznej weryfikacji; runner go nie używa. Weryfikacją „czy LEGO jeszcze
+   sprzedaje" jest pole `lego_pl_widziano` z listingu lego.pl.
+
+**Układ strony `/wycofania/` — jedna lista, nie dwie** *(zmiana 14.09.2026,
+decyzja Marka).* Przez dzień wycofania stały w dwóch blokach: najpierw
+potwierdzone, pod nimi prognozy. Rozróżnienie było czytelne, ale prognozy
+lądowały po kilkuset wierszach i nikt tak nisko nie schodził. Teraz jest jedna
+lista z podziałem tylko na serie, a status niesie kolumna „Status" w każdym
+wierszu — te same etykiety co wszędzie indziej (`lib/status.js` →
+`ETYKIETY_WYCOFANIA`). Wewnątrz serii kolejność idzie od pewnego terminu do
+rzeczy już nieosiągalnych: potwierdzone przez LEGO → prognoza rynku →
+w sprzedaży (po EOL w LEGO, ale sklepy jeszcze mają) → wycofany (EOL).
+
+Sortujemy po **wyświetlanym** statusie, nie po surowym polu z pliku: zestaw po
+EOL w LEGO ma w danych `status: "potwierdzone"`, a na liście jest „w sprzedaży"
+— sortowanie po polu z pliku wrzucało go między zestawy z terminem i układ
+wyglądał przypadkowo. Zasada rozróżniania faktu od prognozy nie zmienia się ani
+o jotę; zmienił się wyłącznie sposób pokazania.
+
+### Nowości (`sety.json`, Scout)
+
+| pole `status_nowosci` | na stronie | znaczenie |
+|---|---|---|
+| brak albo `potwierdzone` | **wkrótce · potwierdzone przez LEGO** (tylko zapowiedzi) | karta produktu na lego.com albo oficjalny komunikat Grupy LEGO |
+| `przeciek` | **przeciek z rynku** | informacja od dystrybutorów, z katalogów sklepowych, od społeczności — numer, nazwa, cena i liczba elementów mogą się zmienić |
+
+Scout ustawia `status_nowosci` **przy każdej zapowiedzi, którą dopisuje**:
+`"przeciek"`, gdy źródłem są dystrybutorzy, rezerwacja numeru w Brickset,
+StoneWars/PromoBricks czy społeczność; `"potwierdzone"`, gdy LEGO ma kartę
+produktu (także „Wkrótce w sprzedaży" / przedsprzedaż), wydało komunikat albo
+pokazało zestaw oficjalnie (targi, LEGO Ideas). Dwa zgodne źródła branżowe to
+wciąż przeciek – tylko producent potwierdza. Gdy LEGO ujawni zestaw, Scout
+przestawia pole na `"potwierdzone"` i uzupełnia oficjalną nazwę, cenę i liczbę
+elementów. Brak pola = potwierdzone (tak są traktowane wszystkie zestawy, które
+weszły do bazy przed 13.09 i mają kartę na lego.com). Zestaw w sprzedaży jest
+z definicji potwierdzony i statusu nie pokazuje.
+Logika: `src/lib/premiery.js` (`statusNowosci`, `przeciek`).
+
+### EOL na listingu i w tabeli cen (`src/lib/status.js`)
+
+Dwa pytania, których nie wolno mieszać: *czy LEGO jeszcze sprzedaje* i *czy da
+się kupić w sklepach*. Zestaw wycofany przez LEGO bywa miesiącami w Media
+Expert, Planecie Klocków czy na Allegro (13.09: 3 152 zestawy z katalogu
+„eol" mają ofertę sklepu).
+
+- Listing (`TabelaSetow`): LEGO sprzedaje → „w sprzedaży"; LEGO nie sprzedaje,
+  sklep ma → „w sprzedaży" + znacznik **EOL** pod plakietką i cena sklepu;
+  nikt nie ma → „wycofany (EOL)", „brak w sklepach – tylko rynek wtórny", bez
+  linku do LEGO.com.
+- Tabela cen huba (`TabelaCen`): tylko sklepy z aktualną ceną; wiersz LEGO.com
+  zostaje z ceną katalogową i znacznikiem **EOL** pod ceną, bez przycisku.
+  Wiersze „Sprawdź cenę" bez kwoty (x-kom, Smyk, Empik, link z `redirects.json`
+  bez ceny w feedzie) po EOL **znikają** — nie wiemy, czy sklep ma zestaw, więc
+  nie wysyłamy czytelnika w pustą wyszukiwarkę. Dla zestawów w sprzedaży
+  zostają (decyzja z 20.08.2026 w `redakcja/README.md`).
+- Serwer nie sprawdzi lego.com (Cloudflare, 403), ale przeglądarka na Macu
+  Marka – tak (sekcja „Jak sprawdzić status na lego.com" niżej). Status EOL
+  spoza listy wycofań ustala człowiek, ta metoda albo Firecrawl (sekcja
+  „lego.pl: dostępne przez Firecrawl"). Przykład: 76264 Batmobil Pogoń —
+  katalog miał `dostepny`, karta na lego.com „Produkcja zakończona"; wpis
+  dostał `status: "eol"` i `status_zrodlo`.
+
+### Jak sprawdzić status na lego.com *(metoda z 13.09.2026)*
+
+Karta produktu `https://www.lego.com/pl-pl/product/<numer>` (przekierowuje na
+adres ze slugiem) niesie w `<script id="__NEXT_DATA__">` stan Apollo:
+obiekt `*Product:*` z `productCode` równym numerowi, jego `variant` →
+`ProductVariant` → `attributes.availabilityStatus` i `availabilityText`.
+Wartości, które widzieliśmy:
+
+| `availabilityStatus` | `availabilityText` | znaczenie dla nas |
+|---|---|---|
+| `E_AVAILABLE` | Dostępne teraz | w sprzedaży |
+| `K_SOLD_OUT` | Wyprzedane | w sprzedaży (chwilowy brak – NIE eol) |
+| `F_BACKORDER_FOR_DATE`, `G_BACKORDER` | zamówienie z opóźnieniem | w sprzedaży |
+| `A_PRE_ORDER_FOR_DATE`, `B_COMING_SOON_AT_DATE` | przedsprzedaż / wkrótce | zapowiedź potwierdzona przez LEGO |
+| `P_FREE_ITEM`, `Q_OUT_STOCK_FREE_ITEM` | gratis (GWP/polybag) | poza sprzedażą detaliczną – nie ruszać statusu |
+| `R_RETIRED` | Produkcja zakończona | **EOL** |
+| HTTP 404 | – | LEGO.com PL nigdy nie miało karty (polybagi, część DUPLO) – status z katalogu zostaje |
+
+Z serwera (runner) to nie działa – 403. Z przeglądarki na Macu działa: po
+otwarciu dowolnej karty na lego.com można z konsoli pobrać kolejne karty
+`fetch('/pl-pl/product/<nr>')` i sparsować `__NEXT_DATA__`. Limity: po ~150
+szybkich zapytaniach lego.com odpowiada 429 na ~90 s; tempo 1 zapytanie /
+1,5 s przechodzi. Prosty regex po samym HTML **nie wystarcza** – strona
+zawiera statusy także polecanych produktów, trzeba czytać obiekt z właściwym
+`productCode`. Wynik przebiegu z 13.09: `materialy/audyt-wycofan-2026-09-13.md`.
+
+### Pozostałe ustalenia z 13.09.2026
+
+- **Szczegóły zestawu otwierają się w nowej karcie** z każdego miejsca serwisu
+  — dwa poziomy: szablony i pluginy remark (`remark-nazwy-setow`,
+  `remark-galeria`) dopisują `target="_blank" rel="noopener"` wprost (działa
+  bez JS, widzą to też roboty), a delegacja kliknięcia w `Base.astro`
+  (`a[href^="/zestaw/"]`) łapie resztę: ręczne linki w markdownie i wyniki
+  wyszukiwarki dorysowane skryptem (tam Enter robi `window.open`). Nowy link
+  do huba w szablonie ma dostawać atrybuty jawnie.
+- **Podobne zestawy pod hubem**: 4–6 kafelków losowanych z hubów tej samej serii
+  (ziarno = dzień + numer, `src/lib/seria-huby.js` → `podobneZSerii`), pod nimi
+  „Zobacz całą serię". Pula: najpierw zestawy z ceną i zdjęciem.
+- **Tabela cen na telefonie** (`≤720px`): bez ramki karty, wiersz jako siatka
+  sklep / cena + rabat / przycisk na całą szerokość (`.tabela-cen-wrap`,
+  klasy `kc-*` w `TabelaCen.astro`, w `scripts/remark-ceny.mjs` i na
+  `/deale/`). Musi mieścić się w jednym widoku bez przewijania w poziomie.
+  Przy zmianie komponentu tabeli poprawiamy oba renderery (komponent i remark).
+
+## LEGO.com: link z huba *(sprawdzone 14.09.2026)*
+
+Raport Kontrolera z 14.09 podał, że 222 oferty LEGO.com nie mają linku i klik
+wraca na naszą stronę główną. **Sprawdzone na produkcji — to nieprawda.**
+`/idz/lego/42232` oddaje `302` na `lego.com/pl-pl/product/42232`; worker ma dla
+LEGO fallback z samego numeru i on działa.
+
+**Drugi koniec tej ścieżki też jest potwierdzony** (Marek, w przeglądarce,
+14.09.2026): `lego.com/pl-pl/product/21351` — czyli skrót bez sluga, dla zestawu
+spoza tych 741 z kanonicznym adresem — otwiera właściwą kartę produktu. Cała
+trasa `/idz/lego/<nr>` → karta zestawu jest więc sprawna, także dla zestawów,
+których w `redirects.json` nie ma. To jedyny sposób, żeby to zweryfikować:
+z serwera lego.com oddaje 403, więc sprawdza człowiek w przeglądarce.
+
+Wierszy LEGO.com bez linku jest w serwisie 3 015 i **wszystkie dotyczą zestawów
+po EOL** — zamiast przycisku stoi tam „produkcja zakończona". To zachowanie
+zamierzone: nie wysyłamy czytelnika do sklepu, który zestawu już nie sprzedaje.
+Wierszy z działającym linkiem jest 954.
+
+Co mimo to zmieniliśmy: fallback opiera się na CUDZYM przekierowaniu — lego.com
+rozwija skrót z numerem na pełny adres ze slugiem. Działa, ale z naszego
+środowiska nie da się tego monitorować (lego.com odrzuca ruch serwerowy: 403 na
+curl i na WebFetch), więc gdyby LEGO je wyłączyło, dowiedzielibyśmy się od
+czytelnika. `scripts/lego-redirects.mjs` wpisuje kanoniczne adresy kart produktu
+z katalogu lego.pl — 741 zestawów, sprawdzając, że adres kończy się numerem.
+Reszta korzysta z fallbacku jak dotąd.
+
+    node scripts/lego-redirects.mjs katalog-legopl.json --sucho
+    node scripts/lego-redirects.mjs katalog-legopl.json
+
+Warto odświeżać przy każdym nowym zaciągu katalogu (`scripts/firecrawl-legopl.mjs`).
+
+---
+
 ## lego.pl: dostępne przez Firecrawl *(ustalone 28.08.2026)*
+
+**Od 15.09.2026 listing czytamy co tydzień** (Routine „Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk",
+prompt w `materialy/routine-prompty.md`; od 22.09.2026 to trwała sesja z repo —
+`trig_01PwyDWKRCLydgDxAH8eRzzR`, bo wersja w świeżej sesji 22.09 przeszła cały
+łańcuch i nie mogła pushować; sekwencję wykonała wtedy ręcznie sesja Code). Ten sam Routine odświeża tygodniowo
+ceny Ceneo (krok 6) i Smyka (krok 6a) — nazwa mówi „Dane", a nie „LEGO",
+bo od 16.09.2026 to jest wspólny slot na dane cenowe, nie tylko listing. Łańcuch:
+`firecrawl-legopl.mjs` (katalog + plik RRP) → `lego-ceny.mjs` (cena LEGO.com do
+`oferty_feed.sety[nr].oferty.lego` z datą w `daty.lego`, oferta `lego` w
+`sety.json`, status `dostepny` + `ekskluzyw` + `lego_pl_widziano` w `katalog.json`)
+→ `wczytaj-rrp.mjs` → `lego-redirects.mjs`. Bramka (jak w prompcie Dane wt):
+poniżej 800 ZESTAWÓW w zaciągu (22.09 było 938; akcesoria liczone osobno) =
+listing się urwał, nie wczytywać. Trzy pułapki:
+- `JSON.stringify` sortuje klucze numeryczne — `lego-ceny.mjs` zachowuje
+  kolejność z pliku własnym parserem; każdy nowy skrypt piszący `sety.json`
+  albo `oferty_feed.json` z JS musi robić to samo (albo pisać z Pythona).
+- Etykieta „Ekskluzywne" bywa na listingu przykryta przez „Nowość" / „Zamówienie
+  oczekujące" — flagę `ekskluzyw` w `sety.json` skrypt tylko podnosi, nigdy nie
+  zdejmuje; rozbieżności wypisuje w raporcie. Strona `/ekskluzywne/` bierze
+  sumę flag z `sety.json` i `katalog.json`.
+- Numery spoza katalogu i `sety.json` (głównie akcesoria 5xxxxxx) skrypt pomija —
+  bez nazwy i serii nie ma z czego zrobić huba.
 
 Serwer nie ma dostępu do lego.com (403 na ruch z data center) i to była nasza
 największa dziura w danych — polskie ceny katalogowe braliśmy z Bricksetu,
@@ -625,6 +1136,28 @@ ostatni kafelek na stronie zgarnia stopkę listingu (odcinamy na „Wyświetla N
 a etykieta statusu musi dopuszczać cyfry — bez nich przepada „Czyszczenie magazynu
 -30%", jedyna informacja przesądzająca o tym, że cena jest promocyjna.
 
+## Alerty cenowe „Obserwuj zestaw" *(na produkcji od 15.09.2026)*
+
+Hub zestawu ma formularz (`src/components/ObserwujCene.astro`) → `POST /obserwuj`
+w workerze → obiekt `_obserwuj/<nr>/<token>.json` w kubełku R2 `tylkoklocki-obrazy`
+(ten sam binding `OBRAZY`, żadnej nowej infrastruktury) → mail potwierdzający
+z Resend (double opt-in, link `/obserwuj/potwierdz?nr=&t=`) → codziennie
+`scripts/alerty-cen.mjs` liczy najlepszą cenę z danych serwisu i pisze, gdy
+zestaw jest ≥20% poniżej ceny katalogowej (próg „dobry" z reguł deali) i taniej
+niż przy ostatnim alercie. Rezygnacja: `/obserwuj/rezygnuj?nr=&t=` kasuje obiekt.
+
+Worker ma sekret `RESEND_API_KEY` (dodany ręcznie w panelu 15.09: Workers →
+blogoklockach → Settings → Variables and Secrets). Bez niego worker odsyła na hub
+ze stanem `niedostepne` i nic nie zapisuje. Maile z alertami wysyła Routine
+„Alerty cen" (prompt „LEGO 09:30 — Alerty cen" w `materialy/routine-prompty.md`, kopia z konta) — bez
+niego zapisy się zbierają, ale nikt nie dostaje alertu. Podgląd zapisów bez
+wysyłki: `node scripts/alerty-cen.mjs --sucho`.
+
+Nadawca `alerty@tylkoklocki.pl` — ta sama domena, którą Resend ma już
+zweryfikowaną dla `raporty@`. Polityka prywatności ma sekcję o alertach
+(`#obserwuj`); formularz linkuje do niej. Honeypot (pole `www`) odsiewa boty
+bez captchy. Adresy niepotwierdzone przez 7 dni kasuje skrypt alertów.
+
 ## Dział /deale/ (od 29.08.2026)
 
 Podstrona `/deale/` generuje się z danych przy każdym buildzie: deale gorące
@@ -639,6 +1172,17 @@ zestawach, okazje sezonowe — wg standardu sprzedażowego: ceny sklepowe
 wyłącznie przez `<div class="ceny-setu" data-set>`, w treści tylko RRP,
 dobra cena i próg zakupu; linki przez `/idz/<sklep>/<nr>`. Posty nie wchodzą
 do `/artykuly/` ani na listing strony głównej (glob ich nie łapie).
+
+**Pasek z ceną pod tytułem (od 25.09.2026, poprawka D z audytu CRO):** post
+może wskazać jeden zestaw we frontmatterze — `pasek_zestaw: "43014"` — i wtedy
+layout `Artykul.astro` wstawia pod h1 komponent `PasekCeny` („od X zł w N
+sklepach −Y%”, przycisk do najtańszego sklepu z linkiem afiliacyjnym, kotwica
+„wszystkie ceny” na hub). Dane biorą się z huba (`sety.json` + feed + sito
+14 dni i `wazne_do`), nie z treści posta, więc po wygaśnięciu promocji pasek sam
+pokaże kolejny sklep. Bez pola post wygląda jak dawniej. Ten sam komponent
+siedzi na hubie dwa razy: pod tytułem (`gora`) i po karcie redakcyjnej
+(`dol`); wariant przyklejony do dołu ekranu Marek odrzucił 25.09.2026, tak samo
+wiersz z oceną Bricksetu (F) — nie dopisywać bez nowej decyzji.
 
 ## Karty zestawów — import paczek Piotra *(ustalone 31.08.2026)*
 
@@ -667,38 +1211,137 @@ opisem a FAQ — pole `metryka` musi być mapą klucz→wartość.
 
 ---
 
-## Ceny Empik (od 29.08.2026, cotygodniowo od 31.08.2026)
+## Ceny Empik *(od 29.08.2026; deeplinki i skrypt importu od 16.09.2026)*
 
-`oferty_feed.json` ma klucz `empik` — ~4400 setów ze zrzutu katalogu
-empik.com. Zrzut robi **cotygodniowe zadanie cykliczne Coworka** (rytm
-poniedziałkowy, skill `klocki-ceny-empik`, lokalna przeglądarka — Empik
-blokuje ruch serwerowy, więc Łowca sam NIE odświeża tych cen); plik
-`lego-empik.json` ląduje w czacie sesji Łowcy, a **import robi Łowca**.
-Filtry przy imporcie: bez gadżetów po nazwie, numer 4–7 cyfr bez zera
-wiodącego, cena ≥40% RRP, konflikt numeru z nazwy rozstrzygany po znanym
-uniwersum numerów (od 31.08 — łapie setNumber wzięty z liczby elementów
-„1016el" i modeli aut „BMW M 1000"), tylko sety już obecne w oferty_feed.
-Sety nieobecne w świeżym zrzucie tracą cenę Empiku (świeżość nadrzędna).
-Linki idą przez szablon `szukaj` (worker `/idz/empik/<nr>`). Ostatni
-zrzut: 31.08.2026 (5376 pozycji → 5027 po filtrach → 4426 wierszy).
-Smyk i lego.pl wciąż na jednorazowych zrzutach z 29.08 — cykliczne
-odświeżanie do ustalenia.
+Empik blokuje ruch serwerowy, więc zrzut katalogu robi Marek lokalną
+przeglądarką (skill `klocki-ceny-empik`, rytm poniedziałkowy — przypomina o tym
+Routine „Przypomnienie: zrzut Empiku"). Plik `lego-empik.json` wchodzi do danych
+**skryptem**, nie z pamięci sesji:
+
+    node scripts/empik-import.mjs lego-empik.json --sucho    # raport, nic nie zapisuje
+    node scripts/empik-import.mjs lego-empik.json            # ceny do feedu, sety.json, ceny_baza
+    node scripts/empik-redirects.mjs lego-empik.json --usun-martwe   # deeplinki kart produktu
+
+Od 24.09.2026 oba to nakładki na wspólne `zrzut-import.mjs` / `zrzut-redirects.mjs`
+(`--sklep empik|xkom`) — jedna lista reguł dla Empiku i x-komu (sekcja „Ceny x-kom").
+
+Reguły importu są w skrypcie i tylko tam (do 16.09 żyły w pamięci trwałej sesji
+Łowcy — commit `f9b0cef` „415 gadżetów, 54 sanity, 10 konfliktów" nie miał
+pokrycia w żadnym prompcie): numer 4–7 cyfr bez zera wiodącego, konflikt numeru
+z nazwą rozstrzygany po katalogu (Empik wpisuje w `setNumber` liczbę elementów
+„1016el" albo model auta), gadżety po rdzeniach nazwy, próg sanity 40% ceny
+katalogowej, tylko zestawy z hubem, z kilku pozycji najtańsza, zestaw nieobecny
+w zrzucie traci cenę Empiku, `daty.empik` = data zrzutu (`meta.scrapedAt`).
+Zapis przez `json-kolejnosc.mjs`, walidacja liczby wpisów.
+
+Plik wrzucasz **do Code** (jak każdy załącznik) albo do sesji Łowcy z notką
+„uruchom `node scripts/empik-import.mjs lego-empik.json`, potem
+`empik-redirects.mjs --usun-martwe`". Stan 21.09.2026: 4 370 cen ze zrzutu
+z 21.09 (5 309 pozycji po trzech przebiegach listingu — zob. skill), 4 775
+deeplinków (`redirects.empik`, 30 martwych skasowanych), 13 obcych marek
+(Playmobil, CaDA) odrzuconych po nazwie (`OBCE_MARKI` w imporcie), 334 numery
+spoza katalogu (bez huba, nieobsługiwane). Smyk i lego.pl mają własne cotygodniowe
+odświeżenie (sekcje „Smyk" i „lego.pl" w tym pliku).
 
 ---
 
-## Sitemapy i Search Console *(ustalone 31.08.2026)*
+## Ceny x-kom *(od 24.09.2026; skill `klocki-ceny-xkom`)*
 
-Serwis ma **dwie sitemapy i obie mają zostać**:
+Do 23.09.2026 serwis nie miał **ani jednej ceny x-kom** mimo aktywnej afiliacji
+(SalesMasters): program nie daje feedu, a x-kom.pl oddaje 403 na ruch serwerowy.
+Sklep był w tabelach tylko jako link „Sprawdź cenę" z workera. Marek 23.09:
+„mamy z nimi afiliację, trzeba wstawić ceny poza przebiegiem" — stąd skill
+`klocki-ceny-xkom` na wzór Empiku: zrzut lokalną przeglądarką (Cowork), plik
+`lego-xkom.json`, import skryptem:
+
+    node scripts/xkom-import.mjs lego-xkom.json --sucho
+    node scripts/xkom-import.mjs lego-xkom.json
+    node scripts/xkom-redirects.mjs lego-xkom.json --usun-martwe
+
+Reguły te same co dla Empiku (`zrzut-import.mjs`), plus jedna: **pozycja
+z `available: false` nie wchodzi** — x-kom pokazuje cenę także przy produkcie
+niedostępnym. Link = adres karty produktu + uniwersalny kod SalesMasters
+(`?sm=…`, stała `KOD_SALESMASTERS` w `zrzut-redirects.mjs`, ten sam co w workerze);
+`redirects.xkom` podlega temu samemu wyjątkowi od append-only co `redirects.empik`
+(martwe karty kasuje tylko `xkom-redirects.mjs --usun-martwe`).
+
+Ręczne ceny z mailingów partnera (pierwszy: Dzień Chłopaka 23–30.09.2026) idą do
+`sety.json` z polem `wazne_do`; tygodniowy zrzut je nadpisuje. Rytm: raz w tygodniu,
+razem z Empikiem, nigdy równolegle (jedna przeglądarka). Liczby odniesienia do
+kontroli jakości ustala pierwszy przebieg — wpisać je potem do skilla.
+
+Uwaga regulaminowa (rejestr afiliacji, 18.08.2026): SalesMasters zabrania
+„automatycznych wtyczek porównujących ceny". Nasza tabela to ręcznie odświeżane
+porównanie redakcyjne, jak przy Empiku; czy dopytać opiekuna programu z
+wyprzedzeniem — decyzja Marka.
+
+---
+
+## Sitemapy i Search Console *(ustalone 31.08.2026, przebudowane 09.09.2026)*
+
+Od 09.09.2026 sitemapy generują **własne endpointy** (`src/pages/sitemap-*.xml.js`,
+logika w `src/lib/sitemapy.js`); integracja `@astrojs/sitemap` została zdjęta,
+plik `sitemap-0.xml` już nie istnieje. Adres indeksu **nie zmienił się**.
 
 | Adres | Co zgłasza | Skąd |
 |---|---|---|
-| `/sitemap-index.xml` | cały serwis (~1 200 adresów) | `@astrojs/sitemap` z filtrem `doSitemapy` w `astro.config.mjs` |
-| `/sitemap-priorytet.xml` | 498 adresów: strona główna, kategorie, teksty, zestawy z kartami | `src/pages/sitemap-priorytet.xml.js` |
+| `/sitemap-index.xml` | indeks siedmiu sitemap sekcyjnych niżej | `src/pages/sitemap-index.xml.js` |
+| `/sitemap-artykuly.xml` | `/artykuly/` + artykuły spod `/artykuly/` | `src/lib/teksty.js` |
+| `/sitemap-prezentowniki.xml` | `/prezentowniki/` + prezentowniki `.md` i `.astro` | `src/lib/teksty.js` |
+| `/sitemap-deale.xml` | `/deale/` + posty dealowe | `src/lib/teksty.js` |
+| `/sitemap-serie.xml` | `/serie/` + strony serii (bez adresów przekierowanych w `astro.config.mjs`) | `src/lib/sitemapy.js` |
+| `/sitemap-nowosci.xml` | `/nowosci/` + miesiące premier | ta sama reguła co `nowosci/[miesiac].astro` |
+| `/sitemap-zestawy.xml` | huby `/zestaw/<nr>/`, **tylko indeksowalne** | `hubIndeksowalny()` z `src/lib/seo.js` |
+| `/sitemap-inne.xml` | `/`, `/o-nas/`, `/wycofania/`, `/kolekcjoner/`, `/kalendarz-promocji-lego/`, `/zapowiedzi-lego-2027/` | `src/lib/sitemapy.js` |
+| `/sitemap-priorytet.xml` | strona główna, kategorie, teksty, zestawy z kartami (i indeksowalne) | `src/pages/sitemap-priorytet.xml.js` |
 
-Sens rozdzielenia: przy ~1 200 adresach, w większości hubów cenowych złożonych
-z danych, nie da się w GSC odróżnić „Google nie indeksuje kart Piotra" od
-„Google nie indeksuje hubów cenowych". Osobna sitemapa daje osobny licznik.
-Obie generują się przy buildzie i nie wymagają utrzymania.
+Sens podziału: w GSC każda sekcja ma osobny licznik „przesłane / zindeksowane",
+więc widać, czy Google nie indeksuje tekstów, czy hubów cenowych. Wszystko
+liczy się przy buildzie i nie wymaga utrzymania. `sitemap-priorytet.xml`
+zostaje, bo jest zgłoszona w GSC – dubluje część sekcyjnych; można ją zdjąć,
+gdy sekcyjne przejmą jej rolę w raportach.
+
+**`<lastmod>` wszędzie, gdzie data jest prawdziwa** (decyzja Marka 09.09.2026):
+teksty biorą `zaktualizowano` z frontmattera / `meta` (fallback `data`); huby
+zestawów – późniejszą z dat: nasz tekst o zestawie albo ostatnia oferta
+sklepowa (tego dnia zmieniła się tabela cen); serie – najświeższy hub lub
+tekst serii; miesiące nowości – najświeższy zestaw z premierą w tym miesiącu;
+strony przeliczane co dzień z cen (`/`, `/deale/`, `/nowosci/`, `/serie/`,
+`/wycofania/`, `/kolekcjoner/`) – data builda, bo realnie zmieniają się
+codziennie. Bez daty zostaje tylko `/o-nas/` i huby bez tekstu i bez oferty.
+Data z przyszłości jest przycinana do dzisiejszej. **Nie stemplować datą
+builda stron, które się nie zmieniły** (artykułów, hubów bez świeżej oferty) –
+przy niewiarygodnym `lastmod` Google przestaje ufać polu w całej witrynie.
+Teksty z korzenia (`/kalendarz-promocji-lego/`, `/zapowiedzi-lego-2027/`) są
+w `sitemap-inne.xml`, nie w artykułach – tak są zgłoszone w GSC.
+
+**Noindex na cienkich hubach.** `src/lib/seo.js` → `hubIndeksowalny(nr)`:
+hub jest indeksowany, gdy spełnia **co najmniej trzy z czterech** warunków
+(≥3 sklepy z ceną bez Ceneo; tekst redakcyjny >300 znaków – opis/persony
+z `sety.json`, karta z `karty_setow.json` albo uwagi z wycofań; wspomniany
+w naszym tekście; premiera w ostatnich 18 miesiącach i nie wycofany), **albo**
+jest w prezentowniku, **albo** ma gorący deal (reguła jak na `/deale/`).
+Pozostałe huby dostają `<meta name="robots" content="noindex, follow">`
+(`Base.astro`, prop `noindex`), działają normalnie i nie ma ich w sitemapie.
+Stan 09.09: **799 indeksowalnych z 4 947**. Stan 15.09: **1 162 z 9 363** — huby
+dla całego katalogu (nigdy 404) i wyjątek „karta": hub z kartą Piotra (≥2 akapity,
+≥3 FAQ) jest indeksowalny jak prezentownik i deal (decyzja Marka 15.09.2026). Progi (`MIN_SKLEPOW`,
+`MIESIACE_PREMIERY`, `MIN_WARUNKOW`) są stałymi na górze `seo.js`; pierwsza
+gałka, gdyby trzeba było zejść niżej, to wyjątek dealowy (~170 hubów).
+
+**Feed RSS:** `/rss.xml` (`src/pages/rss.xml.js`, `@astrojs/rss`) – 30
+najnowszych tekstów z tego samego indeksu `src/lib/teksty.js`; link w `<head>`
+każdej strony i w stopce. Zgłaszać w GSC **nie trzeba** (to nie sitemapa);
+efekt sprawdzać w raporcie Discover po ~2 tygodniach.
+
+**Bloki pod tekstami:** `Faq.astro` (widoczne FAQ z frontmattera `faq` /
+propsa `faq` – do 09.09 FAQ szło wyłącznie do JSON-LD, a Google wymaga treści
+widocznej; artykuł z własnym „## FAQ" w treści nie dostaje drugiego bloku)
+i `PowiazaneArtykuly.astro` („Przeczytaj też": 4 linki, dobór w
+`src/lib/powiazane.js` – wspólne zestawy → wspólna seria → kategoria → data;
+deale tylko z ostatnich 30 dni). Autor w schema i w widocznym podpisie:
+`src/config.js` → `AUTOR.imie` = „Piotr M." (decyzja Marka 09.09; puste =
+organizacja; frontmatter `autor:` nadpisuje per tekst).
 
 **Usługa w GSC jest domenowa (`sc-domain:tylkoklocki.pl`).** Praktyczny skutek:
 w polu „Dodaj nową mapę witryny" trzeba wpisać **pełny adres**
@@ -713,12 +1356,510 @@ crawla NIGDY — czyli wykrycie już nastąpiło, a robot świadomie nie wchodzi
 Ponowne zgłoszenie listy tego samo nie odwróci; zmienia to jakość treści
 i linkowanie wewnętrzne.
 
-**Pułapka przy zgłaszaniu zestawów: karta ≠ podstrona.** `karty_setow.json`
-ma 445 wpisów, ale `/zestaw/<nr>/` powstaje tylko dla numerów ze zbioru
-`numeryHubow` (`src/lib/huby.js`), który wymaga wpisu w `katalog.json`.
-Na 31.08 **32 karty nie mają podstrony** — mają ceny i linki afiliacyjne, ale
-nie ma ich w katalogu. Dlatego `sitemap-priorytet.xml.js` filtruje zestawy
-przez `maHub`; bez tego zgłaszałaby 32 adresy zwracające 404. Do naprawy
-u źródła: dopuścić kartę jako podstawę huba w `huby.js` i dodać `karta.nazwa`
-do łańcucha fallbacków nazwy w `[nr].astro` (dziś nazwa leci wyłącznie
-z `sety`/`katalog`/`wycofania`, więc te strony wyszłyby bez tytułu).
+**Karta ≠ podstrona — rozwiązane 15.09.2026.** Do 15.09 hub powstawał tylko
+dla numeru z `katalog.json`, więc karty spoza katalogu (31.08: 32 z 445) nie
+miały strony. Od 15.09 każdy numer z katalogu ma hub, a karty importowane są
+tylko dla numerów z katalogu; 16.09: 1 097 kart, wszystkie z hubem
+(sprawdzone w audycie końcowym). `sitemap-priorytet.xml.js` dalej filtruje
+przez `maHub` — to tania bramka, zostaje.
+
+## Przecieki — dział osobno od faktów *(od 15.09.2026, decyzja Marka)*
+
+`/przecieki/` pokazuje nieoficjalne zapowiedzi z `src/data/przecieki.json`
+(`src/lib/przecieki.js`, strona `src/pages/przecieki/index.astro`). Zasady:
+
+- **Przeciek nigdy nie wchodzi do huba faktów**, tabeli cen ani danych
+  strukturalnych `Product`. Dostaje cenę „ok. X zł wg źródła", termin wg źródła,
+  ocenę pewności i źródło. Progu zakupu nie ma, bo cena nie jest katalogowa.
+- **Pewność** (drabina jak przy prognozach wycofań): *wysoka* = ≥2 niezależne
+  serwisy (PromoBricks + StoneWars) zgodne co do numeru i ceny; *średnia* = jedno
+  źródło branżowe + dowód (zdjęcie, listing sklepu, katalog dystrybutora);
+  *niska* = jedno źródło społecznościowe albo sam numer.
+- **Tablica trafności** to wyróżnik działu: po premierze albo zaprzeczeniu Scout
+  dopisuje `rozstrzygniecie: {kiedy, wynik: potwierdzony|zmieniony|obalony,
+  co_sie_zmienilo}`. Wpis nigdy nie jest kasowany — to historia trafności.
+- Gdy LEGO potwierdzi przeciek, Scout dopisuje zestaw do `sety.json` jak każdą
+  nowość (bez `status_nowosci: przeciek`) i rozstrzyga wpis w `przecieki.json`.
+  Zestawy, które siedzą w `sety.json` z `status_nowosci: przeciek` (stan sprzed
+  działu: 21375, 11387, 77094), mają hub bez ofert i plakietkę linkującą do działu.
+- Strona jest w sitemapie `inne` i w menu od pierwszego dnia (Marek: „od razu do
+  sitemapy"). Do RSS przecieki nie wchodzą — RSS to teksty redakcyjne.
+- Właściciel danych: Scout (codziennie 05:00). Prompt Scouta ma krok „PRZECIEKI".
+- Format pliku: JSON z wcięciem 1 spacji jak `sety.json` (od 16.09.2026; pierwsza
+  wersja miała hybrydę „_meta z wcięciem, wpisy w jednej linii" i Scout musiał
+  pisać własny serializer). Zapis z Pythona: `json.dump(..., ensure_ascii=False, indent=1)`
+  + końcowy `\n`; z JS: `JSON.stringify(d, null, 1) + '\n'` (klucze nie są numeryczne,
+  więc kolejność się nie psuje).
+
+## Worker za warstwą assets: trasy workera muszą być w `run_worker_first` *(awaria 15.09.2026 wieczorem)*
+
+Objaw: każde kliknięcie w link sklepu wracało na `/idz/<sklep>/<nr>` jako
+strona 404; padły też obrazy otwierane w nowej karcie, linki `/obserwuj/`
+z maili i 410 dla `/p/…`. Z serwera wszystko „działało": curl dostawał 302.
+
+Przyczyna: Cloudflare Workers Static Assets obsługuje żądania NAWIGACYJNE
+przeglądarki (nagłówek `Sec-Fetch-Mode: navigate`) najpierw warstwą plików;
+dla ścieżki bez pliku i przy `not_found_handling: "404-page"` oddaje stronę
+404 i workera nie uruchamia. curl tego nagłówka nie wysyła, więc trafia do
+workera — testy z serwera są ślepe na ten błąd.
+
+Naprawa: `wrangler.jsonc` → `assets.run_worker_first` z listą ścieżek workera
+(`/idz/*`, `/img/*`, `/obserwuj`, `/obserwuj/*`, `/p/*`). Reszta serwisu dalej
+idzie z plików statycznych. Każda nowa trasa w `src/worker.js` MUSI trafić na tę
+listę, inaczej w przeglądarce dostanie 404.
+
+Test, który wykrywa tę klasę awarii (do `diagnoza.mjs` i do ręcznych sprawdzeń):
+
+    curl -sS -o /dev/null -w "%{http_code} %{redirect_url}\n" \
+      -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Dest: document" \
+      -H "Accept: text/html" -H "Sec-Fetch-Site: same-origin" \
+      https://tylkoklocki.pl/idz/lego/76355      # oczekiwane: 302 na lego.com
+
+Nie wiadomo, czemu do 15.09 rano działało bez `run_worker_first` — konfiguracja
+w repo się nie zmieniała; najpewniej zmiana po stronie Cloudflare, która weszła
+przy którymś z deployów tego dnia. Nie da się tego sprawdzić z kontenera.
+
+## Lidl przez Tradedoubler — działa od 18.09.2026
+
+Lidl online ma w Tradedoublerze feed produktowy **„LEGO klocki", fid 259772**
+(tylko klocki LEGO). Program „Lidl Sklep Online" (programId **298327**) dostał
+akcept 17.09, ale feed przez dobę odpowiadał `PF_392 „Requester is not connected
+to Feed (259772)"` — akcept programu i podpięcie feedu do witryny to w TD **dwie
+różne rzeczy**. Ruszyło 18.09 po zgłoszeniu Marka do TD; z perspektywy kodu nie
+było czego naprawiać, trzeba było tylko sprawdzać feed co kilka godzin.
+
+Stan: `feedy.json` → `lidl.aktywny: true`, `sklepy.json` → `lidl: Lidl`,
+`afiliacje_rejestr.json` → status `aktywny`. Pierwszy import 18.09: **102 produkty
+w feedzie, 60 rozpoznanych numerów zestawów, 60 linków w `redirects.lidl`,
+55 ofert w `sety.json`.**
+
+`scripts/ceneo-feed.mjs` obsługuje **wszystkie feedy TD z `feedy.json`** (bez
+argumentów: wszystkie aktywne; `--sklep lidl` jeden; `--sucho` bez zapisu) —
+krok 6 wtorkowego Routine bierze Lidla automatycznie, bez zmiany w promptach.
+Sklep z własnym magazynem (Lidl) dostaje też ofertę w `sety.json` (deale);
+Ceneo nadal nie (porównywarka).
+
+Linki idą z feedu (gotowy `pdt.tradedoubler.com`), worker bierze je
+z `redirects.lidl` — **bez zmian w `src/worker.js`**. Konsekwencja: zestaw spoza
+feedu nie dostaje linku do Lidla w ogóle.
+
+**Decyzja Marka (18.09.2026): tak zostaje — tylko linki z feedu.** Innych sklepów
+dotyczy to inaczej (w workerze stoi zapasowy deeplink na wyszukiwarkę), ale dla
+Lidla zapasu **nie dorabiamy**: link do wyszukiwarki lidl.pl bez parametrów TD
+wypuszczałby ruch bez prowizji. Nie wracamy do tematu bez nowej decyzji —
+w szczególności nie dopisujemy Lidlowi pola `szukaj` w `sklepy.json`, bo to
+ta sama ścieżka tylnymi drzwiami (worker schodzi na `sklepy[sklep].szukaj`).
+
+## /llms.txt — indeks dla modeli, wersja długa *(od 18.09.2026)*
+
+`src/pages/llms.txt.js` generuje przy każdym buildzie plik `/llms.txt`
+w konwencji llms.txt (propozycja Answer.AI z 2024). Nie mylić z sitemapą:
+sitemapa mówi wyszukiwarce, JAKIE adresy istnieją; llms.txt mówi modelowi,
+CO na nich jest — nazwa zestawu, dzisiejsza najniższa cena, liczba sklepów,
+rabat wobec cennika i status wycofania.
+
+**Uczciwie o statusie: żaden dostawca modeli nie potwierdził, że to czyta.**
+To konwencja społecznościowa, nie standard jak `robots.txt`. Utrzymanie kosztuje
+zero (plik generuje się sam), więc trzymamy go na wypadek, gdyby zaczęło się
+liczyć — ale nie planujemy na nim ruchu i nie liczymy z niego EPC.
+
+**Decyzja Marka (18.09.2026): wersja długa, z listą zestawów.** Uzasadnienie
+biznesowe jest jego: czytelnik nie szuka „bloga o LEGO", tylko konkretnego
+numeru, i wchodzi wprost na hub — to huby zarabiają, nie strona główna.
+
+„Długa" znaczy **1 163 huby indeksowalne, nie wszystkie 9 364**. Reguła jest ta
+sama, którą stosuje sitemapa (`hubIndeksowalny` z `src/lib/seo.js`): hub bez
+opisu, z jedną ofertą i bez tekstu nie ma czego zaoferować ani czytelnikowi, ani
+modelowi. Lista rośnie sama, w miarę jak huby dostają treść. Rozmiar: 220 kB.
+
+Plik zawiera też sekcję „Jak czytać nasze dane" — tam mówimy modelowi wprost,
+że cena katalogowa nie jest ceną rynkową, że Ceneo pomijamy w cenach „od", jak
+działa sito ofert i **żeby nie cytował adresów `/idz/`** (to przekierowania
+afiliacyjne, zablokowane w robots.txt — adresem do podania jest hub).
+
+## Materiały Piotra: DOCX zawsze przez `import-artykul.py` *(od 21.09.2026)*
+
+21.09.2026 z materiału „Jak rosły zestawy LEGO" wypadł wykres. W Wordzie był
+widoczny, w naszej konwersji nie — siedział w dokumencie jako obraz osadzony
+(`word/media/image1.png`, 116 kB), a konwersja czytała wyłącznie akapity.
+Wyszło to **przypadkiem**: w tekście został podpis pod nieistniejącą grafiką.
+Gdyby Piotr nie podpisał wykresu, strata byłaby niewidoczna.
+
+Dlatego artykuły Piotra importujemy **wyłącznie** przez
+`python3 scripts/import-artykul.py <plik.docx> --slug <slug> --wyjscie <plik.md>`:
+
+- akapity i nagłówki jak dotąd,
+- **tabele w miejscu, w którym stoją w dokumencie** (python-docx trzyma je poza
+  listą akapitów, więc ręczna konwersja przenosi je na koniec albo gubi),
+- **każdy obraz zapisany** do `materialy/obrazy-artykulow/<slug>/` i oznaczony
+  w treści znacznikiem `<!-- OBRAZ n: … -->` dokładnie tam, gdzie był,
+- na końcu głośna linia „UWAGA: dokument ma N obrazów" — obraz nie może zniknąć
+  po cichu.
+
+Skrypt **nie** pisze frontmattera, nie dobiera slajderów i nie wstawia znaczników
+cen. To są decyzje redakcyjne i robi je sesja według `redakcja/`.
+
+Co zrobić ze znacznikiem `<!-- OBRAZ n -->`: wykres danych najlepiej odtworzyć
+jako **inline SVG** (jak w `/artykuly/jak-rosly-zestawy-lego/`) — skaluje się,
+czyta go czytnik ekranu i nie wymaga wgrywania pliku do R2. Zdjęcie albo grafika,
+której nie da się odtworzyć, idzie normalnie jako obraz. Wybór zostawia się
+człowiekowi, ale **znacznik nie może zostać w opublikowanym tekście**.
+
+PDF od Piotra jest wtedy kontrolą, nie źródłem: `/Subtype/Image` w pliku mówi,
+ile grafik powinien mieć materiał.
+
+## Dostępność, nie tylko cena — co który sklep nam mówi *(od 20.09.2026)*
+
+Marek 20.09: „sokoła nie ma w Smyku". Sprawdzone — miał rację: karta 75192 na
+smyk.com odpowiada 200, ale w środku ma `schema.org/OutOfStock`, a u nas stała
+cena 2799 zł z 16.09, w dodatku najniższa w tabeli tego zestawu.
+
+**Mechanizm działa, zawodzi rytm.** `smyk-odswiez.mjs` czyta `InStock`/`OutOfStock`
+i wyprzedanemu zestawowi odbiera cenę — ale Smyka odświeża wtorkowy Routine, więc
+między przebiegami mamy do siedmiu dni na pokazanie ceny nie do zrealizowania.
+
+Stan źródeł dostępności:
+
+| Sklep | Skąd wiemy | Jak często |
+|---|---|---|
+| Media Expert | pole `availability` w feedzie (`feedy-lego.py`) | codziennie |
+| Allegro | oferta znika z feedu | codziennie |
+| Planeta Klocków | kategoria „wycofane z oferty" + cena 9999 zł; **od 23.09 także `OutOfStock` na karcie produktu** (sekcja niżej) | codziennie |
+| Smyk | `OutOfStock` na karcie produktu | **wtorek i piątek** |
+| Lidl, Ceneo | pole `availability` w feedzie TD | tygodniowo (Lidl codziennie) |
+| Empik | **zrzut nie niesie dostępności** | tygodniowo |
+| LEGO.com | status z listingu | tygodniowo |
+
+**Poprawka 20.09: `ceneo-feed.mjs` czyta `availability`.** Wcześniej ignorował to
+pole, choć feed Tradedoublera je podaje — produkt oznaczony inaczej niż „in stock"
+wchodziłby do danych z ceną, której sklep nie realizuje. Teraz taki produkt jest
+pomijany, a skrypt pisze, ilu pominął. W dniu wprowadzenia wszystkie 100 pozycji
+feedu Lidla było „in stock", więc nic nie ubyło — luka była zapobiegawcza.
+
+**Poprawka 20.09, druga: Smyk dwa razy w tygodniu** (decyzja Marka). Wtorek robi
+Routine „Dane wt 05:30" jak dotąd, piątek dokłada `feedy-lego.py` — ten sam
+mechanizm co przy Lidlu, czyli bez nowego runnera i bez ruszania promptów.
+Mapa `ZADANIA_TYGODNIOWE` w skrypcie trzyma dni tygodnia (`{'smyk': {4}}`,
+0 = poniedziałek); dołożenie kolejnego sklepu albo dnia to jedna liczba.
+Po odczycie skrypt uruchamia jeszcze `--stare`, żeby domknąć zestawy, których
+nie udało się pobrać za pierwszym razem. Przebieg trwa 4–8 minut.
+
+**Czego nie da się załatać:** Empik nie podaje dostępności w zrzucie. Tam jedynym
+zabezpieczeniem zostaje sito 14 dni.
+
+## Planeta Klocków: feed nie niesie dostępności — karty sprawdzamy same *(od 23.09.2026)*
+
+Łowca 23.09: z 85 „najtańszych" ofert PK 55 było widmami — feed `nokaut.xml`
+podaje cenę, ale strona produktu ma `schema.org/OutOfStock` i przycisk
+„Powiadom o dostępności" (sztandarowy przykład: 21065 Sagrada Família za
+559,99 zł, na stronie od dawna niedostępny). Poza kategorią „Produkty wycofane
+z oferty" feed nie ma żadnego pola o dostępności, więc każdy zestaw wyglądał
+na sprzedawany.
+
+**Mechanizm:** `feedy-lego.py` zapamiętuje z feedu adres karty (`ProductUrl`)
+i po wyciągu odpytuje każdą kartę zwykłym `curl` (8 równolegle, ~1 300 stron,
+ok. 11 minut; nierozstrzygnięte z pierwszej próby dostają drugą, wolniejszą,
+z limitem 40 s — w teście 23.09 pierwsza próba zostawiła 235 z 1 302 bez
+odpowiedzi, a przy ponownym odczycie próbka 40 kart rozstrzygnęła się w całości).
+Wynik testu 23.09: 137 kart OutOfStock, m.in. 21065, 11503, 10365. Wynik:
+
+- `OutOfStock` → oferta **wypada z wyciągu**. Łowca traktuje ją jak nieobecną
+  w feedzie i z reguły „sety nieobecne w dzisiejszych feedach: usuń klucz sklepu"
+  zdejmuje cenę PK z huba — bez zmian w prompcie;
+- `InStock` → zostaje;
+- błąd sieci, 404, inny układ strony → zostaje (nie kasujemy na ślepo; liczba
+  nierozstrzygniętych idzie do stderr).
+
+Numery odrzucone lądują w `_meta.planetaklockow_niedostepne`, w stderr jedna
+linijka „sprawdzono N kart, niedostępnych M, nierozstrzygniętych K".
+Adres karty nie trafia do wyciągu (pole `strona` jest zdejmowane przed zapisem).
+
+**Czego to nie załatwia:** promocji koszykowych (−7% itp.), których feed też nie
+widzi — to nadal reguła z promptu Łowcy: cena PK w 15% od najtańszej → sprawdź
+stronę przez WebFetch. Gdyby PK zaczęła blokować `curl` (dziś nie blokuje;
+worker jest blokowany przy zdjęciach, kontener nie), wszystkie karty wyjdą jako
+„nierozstrzygnięte", oferty zostaną i wrócimy do stanu sprzed 23.09 — alarmem
+jest liczba nierozstrzygniętych równa liczbie sprawdzonych.
+
+## Lidl codziennie, choć jedzie importerem „wtorkowym" *(od 18.09.2026)*
+
+Marek: skoro mamy feed produktowy, Lidl ma się odświeżać codziennie, nie raz
+w tygodniu. Prompt Łowcy siedzi w **stałej sesji** (zmiana = delete + create
+triggera), więc dokładanie tam kroku byłoby operacją na żywym runnerze.
+
+Zrobione inaczej i to jest wzorzec na przyszłość: **`scripts/feedy-lego.py`
+(który Łowca uruchamia codziennie) sam woła `ceneo-feed.mjs` dla tych feedów TD,
+które mają w `feedy.json` pole `"odswiezanie": "codziennie"`.** Częstotliwość
+sklepu jest więc decyzją w danych, dokładnie jak mówi `_meta` tego pliku — żeby
+przestawić kolejny sklep na codzienny, wystarczy jedno pole, bez ruszania
+promptów. Ceneo zostaje tygodniowe (porównywarka, duży feed).
+
+Kolejność jest bezpieczna: importer zapisuje dane, ZANIM Łowca je wczyta i dopisze
+swoje oferty. Błąd feedu nie przerywa przebiegu — ląduje w `_meta.bledy['td:<sklep>']`
+wyciągu i w raporcie Łowcy.
+
+Przy okazji poprawka w `ceneo-feed.mjs`: TD potrafi odpowiedzieć **200 z samym
+komunikatem** „Unlimited file will be created…" zamiast 202. Przedtem skrypt
+uznawał to za pusty feed i pomijał sklep — przy dziennym przebiegu oznaczałoby to
+ciche zniknięcie ofert na dobę. Teraz czeka i ponawia.
+
+## Kontrola linków sklepowych — próba losowa, nigdy przez tracker *(od 18.09.2026)*
+
+`node scripts/kontrola-linkow.mjs --ile 150` — od 21.09.2026 krok Łowcy
+w poniedziałek (mapa `ZADANIA_TYGODNIOWE` w `feedy-lego.py`); Kontroler czyta
+gotowy raport, nie uruchamia skryptu (szczegóły niżej, „Kto uruchamia kontrolę").
+Losuje linki z `redirects.json` i sprawdza, czy karta produktu jeszcze żyje.
+
+**Zasada nienaruszalna: nie odpytujemy linków trackingowych.** Wejście na
+`pdt.tradedoubler.com`, `clk.tradedoubler.com`, `webep1.com`,
+`track.performers.tech` czy `allegro.pl/affiliate` to zarejestrowany klik
+w sieci afiliacyjnej — sztucznie nabity, bez człowieka. Skrypt wyciąga z linku
+**adres docelowy sklepu** (`url(...)`, `&url=`, `redirect_url=`, base64 w `r=`)
+i sprawdza wyłącznie jego.
+
+**Czego się nie da sprawdzić z kontenera** (zmierzone 18.09.2026 na próbie 150):
+Allegro, Empik, Media Expert i LEGO.com odrzucają każde zapytanie serwerowe —
+403 albo timeout, niezależnie od nagłówków. Dlatego skrypt bierze z nich tylko
+**5 linków kontrolnych** (żeby zauważyć, gdyby któryś przestał blokować), a resztę
+próby przeznacza na Planetę Klocków, Ceneo, Smyk, Lidla i x-kom. W raporcie te
+sklepy mają własną kolumnę „blokada sklepu" — nigdy nie wolno policzyć ich jako
+„żywe". Pierwszy przebieg znalazł jeden martwy link (Planeta Klocków, 43024, 404).
+
+Mail idzie tylko, gdy są martwe (klucz `linki` w `raporty_mail.json`, kontakt@).
+
+**Kto uruchamia kontrolę (zmiana 21.09.2026, z korektą tego samego dnia).**
+Pierwsza diagnoza brzmiała: „Kontroler przez 12 minut sprawdzał linki i nie
+zdążył z commitem". **To była pomyłka.** Kontroler wykonał komplet — raport,
+archiwum dziennika, kontrolę linków (185 sprawdzalnych, 0 martwych) — i zawiódł
+**system**: proxy gita odmówiło zapisu (repo nie jest w źródłach sesji odpalanej
+przez Routine), a sesja nie miała konektora `Claude_Code_Remote`, więc nie
+przepisała harmonogramu. Pliki i patch poszły do Marka na czat; patch nałożony
+w Code (`e26593d`). Wniosek, który zostaje mimo błędnej diagnozy: **„SUCCEEDED"
+w `last_run` mówi tylko, że tura się nie wywróciła — sprawdzamy artefakty.**
+
+Od 21.09 skrypt odpala **Łowca w poniedziałek** (mapa `ZADANIA_TYGODNIOWE`
+w `feedy-lego.py`, dzień 0), pół godziny przed Kontrolerem, a Kontroler **tylko
+czyta** najnowszy `materialy/kontrola-linkow-RRRR-MM-DD.md`. Ta zmiana została,
+bo i tak jest lepsza: stała sesja Łowcy pushuje bez problemu, a Kontroler nie
+płaci kilkunastu minut za krok, który nie potrzebuje jego uprawnień. Raport
+zapisuje się **zawsze**, także przy zerze martwych — „brak martwych" to wynik.
+
+**Sprawdzenie jednego zestawu na żądanie:** `node scripts/sprawdz-oferte.mjs <nr>`.
+Pokazuje każdą ofertę z ceną, datą odczytu, wiekiem w dniach, informacją, czy
+przechodzi sito serwisu (czyli czy czytelnik ją w ogóle widzi), i kodem HTTP karty
+produktu. To jest odpowiedź na pytanie „czy ta oferta jest jeszcze aktualna",
+którego same dane nie rozstrzygają: data mówi, kiedy widzieliśmy cenę w feedzie,
+a nie czy sklep dalej ją ma.
+
+**Pierwsza naprawa, którą ta kontrola wymusiła (18.09.2026).** Martwy link
+Planety Klocków do 43024 okazał się nie błędem sklepu, tylko **naszą starą kopią**:
+feed z tego samego dnia miał poprawny adres (`…-editions-kask-ayrton-senna`),
+a my trzymaliśmy wersję sprzed zmiany slugu (`…-editions`, 404). Przyczyna: mapy
+linków **rosły, ale nigdy się nie odświeżały** — wpis raz zapisany zostawał na zawsze.
+
+Od 18.09 `feedy-lego.py` po sparsowaniu feedów **nadpisuje adresy** w
+`redirects.json` dla Media Expertu, Planety Klocków i Allegro. „Append-only"
+dotyczy KASOWANIA wpisów, nie aktualizacji adresu tego samego zestawu w tym samym
+sklepie; skrypt i tak sprawdza, że liczba wpisów nie zmalała, i przerywa, gdyby
+zmalała. Empik, Ceneo, Lidl i LEGO.com mają własne importery, które robią to samo.
+
+## Historia cen — seria czasowa pod wykresy *(od 18.09.2026)*
+
+Do 18.09.2026 **nie mieliśmy żadnej historii cen**: `ceny_baza.json` trzyma
+wyłącznie minimum wszech czasów (jedna liczba), a `oferty_feed.json` to migawka
+z dziś. Wykres „jak zmieniała się cena" był niewykonalny — i pozostałby taki,
+dopóki ktoś nie zacznie zapisywać.
+
+`scripts/historia-cen.mjs` (odpalany codziennie przez `feedy-lego.py`) dopisuje
+cenę **każdej pary (zestaw, sklep)** do `src/data/historia-cen/RRRR-MM.jsonl`
+w formacie `{"d":data,"nr":numer,"s":sklep,"c":cena}`. **Tylko zmiany** — cena,
+która stoi, nie generuje linii. Stan ostatnich cen trzyma `_ostatnie.json`, żeby
+nie czytać całej historii przy każdym przebiegu.
+
+Pierwsza wersja (rano 18.09) zapisywała tylko najniższą cenę dnia. **Marek
+przestawił na wersję per sklep tego samego dnia**, zanim plik urósł — i to jest
+właściwy odruch przy danych historycznych: czego nie zaczniemy zbierać dziś, tego
+nie odtworzymy za pół roku. Wersja per sklep odpowiada na pytania, których ta
+pierwsza nie umiała: „ile to kosztowało w Empiku w listopadzie", „który sklep jest
+najczęściej najtańszy w tej serii".
+
+**Data wpisu to data ODCZYTU ceny, nie dzień uruchomienia skryptu** (poprawione
+19.09.2026). Łowca uruchamia `feedy-lego.py` na początku swojej pracy, a ceny
+zapisuje na końcu — skrypt widzi więc stan sprzed jego zapisu i dowiaduje się
+o zmianie dobę później. Gdyby wpis nosił dzień uruchomienia, cała historia byłaby
+przesunięta o dobę. Bierzemy `daty[sklep]` z feedu albo `data` oferty; dniem
+uruchomienia stemplujemy wyłącznie zniknięcia.
+
+**Zniknięcie oferty zapisujemy jako `c: null`** — to informacja („wtedy zestaw
+wypadł z Empiku"), nie brak danych. Bezpiecznik: sklep, który z dnia na dzień
+stracił ponad połowę ofert, jest traktowany jako **awaria pobrania** i jego
+zniknięć nie zapisujemy. Bez tego jeden nieudany feed wpisałby tysiące fałszywych
+„zniknięć" — sprawdzone na symulacji padniętego Empiku: skrypt pominął 3 947
+zniknięć i nazwał sklep po imieniu.
+
+Dlaczego w `src/data`, skoro to nie są dane serwisu: **runnery commitują
+`src/data`** (Łowca i wtorkowy „Dane 05:30" mają to wprost w promptach), a kontener
+po przebiegu znika — plik poza tym katalogiem groziłby tym, że historia nigdy nie
+trafi do repo. Buildowi to nie ciąży: Astro pakuje wyłącznie to, co ktoś
+zaimportuje, a `.jsonl` nie importuje nikt (w `src/` nie ma `import.meta.glob`
+po `src/data`). Gdy dojdą wykresy na hubach, osobny skrypt wytnie z tego
+kompaktową serię (punkty tygodniowe, tylko zestawy z hubem) do zwykłego `.json`.
+
+Pierwszy zapis 18.09.2026: **12 606 par (5 977 zestawów × 7 sklepów), 685 kB.**
+Ceneo pomijamy (porównywarka — jej cena jest echem innych sklepów).
+
+## Smyk: ceny wprost ze stron produktów, bez feedu i bez Firecrawla *(od 16.09.2026)*
+
+Adtraction **nie daje feedu produktowego dla Smyka** — sprawdzone w API
+(`GET /v2/affiliate/programs?market=PL`: `Smyk PL` ma `"feed": false`, dla
+porównania `Egmont.pl` ma `true`). Dlatego ceny stały od jednorazowego zrzutu
+z 29.08 i hub pokazywał je jako świeże (wspólna data wpisu).
+
+Rozwiązanie: **smyk.com odpowiada zwykłemu `curl` z kontenera** (200, ~0,5 MB,
+1,7 s) i niesie cenę oraz dostępność w danych strukturalnych:
+
+    <meta itemProp="price" content="1179"/>
+    <link itemProp="availability" href="http://schema.org/InStock"/>
+
+`node scripts/smyk-odswiez.mjs` czyta 704 adresy kart z `redirects.smyk`, pobiera
+je po sześć naraz (ok. 4 min) i zapisuje `oferty.smyk` + `daty.smyk`. Zestaw
+wyprzedany (`OutOfStock`) traci cenę — jego karta nie pokazuje wtedy żadnej kwoty
+(przykład 10333 Barad-dûr). Błąd sieci NIE kasuje wczorajszej ceny; domyka je
+`--stare` (tylko zestawy bez dzisiejszej daty). Pierwszy przebieg 16.09: 668 cen,
+95 realnie zmienionych wobec zrzutu z 29.08, 36 zestawów wyprzedanych.
+
+Uwaga o prowizji bez zmian: linkujemy wprost na kartę produktu, bo deeplink
+Adtraction nie dowozi (patrz rejestr afiliacji).
+
+## Oferty w sety.json: kolejność alfabetyczna po sklepie *(od 16.09.2026)*
+
+Łowca zapisywał oferty posortowane po cenie, więc każda zmiana ceny przestawiała
+kolejność — diff jednego przebiegu miał 76 tys. linii (wcięcie 2 spacji, oferta
+to 5 linii). Historia zmian była nieczytelna, a przy konflikcie rebase nie dało
+się zobaczyć, co runner naprawdę zmienił.
+
+Od 16.09 kolejność jest stała: **alfabetycznie po `sklep`**. Strony to nie
+dotyczy — `TabelaCen` i `najlepszaOferta()` sortują po cenie same, więc czytelnik
+dalej widzi najtańszą ofertę na górze. Normalizacja: `node scripts/porzadek-ofert.mjs`
+(`--sucho` pokazuje, ile wpisów wymaga zmiany). Reguła jest w promptcie Łowcy;
+każdy skrypt dopisujący ofertę do `sety.json` ma ją utrzymać.
+
+## Oferty przeterminowane i „podejrzany rynek": sito przy odczycie *(od 16.09.2026)*
+
+**`wazne_do` (od 23.09.2026).** Oferta może mieć pole `wazne_do: "RRRR-MM-DD"` –
+akcja sklepu z ogłoszoną datą końca (pierwszy przypadek: mailing x-kom na Dzień
+Chłopaka, 9 zestawów do 30.09). `ofertaAktualna()` odrzuca ją po tym dniu
+niezależnie od sita 14 dni, więc cena z promocji nie wisi tydzień po jej końcu.
+Wpisuje się ręcznie w `sety.json` (`{"sklep": "xkom", "cena": …, "data": …,
+"wazne_do": …}`); po dacie wpis można zostawić – sito go nie pokaże.
+
+**x-kom nie ma feedu.** Do 23.09.2026 nie mieliśmy ani jednej ceny x-kom:
+SalesMasters nie daje feedu produktowego (`feed: null` w rejestrze), a strony
+x-kom blokują ruch serwerowy, więc sklep istniał w tabelach tylko jako link
+z workera. Ceny x-kom wchodzą wyłącznie ręcznie (mailing partnera, Cowork
+z przeglądarki) i zawsze z `wazne_do`.
+
+`src/lib/oferty.js` → `filtrujOferty()` jest jedynym sitem dla ofert z `sety.json`
+i z feedu; przechodzą przez nie tabela cen huba, meta/JSON-LD, karuzela na
+stronie głównej, `/deale/`, listingi serii i ocena indeksowalności. Dwie reguły,
+obie przy odczycie (dane zostają surowe, jak przy odsiewie podszywek):
+
+1. **Wiek oferty — 14 dni** (`MAX_WIEK_OFERTY_DNI`). Audyt 16.09 znalazł w
+   `sety.json` osiemnaście ofert z 12–16.08 (sklepy bez feedu: proshop, rozetka,
+   brixani, sferis, dadada, klocekplus, bricksberg, amazon; cztery LEGO.com sprzed
+   listingu) z normalnym przyciskiem „Sprawdź w sklepie" — trzy prowadziły na
+   stronę główną sklepu, bo szablon `szukaj` nie miał `{nr}`. Oferty usunięte
+   (`scripts/oferty-przeterminowane.mjs`), szablony bez `{nr}` wycięte ze
+   `sklepy.json`, a sito pilnuje, żeby to nie wróciło. Sklepy tygodniowe
+   (Ceneo, Empik, Smyk, LEGO.com) mieszczą się w 14 dniach z zapasem.
+2. **Podejrzany rynek — poniżej 50% potwierdzonego RRP**
+   (`PROG_PODEJRZANEGO_RYNKU`). Odsiew podszywek działa od 28%, ale cena
+   47–50% katalogu przy RRP potwierdzonym przez człowieka to najczęściej
+   zaślepka sklepu; taka oferta nie wchodzi nigdzie, dopóki człowiek nie
+   sprawdzi jej w sklepie i nie dopisze do `src/data/deale_potwierdzone.json`
+   (numer, cena, sklep, data, kto). Wpis obowiązuje, dopóki cena nie spadnie
+   poniżej potwierdzonej. Kandydatów pokazuje `node scripts/kontrola-rrp.mjs`
+   („Test rynkowy": wiersz mówi, czy oferta jest potwierdzona i na stronie,
+   czy ukryta). 16.09: 60339, 10423, 76156 — prawdziwe wyprzedaże końcówek
+   (Empik + Ceneo), potwierdzone przez Marka.
+   **Rano przychodzi mail** (decyzja Marka 16.09): Łowca po zapisie danych
+   uruchamia `scripts/podejrzany-rynek-mail.mjs` — lista ukrytych ofert z linkiem
+   do sklepu i do huba na kontakt@ (klucz `podejrzane` w `raporty_mail.json`;
+   brak kandydatów = brak maila). Marek potwierdza w rozmowie z Code
+   („potwierdzam <nr> <cena> <sklep>"), Code dopisuje do `deale_potwierdzone.json`,
+   oferta wraca na stronę z najbliższym buildem.
+
+Kontrola po zmianach: `node scripts/kontrola-rrp.mjs` (test rynkowy) i skaner
+`dist/` z audytu (żaden link `/idz/` nie może prowadzić na stronę główną sklepu).
+
+## Zestaw po EOL: link do lego.pl zostaje, dopóki żyje karta produktu *(zasada Marka 16.09.2026)*
+
+Powód: `75377 Niewidzialna ręka` ma u nas status „brak w lego.pl" i nie miał
+linku, a na `lego.com/pl-pl/product/invisible-hand-75377` dalej są zdjęcia,
+opis, wymiary i adnotacja „Produkcja zakończona". Czytelnik ma po co tam pójść,
+nawet jeśli nie kupi.
+
+Reguła w tabeli cen (`src/components/TabelaCen.astro`, wiersz `wiersz-eol`):
+
+1. Zestaw po EOL ze znaną ceną katalogową dostaje wiersz LEGO.com z tą ceną,
+   plakietką **„brak w sprzedaży"** i przyciskiem „Sprawdź w sklepie" (link
+   `/idz/lego/<nr>`, wyciszony stylem `.cta--eol`, żeby nie konkurował z realnymi
+   ofertami). Pod nazwą sklepu: „zestawu już nie kupisz, ale na karcie zostały
+   zdjęcia, opis i wymiary".
+2. Link znika **tylko wtedy**, gdy karty produktu nie ma. Numery takich zestawów
+   trzyma `src/data/lego_strony_brak.json` (`legoMaStrone()` w `src/lib/oferty.js`).
+3. Adres buduje worker z samego numeru — `lego.com/pl-pl/product/<nr>` przekierowuje
+   na pełny slug także po EOL (sprawdzone na 75377).
+
+Weryfikacja: `node scripts/lego-strony.mjs <numery>` albo `--kandydaci N`
+(zestawy `eol` z ceną katalogową, od najstarszych). 1 kredyt Firecrawla na zestaw;
+karta istniejąca to ~30 tys. znaków markdownu, nieistniejąca ~70 znaków (lego.com
+oddaje pustą stronę, nie 404). **Sitemapa lego.pl nie nadaje się do tego testu:**
+`sitemap-productPage-pl-PL0.xml` ma 2 165 numerów, ale 75377 w nim nie ma, choć
+karta żyje. Stan 16.09.2026: sprawdzone 3 zestawy z lat 2005–2007 (10182, 7235,
+2198) — kart nie mają. Resztę bierzemy partiami przy wtorkowym zaciągu LEGO.pl.
+
+---
+
+## Przekierowania stron: tylko `public/_redirects` *(od 29.09.2026)*
+
+`redirects` w `astro.config.mjs` przy stronie statycznej generuje plik HTML z meta refresh i kodem
+**200**, nie 301 (sprawdzone 27.09 na `/serie/tradycyjne-festiwale-chinskie/`). Prawdziwe 301 daje
+plik `public/_redirects` (składnia Cloudflare: `źródło cel 301`), który Cloudflare Workers static
+assets czyta przy deployu. Źródło nie może mieć własnej strony w `dist/`, inaczej wygra plik.
+Po każdej zmianie: `curl -sI https://tylkoklocki.pl/<źródło>` **bez `-L`** → `301` + `location`.
+Pierwsze wpisy: `/deale/` → `/promocje-lego/` (29.09.2026) i dwa przeniesione z astro.config.
+
+## Obrazy skalowane: `/img/<klucz>.jpg?w=<szerokość>` przez Cloudflare Image Transformations *(od 7.10.2026)*
+
+Audyt PageSpeed 7.10.2026 (`materialy/audyt-pagespeed-2026-10-07.md`): trasa
+`/img/` oddawała oryginały ze sklepów i Rebrickable 1:1 (np. 1200×473 px
+i 246 KB jako miniatura 130×130), co dawało 1 MB obrazów na stronie głównej
+i wynik mobile 60. Od 7.10 worker przyjmuje parametr `?w=` i przez
+`fetch(…, { cf: { image: { width, fit: 'scale-down', format: 'auto' } } })`
+oddaje wariant przeskalowany w formacie AVIF/WebP/JPEG dobranym do nagłówka
+`Accept`. Zasady:
+
+- **Usługa musi być włączona w panelu**: Images → Transformations → strefa
+  tylkoklocki.pl „Enabled" (Marek włączył 7.10.2026). Limit 5 000 unikalnych
+  transformacji miesięcznie w cenie, powyżej 0,50 USD za 1 000. Gdy usługa
+  odpowie błędem, worker oddaje oryginał — strona nie zostaje bez zdjęć, ale
+  spada wynik PageSpeed. Objaw do sprawdzenia: brak nagłówka `x-obraz-wariant`
+  w odpowiedzi na `curl -sI 'https://tylkoklocki.pl/img/42143.jpg?w=440'`.
+- **Szerokości tylko z listy** `130, 260, 440, 600, 880, 1200` (ta sama w
+  `src/worker.js` i `src/lib/media.js`). Każda inna para adres+szerokość to
+  osobna płatna transformacja, więc nie dopisujemy wartości ad hoc.
+- W komponentach nie składamy adresów ręcznie: `obrazStaly(url, 1x, 2x)` dla
+  obrazów o stałym rozmiarze, `obrazPlynny(url, [w…], sizes)` dla płynnych
+  (oba w `src/lib/media.js`, zwracają `src`/`srcset`/`sizes` do rozlania na
+  `<img>`). Adresy spoza `/img/` zostają bez zmian.
+- Oryginał w R2 jest nietknięty; usługa pobiera go z tej samej trasy bez
+  parametru (żądanie ma nagłówek `via: … image-resizing`, worker wtedy nie
+  skaluje). Przy zmianie oryginału w R2 warianty w cache wygasają po 30 dniach
+  jak dotąd.
+
+Przy okazji tej zmiany: Archivo idzie przez Fonts API Astro (`experimental.fonts`
+w `astro.config.mjs`, zastępcza czcionka z dopasowanymi metrykami — CLS hubów
+0,23 → 0), CSS jest wkładany do HTML-a (`inlineStylesheets: 'always'`),
+`gtag.js` startuje po `load`, a `public/_headers` daje `/_astro/*` roczny
+cache `immutable`.
