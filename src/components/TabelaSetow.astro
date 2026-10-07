@@ -1,5 +1,5 @@
 ---
-import { obrazStaly } from '../lib/media.js';
+import { obrazPlynny } from '../lib/media.js';
 // Jedna tabela zestawów dla całego serwisu (katalog serii, wycofania, listy tematyczne).
 //
 // Układ od lewej: zdjęcie · numer · opis · status · najniższa cena z linkiem afiliacyjnym.
@@ -80,11 +80,11 @@ const meta = (w) =>
               {w.zdjecie ? (
                 w.hub ? (
                   <a class="set-mini" href={`/zestaw/${w.numer}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
-                    <img {...obrazStaly(w.zdjecie, 130, 130)} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
+                    <img {...obrazPlynny(w.zdjecie, [260, 440, 880], '(max-width: 720px) 160px, 440px')} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
                   </a>
                 ) : (
                   <span class="set-mini">
-                    <img {...obrazStaly(w.zdjecie, 130, 130)} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
+                    <img {...obrazPlynny(w.zdjecie, [260, 440, 880], '(max-width: 720px) 160px, 440px')} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
                   </span>
                 )
               ) : (
