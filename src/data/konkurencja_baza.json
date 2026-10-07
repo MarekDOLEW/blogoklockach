@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-06",
-    "przebieg": "scheduled 2026-10-06 08:00",
+    "ostatnia_aktualizacja": "2026-10-07",
+    "przebieg": "scheduled 2026-10-07 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 250,
+    "liczba_wpisow": 259,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -19,7 +19,8 @@
       "2026-10-03": "Bardzo spokojny przebieg: fanklockow dwie publikacje (jedna o COBI, wiec poza zakresem), faniklockow ZERO nowych - feed RSS bajt w bajt identyczny z wczorajszym, najnowsza pozycja z 01.10 15:35. Dwa wpisy faniklockow dodane dzis to zalegle mikroposty dealowe z 26.09, nie swieze publikacje. Zmiana metody: promoklocki.pl i zklockow.pl pierwszy raz przeczytane Firecrawlem zamiast WebSearch (szczegoly w _meta.dostep). Na promoklocki ZADNEJ zmiany strukturalnej - strona glowna niesie tylko kategorie serii i karty produktow, bez nowych sekcji, funkcji i bez listy porownywanych sklepow. Na zklockow menu bez nowych pozycji wobec bazy. Sprawdzilem tez, czy ich swiateczny asortyment (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355, 11379, 21373) ma luki u nas: 11 z 12 numerow jest w katalog.json, brakuje tylko 5011029 - gry planszowej Ninjago, a nie zestawu klockow.",
       "2026-10-04": "fanklockow wrocil do kadencji: trzy publikacje 03.10, w tym recenzja wideo 72306 - to ich mocna strona i nasza jedyna dzisiejsza luka. faniklockow jedna publikacja 03.10 (relacja z Danii) plus jeden zalegly mikropost dealowy z 21.09. Sprawdzona i ODRZUCONA hipoteza: puste pole 'opis' przy 72306 w sety.json nie wypycha huba z indeksu - prog 300 znakow tekstu redakcyjnego wyrabiaja persony (dla_rodzica 277 + dla_afol 658), a wyrenderowany hub nie ma noindex. Zmiana w cenach 72306 warta odnotowania: 03.10 Ceneo 619,99, czyli pierwsza oferta ponizej katalogu 689,99 - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika i stad nasz wczesniejszy wniosek o odsprzedazy. Allegro 748,99 nadal jest odsprzedaza.",
       "2026-10-05": "Spokojna niedziela u obu serwisow: po jednej publikacji z 04.10 i zadna nie kwalifikuje sie do piatki. Rzecz warta zapamietania na przyszle przebiegi: wczoraj zapisalem zapowiedz minifigurek z fanklockow jako 'material dla Scouta, brak drugiego zrodla', a dzis faniklockow opublikowal swoja liste CMF i BaM. To NIE domyka progu dowodowego - oba teksty same nazywaja te informacje plotkami i wskazuja to samo zrodlo zewnetrzne (twogayafols), czyli mamy jedno zrodlo powtorzone dwa razy, nie dwa niezalezne. Dwa polskie serwisy piszace o tym samym przecieku to nadal jeden przeciek.",
-      "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia."
+      "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia.",
+      "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic."
     }
   },
   "publikacje": [
@@ -2994,6 +2995,119 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Pierwsze zapowiedzi City na 2027, u nich pod tagiem 'Niepotwierdzone'. Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Przedsprzedaż dziewiątej serii Bricklink Designer Program",
+      "url": "https://faniklockow.pl/2026/10/06/przedsprzedaz-dziewiatej-serii-bricklink-designer-program",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "news",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "POTWIERDZENIE NASZEJ GODZINY: pisza '6 pazdziernika, rowno o godz. 17.00' - dokladnie to, co mamy w /kalendarz-promocji-lego/#bldp. Wczoraj fanklockow podawal 16:15 i nie zmienilem na tej podstawie naszego 17:00, bo to byla godzina ich transmisji; drugie zrodlo to potwierdza. Dodaja limit serii 150 000 sztuk, czego u nas nie ma, ale to liczba bez wplywu na decyzje zakupowa w oknie przedsprzedazy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BrickLink Designer Program Series 9 – co i jak?",
+      "url": "https://fanklockow.pl/bricklink-designer-program-series-9-co-i-jak",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "Poradnik 'jak zlapac' zestawy z 9. serii BLDP. Mechanike i konsekwencje cenowe mamy opisane w kalendarzu (sprzedaz tylko przez Bricklink, bez punktow i progow, zestawy nie wchodza do normalnej dystrybucji, wiec nie stanieja)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Marki alternatywne na Dni Amazon Prime 2026",
+      "url": "https://fanklockow.pl/marki-alternatywne-na-dni-amazon-prime-2026",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "amazon"
+      ],
+      "notatki": "Tekst o przecenach Pantasy i Lumibricks (marki alternatywne, poza naszym zakresem - piszemy wylacznie o LEGO). Sprawdzilem natomiast samo okno: Wielkie Okazje Prime na Amazon.pl trwaja 6-7.10.2026, potwierdzone u zrodla (post Amazon.pl i komunikat aboutamazon o Prime Big Deal Days 6-7.10). Naszego kalendarza NIE uzupelniam: okno konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a sprawa programu afiliacyjnego jest juz ROZSTRZYGNIETA w afiliacje_rejestr.json od 08.2026 - PA-API wylaczone 15.05.2026, nastepca wymaga 10 kwalifikowanych sprzedazy w 30 dniach, decyzja: wracac przy realnej sprzedazy z serwisu. Nie odgrzewam tego jako zadania dla Marka."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Ostrzeżenie: MiniVerse.pl",
+      "url": "https://fanklockow.pl/ostrzezenie-miniverse-pl",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ostrzezenie przed konkretnym biznesem 'klockowym'. NIE powtarzamy zarzutu wobec nazwanej firmy na podstawie jednego zrodla i bez wlasnej weryfikacji - gdybysmy chcieli ten temat ruszyc, trzeba zaczac od sprawdzenia faktow u siebie, nie od przedruku."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Lumibricks na 10.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-lumibricks-na-10-2026",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Marka alternatywna Lumibricks - poza zakresem serwisu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Technic) – 42201 Badawcza łódź podwodna",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-technic-42201-badawcza-lodz-podwodna",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 106,26, -37%. Pojedyncze oferty Allegro mamy z feedu codziennie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Botanicals) – 10344 Dracena sandera",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-botanicals-10344-dracena-sandera-4",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 74,99, -40%. Ten sam zestaw, na ktorym 02.10 weryfikowalem karte Media Expertu (80,63) przy lataniu feedu ME."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) – 11389 Hail Mary",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-icons-11389-hail-mary",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 389,99, -17%."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Star Wars) – 75406 Wahadłowiec dowodzenia Kylo Rena",
+      "url": "https://faniklockow.pl/2026/10/06/okazja-cenowa-star-wars-75406-wahadlowiec-dowodzenia-kylo-rena-2",
+      "data_publikacji": "2026-10-06",
+      "data_wykrycia": "2026-10-07",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Mikropost dealowy: Allegro 208,99, -30%."
     }
   ],
   "obserwacje_strategiczne": {
