@@ -39,6 +39,39 @@ export default {
       // galerii". Wzorzec wpuszcza tylko litery, cyfry i jeden sufiks „-N".
       const klucz = url.pathname.slice(5).replace(/\.jpg$/, '');
       if (!/^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(klucz)) return new Response('Brak zdjęcia', { status: 404 });
+
+      // Warianty skalowane (audyt PageSpeed 7.10.2026): `?w=<szerokość>` oddaje
+      // obraz przeskalowany przez Cloudflare Image Transformations (włączone
+      // w panelu dla strefy tylkoklocki.pl) w formacie dobranym do nagłówka
+      // Accept (AVIF/WebP/JPEG). Oryginał w R2 zostaje nietknięty — usługa
+      // pobiera go z tej samej trasy bez parametru. Dozwolone szerokości są
+      // stałą listą, żeby każdy adres nie był osobną (płatną) transformacją.
+      // Pętla: żądanie usługi po oryginał przychodzi z nagłówkiem
+      // `via: … image-resizing` — wtedy omijamy skalowanie i oddajemy plik.
+      const szerokosc = Number(url.searchParams.get('w'));
+      const SZEROKOSCI = [130, 260, 440, 600, 880, 1200];
+      const przezUsluge = /image-resizing/.test(request.headers.get('via') ?? '');
+      if (SZEROKOSCI.includes(szerokosc) && !przezUsluge) {
+        const oryginal = new URL(url);
+        oryginal.search = '';
+        const skalowany = await fetch(new Request(oryginal, { headers: { accept: request.headers.get('accept') ?? '' } }), {
+          cf: {
+            image: { width: szerokosc, fit: 'scale-down', format: 'auto', quality: 82, metadata: 'none' },
+            cacheEverything: true,
+            cacheTtl: 60 * 60 * 24 * 30,
+          },
+        });
+        // Gdy usługa nie odpowie poprawnie (limit, błąd formatu, wyłączona
+        // transformacja), oddajemy oryginał — strona nie może zostać bez zdjęć.
+        if (skalowany.ok && (skalowany.headers.get('content-type') ?? '').startsWith('image/')) {
+          const odp = new Response(skalowany.body, skalowany);
+          odp.headers.set('cache-control', 'public, max-age=2592000, stale-while-revalidate=86400');
+          odp.headers.set('vary', 'Accept');
+          odp.headers.set('x-obraz-wariant', String(szerokosc));
+          return odp;
+        }
+      }
+
       const galeria = /^([0-9]{4,7})-([1-9][0-9]?)$/.exec(klucz);
       const naglowki = (typ, zrodlo) => ({
         'content-type': typ ?? 'image/jpeg',

@@ -1311,3 +1311,26 @@ nie dublować opisów z arkusza.
   `git diff -U0 src/data/sety.json | grep -c '^-[^-]'` = 0.
 - Zestaw 40824 (Tweety) jest w katalogu dwa razy: Seasonal/2025 i
   Looney Tunes/2026. W arkuszu został nowszy wpis — do weryfikacji przy opisie.
+
+---
+
+## 7.10.2026 — Audyt PageSpeed i wdrożenie poprawek wydajności (Claude Code, sesja Beko/landing)
+
+**Zrobione:**
+- Raport: `materialy/audyt-pagespeed-2026-10-07.md` (Lighthouse mobile: główna
+  60, hub zestawu 59, listing promocji 72, artykuł 84, seria 92).
+- Wdrożone na `main`: skalowanie obrazów `?w=` w workerze (Cloudflare Image
+  Transformations, włączone w panelu przez Marka), `srcset`/`sizes` we
+  wszystkich miejscach z `<img>` zestawów, `fetchpriority` + preload obrazu LCP
+  (główna, hub), GA po `load`, czcionki przez Fonts API (CLS hubów 0,23 → 0),
+  CSS inline, `public/_headers` z `immutable`, poprawki dostępności (kropki
+  slajdera, kontrast `kc-data`/`kc-uwaga`/`tag-eol`, nagłówek pustej kolumny
+  tabeli cen, stopka bez `h4`, `aria-label` na kafelku bez zdjęcia).
+- Opis operacyjny: RUNBOOK → „Obrazy skalowane".
+
+**Stan:** wdrożone, pomiar po deployu w tym samym wpisie raportu (sekcja „Po wdrożeniu").
+
+**Dla drugiej strony:** nowe `<img>` zestawów składać przez `obrazStaly` /
+`obrazPlynny` z `src/lib/media.js`, nie ręcznie. Pakiet `@fontsource/archivo`
+wyleciał z `package.json` — Fonts API pobiera pliki Archivo z CDN fontsource
+przy buildzie (build wymaga dostępu do cdn.jsdelivr.net i api.fontsource.org).

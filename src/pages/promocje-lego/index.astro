@@ -9,7 +9,7 @@ import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import { zajawkiArtykulow, sortujPostyDealowe, zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
-import { urlZdjecia, opisSetu } from '../../lib/media.js';
+import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
 import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
@@ -123,9 +123,9 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
             const aff = linkAfiliacyjny(oferta.sklep, s.nr);
             return (
               <div class="karta akt-karta promo-slajd">
-                <a class="akt-foto" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
+                <a class="akt-foto" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" aria-label={s.foto ? undefined : `LEGO ${s.nr} ${s.nazwa}`}>
                   {s.foto
-                    ? <img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} width="800" height="450" loading={i < 2 ? 'eager' : 'lazy'} />
+                    ? <img {...obrazPlynny(s.foto, [440, 880], '(max-width: 600px) calc(100vw - 40px), 440px')} alt={`LEGO ${s.nr} ${s.nazwa}`} width="800" height="450" loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} />
                     : <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>}
                 </a>
                 <span class="akt-tresc">
@@ -203,7 +203,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
               <tr data-poz={i} data-cena={oferta.cena} data-rabat={r} data-seria={s.seria} hidden={i >= NA_STRONE}>
                 <td class="kol-foto">
                   {s.foto
-                    ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
+                    ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img {...obrazStaly(s.foto, 130, 260)} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
                     : <span class="set-mini-placeholder" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
                 </td>
                 <td class="kol-opis">

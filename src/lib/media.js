@@ -107,3 +107,41 @@ export function opisSetu(nr, { sety = {}, rok = null } = {}) {
 
   return null;
 }
+
+// ── Warianty skalowane (audyt PageSpeed 7.10.2026) ─────────────────────────
+//
+// Worker oddaje pod /img/<klucz>.jpg?w=<szerokość> obraz przeskalowany przez
+// Cloudflare Image Transformations w formacie AVIF/WebP/JPEG dobranym do
+// przeglądarki. Dozwolone szerokości to ta sama lista, co w src/worker.js —
+// inna wartość oddałaby oryginał. Adresy spoza /img/ (zewnętrzne) zostają bez
+// zmian, bo nie przechodzą przez worker.
+export const SZEROKOSCI_OBRAZOW = [130, 260, 440, 600, 880, 1200];
+
+const naszObraz = (url) => typeof url === 'string' && url.startsWith('/img/') && !url.includes('?');
+
+/** Adres wariantu o zadanej szerokości (albo oryginał, gdy nie da się skalować). */
+export function wariantObrazu(url, szerokosc) {
+  return naszObraz(url) && SZEROKOSCI_OBRAZOW.includes(szerokosc) ? `${url}?w=${szerokosc}` : url;
+}
+
+/**
+ * Atrybuty <img> dla obrazu o stałym rozmiarze w CSS: `src` w szerokości 1x,
+ * `srcset` z wariantem 2x dla ekranów o podwójnej gęstości.
+ */
+export function obrazStaly(url, szer1x, szer2x) {
+  if (!naszObraz(url)) return { src: url };
+  return { src: wariantObrazu(url, szer1x), srcset: `${wariantObrazu(url, szer1x)} 1x, ${wariantObrazu(url, szer2x)} 2x` };
+}
+
+/**
+ * Atrybuty <img> dla obrazu płynnego (szerokość zależna od okna): `srcset`
+ * z deskryptorami `w` i podany `sizes`.
+ */
+export function obrazPlynny(url, szerokosci, sizes) {
+  if (!naszObraz(url)) return { src: url };
+  return {
+    src: wariantObrazu(url, szerokosci[0]),
+    srcset: szerokosci.map((w) => `${wariantObrazu(url, w)} ${w}w`).join(', '),
+    sizes,
+  };
+}

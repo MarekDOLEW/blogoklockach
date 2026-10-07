@@ -189,7 +189,7 @@ function tabela(nr) {
     '<div class="karta karta--ceny tabela-cen-wrap">' +
     '<table class="tabela-cen">' +
     `<caption>Aktualne ceny – LEGO ${nr}</caption>` +
-    `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th></th></tr></thead>` +
+    `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th><span class="tylko-czytnik">Oferta</span></th></tr></thead>` +
     `<tbody>${wiersze.join('')}${wierszEol}${wierszCeneo}</tbody>` +
     '</table>' +
     (posortowane.length

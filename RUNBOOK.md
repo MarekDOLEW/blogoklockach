@@ -1829,3 +1829,37 @@ plik `public/_redirects` (składnia Cloudflare: `źródło cel 301`), który Clo
 assets czyta przy deployu. Źródło nie może mieć własnej strony w `dist/`, inaczej wygra plik.
 Po każdej zmianie: `curl -sI https://tylkoklocki.pl/<źródło>` **bez `-L`** → `301` + `location`.
 Pierwsze wpisy: `/deale/` → `/promocje-lego/` (29.09.2026) i dwa przeniesione z astro.config.
+
+## Obrazy skalowane: `/img/<klucz>.jpg?w=<szerokość>` przez Cloudflare Image Transformations *(od 7.10.2026)*
+
+Audyt PageSpeed 7.10.2026 (`materialy/audyt-pagespeed-2026-10-07.md`): trasa
+`/img/` oddawała oryginały ze sklepów i Rebrickable 1:1 (np. 1200×473 px
+i 246 KB jako miniatura 130×130), co dawało 1 MB obrazów na stronie głównej
+i wynik mobile 60. Od 7.10 worker przyjmuje parametr `?w=` i przez
+`fetch(…, { cf: { image: { width, fit: 'scale-down', format: 'auto' } } })`
+oddaje wariant przeskalowany w formacie AVIF/WebP/JPEG dobranym do nagłówka
+`Accept`. Zasady:
+
+- **Usługa musi być włączona w panelu**: Images → Transformations → strefa
+  tylkoklocki.pl „Enabled" (Marek włączył 7.10.2026). Limit 5 000 unikalnych
+  transformacji miesięcznie w cenie, powyżej 0,50 USD za 1 000. Gdy usługa
+  odpowie błędem, worker oddaje oryginał — strona nie zostaje bez zdjęć, ale
+  spada wynik PageSpeed. Objaw do sprawdzenia: brak nagłówka `x-obraz-wariant`
+  w odpowiedzi na `curl -sI 'https://tylkoklocki.pl/img/42143.jpg?w=440'`.
+- **Szerokości tylko z listy** `130, 260, 440, 600, 880, 1200` (ta sama w
+  `src/worker.js` i `src/lib/media.js`). Każda inna para adres+szerokość to
+  osobna płatna transformacja, więc nie dopisujemy wartości ad hoc.
+- W komponentach nie składamy adresów ręcznie: `obrazStaly(url, 1x, 2x)` dla
+  obrazów o stałym rozmiarze, `obrazPlynny(url, [w…], sizes)` dla płynnych
+  (oba w `src/lib/media.js`, zwracają `src`/`srcset`/`sizes` do rozlania na
+  `<img>`). Adresy spoza `/img/` zostają bez zmian.
+- Oryginał w R2 jest nietknięty; usługa pobiera go z tej samej trasy bez
+  parametru (żądanie ma nagłówek `via: … image-resizing`, worker wtedy nie
+  skaluje). Przy zmianie oryginału w R2 warianty w cache wygasają po 30 dniach
+  jak dotąd.
+
+Przy okazji tej zmiany: Archivo idzie przez Fonts API Astro (`experimental.fonts`
+w `astro.config.mjs`, zastępcza czcionka z dopasowanymi metrykami — CLS hubów
+0,23 → 0), CSS jest wkładany do HTML-a (`inlineStylesheets: 'always'`),
+`gtag.js` startuje po `load`, a `public/_headers` daje `/_astro/*` roczny
+cache `immutable`.

@@ -1,9 +1,15 @@
 ---
-import '@fontsource/archivo/700.css';
-import '@fontsource/archivo/800.css';
+// Archivo idzie przez Fonts API Astro (astro.config → experimental.fonts):
+// pliki woff2 z preloadem i zastępcza czcionka systemowa o dopasowanych
+// metrykach, żeby podmiana kroju nie przesuwała układu (CLS 0,23 na hubach
+// zestawów w audycie PageSpeed 7.10.2026).
+import { Font } from 'astro:assets';
 import '../styles/global.css';
 import SzukajGlobalne from '../components/SzukajGlobalne.astro';
-const { title, description, jsonld, ogImage = '/og.png', noindex = false } = Astro.props;
+// `preloadObrazu` – atrybuty obrazu LCP ({ src, srcset, sizes }); strona
+// dostaje <link rel="preload" as="image">, więc przeglądarka zaczyna pobierać
+// zdjęcie równolegle z CSS-em, a nie dopiero po sparsowaniu całego HTML-a.
+const { title, description, jsonld, ogImage = '/og.png', noindex = false, preloadObrazu = null } = Astro.props;
 // Sufiks domeny tylko wtedy, gdy tytuł z nim mieści się w 60 znakach, które
 // Google pokazuje w wynikach – inaczej obcinał właśnie treść (audyt 30.09.2026).
 const SUFIKS = ' · tylkoklocki.pl';
@@ -75,17 +81,37 @@ const stanPozycji = (href) => {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImageAbs} />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+    <Font cssVariable="--font-archivo" preload />
+    {preloadObrazu?.src && (
+      <link rel="preload" as="image" href={preloadObrazu.src} imagesrcset={preloadObrazu.srcset} imagesizes={preloadObrazu.sizes} fetchpriority="high" />
+    )}
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
     <!-- Cloudflare Web Analytics – darmowe, bez cookies. Token: panel Cloudflare ->
          Analytics & Logs -> Web Analytics -> Add a site (tylkoklocki.pl) -> skopiuj token
          i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>
-    <!-- Google tag (gtag.js) – GA4, usługa tylkoklocki.pl -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC"></script>
+    <!-- Google tag (gtag.js) – GA4, usługa tylkoklocki.pl.
+         Skrypt (179 KB) dociągamy dopiero po zdarzeniu `load` i w czasie
+         bezczynności: wcześniej konkurował o łącze z CSS-em i zdjęciem LCP
+         i dawał całe TBT strony (audyt PageSpeed 7.10.2026). Wywołania gtag()
+         sprzed załadowania czekają w dataLayer, więc nic nie ginie. -->
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-5M8LH9SKQC');
+      (function () {
+        var start = function () {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC';
+          document.head.appendChild(s);
+        };
+        var pozniej = function () {
+          'requestIdleCallback' in window ? requestIdleCallback(start, { timeout: 3000 }) : setTimeout(start, 1500);
+        };
+        document.readyState === 'complete' ? pozniej() : addEventListener('load', pozniej, { once: true });
+      })();
     </script>
   </head>
   <body>
@@ -207,15 +233,15 @@ const stanPozycji = (href) => {
     <footer class="site-footer">
       <div class="wrap">
         <div>
-          <h4>tylkoklocki.pl</h4>
+          <p class="stopka-tytul">tylkoklocki.pl</p>
           <p>Tylko klocki – polujemy na prawdziwe promocje na zestawy LEGO®. Rabaty liczymy zawsze od oficjalnej ceny katalogowej – bez pseudopromocji.</p>
         </div>
         <div>
-          <h4>Przejrzystość</h4>
+          <p class="stopka-tytul">Przejrzystość</p>
           <p>Część linków na stronie to linki afiliacyjne. Kupując przez nie, wspierasz nasz serwis – Ty nie płacisz ani grosza więcej. Najtańszą ofertę pokazujemy zawsze, niezależnie od prowizji.</p>
         </div>
         <div>
-          <h4>Info</h4>
+          <p class="stopka-tytul">Info</p>
           <p>Niniejsza strona nie jest w żaden sposób powiązana ani wspierana przez Grupę LEGO. LEGO®, logo LEGO®, Minifigurka, DUPLO™, LEGENDS OF CHIMA™, NINJAGO™, BIONICLE™, MINDSTORMS™, MIXELS™ i VIDIYO™ są znakami towarowymi Grupy LEGO. Zdjęcia zestawów © Grupa LEGO.<br /><a href="/o-nas/">O nas</a> · <a href="/aktualnosci/">Aktualności</a> · <a href="/promocje-lego/">Promocje LEGO</a> · <a href="/nowosci/">Nowości</a> · <a href="/wycofania/">Wycofania 2026</a> · <a href="/ekskluzywne/">Ekskluzywy</a> · <a href="/przecieki/">Przecieki</a> · <a href="/serie/">Serie</a> · <a href="/prezentowniki/">Prezentowniki</a> · <a href="/artykuly/">Wszystkie artykuły</a> · <a href="/rss.xml">RSS</a> · <a href="/polityka-prywatnosci/">Polityka prywatności</a></p>
         </div>
       </div>

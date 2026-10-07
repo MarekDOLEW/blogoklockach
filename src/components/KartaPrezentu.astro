@@ -1,4 +1,5 @@
 ---
+import { obrazStaly } from '../lib/media.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 import galerie from '../data/galerie.json';
@@ -59,7 +60,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
     <figure class="prezent__media">
       <img
         class="prezent__foto"
-        src={`/img/${nr}.jpg`}
+        {...obrazStaly(`/img/${nr}.jpg`, 600, 1200)}
         alt={`LEGO ${nr} ${nazwa}`}
         loading="lazy"
         decoding="async"
@@ -69,7 +70,7 @@ const bardzoTanio = (cena) => Boolean(bardzoDobra && cena <= bardzoDobra);
       {dodatkowe.length > 0 && (
         <span class="prezent__miniatury">
           {dodatkowe.map((u, i) => (
-            <img src={u} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
+            <img {...obrazStaly(u, 130, 260)} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" decoding="async" width="120" height="120" />
           ))}
         </span>
       )}

@@ -16,7 +16,7 @@
   --zielen: #0f7a43;
   --linia: #dde1e8;
 
-  --font-display: "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: var(--font-archivo, "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif);
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
 
@@ -150,8 +150,10 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 .slajder-strzalka:hover { background: #0f1830; }
 .slajder-strzalka--wstecz { left: 10px; }
 .slajder-strzalka--dalej { right: 10px; }
-.slajder-kropki { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; gap: 10px; z-index: 2; }
-.slajder-kropka { width: 12px; height: 12px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+.slajder-kropki { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; gap: 14px; z-index: 2; }
+.slajder-kropka { position: relative; width: 12px; height: 12px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+/* obszar dotyku 24×24 px (WCAG 2.5.8) – kropka wygląda tak samo */
+.slajder-kropka::before { content: ""; position: absolute; inset: -6px; }
 .slajder-kropka:hover { border-color: var(--granat); }
 .slajder-kropka--aktywna { background: var(--zolty); border-color: var(--granat); }
 @media (max-width: 760px) {
@@ -231,13 +233,16 @@ html { overflow-x: clip; }
    zostaje bez zmian, bo tam krótki wiersz jest celowy. */
 .prose--szeroki { max-width: none; }
 .prose img { max-width: 100%; border-radius: var(--radius); }
+/* zdjęcia z markdownu nie mają width/height – rezerwujemy proporcję 4:3 do
+   czasu załadowania (`auto` oddaje pierwszeństwo naturalnej proporcji) */
+.prose img:not([width]) { width: 100%; height: auto; aspect-ratio: auto 4 / 3; }
 .disclosure { font-size: 0.82rem; color: var(--granat-60); background: var(--papier); border: 1px dashed var(--linia); padding: 10px 14px; border-radius: 8px; margin: 14px 0 24px; }
 
 /* ---------- Footer ---------- */
 .site-footer { margin-top: 60px; background: var(--granat); color: #cfd6e4; padding: 36px 0; font-size: 0.9rem; }
 .site-footer a { color: var(--zolty); }
 .site-footer .wrap { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
-.site-footer h4 { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
+.site-footer .stopka-tytul { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
 
 :focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
 
@@ -547,7 +552,7 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
 /* ---------- Typografia: lżejszy krój wyświetleniowy (Archivo 700/800) ---------- */
 h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
-.logo, .site-footer h4 { font-weight: 800; }
+.logo, .site-footer .stopka-tytul { font-weight: 800; }
 .badge-rabat, .deal-dnia .cena-duza, .tabela-cen .cena, .set-karta .cena-linia .cena { font-weight: 700; }
 
 /* ---------- Nowości: większe karty, filtr serii, zdjęcia z powiększeniem ---------- */
@@ -1163,14 +1168,14 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 .tag-eol {
   display: inline-block; font-weight: 800; font-size: 0.66rem; letter-spacing: 0.08em;
   padding: 1px 7px; border-radius: 4px; vertical-align: middle; line-height: 1.5;
-  background: rgba(224,49,47,0.10); color: var(--czerwien); border: 1px solid rgba(224,49,47,0.28);
+  background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28);
 }
 .tabela-setow .kol-status .tag-eol { display: block; width: max-content; margin-top: 5px; }
 .tabela-cen .kc-cena .tag-eol { margin-left: 8px; }
 .tabela-cen tr.wiersz-eol td { color: var(--granat-60); }
 .tabela-cen .kc-eol-info { font-size: 0.82rem; color: var(--granat-60); white-space: nowrap; }
-.tabela-cen .kc-uwaga { display: block; font-size: 0.72rem; opacity: 0.65; font-weight: 400; }
-.tabela-cen .kc-data { display: block; font-size: 0.7rem; opacity: 0.6; font-weight: 400; white-space: nowrap; }
+.tabela-cen .kc-uwaga { display: block; font-size: 0.72rem; color: var(--granat-60); font-weight: 400; }
+.tabela-cen .kc-data { display: block; font-size: 0.7rem; color: var(--granat-60); font-weight: 400; white-space: nowrap; }
 /* nowości: zapowiedź nieoficjalna – kreskowana ramka jak .status--maybe w artykułach */
 .badge-przeciek {
   display: inline-block; background: var(--papier); color: var(--granat-60);

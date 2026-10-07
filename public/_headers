@@ -1,0 +1,5 @@
+# Nagłówki dla Workers static assets (audyt PageSpeed 7.10.2026).
+# Pliki w /_astro/ mają hash treści w nazwie – każda zmiana to nowy adres,
+# więc przeglądarka może je trzymać rok bez rewalidacji.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable

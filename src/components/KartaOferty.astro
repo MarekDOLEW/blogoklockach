@@ -5,7 +5,7 @@ import cenyBaza from '../data/ceny_baza.json';
 import { polaczOferty, cenaKatalogowaSetu, linkAfiliacyjny, nazwaSklepu, fmtCena, relLinku, odmien, ileElementow } from '../lib/oferty.js';
 import { statusWycofania } from '../lib/status.js';
 import { wpisKatalogu } from '../lib/katalog.js';
-import { urlZdjecia } from '../lib/media.js';
+import { urlZdjecia, obrazStaly } from '../lib/media.js';
 import { dataPl } from '../lib/daty.js';
 
 // Karta jednej oferty w poradniku „najlepsze oferty miesiąca".
@@ -62,7 +62,7 @@ const zlKlocek = elementy && wybrana ? (wybrana.cena / elementy).toFixed(2).repl
 <div class="oferta-karta">
   <a class="oferta-karta__foto" href={`/zestaw/${klucz}/`} target="_blank" rel="noopener" aria-label={`LEGO ${klucz} ${nazwa} – strona zestawu z pełną tabelą cen`}>
     {foto ? (
-      <img src={foto} alt={`LEGO ${klucz} ${nazwa}`} loading="lazy" width="400" height="300" />
+      <img {...obrazStaly(foto, 440, 880)} alt={`LEGO ${klucz} ${nazwa}`} loading="lazy" width="400" height="300" />
     ) : (
       <div class="foto-brak" aria-hidden="true"><span class="studs"><i></i><i></i><i></i><i></i></span></div>
     )}

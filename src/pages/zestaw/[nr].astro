@@ -6,7 +6,7 @@ import ObserwujCene from '../../components/ObserwujCene.astro';
 import PasekCeny from '../../components/PasekCeny.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { zdjecieSetu, opisSetu } from '../../lib/media.js';
+import { zdjecieSetu, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
 import karty from '../../data/karty_setow.json';
 import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
@@ -236,7 +236,7 @@ const opisMeta = najlepsza
       : `Od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)}. ${ogonDuzy}`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${ileElementow(elementy)}` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji.' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny} preloadObrazu={foto?.url ? obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px') : null}>
   <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
@@ -244,15 +244,15 @@ const opisMeta = najlepsza
         {galeriaSlajder.length > 0 ? (
           <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
             <div class="slajder-tasma" id={`tasma-${nr}`}>
-              <img id={`kl-${nr}-0`} src={foto?.url ?? `/img/${nr}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" />
+              <img id={`kl-${nr}-0`} {...obrazPlynny(foto?.url ?? `/img/${nr}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" fetchpriority="high" />
               {galeriaSlajder.map((_, i) => (
-                <img id={`kl-${nr}-${i + 1}`} src={`/img/${nr}-${i + 1}.jpg`} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+                <img id={`kl-${nr}-${i + 1}`} {...obrazPlynny(`/img/${nr}-${i + 1}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
           </figure>
         ) : foto?.url ? (
           <figure class="foto-okno">
-            <img src={foto.url} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" />
+            <img {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 420px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" fetchpriority="high" />
           </figure>
         ) : (
           <div class="foto-placeholder">
@@ -265,11 +265,11 @@ const opisMeta = najlepsza
           <>
             <div class="miniatury" data-tasma={`tasma-${nr}`}>
               <a href={`#kl-${nr}-0`} class="miniatura-btn" aria-label="Zdjęcie 1">
-                <img src={foto?.url ?? `/img/${nr}.jpg`} alt="" loading="lazy" width="80" height="80" />
+                <img {...obrazStaly(foto?.url ?? `/img/${nr}.jpg`, 130, 260)} alt="" loading="lazy" width="80" height="80" />
               </a>
               {galeriaSlajder.map((_, i) => (
                 <a href={`#kl-${nr}-${i + 1}`} class="miniatura-btn" aria-label={`Zdjęcie ${i + 2}`}>
-                  <img src={`/img/${nr}-${i + 1}.jpg`} alt="" loading="lazy" width="80" height="80" />
+                  <img {...obrazStaly(`/img/${nr}-${i + 1}.jpg`, 130, 260)} alt="" loading="lazy" width="80" height="80" />
                 </a>
               ))}
             </div>
@@ -348,7 +348,7 @@ const opisMeta = najlepsza
         <div class="galeria">
           {zdj.galeria.map((g, i) => (
             <a href={g} target="_blank" rel="noopener">
-              <img src={g} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
+              <img {...obrazStaly(g, 440, 880)} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
             </a>
           ))}
         </div>
@@ -458,7 +458,7 @@ const opisMeta = najlepsza
           {podobne.map((z) => (
             <a class="karta set-karta set-karta--mini" href={`/zestaw/${z.nr}/`} target="_blank" rel="noopener">
               {z.zdjecie
-                ? <img class="miniatura" src={z.zdjecie} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" width="300" height="225" />
+                ? <img class="miniatura" {...obrazStaly(z.zdjecie, 440, 880)} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" width="300" height="225" />
                 : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
               <span class="nr">LEGO {z.nr}{z.eolLego && <> <span class="tag-eol" title={z.eolPewny ? 'EOL – LEGO zakończyło produkcję' : 'brak w sklepie lego.pl'}>{z.eolPewny ? 'EOL' : 'brak w lego.pl'}</span></>}</span>
               <h3>{z.nazwa}</h3>

@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig, fontProviders } from 'astro/config';
 import remarkGaleria from './scripts/remark-galeria.mjs';
 import remarkCeny from './scripts/remark-ceny.mjs';
 import remarkNazwySetow from './scripts/remark-nazwy-setow.mjs';
@@ -31,5 +31,24 @@ export default defineConfig({
   // wstawiają gotowy HTML, którego nie rusza.
   // remarkLinkiSklepow: ręczne linki /idz/ w markdownie dostają nową kartę + noopener.
   markdown: { remarkPlugins: [remarkGaleria, remarkCeny, remarkNazwySetow, remarkLinkiSklepow] },
-  build: { inlineStylesheets: 'auto' }
+  // CSS wspólny (16 KB) wkładamy do HTML-a: osobny plik blokował pierwszy
+  // render o jedną rundę sieci (~700 ms na 4G); dla ruchu z Google, gdzie
+  // większość wizyt to jedna strona, to wygrana netto (audyt PageSpeed 7.10.2026).
+  build: { inlineStylesheets: 'always' },
+  // Archivo przez Fonts API: pliki z preloadem, zastępcza czcionka systemowa
+  // z dopasowanymi metrykami (bez przesunięć przy podmianie kroju). Zmienna
+  // --font-archivo trafia do --font-display w global.css.
+  experimental: {
+    fonts: [
+      {
+        provider: fontProviders.fontsource(),
+        name: 'Archivo',
+        cssVariable: '--font-archivo',
+        weights: [700, 800],
+        styles: ['normal'],
+        subsets: ['latin', 'latin-ext'],
+        fallbacks: ['system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
+      },
+    ],
+  },
 });

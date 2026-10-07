@@ -1,4 +1,5 @@
 ---
+import { obrazStaly } from '../lib/media.js';
 // Galeria zdjęć zestawów na górze prezentownika serii – wizualny spis treści.
 // Każdy kafelek prowadzi do własnej sekcji w tekście (kotwica #zestaw-<nr>),
 // a nie od razu na zewnątrz: czytelnik najpierw czyta uzasadnienie, dopiero
@@ -21,7 +22,7 @@ const dzis = (nr) => {
   {zestawy.map((z) => (
     <a class="galeria__kafel" href={`#zestaw-${z.nr}`}>
       <span class="galeria__foto">
-        <img src={`/img/${z.nr}.jpg`} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" decoding="async" width="300" height="300" />
+        <img {...obrazStaly(`/img/${z.nr}.jpg`, 440, 880)} alt={`LEGO ${z.nr} ${z.nazwa}`} loading="lazy" decoding="async" width="300" height="300" />
       </span>
       <span class="galeria__etykieta">{z.etykieta}</span>
       <span class="galeria__nazwa">{z.nazwa}</span>

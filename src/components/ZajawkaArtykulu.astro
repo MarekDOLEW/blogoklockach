@@ -1,4 +1,5 @@
 ---
+import { obrazStaly } from '../lib/media.js';
 import { dataPl } from '../lib/daty.js';
 // Karta artykułu: data i kategoria, pod nimi zdjęcie z tematu tekstu,
 // dalej tytuł i opis. Ten sam komponent na stronie głównej, w /artykuly/
@@ -22,7 +23,7 @@ const data = dataPl(zajawka.data);
   {zajawka.foto ? (
     <img
       class="zajawka-foto"
-      src={zajawka.foto}
+      {...obrazStaly(zajawka.foto, 440, 880)}
       alt={zajawka.fotoAlt}
       loading="lazy"
       width="480"
