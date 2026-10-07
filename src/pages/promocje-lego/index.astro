@@ -203,7 +203,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
               <tr data-poz={i} data-cena={oferta.cena} data-rabat={r} data-seria={s.seria} hidden={i >= NA_STRONE}>
                 <td class="kol-foto">
                   {s.foto
-                    ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img {...obrazPlynny(s.foto, [260, 600, 1200], '(max-width: 720px) 160px, 600px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
+                    ? <a class="set-mini set-mini--duza" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img {...obrazPlynny(s.foto, [260, 440, 600, 1200], '(max-width: 720px) 100px, 600px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="130" height="130" /></a>
                     : <span class="set-mini-placeholder" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
                 </td>
                 <td class="kol-opis">
