@@ -6,7 +6,7 @@ import { seriaArchiwalna } from '../../lib/serie-listing.js';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { urlZdjecia, opisSetu, obrazStaly } from '../../lib/media.js';
+import { urlZdjecia, opisSetu, obrazPlynny } from '../../lib/media.js';
 import { najlepszaOferta, linkAfiliacyjny, fmtCena, cenaKatalogowaSetu, odmien } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
 import { statusListingu } from '../../lib/status.js';
@@ -97,7 +97,7 @@ const liczbaEol = wiersze.filter((w) => w.eolLego).length;
     <section data-grupa>
       <h2>Zestawy z aktualnymi cenami</h2>
       <div class="siatka">
-        {wSerii.map((s) => (
+        {wSerii.map((s, i) => (
           <a
             class="karta set-karta"
             href={`/zestaw/${s.nr}/`}
@@ -109,7 +109,7 @@ const liczbaEol = wiersze.filter((w) => w.eolLego).length;
             data-nazwa={s.nazwa}
             data-seria={s.seria}
           >
-            {urlZdjecia(s.nr, { sety }) && <img class="miniatura" {...obrazStaly(urlZdjecia(s.nr, { sety }), 440, 880)} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
+            {urlZdjecia(s.nr, { sety }) && <img class="miniatura" {...obrazPlynny(urlZdjecia(s.nr, { sety }), [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" />}
             <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
             <h3>{s.nazwa}</h3>
             <div class="cena-linia"><span class="cena">{s.oferty?.length ? fmtCena(Math.min(...s.oferty.map((o) => o.cena))) : (s.cena_katalogowa ? fmtCena(s.cena_katalogowa) : 'bez ceny')}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
