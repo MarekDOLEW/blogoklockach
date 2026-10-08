@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-10-07",
+  "data_aktualizacji": "2026-10-08",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1183,
   "sety": [
@@ -1693,8 +1693,8 @@
     },
     {
       "numer": "11399",
-      "nazwa": "Icons — rezerwacja 2027",
-      "status": "Brickset 2026-10-06: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow i ceny, ale z KONKRETNA data startu launchDate 2027-06-01. Nietypowe: wiekszosc pustych rezerwacji rocznika nie ma daty wcale albo ma zastepcze 01-01, a ta wskazuje czerwiec.",
+      "nazwa": "Wladca Pierscieni: Helmowy Jar (wg przecieku)",
+      "status": "Brickset: pusty rekord Icons rocznika 2027 z launchDate 2027-06-01. StoneWars 07.10 podal, czym to jest: Helmowy Jar, 8060 elementow, 18+, start 1.06.2027. Przeniesiony do przecieki.json z pewnoscia 'srednia' — data z katalogu zgadza sie z data ze zrodla co do dnia.",
       "premiera": "2027-06"
     }
   ],
@@ -6100,7 +6100,10 @@
     "status": "Jedno zrodlo (StoneWars), ale z twardym dowodem: czesc zamienna w serwisie LEGO. Wciaz NIE publikujemy tego jako tematu ani jako zarzutu wobec producenta. Nadaje sie natomiast na jedno zdanie w sekcji 'na co uwazac' przy zestawach z ta figurka — z informacja, ze LEGO wysyla czesc zamienna przez swoj serwis. Do sprawdzenia: czy wymiana dziala takze dla polskich klientow.",
     "dlaczego_sledzimy": "Jesli sie potwierdzi, to material do sekcji 'na co uwazac' w opisach zestawow z tymi figurkami — a nie temat sam w sobie. Wada produkcyjna to zarzut wobec producenta i wymaga drugiego zrodla.",
     "rozwoj_2026_09_22": "StoneWars 2026-09-20: 'Weissbruch und Spannungsrisse bei Minifiguren: Ersatzteil fuer Pfeffy (Gingy) beim LEGO Service gelistet'. LEGO wystawilo w swoim serwisie czesc zamienna do dotknietej figurki. To zmienia charakter sprawy: zrodlo nadal jedno (StoneWars), ale dowod nie jest juz relacja z forum, tylko dzialaniem samego producenta — LEGO uznalo problem na tyle, ze uruchomilo wymiane.",
-    "do_zrobienia": "Ustalic, w ktorych zestawach wystepuje figurka Pfeffy/Gingy — dopiero wtedy da sie dopisac ostrzezenie do konkretnych wpisow. Nie robie tego dzis, bo wymaga to przeszukania skladow minifigurek, czego Brickset API nie zwraca w getSets."
+    "do_zrobienia": "Ustalic, w ktorych zestawach wystepuje figurka Pfeffy/Gingy — dopiero wtedy da sie dopisac ostrzezenie do konkretnych wpisow. Nie robie tego dzis, bo wymaga to przeszukania skladow minifigurek, czego Brickset API nie zwraca w getSets.",
+    "rozstrzygniecie_2026_10_08": "LEGO ODPOWIEDZIALO. StoneWars 07.10.2026 (aktualizacja 12:05) cytuje oswiadczenie LEGO Corporate Quality Team, opublikowane przez New Elementary: producent przyznaje, ze czesc glow minifigurek ma wade, ze przyczyne ustalil i ze produkuje czesci zamienne, ktore dotknieci fani dostana BEZPLATNIE po kontakcie z serwisem LEGO. To zamyka watpliwosc o charakterze sprawy: to nie zarzut wobec producenta, tylko jego wlasne oswiadczenie, wiec reguly o drugim zrodle nie trzeba juz stosowac.",
+    "ktore_zestawy_2026_10_08": "Odpowiedz na pytanie z 'do_zrobienia', ktorego nie dalo sie rozstrzygnac getSets: dotkniete figurki to Gingy (Pfeffy) z serii minifigurek 71053 Seria Shrek oraz Patryk z zestawu 11386 SpongeBob Kanciastoporty: Bikini Dolne. Oba zestawy mamy opisane, wiec dopisalem im do pola dla_rodzica jedno zdanie 'Na co uwazac' z numerami czesci zamiennych: glowa Gingy'ego 6606910 (wystawiona w serwisie LEGO), glowa Patryka 6601888 (jeszcze nie wystawiona).",
+    "co_zostaje_nieustalone": "Oswiadczenie LEGO nie precyzuje rynkow, wiec pytanie 'czy wymiana dziala takze dla polskich klientow' zostaje bez odpowiedzi — i tak jest zapisane w obu wpisach, bez zgadywania."
   },
   "przeglad_2026_09_08": {
     "wynik": "Brak nowych zestawow do opisania. sety.json nietkniety.",
@@ -6329,5 +6332,12 @@
     "odsiane": "5011197 (torba Herschel, motyw '{Undefined}'), 6557591 Rangoli (2024), 6565182 i 6593417 Mosaic (2025 i 2026) — buildy promocyjne sklepowe, kategoria '{t.b.a.}', availability 'LEGO exclusive', bez cen i dat.",
     "przecieki": "Bez zmian: 27 wpisow, 6 rozstrzygnietych. Nic nowego do dopisania, nic do podniesienia.",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=06.10). StoneWars — strona glowna plus artykul o LEGO Sanrio. PromoBricks — strona glowna, bez nowych tekstow. Razem 4 pobrania."
+  },
+  "przeglad_2026_10_08": {
+    "nowosci": "Brak nowych zestawow potwierdzonych przez LEGO.",
+    "przeciek_dopisany": "11399 Helmowy Jar (Wladca Pierscieni) — pewnosc 'srednia'. StoneWars podaje 8060 elementow, 18+ i start 1.06.2027; Brickset ma dla tego numeru launchDate 2027-06-01, czyli te sama date co do dnia, choc rekord jest pusty. To moze byc drugi najwiekszy zestaw LotR po Minas Tirith (8278 el.). PromoBricks milczy — sprawdzone w tresci strony glownej, nie w naglowkach.",
+    "wada_glowek_zamknieta": "Sprawa zbielenia i peknien glow minifigurek przestala byc otwarta: LEGO wydalo oswiadczenie. Szczegoly i numery czesci w sekcji do_obserwacji_jakosc_produkcji; ostrzezenia dopisane do 71053 i 11386.",
+    "odsiane": "Dwadziescia jeden rekordow, wszystkie odsiane: osiem historycznych polybagow i promo z lat 2012-2018, 30762 Retro Video Game Batman (5 elementow, availability 'Promotional', rocznik 2026 — gratis, nie detal), 6644886 Ghost Street (kategoria 'Other'), piec rekordow L0002xxx z availability 'Magazine gift', trzy torby Herschel i naklejki Insiders (Gear/merch), HPCALENDAR (Gear), 30320 Gallimimus Trap (2015).",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=07.10). StoneWars — strona glowna plus dwa artykuly (Helmowy Jar, odpowiedz LEGO w sprawie glow). PromoBricks — strona glowna. Razem 5 pobran."
   }
 }

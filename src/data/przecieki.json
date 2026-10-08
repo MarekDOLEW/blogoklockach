@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-06"
+  "zaktualizowano": "2026-10-08"
  },
  "przecieki": [
   {
@@ -626,6 +626,26 @@
    ],
    "dodano": "2026-10-06",
    "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "11399",
+   "numer": "11399",
+   "nazwa": "Władca Pierścieni: Helmowy Jar (nazwa niepotwierdzona)",
+   "seria": "Icons",
+   "elementy": 8060,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-06",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Über 8000 Teile! Neue Infos zu LEGO Helms Klamm (11399)”, dzial Gerüchte",
+     "url": "https://www.stonewars.de/geruechte/lego-helms-klamm-11399/",
+     "data": "2026-10-07"
+    }
+   ],
+   "dodano": "2026-10-08",
+   "uwagi": "Potencjalnie jeden z największych zestawów 2027 roku: według StoneWars 8060 elementów, wiek 18+, start 1 czerwca 2027, czyli dokładnie rok po Minas Tirith (8278 elementów). Nazwę serwis podaje ze znakiem zapytania, ceny i liczby minifigurek nie zna. Mocny punkt tego przecieku: katalog Brickset ma numer 11399 z launchDate 2027-06-01, czyli DOKŁADNIE datą podawaną przez źródło — rekord jest pusty (bez nazwy i elementów), ale sama data jest potwierdzeniem katalogowym tego, czego StoneWars nie miał skąd wziąć. Dlatego „srednia”, nie „niska”. Do „wysokiej” brakuje drugiego serwisu: PromoBricks nie pisze ani o Helmowym Jarze, ani o Władcy Pierścieni (sprawdzone w treści strony głównej 08.10.2026). Przy 8060 elementach źródło zakłada bardzo drobną skalę mikro — inaczej model nie zmieściłby się na półce. W przeciekach jest już drugi zestaw z tej fali, Olifant (11395).",
    "rozstrzygniecie": null
   }
  ]
