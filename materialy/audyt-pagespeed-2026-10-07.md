@@ -259,3 +259,11 @@ Co zostało:
 - Lighthouse nadal wskazuje „oszczędność 24–94 KiB" na obrazach: przy
   emulowanym ekranie 2,6× wybiera wariant 880 px dla kart ~300 px. To koszt
   ostrości na ekranach Retina, zostawiamy świadomie.
+
+## 7. Zmiana 8.10.2026: warianty z R2 zamiast Image Transformations
+
+Darmowy limit Image Transformations (5 000 unikalnych transformacji miesięcznie)
+skończył się po jednym dniu. Warianty WebP generuje teraz `scripts/warianty-obrazow.mjs`
+(sharp) do R2, worker oddaje je pod tym samym `?w=`. Różnica dla czytelnika:
+WebP zamiast AVIF (pliki ~10–15 % cięższe), ta sama rozdzielczość i jakość 82.
+Szczegóły: RUNBOOK „Obrazy skalowane".

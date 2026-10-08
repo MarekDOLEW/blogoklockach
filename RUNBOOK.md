@@ -1830,33 +1830,45 @@ assets czyta przy deployu. Źródło nie może mieć własnej strony w `dist/`, 
 Po każdej zmianie: `curl -sI https://tylkoklocki.pl/<źródło>` **bez `-L`** → `301` + `location`.
 Pierwsze wpisy: `/deale/` → `/promocje-lego/` (29.09.2026) i dwa przeniesione z astro.config.
 
-## Obrazy skalowane: `/img/<klucz>.jpg?w=<szerokość>` przez Cloudflare Image Transformations *(od 7.10.2026)*
+## Obrazy skalowane: `/img/<klucz>.jpg?w=<szerokość>` z wariantów WebP w R2 *(od 8.10.2026)*
 
 Audyt PageSpeed 7.10.2026 (`materialy/audyt-pagespeed-2026-10-07.md`): trasa
-`/img/` oddawała oryginały ze sklepów i Rebrickable 1:1 (np. 1200×473 px
-i 246 KB jako miniatura 130×130), co dawało 1 MB obrazów na stronie głównej
-i wynik mobile 60. Od 7.10 worker przyjmuje parametr `?w=` i przez
-`fetch(…, { cf: { image: { width, fit: 'scale-down', format: 'auto' } } })`
-oddaje wariant przeskalowany w formacie AVIF/WebP/JPEG dobranym do nagłówka
-`Accept`. Zasady:
+`/img/` oddawała oryginały 1:1 (np. 1200×473 px i 246 KB jako miniatura
+130×130), co dawało 1 MB obrazów na stronie głównej i wynik mobile 60.
+Pierwsza wersja (7.10) skalowała przez Cloudflare Image Transformations —
+**darmowy limit 5 000 unikalnych transformacji miesięcznie skończył się
+w jeden dzień** (każda para adres + szerokość + format liczy się osobno, a w R2
+jest 11,5 tys. zdjęć). Decyzja Marka 8.10: nie płacimy, warianty robimy sami.
 
-- **Usługa musi być włączona w panelu**: Images → Transformations → strefa
-  tylkoklocki.pl „Enabled" (Marek włączył 7.10.2026). Limit 5 000 unikalnych
-  transformacji miesięcznie w cenie, powyżej 0,50 USD za 1 000. Gdy usługa
-  odpowie błędem, worker oddaje oryginał — strona nie zostaje bez zdjęć, ale
-  spada wynik PageSpeed. Objaw do sprawdzenia: brak nagłówka `x-obraz-wariant`
-  w odpowiedzi na `curl -sI 'https://tylkoklocki.pl/img/42143.jpg?w=440'`.
-- **Szerokości tylko z listy** `130, 260, 440, 600, 880, 1200` (ta sama w
-  `src/worker.js` i `src/lib/media.js`). Każda inna para adres+szerokość to
-  osobna płatna transformacja, więc nie dopisujemy wartości ad hoc.
+Jak to działa teraz:
+
+- `scripts/warianty-obrazow.mjs` (sharp) generuje dla każdego oryginału z R2
+  komplet WebP w szerokościach `130, 260, 440, 600, 880, 1200` (bez powiększania
+  ponad oryginał) i wgrywa pod `w/<klucz>/<szerokość>.webp`. Pełny przebieg
+  dla 11,5 tys. zdjęć trwa ok. 40 min; tryb domyślny robi tylko oryginały bez
+  kompletu, więc powtórka trwa sekundy.
+- Wgrywanie i listowanie idzie przez **interfejs S3 R2** (`scripts/r2-s3.mjs`,
+  podpis SigV4 bez zależności; Access Key = id tokena, Secret = SHA-256
+  wartości `CF_R2_TOKEN`), bo REST API Cloudflare ma limit 1 200 żądań na
+  5 minut i 70 tys. PUT-ów trwałoby godzinami.
+- `r2-obrazy.mjs` (Routine „Zdjęcia → R2") po wgraniu nowego oryginału od razu
+  generuje jego warianty, więc nowe zestawy nie czekają na osobny przebieg.
+  Gdy ktoś wgra zdjęcie do R2 inną drogą (panel, `--optymalizuj`, podmiana
+  oryginału), trzeba uruchomić `node scripts/warianty-obrazow.mjs --klucze <k>`
+  — inaczej worker będzie oddawał stary wariant albo oryginał.
+- Worker (`src/worker.js`): `?w=` + nagłówek Accept z `image/webp` → obiekt
+  `w/<klucz>/<szerokość>.webp` z R2, cache brzegu przez Cache API pod kluczem
+  `?w=<szerokość>&f=webp`. Brak wariantu albo przeglądarka bez WebP → oryginał.
+  Objaw do sprawdzenia: `curl -sI -H 'Accept: image/webp' 'https://tylkoklocki.pl/img/42143.jpg?w=440'`
+  powinno dać `content-type: image/webp` i `x-obraz-wariant: 440`.
+- **Szerokości tylko z listy** (ta sama w `src/worker.js`, `src/lib/media.js`
+  i `scripts/warianty-obrazow.mjs`). Nowa szerokość = dopisać w trzech miejscach
+  i przegenerować warianty (`--klucze` albo pełny przebieg).
 - W komponentach nie składamy adresów ręcznie: `obrazStaly(url, 1x, 2x)` dla
   obrazów o stałym rozmiarze, `obrazPlynny(url, [w…], sizes)` dla płynnych
-  (oba w `src/lib/media.js`, zwracają `src`/`srcset`/`sizes` do rozlania na
-  `<img>`). Adresy spoza `/img/` zostają bez zmian.
-- Oryginał w R2 jest nietknięty; usługa pobiera go z tej samej trasy bez
-  parametru (żądanie ma nagłówek `via: … image-resizing`, worker wtedy nie
-  skaluje). Przy zmianie oryginału w R2 warianty w cache wygasają po 30 dniach
-  jak dotąd.
+  (oba w `src/lib/media.js`). Adresy spoza `/img/` zostają bez zmian.
+- Image Transformations w panelu Cloudflare można wyłączyć — worker ich nie
+  woła, a włączone nic nie kosztują, dopóki nikt nie podniesie planu.
 
 Przy okazji tej zmiany: Archivo idzie przez Fonts API Astro (`experimental.fonts`
 w `astro.config.mjs`, zastępcza czcionka z dopasowanymi metrykami — CLS hubów

@@ -8,6 +8,27 @@ to, żeby druga strona wiedziała, co się działo.
 
 **Gdzie pisać:** nowy wpis wstawiaj **bezpośrednio pod linią znacznika**
 `<!-- WPISY PONIŻEJ … -->`, na początku listy wpisów. Wszystko NAD znacznikiem
+
+## 8.10.2026 — Warianty zdjęć bez Cloudflare Image Transformations (Claude Code)
+
+**Zrobione:**
+- Limit 5 000 darmowych transformacji skończył się po jednym dniu (11,5 tys.
+  zdjęć × szerokości × formaty). Marek: nie płacimy. Worker miał zabezpieczenie,
+  więc strona oddawała oryginały — bez awarii, ale z wynikiem PageSpeed sprzed audytu.
+- Nowe: `scripts/warianty-obrazow.mjs` generuje WebP w 6 szerokościach do R2
+  (`w/<klucz>/<szerokość>.webp`), `scripts/r2-s3.mjs` to klient S3 do R2
+  (bez limitu REST API). `r2-obrazy.mjs` po wgraniu nowego oryginału od razu
+  robi jego warianty, więc Routine „Zdjęcia → R2" nie wymaga zmiany promptu.
+- Worker oddaje `?w=` z R2 (Accept z WebP) z cache brzegu; brak wariantu →
+  oryginał. Image Transformations nie są już wołane.
+- Pełny przebieg generowania 8.10 (ok. 40 min, 69 tys. obiektów, ~1,5 GB w R2).
+
+**Stan:** warianty wgrane, worker czeka na push na `main` (zmiana `src/worker.js`
+— zgodnie z CLAUDE.md pytamy przed pushem).
+
+**Dla drugiej strony:** po ręcznym wgraniu lub podmianie zdjęcia w R2 uruchomić
+`node scripts/warianty-obrazow.mjs --klucze <klucz>`; lista szerokości żyje
+w trzech miejscach (worker, media.js, skrypt) — RUNBOOK „Obrazy skalowane".
 (ta instrukcja, ustalenia trwałe, indeks archiwum) zostaje w pliku na stałe
 i archiwizacja tego nie rusza. Wpis wstawiony nad znacznikiem nie zostanie
 zarchiwizowany nigdy — skrypt zgłosi to ostrzeżeniem.

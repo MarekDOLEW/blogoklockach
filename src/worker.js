@@ -41,37 +41,34 @@ export default {
       if (!/^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/.test(klucz)) return new Response('Brak zdjęcia', { status: 404 });
 
       // Warianty skalowane (audyt PageSpeed 7.10.2026): `?w=<szerokość>` oddaje
-      // obraz przeskalowany przez Cloudflare Image Transformations (włączone
-      // w panelu dla strefy tylkoklocki.pl) w formacie dobranym do nagłówka
-      // Accept (AVIF/WebP/JPEG). Oryginał w R2 zostaje nietknięty — usługa
-      // pobiera go z tej samej trasy bez parametru. Dozwolone szerokości są
-      // stałą listą, żeby każdy adres nie był osobną (płatną) transformacją.
-      // Pętla: żądanie usługi po oryginał przychodzi z nagłówkiem
-      // `via: … image-resizing` — wtedy omijamy skalowanie i oddajemy plik.
+      // WebP w tej szerokości spod klucza `w/<klucz>/<szerokość>.webp` w R2.
+      // Warianty generuje u nas scripts/warianty-obrazow.mjs (sharp) — od
+      // 8.10.2026 zamiast Cloudflare Image Transformations, których darmowy
+      // limit 5 000 unikalnych transformacji skończył się w jeden dzień.
+      // Dozwolone szerokości to stała lista (ta sama w src/lib/media.js).
+      // Brak wariantu w R2 albo przeglądarka bez WebP = oryginał poniżej, więc
+      // strona nigdy nie zostaje bez zdjęcia. Odpowiedź trafia do cache brzegu
+      // (Cache API) pod kluczem z formatem, żeby R2 nie dostawało każdego żądania.
       const szerokosc = Number(url.searchParams.get('w'));
       const SZEROKOSCI = [130, 260, 440, 600, 880, 1200];
-      const przezUsluge = /image-resizing/.test(request.headers.get('via') ?? '');
-      if (SZEROKOSCI.includes(szerokosc) && !przezUsluge) {
-        const oryginal = new URL(url);
-        oryginal.search = '';
-        // W Workerach `format: 'auto'` nie czyta nagłówka Accept — format
-        // wybieramy sami (sprawdzone 7.10.2026: z 'auto' wracał JPEG).
-        const accept = request.headers.get('accept') ?? '';
-        const format = /image\/avif/.test(accept) ? 'avif' : /image\/webp/.test(accept) ? 'webp' : undefined;
-        const skalowany = await fetch(new Request(oryginal, { headers: { accept } }), {
-          cf: {
-            image: { width: szerokosc, fit: 'scale-down', ...(format ? { format } : {}), quality: 82, metadata: 'none' },
-            cacheEverything: true,
-            cacheTtl: 60 * 60 * 24 * 30,
-          },
-        });
-        // Gdy usługa nie odpowie poprawnie (limit, błąd formatu, wyłączona
-        // transformacja), oddajemy oryginał — strona nie może zostać bez zdjęć.
-        if (skalowany.ok && (skalowany.headers.get('content-type') ?? '').startsWith('image/')) {
-          const odp = new Response(skalowany.body, skalowany);
-          odp.headers.set('cache-control', 'public, max-age=2592000, stale-while-revalidate=86400');
-          odp.headers.set('vary', 'Accept');
-          odp.headers.set('x-obraz-wariant', String(szerokosc));
+      const chceWebp = /image\/webp/.test(request.headers.get('accept') ?? '');
+      if (SZEROKOSCI.includes(szerokosc) && chceWebp && env.OBRAZY) {
+        const cache = caches.default;
+        const kluczCache = new Request(`${url.origin}${url.pathname}?w=${szerokosc}&f=webp`);
+        const zCache = await cache.match(kluczCache);
+        if (zCache) return zCache;
+        const wariant = await env.OBRAZY.get(`w/${klucz}/${szerokosc}.webp`);
+        if (wariant) {
+          const odp = new Response(wariant.body, {
+            headers: {
+              'content-type': 'image/webp',
+              'cache-control': 'public, max-age=2592000, stale-while-revalidate=86400',
+              vary: 'Accept',
+              'x-obraz-zrodlo': 'r2',
+              'x-obraz-wariant': String(szerokosc),
+            },
+          });
+          ctx.waitUntil(cache.put(kluczCache, odp.clone()));
           return odp;
         }
       }
