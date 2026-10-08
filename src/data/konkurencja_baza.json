@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-07",
-    "przebieg": "scheduled 2026-10-07 08:00",
+    "ostatnia_aktualizacja": "2026-10-08",
+    "przebieg": "scheduled 2026-10-08 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 259,
+    "liczba_wpisow": 263,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -20,7 +20,8 @@
       "2026-10-04": "fanklockow wrocil do kadencji: trzy publikacje 03.10, w tym recenzja wideo 72306 - to ich mocna strona i nasza jedyna dzisiejsza luka. faniklockow jedna publikacja 03.10 (relacja z Danii) plus jeden zalegly mikropost dealowy z 21.09. Sprawdzona i ODRZUCONA hipoteza: puste pole 'opis' przy 72306 w sety.json nie wypycha huba z indeksu - prog 300 znakow tekstu redakcyjnego wyrabiaja persony (dla_rodzica 277 + dla_afol 658), a wyrenderowany hub nie ma noindex. Zmiana w cenach 72306 warta odnotowania: 03.10 Ceneo 619,99, czyli pierwsza oferta ponizej katalogu 689,99 - jeszcze 29.09 jedyne oferty zewnetrzne byly wyzsze od cennika i stad nasz wczesniejszy wniosek o odsprzedazy. Allegro 748,99 nadal jest odsprzedaza.",
       "2026-10-05": "Spokojna niedziela u obu serwisow: po jednej publikacji z 04.10 i zadna nie kwalifikuje sie do piatki. Rzecz warta zapamietania na przyszle przebiegi: wczoraj zapisalem zapowiedz minifigurek z fanklockow jako 'material dla Scouta, brak drugiego zrodla', a dzis faniklockow opublikowal swoja liste CMF i BaM. To NIE domyka progu dowodowego - oba teksty same nazywaja te informacje plotkami i wskazuja to samo zrodlo zewnetrzne (twogayafols), czyli mamy jedno zrodlo powtorzone dwa razy, nie dwa niezalezne. Dwa polskie serwisy piszace o tym samym przecieku to nadal jeden przeciek.",
       "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia.",
-      "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic."
+      "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic.",
+      "2026-10-08": "Cztery wpisy, jedna pozycja do raportu - i wyszla z niej poprawka u nas, nie u nich. Gratis progowy w Media Expert (43018 do zakupow od 2500 zl) obnazyl falszywe zdanie w FAQ kalendarza o tym, ze gratisy GWP sa wylacznie w sklepie LEGO. Poprawione, razem z regula o wartosci gratisu liczonej w cenie katalogowej zamiast rynkowej - to drugi raz w tym tygodniu, gdy publikacja konkurencji posluzyla nie jako temat do napisania, ale jako test naszych wlasnych tresci (06.10 bylo 'piatej serii' w bloku BLDP). Warto to robic swiadomie: czytac ich teksty takze jako liste twierdzen do sprawdzenia u siebie."
     }
   },
   "publikacje": [
@@ -3108,6 +3109,54 @@
         "allegro"
       ],
       "notatki": "Mikropost dealowy: Allegro 208,99, -30%."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Mocna oferta do dużych zakupów w Media Expert!",
+      "url": "https://faniklockow.pl/2026/10/07/mocna-oferta-do-duzych-zakupow-w-media-expert",
+      "data_publikacji": "2026-10-07",
+      "data_wykrycia": "2026-10-08",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Media Expert dawal 43018 Lionel Messi - cieszynka (katalog 779,99) jako gratis do zakupow od 2500 zl; u nich o 13:11 zostalo 9 godzin, wiec promocja zamknela sie 07.10 wieczorem. Samego okna nie dopisuje do kalendarza, bo juz minelo, ALE ujawnilo blad na naszej stronie: FAQ kalendarza twierdzil, ze 'Gratisy GWP i punkty Insiders dotycza tylko oficjalnego sklepu LEGO'. Dla punktow Insiders to prawda, dla gratisow progowych NIE - poprawione w tym przebiegu. Dolozylem tez regule, ktora wychodzi z naszych wlasnych danych: wartosc gratisu podaje sie w cenie katalogowej, a 43018 chodzil 07.10 od 398,97 (Ceneo), 414,98 (Allegro), 449,99 (sam Media Expert) - czyli realna korzysc z progu to ~400 zl, nie 779,99."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Kalendarz klockowych eventów w Polsce – 2026 rok",
+      "url": "https://faniklockow.pl/2026/10/07/kalendarz-klockowych-eventow-w-polsce-2026-rok",
+      "data_publikacji": "2026-10-07",
+      "data_wykrycia": "2026-10-08",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zalozyli kalendarz eventow klockowych w Polsce (wystawy, konwenty, Gliwice). My mamy w kalendarzu promocji sekcje 'Wydarzenia w salonach LEGO' - czyli te czesc, ktora wiaze sie z zakupem (Zbuduj i Zabierz, Member Day). Konwenty fanowskie nie generuja ruchu zakupowego, wiec nie gonimy tego formatu; gdyby zaczeli przy eventach podawac promocje sklepowe, wtedy wraca jako temat."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "BLDP seria 8 – wysyłki niebawem ruszają!",
+      "url": "https://fanklockow.pl/bldp-seria-8-wysylki-niebawem-ruszaja",
+      "data_publikacji": "2026-10-07",
+      "data_wykrycia": "2026-10-08",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "bricklink"
+      ],
+      "notatki": "Start wysylek 8. serii BLDP - etap po zamknietym fundowaniu, bez decyzji zakupowej dla czytelnika. Nasz kalendarz opisuje biezaca 9. serie."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO® 2027: Pokemon",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-pokemon",
+      "data_publikacji": "2026-10-07",
+      "data_wykrycia": "2026-10-08",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Mgliste zapowiedzi serii Pokemon na 2027, u nich pod tagiem 'Niepotwierdzone' (aktualizacja z 8.10 o kolekcjonerskich mini-Pokemonach w marcu). Material dla Scouta."
     }
   ],
   "obserwacje_strategiczne": {
