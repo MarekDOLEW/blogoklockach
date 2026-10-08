@@ -1,8 +1,8 @@
 ---
-// Archivo idzie przez Fonts API Astro (astro.config → experimental.fonts):
-// pliki woff2 z preloadem i zastępcza czcionka systemowa o dopasowanych
-// metrykach, żeby podmiana kroju nie przesuwała układu (CLS 0,23 na hubach
-// zestawów w audycie PageSpeed 7.10.2026).
+// Archivo idzie przez Fonts API Astro (astro.config → experimental.fonts);
+// czcionki zastępcze o dopasowanych metrykach są w global.css, żeby podmiana
+// kroju nie przesuwała układu (CLS 0,23 na hubach zestawów w audycie
+// PageSpeed 7.10.2026).
 import { Font } from 'astro:assets';
 import '../styles/global.css';
 import SzukajGlobalne from '../components/SzukajGlobalne.astro';
@@ -81,7 +81,11 @@ const stanPozycji = (href) => {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImageAbs} />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
-    <Font cssVariable="--font-archivo" preload />
+    {/* Bez `preload`: Chrome wstrzymuje pierwszy render, dopóki preloadowane
+        czcionki nie dojadą (na 4G ~0,7 s, w pomiarze Lighthouse 8.10.2026 ponad
+        2 s). Czcionki zastępcze w global.css mają metryki Archivo, więc tekst
+        rysuje się od razu, a podmiana nie przesuwa układu. */}
+    <Font cssVariable="--font-archivo" />
     {preloadObrazu?.src && (
       <link rel="preload" as="image" href={preloadObrazu.src} imagesrcset={preloadObrazu.srcset} imagesizes={preloadObrazu.sizes} fetchpriority="high" />
     )}
