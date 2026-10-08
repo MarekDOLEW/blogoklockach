@@ -267,3 +267,25 @@ skończył się po jednym dniu. Warianty WebP generuje teraz `scripts/warianty-o
 (sharp) do R2, worker oddaje je pod tym samym `?w=`. Różnica dla czytelnika:
 WebP zamiast AVIF (pliki ~10–15 % cięższe), ta sama rozdzielczość i jakość 82.
 Szczegóły: RUNBOOK „Obrazy skalowane".
+
+Przy okazji wyszło, że `<link rel="preload">` czcionek wstrzymuje pierwszy
+render: Chrome czeka na preloadowane woff2 (w pomiarze z kontenera ponad 2 s,
+na 4G ok. 0,7 s). Preload zdjęty (`b23243b`); czcionki zastępcze z metrykami
+rysują tekst od razu, a podmiana na Archivo nie przesuwa układu.
+
+Pomiar 8.10.2026 po obu zmianach (Lighthouse 12, mobile, ten sam sposób):
+
+| Strona | Wydajność | LCP | FCP | CLS | Obrazy |
+|---|---|---|---|---|---|
+| `/` (główna) | 91 | 2,5 s | 1,1 s | 0 | 99 KiB |
+| `/zestaw/10291/` (hub) | 89 | 2,4 s | 1,0 s | 0 | 68 KiB |
+| `/promocje-lego/` | 86 | 2,6 s | 1,3 s | 0 | 219 KiB |
+| `/deale/deal-76325-…/` | 95 | 1,2 s | 1,1 s | 0 | 114 KiB |
+| `/artykuly/lego-31163-…/` | 96 | 1,2 s | 1,0 s | 0,03 | 107 KiB |
+| `/serie/animal-crossing/` | 90 | 2,7 s | 1,1 s | 0 | 113 KiB |
+
+Desktop, strona główna: 100. LCP na każdym typie strony poniżej progu 2,5 s
+lub tuż przy nim (listing 2,6 s, seria 2,7 s). TBT w tym pomiarze jest wyższe
+niż 7.10 (240–430 ms wobec 60–140 ms) — kontener pomiarowy ma wolniejszy
+procesor (strona referencyjna example.com też wypadła wolniej), nie zmieniło
+się nic w JavaScripcie serwisu.

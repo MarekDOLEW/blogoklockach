@@ -23,8 +23,13 @@ to, żeby druga strona wiedziała, co się działo.
   oryginał. Image Transformations nie są już wołane.
 - Pełny przebieg generowania 8.10 (ok. 40 min, 69 tys. obiektów, ~1,5 GB w R2).
 
-**Stan:** warianty wgrane, worker czeka na push na `main` (zmiana `src/worker.js`
-— zgodnie z CLAUDE.md pytamy przed pushem).
+- Po pomiarze: preload czcionek zdjęty (`b23243b`) — Chrome wstrzymywał pierwszy
+  render do czasu pobrania woff2; czcionki zastępcze z metrykami trzymają układ.
+- Wynik mobile po wszystkim (Lighthouse 12): główna 91, hub 89, listing 86,
+  deal 95, artykuł 96, seria 90; desktop 100. Tabela w raporcie, sekcja 7.
+
+**Stan:** wdrożone na `main` (worker `132d210` za zgodą Marka, czcionki `b23243b`),
+69 474 warianty w R2 (2,1 GB).
 
 **Dla drugiej strony:** po ręcznym wgraniu lub podmianie zdjęcia w R2 uruchomić
 `node scripts/warianty-obrazow.mjs --klucze <klucz>`; lista szerokości żyje
