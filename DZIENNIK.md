@@ -113,6 +113,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-08 08:30 · RADAR · Do zrobienia
+
+**faniklockow.pl · 07.10** — Opisali gratis progowy w Media Expert: 43018 Lionel Messi za zakupy od 2500 zł, promocja zamknęła się tego samego wieczoru.
+**Mamy?** — nie, i co gorsza nasze FAQ twierdziło nieprawdę: „gratisy GWP i punkty Insiders dotyczą tylko oficjalnego sklepu LEGO".
+**Zrobić:** — ZROBIONE w tym przebiegu: FAQ w `/kalendarz-promocji-lego/` poprawione i dołożona reguła o realnej wartości gratisu.
+**Kto:** — Code (dane, strona)
+
+Co dokładnie weszło do FAQ: punkty Insiders faktycznie są wyłącznie w sklepie LEGO,
+ale gratisy progowe potrafią zrobić i sklepy zewnętrzne — z datą i przykładem.
+Plus reguła, która wychodzi z naszych własnych danych: **wartość gratisu podaje się
+w cenie katalogowej, nie rynkowej.** 43018 ma w cenniku 779,99 zł, a 07.10 chodził
+od 398,97 (Ceneo), 414,98 (Allegro) i 449,99 w samym Media Expert — czyli realna
+korzyść z progu 2500 zł to około 400 zł, nie 780.
+
+**Obserwacja o metodzie,** bo zdarzyło się to drugi raz w tym tygodniu: publikacja
+konkurencji przydała się nie jako temat do napisania, ale jako **lista twierdzeń do
+sprawdzenia u siebie** (06.10 w ten sam sposób wyszło „piątej serii" w bloku BLDP).
+Warto czytać ich teksty również w ten sposób — zapisane też w `_meta` bazy.
+
+
 ## 2026-10-06 08:25 · RADAR · Do zrobienia
 
 **fanklockow.pl · 05.10** — Zapraszają na transmisję ze wspólnych zakupów przy starcie 9. serii BrickLink Designer Program, który wypada dziś.

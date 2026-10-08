@@ -13,7 +13,7 @@ faq:
   - q: "Kiedy jest Black Friday 2026?"
     a: "Black Friday wypada 27 listopada 2026, a Cyber Monday 30 listopada. Sklepy z LEGO zaczynają jednak kampanie wcześniej – pierwsze realne obniżki pojawiają się zwykle już w trzecim tygodniu listopada."
   - q: "Czy promocje LEGO.com łączą się z rabatami w innych sklepach?"
-    a: "Nie. Gratisy GWP i punkty Insiders dotyczą tylko oficjalnego sklepu LEGO. Sklepy zewnętrzne (Media Expert, Empik, al.to, Amazon, Allegro) konkurują ceną – często niższą niż katalogowa nawet poza promocjami LEGO.com. Dlatego zawsze liczymy, co się bardziej opłaca: gratis czy rabat."
+    a: "Nie łączą się, ale uwaga na uproszczenie: punkty Insiders to faktycznie wyłącznie sklep LEGO, natomiast gratisy progowe potrafią zrobić i sklepy zewnętrzne – 7 października 2026 Media Expert dawał 43018 Lionel Messi – cieszynka do zakupów od 2500 zł. Sklepy zewnętrzne (Media Expert, Empik, al.to, Amazon, Allegro) konkurują przede wszystkim ceną, często niższą niż katalogowa nawet poza promocjami LEGO.com. Licząc, co się bardziej opłaca, pamiętaj o jednym: wartość gratisu podaje się w cenie katalogowej, a nie w tej, za którą faktycznie chodzi on na rynku. Tamten Messi ma w cenniku 779,99 zł, ale w dniu promocji dało się go kupić od około 400 zł – i to ta druga kwota jest prawdziwą korzyścią z progu."
 ---
 
 Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z datami, progami kwotowymi i naszą oceną, czy warto czekać. **Kalendarz aktualizujemy przy każdej potwierdzonej zmianie** (datę widzisz nad tytułem).
