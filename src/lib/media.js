@@ -110,10 +110,10 @@ export function opisSetu(nr, { sety = {}, rok = null } = {}) {
 
 // ── Warianty skalowane (audyt PageSpeed 7.10.2026) ─────────────────────────
 //
-// Worker oddaje pod /img/<klucz>.jpg?w=<szerokość> obraz przeskalowany przez
-// Cloudflare Image Transformations w formacie AVIF/WebP/JPEG dobranym do
-// przeglądarki. Dozwolone szerokości to ta sama lista, co w src/worker.js —
-// inna wartość oddałaby oryginał. Adresy spoza /img/ (zewnętrzne) zostają bez
+// Worker oddaje pod /img/<klucz>.jpg?w=<szerokość> wariant WebP z R2
+// (`w/<klucz>/<szerokość>.webp`, generuje scripts/warianty-obrazow.mjs). Dozwolone
+// szerokości to ta sama lista, co w src/worker.js i w tym skrypcie — inna
+// wartość (albo brak wariantu w R2) oddałaby oryginał. Adresy spoza /img/ (zewnętrzne) zostają bez
 // zmian, bo nie przechodzą przez worker.
 export const SZEROKOSCI_OBRAZOW = [130, 260, 440, 600, 880, 1200];
 

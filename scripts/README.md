@@ -82,6 +82,8 @@ lub do ofert. Żaden nie chodzi sam.
 
 | Skrypt | Kto uruchamia | Do czego |
 |---|---|---|
+| `warianty-obrazow.mjs` | Sesja po zmianie listy szerokości albo po wgraniu zdjęć do R2 poza `r2-obrazy.mjs`; pełny przebieg 8.10.2026 | Generuje (sharp) warianty WebP `w/<klucz>/<szerokość>.webp` w R2 dla oryginałów bez kompletu — worker oddaje je pod `?w=`. `--klucze a,b` wskazane klucze, `--limit N`, `--glowne` bez galerii. Zastąpił Cloudflare Image Transformations (limit 5 000/mies.). Wymaga `CF_R2_TOKEN` |
+| `r2-s3.mjs` | biblioteka (import z `warianty-obrazow.mjs` i `r2-obrazy.mjs`) | Klient S3 dla kubełka R2 bez zależności (list/get/put, SigV4) — bez limitu 1 200 żądań/5 min, który ma REST API Cloudflare |
 | `r2-obrazy.mjs` | Routine „Zdjęcia → R2" codziennie 04:30 + sesja od razu po dopisaniu galerii do `galerie.json` | Wgrywa do R2 każde zdjęcie z danych, które nie ma jeszcze kopii (od 27.09.2026 wszystkie źródła, nie tylko Planeta Klocków, która odrzuca fetch z workera — decyzja Marka: wszystkie zdjęcia mają być u nas). Klucze także literowe i warianty (`ARENDELLE`, `4496-2`). Rejestrem wgranych jest sam kubełek (listowanie R2), więc bez zaległości przebieg trwa sekundy. Każdy plik przechodzi przez sharp (≤1200 px, JPEG q80) — `--optymalizuj` robi to samo z tym, co już leży w R2. `--limit N` = najwyżej N wgrań, `--sprawdz` = audyt HEAD produkcji (~15 min, widzi też martwe źródła), `--galerie` = tylko galerie. Wymaga `CF_R2_TOKEN`. Patrz RUNBOOK „Zdjęcia: Planeta Klocków odrzuca fetch z workera" |
 
 Budżet: 1000 kredytów miesięcznie. Szczegóły w `NARZEDZIA.md`.

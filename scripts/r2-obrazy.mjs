@@ -38,6 +38,8 @@
 
 import { readFileSync } from 'node:fs';
 import sharp from 'sharp';
+import { listujR2 } from './r2-s3.mjs';
+import { wariantyJednego } from './warianty-obrazow.mjs';
 
 const KUBELEK = 'tylkoklocki-obrazy';
 const PRODUKCJA = 'https://tylkoklocki.pl';
@@ -104,17 +106,16 @@ async function statusNaProdukcji(klucz) {
 const { CF_ACCOUNT_ID, CF_R2_TOKEN } = process.env;
 const zPlanety = (klucz) => /planetaklockow\.pl/.test(zrodlo(klucz) ?? '');
 
+// Od 8.10.2026 listowanie idzie przez interfejs S3 (scripts/r2-s3.mjs): kubełek ma
+// poza oryginałami ~70 tys. wariantów `w/<klucz>/<szerokość>.webp`, a REST API
+// Cloudflare liczy każdą stronę listy do limitu 1 200 żądań na 5 minut.
+// Zwracamy tylko oryginały (klucze bez prefiksu `w/` i `_`).
 async function kluczeWR2(zRozmiarem = false) {
+  const wszystko = await listujR2();
   const wR2 = zRozmiarem ? new Map() : new Set();
-  let cursor = '';
-  for (let strona = 0; strona < 100; strona++) {
-    const r = await fetch(`https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/r2/buckets/${KUBELEK}/objects?per_page=1000${cursor ? `&cursor=${encodeURIComponent(cursor)}` : ''}`,
-      { headers: { authorization: `Bearer ${CF_R2_TOKEN}` } });
-    const d = await r.json().catch(() => ({}));
-    if (!d.success) throw new Error(`listowanie R2 nie przeszło: ${JSON.stringify(d.errors ?? r.status).slice(0, 160)}`);
-    for (const o of d.result) zRozmiarem ? wR2.set(o.key, o.size) : wR2.add(o.key);
-    if (!d.result_info?.is_truncated) break;
-    cursor = d.result_info.cursor;
+  for (const [klucz, rozmiar] of wszystko) {
+    if (klucz.startsWith('w/') || klucz.startsWith('_')) continue;
+    zRozmiarem ? wR2.set(klucz, rozmiar) : wR2.add(klucz);
   }
   return wR2;
 }
@@ -243,6 +244,10 @@ async function wgraj({ klucz, status }) {
   });
   const wynik = await put.json().catch(() => ({}));
   if (!wynik.success) return `${klucz}: PUT do R2 nie przeszedł (${JSON.stringify(wynik.errors ?? put.status).slice(0, 120)})`;
+  // Od 8.10.2026 od razu komplet wariantów WebP (`w/<klucz>/<szerokość>.webp`),
+  // bo worker oddaje `?w=` tylko z R2 — bez tego nowe zdjęcie szłoby w oryginale.
+  const bladWariantow = await wariantyJednego(klucz, { dane, typ: typWgrania });
+  if (bladWariantow) return `${klucz}: oryginał wgrany, warianty nie (${bladWariantow})`;
   return null;
 }
 
