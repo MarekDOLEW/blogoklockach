@@ -21,8 +21,8 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Gratis halloweenowy</b> 40900 Straszne nawiedzone drzewo – próg sporny, 375 albo 430 zł</a></li>
-<li><span class="okna__data">21–30.09</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#halloween"><b>Drugi gratis w tym samym oknie</b> – 40772 Świecący duszek od 500 zł, wyłącznie z kodów partnerskich</a></li>
+<li><span class="okna__data">8.10 – ?</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; terminu końca nikt nie podał</a></li>
+<li><span class="okna__data">21–30.09</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#halloween"><b>Gratisy halloweenowe</b> 40900 Straszne nawiedzone drzewo i 40772 Świecący duszek – okno minęło 30.09</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
 <li><span class="okna__data">6.10, 17:00</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#bldp"><b>BrickLink Designer Program, seria 9</b> – pięć zestawów tylko na Bricklinku, poza LEGO.com i poza promocjami</a></li>
@@ -172,6 +172,24 @@ wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decy
 podejmujesz w oknie przedsprzedaży albo wcale.
 
 Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
+
+<h2 id="gratis-pazdziernik">Październik: gratis do wyboru na LEGO.pl od 8.10, próg 450 zł <span class="status status--maybe">przewidywane</span></h2>
+
+Od 8 października na LEGO.pl trwa promocja, w której przy zakupach **od 450 zł**
+dobierasz **jeden z dwóch gratisów**: 40772 Seria okolicznościowa: Świecący duszek
+albo 40760 BrickHeadz z Fortnite. Status mamy jako przewidywany z dwóch powodów:
+**LEGO nie ogłosiło tej promocji publicznie** (serwis branżowy nazywa ją „sekretną"),
+a **terminu końca nie podaje nikt**. Warunki widzieliśmy w jednym źródle, więc przed
+zapłatą sprawdź koszyk — to ta sama zasada, którą stosowaliśmy przy wrześniowym
+gratisie halloweenowym, gdzie dwa serwisy podawały dwie różne kwoty progu.
+
+**Policz, czy ten próg Ci się opłaca, bo oba gratisy można po prostu kupić.**
+Wartość gratisu zawsze podaje się w cenie katalogowej, a te dwa zestawy są wycofane
+i chodzą w dystrybucji zewnętrznej tanio: **40772 od 69,99 zł** (Allegro; Ceneo 71,99),
+**40760 od 129,43 zł** (Allegro; Empik 129,99). Jeśli więc kupujesz i tak powyżej
+450 zł — bierz, bo gratis nic nie kosztuje. Jeśli dokładasz do koszyka specjalnie
+pod próg, dokładasz ponad 450 zł, żeby dostać przedmiot wart kilkadziesiąt złotych.
+Ceny sprawdzisz w tabelach na podstronach [40772](/zestaw/40772/) i [40760](/zestaw/40760/).
 
 <h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--maybe">przewidywane</span></h3>
 

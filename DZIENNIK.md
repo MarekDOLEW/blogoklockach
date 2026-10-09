@@ -118,6 +118,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-09 08:35 · RADAR · Do zrobienia
+
+**fanklockow.pl · 08.10** — Na LEGO.pl trwa nieogłoszona publicznie promocja: przy zakupach od 450 zł gratis do wyboru, 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite.
+**Mamy?** — nie mieliśmy tego okna w kalendarzu.
+**Zrobić:** — ZROBIONE: nowa sekcja `/kalendarz-promocji-lego/#gratis-pazdziernik` ze statusem „przewidywane" plus wpis w liście „co trwa teraz".
+**Kto:** — Code (dane, strona)
+
+**tylkoklocki.pl (znalezione przy okazji)** — Lista „co trwa teraz" pokazywała wrześniowe gratisy halloweenowe jako „trwa", dziewięć dni po zamknięciu okna.
+**Mamy?** — tak, i to właśnie było błędem.
+**Zrobić:** — ZROBIONE: oba wpisy przestawione na „zamknięte".
+**Kto:** — Code (dane, strona)
+
+**Reguła na każdy kolejny przebieg Radaru:** listę „co trwa teraz" na górze
+kalendarza trzeba za każdym razem **sprawdzić pod kątem dat**, a nie tylko dopisywać
+do niej nowe okna. Strona, której całym zadaniem jest mówić, co trwa dzisiaj,
+kłamała w pierwszym bloku przez dziewięć dni i żaden przebieg tego nie zauważył,
+bo wszystkie patrzyły tylko na to, co nowego u konkurencji.
+
+Status nowego okna jest „przewidywane" świadomie: LEGO nie ogłosiło tej promocji
+(serwis branżowy nazywa ją „sekretną"), końca nie podaje nikt, a warunki mamy
+z jednego źródła. W sekcji jest arytmetyka z naszych danych — 40772 chodzi od
+69,99 zł (Allegro), 40760 od 129,43 zł — czyli próg 450 zł ma sens tylko dla kogoś,
+kto i tak kupuje powyżej tej kwoty. To ta sama reguła, którą wczoraj wpisałem
+do FAQ po gratisie w Media Expert.
+
+Druga rzecz do pilnowania: faniklockow założył aktualizowaną listę gratisów GwP
+na 2026 i jego październik zgadza się z naszym co do joty (13–19.10, 40909 od 745 zł).
+**To nie jest potwierdzenie** — oni też oznaczają te dane jako niepewne, więc mamy
+dwie prognozy, nie potwierdzenie od LEGO. Nasz status „przewidywane" zostaje.
+
+
 ## 2026-10-08 08:30 · RADAR · Do zrobienia
 
 **faniklockow.pl · 07.10** — Opisali gratis progowy w Media Expert: 43018 Lionel Messi za zakupy od 2500 zł, promocja zamknęła się tego samego wieczoru.

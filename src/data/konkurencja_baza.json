@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-08",
-    "przebieg": "scheduled 2026-10-08 08:00",
+    "ostatnia_aktualizacja": "2026-10-09",
+    "przebieg": "scheduled 2026-10-09 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 263,
+    "liczba_wpisow": 272,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -21,7 +21,8 @@
       "2026-10-05": "Spokojna niedziela u obu serwisow: po jednej publikacji z 04.10 i zadna nie kwalifikuje sie do piatki. Rzecz warta zapamietania na przyszle przebiegi: wczoraj zapisalem zapowiedz minifigurek z fanklockow jako 'material dla Scouta, brak drugiego zrodla', a dzis faniklockow opublikowal swoja liste CMF i BaM. To NIE domyka progu dowodowego - oba teksty same nazywaja te informacje plotkami i wskazuja to samo zrodlo zewnetrzne (twogayafols), czyli mamy jedno zrodlo powtorzone dwa razy, nie dwa niezalezne. Dwa polskie serwisy piszace o tym samym przecieku to nadal jeden przeciek.",
       "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia.",
       "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic.",
-      "2026-10-08": "Cztery wpisy, jedna pozycja do raportu - i wyszla z niej poprawka u nas, nie u nich. Gratis progowy w Media Expert (43018 do zakupow od 2500 zl) obnazyl falszywe zdanie w FAQ kalendarza o tym, ze gratisy GWP sa wylacznie w sklepie LEGO. Poprawione, razem z regula o wartosci gratisu liczonej w cenie katalogowej zamiast rynkowej - to drugi raz w tym tygodniu, gdy publikacja konkurencji posluzyla nie jako temat do napisania, ale jako test naszych wlasnych tresci (06.10 bylo 'piatej serii' w bloku BLDP). Warto to robic swiadomie: czytac ich teksty takze jako liste twierdzen do sprawdzenia u siebie."
+      "2026-10-08": "Cztery wpisy, jedna pozycja do raportu - i wyszla z niej poprawka u nas, nie u nich. Gratis progowy w Media Expert (43018 do zakupow od 2500 zl) obnazyl falszywe zdanie w FAQ kalendarza o tym, ze gratisy GWP sa wylacznie w sklepie LEGO. Poprawione, razem z regula o wartosci gratisu liczonej w cenie katalogowej zamiast rynkowej - to drugi raz w tym tygodniu, gdy publikacja konkurencji posluzyla nie jako temat do napisania, ale jako test naszych wlasnych tresci (06.10 bylo 'piatej serii' w bloku BLDP). Warto to robic swiadomie: czytac ich teksty takze jako liste twierdzen do sprawdzenia u siebie.",
+      "2026-10-09": "Dziewiec wpisow i pierwszy od dawna przebieg, w ktorym konkurencja dala nam realna tresc, a nie tylko test naszych twierdzen: zywe okno gratisowe na LEGO.pl od 08.10 (prog 450 zl, 40772 albo 40760) weszlo do kalendarza jako #gratis-pazdziernik. Druga rzecz znaleziona przy okazji i wazniejsza, niz wyglada: lista 'co trwa teraz' na gorze kalendarza wciaz trzymala wrzesniowe gratisy halloweenowe ze statusem 'trwa', nagiete dziewiec dni po zamknieciu okna. Strona, ktorej calym zadaniem jest mowic, co trwa DZISIAJ, klamala na samej gorze. Poprawione na 'zamkniete'. WNIOSEK NA KAZDY KOLEJNY PRZEBIEG: sprawdzac te liste pod kate daty, nie tylko dopisywac do niej nowe okna."
     }
   },
   "publikacje": [
@@ -3157,6 +3158,109 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Mgliste zapowiedzi serii Pokemon na 2027, u nich pod tagiem 'Niepotwierdzone' (aktualizacja z 8.10 o kolekcjonerskich mini-Pokemonach w marcu). Material dla Scouta."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Promocja LEGO.pl: Duszek albo BH z Fortnite od 8.10.26",
+      "url": "https://fanklockow.pl/promocja-lego-pl-duszek-albo-bh-z-fortnite-od-8-10-26",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Zywe okno gratisowe na LEGO.pl od 08.10: prog 450 zl, gratis do wyboru 40772 Swiecacy duszek albo 40760 BrickHeadz z Fortnite, bez podanego terminu konca, promocja nieogloszona publicznie ('sekretna'). Warunki wyciagnieta z ich karty przez Firecrawla. DOPISANE do kalendarza jako sekcja #gratis-pazdziernik ze statusem 'przewidywane' (jedno zrodlo, brak daty konca) plus wpis w liscie 'co trwa teraz'. Dolozylem arytmetyke z naszych danych: oba gratisy sa wycofane i chodza tanio - 40772 od 69,99 (Allegro), 40760 od 129,43 - wiec prog 450 zl oplaca sie tylko temu, kto i tak kupuje."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Jakie gratisy pojawią się w sklepach LEGO w 2026 roku? Oto aktualizowana lista promocji",
+      "url": "https://faniklockow.pl/2026/10/08/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Zalozyli aktualizowana liste gratisow GwP na 2026 - format konkurencyjny wobec naszego kalendarza. Ich pazdziernik zgadza sie z naszym co do joty: 13-19.10 podwojne punkty i 40909 Wlochy od 745 zl. UWAGA, zeby nikt tego nie podniosl na 'potwierdzone': oni tez oznaczaja te dane jako niepewne (znak '?' w ich legendzie), czyli mamy dwie prognozy, nie potwierdzenie od LEGO. Nasz status 'przewidywane' zostaje. Z ich listopada i grudnia: Insiders Weekend, Black Friday, 40889 Build Paint and Play jako GwP z konkursu Ideas bez daty, dwa gratisy swiateczne i gratis nieklockowy - do sprawdzania w kolejnych przebiegach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Oceniaj zestawy LEGO! Nowa funkcjonalność w naszej aplikacji",
+      "url": "https://faniklockow.pl/2026/10/08/oceniaj-zestawy-lego-nowa-funkcjonalnosc-w-naszej-aplikacji",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "W app.faniklockow doszly oceny zestawow lapka w gore/dol. Konkurencja narzedziowa, nie tresciowa - my nie mamy ani aplikacji, ani kont uzytkownikow i nie planujemy. Odnotowane, bo kierunek jest ten sam co u promoklocki: budowanie funkcji wokol katalogu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zbiorcze zapowiedzi zestawów LEGO® na 2027 r. Wszystko w jednym miejscu",
+      "url": "https://faniklockow.pl/2026/10/08/zbiorcze-zapowiedzi-zestawow-lego-na-2027-r-wszystko-w-jednym-miejscu",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Hub linkujacy wszystkie ich zapowiedzi na 2027 - 08.10 wypuscili naraz Marvel, LOTR, Harry Potter, Pokemon i zestawy okazjonalne. Ruch strukturalny pod SEO na rocznik 2027. Pojedyncze numery to material dla Scouta, nie dla Radaru."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® Marvel na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/08/zapowiedzi-serii-lego-marvel-na-2027-rok",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® Lord Of The Rings na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/08/zapowiedzi-serii-lego-lord-of-the-rings-na-2027-rok",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® Harry Potter na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/08/zapowiedzi-serii-lego-harry-potter-na-2027-rok",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® Pokemon® na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/08/zapowiedzi-serii-lego-pokemon-na-2027-rok",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi zestawów okazjonalnych/specjalnych na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/08/zapowiedzi-zestawow-okazjonalnych-specjalnych-na-2027-rok",
+      "data_publikacji": "2026-10-08",
+      "data_wykrycia": "2026-10-09",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
     }
   ],
   "obserwacje_strategiczne": {
