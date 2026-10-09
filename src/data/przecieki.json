@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-08"
+  "zaktualizowano": "2026-10-09"
  },
  "przecieki": [
   {
@@ -248,20 +248,29 @@
    "numer": "67006",
    "nazwa": "Marvel Skyline",
    "seria": "Marvel",
-   "elementy": 1260,
+   "elementy": 1261,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy i dane katalogowe",
+     "url": "https://brickset.com/sets/67006-1",
+     "data": "2026-10-09"
     }
    ],
    "dodano": "2026-09-15",
    "uwagi": null,
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-09",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, nazwa i termin zgodne. Brickset 2026-10-08 uzupełnił kartę: „The Marvel Skyline”, motyw Marvel, podseria Miscellaneous, 1261 elementów, 18+, launchDate 2027-01-01, zdjęcia (16 dodatkowych) i ceny detaliczne w US, UK, CA i DE (99,99 euro) z dateFirstAvailable 2026-10-09. StoneWars tego samego dnia opisał oficjalną prezentację. Jedyna różnica wobec przecieku to jeden element: źródło podawało 1260, katalog ma 1261. Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json."
+   }
   },
   {
    "id": "67005",
@@ -475,20 +484,29 @@
    "numer": "40909",
    "nazwa": "Restauracje świata: Włochy (nazwa niepotwierdzona)",
    "seria": "Ekskluzywne i promocyjne",
-   "elementy": null,
+   "elementy": 317,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-10",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Neuheiten im Oktober 2026”, sekcja „Gratisbeigaben im Oktober”",
      "url": "https://www.stonewars.de/news/lego-neuheiten-im-oktober-2026/",
      "data": "2026-09-28"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu uzupelniona o nazwe, elementy i dane katalogowe",
+     "url": "https://brickset.com/sets/40909-1",
+     "data": "2026-10-09"
     }
    ],
    "dodano": "2026-09-29",
    "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-09",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Nazwa, której StoneWars nie był pewny i podawał ze znakiem zapytania, okazała się trafiona co do słowa: katalog ma „Restaurants of the World: Italy”. Doszły dane: 317 elementów, wiek 12+, dziesięć zdjęć, podseria „Restaurants of the World”. Forma gratisu potwierdzona (availability „LEGO Gift with Purchase”). Termin: przeciek mówił o październiku 2026, StoneWars 08.10 podał okno 13–19 października 2026 i wartość 19,99 euro. Brickset ma launchDate 2027-10-13 — ten sam dzień i miesiąc, ale rok o jeden większy, przy polu `year` ustawionym na 2026; to wygląda na literówkę w roku po stronie katalogu, nie na inny termin. Przyjmujemy październik 2026. Zestaw dołożony do sety.json jako gratis bez ceny katalogowej."
+   }
   },
   {
    "id": "71875",

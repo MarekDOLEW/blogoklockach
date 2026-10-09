@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-10-08",
+  "data_aktualizacji": "2026-10-09",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1183,
+  "liczba_setow": 1185,
   "sety": [
     "10280",
     "10281",
@@ -1185,7 +1185,9 @@
     "71875",
     "67008",
     "67009",
-    "67012"
+    "67012",
+    "67006",
+    "40909"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -1696,6 +1698,42 @@
       "nazwa": "Wladca Pierscieni: Helmowy Jar (wg przecieku)",
       "status": "Brickset: pusty rekord Icons rocznika 2027 z launchDate 2027-06-01. StoneWars 07.10 podal, czym to jest: Helmowy Jar, 8060 elementow, 18+, start 1.06.2027. Przeniesiony do przecieki.json z pewnoscia 'srednia' — data z katalogu zgadza sie z data ze zrodla co do dnia.",
       "premiera": "2027-06"
+    },
+    {
+      "numer": "11393",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11402",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11414",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11415",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11416",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
+    },
+    {
+      "numer": "11417",
+      "nazwa": "Icons — rezerwacja 2027",
+      "status": "Brickset 2026-10-08: pusty rekord, kategoria '{t.b.a.}', bez nazwy, elementow, ceny i daty.",
+      "premiera": "2027"
     }
   ],
   "luki_w_bazie": {
@@ -6339,5 +6377,13 @@
     "wada_glowek_zamknieta": "Sprawa zbielenia i peknien glow minifigurek przestala byc otwarta: LEGO wydalo oswiadczenie. Szczegoly i numery czesci w sekcji do_obserwacji_jakosc_produkcji; ostrzezenia dopisane do 71053 i 11386.",
     "odsiane": "Dwadziescia jeden rekordow, wszystkie odsiane: osiem historycznych polybagow i promo z lat 2012-2018, 30762 Retro Video Game Batman (5 elementow, availability 'Promotional', rocznik 2026 — gratis, nie detal), 6644886 Ghost Street (kategoria 'Other'), piec rekordow L0002xxx z availability 'Magazine gift', trzy torby Herschel i naklejki Insiders (Gear/merch), HPCALENDAR (Gear), 30320 Gallimimus Trap (2015).",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=07.10). StoneWars — strona glowna plus dwa artykuly (Helmowy Jar, odpowiedz LEGO w sprawie glow). PromoBricks — strona glowna. Razem 5 pobran."
+  },
+  "przeglad_2026_10_09": {
+    "nowosci": "Dwa zestawy. 67006 Panorama Marvela (Marvel/Miscellaneous, 1261 el., 18+, 99,99 EUR, start 2027-01-01) — karty LEGO ruszyly 09.10 na czterech rynkach, StoneWars opisal oficjalna prezentacje. 40909 Restauracje swiata: Wlochy (317 el., 12+, gratis do zakupow w oknie 13-19.10.2026, wartosc 19,99 EUR) — dolozony z polem bez_rrp. Oba bez polskiej ceny katalogowej.",
+    "przecieki_rozstrzygniete": "67006 i 40909 -> potwierdzone, obie pewnosci podniesione do 'wysoka'. Przy 67006 jedyna roznica to JEDEN element: przeciek podawal 1260, katalog ma 1261. Przy 40909 nazwa, ktorej StoneWars nie byl pewny i podawal ze znakiem zapytania, okazala sie trafiona co do slowa.",
+    "literowka_w_katalogu": "Brickset ma dla 40909 launchDate 2027-10-13 przy polu year ustawionym na 2026, a StoneWars podaje okno 13-19 pazdziernika 2026 — ten sam dzien i miesiac, rok o jeden wiekszy. Przyjmuje, ze to literowka w roku po stronie katalogu, i wpisuje premiere 2026-10; zapisane tak samo w opisie zestawu i w rozstrzygnieciu przecieku, zeby bylo widac, skad decyzja.",
+    "nowe_rezerwacje": "Szesc nowych pustych rekordow Icons rocznika 2027: 11393, 11402, 11414, 11415, 11416, 11417. Blok Icons na 2027 zapelnia sie szybko — oprocz nich mamy tam Wenecje (11388), Olifanta (11395), Helmowy Jar (11399), rezerwacje z konkretna data 11399/11402 oraz juz opisany Dragon Ball (11390).",
+    "odsiane": "Dwadziescia osiem rekordow: osiemnascie pozycji merchu Herschel (plecaki, torby, lunchboxy — motyw '{Undefined}' albo Gear), piec buildow promocyjnych (5011164 Fig Beetle Garden z availability 'Insiders Reward', 6644886 Ghost Street, 6644894 Reindeer, 6644896 Magenta Flower Candle, 6695501 Giftbox) oraz trzy rekordy L0002xxx z availability 'Magazine gift'.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=08.10). StoneWars — strona glowna plus artykul o 40909. PromoBricks — strona glowna; sprawdzone w tresci, ze nie pisze ani o Panoramie Marvela, ani o wloskiej pizzerii. Razem 4 pobrania."
   }
 }
