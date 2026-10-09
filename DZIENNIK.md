@@ -118,6 +118,33 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-09 09:05 · CODE · Skutek CRO po 14 dniach (kliki-raport, Routine z 25.09)
+
+Ruch ludzki z Analytics Engine (`blob6 = human`, bez bota z refererem `/zestaw/x/`),
+źródło kliknięcia = referer (`blob4`). Okna: 11–25.09 (przed) i 25.09–9.10 (po,
+CRO na produkcji od 25.09, commit 4153c05).
+
+| | przed 11–25.09 | po 25.09–9.10 |
+|---|---:|---:|
+| łącznie | 139 | 95 |
+| huby `/zestaw/` | 105 (76%) | 62 (65%) |
+| prezentowniki | 0 | 4 (wszystkie z `/prezentowniki/lego-technic/`) |
+| posty dealowe | 3 | 1 |
+| strona główna | 8 | 10 |
+| artykuły | 7 | 8 (6 z recenzji 60508) |
+| /promocje-lego/ + /deale/ | 2 | 5 |
+| bez referera | 14 | 2 |
+
+**Spadek 139 → 95 nie jest skutkiem CRO.** Okno „przed” zawiera skok 14–16.09
+(87 kliknięć w trzy dni, m.in. 14 bez referera i 10 na 76354). Bez niego „przed”
+to ok. 6 kliknięć dziennie, „po” ok. 6,8 (bez skoku 27.09: ~5). Czyli poziom
+płaski, a zmienił się rozkład: pierwsze kliknięcia z prezentowników (cel C),
+więcej z głównej i /promocje-lego/, mniejszy udział hubów. Allegro nie zniknęło —
+6098 ofert w feedzie z datą 08.10, najtańsze w 4515 zestawach, 28 kliknięć w oknie
+„po” — więc nie jest czynnikiem. Liczby odsłon (mianownika konwersji) nie
+sprawdzałem; bez niego nie da się powiedzieć, czy CTR hubów wzrósł.
+**Dla drugiej strony:** nic.
+
 ## 2026-10-09 08:35 · RADAR · Do zrobienia
 
 **fanklockow.pl · 08.10** — Na LEGO.pl trwa nieogłoszona publicznie promocja: przy zakupach od 450 zł gratis do wyboru, 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite.
@@ -721,6 +748,9 @@ się w poniedziałek Routine „Harmonogram z konta".
   → zamknięte 25.09: Marek — raz w tygodniu.
 - Ok. 9.10: `node scripts/kliki-raport.mjs --dni 14` — skutek CRO.
   → 25.09: zaplanowane `send_later` na 9.10 09:00 PL (`trig_01MCXZFZBymmddVXBNiWk6x1`).
+  → zamknięte 9.10: 95 kliknięć w 14 dni po CRO wobec 139 przed, ale bez skoku
+    14–16.09 (87 kliknięć) średnia dzienna stoi w miejscu (~6/dzień); prezentowniki
+    0 → 4, udział hubów 76% → 65% — patrz wpis 2026-10-09 09:05.
 
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
