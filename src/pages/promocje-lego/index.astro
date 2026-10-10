@@ -11,7 +11,7 @@ import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
 import { wpisKatalogu } from '../../lib/katalog.js';
-import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty, kodRabatowy, dataKodu } from '../../lib/oferty.js';
 import { przydzielOferty, rabatOferty, najtanszaOferta, limitAllegro } from '../../lib/deale.js';
 
 // krótki opis do listingu: pierwsze zdanie (albo dwa, gdy pierwsze bardzo krótkie), maks. ~170 znaków
@@ -178,6 +178,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                     <span class="cena">{fmtCena(oferta.cena)}</span>
                     <span class="badge-rabat-mini">−{rabatOferty(s, oferta)}%</span>
                     <span class="promo-slajd__kat">katalogowo {fmtCena(s.cena_katalogowa)}</span>
+                    {kodRabatowy(oferta.sklep, s.nr, oferta.cena) && <span class="kod-rabatowy">z kodem <strong>{kodRabatowy(oferta.sklep, s.nr, oferta.cena).kod}</strong> do {dataKodu(kodRabatowy(oferta.sklep, s.nr, oferta.cena).do)}</span>}
                   </span>
                   {aff
                     ? <a class="cta promo-cta" href={aff} target="_blank" rel={relLinku(oferta.sklep, s.nr)}>Sprawdź w {nazwaSklepu(oferta.sklep)} →</a>
@@ -256,6 +257,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                 <td class="kol-cena">
                   <span class="promo-cena-gora"><span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span> <span class="badge-rabat-mini">−{r}%</span></span>
                   <span class="set-cena">{fmtCena(oferta.cena)}</span>
+                  {kodRabatowy(oferta.sklep, s.nr, oferta.cena) && <span class="kod-rabatowy">z kodem <strong>{kodRabatowy(oferta.sklep, s.nr, oferta.cena).kod}</strong> do {dataKodu(kodRabatowy(oferta.sklep, s.nr, oferta.cena).do)}</span>}
                   {!aff && <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>}
                 </td>
                 <td class="kol-cta">

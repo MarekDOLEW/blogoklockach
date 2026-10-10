@@ -371,6 +371,16 @@ postawiliśmy w tym repo tezę o „zdublowanym `g:price`", która była niepraw
 
 ---
 
+### Kody rabatowe Media Expertu *(10.10.2026)*
+
+Feed ME podaje cenę **po kodzie**, a karta produktu w sklepie – cenę **przed kodem**
+(10.10: 64 z 64 pozycji akcji ME0110-311026; 76354 u nas 999 zł, w sklepie 1123,27 zł).
+`node scripts/me-kody.mjs` (3 kredyty Firecrawla) zapisuje kody z listingu „cena z kodem”
+do `src/data/kody_rabatowe.json`; tabela cen, pasek ceny, /promocje-lego/ i strona główna
+dopisują wtedy „z kodem … do …” przy cenie równej cenie z kodem (±1 zł). Po dacie końca
+wpis jest ignorowany. Uruchamiać, gdy ME ogłosi nową akcję z kodem (mail od opiekuna
+programu albo nowe kody na stronie) – runner tego jeszcze nie robi.
+
 ## Typowanie deali *(ustalone 18.08.2026, limit Allegro 05.09.2026, zaostrzony 13.09.2026)*
 
 Deale dnia typujemy w **trzech półkach cenowych**: do 200 zł, 201–800 zł,

@@ -15,6 +15,7 @@ import rrpPotwierdzone from '../data/rrp_potwierdzone.json';
 import legoBezStrony from '../data/lego_strony_brak.json';
 import setyDane from '../data/sety.json';
 import dealePotwierdzone from '../data/deale_potwierdzone.json';
+import kodyRabatowe from '../data/kody_rabatowe.json';
 
 // ── Które oferty w ogóle pokazujemy (audyt 16.09.2026) ─────────────────────
 //
@@ -254,6 +255,24 @@ export function jakikolwiekLink(nr) {
 }
 
 export const nazwaSklepu = (sklep) => sklepyMapa?.[sklep]?.nazwa ?? sklep;
+
+/**
+ * Aktywny kod rabatowy, który sklep wlicza już w cenę z feedu (src/data/kody_rabatowe.json).
+ * Zwraca { kod, do } tylko wtedy, gdy pokazywana cena to właśnie cena z kodem (±1 zł) –
+ * gdy feed się zmieni albo akcja minie, podpowiedź znika sama. Bez tego czytelnik widzi
+ * u nas 999 zł, a w sklepie 1177,90 zł i nie wie, skąd różnica.
+ */
+export function kodRabatowy(sklep, nr, cena) {
+  const dzis = new Date().toISOString().slice(0, 10);
+  for (const k of kodyRabatowe[sklep] ?? []) {
+    if (k.do < dzis) continue;
+    const zKodem = k.zestawy?.[String(nr)];
+    if (zKodem != null && (cena == null || Math.abs(Number(cena) - zKodem) <= 1)) return { kod: k.kod, do: k.do };
+  }
+  return null;
+}
+/** „2026-10-31" -> „31.10" */
+export const dataKodu = (iso) => iso.slice(8, 10) + '.' + iso.slice(5, 7);
 
 export const fmtCena = (c) =>
   Number(c).toLocaleString('pl-PL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' zł';

@@ -1609,3 +1609,12 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 /* „Podobne zestawy” na karcie zestawu: kwadrat jak w listingu, wysokość z szerokości
    (atrybut height=225 na <img> robił z wąskiej kolumny pionowy prostokąt) */
 .set-karta--mini .miniatura { aspect-ratio: 1 / 1; height: auto; }
+/* kod rabatowy przy cenie, która go wymaga (src/data/kody_rabatowe.json, Marek 10.10) */
+.kod-rabatowy { display: inline-block; font-size: 0.78rem; line-height: 1.3; color: var(--granat); background: #fff8e1; border: 1px dashed var(--zolty); border-radius: 4px; padding: 1px 6px; }
+.kod-rabatowy strong, .pasek-ceny__cena .kod-rabatowy strong { font-family: inherit; font-size: 1em; letter-spacing: 0.02em; }
+.kc-kod { color: var(--granat); }
+.tabela-promocje .kol-cena .kod-rabatowy { flex-basis: 100%; width: max-content; order: 4; }
+.deal-dnia .kod-rabatowy { justify-self: start; margin-top: -8px; }
+@media (max-width: 760px) { .deal-dnia .kod-rabatowy { justify-self: center; } }
+/* długie przyciski w tekstach („Lotniskowiec w Media Expert: 999 zł z kodem →") nie mogą rozpychać strony na telefonie */
+@media (max-width: 600px) { .przycisk { white-space: normal; max-width: 100%; text-align: center; } }

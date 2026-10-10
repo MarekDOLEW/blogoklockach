@@ -11,7 +11,7 @@ import { zajawkaArtykulu, zajawkaZMeta, sortujPostyDealowe, najnowszePierwsze } 
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import KartaAktualnosci from '../components/KartaAktualnosci.astro';
 import { aktualnosci, jestAktualnoscia } from '../lib/aktualnosci.js';
-import { linkAfiliacyjny, fmtCena, fmtElementy, odmien, nazwaSklepu, relLinku as relSklepu, filtrujOferty } from '../lib/oferty.js';
+import { linkAfiliacyjny, fmtCena, fmtElementy, odmien, nazwaSklepu, relLinku as relSklepu, filtrujOferty, kodRabatowy, dataKodu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
 
@@ -329,6 +329,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   {fmtCena(oferta.cena)}
                   <small>{fmtCena(deal.cena_katalogowa)}</small>
                 </div>
+                {kodRabatowy(oferta.sklep, deal.nr, oferta.cena) && <span class="kod-rabatowy">z kodem <strong>{kodRabatowy(oferta.sklep, deal.nr, oferta.cena).kod}</strong> do {dataKodu(kodRabatowy(oferta.sklep, deal.nr, oferta.cena).do)}</span>}
                 <div class="deal-badges">
                   <span class="badge-rabat">−{rabatOferty(deal, oferta)}% od ceny katalogowej</span>
                   {noweMinimumDzis(deal) && oferta.cena === najlepszaCena(deal) && (
@@ -415,6 +416,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
                   <td class="kol-cena">
                     <span class="promo-cena-gora"><span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(s.cena_katalogowa)}</span> <span class="badge-rabat-mini">−{rabat(s)}%</span></span>
                     <span class="set-cena">{fmtCena(oferta.cena)}</span>
+                    {kodRabatowy(oferta.sklep, s.nr, oferta.cena) && <span class="kod-rabatowy">z kodem <strong>{kodRabatowy(oferta.sklep, s.nr, oferta.cena).kod}</strong> do {dataKodu(kodRabatowy(oferta.sklep, s.nr, oferta.cena).do)}</span>}
                     {!aff && <span class="set-sklep">{nazwaSklepu(oferta.sklep)}</span>}
                   </td>
                   <td class="kol-cta">

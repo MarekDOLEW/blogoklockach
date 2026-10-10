@@ -32,25 +32,25 @@ Co jest w tej akcji nietypowe: przycisk „Sprawdź w x-kom" otworzy kartę prod
 
 **LEGO Technic 42182 NASA Apollo – pojazd LRV — 499 zł.** Katalogowo **949,99 zł**, czyli **−47%**. Dotąd najniżej widzieliśmy 549,99 zł na Allegro na początku września, dziś rynek stoi przy 550 zł. W sklepie LEGO tego zestawu już nie ma, więc zapasy w zwykłych sklepach będą się tylko kurczyć. 1913 elementów, łazik księżycowy z programu Apollo, z zawieszeniem i skrętnymi kołami. Najmocniejsza pozycja akcji.
 
-<a class="przycisk" href="/idz/xkom/42182" rel="sponsored nofollow">NASA Apollo w x-kom (cena w aplikacji): 499 zł →</a>
+<a class="przycisk" href="/idz/xkom/42182" rel="sponsored nofollow">NASA Apollo w aplikacji x-kom: 499 zł →</a>
 
 <div class="ceny-setu" data-set="42182"></div>
 
 **LEGO Marvel 76354 Lotniskowiec T.A.R.C.Z.Y. — 969 zł.** Katalogowo **1599,99 zł** (**−39%**). Tegoroczna premiera, 3057 elementów; najtańsza oferta, jaką znamy, to 999 zł w Media Expert – ta sama, którą dziś pokazujemy w Promocjach. Trzydzieści złotych różnicy to niewiele, ale przy zestawie z czerwca każda cena poniżej tysiąca jest wyjątkiem.
 
-<a class="przycisk" href="/idz/xkom/76354" rel="sponsored nofollow">Lotniskowiec w x-kom (cena w aplikacji): 969 zł →</a>
+<a class="przycisk" href="/idz/xkom/76354" rel="sponsored nofollow">Lotniskowiec w aplikacji x-kom: 969 zł →</a>
 
 <div class="ceny-setu" data-set="76354"></div>
 
 **LEGO Technic 42215 Koparka Volvo EC500 Hybrid — 1149 zł.** Katalogowo **1699,99 zł** (**−32%**). Nasze minimum to 1218 zł, dziś sklepy chcą od 1275 do 1310 zł. 2359 elementów, flagowa maszyna budowlana Technic z ramieniem i obrotnicą. Według zapowiedzi zniknie z oferty LEGO w grudniu 2026.
 
-<a class="przycisk" href="/idz/xkom/42215" rel="sponsored nofollow">Koparka Volvo w x-kom (cena w aplikacji): 1149 zł →</a>
+<a class="przycisk" href="/idz/xkom/42215" rel="sponsored nofollow">Koparka Volvo w aplikacji x-kom: 1149 zł →</a>
 
 <div class="ceny-setu" data-set="42215"></div>
 
 **LEGO Ideas 21356 Parowiec rzeczny — 999 zł.** Katalogowo **1399,99 zł** (**−29%**). Rekord przed akcją to 1046,39 zł na Allegro i to także dzisiejsza najniższa cena. 4090 elementów – najwięcej w historii linii Ideas. Zestaw sprzedaje głównie LEGO, zwykłe sklepy rzadko go przeceniają, a wycofanie przewidywane jest na grudzień 2026.
 
-<a class="przycisk" href="/idz/xkom/21356" rel="sponsored nofollow">Parowiec rzeczny w x-kom (cena w aplikacji): 999 zł →</a>
+<a class="przycisk" href="/idz/xkom/21356" rel="sponsored nofollow">Parowiec rzeczny w aplikacji x-kom: 999 zł →</a>
 
 <div class="ceny-setu" data-set="21356"></div>
 

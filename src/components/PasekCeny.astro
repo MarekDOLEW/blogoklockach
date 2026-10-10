@@ -8,7 +8,7 @@
 // (zabiera miejsce przy czytaniu) – nie dopisywać bez nowej decyzji.
 // Dobór sklepu wyłącznie po cenie (najtańsza oferta bez Ceneo) – afiliacja nie
 // wpływa na wybór, tak jak w tabeli.
-import { fmtCena, nazwaSklepu, relLinku, linkAfiliacyjny } from '../lib/oferty.js';
+import { fmtCena, nazwaSklepu, relLinku, linkAfiliacyjny, kodRabatowy, dataKodu } from '../lib/oferty.js';
 const { nr, oferty = [], cenaKatalogowa = null, wariant = 'gora', kotwica = '#ceny' } = Astro.props;
 const z = oferty.filter((o) => o.sklep !== 'ceneo' && o.cena > 0 && linkAfiliacyjny(o.sklep, nr));
 const najlepsza = z.length ? z.reduce((a, b) => (b.cena < a.cena ? b : a)) : null;
@@ -21,6 +21,7 @@ const rabat = najlepsza && cenaKatalogowa ? Math.round((1 - najlepsza.cena / cen
       {wariant === 'dol' ? 'Najtaniej dziś: ' : 'od '}<strong>{fmtCena(najlepsza.cena)}</strong>
       {` w ${liczba} ${liczba === 1 ? 'sklepie' : 'sklepach'}`}
       {rabat >= 3 && <span class="pasek-ceny__rabat">−{rabat}%</span>}
+      {kodRabatowy(najlepsza.sklep, nr, najlepsza.cena) && <> <span class="kod-rabatowy">z kodem <strong>{kodRabatowy(najlepsza.sklep, nr, najlepsza.cena).kod}</strong> do {dataKodu(kodRabatowy(najlepsza.sklep, nr, najlepsza.cena).do)}</span></>}
     </span>
     <a class="cta" href={`/idz/${najlepsza.sklep}/${nr}`} target="_blank" rel={relLinku(najlepsza.sklep, nr)} aria-label={`Przejdź do sklepu ${nazwaSklepu(najlepsza.sklep)}`}>{nazwaSklepu(najlepsza.sklep)} →</a>
     <a class="pasek-ceny__wszystkie" href={kotwica}>wszystkie ceny {wariant === 'dol' ? '↑' : '↓'}</a>
