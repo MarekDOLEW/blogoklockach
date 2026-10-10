@@ -1506,6 +1506,7 @@ jako 40722, za fanklockow. 18.09 faniklockow podał ten sam gratis jako 40772
 i nasz własny katalog to potwierdził — 40772 „Seria okolicznościowa: Świecący
 duszek" (Creator, 2025). Poprawione. Wniosek na przyszłość: numer zestawu
 z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
+→ zamknięte 10.10: już jest — `/kalendarz-promocji-lego/` ma osobną sekcję „Wydarzenia w salonach LEGO” (`#wydarzenia`), oddzieloną od promocji cenowych (Marek).
 
 ## 2026-09-17 08:00 · RADAR · Do zrobienia
 
@@ -1513,6 +1514,7 @@ z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
 **Mamy?** — nie: `/serie/<seria>/` z wyszukiwarką owszem, stron „największe / najdroższe zestawy serii" nie ma.
 **Zrobić:** — decyzja, czy budujemy siatkę „Największe zestawy LEGO <seria>" generowaną z katalogu (liczba elementów przy 9211 z 9359 pozycji, 98%).
 **Kto:** — Marek (decyzja)
+→ zamknięte 10.10: mamy rankingi Piotra „Największe zestawy LEGO Technic” i „…Star Wars” (22.09); siatki generowanej dla pozostałych serii nie budujemy (Marek).
 
 ## 2026-09-16 08:00 · RADAR · Do zrobienia
 
