@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-09",
-    "przebieg": "scheduled 2026-10-09 08:00",
+    "ostatnia_aktualizacja": "2026-10-10",
+    "przebieg": "scheduled 2026-10-10 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 272,
+    "liczba_wpisow": 275,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -22,7 +22,8 @@
       "2026-10-06": "Najobfitszy dzien od tygodnia: dziewiec nowych wpisow, w tym siedem publikacji z 05.10. Dwie rzeczy licza sie realnie. (1) Start 9. serii BLDP wypada DZIS - przy tej okazji znalazlem wlasny blad w kalendarzu: naglowek 'seria 9' i zdanie 'piatej serii' w tym samym bloku; poprawione. ICH godzina 16:15 to transmisja live, nie start sprzedazy, wiec naszego 17:00 nie ruszam. (2) Licencja Sanrio/Hello Kitty to oficjalne ogloszenie obu firm, opisane niezaleznie przez oba serwisy - inaczej niz wczorajsze plotki o CMF. Nasz dzial licencji konczy sie na Nike i F1, wiec Sanrio jest luka redakcyjna, choc bez wplywu na sezon XI-XII (produkty w 2027). Zapowiedzi DC 2027 przeszedl juz Scout tego samego dnia.",
       "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic.",
       "2026-10-08": "Cztery wpisy, jedna pozycja do raportu - i wyszla z niej poprawka u nas, nie u nich. Gratis progowy w Media Expert (43018 do zakupow od 2500 zl) obnazyl falszywe zdanie w FAQ kalendarza o tym, ze gratisy GWP sa wylacznie w sklepie LEGO. Poprawione, razem z regula o wartosci gratisu liczonej w cenie katalogowej zamiast rynkowej - to drugi raz w tym tygodniu, gdy publikacja konkurencji posluzyla nie jako temat do napisania, ale jako test naszych wlasnych tresci (06.10 bylo 'piatej serii' w bloku BLDP). Warto to robic swiadomie: czytac ich teksty takze jako liste twierdzen do sprawdzenia u siebie.",
-      "2026-10-09": "Dziewiec wpisow i pierwszy od dawna przebieg, w ktorym konkurencja dala nam realna tresc, a nie tylko test naszych twierdzen: zywe okno gratisowe na LEGO.pl od 08.10 (prog 450 zl, 40772 albo 40760) weszlo do kalendarza jako #gratis-pazdziernik. Druga rzecz znaleziona przy okazji i wazniejsza, niz wyglada: lista 'co trwa teraz' na gorze kalendarza wciaz trzymala wrzesniowe gratisy halloweenowe ze statusem 'trwa', nagiete dziewiec dni po zamknieciu okna. Strona, ktorej calym zadaniem jest mowic, co trwa DZISIAJ, klamala na samej gorze. Poprawione na 'zamkniete'. WNIOSEK NA KAZDY KOLEJNY PRZEBIEG: sprawdzac te liste pod kate daty, nie tylko dopisywac do niej nowe okna."
+      "2026-10-09": "Dziewiec wpisow i pierwszy od dawna przebieg, w ktorym konkurencja dala nam realna tresc, a nie tylko test naszych twierdzen: zywe okno gratisowe na LEGO.pl od 08.10 (prog 450 zl, 40772 albo 40760) weszlo do kalendarza jako #gratis-pazdziernik. Druga rzecz znaleziona przy okazji i wazniejsza, niz wyglada: lista 'co trwa teraz' na gorze kalendarza wciaz trzymala wrzesniowe gratisy halloweenowe ze statusem 'trwa', nagiete dziewiec dni po zamknieciu okna. Strona, ktorej calym zadaniem jest mowic, co trwa DZISIAJ, klamala na samej gorze. Poprawione na 'zamkniete'. WNIOSEK NA KAZDY KOLEJNY PRZEBIEG: sprawdzac te liste pod kate daty, nie tylko dopisywac do niej nowe okna.",
+      "2026-10-10": "Trzy wpisy, jedna pozycja - i pierwszy raz od dawna taka, ktorej sam nie zamkne. Proshop ma najtansze oferty na dwa wycofywane zestawy Star Wars (75397 za 1639, 75382 za 769), a my nie pokazujemy ani tych cen, ani linku, bo zgloszenie afiliacyjne przez Awin wisi ze statusem 'wyslane' od 19.08.2026. Siedem tygodni przed Black Friday to zly moment, zeby nie miec dostepu do sklepu, ktory bije nasza najtansza oferte o 60 zl na jednym zestawie i o 60 na drugim. To pozycja dla Marka, nie dla mnie: recznie wpisanych cen Proshopu nie dodaje, bo bez feedu nie ma czym ich odswiezac. Rozniaca sie od sprawy Amazona tym, ze tam decyzja byla zamknieta ('wracac przy realnej sprzedazy'), a tu status to 'wyslane', czyli czekamy na odpowiedz i mozna ja ponaglic."
     }
   },
   "publikacje": [
@@ -3261,6 +3262,41 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Czesc ich paczki zapowiedzi na 2027 z 08.10 (patrz wpis zbiorczy). Material dla Scouta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "A jednak EOL-e! Dwa sztosy planowane do wycofania w dobrych cenach!",
+      "url": "https://faniklockow.pl/2026/10/09/okazja-dwa-wycofywane-zestawy-w-dobrych-cenach",
+      "data_publikacji": "2026-10-09",
+      "data_wykrycia": "2026-10-10",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "proshop"
+      ],
+      "notatki": "Proshop ma 75397 Barka Jabby za 1639 zl (katalog 2149,99) i 75382 Tie Interceptor za 769 zl (katalog 999,99), plus ok. 20 zl wysylki. OBIE KWOTY SA NIZSZE OD CZEGOKOLWIEK, CO POKAZUJEMY: u nas najtaniej 75397 to Ceneo 1699, a 75382 to Ceneo/Allegro 829. Oba zestawy mamy w wycofania.json, wiec problemem nie jest lista wycofan, tylko brak cen Proshopu - zgloszenie afiliacyjne do nich przez Awin ma status 'wyslane' od 19.08.2026, czyli siedzi siedem tygodni, a feed Awin (Create-a-Feed, co godzine) czeka na akceptacje. Cen Proshopu NIE dopisuje recznie: bez feedu nie mamy czym ich odswiezac, a reczna kwota zestarzeje sie w tydzien. Ich twierdzenia o statusie EOL nie przepisujemy - sami pisza, ze LEGO nie wymienia tych zestawow w 'ostatnich sztukach', a oni wnioskuja z wlasnych zrodel."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Planowane wycofania LEGO® (EOL) na 07.2027 – kompletna lista",
+      "url": "https://fanklockow.pl/wycofania-lego-eol-07-2027-aktualizowana-lista",
+      "data_publikacji": "2026-10-09",
+      "data_wykrycia": "2026-10-10",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Aktualizowana lista wycofan na lipiec 2027. Horyzont rok w przod, wiec bez wplywu na sezon XI-XII; material dla runnera Wycofan, ktory i tak weryfikuje kazdy sygnal u zrodla, a status 'przewidywane' daje tylko przy dwoch niezaleznych zrodlach."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Ma kolekcję wartą miliony! Rozmowa o pasji do kolekcjonowania unikatów",
+      "url": "https://faniklockow.pl/2026/10/09/ma-kolekcje-warta-miliony-rozmowa-o-pasji-do-kolekcjonowania-unikatow-poznajcie-samuela",
+      "data_publikacji": "2026-10-09",
+      "data_wykrycia": "2026-10-10",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Wywiad wideo z kolekcjonerem rzadkich minifigurek ze Skaerbaek Fan Weekend - format osobisty, ktorego nie prowadzimy."
     }
   ],
   "obserwacje_strategiczne": {

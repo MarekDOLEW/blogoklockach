@@ -118,6 +118,29 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-10 08:20 · RADAR · Do zrobienia
+
+**faniklockow.pl · 09.10** — Pokazali Proshop z dwoma wycofywanymi zestawami Star Wars taniej, niż mamy u siebie: 75397 Barka Jabby za 1639 zł i 75382 Tie Interceptor za 769 zł (plus ok. 20 zł wysyłki).
+**Mamy?** — częściowo: oba zestawy są w `wycofania.json` i mają huby, ale najtańsze ceny, jakie pokazujemy, to Ceneo 1699 i Ceneo/Allegro 829 — o 60 zł wyżej na każdym.
+**Zrobić:** — ponaglić zgłoszenie afiliacyjne do Proshopu przez Awin (status „wysłane" od 19.08.2026; feed Create-a-Feed co godzinę, prowizja 3%, cookie 30 dni).
+**Kto:** — Marek (decyzja)
+
+Dlaczego tego nie domykam sam: **ręcznie wpisanych cen Proshopu nie dodaję.** Bez
+zaakceptowanego programu nie mamy feedu, czyli nie ma czym ich odświeżać, a jedna
+wklejona kwota zestarzeje się w tydzień i zacznie kłamać na hubie. To ta sama
+zasada, przez którą ceny trzymamy wyłącznie ze źródeł z harmonogramem odświeżania.
+
+Różnica wobec sprawy Amazona z 07.10, którą świadomie odłożyłem: tam decyzja była
+**zamknięta** w rejestrze („wracać przy realnej sprzedaży z serwisu"), a tu status
+to **„wysłane"** — czekamy na odpowiedź Awina siódmy tydzień i można ją ponaglić.
+Moment jest zły: siedem tygodni przed Black Friday nie mamy dostępu do sklepu,
+który bije naszą najtańszą ofertę na dwóch zestawach z listy wycofań.
+
+Czego NIE przepisałem: ich twierdzenia o statusie EOL tych dwóch zestawów. Sami
+piszą, że LEGO nie wymienia ich w dziale „ostatnie sztuki", a wniosek wyciągają
+z własnych źródeł — u nas oba i tak są już w `wycofania.json`, więc nic nie zmieniam.
+
+
 ## 2026-10-09 09:05 · CODE · Skutek CRO po 14 dniach (kliki-raport, Routine z 25.09)
 
 Ruch ludzki z Analytics Engine (`blob6 = human`, bez bota z refererem `/zestaw/x/`),
