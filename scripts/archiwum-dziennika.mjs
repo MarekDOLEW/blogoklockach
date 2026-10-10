@@ -10,10 +10,16 @@
 // dotyczy nienaruszalności cudzych wpisów i dalej obowiązuje: niczego tu nie
 // przepisujemy ani nie skracamy, przenosimy znak w znak.
 //
-// Dwie rzeczy nie są archiwizowane nigdy:
+// Trzy rzeczy nie są archiwizowane nigdy:
 //   1. sekcja „Ustalenia trwałe" — żyje poza osią czasu,
 //   2. wpis ze stanem „w toku" — to rezerwacja zadania; gdyby zniknął z
-//      dziennika, druga strona zaczęłaby robotę, która już trwa.
+//      dziennika, druga strona zaczęłaby robotę, która już trwa,
+//   3. otwarte zadanie (od 10.10.2026, decyzja Marka po raporcie Kontrolera
+//      z 05.10): wpis „RADAR · Do zrobienia" z pozycją, której „Zrobić" nie
+//      brzmi „nic", oraz wpis Scouta o wycofaniach — dopóki pod nim nie ma tylu
+//      linii „→ zamknięte" / „→ Wycofania", ile ma otwartych pozycji. 05.10
+//      archiwizacja wywiozła cztery takie zadania, a runner Wycofań szuka
+//      swoich wyłącznie w DZIENNIK.md.
 //
 // GRANICA PREAMBUŁY JEST JAWNA (znacznik ZNACZNIK poniżej), a nie wywnioskowana
 // z położenia pierwszego datowanego nagłówka. Pierwsza wersja tego skryptu robiła
@@ -102,6 +108,20 @@ function rozbij(tekst) {
 
 const wToku = (tresc) => /\*\*Stan:\*\*[^\n]*w toku/i.test(tresc);
 
+// Otwarte zadanie z Radaru albo sygnał wycofań od Scouta (patrz nagłówek, pkt 3).
+// Pozycja Radaru = linia „**Zrobić:**"; „— nic" (z dowolnym dopiskiem) jest zamknięta
+// z definicji. Wpis Scouta liczymy jako jedną pozycję. Zamknięcie = linia zaczynająca
+// się od „→ zamknięte" albo „→ Wycofania" (dopisują je Code i runner Wycofań).
+function otwarteZadanie(naglowek, tresc) {
+  const zamkniecia = (tresc.match(/^\s*→\s*(zamknięte|Wycofania)/gim) ?? []).length;
+  if (/·\s*RADAR\s*·\s*Do zrobienia/i.test(naglowek)) {
+    const otwarte = (tresc.match(/^\*\*Zrobić:\*\*.*$/gm) ?? []).filter((l) => !/—\s*nic\b/i.test(l)).length;
+    return otwarte > zamkniecia;
+  }
+  if (/·\s*SCOUT\s*·/i.test(naglowek) && /wycofa/i.test(naglowek)) return zamkniecia === 0;
+  return false;
+}
+
 // ── wykonanie ────────────────────────────────────────────────────────────────
 const oryginal = readFileSync(PLIK, 'utf8');
 const { preambula, wpisy, maZnacznik, nadZnacznikiem } = rozbij(oryginal);
@@ -131,6 +151,7 @@ const doArchiwum = [];
 for (const w of wpisy) {
   if (w.data >= prog) { zostaja.push(w); continue; }
   if (wToku(w.tresc)) { zostaja.push({ ...w, zatrzymany: 'stan „w toku"' }); continue; }
+  if (otwarteZadanie(w.naglowek, w.tresc)) { zostaja.push({ ...w, zatrzymany: 'otwarte zadanie bez „→ zamknięte"' }); continue; }
   doArchiwum.push(w);
 }
 

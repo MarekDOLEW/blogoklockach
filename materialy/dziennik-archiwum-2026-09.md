@@ -740,19 +740,6 @@ z kontenerem. Build tego nie widzi (`.jsonl` nikt nie importuje).
 → Wykresy na hubach mają sens najwcześniej po 2–3 miesiącach zbierania (grudzień).
 Wtedy osobny skrypt wytnie z JSONL kompaktową serię do `src/data`.
 
-## 2026-09-18 08:00 · RADAR · Do zrobienia
-
-**fanklockow.pl · 17.09** — uruchomili drugi kalendarz obok kalendarza promocji: osobno klockowe wydarzenia 2026 (otwarcia salonów, eventy, prywatne zakupy, ścianki BaM).
-**Mamy?** — nie: mamy jeden kalendarz, w którym wydarzenia stacjonarne albo mieszają się z promocjami cenowymi, albo w ogóle ich nie ma.
-**Zrobić:** — decyzja, czy rozdzielamy nasz kalendarz na promocje (cena) i wydarzenia (termin, miejsce), czy zostajemy przy jednym.
-**Kto:** — Marek (decyzja)
-
-**Korekta, którą warto zapamiętać:** 17.09 wpisaliśmy do kalendarza gratis
-jako 40722, za fanklockow. 18.09 faniklockow podał ten sam gratis jako 40772
-i nasz własny katalog to potwierdził — 40772 „Seria okolicznościowa: Świecący
-duszek" (Creator, 2025). Poprawione. Wniosek na przyszłość: numer zestawu
-z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
-
 ## 2026-09-18 06:10 · MAREK → CODE · Lidl: tylko linki z feedu, bez zapasowego deeplinku
 
 Odpowiedź na pytanie z porannego raportu: „zostaw lidl jak jest — tylko linki
@@ -956,13 +943,6 @@ policzona z tego drugiego dała „mediana 0 sklepów dla gigantów" i fałszyw�
 o ich słabej dystrybucji; po poprawce mediana to 2, czyli tyle, co dla całej
 bazy.
 
-## 2026-09-17 08:00 · RADAR · Do zrobienia
-
-**zklockow.pl · sekcja „odkrywaj"** — mają siatkę stron kolekcyjnych („największe zestawy LEGO", „największe Technic", kolekcje per seria); nie są datowane, więc to trwała przewaga, nie świeża publikacja.
-**Mamy?** — nie: `/serie/<seria>/` z wyszukiwarką owszem, stron „największe / najdroższe zestawy serii" nie ma.
-**Zrobić:** — decyzja, czy budujemy siatkę „Największe zestawy LEGO <seria>" generowaną z katalogu (liczba elementów przy 9211 z 9359 pozycji, 98%).
-**Kto:** — Marek (decyzja)
-
 ## 2026-09-17 05:30 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - **Lista „Ostatnia szansa" urosła z ponad 100 do ponad 300 pozycji** —
@@ -1138,59 +1118,6 @@ a mapping entry`. Zamiana `„..."` → `„...”` w frontmatterze i w treści.
 
 **Zostaje otwarte:** 75192 Sokół Millennium i reszta wycofywanych bez tekstu (Piotr);
 pięć statusów do sprawdzenia — 21333, 21351, 21353, 21356, 76437 (runner Wycofań).
-
-## 2026-09-16 08:00 · RADAR · Do zrobienia
-
-**faniklockow · 15.09** — zaktualizowali listę Icons 2026 o ceny 11379 (559,99) i 11387 (469,99).
-**Mamy?** — tak: `/zestaw/11379/` i `/zestaw/11387/`, ceny wpisane w tym przebiegu.
-**Zrobić:** — nic (zamknięte).
-**Kto:** — Code (zrobione)
-
-**Kontrola własna · 16.09** — `kontrola-rrp.mjs` po imporcie z lego.pl pokazał 8 cen katalogowych niezgodnych ze źródłem.
-**Mamy?** — tak: poprawione w `katalog.json` (10338, 10361, 75328, 40797, 31147, 76326, 76327, 43269).
-**Zrobić:** — nic (zamknięte).
-**Kto:** — Code (zrobione)
-
-**Radar · 15.09** — LEGO potwierdziło wycofanie ponad stu zestawów; 75192 Sokół Millennium UCS bez żadnego opisu u nas.
-**Mamy?** — częściowo: hub `/zestaw/75192/` jest, brakuje karty, person i opisu.
-**Zrobić:** — nowy tekst „LEGO 75192 Sokół Millennium schodzi z produkcji — kupować teraz czy odpuścić".
-**Kto:** — Piotr (tekst)
-
-**Radar · 15.09** — potwierdzona lista wycofań grudniowych jest dostępna od 14.09.
-**Mamy?** — tak: `/artykuly/wycofania-lego-grudzien-2026/`, okno przesunięte na 17–30.09.
-**Zrobić:** — nic (zamknięte 16.09, decyzja Marka + tekst w tym samym przebiegu).
-**Kto:** — Marek (decyzja) → Code (tekst, zrobione)
-
-**Radar · 15.09** — pięć zestawów ma u nas status „przewidywane", a serwisy podają je jako potwierdzone przez LEGO.
-**Mamy?** — częściowo: są na liście, zły status (21333, 21351, 21353, 21356, 76437).
-**Zrobić:** — zmiana w danych `src/data/wycofania.json` po sprawdzeniu działu „Ostatnie Sztuki".
-**Kto:** — Code (runner Wycofań)
-
-## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
-
-**Zrobione:** nic w `wycofania.json` — od dziś to nie mój plik (nowa reguła
-w prompcie Scouta z 16.09).
-
-**Do weryfikacji przez runnera Wycofań:** 15.09, jeszcze pod starą regułą,
-dopisałem do `wycofania.json` **16 pozycji** ze StoneWars — lista zestawów
-oznaczonych przez LEGO w firmowym sklepie jako „Ostatnia szansa" (wycofanie
-do końca 2026). Źródło:
-<https://www.stonewars.de/news/letzte-chance-eol-ende-2026/>, data 13.09.2026.
-
-Numery: 75685, 80119, 76304, 80118, 43262, 10459, 43217, 76924, 40708,
-10450, 77242, 77243, 77259, 43033, 43263, 10461.
-
-Wszystkie dostały `kiedy: "grudzień 2026"`, `status: "potwierdzone"` i pole
-`zrodlo` z zastrzeżeniem, że **nie zweryfikowałem tego na lego.com** — serwis
-blokuje nasz ruch. Jeśli reguły statusów runnera Wycofań wymagają bezpośredniego
-potwierdzenia, te wpisy trzeba przejrzeć i ewentualnie przestawić na
-„przewidywane".
-
-W artykule było 93 numery; 67 już było w pliku, 10 pominąłem, bo nie ma ich
-w `katalog.json` (brak polskiej nazwy i ceny). Te 10 zostaje do domknięcia.
-
-**Dla drugiej strony:** runner Wycofań — przejrzyj te 16 wpisów i domknij
-brakujące 10.
 
 ## 2026-09-15 20:15 · CODE · AWARIA linków do sklepów (naprawiona): warstwa assets przed workerem
 
