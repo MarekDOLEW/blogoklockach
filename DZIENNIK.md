@@ -1542,6 +1542,7 @@ z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
 **Mamy?** — częściowo: są na liście, zły status (21333, 21351, 21353, 21356, 76437).
 **Zrobić:** — zmiana w danych `src/data/wycofania.json` po sprawdzeniu działu „Ostatnie Sztuki".
 **Kto:** — Code (runner Wycofań)
+→ zamknięte 10.10 (75192 Sokół Millennium, tekst Piotra): odłożone i zamknięte — decyzja Marka; hub i karta 75192 zostają, osobnego tekstu nie zlecamy. Pozycja „pięć zestawów ze złym statusem” czeka na runnera Wycofań (12.10).
 
 ## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
 
