@@ -12,7 +12,7 @@ import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty } from '../../lib/oferty.js';
-import { przydzielOferty, rabatOferty } from '../../lib/deale.js';
+import { przydzielOferty, rabatOferty, najtanszaOferta, limitAllegro } from '../../lib/deale.js';
 
 // krótki opis do listingu: pierwsze zdanie (albo dwa, gdy pierwsze bardzo krótkie), maks. ~170 znaków
 const krotkiOpis = (nr) => {
@@ -70,8 +70,45 @@ const kolejkaPolki = (p, pomin = new Set()) => {
     ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) < 15).sort((a, b) => rabat(b) - rabat(a)),
   ];
 };
-// 1. Slajder (Marek 27.09): po 3 zestawy z każdej półki cenowej, od najwyższej.
-const slajdy = POLKI.flatMap((p) => przydzielOferty(kolejkaPolki(p), { ile: NA_SLAJDER_Z_POLKI, minRabat: 1 }));
+// 1. Slajder (Marek 27.09, reguły 10.10): po 3 zestawy z każdej półki cenowej, od najwyższej.
+//    - na slajder trafia tylko oferta z rabatem ≥15% (zestaw ekskluzywny ≥10%) – bez −2% w ramach „okazji”;
+//    - limit Allegro 30% liczony dla CAŁEGO slajdera (3 z 12), nie dla każdej półki z osobna
+//      (30% z 3 to zero – Allegro w ogóle nie trafiało na slajder);
+//    - gdy limit Allegro jest wyczerpany, zamiennik spoza Allegro musi spełnić ten sam próg,
+//      inaczej zestaw wypada (wcześniej −33% na Allegro zamieniało się w −3% w innym sklepie);
+//    - przy remisie ceny wybieramy sklep spoza Allegro, żeby nie zużywać limitu;
+//    - półka bez trzech takich zestawów oddaje miejsca kolejnym półkom (od najdroższej).
+const NA_SLAJDER = POLKI.length * NA_SLAJDER_Z_POLKI;
+const progSlajdu = (s) => (s.ekskluzyw ? 10 : 15);
+const slajdy = (() => {
+  const limit = limitAllegro(NA_SLAJDER);
+  let allegro = 0;
+  const wybrane = new Set();
+  const kolejki = POLKI.map((p) => kolejkaPolki(p));
+  const naPolce = POLKI.map(() => []);
+  const ofertaDla = (s) => {
+    const naj = najtanszaOferta(s);
+    if (!naj || naj.sklep !== 'allegro') return naj;
+    const alt = najtanszaOferta(s, { bezAllegro: true });
+    if (alt && alt.cena <= naj.cena) return alt;
+    return allegro < limit ? naj : alt;
+  };
+  const dobierz = (i, ile) => {
+    for (const s of kolejki[i]) {
+      if (naPolce[i].length >= ile) break;
+      if (wybrane.has(s.nr)) continue;
+      const oferta = ofertaDla(s);
+      if (!oferta || rabatOferty(s, oferta) < progSlajdu(s)) continue;
+      naPolce[i].push({ set: s, oferta });
+      wybrane.add(s.nr);
+      if (oferta.sklep === 'allegro') allegro += 1;
+    }
+  };
+  kolejki.forEach((_, i) => dobierz(i, NA_SLAJDER_Z_POLKI));
+  const ile = () => naPolce.reduce((n, p) => n + p.length, 0);
+  for (let i = 0; i < POLKI.length && ile() < NA_SLAJDER; i++) dobierz(i, naPolce[i].length + NA_SLAJDER - ile());
+  return naPolce.flat();
+})();
 const wSlajderze = new Set(slajdy.map((d) => d.set.nr));
 // 2. Listing (Marek 29.09): maks. 150 pozycji w promocyjnych cenach. Dobór na
 //    zmianę z każdej półki cenowej (w półce: okazje, potem rabaty od największego),
