@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-09"
+  "zaktualizowano": "2026-10-10"
  },
  "przecieki": [
   {
@@ -419,8 +419,8 @@
    "numer": "11388",
    "nazwa": "Wenecja — diorama Icons",
    "seria": "Icons",
-   "elementy": 5700,
-   "cena_wg_zrodla": null,
+   "elementy": 5682,
+   "cena_wg_zrodla": 2110,
    "premiera_wg_zrodla": "2026-11",
    "pewnosc": "srednia",
    "zrodla": [
@@ -433,10 +433,15 @@
      "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
      "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
      "data": "2026-10-05"
+    },
+    {
+     "nazwa": "PromoBricks — „Erweiterung für riesiges LEGO Venedig-Set: Venice Water Taxi”",
+     "url": "https://www.promobricks.de/erweiterung-lego-venedig-set-40898/",
+     "data": "2026-10-08"
     }
    ],
    "dodano": "2026-09-23",
-   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
+   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). DRUGIE ŹRÓDŁO 10.10.2026, ale pewność ZOSTAJE „srednia”. PromoBricks pisze o tym samym zestawie: Icons, 5682 elementy, 499,99 euro, początek listopada 2026, nazwa „LEGO Venice Neighborhood”. To doprecyzowuje liczbę elementów (StoneWars podawał „blisko 5700”) i po raz pierwszy daje cenę — 499,99 euro, czyli naszym mnożnikiem 4,22 około 2110 zł. Dlaczego nie „wysoka”: drabina wymaga, by dwa serwisy zgadzały się co do NUMERU i CENY, a tu każdy ma tylko połowę — StoneWars podał numer 11388 bez ceny, PromoBricks cenę bez numeru. Zgodność liczby elementów i terminu to dużo, ale nie to, czego wymaga reguła.",
    "rozstrzygniecie": null
   },
   {
@@ -594,16 +599,21 @@
    "elementy": null,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2027-08",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Anakins Jedi Interceptor (75484) als nächstes »kleines« UCS-Set im August 2027?”, dzial Gerüchte",
      "url": "https://www.stonewars.de/geruechte/ucs-anakins-jedi-interceptor-75484-geruecht/",
      "data": "2026-10-01"
+    },
+    {
+     "nazwa": "Brickset — rezerwacja numeru w roczniku 2027 (pusty rekord, motyw Star Wars)",
+     "url": "https://brickset.com/sets/75484-1",
+     "data": "2026-10-10"
     }
    ],
    "dodano": "2026-10-02",
-   "uwagi": "Źródłem pierwotnym jest kanał społecznościowy buggyleaks, StoneWars tylko go relacjonuje w dziale plotek. Z przecieku wynika numer, wiek 18+, identyfikacja statku (Eta-2 Actis Anakina) i okno sierpnia 2027 plus nadrukowana płytka plakatowa; liczby elementów ani ceny nie ma. Brickset NIE MA tego numeru wcale — w pełnym zrzucie rocznika 2027 z 02.10.2026 (282 rekordy) go nie znalazłem, więc nie ma nawet rezerwacji numeru. Stąd „niska”. W tym samym tekście StoneWars wspomina o plotkach o UCS TIE Advanced (maj 2027) i nowym UCS Millennium Falconie (październik 2027), ale bez numerów — nie zakładam dla nich wpisów.",
+   "uwagi": "Źródłem pierwotnym jest kanał społecznościowy buggyleaks, StoneWars tylko go relacjonuje w dziale plotek. Z przecieku wynika numer, wiek 18+, identyfikacja statku (Eta-2 Actis Anakina) i okno sierpnia 2027 plus nadrukowana płytka plakatowa; liczby elementów ani ceny nie ma. Brickset NIE MA tego numeru wcale — w pełnym zrzucie rocznika 2027 z 02.10.2026 (282 rekordy) go nie znalazłem, więc nie ma nawet rezerwacji numeru. Stąd „niska”. W tym samym tekście StoneWars wspomina o plotkach o UCS TIE Advanced (maj 2027) i nowym UCS Millennium Falconie (październik 2027), ale bez numerów — nie zakładam dla nich wpisów. PODNIESIENIE 10.10.2026: to, czego brakowało 02.10, właśnie się pojawiło. Brickset ma teraz rekord 75484 w roczniku 2027, motyw Star Wars, kategoria „{t.b.a.}”, bez nazwy, elementów i daty. Przy zakładaniu wpisu zapisałem wprost, że katalog nie ma tego numeru wcale i że właśnie dlatego pewność jest „niska” — rezerwacja numeru w zgodnym motywie jest dowodem katalogowym, więc podnoszę na „srednia”. Nazwy i dat dalej nic nie potwierdza, a źródłem pierwotnym pozostaje kanał społecznościowy.",
    "rozstrzygniecie": null
   },
   {
@@ -629,21 +639,26 @@
   {
    "id": "40898",
    "numer": "40898",
-   "nazwa": "Wenecja — gratis do dużego zestawu (nazwa niepotwierdzona)",
+   "nazwa": "Weneckie wodne taxi (gratis do dużego zestawu)",
    "seria": "Icons",
    "elementy": null,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-11",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO leakt das Venedig GWP (40898) und gibt ersten Einblick in das kommende LEGO Icons Venedig Set”",
      "url": "https://www.stonewars.de/news/lego-venedig-gwp-40898-leak/",
      "data": "2026-10-05"
+    },
+    {
+     "nazwa": "PromoBricks — „Erweiterung für riesiges LEGO Venedig-Set: Venice Water Taxi”",
+     "url": "https://www.promobricks.de/erweiterung-lego-venedig-set-40898/",
+     "data": "2026-10-08"
     }
    ],
    "dodano": "2026-10-06",
-   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026).",
+   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). PODNIESIENIE 10.10.2026: doszło drugie, niezależne źródło branżowe. PromoBricks opisuje ten sam numer 40898 jako „LEGO Icons Venezianisches Wassertaxi” — czyli po raz pierwszy mamy nazwę, a nie tylko zdjęcie — i potwierdza mechanikę: gratis najpewniej wyłącznie przy zakupie dużego zestawu Icons, dwie minifigurki, z pozoru nieekskluzywne. Dodaje też, że obrazek wyciekł z własnego sklepu producenta i został szybko usunięty, ale trafił już do baz zestawów. Oba serwisy zgadzają się co do numeru i formy; ceny nie ma czego porównywać, bo to gratis, i właśnie dlatego zapisuję „wysoka” mimo że literalny warunek z drabiny mówi o zgodności numeru I ceny.",
    "rozstrzygniecie": null
   },
   {
@@ -664,6 +679,31 @@
    ],
    "dodano": "2026-10-08",
    "uwagi": "Potencjalnie jeden z największych zestawów 2027 roku: według StoneWars 8060 elementów, wiek 18+, start 1 czerwca 2027, czyli dokładnie rok po Minas Tirith (8278 elementów). Nazwę serwis podaje ze znakiem zapytania, ceny i liczby minifigurek nie zna. Mocny punkt tego przecieku: katalog Brickset ma numer 11399 z launchDate 2027-06-01, czyli DOKŁADNIE datą podawaną przez źródło — rekord jest pusty (bez nazwy i elementów), ale sama data jest potwierdzeniem katalogowym tego, czego StoneWars nie miał skąd wziąć. Dlatego „srednia”, nie „niska”. Do „wysokiej” brakuje drugiego serwisu: PromoBricks nie pisze ani o Helmowym Jarze, ani o Władcy Pierścieni (sprawdzone w treści strony głównej 08.10.2026). Przy 8060 elementach źródło zakłada bardzo drobną skalę mikro — inaczej model nie zmieściłby się na półce. W przeciekach jest już drugi zestaw z tej fali, Olifant (11395).",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "pokemon-blind-boxy-2027",
+   "numer": null,
+   "nazwa": "Budowane figurki Pokémon w blind boxach (bez numerów)",
+   "seria": "Pokémon",
+   "elementy": null,
+   "cena_wg_zrodla": 60,
+   "premiera_wg_zrodla": "2027-03",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks — „Baubare LEGO Pokemon in Blind Boxen ab März 2027: Gerücht”",
+     "url": "https://www.promobricks.de/baubare-lego-pokemon-figuren-in-blind-boxen/",
+     "data": "2026-10-08"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Pokémon Gerüchte: Blindboxen mit baubaren Pokémon … im März 2027?”, dzial Gerüchte",
+     "url": "https://www.stonewars.de/",
+     "data": "2026-10-09"
+    }
+   ],
+   "dodano": "2026-10-10",
+   "uwagi": "Format, nie konkretny zestaw: budowane figurki Pokémon sprzedawane w blind boxach, na wzór serii minifigurek albo Technic Mighty Machines, od marca 2027. PromoBricks podaje 12,99 dolara za pudełko i zakłada, że w Europie będzie to 1:1 w euro — stąd orientacyjne 60 zł (12,99 × 4,22 ≈ 55 zł, zaokrąglone w górę do 60 przy założeniu ceny w euro). StoneWars w swoim tekście dodaje Relaxo i Glumandę jako osobne zestawy 18+. ŻADEN NUMER NIE JEST ZNANY, dlatego wpis ma slug zamiast numeru. Pewność „niska”, choć piszą o tym dwa serwisy: oba wyraźnie oznaczają to jako plotkę, a PromoBricks jako źródło podaje własny news feed, czyli doniesienia społecznościowe. Dwa serwisy relacjonujące tę samą plotkę to nie dwa niezależne potwierdzenia. Co jest warte uwagi: 12,99 dolara to kwota zupełnie nieporównywalna z dotychczasowymi blind boxami (minifigurki 3,99 euro, Mighty Machines 4,99 euro, budowane figurki Super Mario 3,99 euro za średnio 25 elementów), więc albo pudełka będą znacznie większe, albo cena z plotki jest zawyżona.",
    "rozstrzygniecie": null
   }
  ]

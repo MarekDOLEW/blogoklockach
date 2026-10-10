@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-10-09",
+  "data_aktualizacji": "2026-10-10",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1185,
   "sety": [
@@ -6356,10 +6356,11 @@
     "co": "LEGO Sanrio — nowy motyw licencyjny z Hello Kitty.",
     "status": "POTWIERDZONE OFICJALNIE przez LEGO 2026-10-06: producent uruchomil dedykowana strone z emblematem 'Hello Kitty and Friends', nowym logo LEGO Sanrio, interaktywnym kalendarzem i wideo, oraz wydal komunikat prasowy. To nie przeciek.",
     "co_wiadomo": "Start motywu w 2027 roku, 'kilka zestawow do zabawy' wokol tematu przyjazni i kultury kawaii. Numerow zestawow, cen ani dat LEGO nie podaje — na pytanie o termin odpowiada, ze to 'na razie nasz maly sekret', i zapowiada comiesieczne podpowiedzi na tej stronie.",
-    "czego_nie_wiemy": "Czy beda minifigurki, czy raczej budowalne figurki postaci; ile zestawow; kiedy dokladnie. Plotki mowia o styczniu, ale StoneWars sam oznacza to jako plotke, wiec nie traktujemy terminu jako ustalonego.",
+    "czego_nie_wiemy": "Czy beda minifigurki, czy raczej budowalne figurki postaci; ile zestawow; kiedy dokladnie. Plotki mowia o styczniu, ale StoneWars sam oznacza to jako plotke, wiec nie traktujemy terminu jako ustalonego. UWAGA 10.10.2026: naglowek PromoBricks mowi o 'Bausets und Minifiguren', ale TRESC tekstu wyraznie pisze, ze teaser nie pokazuje ani zestawow, ani minifigurek — tylko postacie licencjodawcy. Pytanie o minifigurki kontra budowalne figurki ZOSTAJE wiec otwarte; naglowka nie licze jako odpowiedzi.",
     "zrodlo": "StoneWars — 'LEGO Hello Kitty fur 2027 offiziell bestatigt', https://www.stonewars.de/news/lego-sanrio-hello-kitty-2027-announcement/, 2026-10-06, relacjonujacy oficjalna strone i komunikat LEGO.",
     "dla_redakcji": "Nowa licencja potwierdzona przez producenta to material na tekst zapowiedziowy niezalezny od pojedynczych zestawow: po PlayStation, Zeldzie i Dragon Ball to czwarta nowa licencja w katalogu w ciagu dwoch miesiecy. Zestawow do opisania jeszcze nie ma, wiec do sety.json ani do przeciekow nic nie wchodzi.",
-    "dodano": "2026-10-07"
+    "dodano": "2026-10-07",
+    "drugie_zrodlo_2026_10_10": "PromoBricks (06.10, https://www.promobricks.de/lego-hello-kitty-bausets-und-minifiguren-fuer-2027-angekuendigt/) niezaleznie potwierdza oglosznie i cytuje komunikat: na 2027 'duzy wybor nowych produktow LEGO Sanrio', z Hello Kitty i jej najpopularniejszymi postaciami w centrum."
   },
   "przeglad_2026_10_07": {
     "nowosci": "Brak nowych zestawow potwierdzonych przez LEGO.",
@@ -6385,5 +6386,15 @@
     "nowe_rezerwacje": "Szesc nowych pustych rekordow Icons rocznika 2027: 11393, 11402, 11414, 11415, 11416, 11417. Blok Icons na 2027 zapelnia sie szybko — oprocz nich mamy tam Wenecje (11388), Olifanta (11395), Helmowy Jar (11399), rezerwacje z konkretna data 11399/11402 oraz juz opisany Dragon Ball (11390).",
     "odsiane": "Dwadziescia osiem rekordow: osiemnascie pozycji merchu Herschel (plecaki, torby, lunchboxy — motyw '{Undefined}' albo Gear), piec buildow promocyjnych (5011164 Fig Beetle Garden z availability 'Insiders Reward', 6644886 Ghost Street, 6644894 Reindeer, 6644896 Magenta Flower Candle, 6695501 Giftbox) oraz trzy rekordy L0002xxx z availability 'Magazine gift'.",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=08.10). StoneWars — strona glowna plus artykul o 40909. PromoBricks — strona glowna; sprawdzone w tresci, ze nie pisze ani o Panoramie Marvela, ani o wloskiej pizzerii. Razem 4 pobrania."
+  },
+  "przeglad_2026_10_10": {
+    "nowosci": "Brak nowych zestawow potwierdzonych przez LEGO.",
+    "wenecja_drugie_zrodlo": "PromoBricks zaczal pisac o Wenecji, czego 06.10 jeszcze nie robil. 40898 podniesiony z 'srednia' na 'wysoka': serwis podaje nazwe ('LEGO Icons Venezianisches Wassertaxi' — pierwsza nazwa tego gratisu), potwierdza numer i mechanike (gratis najpewniej tylko przy zakupie duzego zestawu, dwie nieekskluzywne minifigurki) i dodaje, ze obrazek wyciekl z wlasnego sklepu LEGO i zostal szybko usuniety. 11388 ZOSTAJE na 'srednia', choc tez ma drugie zrodlo: PromoBricks daje 5682 elementy i 499,99 EUR (ok. 2110 zl), ale BEZ numeru, a StoneWars dal numer BEZ ceny — drabina wymaga zgodnosci numeru i ceny, wiec kazdy ma tylko polowe.",
+    "75484_podniesiony": "Przeciek o UCS Mysliwcu Jedi Anakina podniesiony z 'niska' na 'srednia'. 02.10 zapisalem wprost, ze Brickset nie ma tego numeru wcale i ze wlasnie dlatego pewnosc jest najnizsza — dzis katalog ma rekord 75484 w roczniku 2027, motyw Star Wars, pusty. Rezerwacja numeru w zgodnym motywie to dowod katalogowy.",
+    "nowy_przeciek_bez_numeru": "Dopisany wpis ze slugiem zamiast numeru: blind boxy z budowanymi figurkami Pokemon od marca 2027, pewnosc 'niska'. Pisza o tym OBA serwisy, ale oba oznaczaja to jako plotke, a PromoBricks jako zrodlo podaje wlasny news feed — dwa serwisy relacjonujace te sama plotke to nie dwa niezalezne potwierdzenia. Zadnego numeru nie ma. Cena z plotki (12,99 dolara za pudelko) jest nieporownywalna z dotychczasowymi blind boxami, gdzie pudelko kosztuje 3,99-4,99 EUR.",
+    "40909_potwierdzone_niezaleznie": "PromoBricks ('Pizzabacker: Neues LEGO Promotional-Set ab 13. Oktober') niezaleznie podaje 13 pazdziernika. To potwierdza wczorajsza decyzje: Brickset ma dla 40909 launchDate 2027-10-13 przy polu year 2026, a ja przyjalem literowke w roku i wpisalem premiere 2026-10. Drugie zrodlo mowi to samo co pierwsze.",
+    "sanrio": "PromoBricks jest drugim zrodlem oglosznia Sanrio. Ale naglowek 'Bausets und Minifiguren' nie jest potwierdzeniem minifigurek — tresc tekstu mowi wprost, ze teaser nie pokazuje ani zestawow, ani figurek. Pytanie zostaje otwarte, zapisane w nowa_seria_sanrio.",
+    "odsiane": "Osiemnascie rekordow: pietnascie pozycji merchu Herschel (przeszly z motywu '{Undefined}' na 'Gear' i kategorie 'Extended' — to potwierdza wczorajsza klasyfikacje jako merch) oraz dwa gratisy z 2025 roku dotkniete archiwalnie (40762 Mixed Flowerpot, 40772 Celebration Series: Luminous Ghost).",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=09.10). PromoBricks — strona glowna plus trzy artykuly (Wenecja, blind boxy Pokemon, Sanrio). StoneWars — strona glowna. Razem 6 pobran."
   }
 }
