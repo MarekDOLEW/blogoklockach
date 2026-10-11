@@ -15,6 +15,12 @@
 //   sety           – Set numerów zestawów, do których tekst odsyła
 //   serie          – Set nazw serii tych zestawów (plus znacznik prezentownika,
 //                    gdy jest nazwą serii)
+//   serieGlowne    – serie, o których tekst NAPRAWDĘ jest: frontmatter `seria`
+//                    (tekst albo lista), a bez niego serie z co najmniej 40%
+//                    zestawów tekstu. Zbiorczy tekst o promocji z 64 zestawami
+//                    z 15 serii nie ma serii głównej i nie „pasuje" do każdej
+//                    recenzji (powód zmiany 11.10.2026: recenzja Yody linkowała
+//                    do newsa o kodzie Media Expert zamiast do rankingu Star Wars)
 //   lastmod        – zaktualizowano ?? data (do sitemapy i RSS)
 
 import sety from '../data/sety.json';
@@ -78,6 +84,22 @@ function serieZestawow(numery, dodatkowe = []) {
   return serie;
 }
 
+const UDZIAL_SERII_GLOWNEJ = 0.4;
+/** Serie, o których tekst jest (patrz `serieGlowne` w nagłówku). */
+function serieGlowneTekstu(numery, jawne = []) {
+  const z = [].concat(jawne ?? []).filter(Boolean);
+  if (z.length) return new Set(z);
+  const licz = new Map();
+  let razem = 0;
+  for (const nr of numery) {
+    const seria = seriaSetu(nr);
+    if (!seria) continue;
+    licz.set(seria, (licz.get(seria) ?? 0) + 1);
+    razem += 1;
+  }
+  return new Set([...licz].filter(([, n]) => n >= Math.max(1, UDZIAL_SERII_GLOWNEJ * razem)).map(([s]) => s));
+}
+
 function sekcjaZeSciezki(sciezka, kategoria) {
   if (kategoria === 'Prezentownik') return 'prezentowniki';
   if (sciezka.includes('/pages/deale/')) return 'deale';
@@ -110,6 +132,7 @@ function zMarkdownu(sciezka, modul) {
     faq: f.faq ?? [],
     sety: numery,
     serie: serieZestawow(numery),
+    serieGlowne: serieGlowneTekstu(numery, f.seria),
   };
 }
 
@@ -140,6 +163,7 @@ function zAstro(sciezka, modul) {
     faq: meta.faq ?? [],
     sety: numery,
     serie: serieZestawow(numery, [meta.znacznik]),
+    serieGlowne: serieGlowneTekstu(numery, meta.seria ?? (serieZnane.has(meta.znacznik) ? meta.znacznik : null)),
   };
 }
 

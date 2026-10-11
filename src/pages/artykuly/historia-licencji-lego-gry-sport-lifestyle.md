@@ -6,6 +6,7 @@ seo_tytul: "Historia licencji LEGO, cz. 3: od Mario do Nike i F1"
 seo_opis: "Po 2018 roku licencje LEGO zmieniają funkcję: PlayStation jako zestaw, gra z licencji, partnerstwo z Nike. I pytanie, czy LEGO jest od tego zależne."
 data: "2026-09-21"
 kategoria: "Historyczne"
+seria: ["Super Mario", "Fortnite", "Pokémon", "Nike x LEGO", "F1"]
 okladka: "72306"
 tagi: ["Dla kolekcjonera"]
 faq:

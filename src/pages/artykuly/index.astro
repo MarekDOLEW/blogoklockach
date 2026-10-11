@@ -32,9 +32,43 @@ const strony = Object.values(import.meta.glob('./*.astro', { eager: true }))
 
 const zajawki = [...zajawkiArtykulow(posts), ...strony.map((meta) => zajawkaZMeta(meta))]
   .sort(najnowszePierwsze);
+
+// „Przewodniki" (Marek 11.10.2026): teksty evergreen stoją na stałe nad listą
+// chronologiczną. Na stronie głównej wypadały po 10 nowszych tekstach i traciły
+// jedyny mocny link z serwisu. Kolejność = kolejność na stronie; brakujący adres
+// (zmieniony slug) po prostu znika z sekcji, build go nie wywraca.
+const PRZEWODNIKI = [
+  '/artykuly/slowniczek-lego/',
+  '/artykuly/jak-rosly-zestawy-lego/',
+  '/artykuly/najwieksze-zestawy-lego-star-wars/',
+  '/artykuly/najwieksze-zestawy-lego-technic/',
+  '/artykuly/ranking-najlepsze-samochody-lego-icons/',
+  '/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/',
+  '/artykuly/historia-licencji-lego-poczatki/',
+  '/artykuly/historia-licencji-lego-star-wars-minecraft/',
+];
+const poAdresie = new Map(zajawki.map((z) => [z.url.endsWith('/') ? z.url : `${z.url}/`, z]));
+const przewodniki = PRZEWODNIKI.map((u) => poAdresie.get(u)).filter(Boolean);
 ---
 <Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
   <h1 style="margin-top:28px">Artykuły</h1>
+  {przewodniki.length > 0 && (
+    <section class="przewodniki" aria-labelledby="przewodniki-naglowek">
+      <h2 id="przewodniki-naglowek">Przewodniki</h2>
+      <p class="przewodniki-wstep">Teksty, które nie tracą ważności: rankingi, historia licencji, słowniczek.</p>
+      <ul class="przewodniki-lista">
+        {przewodniki.map((z) => (
+          <li>
+            <a href={z.url}>
+              {z.foto && <img src={z.foto} alt="" loading="lazy" width="72" height="72" />}
+              <span><strong>{z.tytul}</strong><small>{z.kategoria}</small></span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+  <h2 class="artykuly-wszystkie">Wszystkie teksty</h2>
   <FiltrKategorii zajawki={zajawki} />
   <div class="zajawki">
     {zajawki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}

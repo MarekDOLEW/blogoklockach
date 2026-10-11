@@ -6,6 +6,7 @@ seo_tytul: "Historia licencji LEGO, cz. 1: zanim przyszło Star Wars"
 seo_opis: "Pierwsze obce logo na zabawce LEGO pojawiło się w 1948 roku, licencja na Disneya w 1956. Dlaczego za początek licencjonowanego LEGO uchodzi rok 1999?"
 data: "2026-09-21"
 kategoria: "Historyczne"
+seria: ["Star Wars", "Disney"]
 okladka: "75192"
 tagi: ["Dla kolekcjonera"]
 faq:

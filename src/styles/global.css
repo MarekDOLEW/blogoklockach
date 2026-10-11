@@ -1618,3 +1618,15 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 @media (max-width: 760px) { .deal-dnia .kod-rabatowy { justify-self: center; } }
 /* długie przyciski w tekstach („Lotniskowiec w Media Expert: 999 zł z kodem →") nie mogą rozpychać strony na telefonie */
 @media (max-width: 600px) { .przycisk { white-space: normal; max-width: 100%; text-align: center; } }
+/* /artykuly/: stała sekcja „Przewodniki" nad listą chronologiczną (Marek 11.10) */
+.przewodniki { margin: 8px 0 28px; }
+.przewodniki h2 { margin: 0 0 4px; }
+.przewodniki-wstep { margin: 0 0 14px; color: var(--granat-60); }
+.przewodniki-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 700px) { .przewodniki-lista { grid-template-columns: 1fr; } }
+.przewodniki-lista a { display: flex; gap: 12px; align-items: center; padding: 10px; background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); text-decoration: none; color: var(--granat); height: 100%; }
+.przewodniki-lista a:hover { border-color: var(--granat-60); }
+.przewodniki-lista img { flex: 0 0 72px; width: 72px; height: 72px; object-fit: contain; background: #fff; border-radius: 6px; }
+.przewodniki-lista strong { display: block; font-size: 0.95rem; line-height: 1.3; }
+.przewodniki-lista small { display: block; margin-top: 3px; color: var(--granat-60); font-size: 0.78rem; }
+.artykuly-wszystkie { margin: 8px 0 12px; }

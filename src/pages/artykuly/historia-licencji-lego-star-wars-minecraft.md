@@ -5,6 +5,7 @@ opis: "Harry Potter, Ferrari, Marvel, Minecraft i LEGO Dimensions. W niespełna 
 seo_opis: "Harry Potter, Ferrari, Marvel, Minecraft i LEGO Dimensions – różne modele licencji. A największą premierą w historii firmy zostało jej własne NINJAGO."
 data: "2026-09-21"
 kategoria: "Historyczne"
+seria: ["Star Wars", "Harry Potter", "Marvel", "Minecraft", "Ideas"]
 okladka: "71043"
 tagi: ["Dla kolekcjonera"]
 faq:
