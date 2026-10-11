@@ -2,23 +2,48 @@
 import Base from '../layouts/Base.astro';
 import FiltrSetow from '../components/FiltrSetow.astro';
 import sety from '../data/sety.json';
+import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia, obrazPlynny } from '../lib/media.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 import { statusNowosci } from '../lib/premiery.js';
-import { odmien } from '../lib/oferty.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
 const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
 const biezacy = ym(teraz);
-const nowe = Object.entries(sety)
-  .filter(([, s]) => s.premiera >= odKiedy)
-  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }), przeciek: statusNowosci(nr) === 'przeciek' }))
+const feed = ofertyFeed?.sety ?? {};
+
+// Dwa widoki zamiast jednego worka (ustalenie Marka 11.10.2026): zestawy, które
+// już można kupić, mieszały się z zapowiedziami i czytelnik nie wiedział, co
+// jest na półce, a na co trzeba poczekać.
+//   Nowości    – premiera w bieżącym miesiącu lub wcześniej (ostatnie 3 miesiące),
+//                jest oferta w sklepie, cena katalogowa i zdjęcie; bez kompletu
+//                danych zestaw zostaje tylko na swojej karcie /zestaw/<nr>/.
+//   Zapowiedzi – premiera w przyszłym miesiącu lub później, potwierdzona przez
+//                LEGO. Przecieki z rynku mają własny dział /przecieki/.
+// Pole `zapowiedz` w sety.json nie decyduje – 76355 ma je od września, a jest
+// w sprzedaży; rozstrzyga data premiery.
+const etykietaMiesiaca = (p) => {
+  const m = /^\d{4}-\d{2}$/.test(p) ? miesiac(p) : null;
+  return m ? `${m.mianownik} ${m.rok}` : String(p);
+};
+const wszystkie = Object.entries(sety).map(([nr, s]) => ({
+  nr,
+  ...s,
+  foto: urlZdjecia(nr, { sety, feed }),
+  przeciek: statusNowosci(nr) === 'przeciek',
+  wOfercie: (s.oferty?.length ?? 0) > 0 || Object.keys(feed[nr]?.oferty ?? {}).length > 0,
+}));
+const nowe = wszystkie
+  .filter((s) => s.premiera >= odKiedy && s.premiera <= biezacy)
+  .filter((s) => s.wOfercie && s.cena_katalogowa && s.foto && !s.przeciek)
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
+const zapowiedzi = wszystkie
+  .filter((s) => String(s.premiera ?? '') > biezacy && !s.przeciek)
+  .sort((a, b) => (a.premiera < b.premiera ? -1 : a.premiera > b.premiera ? 1 : (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0)));
+const przecieki = wszystkie.filter((s) => s.przeciek && String(s.premiera ?? '') >= odKiedy).length;
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
-// Zapowiedzi: potwierdzone przez LEGO kontra przecieki z rynku – liczby do legendy
-const zapowiedzi = nowe.filter((s) => s.premiera > biezacy || s.przeciek);
-const przecieki = zapowiedzi.filter((s) => s.przeciek).length;
+const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 
 // Podstrony miesięczne: „co wychodzi we wrześniu" to inne pytanie niż „co jest
 // nowego" i inna fraza w wyszukiwarce. Lista liczy się z tych samych danych,
@@ -32,13 +57,60 @@ const miesiace = [...ilePerMiesiac]
   .filter(([, n]) => n >= PROG_SETOW)
   .sort((a, b) => (a[0] < b[0] ? 1 : -1))
   .map(([k, n]) => ({ ...miesiac(k), ile: n }));
-const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 ---
-<Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy i zapowiedzi. Ceny, liczba elementów, zdjęcia i nasza ocena, czy warto.`}>
-  <h1 style="margin-top:28px">Nowości LEGO</h1>
-  <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi.</p>
-  <p class="nowosci-legenda">Zapowiedzi dzielimy na dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu lub komunikatem Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, z katalogów sklepowych i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status. Pełną listę nieoficjalnych zapowiedzi ze źródłami, oceną pewności i tablicą trafności prowadzimy osobno w dziale <a href="/przecieki/">Przecieki</a>.{zapowiedzi.length > 0 && <> Obecnie: {`${zapowiedzi.length - przecieki} ${odmien(zapowiedzi.length - przecieki, 'zapowiedź potwierdzona', 'zapowiedzi potwierdzone', 'zapowiedzi potwierdzonych')} i ${przecieki} ${odmien(przecieki, 'przeciek', 'przecieki', 'przecieków')}`}.</>}</p>
-  <p>Zapowiedzi na kolejny rok zbieramy osobno: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>, z podpowiedzią, które zestawy z obecnej oferty kupić, zanim znikną.</p>
+<Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy w sprzedaży i ${zapowiedzi.length} potwierdzonych zapowiedzi. Ceny, liczba elementów, zdjęcia.`}>
+  <h1 style="margin-top:28px">Nowości i zapowiedzi LEGO</h1>
+
+  <div class="przelacznik" data-widok="nowosci">
+    <button type="button" class="przelacznik__etyk" data-cel="nowosci" aria-controls="widok-nowosci" aria-pressed="true">Nowości LEGO <span class="przelacznik__ile">{nowe.length}</span></button>
+    <button type="button" class="przelacznik__pstryk" role="switch" aria-checked="false" aria-label="Pokaż zapowiedzi zamiast nowości"><span aria-hidden="true"></span></button>
+    <button type="button" class="przelacznik__etyk" data-cel="zapowiedzi" aria-controls="widok-zapowiedzi" aria-pressed="false">Zapowiedzi <span class="przelacznik__ile">{zapowiedzi.length}</span></button>
+  </div>
+
+  <section class="widok" id="widok-nowosci" aria-label="Nowości LEGO w sprzedaży">
+    <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców. Najnowsze na górze.</p>
+    <FiltrSetow serie={serie} liczbaWSerii={wSerii} rzeczownik="nowości" />
+    <div class="siatka siatka--nowosci" id="now-siatka">
+      {nowe.map((s, i) => (
+        <a
+          class="karta set-karta"
+          href={`/zestaw/${s.nr}/`}
+          data-wiersz
+          data-numer={s.nr}
+          data-nazwa={s.nazwa}
+          data-seria={s.seria} target="_blank" rel="noopener">
+          <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
+          <span class="nr">LEGO {s.nr} <span class:list={["badge-premiera", s.premiera !== biezacy && "badge-premiera--starsza"]} title={`Premiera: ${etykietaMiesiaca(s.premiera)}`}>Premiera · {etykietaMiesiaca(s.premiera)}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+          <h2>{s.nazwa}</h2>
+          <span class="badge-seria">{s.seria}</span>
+          <div class="cena-linia"><span class="cena">{fmt(s.cena_katalogowa)}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="widok" id="widok-zapowiedzi" aria-label="Zapowiedzi LEGO" hidden>
+    <p class="widok__wstep">Zestawy, które LEGO oficjalnie zapowiedziało – mają kartę produktu na lego.com albo pojawiły się w komunikacie Grupy LEGO – ale jeszcze nie weszły do sprzedaży. Najbliższe premiery na górze; cena i liczba elementów mogą się pojawić dopiero tuż przed startem.</p>
+    <p class="nowosci-legenda">Nieoficjalnych informacji od dystrybutorów i ze sklepowych katalogów tu nie pokazujemy – zbieramy je ze źródłami i oceną pewności w dziale <a href="/przecieki/">Przecieki</a>{przecieki > 0 && ` (teraz ${przecieki})`}. Zapowiedzi na cały kolejny rok: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>.</p>
+    {zapowiedzi.length === 0 && <p>Na razie nie ma potwierdzonych zapowiedzi – zajrzyj do <a href="/przecieki/">Przecieków</a>.</p>}
+    <div class="siatka siatka--nowosci" id="zap-siatka">
+      {zapowiedzi.map((s) => (
+        <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
+          {s.foto ? (
+            <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
+          ) : (
+            <div class="foto-brak" aria-hidden="true">
+              <span class="studs"><i></i><i></i><i></i><i></i></span>
+            </div>
+          )}
+          <span class="nr">LEGO {s.nr} <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · {etykietaMiesiaca(s.premiera)}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+          <h2>{s.nazwa}</h2>
+          <span class="badge-seria">{s.seria}</span>
+          <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
+        </a>
+      ))}
+    </div>
+  </section>
 
   <nav class="mies-lista" aria-label="Premiery miesiąc po miesiącu">
     <span class="mies-lista__etykieta">Miesiąc po miesiącu:</span>
@@ -47,32 +119,6 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
     ))}
   </nav>
 
-  <FiltrSetow serie={serie} liczbaWSerii={wSerii} rzeczownik="nowości" />
-
-  <div class="siatka siatka--nowosci" id="now-siatka">
-    {nowe.map((s, i) => (
-      <a
-        class="karta set-karta"
-        href={`/zestaw/${s.nr}/`}
-        data-wiersz
-        data-numer={s.nr}
-        data-nazwa={s.nazwa}
-        data-seria={s.seria} target="_blank" rel="noopener">
-        {s.foto ? (
-          <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
-        ) : (
-          <div class="foto-brak" aria-hidden="true">
-            <span class="studs"><i></i><i></i><i></i><i></i></span>
-          </div>
-        )}
-        <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek z rynku</span> : s.premiera > biezacy && <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · potwierdzone przez LEGO</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
-        <h2>{s.nazwa}</h2>
-        <span class="badge-seria">{s.seria}</span>
-        <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
-      </a>
-    ))}
-  </div>
-
   <div class="lightbox" id="lightbox" hidden>
     <img id="lb-img" src="" alt="" />
     <span class="lb-podpis" id="lb-podpis"></span>
@@ -80,6 +126,23 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 </Base>
 
 <script>
+  // ── przełącznik Nowości / Zapowiedzi; #zapowiedzi w adresie otwiera drugi widok ──
+  const $przel = document.querySelector('.przelacznik');
+  const $pstryk = $przel.querySelector('.przelacznik__pstryk');
+  function ustawWidok(widok, zapisz) {
+    const zap = widok === 'zapowiedzi';
+    $przel.dataset.widok = widok;
+    document.getElementById('widok-nowosci').hidden = zap;
+    document.getElementById('widok-zapowiedzi').hidden = !zap;
+    $pstryk.setAttribute('aria-checked', String(zap));
+    $pstryk.setAttribute('aria-label', zap ? 'Pokaż nowości zamiast zapowiedzi' : 'Pokaż zapowiedzi zamiast nowości');
+    $przel.querySelectorAll('.przelacznik__etyk').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.cel === widok)));
+    if (zapisz) history.replaceState(null, '', zap ? '#zapowiedzi' : location.pathname + location.search);
+  }
+  $przel.querySelectorAll('.przelacznik__etyk').forEach((b) => b.addEventListener('click', () => ustawWidok(b.dataset.cel, true)));
+  $pstryk.addEventListener('click', () => ustawWidok($przel.dataset.widok === 'zapowiedzi' ? 'nowosci' : 'zapowiedzi', true));
+  if (location.hash === '#zapowiedzi') ustawWidok('zapowiedzi', false);
+
   // Filtr serii i wyszukiwanie obsługuje wspólny FiltrSetow – tu zostaje
   // tylko lightbox, bo zdjęcia w nowościach są duże i warto je powiększać.
   // ── lightbox: klik w miniaturę powiększa zamiast przechodzić na stronę setu ──
@@ -87,7 +150,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
   const $lbImg = document.getElementById('lb-img');
   const $lbPodpis = document.getElementById('lb-podpis');
 
-  document.getElementById('now-siatka').addEventListener('click', (e) => {
+  const otworz = (e) => {
     const img = e.target.closest('img.miniatura[data-full]');
     if (!img) return;
     e.preventDefault();
@@ -97,7 +160,9 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
     $lbPodpis.textContent = img.dataset.podpis || '';
     $lb.hidden = false;
     document.body.style.overflow = 'hidden';
-  });
+  };
+  document.getElementById('now-siatka').addEventListener('click', otworz);
+  document.getElementById('zap-siatka').addEventListener('click', otworz);
 
   function zamknij() {
     $lb.hidden = true;
