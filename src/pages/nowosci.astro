@@ -1,13 +1,16 @@
 ---
 import Base from '../layouts/Base.astro';
 import FiltrSetow from '../components/FiltrSetow.astro';
+import TabelaSetow from '../components/TabelaSetow.astro';
+import KaruzelaPropozycji from '../components/KaruzelaPropozycji.astro';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
-import { urlZdjecia, obrazPlynny } from '../lib/media.js';
+import { urlZdjecia, opisSetu } from '../lib/media.js';
+import { propozycjeDnia } from '../lib/losowanie.js';
+import { maHub } from '../lib/huby.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 import { statusNowosci } from '../lib/premiery.js';
-import { odmien } from '../lib/oferty.js';
-const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+import { odmien, najlepszaOferta, linkAfiliacyjny } from '../lib/oferty.js';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
 const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
@@ -51,6 +54,63 @@ const potwierdzone = zapowiedzi.length - przecieki;
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
 const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 
+// Widoki w układzie stron serii (11.10.2026): 129 boksów jeden pod drugim było
+// nie do przejścia. Na górze karuzela 3×3 z premierami bieżącego miesiąca
+// (losowanie dzienne, jak „Nasze propozycje" w seriach), pod nią tabela z
+// filtrem: miesiąc premiery, seria, sortowanie, szukaj. Zapowiedzi – ta sama
+// tabela, bez filtra (kilkanaście pozycji) i bez linków do sklepów.
+const ymNum = (p) => Number(String(p).replace('-', '')) || null;
+// W kolumnie statusu krótko: „Premiera" dla bieżącego miesiąca, starsze zwykłe
+// „w sprzedaży" – miesiąc premiery stoi w wierszu pod nazwą zestawu.
+const znaczekPremiery = (p) => (p === biezacy ? { klasa: 'badge-premiera', tekst: 'Premiera' } : undefined);
+const wierszeNowosci = nowe.map((s) => {
+  const oferta = najlepszaOferta(s.nr, { sety, feed }) ?? { sklep: 'lego', cena: s.cena_katalogowa, data: null };
+  return {
+    numer: s.nr,
+    nazwa: s.nazwa,
+    opis: opisSetu(s.nr, { sety })?.tekst ?? null,
+    seria: s.seria,
+    rok: ymNum(s.premiera),
+    rokEtykieta: `premiera: ${etykietaMiesiaca(s.premiera)}`,
+    elementy: s.elementy,
+    zdjecie: s.foto,
+    hub: maHub(s.nr),
+    status: 'sprzedaz',
+    znaczek: znaczekPremiery(s.premiera),
+    oferta,
+    link: linkAfiliacyjny(oferta.sklep, s.nr),
+    cenaKatalogowa: s.cena_katalogowa,
+  };
+});
+const wierszeZapowiedzi = zapowiedzi.map((s) => ({
+  numer: s.nr,
+  nazwa: s.nazwa,
+  opis: opisSetu(s.nr, { sety })?.tekst ?? null,
+  seria: s.seria,
+  rok: null,
+  rokEtykieta: `premiera: ${etykietaMiesiaca(s.premiera)}`,
+  elementy: s.elementy,
+  zdjecie: s.foto,
+  hub: maHub(s.nr),
+  znaczek: s.przeciek
+    ? { klasa: 'badge-przeciek', tekst: 'przeciek z rynku' }
+    : { klasa: 'badge-wkrotce', tekst: 'wkrótce' },
+  // zapowiedź nie dostaje linku do sklepu – przycisk prowadziłby donikąd
+  oferta: s.cena_katalogowa ? { sklep: null, cena: s.cena_katalogowa } : null,
+  link: null,
+  brakCeny: 'cena nieujawniona',
+}));
+const miesiaceNowosci = [...wierszeNowosci.reduce((m, w) => m.set(w.rok, (m.get(w.rok) ?? 0) + 1), new Map())]
+  .sort((a, b) => b[0] - a[0])
+  .map(([rok, ile]) => {
+    const t = String(rok);
+    return { rok, ile, etykieta: etykietaMiesiaca(`${t.slice(0, 4)}-${t.slice(4)}`) };
+  });
+const pulaKaruzeli = wierszeNowosci.filter((w) => w.hub && w.rok === ymNum(biezacy));
+const karuzela = propozycjeDnia(pulaKaruzeli.length >= 3 ? pulaKaruzeli : wierszeNowosci.filter((w) => w.hub), 'nowosci')
+  .map((w) => ({ numer: w.numer, nazwa: w.nazwa, zdjecie: w.zdjecie, cena: w.oferta.cena, elementy: w.elementy, ekskluzyw: Boolean(sety[w.numer]?.ekskluzyw) }));
+const mBiezacy = miesiac(biezacy);
+
 // Podstrony miesięczne: „co wychodzi we wrześniu" to inne pytanie niż „co jest
 // nowego" i inna fraza w wyszukiwarce. Lista liczy się z tych samych danych,
 // więc nowy miesiąc pojawia się tu sam, gdy uzbiera PROG_SETOW premier.
@@ -74,48 +134,24 @@ const miesiace = [...ilePerMiesiac]
   </div>
 
   <section class="widok" id="widok-nowosci" aria-label="Nowości LEGO w sprzedaży">
-    <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców. Najnowsze na górze.</p>
-    <FiltrSetow serie={serie} liczbaWSerii={wSerii} rzeczownik="nowości" />
-    <div class="siatka siatka--nowosci" id="now-siatka">
-      {nowe.map((s, i) => (
-        <a
-          class="karta set-karta"
-          href={`/zestaw/${s.nr}/`}
-          data-wiersz
-          data-numer={s.nr}
-          data-nazwa={s.nazwa}
-          data-seria={s.seria} target="_blank" rel="noopener">
-          <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading={i < 2 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
-          <span class="nr">LEGO {s.nr} <span class:list={["badge-premiera", s.premiera !== biezacy && "badge-premiera--starsza"]} title={`Premiera: ${etykietaMiesiaca(s.premiera)}`}>Premiera · {etykietaMiesiaca(s.premiera)}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
-          <h2>{s.nazwa}</h2>
-          <span class="badge-seria">{s.seria}</span>
-          <div class="cena-linia"><span class="cena">{fmt(s.cena_katalogowa)}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
-        </a>
-      ))}
-    </div>
+    <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców. W tabeli najnowsze na górze, z najniższą ceną, jaką dziś widzimy.</p>
+    <KaruzelaPropozycji pozycje={karuzela} tytul={pulaKaruzeli.length >= 3 ? `Premiery – ${mBiezacy.mianownik}` : 'Nasze propozycje'} etykieta="Wybrane premiery" />
+    <FiltrSetow
+      serie={serie}
+      liczbaWSerii={wSerii}
+      rzeczownik="nowości"
+      lata={miesiaceNowosci}
+      etykietaLat="Miesiąc premiery"
+      sortowanie
+    />
+    <p class="disclosure">Linki przy cenach to linki afiliacyjne: kupując przez nie, wspierasz serwis i nie płacisz więcej. Kwota przy zestawie to ostatnia cena, jaką zobaczyliśmy w cenniku sklepu – wiążąca jest cena w koszyku.</p>
+    <TabelaSetow wiersze={wierszeNowosci} />
   </section>
 
   <section class="widok" id="widok-zapowiedzi" aria-label="Zapowiedzi LEGO" hidden>
     <p class="widok__wstep">Zestawy, które jeszcze nie weszły do sprzedaży. Najbliższe premiery na górze; cena i liczba elementów często pojawiają się dopiero tuż przed startem.</p>
     <p class="nowosci-legenda">Dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu na lego.com albo z komunikatu Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, ze sklepowych katalogów i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status. Źródła i ocenę pewności każdego przecieku znajdziesz w dziale <a href="/przecieki/">Przecieki</a>.{zapowiedzi.length > 0 && <> Obecnie: {`${potwierdzone} ${odmien(potwierdzone, 'zapowiedź potwierdzona', 'zapowiedzi potwierdzone', 'zapowiedzi potwierdzonych')} i ${przecieki} ${odmien(przecieki, 'przeciek', 'przecieki', 'przecieków')}`}.</>} Zapowiedzi na cały kolejny rok: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>.</p>
-    {zapowiedzi.length === 0 && <p>Na razie nie ma zapowiedzi.</p>}
-    <div class="siatka siatka--nowosci" id="zap-siatka">
-      {zapowiedzi.map((s) => (
-        <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
-          {s.foto ? (
-            <img class="miniatura" {...obrazPlynny(s.foto, [260, 440, 880], '(max-width: 600px) calc(100vw - 76px), 300px')} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
-          ) : (
-            <div class="foto-brak" aria-hidden="true">
-              <span class="studs"><i></i><i></i><i></i><i></i></span>
-            </div>
-          )}
-          <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek · {etykietaMiesiaca(s.premiera)}</span> : <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · {etykietaMiesiaca(s.premiera)}</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
-          <h2>{s.nazwa}</h2>
-          <span class="badge-seria">{s.seria}</span>
-          <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
-        </a>
-      ))}
-    </div>
+    {zapowiedzi.length === 0 ? <p>Na razie nie ma zapowiedzi.</p> : <TabelaSetow wiersze={wierszeZapowiedzi} naglowekCeny="Cena katalogowa" filtrowalne={false} />}
   </section>
 
   <nav class="mies-lista" aria-label="Premiery miesiąc po miesiącu">
@@ -125,10 +161,6 @@ const miesiace = [...ilePerMiesiac]
     ))}
   </nav>
 
-  <div class="lightbox" id="lightbox" hidden>
-    <img id="lb-img" src="" alt="" />
-    <span class="lb-podpis" id="lb-podpis"></span>
-  </div>
 </Base>
 
 <script>
@@ -149,32 +181,4 @@ const miesiace = [...ilePerMiesiac]
   $pstryk.addEventListener('click', () => ustawWidok($przel.dataset.widok === 'zapowiedzi' ? 'nowosci' : 'zapowiedzi', true));
   if (location.hash === '#zapowiedzi') ustawWidok('zapowiedzi', false);
 
-  // Filtr serii i wyszukiwanie obsługuje wspólny FiltrSetow – tu zostaje
-  // tylko lightbox, bo zdjęcia w nowościach są duże i warto je powiększać.
-  // ── lightbox: klik w miniaturę powiększa zamiast przechodzić na stronę setu ──
-  const $lb = document.getElementById('lightbox');
-  const $lbImg = document.getElementById('lb-img');
-  const $lbPodpis = document.getElementById('lb-podpis');
-
-  const otworz = (e) => {
-    const img = e.target.closest('img.miniatura[data-full]');
-    if (!img) return;
-    e.preventDefault();
-    e.stopPropagation();
-    $lbImg.src = img.dataset.full;
-    $lbImg.alt = img.dataset.podpis || '';
-    $lbPodpis.textContent = img.dataset.podpis || '';
-    $lb.hidden = false;
-    document.body.style.overflow = 'hidden';
-  };
-  document.getElementById('now-siatka').addEventListener('click', otworz);
-  document.getElementById('zap-siatka').addEventListener('click', otworz);
-
-  function zamknij() {
-    $lb.hidden = true;
-    $lbImg.src = '';
-    document.body.style.overflow = '';
-  }
-  $lb.addEventListener('click', zamknij);
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$lb.hidden) zamknij(); });
 </script>

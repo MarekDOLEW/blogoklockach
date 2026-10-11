@@ -1,0 +1,64 @@
+---
+// Karuzela „Nasze propozycje" – 3 boksy na ekranie, przewijana trójkami
+// (na telefonie po jednym). Wspólna dla stron serii i Nowości (11.10.2026).
+//
+// Pozycje przygotowuje strona: { numer, nazwa, zdjecie, cena, elementy,
+// ekskluzyw?, znaczek? } – znaczek to { klasa, tekst } wstawiany obok numeru.
+// Wybór (np. propozycjeDnia z src/lib/losowanie.js) też należy do strony.
+import { obrazPlynny } from '../lib/media.js';
+import { fmtCena } from '../lib/oferty.js';
+
+const { pozycje = [], tytul = 'Nasze propozycje', etykieta = tytul } = Astro.props;
+const strony = Math.ceil(pozycje.length / 3);
+---
+{pozycje.length > 0 && (
+  <section class="propozycje" aria-roledescription="karuzela" aria-label={etykieta}>
+    <div class="propozycje__head">
+      <h2>{tytul}</h2>
+      {pozycje.length > 3 && (
+        <div class="propozycje__nav">
+          <button type="button" class="propozycje__btn" data-kier="-1" aria-label="Poprzednie propozycje">‹</button>
+          <span class="propozycje__licznik" aria-live="polite">1/{strony}</span>
+          <button type="button" class="propozycje__btn" data-kier="1" aria-label="Następne propozycje">›</button>
+        </div>
+      )}
+    </div>
+    <div class="propozycje__tor">
+      {pozycje.map((w, i) => (
+        <a class="karta set-karta" href={`/zestaw/${w.numer}/`} target="_blank" rel="noopener">
+          <img class="miniatura" {...obrazPlynny(w.zdjecie, [260, 440, 880], '(max-width: 600px) 78vw, 330px')} alt={`LEGO ${w.numer} ${w.nazwa}`} loading={i < 3 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} width="400" height="300" />
+          <span class="nr">LEGO {w.numer} {w.znaczek && <span class={w.znaczek.klasa}>{w.znaczek.tekst}</span>} {w.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+          <h3>{w.nazwa}</h3>
+          <div class="cena-linia"><span class="cena">{w.cena ? fmtCena(w.cena) : 'cena nieujawniona'}</span><span class="za-klocek">{w.elementy ? `${w.elementy} el.` : ''}</span></div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
+
+<script>
+  // Przewija o szerokość widocznej części, czyli trójkami na desktopie i po
+  // jednym na telefonie; licznik liczy strony, nie zestawy. Z ostatniej strony
+  // „dalej" wraca na pierwszą.
+  for (const $p of document.querySelectorAll('.propozycje')) {
+    const $tor = $p.querySelector('.propozycje__tor');
+    const $licznik = $p.querySelector('.propozycje__licznik');
+    if (!$tor || !$licznik) continue;
+    const krok = () => $tor.clientWidth + (parseFloat(getComputedStyle($tor).columnGap) || 0);
+    const strony = () => Math.max(1, Math.round(($tor.scrollWidth + (krok() - $tor.clientWidth)) / krok()));
+    const strona = () => Math.min(strony(), Math.round($tor.scrollLeft / krok()) + 1);
+    const odswiez = () => ($licznik.textContent = `${strona()}/${strony()}`);
+    $p.querySelectorAll('.propozycje__btn').forEach((b) =>
+      b.addEventListener('click', () => {
+        const nast = strona() - 1 + Number(b.dataset.kier);
+        const cel = nast < 0 ? strony() - 1 : nast >= strony() ? 0 : nast;
+        $tor.scrollTo({ left: cel * krok(), behavior: 'smooth' });
+      }),
+    );
+    $tor.addEventListener('scroll', () => requestAnimationFrame(odswiez), { passive: true });
+    addEventListener('resize', odswiez);
+    // widok mógł być schowany (przełącznik Nowości/Zapowiedzi) – licz po pokazaniu
+    new ResizeObserver(odswiez).observe($tor);
+    odswiez();
+  }
+</script>

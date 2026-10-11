@@ -14,7 +14,9 @@
 //   [data-pusto]             – komunikat pokazywany, gdy grupa jest widoczna, ale pusta
 //
 // Opcjonalnie (strony serii, 11.10.2026):
-//   lata          – [{ rok, ile }] → lista „Rok premiery"; wiersz potrzebuje data-rok
+//   lata          – [{ rok, ile, etykieta? }] → lista „Rok premiery" (podpis listy
+//                   zmienia etykietaLat, np. „Miesiąc premiery" na /nowosci/);
+//                   wiersz potrzebuje data-rok z tą samą wartością
 //   sortowanie    – lista „Sortuj"; sortuje rodzeństwo w obrębie rodzica (tbody,
 //                   siatka) po data-rok, data-cena, data-nazwa, data-numer
 //   tylkoDostepne – przełącznik „tylko w sprzedaży"; wiersz potrzebuje data-dostepny="1"
@@ -28,6 +30,7 @@ const {
   placeholder = 'numer lub nazwa, np. 10334 albo Sokół…',
   rzeczownik = 'zestawów',
   lata = null,
+  etykietaLat = 'Rok premiery',
   sortowanie = false,
   tylkoDostepne = false,
 } = Astro.props;
@@ -48,10 +51,10 @@ const {
 
   {lata && lata.length > 1 && (
     <div class="pf-pole">
-      <label for="pf-rok">Rok premiery</label>
+      <label for="pf-rok">{etykietaLat}</label>
       <select id="pf-rok">
-        <option value="">Wszystkie lata</option>
-        {lata.map((x) => <option value={String(x.rok)}>{x.rok} ({x.ile})</option>)}
+        <option value="">{etykietaLat === 'Rok premiery' ? 'Wszystkie lata' : 'Wszystkie'}</option>
+        {lata.map((x) => <option value={String(x.rok)}>{x.etykieta ?? x.rok} ({x.ile})</option>)}
       </select>
     </div>
   )}

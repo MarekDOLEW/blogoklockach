@@ -10,6 +10,10 @@ import { obrazPlynny } from '../lib/media.js';
 //   { numer, nazwa, opis, seria, rok, elementy, zdjecie, hub,
 //     status: 'sprzedaz' | 'eol' | 'potwierdzone' | 'przewidywane',
 //     eolLego, kiedy, oferta: { sklep, cena } | null, link, cenaKatalogowa }
+// Opcjonalnie (Nowości, 11.10.2026): znaczek { klasa, tekst } zamiast badge'a
+// statusu, rokEtykieta w wierszu meta zamiast `rok` (np. „październik 2026"),
+// brakCeny – tekst zamiast „brak w sprzedaży" (zapowiedź: „cena nieujawniona").
+// Prop `filtrowalne={false}` – wiersze bez data-wiersz, FiltrSetow ich nie widzi.
 //
 // Kolumna statusu (jedno źródło znaczeń: src/lib/status.js):
 //   w sprzedaży            – ktoś sprzedaje; z dopiskiem „EOL", gdy LEGO już
@@ -39,7 +43,7 @@ const dataKrotka = (d) => {
   return m ? `${m[2]}.${m[1]}` : null;
 };
 
-const { wiersze = [], naglowekCeny = 'Najniższa cena' } = Astro.props;
+const { wiersze = [], naglowekCeny = 'Najniższa cena', filtrowalne = true } = Astro.props;
 
 const BADGE = {
   sprzedaz: { klasa: 'badge-status badge-status--sprzedaz', tekst: 'w sprzedaży' },
@@ -49,7 +53,7 @@ const BADGE = {
 };
 
 const meta = (w) =>
-  [w.seria, w.rok, w.elementy ? `${fmtElementy(w.elementy)} el.` : null].filter(Boolean).join(' · ');
+  [w.seria, w.rokEtykieta ?? w.rok, w.elementy ? `${fmtElementy(w.elementy)} el.` : null].filter(Boolean).join(' · ');
 ---
 
 <div class="tabela-setow-wrap">
@@ -65,13 +69,13 @@ const meta = (w) =>
     </thead>
     <tbody>
       {wiersze.map((w) => {
-        const badge = w.status === 'eol' && !w.eolPewny
+        const badge = w.znaczek ?? (w.status === 'eol' && !w.eolPewny
           ? { klasa: 'badge-status badge-status--eol', tekst: ETYKIETY_WYCOFANIA.brakWLego }
-          : (BADGE[w.status] ?? BADGE.sprzedaz);
+          : (BADGE[w.status] ?? BADGE.sprzedaz));
         return (
           <tr
             id={`set-${w.numer}`}
-            data-wiersz
+            data-wiersz={filtrowalne ? '' : undefined}
             data-numer={w.numer}
             data-nazwa={w.nazwa}
             data-seria={w.seria}
@@ -145,7 +149,7 @@ const meta = (w) =>
               ) : w.link ? (
                 <a class="set-sprawdz" href={w.link} rel={relSklepu(sklepZLinku(w.link), w.numer)}>Sprawdź cenę →</a>
               ) : (
-                <span class="set-brak-ceny">brak w sprzedaży</span>
+                <span class="set-brak-ceny">{w.brakCeny ?? 'brak w sprzedaży'}</span>
               )}
             </td>
           </tr>
