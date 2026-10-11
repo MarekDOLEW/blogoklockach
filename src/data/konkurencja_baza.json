@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-10",
-    "przebieg": "scheduled 2026-10-10 08:00",
+    "ostatnia_aktualizacja": "2026-10-11",
+    "przebieg": "scheduled 2026-10-11 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 275,
+    "liczba_wpisow": 277,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -23,7 +23,8 @@
       "2026-10-07": "Dziewiec wpisow, nic do piatki - i to po sprawdzeniu, nie z lenistwa. Dwaj kandydaci rozsypali sie pod reka: (1) BLDP seria 9 - faniklockow podaje 'rowno o 17.00', czyli nasza godzine, wiec wczorajsza decyzja o nieruszaniu kalendarza na podstawie ich 16:15 byla sluszna; nasz tekst nie wymaga zmiany. (2) Dni Prime - okno potwierdzone u zrodla (Amazon.pl: 6-7.10), ale konczy sie dzisiaj, Amazona nie mamy w danych cenowych, a program afiliacyjny jest rozstrzygniety w afiliacje_rejestr.json od 08.2026 (PA-API wylaczone, nastepca wymaga 10 sprzedazy w 30 dniach, wracac przy realnej sprzedazy). Nie odgrzewam zamknietej decyzji jako zadania. Przy okazji zasada na przyszlosc: ostrzezen konkurencji przed nazwanymi firmami (dzis MiniVerse.pl) NIE przedrukowujemy - albo weryfikujemy sami, albo nic.",
       "2026-10-08": "Cztery wpisy, jedna pozycja do raportu - i wyszla z niej poprawka u nas, nie u nich. Gratis progowy w Media Expert (43018 do zakupow od 2500 zl) obnazyl falszywe zdanie w FAQ kalendarza o tym, ze gratisy GWP sa wylacznie w sklepie LEGO. Poprawione, razem z regula o wartosci gratisu liczonej w cenie katalogowej zamiast rynkowej - to drugi raz w tym tygodniu, gdy publikacja konkurencji posluzyla nie jako temat do napisania, ale jako test naszych wlasnych tresci (06.10 bylo 'piatej serii' w bloku BLDP). Warto to robic swiadomie: czytac ich teksty takze jako liste twierdzen do sprawdzenia u siebie.",
       "2026-10-09": "Dziewiec wpisow i pierwszy od dawna przebieg, w ktorym konkurencja dala nam realna tresc, a nie tylko test naszych twierdzen: zywe okno gratisowe na LEGO.pl od 08.10 (prog 450 zl, 40772 albo 40760) weszlo do kalendarza jako #gratis-pazdziernik. Druga rzecz znaleziona przy okazji i wazniejsza, niz wyglada: lista 'co trwa teraz' na gorze kalendarza wciaz trzymala wrzesniowe gratisy halloweenowe ze statusem 'trwa', nagiete dziewiec dni po zamknieciu okna. Strona, ktorej calym zadaniem jest mowic, co trwa DZISIAJ, klamala na samej gorze. Poprawione na 'zamkniete'. WNIOSEK NA KAZDY KOLEJNY PRZEBIEG: sprawdzac te liste pod kate daty, nie tylko dopisywac do niej nowe okna.",
-      "2026-10-10": "Trzy wpisy, jedna pozycja - i pierwszy raz od dawna taka, ktorej sam nie zamkne. Proshop ma najtansze oferty na dwa wycofywane zestawy Star Wars (75397 za 1639, 75382 za 769), a my nie pokazujemy ani tych cen, ani linku, bo zgloszenie afiliacyjne przez Awin wisi ze statusem 'wyslane' od 19.08.2026. Siedem tygodni przed Black Friday to zly moment, zeby nie miec dostepu do sklepu, ktory bije nasza najtansza oferte o 60 zl na jednym zestawie i o 60 na drugim. To pozycja dla Marka, nie dla mnie: recznie wpisanych cen Proshopu nie dodaje, bo bez feedu nie ma czym ich odswiezac. Rozniaca sie od sprawy Amazona tym, ze tam decyzja byla zamknieta ('wracac przy realnej sprzedazy'), a tu status to 'wyslane', czyli czekamy na odpowiedz i mozna ja ponaglic."
+      "2026-10-10": "Trzy wpisy, jedna pozycja - i pierwszy raz od dawna taka, ktorej sam nie zamkne. Proshop ma najtansze oferty na dwa wycofywane zestawy Star Wars (75397 za 1639, 75382 za 769), a my nie pokazujemy ani tych cen, ani linku, bo zgloszenie afiliacyjne przez Awin wisi ze statusem 'wyslane' od 19.08.2026. Siedem tygodni przed Black Friday to zly moment, zeby nie miec dostepu do sklepu, ktory bije nasza najtansza oferte o 60 zl na jednym zestawie i o 60 na drugim. To pozycja dla Marka, nie dla mnie: recznie wpisanych cen Proshopu nie dodaje, bo bez feedu nie ma czym ich odswiezac. Rozniaca sie od sprawy Amazona tym, ze tam decyzja byla zamknieta ('wracac przy realnej sprzedazy'), a tu status to 'wyslane', czyli czekamy na odpowiedz i mozna ja ponaglic.",
+      "2026-10-11": "Dwie publikacje, ale jedna z nich doprowadzila do najwazniejszego znaleziska tego tygodnia - i znowu u nas. Ich okazja na 75419 kazala mi sprawdzic nasz wpis i okazalo sie, ze tego zestawu NIE MA w sety.json. Policzone szerzej: 19 zestawow DOSTEPNYCH, z RRP >= 1000 zl i co najmniej dwiema ofertami, nie jest sledzonych - m.in. 71043 Zamek Hogwart (-26%, 1509 wobec 2049,99, piec ofert), 75640 Baratie (-32%, 886,98 wobec 1299,99, siedem ofert), 43263 Zamek z Pieknej i Bestii (-23%), 21359 Wloska riwiera (-20%), 75419 Gwiazda Smierci (-14% u nas, -23% na Amazonie). Blok 'Dzis w dobrej cenie' iteruje po sety.json, wiec zadnego z nich nie zobaczy, zaden nie ma sledzonego minimum i zaden nie moze dostac postu dealowego. UWAGA METODOLOGICZNA na przyszlosc: pierwsza moja miara byla bledna - policzylem 5688 setow 'bez ceny katalogowej w ceny_baza' i prawie zglosilem to jako dziure. To NIE jest dziura, tylko zaprojektowany zakres: oferty_feed.json jest migawka dla wszystkich setow z feedow (miniatury i tabele cen w hubach), a sety.json i ceny_baza.json obejmuja zestawy sledzone, z personami i minimami - mowi to wprost _meta samego oferty_feed. Nie porownywac tych dwoch populacji jak rownych."
     }
   },
   "publikacje": [
@@ -3297,6 +3298,30 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Wywiad wideo z kolekcjonerem rzadkich minifigurek ze Skaerbaek Fan Weekend - format osobisty, ktorego nie prowadzimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Star Wars) – 75419 Gwiazda Śmierci",
+      "url": "https://faniklockow.pl/2026/10/10/okazja-cenowa-star-wars-75419-gwiazda-smierci-3",
+      "data_publikacji": "2026-10-10",
+      "data_wykrycia": "2026-10-11",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "amazon"
+      ],
+      "notatki": "Amazon ma 75419 Gwiazda Smierci za 3249 zl (-23%), opisane jako 'historycznie najtaniej'. Nasze dane to potwierdzaja: najtaniej pokazujemy 3599 (Ceneo), a najnizszy wpis w calej naszej historii cen to te same 3599 z 27.09 (Allegro). Amazona nie sledzimy (decyzja zamknieta w afiliacje_rejestr.json), ale ta publikacja odkryla wieksza rzecz u nas - patrz obserwacja z 11.10: 75419 NIE JEST w sety.json, czyli nie jest zestawem sledzonym, i nie moze trafic do bloku 'Dzis w dobrej cenie' ani dostac postu dealowego, choc ma u nas trzy oferty i RRP 4199,99."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO® Icons na 2026 rok",
+      "url": "https://faniklockow.pl/2026/10/10/zapowiedzi-serii-icons-na-2026-rok",
+      "data_publikacji": "2026-10-10",
+      "data_wykrycia": "2026-10-11",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejna pozycja z ich serii zbiorczych zapowiedzi, tym razem Icons na 2026 (rocznik biezacy, wiec wiekszosc juz w sprzedazy). Material dla Scouta."
     }
   ],
   "obserwacje_strategiczne": {

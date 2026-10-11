@@ -118,6 +118,41 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-11 08:20 · RADAR · Do zrobienia
+
+**faniklockow.pl · 10.10** — Pokazali 75419 Gwiazdę Śmierci na Amazonie za 3249 zł jako „historycznie najtaniej"; nasze dane to potwierdzają, bo najniższy wpis w całej naszej historii cen to 3599 zł (27.09, Allegro).
+**Mamy?** — nie tak, jak powinniśmy: 75419 **nie jest zestawem śledzonym** w `sety.json`, więc nie wchodzi do bloku „Dziś w dobrej cenie", nie ma śledzonego minimum i nie może dostać postu dealowego — przy trzech ofertach u nas i RRP 4199,99.
+**Zrobić:** — dopisać do śledzonych 19 zestawów dostępnych, po RRP od 1000 zł i z min. dwiema ofertami, których tam nie ma.
+**Kto:** — Code (dane, strona), osobnym przebiegiem
+
+Pełna lista najpilniejszych z tych 19, licząc rabat od ceny katalogowej z `katalog.json`
+i najtańszej oferty z `oferty_feed.json`:
+
+| Zestaw | RRP | Najtaniej u nas | Rabat | Ofert |
+|---|---|---|---|---|
+| 75640 Baratie (One Piece) | 1299,99 | 886,98 | −32% | 7 |
+| 71043 Zamek Hogwart | 2049,99 | 1509 | −26% | 5 |
+| 43263 Zamek z Pięknej i Bestii | 1199,99 | 921,94 | −23% | 4 |
+| 21359 Włoska riwiera (Ideas) | 1199,99 | 957,58 | −20% | 4 |
+| 76457 Hogsmeade – edycja kolekcjonerska | 1649,99 | 1424,51 | −14% | 3 |
+| 75419 Gwiazda Śmierci | 4199,99 | 3599 | −14% | 3 |
+
+Blok „Dziś w dobrej cenie" iteruje po `sety.json`, więc żadnego z nich nie widzi.
+Przy progu 15% i obowiązkowych kategoriach cztery pierwsze kwalifikowałyby się od razu.
+
+**Dlaczego nie robię tego w tym przebiegu:** każdy dopisany zestaw potrzebuje notki
+`dla_rodzica` i `dla_afol` — bez nich hub jest ubogi i nie łapie progu 300 znaków
+tekstu redakcyjnego z `src/lib/seo.js`. Dziewiętnaście zestawów to osobne zadanie,
+nie doklejka do Radaru, który ma działać zwięźle.
+
+**Uwaga metodologiczna, żeby nikt nie powtórzył mojego błędu.** Pierwsza miara, którą
+policzyłem, była fałszywa: 5688 zestawów „bez ceny katalogowej w `ceny_baza.json`"
+i prawie zgłosiłem to jako dziurę w danych. To nie dziura, a **zaprojektowany zakres**:
+`oferty_feed.json` jest migawką dla wszystkich setów z feedów (miniatury, tabele cen
+w hubach), a `sety.json` i `ceny_baza.json` obejmują zestawy śledzone — mówi to wprost
+`_meta` samego `oferty_feed`. Tych dwóch populacji nie wolno porównywać jak równych.
+
+
 ## 2026-10-10 18:00 · CODE · Archiwizacja dziennika nie wywozi już otwartych zadań
 
 `scripts/archiwum-dziennika.mjs` zatrzymuje w dzienniku (niezależnie od wieku) wpis
