@@ -46,23 +46,33 @@ const jsonld = [
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>W obserwacji <small class="sekcja-licznik">{st.otwarte}</small></h2>
       </div>
-      <div class="tabela-setow-wrap">
-        <table class="tabela-setow tabela-przeciekow">
-          <thead><tr><th>Zestaw</th><th>Seria</th><th>Elementy</th><th>Cena wg źródła</th><th>Termin</th><th>Pewność</th><th>Źródło</th></tr></thead>
-          <tbody>
-            {otwarte.map((p) => (
-              <tr id={`p-${p.id}`}>
-                <td><strong>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</strong>{p.hub && <> · <a href={p.hub} target="_blank" rel="noopener">strona zestawu</a></>}{p.uwagi && <div class="p-uwagi">{p.uwagi}</div>}</td>
-                <td>{p.seria}</td>
-                <td>{p.elementy ? `~${p.elementy.toLocaleString('pl-PL')}` : '–'}</td>
-                <td>{p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : '–'}</td>
-                <td>{terminPl(p.premiera_wg_zrodla)}</td>
-                <td><span class={PEWNOSC[p.pewnosc].klasa}>{PEWNOSC[p.pewnosc].etykieta}</span></td>
-                <td class="p-zrodla">{p.zrodla.map((z, i) => <>{i > 0 && ', '}{z.url ? <a href={z.url} rel={z.url.startsWith('/') ? undefined : 'nofollow noopener'} target={z.url.startsWith('/') ? undefined : '_blank'}>{z.nazwa}</a> : z.nazwa}{z.data && <small> ({dataPl(z.data)})</small>}</>)}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      {/* Karty zamiast tabeli (11.10.2026): opis w kolumnie tabeli miał ~220 px
+          szerokości i jeden wpis zajmował cały ekran. Teraz fakty stoją w jednym
+          wierszu, opis idzie na całą szerokość i zwija się do 5 linii. Pełny
+          tekst jest w HTML – skrypt tylko go przycina i dokłada „Czytaj dalej". */}
+      <div class="przecieki-lista">
+        {otwarte.map((p) => (
+          <article class="karta przeciek" id={`p-${p.id}`}>
+            <div class="przeciek__glowa">
+              <h3>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</h3>
+              <span class={PEWNOSC[p.pewnosc].klasa}>{PEWNOSC[p.pewnosc].etykieta}</span>
+            </div>
+            <ul class="przeciek__fakty">
+              <li><span>Seria</span>{p.seria}</li>
+              <li><span>Termin</span>{terminPl(p.premiera_wg_zrodla)}</li>
+              <li><span>Cena wg źródła</span>{p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : '–'}</li>
+              <li><span>Elementy</span>{p.elementy ? `~${p.elementy.toLocaleString('pl-PL')}` : '–'}</li>
+              {p.hub && <li class="przeciek__hub"><a href={p.hub} target="_blank" rel="noopener">strona zestawu →</a></li>}
+            </ul>
+            {p.uwagi && (
+              <>
+                <p class="przeciek__opis">{p.uwagi}</p>
+                <button type="button" class="przeciek__wiecej" aria-expanded="false" hidden>Czytaj dalej</button>
+              </>
+            )}
+            <p class="przeciek__zrodla"><span>{p.zrodla.length > 1 ? 'Źródła:' : 'Źródło:'}</span> {p.zrodla.map((z, i) => <>{i > 0 && ' · '}{z.url ? <a href={z.url} rel={z.url.startsWith('/') ? undefined : 'nofollow noopener'} target={z.url.startsWith('/') ? undefined : '_blank'}>{z.nazwa}</a> : z.nazwa}{z.data && <small> ({dataPl(z.data)})</small>}</>)}</p>
+          </article>
+        ))}
       </div>
     </section>
 
@@ -113,7 +123,46 @@ const jsonld = [
   </article>
 </Base>
 
+<script>
+  // Opis przecieku: 5 linii, reszta po „Czytaj dalej". Przycinamy tylko te,
+  // które naprawdę są dłuższe – krótki opis nie dostaje zbędnego przycisku.
+  for (const opis of document.querySelectorAll('.przeciek__opis')) {
+    const btn = opis.nextElementSibling;
+    opis.classList.add('przeciek__opis--zwiniety');
+    if (opis.scrollHeight - opis.clientHeight < 4) {
+      opis.classList.remove('przeciek__opis--zwiniety');
+      continue;
+    }
+    btn.hidden = false;
+    btn.addEventListener('click', () => {
+      const zwiniety = opis.classList.toggle('przeciek__opis--zwiniety');
+      btn.setAttribute('aria-expanded', String(!zwiniety));
+      btn.textContent = zwiniety ? 'Czytaj dalej' : 'Zwiń';
+      if (zwiniety) opis.closest('.przeciek').scrollIntoView({ block: 'nearest' });
+    });
+  }
+</script>
+
 <style is:global>
+  .przecieki-lista { display: grid; gap: 14px; }
+  .przeciek { padding: 16px 20px; }
+  .przeciek__glowa { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+  .przeciek__glowa h3 { margin: 0; font-size: 1.1rem; line-height: 1.3; }
+  .przeciek__fakty { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 0.92rem; font-weight: 600; color: var(--granat); }
+  .przeciek__fakty li { display: flex; flex-direction: column; }
+  .przeciek__fakty li span { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--granat-60); }
+  .przeciek__fakty .przeciek__hub { justify-content: flex-end; }
+  .przeciek__opis { margin: 12px 0 0; font-size: 0.93rem; line-height: 1.55; color: var(--granat); }
+  .przeciek__opis--zwiniety { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 5; line-clamp: 5; overflow: hidden; }
+  .przeciek__wiecej { margin-top: 4px; padding: 4px 0; border: 0; background: none; font: inherit; font-size: 0.88rem; font-weight: 700; color: var(--granat); text-decoration: underline; text-decoration-color: var(--zolty); text-decoration-thickness: 2px; text-underline-offset: 3px; cursor: pointer; }
+  .przeciek__zrodla { margin: 10px 0 0; padding-top: 10px; border-top: 1px solid var(--linia); font-size: 0.84rem; line-height: 1.5; }
+  .przeciek__zrodla > span { font-weight: 700; color: var(--granat-60); }
+  .przeciek__zrodla small { color: var(--granat-60); }
+  @media (max-width: 600px) {
+    .przeciek { padding: 14px 16px; }
+    .przeciek__glowa { flex-direction: column; gap: 6px; }
+    .przeciek__fakty { gap: 6px 16px; }
+  }
   .eol-aktualizacja { font-size: 0.85rem; opacity: 0.7; margin: 4px 0 14px; }
   .sekcja-licznik { font-weight: 600; color: var(--granat-60); font-size: 0.8em; margin-left: 4px; }
   .eol-faq-wpis { padding: 14px 18px; margin: 12px 0; }
