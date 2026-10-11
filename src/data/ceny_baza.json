@@ -3,7 +3,7 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-10-10",
+  "zaktualizowano": "2026-10-11",
   "zrodlo_ostatniego_przebiegu": "scripts/feedy-lego.py: ME (updated 2026-09-22 00:30 CEST, swiezy) + PK + Allegro (feed kategorii Dziecko); weryfikacja PK rotacyjna WebFetch; stala lista niedostepnych PK aktualna; filtry: prog Allegro 50% RRP, gadzety po rdzeniach, konflikt numeru z nazwy"
  },
  "21372": {
@@ -135,8 +135,8 @@
  "11386": {
   "nazwa": "SpongeBob Kanciastoporty: Bikini Dolne",
   "cena_katalogowa": 899.99,
-  "najnizsza_cena": 701.73,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 701.24,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "11513": {
@@ -275,9 +275,9 @@
  "72051": {
   "nazwa": "Automat do gry Donkey Kong",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 550.98,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 539.0,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "21066": {
   "nazwa": "Nowy Jork — Wielkie Jabłko",
@@ -604,8 +604,8 @@
  "43293": {
   "nazwa": "Kakamora",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 114.9,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 110.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76473": {
@@ -1192,9 +1192,9 @@
  "76352": {
   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 372.99,
-  "najnizsza_data": "2026-10-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 372.8,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "43294": {
   "nazwa": "Mała wieża Roszpunki",
@@ -1234,8 +1234,8 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 321.73,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 321.24,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76340": {
@@ -1486,8 +1486,8 @@
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 392.99,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 390.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "72158": {
@@ -1612,8 +1612,8 @@
  "60440": {
   "nazwa": "Żółta ciężarówka dostawcza",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 399,
-  "najnizsza_data": "2026-10-01",
+  "najnizsza_cena": 395.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "10463": {
@@ -1864,8 +1864,8 @@
  "77984": {
   "nazwa": "Jurassic Park Jeep Wrangler",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 749.9,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 749.89,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "75442": {
@@ -2109,8 +2109,8 @@
  "76454": {
   "nazwa": "Zamek Hogwart: Główna wieża",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 745,
-  "najnizsza_data": "2026-10-04",
+  "najnizsza_cena": 737.76,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "71814": {
@@ -2207,9 +2207,9 @@
  "10428": {
   "nazwa": "Duży interaktywny pociąg miejski",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 417.4,
-  "najnizsza_data": "2026-09-12",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 406.5,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "71822": {
   "nazwa": "Smoczyca źródła ruchu",
@@ -2340,9 +2340,9 @@
  "76324": {
   "nazwa": "Spider-Man i Oscorp",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 396.85,
-  "najnizsza_data": "2026-09-05",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 390.0,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "71425": {
   "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
@@ -2438,8 +2438,8 @@
  "43224": {
   "nazwa": "Zamek króla Magnifico",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 230,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 227.77,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "42210": {
@@ -2788,9 +2788,9 @@
  "75379": {
   "nazwa": "R2-D2",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 292.17,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 288.0,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "76429": {
   "nazwa": "Mówiąca Tiara Przydziału",
@@ -2830,8 +2830,8 @@
  "42605": {
   "nazwa": "Stacja kosmiczna i rakieta",
   "cena_katalogowa": 389.99,
-  "najnizsza_cena": 313,
-  "najnizsza_data": "2026-10-03",
+  "najnizsza_cena": 312.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "75329": {
@@ -2963,8 +2963,8 @@
  "41744": {
   "nazwa": "Centrum sportowe",
   "cena_katalogowa": 409.99,
-  "najnizsza_cena": 310.99,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 299.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "71834": {
@@ -3334,8 +3334,8 @@
  "43304": {
   "nazwa": "Pixar Konne ranczo Blaze'a",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 125,
-  "najnizsza_data": "2026-09-22",
+  "najnizsza_cena": 116.99,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "43279": {
@@ -4251,8 +4251,8 @@
  "42609": {
   "nazwa": "Samochód elektryczny i stacja ładująca",
   "cena_katalogowa": 64.99,
-  "najnizsza_cena": 55.93,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 54.99,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76907": {
@@ -4377,8 +4377,8 @@
  "10983": {
   "nazwa": "Ryneczek bio",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 76.99,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 74.98,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76443": {
@@ -5063,8 +5063,8 @@
  "75444": {
   "nazwa": "Atak AT-RT",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 124.0,
-  "najnizsza_data": "2026-10-08",
+  "najnizsza_cena": 116.99,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "42662": {
@@ -5469,9 +5469,9 @@
  "71512": {
   "nazwa": "Krokodylołódź podwodna",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 179,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 178.99,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "allegro"
  },
  "71420": {
   "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
@@ -6078,8 +6078,8 @@
  "40820": {
   "nazwa": "Powiększona minifigurka Świętego Mikołaja",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 181.59,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 180.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "mediaexpert"
  },
  "42616": {
@@ -6190,8 +6190,8 @@
  "11040": {
   "nazwa": "Magiczny zestaw z przezroczystymi klockami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 56.89,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 55.9,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "mediaexpert"
  },
  "71823": {
@@ -6309,8 +6309,8 @@
  "40911": {
   "nazwa": "Małe Centrum Pokémonów",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 158.2,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 158.14,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76449": {
@@ -6519,8 +6519,8 @@
  "40922": {
   "nazwa": "Lilo i Stitch: Andzia",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 67.96,
-  "najnizsza_data": "2026-10-08",
+  "najnizsza_cena": 62.98,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "10455": {
@@ -6995,8 +6995,8 @@
  "10966": {
   "nazwa": "Zabawa w kąpieli: pływająca wyspa ze zwierzątkami",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 128.0,
-  "najnizsza_data": "2026-10-09",
+  "najnizsza_cena": 127.89,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "43220": {
@@ -7205,8 +7205,8 @@
  "10342": {
   "nazwa": "Piękny bukiet różowych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 169.0,
-  "najnizsza_data": "2026-10-08",
+  "najnizsza_cena": 168.68,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "42650": {
@@ -7394,8 +7394,8 @@
  "41447": {
   "nazwa": "Park w Heartlake City",
   "cena_katalogowa": 179.99,
-  "najnizsza_cena": 139,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 137.0,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "76467": {
@@ -7618,8 +7618,8 @@
  "42643": {
   "nazwa": "Stoisko z watą cukrową i skuter",
   "cena_katalogowa": 42.99,
-  "najnizsza_cena": 35,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 34.9,
+  "najnizsza_data": "2026-10-11",
   "najnizsza_sklep": "allegro"
  },
  "42614": {
