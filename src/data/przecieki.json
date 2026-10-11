@@ -14,7 +14,8 @@
   "zaktualizowano": "2026-10-11",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
-   "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie"
+   "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
+   "co_sie_zmienilo": "rozstrzygniecie.co_sie_zmienilo – tekst dla czytelnika na /przecieki/ (1–3 zdania, bez języka roboczego); uzasadnienia i korekty idą do uwagi (od 11.10.2026)"
   }
  },
  "przecieki": [
@@ -61,11 +62,11 @@
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Coroczny zestaw zimowy Icons; nazwa robocza.",
+   "uwagi": "Coroczny zestaw zimowy Icons; nazwa robocza.\n\nRozstrzygnięcie – notatka robocza z 2026-09-16 (do 11.10.2026 w polu co_sie_zmienilo): Numer i liczba elementów (1354) zgodne z przeciekiem, termin też — start 2026-10-01, czyli w zapowiadanym oknie. Przeciek nie podawał ceny, więc nie ma czego porównać. Różni się nazwa: robocza „Zimowa wioska 2026” kontra oficjalna „Holiday House” (u nas „Świąteczny dom”). Potwierdzenie: ceny lego.com na czterech rynkach w karcie Brickset (dateFirstAvailable 2026-09-16) oraz oficjalna prezentacja opisana przez StoneWars 15.09.",
    "rozstrzygniecie": {
     "kiedy": "2026-09-16",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Numer i liczba elementów (1354) zgodne z przeciekiem, termin też — start 2026-10-01, czyli w zapowiadanym oknie. Przeciek nie podawał ceny, więc nie ma czego porównać. Różni się nazwa: robocza „Zimowa wioska 2026” kontra oficjalna „Holiday House” (u nas „Świąteczny dom”). Potwierdzenie: ceny lego.com na czterech rynkach w karcie Brickset (dateFirstAvailable 2026-09-16) oraz oficjalna prezentacja opisana przez StoneWars 15.09."
+    "co_sie_zmienilo": "Numer, liczba elementów (1354) i październikowy termin zgodne z przeciekiem; ceny przeciek nie podawał. Inna okazała się tylko nazwa – oficjalnie „Holiday House”, u nas „Świąteczny dom”."
    }
   },
   {
@@ -273,11 +274,11 @@
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": null,
+   "uwagi": "Rozstrzygnięcie – notatka robocza z 2026-10-09 (do 11.10.2026 w polu co_sie_zmienilo): Numer, nazwa i termin zgodne. Brickset 2026-10-08 uzupełnił kartę: „The Marvel Skyline”, motyw Marvel, podseria Miscellaneous, 1261 elementów, 18+, launchDate 2027-01-01, zdjęcia (16 dodatkowych) i ceny detaliczne w US, UK, CA i DE (99,99 euro) z dateFirstAvailable 2026-10-09. StoneWars tego samego dnia opisał oficjalną prezentację. Jedyna różnica wobec przecieku to jeden element: źródło podawało 1260, katalog ma 1261. Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-09",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Numer, nazwa i termin zgodne. Brickset 2026-10-08 uzupełnił kartę: „The Marvel Skyline”, motyw Marvel, podseria Miscellaneous, 1261 elementów, 18+, launchDate 2027-01-01, zdjęcia (16 dodatkowych) i ceny detaliczne w US, UK, CA i DE (99,99 euro) z dateFirstAvailable 2026-10-09. StoneWars tego samego dnia opisał oficjalną prezentację. Jedyna różnica wobec przecieku to jeden element: źródło podawało 1260, katalog ma 1261. Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json."
+    "co_sie_zmienilo": "Numer, nazwa i termin (styczeń 2027) zgodne. Przeciek mówił o 1260 elementach, katalog podaje 1261. Ceny przeciek nie podawał; w Niemczech zestaw kosztuje 99,99 euro."
    }
   },
   {
@@ -322,11 +323,11 @@
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).",
+   "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).\n\nRozstrzygnięcie – notatka robocza z 2026-10-06 (do 11.10.2026 w polu co_sie_zmienilo): Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę. KOREKTA 11.10.2026, dokładnie wedle zastrzeżenia zapisanego 6 października. Polska cena katalogowa weszła do feedu producenta i wynosi 259,99 zł. Przeciek podawał 215 zł, czyli różnica to niemal 21 procent — poza pasmem ±10 procent, które reguła wymaga dla wyniku „potwierdzony”. Zmieniam więc wynik z „potwierdzony” na „zmieniony”: numer, nazwa i termin były trafione, cena nie. Zostawiam oba zapisy, pierwotny i ten, żeby widać było, że korekta wynikła z warunku postawionego z góry, a nie z późniejszego dopasowywania oceny do faktów.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-06",
     "wynik": "zmieniony",
-    "co_sie_zmienilo": "Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę. KOREKTA 11.10.2026, dokładnie wedle zastrzeżenia zapisanego 6 października. Polska cena katalogowa weszła do feedu producenta i wynosi 259,99 zł. Przeciek podawał 215 zł, czyli różnica to niemal 21 procent — poza pasmem ±10 procent, które reguła wymaga dla wyniku „potwierdzony”. Zmieniam więc wynik z „potwierdzony” na „zmieniony”: numer, nazwa i termin były trafione, cena nie. Zostawiam oba zapisy, pierwotny i ten, żeby widać było, że korekta wynikła z warunku postawionego z góry, a nie z późniejszego dopasowywania oceny do faktów.",
+    "co_sie_zmienilo": "Numer, nazwa i termin (styczeń 2027) trafione – oficjalnie to „Batman Returns Batmobile & Duck”, z gumową kaczką w komplecie. Nie zgodziła się cena: przeciek mówił o ok. 215 zł, a polska cena katalogowa to 259,99 zł, prawie 21% więcej. Za trafienie uznajemy różnicę do 10%, dlatego ten przeciek liczymy jako „wszedł, ale inaczej”.",
     "skorygowane": "2026-10-11"
    }
   },
@@ -382,11 +383,11 @@
     }
    ],
    "dodano": "2026-09-21",
-   "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.",
+   "uwagi": "Katalog potwierdza numer, 276 elementów, formę (availability „LEGO Gift with Purchase”) i datę startu 2026-10-01. NAZWY nie potwierdza — karta Brickset ma „{?}”. Nazwa „Astro Bot” pochodzi wyłącznie z PromoBricks: 09.09 serwis powoływał się na przeciek z Reddita, 21.09 podaje ją już w nagłówku bez zastrzeżeń. StoneWars od 05.09 stawia pytanie, czy to gratis czy osobny zestaw, i nazwy nie potwierdził. Dwa teksty jednego serwisu to nadal jedno źródło, stąd „srednia”, nie „wysoka”.\n\nRozstrzygnięcie – notatka robocza z 2026-09-26 (do 11.10.2026 w polu co_sie_zmienilo): Nic. Karta Brickset ma od 25.09.2026 oficjalną nazwę „Astro Bot” zamiast „{?}”, seria PlayStation, 276 elementów, start 1.10.2026, availability „LEGO Gift with Purchase”, wiek 18+. StoneWars tego samego dnia opisał oficjalną prezentację w sklepie LEGO. Numer, forma gratisu i termin zgodne z przeciekiem PromoBricks z 09.09; ceny przeciek nie podawał, bo to GWP (LEGO deklaruje wartość 19,99 euro). Zestaw dołożony do sety.json.",
    "rozstrzygniecie": {
     "kiedy": "2026-09-26",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Nic. Karta Brickset ma od 25.09.2026 oficjalną nazwę „Astro Bot” zamiast „{?}”, seria PlayStation, 276 elementów, start 1.10.2026, availability „LEGO Gift with Purchase”, wiek 18+. StoneWars tego samego dnia opisał oficjalną prezentację w sklepie LEGO. Numer, forma gratisu i termin zgodne z przeciekiem PromoBricks z 09.09; ceny przeciek nie podawał, bo to GWP (LEGO deklaruje wartość 19,99 euro). Zestaw dołożony do sety.json."
+    "co_sie_zmienilo": "Wszystko się zgodziło: numer, forma gratisu do zakupu i termin (1 października 2026). Oficjalna nazwa to „Astro Bot”, zestaw ma 276 elementów. Ceny przeciek nie podawał, bo to dodatek do zakupu."
    }
   },
   {
@@ -416,11 +417,11 @@
     }
    ],
    "dodano": "2026-09-23",
-   "uwagi": "Dowód po stronie producenta: StoneWars opisuje TEASER OD LEGO zapowiadający duży zestaw Dragon Ball na listopad, z minifigurką Goku. Karta 11390 w Brickset jest pusta — bez nazwy, elementów, ceny i daty; numer przypisuje wyłącznie StoneWars. Zapowiedź tematu przez LEGO nie jest tym samym co potwierdzenie danych katalogowych, dlatego zestaw zostaje w przeciekach. Pewność „srednia”: jedno źródło branżowe plus dowód (materiał LEGO). Do „wysokiej” brakuje drugiego serwisu zgodnego co do numeru i ceny. Jeśli się potwierdzi, byłaby to trzecia nowa licencja growo-rozrywkowa w katalogu po PlayStation i Zeldzie.",
+   "uwagi": "Dowód po stronie producenta: StoneWars opisuje TEASER OD LEGO zapowiadający duży zestaw Dragon Ball na listopad, z minifigurką Goku. Karta 11390 w Brickset jest pusta — bez nazwy, elementów, ceny i daty; numer przypisuje wyłącznie StoneWars. Zapowiedź tematu przez LEGO nie jest tym samym co potwierdzenie danych katalogowych, dlatego zestaw zostaje w przeciekach. Pewność „srednia”: jedno źródło branżowe plus dowód (materiał LEGO). Do „wysokiej” brakuje drugiego serwisu zgodnego co do numeru i ceny. Jeśli się potwierdzi, byłaby to trzecia nowa licencja growo-rozrywkowa w katalogu po PlayStation i Zeldzie.\n\nRozstrzygnięcie – notatka robocza z 2026-09-30 (do 11.10.2026 w polu co_sie_zmienilo): Nic istotnego. Termin zgodny: przeciek mówił „listopad”, Brickset podaje launchDate 2026-11-01. Numer zgodny. Nazwa oficjalna to „Dragon Ball: Shenron & Goku” — StoneWars pisał „Shenlong”, czyli tę samą postać w innej transliteracji. Doszły dane, których przeciek nie miał: 1764 elementy, wiek 18+, availability „Retail - limited”, RRP 139,99 euro (DE). Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json; polskiej ceny katalogowej LEGO jeszcze nie ogłosiło.",
    "rozstrzygniecie": {
     "kiedy": "2026-09-30",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Nic istotnego. Termin zgodny: przeciek mówił „listopad”, Brickset podaje launchDate 2026-11-01. Numer zgodny. Nazwa oficjalna to „Dragon Ball: Shenron & Goku” — StoneWars pisał „Shenlong”, czyli tę samą postać w innej transliteracji. Doszły dane, których przeciek nie miał: 1764 elementy, wiek 18+, availability „Retail - limited”, RRP 139,99 euro (DE). Ceny przeciek nie podawał, więc nie ma czego porównywać. Zestaw dołożony do sety.json; polskiej ceny katalogowej LEGO jeszcze nie ogłosiło."
+    "co_sie_zmienilo": "Numer i listopadowy termin zgodne. Oficjalna nazwa to „Dragon Ball: Shenron & Goku” – ta sama postać co w przecieku, tylko w innej transliteracji. Ceny przeciek nie podawał; polska cena katalogowa to 599,99 zł."
    }
   },
   {
@@ -518,11 +519,11 @@
     }
    ],
    "dodano": "2026-09-29",
-   "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.",
+   "uwagi": "StoneWars umieszcza numer wśród trzech październikowych gratisów, ale samą nazwę podaje ze znakiem zapytania — „[Restaurants of the World: Italy ?]”. Brickset rekord ma (motyw Promotional, rocznik 2026), lecz bez nazwy, liczby elementów, ceny i daty startu, a availability to „{Not specified}” (sprawdzone 29.09.2026 w pełnym zrzucie rocznika 2026). Dlatego numer i forma gratisu są wiarygodne, nazwa nie. Zestaw nie wchodzi do sety.json i nie liczy się do fali październikowej liczonej po launchDate.\n\nRozstrzygnięcie – notatka robocza z 2026-10-09 (do 11.10.2026 w polu co_sie_zmienilo): Nazwa, której StoneWars nie był pewny i podawał ze znakiem zapytania, okazała się trafiona co do słowa: katalog ma „Restaurants of the World: Italy”. Doszły dane: 317 elementów, wiek 12+, dziesięć zdjęć, podseria „Restaurants of the World”. Forma gratisu potwierdzona (availability „LEGO Gift with Purchase”). Termin: przeciek mówił o październiku 2026, StoneWars 08.10 podał okno 13–19 października 2026 i wartość 19,99 euro. Brickset ma launchDate 2027-10-13 — ten sam dzień i miesiąc, ale rok o jeden większy, przy polu `year` ustawionym na 2026; to wygląda na literówkę w roku po stronie katalogu, nie na inny termin. Przyjmujemy październik 2026. Zestaw dołożony do sety.json jako gratis bez ceny katalogowej.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-09",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Nazwa, której StoneWars nie był pewny i podawał ze znakiem zapytania, okazała się trafiona co do słowa: katalog ma „Restaurants of the World: Italy”. Doszły dane: 317 elementów, wiek 12+, dziesięć zdjęć, podseria „Restaurants of the World”. Forma gratisu potwierdzona (availability „LEGO Gift with Purchase”). Termin: przeciek mówił o październiku 2026, StoneWars 08.10 podał okno 13–19 października 2026 i wartość 19,99 euro. Brickset ma launchDate 2027-10-13 — ten sam dzień i miesiąc, ale rok o jeden większy, przy polu `year` ustawionym na 2026; to wygląda na literówkę w roku po stronie katalogu, nie na inny termin. Przyjmujemy październik 2026. Zestaw dołożony do sety.json jako gratis bez ceny katalogowej."
+    "co_sie_zmienilo": "Trafiona nawet nazwa, którą źródło podawało ze znakiem zapytania – oficjalnie „Restaurants of the World: Italy”. Zgodne są też forma gratisu do zakupu i termin, czyli akcja w połowie października 2026. Zestaw ma 317 elementów."
    }
   },
   {
@@ -547,11 +548,11 @@
     }
    ],
    "dodano": "2026-10-02",
-   "uwagi": "Dowód: oficjalne zdjęcia produktowe LEGO, udostępnione na Instagramie przez sklep JB Spielwaren — nie przez samo LEGO. StoneWars podaje 153 elementy, 2 minifigurki, UVP 19,99 euro, wiek 6+, start 1 stycznia 2027 i koniec produkcji 31 grudnia 2027. Katalog Brickset ma ten numer z OFICJALNĄ NAZWĄ zgodną z przeciekiem („Lloyd vs. Ras Spinner Battle”), ale bez liczby elementów, bez ceny i bez daty startu, `released` false (pełny zrzut rocznika 2027, 02.10.2026). Dlatego to przeciek, nie fakt: LEGO nie ujawniło fali styczniowej, a StoneWars sam spodziewa się oficjalnej odsłony na początku grudnia. Cena w złotych to przeliczenie 19,99 euro mnożnikiem 4,22 (84,36 zł) zaokrąglone do 10 zł.",
+   "uwagi": "Dowód: oficjalne zdjęcia produktowe LEGO, udostępnione na Instagramie przez sklep JB Spielwaren — nie przez samo LEGO. StoneWars podaje 153 elementy, 2 minifigurki, UVP 19,99 euro, wiek 6+, start 1 stycznia 2027 i koniec produkcji 31 grudnia 2027. Katalog Brickset ma ten numer z OFICJALNĄ NAZWĄ zgodną z przeciekiem („Lloyd vs. Ras Spinner Battle”), ale bez liczby elementów, bez ceny i bez daty startu, `released` false (pełny zrzut rocznika 2027, 02.10.2026). Dlatego to przeciek, nie fakt: LEGO nie ujawniło fali styczniowej, a StoneWars sam spodziewa się oficjalnej odsłony na początku grudnia. Cena w złotych to przeliczenie 19,99 euro mnożnikiem 4,22 (84,36 zł) zaokrąglone do 10 zł.\n\nRozstrzygnięcie – notatka robocza z 2026-10-03 (do 11.10.2026 w polu co_sie_zmienilo): Numer, nazwa, liczba elementów (153), wiek 6+ i termin — wszystko się zgadza. Brickset 2026-10-02 o 20:39 UTC uzupełnił kartę: oficjalna nazwa „Lloyd vs. Ras Spinner Battle”, podseria „Spinner Battle”, 153 elementy, availability „Retail”, zdjęcia oraz ceny detaliczne w US, UK, CA i DE (19,99 euro) z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyły. `launchDate` karta nadal ma puste. Cena z przecieku (19,99 euro) jest identyczna z katalogową. Zestaw dołożony do sety.json; polskiej ceny katalogowej jeszcze nie ma.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-03",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Numer, nazwa, liczba elementów (153), wiek 6+ i termin — wszystko się zgadza. Brickset 2026-10-02 o 20:39 UTC uzupełnił kartę: oficjalna nazwa „Lloyd vs. Ras Spinner Battle”, podseria „Spinner Battle”, 153 elementy, availability „Retail”, zdjęcia oraz ceny detaliczne w US, UK, CA i DE (19,99 euro) z dateFirstAvailable 2026-10-03 — czyli karty produktowe LEGO ruszyły. `launchDate` karta nadal ma puste. Cena z przecieku (19,99 euro) jest identyczna z katalogową. Zestaw dołożony do sety.json; polskiej ceny katalogowej jeszcze nie ma."
+    "co_sie_zmienilo": "Wszystko się zgodziło: numer, nazwa, 153 elementy i styczniowy termin. Cena z przecieku – 19,99 euro – jest identyczna z niemiecką ceną katalogową; w Polsce zestaw kosztuje 84,99 zł."
    }
   },
   {
@@ -576,11 +577,11 @@
     }
    ],
    "dodano": "2026-10-02",
-   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.",
+   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.\n\nRozstrzygnięcie – notatka robocza z 2026-10-03 (do 11.10.2026 w polu co_sie_zmienilo): To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-03",
     "wynik": "potwierdzony",
-    "co_sie_zmienilo": "To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json."
+    "co_sie_zmienilo": "Wszystkie liczby z przecieku potwierdzone co do jednego: 58 elementów i 9,99 euro w Niemczech. Zgodne są też numer, nazwa i styczniowy termin."
    }
   },
   {

@@ -86,21 +86,30 @@ const jsonld = [
       {rozstrzygniete.length === 0 ? (
         <p class="prose">Jeszcze nic – dział ruszył {st.odKiedyPl}. Gdy LEGO potwierdzi albo zaprzeczy któremuś z przecieków, wpis trafi tutaj z datą i wynikiem, a licznik na górze się zmieni.</p>
       ) : (
-        <div class="tabela-setow-wrap">
-          <table class="tabela-setow tabela-przeciekow">
-            <thead><tr><th>Zestaw</th><th>Przeciek mówił</th><th>Wynik</th><th>Co się zmieniło</th><th>Kiedy</th></tr></thead>
-            <tbody>
-              {rozstrzygniete.map((p) => (
-                <tr id={`p-${p.id}`}>
-                  <td><strong>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</strong>{p.hub && <> · <a href={p.hub} target="_blank" rel="noopener">strona zestawu</a></>}</td>
-                  <td>{[p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : null, terminPl(p.premiera_wg_zrodla), PEWNOSC[p.pewnosc].etykieta].filter(Boolean).join(' · ')}</td>
-                  <td><span class={WYNIK[p.rozstrzygniecie.wynik]?.klasa ?? 'badge-status'}>{WYNIK[p.rozstrzygniecie.wynik]?.etykieta ?? p.rozstrzygniecie.wynik}</span></td>
-                  <td>{p.rozstrzygniecie.co_sie_zmienilo ?? '–'}</td>
-                  <td>{dataPl(p.rozstrzygniecie.kiedy)}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <div class="przecieki-lista">
+          {rozstrzygniete.map((p) => (
+            <article class="karta przeciek przeciek--rozstrzygniety" id={`p-${p.id}`}>
+              <div class="przeciek__glowa">
+                <h3>{p.numer ? `${p.numer} ` : ''}{p.nazwa}</h3>
+                <span class={WYNIK[p.rozstrzygniecie.wynik]?.klasa ?? 'badge-status'}>{WYNIK[p.rozstrzygniecie.wynik]?.etykieta ?? p.rozstrzygniecie.wynik}</span>
+              </div>
+              <ul class="przeciek__fakty">
+                <li><span>Seria</span>{p.seria ?? '–'}</li>
+                <li><span>Przeciek: termin</span>{terminPl(p.premiera_wg_zrodla)}</li>
+                <li><span>Przeciek: cena</span>{p.cena_wg_zrodla ? `ok. ${fmt(p.cena_wg_zrodla)}` : '–'}</li>
+                <li><span>Pewność</span>{PEWNOSC[p.pewnosc].etykieta.replace(/^pewność /, '')}</li>
+                <li><span>Rozstrzygnięto</span>{dataPl(p.rozstrzygniecie.kiedy)}</li>
+                {p.hub && <li class="przeciek__hub"><a href={p.hub} target="_blank" rel="noopener">strona zestawu →</a></li>}
+              </ul>
+              {p.rozstrzygniecie.co_sie_zmienilo && (
+                <>
+                  <p class="przeciek__opis">{p.rozstrzygniecie.co_sie_zmienilo}</p>
+                  <button type="button" class="przeciek__wiecej" aria-expanded="false" hidden>Czytaj dalej</button>
+                </>
+              )}
+              <p class="przeciek__zrodla"><span>{p.zrodla.length > 1 ? 'Źródła przecieku:' : 'Źródło przecieku:'}</span> {p.zrodla.map((z, i) => <>{i > 0 && ' · '}{z.url ? <a href={z.url} rel={z.url.startsWith('/') ? undefined : 'nofollow noopener'} target={z.url.startsWith('/') ? undefined : '_blank'}>{z.nazwa}</a> : z.nazwa}{z.data && <small> ({dataPl(z.data)})</small>}</>)}</p>
+            </article>
+          ))}
         </div>
       )}
     </section>
@@ -179,14 +188,4 @@ const jsonld = [
   .pewnosc--wysoka { background: #e7f6ec; color: #17623a; }
   .pewnosc--srednia { background: #fff4d6; color: #7a5200; }
   .pewnosc--niska { background: var(--papier); color: var(--granat-60); border: 1px dashed #b9c0cd; }
-  .tabela-przeciekow td, .tabela-przeciekow th { font-size: 0.9rem; vertical-align: top; }
-  .p-uwagi { font-size: 0.8rem; color: var(--granat-60); margin-top: 2px; }
-  .p-zrodla { font-size: 0.82rem; }
-  .p-zrodla small { color: var(--granat-60); }
-  @media (max-width: 720px) {
-    .tabela-przeciekow thead { display: none; }
-    .tabela-przeciekow tr { display: block; padding: 10px 0; border-bottom: 1px solid var(--linia); }
-    .tabela-przeciekow td { display: inline-block; border: 0; padding: 2px 8px 2px 0; }
-    .tabela-przeciekow td:first-child { display: block; }
-  }
 </style>
