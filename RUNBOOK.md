@@ -1409,6 +1409,16 @@ przez `maHub` — to tania bramka, zostaje.
 - Strona jest w sitemapie `inne` i w menu od pierwszego dnia (Marek: „od razu do
   sitemapy"). Do RSS przecieki nie wchodzą — RSS to teksty redakcyjne.
 - Właściciel danych: Scout (codziennie 05:00). Prompt Scouta ma krok „PRZECIEKI".
+- **`opis` dla czytelnika, `uwagi` dla nas** *(od 11.10.2026)*. Na stronie stoi
+  wyłącznie `opis`: 2–5 zdań o tym, co wiadomo, na czym przeciek się opiera
+  i czego brakuje — w aktualnym stanie, bez historii zmian. `uwagi` to notatki
+  robocze Scouta (co i kiedy sprawdził, dlaczego podniósł pewność) i na stronę
+  nie trafiają. Powód: do 11.10 strona pokazywała `uwagi`, więc czytelnik czytał
+  „PODNIESIENIE 10.10.2026”, „drabina wymaga…”, „sprawdzone w treści strony
+  głównej”, a przy 40898 tekst mówił o pewności średniej obok plakietki
+  „wysoka”. Przy podniesieniu pewności Scout przepisuje `opis` na nowy stan
+  (nie dokleja akapitu), a historię dopisuje do `uwagi`. Wpis bez `opisu`
+  pokazuje się bez tekstu — lepiej to niż notatka robocza na stronie.
 - Format pliku: JSON z wcięciem 1 spacji jak `sety.json` (od 16.09.2026; pierwsza
   wersja miała hybrydę „_meta z wcięciem, wpisy w jednej linii" i Scout musiał
   pisać własny serializer). Zapis z Pythona: `json.dump(..., ensure_ascii=False, indent=1)`

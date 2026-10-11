@@ -49,7 +49,9 @@ const jsonld = [
       {/* Karty zamiast tabeli (11.10.2026): opis w kolumnie tabeli miał ~220 px
           szerokości i jeden wpis zajmował cały ekran. Teraz fakty stoją w jednym
           wierszu, opis idzie na całą szerokość i zwija się do 5 linii. Pełny
-          tekst jest w HTML – skrypt tylko go przycina i dokłada „Czytaj dalej". */}
+          tekst jest w HTML – skrypt tylko go przycina i dokłada „Czytaj dalej". 
+          Na stronę idzie wyłącznie pole `opis` (tekst dla czytelnika); `uwagi` to
+          notatki robocze Scouta i zostają w danych. */}
       <div class="przecieki-lista">
         {otwarte.map((p) => (
           <article class="karta przeciek" id={`p-${p.id}`}>
@@ -64,9 +66,9 @@ const jsonld = [
               <li><span>Elementy</span>{p.elementy ? `~${p.elementy.toLocaleString('pl-PL')}` : '–'}</li>
               {p.hub && <li class="przeciek__hub"><a href={p.hub} target="_blank" rel="noopener">strona zestawu →</a></li>}
             </ul>
-            {p.uwagi && (
+            {p.opis && (
               <>
-                <p class="przeciek__opis">{p.uwagi}</p>
+                <p class="przeciek__opis">{p.opis}</p>
                 <button type="button" class="przeciek__wiecej" aria-expanded="false" hidden>Czytaj dalej</button>
               </>
             )}
