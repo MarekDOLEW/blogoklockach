@@ -1425,6 +1425,23 @@ przez `maHub` — to tania bramka, zostaje.
   + końcowy `\n`; z JS: `JSON.stringify(d, null, 1) + '\n'` (klucze nie są numeryczne,
   więc kolejność się nie psuje).
 
+## Opisy zestawów w `sety.json` — tekst dla czytelnika *(od 11.10.2026)*
+
+`opis`, `dla_rodzica` i `dla_afol` stoją na stronie zestawu, w tabelach serii
+i Nowości — czyta je kupujący. Nie ma w nich miejsca na nasz proces: skąd
+i kiedy wzięliśmy dane („z feedu sklepu LEGO z 22 września”), stan katalogu
+Brickset („pusty rekord”, „przeniósł z motywu DC do Art”, pola `availability`,
+`launchDate`, „karty produktowe ruszyły”), nasze szacunki i przeliczniki
+(„mnożnik 4,33”, „wcześniej szacowaliśmy”), korekty („KOREKTA 1.10…”).
+Źródło wolno przywołać, gdy to informacja dla czytelnika (ocena na Bricksecie,
+„według StoneWars 13 minifigurek”). Terminy pisze się datą („premiera
+1 listopada 2026”), nie stanem na dziś („zestaw nie jest jeszcze w sprzedaży”
+— 11.10 to zdanie stało przy ośmiu zestawach Super Mario sprzedawanych od
+sierpnia). Przy zmianie danych zdanie się przepisuje, nie dokleja drugiego:
+opis 11379 mówił jednocześnie „ceny LEGO wciąż nie podało” i „cena
+katalogowa to 559,99 zł”. 11.10.2026 przepisane 37 pól w 27 zestawach;
+reguła jest w prompcie Scouta (pkt 2).
+
 ## Worker za warstwą assets: trasy workera muszą być w `run_worker_first` *(awaria 15.09.2026 wieczorem)*
 
 Objaw: każde kliknięcie w link sklepu wracało na `/idz/<sklep>/<nr>` jako
