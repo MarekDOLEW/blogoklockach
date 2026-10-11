@@ -6,6 +6,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia, obrazPlynny } from '../lib/media.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 import { statusNowosci } from '../lib/premiery.js';
+import { odmien } from '../lib/oferty.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
@@ -19,8 +20,9 @@ const feed = ofertyFeed?.sety ?? {};
 //   Nowości    – premiera w bieżącym miesiącu lub wcześniej (ostatnie 3 miesiące),
 //                jest oferta w sklepie, cena katalogowa i zdjęcie; bez kompletu
 //                danych zestaw zostaje tylko na swojej karcie /zestaw/<nr>/.
-//   Zapowiedzi – premiera w przyszłym miesiącu lub później, potwierdzona przez
-//                LEGO. Przecieki z rynku mają własny dział /przecieki/.
+//   Zapowiedzi – premiera w przyszłym miesiącu lub później: potwierdzone przez
+//                LEGO i przecieki z rynku, każde z własną plakietką (pełna lista
+//                przecieków ze źródłami: /przecieki/).
 // Pole `zapowiedz` w sety.json nie decyduje – 76355 ma je od września, a jest
 // w sprzedaży; rozstrzyga data premiery.
 const etykietaMiesiaca = (p) => {
@@ -38,10 +40,14 @@ const nowe = wszystkie
   .filter((s) => s.premiera >= odKiedy && s.premiera <= biezacy)
   .filter((s) => s.wOfercie && s.cena_katalogowa && s.foto && !s.przeciek)
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
+// sam rocznik („2027") ląduje za konkretnymi miesiącami tego roku
+const kluczPremiery = (p) => (/^\d{4}$/.test(p) ? `${p}-99` : p);
 const zapowiedzi = wszystkie
-  .filter((s) => String(s.premiera ?? '') > biezacy && !s.przeciek)
-  .sort((a, b) => (a.premiera < b.premiera ? -1 : a.premiera > b.premiera ? 1 : (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0)));
-const przecieki = wszystkie.filter((s) => s.przeciek && String(s.premiera ?? '') >= odKiedy).length;
+  .filter((s) => String(s.premiera ?? '') > biezacy || (s.przeciek && String(s.premiera ?? '') >= odKiedy))
+  .map((s) => ({ ...s, k: kluczPremiery(String(s.premiera ?? '')) }))
+  .sort((a, b) => (a.k < b.k ? -1 : a.k > b.k ? 1 : (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0)));
+const przecieki = zapowiedzi.filter((s) => s.przeciek).length;
+const potwierdzone = zapowiedzi.length - przecieki;
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
 const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 
@@ -58,7 +64,7 @@ const miesiace = [...ilePerMiesiac]
   .sort((a, b) => (a[0] < b[0] ? 1 : -1))
   .map(([k, n]) => ({ ...miesiac(k), ile: n }));
 ---
-<Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy w sprzedaży i ${zapowiedzi.length} potwierdzonych zapowiedzi. Ceny, liczba elementów, zdjęcia.`}>
+<Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy w sprzedaży i ${zapowiedzi.length} zapowiedzi. Ceny, liczba elementów, zdjęcia.`}>
   <h1 style="margin-top:28px">Nowości i zapowiedzi LEGO</h1>
 
   <div class="przelacznik" data-widok="nowosci">
@@ -90,9 +96,9 @@ const miesiace = [...ilePerMiesiac]
   </section>
 
   <section class="widok" id="widok-zapowiedzi" aria-label="Zapowiedzi LEGO" hidden>
-    <p class="widok__wstep">Zestawy, które LEGO oficjalnie zapowiedziało – mają kartę produktu na lego.com albo pojawiły się w komunikacie Grupy LEGO – ale jeszcze nie weszły do sprzedaży. Najbliższe premiery na górze; cena i liczba elementów mogą się pojawić dopiero tuż przed startem.</p>
-    <p class="nowosci-legenda">Nieoficjalnych informacji od dystrybutorów i ze sklepowych katalogów tu nie pokazujemy – zbieramy je ze źródłami i oceną pewności w dziale <a href="/przecieki/">Przecieki</a>{przecieki > 0 && ` (teraz ${przecieki})`}. Zapowiedzi na cały kolejny rok: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>.</p>
-    {zapowiedzi.length === 0 && <p>Na razie nie ma potwierdzonych zapowiedzi – zajrzyj do <a href="/przecieki/">Przecieków</a>.</p>}
+    <p class="widok__wstep">Zestawy, które jeszcze nie weszły do sprzedaży. Najbliższe premiery na górze; cena i liczba elementów często pojawiają się dopiero tuż przed startem.</p>
+    <p class="nowosci-legenda">Dwa statusy: <span class="badge-wkrotce">wkrótce · potwierdzone przez LEGO</span> to zestawy z oficjalną kartą produktu na lego.com albo z komunikatu Grupy LEGO; <span class="badge-przeciek">przeciek z rynku</span> to informacje od dystrybutorów, ze sklepowych katalogów i od społeczności, których LEGO jeszcze nie potwierdziło – numer, nazwa, cena i liczba elementów mogą się zmienić. Gdy LEGO potwierdzi przeciek, zestaw zmienia status. Źródła i ocenę pewności każdego przecieku znajdziesz w dziale <a href="/przecieki/">Przecieki</a>.{zapowiedzi.length > 0 && <> Obecnie: {`${potwierdzone} ${odmien(potwierdzone, 'zapowiedź potwierdzona', 'zapowiedzi potwierdzone', 'zapowiedzi potwierdzonych')} i ${przecieki} ${odmien(przecieki, 'przeciek', 'przecieki', 'przecieków')}`}.</>} Zapowiedzi na cały kolejny rok: <a href="/zapowiedzi-lego-2027/">LEGO w 2027 roku</a>.</p>
+    {zapowiedzi.length === 0 && <p>Na razie nie ma zapowiedzi.</p>}
     <div class="siatka siatka--nowosci" id="zap-siatka">
       {zapowiedzi.map((s) => (
         <a class="karta set-karta" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">
@@ -103,7 +109,7 @@ const miesiace = [...ilePerMiesiac]
               <span class="studs"><i></i><i></i><i></i><i></i></span>
             </div>
           )}
-          <span class="nr">LEGO {s.nr} <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · {etykietaMiesiaca(s.premiera)}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+          <span class="nr">LEGO {s.nr} {s.przeciek ? <span class="badge-przeciek" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu">przeciek · {etykietaMiesiaca(s.premiera)}</span> : <span class="badge-wkrotce" title="Zapowiedź potwierdzona przez Grupę LEGO">wkrótce · {etykietaMiesiaca(s.premiera)}</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
           <h2>{s.nazwa}</h2>
           <span class="badge-seria">{s.seria}</span>
           <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
