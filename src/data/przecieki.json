@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-10"
+  "zaktualizowano": "2026-10-11"
  },
  "przecieki": [
   {
@@ -317,8 +317,9 @@
    "uwagi": "Nie mylić z 76355 (Batmobil z filmu Powrót Batmana, w sprzedaży od 2026).",
    "rozstrzygniecie": {
     "kiedy": "2026-10-06",
-    "wynik": "potwierdzony",
-    "co_sie_zmienilo": "Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę."
+    "wynik": "zmieniony",
+    "co_sie_zmienilo": "Numer i termin zgodne co do joty: Brickset podaje launchDate 2027-01-01, przeciek mówił o styczniu 2027. Nazwa oficjalna to „Batman Returns Batmobile & Duck” — ta sama pozycja, rozszerzona o gumową kaczkę; doszły dane, których przeciek nie miał: 672 elementy, wiek 9+ i podseria „Legendary Batmobile Collection”. OSI CENY NIE OCENIAM: przeciek podawał 215 zł orientacyjnie, a polskiej ceny katalogowej LEGO wciąż nie ogłosiło. Oficjalne RRP niemieckie to 59,99 euro, co naszym mnożnikiem 4,22 daje około 253 zł, czyli mniej więcej 18 procent powyżej przecieku. Jeśli polska cena wyjdzie blisko tego przeliczenia, ten wynik trzeba będzie zmienić na „zmieniony” — zapisuję to tutaj, żeby było na czym oprzeć korektę. KOREKTA 11.10.2026, dokładnie wedle zastrzeżenia zapisanego 6 października. Polska cena katalogowa weszła do feedu producenta i wynosi 259,99 zł. Przeciek podawał 215 zł, czyli różnica to niemal 21 procent — poza pasmem ±10 procent, które reguła wymaga dla wyniku „potwierdzony”. Zmieniam więc wynik z „potwierdzony” na „zmieniony”: numer, nazwa i termin były trafione, cena nie. Zostawiam oba zapisy, pierwotny i ten, żeby widać było, że korekta wynikła z warunku postawionego z góry, a nie z późniejszego dopasowywania oceny do faktów.",
+    "skorygowane": "2026-10-11"
    }
   },
   {

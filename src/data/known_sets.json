@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-10-10",
+  "data_aktualizacji": "2026-10-11",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 1185,
   "sety": [
@@ -6396,5 +6396,19 @@
     "sanrio": "PromoBricks jest drugim zrodlem oglosznia Sanrio. Ale naglowek 'Bausets und Minifiguren' nie jest potwierdzeniem minifigurek — tresc tekstu mowi wprost, ze teaser nie pokazuje ani zestawow, ani figurek. Pytanie zostaje otwarte, zapisane w nowa_seria_sanrio.",
     "odsiane": "Osiemnascie rekordow: pietnascie pozycji merchu Herschel (przeszly z motywu '{Undefined}' na 'Gear' i kategorie 'Extended' — to potwierdza wczorajsza klasyfikacje jako merch) oraz dwa gratisy z 2025 roku dotkniete archiwalnie (40762 Mixed Flowerpot, 40772 Celebration Series: Luminous Ghost).",
     "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=09.10). PromoBricks — strona glowna plus trzy artykuly (Wenecja, blind boxy Pokemon, Sanrio). StoneWars — strona glowna. Razem 6 pobran."
+  },
+  "mnoznik_eur_pln_2026_10_11": {
+    "po_co": "RUNBOOK ma mnoznik EUR->PLN liczony PER ROCZNIK (2026: mediana 4,223 z 344 par, odch. 0,074, zero odstajacych). Piec zestawow wycenionych w feedzie 06.10 dalo nowe pary — i wiekszosc z nich to rocznik 2027, ktorego tabela jeszcze nie obejmuje.",
+    "pomiary_rocznik_2027": "71875: 19,99 EUR -> 84,99 zl = 4,25. 67009: 29,99 -> 126,99 = 4,23. 67008: 59,99 -> 259,99 = 4,33. 67012: 169,99 -> 749,99 = 4,41. Cztery pary, mediana okolo 4,29.",
+    "pomiar_rocznik_2026": "11390: 139,99 EUR -> 599,99 zl = 4,29, wobec mediany rocznika 4,223 — odchylenie 1,6 procent, czyli w granicach jednego odchylenia standardowego. Tabela dla 2026 trzyma sie.",
+    "wniosek_wstepny": "Rocznik 2027 wyglada na WYZSZY od 2026, co przerywa monotoniczny spadek opisany w RUNBOOK (4,72 w 2020 -> 4,22 w 2026). Cztery pary to za malo na wniosek — to sygnal do sprawdzenia, nie ustalenie. Czy mnoznik rosnie z cena zestawu, tez nie wiem: przy czterech punktach uklad 4,23 / 4,25 / 4,33 / 4,41 moze byc przypadkiem.",
+    "praktyczny_skutek": "Przy przeliczaniu cen z przeciekow dla rocznika 2027 mnoznik 4,22 zaniza wynik. Wlasnie ten blad przewrocil wynik przecieku 67008: nasze przeliczenie dalo 253 zl, realna cena to 259,99 zl, a przeciek mowil 215 zl. Lepiej podawac widelki niz jedna liczbe. Dopisane do RUNBOOK.md pod tabela."
+  },
+  "przeglad_2026_10_11": {
+    "nowosci": "Brak nowych zestawow potwierdzonych przez LEGO. Trzy rekordy w oknie przyrostowym: 4036 Space Plane (2004), 5011070 Santa's Workshop (promocyjny, kategoria 'Extended') i 4000351 FIFA Trophy — dotkniety, ale BEZ zmiany danych: nadal brak ceny w czterech rynkach i brak launchDate, zostaje w zapowiedziach_sledzonych.",
+    "ceny_uzupelnione": "Feed producenta (zrzut 10.10, wpisy z data 06.10) dal polskie ceny katalogowe dla pieciu zestawow, ktore od tygodnia na nie czekaly: 11390 Dragon Ball 599,99 zl, 67012 Joker 749,99 zl, 67008 Batmobil 259,99 zl, 67009 Batmobil Arkham 126,99 zl, 71875 spinnery Lloyd 84,99 zl. Oferty runner Lowcy wpisal im sam; ja uzupelnilem cena_katalogowa i przepisalem akapity dla_afol, w ktorych wczesniej stalo, ze ceny nie ma. 67006 i 71873 nadal bez ceny.",
+    "korekta_wyniku_67008": "Wynik przecieku 67008 zmieniony z 'potwierdzony' na 'zmieniony'. 06.10 zapisalem, ze osi ceny nie oceniam, bo polskiej ceny nie ma, i ze JESLI wyjdzie blisko przeliczenia z euro, trzeba bedzie wynik skorygowac. Wyszla: 259,99 zl wobec 215 zl z przecieku, czyli prawie 21 procent roznicy, poza pasmem +/-10 procent. Korekta wynika z warunku postawionego z gory.",
+    "moc_nie_zestaw": "StoneWars opublikowal 10.10 tekst o 'LEGO Forest Elves Tree School'. To NIE jest zestaw: wlasny MOC autora zglaszony do glosowania BDP 2028 Wave 1, kategoria 'MOCs' w serwisie, bez numeru. Sprawdzilem, bo naglowek czytal sie jak recenzja istniejacego zestawu.",
+    "zrodla": "Brickset API — 1 wywolanie getSets (updatedSince=10.10). PromoBricks — strona glowna, bez nowych tekstow; sprawdzone w tresci, ze o 4000351 nie pisze. StoneWars — strona glowna plus artykul o MOCu. Razem 5 pobran."
   }
 }

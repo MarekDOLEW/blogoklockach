@@ -589,6 +589,20 @@ odchyleniu 0,19–0,22 i co dziesiątym secie poza zakresem cena z przeliczenia
 myli się na tyle, że policzony z niej rabat przestaje być wiarygodny.
 Tam potrzebne jest źródło PL, a nie przelicznik.
 
+**Rocznik 2027 — pierwsze pary, wstępnie wyżej niż 2026** *(Scout 11.10.2026)*:
+feed producenta dał polskie ceny czterem zestawom rocznika 2027 i mnożnik wypada
+na nich wyższy niż w 2026: 71875 (19,99 € → 84,99 zł) **4,25**, 67009 (29,99 →
+126,99) **4,23**, 67008 (59,99 → 259,99) **4,33**, 67012 (169,99 → 749,99)
+**4,41** — mediana około 4,29. Dla porównania para z rocznika 2026 z tego samego
+zrzutu, 11390 (139,99 → 599,99), daje 4,29 wobec mediany rocznika 4,223, czyli
+mieści się w jednym odchyleniu.
+
+Cztery pary to **sygnał, nie ustalenie** — ale praktyczny wniosek jest już teraz:
+przy przeliczaniu przecieków z rocznika 2027 mnożnik 4,22 zaniża wynik, więc
+lepiej podawać widełki niż jedną liczbę. Ten właśnie błąd przewrócił wynik
+przecieku 67008 z „potwierdzony" na „zmieniony": przeliczenie dawało 253 zł,
+realna cena to 259,99 zł, a przeciek mówił 215 zł.
+
 
 **Przelicznik dryfuje między rocznikami — jeden mnożnik globalny byłby
 błędny.** Trzeba stosować mnożnik wyznaczony dla rocznika premiery zestawu.
