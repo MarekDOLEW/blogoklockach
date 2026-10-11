@@ -13,6 +13,12 @@
 //                              data-grupa="Icons" wiąże sekcję z serią z listy wyboru
 //   [data-pusto]             – komunikat pokazywany, gdy grupa jest widoczna, ale pusta
 //
+// Opcjonalnie (strony serii, 11.10.2026):
+//   lata          – [{ rok, ile }] → lista „Rok premiery"; wiersz potrzebuje data-rok
+//   sortowanie    – lista „Sortuj"; sortuje rodzeństwo w obrębie rodzica (tbody,
+//                   siatka) po data-rok, data-cena, data-nazwa, data-numer
+//   tylkoDostepne – przełącznik „tylko w sprzedaży"; wiersz potrzebuje data-dostepny="1"
+//
 // Pełna lista jest w HTML (SEO) – skrypt wyłącznie ukrywa pozycje.
 
 const {
@@ -21,6 +27,9 @@ const {
   etykieta = 'Szukaj zestawu',
   placeholder = 'numer lub nazwa, np. 10334 albo Sokół…',
   rzeczownik = 'zestawów',
+  lata = null,
+  sortowanie = false,
+  tylkoDostepne = false,
 } = Astro.props;
 ---
 
@@ -33,6 +42,30 @@ const {
         {serie.map((s) => (
           <option value={s}>{liczbaWSerii ? `${s} (${liczbaWSerii(s)})` : s}</option>
         ))}
+      </select>
+    </div>
+  )}
+
+  {lata && lata.length > 1 && (
+    <div class="pf-pole">
+      <label for="pf-rok">Rok premiery</label>
+      <select id="pf-rok">
+        <option value="">Wszystkie lata</option>
+        {lata.map((x) => <option value={String(x.rok)}>{x.rok} ({x.ile})</option>)}
+      </select>
+    </div>
+  )}
+
+  {sortowanie && (
+    <div class="pf-pole">
+      <label for="pf-sort">Sortuj</label>
+      <select id="pf-sort">
+        <option value="">Najnowsze najpierw</option>
+        <option value="rok-rosnaco">Najstarsze najpierw</option>
+        <option value="cena-rosnaco">Cena: od najniższej</option>
+        <option value="cena-malejaco">Cena: od najwyższej</option>
+        <option value="nazwa">Nazwa A–Z</option>
+        <option value="numer">Numer zestawu</option>
       </select>
     </div>
   )}
@@ -54,6 +87,10 @@ const {
     </div>
   </div>
 
+  {tylkoDostepne && (
+    <label class="pf-check"><input type="checkbox" id="pf-dostepne" /> tylko w sprzedaży</label>
+  )}
+
   <div class="pf-pole pf-reset">
     <button type="button" id="pf-wyczysc" hidden>Wyczyść ✕</button>
     <span id="pf-licznik" aria-live="polite"></span>
@@ -68,6 +105,9 @@ const {
   const $szukaj = document.getElementById('pf-szukaj');
   if ($pasek && $szukaj) {
     const $seria = document.getElementById('pf-seria'); // opcjonalny
+    const $rok = document.getElementById('pf-rok'); // opcjonalny
+    const $sort = document.getElementById('pf-sort'); // opcjonalny
+    const $dostepne = document.getElementById('pf-dostepne'); // opcjonalny
     const $lista = document.getElementById('pf-podpowiedzi');
     const $wyczysc = document.getElementById('pf-wyczysc');
     const $licznik = document.getElementById('pf-licznik');
@@ -91,8 +131,12 @@ const {
       numer: el.dataset.numer || '',
       nazwa: el.dataset.nazwa || '',
       seria: el.dataset.seria || '',
+      rok: el.dataset.rok || '',
+      dostepny: el.dataset.dostepny === '1',
       n: norm(el.dataset.nazwa),
     }));
+    // pierwotna kolejność – do niej wraca sortowanie domyślne
+    indeks.forEach((w, i) => (w.poz = i));
     // podpowiedzi biorą tylko pozycje „liczone" (bez kart dublujących wiersz tabeli),
     // licznik liczy unikalne numery zestawów – karta i wiersz tego samego setu to jeden zestaw
     const liczone = indeks.filter((w) => w.liczony);
@@ -101,7 +145,34 @@ const {
     let aktywna = -1; // podświetlona podpowiedź (nawigacja klawiaturą)
 
     const pasuje = (w, s, q) =>
-      (!s || w.seria === s) && (!q || w.numer.startsWith(q) || w.n.includes(q));
+      (!s || w.seria === s) &&
+      (!q || w.numer.startsWith(q) || w.n.includes(q)) &&
+      (!$rok || !$rok.value || w.rok === $rok.value) &&
+      (!$dostepne || !$dostepne.checked || w.dostepny);
+
+    // Sortowanie przestawia pozycje w obrębie ich rodzica (tbody, siatka);
+    // brak ceny zawsze na końcu, remisy zostają w pierwotnej kolejności.
+    const liczba = (v) => (v === undefined || v === '' ? null : Number(v));
+    const PORZADKI = {
+      'rok-rosnaco': (a, b) => (liczba(a.el.dataset.rok) ?? 9999) - (liczba(b.el.dataset.rok) ?? 9999),
+      'cena-rosnaco': (a, b) => (liczba(a.el.dataset.cena) ?? Infinity) - (liczba(b.el.dataset.cena) ?? Infinity),
+      'cena-malejaco': (a, b) => (liczba(b.el.dataset.cena) ?? -Infinity) - (liczba(a.el.dataset.cena) ?? -Infinity),
+      nazwa: (a, b) => a.nazwa.localeCompare(b.nazwa, 'pl'),
+      numer: (a, b) => a.numer.localeCompare(b.numer, 'pl', { numeric: true }),
+    };
+    function posortuj() {
+      const klucz = $sort ? $sort.value : '';
+      const por = PORZADKI[klucz];
+      const rodzice = new Map();
+      for (const w of indeks) {
+        if (!rodzice.has(w.el.parentElement)) rodzice.set(w.el.parentElement, []);
+        rodzice.get(w.el.parentElement).push(w);
+      }
+      for (const [rodzic, lista] of rodzice) {
+        lista.sort((a, b) => (por ? por(a, b) : 0) || a.poz - b.poz);
+        for (const w of lista) rodzic.appendChild(w.el);
+      }
+    }
 
     function zastosujFiltr() {
       const s = $seria ? $seria.value : '';
@@ -126,7 +197,7 @@ const {
         if (pusto) pusto.hidden = grupa.hidden || maWidoczne;
       }
 
-      const filtrAktywny = Boolean(s || surowe);
+      const filtrAktywny = Boolean(s || surowe || ($rok && $rok.value) || ($dostepne && $dostepne.checked));
       $wyczysc.hidden = !filtrAktywny;
       $licznik.textContent = filtrAktywny ? `Pokazano ${widoczne} z ${RAZEM} ${RZECZOWNIK}` : '';
 
@@ -136,6 +207,15 @@ const {
       else url.searchParams.delete('seria');
       if (surowe) url.searchParams.set('q', surowe);
       else url.searchParams.delete('q');
+      for (const [nazwa, el, wartosc] of [
+        ['rok', $rok, $rok?.value],
+        ['sort', $sort, $sort?.value],
+        ['dostepne', $dostepne, $dostepne?.checked ? '1' : ''],
+      ]) {
+        if (!el) continue;
+        if (wartosc) url.searchParams.set(nazwa, wartosc);
+        else url.searchParams.delete(nazwa);
+      }
       history.replaceState(null, '', url);
     }
 
@@ -216,8 +296,17 @@ const {
         zastosujFiltr();
         schowajPodpowiedzi();
       });
+    if ($rok) $rok.addEventListener('change', zastosujFiltr);
+    if ($dostepne) $dostepne.addEventListener('change', zastosujFiltr);
+    if ($sort)
+      $sort.addEventListener('change', () => {
+        posortuj();
+        zastosujFiltr();
+      });
     $wyczysc.addEventListener('click', () => {
       if ($seria) $seria.value = '';
+      if ($rok) $rok.value = '';
+      if ($dostepne) $dostepne.checked = false;
       $szukaj.value = '';
       zastosujFiltr();
       schowajPodpowiedzi();
@@ -251,6 +340,15 @@ const {
     const pQ = params.get('q');
     if (pSeria && $seria && [...$seria.options].some((o) => o.value === pSeria)) $seria.value = pSeria;
     if (pQ) $szukaj.value = pQ;
-    if ((pSeria && $seria) || pQ) zastosujFiltr();
+    const pRok = params.get('rok');
+    const pSort = params.get('sort');
+    const pDost = params.get('dostepne') === '1';
+    if (pRok && $rok && [...$rok.options].some((o) => o.value === pRok)) $rok.value = pRok;
+    if (pDost && $dostepne) $dostepne.checked = true;
+    if (pSort && $sort && [...$sort.options].some((o) => o.value === pSort)) {
+      $sort.value = pSort;
+      posortuj();
+    }
+    if ((pSeria && $seria) || pQ || ($rok && $rok.value) || ($dostepne && $dostepne.checked)) zastosujFiltr();
   }
 </script>

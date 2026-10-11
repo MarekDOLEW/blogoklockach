@@ -1648,3 +1648,20 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .przelacznik__ile { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { .przelacznik__pstryk span { transition: none; } }
+/* strony serii: „Nasze propozycje" – karuzela 3 × 3 (11.10.2026) */
+.propozycje { margin: 18px 0 30px; }
+.propozycje__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.propozycje__head h2 { margin: 0; }
+.propozycje__nav { display: flex; align-items: center; gap: 10px; }
+.propozycje__btn { width: 40px; height: 40px; border-radius: 50%; border: 1.5px solid var(--linia); background: var(--karta); color: var(--granat); font-size: 1.5rem; line-height: 1; cursor: pointer; padding: 0 0 3px; }
+.propozycje__btn:hover { border-color: var(--granat-60); }
+.propozycje__btn:focus-visible { outline: 3px solid var(--zolty-ciemny); outline-offset: 2px; }
+.propozycje__licznik { font-size: 0.85rem; font-weight: 700; color: var(--granat-60); min-width: 2.6em; text-align: center; font-variant-numeric: tabular-nums; }
+.propozycje__tor { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 44px) / 3); gap: 22px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; padding-bottom: 4px; }
+.propozycje__tor::-webkit-scrollbar { display: none; }
+.propozycje__tor > .set-karta { scroll-snap-align: start; }
+.pf-check { display: flex; align-items: center; gap: 6px; font-size: 0.9rem; font-weight: 600; color: var(--granat); padding: 9px 0; cursor: pointer; white-space: nowrap; }
+.pf-check input { width: 18px; height: 18px; accent-color: var(--granat); }
+@media (max-width: 600px) {
+  .propozycje__tor { grid-auto-columns: 100%; gap: 14px; }
+}

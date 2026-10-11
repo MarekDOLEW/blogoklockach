@@ -75,6 +75,9 @@ const meta = (w) =>
             data-numer={w.numer}
             data-nazwa={w.nazwa}
             data-seria={w.seria}
+            data-rok={w.rok ?? undefined}
+            data-cena={w.oferta?.cena ?? undefined}
+            data-dostepny={w.oferta && w.status !== 'eol' ? '1' : undefined}
           >
             <td class="kol-foto">
               {w.zdjecie ? (
