@@ -9,12 +9,6 @@ to, żeby druga strona wiedziała, co się działo.
 **Gdzie pisać:** nowy wpis wstawiaj **bezpośrednio pod linią znacznika**
 `<!-- WPISY PONIŻEJ … -->`, na początku listy wpisów. Wszystko NAD znacznikiem
 
-## 2026-10-11 19:50 · CODE · Nowości, serie, przecieki — przebudowa widoków; prompt Scouta
-- `/nowosci/`: przełącznik Nowości (w sprzedaży, z datą, ceną i zdjęciem; znaczek PREMIERA) / Zapowiedzi (potwierdzone + przecieki z plakietką). `#zapowiedzi` otwiera drugi widok.
-- Strony serii: karuzela „Nasze propozycje” 3×3 (losowanie dzienne z bieżącej oferty LEGO) zamiast boksów „z aktualnymi cenami”; nad tabelą rok premiery, sortowanie, szukaj, „tylko w sprzedaży”.
-- `/przecieki/`: karty na pełną szerokość, opis zwinięty do 5 linii. Nowe pole `opis` (dla czytelnika, jedyne na stronie); `uwagi` zostają notatkami Scouta. 13 opisów napisanych.
-- Scout: nowy trigger `trig_01AdmJcGkJ949YB9p9JEAwhu` (ta sama sesja i cron; reguła opis/uwagi w pkt 6a–c), stary `trig_013QRUCfL8ZAa45eDkQUkWXD` skasowany. Sesja Scouta: 757 tys. z 1 mln tokenów — blisko progu 850 tys.
-
 ## 8.10.2026 — Warianty zdjęć bez Cloudflare Image Transformations (Claude Code)
 
 **Zrobione:**
@@ -123,6 +117,12 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-11 19:50 · CODE · Nowości, serie, przecieki — przebudowa widoków; prompt Scouta
+- `/nowosci/`: przełącznik Nowości (w sprzedaży, z datą, ceną i zdjęciem; znaczek PREMIERA) / Zapowiedzi (potwierdzone + przecieki z plakietką). `#zapowiedzi` otwiera drugi widok.
+- Strony serii: karuzela „Nasze propozycje” 3×3 (losowanie dzienne z bieżącej oferty LEGO) zamiast boksów „z aktualnymi cenami”; nad tabelą rok premiery, sortowanie, szukaj, „tylko w sprzedaży”.
+- `/przecieki/`: karty na pełną szerokość, opis zwinięty do 5 linii. Nowe pole `opis` (dla czytelnika, jedyne na stronie); `uwagi` zostają notatkami Scouta. 13 opisów napisanych.
+- Scout: nowy trigger `trig_01AdmJcGkJ949YB9p9JEAwhu` (ta sama sesja i cron; reguła opis/uwagi w pkt 6a–c), stary `trig_013QRUCfL8ZAa45eDkQUkWXD` skasowany. Sesja Scouta: 757 tys. z 1 mln tokenów — blisko progu 850 tys.
 
 ## 2026-10-11 10:40 · CODE · Dwie recenzje Piotra na stronie (75434 K-2SO, 42650 Sklep dla zwierząt)
 
