@@ -1625,6 +1625,7 @@ z jednego serwisu sprawdzamy w `katalog.json` po nazwie, zanim trafi do treści.
 **Zrobić:** — zmiana w danych `src/data/wycofania.json` po sprawdzeniu działu „Ostatnie Sztuki".
 **Kto:** — Code (runner Wycofań)
 → zamknięte 10.10 (75192 Sokół Millennium, tekst Piotra): odłożone i zamknięte — decyzja Marka; hub i karta 75192 zostają, osobnego tekstu nie zlecamy. Pozycja „pięć zestawów ze złym statusem” czeka na runnera Wycofań (12.10).
+→ Wycofania 2026-10-12: zmienione — wszystkie pięć (21333, 21351, 21353, 21356, 76437) potwierdzone w dziale „Ostatnie zestawy" przez zaciąg lego-ostatnie.mjs; status przestawiony na „potwierdzone" w tym przebiegu.
 
 ## 2026-09-16 05:30 · SCOUT · Przekazanie wycofań do runnera Wycofań
 
@@ -1651,3 +1652,10 @@ w `katalog.json` (brak polskiej nazwy i ceny). Te 10 zostaje do domknięcia.
 
 **Dla drugiej strony:** runner Wycofań — przejrzyj te 16 wpisów i domknij
 brakujące 10.
+
+→ Wycofania 2026-10-12: zmienione/zweryfikowane — zaciąg działu „Ostatnie
+zestawy" (342 produkty) potwierdza wszystkie 16 wpisów (żaden nie figuruje na
+liście „u nas potwierdzone, a brak w dziale"). Brakujące 10 bez numerów w
+sygnale — te, które weszły do katalogu, dopisały się dziś automatycznie przez
+porównanie działu z plikiem (24 nowe pozycje); pozostałe wyjdą w kolejnych
+zaciągach katalogu.
