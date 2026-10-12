@@ -147,13 +147,30 @@ export default {
         try { return new URL(referer).pathname; } catch { return null; }
       })();
       const hostOk = /^https:\/\/(www\.)?tylkoklocki\.pl(\/|$)/.test(referer);
+      // 12.10.2026 (fala 10–11.10, 689 sztucznych kliknięć „human"): reguła
+      // przepuszczała każdą ścieżkę zaczynającą się od dopuszczonej sekcji, więc
+      // `/serie/marvel` bez ukośnika przeszło 474 razy, a po fali doszły
+      // `/wycofania?q=…` i `/zestaw/30716`. Nasze adresy są kanoniczne
+      // z ukośnikiem na końcu (pathname, bez query), a strona /idz/ nie ma linków —
+      // człowiek nie kliknie z niej w sklep. Referer z naszej domeny, który tych
+      // warunków nie spełnia, jest podrobiony: wtedy nie ratuje go już
+      // Sec-Fetch-Site (ten zostaje wyłącznie dla przeglądarek, które referer
+      // wycinają w całości). To próg, nie ściana — pełne domknięcie to podpisany
+      // token w linku, gdyby fala wróciła z poprawnym ukośnikiem.
+      const refererNasz = hostOk && sciezkaReferera !== null;
       const zHubu = sciezkaReferera && /^\/zestaw\/(\d{4,7})\/$/.exec(sciezkaReferera);
       const refererOk =
-        hostOk &&
+        refererNasz &&
+        !sciezkaReferera.startsWith('/idz/') &&
+        sciezkaReferera.endsWith('/') &&
         (zHubu
           ? zHubu[1] === numer
-          : /^\/($|artykuly\/|prezentowniki\/|deale\/|serie\/|nowosci\/|wycofania\/|ekskluzywne\/|kolekcjoner\/|kalendarz-promocji-lego\/|zapowiedzi-lego-2027\/|przecieki\/)/.test(sciezkaReferera ?? ''));
-      const zNaszejStrony = refererOk || secFetch === 'same-origin' || secFetch === 'same-site';
+          : /^\/($|artykuly\/|prezentowniki\/|deale\/|serie\/|nowosci\/|wycofania\/|ekskluzywne\/|kolekcjoner\/|kalendarz-promocji-lego\/|zapowiedzi-lego-2027\/|przecieki\/|promocje-lego\/|aktualnosci\/)/.test(sciezkaReferera));
+      const zNaszejStrony = refererOk || (!refererNasz && (secFetch === 'same-origin' || secFetch === 'same-site'));
+      // Nasze własne sprawdzenia (scripts/diagnoza.mjs) wysyłają x-tk-test —
+      // w statystyce idą jako „test", nie „human". Na samo przekierowanie
+      // nagłówek nie wpływa, więc nie otwiera filtra.
+      const test = request.headers.has('x-tk-test');
 
       // LEGO.com nie ma programu afiliacyjnego w naszym miksie — linkujemy
       // bezpośrednio. lego.com akceptuje sam numer zestawu w adresie produktu
@@ -222,7 +239,7 @@ export default {
         env.KLIKI?.writeDataPoint({
           // blob6 dodany 14.09.2026 — starsze zapytania (blob1–blob5) działają bez zmian
           blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', referer, request.cf?.country ?? '',
-                  zNaszejStrony ? 'human' : 'bot'],
+                  test ? 'test' : zNaszejStrony ? 'human' : 'bot'],
           doubles: [1],
           indexes: [sklep],
         });

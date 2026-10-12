@@ -375,7 +375,8 @@ if (szybko) {
   // widział. Oczekiwane: 302 na lego.com (run_worker_first w wrangler.jsonc).
   const klik = await pobierz('https://tylkoklocki.pl/idz/lego/76355', {
     redirect: 'manual',
-    headers: { 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'sec-fetch-site': 'same-origin', accept: 'text/html' },
+    // x-tk-test: worker zapisuje ten klik jako „test", nie „human" (od 12.10.2026)
+    headers: { 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'sec-fetch-site': 'same-origin', accept: 'text/html', 'x-tk-test': 'diagnoza' },
   });
   dostepy.link_sklepu_z_przegladarki = klik.status === 302
     ? { stan: 'ok', status: 302 }
