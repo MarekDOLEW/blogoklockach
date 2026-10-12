@@ -98,10 +98,10 @@
   "status": "aktywny",
   "prowizja": "1,50% dla wszystkich kategorii widocznych w panelu (AGD, Foto, Komputery, Gry i Konsole); zakres programu 1,50-6,00%; kategorii zabawek/LEGO brak w strukturze (odczyt Coworka 12.10.2026)",
   "cookie_dni": 30,
-  "format_linkow": "Tradedoubler, deep linking DOZWOLONY",
-  "feed": "Tradedoubler, MediaMarkt_feed (fid 96394), ok. 112 pozycji LEGO (12.10.2026)",
+  "format_linkow": "gotowe linki pdt.tradedoubler.com z feedu (redirects.mediamarkt); deep linking DOZWOLONY",
+  "feed": "Tradedoubler MediaMarkt_feed (fid 96394), import: node scripts/ceneo-feed.mjs --sklep mediamarkt (wtorkowy przebieg Dane wt bierze go automatycznie z feedy.json)",
   "data": "2026-08-20",
-  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje. Akceptacja wykryta 12.10.2026 w TD Publisher API (Media Markt PL, program 229227, statusId 3 ACCEPTED, zmiana 2026-08-20 14:36) — przez 7 tygodni rejestr mowil \"wyslane\". Prowizja i cookie do potwierdzenia w panelu TD; linki i ceny jeszcze niepodpiete. Warunki (panel 12.10): porownywarki cenowe i strony tematyczne dozwolone; zabronione CSS, Offline, Onsite Optimisation, Retargeting, Search; polityka slow kluczowych zamknieta; EPC programu 2,25 zl, odrzucenia 20%."
+  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje. Akceptacja wykryta 12.10.2026 w TD Publisher API (Media Markt PL, program 229227, statusId 3 ACCEPTED, zmiana 2026-08-20 14:36) — przez 7 tygodni rejestr mowil \"wyslane\". Prowizja i cookie do potwierdzenia w panelu TD; linki i ceny jeszcze niepodpiete. Warunki (panel 12.10): porownywarki cenowe i strony tematyczne dozwolone; zabronione CSS, Offline, Onsite Optimisation, Retargeting, Search; polityka slow kluczowych zamknieta; EPC programu 2,25 zl, odrzucenia 20%. PODPIETY 12.10.2026 (decyzja Marka): 54 zestawy z cena i linkiem, 42 w sety.json; numer z pola MPN, numery z nazwy tylko przy zgodnosci z katalogiem."
  },
  "rtveuroagd": {
   "siec": "Tradedoubler",

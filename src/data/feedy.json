@@ -1,4 +1,30 @@
 {
+ "mediamarkt": {
+  "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=96394?token=<TD_TOKEN>",
+  "format": "json",
+  "siec": "Tradedoubler (program „Media Markt (PL)” 229227, ACCEPTED 20.08.2026; konto a=3494691)",
+  "fid": 96394,
+  "aktywny": true,
+  "skrypt": "node scripts/ceneo-feed.mjs --sklep mediamarkt — ten sam importer co Ceneo i Lidl; wtorkowy Routine (krok 6) bierze go automatycznie",
+  "filtr_nazwy": "\\bLEGO\\b",
+  "pomin_nazwy": "^OUTLET|Książka|^Gra ",
+  "numer_z_pola": "MPN",
+  "tylko_znane": true,
+  "pola": {
+   "nazwa": "products[].name",
+   "cena": "products[].offers[0].priceHistory[-1].price.value",
+   "link_afiliacyjny": "products[].offers[0].productUrl (gotowy link pdt.tradedoubler.com)",
+   "numer": "products[].fields[name=MPN] (gdy pusty — z nazwy, z kontrolą zgodności z katalogiem)"
+  },
+  "status": "podpięty 12.10.2026 (decyzja Marka); feed całego sklepu: 15 244 produkty, ok. 112 z LEGO w nazwie, w tym książki i gry",
+  "uwagi": [
+   "Prowizja 1,5% (w panelu brak kategorii zabawek), cookie 30 dni, deep linking i porównywarki dozwolone (odczyt Coworka 12.10.2026).",
+   "Nazwy produktów bywają z wewnętrznym numerem MediaMarktu w nawiasie (np. 1484487) — numer zestawu siedzi w polu MPN.",
+   "MediaMarkt ma własny magazyn: oferty wchodzą też do sety.json, jak Lidl."
+  ],
+  "odswiezanie": "tygodniowo (wtorek, Dane wt krok 6)",
+  "ostatnie_pobranie": "2026-10-12"
+ },
  "_meta": {
   "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
   "zasada": "Nowy feed dopisujemy tutaj, nie w promptach zadan. Dzieki temu kazde zaplanowane uruchomienie widzi ten sam zestaw zrodel bez zalacznikow z komputera.",

@@ -15,8 +15,19 @@
 //                         się do „najniższej ceny"; sklepy z własnym magazynem
 //                         (Lidl) wchodzą do sety.json, żeby liczyły się w dealach)
 //
+// Feedy CAŁEGO sklepu (od 12.10.2026: MediaMarkt, fid 96394 — 15 tys. produktów,
+// z czego ok. 110 LEGO, w tym książki i gry) wymagają dodatkowych pól we wpisie
+// feedy.json; feedy „tylko LEGO" (Ceneo, Lidl) działają bez nich jak dotąd:
+//   filtr_nazwy  – regex, który nazwa MUSI spełnić (np. "\\bLEGO\\b"),
+//   pomin_nazwy  – regex nazw do pominięcia (OUTLET, książki, gry),
+//   numer_z_pola – nazwa pola z products[].fields z numerem zestawu (MPN);
+//                  gdy puste, numer bierzemy z nazwy jak wcześniej,
+//   tylko_znane  – numer musi być w katalog.json albo sety.json, a numer wzięty
+//                  Z NAZWY musi mieć z nazwą katalogową wspólne słowo (MediaMarkt
+//                  podpisał „Figurkę Kapitana Ameryki" numerem 76265 — to Batwing).
+//
 // Wymaga TD_TOKEN. Użycie:
-//   node scripts/ceneo-feed.mjs [--sklep ceneo|lidl] [--sucho]
+//   node scripts/ceneo-feed.mjs [--sklep ceneo|lidl|mediamarkt] [--sucho]
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
@@ -65,6 +76,22 @@ function pobierzFeed(fid) {
 }
 
 const NUMER = /\b(\d{4,7})\b/;
+const NUMER_CALY = /^\d{4,7}$/;
+
+// Nazwy z katalogu i sety.json — do opcji `tylko_znane`
+const nazwyZnane = new Map();
+{
+  const dopisz = (nr, nazwa) => { const k = String(nr); if (!nazwyZnane.has(k)) nazwyZnane.set(k, []); if (nazwa) nazwyZnane.get(k).push(nazwa); };
+  const katalog = JSON.parse(readFileSync('src/data/katalog.json', 'utf8'));
+  for (const [seria, lista] of Object.entries(katalog)) if (seria !== '_meta' && Array.isArray(lista)) for (const z of lista) dopisz(z.numer, z.nazwa);
+  for (const [nr, z] of Object.entries(JSON.parse(readFileSync('src/data/sety.json', 'utf8')))) if (z && typeof z === 'object') dopisz(nr, z.nazwa);
+}
+const POMIJANE_SLOWA = new Set(['lego', 'klocki', 'zestaw', 'wielokolorowy', 'wielokolorowe']);
+const slowa = (t) => new Set((String(t ?? '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').match(/[a-z]{4,}/g) ?? []).filter((w) => !POMIJANE_SLOWA.has(w)));
+const wspolneSlowo = (nazwa, nr) => {
+  const a = slowa(nazwa);
+  return (nazwyZnane.get(nr) ?? []).some((n) => [...slowa(n)].some((w) => a.has(w)));
+};
 const dzis = new Date().toISOString().slice(0, 10);
 const mapaNaObiekt = (w) => (w instanceof Map ? Object.fromEntries([...w].map(([k, v]) => [k, mapaNaObiekt(v)])) : Array.isArray(w) ? w.map(mapaNaObiekt) : w);
 
@@ -87,8 +114,20 @@ for (const [sklep, cfg] of doPobrania) {
   console.log(`  pobrano ${produkty.length} produktów`);
   const zebrane = new Map(); // nr -> { cena, link }
   let niedostepne = 0;
+  const filtr = cfg.filtr_nazwy ? new RegExp(cfg.filtr_nazwy) : null;
+  const pomin = cfg.pomin_nazwy ? new RegExp(cfg.pomin_nazwy, 'i') : null;
+  let odrzuconeNumery = 0;
   for (const p of produkty) {
-    const nr = NUMER.exec(p.name ?? '')?.[1];
+    if (filtr && !filtr.test(p.name ?? '')) continue;
+    if (pomin && pomin.test(p.name ?? '')) continue;
+    const zPola = cfg.numer_z_pola
+      ? String((p.fields ?? []).find((f) => f.name === cfg.numer_z_pola)?.value ?? '').trim()
+      : '';
+    const nr = NUMER_CALY.test(zPola) ? zPola : NUMER.exec(p.name ?? '')?.[1];
+    if (nr && cfg.tylko_znane) {
+      const znany = nazwyZnane.has(nr) && (NUMER_CALY.test(zPola) || wspolneSlowo(p.name, nr));
+      if (!znany) { odrzuconeNumery++; console.log(`  pominięty: ${nr} „${String(p.name).slice(0, 70)}"`); continue; }
+    }
     const oferta = p.offers?.[0];
     const cena = Number(oferta?.priceHistory?.at(-1)?.price?.value);
     const link = oferta?.productUrl;
@@ -102,7 +141,7 @@ for (const [sklep, cfg] of doPobrania) {
     const stara = zebrane.get(nr);
     if (!stara || cena < stara.cena) zebrane.set(nr, { cena, link });
   }
-  console.log(`  rozpoznano ${zebrane.size} numerów zestawów${niedostepne ? `, pominięto ${niedostepne} niedostępnych` : ''}`);
+  console.log(`  rozpoznano ${zebrane.size} numerów zestawów${niedostepne ? `, pominięto ${niedostepne} niedostępnych` : ''}${odrzuconeNumery ? `, ${odrzuconeNumery} z numerem spoza katalogu albo niezgodnym z nazwą` : ''}`);
   if (!zebrane.size) { console.error('  0 zestawów — nic nie zapisuję dla tego sklepu'); bladow++; continue; }
 
   const przedR = Object.keys(redirects[sklep] ?? {}).length;
