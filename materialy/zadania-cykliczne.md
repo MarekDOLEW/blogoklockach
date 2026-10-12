@@ -290,6 +290,9 @@ Zostają jako archiwum kontekstu, nie usuwać bez potrzeby:
 - `session_014pPdvW1SE9AFW4TnaBPV3z` — Radar na Fable, sprzed przesiadki 21.08
 - `session_01SDwpiHyQchQaiu46Q76Xfr` — duplikat Scouta utworzony omyłkowo 21.08
   przy przepinaniu triggera; zarchiwizowany 30.08
+- `session_01UFkqKNwQexnxLN34HotM4G` — Radar na Opus 5, 21.08–12.10.2026; zastąpiony
+  sesją `session_01N5Bt5oyhgJzLB1FJff9Q3H` po dojściu do 708 tys. z 1 mln tokenów
+  (trigger `trig_012neuySD2HrJgptvXLe2fN9`, ta sama nazwa, cron i prompt)
 
 ## Źródła Scouta
 
