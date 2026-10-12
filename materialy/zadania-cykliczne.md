@@ -296,6 +296,9 @@ Zostają jako archiwum kontekstu, nie usuwać bez potrzeby:
 - `session_01KfWF14fJvwK78sBVG6XAz8` — Wycofania na Fable 5, 16.08–12.10.2026; zastąpione
   sesją `session_01LbKufez6akmviSBqoBRxhC` przy 581 tys. z 1 mln tokenów
   (trigger `trig_01HtJFSA2mKYUk82ppwoBEca`, ta sama nazwa, cron i prompt co do znaku)
+- `session_01SdxKtAvW8UmktsuXrsPYga` — Łowca na Fable 5 (sesja 2), 22.09–12.10.2026; zastąpiony
+  sesją `session_01Qae65PWcmFBg2VLncXHB8Y` przy 528 tys. z 1 mln tokenów
+  (trigger `trig_01WCvLUvL5u2kNKc5GVR7xhj`, ta sama nazwa, cron i prompt co do znaku)
 
 ## Źródła Scouta
 
