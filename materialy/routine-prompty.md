@@ -1,10 +1,18 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 5.10.2026, 07:46 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 12.10.2026, 07:47 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
+
+## GSC: czy recenzje 75434 i 42650 w Google
+
+- ID: `trig_01N7j4YmARYuHF8mG9n9qoSt` · cron `` · włączony · stała sesja (zmiana promptu = delete + create)
+
+```
+Sprawdź w GSC (skrypty /tmp/claude-0/kl/inspect.mjs i sitemap.mjs; jeśli ich nie ma — URL Inspection API i webmasters/v3 sitemaps z GSC_KEY_JSON_B64, NODE_USE_ENV_PROXY=1): (1) inspekcja https://tylkoklocki.pl/artykuly/lego-75434-droid-straznik-k-2so-recenzja/ i https://tylkoklocki.pl/artykuly/lego-42650-sklep-z-akcesoriami-dla-zwierzat-recenzja/ — verdict, coverageState, lastCrawlTime (11.10 obie „Google nieznany”, prośby wysłane przez Coworka ok. 12:50 PL); (2) sitemap-artykuly.xml — lastDownloaded (11.10 zgłoszona ponownie przez API o 10:53 UTC, ostatnio czytana 9.10). Krótko do Marka w 2–3 linijkach; jeśli nadal nieznane, nic nie ponawiaj — napisz, że to normalne do kilku dni.
+```
 
 ## LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków)
 
@@ -24,7 +32,7 @@ Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, ża
 
 ## LEGO 05:00 — Scout nowości (runner z pushem, Opus 5)
 
-- ID: `trig_013QRUCfL8ZAa45eDkQUkWXD` · cron `CRON_TZ=Europe/Warsaw 0 5 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_013FFv1Aaj5gsCrAn27emwih` · cron `CRON_TZ=Europe/Warsaw 0 5 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Scouta Nowości. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -46,6 +54,7 @@ Zasada: dane katalogowe (numer, elementy, RRP) zawsze z Bricksetu. PromoBricks i
 PROCEDURA:
 1. Lista znanych setów: `src/data/known_sets.json`. Nowościami są wyłącznie sety, których tam nie ma. Na końcu zaktualizuj ten plik.
 2. Nowe sety POTWIERDZONE przez LEGO DOŁÓŻ do `src/data/sety.json` — nigdy od zera, nie usuwaj ani nie skracaj wpisów. Struktura: numer jako klucz; pola: nazwa (PL), seria, cena_katalogowa, elementy, wiek, premiera (RRRR-MM), opis, dla_rodzica, dla_afol, oferty ({sklep, cena, data}). Nie ustawiaj `status_nowosci: przeciek` nowym wpisom — od 15.09.2026 przecieki żyją w osobnym pliku (punkt 6); trzy stare wpisy z tym statusem (21375, 11387, 77094) zostają, dopóki LEGO ich nie potwierdzi — wtedy usuń im pole `status_nowosci` i uzupełnij dane. Opisy własnymi słowami po polsku, w tonie serwisu (zasady w `redakcja/standard-artykulow-biezacych.md`: bez „cegieł", bez języka marketingowego producenta, bez sztucznej presji).
+   OPISY ZESTAWÓW TO TEKST DLA CZYTELNIKA (od 11.10.2026; RUNBOOK „Opisy zestawów w sety.json"). `opis`, `dla_rodzica` i `dla_afol` stoją na stronie zestawu i w tabelach serii oraz Nowości — czyta je kupujący. NIE piszesz w nich o naszym procesie: skąd i kiedy wzięliśmy dane („z feedu sklepu LEGO z 22 września", „cena weszła do feedu 6 października"), stanu katalogu Brickset („pusty rekord", „numer figurował jako pusty", „przeniósł z motywu DC do Art", pola `availability`/`launchDate`/`pieces`, „karty produktowe ruszyły"), naszych szacunków i przeliczników („mnożnik 4,33", „wcześniej szacowaliśmy", „nasze oszacowanie"), korekt („KOREKTA 1.10…"), tego, że zestaw „wisiał u nas w przeciekach". Źródło przywołujesz tylko wtedy, gdy to informacja dla czytelnika: ocena na Bricksecie, „według StoneWars 13 minifigurek", cena niemiecka („w Niemczech 59,99 euro"). Terminy piszesz datą („premiera 1 listopada 2026"), nigdy stanem na dziś („zestaw nie jest jeszcze w sprzedaży" — 11.10 to zdanie stało przy ośmiu zestawach sprzedawanych od sierpnia). Gdy zmieniasz dane istniejącego wpisu (doszła cena, data, nazwa), PRZEPISZ zdanie, którego to dotyczy — nie doklejaj drugiego (opis 11379 mówił naraz „ceny LEGO wciąż nie podało" i „cena katalogowa to 559,99 zł"). Wszystko, co jest notatką roboczą, idzie do podsumowania przebiegu, nie do sety.json. Wzór: 37 pól przepisanych 11.10.2026 (np. 11390, 21373, 67008).
 3. Walidacja: poprawny JSON, liczba setów nie zmalała (dotyczy też `przecieki.json` — liczba wpisów nie maleje, wpisy się rozstrzyga, nie kasuje). Commit „Scout: nowości <data>" (sety.json + known_sets.json + przecieki.json razem), push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
 4. Brak nowości i brak zmian w przeciekach = napisz to wprost i nie commituj.
 5. WYCOFANIA — NIE TWOJE ZADANIE (ustalone 15.09.2026). Nie edytuj `src/data/wycofania.json` — właścicielem tego pliku i jego reguł statusów jest cotygodniowy runner „Wycofania" (poniedziałek). Jeśli w źródłach trafisz na sygnał wycofania (lista „Ostatnia szansa"/„Retiring soon" na StoneWars, PromoBricks, Brickset, komunikat LEGO), dopisz go do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako krótki wpis:
@@ -53,12 +62,15 @@ PROCEDURA:
     ## <RRRR-MM-DD> <HH:MM> · SCOUT · Sygnały wycofań dla runnera Wycofań
     - <numer> <nazwa> — <źródło z adresem>, <co mówi źródło: termin / „ostatnia szansa" / zniknął z lego.com>
 
-Jeden wpis na przebieg, tylko gdy są sygnały; wpis commitujesz razem z resztą. Runner Wycofań czyta te wpisy w poniedziałek i weryfikuje u źródła. Dzięki temu plik ma jednego autora, a Ty nie tracisz informacji.
+Jeden wpis na przebieg, tylko gdy są sygnały; wpis commitujesz razem z resztą. Runner Wycofań czyta te wpisy w poniedziałek i weryfikuje u źródła. Dzięki temu plik ma jednego autora, a Ty nie tracisz informacji. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi też w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.)
 
 6. PRZECIEKI — TWÓJ PLIK: `src/data/przecieki.json` (od 15.09.2026; strona `/przecieki/`, zasady w RUNBOOK.md „Przecieki — dział osobno od faktów"). Przeciek = zestaw, o którym piszą PromoBricks/StoneWars/społeczność, a LEGO go nie potwierdziło. Taki zestaw NIE wchodzi do sety.json. Zamiast tego:
-   a) NOWY przeciek (nie ma go w `przecieki` po numerze ani po nazwie) — dopisz wpis: `{id (numer albo slug), numer (albo null), nazwa (PL), seria, elementy, cena_wg_zrodla (PLN, orientacyjnie; jeśli źródło podaje EUR — przelicz i zaokrąglij do 10 zł), premiera_wg_zrodla (RRRR-MM albo RRRR), pewnosc, zrodla: [{nazwa, url, data}], dodano: <dziś>, uwagi, rozstrzygniecie: null}`. Pewność wg drabiny z `_meta.pewnosc`: „wysoka" tylko gdy DWA niezależne serwisy (PromoBricks i StoneWars) zgadzają się co do numeru i ceny; „srednia" gdy jedno źródło branżowe plus dowód (zdjęcie, listing sklepu, katalog dystrybutora); „niska" gdy jedno źródło społecznościowe albo sam numer. Nie zawyżaj: brak drugiego źródła = najwyżej „srednia".
-   b) ZNANY przeciek z nowym dowodem — podnieś `pewnosc` (nigdy nie obniżaj) i dopisz źródło do `zrodla`; nie zmieniaj `dodano`.
-   c) ROZSTRZYGNIĘCIE — gdy LEGO ujawni zestaw (karta na lego.com wg Bricksetu, komunikat) albo minie zapowiadane okno plus 3 miesiące: ustaw `rozstrzygniecie: {kiedy: <dziś>, wynik: potwierdzony|zmieniony|obalony, co_sie_zmienilo}` wg `_meta.wynik` (potwierdzony = numer zgodny, cena ±10%, termin ±1 miesiąc; zmieniony = wszedł, ale inny numer/cena/termin — wpisz co; obalony = nie wszedł). Zestaw potwierdzony dołóż wtedy normalnie do sety.json (punkt 2). Wpisu w przecieki.json nigdy nie kasuj — to jest tablica trafności.
+   a) NOWY przeciek (nie ma go w `przecieki` po numerze ani po nazwie) — dopisz wpis: `{id (numer albo slug), numer (albo null), nazwa (PL), seria, elementy, cena_wg_zrodla (PLN, orientacyjnie; jeśli źródło podaje EUR — przelicz i zaokrąglij do 10 zł), premiera_wg_zrodla (RRRR-MM albo RRRR), pewnosc, zrodla: [{nazwa, url, data}], dodano: <dziś>, uwagi, opis, rozstrzygniecie: null}`. Pewność wg drabiny z `_meta.pewnosc`: „wysoka" tylko gdy DWA niezależne serwisy (PromoBricks i StoneWars) zgadzają się co do numeru i ceny; „srednia" gdy jedno źródło branżowe plus dowód (zdjęcie, listing sklepu, katalog dystrybutora); „niska" gdy jedno źródło społecznościowe albo sam numer. Nie zawyżaj: brak drugiego źródła = najwyżej „srednia".
+   OPIS I UWAGI — DWA RÓŻNE POLA (od 11.10.2026; RUNBOOK, sekcja Przecieki):
+   - `opis` — tekst dla czytelnika i JEDYNE pole tekstowe pokazywane na /przecieki/. 2–5 zdań po polsku: co to za zestaw, co wiadomo (elementy, cena, termin i od kogo), na czym opiera się przeciek i czego brakuje do pewności. Pisany w stanie na dziś, jak krótka notka redakcyjna. NIE wolno w nim: dat naszych sprawdzeń („sprawdzone 06.10"), słów roboczych („PODNIESIENIE", „drabina", „zapisuję", „nie zakładam wpisu"), cytowania wartości pól („srednia"), wersalików dla podkreślenia ani pierwszej osoby. To, co opis mówi o pewności, musi zgadzać się z polem `pewnosc` — plakietka stoi tuż obok. Wzór: 13 opisów dopisanych 11.10.2026 (np. wpisy 40898, 11388, 75484).
+   - `uwagi` — notatki robocze dla nas: co i kiedy sprawdziłeś, dlaczego taka pewność, historia zmian. Czytelnik ich nie widzi, więc tu możesz pisać tak jak dotąd.
+   b) ZNANY przeciek z nowym dowodem — podnieś `pewnosc` (nigdy nie obniżaj), dopisz źródło do `zrodla`, PRZEPISZ `opis` na nowy stan (cały tekst od nowa, bez doklejania akapitu o aktualizacji), a historię zmiany dopisz do `uwagi`; nie zmieniaj `dodano`. Wpis bez `opisu` (starsze, krótkie) uzupełnij przy okazji, gdy masz o nim cokolwiek do powiedzenia.
+   c) ROZSTRZYGNIĘCIE — gdy LEGO ujawni zestaw (karta na lego.com wg Bricksetu, komunikat) albo minie zapowiadane okno plus 3 miesiące: ustaw `rozstrzygniecie: {kiedy: <dziś>, wynik: potwierdzony|zmieniony|obalony, co_sie_zmienilo}` wg `_meta.wynik` (potwierdzony = numer zgodny, cena ±10%, termin ±1 miesiąc; zmieniony = wszedł, ale inny numer/cena/termin — wpisz co; obalony = nie wszedł). `co_sie_zmienilo` czyta czytelnik — 1–3 zdania bez języka roboczego (wzór: 8 rozstrzygnięć przepisanych 11.10.2026, np. 67008); uzasadnienie i ewentualne korekty wyniku dopisz do `uwagi`. Zestaw potwierdzony dołóż wtedy normalnie do sety.json (punkt 2). Wpisu w przecieki.json nigdy nie kasuj — to jest tablica trafności.
    d) Zaktualizuj `_meta.zaktualizowano` na dzisiejszą datę, gdy cokolwiek zmieniłeś.
 
 BUDŻET — przebieg ma być tani: maksymalnie ~10 pobrań stron łącznie, bez równoległych agentów, bez WebSearch. Jeśli któreś ze źródeł nie odpowiada, pracuj na pozostałych i napisz to w raporcie zamiast szukać zamienników.
@@ -143,17 +155,23 @@ Raport dostarcz jako PDF przez SendUserFile (nie Markdown — Marek nie otwiera 
 
 ## LEGO pon 06:10 — Wycofania (runner z pushem)
 
-- ID: `trig_01NLRxmXX6Y6bMwCV8sevTUs` · cron `CRON_TZ=Europe/Warsaw 10 6 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01MGb7VnMvdSHp9Jwa7HyQ69` · cron `CRON_TZ=Europe/Warsaw 10 6 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
 
-0. DIAGNOZA (od 15.09.2026): zaraz po pull `node scripts/diagnoza.mjs --szybko`. Brak zmiennej (RESEND_API_KEY do maila) wpisz w pierwszej linii podsumowania i pracuj dalej.
+0. DIAGNOZA (od 15.09.2026): zaraz po pull `node scripts/diagnoza.mjs --szybko`. Brak zmiennej (RESEND_API_KEY do maila, FIRECRAWL_KEY do działu LEGO) wpisz w pierwszej linii podsumowania i pracuj dalej.
 
 1. Plik danych: src/data/wycofania.json w klonie tej sesji (w _meta instrukcja formatu — trzymaj się jej). Zweryfikuj, że ma co najmniej ~300 pozycji. Jesteś JEDYNYM autorem tego pliku. NIE edytujesz `src/data/katalog.json` — status „dostepny/eol" w katalogu ustawia cotygodniowy zaciąg listingu lego.pl (wtorek, `lego-ceny.mjs`): zestaw widziany na listingu jest „dostepny", zestaw nieobecny 14 dni przechodzi na „eol". Listing lego.pl jest arbitrem tego, czy LEGO sprzedaje zestaw.
 
-2. Źródła: dział „Ostatnie sztuki" na lego.com/pl-pl (potwierdzone), brickset.com oraz listy „Ostatnia szansa"/„Retiring soon" na stonewars.de i promobricks.de (potwierdzone, gdy piszą, że to oznaczenie LEGO w firmowym sklepie; inaczej przewidywane). WSZYSTKIE serie — strona /wycofania/ pokazuje każdą serię z pliku. Uwaga: lego.com blokuje ruch serwerowy (403) — gdy nie odpowiada, nie kombinuj; pole `lego_pl_widziano` w `katalog.json` mówi, kiedy listing lego.pl ostatnio pokazał zestaw, i to jest Twój zamiennik sprawdzenia „czy jeszcze w sprzedaży".
-2a. Sygnały od Scouta: zacznij od `DZIENNIK.md` — Scout dopisuje w ciągu tygodnia wpisy „SCOUT · Sygnały wycofań dla runnera Wycofań" z numerami i źródłami. Każdy sygnał zweryfikuj u źródła i dopiero wtedy dopisz do pliku; bez potwierdzenia u LEGO wpis dostaje status „przewidywane" tylko wtedy, gdy podają go dwa niezależne źródła. Pod każdym przetworzonym wpisem Scouta dopisz jedną linijkę „→ Wycofania <data>: dopisane / odrzucone (powód)", żeby Kontroler nie liczył go jako zadania bez właściciela.
+2. DZIAŁ „OSTATNIE ZESTAWY" LEGO — GŁÓWNE ŹRÓDŁO STATUSU (od 12.10.2026). Uruchom `node scripts/lego-ostatnie.mjs --wyjscie /tmp/ostatnie.json` (Firecrawl, ok. 16 kredytów, kilka minut). lego.com odrzuca WebFetch i curl (403) — dlatego do 10.10 ten dział był dla Ciebie niewidoczny i 93 zestawy z niego stały u nas jako „przewidywane". Skrypt sam porównuje dział z wycofania.json i wypisuje cztery listy:
+   a) „W dziale, u nas przewidywane" → zmień status na „potwierdzone" (zestaw w dziale = oznaczenie LEGO; termin `kiedy` zostaw, chyba że źródło podaje inny),
+   b) „W dziale, w katalogu, BRAK w wycofania.json" → dopisz pozycje (pkt 3); breloki, miecze i akcesoria 854xxx/5xxxxxx pomiń jak dotąd,
+   c) „Nieznane katalogowi" → pomiń, jedna linijka w podsumowaniu,
+   d) „U nas potwierdzone, a nie ma ich w dziale" → NIE obniżaj automatycznie (zestaw mógł się wyprzedać i zniknąć z działu; kalendarze adwentowe z definicji schodzą po sezonie) — tylko lista w podsumowaniu.
+   Jeśli skrypt zgłosi, że odczytał mniej niż 90% deklarowanej liczby — nie zmieniaj statusów na jego podstawie, napisz to w pierwszej linii. Pierwszy przebieg po zmianie (12.10) ma do zrobienia ok. 93 potwierdzeń i 27 dopisań — to jeden commit.
+   Źródła uzupełniające: brickset.com oraz listy „Ostatnia szansa"/„Retiring soon" na stonewars.de i promobricks.de (potwierdzone, gdy piszą, że to oznaczenie LEGO w firmowym sklepie; inaczej przewidywane). WSZYSTKIE serie — strona /wycofania/ pokazuje każdą serię z pliku. Pole `lego_pl_widziano` w `katalog.json` mówi, kiedy listing lego.pl ostatnio pokazał zestaw — to sprawdzenie „czy jeszcze w sprzedaży".
+2a. ZADANIA Z DZIENNIKA: zacznij od `DZIENNIK.md`. Bierzesz dwa rodzaje wpisów: (1) „SCOUT · Sygnały wycofań dla runnera Wycofań" (i inne wpisy Scouta ze słowem „wycofa" w tytule) z numerami i źródłami; (2) od 10.10.2026 także pozycje z wpisów „RADAR · Do zrobienia", których linia „Kto:" wskazuje runnera Wycofań albo „Zrobić:" mówi o `wycofania.json` (np. RADAR 16.09: pięć zestawów ze złym statusem). Każdy sygnał zweryfikuj u źródła (dział z pkt 2 rozstrzyga najczęściej) i dopiero wtedy zmień plik; bez potwierdzenia u LEGO wpis dostaje status „przewidywane" tylko wtedy, gdy podają go dwa niezależne źródła. Pod każdym przetworzonym wpisem dopisz jedną linijkę „→ Wycofania <data>: dopisane / zmienione / odrzucone (powód)" — od 10.10 skrypt archiwizacji dziennika trzyma wpisy RADAR/SCOUT tak długo, aż pod każdą otwartą pozycją stoi taka linia, więc bez niej zadanie wisi w dzienniku tygodniami.
 
 3. Aktualizuj przez DOŁOŻENIE zmian: dopisz nowe pozycje (numer, nazwa PL, seria, elementy, kiedy, status potwierdzone/przewidywane, jedno zdanie uwag własnymi słowami), zmieniaj status przewidywane→potwierdzone gdy LEGO potwierdzi, nie usuwaj wpisów. Oznaczenie „wycofany" (kiedy: "wycofany") dajesz TYLKO, gdy zestaw ma w `katalog.json` status „eol" albo `lego_pl_widziano` starsze niż 14 dni — jeśli listing lego.pl widział go w ostatnim tygodniu, LEGO go jeszcze sprzedaje i wpis zostaje z terminem, nie „wycofany".
 
@@ -161,7 +179,7 @@ Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesj
 
 5. Jeśli są zmiany: zaktualizuj _meta.aktualizacja, zwaliduj JSON (liczba pozycji nie zmalała), commit "Wycofania: aktualizacja <data>" (wycofania.json + DZIENNIK.md z adnotacjami do sygnałów), push na main. Konflikt → pull, nanieś ponownie, push. Push niemożliwy → dokładny błąd gita w podsumowaniu + plik przez SendUserFile. Jeśli nic się nie zmieniło — napisz to wprost i nie commituj.
 
-6. Podsumowanie: co doszło, co zmieniło status, wynik kontroli spójności (A i H), sygnały Scouta przetworzone/odrzucone. Opisy własnymi słowami, po polsku.
+6. Podsumowanie: liczby ze skryptu lego-ostatnie (produkty w dziale, potwierdzone, dopisane, lista d), co doszło, co zmieniło status, wynik kontroli spójności (A i H), sygnały Scouta i zadania Radaru przetworzone/odrzucone. Opisy własnymi słowami, po polsku.
 
 7. WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani plików z SendUserFile — dostaje wyłącznie mail. Zapisz PODSUMOWANIE z poprzedniego punktu do pliku `/tmp/raport-wycofania.md` (zwykły markdown: nagłówki, tabele, listy — dokładnie to, co piszesz w rozmowie), po czym z katalogu repo uruchom:
 
