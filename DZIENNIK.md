@@ -118,6 +118,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-12 12:05 · CODE · Audyt po przebudowie 11.10 i przeniesieniu runnerów
+
+Raport: `materialy/audyt-2026-10-12.md` (+ 4 raporty cząstkowe w `materialy/audyt-2026-10-12/`).
+- Strona i runnery bez regresji; 16 Routines, każdy runner z pushem ma commity zgodnie z harmonogramem.
+- **MediaMarkt zaakceptowany w TD od 20.08, RTV Euro odrzucony 03.09** — wyszło z API dopiero dziś; rejestr poprawiony, linków MM jeszcze nie ma (czekają na stawkę z panelu).
+- Od 30.09 zero transakcji w sieciach z API; wyświetlenia w Google ~4× niżej niż przed 22.09; główne listingi bez crawla 27 dni.
+- Poprawione od ręki: notatka robocza w `bez_rrp` (40897, 40900), nazwa źródła przecieku 75484, odmiana „323 zestawy” na /wycofania/, stare ID triggerów w NARZEDZIA i zadaniach cyklicznych.
+- Sesja Scouta po kompakcji: 169 tys. tokenów — nowa sesja niepotrzebna.
+- Decyzje dla Marka: D1–D10 w sekcji 10 raportu (najpilniejsze: filtr botów w workerze, MediaMarkt, ponowienie zgłoszeń, odczyt paneli przez Coworka).
+
 ## 2026-10-12 10:05 · CODE · Radar, Wycofania, Łowca i Kontroler w nowych sesjach
 - Stara sesja Radaru `session_01UFkqKNwQexnxLN34HotM4G` doszła do 708 tys. z 1 mln tokenów. Nowa: `session_01N5Bt5oyhgJzLB1FJff9Q3H` (Opus 5, repo z pushem), trigger `trig_012neuySD2HrJgptvXLe2fN9` — ta sama nazwa, cron 08:00 PL i prompt (dopisana tylko wskazówka o całej linii znacznika w dzienniku). Stary trigger `trig_01WgDxbN6eB2QzAZha7dWBfx` skasowany po dzisiejszym przebiegu; starej sesji nie kasujemy (archiwum kontekstu). Pamięć Radaru między przebiegami to `konkurencja_baza.json`, więc nowa sesja niczego nie traci.
 - Wycofania też w nowej sesji: `session_01LbKufez6akmviSBqoBRxhC` (Fable 5), trigger `trig_01HtJFSA2mKYUk82ppwoBEca` — prompt identyczny ze starym. Stary `trig_01MGb7VnMvdSHp9Jwa7HyQ69` skasowany po dzisiejszym przebiegu (commit 1f5b561); stara sesja `session_01KfWF14fJvwK78sBVG6XAz8` (581 tys. tokenów) zostaje jako archiwum. Pamięć runnera to `wycofania.json` i adnotacje „→ Wycofania” w dzienniku.

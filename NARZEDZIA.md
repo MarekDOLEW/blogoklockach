@@ -113,7 +113,7 @@ zdublowana praca na plikach po 2 MB.
 Scout, Wycofania, Łowca, Radar i (od 22.09.2026) „Dane wt 05:30"
 działają jako trwałe sesje Claude Code Remote (`persist_session: true`) z repo
 w źródłach sesji — tylko one mogą pushować. Od 22.09.2026 Kontroler
-(`trig_0167qmnWn3Qjjz8HTwZU1uEP`) też jest trwałą sesją z repo. Zdjęcia → R2
+(od 12.10.2026 `trig_01XGtqSHKVQ9cL2uERVx3Gmi`) też jest trwałą sesją z repo. Zdjęcia → R2
 (04:45 i drugi przebieg 09:45), Przypomnienie o Empiku i Alerty cen startują
 świeżą sesją przy każdym odpaleniu (Social skasowany 15.09.2026, Backfill
 i „Empik co tydzien” skasowane 30.09.2026); **świeża sesja z Routine — z API

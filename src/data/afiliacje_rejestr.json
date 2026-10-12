@@ -9,11 +9,11 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-09-17",
+  "zaktualizowano": "2026-10-12",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
-   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Ceneo/MediaMarkt/RTV Euro - status do sprawdzenia w panelu.",
+   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Stan z TD Publisher API 12.10.2026: Ceneo, Lidl, Allegro, MediaMarkt (od 20.08) ZAAKCEPTOWANE; RTV Euro ODRZUCONY 03.09.",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
@@ -95,23 +95,23 @@
  },
  "mediamarkt": {
   "siec": "Tradedoubler",
-  "status": "wyslane",
+  "status": "aktywny",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
-  "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje."
+  "feed": "Tradedoubler, MediaMarkt_feed (fid 96394), ok. 112 pozycji LEGO (12.10.2026)",
+  "data": "2026-08-20",
+  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje. Akceptacja wykryta 12.10.2026 w TD Publisher API (Media Markt PL, program 229227, statusId 3 ACCEPTED, zmiana 2026-08-20 14:36) — przez 7 tygodni rejestr mowil \"wyslane\". Prowizja i cookie do potwierdzenia w panelu TD; linki i ceny jeszcze niepodpiete."
  },
  "rtveuroagd": {
   "siec": "Tradedoubler",
-  "status": "wyslane",
+  "status": "odrzucony",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO."
+  "data": "2026-09-03",
+  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO. Odrzucenie wykryte 12.10.2026 w TD Publisher API (program 118512, statusId 5 REJECTED, 2026-09-03); powod niewidoczny w API."
  },
  "smyk": {
   "siec": "Adtraction",

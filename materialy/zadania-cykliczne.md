@@ -9,7 +9,7 @@ zapisuje odpowiedź do pliku i uruchamia `node scripts/harmonogram-z-konta.mjs
 <plik>.json`. Routines nie mają API dostępnego dla skryptu w repo, więc odczyt
 musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Od 22.09.2026
 robi to sesja Code własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
-(`trig_01GJ2ecMp3gwtkZ1pFyUPKLH`); Kontroler (pon 09:00) czyta gotowe pliki
+(pierwotnie `trig_01GJ2ecMp3gwtkZ1pFyUPKLH`, od 30.09.2026 `trig_01LU2xZxWqyCmNYv7rPyik3x`); Kontroler (pon 09:00) czyta gotowe pliki
 z repo i nie woła API.
 
 **Dlaczego nie ręcznie.** Sprawdzone 14.09.2026: siedem z ośmiu wierszy kolumny
@@ -98,8 +98,8 @@ cofnęłoby cały dzień pracy. Do tego wyłączony trigger dalej pokazywał
 
 **Zostaje jeden: `trig_01JhfcGMgzv1nBwiguH93m6N`**, poniedziałek 09:00 PL.
 *(Nieaktualne od 22.09.2026: ten trigger też został skasowany; od 22.09 po
-południu obowiązuje `trig_0167qmnWn3Qjjz8HTwZU1uEP` na trwałej sesji — patrz
-„Historia zmian".)*
+południu obowiązywał `trig_0167qmnWn3Qjjz8HTwZU1uEP` na trwałej sesji, a od 12.10.2026
+`trig_01XGtqSHKVQ9cL2uERVx3Gmi` w nowej sesji — patrz „Historia zmian".)*
 
 Zmierzona różnica między nimi, zanim stary zniknął: stary miał trzy konektory
 (Adobe, Google Calendar, Claude_Code_Remote), nowy ma sześć (dodatkowo Alpha
@@ -345,6 +345,19 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**11–12.10.2026 (nowe prompty i nowe sesje runnerów)**
+- 11.10 Scout odtworzony (delete+create, ta sama sesja `session_012AZejbFzsfzkTh4FPaAkVg`):
+  `trig_013FFv1Aaj5gsCrAn27emwih` — reguły „opis dla czytelnika" w przeciekach i w `sety.json`.
+  12.10 sesja Scouta po automatycznej kompakcji ma 169 tys. tokenów — nowa sesja niepotrzebna.
+- 12.10 cztery runnery przeniesione do nowych sesji (create_session → create_trigger z tym samym
+  cronem i promptem → diff promptu → delete starego triggera; stare sesje zostają, lista
+  „Sesje archiwalne"): Radar `trig_012neuySD2HrJgptvXLe2fN9`, Wycofania `trig_01HtJFSA2mKYUk82ppwoBEca`
+  (prompt z działem „Ostatnie zestawy" lego.com), Łowca `trig_01WCvLUvL5u2kNKc5GVR7xhj`,
+  Kontroler `trig_01XGtqSHKVQ9cL2uERVx3Gmi`. Test startowy: zmienne, zależności, push — Kontroler bez
+  jawnego potwierdzenia pushu, weryfikacja przy przebiegu 19.10.
+- Zrzut w sekcji powyżej (12.10 07:47) jest sprzed przeniesienia i pokazuje stare ID — przepisze go
+  poniedziałkowy `harmonogram-z-konta.mjs` 19.10.
 
 **02.10.2026 (historia cen we właściwym miejscu)**
 - Łowca odtworzony (delete+create, ta sama sesja `session_01SdxKtAvW8UmktsuXrsPYga`, ten sam cron
