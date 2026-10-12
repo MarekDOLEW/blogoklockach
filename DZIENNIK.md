@@ -118,6 +118,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-12 14:20 · CODE · Odczyt paneli przez Coworka (audyt 12.10, sekcja 13)
+
+- GSC 09.10: **831 zindeksowanych** (18.09: 807, od 22.09 bez zmian), 3 181 nie: noindex 2 284, wykryta-niezindeksowana 647, **404: 220**. To jest punkt odniesienia dla Kontrolera (kamień 4).
+- Noindex w `sitemap-zestawy` (239) to stary crawl, nie reguła: 10365 crawlowany 10.09, od tamtej pory indeksowalny. Wąskie gardło to częstotliwość crawla.
+- Cloudflare 30 dni: 82% wizyt z Chin (boty), Polska ok. 20 dziennie.
+- MediaMarkt 1,5%, cookie 30 dni, deep linking i porównywarki dozwolone; PK 3%, cookie 30 dni; TD saldo 40,40 zł, płatność 26.10; TD kliki 6–12.10: 139 (fala botów), brak komunikatów o jakości. Rejestr afiliacji uzupełniony.
+- Do odczytu przy następnej okazji: lista 220 adresów 404 (eksport z GSC), panele Allegro i SalesMasters, Adtraction, Rakuten.
+
 ## 2026-10-12 13:10 · CODE · Filtr botów (D1) i punkty z sekcji 11 audytu
 
 - **Worker `/idz/` (1c663ad, zgoda Marka D1):** referer z naszej domeny musi mieć ścieżkę z ukośnikiem na końcu i nie wskazywać `/idz/`; podrobionego referera nie ratuje już Sec-Fetch-Site; `/promocje-lego/` i `/aktualnosci/` dopuszczone. `diagnoza.mjs` wysyła `x-tk-test` → w statystyce „test”. Symulacja na 30 dniach: 186/186 kliknięć z PL bez zmian, 703 z 751 spoza PL odrzucone.

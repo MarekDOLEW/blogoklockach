@@ -13,10 +13,10 @@
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
-   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Stan z TD Publisher API 12.10.2026: Ceneo, Lidl, Allegro, MediaMarkt (od 20.08) ZAAKCEPTOWANE; RTV Euro ODRZUCONY 03.09.",
+   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Stan z TD Publisher API 12.10.2026: Ceneo, Lidl, Allegro, MediaMarkt (od 20.08) ZAAKCEPTOWANE; RTV Euro ODRZUCONY 03.09. Panel 12.10: saldo 40,40 zl (oczekujace 32,27 zl, zatwierdzone 8,13 zl), nastepna platnosc 26.10.2026; brak komunikatow o jakosci ruchu.",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
-   "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
+   "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci). Stan 12.10.2026 (panel): al.to PL, x-kom PL, Komputronik PL, Allegro PL — wszystkie \"Join\" (niezgloszone); stawki 2% / 2% / 1,5% / 1,97%, platnosc 108-124 dni.",
    "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
    "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
    "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
@@ -36,12 +36,12 @@
  "planetaklockow": {
   "siec": "webePartners",
   "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
+  "prowizja": "CPS 3,00% (panel webePartners, odczyt Coworka 12.10.2026; srednia walidacja 45 dni)",
+  "cookie_dni": 30,
   "format_linkow": "deeplink z panelu webePartners",
   "feed": "feedy.json -> planetaklockow (dziala, zasila Lowce Promocji)",
   "data": "2026-08-14",
-  "uwagi": "Pierwszy aktywny program. Prowizje/cookie do potwierdzenia w panelu."
+  "uwagi": "Pierwszy aktywny program. Prowizje/cookie do potwierdzenia w panelu. 12.10.2026 panel: 12.09-12.10 0 transakcji, 0,00 zl; nasze kliki do PK w tym oknie: 2 ludzkie z PL (PK rzadko jest najtansza)."
  },
  "mediaexpert": {
   "siec": "Performers (track.performers.tech)",
@@ -96,12 +96,12 @@
  "mediamarkt": {
   "siec": "Tradedoubler",
   "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
+  "prowizja": "1,50% dla wszystkich kategorii widocznych w panelu (AGD, Foto, Komputery, Gry i Konsole); zakres programu 1,50-6,00%; kategorii zabawek/LEGO brak w strukturze (odczyt Coworka 12.10.2026)",
+  "cookie_dni": 30,
+  "format_linkow": "Tradedoubler, deep linking DOZWOLONY",
   "feed": "Tradedoubler, MediaMarkt_feed (fid 96394), ok. 112 pozycji LEGO (12.10.2026)",
   "data": "2026-08-20",
-  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje. Akceptacja wykryta 12.10.2026 w TD Publisher API (Media Markt PL, program 229227, statusId 3 ACCEPTED, zmiana 2026-08-20 14:36) — przez 7 tygodni rejestr mowil \"wyslane\". Prowizja i cookie do potwierdzenia w panelu TD; linki i ceny jeszcze niepodpiete."
+  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje. Akceptacja wykryta 12.10.2026 w TD Publisher API (Media Markt PL, program 229227, statusId 3 ACCEPTED, zmiana 2026-08-20 14:36) — przez 7 tygodni rejestr mowil \"wyslane\". Prowizja i cookie do potwierdzenia w panelu TD; linki i ceny jeszcze niepodpiete. Warunki (panel 12.10): porownywarki cenowe i strony tematyczne dozwolone; zabronione CSS, Offline, Onsite Optimisation, Retargeting, Search; polityka slow kluczowych zamknieta; EPC programu 2,25 zl, odrzucenia 20%."
  },
  "rtveuroagd": {
   "siec": "Tradedoubler",
@@ -111,7 +111,7 @@
   "format_linkow": null,
   "feed": null,
   "data": "2026-09-03",
-  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO. Odrzucenie wykryte 12.10.2026 w TD Publisher API (program 118512, statusId 5 REJECTED, 2026-09-03); powod niewidoczny w API."
+  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO. Odrzucenie wykryte 12.10.2026 w TD Publisher API (program 118512, statusId 5 REJECTED, 2026-09-03); powod niewidoczny w API. Panel 12.10: powod odrzucenia niewidoczny (ani w szczegolach programu, ani w skrzynce)."
  },
  "smyk": {
   "siec": "Adtraction",
@@ -181,7 +181,7 @@
   "format_linkow": null,
   "feed": "Awin Create-a-Feed, odswiezany co godzine (155 tys. produktow)",
   "data": "2026-08-19",
-  "uwagi": "Zgloszenie wyslane 2026-08-19 (konto Awin zarejestrowane). Po akceptacji: Create-a-Feed / productdata.awin.com (feed co godzine) -> feedy.json + deeplinki Awin. Cookie 30 dni - linkowac z tresci poradnikowych."
+  "uwagi": "Zgloszenie wyslane 2026-08-19 (konto Awin zarejestrowane). Po akceptacji: Create-a-Feed / productdata.awin.com (feed co godzine) -> feedy.json + deeplinki Awin. Cookie 30 dni - linkowac z tresci poradnikowych. 12.10.2026 panel Awin: nadal \"Oczekujacy\" (od 19.08), data statusu niewidoczna; program: konw. 1,65%, zatw. 94,48%, EPC 1,68 zl, platnosc 43 dni."
  },
  "komputronik": {
   "siec": "Admitad (takze Convertiser - porownac)",
