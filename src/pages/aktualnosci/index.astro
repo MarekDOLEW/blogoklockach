@@ -1,13 +1,16 @@
 ---
 // Wszystkie aktualności (wejście „Zobacz wszystkie" ze strony głównej).
 // Ta sama lista i ta sama karta co slajder na głównej — src/lib/aktualnosci.js.
+import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import KartaAktualnosci from '../../components/KartaAktualnosci.astro';
 import { aktualnosci } from '../../lib/aktualnosci.js';
 
 const lista = aktualnosci();
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Aktualności', sciezka: '/aktualnosci/', pozycje: lista.map((z) => ({ nazwa: z.tytul, url: z.url })) });
 ---
 <Base
+  jsonld={jsonld}
   title="Aktualności LEGO – akcje sklepów i promocje z terminem"
   description="Akcje sklepów na zestawy LEGO, kampanie typu Black Weeks i promocje z datą końca. Sprawdzamy, co jest naprawdę okazją, a co tylko wygląda na rabat."
 >

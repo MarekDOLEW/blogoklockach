@@ -1,4 +1,5 @@
 ---
+import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import FiltrKategorii from '../../components/FiltrKategorii.astro';
@@ -49,8 +50,9 @@ const PRZEWODNIKI = [
 ];
 const poAdresie = new Map(zajawki.map((z) => [z.url.endsWith('/') ? z.url : `${z.url}/`, z]));
 const przewodniki = PRZEWODNIKI.map((u) => poAdresie.get(u)).filter(Boolean);
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Artykuły', sciezka: '/artykuly/', opis: 'Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.', pozycje: zajawki.map((z) => ({ nazwa: z.tytul, url: z.url })) });
 ---
-<Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
+<Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO." jsonld={jsonld}>
   <h1 style="margin-top:28px">Artykuły</h1>
   {przewodniki.length > 0 && (
     <section class="przewodniki" aria-labelledby="przewodniki-naglowek">

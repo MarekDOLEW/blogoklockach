@@ -20,14 +20,20 @@ export function generator(klucz) {
  * Do `ile` pozycji z puli w kolejności wylosowanej na dziś, przycięte do
  * wielokrotności `krok` (karuzela przewija trójkami – niepełna trójka wygląda
  * jak błąd). Pula mniejsza niż `krok` daje pustą listę.
+ *
+ * `najpierw` (opcjonalnie) – warunek pierwszeństwa: pozycje go spełniające idą
+ * na początek (w wylosowanej kolejności), reszta tylko dopełnia brakujące
+ * miejsca. Od 12.10.2026 karuzele dają pierwszeństwo hubom indeksowalnym –
+ * audyt: 59 z 336 kart prowadziło na strony z noindex.
  */
-export function propozycjeDnia(pula, klucz, { ile = 9, krok = 3, dzien = new Date() } = {}) {
+export function propozycjeDnia(pula, klucz, { ile = 9, krok = 3, dzien = new Date(), najpierw = null } = {}) {
   const losuj = generator(`${klucz}|${dzien.toISOString().slice(0, 10)}`);
   const lista = [...pula];
   for (let i = lista.length - 1; i > 0; i--) {
     const j = Math.floor(losuj() * (i + 1));
     [lista[i], lista[j]] = [lista[j], lista[i]];
   }
+  if (najpierw) lista.sort((x, y) => Number(Boolean(najpierw(y))) - Number(Boolean(najpierw(x))));
   const n = Math.min(lista.length, ile);
   return lista.slice(0, n - (n % krok));
 }

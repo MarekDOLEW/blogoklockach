@@ -1,4 +1,5 @@
 ---
+import { jsonldListingu } from '../lib/jsonld-listingu.js';
 import Base from '../layouts/Base.astro';
 import FiltrSetow from '../components/FiltrSetow.astro';
 import TabelaSetow from '../components/TabelaSetow.astro';
@@ -8,6 +9,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../lib/media.js';
 import { propozycjeDnia } from '../lib/losowanie.js';
 import { maHub } from '../lib/huby.js';
+import { hubIndeksowalny } from '../lib/seo.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
 import { statusNowosci } from '../lib/premiery.js';
 import { odmien, najlepszaOferta, linkAfiliacyjny } from '../lib/oferty.js';
@@ -107,7 +109,7 @@ const miesiaceNowosci = [...wierszeNowosci.reduce((m, w) => m.set(w.rok, (m.get(
     return { rok, ile, etykieta: etykietaMiesiaca(`${t.slice(0, 4)}-${t.slice(4)}`) };
   });
 const pulaKaruzeli = wierszeNowosci.filter((w) => w.hub && w.rok === ymNum(biezacy));
-const karuzela = propozycjeDnia(pulaKaruzeli.length >= 3 ? pulaKaruzeli : wierszeNowosci.filter((w) => w.hub), 'nowosci')
+const karuzela = propozycjeDnia(pulaKaruzeli.length >= 3 ? pulaKaruzeli : wierszeNowosci.filter((w) => w.hub), 'nowosci', { najpierw: (w) => hubIndeksowalny(w.numer) })
   .map((w) => ({ numer: w.numer, nazwa: w.nazwa, zdjecie: w.zdjecie, cena: w.oferta.cena, elementy: w.elementy, ekskluzyw: Boolean(sety[w.numer]?.ekskluzyw) }));
 const mBiezacy = miesiac(biezacy);
 
@@ -123,8 +125,9 @@ const miesiace = [...ilePerMiesiac]
   .filter(([, n]) => n >= PROG_SETOW)
   .sort((a, b) => (a[0] < b[0] ? 1 : -1))
   .map(([k, n]) => ({ ...miesiac(k), ile: n }));
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Nowości i zapowiedzi LEGO', sciezka: '/nowosci/', pozycje: nowe.map((s) => ({ nazwa: `LEGO ${s.nr} ${s.nazwa}`, url: `/zestaw/${s.nr}/` })) });
 ---
-<Base title="Nowości LEGO – premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy w sprzedaży i ${zapowiedzi.length} zapowiedzi. Ceny, liczba elementów, zdjęcia.`}>
+<Base title="Nowości LEGO – premiery i zapowiedzi" jsonld={jsonld} description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy w sprzedaży i ${zapowiedzi.length} zapowiedzi. Ceny, liczba elementów, zdjęcia.`}>
   <h1 style="margin-top:28px">Nowości i zapowiedzi LEGO</h1>
 
   <div class="przelacznik" data-widok="nowosci">

@@ -11,6 +11,7 @@ import ofertyFeed from '../../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../../lib/media.js';
 import { najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu, odmien } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
+import { hubIndeksowalny } from '../../lib/seo.js';
 import { statusListingu } from '../../lib/status.js';
 
 export function getStaticPaths() {
@@ -84,7 +85,8 @@ const lata = [...wiersze.reduce((m, w) => m.set(w.rok, (m.get(w.rok) ?? 0) + 1),
 // kartę. Zestaw sprzed lat sprzedawany na Allegro za wielokrotność ceny
 // katalogowej (np. 10173 Holiday Train) to nie propozycja – stąd !eolLego.
 const pula = wiersze.filter((w) => w.oferta && w.zdjecie && w.hub && w.status !== 'eol' && !w.eolLego);
-const propozycje = propozycjeDnia(pula, seria).map((w) => ({
+// Pierwszeństwo mają huby indeksowalne (audyt 12.10.2026); reszta tylko dopełnia.
+const propozycje = propozycjeDnia(pula, seria, { najpierw: (w) => hubIndeksowalny(w.numer) }).map((w) => ({
   numer: w.numer, nazwa: w.nazwa, zdjecie: w.zdjecie, cena: w.oferta.cena, elementy: w.elementy, ekskluzyw: Boolean(sety[w.numer]?.ekskluzyw),
 }));
 

@@ -1,4 +1,5 @@
 ---
+import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import SzukajZestawuInline from '../../components/SzukajZestawuInline.astro';
 import KafleSerii from '../../components/KafleSerii.astro';
@@ -8,8 +9,9 @@ import { kafleSerii } from '../../lib/serie-listing.js';
 // stronę /serie/archiwalne/ — przycisk przy nagłówku (decyzja Marka 15.09.2026).
 const kafle = kafleSerii(false);
 const archiwalnych = kafleSerii(true).length;
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Serie LEGO', sciezka: '/serie/', pozycje: kafle.map((k) => ({ nazwa: `LEGO ${k.seria}`, url: k.url })) });
 ---
-<Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
+<Base title="Klocki LEGO według serii" jsonld={jsonld} description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
   <div class="naglowek-akcja">
     <h1>Serie LEGO</h1>
     <a class="przycisk-drugi" href="/serie/archiwalne/">Serie archiwalne ({archiwalnych}) →</a>

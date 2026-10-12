@@ -173,6 +173,10 @@ export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
  */
 export function cenaKatalogowaSetu(nr, { sety = {} } = {}) {
   const klucz = String(nr);
+  // `bez_rrp` wygrywa z każdą liczbą (audyt 12.10.2026): gratis GWP 40896 miał
+  // w danych „wartość przypisaną przez LEGO" 81,99 zł i hub pokazywał ją jako
+  // wiersz LEGO.com z ceną, a rabat liczył od niej narzut kilkuset procent.
+  if (sety[klucz]?.bez_rrp || wpisKatalogu(klucz)?.bez_rrp) return null;
   return (
     rrpPotwierdzone[klucz]?.cena ??
     sety[klucz]?.cena_katalogowa ??

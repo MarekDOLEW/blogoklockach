@@ -118,6 +118,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-12 13:10 · CODE · Filtr botów (D1) i punkty z sekcji 11 audytu
+
+- **Worker `/idz/` (1c663ad, zgoda Marka D1):** referer z naszej domeny musi mieć ścieżkę z ukośnikiem na końcu i nie wskazywać `/idz/`; podrobionego referera nie ratuje już Sec-Fetch-Site; `/promocje-lego/` i `/aktualnosci/` dopuszczone. `diagnoza.mjs` wysyła `x-tk-test` → w statystyce „test”. Symulacja na 30 dniach: 186/186 kliknięć z PL bez zmian, 703 z 751 spoza PL odrzucone.
+- `noindex-do-opisania.py` liczy regułę z `ocenaHubu()` przez nowy `scripts/ocena-hubow.mjs` (bez własnej kopii); xlsx odświeżony: 8 356 hubów, 185 z ≥3 sklepami.
+- Karuzele serii i Nowości: pierwszeństwo dla hubów indeksowalnych (karty na noindex 59 → 38 z 336).
+- JSON-LD (BreadcrumbList + CollectionPage) na 7 listingach; `bez_rrp` wygrywa z RRP w `cenaKatalogowaSetu` (40896 GWP przestał udawać ofertę LEGO.com za 81,99 zł).
+- Baner „Akcja zakończona” w artykułach po `wazne_do` (Dzień Chłopaka, weekend x-kom).
+- Luki RRP: 11501 = 249,99 zł (lego.pl), 7 saszetek 30xxx i 40902 z `bez_rrp`; **40910, 40912, 40890 dla Scouta** (Brickset nie oddał danych w scrapie). Z 31 opisów `dla_afol` usunięte zdanie „Zestawu nie ma jeszcze w bazie Bricksetu…”.
+- `diagnoza.mjs` czyta statusy programów TD i porównuje z rejestrem afiliacji.
+- Bez zmian: sito wieku w `huby.js` — oferty >14 dni i tak nie są pokazywane, a trzy wskazane huby istnieją z katalogu; zmiana groziłaby 404 dla hubów spoza katalogu.
+
 ## 2026-10-12 12:05 · CODE · Audyt po przebudowie 11.10 i przeniesieniu runnerów
 
 Raport: `materialy/audyt-2026-10-12.md` (+ 4 raporty cząstkowe w `materialy/audyt-2026-10-12/`).

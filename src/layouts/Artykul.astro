@@ -83,6 +83,14 @@ const faqWidoczne = faqWTresci ? [] : frontmatter.faq ?? [];
 const zaktualizowano =
   frontmatter.zaktualizowano && frontmatter.zaktualizowano !== frontmatter.data ? frontmatter.zaktualizowano : null;
 
+// Akcja sklepu z datą końca (`wazne_do`, RRRR-MM-DD): po tym dniu nad treścią
+// staje komunikat, że akcja się skończyła (audyt 12.10.2026 — Dzień Chłopaka
+// w x-komie i weekend w aplikacji wisiały bez żadnej adnotacji, choć karta
+// w Aktualnościach mówiła już „akcja zakończona"). Strona buduje się codziennie
+// z przebiegiem Łowcy, więc komunikat pojawia się dzień po końcu akcji.
+const waznaDo = /^\d{4}-\d{2}-\d{2}$/.test(String(frontmatter.wazne_do ?? '')) ? String(frontmatter.wazne_do) : null;
+const akcjaZakonczona = waznaDo && waznaDo < new Date().toISOString().slice(0, 10);
+
 // Własny obraz OG artykułu/prezentownika; gdy go nie ma,
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
@@ -103,6 +111,12 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
       </span>
     </p>
     <h1>{frontmatter.title}</h1>
+    {akcjaZakonczona && (
+      <p class="karta akcja-zakonczona" role="note">
+        <strong>Akcja zakończona {dataPl(waznaDo)}.</strong> Ceny i warunki opisane niżej już nie obowiązują –
+        aktualne oferty znajdziesz w <a href="/promocje-lego/">Promocjach LEGO</a> i na stronach zestawów.
+      </p>
+    )}
     {pasekNr && <PasekCeny nr={pasekNr} oferty={pasekOferty} cenaKatalogowa={cenaKatalogowaSetu(pasekNr, { sety })} wariant="gora" kotwica={`/zestaw/${pasekNr}/`} />}
     <slot />
     <Faq faq={faqWidoczne} />

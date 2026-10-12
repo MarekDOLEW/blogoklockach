@@ -1,4 +1,5 @@
 ---
+import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import KafleSerii from '../../components/KafleSerii.astro';
 import { kafleSerii } from '../../lib/serie-listing.js';
@@ -7,8 +8,9 @@ import { kafleSerii } from '../../lib/serie-listing.js';
 // DOTS… Zestawy żyją na rynku wtórnym (Allegro), więc huby mają ceny i historię,
 // ale w głównym listingu /serie/ tylko by przeszkadzały (decyzja Marka 15.09.2026).
 const kafle = kafleSerii(true);
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Serie archiwalne LEGO', sciezka: '/serie/archiwalne/', pozycje: kafle.map((k) => ({ nazwa: `LEGO ${k.seria}`, url: k.url })) });
 ---
-<Base title="Serie archiwalne LEGO" description="Serie LEGO, których nie ma już w ofercie producenta: Bionicle, Nexo Knights, Legends of Chima, DOTS, Elves i inne. Pełne katalogi i ceny z rynku wtórnego.">
+<Base title="Serie archiwalne LEGO" jsonld={jsonld} description="Serie LEGO, których nie ma już w ofercie producenta: Bionicle, Nexo Knights, Legends of Chima, DOTS, Elves i inne. Pełne katalogi i ceny z rynku wtórnego.">
   <div class="naglowek-akcja">
     <h1>Serie archiwalne LEGO</h1>
     <a class="przycisk-drugi" href="/serie/">← Serie aktualne</a>

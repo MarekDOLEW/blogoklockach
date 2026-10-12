@@ -294,7 +294,7 @@ const opisMeta = najlepsza
         <h1>LEGO {nazwa} <span class="h1-numer">({nr})</span></h1>
         <div class="deal-meta" style="margin-bottom: 8px">
           {elementy && <span><strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}</span>}
-          {s?.cena_katalogowa && s?.elementy && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
+          {cenaKatalogowa && s?.elementy && <span><strong>{(cenaKatalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
           {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
           {premiera ? <span>premiera <strong>{(() => { try { return `${miesiac(premiera).mianownik} ${premiera.slice(0, 4)}`; } catch { return premiera; } })()}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
           {cenaKatalogowa

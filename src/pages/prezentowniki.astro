@@ -1,4 +1,5 @@
 ---
+import { jsonldListingu } from '../lib/jsonld-listingu.js';
 import Base from '../layouts/Base.astro';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import { zajawkiArtykulow, zajawkaZMeta } from '../lib/artykuly.js';
@@ -47,8 +48,9 @@ const zAstro = Object.values(import.meta.glob('./prezentowniki/*.astro', { eager
 // w meta), bo powstały jednego dnia i sama data ustawiałaby je alfabetycznie.
 // Przewodniki wiekowo-budżetowe zachowują dotychczasowy porządek datą malejąco.
 const przewodniki = [...zAstro, ...zMarkdownu];
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Prezentowniki', sciezka: '/prezentowniki/', opis: 'Pomysły na prezent z klocków LEGO według wieku, budżetu i okazji.', pozycje: przewodniki.map((z) => ({ nazwa: z.tytul, url: z.url })) });
 ---
-<Base title="Prezentowniki LEGO" description="Pomysły na prezent z klocków LEGO według wieku, budżetu i okazji – z aktualnymi cenami i rabatem liczonym od ceny katalogowej.">
+<Base title="Prezentowniki LEGO" jsonld={jsonld} description="Pomysły na prezent z klocków LEGO według wieku, budżetu i okazji – z aktualnymi cenami i rabatem liczonym od ceny katalogowej.">
   <h1 style="margin-top:28px">Prezentowniki</h1>
   <p>Przewodniki prezentowe według wieku, budżetu i okazji. Ceny przy zestawach są bieżące, a rabat liczymy od ceny katalogowej LEGO.</p>
 

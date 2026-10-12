@@ -4,6 +4,7 @@
 // o zasadach → jeden listing do 150 pozycji (30 na stronę, sortowanie po cenie,
 // filtr serii – wszystko w przeglądarce, HTML zawiera całą listę) → Okazje pod
 // lupą → Prezentowniki → Persony. Top 10 wycofań wyleciało (Marek 29.09).
+import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
 import { zajawkiArtykulow, sortujPostyDealowe, zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
@@ -144,8 +145,10 @@ const kartyPrezentownikow = new Map(
 );
 const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u)).filter(Boolean);
 
+const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Promocje LEGO', sciezka: '/promocje-lego/', opis: 'Zestawy LEGO w promocji w polskich sklepach, rabat liczony od ceny katalogowej.' });
 ---
 <Base
+  jsonld={jsonld}
   title="Promocje LEGO – rabaty liczone od cen katalogowych"
   description="Zestawy LEGO w promocji w polskich sklepach. Rabat liczymy od ceny katalogowej, nie od przekreślonej. Filtr serii, sortowanie po cenie i rabacie, nowe minima."
 >

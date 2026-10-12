@@ -1664,3 +1664,6 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 @media (max-width: 600px) {
   .propozycje__tor { grid-auto-columns: 100%; gap: 14px; }
 }
+
+/* Artykuł o akcji sklepu po dacie `wazne_do` (Artykul.astro) */
+.akcja-zakonczona { padding: 12px 16px; margin: 0 0 22px; border-left: 4px solid var(--granat-60); }

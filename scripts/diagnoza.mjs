@@ -253,6 +253,52 @@ if (szybko) {
       }),
     });
     dostepy.tradedoubler = o.ok ? { stan: 'ok' } : { stan: 'błąd', status: o.status, powod: o.blad };
+
+    // Statusy programów (od 12.10.2026). Audyt 12.10 wykrył, że MediaMarkt
+    // przyjął nas 20.08, a RTV Euro odrzucił 03.09 — rejestr afiliacji przez
+    // 7 tygodni mówił „wysłane", bo nikt nie zaglądał do panelu. Tu porównujemy
+    // status z API z rejestrem; rozjazd jest sygnałem do aktualizacji rejestru.
+    let token = null;
+    try { token = o.ok ? JSON.parse(o.tresc).access_token : null; } catch {}
+    if (token) {
+      // API przyjmuje limit najwyżej 100 (200 → 400); 12.10 programów było 192
+      let programy = [];
+      let p = null;
+      for (let offset = 0; offset < 1000 && programy; offset += 100) {
+        p = await pobierz(`https://connect.tradedoubler.com/publisher/programs?sourceId=3494691&limit=100&offset=${offset}`, {
+          headers: { authorization: `Bearer ${token}` },
+        });
+        let strona = null;
+        try { strona = p.ok ? JSON.parse(p.tresc) : null; } catch {}
+        if (!strona) { programy = null; break; }
+        programy.push(...(strona.items ?? []));
+        if (!(strona.items?.length) || programy.length >= (strona.total ?? 0)) break;
+      }
+      if (programy) {
+        // id programu w TD → klucz w afiliacje_rejestr.json
+        const KLUCZE = { 118512: 'rtveuroagd', 229227: 'mediamarkt', 288386: 'allegro', 289664: 'empik', 298327: 'lidl', 300324: 'ceneo', 385881: 'ceneo' };
+        const OCZEKIWANY = { ACCEPTED: 'aktywny', REJECTED: 'odrzucony' };
+        let rejestr = {};
+        try { rejestr = JSON.parse(readFileSync('src/data/afiliacje_rejestr.json', 'utf8')); } catch {}
+        const zgloszone = programy.filter((x) => x.statusName && x.statusName !== 'NONE');
+        const rozjazdy = zgloszone
+          .map((x) => {
+            const klucz = KLUCZE[x.id];
+            const oczek = OCZEKIWANY[x.statusName] ?? 'wyslane';
+            const wRejestrze = klucz ? rejestr[klucz]?.status : null;
+            if (!klucz) return `${x.name} (${x.id}): ${x.statusName}, brak w mapie diagnozy`;
+            return wRejestrze === oczek ? null : `${klucz}: TD ${x.statusName}, rejestr „${wRejestrze ?? '—'}"`;
+          })
+          .filter(Boolean);
+        dostepy.tradedoubler.programy = zgloszone.map((x) => `${x.name} ${x.statusName}`).join('; ');
+        if (rozjazdy.length) {
+          dostepy.tradedoubler.stan = 'ok — ROZJAZD Z REJESTREM';
+          dostepy.tradedoubler.rozjazd = rozjazdy.join('; ');
+        }
+      } else {
+        dostepy.tradedoubler.programy = `nie odczytano (${p.status ?? p.blad})`;
+      }
+    }
   } else {
     dostepy.tradedoubler = { stan: 'brak zmiennych' };
   }
