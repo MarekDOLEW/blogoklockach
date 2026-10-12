@@ -299,6 +299,9 @@ Zostają jako archiwum kontekstu, nie usuwać bez potrzeby:
 - `session_01SdxKtAvW8UmktsuXrsPYga` — Łowca na Fable 5 (sesja 2), 22.09–12.10.2026; zastąpiony
   sesją `session_01Qae65PWcmFBg2VLncXHB8Y` przy 528 tys. z 1 mln tokenów
   (trigger `trig_01WCvLUvL5u2kNKc5GVR7xhj`, ta sama nazwa, cron i prompt co do znaku)
+- `session_01M8qMJFfKHEozBSGXjAKP4n` — Kontroler na Opus 5, 22.09–12.10.2026; zastąpiony
+  sesją `session_01E7pTLYKdkzz5UgEQ58GMPp` przy 471 tys. z 1 mln tokenów
+  (trigger `trig_01XGtqSHKVQ9cL2uERVx3Gmi`, ta sama nazwa, cron i prompt co do znaku)
 
 ## Źródła Scouta
 
