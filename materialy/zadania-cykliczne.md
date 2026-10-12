@@ -356,6 +356,10 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   (prompt z działem „Ostatnie zestawy" lego.com), Łowca `trig_01WCvLUvL5u2kNKc5GVR7xhj`,
   Kontroler `trig_01XGtqSHKVQ9cL2uERVx3Gmi`. Test startowy: zmienne, zależności, push — Kontroler bez
   jawnego potwierdzenia pushu, weryfikacja przy przebiegu 19.10.
+- 12.10 po południu Wycofania odtworzone jeszcze raz w tej samej nowej sesji: `trig_01QsGEmz7z2pnBgyKH3Nxy9N`
+  (poprzedni `trig_01HtJFSA2mKYUk82ppwoBEca` skasowany). Zmienione jedno zdanie (diff sprawdzony):
+  zamiast „Pierwszy przebieg po zmianie (12.10) ma do zrobienia ok. 93 potwierdzeń…" — co ten przebieg zrobił
+  (1f5b561: 93 potwierdzenia, 24 dopisania).
 - Zrzut w sekcji powyżej (12.10 07:47) jest sprzed przeniesienia i pokazuje stare ID — przepisze go
   poniedziałkowy `harmonogram-z-konta.mjs` 19.10.
 
