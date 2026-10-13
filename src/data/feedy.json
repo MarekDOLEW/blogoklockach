@@ -23,7 +23,7 @@
    "MediaMarkt ma własny magazyn: oferty wchodzą też do sety.json, jak Lidl."
   ],
   "odswiezanie": "tygodniowo (wtorek, Dane wt krok 6)",
-  "ostatnie_pobranie": "2026-10-12"
+  "ostatnie_pobranie": "2026-10-13"
  },
  "_meta": {
   "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
@@ -132,7 +132,7 @@
   },
   "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
   "status": "dziala",
-  "ostatnie_pobranie": "2026-10-06",
+  "ostatnie_pobranie": "2026-10-13",
   "rozmiar": "~1,4 MB, 1336 produktow = 1336 setow",
   "uwagi": [
    "Endpoint products.json ma limit PF_430 (max 1000) - uzywac productsUnlimited: pierwsze wywolanie zwraca 202 (feed sie generuje), po ~20-60 s zwraca 200 z plikiem.",
@@ -159,7 +159,7 @@
   },
   "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
   "status": "aktywny od 18.09.2026 — TD podpiął feed do witryny po zgłoszeniu Marka; 102 produkty w feedzie, 60 rozpoznanych numerów zestawów",
-  "ostatnie_pobranie": "2026-10-12",
+  "ostatnie_pobranie": "2026-10-13",
   "uwagi": [
    "Feed „LEGO klocki” nr 259772 — tylko klocki LEGO (info od TD 17.09.2026).",
    "Lidl to sklep z wlasnym magazynem: oferty wchodza tez do sety.json (deale), inaczej niz Ceneo."
