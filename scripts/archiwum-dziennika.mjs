@@ -108,13 +108,15 @@ function rozbij(tekst) {
 
 const wToku = (tresc) => /\*\*Stan:\*\*[^\n]*w toku/i.test(tresc);
 
-// Otwarte zadanie z Radaru albo sygnał wycofań od Scouta (patrz nagłówek, pkt 3).
+// Otwarte zadanie z wpisu „<RUNNER> · Do zrobienia” albo sygnał wycofań od Scouta (patrz nagłówek, pkt 3).
 // Pozycja Radaru = linia „**Zrobić:**"; „— nic" (z dowolnym dopiskiem) jest zamknięta
 // z definicji. Wpis Scouta liczymy jako jedną pozycję. Zamknięcie = linia zaczynająca
 // się od „→ zamknięte" albo „→ Wycofania" (dopisują je Code i runner Wycofań).
 function otwarteZadanie(naglowek, tresc) {
   const zamkniecia = (tresc.match(/^\s*→\s*(zamknięte|Wycofania)/gim) ?? []).length;
-  if (/·\s*RADAR\s*·\s*Do zrobienia/i.test(naglowek)) {
+  // Od 13.10.2026 ten sam czterolinijkowy wpis „<RUNNER> · Do zrobienia” piszą wszystkie
+  // runnery (RADAR, SCOUT, ŁOWCA, WYCOFANIA, DANE WT, KONTROLER) — reguła jak dla Radaru.
+  if (/·\s*[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ ]*·\s*Do zrobienia/.test(naglowek)) {
     const otwarte = (tresc.match(/^\*\*Zrobić:\*\*.*$/gm) ?? []).filter((l) => !/—\s*nic\b/i.test(l)).length;
     return otwarte > zamkniecia;
   }

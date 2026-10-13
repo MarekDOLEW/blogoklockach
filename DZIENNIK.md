@@ -118,6 +118,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-13 09:30 · CODE · Raporty runnerów w formacie „Kto co robi” + MediaMarkt 21034
+
+- Prośba Marka: każdy runner zaczyna raport od sekcji „Kto co robi” (cztery linijki na pozycję: co / Mamy? / Zrobić / Kto — jak Radar), a pozycje dla ludzi zapisuje też w dzienniku jako „<RUNNER> · Do zrobienia”. Kontroler w poniedziałek zbiera wszystkie do maila „Zadania bez właściciela” dla Marka i Piotra, pogrupowane według „Kto”. Nowe triggery i ID: `materialy/zadania-cykliczne.md`, „Historia zmian” 13.10; zasada: RUNBOOK „Format raportów runnerów”.
+- `scripts/archiwum-dziennika.mjs` trzyma w dzienniku każdy wpis „<RUNNER> · Do zrobienia” do zamknięcia (dotąd tylko RADAR).
+- Zamknięcie pozycji = linia „→ zamknięte <data>: …” pod nią; dopisuje Code po Twojej decyzji (albo Ty sam, wprost w pliku).
+- MediaMarkt: 21034 Londyn sprawdzony ręcznie i dopisany (574470e); importer ma listę `potwierdzone_numery`.
+
 ## 2026-10-13 08:20 · RADAR · Do zrobienia
 
 **fanklockow.pl + faniklockow.pl · 12.10** — Oba serwisy opisały okno 13–19.10 na LEGO.pl (podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy od 745 zł), które zaczęło się dzisiaj.

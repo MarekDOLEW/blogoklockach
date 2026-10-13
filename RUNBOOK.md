@@ -1501,6 +1501,31 @@ wypuszczałby ruch bez prowizji. Nie wracamy do tematu bez nowej decyzji —
 w szczególności nie dopisujemy Lidlowi pola `szukaj` w `sklepy.json`, bo to
 ta sama ścieżka tylnymi drzwiami (worker schodzi na `sklepy[sklep].szukaj`).
 
+## MediaMarkt przez Tradedoubler — feed całego sklepu *(od 12.10.2026)*
+
+Feed `MediaMarkt_feed` (fid 96394) to cały sklep: ok. 15 tys. produktów, z czego ok. 110 ma w nazwie
+LEGO, w tym książki i gry. Importuje go ten sam `scripts/ceneo-feed.mjs` co Ceneo i Lidla, ale z opcjami
+w `feedy.json` → `mediamarkt`:
+- `filtr_nazwy` i `pomin_nazwy` odsiewają produkty, które nie są klockami (OUTLET, książki, gry);
+- `numer_z_pola: "MPN"` — numer zestawu siedzi w polu MPN, bo nazwy bywają z wewnętrznym numerem
+  MediaMarktu w nawiasie (np. „Przyjęcie urodzinowe Juliana (1484487)” = 77046);
+- `tylko_znane` — numer musi być w katalogu, a numer wzięty z nazwy musi mieć wspólne słowo z nazwą
+  katalogową (MediaMarkt podpisał „Figurkę Kapitana Ameryki” numerem 76265, który jest Batwingiem);
+- `potwierdzone_numery` — numery sprawdzone ręcznie, które przechodzą mimo różnicy nazw (21034:
+  katalog ma „London”, MediaMarkt „Londyn”). Nowe pozycje dopisuje Code po sprawdzeniu opisu w feedzie.
+
+Prowizja 1,5% (w panelu nie ma kategorii zabawek), cookie 30 dni, deep linking i porównywarki dozwolone.
+
+## Format raportów runnerów: „Kto co robi” *(od 13.10.2026, prośba Marka)*
+
+Każdy runner (Scout, Łowca, Wycofania, Dane wt, Kontroler; Radar był wzorem) zaczyna podsumowanie
+i mail od sekcji „Kto co robi”. Każda pozycja ma cztery linijki: co się stało / Mamy? / Zrobić / Kto
+(Piotr, Marek, Code, Cowork albo runner). Pozycje dla ludzi i innych sesji idą też do `DZIENNIK.md`
+jako wpis „<RUNNER> · Do zrobienia”. `scripts/archiwum-dziennika.mjs` trzyma każdy taki wpis, dopóki
+pod każdą pozycją nie stanie „→ zamknięte …”, a Kontroler w poniedziałek zbiera wszystkie otwarte
+do maila „Zadania bez właściciela” (Marek i Piotr), pogrupowane według „Kto”, Piotr pierwszy.
+Zamknięcie dopisuje Code po decyzji Marka (albo runner Wycofań dla swoich pozycji).
+
 ## /llms.txt — indeks dla modeli, wersja długa *(od 18.09.2026)*
 
 `src/pages/llms.txt.js` generuje przy każdym buildzie plik `/llms.txt`
