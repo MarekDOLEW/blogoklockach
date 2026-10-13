@@ -218,7 +218,16 @@ a.badge-seria:hover { border-color: var(--zolty); background: #fff8e1; }
 
 /* ---------- Sekcje / persony ---------- */
 .sekcja { margin: 44px 0; }
-.sekcja-head { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
+.sekcja-head { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 6px; }
+/* Wypustki na wysokości PIERWSZEJ linii nagłówka: przy align-items: center
+   siadały na środku h2 razem z jego dolnym marginesem (za nisko), a na telefonie
+   na środku dwóch linii. 0.575 = połowa line-height h2 (1.15), 10.5px = połowa
+   wysokości wypustek (9 + 3 + 9). round() trzyma pełne piksele, inaczej kropki
+   lądują na 0,75 px i rzędy renderują się nierówno. */
+.sekcja-head > .studs { flex-shrink: 0; margin-top: calc(clamp(1.4rem, 3vw, 1.9rem) * 0.575 - 10.5px); }
+@supports (margin-top: round(1.5px, 1px)) {
+  .sekcja-head > .studs { margin-top: round(calc(clamp(1.4rem, 3vw, 1.9rem) * 0.575 - 10.5px), 1px); }
+}
 .persony { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin: 22px 0; }
 .persona { padding: 18px; border-left: 5px solid var(--zolty); }
 .persona.afol { border-left-color: var(--granat); }
