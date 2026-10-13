@@ -34,6 +34,8 @@ czy czeka, aż ktoś je wywoła.
 |---|---|---|
 | `generuj-obrazy.mjs` | **npm prebuild**, automatycznie | Tworzy `src/data/obrazy.json` — mapę numer → URL zdjęcia. Patrz uwaga niżej |
 | `generuj-og.py` | sesja, po nowych tekstach | Obrazy OG dla artykułów i prezentowników |
+| `generuj-logo.py` | człowiek na żądanie, gdy zmienia się logo | **Logo jako SVG na krzywych** (Rubik ExtraBold z `assets/fonts/`): `public/logo.svg`, `logo-biale.svg`, `favicon.svg` i źródła rastrów w `assets/logo/`. Wymaga `fonttools` i `uharfbuzz` z `requirements.txt`; zasady w `redakcja/system-wizualny.md` |
+| `logo-rastry.mjs` | zaraz po `generuj-logo.py` | Rastry logo przez `sharp`: `public/og.png`, `apple-touch-icon.png`, `favicon.ico` (16+32 px), `assets/logo/logo-og-stopka.png` dla `generuj-og.py` |
 | `remark-ceny.mjs` | Astro przy budowaniu | Tabela cen w treści artykułu |
 | `remark-galeria.mjs` | Astro przy budowaniu | Slajder ze zdjęciami |
 | `remark-nazwy-setow.mjs` | Astro przy budowaniu | Numery i nazwy zestawów — wyróżnione i linkowane |

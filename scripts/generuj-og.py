@@ -48,6 +48,7 @@ except ImportError:
 
 REPO = Path(__file__).resolve().parent.parent
 FONT = REPO / "assets" / "fonts" / "Archivo-Variable.ttf"
+LOGO = REPO / "assets" / "logo" / "logo-og-stopka.png"  # z scripts/logo-rastry.mjs
 
 # Tokeny z src/styles/global.css (:root). Źródłem prawdy jest CSS —
 # opis systemu i reguły użycia: redakcja/system-wizualny.md.
@@ -97,17 +98,6 @@ def zawin(d, tekst, font, maks_szer, maks_linii=2):
             ostatnia = ostatnia[:-1].rstrip()
         linie[-1] = ostatnia + "…"
     return linie
-
-
-def wypustki(d, x, y, r=13, odstep=34, kolor=ZOLTY):
-    """Sygnatura marki: cztery wypustki klocka w siatce 2x2.
-    Wewnętrzny cień u dołu daje wrażenie plastiku, nie płaskiej kropki
-    (odpowiednik `inset 0 -2px 0` z .studs w global.css)."""
-    for dx, dy in ((0, 0), (odstep, 0), (0, odstep), (odstep, odstep)):
-        cx, cy = x + dx, y + dy
-        d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=kolor)
-        d.arc([cx - r, cy - r, cx + r, cy + r], start=20, end=160,
-              fill=(0xD9, 0xA6, 0x1F), width=3)
 
 
 def plakietka(d, x, y, tekst, font, tlo=KARTA, ramka=LINIA, tekst_kolor=GRANAT60):
@@ -200,20 +190,13 @@ def obraz_strony(pola):
 
     d.line([MARGINES, stopka, W - MARGINES, stopka], fill=LINIA, width=2)
 
-    # marka w stopce: logo z czerwonym „klocki" na białej płytce (jak og.png)
-    logo_y = stopka + 34
-    c1, c2, c3 = "tylko", "klocki", ".pl"
-    w1, w2, w3 = (szer(d, c, f_logo) for c in (c1, c2, c3))
-    wys = d.textbbox((0, 0), "Ag", font=f_logo)[3]
-    d.text((MARGINES, logo_y), c1, font=f_logo, fill=GRANAT)
-    d.rounded_rectangle([MARGINES + w1 + 2, logo_y - 6,
-                         MARGINES + w1 + w2 + 14, logo_y + wys + 6],
-                        radius=6, fill=KARTA, outline=LINIA, width=2)
-    d.text((MARGINES + w1 + 8, logo_y), c2, font=f_logo, fill=CZERWIEN)
-    d.text((MARGINES + w1 + w2 + 16, logo_y), c3, font=f_logo, fill=GRANAT)
-
-    # jedna sygnatura na kadr (redakcja/system-wizualny.md)
-    wypustki(d, W - MARGINES - 46, stopka + 36, r=16, odstep=42)
+    # marka w stopce: logo z pliku (znak + napis na krzywych, scripts/generuj-logo.py).
+    # Znak klocka w logo jest jedyną sygnaturą wypustek na kadrze
+    # (redakcja/system-wizualny.md), więc w rogu już ich nie dokładamy.
+    logo = Image.open(LOGO).convert("RGBA")
+    logo_h = 40
+    logo = logo.resize((round(logo.width * logo_h / logo.height), logo_h), Image.LANCZOS)
+    im.paste(logo, (MARGINES, stopka + (H - stopka - logo_h) // 2), logo)
     return im
 
 

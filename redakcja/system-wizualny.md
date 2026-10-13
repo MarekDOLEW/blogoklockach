@@ -106,6 +106,33 @@ Hierarchia ze strony, do przeniesienia na grafikę: nagłówki mają ujemny trac
 Ta ostatnia liczba to celowe „powietrze" z komentarza w CSS — na grafice też nie
 zagęszczaj.
 
+## Logo
+
+Od 13.10.2026 (decyzja Marka): **granatowy klocek 2×2 z żółtymi wypustkami
+i napis „tylkoklocki.pl" w całości granatowy**, bez spacji i bez rozdzielania
+słów kolorem. Krój napisu: **Rubik ExtraBold**, zamieniony na krzywe — logo nie
+zależy od fontu i nie łączy się z Archivo z tekstów (to celowe: znak ma być
+obrazkiem, nie nagłówkiem).
+
+| Plik | Do czego |
+|---|---|
+| `public/logo.svg` | napis granatowy, jasne tło — nagłówek strony, grafiki na jasnym |
+| `public/logo-biale.svg` | napis biały, znak z jaśniejszą obwódką — stopka, tła granatowe |
+| `public/favicon.svg`, `favicon.ico` | sam znak (16 i 32 px) |
+| `public/apple-touch-icon.png` | znak na pełnym granacie, 180×180 (iOS sam zaokrągla) |
+| `public/og.png` | domyślny obraz udostępnień 1200×630 |
+| `assets/logo/logo-og-stopka.png` | logo w stopce obrazów OG artykułów (`generuj-og.py`) |
+
+Źródłem jest `scripts/generuj-logo.py` (krzywe, SVG) i `scripts/logo-rastry.mjs`
+(PNG, ICO). **Nie poprawiaj plików ręcznie** — zmiana idzie w skrypcie i obu
+krokach po kolei. Kolory: granat `#17233f`, żółty `#ffc933`, na granatowym tle
+obwódka znaku `#2c3a5c`.
+
+Zasady użycia: logo zawsze w całości (znak + napis) albo sam znak; nie
+przekolorowujemy słowa „klocki" i nie dokładamy spacji. Minimalna wysokość
+w interfejsie 18 px (nagłówek na telefonie), sam znak od 16 px. Logo ze znakiem **jest** sygnaturą
+wypustek — na grafice z logo nie dokładamy osobnych wypustek.
+
 ## Sygnatura: wypustki
 
 Element rozpoznawczy to **wypustki klocka** (`.studs` w CSS): żółte koła
@@ -114,7 +141,7 @@ plastiku, nie płaskiej kropki. Występują w dwóch układach:
 
 - **dwie w poziomie** — przed każdym `h2` w artykule (`.prose h2::before`),
   średnica 9 px, rozstaw 14 px;
-- **cztery w siatce 2×2** — znak marki, tak jest na `public/og.png`.
+- **cztery w siatce 2×2** — znak marki (patrz „Logo" wyżej).
 
 Reguła: **jedna sygnatura na grafikę.** Wypustki są akcentem, nie teksturą. Jeśli
 kompozycja ma już mocny element (zdjęcie zestawu, duża liczba, plakietka rabatu),

@@ -1,2 +1,4 @@
 Pillow>=10.0
 python-docx>=1.1   # scripts/import-artykul.py, import-karty.py (DOCX od Piotra)
+fonttools>=4.50   # scripts/generuj-logo.py (napis logo na krzywych)
+uharfbuzz>=0.40   # scripts/generuj-logo.py (kerning napisu)

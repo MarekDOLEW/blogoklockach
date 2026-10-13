@@ -80,8 +80,9 @@ a { color: inherit; }
 /* ---------- Header ---------- */
 .site-header { background: var(--karta); border-bottom: 3px solid var(--granat); position: sticky; top: 0; z-index: 50; }
 .site-header .wrap { display: flex; align-items: center; gap: 14px; min-height: 62px; flex-wrap: wrap; }
-.logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-size: 1.25rem; text-decoration: none; padding: 8px 0; }
-.logo em { font-style: normal; color: var(--czerwien); }
+/* Logo to plik SVG z napisem na krzywych (scripts/generuj-logo.py) — nie zależy od fontu. */
+.logo { display: flex; align-items: center; text-decoration: none; padding: 8px 0; flex-shrink: 0; }
+.logo img { display: block; height: 26px; width: auto; }
 .nav { display: flex; gap: 2px; flex-wrap: wrap; margin-left: auto; }
 .nav a { text-decoration: none; font-size: 0.88rem; font-weight: 600; padding: 8px 9px; border-radius: 6px; color: var(--granat-60); white-space: nowrap; }
 .nav a:hover { background: var(--papier); color: var(--granat); }
@@ -260,6 +261,8 @@ html { overflow-x: clip; }
 .site-footer a { color: var(--zolty); }
 .site-footer .wrap { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
 .site-footer .stopka-tytul { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
+.site-footer .stopka-logo { margin-bottom: 12px; }
+.site-footer .stopka-logo img { display: block; height: 24px; width: auto; }
 
 :focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
 
@@ -569,7 +572,7 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
 
 /* ---------- Typografia: lżejszy krój wyświetleniowy (Archivo 700/800) ---------- */
 h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
-.logo, .site-footer .stopka-tytul { font-weight: 800; }
+.site-footer .stopka-tytul { font-weight: 800; }
 .badge-rabat, .deal-dnia .cena-duza, .tabela-cen .cena, .set-karta .cena-linia .cena { font-weight: 700; }
 
 /* ---------- Nowości: większe karty, filtr serii, zdjęcia z powiększeniem ---------- */
@@ -835,7 +838,11 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
   .sg-przycisk-tekst { display: none; }
   .sg-przycisk { padding: 9px 12px; }
   .site-header .wrap { gap: 8px; }
-  .logo { font-size: 1.12rem; gap: 8px; }
+  /* logo szersze niż dawny napis: powyżej 19 px na 375 px zawija przycisk Menu do drugiej linii */
+  .logo img { height: 19px; }
+}
+@media (max-width: 390px) {
+  .logo img { height: 18px; }
 }
 @media (max-width: 360px) {
   .nav-przycisk-tekst { display: none; }
