@@ -140,6 +140,7 @@ Druga rzecz: faniklockow przeniósł tekst o Hello Kitty z `/2026/10/05/` na `/2
 i w porównaniu po samym URL wyszedł jako nowy, choć leży w bazie od 06.10 — przy tym
 serwisie dedup robimy po tytule, nie po adresie.
 
+→ zamknięte 13.10.2026: kalendarz i hub 40909 poprawione w przebiegu Radaru (c8af1a5).
 
 ## 2026-10-13 05:25 · SCOUT · Sygnały wycofań dla runnera Wycofań
 - **Ponad 300 zestawów oznaczonych przez LEGO „Einstellung in Kürze" na grudzień** — StoneWars,
@@ -383,6 +384,9 @@ na 2026 i jego październik zgadza się z naszym co do joty (13–19.10, 40909 o
 **To nie jest potwierdzenie** — oni też oznaczają te dane jako niepewne, więc mamy
 dwie prognozy, nie potwierdzenie od LEGO. Nasz status „przewidywane" zostaje.
 
+→ zamknięte 13.10.2026: sekcja `#gratis-pazdziernik` dodana w przebiegu Radaru 09.10.
+→ zamknięte 13.10.2026: wrześniowe gratisy przestawione na „zamknięte” w przebiegu Radaru 09.10.
+
 ## 2026-10-08 08:30 · RADAR · Do zrobienia
 
 **faniklockow.pl · 07.10** — Opisali gratis progowy w Media Expert: 43018 Lionel Messi za zakupy od 2500 zł, promocja zamknęła się tego samego wieczoru.
@@ -402,6 +406,8 @@ konkurencji przydała się nie jako temat do napisania, ale jako **lista twierdz
 sprawdzenia u siebie** (06.10 w ten sam sposób wyszło „piątej serii" w bloku BLDP).
 Warto czytać ich teksty również w ten sposób — zapisane też w `_meta` bazy.
 
+→ zamknięte 13.10.2026: FAQ kalendarza poprawione w przebiegu Radaru 08.10.
+
 ## 2026-10-06 08:25 · RADAR · Do zrobienia
 
 **fanklockow.pl · 05.10** — Zapraszają na transmisję ze wspólnych zakupów przy starcie 9. serii BrickLink Designer Program, który wypada dziś.
@@ -417,6 +423,8 @@ Warto czytać ich teksty również w ten sposób — zapisane też w `_meta` baz
 Uwaga do pierwszej pozycji, żeby nikt tego nie „poprawił" w drugą stronę: ich
 **16:15 to godzina transmisji live**, nie startu sprzedaży. Nasze 17:00 w kalendarzu
 zostaje bez zmian — potwierdzaliśmy je w dwóch serwisach branżowych.
+
+→ zamknięte 13.10.2026 (pozycja BLDP): „piątej serii” poprawione na „dziewiątej” w przebiegu Radaru 06.10. Pozycja o Sanrio (Piotr) zostaje otwarta.
 
 ## 2026-10-04 08:15 · RADAR · Do zrobienia
 
@@ -574,6 +582,8 @@ w normalnej skali (rzędu kilkuset wpisów, nie 65).
 **Mamy?** — nie: sprawdziłem dwanaście pozycji z ich listy i w **każdej** nasza cena Media Expert jest wyższa od faktycznej, zwykle o 8–15%, a przy 31174 Telefon retro prawie dwukrotnie (129,99 wobec 70 zł). Pomiar szerszy: 735 zestawów ma u nas ofertę Media Expert, odświeżono 1.10 tylko 141 — **594 pozycje (81%) mają ceny z 29.09 lub starsze**. Cały feed dostał 1.10 aż 4632 wpisy, więc odświeżenie się odbyło; niepełne jest samo pokrycie Media Expert.
 **Zrobić:** — sprawdzić w runnerze Łowcy, dlaczego import Media Expert objął 1.10 tylko piątą część zestawów, i dociągnąć resztę. To jeden z naszych sklepów publikacyjnych, więc zawyżone ceny widzi czytelnik w tabelach hubów w szczycie sezonu.
 **Kto:** — Code (dane, strona)
+
+→ zamknięte 13.10.2026: naprawione 02.10 w 5466f4b (ceny ME z `g:sale_price` + kontrola na kartach produktów); 13.10 wszystkie 733 oferty ME mają datę z dnia.
 
 ## 2026-10-01 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
