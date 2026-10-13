@@ -118,6 +118,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-13 05:25 · SCOUT · Sygnały wycofań dla runnera Wycofań
+- **Ponad 300 zestawów oznaczonych przez LEGO „Einstellung in Kürze" na grudzień** — StoneWars,
+  https://www.stonewars.de/angebote/doppelte-lego-insiders-punkte-oktober-2026/ (12.10, 22:30):
+  po fali z połowy roku LEGO oznaczyło na grudzień kolejne 300+ zestawów; serwis prowadzi własną
+  „LEGO EOL Liste 2026" opartą na datach EOL zapisanych u LEGO (niezależną od plakietek „Ostatnia
+  szansa" w sklepie), która sięga jeszcze dalej, oraz redakcyjną dziesiątkę z 30.09. Numerów w tym
+  tekście nie ma — są w tamtej liście i w tekście Top 10, do weryfikacji u źródła.
+- **40909 Restauracje świata: Włochy** — ten sam tekst: gratis sprzedawany tylko 13–19.10.2026,
+  a termin końca produkcji podany jako 12/2026. Dla nas bez konsekwencji (gratis, `bez_rrp`),
+  ale jeśli runner prowadzi statusy gratisów, to data domknięcia.
+
 ## 2026-10-12 14:50 · CODE · MediaMarkt podpięty (decyzja Marka D2)
 
 - Feed TD 96394 (cały sklep, 15 244 produkty) przez ten sam importer co Ceneo i Lidl: `node scripts/ceneo-feed.mjs --sklep mediamarkt`. Nowe opcje w `feedy.json`: `filtr_nazwy`, `pomin_nazwy` (OUTLET, książki, gry), `numer_z_pola: MPN`, `tylko_znane` (numer z nazwy musi mieć wspólne słowo z nazwą katalogową — MediaMarkt podpisał „Figurkę Kapitana Ameryki” numerem 76265).
