@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-10-01"
+zaktualizowano: "2026-10-13"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,12 +21,12 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">8.10 – ?</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; terminu końca nikt nie podał</a></li>
+<li><span class="okna__data">13–19.10</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł; oba terminy w regulaminie LEGO.pl</a></li>
+<li><span class="okna__data">8–12.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; zniknął z regulaminu LEGO.pl wraz z wejściem okna 13–19.10</a></li>
 <li><span class="okna__data">21–30.09</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#halloween"><b>Gratisy halloweenowe</b> 40900 Straszne nawiedzone drzewo i 40772 Świecący duszek – okno minęło 30.09</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik-fala"><b>Reszta fali październikowej</b> – PlayStation, Wallace i Gromit, pierwsze zestawy świąteczne</a></li>
 <li><span class="okna__data">6.10, 17:00</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#bldp"><b>BrickLink Designer Program, seria 9</b> – pięć zestawów tylko na Bricklinku, poza LEGO.com i poza promocjami</a></li>
-<li><span class="okna__data">13–19.10</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje Świata: Włochy od 745 zł</a></li>
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
@@ -173,34 +173,42 @@ podejmujesz w oknie przedsprzedaży albo wcale.
 
 Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
 
-<h2 id="gratis-pazdziernik">Październik: gratis do wyboru na LEGO.pl od 8.10, próg 450 zł <span class="status status--maybe">przewidywane</span></h2>
+<h2 id="gratis-pazdziernik">Październik: gratis do wyboru na LEGO.pl 8–12.10, próg 450 zł <span class="status status--stop">zamknięte</span></h2>
 
-Od 8 października na LEGO.pl trwa promocja, w której przy zakupach **od 450 zł**
-dobierasz **jeden z dwóch gratisów**: 40772 Seria okolicznościowa: Świecący duszek
-albo 40760 BrickHeadz z Fortnite. Status mamy jako przewidywany z dwóch powodów:
-**LEGO nie ogłosiło tej promocji publicznie** (serwis branżowy nazywa ją „sekretną"),
-a **terminu końca nie podaje nikt**. Warunki widzieliśmy w jednym źródle, więc przed
-zapłatą sprawdź koszyk — to ta sama zasada, którą stosowaliśmy przy wrześniowym
-gratisie halloweenowym, gdzie dwa serwisy podawały dwie różne kwoty progu.
+**Okno jest już zamknięte.** Od 8 października na LEGO.pl przy zakupach **od 450 zł**
+dobierało się **jeden z dwóch gratisów**: 40772 Seria okolicznościowa: Świecący duszek
+albo 40760 BrickHeadz z Fortnite. **LEGO nigdy nie ogłosiło tej promocji publicznie**
+(serwis branżowy nazywał ją „sekretną") i nikt nie podał terminu końca. 13 października
+regulamin promocji na LEGO.pl wymienia wyłącznie okno 13–19.10 z gratisem 40909 —
+dlatego gratis od 450 zł zamykamy datą 12.10.
 
-**Policz, czy ten próg Ci się opłaca, bo oba gratisy można po prostu kupić.**
+**Dlaczego i tak warto było policzyć ten próg: oba gratisy można po prostu kupić.**
 Wartość gratisu zawsze podaje się w cenie katalogowej, a te dwa zestawy są wycofane
 i chodzą w dystrybucji zewnętrznej tanio: **40772 od 69,99 zł** (Allegro; Ceneo 71,99),
 **40760 od 129,43 zł** (Allegro; Empik 129,99). Jeśli więc kupujesz i tak powyżej
-450 zł — bierz, bo gratis nic nie kosztuje. Jeśli dokładasz do koszyka specjalnie
-pod próg, dokładasz ponad 450 zł, żeby dostać przedmiot wart kilkadziesiąt złotych.
+450 zł, gratis nic nie kosztował. Kto dokładał do koszyka specjalnie pod próg,
+dokładał ponad 450 zł, żeby dostać przedmiot wart kilkadziesiąt złotych. Ta sama
+arytmetyka obowiązuje w oknie 13–19.10 i w każdym następnym.
 Ceny sprawdzisz w tabelach na podstronach [40772](/zestaw/40772/) i [40760](/zestaw/40760/).
 
-<h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--maybe">przewidywane</span></h3>
+<h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--trwa">trwa</span></h3>
 
-Dwa tygodnie po premierze Executora wraca układ, który znamy z całego roku:
-**podwójne punkty Insiders plus gratis powyżej progu**. Tym razem upominkiem ma
-być **40909 Restauracje Świata: Włochy, przy zakupach od 745 zł** — kolejna
-pozycja tej samej serii co 40908 Grecja, którą LEGO rozdawało w sierpniu przy
-identycznym progu. Ta powtarzalność jest jedynym powodem, dla którego podajemy
-tu kwotę; ani terminu, ani progu LEGO nie ogłosiło.
+Dwa tygodnie po premierze Executora wrócił układ, który znamy z całego roku:
+**podwójne punkty Insiders plus gratis powyżej progu**. Oba warunki są już
+w regulaminie na LEGO.pl, więc nie są to szacunki serwisów branżowych:
+**gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł, od 13 do
+19 października 2026, do wyczerpania zapasów, jeden zestaw na gospodarstwo
+domowe**; zestawy z programu BrickLink Designer nie liczą się do progu.
+**Podwójne punkty Insiders obowiązują w tych samych dniach** i nie łączą się
+z inną ofertą Insiders, zniżką ani kuponem — do punktów nie wliczają się też
+podatki, koszt dostawy i karty podarunkowe.
 
-**Kiedy to okno bije pierwszy tydzień października.** Jeśli nie kupujesz
+Wartość upominku sam producent podaje na **81,99 zł**. To kwota deklarowana,
+liczona jak cena katalogowa, a nie to, co za 40909 zapłacisz później na rynku
+wtórnym — i tę różnicę warto mieć z tyłu głowy, zanim dołoży się do koszyka
+200 zł, żeby dobić do progu. Szczegóły zestawu: [40909](/zestaw/40909/).
+
+**Kiedy to okno bije pierwszy tydzień października.** Jeśli nie kupowałeś
 Executora, a planujesz większe zakupy na LEGO.com, drugie okno jest lepsze:
 próg 745 zł jest wyższy niż 650 zł do Astrobota, ale dochodzą podwójne punkty
 na całe zamówienie, czyli około pięciu procent wartości wracających w punktach.
