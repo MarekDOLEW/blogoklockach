@@ -24,7 +24,10 @@
 //                  gdy puste, numer bierzemy z nazwy jak wcześniej,
 //   tylko_znane  – numer musi być w katalog.json albo sety.json, a numer wzięty
 //                  Z NAZWY musi mieć z nazwą katalogową wspólne słowo (MediaMarkt
-//                  podpisał „Figurkę Kapitana Ameryki" numerem 76265 — to Batwing).
+//                  podpisał „Figurkę Kapitana Ameryki" numerem 76265 — to Batwing),
+//   potwierdzone_numery – { "<nr>": "<jak sprawdzone>" }: numery z nazwy sprawdzone
+//                  ręcznie, które przechodzą mimo braku wspólnego słowa (katalog ma
+//                  nazwę angielską: 21034 „London" vs MediaMarkt „Londyn").
 //
 // Wymaga TD_TOKEN. Użycie:
 //   node scripts/ceneo-feed.mjs [--sklep ceneo|lidl|mediamarkt] [--sucho]
@@ -125,7 +128,7 @@ for (const [sklep, cfg] of doPobrania) {
       : '';
     const nr = NUMER_CALY.test(zPola) ? zPola : NUMER.exec(p.name ?? '')?.[1];
     if (nr && cfg.tylko_znane) {
-      const znany = nazwyZnane.has(nr) && (NUMER_CALY.test(zPola) || wspolneSlowo(p.name, nr));
+      const znany = nazwyZnane.has(nr) && (NUMER_CALY.test(zPola) || wspolneSlowo(p.name, nr) || Boolean(cfg.potwierdzone_numery?.[nr]));
       if (!znany) { odrzuconeNumery++; console.log(`  pominięty: ${nr} „${String(p.name).slice(0, 70)}"`); continue; }
     }
     const oferta = p.offers?.[0];

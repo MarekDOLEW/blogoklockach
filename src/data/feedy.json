@@ -23,7 +23,10 @@
    "MediaMarkt ma własny magazyn: oferty wchodzą też do sety.json, jak Lidl."
   ],
   "odswiezanie": "tygodniowo (wtorek, Dane wt krok 6)",
-  "ostatnie_pobranie": "2026-10-13"
+  "ostatnie_pobranie": "2026-10-13",
+  "potwierdzone_numery": {
+   "21034": "sprawdzone ręcznie 13.10.2026: opis w feedzie MediaMarktu wymienia Galerię Narodową, Kolumnę Nelsona, London Eye, Big Bena i Tower Bridge oraz plakietkę „London” (Architecture Skyline); numer w nazwie i w adresie karty; katalog: 21034 London, 468 el., RRP 169,99 zł, lego.pl widział 13.10"
+  }
  },
  "_meta": {
   "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
