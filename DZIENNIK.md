@@ -124,6 +124,8 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 - Źródło według panelu: **MCP 75% (3 169)**, API 25% (1 060). Nasze skrypty LEGO idą przez API. Przez MCP idą sesje z konektorem Firecrawl — wg dziennika aktywności (ostatnie ~18 h) to głównie inne projekty Marka na tym samym koncie: części do Jaguara E-Type (martinrobey, sngbarratt, terrysjag, eBay, wyszukiwania numerów C3xxxx) i fronerigastro.pl (60 stron w godzinę).
 - Dziś 302 zadania: 154 LEGO (lego.com + Media Expert, po 1 kredycie), 148 pozostałych — na nie przypada większość z ~640 kredytów dnia (wyszukiwania z pobieraniem treści i ekstrakcja kosztują kilka kredytów za zadanie).
 - Jednorazowy koszt LEGO dziś rano: dwa pełne przejścia katalogu lego.pl (~117 stron) przy naprawie parsera.
+- Potwierdzone w `firecrawl_credit_usage` (podział na klucze): październik — „Connected app” (konektor MCP w claude.ai/Cowork, inne projekty) **1 663**, „Default” (nasz `FIRECRAWL_KEY`, skrypty LEGO) **634**.
+- Decyzja Marka: do 23.10 inne projekty nie używają Firecrawla, gdy na koncie zostaje < 400 kredytów. Twardej blokady nie ma (jeden zespół, jedna pula, Firecrawl nie ma limitów per klucz), więc reguła idzie jako instrukcja w ustawieniach claude.ai (Instrukcje osobiste) i w skillach `czesci-*` — tekst w odpowiedzi Code z 14.10.
 
 ## 2026-10-14 12:55 · CODE · Wiersz „wyprzedane" w tabeli cen — i ukryty błąd, który przy okazji wyszedł
 
