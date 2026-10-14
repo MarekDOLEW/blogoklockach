@@ -1,0 +1,20 @@
+{
+ "_meta": {
+  "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni. Plik generowany — nie edytować ręcznie.",
+  "zaktualizowano": "2026-10-14"
+ },
+ "zgloszenia": {
+  "2026-10-14": [
+   "https://tylkoklocki.pl/o-nas/",
+   "https://tylkoklocki.pl/artykuly/allegro-black-weeks-2026-lego/",
+   "https://tylkoklocki.pl/artykuly/historia-licencji-lego-gry-sport-lifestyle/",
+   "https://tylkoklocki.pl/artykuly/lego-60508-napad-na-policyjny-pociag-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-75438-popiersie-yody-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-77242-bolid-f1-ferrari-sf-24-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-bam-halloween-2026/",
+   "https://tylkoklocki.pl/artykuly/lego-jesien-swieta-2026-premiery/",
+   "https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/",
+   "https://tylkoklocki.pl/artykuly/najlepsze-oferty-lego-wrzesien-2026/"
+  ]
+ }
+}

@@ -51,6 +51,7 @@ Nie edytuj ich ręcznie: najbliższe uruchomienie skryptu i tak je nadpisze.
 | `zestawy-bez-ceny.xlsx` | `scripts/zestawy-bez-ceny.py` |
 | `karty-poza-kolejka.xlsx` | `scripts/karty-poza-kolejka.py` |
 | `zestawy-noindex.xlsx` | `scripts/noindex-do-opisania.py` (wymaga `npm run build`) |
+| `indeksacja/kolejka.md`, `indeksacja/historia.json` | `scripts/kolejka-indeksacji.mjs` — lista na dziś do „Poproś o zindeksowanie” i historia zgłoszeń (skrypt nie powtarza adresu przez 14 dni) |
 | `routine-prompty.md` | `scripts/harmonogram-z-konta.mjs` — kopia promptów Routines z konta, cały plik; odświeża sesja Code w poniedziałek 07:45 (tak samo sekcja „Zrzut" w `zadania-cykliczne.md`) |
 
 Zostają w gicie mimo że są odtwarzalne — Marek je otwiera, a bez nich świeży
