@@ -25,16 +25,20 @@ z `wyjscie/<nr>/renders/deal-<nr>.mp4`.
 node scripts/rolka-deal.mjs 75405                 # pełny przebieg: dane → zdjęcie → tło → dźwięk → check → MP4
 node scripts/rolka-deal.mjs 75405 --bez-renderu   # tylko projekt, podgląd: cd materialy/rolki/wyjscie/75405 && npm run dev
 node scripts/rolka-deal.mjs 75405 --hook1 "Krążownik Rebelii" --hook2 "na dnie cenowym"
+node scripts/rolka-deal.mjs 75405 --wstep dynamiczny   # wstęp z osobnymi wjazdami; domyślnie „spokojny" (dwa ruchy)
 ```
 
 1. **Dane** z repo, nic nie przepisujemy ręcznie: `ceny_baza.json` (cena
    katalogowa, minimum w naszej bazie i jego data), `oferty_feed.json` (ceny
-   sklepów z datami — oferty starsze niż 7 dni odpadają), `sety.json` (seria,
+   sklepów z datami — oferty starsze niż 7 dni odpadają, Ceneo jako porównywarka
+   nie wchodzi na listę), `sety.json` (seria,
    liczba elementów, wiek). Rabat i oszczędność liczy szablon z tych liczb.
 2. **Zdjęcie** pudełka z feedu (Planeta Klocków) albo `obrazy.json`.
-   `npx hyperframes remove-background` wycina je z białego tła lokalnym
-   modelem (onnxruntime, bez kluczy, ~1 s). Gdy wycięcie się nie uda, szablon
-   dostaje oryginał i przełącza się na `mix-blend-mode: multiply`.
+   Rendery sklepowe stoją na czystej bieli, więc skrypt wypełnia biel od
+   krawędzi (dekodowanie przez ffmpeg) — białe napisy na pudełku zostają.
+   Model matujący `npx hyperframes remove-background` (onnxruntime, lokalny)
+   bierze ciemny karton za tło, więc dostaje tylko zdjęcia na innym tle.
+   Gdy nic nie zadziała, szablon dostaje oryginał i `mix-blend-mode: multiply`.
 3. **Dźwięk.** Efekty (whoosh na przejściach, pop i uderzenie basu przy cenie,
    sparkle pod konfetti) to pliki z biblioteki skilla `media-use` na licencji
    Pixabay (`szablon-deal/audio/CREDITS-sfx.md`). Podkład muzyczny:

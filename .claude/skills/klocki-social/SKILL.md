@@ -54,7 +54,7 @@ i wymagania: `materialy/rolki/README.md`; decyzja: `DZIENNIK.md` z 14.10.2026.
 
 **Format 1 „Deal alert" ma gotowy generator** — w sesji Claude Code:
 
-    node scripts/rolka-deal.mjs <nr> [--hook1 "…" --hook2 "…"] [--sklepy 5] [--muzyka "…"|synt]
+    node scripts/rolka-deal.mjs <nr> [--hook1 "…" --hook2 "…"] [--sklepy 5] [--muzyka "…"|synt] [--wstep spokojny|dynamiczny]
 
 Skrypt sam bierze dane z repo (`ceny_baza.json`, `oferty_feed.json`, `sety.json`),
 wycina pudełko z tła, dokłada podkład i efekty, uruchamia kontrolę strefy
@@ -75,7 +75,8 @@ interrupt co 2–4 s żółtym przejściem):
    potem odliczanie do ceny dziś, konfetti, plakietka „−X%", żółty chip
    „najniższa cena w naszej bazie" z datą. Procent i oszczędność liczy szablon
    z dwóch liczb — nigdy nie wpisujemy ich ręcznie.
-3. **Sklepy 7,7–10,7 s, jasne tło** — do pięciu sklepów od najtańszego,
+3. **Sklepy 7,7–10,7 s, jasne tło** — do pięciu sklepów od najtańszego
+   (Ceneo nie jest sklepem i nie wchodzi; Allegro tak),
    słupek dłuższy = drożej, najtańsze na żółto. Tylko oferty z feedu nie
    starsze niż 7 dni; gdy wszystkie są starsze, skrypt odmawia (nie publikujemy
    rolki ze starą ceną).

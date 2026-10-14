@@ -10,6 +10,7 @@
 //   node scripts/rolka-deal.mjs 75405
 //   node scripts/rolka-deal.mjs 75405 --hook1 "Krążownik Rebelii" --hook2 "na dnie cenowym"
 //   node scripts/rolka-deal.mjs 75405 --sklepy 4 --bez-renderu
+//   node scripts/rolka-deal.mjs 75405 --wstep dynamiczny   # wstęp z osobnymi wjazdami i punch-inem (domyślnie: spokojny)
 //   node scripts/rolka-deal.mjs 75405 --muzyka "energetic electronic beat"   # katalog HeyGen (HEYGEN_API_KEY)
 //   node scripts/rolka-deal.mjs 75405 --muzyka synt                           # wymuś syntezator
 //
@@ -36,6 +37,8 @@ const NAZWY_SKLEPOW = {
   lidl: 'Lidl', amazon: 'Amazon', taniaksiazka: 'TaniaKsiążka', krzychumantoys: 'Krzychu Man Toys',
 };
 const DNI_SWIEZOSCI = 7;
+// porównywarki i agregatory nie są sklepami — nie pokazujemy ich na liście
+const NIE_SKLEPY = new Set(['ceneo']);
 
 // ---------- argumenty ----------
 const args = process.argv.slice(2);
@@ -50,6 +53,7 @@ const ileSklepow = Number(flaga('--sklepy', 5));
 const muzyka = flaga('--muzyka', 'auto');
 const hook1Flaga = flaga('--hook1');
 const hook2Flaga = flaga('--hook2');
+const wstep = flaga('--wstep', 'spokojny'); // spokojny | dynamiczny
 
 // ---------- dane ----------
 const czytaj = (p) => JSON.parse(readFileSync(join(REPO, 'src/data', p), 'utf8'));
@@ -82,13 +86,13 @@ let oferty = [];
 if (wFeedzie?.oferty) {
   oferty = Object.entries(wFeedzie.oferty)
     .map(([sklep, cena]) => ({ klucz: sklep, sklep: NAZWY_SKLEPOW[sklep] ?? sklep, cena: Number(cena), data: wFeedzie.daty?.[sklep] ?? null }))
-    .filter((o) => o.cena > 0 && (!o.data || o.data >= granica))
+    .filter((o) => !NIE_SKLEPY.has(o.klucz) && o.cena > 0 && (!o.data || o.data >= granica))
     .sort((a, b) => a.cena - b.cena);
 }
 if (!oferty.length && Array.isArray(set.oferty)) {
   oferty = set.oferty
     .map((o) => ({ klucz: o.sklep, sklep: NAZWY_SKLEPOW[o.sklep] ?? o.sklep, cena: Number(o.cena), data: o.data ?? null }))
-    .filter((o) => o.cena > 0 && (!o.data || o.data >= granica))
+    .filter((o) => !NIE_SKLEPY.has(o.klucz) && o.cena > 0 && (!o.data || o.data >= granica))
     .sort((a, b) => a.cena - b.cena);
 }
 if (!oferty.length) {
@@ -119,7 +123,7 @@ const hook2 = hook2Flaga ?? (dnoCenowe ? 'na dnie cenowym' : `taniej o ${Math.ro
 const DEAL = {
   nr, nazwa, seria: set.seria ?? 'LEGO', elementy: set.elementy ?? null, wiek: set.wiek ?? null,
   katalog, cena, dnoCenowe, dnoData: baza?.najnizsza_data ? pl(baza.najnizsza_data) : null,
-  stanNa: pl(stanNa), hook1, hook2,
+  stanNa: pl(stanNa), hook1, hook2, wstep,
   oferty: oferty.map((o) => ({ sklep: o.sklep, cena: o.cena })),
   wyciete: false,
 };
