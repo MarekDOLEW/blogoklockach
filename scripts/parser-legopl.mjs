@@ -146,6 +146,21 @@ export function parsujListing(markdown) {
   return produkty;
 }
 
+// Ile kafelków produktu (nagłówków z numerem w adresie) leży w markdownie —
+// niezależnie od tego, czy parser umiał z nich wyciągnąć cenę. Różnica między tą
+// liczbą a wynikiem parsujListing() to kafelki zgubione. Strażnik w
+// firecrawl-legopl.mjs porównuje je na każdej stronie, żeby błąd z 14.10.2026
+// (przecenione kafelki wypadające po cichu) nie mógł wrócić niezauważony.
+export function policzKafelki(markdown) {
+  const numery = new Set();
+  for (const l of markdown.split('\n')) {
+    const m = NAGLOWEK.exec(l.trim());
+    const nr = m && NUMER_Z_URL.exec(m[2].split('?')[0])?.[1];
+    if (nr) numery.add(nr);
+  }
+  return numery.size;
+}
+
 // Adres kolejnej strony listingu, jeśli markdown go zawiera („Załaduj więcej”).
 export function nastepnaStrona(markdown) {
   return /\[Załaduj więcej\]\((https:\/\/www\.lego\.com[^)]+)\)/.exec(markdown)?.[1] ?? null;
@@ -161,5 +176,5 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const md = readFileSync(plik, 'utf8');
   const p = parsujListing(md);
   console.log(JSON.stringify(p, null, 1));
-  console.log(`\n${p.length} produktów. Następna strona: ${nastepnaStrona(md) ?? 'brak'}`);
+  console.log(`\n${p.length} produktów z ${policzKafelki(md)} kafelków. Następna strona: ${nastepnaStrona(md) ?? 'brak'}`);
 }

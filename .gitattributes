@@ -1,0 +1,5 @@
+# DZIENNIK.md: każda sesja i każdy runner dopisuje wpis w tym samym miejscu
+# (pod znacznikiem WPISY PONIŻEJ), więc przy rebase dwa świeże wpisy zawsze
+# kolidowały. merge=union zostawia oba bez konfliktu (14.10.2026).
+# Danych JSON tak scalać nie wolno — sklejone linie psują składnię.
+DZIENNIK.md merge=union

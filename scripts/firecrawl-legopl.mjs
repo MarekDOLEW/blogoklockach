@@ -23,6 +23,7 @@
 //   node scripts/firecrawl-legopl.mjs --wyjscie katalog-legopl.json
 //   node scripts/firecrawl-legopl.mjs --strony 3            # próbka: 3 strony z każdego listingu
 //   node scripts/firecrawl-legopl.mjs --rrp ceny-rrp.json   # dodatkowo plik dla wczytaj-rrp.mjs
+//   node scripts/firecrawl-legopl.mjs --mimo-alarmu         # zapisz mimo alarmu strażnika (tylko człowiek)
 //   node scripts/firecrawl-legopl.mjs --z-pliku katalog.json --rrp ceny-rrp.json
 //       ^ bez zaciągu: przelicza gotowy katalog (np. dostarczony przez Cowork)
 //         tą samą regułą cenową. Nie wymaga klucza.
@@ -32,7 +33,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { ekstrakcja, scrape } from './firecrawl.mjs';
-import { parsujListing } from './parser-legopl.mjs';
+import { parsujListing, policzKafelki } from './parser-legopl.mjs';
 
 const LISTING = 'https://www.lego.com/pl-pl/categories/all-sets';
 // Dział wyprzedaży chodzimy OSOBNO, choć przeceny bywają też w /all-sets.
@@ -44,6 +45,14 @@ const LISTING = 'https://www.lego.com/pl-pl/categories/all-sets';
 const WYPRZEDAZ = 'https://www.lego.com/pl-pl/categories/sales-and-deals';
 const LISTINGI = [LISTING, WYPRZEDAZ];
 const NA_STRONIE = 24; // tyle kafelków oddaje jedna strona listingu
+// Strażnik parsera (od 14.10.2026). Na stronie, z której parser zgubił więcej
+// niż ZGUBIONE_NA_STRONIE kafelków, coś się rozjechało — 14.10 stary parser
+// wyciągał z pierwszej strony wyprzedaży 0 produktów z 19. Kalibracja tego dnia:
+// poprawiony parser 19/19 (wyprzedaż) i 24/24 (katalog), więc próg 2 to zapas
+// na pojedynczy kafelek bez ceny, nie na systematyczny błąd. Pełny przebieg
+// katalogu poniżej MIN_ZESTAWOW zestawów to listing urwany (22.09: 938).
+const ZGUBIONE_NA_STRONIE = 2;
+const MIN_ZESTAWOW = 800;
 
 const args = process.argv.slice(2);
 const opcja = (n) => {
@@ -54,6 +63,7 @@ const wyjscie = opcja('wyjscie') ?? 'katalog-legopl.json';
 const plikRrp = opcja('rrp');
 const limitStron = Number(opcja('strony') ?? 0) || Infinity;
 const zPliku = opcja('z-pliku');
+const mimoAlarmu = args.includes('--mimo-alarmu');
 const tryb = opcja('tryb') ?? 'markdown'; // 'markdown' (tanio, regułą) | 'ekstrakcja' (drogo, modelem)
 if (!['markdown', 'ekstrakcja'].includes(tryb)) {
   console.error("--tryb przyjmuje 'markdown' albo 'ekstrakcja'.");
@@ -128,13 +138,23 @@ function ustalKategorie(p) {
   return typeof p.elements === 'number' && p.elements > 0 ? 'zestaw' : 'akcesoria/merch';
 }
 
+const kafelkiStron = []; // { etykieta, nr, kafelki, produkty } — dla strażnika parsera
+
 async function pobierzStrone(baza, nr) {
   const url = nr === 1 ? baza : `${baza}?page=${nr}`;
   for (let proba = 1; proba <= 3; proba++) {
     try {
       if (tryb === 'markdown') {
         const dane = scrape(url, { formaty: ['markdown'], czekaj: 3000, dodatkowe: { maxAge: 0 } });
-        return parsujListing(dane?.markdown ?? '');
+        const md = dane?.markdown ?? '';
+        const produkty = parsujListing(md);
+        kafelkiStron.push({
+          etykieta: baza === WYPRZEDAZ ? 'wyprzedaż' : 'katalog',
+          nr,
+          kafelki: policzKafelki(md),
+          produkty: produkty.length,
+        });
+        return produkty;
       }
       const dane = ekstrakcja(url, SCHEMAT, { polecenie: POLECENIE, czekaj: 3000 });
       return dane?.products ?? [];
@@ -225,6 +245,37 @@ if (produkty.length === 0) {
 
 const zestawy = produkty.filter((p) => p.category === 'zestaw');
 const promocje = produkty.filter((p) => PROMOCJA.test(p.status ?? '') || p.priceBefore);
+
+// ── strażnik parsera ──
+// Zamiast po cichu zapisać katalog bez części kafelków (14.10.2026: wypadały
+// wszystkie przecenione, a lego-ceny.mjs po 14 dniach oznaczyłby je jako EOL)
+// przerywamy BEZ zapisu. Tydzień bez odczytu lego.pl nic nie psuje — EOL wymaga
+// 14 dni nieobecności — a zapisany kadłubek psuje dostępność i ceny.
+if (!zPliku && tryb === 'markdown') {
+  const alarmy = [];
+  const zgubione = kafelkiStron.filter((s) => s.kafelki - s.produkty > ZGUBIONE_NA_STRONIE);
+  for (const s of zgubione)
+    alarmy.push(`${s.etykieta} strona ${s.nr}: parser odczytał ${s.produkty} z ${s.kafelki} kafelków`);
+  const sumaKafelkow = kafelkiStron.reduce((a, s) => a + s.kafelki, 0);
+  const sumaProduktow = kafelkiStron.reduce((a, s) => a + s.produkty, 0);
+  const wyprzedaz = kafelkiStron.filter((s) => s.etykieta === 'wyprzedaż');
+  if (wyprzedaz.length && !bledy.some((b) => b.startsWith('wyprzedaż')) && wyprzedaz.every((s) => s.produkty === 0))
+    alarmy.push('dział wyprzedaży nie dał ani jednego produktu (14.10 było 74)');
+  if (promocje.length === 0) alarmy.push('zero pozycji w promocji — LEGO.pl zawsze ma jakieś przeceny');
+  if (limitStron === Infinity && zestawy.length < MIN_ZESTAWOW)
+    alarmy.push(`tylko ${zestawy.length} zestawów (próg ${MIN_ZESTAWOW}; 22.09 było 938) — listing urwany`);
+  console.log(`Strażnik parsera: ${sumaProduktow} produktów z ${sumaKafelkow} kafelków na ${kafelkiStron.length} stronach.`);
+  if (alarmy.length) {
+    console.error('\nALARM PARSERA LEGO.pl — ' + (mimoAlarmu ? 'zapisuję mimo to (--mimo-alarmu).' : 'NIE zapisuję katalogu ani pliku RRP.'));
+    for (const a of alarmy) console.error(`  - ${a}`);
+    console.error(
+      'Najpewniej LEGO.pl zmieniło układ kafelka. Test bez kredytów i opis poprzedniej awarii:\n' +
+        'RUNBOOK.md, „lego.pl: dostępne przez Firecrawl", czwarta pułapka. Poprawka parsera to\n' +
+        'zadanie dla sesji Code; runner zgłasza to w „Kto co robi" i nie wczytuje danych.',
+    );
+    if (!mimoAlarmu) process.exit(3);
+  }
+}
 
 const katalog = {
   meta: {

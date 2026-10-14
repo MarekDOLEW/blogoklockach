@@ -1092,6 +1092,30 @@ wyprzedaży i puść na nim parser —
 i `node scripts/parser-legopl.mjs /tmp/w.md`. Przed poprawką: 0 produktów przy 74
 w dziale. Po poprawce: 19 z pierwszej strony, z `priceBefore` wyższym od `price`.
 
+**Strażnik w skrypcie (od 14.10.2026), żeby to nie wróciło po cichu.** Test regresji
+wyżej trzeba odpalić ręcznie, więc sam nikogo nie ostrzeże. Dlatego
+`firecrawl-legopl.mjs` przy każdym zaciągu liczy na każdej stronie dwie rzeczy: ile jest
+kafelków produktu (`policzKafelki()` w parserze — same nagłówki z numerem, bez
+czytania cen) i ile produktów oddał parser. Przerywa **bez zapisu katalogu i pliku
+RRP**, z kodem wyjścia 3 i komunikatem „ALARM PARSERA LEGO.pl", gdy:
+- z którejkolwiek strony zgubił więcej niż 2 kafelki,
+- dział wyprzedaży nie dał ani jednego produktu,
+- w całym zaciągu nie ma żadnej pozycji w promocji,
+- pełny przebieg dał mniej niż 800 zestawów.
+
+Sprawdzone 14.10: poprawiony parser przechodzi (39/39 kafelków), a parser sprzed
+poprawki podstawiony na próbę wywołuje alarm trzema powodami naraz (0 z 19 na
+wyprzedaży). Dlaczego przerwanie, a nie zapis: tydzień bez odczytu nic nie psuje,
+bo EOL wymaga 14 dni nieobecności. Natomiast zapisany katalog bez części kafelków
+psuje ceny i dostępność. Runner (Dane wt) traktuje to jak każdy błąd skryptu i
+zgłasza w „Kto co robi"; parser poprawia sesja Code. Jeśli po sprawdzeniu
+alarm okaże się fałszywy, człowiek może zapisać mimo to: `--mimo-alarmu`.
+
+Gdyby LEGO.pl przestało pokazywać ceny na listingu, parser pominie kafelki bez
+kwot, więc to też złapie próg zgubionych kafelków. Nie złapie za to zmiany
+nagłówka kafelka (`### [nazwa](adres)`): wtedy oba liczniki spadają do zera
+razem. Na ten wypadek są dwa ostatnie warunki: brak przecen i mniej niż 800 zestawów.
+
 `firecrawl-legopl.mjs` chodzi od 14.10 po DWÓCH listingach — katalogu i dziale
 wyprzedaży (`LISTINGI`), a `--strony` ogranicza każdy z osobna. Przy pierwszym
 wspólnym przebiegu wyprzedaż dołożyła **zero** pozycji, których nie było w katalogu

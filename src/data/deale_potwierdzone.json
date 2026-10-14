@@ -2,7 +2,7 @@
  "_meta": {
   "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia. Sekcja 'odrzucone' (od 17.09.2026): werdykty „fałsz\" po sprawdzeniu — oferta zostaje ukryta jak każda niepotwierdzona, a podejrzany-rynek-mail.mjs przestaje o nią pytać; niższa cena niż oceniona wraca do maila.",
   "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
-  "zaktualizowano": "2026-09-18"
+  "zaktualizowano": "2026-10-14"
  },
  "potwierdzone": {
   "60339": {
@@ -25,6 +25,13 @@
    "data": "2026-09-16",
    "kto": "Marek",
    "uwagi": "Domo powstaje — Empik 229, Ceneo 220 przy RRP 479,99"
+  },
+  "40824": {
+   "cena": 69.99,
+   "sklep": "mediaexpert",
+   "data": "2026-10-14",
+   "kto": "Marek",
+   "uwagi": "Uroczy kanarek Tweety — Media Expert 69,99 przy RRP 144,99; Łowca potwierdził cenę na karcie 13.10 i 14.10"
   }
  },
  "odrzucone": {

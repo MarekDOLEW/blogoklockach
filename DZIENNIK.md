@@ -118,6 +118,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 10:30 · CODE · Strażnik parsera LEGO.pl, koniec konfliktów w dzienniku, 40824 potwierdzony
+
+- **Parser LEGO.pl:** `firecrawl-legopl.mjs` liczy na każdej stronie kafelki i produkty odczytane przez parser. Gdy z którejś strony zgubi więcej niż 2, gdy wyprzedaż jest pusta, gdy brak przecen albo gdy pełny przebieg da mniej niż 800 zestawów — przerywa z kodem 3 i niczego nie zapisuje. Sprawdzone na żywo: poprawiony parser 39/39, parser sprzed b4559ca podstawiony na próbę → alarm (0 z 19 na wyprzedaży). Szczegóły: RUNBOOK, „Czwarta pułapka". Dane wt przy alarmie przerywa i zgłasza w „Kto co robi".
+- **Dziennik:** `.gitattributes` z `DZIENNIK.md merge=union` — dwa wpisy dopisane w tym samym miejscu przez różne sesje scalają się przy rebase bez konfliktu (sprawdzone na repo testowym). Pliki `src/data/*.json` celowo bez tego — tam konflikt dalej zatrzymuje runnera.
+- **40824** Uroczy kanarek Tweety w `deale_potwierdzone.json` (69,99 zł, Media Expert, decyzja Marka).
+
 ## 2026-10-14 09:10 · CODE · /podglad/ usunięty (decyzja Marka)
 
 - Skasowane `src/pages/podglad/glowna-obecna.astro` i `deale-obecne.astro` — kopie strony głównej i deali sprzed v2 (29.09). Przypomnienie „Usunąć /podglad/” odpaliło się dziś, Marek potwierdził. Powrót możliwy z historii gita (`7f488de`).
@@ -128,6 +134,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: post `/deale/deal-40824-kanarek-tweety-minimum/` jest opublikowany, ale oferta ME nie wchodzi do tabel cen ani huba `/zestaw/40824/`
 **Zrobić:** — sprawdzić kartę ME (Łowca potwierdził 69,99 zł na stronie 13.10 i 14.10) i dopisać 40824 do `src/data/deale_potwierdzone.json`
 **Kto:** — Marek (decyzja)
+→ zamknięte 14.10: Marek potwierdził, 40824 (69,99 zł, Media Expert) w `deale_potwierdzone.json` — oferta wraca do huba i tabel cen
 
 
 ## 2026-10-14 08:55 · CODE · Parser listingu LEGO.pl gubił każdy przeceniony zestaw
