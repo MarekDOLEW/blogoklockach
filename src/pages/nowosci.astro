@@ -70,11 +70,11 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 // filtrem: miesiąc premiery, seria, sortowanie, szukaj. Zapowiedzi – ta sama
 // tabela, bez filtra (kilkanaście pozycji) i bez linków do sklepów.
 const ymNum = (p) => Number(String(p).replace('-', '')) || null;
-// W kolumnie statusu krótko: „Premiera" dla bieżącego miesiąca, starsze zwykłe
+// W kolumnie statusu krótko: „Nowość" dla bieżącego miesiąca (14.10.2026: „Premiera" sugerowała dzień premiery), starsze zwykłe
 // „w sprzedaży" – miesiąc premiery stoi w wierszu pod nazwą zestawu.
 const znaczekPremiery = (s) =>
   s.przedsprzedaz ? { klasa: 'badge-przedsprzedaz', tekst: 'Przedsprzedaż' }
-  : s.premiera === biezacy ? { klasa: 'badge-premiera', tekst: 'Premiera' } : undefined;
+  : s.premiera === biezacy ? { klasa: 'badge-premiera', tekst: 'Nowość' } : undefined;
 const wierszeNowosci = nowe.map((s) => {
   const oferta = najlepszaOferta(s.nr, { sety, feed }) ?? { sklep: 'lego', cena: s.cena_katalogowa, data: null };
   return {
@@ -148,7 +148,7 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Nowości i zapowiedzi 
 
   <section class="widok" id="widok-nowosci" aria-label="Nowości LEGO w sprzedaży">
     <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców – oraz zestawy, które LEGO.com sprzedaje w przedsprzedaży przed premierą. W tabeli najnowsze na górze, z najniższą ceną, jaką dziś widzimy.</p>
-    <KaruzelaPropozycji pozycje={karuzela} tytul={pulaKaruzeli.length >= 3 ? `Premiery – ${mBiezacy.mianownik}` : 'Nasze propozycje'} etykieta="Wybrane premiery" />
+    <KaruzelaPropozycji pozycje={karuzela} tytul={pulaKaruzeli.length >= 3 ? `Nowości – ${mBiezacy.mianownik}` : 'Nasze propozycje'} etykieta="Wybrane nowości" />
     <FiltrSetow
       serie={serie}
       liczbaWSerii={wSerii}
