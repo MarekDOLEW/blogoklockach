@@ -222,6 +222,9 @@ ze źródłem „karta redakcyjna" — 40906 i 40907 po 84,99 zł, 40908 81,99 z
 dodatku, albo żadna. Sam tego nie zmieniam: ceny są append-only, a 40908 chodzi dziś na Allegro po 169 zł
 i w Empiku po 278 zł, czyli „cena katalogowa" i rynek rozjeżdżają się trzykrotnie. Jeśli decyzja
 pójdzie w stronę `bez_rrp` dla całej serii, zmieni się też to, co widać w tabelach cen w hubach.
+↻ 14.10: nadal aktualne — decyzja czeka na Marka, dane bez zmian; od dziś pozycja stoi też
+w sekcji „Kto co robi" raportu Scouta (**Kto:** Marek, **Zrobić:** jedna decyzja dla czterech
+restauracji 40906–40909: wycena dodatku w `katalog.json` albo `bez_rrp` dla całej serii).
 
 **Przecieki:** wszystkie osiem rozstrzygniętych wpisów ma już `opis` dla czytelnika (11387, 11390, 40899,
 40909, 67006, 67008, 71873, 71875). Bez opisu zostaje osiem wpisów otwartych, gdzie poza numerem, ceną
