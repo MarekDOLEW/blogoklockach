@@ -352,7 +352,8 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   `CRON_TZ=Europe/Warsaw 57 1 * * *` (01:57 zamiast 02:00 — pełne godziny są najbardziej
   obciążone). Robi `npm run build` i `scripts/kolejka-indeksacji.mjs`, commituje tylko
   `materialy/indeksacja/`. Klikanie „Poproś o zindeksowanie” robi Cowork na komputerze Marka
-  (prompt: `materialy/indeksacja/cowork-zadanie.md`) — API Google tego nie umie.
+  (prompt: `materialy/indeksacja/cowork-zadanie.md`) — API Google tego nie umie. Zadanie Coworka
+  „Kolejka GSC — zgłoszenia” założone przez Marka: codziennie 10:24, od 15.10, lokalne (nie widać go w `list_triggers`).
 
 **14.10.2026 (Dane wt: awaria LEGO.pl nie zabiera cen sklepów)**
 - Decyzja Marka. Przy błędzie w krokach 1–5 (alarm parsera z kodem 3, Firecrawl 402/429, urwany

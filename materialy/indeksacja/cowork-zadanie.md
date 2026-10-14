@@ -1,7 +1,7 @@
 # Cowork: codzienne „Poproś o zindeksowanie” (zadanie cykliczne)
 
 Ustala Marek w aplikacji Cowork na swoim komputerze (sesja Code nie zakłada zadań
-Coworka — tamte żyją lokalnie). Proponowana pora: **codziennie 10:00**. Komputer musi
+Coworka — tamte żyją lokalnie). **Założone 14.10.2026 jako „Kolejka GSC — zgłoszenia”, codziennie 10:24 (Europe/Warsaw), pierwszy przebieg 15.10, tryb automatycznego zatwierdzania, przypięte do komputera Marka.** Cowork dopisał jedno zabezpieczenie: przy prośbie o logowanie albo CAPTCHA zatrzymuje się i pisze, gdzie stanął. Komputer musi
 być wtedy włączony, a Chrome zalogowany do konta Google z dostępem do Search Console
 (logowanie do GitHuba niepotrzebne — repo jest publiczne). Listę na każdy dzień układa w nocy runner „Kolejka indeksacji
 01:57” (`scripts/kolejka-indeksacji.mjs`, trigger `trig_01Gh6Payj9QVGDkrKXNzkbCX`).

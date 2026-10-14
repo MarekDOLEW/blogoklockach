@@ -160,6 +160,7 @@ sama czerwień i ten sam kształt.
 **Mamy?** — częściowo: runner układa listę od 15.10, nikt jej nie klika
 **Zrobić:** — założyć w Coworku zadanie cykliczne (codziennie 10:00) z promptem z `materialy/indeksacja/cowork-zadanie.md`
 **Kto:** — Marek (decyzja, panel)
+→ zamknięte 14.10: zadanie „Kolejka GSC — zgłoszenia” założone, codziennie 10:24, pierwszy przebieg 15.10
 
 ## 2026-10-14 12:20 · CODE · Wyprzedane oferty nie liczą się do najtańszej ceny
 
