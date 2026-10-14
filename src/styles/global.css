@@ -1206,13 +1206,14 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* ---------- Statusy: EOL, prognozy, przecieki (ustalenia 13.09.2026) ---------- */
 /* Znacznik EOL: LEGO zakończyło sprzedaż, ale zestaw wciąż bywa w sklepach –
    stoi POD plakietką „w sprzedaży" na listingu i przy cenie LEGO w tabeli cen */
-.tag-eol {
+.tag-eol,
+.tag-wyprzedane {
   display: inline-block; font-weight: 800; font-size: 0.66rem; letter-spacing: 0.08em;
   padding: 1px 7px; border-radius: 4px; vertical-align: middle; line-height: 1.5;
   background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28);
 }
 .tabela-setow .kol-status .tag-eol { display: block; width: max-content; margin-top: 5px; }
-.tabela-cen .kc-cena .tag-eol { margin-left: 8px; }
+.tabela-cen .kc-cena .tag-eol, .tabela-cen .kc-cena .tag-wyprzedane { margin-left: 8px; }
 .tabela-cen tr.wiersz-eol td { color: var(--granat-60); }
 .tabela-cen .kc-eol-info { font-size: 0.82rem; color: var(--granat-60); white-space: nowrap; }
 .tabela-cen .kc-uwaga { display: block; font-size: 0.72rem; color: var(--granat-60); font-weight: 400; }

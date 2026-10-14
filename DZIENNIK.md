@@ -118,6 +118,40 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 12:55 · CODE · Wiersz „wyprzedane" w tabeli cen — i ukryty błąd, który przy okazji wyszedł
+
+Dopisek, o który prosił Marek po obejrzeniu 76329. Przy pisaniu okazało się, że samo
+wykluczenie oferty z liczenia najtańszej (wpis 12:20) **nie załatwiło sprawy do końca**.
+
+**Czego nie widziałem wcześniej.** `TabelaCen` dokłada wiersz LEGO z ceną KATALOGOWĄ, gdy
+w ofertach nie ma LEGO — i ten wiersz szedł do zwykłego sortowania po cenie. Przy 76329
+cennikowe 299,99 zł stawało więc na czele tabeli i dostawało ramkę „najtańszy", mimo że
+w metaopisie i na pasku ceny mieliśmy już poprawne 337 zł z Allegro. Strona przeczyła sama
+sobie o dwa akapity: na górze „od 337,00 zł", a w tabeli wyróżnione 299,99 zł ze sklepu,
+który zestawu nie ma.
+
+**Rozwiązanie jest tym, co serwis robi od dawna z Ceneo:** wiersz, który nie jest ofertą,
+stoi osobno na końcu i nie bierze udziału ani w sortowaniu, ani w wyróżnieniu najtańszego.
+`wierszLegoWyprzedane` działa teraz dokładnie jak `wierszLegoEol`, tylko z innym tekstem:
+znacznik **„wyprzedane"** przy cenie i podpis „oficjalny sklep – w tej chwili wyprzedane;
+podajemy cenę katalogową dla porównania". Link do LEGO.com zostaje — na karcie są zdjęcia
+i wymiary, a zestaw może wrócić do sprzedaży.
+
+Po zmianie na 76329: najtańszy jest Allegro 337,00 zł, Empik 358,41 zł pod nim, a LEGO.com
+z 299,99 zł i znacznikiem „wyprzedane" na końcu. Dokładnie to samo mówi metaopis.
+
+**Zasięg:** wiersz wychodzi na 38 z 39 wyprzedanych hubów. Trzydziesty dziewiąty to
+5006157 Play and Display Case — nie ma ceny katalogowej, więc nie ma czego pokazać;
+zostaje sama plakietka przy tytule. Nie wymyślamy kwoty, żeby wiersz się pojawił.
+
+Sprawdzone po buildzie (10002 strony), że dostępnym zestawom nic się nie stało: 76447 ma
+dalej LEGO.com 271,99 zł jako najtańsze, z datą i rabatem −20%. 10315 pokazuje ten sam
+układ co 76329 — Media Expert 308,96 zł na czele, wyprzedane LEGO na końcu.
+
+CSS bez nowej deklaracji: `.tag-wyprzedane` dołączony do selektora `.tag-eol`, bo to ta
+sama czerwień i ten sam kształt.
+
+
 ## 2026-10-14 12:20 · CODE · Wyprzedane oferty nie liczą się do najtańszej ceny
 
 Dokończenie wątku z 11:40. Plakietka mówiła „wyprzedane w LEGO.com", a cena z tego samego

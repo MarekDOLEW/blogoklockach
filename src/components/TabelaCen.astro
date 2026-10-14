@@ -15,9 +15,17 @@ import redirects from '../data/redirects.json';
 //   eolLego    – LEGO zakończyło produkcję: wiersz na końcu, cena katalogowa
 //                ze znacznikiem EOL (informacja, ile zestaw kosztował u producenta)
 //                i bez przycisku – nie wysyłamy czytelnika tam, gdzie nie kupi.
+//   wyprzedaneLego – LEGO ma zestaw chwilowo wyprzedany („Niedostępne" na listingu,
+//                status.js → wyprzedaneWLego). Traktujemy ten wiersz jak Ceneo:
+//                stoi osobno na końcu, NIE bierze udziału w sortowaniu ani
+//                w wyróżnieniu „najtańszy". Bez tego wiersz z ceną katalogową
+//                potrafił stanąć na czele tabeli i dostać ramkę najtańszego –
+//                14.10.2026 przy 76329 cennikowe 299,99 zł biło realne 337 zł
+//                z Allegro, choć w LEGO zestawu nie było. Link zostaje: na karcie
+//                produktu są zdjęcia i wymiary, a zestaw może wrócić do sprzedaży.
 // cenaKatalogowa jest opcjonalna – lekkie huby (spoza sety.json) jej nie znają,
 // wtedy tabela nie pokazuje kolumny rabatu.
-const { nr, oferty, cenaKatalogowa = null, dodajLego = false, eolLego = false, eolPewny = false } = Astro.props;
+const { nr, oferty, cenaKatalogowa = null, dodajLego = false, eolLego = false, eolPewny = false, wyprzedaneLego = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
 // link do LEGO.com generuje worker z samego numeru – nie wymaga wpisu w redirects;
@@ -36,8 +44,8 @@ const relLinku = (sklep) => (maAfiliacje(sklep) ? relSklepu(sklep, nr) : 'nofoll
 
 // Po EOL wiersz LEGO z sety.json (cena katalogowa) nie jest już ofertą –
 // przenosimy go do wiersza informacyjnego na końcu.
-const sklepowe = eolLego ? oferty.filter((o) => o.sklep !== 'lego') : oferty;
-const zLego = dodajLego && !sklepowe.some((o) => o.sklep === 'lego') && cenaKatalogowa
+const sklepowe = eolLego || wyprzedaneLego ? oferty.filter((o) => o.sklep !== 'lego') : oferty;
+const zLego = dodajLego && !wyprzedaneLego && !sklepowe.some((o) => o.sklep === 'lego') && cenaKatalogowa
   ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]
   : [];
 // Ceneo to porównywarka, nie sklep: jego cena to najniższa oferta rynkowa,
@@ -50,6 +58,8 @@ const posortowane = [...sklepowe, ...zLego]
   .sort((a, b) => a.cena - b.cena);
 const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
 const wierszLegoEol = eolLego && cenaKatalogowa ? { sklep: 'lego', cena: cenaKatalogowa } : null;
+// chwilowo wyprzedane w LEGO (nie EOL): osobny wiersz informacyjny z cennikiem
+const wierszLegoWyprzedane = !eolLego && wyprzedaneLego && cenaKatalogowa ? { sklep: 'lego', cena: cenaKatalogowa } : null;
 // Po EOL link do lego.pl zostaje, dopóki karta produktu istnieje (zasada Marka
 // 16.09.2026) – to nadal najlepsze zdjęcia, opis i wymiary zestawu w sieci.
 const maStroneLego = legoMaStrone(nr);
@@ -90,6 +100,21 @@ const UWAGA_SKLEP = {
           </td>
         </tr>
       ))}
+      {wierszLegoWyprzedane && (
+        <tr class="wiersz-eol">
+          <td class="kc-sklep">
+            <strong>{sklepy.lego?.nazwa ?? 'LEGO.com'}</strong>
+            <span class="kc-uwaga">oficjalny sklep – w tej chwili wyprzedane; podajemy cenę katalogową dla porównania</span>
+          </td>
+          <td class="cena kc-cena">{fmt(wierszLegoWyprzedane.cena)}<span class="tag-wyprzedane" title="Cena katalogowa LEGO – w oficjalnym sklepie zestaw jest teraz wyprzedany">wyprzedane</span></td>
+          {cenaKatalogowa && <td class="kc-rabat">–</td>}
+          <td class="kc-cta">
+            {maStroneLego
+              ? <a class="cta cta--eol" href={`/idz/lego/${nr}`} target="_blank" rel={relSklepu('lego')} aria-label="Przejdź do sklepu LEGO.com">LEGO.com →</a>
+              : <span class="kc-eol-info">wyprzedane</span>}
+          </td>
+        </tr>
+      )}
       {wierszLegoEol && (
         <tr class="wiersz-eol">
           <td class="kc-sklep">
