@@ -487,6 +487,9 @@ a.set-cena { border-bottom: 2px solid var(--zolty); }
 a.set-cena:hover { color: #0f1830; border-bottom-color: var(--granat); }
 .set-cena--bez-linku { color: var(--granat-60); }
 .set-sklep { display: block; font-size: 0.72rem; color: var(--granat-60); margin-top: 2px; }
+/* „w N sklepach” — liczba sklepów z ofertą (od 14.10.2026, na razie /wycofania/) */
+.set-sklepy { display: block; font-size: 0.72rem; color: var(--granat-60); margin-top: 1px; }
+a.set-sklepy { text-decoration: underline; text-underline-offset: 2px; }
 .set-sprawdz { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.8rem; padding: 7px 12px; border-radius: 6px; white-space: nowrap; }
 .set-sprawdz:hover { background: #0f1830; }
 .set-brak-ceny { font-size: 0.8rem; color: var(--granat-60); }
@@ -572,7 +575,8 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
   .tabela-setow .kol-cena .set-kiedy { flex-basis: 100%; margin: 0 0 2px; }
   /* sklep i data idą dalej w tej samej linii co ceny; gdy zabraknie
      miejsca, flex-wrap przeniesie je sam */
-  .tabela-setow .kol-cena .set-sklep { margin: 0; }
+  .tabela-setow .kol-cena .set-sklep,
+  .tabela-setow .kol-cena .set-sklepy { margin: 0; }
 
   .tabela-setow .kol-status { grid-area: status; align-self: start; margin-top: 2px; }
   tr.set-trafienie td:first-child { box-shadow: none; }
@@ -1656,6 +1660,8 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .przelacznik__pstryk[aria-checked="true"] span { transform: translateX(24px); }
 .przelacznik__etyk:focus-visible, .przelacznik__pstryk:focus-visible { outline: 3px solid var(--zolty-ciemny); outline-offset: 3px; }
 .widok__wstep { margin-top: 0; }
+.badge-przedsprzedaz { display: inline-block; background: var(--granat); color: #fff; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
+.tabela-setow .badge-przedsprzedaz { font-size: 0.74rem; letter-spacing: .02em; text-transform: uppercase; }
 .badge-premiera { display: inline-block; background: var(--czerwien); color: #fff; font-weight: 700; font-size: 0.74rem; letter-spacing: .02em; text-transform: uppercase; padding: 3px 10px; border-radius: 999px; }
 @media (max-width: 600px) {
   .przelacznik { gap: 10px; padding: 8px 12px; width: 100%; }

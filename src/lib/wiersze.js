@@ -2,7 +2,7 @@
 // Jedna implementacja dla /wycofania/ i dla rankingu wycofań na stronie głównej,
 // żeby ta sama pozycja wszędzie miała identyczną cenę, link i status.
 
-import { najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu } from './oferty.js';
+import { najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu, polaczOferty } from './oferty.js';
 import { rokSetu, wpisKatalogu } from './katalog.js';
 import { urlZdjecia } from './media.js';
 import { maHub } from './huby.js';
@@ -19,10 +19,17 @@ export function wierszWycofania(w, { sety = {}, feed = {} } = {}) {
   let oferta = sklepowa;
   if (!oferta && cenaKat && !status.eolLego) oferta = { sklep: 'lego', cena: cenaKat, data: null };
   const link = oferta ? linkAfiliacyjny(oferta.sklep, w.numer) : null;
+  // Ile sklepów ma dziś świeżą ofertę (bez Ceneo — to porównywarka). Radar 26.09.2026:
+  // u konkurencji kolumna „Dystrybucja”; liczba sklepów to nasz żywy odpowiednik
+  // i najlepszy znany predyktor tego, jak szybko zestaw zniknie z półek.
+  const sklepow = new Set(
+    polaczOferty(sety[w.numer]?.oferty ?? [], feed[w.numer] ?? null, w.numer).map((o) => o.sklep).filter((s) => s !== 'ceneo'),
+  ).size;
   return {
     numer: w.numer,
     nazwa: w.nazwa,
     opis: w.uwagi,
+    sklepow,
     seria: w.seria,
     rok: rokSetu(w.numer),
     elementy: w.elementy,

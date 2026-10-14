@@ -82,6 +82,7 @@ const meta = (w) =>
             data-rok={w.rok ?? undefined}
             data-cena={w.oferta?.cena ?? undefined}
             data-dostepny={w.oferta && w.status !== 'eol' ? '1' : undefined}
+            data-sklepow={typeof w.sklepow === 'number' ? w.sklepow : undefined}
           >
             <td class="kol-foto">
               {w.zdjecie ? (
@@ -144,6 +145,11 @@ const meta = (w) =>
                         ? ' · cena katalogowa'
                         : dataKrotka(w.oferta.data) ? ` · z ${dataKrotka(w.oferta.data)}` : ''}
                     </span>
+                  )}
+                  {typeof w.sklepow === 'number' && w.sklepow > 1 && (
+                    w.hub
+                      ? <a class="set-sklepy" href={`/zestaw/${w.numer}/#ceny`}>{`w ${w.sklepow} sklepach`}</a>
+                      : <span class="set-sklepy">{`w ${w.sklepow} sklepach`}</span>
                   )}
                 </>
               ) : w.link ? (

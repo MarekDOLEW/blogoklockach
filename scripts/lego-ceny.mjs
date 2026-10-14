@@ -15,7 +15,8 @@
 // - sety.json: oferta {sklep:'lego', cena, data} zastępuje starą; pole
 //   `ekskluzyw` = true/false z etykiety „Ekskluzywne";
 // - katalog.json: status 'dostepny' dla zestawów z listingu (plus
-//   `lego_pl_widziano: <data>` i `ekskluzyw`); zestawy „dostepny", których
+//   `lego_pl_widziano: <data>`, `ekskluzyw` i od 14.10.2026 `lego_pl_etykieta`:
+//   przedsprzedaz / zamowienie_oczekujace / wkrotce / niedostepne); zestawy „dostepny", których
 //   listing NIE pokazał, dostają tylko brak nowej daty — statusu nie zmieniamy
 //   automatycznie (listing bywa niepełny), decyduje audyt / runner Wycofań.
 // Ceny katalogowe (RRP) idą osobną ścieżką: wczytaj-rrp.mjs (rejestr write-once).
@@ -57,6 +58,19 @@ const liczbaKatalog = Object.values(katalog).filter(Array.isArray).reduce((n, l)
 
 const etykiety = (p) => (p.labels ?? [p.status]).filter(Boolean).map((e) => e.toLowerCase());
 const ekskluzywny = (p) => etykiety(p).some((e) => e.includes('ekskluzyw'));
+// Stan zakupu na lego.pl (od 14.10.2026, prośba Marka: zestaw, który LEGO już
+// sprzedaje w przedsprzedaży, należy do Nowości, nie do Zapowiedzi). Etykiety
+// z kafelka listingu: „Przedsprzedaż” i „Zamówienie oczekujące” = można dodać
+// do koszyka (wysyłka później); „Wkrótce dostępne” = jeszcze nie; „Niedostępne”
+// = wyprzedane. Brak etykiety = zwykła sprzedaż (null).
+const etykietaZakupu = (p) => {
+  const e = etykiety(p).join(' | ');
+  if (e.includes('przedsprzeda')) return 'przedsprzedaz';
+  if (e.includes('zamówienie oczekujące') || e.includes('zamowienie oczekujace')) return 'zamowienie_oczekujace';
+  if (e.includes('wkrótce dostępne') || e.includes('wkrotce dostepne')) return 'wkrotce';
+  if (e.includes('niedostępne') || e.includes('niedostepne')) return 'niedostepne';
+  return null;
+};
 const wKatalogu = new Map();
 for (const [seria, lista] of Object.entries(katalog)) {
   if (seria === '_meta' || !Array.isArray(lista)) continue;
@@ -107,6 +121,11 @@ for (const p of produkty) {
     if (k.status !== 'dostepny') { k.status = 'dostepny'; nowyDostepny++; katalogZmiany++; }
     if (Boolean(k.ekskluzyw) !== eks) { k.ekskluzyw = eks; katalogZmiany++; }
     if (k.lego_pl_widziano !== dataZaciagu) { k.lego_pl_widziano = dataZaciagu; katalogZmiany++; }
+    const zakup = etykietaZakupu(p);
+    if ((k.lego_pl_etykieta ?? null) !== zakup) {
+      if (zakup) k.lego_pl_etykieta = zakup; else delete k.lego_pl_etykieta;
+      katalogZmiany++;
+    }
   }
 }
 

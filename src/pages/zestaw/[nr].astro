@@ -12,7 +12,7 @@ import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
-import { premieraSetu, zapowiedz, przeciek as przeciekSetu } from '../../lib/premiery.js';
+import { premieraSetu, zapowiedz, przedsprzedaz, przeciek as przeciekSetu } from '../../lib/premiery.js';
 import { eolWLego, eolPotwierdzony, statusWycofania } from '../../lib/status.js';
 import { fmtElementy, odmien, ileElementow, polaczOferty, cenaKatalogowaSetu, nazwaSklepu, fmtCena, sieciEkskluzywu } from '../../lib/oferty.js';
 import { hubIndeksowalny } from '../../lib/seo.js';
@@ -95,6 +95,11 @@ const ofertyZMagazynu = ofertySklepowe.filter((o) => o.sklep !== 'allegro');
 // nie ma jeszcze wpisu w sety.json, a i tak nie może dostać tabeli cen.
 const premiera = premieraSetu(nr);
 const wkrotce = zapowiedz(nr);
+// przedsprzedaż na LEGO.com (od 14.10.2026): premiera w przyszłości, ale zestaw
+// można już zamówić — hub pokazuje normalną tabelę cen z wierszem LEGO.com
+const wPrzedsprzedazy = przedsprzedaz(nr);
+const MIES_MIAN = ['styczeń', 'luty', 'marzec', 'kwiecień', 'maj', 'czerwiec', 'lipiec', 'sierpień', 'wrzesień', 'październik', 'listopad', 'grudzień'];
+const premieraSlownie = /^\d{4}-\d{2}$/.test(premiera ?? '') ? `${MIES_MIAN[Number(premiera.slice(5, 7)) - 1]} ${premiera.slice(0, 4)}` : null;
 // zapowiedź potwierdzona przez LEGO kontra przeciek z rynku (src/lib/premiery.js)
 const przeciek = przeciekSetu(nr);
 // cena katalogowa bywa nieogłoszona (premiery, zestawy promocyjne) – wtedy
@@ -281,6 +286,7 @@ const opisMeta = najlepsza
         <p style="margin-top:0" class="set-plakietki">
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
           {wkrotce && !przeciek && <span class="badge-wkrotce">wkrótce – zapowiedź potwierdzona przez LEGO</span>}
+          {wPrzedsprzedazy && <span class="badge-przedsprzedaz">przedsprzedaż na LEGO.com{premieraSlownie ? ` – premiera: ${premieraSlownie}` : ''}</span>}
           {przeciek && <a class="badge-przeciek" href="/przecieki/" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu; źródło i ocena pewności w dziale Przecieki">zapowiedź – przeciek z rynku</a>}
           {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && (eolPewny

@@ -1516,6 +1516,17 @@ w `feedy.json` → `mediamarkt`:
 
 Prowizja 1,5% (w panelu nie ma kategorii zabawek), cookie 30 dni, deep linking i porównywarki dozwolone.
 
+## Przedsprzedaż na LEGO.com = Nowości, nie Zapowiedzi *(od 14.10.2026, prośba Marka)*
+
+Listing lego.pl ma na kafelku etykietę stanu zakupu. `scripts/lego-ceny.mjs` zapisuje ją w katalogu
+jako `lego_pl_etykieta`: `przedsprzedaz`, `zamowienie_oczekujace` (oba: da się dodać do koszyka),
+`wkrotce` („Wkrótce dostępne” — jeszcze nie), `niedostepne` (wyprzedane). Brak pola = zwykła sprzedaż.
+`src/lib/premiery.js` → `przedsprzedaz(nr)` = pierwsze dwie etykiety, widziane w ostatnich 14 dniach;
+wtedy `zapowiedz(nr)` zwraca false: hub pokazuje tabelę cen z LEGO.com i plakietkę „przedsprzedaż
+na LEGO.com – premiera: <miesiąc>”, a `/nowosci/` stawia zestaw w Nowościach z plakietką „Przedsprzedaż”
+(tylko premiera od okna Nowości wzwyż — „zamówienie oczekujące” mają też stare zestawy).
+Etykiety odświeża wtorkowy przebieg Dane wt.
+
 ## Format raportów runnerów: „Kto co robi” *(od 13.10.2026, prośba Marka)*
 
 Każdy runner (Scout, Łowca, Wycofania, Dane wt, Kontroler; Radar był wzorem) zaczyna podsumowanie

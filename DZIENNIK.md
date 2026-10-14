@@ -117,6 +117,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-14 08:40 · CODE · Przedsprzedaż w Nowościach, zdjęcia nowości, 18 dużych zestawów, sklepy na /wycofania/
+
+- **Przedsprzedaż (prośba Marka):** zestaw, który LEGO.com już sprzedaje („Przedsprzedaż” albo „Zamówienie oczekujące” na listingu lego.pl), jest w Nowościach z plakietką „Przedsprzedaż”, a jego hub pokazuje tabelę cen z LEGO.com zamiast samej zapowiedzi. „Wkrótce dostępne” zostaje w Zapowiedziach. Etykietę zapisuje `lego-ceny.mjs` w katalogu (`lego_pl_etykieta`), co wtorek w przebiegu Dane wt; dziś zaciąg zrobiony ręcznie (896 zestawów): 12 w przedsprzedaży, 16 w zamówieniu oczekującym, 4 „wkrótce”, 38 wyprzedanych. Nowości 134 wiersze, w tym 14 w przedsprzedaży (67006, 67008, 67009, 72052–72061, 21065).
+- **Zdjęcia nowości:** `generuj-obrazy.mjs` (poza buildem, czyli w przebiegu Łowcy) dociąga zdjęcie z Rebrickable albo Brickset dla zestawów bez źródła; dziś 7 dopisanych i wgranych do R2 (40909, 67006, 67008, 67009, 67012, 71873, 71875). Bez zdjęcia nigdzie: 21375 (przeciek), 71835.
+- **18 dużych zestawów do sety.json** (Radar 11.10): Titanic, Wieża Eiffla, Muzeum historii naturalnej, Neuschwanstein, Ogród botaniczny, Włoska riwiera, Goonies, Rodzinna choinka, Zamek Pięknej i Bestii, Hogwart, Sokół Millennium, Gwiazda Śmierci, Baratie, Wieża Avengersów, Arkham Asylum, Nora, Hogsmeade, T. rex — opisy z faktów Brickset API, oferty z feedu.
+- **/wycofania/:** pod ceną „w N sklepach” (Radar 26.09).
+- **Decyzje Marka:** 72306 — kupno odkładamy; Proshop — ponaglenie, gdy wzrośnie ruch. Obie pozycje Radaru zamknięte.
+
 
 ## 2026-10-14 08:20 · RADAR · Do zrobienia
 
@@ -321,6 +329,8 @@ i prawie zgłosiłem to jako dziurę w danych. To nie dziura, a **zaprojektowany
 w hubach), a `sety.json` i `ceny_baza.json` obejmują zestawy śledzone — mówi to wprost
 `_meta` samego `oferty_feed`. Tych dwóch populacji nie wolno porównywać jak równych.
 
+→ zamknięte 14.10.2026: 18 zestawów dopisanych do sety.json (z 19 jeden wypadł z kryterium) z opisami dla czytelnika na faktach z Brickset API i ofertami z feedu.
+
 ## 2026-10-10 18:00 · CODE · Archiwizacja dziennika nie wywozi już otwartych zadań
 
 `scripts/archiwum-dziennika.mjs` zatrzymuje w dzienniku (niezależnie od wieku) wpis
@@ -371,6 +381,8 @@ który bije naszą najtańszą ofertę na dwóch zestawach z listy wycofań.
 Czego NIE przepisałem: ich twierdzenia o statusie EOL tych dwóch zestawów. Sami
 piszą, że LEGO nie wymienia ich w dziale „ostatnie sztuki", a wniosek wyciągają
 z własnych źródeł — u nas oba i tak są już w `wycofania.json`, więc nic nie zmieniam.
+
+→ zamknięte 14.10.2026: decyzja Marka — Proshop ponaglimy, gdy wzrośnie ruch; do tego czasu bez zmian (rejestr: „wysłane”).
 
 ## 2026-10-09 09:05 · CODE · Skutek CRO po 14 dniach (kliki-raport, Routine z 25.09)
 
@@ -482,6 +494,8 @@ Kontekst cenowy do tej pozycji: 03.10 Ceneo ma 619,99 zł, czyli **pierwszą ofe
 poniżej katalogu** 689,99. Jeszcze 29.09 wszystkie oferty zewnętrzne były wyższe
 od cennika i na tej podstawie zapisaliśmy, że to odsprzedaż — Allegro 748,99 nadal
 nią jest, ale dystrybucja już weszła.
+
+→ zamknięte 14.10.2026: decyzja Marka — kupno 72306 odkładamy, recenzji nie będzie.
 
 ## 2026-10-03 09:30 · CODE · Nowy prompt Łowcy zweryfikowany na pierwszym przebiegu
 
@@ -796,6 +810,8 @@ duże przyciski, deale pod blogiem, wejścia Nowości/Wycofania/Artykuły. Popra
 **Mamy?** — częściowo: `/wycofania/` pokazuje status terminu, cenę i znacznik EOL, ale nie pokazuje, ilu sklepów zestaw jeszcze ma.
 **Zrobić:** — dopisać do listy na `/wycofania/` liczbę sklepów z żywą ofertą (dane są już w `oferty_feed.json`, strona je wczytuje). To nasz odpowiednik ich „dystrybucji", tylko żywy — i to właśnie tę zmienną nasz tekst z 16.09 wskazał jako najlepszy predyktor ceny względem cennika.
 **Kto:** — Code (dane, strona)
+
+→ zamknięte 14.10.2026: /wycofania/ pokazuje pod ceną „w N sklepach” (liczba sklepów ze świeżą ofertą, bez Ceneo; link do tabeli cen huba).
 
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 

@@ -11,8 +11,8 @@ import { propozycjeDnia } from '../lib/losowanie.js';
 import { maHub } from '../lib/huby.js';
 import { hubIndeksowalny } from '../lib/seo.js';
 import { miesiac, PROG_SETOW } from '../lib/miesiace.js';
-import { statusNowosci } from '../lib/premiery.js';
-import { odmien, najlepszaOferta, linkAfiliacyjny } from '../lib/oferty.js';
+import { statusNowosci, przedsprzedaz } from '../lib/premiery.js';
+import { odmien, najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu } from '../lib/oferty.js';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
 const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
@@ -25,6 +25,9 @@ const feed = ofertyFeed?.sety ?? {};
 //   Nowości    – premiera w bieżącym miesiącu lub wcześniej (ostatnie 3 miesiące),
 //                jest oferta w sklepie, cena katalogowa i zdjęcie; bez kompletu
 //                danych zestaw zostaje tylko na swojej karcie /zestaw/<nr>/.
+//                Od 14.10.2026 także zestawy w przedsprzedaży na LEGO.com (etykieta
+//                z listingu lego.pl, src/lib/premiery.js → przedsprzedaz): da się je
+//                już zamówić, więc to sprzedaż, nie zapowiedź — z plakietką.
 //   Zapowiedzi – premiera w przyszłym miesiącu lub później: potwierdzone przez
 //                LEGO i przecieki z rynku, każde z własną plakietką (pełna lista
 //                przecieków ze źródłami: /przecieki/).
@@ -34,21 +37,26 @@ const etykietaMiesiaca = (p) => {
   const m = /^\d{4}-\d{2}$/.test(p) ? miesiac(p) : null;
   return m ? `${m.mianownik} ${m.rok}` : String(p);
 };
+// cena katalogowa przez cenaKatalogowaSetu (rejestr potwierdzonych → sety → baza → katalog),
+// tak jak na hubie — 67006 miał ją tylko w rejestrze z listingu lego.pl i wypadał z obu widoków
 const wszystkie = Object.entries(sety).map(([nr, s]) => ({
   nr,
   ...s,
+  cena_katalogowa: cenaKatalogowaSetu(nr, { sety }),
   foto: urlZdjecia(nr, { sety, feed }),
   przeciek: statusNowosci(nr) === 'przeciek',
+  przedsprzedaz: przedsprzedaz(nr),
   wOfercie: (s.oferty?.length ?? 0) > 0 || Object.keys(feed[nr]?.oferty ?? {}).length > 0,
 }));
 const nowe = wszystkie
-  .filter((s) => s.premiera >= odKiedy && s.premiera <= biezacy)
-  .filter((s) => s.wOfercie && s.cena_katalogowa && s.foto && !s.przeciek)
+  .filter((s) =>
+    (s.premiera >= odKiedy && s.premiera <= biezacy && s.wOfercie && s.cena_katalogowa && s.foto && !s.przeciek)
+    || (s.przedsprzedaz && String(s.premiera ?? '') >= odKiedy && s.cena_katalogowa && !s.przeciek))
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
 // sam rocznik („2027") ląduje za konkretnymi miesiącami tego roku
 const kluczPremiery = (p) => (/^\d{4}$/.test(p) ? `${p}-99` : p);
 const zapowiedzi = wszystkie
-  .filter((s) => String(s.premiera ?? '') > biezacy || (s.przeciek && String(s.premiera ?? '') >= odKiedy))
+  .filter((s) => !s.przedsprzedaz && (String(s.premiera ?? '') > biezacy || (s.przeciek && String(s.premiera ?? '') >= odKiedy)))
   .map((s) => ({ ...s, k: kluczPremiery(String(s.premiera ?? '')) }))
   .sort((a, b) => (a.k < b.k ? -1 : a.k > b.k ? 1 : (b.cena_katalogowa ?? 0) - (a.cena_katalogowa ?? 0)));
 const przecieki = zapowiedzi.filter((s) => s.przeciek).length;
@@ -64,7 +72,9 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
 const ymNum = (p) => Number(String(p).replace('-', '')) || null;
 // W kolumnie statusu krótko: „Premiera" dla bieżącego miesiąca, starsze zwykłe
 // „w sprzedaży" – miesiąc premiery stoi w wierszu pod nazwą zestawu.
-const znaczekPremiery = (p) => (p === biezacy ? { klasa: 'badge-premiera', tekst: 'Premiera' } : undefined);
+const znaczekPremiery = (s) =>
+  s.przedsprzedaz ? { klasa: 'badge-przedsprzedaz', tekst: 'Przedsprzedaż' }
+  : s.premiera === biezacy ? { klasa: 'badge-premiera', tekst: 'Premiera' } : undefined;
 const wierszeNowosci = nowe.map((s) => {
   const oferta = najlepszaOferta(s.nr, { sety, feed }) ?? { sklep: 'lego', cena: s.cena_katalogowa, data: null };
   return {
@@ -78,7 +88,7 @@ const wierszeNowosci = nowe.map((s) => {
     zdjecie: s.foto,
     hub: maHub(s.nr),
     status: 'sprzedaz',
-    znaczek: znaczekPremiery(s.premiera),
+    znaczek: znaczekPremiery(s),
     oferta,
     link: linkAfiliacyjny(oferta.sklep, s.nr),
     cenaKatalogowa: s.cena_katalogowa,
@@ -137,7 +147,7 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Nowości i zapowiedzi 
   </div>
 
   <section class="widok" id="widok-nowosci" aria-label="Nowości LEGO w sprzedaży">
-    <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców. W tabeli najnowsze na górze, z najniższą ceną, jaką dziś widzimy.</p>
+    <p class="widok__wstep">Premiery z ostatnich trzech miesięcy, które już kupisz – w sklepie LEGO albo u innych sprzedawców – oraz zestawy, które LEGO.com sprzedaje w przedsprzedaży przed premierą. W tabeli najnowsze na górze, z najniższą ceną, jaką dziś widzimy.</p>
     <KaruzelaPropozycji pozycje={karuzela} tytul={pulaKaruzeli.length >= 3 ? `Premiery – ${mBiezacy.mianownik}` : 'Nasze propozycje'} etykieta="Wybrane premiery" />
     <FiltrSetow
       serie={serie}

@@ -46,10 +46,30 @@ export function premieraSetu(nr) {
   return typeof rok === 'number' && rok > dzis.getFullYear() ? `${rok}-01` : null;
 }
 
-/** Czy zestaw jest zapowiedzią – premiera w przyszłym miesiącu lub później. */
+/**
+ * Czy LEGO.com już przyjmuje zamówienia na zestaw (od 14.10.2026, prośba Marka:
+ * „jeśli jest na LEGO i można dodać do koszyka, to powinno być w nowościach,
+ * a nie w zapowiedziach”). Rozstrzyga etykieta z listingu lego.pl, którą
+ * scripts/lego-ceny.mjs zapisuje w katalogu: „Przedsprzedaż” albo „Zamówienie
+ * oczekujące” — i to z ostatnich 14 dni, żeby stara etykieta nie trzymała
+ * zestawu w Nowościach po zmianie stanu. „Wkrótce dostępne” to nadal zapowiedź.
+ */
+const PROG_SWIEZOSCI_MS = 14 * 864e5;
+export function przedsprzedaz(nr) {
+  const k = katalogIdx.get(String(nr));
+  if (!k || !['przedsprzedaz', 'zamowienie_oczekujace'].includes(k.lego_pl_etykieta)) return false;
+  const widziano = Date.parse(k.lego_pl_widziano ?? '');
+  return !Number.isNaN(widziano) && dzis - widziano <= PROG_SWIEZOSCI_MS;
+}
+
+/**
+ * Czy zestaw jest zapowiedzią – premiera w przyszłym miesiącu lub później,
+ * a LEGO.com jeszcze go nie sprzedaje (przedsprzedaż to już sprzedaż: hub
+ * pokazuje tabelę cen z LEGO.com, a /nowosci/ wiersz z plakietką).
+ */
 export function zapowiedz(nr) {
   const premiera = premieraSetu(nr);
-  return Boolean(premiera && premiera > BIEZACY_MIESIAC);
+  return Boolean(premiera && premiera > BIEZACY_MIESIAC) && !przedsprzedaz(nr);
 }
 
 /**
