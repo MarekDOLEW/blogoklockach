@@ -45402,14 +45402,13 @@
  "40909": {
   "nazwa": "Restauracje świata: Włochy",
   "seria": "Ekskluzywne i promocyjne",
-  "cena_katalogowa": null,
+  "cena_katalogowa": 81.99,
   "elementy": 317,
   "wiek": "12+",
   "premiera": "2026-10",
   "opis": "Pizzeria z 317 elementów z jedną minifigurką – kolejna odsłona serii małych budowanych restauracji z różnych krajów, po francuskiej kawiarni (10362) z marca 2025. Model utrzymany w śródziemnomorskich, ziemistych odcieniach, z szyldem „Pizzeria” i dużym budowanym kawałkiem pizzy na dachu; właściciel lokalu ma nowy nadruk tułowia z kawałkami pizzy. To gratis do zakupów w sklepie LEGO w akcji trwającej od 13 do 19 października 2026.",
   "dla_rodzica": "Tego zestawu się nie kupuje — trafia do koszyka jako gratis przy zakupach w sklepie LEGO, w dniach od 13 do 19 października 2026. Próg dla polskiego sklepu jest już potwierdzony w regulaminie na LEGO.pl: 745 zł, jeden zestaw na gospodarstwo domowe, do wyczerpania zapasów; zestawy z programu BrickLink Designer nie liczą się do tej kwoty. Producent wycenia upominek na 81,99 zł, więc dokładanie do koszyka samego progu zwykle się nie opłaca — opłaca się, jeśli i tak kupujesz za tyle. Oznaczenie 12+ i 317 elementów to krótkie budowanie i drobny model na półkę.",
-  "dla_afol": "Gratis nie ma ceny katalogowej, więc nie wejdzie do tabeli cen ani do przeliczeń za element — LEGO wycenia go na 81,99 zł w polskim regulaminie (19,99 euro w strefie euro), ale to wartość deklarowana dodatku. Dla zbieraczy liczy się ciągłość serii: to kolejny kraj po francuskiej kawiarni, więc całość zaczyna wyglądać na kolekcję do kompletowania, a gratisy z takich serii po zakończeniu akcji bywają trudno dostępne. Próg 745 zł obowiązuje od 13 do 19 października i idzie w parze z podwójnymi punktami Insiders, które nie łączą się z inną ofertą Insiders ani z kuponem.",
-  "oferty": [],
-  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — gratis w oknie 13–19.10.2026, nigdy nie miał polskiej ceny katalogowej"
+  "dla_afol": "Cena katalogowa 81,99 zł to wartość, jaką LEGO przypisuje dodatkowi (19,99 euro), a nie kwota, za którą zestaw da się kupić — przeliczenia za element trzeba czytać z tym zastrzeżeniem. Dla zbieraczy liczy się ciągłość serii: to kolejny kraj po francuskiej kawiarni, więc całość zaczyna wyglądać na kolekcję do kompletowania, a gratisy z takich serii po zakończeniu akcji bywają trudno dostępne. Próg 745 zł obowiązuje od 13 do 19 października i idzie w parze z podwójnymi punktami Insiders, które nie łączą się z inną ofertą Insiders ani z kuponem.",
+  "oferty": []
  }
 }
