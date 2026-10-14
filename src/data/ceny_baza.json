@@ -198,8 +198,8 @@
  "72154": {
   "nazwa": "Kultowy Pokéball z Trenerami",
   "cena_katalogowa": 1129.99,
-  "najnizsza_cena": 840.73,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 829.99,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "42238": {
@@ -415,8 +415,8 @@
  "75458": {
   "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 269.89,
-  "najnizsza_data": "2026-10-09",
+  "najnizsza_cena": 261.52,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "43030": {
@@ -674,8 +674,8 @@
  "77119": {
   "nazwa": "Tails i Tornado-1",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 89.13,
-  "najnizsza_data": "2026-10-07",
+  "najnizsza_cena": 88.99,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "31393": {
@@ -1003,8 +1003,8 @@
  "71868": {
   "nazwa": "Transformujący smoczy mech Wyldfyre",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 264.95,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 264.94,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "11217": {
@@ -1101,8 +1101,8 @@
  "42682": {
   "nazwa": "Domek na luksusowym kempingu",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 69.73,
-  "najnizsza_data": "2026-10-09",
+  "najnizsza_cena": 69.63,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "10472": {
@@ -1185,8 +1185,8 @@
  "42703": {
   "nazwa": "Syrenkowa kolejka górska",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 297.97,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 293.03,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "76352": {
@@ -1388,8 +1388,8 @@
  "71053": {
   "nazwa": "Seria Shrek",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 12.75,
-  "najnizsza_data": "2026-10-06",
+  "najnizsza_cena": 12.5,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "40975": {
@@ -1458,8 +1458,8 @@
  "72157": {
   "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 58.98,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 58.88,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "40958": {
@@ -1486,9 +1486,9 @@
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 390,
-  "najnizsza_data": "2026-10-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 379.19,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "72158": {
   "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa",
@@ -1521,8 +1521,8 @@
  "72156": {
   "nazwa": "SMART Play: zestaw startowy",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 89.69,
-  "najnizsza_data": "2026-10-12",
+  "najnizsza_cena": 89.59,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "75426": {
@@ -1584,8 +1584,8 @@
  "42151": {
   "nazwa": "Bolid Bugatti",
   "cena_katalogowa": 214.99,
-  "najnizsza_cena": 152.99,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 152.98,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "42161": {
@@ -1864,8 +1864,8 @@
  "77984": {
   "nazwa": "Jurassic Park Jeep Wrangler",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 749.87,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 749.86,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "75442": {
@@ -2739,8 +2739,8 @@
  "10295": {
   "nazwa": "Porsche 911",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 499.99,
-  "najnizsza_data": "2026-09-20",
+  "najnizsza_cena": 497.99,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "43269": {
@@ -3894,9 +3894,9 @@
  "42642": {
   "nazwa": "Maraton filmowy przyjaciółek",
   "cena_katalogowa": 64.99,
-  "najnizsza_cena": 48.85,
-  "najnizsza_data": "2026-09-29",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 46.82,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21267": {
   "nazwa": "Pustynny patrol złosadników",
@@ -4545,8 +4545,8 @@
  "75422": {
   "nazwa": "SMART Play: Chatka Yody i szkolenie Jedi",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 193.9,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 189,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "10426": {
@@ -5063,8 +5063,8 @@
  "75444": {
   "nazwa": "Atak AT-RT",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 116.99,
-  "najnizsza_data": "2026-10-11",
+  "najnizsza_cena": 115,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "42662": {
@@ -5112,9 +5112,9 @@
  "21064": {
   "nazwa": "Paryż – miasto miłości",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 237.6,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 232.98,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "allegro"
  },
  "43291": {
   "nazwa": "Mała Bella i Tiana z zamkiem",
@@ -5483,8 +5483,8 @@
  "10456": {
   "nazwa": "Disney Wizyta McQueena w warsztacie Wójta",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 85.39,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 85.29,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "71440": {
@@ -5791,8 +5791,8 @@
  "43265": {
   "nazwa": "Kraina lodu - Zamek w Arendelle",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 82.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 82.89,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "41717": {
@@ -5938,9 +5938,9 @@
  "60490": {
   "nazwa": "Pług śnieżny",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 66.99,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 66.98,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "allegro"
  },
  "77243": {
   "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
@@ -6092,8 +6092,8 @@
  "11198": {
   "nazwa": "Spider-Man Pościg Spina za Electro w dinopojeździe",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.88,
-  "najnizsza_data": "2026-10-06",
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "60504": {
@@ -6190,8 +6190,8 @@
  "11040": {
   "nazwa": "Magiczny zestaw z przezroczystymi klockami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.35,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 55.25,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "71823": {
@@ -6428,8 +6428,8 @@
  "76445": {
   "nazwa": "Zamek Hogwart: zajęcia z zielarstwa",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 146.9,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 145.48,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "31129": {
@@ -6680,8 +6680,8 @@
  "42178": {
   "nazwa": "Kosmiczna ładowarka LT78",
   "cena_katalogowa": 149.99,
-  "najnizsza_cena": 137.38,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 136.88,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "40460": {
@@ -6785,8 +6785,8 @@
  "75424": {
   "nazwa": "SMART Play: Atak AT-ST na Endor",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 149.88,
-  "najnizsza_data": "2026-10-08",
+  "najnizsza_cena": 149.87,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "40573": {
@@ -7205,8 +7205,8 @@
  "10342": {
   "nazwa": "Piękny bukiet różowych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 168.68,
-  "najnizsza_data": "2026-10-11",
+  "najnizsza_cena": 167,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "42650": {
@@ -7352,8 +7352,8 @@
  "43305": {
   "nazwa": "Przyjęcie urodzinowe Prosiaczka",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 163.11,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 162.54,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "allegro"
  },
  "76334": {
@@ -7772,9 +7772,9 @@
  "76924": {
   "nazwa": "Mercedes-AMG G 63 i Mercedes-AMG SL 63",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 145.99,
-  "najnizsza_data": "2026-09-25",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 145.98,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "allegro"
  },
  "21266": {
   "nazwa": "Bitwa na moście Netheru",
@@ -7849,8 +7849,8 @@
  "40809": {
   "nazwa": "Świąteczna chatka z piernika",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 120.99,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 120,
+  "najnizsza_data": "2026-10-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "71830": {
