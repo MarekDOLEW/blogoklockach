@@ -11,3 +11,7 @@ dist/
 skille/
 __pycache__/
 routines.json
+
+# Rolki wideo: projekty i MP4 generowane przez scripts/rolka-deal.mjs
+materialy/rolki/wyjscie/
+.hyperframes/

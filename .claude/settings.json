@@ -5,10 +5,31 @@
         "source": "github",
         "repo": "MarekDOLEW/MDmygeneralskills"
       }
+    },
+    "hyperframes": {
+      "source": {
+        "source": "github",
+        "repo": "heygen-com/hyperframes"
+      }
+    },
+    "tiktok-video-skills": {
+      "source": {
+        "source": "github",
+        "repo": "iart-ai/tiktok-video-skills"
+      }
+    },
+    "ecommerce-video-skills": {
+      "source": {
+        "source": "github",
+        "repo": "iart-ai/ecommerce-video-skills"
+      }
     }
   },
   "enabledPlugins": {
     "md-general-skills@md-general-skills": true,
-    "gsap-skills@md-general-skills": true
+    "gsap-skills@md-general-skills": true,
+    "hyperframes@hyperframes": true,
+    "tiktok-video-skills@tiktok-video-skills": true,
+    "ecommerce-video-skills@ecommerce-video-skills": true
   }
 }

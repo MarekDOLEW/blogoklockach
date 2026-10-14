@@ -309,6 +309,13 @@ gdzie Code fizycznie nie sięga. Jeśli czegoś nie ma na liście — Code.
    → **nie do tego repo**. Jest publiczne. Dwa razy w tym miesiącu wylądowały
    tu przez pomyłkę (Whirlpool, Beko).
 
+8. **Rolki wideo dealowe** (od 14.10.2026) → **Code**: „zrób rolkę na 75405"
+   (plus hook, jeśli masz lepszy niż domyślny). Code uruchamia
+   `scripts/rolka-deal.mjs`, odsyła MP4 w rozmowie; Cowork tylko publikuje.
+   Muzyka z katalogu HeyGen wymaga `HEYGEN_API_KEY` w sekretach środowiska
+   Code — bez klucza skrypt syntezuje własny podkład. Szczegóły:
+   `materialy/rolki/README.md`, format w skillu `klocki-social`.
+
 ## Punkty ręczne — co bez Ciebie stoi
 
 Żaden z nich **nie zgłasza, że zalega** — brak zrzutu wygląda tak samo jak brak

@@ -21,6 +21,7 @@ odwołania.
 | `feedy-lego-mapa-sieci.html` | Mapa feedów i sieci afiliacyjnych |
 | `ceny-katalogowe/` | Brief i lista RRP do sprawdzenia |
 | `opisy-lego/` | Opisy serii — źródło dla kart zestawów |
+| `rolki/` | Szablony rolek wideo 9:16 (HyperFrames) i opis, jak powstają — `rolki/README.md`; wyjścia w `rolki/wyjscie/` są poza gitem |
 
 ## Datowane — zapis stanu z konkretnego dnia, nie reguła
 

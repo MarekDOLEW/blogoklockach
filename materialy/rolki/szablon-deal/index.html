@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <title>tylkoklocki.pl — rolka „Deal alert"</title>
+    <!--
+      Szablon rolki dealowej 9:16 dla HyperFrames (HTML + GSAP -> MP4).
+      Dane wstrzykuje `deal.js` (window.DEAL) pisany przez scripts/rolka-deal.mjs.
+      Nie edytuj kopii w materialy/rolki/wyjscie/ — zmieniaj szablon.
+      Kontrakt kompozycji: skill hyperframes-core (jedna spauzowana oś czasu,
+      klipy przez data-start/data-duration, brak zegara i losowości).
+    -->
+    <script src="vendor/gsap.min.js"></script>
+    <script src="deal.js"></script>
+    <style>
+      @font-face {
+        font-family: "Archivo";
+        src: url("assets/Archivo-Variable.ttf") format("truetype");
+        font-weight: 100 900;
+        font-stretch: 62% 125%;
+        font-display: block;
+      }
+      :root {
+        --granat: #17233f;
+        --granat-2: #0f1830;
+        --zolty: #ffc933;
+        --czerwien: #e0312f;
+        --zielen: #0f7a43;
+        --papier: #f6f7f9;
+        --linia: #dde1e8;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px; height: 1920px; overflow: hidden;
+        background: var(--granat);
+        font-family: "Archivo", sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; }
+      .clip { position: absolute; inset: 0; overflow: hidden; }
+
+      /* ---------- tła ---------- */
+      .bg-navy { background: radial-gradient(120% 70% at 50% 0%, #243457 0%, var(--granat) 55%, var(--granat-2) 100%); }
+      .bg-paper {
+        background-color: var(--papier);
+        background-image: radial-gradient(circle at 50% 50%, rgba(23, 35, 63, 0.07) 0 9px, transparent 10px);
+        background-size: 72px 72px; background-position: 36px 36px;
+      }
+      .glow {
+        position: absolute; width: 1400px; height: 1400px; border-radius: 50%;
+        left: -160px; top: 300px;
+        background: radial-gradient(circle, rgba(255, 201, 51, 0.22) 0%, rgba(255, 201, 51, 0) 60%);
+      }
+
+      /* ---------- scena A: hook ---------- */
+      .stage { position: absolute; left: 90px; right: 120px; top: 160px; bottom: 320px; display: flex; flex-direction: column; }
+      .hook { font-weight: 900; font-size: 120px; line-height: 0.95; letter-spacing: -0.035em; color: var(--granat); }
+      .hook .akcent { color: var(--czerwien); }
+      .hook-line { display: block; }
+      .kicker {
+        display: inline-flex; align-items: center; gap: 14px; margin-bottom: 28px; padding: 14px 26px; border-radius: 999px;
+        background: var(--granat); color: #fff; font-weight: 700; font-size: 34px; letter-spacing: 0.02em; width: max-content;
+      }
+      .kicker i { width: 16px; height: 16px; border-radius: 50%; background: var(--zolty); display: block; }
+      .hero-wrap { position: relative; flex: 1; display: grid; place-items: center; margin-top: 10px; }
+      .hero-img { display: block; width: 860px; height: auto; filter: drop-shadow(0 34px 44px rgba(23, 35, 63, 0.28)); }
+      .hero-img.na-bialym { mix-blend-mode: multiply; }
+      .set-chip {
+        position: absolute; left: 0; bottom: 0; background: #fff; border: 2px solid var(--linia); border-radius: 22px;
+        padding: 20px 28px; box-shadow: 0 16px 40px rgba(23, 35, 63, 0.12);
+      }
+      .set-chip .seria { font-size: 28px; font-weight: 700; color: #5b6478; letter-spacing: 0.08em; text-transform: uppercase; }
+      .set-chip .nazwa { font-size: 40px; font-weight: 800; color: var(--granat); margin-top: 4px; }
+      .set-chip .meta { font-size: 28px; font-weight: 600; color: #5b6478; margin-top: 6px; font-variant-numeric: tabular-nums; }
+
+      /* ---------- scena B: cena ---------- */
+      .price-stage {
+        position: absolute; left: 90px; right: 120px; top: 160px; bottom: 320px;
+        display: flex; flex-direction: column; align-items: flex-start; justify-content: center;
+      }
+      .card-img { position: absolute; right: -20px; top: 0; width: 480px; height: 360px; transform-origin: 50% 50%; }
+      .card-pic { display: block; width: 100%; height: 100%; background: url("assets/zestaw.png") center/contain no-repeat; filter: drop-shadow(0 30px 40px rgba(0, 0, 0, 0.45)); }
+      .card-pic.na-bialym { border-radius: 24px; background-color: #fff; background-size: cover; }
+      .label { font-size: 34px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255, 255, 255, 0.6); }
+      .was-wrap { position: relative; display: inline-block; margin-top: 10px; }
+      .was { font-size: 110px; font-weight: 700; color: rgba(255, 255, 255, 0.55); font-variant-numeric: tabular-nums; line-height: 1; letter-spacing: -0.02em; }
+      .strike { position: absolute; left: -2%; top: 52%; height: 12px; width: 104%; background: var(--czerwien); border-radius: 6px; transform-origin: 0 50%; }
+      .now-wrap { position: relative; margin-top: 30px; }
+      .now {
+        display: inline-block; font-size: 210px; font-weight: 900; color: #fff; line-height: 1; letter-spacing: -0.05em;
+        font-variant-numeric: tabular-nums; transform-origin: 0 50%; width: 870px;
+      }
+      .now small { font-size: 0.45em; font-weight: 800; margin-left: 10px; color: var(--zolty); letter-spacing: -0.02em; }
+      .badge {
+        position: absolute; right: 0; top: 230px; background: var(--czerwien); color: #fff; font-weight: 900; font-size: 92px; line-height: 1;
+        padding: 26px 34px 30px; border-radius: 28px; letter-spacing: -0.03em; box-shadow: 0 20px 50px rgba(224, 49, 47, 0.45); transform-origin: 50% 50%;
+      }
+      .chip-min {
+        display: inline-flex; align-items: center; gap: 16px; margin-top: 54px; background: var(--zolty); color: var(--granat);
+        font-weight: 800; font-size: 40px; padding: 20px 30px; border-radius: 18px; transform-origin: 0 50%;
+      }
+      .chip-min i { width: 18px; height: 18px; border-radius: 50%; background: var(--granat); display: block; }
+      .sub { margin-top: 20px; font-size: 32px; font-weight: 600; color: rgba(255, 255, 255, 0.6); }
+      .particle-field { position: absolute; left: 430px; top: 0; width: 0; height: 0; z-index: 3; pointer-events: none; }
+      .particle { position: absolute; left: 0; top: 0; width: 22px; height: 14px; border-radius: 4px; opacity: 0; }
+
+      /* ---------- scena C: sklepy ---------- */
+      .shops-stage { position: absolute; left: 90px; right: 120px; top: 160px; bottom: 320px; display: flex; flex-direction: column; }
+      .shops-title { font-weight: 900; font-size: 104px; line-height: 0.95; letter-spacing: -0.035em; color: var(--granat); }
+      .shops-title .akcent { color: var(--czerwien); }
+      .shops-date { margin-top: 18px; font-size: 32px; font-weight: 600; color: #5b6478; }
+      .shops { margin-top: 56px; display: flex; flex-direction: column; gap: 22px; }
+      .shop { position: relative; height: 128px; border-radius: 24px; overflow: hidden; background: #fff; border: 2px solid var(--linia); }
+      .shop .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 100%; background: #e9ecf2; transform-origin: 0 50%; }
+      .shop.best .bar { background: var(--zolty); }
+      .shop .row { position: absolute; inset: 0; display: flex; align-items: center; justify-content: space-between; padding: 0 34px; }
+      .shop .nazwa { font-size: 42px; font-weight: 800; color: var(--granat); display: flex; align-items: center; gap: 18px; }
+      .shop .nazwa .tick { width: 44px; height: 44px; border-radius: 50%; background: var(--granat); color: var(--zolty); font-size: 30px; display: none; place-items: center; }
+      .shop.best .nazwa .tick { display: grid; }
+      .shop .cena { font-size: 48px; font-weight: 900; color: var(--granat); font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+      .shop.best .cena { color: var(--czerwien); }
+      .shops-foot { margin-top: 40px; font-size: 30px; font-weight: 600; color: #5b6478; }
+
+      /* ---------- scena D: CTA ---------- */
+      .cta-stage { position: absolute; left: 90px; right: 120px; top: 160px; bottom: 320px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+      .logo { display: block; width: 760px; height: auto; transform-origin: 50% 50%; }
+      .cta { margin-top: 70px; font-weight: 900; font-size: 92px; line-height: 1; letter-spacing: -0.035em; color: #fff; }
+      .cta .akcent { color: var(--zolty); }
+      .cta-line { display: block; white-space: nowrap; }
+      .cta-sub { margin-top: 28px; font-size: 40px; font-weight: 700; color: rgba(255, 255, 255, 0.75); }
+      .arrow { margin-top: 60px; width: 120px; height: 120px; border-radius: 50%; background: var(--zolty); display: grid; place-items: center; color: var(--granat); font-size: 64px; font-weight: 900; transform-origin: 50% 50%; }
+      .disclosure { position: absolute; left: 90px; right: 120px; bottom: 340px; text-align: center; font-size: 28px; font-weight: 600; color: rgba(255, 255, 255, 0.5); letter-spacing: 0.04em; }
+
+      /* ---------- przejścia ---------- */
+      .wipe { position: absolute; inset: 0; z-index: 10; background: var(--zolty); transform-origin: 50% 50%; }
+      .wipe-inner { position: absolute; inset: 0; display: grid; place-items: center; }
+      .wipe-word { font-weight: 900; font-size: 128px; letter-spacing: -0.04em; color: var(--granat); white-space: nowrap; }
+
+      /* ---------- stałe elementy ---------- */
+      .brand-tag { position: absolute; left: 90px; top: 1660px; z-index: 5; display: inline-flex; align-items: center; gap: 14px; font-size: 30px; font-weight: 800; letter-spacing: 0.04em; }
+      .brand-tag .dot { width: 18px; height: 18px; border-radius: 4px; background: var(--zolty); display: block; }
+      .brand-navy { color: #fff; }
+      .brand-paper { color: var(--granat); }
+      .progress { position: absolute; left: 0; top: 0; height: 12px; width: 100%; inset: auto; right: auto; bottom: auto; background: var(--zolty); transform-origin: 0 50%; z-index: 20; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="12" data-width="1080" data-height="1920">
+
+      <!-- dźwięk: podkład + efekty (czasy spięte z osią GSAP poniżej) -->
+      <audio id="bed" src="audio/bed.wav" data-start="0" data-duration="12" data-track-index="12" data-volume="0.55"></audio>
+      <audio id="sfx-whoosh-1" src="audio/whoosh-short.mp3" data-start="3.3" data-duration="0.57" data-track-index="13" data-volume="0.8"></audio>
+      <audio id="sfx-whoosh-2" src="audio/whoosh-short.mp3" data-start="7.3" data-duration="0.57" data-track-index="13" data-volume="0.8"></audio>
+      <audio id="sfx-whoosh-3" src="audio/whoosh-short.mp3" data-start="10.3" data-duration="0.57" data-track-index="13" data-volume="0.8"></audio>
+      <audio id="sfx-riser" src="audio/riser.mp3" data-start="4.6" data-duration="1.5" data-media-start="8.5" data-track-index="14" data-volume="0.5"></audio>
+      <audio id="sfx-pop" src="audio/pop.mp3" data-start="6.05" data-duration="0.72" data-track-index="14" data-volume="0.9"></audio>
+      <audio id="sfx-sparkle" src="audio/sparkle.mp3" data-start="6.08" data-duration="1.8" data-track-index="15" data-volume="0.6"></audio>
+      <audio id="sfx-impact" src="audio/impact-bass-1.mp3" data-start="6.15" data-duration="2.1" data-track-index="15" data-volume="0.9"></audio>
+      <audio id="sfx-pop-2" src="audio/pop.mp3" data-start="11.3" data-duration="0.72" data-track-index="14" data-volume="0.7"></audio>
+
+      <!-- pasek postępu -->
+      <div id="progress" class="clip progress" data-start="0" data-duration="12" data-track-index="9"></div>
+
+      <!-- ===== A: hook (jasna) ===== -->
+      <section id="scene-a" class="clip bg-paper" data-start="0" data-duration="3.7" data-track-index="0">
+        <div class="stage">
+          <div class="kicker" id="a-kicker"><i></i><span id="a-kicker-txt"></span></div>
+          <div class="hook">
+            <span class="hook-line" id="a-l1"></span>
+            <span class="hook-line akcent" id="a-l2"></span>
+          </div>
+          <div class="hero-wrap">
+            <img id="a-img" class="hero-img" src="assets/zestaw.png" alt="" />
+            <div class="set-chip" id="a-chip">
+              <div class="seria" id="a-seria"></div>
+              <div class="nazwa" id="a-nazwa"></div>
+              <div class="meta" id="a-meta"></div>
+            </div>
+          </div>
+        </div>
+        <div class="brand-tag brand-paper"><span class="dot"></span>tylkoklocki.pl</div>
+      </section>
+
+      <div id="wipe-1" class="clip wipe" data-start="3.3" data-duration="0.8" data-track-index="8">
+        <div class="wipe-inner"><div class="wipe-word" id="w1-word">za ile?</div></div>
+      </div>
+
+      <!-- ===== B: cena (granat) ===== -->
+      <section id="scene-b" class="clip bg-navy" data-start="3.7" data-duration="4.0" data-track-index="1">
+        <div class="glow" data-layout-allow-overflow></div>
+        <div class="price-stage">
+          <div class="card-img" id="b-card"><div class="card-pic" id="b-pic"></div></div>
+          <div class="label" id="b-label">Cena katalogowa</div>
+          <div class="was-wrap">
+            <div class="was" id="b-was"></div>
+            <div class="strike" id="b-strike"></div>
+          </div>
+          <div class="now-wrap">
+            <div class="now" id="b-now"><span id="b-now-num"></span><small>zł</small></div>
+          </div>
+          <div class="badge" id="b-badge"></div>
+          <div class="chip-min" id="b-chip"><i></i><span id="b-chip-txt"></span></div>
+          <div class="sub" id="b-sub"></div>
+          <div class="particle-field" id="b-particles"></div>
+        </div>
+        <div class="brand-tag brand-navy"><span class="dot"></span>tylkoklocki.pl</div>
+      </section>
+
+      <div id="wipe-2" class="clip wipe" data-start="7.3" data-duration="0.8" data-track-index="8">
+        <div class="wipe-inner"><div class="wipe-word" id="w2-word">gdzie?</div></div>
+      </div>
+
+      <!-- ===== C: sklepy (jasna) ===== -->
+      <section id="scene-c" class="clip bg-paper" data-start="7.7" data-duration="3.0" data-track-index="2">
+        <div class="shops-stage">
+          <div class="shops-title"><span id="c-t1">Gdzie dziś</span> <span class="akcent" id="c-t2">najtaniej?</span></div>
+          <div class="shops-date" id="c-date"></div>
+          <div class="shops" id="c-shops"></div>
+          <div class="shops-foot" id="c-foot">pełna tabela wszystkich sklepów → na stronie</div>
+        </div>
+        <div class="brand-tag brand-paper"><span class="dot"></span>tylkoklocki.pl</div>
+      </section>
+
+      <div id="wipe-3" class="clip wipe" data-start="10.3" data-duration="0.8" data-track-index="8">
+        <div class="wipe-inner"><div class="wipe-word" id="w3-word">link w bio</div></div>
+      </div>
+
+      <!-- ===== D: CTA (granat) ===== -->
+      <section id="scene-d" class="clip bg-navy" data-start="10.7" data-duration="1.3" data-track-index="3">
+        <div class="glow" data-layout-allow-overflow></div>
+        <div class="cta-stage">
+          <img id="d-logo" class="logo" src="assets/logo-biale.svg" alt="" />
+          <div class="cta" id="d-cta"><span class="cta-line">Linki do sklepów</span><span class="cta-line akcent">w bio</span></div>
+          <div class="cta-sub" id="d-sub">tabela cen aktualizuje się codziennie</div>
+          <div class="arrow" id="d-arrow">↑</div>
+        </div>
+        <div class="disclosure" id="d-disc">#materiałpartnerski · linki afiliacyjne</div>
+      </section>
+    </div>
+
+    <script>
+      // ---------- DANE: window.DEAL z deal.js (pisze scripts/rolka-deal.mjs) ----------
+      const DEAL = window.DEAL;
+      if (!DEAL) throw new Error("brak deal.js — uruchom scripts/rolka-deal.mjs");
+      const PLN = new Intl.NumberFormat("pl-PL", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      const fmt = (v) => PLN.format(v) + " zł";
+      const pct = Math.round((1 - DEAL.cena / DEAL.katalog) * 100);
+      const oszcz = Math.round(DEAL.katalog - DEAL.cena);
+      const best = Math.min(...DEAL.oferty.map((o) => o.cena));
+      const worst = Math.max(...DEAL.oferty.map((o) => o.cena));
+
+      // ---------- wstrzyknięcie danych do DOM (żadnej liczby nie przepisujemy dwa razy) ----------
+      const $ = (id) => document.getElementById(id);
+      $("a-kicker-txt").textContent = `LEGO ${DEAL.seria} ${DEAL.nr}`;
+      $("a-l1").textContent = DEAL.hook1;
+      $("a-l2").textContent = DEAL.hook2;
+      $("a-seria").textContent = DEAL.seria;
+      $("a-nazwa").textContent = DEAL.nazwa;
+      $("a-meta").textContent = [DEAL.elementy ? `${DEAL.elementy} elementów` : null, DEAL.wiek || null].filter(Boolean).join(" · ");
+      $("b-was").textContent = fmt(DEAL.katalog);
+      $("b-badge").textContent = `−${pct}%`;
+      $("b-chip-txt").textContent = DEAL.dnoCenowe ? "najniższa cena w naszej bazie" : `taniej o ${oszcz} zł od katalogu`;
+      $("b-sub").textContent = DEAL.dnoCenowe ? `odnotowana ${DEAL.dnoData} · oszczędzasz ${oszcz} zł` : `cena katalogowa ${fmt(DEAL.katalog)}`;
+      $("c-date").textContent = `ceny z ${DEAL.stanNa} · ${DEAL.nr}`;
+      if (!DEAL.wyciete) { $("a-img").classList.add("na-bialym"); $("b-pic").classList.add("na-bialym"); }
+
+      const shopsEl = $("c-shops");
+      DEAL.oferty.forEach((o, i) => {
+        const el = document.createElement("div");
+        el.className = "shop" + (o.cena === best ? " best" : "");
+        el.id = `shop-${i}`;
+        el.innerHTML =
+          `<div class="bar" id="shop-bar-${i}"></div>` +
+          `<div class="row"><div class="nazwa"><span class="tick">✓</span><span>${o.sklep}</span></div>` +
+          `<div class="cena">${fmt(o.cena)}</div></div>`;
+        shopsEl.appendChild(el);
+      });
+
+      // ---------- cząsteczki (deterministyczne, hash z indeksu) ----------
+      const PCOUNT = 46;
+      const prand = (n) => { const x = Math.sin(n * 127.1 + 311.7) * 43758.5453; return x - Math.floor(x); };
+      const palette = ["#ffc933", "#ffffff", "#e0312f", "#ffe08a"];
+      const field = $("b-particles");
+      const parts = [];
+      for (let i = 0; i < PCOUNT; i++) {
+        const p = document.createElement("div");
+        p.className = "particle";
+        p.style.background = palette[i % palette.length];
+        field.appendChild(p);
+        const ang = -Math.PI / 2 + (prand(i * 3 + 1) - 0.5) * Math.PI * 1.1;
+        const spd = 900 + prand(i * 7 + 2) * 900;
+        parts.push({ el: p, vx: Math.cos(ang) * spd, vy: Math.sin(ang) * spd, spin: (prand(i * 11 + 3) - 0.5) * 1400, s: 0.7 + prand(i * 13 + 4) * 0.9 });
+      }
+      const G = 2600, FLIGHT = 1.3;
+
+      // ---------- OŚ CZASU (jedna, spauzowana) ----------
+      const PULSE = 0.4;
+      const build = () => {
+        const tl = gsap.timeline({ paused: true });
+        tl.fromTo("#progress", { scaleX: 0 }, { scaleX: 1, duration: 12, ease: "none" }, 0);
+
+        // ===== A: hook widoczny od klatki 0, zdjęcie z punch-inem =====
+        tl.fromTo("#a-img", { scale: 1.18, opacity: 1 }, { scale: 1, duration: 1.0, ease: "expo.out" }, 0);
+        tl.fromTo("#a-img", { y: 0 }, { y: -26, duration: 3.6, ease: "sine.inOut" }, 0);
+        tl.fromTo("#a-l1", { scale: 1.35, opacity: 1, filter: "blur(10px)" }, { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.45, ease: "power4.out" }, 0);
+        tl.fromTo("#a-l2", { x: -320, opacity: 0 }, { x: 0, opacity: 1, duration: 0.45, ease: "expo.out" }, PULSE * 0.8);
+        tl.fromTo("#a-kicker", { y: -40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: "power3.out" }, PULSE * 2);
+        tl.fromTo("#a-chip", { scale: 0, opacity: 0, y: 40 }, { scale: 1, opacity: 1, y: 0, duration: 0.55, ease: "power3.out" }, PULSE * 2.6);
+        tl.to("#a-img", { scale: 1.08, duration: 0.25, ease: "power2.inOut" }, 2.6);
+
+        // ===== przejście 1 =====
+        tl.fromTo("#wipe-1", { yPercent: 100 }, { yPercent: 0, duration: 0.3, ease: "expo.out" }, 3.3);
+        tl.fromTo("#w1-word", { scale: 0.6, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.25, ease: "power3.out" }, 3.5);
+        tl.to("#wipe-1", { yPercent: -100, duration: 0.35, ease: "expo.in" }, 3.75);
+
+        // ===== B: kreska najpierw, potem spadek ceny (zasada promo-video) =====
+        const B = 3.7;
+        tl.fromTo("#b-card", { scale: 0, rotate: 18, opacity: 0 }, { scale: 1, rotate: -6, opacity: 1, duration: 0.6, ease: "power3.out" }, B + 0.05);
+        tl.fromTo("#b-label", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.35, ease: "power3.out" }, B + 0.1);
+        tl.fromTo("#b-was", { scale: 1.5, opacity: 0, filter: "blur(14px)" }, { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.45, ease: "power4.out" }, B + 0.25);
+        tl.fromTo("#b-strike", { scaleX: 0 }, { scaleX: 1, duration: 0.4, ease: "power3.inOut" }, B + 0.85);
+        const state = { v: DEAL.katalog };
+        const numEl = $("b-now-num");
+        numEl.textContent = PLN.format(DEAL.katalog);
+        tl.fromTo("#b-now", { opacity: 0, scale: 0.55 }, { opacity: 1, scale: 1, duration: 1.0, ease: "expo.out" }, B + 1.35);
+        tl.to(state, { v: DEAL.cena, duration: 1.0, ease: "expo.out", onUpdate: () => { numEl.textContent = PLN.format(Math.round(state.v * 100) / 100); } }, B + 1.35);
+        tl.to("#b-now", { scale: 1.06, duration: 0.12, ease: "power2.out" }, B + 2.35);   // lądowanie = 6.05 s (sfx-pop)
+        tl.to("#b-now", { scale: 1, duration: 0.3, ease: "power3.out" }, B + 2.47);
+        const drv = { T: 0 };
+        tl.to(drv, { T: 1, duration: FLIGHT, ease: "none", onUpdate: () => {
+          const t = drv.T * FLIGHT;
+          const fade = drv.T > 0.75 ? 1 - (drv.T - 0.75) / 0.25 : 1;
+          parts.forEach((p) => {
+            gsap.set(p.el, { x: p.vx * t, y: p.vy * t + 0.5 * G * t * t, rotate: p.spin * t, scale: p.s, opacity: drv.T === 0 ? 0 : fade });
+          });
+        } }, B + 2.35);
+        tl.fromTo("#b-badge", { scale: 0, rotate: 24, opacity: 0 }, { scale: 1, rotate: -8, opacity: 1, duration: 0.5, ease: "power4.out" }, B + 2.45); // 6.15 s (sfx-impact)
+        tl.fromTo("#b-chip", { scaleX: 0, opacity: 0 }, { scaleX: 1, opacity: 1, duration: 0.45, ease: "expo.out" }, B + 2.9);
+        tl.fromTo("#b-sub", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.35, ease: "power3.out" }, B + 3.15);
+
+        // ===== przejście 2 =====
+        tl.fromTo("#wipe-2", { xPercent: -100 }, { xPercent: 0, duration: 0.3, ease: "expo.out" }, 7.3);
+        tl.fromTo("#w2-word", { scale: 0.6, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.25, ease: "power3.out" }, 7.5);
+        tl.to("#wipe-2", { xPercent: 100, duration: 0.35, ease: "expo.in" }, 7.75);
+
+        // ===== C: sklepy, słupek dłuższy = drożej =====
+        const C = 7.7;
+        tl.fromTo("#c-t1", { y: 60, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: "power4.out" }, C + 0.05);
+        tl.fromTo("#c-t2", { scale: 1.5, opacity: 0, filter: "blur(14px)" }, { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.45, ease: "power4.out" }, C + 0.25);
+        tl.fromTo("#c-date", { opacity: 0 }, { opacity: 1, duration: 0.3 }, C + 0.45);
+        DEAL.oferty.forEach((o, i) => {
+          const at = C + 0.5 + i * 0.22;
+          tl.fromTo(`#shop-${i}`, { x: -80, opacity: 0 }, { x: 0, opacity: 1, duration: 0.4, ease: "expo.out" }, at);
+          tl.fromTo(`#shop-bar-${i}`, { scaleX: 0 }, { scaleX: o.cena / worst, duration: 0.55, ease: "power3.out" }, at + 0.1);
+        });
+        tl.fromTo("#c-foot", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.35, ease: "power3.out" }, C + 1.9);
+
+        // ===== przejście 3 =====
+        tl.fromTo("#wipe-3", { yPercent: -100 }, { yPercent: 0, duration: 0.3, ease: "expo.out" }, 10.3);
+        tl.fromTo("#w3-word", { scale: 0.6, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.25, ease: "power3.out" }, 10.5);
+        tl.to("#wipe-3", { yPercent: 100, duration: 0.35, ease: "expo.in" }, 10.75);
+
+        // ===== D: CTA =====
+        const D = 10.7;
+        tl.fromTo("#d-logo", { scale: 0.6, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "power3.out" }, D + 0.05);
+        tl.fromTo("#d-cta", { y: 50, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: "power4.out" }, D + 0.3);
+        tl.fromTo("#d-sub", { opacity: 0 }, { opacity: 1, duration: 0.3 }, D + 0.55);
+        tl.fromTo("#d-arrow", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.45, ease: "power3.out" }, D + 0.6); // 11.3 s (sfx-pop-2)
+        tl.fromTo("#d-arrow", { y: 0 }, { y: -18, duration: 0.3, ease: "sine.inOut", repeat: 1, yoyo: true }, D + 0.9);
+        tl.fromTo("#d-disc", { opacity: 0 }, { opacity: 1, duration: 0.3 }, D + 0.7);
+
+        window.__timelines["main"] = tl;
+        tl.seek(0);
+        if (window.__hfForceTimelineRebind) window.__hfForceTimelineRebind();
+      };
+      document.fonts.ready.then(build);
+    </script>
+  </body>
+</html>
