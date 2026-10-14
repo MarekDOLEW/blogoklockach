@@ -118,6 +118,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 10:40 · CODE · 10030 Imperial Star Destroyer miał zdjęcie plecaka Ninjago
+
+- Przyczyna: feed Planety Klocków ma licencjonowane plecaki, piórniki i walizki z kodem „numer-4 cyfry" (`LEGO CITY 10030-1601 Plecak przedszkolny`, `10052-2103 Piórnik`, `20149-0026 Walizka`). `feedy-lego.py` brał z tytułu numer sprzed myślnika, a gałąź PK w ogóle nie miała filtra gadżetów. W feedzie PK z 14.10 jest 15 takich pozycji na 4 numerach: 10030, 10050, 10052, 20149. Hub ma tylko 10030.
+- Poprawka: `WZORZEC_KOD_GADZETU` (`\d{4,7}-\d{4}`) w `nie_zestaw()` i w gałęzi PK. Cała lista słów nie_zestaw celowo nie weszła do PK — zdjęłaby prawdziwe zestawy („Kreatywna walizka" 10713, „pudełko" 10696).
+- Dane: z `oferty_feed.sety` usunięte pole `zdjecie` dla tych 4 numerów (wpisy zostają). 10030 bierze teraz zdjęcie z Rebrickable; wgrane do R2 razem z wariantami WebP.
+- Cena 11 999 zł to oferta z Allegro „LEGO Star Wars 10030 Gwiezdny niszczyciel UCS nowy" (zestaw z 2002 r., nowy, cena kolekcjonerska) — nie błąd. `redirects.planetaklockow.10030` dalej wskazuje plecak, ale nic go nie linkuje (PK nie ma oferty 10030); kasowanie wpisu wymaga decyzji Marka.
+
 ## 2026-10-14 10:30 · CODE · Strażnik parsera LEGO.pl, koniec konfliktów w dzienniku, 40824 potwierdzony
 
 - **Parser LEGO.pl:** `firecrawl-legopl.mjs` liczy na każdej stronie kafelki i produkty odczytane przez parser. Gdy z którejś strony zgubi więcej niż 2, gdy wyprzedaż jest pusta, gdy brak przecen albo gdy pełny przebieg da mniej niż 800 zestawów — przerywa z kodem 3 i niczego nie zapisuje. Sprawdzone na żywo: poprawiony parser 39/39, parser sprzed b4559ca podstawiony na próbę → alarm (0 z 19 na wyprzedaży). Szczegóły: RUNBOOK, „Czwarta pułapka". Dane wt przy alarmie przerywa i zgłasza w „Kto co robi".

@@ -55,11 +55,22 @@ SLOWA_NIE_ZESTAW = re.compile(
 # jest zestawem niezależnie od tytułu.
 MIN_ELEMENTOW_ZESTAWU = 10
 
+# Kod licencjonowanego gadżetu: numer + myślnik + 4 cyfry („LEGO CITY 10030-1601
+# Plecak przedszkolny", „10052-2103 Piórnik", „20149-0026 Walizka"). Producenci
+# plecaków i piórników LEGO numerują modele seriami 10030/10050/10052/20149,
+# które pokrywają się z numerami starych zestawów. 14.10.2026 plecak Ninjago
+# z feedu PK wszedł jako zdjęcie 10030 Imperial Star Destroyer. Zestaw nigdy nie
+# ma czterocyfrowego dopisku (Bricklink pisze „10030-1"), więc wzorzec jest
+# jednoznaczny i — w odróżnieniu od listy słów — bezpieczny także dla PK, gdzie
+# „pudełko" i „walizka" bywają nazwami prawdziwych zestawów (10696, 10713).
+WZORZEC_KOD_GADZETU = re.compile(r'\b\d{4,7}-\d{4}\b')
+
 
 def nie_zestaw(nazwa):
     """Czy tytuł oferty to nie zestaw, tylko minifigurka/część/instrukcja."""
     tekst = (nazwa or '').replace('\u00ad', '')   # miękki dywiz z tytułów Allegro
-    return bool(WZORZEC_KOD_MINIFIGURKI.search(tekst) or SLOWA_NIE_ZESTAW.search(tekst))
+    return bool(WZORZEC_KOD_MINIFIGURKI.search(tekst) or SLOWA_NIE_ZESTAW.search(tekst)
+                or WZORZEC_KOD_GADZETU.search(tekst))
 G = '{http://base.google.com/ns/1.0}'
 
 
@@ -221,7 +232,9 @@ def z_planetyklockow():
         nazwa = (el.findtext('name') or '').strip()
         kategoria = (el.findtext('shopcategory') or '').strip()
         dopasowanie = WZORZEC_LEGO.match(nazwa)
-        if dopasowanie and kategoria.startswith('Klocki LEGO'):
+        # tylko kod gadżetu, nie cały nie_zestaw(): lista słów zdjęłaby z PK
+        # prawdziwe zestawy („Kreatywna walizka" 10713, „pudełko" 10696)
+        if dopasowanie and kategoria.startswith('Klocki LEGO') and not WZORZEC_KOD_GADZETU.search(nazwa):
             nr = dopasowanie.group(1)
             cena = cena_liczba(el.findtext('price'))
             # 9999,99 zł w archiwum = pozycja niedostępna, nie oferta
