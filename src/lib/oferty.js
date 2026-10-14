@@ -63,10 +63,27 @@ export function podejrzanyRynek(o, nr) {
   return `${Math.round(100 * (1 - o.cena / rrp))}% poniżej potwierdzonej ceny katalogowej (${rrp} zł) bez potwierdzenia w deale_potwierdzone.json`;
 }
 
-/** Oferty do pokazania: świeże i niepodejrzane. Jedyne sito dla sety.json i feedu. */
+/**
+ * Czy ofertę da się dziś zrealizować. Jedyny znany nam przypadek, gdy nie:
+ * LEGO.com oznaczyło zestaw na listingu jako „Niedostępne" (`lego_pl_etykieta`,
+ * sito w status.js → wyprzedaneWLego). Inne sklepy nie dają nam sygnału
+ * dostępności, więc o nich nic nie twierdzimy.
+ *
+ * Dlaczego oferta wypada z sita, a nie tylko z liczenia najtańszej (14.10.2026):
+ * „najtańszą" liczy w serwisie pięć różnych miejsc (hub, seo.js, strona główna,
+ * /promocje-lego/, GaleriaZestawow) i każde robi własny `Math.min` po liście już
+ * przepuszczonej przez `filtrujOferty`. Odcięcie w jednym `najlepszaOferta()`
+ * zostawiłoby cenę wyprzedanego zestawu w pozostałych czterech. Sito jest
+ * jedynym miejscem, w którym da się to powiedzieć raz.
+ */
+export const ofertaKupowalna = (o, nr) => !(o?.sklep === 'lego' && wyprzedaneWLego(nr));
+
+/** Oferty do pokazania: świeże, niepodejrzane i możliwe do kupienia. Jedyne sito
+ *  dla sety.json i feedu. */
 export const filtrujOferty = (oferty, nr) =>
-  (oferty ?? []).filter((o) => ofertaAktualna(o) && podejrzanyRynek(o, nr) === null);
+  (oferty ?? []).filter((o) => ofertaAktualna(o) && podejrzanyRynek(o, nr) === null && ofertaKupowalna(o, nr));
 import { wpisKatalogu } from './katalog.js';
+import { wyprzedaneWLego } from './status.js';
 
 // Odsiew ofert, które niemal na pewno dotyczą czegoś innego niż zestaw
 // (akcesoria, gabloty, instrukcje, zbiorcze aukcje). Reguły i progi mieszkają

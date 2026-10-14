@@ -118,6 +118,56 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 12:20 · CODE · Wyprzedane oferty nie liczą się do najtańszej ceny
+
+Dokończenie wątku z 11:40. Plakietka mówiła „wyprzedane w LEGO.com", a cena z tego samego
+sklepu dalej wygrywała jako najtańsza.
+
+**Cięcie poszło w `filtrujOferty`, nie w `najlepszaOferta` — i to była cała trudność.**
+„Najtańszą" liczy w serwisie pięć różnych miejsc: hub (`[nr].astro`), `seo.js`,
+strona główna, `/promocje-lego/` i `GaleriaZestawow`. Każde robi własny `Math.min` po
+liście już przepuszczonej przez `filtrujOferty`. Gdybym odciął ofertę tylko w
+`najlepszaOferta()`, cena wyprzedanego zestawu zostałaby w pozostałych czterech —
+strona główna dalej sortowałaby po cenie, której nie da się zrealizować. Sito jest
+jedynym miejscem, gdzie da się to powiedzieć raz.
+
+- `oferty.js` → `ofertaKupowalna(o, nr)`: odrzuca wiersz `lego`, gdy `wyprzedaneWLego(nr)`.
+  Dopięte do `filtrujOferty`, obok sita świeżości i „podejrzanego rynku" — czyli obok
+  dwóch reguł, które już wcześniej wyrzucały oferty, za którymi nie stoimy.
+  O innych sklepach nic nie twierdzimy: żaden nie daje nam sygnału dostępności.
+
+**Skala: 39 zestawów jest wyprzedanych w LEGO, ale najtańsza cena zmienia się tylko
+na pięciu.** Na pozostałych 34 oferta LEGO i tak nie była najtańsza.
+
+| Zestaw | Było (LEGO) | Teraz |
+|---|---|---|
+| 76329 Maska Milesa Moralesa | 299,99 | 337,00 (Allegro) |
+| 5007061 The Creative Bundle | 579,97 | brak ofert |
+| 40722 Braille — niemiecki | 379,99 | brak ofert |
+| 5006157 Play and Display Case | 274,99 | brak ofert |
+| 88013 Technic Large Motor | 144,99 | brak ofert |
+
+76329 to przypadek, dla którego ta zmiana ma sens: obiecywaliśmy w metaopisie 299,99 zł
+w sklepie, który tego zestawu nie ma. Teraz meta mówi „od 337,00 zł w 2 sklepach".
+Cztery pozostałe miały ofertę LEGO jako JEDYNĄ, więc hub przestaje obiecywać cenę —
+i słusznie, bo nie ma gdzie kupić.
+
+**Tabela cen nie zrobiła się pusta** i to wyszło samo: `TabelaCen` dokłada wiersz
+„LEGO.com — oficjalna strona LEGO" z ceną KATALOGOWĄ, gdy w ofertach nie ma LEGO
+(linia 40 komponentu). Czytelnik widzi więc cennik producenta bez daty, plakietkę
+„wyprzedane w LEGO.com" przy tytule i tabelę, w której najtańsza jest realna oferta.
+Nie planowałem tego — sprawdziłem po buildzie i zostawiam, bo wychodzi lepiej niż
+pusty hub.
+
+**Sprawdzone po buildzie (10002 strony):** plakietka na dokładnie 39 hubach, na 76447,
+42211 i 21355 (przecenione, ale dostępne) jej nie ma i ich ceny się nie zmieniły.
+Meta 76329: „od 337,00 zł w 2 sklepach, cena katalogowa 299,99 zł".
+
+**Czego dalej nie ma:** wiersz LEGO w tabeli nie jest podpisany „wyprzedane" — to była
+druga z dwóch opcji, które proponowałem, i Marek wybrał tę. Gdyby kiedyś miała dojść,
+sygnał jest już policzony (`wyprzedaneWLego`), wystarczy przekazać go do `TabelaCen`.
+
+
 ## 2026-10-14 11:40 · CODE · Plakietka „wyprzedane w LEGO.com" na hubie — 39 zestawów
 
 Domknięcie punktu z wpisu 11:10: etykieta `lego_pl_etykieta: niedostepne` była zapisywana
