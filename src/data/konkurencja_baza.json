@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-13",
-    "przebieg": "scheduled 2026-10-13 08:00",
+    "ostatnia_aktualizacja": "2026-10-14",
+    "przebieg": "scheduled 2026-10-14 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 285,
+    "liczba_wpisow": 289,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -26,7 +26,8 @@
       "2026-10-10": "Trzy wpisy, jedna pozycja - i pierwszy raz od dawna taka, ktorej sam nie zamkne. Proshop ma najtansze oferty na dwa wycofywane zestawy Star Wars (75397 za 1639, 75382 za 769), a my nie pokazujemy ani tych cen, ani linku, bo zgloszenie afiliacyjne przez Awin wisi ze statusem 'wyslane' od 19.08.2026. Siedem tygodni przed Black Friday to zly moment, zeby nie miec dostepu do sklepu, ktory bije nasza najtansza oferte o 60 zl na jednym zestawie i o 60 na drugim. To pozycja dla Marka, nie dla mnie: recznie wpisanych cen Proshopu nie dodaje, bo bez feedu nie ma czym ich odswiezac. Rozniaca sie od sprawy Amazona tym, ze tam decyzja byla zamknieta ('wracac przy realnej sprzedazy'), a tu status to 'wyslane', czyli czekamy na odpowiedz i mozna ja ponaglic.",
       "2026-10-11": "Dwie publikacje, ale jedna z nich doprowadzila do najwazniejszego znaleziska tego tygodnia - i znowu u nas. Ich okazja na 75419 kazala mi sprawdzic nasz wpis i okazalo sie, ze tego zestawu NIE MA w sety.json. Policzone szerzej: 19 zestawow DOSTEPNYCH, z RRP >= 1000 zl i co najmniej dwiema ofertami, nie jest sledzonych - m.in. 71043 Zamek Hogwart (-26%, 1509 wobec 2049,99, piec ofert), 75640 Baratie (-32%, 886,98 wobec 1299,99, siedem ofert), 43263 Zamek z Pieknej i Bestii (-23%), 21359 Wloska riwiera (-20%), 75419 Gwiazda Smierci (-14% u nas, -23% na Amazonie). Blok 'Dzis w dobrej cenie' iteruje po sety.json, wiec zadnego z nich nie zobaczy, zaden nie ma sledzonego minimum i zaden nie moze dostac postu dealowego. UWAGA METODOLOGICZNA na przyszlosc: pierwsza moja miara byla bledna - policzylem 5688 setow 'bez ceny katalogowej w ceny_baza' i prawie zglosilem to jako dziure. To NIE jest dziura, tylko zaprojektowany zakres: oferty_feed.json jest migawka dla wszystkich setow z feedow (miniatury i tabele cen w hubach), a sety.json i ceny_baza.json obejmuja zestawy sledzone, z personami i minimami - mowi to wprost _meta samego oferty_feed. Nie porownywac tych dwoch populacji jak rownych.",
       "2026-10-12": "Spokojna niedziela: cztery publikacje z 11.10 i zadna nie dotyka decyzji zakupowej. Jedyny temat opisany przez oba serwisy to konkurs LEGO IDEAS 'Hope Assembles' (crossover Star Wars x Marvel na 50-lecie Nowej Nadziei) - projekty, nie produkty, wiec dla nas zero. Lista 'co trwa teraz' w kalendarzu sprawdzona pod kate daty zgodnie z regula z 09.10: biezace okno #gratis-pazdziernik (prog 450 zl od 08.10) nadal nie ma podanego konca, drugie okno pazdziernika (13-19.10, podwojne punkty i 40909) zaczyna sie jutro - nic do przestawienia dzisiaj.",
-      "2026-10-13": "Trzy nowe publikacje, z tego jedna rzecz realna: oba serwisy opisaly okno 13-19.10 na LEGO.pl, ktore ZACZELO SIE DZISIAJ. Zamiast przepisywac ich liczby, poszedlem do zrodla - regulamin na lego.com/pl-pl/page/lego-offers-promotions podaje czarno na bialym: gratis 40909 przy zakupach od 745 zl, 13-19.10.2026, do wyczerpania zapasow, jeden na gospodarstwo domowe, bez zestawow BLDP, wartosc upominku 81,99 zl; podwojne punkty Insiders w tych samych dniach, bez laczenia z inna oferta Insiders, kuponem i zniżka. Kalendarz przestawiony z 'przewidywane' na 'trwa' i uzupelniony o te liczby, hub 40909 tez (mial wpisane 'kwoty dla polskiego sklepu nie podal na razie nikt' - to juz nieprawda). Przy okazji regula z 09.10 zadzialala drugi raz: okno #gratis-pazdziernik (450 zl od 08.10) wisialo jako 'trwa, 8.10 - ?', a w dzisiejszym regulaminie LEGO.pl juz go nie ma - zamkniete data 12.10. DWIE UWAGI METODOLOGICZNE. (1) Falszywy alarm przy dedupie: faniklockow przeniosl tekst o Hello Kitty z /2026/10/05/ na /2026/10/06/ i przy porownywaniu po URL wyszedl jako nowy, choc siedzi w bazie od 06.10. Przy nowych wpisach z tego serwisu sprawdzac takze tytul, nie sam adres. (2) zklockow: ich /aktualnosci to log dodanych produktow, nie teksty - sprawdzamy tam strukture menu, nie publikacje. Baza nie trzyma jednak zrzutu menu, wiec zdania 'nowa sekcja' nie da sie dzis udowodnic - widze m.in. /gwp-lego, /okolicznosciowe-lego, /odkrywaj/karty-podarunkowe-lego i NIE WIEM, czy sa nowe. Warto zapisac pelna liste pozycji menu przy najblizszej okazji. promoklocki.pl: zadnej zmiany strukturalnej, strona glowna niesie te same kategorie i karty produktow co 03.10, bez listy porownywanych sklepow."
+      "2026-10-13": "Trzy nowe publikacje, z tego jedna rzecz realna: oba serwisy opisaly okno 13-19.10 na LEGO.pl, ktore ZACZELO SIE DZISIAJ. Zamiast przepisywac ich liczby, poszedlem do zrodla - regulamin na lego.com/pl-pl/page/lego-offers-promotions podaje czarno na bialym: gratis 40909 przy zakupach od 745 zl, 13-19.10.2026, do wyczerpania zapasow, jeden na gospodarstwo domowe, bez zestawow BLDP, wartosc upominku 81,99 zl; podwojne punkty Insiders w tych samych dniach, bez laczenia z inna oferta Insiders, kuponem i zniżka. Kalendarz przestawiony z 'przewidywane' na 'trwa' i uzupelniony o te liczby, hub 40909 tez (mial wpisane 'kwoty dla polskiego sklepu nie podal na razie nikt' - to juz nieprawda). Przy okazji regula z 09.10 zadzialala drugi raz: okno #gratis-pazdziernik (450 zl od 08.10) wisialo jako 'trwa, 8.10 - ?', a w dzisiejszym regulaminie LEGO.pl juz go nie ma - zamkniete data 12.10. DWIE UWAGI METODOLOGICZNE. (1) Falszywy alarm przy dedupie: faniklockow przeniosl tekst o Hello Kitty z /2026/10/05/ na /2026/10/06/ i przy porownywaniu po URL wyszedl jako nowy, choc siedzi w bazie od 06.10. Przy nowych wpisach z tego serwisu sprawdzac takze tytul, nie sam adres. (2) zklockow: ich /aktualnosci to log dodanych produktow, nie teksty - sprawdzamy tam strukture menu, nie publikacje. Baza nie trzyma jednak zrzutu menu, wiec zdania 'nowa sekcja' nie da sie dzis udowodnic - widze m.in. /gwp-lego, /okolicznosciowe-lego, /odkrywaj/karty-podarunkowe-lego i NIE WIEM, czy sa nowe. Warto zapisac pelna liste pozycji menu przy najblizszej okazji. promoklocki.pl: zadnej zmiany strukturalnej, strona glowna niesie te same kategorie i karty produktow co 03.10, bez listy porownywanych sklepow.",
+      "2026-10-14": "Cztery nowe publikacje i pierwszy od dawna przebieg, w ktorym tekst konkurencji wskazal dziure w naszych DANYCH, a nie w tresci. faniklockow wypisal zestawy najtansze teraz na LEGO.pl; poszedlem do zrodla i LEGO.pl ma dzis 74 produkty na wyprzedazy (-20 do -50%). U nas 43 zestawy maja w oferty_feed cene LEGO z 06.10, choc 922 dostaly 13.10 z wtorkowego Routine - i KAZDY z 11 przezemnie sprawdzonych z tej 43 jest dzis przeceniony (10295, 11384, 11504, 21355, 31387, 40924, 42199, 75402, 75428, 76447, 77259). Zero kontrprzykladow. Hipoteza do sprawdzenia przez Code: listing, ktory czyta firecrawl-legopl.mjs, nie oddaje pozycji przecenionych albo oddaje je bez ceny, wiec ich cena LEGO zamarza na ostatniej cenie sprzed wyprzedazy. SKALA SZKODY JEST WEZSZA, NIZ WYGLADA - i warto to zapisac, zeby nikt nie zrobil z tego paniki: w 11 z 16 sprawdzonych przypadkow nasza tabela i tak pokazuje tansza oferte zewnetrzna niz cena wyprzedazowa LEGO.pl, wiec czytelnik nie jest wprowadzany w blad. Realnie zawyzamy trzy pozycje: 76447 o 68 zl (339,99 u nas wobec 271,99 na LEGO.pl), 42211 o 28,18 zl i 71494 o 25,28 zl. Osobno: kolumna 'LEGO' klamie tam, gdzie w ogole ja mamy - 10295 pokazujemy za 729,99 przy faktycznych 583,99, 75402 za 299,99 przy 239,99, 11504 za 249,99 przy 199,99. Trzeci raz z rzedu potwierdza sie regula dedupu z 13.10: faniklockow przedatowal tekst o LEGO Inside Tour 2027 z 28.09 na 13.10 i po samym URL wyszedl jako nowy. To juz wzorzec tego serwisu, nie wypadek - porownujemy tytuly. zklockow bez zmian, promoklocki bez zmian strukturalnych."
     }
   },
   "publikacje": [
@@ -3416,6 +3417,52 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Sprawdzone 13.10 Firecrawlem. Strona 'Aktualnosci' nie zawiera ani jednego tekstu redakcyjnego - to chronologiczny log w formie 'na strone zostaly dodane N nowe produkty' z linkami do kart. Ostatni wpis 08.10.2026 (40909, 67006), wczesniej 05.10, 02.10. Wniosek na kolejne przebiegi: zklockow sprawdzamy pod katem STRUKTURY (nowe sekcje w menu), a nie publikacji - publikacji tam nie ma i nie bedzie. Blog (/blog) martwy od 2021, co baza notuje od wrzesnia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Przeceny na stronie LEGO® – idealne okazje pod kumulację!",
+      "url": "https://faniklockow.pl/2026/10/13/przeceny_na_stronie_lego",
+      "data_publikacji": "2026-10-13",
+      "data_wykrycia": "2026-10-14",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Dwanascie wycofywanych zestawow, ktore ich zdaniem sa chwilowo najtansze na LEGO.pl, pod okno podwojnych punktow 13-19.10. Sprawdzone u zrodla 14.10: LEGO.pl ma dzis 74 produkty na wyprzedazy (-20 do -50%, etykiety 'Wyprzedaz' i 'Czyszczenie magazynu'). To obnazylo dziure w NASZYCH danych, nie u nich: 43 zestawy maja w oferty_feed cene LEGO z 06.10, podczas gdy 922 dostaly 13.10 - i 11 z tych 43, ktore sprawdzilem, jest dzis na wyprzedazy. Najwazniejszy przypadek: 76447 pokazujemy za 339,99 (Ceneo) jako najtaniej, a LEGO.pl ma 271,99, czyli 68 zl taniej. Dalej 42211 (28,18 zl) i 71494 (25,28 zl). W 11 z 16 sprawdzonych przypadkow nasza tabela i tak ma tansza oferte zewnetrzna, wiec szkoda jest waska, ale realna."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Minicykle GwP od LEGO® – czy to się opłaca?",
+      "url": "https://fanklockow.pl/minicykle-gwp-od-lego-czy-to-sie-oplaca",
+      "data_publikacji": "2026-10-13",
+      "data_wykrycia": "2026-10-14",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Analiza, czy zbierac miniserie upominkow GWP (Restauracje swiata, powiekszone minifigurki). U nas arytmetyka progu jest liczona osobno w kazdym oknie kalendarza, ale nie ma tekstu, ktory odpowiada na pytanie 'czy zbierac te serie' - a dane do tego mamy (ceny wtorne starych GWP w hubach). Temat evergreen, nie datowany."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO STORE Praga – Centrum. Nowy sklep flagowy otwiera się w Czechach!",
+      "url": "https://faniklockow.pl/2026/10/13/lego-store-praga-centrum-nowy-sklep-flagowy-otwiera-sie-w-czechach",
+      "data_publikacji": "2026-10-13",
+      "data_wykrycia": "2026-10-14",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Salon w Czechach - zero wplywu na decyzje zakupowe polskiego czytelnika, nie prowadzimy dzialu sklepow stacjonarnych poza PL."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Wycofania Lumibricks 2026 z rabatem do 40%!",
+      "url": "https://fanklockow.pl/wycofania-lumibricks-2026-z-rabatem-do-40",
+      "data_publikacji": "2026-10-13",
+      "data_wykrycia": "2026-10-14",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Lumibricks to zewnetrzny producent oswietlenia do zestawow, nie LEGO - poza zakresem serwisu, tak samo jak ich teksty o COBI, Pantasy i Mattel Brick Shop."
     }
   ],
   "obserwacje_strategiczne": {
