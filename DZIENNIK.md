@@ -118,6 +118,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 09:10 · CODE · /podglad/ usunięty (decyzja Marka)
+
+- Skasowane `src/pages/podglad/glowna-obecna.astro` i `deale-obecne.astro` — kopie strony głównej i deali sprzed v2 (29.09). Przypomnienie „Usunąć /podglad/” odpaliło się dziś, Marek potwierdził. Powrót możliwy z historii gita (`7f488de`).
+
 ## 2026-10-14 08:50 · ŁOWCA · Do zrobienia
 
 **40824 Uroczy kanarek Tweety: post z 13.10 poleca 69,99 zł w Media Expert, a sito „podejrzany rynek" ukrywa tę ofertę na stronie (−52% od RRP 144,99 zł, brak wpisu w deale_potwierdzone.json)**
