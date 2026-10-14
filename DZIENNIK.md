@@ -118,6 +118,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 11:40 · CODE · Plakietka „wyprzedane w LEGO.com" na hubie — 39 zestawów
+
+Domknięcie punktu z wpisu 11:10: etykieta `lego_pl_etykieta: niedostepne` była zapisywana
+od 14.10, ale nikt jej nie renderował, więc hub pokazywał cenę za coś, czego w sklepie LEGO
+w tej chwili nie kupisz.
+
+- `src/lib/status.js` → `wyprzedaneWLego(nr)`. Trzy warunki: etykieta `niedostepne`
+  z listingu, wpis **świeży** (`widzianyNaListingu`, te same 14 dni co reszta reguł
+  listingowych) i **zestaw nie jest EOL** — gdy LEGO skończyło produkcję, „koniec produkcji"
+  mówi więcej niż „wyprzedane" i dwie plakietki o tym samym byłyby szumem. Świeżość jest tu
+  potrzebna, bo `lego-ceny.mjs` kasuje etykietę tylko dla zestawów obecnych w danym
+  przebiegu na listingu: zestaw, który z listingu wypadł, zostałby inaczej „wyprzedany"
+  na zawsze.
+- `src/pages/zestaw/[nr].astro`: plakietka w rzędzie przy tytule, z tooltipem „w sklepie
+  LEGO chwilowo go nie kupisz. Inne sklepy mogą mieć zapasy."
+- `global.css`: `.badge-status--wyprzedane` w tej samej czerwieni co „wycofanie
+  potwierdzone" — dla kupującego jedno i drugie znaczy „tu tego teraz nie weźmiesz" —
+  ale osobną klasą, żeby dało się je kiedyś rozdzielić bez ruszania tamtej.
+
+**Sprawdzone, nie założone:** 39 zestawów ma w katalogu etykietę `niedostepne` i **wszystkie
+39 potwierdza dzisiejszy listing lego.pl** — zero rozbieżności. Plakietka wychodzi na
+dokładnie tych 39 hubach, na 40723 (dostępny włoski alfabet) jej nie ma. Build 10002 strony.
+
+**Czego ta zmiana NIE robi.** Tabela cen dalej pokazuje wiersz LEGO z ceną, bo w całym
+module cen nie ma w ogóle pojęcia dostępności oferty — `TabelaCen`, `PasekCeny` i
+`lib/oferty.js` nie mają ani jednego pola o tym, czy daną ofertę da się dziś zrealizować.
+Dodanie tego to osobna robota (sygnał musiałby dojść do wiersza oferty i do liczenia
+„najtańszej"), więc jej tu nie zaczynałem. Na razie plakietka przy tytule mówi to, czego
+tabela nie powie.
+
+
 ## 2026-10-14 11:10 · CODE · Alfabet Braille'a w katalogu: cztery numery, pięć hubów po polsku
 
 Z siedmiu pozycji „spoza katalogu" z wtorkowego łańcucha (wpis 10:30) dopisane cztery

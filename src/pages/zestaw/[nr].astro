@@ -13,7 +13,7 @@ import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
 import { artykulyZestawu } from '../../lib/artykuly-setow.js';
 import { premieraSetu, zapowiedz, przedsprzedaz, przeciek as przeciekSetu } from '../../lib/premiery.js';
-import { eolWLego, eolPotwierdzony, statusWycofania } from '../../lib/status.js';
+import { eolWLego, eolPotwierdzony, statusWycofania, wyprzedaneWLego } from '../../lib/status.js';
 import { fmtElementy, odmien, ileElementow, polaczOferty, cenaKatalogowaSetu, nazwaSklepu, fmtCena, sieciEkskluzywu } from '../../lib/oferty.js';
 import { hubIndeksowalny } from '../../lib/seo.js';
 import { podobneZSerii } from '../../lib/seria-huby.js';
@@ -84,6 +84,10 @@ const ekskluzyw = Boolean(s?.ekskluzyw || kat?.ekskluzyw);
 const sieciEx = ekskluzyw ? sieciEkskluzywu(nr, { sety, feed: ofertyFeed?.sety ?? {} }) : [];
 const listaSieci = (k) => k.map(nazwaSklepu).reduce((a, n, i, t) => (i === 0 ? n : i === t.length - 1 ? `${a} i ${n}` : `${a}, ${n}`), '');
 const wycof = statusWycofania(nr);
+// chwilowo wyprzedane w sklepie LEGO (etykieta „Niedostępne" z listingu lego.pl).
+// Zestaw zostaje w cenniku i w tabeli cen — mówimy tylko, że w LEGO.com teraz
+// go nie kupisz, bo wiersz LEGO z ceną sam tego nie zdradza
+const wyprzedaneLego = wyprzedaneWLego(nr);
 // oferty sklepów poza LEGO – po EOL to one decydują, czy zestaw da się jeszcze kupić
 const ofertySklepowe = oferty.filter((o) => o.sklep !== 'lego' && o.sklep !== 'ceneo');
 // Allegro to marketplace – po EOL jego oferty to rynek wtórny, nie „zapasy sklepów”
@@ -289,6 +293,7 @@ const opisMeta = najlepsza
           {wPrzedsprzedazy && <span class="badge-przedsprzedaz">przedsprzedaż na LEGO.com{premieraSlownie ? ` – premiera: ${premieraSlownie}` : ''}</span>}
           {przeciek && <a class="badge-przeciek" href="/przecieki/" title="Informacja nieoficjalna – LEGO nie potwierdziło jeszcze tego zestawu; źródło i ocena pewności w dziale Przecieki">zapowiedź – przeciek z rynku</a>}
           {ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
+          {wyprzedaneLego && <span class="badge-status badge-status--wyprzedane" title="Listing lego.pl oznacza ten zestaw jako „Niedostępne” – w sklepie LEGO chwilowo go nie kupisz. Inne sklepy mogą mieć zapasy.">wyprzedane w LEGO.com</span>}
           {eol && (eolPewny
             ? <span class="badge-status badge-status--eol" title="End of life – LEGO zakończyło produkcję i sprzedaż tego zestawu">EOL – koniec produkcji w LEGO</span>
             : <span class="badge-status badge-status--eol" title="Zestawu nie ma w sklepie lego.pl; inne sklepy mogą mieć zapasy">brak w lego.pl</span>)}

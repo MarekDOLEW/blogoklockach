@@ -85,6 +85,26 @@ export function eolWLego(nr) {
 }
 
 /**
+ * Czy LEGO.com ma zestaw chwilowo wyprzedany (etykieta „Niedostępne" na listingu
+ * lego.pl, zapisywana przez scripts/lego-ceny.mjs jako `lego_pl_etykieta`).
+ *
+ * To NIE to samo co EOL: zestaw jest dalej w katalogu i w cenniku, po prostu
+ * teraz nie da się go kupić w sklepie LEGO — inne sklepy mogą mieć zapasy,
+ * a LEGO potrafi go przywrócić. Dlatego gdy zestaw jest równocześnie EOL,
+ * nie zwracamy nic: „koniec produkcji" mówi więcej niż „wyprzedane".
+ *
+ * Świeżość liczy się jak wszędzie przy etykietach listingu: wpis sprzed ponad
+ * DNI_LISTINGU dni nie rządzi stroną. `lego-ceny.mjs` kasuje etykietę, gdy
+ * zniknie z kafelka, ale tylko dla zestawów, które w danym przebiegu były na
+ * listingu — zestaw, który z listingu wypadł, zostałby inaczej „wyprzedany"
+ * na zawsze.
+ */
+export function wyprzedaneWLego(nr) {
+  if (wpisKatalogu(nr)?.lego_pl_etykieta !== 'niedostepne') return false;
+  return widzianyNaListingu(nr) && !eolWLego(nr);
+}
+
+/**
  * Status wycofania do wyświetlenia albo null, gdy zestawu nie ma na liście.
  *   { etap: 'wycofany' | 'potwierdzone' | 'przewidywane', kiedy, etykieta }
  */

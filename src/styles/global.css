@@ -478,6 +478,10 @@ a.set-mini img { cursor: pointer; }
 .badge-status--eol { background: var(--papier); color: var(--granat-60); border: 1px solid var(--linia); }
 .badge-status--pewny { background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28); }
 .badge-status--prognoza { background: #fff8e1; color: #8a6100; border: 1px solid rgba(230,174,0,0.45); }
+/* chwilowo wyprzedane w LEGO.com — ta sama czerwień co „wycofanie potwierdzone",
+   bo dla kupującego jedno i drugie znaczy „tu tego teraz nie weźmiesz"; osobna
+   klasa, żeby dało się je rozdzielić bez ruszania tamtej */
+.badge-status--wyprzedane { background: rgba(224,49,47,0.10); color: #b3201f; border: 1px solid rgba(224,49,47,0.28); }
 
 .set-kiedy { display: block; font-size: 0.75rem; font-weight: 700; color: var(--czerwien); margin-bottom: 4px; }
 .set-cena-kat { display: block; font-size: 0.78rem; color: var(--granat-60); text-decoration: line-through; }
