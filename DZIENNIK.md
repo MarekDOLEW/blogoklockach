@@ -146,6 +146,37 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — sprawdzić kartę ME (Łowca potwierdził 69,99 zł na stronie 13.10 i 14.10) i dopisać 40824 do `src/data/deale_potwierdzone.json`
 **Kto:** — Marek (decyzja)
 → zamknięte 14.10: Marek potwierdził, 40824 (69,99 zł, Media Expert) w `deale_potwierdzone.json` — oferta wraca do huba i tabel cen
+## 2026-10-14 10:30 · CODE · Wtorkowy łańcuch dokończony: rejestr RRP i linki LEGO
+
+Po poprawce parsera (wpis 08:55) dwa ostatnie ogniwa łańcucha, na tym samym zaciągu
+z 14.10 — bez ponownego pobierania, przez `--z-pliku`.
+
+**Rejestr cen katalogowych: zero zmian i to jest dobra wiadomość.** Plik RRP policzony
+z zaciągu dał 938 cen dla zestawów z katalogu. `wczytaj-rrp.mjs`: **0 nowych, 0 konfliktów**,
+938 już w rejestrze (rejestr ma 982 pozycje). Zero konfliktów jest tu najważniejszą liczbą —
+rejestr jest write-once i ma pierwszeństwo przed wszystkim, więc gdyby poprawiony parser
+podstawił gdziekolwiek cenę wyprzedażową jako katalogową, zobaczylibyśmy to właśnie tutaj.
+Sprawdzone też punktowo: 10295 → 729,99 (nie 583,99), 76447 → 339,99 (nie 271,99),
+42211 → 439,99 (nie 263,99). Reguła „promocja ⇒ bierz `priceBefore`" działa.
+`kontrola-rrp.mjs` bez nowych sygnałów: te same 14 setów z rynkiem poniżej połowy cennika
+co wcześniej, 13 z nich już ukrytych do potwierdzenia, 10276 nadal z niepotwierdzonym RRP.
+
+**Linki do kart produktu: +5 wpisów (981 → 986).** I znowu to te same zestawy, które gubił
+parser: 71494 Zoey's Time Owl, 76785 Thing's Apartment, 75682 Elphaba & Glinda, 77055 Able
+Sisters, 77054 Leif's Caravan — wszystkie dziś przecenione. Czyli brak przecenionych kafelków
+odbijał się nie tylko na cenach, ale i na linkach: przez te zestawy worker musiał polegać na
+cudzym przekierowaniu `lego.com/pl-pl/product/<numer>`.
+
+Pozostałe mapy w `redirects.json` bez zmian (planetaklockow 1877, allegro 7114, empik 4821,
+ceneo 1760, mediaexpert 850, xkom 788, smyk 704, lidl 91, mediamarkt 55). `src/worker.js`
+i `wrangler.toml` nietknięte — zmiana jest wyłącznie w danych, które worker czyta, a brak
+wpisu i tak ma fallback. Build 10000 stron.
+
+**Siedem pozycji spoza katalogu serwisu** (do obejrzenia ludzkim okiem, nie wchodzą do
+rejestru): 40655, 40722, 40723, 40724 — Zabawa z alfabetem Braille'a w czterech językach
+po 379,99 zł — oraz Powered Up: 88011 silnik pociągu 57,99, 88019 zasilacz USB 144,99,
+88021 akumulator 124,99. Alfabet Braille'a to zestawy klocków, więc jeśli mają u nas być,
+dopisuje je Scout albo `katalog-z-rebrickable.mjs`; trzy ostatnie to komponenty, nie zestawy.
 
 
 ## 2026-10-14 08:55 · CODE · Parser listingu LEGO.pl gubił każdy przeceniony zestaw
