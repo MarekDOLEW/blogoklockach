@@ -247,6 +247,7 @@ tabela nie powie.
 - Próbka URL Inspection API (300 adresów z sitemap, 14.10): artykuły 29/43 w indeksie, serie 32/69, prezentowniki 19/22, deale 5/15, huby 65/129 (22 z nich Google pamięta jeszcze z `noindex`). Mapy witryny Google czyta regularnie (pobrane 08–13.10, 0 błędów) — wąskie gardło to częstotliwość odwiedzin, nie zgłoszenie.
 - Nowy `scripts/kolejka-indeksacji.mjs` wybiera codziennie ok. 10 niezindeksowanych adresów według priorytetu i zapisuje `materialy/indeksacja/kolejka.md`. Klikać musi człowiek albo Cowork w przeglądarce Marka — prośby o zindeksowanie nie ma w API, a Indexing API Google dopuszcza tylko oferty pracy i transmisje wideo.
 - Kolejka na 14.10: `/o-nas/` i 9 artykułów (m.in. recenzje 60508, 75438, 77242, BAM Halloween, premiery jesień/święta).
+- 14.10 po południu Cowork zgłosił całą listę: 10 z 10, żaden adres nie był w indeksie, bez limitu. Kontrola wejścia do indeksu: 19.10 (URL Inspection API).
 
 ## 2026-10-14 11:10 · CODE · Alfabet Braille'a w katalogu: cztery numery, pięć hubów po polsku
 
