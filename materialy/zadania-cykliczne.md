@@ -346,6 +346,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**14.10.2026 (Dane wt: awaria LEGO.pl nie zabiera cen sklepów)**
+- Decyzja Marka. Przy błędzie w krokach 1–5 (alarm parsera z kodem 3, Firecrawl 402/429, urwany
+  listing) runner pomija resztę kroków LEGO.pl, ale robi krok 6 (Ceneo, Lidl, MediaMarkt) i 6a (Smyk),
+  build i push. Przedtem każdy błąd przerywał cały przebieg. Przed zaciągiem `rm -f` plików z /tmp —
+  w stałej sesji plik z poprzedniego wtorku mógłby zostać wczytany jako dzisiejszy (`lego-ceny.mjs`
+  przyjmuje katalog do 8 dni wstecz). Nowy trigger `trig_01XjJhujd8FnXsGWAHQeUBqd` (ta sama sesja
+  `session_011Ced7USAHUBBsCPZ1os3F9`, prompt zgodny z wzorcem), skasowany `trig_01AL1JmnJTMZeWaG6Vs1n4MU`.
+
 **13.10.2026 (format „Kto co robi” we wszystkich runnerach)**
 - Prośba Marka: raporty mają od razu mówić, kto co ma zrobić, jak w Radarze. Pięć triggerów odtworzonych
   (create w tej samej stałej sesji → diff promptu z plikiem wzorcowym: identyczne → delete starego):

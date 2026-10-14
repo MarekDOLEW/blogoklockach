@@ -118,6 +118,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 10:50 · CODE · Dane wt: awaria LEGO.pl nie zabiera już cen Ceneo i Smyka
+
+- Nowy prompt (trigger `trig_01XjJhujd8FnXsGWAHQeUBqd`, ta sama sesja). Błąd w krokach LEGO.pl (alarm parsera, brak kredytów Firecrawla, urwany listing) → runner pomija resztę kroków LEGO.pl, ale robi ceny Ceneo, Lidla, MediaMarktu i Smyka, build i push, a awarię wpisuje do „Kto co robi”. Przed zaciągiem kasuje pliki z /tmp, żeby nie wczytać danych z poprzedniego wtorku. Szczegóły: `materialy/zadania-cykliczne.md`, historia 14.10.
+
 ## 2026-10-14 10:40 · CODE · 10030 Imperial Star Destroyer miał zdjęcie plecaka Ninjago
 
 - Przyczyna: feed Planety Klocków ma licencjonowane plecaki, piórniki i walizki z kodem „numer-4 cyfry" (`LEGO CITY 10030-1601 Plecak przedszkolny`, `10052-2103 Piórnik`, `20149-0026 Walizka`). `feedy-lego.py` brał z tytułu numer sprzed myślnika, a gałąź PK w ogóle nie miała filtra gadżetów. W feedzie PK z 14.10 jest 15 takich pozycji na 4 numerach: 10030, 10050, 10052, 20149. Hub ma tylko 10030.
