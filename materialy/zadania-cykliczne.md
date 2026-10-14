@@ -346,6 +346,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**14.10.2026 (nowy runner: Kolejka indeksacji 01:57)**
+- Decyzja Marka: osobny runner, w nocy. Stała sesja `session_01XfrPhwbD2bhMwybCoUdATy`
+  (Sonnet 5.5, repo z pushem), trigger `trig_01Gh6Payj9QVGDkrKXNzkbCX`, cron
+  `CRON_TZ=Europe/Warsaw 57 1 * * *` (01:57 zamiast 02:00 — pełne godziny są najbardziej
+  obciążone). Robi `npm run build` i `scripts/kolejka-indeksacji.mjs`, commituje tylko
+  `materialy/indeksacja/`. Klikanie „Poproś o zindeksowanie” robi Cowork na komputerze Marka
+  (prompt: `materialy/indeksacja/cowork-zadanie.md`) — API Google tego nie umie.
+
 **14.10.2026 (Dane wt: awaria LEGO.pl nie zabiera cen sklepów)**
 - Decyzja Marka. Przy błędzie w krokach 1–5 (alarm parsera z kodem 3, Firecrawl 402/429, urwany
   listing) runner pomija resztę kroków LEGO.pl, ale robi krok 6 (Ceneo, Lidl, MediaMarkt) i 6a (Smyk),

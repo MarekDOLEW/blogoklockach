@@ -151,6 +151,15 @@ układ co 76329 — Media Expert 308,96 zł na czele, wyprzedane LEGO na końcu.
 CSS bez nowej deklaracji: `.tag-wyprzedane` dołączony do selektora `.tag-eol`, bo to ta
 sama czerwień i ten sam kształt.
 
+## 2026-10-14 12:45 · CODE · Runner „Kolejka indeksacji 01:57” + zadanie dla Coworka
+
+- Decyzja Marka: osobny runner. Stała sesja `session_01XfrPhwbD2bhMwybCoUdATy`, trigger `trig_01Gh6Payj9QVGDkrKXNzkbCX`, codziennie 01:57. Układa `materialy/indeksacja/kolejka.md` (10 adresów) i pushuje tylko ten katalog.
+- Klikanie: zadanie cykliczne Coworka na komputerze Marka, prompt w `materialy/indeksacja/cowork-zadanie.md` (proponowana pora 10:00). Do założenia przez Marka.
+
+**Cowork nie ma jeszcze zadania „Poproś o zindeksowanie” — kolejka z nocy nie zostanie zgłoszona**
+**Mamy?** — częściowo: runner układa listę od 15.10, nikt jej nie klika
+**Zrobić:** — założyć w Coworku zadanie cykliczne (codziennie 10:00) z promptem z `materialy/indeksacja/cowork-zadanie.md`
+**Kto:** — Marek (decyzja, panel)
 
 ## 2026-10-14 12:20 · CODE · Wyprzedane oferty nie liczą się do najtańszej ceny
 
