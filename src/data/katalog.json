@@ -116,7 +116,7 @@
       "uwaga_o_zrodlach": "Szeroka zapytanie do wyszukiwarki podalo 76303 jako 279,99 zl i 76331/76332 jako 294,99 zl. Punktowa weryfikacja kazdego numeru z osobna potwierdzila NASZE dane: 76303 = 249,99, 76332 = 124,99 przy 330 elementach. Wniosek na przyszlosc: przy cenach ufamy zapytaniom o pojedynczy numer, nie zbiorczym podsumowaniom listingow."
     },
     "audyt_2026_09_13": "Weryfikacja statusow na lego.com: 224 zestawy R_RETIRED przestawione na eol, 71 z E_AVAILABLE/backorder przestawione na dostepny, 49 z kiedy=wycofany na liscie wycofan dostaly eol (LEGO: Wyprzedane). Pole status_zrodlo mowi skad status. Raport: materialy/audyt-wycofan-2026-09-13.md",
-    "rebrickable": "2026-10-13: dopisano 26 zestawów z katalogu Rebrickable (nazwy EN, bez RRP, pole zrodlo=rebrickable) — wycenione w feedach numery, których katalog nie znał; decyzja Marka 15.09.2026: raz wpisany zestaw zostaje na zawsze.",
+    "rebrickable": "2026-10-14: dopisano 4 zestawów z katalogu Rebrickable (nazwy EN, bez RRP, pole zrodlo=rebrickable) — wycenione w feedach numery, których katalog nie znał; decyzja Marka 15.09.2026: raz wpisany zestaw zostaje na zawsze.",
     "lego_pl": "2026-10-14: status dostepny + ekskluzyw + lego_pl_widziano z listingu lego.pl (scripts/lego-ceny.mjs).",
     "ceny_11379_11387_2026_09_16": {
       "11379": "559,99 zl. Rozbieznosc z 04.09 rozstrzygnieta: faniklockow podaja 559,99, promoklocki 559,96. Ceny katalogowe LEGO w PL zawsze koncza sie na ',99', wiec 559,96 to wyliczenie porownywarki. Kontrola: 129,99 EUR razy tegoroczny przelicznik (~4,31) daje 560 zl.",
@@ -75515,7 +75515,7 @@
     },
     {
       "numer": "40656",
-      "nazwa": "Play with Braille - English Alphabet",
+      "nazwa": "Zabawa z alfabetem Braille’a — angielski",
       "rok": 2023,
       "elementy": 287,
       "status": "dostepny",
@@ -75593,6 +75593,51 @@
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other"
+    },
+    {
+      "numer": "40655",
+      "nazwa": "Zabawa z alfabetem Braille’a — francuski",
+      "rok": 2023,
+      "elementy": 287,
+      "status": "dostepny",
+      "cena_katalogowa": null,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Other",
+      "lego_pl_widziano": "2026-10-14"
+    },
+    {
+      "numer": "40722",
+      "nazwa": "Zabawa z alfabetem Braille’a — niemiecki",
+      "rok": 2024,
+      "elementy": 287,
+      "status": "dostepny",
+      "cena_katalogowa": null,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Other",
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "niedostepne"
+    },
+    {
+      "numer": "40723",
+      "nazwa": "Zabawa z alfabetem Braille’a — włoski",
+      "rok": 2024,
+      "elementy": 287,
+      "status": "dostepny",
+      "cena_katalogowa": null,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Other",
+      "lego_pl_widziano": "2026-10-14"
+    },
+    {
+      "numer": "40724",
+      "nazwa": "Zabawa z alfabetem Braille’a — hiszpański",
+      "rok": 2024,
+      "elementy": 287,
+      "status": "dostepny",
+      "cena_katalogowa": null,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Other",
+      "lego_pl_widziano": "2026-10-14"
     }
   ],
   "Bionicle": [

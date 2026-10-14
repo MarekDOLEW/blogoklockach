@@ -118,6 +118,48 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-14 11:10 · CODE · Alfabet Braille'a w katalogu: cztery numery, pięć hubów po polsku
+
+Z siedmiu pozycji „spoza katalogu" z wtorkowego łańcucha (wpis 10:30) dopisane cztery
+zestawy klocków: **40655 francuski, 40722 niemiecki, 40723 włoski, 40724 hiszpański**,
+wszystkie 379,99 zł i 287 elementów. Trzy pozostałe (88011, 88019, 88021) zostają poza
+katalogiem — to komponenty Powered Up, nie zestawy.
+
+**Seria: Archiwum, zgodnie z regułą z RUNBOOKA**, nie z braku pomysłu. Własną serię dostaje
+linia, która ma co najmniej 10 zestawów; Braille Bricks ma na LEGO.pl pięć pozycji plus
+wycofany polybag 30711, więc idzie tam, gdzie od dawna leżał **40656 angielski** — ten jeden
+był w katalogu od zaciągu z Rebrickable.
+
+**Czego nie ma: alfabetu polskiego.** LEGO sprzedaje w polskim sklepie pięć wersji
+językowych — angielską, francuską, niemiecką, włoską i hiszpańską — i ani jednej polskiej.
+To jest informacja zakupowa sama w sobie, gdyby ktoś kiedyś pisał o tej linii.
+
+**Nazwy przepisane na polskie, wszystkie pięć.** Reguła „pozycje z Rebrickable zostają po
+angielsku" ma uzasadnienie „nie ma do czego wyrównywać" — tu jest: LEGO.pl podaje własne
+polskie nazwy, więc wziąłem je verbatim z zaciągu („Zabawa z alfabetem Braille'a —
+francuski" itd.). Poprawiłem przy okazji 40656, żeby piątka nie była rozjechana. Pole
+`zrodlo` zostaje `rebrickable` — mówi, skąd wpis, nie skąd nazwa.
+
+**Łańcuch domknięty dla tej czwórki:** `katalog-z-rebrickable.mjs --numery` (status `eol`,
+jak zawsze) → `lego-ceny.mjs` z tego samego zaciągu z 14.10 (status `dostepny`,
+`lego_pl_widziano`, cena LEGO 379,99 w feedzie) → `wczytaj-rrp.mjs`: **0 nowych wpisów**,
+bo RRP 379,99 siedzi w rejestrze dla wszystkich pięciu od 28.08 — brakowało tylko katalogu,
+czyli hubów → `lego-redirects.mjs`: +4 linki do kart produktu (986 → 990).
+Katalog 9822 → 9826, feed 8769 → 8773.
+
+**Dwie rzeczy, o których trzeba wiedzieć, zanim ktoś się zdziwi.**
+1. **40722 niemiecki jest na LEGO.pl „Niedostępne"**, a mimo to ma u nas status `dostepny`
+   i cenę 379,99 w tabeli. Tak działa `lego-ceny.mjs`: status `dostepny` dostaje wszystko,
+   co stoi na listingu z ceną, a wyprzedanie trafia do osobnego pola `lego_pl_etykieta:
+   niedostepne`. Pola nikt jeszcze nie renderuje — `premiery.js` czyta z niego tylko
+   `przedsprzedaz` i `zamowienie_oczekujace`. Nie ruszałem tej reguły, bo dotyczy wszystkich
+   zestawów, nie tylko tych czterech, ale hub pokazuje teraz cenę za coś, czego w tej chwili
+   nie kupisz.
+2. **Wszystkie cztery huby mają `noindex, follow`** — to projektowana reguła `seo.js` dla
+   cienkich hubów (jedna oferta, zero tekstu redakcyjnego), nie usterka. Odpowiadają 200
+   i są poza sitemapą. Indeksowalne zrobiłby je tekst redakcyjny, a nie zmiana w danych.
+
+
 ## 2026-10-14 10:50 · CODE · Dane wt: awaria LEGO.pl nie zabiera już cen Ceneo i Smyka
 
 - Nowy prompt (trigger `trig_01XjJhujd8FnXsGWAHQeUBqd`, ta sama sesja). Błąd w krokach LEGO.pl (alarm parsera, brak kredytów Firecrawla, urwany listing) → runner pomija resztę kroków LEGO.pl, ale robi ceny Ceneo, Lidla, MediaMarktu i Smyka, build i push, a awarię wpisuje do „Kto co robi”. Przed zaciągiem kasuje pliki z /tmp, żeby nie wczytać danych z poprzedniego wtorku. Szczegóły: `materialy/zadania-cykliczne.md`, historia 14.10.
