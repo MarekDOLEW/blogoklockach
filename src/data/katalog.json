@@ -741,7 +741,8 @@
       "status": "dostepny",
       "cena_katalogowa": 339.99,
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "zamowienie_oczekujace"
     },
     {
       "numer": "21356",
@@ -1378,8 +1379,8 @@
       "elementy": 1458,
       "status": "dostepny",
       "cena_katalogowa": 729.99,
-      "ekskluzyw": true,
-      "lego_pl_widziano": "2026-10-06"
+      "ekskluzyw": false,
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40485",
@@ -2237,7 +2238,7 @@
       "elementy": 2102,
       "status": "dostepny",
       "cena_katalogowa": 599.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "11385",
@@ -3877,7 +3878,7 @@
       "status": "dostepny",
       "cena_katalogowa": 339.99,
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "76448",
@@ -11671,7 +11672,7 @@
       "elementy": 497,
       "status": "dostepny",
       "cena_katalogowa": 299.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "75403",
@@ -11837,7 +11838,7 @@
       "status": "dostepny",
       "cena_katalogowa": 559.99,
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "75429",
@@ -13994,8 +13995,8 @@
       "status": "dostepny",
       "cena_katalogowa": 104.99,
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "ekskluzyw": true,
-      "lego_pl_widziano": "2026-10-06"
+      "ekskluzyw": false,
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40856",
@@ -14127,8 +14128,8 @@
       "elementy": 224,
       "status": "dostepny",
       "cena_katalogowa": 104.99,
-      "ekskluzyw": true,
-      "lego_pl_widziano": "2026-10-06"
+      "ekskluzyw": false,
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40925",
@@ -15010,7 +15011,7 @@
       "elementy": 215,
       "status": "dostepny",
       "cena_katalogowa": 114.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "77260",
@@ -19247,7 +19248,7 @@
       "elementy": 218,
       "status": "dostepny",
       "cena_katalogowa": 114.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "42200",
@@ -19355,9 +19356,10 @@
       "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
       "rok": 2025,
       "elementy": 1082,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 439.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "42212",
@@ -27641,7 +27643,7 @@
       "elementy": 67,
       "status": "dostepny",
       "cena_katalogowa": 41.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "60483",
@@ -32671,9 +32673,10 @@
       "nazwa": "Botanicals Kwiaty Lotosu",
       "rok": 2023,
       "elementy": 220,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 61.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-06 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2023-06 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40650",
@@ -33307,7 +33310,7 @@
       "elementy": 1074,
       "status": "dostepny",
       "cena_katalogowa": 419.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "31388",
@@ -46486,7 +46489,7 @@
       "elementy": 47,
       "status": "dostepny",
       "cena_katalogowa": 169.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "10451",
@@ -46495,7 +46498,7 @@
       "elementy": 108,
       "status": "dostepny",
       "cena_katalogowa": 299.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "10452",
@@ -46587,7 +46590,7 @@
       "elementy": 102,
       "status": "dostepny",
       "status_zrodlo": "lego.com/pl-pl, 13.09.2026: E_AVAILABLE (Dostępne teraz)",
-      "lego_pl_widziano": "2026-10-06",
+      "lego_pl_widziano": "2026-10-14",
       "cena_katalogowa": 339.99
     },
     {
@@ -51565,7 +51568,8 @@
       "elementy": 996,
       "status": "dostepny",
       "cena_katalogowa": 519.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "zamowienie_oczekujace"
     },
     {
       "numer": "71847",
@@ -51574,7 +51578,8 @@
       "elementy": 1650,
       "status": "dostepny",
       "cena_katalogowa": 649.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "zamowienie_oczekujace"
     },
     {
       "numer": "71848",
@@ -55190,7 +55195,7 @@
       "elementy": 931,
       "status": "dostepny",
       "cena_katalogowa": 439.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "76314",
@@ -57479,7 +57484,7 @@
       "elementy": 281,
       "status": "dostepny",
       "cena_katalogowa": 81.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40808",
@@ -57488,7 +57493,7 @@
       "elementy": 140,
       "status": "dostepny",
       "cena_katalogowa": 54.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40809",
@@ -57543,7 +57548,7 @@
       "elementy": 386,
       "status": "dostepny",
       "cena_katalogowa": 81.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40820",
@@ -57649,7 +57654,7 @@
       "elementy": 216,
       "status": "dostepny",
       "cena_katalogowa": 61.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40864",
@@ -57791,7 +57796,7 @@
       "elementy": 747,
       "status": "dostepny",
       "cena_katalogowa": 209.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "40958",
@@ -57816,7 +57821,7 @@
       "elementy": 1039,
       "status": "dostepny",
       "cena_katalogowa": 339.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "80119",
@@ -59676,7 +59681,7 @@
       "elementy": 572,
       "status": "dostepny",
       "cena_katalogowa": 419.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "43259",
@@ -59708,7 +59713,7 @@
       "elementy": 524,
       "status": "dostepny",
       "cena_katalogowa": 299.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "43263",
@@ -59744,9 +59749,10 @@
       "nazwa": "Suknia Kopciuszka",
       "rok": 2025,
       "elementy": 474,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 169.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-03 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-03 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "43267",
@@ -59978,7 +59984,7 @@
       "elementy": 358,
       "status": "dostepny",
       "cena_katalogowa": 169.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "43292",
@@ -63022,9 +63028,10 @@
       "nazwa": "Mario kart - zestaw baby Peach i Grand Prix",
       "rok": 2025,
       "elementy": 823,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 339.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-01 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "72037",
@@ -63041,18 +63048,20 @@
       "nazwa": "Mario Kart - Wario i King Boo",
       "rok": 2025,
       "elementy": 512,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 209.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "72039",
       "nazwa": "Mario Kart - Bowser i jego zamek",
       "rok": 2025,
       "elementy": 1068,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 419.99,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)"
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-08 (zaciąg 2026-09-15)",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "72040",
@@ -65168,7 +65177,7 @@
       "elementy": 474,
       "status": "dostepny",
       "cena_katalogowa": 249.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "11505",
@@ -66378,7 +66387,7 @@
       "elementy": 1427,
       "status": "dostepny",
       "cena_katalogowa": 779.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "43019",
@@ -66473,7 +66482,8 @@
       "status": "dostepny",
       "cena_katalogowa": 104.99,
       "cena_zrodlo": "karta redakcyjna",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "zamowienie_oczekujace"
     }
   ],
   "Sonic": [
@@ -66862,20 +66872,22 @@
       "nazwa": "Leif's Caravan & Garden Shop",
       "rok": 2025,
       "elementy": 263,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Animal Crossing"
+      "motyw_rebrickable": "Animal Crossing",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "77055",
       "nazwa": "Able Sisters' Clothing Shop",
       "rok": 2025,
       "elementy": 322,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Animal Crossing"
+      "motyw_rebrickable": "Animal Crossing",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "77056",
@@ -67110,10 +67122,11 @@
       "nazwa": "Elphaba & Glinda Figures",
       "rok": 2024,
       "elementy": 558,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 234.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Wicked"
+      "motyw_rebrickable": "Wicked",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "75683",
@@ -67280,7 +67293,7 @@
       "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "77076",
@@ -67291,7 +67304,7 @@
       "cena_katalogowa": 249.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "77077",
@@ -67983,10 +67996,11 @@
       "nazwa": "Thing's Apartment",
       "rok": 2025,
       "elementy": 828,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 359.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Wednesday"
+      "motyw_rebrickable": "Wednesday",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "76786",
@@ -69321,7 +69335,7 @@
       "elementy": 1107,
       "status": "dostepny",
       "cena_katalogowa": 299.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "71513",
@@ -69339,7 +69353,7 @@
       "elementy": 1007,
       "status": "dostepny",
       "cena_katalogowa": 419.99,
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "71515",
@@ -69659,17 +69673,18 @@
       "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "71494",
       "nazwa": "Zoey's Time Owl",
       "rok": 2025,
       "elementy": 359,
-      "status": "eol",
+      "status": "dostepny",
       "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Dreamzzz"
+      "motyw_rebrickable": "Dreamzzz",
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "71495",
@@ -69700,7 +69715,8 @@
       "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14",
+      "lego_pl_etykieta": "zamowienie_oczekujace"
     },
     {
       "numer": "71500",
@@ -69711,7 +69727,7 @@
       "cena_katalogowa": 599.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "30660",
@@ -74082,7 +74098,7 @@
       "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Horizon Adventures",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "79101",
@@ -84184,7 +84200,7 @@
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Role Play Toys and Costumes / Gear",
-      "lego_pl_widziano": "2026-10-06"
+      "lego_pl_widziano": "2026-10-14"
     },
     {
       "numer": "5007521",

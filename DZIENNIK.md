@@ -117,6 +117,51 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-14 08:55 · CODE · Parser listingu LEGO.pl gubił każdy przeceniony zestaw
+
+**Przyczyna, inna niż wczorajsza hipoteza z Radaru.** Nie chodziło o to, że listing nie
+oddaje pozycji przecenionych — oddaje je. Gubił je nasz parser: kafelek z obniżką zapisuje
+obie kwoty i rabat w JEDNEJ linii (`729,99 zł583,99 zł\- 20%`), a `parser-legopl.mjs`
+szukał kwoty stojącej samotnie w linii. Nie łapał żadnej, więc `kwoty.length === 0` i cały
+produkt leciał przez `continue`. Dowód bez domysłów: dział wyprzedaży LEGO.pl ma 74
+produkty, a nasz parser wyciągał z jego pierwszej strony **zero**.
+
+**Drugi skutek, groźniejszy od cen.** Zestaw nieobecny na listingu przez 14 dni dostaje
+w `katalog.json` status `eol`, więc dłuższa wyprzedaż oznaczałaby przecenione zestawy jako
+wycofane. Tym razem nie zdążyło — ostatnie widzenie 06.10, próg mijał 20.10.
+
+**Co zmienione**
+- `parser-legopl.mjs`: kwoty czytane z całej linii, ale tylko gdy po ich wycięciu nie
+  zostaje nic poza „zł", rabatem i interpunkcją; zdanie „Najniższa cena z 30 dni przed
+  obniżką" odrzucane osobno (raz niesie cenę obniżoną, raz katalogową). Sklejone etykiety
+  („Podwójne punktyWyprzedaż- 20%") rozcinane na granicy mała→WIELKA litera, żeby `status`
+  niósł stan produktu, a nie nazwę akcji marketingowej.
+- `firecrawl-legopl.mjs`: zaciąg chodzi po dwóch listingach (katalog + dział wyprzedaży),
+  `--strony` ogranicza każdy osobno.
+- RUNBOOK → „lego.pl: dostępne przez Firecrawl", czwarta pułapka, z testem regresji bez
+  kredytów (zrzut markdownu działu wyprzedaży + parser na pliku).
+
+**Efekt w danych.** Zaciąg: 1330 pozycji, **945 zestawów** — wobec 922 z wtorku i 896
+z dzisiejszego porannego przebiegu na starym parserze. Odświeżonych cen LEGO: 969;
+z 06.10 zostały 4 zestawy, których listing naprawdę nie ma (42653, 71440, 76323, 76325).
+Z 43 wcześniej gubionych wróciło 39 — i każde z nich jest akurat przecenione, co domyka
+diagnozę.
+
+**Wyprzedaż jako drugi listing dołożyła ZERO pozycji** — wszystkie 74 produkty działu były
+już w katalogu po poprawce parsera. Zostawiam ją mimo to jako kanarka: gdyby przecenione
+kafelki znowu zaczęły wypadać, ten listing pokaże to od razu. Cztery kredyty tygodniowo.
+
+**Sprawdzone na stronie:** `/zestaw/76447/` pokazuje 271,99 zł z LEGO (było 339,99 z Ceneo),
+podobnie 42211 (263,99 zamiast 292,17 z Ceneo), 71494 (87,49 zamiast 112,77 z Allegro)
+i 80118 (203,99 zamiast 339,99). Build 10000 stron.
+
+**Czego pilnować przy najbliższym wtorku:** 42653, 71440, 76323 i 76325 są nieobecne od
+06.10. Jeśli nie wrócą do 20.10, skrypt oznaczy je jako EOL — i tym razem słusznie, bo
+parser przeceny już widzi. 10302 Optimus Prime, 75429 i 72035 poszły na EOL w porannym
+przebiegu (nieobecne od 29.09); mój zaciąg, już z poprawką, też ich nie widzi, więc ten
+werdykt się broni.
+
 ## 2026-10-14 08:40 · CODE · Przedsprzedaż w Nowościach, zdjęcia nowości, 18 dużych zestawów, sklepy na /wycofania/
 
 - **Przedsprzedaż (prośba Marka):** zestaw, który LEGO.com już sprzedaje („Przedsprzedaż” albo „Zamówienie oczekujące” na listingu lego.pl), jest w Nowościach z plakietką „Przedsprzedaż”, a jego hub pokazuje tabelę cen z LEGO.com zamiast samej zapowiedzi. „Wkrótce dostępne” zostaje w Zapowiedziach. Etykietę zapisuje `lego-ceny.mjs` w katalogu (`lego_pl_etykieta`), co wtorek w przebiegu Dane wt; dziś zaciąg zrobiony ręcznie (896 zestawów): 12 w przedsprzedaży, 16 w zamówieniu oczekującym, 4 „wkrótce”, 38 wyprzedanych. Nowości 134 wiersze, w tym 14 w przedsprzedaży (67006, 67008, 67009, 72052–72061, 21065).

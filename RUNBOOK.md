@@ -1068,6 +1068,37 @@ listing się urwał, nie wczytywać. Trzy pułapki:
 - Numery spoza katalogu i `sety.json` (głównie akcesoria 5xxxxxx) skrypt pomija —
   bez nazwy i serii nie ma z czego zrobić huba.
 
+**Czwarta pułapka, znaleziona 14.10.2026: kafelek PRZECENIONY wypadał z zaciągu.**
+Na listingu obie kwoty i rabat stoją w jednej linii — `729,99 zł583,99 zł\- 20%` —
+a parser szukał kwoty samej w linii, więc nie łapał żadnej i wyrzucał cały produkt
+(`kwoty.length === 0` → `continue`). Objawy, po których to rozpoznać:
+- w `oferty_feed.json` grupa zestawów ma `daty.lego` sprzed tygodnia, gdy reszta
+  dostała datę ostatniego zaciągu (14.10 było ich 43 wobec 922 świeżych), i **każdy
+  z nich jest akurat przeceniony na LEGO.pl**;
+- tabela cen pokazuje cenę sprzed obniżki, więc hub potrafi wskazać droższy sklep
+  (14.10: 76447 za 339,99 z Ceneo, gdy LEGO.pl miał 271,99);
+- **groźniejszy skutek uboczny:** zestaw niewidziany na listingu przez 14 dni idzie
+  na `eol`, więc dłuższa wyprzedaż oznaczyłaby przecenione zestawy jako wycofane.
+  14.10 nie zdążyło to nikogo dotknąć (ostatnie widzenie 06.10, próg mijał 20.10).
+
+Poprawione w `parser-legopl.mjs`: kwoty czyta się z całej linii, pod warunkiem że
+po ich wycięciu nie zostaje w niej nic poza „zł", rabatem i interpunkcją; zdanie
+„Najniższa cena z 30 dni przed obniżką: …" jest odrzucane osobno, bo raz niesie
+cenę obniżoną, a raz katalogową. Sklejone etykiety („Podwójne punktyWyprzedaż- 20%")
+rozcinamy na granicy mała→WIELKA litera, żeby `status` niósł stan produktu, a nie
+nazwę akcji marketingowej. **Test regresji bez kredytów:** zapisz markdown działu
+wyprzedaży i puść na nim parser —
+`node scripts/firecrawl.mjs scrape https://www.lego.com/pl-pl/categories/sales-and-deals --format markdown --wyjscie /tmp/w.md`
+i `node scripts/parser-legopl.mjs /tmp/w.md`. Przed poprawką: 0 produktów przy 74
+w dziale. Po poprawce: 19 z pierwszej strony, z `priceBefore` wyższym od `price`.
+
+`firecrawl-legopl.mjs` chodzi od 14.10 po DWÓCH listingach — katalogu i dziale
+wyprzedaży (`LISTINGI`), a `--strony` ogranicza każdy z osobna. Przy pierwszym
+wspólnym przebiegu wyprzedaż dołożyła **zero** pozycji, których nie było w katalogu
+(74 produkty, wszystkie już zebrane) — zostaje więc jako kanarek na wypadek, gdyby
+przecenione kafelki znowu zaczęły wypadać, a nie jako źródło danych. Cztery kredyty
+tygodniowo.
+
 Serwer nie ma dostępu do lego.com (403 na ruch z data center) i to była nasza
 największa dziura w danych — polskie ceny katalogowe braliśmy z Bricksetu,
 przeliczane kursem, co dawało systematyczne zawyżenia.

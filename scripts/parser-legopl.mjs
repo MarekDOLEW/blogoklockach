@@ -18,13 +18,39 @@
 //
 // Reguła cenowa: gdy w kafelku są dwie kwoty, katalogowa to WYŻSZA, a obniżona
 // to niższa — niezależnie od kolejności, w jakiej je wypisano.
+//
+// PUŁAPKA PRZECENY (14.10.2026): kafelek przeceniony skleja obie kwoty i rabat
+// w JEDNĄ linię — `729,99 zł583,99 zł\- 20%` — więc wzorzec zakotwiczony na
+// „kwota sama w linii" nie łapał ani jednej z nich i produkt wypadał z wyniku
+// (`kwoty.length === 0` → `continue`). Skutek: zestawy na wyprzedaży znikały
+// z listingu, ich cena LEGO zamarzała na kwocie sprzed obniżki, a po 14 dniach
+// nieobecności `lego-ceny.mjs` oznaczał je jako EOL. Strona /categories/sales-and-deals
+// parsowała się 14.10 na 0 produktów przy 74 w rzeczywistości. Dlatego kwoty
+// czytamy teraz z całej linii, pod warunkiem że linia jest SAMYMI kwotami
+// (plus „zł", rabat i znaki interpunkcyjne) — zdanie „Najniższa cena z 30 dni
+// przed obniżką: 583,99 zł" jest odrzucane osobno, bo bywa w nim raz cena
+// obniżona, a raz katalogowa, więc jako źródło nie nadaje się do niczego.
 
 const NAGLOWEK = /^###\s+\[(.+?)\]\((https:\/\/www\.lego\.com\/pl-pl\/product\/[^)]+)\)\s*$/;
-const KWOTA = /^([\d\s ]+,\d{2})\s*zł$/;
+const KWOTA = /(\d[\d\s ]*,\d{2})\s*zł/g;
+const CENA_30_DNI = /^Najniższa cena z 30 dni/i;
 const LICZBA = /^(\d{1,5})$/;
 const NUMER_Z_URL = /-(\d{4,7})(?:[/?#]|$)/;
 
 const naLiczbe = (s) => Number(s.replace(/[\s ]/g, '').replace(',', '.'));
+
+// Kwoty z jednej linii kafelka. Linia przecenionego kafelka skleja obie ceny
+// i rabat, więc nie da się ich czytać wzorcem „kwota sama w linii". Żeby przy
+// okazji nie wciągnąć kwoty ze zdania (np. z informacji o cenie z 30 dni),
+// bierzemy kwoty tylko wtedy, gdy po ich wycięciu nie zostaje w linii nic
+// poza „zł", rabatem i interpunkcją.
+function kwotyZLinii(linia) {
+  if (CENA_30_DNI.test(linia)) return [];
+  const znalezione = [...linia.matchAll(KWOTA)].map((m) => naLiczbe(m[1]));
+  if (znalezione.length === 0) return [];
+  const reszta = linia.replace(KWOTA, '').replace(/zł/g, '').replace(/[\\\s %+\-.,\d]/g, '');
+  return reszta === '' ? znalezione : [];
+}
 
 // Etykiety, które nie są statusem produktu, tylko elementami interfejsu.
 const NIE_STATUS = new Set([
@@ -34,6 +60,16 @@ const NIE_STATUS = new Set([
 // Ogon listingu — wszystko za nim należy do stopki, nie do ostatniego kafelka.
 const KONIEC_LISTY = /^(Wyświetla \d+ z |Załaduj więcej|Filtry$|## )/;
 const PROMOCJA = /-\s*\d{1,2}\s*%|wyprzeda|czyszczenie magazynu/i;
+
+// Kafelek skleja kilka etykiet w jedną linię bez separatora
+// („Podwójne punktyCzyszczenie magazynu- 30%"). Rozcinamy na granicy mała→WIELKA
+// litera: w pojedynczych etykietach LEGO takiej granicy nie ma („Czyszczenie
+// magazynu", „Ostatnie zestawy", „Wkrótce dostępne", „Ekskluzywne"), więc cięcie
+// rozdziela sklejone, a całych nie rusza. Bez tego `status` zaczynałby się od
+// nazwy akcji marketingowej zamiast od stanu produktu.
+function rozklejEtykiete(e) {
+  return e.split(/(?<=[a-ząćęłńóśźż])(?=[A-ZĄĆĘŁŃÓŚŹŻ])/).map((x) => x.trim()).filter(Boolean);
+}
 
 export function parsujListing(markdown) {
   const linie = markdown.split('\n').map((l) => l.trim());
@@ -57,16 +93,18 @@ export function parsujListing(markdown) {
       const l = linie[j];
       if (!l) continue;
       if (KONIEC_LISTY.test(l)) break;
-      const c = KWOTA.exec(l);
-      if (c) {
-        kwoty.push(naLiczbe(c[1]));
+      const c = kwotyZLinii(l);
+      if (c.length) {
+        kwoty.push(...c);
         continue;
       }
-      // etykieta bywa linkiem: [Wkrótce dostępne](url)
-      const czysta = l.replace(/^\[(.+?)\]\(.*\)$/, '$1');
+      // etykieta bywa linkiem: [Wkrótce dostępne](url); na kafelku przecenionym
+      // etykiety są sklejone razem z rabatem („Podwójne punktyWyprzedaż\- 20%"),
+      // więc zdejmujemy ukośniki markdownu i dopuszczamy dłuższy ciąg
+      const czysta = l.replace(/^\[(.+?)\]\(.*\)$/, '$1').replace(/\\/g, '');
       // cyfry muszą przejść — bez nich przepada „Czyszczenie magazynu -30%”,
       // czyli jedyna etykieta, która przesądza o cenie katalogowej
-      if (/^[\p{L}][\p{L}\d\s.:%+-]{2,40}$/u.test(czysta) && !NIE_STATUS.has(czysta)) etykiety.push(czysta);
+      if (/^[\p{L}][\p{L}\d\s.:%+-]{2,60}$/u.test(czysta) && !NIE_STATUS.has(czysta)) etykiety.push(...rozklejEtykiete(czysta));
     }
     if (kwoty.length === 0) continue;
 

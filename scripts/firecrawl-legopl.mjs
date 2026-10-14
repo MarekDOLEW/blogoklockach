@@ -21,7 +21,7 @@
 //
 // Wymaga FIRECRAWL_KEY. Użycie:
 //   node scripts/firecrawl-legopl.mjs --wyjscie katalog-legopl.json
-//   node scripts/firecrawl-legopl.mjs --strony 3            # próbka, do testów
+//   node scripts/firecrawl-legopl.mjs --strony 3            # próbka: 3 strony z każdego listingu
 //   node scripts/firecrawl-legopl.mjs --rrp ceny-rrp.json   # dodatkowo plik dla wczytaj-rrp.mjs
 //   node scripts/firecrawl-legopl.mjs --z-pliku katalog.json --rrp ceny-rrp.json
 //       ^ bez zaciągu: przelicza gotowy katalog (np. dostarczony przez Cowork)
@@ -35,6 +35,14 @@ import { ekstrakcja, scrape } from './firecrawl.mjs';
 import { parsujListing } from './parser-legopl.mjs';
 
 const LISTING = 'https://www.lego.com/pl-pl/categories/all-sets';
+// Dział wyprzedaży chodzimy OSOBNO, choć przeceny bywają też w /all-sets.
+// Powód (14.10.2026): parser gubił kafelki przecenione (sklejona linia z dwiema
+// kwotami), więc 43 zestawy miały w oferty_feed cenę LEGO sprzed obniżki, a po
+// 14 dniach nieobecności na listingu `lego-ceny.mjs` oznaczyłby je jako EOL.
+// Parser jest poprawiony, ale drugi listing kosztuje ~4 kredyty i daje pewność,
+// że żaden przeceniony zestaw nie wypadnie przez niepełne stronicowanie /all-sets.
+const WYPRZEDAZ = 'https://www.lego.com/pl-pl/categories/sales-and-deals';
+const LISTINGI = [LISTING, WYPRZEDAZ];
 const NA_STRONIE = 24; // tyle kafelków oddaje jedna strona listingu
 
 const args = process.argv.slice(2);
@@ -120,8 +128,8 @@ function ustalKategorie(p) {
   return typeof p.elements === 'number' && p.elements > 0 ? 'zestaw' : 'akcesoria/merch';
 }
 
-async function pobierzStrone(nr) {
-  const url = nr === 1 ? LISTING : `${LISTING}?page=${nr}`;
+async function pobierzStrone(baza, nr) {
+  const url = nr === 1 ? baza : `${baza}?page=${nr}`;
   for (let proba = 1; proba <= 3; proba++) {
     try {
       if (tryb === 'markdown') {
@@ -154,43 +162,59 @@ if (zPliku) {
   console.log(`Wczytano ${zebrane.size} pozycji z ${zPliku} (bez zaciągu).`);
 }
 
-while (!zPliku && strona < limitStron) {
-  strona += 1;
-  const produkty = await pobierzStrone(strona);
-  if (produkty === null) {
-    bledy.push(strona);
-    if (bledy.length >= 5) {
-      console.error('Pięć stron nie do pobrania — przerywam, żeby nie zapisać kadłubka.');
-      break;
+async function przejdzListing(baza, etykieta) {
+  let wlasna = 0;      // numer strony w obrębie tego listingu
+  let pusteZRzedu = 0;
+  while (wlasna < limitStron) {   // --strony ogranicza KAŻDY listing z osobna
+    wlasna += 1;
+    strona += 1;
+    const produkty = await pobierzStrone(baza, wlasna);
+    if (produkty === null) {
+      bledy.push(`${etykieta}:${wlasna}`);
+      if (bledy.length >= 5) {
+        console.error('Pięć stron nie do pobrania — przerywam, żeby nie zapisać kadłubka.');
+        return false;
+      }
+      continue;
     }
-    continue;
-  }
-  if (produkty.length === 0) {
-    pusteZRzedu += 1;
-    if (pusteZRzedu >= 2) break; // koniec listingu
-    continue;
-  }
-  pusteZRzedu = 0;
+    if (produkty.length === 0) {
+      pusteZRzedu += 1;
+      if (pusteZRzedu >= 2) return true; // koniec listingu
+      continue;
+    }
+    pusteZRzedu = 0;
 
-  let nowe = 0;
-  for (const p of produkty) {
-    const nr = ustalNumer(p.url);
-    if (!nr || zebrane.has(nr)) continue;
-    zebrane.set(nr, {
-      setNumber: nr,
-      name: (p.name ?? '').replace(/®|™/g, '').trim(),
-      price: p.price,
-      status: p.status ?? null,
-      ...(Array.isArray(p.labels) && p.labels.length ? { labels: p.labels } : {}),
-      url: p.url,
-      ...(typeof p.elements === 'number' ? { elements: p.elements } : {}),
-      ...(typeof p.priceBefore === 'number' ? { priceBefore: p.priceBefore } : {}),
-      category: ustalKategorie(p),
-    });
-    nowe += 1;
+    let nowe = 0;
+    for (const p of produkty) {
+      const nr = ustalNumer(p.url);
+      if (!nr || zebrane.has(nr)) continue;
+      zebrane.set(nr, {
+        setNumber: nr,
+        name: (p.name ?? '').replace(/®|™/g, '').trim(),
+        price: p.price,
+        status: p.status ?? null,
+        ...(Array.isArray(p.labels) && p.labels.length ? { labels: p.labels } : {}),
+        url: p.url,
+        ...(typeof p.elements === 'number' ? { elements: p.elements } : {}),
+        ...(typeof p.priceBefore === 'number' ? { priceBefore: p.priceBefore } : {}),
+        category: ustalKategorie(p),
+      });
+      nowe += 1;
+    }
+    console.log(`${etykieta} strona ${wlasna}: ${produkty.length} kafelków, ${nowe} nowych (łącznie ${zebrane.size})`);
+    if (produkty.length < NA_STRONIE / 2 && wlasna > 1) return true; // ostatnia, niepełna strona
   }
-  console.log(`strona ${strona}: ${produkty.length} kafelków, ${nowe} nowych (łącznie ${zebrane.size})`);
-  if (produkty.length < NA_STRONIE / 2 && strona > 1) break; // ostatnia, niepełna strona
+  return true;
+}
+
+if (!zPliku) {
+  for (const baza of LISTINGI) {
+    const etykieta = baza === WYPRZEDAZ ? 'wyprzedaż' : 'katalog';
+    const przed = zebrane.size;
+    const dalej = await przejdzListing(baza, etykieta);
+    console.log(`  ${etykieta}: ${zebrane.size - przed} pozycji, których nie miał poprzedni listing`);
+    if (!dalej) break;
+  }
 }
 
 const produkty = [...zebrane.values()];
@@ -204,7 +228,7 @@ const promocje = produkty.filter((p) => PROMOCJA.test(p.status ?? '') || p.price
 
 const katalog = {
   meta: {
-    source: LISTING,
+    source: LISTINGI.join(' + '),
     scrapedAt: new Date().toISOString().slice(0, 10),
     currency: 'PLN',
     priceType: 'cena bieżąca sklepu LEGO PL (katalogowa lub promocyjna; priceBefore = cena przed obniżką)',
