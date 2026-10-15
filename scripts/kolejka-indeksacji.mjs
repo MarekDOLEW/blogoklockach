@@ -46,7 +46,10 @@ const SITE = 'https://tylkoklocki.pl';
 const KATALOG = 'materialy/indeksacja';
 const HISTORIA = `${KATALOG}/historia.json`;
 const KOLEJKA = `${KATALOG}/kolejka.md`;
-const dzis = new Date().toISOString().slice(0, 10);
+// Data polska, nie UTC: runner startuje o 01:57 PL, czyli jeszcze „wczoraj” w UTC,
+// a Cowork o 10:24 sprawdza, czy nagłówek kolejki ma dzisiejszą datę (15.10.2026
+// pierwsza lista wyszła z datą 14.10 i zostałaby uznana za nieaktualną).
+const dzis = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
 
 if (!process.env.GSC_KEY_JSON_B64) {
   console.error('Brak GSC_KEY_JSON_B64 — nie sprawdzę stanu w Search Console.');

@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-10-14
+# Kolejka „Poproś o zindeksowanie" — 2026-10-15
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
