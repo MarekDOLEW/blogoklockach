@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-10-11",
+  "data_aktualizacji": "2026-10-15",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1185,
+  "liczba_setow": 1203,
   "sety": [
     "10280",
     "10281",
@@ -1187,7 +1187,25 @@
     "67009",
     "67012",
     "67006",
-    "40909"
+    "40909",
+    "10294",
+    "10307",
+    "10326",
+    "21063",
+    "21353",
+    "21359",
+    "21363",
+    "41843",
+    "43263",
+    "71043",
+    "75192",
+    "75419",
+    "75640",
+    "76269",
+    "76300",
+    "76437",
+    "76457",
+    "76968"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -6433,5 +6451,14 @@
     "nowy_rekord_gear": "5010210 Botanical Greetings Cards — Gear / Miscellaneous, kategoria '{t.b.a.}', bez elementow i bez ceny. Kartki okolicznosciowe, wiec szum; odnotowane tylko po to, by kolejny przebieg nie liczyl ich jako nowosci.",
     "serwisy": "Zadnej nowosci po stronie serwisow. PromoBricks dolozyl piec tekstow (podcast, Inside Tour 2027, przypomnienie o podwojnych punktach, rabat eBay, kamien kolekcjonerski z LEGOLAND Niemcy — ten ostatni nasz filtr pomija) oraz tekst o nowym drukowanym katalogu LEGO na Boze Narodzenie: 164 strony, wazny od wrzesnia do grudnia 2026, bez wersji cyfrowej i BEZ ani jednego numeru zestawu, wiec nic z niego nie wynika dla danych. StoneWars: wyprzedaz w niemieckim sklepie LEGO (okolo 40 zestawow, do 40 procent) rownolegle z podwojnymi punktami i gratisem 40909, plus konkurs LEGO Ideas i podcast.",
     "luki_katalogu": "Bez zmian wobec 13.10: opisane bez ceny katalogowej 17; rocznik 2026 w sprzedazy bez wpisu 17; cala kolejka redakcyjna 185. Nadal bez polskiej ceny katalogowej: 67006 i 71873."
+  },
+  "przeglad_2026_10_15": {
+    "nowosci": "Brak nowosci. Okno przyrostowe (updatedSince 14.10) dalo piec rekordow: 22 Value Pack Italy (1995), 2912 Radical Racer (2000) i 9364 Hospital (1993, Dacta — kanal szkolny) to roczniki archiwalne, L0002242 Crab droid to dodatek do czasopisma (prefiks L000 plus availability 'Magazine gift'), a 67012 juz mamy z cena 749,99 zl.",
+    "67012_motyw_skacze": "Trzecia zmiana motywu tego samego rekordu: 06.10 katalog mial 'Art / Licensed', 14.10 'DC Comics Super Heroes / Batman', dzis znowu 'Art / Licensed'. U nas seria to 'Art' i tak zostaje — nie przepisuje jej przy kazdym skoku katalogu. Jesli kiedys trzeba bedzie wrocic do tej decyzji, to jest powod: motyw po stronie Bricksetu nie jest ustabilizowany.",
+    "40899_koniec_akcji": "PromoBricks 14.10 (tekst o stornowanych zamowieniach w PlayStation Store) podaje dwie rzeczy: oferta 19,99 euro za sam zestaw w sklepie Sony byla bledem, zamowienia zostaly anulowane i zwrocone, a w sklepie LEGO Astro Bota nie ma juz jako gratisu. Serwis notuje 40-60 euro na niemieckim eBayu. Przepisane trzy pola 40899: akcja opisana datami (start 1.10.2026, koniec w polowie pazdziernika wedlug PromoBricks), zdanie o nieznanym progu kwotowym i plotce o 150 euro usuniete jako bezprzedmiotowe, dopisane pasmo rynku wtornego wobec naszej jedynej oferty 300 zl z 14.10. Jedno zrodlo, wiec informacja o koncu akcji jest w tekscie przypisana PromoBricks.",
+    "gwp_wyceny_zakres": "Po decyzji Marka z 14.10 (40909 dostalo 81,99 zl) w sety.json zostaje szesc gratisow z bez_rrp: 40896, 40897, 40899, 40900, 40902, 40916. Pytanie o te szesc postawione Markowi w raporcie i DZIENNIKU — czy dostaja wycene dodatku jak 40909, czy zostaja bez ceny. Pozostale wpisy z bez_rrp (siedem polybagow, 40507 LEGO House, 40952 LEGOLAND, 910059 BLDP) to inne kategorie i ich ta decyzja nie dotyczy.",
+    "serwisy": "Bez nowosci. PromoBricks: naklejki Ninjago z albumem (towar, nie zestaw), komplet czterech kamieni kolekcjonerskich z LEGOLAND (filtr), rabat w Galerii, tekst o Astro Bocie powyzej, podcast i katalog. StoneWars: darmowa instrukcja do MOC-a z droidem-krabem, nabor na Inside Tour 2027 do 16.10, podcast i wyprzedaze — zadnego nowego zestawu.",
+    "luki_katalogu": "KOREKTA WLASNEJ LICZBY: opisane bez ceny katalogowej to 8, nie 17, jak raportowalem 12-14.10. Liczylem pomijajac tylko bez_rrp z sety.json, a prompt mowi wyraznie 'sety.json ALBO katalog.json'. Po stronie katalogu bez_rrp maja 11501, 30714, 30715, 30722, 30723, 30724, 30728, 30735 i 40902 — dziewiec pozycji, ktore przez trzy przebiegi niepotrzebnie liczylem jako luke. Zostaje osiem realnych: 21375, 40890, 40910, 40912, 66813, 67006, 71873, 77094. Rocznik 2026 w sprzedazy bez wpisu: 17 (bez zmian). Cala kolejka redakcyjna: 176, czyli o 9 mniej niz 12.10 — dokladnie te duze zestawy, ktore Code dolozyl do sety.json.",
+    "dociagniecie_rejestru": "Rejestr rozjechal sie z sety.json: sesja Code dolozyla 18 duzych zestawow (commit 52e1586, lista Radaru z 10.10 o zestawach powyzej 1000 zl bez wpisu) i nie dopisala ich tutaj. Dociagniete: 10294, 10307, 10326, 21063, 21353, 21359, 21363, 41843, 43263, 71043, 75192, 75419, 75640, 76269, 76300, 76437, 76457, 76968. liczba_setow 1185 -> 1203. Zadnego z nich nie zglaszam jako nowosc — to roczniki 2017-2025 dolozone redakcyjnie, nie premiery."
   }
 }

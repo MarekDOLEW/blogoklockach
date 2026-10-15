@@ -118,6 +118,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-15 05:20 · SCOUT · Do zrobienia
+
+**Po wpisaniu 81,99 zł do 40909 w `sety.json` zostaje sześć gratisów z `bez_rrp` i bez ceny: 40896 (X-Files), 40897, 40899 (Astro Bot), 40900, 40902, 40916 — każdy ma wycenę dodatku podaną przez LEGO w euro, żaden nie ma polskiej ceny katalogowej.**
+**Mamy?** — częściowo: huby stoją, w polu ceny pustka, więc nie wchodzą do tabel cen ani do przeliczeń za element
+**Zrobić:** — jedna decyzja dla tych sześciu: wycena dodatku jako `cena_katalogowa` (jak 40909) albo `bez_rrp` zostaje; polybagi, ekskluzywy LEGO House/LEGOLAND i BLDP tej decyzji nie dotyczą
+**Kto:** — Marek (decyzja)
+
+**Rejestr `known_sets.json` rozjechał się z `sety.json`: commit 52e1586 dołożył 18 dużych zestawów (lista Radaru z 10.10), ale nie dopisał ich do rejestru — przez trzy dni `liczba_setow` pokazywała 1185 przy 1203 wpisach.**
+**Mamy?** — tak: dociągnąłem rejestr w tym przebiegu (1185 → 1203), więc dziura jest zamknięta
+**Zrobić:** — przy każdym ręcznym dopisaniu zestawu do `sety.json` aktualizować też `known_sets.json` (lista `sety` + `liczba_setow` + `data_aktualizacji`), albo dorzucić to do skryptu, który dopisuje zestawy
+**Kto:** — Code (dane, skrypt)
+
 ## 2026-10-14 15:00 · CODE · Rolki wideo z kodu: HyperFrames + generator „Deal alert"
 
 **Decyzja (Marek):** rolki 9:16 składamy z kodu, nie w edytorze. Dotychczasowy
