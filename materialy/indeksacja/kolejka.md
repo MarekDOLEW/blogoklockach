@@ -13,21 +13,21 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/o-nas/ — URL is unknown to Google
-2. https://tylkoklocki.pl/artykuly/allegro-black-weeks-2026-lego/ — URL is unknown to Google
-3. https://tylkoklocki.pl/artykuly/historia-licencji-lego-gry-sport-lifestyle/ — URL is unknown to Google
-4. https://tylkoklocki.pl/artykuly/lego-60508-napad-na-policyjny-pociag-recenzja/ — Discovered - currently not indexed
-5. https://tylkoklocki.pl/artykuly/lego-75438-popiersie-yody-recenzja/ — URL is unknown to Google
-6. https://tylkoklocki.pl/artykuly/lego-77242-bolid-f1-ferrari-sf-24-recenzja/ — Discovered - currently not indexed
-7. https://tylkoklocki.pl/artykuly/lego-bam-halloween-2026/ — URL is unknown to Google
-8. https://tylkoklocki.pl/artykuly/lego-jesien-swieta-2026-premiery/ — Discovered - currently not indexed
-9. https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/ — Discovered - currently not indexed
-10. https://tylkoklocki.pl/artykuly/najlepsze-oferty-lego-wrzesien-2026/ — URL is unknown to Google
+1. https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-star-wars/ — Discovered - currently not indexed
+2. https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/ — Discovered - currently not indexed
+3. https://tylkoklocki.pl/prezentowniki/lego-batman/ — URL is unknown to Google
+4. https://tylkoklocki.pl/prezentowniki/lego-star-wars/ — URL is unknown to Google
+5. https://tylkoklocki.pl/serie/archiwalne/ — Discovered - currently not indexed
+6. https://tylkoklocki.pl/serie/archiwum/ — Discovered - currently not indexed
+7. https://tylkoklocki.pl/serie/art/ — URL is unknown to Google
+8. https://tylkoklocki.pl/serie/bionicle/ — Discovered - currently not indexed
+9. https://tylkoklocki.pl/serie/botanicals/ — URL is unknown to Google
+10. https://tylkoklocki.pl/serie/bricklink-designer-program/ — Discovered - currently not indexed
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 40.
-- Submitted and indexed: 28
-- URL is unknown to Google: 7
-- Discovered - currently not indexed: 4
-- Crawled - currently not indexed: 1
+Sprawdzone dziś w API: 75.
+- Submitted and indexed: 61
+- Crawled - currently not indexed: 4
+- Discovered - currently not indexed: 6
+- URL is unknown to Google: 4
