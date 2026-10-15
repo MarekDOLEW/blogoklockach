@@ -118,6 +118,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-15 09:00 · CODE · 40824: 69,99 zł było ceną z kodem, który wygasł 14.10
+
+- Marek: na stronie 69,99, w Media Expert 99,99. Karta ME (Firecrawl): 69,99 to „cena z kodem MEDAYS-10, obowiązuje do 14.10.2026 23:59”; dziś karta na żywo `product:price:amount` 99,99, bez kodu. Kodu MEDAYS-10 nie było w `kody_rabatowe.json` (ostatni zrzut `me-kody.mjs` 10.10), więc strona pokazywała cenę z kodem jak zwykłą.
+- Poprawione: ME 40824 → 99,99 (15.10) w `oferty_feed` i `sety.json`; najtańsza oferta teraz x-kom/Ceneo 92,90. Post `/deale/deal-40824-kanarek-tweety-minimum/` dostał `wazne_do: 2026-10-14` (baner „akcja zakończona”). `sortujPostyDealowe()` przesuwa posty po `wazne_do` na koniec — trójka deali na głównej pokazuje tylko trwające akcje.
+- Wpis w `deale_potwierdzone.json` (69,99 z 14.10) zostaje: 99,99 i tak jest powyżej progu podejrzanego rynku.
+
 ## 2026-10-15 05:20 · SCOUT · Do zrobienia
 
 **Po wpisaniu 81,99 zł do 40909 w `sety.json` zostaje sześć gratisów z `bez_rrp` i bez ceny: 40896 (X-Files), 40897, 40899 (Astro Bot), 40900, 40902, 40916 — każdy ma wycenę dodatku podaną przez LEGO w euro, żaden nie ma polskiej ceny katalogowej.**

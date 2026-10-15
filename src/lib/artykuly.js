@@ -108,11 +108,23 @@ export function najnowszePierwsze(a, b) {
  * redakcja chce trzymać na wierzchu – Marek 23.09.2026), w obrębie grupy data
  * malejąco. Wyróżnienie zdejmuje się ręcznie, gdy akcja się skończy.
  */
+// Post z `wazne_do` w przeszłości (akcja sklepu się skończyła) idzie na koniec:
+// 15.10.2026 strona główna wciąż polecała „Kanarek Tweety za 69,99 zł”, choć kod
+// MEDAYS-10 wygasł 14.10 o północy i w Media Expert było już 99,99 zł. Trójka na
+// głównej bierze więc tylko trwające akcje, a listing /deale/ zostawia zakończone
+// na dole (z banerem „akcja zakończona” w samym poście).
 export function sortujPostyDealowe(moduly) {
   const czas = (m) => new Date(m.frontmatter?.data ?? 0).getTime() || 0;
+  const dzis = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
+  const zakonczony = (m) => /^\d{4}-\d{2}-\d{2}$/.test(String(m.frontmatter?.wazne_do ?? '')) && String(m.frontmatter.wazne_do) < dzis;
   return moduly
     .filter((m) => m.frontmatter?.data)
-    .sort((a, b) => (Boolean(b.frontmatter.wyroznienie) - Boolean(a.frontmatter.wyroznienie)) || czas(b) - czas(a));
+    .sort(
+      (a, b) =>
+        Number(zakonczony(a)) - Number(zakonczony(b)) ||
+        (Boolean(b.frontmatter.wyroznienie) - Boolean(a.frontmatter.wyroznienie)) ||
+        czas(b) - czas(a),
+    );
 }
 
 export function zajawkiArtykulow(moduly, opcje) {
