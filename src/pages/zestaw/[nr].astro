@@ -112,6 +112,8 @@ const cenaNieznana = !cenaKatalogowa;
 // zestaw bez polskiej ceny katalogowej z natury (ekskluzyw LEGO House/LEGOLAND,
 // prezent GWP, BrickLink Designer Program) – pole `bez_rrp` z powodem w sety.json
 // albo katalog.json (Cowork 23.09.2026). Wtedy nie obiecujemy, że cenę „podamy”.
+// Decyzja Marka 15.10.2026: w nagłówku huba pokazujemy wtedy samą kreskę („–”),
+// a nie liczbę ani „brak” – powód stoi niżej w karcie nad tabelą ofert.
 const bezRrp = s?.bez_rrp || kat?.bez_rrp || null;
 
 const sciezkaSerii = seria
@@ -311,7 +313,7 @@ const opisMeta = najlepsza
           {cenaKatalogowa
             ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
             : bezRrp
-              ? <span>cena katalogowa <strong>brak</strong> (zestaw bez polskiego cennika)</span>
+              ? <span>cena katalogowa <strong>–</strong></span>
               : wkrotce || przeciek
                 ? <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>
                 : <span>cena katalogowa <strong>brak w naszych danych</strong></span>}

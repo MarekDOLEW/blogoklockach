@@ -130,6 +130,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: huby stoją, w polu ceny pustka, więc nie wchodzą do tabel cen ani do przeliczeń za element
 **Zrobić:** — jedna decyzja dla tych sześciu: wycena dodatku jako `cena_katalogowa` (jak 40909) albo `bez_rrp` zostaje; polybagi, ekskluzywy LEGO House/LEGOLAND i BLDP tej decyzji nie dotyczą
 **Kto:** — Marek (decyzja)
+→ zamknięte 15.10.2026: decyzja Marka — wszystkie sześć dostaje wycenę dodatku. Wpisane cztery
+po sprawdzeniu promoklocki.pl (Firecrawl; nasz serwer dostaje 403 od Cloudflare): 40899 i 40900 po
+81,99 zł, 40902 i 40916 po 109,99 zł. 40896 miało już 81,99 zł i tylko sprzeczne `bez_rrp` — zdjęte.
+Zostaje 40897 (Miecz świetlny Vadera): ani promoklocki, ani Brickset nie mają dla niego ceny
+katalogowej, w Niemczech wyceniony na 29,99 euro — pilnuję go w kolejnych przebiegach (Scout).
 
 **Rejestr `known_sets.json` rozjechał się z `sety.json`: commit 52e1586 dołożył 18 dużych zestawów (lista Radaru z 10.10), ale nie dopisał ich do rejestru — przez trzy dni `liczba_setow` pokazywała 1185 przy 1203 wpisach.**
 **Mamy?** — tak: dociągnąłem rejestr w tym przebiegu (1185 → 1203), więc dziura jest zamknięta

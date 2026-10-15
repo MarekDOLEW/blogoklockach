@@ -33476,10 +33476,9 @@
       "rok": 2026,
       "elementy": 218,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "Brickset (GWP, start 21.09.2026) + karta Piotra 17.09.2026",
-      "uwagi": "gratis do zakupów w sklepie LEGO (GWP), bez ceny katalogowej",
-      "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — nigdy nie miał polskiej ceny katalogowej; oferty w Polsce to odsprzedaż"
+      "cena_zrodlo": "promoklocki.pl (wycena dodatku), 15.10.2026"
     },
     {
       "numer": "10245",
@@ -65275,9 +65274,9 @@
       "rok": 2026,
       "elementy": 310,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 109.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)",
-      "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — nigdy nie miał ceny katalogowej; oferty w Polsce to odsprzedaż"
+      "cena_zrodlo": "promoklocki.pl (wycena dodatku), 15.10.2026"
     },
     {
       "numer": "6614216",
@@ -69840,8 +69839,9 @@
       "rok": 2026,
       "elementy": 251,
       "status": "eol",
-      "cena_katalogowa": null,
-      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)"
+      "cena_katalogowa": 109.99,
+      "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)",
+      "cena_zrodlo": "promoklocki.pl (wycena dodatku), 15.10.2026"
     },
     {
       "numer": "40906",
@@ -75580,9 +75580,10 @@
       "rok": 2026,
       "elementy": 276,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Other"
+      "motyw_rebrickable": "Other",
+      "cena_zrodlo": "promoklocki.pl (wycena dodatku), 15.10.2026"
     },
     {
       "numer": "850702",
