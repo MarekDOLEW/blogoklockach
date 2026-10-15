@@ -12,7 +12,9 @@ pasek_zestaw: "40824"
 wazne_do: "2026-10-14"
 ---
 
-**40824 Uroczy kanarek Tweety** kosztuje dziś **69,99 zł w Media Expert** — to **rabat około 52%** od katalogowych 144,99 zł i najniższa cena w naszych notowaniach; jeszcze wczoraj ten sam sklep liczył sobie 99,99 zł. Drabina cenowa jest stroma: x-kom schodzi do 92,90 zł, Smyk do 102 zł, a reszta rynku trzyma trzycyfrowe kwoty — zjazd należy wyłącznie do Media Expert i może się skończyć bez ostrzeżenia, bo sklep nie podaje daty końca promocji.
+**Aktualizacja 15.10:** promocja wygasła — Media Expert wrócił do 99,99 zł. Najtaniej jest teraz w x-kom i na Ceneo po **92,90 zł** (−36% od katalogu); aktualne kwoty w tabeli poniżej i na [karcie zestawu](/zestaw/40824/).
+
+**40824 Uroczy kanarek Tweety** kosztował 13 października **69,99 zł w Media Expert** — to **rabat około 52%** od katalogowych 144,99 zł i najniższa cena w naszych notowaniach; jeszcze wczoraj ten sam sklep liczył sobie 99,99 zł. Drabina cenowa jest stroma: x-kom schodzi do 92,90 zł, Smyk do 102 zł, a reszta rynku trzyma trzycyfrowe kwoty — zjazd należy wyłącznie do Media Expert i może się skończyć bez ostrzeżenia, bo sklep nie podaje daty końca promocji.
 
 <div class="galeria-setow" data-sety="40824"></div>
 
