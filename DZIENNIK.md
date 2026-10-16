@@ -118,6 +118,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-16 · CODE · Trzy recenzje Piotra (007–009): 60447, 31168, 11505
+
+- Import przez `scripts/import-artykul.py` (0 obrazów, 0 tabel w DOCX — nic nie zginęło). Tekst Piotra bez zmian; dopisane: frontmatter z FAQ, linki do serii i do zestawów porównawczych (10348, 11501, 60448, 60453), tabela cen w miejscu `[TABELA CENOWA]`, zdjęcia.
+- `/artykuly/lego-11505-grzyby-lesne-recenzja/` i `/artykuly/lego-60447-gorska-terenowka-4x4-recenzja/` — nowe. Galerie 11505 (7) i 60447 (9) z kart Planety Klocków dopisane do `galerie.json`, wgrane do R2 z wariantami WebP.
+- `/artykuly/lego-31168-sredniowieczny-zamek-recenzja/` — tekst Piotra zastąpił recenzję z 20.08 pod tym samym adresem (data zostaje, `zaktualizowano: 2026-10-16`); próg zakupu zmienił się z 380 na 370 zł z dostawą.
+- Fakty z tekstów zgodne z `sety.json` (RRP, liczba elementów, premiera).
+
 ## 2026-10-16 09:30 · CODE · Grudzień w kalendarzu promocji: z trzech zdań na pięć podsekcji
 
 Zamknięcie pozycji z dzisiejszego Radaru. Konkurencja opisała grudzień wcześniej niż my,
