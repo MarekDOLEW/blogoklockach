@@ -118,6 +118,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-16 · CODE · Premiera Piotra: 11388 Wenecka okolica
+
+- `/artykuly/lego-11388-wenecka-okolica-premiera/` — tekst Piotra bez zmian (w DOCX śródtytuły były zwykłymi akapitami — zamienione na nagłówki), FAQ, linki do Icons, 21359 i 40898, tabela cen, 8 zdjęć. Galeria 11388 (9 zdjęć z lego.com) w `galerie.json` i R2.
+- Dane: nazwa 11388 „Wenecka okolica” (oficjalna z lego.com/pl-pl, Scout wpisał „Wenecka dzielnica”), `cena_katalogowa` 2149,99 zł + wpis w `rrp_potwierdzone.json`.
+
 ## 2026-10-16 · CODE · Trzy recenzje Piotra (007–009): 60447, 31168, 11505
 
 - Import przez `scripts/import-artykul.py` (0 obrazów, 0 tabel w DOCX — nic nie zginęło). Tekst Piotra bez zmian; dopisane: frontmatter z FAQ, linki do serii i do zestawów porównawczych (10348, 11501, 60448, 60453), tabela cen w miejscu `[TABELA CENOWA]`, zdjęcia.
@@ -174,6 +179,7 @@ a nie slogan. `zaktualizowano` 13.10 → 16.10.
 **Mamy?** — częściowo: zestaw wszedł dziś do `sety.json` (Scout 16.10, premiera 2026-11, 5682 elementy się zgadzają), ale `cena_katalogowa` jest pusta.
 **Zrobić:** — potwierdzić 2149,99 zł drugim źródłem przed wpisaniem do danych (dziś to jedno źródło); przy okazji sprawdzić nasz przeciek 40898 „Weneckie wodne taxi (gratis do dużego zestawu)" — jeśli oba są prawdziwe, listopadowe okno dostaje gratis przypisany do konkretnego zestawu.
 **Kto:** — Code (dane, strona) — robota dla Scouta
+→ zamknięte 16.10: drugie źródło to karta lego.com/pl-pl (2149,99 zł, Insiders 1–3.11, dla wszystkich od 4.11); oficjalna polska nazwa to „Wenecka okolica” — poprawiona w `sety.json` (było „Wenecka dzielnica”). Gratis 40898 do 11388 w dniach 1–8.11 potwierdza strona produktu i tekst Piotra.
 
 Pominięte: 2 publikacje bez znaczenia dla nas (COBI Viqueens, premiery Pantasy — linki w bazie).
 
@@ -189,11 +195,13 @@ tak samo jak przy Allegro Black Weeks, gdzie od tygodni czekamy na termin.
 **Mamy?** — częściowo: hub `/zestaw/11388/` stoi z pełnym opisem, ale bez polskiej ceny katalogowej i bez tekstu w dziale Artykuły
 **Zrobić:** — tekst premierowy o 11388 (kategoria Premiery): mechanika gratisu 40898 tylko do 11388 w listopadzie, dwa układy ekspozycji, pianino z druku 3D jako czwarty taki element u LEGO
 **Kto:** — Piotr (tekst)
+→ zamknięte 16.10: tekst Piotra opublikowany — `/artykuly/lego-11388-wenecka-okolica-premiera/` (Premiery, 8 zdjęć z lego.com w galerii 11388)
 
 **Polskiej ceny katalogowej 11388 nie ma — LEGO podało na razie tylko rynki zagraniczne (499,99 euro, 549,99 dolara, 449,99 funta, 779,99 dolara kanadyjskiego).**
 **Mamy?** — częściowo: hub działa, w polu ceny pustka, więc nie liczymy progu zakupu ani ceny za element w złotych
 **Zrobić:** — po 1 listopada zaciągnąć cenę z listingu lego.pl do `sety.json` (zestaw wchodzi tylko do sklepu LEGO, więc feedy sklepów go nie przyniosą)
 **Kto:** — Code (dane)
+→ zamknięte 16.10: karta lego.com/pl-pl już podaje 2149,99 zł (Firecrawl) — wpisane do `sety.json` i `rrp_potwierdzone.json`
 
 ## 2026-10-15 09:00 · CODE · 40824: 69,99 zł było ceną z kodem, który wygasł 14.10
 
