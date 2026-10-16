@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-15",
-    "przebieg": "scheduled 2026-10-15 08:00",
+    "ostatnia_aktualizacja": "2026-10-16",
+    "przebieg": "scheduled 2026-10-16 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 291,
+    "liczba_wpisow": 295,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -28,7 +28,8 @@
       "2026-10-12": "Spokojna niedziela: cztery publikacje z 11.10 i zadna nie dotyka decyzji zakupowej. Jedyny temat opisany przez oba serwisy to konkurs LEGO IDEAS 'Hope Assembles' (crossover Star Wars x Marvel na 50-lecie Nowej Nadziei) - projekty, nie produkty, wiec dla nas zero. Lista 'co trwa teraz' w kalendarzu sprawdzona pod kate daty zgodnie z regula z 09.10: biezace okno #gratis-pazdziernik (prog 450 zl od 08.10) nadal nie ma podanego konca, drugie okno pazdziernika (13-19.10, podwojne punkty i 40909) zaczyna sie jutro - nic do przestawienia dzisiaj.",
       "2026-10-13": "Trzy nowe publikacje, z tego jedna rzecz realna: oba serwisy opisaly okno 13-19.10 na LEGO.pl, ktore ZACZELO SIE DZISIAJ. Zamiast przepisywac ich liczby, poszedlem do zrodla - regulamin na lego.com/pl-pl/page/lego-offers-promotions podaje czarno na bialym: gratis 40909 przy zakupach od 745 zl, 13-19.10.2026, do wyczerpania zapasow, jeden na gospodarstwo domowe, bez zestawow BLDP, wartosc upominku 81,99 zl; podwojne punkty Insiders w tych samych dniach, bez laczenia z inna oferta Insiders, kuponem i zniżka. Kalendarz przestawiony z 'przewidywane' na 'trwa' i uzupelniony o te liczby, hub 40909 tez (mial wpisane 'kwoty dla polskiego sklepu nie podal na razie nikt' - to juz nieprawda). Przy okazji regula z 09.10 zadzialala drugi raz: okno #gratis-pazdziernik (450 zl od 08.10) wisialo jako 'trwa, 8.10 - ?', a w dzisiejszym regulaminie LEGO.pl juz go nie ma - zamkniete data 12.10. DWIE UWAGI METODOLOGICZNE. (1) Falszywy alarm przy dedupie: faniklockow przeniosl tekst o Hello Kitty z /2026/10/05/ na /2026/10/06/ i przy porownywaniu po URL wyszedl jako nowy, choc siedzi w bazie od 06.10. Przy nowych wpisach z tego serwisu sprawdzac takze tytul, nie sam adres. (2) zklockow: ich /aktualnosci to log dodanych produktow, nie teksty - sprawdzamy tam strukture menu, nie publikacje. Baza nie trzyma jednak zrzutu menu, wiec zdania 'nowa sekcja' nie da sie dzis udowodnic - widze m.in. /gwp-lego, /okolicznosciowe-lego, /odkrywaj/karty-podarunkowe-lego i NIE WIEM, czy sa nowe. Warto zapisac pelna liste pozycji menu przy najblizszej okazji. promoklocki.pl: zadnej zmiany strukturalnej, strona glowna niesie te same kategorie i karty produktow co 03.10, bez listy porownywanych sklepow.",
       "2026-10-14": "Cztery nowe publikacje i pierwszy od dawna przebieg, w ktorym tekst konkurencji wskazal dziure w naszych DANYCH, a nie w tresci. faniklockow wypisal zestawy najtansze teraz na LEGO.pl; poszedlem do zrodla i LEGO.pl ma dzis 74 produkty na wyprzedazy (-20 do -50%). U nas 43 zestawy maja w oferty_feed cene LEGO z 06.10, choc 922 dostaly 13.10 z wtorkowego Routine - i KAZDY z 11 przezemnie sprawdzonych z tej 43 jest dzis przeceniony (10295, 11384, 11504, 21355, 31387, 40924, 42199, 75402, 75428, 76447, 77259). Zero kontrprzykladow. Hipoteza do sprawdzenia przez Code: listing, ktory czyta firecrawl-legopl.mjs, nie oddaje pozycji przecenionych albo oddaje je bez ceny, wiec ich cena LEGO zamarza na ostatniej cenie sprzed wyprzedazy. SKALA SZKODY JEST WEZSZA, NIZ WYGLADA - i warto to zapisac, zeby nikt nie zrobil z tego paniki: w 11 z 16 sprawdzonych przypadkow nasza tabela i tak pokazuje tansza oferte zewnetrzna niz cena wyprzedazowa LEGO.pl, wiec czytelnik nie jest wprowadzany w blad. Realnie zawyzamy trzy pozycje: 76447 o 68 zl (339,99 u nas wobec 271,99 na LEGO.pl), 42211 o 28,18 zl i 71494 o 25,28 zl. Osobno: kolumna 'LEGO' klamie tam, gdzie w ogole ja mamy - 10295 pokazujemy za 729,99 przy faktycznych 583,99, 75402 za 299,99 przy 239,99, 11504 za 249,99 przy 199,99. Trzeci raz z rzedu potwierdza sie regula dedupu z 13.10: faniklockow przedatowal tekst o LEGO Inside Tour 2027 z 28.09 na 13.10 i po samym URL wyszedl jako nowy. To juz wzorzec tego serwisu, nie wypadek - porownujemy tytuly. zklockow bez zmian, promoklocki bez zmian strukturalnych.",
-      "2026-10-15": "Najspokojniejszy przebieg od poczatku miesiaca: JEDNA nowa publikacja na dwoch serwisach RSS i nic do piatki. fanklockow dal relacje z Inside Tour w Billund - format przezyciowy, nie zakupowy, nie prowadzimy takich tresci. Drugi 'nowy' wpis to przedatowany tekst faniklockow o Inside Tour 2027, ktory zglaszal sie jako nowy trzeci dzien z rzedu; dopisalem go do bazy pod nowym adresem, zeby przestal wracac. To TRZECI udokumentowany przypadek przedatowania u tego serwisu (po Hello Kitty) - przy faniklockow dedup robimy po tytule, ale i to zawodzi, gdy przy okazji zmienia slowo w naglowku ('znamy daty' wobec 'daty'). Wniosek: pewny jest dopiero dedup po slugu bez daty. zklockow: /aktualnosci nadal stoi na 08.10, czyli tydzien bez ruchu - ten serwis warto sprawdzac rzadziej niz codziennie, bo kazdy przebieg to kredyt Firecrawla za strone, ktora sie nie zmienia. promoklocki: zero zmian strukturalnych, te same kategorie i karty co 13.10, jedynie licznik stron 221 -> 222 (nowe produkty, nie nowa funkcja)."
+      "2026-10-15": "Najspokojniejszy przebieg od poczatku miesiaca: JEDNA nowa publikacja na dwoch serwisach RSS i nic do piatki. fanklockow dal relacje z Inside Tour w Billund - format przezyciowy, nie zakupowy, nie prowadzimy takich tresci. Drugi 'nowy' wpis to przedatowany tekst faniklockow o Inside Tour 2027, ktory zglaszal sie jako nowy trzeci dzien z rzedu; dopisalem go do bazy pod nowym adresem, zeby przestal wracac. To TRZECI udokumentowany przypadek przedatowania u tego serwisu (po Hello Kitty) - przy faniklockow dedup robimy po tytule, ale i to zawodzi, gdy przy okazji zmienia slowo w naglowku ('znamy daty' wobec 'daty'). Wniosek: pewny jest dopiero dedup po slugu bez daty. zklockow: /aktualnosci nadal stoi na 08.10, czyli tydzien bez ruchu - ten serwis warto sprawdzac rzadziej niz codziennie, bo kazdy przebieg to kredyt Firecrawla za strone, ktora sie nie zmienia. promoklocki: zero zmian strukturalnych, te same kategorie i karty co 13.10, jedynie licznik stron 221 -> 222 (nowe produkty, nie nowa funkcja).",
+      "2026-10-16": "Cztery publikacje, dwie znaczace - i pierwszy tego sezonu tekst, ktory wyznacza kotwice na listopad. fanklockow wystawil prognoze Weekendu Insiders i Czarnego piatku szesc tygodni przed czasem i zapowiedzial aktualizowanie jej na biezaco; to jest material, do ktorego czytelnik bedzie wracal przez caly listopad. Porownanie z naszym kalendarzem wypada dla nas dobrze na listopadzie (mamy tabele z rozpisanymi oknami) i zle na GRUDNIU: u nas to trzy zdania o terminach dostaw przed Wigilia, u nich ostatnie w roku okno podwojnych punktow, dwa swiateczne gratisy i mocne przeceny EOL po swietach. Grudzien to druga polowa naszego sezonu zakupowego, wiec ta luka jest realna. CZEGO NIE ROBIMY: nie przepisujemy ich dat. Oni daja Weekend Insiders na 21-22.11, my mamy 21-26.11 i ani jedno, ani drugie nie jest potwierdzone przez LEGO - to sa dwie prognozy, nie fakt i blad. Nasza wlasna obserwacja z tego roku (Member Day 09.09, okno 13-19.10) wystarczy, zeby napisac o grudniowym oknie wlasnymi slowami, bez powolywania sie na ich tekst. Wenecja 11388 (5682 elementy, 18 minifigurek, 2149,99 zl) jest u nas od dzis dzieki Scoutowi, ale bez ceny - ich 2149,99 to jedno zrodlo, do potwierdzenia drugim. Ciekawie laczy sie to z naszym przeciekiem 40898 'Weneckie wodne taxi (gratis do duzego zestawu)'. Dedup po slugu bez daty (wniosek z 15.10) zadzialal: przedatowany Inside Tour nie wrocil."
     }
   },
   "publikacje": [
@@ -3486,6 +3487,52 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "TEN SAM tekst, co w bazie pod adresem /2026/09/28/ - faniklockow przeniosl go na 13.10. Wpis istnieje wylacznie po to, zeby dedup po URL przestal go codziennie pokazywac jako nowy (13.10 i 14.10 zglaszal sie dwa razy; dedup po tytule go nie zlapal, bo w nowej wersji doszlo slowo 'znamy'). Trzeci udokumentowany przypadek przedatowania u tego serwisu, po Hello Kitty."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Weekend Insiders i Czarny piątek 2026 na LEGO.pl – czego się spodziewamy?",
+      "url": "https://fanklockow.pl/weekend-insiders-czarny-piatek-2026-lego-pl",
+      "data_publikacji": "2026-10-15",
+      "data_wykrycia": "2026-10-16",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "LEGO.pl"
+      ],
+      "notatki": "Kotwica sezonu, postawiona szesc tygodni przed akcja, z zapowiedzia biezacych aktualizacji. Wszystko sa to ICH prognozy, nie zapowiedzi LEGO - sami to oznaczaja. Co podaja: Weekend Insiders 21-22.11 (dwa dni, gratisy od 1:00), Black Friday 27-29.11 bez podwojnych punktow, Cyber Monday 30.11, premiera Godzilli IDEAS w Czarny piatek z dedykowanym gratisem, a w grudniu ostatnie w roku okno podwojnych punktow, dwa swiateczne gratisy i mocne powyprzedazowe przeceny EOL. U nas kalendarz ma listopad rozpisany (tabela z 21-26.11, 27.11, 30.11), ale GRUDZIEN to trzy zdania o terminach dostaw - ani slowa o kolejnym oknie punktow i o przecenach po swietach. Rozbieznosc do odnotowania: oni daja Weekend Insiders na dwa dni (21-22), my na szesc (21-26); zadne z tych okien nie jest potwierdzone przez LEGO, wiec nie przepisujemy ich liczby."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wenecja – kolejny zestaw LEGO® Icons oficjalnie ujawniony!",
+      "url": "https://faniklockow.pl/2026/10/15/wenecja-kolejny-zestaw-lego-icons-oficjalnie-ujawniony",
+      "data_publikacji": "2026-10-15",
+      "data_wykrycia": "2026-10-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "11388 Wenecka dzielnica: 5682 elementy, 18 minifigurek, cena katalogowa 2149,99 zl, wymiary 48x63x31 cm. Mamy ten zestaw od dzis (Scout 16.10, premiera 2026-11, 5682 elementy sie zgadzaja), ale BEZ ceny katalogowej. Ich 2149,99 zl to na razie jedno zrodlo - do potwierdzenia drugim, zanim trafi do danych. Wiaze sie z tym nasz przeciek 40898 'Weneckie wodne taxi (gratis do duzego zestawu)': jesli oba sa prawdziwe, listopadowe okno dostanie gratis przypisany do konkretnego zestawu, tak samo jak Godzilla wg fanklockow."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi COBI 2026: Viqueens",
+      "url": "https://fanklockow.pl/zapowiedzi-cobi-2026-viqueens",
+      "data_publikacji": "2026-10-15",
+      "data_wykrycia": "2026-10-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI, nie LEGO - poza zakresem serwisu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Pantasy na 10.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-pantasy-na-10-2026",
+      "data_publikacji": "2026-10-15",
+      "data_wykrycia": "2026-10-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Pantasy, nie LEGO - poza zakresem serwisu."
     }
   ],
   "obserwacje_strategiczne": {

@@ -118,6 +118,26 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-16 08:20 · RADAR · Do zrobienia
+
+**fanklockow.pl · 15.10** — Wystawili prognozę Weekendu Insiders i Czarnego piątku 2026 sześć tygodni przed czasem, z zapowiedzią bieżących aktualizacji; obejmuje też grudzień (ostatnie okno podwójnych punktów, dwa świąteczne gratisy, mocne przeceny EOL po świętach).
+**Mamy?** — częściowo: `/kalendarz-promocji-lego/` ma listopad rozpisany w tabeli (21–26.11, 27.11, 30.11), ale sekcja grudnia to trzy zdania o terminach dostaw przed Wigilią — ani słowa o kolejnym oknie punktów i o przecenach po świętach.
+**Zrobić:** — uzupełnić sekcję `#grudzien` w `/kalendarz-promocji-lego/` o spodziewane okno podwójnych punktów i powyprzedażowe przeceny EOL, napisane **jako nasza prognoza z własnego wzorca 2026** (Member Day 09.09, okno 13–19.10), a nie jako przedruk ich tekstu.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 15.10** — Ujawnili 11388 Wenecka dzielnica: 5682 elementy, 18 minifigurek, cena katalogowa 2149,99 zł, 48×63×31 cm.
+**Mamy?** — częściowo: zestaw wszedł dziś do `sety.json` (Scout 16.10, premiera 2026-11, 5682 elementy się zgadzają), ale `cena_katalogowa` jest pusta.
+**Zrobić:** — potwierdzić 2149,99 zł drugim źródłem przed wpisaniem do danych (dziś to jedno źródło); przy okazji sprawdzić nasz przeciek 40898 „Weneckie wodne taxi (gratis do dużego zestawu)" — jeśli oba są prawdziwe, listopadowe okno dostaje gratis przypisany do konkretnego zestawu.
+**Kto:** — Code (dane, strona) — robota dla Scouta
+
+Pominięte: 2 publikacje bez znaczenia dla nas (COBI Viqueens, premiery Pantasy — linki w bazie).
+
+**Czego świadomie NIE robię i dlaczego.** Oni dają Weekend Insiders na **21–22.11**, nasz kalendarz
+na **21–26.11**. Nie przestawiam naszej daty na ich: żadne z tych okien nie jest potwierdzone przez
+LEGO, więc to nie jest „fakt kontra błąd", tylko dwie prognozy. Wpisujemy datę, gdy ogłosi ją LEGO —
+tak samo jak przy Allegro Black Weeks, gdzie od tygodni czekamy na termin.
+
+
 ## 2026-10-16 05:25 · SCOUT · Do zrobienia
 
 **LEGO pokazało 11388 Wenecką dzielnicę: 5682 elementy, 17 minifigurek, 499,99 euro, premiera 1 listopada 2026 wyłącznie w sklepie LEGO, z gratisem 40898 — to jeden z pięciu największych zestawów rocznika i pierwszy z nowym elementem drukowanym 3D (pianino z mechanizmem muzycznym).**
