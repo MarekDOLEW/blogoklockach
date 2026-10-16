@@ -13,3 +13,6 @@
 # 30.09.2026: /kolekcjoner/ był pustą zapowiedzią działu (audyt 30.09) – treść o EOL żyje w /wycofania/
 /kolekcjoner                           /wycofania/         301
 /kolekcjoner/                          /wycofania/         301
+# 16.10.2026: domyślna ścieżka mapy witryny dla Binga, Ahrefs, Screaming Frog itd.
+# (robots.txt i GSC wskazują /sitemap-index.xml; /sitemap.xml dawało 404)
+/sitemap.xml                           /sitemap-index.xml  301
