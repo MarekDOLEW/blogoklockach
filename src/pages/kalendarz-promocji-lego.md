@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-10-13"
+zaktualizowano: "2026-10-16"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -30,7 +30,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
-<li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta</b> – ostatnie terminy dostaw przed Wigilią i ostatnia szansa na wycofywane zestawy</a></li>
+<li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta, trzecie okno punktowe i 323 wycofania</b> – ostatnie terminy dostaw przed Wigilią, spodziewane podwójne punkty i ostatni miesiąc tych zestawów w LEGO.com</a></li>
 </ul>
 
 <span class="status status--ok">potwierdzone</span> to termin oficjalnie ogłoszony, <span class="status status--maybe">przewidywane</span> – powtarzalny wzorzec z poprzednich lat, data może się przesunąć.
@@ -275,9 +275,55 @@ Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
 
-<h2 id="grudzien">Grudzień: święta i ostatnia szansa na wycofywane zestawy <span class="status status--maybe">przewidywane</span></h2>
+<h2 id="grudzien">Grudzień: 323 wycofania, zero premier i jedno okno promocyjne do przewidzenia <span class="status status--maybe">przewidywane</span></h2>
 
-Do ok. 18–19.12 sklepy gwarantują dostawę przed Wigilią – po tej dacie zostaje odbiór osobisty. Grudzień to też ostatni pełny miesiąc sprzedaży wielu zestawów [wycofywanych z produkcji](/wycofania/) – po Nowym Roku ich ceny zaczynają rosnąć, nie spadać. Jeśli szukasz konkretnych pomysłów, zajrzyj do naszych [prezentowników](/prezentowniki/).
+Grudzień wygląda inaczej niż listopad i to nie jest słabsza wersja Black Friday. Listopad jest miesiącem rabatów, grudzień – miesiącem **terminów**: dostaw, końca produkcji i ostatniego w roku okna punktowego.
+
+<h3 id="grudzien-dostawy">Terminy dostaw: ok. 18–19.12</h3>
+
+Do mniej więcej 18–19 grudnia sklepy gwarantują dostawę przed Wigilią – po tej dacie zostaje odbiór osobisty. To jedyna data w tej sekcji, która nie jest prognozą, tylko stałym punktem każdego sezonu.
+
+<h3 id="grudzien-wycofania">Koniec produkcji: 323 zestawy, w tym 314 potwierdzonych przez LEGO</h3>
+
+To jest najważniejsza liczba grudnia i nie ma nic wspólnego z promocjami. Na [naszej liście wycofań](/wycofania/) **323 zestawy mają koniec produkcji wyznaczony na grudzień 2026**, z czego **314 potwierdziło samo LEGO**, a 9 to prognoza rynku. Największe z nich:
+
+| Zestaw | Cena katalogowa |
+|---|---|
+| [75192 Sokół Millennium](/zestaw/75192/) | 3599,99 zł |
+| [75367 Krążownik typu Venator](/zestaw/75367/) | 2799,99 zł |
+| [75397 Barka żaglowa Jabby](/zestaw/75397/) | 2149,99 zł |
+| [42215 Koparka Volvo EC500 Hybrid](/zestaw/42215/) | 1699,99 zł |
+| [10356 Star Trek: U.S.S. Enterprise](/zestaw/10356/) | 1649,99 zł |
+
+**Czego to NIE znaczy.** „Koniec produkcji w grudniu" to data, w której zestaw znika z LEGO.com – nie dzień, w którym znika z rynku. Sklepy zewnętrzne sprzedają zapasy jeszcze tygodniami, czasem miesiącami, i bywa, że właśnie wtedy schodzą z ceną najniżej. Dlatego nie piszemy „ostatnia szansa": piszemy, że po grudniu **przestaje działać jeden kanał – ten z ceną katalogową i gratisami progowymi** – a zostaje rynek, na którym cena może pójść w obie strony. Tabele cen na podstronach zestawów pokazują to na bieżąco.
+
+Wyjątkiem są zestawy w dystrybucji wyłącznie LEGO.com, oznaczone u nas jako [ekskluzywne](/ekskluzywne/). Tam po końcu produkcji nie ma dokąd pójść i zostaje rynek wtórny, zwykle drożej.
+
+<h3 id="grudzien-punkty">Trzecie okno punktowe: spodziewane, ale bez daty <span class="status status--maybe">przewidywane</span></h3>
+
+Spodziewamy się w grudniu jeszcze jednego okna z podwójnymi punktami Insiders. **Podstawą jest nasz własny zapis tego roku, nie zapowiedź LEGO** – producent nie ogłosił niczego na grudzień. Z tego kalendarza wynika rytm mniej więcej comiesięczny:
+
+| Okno | Co dawało |
+|---|---|
+| [9.09 – Insiders Member Day](#member-day) | jeden dzień, same podwójne punkty, bez zapowiedzi |
+| [9–19.09 – Batman Day](#batman-day) | punkty na wybraną serię plus gratis od 165 zł |
+| [13–19.10 – drugie okno października](#pazdziernik-punkty) | punkty na całe zamówienie plus gratis 40909 od 745 zł |
+
+Dwie z tych trzech akcji LEGO ogłosiło z dnia na dzień albo wcale, więc **planowanie zakupu pod konkretną grudniową datę nie ma sensu** – lepiej mieć gotową listę i sprawdzić cennik, gdy okno się pojawi.
+
+**Ile to jest warte, zanim ktoś przestawi zakupy na grudzień.** Podwójne punkty to około 5% wartości zamówienia zwróconej w punktach. Przy zamówieniu za 700 zł mówimy o jakichś 35 zł ekstra – mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Ta sama arytmetyka obowiązywała w październiku i nie zmieni się w grudniu.
+
+Gratis progowy też jest prawdopodobny: w tym roku LEGO dołożyło go do niemal każdego okna ([40908 Grecja](/zestaw/40908/) w sierpniu przy 745 zł, [wybór dwóch gratisów](#gratis-pazdziernik) przy 450 zł na początku października, [40909 Włochy](/zestaw/40909/) przy 745 zł w drugim oknie). Progu na grudzień nikt nie podał i my też go nie zgadujemy.
+
+<h3 id="grudzien-premiery">Premier w grudniu nie przewidujemy</h3>
+
+W naszych danych **nie ma ani jednego zestawu z premierą w grudniu 2026**, podczas gdy listopad ma ich sześć – m.in. [11388 Wenecka dzielnica](/zestaw/11388/), [21375 Godzilla](/zestaw/21375/) i [21065 Sagrada Família](/zestaw/21065/). To stan naszej wiedzy na dziś, a nie obietnica producenta: zestaw może dojść. Praktyczny wniosek jest jednak taki, że **w grudniu kupuje się to, co już jest w sprzedaży**, a czekanie na nową falę nie ma na czym się oprzeć.
+
+<h3 id="grudzien-po-swietach">Czego o styczniu nie wiemy</h3>
+
+Krąży opinia, że najgłębsze przeceny wycofywanych zestawów przychodzą dopiero po świętach. Możliwe, ale **nie mamy na to własnych danych** – notowania cen zbieramy od sierpnia 2026, więc nie widzieliśmy jeszcze ani jednego stycznia. Zamiast powtarzać cudzą obserwację, sprawdzimy to na własnych notowaniach i dopiszemy tu wynik. Do tego czasu zasada zostaje ostrożna: jeśli zestaw jest Ci potrzebny na święta, nie odkładaj zakupu w nadziei na styczniową przecenę.
+
+Jeśli szukasz konkretnych pomysłów na prezent, zajrzyj do naszych [prezentowników](/prezentowniki/).
 
 <h2 id="wydarzenia">Wydarzenia w salonach LEGO</h2>
 

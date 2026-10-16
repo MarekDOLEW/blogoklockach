@@ -118,12 +118,50 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-16 09:30 · CODE · Grudzień w kalendarzu promocji: z trzech zdań na pięć podsekcji
+
+Zamknięcie pozycji z dzisiejszego Radaru. Konkurencja opisała grudzień wcześniej niż my,
+ale **nie przepisałem ich tekstu** — cała sekcja stoi na naszych danych, i dlatego mówi
+częściowo co innego niż ich.
+
+**Co jest w sekcji, licząc od najmocniejszego:**
+- **323 zestawy kończą produkcję w grudniu, 314 potwierdzonych przez LEGO**, 9 to prognoza
+  rynku (`wycofania.json`, pole `kiedy: "grudzień 2026"`). Tabela pięciu największych:
+  75192 Sokół Millennium 3599,99, 75367 Venator 2799,99, 75397 Barka Jabby 2149,99,
+  42215 Volvo 1699,99, 10356 Enterprise 1649,99. Tej liczby nie ma u konkurencji, bo nikt
+  poza nami nie prowadzi takiej listy.
+- **Zero premier w grudniu** wobec sześciu w listopadzie (11388 Wenecja, 21375 Godzilla,
+  21065 Sagrada Família i trzy inne) — policzone z `sety.json`, z zastrzeżeniem, że to stan
+  naszej wiedzy, nie obietnica producenta.
+- **Trzecie okno punktowe jako prognoza z własnego zapisu**: Member Day 9.09 (jeden dzień,
+  bez zapowiedzi), Batman Day 9–19.09, okno 13–19.10. Dwie z trzech akcji LEGO ogłosiło
+  z dnia na dzień albo wcale, więc piszemy wprost, że planowanie pod konkretną datę nie ma
+  sensu. Plus arytmetyka: 5% zamówienia w punktach, przy 700 zł to jakieś 35 zł.
+- Terminy dostaw 18–19.12 — jedyna data w sekcji, która nie jest prognozą.
+
+**Dwie rzeczy, które napisałem inaczej niż konkurencja, i to celowo.**
+1. **Nie piszemy „ostatnia szansa"** na wycofywane zestawy. Koniec produkcji to data znikania
+   z LEGO.com, nie z rynku — sklepy zewnętrzne sprzedają zapasy tygodniami i czasem wtedy
+   schodzą najniżej. To ta sama zasada, którą `status.js` stosuje do plakietek EOL, więc
+   tekst i dane mówią teraz to samo. Wyjątek: ekskluzywy, gdzie po grudniu zostaje rynek wtórny.
+2. **Przecen po świętach NIE obiecujemy.** Konkurencja zapowiada „BARDZO solidne" styczniowe
+   przeceny EOL; możliwe, ale notowania zbieramy od sierpnia 2026 i nie widzieliśmy jeszcze
+   ani jednego stycznia. Zamiast powtarzać cudzą obserwację, sekcja mówi wprost, czego nie
+   wiemy, i obiecuje sprawdzić to na własnych danych. To jest pozycja na styczeń dla Kontrolera.
+
+Nie ruszyłem daty Weekendu Insiders (u nas 21–26.11, u nich 21–22.11) — powód w dzisiejszym
+wpisie RADAR. Build 10004 strony, wszystkie trzynaście linków z nowej sekcji sprawdzone
+w `dist/`. Nagłówek sekcji i wiersz w liście „co trwa teraz" zmienione, żeby niosły liczby,
+a nie slogan. `zaktualizowano` 13.10 → 16.10.
+
+
 ## 2026-10-16 08:20 · RADAR · Do zrobienia
 
 **fanklockow.pl · 15.10** — Wystawili prognozę Weekendu Insiders i Czarnego piątku 2026 sześć tygodni przed czasem, z zapowiedzią bieżących aktualizacji; obejmuje też grudzień (ostatnie okno podwójnych punktów, dwa świąteczne gratisy, mocne przeceny EOL po świętach).
 **Mamy?** — częściowo: `/kalendarz-promocji-lego/` ma listopad rozpisany w tabeli (21–26.11, 27.11, 30.11), ale sekcja grudnia to trzy zdania o terminach dostaw przed Wigilią — ani słowa o kolejnym oknie punktów i o przecenach po świętach.
 **Zrobić:** — uzupełnić sekcję `#grudzien` w `/kalendarz-promocji-lego/` o spodziewane okno podwójnych punktów i powyprzedażowe przeceny EOL, napisane **jako nasza prognoza z własnego wzorca 2026** (Member Day 09.09, okno 13–19.10), a nie jako przedruk ich tekstu.
 **Kto:** — Code (dane, strona)
+→ zamknięte 16.10: sekcja grudnia rozpisana na pięć podsekcji, w całości z naszych danych (323 wycofania, zero premier, trzy okna punktowe tego roku). Przecen po świętach NIE obiecujemy — nie mamy ani jednego stycznia w notowaniach.
 
 **faniklockow.pl · 15.10** — Ujawnili 11388 Wenecka dzielnica: 5682 elementy, 18 minifigurek, cena katalogowa 2149,99 zł, 48×63×31 cm.
 **Mamy?** — częściowo: zestaw wszedł dziś do `sety.json` (Scout 16.10, premiera 2026-11, 5682 elementy się zgadzają), ale `cena_katalogowa` jest pusta.
