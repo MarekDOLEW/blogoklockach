@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-11",
+  "zaktualizowano": "2026-10-16",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -437,7 +437,7 @@
    "elementy": 5682,
    "cena_wg_zrodla": 2110,
    "premiera_wg_zrodla": "2026-11",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Erste Infos zum LEGO Venedig (11388)?”",
@@ -453,12 +453,26 @@
      "nazwa": "PromoBricks — „Erweiterung für riesiges LEGO Venedig-Set: Venice Water Taxi”",
      "url": "https://www.promobricks.de/erweiterung-lego-venedig-set-40898/",
      "data": "2026-10-08"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z ceną w czterech rynkach i datą startu",
+     "url": "https://brickset.com/sets/11388-1",
+     "data": "2026-10-16"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Icons Venedig (11388) vorgestellt”",
+     "url": "https://www.stonewars.de/news/lego-icons-venedig-11388/",
+     "data": "2026-10-15"
     }
    ],
    "dodano": "2026-09-23",
-   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). DRUGIE ŹRÓDŁO 10.10.2026, ale pewność ZOSTAJE „srednia”. PromoBricks pisze o tym samym zestawie: Icons, 5682 elementy, 499,99 euro, początek listopada 2026, nazwa „LEGO Venice Neighborhood”. To doprecyzowuje liczbę elementów (StoneWars podawał „blisko 5700”) i po raz pierwszy daje cenę — 499,99 euro, czyli naszym mnożnikiem 4,22 około 2110 zł. Dlaczego nie „wysoka”: drabina wymaga, by dwa serwisy zgadzały się co do NUMERU i CENY, a tu każdy ma tylko połowę — StoneWars podał numer 11388 bez ceny, PromoBricks cenę bez numeru. Zgodność liczby elementów i terminu to dużo, ale nie to, czego wymaga reguła.",
-   "opis": "Duża diorama Icons z weneckimi kamienicami, roboczo nazywana „Venice Neighborhood”: według PromoBricks 5682 elementy, 499,99 euro (orientacyjnie ok. 2110 zł) i premiera na początku listopada 2026. Numer 11388 podaje tylko StoneWars, a cenę tylko PromoBricks – do wysokiej pewności brakuje, żeby oba serwisy zgodziły się co do jednego i drugiego. Za realnością zestawu przemawia gratis 40898 (taxi wodne), którego grafika wyciekła ze strony LEGO.",
-   "rozstrzygniecie": null
+   "uwagi": "Jedno źródło, w dodatku asekuracyjne — StoneWars sam stawia w tytule znak zapytania. Podaje blisko 5700 elementów i ponad 15 minifigurek na listopad. Karta 11388 w Brickset pusta. Pewność „niska”, bo poza samym numerem nie ma żadnego dowodu. PODNIESIENIE 06.10.2026: doszedł dowód po stronie producenta, choć pośredni. LEGO omyłkowo osadziło na stronie 67012 grafikę gratisu 40898, a ten gratis — wg StoneWars — jest dodatkiem właśnie do Wenecji; katalog Brickset daje 40898 launchDate 2026-11-01, czyli termin zgodny z listopadowym oknem z przecieku. Numeru 11388 nadal nie potwierdza nic poza StoneWars, więc nie „wysoka”: PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). DRUGIE ŹRÓDŁO 10.10.2026, ale pewność ZOSTAJE „srednia”. PromoBricks pisze o tym samym zestawie: Icons, 5682 elementy, 499,99 euro, początek listopada 2026, nazwa „LEGO Venice Neighborhood”. To doprecyzowuje liczbę elementów (StoneWars podawał „blisko 5700”) i po raz pierwszy daje cenę — 499,99 euro, czyli naszym mnożnikiem 4,22 około 2110 zł. Dlaczego nie „wysoka”: drabina wymaga, by dwa serwisy zgadzały się co do NUMERU i CENY, a tu każdy ma tylko połowę — StoneWars podał numer 11388 bez ceny, PromoBricks cenę bez numeru. Zgodność liczby elementów i terminu to dużo, ale nie to, czego wymaga reguła. ROZSTRZYGNIĘCIE 16.10.2026: karta 11388 ma ceny detaliczne w US, UK, CA i DE (499,99 euro) z dateFirstAvailable 2026-10-16, launchDate 2026-11-01, 5682 elementy, 18+, wymiary 52,3 x 48 x 21,8 cm i wagę 6,95 kg. Oficjalna nazwa to „Venetian Neighbourhood” (po niemiecku „Venezianisches Viertel”), więc nazwa z przecieku („Venice Neighborhood”) różni się tylko formą. Cena z PromoBricks — 499,99 euro — zgadza się co do centa, liczba elementów co do jednego, termin co do dnia. Jedyna niesprawdzona rzecz z przecieku to minifigurki: StoneWars pisał „ponad 15”, oficjalnie jest ich 17, czyli zgodnie. Pewność podniesiona do „wysoka” w chwili rozstrzygnięcia, bo dowodem jest już katalog producenta, nie serwisy.",
+   "opis": "Duża wenecka diorama Icons: 5682 elementy, 17 minifigurek i dwa modułowe budynki — kamienica i wieża zegarowa — na nabrzeżu z kanałem i gondolą. Oficjalna nazwa to „Venetian Neighbourhood”, premiera 1 listopada 2026 wyłącznie w sklepie LEGO, cena w Niemczech 499,99 euro. Przeciek trafił we wszystko: numer, liczbę elementów, cenę i termin; do premiery dołożony jest gratis 40898.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-16",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Zgodziło się wszystko: numer 11388, 5682 elementy co do jednego, cena 499,99 euro co do centa i listopadowy termin — oficjalnie 1 listopada 2026. Minifigurek jest 17, a źródło mówiło o „ponad 15”. Różni się tylko forma nazwy: oficjalnie „Venetian Neighbourhood”, w przecieku „Venice Neighborhood”."
+   }
   },
   {
    "id": "cutelings",
@@ -665,7 +679,7 @@
    "numer": "40898",
    "nazwa": "Weneckie wodne taxi (gratis do dużego zestawu)",
    "seria": "Icons",
-   "elementy": null,
+   "elementy": 322,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-11",
    "pewnosc": "wysoka",
@@ -679,12 +693,21 @@
      "nazwa": "PromoBricks — „Erweiterung für riesiges LEGO Venedig-Set: Venice Water Taxi”",
      "url": "https://www.promobricks.de/erweiterung-lego-venedig-set-40898/",
      "data": "2026-10-08"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu z nazwą, liczbą elementów i warunkiem gratisu",
+     "url": "https://brickset.com/sets/40898-1",
+     "data": "2026-10-16"
     }
    ],
    "dodano": "2026-10-06",
-   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). PODNIESIENIE 10.10.2026: doszło drugie, niezależne źródło branżowe. PromoBricks opisuje ten sam numer 40898 jako „LEGO Icons Venezianisches Wassertaxi” — czyli po raz pierwszy mamy nazwę, a nie tylko zdjęcie — i potwierdza mechanikę: gratis najpewniej wyłącznie przy zakupie dużego zestawu Icons, dwie minifigurki, z pozoru nieekskluzywne. Dodaje też, że obrazek wyciekł z własnego sklepu producenta i został szybko usunięty, ale trafił już do baz zestawów. Oba serwisy zgadzają się co do numeru i formy; ceny nie ma czego porównywać, bo to gratis, i właśnie dlatego zapisuję „wysoka” mimo że literalny warunek z drabiny mówi o zgodności numeru I ceny.",
-   "opis": "Gratis do dużej Wenecji (11388): taxi wodne z dwiema minifigurkami (turystka z aparatem i kapitan), dwoma gołębiami i kołem ratunkowym. Grafika wyciekła z samego LEGO – producent omyłkowo umieścił ją na stronie innego zestawu i szybko usunął. Numer i formę gratisu niezależnie potwierdzają StoneWars i PromoBricks, a katalog Brickset podaje start 1 listopada 2026. Ceny nie ma czego porównywać, bo to dodatek do zakupu; liczby elementów nikt nie zna, szacunki mówią o 200–300.",
-   "rozstrzygniecie": null
+   "uwagi": "Dowód niecodzienny: zdjęcie wyciekło z samego LEGO. Na stronie produktowej zestawu 67012 producent omyłkowo osadził plik „40898_Prod.png”, czyli grafikę nieujawnionego jeszcze zestawu. StoneWars opisuje z niego dwie minifigurki (turystka z aparatem i kapitan w łódce), dwa gołębie, koło ratunkowe i dużo elementów w kolorze dark orange na łódkę; liczby elementów nie zna, szacuje 200–300. Katalog Brickset potwierdza numer, wiek i termin: rekord 40898 ma availability „LEGO Gift with Purchase” i launchDate 2026-11-01, czyli dokładnie datę podawaną przez źródło, ale nie ma nazwy ani liczby elementów. Zestaw ma być gratisem do dużej Wenecji (11388). Pewność „srednia”: jedno źródło branżowe plus mocny dowód (materiał producenta), do „wysokiej” brakuje drugiego serwisu — PromoBricks o Wenecji nie pisze (sprawdzone w treści strony głównej 06.10.2026). PODNIESIENIE 10.10.2026: doszło drugie, niezależne źródło branżowe. PromoBricks opisuje ten sam numer 40898 jako „LEGO Icons Venezianisches Wassertaxi” — czyli po raz pierwszy mamy nazwę, a nie tylko zdjęcie — i potwierdza mechanikę: gratis najpewniej wyłącznie przy zakupie dużego zestawu Icons, dwie minifigurki, z pozoru nieekskluzywne. Dodaje też, że obrazek wyciekł z własnego sklepu producenta i został szybko usunięty, ale trafił już do baz zestawów. Oba serwisy zgadzają się co do numeru i formy; ceny nie ma czego porównywać, bo to gratis, i właśnie dlatego zapisuję „wysoka” mimo że literalny warunek z drabiny mówi o zgodności numeru I ceny. ROZSTRZYGNIĘCIE 16.10.2026: karta 40898 ma oficjalną nazwę „Venetian Water Taxi”, 322 elementy, 18+, wymiary 26,2 x 19,1 x 6,1 cm i notatkę producenta: „Free with qualifying purchases of 11388 Venetian Neighbourhood at LEGO.com, November 2026” — czyli dokładnie mechanika, którą opisywały oba serwisy. Liczba elementów wyszła poza szacunek StoneWars (200-300), ale był to jawnie podany szacunek, nie dana z przecieku, więc wynik zostaje „potwierdzony”.",
+   "opis": "Gratis do dużej Weneckiej dzielnicy (11388): łódź-taxi z 322 elementów, z turystką z aparatem i sternikiem, dwoma gołębiami i kołem ratunkowym. Wydawany tylko przy zakupie tego jednego zestawu w sklepie LEGO w listopadzie 2026, bez własnej ceny katalogowej. Przeciek oparty był na grafice, którą LEGO omyłkowo umieściło na stronie innego zestawu; katalog producenta potwierdził numer, nazwę, termin i warunek akcji.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-16",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, forma gratisu i termin zgodne — oficjalnie zestaw nazywa się „Venetian Water Taxi” i jest wydawany przy zakupie 11388 w listopadzie 2026. Elementów jest 322; źródło nie znało tej liczby i szacowało 200–300."
+   }
   },
   {
    "id": "11399",

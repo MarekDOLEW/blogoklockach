@@ -118,6 +118,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-16 05:25 · SCOUT · Do zrobienia
+
+**LEGO pokazało 11388 Wenecką dzielnicę: 5682 elementy, 17 minifigurek, 499,99 euro, premiera 1 listopada 2026 wyłącznie w sklepie LEGO, z gratisem 40898 — to jeden z pięciu największych zestawów rocznika i pierwszy z nowym elementem drukowanym 3D (pianino z mechanizmem muzycznym).**
+**Mamy?** — częściowo: hub `/zestaw/11388/` stoi z pełnym opisem, ale bez polskiej ceny katalogowej i bez tekstu w dziale Artykuły
+**Zrobić:** — tekst premierowy o 11388 (kategoria Premiery): mechanika gratisu 40898 tylko do 11388 w listopadzie, dwa układy ekspozycji, pianino z druku 3D jako czwarty taki element u LEGO
+**Kto:** — Piotr (tekst)
+
+**Polskiej ceny katalogowej 11388 nie ma — LEGO podało na razie tylko rynki zagraniczne (499,99 euro, 549,99 dolara, 449,99 funta, 779,99 dolara kanadyjskiego).**
+**Mamy?** — częściowo: hub działa, w polu ceny pustka, więc nie liczymy progu zakupu ani ceny za element w złotych
+**Zrobić:** — po 1 listopada zaciągnąć cenę z listingu lego.pl do `sety.json` (zestaw wchodzi tylko do sklepu LEGO, więc feedy sklepów go nie przyniosą)
+**Kto:** — Code (dane)
+
 ## 2026-10-15 09:00 · CODE · 40824: 69,99 zł było ceną z kodem, który wygasł 14.10
 
 - Marek: na stronie 69,99, w Media Expert 99,99. Karta ME (Firecrawl): 69,99 to „cena z kodem MEDAYS-10, obowiązuje do 14.10.2026 23:59”; dziś karta na żywo `product:price:amount` 99,99, bez kodu. Kodu MEDAYS-10 nie było w `kody_rabatowe.json` (ostatni zrzut `me-kody.mjs` 10.10), więc strona pokazywała cenę z kodem jak zwykłą.

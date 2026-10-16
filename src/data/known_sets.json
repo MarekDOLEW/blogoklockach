@@ -1,7 +1,7 @@
 {
-  "data_aktualizacji": "2026-10-15",
+  "data_aktualizacji": "2026-10-16",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 1203,
+  "liczba_setow": 1205,
   "sety": [
     "10280",
     "10281",
@@ -1205,7 +1205,9 @@
     "76300",
     "76437",
     "76457",
-    "76968"
+    "76968",
+    "11388",
+    "40898"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -6460,5 +6462,12 @@
     "serwisy": "Bez nowosci. PromoBricks: naklejki Ninjago z albumem (towar, nie zestaw), komplet czterech kamieni kolekcjonerskich z LEGOLAND (filtr), rabat w Galerii, tekst o Astro Bocie powyzej, podcast i katalog. StoneWars: darmowa instrukcja do MOC-a z droidem-krabem, nabor na Inside Tour 2027 do 16.10, podcast i wyprzedaze — zadnego nowego zestawu.",
     "luki_katalogu": "KOREKTA WLASNEJ LICZBY: opisane bez ceny katalogowej to 8, nie 17, jak raportowalem 12-14.10. Liczylem pomijajac tylko bez_rrp z sety.json, a prompt mowi wyraznie 'sety.json ALBO katalog.json'. Po stronie katalogu bez_rrp maja 11501, 30714, 30715, 30722, 30723, 30724, 30728, 30735 i 40902 — dziewiec pozycji, ktore przez trzy przebiegi niepotrzebnie liczylem jako luke. Zostaje osiem realnych: 21375, 40890, 40910, 40912, 66813, 67006, 71873, 77094. Rocznik 2026 w sprzedazy bez wpisu: 17 (bez zmian). Cala kolejka redakcyjna: 176, czyli o 9 mniej niz 12.10 — dokladnie te duze zestawy, ktore Code dolozyl do sety.json.",
     "dociagniecie_rejestru": "Rejestr rozjechal sie z sety.json: sesja Code dolozyla 18 duzych zestawow (commit 52e1586, lista Radaru z 10.10 o zestawach powyzej 1000 zl bez wpisu) i nie dopisala ich tutaj. Dociagniete: 10294, 10307, 10326, 21063, 21353, 21359, 21363, 41843, 43263, 71043, 75192, 75419, 75640, 76269, 76300, 76437, 76457, 76968. liczba_setow 1185 -> 1203. Zadnego z nich nie zglaszam jako nowosc — to roczniki 2017-2025 dolozone redakcyjnie, nie premiery."
+  },
+  "przeglad_2026_10_16": {
+    "nowosci": "Dwie, obie z rozstrzygnietych przeciekow o Wenecji. 11388 Wenecka dzielnica: 5682 elementy, 17 minifigurek, 18+, premiera 1 listopada 2026, w Niemczech 499,99 euro (US 549,99, UK 449,99, CA 779,99) — ceny weszly do katalogu 16.10 z dateFirstAvailable tego samego dnia, czyli karty produktowe sa zywe. 40898 Weneckie taxi wodne: 322 elementy, 18+, gratis przy zakupie 11388 w listopadzie 2026 (notatka w karcie: 'Free with qualifying purchases of 11388 ... at LEGO.com, November 2026'). Polskiej ceny katalogowej 11388 jeszcze nie ma, 40898 jako gratis dostal bez_rrp.",
+    "przecieki_rozstrzygniete": "Oba wpisy zamkniete jako potwierdzone. 11388: numer, 5682 elementy co do jednego, 499,99 euro co do centa i termin co do dnia — trafione wszystko, nazwa tylko w innej formie ('Venetian Neighbourhood' wobec 'Venice Neighborhood'). Minifigurki: zrodlo mowilo 'ponad 15', oficjalnie 17. Pewnosc podniesiona z 'srednia' na 'wysoka' w chwili rozstrzygniecia. 40898: numer, nazwa, termin i mechanika gratisu zgodne; liczba elementow (322) wyszla poza szacunek 200-300, ale byl to jawny szacunek serwisu, nie dana z przecieku. Tablica trafnosci: 10 rozstrzygniec, 9 potwierdzonych i 1 zmieniony.",
+    "szczegoly_11388": "Z oficjalnej prezentacji (StoneWars 15.10): dwa modulowe budynki — kamienica z lokalem i wieza zegarowa — dwa uklady ekspozycji (63 cm albo wezszy, w obu 48 cm wysokosci), cztery golebie, dwoch gondolierow i dwie postacie w strojach karnawalowych, kolorowe pale cumownicze. Nowy element drukowany 3D: pianino z prostym mechanizmem muzycznym — wczesniej druk 3D pojawil sie u LEGO tylko kilka razy. Przedsprzedaz Insiders od 1 listopada, dla wszystkich od 4 listopada; EOL 31.12.2028. Zestaw ekskluzywny dla sklepu LEGO (w katalogu tag D2C).",
+    "dociagniecie_rejestru": "Dopisane 11388 i 40898, liczba_setow 1203 -> 1205.",
+    "serwisy": "Poza Wenecja nic nowego. PromoBricks: strefa LEGO na targach SPIEL w Essen, naklejki Ninjago, kamienie z LEGOLAND, rabat w Galerii, podcast. StoneWars: instrukcja do MOC-a, nabor na Inside Tour do 16.10, podcast, wyprzedaze. Szum z okna przyrostowego: trzy plecaki i etui Herschel (Gear/Bags) oraz L0002208 Arin (dodatek do czasopisma, 6 elementow)."
   }
 }
