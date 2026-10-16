@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-10-15
+# Kolejka „Poproś o zindeksowanie" — 2026-10-16
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
@@ -13,21 +13,21 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-star-wars/ — Discovered - currently not indexed
-2. https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/ — Discovered - currently not indexed
-3. https://tylkoklocki.pl/prezentowniki/lego-batman/ — URL is unknown to Google
-4. https://tylkoklocki.pl/prezentowniki/lego-star-wars/ — URL is unknown to Google
-5. https://tylkoklocki.pl/serie/archiwalne/ — Discovered - currently not indexed
-6. https://tylkoklocki.pl/serie/archiwum/ — Discovered - currently not indexed
-7. https://tylkoklocki.pl/serie/art/ — URL is unknown to Google
-8. https://tylkoklocki.pl/serie/bionicle/ — Discovered - currently not indexed
-9. https://tylkoklocki.pl/serie/botanicals/ — URL is unknown to Google
-10. https://tylkoklocki.pl/serie/bricklink-designer-program/ — Discovered - currently not indexed
+1. https://tylkoklocki.pl/serie/castle/ — Discovered - currently not indexed
+2. https://tylkoklocki.pl/serie/creator/ — URL is unknown to Google
+3. https://tylkoklocki.pl/serie/dc/ — URL is unknown to Google
+4. https://tylkoklocki.pl/serie/dimensions/ — Discovered - currently not indexed
+5. https://tylkoklocki.pl/serie/disney/ — URL is unknown to Google
+6. https://tylkoklocki.pl/serie/dots/ — URL is unknown to Google
+7. https://tylkoklocki.pl/serie/duplo/ — URL is unknown to Google
+8. https://tylkoklocki.pl/serie/editions/ — URL is unknown to Google
+9. https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/ — Discovered - currently not indexed
+10. https://tylkoklocki.pl/serie/elves/ — Discovered - currently not indexed
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 75.
-- Submitted and indexed: 61
+Sprawdzone dziś w API: 80.
+- Submitted and indexed: 66
 - Crawled - currently not indexed: 4
-- Discovered - currently not indexed: 6
-- URL is unknown to Google: 4
+- Discovered - currently not indexed: 4
+- URL is unknown to Google: 6

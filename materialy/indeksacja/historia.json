@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-14"
+  "zaktualizowano": "2026-10-16"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -27,6 +27,18 @@
    "https://tylkoklocki.pl/serie/bionicle/",
    "https://tylkoklocki.pl/serie/botanicals/",
    "https://tylkoklocki.pl/serie/bricklink-designer-program/"
+  ],
+  "2026-10-16": [
+   "https://tylkoklocki.pl/serie/castle/",
+   "https://tylkoklocki.pl/serie/creator/",
+   "https://tylkoklocki.pl/serie/dc/",
+   "https://tylkoklocki.pl/serie/dimensions/",
+   "https://tylkoklocki.pl/serie/disney/",
+   "https://tylkoklocki.pl/serie/dots/",
+   "https://tylkoklocki.pl/serie/duplo/",
+   "https://tylkoklocki.pl/serie/editions/",
+   "https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/",
+   "https://tylkoklocki.pl/serie/elves/"
   ]
  }
 }
