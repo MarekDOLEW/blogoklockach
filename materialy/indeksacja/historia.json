@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-16"
+  "zaktualizowano": "2026-10-17"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -39,6 +39,15 @@
    "https://tylkoklocki.pl/serie/editions/",
    "https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/",
    "https://tylkoklocki.pl/serie/elves/"
+  ],
+  "2026-10-17": [
+   "https://tylkoklocki.pl/artykuly/lego-11388-wenecka-okolica-premiera/",
+   "https://tylkoklocki.pl/artykuly/lego-11505-grzyby-lesne-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-60447-gorska-terenowka-4x4-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/",
+   "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/",
+   "https://tylkoklocki.pl/artykuly/slowniczek-lego/",
+   "https://tylkoklocki.pl/prezentowniki/lego-minecraft/"
   ]
  }
 }

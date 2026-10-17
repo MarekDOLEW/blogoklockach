@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-10-16
+# Kolejka „Poproś o zindeksowanie" — 2026-10-17
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
@@ -13,21 +13,17 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/serie/castle/ — Discovered - currently not indexed
-2. https://tylkoklocki.pl/serie/creator/ — URL is unknown to Google
-3. https://tylkoklocki.pl/serie/dc/ — URL is unknown to Google
-4. https://tylkoklocki.pl/serie/dimensions/ — Discovered - currently not indexed
-5. https://tylkoklocki.pl/serie/disney/ — URL is unknown to Google
-6. https://tylkoklocki.pl/serie/dots/ — URL is unknown to Google
-7. https://tylkoklocki.pl/serie/duplo/ — URL is unknown to Google
-8. https://tylkoklocki.pl/serie/editions/ — URL is unknown to Google
-9. https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/ — Discovered - currently not indexed
-10. https://tylkoklocki.pl/serie/elves/ — Discovered - currently not indexed
+1. https://tylkoklocki.pl/artykuly/lego-11388-wenecka-okolica-premiera/ — URL is unknown to Google
+2. https://tylkoklocki.pl/artykuly/lego-11505-grzyby-lesne-recenzja/ — URL is unknown to Google
+3. https://tylkoklocki.pl/artykuly/lego-60447-gorska-terenowka-4x4-recenzja/ — URL is unknown to Google
+4. https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/ — Crawled - currently not indexed, crawl 2026-08-31
+5. https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/ — Crawled - currently not indexed, crawl 2026-09-22
+6. https://tylkoklocki.pl/artykuly/slowniczek-lego/ — Crawled - currently not indexed, crawl 2026-09-22
+7. https://tylkoklocki.pl/prezentowniki/lego-minecraft/ — Crawled - currently not indexed, crawl 2026-09-11
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 80.
-- Submitted and indexed: 66
+Sprawdzone dziś w API: 60.
+- Submitted and indexed: 53
+- URL is unknown to Google: 3
 - Crawled - currently not indexed: 4
-- Discovered - currently not indexed: 4
-- URL is unknown to Google: 6
