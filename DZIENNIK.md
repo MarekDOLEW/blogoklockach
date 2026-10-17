@@ -118,6 +118,31 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-17 · RADAR · Smyk „kup 2, −15%”, karty 11388/40898 u zklockow
+
+- **Smyk: rabat przy dwóch sztukach.** faniklockow opisali, my sprawdziliśmy u źródła
+  (`smyk.com/pl/pl/promocje/uciekajace-rabaty/15.html`): „Kup min. 2 produkty i zyskaj rabat
+  −15%”, nalicza się automatycznie w koszyku, 6462 produkty, LEGO objęte, **bez daty końca**.
+  U nas ceny Smyku to ceny za sztukę i tabela nic o tym nie mówi — przy 10375, 60495 i 76317
+  Smyk jest naszym najtańszym sklepem, więc realna cena zakupu jest niższa, niż pokazujemy.
+  **Do zrobienia (Code):** dopisać `smyk` do `UWAGA_SKLEP` w `src/components/TabelaCen.astro`
+  (mechanizm działa już dla Media Expertu i Planety Klocków), sformułowane jako stała tendencja
+  sklepu, bo terminu końca akcji Smyk nie podaje. Ich cen jednostkowych nie przepisujemy —
+  nie zgadzają się z płaskim −15% od naszych cen bazowych.
+- **11388: potwierdzenie, nie luka.** zklockow wystawił kartę 15.10 (2 149,99 zł, 5682 elementy,
+  17 minifigurek, EAN 5702018069868) — co do grosza jak nasz `sety.json` i `rrp_potwierdzone.json`.
+  Otwarte pytanie z dziennika („potwierdzić 2149,99 drugim źródłem”) **zamknięte**.
+- **Dwie rzeczy do decyzji Marka.** (a) zklockow podaje dla 40898 cenę katalogową **124,99 zł**;
+  u nas `null` po decyzji z 15.10, że gratis bez polskiej wyceny ma w hubie kreskę. 29,99 EUR ≈ 128 zł,
+  więc liczba jest spójna — pytanie brzmi, czy kreskę zostawiamy. (b) **lego.com/pl-pl sprawdzone
+  bezpośrednio dzisiaj**: 11388 to „Wkrótce dostępne (4 listopada 2026)”, 2149,99 zł. Nasz tekst
+  premierowy mówi, że gratis 40898 jest **1–8 listopada** (za StoneWars), a zestawu, od którego
+  gratis zależy, nie da się kupić przed 4.11. Albo okno w PL to faktycznie 4–8.11, albo StoneWars
+  podał datę globalną. Nie poprawiam tego sam — tekst jest opublikowany.
+- Pomyłka warta zapisania: zacząłem od „nie mamy 11388 w katalogu”, bo szukałem w `katalog.json`
+  (plik z listingu lego.com). Rejestrem zestawów jest `sety.json`. Luki w danych sprawdzamy tam.
+
+
 ## 2026-10-16 · CODE · Premiera Piotra: 11388 Wenecka okolica
 
 - `/artykuly/lego-11388-wenecka-okolica-premiera/` — tekst Piotra bez zmian (w DOCX śródtytuły były zwykłymi akapitami — zamienione na nagłówki), FAQ, linki do Icons, 21359 i 40898, tabela cen, 8 zdjęć. Galeria 11388 (9 zdjęć z lego.com) w `galerie.json` i R2.
