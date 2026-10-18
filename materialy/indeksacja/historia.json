@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-17"
+  "zaktualizowano": "2026-10-18"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -48,6 +48,18 @@
    "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/",
    "https://tylkoklocki.pl/artykuly/slowniczek-lego/",
    "https://tylkoklocki.pl/prezentowniki/lego-minecraft/"
+  ],
+  "2026-10-18": [
+   "https://tylkoklocki.pl/serie/gadzety/",
+   "https://tylkoklocki.pl/serie/hero-factory/",
+   "https://tylkoklocki.pl/serie/hidden-side/",
+   "https://tylkoklocki.pl/serie/juniors/",
+   "https://tylkoklocki.pl/serie/legends-of-chima/",
+   "https://tylkoklocki.pl/serie/mixels/",
+   "https://tylkoklocki.pl/serie/monkie-kid/",
+   "https://tylkoklocki.pl/serie/nexo-knights/",
+   "https://tylkoklocki.pl/serie/ninjago/",
+   "https://tylkoklocki.pl/serie/pirates/"
   ]
  }
 }
