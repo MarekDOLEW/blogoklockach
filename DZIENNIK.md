@@ -125,6 +125,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-18 · CODE · Łowca wgrywa zdjęcia do R2
+
+Od przebiegu 19.10 Łowca po pushu uruchamia `r2-obrazy.mjs` i `warianty-obrazow.mjs --limit 200`
+(decyzja Marka: zdjęcia u nas, nie ze sklepów). Trigger `trig_019xWfJ67XhPdnX6GknSYrb3`,
+stary usunięty. Szczegóły: `materialy/zadania-cykliczne.md`, historia 18.10.
+
 ## 2026-10-18 · CODE · Przegląd zdjęć: zaślepki na listingach (30713 i 52 inne)
 
 - Marek: 30713 ma zdjęcie na hubie, a na stronie głównej klocek-zaślepkę. Przyczyna: `zdjecieSetu()` wołane z samym `sety` (strona główna, `/promocje-lego/`, `/nowosci/<miesiąc>/`, `KartaOferty` w artykule wrześniowym) pomijało feed sklepów. Feed jest teraz domyślnym źródłem w `src/lib/media.js` (`8ce0935`).

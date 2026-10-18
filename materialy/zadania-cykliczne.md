@@ -346,6 +346,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**18.10.2026 (Łowca: zdjęcia do R2 zaraz po pushu)**
+- Decyzja Marka: wszystkie zdjęcia mają leżeć u nas, nie być dociągane ze sklepów przy pierwszym
+  wejściu. Nowy krok 3a: po udanym pushu `node scripts/r2-obrazy.mjs` i
+  `node scripts/warianty-obrazow.mjs --limit 200`; błąd nie cofa pushu, idzie do „Kto co robi”
+  dla Code. W podsumowaniu linijka „zdjęcia do R2 (brakowało / wgrano / błędy)”.
+  Nowy trigger `trig_019xWfJ67XhPdnX6GknSYrb3` (ta sama sesja i cron), stary
+  `trig_01KHBUideLACkVa8BiJStU56` usunięty. Routine „Zdjęcia → R2” zostaje jako siatka.
+
 **14.10.2026 (nowy runner: Kolejka indeksacji 01:57)**
 - Decyzja Marka: osobny runner, w nocy. Stała sesja `session_01XfrPhwbD2bhMwybCoUdATy`
   (Sonnet 5.5, repo z pushem), trigger `trig_01Gh6Payj9QVGDkrKXNzkbCX`, cron
@@ -368,7 +376,7 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   (create w tej samej stałej sesji → diff promptu z plikiem wzorcowym: identyczne → delete starego):
   Scout `trig_01GfdrWd8KXgZnwExzqVB1hY`, Wycofania `trig_018T3NrpmpZTRLX7s942gD6q`,
   Dane wt `trig_01AL1JmnJTMZeWaG6Vs1n4MU` (krok 6: wszystkie feedy TD, w tym MediaMarkt),
-  Łowca `trig_01KHBUideLACkVa8BiJStU56`, Kontroler `trig_01KB8XkPcHyvc5kCRKEKYjri`
+  Łowca `trig_01KHBUideLACkVa8BiJStU56` (od 18.10: `trig_019xWfJ67XhPdnX6GknSYrb3`), Kontroler `trig_01KB8XkPcHyvc5kCRKEKYjri`
   (zbiera wpisy „<RUNNER> · Do zrobienia” wszystkich runnerów). Radar bez zmian.
 - Skasowane: `trig_013FFv1Aaj5gsCrAn27emwih`, `trig_01QsGEmz7z2pnBgyKH3Nxy9N`, `trig_01PwyDWKRCLydgDxAH8eRzzR`,
   `trig_01WCvLUvL5u2kNKc5GVR7xhj`, `trig_01XGtqSHKVQ9cL2uERVx3Gmi`.
