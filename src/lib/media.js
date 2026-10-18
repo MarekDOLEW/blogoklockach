@@ -10,6 +10,7 @@
 // pisanych ręcznie.
 
 import zdjeciaMapa from '../data/zdjecia.json';
+import ofertyFeed from '../data/oferty_feed.json';
 import opisyMapa from '../data/opisy.json';
 import wycofaniaDane from '../data/wycofania.json';
 import { wpisKatalogu } from './katalog.js';
@@ -29,7 +30,13 @@ const wycofaniaFoto = new Map(
 // wzorca dostałby 404, więc wtedy null i zastępczy klocek zamiast zepsutego obrazka.
 const KLUCZ_WORKERA = /^[A-Za-z0-9]{1,24}(?:-[0-9]{1,2})?$/;
 
-export function zdjecieSetu(nr, { sety = {}, feed = {} } = {}) {
+// Feed sklepów jest domyślnym źródłem (od 18.10.2026): strona główna, /promocje-lego/,
+// /nowosci/<miesiąc>/ i karty ofert wołały tę funkcję z samym `sety`, więc zestaw,
+// którego jedyne zdjęcie pochodzi z feedu (np. 30713 z Planety Klocków), miał zdjęcie
+// na hubie, a na listingach zaślepkę z klockiem.
+const FEED_DOMYSLNY = ofertyFeed.sety ?? {};
+
+export function zdjecieSetu(nr, { sety = {}, feed = FEED_DOMYSLNY } = {}) {
   const klucz = String(nr);
   if (!KLUCZ_WORKERA.test(klucz)) return null;
 
