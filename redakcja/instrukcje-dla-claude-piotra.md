@@ -91,6 +91,9 @@ Dalej zwykły markdown. Elementy specjalne serwisu:
 
 Artykuł pojawia się automatycznie na liście `/artykuly/` po deployu.
 
+Serwis nie działa na WordPressie ani innym CMS-ie. Co z pliku Word przechodzi
+przez import, a co ginie, opisuje `redakcja/format-tekstow.md` (18.10.2026).
+
 ## Czego NIE ruszać (obszar Marka)
 
 - `src/data/*.json` (poza dopisaniem karty researchu w `redakcja/karty/`) —
