@@ -100,6 +100,13 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
   ~850 k, zakładamy nową sesję tym samym sposobem (`create_session` + nowy
   trigger, stary skasować) — reguły runnera muszą być w prompcie i skryptach,
   nigdy w pamięci sesji.
+- **Gratis bez oficjalnej polskiej ceny katalogowej ma w hubie kreskę** (Marek,
+  15.10.2026, potwierdzone 18.10.2026). Dotyczy zestawów GWP z `bez_rrp` — dziś 40898
+  i sześć innych (40896, 40897, 40899, 40900, 40902, 40916). Wycena podana przez LEGO
+  w euro idzie do treści dla czytelnika, nie do `cena_katalogowa`. Cena z porównywarki
+  **nie jest źródłem** ceny katalogowej: 18.10 zklockow podał dla 40898 124,99 zł
+  (29,99 EUR ≈ 128 zł, więc liczba jest spójna) i to nie wystarczyło — pytanie wróci
+  przy każdym kolejnym gratisie i odpowiedź jest ta sama.
 - **Oferta poniżej 50% potwierdzonej ceny katalogowej wymaga sprawdzenia przez
   człowieka** (Marek, 16.09.2026). Sito `filtrujOferty()` ukrywa ją na stronie;
   rano przychodzi mail z linkami (`podejrzany-rynek-mail.mjs`, klucz `podejrzane`,
@@ -149,6 +156,9 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   premierowy mówi, że gratis 40898 jest **1–8 listopada** (za StoneWars), a zestawu, od którego
   gratis zależy, nie da się kupić przed 4.11. Albo okno w PL to faktycznie 4–8.11, albo StoneWars
   podał datę globalną. Nie poprawiam tego sam — tekst jest opublikowany.
+  → zamknięte 18.10.2026 (a): Marek — „zostaw kreskę przy 40898". Danych nie ruszam,
+  `cena_katalogowa` zostaje `null`, reguła awansowana do „Ustaleń trwałych". Punkt (b)
+  o oknie gratisu **zostaje otwarty**.
 - Pomyłka warta zapisania: zacząłem od „nie mamy 11388 w katalogu”, bo szukałem w `katalog.json`
   (plik z listingu lego.com). Rejestrem zestawów jest `sety.json`. Luki w danych sprawdzamy tam.
 
