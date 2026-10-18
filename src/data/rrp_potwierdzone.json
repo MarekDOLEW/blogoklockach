@@ -4921,5 +4921,15 @@
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
     "zaktualizowano": "2026-10-14"
+  },
+  "42670": {
+    "cena": 729.99,
+    "zrodlo": "zklockow.pl + promoklocki.pl (zgodne z kartą Piotra; katalog.json miał błędną cenę)",
+    "data": "18.10.2026"
+  },
+  "60473": {
+    "cena": 869.99,
+    "zrodlo": "zklockow.pl + promoklocki.pl (zgodne z kartą Piotra; katalog.json miał błędną cenę)",
+    "data": "18.10.2026"
   }
 }

@@ -88,7 +88,8 @@ def parsuj(path):
                       else 'faq' if ('FAQ' in t or 'pytania' in t.lower()) else 'inne')
             continue
         if sekcja is None:
-            m = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,5})(?:\s|$)', t)
+            # 6–7 cyfr: BrickLink Designer Program (910xxx), LEGO House/ekskluzywy (5009325) – partie 05–07, 18.10.2026
+            m = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,7})(?:\s|$)', t)
             if m and not d['nr']: d['nr'] = m.group(1); continue
             if d['nr']: d['akapity'].append(t)   # P07c: opis bez nagłówka, zaraz pod tytułem
         elif sekcja == 'opis': d['akapity'].append(t)
@@ -333,14 +334,18 @@ def main():
         if seria_repo not in ctx['kat']:
             ostrz.append((nr, f'seria „{seria_pelna}” nieznana w katalog.json – linki /serie/{slug}/ mogą prowadzić w próżnię'))
         # RRP – bramka twarda
-        mc = re.search(r'([\d\s]+,\d{2})\s*zł', m.get('Polska cena katalogowa RRP', '') or m.get('Cena / sposób uzyskania', ''))
+        # partie 05–07 (18.10.2026) nazywają pola „Cena katalogowa w Polsce” / „Sposób uzyskania”
+        # i „Elementy” – bez tych nazw bramka RRP i kontrola elementów milczały
+        pole_rrp = next((m[kl] for kl in ('Polska cena katalogowa RRP', 'Cena katalogowa w Polsce',
+                                          'Cena / sposób uzyskania', 'Sposób uzyskania') if m.get(kl)), '')
+        mc = re.search(r'([\d\s]+,\d{2})\s*zł', typografia(pole_rrp))
         rrp_p = float(mc.group(1).replace(' ', '').replace(',', '.')) if mc else None
         rrp_my = ctx['rrp'](nr)
         if rrp_p and rrp_my and abs(rrp_p - rrp_my) > 0.01:
             blokady.append((nr, f'RRP: Piotr {rrp_p} vs my {rrp_my} – rozstrzygnij przed importem')); continue
         # miękkie ostrzeżenia
         k = ctx['wKat'].get(nr); s = ctx['sety'].get(nr)
-        el = int(m.get('Liczba elementów', '0').replace(' ', '') or 0)
+        el = int(re.sub(r'\D', '', m.get('Liczba elementów') or m.get('Elementy') or '0') or 0)
         if k and k.get('elementy') and el and k['elementy'] != el:
             ostrz.append((nr, f'elementy: Piotr {el} vs katalog {k["elementy"]} – sprawdź Brickset'))
         if not ctx['ma_hub'](nr): ostrz.append((nr, 'BRAK HUBA /zestaw/ – karta nie będzie widoczna'))
@@ -351,13 +356,15 @@ def main():
         if nazwa.replace("'", '’') != m['Nazwa'].replace("'", '’').replace('™', '').strip():
             ostrz.append((nr, f'nazwa: Piotr „{m["Nazwa"]}” → kanoniczna „{nazwa}”'))
         m['Nazwa'] = nazwa
-        # Liczba elementów: repo (katalog + Brickset) rozstrzyga nad DOCX-em,
-        # inaczej metryka karty przeczyłaby danym huba nad nią.
-        if k and k.get('elementy') and el and k['elementy'] != el:
-            m['Liczba elementów'] = str(k['elementy'])
         # 445 wcześniejszych kart zapisuje liczbę elementów bez separatora
         # tysięcy („1313”); paczka P07 wstawia spację. Ujednolicamy do formatu
         # rejestru, żeby metryka wyglądała tak samo na wszystkich stronach.
+        # Liczba elementów: repo (katalog + Brickset) rozstrzyga nad DOCX-em,
+        # inaczej metryka karty przeczyłaby danym huba nad nią.
+        if 'Elementy' in m and 'Liczba elementów' not in m:
+            m = collections.OrderedDict(('Liczba elementów' if kl == 'Elementy' else kl, w) for kl, w in m.items())
+        if k and k.get('elementy') and el and k['elementy'] != el:
+            m['Liczba elementów'] = str(k['elementy'])
         if m.get('Liczba elementów'):
             m['Liczba elementów'] = re.sub(r'[\s\u00a0]', '', m['Liczba elementów'])
         log = []
@@ -372,7 +379,9 @@ def main():
         if potrzeba:
             ak += akapity_redakcyjne(nr, seria_repo, el, rrp_p, ctx)[:potrzeba]
         nowe[nr] = collections.OrderedDict([
-            ('seria', seria_repo), ('nazwa', nazwa), ('elementy', el),
+            # metryka bez pola „Seria” (partie 05–07: ekskluzywy, archiwum) – seria z katalogu;
+            # linki w tekście i tak idą wtedy na /serie/, bo seria_ma_strone liczy się z metryki
+            ('seria', seria_repo or (k or {}).get('seriaKat', '')), ('nazwa', nazwa), ('elementy', el),
             ('akapity', ak), ('metryka', m), ('faq', faq)])
 
     print(f'\nRAPORT – do wgrania: {len(nowe)}, zablokowane: {len(blokady)}, ostrzeżeń: {len(ostrz)}')

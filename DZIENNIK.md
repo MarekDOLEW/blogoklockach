@@ -125,6 +125,24 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-18 · CODE · Do zrobienia
+
+**Karty P07 partie 05–07: 7 kart z jednym akapitem opisu zostaje bez indeksacji (40756, 40794, 42651, 60449, 60474, 72033, 75406)**
+**Mamy?** — częściowo: karty są na hubach, ale reguła indeksacji wymaga ≥2 akapitów opisu
+**Zrobić:** — dopisać drugi akapit opisu w tych 7 plikach i przysłać je ponownie (import z `--nadpisz`)
+**Kto:** — Piotr (tekst)
+
+## 2026-10-18 · CODE · Karty P07 Piotra: partie 05, 06, 07 (75 nowych kart) wgrane
+
+**Zrobione:** karty_setow 1199 → 1274, 68 z 75 hubów indeksowalnych po buildzie. `import-karty.py` dostał
+trzy poprawki pod nowy szablon: numery 6–7-cyfrowe (BrickLink 910xxx, 5009325), pola „Elementy” /
+„Cena katalogowa w Polsce” / „Sposób uzyskania” (bez nich bramka RRP milczała — po poprawce złapała
+42670 i 60473; zklockow.pl i promoklocki.pl potwierdzają ceny Piotra 729,99 i 869,99, dopisane do
+`rrp_potwierdzone.json`, katalog miał błąd) oraz serię z katalogu, gdy metryka nie ma pola „Seria”.
+Starsze karty z polem „Cena katalogowa w Polsce” sprawdzone wstecz: 0 rozjazdów RRP. Elementy: 8 różnic
+1–11 szt., rozstrzyga katalog. Nazwy zostają kanoniczne.
+**Stan:** na main.
+
 ## 2026-10-18 · CODE · Łowca wgrywa zdjęcia do R2
 
 Od przebiegu 19.10 Łowca po pushu uruchamia `r2-obrazy.mjs` i `warianty-obrazow.mjs --limit 200`
