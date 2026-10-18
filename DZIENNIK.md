@@ -118,6 +118,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-18 · CODE · Adnotacja o Smyku w tabeli cen (zamknięcie pozycji z Radaru 17.10)
+
+- `src/components/TabelaCen.astro` — `smyk` dopisany do `UWAGA_SKLEP`: „sklep prowadzi
+  akcje na drugi zestaw (np. −15% przy dwóch) – w koszyku może być taniej”. Sformułowane
+  jako stała tendencja sklepu, bo Smyk nie podaje daty końca akcji.
+- Widoczne na 661 hubach — wszędzie, gdzie mamy ofertę Smyku. Build przeszedł (10007 stron).
+- Pozycja z Radaru 17.10 („Zrobić: dopisać smyk do UWAGA_SKLEP”, Kto: Code) **zamknięta**.
+  Otwarte zostają dwie decyzje Marka z tego samego wpisu: cena katalogowa 40898 i okno
+  gratisu 1–8.11 wobec „Wkrótce dostępne (4 listopada 2026)” na lego.com/pl-pl.
+
 ## 2026-10-17 · RADAR · Smyk „kup 2, −15%”, karty 11388/40898 u zklockow
 
 - **Smyk: rabat przy dwóch sztukach.** faniklockow opisali, my sprawdziliśmy u źródła
