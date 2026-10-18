@@ -34,8 +34,8 @@ const strony = Object.values(import.meta.glob('./*.astro', { eager: true }))
 const zajawki = [...zajawkiArtykulow(posts), ...strony.map((meta) => zajawkaZMeta(meta))]
   .sort(najnowszePierwsze);
 
-// „Przewodniki" (Marek 11.10.2026): teksty evergreen stoją na stałe nad listą
-// chronologiczną. Na stronie głównej wypadały po 10 nowszych tekstach i traciły
+// „Przewodniki" (Marek 11.10.2026): teksty evergreen stoją na stałe pod listą
+// chronologiczną (do 18.10.2026 stały nad nią). Na stronie głównej wypadały po 10 nowszych tekstach i traciły
 // jedyny mocny link z serwisu. Kolejność = kolejność na stronie; brakujący adres
 // (zmieniony slug) po prostu znika z sekcji, build go nie wywraca.
 const PRZEWODNIKI = [
@@ -54,6 +54,11 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Artykuły', sciezka: '
 ---
 <Base title="Artykuły – poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO." jsonld={jsonld}>
   <h1 style="margin-top:28px">Artykuły</h1>
+  <h2 class="artykuly-wszystkie">Wszystkie teksty</h2>
+  <FiltrKategorii zajawki={zajawki} />
+  <div class="zajawki">
+    {zajawki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}
+  </div>
   {przewodniki.length > 0 && (
     <section class="przewodniki" aria-labelledby="przewodniki-naglowek">
       <h2 id="przewodniki-naglowek">Przewodniki</h2>
@@ -70,9 +75,4 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Artykuły', sciezka: '
       </ul>
     </section>
   )}
-  <h2 class="artykuly-wszystkie">Wszystkie teksty</h2>
-  <FiltrKategorii zajawki={zajawki} />
-  <div class="zajawki">
-    {zajawki.map((z) => <ZajawkaArtykulu zajawka={z} poziom={2} />)}
-  </div>
 </Base>

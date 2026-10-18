@@ -1644,7 +1644,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 /* długie przyciski w tekstach („Lotniskowiec w Media Expert: 999 zł z kodem →") nie mogą rozpychać strony na telefonie */
 @media (max-width: 600px) { .przycisk { white-space: normal; max-width: 100%; text-align: center; } }
 /* /artykuly/: stała sekcja „Przewodniki" nad listą chronologiczną (Marek 11.10) */
-.przewodniki { margin: 8px 0 28px; }
+.przewodniki { margin: 36px 0 28px; }
 .przewodniki h2 { margin: 0 0 4px; }
 .przewodniki-wstep { margin: 0 0 14px; color: var(--granat-60); }
 .przewodniki-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
