@@ -113,7 +113,12 @@ export function ocenaHubu(nr) {
   // indeksowalny niezależnie od liczby sklepów i tekstów (decyzja Marka
   // 15.09.2026; wcześniej ~390 hubów z kartą stało poza indeksem, w tym
   // zapowiedzi przed premierą, których czytelnik szuka właśnie wtedy).
-  const maKarte = (karty[klucz]?.akapity?.length ?? 0) >= 2 && (karty[klucz]?.faq?.length ?? 0) >= 3;
+  // Liczy się długość opisu, nie liczba akapitów (decyzja Marka 18.10.2026): 49 kart
+  // z jednym akapitem po 106–126 słów stało poza indeksem, choć 658 indeksowanych
+  // kart z dwoma krótkimi akapitami ma mniej tekstu.
+  const k0 = karty[klucz];
+  const opisKarty = (k0?.akapity ?? []).map(bezHtml).join(' ').length;
+  const maKarte = ((k0?.akapity?.length ?? 0) >= 2 || opisKarty > MIN_ZNAKOW_OPISU) && (k0?.faq?.length ?? 0) >= 3;
   // Własny opis w sety.json (opis + persony) dłuższy niż próg — też pełna treść,
   // nie szablon (decyzja Marka 02.10.2026: 18 hubów z opisem stało poza indeksem,
   // m.in. Rivendell, Concorde, Ferrari Daytona). Przecieki zostają poza indeksem —

@@ -76,7 +76,9 @@ def sklepy(nr):
 
 def ma_karte(nr):
     k = karty.get(nr) or {}
-    return len(k.get('akapity') or []) >= 2 and len(k.get('faq') or []) >= 3
+    # ta sama reguła co maKarte w src/lib/seo.js (od 18.10.2026: ≥2 akapity ALBO opis > 300 znaków)
+    opis = ' '.join(re.sub(r'<[^>]+>', '', a).strip() for a in (k.get('akapity') or []))
+    return (len(k.get('akapity') or []) >= 2 or len(opis) > 300) and len(k.get('faq') or []) >= 3
 
 
 def dlugosc_opisu(nr):

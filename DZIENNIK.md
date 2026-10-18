@@ -131,6 +131,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: karty są na hubach, ale reguła indeksacji wymaga ≥2 akapitów opisu
 **Zrobić:** — dopisać drugi akapit opisu w tych 7 plikach i przysłać je ponownie (import z `--nadpisz`)
 **Kto:** — Piotr (tekst)
+→ zamknięte 18.10.2026: niepotrzebne — Marek zdecydował, że karta jednoakapitowa (małe zestawy <500 el.) też wchodzi do indeksu; reguła w `src/lib/seo.js` liczy teraz długość opisu (≥2 akapity albo >300 znaków), 49 takich kart indeksowalnych.
 
 ## 2026-10-18 · CODE · Karty P07 Piotra: partie 05, 06, 07 (75 nowych kart) wgrane
 
