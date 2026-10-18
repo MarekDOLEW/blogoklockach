@@ -125,6 +125,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-18 · CODE · Przegląd zdjęć: zaślepki na listingach (30713 i 52 inne)
+
+- Marek: 30713 ma zdjęcie na hubie, a na stronie głównej klocek-zaślepkę. Przyczyna: `zdjecieSetu()` wołane z samym `sety` (strona główna, `/promocje-lego/`, `/nowosci/<miesiąc>/`, `KartaOferty` w artykule wrześniowym) pomijało feed sklepów. Feed jest teraz domyślnym źródłem w `src/lib/media.js` (`8ce0935`).
+- Przegląd po poprawce: 6711 zestawów (6698 ze świeżymi ofertami ≤14 dni, 137 w Nowościach bez zapowiedzi) — 0 hubów bez zdjęcia, 0 zdjęć niełądujących się na produkcji (HEAD `/img/<nr>.jpg`), 0 zaślepek na listingach. Przed poprawką zaślepkę miały 53 zestawy — lista: `materialy/zdjecia-zaslepki-2026-10-18.xlsx`.
+
 ## 2026-10-18 · CODE · Adnotacja o Smyku w tabeli cen (zamknięcie pozycji z Radaru 17.10)
 
 - `src/components/TabelaCen.astro` — `smyk` dopisany do `UWAGA_SKLEP`: „sklep prowadzi
