@@ -14,7 +14,11 @@
 // Kolejność (od najcenniejszych): strona główna i listingi działów → artykuły
 // i prezentowniki → strony serii → deale z ostatnich 7 dni → nowości →
 // huby zestawów (więcej sklepów z ofertą = wyżej). Pomija adresy zindeksowane,
-// strony z noindex w obecnym buildzie i adresy zgłoszone w ciągu 14 dni.
+// strony z noindex w obecnym buildzie i adresy zgłoszone w ciągu 14 dni —
+// chyba że Google nie odwiedził adresu od dnia, w którym trafił do kolejki.
+// Zgłoszony adres Google skanuje w kilka minut (14.10: 10 z 10 tego samego dnia),
+// więc brak wizyty znaczy, że Cowork go nie kliknął (15.10: 9 z 10, 17.10: 6 z 7).
+// Taki adres wraca do kolejki następnego dnia i idzie przed nowymi (19.10.2026).
 // „Strona zeskanowana, ale niezindeksowana" idzie na koniec — Google już ją
 // widział i odrzucił; prośba rzadko to zmienia, lepiej poprawić treść.
 //
@@ -23,7 +27,7 @@
 // domyślnie zużywamy najwyżej 300.
 //
 // Użycie:
-//   node scripts/kolejka-indeksacji.mjs                 # 10 adresów, zapis kolejki
+//   node scripts/kolejka-indeksacji.mjs                 # 15 adresów, zapis kolejki
 //   node scripts/kolejka-indeksacji.mjs --ile 12 --api 400
 //   node scripts/kolejka-indeksacji.mjs --sucho         # bez zapisu kolejki i historii
 //
@@ -38,7 +42,9 @@ const opcja = (n, d) => {
   const i = args.indexOf(`--${n}`);
   return i >= 0 ? args[i + 1] : d;
 };
-const ILE = Number(opcja('ile', 10));
+// 15 od 19.10.2026: przy 10 adresach Cowork nie trafiał na limit GSC; gdy trafi,
+// reszta listy wraca następnego dnia (patrz ponowne zgłoszenia niżej).
+const ILE = Number(opcja('ile', 15));
 const BUDZET_API = Number(opcja('api', 300));
 const sucho = args.includes('--sucho');
 const KARENCJA_DNI = 14;
@@ -97,11 +103,15 @@ const historia = fs.existsSync(HISTORIA) ? JSON.parse(fs.readFileSync(HISTORIA, 
 const ostatnio = new Map();
 for (const [data, lista] of Object.entries(historia.zgloszenia)) for (const u of lista) ostatnio.set(u, data);
 
+// `ponowka` = data, z którą adres stoi w historii w okresie karencji (nie dzisiejsza).
+// Wpuszczamy go do przeglądu; o tym, czy wraca, rozstrzyga data ostatniego crawla.
 const kandydaci = wpisy
-  .filter((w) => !(dniOd(ostatnio.get(w.url)) < KARENCJA_DNI))
-  .map((w) => ({ ...w, k: klasa(w) }))
-  .filter((w) => w.k[0] < 9)
-  .sort((a, b) => a.k[0] - b.k[0] || a.k[1] - b.k[1] || a.url.localeCompare(b.url));
+  .map((w) => {
+    const d = ostatnio.get(w.url);
+    return { ...w, k: klasa(w), ponowka: d && d !== dzis && dniOd(d) < KARENCJA_DNI ? d : null };
+  })
+  .filter((w) => w.k[0] < 9 && (w.ponowka || !(dniOd(ostatnio.get(w.url)) < KARENCJA_DNI)))
+  .sort((a, b) => Boolean(b.ponowka) - Boolean(a.ponowka) || a.k[0] - b.k[0] || a.k[1] - b.k[1] || a.url.localeCompare(b.url));
 
 // ── Search Console: token konta serwisowego ──
 const klucz = JSON.parse(Buffer.from(process.env.GSC_KEY_JSON_B64, 'base64').toString());
@@ -137,6 +147,7 @@ const wybrane = [];
 const zeskanowane = [];
 const licznik = {};
 let wywolan = 0;
+let ponowione = 0;
 // Jedno sprawdzenie trwa ok. 7 s, więc pytamy po 5 adresów naraz; kolejność
 // priorytetu zostaje, bo partie idą po kolei.
 const doSprawdzenia = kandydaci.filter((w) => !noindex(w.url));
@@ -154,6 +165,13 @@ for (let i = 0; i < doSprawdzenia.length && wybrane.length < ILE && wywolan < BU
     wywolan += 1;
     licznik[s.stan] = (licznik[s.stan] ?? 0) + 1;
     if (s.verdict === 'PASS' || wybrane.length >= ILE) return;
+    if (w.ponowka) {
+      // Google był po zgłoszeniu i nie wziął strony — prośba nic nie zmieni, czeka karencję.
+      if (s.crawl && s.crawl.slice(0, 10) >= w.ponowka) return;
+      ponowione += 1;
+      wybrane.push({ ...w, ...s });
+      return;
+    }
     if (DO_ZGLOSZENIA.test(s.stan)) wybrane.push({ ...w, ...s });
     else if (/Crawled/i.test(s.stan)) zeskanowane.push({ ...w, ...s });
   });
@@ -163,14 +181,14 @@ for (const z of zeskanowane) if (wybrane.length < ILE) wybrane.push(z);
 
 const NAZWY = ['strona główna / listing', 'artykuł / prezentownik', 'seria', 'deal', 'nowości', 'hub zestawu', 'inne'];
 console.log(`Sprawdzone w API: ${wywolan} (budżet ${BUDZET_API}). Stany: ${Object.entries(licznik).map(([k, v]) => `${k}: ${v}`).join('; ')}`);
-console.log(`Do zgłoszenia dziś: ${wybrane.length}`);
+console.log(`Do zgłoszenia dziś: ${wybrane.length} (w tym ponownie, bez wizyty Google od zgłoszenia: ${ponowione})`);
 for (const w of wybrane) console.log(`  ${w.url}  — ${w.stan}, ${NAZWY[w.k[0]] ?? '?'}, ostatni crawl: ${w.crawl?.slice(0, 10) ?? 'nigdy'}`);
 
 if (sucho) process.exit(0);
 
 fs.mkdirSync(KATALOG, { recursive: true });
 historia._meta = {
-  opis: 'Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni. Plik generowany — nie edytować ręcznie.',
+  opis: 'Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.',
   zaktualizowano: dzis,
 };
 if (wybrane.length) historia.zgloszenia[dzis] = [...new Set([...(historia.zgloszenia[dzis] ?? []), ...wybrane.map((w) => w.url)])];
@@ -192,12 +210,12 @@ const md = [
   '',
   '## Adresy na dziś',
   '',
-  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}`),
+  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}${w.ponowka ? ` (ponownie: w kolejce ${w.ponowka}, Google nie odwiedził)` : ''}`),
   ...(wybrane.length ? [] : ['Brak — wszystkie sprawdzone adresy są w indeksie albo zgłoszone w ciągu 14 dni.']),
   '',
   '## Stan sprawdzonych adresów',
   '',
-  `Sprawdzone dziś w API: ${wywolan}.`,
+  `Sprawdzone dziś w API: ${wywolan}. Ponownie w kolejce (bez wizyty Google od zgłoszenia): ${ponowione}.`,
   ...Object.entries(licznik).map(([k, v]) => `- ${k}: ${v}`),
   '',
 ].join('\n');
