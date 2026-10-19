@@ -133,6 +133,21 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-19 15:10 · KONTROLER · Odczyt panelu GSC (Cowork) — punkt odniesienia kamienia 4
+
+- **837 zaindeksowanych** (dane panelu z 12.10.2026; poprzednio 831 z 09.10, 807 z 18.09), niezaindeksowanych
+  3 184: noindex **2 285**, wykryta–niezindeksowana **653** (weryfikacja „rozpoczęto"), zeskanowana–niezindeksowana
+  **21** (weryfikacja „niepowodzenie" — ktoś ją odpalił, Google jej nie potwierdził), **404: 220**, robots.txt 4,
+  przekierowanie 1. Odczyt Coworka 19.10 14:53, prompt z sesji Kontrolera.
+- **404 — rozstrzygnięte:** 219 z 220 to nasze huby `/zestaw/`, nie stary sklep. Wszystkie istnieją w buildzie,
+  produkcja odpowiada 200, wszystkie **noindex** (cienkie huby). Google skanował je 10–15.09, gdy stron jeszcze nie
+  było, i nie wrócił. Nic do roboty — przy następnym crawlu 404 zamieni się w noindex. Lista:
+  `materialy/indeksacja/gsc-404-2026-10-19.md`. Jeden adres spoza serwisu (`/p/64/3469/…html`, stary sklep) zostaje 404.
+- Mapy witryny: 8 map, wszystkie „Sukces", `sitemap-zestawy.xml` odczytana 19.10 z 1 375 adresami (zgodnie
+  z buildem), indeks 1 546. `sitemap-priorytet.xml` nie ma — zamknięte.
+- Do obejrzenia kiedyś, nie teraz: 4 adresy „zablokowane przez robots.txt" — panel nie pokazał których.
+
+
 ## 2026-10-19 10:45 · CODE · x-kom Black Weeks: aktualność + ceny z kodem black-weeks1
 
 - `/artykuly/x-kom-black-weeks-2026-lego/` (Aktualności, bez `wazne_do` — x-kom nie podał końca cen z listy;
@@ -156,6 +171,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — nie: ostatni odczyt 09.10.2026 przez Coworka.
 **Zrobić:** — odczytać raport „Strony" w panelu GSC przed 26.10 (zaindeksowane + podział niezaindeksowanych) i wpisać do dziennika.
 **Kto:** — Marek (panel) albo Cowork (panel)
+→ zamknięte 19.10.2026: odczyt Coworka 14:53 — 837 zaindeksowanych (dane z 12.10). Wpis wyżej w dzienniku; Kontroler 26.10 liczy kamień 4 od tej wartości.
 
 **Łowca wypchnął kontrolę linków 19.10 o 09:14 PL — 14 minut po starcie Kontrolera; tabelę udało się przeczytać tylko dzięki drugiemu `git fetch` w trakcie przebiegu.**
 **Mamy?** — częściowo: plik `materialy/kontrola-linkow-2026-10-19.md` jest w repo (`ae759a9`), ale powstał po godzinie, o której go czytam.
@@ -241,6 +257,7 @@ przebieg: 20.10.2026 — lista z 19.10 jest świeża, więc to test na żywo, ni
 **Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).
 **Zrobić:** — wyeksportować listę 404 z panelu GSC do repo, żeby Code rozstrzygnął każdy adres (przekierowanie albo zdjęcie z sitemapy).
 **Kto:** — Cowork (panel)
+→ zamknięte 19.10.2026: lista w `materialy/indeksacja/gsc-404-2026-10-19.md`. 219 z 220 to nasze huby — żywe (200), noindex; Google widział 404 10–15.09, zanim powstały. Nic do przekierowania. Jeden adres starego sklepu zostaje 404.
 
 **x-komu nie ma w `afiliacje_rejestr.json`, choć jego linki są otagowane (`?sm=Y74rgdCO`, 788 wpisów w `redirects.xkom`) i zebrały 7 polskich kliknięć w 30 dni.**
 **Mamy?** — częściowo: w rejestrze jest „alto" (SalesMasters, grupa x-kom), samego x-komu nie ma, a rejestr jest jedynym źródłem prawdy o sieciach.
