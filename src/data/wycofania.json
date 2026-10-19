@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-10-12",
+  "aktualizacja": "2026-10-19",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -194,10 +194,11 @@
    "nazwa": "Optimus Prime",
    "seria": "Icons",
    "elementy": 1508,
-   "kiedy": "2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Dla dorosłych fanów Transformersów to pozycja obowiązkowa – po zniknięciu ze sklepu ceny tego transformującego się modelu na rynku wtórnym zwykle szybko rosną.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30601_1024_1024/LEGO-10302-Icons-Optimus-Prime.png?overlay=1"
+   "uwagi": "Optimus Prime zniknął ze sklepu LEGO po czterech latach sprzedaży – u innych sprzedawców zapasy jeszcze są, ale to już końcówki rocznika 2022.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30601_1024_1024/LEGO-10302-Icons-Optimus-Prime.png?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-09-29 (>14 dni), katalog.json status eol; nieobecny też w dziale Ostatnie zestawy 19.10"
   },
   {
    "numer": "10305",
@@ -708,9 +709,10 @@
    "nazwa": "Hełm operatora AT-AT",
    "seria": "Star Wars",
    "elementy": 730,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Kolekcjonerzy kompletujący galerię imperialnych hełmów muszą dopiąć zakup operatora AT-AT przed grudniem, bo po wycofaniu luk w tej serii nie da się tanio załatać."
+   "uwagi": "Hełm operatora AT-AT zszedł ze sklepu LEGO przed zapowiadanym grudniem – kolekcjonerskie hełmy schodzą szybko, a zapasy sklepów zewnętrznych bywają płytkie.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-09-29 (>14 dni), katalog.json status eol; nieobecny też w dziale Ostatnie zestawy 19.10"
   },
   {
    "numer": "75430",
@@ -1273,11 +1275,11 @@
    "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
    "seria": "Technic",
    "elementy": 1080,
-   "kiedy": "wycofany",
+   "kiedy": "2026",
    "status": "potwierdzone",
-   "uwagi": "Kosmiczny łazik zszedł ze sklepu LEGO po sierpniowej wyprzedaży końcówek – inni sprzedawcy mogą mieć jeszcze zapasy, często poniżej ceny katalogowej.",
+   "uwagi": "Łazik wrócił na listing lego.pl po wrześniowej przerwie – końcówka produkcji bywa dostępna falami, więc okazje warto łapać, gdy się pojawiają.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42495_1024_1024/LEGO-42211-Technic-Kosmiczny-lazik-ksiezycowy-Lunar-Outpost.jpg?overlay=1",
-   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany w migawkach 15.09 i 22.09, katalog.json status eol — stan na 2026-09-28"
+   "zrodlo": "listing lego.pl widział zestaw 2026-10-14 — wpis „wycofany\" z 28.09 był przedwczesny, przywrócony termin 2026 (przebieg 19.10)"
   },
   {
    "numer": "42215",
@@ -1749,11 +1751,11 @@
    "nazwa": "Kwiaty lotosu",
    "seria": "Creator",
    "elementy": 220,
-   "kiedy": "wycofany",
+   "kiedy": "2026",
    "status": "potwierdzone",
-   "uwagi": "Lotosy po kilku powrotach do sprzedaży ostatecznie zniknęły ze sklepu LEGO – tani zestaw botaniczny łatwo jeszcze znaleźć u innych sprzedawców, ale to już końcówki.",
+   "uwagi": "Lotosy po raz kolejny wróciły do sprzedaży w sklepie LEGO – tani zestaw botaniczny znika i wraca falami, więc termin końca produkcji pozostaje w tym roku.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_36588_1024_1024/LEGO-40647-Kwiaty-lotosu.jpg?overlay=1",
-   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany w migawkach 15.09 i 22.09, katalog.json status eol — stan na 2026-09-28"
+   "zrodlo": "listing lego.pl widział zestaw 2026-10-14 — wpis „wycofany\" z 28.09 był przedwczesny, przywrócony termin 2026 (przebieg 19.10)"
   },
   {
    "numer": "40725",
@@ -1973,9 +1975,11 @@
    "seria": "City",
    "elementy": 92,
    "kiedy": "2026",
-   "status": "przewidywane",
+   "status": "potwierdzone",
    "uwagi": "Tani dwupak bolidów Williamsa i Haasa jest najprostszym wejściem w licencję F1 i może zniknąć wcześniej, niż wskazuje kalendarz.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39813_1024_1024/60464_Box1_v29.jpg?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39813_1024_1024/60464_Box1_v29.jpg?overlay=1",
+   "zrodlo": "lego.com dzial Ostatnie zestawy, 2026-10-19",
+   "potwierdzono": "2026-10-19"
   },
   {
    "numer": "60465",

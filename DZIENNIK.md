@@ -739,6 +739,12 @@ serwisie dedup robimy po tytule, nie po adresie.
 - **40909 Restauracje świata: Włochy** — ten sam tekst: gratis sprzedawany tylko 13–19.10.2026,
   a termin końca produkcji podany jako 12/2026. Dla nas bez konsekwencji (gratis, `bez_rrp`),
   ale jeśli runner prowadzi statusy gratisów, to data domknięcia.
+→ Wycofania 2026-10-19: sygnał 1 zweryfikowany bezpośrednio w dziale „Ostatnie zestawy"
+(`lego-ostatnie.mjs`, 318/318 produktów): grudniowa fala jest u nas od września, dziś z działu
+doszło tylko potwierdzenie 60464 (przewidywane → potwierdzone). Sygnał 2 (40909) odrzucone
+(na razie): jedno źródło, a statusy gratisów prowadzimy — 40906 i 40908 weszły jako „wycofany"
+dopiero po zniknięciu z katalogu lego.com; 40909 dopiszemy tak samo po zakończeniu akcji 13–19.10,
+gdy LEGO przestanie go rozdawać.
 
 ## 2026-10-12 14:50 · CODE · MediaMarkt podpięty (decyzja Marka D2)
 
