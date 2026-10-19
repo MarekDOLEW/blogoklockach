@@ -34,6 +34,7 @@ Nie aktualizuje się ich. Nowy raport to nowy plik z nową datą w nazwie.
 | `kontroler-prompt-2026-09-22.md` | Uzasadnienie przeniesienia Kontrolera do trwałej sesji (22.09.2026). Sam prompt jest wyłącznie w `routine-prompty.md` |
 | `kontroler-krok-swiezosc-2026-10-19.md` | Akapit do wklejenia w prompt Kontrolera (krok „Świeżość tekstów") wraz z powodem, testem regresji i komunikatem, którym `update_trigger` odmówił zmiany promptu z sesji Code. **Dopóki akapit nie wejdzie do promptu, krok jest niewdrożony** |
 | `kontrola-linkow-RRRR-MM-DD.md` (np. `-2026-09-21`) | Wynik `scripts/kontrola-linkow.mjs` — zapisuje go Łowca w każdy poniedziałek, także przy zerze martwych linków; Kontroler czyta najnowszy |
+| `linki-do-przegladarki-RRRR-MM-DD.md` | Lista adresów sklepów, których kontrola z serwera nie potrafi sprawdzić (allegro, empik, mediaexpert, lego, xkom) — generuje `scripts/kontrola-linkow.mjs --blokujace`, wypełnia Cowork w przeglądarce raz w miesiącu (decyzja Marka 19.10.2026, wariant A); wypełniony plik wraca do sesji Code |
 | `audyt-wycofan-2026-09-13.md` | Audyt statusów EOL |
 | `audyt-mechanizmu-2026-09-15.md`, `-2026-09-15b.md` | Audyt całego mechanizmu (przepływ danych, SEO/indeksacja, UX, redakcja, konkurencja, nisze) — lista 19 punktów i 6 pytań do Marka; `b` to drugi przebieg tego samego dnia |
 | `gsc-checklista-2026-09-15.md` | Checklista do Search Console z 15.09 |

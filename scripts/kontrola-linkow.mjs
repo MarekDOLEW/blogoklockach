@@ -17,14 +17,17 @@
 //   node scripts/kontrola-linkow.mjs --ile 500       # większa próba
 //   node scripts/kontrola-linkow.mjs --sklep empik   # jeden sklep
 //   node scripts/kontrola-linkow.mjs --sucho         # bez maila, tylko wydruk
+//   node scripts/kontrola-linkow.mjs --blokujace     # lista 20 adresów do przeglądarki, BEZ żadnego zapytania
+//   node scripts/kontrola-linkow.mjs --blokujace 40 --sklepy xkom,empik
 //
-// Uruchamia: Kontroler w raporcie tygodniowym (poniedziałek).
+// Uruchamia: Łowca w poniedziałek (krok tygodniowy), Kontroler czyta wynik z repo.
+// Tryb `--blokujace` uruchamia człowiek albo sesja Code raz w miesiącu — patrz niżej.
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFile, spawnSync } from 'node:child_process';
 import { promisify } from 'node:util';
 import { tmpdir } from 'node:os';
-import { celLinku, SKLEPY_BLOKUJACE, UA_PRZEGLADARKI } from './linki-cel.mjs';
+import { celLinku, SKLEPY_BLOKUJACE, SKLEPY_BEZ_WERYFIKACJI, UA_PRZEGLADARKI } from './linki-cel.mjs';
 import { join } from 'node:path';
 
 const uruchom = promisify(execFile);
@@ -32,6 +35,12 @@ const arg = (n, d) => { const i = process.argv.indexOf(n); return i > -1 ? proce
 const sucho = process.argv.includes('--sucho');
 const ILE = Number(arg('--ile', 150));
 const TYLKO = arg('--sklep', null);
+// `--blokujace [N]`: N może być pominięte (wtedy 20), bo flaga bywa podawana sama.
+const iBlok = process.argv.indexOf('--blokujace');
+const BLOKUJACE = iBlok === -1 ? null : (() => {
+  const nast = process.argv[iBlok + 1];
+  return nast && !nast.startsWith('--') ? Number(nast) : 20;
+})();
 const ROWNOLEGLE = 12;
 
 const czytaj = (p) => JSON.parse(readFileSync(new URL(`../src/data/${p}`, import.meta.url)));
@@ -59,6 +68,80 @@ for (const [sklep, mapa] of Object.entries(redirects)) {
   if (TYLKO && sklep !== TYLKO) continue;
   for (const [nr, link] of Object.entries(mapa)) wszystkie.push({ sklep, nr, link });
 }
+// ── Tryb `--blokujace`: lista adresów do sprawdzenia w przeglądarce ─────────
+// Decyzja Marka 19.10.2026 (wariant A): linków sklepów, które odrzucają ruch
+// serwerowy, nie da się sprawdzić z kontenera — raz w miesiącu przechodzi je
+// Cowork w przeglądarce. Ten tryb przygotowuje dla niego listę i NIE WYKONUJE
+// ANI JEDNEGO ZAPYTANIA: ani na kartę sklepu, ani tym bardziej na tracker.
+// W pliku stoi adres docelowy sklepu (`celLinku`), nigdy link trackingowy —
+// otwarcie trackingu w przeglądarce byłoby takim samym sztucznie nabitym
+// klikiem jak z serwera, tylko trudniejszym do wychwycenia.
+if (BLOKUJACE !== null) {
+  if (!Number.isFinite(BLOKUJACE) || BLOKUJACE < 1) {
+    console.error('--blokujace: podaj liczbę adresów większą od zera (albo samą flagę — wtedy 20).');
+    process.exit(2);
+  }
+  const wybrane = (arg('--sklepy', null) ?? '').split(',').map((x) => x.trim()).filter(Boolean);
+  const sklepy = wybrane.length ? wybrane : [...SKLEPY_BEZ_WERYFIKACJI];
+  const nieznaneSklepy = sklepy.filter((x) => !Object.keys(redirects).includes(x));
+  if (nieznaneSklepy.length) {
+    console.error(`--sklepy: w redirects.json nie ma gałęzi: ${nieznaneSklepy.join(', ')}.`);
+    process.exit(2);
+  }
+  // Po równo z każdego sklepu, karuzelą — żeby jeden duży (x-kom: 788 linków)
+  // nie zjadł całej listy, a sklep z kilkoma wpisami w ogóle się na niej znalazł.
+  const pule = new Map(sklepy.map((sk) => [sk, losuj(wszystkie.filter((w) => w.sklep === sk))]));
+  const lista = [];
+  while (lista.length < BLOKUJACE && [...pule.values()].some((x) => x.length)) {
+    for (const sk of sklepy) {
+      if (lista.length >= BLOKUJACE) break;
+      const w = pule.get(sk).pop();
+      if (!w) continue;
+      const cel = celLinku(w.link);
+      if (!cel || TRACKERY.test(cel)) continue; // nierozpakowany tracker na listę nie wchodzi
+      lista.push({ ...w, cel });
+    }
+  }
+  const brakujace = BLOKUJACE - lista.length;
+  const perSklepLista = sklepy.map((sk) => `${sk} ${lista.filter((w) => w.sklep === sk).length}`).join(', ');
+  const dzisB = new Date().toISOString().slice(0, 10);
+  const tekst = [
+    `# Linki do sprawdzenia w przeglądarce — ${dzisB.split('-').reverse().join('.')}`,
+    '',
+    `Próba **${lista.length}** adresów ze sklepów, których kontrola tygodniowa nie potrafi sprawdzić`,
+    `z serwera (odrzucają ruch serwerowy: 403/429/503 albo timeout). Rozkład: ${perSklepLista}.`,
+    '',
+    '**Jak to przejść:** otwórz każdy adres z kolumny „Karta produktu" w przeglądarce i wpisz',
+    'w kolumnie „Wynik" jedno z: `żywy` (karta produktu się otwiera), `404` (karta nie istnieje),',
+    '`przekierowanie` (sklep przerzuca na listing, kategorię albo stronę główną — to nie jest żywa',
+    'karta) albo `inne: <co widać>`. Wypełniony plik wraca do sesji Code.',
+    '',
+    '**Czego NIE otwierać:** w tym pliku są wyłącznie adresy docelowe sklepów. Nie wchodź na linki',
+    'trackingowe (`pdt.tradedoubler.com`, `webep1.com`, `track.performers.tech`, `allegro.pl/affiliate`)',
+    'ani na nasze `/idz/<sklep>/<numer>` — każde takie wejście to sztucznie nabity klik w sieci',
+    'afiliacyjnej, tak samo z przeglądarki jak z serwera.',
+    '',
+    '| Sklep | Zestaw | Karta produktu | Hub | Wynik |',
+    '|---|---|---|---|---|',
+    ...lista.map((w) => `| ${w.sklep} | ${w.nr} ${sety[w.nr]?.nazwa ?? ''} | ${w.cel} | https://tylkoklocki.pl/zestaw/${w.nr}/ | |`),
+    '',
+    'Martwe karty Empiku po wypełnieniu idą do `scripts/empik-redirects.mjs --usun-martwe`',
+    '(to jedyna mapa linków, z której wolno kasować wpisy — poza nią dane są append-only).',
+    '',
+  ].join('\n');
+  const plikB = new URL(`../materialy/linki-do-przegladarki-${dzisB}.md`, import.meta.url);
+  if (sucho) {
+    console.log(tekst);
+    console.log('--sucho: bez zapisu.');
+  } else {
+    writeFileSync(plikB, tekst + '\n');
+    console.log(`Lista: materialy/linki-do-przegladarki-${dzisB}.md — ${lista.length} adresów (${perSklepLista}).`);
+  }
+  if (brakujace > 0) console.log(`Uwaga: zabrakło ${brakujace} adresów — wybrane sklepy mają w redirects.json mniej wpisów, niż poproszono.`);
+  console.log('Żadnego zapytania nie wysłano — ten tryb tylko losuje adresy.');
+  process.exit(0);
+}
+
 const sprawdzalne = losuj(wszystkie.filter((w) => !SKLEPY_BLOKUJACE.has(w.sklep)));
 const blokujace = new Map();
 for (const w of losuj(wszystkie.filter((w) => SKLEPY_BLOKUJACE.has(w.sklep)))) {

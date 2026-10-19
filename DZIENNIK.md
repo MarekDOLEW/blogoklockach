@@ -184,6 +184,14 @@ próbę 20 linków z czterech sklepów blokujących ruch serwerowy. `kontrola-li
 **Mamy?** — nie: `kontrola-linkow.mjs` losuje próbę w locie i nie zapisuje adresów blokujących sklepów do osobnego pliku.
 **Zrobić:** — dodać do `scripts/kontrola-linkow.mjs` tryb `--blokujace <N>` (domyślnie 20), który losuje adresy z `redirects.xkom`, `redirects.empik`, `redirects.mediaexpert` i `redirects.lego` i zapisuje je jako `materialy/linki-do-przegladarki-RRRR-MM-DD.md` (numer zestawu, sklep, adres, kolumna na wynik) — bez wchodzenia na nie z serwera.
 **Kto:** — Code (skrypt)
+→ zamknięte 19.10.2026: tryb `--blokujace [N]` gotowy (`--sklepy a,b` zawęża, `--sucho` tylko drukuje).
+Dołożone Allegro, którego w pozycji nie było, a którego kontrola też nie rozstrzyga (5 timeoutów 19.10) —
+lista obejmuje pięć sklepów po równo, karuzelą, więc x-kom z 788 linkami nie zjada całej próby.
+Nowa stała `SKLEPY_BEZ_WERYFIKACJI` w `scripts/linki-cel.mjs` (te cztery blokujące plus `xkom`) jest
+używana WYŁĄCZNIE przez ten tryb — `SKLEPY_BLOKUJACE` steruje losowaniem próby tygodniowej i zostaje
+nieruszone, żeby wynik kontroli tydzień do tygodnia był porównywalny. Pierwsza lista:
+`materialy/linki-do-przegladarki-2026-10-19.md` (20 adresów). Tryb nie wysyła żadnego zapytania —
+sprawdzone na sucho; adresy w pliku to cele sklepów, nigdy trackery ani nasze `/idz/`.
 
 **Po liście potrzebny jest comiesięczny Routine Coworka, który tę listę przechodzi w przeglądarce.**
 **Mamy?** — nie: zadanie nie istnieje; wzorem jest „Kolejka GSC — zgłoszenia" (`trig_01NNqijkQrcpLpD89bVW8ST6`), też robota Coworka w przeglądarce.
