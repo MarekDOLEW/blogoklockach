@@ -2552,3 +2552,137 @@ liście „u nas potwierdzone, a brak w dziale"). Brakujące 10 bez numerów w
 sygnale — te, które weszły do katalogu, dopisały się dziś automatycznie przez
 porównanie działu z plikiem (24 nowe pozycje); pozostałe wyjdą w kolejnych
 zaciągach katalogu.
+
+## 2026-09-30 19:00 · CODE · Routines po audycie: czas polski, Łowca z buildem, Harmonogram w tej sesji
+
+**Zrobione na koncie:**
+- Crony runnerów LEGO w zapisie `CRON_TZ=Europe/Warsaw …` z tymi samymi godzinami PL
+  (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt, Harmonogram) — zmiana czasu 25.10
+  niczego nie przesunie; jednorazowe przypomnienie o DST niepotrzebne.
+- Łowca odtworzony (delete + create w tej samej sesji `session_01SdxKtAvW8UmktsuXrsPYga`,
+  nowe ID `trig_01L8awRzxEbeUSQsad7ye18Y`): `npm run build` przed pushem, przy konflikcie
+  `historia-cen/` z origin + `historia-cen.mjs` zamiast ręcznego scalania, `seo_tytul`/`seo_opis` w postach.
+- Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`
+  (`trig_01LU2xZxWqyCmNYv7rPyik3x`) + kontrola wielkości sesji runnerów (`get_session`, alarm > 850 tys.).
+  Scout 30.09: 313 tys. z 1 mln — nowa sesja niepotrzebna.
+- `harmonogram-z-konta.mjs` rozumie `CRON_TZ=Europe/Warsaw`.
+**Czeka na Marka (panel, zadania założone przez http_api — agent ich nie zmieni):** Alerty
+(cron + krok 2), Zdjęcia → R2 (cron 04:45 i 09:45), Przypomnienie (cron), wyłączenie
+„Empik co tydzien”, skasowanie Backfill.
+→ 30.09 wieczorem: Marek poprawił w panelu prompt Alertów i czas Zdjęć (04:45). Code założył
+dwa zadania z czasem polskim: „Zdjęcia → R2, drugi przebieg” 09:45 (`trig_01XAJy9vca6HUK6YY3XarLWM`,
+próba 15:18: 11 563 w R2, brak 0, błędów 0) i nowe Alerty 09:30 (`trig_018D4PGvCaYkcDKDfNM3fjLZ`) —
+stare Alerty z panelu Marek wyłącza. Przypomnienie o Empiku zostaje (tylko mail do Marka);
+do wyłączenia „Empik co tydzien” (skill w chmurze), Backfill wstrzymany — do skasowania.
+
+## 2026-09-30 18:00 · CODE · Teksty szablonowe, SEO meta, odczyt GSC od Coworka
+
+**Zrobione:** `d526d69` — poprawki tekstów szablonowych z audytu (opisy generowane bez zdań
+o dostępności, odmiana liczebników, 880 kart z poprawionym akapitem rocznikowym). `259f5c9` —
+tytuły ≤ 60 i opisy ≤ 160 znaków na 1 433 indeksowanych stronach; pola `seo_tytul`/`seo_opis`
+(artykuły, deale) i `seoTytul`/`seoOpis` (prezentowniki), zasada w `redakcja/ustalenia-projektowe.md`.
+**GSC (odczyt Coworka + URL Inspection API 30.09):** raport „Strony” z 21.09 jest nieaktualny.
+10312 i 75355 nie mają już noindex. 0 z 133 stron z wyświetleniami zwraca 404 i 0 martwych
+linków wewnętrznych — 220 × 404 to stare adresy spoza serwisu, do obejrzenia przez eksport.
+Zgłoszenia Coworka zadziałały (x-kom WSR i 31163 zindeksowane 30.09).
+Niezindeksowane teksty: nieznane — 77242, najwieksze-zestawy-lego-star-wars,
+najdrozsze-zestawy-lego-rynek-wtorny; wykryte — allegro-black-weeks, jesien-swieta-premiery,
+wycofania-grudzien, 75438, 60508, bam-halloween, historia-licencji cz. 3; zeskanowane —
+super-mario-2027, najwieksze-technic.
+**Dla drugiej strony:** Cowork — 1.10 zgłoszenia wg listy w odpowiedzi Code (zaczynając od 75389).
+
+## 2026-09-30 10:30 · CODE · Audyt po wdrożeniu 29.09: afiliacje, Cloudflare, Firecrawl, Routines, GSC, spójność, teksty
+
+**Zrobione:** `materialy/audyt-2026-09-30.md` (raport zbiorczy, 9 sekcji) + `audyt-2026-09-30.xlsx`
+(8 arkuszy) + `audyt-2026-09-30/` (routines, strona-spojnosc, teksty-szablonowe). Liczby z API.
+**Najważniejsze:** Cloudflare — plan płatny nie grozi (worker 6% limitu), realny sufit to 20 000
+plików w assets (dziś 10 022). Firecrawl 5 000/mies. wg API, 71% zużycia z sesji (json = 5 kredytów).
+Routines: bez dubli poza Empikiem, x-kom bez właściciela, Łowca bez builda przed pushem, Scout ~800 k.
+Strona spójna (0 martwych linków, 0 błędów LD), meta >160 na 1 300 stron. Teksty: ton dobry, ale
+zdania o dostępności w `opisy.json` przeczą tabelom (60339 „z drugiej ręki” obok −50%).
+**Stan:** raport na main; poprawki czekają na kolejność od Marka (sekcja 9 raportu).
+**Dla drugiej strony:** Cowork — komendy GSC w sekcji 5 raportu.
+
+## 2026-09-29 15:50 · CODE · Karty P07 Piotra: partie 02, 26, 27 (75 nowych kart) wgrane
+
+**Zrobione:** `import-karty.py` na 3 zipach (poprawione wersje od Piotra; automat przez git po stronie chata
+nie zadziałał, gałąź w repo Piotra do skasowania przez niego/Marka). 75 kart, 0 zablokowanych (RRP zgodne),
+karty_setow 1124 → 1199. Poprawki: metka szablonu „Opis P07 • LEGO … • 2025” jako 1. akapit w całej partii 02
+— filtr w imporcie (68ab221); 75350 elementy 776 → 766 (Brickset). Nazwy: zostają kanoniczne z katalogu
+(15 różnic typu „–”/„-”, polskie nazwy minifigurek). Wszystkie 75 hubów bez noindex po buildzie.
+Uwaga dla Piotra: partia 27 bez nagłówka „Opis zestawu” i z krótszą metryką (bez wieku/typu/dystrybucji);
+w partii 26 trzeci akapit bywa dopychany 3–4 zdaniami „na długość”.
+**Stan:** na main.
+
+## 2026-09-29 14:20 · CODE · Recenzja Piotra: 31163 Psotny kot (Creator 3 w 1)
+
+**Zrobione:** `artykuly/lego-31163-psotny-kot-recenzja.md` z docx Piotra (Recenzje_004) — tekst bez zmian,
+dopisane: frontmatter + 3 FAQ, tabela cen w miejsce `[TABELA CENOWA]`, link do serii Creator, 3 zdjęcia
+(kot 31163-3, pies 31163-11, gołąb 31163-12) bez podpisów. Fakty z tekstu zgodne z danymi (RRP 104,99 zł
+potwierdzone na lego.pl, 407 el., 8+, premiera 01.2025). Galeria 12 zdjęć z Planety Klocków w `galerie.json`
+(80 → 81), od razu wgrana do R2 (`r2-obrazy.mjs --galerie`: 12/12). Uwaga: rynek dziś ~68 zł (Media Expert,
+Lidl) — już poniżej progu Piotra 75 zł; tabela huba pokazuje to sama.
+**Stan:** na main.
+
+## 2026-09-29 12:40 · CODE · WDROŻONE: v2 strony głównej + „Promocje LEGO” zamiast /deale/ (301)
+
+**Decyzja Marka 29.09:** „wdrażamy v2 i promocje zamiast deali z 301, ale zostaw wersję obecną”.
+**Zrobione:** `podglad/glowna-v2` → `index.astro`; `podglad/promocje-lego` → `promocje-lego/index.astro`
+(listing 150 pozycji, 30/strona, filtr serii, sortowanie: polecane / cena ↑↓ / największy rabat %;
+bez Top 10 wycofań). `/deale/` → **301** na `/promocje-lego/` w `public/_redirects` (posty dealowe
+`/deale/<slug>/` bez zmian); dwa stare przekierowania z `astro.config` też przeniesione do
+`_redirects` jako 301. Menu: „🔥 Promocje LEGO” (→ /promocje-lego/) zamiast „Promocje dziś” (→ /)
+i „Deale”; stopka, 404, llms.txt, okruszki postów dealowych, sitemap i linki w 9 tekstach → nowy adres.
+**Powrót (gdyby trzeba):** kopie `/podglad/glowna-obecna/` i `/podglad/deale-obecne/` (noindex) oraz ostatni
+commit przed wdrożeniem **`7f488de`** (tag `przed-wdrozeniem-v2-2026-09-29` jest tylko lokalnie – proxy
+odrzuca push tagów, 403). Podgląd v1 skasowany.
+**Sprawdzone na produkcji po deployu (975e4df):** `curl -sI` bez `-L`: `/deale/` i `/deale` → 301
+`/promocje-lego/` (także z nagłówkiem `Sec-Fetch-Mode: navigate`), `/kalendarz-redakcyjny` → 301
+`/artykuly/`, `/serie/tradycyjne-festiwale-chinskie/` → 301 `/serie/seasonal/`; posty `/deale/<slug>/`
+200; `/_redirects` 404 (plik nie jest publiczny); sitemap ma `/promocje-lego/`, nie ma `/deale/`.
+**Nie zrobione z planu 27.09:** pkt 4 (style `.podglad-widok` globalnie — nowe strony nadal mają ten
+wrapper, więc wyglądają jak w podglądzie) i pkt 5 (scalenie zdublowanego kodu do `src/lib/`).
+**Dla drugiej strony:** GSC — prośba o indeksację `/promocje-lego/` i nowej `/`.
+→ 02.10 (API GSC): `/promocje-lego/` i `/` PASS, zindeksowane, crawl 29.09 12:34 i 13:00 UTC (już v2); `/deale/` zindeksowane, ostatni crawl 15.09 — Google jeszcze nie widział 301 (curl 02.10: 301 → `/promocje-lego/`); nic do ponawiania.
+
+## 2026-09-28 12:30 · CODE · x-kom „Wyższa Szkoła Rabatu" (do 18.10): aktualność + 108 cen + 115 linków
+
+**Zrobione:** mailing SalesMasters od Marka → aktualność
+`artykuly/x-kom-wyzsza-szkola-rabatu-2026-lego.md` (wyróżniona, `wazne_do` 18.10).
+Pełną listę (128 pozycji LEGO, 5 stron) pobrał **Firecrawl** – x-kom.pl oddaje mu
+200 (basic proxy), choć na nasz ruch serwerowy daje 403. Kod `rabat12` przy części
+pozycji. Porównanie z notowaniami: 33 rekordy, 51 ≈ rynek, 38 droższe niż gdzie indziej.
+Dane: 108 ofert xkom w sety.json (`wazne_do` 2026-10-18, pole `kod` przy rabat12);
+115 deeplinków w `redirects.xkom` (11 → 126, adres karty + sm=).
+Dzień Chłopaka: 43014/43022/11380/43011 podrożały, 43012 niedostępny → ich wpisy
+xkom zamknięte (`wazne_do` 30.09 → 27.09), nowe ceny dopisane; do starego posta notka
+„Aktualizacja 28 września", wyróżnienie przeszło na nowy tekst.
+`oferty.js`: oferta z `wazne_do` nie spada już po 14 dniach sita (akcja trwa 3 tygodnie).
+**Uwaga:** hełm 75429 – mailing 269,90 zł, karta 28.09 pokazuje 329,90 zł; w tekście
+„nie brać przy tej cenie". Gdy rabat się pojawi – dopisać cenę i poprawić akapit.
+**Stan:** na main.
+
+## 2026-09-28 08:40 · CODE · Import zrzutu Empiku z 28.09 (sesja Code, plik od Marka)
+
+**Zrobione:** `empik-import.mjs` (sucho → zapis) + `empik-redirects.mjs --usun-martwe`.
+Zrzut 5 320 pozycji → 4 378 cen po filtrach (odrzucone: gadżety 538, obca marka 13,
+sanity 52, spoza katalogu 337 = 17,7%, poniżej progu 20%). oferty_feed: 56 nowych,
+1 281 zmian, 48 zestawów bez Empiku w zrzucie straciło jego cenę; sety.json 982 ofert;
+18 nowych minimów w ceny_baza. Deeplinki: 41 zaktualizowanych, 52 martwe usunięte
+(jedyny dopuszczony ubytek), gałąź empik 4 775 → 4 787. Build OK.
+Marek zmienił metodę zrzutu (dwa sortowania bez luki, filtr „tylko dostępne",
+szersza reguła numeru „1016el") — dlatego ok. 10% więcej pozycji niż 21.09.
+**Stan:** gotowe, na main.
+**Dla drugiej strony:** skill `klocki-ceny-empik` opisuje jeszcze trzy przebiegi
+z filtrem ceny — Marek zrobił dwa i wystarczyło; do aktualizacji w skillu przy
+najbliższej okazji (52 „podstawki Blacked Brick" wpadają w sanity zamiast w gadżety —
+też do dopisania rdzenia „podstawka" w `zrzut-import.mjs`).
+
+## 2026-09-26 08:00 · RADAR · Do zrobienia
+
+**faniklockow.pl · 25.09** — w ich tabeli wycofań jest kolumna „Dystrybucja" (szeroka / ekskluzywna / ograniczona) plus notka „wyprzedane".
+**Mamy?** — częściowo: `/wycofania/` pokazuje status terminu, cenę i znacznik EOL, ale nie pokazuje, ilu sklepów zestaw jeszcze ma.
+**Zrobić:** — dopisać do listy na `/wycofania/` liczbę sklepów z żywą ofertą (dane są już w `oferty_feed.json`, strona je wczytuje). To nasz odpowiednik ich „dystrybucji", tylko żywy — i to właśnie tę zmienną nasz tekst z 16.09 wskazał jako najlepszy predyktor ceny względem cennika.
+**Kto:** — Code (dane, strona)
+
+→ zamknięte 14.10.2026: /wycofania/ pokazuje pod ceną „w N sklepach” (liczba sklepów ze świeżą ofertą, bez Ceneo; link do tabeli cen huba).

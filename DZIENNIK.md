@@ -118,12 +118,56 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
 Wpisy starsze niż 14 dni żyją w plikach miesięcznych. Nic nie zostało
 skasowane — jeśli szukasz czegoś starszego, jest tam:
 
-- [`2026-09`](materialy/dziennik-archiwum-2026-09.md) — 96 wpisów
+- [`2026-10`](materialy/dziennik-archiwum-2026-10.md) — 6 wpisów
+- [`2026-09`](materialy/dziennik-archiwum-2026-09.md) — 105 wpisów
 - [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 36 wpisów
 
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-19 09:40 · KONTROLER · Do zrobienia
+
+**Zrzuty Empiku i x-komu stoją na 12.10 — siódmy dzień; Empik 4 394 ceny, x-kom 735, obie partie z tej samej daty.**
+**Mamy?** — częściowo: ceny są w danych serwisu, ale tygodniowe; przypomnienie poszło 19.10 o 08:15.
+**Zrobić:** — uruchomić skill „klocki-zrzuty-tygodniowe" i wrzucić `lego-empik.json` oraz `lego-xkom.json` do sesji Code.
+**Kto:** — Marek (przeglądarka)
+
+**Liczba zaindeksowanych stron z panelu GSC ma odczyt z 09.10 (831 zaindeksowanych, 3 181 nie) — 26.10 minie 17 dni, a API tej liczby nie podaje.**
+**Mamy?** — nie: ostatni odczyt 09.10.2026 przez Coworka.
+**Zrobić:** — odczytać raport „Strony" w panelu GSC przed 26.10 (zaindeksowane + podział niezaindeksowanych) i wpisać do dziennika.
+**Kto:** — Marek (panel) albo Cowork (panel)
+
+**Łowca wypchnął kontrolę linków 19.10 o 09:14 PL — 14 minut po starcie Kontrolera; tabelę udało się przeczytać tylko dzięki drugiemu `git fetch` w trakcie przebiegu.**
+**Mamy?** — częściowo: plik `materialy/kontrola-linkow-2026-10-19.md` jest w repo (`ae759a9`), ale powstał po godzinie, o której go czytam.
+**Zrobić:** — przesunąć Łowcę z 08:30 na 08:00 PL albo Kontrolera z 09:00 na 09:30 (`trig_019xWfJ67XhPdnX6GknSYrb3` albo `trig_01KB8XkPcHyvc5kCRKEKYjri`).
+**Kto:** — Marek (panel)
+
+**Sześć hubów działów ma crawl starszy niż 14 dni; `/serie/` i `/wycofania/` stoją na 15.09 (34 dni), a `/wycofania/` to największe źródło wyświetleń w serwisie (34 w 7 dni, pozycja 7,1).**
+**Mamy?** — częściowo: runner „Kolejka indeksacji 01:57" chodzi codziennie, ale bierze wyłącznie huby `/zestaw/`.
+**Zrobić:** — decyzja: czy jeden dzień w tygodniu kolejka oddaje 8 z 10 miejsc hubom działów (`/serie/`, `/wycofania/`, `/ekskluzywne/`, `/promocje-lego/`, `/przecieki/`, `/prezentowniki/`, `/aktualnosci/`, `/artykuly/`).
+**Kto:** — Marek (decyzja)
+
+**Kamień 2 nie ma zapisanego kryterium: Ceneo ma 3 transakcje po 0,08 EUR, czyli formalnie „próbę większą niż jedna transakcja", a trzeci raport z rzędu podaje „1 sklep" na mocy uznania Kontrolera.**
+**Mamy?** — nie: progu nie ma ani w promptach runnerów, ani w `_meta.decyzje` rejestru afiliacji.
+**Zrobić:** — ustalić próg (propozycja Kontrolera: transakcja liczy się przy obrocie ≥ 10 EUR) i wpisać do `src/data/afiliacje_rejestr.json` → `_meta.decyzje`.
+**Kto:** — Marek (decyzja)
+
+**Kontrola linków milczy o 46 ze 150 adresów (31%) — trzeci tydzień wzrostu (15% → 23% → 31%); x-kom sam wniósł 26 pozycji, wszystkie w „blokadzie sklepu", a cztery blokujące sklepy zebrały 67% polskich kliknięć.**
+**Mamy?** — częściowo: kontrola chodzi co poniedziałek i mówi „martwych: 0", co przy 31% bez odpowiedzi jest mylące.
+**Zrobić:** — wybrać A (Cowork raz w miesiącu sprawdza w przeglądarce 20 linków: x-kom, Empik, Media Expert, LEGO.com) albo B (losowanie próby pomija sklepy blokujące, żeby 150 adresów dawało 150 odpowiedzi).
+**Kto:** — Marek (decyzja)
+
+**Eksport listy 220 adresów zwracających 404 w GSC wisi od 12.10 — po noindex (2 284) to największa pojedyncza pozycja wśród niezaindeksowanych.**
+**Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).
+**Zrobić:** — wyeksportować listę 404 z panelu GSC do repo, żeby Code rozstrzygnął każdy adres (przekierowanie albo zdjęcie z sitemapy).
+**Kto:** — Cowork (panel)
+
+**x-komu nie ma w `afiliacje_rejestr.json`, choć jego linki są otagowane (`?sm=Y74rgdCO`, 788 wpisów w `redirects.xkom`) i zebrały 7 polskich kliknięć w 30 dni.**
+**Mamy?** — częściowo: w rejestrze jest „alto" (SalesMasters, grupa x-kom), samego x-komu nie ma, a rejestr jest jedynym źródłem prawdy o sieciach.
+**Zrobić:** — dopisać wpis `xkom` do `src/data/afiliacje_rejestr.json` (sieć SalesMasters, parametr `sm=`, status, prowizja, cookie).
+**Kto:** — Code (dane)
+
 
 ## 2026-10-19 · CODE · Zapowiedzi 2027: dwie tabele zamiast jednej
 
@@ -150,6 +194,7 @@ Zamknięcie pozycji z dzisiejszego Radaru. Strona stała od 27.08 i mówiła nie
   się szybciej, niż ktokolwiek do niego wraca. Tu wyszło siedem tygodni. Warto, żeby
   Kontroler raz w tygodniu porównywał `zaktualizowano` tekstów o zapowiedziach z datami
   wpisów w `przecieki.json` i `sety.json` — to zapytanie, nie praca redakcyjna.
+
 ## 2026-10-19 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 19.10** — Wystawili zbiorczą stronę zapowiedzi LEGO 2027; fanklockow tej samej nocy dołożył cztery strony per seria (Star Wars, Ninjago, Friends, City).
@@ -162,7 +207,6 @@ Zamknięcie pozycji z dzisiejszego Radaru. Strona stała od 27.08 i mówiła nie
 **Mamy?** — częściowo: `/wycofania` ma numery, daty i status potwierdzenia przez LEGO (mocniejsza podstawa niż ich listy), ale nie ma formy, która co tydzień wybiera z niej kilka pozycji i mówi „to kup teraz".
 **Zrobić:** — decyzja, czy wchodzimy w formę cykliczną; cykl tygodniowy to stały nakład pracy, a nie jeden tekst.
 **Kto:** — Marek (decyzja)
-
 
 ## 2026-10-18 · CODE · Do zrobienia
 
@@ -231,7 +275,6 @@ stary usunięty. Szczegóły: `materialy/zadania-cykliczne.md`, historia 18.10.
 - Pomyłka warta zapisania: zacząłem od „nie mamy 11388 w katalogu”, bo szukałem w `katalog.json`
   (plik z listingu lego.com). Rejestrem zestawów jest `sety.json`. Luki w danych sprawdzamy tam.
 
-
 ## 2026-10-16 · CODE · Premiera Piotra: 11388 Wenecka okolica
 
 - `/artykuly/lego-11388-wenecka-okolica-premiera/` — tekst Piotra bez zmian (w DOCX śródtytuły były zwykłymi akapitami — zamienione na nagłówki), FAQ, linki do Icons, 21359 i 40898, tabela cen, 8 zdjęć. Galeria 11388 (9 zdjęć z lego.com) w `galerie.json` i R2.
@@ -280,7 +323,6 @@ wpisie RADAR. Build 10004 strony, wszystkie trzynaście linków z nowej sekcji s
 w `dist/`. Nagłówek sekcji i wiersz w liście „co trwa teraz" zmienione, żeby niosły liczby,
 a nie slogan. `zaktualizowano` 13.10 → 16.10.
 
-
 ## 2026-10-16 08:20 · RADAR · Do zrobienia
 
 **fanklockow.pl · 15.10** — Wystawili prognozę Weekendu Insiders i Czarnego piątku 2026 sześć tygodni przed czasem, z zapowiedzią bieżących aktualizacji; obejmuje też grudzień (ostatnie okno podwójnych punktów, dwa świąteczne gratisy, mocne przeceny EOL po świętach).
@@ -301,7 +343,6 @@ Pominięte: 2 publikacje bez znaczenia dla nas (COBI Viqueens, premiery Pantasy 
 na **21–26.11**. Nie przestawiam naszej daty na ich: żadne z tych okien nie jest potwierdzone przez
 LEGO, więc to nie jest „fakt kontra błąd", tylko dwie prognozy. Wpisujemy datę, gdy ogłosi ją LEGO —
 tak samo jak przy Allegro Black Weeks, gdzie od tygodni czekamy na termin.
-
 
 ## 2026-10-16 05:25 · SCOUT · Do zrobienia
 
@@ -512,7 +553,6 @@ Meta 76329: „od 337,00 zł w 2 sklepach, cena katalogowa 299,99 zł".
 druga z dwóch opcji, które proponowałem, i Marek wybrał tę. Gdyby kiedyś miała dojść,
 sygnał jest już policzony (`wyprzedaneWLego`), wystarczy przekazać go do `TabelaCen`.
 
-
 ## 2026-10-14 11:40 · CODE · Plakietka „wyprzedane w LEGO.com" na hubie — 39 zestawów
 
 Domknięcie punktu z wpisu 11:10: etykieta `lego_pl_etykieta: niedostepne` była zapisywana
@@ -591,7 +631,6 @@ Katalog 9822 → 9826, feed 8769 → 8773.
    cienkich hubów (jedna oferta, zero tekstu redakcyjnego), nie usterka. Odpowiadają 200
    i są poza sitemapą. Indeksowalne zrobiłby je tekst redakcyjny, a nie zmiana w danych.
 
-
 ## 2026-10-14 10:50 · CODE · Dane wt: awaria LEGO.pl nie zabiera już cen Ceneo i Smyka
 
 - Nowy prompt (trigger `trig_01XjJhujd8FnXsGWAHQeUBqd`, ta sama sesja). Błąd w krokach LEGO.pl (alarm parsera, brak kredytów Firecrawla, urwany listing) → runner pomija resztę kroków LEGO.pl, ale robi ceny Ceneo, Lidla, MediaMarktu i Smyka, build i push, a awarię wpisuje do „Kto co robi”. Przed zaciągiem kasuje pliki z /tmp, żeby nie wczytać danych z poprzedniego wtorku. Szczegóły: `materialy/zadania-cykliczne.md`, historia 14.10.
@@ -620,6 +659,7 @@ Katalog 9822 → 9826, feed 8769 → 8773.
 **Zrobić:** — sprawdzić kartę ME (Łowca potwierdził 69,99 zł na stronie 13.10 i 14.10) i dopisać 40824 do `src/data/deale_potwierdzone.json`
 **Kto:** — Marek (decyzja)
 → zamknięte 14.10: Marek potwierdził, 40824 (69,99 zł, Media Expert) w `deale_potwierdzone.json` — oferta wraca do huba i tabel cen
+
 ## 2026-10-14 10:30 · CODE · Wtorkowy łańcuch dokończony: rejestr RRP i linki LEGO
 
 Po poprawce parsera (wpis 08:55) dwa ostatnie ogniwa łańcucha, na tym samym zaciągu
@@ -651,7 +691,6 @@ rejestru): 40655, 40722, 40723, 40724 — Zabawa z alfabetem Braille'a w czterec
 po 379,99 zł — oraz Powered Up: 88011 silnik pociągu 57,99, 88019 zasilacz USB 144,99,
 88021 akumulator 124,99. Alfabet Braille'a to zestawy klocków, więc jeśli mają u nas być,
 dopisuje je Scout albo `katalog-z-rebrickable.mjs`; trzy ostatnie to komponenty, nie zestawy.
-
 
 ## 2026-10-14 08:55 · CODE · Parser listingu LEGO.pl gubił każdy przeceniony zestaw
 
@@ -705,7 +744,6 @@ werdykt się broni.
 - **/wycofania/:** pod ceną „w N sklepach” (Radar 26.09).
 - **Decyzje Marka:** 72306 — kupno odkładamy; Proshop — ponaglenie, gdy wzrośnie ruch. Obie pozycje Radaru zamknięte.
 
-
 ## 2026-10-14 08:20 · RADAR · Do zrobienia
 
 **faniklockow.pl · 13.10** — Wypisali zestawy najtańsze teraz na LEGO.pl pod okno podwójnych punktów; sprawdzone u źródła: LEGO.pl ma dziś **74 produkty na wyprzedaży** (−20 do −50%).
@@ -735,7 +773,6 @@ przy faktycznych 583,99, 75402 za 299,99 przy 239,99, 11504 za 249,99 przy 199,9
 **Cen ręcznie nie wpisałem** — tą samą zasadą co przy Proshopie 10.10: wpisana z ręki kwota
 nie ma czym się odświeżyć i zacznie kłamać, a tutaj mechanizm odświeżania istnieje i wystarczy
 go naprawić.
-
 
 ## 2026-10-13 17:20 · CODE · Nowe logo: granatowy klocek + „tylkoklocki.pl" (Rubik)
 
@@ -1069,307 +1106,6 @@ zostaje bez zmian — potwierdzaliśmy je w dwóch serwisach branżowych.
 
 → zamknięte 13.10.2026 (pozycja BLDP): „piątej serii” poprawione na „dziewiątej” w przebiegu Radaru 06.10. Pozycja o Sanrio (Piotr) zostaje otwarta.
 
-## 2026-10-04 08:15 · RADAR · Do zrobienia
-
-**fanklockow.pl · 03.10** — Wideorecenzja LEGO 72306 PlayStation, czyli świeżej premiery za 689,99 zł, która właśnie weszła w okno prezentowe.
-**Mamy?** — częściowo: hub `/zestaw/72306/` z notkami dla rodzica i dla AFOL-a oraz wzmianki w trzech tekstach, ale recenzji nie ma.
-**Zrobić:** — nowy tekst „Recenzja LEGO 72306 PlayStation" (kategoria Recenzje; wymaga dostępu do zestawu, więc najpierw decyzja, czy go mamy).
-**Kto:** — Marek (decyzja o zestawie), potem Piotr (tekst)
-
-Kontekst cenowy do tej pozycji: 03.10 Ceneo ma 619,99 zł, czyli **pierwszą ofertę
-poniżej katalogu** 689,99. Jeszcze 29.09 wszystkie oferty zewnętrzne były wyższe
-od cennika i na tej podstawie zapisaliśmy, że to odsprzedaż — Allegro 748,99 nadal
-nią jest, ale dystrybucja już weszła.
-
-→ zamknięte 14.10.2026: decyzja Marka — kupno 72306 odkładamy, recenzji nie będzie.
-
-## 2026-10-03 09:30 · CODE · Nowy prompt Łowcy zweryfikowany na pierwszym przebiegu
-
-Przebieg z harmonogramu 03.10 08:34 PL, commit `c87196a`. Zmiana z 02.10 działa:
-
-- **Historia cen: 1169 wpisów z datą 2026-10-03** (1030 Allegro, 120 Media Expert,
-  12 Lidl, 7 Planeta Klocków). Dzień wcześniej, przed poprawką, ten sam krok dał
-  65 wpisów — czyli skrypt faktycznie przeszedł na koniec przebiegu, po zapisaniu
-  `oferty_feed.json`. Seria za 30.09–03.10: 1105 / 1190 / 1375 / 1169, bez dziur.
-- **Kontrola kart ME: 25 kandydatów, 25 sprawdzonych, 0 poprawek.** Dwie rzeczy
-  z tego wynikają: po łatce `g:sale_price` feed zgadza się z kartami, a limit
-  80 kart dziennie ma zapas — wczorajsze 85 kandydatów było jednorazowym efektem
-  samej poprawki, nie normą.
-- Ceny ME w commicie Łowcy sprawdzone niezależnie: wszystkie 746 ofert z datą
-  03.10, a zestawy, które wczoraj ręcznie weryfikowałem na kartach, trzymają
-  właściwe kwoty (60499 — 179, 10440 — 52,89, 72050 — 499, 10300 — 775). Poprawka
-  przechodzi przez pełny przebieg runnera, nie tylko przez moje ręczne naniesienie.
-
-**Odpalenie na żądanie z 02.10 12:57 nie zadziałało i nie wiem dlaczego.**
-`fire_trigger` zapisał `last_fired_at`, ale pola `last_run` nie było wcale, sesja
-Łowcy nie dostała tury (`updated_at` został na 02.10 07:03) i nie powstał commit.
-Dzisiejsze odpalenie z harmonogramu ma `last_run: SUCCEEDED` i `session_id`
-`cse_01SdxKtAvW8UmktsuXrsPYga`, podczas gdy wczorajszy `fire_trigger` zwrócił
-`cse_012qL4Q3E8BJ5CqFX3eD5Tiz` — inny identyfikator przebiegu, który nigdy się nie
-zmaterializował. To obserwacja, nie diagnoza. Wniosek praktyczny: **weryfikację
-zmiany promptu runnera planujemy na jego normalny przebieg, a nie na
-`fire_trigger`** — albo po `fire_trigger` sprawdzamy `last_run`, zanim napiszemy,
-że przebieg wystartował.
-
-**Zrobić:** — sesja Łowcy ma 762 tys. z 1 mln tokenów kontekstu (wczoraj 725 tys.,
-czyli ~37 tys. na przebieg). Przy tym tempie zostaje jej około sześciu przebiegów.
-Zaplanować odtworzenie sesji (delete+create Routine'a z nowym `persistent_session_id`),
-zanim uderzy w limit w środku sezonu XI–XII.
-**Kto:** — Marek (decyzja kiedy) + Code (wykonanie)
-
-## 2026-10-03 08:20 · RADAR · Nic do zrobienia (ale poprawka dostępu)
-
-Przebieg bez pozycji do piątki: fanklockow dwie publikacje (jedna o COBI — poza
-zakresem), faniklockow zero nowych (feed RSS bajt w bajt identyczny z wczorajszym,
-najnowsza pozycja z 01.10 15:35). Cztery wpisy dołożone do bazy, żadnego zadania.
-
-**Poprawka zapisanego „faktu" o dostępie.** `konkurencja_baza.json` miała w
-`_meta.dostep`, że dla promoklocki.pl i zklockow.pl „jedynym źródłem pozostaje
-WebSearch z allowed_domains". To nieprawda: dziś oba serwisy **weszły Firecrawlem**,
-HTTP 200 z `proxy: basic` — zklockow.pl oddał listę produktów i pełne menu sekcji,
-promoklocki.pl w formacie `links` kategorie i karty produktów za 1 kredyt. Stary
-zapis był obejściem z czasów, gdy nie próbowaliśmy Firecrawla; curl i WebFetch
-dalej dostają 403 i to się nie zmieniło. Monitoring strukturalny tych dwóch
-serwisów robimy od teraz Firecrawlem, nie WebSearchem — zapisane w `_meta.dostep`.
-
-Przy okazji sprawdzone, czy świąteczny asortyment z promoklocki ma u nas luki:
-11 z 12 numerów (40874, 40875, 40866, 40865, 11387, 5011093, 40900, 43026, 76355,
-11379, 21373) jest w `katalog.json`; brakuje tylko 5011029, a to gra planszowa
-Ninjago, nie zestaw klocków. Luki więc nie ma.
-
-## 2026-10-02 12:40 · RADAR · Media Expert: sprostowanie diagnozy i poprawka w parserze
-
-**Sprostowanie do wpisu z dzisiejszego 08:00.** Napisałem tam, że zawyżone ceny
-Media Expertu to skutek niepełnego odświeżenia (594 z 735 pozycji z datą 29.09
-lub starszą). To nie była przyczyna. Dzisiejszy świeży feed
-(`mediaexpert_feed_updated: 2026-10-02 00:30 CEST`) zwrócił **te same stare
-kwoty**, więc świeżość danych nie miała z tym nic wspólnego.
-
-**Prawdziwa przyczyna — dwie, obie zmierzone na kartach przez Firecrawla:**
-
-1. `scripts/feedy-lego.py` czytał tylko `<g:price>`, a cena promocyjna siedzi
-   w `<g:sale_price>`. `g:price` zostaje przez cały czas promocji ceną regularną,
-   więc czytelnik widział u nas kwoty wyższe od sklepowych (60499: feed 199,99,
-   karta 179,00). Po łatce **143 zestawy dostały niższą, prawdziwą cenę** —
-   mediana rabatu 8,4%, maksimum 39,9%; 10 z 11 kontrolnych zgadza się teraz
-   co do groszy z listą przecen, którą opisał faniklockow.
-2. Nawet `g:price` bywa rozjechany z kartą, i to mocno: 10440 feed 84,99 /
-   karta 52,89; 71513 feed 219,99 / karta 146,36; 10300 feed 849,99 /
-   karta 775,00; 42213 feed 202,99 / karta 185,50. Na pięciu sprawdzonych
-   „wzrostach ceny" **cztery były wymysłem feedu**. Kierunek błędu zawsze ten
-   sam: feed pokazuje więcej, niż się płaci w sklepie.
-
-**Druga rzecz do odnotowania jako błąd mój:** w pierwszej wersji łatki
-zapisałem, że `<g:price>` bywa zdublowane z „0 PLN" na początku. Nieprawda —
-dodatkowe `<g:price>` siedzą w `<g:shipping>` (kurier 14,90, InPost 7,99, 0,00
-przy darmowej dostawie), a `findtext` i tak patrzy tylko na dzieci `<entry>`.
-Teza wzięła się z grepa po surowym pliku. Komentarz w skrypcie i RUNBOOK mówią
-teraz, jak ten plik wygląda naprawdę.
-
-**Zrobione w repo:**
-- `scripts/feedy-lego.py` — `g:sale_price` przed `g:price`, pole `cena_regularna`
-  w wyciągu.
-- `scripts/me-ceny-stron.mjs` (nowy) — kontrola cen ME na kartach produktów przez
-  Firecrawla, wołana automatycznie przez `feedy-lego.py`, więc Łowca dostaje już
-  poprawiony wyciąg i prompt Routine'a nie wymaga zmiany. Sprawdza wąski podzbiór
-  (skok ceny powyżej 15% albo ME najtańszy z przewagą powyżej 10%), limit 80 kart
-  i budżet 900 s, bo karta to 1 kredyt Firecrawla przy 5 000 na miesiąc.
-  Bez `FIRECRAWL_KEY` przepuszcza wyciąg bez zmian — nie może wywrócić Łowcy.
-- RUNBOOK: **wycofany** dotychczasowy wniosek „ceny ME bierzemy wyłącznie z feedu,
-  bo jest oficjalny i wiarygodny" oraz zdanie, że kart ME nie da się sprawdzić
-  z sesji (Firecrawl wchodzi, `proxy: basic`, 1 kredyt).
-- Ceny ME w `oferty_feed.json`, `sety.json` i minima w `ceny_baza.json` nanie-
-  sione poprawnym parserem na dane, które Łowca zapisał dziś starym.
-
-**Zrobić:** — przy następnym przeglądzie budżetu Firecrawla sprawdzić, czy limit
-80 kart dziennie wystarcza; dziś kandydatów było 85, ale to jednorazowy efekt
-samej poprawki — w normalny dzień kryterium „skok ceny" powinno dawać kilka.
-**Kto:** — Code (dane, strona)
-
-### Przy okazji: historia cen spisuje się o jeden krok za wcześnie
-
-`historia-cen.mjs` jest wołany z wnętrza `feedy-lego.py`, czyli **zanim** Łowca
-naniesie ceny z wyciągu na `oferty_feed.json`. Skrypt widzi więc stan wczorajszy
-i codziennie spisuje wczorajsze zmiany, nie dzisiejsze. Liczby z dziś:
-plik z `origin/main` miał po przebiegu Łowcy **65** wpisów z datą 2026-10-02,
-a uruchomienie skryptu po naniesieniu danych dopisało **1310** (986 Allegro,
-321 Media Expert, 3 Planeta Klocków) — tyle zmian cen z dziś nie było zapisanych.
-Te 1310 wpisów dopisałem w tym przebiegu, więc dzisiejszy dzień jest kompletny.
-
-**ZROBIONE tego samego dnia** (Marek: „zmień ten prompt Łowcy sam"). Wywołanie
-`historia-cen.mjs` wyjęte z `feedy-lego.py` i dopisane do promptu Łowcy jako
-trzeci skrypt w kroku PRZED COMMITEM — oba końce w jednej zmianie, więc
-zbieranie historii nigdzie nie wypada.
-
-Prompt: `update_trigger` odmawia zmiany instrukcji z innej sesji niż ta, do
-której Routine wpada („a routine's instructions can be changed only from the
-conversation the routine posts into"), więc delete+create — tak jak mówi
-CLAUDE.md. Najpierw create, potem delete, żeby ani na chwilę nie zostać bez
-Routine'a. Nowy `trig_01RjjGRUpJ8QVvhBQrLXiy7Z` (stary
-`trig_01L8awRzxEbeUSQsad7ye18Y` skasowany), ta sama stała sesja
-`session_01SdxKtAvW8UmktsuXrsPYga`, ten sam cron `CRON_TZ=Europe/Warsaw 30 8 * * *`,
-następny przebieg 03.10 08:34 PL. Sprawdzone po zmianie: sesja Łowcy żyje,
-na liście jest dokładnie jeden Routine Łowcy.
-
-Przy okazji w promptcie: pole `_meta.mediaexpert_karty` do raportu, weryfikacja
-kart ME przez Firecrawla zamiast WebFetcha (ME oddaje 403) i liczba nowych wpisów
-historii w podsumowaniu.
-
-**Zrobić:** — przy następnym przeglądzie budżetu Firecrawla sprawdzić, czy limit
-80 kart dziennie wystarcza (dziś 85 kandydatów to jednorazowy efekt poprawki),
-i czy pierwszy przebieg Łowcy na nowym promptcie 03.10 dopisał historię cen
-w normalnej skali (rzędu kilkuset wpisów, nie 65).
-**Kto:** — Code (dane, strona)
-
-## 2026-10-02 08:00 · RADAR · Do zrobienia
-
-**Media Expert · 1.10** — od rana 1 października ruszyła u nich duża fala przecen na LEGO (20–44%, kilka pozycji „historycznie najtaniej"), a nasze ceny Media Expert tego nie widzą.
-**Mamy?** — nie: sprawdziłem dwanaście pozycji z ich listy i w **każdej** nasza cena Media Expert jest wyższa od faktycznej, zwykle o 8–15%, a przy 31174 Telefon retro prawie dwukrotnie (129,99 wobec 70 zł). Pomiar szerszy: 735 zestawów ma u nas ofertę Media Expert, odświeżono 1.10 tylko 141 — **594 pozycje (81%) mają ceny z 29.09 lub starsze**. Cały feed dostał 1.10 aż 4632 wpisy, więc odświeżenie się odbyło; niepełne jest samo pokrycie Media Expert.
-**Zrobić:** — sprawdzić w runnerze Łowcy, dlaczego import Media Expert objął 1.10 tylko piątą część zestawów, i dociągnąć resztę. To jeden z naszych sklepów publikacyjnych, więc zawyżone ceny widzi czytelnik w tabelach hubów w szczycie sezonu.
-**Kto:** — Code (dane, strona)
-
-→ zamknięte 13.10.2026: naprawione 02.10 w 5466f4b (ceny ME z `g:sale_price` + kontrola na kartach produktów); 13.10 wszystkie 733 oferty ME mają datę z dnia.
-
-## 2026-10-01 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
-
-- 76477 Zamek Hogwart: lekcje latania — StoneWars, „Top 10 der LEGO EOL-Sets 2026”
-  (https://www.stonewars.de/news/top-10-lego-eol-sets-2026/, 30.09.2026): artykuł wskazuje
-  jako EOL całe serie Harry Pottera „Zamek Hogwart” i „Ulica Pokątna”, wymieniając m.in.
-  76477, 76445 i 76442. Z tych numerów **76477 nie ma w `wycofania.json`** — pozostałe
-  wymienione w tekście (76442, 76445, 76447, 76452) już są. Sama dziesiątka z rankingu
-  (75192, 42179, 40516, 75397, 10335, 21353, 40805, 21060, 31171, 60495) jest w pliku w całości.
-
-→ Wycofania 2026-10-05: odrzucone (na razie). U źródła: 76477 występuje tylko w sekcji
-„Extra-Tipp" jako prognoza redakcji StoneWars, nie oznaczenie LEGO; drugiego niezależnego
-źródła brak (sprawdzono promobricks/web). Do tego 76477 to wg katalogu „Norbert: mały smok
-Hagrida" (premiera VI 2026, widziany na listingu lego.pl 29.09) — nazwa z sygnału nie pasuje.
-Wrócę do tematu, gdy potwierdzi drugie źródło albo LEGO oznaczy zestaw w sklepie.
-
-## 2026-09-30 19:00 · CODE · Routines po audycie: czas polski, Łowca z buildem, Harmonogram w tej sesji
-
-**Zrobione na koncie:**
-- Crony runnerów LEGO w zapisie `CRON_TZ=Europe/Warsaw …` z tymi samymi godzinami PL
-  (Scout, Radar, Łowca, Wycofania, Kontroler, Dane wt, Harmonogram) — zmiana czasu 25.10
-  niczego nie przesunie; jednorazowe przypomnienie o DST niepotrzebne.
-- Łowca odtworzony (delete + create w tej samej sesji `session_01SdxKtAvW8UmktsuXrsPYga`,
-  nowe ID `trig_01L8awRzxEbeUSQsad7ye18Y`): `npm run build` przed pushem, przy konflikcie
-  `historia-cen/` z origin + `historia-cen.mjs` zamiast ręcznego scalania, `seo_tytul`/`seo_opis` w postach.
-- Harmonogram z konta przypięty do sesji Code `session_011GrNNd6UVQFF1NamoPaQMS`
-  (`trig_01LU2xZxWqyCmNYv7rPyik3x`) + kontrola wielkości sesji runnerów (`get_session`, alarm > 850 tys.).
-  Scout 30.09: 313 tys. z 1 mln — nowa sesja niepotrzebna.
-- `harmonogram-z-konta.mjs` rozumie `CRON_TZ=Europe/Warsaw`.
-**Czeka na Marka (panel, zadania założone przez http_api — agent ich nie zmieni):** Alerty
-(cron + krok 2), Zdjęcia → R2 (cron 04:45 i 09:45), Przypomnienie (cron), wyłączenie
-„Empik co tydzien”, skasowanie Backfill.
-→ 30.09 wieczorem: Marek poprawił w panelu prompt Alertów i czas Zdjęć (04:45). Code założył
-dwa zadania z czasem polskim: „Zdjęcia → R2, drugi przebieg” 09:45 (`trig_01XAJy9vca6HUK6YY3XarLWM`,
-próba 15:18: 11 563 w R2, brak 0, błędów 0) i nowe Alerty 09:30 (`trig_018D4PGvCaYkcDKDfNM3fjLZ`) —
-stare Alerty z panelu Marek wyłącza. Przypomnienie o Empiku zostaje (tylko mail do Marka);
-do wyłączenia „Empik co tydzien” (skill w chmurze), Backfill wstrzymany — do skasowania.
-
-## 2026-09-30 18:00 · CODE · Teksty szablonowe, SEO meta, odczyt GSC od Coworka
-
-**Zrobione:** `d526d69` — poprawki tekstów szablonowych z audytu (opisy generowane bez zdań
-o dostępności, odmiana liczebników, 880 kart z poprawionym akapitem rocznikowym). `259f5c9` —
-tytuły ≤ 60 i opisy ≤ 160 znaków na 1 433 indeksowanych stronach; pola `seo_tytul`/`seo_opis`
-(artykuły, deale) i `seoTytul`/`seoOpis` (prezentowniki), zasada w `redakcja/ustalenia-projektowe.md`.
-**GSC (odczyt Coworka + URL Inspection API 30.09):** raport „Strony” z 21.09 jest nieaktualny.
-10312 i 75355 nie mają już noindex. 0 z 133 stron z wyświetleniami zwraca 404 i 0 martwych
-linków wewnętrznych — 220 × 404 to stare adresy spoza serwisu, do obejrzenia przez eksport.
-Zgłoszenia Coworka zadziałały (x-kom WSR i 31163 zindeksowane 30.09).
-Niezindeksowane teksty: nieznane — 77242, najwieksze-zestawy-lego-star-wars,
-najdrozsze-zestawy-lego-rynek-wtorny; wykryte — allegro-black-weeks, jesien-swieta-premiery,
-wycofania-grudzien, 75438, 60508, bam-halloween, historia-licencji cz. 3; zeskanowane —
-super-mario-2027, najwieksze-technic.
-**Dla drugiej strony:** Cowork — 1.10 zgłoszenia wg listy w odpowiedzi Code (zaczynając od 75389).
-
-## 2026-09-30 10:30 · CODE · Audyt po wdrożeniu 29.09: afiliacje, Cloudflare, Firecrawl, Routines, GSC, spójność, teksty
-
-**Zrobione:** `materialy/audyt-2026-09-30.md` (raport zbiorczy, 9 sekcji) + `audyt-2026-09-30.xlsx`
-(8 arkuszy) + `audyt-2026-09-30/` (routines, strona-spojnosc, teksty-szablonowe). Liczby z API.
-**Najważniejsze:** Cloudflare — plan płatny nie grozi (worker 6% limitu), realny sufit to 20 000
-plików w assets (dziś 10 022). Firecrawl 5 000/mies. wg API, 71% zużycia z sesji (json = 5 kredytów).
-Routines: bez dubli poza Empikiem, x-kom bez właściciela, Łowca bez builda przed pushem, Scout ~800 k.
-Strona spójna (0 martwych linków, 0 błędów LD), meta >160 na 1 300 stron. Teksty: ton dobry, ale
-zdania o dostępności w `opisy.json` przeczą tabelom (60339 „z drugiej ręki” obok −50%).
-**Stan:** raport na main; poprawki czekają na kolejność od Marka (sekcja 9 raportu).
-**Dla drugiej strony:** Cowork — komendy GSC w sekcji 5 raportu.
-
-## 2026-09-29 15:50 · CODE · Karty P07 Piotra: partie 02, 26, 27 (75 nowych kart) wgrane
-
-**Zrobione:** `import-karty.py` na 3 zipach (poprawione wersje od Piotra; automat przez git po stronie chata
-nie zadziałał, gałąź w repo Piotra do skasowania przez niego/Marka). 75 kart, 0 zablokowanych (RRP zgodne),
-karty_setow 1124 → 1199. Poprawki: metka szablonu „Opis P07 • LEGO … • 2025” jako 1. akapit w całej partii 02
-— filtr w imporcie (68ab221); 75350 elementy 776 → 766 (Brickset). Nazwy: zostają kanoniczne z katalogu
-(15 różnic typu „–”/„-”, polskie nazwy minifigurek). Wszystkie 75 hubów bez noindex po buildzie.
-Uwaga dla Piotra: partia 27 bez nagłówka „Opis zestawu” i z krótszą metryką (bez wieku/typu/dystrybucji);
-w partii 26 trzeci akapit bywa dopychany 3–4 zdaniami „na długość”.
-**Stan:** na main.
-
-## 2026-09-29 14:20 · CODE · Recenzja Piotra: 31163 Psotny kot (Creator 3 w 1)
-
-**Zrobione:** `artykuly/lego-31163-psotny-kot-recenzja.md` z docx Piotra (Recenzje_004) — tekst bez zmian,
-dopisane: frontmatter + 3 FAQ, tabela cen w miejsce `[TABELA CENOWA]`, link do serii Creator, 3 zdjęcia
-(kot 31163-3, pies 31163-11, gołąb 31163-12) bez podpisów. Fakty z tekstu zgodne z danymi (RRP 104,99 zł
-potwierdzone na lego.pl, 407 el., 8+, premiera 01.2025). Galeria 12 zdjęć z Planety Klocków w `galerie.json`
-(80 → 81), od razu wgrana do R2 (`r2-obrazy.mjs --galerie`: 12/12). Uwaga: rynek dziś ~68 zł (Media Expert,
-Lidl) — już poniżej progu Piotra 75 zł; tabela huba pokazuje to sama.
-**Stan:** na main.
-
-## 2026-09-29 12:40 · CODE · WDROŻONE: v2 strony głównej + „Promocje LEGO” zamiast /deale/ (301)
-
-**Decyzja Marka 29.09:** „wdrażamy v2 i promocje zamiast deali z 301, ale zostaw wersję obecną”.
-**Zrobione:** `podglad/glowna-v2` → `index.astro`; `podglad/promocje-lego` → `promocje-lego/index.astro`
-(listing 150 pozycji, 30/strona, filtr serii, sortowanie: polecane / cena ↑↓ / największy rabat %;
-bez Top 10 wycofań). `/deale/` → **301** na `/promocje-lego/` w `public/_redirects` (posty dealowe
-`/deale/<slug>/` bez zmian); dwa stare przekierowania z `astro.config` też przeniesione do
-`_redirects` jako 301. Menu: „🔥 Promocje LEGO” (→ /promocje-lego/) zamiast „Promocje dziś” (→ /)
-i „Deale”; stopka, 404, llms.txt, okruszki postów dealowych, sitemap i linki w 9 tekstach → nowy adres.
-**Powrót (gdyby trzeba):** kopie `/podglad/glowna-obecna/` i `/podglad/deale-obecne/` (noindex) oraz ostatni
-commit przed wdrożeniem **`7f488de`** (tag `przed-wdrozeniem-v2-2026-09-29` jest tylko lokalnie – proxy
-odrzuca push tagów, 403). Podgląd v1 skasowany.
-**Sprawdzone na produkcji po deployu (975e4df):** `curl -sI` bez `-L`: `/deale/` i `/deale` → 301
-`/promocje-lego/` (także z nagłówkiem `Sec-Fetch-Mode: navigate`), `/kalendarz-redakcyjny` → 301
-`/artykuly/`, `/serie/tradycyjne-festiwale-chinskie/` → 301 `/serie/seasonal/`; posty `/deale/<slug>/`
-200; `/_redirects` 404 (plik nie jest publiczny); sitemap ma `/promocje-lego/`, nie ma `/deale/`.
-**Nie zrobione z planu 27.09:** pkt 4 (style `.podglad-widok` globalnie — nowe strony nadal mają ten
-wrapper, więc wyglądają jak w podglądzie) i pkt 5 (scalenie zdublowanego kodu do `src/lib/`).
-**Dla drugiej strony:** GSC — prośba o indeksację `/promocje-lego/` i nowej `/`.
-→ 02.10 (API GSC): `/promocje-lego/` i `/` PASS, zindeksowane, crawl 29.09 12:34 i 13:00 UTC (już v2); `/deale/` zindeksowane, ostatni crawl 15.09 — Google jeszcze nie widział 301 (curl 02.10: 301 → `/promocje-lego/`); nic do ponawiania.
-
-## 2026-09-28 12:30 · CODE · x-kom „Wyższa Szkoła Rabatu" (do 18.10): aktualność + 108 cen + 115 linków
-
-**Zrobione:** mailing SalesMasters od Marka → aktualność
-`artykuly/x-kom-wyzsza-szkola-rabatu-2026-lego.md` (wyróżniona, `wazne_do` 18.10).
-Pełną listę (128 pozycji LEGO, 5 stron) pobrał **Firecrawl** – x-kom.pl oddaje mu
-200 (basic proxy), choć na nasz ruch serwerowy daje 403. Kod `rabat12` przy części
-pozycji. Porównanie z notowaniami: 33 rekordy, 51 ≈ rynek, 38 droższe niż gdzie indziej.
-Dane: 108 ofert xkom w sety.json (`wazne_do` 2026-10-18, pole `kod` przy rabat12);
-115 deeplinków w `redirects.xkom` (11 → 126, adres karty + sm=).
-Dzień Chłopaka: 43014/43022/11380/43011 podrożały, 43012 niedostępny → ich wpisy
-xkom zamknięte (`wazne_do` 30.09 → 27.09), nowe ceny dopisane; do starego posta notka
-„Aktualizacja 28 września", wyróżnienie przeszło na nowy tekst.
-`oferty.js`: oferta z `wazne_do` nie spada już po 14 dniach sita (akcja trwa 3 tygodnie).
-**Uwaga:** hełm 75429 – mailing 269,90 zł, karta 28.09 pokazuje 329,90 zł; w tekście
-„nie brać przy tej cenie". Gdy rabat się pojawi – dopisać cenę i poprawić akapit.
-**Stan:** na main.
-
-## 2026-09-28 08:40 · CODE · Import zrzutu Empiku z 28.09 (sesja Code, plik od Marka)
-
-**Zrobione:** `empik-import.mjs` (sucho → zapis) + `empik-redirects.mjs --usun-martwe`.
-Zrzut 5 320 pozycji → 4 378 cen po filtrach (odrzucone: gadżety 538, obca marka 13,
-sanity 52, spoza katalogu 337 = 17,7%, poniżej progu 20%). oferty_feed: 56 nowych,
-1 281 zmian, 48 zestawów bez Empiku w zrzucie straciło jego cenę; sety.json 982 ofert;
-18 nowych minimów w ceny_baza. Deeplinki: 41 zaktualizowanych, 52 martwe usunięte
-(jedyny dopuszczony ubytek), gałąź empik 4 775 → 4 787. Build OK.
-Marek zmienił metodę zrzutu (dwa sortowania bez luki, filtr „tylko dostępne",
-szersza reguła numeru „1016el") — dlatego ok. 10% więcej pozycji niż 21.09.
-**Stan:** gotowe, na main.
-**Dla drugiej strony:** skill `klocki-ceny-empik` opisuje jeszcze trzy przebiegi
-z filtrem ceny — Marek zrobił dwa i wystarczyło; do aktualizacji w skillu przy
-najbliższej okazji (52 „podstawki Blacked Brick" wpadają w sanity zamiast w gadżety —
-też do dopisania rdzenia „podstawka" w `zrzut-import.mjs`).
-
 ## 2026-09-27 18:40 · CODE · Podgląd przebudowy: nowa strona główna + „Promocje LEGO” (w toku)
 
 **Zrobione:** dwie strony podglądu (noindex, poza sitemapą i menu, pasek „PODGLĄD” u góry), produkcja
@@ -1389,15 +1125,6 @@ duże przyciski, deale pod blogiem, wejścia Nowości/Wycofania/Artykuły. Popra
 `.podglad-widok` — po akceptacji do przeniesienia globalnie.
 **Stan:** w toku — czeka na ocenę Marka.
 **Dla drugiej strony:** nic.
-
-## 2026-09-26 08:00 · RADAR · Do zrobienia
-
-**faniklockow.pl · 25.09** — w ich tabeli wycofań jest kolumna „Dystrybucja" (szeroka / ekskluzywna / ograniczona) plus notka „wyprzedane".
-**Mamy?** — częściowo: `/wycofania/` pokazuje status terminu, cenę i znacznik EOL, ale nie pokazuje, ilu sklepów zestaw jeszcze ma.
-**Zrobić:** — dopisać do listy na `/wycofania/` liczbę sklepów z żywą ofertą (dane są już w `oferty_feed.json`, strona je wczytuje). To nasz odpowiednik ich „dystrybucji", tylko żywy — i to właśnie tę zmienną nasz tekst z 16.09 wskazał jako najlepszy predyktor ceny względem cennika.
-**Kto:** — Code (dane, strona)
-
-→ zamknięte 14.10.2026: /wycofania/ pokazuje pod ceną „w N sklepach” (liczba sklepów ze świeżą ofertą, bez Ceneo; link do tabeli cen huba).
 
 ## 2026-09-25 07:00 · CODE · CRO A–G wdrożone na przykładach testowych + prezentacja przed/po (PDF)
 
