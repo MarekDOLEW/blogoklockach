@@ -500,12 +500,12 @@ if (jakoJson) {
   pisz(`- rejestr afiliacji zaktualizowany: ${d.rejestr_afiliacji_zaktualizowano ?? '—'}`);
   pisz(`- import Empiku: ${d.import_empiku.data ? `${d.import_empiku.data} — ` : ''}${d.import_empiku.commit}`);
   pisz(`- oferty: ${Object.entries(d.ofert_per_sklep).map(([s, n]) => `${s} ${n}`).join(', ')}`);
-  const r = d.rejestr_scouta;
-  if (r.blad) pisz(`- rejestr Scouta (known_sets.json): nie sprawdzono — ${r.blad}`);
-  else if (!r.brak_w_rejestrze.length && !r.nadmiar_w_rejestrze.length && r.liczba_setow === r.known_sets)
-    pisz(`- rejestr Scouta (known_sets.json): ${r.known_sets}/${r.sety_json} ✓`);
+  const rs = d.rejestr_scouta;
+  if (rs.blad) pisz(`- rejestr Scouta (known_sets.json): nie sprawdzono — ${rs.blad}`);
+  else if (!rs.brak_w_rejestrze.length && !rs.nadmiar_w_rejestrze.length && rs.liczba_setow === rs.known_sets)
+    pisz(`- rejestr Scouta (known_sets.json): ${rs.known_sets}/${rs.sety_json} ✓`);
   else
-    pisz(`- rejestr Scouta (known_sets.json): **ROZJAZD** — sety.json ${r.sety_json}, rejestr ${r.known_sets}, liczba_setow ${r.liczba_setow}; bez wpisu: ${r.brak_w_rejestrze.length}${r.brak_w_rejestrze.length ? ` (${r.brak_w_rejestrze.slice(0, 8).join(', ')}${r.brak_w_rejestrze.length > 8 ? ', …' : ''})` : ''}, nadmiar: ${r.nadmiar_w_rejestrze.length} → \`node scripts/known-sets-sync.mjs\``);
+    pisz(`- rejestr Scouta (known_sets.json): **ROZJAZD** — sety.json ${rs.sety_json}, rejestr ${rs.known_sets}, liczba_setow ${rs.liczba_setow}; bez wpisu: ${rs.brak_w_rejestrze.length}${rs.brak_w_rejestrze.length ? ` (${rs.brak_w_rejestrze.slice(0, 8).join(', ')}${rs.brak_w_rejestrze.length > 8 ? ', …' : ''})` : ''}, nadmiar: ${rs.nadmiar_w_rejestrze.length} → \`node scripts/known-sets-sync.mjs\``);
 
   pisz('\n**Dostępy** *(realne wywołania, nie deklaracje)*');
   if (szybko) {
