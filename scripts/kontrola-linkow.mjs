@@ -18,12 +18,13 @@
 //   node scripts/kontrola-linkow.mjs --sklep empik   # jeden sklep
 //   node scripts/kontrola-linkow.mjs --sucho         # bez maila, tylko wydruk
 //   node scripts/kontrola-linkow.mjs --blokujace     # lista 20 adresów do przeglądarki, BEZ żadnego zapytania
+//                                                   # -> materialy/kontrola-przegladarkowa/lista.md (stała ścieżka)
 //   node scripts/kontrola-linkow.mjs --blokujace 40 --sklepy xkom,empik
 //
 // Uruchamia: Łowca w poniedziałek (krok tygodniowy), Kontroler czyta wynik z repo.
 // Tryb `--blokujace` uruchamia człowiek albo sesja Code raz w miesiącu — patrz niżej.
 
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { execFile, spawnSync } from 'node:child_process';
 import { promisify } from 'node:util';
 import { tmpdir } from 'node:os';
@@ -106,7 +107,11 @@ if (BLOKUJACE !== null) {
   const perSklepLista = sklepy.map((sk) => `${sk} ${lista.filter((w) => w.sklep === sk).length}`).join(', ');
   const dzisB = new Date().toISOString().slice(0, 10);
   const tekst = [
-    `# Linki do sprawdzenia w przeglądarce — ${dzisB.split('-').reverse().join('.')}`,
+    `# Linki do sprawdzenia w przeglądarce — ${dzisB}`,
+    '',
+    'Plik generowany przez `scripts/kontrola-linkow.mjs --blokujace` — nie edytować ręcznie.',
+    'Ścieżka jest stała, bo zadanie Coworka otwiera ją pod niezmiennym adresem; datę trzymamy',
+    'w nagłówku i to ją sprawdza Cowork przed pracą.',
     '',
     `Próba **${lista.length}** adresów ze sklepów, których kontrola tygodniowa nie potrafi sprawdzić`,
     `z serwera (odrzucają ruch serwerowy: 403/429/503 albo timeout). Rozkład: ${perSklepLista}.`,
@@ -129,13 +134,15 @@ if (BLOKUJACE !== null) {
     '(to jedyna mapa linków, z której wolno kasować wpisy — poza nią dane są append-only).',
     '',
   ].join('\n');
-  const plikB = new URL(`../materialy/linki-do-przegladarki-${dzisB}.md`, import.meta.url);
+  const katalogB = new URL('../materialy/kontrola-przegladarkowa/', import.meta.url);
+  const plikB = new URL('lista.md', katalogB);
   if (sucho) {
     console.log(tekst);
     console.log('--sucho: bez zapisu.');
   } else {
+    mkdirSync(katalogB, { recursive: true });
     writeFileSync(plikB, tekst + '\n');
-    console.log(`Lista: materialy/linki-do-przegladarki-${dzisB}.md — ${lista.length} adresów (${perSklepLista}).`);
+    console.log(`Lista: materialy/kontrola-przegladarkowa/lista.md (${dzisB}) — ${lista.length} adresów (${perSklepLista}).`);
   }
   if (brakujace > 0) console.log(`Uwaga: zabrakło ${brakujace} adresów — wybrane sklepy mają w redirects.json mniej wpisów, niż poproszono.`);
   console.log('Żadnego zapytania nie wysłano — ten tryb tylko losuje adresy.');

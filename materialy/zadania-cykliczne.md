@@ -178,6 +178,8 @@ Tamta kolizja przez to wisiała niezauważona.
 | Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
 | Harmonogram z konta (pon 07:45, sesja Code, od 22.09) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md` |
 | Kontroler (pon 09:30) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
+| Lista linków do przeglądarki (1. dnia miesiąca 07:49, Kontroler) | `materialy/kontrola-przegladarkowa/lista.md` |
+| Kontrola linków w przeglądarce (1. dnia miesiąca 11:47, Cowork) | nic w repo — oddaje wypełnioną tabelę do rozmowy, Code zapisuje ją jako `materialy/kontrola-przegladarkowa/wyniki-RRRR-MM-DD.md` |
 | Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
 | Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
 | Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
@@ -348,6 +350,18 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**19.10.2026 (kontrola linków w przeglądarce — wdrożenie decyzji A)**
+- Dwa nowe zadania miesięczne, 1. dnia miesiąca: **07:49** Kontroler losuje 20 adresów
+  (`kontrola-linkow.mjs --blokujace`) i pushuje `materialy/kontrola-przegladarkowa/lista.md`
+  (`trig_01EePabyXvKUkSkb4bjMoayw`, stała sesja z repo); **11:47** świeża sesja przechodzi tę listę
+  w Chrome i oddaje wypełnioną tabelę (`trig_01Umoo2wdqxj6u5qTwUjjQqa`). Rozdzielone, bo listę
+  umie zrobić tylko sesja z repo, a sprawdzić tylko sesja z przeglądarką.
+- Lista ma **stałą ścieżkę** (`lista.md`, data w nagłówku) — wzorem `materialy/indeksacja/kolejka.md`,
+  bo prompt Coworka musi otwierać niezmienny adres. Szczegóły i zasady:
+  `materialy/kontrola-przegladarkowa/cowork-zadanie.md`.
+- Pierwszy przebieg 01.11.2026 jest sprawdzeniem, czy świeża sesja założona z API dosięga Chrome
+  (ostrzeżenie API: trigger nie zapisał konektorów). Jeśli nie — zadanie 11:47 zakłada Marek z panelu.
 
 **19.10.2026 (Kontroler z 09:00 na 09:30; kontrola linków dla sklepów blokujących — decyzja A)**
 - Decyzja Marka: Kontroler startuje w poniedziałek o **09:30** PL (`CRON_TZ=Europe/Warsaw 30 9 * * 1`),

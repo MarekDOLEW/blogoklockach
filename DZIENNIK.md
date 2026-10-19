@@ -198,6 +198,17 @@ sprawdzone na sucho; adresy w pliku to cele sklepów, nigdy trackery ani nasze `
 **Mamy?** — nie: zadanie nie istnieje; wzorem jest „Kolejka GSC — zgłoszenia" (`trig_01NNqijkQrcpLpD89bVW8ST6`), też robota Coworka w przeglądarce.
 **Zrobić:** — po oddaniu trybu `--blokujace` założyć Routine „Kontrola linków w przeglądarce" (raz w miesiącu, Cowork): otwiera najnowszy `materialy/linki-do-przegladarki-*.md`, wpisuje wynik per adres (żywy / 404 / przekierowanie) i oddaje plik do sesji Code; martwe linki Empiku idą do `scripts/empik-redirects.mjs --usun-martwe`.
 **Kto:** — Marek (panel) — po wykonaniu pozycji dla Code
+→ zamknięte 19.10.2026: założone, ale jako DWA zadania, nie jedno — listę umie zrobić tylko sesja
+z repo, a sprawdzić tylko sesja z przeglądarką. 1. dnia miesiąca: **07:49** Kontroler losuje 20 adresów
+i pushuje `materialy/kontrola-przegladarkowa/lista.md` (`trig_01EePabyXvKUkSkb4bjMoayw`), **11:47** świeża
+sesja przechodzi listę w Chrome (`trig_01Umoo2wdqxj6u5qTwUjjQqa`). Lista dostała stałą ścieżkę (data
+w nagłówku), wzorem `materialy/indeksacja/kolejka.md`, bo prompt Coworka musi otwierać niezmienny adres.
+Zasady: `materialy/kontrola-przegladarkowa/cowork-zadanie.md`.
+
+**Zadanie Coworka na 1. dnia miesiąca 11:47 zostało założone z API BEZ zapisanych konektorów — ostrzeżenie API mówi, że odpalane nim sesje startują bez narzędzi konektorowych.**
+**Mamy?** — częściowo: trigger istnieje i ma prompt, ale dostępu do Chrome nie zmierzyłem. „Kolejka GSC" (ten sam mechanizm, działa) ma osiem konektorów, a rozszerzenia Claude in Chrome nie ma wśród nich — czyli przeglądarka idzie przez powiązanie z komputerem, nie przez konektor.
+**Zrobić:** — przy pierwszym przebiegu 01.11.2026 sprawdzić odpowiedź: jeśli brzmi „przeglądarka nieosiągalna", założyć to zadanie z panelu Routines na claude.ai (wtedy niesie konektory konta) i skasować `trig_01Umoo2wdqxj6u5qTwUjjQqa`.
+**Kto:** — Marek (panel)
 
 **Eksport listy 220 adresów zwracających 404 w GSC wisi od 12.10 — po noindex (2 284) to największa pojedyncza pozycja wśród niezaindeksowanych.**
 **Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).
