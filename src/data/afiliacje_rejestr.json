@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-10-12",
+  "zaktualizowano": "2026-10-19",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -20,7 +20,8 @@
    "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
    "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
    "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
-   "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
+   "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl).",
+   "SalesMasters": "aktywne — jedno konto obejmuje x-kom.pl i al.to, kod `sm=Y74rgdCO` uniwersalny dla obu (test 2026-08-16). Panel salesmasters.x-kom.pl nie byl odczytany ani razu, wiec prowizje i cookie pozostaja nieznane. Wyplata od 100 zl."
   },
   "zasoby": {
    "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API.",
@@ -30,7 +31,8 @@
   "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie.",
   "decyzje": {
    "wiersze_bez_ceny": "DECYZJA (Marek, 2026-08-20): wiersze 'Sprawdz cene' bez kwoty ZOSTAJA na tabelach cen (Smyk, Empik, x-kom itd.) - zawsze lepiej miec link niz nie miec. Nie ukrywac, nie wracac do tematu.",
-   "td_publisher_api": "USTALONE 2026-09-14: Publisher API Tradedoublera dziala i oddaje transakcje Empiku i Ceneo. Adres tokenu to https://connect.tradedoubler.com/uaa/oauth/token — NIE /uni/oauth2/token; zmyslona sciezka oddaje 401 \"Full authentication is required\" (Spring Security odbija nieznana sciezke), co latwo wziac za nieaktywnego klienta. Grant `password`, bo `client_credentials` nie jest dozwolony dla naszego klienta. Access token 900 s, refresh 604800 s i JEDNORAZOWY — skrypt bierze swiezy token przy kazdym przebiegu zamiast trzymac stan. Raport: /publisher/report/transactions, max 92 dni, 100/strona, 60 req/min, kwoty w EUR (pole reportCurrencyCode) — nie sumowac ich ze zlotowkami Adtraction i Performers."
+   "td_publisher_api": "USTALONE 2026-09-14: Publisher API Tradedoublera dziala i oddaje transakcje Empiku i Ceneo. Adres tokenu to https://connect.tradedoubler.com/uaa/oauth/token — NIE /uni/oauth2/token; zmyslona sciezka oddaje 401 \"Full authentication is required\" (Spring Security odbija nieznana sciezke), co latwo wziac za nieaktywnego klienta. Grant `password`, bo `client_credentials` nie jest dozwolony dla naszego klienta. Access token 900 s, refresh 604800 s i JEDNORAZOWY — skrypt bierze swiezy token przy kazdym przebiegu zamiast trzymac stan. Raport: /publisher/report/transactions, max 92 dni, 100/strona, 60 req/min, kwoty w EUR (pole reportCurrencyCode) — nie sumowac ich ze zlotowkami Adtraction i Performers.",
+   "klucze_sklepow": "USTALONE 2026-10-19 (Kontroler): klucz w tym rejestrze musi byc tym samym slowem, ktorego uzywa reszta serwisu — `redirects.<sklep>`, `oferty_feed`, worker i raporty kliknieci. Jedno konto w sieci moze miec wiele wpisow (x-kom i al.to to jedno konto SalesMasters) i to jest w porzadku; brak wpisu pod uzywanym kluczem nie jest. x-kom mial otagowane linki i ruch przez dwa miesiace, a w rejestrze nie istnial, bo lezal pod `alto`."
   }
  },
  "planetaklockow": {
@@ -151,7 +153,7 @@
   "format_linkow": "dowolny URL x-kom.pl/al.to + sm=Y74rgdCO — kod UNIWERSALNY dla konta (potwierdzone testem 2026-08-16: dziala doklejony do kazdego adresu, takze w incognito).",
   "feed": "brak feedu; ceny ze zrzutu lokalna przegladarka (skill klocki-ceny-xkom, od 2026-09-24) -> scripts/xkom-import.mjs; linki = adres karty + sm= (scripts/xkom-redirects.mjs)",
   "data": "2026-08-16",
-  "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Worker ma fallback /idz/xkom/<nr> -> wyszukiwarka x-kom z kodem (automatycznie pokrywa nowe sety); bezposrednie linki produktowe w redirects.json maja pierwszenstwo. Listy zakupow x-kom = wehikul na prezentowniki (jeden link, prowizja od zakupow z listy). Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu. DO SPRAWDZENIA po ~1 dniu: czy kliki widac w statystykach panelu."
+  "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Worker ma fallback /idz/xkom/<nr> -> wyszukiwarka x-kom z kodem (automatycznie pokrywa nowe sety); bezposrednie linki produktowe w redirects.json maja pierwszenstwo. Listy zakupow x-kom = wehikul na prezentowniki (jeden link, prowizja od zakupow z listy). Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu. DO SPRAWDZENIA po ~1 dniu: czy kliki widac w statystykach panelu. Od 19.10.2026 x-kom ma WLASNY wpis `xkom` (klucz uzywany przez reszte serwisu) — to nadal jedno konto SalesMasters, wiec zmiane stawki albo statusu nanosic w obu wpisach."
  },
  "amazon": {
   "siec": "Amazon Associates (amazon.pl)",
@@ -223,5 +225,15 @@
   "data": "2026-09-18",
   "uwagi": "Program „Lidl Sklep Online\" programId 298327 — ACCEPTED 17.09.2026 (Publisher API, sourceId 3494691). Feed 259772 odpowiadał PF_392 jeszcze przez dobę po akcepcie; TD podpiął go do witryny 18.09.2026 rano. Pierwszy import 18.09: 102 produkty, 60 numerów zestawów, 55 ofert w sety.json.",
   "programId": 298327
+ },
+ "xkom": {
+  "siec": "SalesMasters (program wlasny grupy x-kom) — to samo konto co wpis `alto`",
+  "status": "aktywny",
+  "prowizja": "NIE SPRAWDZONA dla klockow. Panel salesmasters.x-kom.pl/prowizje nie byl odczytany ani razu (audyt 12.10.2026 zapisal \"nie sprawdzono\"); dla al.to standard ok. 2%, kategorie 1-6%. Nie przepisywac stawki al.to na x-kom bez odczytu z panelu.",
+  "cookie_dni": null,
+  "format_linkow": "adres karty x-kom.pl + `?sm=Y74rgdCO` — kod UNIWERSALNY dla konta, ten sam co al.to (potwierdzone testem 2026-08-16). 788 wpisow w `redirects.xkom`, buduje `scripts/xkom-redirects.mjs`. Worker: `/idz/xkom/<nr>` bez wpisu spada na wyszukiwarke x-kom z kodem (`src/worker.js`), wiec nowe sety sa pokryte automatycznie.",
+  "feed": "brak feedu i brak API. Ceny ze zrzutu w lokalnej przegladarce (skill `klocki-ceny-xkom`) -> `scripts/xkom-import.mjs`; zrzut 19.10.2026: 726 cen. x-kom odrzuca ruch serwerowy, wiec ani feed, ani kontrola linkow z kontenera nie dzialaja.",
+  "data": "2026-10-19",
+  "uwagi": "Wpis zalozony 19.10.2026: caly serwis uzywa klucza `xkom` (redirects.xkom, oferty_feed, worker, importery, raporty kliknieci), a w rejestrze program lezal wylacznie pod kluczem `alto` — kto szukal x-komu, nie znajdowal go, a komentarz w `scripts/zrzut-redirects.mjs` odsylal do \"sekcji x-kom\", ktorej nie bylo. To JEDNO konto SalesMasters: zmiana stawki, cookie albo statusu dotyczy obu wpisow naraz. Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu (za wpisem `alto`). EPC x-komu jest MODELOWE — brak API; decyzja Marka 22.09.2026 o nieczytaniu paneli dotyczy Allegro i Planety Klockow, panel SalesMasters to osobna sprawa i nie byl odczytany. Ruch: 7 kliknieci ludzkich z Polski w 30 dniach do 19.10.2026 (Analytics Engine). Kontrola linkow nie rozstrzyga x-komu: 15/15 (12.10) i 26/26 (19.10) linkow w kolumnie \"blokada sklepu\" — od 19.10.2026 sprawdza je Cowork w przegladarce raz w miesiacu (decyzja Marka, wariant A; `kontrola-linkow.mjs --blokujace`)."
  }
 }

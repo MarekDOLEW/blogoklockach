@@ -208,6 +208,19 @@ sprawdzone na sucho; adresy w pliku to cele sklepów, nigdy trackery ani nasze `
 **Mamy?** — częściowo: w rejestrze jest „alto" (SalesMasters, grupa x-kom), samego x-komu nie ma, a rejestr jest jedynym źródłem prawdy o sieciach.
 **Zrobić:** — dopisać wpis `xkom` do `src/data/afiliacje_rejestr.json` (sieć SalesMasters, parametr `sm=`, status, prowizja, cookie).
 **Kto:** — Code (dane)
+→ zamknięte 19.10.2026: wpis `xkom` dodany (18 → 19 wpisów sklepów). Stawki NIE wpisałem —
+panel SalesMasters nie był odczytany ani razu, więc `prowizja` mówi „nie sprawdzona", a stawki al.to
+(ok. 2%, kategorie 1–6%) świadomie nie przepisałem na x-kom. `cookie_dni: null` z tego samego powodu.
+Przy okazji: `konta_w_sieciach` nie miało wpisu SalesMasters (dodany), a komentarz w
+`scripts/zrzut-redirects.mjs:34` odsyłał do „sekcji x-kom" w rejestrze, której nie było. W `alto`
+dopisany odsyłacz — to jedno konto, więc zmianę stawki nanosi się w obu wpisach. Nowe ustalenie
+w `_meta.decyzje.klucze_sklepow`: klucz w rejestrze musi być tym samym słowem, którego używa reszta
+serwisu (`redirects.<sklep>`, `oferty_feed`, worker, raporty kliknięć).
+
+**Prowizja x-komu i cookie są nieznane — panel SalesMasters nie był odczytany ani razu, a sklep zebrał 7 polskich kliknięć w 30 dni.**
+**Mamy?** — nie: w rejestrze stoi „nie sprawdzona"; stawka al.to (ok. 2%) nie jest dowodem dla x-komu.
+**Zrobić:** — odczytać w `salesmasters.x-kom.pl/prowizje` stawkę dla kategorii z klockami oraz długość cookie i podać je do sesji Code (jedno wejście w panel, przy okazji odczytu innych paneli).
+**Kto:** — Cowork (panel sieci) albo Marek (panel)
 
 ## 2026-10-19 · CODE · Kontrola świeżości tekstów: skrypt gotowy, krok niewdrożony
 
