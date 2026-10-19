@@ -226,11 +226,16 @@ w aplikacji na tym komputerze. Trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` WYŁĄCZO
 Nowe Zrobić: Marek zakłada w Claude Desktop na Macu zadanie „Kontrola linków w przeglądarce”, 1. dnia
 miesiąca ok. 11:47, prompt z `materialy/kontrola-przegladarkowa/cowork-zadanie.md`; potem Code kasuje
 wyłączony trigger. Zadanie 07:49 (lista) zostaje — działa w chmurze z repo.
+→ zamknięte 19.10.2026: Marek założył zadanie na Macu — `trig_01NRYdRPRMVTYZTGDf5C8iH6`, **20. dnia miesiąca
+11:45** (nie 1.). Lista przestawiona na 20. dnia 07:49 (`trig_01EePabyXvKUkSkb4bjMoayw`), żeby była z tego
+samego dnia. Trigger z chmury skasowany (przy próbie kasowania z API już go nie było). Pierwszy pełny
+przebieg: 20.10.2026 — lista z 19.10 jest świeża, więc to test na żywo, nie na sucho.
 
 **Prompt zadania „Kolejka GSC — zgłoszenia” (`trig_01NNqijkQrcpLpD89bVW8ST6`) nie przyjął z API wyjątku „ODŚWIEŻENIE” — `needs_device_approval`, nic się nie zmieniło.**
 **Mamy?** — częściowo: kolejka od 26.10 będzie wstawiać huby działów ze znacznikiem „ODŚWIEŻENIE”, ale obecny prompt Coworka każe nie klikać adresów, które są w Google — czyli ominie je wszystkie.
 **Zrobić:** — w Claude Desktop na Macu zmienić prompt tego zadania na wersję z `materialy/indeksacja/cowork-zadanie.md` (różnica: trzy linijki wyjątku w kroku 3 i „w tym odświeżeń hubów działów: D” w kroku 5) — przed poniedziałkiem 26.10.
 **Kto:** — Marek (komputer)
+→ zamknięte 19.10.2026: zrobione na Macu tego samego dnia (`updated_at` 10:44 UTC) — prompt `trig_01NNqijkQrcpLpD89bVW8ST6` ma wyjątek „ODŚWIEŻENIE" i linijkę z liczbą odświeżeń. Sprawdzone przez `get_trigger`.
 
 **Eksport listy 220 adresów zwracających 404 w GSC wisi od 12.10 — po noindex (2 284) to największa pojedyncza pozycja wśród niezaindeksowanych.**
 **Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).

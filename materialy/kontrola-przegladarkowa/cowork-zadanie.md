@@ -10,8 +10,8 @@ polskich kliknięć w tygodniu do 19.10.2026 (67%). Decyzja Marka 19.10.2026
 
 | Kiedy | Co | Trigger |
 |---|---|---|
-| 1. dnia miesiąca, 07:49 PL | Kontroler (stała sesja z repo) losuje 20 adresów i pushuje `lista.md` | `trig_01EePabyXvKUkSkb4bjMoayw` |
-| 1. dnia miesiąca, 11:47 PL | świeża sesja z Chrome przechodzi listę i oddaje wypełnioną tabelę | `trig_01Umoo2wdqxj6u5qTwUjjQqa` |
+| 20. dnia miesiąca, 07:49 PL | Kontroler (stała sesja z repo) losuje 20 adresów i pushuje `lista.md` | `trig_01EePabyXvKUkSkb4bjMoayw` |
+| 20. dnia miesiąca, 11:45 PL | zadanie z Maca Marka (Chrome) przechodzi listę i oddaje wypełnioną tabelę | `trig_01NRYdRPRMVTYZTGDf5C8iH6` |
 
 Rozdzielone, bo listę może wygenerować tylko sesja z repo, a sprawdzić tylko
 sesja z przeglądarką. Lista leży pod **stałą ścieżką** (`lista.md`), bo zadanie
@@ -37,20 +37,19 @@ idą do `scripts/empik-redirects.mjs --usun-martwe` (to jedyna mapa linków poza
 karta wymaga decyzji — mapy linków są append-only. Kolejny przebieg o 07:49
 przenosi niezamknięte wyniki do `DZIENNIK.md` jako pozycję „KONTROLER · Do zrobienia".
 
-## Rozstrzygnięte 19.10.2026: zadanie 11:47 musi powstać na komputerze Marka
+## Stan 19.10.2026 (po południu): oba zadania istnieją, dzień miesiąca = 20.
 
-Trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` został założony z sesji Kontrolera w chmurze i **nie ma
-powiązania z komputerem** — a tego samego dnia API odpowiedziało przy innym zadaniu
-(„Kolejka GSC — zgłoszenia”), że ono „wymaga Claude Desktop (macOS): działa tam, z narzędziami
-tego komputera”. Czyli dostęp do Chrome daje powiązanie z komputerem, nie konektor, i dostaje je
-tylko zadanie założone w aplikacji Claude Desktop na tym komputerze. Zadanie z chmury odpaliłoby
-sesję bez przeglądarki (prompt ma na to bezpiecznik: jedno zdanie i koniec, bez obchodzenia blokady).
+Zadanie z przeglądarką założył Marek na Macu: `trig_01NRYdRPRMVTYZTGDf5C8iH6`, **20. dnia miesiąca
+o 11:45** (nie 1., jak pierwotnie planowano). Dlatego generowanie listy przestawione na **20. dnia
+o 07:49** — inaczej lista z 1. byłaby 20. dnia 19-dniowa i zadanie pisałoby „nieaktualna". Pierwszy
+przebieg obu: **20.10.2026** (jutro po założeniu); lista z 19.10 jest świeża, więc ten przebieg jest
+pełnym testem, a nie próbą na sucho.
 
-Dlatego 19.10 trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` został **wyłączony** (nie skasowany — do
-skasowania, gdy powstanie właściwe zadanie). Do zrobienia przez Marka, w Claude Desktop na Macu:
-nowe zadanie cykliczne „Kontrola linków w przeglądarce”, 1. dnia miesiąca ok. 11:47, z promptem
-poniżej. Zadanie 07:49 (lista, `trig_01EePabyXvKUkSkb4bjMoayw`) zostaje bez zmian — działa w chmurze
-z repo i tam ma być.
+Dlaczego nie z chmury: trigger założony z sesji Kontrolera (`trig_01Umoo2wdqxj6u5qTwUjjQqa`, 19.10
+przed południem) nie miał powiązania z komputerem — API przy innym zadaniu odpowiedziało, że takie
+zadanie „wymaga Claude Desktop (macOS): działa tam, z narzędziami tego komputera". Chrome daje
+powiązanie z komputerem, nie konektor, i dostaje je tylko zadanie założone w aplikacji na tym
+komputerze. Tamten trigger skasowany tego samego dnia.
 
 ## Prompt do wklejenia w zadanie na komputerze
 

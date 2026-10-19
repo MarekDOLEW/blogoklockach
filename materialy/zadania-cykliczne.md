@@ -178,8 +178,8 @@ Tamta kolizja przez to wisiała niezauważona.
 | Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
 | Harmonogram z konta (pon 07:45, sesja Code, od 22.09) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md` |
 | Kontroler (pon 09:30) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
-| Lista linków do przeglądarki (1. dnia miesiąca 07:49, Kontroler) | `materialy/kontrola-przegladarkowa/lista.md` |
-| Kontrola linków w przeglądarce (1. dnia miesiąca 11:47, Cowork) | nic w repo — oddaje wypełnioną tabelę do rozmowy, Code zapisuje ją jako `materialy/kontrola-przegladarkowa/wyniki-RRRR-MM-DD.md` |
+| Lista linków do przeglądarki (20. dnia miesiąca 07:49, Kontroler) | `materialy/kontrola-przegladarkowa/lista.md` |
+| Kontrola linków w przeglądarce (20. dnia miesiąca 11:45, zadanie z Maca Marka) | nic w repo — oddaje wypełnioną tabelę do rozmowy, Code zapisuje ją jako `materialy/kontrola-przegladarkowa/wyniki-RRRR-MM-DD.md` |
 | Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
 | Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
 | Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
@@ -350,6 +350,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**19.10.2026 po południu (kontrola linków w przeglądarce — wersja ostateczna)**
+- Zadanie z Chrome założył Marek na Macu: `trig_01NRYdRPRMVTYZTGDf5C8iH6`, **20. dnia miesiąca 11:45**.
+  Trigger z chmury (`trig_01Umoo2wdqxj6u5qTwUjjQqa`) nie miał powiązania z komputerem i został skasowany.
+  Generowanie listy (`trig_01EePabyXvKUkSkb4bjMoayw`) przestawione z 1. na **20. dnia 07:49**, żeby lista
+  była z tego samego dnia. Pierwszy pełny przebieg: 20.10.2026.
+- Prompt „Kolejki GSC — zgłoszenia" z wyjątkiem „ODŚWIEŻENIE" wszedł (zmiana zatwierdzona na Macu,
+  `updated_at` 19.10 10:44 UTC) — poniedziałkowe huby działów od 26.10 będą klikane.
 
 **19.10.2026 (kolejka indeksacji: huby działów w poniedziałek; próg kamienia 2)**
 - Decyzja Marka: w poniedziałek `scripts/kolejka-indeksacji.mjs` daje pierwsze miejsca (do 8 z 15)
