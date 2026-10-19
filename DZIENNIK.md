@@ -124,6 +124,18 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-19 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 19.10** — Wystawili zbiorczą stronę zapowiedzi LEGO 2027; fanklockow tej samej nocy dołożył cztery strony per seria (Star Wars, Ninjago, Friends, City).
+**Mamy?** — częściowo: `/zapowiedzi-lego-2027/` istnieje, ale `zaktualizowano: 2026-08-27`, a od tej daty do `przecieki.json` weszło szesć pozycji na 2027 i cztery rozstrzygnięcia; w dwóch miejscach strona mówi „LEGO nie potwierdziło jeszcze żadnego zestawu na 2027" i „Super Mario: jedyna potwierdzona zapowiedź", podczas gdy `sety.json` ma 71875 (84,99 zł), 67008 (259,99 zł), 71873 i 67006 z premierą 2027-01.
+**Zrobić:** — uzupełnić `/zapowiedzi-lego-2027/` z `przecieki.json` i `sety.json` oraz usunąć nieprawdziwe zdanie o braku potwierdzeń (najpilniejsze: to błąd faktyczny na produkcji, nie zaległość).
+**Kto:** — Code (dane, strona)
+
+**fanklockow.pl · 18.10** — Prowadzą cykl tygodniowy „Jakie LEGO «do szafy» w tym tygodniu", czyli co z wycofywanych w tym roku kupić teraz pod odsprzedaż.
+**Mamy?** — częściowo: `/wycofania` ma numery, daty i status potwierdzenia przez LEGO (mocniejsza podstawa niż ich listy), ale nie ma formy, która co tydzień wybiera z niej kilka pozycji i mówi „to kup teraz".
+**Zrobić:** — decyzja, czy wchodzimy w formę cykliczną; cykl tygodniowy to stały nakład pracy, a nie jeden tekst.
+**Kto:** — Marek (decyzja)
+
 
 ## 2026-10-18 · CODE · Do zrobienia
 
