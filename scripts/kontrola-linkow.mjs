@@ -51,8 +51,9 @@ const sety = czytaj('sety.json');
 const TRACKERY = /(tradedoubler\.com|webep1\.com|performers\.tech|adt\d+\.com|allegro\.pl\/affiliate)/i;
 
 // ── Próba losowa ────────────────────────────────────────────────────────────
-// Zmierzone 18.09.2026 na próbie 150 linków: te cztery sklepy odrzucają każde
-// zapytanie serwerowe (403 albo timeout), niezależnie od nagłówków. Losowanie
+// Zmierzone 18.09.2026 na próbie 150 linków: cztery sklepy odrzucają każde
+// zapytanie serwerowe (403 albo timeout), niezależnie od nagłówków; x-kom
+// dołączył do listy 19.10.2026 (26/26 w blokadzie, decyzja Marka). Losowanie
 // z całości marnowało na nie 3/4 budżetu czasu i 3/4 próby. Bierzemy z nich
 // tylko kilka linków kontrolnych — po to, żeby zauważyć, gdyby któryś przestał
 // blokować — a resztę próby przeznaczamy na sklepy, które da się sprawdzić.

@@ -206,6 +206,9 @@ Ceneo CPS (3 × 0,08 EUR) nie wchodzi do próby. Kontroler liczy to z `prowizje-
 → zamknięte 19.10.2026: decyzja Marka — **wariant A**. Raz w miesiącu Cowork sprawdza w przeglądarce
 próbę 20 linków z czterech sklepów blokujących ruch serwerowy. `kontrola-linkow.mjs` zostaje bez zmian
 (nadal pisze „blokada sklepu", nie „OK"). Wdrożenie rozbite na dwie pozycje poniżej.
+↻ 19.10.2026 (po południu): decyzja Marka — x-kom dopisany do `SKLEPY_BLOKUJACE` w `scripts/linki-cel.mjs`
+(wariant B obok A). Od 26.10 x-kom wchodzi do próby tygodniowej po 5 linków kontrolnych zamiast 26 swobodnych;
+udział „nie wolno powiedzieć OK" powinien spaść z 31% do ok. 20%, a zwolnione miejsca idą do sklepów sprawdzalnych.
 
 **Decyzja A wymaga listy do sprawdzenia w repo: dziś takiej listy nie ma, a Cowork nie czyta `redirects.json` sam.**
 **Mamy?** — nie: `kontrola-linkow.mjs` losuje próbę w locie i nie zapisuje adresów blokujących sklepów do osobnego pliku.

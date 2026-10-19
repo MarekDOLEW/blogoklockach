@@ -34,19 +34,19 @@ export function celLinku(link) {
   return /^https?:\/\//.test(link) ? link : null;
 }
 
-/** Sklepy, które odrzucają każde zapytanie serwerowe (zmierzone 18.09.2026). */
-export const SKLEPY_BLOKUJACE = new Set(['allegro', 'empik', 'mediaexpert', 'lego']);
-
 /**
- * Sklepy, o których kontrola z serwera nie potrafi powiedzieć nic — te cztery
- * blokujące plus x-kom. x-koma nie ma w `SKLEPY_BLOKUJACE`, bo ta lista steruje
- * losowaniem próby tygodniowej i zmiana jej składu zmieniłaby wynik kontroli;
- * faktycznie jednak x-kom też odrzuca ruch serwerowy — 15/15 linków w próbie
- * 12.10.2026 i 26/26 w próbie 19.10.2026 skończyło w kolumnie „blokada sklepu".
- * Tej listy używa wyłącznie tryb `--blokujace` (lista adresów do przeglądarki,
- * decyzja Marka 19.10.2026, wariant A).
+ * Sklepy, które odrzucają każde zapytanie serwerowe. Cztery zmierzone 18.09.2026;
+ * x-kom dopisany 19.10.2026 (decyzja Marka): 15/15 linków w próbie 12.10 i 26/26
+ * w próbie 19.10 skończyło w kolumnie „blokada sklepu", a bez wpisu tutaj x-kom
+ * losował się swobodnie i zjadał do 26 ze 150 miejsc próby tygodniowej. Teraz
+ * wchodzi jak pozostałe — 5 linków kontrolnych, żeby zauważyć, gdyby przestał
+ * blokować. Linki tych sklepów sprawdza raz w miesiącu przeglądarka
+ * (`kontrola-linkow.mjs --blokujace`, wariant A z 19.10.2026).
  */
-export const SKLEPY_BEZ_WERYFIKACJI = new Set([...SKLEPY_BLOKUJACE, 'xkom']);
+export const SKLEPY_BLOKUJACE = new Set(['allegro', 'empik', 'mediaexpert', 'lego', 'xkom']);
+
+/** Alias dla trybu `--blokujace`: od 19.10.2026 to ten sam zbiór. */
+export const SKLEPY_BEZ_WERYFIKACJI = SKLEPY_BLOKUJACE;
 
 /** UA przeglądarki: z UA bota Empik odpowiadał 403, z tym odpowiada 200. */
 export const UA_PRZEGLADARKI =
