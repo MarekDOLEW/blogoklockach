@@ -133,6 +133,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-19 10:45 · CODE · x-kom Black Weeks: aktualność + ceny z kodem black-weeks1
+
+- `/artykuly/x-kom-black-weeks-2026-lego/` (Aktualności, bez `wazne_do` — x-kom nie podał końca cen z listy;
+  akcja do Black Friday 27.11). Mail SalesMasters 19.10: 11 zestawów „hero”. Karty x-kom sprawdzone ok. 10:30:
+  4 z kodem black-weeks1 (11381 399, 31220 579, 21064 209, 60510 69,99 — wszystkie poniżej naszych minimów),
+  3 „chwilowo niedostępne” (76473, 75447, 71497), 4 w zwykłej cenie bez kodu (10359, 21060, 43300, 71425).
+- Dane: te 4 ceny w `sety.json`/`oferty_feed` (xkom) i nowe minima w `ceny_baza`; kod w `kody_rabatowe.json`
+  (`xkom`, `koniec_znany: false`, `do` 2026-10-25 = horyzont do następnego zrzutu). Nowe: `terminKodu()` —
+  kod bez daty końca nie pokazuje „do …”; `me-kody.mjs` nie kasuje już kodów innych sklepów.
+**Dla drugiej strony:** zrzut x-kom 26.10 nadpisze te ceny; jeśli x-kom przedłuży kod, wystarczy przesunąć `do`.
+
 ## 2026-10-19 09:40 · KONTROLER · Do zrobienia
 
 **Zrzuty Empiku i x-komu stoją na 12.10 — siódmy dzień; Empik 4 394 ceny, x-kom 735, obie partie z tej samej daty.**

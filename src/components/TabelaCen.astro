@@ -1,5 +1,5 @@
 ---
-import { relLinku as relSklepu, legoMaStrone, kodRabatowy, dataKodu } from '../lib/oferty.js';
+import { relLinku as relSklepu, legoMaStrone, kodRabatowy, terminKodu } from '../lib/oferty.js';
 import { dataPl } from '../lib/daty.js';
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
@@ -87,7 +87,7 @@ const UWAGA_SKLEP = {
             <strong>{sklepy[o.sklep]?.nazwa ?? o.sklep}</strong>
             {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniżej w naszych notowaniach</span>}
             {kodRabatowy(o.sklep, nr, o.cena)
-              ? <span class="kc-uwaga kc-kod">cena z kodem <strong>{kodRabatowy(o.sklep, nr, o.cena).kod}</strong> (wpisz w koszyku, do {dataKodu(kodRabatowy(o.sklep, nr, o.cena).do)})</span>
+              ? <span class="kc-uwaga kc-kod">cena z kodem <strong>{kodRabatowy(o.sklep, nr, o.cena).kod}</strong> (wpisz w koszyku{terminKodu(kodRabatowy(o.sklep, nr, o.cena)) ? `, ${terminKodu(kodRabatowy(o.sklep, nr, o.cena))}` : ''})</span>
               : UWAGA_SKLEP[o.sklep] && <span class="kc-uwaga">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
           <td class="cena kc-cena">{fmt(o.cena)}{o.data && <span class="kc-data">z {dataPl(o.data)}</span>}</td>

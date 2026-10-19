@@ -57,6 +57,9 @@ const wynik = {
   },
   mediaexpert: [...kody.values()].sort((a, b) => b.do.localeCompare(a.do)),
 };
+// Kody innych sklepów (x-kom z mailingu, wpisywane ręcznie) zostają – skrypt odpowiada tylko za Media Expert.
+const dotychczas = fs.existsSync('src/data/kody_rabatowe.json') ? JSON.parse(fs.readFileSync('src/data/kody_rabatowe.json', 'utf8')) : {};
+for (const [sklep, lista] of Object.entries(dotychczas)) if (sklep !== '_meta' && sklep !== 'mediaexpert') wynik[sklep] = lista;
 console.log(`Stron: ${liczbaStron}, pozycji z kodem: ${pozycje.length}`);
 for (const k of wynik.mediaexpert) console.log(`  ${k.kod} do ${k.do}: ${Object.keys(k.zestawy).length} zestawów`);
 if (!pozycje.length) { console.error('Zero pozycji – układ strony się zmienił? Plik zostaje bez zmian.'); process.exit(1); }

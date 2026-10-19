@@ -288,12 +288,18 @@ export function kodRabatowy(sklep, nr, cena) {
   for (const k of kodyRabatowe[sklep] ?? []) {
     if (k.do < dzis) continue;
     const zKodem = k.zestawy?.[String(nr)];
-    if (zKodem != null && (cena == null || Math.abs(Number(cena) - zKodem) <= 1)) return { kod: k.kod, do: k.do };
+    if (zKodem != null && (cena == null || Math.abs(Number(cena) - zKodem) <= 1)) return { kod: k.kod, do: k.do, koniecZnany: k.koniec_znany !== false };
   }
   return null;
 }
 /** „2026-10-31" -> „31.10" */
 export const dataKodu = (iso) => iso.slice(8, 10) + '.' + iso.slice(5, 7);
+/**
+ * „do 31.10" przy kodzie – albo nic, gdy sklep nie podał końca akcji (`koniec_znany: false`
+ * w kody_rabatowe.json; x-kom Black Weeks 19.10.2026). Wtedy `do` jest tylko naszym
+ * horyzontem ważności wpisu, nie datą dla czytelnika.
+ */
+export const terminKodu = (k) => (k?.koniecZnany === false ? '' : `do ${dataKodu(k.do)}`);
 
 export const fmtCena = (c) =>
   Number(c).toLocaleString('pl-PL', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' zł';
