@@ -1,14 +1,14 @@
 ---
 layout: ../layouts/Artykul.astro
 title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
-opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC, Star Wars na 50-lecie i potwierdzony restart Super Mario. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
-seo_opis: "Zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, Harry Potter, Marvel, DC, Star Wars i Super Mario. Przy każdej – co z obecnej oferty kupić, zanim zniknie."
+opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC, Star Wars na 50-lecie i przebudowana seria Super Mario. Osiem pozycji styczniowej fali ma już polskie ceny katalogowe i przedsprzedaż – rozdzielamy je od przecieków. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
+seo_opis: "Zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, Harry Potter, Marvel, DC, Star Wars i Super Mario. Które mają już ceny katalogowe i przedsprzedaż, a które są tylko przeciekiem."
 data: "2026-08-20"
-zaktualizowano: "2026-08-27"
+zaktualizowano: "2026-10-19"
 kategoria: "Premiery"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
-    a: "W większości nie. Jedynym wyjątkiem jest seria Super Mario – osiem zestawów na 1 stycznia 2027 LEGO pokazało oficjalnie na targach Gamescom w sierpniu 2026. Cała reszta to przecieki z sieci dystrybucji i katalogów: numery, liczby elementów i ceny mogą się jeszcze zmienić, a część zestawów może nigdy nie trafić do sprzedaży. Oznaczamy to przy każdej pozycji – plakietka „potwierdzone” znaczy oficjalne ogłoszenie, „przeciek” znaczy źródło nieoficjalne."
+    a: "Część już tak. Pierwsze zestawy styczniowej fali mają na lego.com/pl-pl własne karty produktowe z polskimi cenami katalogowymi i są do zamówienia w przedsprzedaży, z wysyłką od 1 stycznia 2027 – osiem zestawów Super Mario, dwa spinnery Ninjago, dwa Batmobile DC, obraz z Jokerem i panorama Marvela. Reszta tego zestawienia to nadal przecieki z sieci dystrybucji i katalogów: numery, liczby elementów i ceny mogą się jeszcze zmienić, a część zestawów może nigdy nie trafić do sprzedaży. Oznaczamy to przy każdej pozycji – plakietka „potwierdzone” znaczy oficjalną kartę produktową LEGO, „przeciek” znaczy źródło nieoficjalne."
   - q: "Dlaczego warto kupić starszy zestaw, zanim wyjdzie nowy z tej samej serii?"
     a: "Bo premiera nowego zestawu nie odświeża starych. Zestawy z serii kolekcjonerskich są wycofywane po 2–4 latach i po zejściu z produkcji ich ceny rosną zamiast spadać. Jeśli budujesz kolekcję tematyczną – samochody Icons, Śródziemie, Diuna – brakujące pozycje najtaniej uzupełnia się, dopóki są jeszcze w regularnej sprzedaży."
   - q: "Kiedy LEGO oficjalnie ogłasza zestawy na kolejny rok?"
@@ -17,30 +17,47 @@ faq:
     a: "Zwykle nie w przypadku dużych zestawów kolekcjonerskich. Historycznie zapowiedź nowej wersji kultowego modelu – na przykład UCS-a – podnosiła ceny wersji schodzącej z produkcji, bo kolekcjonerzy dokupują ją, zanim zniknie. Odwrotny efekt zdarza się przy zwykłych zestawach z serii masowych."
 ---
 
-Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO, panorama Marvela, rok Batmobili, 50-lecie Gwiezdnych wojen i jedyna w tym zestawieniu zapowiedź już **oficjalnie potwierdzona** – przebudowana od zera seria Super Mario. Zebraliśmy wszystko, co dziś wiadomo – i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
+Rok 2027 zapowiada się mocno: czerw z Arrakis, oliphant ze Śródziemia, możliwy restart serii Harry Potter pod serial HBO, panorama Marvela, rok Batmobili, 50-lecie Gwiezdnych wojen i przebudowana od zera seria Super Mario. Zebraliśmy wszystko, co dziś wiadomo – i dołożyliśmy coś, czego nie znajdziesz w zwykłych newsach: **przy każdej zapowiedzi podpowiadamy, które zestawy z obecnej oferty warto mieć wcześniej**, żeby kolekcja była kompletna, zanim starsze pozycje znikną z półek.
 
-Jedno zastrzeżenie, które traktujemy poważnie: <span class="status status--maybe">przeciek</span> oznacza informację nieoficjalną. Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok – numery, ceny i liczby elementów mogą się zmienić. Nie podajemy plotek jako faktów.
+Od października ta strona ma dwie warstwy i trzeba je rozdzielać. **Część styczniowej fali LEGO już oficjalnie wystawiło**: te zestawy mają własne karty produktowe na lego.com/pl-pl, polskie ceny katalogowe i są do zamówienia w przedsprzedaży, z wysyłką od 1 stycznia 2027 – sprawdziliśmy to u źródła 19.10.2026. Reszta to nadal <span class="status status--maybe">przeciek</span>, czyli informacja nieoficjalna, przy której numery, ceny i liczby elementów mogą się jeszcze zmienić. Nie podajemy plotek jako faktów i nie mieszamy jednych z drugimi.
 
-## Co wiadomo dziś – przegląd
+## Potwierdzone: karta produktowa LEGO i polska cena
+
+Te zestawy mają na lego.com/pl-pl kartę z ceną i statusem przedsprzedaży. Ceny są katalogowe, czyli najwyższe, jakie te zestawy zobaczą – po premierze sklepy zewnętrzne zwykle schodzą niżej, a ich bieżące oferty znajdziesz w tabelach na podstronach zestawów.
+
+| Zestaw | Elementy | Cena katalogowa | Wysyłka od | Status |
+|---|---|---|---|---|
+| Super Mario: 72060 Fire Mario i Bowser na zamku | 850 | 429,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Super Mario: 72058 Mario Kart – Bowser i waleczny wyścig | 409 | 259,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Art: 67012 Joker – okładka komiksu | 1849 | 749,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Marvel: 67006 Panorama Marvela | 1261 | 429,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| DC: 67008 Batmobil i kaczka z filmu „Powrót Batmana" | 672 | 259,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| DC: 67009 Batmobil Batmana z Arkham | 317 | 126,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Ninjago: 71875 Lloyd kontra Ras – pojedynek spinnerów | 153 | 84,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Ninjago: 71873 Cole kontra Zły Cole – atak spinnera | 58 | – | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+
+Super Mario to w sumie osiem zestawów; w tabeli są dwa największe, całą ósemkę rozpisaliśmy w [osobnym artykule o restarcie serii](/artykuly/lego-super-mario-2027-minifigurki/).
+
+## Przecieki: co mówią źródła branżowe
 
 | Zestaw | Elementy | Cena orientacyjna | Termin | Status |
 |---|---|---|---|---|
 | 11392 Diuna: Czerw Pustyni | ~1840 | ~560 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 | 11395 Władca Pierścieni: Oliphant | ~2020 | ~950 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 | 11391 Wieża zegarowa | ~3260 | ~1100 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
-| Władca Pierścieni: Helmowy Jar | 6000+ | ~2500 zł | 2027/2028 | <span class="status status--maybe">przeciek</span> |
-| Star Wars: fala na 50-lecie | – | – | IV 2027 | <span class="status status--maybe">przeciek</span> |
-| Nowy UCS Sokół Millennium | – | – | 2027 | <span class="status status--maybe">przeciek</span> |
+| 11399 Władca Pierścieni: Helmowy Jar | ~8060 | – | VI 2027 | <span class="status status--maybe">przeciek</span> |
 | Harry Potter: 76483 Pierwszy rok w Hogwarcie | – | ~480 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
 | Harry Potter: 76479 Harry poznaje Zgredka | – | ~65 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
-| Marvel: 67006 Marvel Skyline | ~1260 | – | I 2027 | <span class="status status--maybe">przeciek</span> |
 | Marvel: 67005 Sanctum Strange'a Supreme | ~810 | – | I 2027 | <span class="status status--maybe">przeciek</span> |
-| DC: 67008 Batmobil z „Powrotu Batmana" | – | ~215 zł | I 2027 | <span class="status status--maybe">przeciek</span> |
+| 77094 Zelda: Ocarina of Time – Link i Epona | ~1750 | – | 2027 | <span class="status status--maybe">przeciek</span> |
+| Star Wars: 75484 UCS Myśliwiec Jedi Anakina | – | – | VIII 2027 | <span class="status status--maybe">przeciek</span> |
+| Star Wars: fala na 50-lecie | – | – | IV 2027 | <span class="status status--maybe">przeciek</span> |
+| Nowy UCS Sokół Millennium | – | – | 2027 | <span class="status status--maybe">przeciek</span> |
+| Ninjago: 30748 Speedor tygrysa Rasa | – | – | I 2027 | <span class="status status--maybe">przeciek</span> |
 | DC: Daily Planet – budynek modularny | – | – | 2027 | <span class="status status--maybe">przeciek</span> |
-| Super Mario: 72060 Fire Mario i zamek Bowsera | 850 | – | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
-| Super Mario: 72058 Wyścig Bowsera | 409 | – | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Pokémon: budowane figurki w blind boxach | – | ~60 zł za pudełko | III 2027 | <span class="status status--maybe">przeciek</span> |
 
-Poza tym w przeciekach przewijają się kolejne serie na 2027: Creator (numery 31396–31411, premiera w styczniu), Dragon Ball, Botanicals, Ninjago, City, Speed Champions, Marvel, Disney i nowa seria Cutelings. To zestawy z niższych półek cenowych – śledzimy je w [Nowościach](/nowosci/), a tutaj skupiamy się na tym, co kolekcjonerskie.
+Poza tym w przeciekach przewijają się kolejne serie na 2027: Creator (numery 31396–31411, premiera w styczniu), Dragon Ball, Botanicals, City, Speed Champions, Disney i nowa seria Cutelings. To zestawy z niższych półek cenowych – śledzimy je w [Nowościach](/nowosci/), a tutaj skupiamy się na tym, co kolekcjonerskie. Każdy przeciek z tej tabeli prowadzimy też z oceną pewności i zapisem, czy się sprawdził, w dziale [Przecieki](/przecieki/).
 
 ## Jak czytać bloki „skompletuj kolekcję"
 
@@ -58,7 +75,9 @@ Drugi zestaw Icons z uniwersum Diuny: brick-buildowy Shai-Hulud, ok. 1840 elemen
 
 ## Śródziemie: Oliphant (11395) i Helmowy Jar <span class="status status--maybe">przeciek</span>
 
-Oliphant to diorama z mûmakiem z „Powrotu króla" – ok. 2020 elementów, orientacyjnie ok. 950 zł, styczeń 2027. W przeciekach przewija się też **Helmowy Jar** (ponad 6000 elementów, ok. 2500 zł) z terminem 2027 lub 2028 – byłby to największy zestaw LOTR w historii serii po Rivendell i Minas Tirith.
+Oliphant to diorama z mûmakiem z „Powrotu króla" – ok. 2020 elementów, orientacyjnie ok. 950 zł, styczeń 2027.
+
+Drugi zestaw z tej fali przez październik nabrał konkretów. **Helmowy Jar** ma już numer **11399** i według źródeł 8060 elementów oraz start 1 czerwca 2027 – dokładnie rok po Minas Tirith. Mocna strona tego przecieku: katalog Brickset ma numer 11399 z datą 2027-06-01, czyli tą samą, którą podaje źródło, choć sam rekord jest jeszcze pusty – bez nazwy i bez elementów. Nazwa i cena pozostają niepotwierdzone. Przy 8060 elementach byłby to drugi największy zestaw LOTR w historii serii, zaraz po Minas Tirith (8278), co przy tej liczbie elementów zakłada bardzo drobną skalę – inaczej model nie zmieściłby się na półce.
 
 > **Skompletuj kolekcję Śródziemia**
 >
@@ -87,6 +106,8 @@ Duży budynek Icons: ok. 3260 elementów, orientacyjnie ok. 1100 zł, styczeń 2
 ## Star Wars: 50-lecie „Nowej nadziei" <span class="status status--maybe">przeciek</span>
 
 Rok 2027 to okrągła, pięćdziesiąta rocznica premiery pierwszego filmu – i to jedyna pewna rzecz w tej sekcji. Reszta to przecieki, ale wyjątkowo spójne: kwietniowa fala rocznicowa ma wyjść poza schemat statków i zawierać nietypowe pozycje (hołd dla George'a Lucasa, „kino" Star Wars, plakat w stylu LEGO Art), a osobno mówi się o **zupełnie nowym UCS-owym Sokole Millennium**, który zastąpiłby obecną wersję.
+
+Od października w przeciekach jest też konkretny numer: **75484 UCS Myśliwiec Jedi Anakina** (Eta-2 Actis) z terminem sierpnia 2027. Źródłem pierwotnym jest kanał społecznościowy, nie LEGO, ale katalog Brickset zdążył zarezerwować ten numer w roczniku 2027 w zgodnym motywie – bez nazwy, elementów i daty. To wystarcza, żeby numer notować, i nie wystarcza, żeby traktować go jako zapowiedź.
 
 > **Zanim UCS się zmieni**
 >
@@ -129,13 +150,13 @@ Czyli: **linia jest sprzątana teraz, a nowa fala przychodzi w styczniu.** Dla k
 
 Osobna uwaga dla rodziców: jeśli kupujesz dziecku pierwszy zestaw Harry Potter, **restart serii nie jest powodem do czekania**. Zestawy z bieżącej oferty są dziś tańsze niż będą styczniowe premiery, a fabuła pierwszej części nie zmieni się przez nową ekranizację. Konkretne propozycje według wieku i budżetu zebraliśmy w [prezentowniku Harry Potter](/prezentowniki/lego-harry-potter/).
 
-## Marvel: skyline z miniaturami budynków, które dziś masz w pełnej skali <span class="status status--maybe">przeciek</span>
+## Marvel: panorama z miniaturami budynków, które dziś masz w pełnej skali <span class="status status--ok">potwierdzone</span>
 
-Marvel to najliczniejsza fala w przeciekach na styczeń 2027 i jedyna, przy której da się dziś powiedzieć coś konkretnego o zakupach.
+Marvel to najliczniejsza fala na styczeń 2027 i ta, przy której da się dziś powiedzieć najwięcej o zakupach – bo największa pozycja wyszła już z fazy przecieku.
 
-Powtarzają się cztery pozycje: **67006 Marvel Skyline** (ok. 1260 elementów), **67005 Sanctum Strange'a Supreme** (ok. 810 elementów, z postacią z serialu *What If…?*), **67002 Mech Scarlet Spidera** – z rzadką minifigurką Scarlet Spidera, pierwszą od 2016 roku – oraz drobny **67001 Spider-Man kontra Demogoblin** (ok. 82 elementy). Przewija się też kolejny zestaw z logo, po tegorocznym 76313.
+**67006 Panorama Marvela** ma kartę produktową LEGO: 1261 elementów, 429,99 zł katalogowo, wysyłka od 1 stycznia 2027. Przeciek z września mówił o 1260 elementach, czyli pomylił się o jeden klocek. Pozostałe pozycje tej fali są nadal nieoficjalne: **67005 Sanctum Strange'a Supreme** (ok. 810 elementów, z postacią z serialu *What If…?*), **67002 Mech Scarlet Spidera** – z rzadką minifigurką Scarlet Spidera, pierwszą od 2016 roku – oraz drobny **67001 Spider-Man kontra Demogoblin** (ok. 82 elementy). Przewija się też kolejny zestaw z logo, po tegorocznym 76313.
 
-Najciekawszy jest skyline, bo według przecieków ma zawierać miniatury Daily Bugle, Oscorp, Wieży Avengers, Baxter Building, Sanctum Sanctorum, Fisk Tower i Instytutu Xaviera. **Czyli w jednym pudełku znajdą się mikromodele budynków, które LEGO sprzedaje dziś jako osobne, pełnowymiarowe zestawy** – a część z nich schodzi z rynku w grudniu.
+Najciekawsza jest sama panorama, bo zawiera miniatury Daily Bugle, Oscorp, Wieży Avengers, Baxter Building, Sanctum Sanctorum, Fisk Tower i Instytutu Xaviera. **Czyli w jednym pudełku znajdą się mikromodele budynków, które LEGO sprzedaje dziś jako osobne, pełnowymiarowe zestawy** – a część z nich schodzi z rynku w grudniu.
 
 > **Skompletuj kolekcję, zanim zostaną z niej miniatury**
 >
@@ -146,11 +167,15 @@ Najciekawszy jest skyline, bo według przecieków ma zawierać miniatury Daily B
 
 Poza skyline'em na uwagę zasługuje [76342 Spider-Man kontra Mysterio: Daily Bugle](/zestaw/76342/) – Daily Bugle też jest na liście budynków w panoramie, a ten zestaw jest z bieżącego rocznika i nie ma jeszcze terminu wycofania. Tu nie ma pośpiechu.
 
-## DC: rok Batmobili <span class="status status--maybe">przeciek</span>
+## DC: rok Batmobili <span class="status status--ok">potwierdzone</span>
 
-Pierwsza fala DC na styczeń 2027 składa się według przecieków **wyłącznie z Batmobili**: **67008 Batmobil z „Powrotu Batmana" kontra Kaczka** (ok. 59,99 USD, czyli orientacyjnie 215 zł) oraz **67009 Batmobil z Arkham Knight** (ok. 29,99 USD) – ten drugi byłby pierwszym klockowym Batmobilem z gry Rocksteady. Osobno przewija się **Daily Planet jako budynek modularny**, przekładany już od kilku lat, oraz budowany Krypto gdzieś na przełomie 2027 i 2028.
+Pierwsza fala DC na styczeń 2027 składa się **wyłącznie z Batmobili** i oba są już oficjalne: **67008 Batmobil i kaczka z filmu „Powrót Batmana"** – 672 elementy, 259,99 zł – oraz **67009 Batmobil Batmana z Arkham** – 317 elementów, 126,99 zł, pierwszy klockowy Batmobil z gry Rocksteady. Oba z wysyłką od 1 stycznia 2027. Osobno, nadal jako <span class="status status--maybe">przeciek</span>, przewija się **Daily Planet jako budynek modularny**, przekładany już od kilku lat, oraz budowany Krypto gdzieś na przełomie 2027 i 2028.
 
-Dla kupującego istotny jest jeden szczegół: **67008 to ta sama scena, którą LEGO wydało w tym roku w dużej skali.** Tegoroczny [76355 Batmobil z filmu „Powrót Batmana"](/zestaw/76355/) ma 2269 elementów i cenę katalogową 899,99 zł; opisaliśmy go w [osobnym artykule](/artykuly/lego-76355-batmobil-powrot-batmana/). Zapowiadany zestaw z 2027 jest o rząd wielkości mniejszy i tańszy – to nie jest następca, tylko wersja kieszonkowa.
+Przy 67008 warto zapisać, jak rozminął się przeciek: wrześniowe źródła podawały orientacyjnie 215 zł, a polska cena katalogowa wyszła 259,99 zł, czyli o niemal 21 procent wyżej. Numer, nazwę i termin źródła trafiły; cenę nie. To jest typowa skala błędu przy przeliczaniu zapowiedzi z euro i dlatego w tabeli przecieków piszemy „orientacyjnie", a nie podajemy kwot do złotówki.
+
+Do tego dochodzi pozycja, której w tej sekcji wcześniej nie było, bo formalnie należy do serii Art: **67012 Joker – okładka komiksu** jako dekoracja ścienna, 1849 elementów, 749,99 zł, też od 1 stycznia.
+
+Dla kupującego istotny jest jeden szczegół: **67008 to ta sama scena, którą LEGO wydało w tym roku w dużej skali.** Tegoroczny [76355 Batmobil z filmu „Powrót Batmana"](/zestaw/76355/) ma 2269 elementów i cenę katalogową 899,99 zł; opisaliśmy go w [osobnym artykule](/artykuly/lego-76355-batmobil-powrot-batmana/). Zestaw z 2027 jest o rząd wielkości mniejszy i tańszy – to nie jest następca, tylko wersja kieszonkowa.
 
 > **Duża wersja jest teraz, mała przyjdzie później**
 >
@@ -158,18 +183,20 @@ Dla kupującego istotny jest jeden szczegół: **67008 to ta sama scena, którą
 >
 > Jeśli zależy Ci na modelu z tej sceny na półkę, kupujesz go dziś. Styczniowa zapowiedź nie zastąpi dużego Batmobila i nie ma powodu czekać z jednym na drugie – historycznie duże modele Batmobili schodzą z produkcji po dwóch–trzech latach i nie wracają.
 
-## Super Mario: jedyna potwierdzona zapowiedź w tym zestawieniu <span class="status status--ok">potwierdzone</span>
+## Super Mario: seria zbudowana od zera <span class="status status--ok">potwierdzone</span>
 
-Wszystko powyżej to przecieki. Super Mario jest wyjątkiem: **osiem zestawów na 1 stycznia 2027 LEGO pokazało oficjalnie na targach Gamescom w Kolonii** pod koniec sierpnia 2026.
+Ta fala była potwierdzona najwcześniej z całego rocznika: **osiem zestawów na 1 stycznia 2027 LEGO pokazało oficjalnie na targach Gamescom w Kolonii** pod koniec sierpnia 2026.
 
-Zmiana jest głębsza niż nowy rocznik. Znika **elektroniczna figurka Mario**, która od 2020 roku czytała kody z klocków i była warunkiem działania wszystkich zestawów rozszerzających. Zamiast niej wchodzą **zwykłe minifigurki** – dziesięć w pierwszej fali, w tym pierwsze w historii klockowe Mario, Luigi, Yoshi i Bowser w standardowej skali. Osiem zestawów mieści się w przedziale 9,99–99,99 USD; polskich cen katalogowych jeszcze nie ogłoszono i celowo ich tu nie przeliczamy.
+Zmiana jest głębsza niż nowy rocznik. Znika **elektroniczna figurka Mario**, która od 2020 roku czytała kody z klocków i była warunkiem działania wszystkich zestawów rozszerzających. Zamiast niej wchodzą **zwykłe minifigurki** – dziesięć w pierwszej fali, w tym pierwsze w historii klockowe Mario, Luigi, Yoshi i Bowser w standardowej skali.
+
+Polskich cen nie trzeba już przeliczać z dolarów: LEGO podało je na lego.com/pl-pl **28 sierpnia 2026**, dzień po poprzedniej aktualizacji tej strony. Dwa zestawy z tej fali są w tabeli potwierdzonych wyżej – 72060 Fire Mario i Bowser na zamku za 429,99 zł i 72058 Mario Kart – Bowser i waleczny wyścig za 259,99 zł. Niższa półka zaczyna się od 41,99 zł za 72052 Mario wskakujący do rury. Wszystkie osiem można dziś zamówić w przedsprzedaży, z wysyłką od 1 stycznia.
 
 > **Kupujesz teraz? Sprawdź, po której stronie jesteś**
 >
 > - **Masz zestaw startowy z elektronicznym Mario** – to ostatnie miesiące na dokupienie rozszerzeń. Cała interaktywna linia ma zejść z oficjalnej sprzedaży do końca 2026, a nowe zestawy jej nie zastąpią: nie mają czego uruchamiać.
 > - **Dopiero rozważasz start** – nie zaczynaj teraz. Styczeń jest za blisko, żeby wchodzić w system, który przestaje być rozwijany.
 >
-> W bieżącej ofercie mamy 37 zestawów Super Mario i wszystkie należą do starej formuły – łącznie z [72037 Mario Kart: Mario i Standard Kart](/zestaw/72037/) i [71408 Zamkiem Peach](/zestaw/71408/).
+> W bieżącej ofercie zostało 22 zestawy Super Mario i wszystkie należą do starej formuły – łącznie z [72037 Mario Kart: Mario i Standard Kart](/zestaw/72037/) i [71408 Zamkiem Peach](/zestaw/71408/). Dla porównania: 98 pozycji tej serii nasz katalog ma już jako wycofane, czyli sprzątanie starej linii jest w zaawansowanej fazie.
 
 Pełną listę ośmiu zestawów z numerami, liczbą elementów i cenami, a także porównanie starej i nowej formuły, rozpisaliśmy w [osobnym artykule o restarcie Super Mario](/artykuly/lego-super-mario-2027-minifigurki/).
 
@@ -194,7 +221,7 @@ Tu nie mamy przecieku, mamy wzorzec: Icons wypuszcza co roku jeden–dwa duże m
 
 ## Co robić z tą wiedzą
 
-1. **Nie kupuj pod przecieki.** Do oficjalnego ogłoszenia (listopad–grudzień 2026) wszystko może się zmienić – łącznie z tym, czy zestaw w ogóle powstanie.
+1. **Nie kupuj pod przecieki – ale odróżniaj je od kart produktowych.** Przy pozycjach z drugiej tabeli wszystko może się jeszcze zmienić, łącznie z tym, czy zestaw w ogóle powstanie; przykład 67008, gdzie cena wyszła o 21 procent wyżej od przewidywanej, jest tu pouczający. Pozycje z pierwszej tabeli mają już ceny katalogowe i przedsprzedaż, więc jedyne, co przy nich zostaje nieznane, to realne ceny sklepowe po premierze.
 2. **Kupuj to, co znika.** Terminy wycofań są znacznie pewniejsze niż terminy premier. Pełną listę prowadzimy w dziale [Wycofania 2026](/wycofania/).
 3. **Planuj zakupy pod okna promocyjne.** Duże zestawy kolekcjonerskie najtaniej wychodzą w Black Friday i przy gratisach GWP – terminy zebraliśmy w [kalendarzu promocji](/kalendarz-promocji-lego/).
 
@@ -202,4 +229,4 @@ Tu nie mamy przecieku, mamy wzorzec: Icons wypuszcza co roku jeden–dwa duże m
 
 *Zobacz też: [kalendarz promocji LEGO](/kalendarz-promocji-lego/) · [fala LEGO City z czerwca 2026](/artykuly/lego-city-czerwiec-2026-fala/) · [nowości w sprzedaży](/nowosci/) · [wszystkie artykuły](/artykuly/)*
 
-<p class="drobne">Zapowiedzi 2027 aktualizujemy w miarę potwierdzania kolejnych zestawów – datę ostatniej aktualizacji widzisz nad tytułem. Ceny i liczby elementów oznaczone jako przeciek pochodzą z nieoficjalnych źródeł branżowych i nie są potwierdzone przez Grupę LEGO. Ceny katalogowe podajemy za oficjalnym sklepem LEGO; ceny rynkowe sprawdzasz w tabelach na podstronach zestawów.</p>
+<p class="drobne">Zapowiedzi 2027 aktualizujemy w miarę potwierdzania kolejnych zestawów – datę ostatniej aktualizacji widzisz nad tytułem. Ceny i liczby elementów oznaczone jako przeciek pochodzą z nieoficjalnych źródeł branżowych i nie są potwierdzone przez Grupę LEGO. Ceny katalogowe podajemy za oficjalnym sklepem LEGO; status przedsprzedaży i datę wysyłki 1 stycznia 2027 sprawdziliśmy bezpośrednio na kartach produktowych lego.com/pl-pl 19.10.2026. Ceny rynkowe sprawdzasz w tabelach na podstronach zestawów.</p>
