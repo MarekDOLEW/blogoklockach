@@ -230,6 +230,13 @@ dopóki prompt się nie zmieni, kroku NIE MA i nie wolno pisać, że jest.
 **Zrobić:** — wkleić akapit z `materialy/kontroler-krok-swiezosc-2026-10-19.md` do promptu
 Routine `trig_01KB8XkPcHyvc5kCRKEKYjri`, przed akapitem „KLIKNIĘCIA AFILIACYJNE:"
 **Kto:** — Marek (panel) albo sesja Kontrolera
+→ zamknięte 19.10.2026: Marek wkleił. Sprawdzone przez `get_trigger`: akapit stoi w prompcie
+dosłownie, w zadanym miejscu (po `ARCHIWUM DZIENNIKA`, przed `KLIKNIĘCIA AFILIACYJNE:`),
+`updated_at` 2026-10-19T08:31:59Z. Krok wchodzi w życie przy przebiegu 26.10 — dzisiejszy
+Kontroler odpalił się o 09:08, przed zmianą. Przy okazji zmieniona godzina runnera:
+`CRON_TZ=Europe/Warsaw 30 9 * * 1`, nazwa „LEGO pon 09:30 — Kontroler". Skutek uboczny do
+wiadomości: akapit o kontroli linków nadal mówi, że Łowca chodzi „pół godziny przed Tobą"
+(08:30) — teraz to godzina. Treść kroku działa, poprawka tylko dla porządku.
 
 ## 2026-10-19 · CODE · Zapowiedzi 2027: dwie tabele zamiast jednej
 
