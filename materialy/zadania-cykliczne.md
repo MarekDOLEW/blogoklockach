@@ -351,6 +351,16 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**19.10.2026 (kolejka indeksacji: huby działów w poniedziałek; próg kamienia 2)**
+- Decyzja Marka: w poniedziałek `scripts/kolejka-indeksacji.mjs` daje pierwsze miejsca (do 8 z 15)
+  ośmiu listingom działów, które są w indeksie, ale Google nie odwiedził ich od ≥ 14 dni
+  (19.10: siedem z ośmiu, `/serie/` i `/wycofania/` od 15.09). Adresy mają w kolejce znacznik
+  „ODŚWIEŻENIE”; prompt zadania Coworka „Kolejka GSC — zgłoszenia” dostał wyjątek: taki adres
+  zgłaszać mimo „jest w Google”. Poza poniedziałkiem nic się nie zmienia (`--dzialy` wymusza ręcznie).
+- Decyzja Marka: do kamienia 2 liczy się transakcja z obrotem ≥ 10 EUR — zapis w
+  `afiliacje_rejestr.json` → `_meta.decyzje.kamien_2_prog`. Kamień 2 = 1 sklep (Empik), Ceneo CPS
+  (3 × 0,08 EUR) nie wchodzi do próby.
+
 **19.10.2026 (kontrola linków w przeglądarce — wdrożenie decyzji A)**
 - Dwa nowe zadania miesięczne, 1. dnia miesiąca: **07:49** Kontroler losuje 20 adresów
   (`kontrola-linkow.mjs --blokujace`) i pushuje `materialy/kontrola-przegladarkowa/lista.md`

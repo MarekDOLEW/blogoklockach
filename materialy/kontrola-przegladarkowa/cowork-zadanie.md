@@ -37,14 +37,33 @@ idą do `scripts/empik-redirects.mjs --usun-martwe` (to jedyna mapa linków poza
 karta wymaga decyzji — mapy linków są append-only. Kolejny przebieg o 07:49
 przenosi niezamknięte wyniki do `DZIENNIK.md` jako pozycję „KONTROLER · Do zrobienia".
 
-## Do sprawdzenia przy pierwszym przebiegu (19.10.2026)
+## Rozstrzygnięte 19.10.2026: zadanie 11:47 musi powstać na komputerze Marka
 
-Zadanie o 11:47 zostało założone z tej sesji i **nie ma zapisanych konektorów** —
-API ostrzegło, że sesje odpalane takim triggerem startują bez narzędzi konektorowych.
-Dla porównania „Kolejka GSC — zgłoszenia" (`trig_01NNqijkQrcpLpD89bVW8ST6`, ten sam
-mechanizm, działa) ma zapisanych osiem konektorów, ale **rozszerzenia Claude in Chrome
-nie ma wśród nich** — dostęp do przeglądarki idzie przez powiązanie z komputerem,
-nie przez konektor. Czyli najpewniej zadziała, ale to „najpewniej", nie „zmierzone".
-Pierwszy przebieg 01.11.2026 to pokaże; jeśli napisze, że przeglądarka jest
-nieosiągalna, Marek zakłada to zadanie z panelu Routines na claude.ai (wtedy
-niesie konektory konta) i stare kasuje.
+Trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` został założony z sesji Kontrolera w chmurze i **nie ma
+powiązania z komputerem** — a tego samego dnia API odpowiedziało przy innym zadaniu
+(„Kolejka GSC — zgłoszenia”), że ono „wymaga Claude Desktop (macOS): działa tam, z narzędziami
+tego komputera”. Czyli dostęp do Chrome daje powiązanie z komputerem, nie konektor, i dostaje je
+tylko zadanie założone w aplikacji Claude Desktop na tym komputerze. Zadanie z chmury odpaliłoby
+sesję bez przeglądarki (prompt ma na to bezpiecznik: jedno zdanie i koniec, bez obchodzenia blokady).
+
+Dlatego 19.10 trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` został **wyłączony** (nie skasowany — do
+skasowania, gdy powstanie właściwe zadanie). Do zrobienia przez Marka, w Claude Desktop na Macu:
+nowe zadanie cykliczne „Kontrola linków w przeglądarce”, 1. dnia miesiąca ok. 11:47, z promptem
+poniżej. Zadanie 07:49 (lista, `trig_01EePabyXvKUkSkb4bjMoayw`) zostaje bez zmian — działa w chmurze
+z repo i tam ma być.
+
+## Prompt do wklejenia w zadanie na komputerze
+
+```
+Miesięczna kontrola linków sklepowych, których nie da się sprawdzić z serwera (decyzja Marka 19.10.2026, wariant A). Allegro, Empik, Media Expert, LEGO.com i x-kom odrzucają ruch serwerowy, więc cotygodniowa kontrola w repo pisze o nich „blokada sklepu” i nie wie nic — a to one zbierają większość kliknięć czytelników. Dlatego raz w miesiącu te linki otwiera przeglądarka.
+
+Pracujesz w Chrome przez rozszerzenie Claude in Chrome — najpierw przeczytaj skill chrome-browser i załaduj narzędzia mcp__claude-in-chrome__* jednym wywołaniem ToolSearch. Pracuj w nowej karcie. Jeśli narzędzi Chrome nie da się załadować — NIE szukaj obejścia (nie sprawdzaj tych adresów curl-em ani przez Firecrawla: sklepy odrzucą ruch serwerowy, a to cały powód tego zadania). Napisz jednym zdaniem, że przeglądarka jest nieosiągalna, i zakończ.
+
+1. Otwórz https://github.com/MarekDOLEW/blogoklockach/blob/main/materialy/kontrola-przegladarkowa/lista.md i przeczytaj datę z nagłówka oraz tabelę. Jeśli data jest starsza niż 7 dni — nic nie sprawdzaj, napisz „lista nieaktualna (data …), zadanie o 07:49 jej nie odświeżyło” i zakończ.
+2. Dla każdego wiersza otwórz adres z kolumny „Karta produktu” i zapisz wynik jako jedno z: `żywy` (otwiera się karta tego produktu), `404` (karta nie istnieje), `przekierowanie` (sklep przerzuca na listing, kategorię albo stronę główną — to NIE jest żywa karta), `inne: <co widać>` (captcha, błąd, pusta strona).
+3. Czego nie wolno: nie wchodź na linki trackingowe (`pdt.tradedoubler.com`, `clk.tradedoubler.com`, `webep1.com`, `track.performers.tech`, `allegro.pl/affiliate`) ani na adresy `tylkoklocki.pl/idz/...` — każde takie wejście to sztucznie nabity klik w sieci afiliacyjnej, z przeglądarki tak samo jak z serwera. W tabeli są wyłącznie adresy docelowe sklepów i tylko te otwieraj. Nic nie kupuj, nie dodawaj do koszyka, nie loguj się, nie rozwiązuj CAPTCHY — przy CAPTCHY zapisz `inne: captcha` i przejdź dalej.
+4. Odpowiedz: jedna linijka podsumowania („żywe X, 404 Y, przekierowania Z, inne W z N; po sklepach: …”), a pod nią pełna tabela w układzie listy (Sklep | Zestaw | Karta produktu | Wynik), wypełniona i w markdownie — trafi do repo jako `materialy/kontrola-przegladarkowa/wyniki-RRRR-MM-DD.md`.
+5. Jeśli wyszło cokolwiek innego niż `żywy`, dopisz jedno zdanie: ile kart jest martwych i w których sklepach — martwe karty Empiku idą do `scripts/empik-redirects.mjs --usun-martwe`, pozostałe sklepy wymagają decyzji, bo z ich map linków nie kasujemy wpisów.
+
+Odpowiadaj po polsku. Nie zakładaj nowych zadań cyklicznych i nie zmieniaj niczego w repo.
+```

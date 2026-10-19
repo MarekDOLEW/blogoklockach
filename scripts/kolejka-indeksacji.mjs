@@ -22,6 +22,14 @@
 // „Strona zeskanowana, ale niezindeksowana" idzie na koniec — Google już ją
 // widział i odrzucił; prośba rzadko to zmienia, lepiej poprawić treść.
 //
+// HUBY DZIAŁÓW (decyzja Marka 19.10.2026): w poniedziałek pierwsze miejsca
+// w kolejce dostają listingi działów, które SĄ w indeksie, ale Google nie
+// odwiedził ich od co najmniej 14 dni (19.10: /serie/ i /wycofania/ stały na
+// 15.09, 34 dni — czyli w indeksie wisiała wersja sprzed poprawek tytułów z 30.09).
+// „Poproś o zindeksowanie" działa też dla strony zaindeksowanej: wymusza nowy
+// crawl. Poza poniedziałkiem (albo bez `--dzialy`) huby działów nie wchodzą —
+// zwykła reguła pomija każdy PASS, więc nie zjadają miejsc hubom zestawów.
+//
 // Wymaga GSC_KEY_JSON_B64 i świeżego `npm run build` (czyta dist/sitemap-*.xml
 // i meta robots z dist). Limit API: 2 000 sprawdzeń dziennie na usługę —
 // domyślnie zużywamy najwyżej 300.
@@ -30,6 +38,7 @@
 //   node scripts/kolejka-indeksacji.mjs                 # 15 adresów, zapis kolejki
 //   node scripts/kolejka-indeksacji.mjs --ile 12 --api 400
 //   node scripts/kolejka-indeksacji.mjs --sucho         # bez zapisu kolejki i historii
+//   node scripts/kolejka-indeksacji.mjs --dzialy        # huby działów ze starym crawlem także poza poniedziałkiem
 //
 // Wynik: materialy/indeksacja/kolejka.md (lista na dziś + instrukcja dla
 // Coworka) i materialy/indeksacja/historia.json (co i kiedy trafiło do kolejki).
@@ -48,6 +57,11 @@ const ILE = Number(opcja('ile', 15));
 const BUDZET_API = Number(opcja('api', 300));
 const sucho = args.includes('--sucho');
 const KARENCJA_DNI = 14;
+// Listingi działów odświeżane w poniedziałek, gdy crawl ma >= STARY_CRAWL_DNI.
+// Osiem adresów, kolejność = waga dla serwisu (decyzja Marka 19.10.2026).
+const DZIALY = ['/wycofania/', '/serie/', '/promocje-lego/', '/ekskluzywne/', '/przecieki/', '/prezentowniki/', '/aktualnosci/', '/artykuly/'];
+const STARY_CRAWL_DNI = 14;
+const MIEJSC_DLA_DZIALOW = 8;
 const SITE = 'https://tylkoklocki.pl';
 const KATALOG = 'materialy/indeksacja';
 const HISTORIA = `${KATALOG}/historia.json`;
@@ -56,6 +70,10 @@ const KOLEJKA = `${KATALOG}/kolejka.md`;
 // a Cowork o 10:24 sprawdza, czy nagłówek kolejki ma dzisiejszą datę (15.10.2026
 // pierwsza lista wyszła z datą 14.10 i zostałaby uznana za nieaktualną).
 const dzis = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
+// `dzis` to data kalendarzowa PL (YYYY-MM-DD); Date.parse daje północ UTC tej daty,
+// więc getUTCDay() oddaje właściwy dzień tygodnia bez przesunięć strefy.
+const poniedzialek = new Date(Date.parse(dzis)).getUTCDay() === 1;
+const dzialyDzis = poniedzialek || args.includes('--dzialy');
 
 if (!process.env.GSC_KEY_JSON_B64) {
   console.error('Brak GSC_KEY_JSON_B64 — nie sprawdzę stanu w Search Console.');
@@ -148,9 +166,31 @@ const zeskanowane = [];
 const licznik = {};
 let wywolan = 0;
 let ponowione = 0;
+let odswiezane = 0;
+
+// ── huby działów (poniedziałek albo --dzialy): odświeżenie starego crawla ──
+// Osobno od `kandydaci`, bo tamta lista wyrzuca PASS i pilnuje karencji; tu
+// rozstrzyga wyłącznie wiek crawla — hub zgłoszony tydzień temu i nadal
+// nieodwiedzony ma wrócić, hub odwiedzony po zgłoszeniu ma zniknąć.
+if (dzialyDzis) {
+  const adresy = DZIALY.map((p) => `${SITE}${p}`).filter((u) => !noindex(u));
+  const wyniki = await Promise.allSettled(adresy.map((u) => stan(u)));
+  wyniki.forEach((r, j) => {
+    if (r.status === 'rejected') { console.error(`API (hub działu ${adresy[j]}): ${String(r.reason?.message ?? r.reason).slice(0, 160)}`); return; }
+    wywolan += 1;
+    const s = r.value;
+    licznik[s.stan] = (licznik[s.stan] ?? 0) + 1;
+    const wiek = dniOd(s.crawl);
+    if (odswiezane >= MIEJSC_DLA_DZIALOW) return;
+    if (s.verdict === 'PASS' && wiek < STARY_CRAWL_DNI) return; // świeży crawl — nic do odświeżania
+    odswiezane += 1;
+    wybrane.push({ url: adresy[j], lastmod: null, mapa: 'dzialy', k: [0, 0], ponowka: null, ...s, odswiezenie: true, wiekCrawla: Number.isFinite(wiek) ? Math.floor(wiek) : null });
+  });
+}
 // Jedno sprawdzenie trwa ok. 7 s, więc pytamy po 5 adresów naraz; kolejność
 // priorytetu zostaje, bo partie idą po kolei.
-const doSprawdzenia = kandydaci.filter((w) => !noindex(w.url));
+const juz = new Set(wybrane.map((w) => w.url));
+const doSprawdzenia = kandydaci.filter((w) => !juz.has(w.url) && !noindex(w.url));
 for (let i = 0; i < doSprawdzenia.length && wybrane.length < ILE && wywolan < BUDZET_API; i += 5) {
   const partia = doSprawdzenia.slice(i, Math.min(i + 5, i + BUDZET_API - wywolan));
   const wyniki = await Promise.allSettled(partia.map((w) => stan(w.url)));
@@ -181,8 +221,8 @@ for (const z of zeskanowane) if (wybrane.length < ILE) wybrane.push(z);
 
 const NAZWY = ['strona główna / listing', 'artykuł / prezentownik', 'seria', 'deal', 'nowości', 'hub zestawu', 'inne'];
 console.log(`Sprawdzone w API: ${wywolan} (budżet ${BUDZET_API}). Stany: ${Object.entries(licznik).map(([k, v]) => `${k}: ${v}`).join('; ')}`);
-console.log(`Do zgłoszenia dziś: ${wybrane.length} (w tym ponownie, bez wizyty Google od zgłoszenia: ${ponowione})`);
-for (const w of wybrane) console.log(`  ${w.url}  — ${w.stan}, ${NAZWY[w.k[0]] ?? '?'}, ostatni crawl: ${w.crawl?.slice(0, 10) ?? 'nigdy'}`);
+console.log(`Do zgłoszenia dziś: ${wybrane.length} (w tym ponownie, bez wizyty Google od zgłoszenia: ${ponowione}; huby działów do odświeżenia crawla: ${odswiezane})`);
+for (const w of wybrane) console.log(`  ${w.url}  — ${w.stan}, ${w.odswiezenie ? 'hub działu, ODŚWIEŻENIE' : NAZWY[w.k[0]] ?? '?'}, ostatni crawl: ${w.crawl?.slice(0, 10) ?? 'nigdy'}`);
 
 if (sucho) process.exit(0);
 
@@ -205,17 +245,19 @@ const md = [
   'z listy, po kolei: wklej adres → Enter → poczekaj na wynik → „Poproś o zindeksowanie” → poczekaj',
   'na komunikat „Poproszono o zindeksowanie” (do 2 minut) → następny adres. Gdy GSC pokaże',
   '„Przekroczono limit” — przerwij; reszta wróci jutro. Jeśli wynik mówi „Adres URL jest w Google”,',
-  'nie klikaj, idź dalej. Nic poza tym nie klikaj i niczego nie zmieniaj w ustawieniach.',
+  'nie klikaj, idź dalej — WYJĄTEK: adres oznaczony „ODŚWIEŻENIE” zgłaszaj zawsze, także gdy jest',
+  'w Google (to hub działu, którego Google nie odwiedził od tygodni; prośba wymusza nowy crawl).',
+  'Nic poza tym nie klikaj i niczego nie zmieniaj w ustawieniach.',
   'Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał limit.',
   '',
   '## Adresy na dziś',
   '',
-  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}${w.ponowka ? ` (ponownie: w kolejce ${w.ponowka}, Google nie odwiedził)` : ''}`),
+  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}${w.odswiezenie ? ` — **ODŚWIEŻENIE** (hub działu, crawl ${w.wiekCrawla ?? '?'} dni temu — zgłoś mimo „jest w Google”)` : ''}${w.ponowka ? ` (ponownie: w kolejce ${w.ponowka}, Google nie odwiedził)` : ''}`),
   ...(wybrane.length ? [] : ['Brak — wszystkie sprawdzone adresy są w indeksie albo zgłoszone w ciągu 14 dni.']),
   '',
   '## Stan sprawdzonych adresów',
   '',
-  `Sprawdzone dziś w API: ${wywolan}. Ponownie w kolejce (bez wizyty Google od zgłoszenia): ${ponowione}.`,
+  `Sprawdzone dziś w API: ${wywolan}. Ponownie w kolejce (bez wizyty Google od zgłoszenia): ${ponowione}. Huby działów do odświeżenia crawla${dzialyDzis ? '' : ' (tylko w poniedziałek)'}: ${odswiezane}.`,
   ...Object.entries(licznik).map(([k, v]) => `- ${k}: ${v}`),
   '',
 ].join('\n');

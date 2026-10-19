@@ -167,11 +167,21 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: runner „Kolejka indeksacji 01:57" chodzi codziennie, ale bierze wyłącznie huby `/zestaw/`.
 **Zrobić:** — decyzja: czy jeden dzień w tygodniu kolejka oddaje 8 z 10 miejsc hubom działów (`/serie/`, `/wycofania/`, `/ekskluzywne/`, `/promocje-lego/`, `/przecieki/`, `/prezentowniki/`, `/aktualnosci/`, `/artykuly/`).
 **Kto:** — Marek (decyzja)
+→ zamknięte 19.10.2026: decyzja Marka — TAK. `kolejka-indeksacji.mjs` w poniedziałek (albo `--dzialy`)
+sprawdza osiem hubów działów i te z crawlem ≥ 14 dni wstawia na początek kolejki ze znacznikiem
+„ODŚWIEŻENIE" (do 8 z 15 miejsc; dziś 7 z 8 — `/artykuly/` ma crawl z 11.10). Kluczowe: kolejka dotąd
+pomijała KAŻDY adres PASS, a prompt Coworka kazał nie klikać „jest w Google" — huby działów nie miały
+prawa tam trafić. Oba miejsca poprawione: skrypt i prompt `trig_01NNqijkQrcpLpD89bVW8ST6`
+(kopia w `materialy/indeksacja/cowork-zadanie.md`). Pierwszy poniedziałek z działami: 26.10 01:57,
+Cowork klika o 10:24; efekt widać w inspekcji Kontrolera 26.10 (crawl powinien ruszyć z 15.09).
 
 **Kamień 2 nie ma zapisanego kryterium: Ceneo ma 3 transakcje po 0,08 EUR, czyli formalnie „próbę większą niż jedna transakcja", a trzeci raport z rzędu podaje „1 sklep" na mocy uznania Kontrolera.**
 **Mamy?** — nie: progu nie ma ani w promptach runnerów, ani w `_meta.decyzje` rejestru afiliacji.
 **Zrobić:** — ustalić próg (propozycja Kontrolera: transakcja liczy się przy obrocie ≥ 10 EUR) i wpisać do `src/data/afiliacje_rejestr.json` → `_meta.decyzje`.
 **Kto:** — Marek (decyzja)
+→ zamknięte 19.10.2026: decyzja Marka — próg 10 EUR obrotu, zapisany w `afiliacje_rejestr.json` →
+`_meta.decyzje.kamien_2_prog`. Kamień 2 = 1 sklep (Empik: 3 transakcje, 325,44 EUR w 60 dniach);
+Ceneo CPS (3 × 0,08 EUR) nie wchodzi do próby. Kontroler liczy to z `prowizje-raport.mjs --dni 60`.
 
 **Kontrola linków milczy o 46 ze 150 adresów (31%) — trzeci tydzień wzrostu (15% → 23% → 31%); x-kom sam wniósł 26 pozycji, wszystkie w „blokadzie sklepu", a cztery blokujące sklepy zebrały 67% polskich kliknięć.**
 **Mamy?** — częściowo: kontrola chodzi co poniedziałek i mówi „martwych: 0", co przy 31% bez odpowiedzi jest mylące.
@@ -209,6 +219,18 @@ Zasady: `materialy/kontrola-przegladarkowa/cowork-zadanie.md`.
 **Mamy?** — częściowo: trigger istnieje i ma prompt, ale dostępu do Chrome nie zmierzyłem. „Kolejka GSC" (ten sam mechanizm, działa) ma osiem konektorów, a rozszerzenia Claude in Chrome nie ma wśród nich — czyli przeglądarka idzie przez powiązanie z komputerem, nie przez konektor.
 **Zrobić:** — przy pierwszym przebiegu 01.11.2026 sprawdzić odpowiedź: jeśli brzmi „przeglądarka nieosiągalna", założyć to zadanie z panelu Routines na claude.ai (wtedy niesie konektory konta) i skasować `trig_01Umoo2wdqxj6u5qTwUjjQqa`.
 **Kto:** — Marek (panel)
+↻ 19.10.2026 (godzinę później): rozstrzygnięte bez czekania do listopada. Przy próbie zmiany promptu
+„Kolejki GSC” API odpowiedziało, że tamto zadanie „wymaga Claude Desktop (macOS): działa tam, z narzędziami
+tego komputera” — Chrome daje powiązanie z komputerem, nie konektor, a dostaje je tylko zadanie założone
+w aplikacji na tym komputerze. Trigger `trig_01Umoo2wdqxj6u5qTwUjjQqa` WYŁĄCZONY (zostaje do skasowania).
+Nowe Zrobić: Marek zakłada w Claude Desktop na Macu zadanie „Kontrola linków w przeglądarce”, 1. dnia
+miesiąca ok. 11:47, prompt z `materialy/kontrola-przegladarkowa/cowork-zadanie.md`; potem Code kasuje
+wyłączony trigger. Zadanie 07:49 (lista) zostaje — działa w chmurze z repo.
+
+**Prompt zadania „Kolejka GSC — zgłoszenia” (`trig_01NNqijkQrcpLpD89bVW8ST6`) nie przyjął z API wyjątku „ODŚWIEŻENIE” — `needs_device_approval`, nic się nie zmieniło.**
+**Mamy?** — częściowo: kolejka od 26.10 będzie wstawiać huby działów ze znacznikiem „ODŚWIEŻENIE”, ale obecny prompt Coworka każe nie klikać adresów, które są w Google — czyli ominie je wszystkie.
+**Zrobić:** — w Claude Desktop na Macu zmienić prompt tego zadania na wersję z `materialy/indeksacja/cowork-zadanie.md` (różnica: trzy linijki wyjątku w kroku 3 i „w tym odświeżeń hubów działów: D” w kroku 5) — przed poniedziałkiem 26.10.
+**Kto:** — Marek (komputer)
 
 **Eksport listy 220 adresów zwracających 404 w GSC wisi od 12.10 — po noindex (2 284) to największa pojedyncza pozycja wśród niezaindeksowanych.**
 **Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).
