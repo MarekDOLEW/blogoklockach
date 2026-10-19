@@ -394,9 +394,9 @@
  "43029": {
   "nazwa": "Księżyc z koncertu Olivii Rodrigo",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 154.99,
-  "najnizsza_data": "2026-08-18",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 152.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "75451": {
   "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
@@ -408,8 +408,8 @@
  "21582": {
   "nazwa": "Kurzy jeździec",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 82.41,
-  "najnizsza_data": "2026-10-12",
+  "najnizsza_cena": 79.99,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "75458": {
@@ -618,8 +618,8 @@
  "21594": {
   "nazwa": "Szkielet",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 126.45,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 119.99,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "77982": {
@@ -1080,9 +1080,9 @@
  "76345": {
   "nazwa": "Popiersie Doktora Dooma",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 154.99,
-  "najnizsza_data": "2026-09-21",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 152.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "71867": {
   "nazwa": "Ninjaścigacz X-1 — 15-lecie",
@@ -1101,8 +1101,8 @@
  "42682": {
   "nazwa": "Domek na luksusowym kempingu",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 69.53,
-  "najnizsza_data": "2026-10-15",
+  "najnizsza_cena": 68.73,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "10472": {
@@ -1115,9 +1115,9 @@
  "10479": {
   "nazwa": "Kreatywne pudełko pełne kolorów",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53,
-  "najnizsza_data": "2026-10-18",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60512": {
   "nazwa": "Furgonetka z rowerami górskimi",
@@ -1451,8 +1451,8 @@
  "72164": {
   "nazwa": "SMART Play: Dom treningowy z Pikachu",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 215.97,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 215.96,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "72157": {
@@ -1864,8 +1864,8 @@
  "77984": {
   "nazwa": "Jurassic Park Jeep Wrangler",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 749.82,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 749.81,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "75442": {
@@ -1892,8 +1892,8 @@
  "42228": {
   "nazwa": "Bolid McLaren MCL39 F1",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 589,
-  "najnizsza_data": "2026-10-16",
+  "najnizsza_cena": 578.51,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "42691": {
@@ -2004,8 +2004,8 @@
  "42172": {
   "nazwa": "McLaren P1",
   "cena_katalogowa": 1949.99,
-  "najnizsza_cena": 1379.99,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 1379,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "42215": {
@@ -2802,8 +2802,8 @@
  "71832": {
   "nazwa": "Smok chaosu Kiełogrzmot",
   "cena_katalogowa": 329.99,
-  "najnizsza_cena": 276.9,
-  "najnizsza_data": "2026-10-03",
+  "najnizsza_cena": 273.56,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "10427": {
@@ -3348,9 +3348,9 @@
  "21276": {
   "nazwa": "Creeper",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 117,
-  "najnizsza_data": "2026-09-30",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 109.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
@@ -3922,9 +3922,9 @@
  "31173": {
   "nazwa": "Dzikie zwierzęta Tropikalny tukan",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 39.99,
-  "najnizsza_data": "2026-10-17",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 37.75,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "60294": {
   "nazwa": "Ciężarówka kaskaderska",
@@ -4244,9 +4244,9 @@
  "21589": {
   "nazwa": "Minibiomy",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 171.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42609": {
   "nazwa": "Samochód elektryczny i stacja ładująca",
@@ -4874,8 +4874,8 @@
  "41688": {
   "nazwa": "Magiczny wóz",
   "cena_katalogowa": 229.99,
-  "najnizsza_cena": 188.4,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 180,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "71827": {
@@ -5420,8 +5420,8 @@
  "10414": {
   "nazwa": "Codzienne czynności - jedzenie",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 86.45,
-  "najnizsza_data": "2026-10-17",
+  "najnizsza_cena": 85.9,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "42212": {
@@ -5595,8 +5595,8 @@
  "43260": {
   "nazwa": "Zabawy Vaiany na wyspie",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.58,
-  "najnizsza_data": "2026-10-17",
+  "najnizsza_cena": 54.58,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "60488": {
@@ -5973,9 +5973,9 @@
  "71833": {
   "nazwa": "Ras i burzowy superodrzutowiec Arina",
   "cena_katalogowa": 219.99,
-  "najnizsza_cena": 179.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 179.9,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "41726": {
   "nazwa": "Wakacyjna wyprawa na biwak",
@@ -6134,9 +6134,9 @@
  "60407": {
   "nazwa": "Czerwony, piętrowy autokar",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 77.98,
-  "najnizsza_data": "2026-09-15",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 77.97,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "76335": {
   "nazwa": "Spider-Man kontra Ghost Rider na motocyklu",
@@ -6190,8 +6190,8 @@
  "11040": {
   "nazwa": "Magiczny zestaw z przezroczystymi klockami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.85,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 53.95,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "71823": {
@@ -6386,8 +6386,8 @@
  "40463": {
   "nazwa": "Zajączek wielkanocny",
   "cena_katalogowa": 69.99,
-  "najnizsza_cena": 86.88,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 86,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "76327": {
@@ -6414,9 +6414,9 @@
  "21273": {
   "nazwa": "Atak balonowego Ghasta na wioskę",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 194.9,
-  "najnizsza_data": "2026-10-10",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 189.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21260": {
   "nazwa": "Wiśniowy ogród",
@@ -7205,8 +7205,8 @@
  "10342": {
   "nazwa": "Piękny bukiet różowych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 167,
-  "najnizsza_data": "2026-10-14",
+  "najnizsza_cena": 166.5,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "42650": {
@@ -7289,9 +7289,9 @@
  "77093": {
   "nazwa": "Ocarina of Time – The Final Battle",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 474.05,
-  "najnizsza_data": "2026-10-18",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 449.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "allegro"
  },
  "10451": {
   "nazwa": "3 w 1 Dinozaury na kółkach",
@@ -7534,8 +7534,8 @@
  "31152": {
   "nazwa": "Astronauta",
   "cena_katalogowa": 214.99,
-  "najnizsza_cena": 174.95,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 119,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "11504": {
@@ -7695,8 +7695,8 @@
  "10466": {
   "nazwa": "Podróż pociągiem z Dziadkiem Świnką",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 197.99,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 197.9,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "allegro"
  },
  "75437": {
@@ -7870,8 +7870,8 @@
  "76442": {
   "nazwa": "Zamek Hogwart: Zajęcia z zaklęć i uroków",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 57.6,
-  "najnizsza_data": "2026-10-17",
+  "najnizsza_cena": 56.6,
+  "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "mediaexpert"
  },
  "43285": {
