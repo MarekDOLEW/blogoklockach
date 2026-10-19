@@ -133,6 +133,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-19 · CODE · Strona główna: rotacja zestawów w slajderze i „Dziś w dobrej cenie”
+
+Prośba Marka: codziennie inne zestawy. Każdy zestaw ma stałą grupę 0–2 (z numeru), dziś pierwszeństwo
+ma jedna grupa, jutro następna — zestaw wraca najwcześniej po trzech dniach; inne grupy tylko na
+dopełnienie pustych slotów. Wyjątek: zestaw z nowym minimum z dzisiejszych danych nadal ma pierwszeństwo
+w swojej półce slajdera (to news). Symulacja 20–22.10: slajder 4 z 5 zestawów nowych co dzień, „Dziś
+w dobrej cenie” 10–11 z 12 (przedział >1500 zł ma tylko kilka rabatów, tam powtórki zdarzają się).
+Kod: `src/pages/index.astro` (`naZmianie`, `dzisNaZmianie`).
+
 ## 2026-10-19 15:10 · KONTROLER · Odczyt panelu GSC (Cowork) — punkt odniesienia kamienia 4
 
 - **837 zaindeksowanych** (dane panelu z 12.10.2026; poprzednio 831 z 09.10, 807 z 18.09), niezaindeksowanych
