@@ -509,6 +509,11 @@ katalogowej, w Niemczech wyceniony na 29,99 euro — pilnuję go w kolejnych prz
 **Mamy?** — tak: dociągnąłem rejestr w tym przebiegu (1185 → 1203), więc dziura jest zamknięta
 **Zrobić:** — przy każdym ręcznym dopisaniu zestawu do `sety.json` aktualizować też `known_sets.json` (lista `sety` + `liczba_setow` + `data_aktualizacji`), albo dorzucić to do skryptu, który dopisuje zestawy
 **Kto:** — Code (dane, skrypt)
+→ zamknięte 19.10.2026 (Kontroler): skryptu dopisującego zestawy nie ma (robi to ręcznie sesja Code), więc
+zamiast reguły „pamiętaj" są dwa mechanizmy: (1) `diagnoza.mjs` — także w trybie `--szybko`, który
+odpala każdy runner — liczy rozjazd `known_sets.json` ↔ `sety.json` i pisze **ROZJAZD** w sekcji Dane,
+więc widać go następnego dnia, nie po trzech; (2) `node scripts/known-sets-sync.mjs` dociąga rejestr
+jednym poleceniem (dopisuje brakujące, przelicza `liczba_setow`, niczego nie kasuje). Dziś: 1205/1205 ✓.
 
 ## 2026-10-14 15:00 · CODE · Rolki wideo z kodu: HyperFrames + generator „Deal alert"
 
@@ -879,6 +884,13 @@ werdykt się broni.
 **Mamy?** — częściowo: 43 zestawy mają w `oferty_feed.json` cenę LEGO z **06.10**, choć 922 dostały 13.10 z wtorkowego Routine — i każdy z 11 sprawdzonych z tej 43 jest dziś przeceniony.
 **Zrobić:** — sprawdzić, dlaczego `firecrawl-legopl.mjs` → `lego-ceny.mjs` z 13.10 ominął te 43 (hipoteza: listing nie oddaje pozycji przecenionych), i dociągnąć ceny z `/categories/sales-and-deals`.
 **Kto:** — Code (dane, strona)
+→ zamknięte 19.10.2026 (Kontroler, z opóźnieniem — zrobione było 14.10): hipoteza potwierdzona i naprawiona
+tego samego dnia commitem `b4559ca` „Parser listingu LEGO.pl gubił każdy przeceniony zestaw — naprawione,
+969 cen odświeżonych"; `firecrawl-legopl.mjs` zaciąga od tej pory oba listingi (`all-sets` i
+`sales-and-deals`). Stan 19.10: 973 z 983 cen LEGO ma datę 14.10; 10 zestawów ze starszą datą
+(10302, 21271, 21352, 42653, 71440, 72035, 75429, 76317, 76323, 76325) nie było w ostatnim zaciągu —
+jutrzejszy Dane wt je rozstrzygnie. Pozycja nie miała linii zamknięcia, dlatego 19.10 poszła w mailu
+„Zadania bez właściciela" jako otwarta — to jest błąd, nie zaległość.
 
 **fanklockow.pl · 13.10** — „Minicykle GwP od LEGO® – czy to się opłaca?": analiza, czy zbierać miniserie upominków (Restauracje świata, powiększone minifigurki).
 **Mamy?** — częściowo: kalendarz liczy arytmetykę progu osobno w każdym oknie, ale nie ma tekstu odpowiadającego na pytanie „czy zbierać te serie" — dane mamy (ceny wtórne starych GWP w hubach).

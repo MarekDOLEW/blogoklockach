@@ -180,8 +180,32 @@ if (commitEmpiku) {
 } else {
   importEmpiku = { data: null, commit: 'NIE ZNALEZIONO commita importu — wzorzec grepa mógł przestać pasować' };
 }
+// Rejestr Scouta kontra śledzone zestawy (19.10.2026). known_sets.json nikt
+// nie pisze skryptem, więc ręczne dopisanie zestawów do sety.json zostawia
+// rejestr w tyle (11–15.10: trzy dni z liczba_setow 1185 przy 1203 wpisach).
+// Naprawa: `node scripts/known-sets-sync.mjs`. Tu tylko liczymy, żeby każdy
+// runner (także --szybko) zobaczył rozjazd następnego dnia, nie po tygodniu.
+const rejestrScouta = (() => {
+  try {
+    const known = JSON.parse(readFileSync('src/data/known_sets.json', 'utf8'));
+    const sety = JSON.parse(readFileSync('src/data/sety.json', 'utf8'));
+    const wSety = Object.keys(sety).filter((k) => !k.startsWith('_'));
+    const wKnown = new Set((known.sety ?? []).map(String));
+    return {
+      sety_json: wSety.length,
+      known_sets: wKnown.size,
+      liczba_setow: known.liczba_setow ?? null,
+      brak_w_rejestrze: wSety.filter((nr) => !wKnown.has(nr)),
+      nadmiar_w_rejestrze: [...wKnown].filter((nr) => !Object.hasOwn(sety, nr)),
+    };
+  } catch (e) {
+    return { blad: String(e.message ?? e).slice(0, 120) };
+  }
+})();
+
 wynik.sekcje.dane = {
   oferty_feed_zaktualizowano: oferty._meta?.zaktualizowano ?? null,
+  rejestr_scouta: rejestrScouta,
   ofert_per_sklep: Object.fromEntries(Object.entries(perSklep).sort((a, b) => b[1] - a[1])),
   import_empiku: importEmpiku,
   rejestr_afiliacji_zaktualizowano: meta('afiliacje_rejestr.json').zaktualizowano ?? null,
@@ -476,6 +500,12 @@ if (jakoJson) {
   pisz(`- rejestr afiliacji zaktualizowany: ${d.rejestr_afiliacji_zaktualizowano ?? '—'}`);
   pisz(`- import Empiku: ${d.import_empiku.data ? `${d.import_empiku.data} — ` : ''}${d.import_empiku.commit}`);
   pisz(`- oferty: ${Object.entries(d.ofert_per_sklep).map(([s, n]) => `${s} ${n}`).join(', ')}`);
+  const r = d.rejestr_scouta;
+  if (r.blad) pisz(`- rejestr Scouta (known_sets.json): nie sprawdzono — ${r.blad}`);
+  else if (!r.brak_w_rejestrze.length && !r.nadmiar_w_rejestrze.length && r.liczba_setow === r.known_sets)
+    pisz(`- rejestr Scouta (known_sets.json): ${r.known_sets}/${r.sety_json} ✓`);
+  else
+    pisz(`- rejestr Scouta (known_sets.json): **ROZJAZD** — sety.json ${r.sety_json}, rejestr ${r.known_sets}, liczba_setow ${r.liczba_setow}; bez wpisu: ${r.brak_w_rejestrze.length}${r.brak_w_rejestrze.length ? ` (${r.brak_w_rejestrze.slice(0, 8).join(', ')}${r.brak_w_rejestrze.length > 8 ? ', …' : ''})` : ''}, nadmiar: ${r.nadmiar_w_rejestrze.length} → \`node scripts/known-sets-sync.mjs\``);
 
   pisz('\n**Dostępy** *(realne wywołania, nie deklaracje)*');
   if (szybko) {
