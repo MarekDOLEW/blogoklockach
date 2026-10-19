@@ -149,6 +149,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: plik `materialy/kontrola-linkow-2026-10-19.md` jest w repo (`ae759a9`), ale powstał po godzinie, o której go czytam.
 **Zrobić:** — przesunąć Łowcę z 08:30 na 08:00 PL albo Kontrolera z 09:00 na 09:30 (`trig_019xWfJ67XhPdnX6GknSYrb3` albo `trig_01KB8XkPcHyvc5kCRKEKYjri`).
 **Kto:** — Marek (panel)
+→ zamknięte 19.10.2026: decyzja Marka — Kontroler przesunięty na **pon 09:30** PL (`trig_01KB8XkPcHyvc5kCRKEKYjri`, `CRON_TZ=Europe/Warsaw 30 9 * * 1`, pierwszy przebieg 26.10 09:30; od 25.10 Polska na czasie zimowym). Łowca bez zmian o 08:30 — ma teraz godzinę zapasu. Ręczne wzmianki w `materialy/zadania-cykliczne.md` i `NARZEDZIA.md` poprawione; sekcję HARMONOGRAM przepisze sesja Code w poniedziałek.
 
 **Sześć hubów działów ma crawl starszy niż 14 dni; `/serie/` i `/wycofania/` stoją na 15.09 (34 dni), a `/wycofania/` to największe źródło wyświetleń w serwisie (34 w 7 dni, pozycja 7,1).**
 **Mamy?** — częściowo: runner „Kolejka indeksacji 01:57" chodzi codziennie, ale bierze wyłącznie huby `/zestaw/`.
@@ -164,6 +165,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: kontrola chodzi co poniedziałek i mówi „martwych: 0", co przy 31% bez odpowiedzi jest mylące.
 **Zrobić:** — wybrać A (Cowork raz w miesiącu sprawdza w przeglądarce 20 linków: x-kom, Empik, Media Expert, LEGO.com) albo B (losowanie próby pomija sklepy blokujące, żeby 150 adresów dawało 150 odpowiedzi).
 **Kto:** — Marek (decyzja)
+→ zamknięte 19.10.2026: decyzja Marka — **wariant A**. Raz w miesiącu Cowork sprawdza w przeglądarce
+próbę 20 linków z czterech sklepów blokujących ruch serwerowy. `kontrola-linkow.mjs` zostaje bez zmian
+(nadal pisze „blokada sklepu", nie „OK"). Wdrożenie rozbite na dwie pozycje poniżej.
+
+**Decyzja A wymaga listy do sprawdzenia w repo: dziś takiej listy nie ma, a Cowork nie czyta `redirects.json` sam.**
+**Mamy?** — nie: `kontrola-linkow.mjs` losuje próbę w locie i nie zapisuje adresów blokujących sklepów do osobnego pliku.
+**Zrobić:** — dodać do `scripts/kontrola-linkow.mjs` tryb `--blokujace <N>` (domyślnie 20), który losuje adresy z `redirects.xkom`, `redirects.empik`, `redirects.mediaexpert` i `redirects.lego` i zapisuje je jako `materialy/linki-do-przegladarki-RRRR-MM-DD.md` (numer zestawu, sklep, adres, kolumna na wynik) — bez wchodzenia na nie z serwera.
+**Kto:** — Code (skrypt)
+
+**Po liście potrzebny jest comiesięczny Routine Coworka, który tę listę przechodzi w przeglądarce.**
+**Mamy?** — nie: zadanie nie istnieje; wzorem jest „Kolejka GSC — zgłoszenia" (`trig_01NNqijkQrcpLpD89bVW8ST6`), też robota Coworka w przeglądarce.
+**Zrobić:** — po oddaniu trybu `--blokujace` założyć Routine „Kontrola linków w przeglądarce" (raz w miesiącu, Cowork): otwiera najnowszy `materialy/linki-do-przegladarki-*.md`, wpisuje wynik per adres (żywy / 404 / przekierowanie) i oddaje plik do sesji Code; martwe linki Empiku idą do `scripts/empik-redirects.mjs --usun-martwe`.
+**Kto:** — Marek (panel) — po wykonaniu pozycji dla Code
 
 **Eksport listy 220 adresów zwracających 404 w GSC wisi od 12.10 — po noindex (2 284) to największa pojedyncza pozycja wśród niezaindeksowanych.**
 **Mamy?** — nie: w dzienniku stoi jako „do odczytu przy następnej okazji" (wpis 12.10 14:20).

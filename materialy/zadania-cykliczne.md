@@ -9,7 +9,7 @@ zapisuje odpowiedź do pliku i uruchamia `node scripts/harmonogram-z-konta.mjs
 <plik>.json`. Routines nie mają API dostępnego dla skryptu w repo, więc odczyt
 musi zrobić sesja — skrypt tylko zamienia go na tekst dokumentu. Od 22.09.2026
 robi to sesja Code własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
-(pierwotnie `trig_01GJ2ecMp3gwtkZ1pFyUPKLH`, od 30.09.2026 `trig_01LU2xZxWqyCmNYv7rPyik3x`); Kontroler (pon 09:00) czyta gotowe pliki
+(pierwotnie `trig_01GJ2ecMp3gwtkZ1pFyUPKLH`, od 30.09.2026 `trig_01LU2xZxWqyCmNYv7rPyik3x`); Kontroler (pon 09:30) czyta gotowe pliki
 z repo i nie woła API.
 
 **Dlaczego nie ręcznie.** Sprawdzone 14.09.2026: siedem z ośmiu wierszy kolumny
@@ -141,7 +141,7 @@ z 14.09.2026 (czas PL):
 | 07:00 | 05:00 | Angielski |
 | 08:00 | 06:00 | Radar konkurencji (codziennie) |
 | 08:30 | 06:30 | Łowca promocji (codziennie) |
-| 09:00 | 07:00 | Kontroler |
+| 09:30 | 07:30 | Kontroler |
 | 10:00 | 08:00 | inwestycja IV kwartał |
 
 Poza poniedziałkiem chodzą tylko trzy zadania codzienne (05:00, 08:00, 08:30)
@@ -177,7 +177,7 @@ Tamta kolizja przez to wisiała niezauważona.
 | Łowca promocji (codziennie 08:30) | `oferty_feed.json` (klucze `mediaexpert`, `planetaklockow`, `allegro`, `empik` przy zrzucie; `lidl` codziennie przez `ceneo-feed.mjs`; `smyk` w piątki), `ceny_baza.json`, `redirects.json` (gałęzie `planetaklockow`, `allegro`, `empik` przez `empik-redirects.mjs`), `sety.json` (oferty), `obrazy.json`, `src/pages/deale/*.md`, `src/data/historia-cen/RRRR-MM.jsonl`; w poniedziałek `materialy/kontrola-linkow-RRRR-MM-DD.md` (od 21.09) |
 | Dane wt 05:30 (LEGO.pl + Ceneo + Smyk) | `oferty_feed.json` (`lego`, `ceneo`, `smyk`), `sety.json` (oferty `lego`, `smyk`, `ekskluzyw`), `katalog.json` (`status`, `ekskluzyw`, `lego_pl_widziano`, nowe numery z Rebrickable), `rrp_potwierdzone.json`, `redirects.json` (`lego`, `ceneo`), `obrazy.json` |
 | Harmonogram z konta (pon 07:45, sesja Code, od 22.09) | `materialy/zadania-cykliczne.md` (sekcja HARMONOGRAM), `materialy/routine-prompty.md` |
-| Kontroler (pon 09:00) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
+| Kontroler (pon 09:30) | `materialy/kontroler-RRRR-MM-DD.md`, archiwum dziennika (do 21.09 także dwa pliki harmonogramu — teraz tylko je czyta) |
 | Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
 | Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
 | Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
@@ -348,6 +348,23 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**19.10.2026 (Kontroler z 09:00 na 09:30; kontrola linków dla sklepów blokujących — decyzja A)**
+- Decyzja Marka: Kontroler startuje w poniedziałek o **09:30** PL (`CRON_TZ=Europe/Warsaw 30 9 * * 1`),
+  ten sam trigger `trig_01KB8XkPcHyvc5kCRKEKYjri` i ta sama sesja. Powód: 19.10 Łowca wypchnął
+  `materialy/kontrola-linkow-2026-10-19.md` o 09:14 PL, czternaście minut po starcie Kontrolera —
+  raport przeczytał tabelę tylko dzięki drugiemu `git fetch` w trakcie przebiegu. Teraz Łowca ma
+  godzinę zapasu. Kolejność poniedziałku: 07:45 Harmonogram z konta → 08:15 Przypomnienie zrzutów
+  → 08:30 Łowca (z kontrolą linków) → **09:30 Kontroler**.
+- Jedno zdanie w promptcie Kontrolera jest po tej zmianie nieaktualne („Łowca w poniedziałek
+  o 08:30, pół godziny przed Tobą") — do poprawienia przy najbliższej edycji promptu; na przebieg
+  nie wpływa, bo Kontroler i tak czyta najnowszy plik kontroli z repo.
+- Decyzja Marka (wariant A z raportu 19.10): linki sklepów, które odrzucają ruch serwerowy
+  (x-kom, Empik, Media Expert, LEGO.com), sprawdza **raz w miesiącu Cowork w przeglądarce**
+  na próbie 20 adresów. `kontrola-linkow.mjs` zostaje bez zmian — nadal losuje ze wszystkich
+  sklepów i nadal pisze o blokujących „blokada sklepu", nie „OK". Nowe zadanie miesięczne
+  wymaga wpierw listy do sprawdzenia w repo (krok dla Code, patrz `DZIENNIK.md` 19.10).
+
 
 **18.10.2026 (Łowca: zdjęcia do R2 zaraz po pushu)**
 - Decyzja Marka: wszystkie zdjęcia mają leżeć u nas, nie być dociągane ze sklepów przy pierwszym

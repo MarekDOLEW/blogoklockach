@@ -123,7 +123,7 @@ Routine może tylko czytać, mailować i wgrywać do R2 — nie pushuje. Konekto
 `Claude_Code_Remote` ma wyłącznie sesja Code, więc ona przepisuje harmonogram
 własnym Routine „LEGO pon 07:45 — Harmonogram z konta"
 (`trig_01LU2xZxWqyCmNYv7rPyik3x`, od 30.09.2026 przypięty do sesji Code
-`session_011GrNNd6UVQFF1NamoPaQMS`), a Kontroler o 09:00 czyta gotowe pliki;
+`session_011GrNNd6UVQFF1NamoPaQMS`), a Kontroler o 09:30 czyta gotowe pliki;
 prompty wszystkich Routines: `materialy/routine-prompty.md`. Rozróżnienie ma też znaczenie
 przy edycji: promptu trwałej sesji nie zmienia się przez `update_trigger`
 (patrz `materialy/zadania-cykliczne.md`, „Jak edytować zadanie"), a Routine
