@@ -32,6 +32,7 @@ Nie aktualizuje się ich. Nowy raport to nowy plik z nową datą w nazwie.
 | `kontroler-2026-09-14.md` | Raport Kontrolera. Opisuje przebieg **bez dostępów** — patrz `zadania-cykliczne.md`, sekcja o Kontrolerze |
 | `kontroler-RRRR-MM-DD.md` (np. `-2026-09-21`) | Cotygodniowe raporty Kontrolera — kopia PDF-u wysyłanego Markowi; zapisuje je sam runner w poniedziałek |
 | `kontroler-prompt-2026-09-22.md` | Uzasadnienie przeniesienia Kontrolera do trwałej sesji (22.09.2026). Sam prompt jest wyłącznie w `routine-prompty.md` |
+| `kontroler-krok-swiezosc-2026-10-19.md` | Akapit do wklejenia w prompt Kontrolera (krok „Świeżość tekstów") wraz z powodem, testem regresji i komunikatem, którym `update_trigger` odmówił zmiany promptu z sesji Code. **Dopóki akapit nie wejdzie do promptu, krok jest niewdrożony** |
 | `kontrola-linkow-RRRR-MM-DD.md` (np. `-2026-09-21`) | Wynik `scripts/kontrola-linkow.mjs` — zapisuje go Łowca w każdy poniedziałek, także przy zerze martwych linków; Kontroler czyta najnowszy |
 | `audyt-wycofan-2026-09-13.md` | Audyt statusów EOL |
 | `audyt-mechanizmu-2026-09-15.md`, `-2026-09-15b.md` | Audyt całego mechanizmu (przepływ danych, SEO/indeksacja, UX, redakcja, konkurencja, nisze) — lista 19 punktów i 6 pytań do Marka; `b` to drugi przebieg tego samego dnia |

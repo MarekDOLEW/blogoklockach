@@ -66,6 +66,13 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
   sam w sobie niczego w runnerze nie zmienia (15.09 Scout dopisał 16 wycofań wbrew
   ustaleniu, które istniało wyłącznie tutaj). Ustalenie bez zmiany promptu nie jest
   wdrożone i nie wolno pisać, że jest.
+  **Uzupełnienie 19.10.2026, sprawdzone wywołaniem:** prompt runnera zmienia się
+  wyłącznie z JEGO WŁASNEJ rozmowy albo z panelu. `update_trigger` z sesji Code
+  odmawia: „a routine's instructions (its prompt) can be changed only from the
+  conversation or thread the routine posts into". Sesja Code może więc przygotować
+  skrypt i tekst akapitu, ale nie może wdrożyć kroku — i musi to napisać wprost.
+  Delete+create nie jest obejściem: nowy Routine może stracić prawo pisania do tej
+  samej stałej sesji.
 - **Zamykanie zadań bez właściciela** (Marek, 16.09.2026). Kontroler co poniedziałek
   zbiera z dziennika pozycje „RADAR · Do zrobienia" i sygnały Scouta bez odpowiedzi.
   Zamknięcie: Marek mówi w rozmowie z Code jedno zdanie („zamknij 75192 — Piotr
@@ -168,6 +175,36 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — dopisać wpis `xkom` do `src/data/afiliacje_rejestr.json` (sieć SalesMasters, parametr `sm=`, status, prowizja, cookie).
 **Kto:** — Code (dane)
 
+## 2026-10-19 · CODE · Kontrola świeżości tekstów: skrypt gotowy, krok niewdrożony
+
+Marek: „dodaj to sprawdzanie do Kontrolera". Zrobione pół na pół i to jest cała prawda o stanie.
+
+**Gotowe i sprawdzone:** `scripts/swiezosc-tekstow.mjs` (+ wpis w `scripts/README.md`).
+Dwa ustalenia, oba policzalne: **sprzeczność** — numer z plakietką „przeciek" jest już
+wystawiony przez LEGO (potwierdzona cena w `rrp_potwierdzone.json` albo listing w
+`katalog.json`); **przestarzałe** — `zaktualizowano` starsze niż wpis albo rozstrzygnięcie
+w `przecieki.json` dla numeru, który tekst wymienia. Test regresji na stanie strony 2027
+z 27.08: wykrywa 67006 i 67008 plus jedenaście nowszych wpisów przecieków. Na stanie
+dzisiejszym: zero sprzeczności.
+
+Dwie decyzje projektowe w skrypcie, obie wymuszone pierwszym przebiegiem:
+- **ceny nie starzeją tekstu.** Standard zabrania kwot w treści artykułu, a sierpniowy
+  zrzut katalogu (ok. 900 wpisów RRP jednego dnia) zapalał każdy starszy tekst i zakopywał
+  jedyne ustalenie warte czytania. Ceny służą tylko do opisania numeru.
+- **`sety.json` nie jest dowodem, że LEGO ogłosiło zestaw.** 77094 (Zelda) jest w rejestrze,
+  a lego.com nie ma dla niego karty — sprawdzone dzisiaj. Takie numery idą do osobnego
+  kubełka „DO SPRAWDZENIA". Przy okazji: ten jeden numer to dziś jedyne ustalenie skryptu
+  i czeka na rozstrzygnięcie przecieku albo wyjaśnienie, skąd wpis w rejestrze.
+
+**NIEWDROŻONE:** Kontroler tego nie uruchamia. `update_trigger` z tej sesji odmówił —
+prompt runnera zmienia się tylko z jego własnej rozmowy albo z panelu. Akapit do wklejenia,
+miejsce wstawienia i dokładny komunikat odmowy leżą w
+`materialy/kontroler-krok-swiezosc-2026-10-19.md`. Reguła z „Ustaleń trwałych" obowiązuje:
+dopóki prompt się nie zmieni, kroku NIE MA i nie wolno pisać, że jest.
+
+**Zrobić:** — wkleić akapit z `materialy/kontroler-krok-swiezosc-2026-10-19.md` do promptu
+Routine `trig_01KB8XkPcHyvc5kCRKEKYjri`, przed akapitem „KLIKNIĘCIA AFILIACYJNE:"
+**Kto:** — Marek (panel) albo sesja Kontrolera
 
 ## 2026-10-19 · CODE · Zapowiedzi 2027: dwie tabele zamiast jednej
 
