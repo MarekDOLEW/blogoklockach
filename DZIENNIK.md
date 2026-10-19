@@ -124,12 +124,39 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-19 · CODE · Zapowiedzi 2027: dwie tabele zamiast jednej
+
+Zamknięcie pozycji z dzisiejszego Radaru. Strona stała od 27.08 i mówiła nieprawdę.
+
+- **Co było nieprawdą:** „Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok"
+  i nagłówek „Super Mario: jedyna potwierdzona zapowiedź". Sprawdzone dziś bezpośrednio
+  na lego.com/pl-pl: 72060 i 67008 mają `product:availability: pre-order` i komunikat
+  „Zamów ten produkt w przedsprzedaży już dziś (wysyłka od 1 stycznia 2027)".
+- **Struktura:** jedna tabela rozbita na dwie — osiem pozycji z kartą produktową i polską
+  ceną katalogową (72060 429,99, 72058 259,99, 67012 749,99, 67006 429,99, 67008 259,99,
+  67009 126,99, 71875 84,99, 71873 bez ceny) wobec czternastu przecieków. Ceny z
+  `rrp_potwierdzone.json` (lego.pl, 13–14.10).
+- **Dołożone pozycje**, których strona nie miała: 67009, 67012, 71873, 71875, 77094 Zelda,
+  11399 Helmowy Jar (numer i data 1.06.2027 z Bricksetu), 75484 UCS Eta-2, 30748,
+  blind boxy Pokémon.
+- **Drugi martwy zapis:** „polskich cen katalogowych [Super Mario] jeszcze nie ogłoszono".
+  LEGO podało je 28.08.2026 — **dzień po** ostatniej aktualizacji strony. Zdanie było
+  nieprawdziwe praktycznie od publikacji.
+- **Poprawiony fakt:** Helmowy Jar przy 8060 elementach jest drugim, nie pierwszym
+  największym zestawem LOTR — Minas Tirith ma 8278. Strona twierdziła odwrotnie.
+- **Liczba zestawów Super Mario w ofercie:** 37 → 22 (w katalogu 98 już wycofanych).
+- Wniosek na przyszłość, nie tylko o tej stronie: artykuł z sekcją „stan na dziś" starzeje
+  się szybciej, niż ktokolwiek do niego wraca. Tu wyszło siedem tygodni. Warto, żeby
+  Kontroler raz w tygodniu porównywał `zaktualizowano` tekstów o zapowiedziach z datami
+  wpisów w `przecieki.json` i `sety.json` — to zapytanie, nie praca redakcyjna.
 ## 2026-10-19 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 19.10** — Wystawili zbiorczą stronę zapowiedzi LEGO 2027; fanklockow tej samej nocy dołożył cztery strony per seria (Star Wars, Ninjago, Friends, City).
 **Mamy?** — częściowo: `/zapowiedzi-lego-2027/` istnieje, ale `zaktualizowano: 2026-08-27`, a od tej daty do `przecieki.json` weszło szesć pozycji na 2027 i cztery rozstrzygnięcia; w dwóch miejscach strona mówi „LEGO nie potwierdziło jeszcze żadnego zestawu na 2027" i „Super Mario: jedyna potwierdzona zapowiedź", podczas gdy `sety.json` ma 71875 (84,99 zł), 67008 (259,99 zł), 71873 i 67006 z premierą 2027-01.
 **Zrobić:** — uzupełnić `/zapowiedzi-lego-2027/` z `przecieki.json` i `sety.json` oraz usunąć nieprawdziwe zdanie o braku potwierdzeń (najpilniejsze: to błąd faktyczny na produkcji, nie zaległość).
 **Kto:** — Code (dane, strona)
+→ zamknięte 19.10.2026: zrobione tego samego dnia (`20cb23a`). Szczegóły w następnym wpisie.
 
 **fanklockow.pl · 18.10** — Prowadzą cykl tygodniowy „Jakie LEGO «do szafy» w tym tygodniu", czyli co z wycofywanych w tym roku kupić teraz pod odsprzedaż.
 **Mamy?** — częściowo: `/wycofania` ma numery, daty i status potwierdzenia przez LEGO (mocniejsza podstawa niż ich listy), ale nie ma formy, która co tydzień wybiera z niej kilka pozycji i mówi „to kup teraz".
