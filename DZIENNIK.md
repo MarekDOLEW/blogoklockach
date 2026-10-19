@@ -150,6 +150,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: ceny są w danych serwisu, ale tygodniowe; przypomnienie poszło 19.10 o 08:15.
 **Zrobić:** — uruchomić skill „klocki-zrzuty-tygodniowe" i wrzucić `lego-empik.json` oraz `lego-xkom.json` do sesji Code.
 **Kto:** — Marek (przeglądarka)
+→ zamknięte 19.10.2026: zrobione tego samego dnia o 09:25 PL (`6f3e53c`) — Empik 4 430 cen (+63 nowe), x-kom 726 cen, linki odświeżone. Raport Kontrolera opisywał stan z 07:09 UTC, czyli sprzed tego commita.
 
 **Liczba zaindeksowanych stron z panelu GSC ma odczyt z 09.10 (831 zaindeksowanych, 3 181 nie) — 26.10 minie 17 dni, a API tej liczby nie podaje.**
 **Mamy?** — nie: ostatni odczyt 09.10.2026 przez Coworka.
