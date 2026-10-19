@@ -1,18 +1,10 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 12.10.2026, 07:47 (CEST). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 19.10.2026, 07:47 (CEST). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
-
-## GSC: czy recenzje 75434 i 42650 w Google
-
-- ID: `trig_01N7j4YmARYuHF8mG9n9qoSt` · cron `` · włączony · stała sesja (zmiana promptu = delete + create)
-
-```
-Sprawdź w GSC (skrypty /tmp/claude-0/kl/inspect.mjs i sitemap.mjs; jeśli ich nie ma — URL Inspection API i webmasters/v3 sitemaps z GSC_KEY_JSON_B64, NODE_USE_ENV_PROXY=1): (1) inspekcja https://tylkoklocki.pl/artykuly/lego-75434-droid-straznik-k-2so-recenzja/ i https://tylkoklocki.pl/artykuly/lego-42650-sklep-z-akcesoriami-dla-zwierzat-recenzja/ — verdict, coverageState, lastCrawlTime (11.10 obie „Google nieznany”, prośby wysłane przez Coworka ok. 12:50 PL); (2) sitemap-artykuly.xml — lastDownloaded (11.10 zgłoszona ponownie przez API o 10:53 UTC, ostatnio czytana 9.10). Krótko do Marka w 2–3 linijkach; jeśli nadal nieznane, nic nie ponawiaj — napisz, że to normalne do kilku dni.
-```
 
 ## LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków)
 
@@ -32,7 +24,7 @@ Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, ża
 
 ## LEGO 05:00 — Scout nowości (runner z pushem, Opus 5)
 
-- ID: `trig_013FFv1Aaj5gsCrAn27emwih` · cron `CRON_TZ=Europe/Warsaw 0 5 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01GfdrWd8KXgZnwExzqVB1hY` · cron `CRON_TZ=Europe/Warsaw 0 5 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Scouta Nowości. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -82,11 +74,21 @@ WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani pl
     python3 scripts/wyslij-raport.py --zadanie nowosci --tytul "Scout Nowości — <DD.MM.RRRR>" --plik /tmp/raport-nowosci.md --wstep "<1–2 zdania: co w tym przebiegu najważniejsze>"
 
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj TYLKO wtedy, gdy przebieg coś zmienił (był commit). Brak zmian = brak maila — inaczej raporty spowszednieją i przestaną być czytane. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
+
+KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runnerach, wzór: Radar). Podsumowanie, a więc i mail/PDF, ZACZYNA się od sekcji „Kto co robi”. Każda pozycja ma dokładnie cztery linijki:
+
+    **<co się stało — jedno zdanie z konkretem: numer zestawu, sklep, kwota, adres, liczba>**
+    **Mamy?** — tak: <adres u nas> / częściowo: <czego brakuje> / nie
+    **Zrobić:** — <jedna konkretna czynność, którą da się wykonać bez czytania reszty raportu: który plik, który adres, który zestaw, ile> / nic
+    **Kto:** — Piotr (tekst) / Marek (decyzja, panel, zakup) / Code (dane, strona, skrypt) / Cowork (przeglądarka, panel sieci) / Scout (następny przebieg)
+
+Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen i ekskluzywów, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Bez ogólników („warto rozważyć”, „do obserwacji”) — każda pozycja ma jedno „Zrobić” i jednego „Kto”. Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka.” Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
+DZIENNIK: pozycje, w których „Kto” to nie Ty, a „Zrobić” to nie „nic”, dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · SCOUT · Do zrobienia” z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela” dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …”. Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>”. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Scout: do zrobienia <data>” i push jak zwykle.
 ```
 
 ## LEGO 08:00 — Radar konkurencji (runner, Opus 5)
 
-- ID: `trig_01WgDxbN6eB2QzAZha7dWBfx` · cron `CRON_TZ=Europe/Warsaw 0 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_012neuySD2HrJgptvXLe2fN9` · cron `CRON_TZ=Europe/Warsaw 0 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Radaru Konkurencji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -104,7 +106,7 @@ ANALIZA I FORMAT RAPORTU (przepisane 15.09.2026 na prośbę Marka: dotychczasowe
 
 Poza piątką: jedna linijka „Pominięte: N publikacji bez znaczenia dla nas (linki w bazie)". Bez wstępów, bez podsumowań, bez ocen ogólnych typu „konkurencja jest aktywna". Jeśli nic nie zasługuje na miejsce w piątce — raport ma jedno zdanie: „Nic do zrobienia" i nie wysyłasz maila. Standardy redakcyjne serwisu: `redakcja/standard-artykulow-biezacych.md`.
 
-REJESTR ZADAŃ Z RADARU: pozycje ze „Zrobić" innym niż „nic" dopisz do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <data> <godzina> · RADAR · Do zrobienia" z tymi samymi czterema linijkami na pozycję. Kontroler zbiera je co tydzień, Marek i Piotr skreślają albo przyjmują — bez tego rekomendacje ginęły w mailach.
+REJESTR ZADAŃ Z RADARU: pozycje ze „Zrobić" innym niż „nic" dopisz do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <data> <godzina> · RADAR · Do zrobienia" z tymi samymi czterema linijkami na pozycję. Kontroler zbiera je co tydzień, Marek i Piotr skreślają albo przyjmują — bez tego rekomendacje ginęły w mailach. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi też w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.)
 
 BUDŻET: przebieg ma być zwięzły — bez równoległych agentów, bez przeglądania archiwów konkurencji, tylko świeże publikacje od ostatniego przebiegu.
 
@@ -117,10 +119,10 @@ Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na
 
 ## LEGO pon 09:00 — Kontroler (raport tygodnia, runner z pushem, Opus 5)
 
-- ID: `trig_0167qmnWn3Qjjz8HTwZU1uEP` · cron `CRON_TZ=Europe/Warsaw 0 9 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01KB8XkPcHyvc5kCRKEKYjri` · cron `CRON_TZ=Europe/Warsaw 0 9 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
-Raport kontrolera — wynik tygodnia wobec CZTERECH KAMIENI MILOWYCH na grudzień 2026 (decyzja Marka 22.09.2026: cel „20 000 zł w grudniu" przesunięty na rok 2027 — nie licz już mnożnika do 20 000 zł, nie proponuj tej zamiany ponownie): (1) pierwsza ZATWIERDZONA prowizja w każdej z trzech sieci z API (Tradedoubler, Adtraction, Performers), (2) EPC per sklep na próbie większej niż jedna transakcja, (3) kliknięcia z Polski dziennie, (4) liczba zaindeksowanych stron z panelu GSC. Każdy kamień: wartość dziś, tydzień temu, kierunek. Do tego EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień. Pomiar Allegro i Planety Klocków (sieci bez API): decyzja Marka 22.09 — ZOSTAWIAMY bez ręcznego odczytu; EPC tych sklepów zawsze oznaczaj jako model i nie proponuj comiesięcznego odczytu z paneli.
+Raport kontrolera — wynik tygodnia wobec CZTERECH KAMIENI MILOWYCH na grudzień 2026 (decyzja Marka 22.09.2026: cel „20 000 zł w grudniu" przesunięty na rok 2027 — nie licz już mnożnika do 20 000 zł, nie proponuj tej zamiany ponownie): (1) pierwsza ZATWIERDZONA prowizja w każdej z trzech sieci z API (Tradedoubler, Adtraction, Performers), (2) EPC per sklep na próbie większej niż jedna transakcja, (3) kliknięcia z Polski dziennie, (4) liczba zaindeksowanych stron z panelu GSC. Każdy kamień: wartość dziś, tydzień temu, kierunek. Do tego EPC per sklep, TOP artykuły i 3 decyzje na ten tydzień — każda decyzja w formacie z sekcji KTO CO ROBI na końcu tego promptu. Pomiar Allegro i Planety Klocków (sieci bez API): decyzja Marka 22.09 — ZOSTAWIAMY bez ręcznego odczytu; EPC tych sklepów zawsze oznaczaj jako model i nie proponuj comiesięcznego odczytu z paneli.
 
 REPO — NAJPIERW. Repo jest dopięte do tej stałej sesji. W katalogu repo: `git fetch origin main && git checkout -B kontroler origin/main`, potem `npm ci --no-audit --no-fund` (jeśli nie ma node_modules). Push zawsze poleceniem `git push origin kontroler:main` (nigdy na lokalny `main`); przy odrzuceniu: `git fetch origin main && git rebase origin/main` i ponów (do 3 razy). Jeśli katalogu repo nie ma wcale albo proxy odmawia pushu z komunikatem o braku uprawnień — sesja straciła źródło: nie szukaj obejść, zrób commit lokalnie, `git format-patch origin/main --stdout > /tmp/kontroler.patch`, wyślij patch i raport przez SendUserFile, a w PIERWSZEJ linii raportu napisz dokładny komunikat gita.
 
@@ -130,7 +132,7 @@ KROK 0 — DIAGNOZA ŚRODOWISKA. Uruchom `node scripts/diagnoza.mjs` i wklej wyn
 
 HARMONOGRAM I PROMPTY RUNNERÓW. NIE wołaj `list_triggers` i nie sprawdzaj konektorów — ta sesja ich nie ma. Sekcję między znacznikami HARMONOGRAM:START/KONIEC w `materialy/zadania-cykliczne.md` oraz `materialy/routine-prompty.md` przepisuje z konta sesja Code w poniedziałek o 07:45 czasu polskiego (Routine „Harmonogram z konta"), przed Tobą. Ty czytasz te pliki po `git fetch`: w sekcji „Harmonogram" raportu podaj datę odczytu z nagłówka sekcji Zrzut (jeśli starsza niż 2 dni — alarm jednym zdaniem: „harmonogram nieprzepisany, sesja Code nie odpaliła"), ile zadań włączonych, kolizje, które włączone zadanie NIE odpaliło się w minionym tygodniu — ale UWAGA: kolumna „ostatnie odpalenie" zeruje się po każdym odtworzeniu triggera (delete+create), więc dla runnerów z pushem sprawdź też `git log --since=7.days --oneline | grep -i "<nazwa runnera>"` (Scout, Łowca, Radar, Wycofania, LEGO.pl / Dane wt) — brak commita w tygodniu to prawdziwy alarm, brak `last_run` sam w sobie nie. Sekcji nie przepisuj ręcznie.
 
-ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie pozycje „RADAR · Do zrobienia" oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela" — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie. ZAMKNIĘCIA (od 16.09.2026): pozycja, pod którą stoi linia zaczynająca się od „→ zamknięte" (dopisuje Code po decyzji Marka) albo „→ Wycofania" (dopisuje runner Wycofań), jest załatwiona — pomiń ją. Pozycje Scouta rozpoznawaj po nagłówku zaczynającym się od „SCOUT ·" i słowie „wycofa" w tytule (nagłówki bywają różne). WYSYŁKA TEJ SEKCJI: jeśli lista nie jest pusta, zapisz ją do `/tmp/zadania-bez-wlasciciela.md` (te same cztery linijki na pozycję: fakt / mamy? / zrobić / kto, plus data wpisu i kto go zostawił) i uruchom `python3 scripts/wyslij-raport.py --zadanie kontroler --tytul "Zadania bez właściciela — <DD.MM.RRRR>" --plik /tmp/zadania-bez-wlasciciela.md --wstep "<ile pozycji, ile dla Piotra, ile dla Marka>"` — idzie do Marka i Piotra (klucz `kontroler` w raporty_mail.json; Piotr nie widzi PDF-u z SendUserFile). Pusta lista = brak maila. Błąd skryptu wklej do raportu, nie ponawiaj więcej niż raz.
+ARCHIWUM DZIENNIKA. Uruchom `node scripts/archiwum-dziennika.mjs` (przenosi wpisy starsze niż 14 dni do `materialy/dziennik-archiwum-RRRR-MM.md`, idempotentny). Jeśli coś przeniósł — dołącz `DZIENNIK.md` i plik archiwum do tego samego commita. Jeśli PRZERWAŁ z komunikatem o sekcji stałej — nie naprawiaj ręcznie, jedno zdanie w raporcie. Do tego: zbierz z `DZIENNIK.md` (i z archiwum tego miesiąca) wszystkie wpisy „<RUNNER> · Do zrobienia" — od 13.10.2026 piszą je w tym samym czterolinijkowym formacie wszyscy: RADAR, SCOUT, ŁOWCA, WYCOFANIA, DANE WT — oraz sygnały wycofań od Scouta, które nie mają w dzienniku odpowiedzi „zrobione/odrzucone", i wypisz je w raporcie jako sekcję „Zadania bez właściciela", pogrupowane według „Kto” (Piotr, Marek, Code, Cowork) — to jest lista dla Marka i Piotra, nie do wykonania przez Ciebie. ZAMKNIĘCIA (od 16.09.2026): pozycja, pod którą stoi linia zaczynająca się od „→ zamknięte" (dopisuje Code po decyzji Marka) albo „→ Wycofania" (dopisuje runner Wycofań), jest załatwiona — pomiń ją. Pozycje Scouta rozpoznawaj po nagłówku zaczynającym się od „SCOUT ·" i słowie „wycofa" w tytule (nagłówki bywają różne). WYSYŁKA TEJ SEKCJI: jeśli lista nie jest pusta, zapisz ją do `/tmp/zadania-bez-wlasciciela.md` (te same cztery linijki na pozycję: fakt / mamy? / zrobić / kto, plus data wpisu i kto go zostawił; grupy według „Kto”, Piotr pierwszy) i uruchom `python3 scripts/wyslij-raport.py --zadanie kontroler --tytul "Zadania bez właściciela — <DD.MM.RRRR>" --plik /tmp/zadania-bez-wlasciciela.md --wstep "<ile pozycji, ile dla Piotra, ile dla Marka>"` — idzie do Marka i Piotra (klucz `kontroler` w raporty_mail.json; Piotr nie widzi PDF-u z SendUserFile). Pusta lista = brak maila. Błąd skryptu wklej do raportu, nie ponawiaj więcej niż raz.
 
 KLIKNIĘCIA AFILIACYJNE: `node scripts/kliki-raport.mjs --dni 7` (Workers Analytics Engine przez SQL API; wymaga CF_ACCOUNT_ID i CF_API_TOKEN, NIE wypisuj wartości).
 
@@ -151,11 +153,21 @@ Punkty odniesienia: 24.08.2026 — 4 874 adresy przesłane, 0 zindeksowanych, ty
 KONTROLA LINKÓW SKLEPOWYCH. Ty tego NIE uruchamiasz — robi to Łowca w poniedziałek o 08:30, pół godziny przed Tobą (`scripts/kontrola-linkow.mjs` z mapy `ZADANIA_TYGODNIOWE` w `feedy-lego.py`). Twoje zadanie to PRZECZYTAĆ wynik: weź najnowszy plik `materialy/kontrola-linkow-RRRR-MM-DD.md`, wklej do raportu jego tabelę per sklep i liczbę martwych linków. Jeśli pliku z dzisiejszą datą nie ma — napisz w raporcie jednym zdaniem, że kontrola linków się nie wykonała, i sprawdź `git log --since=24.hours` pod kątem commita Łowcy; NIE uruchamiaj skryptu sam. UWAGA na uczciwość liczb: Allegro, Empik, Media Expert i LEGO.com odrzucają ruch serwerowy i ich linki stoją w kolumnie „blokada sklepu" — o nich NIE pisz „OK", tylko „nie sprawdzone". Martwe linki Empiku zgłoś jako zadanie do `scripts/empik-redirects.mjs --usun-martwe`.
 
 Raport dostarcz jako PDF przez SendUserFile (nie Markdown — Marek nie otwiera plików .md) i zapisz kopię `materialy/kontroler-RRRR-MM-DD.md` w repo (commit razem z harmonogramem).
+
+KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runnerach, wzór: Radar). Raport (PDF) ZACZYNA się od sekcji „Kto co robi” — Twoje 3 decyzje tygodnia i inne pozycje z TEGO raportu; zebrane z dziennika „Zadania bez właściciela” idą osobną sekcją, jak dotąd. Każda pozycja ma dokładnie cztery linijki:
+
+    **<co się stało — jedno zdanie z konkretem: numer zestawu, sklep, kwota, adres, liczba>**
+    **Mamy?** — tak: <adres u nas> / częściowo: <czego brakuje> / nie
+    **Zrobić:** — <jedna konkretna czynność, którą da się wykonać bez czytania reszty raportu: który plik, który adres, który zestaw, ile> / nic
+    **Kto:** — Piotr (tekst) / Marek (decyzja, panel, zakup) / Code (dane, strona, skrypt) / Cowork (przeglądarka, panel sieci) / Kontroler (następny przebieg)
+
+Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen i ekskluzywów, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Bez ogólników („warto rozważyć”, „do obserwacji”) — każda pozycja ma jedno „Zrobić” i jednego „Kto”. Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka.” Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
+DZIENNIK: pozycje, w których „Kto” to nie Ty, a „Zrobić” to nie „nic”, dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · KONTROLER · Do zrobienia” z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela” dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …”. Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>”. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Kontroler: do zrobienia <data>” i push jak zwykle.
 ```
 
 ## LEGO pon 06:10 — Wycofania (runner z pushem)
 
-- ID: `trig_01MGb7VnMvdSHp9Jwa7HyQ69` · cron `CRON_TZ=Europe/Warsaw 10 6 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_018T3NrpmpZTRLX7s942gD6q` · cron `CRON_TZ=Europe/Warsaw 10 6 * * 1` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio.
@@ -169,7 +181,7 @@ Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesj
    b) „W dziale, w katalogu, BRAK w wycofania.json" → dopisz pozycje (pkt 3); breloki, miecze i akcesoria 854xxx/5xxxxxx pomiń jak dotąd,
    c) „Nieznane katalogowi" → pomiń, jedna linijka w podsumowaniu,
    d) „U nas potwierdzone, a nie ma ich w dziale" → NIE obniżaj automatycznie (zestaw mógł się wyprzedać i zniknąć z działu; kalendarze adwentowe z definicji schodzą po sezonie) — tylko lista w podsumowaniu.
-   Jeśli skrypt zgłosi, że odczytał mniej niż 90% deklarowanej liczby — nie zmieniaj statusów na jego podstawie, napisz to w pierwszej linii. Pierwszy przebieg po zmianie (12.10) ma do zrobienia ok. 93 potwierdzeń i 27 dopisań — to jeden commit.
+   Jeśli skrypt zgłosi, że odczytał mniej niż 90% deklarowanej liczby — nie zmieniaj statusów na jego podstawie, napisz to w pierwszej linii. Pierwszy przebieg z działem (12.10, commit 1f5b561) zrobił 93 potwierdzenia i 24 dopisania; kolejne przebiegi mają zwykle po kilka zmian.
    Źródła uzupełniające: brickset.com oraz listy „Ostatnia szansa"/„Retiring soon" na stonewars.de i promobricks.de (potwierdzone, gdy piszą, że to oznaczenie LEGO w firmowym sklepie; inaczej przewidywane). WSZYSTKIE serie — strona /wycofania/ pokazuje każdą serię z pliku. Pole `lego_pl_widziano` w `katalog.json` mówi, kiedy listing lego.pl ostatnio pokazał zestaw — to sprawdzenie „czy jeszcze w sprzedaży".
 2a. ZADANIA Z DZIENNIKA: zacznij od `DZIENNIK.md`. Bierzesz dwa rodzaje wpisów: (1) „SCOUT · Sygnały wycofań dla runnera Wycofań" (i inne wpisy Scouta ze słowem „wycofa" w tytule) z numerami i źródłami; (2) od 10.10.2026 także pozycje z wpisów „RADAR · Do zrobienia", których linia „Kto:" wskazuje runnera Wycofań albo „Zrobić:" mówi o `wycofania.json` (np. RADAR 16.09: pięć zestawów ze złym statusem). Każdy sygnał zweryfikuj u źródła (dział z pkt 2 rozstrzyga najczęściej) i dopiero wtedy zmień plik; bez potwierdzenia u LEGO wpis dostaje status „przewidywane" tylko wtedy, gdy podają go dwa niezależne źródła. Pod każdym przetworzonym wpisem dopisz jedną linijkę „→ Wycofania <data>: dopisane / zmienione / odrzucone (powód)" — od 10.10 skrypt archiwizacji dziennika trzyma wpisy RADAR/SCOUT tak długo, aż pod każdą otwartą pozycją stoi taka linia, więc bez niej zadanie wisi w dzienniku tygodniami.
 
@@ -186,6 +198,16 @@ Kolejny przebieg aktualizacji wycofań zestawów LEGO. Repo dopięte do tej sesj
     python3 scripts/wyslij-raport.py --zadanie wycofania --tytul "Wycofania zestawów — <DD.MM.RRRR>" --plik /tmp/raport-wycofania.md --wstep "<1–2 zdania: co w tym przebiegu najważniejsze>"
 
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj TYLKO wtedy, gdy przebieg coś zmienił (był commit). Brak zmian = brak maila — inaczej raporty spowszednieją i przestaną być czytane. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
+
+KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runnerach, wzór: Radar). Podsumowanie, a więc i mail/PDF, ZACZYNA się od sekcji „Kto co robi”. Każda pozycja ma dokładnie cztery linijki:
+
+    **<co się stało — jedno zdanie z konkretem: numer zestawu, sklep, kwota, adres, liczba>**
+    **Mamy?** — tak: <adres u nas> / częściowo: <czego brakuje> / nie
+    **Zrobić:** — <jedna konkretna czynność, którą da się wykonać bez czytania reszty raportu: który plik, który adres, który zestaw, ile> / nic
+    **Kto:** — Piotr (tekst) / Marek (decyzja, panel, zakup) / Code (dane, strona, skrypt) / Cowork (przeglądarka, panel sieci) / Wycofania (następny przebieg)
+
+Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen i ekskluzywów, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Bez ogólników („warto rozważyć”, „do obserwacji”) — każda pozycja ma jedno „Zrobić” i jednego „Kto”. Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka.” Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
+DZIENNIK: pozycje, w których „Kto” to nie Ty, a „Zrobić” to nie „nic”, dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · WYCOFANIA · Do zrobienia” z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela” dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …”. Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>”. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Wycofania: do zrobienia <data>” i push jak zwykle.
 ```
 
 ## LEGO pon 08:15 — Przypomnienie: zrzut Empiku i x-komu
@@ -217,31 +239,65 @@ Kroki:
 5. Podsumowanie: jedna linijka — wysłano / błąd (wklej komunikat skryptu dosłownie). Nic nie commitujesz, niczego innego nie robisz.
 ```
 
+## Kolejka GSC — zgłoszenia
+
+- ID: `trig_01NNqijkQrcpLpD89bVW8ST6` · cron `CRON_TZ=Europe/Warsaw 24 10 * * *` · włączony · świeża sesja na każdy przebieg
+
+```
+Codzienne zgłoszenia do indeksu Google dla tylkoklocki.pl (zadanie ustawione przez Marka 14.10.2026). Pracujesz w Chrome Marka przez rozszerzenie Claude in Chrome — najpierw przeczytaj skill chrome-browser i załaduj narzędzia mcp__claude-in-chrome__* jednym wywołaniem ToolSearch. Pracuj w nowej karcie.
+
+1. Otwórz w Chrome https://github.com/MarekDOLEW/blogoklockach/blob/main/materialy/indeksacja/kolejka.md
+   i przeczytaj nagłówek z datą oraz listę „Adresy na dziś”. Jeśli data w nagłówku nie jest
+   dzisiejsza — nic nie zgłaszaj, napisz „kolejka nieaktualna (data …)” i zakończ.
+2. Otwórz https://search.google.com/search-console?resource_id=sc-domain%3Atylkoklocki.pl
+3. Dla każdego adresu z listy, po kolei:
+   - wklej adres w pole „Sprawdź dowolny URL” na górze i naciśnij Enter, poczekaj na wynik;
+   - jeśli wynik mówi „Adres URL jest w Google” — nie klikaj nic, przejdź do następnego;
+   - w przeciwnym razie kliknij „Poproś o zindeksowanie” i poczekaj na komunikat
+     „Poproszono o zindeksowanie” (do 2 minut), zamknij okno komunikatu;
+   - gdy pojawi się „Przekroczono limit” — przerwij, reszta przyjdzie jutro.
+4. Nic poza tym nie klikaj, niczego nie zmieniaj w ustawieniach, nie usuwaj adresów,
+   nie zgłaszaj map witryny. Jeśli Search Console wymaga logowania albo pojawi się CAPTCHA — nie loguj się i nie rozwiązuj jej; przerwij i napisz, na czym stanęło.
+5. Na koniec jedna linijka: „Zgłoszone X z N; w indeksie już Y; limit na pozycji Z (albo: bez limitu)”.
+
+Odpowiadaj po polsku.
+```
+
 ## Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem)
 
-- ID: `trig_01PwyDWKRCLydgDxAH8eRzzR` · cron `CRON_TZ=Europe/Warsaw 30 5 * * 2` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_01XjJhujd8FnXsGWAHQeUBqd` · cron `CRON_TZ=Europe/Warsaw 30 5 * * 2` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Cotygodniowy odczyt listingu lego.pl dla tylkoklocki.pl (decyzja Marka 15.09.2026: LEGO sprawdzamy co najmniej raz w tygodniu) plus tygodniowe odświeżenie cen Ceneo i Smyka. Ty tylko uruchamiasz skrypty z repo w podanej kolejności i czytasz ich wyniki; skrypty same walidują dane (append-only) i przerywają przy błędzie. Kontekst: RUNBOOK.md, sekcja „lego.pl: dostępne przez Firecrawl". Koszt: ok. 75 kredytów Firecrawla (57 stron listingu). Repo jest dopięte do tej stałej sesji (od 22.09.2026 — wcześniejsza wersja w świeżej sesji nie miała repo i nie mogła pushować).
 
-Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i wklej komunikat do podsumowania:
+Kroki, dokładnie w tej kolejności. Przebieg ma dwie NIEZALEŻNE części: LEGO.pl (kroki 1–5, źródło Firecrawl) i ceny sklepów (kroki 6–6a, źródła Tradedoubler i Smyk). Błąd w części LEGO.pl zatrzymuje tylko kroki 1–5: pomiń resztę z nich, przejdź do kroku 6 i wpisz komunikat do „Kto co robi”. Błąd w kroku 6 albo 6a: wpisz komunikat i idź dalej. Błąd w kroku 7 (build, push): przerwij i wklej komunikat do podsumowania. Od 14.10.2026, decyzja Marka — wcześniej każdy błąd przerywał cały przebieg, więc awaria listingu LEGO.pl zabierała też tygodniowe ceny Ceneo, Lidla, MediaMarktu i Smyka, choć to inne źródła.
 0. REPO I ŚRODOWISKO. W katalogu repo: `git fetch origin main && git checkout -B lego-pl-katalog origin/main`; jeśli nie ma node_modules: `npm ci --no-audit --no-fund`. Potem `node scripts/diagnoza.mjs --szybko` — ten przebieg wymaga zmiennych FIRECRAWL_KEY (listing) i TD_TOKEN (Ceneo). Brak którejś: nie szukaj obejść, wpisz to do podsumowania i pomiń zależny krok (bez FIRECRAWL_KEY pomijasz kroki 1–5, bez TD_TOKEN pomijasz krok 6). Jeśli katalogu repo nie ma wcale — sesja straciła źródło: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`, ale wpisz to w PIERWSZEJ linii podsumowania, bo push wtedy najpewniej nie przejdzie.
-1. Zaciąg listingu (kilkanaście minut, nie przerywaj): `node scripts/firecrawl-legopl.mjs --wyjscie /tmp/legopl-katalog.json --rrp /tmp/legopl-rrp.json`. Skrypt sam przechodzi wszystkie strony listingu (ok. 57 po 22–24 pozycje). BRAMKA: w podsumowaniu skryptu sprawdź liczbę ZESTAWÓW (nie pozycji — akcesoria to ok. 400 dodatkowych). Jeśli zestawów jest mniej niż 800 (22.09 było 938) — listing się urwał; NIE wczytuj danych, opisz to w podsumowaniu i przejdź do kroku 6.
+1. Zaciąg listingu (kilkanaście minut, nie przerywaj): NAJPIERW `rm -f /tmp/legopl-katalog.json /tmp/legopl-rrp.json` (sesja jest stała — plik z poprzedniego wtorku mógłby zostać i kroki 2–5 wczytałyby tygodniowe dane jako dzisiejsze), potem `node scripts/firecrawl-legopl.mjs --wyjscie /tmp/legopl-katalog.json --rrp /tmp/legopl-rrp.json`. Skrypt sam przechodzi wszystkie strony listingu (ok. 57 po 22–24 pozycje). ALARM PARSERA: gdy skrypt kończy się kodem 3 i komunikatem „ALARM PARSERA LEGO.pl”, NIE zapisał katalogu — LEGO.pl zmieniło najpewniej układ kafelka i parser gubi produkty. Nie próbuj tego obchodzić (żadnego `--mimo-alarmu`, żadnej edycji parsera): pomiń kroki 2–5, przejdź do kroku 6, a w „Kto co robi” daj pozycję dla Code z wierszami alarmu skopiowanymi dosłownie (Zrobić: poprawić `scripts/parser-legopl.mjs` według RUNBOOK, „Czwarta pułapka”, i puścić zaciąg ręcznie). BRAMKA: w podsumowaniu skryptu sprawdź liczbę ZESTAWÓW (nie pozycji — akcesoria to ok. 400 dodatkowych). Jeśli zestawów jest mniej niż 800 (22.09 było 938) — listing się urwał; NIE wczytuj danych, opisz to w podsumowaniu i przejdź do kroku 6.
 2. `node scripts/lego-ceny.mjs /tmp/legopl-katalog.json --sucho` — przeczytaj raport (produkty, ekskluzywne, zmiany, ile zestawów przechodzi na EOL po 14 dniach nieobecności, rozbieżności ekskluzywów). Gdy raport wygląda rozsądnie (zmiany w setkach, nie tysiącach; „nowo dostepny" poniżej 100; „na EOL" poniżej 150), uruchom bez `--sucho`. Jeśli „na EOL" jest większe — listing był niepełny mimo bramki: NIE wczytuj, opisz.
 3. `node scripts/wczytaj-rrp.mjs /tmp/legopl-rrp.json --zrodlo "lego.pl (Firecrawl)" --sucho`, potem bez `--sucho` (rejestr cen katalogowych jest write-once — konflikty zostają w raporcie, nie używaj --nadpisz).
 4. `node scripts/lego-redirects.mjs /tmp/legopl-katalog.json --sucho`, potem bez `--sucho` (adresy kart produktu, tylko dopisywanie).
 5. Zestawy „spoza katalogu" z raportu lego-ceny.mjs: `node scripts/katalog-z-rebrickable.mjs --sucho`; jeśli skrypt proponuje dopisać zestawy (nie akcesoria 5xxxxxx) — uruchom bez `--sucho`. To jedyny mechanizm, który daje hub zestawom widocznym na lego.pl, a nieznanym katalogowi.
-6. Ceny Ceneo i Lidla (tygodniowo, wymaga TD_TOKEN): `node scripts/ceneo-feed.mjs`. Skrypt dopisuje klucz `ceneo` (i `lidl`) do feedu z datą per sklep i linki do redirects.json; nic nie kasuje.
+6. Ceny z feedów Tradedoublera (tygodniowo, wymaga TD_TOKEN): `node scripts/ceneo-feed.mjs`. Bez argumentów bierze wszystkie aktywne feedy TD z `src/data/feedy.json` — dziś Ceneo, Lidl i MediaMarkt (od 12.10.2026). Skrypt dopisuje klucze sklepów do feedu z datą per sklep i linki do redirects.json; nic nie kasuje. Linie „pominięty: <nr> …” (numer spoza katalogu albo niezgodny z nazwą) przepisz do sekcji „Kto co robi” jako pozycję dla Code — człowiek sprawdza i dopisuje numer do `potwierdzone_numery` w feedy.json.
 6a. Ceny Smyka (tygodniowo, bez kredytów Firecrawla): `node scripts/smyk-odswiez.mjs`, potem `node scripts/smyk-odswiez.mjs --stare` (domyka błędy sieci). Skrypt czyta ~700 adresów kart z `redirects.smyk` i pobiera je zwykłym curl-em po sześć naraz — trwa ok. 4 minut. Zapisuje `oferty.smyk` + `daty.smyk`; zestaw wyprzedany (OutOfStock) traci cenę Smyka, wpis zostaje. Gdy po `--stare` zostaje więcej niż 30 błędów, napisz to w podsumowaniu i nie powtarzaj więcej niż raz.
 7. `node scripts/generuj-obrazy.mjs` (odświeża obrazy.json dla nowych zestawów — bez tego Routine Zdjęcia → R2 ich nie dogra), potem `npm run build` — musi przejść. Potem `git add src/data && git commit -m "LEGO.pl + Ceneo + Smyk: ceny, dostępność i ekskluzywy z listingu <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); jeśli rebase zgłosi konflikt w src/data — NIE rozwiązuj go ręcznie, przerwij (`git rebase --abort`) i wklej komunikat do podsumowania. Jeśli push odrzuca proxy (komunikat o braku uprawnień / „denied") — nie kombinuj: `git format-patch origin/main --stdout > /tmp/dane-wt.patch`, wyślij plik przez SendUserFile i wpisz dokładny komunikat gita w pierwszej linii podsumowania.
-8. Podsumowanie (do 8 linijek): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanych z Rebrickable, cen Ceneo, cen Smyka (odczytanych / wyprzedanych / błędów); hash commita. Rozbieżności ekskluzywów (flaga w sety.json bez etykiety na listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
+8. Podsumowanie (do 8 linijek, pod sekcją „Kto co robi” opisaną niżej): liczba zestawów z listingu, ekskluzywnych, zmian w feedzie / sety / katalogu, zestawów przestawionych na EOL (numery), nowych cen RRP, nowych linków, dopisanych z Rebrickable, cen Ceneo, cen Smyka (odczytanych / wyprzedanych / błędów); hash commita. Rozbieżności ekskluzywów (flaga w sety.json bez etykiety na listingu) wypisz numerami — to lista do ręcznego sprawdzenia dla Marka.
 
-Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili. Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — przerwij i wklej komunikat. Nie powtarzaj w podsumowaniu uwag z poprzednich przebiegów — każda uwaga techniczna musi mieć dowód z tego przebiegu (wynik polecenia).
+Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili (jedyny plik poza src/data, który zmieniasz, to DZIENNIK.md — wpis „Do zrobienia” opisany niżej; dołącz go do commita z kroku 7). Gdy Firecrawl odpowie 402/429 (brak kredytów, limit) — pomiń kroki 1–5, wklej komunikat do „Kto co robi” (Kto: Marek — kredyty) i przejdź do kroku 6. Gdy kroki 1–5 zostały pominięte, commit z kroku 7 nazwij „Ceneo + Smyk: ceny <DD.MM.RRRR> (LEGO.pl pominięte: <powód w kilku słowach>)”. Nie powtarzaj w podsumowaniu uwag z poprzednich przebiegów — każda uwaga techniczna musi mieć dowód z tego przebiegu (wynik polecenia).
+
+KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runnerach, wzór: Radar). Podsumowanie, a więc i mail/PDF, ZACZYNA się od sekcji „Kto co robi”. Każda pozycja ma dokładnie cztery linijki:
+
+    **<co się stało — jedno zdanie z konkretem: numer zestawu, sklep, kwota, adres, liczba>**
+    **Mamy?** — tak: <adres u nas> / częściowo: <czego brakuje> / nie
+    **Zrobić:** — <jedna konkretna czynność, którą da się wykonać bez czytania reszty raportu: który plik, który adres, który zestaw, ile> / nic
+    **Kto:** — Piotr (tekst) / Marek (decyzja, panel, zakup) / Code (dane, strona, skrypt) / Cowork (przeglądarka, panel sieci) / Dane wt (następny przebieg)
+
+Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen i ekskluzywów, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Bez ogólników („warto rozważyć”, „do obserwacji”) — każda pozycja ma jedno „Zrobić” i jednego „Kto”. Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka.” Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
+DZIENNIK: pozycje, w których „Kto” to nie Ty, a „Zrobić” to nie „nic”, dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · DANE WT · Do zrobienia” z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela” dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …”. Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>”. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Dane wt: do zrobienia <data>” i push jak zwykle.
 ```
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
 
-- ID: `trig_01RjjGRUpJ8QVvhBQrLXiy7Z` · cron `CRON_TZ=Europe/Warsaw 30 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+- ID: `trig_019xWfJ67XhPdnX6GknSYrb3` · cron `CRON_TZ=Europe/Warsaw 30 8 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
 
 ```
 Kolejny przebieg Łowcy Promocji. Repo dopięte do tej sesji — zacznij od `git pull origin main`, na końcu commit i push bezpośrednio. 
@@ -293,10 +349,11 @@ PUBLIKACJA (zmienione 30.09.2026 po audycie Routines):
 1. Walidacja JSON-ów (liczby wpisów nie zmalały w ŻADNEJ gałęzi: sety, oferty_feed.sety, każda gałąź redirects).
 2. BUILD PRZED PUSHEM: `npm run build` (ok. 40 s; jeśli nie ma node_modules — najpierw `npm ci --no-audit --no-fund`). Build musi przejść. Gdy się wywróci — NIE pushuj: wklej ostatnie 20 linii błędu w pierwszej linii podsumowania, zrób `git format-patch origin/main --stdout > /tmp/lowca.patch` i wyślij patch przez SendUserFile. Wczorajsze dane na stronie są lepsze niż strona, która się nie zbudowała.
 3. Commit „Łowca: ceny i oferty <data>", push na main.
+3a. ZDJĘCIA DO NASZEGO MAGAZYNU (od 18.10.2026, decyzja Marka: wszystkie zdjęcia mają być u nas, nie pobierane na bieżąco ze sklepów). Zaraz po udanym pushu: `node scripts/r2-obrazy.mjs` (porównuje R2 ze zdjęciami w danych i wgrywa brakujące — po Twoim przebiegu zwykle kilka nowych zestawów, kilkanaście sekund), potem `node scripts/warianty-obrazow.mjs --limit 200` (warianty WebP dla nowych oryginałów). Oba skrypty niczego nie zmieniają w repo, więc nie ma czego commitować. Wymagają CF_ACCOUNT_ID i CF_R2_TOKEN; błąd albo brak zmiennej nie cofa pushu — wklej komunikat do „Kto co robi” jako pozycję dla Code. Liczby z wyjścia (ile brakowało w R2, ile wgrano, błędy) idą do podsumowania jedną linijką.
 4. KONFLIKT przy pushu (inna sesja pushnęła w międzyczasie, np. import Empiku 28.09): `git fetch origin main`, weź wersję z origin, nanieś swoje zmiany ponownie na `sety.json`, `oferty_feed.json`, `ceny_baza.json`, `redirects.json`, `obrazy.json`. HISTORIA CEN: nie scalaj plików `src/data/historia-cen/` ręcznie — `git checkout origin/main -- src/data/historia-cen/`, a po naniesieniu danych uruchom `node scripts/historia-cen.mjs`; skrypt porówna Twoje dzisiejsze ceny z `_ostatnie.json` z origin i dopisze tylko różnice (28.09 ręczne przełożenie zgubiło 732 wpisy). Potem znów walidacja i build, dopiero wtedy push.
 5. Push niemożliwy → dokładny błąd gita w podsumowaniu + pliki przez SendUserFile.
 
-PODSUMOWANIE: data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), kontrola kart ME (z `_meta.mediaexpert_karty`), weryfikacje PK, zmiany cen (ile w górę), nowe wpisy historii cen, deale gorące (cena, rabat, zł/klocek), obowiązkowe kategorie (liczba z progiem per kategoria), gotowe posty dealowe, import Empiku (jeśli był).
+PODSUMOWANIE: zdjęcia do R2 (brakowało / wgrano / błędy), data feedu ME, liczby dopasowań per sklep (z `_meta.liczby`), kontrola kart ME (z `_meta.mediaexpert_karty`), weryfikacje PK, zmiany cen (ile w górę), nowe wpisy historii cen, deale gorące (cena, rabat, zł/klocek), obowiązkowe kategorie (liczba z progiem per kategoria), gotowe posty dealowe, import Empiku (jeśli był).
 
 BUDŻET: pracuj oszczędnie — jedno uruchomienie skryptu, przetwarzanie w Pythonie, bez powtarzania kroków i bez eksperymentów z parsowaniem. Jeśli skrypt zwróci błąd, napisz jaki i zakończ, zamiast parsować feedy ręcznie.
 
@@ -307,6 +364,17 @@ WYSYŁKA RAPORTU DO REDAKCJI (od 14.09.2026). Piotr nie widzi tej rozmowy ani pl
 Skrypt sam robi PDF (Chromium z kontenera — niczego nie instaluj) i wysyła na adresy z `src/data/raporty_mail.json`. Wysyłaj po KAŻDYM przebiegu, także gdy nic się nie zmieniło — wtedy raport ma to powiedzieć wprost. Jeśli skrypt zwróci błąd, wklej jego dokładny komunikat do podsumowania i nie ponawiaj więcej niż raz. Nigdy nie wysyłaj pustego pliku.
 
 W poście dealowym podaj we frontmatterze pasek_zestaw: "<nr>" z numerem zestawu z tytułu — layout wstawi pasek z ceną pod tytułem.
+
+KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runnerach, wzór: Radar). Podsumowanie, a więc i mail/PDF, ZACZYNA się od sekcji „Kto co robi”. Każda pozycja ma dokładnie cztery linijki:
+
+    **<co się stało — jedno zdanie z konkretem: numer zestawu, sklep, kwota, adres, liczba>**
+    **Mamy?** — tak: <adres u nas> / częściowo: <czego brakuje> / nie
+    **Zrobić:** — <jedna konkretna czynność, którą da się wykonać bez czytania reszty raportu: który plik, który adres, który zestaw, ile> / nic
+    **Kto:** — Piotr (tekst) / Marek (decyzja, panel, zakup) / Code (dane, strona, skrypt) / Cowork (przeglądarka, panel sieci) / Łowca (następny przebieg)
+
+Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen i ekskluzywów, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Bez ogólników („warto rozważyć”, „do obserwacji”) — każda pozycja ma jedno „Zrobić” i jednego „Kto”. Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka.” Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
+DZIENNIK: pozycje, w których „Kto” to nie Ty, a „Zrobić” to nie „nic”, dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · ŁOWCA · Do zrobienia” z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela” dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …”. Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>”. (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Łowca: do zrobienia <data>” i push jak zwykle.
+Łowca odpala się codziennie: do dziennika trafia tylko pozycja NOWA (której wczoraj nie było) — powtarzające się codziennie stany (np. ta sama kategoria poniżej 5 zestawów) idą jedną linią „↻” pod istniejący wpis, najwyżej raz w tygodniu.
 ```
 
 ## LEGO 09:30 — Alerty cen (Obserwuj zestaw)
@@ -348,4 +416,30 @@ Kroki, dokładnie w tej kolejności:
 4. Podsumowanie: jedna linijka z wynikiem (ile w R2, ile brakowało, ile wgrano). Gdy coś wgrano — wypisz klucze. Gdy były błędy — wklej listę błędów ze skryptu dosłownie.
 
 Nie rób niczego poza tym: żadnych zmian w repo, żadnych innych skryptów, żadnego wysyłania maili.
+```
+
+## Kolejka indeksacji 01:57 — lista do „Poproś o zindeksowanie” (runner z pushem)
+
+- ID: `trig_01Gh6Payj9QVGDkrKXNzkbCX` · cron `CRON_TZ=Europe/Warsaw 57 1 * * *` · włączony · stała sesja (zmiana promptu = delete + create)
+
+```
+Nocna kolejka „Poproś o zindeksowanie” dla tylkoklocki.pl (decyzja Marka 14.10.2026). Ty tylko uruchamiasz skrypt z repo i publikujesz jego wynik; samo klikanie w Search Console robi rano Cowork na komputerze Marka według pliku, który tu powstaje. Kontekst: `scripts/README.md` (wiersz `kolejka-indeksacji.mjs`) i nagłówek samego skryptu. Repo jest dopięte do tej stałej sesji.
+
+Kroki, dokładnie w tej kolejności — po błędzie w którymkolwiek przerwij i wklej komunikat do podsumowania:
+0. REPO I ŚRODOWISKO. W katalogu repo: `git fetch origin main && git checkout -f -B kolejka-indeksacji origin/main` (`-f` celowo: build z poprzedniej nocy zostawia zmiany w src/data, których nie commitujemy); jeśli nie ma node_modules: `npm ci --no-audit --no-fund`. Potem `node scripts/diagnoza.mjs --szybko` — przebieg wymaga zmiennej GSC_KEY_JSON_B64. Brak: nie szukaj obejść, opisz w podsumowaniu i zakończ.
+1. `npm run build` — musi przejść (skrypt czyta sitemapy i meta robots z dist/).
+2. `node scripts/kolejka-indeksacji.mjs` — domyślnie 10 adresów i najwyżej 300 sprawdzeń w API (limit Google to 2 000 dziennie). Kod wyjścia 2 = brak klucza albo tokenu: opisz i zakończ. Linia „API: … przerywam przegląd” (np. 429, przekroczony limit) nie jest błędem przebiegu — skrypt i tak zapisuje to, co zdążył wybrać; przepisz tę linię do podsumowania.
+3. `git add materialy/indeksacja && git commit -m "Kolejka indeksacji <DD.MM.RRRR>: <N> adresów" && git push origin kolejka-indeksacji:main`. Commitujesz WYŁĄCZNIE `materialy/indeksacja/` — zmian w src/data po buildzie nie dodawaj. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); konflikt przy rebase — `git rebase --abort`, wklej komunikat do podsumowania. Push odrzucony przez proxy („denied”, brak uprawnień) — dokładny komunikat gita w pierwszej linii podsumowania.
+4. Podsumowanie (do 6 linijek): ile adresów w kolejce i jakiego typu (listing / artykuł / seria / deal / hub), stany z sekcji „Stan sprawdzonych adresów”, liczba sprawdzeń w API, hash commita.
+
+KTO CO ROBI (format wspólny dla runnerów, wzór: Radar). Podsumowanie zaczyna się od sekcji „Kto co robi”. Gdy kolejka ma adresy, jedna pozycja:
+
+    **<N> adresów czeka na „Poproś o zindeksowanie” w GSC (lista: materialy/indeksacja/kolejka.md)**
+    **Mamy?** — częściowo: strony są na produkcji, Google ich nie zindeksował
+    **Zrobić:** — zgłosić adresy z kolejki według instrukcji w pliku, do limitu GSC
+    **Kto:** — Cowork (przeglądarka, panel GSC)
+
+Gdy kolejka jest pusta — „Kto co robi: nic dla Piotra i Marka.” Błąd skryptu, brak zmiennej albo nieudany push — pozycja dla Code z dosłownym komunikatem. Do DZIENNIK.md NIE dopisuj codziennej pozycji dla Coworka (to rutyna, plik kolejki jest jej zapisem); dopisz wpis „## <RRRR-MM-DD> <GG:MM> · KOLEJKA INDEKSACJI · Do zrobienia” z czterema linijkami tylko przy błędzie, który wymaga człowieka albo Code — wtedy dołącz DZIENNIK.md do commita z kroku 3. Znacznik w dzienniku to cała linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->`.
+
+Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili, żadnych wywołań API Search Console poza tym skryptem (limit sprawdzeń jest wspólny z Kontrolerem i sesjami Code). Skryptów pomocniczych nie twórz w katalogu repo. Nie powtarzaj uwag z poprzednich przebiegów — każda uwaga musi mieć dowód z tego przebiegu (wynik polecenia).
 ```
