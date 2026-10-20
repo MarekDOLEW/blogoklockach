@@ -133,6 +133,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-20 09:05 · ŁOWCA · Do zrobienia
+
+**Nowa pozycja w podejrzanym rynku: 77253 Bugatti Vision GT na Ceneo za 57,32 zł przy RRP 114,99 (−50%)**
+**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
+**Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 77253 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-10-20 05:45 · DANE WT · Do zrobienia
 
 **Feed MediaMarkt (Tradedoubler) zawiera 2 pozycje, które skrypt pominął jako spoza katalogu albo niezgodne z nazwą: 76265 „Klocki LEGO Marvel Figurka Kapitana Ameryki do zbudowania" i 52447 „Klocki LEGO Classic Kwadratowy Notatnik czarny z długopisem".**
