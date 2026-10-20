@@ -90,3 +90,29 @@ Na podstawie tego, jak działa import, zasady są takie:
 - **numery zestawów**, których dotyczy tekst.
 
 Jeśli tego bloku nie będzie, uzupełni go Code. To ułatwienie, nie wymóg.
+
+## Odpowiedzi na notatkę „jak przekazujemy teksty do publikacji” (20.10.2026)
+
+Notatka Piotra leży w repo bez zmian: `redakcja/przekazywanie-tekstow.md`. Pliki .md importuje
+od dziś `scripts/import-artykul-md.py` — bez przepisywania ręcznego.
+
+1. **`[TABELA CENOWA 42215, 42216]` — tak, od dziś.** Daje tabelę zbiorczą: wiersz na zestaw
+   z ceną katalogową, najniższą dzisiejszą ceną, sklepem, rabatem i linkiem do karty zestawu
+   z pełną tabelą. `[TABELA CENOWA]` bez numeru bierze pierwszy zestaw z pola „Zestawy”.
+2. **Aktualności — tak.** To kategoria działu Artykuły; teksty z nią trafiają też na listę
+   `/aktualnosci/` i do pasa aktualności na stronie głównej. Jeden wymóg techniczny: aktualność
+   musi mieć zdjęcie okładki. Bierzemy je z pierwszego numeru w polu „Zestawy”; gdy tekst nie
+   dotyczy istniejącego zestawu (np. przecieki), dobieramy zdjęcie poglądowe z podpisem.
+3. **Opisy zestawów P07 — zostańmy przy paczkach DOCX.** Import (`scripts/import-karty.py`)
+   wczytał w dwa dni 275 kart bez ręcznej pracy. Prośba tylko o stały szablon: tytuł
+   „LEGO <numer> <nazwa>”, sekcje „Opis zestawu”, „Metryka zestawu” (tabela Pole | Dane),
+   „FAQ” z pytaniami jako nagłówkami. Partie 05–07 zmieniły nazwy pól metryki („Elementy”,
+   „Cena katalogowa w Polsce”) — import już je zna, ale nowe nazwy prosimy zgłaszać.
+   Cena katalogowa w metryce musi zgadzać się z ceną LEGO.pl; przy różnicy karta czeka na
+   sprawdzenie. Opis może mieć jeden akapit, jeśli ma ponad 300 znaków — strona zestawu
+   i tak wchodzi do indeksu.
+4. **Blok `[DANE DLA SERWISU]` pasuje.** Jedna korekta mapowania: „Opis” trafia do pola
+   `opis` (zajawka na listach i opis dla Google jednocześnie), nie do `seo_opis`.
+   Pierwszy numer w „Zestawy” to zdjęcie okładki. Nowe pole opcjonalne dla aktualności
+   z terminem: `Ważne do: 2026-10-27` — po tej dacie tekst dostaje baner „akcja zakończona”
+   i schodzi na dół list.

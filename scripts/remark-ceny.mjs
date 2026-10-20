@@ -2,6 +2,7 @@
 //
 // W markdownie wystarczy jednolinijkowy znacznik:
 //   <div class="ceny-setu" data-set="42215"></div>
+//   <div class="ceny-setu" data-set="42215,42216"></div>   (tabela zbiorcza, od 20.10.2026)
 //
 // Dlaczego znacznik, a nie wpisana ręcznie tabela: artykuł zostaje na stronie
 // latami, a cena zmienia się codziennie. Ręcznie wklepana tabela z datą
@@ -200,13 +201,49 @@ function tabela(nr) {
   );
 }
 
-const ZNACZNIK = /<div\s+class="ceny-setu"\s+data-set="(\d{4,7})"\s*><\/div>/g;
+// Tabela zbiorcza (20.10.2026, notatka Piotra „jak przekazujemy teksty”: `[TABELA CENOWA 42215, 42216]`):
+// po jednym wierszu na zestaw – najniższa dziś cena, sklep, rabat od katalogowej i link do karty
+// zestawu, gdzie jest pełna tabela. Te same oferty i odsiew co w tabeli jednego zestawu.
+function tabelaZbiorcza(nry) {
+  const wiersze = nry.map((nr) => {
+    const rrp = cenaKatalogowaSetu(nr);
+    const oferty = polaczOferty(nr).filter((o) => !(wycofany(nr) && o.sklep === 'lego'));
+    const sklepowe = oferty.filter((o) => o.sklep !== 'ceneo').sort((a, b) => a.cena - b.cena);
+    const naj = sklepowe[0] ?? oferty[0] ?? null;
+    const nazwaSetu = esc(sety[nr]?.nazwa ?? katalogIdx.get(nr)?.nazwa ?? '');
+    const komorkaCeny = naj
+      ? `<td class="cena kc-cena">${fmt(naj.cena)}<span class="kc-uwaga">${esc(sklepy[naj.sklep]?.nazwa ?? naj.sklep)}</span></td>` +
+        `<td class="kc-rabat">${rrp && naj.cena < rrp ? `−${Math.round((1 - naj.cena / rrp) * 100)}%` : '–'}</td>`
+      : '<td class="cena kc-cena">–</td><td class="kc-rabat">–</td>';
+    return (
+      `<tr><td class="kc-sklep"><strong><a href="/zestaw/${nr}/">LEGO ${nr}</a></strong>` +
+      (nazwaSetu ? `<span class="kc-uwaga">${nazwaSetu}</span>` : '') +
+      `</td><td class="kc-cena">${rrp ? fmt(rrp) : '–'}</td>${komorkaCeny}` +
+      `<td class="kc-cta"><a class="cta" href="/zestaw/${nr}/">Wszystkie ceny →</a></td></tr>`
+    );
+  });
+  return (
+    '<div class="karta karta--ceny tabela-cen-wrap">' +
+    '<table class="tabela-cen tabela-cen--zbiorcza">' +
+    `<caption>Aktualne ceny – ${nry.map((n) => `LEGO ${n}`).join(', ')}</caption>` +
+    '<thead><tr><th>Zestaw</th><th>Katalogowo</th><th>Najtaniej dziś</th><th>Rabat*</th><th><span class="tylko-czytnik">Ceny</span></th></tr></thead>' +
+    `<tbody>${wiersze.join('')}</tbody></table>` +
+    '<p class="tabela-data">* Rabat liczony od ceny katalogowej LEGO. Najniższa cena w sklepach, które śledzimy; ' +
+    'pełne zestawienie sklepów jest na karcie każdego zestawu. Tabela odświeża się razem z cenami w serwisie, ' +
+    'a wiążąca jest zawsze cena w koszyku sklepu.</p></div>'
+  );
+}
+
+const ZNACZNIK = /<div\s+class="ceny-setu"\s+data-set="(\d{4,7}(?:\s*,\s*\d{4,7})*)"\s*><\/div>/g;
 
 export default function remarkCeny() {
   return (drzewo, plik) => {
     const idz = (wezel) => {
       if (wezel.type === 'html' && wezel.value.includes('ceny-setu')) {
-        wezel.value = wezel.value.replace(ZNACZNIK, (_, nr) => {
+        wezel.value = wezel.value.replace(ZNACZNIK, (_, lista) => {
+          const nry = lista.split(',').map((n) => n.trim());
+          if (nry.length > 1) return tabelaZbiorcza(nry);
+          const nr = nry[0];
           const html = tabela(nr);
           if (!html) {
             const powod = premieraSetu(nr) > BIEZACY_MIESIAC ? 'przed premierą' : 'brak ofert';
