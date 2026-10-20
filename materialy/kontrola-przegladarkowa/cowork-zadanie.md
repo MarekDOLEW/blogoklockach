@@ -39,6 +39,13 @@ przenosi niezamknięte wyniki do `DZIENNIK.md` jako pozycję „KONTROLER · Do 
 
 ## Stan 19.10.2026 (po południu): oba zadania istnieją, dzień miesiąca = 20.
 
+**20.10.2026, pierwszy przebieg — bez przeglądarki.** Zadanie założone z panelu (`created_via: http_api`)
+odpaliło się w chmurze: „narzędzia Claude in Chrome się nie załadowały (…) otwórz to zadanie w aplikacji
+Claude na komputerze z Chrome i włącz «Require this computer»". Czyli samo założenie zadania na Macu nie
+wystarcza — powiązanie z komputerem to **osobny przełącznik w zadaniu** („Require this computer"), który
+„Kolejka GSC" ma, a to zadanie nie miało. Po włączeniu: test ręczny (`fire_trigger` z sesji Kontrolera),
+żeby nie czekać do 20.11. Lista z 20.10 zostaje ważna do 27.10 (próg 7 dni w prompcie).
+
 Zadanie z przeglądarką założył Marek na Macu: `trig_01NRYdRPRMVTYZTGDf5C8iH6`, **20. dnia miesiąca
 o 11:45** (nie 1., jak pierwotnie planowano). Dlatego generowanie listy przestawione na **20. dnia
 o 07:49** — inaczej lista z 1. byłaby 20. dnia 19-dniowa i zadanie pisałoby „nieaktualna". Pierwszy

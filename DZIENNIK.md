@@ -139,6 +139,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: lista na 20.10 była świeża (`ddf9050`, 07:49), więc „lista nieaktualna" odpada; najpewniej sesja nie załadowała narzędzi Chrome i zgodnie z promptem zakończyła jednym zdaniem — ale tej odpowiedzi z sesji Kontrolera nie widać.
 **Zrobić:** — wkleić do sesji Kontrolera odpowiedź tego zadania z Coworka (choćby jedno zdanie); jeśli brzmi „przeglądarka nieosiągalna" — sprawdzić w Claude Desktop, czy zadanie jest przypięte do komputera i czy rozszerzenie Claude in Chrome było włączone o 11:45.
 **Kto:** — Marek (komputer)
+↻ 20.10.2026 13:20: Marek wkleił odpowiedź zadania — „Nie dało się połączyć z przeglądarką (…) To uruchomienie
+szło w chmurze, bez dostępu do Twojego komputera, i narzędzia Claude in Chrome się nie załadowały. W repo nic się nie
+zmieniło. Żeby kolejne uruchomienia działały, otwórz to zadanie w aplikacji Claude na komputerze z Chrome i włącz
+«Require this computer»." Czyli zadanie założone z panelu NIE dostało powiązania z komputerem — to osobny przełącznik.
+Nowe Zrobić: w Claude Desktop na Macu otworzyć zadanie „Kontrola linków w przeglądarce" i włączyć „Require this
+computer"; potem test ręczny (Kontroler może odpalić `fire_trigger` na prośbę — lista z 20.10 jest świeża), żeby nie
+czekać do 20.11. Kto: Marek (komputer).
 
 
 ## 2026-10-20 · CODE · Karty P07 Piotra: partia 08 (25 kart, ostatnia paczka) wgrana
