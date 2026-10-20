@@ -133,6 +133,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-20 09:10 · CODE · Trzy teksty Piotra: upominki LEGO.pl, 11390 Dragon Ball, Star Wars styczeń 2027
+
+**Zrobione:** teksty bez zmian, dopisane frontmattery, FAQ, linki serii w miejsce znaczników.
+- `/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/` (Aktualności, `wazne_do` 27.10, galeria 3 upominków).
+- `/artykuly/lego-11390-dragon-ball-shenron-goku-premiera/` (Premiery): galeria 8 zdjęć z lego.com w `galerie.json`,
+  od razu w R2; tabela cen w miejsce znacznika cen.
+- `/artykuly/lego-star-wars-styczen-2027-przecieki/` (Aktualności): okładka poglądowa 75301 z opisem, że to nie zestaw
+  z przecieku; link do /przecieki/.
+**Stan:** na main.
+
+## 2026-10-20 09:10 · CODE · Do zrobienia
+
+**Tekst Piotra o Star Wars na styczeń 2027 i `przecieki.json` różnią się przy dwóch zestawach: 75474 Master Yoda (Piotr: 1200 el., 149,99 €, 1.01.2027; u nas: bez elementów, 550 zł, 2027-04) i powiększonym Luke’u (Piotr: 75483, nowsze listy; u nas: 75482).**
+**Mamy?** — częściowo: oba w `przecieki.json`, tekst Piotra opisuje rozbieżność list
+**Zrobić:** — sprawdzić u źródeł i zaktualizować wpisy 75474 i 75482/75483 w `src/data/przecieki.json` (dopisać źródła, nie kasować wpisu)
+**Kto:** — Scout (następny przebieg)
+
 ## 2026-10-20 09:05 · ŁOWCA · Do zrobienia
 
 **Nowa pozycja w podejrzanym rynku: 77253 Bugatti Vision GT na Ceneo za 57,32 zł przy RRP 114,99 (−50%)**
