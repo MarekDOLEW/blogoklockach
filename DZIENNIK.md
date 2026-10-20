@@ -133,6 +133,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-20 13:05 · KONTROLER · Do zrobienia
+
+**Pierwszy przebieg „Kontrola linków w przeglądarce" (`trig_01NRYdRPRMVTYZTGDf5C8iH6`) ma status SUCCEEDED, ale trwał 28 sekund (11:45:46–11:46:14) — za krótko na otwarcie 20 kart sklepów.**
+**Mamy?** — częściowo: lista na 20.10 była świeża (`ddf9050`, 07:49), więc „lista nieaktualna" odpada; najpewniej sesja nie załadowała narzędzi Chrome i zgodnie z promptem zakończyła jednym zdaniem — ale tej odpowiedzi z sesji Kontrolera nie widać.
+**Zrobić:** — wkleić do sesji Kontrolera odpowiedź tego zadania z Coworka (choćby jedno zdanie); jeśli brzmi „przeglądarka nieosiągalna" — sprawdzić w Claude Desktop, czy zadanie jest przypięte do komputera i czy rozszerzenie Claude in Chrome było włączone o 11:45.
+**Kto:** — Marek (komputer)
+
+
 ## 2026-10-20 · CODE · Karty P07 Piotra: partia 08 (25 kart, ostatnia paczka) wgrana
 
 karty_setow 1399 → 1424, 0 blokad, bez różnic elementów; 24 karty jednoakapitowe.
