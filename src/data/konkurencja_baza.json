@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-19",
-    "przebieg": "scheduled 2026-10-19 08:00",
+    "ostatnia_aktualizacja": "2026-10-20",
+    "przebieg": "scheduled 2026-10-20 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 304,
+    "liczba_wpisow": 306,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -32,7 +32,8 @@
       "2026-10-16": "Cztery publikacje, dwie znaczace - i pierwszy tego sezonu tekst, ktory wyznacza kotwice na listopad. fanklockow wystawil prognoze Weekendu Insiders i Czarnego piatku szesc tygodni przed czasem i zapowiedzial aktualizowanie jej na biezaco; to jest material, do ktorego czytelnik bedzie wracal przez caly listopad. Porownanie z naszym kalendarzem wypada dla nas dobrze na listopadzie (mamy tabele z rozpisanymi oknami) i zle na GRUDNIU: u nas to trzy zdania o terminach dostaw przed Wigilia, u nich ostatnie w roku okno podwojnych punktow, dwa swiateczne gratisy i mocne przeceny EOL po swietach. Grudzien to druga polowa naszego sezonu zakupowego, wiec ta luka jest realna. CZEGO NIE ROBIMY: nie przepisujemy ich dat. Oni daja Weekend Insiders na 21-22.11, my mamy 21-26.11 i ani jedno, ani drugie nie jest potwierdzone przez LEGO - to sa dwie prognozy, nie fakt i blad. Nasza wlasna obserwacja z tego roku (Member Day 09.09, okno 13-19.10) wystarczy, zeby napisac o grudniowym oknie wlasnymi slowami, bez powolywania sie na ich tekst. Wenecja 11388 (5682 elementy, 18 minifigurek, 2149,99 zl) jest u nas od dzis dzieki Scoutowi, ale bez ceny - ich 2149,99 to jedno zrodlo, do potwierdzenia drugim. Ciekawie laczy sie to z naszym przeciekiem 40898 'Weneckie wodne taxi (gratis do duzego zestawu)'. Dedup po slugu bez daty (wniosek z 15.10) zadzialal: przedatowany Inside Tour nie wrocil.",
       "2026-10-17": "Dzien z dwoma konkretami i jedna pomylka po drodze, warta zapisania. (1) faniklockow opisali promocje Smyku 'kup min. 2 produkty, -15%' - potwierdzone u zrodla (6462 produkty, rabat automatyczny w koszyku, LEGO objete), bez daty konca. To nasza luka mechaniczna: pokazujemy ceny za sztuke i nigdzie nie mowimy, ze przy dwoch zestawach u Smyku jest taniej; przy 10375, 60495 i 76317 Smyk jest u nas najtanszy. (2) zklockow ruszyl po tygodniu i wystawil karty 11388 i 40898. Pierwszy odruch - 'nie mamy tych numerow' - byl FALSZYWY: szukalem w katalog.json (plik z listingu lego.com), a rejestrem zestawow jest sety.json, gdzie 11388 stoi kompletny od wczoraj razem z wpisem w rrp_potwierdzone.json. Wniosek na przyszle przebiegi: luke w danych sprawdzamy w sety.json, nie w katalog.json. Realna reszta: cena katalogowa 40898 (124,99 zl u nich, null u nas po decyzji Marka z 15.10) oraz data - lego.com/pl-pl podaje dla 11388 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi o gratisie 40898 w dniach 1-8 listopada. (3) Struktura promoklocki.pl i zklockow.pl bez zmian; u promoklockow licznik paginacji 222 -> 224 (nowe produkty, nie nowa funkcja).",
       "2026-10-18": "Dzien bez tematu zakupowego. Dwie nowe publikacje, obie to kalendarze eventow u faniklockow (2026 i 2027), a fanklockow tego samego dnia przedatowali swoj 'Kalendarz - klockowe wydarzenia' z 15.10 na 17.10. Zbieznosc warta odnotowania: obaj buduja evergreeny eventowe na przelomie sezonu, kazdy z wlasnym adresem na kolejny rocznik. Nie wchodzimy w to - nie mamy zrodla danych o wystawach i targach, a te frazy nie prowadza do zakupu; gdyby kiedys wchodzic, to przez zgloszenia organizatorow, bo tak robi konkurencja. zklockow bez ruchu: log /aktualnosci stoi na wpisie z 15.10 (11388 i 40898). promoklocki bez zmian strukturalnych - te same kategorie i karty produktow, licznik paginacji 224 -> 223 (ruch w liczbie produktow, nie nowa funkcja).",
-      "2026-10-19": "Noc z 18 na 19.10 to zbiorowy skok na rocznik 2027: fanklockow wystawil cztery strony per seria (Star Wars, Ninjago, Friends, City), faniklockow jedna strone zbiorcza. Oba serwisy robia to teraz, szesc tygodni przed styczniowa fala. Nasza strona /zapowiedzi-lego-2027/ nie byla ruszana od 27.08 i w dwoch miejscach mowi nieprawde: 'Grupa LEGO nie potwierdzila jeszcze zadnego zestawu na 2027 rok' oraz 'Super Mario: jedyna potwierdzona zapowiedz'. Tymczasem sety.json ma cztery zestawy 2027-01 z polskimi cenami (71875, 67008, 71873, 67006), a przecieki.json ma dla nich rozstrzygniecia 'potwierdzony'/'zmieniony' z pierwszej dekady pazdziernika. Czyli dane wyprzedzily tekst o siedem tygodni - to nie luka wobec konkurencji, to rozjazd wewnatrz naszego serwisu. Drugi watek: fanklockow prowadzi cykl tygodniowy 'LEGO do szafy' (co z wycofywanych kupic pod odsprzedaz) - my mamy lepsze dane w /wycofania i zadnej formy, ktora je co tydzien wybiera."
+      "2026-10-19": "Noc z 18 na 19.10 to zbiorowy skok na rocznik 2027: fanklockow wystawil cztery strony per seria (Star Wars, Ninjago, Friends, City), faniklockow jedna strone zbiorcza. Oba serwisy robia to teraz, szesc tygodni przed styczniowa fala. Nasza strona /zapowiedzi-lego-2027/ nie byla ruszana od 27.08 i w dwoch miejscach mowi nieprawde: 'Grupa LEGO nie potwierdzila jeszcze zadnego zestawu na 2027 rok' oraz 'Super Mario: jedyna potwierdzona zapowiedz'. Tymczasem sety.json ma cztery zestawy 2027-01 z polskimi cenami (71875, 67008, 71873, 67006), a przecieki.json ma dla nich rozstrzygniecia 'potwierdzony'/'zmieniony' z pierwszej dekady pazdziernika. Czyli dane wyprzedzily tekst o siedem tygodni - to nie luka wobec konkurencji, to rozjazd wewnatrz naszego serwisu. Drugi watek: fanklockow prowadzi cykl tygodniowy 'LEGO do szafy' (co z wycofywanych kupic pod odsprzedaz) - my mamy lepsze dane w /wycofania i zadnej formy, ktora je co tydzien wybiera.",
+      "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja)."
     }
   },
   "publikacje": [
@@ -3639,6 +3640,30 @@
       "ocena": "LUKA",
       "sklepy_linkowane": [],
       "notatki": "Cykl tygodniowy: ktore z wycofywanych w tym roku zestawow warto kupic teraz z myslą o odsprzedazy. Wprost powolany na koncowke roku ('coraz wiecej osob mysli, co kupic do szafy'). Dane maja u siebie jako narzedzia 'Wycofania LEGO 07.26 / 12.26 / 07.27'. My mamy mocniejsza podstawe - /wycofania z numerami, datami i statusem potwierdzenia przez LEGO - ale nie mamy formy cyklicznej, ktora z tej listy wybiera kilka pozycji i mowi 'to kup teraz'. To decyzja o formacie, nie jednorazowy tekst: cykl tygodniowy oznacza staly naklad pracy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Coraz blizej swieta. Przedsmak Black Weeks w x-kom - zbiorcze okazje na klocki",
+      "url": "https://faniklockow.pl/2026/10/19/coraz-blizej-swieta-przedsmak-black-weeks-w-x-kom-zbiorcze-okazje-na-klocki/",
+      "data_publikacji": "2026-10-19",
+      "data_wykrycia": "2026-10-20",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "xkom"
+      ],
+      "notatki": "Opisali start Black Weeks w x-komie. My wydalismy TEGO SAMEGO DNIA wlasny tekst /artykuly/x-kom-black-weeks-2026-lego/ i jest mocniejszy: jedenascie zestawow z pierwszej listy, kod black-weeks1 wpisywany w koszyku, cztery pozycje w najnizszych cenach naszych notowan (11381 Jaguar E-Type 399 zl, 31220 Most Moneta 579 zl, 21064 Paryz 209 zl, 60510 kalendarz adwentowy City 69,99 zl), a przy pozostalych wprost napisane, ktore byly rano wyprzedane i przy ktorych karta pokazywala zwykla cene. Dane x-komu mamy swieze z 19.10 (726 zestawow z oferta). Nic do zrobienia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Klockast 2.0: Batman w Wenecji (6-19.10.2026)",
+      "url": "https://fanklockow.pl/klockast-2-0-batman-w-wenecji-6-19-10-2026/",
+      "data_publikacji": "2026-10-19",
+      "data_wykrycia": "2026-10-20",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Odcinek podcastu podsumowujacy dwa tygodnie premier (Batmobile 67008/67009 i wenecka fala 11388/40898). Format audio, ktorego nie prowadzimy i nie planujemy; tematy z odcinka mamy opisane tekstem - /artykuly/lego-11388-wenecka-okolica-premiera/ i /zapowiedzi-lego-2027/ po wczorajszej aktualizacji."
     }
   ],
   "obserwacje_strategiczne": {
