@@ -168,6 +168,7 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
 **Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 77253 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
 **Kto:** — Marek (decyzja)
+→ zamknięte 20.10.2026: Marek potwierdził (oferta Allegro widoczna przez Ceneo), wpis w `deale_potwierdzone.json`.
 
 
 ## 2026-10-20 05:45 · DANE WT · Do zrobienia
