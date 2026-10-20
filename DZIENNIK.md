@@ -155,6 +155,7 @@ podpisu komputera i idzie bez przeglądarki — test ręczny robi się z aplikac
 **Mamy?** — częściowo: kontrola miesięczna działa, ale losuje z całej mapy, więc o 1 048 wpisach z ryzykiem nadal nic nie wie.
 **Zrobić:** — w `scripts/kontrola-linkow.mjs --blokujace` losować Allegro spośród wpisów BEZ bieżącej oferty w `oferty_feed.json` (tam kryją się martwe), resztę sklepów jak dotąd; przy następnej liście 20.11.
 **Kto:** — Code (skrypt)
+→ zamknięte 20.10.2026: decyzja Marka — zrobione. `--blokujace` losuje Allegro wyłącznie spośród wpisów bez bieżącej oferty Allegro w feedzie (1 048 z 7 201), z powrotem na całość, gdy takich zabraknie; w nagłówku listy stoi, skąd losowano. Pierwsza taka lista: 20.11.
 
 
 ## 2026-10-20 · CODE · Karty P07 Piotra: partia 08 (25 kart, ostatnia paczka) wgrana

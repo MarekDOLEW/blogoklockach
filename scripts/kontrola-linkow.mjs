@@ -47,6 +47,7 @@ const ROWNOLEGLE = 12;
 const czytaj = (p) => JSON.parse(readFileSync(new URL(`../src/data/${p}`, import.meta.url)));
 const redirects = czytaj('redirects.json');
 const sety = czytaj('sety.json');
+const ofertyFeed = czytaj('oferty_feed.json').sety ?? {};
 
 const TRACKERY = /(tradedoubler\.com|webep1\.com|performers\.tech|adt\d+\.com|allegro\.pl\/affiliate)/i;
 
@@ -92,7 +93,23 @@ if (BLOKUJACE !== null) {
   }
   // Po równo z każdego sklepu, karuzelą — żeby jeden duży (x-kom: 788 linków)
   // nie zjadł całej listy, a sklep z kilkoma wpisami w ogóle się na niej znalazł.
-  const pule = new Map(sklepy.map((sk) => [sk, losuj(wszystkie.filter((w) => w.sklep === sk))]));
+  //
+  // Allegro losujemy WYŁĄCZNIE spośród wpisów bez bieżącej oferty Allegro w feedzie
+  // (decyzja Marka 20.10.2026). Mapę `redirects.allegro` Łowca nadpisuje codziennie
+  // z feedu dla zestawów w nim obecnych, więc te linki są świeże z konstrukcji;
+  // ryzyko siedzi w pozostałych — 20.10 było ich 1 048 z 7 201 — czyli w linkach,
+  // które zostały z dnia, w którym zestaw wypadł z feedu, i których nikt nie
+  // odświeża (mapa jest append-only). Pierwsza próba 20.10 trafiła w 4 świeże
+  // i o tych 1 048 nie powiedziała nic. Gdy takich wpisów zabraknie, spada na całość.
+  const bezOfertyAllegro = (w) => ofertyFeed[w.nr]?.oferty?.allegro == null;
+  const pula = (sk) => {
+    const calosc = wszystkie.filter((w) => w.sklep === sk);
+    if (sk !== 'allegro') return calosc;
+    const ryzykowne = calosc.filter(bezOfertyAllegro);
+    return ryzykowne.length ? ryzykowne : calosc;
+  };
+  const pule = new Map(sklepy.map((sk) => [sk, losuj(pula(sk))]));
+  const allegroBezOferty = wszystkie.filter((w) => w.sklep === 'allegro' && bezOfertyAllegro(w)).length;
   const lista = [];
   while (lista.length < BLOKUJACE && [...pule.values()].some((x) => x.length)) {
     for (const sk of sklepy) {
@@ -116,6 +133,12 @@ if (BLOKUJACE !== null) {
     '',
     `Próba **${lista.length}** adresów ze sklepów, których kontrola tygodniowa nie potrafi sprawdzić`,
     `z serwera (odrzucają ruch serwerowy: 403/429/503 albo timeout). Rozkład: ${perSklepLista}.`,
+    ...(sklepy.includes('allegro') ? [
+      '',
+      `Allegro losowane wyłącznie spośród wpisów **bez bieżącej oferty Allegro w feedzie** (${allegroBezOferty} z`,
+      `${wszystkie.filter((w) => w.sklep === 'allegro').length} w mapie) — linki obecne w feedzie Łowca nadpisuje codziennie, więc`,
+      'martwe kryją się w tych, które zostały po wypadnięciu zestawu z feedu (decyzja Marka 20.10.2026).',
+    ] : []),
     '',
     '**Jak to przejść:** otwórz każdy adres z kolumny „Karta produktu" w przeglądarce i wpisz',
     'w kolumnie „Wynik" jedno z: `żywy` (karta produktu się otwiera), `404` (karta nie istnieje),',
