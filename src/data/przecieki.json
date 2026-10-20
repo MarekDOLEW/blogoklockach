@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-16",
+  "zaktualizowano": "2026-10-20",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -185,11 +185,16 @@
      "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Bez numerów; sama informacja o fali rocznicowej.",
-   "opis": "Na razie bez numerów: wiadomo tylko, że na 50-lecie Gwiezdnych wojen (pierwszy film wszedł do kin w 1977 roku) LEGO ma przygotować osobną falę zestawów.",
+   "uwagi": "Bez numerów; sama informacja o fali rocznicowej. UZUPELNIENIE 20.10.2026: przeglad StoneWars z 19.10 opisuje mechanike fali — figurki z concept artu McQuarriego i plytki z plakatami epizodow dokladane do zestawow wystawowych — i przypisuje je konkretnym numerom ze stycznia 2027 (Han Solo przy 75470, Luke przy 75478, C-3PO przy 75477, R2-D2 przy 75494, plakaty przy 75465, 75467 i 75475). Pole premiera_wg_zrodla ZOSTAJE 2027-04, zeby nie przepisywac pierwotnej prognozy; to, ze fala startuje juz w styczniu, jest nowa informacja i stoi w opisie. Pewnosc nadal „niska”: zrodlem sa kanaly spolecznosciowe, drugiego serwisu branzowego nie ma.",
+   "opis": "Rocznicowa fala na 50-lecie Gwiezdnych wojen ma być rozłożona na cały 2027 rok, a nie zamknięta w jednym zestawie. Przecieki opisują dwa dodatki dokładane do zestawów: minifigurki wzorowane na szkicach koncepcyjnych Ralpha McQuarriego i duże nadrukowane płytki z plakatami kolejnych epizodów. Pierwsze zestawy z tymi dodatkami mają wejść 1 stycznia 2027. Wszystko pochodzi z kanałów społecznościowych relacjonowanych przez StoneWars, bez potwierdzenia producenta.",
    "rozstrzygniecie": null
   },
   {
@@ -754,6 +759,132 @@
    "dodano": "2026-10-10",
    "uwagi": "Format, nie konkretny zestaw: budowane figurki Pokémon sprzedawane w blind boxach, na wzór serii minifigurek albo Technic Mighty Machines, od marca 2027. PromoBricks podaje 12,99 dolara za pudełko i zakłada, że w Europie będzie to 1:1 w euro — stąd orientacyjne 60 zł (12,99 × 4,22 ≈ 55 zł, zaokrąglone w górę do 60 przy założeniu ceny w euro). StoneWars w swoim tekście dodaje Relaxo i Glumandę jako osobne zestawy 18+. ŻADEN NUMER NIE JEST ZNANY, dlatego wpis ma slug zamiast numeru. Pewność „niska”, choć piszą o tym dwa serwisy: oba wyraźnie oznaczają to jako plotkę, a PromoBricks jako źródło podaje własny news feed, czyli doniesienia społecznościowe. Dwa serwisy relacjonujące tę samą plotkę to nie dwa niezależne potwierdzenia. Co jest warte uwagi: 12,99 dolara to kwota zupełnie nieporównywalna z dotychczasowymi blind boxami (minifigurki 3,99 euro, Mighty Machines 4,99 euro, budowane figurki Super Mario 3,99 euro za średnio 25 elementów), więc albo pudełka będą znacznie większe, albo cena z plotki jest zawyżona.",
    "opis": "Nie konkretny zestaw, tylko nowy format: budowane figurki Pokémon w zakrytych pudełkach, na wzór serii minifigurek, od marca 2027. PromoBricks podaje 12,99 dolara za pudełko; jeśli w Europie będzie to 12,99 euro, wyjdzie ok. 55–60 zł. Numerów nie ma, a StoneWars wspomina dodatkowo o osobnych zestawach 18+ ze Snorlaxem i Charmanderem. Piszą o tym dwa serwisy, ale oba powołują się na doniesienia społeczności i same nazywają to plotką, stąd niska pewność. Cena wyraźnie odstaje od dotychczasowych zakrytych pudełek (minifigurki i figurki Super Mario po 3,99 euro) – albo pudełka będą dużo większe, albo kwota z plotki jest zawyżona.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75495",
+   "numer": "75495",
+   "nazwa": "Hełm szturmowca z concept artu",
+   "seria": "Star Wars",
+   "elementy": 832,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Liczba elementów (832) z kanału buggyleaks, relacjonowana przez StoneWars 19.10.2026. Ceny nie podano; hełmy z tej serii chodzą zwykle po 69,99 euro, ale tego nie wpisuję jako danej z przecieku. Brickset numeru nie ma (zrzut rocznika 2027 z 02.10.2026). Nazwa w źródle w nawiasie ze znakiem pytania.",
+   "opis": "Kolejna pozycja z kolekcji hełmów, tym razem szturmowiec w wersji ze szkiców koncepcyjnych Ralpha McQuarriego. Przecieki mówią o 832 elementach, co dałoby trzeci największy hełm w serii, i o premierze 1 stycznia 2027. Ceny nikt nie podaje. Informacja pochodzi z kanałów społecznościowych, relacjonowanych przez StoneWars, więc do pewności brakuje i drugiego serwisu, i śladu po stronie producenta.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75482",
+   "numer": "75482",
+   "nazwa": "Duża minifigurka Luke’a Skywalkera",
+   "seria": "Star Wars",
+   "elementy": 981,
+   "cena_wg_zrodla": 420,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "981 elementów, 99,99 euro, 10+, start 1.01.2027, dodatkowo figurka „Concept Art Luke (weiblich)”. Przelicznik euro na zlote zgrubny (okolo 4,25), zaokraglony do 10 zl — to nie cena katalogowa.",
+   "opis": "Kontynuacja linii powiększonych minifigurek — tym razem Luke Skywalker w stroju pilota, według przecieków z 981 elementów i w cenie 99,99 euro, czyli orientacyjnie około 420 zł. Zapowiadany termin to 1 stycznia 2027, a w zestawie ma być figurka rocznicowa na 50-lecie Gwiezdnych wojen. Źródłem są kanały społecznościowe relacjonowane przez jeden serwis branżowy, więc liczby mogą się jeszcze zmienić.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75478",
+   "numer": "75478",
+   "nazwa": "Y-Wing Rebelii",
+   "seria": "Star Wars",
+   "elementy": 676,
+   "cena_wg_zrodla": 340,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "676 elementów, 4 minifigurki, 79,99 euro, 8+, start 1.01.2027, figurka rocznicowa „Concept Art Luke Skywalker”. Przelicznik zgrubny (okolo 4,25), zaokraglony do 10 zl.",
+   "opis": "Nowa wersja rebelianckiego Y-Winga: według przecieków 676 elementów, cztery minifigurki i cena 79,99 euro, czyli orientacyjnie około 340 zł, z premierą 1 stycznia 2027. Do zestawu ma trafić rocznicowa figurka Luke’a ze szkiców koncepcyjnych. Dane pochodzą z kanałów społecznościowych, które relacjonuje StoneWars — producent nie potwierdził niczego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75470",
+   "numer": "75470",
+   "nazwa": "Duel na Mustafarze",
+   "seria": "Star Wars",
+   "elementy": 372,
+   "cena_wg_zrodla": 170,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "372 elementy, 3 minifigurki, 39,99 euro, 9+, start 1.01.2027, figurka rocznicowa „Concept Art Han Solo”. StoneWars dodaje 19.10, ze 75470 i 75480 maja byc hybryda diorama-zestaw do zabawy. Przelicznik zgrubny.",
+   "opis": "Scena pojedynku Obi-Wana z Anakinem na Mustafarze — pierwszy od dawna zestaw do trzeciej części prequeli. Przecieki podają 372 elementy, trzy minifigurki i cenę 39,99 euro, czyli orientacyjnie około 170 zł, z premierą 1 stycznia 2027; formuła ma łączyć dioramę z zestawem do zabawy. Informacja opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75464",
+   "numer": "75464",
+   "nazwa": "Myśliwiec Jedi Anakina",
+   "seria": "Star Wars",
+   "elementy": 160,
+   "cena_wg_zrodla": 110,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "160 elementów, 2 minifigurki, 24,99 euro, 5+, start 1.01.2027. Przelicznik zgrubny.",
+   "opis": "Mały myśliwiec Jedi Anakina z czasów między drugim a trzecim epizodem: według przecieków 160 elementów, dwie minifigurki i cena 24,99 euro, czyli orientacyjnie około 110 zł, premiera 1 stycznia 2027. Oznaczenie 5+ wskazuje na zestaw do zabawy, nie na model wystawowy. Dane pochodzą z kanałów społecznościowych i nie mają jeszcze potwierdzenia ani w drugim serwisie, ani w katalogu.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75463",
+   "numer": "75463",
+   "nazwa": "X-Wing Luke’a — microfighter",
+   "seria": "Star Wars",
+   "elementy": 120,
+   "cena_wg_zrodla": 60,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "120 elementów, 1 minifigurka, 6+, start 1.01.2027. UWAGA na cene: w tekscie StoneWars stoi „gleichbleibende UVP von 14,99 US-Dollar”, a w tabelce „voraussichtlich 14,99 Euro” — sprzecznosc wewnatrz jednego zrodla. Wpisane 60 zl jako srodek (14,99 USD to ~55 zl, 14,99 EUR to ~64 zl); przy rozstrzyganiu traktowac os ceny ostroznie.",
+   "opis": "Nowy microfighter, tym razem X-Wing Luke’a Skywalkera: według przecieków 120 elementów, jedna minifigurka i premiera 1 stycznia 2027. Cena w źródle jest niespójna — raz pojawia się 14,99 dolara, raz 14,99 euro — więc podana kwota w złotych jest tylko orientacją. Przeciek opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis branżowy.",
    "rozstrzygniecie": null
   }
  ]
