@@ -199,23 +199,28 @@
   },
   {
    "id": "ucs-sokol-2027",
-   "numer": null,
+   "numer": "75487",
    "nazwa": "Nowy UCS Sokół Millennium",
    "seria": "Star Wars",
    "elementy": null,
    "cena_wg_zrodla": null,
-   "premiera_wg_zrodla": "2027",
+   "premiera_wg_zrodla": "2027-10",
    "pewnosc": "niska",
    "zrodla": [
     {
      "nazwa": "przecieki społecznościowe — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Następca 75192 (wycofanie grudzień 2026).",
-   "opis": "Następca UCS Sokoła Millennium 75192, który ma zniknąć z oferty w grudniu 2026. Numeru, ceny ani liczby elementów nowej wersji jeszcze nie ma; plotki relacjonowane przez StoneWars mówią o październiku 2027.",
+   "uwagi": "Następca 75192 (wycofanie grudzień 2026). UZUPELNIENIE 20.10.2026: tabela zbiorcza StoneWars (19.10) przypisuje temu przeciekowi numer 75487 i termin 2027-10. Dopisane do istniejacego wpisu zamiast zakladania drugiego — to ten sam przeciek, wczesniej bez numeru. Pewnosc zostaje „niska”: elementow i ceny brak, zrodlo spolecznosciowe.",
+   "opis": "Następca UCS Sokoła Millennium 75192, który ma zniknąć z oferty w grudniu 2026. Przecieki przypisały mu już numer 75487 i termin — październik 2027 — ale liczby elementów ani ceny nadal nikt nie podaje. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez StoneWars, bez śladu po stronie producenta.",
    "rozstrzygniecie": null
   },
   {
@@ -885,6 +890,510 @@
    "dodano": "2026-10-20",
    "uwagi": "120 elementów, 1 minifigurka, 6+, start 1.01.2027. UWAGA na cene: w tekscie StoneWars stoi „gleichbleibende UVP von 14,99 US-Dollar”, a w tabelce „voraussichtlich 14,99 Euro” — sprzecznosc wewnatrz jednego zrodla. Wpisane 60 zl jako srodek (14,99 USD to ~55 zl, 14,99 EUR to ~64 zl); przy rozstrzyganiu traktowac os ceny ostroznie.",
    "opis": "Nowy microfighter, tym razem X-Wing Luke’a Skywalkera: według przecieków 120 elementów, jedna minifigurka i premiera 1 stycznia 2027. Cena w źródle jest niespójna — raz pojawia się 14,99 dolara, raz 14,99 euro — więc podana kwota w złotych jest tylko orientacją. Przeciek opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis branżowy.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75466",
+   "numer": "75466",
+   "nazwa": "Darth Vader — obraz ścienny 2 w 1",
+   "seria": "Star Wars",
+   "elementy": 628,
+   "cena_wg_zrodla": 300,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "628 elementow, 69,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Obraz ścienny z Darthem Vaderem w formule dwa w jednym, czyli z dwoma możliwymi układami tego samego zestawu. Przecieki podają 628 elementów, cenę 69,99 euro (orientacyjnie około 300 zł) i premierę 1 stycznia 2027. Dane pochodzą z kanałów społecznościowych relacjonowanych przez jeden serwis branżowy, bez potwierdzenia producenta.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75480",
+   "numer": "75480",
+   "nazwa": "Duel na Bespinie",
+   "seria": "Star Wars",
+   "elementy": 718,
+   "cena_wg_zrodla": 340,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "718 elementow, 79,99 euro, start 1.01.2027. StoneWars 19.10: hybryda diorama-zestaw do zabawy, plytka „I am your father”; pytanie o laczenie z 75494 otwarte. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Pojedynek Luke’a z Vaderem w Mieście w Chmurach: według przecieków 718 elementów, cena 79,99 euro (orientacyjnie około 340 zł) i premiera 1 stycznia 2027. Formuła ma łączyć dioramę z zestawem do zabawy, a w komplecie ma być płytka z napisem „I am your father”. Nie wiadomo, czy model połączy się z zapowiadanym Miastem w Chmurach (75494); źródłem są kanały społecznościowe.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75476",
+   "numer": "75476",
+   "nazwa": "Zestaw bitewny z Endoru",
+   "seria": "Star Wars",
+   "elementy": 168,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "168 elementow, 29,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Kolejny zestaw bitewny, tym razem z Endoru: przecieki mówią o 168 elementach, cenie 29,99 euro (orientacyjnie około 130 zł) i premierze 1 stycznia 2027. Zestawy bitewne to zwykle cztery minifigurki i drobna konstrukcja, ale składu tego kompletu nikt jeszcze nie podał. Informacja opiera się na kanałach społecznościowych relacjonowanych przez StoneWars.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30749",
+   "numer": "30749",
+   "nazwa": "Statek Boby Fetta — saszetka (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": 20,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Cena 3,99 euro i wiek 6+; liczby elementow brak. Nazwa w zrodle ze znakiem pytania. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Saszetka ze zminiaturyzowanym statkiem Boby Fetta, zapowiadana na 1 stycznia 2027 w cenie 3,99 euro, czyli orientacyjnie około 20 zł. Liczby elementów nikt nie podaje, a nazwę źródło stawia ze znakiem zapytania. Saszetki z tego zakresu numerów bywają w Polsce wydawane jako dodatek do prasy albo do zakupów, więc osobnej ceny katalogowej mogą nie mieć.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30750",
+   "numer": "30750",
+   "nazwa": "Imperialny niszczyciel — saszetka (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Poza numerem i miesiacem brak danych. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Druga saszetka z zapowiadanej fali, tym razem z imperialnym niszczycielem, planowana na kwiecień 2027. Poza numerem i miesiącem nie ma żadnych danych — ani liczby elementów, ani ceny. Nazwę źródło podaje jako własny domysł.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75462",
+   "numer": "75462",
+   "nazwa": "Zestaw Star Wars bez nazwy — 172 elementy",
+   "seria": "Star Wars",
+   "elementy": 172,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "172 elementy, 19,99 euro; nazwa nieznana (w tabeli „???”). Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Mały zestaw z fali kwietniowej 2027: przecieki podają 172 elementy i cenę 19,99 euro, czyli orientacyjnie około 80 zł. Nazwy ani tematu nikt nie zna — w zestawieniu figuruje sam numer z liczbami. Źródłem są kanały społecznościowe relacjonowane przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75467",
+   "numer": "75467",
+   "nazwa": "Plakat Star Wars (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Dodatek rocznicowy: plytka z plakatem Epizodu IV. Elementow i ceny brak. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw z serii rocznikowej na 50-lecie, w którym ma się znaleźć nadrukowana płytka z plakatem czwartego epizodu. Poza numerem, miesiącem i tym jednym szczegółem nie ma danych — ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75468",
+   "numer": "75468",
+   "nazwa": "Hołd dla George’a Lucasa (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": 523,
+   "cena_wg_zrodla": 340,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "523 elementy, 79,99 euro. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw opisywany jako hołd dla George’a Lucasa: według przecieków 523 elementy i cena 79,99 euro, czyli orientacyjnie około 340 zł, z premierą w kwietniu 2027. Co dokładnie przedstawia model, nie wiadomo. Nazwę źródło podaje ze znakiem zapytania, a opiera się na kanałach społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75469",
+   "numer": "75469",
+   "nazwa": "Kino Star Wars (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": 1628,
+   "cena_wg_zrodla": 850,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "1628 elementow, 9 minifigurek, 199,99 euro, 18+; dodatki rocznicowe: plakaty Epizodu I i IV. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Największa pozycja zapowiadanej fali kwietniowej: 1628 elementów, dziewięć minifigurek i cena 199,99 euro, czyli orientacyjnie około 850 zł, z oznaczeniem 18+. Model ma przedstawiać kino, a w komplecie mają być płytki z plakatami pierwszego i czwartego epizodu. Wszystko pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis, więc liczby mogą się jeszcze zmienić.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75471",
+   "numer": "75471",
+   "nazwa": "Zestaw Star Wars bez nazwy — 717 elementów",
+   "seria": "Star Wars",
+   "elementy": 717,
+   "cena_wg_zrodla": 300,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "717 elementow, 69,99 euro; nazwa nieznana. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Jeden z trzech zestawów z fali kwietniowej, o których wiadomo tylko tyle, ile mówią liczby: 717 elementów i cena 69,99 euro, czyli orientacyjnie około 300 zł. Ani nazwy, ani tematu nikt nie podaje. Źródłem są kanały społecznościowe relacjonowane przez StoneWars.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75472",
+   "numer": "75472",
+   "nazwa": "Zestaw Star Wars bez nazwy — 775 elementów",
+   "seria": "Star Wars",
+   "elementy": 775,
+   "cena_wg_zrodla": 420,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "775 elementow, 99,99 euro, 9+; nazwa nieznana. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Kolejna pozycja z fali kwietniowej bez nazwy: 775 elementów, cena 99,99 euro (orientacyjnie około 420 zł) i oznaczenie 9+. Temat zestawu pozostaje nieznany. Informacja opiera się na kanałach społecznościowych, bez potwierdzenia producenta.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75473",
+   "numer": "75473",
+   "nazwa": "Zestaw Star Wars bez nazwy — 1426 elementów",
+   "seria": "Star Wars",
+   "elementy": 1426,
+   "cena_wg_zrodla": 680,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "1426 elementow, 159,99 euro; nazwa nieznana. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Najdroższy z bezimiennych zestawów z fali kwietniowej: 1426 elementów i cena 159,99 euro, czyli orientacyjnie około 680 zł. Przy tej wielkości i cenie to pozycja raczej dla dorosłego zbieracza, ale oznaczenia wieku ani tematu nikt nie podał. Źródłem są kanały społecznościowe.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75477",
+   "numer": "75477",
+   "nazwa": "Ikony Star Wars (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": 445,
+   "cena_wg_zrodla": 230,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "445 elementow, 4 minifigurki, 54,99 euro, 10+; dodatek rocznicowy: Concept Art C-3PO. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw opisywany jako winieta z minifigurkami: 445 elementów, cztery minifigurki i cena 54,99 euro, czyli orientacyjnie około 230 zł, premiera w kwietniu 2027. W komplecie ma być rocznicowa figurka C-3PO ze szkiców koncepcyjnych. Nazwę źródło podaje ze znakiem zapytania.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75488",
+   "numer": "75488",
+   "nazwa": "SMART Play: atak Ewoków (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Brak elementow i ceny. Linia SMART Play. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Pozycja z linii SMART Play, czyli zestawów z elektroniką, zapowiadana na kwiecień 2027. Poza numerem i tematem sugerowanym przez nazwę roboczą nie ma danych — brakuje liczby elementów i ceny. Informacja pochodzi z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75489",
+   "numer": "75489",
+   "nazwa": "SMART Play: statek Boby Fetta (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Brak elementow i ceny. Linia SMART Play. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Druga pozycja z linii SMART Play w fali kwietniowej 2027, według nazwy roboczej ze statkiem Boby Fetta. Liczby elementów ani ceny nikt nie podaje. Przeciek opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75490",
+   "numer": "75490",
+   "nazwa": "SMART Play: AT-AT (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": 903,
+   "cena_wg_zrodla": 470,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "903 elementy, 109,99 euro. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Największy z zapowiadanych zestawów SMART Play: 903 elementy i cena 109,99 euro, czyli orientacyjnie około 470 zł, z premierą w kwietniu 2027. Model ma przedstawiać AT-AT, ale nazwę źródło podaje ze znakiem zapytania. Dane pochodzą z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75491",
+   "numer": "75491",
+   "nazwa": "SMART Play: R2-D2 (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": 527,
+   "cena_wg_zrodla": 340,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "527 elementow, 79,99 euro, 8+. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw SMART Play z R2-D2: według przecieków 527 elementów, cena 79,99 euro (orientacyjnie około 340 zł) i oznaczenie 8+, premiera w kwietniu 2027. Co dokładnie robi elektronika w tym modelu, nie wiadomo. Źródłem są kanały społecznościowe relacjonowane przez StoneWars.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75492",
+   "numer": "75492",
+   "nazwa": "SMART Play: bitwa o Hoth (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Brak elementow i ceny. Linia SMART Play. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Czwarta pozycja SMART Play z fali kwietniowej, według nazwy roboczej poświęcona bitwie o Hoth. Poza numerem i miesiącem nie ma żadnych danych. Informacja opiera się na kanałach społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75494",
+   "numer": "75494",
+   "nazwa": "Miasto w Chmurach (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "6 minifigurek, dodatek rocznicowy Concept Art R2-D2; elementow i ceny brak. Pytanie o laczenie z 75480. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw z Miasta w Chmurach zapowiadany na kwiecień 2027: ma mieć sześć minifigurek i rocznicową figurkę R2-D2 ze szkiców koncepcyjnych, ale liczby elementów ani ceny nikt nie podaje. Otwarte zostaje pytanie, czy połączy się ze styczniowym pojedynkiem na Bespinie (75480). Źródłem są kanały społecznościowe.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75475",
+   "numer": "75475",
+   "nazwa": "UCS TIE Advanced (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-05",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "18+, dodatek rocznicowy: plakat Epizodu II. Elementow i ceny brak. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zapowiadana pozycja z linii UCS: TIE Advanced, czyli myśliwiec Vadera, z oznaczeniem 18+ i premierą w maju 2027. W komplecie ma być płytka z plakatem drugiego epizodu. Liczby elementów ani ceny nikt nie podaje, a nazwę źródło stawia ze znakiem zapytania.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75465",
+   "numer": "75465",
+   "nazwa": "Druga Gwiazda Śmierci (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": 260,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Cena podana w DOLARACH ($69.99), nie w euro — przelicznik 3,70. Termin w zrodle to „2027, Q2”, zapisany jako 2027-04 (poczatek kwartalu). 18+, plakat Epizodu III. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zestaw z drugą Gwiazdą Śmierci, zapowiadany na drugi kwartał 2027 z oznaczeniem 18+ i ceną 69,99 dolara, czyli orientacyjnie około 260 zł. Cena podana w dolarach, a nie w euro, więc przeliczenie jest tylko wskazówką. W komplecie ma być płytka z plakatem trzeciego epizodu.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75474",
+   "numer": "75474",
+   "nazwa": "Mistrz Yoda (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": 550,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "Cena w DOLARACH ($149.99) — przelicznik 3,70. Termin „2027, Q2” zapisany jako 2027-04. 2 minifigurki, 10+, dodatek Concept Art Chewbacca. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Duży model Yody zapowiadany na drugi kwartał 2027: dwie minifigurki, oznaczenie 10+ i cena 149,99 dolara, czyli orientacyjnie około 550 zł. Liczby elementów nikt nie podaje, a cena jest w dolarach, więc kwota w złotych to tylko wskazówka. W komplecie ma być rocznicowa figurka Chewbaccy ze szkiców koncepcyjnych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "75481",
+   "numer": "75481",
+   "nazwa": "Iron Falcon — Star Wars x Marvel (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "5 minifigurek mash-up (Iron-3PO, War2-D2, Spider-Han, Captain Alderaan, Hulkbacca); elementow, ceny i miesiaca brak. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Zapowiadany crossover Star Wars z Marvelem: Sokół Millennium w wersji „Iron Falcon” z pięcioma minifigurkami łączącymi obie licencje, wymienianymi w przeciekach jako Iron-3PO, War2-D2, Spider-Han, Captain Alderaan i Hulkbacca. Poza liczbą figurek i rokiem nie ma danych — ani elementów, ani ceny, ani miesiąca. Pomysł brzmi skrajnie, a opiera się wyłącznie na kanałach społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "captain-rex-budowany",
+   "numer": null,
+   "nazwa": "Budowany Captain Rex (nazwa niepotwierdzona)",
+   "seria": "Star Wars",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
+     "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
+     "data": "2026-10-19"
+    }
+   ],
+   "dodano": "2026-10-20",
+   "uwagi": "W tabeli StoneWars numer zastepczy 99999999 — prawdziwego numeru nie ma, dlatego wpis ma slug. Brak terminu, elementow i ceny. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "opis": "Kolejna duża budowana figurka, tym razem Captain Rex — pozycja wymieniana w przeciekach bez numeru, terminu, liczby elementów i ceny. W zestawieniu źródła stoi pod numerem zastępczym, co samo w sobie mówi, jak wczesny jest to etap. Informacja pochodzi z kanałów społecznościowych.",
    "rozstrzygniecie": null
   }
  ]
