@@ -133,6 +133,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-20 · CODE · Karty P07 Piotra: partie 09–13 (125 kart) wgrane
+
+karty_setow 1274 → 1399, 0 blokad (RRP zgodne), wszystkie 125 hubów indeksowalnych po buildzie
+(66 kart jednoakapitowych łapie reguła długości opisu z 18.10). Elementy: 14 różnic 1–16 szt. — zostaje
+liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 71046, 5009550).
+**Stan:** na main.
+
 ## 2026-10-20 09:10 · CODE · Trzy teksty Piotra: upominki LEGO.pl, 11390 Dragon Ball, Star Wars styczeń 2027
 
 **Zrobione:** teksty bez zmian, dopisane frontmattery, FAQ, linki serii w miejsce znaczników.
