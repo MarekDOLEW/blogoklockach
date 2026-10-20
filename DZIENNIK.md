@@ -146,6 +146,15 @@ zmieniło. Żeby kolejne uruchomienia działały, otwórz to zadanie w aplikacji
 Nowe Zrobić: w Claude Desktop na Macu otworzyć zadanie „Kontrola linków w przeglądarce" i włączyć „Require this
 computer"; potem test ręczny (Kontroler może odpalić `fire_trigger` na prośbę — lista z 20.10 jest świeża), żeby nie
 czekać do 20.11. Kto: Marek (komputer).
+→ zamknięte 20.10.2026: Marek włączył „Require this computer" (12:43) i uruchomił zadanie z Maca — **żywe 19,
+404 0, przekierowania 0, inne 1 z 20** (Allegro 10416: „Sprzedaż zakończona", oferta z dzisiejszego feedu).
+Wynik: `materialy/kontrola-przegladarkowa/wyniki-2026-10-20.md`. Uruchomienie z chmury (`fire_trigger`) nie niesie
+podpisu komputera i idzie bez przeglądarki — test ręczny robi się z aplikacji na Macu. Następny przebieg 20.11 11:45.
+
+**`redirects.allegro` ma 1 048 z 7 201 wpisów bez oferty Allegro w dzisiejszym feedzie — ich linki nikt nie odświeża od dnia, w którym zestaw wypadł z feedu; dzisiejsza próba 4 linków Allegro trafiła wyłącznie w zestawy z bieżącą ofertą.**
+**Mamy?** — częściowo: kontrola miesięczna działa, ale losuje z całej mapy, więc o 1 048 wpisach z ryzykiem nadal nic nie wie.
+**Zrobić:** — w `scripts/kontrola-linkow.mjs --blokujace` losować Allegro spośród wpisów BEZ bieżącej oferty w `oferty_feed.json` (tam kryją się martwe), resztę sklepów jak dotąd; przy następnej liście 20.11.
+**Kto:** — Code (skrypt)
 
 
 ## 2026-10-20 · CODE · Karty P07 Piotra: partia 08 (25 kart, ostatnia paczka) wgrana
