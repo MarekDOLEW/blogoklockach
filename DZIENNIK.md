@@ -133,6 +133,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-20 05:45 · DANE WT · Do zrobienia
+
+**Feed MediaMarkt (Tradedoubler) zawiera 2 pozycje, które skrypt pominął jako spoza katalogu albo niezgodne z nazwą: 76265 „Klocki LEGO Marvel Figurka Kapitana Ameryki do zbudowania" i 52447 „Klocki LEGO Classic Kwadratowy Notatnik czarny z długopisem".**
+**Mamy?** — częściowo: numery i nazwy z feedu, nie ma ich w `katalog.json`
+**Zrobić:** — sprawdzić oba numery (czy to realne numery LEGO) i dopisać do `potwierdzone_numery` w `src/data/feedy.json`, jeśli poprawne
+**Kto:** — Code
+
+**Zestaw 71835 ma ofertę Lidl (59,99 zł, zrzut 19.10) w `oferty_feed.json`, ale nie ma wpisu w `katalog.json` i nie ma zdjęcia (Rebrickable/Brickset nie mają go pod tym numerem).**
+**Mamy?** — nie: brak huba i brak zdjęcia, strona zestawu nie istnieje
+**Zrobić:** — sprawdzić numer 71835 (czy to LEGO i jaka seria) i dopisać do katalogu albo do `katalog-z-rebrickable.mjs` przy następnym przebiegu
+**Kto:** — Code
+
+**18 zestawów ma flagę `ekskluzyw: true` w `sety.json`, ale tegotygodniowy listing lego.pl nie pokazał etykiety „Ekskluzywne" przy nich (2 nowe od zeszłego tygodnia: 72156, 40924; pozostałe 16 — w tym 77264 i 10367 z zeszłego tygodnia — nadal niesprawdzone).**
+**Mamy?** — tak: adresy kart produktu w `redirects.lego`
+**Zrobić:** — sprawdzić wszystkie 18 numerów (21373 31221 76355 76476 11386 40858 40872 43026 40919 40859 21369 11385 40975 40880 77264 10367 72156 40924) na kartach produktu lego.pl i zdjąć flagę `ekskluzyw` w `sety.json` tam, gdzie etykiety już nie ma (jak 29.09 dla 76354/80121/80120)
+**Kto:** — Code
+
 ## 2026-10-20 05:25 · SCOUT · Do zrobienia
 
 **LEGO otworzyło w swoim sklepie strony akcji i podało terminy: Insiders Weekend 21–22 listopada 2026, Black Friday od 27 listopada, Cyber Monday 30 listopada (PromoBricks, 19.10).**
