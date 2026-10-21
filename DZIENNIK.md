@@ -139,6 +139,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
 **Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 21268 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
 **Kto:** — Marek (decyzja)
+→ zamknięte 21.10: Marek potwierdził, 21268 (40 zł, Ceneo) w `deale_potwierdzone.json` — oferta wraca do tabel cen
 
 
 ## 2026-10-21 · CODE · Okno 20–27.10 w kalendarzu i progi w hubach

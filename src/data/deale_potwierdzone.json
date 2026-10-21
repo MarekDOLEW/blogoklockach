@@ -2,7 +2,7 @@
  "_meta": {
   "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia. Sekcja 'odrzucone' (od 17.09.2026): werdykty „fałsz\" po sprawdzeniu — oferta zostaje ukryta jak każda niepotwierdzona, a podejrzany-rynek-mail.mjs przestaje o nią pytać; niższa cena niż oceniona wraca do maila.",
   "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
-  "zaktualizowano": "2026-10-16"
+  "zaktualizowano": "2026-10-21"
  },
  "potwierdzone": {
   "60339": {
@@ -39,6 +39,13 @@
    "data": "2026-10-20",
    "kto": "Marek",
    "uwagi": "Bugatti Vision GT — oferta Allegro (business.allegro.pl, nr 19019403135) widoczna przez Ceneo, 57,32 zł przy RRP 114,99; poza afiliacyjnym feedem Allegro"
+  },
+  "21268": {
+   "cena": 40,
+   "sklep": "ceneo",
+   "data": "2026-10-21",
+   "kto": "Marek",
+   "uwagi": "Dom prosiaczka — Ceneo 40 zł przy RRP 81,99; potwierdzone przez Marka w czacie Łowcy 21.10"
   }
  },
  "odrzucone": {
