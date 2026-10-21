@@ -133,12 +133,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-21 · CODE · Okno 20–27.10 w kalendarzu i progi w hubach
+
+- `/kalendarz-promocji-lego/` — nowa sekcja `#pazdziernik-kumulacja` z tabelą trzech progów
+  (30717 od 165 zł, 40916 od 625 zł, 40765 od 670 zł w Star Wars, 20–27.10), wpis na szczycie
+  listy „co trwa teraz", wiersz w tabeli rytmu okien i `zaktualizowano: 2026-10-21`.
+  Okno 13–19.10 przestawione z „trwa" na „zamknięte" w obu miejscach.
+- **Policzone, nie przepisane:** przy progu 670 zł w Star Wars sprawdziłem 69 zestawów tej serii
+  z bieżącego listingu lego.com, które mają u nas cenę katalogową i ofertę zewnętrzną (po sicie
+  domu: bez Ceneo, bez ofert poniżej połowy katalogu). **67 z 69 jest tańszych poza LEGO.com,
+  mediana różnicy 30%** — czyli koszyk za 670 zł to około 200 zł dopłaty, a upominek wyceniony
+  na 129,99 zł tego nie pokrywa. Sześć zestawów, przy których LEGO.com nie przepłaca (75457, 75461,
+  75367, 75459, 75458, 75415), wymienione w tekście jako jedyny sensowny sposób zagrania tego okna.
+- `sety.json` 1205 → 1207: dołożone 30717 i 40765, których nie było wcale (huby stały jako lekkie,
+  z katalogu). 40765 dostał cenę katalogową 129,99 zł — jest na karcie produktu lego.pl, więc
+  reguła „gratis bez polskiej wyceny ma kreskę" go nie dotyczy. 30717 kreskę zostaje: LEGO nie
+  podaje jego wartości w złotych. 40916 — dopisany polski próg do istniejącego opisu.
+- Build 10061 stron; progi widoczne na hubach 30717, 40916 i 40765.
+- Zamyka pozycję Radaru z 21.10 i pytanie Scouta o progi (jego wpis ma linię ↻ z liczbami).
+
 ## 2026-10-21 08:15 · RADAR · Do zrobienia
 
 **faniklockow.pl · 20.10** — Opisali nową kumulację na lego.pl: trzy gratisy naraz, 20–27.10 — od 165 zł polybag 30717, od 625 zł 40916 Kwiatowa ramka na zdjęcia, od 670 zł w Star Wars 40765 Ośrodek szkoleniowy na Kamino. Progi i daty sprawdziłem u źródła na `lego.com/pl-pl/page/lego-offers-promotions` — zgadzają się co do złotówki i co do dnia.
 **Mamy?** — nie: `/kalendarz-promocji-lego/` (zaktualizowano 16.10) nie ma tego okna wcale, a w liście „co trwa teraz" trzyma okno 13–19.10 ze statusem „trwa" dwa dni po jego zamknięciu.
 **Zrobić:** — dopisać do `/kalendarz-promocji-lego/` sekcję okna 20–27.10 z trzema progami i zamknąć status okna 13–19.10; przy okazji wpisać progi do hubów 30717, 40916 i 40765 (zamyka dzisiejszą pozycję Scouta).
 **Kto:** — Code (dane, strona)
+→ zamknięte 21.10.2026: zrobione tego samego dnia. Szczegóły w następnym wpisie.
 
 Uwaga do protokołu, bo to drugi raz: lista „co trwa teraz" pokazała zamknięte okno jako trwające —
 pierwszy raz zanotowane 08.10 (wrześniowe gratisy wisiały dziewięć dni po czasie). Pojedyncza poprawka

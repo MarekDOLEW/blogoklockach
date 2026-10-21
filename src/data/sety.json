@@ -45968,5 +45968,26 @@
   "dla_afol": "LEGO wycenia ten dodatek na 29,99 euro — jak na gratis dużo, choć własnej ceny katalogowej nie ma i nigdy nie będzie miał. Przypisanie do jednego, drogiego zestawu i okno zaledwie ośmiu dni zwykle oznaczają niski nakład i szybki wzrost ceny na rynku wtórnym. Dla ekspozycji ma to znaczenie, które producent sam potwierdza w opisie: taxi można dołożyć do 11388 jako rozszerzenie, a nie tylko postawić obok — pomost ma wysokość nabrzeża dużego zestawu i powtarza jego wzór. Kto planuje kupić Wenecką okolicę (2149,99 zł), powinien zdążyć do 8 listopada; później za samo taxi trzeba będzie dopłacić na rynku wtórnym.",
   "oferty": [],
   "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — gratis przy zakupie 11388 w listopadzie 2026, nigdy nie miał polskiej ceny katalogowej"
+ },
+ "30717": {
+  "nazwa": "Śmieszny halloweenowy szkielet",
+  "seria": "Ekskluzywne i promocyjne",
+  "cena_katalogowa": null,
+  "elementy": 71,
+  "premiera": "2026-10",
+  "bez_rrp": "prezent do zakupów (GWP) na LEGO.com — gratis przy zakupach od 165 zł w dniach 20–27 października 2026; LEGO nie podało wartości upominku w złotych, więc cena katalogowa zostaje pusta",
+  "opis": "Polybag na 71 elementów z linii Creator: stojący szkielet z ruchomymi kończynami i dyniową latarnią, w halloweenowej konwencji. To najniższy z trzech progów kumulacji na LEGO.pl w dniach 20–27 października 2026 — wpada do koszyka przy zakupach od 165 zł z dowolnej serii. Osobno nie jest sprzedawany, a LEGO nie podało jego wartości katalogowej.",
+  "dla_rodzica": "Tego zestawu się nie kupuje — dokłada go sklep LEGO przy zakupach od 165 zł, w dniach od 20 do 27 października 2026. To najniższy próg z trzech w tym oknie, więc łapie się przy niemal każdym większym zakupie. 71 elementów to kilka minut budowania, raczej dodatek do paczki niż prezent sam w sobie.",
+  "dla_afol": "Drobny polybag sezonowy, bez podanej wyceny — przy ocenie opłacalności progu traktuj go jako dodatek o wartości kilkudziesięciu złotych, a nie jako argument za dobijaniem do 165 zł. Wyższe progi tego samego okna (625 zł i 670 zł w Star Wars) dają 40916 i 40765."
+ },
+ "40765": {
+  "nazwa": "Ośrodek szkoleniowy na Kamino",
+  "seria": "Ekskluzywne i promocyjne",
+  "cena_katalogowa": 129.99,
+  "elementy": 190,
+  "premiera": "2025-01",
+  "opis": "Mikroskalowa platforma Kamino na 190 elementów — zestaw promocyjny z rocznika 2025, który w październiku 2026 wrócił jako gratis. W kumulacji na LEGO.pl z dni 20–27 października 2026 jest nagrodą za najwyższy próg: zakupy z serii Star Wars od 670 zł. Wartość upominku LEGO podaje na 129,99 zł (karta produktu lego.com/pl-pl, sprawdzone 21.10.2026). Osobno nie jest sprzedawany.",
+  "dla_rodzica": "Tego zestawu się nie kupuje — sklep LEGO dokłada go przy zakupach zestawów Star Wars od 670 zł, w dniach od 20 do 27 października 2026. To najwyższy z trzech progów tego okna i jedyny ograniczony do jednej serii.",
+  "dla_afol": "Zestaw z rocznika 2025 wracający do akcji gratisowej, co przy GWP zdarza się rzadko i zwykle oznacza resztę nakładu. Zanim dobijesz do 670 zł w Star Wars, policz różnicę: w naszych notowaniach 67 z 69 zestawów Star Wars z bieżącego listingu lego.com jest w sklepach zewnętrznych tańszych od ceny katalogowej, a mediana tej różnicy to 30 procent. Upominek wyceniony na 129,99 zł rzadko tę różnicę pokrywa — wyjątkiem są zestawy, przy których LEGO.com nie przepłaca, dziś 75457 Executor, 75461, 75367, 75459, 75458 i 75415."
  }
 }

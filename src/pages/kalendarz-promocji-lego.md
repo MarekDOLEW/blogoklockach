@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-10-16"
+zaktualizowano: "2026-10-21"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,7 +21,8 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">13–19.10</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł; oba terminy w regulaminie LEGO.pl</a></li>
+<li><span class="okna__data">20–27.10</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#pazdziernik-kumulacja"><b>Trzy gratisy naraz na LEGO.pl</b> – 30717 od 165 zł, 40916 Kwiatowa ramka od 625 zł i 40765 Ośrodek szkoleniowy na Kamino od 670 zł w zestawach Star Wars; progi z karty promocji lego.com/pl-pl</a></li>
+<li><span class="okna__data">13–19.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł; okno minęło 19.10</a></li>
 <li><span class="okna__data">8–12.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; zniknął z regulaminu LEGO.pl wraz z wejściem okna 13–19.10</a></li>
 <li><span class="okna__data">21–30.09</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#halloween"><b>Gratisy halloweenowe</b> 40900 Straszne nawiedzone drzewo i 40772 Świecący duszek – okno minęło 30.09</a></li>
 <li><span class="okna__data">1.10 / 4.10</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#pazdziernik"><b>Premiera 75457 Executor UCS</b> – 3199,99 zł, z gratisem 40897; 1.10 dla Insiders, 4.10 dla wszystkich</a></li>
@@ -191,7 +192,7 @@ dokładał ponad 450 zł, żeby dostać przedmiot wart kilkadziesiąt złotych. 
 arytmetyka obowiązuje w oknie 13–19.10 i w każdym następnym.
 Ceny sprawdzisz w tabelach na podstronach [40772](/zestaw/40772/) i [40760](/zestaw/40760/).
 
-<h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--trwa">trwa</span></h3>
+<h3 id="pazdziernik-punkty">Drugie okno października: 13–19.10 <span class="status status--stop">zamknięte</span></h3>
 
 Dwa tygodnie po premierze Executora wrócił układ, który znamy z całego roku:
 **podwójne punkty Insiders plus gratis powyżej progu**. Oba warunki są już
@@ -215,6 +216,46 @@ na całe zamówienie, czyli około pięciu procent wartości wracających w punk
 Przy zamówieniu za 745 zł to mniej więcej 37 zł ekstra. **Kiedy nie bije:** gdy
 i tak bierzesz Executora — wtedy pierwszy tydzień daje miecz świetlny, którego
 nie zdobędziesz inaczej.
+
+<h3 id="pazdziernik-kumulacja">Trzecie okno października: trzy gratisy naraz, 20–27.10 <span class="status status--trwa">trwa</span></h3>
+
+Tydzień po oknie punktowym LEGO.pl wróciło do układu, który w tym roku widzieliśmy
+tylko raz, przy [Back to Hogwarts](#back-to-hogwarts): **trzy gratisy w jednym oknie**,
+dwa progi kwotowe z dowolnej serii i jeden przypisany do jednej serii. Progi i daty
+sprawdziliśmy 21 października **bezpośrednio na karcie promocji lego.com/pl-pl**, nie
+w serwisach branżowych:
+
+| Gratis (GWP) | Warunek | Okno |
+|---|---|---|
+| [30717 Śmieszny halloweenowy szkielet](/zestaw/30717/) | zakupy od **165 zł**, dowolna seria | 20–27.10 |
+| [40916 Kwiatowa ramka na zdjęcia](/zestaw/40916/) | zakupy od **625 zł**, dowolna seria | 20–27.10 |
+| [40765 Ośrodek szkoleniowy na Kamino](/zestaw/40765/) | zakupy z serii [Star Wars](/serie/star-wars/) od **670 zł** | 20–27.10 |
+
+Progi się nie wykluczają: jedno zamówienie za 670 zł złożone z zestawów Star Wars
+przekracza wszystkie trzy, więc do koszyka wpadają trzy upominki naraz. To jedyny
+sensowny sposób czytania tego okna — przy dowolnej innej serii górny próg jest
+nieosiągalny i zostają dwa gratisy.
+
+**Ile to realnie kosztuje.** Progi liczą się od cen katalogowych na LEGO.com, a Star
+Wars jest w sklepach zewnętrznych serią mocno przecenianą. Sprawdziliśmy wszystkie
+zestawy Star Wars z bieżącego listingu LEGO.com, dla których mamy cenę katalogową
+i ofertę zewnętrzną — 69 pozycji: **67 jest tańszych poza LEGO.com, a mediana
+różnicy to 30%**. Przy koszyku za 670 zł oznacza to mniej więcej **200 zł dopłaty**
+wobec tych samych zestawów kupionych gdzie indziej. Upominek wyceniony przez LEGO na
+**129,99 zł** tej różnicy nie pokrywa, a 40916 (109,99 zł) i szkielet, którego LEGO
+w złotych nie wycenia, też jej nie nadrobią.
+
+**Kiedy to okno naprawdę się opłaca:** gdy kupujesz zestaw, przy którym LEGO.com nie
+przepłaca. Dziś w Star Wars jest ich sześć: [75457 Executor](/zestaw/75457/) — w naszych
+notowaniach jedyna oferta zewnętrzna jest **droższa** od katalogu — oraz
+[75461](/zestaw/75461/), [75367](/zestaw/75367/), [75459](/zestaw/75459/),
+[75458](/zestaw/75458/) i [75415](/zestaw/75415/), gdzie różnica nie przekracza
+dziesięciu procent. Przy Executorze za 3199,99 zł próg 670 zł przekraczasz jednym
+zestawem i trzy gratisy dostajesz za darmo w dosłownym sensie.
+
+**Kiedy odpuścić:** gdy celujesz w zestawy z głębokim rabatem rynkowym — przy
+medianie 30% dokładanie do progu kosztuje więcej, niż wart jest upominek. Ceny
+sprawdzisz w tabelach na podstronach zestawów; aktualizujemy je codziennie.
 
 <h3 id="pazdziernik-fala">Październik to nie tylko Executor</h3>
 
@@ -308,12 +349,13 @@ Spodziewamy się w grudniu jeszcze jednego okna z podwójnymi punktami Insiders.
 | [9.09 – Insiders Member Day](#member-day) | jeden dzień, same podwójne punkty, bez zapowiedzi |
 | [9–19.09 – Batman Day](#batman-day) | punkty na wybraną serię plus gratis od 165 zł |
 | [13–19.10 – drugie okno października](#pazdziernik-punkty) | punkty na całe zamówienie plus gratis 40909 od 745 zł |
+| [20–27.10 – trzecie okno października](#pazdziernik-kumulacja) | trzy gratisy naraz: od 165 zł, od 625 zł i od 670 zł w Star Wars, bez punktów |
 
 Dwie z tych trzech akcji LEGO ogłosiło z dnia na dzień albo wcale, więc **planowanie zakupu pod konkretną grudniową datę nie ma sensu** – lepiej mieć gotową listę i sprawdzić cennik, gdy okno się pojawi.
 
 **Ile to jest warte, zanim ktoś przestawi zakupy na grudzień.** Podwójne punkty to około 5% wartości zamówienia zwróconej w punktach. Przy zamówieniu za 700 zł mówimy o jakichś 35 zł ekstra – mniej, niż potrafi dać zwykła przecena w sklepie zewnętrznym. Ta sama arytmetyka obowiązywała w październiku i nie zmieni się w grudniu.
 
-Gratis progowy też jest prawdopodobny: w tym roku LEGO dołożyło go do niemal każdego okna ([40908 Grecja](/zestaw/40908/) w sierpniu przy 745 zł, [wybór dwóch gratisów](#gratis-pazdziernik) przy 450 zł na początku października, [40909 Włochy](/zestaw/40909/) przy 745 zł w drugim oknie). Progu na grudzień nikt nie podał i my też go nie zgadujemy.
+Gratis progowy też jest prawdopodobny: w tym roku LEGO dołożyło go do niemal każdego okna ([40908 Grecja](/zestaw/40908/) w sierpniu przy 745 zł, [wybór dwóch gratisów](#gratis-pazdziernik) przy 450 zł na początku października, [40909 Włochy](/zestaw/40909/) przy 745 zł w drugim oknie, [trzy gratisy naraz](#pazdziernik-kumulacja) od 165 zł w trzecim). Progu na grudzień nikt nie podał i my też go nie zgadujemy.
 
 <h3 id="grudzien-premiery">Premier w grudniu nie przewidujemy</h3>
 
