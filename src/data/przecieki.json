@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-20",
+  "zaktualizowano": "2026-10-21",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -1394,6 +1394,384 @@
    "dodano": "2026-10-20",
    "uwagi": "W tabeli StoneWars numer zastepczy 99999999 — prawdziwego numeru nie ma, dlatego wpis ma slug. Brak terminu, elementow i ceny. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
    "opis": "Kolejna duża budowana figurka, tym razem Captain Rex — pozycja wymieniana w przeciekach bez numeru, terminu, liczby elementów i ceny. W zestawieniu źródła stoi pod numerem zastępczym, co samo w sobie mówi, jak wczesny jest to etap. Informacja pochodzi z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71876",
+   "numer": "71876",
+   "nazwa": "Czerwony smok ognia Kaia",
+   "seria": "Ninjago",
+   "elementy": 191,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "191 elementow, 19,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Mały smok ognia dla Kaia: według przecieków 191 elementów i cena 19,99 euro, czyli orientacyjnie około 80 zł, z premierą w styczniu 2027. To typowa pozycja wejściowa fali — smok plus jedna, dwie minifigurki, choć składu nikt jeszcze nie podał. Dane pochodzą z kanałów społecznościowych, bez potwierdzenia producenta.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71877",
+   "numer": "71877",
+   "nazwa": "Transformujący się odrzutowiec Jaya",
+   "seria": "Ninjago",
+   "elementy": 365,
+   "cena_wg_zrodla": 170,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "365 elementow, 39,99 euro. Motyw fali: zestawy transformujace sie. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Odrzutowiec Jaya z mechanizmem przemiany — motyw przewodni zapowiadanej fali, w której kilka zestawów ma się przekształcać. Przecieki podają 365 elementów i cenę 39,99 euro, czyli orientacyjnie około 170 zł, premiera w styczniu 2027. Źródłem są kanały społecznościowe relacjonowane przez StoneWars.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71879",
+   "numer": "71879",
+   "nazwa": "Transformujący się mech Zane’a",
+   "seria": "Ninjago",
+   "elementy": 491,
+   "cena_wg_zrodla": 210,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "491 elementow, 49,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Mech Zane’a z tej samej, transformującej się fali: 491 elementów i cena 49,99 euro, czyli orientacyjnie około 210 zł, premiera w styczniu 2027. Co dokładnie zmienia się w modelu, nie wiadomo. Przeciek opiera się na kanałach społecznościowych, producent nie potwierdził niczego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71880",
+   "numer": "71880",
+   "nazwa": "Transformujący się motocykl Arina",
+   "seria": "Ninjago",
+   "elementy": 108,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "108 elementow, 9,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Najtańsza pozycja zapowiadanej fali: motocykl Arina ze 108 elementów za 9,99 euro, czyli orientacyjnie około 40 zł, z premierą w styczniu 2027. Przy tej cenie to zestaw do zabawy, nie model na półkę. Dane pochodzą z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71881",
+   "numer": "71881",
+   "nazwa": "Pojazd Kaia z napędem",
+   "seria": "Ninjago",
+   "elementy": 370,
+   "cena_wg_zrodla": 280,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "370 elementow, 64,99 euro — stosunek ceny do elementow wyraznie wyzszy niz w reszcie fali (mechanizm z napedem). Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Pojazd Kaia z silnikiem na wycofanie, zapowiadany na styczeń 2027: 370 elementów i cena 64,99 euro, czyli orientacyjnie około 280 zł. Cena jest wysoka wobec liczby elementów, co zwykle oznacza dużą część mechaniczną w komplecie. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71882",
+   "numer": "71882",
+   "nazwa": "Transformujący się smok Gardoz",
+   "seria": "Ninjago",
+   "elementy": 757,
+   "cena_wg_zrodla": 380,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "757 elementow, 89,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Duży smok Gardoz z mechanizmem przemiany: według przecieków 757 elementów i cena 89,99 euro, czyli orientacyjnie około 380 zł, premiera w styczniu 2027. W fali to pozycja ze środka górnej półki. Źródłem są kanały społecznościowe, nie producent.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71883",
+   "numer": "71883",
+   "nazwa": "Powietrzny szybowiec ninja",
+   "seria": "Ninjago",
+   "elementy": 1282,
+   "cena_wg_zrodla": 590,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "1282 elementy, 139,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Największy styczniowy zestaw zapowiadanej fali: 1282 elementy i cena 139,99 euro, czyli orientacyjnie około 590 zł. Model ma być latającym okrętem ninja, ale szczegółów ani składu minifigurek nikt nie podaje. Dane pochodzą z kanałów społecznościowych.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71889",
+   "numer": "71889",
+   "nazwa": "Mech ziemi — pojedynek",
+   "seria": "Ninjago",
+   "elementy": 733,
+   "cena_wg_zrodla": 300,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "733 elementy, 69,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Zestaw z mechem ziemi i pojedynkiem: 733 elementy i cena 69,99 euro, czyli orientacyjnie około 300 zł, premiera w styczniu 2027. Nazwa w źródle jest już konkretna, co zwykle oznacza, że przeciek pochodzi z materiałów dystrybucyjnych, ale potwierdzenia producenta nadal nie ma.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71887",
+   "numer": "71887",
+   "nazwa": "Mech demona Oni",
+   "seria": "Ninjago",
+   "elementy": 1326,
+   "cena_wg_zrodla": 550,
+   "premiera_wg_zrodla": "2027-03",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "1326 elementow, 129,99 euro, marzec 2027. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Mech demona Oni zapowiadany na marzec 2027: 1326 elementów i cena 129,99 euro, czyli orientacyjnie około 550 zł. To największa pozycja marcowej części fali. Informacja opiera się na kanałach społecznościowych relacjonowanych przez StoneWars.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71888",
+   "numer": "71888",
+   "nazwa": "Dojo ninja Ivo (nazwa niepotwierdzona)",
+   "seria": "Ninjago",
+   "elementy": 3495,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-03",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "3495 elementow — przy potwierdzeniu najwiekszy zestaw Ninjago w historii serii. Ceny brak, nazwa ze znakiem pytania. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Zdecydowanie największy zestaw w całym zapowiadanym roczniku Ninjago: 3495 elementów, premiera w marcu 2027. Ceny nikt nie podaje, a nazwę źródło stawia ze znakiem zapytania. Przy tej wielkości byłby to rekord serii, więc do potwierdzenia trzeba traktować liczbę ostrożnie.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71891",
+   "numer": "71891",
+   "nazwa": "Zestaw Ninjago bez nazwy (71891)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71892",
+   "numer": "71892",
+   "nazwa": "Zestaw Ninjago bez nazwy (71892)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71893",
+   "numer": "71893",
+   "nazwa": "Zestaw Ninjago bez nazwy (71893)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71894",
+   "numer": "71894",
+   "nazwa": "Zestaw Ninjago bez nazwy (71894)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71895",
+   "numer": "71895",
+   "nazwa": "Zestaw Ninjago bez nazwy (71895)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71896",
+   "numer": "71896",
+   "nazwa": "Zestaw Ninjago bez nazwy (71896)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71897",
+   "numer": "71897",
+   "nazwa": "Zestaw Ninjago bez nazwy (71897)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71899",
+   "numer": "71899",
+   "nazwa": "Zestaw Ninjago bez nazwy (71899)",
+   "seria": "Ninjago",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-08",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
+     "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
+     "data": "2026-10-20"
+    }
+   ],
+   "dodano": "2026-10-21",
+   "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
    "rozstrzygniecie": null
   }
  ]

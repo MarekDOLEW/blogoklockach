@@ -133,6 +133,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-21 05:25 · SCOUT · Do zrobienia
+
+**W sklepie LEGO trwa akcja z trzema gratisami 20–27 października 2026: 30717 szkielet od 40 euro, 40916 kwiatowa ramka od 150 euro i 40765 Ośrodek szkoleniowy na Kamino od 160 euro przy zakupach Star Wars — StoneWars pisze, że Kamino jest tylko w Niemczech, nie w Austrii i Szwajcarii.**
+**Mamy?** — częściowo: 40916 ma hub z ceną 109,99 zł i dopisanym zdaniem o powrocie do akcji, ale progów dla polskiego sklepu nie znamy
+**Zrobić:** — wejść na lego.pl i sprawdzić, czy akcja obowiązuje w Polsce i z jakimi progami w złotych (trzy gratisy czy mniej, do kiedy); wynik podać numerami, żebym wpisał go do hubów 30717, 40916 i 40765
+**Kto:** — Cowork (przeglądarka)
+
 ## 2026-10-20 13:05 · KONTROLER · Do zrobienia
 
 **Pierwszy przebieg „Kontrola linków w przeglądarce" (`trig_01NRYdRPRMVTYZTGDf5C8iH6`) ma status SUCCEEDED, ale trwał 28 sekund (11:45:46–11:46:14) — za krótko na otwarcie 20 kart sklepów.**
