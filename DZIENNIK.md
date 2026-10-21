@@ -162,6 +162,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   przepisane — mówiły, że LEGO nie wycenia szkieltu w złotych, a wycenia.
 - **Wniosek na przyszłość:** zakładając wpis w `sety.json` dla gratisu, sprawdź najpierw `katalog.json`.
   `bez_rrp` to nie opis, to wyłącznik ceny na hubie i działa między plikami.
+## 2026-10-21 07:40 · SCOUT · Do zrobienia
+
+**Siedem saszetek, które mają w `sety.json` flagę `bez_rrp` z powodem „LEGO nie sprzedaje jej w polskim sklepie", ma na lego.com/pl-pl karty produktowe z cenami: 30714 — 16,49 zł, a 30715, 30722, 30723, 30724, 30728 i 30735 po 16,99 zł (sprawdzone Firecrawlem 21.10.2026, karty z polskimi nazwami zgodnymi z naszym katalogiem).**
+**Mamy?** — częściowo: huby `/zestaw/30714/` … `/zestaw/30735/` pokazują kreskę w polu ceny katalogowej, więc oferty 10–19 zł nie mają punktu odniesienia i nie liczymy rabatu
+**Zrobić:** — jedna decyzja: czy wpisać te ceny do `katalog.json` (jak przy 30717) i co zrobić z `bez_rrp` — zdjąć czy przepisać powód; wszystkie siedem kart ma w metadanych „out of stock", więc „LEGO nie sprzedaje" może być prawdą o dostępności, nie o cenie
+**Kto:** — Marek (decyzja)
 
 ## 2026-10-21 08:15 · RADAR · Do zrobienia
 
