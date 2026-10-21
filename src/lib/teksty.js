@@ -133,6 +133,10 @@ function zMarkdownu(sciezka, modul) {
     sety: numery,
     serie: serieZestawow(numery),
     serieGlowne: serieGlowneTekstu(numery, f.seria),
+    // cykl (20.10.2026, notatka Piotra): `cykl` = nazwa, `czesc` / `czesci` = numer części i ich liczba
+    cykl: f.cykl ?? null,
+    czesc: Number(f.czesc) || null,
+    czesci: Number(f.czesci) || null,
   };
 }
 
@@ -218,3 +222,11 @@ export const tekstyOZestawie = (nr) => pobierz().poSecie.get(String(nr)) ?? [];
 
 /** Czy zestaw występuje w którymś prezentowniku. */
 export const wPrezentowniku = (nr) => tekstyOZestawie(nr).some((t) => t.sekcja === 'prezentowniki');
+
+/**
+ * Części cyklu tekstów (pole `cykl` we frontmatterze), po numerze części.
+ * Cykl to seria artykułów, np. „Pociągi LEGO 12 V, część 1 z 4” – każda część to
+ * osobny tekst; layout artykułu pokazuje nad treścią listę wszystkich części.
+ */
+export const czesciCyklu = (nazwa) =>
+  nazwa ? teksty().filter((t) => t.cykl === nazwa).sort((a, b) => (a.czesc ?? 0) - (b.czesc ?? 0)) : [];

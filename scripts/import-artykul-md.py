@@ -19,6 +19,12 @@ Co robi:
   - `[sprawdź aktualne ceny LEGO 12345 – link wewnętrzny]` → link do `/zestaw/12345/`,
   - `[zobacz kategorię LEGO <seria> – link wewnętrzny]` → link do `/serie/<slug>/`
     (seria spoza katalogu → `/serie/`),
+  - `Cykl: <nazwa>, część N z M` → `cykl`, `czesc`, `czesci` (layout pokazuje listę części i poprzednia/następna),
+  - `[zobacz część N – link wewnętrzny]` → część N tego samego cyklu (z tego importu albo z repo),
+    `[zobacz artykuł o LEGO 7750 – link wewnętrzny]` → artykuł, którego zestawem głównym jest 7750
+    (gdy takiego nie ma — strona zestawu),
+  - `[ZDJĘCIE: opis]` → zdjęcie Piotra z pliku `NNNN_zdjecie_K.jpg` obok .md (K = kolejny znacznik),
+    zmniejszone do 1600 px i zapisane jako `public/zdjecia/artykuly/<slug>/K.webp`,
   - obrazy `obrazy/…` → kopia do `materialy/obrazy-artykulow/<slug>/` i znacznik
     `<!-- OBRAZ n -->` w treści, tak jak przy DOCX (decyzja redakcyjna: SVG, <img> czy pominąć).
 
@@ -26,12 +32,13 @@ Czego NIE robi: nie dobiera zdjęć zestawów, okładki poza pierwszym zestawem 
 galerii ani linków do sklepów — to robi sesja według `redakcja/`.
 
 Użycie:
+  python3 scripts/import-artykul-md.py 0025_*.md 0026_*.md --do-repo   # kilka plików (cykl) prosto do src/pages/artykuly/
   python3 scripts/import-artykul-md.py plik.md                     # markdown na stdout
   python3 scripts/import-artykul-md.py plik.md --wyjscie a.md      # do pliku
   python3 scripts/import-artykul-md.py plik.md --slug moj-slug --sucho
 """
 
-import argparse, datetime, json, os, re, shutil, sys, unicodedata
+import argparse, datetime, glob, json, os, re, shutil, sys, unicodedata
 
 KATALOG = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KATEGORIE = ['Aktualności', 'Premiery', 'Recenzje', 'Rankingi', 'Porównania', 'Poradniki', 'Kalendarze', 'Historyczne']
@@ -90,7 +97,7 @@ def czytaj_blok(linie):
         l = l.strip()
         if not l:
             continue
-        m = re.match(r'^(Opis|Tytuł SEO|Kategoria|Zestawy|Ważne do)\s*:\s*(.*)$', l)
+        m = re.match(r'^(Opis|Tytuł SEO|Kategoria|Zestawy|Ważne do|Cykl)\s*:\s*(.*)$', l)
         if m:
             dane[m.group(1)] = m.group(2).strip()
         elif re.match(r'^P\s*:', l):
@@ -103,11 +110,41 @@ def czytaj_blok(linie):
     return dane, linie[:start] + linie[koniec + 1:]
 
 
+def cykl_z_pola(t):
+    """„Pociągi LEGO 12 V, część 1 z 4” → („Pociągi LEGO 12 V”, 1, 4)."""
+    m = re.match(r'^(.*?)[,;–-]?\s*część\s+(\d+)(?:\s+z\s+(\d+))?\s*$', t or '', re.IGNORECASE)
+    if not m:
+        return (t.strip() or None, None, None) if t else (None, None, None)
+    return m.group(1).strip(), int(m.group(2)), int(m.group(3)) if m.group(3) else None
+
+
+def numer_pliku(plik):
+    m = re.match(r'^(\d{3,5})_', os.path.basename(plik))
+    return m.group(1) if m else None
+
+
+def opublikowane():
+    """Artykuły w repo: {(cykl, część): url} i {zestaw główny: url} — do odesłań między tekstami."""
+    czesci, glowne = {}, {}
+    for sciezka in sorted(glob.glob(os.path.join(KATALOG, 'src', 'pages', 'artykuly', '*.md'))):
+        tekst = open(sciezka, encoding='utf-8').read()
+        fm = tekst.split('---')[1] if tekst.startswith('---') else ''
+        url = '/artykuly/' + os.path.basename(sciezka)[:-3] + '/'
+        cykl = re.search(r'^cykl:\s*"?(.*?)"?\s*$', fm, re.M)
+        czesc = re.search(r'^czesc:\s*"?(\d+)', fm, re.M)
+        if cykl and czesc:
+            czesci[(cykl.group(1), int(czesc.group(1)))] = url
+        zest = re.search(r'^zestawy:\s*\[\s*"?(\d{4,7})', fm, re.M)
+        if zest:
+            glowne.setdefault(zest.group(1), url)
+    return czesci, glowne
+
+
 def yaml_tekst(t):
     return '"' + t.replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
-def importuj(plik, slug=None, zapisuj=True):
+def importuj(plik, slug=None, zapisuj=True, wsad=None):
     with open(plik, encoding='utf-8') as f:
         linie = f.read().replace('\r\n', '\n').split('\n')
     uwagi = []
@@ -139,6 +176,48 @@ def importuj(plik, slug=None, zapisuj=True):
     tresc = re.sub(r'\[(sprawdź aktualne ceny LEGO (\d{4,7}))' + LINK, r'[\1](/zestaw/\2/)', tresc)
     tresc = re.sub(r'\[(zobacz kategorię (LEGO [^\]]+?))' + LINK,
                    lambda m: f'[{m.group(1)}]({link_serii(m.group(2), serie)})', tresc)
+    # odesłania w cyklu i do innych artykułów: najpierw pliki z tego samego importu, potem repo
+    cykl, czesc, czesci = cykl_z_pola(dane.get('Cykl', ''))
+    wsad = wsad or {'czesci': {}, 'glowne': {}}
+    def do_czesci(m):
+        url = wsad['czesci'].get((cykl, int(m.group(2))))
+        if not url:
+            uwagi.append(f'odesłanie do części {m.group(2)} cyklu „{cykl}”: nie ma jej w imporcie ani w repo — znacznik zostawiony')
+            return m.group(0)
+        return f'[{m.group(1)}]({url})'
+    tresc = re.sub(r'\[(zobacz część (\d+)[^\]]*?)' + LINK, do_czesci, tresc)
+    def do_artykulu(m):
+        url = wsad['glowne'].get(m.group(2))
+        if url == f'/artykuly/{slug}/':
+            url = None  # tekst nie odsyła sam do siebie
+        if not url:
+            uwagi.append(f'brak artykułu o LEGO {m.group(2)} — link prowadzi do strony zestawu')
+            url = f'/zestaw/{m.group(2)}/'
+        return f'[{m.group(1)}]({url})'
+    tresc = re.sub(r'\[(zobacz artykuł o LEGO (\d{4,7})[^\]]*?)' + LINK, do_artykulu, tresc)
+
+    # zdjęcia własne Piotra: [ZDJĘCIE: opis] + pliki NNNN_zdjecie_K.jpg obok .md (kolejność = kolejność znaczników)
+    nr_pliku = numer_pliku(plik)
+    zdjecia = []
+    def zdjecie(m):
+        k = len(zdjecia) + 1
+        opis_z = m.group(1).strip()
+        kandydaci = sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(plik)), f'{nr_pliku}_zdjecie_{k}.*'))) if nr_pliku else []
+        zdjecia.append(opis_z)
+        if not kandydaci:
+            uwagi.append(f'[ZDJĘCIE {k}: {opis_z}] — brak pliku {nr_pliku}_zdjecie_{k}.jpg; znacznik zamieniony na komentarz')
+            return f'<!-- ZDJĘCIE {k}: {opis_z} — brak pliku -->'
+        url = f'/zdjecia/artykuly/{slug}/{k}.webp'
+        if zapisuj:
+            from PIL import Image, ImageOps
+            cel = os.path.join(KATALOG, 'public', url.lstrip('/'))
+            os.makedirs(os.path.dirname(cel), exist_ok=True)
+            im = ImageOps.exif_transpose(Image.open(kandydaci[0])).convert('RGB')
+            im.thumbnail((1600, 1600))
+            im.save(cel, 'WEBP', quality=82)
+        return f'![{opis_z}]({url})'
+    tresc = re.sub(r'^\[ZDJĘCIE:\s*([^\]]+)\]\s*$', zdjecie, tresc, flags=re.M)
+
     for m in re.finditer(r'\[[^\]]*link wewnętrzny\]', tresc):
         uwagi.append(f'nierozpoznany znacznik: {m.group(0)}')
 
@@ -178,6 +257,12 @@ def importuj(plik, slug=None, zapisuj=True):
             fm.append(f'wazne_do: "{wazne}"')
         else:
             uwagi.append(f'„Ważne do” w formacie RRRR-MM-DD, jest: {wazne}')
+    if cykl:
+        fm.append(f'cykl: {yaml_tekst(cykl)}')
+        if czesc:
+            fm.append(f'czesc: {czesc}')
+        if czesci:
+            fm.append(f'czesci: {czesci}')
     if zestawy:
         fm += [f'okladka: "{zestawy[0]}"', 'zestawy: [' + ', '.join(f'"{n}"' for n in zestawy) + ']']
     elif kategoria == 'Aktualności':
@@ -187,31 +272,47 @@ def importuj(plik, slug=None, zapisuj=True):
         for p in dane['FAQ']:
             fm += [f'  - q: {yaml_tekst(p["q"])}', f'    a: {yaml_tekst(p["a"])}']
     fm.append('---')
-    return {'tytul': tytul, 'slug': slug, 'kategoria': kategoria, 'zestawy': zestawy,
-            'markdown': '\n'.join(fm) + '\n\n' + tresc, 'obrazy': obrazy, 'uwagi': uwagi}
+    return {'tytul': tytul, 'slug': slug, 'kategoria': kategoria, 'zestawy': zestawy, 'cykl': cykl, 'czesc': czesc,
+            'markdown': '\n'.join(fm) + '\n\n' + tresc, 'obrazy': obrazy, 'zdjecia': zdjecia, 'uwagi': uwagi}
 
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument('plik')
-    p.add_argument('--slug', default=None)
-    p.add_argument('--wyjscie', default=None)
-    p.add_argument('--sucho', action='store_true', help='nie zapisuj obrazów ani markdownu')
+    p.add_argument('pliki', nargs='+', help='jeden albo kilka plików .md (np. wszystkie części cyklu naraz)')
+    p.add_argument('--slug', default=None, help='tylko przy jednym pliku')
+    p.add_argument('--wyjscie', default=None, help='tylko przy jednym pliku')
+    p.add_argument('--do-repo', action='store_true', help='zapisz każdy tekst jako src/pages/artykuly/<slug>.md')
+    p.add_argument('--sucho', action='store_true', help='nie zapisuj zdjęć, obrazów ani markdownu')
     a = p.parse_args()
-    w = importuj(a.plik, a.slug, zapisuj=not a.sucho)
-    print(f'Tytuł: {w["tytul"]}\nSlug:  {w["slug"]}\nKategoria: {w["kategoria"]} · zestawy: {", ".join(w["zestawy"]) or "—"} '
-          f'· obrazy: {len(w["obrazy"])}', file=sys.stderr)
-    for u in w['uwagi']:
-        print(f'UWAGA: {u}', file=sys.stderr)
+    if len(a.pliki) > 1 and (a.slug or a.wyjscie):
+        raise SystemExit('--slug i --wyjscie działają tylko dla jednego pliku; przy kilku użyj --do-repo.')
+    # pierwszy przebieg: adresy wszystkich tekstów z importu, żeby części cyklu mogły się wzajemnie linkować
+    czesci, glowne = opublikowane()
+    for plik in a.pliki:
+        w = importuj(plik, a.slug, zapisuj=False)
+        url = f'/artykuly/{w["slug"]}/'
+        if w['cykl'] and w['czesc']:
+            czesci[(w['cykl'], w['czesc'])] = url
+        if w['zestawy']:
+            glowne[w['zestawy'][0]] = url
+    for plik in a.pliki:
+        w = importuj(plik, a.slug, zapisuj=not a.sucho, wsad={'czesci': czesci, 'glowne': glowne})
+        print(f'— {os.path.basename(plik)}\nTytuł: {w["tytul"]}\nSlug:  {w["slug"]}\nKategoria: {w["kategoria"]} · zestawy: '
+              f'{", ".join(w["zestawy"]) or "—"} · cykl: {w["cykl"] or "—"}{(" (część " + str(w["czesc"]) + ")") if w["czesc"] else ""} '
+              f'· zdjęcia: {len(w["zdjecia"])} · obrazy: {len(w["obrazy"])}', file=sys.stderr)
+        for u in w['uwagi']:
+            print(f'UWAGA: {u}', file=sys.stderr)
+        if a.sucho:
+            continue
+        cel = a.wyjscie or (os.path.join(KATALOG, 'src', 'pages', 'artykuly', w['slug'] + '.md') if a.do_repo else None)
+        if cel:
+            with open(cel, 'w', encoding='utf-8') as f:
+                f.write(w['markdown'] + '\n')
+            print(f'Markdown: {cel}', file=sys.stderr)
+        else:
+            print(w['markdown'])
     if a.sucho:
         print('--sucho: nic nie zapisano.', file=sys.stderr)
-        return
-    if a.wyjscie:
-        with open(a.wyjscie, 'w', encoding='utf-8') as f:
-            f.write(w['markdown'] + '\n')
-        print(f'Markdown: {a.wyjscie}', file=sys.stderr)
-    else:
-        print(w['markdown'])
 
 
 if __name__ == '__main__':

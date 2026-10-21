@@ -1144,6 +1144,14 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* FAQ pod artykułem/prezentownikiem (Faq.astro) – ta sama lista, co w JSON-LD */
 .faq-tekstu { margin-top: 36px; }
 /* „Przeczytaj też" (PowiazaneArtykuly.astro) – statyczne linki między tekstami */
+/* Cykl artykułów (CyklArtykulow.astro, 20.10.2026) */
+.cykl-artykulow { margin: 0 0 22px; padding: 12px 16px; }
+.cykl-naglowek { margin: 0; font-size: 0.92rem; }
+.cykl-lista { margin: 8px 0 0; padding-left: 1.4em; font-size: 0.92rem; }
+.cykl-lista li { margin: 2px 0; }
+.cykl-lista [aria-current] { font-weight: 600; }
+.cykl-nawigacja { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin: 28px 0 0; padding-top: 14px; border-top: 1px solid var(--linia); font-size: 0.95rem; }
+.cykl-nastepna { margin-left: auto; text-align: right; }
 .powiazane { margin: 40px 0 8px; padding-top: 18px; border-top: 1px solid var(--linia); }
 .powiazane-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
 .powiazane-lista li { padding: 12px 16px; background: var(--karta); border: 1px solid var(--linia); border-left: 4px solid var(--zolty); border-radius: 8px; }

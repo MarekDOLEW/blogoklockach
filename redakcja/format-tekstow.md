@@ -116,3 +116,19 @@ od dziś `scripts/import-artykul-md.py` — bez przepisywania ręcznego.
    Pierwszy numer w „Zestawy” to zdjęcie okładki. Nowe pole opcjonalne dla aktualności
    z terminem: `Ważne do: 2026-10-27` — po tej dacie tekst dostaje baner „akcja zakończona”
    i schodzi na dół list.
+
+## Otwarte pytania z wersji 2 notatki (21.10.2026)
+
+1. **Cykle — tak, wystarczą.** Pole `Cykl: <nazwa>, część N z M` daje na stronie każdej części
+   ramkę „Cykl: <nazwa> · część N z M” z listą wszystkich opublikowanych części (bieżąca
+   wyróżniona), a pod tekstem linki „← poprzednia część / następna część →”. Nazwa cyklu musi
+   być identyczna we wszystkich częściach. Znaczniki `[zobacz część N – link wewnętrzny]` i
+   `[zobacz artykuł o LEGO 7750 – link wewnętrzny]` zamieniamy na linki przy imporcie, jeśli
+   wszystkie części przyjdą razem albo cel jest już na stronie; „artykuł o LEGO 7750” to tekst,
+   w którym 7750 stoi pierwszy w polu „Zestawy”. Gdy takiego tekstu nie ma, link prowadzi do
+   strony zestawu `/zestaw/7750/`.
+2. **Zdjęcia — tak, pasuje.** `[ZDJĘCIE: opis ujęcia]` jako osobny akapit i pliki
+   `NNNN_zdjecie_K.jpg` w mailu; K = kolejność znacznika w tekście, NNNN = numer z nazwy pliku
+   .md. Opis ujęcia zostaje podpisem i tekstem alternatywnym zdjęcia. Zdjęcia zmniejszamy do
+   1600 px i publikujemy z naszego serwera. Prośba: zdjęcie co najmniej 1200 px szerokości,
+   bez napisów i znaków wodnych; brakujący plik zgłosimy, zamiast publikować pusty znacznik.

@@ -1,0 +1,35 @@
+---
+// Nawigacja po cyklu artykułów (pole `cykl` + `czesc` + `czesci` we frontmatterze,
+// notatka Piotra z 20.10.2026). Nad treścią: nazwa cyklu, która to część i lista
+// wszystkich opublikowanych części; pod treścią: poprzednia / następna część.
+// Część zapowiedziana w `czesci`, a jeszcze nieopublikowana, nie dostaje linku.
+import { czesciCyklu } from '../lib/teksty.js';
+
+const { cykl, czesc, czesci, url = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`, miejsce = 'gora' } =
+  Astro.props;
+const lista = czesciCyklu(cykl);
+const ta = lista.findIndex((t) => t.url === url);
+const poprzednia = ta > 0 ? lista[ta - 1] : null;
+const nastepna = ta >= 0 && ta < lista.length - 1 ? lista[ta + 1] : null;
+const razem = Math.max(Number(czesci) || 0, lista.length);
+---
+{cykl && miejsce === 'gora' && (
+  <nav class="karta cykl-artykulow" aria-label={`Cykl: ${cykl}`}>
+    <p class="cykl-naglowek"><strong>Cykl: {cykl}</strong>{czesc && <> · część {czesc}{razem ? ` z ${razem}` : ''}</>}</p>
+    {lista.length > 1 && (
+      <ol class="cykl-lista">
+        {lista.map((t) => (
+          <li value={t.czesc ?? undefined}>
+            {t.url === url ? <span aria-current="page">{t.tytul}</span> : <a href={t.url}>{t.tytul}</a>}
+          </li>
+        ))}
+      </ol>
+    )}
+  </nav>
+)}
+{cykl && miejsce === 'dol' && (poprzednia || nastepna) && (
+  <nav class="cykl-nawigacja" aria-label={`Kolejne części cyklu ${cykl}`}>
+    {poprzednia ? <a class="cykl-poprzednia" href={poprzednia.url}>← Część {poprzednia.czesc}: {poprzednia.tytul}</a> : <span />}
+    {nastepna && <a class="cykl-nastepna" href={nastepna.url}>Część {nastepna.czesc}: {nastepna.tytul} →</a>}
+  </nav>
+)}

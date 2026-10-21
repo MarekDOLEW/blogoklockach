@@ -6,6 +6,7 @@ import { ogStrony, slugZeSciezki } from '../lib/og.js';
 import { dataPl } from '../lib/daty.js';
 import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 import PasekCeny from '../components/PasekCeny.astro';
+import CyklArtykulow from '../components/CyklArtykulow.astro';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { polaczOferty, cenaKatalogowaSetu } from '../lib/oferty.js';
@@ -118,7 +119,9 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
       </p>
     )}
     {pasekNr && <PasekCeny nr={pasekNr} oferty={pasekOferty} cenaKatalogowa={cenaKatalogowaSetu(pasekNr, { sety })} wariant="gora" kotwica={`/zestaw/${pasekNr}/`} />}
+    {frontmatter.cykl && <CyklArtykulow cykl={frontmatter.cykl} czesc={frontmatter.czesc} czesci={frontmatter.czesci} />}
     <slot />
+    {frontmatter.cykl && <CyklArtykulow cykl={frontmatter.cykl} miejsce="dol" />}
     <Faq faq={faqWidoczne} />
     <PowiazaneArtykuly />
     <!-- Nota afiliacyjna zamyka tekst: stoi pod treścią i pod linią „Zobacz też",

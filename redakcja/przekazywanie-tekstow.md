@@ -1,6 +1,6 @@
 # tylkoklocki.pl — jak przekazujemy teksty do publikacji
 
-Notatka dla Marka (do wykorzystania w Code), stan na 20.10.2026. Odpowiedź na notatkę „technika serwisu i format tekstów” z 18.10.2026.
+Notatka dla Marka (do wykorzystania w Code), stan na 20.10.2026, wersja 2 — uwzględnia odpowiedzi z notatki „odpowiedzi do zasad publikacji” z 20.10.2026.
 
 ## Jak teksty do Ciebie trafiają
 
@@ -24,11 +24,13 @@ Pliki .md tekstów 0001–0023 i recenzji 001–010 powstały automatycznie z Wo
 
 ## Znaczniki do zamiany
 
-- `[TABELA CENOWA]` — żywa tabela cen w tekście o jednym zestawie.
+- `[TABELA CENOWA]` — żywa tabela cen; bez numeru dotyczy pierwszego zestawu z pola „Zestawy”.
 - `[TABELA CENOWA 42215]` — tabela dla jednego zestawu w tekście o kilku zestawach.
 - `[TABELA CENOWA 42215, 42216]` — tabela zbiorcza dla kilku zestawów.
 - `[sprawdź aktualne ceny LEGO 12345 – link wewnętrzny]` — link do strony zestawu `/zestaw/12345/`.
 - `[zobacz kategorię LEGO [SERIA] – link wewnętrzny]` — link do kategorii serii.
+- `[zobacz część 2 – link wewnętrzny]`, `[zobacz artykuł o LEGO 7750 – link wewnętrzny]` — odesłania między częściami cyklu i artykułami (patrz „Cykle”).
+- `[ZDJĘCIE: opis ujęcia]` — miejsce na zdjęcie Piotrka (patrz „Zdjęcia własne”).
 
 ## Blok danych dla serwisu
 
@@ -40,6 +42,8 @@ Opis: opis do Google, do 160 znaków
 Tytuł SEO: krótszy tytuł, do 60 znaków (tylko gdy tytuł artykułu jest dłuższy)
 Kategoria: Recenzje
 Zestawy: 42215, 42216
+Ważne do: 2026-10-27
+Cykl: Pociągi LEGO 12 V, część 1 z 4
 FAQ:
 P: pytanie
 O: odpowiedź
@@ -48,33 +52,59 @@ O: odpowiedź
 
 Proponowane mapowanie pól:
 
-- `Opis` → `seo_opis`
+- `Opis` → `opis` (zajawka na listach i opis dla Google jednocześnie)
 - `Tytuł SEO` → `seo_tytul`
 - `Kategoria` → `kategoria`
 - `FAQ` → `faq`
-- `Zestawy` → numery zestawów, których dotyczy tekst
+- `Zestawy` → numery zestawów, których dotyczy tekst; **pierwszy numer to zestaw główny** (zdjęcie okładki, domyślna tabela cenowa). Przy przecieku bez numeru pole może nie wystąpić — wtedy dobierasz zdjęcie poglądowe.
+- `Ważne do` → data końca akcji w formacie RRRR-MM-DD (tylko teksty z terminem); po niej baner „akcja zakończona”
+- `Cykl` → nazwa cyklu i numer części (tylko w cyklach i tekstach wieloczęściowych), do połączenia części na stronie
 
 FAQ pojawia się tylko wtedy, gdy artykuł ma sekcję pytań i odpowiedzi.
+
+## Cykle i teksty wieloczęściowe
+
+Artykuły historyczne mogą tworzyć cykl (np. przegląd serii i osobne artykuły o jej zestawach) albo jeden tekst podzielony na części. Każda część to osobny plik z własnym numerem i polem `Cykl` w bloku danych. Wszystkie części cyklu dostaniesz razem, gotowe do publikacji. Odesłania między częściami są zapisane jako znaczniki `[zobacz … – link wewnętrzny]`.
+
+## Zdjęcia własne
+
+W artykułach historycznych mogą pojawić się zdjęcia z kolekcji Piotrka. Miejsce zdjęcia oznacza osobny akapit `[ZDJĘCIE: opis ujęcia]`, np. `[ZDJĘCIE: 7750 z tendrem, widok z boku]`. Pliki zdjęć przychodzą w tym samym mailu co plik .md, z nazwami zaczynającymi się od numeru artykułu, np. `0025_zdjecie_1.jpg`; kolejność numerów odpowiada kolejności znaczników w tekście. Znacznik pojawia się tylko wtedy, gdy zdjęcie rzeczywiście jest.
 
 ## Kategorie
 
 Znacznik kategorii to drugi człon nazwy pliku (po numerze): Aktualności, Premiery, Recenzje, Rankingi, Porównania, Poradniki, Kalendarze, Historyczne.
 
-**Aktualności** to przecieki, zmiany w ofercie i pojedyncze akcje promocyjne. Na stronie jest już taki dział w sekcji Artykuły i teksty z tym znacznikiem mają trafiać właśnie tam. W notatce z 18.10 tej kategorii zabrakło na liście, dlatego prosimy tylko o potwierdzenie (pytanie 2).
+**Aktualności** to przecieki, zmiany w ofercie i pojedyncze akcje promocyjne. Trafiają do działu Artykuły, na listę /aktualnosci/ i do pasa aktualności na stronie głównej (potwierdzone 20.10.2026).
 
 ## Czego teksty nie zawierają (robi to serwis lub Code)
 
 - linków do sklepów i linków afiliacyjnych;
 - informacji o afiliacji;
-- zdjęć zestawów;
+- zdjęć zestawów z internetu (poza zdjęciami własnymi Piotrka opisanymi wyżej);
 - dat sprawdzenia cen;
 - technicznego SEO.
 
 Ceny w tekście to tylko trwałe poziomy: RRP, dobra cena i próg zakupu.
 
-## Pytania do Marka
+## Opisy zestawów P07
 
-1. Czy Twój import obsłuży znacznik z kilkoma numerami, np. `[TABELA CENOWA 42215, 42216]`?
-2. Czy import przypisze pliki ze znacznikiem **Aktualności** (np. 0022, 0024) do działu Aktualności w sekcji Artykuły?
-3. W jakim formacie najlepiej przekazywać krótkie opisy zestawów P07 (do stron `/zestaw/<numer>/`)? Teraz są to paczki DOCX.
-4. Czy blok `[DANE DLA SERWISU]` w tej postaci Ci pasuje, czy wolisz inne nazwy pól?
+Zostajemy przy paczkach DOCX (import `scripts/import-karty.py`). Każda karta ma stały szablon:
+
+- tytuł „LEGO <numer> <nazwa>”;
+- sekcja „Opis zestawu”;
+- sekcja „Metryka zestawu” — tabela dwukolumnowa (pole | wartość);
+- sekcja „FAQ” — pytania jako śródtytuły, odpowiedzi jako akapity.
+
+Nazwy pól metryki są stałe: Numer, Nazwa, Seria, Premiera, Elementy, Wiek, Minifigurki / postacie, Cena katalogowa w Polsce, Cena katalogowa za element, Typ zestawu, Kolekcja / system, Dystrybucja, a dla GWP i nagród Insiders — Sposób uzyskania. Każdą zmianę nazwy pola zgłosimy wcześniej. Cenę katalogową w metryce sprawdzamy na LEGO.pl.
+
+## Ustalenia z 20.10.2026
+
+1. `[TABELA CENOWA 42215, 42216]` działa i daje tabelę zbiorczą.
+2. Aktualności — potwierdzone (patrz „Kategorie”).
+3. P07 — paczki DOCX według stałego szablonu (patrz wyżej).
+4. Blok danych — pasuje; `Opis` → `opis`, pierwszy numer w `Zestawy` = okładka, nowe pole `Ważne do`.
+
+## Otwarte pytania
+
+1. Czy pole `Cykl` i znaczniki odesłań `[zobacz … – link wewnętrzny]` wystarczą, żeby połączyć części cyklu na stronie (np. nawigacją „poprzednia / następna część”)?
+2. Czy taki sposób przekazywania zdjęć (`[ZDJĘCIE: …]` w tekście i pliki `NNNN_zdjecie_N.jpg` w mailu) Ci pasuje?
