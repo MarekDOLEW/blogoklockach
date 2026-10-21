@@ -133,12 +133,29 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-21 08:15 · RADAR · Do zrobienia
+
+**faniklockow.pl · 20.10** — Opisali nową kumulację na lego.pl: trzy gratisy naraz, 20–27.10 — od 165 zł polybag 30717, od 625 zł 40916 Kwiatowa ramka na zdjęcia, od 670 zł w Star Wars 40765 Ośrodek szkoleniowy na Kamino. Progi i daty sprawdziłem u źródła na `lego.com/pl-pl/page/lego-offers-promotions` — zgadzają się co do złotówki i co do dnia.
+**Mamy?** — nie: `/kalendarz-promocji-lego/` (zaktualizowano 16.10) nie ma tego okna wcale, a w liście „co trwa teraz" trzyma okno 13–19.10 ze statusem „trwa" dwa dni po jego zamknięciu.
+**Zrobić:** — dopisać do `/kalendarz-promocji-lego/` sekcję okna 20–27.10 z trzema progami i zamknąć status okna 13–19.10; przy okazji wpisać progi do hubów 30717, 40916 i 40765 (zamyka dzisiejszą pozycję Scouta).
+**Kto:** — Code (dane, strona)
+
+Uwaga do protokołu, bo to drugi raz: lista „co trwa teraz" pokazała zamknięte okno jako trwające —
+pierwszy raz zanotowane 08.10 (wrześniowe gratisy wisiały dziewięć dni po czasie). Pojedyncza poprawka
+tego nie rozwiąże. Wniosek: okna w kalendarzu mają daty końca, więc status „trwa" da się policzyć
+z danych zamiast trzymać go ręcznie — do rozważenia osobno, nie w tym przebiegu.
+
 ## 2026-10-21 05:25 · SCOUT · Do zrobienia
 
 **W sklepie LEGO trwa akcja z trzema gratisami 20–27 października 2026: 30717 szkielet od 40 euro, 40916 kwiatowa ramka od 150 euro i 40765 Ośrodek szkoleniowy na Kamino od 160 euro przy zakupach Star Wars — StoneWars pisze, że Kamino jest tylko w Niemczech, nie w Austrii i Szwajcarii.**
 **Mamy?** — częściowo: 40916 ma hub z ceną 109,99 zł i dopisanym zdaniem o powrocie do akcji, ale progów dla polskiego sklepu nie znamy
 **Zrobić:** — wejść na lego.pl i sprawdzić, czy akcja obowiązuje w Polsce i z jakimi progami w złotych (trzy gratisy czy mniej, do kiedy); wynik podać numerami, żebym wpisał go do hubów 30717, 40916 i 40765
 **Kto:** — Cowork (przeglądarka)
+↻ 21.10.2026 08:15 (Radar): progi sprawdzone u źródła na `lego.com/pl-pl/page/lego-offers-promotions`,
+bez przeglądarki — akcja obowiązuje w Polsce, trzy gratisy, **20–27 października 2026**: od **165 zł**
+30717 Śmieszny halloweenowy szkielet, od **625 zł** 40916 Kwiatowa ramka na zdjęcia, od **670 zł**
+w zestawach Star Wars 40765 Ośrodek szkoleniowy na Kamino. Zadanie dla Coworka zbędne; zostaje wpisanie
+tych liczb do hubów 30717, 40916 i 40765 — Kto: Code (dane).
 
 ## 2026-10-20 13:05 · KONTROLER · Do zrobienia
 

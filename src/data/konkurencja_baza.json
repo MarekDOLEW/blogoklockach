@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-20",
-    "przebieg": "scheduled 2026-10-20 08:00",
+    "ostatnia_aktualizacja": "2026-10-21",
+    "przebieg": "scheduled 2026-10-21 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 306,
+    "liczba_wpisow": 309,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -33,7 +33,8 @@
       "2026-10-17": "Dzien z dwoma konkretami i jedna pomylka po drodze, warta zapisania. (1) faniklockow opisali promocje Smyku 'kup min. 2 produkty, -15%' - potwierdzone u zrodla (6462 produkty, rabat automatyczny w koszyku, LEGO objete), bez daty konca. To nasza luka mechaniczna: pokazujemy ceny za sztuke i nigdzie nie mowimy, ze przy dwoch zestawach u Smyku jest taniej; przy 10375, 60495 i 76317 Smyk jest u nas najtanszy. (2) zklockow ruszyl po tygodniu i wystawil karty 11388 i 40898. Pierwszy odruch - 'nie mamy tych numerow' - byl FALSZYWY: szukalem w katalog.json (plik z listingu lego.com), a rejestrem zestawow jest sety.json, gdzie 11388 stoi kompletny od wczoraj razem z wpisem w rrp_potwierdzone.json. Wniosek na przyszle przebiegi: luke w danych sprawdzamy w sety.json, nie w katalog.json. Realna reszta: cena katalogowa 40898 (124,99 zl u nich, null u nas po decyzji Marka z 15.10) oraz data - lego.com/pl-pl podaje dla 11388 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi o gratisie 40898 w dniach 1-8 listopada. (3) Struktura promoklocki.pl i zklockow.pl bez zmian; u promoklockow licznik paginacji 222 -> 224 (nowe produkty, nie nowa funkcja).",
       "2026-10-18": "Dzien bez tematu zakupowego. Dwie nowe publikacje, obie to kalendarze eventow u faniklockow (2026 i 2027), a fanklockow tego samego dnia przedatowali swoj 'Kalendarz - klockowe wydarzenia' z 15.10 na 17.10. Zbieznosc warta odnotowania: obaj buduja evergreeny eventowe na przelomie sezonu, kazdy z wlasnym adresem na kolejny rocznik. Nie wchodzimy w to - nie mamy zrodla danych o wystawach i targach, a te frazy nie prowadza do zakupu; gdyby kiedys wchodzic, to przez zgloszenia organizatorow, bo tak robi konkurencja. zklockow bez ruchu: log /aktualnosci stoi na wpisie z 15.10 (11388 i 40898). promoklocki bez zmian strukturalnych - te same kategorie i karty produktow, licznik paginacji 224 -> 223 (ruch w liczbie produktow, nie nowa funkcja).",
       "2026-10-19": "Noc z 18 na 19.10 to zbiorowy skok na rocznik 2027: fanklockow wystawil cztery strony per seria (Star Wars, Ninjago, Friends, City), faniklockow jedna strone zbiorcza. Oba serwisy robia to teraz, szesc tygodni przed styczniowa fala. Nasza strona /zapowiedzi-lego-2027/ nie byla ruszana od 27.08 i w dwoch miejscach mowi nieprawde: 'Grupa LEGO nie potwierdzila jeszcze zadnego zestawu na 2027 rok' oraz 'Super Mario: jedyna potwierdzona zapowiedz'. Tymczasem sety.json ma cztery zestawy 2027-01 z polskimi cenami (71875, 67008, 71873, 67006), a przecieki.json ma dla nich rozstrzygniecia 'potwierdzony'/'zmieniony' z pierwszej dekady pazdziernika. Czyli dane wyprzedzily tekst o siedem tygodni - to nie luka wobec konkurencji, to rozjazd wewnatrz naszego serwisu. Drugi watek: fanklockow prowadzi cykl tygodniowy 'LEGO do szafy' (co z wycofywanych kupic pod odsprzedaz) - my mamy lepsze dane w /wycofania i zadnej formy, ktora je co tydzien wybiera.",
-      "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja)."
+      "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja).",
+      "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow."
     }
   },
   "publikacje": [
@@ -3664,6 +3665,43 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Odcinek podcastu podsumowujacy dwa tygodnie premier (Batmobile 67008/67009 i wenecka fala 11388/40898). Format audio, ktorego nie prowadzimy i nie planujemy; tematy z odcinka mamy opisane tekstem - /artykuly/lego-11388-wenecka-okolica-premiera/ i /zapowiedzi-lego-2027/ po wczorajszej aktualizacji."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Nowa kumulacja na stronie LEGO. Tym razem najciekawiej wypada Star Wars",
+      "url": "https://faniklockow.pl/2026/10/20/nowa-kumulacja-na-stronie-lego-tym-razem-najciekawiej-wypada-star-wars/",
+      "data_publikacji": "2026-10-20",
+      "data_wykrycia": "2026-10-21",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Trzy gratisy naraz na lego.pl w dniach 20-27.10: od 165 zl polybag 30717 Smieszny halloweenowy szkielet, od 625 zl 40916 Kwiatowa ramka na zdjecia, od 670 zl w zestawach Star Wars 40765 Osrodek szkoleniowy na Kamino. SPRAWDZONE PRZEZ NAS U ZRODLA 21.10 na lego.com/pl-pl/page/lego-offers-promotions: wszystkie trzy progi i obie daty zgadzaja sie co do zlotowki i co do dnia, wiec tym razem ich liczby sa prawdziwe. Nasz /kalendarz-promocji-lego/ (zaktualizowano 16.10) tego okna nie ma wcale, a w liscie 'co trwa teraz' trzyma okno 13-19.10 ze statusem 'trwa' dwa dni po jego zamknieciu. To powtorka bledu, ktory baza notuje z 08.10 (wrzesniowe gratisy wisialy jako 'trwa' dziewiec dni po czasie). Progi zamykaja tez otwarte pytanie Scouta z dzisiejszego dziennika - mial tylko niemieckie 40/150/160 euro."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Jakie gratisy pojawia sie w sklepach LEGO w 2026 roku - aktualizowana lista promocji",
+      "url": "https://faniklockow.pl/2026/10/20/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-10-20",
+      "data_wykrycia": "2026-10-21",
+      "typ": "kalendarz",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Evergreen z lista gratisow calego roku, przedatowany przy okazji nowej kumulacji - ten sam mechanizm, co przy ich kalendarzu wydarzen. My mamy /kalendarz-promocji-lego/ i on jest szerszy (punkty Insiders, premiery, wycofania, Black Friday), ale wymaga pilnowania statusow okien - patrz poprzedni wpis."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Dragon Ball na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/20/zapowiedzi-serii-lego-dragon-ball-na-2027-rok/",
+      "data_publikacji": "2026-10-20",
+      "data_wykrycia": "2026-10-21",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Trzeci dzien rozbudowy hubow 2027 po obu stronach: fanklockow dolozyli 20.10 strony Ideas, K-Pop Demon Hunters i Dragon Ball (wszystkie w bazie), faniklockow tego samego dnia Dragon Ball. U nas /zapowiedzi-lego-2027/ wymienia Dragon Ball w zdaniu o kolejnych seriach i to na dzis wystarczy - to przecieki niskiej pewnosci na zestawy z nizszych polek, bez wplywu na ruch zakupowy sezonu XI-XII."
     }
   ],
   "obserwacje_strategiczne": {
