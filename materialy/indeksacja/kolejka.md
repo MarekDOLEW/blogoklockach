@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-10-20
+# Kolejka „Poproś o zindeksowanie" — 2026-10-21
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
@@ -15,26 +15,21 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/artykuly/lego-11505-grzyby-lesne-recenzja/ — URL is unknown to Google (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-2. https://tylkoklocki.pl/artykuly/lego-60447-gorska-terenowka-4x4-recenzja/ — URL is unknown to Google (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-3. https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/ — Crawled - currently not indexed, crawl 2026-08-31 (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-4. https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/ — Crawled - currently not indexed, crawl 2026-09-22 (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-5. https://tylkoklocki.pl/artykuly/slowniczek-lego/ — Crawled - currently not indexed, crawl 2026-09-22 (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-6. https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-7. https://tylkoklocki.pl/prezentowniki/lego-batman/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-8. https://tylkoklocki.pl/prezentowniki/lego-minecraft/ — Crawled - currently not indexed, crawl 2026-09-11 (ponownie: w kolejce 2026-10-17, Google nie odwiedził)
-9. https://tylkoklocki.pl/prezentowniki/lego-star-wars/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-10. https://tylkoklocki.pl/serie/archiwalne/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-11. https://tylkoklocki.pl/serie/archiwum/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-12. https://tylkoklocki.pl/serie/art/ — URL is unknown to Google (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-13. https://tylkoklocki.pl/serie/bionicle/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-14. https://tylkoklocki.pl/serie/botanicals/ — URL is unknown to Google (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
-15. https://tylkoklocki.pl/serie/bricklink-designer-program/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-15, Google nie odwiedził)
+1. https://tylkoklocki.pl/serie/art/ — URL is unknown to Google (ponownie: w kolejce 2026-10-20, Google nie odwiedził)
+2. https://tylkoklocki.pl/serie/bionicle/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-20, Google nie odwiedził)
+3. https://tylkoklocki.pl/serie/botanicals/ — URL is unknown to Google (ponownie: w kolejce 2026-10-20, Google nie odwiedził)
+4. https://tylkoklocki.pl/serie/bricklink-designer-program/ — URL is unknown to Google (ponownie: w kolejce 2026-10-20, Google nie odwiedził)
+5. https://tylkoklocki.pl/serie/ninjago/ — URL is unknown to Google (ponownie: w kolejce 2026-10-18, Google nie odwiedził)
+6. https://tylkoklocki.pl/serie/pirates/ — URL is unknown to Google (ponownie: w kolejce 2026-10-18, Google nie odwiedził)
+7. https://tylkoklocki.pl/serie/the-lego-movie/ — URL is unknown to Google (ponownie: w kolejce 2026-10-19, Google nie odwiedził)
+8. https://tylkoklocki.pl/artykuly/lego-11390-dragon-ball-shenron-goku-premiera/ — URL is unknown to Google
+9. https://tylkoklocki.pl/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/ — URL is unknown to Google
+10. https://tylkoklocki.pl/artykuly/lego-star-wars-styczen-2027-przecieki/ — URL is unknown to Google
+11. https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego/ — URL is unknown to Google
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 30. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 15. Huby działów do odświeżenia crawla (tylko w poniedziałek): 0.
-- Submitted and indexed: 15
-- URL is unknown to Google: 4
-- Crawled - currently not indexed: 4
-- Discovered - currently not indexed: 7
+Sprawdzone dziś w API: 95. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 7. Huby działów do odświeżenia crawla (tylko w poniedziałek): 0.
+- Submitted and indexed: 84
+- URL is unknown to Google: 10
+- Discovered - currently not indexed: 1
