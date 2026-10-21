@@ -33,13 +33,6 @@
    "kto": "Marek",
    "uwagi": "Uroczy kanarek Tweety — Media Expert 69,99 przy RRP 144,99; Łowca potwierdził cenę na karcie 13.10 i 14.10"
   },
-  "77253": {
-   "cena": 57.32,
-   "sklep": "ceneo/allegro",
-   "data": "2026-10-20",
-   "kto": "Marek",
-   "uwagi": "Bugatti Vision GT — oferta Allegro (business.allegro.pl, nr 19019403135) widoczna przez Ceneo, 57,32 zł przy RRP 114,99; poza afiliacyjnym feedem Allegro"
-  },
   "21268": {
    "cena": 40,
    "sklep": "ceneo",
@@ -83,6 +76,13 @@
    "data": "2026-10-16",
    "kto": "Marek",
    "uwagi": "Dekoracyjna Pisanka — olana decyzją Marka (16.10, czat Łowcy); oferty Allegro 38 i Ceneo 39,71 przy RRP 81,99 zostają ukryte, mail przestaje pytać"
+  },
+  "77253": {
+   "cena": 57.32,
+   "sklep": "ceneo/allegro",
+   "data": "2026-10-21",
+   "kto": "Marek",
+   "uwagi": "Bugatti Vision GT — olany decyzją Marka 21.10 (czat Łowcy), uchyla potwierdzenie z 20.10 (oferta Allegro nr 19019403135 przez Ceneo); oferta zostaje ukryta"
   }
  }
 }

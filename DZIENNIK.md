@@ -284,6 +284,7 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 77253 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
 **Kto:** — Marek (decyzja)
 → zamknięte 20.10.2026: Marek potwierdził (oferta Allegro widoczna przez Ceneo), wpis w `deale_potwierdzone.json`.
+↻ 21.10: Marek zmienił werdykt na „olej" (czat Łowcy) — 77253 przeniesiony do odrzuconych, oferta ukryta
 
 
 ## 2026-10-20 05:45 · DANE WT · Do zrobienia
