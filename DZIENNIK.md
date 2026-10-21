@@ -133,6 +133,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-21 09:00 · ŁOWCA · Do zrobienia
+
+**Nowa pozycja w podejrzanym rynku: 21268 Dom prosiaczka na Ceneo za 40 zł przy RRP 81,99 (−51%)**
+**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
+**Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 21268 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-10-21 · CODE · Okno 20–27.10 w kalendarzu i progi w hubach
 
 - `/kalendarz-promocji-lego/` — nowa sekcja `#pazdziernik-kumulacja` z tabelą trzech progów

@@ -107,8 +107,8 @@
  "21067": {
   "nazwa": "Tower Bridge",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 899,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 898.99,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "11512": {
@@ -744,9 +744,9 @@
  "75685": {
   "nazwa": "Obraz Emerald City",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 447.99,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 439.99,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
  },
  "60511": {
   "nazwa": "Retro pociąg z lokomotywą parową",
@@ -1101,8 +1101,8 @@
  "42682": {
   "nazwa": "Domek na luksusowym kempingu",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 67.73,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 67.72,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "10472": {
@@ -1262,8 +1262,8 @@
  "71865": {
   "nazwa": "Bitwa lodowego smoka Zane'a",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 147.89,
-  "najnizsza_data": "2026-08-24",
+  "najnizsza_cena": 147.35,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "71863": {
@@ -1584,9 +1584,9 @@
  "42151": {
   "nazwa": "Bolid Bugatti",
   "cena_katalogowa": 214.99,
-  "najnizsza_cena": 152.98,
-  "najnizsza_data": "2026-10-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 151.99,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
  },
  "42161": {
   "nazwa": "Lamborghini Huracán Tecnica",
@@ -2221,8 +2221,8 @@
  "76156": {
   "nazwa": "Domo powstaje",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 224.9,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 209,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "60471": {
@@ -2431,9 +2431,9 @@
  "76466": {
   "nazwa": "Kamień filozoficzny – edycja kolekcjonerska",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 488.99,
-  "najnizsza_data": "2026-10-20",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 488,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
  },
  "43224": {
   "nazwa": "Zamek króla Magnifico",
@@ -2641,9 +2641,9 @@
  "31168": {
   "nazwa": "Średniowieczny zamek rycerzy konnych, turniej lub miasto",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 356.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 349.99,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
  },
  "72037": {
   "nazwa": "Mario Kart: Mario i Standard Kart",
@@ -2879,9 +2879,9 @@
  "43258": {
   "nazwa": "Barka Kakamorów",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 274.97,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 274.96,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
  },
  "42179": {
   "nazwa": "Planeta Ziemia i Księżyc na orbicie",
@@ -3250,9 +3250,9 @@
  "71849": {
   "nazwa": "Nya kontra zmutowany potwór na spinnerze",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.89,
-  "najnizsza_data": "2026-10-01",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 27.08,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43262": {
   "nazwa": "Classic Suknie Diaboliny i Cruelli De Mon",
@@ -3600,8 +3600,8 @@
  "43266": {
   "nazwa": "Suknia Kopciuszka",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 110.99,
-  "najnizsza_data": "2026-10-10",
+  "najnizsza_cena": 109.99,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "71804": {
@@ -4391,8 +4391,8 @@
  "76208": {
   "nazwa": "Kozia łódź",
   "cena_katalogowa": 279.99,
-  "najnizsza_cena": 245.98,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 225,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "76309": {
@@ -4419,9 +4419,9 @@
  "43303": {
   "nazwa": "Mała Dżasmina i Roszpunka",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 28.96,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 27.6,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43239": {
   "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
@@ -4440,9 +4440,9 @@
  "42675": {
   "nazwa": "Jednorożcowa dostawa tortu",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.99,
-  "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 27.08,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "60484": {
   "nazwa": "Pojazdy – Gamingowa wyścigówka",
@@ -4706,8 +4706,8 @@
  "21365": {
   "nazwa": "Papużki nierozłączki",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 194.4,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 194.3,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "77245": {
@@ -5595,8 +5595,8 @@
  "43260": {
   "nazwa": "Zabawy Vaiany na wyspie",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.58,
-  "najnizsza_data": "2026-10-19",
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "60488": {
@@ -5840,8 +5840,8 @@
  "60373": {
   "nazwa": "Łódź strażacka",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.99,
-  "najnizsza_data": "2026-09-29",
+  "najnizsza_cena": 54.87,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "31170": {
@@ -5952,8 +5952,8 @@
  "75333": {
   "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 117.64,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 117.63,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "10431": {
@@ -6190,8 +6190,8 @@
  "11040": {
   "nazwa": "Magiczny zestaw z przezroczystymi klockami",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.95,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "71823": {
@@ -7303,8 +7303,8 @@
  "10475": {
   "nazwa": "Maszyny budowlane 3 w 1",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 69.99,
-  "najnizsza_data": "2026-10-15",
+  "najnizsza_cena": 68.99,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "10471": {
@@ -7359,8 +7359,8 @@
  "76334": {
   "nazwa": "Epicka bitwa: Spider-Man kontra Sandman",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 77.43,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 74.87,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "42684": {
@@ -7401,8 +7401,8 @@
  "76467": {
   "nazwa": "Dom Luny Lovegood",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 297.88,
-  "najnizsza_data": "2026-10-09",
+  "najnizsza_cena": 288.99,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "allegro"
  },
  "10347": {
@@ -7870,8 +7870,8 @@
  "76442": {
   "nazwa": "Zamek Hogwart: Zajęcia z zaklęć i uroków",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 56.6,
-  "najnizsza_data": "2026-10-19",
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-10-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "43285": {
