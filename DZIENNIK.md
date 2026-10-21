@@ -170,6 +170,12 @@ grosza, czyli wycena z promoklocki wpisana 15.10 była trafna.
 **Mamy?** — częściowo: hub `/zestaw/30717/` pokazuje oferty 14–17 zł, w polu ceny katalogowej kreskę, a producent ma dla niego kwotę
 **Zrobić:** — jedna decyzja: czy saszetki rozdawane jako gratis dostają wycenę dodatku z karty lego.pl (dla 30717 byłoby to 16,49 zł), czy zostają bez ceny jak pozostałe sześć polybagów
 **Kto:** — Marek (decyzja)
+→ zamknięte 21.10.2026: decyzja Marka — 30717 dostaje wycenę 16,49 zł. Wpisane do `katalog.json`
+(`cena_zrodlo`: karta produktu lego.com/pl-pl). Sprostowanie do mojego zdania wyżej: 30717 nie miał
+`bez_rrp` w żadnym pliku — to pozostałe sześć saszetek (30714, 30715, 30722, 30723, 30724, 30728, 30735)
+je ma, a 30717 miał po prostu pustą cenę. Tych sześciu decyzja nie dotyczy i zostają bez zmian.
+Hub `/zestaw/30717/` pokazuje teraz cenę katalogową 16,49 zł obok ofert 14–17 zł, więc widać, że rynek
+schodzi poniżej wyceny producenta.
 
 ## 2026-10-20 13:05 · KONTROLER · Do zrobienia
 
