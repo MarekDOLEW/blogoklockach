@@ -241,9 +241,16 @@ Wars jest w sklepach zewnętrznych serią mocno przecenianą. Sprawdziliśmy wsz
 zestawy Star Wars z bieżącego listingu LEGO.com, dla których mamy cenę katalogową
 i ofertę zewnętrzną — 69 pozycji: **67 jest tańszych poza LEGO.com, a mediana
 różnicy to 30%**. Przy koszyku za 670 zł oznacza to mniej więcej **200 zł dopłaty**
-wobec tych samych zestawów kupionych gdzie indziej. Upominek wyceniony przez LEGO na
-**129,99 zł** tej różnicy nie pokrywa, a 40916 (109,99 zł) i szkielet, którego LEGO
-w złotych nie wycenia, też jej nie nadrobią.
+wobec tych samych zestawów kupionych gdzie indziej.
+
+Po drugiej stronie stoją trzy upominki, które LEGO wycenia łącznie na **256,47 zł**
+(16,49 + 109,99 + 129,99). Na papierze dopłata się więc zwraca — i tu trzeba powiedzieć
+rzecz, której nie mówi żaden komunikat: **to wyceny katalogowe producenta, a nie ceny,
+za które te zestawy chodzą.** Sprawdzić da się tylko jedną z trzech: szkielet 30717
+kupisz w sklepach zewnętrznych za 14–17 zł, czyli mniej więcej tyle, ile podaje LEGO.
+40916 i 40765 nie są sprzedawane osobno, więc ich realnej wartości nikt dziś nie zna,
+a upominki GWP zwykle chodzą wyraźnie poniżej wyceny. Licz więc tak: **dopłata jest
+pewna, wartość gratisów nie.**
 
 **Kiedy to okno naprawdę się opłaca:** gdy kupujesz zestaw, przy którym LEGO.com nie
 przepłaca. Dziś w Star Wars jest ich sześć: [75457 Executor](/zestaw/75457/) — w naszych

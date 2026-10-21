@@ -151,6 +151,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
   podaje jego wartości w złotych. 40916 — dopisany polski próg do istniejącego opisu.
 - Build 10061 stron; progi widoczne na hubach 30717, 40916 i 40765.
 - Zamyka pozycję Radaru z 21.10 i pytanie Scouta o progi (jego wpis ma linię ↻ z liczbami).
+- **Naprawa własnej szkody, zanim ktokolwiek ją zauważył.** Mój pierwszy commit (`6da26e0`) wylądował
+  nad commitem Scouta `f2cb67c`, który godzinę wcześniej, z decyzji Marka, wpisał 30717 cenę katalogową
+  16,49 zł do `katalog.json`. Nie nadpisałem tej liczby — zgasiłem ją inaczej: mój nowy wpis 30717
+  w `sety.json` miał `bez_rrp`, a `cenaKatalogowaSetu()` w `src/lib/oferty.js` zwraca `null`, gdy
+  `bez_rrp` stoi w którymkolwiek pliku („bez_rrp wygrywa z każdą liczbą", audyt 12.10). Hub
+  `/zestaw/30717/` przestał więc pokazywać 16,49 zł — sprawdzone w zbudowanym HTML, nie z założenia.
+  Poprawione: `bez_rrp` usunięte, `cena_katalogowa` w `sety.json` zostaje pusta, więc łańcuch spada
+  do `katalog.json` i liczba Scouta znów jest jedynym domem tej ceny. Teksty 30717 i akapit w kalendarzu
+  przepisane — mówiły, że LEGO nie wycenia szkieltu w złotych, a wycenia.
+- **Wniosek na przyszłość:** zakładając wpis w `sety.json` dla gratisu, sprawdź najpierw `katalog.json`.
+  `bez_rrp` to nie opis, to wyłącznik ceny na hubie i działa między plikami.
 
 ## 2026-10-21 08:15 · RADAR · Do zrobienia
 
