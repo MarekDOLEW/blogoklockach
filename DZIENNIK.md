@@ -156,6 +156,20 @@ bez przeglądarki — akcja obowiązuje w Polsce, trzy gratisy, **20–27 paźdz
 30717 Śmieszny halloweenowy szkielet, od **625 zł** 40916 Kwiatowa ramka na zdjęcia, od **670 zł**
 w zestawach Star Wars 40765 Ośrodek szkoleniowy na Kamino. Zadanie dla Coworka zbędne; zostaje wpisanie
 tych liczb do hubów 30717, 40916 i 40765 — Kto: Code (dane).
+→ zamknięte 21.10.2026: sprawdzone bez Coworka, kartami produktowymi lego.com/pl-pl przez Firecrawl
+(serwer dostaje 403). Akcja JEST w Polsce, wszystkie trzy gratisy, progi w złotych: 30717 od 165 zł
+(wartość 16,49 zł), 40916 od 625 zł (109,99 zł), 40765 od 670 zł wydanych na Star Wars (129,99 zł).
+Kamino, o którym StoneWars pisał, że nie ma go w Austrii i Szwajcarii, w polskim sklepie jest.
+Wpisane: polski próg w opisie 40916, źródło ceny 40916 i 40765 przepisane z promoklocki na kartę
+producenta (ta sama kwota, pewniejsze źródło). Ceny 40916 — 109,99 zł — producent potwierdził co do
+grosza, czyli wycena z promoklocki wpisana 15.10 była trafna.
+
+## 2026-10-21 07:10 · SCOUT · Do zrobienia
+
+**Karta 30717 na lego.com/pl-pl podaje wartość upominku 16,49 zł, a u nas ten zestaw ma w `katalog.json` cenę pustą i `bez_rrp` z powodem „LEGO nie sprzedaje jej w polskim sklepie" — saszetki były wyłączone z Twojej decyzji z 15.10 o wycenach gratisów.**
+**Mamy?** — częściowo: hub `/zestaw/30717/` pokazuje oferty 14–17 zł, w polu ceny katalogowej kreskę, a producent ma dla niego kwotę
+**Zrobić:** — jedna decyzja: czy saszetki rozdawane jako gratis dostają wycenę dodatku z karty lego.pl (dla 30717 byłoby to 16,49 zł), czy zostają bez ceny jak pozostałe sześć polybagów
+**Kto:** — Marek (decyzja)
 
 ## 2026-10-20 13:05 · KONTROLER · Do zrobienia
 

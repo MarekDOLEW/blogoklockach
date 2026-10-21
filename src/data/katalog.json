@@ -11586,7 +11586,8 @@
       "rok": 2025,
       "elementy": 190,
       "status": "eol",
-      "cena_katalogowa": 129.99
+      "cena_katalogowa": 129.99,
+      "cena_zrodlo": "lego.com/pl-pl — karta produktu, wartość upominku (Firecrawl, 21.10.2026)"
     },
     {
       "numer": "40771",
@@ -65382,7 +65383,7 @@
       "status": "eol",
       "cena_katalogowa": 109.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2026-03 (zaciąg 2026-09-15)",
-      "cena_zrodlo": "promoklocki.pl (wycena dodatku), 15.10.2026"
+      "cena_zrodlo": "lego.com/pl-pl — karta produktu, wartość upominku (Firecrawl, 21.10.2026)"
     },
     {
       "numer": "6614216",
