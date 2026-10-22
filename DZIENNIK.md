@@ -142,6 +142,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-22 · CODE · Karty P07 Piotra: partie 14–15 (50 kart) wgrane
+
+karty_setow 1424 → 1474, wszystkie 50 hubów indeksowalnych. Blokada RRP 42621: Piotr 429,99 vs katalog 449,99 —
+zklockow.pl i promoklocki.pl potwierdzają 429,99, dopisane do `rrp_potwierdzone.json`. Elementy: 43242
+(Piotr 2228 vs 2208) i 5009005 (152 vs 150) — zostaje katalog.
+**Stan:** na main.
 ## 2026-10-22 06:50 · SCOUT · Ceny polskie 67006 i 71873
 
 **Oba zestawy z jesiennej partii, które czekały na polską cenę katalogową, mają ją na kartach lego.com/pl-pl: 67006 Panorama uniwersum Marvela — 429,99 zł (przedsprzedaż), 71873 Cole kontra Zły Cole ze spinnerem — 41,99 zł (wkrótce dostępne, 1 stycznia 2027).**
