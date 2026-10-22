@@ -143,6 +143,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-22 · CODE · Dwa teksty Piotra (.md): NINJAGO styczeń 2027 i recenzja 75439
+
+Pierwszy import przez `import-artykul-md.py` (blok danych → frontmatter, znaczniki → linki i tabela cen).
+Dopisane: FAQ (po 3), tagi; w recenzji 4 zdjęcia z galerii 75439 i linki do recenzji 75438 i huba 75304;
+w NINJAGO link do /przecieki/.
+- `/artykuly/lego-ninjago-styczen-2027-przecieki/` (Aktualności, okładka 71875)
+- `/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/` (Recenzje)
+**Stan:** na main.
+
 ## 2026-10-22 · CODE · Karty P07 Piotra: partie 14–15 (50 kart) wgrane
 
 karty_setow 1424 → 1474, wszystkie 50 hubów indeksowalnych. Blokada RRP 42621: Piotr 429,99 vs katalog 449,99 —
