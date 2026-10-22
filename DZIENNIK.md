@@ -133,6 +133,22 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-22 08:10 · RADAR · Do zrobienia
+
+**fanklockow.pl · 21.10** — Uruchomili na swoim Discordzie kanał ze statusami zestawów z lego.pl; pierwszy raz serwis redakcyjny z naszej piątki wchodzi w powiadomienia o dostępności.
+**Mamy?** — częściowo: mamy i dane (`lego_pl_etykieta`, `wyprzedaneWLego`, plakietka „wyprzedane" na hubach od 17.10), i własny kanał („Obserwuj zestaw", double opt-in, `scripts/alerty-cen.mjs`) — ale alerty są wyłącznie cenowe (20% pod katalog albo rekord) i dokładnie to obiecuje formularz na hubie. Zmiana dostępności nie wywołuje u nas niczego.
+**Zrobić:** — decyzja, czy „Obserwuj zestaw" ma wysyłać też alert o powrocie do sprzedaży lub wyprzedaniu; na „tak" zmienia się treść obietnicy w `ObserwujCene.astro` i trzeba o tym napisać zapisanym, bo zgodzili się na alerty cenowe.
+**Kto:** — Marek (decyzja)
+
+Dlaczego to decyzja, a nie zadanie dla Code: dane i mechanizm są gotowe, kosztem jest liczba maili
+i wiarygodność obietnicy, którą złożyliśmy ludziom zapisującym się na alerty. Technicznie to kilka
+linii w `alerty-cen.mjs`.
+
+Przy okazji poprawiona własna stara ocena w `konkurencja_baza.json`: wpis zklockow z 24.09 o prezentach
+pod choinkę stał jako LUKA, a lukę zamknęliśmy 07.10 stroną `/prezentowniki/prezenty-pod-choinke/`.
+Zmienione na PRZEBIJAMY, żeby Kontroler nie zbierał zamkniętego zadania. Dzisiejszy tekst faniklockow
+o prezentach świątecznych to drugi serwis na tej frazie — tamten sygnał z września był trafny.
+
 ## 2026-10-21 09:00 · ŁOWCA · Do zrobienia
 
 **Nowa pozycja w podejrzanym rynku: 21268 Dom prosiaczka na Ceneo za 40 zł przy RRP 81,99 (−51%)**

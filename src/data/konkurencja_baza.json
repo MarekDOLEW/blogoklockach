@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-21",
-    "przebieg": "scheduled 2026-10-21 08:00",
+    "ostatnia_aktualizacja": "2026-10-22",
+    "przebieg": "scheduled 2026-10-22 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 309,
+    "liczba_wpisow": 313,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -34,7 +34,8 @@
       "2026-10-18": "Dzien bez tematu zakupowego. Dwie nowe publikacje, obie to kalendarze eventow u faniklockow (2026 i 2027), a fanklockow tego samego dnia przedatowali swoj 'Kalendarz - klockowe wydarzenia' z 15.10 na 17.10. Zbieznosc warta odnotowania: obaj buduja evergreeny eventowe na przelomie sezonu, kazdy z wlasnym adresem na kolejny rocznik. Nie wchodzimy w to - nie mamy zrodla danych o wystawach i targach, a te frazy nie prowadza do zakupu; gdyby kiedys wchodzic, to przez zgloszenia organizatorow, bo tak robi konkurencja. zklockow bez ruchu: log /aktualnosci stoi na wpisie z 15.10 (11388 i 40898). promoklocki bez zmian strukturalnych - te same kategorie i karty produktow, licznik paginacji 224 -> 223 (ruch w liczbie produktow, nie nowa funkcja).",
       "2026-10-19": "Noc z 18 na 19.10 to zbiorowy skok na rocznik 2027: fanklockow wystawil cztery strony per seria (Star Wars, Ninjago, Friends, City), faniklockow jedna strone zbiorcza. Oba serwisy robia to teraz, szesc tygodni przed styczniowa fala. Nasza strona /zapowiedzi-lego-2027/ nie byla ruszana od 27.08 i w dwoch miejscach mowi nieprawde: 'Grupa LEGO nie potwierdzila jeszcze zadnego zestawu na 2027 rok' oraz 'Super Mario: jedyna potwierdzona zapowiedz'. Tymczasem sety.json ma cztery zestawy 2027-01 z polskimi cenami (71875, 67008, 71873, 67006), a przecieki.json ma dla nich rozstrzygniecia 'potwierdzony'/'zmieniony' z pierwszej dekady pazdziernika. Czyli dane wyprzedzily tekst o siedem tygodni - to nie luka wobec konkurencji, to rozjazd wewnatrz naszego serwisu. Drugi watek: fanklockow prowadzi cykl tygodniowy 'LEGO do szafy' (co z wycofywanych kupic pod odsprzedaz) - my mamy lepsze dane w /wycofania i zadnej formy, ktora je co tydzien wybiera.",
       "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja).",
-      "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow."
+      "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow.",
+      "2026-10-22": "Jedna rzecz nowa w kategorii, ktora dotad byla nasza: fanklockow uruchomili na Discordzie kanal ze statusami zestawow z lego.pl. Serwis redakcyjny wchodzi w powiadomienia. My mamy i dane (lego_pl_etykieta, wyprzedaneWLego, plakietka na hubach od 17.10), i kanal ('Obserwuj zestaw', double opt-in, alerty-cen.mjs), ale alerty sa wylacznie cenowe - 20 procent pod katalog albo rekord - i dokladnie to obiecuje formularz. Zmiana dostepnosci nie wywoluje u nas niczego. Rozszerzenie alertow to nie zadanie techniczne, a decyzja: zmienia tresc obietnicy wobec ludzi, ktorzy sie zapisali. Druga rzecz: poprawilem wlasna stara ocene. Wpis zklockow z 24.09 o prezentach pod choinke stal jako LUKA, a luke zamknelismy 07.10 strona /prezentowniki/prezenty-pod-choinke/ - zmienione na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania. Przy okazji: dzisiejszy tekst faniklockow o prezentach swiatecznych to drugi serwis idacy w te fraze, czyli tamten sygnal z wrzesnia byl trafny."
     }
   },
   "publikacje": [
@@ -2319,9 +2320,9 @@
       "data_publikacji": null,
       "data_wykrycia": "2026-09-24",
       "typ": "poradnik",
-      "ocena": "LUKA",
+      "ocena": "PRZEBIJAMY",
       "sklepy_linkowane": [],
-      "notatki": "Strona evergreen wprost pod fraze sezonu XI-XII. My mamy szesnascie prezentownikow (serie, wiek, budzet), ale zaden nie celuje w 'prezenty pod choinke' - slowo 'choinka' pada tylko wewnatrz kilku tekstow, nie w tytule ani adresie zadnej strony. Do zrobienia: strona-rozdzielnik prowadzaca do istniejacych prezentownikow."
+      "notatki": "Strona evergreen wprost pod fraze sezonu XI-XII. My mamy szesnascie prezentownikow (serie, wiek, budzet), ale zaden nie celuje w 'prezenty pod choinke' - slowo 'choinka' pada tylko wewnatrz kilku tekstow, nie w tytule ani adresie zadnej strony. Do zrobienia: strona-rozdzielnik prowadzaca do istniejacych prezentownikow. AKTUALIZACJA 22.10.2026: luka zamknieta 07.10 - /prezentowniki/prezenty-pod-choinke/ istnieje jako rozdzielnik sezonu (decyzja Marka 24.09 po tym sygnale), obok /swieta-dla-dzieci/, /swieta-dla-doroslych/, /swieta-licencje/ i /na-mikolaja/. Ocena zmieniona z LUKA na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania."
     },
     {
       "serwis": "zklockow.pl",
@@ -3702,6 +3703,54 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Trzeci dzien rozbudowy hubow 2027 po obu stronach: fanklockow dolozyli 20.10 strony Ideas, K-Pop Demon Hunters i Dragon Ball (wszystkie w bazie), faniklockow tego samego dnia Dragon Ball. U nas /zapowiedzi-lego-2027/ wymienia Dragon Ball w zdaniu o kolejnych seriach i to na dzis wystarczy - to przecieki niskiej pewnosci na zestawy z nizszych polek, bez wplywu na ruch zakupowy sezonu XI-XII."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Statusy z LEGO.pl na naszym Discordzie",
+      "url": "https://fanklockow.pl/statusy-z-lego-pl-na-naszym-discordzie/",
+      "data_publikacji": "2026-10-21",
+      "data_wykrycia": "2026-10-22",
+      "typ": "produkt",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Nowa FUNKCJA, nie tekst: uruchomili na swoim Discordzie kanal ze statusami zestawow z lego.pl. To pierwszy raz, gdy serwis redakcyjny z naszej piatki buduje powiadomienia o dostepnosci. My mamy mocniejsza podstawe danych (lego_pl_etykieta w katalog.json, wyprzedaneWLego w src/lib/status.js, plakietka 'wyprzedane' na hubach od 17.10) ORAZ wlasny kanal - 'Obserwuj zestaw' z double opt-in i mailem przez scripts/alerty-cen.mjs. Ale nasze alerty sa WYLACZNIE cenowe: skrypt wysyla mail, gdy cena spada co najmniej 20 procent pod katalog albo bije rekord, i dokladnie to obiecuje formularz na hubie. Zmiana dostepnosci - powrot do sprzedazy, ostatnie sztuki - nie wywoluje u nas niczego, choc dane do tego mamy. To jedyna realna luka z tego przebiegu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Klocki LEGO na prezent swiateczny - 7 powodow, dla ktorych to dobry wybor",
+      "url": "https://faniklockow.pl/2026/10/21/klocki-lego-na-prezent-swiateczny-7-powodow-dla-ktorych-to-dobry-wybor/",
+      "data_publikacji": "2026-10-21",
+      "data_wykrycia": "2026-10-22",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Miekki tekst pod fraze prezentowa, bez konkretnych zestawow w tytule. To drugi serwis po zklockow (wpis z 24.09), ktory idzie w swiateczne prezenty - roznica jest ta, ze my juz tam jestesmy: /prezentowniki/prezenty-pod-choinke/ (rozdzielnik zalozony 07.10 po tamtym sygnale Radaru), /prezentowniki/swieta-dla-dzieci/, /swieta-dla-doroslych/, /swieta-licencje/ i /na-mikolaja/. Nic do zrobienia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Modulowe kompendium: miasto Ninjago",
+      "url": "https://fanklockow.pl/modulowe-kompendium-miasto-ninjago/",
+      "data_publikacji": "2026-10-21",
+      "data_wykrycia": "2026-10-22",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zestawienie modulowych zestawow z miasta Ninjago - ta sama klasa stron, co 'odkrywaj' u zklockow (wpis z 17.09, nadal LUKA): kolekcja tematyczna skladana z zestawow, ktore juz sa w ofercie. U nas odpowiednikiem sa strony serii, ale bez takiego ciecia 'co sie ze soba laczy'. Zostawiamy jako powtorzenie znanego sygnalu, nie nowe zadanie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Store event: uliczny duszek",
+      "url": "https://faniklockow.pl/2026/10/21/lego-store-event-uliczny-duszek/",
+      "data_publikacji": "2026-10-21",
+      "data_wykrycia": "2026-10-22",
+      "typ": "promocja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Wydarzenie w salonach stacjonarnych. Nasz /kalendarz-promocji-lego/ ma sekcje #wydarzenia i tam zbieramy tego typu terminy, ale salony sa poza naszym modelem afiliacyjnym (nie ma z nich prowizji ani linku), wiec nie goni nas to tak jak okna gratisowe."
     }
   ],
   "obserwacje_strategiczne": {
