@@ -589,9 +589,9 @@
   {
    "id": "71873",
    "numer": "71873",
-   "nazwa": "Cole kontra Zły Cole — atak spinnera",
+   "nazwa": "Cole kontra Zły Cole ze spinnerem",
    "seria": "Ninjago",
-   "opis": "Drugi spinnerowy zestaw Ninjago z tej samej fali: 58 elementów, dwie minifigurki i premiera 1 stycznia 2027. Tutaj zdjęć nie było – StoneWars pisał wprost, że pokazać ich nie może, więc zostały sama nazwa i liczby z jednego artykułu. Mimo to potwierdziły się co do jednego: 58 elementów i 9,99 euro w Niemczech, a wraz z nimi numer, nazwa i styczniowy termin. Polskiej ceny katalogowej na razie nie ma.",
+   "opis": "Drugi spinnerowy zestaw Ninjago z tej samej fali: 58 elementów, dwie minifigurki i premiera 1 stycznia 2027. Tutaj zdjęć nie było – StoneWars pisał wprost, że pokazać ich nie może, więc zostały sama nazwa i liczby z jednego artykułu. Mimo to potwierdziły się co do jednego: 58 elementów i 9,99 euro w Niemczech, a wraz z nimi numer, nazwa i styczniowy termin. Polska cena katalogowa to 41,99 zł.",
    "elementy": 58,
    "cena_wg_zrodla": 40,
    "premiera_wg_zrodla": "2027-01",
@@ -609,7 +609,7 @@
     }
    ],
    "dodano": "2026-10-02",
-   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.\n\nRozstrzygnięcie – notatka robocza z 2026-10-03 (do 11.10.2026 w polu co_sie_zmienilo): To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json.",
+   "uwagi": "Drugi zestaw spinnerowy z tego samego tekstu: 58 elementów, 2 minifigurki, UVP 9,99 euro, start 1 stycznia 2027. Pewność niższa niż przy 71875, bo StoneWars wyraźnie pisze, że zdjęć tego zestawu POKAZAĆ NIE MOŻE — została sama nazwa i liczby z jednego artykułu. Brickset ma numer jako pusty rekord („{?}”, bez elementów i daty, `released` false, sprawdzone 02.10.2026). Cena w złotych to 9,99 euro × 4,22 (42,16 zł) zaokrąglone do 10 zł.\n\nRozstrzygnięcie – notatka robocza z 2026-10-03 (do 11.10.2026 w polu co_sie_zmienilo): To samo uzupełnienie karty 2026-10-02 o 20:38 UTC: „Cole vs. Evil Cole Spinner”, 58 elementów, 6+, availability „Retail”, zdjęcia i ceny czterech rynków (9,99 euro) z dateFirstAvailable 2026-10-03. Wszystkie liczby z przecieku — 58 elementów i 9,99 euro — potwierdzone co do jednego. Wpis miał pewność „niska”, bo StoneWars nie mógł pokazać zdjęć; katalog rozstrzygnął to w ciągu doby. Zestaw dołożony do sety.json.\n\nUzupełnienie 22.10.2026: karta lego.com/pl-pl podaje cenę 41,99 zł i status „wkrótce dostępne (1 stycznia 2027)”. Nazwa w tym wpisie zrównana z polską nazwą producenta — wcześniej było „atak spinnera”, nasze tłumaczenie niemieckiego „Spinner”.",
    "rozstrzygniecie": {
     "kiedy": "2026-10-03",
     "wynik": "potwierdzony",

@@ -4,7 +4,7 @@ title: "Zapowiedzi LEGO 2027: co wiadomo i co kupić już teraz"
 opis: "Wszystkie znane zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, restart Harry'ego Pottera, Marvel, DC, Star Wars na 50-lecie i przebudowana seria Super Mario. Osiem pozycji styczniowej fali ma już polskie ceny katalogowe i przedsprzedaż – rozdzielamy je od przecieków. Przy każdej podpowiadamy, które zestawy z obecnej oferty warto mieć, zanim znikną."
 seo_opis: "Zapowiedzi LEGO na 2027: Diuna, Władca Pierścieni, Harry Potter, Marvel, DC, Star Wars i Super Mario. Które mają już ceny katalogowe i przedsprzedaż, a które są tylko przeciekiem."
 data: "2026-08-20"
-zaktualizowano: "2026-10-19"
+zaktualizowano: "2026-10-22"
 kategoria: "Premiery"
 faq:
   - q: "Czy zapowiedzi LEGO na 2027 rok są oficjalne?"
@@ -30,11 +30,11 @@ Te zestawy mają na lego.com/pl-pl kartę z ceną i statusem przedsprzedaży. Ce
 | Super Mario: 72060 Fire Mario i Bowser na zamku | 850 | 429,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 | Super Mario: 72058 Mario Kart – Bowser i waleczny wyścig | 409 | 259,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 | Art: 67012 Joker – okładka komiksu | 1849 | 749,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
-| Marvel: 67006 Panorama Marvela | 1261 | 429,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Marvel: 67006 Panorama uniwersum Marvela | 1261 | 429,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 | DC: 67008 Batmobil i kaczka z filmu „Powrót Batmana" | 672 | 259,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 | DC: 67009 Batmobil Batmana z Arkham | 317 | 126,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 | Ninjago: 71875 Lloyd kontra Ras – pojedynek spinnerów | 153 | 84,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
-| Ninjago: 71873 Cole kontra Zły Cole – atak spinnera | 58 | – | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
+| Ninjago: 71873 Cole kontra Zły Cole ze spinnerem | 58 | 41,99 zł | 1 I 2027 | <span class="status status--ok">potwierdzone</span> |
 
 Super Mario to w sumie osiem zestawów; w tabeli są dwa największe, całą ósemkę rozpisaliśmy w [osobnym artykule o restarcie serii](/artykuly/lego-super-mario-2027-minifigurki/).
 
@@ -154,7 +154,7 @@ Osobna uwaga dla rodziców: jeśli kupujesz dziecku pierwszy zestaw Harry Potter
 
 Marvel to najliczniejsza fala na styczeń 2027 i ta, przy której da się dziś powiedzieć najwięcej o zakupach – bo największa pozycja wyszła już z fazy przecieku.
 
-**67006 Panorama Marvela** ma kartę produktową LEGO: 1261 elementów, 429,99 zł katalogowo, wysyłka od 1 stycznia 2027. Przeciek z września mówił o 1260 elementach, czyli pomylił się o jeden klocek. Pozostałe pozycje tej fali są nadal nieoficjalne: **67005 Sanctum Strange'a Supreme** (ok. 810 elementów, z postacią z serialu *What If…?*), **67002 Mech Scarlet Spidera** – z rzadką minifigurką Scarlet Spidera, pierwszą od 2016 roku – oraz drobny **67001 Spider-Man kontra Demogoblin** (ok. 82 elementy). Przewija się też kolejny zestaw z logo, po tegorocznym 76313.
+**67006 Panorama uniwersum Marvela** ma kartę produktową LEGO: 1261 elementów, 429,99 zł katalogowo, wysyłka od 1 stycznia 2027. Przeciek z września mówił o 1260 elementach, czyli pomylił się o jeden klocek. Pozostałe pozycje tej fali są nadal nieoficjalne: **67005 Sanctum Strange'a Supreme** (ok. 810 elementów, z postacią z serialu *What If…?*), **67002 Mech Scarlet Spidera** – z rzadką minifigurką Scarlet Spidera, pierwszą od 2016 roku – oraz drobny **67001 Spider-Man kontra Demogoblin** (ok. 82 elementy). Przewija się też kolejny zestaw z logo, po tegorocznym 76313.
 
 Najciekawsza jest sama panorama, bo zawiera miniatury Daily Bugle, Oscorp, Wieży Avengers, Baxter Building, Sanctum Sanctorum, Fisk Tower i Instytutu Xaviera. **Czyli w jednym pudełku znajdą się mikromodele budynków, które LEGO sprzedaje dziś jako osobne, pełnowymiarowe zestawy** – a część z nich schodzi z rynku w grudniu.
 

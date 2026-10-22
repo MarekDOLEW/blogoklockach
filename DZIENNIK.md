@@ -142,6 +142,23 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-22 06:50 · SCOUT · Ceny polskie 67006 i 71873
+
+**Oba zestawy z jesiennej partii, które czekały na polską cenę katalogową, mają ją na kartach lego.com/pl-pl: 67006 Panorama uniwersum Marvela — 429,99 zł (przedsprzedaż), 71873 Cole kontra Zły Cole ze spinnerem — 41,99 zł (wkrótce dostępne, 1 stycznia 2027).**
+**Mamy?** — teraz tak: ceny w `sety.json` (oba) i `katalog.json` (67006; 71873 w katalogu jeszcze nie ma, doda go zaciąg z Rebrickable). Huby pokazują 429,99 zł i 41,99 zł.
+**Zrobić:** — nic.
+**Kto:** — Scout (zrobione).
+
+- 429,99 zł dla 67006 wisiało od 19.10 w tabeli `/zapowiedzi-lego-2027/`, ale nigdy nie trafiło do danych —
+  strona mówiła prawdę, hub nie miał ceny. **Wniosek:** cena wpisana w artykule nie jest ceną w bazie;
+  jeśli research daje polskie RRP, idzie ono do `sety.json` w tym samym przebiegu.
+- Nazwy zrównane z nazwami producenta: „Panorama Marvela" → „Panorama uniwersum Marvela",
+  „Cole kontra Zły Cole — atak spinnera" → „…ze spinnerem" (nasze tłumaczenie niemieckiego „Spinner").
+  Poprawione w `sety.json`, `przecieki.json` i w tabeli `/zapowiedzi-lego-2027/`; w datowanym logu
+  `known_sets.json` zostaje stara nazwa, bo to zapis stanu z 09.10.
+- Próg zakupu 67006 postawiony na 370 zł (429,99 zł katalogowo, 34 gr/element).
+
+
 
 ## 2026-10-22 08:10 · RADAR · Do zrobienia
 

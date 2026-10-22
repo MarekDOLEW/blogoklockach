@@ -55733,15 +55733,16 @@
     },
     {
       "numer": "67006",
-      "nazwa": "The Marvel Skyline",
+      "nazwa": "Panorama uniwersum Marvela",
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Super Heroes Marvel",
       "lego_pl_widziano": "2026-10-20",
-      "lego_pl_etykieta": "przedsprzedaz"
+      "lego_pl_etykieta": "przedsprzedaz",
+      "cena_zrodlo": "lego.com/pl-pl — karta produktu (Firecrawl, 22.10.2026)"
     }
   ],
   "Seasonal": [
