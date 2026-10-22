@@ -119,6 +119,16 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
   rano przychodzi mail z linkami (`podejrzany-rynek-mail.mjs`, klucz `podejrzane`,
   kontakt@); Marek potwierdza w rozmowie z Code („potwierdzam <nr> <cena> <sklep>"),
   Code dopisuje do `deale_potwierdzone.json` i oferta wraca tego samego dnia.
+- **„Obserwuj zestaw" jest kanałem wyłącznie cenowym** (Marek, 22.10.2026, po sygnale
+  Radaru o discordowym kanale statusów fanklockow). Mail wychodzi tylko wtedy, gdy cena
+  spadnie co najmniej 20% pod katalogową albo pobije nasz rekord — i dokładnie to obiecuje
+  formularz na hubie. **Alertów o dostępności nie dodajemy**: powrót do sprzedaży,
+  „ostatnie sztuki" i wyprzedanie w LEGO.com nie wywołują maila, choć dane do tego mamy
+  (`lego_pl_etykieta`, `wyprzedaneWLego`, plakietka na hubach). Powód nie jest techniczny —
+  to kilka linii w `alerty-cen.mjs` — tylko taki, że rozszerzenie zmienia obietnicę złożoną
+  ludziom, którzy się zapisali, i liczbę maili, które od nas dostają. Dla runnerów znaczy to
+  jedno: cudzy kanał powiadomień **notujemy, nie zgłaszamy jako luki** (wpis w
+  `konkurencja_baza.json` ma ocenę NOTUJEMY, nie LUKA).
 
 ## Archiwum
 
