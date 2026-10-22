@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-21"
+  "zaktualizowano": "2026-10-22"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -102,6 +102,23 @@
    "https://tylkoklocki.pl/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/",
    "https://tylkoklocki.pl/artykuly/lego-star-wars-styczen-2027-przecieki/",
    "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego/"
+  ],
+  "2026-10-22": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/deale/deal-76354-lotniskowiec-tarczy-kod-me/",
+   "https://tylkoklocki.pl/deale/deal-76449-potworna-ksiega-minimum/",
+   "https://tylkoklocki.pl/nowosci/listopad-2026/",
+   "https://tylkoklocki.pl/nowosci/luty-2026/",
+   "https://tylkoklocki.pl/nowosci/pazdziernik-2026/",
+   "https://tylkoklocki.pl/nowosci/styczen-2027/",
+   "https://tylkoklocki.pl/nowosci/wrzesien-2026/",
+   "https://tylkoklocki.pl/zestaw/76969/",
+   "https://tylkoklocki.pl/zestaw/10311/",
+   "https://tylkoklocki.pl/zestaw/10369/",
+   "https://tylkoklocki.pl/zestaw/10412/",
+   "https://tylkoklocki.pl/zestaw/10428/",
+   "https://tylkoklocki.pl/zestaw/10446/",
+   "https://tylkoklocki.pl/zestaw/11036/"
   ]
  }
 }
