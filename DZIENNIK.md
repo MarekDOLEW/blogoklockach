@@ -177,6 +177,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: huby `/zestaw/30714/` … `/zestaw/30735/` pokazują kreskę w polu ceny katalogowej, więc oferty 10–19 zł nie mają punktu odniesienia i nie liczymy rabatu
 **Zrobić:** — jedna decyzja: czy wpisać te ceny do `katalog.json` (jak przy 30717) i co zrobić z `bez_rrp` — zdjąć czy przepisać powód; wszystkie siedem kart ma w metadanych „out of stock", więc „LEGO nie sprzedaje" może być prawdą o dostępności, nie o cenie
 **Kto:** — Marek (decyzja)
+→ zamknięte 22.10.2026: Marek zdecydował „wpisz ceny i zdejmij bez_rrp z tych siedmiu". Ceny wpisane
+  w `sety.json` i `katalog.json` (30714 — 16,49 zł, pozostałe sześć po 16,99 zł), `bez_rrp` zdjęta
+  w `sety.json` — w `katalog.json` tej flagi te saszetki nigdy nie miały. Huby liczą rabat
+  (`/zestaw/30714/` −15/−16%, `/zestaw/30735/` −21/−38%). Flag `bez_rrp` w `sety.json`: 12 → 5.
 
 ## 2026-10-21 08:15 · RADAR · Do zrobienia
 
