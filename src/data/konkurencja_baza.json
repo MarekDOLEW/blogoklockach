@@ -3711,11 +3711,11 @@
       "data_publikacji": "2026-10-21",
       "data_wykrycia": "2026-10-22",
       "typ": "produkt",
-      "ocena": "LUKA",
+      "ocena": "NOTUJEMY",
       "sklepy_linkowane": [
         "lego"
       ],
-      "notatki": "Nowa FUNKCJA, nie tekst: uruchomili na swoim Discordzie kanal ze statusami zestawow z lego.pl. To pierwszy raz, gdy serwis redakcyjny z naszej piatki buduje powiadomienia o dostepnosci. My mamy mocniejsza podstawe danych (lego_pl_etykieta w katalog.json, wyprzedaneWLego w src/lib/status.js, plakietka 'wyprzedane' na hubach od 17.10) ORAZ wlasny kanal - 'Obserwuj zestaw' z double opt-in i mailem przez scripts/alerty-cen.mjs. Ale nasze alerty sa WYLACZNIE cenowe: skrypt wysyla mail, gdy cena spada co najmniej 20 procent pod katalog albo bije rekord, i dokladnie to obiecuje formularz na hubie. Zmiana dostepnosci - powrot do sprzedazy, ostatnie sztuki - nie wywoluje u nas niczego, choc dane do tego mamy. To jedyna realna luka z tego przebiegu."
+      "notatki": "Nowa FUNKCJA, nie tekst: uruchomili na swoim Discordzie kanal ze statusami zestawow z lego.pl. To pierwszy raz, gdy serwis redakcyjny z naszej piatki buduje powiadomienia o dostepnosci. My mamy mocniejsza podstawe danych (lego_pl_etykieta w katalog.json, wyprzedaneWLego w src/lib/status.js, plakietka 'wyprzedane' na hubach od 17.10) ORAZ wlasny kanal - 'Obserwuj zestaw' z double opt-in i mailem przez scripts/alerty-cen.mjs. Ale nasze alerty sa WYLACZNIE cenowe: skrypt wysyla mail, gdy cena spada co najmniej 20 procent pod katalog albo bije rekord, i dokladnie to obiecuje formularz na hubie. Zmiana dostepnosci - powrot do sprzedazy, ostatnie sztuki - nie wywoluje u nas niczego, choc dane do tego mamy. To jedyna realna luka z tego przebiegu. DECYZJA MARKA 22.10.2026: NIE dodajemy alertu o dostepnosci. 'Obserwuj zestaw' zostaje kanalem wylacznie cenowym, zgodnie z obietnica z formularza. Ocena zmieniona z LUKA na NOTUJEMY - to nie jest luka do zamkniecia, tylko swiadomie niezajety obszar. Jesli konkurencja rozwinie powiadomienia dalej, notujemy bez proponowania tego ponownie."
     },
     {
       "serwis": "faniklockow.pl",

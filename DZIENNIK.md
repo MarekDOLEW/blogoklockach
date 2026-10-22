@@ -139,6 +139,9 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: mamy i dane (`lego_pl_etykieta`, `wyprzedaneWLego`, plakietka „wyprzedane" na hubach od 17.10), i własny kanał („Obserwuj zestaw", double opt-in, `scripts/alerty-cen.mjs`) — ale alerty są wyłącznie cenowe (20% pod katalog albo rekord) i dokładnie to obiecuje formularz na hubie. Zmiana dostępności nie wywołuje u nas niczego.
 **Zrobić:** — decyzja, czy „Obserwuj zestaw" ma wysyłać też alert o powrocie do sprzedaży lub wyprzedaniu; na „tak" zmienia się treść obietnicy w `ObserwujCene.astro` i trzeba o tym napisać zapisanym, bo zgodzili się na alerty cenowe.
 **Kto:** — Marek (decyzja)
+→ zamknięte 22.10.2026: Marek — „nie dodawaj alertu o dostępności". Nic nie zmieniam w kodzie;
+`alerty-cen.mjs` i formularz zostają cenowe. W `konkurencja_baza.json` ocena tego wpisu zmieniona
+z LUKA na NOTUJEMY, żeby ani Radar, ani Kontroler nie wracali z tym co tydzień.
 
 Dlaczego to decyzja, a nie zadanie dla Code: dane i mechanizm są gotowe, kosztem jest liczba maili
 i wiarygodność obietnicy, którą złożyliśmy ludziom zapisującym się na alerty. Technicznie to kilka
