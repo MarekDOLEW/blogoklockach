@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-21",
+  "zaktualizowano": "2026-10-22",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -1772,6 +1772,27 @@
    "dodano": "2026-10-21",
    "uwagi": "W tabeli zrodla sam numer i „2027, 08”, reszta „???”. Serwis pisze o fali Smart Play w sierpniu. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
    "opis": "Numer zarezerwowany w przeciekach na sierpniową falę Ninjago 2027 — według źródła mają to być zestawy z linii Smart Play, czyli z elektroniką. Poza numerem i miesiącem nie ma nic: ani nazwy, ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "street-fighter",
+   "numer": null,
+   "nazwa": "Street Fighter — pierwszy zestaw licencyjny",
+   "seria": "Gaming",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Bekommen wir LEGO Street Fighter mit Ryu und Chun-Li?”",
+     "url": "https://www.stonewars.de/geruechte/lego-street-fighter/",
+     "data": "2026-10-21"
+    }
+   ],
+   "dodano": "2026-10-22",
+   "uwagi": "Jedyna twarda rzecz w tym przecieku: haslo „Street Fighter” stalo na sierpniowej liscie przeciekow, z ktorej wyszly juz konkretne zestawy — m.in. 11399 Helmowy Jar, dzis w naszym pliku z launchDate w katalogu Brickset. Numeru, ceny i liczby elementow NIE MA, termin podany jako „2027 albo 2028”; w polu premiera_wg_zrodla zapisane 2027 jako wczesniejsza z dwoch mozliwosci — przy rozstrzyganiu traktowac os terminu luzno. Pozostala czesc tekstu StoneWars to jawna spekulacja redakcji (automat arcade na 40-lecie, diorama w stylu 77093, osmiu grywalnych bohaterow z 1987 roku) i NIE jest danymi z przecieku — nie zapisuje jej jako tresci. Kontekst, nie dowod: Ryu i Chun-Li maja juz oficjalne skiny w stylu minifigurek w LEGO Fortnite, ale to wersje cyfrowe. Capcom nigdy dotad nie wspolpracowal z LEGO.",
+   "opis": "Street Fighter ma się według przecieków pojawić w katalogu LEGO — byłby to pierwszy zestaw pod tą licencją i pierwsza współpraca z Capcomem. Hasło licencji stało na sierpniowej liście przecieków, z której wyszły już konkretne zestawy, ale poza tym nie ma nic: ani numeru, ani ceny, ani liczby elementów, a termin podawany jest jako 2027 lub 2028. Ryu i Chun-Li dostali oficjalne skiny w stylu minifigurek w LEGO Fortnite, co pokazuje, że projekty figurek istnieją, ale tylko cyfrowo. Wszystkie pomysły na formę zestawu, które krążą w sieci, są na tym etapie spekulacją.",
    "rozstrzygniecie": null
   }
  ]
