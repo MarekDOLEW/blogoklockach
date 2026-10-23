@@ -149,11 +149,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
 **Zrobić:** — sprawdzić kartę oferty z maila i dopisać 72151 do `src/data/deale_potwierdzone.json` (niemal na pewno odrzucone)
 **Kto:** — Marek (decyzja)
+→ zamknięte 23.10: Marek olał — 72151 (44 zł, Ceneo) w odrzuconych `deale_potwierdzone.json`, oferta ukryta
 
 **40816 Dekoracyjna Pisanka wróciła do maila: Media Expert 29,99 zł przy RRP 81,99 (−63%, poniżej odrzuconych 38 zł z Allegro; tym razem zwykły sklep — wygląda na realną wyprzedaż końcówek)**
 **Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
 **Zrobić:** — sprawdzić kartę ME z maila i dopisać 40816 do `src/data/deale_potwierdzone.json` (potwierdzone albo ponownie odrzucone)
 **Kto:** — Marek (decyzja)
+→ zamknięte 23.10: Marek potwierdził — 40816 (29,99 zł, ME) w potwierdzonych, oferta wraca do tabel
 
 
 ## 2026-10-23 08:10 · RADAR · Do zrobienia

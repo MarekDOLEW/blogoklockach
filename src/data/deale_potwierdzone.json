@@ -39,6 +39,13 @@
    "data": "2026-10-21",
    "kto": "Marek",
    "uwagi": "Dom prosiaczka — Ceneo 40 zł przy RRP 81,99; potwierdzone przez Marka w czacie Łowcy 21.10"
+  },
+  "40816": {
+   "cena": 29.99,
+   "sklep": "mediaexpert",
+   "data": "2026-10-23",
+   "kto": "Marek",
+   "uwagi": "Dekoracyjna Pisanka — ME 29,99 przy RRP 81,99, wyprzedaż końcówek; potwierdzone przez Marka 23.10 (czat Łowcy), uchyla odrzucenie z 16.10 (Allegro 38)"
   }
  },
  "odrzucone": {
@@ -70,13 +77,6 @@
    "kto": "Marek",
    "uwagi": "Urocze zwierzątka: psotny szczeniaczek — oszust (werdykt po sprawdzeniu karty Ceneo)"
   },
-  "40816": {
-   "cena": 38,
-   "sklep": "allegro",
-   "data": "2026-10-16",
-   "kto": "Marek",
-   "uwagi": "Dekoracyjna Pisanka — olana decyzją Marka (16.10, czat Łowcy); oferty Allegro 38 i Ceneo 39,71 przy RRP 81,99 zostają ukryte, mail przestaje pytać"
-  },
   "77253": {
    "cena": 57.32,
    "sklep": "ceneo/allegro",
@@ -90,6 +90,13 @@
    "data": "2026-10-23",
    "kto": "Marek",
    "uwagi": "Durrr Burgerownia — fałsz. Marek sprawdził kartę Media Expertu 23.10: zestaw stoi po około 170 zł, nie 89. W feedzie 89 zł siedziało z datą 22.10 i tego samego dnia faniklockow opisali tę kwotę tekstem „to nie błąd cenowy\" — albo cena zmieniła się w ciągu doby, albo 89 zł nigdy nie było prawdziwe; nie rozstrzygam, bo liczy się werdykt z karty sklepu. Oferta zostaje ukryta; niższa cena niż 89 zł wróci do porannego maila."
+  },
+  "72151": {
+   "cena": 44,
+   "sklep": "ceneo",
+   "data": "2026-10-23",
+   "kto": "Marek",
+   "uwagi": "Eevee — olany decyzją Marka 23.10 (czat Łowcy); 44 zł przy RRP 249,99 wygląda na błąd/oszustwo, oferta zostaje ukryta"
   }
  }
 }
