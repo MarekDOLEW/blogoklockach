@@ -190,6 +190,11 @@ a stroną stoi człowiek. To koszt reguły, nie jej błąd.
 **Mamy?** — nie: żaden z nich nie ma wpisu w `sety.json` ani podstrony `/zestaw/`, a `katalog.json` ma je z polskimi cenami, więc co przebieg wracają na listę luk rocznika 2026.
 **Zrobić:** — jedna decyzja: czy zestawy Education sprzedawane detalicznie dostają wpisy w `sety.json` (wtedy dołożę te cztery), czy zostają poza serwisem (wtedy kolejka redakcyjna powinna pomijać theme Education, co jest zadaniem dla Code).
 **Kto:** — Marek (decyzja)
+→ zamknięte 23.10.2026: decyzja Marka — „dopisz te cztery Education do sety.json". Wpisy założone
+  z polskimi nazwami (Zestaw naukowy z misją na Księżyc / ze zwierzętami Antarktydy / z misją na Marsa /
+  ze zwierzętami Arktyki), cenami 209,99 / 209,99 / 419,99 / 419,99 zł i wiekiem 8+/7+/9+/9+.
+  W `katalog.json` przeniesione z kubełka „Archiwum" do nowej serii „Education", żeby oba pliki
+  mówiły to samo; liczba pozycji katalogu bez zmian. Nowa strona `/serie/education/`.
 
 Dowód z tego przebiegu — Brickset, karty 45200–45203: theme Education, subtheme Science,
 availability „Retail - limited", premiera 20.01.2026, ceny niemieckie 49,99 / 49,99 / 99,99 / 99,99 euro.

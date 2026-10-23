@@ -1,7 +1,7 @@
 {
  "data_aktualizacji": "2026-10-23",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
- "liczba_setow": 1207,
+ "liczba_setow": 1211,
  "sety": [
   "10280",
   "10281",
@@ -1209,7 +1209,11 @@
   "80119",
   "80120",
   "80121",
-  "910059"
+  "910059",
+  "45200",
+  "45201",
+  "45202",
+  "45203"
  ],
  "zapowiedzi_sledzone": [
   {
@@ -6504,7 +6508,7 @@
   "przeciek_daft_punk": "LEGO potwierdzilo samo zestaw Ideas o Daft Punk: zespol Ideas napisal o nim na firmowym blogu 22.10.2026 i opublikowal teaser z minifigurkami Thomasa Bangaltera i Guy-Manuela de Homem-Christo oraz modelem nawiazujacym do piramidy z 2007 roku. Projekt fana „RobotRock”. Brak numeru, elementow, ceny i daty — wiec nie sety.json, tylko przecieki (slug daft-punk-ideas, pewnosc wysoka, rok 2027 z tytulu PromoBricks, LEGO mowi „wkrotce”). Oba serwisy opisaly to tego samego dnia.",
   "podniesienie_40889": "Katalog Bricksetu uzupelnil 40889 o nazwe „Build, Paint and Play!”, 158 elementow, wiek 18+, zdjecie i status „LEGO Gift with Purchase” (lastUpdated 23.10 01:17 UTC). Liczby z wyciekłych zdjec sprzed trzech tygodni zgodzily sie co do jednego, wiec pewnosc srednia -> wysoka. Nadal brak terminu i progu zakupu; okno „koniec pazdziernika” z kanalu spolecznosciowego konczy sie za tydzien. Do sety.json nie wchodzi: brak daty premiery, a GWP nie ma ceny katalogowej.",
   "luki_katalogu": "PRZELICZONE W TYM PRZEBIEGU tym samym skryptem na dwoch rewizjach (4bf121d i drzewo robocze), pelnym lancuchem cen (rrp_potwierdzone -> sety -> ceny_baza -> katalog, bez_rrp wygrywa z kazda liczba). Opisane bez ceny: 2 (21375 Godzilla, 77094 Zelda — oba to stare wpisy status_nowosci przeciek, oba bez ofert w feedzie). Rocznik 2026 w sprzedazy bez wpisu w sety.json: 21. Cala kolejka 2020-2026: 169. Liczby 8 / 17 / 176 raportowane 22.10 byly przeniesione z poprzednich przebiegow, nie przeliczone — ta sama metoda na commicie 4bf121d daje 3 / 21 / 169. Uwaga: rrp_potwierdzone.json trzyma cene pod kluczem `cena`, nie `cena_katalogowa` — prostszy odsiew to przeoczy.",
-  "education_w_kolejce": "45200, 45201, 45202, 45203 (Moon Mission / Antarctic Animals / Mars Mission / Arctic Animals Science Kit) stoja w liscie luk rocznika 2026. Brickset: theme Education, subtheme Science, availability „Retail - limited”, DE 49,99 / 49,99 / 99,99 / 99,99 euro, premiera 20.01.2026; nasz katalog ma je z cenami 209,99 / 209,99 / 419,99 / 419,99 zl, feed od 20.10. Regula zakazuje dodawac LEGO Education do sety.json, ale te cztery sa w zwyklej sprzedazy detalicznej, wiec powod „kanal szkolny” do nich nie pasuje — decyzja dla Marka, nie dopisuje ich sam.",
+  "education_w_kolejce": "45200, 45201, 45202, 45203 (Moon Mission / Antarctic Animals / Mars Mission / Arctic Animals Science Kit) stoja w liscie luk rocznika 2026. Brickset: theme Education, subtheme Science, availability „Retail - limited”, DE 49,99 / 49,99 / 99,99 / 99,99 euro, premiera 20.01.2026; nasz katalog ma je z cenami 209,99 / 209,99 / 419,99 / 419,99 zl, feed od 20.10. Regula zakazuje dodawac LEGO Education do sety.json, ale te cztery sa w zwyklej sprzedazy detalicznej, wiec powod „kanal szkolny” do nich nie pasuje — decyzja dla Marka, nie dopisuje ich sam. DECYZJA MARKA 23.10.2026: dopisac do sety.json. Cztery wpisy zalozone (nazwy polskie z feedu Allegro w materialy/opisy-lego/pozostale-serie-education.md, ceny z listingu lego.pl z 20.10, wiek 8+/7+/9+/9+, premiera 2026-01). W katalog.json te same cztery przeniesione z kubelka „Archiwum” do nowej serii „Education”, zeby oba pliki mowily to samo — liczba pozycji katalogu bez zmian (9875). Nowa strona /serie/education/ z czterema zestawami.",
   "serwisy": "PromoBricks: jeden nowy tekst od wczoraj (teaser Daft Punk, 22.10). StoneWars: ten sam temat 22.10, wczesniej tylko podcast z 20.10. Zadnych sygnalow wycofan w zrodlach tego przebiegu."
  }
 }

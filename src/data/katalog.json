@@ -73523,50 +73523,6 @@
       "motyw_rebrickable": "Duplo and Explore / Educational and Dacta"
     },
     {
-      "numer": "45200",
-      "nazwa": "Moon Mission Science Kit",
-      "rok": 2026,
-      "elementy": 519,
-      "status": "dostepny",
-      "cena_katalogowa": 209.99,
-      "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
-      "lego_pl_widziano": "2026-10-20"
-    },
-    {
-      "numer": "45201",
-      "nazwa": "Antarctic Animals Science Kit",
-      "rok": 2026,
-      "elementy": 461,
-      "status": "dostepny",
-      "cena_katalogowa": 209.99,
-      "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
-      "lego_pl_widziano": "2026-10-20"
-    },
-    {
-      "numer": "45202",
-      "nazwa": "Mars Mission Science Kit",
-      "rok": 2026,
-      "elementy": 933,
-      "status": "dostepny",
-      "cena_katalogowa": 419.99,
-      "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
-      "lego_pl_widziano": "2026-10-20"
-    },
-    {
-      "numer": "45203",
-      "nazwa": "Arctic Animals Science Kit",
-      "rok": 2026,
-      "elementy": 1134,
-      "status": "dostepny",
-      "cena_katalogowa": 419.99,
-      "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
-      "lego_pl_widziano": "2026-10-20"
-    },
-    {
       "numer": "45301",
       "nazwa": "WeDo 2.0 Smart Hub",
       "rok": 2016,
@@ -85328,6 +85284,56 @@
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dimensions"
+    }
+  ],
+  "Education": [
+    {
+      "numer": "45200",
+      "nazwa": "Zestaw naukowy z misją na Księżyc",
+      "rok": 2026,
+      "elementy": 519,
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
+      "lego_pl_widziano": "2026-10-20",
+      "cena_zrodlo": "listing lego.pl (zaciag 2026-10-20)"
+    },
+    {
+      "numer": "45201",
+      "nazwa": "Zestaw naukowy ze zwierzętami Antarktydy",
+      "rok": 2026,
+      "elementy": 461,
+      "status": "dostepny",
+      "cena_katalogowa": 209.99,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
+      "lego_pl_widziano": "2026-10-20",
+      "cena_zrodlo": "listing lego.pl (zaciag 2026-10-20)"
+    },
+    {
+      "numer": "45202",
+      "nazwa": "Zestaw naukowy z misją na Marsa",
+      "rok": 2026,
+      "elementy": 933,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
+      "lego_pl_widziano": "2026-10-20",
+      "cena_zrodlo": "listing lego.pl (zaciag 2026-10-20)"
+    },
+    {
+      "numer": "45203",
+      "nazwa": "Zestaw naukowy ze zwierzętami Arktyki",
+      "rok": 2026,
+      "elementy": 1134,
+      "status": "dostepny",
+      "cena_katalogowa": 419.99,
+      "zrodlo": "rebrickable",
+      "motyw_rebrickable": "Learning at Home / Educational and Dacta",
+      "lego_pl_widziano": "2026-10-20",
+      "cena_zrodlo": "listing lego.pl (zaciag 2026-10-20)"
     }
   ]
 }
