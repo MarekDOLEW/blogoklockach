@@ -142,6 +142,17 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-23 05:20 · SCOUT · Do zrobienia
+
+**Cztery zestawy LEGO Education Science są w zwykłej sprzedaży detalicznej, a nasza reguła „LEGO Education nie wchodzi do `sety.json`" zakłada kanał szkolny: 45200 Moon Mission i 45201 Antarctic Animals po 209,99 zł, 45202 Mars Mission i 45203 Arctic Animals po 419,99 zł, w feedzie od 20.10.2026.**
+**Mamy?** — nie: żaden z nich nie ma wpisu w `sety.json` ani podstrony `/zestaw/`, a `katalog.json` ma je z polskimi cenami, więc co przebieg wracają na listę luk rocznika 2026.
+**Zrobić:** — jedna decyzja: czy zestawy Education sprzedawane detalicznie dostają wpisy w `sety.json` (wtedy dołożę te cztery), czy zostają poza serwisem (wtedy kolejka redakcyjna powinna pomijać theme Education, co jest zadaniem dla Code).
+**Kto:** — Marek (decyzja)
+
+Dowód z tego przebiegu — Brickset, karty 45200–45203: theme Education, subtheme Science,
+availability „Retail - limited", premiera 20.01.2026, ceny niemieckie 49,99 / 49,99 / 99,99 / 99,99 euro.
+
+
 
 ## 2026-10-22 · CODE · Dwa teksty Piotra (.md): NINJAGO styczeń 2027 i recenzja 75439
 

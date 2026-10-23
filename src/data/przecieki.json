@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-22",
+  "zaktualizowano": "2026-10-23",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -666,22 +666,27 @@
   {
    "id": "40889",
    "numer": "40889",
-   "nazwa": "„Buduj, maluj, graj!” — gratis z konkursu Ideas (nazwa niepotwierdzona)",
+   "nazwa": "Buduj, maluj, graj! (nazwa polska nieoficjalna)",
    "seria": "Ideas",
    "elementy": 158,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2026-10",
-   "pewnosc": "srednia",
+   "pewnosc": "wysoka",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Neue Infos zu Classic Spacemen im LEGO Ideas GWP »Build, Paint and Play!« (40889) durch Leakbilder!”",
      "url": "https://www.stonewars.de/news/lego-ideas-build-your-hobby-siegerehrung/",
      "data": "2026-10-02"
+    },
+    {
+     "nazwa": "Brickset — karta 40889 uzupelniona o nazwe, 158 elementow, wiek 18+, zdjecie i status gratisu",
+     "url": "https://brickset.com/sets/40889-1",
+     "data": "2026-10-23"
     }
    ],
    "dodano": "2026-10-03",
-   "uwagi": "Dowód: wyciekłe zdjęcia przodu i tyłu pudełka, z których StoneWars odczytuje 158 elementów, dwie minifigurki i wiek 18+. Projekt jest znany — to zwycięzca konkursu LEGO Ideas „Build Your Hobby” autorstwa użytkownika „Doomslizer”, ogłoszony 3 września 2025, więc sam zestaw nie jest wymysłem. Niepewne pozostają trzy rzeczy: nazwa handlowa (StoneWars podaje ją ze znakiem zapytania), termin (koniec października wg kanału BrickTap na Reddicie, czyli źródła społecznościowego) oraz próg zakupu, którego nikt nie podaje. Brickset ma numer 40889 jako pusty rekord Ideas rocznika 2026 — bez nazwy, elementów i daty. Ciekawostka dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, które wcześniej były wyłącznie w starym odcieniu szarości.",
-   "opis": "Gratis z linii Ideas zbudowany na podstawie zwycięskiego projektu konkursu LEGO Ideas „Build Your Hobby” (autor: Doomslizer, wyniki ogłoszone 3 września 2025), więc sam zestaw nie jest wymysłem. Ze zdjęć pudełka wynika 158 elementów, dwie minifigurki i oznaczenie 18+. Niepewne pozostają nazwa handlowa i termin – koniec października podaje tylko źródło społecznościowe. Dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise, a hełm i butle w nowym jasnoszarym odcieniu – dotąd te elementy istniały tylko w starej szarości.",
+   "uwagi": "Dowód: wyciekłe zdjęcia przodu i tyłu pudełka, z których StoneWars odczytuje 158 elementów, dwie minifigurki i wiek 18+. Projekt jest znany — to zwycięzca konkursu LEGO Ideas „Build Your Hobby” autorstwa użytkownika „Doomslizer”, ogłoszony 3 września 2025, więc sam zestaw nie jest wymysłem. Niepewne pozostają trzy rzeczy: nazwa handlowa (StoneWars podaje ją ze znakiem zapytania), termin (koniec października wg kanału BrickTap na Reddicie, czyli źródła społecznościowego) oraz próg zakupu, którego nikt nie podaje. Brickset ma numer 40889 jako pusty rekord Ideas rocznika 2026 — bez nazwy, elementów i daty. Ciekawostka dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, które wcześniej były wyłącznie w starym odcieniu szarości.\n\nPODNIESIENIE 23.10.2026 (srednia -> wysoka): katalog Bricksetu uzupełnił rekord 40889 o nazwę „Build, Paint and Play!”, 158 elementów, wiek 18+, oficjalne zdjęcie i status „LEGO Gift with Purchase” (lastUpdated 2026-10-23T01:17:38Z). Liczby z wyciekłych zdjęć — 158 elementów i 18+ — zgodziły się co do jednego. Kryterium „dwa serwisy zgodne co do numeru i ceny” jest przy gratisie niewykonalne, bo GWP nigdy nie ma ceny katalogowej; za drugie źródło liczę katalog, który potwierdził numer i wszystkie liczby. Nadal brak terminu (`released` false, bez daty) i progu zakupu, a okno „koniec października” z kanału społecznościowego kończy się za tydzień.",
+   "opis": "Gratis z linii Ideas zbudowany na podstawie zwycięskiego projektu konkursu LEGO Ideas „Build Your Hobby” (autor: Doomslizer, wyniki ogłoszone 3 września 2025). Według Bricksetu zestaw ma 158 elementów, dwie minifigurki i oznaczenie 18+, a nazwa handlowa brzmi „Build, Paint and Play!”. Brakuje dwóch rzeczy: terminu, w którym LEGO zacznie go dokładać, i progu zakupów, od którego będzie przysługiwał. Dla zbieraczy: na zdjęciach widać kosmonautę Classic Space w kolorze dark turquoise oraz jasnoszary hełm i butle, dotąd dostępne wyłącznie w starszym odcieniu szarości.",
    "rozstrzygniecie": null
   },
   {
@@ -1793,6 +1798,32 @@
    "dodano": "2026-10-22",
    "uwagi": "Jedyna twarda rzecz w tym przecieku: haslo „Street Fighter” stalo na sierpniowej liscie przeciekow, z ktorej wyszly juz konkretne zestawy — m.in. 11399 Helmowy Jar, dzis w naszym pliku z launchDate w katalogu Brickset. Numeru, ceny i liczby elementow NIE MA, termin podany jako „2027 albo 2028”; w polu premiera_wg_zrodla zapisane 2027 jako wczesniejsza z dwoch mozliwosci — przy rozstrzyganiu traktowac os terminu luzno. Pozostala czesc tekstu StoneWars to jawna spekulacja redakcji (automat arcade na 40-lecie, diorama w stylu 77093, osmiu grywalnych bohaterow z 1987 roku) i NIE jest danymi z przecieku — nie zapisuje jej jako tresci. Kontekst, nie dowod: Ryu i Chun-Li maja juz oficjalne skiny w stylu minifigurek w LEGO Fortnite, ale to wersje cyfrowe. Capcom nigdy dotad nie wspolpracowal z LEGO.",
    "opis": "Street Fighter ma się według przecieków pojawić w katalogu LEGO — byłby to pierwszy zestaw pod tą licencją i pierwsza współpraca z Capcomem. Hasło licencji stało na sierpniowej liście przecieków, z której wyszły już konkretne zestawy, ale poza tym nie ma nic: ani numeru, ani ceny, ani liczby elementów, a termin podawany jest jako 2027 lub 2028. Ryu i Chun-Li dostali oficjalne skiny w stylu minifigurek w LEGO Fortnite, co pokazuje, że projekty figurek istnieją, ale tylko cyfrowo. Wszystkie pomysły na formę zestawu, które krążą w sieci, są na tym etapie spekulacją.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "daft-punk-ideas",
+   "numer": null,
+   "nazwa": "Daft Punk (LEGO Ideas, nazwa nieznana)",
+   "seria": "Ideas",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "wysoka",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO bestatigt kommendes Daft Punk Set! Offizielles Teaser-Video zum Ideas-Set zeigt Minifiguren”",
+     "url": "https://www.stonewars.de/news/lego-teaser-daft-punk-ideas/",
+     "data": "2026-10-22"
+    },
+    {
+     "nazwa": "PromoBricks — „Draft Punk: Teaser kundigt LEGO Bauset fur 2027 an”",
+     "url": "https://www.promobricks.de/draft-punk-lego-set-teaser/",
+     "data": "2026-10-22"
+    }
+   ],
+   "dodano": "2026-10-23",
+   "uwagi": "Zestaw potwierdzony przez samo LEGO: zespół LEGO Ideas napisał o nim na firmowym blogu 22.10.2026 i opublikował teaser. Pewność „wysoka” wbrew literalnemu kryterium drabiny (dwa serwisy zgodne co do numeru i ceny), bo numeru i ceny nie podał nikt — zgodność dotyczy samego faktu zapowiedzi, a potwierdza ją producent, czyli źródło mocniejsze niż dwa serwisy branżowe. Rok 2027 pochodzi z tytułu PromoBricks; LEGO mówi tylko „wkrótce”, więc przy rozstrzyganiu traktować termin luźno. StoneWars podaje autora projektu jako „RobotRock”; liczby głosów nie zapisuję, bo wyciąg ze strony dał wartość bezsensowną (5), a konkurs Ideas wymaga 10 000 — do sprawdzenia przy następnym dowodzie. Czego nie ma: numeru, liczby elementów, ceny, dokładnego terminu i tego, czy minifigurki z teasera wchodzą do pudełka.",
+   "opis": "Zestaw z linii Ideas poświęcony duetowi Daft Punk, zbudowany na podstawie projektu fana występującego jako RobotRock. LEGO potwierdziło go samo — zespół Ideas napisał o nim na firmowym blogu 22 października 2026 i pokazał teaser z minifigurkami Thomasa Bangaltera i Guy-Manuela de Homem-Christo oraz fragmentami modelu nawiązującego do koncertowej piramidy z 2007 roku. Numeru, liczby elementów, ceny ani dokładnej daty producent nie podał; PromoBricks pisze o roku 2027. Dopóki nie ma wielkości i ceny, nie da się powiedzieć, czy to model na półkę, czy duża konstrukcja dla dorosłych.",
    "rozstrzygniecie": null
   }
  ]
