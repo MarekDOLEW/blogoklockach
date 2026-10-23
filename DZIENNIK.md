@@ -143,6 +143,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-23 · CODE · Kolejka indeksacji: błąd 500 z API nie przerywa już przeglądu
+
+Nocny przebieg 23.10: pierwszy błąd `500 Internal error` z URL Inspection API przerywał cały przegląd
+(0 sprawdzeń → pusta kolejka „wszystko w indeksie”, runner słusznie jej nie commitował; druga próba dała
+70 sprawdzeń i 9 adresów). Teraz: 5xx/429 ponawiane 3 razy z przerwą, pojedynczy błędny adres pomijany,
+przerwanie dopiero gdy cała partia pada; przy 0 sprawdzeń skrypt nie zapisuje kolejki (kod 4).
+Uwaga runnera o hubach 76969 i 10311 („Excluded by noindex”) była fałszywym alarmem: to stary odczyt Google,
+w serwisie oba huby są już indeksowalne (karty P07) — kolejka dopisuje teraz przy takim adresie wyjaśnienie.
+
 ## 2026-10-23 09:05 · ŁOWCA · Do zrobienia
 
 **Nowa pozycja w podejrzanym rynku: 72151 Eevee na Ceneo za 44 zł przy RRP 249,99 (−82% — wygląda na błąd albo oszustwo; ta sama lista co 77076 z wpisu Radaru wyżej)**

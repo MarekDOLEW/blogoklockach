@@ -148,7 +148,23 @@ if (!token) {
   process.exit(2);
 }
 
-async function stan(url) {
+// 23.10.2026: pojedynczy błąd 500 z URL Inspection API przerywał cały przegląd (0 sprawdzeń,
+// pusta kolejka z napisem „wszystko w indeksie”). Błędy 5xx i 429 ponawiamy z przerwą;
+// 4xx (np. brak uprawnień) leci od razu, bo powtórka nic nie zmieni.
+const czekaj = (ms) => new Promise((ok) => setTimeout(ok, ms));
+async function stan(url, proba = 1) {
+  try {
+    return await stanRaz(url);
+  } catch (e) {
+    const kod = Number(String(e.message).split(' ')[0]);
+    if (proba < 3 && (kod >= 500 || kod === 429 || !kod)) {
+      await czekaj(proba * 4000);
+      return stan(url, proba + 1);
+    }
+    throw e;
+  }
+}
+async function stanRaz(url) {
   const r = await (await fetch('https://searchconsole.googleapis.com/v1/urlInspection/index:inspect', {
     method: 'POST',
     headers: { authorization: `Bearer ${token}`, 'content-type': 'application/json' },
@@ -166,6 +182,8 @@ const zeskanowane = [];
 const licznik = {};
 let wywolan = 0;
 let ponowione = 0;
+let bledyApi = 0;
+let przerwany = false;
 let odswiezane = 0;
 
 // ── huby działów (poniedziałek albo --dzialy): odświeżenie starego crawla ──
@@ -194,12 +212,20 @@ const doSprawdzenia = kandydaci.filter((w) => !juz.has(w.url) && !noindex(w.url)
 for (let i = 0; i < doSprawdzenia.length && wybrane.length < ILE && wywolan < BUDZET_API; i += 5) {
   const partia = doSprawdzenia.slice(i, Math.min(i + 5, i + BUDZET_API - wywolan));
   const wyniki = await Promise.allSettled(partia.map((w) => stan(w.url)));
-  const blad = wyniki.find((r) => r.status === 'rejected');
-  if (blad) {
-    console.error(`API: ${String(blad.reason?.message ?? blad.reason).slice(0, 160)} — przerywam przegląd.`);
+  const bledy = wyniki.filter((r) => r.status === 'rejected');
+  // Cała partia po trzech próbach w błędzie = API leży albo limit; pojedyncze adresy pomijamy.
+  if (bledy.length === wyniki.length) {
+    bledyApi += bledy.length;
+    console.error(`API: ${String(bledy[0].reason?.message ?? bledy[0].reason).slice(0, 160)} — cała partia w błędzie po ponowieniach, przerywam przegląd.`);
+    przerwany = true;
     break;
   }
   wyniki.forEach((r, j) => {
+    if (r.status === 'rejected') {
+      bledyApi += 1;
+      console.error(`API (${partia[j].url}): ${String(r.reason?.message ?? r.reason).slice(0, 120)} — pomijam adres.`);
+      return;
+    }
     const s = r.value;
     const w = partia[j];
     wywolan += 1;
@@ -223,6 +249,14 @@ const NAZWY = ['strona główna / listing', 'artykuł / prezentownik', 'seria', 
 console.log(`Sprawdzone w API: ${wywolan} (budżet ${BUDZET_API}). Stany: ${Object.entries(licznik).map(([k, v]) => `${k}: ${v}`).join('; ')}`);
 console.log(`Do zgłoszenia dziś: ${wybrane.length} (w tym ponownie, bez wizyty Google od zgłoszenia: ${ponowione}; huby działów do odświeżenia crawla: ${odswiezane})`);
 for (const w of wybrane) console.log(`  ${w.url}  — ${w.stan}, ${w.odswiezenie ? 'hub działu, ODŚWIEŻENIE' : NAZWY[w.k[0]] ?? '?'}, ostatni crawl: ${w.crawl?.slice(0, 10) ?? 'nigdy'}`);
+
+if (bledyApi) console.log(`Błędy API (pominięte adresy): ${bledyApi}${przerwany ? ', przegląd przerwany' : ''}`);
+// Bez ani jednego sprawdzenia nie wiemy nic o stanie indeksu — pusta kolejka z napisem
+// „wszystko w indeksie” byłaby nieprawdą, a zastąpiłaby wczorajszą listę. Kod 4: runner nie commituje.
+if (wywolan === 0) {
+  console.error('Żadne sprawdzenie w API się nie udało — kolejki nie zapisuję (kod 4). Uruchom ponownie później.');
+  process.exit(4);
+}
 
 if (sucho) process.exit(0);
 
@@ -252,12 +286,12 @@ const md = [
   '',
   '## Adresy na dziś',
   '',
-  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}${w.odswiezenie ? ` — **ODŚWIEŻENIE** (hub działu, crawl ${w.wiekCrawla ?? '?'} dni temu — zgłoś mimo „jest w Google”)` : ''}${w.ponowka ? ` (ponownie: w kolejce ${w.ponowka}, Google nie odwiedził)` : ''}`),
+  ...wybrane.map((w, i) => `${i + 1}. ${w.url} — ${w.stan}${w.crawl ? `, crawl ${w.crawl.slice(0, 10)}` : ''}${w.odswiezenie ? ` — **ODŚWIEŻENIE** (hub działu, crawl ${w.wiekCrawla ?? '?'} dni temu — zgłoś mimo „jest w Google”)` : ''}${w.ponowka ? ` (ponownie: w kolejce ${w.ponowka}, Google nie odwiedził)` : ''}${/noindex/i.test(w.stan ?? '') ? ' (to stary odczyt Google — w serwisie strona już nie ma noindex)' : ''}`),
   ...(wybrane.length ? [] : ['Brak — wszystkie sprawdzone adresy są w indeksie albo zgłoszone w ciągu 14 dni.']),
   '',
   '## Stan sprawdzonych adresów',
   '',
-  `Sprawdzone dziś w API: ${wywolan}. Ponownie w kolejce (bez wizyty Google od zgłoszenia): ${ponowione}. Huby działów do odświeżenia crawla${dzialyDzis ? '' : ' (tylko w poniedziałek)'}: ${odswiezane}.`,
+  `Sprawdzone dziś w API: ${wywolan}${bledyApi ? ` (błędy API: ${bledyApi}${przerwany ? ', przegląd przerwany – lista może być krótsza' : ''})` : ''}. Ponownie w kolejce (bez wizyty Google od zgłoszenia): ${ponowione}. Huby działów do odświeżenia crawla${dzialyDzis ? '' : ' (tylko w poniedziałek)'}: ${odswiezane}.`,
   ...Object.entries(licznik).map(([k, v]) => `- ${k}: ${v}`),
   '',
 ].join('\n');
