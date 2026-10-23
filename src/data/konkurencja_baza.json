@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-22",
-    "przebieg": "scheduled 2026-10-22 08:00",
+    "ostatnia_aktualizacja": "2026-10-23",
+    "przebieg": "scheduled 2026-10-23 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 313,
+    "liczba_wpisow": 317,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -35,7 +35,8 @@
       "2026-10-19": "Noc z 18 na 19.10 to zbiorowy skok na rocznik 2027: fanklockow wystawil cztery strony per seria (Star Wars, Ninjago, Friends, City), faniklockow jedna strone zbiorcza. Oba serwisy robia to teraz, szesc tygodni przed styczniowa fala. Nasza strona /zapowiedzi-lego-2027/ nie byla ruszana od 27.08 i w dwoch miejscach mowi nieprawde: 'Grupa LEGO nie potwierdzila jeszcze zadnego zestawu na 2027 rok' oraz 'Super Mario: jedyna potwierdzona zapowiedz'. Tymczasem sety.json ma cztery zestawy 2027-01 z polskimi cenami (71875, 67008, 71873, 67006), a przecieki.json ma dla nich rozstrzygniecia 'potwierdzony'/'zmieniony' z pierwszej dekady pazdziernika. Czyli dane wyprzedzily tekst o siedem tygodni - to nie luka wobec konkurencji, to rozjazd wewnatrz naszego serwisu. Drugi watek: fanklockow prowadzi cykl tygodniowy 'LEGO do szafy' (co z wycofywanych kupic pod odsprzedaz) - my mamy lepsze dane w /wycofania i zadnej formy, ktora je co tydzien wybiera.",
       "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja).",
       "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow.",
-      "2026-10-22": "Jedna rzecz nowa w kategorii, ktora dotad byla nasza: fanklockow uruchomili na Discordzie kanal ze statusami zestawow z lego.pl. Serwis redakcyjny wchodzi w powiadomienia. My mamy i dane (lego_pl_etykieta, wyprzedaneWLego, plakietka na hubach od 17.10), i kanal ('Obserwuj zestaw', double opt-in, alerty-cen.mjs), ale alerty sa wylacznie cenowe - 20 procent pod katalog albo rekord - i dokladnie to obiecuje formularz. Zmiana dostepnosci nie wywoluje u nas niczego. Rozszerzenie alertow to nie zadanie techniczne, a decyzja: zmienia tresc obietnicy wobec ludzi, ktorzy sie zapisali. Druga rzecz: poprawilem wlasna stara ocene. Wpis zklockow z 24.09 o prezentach pod choinke stal jako LUKA, a luke zamknelismy 07.10 strona /prezentowniki/prezenty-pod-choinke/ - zmienione na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania. Przy okazji: dzisiejszy tekst faniklockow o prezentach swiatecznych to drugi serwis idacy w te fraze, czyli tamten sygnal z wrzesnia byl trafny."
+      "2026-10-22": "Jedna rzecz nowa w kategorii, ktora dotad byla nasza: fanklockow uruchomili na Discordzie kanal ze statusami zestawow z lego.pl. Serwis redakcyjny wchodzi w powiadomienia. My mamy i dane (lego_pl_etykieta, wyprzedaneWLego, plakietka na hubach od 17.10), i kanal ('Obserwuj zestaw', double opt-in, alerty-cen.mjs), ale alerty sa wylacznie cenowe - 20 procent pod katalog albo rekord - i dokladnie to obiecuje formularz. Zmiana dostepnosci nie wywoluje u nas niczego. Rozszerzenie alertow to nie zadanie techniczne, a decyzja: zmienia tresc obietnicy wobec ludzi, ktorzy sie zapisali. Druga rzecz: poprawilem wlasna stara ocene. Wpis zklockow z 24.09 o prezentach pod choinke stal jako LUKA, a luke zamknelismy 07.10 strona /prezentowniki/prezenty-pod-choinke/ - zmienione na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania. Przy okazji: dzisiejszy tekst faniklockow o prezentach swiatecznych to drugi serwis idacy w te fraze, czyli tamten sygnal z wrzesnia byl trafny.",
+      "2026-10-23": "Pierwszy raz konkurencja sprzedala temat, ktory mamy w danych i sami ukrywamy. 77076 za 89 zl w Media Expert jest w naszym feedzie z 22.10, ale sito 'podejrzany rynek' trzyma te oferte poza strona, bo to 64 procent ponizej potwierdzonego katalogu - sprawdzone na produkcji, /zestaw/77076/ pokazuje 'od 162,99 zl' bez Media Expertu. Sito dziala dokladnie tak, jak mialo (decyzja z 16.09, po tym jak weszly nam smieciowe oferty), a oferta czeka na liscie porannego maila - dzis 8 pozycji. Roznica miedzy nami a nimi nie jest w danych ani w szybkosci, tylko w tym, ze u nas miedzy oferta a strona stoi czlowiek. Warto to widziec jako koszt reguly, nie jako jej bledu: ta sama lista ma dzis 29,99 zl za 75372 na Allegro i 44 zl za 72151 u Ceneo, czyli pozycje, ktore wygladaja jak smiec. Poza tym czwarty dzien hubow 2027 i druga czesc cyklu kompendiow modulowych u fanklockow."
     }
   },
   "publikacje": [
@@ -3751,6 +3752,52 @@
         "lego"
       ],
       "notatki": "Wydarzenie w salonach stacjonarnych. Nasz /kalendarz-promocji-lego/ ma sekcje #wydarzenia i tam zbieramy tego typu terminy, ale salony sa poza naszym modelem afiliacyjnym (nie ma z nich prowizji ani linku), wiec nie goni nas to tak jak okna gratisowe."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "To nie blad cenowy: LEGO 77076 Fortnite Restauracja Durrr Burgerownia za 89 zl",
+      "url": "https://faniklockow.pl/2026/10/22/to-nie-blad-cenowy-lego-77076-fortnite-restauracja-durrr-burgerownia-za-89-zl/",
+      "data_publikacji": "2026-10-22",
+      "data_wykrycia": "2026-10-23",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Najciekawszy przypadek od tygodni, bo to nie jest luka w danych - te oferte MAMY. 77076 za 89 zl w Media Expert siedzi w oferty_feed.json z data 2026-10-22, czyli z tego samego dnia, w ktorym oni o niej napisali. Nie widac jej na stronie, bo dziala sito 'podejrzany rynek': 89 zl to 64 procent ponizej potwierdzonej ceny katalogowej 249,99 zl, a prog wynosi 50 procent i oferty ponizej nie wchodza bez wpisu w deale_potwierdzone.json (decyzja Marka 16.09). SPRAWDZONE NA PRODUKCJI 23.10: /zestaw/77076/ pokazuje 'od 162,99 zl' i szesc sklepow, Media Expertu wsrod nich nie ma. Oferta jest na liscie porannego maila (podejrzany-rynek-mail.mjs liczy tym samym predykatem co strona, dzis 8 pozycji, 77076 trzecia). Ich 'to nie blad cenowy' nie jest dla nas dowodem - regula mowi, ze karte sklepu otwiera czlowiek - ale pokazuje, ze konkurencja sprzedaje temat, ktory u nas czeka na jedno zdanie potwierdzenia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Modulowe kompendium: od posterunku do muzeum",
+      "url": "https://fanklockow.pl/modulowe-kompendium-od-posterunku-do-muzeum/",
+      "data_publikacji": "2026-10-22",
+      "data_wykrycia": "2026-10-23",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Druga czesc cyklu kompendiow modulowych w dwa dni (po 'miasto Ninjago' z 21.10). Robia z tego serie, nie pojedynczy tekst - to ta sama klasa stron, co 'odkrywaj' u zklockow z 17.09. Znany sygnal, trzeci raz; nadal bez zadania."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ideas na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/22/zapowiedzi-serii-lego-ideas-na-2027-rok/",
+      "data_publikacji": "2026-10-22",
+      "data_wykrycia": "2026-10-23",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czwarty dzien rozbudowy hubow 2027 po obu stronach, tym razem Ideas u faniklockow dzien po stronie Ideas u fanklockow. Nasze /zapowiedzi-lego-2027/ po aktualizacji z 19.10 rozdziela potwierdzone od przeciekow i to jest przewaga, ktorej oni nie maja; pojedynczych serii nie gonimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Oficjalne otwarcie LEGO Store Praha Centrum - fotorelacja",
+      "url": "https://faniklockow.pl/2026/10/22/oficjalne-otwarcie-lego-store-praha-centrum-fotorelacja/",
+      "data_publikacji": "2026-10-22",
+      "data_wykrycia": "2026-10-23",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Fotorelacja z otwarcia sklepu w Czechach, zapowiadanego ich tekstem z 13.10 (juz w bazie). Salony stacjonarne za granica sa poza naszym modelem - bez linku i bez prowizji."
     }
   ],
   "obserwacje_strategiczne": {

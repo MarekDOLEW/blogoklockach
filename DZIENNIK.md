@@ -142,6 +142,18 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-23 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 22.10** — Opisali 77076 Durrr Burgerownia za 89 zł w Media Expert z tytułem „to nie błąd cenowy"; tę samą ofertę mamy w `oferty_feed.json` z datą 22.10, czyli z dnia ich publikacji.
+**Mamy?** — nie na stronie: sito „podejrzany rynek" trzyma ją poza serwisem, bo 89 zł to 64% poniżej potwierdzonej ceny katalogowej 249,99 zł, a próg wynosi 50%. Sprawdzone na produkcji dzisiaj: `/zestaw/77076/` pokazuje „od 162,99 zł" i sześć sklepów, Media Expertu wśród nich nie ma. Oferta jest na liście porannego maila (`podejrzany-rynek-mail.mjs`, dziś 8 pozycji, 77076 trzecia).
+**Zrobić:** — otworzyć kartę Media Expertu i jednym zdaniem w rozmowie z Code potwierdzić albo odrzucić („potwierdzam 77076 89 mediaexpert"); po potwierdzeniu oferta wraca na stronę tego samego dnia. Ich zdanie „to nie błąd cenowy" nie zastępuje tego kroku — reguła z 16.09 mówi, że kartę sklepu otwiera człowiek.
+**Kto:** — Marek (decyzja)
+
+Kontekst, żeby decyzja nie wyglądała na formalność: ta sama lista ma dziś 29,99 zł za 75372 na Allegro
+i 44 zł za 72151 u Ceneo — pozycje, które wyglądają jak śmieć i dla których sito powstało. Różnica
+między nami a konkurencją nie jest w danych ani w szybkości, tylko w tym, że u nas między ofertą
+a stroną stoi człowiek. To koszt reguły, nie jej błąd.
 ## 2026-10-23 05:20 · SCOUT · Do zrobienia
 
 **Cztery zestawy LEGO Education Science są w zwykłej sprzedaży detalicznej, a nasza reguła „LEGO Education nie wchodzi do `sety.json`" zakłada kanał szkolny: 45200 Moon Mission i 45201 Antarctic Animals po 209,99 zł, 45202 Mars Mission i 45203 Arctic Animals po 419,99 zł, w feedzie od 20.10.2026.**
