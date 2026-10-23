@@ -162,6 +162,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — nie na stronie: sito „podejrzany rynek" trzyma ją poza serwisem, bo 89 zł to 64% poniżej potwierdzonej ceny katalogowej 249,99 zł, a próg wynosi 50%. Sprawdzone na produkcji dzisiaj: `/zestaw/77076/` pokazuje „od 162,99 zł" i sześć sklepów, Media Expertu wśród nich nie ma. Oferta jest na liście porannego maila (`podejrzany-rynek-mail.mjs`, dziś 8 pozycji, 77076 trzecia).
 **Zrobić:** — otworzyć kartę Media Expertu i jednym zdaniem w rozmowie z Code potwierdzić albo odrzucić („potwierdzam 77076 89 mediaexpert"); po potwierdzeniu oferta wraca na stronę tego samego dnia. Ich zdanie „to nie błąd cenowy" nie zastępuje tego kroku — reguła z 16.09 mówi, że kartę sklepu otwiera człowiek.
 **Kto:** — Marek (decyzja)
+→ zamknięte 23.10.2026: Marek — „burgerownia jest po 170 w Media Ekspert". Oferta 89 zł **odrzucona**,
+dopisana do `deale_potwierdzone.json` w sekcji `odrzucone`; zostaje ukryta, a poranny mail przestaje
+o nią pytać (wróci tylko przy cenie niższej niż 89 zł). Reguła z 16.09 zadziałała dokładnie tak, jak
+miała — i to jest tu najważniejsze: **nagłówek konkurencji „to nie błąd cenowy" nie przeszedł naszego
+sprawdzenia.** Przy ich tekstach dealowych kwota jest twierdzeniem do weryfikacji, nie faktem, nawet
+gdy zapewniają, że sprawdzili. Zapisane też w `konkurencja_baza.json` przy tym wpisie (ocena LUKA → NOTUJEMY).
 
 Kontekst, żeby decyzja nie wyglądała na formalność: ta sama lista ma dziś 29,99 zł za 75372 na Allegro
 i 44 zł za 72151 u Ceneo — pozycje, które wyglądają jak śmieć i dla których sito powstało. Różnica

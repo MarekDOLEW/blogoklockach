@@ -3760,11 +3760,11 @@
       "data_publikacji": "2026-10-22",
       "data_wykrycia": "2026-10-23",
       "typ": "promocja",
-      "ocena": "LUKA",
+      "ocena": "NOTUJEMY",
       "sklepy_linkowane": [
         "mediaexpert"
       ],
-      "notatki": "Najciekawszy przypadek od tygodni, bo to nie jest luka w danych - te oferte MAMY. 77076 za 89 zl w Media Expert siedzi w oferty_feed.json z data 2026-10-22, czyli z tego samego dnia, w ktorym oni o niej napisali. Nie widac jej na stronie, bo dziala sito 'podejrzany rynek': 89 zl to 64 procent ponizej potwierdzonej ceny katalogowej 249,99 zl, a prog wynosi 50 procent i oferty ponizej nie wchodza bez wpisu w deale_potwierdzone.json (decyzja Marka 16.09). SPRAWDZONE NA PRODUKCJI 23.10: /zestaw/77076/ pokazuje 'od 162,99 zl' i szesc sklepow, Media Expertu wsrod nich nie ma. Oferta jest na liscie porannego maila (podejrzany-rynek-mail.mjs liczy tym samym predykatem co strona, dzis 8 pozycji, 77076 trzecia). Ich 'to nie blad cenowy' nie jest dla nas dowodem - regula mowi, ze karte sklepu otwiera czlowiek - ale pokazuje, ze konkurencja sprzedaje temat, ktory u nas czeka na jedno zdanie potwierdzenia."
+      "notatki": "Najciekawszy przypadek od tygodni, bo to nie jest luka w danych - te oferte MAMY. 77076 za 89 zl w Media Expert siedzi w oferty_feed.json z data 2026-10-22, czyli z tego samego dnia, w ktorym oni o niej napisali. Nie widac jej na stronie, bo dziala sito 'podejrzany rynek': 89 zl to 64 procent ponizej potwierdzonej ceny katalogowej 249,99 zl, a prog wynosi 50 procent i oferty ponizej nie wchodza bez wpisu w deale_potwierdzone.json (decyzja Marka 16.09). SPRAWDZONE NA PRODUKCJI 23.10: /zestaw/77076/ pokazuje 'od 162,99 zl' i szesc sklepow, Media Expertu wsrod nich nie ma. Oferta jest na liscie porannego maila (podejrzany-rynek-mail.mjs liczy tym samym predykatem co strona, dzis 8 pozycji, 77076 trzecia). Ich 'to nie blad cenowy' nie jest dla nas dowodem - regula mowi, ze karte sklepu otwiera czlowiek - ale pokazuje, ze konkurencja sprzedaje temat, ktory u nas czeka na jedno zdanie potwierdzenia. WERDYKT 23.10.2026: Marek sprawdzil karte Media Expertu - zestaw stoi po okolo 170 zl, nie 89. Oferta dopisana do deale_potwierdzone.json jako odrzucona, zostaje ukryta. Wniosek na przyszle przebiegi, wazniejszy niz sam zestaw: ich naglowek 'to nie blad cenowy' NIE przeszedl naszego sprawdzenia. Przy ich tekstach dealowych traktujemy kwote jako twierdzenie do weryfikacji, nie jako fakt, nawet gdy sami zapewniaja, ze sprawdzili. Ocena zmieniona z LUKA na NOTUJEMY - nie bylo czego gonic."
     },
     {
       "serwis": "fanklockow.pl",
