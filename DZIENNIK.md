@@ -143,6 +143,19 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-23 09:05 · ŁOWCA · Do zrobienia
+
+**Nowa pozycja w podejrzanym rynku: 72151 Eevee na Ceneo za 44 zł przy RRP 249,99 (−82% — wygląda na błąd albo oszustwo; ta sama lista co 77076 z wpisu Radaru wyżej)**
+**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
+**Zrobić:** — sprawdzić kartę oferty z maila i dopisać 72151 do `src/data/deale_potwierdzone.json` (niemal na pewno odrzucone)
+**Kto:** — Marek (decyzja)
+
+**40816 Dekoracyjna Pisanka wróciła do maila: Media Expert 29,99 zł przy RRP 81,99 (−63%, poniżej odrzuconych 38 zł z Allegro; tym razem zwykły sklep — wygląda na realną wyprzedaż końcówek)**
+**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
+**Zrobić:** — sprawdzić kartę ME z maila i dopisać 40816 do `src/data/deale_potwierdzone.json` (potwierdzone albo ponownie odrzucone)
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-10-23 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 22.10** — Opisali 77076 Durrr Burgerownia za 89 zł w Media Expert z tytułem „to nie błąd cenowy"; tę samą ofertę mamy w `oferty_feed.json` z datą 22.10, czyli z dnia ich publikacji.
