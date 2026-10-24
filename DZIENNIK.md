@@ -171,6 +171,19 @@ temat, którego sami nie zauważyliśmy.
 **Kto:** — Marek (panel)
 
 
+## 2026-10-24 · CODE · Skrzynka tekstów: teksty Piotra z maila publikują się same
+
+Decyzja Marka: teksty Piotra idą na stronę bez przeglądu, do Marka i Piotra wracają same linki.
+Claude Piotra wysyła pliki .md (i zdjęcia `NNNN_zdjecie_K.jpg`) z tylkoklockiblog@gmail.com na
+`tylkoklockiblog+code@gmail.com`; zadanie „Skrzynka tekstów Piotra” (8:52 i 14:52) importuje je
+`scripts/skrzynka-tekstow.py`, buduje i pushuje na main. Przy błędzie importu (surowy znacznik,
+brak zdjęcia, brak opisu) albo buildu nic nie wchodzi, a mail wymienia problemy. Poprawka o tym
+samym numerze zastępuje tekst pod tym samym adresem (rejestr `redakcja/skrzynka.json`, zasiany
+tekstami 0022–0025 i Recenzje_011; data publikacji zostaje, dochodzi `zaktualizowano`).
+**Automat nie dobiera galerii ani przycisków sklepów** — przy ważniejszych tekstach może je
+dołożyć sesja ręcznie. IMAP/SMTP z kontenera są zablokowane, więc hasło aplikacji Gmail
+(`TEKSTY_GMAIL_HASLO`) jest bezużyteczne — do odwołania w Google i usunięcia ze zmiennych.
+Hasło do skrzynki Marek przekazuje Piotrowi SMS-em.
 
 ## 2026-10-23 · CODE · Kolejka indeksacji: błąd 500 z API nie przerywa już przeglądu
 

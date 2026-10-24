@@ -351,6 +351,14 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**24.10.2026 (Skrzynka tekstów Piotra — decyzja Marka: publikacja bez przeglądu)**
+- Nowe zadanie w stałej sesji Code (`session_011GrNNd6UVQFF1NamoPaQMS`, ma konektor Gmail
+  na tylkoklockiblog@gmail.com): `trig_01767aXjmBQ1K6B9WijvH3zy`, **codziennie 08:52 i 14:52 PL**.
+  Szuka maili z załącznikami wysłanych z tej skrzynki na `tylkoklockiblog+code@gmail.com`
+  (tylko etykieta SENT), publikuje je `scripts/skrzynka-tekstow.py`, odpowiedź z linkami idzie
+  do Marka, Piotra i `+piotr`. Obsłużone maile dostają etykietę `opublikowane` (Label_1)
+  albo `do-poprawy` (Label_2). Instrukcja: `redakcja/skrzynka-instrukcja.md`.
+
 **19.10.2026 po południu (kontrola linków w przeglądarce — wersja ostateczna)**
 - Zadanie z Chrome założył Marek na Macu: `trig_01NRYdRPRMVTYZTGDf5C8iH6`, **20. dnia miesiąca 11:45**.
   Trigger z chmury (`trig_01Umoo2wdqxj6u5qTwUjjQqa`) nie miał powiązania z komputerem i został skasowany.
