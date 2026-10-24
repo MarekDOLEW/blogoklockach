@@ -142,6 +142,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-24 05:15 · SCOUT · Do zrobienia
+
+**LEGO otwiera 28.10 nowe okno gratisowe: 40889 Buduj, maluj i baw się! (Ideas, 158 elementów, 18+, wycena 81,99 zł) dokładany do zamówień w sklepie LEGO do 11.11.2026 — polskiego progu zakupu nie ma na karcie produktu, niemiecki to 130 euro.**
+**Mamy?** — częściowo: hub `/zestaw/40889/` jest od dziś z wyceną i datami, ale `/kalendarz-promocji-lego/` tego okna nie zna wcale.
+**Zrobić:** — dopisać do `/kalendarz-promocji-lego/` okno 28.10–11.11 z gratisem 40889 i sprawdzić polski próg na `lego.com/pl-pl/page/lego-offers-promotions` po starcie akcji (28.10), bo karta produktu go nie podaje.
+**Kto:** — Code (dane, strona)
+
+**Prompt zadania „Scout nowości" nadal zawiera zdanie „Zestawów LEGO Education nie dodawaj do sety.json", a 23.10 zdecydowałeś odwrotnie dla czterech Science Kitów w sprzedaży detalicznej (45200–45203, dopisane).**
+**Mamy?** — nie: decyzja żyje w `DZIENNIK.md` i w `known_sets.json`, ale nie w promptcie, a sesja z czystym kontekstem czyta tylko prompt.
+**Zrobić:** — w panelu zadania cyklicznego dopisać wyjątek: Education w zwykłej sprzedaży detalicznej wchodzi do `sety.json`, kanał szkolny (np. 45521) nie.
+**Kto:** — Marek (panel)
+
+
 
 ## 2026-10-23 · CODE · Kolejka indeksacji: błąd 500 z API nie przerywa już przeglądu
 

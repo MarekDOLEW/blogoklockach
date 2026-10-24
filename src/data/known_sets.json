@@ -1,7 +1,7 @@
 {
- "data_aktualizacji": "2026-10-23",
+ "data_aktualizacji": "2026-10-24",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
- "liczba_setow": 1211,
+ "liczba_setow": 1212,
  "sety": [
   "10280",
   "10281",
@@ -1213,7 +1213,8 @@
   "45200",
   "45201",
   "45202",
-  "45203"
+  "45203",
+  "40889"
  ],
  "zapowiedzi_sledzone": [
   {
@@ -6510,5 +6511,13 @@
   "luki_katalogu": "PRZELICZONE W TYM PRZEBIEGU tym samym skryptem na dwoch rewizjach (4bf121d i drzewo robocze), pelnym lancuchem cen (rrp_potwierdzone -> sety -> ceny_baza -> katalog, bez_rrp wygrywa z kazda liczba). Opisane bez ceny: 2 (21375 Godzilla, 77094 Zelda — oba to stare wpisy status_nowosci przeciek, oba bez ofert w feedzie). Rocznik 2026 w sprzedazy bez wpisu w sety.json: 21. Cala kolejka 2020-2026: 169. Liczby 8 / 17 / 176 raportowane 22.10 byly przeniesione z poprzednich przebiegow, nie przeliczone — ta sama metoda na commicie 4bf121d daje 3 / 21 / 169. Uwaga: rrp_potwierdzone.json trzyma cene pod kluczem `cena`, nie `cena_katalogowa` — prostszy odsiew to przeoczy.",
   "education_w_kolejce": "45200, 45201, 45202, 45203 (Moon Mission / Antarctic Animals / Mars Mission / Arctic Animals Science Kit) stoja w liscie luk rocznika 2026. Brickset: theme Education, subtheme Science, availability „Retail - limited”, DE 49,99 / 49,99 / 99,99 / 99,99 euro, premiera 20.01.2026; nasz katalog ma je z cenami 209,99 / 209,99 / 419,99 / 419,99 zl, feed od 20.10. Regula zakazuje dodawac LEGO Education do sety.json, ale te cztery sa w zwyklej sprzedazy detalicznej, wiec powod „kanal szkolny” do nich nie pasuje — decyzja dla Marka, nie dopisuje ich sam. DECYZJA MARKA 23.10.2026: dopisac do sety.json. Cztery wpisy zalozone (nazwy polskie z feedu Allegro w materialy/opisy-lego/pozostale-serie-education.md, ceny z listingu lego.pl z 20.10, wiek 8+/7+/9+/9+, premiera 2026-01). W katalog.json te same cztery przeniesione z kubelka „Archiwum” do nowej serii „Education”, zeby oba pliki mowily to samo — liczba pozycji katalogu bez zmian (9875). Nowa strona /serie/education/ z czterema zestawami.",
   "serwisy": "PromoBricks: jeden nowy tekst od wczoraj (teaser Daft Punk, 22.10). StoneWars: ten sam temat 22.10, wczesniej tylko podcast z 20.10. Zadnych sygnalow wycofan w zrodlach tego przebiegu."
+ },
+ "przeglad_2026_10_24": {
+  "nowosci": "Jeden zestaw do sety.json: 40889 Buduj, maluj i baw sie! (Ideas, 158 el., 18+, wycena 81,99 zl, okno 28.10-11.11.2026). Okno przyrostowe (updatedSince 23.10) dalo cztery rekordy: 40889 z nowa data premiery, kalendarze 5010365 i 5010366 (kategoria Gear — filtr szumu) oraz 1636 Handy Bucket of Bricks z rocznika 1990 (stary rekord, nie nowosc).",
+  "rozstrzygniecie_40889": "LEGO przedstawilo zestaw oficjalnie 23.10 (StoneWars), Brickset dopisal launchDate 2026-10-28, karta lego.com/pl-pl podaje nazwe polska „Buduj, maluj i baw sie!”, wartosc 81,99 zl i „out of stock” przed startem. Wpis w przeciekach rozstrzygniety jako potwierdzony: 158 elementow, dwie minifigurki i 18+ z wycieklych zdjec zgodzily sie co do jednego, a „koniec pazdziernika” trafil w 28.10. Prog zakupu LEGO podalo tylko dla Niemiec (130 euro) — polskiego nie ma na karcie. Nazwa poprawiona z naszego tlumaczenia „Buduj, maluj, graj!”. Do katalog.json nie dopisuje — zrobi to zaciag z Rebrickable.",
+  "daft_punk": "Drugi dzien tematu: PromoBricks 23.10 osobnym tekstem potwierdzil wspolprace, StoneWars tego samego dnia napisal, ze ma wyjsc poza jeden zestaw Ideas. Zrodla dopisane do wpisu, opis przepisany, pewnosc bez zmian (wysoka). Numeru, ceny i daty nadal nie ma.",
+  "luki_katalogu": "Przeliczone w tym przebiegu tym samym skryptem na dwoch rewizjach (065f96d i drzewo robocze): opisane bez ceny 2 (21375, 77094 — oba bez ofert w feedzie), rocznik 2026 w sprzedazy bez wpisu w sety.json 17 (bylo 21: ubyly 45200-45203 dolozone wczoraj), cala kolejka 2020-2026: 165.",
+  "prompt_runnera": "Prompt tego zadania nadal mowi „Zestawow LEGO Education nie dodawaj do sety.json”, a 23.10 Marek zdecydowal odwrotnie dla czterech Science Kitow w sprzedazy detalicznej. Sesja ze swiezym kontekstem przeczyta tylko prompt — pozycja dla Marka w dzienniku.",
+  "serwisy": "PromoBricks: dwa nowe teksty z 23.10 (Daft Punk, marka roku). StoneWars: dwa z 23.10 (40889, Daft Punk). Zadnych sygnalow wycofan w zrodlach tego przebiegu. Uwaga techniczna: pytanie o prog zakupu 40889 zadane wyciagowi ze strony glownej PromoBricks wrocilo z odpowiedzia o zupelnie innej akcji (gratis 40785, grudzien 2025) — nie uzyte, prog wziety z tekstu StoneWars o 40889."
  }
 }
