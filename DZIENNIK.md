@@ -142,6 +142,20 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-24 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 23.10** — Opisali 75192 Sokół Millennium jako okazję cenową; w naszych danych wychodzi mocniej, niż sami piszą: 2699,90 zł w Media Expert z 23.10 przy potwierdzonym katalogu 3599,99 (−25%) to **minimum całej naszej historii cen** tego zestawu (39 zapisów od 18.09; poprzednie minimum 2799 zł z 18.09, Allegro i Smyk), a zestaw ma potwierdzone wycofanie na grudzień 2026.
+**Mamy?** — częściowo: cena jest widoczna na `/zestaw/75192/` (−25% to nie poziom sita „podejrzany rynek"), ale nie mamy o tym żadnego tekstu — mimo że wzorzec stoi w repo: `/deale/deal-76325-quinjet-minimum-przed-wycofaniem/`, 28 linii, napisany w przebiegu Radaru 07.10.
+**Zrobić:** — krótki deal „75192 Sokół Millennium w minimum naszych notowań przed grudniowym wycofaniem" w `src/pages/deale/`, na wzór dealu 76325; wszystkie liczby są już policzone z `historia-cen` i `wycofania.json`.
+**Kto:** — Code (dane, strona)
+
+Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
+22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,
+oferta odrzucona). 23.10 ich okazja na 75192 **sprawdza się** i jest mocniejsza, niż napisali. Wniosek
+nie brzmi więc „oni się mylą" ani „oni mają rację", tylko: ich teksty dealowe są leadem do sprawdzenia
+w naszych danych, a ta robota opłaca się w obie strony — raz chroni przed fałszywą ceną, raz pokazuje
+temat, którego sami nie zauważyliśmy.
 ## 2026-10-24 05:15 · SCOUT · Do zrobienia
 
 **LEGO otwiera 28.10 nowe okno gratisowe: 40889 Buduj, maluj i baw się! (Ideas, 158 elementów, 18+, wycena 81,99 zł) dokładany do zamówień w sklepie LEGO do 11.11.2026 — polskiego progu zakupu nie ma na karcie produktu, niemiecki to 130 euro.**

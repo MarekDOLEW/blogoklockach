@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-23",
-    "przebieg": "scheduled 2026-10-23 08:00",
+    "ostatnia_aktualizacja": "2026-10-24",
+    "przebieg": "scheduled 2026-10-24 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 317,
+    "liczba_wpisow": 320,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -36,7 +36,8 @@
       "2026-10-20": "Pierwszy dzien, w ktorym na temacie zakupowym bylismy szybsi, nie wolniejsi. faniklockow opisali start Black Weeks w x-komie 19.10 - my tego samego dnia wydalismy wlasny tekst z kodem black-weeks1, jedenastoma zestawami i czterema cenami najnizszymi w naszych notowaniach, plus informacja, co bylo rano wyprzedane. To jest ta sama przewaga, o ktora chodzi: nasze dane x-komu sa z 19.10 i obejmuja 726 zestawow, wiec nie przepisujemy cudzych list. Druga publikacja to podcast fanklockow podsumowujacy Batmobile i Wenecje - format audio, ktorego nie prowadzimy. Struktura bez zmian: zklockow stoi na wpisie z 15.10, promoklocki maja te same kategorie i karty, licznik paginacji dalej 223 (przetasowanie pierwszych kart to ruch ofert, nie nowa funkcja).",
       "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow.",
       "2026-10-22": "Jedna rzecz nowa w kategorii, ktora dotad byla nasza: fanklockow uruchomili na Discordzie kanal ze statusami zestawow z lego.pl. Serwis redakcyjny wchodzi w powiadomienia. My mamy i dane (lego_pl_etykieta, wyprzedaneWLego, plakietka na hubach od 17.10), i kanal ('Obserwuj zestaw', double opt-in, alerty-cen.mjs), ale alerty sa wylacznie cenowe - 20 procent pod katalog albo rekord - i dokladnie to obiecuje formularz. Zmiana dostepnosci nie wywoluje u nas niczego. Rozszerzenie alertow to nie zadanie techniczne, a decyzja: zmienia tresc obietnicy wobec ludzi, ktorzy sie zapisali. Druga rzecz: poprawilem wlasna stara ocene. Wpis zklockow z 24.09 o prezentach pod choinke stal jako LUKA, a luke zamknelismy 07.10 strona /prezentowniki/prezenty-pod-choinke/ - zmienione na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania. Przy okazji: dzisiejszy tekst faniklockow o prezentach swiatecznych to drugi serwis idacy w te fraze, czyli tamten sygnal z wrzesnia byl trafny.",
-      "2026-10-23": "Pierwszy raz konkurencja sprzedala temat, ktory mamy w danych i sami ukrywamy. 77076 za 89 zl w Media Expert jest w naszym feedzie z 22.10, ale sito 'podejrzany rynek' trzyma te oferte poza strona, bo to 64 procent ponizej potwierdzonego katalogu - sprawdzone na produkcji, /zestaw/77076/ pokazuje 'od 162,99 zl' bez Media Expertu. Sito dziala dokladnie tak, jak mialo (decyzja z 16.09, po tym jak weszly nam smieciowe oferty), a oferta czeka na liscie porannego maila - dzis 8 pozycji. Roznica miedzy nami a nimi nie jest w danych ani w szybkosci, tylko w tym, ze u nas miedzy oferta a strona stoi czlowiek. Warto to widziec jako koszt reguly, nie jako jej bledu: ta sama lista ma dzis 29,99 zl za 75372 na Allegro i 44 zl za 72151 u Ceneo, czyli pozycje, ktore wygladaja jak smiec. Poza tym czwarty dzien hubow 2027 i druga czesc cyklu kompendiow modulowych u fanklockow."
+      "2026-10-23": "Pierwszy raz konkurencja sprzedala temat, ktory mamy w danych i sami ukrywamy. 77076 za 89 zl w Media Expert jest w naszym feedzie z 22.10, ale sito 'podejrzany rynek' trzyma te oferte poza strona, bo to 64 procent ponizej potwierdzonego katalogu - sprawdzone na produkcji, /zestaw/77076/ pokazuje 'od 162,99 zl' bez Media Expertu. Sito dziala dokladnie tak, jak mialo (decyzja z 16.09, po tym jak weszly nam smieciowe oferty), a oferta czeka na liscie porannego maila - dzis 8 pozycji. Roznica miedzy nami a nimi nie jest w danych ani w szybkosci, tylko w tym, ze u nas miedzy oferta a strona stoi czlowiek. Warto to widziec jako koszt reguly, nie jako jej bledu: ta sama lista ma dzis 29,99 zl za 75372 na Allegro i 44 zl za 72151 u Ceneo, czyli pozycje, ktore wygladaja jak smiec. Poza tym czwarty dzien hubow 2027 i druga czesc cyklu kompendiow modulowych u fanklockow.",
+      "2026-10-24": "Dzien po dniu ta sama kategoria i zupelnie inny wynik sprawdzenia - warto to zestawic. 22.10 ich 'to nie blad cenowy' przy 77076 za 89 zl nie przeszlo weryfikacji Marka (zestaw stoi po 170, oferta odrzucona). 23.10 ich okazja na 75192 sprawdza sie w naszych wlasnych danych i jest mocniejsza, niz sami pisza: 2699,90 zl w Media Expert to minimum CALEJ naszej historii cen tego zestawu (poprzednie 2799 zl z 18.09), a zestaw ma potwierdzone wycofanie na grudzien. Wniosek dla nas nie brzmi 'oni sie myla' ani 'oni maja racje', tylko: ich teksty dealowe to lead do sprawdzenia w naszych danych, i ta robota oplaca sie w obie strony - raz chroni przed falszywa cena, raz pokazuje temat, ktorego nie zauwazylismy. Poza tym trzy kolejne strony serii 2027 u fanklockow (Art, Harry Potter, Editions) i druga w tygodniu relacja z miejsca (muzeum w Krakowie, sklep w Pradze) - linia tresci wymagajaca fizycznej obecnosci, ktorej nie bedziemy miec."
     }
   },
   "publikacje": [
@@ -3798,6 +3799,41 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Fotorelacja z otwarcia sklepu w Czechach, zapowiadanego ich tekstem z 13.10 (juz w bazie). Salony stacjonarne za granica sa poza naszym modelem - bez linku i bez prowizji."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja cenowa: Star Wars 75192 Sokol Millennium",
+      "url": "https://faniklockow.pl/2026/10/23/okazja-cenowa-star-wars-75192-sokol-millennium-2/",
+      "data_publikacji": "2026-10-23",
+      "data_wykrycia": "2026-10-24",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Tym razem ich okazja sprawdza sie w naszych danych i jest mocna. 75192 stoi 23.10 w Media Expert po 2699,90 zl przy potwierdzonym katalogu 3599,99 (-25%). POLICZONE Z NASZEJ HISTORII CEN (39 zapisow z cena, 18.09-23.10): to NAJNIZSZA cena, jaka kiedykolwiek zanotowalismy dla tego zestawu; poprzednie minimum to 2799 zl z 18.09 (Allegro i Smyk). Do tego 75192 ma potwierdzone wycofanie na grudzien 2026 (wycofania.json, status 'potwierdzone'), czyli to UCS schodzacy z produkcji w minimum cenowym - najmocniejszy motyw zakupowy sezonu dla AFOL-a. Oferta jest widoczna na hubie (25 procent to nie poziom sita 'podejrzany rynek'), ale nie mamy o niej zadnego tekstu, choc wzorzec w repo istnieje: /deale/deal-76325-quinjet-minimum-przed-wycofaniem/ to dokladnie ta forma, 28 linii."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wizyta w muzeum Bricks & Figs w Krakowie - kilkaset zestawow i tysiace minifigurek",
+      "url": "https://faniklockow.pl/2026/10/23/wizyta-w-muzeum-bricks-figs-w-krakowie-kilkaset-zestawow-i-tysiace-minifigurek/",
+      "data_publikacji": "2026-10-23",
+      "data_wykrycia": "2026-10-24",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Reportaz z prywatnego muzeum klockow w Krakowie. Kategoria 'byliśmy i zobaczylismy', ktorej nie prowadzimy i prowadzic nie mozemy - wymaga fizycznej obecnosci. Drugi taki tekst w tygodniu po fotorelacji z Pragi, czyli buduja tym osobna linie tresci."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO flagship store Praga - relacja spolecznosciowa",
+      "url": "https://fanklockow.pl/lego-flagship-store-praga-relacja-spolecznosciowa/",
+      "data_publikacji": "2026-10-23",
+      "data_wykrycia": "2026-10-24",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Trzeci tekst o praskim sklepie w ciagu dwoch dni liczac oba serwisy (faniklockow: zapowiedz 13.10 i fotorelacja 22.10). Salony za granica sa poza naszym modelem - bez linku i bez prowizji."
     }
   ],
   "obserwacje_strategiczne": {
