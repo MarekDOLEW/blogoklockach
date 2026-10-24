@@ -143,6 +143,8 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+↻ 2026-10-24 · ŁOWCA: w sicie podejrzanego rynku czeka 6 pozycji bez werdyktu (75372, 10696, 76319, 40808, 71853 — szczegóły w mailach „Oferty do sprawdzenia"); żadna nowa w tym tygodniu, decyzje Marka w `src/data/deale_potwierdzone.json`, bez pośpiechu.
+
 ## 2026-10-24 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 23.10** — Opisali 75192 Sokół Millennium jako okazję cenową; w naszych danych wychodzi mocniej, niż sami piszą: 2699,90 zł w Media Expert z 23.10 przy potwierdzonym katalogu 3599,99 (−25%) to **minimum całej naszej historii cen** tego zestawu (39 zapisów od 18.09; poprzednie minimum 2799 zł z 18.09, Allegro i Smyk), a zestaw ma potwierdzone wycofanie na grudzień 2026.
