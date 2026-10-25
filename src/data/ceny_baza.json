@@ -1213,15 +1213,15 @@
  "10480": {
   "nazwa": "Las odkrywców z dzikimi zwierzętami",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 219,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 218.99,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "76476": {
   "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
   "cena_katalogowa": 1849.99,
-  "najnizsza_cena": 1828.79,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 1819.99,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "11211": {
@@ -1262,8 +1262,8 @@
  "71865": {
   "nazwa": "Bitwa lodowego smoka Zane'a",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 144.25,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 143.44,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "71863": {
@@ -2354,8 +2354,8 @@
  "75364": {
   "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 388.99,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 383,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "75413": {
@@ -2494,8 +2494,8 @@
  "42141": {
   "nazwa": "Samochód wyścigowy McLaren Formula 1",
   "cena_katalogowa": 849.99,
-  "najnizsza_cena": 555,
-  "najnizsza_data": "2026-09-30",
+  "najnizsza_cena": 554,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "42154": {
@@ -3103,8 +3103,8 @@
  "10362": {
   "nazwa": "Francuska kawiarenka",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 192,
-  "najnizsza_data": "2026-09-19",
+  "najnizsza_cena": 188.97,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "60472": {
@@ -3537,8 +3537,8 @@
  "71811": {
   "nazwa": "Łazik terenowy ninja Arina",
   "cena_katalogowa": 214.99,
-  "najnizsza_cena": 174.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 170,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "40879": {
@@ -3600,8 +3600,8 @@
  "43266": {
   "nazwa": "Suknia Kopciuszka",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 108,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 107.99,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "71804": {
@@ -4251,8 +4251,8 @@
  "42609": {
   "nazwa": "Samochód elektryczny i stacja ładująca",
   "cena_katalogowa": 64.99,
-  "najnizsza_cena": 54.48,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 53,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "76907": {
@@ -5693,8 +5693,8 @@
  "30731": {
   "nazwa": "Tom Nook i latający prezent",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 10,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 9.99,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "21251": {
@@ -5840,8 +5840,8 @@
  "60373": {
   "nazwa": "Łódź strażacka",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 54.87,
-  "najnizsza_data": "2026-10-21",
+  "najnizsza_cena": 53,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "31170": {
@@ -6134,8 +6134,8 @@
  "60407": {
   "nazwa": "Czerwony, piętrowy autokar",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 77.97,
-  "najnizsza_data": "2026-10-19",
+  "najnizsza_cena": 77.41,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "76335": {
@@ -6925,8 +6925,8 @@
  "75328": {
   "nazwa": "Hełm Mandalorianina",
   "cena_katalogowa": 309.99,
-  "najnizsza_cena": 198.95,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 198,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "40721": {
@@ -7660,8 +7660,8 @@
  "30690": {
   "nazwa": "Malowanie pisanek z kurczaczkiem",
   "cena_katalogowa": 16.99,
-  "najnizsza_cena": 10,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 9.99,
+  "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
  },
  "75410": {
