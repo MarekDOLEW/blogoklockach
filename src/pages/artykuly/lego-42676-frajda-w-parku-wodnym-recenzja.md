@@ -17,6 +17,8 @@ Zestaw trafił do sprzedaży 1 czerwca 2026 roku. Składa się z 278 elementów 
 
 Całość zbudowano na prostokątnej płytce 8×16 połączonej z półokrągłą płytką 10×10, dzięki czemu park ma zwarty, czytelny kształt i nie zajmuje dużo miejsca na stole czy półce. Centralnym punktem jest basen z dużym kołem do pływania, do którego prowadzi zjeżdżalnia. Obok stoi winda podnoszona ręcznie na szczyt zjeżdżalni oraz fontanna osadzona na dużym kole zębatym, którą można obracać. Drugą część podstawy zajmuje strefa wypoczynku z leżakami dla minilalek i posłaniami dla zwierząt, palmą, parasolem, pojemnikiem z lodami, smakołykami dla psów i butelką kremu z filtrem.
 
+![LEGO 42676 Frajda w parku wodnym – zbudowany model: basen, zjeżdżalnia, fontanna i strefa wypoczynku](/img/42676-1.jpg)
+
 Taki układ dobrze sprawdza się w zabawie, bo każda część kąpieliska ma inną funkcję, a przejście od jednej do drugiej jest naturalne: zwierzak wjeżdża windą, zjeżdża do basenu, a potem trafia na leżak albo pod fontannę. W recenzjach powtarza się opinia, że zestaw robi to, co obiecuje opis, a na zwartej podstawie mieści kilka osobnych stref zabawy. Tył modelu jest natomiast mało ciekawy, co przy zestawie do zabawy ma jednak niewielkie znaczenie.
 
 ## Budowa na jedno popołudnie
@@ -29,13 +31,19 @@ Nie jest to zestaw, który kupuje się dla ciekawych technik budowania. W jednej
 
 Dwa mechanizmy są w tym zestawie najmocniej chwalone. Winda ma wypustkę, na której stawia się zwierzaka, oraz występ blokujący platformę na górze, więc nie zjeżdża sama w trakcie zabawy. Fontanna obraca się dzięki kołu zębatemu i dodaje scenie ruchu. Recenzenci są zgodni, że obie funkcje są proste, ale dobrze działają i nadają małemu zestawowi dynamikę. W tej klasie cenowej to wyraźna zaleta, bo wiele małych zestawów kończy się na statycznej scence. Pomysł z windą bywa odczytywany jako ukłon w stronę Pickle'a, psa na wózku, choć w jednej z recenzji zwrócono uwagę, że kółka jego wózka są za szerokie na windę, zjeżdżalnię i podjazdy przy leżakach. To drobiazg, ale warto o nim wiedzieć, jeśli dziecko szczególnie polubi właśnie tę postać.
 
+![LEGO 42676 – zjeżdżalnia, winda i strefa wypoczynku w zbliżeniach](/img/42676-2.jpg)
+
 Prawdziwą atrakcją są zwierzaki. Churro dostał nową minę i żółty kapelusz przeciwdeszczowy, Dango nosi bursztynowe okulary przeciwsłoneczne, a wszystkie cztery zwierzęta mają akcesoria pasujące do kąpieliska. Recenzenci chwalą zwłaszcza nowe wyrazy pyszczków i uważają, że to właśnie zwierzęta, a nie minilalki, przesądzają o charakterze zestawu. Przy czterech zwierzakach i dwóch postaciach łatwo wymyślać kolejne scenki: kąpiel, zjazd, opalanie, poszukiwanie zgubionych lodów.
+
+![LEGO 42676 – minilalki Nova i Leo oraz cztery zwierzaki z akcesoriami](/img/42676-3.jpg)
 
 Opinie są natomiast podzielone co do minilalek. Część recenzentów uważa, że dwie postacie to w parku wodnym za mało i że Nova oraz Leo robią tu „minimum”. Inni oceniają je dobrze i podkreślają, że przy tylu zwierzakach nie brakuje materiału do zabawy. Pojawiają się też drobne uwagi: postacie mają zwykłe buty zamiast klapek, miejsc do wypoczynku dla zwierząt jest mniej niż samych zwierząt, a lody stoją poza pojemnikiem chłodzącym. To szczegóły, które bardziej bawią dorosłego niż przeszkadzają dziecku.
 
 ## Dla kogo jest ten zestaw
 
 Głównym odbiorcą jest dziecko w wieku około 6–8 lat, które lubi zwierzęta i zabawę w odgrywanie scenek. Zestaw nie wymaga znajomości bohaterów Friends: wystarczy, że dziecko polubi psy, kota i świnkę morską, a kąpielisko samo podsuwa pomysły na zabawę. Dlatego dobrze sprawdzi się jako prezent dla osoby, której preferencje znamy tylko ogólnie, na przykład z okazji urodzin kolegi czy koleżanki. Mniej przekona dziecko, które szuka przede wszystkim ciekawego budowania albo dużej liczby postaci – tu jedno i drugie jest skromne.
+
+![LEGO 42676 Frajda w parku wodnym w zabawie](/img/42676-4.jpg)
 
 Dla rodzica ważne jest to, że zabawa nie kończy się po złożeniu modelu. Winda, fontanna i zjeżdżalnia dają powtarzalne, proste czynności, które małe dziecko może wykonywać samodzielnie, a zbudowanie całości na dwóch dużych płytkach ułatwia przenoszenie i sprzątanie. Kąpielisko można też ustawić obok innych zestawów Friends, ale nie trzeba niczego dokupować, żeby miało sens.
 
@@ -50,6 +58,8 @@ Polski rynek szybko rozstrzygnął ten spór. Typowe ceny w dużych sklepach mie
 ## Alternatywy
 
 Najbliższym punktem odniesienia jest LEGO Friends 42682 Nature Glamping Cabin z tej samej, letniej fali. Ma podobną wielkość (295 elementów) i tyle samo minilalek, a w katalogu jest nieco tańszy, na co zwrócono uwagę w jednej z recenzji parku wodnego. To jednak inny pomysł na zabawę: domek kempingowy zamiast kąpieliska. Jeśli dziecko najbardziej lubi zwierzaki i ruchome elementy, park wodny z czterema zwierzętami, windą i fontanną lepiej trafia w ten gust; jeśli ważniejsza jest sama budowla i niższa cena katalogowa, warto rozważyć domek.
+
+<div class="galeria-setow" data-sety="42682"></div>
 
 ## Czy warto kupić LEGO 42676 Frajda w parku wodnym?
 

@@ -15,6 +15,8 @@ LEGO zaprezentowało nowy upominek z serii LEGO Ideas: zestaw 40889 Build, Paint
 
 Zestaw liczy 158 elementów i jest klockową miniaturą stanowiska modelarza. Obok ramki z wypraską znalazły się narzędzie do cięcia, klej, pędzel, zielona mata do cięcia oraz tubki farb w trzech kolorach: turkusowym, czarnym i żółtym. Do zestawu dołączono turkusową minifigurkę astronauty w stylu klasycznej serii kosmicznej, z hełmem i butlami tlenowymi w kolorze jasnoszarym. Model powstał na podstawie zwycięskiego projektu fana z konkursu LEGO Ideas poświęconego budowaniu hobby. To kolejny w tym roku upominek z serii LEGO Ideas, który nie trafi do regularnej sprzedaży.
 
+![LEGO Ideas 40889 Build, Paint and Play! – miniaturowe stanowisko modelarza z minifigurką astronauty](/img/40889.jpg)
+
 ## Warunki akcji
 
 Według LEGO upominek przysługuje przy zakupach za co najmniej 130 euro w strefie euro, 115 funtów w Wielkiej Brytanii i 130 dolarów w Stanach Zjednoczonych. Kwot tych nie należy traktować jako polskiego progu — LEGO.pl ustala go osobno. Daty zakończenia LEGO nie podało, a upominek wydawany jest do wyczerpania zapasów.
