@@ -38,7 +38,7 @@ Użycie:
   python3 scripts/import-artykul-md.py plik.md --slug moj-slug --sucho
 """
 
-import argparse, datetime, glob, json, os, re, shutil, sys, unicodedata
+import argparse, datetime, glob, json, os, re, shutil, subprocess, sys, unicodedata
 
 KATALOG = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KATEGORIE = ['Aktualności', 'Premiery', 'Recenzje', 'Rankingi', 'Porównania', 'Poradniki', 'Kalendarze', 'Historyczne']
@@ -49,6 +49,17 @@ SERIA_ALIASY = {
     'Nike x LEGO Collection': 'Nike x LEGO', 'NINJAGO': 'Ninjago',
 }
 LINK = r'\s+[–-]\s+link wewnętrzny\]'
+
+
+def ma_zdjecie_setu(nr):
+    """Czy mamy zdjęcie zestawu (te same mapy, z których worker serwuje /img/<nr>.jpg)."""
+    for plik in ('obrazy.json', 'zdjecia.json'):
+        try:
+            if nr in json.load(open(os.path.join(KATALOG, 'src', 'data', plik), encoding='utf-8')):
+                return True
+        except (OSError, ValueError):
+            pass
+    return False
 
 
 def slugify(tekst):
@@ -201,6 +212,7 @@ def importuj(plik, slug=None, zapisuj=True, wsad=None):
     # zdjęcia własne Piotra: [ZDJĘCIE: opis] + pliki NNNN_zdjecie_K.jpg obok .md (kolejność = kolejność znaczników)
     nr_pliku = numer_pliku(plik)
     zdjecia = []
+    pliki_zdjec = []  # (adres, opis) zdjęć, które mają plik — kandydaci na okładkę
     def zdjecie(m):
         k = len(zdjecia) + 1
         opis_z = m.group(1).strip()
@@ -210,13 +222,16 @@ def importuj(plik, slug=None, zapisuj=True, wsad=None):
             uwagi.append(f'[ZDJĘCIE {k}: {opis_z}] — brak pliku {nr_pliku}_zdjecie_{k}.jpg; znacznik zamieniony na komentarz')
             return f'<!-- ZDJĘCIE {k}: {opis_z} — brak pliku -->'
         url = f'/zdjecia/artykuly/{slug}/{k}.webp'
+        pliki_zdjec.append((url, opis_z))
         if zapisuj:
-            from PIL import Image, ImageOps
+            # sharp z node_modules zamiast PIL: domyślny python3 w kontenerze nie ma działającego PIL
+            # (biblioteka leży pod inną wersją Pythona), a node i sharp są zawsze — build ich używa
             cel = os.path.join(KATALOG, 'public', url.lstrip('/'))
             os.makedirs(os.path.dirname(cel), exist_ok=True)
-            im = ImageOps.exif_transpose(Image.open(kandydaci[0])).convert('RGB')
-            im.thumbnail((1600, 1600))
-            im.save(cel, 'WEBP', quality=82)
+            subprocess.run(['node', '-e', "require('sharp')(process.argv[1]).rotate()"
+                            ".resize(1600, 1600, {fit: 'inside', withoutEnlargement: true})"
+                            ".webp({quality: 82}).toFile(process.argv[2])", kandydaci[0], cel],
+                           cwd=KATALOG, check=True)
         return f'![{opis_z}]({url})'
     tresc = re.sub(r'^\[ZDJĘCIE:\s*([^\]]+)\]\s*$', zdjecie, tresc, flags=re.M)
 
@@ -265,10 +280,16 @@ def importuj(plik, slug=None, zapisuj=True, wsad=None):
             fm.append(f'czesc: {czesc}')
         if czesci:
             fm.append(f'czesci: {czesci}')
-    if zestawy:
-        fm += [f'okladka: "{zestawy[0]}"', 'zestawy: [' + ', '.join(f'"{n}"' for n in zestawy) + ']']
+    # okładka: zdjęcie pierwszego zestawu, a gdy go u nas nie ma (zestawy historyczne,
+    # zapowiedzi bez numeru) — pierwsze zdjęcie Piotra z tekstu
+    if zestawy and (ma_zdjecie_setu(zestawy[0]) or not pliki_zdjec):
+        fm.append(f'okladka: "{zestawy[0]}"')
+    elif pliki_zdjec:
+        fm += [f'okladka: "{pliki_zdjec[0][0]}"', f'okladka_alt: {yaml_tekst(pliki_zdjec[0][1])}']
     elif kategoria == 'Aktualności':
-        uwagi.append('Aktualności wymagają pola okladka (build odrzuci tekst) — blok danych nie podaje zestawów')
+        uwagi.append('Aktualności wymagają pola okladka (build odrzuci tekst) — blok danych nie podaje zestawów ani zdjęć')
+    if zestawy:
+        fm.append('zestawy: [' + ', '.join(f'"{n}"' for n in zestawy) + ']')
     if dane.get('FAQ'):
         fm.append('faq:')
         for p in dane['FAQ']:

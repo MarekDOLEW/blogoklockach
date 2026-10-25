@@ -143,6 +143,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-25 · CODE · Dwa teksty historyczne Piotra (0026 Cargo Center, 0029 Paradisa) ze zdjęciami
+
+`/artykuly/lego-6391-cargo-center-historia/` i `/artykuly/lego-paradisa-historia-serii/`, po 5 zdjęć Piotra
+(`public/zdjecia/artykuly/<slug>/K.webp`), import bez uwag. Okładki to zdjęcia Piotra (Cargo: 1, Paradisa: 3 —
+pudełko 6416), bo zestawy z lat 80./90. nie mają u nas zdjęć ani hubów. Dwie poprawki w
+`import-artykul-md.py`, ważne też dla automatu skrzynki: (1) zdjęcia zmniejsza teraz sharp z Node,
+nie PIL — domyślny `python3` (3.11, /usr/local/bin) nie ma działającego PIL, więc teksty ze zdjęciami
+z maila wywaliłyby się przy imporcie; (2) gdy pierwszy zestaw z „Zestawy” nie ma u nas zdjęcia (albo
+pola brak), okładką zostaje pierwsze zdjęcie Piotra z `okladka_alt` z podpisu.
+
 ## 2026-10-25 · CODE · Trzy teksty Piotra (0027, 0028, Recenzje_012) — starą drogą, przez Marka
 
 Opublikowane skryptem skrzynki (`skrzynka-tekstow.py publikuj`, commit 7ee0f27), bez uwag importu:
