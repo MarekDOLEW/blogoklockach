@@ -151,6 +151,9 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: cena jest widoczna na `/zestaw/75192/` (−25% to nie poziom sita „podejrzany rynek"), ale nie mamy o tym żadnego tekstu — mimo że wzorzec stoi w repo: `/deale/deal-76325-quinjet-minimum-przed-wycofaniem/`, 28 linii, napisany w przebiegu Radaru 07.10.
 **Zrobić:** — krótki deal „75192 Sokół Millennium w minimum naszych notowań przed grudniowym wycofaniem" w `src/pages/deale/`, na wzór dealu 76325; wszystkie liczby są już policzone z `historia-cen` i `wycofania.json`.
 **Kto:** — Code (dane, strona)
+↻ 25.10.2026 (Radar): nadal aktualne — cena 2699,90 zł w Media Expert utrzymała się drugi dzień
+(feed z 24.10), dealu w `src/pages/deale/` nie ma. Przy zestawie schodzącym z produkcji okno na taki
+tekst zamyka się razem z ofertą.
 
 Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
 22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,

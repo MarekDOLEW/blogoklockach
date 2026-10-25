@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-24",
-    "przebieg": "scheduled 2026-10-24 08:00",
+    "ostatnia_aktualizacja": "2026-10-25",
+    "przebieg": "scheduled 2026-10-25 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 320,
+    "liczba_wpisow": 321,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -37,7 +37,8 @@
       "2026-10-21": "Jedna rzecz naprawde wazna: na lego.pl trwa od wczoraj okno z trzema gratisami (165 zl / 625 zl / 670 zl w Star Wars, do 27.10) i nasz kalendarz promocji go nie ma, a rownoczesnie pokazuje poprzednie okno 13-19.10 jako 'trwa'. Progi sprawdzilem u zrodla na lego.com/pl-pl, nie przepisalem z faniklockow - zgadzaja sie co do zlotowki, co warto zapamietac przy ocenie ich wiarygodnosci w sprawach promocyjnych. Drugi watek to trzeci dzien rozbudowy hubow 2027 u obu serwisow (Ideas, K-Pop, Dragon Ball) - zostawiamy, bo to przecieki niskiej pewnosci bez wplywu na sezon. Struktura zklockow i promoklockow bez zmian wzgledem wczoraj - nie sprawdzana dzisiaj osobno, bo budzet przebiegu poszedl na weryfikacje progow.",
       "2026-10-22": "Jedna rzecz nowa w kategorii, ktora dotad byla nasza: fanklockow uruchomili na Discordzie kanal ze statusami zestawow z lego.pl. Serwis redakcyjny wchodzi w powiadomienia. My mamy i dane (lego_pl_etykieta, wyprzedaneWLego, plakietka na hubach od 17.10), i kanal ('Obserwuj zestaw', double opt-in, alerty-cen.mjs), ale alerty sa wylacznie cenowe - 20 procent pod katalog albo rekord - i dokladnie to obiecuje formularz. Zmiana dostepnosci nie wywoluje u nas niczego. Rozszerzenie alertow to nie zadanie techniczne, a decyzja: zmienia tresc obietnicy wobec ludzi, ktorzy sie zapisali. Druga rzecz: poprawilem wlasna stara ocene. Wpis zklockow z 24.09 o prezentach pod choinke stal jako LUKA, a luke zamknelismy 07.10 strona /prezentowniki/prezenty-pod-choinke/ - zmienione na PRZEBIJAMY, zeby Kontroler nie zbieral zamknietego zadania. Przy okazji: dzisiejszy tekst faniklockow o prezentach swiatecznych to drugi serwis idacy w te fraze, czyli tamten sygnal z wrzesnia byl trafny.",
       "2026-10-23": "Pierwszy raz konkurencja sprzedala temat, ktory mamy w danych i sami ukrywamy. 77076 za 89 zl w Media Expert jest w naszym feedzie z 22.10, ale sito 'podejrzany rynek' trzyma te oferte poza strona, bo to 64 procent ponizej potwierdzonego katalogu - sprawdzone na produkcji, /zestaw/77076/ pokazuje 'od 162,99 zl' bez Media Expertu. Sito dziala dokladnie tak, jak mialo (decyzja z 16.09, po tym jak weszly nam smieciowe oferty), a oferta czeka na liscie porannego maila - dzis 8 pozycji. Roznica miedzy nami a nimi nie jest w danych ani w szybkosci, tylko w tym, ze u nas miedzy oferta a strona stoi czlowiek. Warto to widziec jako koszt reguly, nie jako jej bledu: ta sama lista ma dzis 29,99 zl za 75372 na Allegro i 44 zl za 72151 u Ceneo, czyli pozycje, ktore wygladaja jak smiec. Poza tym czwarty dzien hubow 2027 i druga czesc cyklu kompendiow modulowych u fanklockow.",
-      "2026-10-24": "Dzien po dniu ta sama kategoria i zupelnie inny wynik sprawdzenia - warto to zestawic. 22.10 ich 'to nie blad cenowy' przy 77076 za 89 zl nie przeszlo weryfikacji Marka (zestaw stoi po 170, oferta odrzucona). 23.10 ich okazja na 75192 sprawdza sie w naszych wlasnych danych i jest mocniejsza, niz sami pisza: 2699,90 zl w Media Expert to minimum CALEJ naszej historii cen tego zestawu (poprzednie 2799 zl z 18.09), a zestaw ma potwierdzone wycofanie na grudzien. Wniosek dla nas nie brzmi 'oni sie myla' ani 'oni maja racje', tylko: ich teksty dealowe to lead do sprawdzenia w naszych danych, i ta robota oplaca sie w obie strony - raz chroni przed falszywa cena, raz pokazuje temat, ktorego nie zauwazylismy. Poza tym trzy kolejne strony serii 2027 u fanklockow (Art, Harry Potter, Editions) i druga w tygodniu relacja z miejsca (muzeum w Krakowie, sklep w Pradze) - linia tresci wymagajaca fizycznej obecnosci, ktorej nie bedziemy miec."
+      "2026-10-24": "Dzien po dniu ta sama kategoria i zupelnie inny wynik sprawdzenia - warto to zestawic. 22.10 ich 'to nie blad cenowy' przy 77076 za 89 zl nie przeszlo weryfikacji Marka (zestaw stoi po 170, oferta odrzucona). 23.10 ich okazja na 75192 sprawdza sie w naszych wlasnych danych i jest mocniejsza, niz sami pisza: 2699,90 zl w Media Expert to minimum CALEJ naszej historii cen tego zestawu (poprzednie 2799 zl z 18.09), a zestaw ma potwierdzone wycofanie na grudzien. Wniosek dla nas nie brzmi 'oni sie myla' ani 'oni maja racje', tylko: ich teksty dealowe to lead do sprawdzenia w naszych danych, i ta robota oplaca sie w obie strony - raz chroni przed falszywa cena, raz pokazuje temat, ktorego nie zauwazylismy. Poza tym trzy kolejne strony serii 2027 u fanklockow (Art, Harry Potter, Editions) i druga w tygodniu relacja z miejsca (muzeum w Krakowie, sklep w Pradze) - linia tresci wymagajaca fizycznej obecnosci, ktorej nie bedziemy miec.",
+      "2026-10-25": "Jedna publikacja, nic do zrobienia - szosty dzien rozbudowy hubow 2027, tym razem DC u faniklockow. Nasza sekcja DC w /zapowiedzi-lego-2027/ jest mocniejsza od ich, bo po aktualizacji z 19.10 trzyma 67008, 67009 i 67012 jako potwierdzone z cenami i przedsprzedaza, a nie jako przecieki. Odnotowanie techniczne: zadanie odpalilo sie dzis o 07:01 UTC zamiast 06:01, bo w nocy skonczyl sie czas letni - cron CRON_TZ=Europe/Warsaw zrobil swoje, godzina polska bez zmian (08:00). Wczorajsza pozycja o 75192 zostaje otwarta: cena 2699,90 zl w Media Expert potwierdzila sie drugi dzien z rzedu (feed 24.10), dealu nadal nie ma."
     }
   },
   "publikacje": [
@@ -3834,6 +3835,17 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Trzeci tekst o praskim sklepie w ciagu dwoch dni liczac oba serwisy (faniklockow: zapowiedz 13.10 i fotorelacja 22.10). Salony za granica sa poza naszym modelem - bez linku i bez prowizji."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO DC na 2027 rok",
+      "url": "https://faniklockow.pl/2026/10/25/zapowiedzi-serii-lego-dc-na-2027-rok/",
+      "data_publikacji": "2026-10-24",
+      "data_wykrycia": "2026-10-25",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Szosty dzien rozbudowy hubow 2027 po obu stronach (po Star Wars, Ninjago, Friends, City, Ideas, K-Pop, Dragon Ball, Art, Harry Potter, Editions). Fala DC jest u nas opisana w /zapowiedzi-lego-2027/ sekcja 'DC: rok Batmobili', i to z przewaga, ktorej oni nie maja: 67008, 67009 i 67012 mamy jako POTWIERDZONE z polskimi cenami katalogowymi i przedsprzedaza od 1 stycznia, nie jako przecieki. Nic do zrobienia."
     }
   ],
   "obserwacje_strategiczne": {
