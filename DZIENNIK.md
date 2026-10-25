@@ -150,7 +150,7 @@ opis >300 znaków, ≥3 FAQ). 10797 Sala balowa Gabi: katalog miał 260 element�
 i Piotr 252 — katalog poprawiony. 30680 AAT (polybag Star Wars): Piotr podawał 16,99 zł, katalog
 17,99 zł — decyzja Marka: karta wgrana z naszą ceną 17,99 zł (i 0,24 zł za element w metryce i FAQ).
 Potem partie 16–19: 100 kart, wszystkie indeksowalne. 40686: Piotr pisze 261 elementów, Brickset
-i katalog 262 — karta wgrana bez zmian, do sprawdzenia przez Piotra.
+i katalog 262 — karta wgrana bez zmian; decyzja Marka 25.10: 261 zostaje, nie poprawiać.
 
 ↻ 2026-10-24 · ŁOWCA: w sicie podejrzanego rynku czeka 6 pozycji bez werdyktu (75372, 10696, 76319, 40808, 71853 — szczegóły w mailach „Oferty do sprawdzenia"); żadna nowa w tym tygodniu, decyzje Marka w `src/data/deale_potwierdzone.json`, bez pośpiechu.
 
