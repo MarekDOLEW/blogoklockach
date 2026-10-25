@@ -143,13 +143,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
-## 2026-10-25 · CODE · Karty P07 Piotra: partie 20–23 (99 kart)
+## 2026-10-25 · CODE · Karty P07 Piotra: partie 16–23 (200 kart)
 
-Wgrane 99 ze 100 kart (`import-karty.py --krotkie`), wszystkie huby indeksowalne (≥2 akapity albo
+Partie 20–23: wgrane wszystkie 100 kart (`import-karty.py --krotkie`), wszystkie huby indeksowalne (≥2 akapity albo
 opis >300 znaków, ≥3 FAQ). 10797 Sala balowa Gabi: katalog miał 260 elementów (Rebrickable), Brickset
-i Piotr 252 — katalog poprawiony. **Czeka 30680 AAT (polybag Star Wars):** Piotr podaje cenę
-katalogową 16,99 zł, katalog 17,99 zł; Brickset ma tylko $4.99, LEGO.pl nie pokazuje już zestawu.
-Do rozstrzygnięcia przez Piotra (źródło ceny), potem `import-karty.py <zip partii> --krotkie`.
+i Piotr 252 — katalog poprawiony. 30680 AAT (polybag Star Wars): Piotr podawał 16,99 zł, katalog
+17,99 zł — decyzja Marka: karta wgrana z naszą ceną 17,99 zł (i 0,24 zł za element w metryce i FAQ).
+Potem partie 16–19: 100 kart, wszystkie indeksowalne. 40686: Piotr pisze 261 elementów, Brickset
+i katalog 262 — karta wgrana bez zmian, do sprawdzenia przez Piotra.
 
 ↻ 2026-10-24 · ŁOWCA: w sicie podejrzanego rynku czeka 6 pozycji bez werdyktu (75372, 10696, 76319, 40808, 71853 — szczegóły w mailach „Oferty do sprawdzenia"); żadna nowa w tym tygodniu, decyzje Marka w `src/data/deale_potwierdzone.json`, bez pośpiechu.
 
