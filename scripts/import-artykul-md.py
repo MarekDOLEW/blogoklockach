@@ -55,7 +55,9 @@ def slugify(tekst):
     t = tekst.lower()
     for a, b in zip('ąćęłńóśźż', 'acelnoszz'):
         t = t.replace(a, b)
-    return re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', t)).strip('-')[:70]
+    s = re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', t)).strip('-')
+    # ucinamy na granicy słowa, żeby adres nie kończył się w pół wyrazu („…-scena-”, „…-rzad”)
+    return s if len(s) <= 70 else s[:71].rsplit('-', 1)[0]
 
 
 def slug_serii(seria):
