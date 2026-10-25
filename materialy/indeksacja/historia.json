@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-24"
+  "zaktualizowano": "2026-10-25"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -147,6 +147,23 @@
    "https://tylkoklocki.pl/zestaw/21585/",
    "https://tylkoklocki.pl/zestaw/21586/",
    "https://tylkoklocki.pl/zestaw/31380/"
+  ],
+  "2026-10-25": [
+   "https://tylkoklocki.pl/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-ninjago-styczen-2027-przecieki/",
+   "https://tylkoklocki.pl/serie/education/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/10446/",
+   "https://tylkoklocki.pl/zestaw/11036/",
+   "https://tylkoklocki.pl/zestaw/11200/",
+   "https://tylkoklocki.pl/zestaw/21273/",
+   "https://tylkoklocki.pl/zestaw/21357/",
+   "https://tylkoklocki.pl/zestaw/21586/",
+   "https://tylkoklocki.pl/zestaw/31380/",
+   "https://tylkoklocki.pl/zestaw/21585/",
+   "https://tylkoklocki.pl/zestaw/42179/",
+   "https://tylkoklocki.pl/zestaw/42199/",
+   "https://tylkoklocki.pl/zestaw/42202/"
   ]
  }
 }
