@@ -150,7 +150,7 @@ Opublikowane skryptem skrzynki (`skrzynka-tekstow.py publikuj`, commit 7ee0f27),
 `/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/` (Aktualności),
 `/artykuly/lego-42676-frajda-w-parku-wodnym-recenzja/`. Adresy wpisane do `redakcja/skrzynka.json`,
 więc poprawki przysłane mailem trafią pod te same adresy. `import-artykul-md.py` ucina teraz slug
-na granicy słowa. Do sprawdzenia: wpis `daft-punk-ideas` w `przecieki.json` (Scout 23.10) mówi o
+na granicy słowa. Rozbieżność (decyzja Marka 25.10: oba zostają bez zmian): wpis `daft-punk-ideas` w `przecieki.json` (Scout 23.10) mówi o
 projekcie fana „RobotRock”, tekst Piotra — o „Daft Punk Concert” Patricka Harbouna; tekst zostaje
 bez zmian.
 
