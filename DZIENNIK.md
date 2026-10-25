@@ -164,6 +164,11 @@ temat, którego sami nie zauważyliśmy.
 **Mamy?** — częściowo: hub `/zestaw/40889/` jest od dziś z wyceną i datami, ale `/kalendarz-promocji-lego/` tego okna nie zna wcale.
 **Zrobić:** — dopisać do `/kalendarz-promocji-lego/` okno 28.10–11.11 z gratisem 40889 i sprawdzić polski próg na `lego.com/pl-pl/page/lego-offers-promotions` po starcie akcji (28.10), bo karta produktu go nie podaje.
 **Kto:** — Code (dane, strona)
+→ częściowo zamknięte 25.10.2026 (polecenie Marka): okno dopisane — nowa sekcja `#listopad-40889`
+  plus pozycja na liście „co trwa teraz", `zaktualizowano` 2026-10-25. Polski próg zostaje otwarty:
+  karta promocji lego.com/pl-pl sprawdzona dziś ma tylko okno 20–27.10 (165 / 625 / 670 zł), o 40889
+  i o oknie od 28.10 nie ma tam ani słowa. **Zrobić:** po 28.10 sprawdzić tę kartę i wpisać polski
+  próg do tabeli w `#listopad-40889` (dziś stoi tam tylko niemieckie 130 euro). **Kto:** Scout.
 
 **Prompt zadania „Scout nowości" nadal zawiera zdanie „Zestawów LEGO Education nie dodawaj do sety.json", a 23.10 zdecydowałeś odwrotnie dla czterech Science Kitów w sprzedaży detalicznej (45200–45203, dopisane).**
 **Mamy?** — nie: decyzja żyje w `DZIENNIK.md` i w `known_sets.json`, ale nie w promptcie, a sesja z czystym kontekstem czyta tylko prompt.

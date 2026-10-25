@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-10-21"
+zaktualizowano: "2026-10-25"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,6 +21,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
+<li><span class="okna__data">28.10–11.11</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#listopad-40889"><b>Gratis 40889 Buduj, maluj i baw się!</b> – zestaw z serii Ideas o wartości 81,99 zł dokładany do zamówień w sklepie LEGO; polskiego progu zakupu LEGO jeszcze nie opublikowało, niemiecki to 130 euro</a></li>
 <li><span class="okna__data">20–27.10</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#pazdziernik-kumulacja"><b>Trzy gratisy naraz na LEGO.pl</b> – 30717 od 165 zł, 40916 Kwiatowa ramka od 625 zł i 40765 Ośrodek szkoleniowy na Kamino od 670 zł w zestawach Star Wars; progi z karty promocji lego.com/pl-pl</a></li>
 <li><span class="okna__data">13–19.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł; okno minęło 19.10</a></li>
 <li><span class="okna__data">8–12.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; zniknął z regulaminu LEGO.pl wraz z wejściem okna 13–19.10</a></li>
@@ -263,6 +264,39 @@ zestawem i trzy gratisy dostajesz za darmo w dosłownym sensie.
 **Kiedy odpuścić:** gdy celujesz w zestawy z głębokim rabatem rynkowym — przy
 medianie 30% dokładanie do progu kosztuje więcej, niż wart jest upominek. Ceny
 sprawdzisz w tabelach na podstronach zestawów; aktualizujemy je codziennie.
+
+<h3 id="listopad-40889">Przełom października i listopada: gratis 40889, 28.10–11.11 <span class="status status--ok">potwierdzone</span></h3>
+
+Dzień po zamknięciu okna z trzema gratisami LEGO otwiera następne, tym razem z jednym
+upominkiem: **40889 Buduj, maluj i baw się!** z serii Ideas. Zestaw powstał na podstawie
+zwycięskiego projektu konkursu LEGO Ideas „Build Your Hobby" i producent przedstawił go
+oficjalnie 23 października 2026, razem z oknem **od 28 października do 11 listopada**.
+
+| Gratis (GWP) | Warunek | Okno |
+|---|---|---|
+| [40889 Buduj, maluj i baw się!](/zestaw/40889/) | próg polski nieopublikowany; w Niemczech zakupy od **130 euro** | 28.10–11.11 |
+
+**Czego jeszcze nie wiemy.** Karta promocji lego.com/pl-pl ma na dziś tylko okno 20–27.10 –
+polskiego progu dla tego gratisu nie podaje ani ona, ani karta produktu. Uzupełnimy tę
+tabelę, gdy LEGO opublikuje warunek dla Polski; do tego czasu jedynym punktem odniesienia
+jest próg niemiecki.
+
+**Co dostajesz.** 158 elementów, oznaczenie 18+ i scenka z walizką narzędziową, przyborami
+do malowania i matą do pracy – w praktyce ozdoba na biurko, nie zestaw do zabawy. LEGO
+wycenia ją na **81,99 zł**, czyli tyle samo co październikowe [40909 Restauracje świata:
+Włochy](/zestaw/40909/).
+
+**Dlaczego ten gratis jest inny niż poprzednie.** Wartość siedzi w minifigurce: w pudełku
+jest kosmonauta Classic Space w kolorze dark turquoise, z jasnoszarym hełmem i butlami,
+których w tym odcieniu nie było w żadnym wcześniejszym zestawie. Jeśli zbierasz minifigurki,
+to jedyny powód, dla którego warto planować zakup pod to okno, zamiast kupić te same zestawy
+taniej poza LEGO.com.
+
+**Jak to liczyć.** Zasada z poprzedniego okna nie zmienia się: dopłata do progu jest pewna,
+a wycena gratisu to cena katalogowa producenta, nie kwota, za którą zestaw chodzi. Różnica
+polega na tym, że upominki Ideas z nowymi wariantami figurek trzymają na rynku wtórnym
+wyraźnie lepiej niż typowe saszetki – ale sprawdzić to będzie można dopiero po 11 listopada,
+gdy zestaw przestanie być dodawany do zamówień.
 
 <h3 id="pazdziernik-fala">Październik to nie tylko Executor</h3>
 
