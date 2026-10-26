@@ -184,6 +184,7 @@ i katalog 262 — karta wgrana bez zmian; decyzja Marka 25.10: 261 zostaje, nie 
 ↻ 25.10.2026 (Radar): nadal aktualne — cena 2699,90 zł w Media Expert utrzymała się drugi dzień
 (feed z 24.10), dealu w `src/pages/deale/` nie ma. Przy zestawie schodzącym z produkcji okno na taki
 tekst zamyka się razem z ofertą.
+↻ 26.10.2026 (Radar): trzeci dzień — 2699,90 zł w Media Expert z datą 25.10, dealu nadal nie ma.
 
 Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
 22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,
