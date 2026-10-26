@@ -263,6 +263,11 @@
       $("b-chip-txt").textContent = DEAL.dnoCenowe ? "najniższa cena w naszej bazie" : `taniej o ${oszcz} zł od katalogu`;
       $("b-sub").textContent = DEAL.dnoCenowe ? `odnotowana ${DEAL.dnoData} · oszczędzasz ${oszcz} zł` : `cena katalogowa ${fmt(DEAL.katalog)}`;
       $("c-date").textContent = `ceny z ${DEAL.stanNa} · ${DEAL.nr}`;
+      // cena tylko z kodem rabatowym (np. Black Weeks w x-kom) — mówimy to pod ceną i na planszy z linkami
+      if (DEAL.kod) {
+        $("b-sub").textContent = `${DEAL.kodSklep}: z kodem ${DEAL.kod} w koszyku`;
+        $("d-sub").textContent = `${DEAL.kodSklep}: kod ${DEAL.kod} wpisz w koszyku`;
+      }
       if (!DEAL.wyciete) { $("a-img").classList.add("na-bialym"); $("b-pic").classList.add("na-bialym"); }
 
       const shopsEl = $("c-shops");

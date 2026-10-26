@@ -13,6 +13,7 @@
 //   node scripts/rolka-deal.mjs 75405 --wstep dynamiczny   # wstęp z osobnymi wjazdami i punch-inem (domyślnie: spokojny)
 //   node scripts/rolka-deal.mjs 75405 --muzyka "energetic electronic beat"   # katalog HeyGen (HEYGEN_API_KEY)
 //   node scripts/rolka-deal.mjs 75405 --muzyka synt                           # wymuś syntezator
+//   node scripts/rolka-deal.mjs 75446 --kod black-weeks2   # cena najtańszego sklepu działa tylko z kodem — mówi o tym pod ceną i w CTA
 //
 // Wyjście: materialy/rolki/wyjscie/<nr>/ (projekt HyperFrames, w .gitignore)
 //          materialy/rolki/wyjscie/<nr>/renders/deal-<nr>.mp4
@@ -54,6 +55,7 @@ const muzyka = flaga('--muzyka', 'auto');
 const hook1Flaga = flaga('--hook1');
 const hook2Flaga = flaga('--hook2');
 const wstep = flaga('--wstep', 'spokojny'); // spokojny | dynamiczny
+const kod = flaga('--kod'); // kod rabatowy, bez którego cena najtańszego sklepu nie działa
 
 // ---------- dane ----------
 const czytaj = (p) => JSON.parse(readFileSync(join(REPO, 'src/data', p), 'utf8'));
@@ -124,6 +126,7 @@ const DEAL = {
   nr, nazwa, seria: set.seria ?? 'LEGO', elementy: set.elementy ?? null, wiek: set.wiek ?? null,
   katalog, cena, dnoCenowe, dnoData: baza?.najnizsza_data ? pl(baza.najnizsza_data) : null,
   stanNa: pl(stanNa), hook1, hook2, wstep,
+  ...(kod ? { kod, kodSklep: oferty[0].sklep } : {}),
   oferty: oferty.map((o) => ({ sklep: o.sklep, cena: o.cena })),
   wyciete: false,
 };

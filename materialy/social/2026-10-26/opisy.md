@@ -38,3 +38,16 @@ Pełna recenzja i ceny we wszystkich sklepach: link w bio.
 **Facebook:** ten sam tekst z linkiem https://tylkoklocki.pl/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/
 
 **Kiedy:** FB 20:00–21:00, IG wieczorem albo jutro 7:00. Karuzelę z okazjami archiwizujemy po 14 dniach; recenzja może zostać.
+
+## Rolka „Deal alert”: Grogu 75446 (TikTok / Reels, 12 s)
+
+Plik: `materialy/rolki/wyjscie/75446/renders/deal-75446.mp4` (poza repo, wysłany w czacie 26.10).
+Wygenerowana: `node scripts/rolka-deal.mjs 75446 --hook1 "Grogu −43%" --hook2 "na dnie cenowym" --kod black-weeks2`.
+Sceny: hook → 559,99 zł przekreślone i 319 zł, „najniższa cena w naszej bazie”, „x-kom: z kodem black-weeks2 w koszyku” →
+pięć sklepów od najtańszego (x-kom 319, Allegro 320, Media Expert 349, MediaMarkt 399,99, Smyk 419) → CTA „Linki do sklepów w bio”.
+
+**Opis (TikTok / Reels):**
+Grogu za 319 zł zamiast 559,99 zł 👀 Najniższa cena, jaką notowaliśmy. x-kom, kod black-weeks2 w koszyku (Black Weeks). Link w bio.
+#materiałpartnerski #lego #legopolska #legostarwars #grogu #promocje #okazje #klocki #blackweeks
+
+Trend audio dokładasz w aplikacji przy publikacji; rolka ma własny podkład.

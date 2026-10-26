@@ -26,6 +26,7 @@ node scripts/rolka-deal.mjs 75405                 # pełny przebieg: dane → zd
 node scripts/rolka-deal.mjs 75405 --bez-renderu   # tylko projekt, podgląd: cd materialy/rolki/wyjscie/75405 && npm run dev
 node scripts/rolka-deal.mjs 75405 --hook1 "Krążownik Rebelii" --hook2 "na dnie cenowym"
 node scripts/rolka-deal.mjs 75405 --wstep dynamiczny   # wstęp z osobnymi wjazdami; domyślnie „spokojny" (dwa ruchy)
+node scripts/rolka-deal.mjs 75446 --kod black-weeks2   # cena najtańszego sklepu tylko z kodem: „x-kom: z kodem … w koszyku” pod ceną i na planszy CTA
 ```
 
 1. **Dane** z repo, nic nie przepisujemy ręcznie: `ceny_baza.json` (cena
