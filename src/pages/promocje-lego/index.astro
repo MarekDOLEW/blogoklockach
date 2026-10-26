@@ -14,6 +14,7 @@ import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.j
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { linkAfiliacyjny, fmtCena, fmtElementy, nazwaSklepu, relLinku, filtrujOferty, kodRabatowy, terminKodu } from '../../lib/oferty.js';
 import { przydzielOferty, rabatOferty, najtanszaOferta, limitAllegro } from '../../lib/deale.js';
+import { tylkoPewne } from '../../lib/weryfikacja.js';
 
 // krótki opis do listingu: pierwsze zdanie (albo dwa, gdy pierwsze bardzo krótkie), maks. ~170 znaków
 const krotkiOpis = (nr) => {
@@ -63,8 +64,8 @@ const POLKI = [
   { klucz: 'do200', etykieta: 'Do 200 zł', pasuje: (c) => c <= 200 },
 ];
 // kolejka półki: okazje, potem rabaty ≥15%, na końcu mniejsze (tylko do minimum)
-const kolejkaPolki = (p, pomin = new Set()) => {
-  const wPolce = wpisy.filter((s) => !pomin.has(s.nr) && p.pasuje(najlepszaCena(s)) && rabat(s) > 0);
+const kolejkaPolki = (p, pomin = new Set(), zrodlo = wpisy) => {
+  const wPolce = zrodlo.filter((s) => !pomin.has(s.nr) && p.pasuje(najlepszaCena(s)) && rabat(s) > 0);
   return [
     ...wPolce.filter(jestOkazja).sort((a, b) => rabat(b) - rabat(a)),
     ...wPolce.filter((s) => !jestOkazja(s) && rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a)),
@@ -85,7 +86,10 @@ const slajdy = (() => {
   const limit = limitAllegro(NA_SLAJDER);
   let allegro = 0;
   const wybrane = new Set();
-  const kolejki = POLKI.map((p) => kolejkaPolki(p));
+  // slajder: tylko oferty pewne (codzienny feed albo cena potwierdzona na karcie — src/lib/weryfikacja.js);
+  // listing niżej dalej widzi wszystkie oferty z datą odczytu
+  const pewne = wpisy.map(tylkoPewne).filter(Boolean);
+  const kolejki = POLKI.map((p) => kolejkaPolki(p, new Set(), pewne));
   const naPolce = POLKI.map(() => []);
   const ofertaDla = (s) => {
     const naj = najtanszaOferta(s);

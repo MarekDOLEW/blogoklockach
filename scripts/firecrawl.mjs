@@ -32,18 +32,31 @@ function klucz() {
 }
 
 // Jedno wywołanie POST. Zwraca sparsowane `data` albo rzuca z treścią błędu.
+// Błąd curla zgłaszamy bez linii poleceń: komunikat execFileSync zawiera wszystkie
+// argumenty, a z nimi nagłówek z kluczem API (26.10.2026 klucz wyszedł w logu przebiegu).
+// Zerwane połączenie przez proxy (curl 35/52/56) ponawiamy dwa razy.
 function wywolaj(sciezka, ciało, { limitCzasu = 180 } = {}) {
-  const wynik = execFileSync(
-    'curl',
-    [
-      '-sS', '--max-time', String(limitCzasu), '-w', '\n%{http_code}',
-      '-X', 'POST', `${API}${sciezka}`,
-      '-H', 'Content-Type: application/json',
-      '-H', `Authorization: Bearer ${klucz()}`,
-      '--data-binary', '@-',
-    ],
-    { input: JSON.stringify(ciało), encoding: 'utf8', maxBuffer: 256 * 1024 * 1024 },
-  );
+  let wynik;
+  for (let proba = 1; ; proba++) {
+    try {
+      wynik = execFileSync(
+        'curl',
+        [
+          '-sS', '--max-time', String(limitCzasu), '-w', '\n%{http_code}',
+          '-X', 'POST', `${API}${sciezka}`,
+          '-H', 'Content-Type: application/json',
+          '-H', `Authorization: Bearer ${klucz()}`,
+          '--data-binary', '@-',
+        ],
+        { input: JSON.stringify(ciało), encoding: 'utf8', maxBuffer: 256 * 1024 * 1024, stdio: ['pipe', 'pipe', 'pipe'] },
+      );
+      break;
+    } catch (e) {
+      const opis = String(e.stderr ?? '').trim().split('\n').pop() || `curl zakończył się kodem ${e.status}`;
+      if (proba < 3 && [35, 52, 56].includes(e.status)) continue;
+      throw new Error(`Firecrawl ${sciezka}: ${opis}`);
+    }
+  }
   const granica = wynik.lastIndexOf('\n');
   const status = wynik.slice(granica + 1).trim();
   const tresc = wynik.slice(0, granica);

@@ -14,6 +14,7 @@ import { aktualnosci, jestAktualnoscia } from '../lib/aktualnosci.js';
 import { linkAfiliacyjny, fmtCena, fmtElementy, odmien, nazwaSklepu, relLinku as relSklepu, filtrujOferty, kodRabatowy, terminKodu } from '../lib/oferty.js';
 import { wierszWycofania } from '../lib/wiersze.js';
 import { limitAllegro } from '../lib/deale.js';
+import { tylkoPewne } from '../lib/weryfikacja.js';
 
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
 const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
@@ -69,7 +70,10 @@ const dzienDanych = wpisy
 const noweMinimumDzis = (s) =>
   cenyBaza[s.nr]?.najnizsza_data === dzienDanych && cenyBaza[s.nr]?.najnizsza_cena === najlepszaCena(s);
 
-const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
+// Slajder i „Dziś w dobrej cenie” biorą tylko oferty pewne: sklepy z codziennym feedem
+// albo cena potwierdzona dziś/wczoraj na karcie produktu (src/lib/weryfikacja.js, Marek 26.10.2026)
+const wpisyPewne = wpisy.map(tylkoPewne).filter(Boolean);
+const zRabatem = wpisyPewne.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const kandydaciSlajdera = zRabatem.filter((s) => s.foto);
 
 // Allegro nie może zdominować karuzeli: linki do Allegro to maks. 30% linków
@@ -226,7 +230,7 @@ for (const pasuje of PRZEDZIALY_TRZECH) {
 const PRZEDZIALY_V2 = [(c) => c > 1500, (c) => c > 800 && c <= 1500, (c) => c > 200 && c <= 800, (c) => c <= 200];
 const wLosowej = (lista) => lista.map((x) => ({ x, k: los() })).sort((a, b) => a.k - b.k).map((o) => o.x);
 const listingDobre = wLosowej(PRZEDZIALY_V2.flatMap((pasuje) => {
-  const wPrzedziale = wpisy.filter((s) => s.cena_katalogowa && pasuje(najlepszaCena(s)));
+  const wPrzedziale = wpisyPewne.filter((s) => s.cena_katalogowa && pasuje(najlepszaCena(s)));
   // zestawy z dzisiejszej grupy rotacji najpierw, reszta tylko na dopełnienie przedziału
   const zmiana = (l) => [...l.filter(dzisNaZmianie), ...l.filter((s) => !dzisNaZmianie(s))];
   // Powyżej 1500 zł rabat ≥15% mają zwykle dwa, trzy zestawy – bez rotacji stały tam codziennie
