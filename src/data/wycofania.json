@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-10-19",
+  "aktualizacja": "2026-10-26",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -2507,9 +2507,11 @@
    "seria": "Ninjago",
    "elementy": 128,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "status": "potwierdzone",
    "uwagi": "Jeśli dziecko kocha smoki, ten mały zielony smok Lloyda to bezbolesny zakup, który za rok może być nie do zdobycia w normalnej cenie.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39709_1024_1024/71829_Box1_v29.jpg?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39709_1024_1024/71829_Box1_v29.jpg?overlay=1",
+   "zrodlo": "lego.com dzial Ostatnie zestawy, 2026-10-26",
+   "potwierdzono": "2026-10-26"
   },
   {
    "numer": "71830",
@@ -3107,6 +3109,16 @@
    "status": "potwierdzone",
    "zrodlo": "weryfikacja ręczna (Marek, 14.09.2026) + brak w katalogu lego.com z 28.08.2026",
    "uwagi": "Grecka odsłona serii Restauracje świata, rozdawana przy zakupach. Ta sama zasada co przy pozostałych dodatkach: brak wznowień i cena zależna od podaży."
+  },
+  {
+   "numer": "40909",
+   "nazwa": "Restauracje świata: Włochy",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": 317,
+   "kiedy": "grudzień 2026",
+   "status": "potwierdzone",
+   "zrodlo": "regulamin akcji LEGO.pl: gratis rozdawany wyłącznie 13–19.10.2026; karta lego.com/pl-pl z 26.10.2026 — Upominek przy zakupie, produkt obecnie niedostępny; stonewars.de 12.10.2026: EOL 12/2026 zapisany u LEGO",
+   "uwagi": "Włoska odsłona serii Restauracje świata była do zdobycia tylko jako dodatek do zamówień 13–19 października — po zamknięciu okna LEGO go nie sprzedaje, a ceny rynku wtórnego zachowują się jak przy pozostałych gratisach z tej serii."
   },
   {
    "numer": "40885",

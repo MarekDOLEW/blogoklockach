@@ -1376,6 +1376,9 @@ doszło tylko potwierdzenie 60464 (przewidywane → potwierdzone). Sygnał 2 (40
 (na razie): jedno źródło, a statusy gratisów prowadzimy — 40906 i 40908 weszły jako „wycofany"
 dopiero po zniknięciu z katalogu lego.com; 40909 dopiszemy tak samo po zakończeniu akcji 13–19.10,
 gdy LEGO przestanie go rozdawać.
+→ Wycofania 2026-10-26: dopisane — 40909 wszedł na listę (grudzień 2026, potwierdzone): akcja
+13–19.10 była jedynym oknem dystrybucji wg regulaminu LEGO.pl, karta lego.com/pl-pl z 26.10 mówi
+„Produkt obecnie niedostępny". Na „wycofany" przejdzie, gdy karta zniknie z lego.com, jak 40906/40908.
 
 ## 2026-10-12 14:50 · CODE · MediaMarkt podpięty (decyzja Marka D2)
 
