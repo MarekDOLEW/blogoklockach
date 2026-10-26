@@ -148,8 +148,8 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 Powód: 43303 z porannego zrzutu x-kom (24,99 zł, krótka promocja) wisiało w banerze, a na karcie było już 46,90 zł.
 Decyzja Marka: slajder 5 okazji i „Dziś w dobrej cenie” (12) na głównej oraz slajder `/promocje-lego/` (12) biorą
 ofertę sklepu z cenami tygodniowymi tylko po sprawdzeniu karty; Media Expert, Allegro i Planeta Klocków bez
-sprawdzania (codzienne feedy). Nowe: `scripts/weryfikacja-ofert.mjs` (krok Łowcy przed historią cen),
-`src/lib/weryfikacja.js`, `src/data/weryfikacja_ofert.json`. Koszt: 1 kredyt na kartę, limit 40 dziennie
+sprawdzania (codzienne feedy). Nowe: `scripts/weryfikacja-ofert.mjs`,
+`src/lib/weryfikacja.js`, `src/data/weryfikacja_ofert.json`; skrypt uruchamia codziennie Routine „LEGO 09:17 — Weryfikacja ofert do slajderów” w sesji Code (`trig_01ApTmYLjumFycmtRJgUzXfa`) — prompt Łowcy może zmienić tylko jego sesja. Koszt: 1 kredyt na kartę, limit 40 dziennie
 (~1 200/mies. przy 5 000 w planie). Pierwszy przebieg 26.10: 54 karty, ok 37, nieodczytane 2 (43273 MediaMarkt i Smyk),
 poprawiona cena 75408 MediaMarkt 197,99 → 289 zł. Przy okazji `firecrawl.mjs`: błąd curla nie wypisuje już linii
 poleceń (wcześniej z kluczem API w nagłówku) i ponawia zerwane połączenie.

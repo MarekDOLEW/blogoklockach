@@ -356,6 +356,12 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**26.10.2026 (Weryfikacja ofert do slajderów — decyzja Marka)**
+- Nowe zadanie w sesji Code (`session_011GrNNd6UVQFF1NamoPaQMS`): `trig_01ApTmYLjumFycmtRJgUzXfa`, **codziennie 09:17 PL**,
+  po Łowcy. `node scripts/weryfikacja-ofert.mjs` sprawdza Firecrawlem (1 kredyt/kartę, do 40 dziennie) oferty sklepów
+  z cenami tygodniowymi, które mogą trafić do slajderów; build, commit, push. Prompt Łowcy bez zmian — `update_trigger`
+  odmawia zmiany promptu z innej sesji, a delete+create bez zgody Marka nie robimy.
+
 **24.10.2026 (Skrzynka tekstów Piotra — decyzja Marka: publikacja bez przeglądu)**
 - Nowe zadanie w stałej sesji Code (`session_011GrNNd6UVQFF1NamoPaQMS`, ma konektor Gmail
   na tylkoklockiblog@gmail.com): `trig_01767aXjmBQ1K6B9WijvH3zy`, **codziennie 08:52 i 14:52 PL**.

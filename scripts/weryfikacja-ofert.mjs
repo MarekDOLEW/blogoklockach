@@ -17,7 +17,8 @@
 // kasują). Gdy karta pokazuje inną cenę, skrypt poprawia ją w sety.json i oferty_feed.json
 // (data = dziś) — tak jak 26.10 ręcznie przy 43303.
 //
-// Uruchamia: Łowca, po zapisaniu cen (krok przed commitem). Wymaga FIRECRAWL_KEY.
+// Uruchamia: Routine „LEGO 09:17 — Weryfikacja ofert do slajderów” (sesja Code, po Łowcy). Wymaga FIRECRAWL_KEY.
+// Krok w prompcie Łowcy byłby naturalniejszy, ale prompt Routine zmienia tylko jego własna sesja.
 // Użycie:
 //   node scripts/weryfikacja-ofert.mjs [--limit 40] [--sucho]   # --sucho: lista kandydatów bez pobierania
 
