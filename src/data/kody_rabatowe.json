@@ -94,6 +94,17 @@
     "21064": 209.0,
     "11381": 399.0
    }
+  },
+  {
+   "kod": "black-weeks2",
+   "do": "2026-11-01",
+   "koniec_znany": false,
+   "zrodlo": "mailing x-kom (SalesMasters) 26.10.2026 + karty produktów sprawdzone 26.10 ok. 10:08",
+   "zestawy": {
+    "75446": 319.0,
+    "76785": 189.0,
+    "75433": 199.0
+   }
   }
  ]
 }

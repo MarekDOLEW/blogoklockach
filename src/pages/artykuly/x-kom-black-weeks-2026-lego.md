@@ -76,4 +76,4 @@ Przy tych czterech zestawach karta produktu o 10:30 pokazywała zwykłą cenę x
 2. Sprawdź, czy przy cenie widnieje dopisek „z kodem black-weeks1”. Jeśli go nie ma, obniżka na ten zestaw już się skończyła.
 3. Dodaj zestaw do koszyka i wpisz kod **black-weeks1**.
 
-x-kom zapowiada nowe promocje co poniedziałek aż do Black Friday. Ceny x-kom w tabelach na kartach zestawów odświeżamy raz w tygodniu, a okazje ze wszystkich sklepów, aktualizowane codziennie, znajdziesz w [Promocjach LEGO](/promocje-lego/).
+x-kom zapowiada nowe promocje co poniedziałek aż do Black Friday. Drugą listę, z kodem black-weeks2, opisujemy w tekście [Black Weeks w x-kom, tydzień 2](/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/). Ceny x-kom w tabelach na kartach zestawów odświeżamy raz w tygodniu, a okazje ze wszystkich sklepów, aktualizowane codziennie, znajdziesz w [Promocjach LEGO](/promocje-lego/).

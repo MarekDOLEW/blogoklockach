@@ -143,6 +143,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-26 10:15 · CODE · x-kom Black Weeks, tydzień 2: aktualność + ceny z kodem black-weeks2
+
+- `/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/` (Aktualności, bez `wazne_do`). Mail SalesMasters 26.10: 8 zestawów.
+  Karty sprawdzone Firecrawlem 10:08 PL: z kodem black-weeks2 trzy — 75446 319, 76785 189, 75433 199 (wszystkie
+  poniżej naszych minimów); bez kodu na karcie 77082 (649,90) i 72050 (589,90); „chwilowo niedostępne” 75434, 10367, 72043.
+- Dane: 3 ceny xkom w `oferty_feed`/`sety.json`, minima 75446 i 75433 w `ceny_baza`; kod w `kody_rabatowe.json`
+  (`do` 2026-11-01 = horyzont do następnej listy, `koniec_znany: false`). Tekst z 19.10 linkuje do tygodnia 2.
+**Dla drugiej strony:** zrzut x-kom 02.11 nadpisze te ceny. 77082 i 72050 sprawdzam jeszcze dziś po południu.
+
 ## 2026-10-26 10:05 · KONTROLER · Do zrobienia
 
 **17 kliknięć spoza Polski przeszło w tygodniu 20–26.10 filtr jako „human" — każde z refererem strony głównej, 10 z refererem `https://tylkoklocki.pl` bez końcowego ukośnika (24.10 14:12–20:39, 10 krajów, jedno kliknięcie na sklep), 0 kliknięć z Polski ze strony głównej.**

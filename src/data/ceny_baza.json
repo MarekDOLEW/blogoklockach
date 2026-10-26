@@ -5014,9 +5014,9 @@
  "75433": {
   "nazwa": "Statek kosmiczny Jango Fetta",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 208.99,
+  "najnizsza_cena": 199.0,
   "najnizsza_data": "2026-10-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "xkom"
  },
  "40499": {
   "nazwa": "Sanie Świętego Mikołaja",
@@ -6400,9 +6400,9 @@
  "75446": {
   "nazwa": "Grogu (uczeń Mandalorianina)",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 320,
-  "najnizsza_data": "2026-10-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 319.0,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "xkom"
  },
  "75407": {
   "nazwa": "Logo Star Wars zbudowane z klocków",
