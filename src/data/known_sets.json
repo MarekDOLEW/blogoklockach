@@ -1,5 +1,5 @@
 {
- "data_aktualizacji": "2026-10-24",
+ "data_aktualizacji": "2026-10-26",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
  "liczba_setow": 1212,
  "sety": [
@@ -6519,5 +6519,12 @@
   "luki_katalogu": "Przeliczone w tym przebiegu tym samym skryptem na dwoch rewizjach (065f96d i drzewo robocze): opisane bez ceny 2 (21375, 77094 — oba bez ofert w feedzie), rocznik 2026 w sprzedazy bez wpisu w sety.json 17 (bylo 21: ubyly 45200-45203 dolozone wczoraj), cala kolejka 2020-2026: 165.",
   "prompt_runnera": "Prompt tego zadania nadal mowi „Zestawow LEGO Education nie dodawaj do sety.json”, a 23.10 Marek zdecydowal odwrotnie dla czterech Science Kitow w sprzedazy detalicznej. Sesja ze swiezym kontekstem przeczyta tylko prompt — pozycja dla Marka w dzienniku.",
   "serwisy": "PromoBricks: dwa nowe teksty z 23.10 (Daft Punk, marka roku). StoneWars: dwa z 23.10 (40889, Daft Punk). Zadnych sygnalow wycofan w zrodlach tego przebiegu. Uwaga techniczna: pytanie o prog zakupu 40889 zadane wyciagowi ze strony glownej PromoBricks wrocilo z odpowiedzia o zupelnie innej akcji (gratis 40785, grudzien 2025) — nie uzyte, prog wziety z tekstu StoneWars o 40889."
+ },
+ "przeglad_2026_10_26": {
+  "nowosci": "Zadnego nowego zestawu. Okno przyrostowe (updatedSince 25.10) dalo cztery rekordy: 40889 i 40898 (oba znane, nizej), 1615 Basic Set z rocznika 1987 oraz pozycje WORKSHOP „Blooming Rainbow Party Workshop” (kategoria Other + LEGO exclusive — filtr szumu).",
+  "wycena_40898": "Karta lego.com/pl-pl ma polska nazwe „Wenecka taksowka wodna” i wartosc 124,99 zl (29,99 euro, kurs ok. 4,17), status „out of stock” przed startem okna. Wpis w sety.json dostal te wycene i stracil flage bez_rrp — flag w sety.json: 5 -> 4 (zostaja 40507, 40897, 40952, 910059). Nazwa poprawiona z naszej „Weneckie taxi wodne” na oficjalna; tekst Piotra w artykule o 11388 mial ja dobrze od poczatku. Przepisane: opis i dla_afol 40898 (mowily „wlasnej ceny katalogowej nie ma i nigdy nie bedzie mial”), zdanie o gratisie w dla_afol 11388 (bylo 29,99 euro, jest 124,99 zl) oraz opis wpisu 40898 w przeciekach. Do katalog.json nie dopisuje — tego numeru tam nie ma.",
+  "terminy_z_katalogu": "Brickset potwierdzil dwie daty, ktore mielismy juz z prezentacji: 40889 launchDate 2026-10-28 i 40898 launchDate 2026-11-01. Zadnej zmiany danych to nie wymagalo — premiery w sety.json stoja na 2026-10 i 2026-11.",
+  "luki_katalogu": "Przeliczone na dwoch rewizjach (389b1d5 i drzewo robocze), bez zmian: opisane bez ceny 2 (21375, 77094 — oba bez ofert w feedzie), rocznik 2026 w sprzedazy bez wpisu w sety.json 17, cala kolejka 2020-2026: 165.",
+  "serwisy": "PromoBricks i StoneWars stoja na 23.10 — trzeci dzien bez nowego tekstu w obu serwisach (weekend). Zadnych sygnalow wycofan."
  }
 }
