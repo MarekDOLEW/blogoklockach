@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-25"
+  "zaktualizowano": "2026-10-26"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -164,6 +164,23 @@
    "https://tylkoklocki.pl/zestaw/42179/",
    "https://tylkoklocki.pl/zestaw/42199/",
    "https://tylkoklocki.pl/zestaw/42202/"
+  ],
+  "2026-10-26": [
+   "https://tylkoklocki.pl/promocje-lego/",
+   "https://tylkoklocki.pl/aktualnosci/",
+   "https://tylkoklocki.pl/artykuly/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/42179/",
+   "https://tylkoklocki.pl/zestaw/42199/",
+   "https://tylkoklocki.pl/zestaw/42202/",
+   "https://tylkoklocki.pl/zestaw/21585/",
+   "https://tylkoklocki.pl/artykuly/lego-42676-frajda-w-parku-wodnym-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-6391-cargo-center-historia/",
+   "https://tylkoklocki.pl/artykuly/lego-daft-punk-ideas-zapowiedz/",
+   "https://tylkoklocki.pl/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/",
+   "https://tylkoklocki.pl/artykuly/lego-paradisa-historia-serii/",
+   "https://tylkoklocki.pl/zestaw/42205/",
+   "https://tylkoklocki.pl/zestaw/43249/"
   ]
  }
 }
