@@ -44,7 +44,7 @@
  "11381": {
   "nazwa": "Jaguar Type E",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 399.0,
+  "najnizsza_cena": 399,
   "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "xkom"
  },
@@ -506,9 +506,9 @@
  "75647": {
   "nazwa": "Gum-gumowoc",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 249,
-  "najnizsza_data": "2026-08-27",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 218.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "40923": {
   "nazwa": "Figurki Shreka, Osła i Ciastka",
@@ -1822,9 +1822,9 @@
  "11372": {
   "nazwa": "Jesienny ogród z chatką",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 309,
-  "najnizsza_data": "2026-10-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 289.97,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "21376": {
   "nazwa": "Rudy kot",
@@ -2907,9 +2907,9 @@
  "76155": {
   "nazwa": "W cieniu Arishem",
   "cena_katalogowa": 329.99,
-  "najnizsza_cena": 189,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 187.4,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "60423": {
   "nazwa": "Tramwaj miejski ze stacją",
@@ -3628,7 +3628,7 @@
  "31220": {
   "nazwa": "Claude Monet – Most nad stawem z liliami wodnymi",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 579.0,
+  "najnizsza_cena": 579,
   "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "xkom"
  },
@@ -3859,9 +3859,9 @@
  "31379": {
   "nazwa": "Dzikie zwierzęta groźny dinozaur",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 67.74,
-  "najnizsza_data": "2026-10-15",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 66.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "11501": {
   "nazwa": "Bukiet tulipanów",
@@ -3901,8 +3901,8 @@
  "21267": {
   "nazwa": "Pustynny patrol złosadników",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 39.97,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 39.96,
+  "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "empik"
  },
  "71858": {
@@ -4384,8 +4384,8 @@
  "76443": {
   "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
   "cena_katalogowa": 219.99,
-  "najnizsza_cena": 142.97,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 142.96,
+  "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "empik"
  },
  "76208": {
@@ -4419,9 +4419,9 @@
  "43303": {
   "nazwa": "Mała Dżasmina i Roszpunka",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.6,
-  "najnizsza_data": "2026-10-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 24.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "xkom"
  },
  "43239": {
   "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
@@ -4734,9 +4734,9 @@
  "75423": {
   "nazwa": "SMART Play: X-Wing Czerwona Piątka Luke'a",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 264.88,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 263.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "10459": {
   "nazwa": "Bluey Dom rodzinny Blue z grą pamięciową",
@@ -5112,15 +5112,15 @@
  "21064": {
   "nazwa": "Paryż – miasto miłości",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 209.0,
+  "najnizsza_cena": 209,
   "najnizsza_data": "2026-10-19",
   "najnizsza_sklep": "xkom"
  },
  "43291": {
   "nazwa": "Mała Bella i Tiana z zamkiem",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 104.98,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 104.97,
+  "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "empik"
  },
  "60443": {
@@ -5735,8 +5735,8 @@
  "10280": {
   "nazwa": "Creator Bukiet kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 158.99,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 158.97,
+  "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "empik"
  },
  "30734": {
@@ -6988,9 +6988,9 @@
  "71441": {
   "nazwa": "Przygody z interaktywną figurką Peach",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 149,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 134.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
  },
  "10966": {
   "nazwa": "Zabawa w kąpieli: pływająca wyspa ze zwierzątkami",
