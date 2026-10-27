@@ -149,6 +149,12 @@ Wgrane wszystkie 50 kart (`import-karty.py --krotkie`), bez blokad RRP, wszystki
 15 rozjazdów liczby elementów (katalog z Rebrickable vs Piotr) rozstrzygnął Brickset — za każdym razem
 na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 41811, 76252, 80043–80046,
 80048, 80049, 910002, 910004, 910011.
+## 2026-10-27 08:50 · ŁOWCA · Do zrobienia
+
+**77253 Bugatti wróciło do maila podejrzanego rynku: Ceneo 56,30 zł przy RRP 114,99 (−51%) — złotówkę poniżej odrzuconych 57,32 zł z 21.10, więc sito znów je pokazuje**
+**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
+**Zrobić:** — sprawdzić kartę z maila i zaktualizować werdykt 77253 w `src/data/deale_potwierdzone.json` (ponowne odrzucenie przy 56,30 zł wyciszy mail do kolejnego spadku)
+**Kto:** — Marek (decyzja)
 
 ## 2026-10-26 12:00 · CODE · Slajdery tylko z ofertami sprawdzonymi na karcie produktu
 

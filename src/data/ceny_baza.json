@@ -282,8 +282,8 @@
  "21066": {
   "nazwa": "Nowy Jork — Wielkie Jabłko",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 389,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 369,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "72537": {
@@ -324,9 +324,9 @@
  "42239": {
   "nazwa": "Batmobile Tumbler",
   "cena_katalogowa": 819.99,
-  "najnizsza_cena": 549,
-  "najnizsza_data": "2026-10-09",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 529,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
  },
  "75454": {
   "nazwa": "AT-AT Resztek Imperium i INT-4",
@@ -408,9 +408,9 @@
  "21582": {
   "nazwa": "Kurzy jeździec",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79.99,
-  "najnizsza_data": "2026-10-19",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 79.9,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
  },
  "75458": {
   "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
@@ -674,9 +674,9 @@
  "77119": {
   "nazwa": "Tails i Tornado-1",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 88.99,
-  "najnizsza_data": "2026-10-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 86.07,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
  },
  "31393": {
   "nazwa": "Leśne zwierzęta: Wilk szary",
@@ -786,8 +786,8 @@
  "76474": {
   "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 259.99,
-  "najnizsza_data": "2026-10-26",
+  "najnizsza_cena": 249,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "40868": {
@@ -842,8 +842,8 @@
  "43017": {
   "nazwa": "Kask Oscar Piastri McLaren Mastercard F1 Team",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 247,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 239,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "31392": {
@@ -954,9 +954,9 @@
  "77082": {
   "nazwa": "Jaskinia Ubawu",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 549,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 539,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
  },
  "42704": {
   "nazwa": "Grand Hotel w mieście Heartlake",
@@ -1185,8 +1185,8 @@
  "42703": {
   "nazwa": "Syrenkowa kolejka górska",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 293.01,
-  "najnizsza_data": "2026-10-16",
+  "najnizsza_cena": 286.98,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "mediaexpert"
  },
  "76352": {
@@ -1570,8 +1570,8 @@
  "76417": {
   "nazwa": "Bank Gringotta — edycja kolekcjonerska",
   "cena_katalogowa": 1849.99,
-  "najnizsza_cena": 3098,
-  "najnizsza_data": "2026-10-26",
+  "najnizsza_cena": 2948.99,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "42143": {
@@ -1710,8 +1710,8 @@
  "40896": {
   "nazwa": "The X-Files: laboratorium Scully",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 399,
-  "najnizsza_data": "2026-08-20",
+  "najnizsza_cena": 398.99,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "10331": {
@@ -2151,8 +2151,8 @@
  "76355": {
   "nazwa": "Batmobil z filmu Powrót Batmana",
   "cena_katalogowa": 899.99,
-  "najnizsza_cena": 1059.99,
-  "najnizsza_data": "2026-10-23",
+  "najnizsza_cena": 1049.99,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "42182": {
@@ -2347,8 +2347,8 @@
  "71425": {
   "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 317.5,
-  "najnizsza_data": "2026-10-26",
+  "najnizsza_cena": 316.55,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "75364": {
@@ -2466,8 +2466,8 @@
  "76255": {
   "nazwa": "Nowy statek Strażników",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 333.33,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "42157": {
@@ -2494,8 +2494,8 @@
  "42141": {
   "nazwa": "Samochód wyścigowy McLaren Formula 1",
   "cena_katalogowa": 849.99,
-  "najnizsza_cena": 554,
-  "najnizsza_data": "2026-10-25",
+  "najnizsza_cena": 550,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "42154": {
@@ -2711,8 +2711,8 @@
  "10315": {
   "nazwa": "Zaciszny ogród",
   "cena_katalogowa": 439.99,
-  "najnizsza_cena": 308.95,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 308.94,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "mediaexpert"
  },
  "76973": {
@@ -2893,8 +2893,8 @@
  "75380": {
   "nazwa": "Diorama: Wyścig ścigaczy w Mos Espa",
   "cena_katalogowa": 349.99,
-  "najnizsza_cena": 292.58,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 290,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "41713": {
@@ -2907,9 +2907,9 @@
  "76155": {
   "nazwa": "W cieniu Arishem",
   "cena_katalogowa": 329.99,
-  "najnizsza_cena": 187.4,
-  "najnizsza_data": "2026-10-26",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 184.98,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
  },
  "60423": {
   "nazwa": "Tramwaj miejski ze stacją",
@@ -3285,8 +3285,8 @@
  "75432": {
   "nazwa": "Myśliwiec V-19 Torrent",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 194.98,
-  "najnizsza_data": "2026-10-26",
+  "najnizsza_cena": 194.97,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "mediaexpert"
  },
  "30414": {
@@ -4076,8 +4076,8 @@
  "43235": {
   "nazwa": "Scena muzyczna Arielki",
   "cena_katalogowa": 69.99,
-  "najnizsza_cena": 38.97,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 38.85,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "42169": {
@@ -4706,8 +4706,8 @@
  "21365": {
   "nazwa": "Papużki nierozłączki",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 192.99,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 191.91,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "77245": {
@@ -5322,9 +5322,9 @@
  "43290": {
   "nazwa": "Pixar Stefan i As",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 149,
-  "najnizsza_data": "2026-10-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 139,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11199": {
   "nazwa": "Misja ratunkowa zespołu ’ego w dinoterenówce",
@@ -6638,8 +6638,8 @@
  "40892": {
   "nazwa": "Kolekcja odznak z regionu Kanto",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 657,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 656.99,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "76900": {
@@ -6743,8 +6743,8 @@
  "30725": {
   "nazwa": "Spider-Man vs. Anti-Venom - Napad",
   "cena_katalogowa": 16.99,
-  "najnizsza_cena": 11.96,
-  "najnizsza_data": "2026-10-24",
+  "najnizsza_cena": 11.79,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "71853": {
@@ -7359,9 +7359,9 @@
  "76334": {
   "nazwa": "Epicka bitwa: Spider-Man kontra Sandman",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 74.87,
-  "najnizsza_data": "2026-10-21",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 74.86,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42684": {
   "nazwa": "Jednorożcowa kawiarnia",
@@ -7394,8 +7394,8 @@
  "41447": {
   "nazwa": "Park w Heartlake City",
   "cena_katalogowa": 179.99,
-  "najnizsza_cena": 135,
-  "najnizsza_data": "2026-10-16",
+  "najnizsza_cena": 129,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "76467": {
@@ -7499,8 +7499,8 @@
  "40856": {
   "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 184,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 179,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "31146": {
@@ -7562,8 +7562,8 @@
  "10416": {
   "nazwa": "Opieka nad zwierzętami na farmie",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 192.87,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 190,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "31137": {
@@ -7576,8 +7576,8 @@
  "40812": {
   "nazwa": "Ozdoby z bałwankami",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 38.28,
-  "najnizsza_data": "2026-10-07",
+  "najnizsza_cena": 35,
+  "najnizsza_data": "2026-10-27",
   "najnizsza_sklep": "allegro"
  },
  "60459": {
