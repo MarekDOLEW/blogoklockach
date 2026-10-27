@@ -143,6 +143,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-27 · CODE · Karty P07 Piotra: partie 24–25 (50 kart)
+
+Wgrane wszystkie 50 kart (`import-karty.py --krotkie`), bez blokad RRP, wszystkie huby indeksowalne.
+15 rozjazdów liczby elementów (katalog z Rebrickable vs Piotr) rozstrzygnął Brickset — za każdym razem
+na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 41811, 76252, 80043–80046,
+80048, 80049, 910002, 910004, 910011.
+
 ## 2026-10-26 12:00 · CODE · Slajdery tylko z ofertami sprawdzonymi na karcie produktu
 
 Powód: 43303 z porannego zrzutu x-kom (24,99 zł, krótka promocja) wisiało w banerze, a na karcie było już 46,90 zł.

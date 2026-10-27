@@ -3,12 +3,13 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-10-25",
+  "zaktualizowano": "2026-10-27",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
    "Archiwum",
    "Art",
+   "Avatar",
    "Batman",
    "Bluey",
    "Botanicals",
@@ -17,6 +18,7 @@
    "City",
    "Classic",
    "Creator",
+   "DOTS",
    "DREAMZzz",
    "DUPLO",
    "Despicable Me 4",
@@ -82578,6 +82580,2458 @@
    {
     "q": "Jaki zestaw LEGO Jurassic World warto kupić zamiast tego modelu?",
     "a": "Jeśli wolisz model do postawienia na półce, w serii Jurassic World są też zestawy ekspozycyjne. Pełna oferta: <a href=\"/serie/jurassic-world/\">zobacz wszystkie zestawy LEGO Jurassic World</a>."
+   }
+  ]
+ },
+ "10318": {
+  "seria": "Icons",
+  "nazwa": "Concorde",
+  "elementy": 2083,
+  "akapity": [
+   "LEGO 10318 Concorde odtwarza naddźwiękowy samolot pasażerski, który Wielka Brytania i Francja opracowały wspólnie w latach 60. Za projekt modelu z linii Icons odpowiadają Florian Müller i Milan Madge, a do budowy potrzeba 2083 elementów. Sprzedaż ruszyła 7 września 2023 roku, kilka dni po wcześniejszym dostępie dla członków programu lojalnościowego LEGO.",
+   "Konstrukcja powtarza rozwiązania znane z prawdziwej maszyny. Nos razem z wizjerem pochyla się tak jak przy starcie i lądowaniu, a podwozie, uzupełnione małym kółkiem pod ogonem, chowa się w kadłubie. Na skrzydłach typu delta poruszają się powierzchnie sterowe. Gdy zdejmie się fragment dachu, widać wnętrze kabiny pasażerskiej.",
+   "Na podstawce samolot o długości 105 cm, szerokości 43 cm i wysokości ponad 15 cm można ustawić poziomo, jak w trakcie lotu, albo z uniesionym dziobem, w pozycji startu lub lądowania. Model ma oznaczenie 18+, a ekspozycję uzupełnia tabliczka z informacjami o maszynie.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 6. co do wielkości. Za element płaci się tu katalogowo 0,42 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11374/\">LEGO 11374 Automat do gry pinball</a> (899,99 zł katalogowo) i <a href=\"/zestaw/11386/\">LEGO 11386 SpongeBob Kanciastoporty: Bikini Dolne</a> (899,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10318",
+   "Nazwa": "Concorde",
+   "Seria": "Icons",
+   "Premiera": "7 września 2023",
+   "Liczba elementów": "2083",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "869,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons; modele lotnicze",
+   "Dystrybucja": "wyłącznie w sklepach LEGO; w sprzedaży"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10318 Concorde?",
+    "a": "Cena katalogowa w Polsce to 869,99 zł. Bieżące oferty sprzedawców: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wychodzi za jeden element w LEGO 10318?",
+    "a": "Około 0,42 zł. To miara orientacyjna: w modelu ekspozycyjnym liczą się też gabaryty i detale kadłuba, których sama liczba klocków nie oddaje."
+   },
+   {
+    "q": "W jakich pozycjach można ustawić model?",
+    "a": "Na podstawce samolot stoi poziomo, jak w locie, albo z uniesionym dziobem, jak przy starcie lub lądowaniu."
+   },
+   {
+    "q": "Jakie wymiary ma Concorde z klocków?",
+    "a": "105 cm długości, 43 cm szerokości i ponad 15 cm wysokości."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10318?",
+    "a": "Zestaw ma status ekskluzywny, dlatego pierwszym miejscem są sklepy LEGO; warto jednak porównać także inne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "W linii Icons są inne duże modele pojazdów przeznaczone do ekspozycji: <a href=\"/serie/icons/\">zobacz wszystkie zestawy LEGO Icons</a>."
+   }
+  ]
+ },
+ "10323": {
+  "seria": "Icons",
+  "nazwa": "Automat do gry PAC-MAN",
+  "elementy": 2651,
+  "akapity": [
+   "LEGO 10323 Automat do gry Pac-Man przenosi w klocki automat z salonu gier z czarno-żółtą obudową. Zestaw z linii Icons przygotowano we współpracy z Bandai Namco i wydano w 2023 roku. Obudowa ma wymiary 32 × 25 × 17 cm (wysokość, szerokość, głębokość).",
+   "Najwięcej dzieje się w środku. Korbka z boku obudowy napędza przekładnie, które przesuwają Pac-Mana oraz duszki Blinky'ego i Clyde'a, a przycisk w podstawie zmienia sposób ich ruchu. Na panelu sterowania jest joystick wychylany w czterech kierunkach i licznik punktów ustawiany ręcznie. Otwór na monety podświetla klocek świetlny zasilany dwiema bateriami LR41, dołączonymi do zestawu. Po zdjęciu tylnego panelu widać elementy Technic; łącznie zestaw ma 2651 elementów.",
+   "Do automatu dochodzi osobna podstawka z dużymi figurami Pac-Mana i duszka, które po naciśnięciu zmieniają wygląd. W zestawie jest też ukryta scenka z minifigurką gracza przy miniaturowym automacie.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,43 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11370/\">LEGO 11370 Stranger Things: Dom Creelów</a> (1 199,99 zł katalogowo) i <a href=\"/zestaw/11371/\">LEGO 11371 Ulica handlowa</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10323",
+   "Nazwa": "Automat do gry PAC-MAN",
+   "Seria": "Icons",
+   "Premiera": "2023",
+   "Liczba elementów": "2651",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "1 minifigurka (gracz)",
+   "Cena katalogowa w Polsce": "1 149,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons; licencja Pac-Man (Bandai Namco)",
+   "Dystrybucja": "wyłącznie w sklepach LEGO; wycofywany z oferty"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10323?",
+    "a": "Polska cena katalogowa wynosi 1 149,99 zł. Zestaw znika z oferty sklepu LEGO, więc aktualne ceny lepiej sprawdzić tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena za element w LEGO 10323?",
+    "a": "Wychodzi około 0,43 zł. Wskaźnik jest pomocniczy i nie oddaje wartości mechanizmu z przekładniami ani podświetlenia."
+   },
+   {
+    "q": "Czy figurki w automacie się poruszają?",
+    "a": "Tak. Korbka z boku napędza przekładnie, które przesuwają Pac-Mana i dwa duszki, a przycisk w podstawie zmienia sposób ich ruchu."
+   },
+   {
+    "q": "Co zasila podświetlenie otworu na monety?",
+    "a": "Klocek świetlny z dwiema bateriami LR41; baterie są w zestawie."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10323?",
+    "a": "Zestaw sprzedaje wyłącznie LEGO; ponieważ wkrótce zniknie z oferty, warto śledzić także oferty z drugiej ręki: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "W kategorii Icons są inne modele z licencjami i mechanizmami przeznaczone dla starszych fanów: <a href=\"/serie/icons/\">zobacz wszystkie zestawy LEGO Icons</a>."
+   }
+  ]
+ },
+ "10788": {
+  "seria": "Koci Domek Gabi",
+  "nazwa": "Gabby's Dollhouse",
+  "elementy": 498,
+  "akapity": [
+   "Osiem kolorowych pomieszczeń połączonych przesuwaną windą tworzy LEGO 10788 Koci domek Gabi, zestaw z 2023 roku oparty na animowanym serialu. W kuchni można piec, w pokoju zabaw zjeżdżać na zjeżdżalni, a w sypialni ucinać drzemkę. Dach zajmuje impreza z obracanym parkietem tanecznym.",
+   "Model składa się z 498 elementów, a złożony domek mierzy około 34 na 31 na 9 cm. Domek zamieszkują cztery postacie: Gabi, Pandy Paws, MerCat i Cakey (imiona w oryginalnej wersji serialu). Wśród pomieszczeń jest też łazienka, a w wyposażeniu znalazły się pianino, saksofon, balony i drzewo z klocków. Zestaw należy do serii LEGO Koci domek Gabi, w której w tym samym roku ukazały się też inne zestawy z bohaterami serialu."
+  ],
+  "metryka": {
+   "Numer": "10788",
+   "Nazwa": "Gabby's Dollhouse",
+   "Seria": "Koci domek Gabi",
+   "Premiera": "2023",
+   "Liczba elementów": "498",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "4 postacie: Gabi, Pandy Paws, MerCat, Cakey",
+   "Cena katalogowa w Polsce": "339,99 zł",
+   "Cena katalogowa za element": "0,68 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Koci domek Gabi; licencja serialu „Koci domek Gabi”",
+   "Dystrybucja": "sprzedaż detaliczna; w sprzedaży"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10788 Koci domek Gabi?",
+    "a": "339,99 zł według polskiej ceny katalogowej. Oferty sklepów zestawia ta strona: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 10788?",
+    "a": "Około 0,68 zł. Przy zestawie dla przedszkolaków ten przelicznik jest tylko pomocniczy."
+   },
+   {
+    "q": "Jakie pokoje są w domku?",
+    "a": "Między innymi kuchnia, pokój zabaw ze zjeżdżalnią i sypialnia, a na dachu jest parkiet taneczny; wszystkie osiem pomieszczeń łączy winda."
+   },
+   {
+    "q": "Od jakiego wieku jest zestaw?",
+    "a": "Od 4 lat."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10788?",
+    "a": "Domek jest w regularnej sprzedaży, więc warto porównać sklep LEGO i sklepy z zabawkami: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Koci domek Gabi?",
+    "a": "W serii są mniejsze zestawy z innymi pomieszczeniami i bohaterami serialu: <a href=\"/serie/koci-domek-gabi/\">zobacz wszystkie zestawy LEGO Koci Domek Gabi</a>."
+   }
+  ]
+ },
+ "21060": {
+  "seria": "Architecture",
+  "nazwa": "Himeji Castle",
+  "elementy": 2125,
+  "akapity": [
+   "W LEGO 21060 Zamek Himeji główna wieża wznosi się na murach obronnych, ułożonych z ciemnobeżowych skosów. Seria Architecture dostała ten zestaw w 2023 roku. Zamek ma około 19 cm wysokości, w poziomie zajmuje 32 na 27 cm, a podstawa ma 40 na 34 wypustki.",
+   "Niższe mury i zabudowania mają schody, alejki i bramy. Górna część wieży jest zdejmowana i odsłania salę narad; detale wnętrza pojawiają się również na większości pozostałych kondygnacji. Narożniki dachów podnoszą się ku górze dzięki elementowi, który zadebiutował w tym zestawie. Dwa kwitnące drzewa wiśni można wymienić na zielone.",
+   "Nazwę budowli podaje tabliczka z dwoma nadrukowanymi elementami, po angielsku i po japońsku. Autorem projektu jest Chris McVeigh, a 2125 elementów zapakowano w 17 numerowanych torebek. W polskim sklepie LEGO zamek figuruje już wśród ostatnich zestawów i jest niedostępny.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21066/\">LEGO 21066 Nowy Jork – Wielkie Jabłko</a> (599,99 zł katalogowo) i <a href=\"/zestaw/21064/\">LEGO 21064 Paryż – miasto miłości</a> (339,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "21060",
+   "Nazwa": "Himeji Castle",
+   "Seria": "Architecture",
+   "Premiera": "2023",
+   "Liczba elementów": "2125",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "689,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Architecture; budowle świata",
+   "Dystrybucja": "sprzedaż detaliczna; wycofywany z oferty"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21060 Zamek Himeji?",
+    "a": "Cena katalogowa w Polsce to 689,99 zł. W sklepie LEGO zestaw jest już niedostępny, dlatego oferty innych sprzedawców są tu: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element zamku?",
+    "a": "Około 0,32 zł. Ten przelicznik pomaga porównać zestawy, ale nic nie mówi o nowym elemencie, który zadebiutował w narożnikach dachów zamku."
+   },
+   {
+    "q": "Czy wnętrze zamku jest odwzorowane?",
+    "a": "Tak, po zdjęciu górnej części wieży widać salę narad, a detale wnętrza są także na niższych kondygnacjach."
+   },
+   {
+    "q": "Czy drzewa wiśni można zmienić?",
+    "a": "Tak, dwa kwitnące drzewa da się zastąpić zielonymi."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21060?",
+    "a": "Zamek znika z oferty LEGO, więc najlepiej porównać sklepy, które mają go jeszcze na stanie: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Architecture?",
+    "a": "Seria Architecture obejmuje modele słynnych budowli i panoram miast, przeznaczone do ekspozycji: <a href=\"/serie/architecture/\">zobacz wszystkie zestawy LEGO Architecture</a>."
+   }
+  ]
+ },
+ "30678": {
+  "seria": "Despicable Me 4",
+  "nazwa": "Minions' Jetboard",
+  "elementy": 48,
+  "akapity": [
+   "Minionek w niebieskich ogrodniczkach pędzi na desce z dużym silnikiem w polybagu LEGO 30678 Odrzutowa deska minionków (ang. Minions' Jetboard). Woreczek z 2024 roku należy do linii Despicable Me 4, nawiązującej do czwartej części filmu „Jak ukraść księżyc”.",
+   "Z 48 elementów powstaje deska odrzutowa, a minifigurka dostaje do ręki pistolet promieniowy i klucz. Polybag był sprzedawany w sklepach, a w lipcu 2024 roku sklep LEGO dodawał go także jako prezent do wybranych zakupów."
+  ],
+  "metryka": {
+   "Numer": "30678",
+   "Nazwa": "Minions' Jetboard",
+   "Seria": "Despicable Me 4",
+   "Premiera": "2024",
+   "Liczba elementów": "48",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 minifigurka (minionek)",
+   "Cena katalogowa w Polsce": "17,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Despicable Me 4; minionki",
+   "Dystrybucja": "polybag w sprzedaży detalicznej, w lipcu 2024 także prezent do zakupów w sklepie LEGO; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Odrzutowa deska minionków?",
+    "a": "Polska cena katalogowa wynosiła 17,99 zł. Woreczka już się nie produkuje, a bieżące oferty są tu: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Co trzyma minionek?",
+    "a": "Pistolet promieniowy i klucz."
+   },
+   {
+    "q": "Czy LEGO 30678 był prezentem do zakupów?",
+    "a": "Tak, w lipcu 2024 roku sklep LEGO dodawał go do wybranych zamówień, choć woreczek trafiał też do zwykłej sprzedaży."
+   },
+   {
+    "q": "Do jakiego filmu nawiązuje zestaw?",
+    "a": "Do filmu „Jak ukraść księżyc 4” (Despicable Me 4)."
+   },
+   {
+    "q": "Gdzie kupić LEGO 30678?",
+    "a": "Polybag pojawia się w ofertach sklepów z zabawkami i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Despicable Me 4?",
+    "a": "W linii Despicable Me 4 są większe zestawy z minionkami i pojazdami z filmu: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "31208": {
+  "seria": "Art",
+  "nazwa": "Hokusai - The Great Wave",
+  "elementy": 1810,
+  "akapity": [
+   "LEGO Art sięgnęło w 2023 roku po „Wielką falę” Hokusaia. Zestaw LEGO 31208 Hokusai – „Wielka fala” trafił do sklepów 1 stycznia i składa się z 1810 elementów, z których układa się obraz o wymiarach ponad 39 cm wysokości i 52 cm szerokości. Oznaczenie wieku to 18+.",
+   "Grafika nie jest płaskim nadrukiem: warstwy klocków nakładane na siebie budują efekt trójwymiarowy, a elementy o różnych kształtach oddają linie i głębię fal z oryginału. Podłoże tworzy sześć płyt, a dwa dodatkowe elementy służą do zawieszenia obrazu na ścianie. Kompozycję zamyka ozdobna płytka z podpisem Hokusaia.",
+   "W pudełku jest broszura o artyście i dziele, w której znajduje się także instrukcja. Kod QR prowadzi do ścieżki dźwiękowej przygotowanej do słuchania w trakcie budowania. Za projekt odpowiadał Nick Vas.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/31218/\">LEGO 31218 Japoński krajobraz z kwitnącą wiśnią</a> (519,99 zł katalogowo) i <a href=\"/zestaw/31220/\">LEGO 31220 Claude Monet – Most nad stawem z liliami wodnymi</a> (869,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "31208",
+   "Nazwa": "Hokusai - The Great Wave",
+   "Seria": "Art",
+   "Premiera": "1 stycznia 2023",
+   "Liczba elementów": "1810",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "419,99 zł",
+   "Cena katalogowa za element": "0,23 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Art; obrazy do powieszenia",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 31208 Hokusai – „Wielka fala”?",
+    "a": "Ostatnia cena katalogowa w Polsce to 419,99 zł. Po zakończeniu sprzedaży aktualne oferty są tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 31208?",
+    "a": "Za każdy z 1810 elementów płaciło się średnio około 0,23 zł. W obrazie z wielu drobnych płytek ten wskaźnik jest niski z natury i niewiele mówi o efekcie."
+   },
+   {
+    "q": "Jakie wymiary ma obraz?",
+    "a": "Ponad 39 cm wysokości i 52 cm szerokości."
+   },
+   {
+    "q": "Co jest w zestawie oprócz elementów obrazu?",
+    "a": "Broszura o Hokusaiu i jego dziele, płytka z podpisem artysty oraz elementy do zawieszenia na ścianie; kod QR prowadzi do ścieżki dźwiękowej."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31208?",
+    "a": "Gdy LEGO skończyło sprzedaż, zostały oferty sklepów i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Linia Art to inne obrazy z klocków do powieszenia na ścianie: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "31209": {
+  "seria": "Art",
+  "nazwa": "The Amazing Spider-Man",
+  "elementy": 2099,
+  "akapity": [
+   "LEGO 31209 Niesamowity Spider-Man to obraz z serii Art przygotowany na 60-lecie debiutu bohatera, który w 1962 roku pojawił się w komiksie Amazing Fantasy nr 15. Do tej liczby nawiązuje 15 pająków w kompozycji. Gotowa praca z 2023 roku mierzy 54 na 41 cm, a powstaje z 2099 elementów.",
+   "Według LEGO to jeden z bardziej przestrzennych obrazów w tej linii: Spider-Man wychodzi poza ramę i obejmuje ją ruchomymi palcami. Głowa jest osadzona na przegubach kulowych, a barki na obrotnicach. Tło ułożono z okrągłych płytek w czterech odcieniach zieleni, a LEGO wskazuje w projekcie nawiązanie do kropek Ben-Day, techniki druku komiksów z lat 60. W rogu znajduje się tabliczka z logo „The Amazing Spider-Man”.",
+   "Obraz wiesza się na ścianie dzięki dwóm wieszakom Technic z tyłu ramy. Podczas budowania można słuchać ścieżki dźwiękowej, w której redaktorzy Marvela Tom Brevoort i Nick Lowe opowiadają o historii postaci; nagranie obejmuje 12 odcinków dodatkowych i ma transkrypcję w PDF. Projekt obrazu podpisuje Nick Vas.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/31220/\">LEGO 31220 Claude Monet – Most nad stawem z liliami wodnymi</a> (869,99 zł katalogowo) i <a href=\"/zestaw/31218/\">LEGO 31218 Japoński krajobraz z kwitnącą wiśnią</a> (519,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "31209",
+   "Nazwa": "The Amazing Spider-Man",
+   "Seria": "Art",
+   "Premiera": "2023",
+   "Liczba elementów": "2099",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "859,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Art; licencja Marvel",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 31209?",
+    "a": "W Polsce cena katalogowa wynosiła 859,99 zł. Ponieważ produkcję zakończono, warto zajrzeć do bieżących ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 31209?",
+    "a": "Około 0,41 zł. Przy obrazie z klocków ta liczba niewiele mówi o efekcie na ścianie, więc lepiej traktować ją jako dodatek do porównań."
+   },
+   {
+    "q": "Jakie wymiary ma obraz?",
+    "a": "54 cm wysokości i 41 cm szerokości."
+   },
+   {
+    "q": "Dlaczego w obrazie jest 15 pająków?",
+    "a": "To nawiązanie do komiksu Amazing Fantasy nr 15 z 1962 roku, w którym zadebiutował Spider-Man."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31209?",
+    "a": "Obraz wycofano z produkcji, dlatego warto przejrzeć oferty sprzedawców, którzy mają go jeszcze na stanie: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Seria Art obejmuje obrazy i mozaiki z klocków do zawieszenia na ścianie: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "31210": {
+  "seria": "Art",
+  "nazwa": "Modern Art",
+  "elementy": 805,
+  "akapity": [
+   "Zamiast jednego wzoru do odtworzenia LEGO 31210 Sztuka współczesna daje zestaw kolorowych prostokątów, trójkątów i kół, z których układa się własną abstrakcyjną kompozycję. Później można ją rozebrać i zbudować inaczej. Linia LEGO Art wzbogaciła się o ten zestaw w sierpniu 2023 roku.",
+   "Z 805 elementów powstaje praca o wysokości ponad 32 cm i szerokości 20 cm, która wisi na ścianie dzięki elementowi-wieszakowi. Rama jest modułowa, więc po dokupieniu drugiego egzemplarza zestawu da się połączyć oba dzieła w większą całość. Instrukcja w pudełku daje punkt wyjścia, a dwa dodatkowe układy LEGO udostępniło w instrukcjach do pobrania.",
+   "Projektantami są Nick Vas i Samuel Johnson. Wiek wskazany na opakowaniu to 18+. Kolejność kształtów i kolorów wybiera budujący, więc każdy egzemplarz może wyglądać inaczej."
+  ],
+  "metryka": {
+   "Numer": "31210",
+   "Nazwa": "Modern Art",
+   "Seria": "Art",
+   "Premiera": "2023",
+   "Liczba elementów": "805",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,27 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Art; modułowa rama do łączenia egzemplarzy",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 31210 Sztuka współczesna?",
+    "a": "Do końca sprzedaży zestaw kosztował 214,99 zł. Teraz warto porównać oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 31210?",
+    "a": "Wychodziło po 0,27 zł za element. Przy zestawie do wielokrotnego przebudowywania ten przelicznik ma znaczenie drugorzędne."
+   },
+   {
+    "q": "Czy kompozycję można zmieniać?",
+    "a": "Tak, zestaw jest pomyślany do budowania i przebudowywania własnych układów kształtów."
+   },
+   {
+    "q": "Czy można połączyć dwa zestawy?",
+    "a": "Tak, modułowa rama pozwala połączyć dwa egzemplarze w większą pracę."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31210?",
+    "a": "LEGO nie ma już tego zestawu w ofercie; dostępne egzemplarze: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Oprócz kompozycji abstrakcyjnych linia Art ma obrazy odtwarzane według jednego wzoru, przeznaczone do zawieszenia: <a href=\"/serie/art/\">zobacz wszystkie zestawy LEGO Art</a>."
+   }
+  ]
+ },
+ "40504": {
+  "seria": "Ekskluzywne i promocyjne",
+  "nazwa": "A Minifigure Tribute",
+  "elementy": 1041,
+  "akapity": [
+   "Na 45-lecie minifigurki LEGO House w Billund przygotował figurę Kapitana Redbearda, pirata z zestawu 6285 Black Seas Barracuda z 1989 roku, powiększonego do 30 cm wysokości. LEGO 40504 A Minifigure Tribute trafił do sprzedaży 1 marca 2023 roku wyłącznie w sklepie LEGO w LEGO House, jako kolejna edycja limitowana tego miejsca. Zestaw jest hołdem dla ponad 10 miliardów minifigurek sprzedanych od 1978 roku.",
+   "Figura z 1041 elementów, którą przygotowali Markus Rollbühler i Stuart Harris, zachowuje szczegóły oryginału, którego autorem był Niels Milan Pedersen: hak zamiast dłoni, drewnianą nogę, epolety i czarny kapelusz z czaszką. Na haku wisi bransoletka LEGO House, a mapa skarbów kryje odniesienia do projektantów. Podstawę zdobią dwie płytki z nadrukami „A Minifigure Tribute” i „LEGO® House”.",
+   "Gdyby stanął obok 10 zestawów LEGO  z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/40955/\">LEGO 40955 Kontenerowiec z Napędem Dual-Fuel Maersk</a> (1516 el.)."
+  ],
+  "metryka": {
+   "Numer": "40504",
+   "Nazwa": "A Minifigure Tribute",
+   "Premiera": "1 marca 2023",
+   "Liczba elementów": "1041",
+   "Wiek": "10+",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO House Limited Edition; 45-lecie minifigurki",
+   "Dystrybucja": "wyłącznie w sklepie LEGO w LEGO House (Billund)"
+  },
+  "faq": [
+   {
+    "q": "Gdzie można kupić LEGO 40504?",
+    "a": "LEGO wprowadziło go do sprzedaży tylko w sklepie LEGO w LEGO House w Billund; poza tym zostają oferty odsprzedających: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Kogo przedstawia figura?",
+    "a": "Kapitana Redbearda, minifigurkę z zestawu 6285 Black Seas Barracuda z 1989 roku."
+   },
+   {
+    "q": "Jak duża jest figura?",
+    "a": "Ma 30 cm wysokości."
+   },
+   {
+    "q": "Z jakiej okazji powstał zestaw?",
+    "a": "Z okazji 45-lecia minifigurki LEGO, której historia zaczęła się w 1978 roku."
+   },
+   {
+    "q": "Czy zestaw należy do większej kolekcji?",
+    "a": "Jest częścią limitowanych edycji LEGO House, które co roku przypominają inny ważny moment w historii LEGO."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Zestawu z LEGO House nie ma w zwykłej sprzedaży; podobne duże modele do ekspozycji dla starszych fanów są w kategorii <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "40588": {
+  "seria": "Ekskluzywne i promocyjne",
+  "nazwa": "Flowerpot",
+  "elementy": 292,
+  "akapity": [
+   "Kwiaty wiśni i kraspedia w doniczce z klocków: LEGO 40588 Doniczka był w kwietniu 2023 roku prezentem przy zakupie produktów LEGO za co najmniej 700 zł w polskim sklepie LEGO. Promocja trwała od 14 do 24 kwietnia i obejmowała zakupy na LEGO.com, w sklepach LEGO oraz zamówienia telefoniczne, z limitem jednego upominku na gospodarstwo domowe i do wyczerpania zapasów.",
+   "Zestaw zaprojektowany przez Mel Caddick, z 292 elementów i oznaczeniem 12+, należy do kolekcji roślin z klocków. Gotowa kompozycja ma około 29 cm wysokości, a jej podstawa mierzy mniej więcej 12 × 12 cm, więc może stanąć na stole jako ozdoba. W opisie promocji LEGO podkreślało spokojne, skupione budowanie."
+  ],
+  "metryka": {
+   "Numer": "40588",
+   "Nazwa": "Flowerpot",
+   "Premiera": "2023",
+   "Liczba elementów": "292",
+   "Wiek": "12+",
+   "Sposób uzyskania": "gratis przy zakupach od 700 zł w sklepie LEGO (14–24 kwietnia 2023)",
+   "Typ zestawu": "GWP",
+   "Kolekcja / system": "kolekcja roślin z klocków; upominki do zakupów",
+   "Dystrybucja": "prezent do zakupów w sklepie LEGO; promocja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Jak można było zdobyć LEGO 40588 Doniczka?",
+    "a": "Jako upominek przy zakupie produktów LEGO za co najmniej 700 zł w sklepie LEGO, od 14 do 24 kwietnia 2023 roku."
+   },
+   {
+    "q": "Jakie kwiaty są w zestawie?",
+    "a": "Między innymi kwiaty wiśni i kraspedia."
+   },
+   {
+    "q": "Jaką wysokość ma kompozycja?",
+    "a": "Około 29 cm."
+   },
+   {
+    "q": "Czy promocję powtarzano?",
+    "a": "Zestaw wracał jako upominek na LEGO.com w czerwcu 2023 i w sierpniu 2024 roku."
+   },
+   {
+    "q": "Gdzie dziś znaleźć LEGO 40588?",
+    "a": "U sprzedawców i kolekcjonerów, którzy oferują upominki z dawnych promocji: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Botanicals?",
+    "a": "Kwiaty i rośliny z klocków do kupienia w zwykłej sprzedaży są w linii Botanicals: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "40619": {
+  "seria": "BrickHeadz",
+  "nazwa": "EWA i WALL-E",
+  "elementy": 155,
+  "akapity": [
+   "Dwa roboty z filmu Pixara, każdy na własnej podstawce, składają się na LEGO 40619 EWA i WALL-E z serii BrickHeadz. EWA stoi na przezroczystej podstawce, która daje wrażenie unoszenia się w powietrzu, a WALL-E ma gąsienice. Jego oczy i korpus wykończono naklejkami.",
+   "W pudełku jest 155 elementów, z których powstają figurki o numerach 193 i 194 w kolekcji BrickHeadz; WALL-E ma około 5 cm wysokości, EWA około 8 cm. Zestaw ukazał się w 2023 roku, w roku 100-lecia Disneya. Dodatkiem jest mała roślinka."
+  ],
+  "metryka": {
+   "Numer": "40619",
+   "Nazwa": "EWA i WALL-E",
+   "Seria": "BrickHeadz",
+   "Premiera": "2023",
+   "Liczba elementów": "155",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "2 figurki BrickHeadz: EWA, WALL-E",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO BrickHeadz; Disney (100-lecie Disneya)",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40619 EWA i WALL-E?",
+    "a": "Polska cena katalogowa to 81,99 zł; porównanie ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 40619?",
+    "a": "Około 0,53 zł za element. W figurkach BrickHeadz ważniejsza jest postać niż liczba klocków, więc to wskaźnik pomocniczy."
+   },
+   {
+    "q": "Czy figurki stoją osobno?",
+    "a": "Tak, każda ma własną podstawkę; EWA stoi na przezroczystej."
+   },
+   {
+    "q": "Jakie numery w kolekcji BrickHeadz mają figurki?",
+    "a": "193 i 194."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40619?",
+    "a": "To zestaw z regularnej sprzedaży detalicznej, więc ceny najlepiej porównać: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO BrickHeadz?",
+    "a": "Wśród BrickHeadz jest wiele postaci Disneya i Pixara wydawanych pojedynczo i w parach: <a href=\"/serie/brickheadz/\">zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   }
+  ]
+ },
+ "40634": {
+  "seria": "Archiwum",
+  "nazwa": "Icons of Play",
+  "elementy": 899,
+  "akapity": [
+   "Mecz piłki nożnej z czterema gwiazdami kobiecego futbolu odtwarza LEGO 40634 Ikony zabawy (ang. Icons of Play). Minifigurki przedstawiają Megan Rapinoe, Yūki Nagasato, Sam Kerr i Asisat Oshoalę, ubrane w czerwone stroje z nazwiskami i numerami na plecach. Pozostałe minifigurki to bramkarka, sędzia, osoba z ławki trenerskiej i 8 kibiców, razem 15 figurek.",
+   "Zestaw liczy 899 elementów i składa się z pięciu osobnych modułów: połowy boiska, bramki, ławki rezerwowych z pięcioma miejscami i parasolem, podium z trofeum oraz trybuny. Bramka ma mechanizm przesuwający bramkarkę na boki, co pozwala rozegrać pojedynek jeden na jednego: jedna osoba strzela, druga broni. Na trybunie są tablica wyników i reflektory, a korba unosi i opuszcza kibiców. W rogu boiska stoi kamera VAR, a przy słupku ekran.",
+   "Do kompletu dołączono dwie żółte piłki, pachołki treningowe, skrzynkę z wodą oraz rekwizyty kibiców, takie jak gitara, grzechotka, megafon, lody i flagi. Sklep LEGO wprowadził zestaw 6 czerwca 2023 roku w ramach kampanii „Play Unstoppable”, skierowanej do dziewczynek."
+  ],
+  "metryka": {
+   "Numer": "40634",
+   "Nazwa": "Icons of Play",
+   "Premiera": "6 czerwca 2023",
+   "Liczba elementów": "899",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "15 minifigurek, w tym Megan Rapinoe, Yūki Nagasato, Sam Kerr i Asisat Oshoala",
+   "Cena katalogowa w Polsce": "429,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "kampania LEGO „Play Unstoppable”; piłka nożna kobiet",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 40634 Ikony zabawy?",
+    "a": "Polska cena katalogowa wynosiła 429,99 zł. Aktualne oferty po zakończeniu produkcji: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wychodziło za jeden element w LEGO 40634?",
+    "a": "Około 0,48 zł. Przy 15 minifigurkach, w tym czterech zawodniczkach, przelicznik nie oddaje wartości samych figurek."
+   },
+   {
+    "q": "Które piłkarki są w zestawie?",
+    "a": "Megan Rapinoe, Yūki Nagasato, Sam Kerr i Asisat Oshoala."
+   },
+   {
+    "q": "Czy bramkarka się porusza?",
+    "a": "Tak, mechanizm w bramce przesuwa ją na boki, więc można rozgrywać pojedynki jeden na jednego."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40634?",
+    "a": "Po zakończeniu produkcji zestaw można kupić tylko z zapasów sklepów albo od kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Zestaw nie należy do żadnej serii; najbliżej mu do zabawowych zestawów z minifigurkami i scenkami z miasta: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "40657": {
+  "seria": "DREAMZzz",
+  "nazwa": "Dream Village",
+  "elementy": 434,
+  "akapity": [
+   "LEGO 40657 Wioska marzeń składa się z trzech małych budynków: magicznego sklepu, piekarni i kuźni. W 2023 roku zestaw z serii DREAMZzz trafił wyłącznie do sklepów LEGO. Z 434 elementów powstaje wioska o wymiarach około 11 × 12 × 7 cm.",
+   "Moduły można przestawiać i składać na różne sposoby. Wśród detali są wypieki, kuchnia, kowadło i wiatrak, a jedno z pomieszczeń to sypialnia; w otoczeniu pojawiają się też żaby. Zestaw zaprojektowany przez Freddy’ego Chartersa i Joela Bakera ma cztery figurki: Jaydena oraz trzy Dreamlingi w strojach piekarza, kowala i czarodzieja."
+  ],
+  "metryka": {
+   "Numer": "40657",
+   "Nazwa": "Dream Village",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "434",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "4 figurki: Jayden i 3 Dreamlingi",
+   "Cena katalogowa w Polsce": "124,99 zł",
+   "Cena katalogowa za element": "0,29 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "wyłącznie w sklepach LEGO; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 40657 Wioska marzeń?",
+    "a": "Wioskę można było kupić za 124,99 zł. Dzisiejsze ceny: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 40657?",
+    "a": "Około 0,29 zł, czyli mniej niż 30 groszy. To tylko pomocnicza miara przy zestawie z trzema budynkami."
+   },
+   {
+    "q": "Czy zestaw był w zwykłych sklepach z zabawkami?",
+    "a": "Nie, był dostępny wyłącznie w sklepach LEGO."
+   },
+   {
+    "q": "Jakie budynki są w wiosce?",
+    "a": "Magiczny sklep, piekarnia i kuźnia, które można przestawiać."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40657?",
+    "a": "Sklepy LEGO już go nie prowadzą, dlatego pozostają oferty odsprzedających: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Dalsze budynki i domy ze świata DREAMZzz są w kategorii <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "41805": {
+  "seria": "DOTS",
+  "nazwa": "Creative Animal Drawer",
+  "elementy": 643,
+  "akapity": [
+   "LEGO 41805 Kreatywny zwierzak – szuflada to pudełko z działającą szufladą, które ozdabia się kolorowymi płytkami. Zestaw ma 643 elementy, w tym liczne płytki do dekorowania, i jest przeznaczony dla dzieci od 6 lat. W ofercie serii DOTS pojawił się w 2023 roku.",
+   "Szuflada ma ponad 5 cm wysokości, 10 cm szerokości i 12 cm głębokości i mieści drobiazgi, więc pudełko może służyć jako organizer na biurko. Projektantką zestawu jest Laura Perron."
+  ],
+  "metryka": {
+   "Numer": "41805",
+   "Nazwa": "Creative Animal Drawer",
+   "Seria": "DOTS",
+   "Premiera": "2023",
+   "Liczba elementów": "643",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "109,99 zł",
+   "Cena katalogowa za element": "0,17 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO DOTS; organizery na biurko",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 41805?",
+    "a": "Według polskiej ceny katalogowej 109,99 zł. Oferty dzisiaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 41805?",
+    "a": "Nieco ponad 0,17 zł. Drobne płytki sprawiają, że wskaźnik jest niski, więc lepiej traktować go z dystansem."
+   },
+   {
+    "q": "Czy szuflada naprawdę się wysuwa?",
+    "a": "Tak, to działająca szuflada na drobiazgi."
+   },
+   {
+    "q": "Jak duża jest szuflada?",
+    "a": "Ponad 5 cm wysokości, 10 cm szerokości i 12 cm głębokości."
+   },
+   {
+    "q": "Gdzie kupić LEGO 41805?",
+    "a": "Zestaw nie jest już produkowany; resztki zapasów i oferty używanych egzemplarzy: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DOTS?",
+    "a": "W DOTS są inne organizery i pudełka do ozdabiania płytkami: <a href=\"/serie/dots/\">zobacz wszystkie zestawy LEGO DOTS</a>."
+   }
+  ]
+ },
+ "41806": {
+  "seria": "DOTS",
+  "nazwa": "Ultimate Party Kit",
+  "elementy": 1154,
+  "akapity": [
+   "Na przyjęcie LEGO DOTS przygotowało w 2023 roku cały komplet: LEGO 41806 Pełny zestaw imprezowy zawiera sześć babeczek, sześć bransoletek, girlandę z sześciu chorągiewek i dwanaście zawieszek. Z 1154 elementów wiele to kolorowe płytki, a producent przeznacza zestaw dla dzieci od 6 lat.",
+   "Każda babeczka ma zdejmowany „lukier” z klocków, pod którym kryje się mały schowek. Bransoletki ozdabia się płytkami o różnych kształtach, a do kompletu dołączono naklejki. Chorągiewki nawleka się na sznurek, tworząc dekorację do zawieszenia."
+  ],
+  "metryka": {
+   "Numer": "41806",
+   "Nazwa": "Ultimate Party Kit",
+   "Seria": "DOTS",
+   "Premiera": "2023",
+   "Liczba elementów": "1154",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "229,99 zł",
+   "Cena katalogowa za element": "0,20 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DOTS; dodatki do ozdabiania płytkami",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 41806 Pełny zestaw imprezowy?",
+    "a": "Komplet kosztował 229,99 zł. Oferty po zakończeniu produkcji: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 41806?",
+    "a": "Wypada około 0,20 zł na element. W DOTS wiele elementów to drobne płytki, więc przelicznik zaniża postrzeganą wartość zestawu."
+   },
+   {
+    "q": "Co jest w zestawie?",
+    "a": "Sześć babeczek ze schowkami, sześć bransoletek, girlanda z sześciu chorągiewek, dwanaście zawieszek, płytki i naklejki."
+   },
+   {
+    "q": "Co kryją babeczki?",
+    "a": "Pod zdejmowanym „lukrem” z klocków każda ma mały schowek."
+   },
+   {
+    "q": "Gdzie kupić LEGO 41806?",
+    "a": "Zestaw nie jest już produkowany, dlatego warto porównać oferty sklepów, które mają jeszcze zapasy: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DOTS?",
+    "a": "Bransoletki, organizery i inne dodatki z płytkami zebrano w kategorii <a href=\"/serie/dots/\">zobacz wszystkie zestawy LEGO DOTS</a>."
+   }
+  ]
+ },
+ "41808": {
+  "seria": "DOTS",
+  "nazwa": "Hogwarts Accessories Pack",
+  "elementy": 234,
+  "akapity": [
+   "LEGO 41808 Zestaw akcesoriów z Hogwartu to cztery podstawy do ozdabiania płytkami z motywami Harry'ego Pottera: podwójna bransoletka, naszywka do przyszycia, prostokątna zawieszka do torby oraz zawieszka w kształcie blizny-błyskawicy. W komplecie jest też brelok z kluczem. Wszystko to mieści się w 234 elementach.",
+   "Płytki mają różne kształty i kolory, a do tego dochodzą zawieszki i uchwyty na nie. Dziesięć płytek z nadrukami wybrano losowo spośród szesnastu wzorów, więc dwa egzemplarze zestawu mogą się różnić. Instrukcję podzielono na dwie książeczki. W tej samej kolekcji DOTS z Hogwartem, wydanej w 2023 roku, ukazał się większy zestaw na biurko 41811."
+  ],
+  "metryka": {
+   "Numer": "41808",
+   "Nazwa": "Hogwarts Accessories Pack",
+   "Seria": "DOTS",
+   "Premiera": "2023",
+   "Liczba elementów": "234",
+   "Wiek": "8+",
+   "Cena katalogowa w Polsce": "69,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO DOTS; licencja Harry Potter",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 41808?",
+    "a": "Cena w Polsce: 69,99 zł. Aktualne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 41808?",
+    "a": "Element kosztował średnio 0,30 zł. Przy akcesoriach do noszenia ważniejsze od tego wskaźnika są same podstawy i nadruki."
+   },
+   {
+    "q": "Co można ozdobić?",
+    "a": "Bransoletkę, naszywkę, prostokątną zawieszkę do torby, zawieszkę-błyskawicę oraz brelok."
+   },
+   {
+    "q": "Czy płytki z nadrukiem są losowe?",
+    "a": "Tak, dziesięć płytek wybrano losowo spośród szesnastu wzorów."
+   },
+   {
+    "q": "Gdzie kupić LEGO 41808?",
+    "a": "Akcesoria nie są już produkowane, więc pozostaje porównanie ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DOTS?",
+    "a": "Seria DOTS obejmuje inne bransoletki, zawieszki i dodatki, także z motywem Hogwartu: <a href=\"/serie/dots/\">zobacz wszystkie zestawy LEGO DOTS</a>."
+   }
+  ]
+ },
+ "41811": {
+  "seria": "DOTS",
+  "nazwa": "Hogwarts Desktop Kit",
+  "elementy": 856,
+  "akapity": [
+   "Podstawka na notatki w kształcie Złotego Znicza, ramka na zdjęcie, taca w kształcie szalika i zamykane sekretne pudełko – cztery przedmioty z motywami Harry'ego Pottera powstają z zestawu LEGO 41811 Zestaw na biurko z Hogwartu.",
+   "Do budowy służy 856 elementów, a producent zaleca zestaw dzieciom od 8 lat. Każdy przedmiot ozdabia się płytkami według własnego pomysłu. Do ramki dołączono dekoracyjne dodatki, a ramka ma ponad 15 cm wysokości i 9 cm szerokości. Motywy obejmują Tiarę Przydziału, quidditch oraz herby i zwierzęta czterech domów Hogwartu: Gryffindoru, Hufflepuffu, Ravenclawu i Slytherinu. Część płytek ma nadruki i trafia do pudełka losowo.",
+   "W sekretnym pudełku można schować drobiazgi. Zestaw należy do kolekcji DOTS z licencją Harry Potter z 2023 roku, w której ukazał się też mniejszy zestaw akcesoriów 41808."
+  ],
+  "metryka": {
+   "Numer": "41811",
+   "Nazwa": "Hogwarts Desktop Kit",
+   "Seria": "DOTS",
+   "Premiera": "2023",
+   "Liczba elementów": "856",
+   "Wiek": "8+",
+   "Cena katalogowa w Polsce": "199,99 zł",
+   "Cena katalogowa za element": "0,23 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO DOTS; licencja Harry Potter",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 41811 Zestaw na biurko z Hogwartu?",
+    "a": "Katalogowo 199,99 zł. Obecne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 41811?",
+    "a": "Około 0,23 zł. To pomocnicza miara, bo zestaw zawiera wiele drobnych płytek."
+   },
+   {
+    "q": "Jakie przedmioty można zbudować?",
+    "a": "Podstawkę na notatki w kształcie Złotego Znicza, ramkę na zdjęcie, tacę w kształcie szalika i zamykane pudełko."
+   },
+   {
+    "q": "Jakie motywy z Harry'ego Pottera są w zestawie?",
+    "a": "Między innymi Tiara Przydziału, Złoty Znicz, quidditch i herby czterech domów Hogwartu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 41811?",
+    "a": "LEGO zakończyło jego produkcję; porównanie sklepów, które mają jeszcze ten zestaw: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DOTS?",
+    "a": "Dla fanów Hogwartu są w DOTS także akcesoria i inne dodatki na biurko: <a href=\"/serie/dots/\">zobacz wszystkie zestawy LEGO DOTS</a>."
+   }
+  ]
+ },
+ "5008899": {
+  "seria": "Star Wars",
+  "nazwa": "Insiders Star Wars Coin",
+  "elementy": 0,
+  "akapity": [
+   "Metalowa moneta LEGO 5008899 Insiders Star Wars Coin upamiętnia 25 lat LEGO Star Wars. Na krążku o średnicy 44 mm wydrukowano w pełnym kolorze grafikę z kampanii z 1999 roku: Luke'a, Leię i Hana po lewej stronie grafiki, a Vadera, szturmowca i Bobę Fetta po prawej. Wytłoczony napis przypomina o jubileuszu serii.",
+   "Moneta nie była sprzedawana. Od 1 maja 2024 roku członkowie programu LEGO Insiders mogli ją wymienić na 1500 punktów w centrum nagród, do wyczerpania zapasów. Trafiała do nich w czarnym pudełku, osadzona w wycięciu grubej tektury."
+  ],
+  "metryka": {
+   "Numer": "5008899",
+   "Nazwa": "Insiders Star Wars Coin",
+   "Seria": "Star Wars",
+   "Premiera": "2024",
+   "Sposób uzyskania": "nagroda LEGO Insiders za 1500 punktów (od 1 maja 2024)",
+   "Typ zestawu": "nagroda Insiders",
+   "Kolekcja / system": "gadżety LEGO Star Wars; 25-lecie LEGO Star Wars",
+   "Dystrybucja": "wymiana punktów w programie LEGO Insiders; oferta do wyczerpania zapasów"
+  },
+  "faq": [
+   {
+    "q": "Jak można było zdobyć LEGO 5008899?",
+    "a": "Wymieniając 1500 punktów LEGO Insiders w centrum nagród; oferta ruszyła 1 maja 2024 roku i trwała do wyczerpania zapasów."
+   },
+   {
+    "q": "Jakie postacie są na monecie?",
+    "a": "Luke, Leia, Han, Darth Vader, szturmowiec i Boba Fett w wersjach z grafiki LEGO Star Wars z 1999 roku."
+   },
+   {
+    "q": "Jaką średnicę ma moneta?",
+    "a": "44 mm."
+   },
+   {
+    "q": "Czy to zestaw do budowania?",
+    "a": "Nie, to gotowy metalowy gadżet kolekcjonerski bez klocków."
+   },
+   {
+    "q": "Gdzie kupić LEGO 5008899?",
+    "a": "Nagroda nie trafiła do sklepów, dlatego monetę można znaleźć głównie u kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Zestawy z Lukiem, Leią, Hanem i Vaderem, których wizerunki są na monecie, zebrano w kategorii Star Wars: <a href=\"/serie/star-wars/\">zobacz wszystkie zestawy LEGO Star Wars</a>."
+   }
+  ]
+ },
+ "5008907": {
+  "seria": "Gadżety",
+  "nazwa": "Wooden Duck Magnet",
+  "elementy": 0,
+  "akapity": [
+   "Na magnesie LEGO 5008907 Wooden Duck Magnet widnieje drewniana kaczka, zabawka LEGO z lat 30. Magnes ma około 50 mm od ogona do dzioba i emaliowany front grubości 3 mm, a z tyłu folię magnetyczną.",
+   "Do kompletu należy metalowa podstawka ze stalową płytką w kształcie kaczki, więc magnes może też stać na półce. Gadżet był nagrodą w programie LEGO Insiders: od lipca 2024 roku wymieniano go na 2250 punktów. Tworzy serię z magnesami z tarczą rycerzy Castle i z logo klasycznego Space."
+  ],
+  "metryka": {
+   "Numer": "5008907",
+   "Nazwa": "Wooden Duck Magnet",
+   "Premiera": "2024",
+   "Sposób uzyskania": "nagroda LEGO Insiders za 2250 punktów (od lipca 2024)",
+   "Typ zestawu": "nagroda Insiders",
+   "Kolekcja / system": "magnesy LEGO Insiders; historia LEGO",
+   "Dystrybucja": "wymiana punktów w programie LEGO Insiders"
+  },
+  "faq": [
+   {
+    "q": "Jak zdobyć magnes LEGO 5008907?",
+    "a": "W centrum nagród LEGO Insiders, od lipca 2024 roku, za 2250 punktów."
+   },
+   {
+    "q": "Czy magnes można postawić?",
+    "a": "Tak, ma metalową podstawkę ze stalową płytką, na której się go opiera."
+   },
+   {
+    "q": "Do czego nawiązuje kaczka?",
+    "a": "Do drewnianej kaczki, zabawki z pierwszych lat działalności LEGO w latach 30."
+   },
+   {
+    "q": "Czy magnes należy do większej kolekcji?",
+    "a": "Tak, do serii trzech magnesów Insiders z lipca 2024 roku; pozostałe przedstawiają tarczę rycerzy Castle i logo Space."
+   },
+   {
+    "q": "Gdzie kupić LEGO 5008907?",
+    "a": "Magnes nie był sprzedawany w sklepach, więc dziś trzeba go szukać na rynku kolekcjonerskim: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Magnes nie należy do żadnej serii zestawów; modele dla starszych fanów, także nawiązujące do historii LEGO, są w kategorii Icons: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "5008909": {
+  "seria": "Gadżety",
+  "nazwa": "Castle Magnet",
+  "elementy": 0,
+  "akapity": [
+   "Tarcza Rycerzy Lwa z klasycznej serii Castle zdobi LEGO 5008909 Castle Magnet. Emaliowany front o grubości 3 mm ma około 43 na 50 mm.",
+   "Przychodził w małym kartonowym pudełku, owinięty bibułą, razem z metalową podstawką grubości 4 mm i stalową płytką 1 mm w kształcie tarczy; dzięki nim i folii magnetycznej z tyłu można go ustawić poza lodówką. Za 2250 punktów LEGO Insiders można go było odebrać od lipca 2024 roku."
+  ],
+  "metryka": {
+   "Numer": "5008909",
+   "Nazwa": "Castle Magnet",
+   "Premiera": "2024",
+   "Sposób uzyskania": "nagroda LEGO Insiders za 2250 punktów (od lipca 2024)",
+   "Typ zestawu": "nagroda Insiders",
+   "Kolekcja / system": "magnesy LEGO Insiders; klasyczna seria Castle",
+   "Dystrybucja": "wymiana punktów w programie LEGO Insiders"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów kosztował LEGO 5008909?",
+    "a": "2250 punktów LEGO Insiders; nagroda była dostępna od lipca 2024 roku."
+   },
+   {
+    "q": "Jaki herb przedstawia magnes?",
+    "a": "Tarczę Rycerzy Lwa (Lion Knights) z klasycznej serii LEGO Castle."
+   },
+   {
+    "q": "Jakie wymiary ma magnes?",
+    "a": "Około 43 na 50 mm."
+   },
+   {
+    "q": "Czy w zestawie jest podstawka?",
+    "a": "Tak, metalowa podstawka i stalowa płytka w kształcie tarczy."
+   },
+   {
+    "q": "Gdzie kupić LEGO 5008909?",
+    "a": "Na rynku kolekcjonerskim, bo LEGO udostępniało go wyłącznie za punkty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Castle?",
+    "a": "Magnes sam nie należy do serii zestawów, ale nawiązuje do klasycznej serii Castle; jej zamki i rycerze są w tej kategorii: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "5008948": {
+  "seria": "Star Wars",
+  "nazwa": "Star Wars Magnet",
+  "elementy": 0,
+  "akapity": [
+   "Magnes LEGO 5008948 Star Wars Magnet przedstawia retro logo LEGO Star Wars z 1999 roku z postaciami w pierwszych wersjach minifigurek: Hanem, R2-D2, Leią, Lukiem, Vaderem, szturmowcem i Bobą Fettem. Emaliowany gadżet ma około 55 mm wysokości i waży niecałe 100 g.",
+   "Komplet uzupełnia podstawa ze stali odlewanej z logo LEGO Star Wars; w jej otwory wsuwa się stalowa płytka, na której opiera się magnes. W centrum nagród LEGO Insiders pojawił się 21 października 2024 roku, a jego koszt wynosił 2250 punktów."
+  ],
+  "metryka": {
+   "Numer": "5008948",
+   "Nazwa": "Star Wars Magnet",
+   "Seria": "Star Wars",
+   "Premiera": "2024",
+   "Sposób uzyskania": "nagroda LEGO Insiders za 2250 punktów (od 21 października 2024)",
+   "Typ zestawu": "nagroda Insiders",
+   "Kolekcja / system": "gadżety LEGO Star Wars; 25-lecie LEGO Star Wars",
+   "Dystrybucja": "wymiana punktów w programie LEGO Insiders"
+  },
+  "faq": [
+   {
+    "q": "Jak można było otrzymać LEGO 5008948?",
+    "a": "Za 2250 punktów w centrum nagród LEGO Insiders, od 21 października 2024 roku."
+   },
+   {
+    "q": "Jakie postacie widać na magnesie?",
+    "a": "Hana, R2-D2, Leię, Luke'a, Vadera, szturmowca i Bobę Fetta."
+   },
+   {
+    "q": "Z czego jest podstawa?",
+    "a": "Ze stali odlewanej, z logo LEGO Star Wars."
+   },
+   {
+    "q": "Czy magnes pasuje do monety LEGO Insiders?",
+    "a": "Tak, wykorzystuje tę samą grafikę z 1999 roku co moneta 5008899 na 25-lecie LEGO Star Wars."
+   },
+   {
+    "q": "Gdzie kupić LEGO 5008948?",
+    "a": "Gadżet nie miał ceny sklepowej, więc dostępne egzemplarze trzeba wyszukać w ofertach: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Zestawy z klocków z tymi samymi bohaterami są w kategorii Star Wars: <a href=\"/serie/star-wars/\">zobacz wszystkie zestawy LEGO Star Wars</a>."
+   }
+  ]
+ },
+ "71453": {
+  "seria": "DREAMZzz",
+  "nazwa": "Izzie and Bunchu the Bunny",
+  "elementy": 259,
+  "akapity": [
+   "Króliczek Bunchu, zbudowany z klocków, towarzyszy Izzie w zestawie LEGO 71453 Izzie i króliczek Bunchu z serii DREAMZzz. Drugą figurką w pudełku jest Grimspawn.",
+   "Instrukcje do zestawu z 2023 roku pozwalają zbudować z 259 elementów więcej niż jeden wariant modelu."
+  ],
+  "metryka": {
+   "Numer": "71453",
+   "Nazwa": "Izzie and Bunchu the Bunny",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "259",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 figurki: Izzie, Grimspawn",
+   "Cena katalogowa w Polsce": "89,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw Izzie i króliczek Bunchu?",
+    "a": "Polska cena katalogowa wynosiła 89,99 zł. Ceny dostępnych egzemplarzy: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 71453?",
+    "a": "Wychodziło około 0,35 zł. Przy małym zestawie z dwiema figurkami to tylko przybliżenie."
+   },
+   {
+    "q": "Kto jest w zestawie?",
+    "a": "Izzie i Grimspawn oraz króliczek Bunchu z klocków."
+   },
+   {
+    "q": "Czy z zestawu można zbudować kilka modeli?",
+    "a": "Tak, instrukcje obejmują więcej niż jeden wariant budowy."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71453?",
+    "a": "Zestawu nie ma już w produkcji, więc warto przejrzeć oferty sklepów i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "W DREAMZzz są inne zestawy z Izzie, jej przyjaciółmi i stworzeniami ze snów: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71454": {
+  "seria": "DREAMZzz",
+  "nazwa": "Mateo and Z-Blob the Robot",
+  "elementy": 237,
+  "akapity": [
+   "LEGO 71454 Mateo i robot Z-Blob pochodzi z pierwszego sezonu serii DREAMZzz z 2023 roku. Robot ma ruchomy tułów, ręce i nogi oraz około 16 cm wysokości. Na pudełku widnieje oznaczenie 7+, a w środku są 237 elementy.",
+   "Instrukcja przewiduje dwa dodatkowe tryby robota: bojowy z blasterami na rękach i ramionach oraz powietrzny z hełmem i plecakiem odrzutowym. Mateo ma laskę w kształcie ołówka i magiczną klepsydrę, a w zestawie są też łóżko Jaydena i figurka koszmarnego stwora. Minifigurki są dwie: Mateo i Jayden."
+  ],
+  "metryka": {
+   "Numer": "71454",
+   "Nazwa": "Mateo and Z-Blob the Robot",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "237",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki: Mateo, Jayden",
+   "Cena katalogowa w Polsce": "89,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 71454?",
+    "a": "Zestaw był wyceniony na 89,99 zł. Gdzie go dziś znaleźć: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 71454?",
+    "a": "Wychodziło około 0,38 zł. Wskaźnik nie uwzględnia tego, że z jednego zestawu powstają trzy wersje robota."
+   },
+   {
+    "q": "Jakie wersje robota można zbudować?",
+    "a": "Podstawową, bojową z blasterami oraz powietrzną z hełmem i plecakiem odrzutowym."
+   },
+   {
+    "q": "Co ma Mateo?",
+    "a": "Laskę w kształcie ołówka i magiczną klepsydrę."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71454?",
+    "a": "Po wycofaniu zestawu trzeba porównać oferty sklepów i sprzedawców prywatnych: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Seria DREAMZzz ma więcej mechów i stworzeń z kilkoma wersjami budowy: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71455": {
+  "seria": "DREAMZzz",
+  "nazwa": "Grimkeeper the Cage Monster",
+  "elementy": 274,
+  "akapity": [
+   "Klatkoszmarnik (ang. Grimkeeper the Cage Monster) to koszmarny stwór z serialu DREAMZzz, który ma długie ramiona, chwytne dłonie i otwieraną klatkę w brzuchu. LEGO 71455 Klatkoszmarnik należy do pierwszego sezonu serii z 2023 roku; z 274 elementów powstaje potwór o wysokości około 21 cm, a pudełko ma oznaczenie 7+.",
+   "W klatce da się zamknąć minifigurkę, a ruchome stawy pozwalają ustawiać stwora w różnych pozach. Z elementów zestawu można też zbudować drugą wersję modelu, a w komplecie jest lotnia. Minifigurki to Mateo i Cooper; ta figurka Coopera występuje tylko w tym zestawie. Towarzyszy im robot Z-Blob."
+  ],
+  "metryka": {
+   "Numer": "71455",
+   "Nazwa": "Grimkeeper the Cage Monster",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "274",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki: Mateo, Cooper",
+   "Cena katalogowa w Polsce": "159,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 71455 Klatkoszmarnik?",
+    "a": "Za zestaw trzeba było zapłacić 159,99 zł według polskiej ceny katalogowej. Teraz: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 71455?",
+    "a": "Każdy z 274 elementów kosztował w przeliczeniu około 0,58 zł. Dla niewielkiego potwora z ruchomymi stawami to wskaźnik czysto orientacyjny."
+   },
+   {
+    "q": "Czy klatka w potworze się otwiera?",
+    "a": "Tak, można w niej zamknąć minifigurkę."
+   },
+   {
+    "q": "Jakie minifigurki są w zestawie?",
+    "a": "Mateo i Cooper."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71455?",
+    "a": "Po zakończeniu produkcji oferty sklepów zebrano tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Seria ma też inne potwory z koszmarów i mechy bohaterów serialu: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71458": {
+  "seria": "DREAMZzz",
+  "nazwa": "Crocodile Car",
+  "elementy": 494,
+  "akapity": [
+   "Dwa sposoby budowy przewiduje LEGO 71458 Krokodylowy samochód z pierwszego sezonu DREAMZzz (2023): jako krokodyla z ruchomymi łapami albo jako szybką terenówkę na dużych kołach. W przedniej kratce kryje się wyrzutnia dysków, dach się zdejmuje, a do kompletu dołączono małą łódkę.",
+   "Bohaterów serialu reprezentuje pięć figurek: Cooper, Jayden, Logan, Night Hunter i Snivel. Liczba elementów wynosi 494, a w największym wariancie pojazd osiąga około 45 cm długości."
+  ],
+  "metryka": {
+   "Numer": "71458",
+   "Nazwa": "Crocodile Car",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "494",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "5 figurek: Cooper, Jayden, Logan, Night Hunter, Snivel",
+   "Cena katalogowa w Polsce": "269,99 zł",
+   "Cena katalogowa za element": "0,55 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 71458?",
+    "a": "Na koniec sprzedaży cena katalogowa wynosiła 269,99 zł. Oferty po wycofaniu: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element?",
+    "a": "Około 0,55 zł. Przy pięciu figurkach i aucie długości około 45 cm sam przelicznik niewiele mówi o zawartości pudełka."
+   },
+   {
+    "q": "Jakie wersje pojazdu można zbudować?",
+    "a": "Krokodyla z ruchomymi łapami albo szybką terenówkę."
+   },
+   {
+    "q": "Czy auto ma wyrzutnię?",
+    "a": "Tak, wyrzutnię dysków w przedniej kratce."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71458?",
+    "a": "Po wycofaniu z produkcji najlepiej porównać sklepy i ogłoszenia kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Kategoria DREAMZzz zbiera pojazdy i stworzenia z serialu, także w podobnej skali: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71459": {
+  "seria": "DREAMZzz",
+  "nazwa": "Stable Of Dream Creatures",
+  "elementy": 681,
+  "akapity": [
+   "Jeleń z porożem pełnym magicznych kwiatów to główne stworzenie w LEGO 71459 Stajnia fantastycznych stworzeń, jednym z zestawów DREAMZzz z 2023 roku. Jego wygląd można zmieniać, wymieniając poroże i kwiaty. Stworzenia mieszkają w stajni bez dachu, zbudowanej z kilku modułów, a w zestawie są też wiatrak, kuchnia z wypiekami i kaktus w kształcie kota.",
+   "Siedem figurek to Cooper, Zoey z dwustronną głową, Izzie, pani Castillo, Z-Blob i dwa grzybki Dreamling. Oprócz jelenia są tu też pegaz i koń.",
+   "Cały zestaw liczy 681 elementów. Rozłożona zabudowa ma około 47 cm długości, a w scenerii znalazły się również budynek gospodarczy, drzewo z klocków i grzyb."
+  ],
+  "metryka": {
+   "Numer": "71459",
+   "Nazwa": "Stable Of Dream Creatures",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "681",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "7 figurek: Cooper, Zoey, Izzie, pani Castillo, Z-Blob, 2 grzybki Dreamling",
+   "Cena katalogowa w Polsce": "359,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Stajnia fantastycznych stworzeń?",
+    "a": "359,99 zł według ostatniej polskiej ceny katalogowej; aktualne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 71459?",
+    "a": "Około 0,53 zł. Przy dużych stworzeniach z klocków i siedmiu figurkach to jedynie przybliżenie."
+   },
+   {
+    "q": "Czy jelenia można przebudować?",
+    "a": "Tak, zmienia się jego poroże i magiczne kwiaty."
+   },
+   {
+    "q": "Które postacie są w zestawie?",
+    "a": "Cooper, Zoey, Izzie, pani Castillo, Z-Blob i dwa grzybki Dreamling."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71459?",
+    "a": "W sklepach, które mają jeszcze zapasy, i na rynku wtórnym: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "W DREAMZzz jest więcej zestawów ze zwierzętami ze snów i pojazdami bohaterów: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71460": {
+  "seria": "DREAMZzz",
+  "nazwa": "Mr. Oz's Space Bus",
+  "elementy": 878,
+  "akapity": [
+   "Szkolny autobus przerobiony na statek kosmiczny jest bohaterem zestawu LEGO 71460 Kosmiczny autobus pana Oza z serii DREAMZzz, wydanego w 2023 roku. Z 878 elementów powstaje pojazd o długości około 41 cm, a w projekcie pojawiają się rakiety i satelita.",
+   "Instrukcja daje wybór: na bazie autobusu powstaje wersja obronna z rakietami, blasterami i działkiem albo zwiadowcza z myśliwcem lub mniejszym statkiem. Luki można otwierać, a działka są ruchome. Graffiti i nawiązania do klasycznej serii LEGO Space dopełniają wygląd pojazdu.",
+   "W pudełku jest dziesięć figurek: pan Oz, Mateo, Logan, Albert, Z-Blob, Captain Bedbeard, Denny, Flight Knight, Propper Chopper i Susan (imiona w oryginalnej wersji)."
+  ],
+  "metryka": {
+   "Numer": "71460",
+   "Nazwa": "Mr. Oz's Space Bus",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "878",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "10 figurek, w tym pan Oz, Mateo, Logan i Z-Blob",
+   "Cena katalogowa w Polsce": "429,99 zł",
+   "Cena katalogowa za element": "0,49 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 71460?",
+    "a": "Ostatnia cena katalogowa w Polsce wynosiła 429,99 zł. Ceny po wycofaniu: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wynosiła cena za element w LEGO 71460?",
+    "a": "Wychodziło około 0,49 zł. Dziesięć figurek i dwa warianty budowy sprawiają, że ten przelicznik mówi niewiele."
+   },
+   {
+    "q": "Jakie warianty można zbudować?",
+    "a": "Wersję obronną z rakietami i działkiem albo zwiadowczą z myśliwcem lub mniejszym statkiem."
+   },
+   {
+    "q": "Kto jest w zestawie?",
+    "a": "Między innymi pan Oz, Mateo, Logan i Z-Blob; łącznie dziesięć figurek."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71460?",
+    "a": "Zestaw jest wycofany, więc trzeba porównać oferty sklepów, które go jeszcze mają: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Seria DREAMZzz to pojazdy i stworzenia ze snów, często z instrukcją do przebudowy: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "71461": {
+  "seria": "DREAMZzz",
+  "nazwa": "Fantastical Tree House",
+  "elementy": 1257,
+  "akapity": [
+   "Kuchnia pani Castillo, wspólna sypialnia Izzie i Mateo, salon, wieża widokowa i duża huśtawka mieszczą się w LEGO 71461 Fantastyczny domek na drzewie z pierwszego sezonu serii DREAMZzz. Zestaw z sierpnia 2023 roku ma 1257 elementów i oznaczenie 9+, a domek osiąga około 40 cm wysokości i 37 cm szerokości.",
+   "Instrukcja prowadzi do jednej z dwóch wersji: domku na imprezę albo bazy obronnej z posterunkami przeciw koszmarom. Wśród dodatków pojawiają się balony, pizza i telewizor, a po stronie koszmarów – klatka i roślinny potwór.",
+   "Do domku zaprojektowanego przez Joela Bakera dołączono siedem figurek: Izzie, Mateo, panią Castillo, robota Z-Bloba, Dreamlinga w kształcie grzyba oraz Night Huntera i Snivela.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/71514/\">LEGO 71514 Dinostatek kosmiczny</a> (419,99 zł katalogowo) i <a href=\"/zestaw/71508/\">LEGO 71508 Lisi mech-strażnik</a> (339,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "71461",
+   "Nazwa": "Fantastical Tree House",
+   "Seria": "DREAMZzz",
+   "Premiera": "2023",
+   "Liczba elementów": "1257",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "7 figurek, w tym Izzie, Mateo i pani Castillo",
+   "Cena katalogowa w Polsce": "449,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz; 1. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 71461 Fantastyczny domek na drzewie?",
+    "a": "Domek kosztował 449,99 zł. Bieżące ceny: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 71461?",
+    "a": "Wychodziło około 0,36 zł. Dwie wersje domku i siedem figurek nie mieszczą się w tym prostym przeliczniku."
+   },
+   {
+    "q": "Jakie wersje domku można zbudować?",
+    "a": "Domek na imprezę albo bazę obronną z posterunkami przeciw koszmarom."
+   },
+   {
+    "q": "Jakie pomieszczenia i dodatki ma domek?",
+    "a": "Kuchnię, sypialnię Izzie i Mateo, salon, wieżę widokową i huśtawkę."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71461?",
+    "a": "Domek zniknął z oferty LEGO, dlatego trzeba porównać oferty sklepów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Pojazdy, stworzenia i budynki ze świata snów, często z dwiema wersjami do wyboru, zebrano tutaj: <a href=\"/serie/dreamzzz/\">zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   }
+  ]
+ },
+ "75579": {
+  "seria": "Avatar",
+  "nazwa": "Payakan the Tulkun & Crabsuit",
+  "elementy": 761,
+  "akapity": [
+   "W 2023 roku Payakan, wielki tulkun z filmu „Avatar: Istota wody”, doczekał się wersji z klocków w zestawie LEGO 75579 Payakan the Tulkun i mech-krab. Model ma otwieraną paszczę, ruchome płetwy i wyginane ciało, a bez podstawki mierzy około 39 cm długości.",
+   "Drugim modelem jest mech-krab, maszyna, którą można przebudować w łazik do jazdy po lądzie; w jej otwieranej kabinie siedzi minifigurka pilota. Scenę uzupełniają dwa fragmenty dna z rafą koralową i podstawka ekspozycyjna. Zestaw obejmuje 761 elementów. Lo'ak i Tsireya, bohaterowie filmu, mają własne minifigurki."
+  ],
+  "metryka": {
+   "Numer": "75579",
+   "Nazwa": "Payakan the Tulkun & Crabsuit",
+   "Seria": "Avatar",
+   "Premiera": "2023",
+   "Liczba elementów": "761",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "3 minifigurki: Lo'ak, Tsireya, pilot mecha-kraba",
+   "Cena katalogowa w Polsce": "439,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Avatar; film „Avatar: Istota wody”",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 75579?",
+    "a": "Ostatnia cena katalogowa wynosiła 439,99 zł. Ponieważ zestaw jest wycofany, oferty bywają dziś wyższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 75579?",
+    "a": "Około 0,58 zł. Przy dużym, ruchomym stworzeniu to wartość wyłącznie porównawcza."
+   },
+   {
+    "q": "Czy Payakan jest ruchomy?",
+    "a": "Tak, otwiera paszczę, porusza płetwami i ma wyginane ciało."
+   },
+   {
+    "q": "Czy mech-kraba można przebudować?",
+    "a": "Tak, w łazik do jazdy po lądzie."
+   },
+   {
+    "q": "Gdzie kupić LEGO 75579?",
+    "a": "U sprzedawców, którzy mają jeszcze zapasy, oraz na rynku kolekcjonerskim: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Avatar?",
+    "a": "Seria Avatar obejmuje stworzenia i pojazdy z Pandory z obu filmów: <a href=\"/serie/\">zobacz wszystkie serie LEGO</a>."
+   }
+  ]
+ },
+ "76224": {
+  "seria": "Batman",
+  "nazwa": "Batmobile: Batman vs. The Joker Chase",
+  "elementy": 438,
+  "akapity": [
+   "Z filmu „Batman” Tima Burtona z 1989 roku pochodzi Batmobil z zestawu LEGO 76224 Batmobil: Pościg Batmana za Jokerem, wydanego w 2023 roku. Samochód ma około 28 cm długości, a w zestawie z 438 elementów są też dwie minifigurki: Batman i Joker. Wiek określono na 8+.",
+   "Kokpit się otwiera, a dźwignia z boku wysuwa blastery. Podczas jazdy obraca się płomień w wydechu, napędzany ruchem kół, a w nadwoziu jest otwierany schowek na gadżety. W zestawie są batarang, ostrze harpuna i kajdanki. Z tego samego filmu pochodzi też Batwing 76265."
+  ],
+  "metryka": {
+   "Numer": "76224",
+   "Nazwa": "Batmobile: Batman vs. The Joker Chase",
+   "Seria": "Batman",
+   "Premiera": "2023",
+   "Liczba elementów": "438",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki: Batman, Joker",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DC; pojazdy z filmu „Batman” (1989)",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 76224 Batmobil?",
+    "a": "Cena katalogowa w Polsce wynosiła na koniec sprzedaży 209,99 zł; dzisiejsze ceny: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 76224?",
+    "a": "Za element wypadało przeciętnie 0,48 zł. Ruchome blastery i płomień wydechu sprawiają, że ten przelicznik ma tu ograniczone znaczenie."
+   },
+   {
+    "q": "Z jakiego filmu pochodzi ten Batmobil?",
+    "a": "Z filmu „Batman” Tima Burtona z 1989 roku."
+   },
+   {
+    "q": "Jakie funkcje ma samochód?",
+    "a": "Otwierany kokpit, blastery wysuwane dźwignią, płomień w wydechu obracany przez koła i schowek na gadżety."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76224?",
+    "a": "Model nie jest już produkowany; dostępne egzemplarze można porównać tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Batman warto kupić zamiast tego modelu?",
+    "a": "Dobrym uzupełnieniem albo alternatywą jest 76265 Batwing: Batman kontra Joker z tego samego filmu. Jest mniejszy (357 elementów) i tańszy (169,99 zł), ma te same dwie postacie i wyrzutnie w skrzydłach zamiast ruchomych blasterów. Więcej w kategorii <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76252": {
+  "seria": "Batman",
+  "nazwa": "Batcave Shadowbox",
+  "elementy": 3981,
+  "akapity": [
+   "Inspiracją dla LEGO 76252 Jaskinia Batmana w ramce był film „Powrót Batmana” z 1992 roku. Kryjówkę zamknięto w czarnej obudowie typu shadow box z wycięciem w kształcie nietoperza, przez które widać wnętrze. Na zestaw z 2023 roku składa się 3981 elementów.",
+   "LEGO wymienia przesuwane drzwi, podnoszone elementy i ukryty Batmobil. Ruchomy fotel, wysuwany ekran komputera i brama garażu są sterowane pokrętłami z tyłu obudowy. Podświetlany skarbiec skrywa strój Batmana. Do wyposażenia należą także batarangi i bicz.",
+   "Batman pojawia się w dwóch wersjach, a towarzyszą mu Bruce Wayne, Alfred Pennyworth, Kobieta-Kot, Pingwin i Max Shreck, razem siedem minifigurek. Za projektem stoją Adam Grabowski i Bjarke Lykke Madsen.",
+   "Gdyby stanął obok 6 zestawów LEGO Batman z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,44 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (899,99 zł katalogowo) i <a href=\"/zestaw/76330/\">LEGO 76330 Logo Batmana</a> (339,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76252",
+   "Nazwa": "Batcave Shadowbox",
+   "Seria": "Batman",
+   "Premiera": "2023",
+   "Liczba elementów": "3981",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "7 minifigurek: Batman (2 wersje), Bruce Wayne, Alfred Pennyworth, Kobieta-Kot, Pingwin, Max Shreck",
+   "Cena katalogowa w Polsce": "1 749,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO DC; film „Powrót Batmana” (1992)",
+   "Dystrybucja": "wyłącznie w sklepach LEGO; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Jaskinia Batmana w ramce?",
+    "a": "W Polsce ostatnia cena katalogowa to 1 749,99 zł. Po wycofaniu ceny ofert bywają wyższe: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wychodziło za jeden element w LEGO 76252?",
+    "a": "Około 0,44 zł. Przy siedmiu minifigurkach i podświetlanym skarbcu ten przelicznik ma ograniczoną wartość."
+   },
+   {
+    "q": "Jakie minifigurki są w zestawie?",
+    "a": "Batman w dwóch wersjach, Bruce Wayne, Alfred Pennyworth, Kobieta-Kot, Pingwin i Max Shreck."
+   },
+   {
+    "q": "Do jakiego filmu nawiązuje zestaw?",
+    "a": "Do „Powrotu Batmana” z 1992 roku."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76252?",
+    "a": "Zestaw był ekskluzywny i jest już wycofany, więc pozostają oferty sklepów z zapasami i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "W kategorii Batman są inne pojazdy i kryjówki Mrocznego Rycerza, także w formie modeli ekspozycyjnych: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76262": {
+  "seria": "Marvel",
+  "nazwa": "Tarcza Kapitana Ameryki",
+  "elementy": 3128,
+  "akapity": [
+   "Tarczę bohatera w dużej skali pokazuje LEGO 76262 Tarcza Kapitana Ameryki z serii Marvel: 3128-elementowy model ma około 47 cm średnicy.",
+   "To przedmiot do ekspozycji, bez ruchomych części. Tarcza stoi na stojaku z tabliczką informacyjną, a w zestawie jest też minifigurka Kapitana Ameryki. Zestaw z sierpnia 2023 roku nawiązuje do filmów sagi Infinity Marvel Studios.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,30 zł, przy typowych dla serii 0,55 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76344/\">LEGO 76344 Iron Man Mark 3 - edycja kolekcjonerska</a> (559,99 zł katalogowo) i <a href=\"/zestaw/76342/\">LEGO 76342 Spider-Man kontra Mysterio: Daily Bugle</a> (469,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76262",
+   "Nazwa": "Tarcza Kapitana Ameryki",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "3128",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "1 minifigurka (Kapitan Ameryka)",
+   "Cena katalogowa w Polsce": "929,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Marvel; Marvel Studios – saga Infinity",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała LEGO 76262 Tarcza Kapitana Ameryki?",
+    "a": "Ostatnia polska cena katalogowa: 929,99 zł. Dziś pozostają oferty sklepów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wychodziło za jeden element w LEGO 76262?",
+    "a": "Około 0,30 zł. Przy modelu ekspozycyjnym o średnicy 47 cm ważniejszy od tego przelicznika jest sam wygląd tarczy na stojaku."
+   },
+   {
+    "q": "Jaką średnicę ma tarcza?",
+    "a": "Około 47 cm."
+   },
+   {
+    "q": "Czy w zestawie jest minifigurka?",
+    "a": "Tak, Kapitan Ameryka."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76262?",
+    "a": "Po wycofaniu z oferty tarczę można znaleźć u sprzedawców z zapasami i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Marvel ma też inne modele ekspozycyjne z filmowymi rekwizytami i budowlami: <a href=\"/serie/marvel/\">zobacz wszystkie zestawy LEGO Marvel</a>."
+   }
+  ]
+ },
+ "76265": {
+  "seria": "Batman",
+  "nazwa": "Batwing: Batman kontra Joker",
+  "elementy": 357,
+  "akapity": [
+   "LEGO 76265 Batwing: Batman kontra Joker odtwarza samolot Batmana z filmu „Batman” z 1989 roku. Model ma około 20 cm długości i 24 cm rozpiętości skrzydeł, powstaje z 357 elementów i jest przeznaczony dla dzieci od 8 lat. Zestaw ukazał się w 2023 roku w serii Batman i tworzy parę z Batmobilem 76224.",
+   "W projekcie Bjarkego Lykkego Madsena w skrzydłach umieszczono wyrzutnie pocisków, a otwierany kokpit prowadzi do małego schowka za fotelem. Wcięcie w spodzie pozwala powiesić model na ścianie. Batman dostaje dwa batarangi i kajdanki, a drugą minifigurką w zestawie jest Joker."
+  ],
+  "metryka": {
+   "Numer": "76265",
+   "Nazwa": "Batwing: Batman kontra Joker",
+   "Seria": "Batman",
+   "Premiera": "2023",
+   "Liczba elementów": "357",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki: Batman, Joker",
+   "Cena katalogowa w Polsce": "169,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DC; pojazdy z filmu „Batman” (1989)",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 76265 Batwing?",
+    "a": "Kosztował 169,99 zł według polskiej ceny katalogowej. Oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 76265?",
+    "a": "Batwing z 357 elementów to w przeliczeniu ok. 0,48 zł za element. Wskaźnik pomaga porównać zestawy, choć nie mówi nic o filmowym charakterze modelu."
+   },
+   {
+    "q": "Czy Batwinga można powiesić na ścianie?",
+    "a": "Tak, ma od spodu wcięcie, które to umożliwia."
+   },
+   {
+    "q": "Jakie akcesoria ma Batman?",
+    "a": "Dwa batarangi i kajdanki."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76265?",
+    "a": "Zestaw wycofano, więc pozostają oferty sklepów i sprzedawców z zapasami: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "W kategorii Batman są inne pojazdy bohatera, w tym Batmobil z filmu z 1989 roku z zestawu 76224: <a href=\"/serie/batman/\">zobacz wszystkie zestawy LEGO Batman</a>."
+   }
+  ]
+ },
+ "76269": {
+  "seria": "Marvel",
+  "nazwa": "Wieża Avengersów",
+  "elementy": 5201,
+  "akapity": [
+   "W wersji LEGO 76269 Wieża Avengersów z filmów Marvel Studios ma 90 cm wysokości, przy 34 cm szerokości i 25 cm głębokości. Do sprzedaży trafiła 24 listopada 2023 roku jako zestaw z serii Marvel z oznaczeniem 18+, zbudowany z 5201 elementów.",
+   "Na każdym piętrze odtworzono sceny z filmów sagi Infinity. Wieżę uzupełniają pojazdy: Lewiatan, Quinjet i dwa ścigacze Chitauri. W pudełku jest 31 figurek, co w chwili premiery było według LEGO największą liczbą w jednym zestawie. Wśród nich jest ekskluzywna minifigurka Kevina Feige, prezesa Marvel Studios, a także między innymi Iron Man, Kapitan Ameryka, Thor, Hulk, Czarna Wdowa, Hawkeye, Loki, Nick Fury, Scarlet Witch, Vision i Ultron.",
+   "Pod projektem podpisali się Justin Ramsden i Mark Stafford. Wieża ma status ekskluzywny i nadal jest w ofercie polskiego sklepu LEGO.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,55 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76354/\">LEGO 76354 Lotniskowiec T.A.R.C.Z.Y.</a> (1 599,99 zł katalogowo) i <a href=\"/zestaw/76344/\">LEGO 76344 Iron Man Mark 3 - edycja kolekcjonerska</a> (559,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76269",
+   "Nazwa": "Wieża Avengersów",
+   "Seria": "Marvel",
+   "Premiera": "24 listopada 2023",
+   "Liczba elementów": "5201",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "31 figurek, w tym Iron Man, Kapitan Ameryka, Thor, Hulk i Kevin Feige",
+   "Cena katalogowa w Polsce": "2 149,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Marvel; Marvel Studios – saga Infinity",
+   "Dystrybucja": "wyłącznie w sklepach LEGO; w sprzedaży"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76269 Wieża Avengersów?",
+    "a": "2 149,99 zł to polska cena katalogowa. Wieża jest ekskluzywna, ale ceny warto sprawdzić także u innych sprzedawców: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka jest cena za element w LEGO 76269?",
+    "a": "Około 0,41 zł. Przy 31 figurkach i czterech pojazdach ten przelicznik nie oddaje pełnej zawartości."
+   },
+   {
+    "q": "Ile figurek jest w zestawie?",
+    "a": "31, w tym ekskluzywna minifigurka Kevina Feige."
+   },
+   {
+    "q": "Jaką wysokość ma wieża?",
+    "a": "90 cm."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76269?",
+    "a": "Przede wszystkim w sklepie LEGO, który ma ją w ofercie; porównanie innych ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "W kategorii Marvel są inne budowle i pojazdy z filmów, także ekspozycyjne modele dla dorosłych fanów: <a href=\"/serie/marvel/\">zobacz wszystkie zestawy LEGO Marvel</a>."
+   }
+  ]
+ },
+ "76990": {
+  "seria": "Sonic",
+  "nazwa": "Sonic's Speed Sphere Challenge",
+  "elementy": 292,
+  "akapity": [
+   "Wyrzutnia o szerokości 14 cm wystrzeliwuje Sonica zwiniętego w kulę Speed Sphere, a ten pędzi przez tor z przeszkodami. Tak działa LEGO 76990 Sonic – wyzwanie z pędzącą kulą, zestaw z premiery serii LEGO Sonic the Hedgehog z 1 sierpnia 2023 roku. Liczy 292 elementy, a producent przeznacza go dla dzieci od 7 lat.",
+   "Tor można dołączyć do modułów z innych zestawów serii. Na trasie pojawiają się Badnik Moto Bug i ptaszek Flicky, a otoczenie uzupełniają plaża, stanowisko DJ-a, chili dog, pudełko z bonusem i Chaos Emeralds."
+  ],
+  "metryka": {
+   "Numer": "76990",
+   "Nazwa": "Sonic's Speed Sphere Challenge",
+   "Seria": "Sonic",
+   "Premiera": "1 sierpnia 2023",
+   "Liczba elementów": "292",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "3 postacie: Sonic, Moto Bug, Flicky",
+   "Cena katalogowa w Polsce": "129,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Sonic the Hedgehog; modułowe tory łączone między zestawami",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 76990?",
+    "a": "Na koniec sprzedaży kosztował 129,99 zł. Oferty sklepów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 76990?",
+    "a": "Licząc 292 elementy, wychodziło około 0,45 zł za sztukę. Przy trzech postaciach i kilku akcesoriach to tylko orientacyjna miara."
+   },
+   {
+    "q": "Jak działa wyrzutnia?",
+    "a": "Wystrzeliwuje Sonica zwiniętego w kulę Speed Sphere, który przejeżdża przez tor z przeszkodami."
+   },
+   {
+    "q": "Czy tor można rozbudować?",
+    "a": "Tak, łączy się z modułami z innych zestawów Sonic z 2023 roku."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76990?",
+    "a": "LEGO już go nie sprzedaje, więc warto porównać, kto ma go jeszcze w ofercie: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "Podobne są pozostałe zestawy z tej fali, z większymi torami, warsztatem Tailsa i mechem Eggmana: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "76991": {
+  "seria": "Sonic",
+  "nazwa": "Tails' Workshop and Tornado Plane",
+  "elementy": 376,
+  "akapity": [
+   "LEGO 76991 Tails z warsztatem i samolot Tornado łączy warsztat Tailsa z jego dwupłatowcem Tornado. Był jednym z pięciu zestawów, którymi 1 sierpnia 2023 roku zadebiutowała seria LEGO Sonic the Hedgehog. Warsztat mierzy ponad 9 cm wysokości, 12 cm szerokości i 9 cm głębokości. Do budowy potrzeba 376 elementów. Na pudełku widnieje oznaczenie 6+.",
+   "Do naprawy samolotu służą akcesoria warsztatowe; dochodzi do tego wyrzutnia kuli Speed Sphere z modułem toru, który pasuje do innych zestawów serii. Dołączono też Chaos Emeralds i podstawkę do ekspozycji. Figurki są cztery: Sonic, Tails, kurczak Clucky i Badnik Buzz Bomber."
+  ],
+  "metryka": {
+   "Numer": "76991",
+   "Nazwa": "Tails' Workshop and Tornado Plane",
+   "Seria": "Sonic",
+   "Premiera": "1 sierpnia 2023",
+   "Liczba elementów": "376",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "4 postacie: Sonic, Tails, Clucky, Buzz Bomber",
+   "Cena katalogowa w Polsce": "189,99 zł",
+   "Cena katalogowa za element": "0,51 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Sonic the Hedgehog; modułowe tory łączone między zestawami",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 76991?",
+    "a": "Za zestaw płaciło się 189,99 zł. Sprawdź, ile kosztuje dziś: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za jeden element?",
+    "a": "Ok. 0,51 zł. Przy zestawie z samolotem, warsztatem i wyrzutnią to tylko zgrubna miara."
+   },
+   {
+    "q": "Jaki samolot jest w zestawie?",
+    "a": "Tornado, dwupłatowiec Tailsa."
+   },
+   {
+    "q": "Ile figurek jest w zestawie?",
+    "a": "Cztery: Sonic, Tails, Clucky i Buzz Bomber."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76991?",
+    "a": "Zestawu nie ma już w produkcji; aktualne oferty zebrano tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "Duża pętla Green Hill i inne zestawy z modułami toru czekają w kategorii <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "76992": {
+  "seria": "Sonic",
+  "nazwa": "Amy's Animal Rescue Island",
+  "elementy": 388,
+  "akapity": [
+   "Amy i Tails spotykają się na wyspie dla zwierząt w zestawie LEGO 76992 Wyspa dla zwierząt Amy z pierwszej fali LEGO Sonic the Hedgehog. Zestaw trafił do sklepów 1 sierpnia 2023 roku, a projektantem jest Janko Grujic. Wyspę buduje się z 388 elementów; po złożeniu ma ponad 12 cm wysokości, 24 cm szerokości i 17 cm głębokości.",
+   "LEGO wymienia w zestawie sześć postaci: Amy, Tailsa, Crabmeata oraz zwierzątka Picky, Pocky i Flicky. Na wyspie są między innymi karuzela, basen, zjeżdżalnia, wodospad, jaskinia, most w dżungli, gabinet weterynarza i restauracja, a wśród akcesoriów pojawiają się Szmaragdy Chaosu i ringi."
+  ],
+  "metryka": {
+   "Numer": "76992",
+   "Nazwa": "Amy's Animal Rescue Island",
+   "Seria": "Sonic",
+   "Premiera": "1 sierpnia 2023",
+   "Liczba elementów": "388",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "6 postaci: Amy, Tails, Crabmeat, Picky, Pocky, Flicky",
+   "Cena katalogowa w Polsce": "234,99 zł",
+   "Cena katalogowa za element": "0,61 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Sonic the Hedgehog; licencja SEGA",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował LEGO 76992?",
+    "a": "Katalogowo zestaw kosztował w Polsce 234,99 zł. Obecne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 76992?",
+    "a": "Około 0,61 zł. W zestawie z sześcioma postaciami to tylko punkt odniesienia."
+   },
+   {
+    "q": "Jakie postacie są w zestawie?",
+    "a": "Amy, Tails i Crabmeat oraz zwierzątka Picky, Pocky i Flicky."
+   },
+   {
+    "q": "Jakie wymiary ma wyspa?",
+    "a": "Ponad 12 cm wysokości, 24 cm szerokości i 17 cm głębokości."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76992?",
+    "a": "Zestaw jest wycofany, dlatego zostają oferty sklepów z zapasami i rynek wtórny: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "W kategorii Sonic są inne zestawy z bohaterami gry, ich pojazdami i bazami: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "76993": {
+  "seria": "Sonic",
+  "nazwa": "Sonic vs Dr Eggman's Death Egg Robot",
+  "elementy": 615,
+  "akapity": [
+   "W czerwcu 2023 roku LEGO osobno zaprezentowało robota Death Egg, a 1 sierpnia zestaw LEGO 76993 Sonic kontra dr. Eggman i robot Death Egg trafił do sprzedaży razem z resztą serii Sonic the Hedgehog. Mech dr. Eggmana ma wyjmowaną kapsułę, w której są uwięzione małe zwierzątka.",
+   "Joe Kyde i Patrick Otley zaprojektowali zestaw z 615 elementów: mecha o wysokości ponad 15 cm, szerokości 13 cm i głębokości 9,5 cm, wyrzutnię kuli Speed Sphere, laboratorium i rampę. Rozpędzony w kuli Sonic może uderzyć w Eggmana i uwolnić zwierzątka z kapsuły. Oznaczenie wieku to 8+.",
+   "Producent podaje sześć postaci: Sonica, dr. Eggmana, jego pomocnika Cubota oraz zwierzątka do uratowania, m.in. Flicky, Pocky i Tocky.",
+   "Gdyby stanął obok 6 zestawów LEGO Sonic z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Numer": "76993",
+   "Nazwa": "Sonic vs Dr Eggman's Death Egg Robot",
+   "Seria": "Sonic",
+   "Premiera": "1 sierpnia 2023",
+   "Liczba elementów": "615",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "6 postaci, w tym Sonic, dr. Eggman i Cubot",
+   "Cena katalogowa w Polsce": "289,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Sonic the Hedgehog; modułowe tory łączone między zestawami",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 76993?",
+    "a": "Zestaw z robotem kosztował 289,99 zł. Obecne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 76993?",
+    "a": "Średnio 0,47 zł. Wskaźnik jest wyłącznie pomocniczy i pomija wartość mecha z wyjmowaną kapsułą."
+   },
+   {
+    "q": "Co potrafi robot Death Egg?",
+    "a": "Ma wyjmowaną kapsułę, w której Eggman więzi zwierzątka; Sonic w kuli Speed Sphere może je uwolnić."
+   },
+   {
+    "q": "Kto jest w zestawie?",
+    "a": "Sonic, dr. Eggman, Cubot i zwierzątka do uratowania – razem sześć postaci."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76993?",
+    "a": "Produkcja jest zakończona, więc pozostają sklepy z zapasami i rynek wtórny: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "Seria Sonic the Hedgehog to tory, wyrzutnie i bazy z gier SEGA, wiele z elementami do łączenia: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "76994": {
+  "seria": "Sonic",
+  "nazwa": "Sonic's Green Hill Zone Loop Challenge",
+  "elementy": 802,
+  "akapity": [
+   "Seria LEGO Sonic the Hedgehog wystartowała 1 sierpnia 2023 roku pięcioma zestawami, a LEGO 76994 Sonic – wyzwanie z pętlą w Green Hill przenosi do klocków pętlę z poziomu Green Hill. Tor główny ma ponad 21 cm wysokości, 37 cm szerokości i 19 cm głębokości; zestaw liczy 802 elementy i ma oznaczenie 8+.",
+   "Sonic zwija się w kulę Speed Sphere, którą wystrzeliwuje wyrzutnia; kula nabiera prędkości i przejeżdża przez elementy toru. Moduły trasy można łączyć z pozostałymi zestawami Sonic z tej samej fali i układać z nich własny tor z przeszkodami. Wśród dodatków są piknik z chili dogiem, staw, skuter wodny, katapulta, rampa, Chaos Emeralds i podstawka do ekspozycji figurki.",
+   "Dziewięć postaci dzieli się na dwie strony. Po stronie Sonica są Amy oraz zwierzątka Flicky, Becky, Pocky i Pecky, a przeciw nim staje dr. Eggman z mechem i dwoma Badnikami, Chopperem i Newtronem. Nad zestawem pracowali Isaac Snyder i Patrick Otley.",
+   "Gdyby stanął obok 6 zestawów LEGO Sonic z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,59 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Numer": "76994",
+   "Nazwa": "Sonic's Green Hill Zone Loop Challenge",
+   "Seria": "Sonic",
+   "Premiera": "1 sierpnia 2023",
+   "Liczba elementów": "802",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "9 postaci, w tym Sonic, Amy i dr. Eggman",
+   "Cena katalogowa w Polsce": "469,99 zł",
+   "Cena katalogowa za element": "0,59 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Sonic the Hedgehog; modułowe tory łączone między zestawami",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowało LEGO 76994?",
+    "a": "Ostatnia cena katalogowa w Polsce wynosiła 469,99 zł. Ceny po zakończeniu produkcji: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wynosiła cena za element w LEGO 76994?",
+    "a": "Około 0,59 zł. Dziewięć postaci i wyrzutnia kuli to część wartości, której liczba elementów nie odzwierciedla."
+   },
+   {
+    "q": "Czy tor łączy się z innymi zestawami Sonic?",
+    "a": "Tak, moduły trasy pasują do pozostałych zestawów z fali 2023 i można z nich ułożyć własny tor."
+   },
+   {
+    "q": "Jakie postacie są w zestawie?",
+    "a": "Sonic, Amy, dr. Eggman, Badniki Chopper i Newtron oraz zwierzątka Flicky, Becky, Pocky i Pecky."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76994?",
+    "a": "Ten zestaw najłatwiej dziś znaleźć, porównując oferty kilku sklepów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "Pozostałe zestawy z kulą Speed Sphere i modułowymi torami, które da się z nim połączyć, są tutaj: <a href=\"/serie/sonic/\">zobacz wszystkie zestawy LEGO Sonic</a>."
+   }
+  ]
+ },
+ "80040": {
+  "seria": "Monkie Kid",
+  "nazwa": "Monkie Kid's Combi Mech",
+  "elementy": 277,
+  "akapity": [
+   "LEGO 80040 Monkie Kid w wielofunkcyjnym mechu wciąż jest w ofercie polskiego sklepu LEGO, gdzie kosztuje 81,99 zł. Głównym modelem jest mech ze złotym kijem i katapultą. Zestaw ukazał się na początku 2023 roku, w czwartym sezonie serii Monkie Kid. Ma 277 elementów i jest skierowany do dzieci od 7 lat.",
+   "Figurki są dwie: Monkie Kid i Ink Demon. Mech należy do systemu łączenia pojazdów Monkie Kida i pasuje do zestawu 80041 Smoczy odrzutowiec Mei. Pod projektem podpisuje się Xiaodong Wen."
+  ],
+  "metryka": {
+   "Numer": "80040",
+   "Nazwa": "Monkie Kid's Combi Mech",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "277",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki: Monkie Kid, Ink Demon",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; system łączenia pojazdów Monkie Kida",
+   "Dystrybucja": "sprzedaż detaliczna; w sprzedaży"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje zestaw LEGO 80040?",
+    "a": "W sklepie LEGO zestaw kosztuje 81,99 zł. Inne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 80040?",
+    "a": "Na każdy z 277 elementów przypada około 0,30 zł. Przy niewielkim zestawie z dwiema minifigurkami to wartość tylko orientacyjna."
+   },
+   {
+    "q": "Czy warto kupić zestaw w cenie katalogowej?",
+    "a": "Mech jest w regularnej sprzedaży, więc warto sprawdzić, czy któryś sklep nie oferuje go taniej niż LEGO."
+   },
+   {
+    "q": "Z jakim zestawem łączy się mech?",
+    "a": "Z zestawem 80041 Smoczy odrzutowiec Mei."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80040?",
+    "a": "W sklepie LEGO i u sprzedawców zabawek; porównanie ofert: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Warto zajrzeć do pozostałych mechów i pojazdów serii, także tych z systemem łączenia: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80043": {
+  "seria": "Monkie Kid",
+  "nazwa": "Yellow Tusk Elephant",
+  "elementy": 844,
+  "akapity": [
+   "LEGO 80043 Yellow Tusk Elephant to słoń z żółtymi kłami z serialu Monkie Kid, zbudowany z klocków; w Polsce zestaw sprzedawano pod nazwą angielską. Dźwignie pozwalają poruszać trąbą, a instrukcja pokazuje, jak przebudować zwierzę w mecha. Model ma około 18 cm wysokości, 29 cm długości i 17 cm szerokości.",
+   "Oprócz słonia zestaw zawiera powóz z tronem, wózek i klatkę, a Mei dostaje latającą deskę. Pięć minifigurek to Mei, Pigsy, Yellow Tusk Elephant, Ink Demon i Ink General. Liczba elementów wynosi 844, a oznaczenie wieku – 8+.",
+   "Projektantami są John Ho i Xiaodong Wen. Słoń i Azure Lion z zestawu 80048, oba z 2023 roku, nawiązują do tego samego wątku czwartego sezonu, znanego w oryginale jako Brothers of Lion Camel Ridge."
+  ],
+  "metryka": {
+   "Numer": "80043",
+   "Nazwa": "Yellow Tusk Elephant",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "844",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "5 minifigurek: Mei, Pigsy, Yellow Tusk Elephant, Ink Demon, Ink General",
+   "Cena katalogowa w Polsce": "309,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; 4. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 80043?",
+    "a": "Za słonia trzeba było zapłacić 309,99 zł. Aktualne oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element słonia?",
+    "a": "Mniej więcej 0,37 zł. Wskaźnik nie mówi nic o mechanizmie trąby ani o możliwości przebudowy w mecha."
+   },
+   {
+    "q": "Czy słonia można przebudować?",
+    "a": "Tak, instrukcja pozwala zamienić go w mecha."
+   },
+   {
+    "q": "Jakie figurki są w zestawie?",
+    "a": "Mei, Pigsy, Yellow Tusk Elephant, Ink Demon i Ink General."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80043?",
+    "a": "Słoń zniknął już z oferty LEGO; dostępne egzemplarze można porównać tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Mechy z serialu i inne duże stworzenia z klocków, wiele z dodatkowymi trybami budowy, znajdziesz tutaj: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80044": {
+  "seria": "Monkie Kid",
+  "nazwa": "Monkie Kid's Team Hideout",
+  "elementy": 1582,
+  "akapity": [
+   "LEGO 80044 Kryjówka ekipy Monkie Kida, wydana na początku 2023 roku w czwartym sezonie serii, składa się z dziewięciu sekcji. W tej zabudowie mieszczą się warsztat z kuźnią i kowadłem, kuchnia, sklep, restauracja, kapliczka i świątynia; są też studnia i bambusy.",
+   "Jedna z sekcji kryje wyrzutnię. Oprócz budynków zestaw zawiera lotnię oraz mecha, którego da się przebudować. Wśród detali pojawiają się nawiązania do historii LEGO, w tym do dawnej serii Time Cruisers i do logo Octan. Całość ma około 27 cm wysokości, 47 cm szerokości i 20 cm głębokości i składa się z 1582 elementów, a producent przeznacza ją dla dzieci od 9 lat.",
+   "Postaci jest sześć: Monkie Kid, Mei, Pigsy, Sandy, Lee i The Golden-Winged Eagle; pięć z tych minifigurek pojawiło się tylko w tym zestawie. Towarzyszy im kot Mo. Projekt przygotowali Justin Ramsden i Xiaodong Wen. Kryjówka należy do modułowego systemu Monkie Kida, więc jej sekcje można dostawić do zestawów 80036 Miasto Latarni i 80054 5. rocznica Megapolis."
+  ],
+  "metryka": {
+   "Numer": "80044",
+   "Nazwa": "Monkie Kid's Team Hideout",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "1582",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "6 minifigurek: Monkie Kid, Mei, Pigsy, Sandy, Lee, The Golden-Winged Eagle",
+   "Cena katalogowa w Polsce": "439,99 zł",
+   "Cena katalogowa za element": "0,28 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; system modułowy Monkie Kida",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 80044 Kryjówka ekipy Monkie Kida?",
+    "a": "439,99 zł według polskiej ceny katalogowej z okresu sprzedaży. Oferty dzisiaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile wynosiła cena za jeden element?",
+    "a": "Wychodziło około 0,28 zł. To tylko punkt odniesienia przy porównywaniu dużych zestawów serii."
+   },
+   {
+    "q": "Czy kryjówka łączy się z innymi zestawami?",
+    "a": "Tak, jej sekcje można dostawić do zestawów 80036 i 80054 z modułowego systemu Monkie Kida."
+   },
+   {
+    "q": "Kto należy do ekipy w zestawie?",
+    "a": "Monkie Kid, Mei, Pigsy, Sandy, Lee i The Golden-Winged Eagle, a do tego kot Mo."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80044?",
+    "a": "Kryjówka nie jest już produkowana, dlatego warto przejrzeć oferty kilku sprzedawców: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Do kryjówki pasują przede wszystkim inne budynki z modułowego systemu serii, a obok nich są mechy i pojazdy: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80045": {
+  "seria": "Monkie Kid",
+  "nazwa": "Monkey King Ultra Mech",
+  "elementy": 1705,
+  "akapity": [
+   "Wcześniejszy zestaw 80012 Monkey King Warrior Mech był punktem wyjścia dla LEGO 80045 Monkey King w ultramechu z serii Monkie Kid; według LEGO nowa maszyna rozwija tamten pomysł. Mech z 2023 roku sięga około 35 cm wysokości.",
+   "Mech dostał nowy projekt zbroi i dopalacze rakietowe na plecach. Świecący klocek odpowiada za moc „Golden Sight”, podświetlając oczy maszyny. Kij i inne bronie można przebudować w odrzutowiec, a plecak odpina się i również zamienia w maszynę latającą. Na wyposażeniu są też wyrzutnie sprężynowe.",
+   "Zestaw z 1705 elementów zawiera sześć minifigurek: Monkey King, Monkie Kid w wersji ze wzmocnioną mocą, Yellow Tusk Elephant, Azure Lion, Golden-Winged Eagle i pan Tang w pierwotnej wersji."
+  ],
+  "metryka": {
+   "Numer": "80045",
+   "Nazwa": "Monkey King Ultra Mech",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "1705",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "6 minifigurek: Monkey King, Monkie Kid, Yellow Tusk Elephant, Azure Lion, Golden-Winged Eagle, pan Tang",
+   "Cena katalogowa w Polsce": "599,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; mechy Monkey Kinga",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 80045?",
+    "a": "Cena katalogowa w Polsce: 599,99 zł. Oferty sprzedawców można porównać tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztuje jeden element w LEGO 80045?",
+    "a": "Około 0,35 zł. To wskaźnik pomocniczy, który nie oddaje wartości klocka świetlnego ani sześciu minifigurek."
+   },
+   {
+    "q": "Do jakiego zestawu nawiązuje LEGO 80045?",
+    "a": "Do mecha 80012 Monkey King Warrior Mech; nowa wersja ma inną zbroję, dopalacze i podświetlane oczy."
+   },
+   {
+    "q": "Co można zbudować z broni mecha?",
+    "a": "Kij i inne bronie da się przebudować w odrzutowiec, a odpinany plecak zamienia się w maszynę latającą."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80045?",
+    "a": "U sprzedawców detalicznych zabawek; oferty można porównać tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "W serii Monkie Kid są inne mechy, pojazdy i siedziby bohaterów: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80046": {
+  "seria": "Monkie Kid",
+  "nazwa": "Monkie Kid's Cloud Airship",
+  "elementy": 540,
+  "akapity": [
+   "LEGO 80046 Podniebny sterowiec Monkie Kida z czerwca 2023 roku to statek powietrzny z balonem i śmigłami, należący do czwartego sezonu serii Monkie Kid. Model ma około 18 × 20 × 28 cm. W pudełku jest 540 elementów, a oznaczenie wieku to 7+.",
+   "Zestaw zaprojektowali Freddy Charters i Xiaodong Wen. Oprócz sterowca buduje się lotnię, wózek i małą kapliczkę. Minifigurki są cztery: Monkie Kid, Sandy, The Golden-Winged Eagle i Ink Demon, a dołączono do nich kota Mo i figurkę niemowlęcia. The Golden-Winged Eagle występuje również w kryjówce 80044."
+  ],
+  "metryka": {
+   "Numer": "80046",
+   "Nazwa": "Monkie Kid's Cloud Airship",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "540",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "4 minifigurki: Monkie Kid, Sandy, The Golden-Winged Eagle, Ink Demon",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; 4. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 80046?",
+    "a": "Sterowiec kosztował w Polsce 209,99 zł. Bieżące oferty: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element sterowca?",
+    "a": "Wychodziło około 0,39 zł. Ten pomocniczy wskaźnik nie oddaje wartości dodatkowych modeli z zestawu."
+   },
+   {
+    "q": "Co oprócz sterowca jest w zestawie?",
+    "a": "Lotnia, wózek i mała kapliczka."
+   },
+   {
+    "q": "Jakie postacie są w zestawie?",
+    "a": "Monkie Kid, Sandy, The Golden-Winged Eagle i Ink Demon oraz kot Mo."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80046?",
+    "a": "Sterowiec zszedł ze sprzedaży w LEGO; oferty sklepów, które jeszcze go mają, są tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Pod tym adresem zebrano inne pojazdy bohaterów serialu, od mechów po statki powietrzne: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80048": {
+  "seria": "Monkie Kid",
+  "nazwa": "The Mighty Azure Lion",
+  "elementy": 789,
+  "akapity": [
+   "Azure Lion, postać z czwartego sezonu serialu Monkie Kid, dostał w czerwcu 2023 roku własny zestaw: LEGO 80048 Potężny Azure Lion. Głównym modelem jest duży błękitny lew zbudowany z klocków, a w komplecie są także miecz, wyrzutnia w kształcie zwoju, chmura i złoty kij.",
+   "Pięć minifigurek obejmuje Monkie Kida w małpiej formie, Monkey Kinga, Pigsy'ego, Azure Liona w wersji minifigurki oraz Ink Demona; dwie z nich nie pojawiły się w innych zestawach. Elementów jest 789, a wiek określono na 9+. Za projektem stoi Xiaodong Wen.",
+   "Zestaw tworzy parę ze słoniem 80043 Yellow Tusk Elephant – oba nawiązują do wątku Brothers of Lion Camel Ridge z tego sezonu."
+  ],
+  "metryka": {
+   "Numer": "80048",
+   "Nazwa": "The Mighty Azure Lion",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "789",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "5 minifigurek: Monkie Kid, Monkey King, Pigsy, Azure Lion, Ink Demon",
+   "Cena katalogowa w Polsce": "329,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; 4. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 80048 Potężny Azure Lion?",
+    "a": "Lew był dostępny za 329,99 zł. Ceny w sklepach: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jaka była cena za element w LEGO 80048?",
+    "a": "Lew z 789 elementów kosztował w przeliczeniu około 0,42 zł za sztukę. To tylko pomocnicza miara, która nie oddaje skali figury."
+   },
+   {
+    "q": "Kim jest Azure Lion?",
+    "a": "To postać z czwartego sezonu serialu Monkie Kid, występująca tu zarówno jako duży lew z klocków, jak i jako minifigurka."
+   },
+   {
+    "q": "Ile minifigurek jest w zestawie?",
+    "a": "Pięć, w tym Monkie Kid, Monkey King i Pigsy."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80048?",
+    "a": "Produkcję zakończono, dlatego najlepiej przejrzeć oferty sklepów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Monkie Kid w podobnej cenie?",
+    "a": "Najbliżej cenowo jest 80043 Yellow Tusk Elephant z tego samego sezonu: 309,99 zł i 844 elementy wobec 329,99 zł i 789 elementów lwa. Słoń daje możliwość przebudowy w mecha i powóz z tronem, a lew ma miecz i wyrzutnię zwoju. Pozostałe zestawy: <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "80049": {
+  "seria": "Monkie Kid",
+  "nazwa": "Dragon of the East Palace",
+  "elementy": 2364,
+  "akapity": [
+   "Podwodny pałac z czwartego sezonu serialu Monkie Kid ma w zestawie LEGO 80049 Smok Wschodniego Pałacu rafę koralową, salę tronową, więzienie, sypialnię i posągi. Zestaw ukazał się w czerwcu 2023 roku. Gotowa budowla ma około 37 cm wysokości, 47 cm szerokości i 25 cm głębokości.",
+   "Tytułowy Dragon of the East to duży smok z ruchomymi częściami. Przód pałacu się otwiera i odsłania wnętrza, a w kilku miejscach ukryto schowki. W morskiej scenerii pojawiają się ośmiornica, konik morski i ostryga. Model, przygotowany przez Johna Ho i Xiaodonga Wena, można też przebudować.",
+   "Zestaw liczy 2364 elementy i ma oznaczenie 10+. Dziewięć minifigurek to Monkie Kid, Monkey King, Dragon of the East, Turtle Minister, dwie figurki Crab General, dwie Shrimp Soldier i szkielet. Postacie nawiązują do chińskiej opowieści o Królu Małp, na której oparto serię."
+  ],
+  "metryka": {
+   "Numer": "80049",
+   "Nazwa": "Dragon of the East Palace",
+   "Seria": "Monkie Kid",
+   "Premiera": "2023",
+   "Liczba elementów": "2364",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "9 minifigurek, w tym Monkie Kid, Monkey King i Dragon of the East",
+   "Cena katalogowa w Polsce": "849,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid; 4. sezon serialu",
+   "Dystrybucja": "sprzedaż detaliczna; produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw LEGO 80049 Smok Wschodniego Pałacu?",
+    "a": "Do końca sprzedaży polska cena katalogowa wynosiła 849,99 zł. Obecne ceny w sklepach: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Ile kosztował jeden element w LEGO 80049?",
+    "a": "Przy 2364 elementach wypadało po około 0,36 zł. Smok z ruchomymi częściami i dziewięć figurek to wartość, której ten wskaźnik nie oddaje."
+   },
+   {
+    "q": "Jakie minifigurki są w zestawie?",
+    "a": "Monkie Kid, Monkey King, Dragon of the East, Turtle Minister, po dwie figurki Crab General i Shrimp Soldier oraz szkielet."
+   },
+   {
+    "q": "Jak duży jest pałac?",
+    "a": "Około 37 cm wysokości, 47 cm szerokości i 25 cm głębokości."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80049?",
+    "a": "LEGO zakończyło produkcję tego zestawu, więc trzeba porównać oferty sklepów i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Seria Monkie Kid łączy mechy, pojazdy i budowle inspirowane opowieścią o Królu Małp; wszystkie są w kategorii <a href=\"/serie/monkie-kid/\">zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   }
+  ]
+ },
+ "910002": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Studgate Train Station",
+  "elementy": 4076,
+  "akapity": [
+   "Dworzec z dwoma peronami, piętrem pod szklanym dachem ze świetlikiem i trzema zegarami stacyjnymi to LEGO 910002 Studgate Train Station. Projekt fana LEGO z Madrytu wcześniej zebrał 10 000 głosów w LEGO Ideas, a w 2022 roku wszedł do trzeciej rundy Designer Program, w którym LEGO wydaje w krótkich seriach zestawy zaprojektowane przez fanów.",
+   "Model stoi na płycie 48 na 48 wypustek i liczy 4076 elementów. Wnętrze zdobi żyrandol ze świecami, na dworcu jest budka z hot dogami, a krawędzie peronów są odchylane. Do dworca dołączono pociąg z dwoma identycznymi żółtymi wagonami, bez napędu Powered Up, oraz osiem prostych torów.",
+   "Na dworcu pojawia się 11 minifigurek, w tym dwoje maszynistów, pracownik peronu, dyżurny ruchu, sprzedawca hot dogów i podróżni, także osoba na wózku. Zestaw powstał w nakładzie do 10 000 sztuk dla osób, które zamówiły go w przedsprzedaży. Instrukcja jest dostępna wyłącznie w wersji cyfrowej.",
+   "Gdyby stanął obok 10 zestawów LEGO BrickLink Designer Program z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/910059/\">LEGO 910059 Privateer Frigate Fortuna</a> (4087 el.)."
+  ],
+  "metryka": {
+   "Numer": "910002",
+   "Nazwa": "Studgate Train Station",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2023",
+   "Liczba elementów": "4076",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "11 minifigurek",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "BrickLink Designer Program, runda 3; dworzec kolejowy",
+   "Dystrybucja": "przedsprzedaż w BrickLink Designer Program (2022), nakład do 10 000 sztuk; sprzedaż zakończona"
+  },
+  "faq": [
+   {
+    "q": "Jak można było kupić LEGO 910002?",
+    "a": "W przedsprzedaży trzeciej rundy Designer Program, rozpoczętej w maju 2022 roku; zestaw powstał w nakładzie do 10 000 sztuk."
+   },
+   {
+    "q": "Ile elementów ma Studgate Train Station?",
+    "a": "4076."
+   },
+   {
+    "q": "Czy w zestawie jest pociąg?",
+    "a": "Tak, z dwoma żółtymi wagonami, bez napędu Powered Up, oraz osiem prostych torów."
+   },
+   {
+    "q": "Ile minifigurek jest w zestawie?",
+    "a": "11, w tym maszyniści, dyżurny ruchu i podróżni."
+   },
+   {
+    "q": "Gdzie kupić LEGO 910002?",
+    "a": "Przedsprzedaż dawno się zakończyła, więc zestaw pojawia się tylko u sprzedawców i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ideas?",
+    "a": "Projekt dworca zebrał wcześniej poparcie w LEGO Ideas; zestawy wydane na podstawie pomysłów fanów w tym programie są w kategorii Ideas: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy LEGO BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910004": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Winter Chalet",
+  "elementy": 2705,
+  "akapity": [
+   "LEGO 910004 Winter Chalet to zimowy domek (chalet) z drewnianymi ścianami, tarasami i stromymi dachami pokrytymi śniegiem i soplami. Autorem projektu jest fan występujący pod pseudonimem sdrnet; w 2022 roku domek trafił do trzeciej rundy przedsprzedaży Designer Program, programu zestawów projektowanych przez fanów.",
+   "W środku są restauracja, sypialnia, łazienka oraz kominek z meblami, a wśród drobnych detali pojawiają się ekspres do kawy, wypieki i choinka. Zestaw zawiera też stoisko z hot dogami i latarnię, a motyw zimowy podkreślają narty, świąteczne dekoracje i drzewo z klocków.",
+   "Zestaw liczy 2705 elementów i 7 minifigurek; w detalach pojawiają się także nanofigurki. Wyprodukowano go w nakładzie do 10 000 sztuk wyłącznie dla zamawiających w przedsprzedaży.",
+   "Gdyby stanął obok 10 zestawów LEGO BrickLink Designer Program z 2026 roku, byłby 6. co do wielkości."
+  ],
+  "metryka": {
+   "Numer": "910004",
+   "Nazwa": "Winter Chalet",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2023",
+   "Liczba elementów": "2705",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "7 minifigurek",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "BrickLink Designer Program, runda 3; budynki zimowe",
+   "Dystrybucja": "przedsprzedaż w BrickLink Designer Program (2022), nakład do 10 000 sztuk; sprzedaż zakończona"
+  },
+  "faq": [
+   {
+    "q": "Czy LEGO 910004 był dostępny w sklepach?",
+    "a": "Nie, wyłącznie w przedsprzedaży Designer Program w 2022 roku, w nakładzie do 10 000 sztuk."
+   },
+   {
+    "q": "Kto zaprojektował Winter Chalet?",
+    "a": "Fan LEGO o pseudonimie sdrnet."
+   },
+   {
+    "q": "Co jest we wnętrzu domku?",
+    "a": "Restauracja, sypialnia, łazienka i kominek z meblami."
+   },
+   {
+    "q": "Ile minifigurek jest w zestawie?",
+    "a": "Siedem."
+   },
+   {
+    "q": "Gdzie kupić LEGO 910004?",
+    "a": "Egzemplarze z przedsprzedaży trafiają dziś do ofert sklepów i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Domek nie należy do serii sklepowych, ale podobne rozbudowane budynki dla starszych fanów zebrano w kategorii Icons: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy LEGO BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910011": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "1950s Diner",
+  "elementy": 1379,
+  "akapity": [
+   "W maju 2022 roku, w trzeciej rundzie przedsprzedaży Designer Program, LEGO udostępniło zamówienia na LEGO 910011 1950s Diner. Projekt fana o pseudonimie pix027 przedstawia amerykański bar w stylu lat 50. z dużym szyldem, a przed budynkiem stoi mała stacja benzynowa. Uzupełnieniem jest zabytkowy samochód o szerokości ośmiu wypustek.",
+   "Wnętrze baru ma wyposażoną kuchnię, szafę grającą i stoliki z krzesłami w stylu retro, a w detalach pojawiają się hot dogi, wypieki i mapa. Budynek nawiązuje do stylistyki art déco.",
+   "Wersja z 2023 roku liczy 1379 elementów; minifigurki są cztery, w tym kucharz. Zestaw powstał w nakładzie do 10 000 sztuk i był dostępny tylko dla osób, które złożyły zamówienie w przedsprzedaży.",
+   "Gdyby stanął obok 10 zestawów LEGO BrickLink Designer Program z 2026 roku, byłby 10. co do wielkości."
+  ],
+  "metryka": {
+   "Numer": "910011",
+   "Nazwa": "1950s Diner",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2023",
+   "Liczba elementów": "1379",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "4 minifigurki, w tym kucharz",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "BrickLink Designer Program, runda 3; budynki w stylu retro",
+   "Dystrybucja": "przedsprzedaż w BrickLink Designer Program (2022), nakład do 10 000 sztuk; sprzedaż zakończona"
+  },
+  "faq": [
+   {
+    "q": "Jak można było kupić LEGO 910011?",
+    "a": "Tylko w przedsprzedaży Designer Program, która ruszyła w maju 2022 roku; nakład nie przekraczał 10 000 sztuk."
+   },
+   {
+    "q": "Kto zaprojektował 1950s Diner?",
+    "a": "Fan LEGO występujący pod pseudonimem pix027."
+   },
+   {
+    "q": "Co jest w środku baru?",
+    "a": "Kuchnia, szafa grająca oraz stoliki i krzesła w stylu retro."
+   },
+   {
+    "q": "Co jest w zestawie oprócz baru?",
+    "a": "Mała stacja benzynowa i zabytkowy samochód."
+   },
+   {
+    "q": "Gdzie kupić LEGO 910011?",
+    "a": "Dziś jedyną drogą są oferty sklepów i kolekcjonerów, którzy mają egzemplarze z przedsprzedaży: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Bar nie należy do żadnej serii sklepowej; zbliżone, rozbudowane budynki dla starszych fanów są w kategorii <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy LEGO BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "910027": {
+  "seria": "BrickLink Designer Program",
+  "nazwa": "Mountain View Observatory",
+  "elementy": 3876,
+  "akapity": [
+   "Obserwatorium astronomiczne na skalistym szczycie przedstawia LEGO 910027 Mountain View Observatory. Budynek ze skalistą elewacją i wieżą obserwacyjną mieści laboratorium, pomieszczenia mieszkalne i teleskop, a jego poziomy da się rozdzielić, żeby zajrzeć do środka. Model uzupełnia wodospad.",
+   "Detale obejmują model Układu Słonecznego, prom kosmiczny, rakietę i łazik w mikroskali, a także automat z napojami, ekspres do kawy i zapadnię; część budynku pełni funkcję muzeum. Świecący klocek dodaje oświetlenie. Figurek jest 11, w tym manekiny ze skafandrami astronauty.",
+   "Model z 3876 elementów zaprojektował fan o pseudonimie ThomasW_BL. Powstał w trzeciej rundzie Designer Program, w którym fani projektują zestawy wydawane w limitowanych nakładach: przedsprzedaż ruszyła w 2022 roku, a nakład nie przekraczał 10 000 sztuk.",
+   "Gdyby stanął obok 10 zestawów LEGO BrickLink Designer Program z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/910059/\">LEGO 910059 Privateer Frigate Fortuna</a> (4087 el.)."
+  ],
+  "metryka": {
+   "Numer": "910027",
+   "Nazwa": "Mountain View Observatory",
+   "Seria": "BrickLink Designer Program",
+   "Premiera": "2023",
+   "Liczba elementów": "3876",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "11 figurek",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "BrickLink Designer Program, runda 3; astronomia",
+   "Dystrybucja": "przedsprzedaż w BrickLink Designer Program (2022), nakład do 10 000 sztuk; sprzedaż zakończona"
+  },
+  "faq": [
+   {
+    "q": "Jak można było zdobyć LEGO 910027?",
+    "a": "Zamawiając go w przedsprzedaży Designer Program w 2022 roku; nakład wynosił do 10 000 sztuk."
+   },
+   {
+    "q": "Czy obserwatorium ma oświetlenie?",
+    "a": "Tak, w zestawie jest świecący klocek."
+   },
+   {
+    "q": "Czy budynek można otworzyć?",
+    "a": "Tak, poziomy da się rozdzielić, co odsłania laboratorium i pomieszczenia mieszkalne."
+   },
+   {
+    "q": "Ile elementów liczy Mountain View Observatory?",
+    "a": "3876."
+   },
+   {
+    "q": "Gdzie kupić LEGO 910027?",
+    "a": "Zestawu nie produkuje się ponownie, więc trzeba szukać go u sprzedawców i kolekcjonerów: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Obserwatorium wyszło w limitowanym programie dla projektów fanów; najbliżej mu do dużych budynków ekspozycyjnych z kategorii Icons: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy LEGO BrickLink Designer Program</a>."
    }
   ]
  }
