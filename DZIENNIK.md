@@ -157,7 +157,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 ## 2026-10-27 · CODE · Recenzja Piotra 60478 Betoniarka; tekst 0030 (DC 2027) wstrzymany
 
 `/artykuly/lego-60478-betoniarka-recenzja/` (Recenzje_013), 4 zdjęcia z galerii + slajder 60480/60494 w „Alternatywach”.
-**0030 „LEGO DC na 2027 rok” czeka na decyzję Marka:** tekst mówi, że na LEGO.pl jest tylko obraz 67012, a Batmobile
+**0030 „LEGO DC na 2027 rok” — opublikowany z poprawką Code (decyzja Marka 27.10):** `/artykuly/lego-dc-2027-batmobile-joker-daily-planet/`; zdanie o LEGO.pl → „Wszystkie trzy mają już polskie ceny katalogowe na LEGO.pl”, w tabeli 67008 i 67009 w złotych zamiast euro. Powód: tekst mówi, że na LEGO.pl jest tylko obraz 67012, a Batmobile
 podaje w euro — tymczasem `rrp_potwierdzone.json` ma z LEGO.pl (14.10, Firecrawl) 67008 = 259,99 zł i 67009 = 126,99 zł,
 a Media Expert sprzedaje je już w przedsprzedaży (229,99 i 114,99 zł). Opublikowany w obecnej formie byłby sprzecznością
 wykrywaną przez `swiezosc-tekstow.mjs`.
