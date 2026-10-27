@@ -228,6 +228,9 @@ i katalog 262 — karta wgrana bez zmian; decyzja Marka 25.10: 261 zostaje, nie 
 (feed z 24.10), dealu w `src/pages/deale/` nie ma. Przy zestawie schodzącym z produkcji okno na taki
 tekst zamyka się razem z ofertą.
 ↻ 26.10.2026 (Radar): trzeci dzień — 2699,90 zł w Media Expert z datą 25.10, dealu nadal nie ma.
+↻ 27.10.2026 (Radar): czwarty dzień i pierwsza zmiana jakościowa — 2699,90 zł ma już **trzy sklepy**
+(Media Expert, Ceneo, x-kom), Allegro stoi 2758,90. To ruch całego rynku, nie wybryk jednego
+sprzedawcy, więc cena jest pewniejsza niż w piątek. Dealu nadal nie ma.
 
 Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
 22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,
