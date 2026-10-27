@@ -1487,7 +1487,7 @@
    "glowne": "https://planetaklockow.pl/environment/cache/images/productGfx_46719_1024_1024/LEGO-77264-Speed-Champions-Jaguar-Project-7-i-Land-Rover-Defender.jpg?overlay=1",
    "zrodlo": "LEGO"
   },
-  "ekskluzyw": true
+  "ekskluzyw": false
  },
  "72051": {
   "nazwa": "Automat do gry Donkey Kong",
@@ -9500,7 +9500,7 @@
    "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539375/LEGO-72156-Pokemon-SMART-Play-Przygoda-Trenera-ze-Squirtle-i-pojazdem-terenowym-01-MAIN.jpg",
    "zrodlo": "LEGO"
   },
-  "ekskluzyw": true
+  "ekskluzyw": false
  },
  "75426": {
   "nazwa": "SMART Play: Sokół Millennium",
@@ -14500,7 +14500,7 @@
     "data": "2026-10-26"
    }
   ],
-  "ekskluzyw": true
+  "ekskluzyw": false
  },
  "31168": {
   "nazwa": "Średniowieczny zamek rycerzy konnych, turniej lub miasto",

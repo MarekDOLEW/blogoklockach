@@ -555,6 +555,7 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Zrobić:** — sprawdzić wszystkie 18 numerów (21373 31221 76355 76476 11386 40858 40872 43026 40919 40859 21369 11385 40975 40880 77264 10367 72156 40924) na kartach produktu lego.pl i zdjąć flagę `ekskluzyw` w `sety.json` tam, gdzie etykiety już nie ma (jak 29.09 dla 76354/80121/80120)
 **Kto:** — Code
 ↻ 2026-10-27: nadal aktualne, i lista narosła — teraz 36 numerów (wszystkie 18 z zeszłego tygodnia nadal na niej, plus 18 nowych: 10338 76437 76294 75192 21353 10326 75397 10337 43263 10341 75367 10334 10323 21356 10459 71814 10458 40881), a licznik „ekskluzywne" na listingu spadł 116→75. Skok wystarczająco duży, żeby sprawdzić, czy lego.pl nie zmieniło sposobu pokazywania etykiety, zanim ktoś ręcznie przejdzie całą listę.
+→ zamknięte 2026-10-27 (ten przebieg, na żądanie Marka): sprawdzone wszystkich 36 numerów kartami produktu lego.pl (Firecrawl). 33/36 nadal ma etykietę „Ekskluzywne" na karcie — skok 116→75 to fałszywe alarmy skanera listingu (duże zestawy UCS/Icons jak Sokół Millennium 75192 też są ekskluzywne LEGO.com, listing czasem gubi etykietę pod inną, np. „Ostatnie zestawy"), nie zmiana układu strony. 3/36 faktycznie straciło etykietę: **77264** (Jaguar Project 7 / Land Rover Defender), **10367** (Władca Pierścieni: Book nook z Balrogiem), **72156** (SMART Play ze Squirtle) — flaga zdjęta w `sety.json` (commit tej sesji). Nowa rozbieżność z kolejnych przebiegów Dane wt wraca jako osobny wpis.
 
 ## 2026-10-20 05:25 · SCOUT · Do zrobienia
 
