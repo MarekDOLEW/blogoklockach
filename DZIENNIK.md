@@ -167,6 +167,11 @@ na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 4181
 **Zrobić:** — sprawdzić kartę z maila i zaktualizować werdykt 77253 w `src/data/deale_potwierdzone.json` (ponowne odrzucenie przy 56,30 zł wyciszy mail do kolejnego spadku)
 **Kto:** — Marek (decyzja)
 
+**Feed PK zwrócił 0 setów przy pustym `_meta.bledy` — bez bezpiecznika naniesienie skasowałoby ~1100 ofert PK (27.10 uratował bezpiecznik w skrypcie roboczym Łowcy)**
+**Mamy?** — częściowo: bezpiecznik tylko w scratchpadzie Łowcy; `scripts/feedy-lego.py` dalej zapisuje pusty słownik bez ostrzeżenia
+**Zrobić:** — w `scripts/feedy-lego.py` dopisywać do `_meta.bledy` sklep, którego feed sparsował się do zera pozycji
+**Kto:** — Code (skrypt)
+
 ## 2026-10-26 12:00 · CODE · Slajdery tylko z ofertami sprawdzonymi na karcie produktu
 
 Powód: 43303 z porannego zrzutu x-kom (24,99 zł, krótka promocja) wisiało w banerze, a na karcie było już 46,90 zł.
