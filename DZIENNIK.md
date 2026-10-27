@@ -231,6 +231,8 @@ tekst zamyka się razem z ofertą.
 ↻ 27.10.2026 (Radar): czwarty dzień i pierwsza zmiana jakościowa — 2699,90 zł ma już **trzy sklepy**
 (Media Expert, Ceneo, x-kom), Allegro stoi 2758,90. To ruch całego rynku, nie wybryk jednego
 sprzedawcy, więc cena jest pewniejsza niż w piątek. Dealu nadal nie ma.
+→ zamknięte 27.10.2026: deal napisany i opublikowany —
+`/deale/deal-75192-sokol-millennium-minimum-przed-wycofaniem/` (polecenie Marka).
 
 Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
 22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,
