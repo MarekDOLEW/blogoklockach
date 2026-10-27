@@ -539,16 +539,19 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Mamy?** — częściowo: numery i nazwy z feedu, nie ma ich w `katalog.json`
 **Zrobić:** — sprawdzić oba numery (czy to realne numery LEGO) i dopisać do `potwierdzone_numery` w `src/data/feedy.json`, jeśli poprawne
 **Kto:** — Code
+↻ 2026-10-27: nadal aktualne — te same 2 numery wciąż pomijane w zrzucie MediaMarkt.
 
 **Zestaw 71835 ma ofertę Lidl (59,99 zł, zrzut 19.10) w `oferty_feed.json`, ale nie ma wpisu w `katalog.json` i nie ma zdjęcia (Rebrickable/Brickset nie mają go pod tym numerem).**
 **Mamy?** — nie: brak huba i brak zdjęcia, strona zestawu nie istnieje
 **Zrobić:** — sprawdzić numer 71835 (czy to LEGO i jaka seria) i dopisać do katalogu albo do `katalog-z-rebrickable.mjs` przy następnym przebiegu
 **Kto:** — Code
+↻ 2026-10-27: nadal aktualne — ta sama cena 59,99 zł (zrzut 26.10), wciąż bez huba i zdjęcia.
 
 **18 zestawów ma flagę `ekskluzyw: true` w `sety.json`, ale tegotygodniowy listing lego.pl nie pokazał etykiety „Ekskluzywne" przy nich (2 nowe od zeszłego tygodnia: 72156, 40924; pozostałe 16 — w tym 77264 i 10367 z zeszłego tygodnia — nadal niesprawdzone).**
 **Mamy?** — tak: adresy kart produktu w `redirects.lego`
 **Zrobić:** — sprawdzić wszystkie 18 numerów (21373 31221 76355 76476 11386 40858 40872 43026 40919 40859 21369 11385 40975 40880 77264 10367 72156 40924) na kartach produktu lego.pl i zdjąć flagę `ekskluzyw` w `sety.json` tam, gdzie etykiety już nie ma (jak 29.09 dla 76354/80121/80120)
 **Kto:** — Code
+↻ 2026-10-27: nadal aktualne, i lista narosła — teraz 36 numerów (wszystkie 18 z zeszłego tygodnia nadal na niej, plus 18 nowych: 10338 76437 76294 75192 21353 10326 75397 10337 43263 10341 75367 10334 10323 21356 10459 71814 10458 40881), a licznik „ekskluzywne" na listingu spadł 116→75. Skok wystarczająco duży, żeby sprawdzić, czy lego.pl nie zmieniło sposobu pokazywania etykiety, zanim ktoś ręcznie przejdzie całą listę.
 
 ## 2026-10-20 05:25 · SCOUT · Do zrobienia
 
