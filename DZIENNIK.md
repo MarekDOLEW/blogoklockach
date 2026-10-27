@@ -154,6 +154,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-27 · CODE · Recenzja Piotra 60478 Betoniarka; tekst 0030 (DC 2027) wstrzymany
+
+`/artykuly/lego-60478-betoniarka-recenzja/` (Recenzje_013), 4 zdjęcia z galerii + slajder 60480/60494 w „Alternatywach”.
+**0030 „LEGO DC na 2027 rok” czeka na decyzję Marka:** tekst mówi, że na LEGO.pl jest tylko obraz 67012, a Batmobile
+podaje w euro — tymczasem `rrp_potwierdzone.json` ma z LEGO.pl (14.10, Firecrawl) 67008 = 259,99 zł i 67009 = 126,99 zł,
+a Media Expert sprzedaje je już w przedsprzedaży (229,99 i 114,99 zł). Opublikowany w obecnej formie byłby sprzecznością
+wykrywaną przez `swiezosc-tekstow.mjs`.
+
 ## 2026-10-27 · CODE · Karty P07 Piotra: partie 24–25 (50 kart)
 
 Wgrane wszystkie 50 kart (`import-karty.py --krotkie`), bez blokad RRP, wszystkie huby indeksowalne.
