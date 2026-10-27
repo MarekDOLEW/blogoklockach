@@ -1068,6 +1068,18 @@ listing się urwał, nie wczytywać. Trzy pułapki:
 - Numery spoza katalogu i `sety.json` (głównie akcesoria 5xxxxxx) skrypt pomija —
   bez nazwy i serii nie ma z czego zrobić huba.
 
+**Rozbieżności ekskluzywów — sprawdzane tylko raz** *(ustalone 27.10.2026)*. Lista
+„flaga `ekskluzyw` bez etykiety na listingu" z raportu `lego-ceny.mjs` rośnie co
+tydzień, bo listing regularnie gubi etykietę dużym zestawom UCS/Icons (Sokół
+Millennium 75192, Barka Jabby 75397 i inne), które są naprawdę ekskluzywne LEGO.com —
+to nie zmiana na stronie, tylko szum skanera (sprawdzone ręcznie 22.09: 18/18 wtedy
+nowych pozycji, 27.10: 33/36). `src/data/ekskluzyw_potwierdzone.json` (append-only)
+trzyma numery już sprawdzone kartą produktu i potwierdzone jako wciąż ekskluzywne;
+Dane wt. filtruje przez ten plik i sprawdza Firecrawlem tylko NOWE numery — zamiast
+całej, rosnącej listy. Numer potwierdzony idzie do pliku; numer bez etykiety na karcie
+dostaje `ekskluzyw: false` w `sety.json` (jak 29.09 dla 76354/80121/80120, 27.10 dla
+77264/10367/72156).
+
 **Czwarta pułapka, znaleziona 14.10.2026: kafelek PRZECENIONY wypadał z zaciągu.**
 Na listingu obie kwoty i rabat stoją w jednej linii — `729,99 zł583,99 zł\- 20%` —
 a parser szukał kwoty samej w linii, więc nie łapał żadnej i wyrzucał cały produkt

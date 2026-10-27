@@ -119,6 +119,17 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
   rano przychodzi mail z linkami (`podejrzany-rynek-mail.mjs`, klucz `podejrzane`,
   kontakt@); Marek potwierdza w rozmowie z Code („potwierdzam <nr> <cena> <sklep>"),
   Code dopisuje do `deale_potwierdzone.json` i oferta wraca tego samego dnia.
+- **Rozbieżności ekskluzywów: Dane wt. sprawdza tylko nowe numery, nie całą listę
+  od nowa** (Marek, 27.10.2026, po ręcznej weryfikacji 36 pozycji tego dnia).
+  `src/data/ekskluzyw_potwierdzone.json` (append-only) trzyma numery już sprawdzone
+  kartą produktu (Firecrawl) i potwierdzone jako wciąż ekskluzywne — duże zestawy
+  UCS/Icons (np. Sokół Millennium 75192) bywają tam na trwałe, bo listing regularnie
+  gubi im etykietę pod inną („Ostatnie zestawy"). Kolejny przebieg filtruje raport
+  `lego-ceny.mjs` przez ten plik: numery już w pliku pomija, dla NOWYCH sprawdza kartę
+  i albo dopisuje je do pliku (nadal ekskluzywny), albo zdejmuje flagę `ekskluzyw`
+  w `sety.json` (jak 29.09 dla 76354/80121/80120 i 27.10 dla 77264/10367/72156).
+  Do „Kto co robi” trafiają tylko numery, których nie dało się sprawdzić (błąd
+  Firecrawla, brak adresu w `redirects.lego`).
 - **„Obserwuj zestaw" jest kanałem wyłącznie cenowym** (Marek, 22.10.2026, po sygnale
   Radaru o discordowym kanale statusów fanklockow). Mail wychodzi tylko wtedy, gdy cena
   spadnie co najmniej 20% pod katalogową albo pobije nasz rekord — i dokładnie to obiecuje

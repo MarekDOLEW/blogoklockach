@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "opis": "Numery zestawow sprawdzone recznie na karcie produktu (Firecrawl) i potwierdzone jako wciaz ekskluzywne mimo braku etykiety 'Ekskluzywne' na listingu lego.pl (lego-ceny.mjs raportuje je jako rozbieznosc, bo listing czasem gubi etykiete pod inna, np. 'Ostatnie zestawy', zwlaszcza na duzych zestawach UCS/Icons). Kolejne przebiegi Dane wt. pomijaja numery z tej listy przy sprawdzaniu nowych rozbieznosci — sprawdzac tylko numery NIEOBECNE tutaj. Append-only: numer wraca do sprawdzenia tylko jesli ktos go recznie usunie.",
+  "ustalone": "27.10.2026 (decyzja Marka: sprawdzaj nowe rozbieznosci w kolejnym przebiegu)"
+ },
+ "numery": {
+  "21373": "2026-10-27",
+  "31221": "2026-10-27",
+  "40872": "2026-10-27",
+  "76355": "2026-10-27",
+  "40858": "2026-10-27",
+  "11386": "2026-10-27",
+  "76476": "2026-10-27",
+  "10338": "2026-10-27",
+  "76437": "2026-10-27",
+  "43026": "2026-10-27",
+  "21369": "2026-10-27",
+  "76294": "2026-10-27",
+  "75192": "2026-10-27",
+  "40859": "2026-10-27",
+  "40919": "2026-10-27",
+  "21353": "2026-10-27",
+  "10326": "2026-10-27",
+  "11385": "2026-10-27",
+  "40975": "2026-10-27",
+  "75397": "2026-10-27",
+  "10337": "2026-10-27",
+  "43263": "2026-10-27",
+  "10341": "2026-10-27",
+  "75367": "2026-10-27",
+  "40880": "2026-10-27",
+  "10334": "2026-10-27",
+  "10323": "2026-10-27",
+  "21356": "2026-10-27",
+  "10459": "2026-10-27",
+  "71814": "2026-10-27",
+  "10458": "2026-10-27",
+  "40881": "2026-10-27",
+  "40924": "2026-10-27"
+ }
+}
