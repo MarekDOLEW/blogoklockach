@@ -565,6 +565,14 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Mamy?** — nie: w dziale Artykuły nie ma kalendarza listopadowych akcji, a to najmocniejszy tydzień zakupowy roku
 **Zrobić:** — tekst w kategorii Kalendarze z tymi trzema terminami i zasadą, że nowości wchodzące w to okno (np. zapowiadana na 27 listopada Godzilla 21375) nie mają rabatu, mimo że sklep jest przeceniony
 **Kto:** — Piotr (tekst)
+→ zamknięte 27.10.2026 (decyzja Marka): osobnego tekstu nie piszemy — wszystkie trzy terminy
+i reguła o premierze bez rabatu są już w `/kalendarz-promocji-lego/` (sekcja `#listopad`:
+Insiders Weekend ok. 21–26.11, Black Friday 27.11, Cyber Monday 30.11, plus akapit o 21375 Godzilli
+wchodzącej do sprzedaży w dniu Black Friday). Strona aktualizowana 25.10.
+Sprawdzenie przy zamknięciu (27.10, lego.com/pl-pl/page/lego-offers-promotions): polski sklep
+**nadal nie podaje żadnych listopadowych terminów** — stoją tam tylko trzy okna gratisów do 27.10.
+Nasze daty listopadowe zostają więc z plakietką „przewidywane”; wpis Scouta opierał się na
+PromoBricks, nie na źródle producenta. Datowaną plakietkę zdejmiemy, gdy LEGO ogłosi terminy samo.
 
 ## 2026-10-19 · CODE · Strona główna: rotacja zestawów w slajderze i „Dziś w dobrej cenie”
 
