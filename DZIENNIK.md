@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-28 08:05 · RADAR · Do zrobienia
+
+**faniklockow.pl · 27.10** — Wystawili „Okazję Cenową" na 21333 Gwiaździstą noc (Smyk 599 zł, u nich −26%); sama okazja się nie broni (wobec potwierdzonego katalogu 729,99 zł to −17,9%, a 599 zł u Smyku stało też 25.09 i 09.10), ale odsłoniła lukę w naszym rejestrze.
+**Mamy?** — częściowo: hub `/zestaw/21333/` pokazuje ceny z `oferty_feed`, ale numeru **nie ma w `sety.json`** — mimo potwierdzonego wycofania na grudzień 2026.
+**Zrobić:** — dopisać 21333 do `src/data/sety.json` (bez wpisu zestaw nie wejdzie do bloku „Dziś w dobrej cenie", nie ma śledzonego minimum i nie dostanie alertu cenowego w szczycie sezonu); research domknięty u źródła: 729,99 zł, 2316 elementów, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas, EOL grudzień 2026 z `wycofania.json`.
+**Kto:** — Code (dane, strona)
+
 ## 2026-10-28 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - 30727 Minimodel TIE Advanced — karta promocji `lego.com/pl-pl/page/lego-offers-promotions`
@@ -923,6 +931,14 @@ stary usunięty. Szczegóły: `materialy/zadania-cykliczne.md`, historia 18.10.
   → zamknięte 18.10.2026 (a): Marek — „zostaw kreskę przy 40898". Danych nie ruszam,
   `cena_katalogowa` zostaje `null`, reguła awansowana do „Ustaleń trwałych". Punkt (b)
   o oknie gratisu **zostaje otwarty**.
+  → zamknięte 28.10.2026 (b): sprzeczności nie było — pomyliłem się w samym postawieniu
+  pytania. Karta 11388 na lego.com/pl-pl nadal mówi „Wkrótce dostępne (4 listopada 2026)”, ale to
+  data sprzedaży dla wszystkich, a nasz tekst premierowy od początku mówi „1 listopada dla
+  Insiders, od 4 listopada dla pozostałych” — gratis w dniach 1–8.11 mieści się w tym bez
+  naciągania, bo przez pierwsze trzy dni zestaw kupują Insiderzy. Karta produktu niesie dziś
+  okno upominkowe 1–8.11. Czego LEGO **nadal** nie potwierdza własnym źródłem: że tym upominkiem
+  jest 40898 — na stronie promocji go nie ma, nazwa pochodzi od StoneWars i zklockow. Tekstu nie
+  ruszam, bo i tak nie podaje nic więcej, niż da się obronić.
 - Pomyłka warta zapisania: zacząłem od „nie mamy 11388 w katalogu”, bo szukałem w `katalog.json`
   (plik z listingu lego.com). Rejestrem zestawów jest `sety.json`. Luki w danych sprawdzamy tam.
 

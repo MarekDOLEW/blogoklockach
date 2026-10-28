@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-27",
-    "przebieg": "scheduled 2026-10-27 08:00",
+    "ostatnia_aktualizacja": "2026-10-28",
+    "przebieg": "scheduled 2026-10-28 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 327,
+    "liczba_wpisow": 331,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -40,7 +40,8 @@
       "2026-10-24": "Dzien po dniu ta sama kategoria i zupelnie inny wynik sprawdzenia - warto to zestawic. 22.10 ich 'to nie blad cenowy' przy 77076 za 89 zl nie przeszlo weryfikacji Marka (zestaw stoi po 170, oferta odrzucona). 23.10 ich okazja na 75192 sprawdza sie w naszych wlasnych danych i jest mocniejsza, niz sami pisza: 2699,90 zl w Media Expert to minimum CALEJ naszej historii cen tego zestawu (poprzednie 2799 zl z 18.09), a zestaw ma potwierdzone wycofanie na grudzien. Wniosek dla nas nie brzmi 'oni sie myla' ani 'oni maja racje', tylko: ich teksty dealowe to lead do sprawdzenia w naszych danych, i ta robota oplaca sie w obie strony - raz chroni przed falszywa cena, raz pokazuje temat, ktorego nie zauwazylismy. Poza tym trzy kolejne strony serii 2027 u fanklockow (Art, Harry Potter, Editions) i druga w tygodniu relacja z miejsca (muzeum w Krakowie, sklep w Pradze) - linia tresci wymagajaca fizycznej obecnosci, ktorej nie bedziemy miec.",
       "2026-10-25": "Jedna publikacja, nic do zrobienia - szosty dzien rozbudowy hubow 2027, tym razem DC u faniklockow. Nasza sekcja DC w /zapowiedzi-lego-2027/ jest mocniejsza od ich, bo po aktualizacji z 19.10 trzyma 67008, 67009 i 67012 jako potwierdzone z cenami i przedsprzedaza, a nie jako przecieki. Odnotowanie techniczne: zadanie odpalilo sie dzis o 07:01 UTC zamiast 06:01, bo w nocy skonczyl sie czas letni - cron CRON_TZ=Europe/Warsaw zrobil swoje, godzina polska bez zmian (08:00). Wczorajsza pozycja o 75192 zostaje otwarta: cena 2699,90 zl w Media Expert potwierdzila sie drugi dzien z rzedu (feed 24.10), dealu nadal nie ma.",
       "2026-10-26": "Nic do zrobienia. Dwie publikacje: skrot popkulturowy u fanklockow i przedatowany na nowy adres wpis faniklockow o kumulacji z 20.10. Przy tym drugim sprawdzilem u zrodla, czy nie opisuja czegos nowego: lego.com/pl-pl wciaz ma wylacznie okno 20-27.10 z trzema gratisami, wiec to przedatowanie, nie nowa akcja. Przy okazji potwierdzone, ze nasz kalendarz jest aktualny co do okna 28.10-11.11 z gratisem 40889 (dodane innym commitem 25.10) i ze zdanie 'polskiego progu LEGO jeszcze nie opublikowalo' jest nadal prawdziwe - na karcie promocji 40889 nie ma wcale. Otwarta pozycja o 75192 trwa trzeci dzien: 2699,90 zl w Media Expert z data 25.10, dealu nadal nie ma.",
-      "2026-10-27": "Nic do zrobienia, ale dwie rzeczy warte zapamietania. (1) Oba serwisy wydaly tego samego dnia liste premier listopadowych z dystrybucja - temat mamy pokryty strona /nowosci/listopad-2026/, sprawdzona dzis na produkcji: szesc pozycji, ceny katalogowe, elementy, zdjecia, i caly czas generowana z danych, wiec nie wymaga przepisywania co miesiac. (2) Ich cykl 'LEGO do szafy' przeszedl za sciane platna dla patronow. To potwierdza decyzje Marka z 19.10, zeby tego formatu nie gonic: tresc, ktora autor zamyka dla wplacajacych, nie pracuje na ruch z wyszukiwarki. Przy okazji czwarty dzien pozycji o 75192 i pierwsza zmiana jakosciowa: 2699,90 zl ma juz nie jeden sklep, tylko trzy (Media Expert, Ceneo, x-kom), a Allegro stoi 2758,90 - to ruch calego rynku, nie wybryk jednego sprzedawcy, wiec cena jest pewniejsza niz w piatek."
+      "2026-10-27": "Nic do zrobienia, ale dwie rzeczy warte zapamietania. (1) Oba serwisy wydaly tego samego dnia liste premier listopadowych z dystrybucja - temat mamy pokryty strona /nowosci/listopad-2026/, sprawdzona dzis na produkcji: szesc pozycji, ceny katalogowe, elementy, zdjecia, i caly czas generowana z danych, wiec nie wymaga przepisywania co miesiac. (2) Ich cykl 'LEGO do szafy' przeszedl za sciane platna dla patronow. To potwierdza decyzje Marka z 19.10, zeby tego formatu nie gonic: tresc, ktora autor zamyka dla wplacajacych, nie pracuje na ruch z wyszukiwarki. Przy okazji czwarty dzien pozycji o 75192 i pierwsza zmiana jakosciowa: 2699,90 zl ma juz nie jeden sklep, tylko trzy (Media Expert, Ceneo, x-kom), a Allegro stoi 2758,90 - to ruch calego rynku, nie wybryk jednego sprzedawcy, wiec cena jest pewniejsza niz w piatek.",
+      "2026-10-28": "Cztery nowe publikacje, jedna pozycja - i wyszla z niej dziura w naszym rejestrze, nie temat do napisania. faniklockow wystawili 'Okazje Cenowa' na 21333 Gwiazdzista noc (Smyk 599 zl, u nich -26%). Dwa sprawdzenia rozbroily sama okazje: wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo juz 25.09 i 09.10, czyli to podloga tego sklepu, nie zjazd. Zostaje jednak rzecz wazniejsza: 21333 NIE MA w sety.json, mimo potwierdzonego wycofania na grudzien 2026. Numer jest w oferty_feed (empik 739,99, ceneo 599, lego 729,99, allegro 694,99, smyk 599) i w historia-cen (20 zapisow od 18.09), wiec hub pokazuje ceny, ale bez wpisu w rejestrze zestaw nie wejdzie do 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu. To ta sama klasa luki co 19 nieskledzonych zestawow z 11.10. Research domkniety u zrodla: 729,99 zl, 2316 elementow, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas. Drugie sprawdzenie dnia wyszlo dla nas dobrze: oba serwisy pisza o oknie gratisowym od 28.10, a nasz kalendarz ma je od 25.10 i zgadza sie co do zlotowki z regulaminem LEGO.pl (40889 od 540 zl, 30727 Star Wars od 165 zl, oba 28.10-08.11). Trzeci raz z rzedu nasz kalendarz byl na czas, a nie za nimi. Przy okazji ZAMKNIETA moja wlasna rozbieznosc z 17.10: karta 11388 na lego.com/pl-pl nadal mowi 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi 1.11 dla Insiders i 4.11 dla pozostalych - to nie sprzecznosc, tylko wczesny dostep, i tekst nie wymaga zmiany. Struktura: promoklocki bez zmian (te same kategorie i karty, paginacja 224). zklockow: /blog sprawdzony i MARTWY od 17.02.2021 - ale to stalo w obserwacjach strategicznych od sierpnia, wiec kredyt poszedl na pytanie juz rozstrzygniete; zapisane jako regula na przyszle przebiegi."
     }
   },
   "publikacje": [
@@ -3916,10 +3917,60 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Kolejna strona serii w ich siatce 2027. Bez zadania - u nas rocznik 2027 stoi na /zapowiedzi-lego-2027/ z podzialem na potwierdzone i przecieki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Poradnik LEGO.pl: Budowanie i malowanie od 28.10 + Wenecja!",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-budowanie-i-malowanie-od-28-10/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-28",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Zapowiedz okna gratisowego od 28.10 z adnotacja 'PROMOCJA RUSZYLA z nizsza kwota wejscia'. U nas okno jest w kalendarzu od 25.10 i po dzisiejszym sprawdzeniu u zrodla zgadza sie co do zlotowki: 40889 Buduj, maluj i baw sie przy zakupach od 540 zl oraz 30727 Minimodel TIE Advanced przy zakupach Star Wars od 165 zl, oba 28.10-08.11. Zero zadania."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Mozliwa kumulacja - Wenecja z gratisem oraz Klasyczny Kosmonauta?",
+      "url": "https://faniklockow.pl/2026/10/27/mozliwa-kumulacja-wenecja-z-gratisem-oraz-klasyczny-kosmonauta/",
+      "data_publikacji": "2026-10-27",
+      "data_wykrycia": "2026-10-28",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Licza na kumulacje: 40889 (prog 540 zl, 28.10-08.11) plus dedykowany gratis 40898 do premiery 11388. Ich wycena 40889 na 180-200 zl to szacunek odsprzedazy - my liczymy wartosc gratisu w cenie katalogowej (regula z 08.10), a LEGO podaje 81,99 zl. Sprawdzone przy okazji u zrodla: karta 11388 nadal mowi 'Wkrotce dostepne (4 listopada 2026)', 2149,99 zl, 5682 elementy - czyli nasz tekst premierowy (1.11 dla Insiders, 4.11 dla pozostalych, gratis 40898 w dniach 1-8.11) NIE jest z tym sprzeczny, wbrew mojej wlasnej notatce z 17.10."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Klasyczni Kosmonauci z LEGO. Sprawdzcie czy macie wszystkich!",
+      "url": "https://faniklockow.pl/2026/10/27/klasyczni-kosmonauci-z-lego-sprawdzcie-czy-macie-wszystkich/",
+      "data_publikacji": "2026-10-27",
+      "data_wykrycia": "2026-10-28",
+      "typ": "historia",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zestawienie kolekcjonerskie minifigurek Classic Space, bez decyzji zakupowej. Nie prowadzimy tresci inwentaryzacyjnych per minifigurka."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Art) - 21333 'Gwiazdzista noc' Vincenta van Gogha",
+      "url": "https://faniklockow.pl/2026/10/27/okazja-cenowa-art-21333-gwiazdzista-noc-vincenta-van-gogha-4/",
+      "data_publikacji": "2026-10-27",
+      "data_wykrycia": "2026-10-28",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "smyk"
+      ],
+      "notatki": "Smyk 599 zl, u nich opisane jako -26%. Wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo tez 25.09 i 09.10 - to powtarzalna podloga tego sklepu, nie swieza okazja (sufiks -4 w ich URL potwierdza wzorzec 'farma long-taila' z 22.08). Realna luka jest inna i jest w naszych danych: 21333 NIE MA w sety.json, choc ma potwierdzone wycofanie na grudzien 2026 i jest w oferty_feed oraz historia-cen. Bez wpisu w rejestrze zestaw nie wejdzie do bloku 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu cenowego w szczycie sezonu."
     }
   ],
   "obserwacje_strategiczne": {
-    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny. | KOREKTA 2026-08-22: teza 'brak biezacych publikacji, tylko katalog' wymaga uszczegolowienia - strony 'Odkrywaj' deklaruja aktualnosc na biezacy miesiac i licza dni od ostatniej zmiany rankingu (36-155 dni), wiec sa odswiezane programatycznie. Konkurencja rankingowa jest zywa, choc redakcyjna nadal martwa.",
+    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny. | KOREKTA 2026-08-22: teza 'brak biezacych publikacji, tylko katalog' wymaga uszczegolowienia - strony 'Odkrywaj' deklaruja aktualnosc na biezacy miesiac i licza dni od ostatniej zmiany rankingu (36-155 dni), wiec sa odswiezane programatycznie. Konkurencja rankingowa jest zywa, choc redakcyjna nadal martwa. SPRAWDZONE PONOWNIE 2026-10-28 i to byl zmarnowany kredyt: /blog nadal ma 50 wpisow, najnowsze z 17.02.2021 - dokladnie to, co ta notatka mowila od sierpnia. Wniosek proceduralny: przed wydaniem kredytu Firecrawla na strukture konkurencji czytac najpierw obserwacje_strategiczne, bo pytanie bywa juz rozstrzygniete.",
     "fanklockow.pl": "KOREKTA 2026-08-21 (dane z RSS): serwis publikuje ok. 10 WPISOW DZIENNIE, nie ~1 - strona glowna pokazuje tylko wycinek, co przez tydzien zanizalo nasza ocene ich tempa (mylnie: '4 publikacje / 4 dni'). 20.08: 10 wpisow. Formaty: codzienne zestawienia ofert z afiliacja do 5 sklepow (Amazon, Allegro, Media Expert, Smyk, Empik), miniPoradniki LEGO.pl, hub wycofan EOL, gazetki BlueOcean, huby zapowiedzi per rok i seria, kalendarz promocji. ROZSZERZENIE POZA LEGO: COBI, Pantasy, Mattel Brick Shop. Monetyzacja: afiliacja + Patronite + Discord + wlasny sklep + reklamy AMP (auto-ads). Taktyka URL: jeden adres aktualizowany codziennie zamiast republikacji. Dostep tylko przez RSS/curl z UA przegladarki. | 2026-08-29: jedna publikacja zamiast typowych ~10, i to tekst opiniotworczy o grach. Weekend wyraznie sciaga im tempo. | 2026-08-30: dwie publikacje, obie poza pasem zakupowym LEGO (recenzja wideo Pantasy, skrot popkulturowy). Weekendowe tempo utrzymuje sie na poziomie 1-2 wpisow zamiast ~10. | 2026-09-02: wracaja do pelnego tempa (4 wpisy 1.09). Buduja dwa nowe stale formaty: miesieczne 'Nowosci Pick a Brick' oraz omowienia wideo (CMF Shrek, wczesniej Pantasy). Wideo to jedyna warstwa, w ktorej nie mamy NIC.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO). KOREKTA 2026-08-21 (RSS): serwis publikuje duzo wiecej, niz pokazuje strona glowna - mikro-wpisy 'Okazja Cenowa' per zestaw, po kilka dziennie, kazdy z jednym sklepem i rabatem od ceny katalogowej (siec Performers). Ma tez PELNA APLIKACJE app.faniklockow.pl: katalog wlasnej kolekcji, marketplace, inwestycje, statystyki, sledzenie wycofan, konta uzytkownikow. Co najmniej dwoch autorow (Piotr Ksiezycki, 'Brick Head'). | 2026-08-24: cisza od 22.08 (dwa dni bez publikacji) po serii 'Okazji Cenowych' niemal codziennie. Jeden autor - urlop albo przerwa. Okno na przejecie fraz okazyjnych. | 2026-08-29: ZERO publikacji przez caly dzien, dzien po poradniku o Powrocie do Hogwartu. Powtorka wzorca z 22-23.08 (cisza po serii wpisow). Jeden autor - kadencja jest zrywami, nie rowna. | 2026-08-31: DRUGI dzien z rzedu bez publikacji (29 i 30.08). Ostatni tekst to poradnik o Powrocie do Hogwartu z 28.08. Trzecia taka cisza w miesiacu (22-23.08, 29.08, 30.08) - kadencja jednego autora zalamuje sie w weekendy i po wiekszym tekscie. | 2026-09-01: koniec dwudniowej ciszy - wracaja seria 'Zapowiedzi serii X na 2026' (Icons, Ideas, CMF/BaM, okazjonalne). Wzorzec potwierdzony: cisza nie oznacza spadku formy, tylko prace nad wieksza partia tekstow publikowana potem seriami.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje. | 2026-08-22: wykryte publiczne API cenowe (api.promoklocki.pl, OpenAPI 3.1, sync co 5 min), sekcja /okazje-lego rozdzielona od /promocje-lego oraz miesieczne podstrony /nowosci-lego/<miesiac>-<rok>. Kierunek: z porownywarki w dostawce danych cenowych dla innych. | 2026-08-25: lista EOL rozbita na podstrony per seria (/lego-eol/<seria>) — ten sam wzorzec pSEO co miesieczne podstrony nowosci. | 2026-08-28: brak zmian strukturalnych od 25.08 (ostatnia: podstrony wycofan per seria). | 2026-08-31: dwa watki domkniete na danych, nie na domysle. blog.promoklocki.pl to martwa subdomena (ostatni wpis 2015) - kadencja publikacyjna to nadal tylko /blog. Publiczne API ma JEDEN endpoint zwracajacy minimalna cene setu jako goly string, wiec nie jest ruchem platformowym; moja wczesniejsza teza o 'staniu sie infrastruktura' byla przesadzona i zostala wycofana. Ocena 'konkurencja narzedziowa, nie contentowa' zostaje, ale jej podstawa to aplikacja mobilna z alertami i podstrony wycofan per seria, a nie API.",
