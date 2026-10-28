@@ -46101,5 +46101,42 @@
   "dla_rodzica": "Tego zestawu się nie kupuje — jest dodawany do zakupów od 540 zł w sklepie LEGO, w oknie od 28 października do 8 listopada 2026. Oznaczenie 18+ nie bierze się z trudności, tylko z formuły: to ozdoba na półkę lub biurko, a nie zabawka do odgrywania scen. Przy 158 elementach budowanie zajmuje kilkanaście minut.",
   "dla_afol": "Najciekawsza jest tu minifigurka: kosmonauta Classic Space w kolorze dark turquoise, z jasnoszarym hełmem i butlami, których w tym odcieniu nie było w żadnym wcześniejszym zestawie. Przy wycenie 81,99 zł za 158 elementów arytmetyka elementowa nie ma sensu — wartość tego gratisu to figurka i części w nowych kolorach. Zestawy z serii Ideas rozdawane jako dodatek nie wracają do oferty, więc po 8 listopada 2026 zostaje rynek wtórny.",
   "oferty": []
+ },
+ "21333": {
+  "nazwa": "Gwiaździsta noc Vincenta van Gogha",
+  "seria": "Ideas",
+  "cena_katalogowa": 729.99,
+  "elementy": 2316,
+  "wiek": "18+",
+  "premiera": "2022-05",
+  "opis": "",
+  "dla_rodzica": "Dekoracja 18+, nie zabawka – po zbudowaniu zostaje obraz na ścianę i nic się z nim więcej nie robi. Dla nastolatka interesującego się malarstwem bywa dobrym wspólnym projektem, ale dla młodszego dziecka to zły wybór niezależnie od ceny.",
+  "dla_afol": "Przy katalogu 729,99 zł wychodzi 0,32 zł za element, przy cenie 599 zł – 0,26 zł. Wycofanie potwierdzone na grudzień 2026, więc to ostatnie miesiące w normalnej cenie sklepowej. Uwaga na „okazje”: 599 zł u Smyku stało już 25.09 i 09.10, to powtarzalna podłoga tego sklepu, a nie zjazd – prawdziwym sygnałem będzie dopiero cena poniżej tej kwoty.",
+  "zdjecia": {
+   "glowne": "https://cdn.rebrickable.com/media/sets/21333-1.jpg",
+   "zrodlo": "rebrickable"
+  },
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 694.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 739.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 729.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 599,
+    "data": "2026-10-27"
+   }
+  ]
  }
 }

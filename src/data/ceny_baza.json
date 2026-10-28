@@ -5014,7 +5014,7 @@
  "75433": {
   "nazwa": "Statek kosmiczny Jango Fetta",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 199.0,
+  "najnizsza_cena": 199,
   "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "xkom"
  },
@@ -6400,7 +6400,7 @@
  "75446": {
   "nazwa": "Grogu (uczeń Mandalorianina)",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 319.0,
+  "najnizsza_cena": 319,
   "najnizsza_data": "2026-10-26",
   "najnizsza_sklep": "xkom"
  },
@@ -7950,5 +7950,12 @@
   "najnizsza_cena": 419.99,
   "najnizsza_data": "2026-10-20",
   "najnizsza_sklep": "mediaexpert"
+ },
+ "21333": {
+  "nazwa": "Gwiaździsta noc Vincenta van Gogha",
+  "cena_katalogowa": 729.99,
+  "najnizsza_cena": 599,
+  "najnizsza_data": "2026-09-25",
+  "najnizsza_sklep": "smyk"
  }
 }

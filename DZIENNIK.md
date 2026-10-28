@@ -160,6 +160,14 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: hub `/zestaw/21333/` pokazuje ceny z `oferty_feed`, ale numeru **nie ma w `sety.json`** — mimo potwierdzonego wycofania na grudzień 2026.
 **Zrobić:** — dopisać 21333 do `src/data/sety.json` (bez wpisu zestaw nie wejdzie do bloku „Dziś w dobrej cenie", nie ma śledzonego minimum i nie dostanie alertu cenowego w szczycie sezonu); research domknięty u źródła: 729,99 zł, 2316 elementów, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas, EOL grudzień 2026 z `wycofania.json`.
 **Kto:** — Code (dane, strona)
+→ zamknięte 28.10.2026 (polecenie Marka): 21333 dopisany do `sety.json` (1212 → 1213)
+**oraz do `ceny_baza.json`** (1135 → 1136) — i to drugie okazało się konieczne, nie ozdobne:
+`zrzut-import.mjs` ma `if (!b) continue`, czyli skrypty tylko aktualizują istniejące wpisy
+w `ceny_baza`, nigdy nie zakładają nowych. Sam wpis w rejestrze dałby więc hub i persony,
+ale nadal zero śledzonego minimum i zero alertów. Minimum zapisane z naszej własnej historii:
+599 zł u Smyku, 25.09.2026. Hub `/zestaw/21333/` po buildzie jest pełny i indeksowalny
+(persony, tabela z −18% u Smyku, termin wycofania). Zapisane przez `zapiszSety` z
+`json-kolejnosc.mjs`, `porzadek-ofert --sucho` i `kontrola-ofert` bez zastrzeżeń.
 
 ## 2026-10-28 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
