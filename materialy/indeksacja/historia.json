@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-27"
+  "zaktualizowano": "2026-10-28"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -198,6 +198,23 @@
    "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/",
    "https://tylkoklocki.pl/deale/deal-10330-mclaren-mp44-minimum/",
    "https://tylkoklocki.pl/zestaw/43270/"
+  ],
+  "2026-10-28": [
+   "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/deale/deal-10330-mclaren-mp44-minimum/",
+   "https://tylkoklocki.pl/zestaw/43270/",
+   "https://tylkoklocki.pl/zestaw/42205/",
+   "https://tylkoklocki.pl/artykuly/lego-60478-betoniarka-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-dc-2027-batmobile-joker-daily-planet/",
+   "https://tylkoklocki.pl/deale/deal-75192-sokol-millennium-minimum-przed-wycofaniem/",
+   "https://tylkoklocki.pl/zestaw/11206/",
+   "https://tylkoklocki.pl/zestaw/43282/",
+   "https://tylkoklocki.pl/zestaw/60316/",
+   "https://tylkoklocki.pl/zestaw/60464/",
+   "https://tylkoklocki.pl/zestaw/71808/",
+   "https://tylkoklocki.pl/zestaw/75408/",
+   "https://tylkoklocki.pl/zestaw/75410/"
   ]
  }
 }
