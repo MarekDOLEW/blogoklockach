@@ -206,6 +206,7 @@ na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 4181
 **Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
 **Zrobić:** — sprawdzić kartę z maila i zaktualizować werdykt 77253 w `src/data/deale_potwierdzone.json` (ponowne odrzucenie przy 56,30 zł wyciszy mail do kolejnego spadku)
 **Kto:** — Marek (decyzja)
+→ zamknięte 28.10.2026: Marek odrzucił ponownie przy 56,30 zł (czat, „bugatti olej”) — wpis w `deale_potwierdzone.json`, mail wyciszony do kolejnego spadku.
 
 **Feed PK zwrócił 0 setów przy pustym `_meta.bledy` — bez bezpiecznika naniesienie skasowałoby ~1100 ofert PK (27.10 uratował bezpiecznik w skrypcie roboczym Łowcy)**
 **Mamy?** — częściowo: bezpiecznik tylko w scratchpadzie Łowcy; `scripts/feedy-lego.py` dalej zapisuje pusty słownik bez ostrzeżenia

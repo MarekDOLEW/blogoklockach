@@ -2,7 +2,7 @@
  "_meta": {
   "opis": "Oferty poniżej 50% POTWIERDZONEJ ceny katalogowej (rrp_potwierdzone.json), które człowiek sprawdził w sklepie i uznał za prawdziwe. Bez wpisu tutaj taka oferta nie wchodzi do tabel cen, meta/JSON-LD ani deali (src/lib/oferty.js → podejrzanyRynek). Wpis obowiązuje, dopóki cena w feedzie nie spadnie poniżej potwierdzonej kwoty — niższa cena wymaga ponownego sprawdzenia. Sekcja 'odrzucone' (od 17.09.2026): werdykty „fałsz\" po sprawdzeniu — oferta zostaje ukryta jak każda niepotwierdzona, a podejrzany-rynek-mail.mjs przestaje o nią pytać; niższa cena niż oceniona wraca do maila.",
   "regula": "kontrola-rrp.mjs, sekcja „Test rynkowy” pokazuje kandydatów; po sprawdzeniu w przeglądarce dopisz numer z ceną, sklepem, datą i kto sprawdził. Append-only.",
-  "zaktualizowano": "2026-10-23"
+  "zaktualizowano": "2026-10-28"
  },
  "potwierdzone": {
   "60339": {
@@ -78,11 +78,11 @@
    "uwagi": "Urocze zwierzątka: psotny szczeniaczek — oszust (werdykt po sprawdzeniu karty Ceneo)"
   },
   "77253": {
-   "cena": 57.32,
-   "sklep": "ceneo/allegro",
-   "data": "2026-10-21",
+   "cena": 56.3,
+   "sklep": "ceneo",
+   "data": "2026-10-28",
    "kto": "Marek",
-   "uwagi": "Bugatti Vision GT — olany decyzją Marka 21.10 (czat Łowcy), uchyla potwierdzenie z 20.10 (oferta Allegro nr 19019403135 przez Ceneo); oferta zostaje ukryta"
+   "uwagi": "ponowne odrzucenie przy 56,30 zł (czat 28.10, „bugatti olej”); poprzednio odrzucone 21.10 przy 57,32 zł — wycisza mail do kolejnego spadku"
   },
   "77076": {
    "cena": 89,
