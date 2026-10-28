@@ -154,6 +154,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-28 09:05 · ŁOWCA · Do zrobienia
+
+**Po naprawie filtra PK (63ebb5c) feedy-lego.py sprawdza ~5400 kart Planety Klocków dziennie zamiast ~1250 — stare zawężenie opierało się na kategorii, której feed już nie podaje (4305 kart to archiwum OutOfStock sprawdzane codziennie na nowo)**
+**Mamy?** — częściowo: przebieg działa (PK 1092 setów), ale trwa wyraźnie dłużej i obciąża sklep
+**Zrobić:** — w `scripts/feedy-lego.py` zawęzić kandydatów do kart PK (np. pamiętać numery OutOfStock z poprzednich dni w pliku roboczym albo sprawdzać tylko numery obecne w `known_sets.json`), żeby wrócić do ~1200 zapytań
+**Kto:** — Code (skrypt)
+
 ## 2026-10-28 08:05 · RADAR · Do zrobienia
 
 **faniklockow.pl · 27.10** — Wystawili „Okazję Cenową" na 21333 Gwiaździstą noc (Smyk 599 zł, u nich −26%); sama okazja się nie broni (wobec potwierdzonego katalogu 729,99 zł to −17,9%, a 599 zł u Smyku stało też 25.09 i 09.10), ale odsłoniła lukę w naszym rejestrze.
@@ -204,6 +211,7 @@ na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 4181
 **Mamy?** — częściowo: bezpiecznik tylko w scratchpadzie Łowcy; `scripts/feedy-lego.py` dalej zapisuje pusty słownik bez ostrzeżenia
 **Zrobić:** — w `scripts/feedy-lego.py` dopisywać do `_meta.bledy` sklep, którego feed sparsował się do zera pozycji
 **Kto:** — Code (skrypt)
+→ zamknięte 28.10.2026: zrobione przez Łowcę commitem 63ebb5c — filtr PK naprawiony po zmianie feedu (puste shopcategory), pusty feed ląduje w `_meta.bledy`.
 
 ## 2026-10-26 12:00 · CODE · Slajdery tylko z ofertami sprawdzonymi na karcie produktu
 
