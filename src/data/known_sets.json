@@ -1,5 +1,5 @@
 {
- "data_aktualizacji": "2026-10-26",
+ "data_aktualizacji": "2026-10-28",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
  "liczba_setow": 1212,
  "sety": [
@@ -6526,5 +6526,13 @@
   "terminy_z_katalogu": "Brickset potwierdzil dwie daty, ktore mielismy juz z prezentacji: 40889 launchDate 2026-10-28 i 40898 launchDate 2026-11-01. Zadnej zmiany danych to nie wymagalo — premiery w sety.json stoja na 2026-10 i 2026-11.",
   "luki_katalogu": "Przeliczone na dwoch rewizjach (389b1d5 i drzewo robocze), bez zmian: opisane bez ceny 2 (21375, 77094 — oba bez ofert w feedzie), rocznik 2026 w sprzedazy bez wpisu w sety.json 17, cala kolejka 2020-2026: 165.",
   "serwisy": "PromoBricks i StoneWars stoja na 23.10 — trzeci dzien bez nowego tekstu w obu serwisach (weekend). Zadnych sygnalow wycofan."
+ },
+ "przeglad_2026_10_28": {
+  "nowosci": "Zadnego nowego zestawu. Okno przyrostowe (updatedSince 27.10) dalo piec rekordow: 40889 (released True — akcja wystartowala), 11388 (released True, launch 1.11), 30724 (znany polybag, launch 2026-02-01) oraz dwa stare: 2550 Duplo z 1990 i 30685 TIE Interceptor z 2024.",
+  "okno_gratisowe_28_10": "Karta promocji lego.com/pl-pl podaje polskie warunki okna: 40889 przy zakupach od 540 zl (online, salony LEGO i zamowienia telefoniczne), 30727 Minimodel TIE Advanced przy zakupach Star Wars od 165 zl (tylko online), oba 28.10-8.11.2026. Potwierdzone dwa razy: wyciagiem strukturalnym i cytatem doslownym z tej samej strony.",
+  "korekta_terminu": "POLSKIE OKNO KONCZY SIE 8, NIE 11 LISTOPADA. Data 11.11, ktora wpisalem 24.10, pochodzila z tekstu StoneWars — czyli z rynku niemieckiego. Poprawione: trzy pola 40889 w sety.json (opis, dla_rodzica, dla_afol), opis wpisu 40889 w przeciekach, naglowek i dwa akapity w sekcji #listopad-40889 kalendarza. Wniosek: przy oknach GWP daty i progi biore z polskiej karty promocji, a nie z serwisu niemieckiego — rynki roznia sie o dni.",
+  "drugi_gratis_30727": "30727 bylo u nas od dawna (cena 16,49 zl, 68 elementow), ale z pustym polem opis — uzupelnione, z oknem i progiem. W dla_afol dopisane zdanie, ze przy ofertach zewnetrznych od 11 zl ten gratis nie jest argumentem, by dobijac koszyk do 165 zl. W katalog.json ten numer ma status eol z powodem „nigdy na listingu lego.pl” — sygnal odwrotny, zglosony w dzienniku dla runnera Wycofan, statusu nie ruszam.",
+  "luki_katalogu": "Przeliczone na dwoch rewizjach (d72c4c0 i drzewo robocze), bez zmian: opisane bez ceny 2 (21375, 77094), rocznik 2026 w sprzedazy bez wpisu 17, cala kolejka 2020-2026: 165.",
+  "serwisy": "PromoBricks 27.10: tekst o starcie gratisu 40889 (plus nekrolog aktora). StoneWars 28.10: aktualizacja tego samego tematu („Aktion gestartet!”). Zadnych nowych zestawow i zadnych sygnalow wycofan w tych tekstach."
  }
 }

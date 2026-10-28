@@ -153,6 +153,15 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-28 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
+
+- 30727 Minimodel TIE Advanced — karta promocji `lego.com/pl-pl/page/lego-offers-promotions`
+  (sprawdzona 28.10.2026): zestaw jest rozdawany jako gratis przy zakupach Star Wars od 165 zł
+  w oknie 28.10–8.11.2026, czyli **jest u producenta**. W `katalog.json` ma status `eol` z powodem
+  „nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)" — sygnał odwrotny do wycofania,
+  do weryfikacji przy poniedziałkowym zaciągu. Statusu nie ruszam, bo plik nie jest mój.
+
+
 
 ## 2026-10-27 · CODE · Recenzja Piotra 60478 Betoniarka; tekst 0030 (DC 2027) wstrzymany
 
@@ -289,6 +298,13 @@ temat, którego sami nie zauważyliśmy.
   karta promocji lego.com/pl-pl sprawdzona dziś ma tylko okno 20–27.10 (165 / 625 / 670 zł), o 40889
   i o oknie od 28.10 nie ma tam ani słowa. **Zrobić:** po 28.10 sprawdzić tę kartę i wpisać polski
   próg do tabeli w `#listopad-40889` (dziś stoi tam tylko niemieckie 130 euro). **Kto:** Scout.
+→ zamknięte 28.10.2026: karta promocji lego.com/pl-pl podaje polski próg **540 zł** i okno
+  **28.10–8.11.2026** (cytat: „od 28 października 2026 (GMT+0) do 8 listopada 2026, do wyczerpania
+  zapasów”, „Wartość zakupionych artykułów LEGO musi wynosić co najmniej 540 zł”). Wpisane do tabeli
+  w `#listopad-40889`. Przy okazji wyszło, że polskie okno kończy się **8, nie 11 listopada** — data
+  11.11 pochodziła z tekstu StoneWars, czyli z rynku niemieckiego; poprawiona w trzech polach 40889
+  w `sety.json`, w opisie wpisu w przeciekach i w dwóch miejscach kalendarza. Na tej samej karcie był
+  drugi, nieznany nam gratis: 30727 Minimodel TIE Advanced przy zakupach Star Wars od 165 zł.
 
 **Prompt zadania „Scout nowości" nadal zawiera zdanie „Zestawów LEGO Education nie dodawaj do sety.json", a 23.10 zdecydowałeś odwrotnie dla czterech Science Kitów w sprzedaży detalicznej (45200–45203, dopisane).**
 **Mamy?** — nie: decyzja żyje w `DZIENNIK.md` i w `known_sets.json`, ale nie w promptcie, a sesja z czystym kontekstem czyta tylko prompt.
