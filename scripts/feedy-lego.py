@@ -274,12 +274,51 @@ def z_planetyklockow():
 # „Produkty wycofane z oferty" każda pozycja wygląda na sprzedawaną, a część
 # to widma — karta produktu ma schema.org/OutOfStock i przycisk „Powiadom
 # o dostępności" (Łowca 23.09.2026: 55 z 85 „najtańszych" ofert PK, m.in.
-# 21065 Sagrada Família za 559,99 zł). Dlatego każdą ofertę PK sprawdzamy na
+# 21065 Sagrada Família za 559,99 zł). Dlatego oferty PK sprawdzamy na
 # stronie produktu (zwykły curl, 8 naraz, ~1 300 stron w kilka minut):
 # OutOfStock → oferta wypada z wyciągu (Łowca traktuje ją jak nieobecną w feedzie
 # i zdejmuje cenę PK z huba). Błąd sieci = zostaje (nie kasujemy na ślepo).
+#
+# Pamięć OutOfStock między przebiegami (28.10.2026): po zmianie feedu PK
+# (shopcategory zwykle puste) archiwum nie odpada już po kategorii i do
+# kontroli kart wchodziło ~5 400 numerów dziennie, z czego ~4 300 to stale te
+# same pozycje OutOfStock (przed zmianą feedu ~1 250 zapytań). Numer, który
+# PK_OOS_PROG kolejnych przebiegów z rzędu był OutOfStock, schodzi na rytm
+# tygodniowy: kartę odpytujemy tylko w dniu tygodnia `int(nr) % 7` (archiwum
+# rozkłada się równo na dni), w pozostałe dni numer wypada z wyciągu bez
+# zapytania, jak OutOfStock. Powrót takiego zestawu do sprzedaży widzimy więc
+# najpóźniej po tygodniu — świadomy koszt z zadania 28.10 (DZIENNIK.md).
+# Pamięć żyje w src/data/pk_oos.json, bo kontener runnera jest jednorazowy
+# i tylko repo przenosi stan między przebiegami. To pamięć robocza TEGO
+# skryptu, nie dane serwisu: wpis ZNIKA, gdy karta pokaże InStock, więc
+# reguła append-only z CLAUDE.md tego pliku nie obejmuje (mówi o tym też
+# jego `_meta.opis`).
 PK_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36'
 PK_ROWNOLEGLE = 8
+PK_OOS_PLIK = os.path.join(KATALOG, 'src/data/pk_oos.json')
+PK_OOS_PROG = 3   # tyle kolejnych przebiegów z OutOfStock przenosi numer na rytm tygodniowy
+
+
+def _pk_oos_wczytaj():
+    try:
+        with open(PK_OOS_PLIK, encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        # brak lub uszkodzony plik = zimny start: wszystko sprawdzamy jak przed zmianą
+        return {'_meta': {
+            'opis': 'Pamięć robocza scripts/feedy-lego.py (sprawdzanie kart PK): numery '
+                    'widziane jako OutOfStock w kolejnych przebiegach. To NIE są dane '
+                    'serwisu i append-only tu nie obowiązuje — wpis znika, gdy zestaw '
+                    'wraca do sprzedaży. Nie edytować ręcznie.',
+            'format': 'oos.<nr> = {"od": pierwszy dzień OutOfStock, "ostatnio": ostatni '
+                      'sprawdzony dzień z OutOfStock, "dni": kolejne przebiegi z OutOfStock}',
+        }, 'oos': {}}
+
+
+def _pk_oos_zapisz(pamiec):
+    with open(PK_OOS_PLIK, 'w', encoding='utf-8') as f:
+        json.dump(pamiec, f, ensure_ascii=False, indent=1, sort_keys=True)
+        f.write('\n')
 
 def _pk_strona_dostepna(url, max_time='15'):
     try:
@@ -296,10 +335,20 @@ def _pk_strona_dostepna(url, max_time='15'):
 
 def sprawdz_dostepnosc_pk(oferty):
     from concurrent.futures import ThreadPoolExecutor
-    adresy = {}
+    pamiec = _pk_oos_wczytaj()
+    oos = pamiec.setdefault('oos', {})
+    dzis = date.today().isoformat()
+    dzien_tygodnia = date.today().weekday()
+    adresy, z_pamieci = {}, []
     for nr, o in oferty.items():
         url = (o.get('strona') or '').strip()
-        if url:
+        if not url:
+            continue
+        wpis = oos.get(nr)
+        if (wpis and wpis.get('dni', 0) >= PK_OOS_PROG
+                and int(nr) % 7 != dzien_tygodnia):
+            z_pamieci.append(nr)   # utrwalone OutOfStock, dziś nie jego dzień — bez zapytania
+        else:
             adresy[nr] = url
     wyniki = {}
     with ThreadPoolExecutor(max_workers=PK_ROWNOLEGLE) as pula:
@@ -323,13 +372,25 @@ def sprawdz_dostepnosc_pk(oferty):
         with ThreadPoolExecutor(max_workers=2) as pula:
             for nr, wynik in zip(trzecia, pula.map(lambda u: _pk_strona_dostepna(u, '60'), trzecia.values())):
                 wyniki[nr] = wynik
-    niedostepne = sorted(nr for nr, w in wyniki.items() if w is False)
+    # Aktualizacja pamięci OutOfStock: InStock kasuje wpis, OutOfStock wydłuża
+    # serię (raz dziennie), nierozstrzygnięte niczego w pamięci nie zmienia.
+    for nr, w in wyniki.items():
+        if w is True:
+            oos.pop(nr, None)
+        elif w is False:
+            wpis = oos.setdefault(nr, {'od': dzis, 'dni': 0})
+            if wpis.get('ostatnio') != dzis:
+                wpis['dni'] = wpis.get('dni', 0) + 1
+                wpis['ostatnio'] = dzis
+    _pk_oos_zapisz(pamiec)
+    niedostepne = sorted(set(z_pamieci) | {nr for nr, w in wyniki.items() if w is False})
     nierozstrzygniete = sorted(nr for nr, w in wyniki.items() if w is None)
     for nr in niedostepne + nierozstrzygniete:
         del oferty[nr]
     for o in oferty.values():
         o.pop('strona', None)
-    print(f'planetaklockow: sprawdzono {len(wyniki)} kart, niedostępnych (OutOfStock) {len(niedostepne)}, '
+    print(f'planetaklockow: sprawdzono {len(wyniki)} kart (+{len(z_pamieci)} pominiętych '
+          f'z pamięci OutOfStock), niedostępnych (OutOfStock) {len(niedostepne)}, '
           f'usuniętych jako nierozstrzygnięte po trzech próbach {len(nierozstrzygniete)} '
           f'(druga próba: {len(ponownie)}, trzecia: {len(trzecia)})', file=sys.stderr)
     return niedostepne, nierozstrzygniete

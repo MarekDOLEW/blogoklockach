@@ -160,6 +160,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: przebieg działa (PK 1092 setów), ale trwa wyraźnie dłużej i obciąża sklep
 **Zrobić:** — w `scripts/feedy-lego.py` zawęzić kandydatów do kart PK (np. pamiętać numery OutOfStock z poprzednich dni w pliku roboczym albo sprawdzać tylko numery obecne w `known_sets.json`), żeby wrócić do ~1200 zapytań
 **Kto:** — Code (skrypt)
+→ zamknięte 28.10.2026 (Code, zadanie z sesji Łowcy): pamięć OutOfStock w nowym pliku
+`src/data/pk_oos.json` — numer po 3 kolejnych przebiegach z OutOfStock schodzi na rytm
+tygodniowy (karta odpytywana tylko w dniu `nr % 7`, archiwum rozkłada się na ~620 kart
+dziennie zamiast 4300 codziennie), powrót InStock kasuje wpis; to pamięć robocza skryptu
+(opis w `_meta` pliku), append-only jej nie obejmuje. Format wyciągu i `_meta` bez zmian
+(pominięte numery wchodzą do `planetaklockow_niedostepne`), flaga pustego feedu z 63ebb5c
+zostaje. Przebieg kontrolny 28.10: PK 1093 setów (próg 1092 ✓), sprawdzono 5416 kart,
+4307 OutOfStock weszło do pamięci z dni=1 — pełne odciążenie od trzeciego przebiegu (31.10),
+bo serii nie zasiewamy sztucznie. Koszt świadomy: powrót archiwalnego numeru do sprzedaży
+widać najpóźniej po tygodniu.
 
 ## 2026-10-28 08:05 · RADAR · Do zrobienia
 
