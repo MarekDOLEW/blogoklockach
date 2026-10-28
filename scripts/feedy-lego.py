@@ -234,7 +234,14 @@ def z_planetyklockow():
         dopasowanie = WZORZEC_LEGO.match(nazwa)
         # tylko kod gadżetu, nie cały nie_zestaw(): lista słów zdjęłaby z PK
         # prawdziwe zestawy („Kreatywna walizka" 10713, „pudełko" 10696)
-        if dopasowanie and kategoria.startswith('Klocki LEGO') and not WZORZEC_KOD_GADZETU.search(nazwa):
+        # 28.10.2026: sklep zmienił feed — shopcategory jest zwykle puste, czasem
+        # taksonomia „Gry i zabawki > …”; stare „Klocki LEGO…” zostaje dla zgodności,
+        # a puzzle/łamigłówki odpadają po kategorii albo po słowie w nazwie
+        kategoria_ok = (kategoria == '' or kategoria.startswith('Klocki LEGO')
+                        or 'Zabawki' in kategoria)
+        if 'uzzl' in kategoria or 'amig' in kategoria or 'puzzle' in nazwa.lower():
+            kategoria_ok = False
+        if dopasowanie and kategoria_ok and not WZORZEC_KOD_GADZETU.search(nazwa):
             nr = dopasowanie.group(1)
             cena = cena_liczba(el.findtext('price'))
             # 9999,99 zł w archiwum = pozycja niedostępna, nie oferta
@@ -542,6 +549,14 @@ if __name__ == '__main__':
     for sklep in wybrane:
         try:
             oferty, dodatki = ZRODLA[sklep]()
+            # 28.10.2026: feed, który sparsował się do zera pozycji, to błąd, nie
+            # stan — bez tej flagi naniesienie skasowałoby wszystkie oferty sklepu
+            # (27.10 feed PK przyszedł „poprawny”, ale pusty po zmianie kategorii)
+            if not oferty:
+                wynik['_meta']['bledy'][sklep] = 'feed sparsował się do zera pozycji'
+                wynik['_meta']['liczby'][sklep] = 0
+                print(f'{sklep}: BŁĄD — feed sparsował się do zera pozycji', file=sys.stderr)
+                continue
             niespojne = odsiej_niespojne(sklep, oferty)
             if niespojne:
                 wynik['_meta'][f'{sklep}_niespojne'] = niespojne
