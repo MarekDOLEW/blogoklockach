@@ -807,9 +807,9 @@
  "77081": {
   "nazwa": "Kitek",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 269,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 268,
+  "najnizsza_data": "2026-10-28",
+  "najnizsza_sklep": "allegro"
  },
  "77978": {
   "nazwa": "Ciężarówka do transportu młodego tyranozaura",
@@ -1220,8 +1220,8 @@
  "76476": {
   "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
   "cena_katalogowa": 1849.99,
-  "najnizsza_cena": 1819.99,
-  "najnizsza_data": "2026-10-25",
+  "najnizsza_cena": 1800,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "11211": {
@@ -2151,8 +2151,8 @@
  "76355": {
   "nazwa": "Batmobil z filmu Powrót Batmana",
   "cena_katalogowa": 899.99,
-  "najnizsza_cena": 1049.99,
-  "najnizsza_data": "2026-10-27",
+  "najnizsza_cena": 1039.99,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "42182": {
@@ -2354,8 +2354,8 @@
  "75364": {
   "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 383,
-  "najnizsza_data": "2026-10-25",
+  "najnizsza_cena": 382.99,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "75413": {
@@ -2851,8 +2851,8 @@
  "21345": {
   "nazwa": "Aparat Polaroid OneStep SX-70",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 223.94,
-  "najnizsza_data": "2026-09-06",
+  "najnizsza_cena": 209,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "76281": {
@@ -3446,8 +3446,8 @@
  "75440": {
   "nazwa": "AT-AT",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 179,
-  "najnizsza_data": "2026-10-12",
+  "najnizsza_cena": 178.99,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "31384": {
@@ -3775,8 +3775,8 @@
  "80118": {
   "nazwa": "Chińska petarda noworoczna",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 299.99,
-  "najnizsza_data": "2026-10-23",
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "10423": {
@@ -3999,8 +3999,8 @@
  "71851": {
   "nazwa": "Smok-mech Kaia - Zestaw bitewny",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 26,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "60495": {
@@ -4692,8 +4692,8 @@
  "42672": {
   "nazwa": "Kreatywna walizka plażowa",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 118.58,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 118.57,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "76970": {
@@ -5749,8 +5749,8 @@
  "42625": {
   "nazwa": "Plażowa budka z koktajlami",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 59.26,
-  "najnizsza_data": "2026-10-09",
+  "najnizsza_cena": 55,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "71422": {
@@ -5777,8 +5777,8 @@
  "40709": {
   "nazwa": "Wiosenny plac zabaw dla zwierzątek",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 23,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 19,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "10343": {
@@ -6386,8 +6386,8 @@
  "40463": {
   "nazwa": "Zajączek wielkanocny",
   "cena_katalogowa": 69.99,
-  "najnizsza_cena": 86,
-  "najnizsza_data": "2026-10-19",
+  "najnizsza_cena": 85.14,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "76327": {
@@ -6547,8 +6547,8 @@
  "40891": {
   "nazwa": "Stranger Things: Stacja radiowa WSQK",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 459.45,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 459.12,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "40920": {
@@ -6855,8 +6855,8 @@
  "71855": {
   "nazwa": "Bitwa smoka Riyu",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 169,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 168.5,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "allegro"
  },
  "40647": {
@@ -7303,8 +7303,8 @@
  "10475": {
   "nazwa": "Maszyny budowlane 3 w 1",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 68.99,
-  "najnizsza_data": "2026-10-21",
+  "najnizsza_cena": 67.99,
+  "najnizsza_data": "2026-10-28",
   "najnizsza_sklep": "mediaexpert"
  },
  "10471": {
