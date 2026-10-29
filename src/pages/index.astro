@@ -23,8 +23,17 @@ const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100
 // serie „kolekcjonerskie" na potrzeby doboru deala dnia i siatki 4×4 – ustalenie redakcyjne, nie publikujemy go na stronie
 const KOLEKCJONERSKIE = new Set(['Ideas', 'Icons', 'Star Wars', 'Technic', 'Harry Potter', 'Botanicals']);
 
+// Ceneo odpada razem z sitem: to porównywarka, nie sklep, więc nie może stanąć
+// za ceną ani za przyciskiem deala (ta sama reguła co w `najlepszaOferta`
+// w oferty.js i `najtanszaOferta` w deale.js). Odsiew jest tutaj, bo `oferty`
+// z tej listy karmią wszystkie dalsze funkcje — cenę, rabat i dobór oferty.
 const wpisy = Object.entries(sety)
-  .map(([nr, s]) => ({ nr, ...s, oferty: filtrujOferty(s.oferty, nr), foto: urlZdjecia(nr, { sety }) }))
+  .map(([nr, s]) => ({
+    nr,
+    ...s,
+    oferty: filtrujOferty(s.oferty, nr).filter((o) => o.sklep !== 'ceneo'),
+    foto: urlZdjecia(nr, { sety }),
+  }))
   .filter((s) => s.oferty?.length);
 
 // ── Deale dnia (slajder, do 5 odsłon): po jednym z każdej półki cenowej + 2 dzikie karty ──

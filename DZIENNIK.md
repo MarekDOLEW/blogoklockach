@@ -185,12 +185,21 @@ Trzy rzeczy warte zapisania, bo dotyczą każdego kolejnego dopisywania:
 4. **Poprawka tego samego dnia, mój błąd:** budując pole `oferty` wziąłem cały zestaw ofert
    z `oferty_feed`, razem z **Ceneo** — a żaden z 1217 wcześniejszych wpisów w `sety.json` Ceneo
    nie ma, bo to porównywarka, nie sklep (reguła opisana w `najlepszaOferta` i w `deale.js`).
-   Skutki były dwa i oba realne: `najlepszaCena` i `rabat` na stronie głównej liczyły się od ceny
-   Ceneo (31380 wychodziło −46% zamiast −35% od ceny sklepu), a po potwierdzeniu takiej oferty
-   przez `weryfikacja-ofert.mjs` (Ceneo jest w jego zakresie) karta w karuzeli mogła zaprosić
-   „Sprawdź w Ceneo" — czego `deale.js` zabrania wprost. Ceneo usunięte z tych dziewięciu wpisów;
-   tabela na hubie pokazuje je dalej, bo bierze je z feedu i renderuje jako ostatni wiersz.
-   Zasada na przyszłość: **`sety.json` trzyma oferty sklepów, Ceneo mieszka wyłącznie w feedzie.**
+   Ceneo usunięte z tych dziewięciu wpisów; tabela na hubie pokazuje je dalej, bo bierze je z feedu
+   i renderuje jako ostatni wiersz. Zasada na przyszłość: **`sety.json` trzyma oferty sklepów,
+   Ceneo mieszka wyłącznie w feedzie.**
+   **Korekta tej samej notatki, 29.10 po sprawdzeniu kodu zamiast czytania go z pamięci:** napisałem
+   tu najpierw, że „skutki były dwa i oba realne" — że `rabat` liczył się od ceny Ceneo (31380 jako
+   −46% zamiast −35%) i że karuzela mogła zaprosić „Sprawdź w Ceneo". **Pierwsze jest nieprawdą,
+   drugie niewykazane.** `rabat` i `najlepszaCena` liczą się na `wpisyPewne`, czyli po `tylkoPewne`,
+   a `ofertaPewna` przepuszcza bez potwierdzenia tylko sklepy z codziennym feedem (Media Expert,
+   Allegro, Planeta Klocków). Ceneo nie jest jednym z nich i w `weryfikacja_ofert.json` nie ma ani
+   jednego wpisu dla Ceneo (0 z 55), więc moje oferty Ceneo nie dotknęły ani ceny, ani rabatu, ani
+   żadnej karty. Realny skutek był **żaden**; złamana została sama spójność danych.
+   Co pokazał test A/B (oferta Ceneo 127,49 zł w `sety.json` plus sztuczne potwierdzenie z dziś):
+   bez odsiewu zestaw **wypada z karuzeli**, bo Ceneo zostaje jego „najtańszą ofertą" i przestawia
+   dobór półek — 77076 zniknął ze slajdera, a nie dostał przycisku „Sprawdź w Ceneo". Z odsiewem
+   karta zostaje na Media Expercie, czyli tak jak dziś na produkcji.
 
 ## 2026-10-29 05:20 · SCOUT · Do zrobienia
 
