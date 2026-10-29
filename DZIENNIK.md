@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-10-29 05:20 · SCOUT · Do zrobienia
+
+**Pierwsza partia stycznia 2027 ma polskie ceny i przedsprzedaż: 42709 Centrum zabawy i pielęgnacji dla zwierząt (219,99 zł), 42718 Imprezowy autobus przyjaciół (259,99 zł), 42719 Galeria handlowa Heartlake City (429,99 zł) i 67005 Marvel „A gdyby…?" Doctor Strange Supreme (429,99 zł, sześć minifigurek).**
+**Mamy?** — tak: huby `/zestaw/42709/`, `/zestaw/42718/`, `/zestaw/42719/`, `/zestaw/67005/` i tabela potwierdzonych w `/zapowiedzi-lego-2027/`; brakuje tekstu.
+**Zrobić:** — tekst o styczniowej fali Friends 2027 na podstawie tych hubów (według StoneWars styczeń to 13 zestawów Friends i dwa polybagi, więc ta trójka to pierwsza część); najmocniejszy pojedynczy temat to 67005 — cztery wersje zombie i Strange Supreme, których nie było w żadnym zestawie.
+**Kto:** — Piotr (tekst)
+
+
 
 ## 2026-10-28 09:05 · ŁOWCA · Do zrobienia
 
