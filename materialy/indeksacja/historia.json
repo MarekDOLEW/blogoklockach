@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-28"
+  "zaktualizowano": "2026-10-29"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -215,6 +215,23 @@
    "https://tylkoklocki.pl/zestaw/71808/",
    "https://tylkoklocki.pl/zestaw/75408/",
    "https://tylkoklocki.pl/zestaw/75410/"
+  ],
+  "2026-10-29": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/60464/",
+   "https://tylkoklocki.pl/zestaw/75408/",
+   "https://tylkoklocki.pl/zestaw/75410/",
+   "https://tylkoklocki.pl/zestaw/71808/",
+   "https://tylkoklocki.pl/zestaw/75443/",
+   "https://tylkoklocki.pl/zestaw/75449/",
+   "https://tylkoklocki.pl/zestaw/76308/",
+   "https://tylkoklocki.pl/zestaw/76320/",
+   "https://tylkoklocki.pl/zestaw/77242/",
+   "https://tylkoklocki.pl/zestaw/10425/",
+   "https://tylkoklocki.pl/zestaw/10427/",
+   "https://tylkoklocki.pl/zestaw/10447/",
+   "https://tylkoklocki.pl/zestaw/10458/",
+   "https://tylkoklocki.pl/zestaw/10464/"
   ]
  }
 }
