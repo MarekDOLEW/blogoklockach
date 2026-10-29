@@ -182,6 +182,15 @@ Trzy rzeczy warte zapisania, bo dotyczą każdego kolejnego dopisywania:
 3. **`premiera` to rok, nie miesiąc** (wyjątek 31380: `2026-01` z karty w `karty_setow.json`). Karty
    lego.com nie podają daty premiery, a `katalog.json` trzyma tylko `rok`; format `RRRR` ma precedens
    przy 77094. Miesiąca nie dopisuję „na oko", bo to pole steruje stronami `/nowosci/<miesiac>/`.
+4. **Poprawka tego samego dnia, mój błąd:** budując pole `oferty` wziąłem cały zestaw ofert
+   z `oferty_feed`, razem z **Ceneo** — a żaden z 1217 wcześniejszych wpisów w `sety.json` Ceneo
+   nie ma, bo to porównywarka, nie sklep (reguła opisana w `najlepszaOferta` i w `deale.js`).
+   Skutki były dwa i oba realne: `najlepszaCena` i `rabat` na stronie głównej liczyły się od ceny
+   Ceneo (31380 wychodziło −46% zamiast −35% od ceny sklepu), a po potwierdzeniu takiej oferty
+   przez `weryfikacja-ofert.mjs` (Ceneo jest w jego zakresie) karta w karuzeli mogła zaprosić
+   „Sprawdź w Ceneo" — czego `deale.js` zabrania wprost. Ceneo usunięte z tych dziewięciu wpisów;
+   tabela na hubie pokazuje je dalej, bo bierze je z feedu i renderuje jako ostatni wiersz.
+   Zasada na przyszłość: **`sety.json` trzyma oferty sklepów, Ceneo mieszka wyłącznie w feedzie.**
 
 ## 2026-10-29 05:20 · SCOUT · Do zrobienia
 
