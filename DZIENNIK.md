@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-10-29 08:05 · RADAR · Do zrobienia
+
+**faniklockow.pl · 28.10** — Trzy „Okazje Cenowe"; dwie sprawdziły się jako nasze własne minimum albo gorszą cenę (60506 ich 179 zł = nasz rekord z 02.10; 77259 ich 65 zł wyżej od naszych 59,99 z 07.09), ale trzecia — 72046 Game Boy, 157,69 zł u Ceneo przy katalogu 249,99 — dotyczy zestawu, którego nie ma w rejestrze; to drugi taki przypadek w dwa dni po 21333.
+**Mamy?** — częściowo: huby pokazują ceny z `oferty_feed`, ale **64 zestawy** z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25% (po sicie podejrzanego rynku) nie są w `sety.json` ani w `ceny_baza.json` — czyli bez śledzonego minimum, bez alertu cenowego i bez wejścia do „Dziś w dobrej cenie". Z 64 hubów 17 jest noindex, 47 indeksowalne.
+**Zrobić:** — zdecydować, ile z tej 64 dopisujemy do `sety.json` + `ceny_baza.json` przed szczytem sezonu i od jakiego progu rabatu (czoło listy: 77057 −48%, 77076 −47%, 76785 −47%, 31380 i 10713 −46%, 72046 −37%); pełna lista z nazwami, cenami i terminami wycofań w `materialy/zestawy-poza-rejestrem-2026-10-29.md`. Jeden wpis to para person plus minimum z `historia-cen`, więc 64 sztuki to wielkość do rozstrzygnięcia, nie do cichego zrobienia w przebiegu Radaru.
+**Kto:** — Marek (decyzja)
+
 ## 2026-10-29 05:20 · SCOUT · Do zrobienia
 
 **Pierwsza partia stycznia 2027 ma polskie ceny i przedsprzedaż: 42709 Centrum zabawy i pielęgnacji dla zwierząt (219,99 zł), 42718 Imprezowy autobus przyjaciół (259,99 zł), 42719 Galeria handlowa Heartlake City (429,99 zł) i 67005 Marvel „A gdyby…?" Doctor Strange Supreme (429,99 zł, sześć minifigurek).**

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-28",
-    "przebieg": "scheduled 2026-10-28 08:00",
+    "ostatnia_aktualizacja": "2026-10-29",
+    "przebieg": "scheduled 2026-10-29 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 331,
+    "liczba_wpisow": 339,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -41,7 +41,8 @@
       "2026-10-25": "Jedna publikacja, nic do zrobienia - szosty dzien rozbudowy hubow 2027, tym razem DC u faniklockow. Nasza sekcja DC w /zapowiedzi-lego-2027/ jest mocniejsza od ich, bo po aktualizacji z 19.10 trzyma 67008, 67009 i 67012 jako potwierdzone z cenami i przedsprzedaza, a nie jako przecieki. Odnotowanie techniczne: zadanie odpalilo sie dzis o 07:01 UTC zamiast 06:01, bo w nocy skonczyl sie czas letni - cron CRON_TZ=Europe/Warsaw zrobil swoje, godzina polska bez zmian (08:00). Wczorajsza pozycja o 75192 zostaje otwarta: cena 2699,90 zl w Media Expert potwierdzila sie drugi dzien z rzedu (feed 24.10), dealu nadal nie ma.",
       "2026-10-26": "Nic do zrobienia. Dwie publikacje: skrot popkulturowy u fanklockow i przedatowany na nowy adres wpis faniklockow o kumulacji z 20.10. Przy tym drugim sprawdzilem u zrodla, czy nie opisuja czegos nowego: lego.com/pl-pl wciaz ma wylacznie okno 20-27.10 z trzema gratisami, wiec to przedatowanie, nie nowa akcja. Przy okazji potwierdzone, ze nasz kalendarz jest aktualny co do okna 28.10-11.11 z gratisem 40889 (dodane innym commitem 25.10) i ze zdanie 'polskiego progu LEGO jeszcze nie opublikowalo' jest nadal prawdziwe - na karcie promocji 40889 nie ma wcale. Otwarta pozycja o 75192 trwa trzeci dzien: 2699,90 zl w Media Expert z data 25.10, dealu nadal nie ma.",
       "2026-10-27": "Nic do zrobienia, ale dwie rzeczy warte zapamietania. (1) Oba serwisy wydaly tego samego dnia liste premier listopadowych z dystrybucja - temat mamy pokryty strona /nowosci/listopad-2026/, sprawdzona dzis na produkcji: szesc pozycji, ceny katalogowe, elementy, zdjecia, i caly czas generowana z danych, wiec nie wymaga przepisywania co miesiac. (2) Ich cykl 'LEGO do szafy' przeszedl za sciane platna dla patronow. To potwierdza decyzje Marka z 19.10, zeby tego formatu nie gonic: tresc, ktora autor zamyka dla wplacajacych, nie pracuje na ruch z wyszukiwarki. Przy okazji czwarty dzien pozycji o 75192 i pierwsza zmiana jakosciowa: 2699,90 zl ma juz nie jeden sklep, tylko trzy (Media Expert, Ceneo, x-kom), a Allegro stoi 2758,90 - to ruch calego rynku, nie wybryk jednego sprzedawcy, wiec cena jest pewniejsza niz w piatek.",
-      "2026-10-28": "Cztery nowe publikacje, jedna pozycja - i wyszla z niej dziura w naszym rejestrze, nie temat do napisania. faniklockow wystawili 'Okazje Cenowa' na 21333 Gwiazdzista noc (Smyk 599 zl, u nich -26%). Dwa sprawdzenia rozbroily sama okazje: wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo juz 25.09 i 09.10, czyli to podloga tego sklepu, nie zjazd. Zostaje jednak rzecz wazniejsza: 21333 NIE MA w sety.json, mimo potwierdzonego wycofania na grudzien 2026. Numer jest w oferty_feed (empik 739,99, ceneo 599, lego 729,99, allegro 694,99, smyk 599) i w historia-cen (20 zapisow od 18.09), wiec hub pokazuje ceny, ale bez wpisu w rejestrze zestaw nie wejdzie do 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu. To ta sama klasa luki co 19 nieskledzonych zestawow z 11.10. Research domkniety u zrodla: 729,99 zl, 2316 elementow, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas. Drugie sprawdzenie dnia wyszlo dla nas dobrze: oba serwisy pisza o oknie gratisowym od 28.10, a nasz kalendarz ma je od 25.10 i zgadza sie co do zlotowki z regulaminem LEGO.pl (40889 od 540 zl, 30727 Star Wars od 165 zl, oba 28.10-08.11). Trzeci raz z rzedu nasz kalendarz byl na czas, a nie za nimi. Przy okazji ZAMKNIETA moja wlasna rozbieznosc z 17.10: karta 11388 na lego.com/pl-pl nadal mowi 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi 1.11 dla Insiders i 4.11 dla pozostalych - to nie sprzecznosc, tylko wczesny dostep, i tekst nie wymaga zmiany. Struktura: promoklocki bez zmian (te same kategorie i karty, paginacja 224). zklockow: /blog sprawdzony i MARTWY od 17.02.2021 - ale to stalo w obserwacjach strategicznych od sierpnia, wiec kredyt poszedl na pytanie juz rozstrzygniete; zapisane jako regula na przyszle przebiegi."
+      "2026-10-28": "Cztery nowe publikacje, jedna pozycja - i wyszla z niej dziura w naszym rejestrze, nie temat do napisania. faniklockow wystawili 'Okazje Cenowa' na 21333 Gwiazdzista noc (Smyk 599 zl, u nich -26%). Dwa sprawdzenia rozbroily sama okazje: wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo juz 25.09 i 09.10, czyli to podloga tego sklepu, nie zjazd. Zostaje jednak rzecz wazniejsza: 21333 NIE MA w sety.json, mimo potwierdzonego wycofania na grudzien 2026. Numer jest w oferty_feed (empik 739,99, ceneo 599, lego 729,99, allegro 694,99, smyk 599) i w historia-cen (20 zapisow od 18.09), wiec hub pokazuje ceny, ale bez wpisu w rejestrze zestaw nie wejdzie do 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu. To ta sama klasa luki co 19 nieskledzonych zestawow z 11.10. Research domkniety u zrodla: 729,99 zl, 2316 elementow, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas. Drugie sprawdzenie dnia wyszlo dla nas dobrze: oba serwisy pisza o oknie gratisowym od 28.10, a nasz kalendarz ma je od 25.10 i zgadza sie co do zlotowki z regulaminem LEGO.pl (40889 od 540 zl, 30727 Star Wars od 165 zl, oba 28.10-08.11). Trzeci raz z rzedu nasz kalendarz byl na czas, a nie za nimi. Przy okazji ZAMKNIETA moja wlasna rozbieznosc z 17.10: karta 11388 na lego.com/pl-pl nadal mowi 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi 1.11 dla Insiders i 4.11 dla pozostalych - to nie sprzecznosc, tylko wczesny dostep, i tekst nie wymaga zmiany. Struktura: promoklocki bez zmian (te same kategorie i karty, paginacja 224). zklockow: /blog sprawdzony i MARTWY od 17.02.2021 - ale to stalo w obserwacjach strategicznych od sierpnia, wiec kredyt poszedl na pytanie juz rozstrzygniete; zapisane jako regula na przyszle przebiegi.",
+      "2026-10-29": "Osiem nowych publikacji, jedna pozycja - i jest to ta sama dziura co wczoraj, tylko zmierzona. faniklockow wystawili trzy 'Okazje Cenowe'; sprawdzenie kazdej w naszych danych dalo trzy rozne wyniki i warto je zestawic: 60506 Tramwaj - ich cena 179 zl to CO DO ZLOTOWKI nasze minimum z ceny_baza (02.10, Media Expert), zestaw sledzony, nic do roboty; 77259 Bolid Audi - ich 65 zl u Ceneo jest WYZSZE od naszego minimum 59,99 zl z 07.09, tez nic; 72046 Game Boy - 157,69 zl u Ceneo przy katalogu 249,99 (-37%), szesc ofert, i zestawu NIE MA w sety.json ani w ceny_baza. Drugi taki przypadek w dwa dni (wczoraj 21333) przestaje byc przypadkiem, wiec policzylem cala populacje zamiast zglaszac kolejny numer pojedynczo: 64 ZESTAWY maja potwierdzone RRP, co najmniej dwie oferty i rabat >=25% po sicie podejrzanego rynku, a nie sa w sety.json. Czolo listy: 77057 -48%, 77076 -47%, 76785 -47%, 31380 i 10713 -46%. Z 64 hubow 17 jest noindex (cienkie), 47 indeksowalne - wiec szkoda nie jest wszedzie ta sama, ale wspolna czesc jest u kazdego: brak wpisu w ceny_baza to brak sledzonego minimum, brak alertu cenowego i brak wejscia do bloku 'Dzis w dobrej cenie', ktory iteruje po sety.json. To zmierzona wersja notatki z 11.10 (tam 19 zestawow, ale tylko z RRP >= 1000 zl). Wazne dla oceny skali: 'brak w sety.json' NIE znaczy, ze cena jest niewidoczna - huby te maja tabele z oferty_feed. Chodzi o sledzenie, alerty i wyroznione miejsca. Wniosek z wczorajszego dnia dopisany tutaj, bo dotyczy tej samej mechaniki: cena 599 zl na 21333, o ktora Marek pytal przy tekscie dealowym, ZNIKNELA - karta Smyku sprawdzona 28.10 mowi 'Produkt niedostepny' i nie ma na niej zadnej kwoty. W naszych danych 599 zl stoi dalej z data 27.10, bo ceny Smyka odswiezamy we wtorki, a reguła Marka z 26.10 mowi wprost, ze tabele na stronach zestawow pokazuja wszystkie oferty z data odczytu (bramka swiezosci dotyczy tylko slajderow). Tekstu dealowego nie napisalem i pytanie o szkic czeka na odpowiedz. Struktura: promoklocki bez zmian - te same 15 kategorii, zadnej nowej sekcji ani funkcji, paginacja 224 -> 225 (nowe produkty 67005, 42718, 42719). zklockow dzisiaj NIE sprawdzany: wczoraj potwierdzone, ze /blog jest martwy od 2021, a /aktualnosci to log produktow, nie publikacje - to zastosowanie wczorajszej reguly o niewydawaniu kredytu na pytanie juz rozstrzygniete."
     }
   },
   "publikacje": [
@@ -3967,6 +3968,101 @@
         "smyk"
       ],
       "notatki": "Smyk 599 zl, u nich opisane jako -26%. Wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo tez 25.09 i 09.10 - to powtarzalna podloga tego sklepu, nie swieza okazja (sufiks -4 w ich URL potwierdza wzorzec 'farma long-taila' z 22.08). Realna luka jest inna i jest w naszych danych: 21333 NIE MA w sety.json, choc ma potwierdzone wycofanie na grudzien 2026 i jest w oferty_feed oraz historia-cen. Bez wpisu w rejestrze zestaw nie wejdzie do bloku 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu cenowego w szczycie sezonu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: LEGO/BLDP 910068 Uniwersytet Naukowy",
+      "url": "https://fanklockow.pl/recenzja-lego-bricklink-910068-uniwersytet-naukowy/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "recenzja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja wideo - ich mocna strona i format, ktorego nie prowadzimy. BLDP poza naszym zakresem cenowym w feedach."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Mattel Brick Shop z budowalnymi resorakami!",
+      "url": "https://fanklockow.pl/mattel-brick-shop-z-budowalnymi-resorakami/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Obca marka (Mattel), poza zakresem serwisu o LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO/BlueOcean: gazetki na grudzien 2026",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-blueocean-gazetki-na-grudzien-2026/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Gazetki BlueOcean - nie prowadzimy tej kategorii, brak zrodla danych i brak sciezki zakupowej w naszych sklepach."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO/BlueOcean: gazetki na listopad 2026",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-blueocean-gazetki-na-listopad-2026/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej - druga czesc tej samej serii."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Kolorowi astronauci LEGO - gdzie ich znalezc?",
+      "url": "https://fanklockow.pl/kolorowi-astronauci-lego-gdzie-ich-znalezc/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "historia",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Drugi dzien watku Classic Space u obu serwisow (po 'Klasycznych Kosmonautach' faniklockow z 27.10). Tresc inwentaryzacyjna per minifigurka, bez decyzji zakupowej."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (City) - 60506 Tramwaj Przy Plazy",
+      "url": "https://faniklockow.pl/2026/10/28/okazja-cenowa-city-60506-tramwaj-przy-plazy/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "ceneo",
+        "mediaexpert"
+      ],
+      "notatki": "Sprawdzone w naszych danych: 179 zl stoi u Media Expertu i na Ceneo wobec katalogu 299,99 (-40%), i to DOKLADNIE nasze minimum z ceny_baza (179 zl, 02.10, Media Expert). Zestaw jest w sety.json, cena widoczna na hubie, nic do zrobienia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Super Mario) - 72046 Game Boy",
+      "url": "https://faniklockow.pl/2026/10/28/okazja-cenowa-super-mario-72046-game-boy-5/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "ceneo"
+      ],
+      "notatki": "Piaty post o cenie tego samego zestawu (sufiks -5, wzorzec 'farma long-taila' z 22.08). Nasze dane: Ceneo 157,69 wobec potwierdzonego katalogu 249,99 (-37%), szesc ofert. Zestawu NIE MA w sety.json ani w ceny_baza - drugi taki przypadek w dwa dni po 21333, co kazalo policzyc cala populacje: 64 zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem >=25% (po sicie 50%) sa poza rejestrem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Speed Champions) - 77259 Bolid Audi Revolut F1 Team R26",
+      "url": "https://faniklockow.pl/2026/10/28/okazja-cenowa-speed-champions-77259-bolid-audi-revolut-f1-team-r26-3/",
+      "data_publikacji": "2026-10-28",
+      "data_wykrycia": "2026-10-29",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "ceneo"
+      ],
+      "notatki": "Ceneo 65 zl wobec katalogu 114,99 (-43%), ale nasze minimum jest nizsze: 59,99 zl z 07.09 u Allegro. Zestaw w sety.json i ceny_baza, wycofanie potwierdzone na grudzien 2026. Nic do zrobienia."
     }
   ],
   "obserwacje_strategiczne": {
