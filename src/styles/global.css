@@ -1445,8 +1445,9 @@ main a:not([class]):has(img) { background: none; text-decoration: none; }
 /* ---------- Aktualności (27.09.2026): karta 2 w rzędzie, slajder na głównej ---------- */
 .akt-karta { display: flex; flex-direction: column; overflow: hidden; text-decoration: none; color: var(--granat); border-top: 5px solid var(--zolty); transition: transform 0.12s ease, box-shadow 0.12s ease; min-width: 0; }
 .akt-karta:hover { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(23,35,63,0.14); }
-.akt-foto { display: flex; align-items: center; justify-content: center; aspect-ratio: 16 / 9; background: #fff; border-bottom: 1px solid var(--linia); }
-.akt-foto img { width: 100%; height: 100%; object-fit: contain; padding: 10px; }
+.akt-foto { position: relative; display: flex; align-items: center; justify-content: center; aspect-ratio: 16 / 9; overflow: hidden; background: #fff; border-bottom: 1px solid var(--linia); }
+/* Zdjęcie zawsze mieści się w ramce 16:9 — pionowe okładki (np. obrazy Art) nie rozpychają karty (Marek 29.10.2026). */
+.akt-foto img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; padding: 10px; }
 .akt-tresc { display: flex; flex-direction: column; gap: 8px; padding: 16px 18px 18px; flex: 1; }
 .akt-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 0.8rem; color: var(--granat-60); }
 .akt-etykieta { font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: var(--granat); }
