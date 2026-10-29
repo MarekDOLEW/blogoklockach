@@ -166,8 +166,32 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 10713 Kreatywna walizka, 77058 Przytulny dom Goldie, 31214 LOVE, 75689 Emerald City i Kiamo Ko
 Castle, 77055 Able Sisters i sklep odzieżowy. Wszystkie dziewięć hubów jest po buildzie
 indeksowalnych — 77057 i 77058 były wcześniej noindex, persony przeważyły próg treści.
-Pozostałe **55 pozycji z przedziału 25–39%** zostaje na liście w
-`materialy/zestawy-poza-rejestrem-2026-10-29.md`; bez decyzji ich nie dopisuję.
+→ **domknięte 29.10.2026: Marek — „dopisz pozostałe z przedziału 25-39%".** Dopisane wszystkie 55
+(`sety.json` 1226 → 1281, `ceny_baza.json` 1145 → 1200), czyli cała lista z
+`materialy/zestawy-poza-rejestrem-2026-10-29.md` jest wyczerpana. Po buildzie **żaden z 55 hubów
+nie ma noindex** — przed dopisaniem 15 z nich było cienkich.
+
+Co poszło nie tak po drodze i jak to wyszło (warto, bo powtórzy się przy następnej partii):
+- **Cztery huby zostały pod progiem** (77001, 76458, 75415, 10345): `MIN_ZNAKOW_OPISU` w `seo.js`
+  to 300 znaków `opis + dla_rodzica + dla_afol`, a moje persony miały 275–291. Dopisane zdania
+  z tych samych danych, nie z domysłów; po poprawce 411–527 znaków i cała czwórka weszła do indeksu.
+  Na przyszłość: para person poniżej ~320 znaków nie wystarcza, żeby hub był indeksowalny.
+- **Pusta strona serii.** 77037 dostał `seria: "Horizon Adventures"`, bo tak nazywa tę serię
+  `karty_setow.json` i Rebrickable — ale w `katalog.json` zestaw siedzi pod „Archiwum", więc
+  `/serie/horizon-adventures/` wygenerowała się z `numberOfItems: 0`, indeksowalna i pusta.
+  Powód jest w `src/pages/serie/[seria].astro`: zestaw spoza katalogu wchodzi na stronę serii tylko
+  z premierą w formacie `RRRR-MM`, a ja miałem sam rok. Rebrickable podał 1 marca 2025, więc
+  `premiera` to teraz `2025-03` i strona ma swój jeden zestaw. **Reguła: nadając serię, której nie
+  ma w `katalog.json`, trzeba mieć premierę co do miesiąca, inaczej robi się pusta strona serii.**
+- **Pole `wiek` zostawiłem puste w 6 wpisach** (10345, 10696, 10698, 60205, 60238, 75415): ani
+  `karty_setow.json`, ani zapisane karty lego.pl w `materialy/opisy-lego/` nie podają wieku.
+  Przy 76303 wpisałem najpierw „8+" z głowy i **usunąłem to** — karta tego nie potwierdza.
+  Do uzupełnienia, gdy ktoś będzie i tak pobierał te karty.
+
+Dane: nazwy polskie z `katalog.json` albo z feedu Planety Klocków, liczba elementów z `katalog.json`
+(zgodna co do sztuki dla wszystkich 55), `wiek` i `premiera` z metryk w `karty_setow.json`, reszta
+premier to rok z katalogu. Minimum do `ceny_baza` liczone jak poprzednio: po sicie 50% RRP i bez
+ofert odrzuconych — skrypt dopisujący sam to sprawdza i przerywa przy rozjeździe.
 
 Trzy rzeczy warte zapisania, bo dotyczą każdego kolejnego dopisywania:
 1. **Minimum do `ceny_baza` liczymy po sicie serwisu, nie po surowej historii cen.** Dwa z dziewięciu

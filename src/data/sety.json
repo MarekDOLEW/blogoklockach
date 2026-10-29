@@ -46552,5 +46552,2268 @@
     "data": "2026-10-26"
    }
   ]
+ },
+ "10345": {
+  "nazwa": "Kwiatowa kompozycja",
+  "seria": "Botanicals",
+  "cena_katalogowa": 469.99,
+  "elementy": 1161,
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Bukiet z klocków do wazonu — prezent dla dorosłego, budowa spokojna i powtarzalna, bez zabawy po złożeniu. Gotowy bukiet nie więdnie i nie wymaga wazonu z wodą, co bywa głównym argumentem przy takim prezencie.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,30 zł za element przy 349 zł wobec 0,40 zł katalogowo; Botanicals to najtańsze źródło elementów roślinnych w dużych ilościach. Wycofanie w grudniu zamyka najtańsze okno: Botanicals rzadko schodzi niżej niż trzy czwarte ceny katalogowej, a po EOL kolejnych obniżek już nie ma.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 349,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 448.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 469.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "10696": {
+  "nazwa": "Kreatywne klocki — pudełko, średni zestaw",
+  "seria": "Classic",
+  "cena_katalogowa": 124.99,
+  "elementy": 484,
+  "premiera": "2015",
+  "opis": "",
+  "dla_rodzica": "Pudełko klocków bez jednego modelu do złożenia — kupuje się je po to, żeby dziecko budowało własne pomysły. Najbezpieczniejszy prezent z całej listy, bo nie zestarzeje się po jednym wieczorze i uzupełnia każdy inny zestaw.",
+  "dla_afol": "W sprzedaży od 2015 roku i nadal w ofercie, co samo mówi, jak dobrze się sprzedaje. Przy 79 zł wychodzi 0,16 zł za element — jedno z najtańszych źródeł podstawowych kolorów i kół w całym katalogu.",
+  "oferty": [
+   {
+    "sklep": "lego",
+    "cena": 124.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 84.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 85.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 99.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "10698": {
+  "nazwa": "Kreatywne klocki",
+  "seria": "Classic",
+  "cena_katalogowa": 209.99,
+  "elementy": 790,
+  "premiera": "2015",
+  "opis": "",
+  "dla_rodzica": "Duże pudełko klocków bez instrukcji do jednego modelu — podstawa, na której dziecko buduje własne pomysły przez lata. Jeśli wybierasz jeden zestaw na start, to ten.",
+  "dla_afol": "790 elementów za 138,99 zł to 0,18 zł za sztukę i najtańsze masowe źródło kolorów w katalogu. W sprzedaży od 2015 roku nieprzerwanie.",
+  "oferty": [
+   {
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 146.36,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 185.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 144.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "10788": {
+  "nazwa": "Koci domek Gabi",
+  "seria": "Koci Domek Gabi",
+  "cena_katalogowa": 339.99,
+  "elementy": 498,
+  "wiek": "4+",
+  "premiera": "2023",
+  "opis": "",
+  "dla_rodzica": "Osiem pomieszczeń połączonych przesuwaną windą — domek do zabawy, nie do ekspozycji, i jeden z niewielu dużych zestawów naprawdę przystosowanych dla czterolatka.",
+  "dla_afol": "0,48 zł za element przy 237,60 zł; jak przy każdym 4+ przelicznik jest słaby, bo elementy są duże. W sprzedaży od 2023 roku.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 252.97,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 249.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 339.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 237.6,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 306.89,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 262.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "11201": {
+  "nazwa": "Blue i Łatka na placu zabaw",
+  "seria": "Bluey",
+  "cena_katalogowa": 81.99,
+  "elementy": 104,
+  "wiek": "4+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Najmniejszy zestaw Bluey: huśtawka, zjeżdżalnia, małpi gaj i obracający się pelikan. Konstrukcja 4+, więc czterolatek poradzi sobie w dużej mierze sam.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,56 zł za element — drogo, ale to cena każdego zestawu 4+; bierze się go za figurki Blue i Łatki.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 64.23,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 64.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 71.6,
+    "data": "2026-10-29"
+   }
+  ]
+ },
+ "11202": {
+  "nazwa": "Blue i rodzinna wycieczka samochodem",
+  "seria": "Bluey",
+  "cena_katalogowa": 124.99,
+  "elementy": 133,
+  "wiek": "4+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Zestaw 4+, czyli z dużymi, prostymi elementami i konstrukcją, którą czterolatek złoży w dużej części sam. Samochód z otwieranym dachem, deski surfingowe i trzy figurki z serialu.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,65 zł za element to drogo, ale zestawy 4+ zawsze mają gorszy przelicznik, bo elementy są duże — tu płaci się za figurki Blue, Bingo i Czili.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 86.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 99.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 124.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 86.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 123.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 99.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "11203": {
+  "nazwa": "Dom rodzinny Blue",
+  "seria": "Bluey",
+  "cena_katalogowa": 299.99,
+  "elementy": 382,
+  "wiek": "4+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Największy zestaw Bluey: modułowe pomieszczenia, które można odłączać i ustawiać inaczej, oraz cztery figurki z serialu. Przemyślany jako zabawka dla czterolatka, a nie jako model.",
+  "dla_afol": "0,55 zł za element — typowo dla 4+, gdzie duże elementy zaniżają przelicznik. Licencja Bluey jest świeża i zestawów jest mało, więc wybór ogranicza się do trzech pozycji.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 228.8,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 209.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 210.33,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 289.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 224.5,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21034": {
+  "nazwa": "Londyn",
+  "seria": "Architecture",
+  "cena_katalogowa": 169.99,
+  "elementy": 468,
+  "wiek": "12+",
+  "premiera": "2016",
+  "opis": "",
+  "dla_rodzica": "Panorama Londynu do postawienia na półce — budowa spokojna, bez funkcji do zabawy. Dobry prezent dla nastolatka po wycieczce albo uczącego się angielskiego.",
+  "dla_afol": "W sprzedaży od 2016 roku, czyli jeden z najdłużej żyjących Architecture. 0,24 zł za element przy 110,99 zł; Tower Bridge, Big Ben i London Eye w jednej linii to nadal najlepiej rozpoznawalny zestaw tej serii.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 126.88,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 119.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 121.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediamarkt",
+    "cena": 129.99,
+    "data": "2026-10-20"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 164.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 137.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21060": {
+  "nazwa": "Zamek Himeji",
+  "seria": "Architecture",
+  "cena_katalogowa": 689.99,
+  "elementy": 2125,
+  "wiek": "18+",
+  "premiera": "2023",
+  "opis": "",
+  "dla_rodzica": "Duży model architektoniczny dla dorosłego — 19 cm wysokości i 32 na 27 cm podstawy. Budowa spokojna i długa, efekt wyłącznie ekspozycyjny.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026, a to jeden z lepiej ocenianych Architecture ostatnich lat. 0,22 zł za element przy 475,80 zł wobec 0,32 zł katalogowo — przy dużych Architecture po EOL cena zwykle zawraca w górę.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 512.15,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 689.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 509.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 649.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 509.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21061": {
+  "nazwa": "Notre-Dame w Paryżu",
+  "seria": "Architecture",
+  "cena_katalogowa": 999.99,
+  "elementy": 4382,
+  "wiek": "18+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Największy zestaw na tej liście i wyłącznie dla dorosłego — budowa przechodzi przez kolejne etapy powstawania katedry i zajmuje wiele wieczorów.",
+  "dla_afol": "4382 elementy za 719,99 zł to 0,16 zł za sztukę wobec 0,23 zł katalogowo — najlepszy przelicznik z całej listy. Model odtwarza katedrę sprzed pożaru z 2019 roku.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 764,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 999.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 999.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 769.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21062": {
+  "nazwa": "Fontanna di Trevi",
+  "seria": "Architecture",
+  "cena_katalogowa": 689.99,
+  "elementy": 1880,
+  "wiek": "18+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Szeroki model ekspozycyjny dla dorosłego — fasada Palazzo Poli z basenem fontanny. Budowa długa, bez elementów zabawowych.",
+  "dla_afol": "0,26 zł za element przy 487,66 zł wobec 0,37 zł katalogowo. Trzy grupy rzeźbiarskie w formacie minifigurkowym to w Architecture rozwiązanie nowe i warte obejrzenia.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 487.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 689.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 519.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 487.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 699.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 544.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21349": {
+  "nazwa": "Czarno-biały kot",
+  "seria": "Ideas",
+  "cena_katalogowa": 419.99,
+  "elementy": 1710,
+  "wiek": "18+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Kot w naturalnej wielkości do postawienia na komodzie — budowa dla dorosłego, bez funkcji zabawowych.",
+  "dla_afol": "Wycofanie zapowiedziane na 2026 rok. 0,18 zł za element przy 310,19 zł wobec 0,25 zł katalogowo; Ideas po zejściu z produkcji rzadko tanieje dalej, a ten zestaw ma wyjątkowo szeroką publiczność.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 329.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "21583": {
+  "nazwa": "Przygoda Steve'a w tajdze",
+  "seria": "Minecraft",
+  "cena_katalogowa": 41.99,
+  "elementy": 79,
+  "wiek": "6+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Najmniejszy zestaw z listy: fragment tajgi ze skrzynią i ukrytym diamentem, na krótką zabawę. Dobry jako drobny prezent albo pierwszy Minecraft dla sześciolatka.",
+  "dla_afol": "0,36 zł za element przy 28,70 zł — przy tak małych pudełkach przelicznik zawsze jest słaby i nie o niego tu chodzi. Premiera 1 stycznia 2026.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 28.7,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 28.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 41.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 29.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 36.26,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 29.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 46.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21584": {
+  "nazwa": "Podróż przez portal Netheru",
+  "seria": "Minecraft",
+  "cena_katalogowa": 61.99,
+  "elementy": 192,
+  "wiek": "7+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Dwa wymiary gry w jednej konstrukcji — Nether i Kres — więc dziecko znające Minecrafta rozpozna je od razu. Mały zestaw na jedno popołudnie, dobry jako prezent uzupełniający.",
+  "dla_afol": "Premiera 1 stycznia 2026, a wycofanie już potwierdzone na grudzień 2026 — rocznik zamknięty w dwanaście miesięcy. 0,21 zł za element przy 39,99 zł wobec 0,32 zł katalogowo.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 49.38,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 49.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 61.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 53.93,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 43.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 60.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21585": {
+  "nazwa": "Farma kurczaków",
+  "seria": "Minecraft",
+  "cena_katalogowa": 81.99,
+  "elementy": 233,
+  "wiek": "7+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Kurnik w kształcie wielkiego kurczaka — konstrukcja, którą dziecko rozpozna z daleka, z funkcjami zabawy w środku. Premiera ze stycznia 2026, więc zestaw jest świeży.",
+  "dla_afol": "0,24 zł za element przy 56,90 zł wobec 0,35 zł katalogowo. Dobry dawca jasnobrązowych i białych elementów.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 57.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 64.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 59.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 56.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 71.6,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 56.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 74.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "21586": {
+  "nazwa": "Blady ogród",
+  "seria": "Minecraft",
+  "cena_katalogowa": 81.99,
+  "elementy": 243,
+  "wiek": "7+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Zestaw oparty na bladym biomie z gry — stonowane kolory i skrzypiące serce ukryte w drzewie. Dziecko grające w Minecrafta rozpozna lokację od razu.",
+  "dla_afol": "Premiera 1 stycznia 2026. 0,23 zł za element przy 55,99 zł wobec 0,34 zł katalogowo; blady dąb daje elementy w kolorach, których wcześniej w Minecrafcie nie było.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 58.47,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 61.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 59.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 55.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 71.6,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 55.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 74.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "31212": {
+  "nazwa": "Droga Mleczna",
+  "seria": "Art",
+  "cena_katalogowa": 869.99,
+  "elementy": 3091,
+  "wiek": "18+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Obraz na ścianę o szerokości 65 cm, budowany przez dorosłego — to nie jest zestaw dla dziecka ani pod względem ceny, ani sposobu składania.",
+  "dla_afol": "3091 elementów za 598 zł to 0,19 zł za sztukę wobec 0,28 zł katalogowo — na tle serii Art, gdzie zwykle płaci się za nadruki, bardzo dobry wynik. Największy zestaw Art w sprzedaży.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 653.67,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 629.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 869.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 613.39,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 869.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 659.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "31215": {
+  "nazwa": "Słoneczniki Vincenta van Gogha",
+  "seria": "Art",
+  "cena_katalogowa": 869.99,
+  "elementy": 2615,
+  "wiek": "18+",
+  "premiera": "2025-01",
+  "opis": "",
+  "dla_rodzica": "Obraz do powieszenia na ścianie, budowany przez dorosłego przez wiele wieczorów — nie jest to prezent dla dziecka.",
+  "dla_afol": "0,23 zł za element przy 609 zł wobec 0,33 zł katalogowo. Drugi po „Gwiaździstej nocy\" duży van Gogh w ofercie; jeśli masz 21333, ta para działa na ścianie razem.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 609,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 689.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 869.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 613.39,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 669.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "31216": {
+  "nazwa": "Keith Haring — tańczące postacie",
+  "seria": "Art",
+  "cena_katalogowa": 519.99,
+  "elementy": 1773,
+  "wiek": "18+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Pięć kolorowych figur do ustawienia na półce lub na ścianie — dekoracja dla dorosłego, bez funkcji zabawowych.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,21 zł za element przy 369,99 zł wobec 0,29 zł katalogowo — i w odróżnieniu od obrazów z tej serii to pięć osobnych brył, nie płaska mozaika z nadruków.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 399.89,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 428.28,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 519.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 369.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediamarkt",
+    "cena": 419.99,
+    "data": "2026-10-20"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 529.99,
+    "data": "2026-10-29"
+   }
+  ]
+ },
+ "31376": {
+  "nazwa": "Uroczy chomik z kwiatkiem",
+  "seria": "Creator",
+  "cena_katalogowa": 41.99,
+  "elementy": 166,
+  "wiek": "7+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Chomik z ruchomą głową i dwa alternatywne modele z tych samych klocków — mały, tani zestaw dla siedmiolatka, dobry na prezent uzupełniający.",
+  "dla_afol": "0,17 zł za element przy 28,99 zł to najlepszy przelicznik wśród małych Creatorów z tego rocznika. Premiera 1 stycznia 2026.",
+  "oferty": [
+   {
+    "sklep": "empik",
+    "cena": 35.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 41.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 29.39,
+    "data": "2026-10-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 29,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 35.8,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 29,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "31377": {
+  "nazwa": "Żółw i kwiat lilii wodnej",
+  "seria": "Creator",
+  "cena_katalogowa": 41.99,
+  "elementy": 124,
+  "wiek": "7+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Creator 3 w 1 w najmniejszym wydaniu: żółw z ruchomą głową, a z tych samych klocków dwa inne zwierzęta. Tani sposób, żeby pokazać dziecku, że jeden zestaw to nie jeden model.",
+  "dla_afol": "0,23 zł za element przy 28,90 zł. Premiera 1 stycznia 2026; zielone i różowe elementy roślinne w małym pudełku.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 30,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 35.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 41.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 28.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 35.8,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 28.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 45.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "40814": {
+  "nazwa": "Słoniątko na niebie",
+  "seria": "Seasonal",
+  "cena_katalogowa": 124.99,
+  "elementy": 402,
+  "wiek": "18+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "To dekoracja na prezent z okazji narodzin dziecka albo baby shower, a nie zabawka dla malucha — oznaczenie 18+ dotyczy budowy, nie tematu. Słoniątko na chmurce z ruchomą głową stoi potem na półce w pokoju dziecka.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Przy 402 elementach katalog 124,99 zł to 0,31 zł za element, a po obniżce do 77 zł schodzi do 0,19 zł — jak na zestaw okolicznościowy bardzo dobrze, bo te zwykle są drogie za sztukę.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 195.31,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 89.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 124.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 80.63,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 106.94,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 92.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "60205": {
+  "nazwa": "Tory",
+  "seria": "City",
+  "cena_katalogowa": 81.99,
+  "elementy": 20,
+  "premiera": "2018",
+  "opis": "",
+  "dla_rodzica": "Zestaw dodatkowych torów do kolejki City: proste i łuki, bez pociągu. Kupuje się go dopiero wtedy, gdy dziecko ma już zestaw z lokomotywą i brakuje mu miejsca na rozbudowę trasy.",
+  "dla_afol": "Dwadzieścia elementów za 81,99 zł katalogowo to 4,10 zł za sztukę — przy torach płaci się za rozmiar i formę, nie za liczbę klocków. Przy 54 zł to standardowa cena rynkowa tego dodatku, nie okazja życia.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 54,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 60.77,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 54,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 75.32,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 60.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 69.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "60238": {
+  "nazwa": "Zwrotnice",
+  "seria": "City",
+  "cena_katalogowa": 81.99,
+  "elementy": 8,
+  "premiera": "2018",
+  "opis": "",
+  "dla_rodzica": "To nie zestaw do zbudowania, tylko akcesorium do kolejki: dwie zwrotnice, lewa i prawa, do rozbudowy istniejącego toru. Kupuje się je wtedy, gdy dziecko ma już pociąg i chce bocznicę.",
+  "dla_afol": "Osiem elementów za 81,99 zł katalogowo to 10,25 zł za sztukę i najdroższy przelicznik, jaki zobaczysz w LEGO — ale przy zwrotnicach płaci się za mechanizm, nie za klocki. Przy 52,89 zł to po prostu najtańszy moment na rozbudowę toru.",
+  "oferty": [
+   {
+    "sklep": "empik",
+    "cena": 65.44,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 52.89,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 80.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 61.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "71492": {
+  "nazwa": "Ognisty kameleon Mateo",
+  "seria": "DREAMZzz",
+  "cena_katalogowa": 209.99,
+  "elementy": 443,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Jeden model, który po zbudowaniu rozwija się w dwóch wariantach — dziecko wybiera, co zbudować, i może przerabiać. Taki układ dobrze działa u siedmiolatka, bo zestaw nie kończy się po pierwszym złożeniu.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026, jak prawie cała bieżąca fala DREAMZzz. 0,32 zł za element przy 139,99 zł; seria ma nietypowe kolory i części smoczo-potworne, które przydają się w MOC-ach.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 157.94,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 143.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 146.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 146.36,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 195.29,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 159.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "71499": {
+  "nazwa": "Sprayowa ciężarówka Mateo",
+  "seria": "DREAMZzz",
+  "cena_katalogowa": 419.99,
+  "elementy": 929,
+  "wiek": "9+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Duża ciężarówka z dwoma wariantami przebudowy, pięć minifigurek i trzy dodatkowe figurki — jeden z najlepiej wyposażonych zestawów DREAMZzz. Dla dziewięciolatka budowa rozłożona na kilka sesji.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,30 zł za element przy 280,12 zł; osiem figurek w jednym pudełku to najtańsza droga do obsady tej serii.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 280.12,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 324.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 293.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 287,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 395.24,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 335.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "71500": {
+  "nazwa": "Koszmarny Rekinokręt podwodny",
+  "seria": "DREAMZzz",
+  "cena_katalogowa": 599.99,
+  "elementy": 1413,
+  "wiek": "9+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Największy zestaw DREAMZzz na tej liście: wielki rekin, który przekształca się w jeden z dwóch pojazdów, pięć minifigurek i cztery dodatkowe figurki. Budowa na wiele wieczorów.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 1413 elementów za 409,90 zł to 0,29 zł za sztukę wobec 0,42 zł katalogowo — przy zestawie schodzącym z produkcji to moment, w którym warto patrzeć.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 455.24,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 486.98,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 417.4,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 576.59,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 476.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "72046": {
+  "nazwa": "Game Boy",
+  "seria": "Super Mario",
+  "cena_katalogowa": 249.99,
+  "elementy": 421,
+  "wiek": "18+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "To replika konsoli do postawienia na półce, nie zabawka — nie ma tu funkcji do zabawy, a oznaczenie 18+ bierze się z detali i sposobu budowania. Dobry prezent dla nastolatka albo dorosłego z nostalgią za Nintendo.",
+  "dla_afol": "Katalogowe 0,59 zł za element to dużo, ale przy 157,69 zł robi się 0,37 zł. Wymienne „kartridże\" i wyświetlacz z dwoma ekranami to najciekawsza część konstrukcji; zestaw jest w sprzedaży od 2025 i cena spadła już trwale poniżej 200 zł.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 157.69,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 249.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 176.22,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 264.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 188.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 193.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "72151": {
+  "nazwa": "Eevee",
+  "seria": "Pokémon",
+  "cena_katalogowa": 249.99,
+  "elementy": 587,
+  "wiek": "18+",
+  "premiera": "2026",
+  "opis": "",
+  "dla_rodzica": "Model Eevee do postawienia na półce, oznaczony 18+ ze względu na złożoność budowy — nie jest to zabawka dla młodszego dziecka, choć sama postać trafia do dzieci.",
+  "dla_afol": "0,28 zł za element przy 165,99 zł wobec 0,43 zł katalogowo. Zestaw z 2026 roku, więc spadek do dwóch trzecich ceny katalogowej w pierwszym roku jest szybszy, niż zwykle bywa przy Pokémonach.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 189.76,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 169.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 249.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 183.75,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediamarkt",
+    "cena": 189.99,
+    "data": "2026-10-20"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 242.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 194.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75415": {
+  "nazwa": "Hełm Kylo Rena",
+  "seria": "Star Wars",
+  "cena_katalogowa": 299.99,
+  "elementy": 529,
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Hełm na podstawce do postawienia na półce — zestaw ekspozycyjny dla dorosłego fana, bez wartości zabawowej. Dla dziecka nie ma tu nic do zabawy: hełm stoi i tyle.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026, a hełmy Star Wars po EOL należą do najpewniej trzymających cenę pozycji tej serii. 0,42 zł za element przy 221,97 zł wobec 0,57 zł katalogowo. Przy 529 elementach budowa zajmuje jeden wieczór i jest powtarzalna — tę serię kupuje się za efekt na półce, nie za sam proces.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 254.98,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 221.97,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "75428": {
+  "nazwa": "Droid bojowy z platformą STAP",
+  "seria": "Star Wars",
+  "cena_katalogowa": 559.99,
+  "elementy": 1088,
+  "wiek": "12+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Duża figura droida bojowego z „Mrocznego widma\" — model ekspozycyjny, nie zabawka, mimo że temat dziecięcy.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,39 zł za element przy 419,99 zł wobec 0,51 zł katalogowo; duże figury Star Wars po EOL zwykle drożeją, bo nie mają następców w tej skali.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 450,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 447.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "75435": {
+  "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+  "seria": "Star Wars",
+  "cena_katalogowa": 649.99,
+  "elementy": 976,
+  "wiek": "9+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Duży pojazd Separatystów z obsadą droidów — zestaw do zabawy mimo rozmiaru, dla dziecka od dziewięciu lat budowa na kilka wieczorów.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,50 zł za element przy 484,99 zł to nadal drogo — w Star Wars płaci się za licencję, a MTT nigdy nie schodzi tak nisko jak zestawy City tej wielkości.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 499.76,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 549.98,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 649.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 499.76,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 499,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 514.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75636": {
+  "nazwa": "Chatka w wiosce Fuusha",
+  "seria": "One Piece",
+  "cena_katalogowa": 124.99,
+  "elementy": 298,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Sklep i przystań z wioski Luffy'ego, ze zdejmowanym dachem i dostępem do wnętrza — zabawa polega na odgrywaniu scen, nie na samej budowie. Trzy minifigurki w pudełku to dużo jak na ten rozmiar.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Luffy, Shanks i Makino w jednym zestawie za 79,98 zł to najtańsza droga do tych trzech figurek; 0,27 zł za element wobec 0,42 zł katalogowo.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 94.67,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 79.98,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 124.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 82.16,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 123.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 106.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75637": {
+  "nazwa": "Namiot cyrkowy klauna Buggy'ego",
+  "seria": "One Piece",
+  "cena_katalogowa": 209.99,
+  "elementy": 576,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Rozkładany namiot z kilkoma scenami akcji i cztery minifigurki — Luffy, Zoro, Nami i Buggy. Zestaw do zabawy, nie do postawienia w nienaruszonym stanie.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Cztery główne postacie za 145,99 zł to najtańsza obsada One Piece w katalogu; 0,25 zł za element wobec 0,36 zł katalogowo.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 158.48,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 159.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 148.94,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 171.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 169.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75682": {
+  "nazwa": "Figurki Elphaby i Glindy",
+  "seria": "Wicked",
+  "cena_katalogowa": 234.99,
+  "elementy": 558,
+  "wiek": "10+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Dwie duże figurki z filmu do postawienia na półce — to zestaw ekspozycyjny, nie do zabawy. Trafia u widza filmu, inaczej jest po prostu dwiema figurkami.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Scena „Defying Gravity\" zbudowana jako para figur, 0,28 zł za element przy 154,99 zł. Po zejściu serii z produkcji to najbardziej rozpoznawalna pozycja całej linii Wicked.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 154.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 154.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 164.49,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 166,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 234.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 186.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75684": {
+  "nazwa": "Powitanie w Emerald City",
+  "seria": "Wicked",
+  "cena_katalogowa": 419.99,
+  "elementy": 945,
+  "wiek": "9+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Największy zestaw Wicked: trzypiętrowa wieża o wysokości 39 cm z miejscami do odgrywania scen. Dla dziewięciolatka budowa na kilka wieczorów.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,31 zł za element przy 291,36 zł wobec 0,44 zł katalogowo; zielone elementy w tej ilości trudno zdobyć inaczej.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 320,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 292.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 434.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 343.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75687": {
+  "nazwa": "Kryjówka Elphaby",
+  "seria": "Wicked",
+  "cena_katalogowa": 104.99,
+  "elementy": 228,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Leśna kryjówka z kominkiem i biurkiem ze schowkiem, dwie minilaleczki i dwa króliki — zestaw do odgrywania scen, nie do postawienia na półce. Od siedmiu lat, budowa krótka.",
+  "dla_afol": "0,30 zł za element przy 67,99 zł wobec 0,46 zł katalogowo. Najtańsze wejście w serię Wicked, jeśli zależy ci na minilaleczce Elphaby.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 67.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 68.98,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 104.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 69.02,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 104.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 92.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75688": {
+  "nazwa": "Dzień ślubu Glindy",
+  "seria": "Wicked",
+  "cena_katalogowa": 169.99,
+  "elementy": 476,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Scena ślubna z filmu Wicked do odgrywania, nie do samej ekspozycji — sprawdzi się u dziecka, które zna film. Budowa na jedno dłuższe popołudnie.",
+  "dla_afol": "0,22 zł za element przy 476 klockach wobec 0,36 zł katalogowo. Licencja Wicked jest jednofilmowa i cała seria idzie w dół razem, więc to raczej okazja cenowa niż pozycja inwestycyjna.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 131.17,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 106.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 174.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 144.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "76303": {
+  "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+  "seria": "Batman",
+  "cena_katalogowa": 249.99,
+  "elementy": 429,
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Tumbler z dwoma przeciwnikami w pudełku — zestaw do zabawy, nie wersja kolekcjonerska. Dobra proporcja figurek do ceny.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,42 zł za element przy 179,99 zł wobec 0,58 zł katalogowo; Tumbler w tej skali jest tańszy od wersji kolekcjonerskich i nadal rozpoznawalny.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 190.22,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 192.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 249.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 239.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 192.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "76304": {
+  "nazwa": "Batmobil Batman Forever",
+  "seria": "Batman",
+  "cena_katalogowa": 419.99,
+  "elementy": 909,
+  "wiek": "12+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Model samochodu dla starszego dziecka i dorosłego fana filmu z 1995 roku — budowa wymagająca, efekt bardziej na półkę niż do jeżdżenia po dywanie.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,31 zł za element przy 279,99 zł wobec 0,46 zł katalogowo. Wersja Batmobila z Batman Forever nie miała wcześniej zestawu w tej skali.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 304.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 344.47,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 279.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 429.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 344.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "76458": {
+  "nazwa": "Rodzina testrali",
+  "seria": "Harry Potter",
+  "cena_katalogowa": 299.99,
+  "elementy": 548,
+  "wiek": "10+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Trzy testrale z Zakazanego Lasu — model bardziej do ustawienia niż do zabawy, dla dziecka znającego książki lub filmy.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,40 zł za element przy 221,93 zł wobec 0,55 zł katalogowo; testrale w tej skali nie miały wcześniej własnego zestawu. Przy 548 elementach to średniej wielkości projekt na jeden–dwa wieczory, a zestawy z serii Harry Potter po zejściu z produkcji należą do najstabilniejszych cenowo w całym katalogu.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 267.28,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 221.93,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
+    "data": "2026-10-27"
+   }
+  ]
+ },
+ "76784": {
+  "nazwa": "Kwiat czarnej dalii",
+  "seria": "Wednesday",
+  "cena_katalogowa": 104.99,
+  "elementy": 358,
+  "wiek": "9+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Dekoracyjny kwiat, w którego podstawie ukryto małą scenkę — to zestaw dla widza serialu, bardziej na biurko niż do zabawy. Dwie minilaleczki w pudełku.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,19 zł za element przy 67,99 zł to bardzo dobry wynik dla licencji, a czarne i fioletowe elementy kwiatowe trudno znaleźć w innych zestawach.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 69.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 77.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 104.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 67.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 104.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 92.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77001": {
+  "nazwa": "Ognisko Sonica",
+  "seria": "Sonic",
+  "cena_katalogowa": 81.99,
+  "elementy": 177,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Mała scenka z Soniciem na jedno popołudnie budowy — dobry prezent uzupełniający dla siedmiolatka, który zna postać z filmów albo gier.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,31 zł za element przy 54,99 zł wobec 0,46 zł katalogowo — przy małych zestawach licencyjnych rzadko schodzi niżej. To zarazem najtańsze wejście w serię Sonica: śledzimy ich sześć i tylko ten mieści się poniżej sześćdziesięciu złotych.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 59.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 68.78,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 58.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 79.04,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 79.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77002": {
+  "nazwa": "Cyclone kontra Metal Sonic",
+  "seria": "Sonic",
+  "cena_katalogowa": 124.99,
+  "elementy": 290,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Scena pojedynku z Metal Soniciem — zestaw zabawowy na krótszą sesję budowania, dla ośmiolatka znającego serię.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,29 zł za element przy 84,99 zł wobec 0,43 zł katalogowo. Metal Sonic jako figurka pojawia się w niewielu zestawach.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 94.13,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 104.94,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 124.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 89.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 84.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 117.79,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 99.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77005": {
+  "nazwa": "Knuckles kontra Dr. Eggman w mechu Egg Crusher",
+  "seria": "Sonic",
+  "cena_katalogowa": 169.99,
+  "elementy": 350,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Mech z otwieranym kokpitem i ruchomymi kończynami kontra Knuckles — zestaw zabawowy z wyraźnym scenariuszem starcia. Dla ośmiolatka budowa na popołudnie.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,35 zł za element przy 121,66 zł wobec 0,49 zł katalogowo — i jest to jedyny zestaw z Dr. Eggmanem w mechu tej wielkości.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 121.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 135.98,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 121.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 174.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 144.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77006": {
+  "nazwa": "Sonic i pojazd do zadań specjalnych",
+  "seria": "Sonic",
+  "cena_katalogowa": 299.99,
+  "elementy": 747,
+  "wiek": "8+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Duża ciężarówka z otwieranym bokiem i odłączaną kabiną, pięć figurek w pudełku — najbardziej rozbudowany zestaw Sonica w sprzedaży. Dla ośmiolatka budowa na kilka sesji.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,28 zł za element przy 209,90 zł wobec 0,40 zł katalogowo; Metal Sonic, Burrobot i Caterkiller w jednym pudełku.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 227.07,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 235.14,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 210.33,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 289.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 231.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77037": {
+  "nazwa": "Aloy i Varl kontra Krabołaz i Piłozęby",
+  "seria": "Horizon Adventures",
+  "cena_katalogowa": 189.99,
+  "elementy": 768,
+  "wiek": "9+",
+  "premiera": "2025-03",
+  "opis": "",
+  "dla_rodzica": "Dwie maszyny z gry z ruchomymi nogami i ramionami plus dwie minifigurki — dużo konstrukcji za tę cenę i realna zabawa po zbudowaniu. Dla dziewięciolatka budowa na kilka wieczorów.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 768 elementów za 123,90 zł to 0,16 zł za sztukę, jeden z najlepszych przeliczników na całej liście — seria Horizon nie przyjęła się na rynku i widać to po cenie.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 140.2,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 149.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 151.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 135.3,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 185.24,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 158.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77053": {
+  "nazwa": "Obserwowanie gwiazd z Celeste",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 41.99,
+  "elementy": 78,
+  "wiek": "6+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Bardzo mała scenka z teleskopem i sową Celeste — prezent drobny, na jedną krótką budowę. Dobre pierwsze zetknięcie z serią przy minimalnym wydatku.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,38 zł za element przy 29,99 zł; przy zestawach tej wielkości liczy się figurka, nie przelicznik, a Celeste nie ma innego pudełka.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 29.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 40,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 41.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 44.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 42.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 48.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77054": {
+  "nazwa": "Przyczepa Leifa i sklep ogrodniczy",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 124.99,
+  "elementy": 263,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Samochód z przyczepą, którą można odczepić i rozłożyć w stoisko z roślinami — dwa tryby zabawy w jednym pudełku. Dwie minifigurki, Leif i Poppy.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,33 zł za element przy 85,60 zł wobec 0,48 zł katalogowo; elementy roślinne z tego zestawu są chętnie używane w dioramach.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 85.6,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 85.95,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 87.49,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 119,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 85.95,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 116.84,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 106.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77056": {
+  "nazwa": "Blathers i kolekcja muzealna",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 339.99,
+  "elementy": 543,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Muzeum z gry złożone z modułów, które dziecko może przestawiać i przebudowywać — zabawa nie kończy się na złożeniu. Od siedmiu lat, ale bez znajomości gry część żartów przepada.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Nawet po obniżce do 214 zł wychodzi 0,39 zł za element wobec 0,63 zł katalogowo — Animal Crossing jest drogie za sztukę, bo płaci się za figurki i nadruki.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 214,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 214.96,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 339.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 389.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 277.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77071": {
+  "nazwa": "Lama Zaopatrzeniowa",
+  "seria": "Fortnite",
+  "cena_katalogowa": 169.99,
+  "elementy": 691,
+  "wiek": "12+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Lama-piniata z gry jako model na półkę — bez funkcji do zabawy, oznaczenie 12+ wynika z detali. Trafia wyłącznie u grającego nastolatka.",
+  "dla_afol": "0,17 zł za element przy 119 zł wobec 0,25 zł katalogowo — najlepszy przelicznik w całej serii Fortnite i jeden z lepszych na tej liście.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 128.95,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 124.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 129.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 121.66,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 139.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 134.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77073": {
+  "nazwa": "Bus Bojowy",
+  "seria": "Fortnite",
+  "cena_katalogowa": 419.99,
+  "elementy": 954,
+  "wiek": "10+",
+  "premiera": "2024",
+  "opis": "",
+  "dla_rodzica": "Autobus, od którego zaczyna się każda rozgrywka w Fortnite — dla grającego dziecka to najbardziej rozpoznawalny obiekt z gry. Duży model, budowa na kilka wieczorów.",
+  "dla_afol": "0,29 zł za element przy 279 zł wobec 0,44 zł katalogowo. Najbardziej ikoniczna pozycja serii LEGO Fortnite i jedyna, która ma szansę zostać rozpoznana także poza graczami.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 299.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 279,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 409.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 339.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77075": {
+  "nazwa": "Skorek i Iskra oraz obóz",
+  "seria": "Fortnite",
+  "cena_katalogowa": 81.99,
+  "elementy": 250,
+  "wiek": "7+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Mały obóz z ogniskiem i stołem warsztatowym, który można przebudowywać — trzy minifigurki i dwa zwierzaki w pudełku. Dla dziecka grającego w LEGO Fortnite to rozpoznawalna scena z początku gry.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. 0,21 zł za element przy 53,58 zł wobec 0,33 zł katalogowo — pięć figurek w tej cenie to dobry wynik.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 53.9,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 60.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 65.59,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 60.2,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "mediamarkt",
+    "cena": 64.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 64.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 79.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77077": {
+  "nazwa": "Klombo",
+  "seria": "Fortnite",
+  "cena_katalogowa": 419.99,
+  "elementy": 1084,
+  "wiek": "10+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Duże stworzenie z gry z ruchomymi nogami, otwieraną paszczą i obracanym ogonem — model, którym da się bawić, a nie tylko go postawić. Dwie minifigurki w pudełku.",
+  "dla_afol": "0,27 zł za element przy 291,40 zł wobec 0,39 zł katalogowo. Najbardziej charakterystyczna sylwetka z całej serii LEGO Fortnite.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 312.49,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 337.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 292.17,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 439.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 334.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77078": {
+  "nazwa": "Dowódca Drużyny Mechów",
+  "seria": "Fortnite",
+  "cena_katalogowa": 999.99,
+  "elementy": 2503,
+  "wiek": "18+",
+  "premiera": "2025-04",
+  "opis": "",
+  "dla_rodzica": "Zestaw kolekcjonerski 18+ za blisko tysiąc złotych katalogowo — to pozycja dla dorosłego gracza, nie prezent dla dziecka.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026, a to największy zestaw całej serii Fortnite. 0,28 zł za element przy 704 zł wobec 0,40 zł katalogowo; po zejściu z produkcji duże figury rzadko tanieją dalej.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 704,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "empik",
+    "cena": 779,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 999.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 704.19,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 989.99,
+    "data": "2026-10-29"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 763.9,
+    "data": "2026-10-26"
+   }
+  ]
  }
 }

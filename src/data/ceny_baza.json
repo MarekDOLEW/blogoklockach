@@ -8020,5 +8020,390 @@
   "najnizsza_cena": 131.99,
   "najnizsza_data": "2026-10-25",
   "najnizsza_sklep": "allegro"
+ },
+ "10345": {
+  "nazwa": "Kwiatowa kompozycja",
+  "cena_katalogowa": 469.99,
+  "najnizsza_cena": 326.9,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "10696": {
+  "nazwa": "Kreatywne klocki — pudełko, średni zestaw",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 77.32,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "10698": {
+  "nazwa": "Kreatywne klocki",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 142.67,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "10788": {
+  "nazwa": "Koci domek Gabi",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 237.6,
+  "najnizsza_data": "2026-10-20",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "11201": {
+  "nazwa": "Blue i Łatka na placu zabaw",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.75,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "11202": {
+  "nazwa": "Blue i rodzinna wycieczka samochodem",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 83.43,
+  "najnizsza_data": "2026-10-20",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "11203": {
+  "nazwa": "Dom rodzinny Blue",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 209.99,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "allegro"
+ },
+ "21034": {
+  "nazwa": "Londyn",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 111.99,
+  "najnizsza_data": "2026-09-22",
+  "najnizsza_sklep": "allegro"
+ },
+ "21060": {
+  "nazwa": "Zamek Himeji",
+  "cena_katalogowa": 689.99,
+  "najnizsza_cena": 457.73,
+  "najnizsza_data": "2026-10-13",
+  "najnizsza_sklep": "allegro"
+ },
+ "21061": {
+  "nazwa": "Notre-Dame w Paryżu",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 719.99,
+  "najnizsza_data": "2026-09-29",
+  "najnizsza_sklep": "allegro"
+ },
+ "21062": {
+  "nazwa": "Fontanna di Trevi",
+  "cena_katalogowa": 689.99,
+  "najnizsza_cena": 478.99,
+  "najnizsza_data": "2026-10-07",
+  "najnizsza_sklep": "allegro"
+ },
+ "21349": {
+  "nazwa": "Czarno-biały kot",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 325.68,
+  "najnizsza_data": "2026-10-09",
+  "najnizsza_sklep": "allegro"
+ },
+ "21583": {
+  "nazwa": "Przygoda Steve'a w tajdze",
+  "cena_katalogowa": 41.99,
+  "najnizsza_cena": 27.54,
+  "najnizsza_data": "2026-09-26",
+  "najnizsza_sklep": "allegro"
+ },
+ "21584": {
+  "nazwa": "Podróż przez portal Netheru",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 39.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "21585": {
+  "nazwa": "Farma kurczaków",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.9,
+  "najnizsza_data": "2026-09-24",
+  "najnizsza_sklep": "lidl"
+ },
+ "21586": {
+  "nazwa": "Blady ogród",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "31212": {
+  "nazwa": "Droga Mleczna",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 598,
+  "najnizsza_data": "2026-09-21",
+  "najnizsza_sklep": "allegro"
+ },
+ "31215": {
+  "nazwa": "Słoneczniki Vincenta van Gogha",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 609,
+  "najnizsza_data": "2026-10-29",
+  "najnizsza_sklep": "allegro"
+ },
+ "31216": {
+  "nazwa": "Keith Haring — tańczące postacie",
+  "cena_katalogowa": 519.99,
+  "najnizsza_cena": 362.99,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "empik"
+ },
+ "31376": {
+  "nazwa": "Uroczy chomik z kwiatkiem",
+  "cena_katalogowa": 41.99,
+  "najnizsza_cena": 26.99,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "empik"
+ },
+ "31377": {
+  "nazwa": "Żółw i kwiat lilii wodnej",
+  "cena_katalogowa": 41.99,
+  "najnizsza_cena": 26,
+  "najnizsza_data": "2026-09-26",
+  "najnizsza_sklep": "allegro"
+ },
+ "40814": {
+  "nazwa": "Słoniątko na niebie",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 69.99,
+  "najnizsza_data": "2026-10-13",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "60205": {
+  "nazwa": "Tory",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-10-10",
+  "najnizsza_sklep": "allegro"
+ },
+ "60238": {
+  "nazwa": "Zwrotnice",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "71492": {
+  "nazwa": "Ognisty kameleon Mateo",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 143.99,
+  "najnizsza_data": "2026-10-24",
+  "najnizsza_sklep": "allegro"
+ },
+ "71499": {
+  "nazwa": "Sprayowa ciężarówka Mateo",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 280.12,
+  "najnizsza_data": "2026-10-20",
+  "najnizsza_sklep": "allegro"
+ },
+ "71500": {
+  "nazwa": "Koszmarny Rekinokręt podwodny",
+  "cena_katalogowa": 599.99,
+  "najnizsza_cena": 409.9,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "72046": {
+  "nazwa": "Game Boy",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 157.69,
+  "najnizsza_data": "2026-10-13",
+  "najnizsza_sklep": "allegro"
+ },
+ "72151": {
+  "nazwa": "Eevee",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 159.99,
+  "najnizsza_data": "2026-10-12",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "75415": {
+  "nazwa": "Hełm Kylo Rena",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 221.97,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
+ },
+ "75428": {
+  "nazwa": "Droid bojowy z platformą STAP",
+  "cena_katalogowa": 559.99,
+  "najnizsza_cena": 419.99,
+  "najnizsza_data": "2026-10-24",
+  "najnizsza_sklep": "allegro"
+ },
+ "75435": {
+  "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+  "cena_katalogowa": 649.99,
+  "najnizsza_cena": 475.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "75636": {
+  "nazwa": "Chatka w wiosce Fuusha",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 79.98,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
+ },
+ "75637": {
+  "nazwa": "Namiot cyrkowy klauna Buggy'ego",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 145.99,
+  "najnizsza_data": "2026-09-21",
+  "najnizsza_sklep": "allegro"
+ },
+ "75682": {
+  "nazwa": "Figurki Elphaby i Glindy",
+  "cena_katalogowa": 234.99,
+  "najnizsza_cena": 154.99,
+  "najnizsza_data": "2026-10-23",
+  "najnizsza_sklep": "allegro"
+ },
+ "75684": {
+  "nazwa": "Powitanie w Emerald City",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 275,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "75687": {
+  "nazwa": "Kryjówka Elphaby",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 59.99,
+  "najnizsza_data": "2026-10-13",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "75688": {
+  "nazwa": "Dzień ślubu Glindy",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 106.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
+ },
+ "76303": {
+  "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 179.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "76304": {
+  "nazwa": "Batmobil Batman Forever",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 279.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "76458": {
+  "nazwa": "Rodzina testrali",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 221.93,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "empik"
+ },
+ "76784": {
+  "nazwa": "Kwiat czarnej dalii",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 67.99,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "empik"
+ },
+ "77001": {
+  "nazwa": "Ognisko Sonica",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 53.9,
+  "najnizsza_data": "2026-10-28",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "77002": {
+  "nazwa": "Cyclone kontra Metal Sonic",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 84.99,
+  "najnizsza_data": "2026-10-07",
+  "najnizsza_sklep": "allegro"
+ },
+ "77005": {
+  "nazwa": "Knuckles kontra Dr. Eggman w mechu Egg Crusher",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 121.66,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "77006": {
+  "nazwa": "Sonic i pojazd do zadań specjalnych",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 204.99,
+  "najnizsza_data": "2026-09-22",
+  "najnizsza_sklep": "allegro"
+ },
+ "77037": {
+  "nazwa": "Aloy i Varl kontra Krabołaz i Piłozęby",
+  "cena_katalogowa": 189.99,
+  "najnizsza_cena": 114.66,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "77053": {
+  "nazwa": "Obserwowanie gwiazd z Celeste",
+  "cena_katalogowa": 41.99,
+  "najnizsza_cena": 25.99,
+  "najnizsza_data": "2026-09-26",
+  "najnizsza_sklep": "allegro"
+ },
+ "77054": {
+  "nazwa": "Przyczepa Leifa i sklep ogrodniczy",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 79,
+  "najnizsza_data": "2026-09-23",
+  "najnizsza_sklep": "allegro"
+ },
+ "77056": {
+  "nazwa": "Blathers i kolekcja muzealna",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 214,
+  "najnizsza_data": "2026-10-27",
+  "najnizsza_sklep": "allegro"
+ },
+ "77071": {
+  "nazwa": "Lama Zaopatrzeniowa",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 116.98,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "77073": {
+  "nazwa": "Bus Bojowy",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 279,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "77075": {
+  "nazwa": "Skorek i Iskra oraz obóz",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.74,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "77077": {
+  "nazwa": "Klombo",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 279.99,
+  "najnizsza_data": "2026-10-17",
+  "najnizsza_sklep": "allegro"
+ },
+ "77078": {
+  "nazwa": "Dowódca Drużyny Mechów",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 695,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "allegro"
  }
 }
