@@ -160,6 +160,28 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: huby pokazują ceny z `oferty_feed`, ale **64 zestawy** z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25% (po sicie podejrzanego rynku) nie są w `sety.json` ani w `ceny_baza.json` — czyli bez śledzonego minimum, bez alertu cenowego i bez wejścia do „Dziś w dobrej cenie". Z 64 hubów 17 jest noindex, 47 indeksowalne.
 **Zrobić:** — zdecydować, ile z tej 64 dopisujemy do `sety.json` + `ceny_baza.json` przed szczytem sezonu i od jakiego progu rabatu (czoło listy: 77057 −48%, 77076 −47%, 76785 −47%, 31380 i 10713 −46%, 72046 −37%); pełna lista z nazwami, cenami i terminami wycofań w `materialy/zestawy-poza-rejestrem-2026-10-29.md`. Jeden wpis to para person plus minimum z `historia-cen`, więc 64 sztuki to wielkość do rozstrzygnięcia, nie do cichego zrobienia w przebiegu Radaru.
 **Kto:** — Marek (decyzja)
+→ rozstrzygnięte 29.10.2026: Marek — „dopisz wszystkie z rabatem od 40%". Dopisanych **9 zestawów**
+(`sety.json` 1217 → 1226, `ceny_baza.json` 1136 → 1145): 77057 Kreatywne domy: Pory zabawy,
+76785 Mieszkanie Rączki, 77076 Restauracja Durrr Burgerownia, 31380 Konsola do gry retro,
+10713 Kreatywna walizka, 77058 Przytulny dom Goldie, 31214 LOVE, 75689 Emerald City i Kiamo Ko
+Castle, 77055 Able Sisters i sklep odzieżowy. Wszystkie dziewięć hubów jest po buildzie
+indeksowalnych — 77057 i 77058 były wcześniej noindex, persony przeważyły próg treści.
+Pozostałe **55 pozycji z przedziału 25–39%** zostaje na liście w
+`materialy/zestawy-poza-rejestrem-2026-10-29.md`; bez decyzji ich nie dopisuję.
+
+Trzy rzeczy warte zapisania, bo dotyczą każdego kolejnego dopisywania:
+1. **Minimum do `ceny_baza` liczymy po sicie serwisu, nie po surowej historii cen.** Dwa z dziewięciu
+   miały w `historia-cen` niższe kwoty, których nie wolno wpisać jako rekordu: 77076 — 89 zł z 22.10,
+   **odrzucone przez Marka 23.10** jako nieprawdziwe (wpis w `deale_potwierdzone.odrzucone`), więc
+   minimum to 131,99 zł z 25.10; 77058 — 39,99 zł z 23.09, czyli **poniżej progu 50% RRP**, który
+   sito „podejrzany rynek" ukrywa na stronie, więc minimum to 50,93 zł z 19.10. Wpisanie tamtych
+   kwot kazałoby hubowi chwalić się rekordem, którego serwis sam nie pokazuje.
+2. **Dane z kart lego.com/pl-pl** (29.10, osiem kart; 77057 nie ma już karty, nazwa z feedu Planety
+   Klocków). Liczba elementów zgodna z `katalog.json` co do sztuki we wszystkich ośmiu przypadkach —
+   niezależne potwierdzenie, że zaciąg z Rebrickable nie kłamie.
+3. **`premiera` to rok, nie miesiąc** (wyjątek 31380: `2026-01` z karty w `karty_setow.json`). Karty
+   lego.com nie podają daty premiery, a `katalog.json` trzyma tylko `rok`; format `RRRR` ma precedens
+   przy 77094. Miesiąca nie dopisuję „na oko", bo to pole steruje stronami `/nowosci/<miesiac>/`.
 
 ## 2026-10-29 05:20 · SCOUT · Do zrobienia
 
