@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-28",
+  "zaktualizowano": "2026-10-29",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -296,9 +296,9 @@
   {
    "id": "67005",
    "numer": "67005",
-   "nazwa": "Sanctum Strange'a Supreme",
+   "nazwa": "Marvel A gdyby…? Doctor Strange Supreme",
    "seria": "Marvel",
-   "elementy": 810,
+   "elementy": 814,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2027-01",
    "pewnosc": "srednia",
@@ -307,11 +307,21 @@
      "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO What if…? Doctor Strange Supreme (67005): Neues Marvel Sanctum Sanctorum mit sechs Minifiguren … vorbestellbar!”",
+     "url": "https://www.stonewars.de/news/lego-what-if-doctor-strange-supreme-67005-vorstellung/",
+     "data": "2026-10-28"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": null,
-   "rozstrzygniecie": null
+   "uwagi": "ROZSTRZYGNIECIE 29.10.2026: StoneWars 28.10 opisal oficjalna prezentacje, Brickset ma karte z launchDate 2027-01-01 i availability „Retail”, a karta lego.com/pl-pl podaje polska nazwe „Marvel A gdyby…? Doctor Strange Supreme”, 814 elementow, wiek 9+, cene 429,99 zl, status „przedsprzedaz” i sklad szesciu minifigurek (Strange Supreme, F.R.I.D.A.Y., Zombie Hunter Spider-Man, Red Queen, Zombie Namora, Zombie Thora). Przeciek mowil „ok. 810 elementow” — faktycznie 814, czyli w granicach zaokraglenia zrodla; termin 2027-01 trafiony co do miesiaca. Ceny przeciek nie podawal, wiec testu ceny nie bylo. Pole elementy poprawione z 810 na 814, nazwa z naszego tlumaczenia „Sanctum Strange'a Supreme” na oficjalna polska, dopisane brakujace pole opis. Pewnosc zostaje „srednia” — taka byla w chwili rozstrzygniecia i taka ma zostac na tablicy trafnosci. Zestaw dolozony do sety.json.",
+   "opis": "Sanctum Sanctorum w wersji z serialu „A gdyby…?”, przedstawione oficjalnie 28 października 2026: 814 elementów, sześć minifigurek i cena katalogowa 429,99 zł, z premierą 1 stycznia 2027. Przeciek z sierpnia podawał około 810 elementów i styczniowy termin — jedno i drugie się zgodziło.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-10-29",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i styczniowy termin się zgodziły, a liczba elementów okazała się 814 wobec „około 810” z przecieku. Doszło to, czego przeciek nie znał: polska nazwa, cena katalogowa 429,99 zł i skład sześciu minifigurek."
+   }
   },
   {
    "id": "67008",
@@ -1838,6 +1848,27 @@
    "dodano": "2026-10-23",
    "uwagi": "Zestaw potwierdzony przez samo LEGO: zespół LEGO Ideas napisał o nim na firmowym blogu 22.10.2026 i opublikował teaser. Pewność „wysoka” wbrew literalnemu kryterium drabiny (dwa serwisy zgodne co do numeru i ceny), bo numeru i ceny nie podał nikt — zgodność dotyczy samego faktu zapowiedzi, a potwierdza ją producent, czyli źródło mocniejsze niż dwa serwisy branżowe. Rok 2027 pochodzi z tytułu PromoBricks; LEGO mówi tylko „wkrótce”, więc przy rozstrzyganiu traktować termin luźno. StoneWars podaje autora projektu jako „RobotRock”; liczby głosów nie zapisuję, bo wyciąg ze strony dał wartość bezsensowną (5), a konkurs Ideas wymaga 10 000 — do sprawdzenia przy następnym dowodzie. Czego nie ma: numeru, liczby elementów, ceny, dokładnego terminu i tego, czy minifigurki z teasera wchodzą do pudełka.\n\nUzupelnienie 24.10.2026: PromoBricks wrocil do tematu 23.10 osobnym tekstem „LEGO x Daft Punk Collab bestatigt”, a StoneWars tego samego dnia napisal, ze wspolpraca ma wyjsc poza jeden zestaw Ideas. Pewnosc bez zmian (wysoka). Nadal brak numeru, elementow, ceny i daty.",
    "opis": "Zestaw z linii Ideas poświęcony duetowi Daft Punk, zbudowany na podstawie projektu fana występującego jako RobotRock. LEGO potwierdziło go samo — zespół Ideas napisał o nim na firmowym blogu 22 października 2026 i pokazał teaser z minifigurkami Thomasa Bangaltera i Guy-Manuela de Homem-Christo oraz fragmentami modelu nawiązującego do koncertowej piramidy z 2007 roku. Według StoneWars współpraca ma wyjść poza ten jeden zestaw. Numeru, liczby elementów, ceny ani dokładnej daty producent nie podał; PromoBricks pisze o roku 2027.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "nba-2027",
+   "numer": null,
+   "nazwa": "Zestawy NBA z minifigurką LeBrona Jamesa (numery nieznane)",
+   "seria": "Nieznana",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "PromoBricks — „Neue LEGO NBA Sets in 2027? – Geruchte”",
+     "url": "https://www.promobricks.de/lego-nba-sets-2027-lebron-james-figur/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-10-29",
+   "uwagi": "Zrodlo pierwotne to watek na Reddicie, relacjonowany przez PromoBricks, ktory sam oznacza tekst jako plotke („Geruchte” w tytule i w opisie strony). Brak numerow, liczby elementow, cen i zdjec nowych zestawow — zdjecie w artykule to stara seria NBA Sports z 2003 roku, uzyta jako ilustracja. Dlatego pewnosc „niska” i wpis bez numeru. Licencja NBA byla u LEGO raz, w latach 2003-2004, wiec powrot jest wiarygodny, ale to nie dowod. Do podniesienia, gdy pojawi sie numer albo listing dystrybutora.",
+   "opis": "Seria zestawów z licencją NBA i minifigurką LeBrona Jamesa, zapowiadana na pierwsze półrocze 2027 roku. Informacja pochodzi z wątku na Reddicie, relacjonowanego przez jeden serwis branżowy, który sam opisuje ją jako plotkę. Nie ma numerów zestawów, liczby elementów, cen ani zdjęć. Koszykarska licencja NBA była w katalogu LEGO w latach 2003–2004, więc powrót jest możliwy, ale na razie nic poza tą jedną wzmianką go nie potwierdza.",
    "rozstrzygniecie": null
   }
  ]

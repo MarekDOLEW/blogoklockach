@@ -45003,7 +45003,7 @@
   "elementy": 5364,
   "wiek": "18+",
   "premiera": "2026-11",
-  "opis": "Licencjonowany zestaw z linii Ideas – model Godzilli, według dotychczasowych danych z 5364 elementów, co stawiałoby go wśród największych zestawów rocznika 2026. Zapowiadany start to 27 listopada, czyli tydzień Black Friday. LEGO nie potwierdziło jeszcze oficjalnie nazwy ani liczby elementów, dlatego traktujemy zestaw jako przeciek – szczegóły w dziale Przecieki.",
+  "opis": "Licencjonowany zestaw z linii Ideas – model Godzilli, według dotychczasowych danych z 5364 elementów, co stawiałoby go wśród największych zestawów rocznika 2026. Zapowiadany start to 27 listopada, czyli tydzień Black Friday, a według PromoBricks oficjalna zapowiedź ma paść na transmisji LEGO 3 listopada 2026. LEGO nie potwierdziło jeszcze oficjalnie nazwy ani liczby elementów, dlatego traktujemy zestaw jako przeciek – szczegóły w dziale Przecieki.",
   "dla_rodzica": "Zestaw dla dorosłego zbieracza, nie dla dziecka — oznaczenie 18+ wynika ze skali i złożoności budowy. To model wystawowy, który po złożeniu zajmuje sporo miejsca na półce; przed zakupem na prezent warto sprawdzić, czy obdarowany ma gdzie go postawić.",
   "dla_afol": "Ceny LEGO jeszcze nie podało, więc progu zakupu na razie nie da się policzyć. Warto pilnować terminu: premiera 27 listopada oznacza wejście do sprzedaży już po starcie wyprzedaży Black Friday, więc na rabat w pierwszym sezonie nie ma co liczyć – nowości z tego okna schodzą w cenie katalogowej.",
   "oferty": [],
@@ -46118,5 +46118,53 @@
     "data": "2026-10-27"
    }
   ]
+ },
+ "42709": {
+  "nazwa": "Centrum zabawy i pielęgnacji dla zwierząt",
+  "seria": "Friends",
+  "cena_katalogowa": 219.99,
+  "elementy": 366,
+  "wiek": "7+",
+  "premiera": "2027-01",
+  "opis": "Salon pielęgnacji i plac zabaw dla zwierząt z linii Friends: 366 elementów, trzy minifigurki i akcesoria do mycia, strzyżenia i zabawy z pupilami. Premiera 1 stycznia 2027, cena katalogowa 219,99 zł (w Niemczech 49,99 euro).",
+  "dla_rodzica": "Typowy zestaw Friends do zabawy tematycznej — dziecko odgrywa opiekę nad zwierzętami, a nie buduje model na półkę. Oznaczenie 7+ i 366 elementów to jedno popołudnie składania. Przy 60 groszach za element jest to najdroższy przelicznik z trzech styczniowych nowości Friends, więc jeśli liczy się wielkość zabawy za te pieniądze, autobus 42718 daje wyraźnie więcej.",
+  "dla_afol": "Cena katalogowa to 219,99 zł przy 366 elementach, czyli 60 groszy za element — stawka wysoka także na tle serii. Wartość zestawu siedzi w figurkach zwierząt i akcesoriach, nie w częściach konstrukcyjnych. Próg zakupu stawiam na 170 zł: Friends schodzi w sklepach zewnętrznych regularnie i głęboko, zwykle w ciągu kilku miesięcy od premiery.",
+  "oferty": []
+ },
+ "42718": {
+  "nazwa": "Imprezowy autobus przyjaciół",
+  "seria": "Friends",
+  "cena_katalogowa": 259.99,
+  "elementy": 676,
+  "wiek": "7+",
+  "premiera": "2027-01",
+  "opis": "Dwupokładowy autobus imprezowy z linii Friends: 676 elementów, cztery minifigurki i wnętrze przystosowane do odgrywania przyjęcia w trasie. Premiera 1 stycznia 2027, cena katalogowa 259,99 zł (w Niemczech 59,99 euro).",
+  "dla_rodzica": "Z trzech styczniowych nowości Friends ten zestaw daje najwięcej zabawy za pieniądze: 676 elementów i cztery minifigurki za 259,99 zł. Pojazd z wnętrzem sprawdza się w zabawie lepiej niż budynek, bo da się go zabrać i rozbudować w dowolnym miejscu. Oznaczenie 7+ jest realne, składanie to dwa spokojne wieczory.",
+  "dla_afol": "Cena katalogowa to 259,99 zł przy 676 elementach, czyli 38 groszy za element — najlepszy przelicznik z tej trójki i stawka typowa dla zwykłych serii. Duży pojazd Friends to też przyzwoite źródło części w jasnych kolorach. Próg zakupu stawiam na 200 zł.",
+  "oferty": []
+ },
+ "42719": {
+  "nazwa": "Galeria handlowa Heartlake City",
+  "seria": "Friends",
+  "cena_katalogowa": 429.99,
+  "elementy": 843,
+  "wiek": "7+",
+  "premiera": "2027-01",
+  "opis": "Galeria handlowa w Heartlake City: 843 elementy, cztery minifigurki i kilka stoisk sklepowych z kasami oraz szyldami. To największy z trzech styczniowych zestawów Friends. Premiera 1 stycznia 2027, cena katalogowa 429,99 zł (w Niemczech 99,99 euro).",
+  "dla_rodzica": "Duży zestaw do zabawy w miasto — po złożeniu zostaje scena z kilkoma sklepami, którą da się łączyć z innymi budynkami Heartlake City. 843 elementy przy oznaczeniu 7+ to kilka wieczorów budowania, raczej z pomocą dorosłego na początku. To zakup na prezent główny, nie na dodatek.",
+  "dla_afol": "Cena katalogowa to 429,99 zł przy 843 elementach, czyli 51 groszy za element — dużo za zestaw bez licencji i bez mechanizmów. Modularne budynki Friends trzymają jednak wartość lepiej niż pojazdy, bo kolejne roczniki do nich dobudowują. Próg zakupu stawiam na 320 zł.",
+  "oferty": []
+ },
+ "67005": {
+  "nazwa": "Marvel A gdyby…? Doctor Strange Supreme",
+  "seria": "Marvel",
+  "cena_katalogowa": 429.99,
+  "elementy": 814,
+  "wiek": "9+",
+  "premiera": "2027-01",
+  "opis": "Sanctum Sanctorum w wersji z serialu „A gdyby…?”: 814 elementów i sześć minifigurek — Strange Supreme, F.R.I.D.A.Y., Zombie Hunter Spider-Man, Red Queen, Zombie Namora i Zombie Thora, czyli obsada z „A gdyby…?” i „Marvel Zombies”. Premiera 1 stycznia 2027, cena katalogowa 429,99 zł.",
+  "dla_rodzica": "Oznaczenie 9+ dotyczy budowania, ale temat nie: połowa minifigurek to zombie z dorosłej animacji Marvela, więc dla młodszego dziecka to nie jest zestaw do zabawy przed snem. Dla nastolatka znającego serial trafia dobrze — 814 elementów to kilka wieczorów, a gotowy model służy jako scena do odgrywania.",
+  "dla_afol": "Cena katalogowa to 429,99 zł przy 814 elementach, czyli 53 grosze za element — stawka licencyjna, normalna dla Marvela. Prawdziwym argumentem jest skład: sześć minifigurek, w tym cztery wersje zombie i Strange Supreme, których dotąd nie było w żadnym zestawie. Przy takich kompletach figurek rynek wtórny bywa droższy niż katalog, więc próg zakupu stawiam na 350 zł i nie liczyłbym na głębokie rabaty w pierwszym półroczu.",
+  "oferty": []
  }
 }

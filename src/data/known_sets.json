@@ -1,7 +1,7 @@
 {
- "data_aktualizacji": "2026-10-28",
+ "data_aktualizacji": "2026-10-29",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
- "liczba_setow": 1213,
+ "liczba_setow": 1217,
  "sety": [
   "10280",
   "10281",
@@ -1215,7 +1215,11 @@
   "80119",
   "80120",
   "80121",
-  "910059"
+  "910059",
+  "42709",
+  "42718",
+  "42719",
+  "67005"
  ],
  "zapowiedzi_sledzone": [
   {
@@ -6535,5 +6539,15 @@
   "drugi_gratis_30727": "30727 bylo u nas od dawna (cena 16,49 zl, 68 elementow), ale z pustym polem opis — uzupelnione, z oknem i progiem. W dla_afol dopisane zdanie, ze przy ofertach zewnetrznych od 11 zl ten gratis nie jest argumentem, by dobijac koszyk do 165 zl. W katalog.json ten numer ma status eol z powodem „nigdy na listingu lego.pl” — sygnal odwrotny, zglosony w dzienniku dla runnera Wycofan, statusu nie ruszam.",
   "luki_katalogu": "Przeliczone na dwoch rewizjach (d72c4c0 i drzewo robocze), bez zmian: opisane bez ceny 2 (21375, 77094), rocznik 2026 w sprzedazy bez wpisu 17, cala kolejka 2020-2026: 165.",
   "serwisy": "PromoBricks 27.10: tekst o starcie gratisu 40889 (plus nekrolog aktora). StoneWars 28.10: aktualizacja tego samego tematu („Aktion gestartet!”). Zadnych nowych zestawow i zadnych sygnalow wycofan w tych tekstach."
+ },
+ "przeglad_2026_10_29": {
+  "nowosci": "CZTERY zestawy do sety.json, wszystkie z rocznika 2027 i wszystkie z polskimi cenami z kart lego.com/pl-pl: 42709 Centrum zabawy i pielegnacji dla zwierzat (366 el., 219,99 zl, 7+), 42718 Imprezowy autobus przyjaciol (676, 259,99, 7+), 42719 Galeria handlowa Heartlake City (843, 429,99, 7+) i 67005 Marvel A gdyby…? Doctor Strange Supreme (814, 429,99, 9+, szesc minifigurek). Premiera wszystkich 1 stycznia 2027; 42718, 42719 i 67005 maja status „przedsprzedaz”, 42709 „wkrotce dostepne”. Potwierdzenie: StoneWars 28.10 (dwa teksty — Friends styczen 2027 i 67005), Brickset (karty z liczbami elementow zgodnymi co do jednego) oraz karty produktowe lego.com/pl-pl.",
+  "kurs_eur": "Przelicznik na tej partii: 49,99 euro -> 219,99 zl (x4,40), 59,99 -> 259,99 (x4,33), 99,99 -> 429,99 (x4,30). Zgodne z mnoznikiem ~4,3 obserwowanym od wrzesnia.",
+  "rozstrzygniecie_67005": "Wpis 67005 w przeciekach rozstrzygniety jako potwierdzony. Przeciek z sierpnia mowil „ok. 810 elementow” i styczen 2027 — faktycznie 814 i 1 stycznia. Pole elementy poprawione 810 -> 814, nazwa z naszego tlumaczenia „Sanctum Strange'a Supreme” na oficjalna polska, dolozone brakujace pole opis (wpis byl z tych starszych, bez opisu). Pewnosc zostaje „srednia” — taka byla w chwili rozstrzygniecia.",
+  "nowy_przeciek_nba": "Dopisany wpis nba-2027 (slug, bez numeru), pewnosc NISKA: PromoBricks 28.10 relacjonuje watek z Reddita o zestawach NBA z minifigurka LeBrona Jamesa na pierwsze polrocze 2027. Serwis sam oznacza to jako plotke, nie ma numerow, elementow, cen ani zdjec nowych zestawow (ilustracja w artykule to seria NBA Sports z 2003 roku).",
+  "godzilla_21375": "PromoBricks 28.10: transmisja LEGO o Black Friday 3 listopada 2026 o 18:00, na ktorej ma byc zapowiedziany 21375 Godzilla; serwis podaje 5364 elementy (zgodnie z naszym wpisem), spodziewana cena 399,99-449,99 euro i premiera 27 listopada. Cena to widelki jednego zrodla i okreslenie „soll kosten”, wiec do hubu nie wchodzi; w opisie 21375 przepisane zdanie o terminie, status_nowosci przeciek zostaje do oficjalnej zapowiedzi.",
+  "strona_2027": "W /zapowiedzi-lego-2027/ 67005 przeniesiony z tabeli przeciekow do potwierdzonych (814 el., 429,99 zl), dopisane trzy wiersze Friends, przepisany akapit o fali Marvela, zaktualizowano 2026-10-29.",
+  "bez_zmian": "21351 Nightmare Before Christmas z listy „EOL-Sets im Fokus” StoneWars jest juz w wycofania.json — zadnego sygnalu nie dopisuje. Zestawy 1661 i 1665 z okna przyrostowego sprawdzone wczoraj, to roczniki 1989-1990.",
+  "luki_katalogu": "Przeliczone na dwoch rewizjach (d6cb1ed i drzewo robocze): opisane bez ceny 2 (21375, 77094), rocznik 2026 w sprzedazy bez wpisu 17, cala kolejka 2020-2026: 164 — o jeden mniej niz wczoraj, ale nie moimi zmianami: ta sama metoda daje 164 juz na commicie bazowym d6cb1ed, czyli kolejke skrocil ktorys z commitow miedzy 28.10 a dzisiejszym porankiem."
  }
 }
