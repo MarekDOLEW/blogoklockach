@@ -46166,5 +46166,436 @@
   "dla_rodzica": "Oznaczenie 9+ dotyczy budowania, ale temat nie: połowa minifigurek to zombie z dorosłej animacji Marvela, więc dla młodszego dziecka to nie jest zestaw do zabawy przed snem. Dla nastolatka znającego serial trafia dobrze — 814 elementów to kilka wieczorów, a gotowy model służy jako scena do odgrywania.",
   "dla_afol": "Cena katalogowa to 429,99 zł przy 814 elementach, czyli 53 grosze za element — stawka licencyjna, normalna dla Marvela. Prawdziwym argumentem jest skład: sześć minifigurek, w tym cztery wersje zombie i Strange Supreme, których dotąd nie było w żadnym zestawie. Przy takich kompletach figurek rynek wtórny bywa droższy niż katalog, więc próg zakupu stawiam na 350 zł i nie liczyłbym na głębokie rabaty w pierwszym półroczu.",
   "oferty": []
+ },
+ "10713": {
+  "nazwa": "Kreatywna walizka",
+  "seria": "Classic",
+  "cena_katalogowa": 81.99,
+  "elementy": 213,
+  "wiek": "4+",
+  "premiera": "2018",
+  "opis": "",
+  "dla_rodzica": "To nie model do złożenia, tylko zestaw startowy w walizce z przegródkami — kupuje się go po to, żeby dziecko budowało własne rzeczy i miało gdzie je trzymać. Od czterech lat w górę, bez instrukcji do jednego konkretnego modelu, więc nie zestarzeje się po jednym wieczorze.",
+  "dla_afol": "Zestaw z 2018 roku, który LEGO sprzedaje do dziś — to rzadkość i dowód, że pudełko z sortownikiem sprzedaje się samo. Przy około 44 zł wobec katalogu 81,99 wychodzi 0,21 zł za element, czyli tanie źródło podstawowych kolorów do zapasów.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 59.98,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 44.23,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 64.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 52.89,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 79.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 54.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 76.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "31214": {
+  "nazwa": "LOVE",
+  "seria": "Art",
+  "cena_katalogowa": 339.99,
+  "elementy": 791,
+  "wiek": "18+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Dekoracja 18+, nie zabawka — rzeźba na półkę albo na ścianę. Jako prezent działa dla dorosłego, nie dla dziecka, bo po zbudowaniu nie ma tu co robić.",
+  "dla_afol": "Przy 198 zł wobec katalogu 339,99 wychodzi 0,25 zł za element, czyli dobrze na tle serii Art, która zwykle każe płacić za nadruki. Kultowy motyw LOVE Roberta Indiany trzyma się na półce lepiej niż obrazy portretowe z tej samej linii.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 198,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 198,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lego",
+    "cena": 339.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 237.6,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 339.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 269.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "31380": {
+  "nazwa": "Konsola do gry retro",
+  "seria": "Creator",
+  "cena_katalogowa": 81.99,
+  "elementy": 268,
+  "wiek": "8+",
+  "premiera": "2026-01",
+  "opis": "",
+  "dla_rodzica": "Creator 3 w 1, czyli trzy modele z jednego pudełka i realna zachęta do przebudowy, a nie jednorazowe złożenie. Dobry pierwszy zestaw „z klimatem\" dla ośmiolatka, tani na tyle, że nie boli, jeśli wyląduje w pudle z klockami luzem.",
+  "dla_afol": "Premiera 1 stycznia 2026, więc to nie końcówka serii. Przy 52,89 zł wobec katalogu 81,99 to 0,20 zł za element — dla Creatora 3 w 1 wynik bardzo dobry, a konsola z krzyżakiem i kartridżem ma kilka nadruków wartych rozbiórki na części.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 59.98,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 44.23,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 59.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 59.9,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 52.89,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 78.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "smyk",
+    "cena": 56.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 69.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "75689": {
+  "nazwa": "Emerald City i Kiamo Ko Castle",
+  "seria": "Wicked",
+  "cena_katalogowa": 339.99,
+  "elementy": 860,
+  "wiek": "9+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Dwa modele w jednym pudełku i dwie minilaleczki, więc za jedną cenę są dwie sceny do zabawy — to rzadziej spotykany układ i realny argument przy prezencie. Dla dziewięciolatka budowa jest w zasięgu, ale rozłożona na kilka wieczorów.",
+  "dla_afol": "Najtańsza droga do zielonych i fioletowych elementów z tej licencji; przy 199 zł wobec katalogu 339,99 to 0,23 zł za element, a pozostałe pozycje Wicked startują wyżej. Licencja jest jednofilmowa, więc po zejściu serii z produkcji raczej nie dostanie kontynuacji.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 249,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 199,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 212.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 339.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 237.6,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 354.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 277.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "76785": {
+  "nazwa": "Mieszkanie Rączki",
+  "seria": "Wednesday",
+  "cena_katalogowa": 359.99,
+  "elementy": 828,
+  "wiek": "10+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Dla widza serialu — bez tego kontekstu zostaje mieszkanie z ruchomą dłonią, co trafia słabiej. Oznaczenie 10+ jest uczciwe: budowa jest wielopiętrowa i wymaga cierpliwości, a gotowy model nadaje się raczej do ustawienia niż do intensywnej zabawy.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026, a LEGO.com nie ma już tego zestawu na stanie — zostają sklepy zewnętrzne. Przy 189 zł u x-komu wobec katalogu 359,99 wychodzi 0,23 zł za element i to jest nasze minimum notowań; ruchoma Rączka i wnętrze w stylu serialu to części, których nie ma w żadnym innym zestawie.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 209.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 199,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 239.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 251.99,
+    "data": "2026-10-14"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 199,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 354.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 189,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77055": {
+  "nazwa": "Able Sisters i sklep odzieżowy",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 169.99,
+  "elementy": 322,
+  "wiek": "6+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Sklep z przebieraniem figurek — zabawa polega na zmianie ubrań i przestawianiu wnętrza, więc dziecko wraca do zestawu po zbudowaniu. Od szóstego roku życia, budowa na jedno popołudnie.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Katalog 169,99 przy 322 elementach to drogo (0,53 zł za element), po obniżce do 99,96 zł schodzi do 0,31 zł — kupuje się za siostry Able i elementy ubrań, bo wsadu klocków tu nie ma wiele.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 115,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 99.96,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 99.96,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 118.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "lidl",
+    "cena": 129.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 174.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 144.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77057": {
+  "nazwa": "Kreatywne domy: Pory zabawy",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 379.99,
+  "elementy": 814,
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Zestaw do wspólnej zabawy z grą Animal Crossing w tle — cztery domki, które składa się i przestawia, więc po zbudowaniu zabawa się nie kończy. Dla dziecka nieznającego gry to po prostu domki z figurkami zwierząt, co nadal działa, ale bez efektu rozpoznania.",
+  "dla_afol": "LEGO nie ma już karty tego zestawu, czyli praktycznie zszedł z produkcji, a w sklepach zewnętrznych stoi po około 199 zł wobec katalogu 379,99 — to 0,24 zł za element przy 0,47 zł katalogowo. Przy zestawie po EOL to poziom, który zwykle się nie powtarza, bo kolejnym krokiem jest rynek wtórny.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 234.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 199,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 248.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 199,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 389.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 308.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77058": {
+  "nazwa": "Przytulny dom Goldie",
+  "seria": "Animal Crossing",
+  "cena_katalogowa": 81.99,
+  "elementy": 149,
+  "wiek": "6+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Mały, szybki zestaw dla sześciolatka — jedno popołudnie budowy i domek, którym da się potem bawić. Dobry rozmiar na prezent „mniejszego kalibru\" albo na pierwsze zetknięcie z serią.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Przy 149 elementach i katalogu 81,99 cena za element jest wysoka (0,55 zł) i nawet po obniżce do około 45 zł schodzi tylko do 0,30 zł — bierze się tę pozycję za figurkę Goldie, nie za wsad klocków.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 55.88,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 44.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 50.93,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 84.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 79.9,
+    "data": "2026-10-26"
+   }
+  ]
+ },
+ "77076": {
+  "nazwa": "Restauracja Durrr Burgerownia",
+  "seria": "Fortnite",
+  "cena_katalogowa": 249.99,
+  "elementy": 546,
+  "wiek": "10+",
+  "premiera": "2025",
+  "opis": "",
+  "dla_rodzica": "Trafia u dziecka, które grało w Fortnite — rozpoznaje budkę z burgerem od razu. Zestaw jest do zabawy, nie tylko na półkę, a 10+ bierze się ze liczby drobnych elementów, nie z trudności samej budowy.",
+  "dla_afol": "Wycofanie potwierdzone na grudzień 2026. Katalog 249,99, w sklepach zewnętrznych około 133 zł, czyli 0,24 zł za element wobec 0,46 zł katalogowo. Ostrzeżenie praktyczne: przy tym numerze w feedach pojawiały się kwoty rzędu 89 zł, których karty sklepów nie potwierdzały — naszym punktem odniesienia jest 131,99 zł z 25.10.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 133,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 137.9,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "empik",
+    "cena": 145.99,
+    "data": "2026-10-26"
+   },
+   {
+    "sklep": "lego",
+    "cena": 199.99,
+    "data": "2026-10-27"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 176.22,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "planetaklockow",
+    "cena": 264.99,
+    "data": "2026-10-28"
+   },
+   {
+    "sklep": "xkom",
+    "cena": 208.9,
+    "data": "2026-10-26"
+   }
+  ]
  }
 }

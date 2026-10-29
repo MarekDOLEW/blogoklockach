@@ -7957,5 +7957,68 @@
   "najnizsza_cena": 599,
   "najnizsza_data": "2026-09-25",
   "najnizsza_sklep": "smyk"
+ },
+ "10713": {
+  "nazwa": "Kreatywna walizka",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.52,
+  "najnizsza_data": "2026-10-08",
+  "najnizsza_sklep": "allegro"
+ },
+ "31214": {
+  "nazwa": "LOVE",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 198,
+  "najnizsza_data": "2026-10-17",
+  "najnizsza_sklep": "allegro"
+ },
+ "31380": {
+  "nazwa": "Konsola do gry retro",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 52.89,
+  "najnizsza_data": "2026-10-21",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "75689": {
+  "nazwa": "Emerald City i Kiamo Ko Castle",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "76785": {
+  "nazwa": "Mieszkanie Rączki",
+  "cena_katalogowa": 359.99,
+  "najnizsza_cena": 189,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "xkom"
+ },
+ "77055": {
+  "nazwa": "Able Sisters i sklep odzieżowy",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 89,
+  "najnizsza_data": "2026-09-23",
+  "najnizsza_sklep": "allegro"
+ },
+ "77057": {
+  "nazwa": "Kreatywne domy: Pory zabawy",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "77058": {
+  "nazwa": "Przytulny dom Goldie",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 50.93,
+  "najnizsza_data": "2026-10-19",
+  "najnizsza_sklep": "empik"
+ },
+ "77076": {
+  "nazwa": "Restauracja Durrr Burgerownia",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 131.99,
+  "najnizsza_data": "2026-10-25",
+  "najnizsza_sklep": "allegro"
  }
 }
