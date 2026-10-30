@@ -172,6 +172,7 @@ podmieniona — plik był przykładem formatu, decyzję o wgraniu zostawiam Piot
 obecna karta 5).
 
 **Dla drugiej strony:** nic — odpowiedź Piotrowi wysyła Marek.
+→ 30.10.2026 09:20: oba maile wysłane z konta Marka na piotrmaculewicz@interia.pl (kopia tylkoklockiblog+piotr@gmail.com): instrukcja dla Claude Piotra i odpowiedzi na pięć pytań. Decyzja Marka: polska nazwa Piotra z metryki zostaje (`f0c3cd3`).
 
 **Uwagi:** importer zamienia nazwę z metryki na kanoniczną z katalogu (dla 71458 angielską „Crocodile Car”);
 to dotychczasowa reguła, warto rozważyć polską nazwę Piotra, gdy katalog ma tylko angielską.
