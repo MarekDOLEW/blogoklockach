@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Import kart katalogowo-sprzedażowych Piotra (DOCX) do karty_setow.json.
+"""Import kart katalogowo-sprzedażowych Piotra (DOCX albo Markdown) do karty_setow.json.
 
 Jedna ścieżka dla każdej paczki zipów – parsowanie, weryfikacja wobec danych
 repo, znane korekty szablonu, akapity redakcyjne wg progu elementów i zapis
 w formacie, którego Node nie umie utrzymać (klucze numeryczne + wcięcie 1,
 bez końcowego \n – patrz RUNBOOK "Stabilność formatu plików JSON").
+
+Od 30.10.2026 Piotr oddaje opisy P07 także jako pliki .md (ten sam układ:
+"# LEGO <nr> <nazwa>", "## Opis zestawu", "## Metryka zestawu" jako tabela
+Pole | Wartość, "## FAQ" z pytaniami "###"); parsuj_md() daje ten sam słownik
+co parsuj() dla DOCX, dalsza ścieżka (weryfikacja, linki, zapis) jest wspólna.
+Zipy i katalogi mogą mieszać oba formaty. Skrzynka tekstów Piotra
+(scripts/skrzynka-tekstow.py) woła ten skrypt dla załączników .md z metryką.
 
 Struktura DOCX (paczka P07, 08.2026): nagłówek → "Opis zestawu" (akapity) →
 "Metryka zestawu" (pary klucz/wartość) → "FAQ – zakup i dalsza nawigacja"
@@ -24,7 +31,7 @@ Weryfikacja (sekcja RAPORT przed zapisem):
 Korekty szablonu mail-merge (pola w dopełniaczu po "są/tworzą"):
   aplikowane tylko na dokładnym złączeniu fraza+wartość pola, każda wypisana.
 
-Użycie:
+Użycie (argumentem może być katalog, zip, pojedynczy .docx albo .md):
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --sucho     # raport
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --nadpisz  # zastąp istniejące
   python3 scripts/import-karty.py <katalog-z-docx-lub-zip>... --krotkie  # dopuść 1 akapit opisu
@@ -109,6 +116,75 @@ def parsuj(path):
     faq = rozciete
     d['faq'] = [{'q': faq[i], 'a': faq[i+1]} for i in range(0, len(faq)-1, 2)]
     return d
+
+# ---------- parsowanie Markdown (opisy P07 jako .md, od 30.10.2026) ----------
+# Układ pliku Piotra: „# LEGO <nr> <nazwa>” → „## Opis zestawu” (akapity) →
+# „## Metryka zestawu” (tabela | Pole | Wartość |) → „## FAQ” (pytania „###”,
+# odpowiedzi jako akapity). Blok [DANE DLA SERWISU] – gdyby się pojawił – jest
+# pomijany: karta nie ma frontmattera, meta huba liczy się z danych serwisu.
+WYROZNIENIA_MD = [(re.compile(r'\*\*(.+?)\*\*'), r'<strong>\1</strong>'), (re.compile(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)'), r'<em>\1</em>')]
+
+def _akapit_md(linie):
+    """Linie jednego akapitu → tekst z prostym Markdownem zamienionym na HTML."""
+    t = ' '.join(l.strip() for l in linie).strip()
+    for wzor, zam in WYROZNIENIA_MD:
+        t = wzor.sub(zam, t)
+    return t
+
+def parsuj_md(path):
+    d = {'plik': os.path.basename(path), 'nr': None, 'akapity': [], 'metryka': collections.OrderedDict(), 'faq': []}
+    with open(path, encoding='utf-8-sig') as f:
+        linie = f.read().replace('\r\n', '\n').split('\n')
+    sekcja = None; pytanie = None; odpowiedz = []; biezacy = []
+    def zamknij():
+        nonlocal biezacy, odpowiedz
+        if biezacy:
+            a = _akapit_md(biezacy); biezacy = []
+            if sekcja == 'opis' or (sekcja is None and d['nr']): d['akapity'].append(a)
+            elif sekcja == 'faq' and pytanie is not None: odpowiedz.append(a)
+    def zamknij_pytanie():
+        nonlocal pytanie, odpowiedz
+        if pytanie is not None and odpowiedz:
+            d['faq'].append({'q': pytanie, 'a': ' '.join(odpowiedz)})
+        pytanie = None; odpowiedz = []
+    for l in linie:
+        s = l.strip()
+        if s.startswith('[DANE DLA SERWISU]'):
+            zamknij(); zamknij_pytanie(); sekcja = 'dane'; continue
+        if sekcja == 'dane':
+            if s.startswith('[KONIEC DANYCH'): sekcja = 'inne'
+            continue
+        if not s:
+            zamknij(); continue
+        m = re.match(r'^(#{1,6})\s+(.*?)\s*#*$', s)
+        if m:
+            zamknij()
+            poziom, tytul = len(m.group(1)), m.group(2)
+            if poziom == 1:
+                mn = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,7})(?:\s|$)', tytul)
+                if mn and not d['nr']: d['nr'] = mn.group(1)
+                continue
+            if sekcja == 'faq' and poziom >= 3:
+                zamknij_pytanie(); pytanie = tytul; continue
+            zamknij_pytanie()
+            sekcja = ('opis' if 'Opis' in tytul else 'metryka' if 'Metryka' in tytul
+                      else 'faq' if ('FAQ' in tytul or 'pytania' in tytul.lower()) else 'inne')
+            continue
+        if sekcja == 'metryka':
+            if s.startswith('|'):
+                kom = [k.strip() for k in s.strip('|').split('|')]
+                if len(kom) >= 2 and not re.match(r'^:?-{3,}:?$', kom[0]) and kom[0] not in ('Pole',):
+                    d['metryka'][kom[0]] = _akapit_md([kom[1]])
+            continue
+        if sekcja == 'faq' and pytanie is None and s.endswith('?') and not s.startswith('|'):
+            # pytanie zapisane zwykłym akapitem zamiast „###” – też przyjmujemy
+            zamknij(); pytanie = s; continue
+        biezacy.append(s)
+    zamknij(); zamknij_pytanie()
+    return d
+
+def parsuj_plik(path):
+    return parsuj_md(path) if path.lower().endswith('.md') else parsuj(path)
 
 # ---------- dane repo ----------
 def zbuduj_kontekst():
@@ -300,17 +376,19 @@ def main():
         print(__doc__); sys.exit(1)
     pliki = []
     tmp = tempfile.mkdtemp(prefix='karty-')
+    WZORY = ('*.docx', '*.md')
     for a in argv:
         if a.endswith('.zip'):
             with zipfile.ZipFile(a) as z: z.extractall(tmp)
-            pliki += glob.glob(os.path.join(tmp, '**', '*.docx'), recursive=True)
+            for w in WZORY: pliki += glob.glob(os.path.join(tmp, '**', w), recursive=True)
         elif os.path.isdir(a):
-            pliki += glob.glob(os.path.join(a, '**', '*.docx'), recursive=True)
+            for w in WZORY: pliki += glob.glob(os.path.join(a, '**', w), recursive=True)
         else:
             pliki.append(a)
-    # macOS-owe zrzuty AppleDouble (._nazwa.docx) nie są dokumentami – odsiej
-    pliki = sorted({p2 for p2 in pliki if not os.path.basename(p2).startswith('._')})
-    print(f'plików DOCX: {len(pliki)}')
+    # macOS-owe zrzuty AppleDouble (._nazwa.docx) nie są dokumentami – odsiej;
+    # pliki „_…md” (szablony, README paczki) też nie są kartami
+    pliki = sorted({p2 for p2 in pliki if not os.path.basename(p2).startswith(('._', '_'))})
+    print(f'plików: {len(pliki)} (DOCX {sum(p2.lower().endswith(".docx") for p2 in pliki)}, MD {sum(p2.lower().endswith(".md") for p2 in pliki)})')
     ctx = zbuduj_kontekst()
     karty = czytaj('karty_setow.json')
     orig = open(os.path.join(DATA, 'karty_setow.json'), encoding='utf-8').read()
@@ -318,10 +396,10 @@ def main():
 
     nowe = collections.OrderedDict(); blokady = []; ostrz = []
     for p in pliki:
-        d = parsuj(p); nr = d['nr']; m = d['metryka']
+        d = parsuj_plik(p); nr = d['nr']; m = d['metryka']
         min_akapitow = 1 if krotkie else 2
         if not nr or len(d['akapity']) < min_akapitow or len(d['faq']) < 3 or len(m) < 6:
-            blokady.append((d['plik'], 'niekompletna struktura DOCX')); continue
+            blokady.append((d['plik'], f'niekompletna struktura pliku (nr {nr or "?"}, akapity {len(d["akapity"])}, FAQ {len(d["faq"])}, pól metryki {len(m)})')); continue
         if len(d['akapity']) < 2:
             ostrz.append((nr, f'tylko {len(d["akapity"])} akapit opisu – wgrane przez --krotkie'))
         if nr in karty:
@@ -385,6 +463,7 @@ def main():
             ('akapity', ak), ('metryka', m), ('faq', faq)])
 
     print(f'\nRAPORT – do wgrania: {len(nowe)}, zablokowane: {len(blokady)}, ostrzeżeń: {len(ostrz)}')
+    for nr in nowe: print(f'  karta {nr}: {nowe[nr]["nazwa"]}')
     for nr, o in blokady: print(f'  BLOKADA {nr}: {o}')
     for nr, o in ostrz: print(f'  uwaga {nr}: {o}')
     if sucho:

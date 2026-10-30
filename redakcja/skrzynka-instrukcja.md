@@ -46,6 +46,41 @@ dochodzi data aktualizacji.
 - plików Word — źródłem jest tylko `.md`;
 - linków do sklepów i disclosure afiliacji — dokłada je serwis.
 
+## Opisy zestawów P07 (karty) — od 30.10.2026
+
+Tą samą skrzynką idą opisy zestawów P07, **jako pliki `.md`** zamiast paczek DOCX. Układ pliku
+bez zmian względem szablonu DOCX:
+
+- `# LEGO [numer] [nazwa]`,
+- `## Opis zestawu` — akapity,
+- `## Metryka zestawu` — tabela dwukolumnowa `| Pole | Wartość |` ze stałymi nazwami pól
+  (Numer, Nazwa, Seria, Premiera, Elementy, Wiek, Minifigurki / postacie, Cena katalogowa w Polsce,
+  Cena katalogowa za element, Typ zestawu, Kolekcja / system, Dystrybucja),
+- `## FAQ` — pytania jako `###`, odpowiedzi jako akapity,
+- znaczniki linków jak dotąd: `[sprawdź aktualne ceny LEGO 12345 – link wewnętrzny]`
+  i `[zobacz kategorię LEGO [SERIA] – link wewnętrzny]`.
+
+Zasady:
+
+- **Automat poznaje kartę po treści** (nagłówek `## Metryka zestawu`), nie po nazwie pliku.
+  Nazwa `NUMER - NAZWA - P07.md` z polskimi znakami i spacjami jest w porządku.
+- **ZIP albo osobne załączniki — oba działają.** Partię 25 opisów najwygodniej wysłać jako jeden
+  ZIP z plikami `.md` w środku (bez folderów; foldery i tak są spłaszczane, śmieci `__MACOSX` pomijane).
+  25 pojedynczych załączników `.md` też przejdzie. W jednym mailu mogą być razem karty i artykuły.
+- **Bez bloku `[DANE DLA SERWISU]`.** Karta nie ma frontmattera: tytuł, opis dla Google i dane
+  strukturalne huba `/zestaw/<nr>/` serwis liczy sam z metryki i z własnych danych. Gdyby blok się
+  pojawił, importer go pominie.
+- **Karta publikuje się na hubie `/zestaw/<nr>/`**, pod tabelą cen. Mail „Opublikowane” podaje
+  link do huba. Poprawka = ten sam numer zestawu w nowym pliku; zastępuje poprzednią kartę
+  (także wgraną wcześniej z DOCX).
+- **Co wstrzymuje publikację całej paczki:** cena katalogowa w metryce inna niż w danych serwisu
+  (rozstrzygamy Bricksetem przed ponownym wysłaniem), niekompletny plik (mniej niż 2 akapity opisu,
+  mniej niż 3 pytania FAQ, mniej niż 6 pól metryki, brak numeru w tytule) albo znacznik linku,
+  którego importer nie zna. Jako uwagi (bez blokady) wracają: nazwa zamieniona na kanoniczną
+  z katalogu, liczba elementów inna niż w katalogu, brak huba dla numeru.
+- **Wcześniejszych partii (01–25) nie trzeba konwertować ani wysyłać** — są już w serwisie
+  (wgrane z DOCX). Wyślij tylko te, które zawierają poprawki.
+
 ## Co się dzieje po wysłaniu
 
 - Claude Code sprawdza skrzynkę **codziennie o 8:52 i 14:52**. Tekst jest na stronie kilka

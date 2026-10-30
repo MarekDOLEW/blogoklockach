@@ -154,6 +154,29 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-30 09:40 · CODE · Opisy P07 jako .md przez skrzynkę tekstów
+
+**Zrobione:**
+- `scripts/import-karty.py` czyta także Markdown w układzie Piotra („# LEGO <nr> <nazwa>”, „## Opis zestawu”,
+  tabela „## Metryka zestawu”, „## FAQ” z `###`); katalog/zip może mieszać DOCX i .md. Raport wypisuje linie
+  `karta <nr>` dla kart do wgrania.
+- `scripts/skrzynka-tekstow.py`: załącznik ZIP jest rozpakowywany (płasko, poprawne polskie znaki w nazwach),
+  plik z „## Metryka zestawu” idzie do `import-karty.py --nadpisz`, link w mailu to `/zestaw/<nr>/`; karty
+  i artykuły w jednym mailu publikują się razem albo wcale. Prompt zadania cyklicznego bez zmian (woła
+  `publikuj` na katalogu).
+- Odpowiedź dla Claude Piotra: `materialy/mail-do-piotra-opisy-md-2026-10-30.md`; instrukcja:
+  `redakcja/skrzynka-instrukcja.md`, sekcja „Opisy zestawów P07”.
+
+**Stan:** gotowe, sprawdzone na sucho na pliku 71458 (import i `publikuj --sucho`); karta 71458 NIE została
+podmieniona — plik był przykładem formatu, decyzję o wgraniu zostawiam Piotrowi (nowa wersja ma 3 figurki,
+obecna karta 5).
+
+**Dla drugiej strony:** nic — odpowiedź Piotrowi wysyła Marek.
+
+**Uwagi:** importer zamienia nazwę z metryki na kanoniczną z katalogu (dla 71458 angielską „Crocodile Car”);
+to dotychczasowa reguła, warto rozważyć polską nazwę Piotra, gdy katalog ma tylko angielską.
+
+
 ## 2026-10-30 08:40 · CODE · „Zestawy pod lupą”: 17 tekstów /deale/ w nowym formacie + moduł ceny
 
 **Zrobione:**
