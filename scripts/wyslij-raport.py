@@ -36,10 +36,17 @@ KONWERTER = REPO / 'scripts' / 'md-na-pdf.py'
 
 
 def chromium() -> str:
-    """Sciezka do headless Chromium. Numer wersji w katalogu sie zmienia,
-    wiec nie wpisujemy go na sztywno — bierzemy to, co jest."""
-    for wzorzec in ('/opt/pw-browsers/chromium-*/chrome-linux/chrome',
-                    '/opt/pw-browsers/chromium_headless_shell-*/chrome-linux/headless_shell'):
+    """Sciezka do headless Chromium. Zmienia sie i numer wersji w katalogu,
+    i nazwa katalogu z binarka (30.10.2026: paczka 1243 rozpakowala sie do
+    chrome-linux64, a nie chrome-linux, przez co skrypt przestal znajdowac
+    przegladarke i raport Scouta nie wyszedl). Dlatego najpierw stale
+    dowiazanie /opt/pw-browsers/chromium, a dopiero potem wzorce, juz na
+    oba uklady nazw katalogu."""
+    stale = '/opt/pw-browsers/chromium'
+    if os.path.exists(stale):
+        return stale
+    for wzorzec in ('/opt/pw-browsers/chromium-*/chrome-linux*/chrome',
+                    '/opt/pw-browsers/chromium_headless_shell-*/chrome-linux*/headless_shell'):
         trafienia = sorted(glob.glob(wzorzec))
         if trafienia:
             return trafienia[-1]
