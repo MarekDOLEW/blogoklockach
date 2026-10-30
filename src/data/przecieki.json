@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-29",
+  "zaktualizowano": "2026-10-30",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -33,11 +33,21 @@
      "nazwa": "PromoBricks / StoneWars",
      "url": null,
      "data": "2026-09"
+    },
+    {
+     "nazwa": "PromoBricks",
+     "url": "https://www.promobricks.de/livestream-lego-black-friday-2026-godzilla-teaser/",
+     "data": "2026-10-28"
+    },
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-live-event-reveal-black-friday-set-ankuendigung/",
+     "data": "2026-10-29"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Liczba elementów z przecieku.",
-   "opis": "Liczba elementów pochodzi z przecieku. Ceny ani dokładnej daty premiery LEGO jeszcze nie podało – listopad 2026 to termin według źródeł branżowych.",
+   "uwagi": "Liczba elementów z przecieku. 30.10.2026: dwa źródła zgodne co do numeru 21375, 5364 elementów i daty 27.11.2026 — PromoBricks 28.10 i StoneWars 29.10 — ale cena nie. PromoBricks pisze „399,99 oder 449,99 Euro je nach Quelle\", StoneWars podaje 449,99 dolara. Drabina wymaga zgody co do numeru I ceny, więc pewność zostaje „srednia\"; cena_wg_zrodla zostaje null, bo nie wybieram jednej z dwóch kwot. LEGO potwierdziło samą transmisję (3.11.2026, 18:00, z Q&A projektantów), nie nazywając zestawu.",
+   "opis": "Zestaw Ideas z Godzillą – według przecieków 5364 elementy, czyli rozmiar stawiający go wśród największych pudełek rocznika. LEGO zapowiedziało na 3 listopada 2026 transmisję, na której odsłoni duży zestaw na Black Friday, i samo pisze o niej tylko „coś wielkiego nadchodzi\" – bez numeru i bez tematu. Na Godzillę wskazują PromoBricks i StoneWars, zgodne co do numeru 21375, liczby elementów i startu sprzedaży 27 listopada 2026. Rozjeżdża się cena: jedne źródła mówią o 399,99 euro, inne o 449,99. Rozstrzygnie to transmisja albo karta produktu na lego.com.",
    "rozstrzygniecie": null
   },
   {
@@ -1869,6 +1879,27 @@
    "dodano": "2026-10-29",
    "uwagi": "Zrodlo pierwotne to watek na Reddicie, relacjonowany przez PromoBricks, ktory sam oznacza tekst jako plotke („Geruchte” w tytule i w opisie strony). Brak numerow, liczby elementow, cen i zdjec nowych zestawow — zdjecie w artykule to stara seria NBA Sports z 2003 roku, uzyta jako ilustracja. Dlatego pewnosc „niska” i wpis bez numeru. Licencja NBA byla u LEGO raz, w latach 2003-2004, wiec powrot jest wiarygodny, ale to nie dowod. Do podniesienia, gdy pojawi sie numer albo listing dystrybutora.",
    "opis": "Seria zestawów z licencją NBA i minifigurką LeBrona Jamesa, zapowiadana na pierwsze półrocze 2027 roku. Informacja pochodzi z wątku na Reddicie, relacjonowanego przez jeden serwis branżowy, który sam opisuje ją jako plotkę. Nie ma numerów zestawów, liczby elementów, cen ani zdjęć. Koszykarska licencja NBA była w katalogu LEGO w latach 2003–2004, więc powrót jest możliwy, ale na razie nic poza tą jedną wzmianką go nie potwierdza.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "71054",
+   "numer": "71054",
+   "nazwa": "Minifigurki — seria 30",
+   "seria": "Minifigurki",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "Brickset",
+     "url": "https://brickset.com/sets/year-2027",
+     "data": "2026-10-30"
+    }
+   ],
+   "dodano": "2026-10-30",
+   "uwagi": "30.10.2026: wpis z listy brickset.com/sets/year-2027 — rekord bez zdjęć, bez liczby elementów i bez daty, z adnotacją „This has not yet been released\". Brickset zakłada takie rekordy dla kolejnych serii CMF z wyprzedzeniem, stąd pewność „niska\" (sam numer). cena_wg_zrodla zostaje null zamiast przeliczenia 3,99 € → 20 zł: zaokrąglenie do 10 zł przy kwocie rzędu 17 zł wyglądałoby jak podwyżka wobec 16,49 zł, które płaci się dziś za serie 29 i Shrek. Do podniesienia, gdy skład serii pokażą PromoBricks albo StoneWars. Numer idzie do przecieków, nie do sety.json, żeby kolejny przebieg nie zgłosił go jako nowości.",
+   "opis": "Trzydziesta seria kolekcjonerskich minifigurek, zapisana w katalogu Bricksetu pod numerem 71054 z rocznikiem 2027 i ceną 3,99 euro za saszetkę — tyle samo, ile kosztują serie sprzedawane obecnie. Brakuje wszystkiego, co decyduje o tym, czy warto polować: składu serii, zdjęć i daty premiery. LEGO serii nie zapowiedziało, a serwisy branżowe jeszcze o niej nie pisały, więc na razie jest to sam numer w katalogu.",
    "rozstrzygniecie": null
   }
  ]

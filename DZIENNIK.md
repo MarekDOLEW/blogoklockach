@@ -154,6 +154,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-30 05:18 · SCOUT · Do zrobienia
+
+**LEGO wyznaczyło odsłonięcie zestawu na Black Friday na 3 listopada 2026, godz. 18:00 (transmisja z Q&A projektantów); PromoBricks 28.10 i StoneWars 29.10 zgodnie wskazują na Ideas Godzilla 21375, 5364 elementy, sprzedaż od 27 listopada — ale cena rozjeżdża się między źródłami: 399,99 albo 449,99 euro.**
+**Mamy?** — częściowo: `/kalendarz-promocji-lego/` (sekcja `#listopad`) ma akapit o 21375 wchodzącej w dniu Black Friday i terminy z plakietką „przewidywane", ale nie ma daty samego odsłonięcia ani informacji, że cena nie jest ustalona.
+**Zrobić:** — dopisać w `/kalendarz-promocji-lego/`, sekcja `#listopad`, jedno zdanie: transmisja LEGO 3 listopada 2026 o 18:00 odsłania zestaw na Black Friday, spodziewana Godzilla 21375; przy cenie napisać widełki 399,99–449,99 euro zamiast jednej kwoty, dopóki LEGO nie poda swojej.
+**Kto:** — Code (strona)
+
+**107 zestawów ma w `katalog.json` status `dostepny` i aktualne oferty w `oferty_feed.json`, a nie ma ich w `sety.json` — czyli bez śledzonego minimum, bez alertu cenowego i bez wejścia do „Dziś w dobrej cenie".**
+**Mamy?** — częściowo: huby tych zestawów stoją i pokazują ceny z feedu, ale rejestru nie mają. To inna lista niż ta domknięta 29.10 — tamta brała tylko zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25%; ta nie ma progu rabatu i obejmuje też pozycje bez ceny katalogowej.
+**Zrobić:** — zdecydować, które grupy z tych 107 w ogóle chcemy śledzić, bo to nie jest jednorodna lista: **85** pozycji to normalne zestawy roczników 2012–2025 (84 z nich z potwierdzonym RRP; rocznik 2025 to 48 sztuk, 2024 — 21; m.in. 10351, 10352, 10361, 10375, 21360, 42217, 76317 oraz 21351 z potwierdzonym wycofaniem na grudzień 2026), **13** to gadżety i breloki bez ceny katalogowej (854xxx, 5006157, 5007851), **6** to Power Functions (88005, 88009, 88010, 88012, 88013, 88015), a **4** to tegoroczne saszetki i brelok bez RRP (30718, 30720, 30732, 854328 — ten ostatni liczy się też w gadżetach, stąd 85+13+6+4 daje 108, a nie 107). Pełną listę odtwarza polecenie z raportu Scouta z 30.10.
+**Kto:** — Marek (decyzja)
+
+
+
 ## 2026-10-29 08:05 · RADAR · Do zrobienia
 
 **faniklockow.pl · 28.10** — Trzy „Okazje Cenowe"; dwie sprawdziły się jako nasze własne minimum albo gorszą cenę (60506 ich 179 zł = nasz rekord z 02.10; 77259 ich 65 zł wyżej od naszych 59,99 z 07.09), ale trzecia — 72046 Game Boy, 157,69 zł u Ceneo przy katalogu 249,99 — dotyczy zestawu, którego nie ma w rejestrze; to drugi taki przypadek w dwa dni po 21333.

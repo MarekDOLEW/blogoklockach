@@ -48815,5 +48815,84 @@
     "data": "2026-10-26"
    }
   ]
+ },
+ "50090": {
+  "nazwa": "Przygoda w parku LEGOLAND",
+  "seria": "Ekskluzywne i promocyjne",
+  "cena_katalogowa": null,
+  "elementy": 1578,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Duży model spod szyldu parków LEGOLAND: 1578 elementów, premiera w 2027 roku. Zestawy z tej linii nie wchodzą do zwykłej dystrybucji – LEGO sprzedaje je w samych parkach i w sklepach przy nich, więc polskiej ceny katalogowej nie dostanie. W strefie euro kosztuje 109,99 euro.",
+  "dla_rodzica": "Bez polskiej dystrybucji, więc w kraju kupuje się go z drugiej ręki, zwykle z wyraźną marżą do ceny parkowej. Jeśli nie planujecie wyjazdu do LEGOLAND-u, za te pieniądze łatwiej znaleźć porównywalnej wielkości model w regularnej ofercie, z gwarancją i możliwością reklamacji.",
+  "dla_afol": "Sprzedaż ograniczona do parków oznacza mały nakład i utrudniony dostęp poza miejscem zakupu – potencjał kolekcjonerski oceniam na wysoki, podobnie jak przy Zamku LEGOLAND (40952). Rabatu nie ma od czego liczyć: polskie oferty to import z marżą, a nie pozycja w cenniku.",
+  "oferty": [],
+  "ekskluzyw": true,
+  "bez_rrp": "ekskluzyw parków LEGOLAND — nie ma polskiej ceny katalogowej (109,99 € w parkach); ewentualne oferty w Polsce to import"
+ },
+ "910069": {
+  "nazwa": "Fisherman's Village",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 4027,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Największy zestaw dziewiątej serii BrickLink Designer Program: nadmorska wioska rybacka z 4027 elementów, z latarnią morską, kutrem, portowymi kramami i restauracją. Cena w programie to 349,99 euro, a wysyłka do zamawiających przypada na 2027 rok.",
+  "dla_rodzica": "Zestaw z programu BrickLink, a nie z półki sklepowej: zamawiało się go w jednorazowym okienku i w Polsce nie ma regularnej dystrybucji. Cztery tysiące elementów i charakter modelu wystawowego ustawiają go po stronie projektów dla dorosłego budującego, nie zabawek dla dziecka.",
+  "dla_afol": "Najdroższa pozycja dziewiątej serii BDP (349,99 euro). Jednorazowy nakład z zamówień przedpremierowych i brak dodruku to układ, w którym ceny wtórne rosną od pierwszych dni po wysyłce. Polskie oferty, gdy się pojawią, będą odsprzedażą – nie ma tu ceny katalogowej, od której liczylibyśmy rabat.",
+  "oferty": [],
+  "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (349,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "910070": {
+  "nazwa": "Sleepy Dragon Inn",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 3121,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Zajazd w klimacie zamkowym z 3121 elementów: wnętrze z kuchnią, kominkiem i sypialniami, scena dla grajków, a wokół rycerze z frakcji Gryfa, Konia i Krakena. Zestaw z dziewiątej serii BrickLink Designer Program kosztuje 269,99 euro i trafia do zamawiających w 2027 roku.",
+  "dla_rodzica": "Kupowany w jednorazowym okienku zamówień BrickLink, a nie w sklepie – w Polsce nie ma go w regularnej sprzedaży. Rozmiar i liczba detali wskazują na model do ekspozycji, choć rycerze i rozkładane wnętrze zajazdu dają więcej okazji do zabawy niż typowe pudełko z tej półki.",
+  "dla_afol": "Motyw zamkowy z trzema frakcjami rycerzy to najmocniejszy argument tej serii dla zbieraczy minifigurek. Nakład jest jednorazowy i dodruku nie będzie, więc wartość kolekcjonerską oceniam na wysoką. W Polsce dostępny wyłącznie z odsprzedaży, bez polskiego cennika (269,99 euro w programie).",
+  "oferty": [],
+  "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (269,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "910071": {
+  "nazwa": "Wild West Blacksmith",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 2533,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Kuźnia z miasteczka Dzikiego Zachodu: 2533 elementy, wiatrak, wieża ciśnień, powóz z koniem i warsztat z kowadłem. Zestaw z dziewiątej serii BrickLink Designer Program w cenie 219,99 euro, z wysyłką do zamawiających w 2027 roku.",
+  "dla_rodzica": "Zamawiany w jednorazowym okienku BrickLink, a nie kupowany w sklepie, i bez polskiej dystrybucji. Wielkość i liczba drobnych detali robią z niego projekt na kilka długich wieczorów dla dorosłego, a nie zestaw do odgrywania scen z dzieckiem.",
+  "dla_afol": "Powrót na Dziki Zachód, czyli do tematu, którego LEGO nie prowadzi w regularnej ofercie od lat – stąd zainteresowanie większe, niż sugerowałaby cena 219,99 euro. Jednorazowy nakład i brak dodruku zwykle windują ceny wtórne; w Polsce zestaw pojawi się wyłącznie z odsprzedaży.",
+  "oferty": [],
+  "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (219,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "910072": {
+  "nazwa": "Woodbrick Freight Depot",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 2252,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Kolejowa stacja towarowa z 2252 elementów: odcinek torów, dźwig przeładunkowy, waga, biuro i wagony z ładunkiem. Projekt Marii Kalaoglou z dziewiątej serii BrickLink Designer Program, w cenie 219,99 euro, z wysyłką w 2027 roku.",
+  "dla_rodzica": "Zestaw z programu BrickLink: zamawiało się go w jednorazowym okienku, a w polskich sklepach nie będzie. Dla dziecka ciekawe mogą być tory i dźwig, ale poziom trudności i liczba drobnych elementów ustawiają go wśród modeli dla dorosłych.",
+  "dla_afol": "Stacja pasuje do standardowego toru kolejowego LEGO, więc trafia nie tylko do zbieraczy BDP, ale i do budujących makiety – to rzadki w tym programie zestaw użytkowy, a nie tylko wystawowy. Nakład jednorazowy, bez dodruku; polskie oferty to odsprzedaż, bez ceny katalogowej (219,99 euro w programie).",
+  "oferty": [],
+  "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (219,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "910073": {
+  "nazwa": "Pumpkin Patch",
+  "seria": "BrickLink Designer Program",
+  "cena_katalogowa": null,
+  "elementy": 613,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Najmniejszy zestaw dziewiątej serii BrickLink Designer Program: poletko dyń z 613 elementów, ze strachem na wróble, studnią, budowanym drzewem i zwierzętami. Cena w programie to 49,99 euro, wysyłka do zamawiających w 2027 roku.",
+  "dla_rodzica": "Jedyna pozycja tej serii w rozmiarze, który da się złożyć w jedno popołudnie – ale i tak nie kupicie jej w polskim sklepie, bo BrickLink sprzedawał ją w jednorazowym okienku zamówień. Jesienny klimat, zwierzęta i strach na wróble sprawiają, że starsze dziecko poskłada ją z przyjemnością.",
+  "dla_afol": "Najtańsze wejście w dziewiątą serię BDP (49,99 euro) i sezonowy motyw, który dobrze sąsiaduje z jesiennymi zestawami Icons. Niski nakład jak w całym programie, więc i tu spodziewam się wyższych cen wtórnych; w Polsce dostępny wyłącznie z odsprzedaży.",
+  "oferty": [],
+  "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (49,99 €); oferty w Polsce to odsprzedaż"
  }
 }
