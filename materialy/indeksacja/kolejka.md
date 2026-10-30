@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-10-29
+# Kolejka „Poproś o zindeksowanie" — 2026-10-30
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
@@ -15,27 +15,26 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/serie/the-lego-movie/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-28, Google nie odwiedził)
-2. https://tylkoklocki.pl/zestaw/60464/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-28, Google nie odwiedził)
-3. https://tylkoklocki.pl/zestaw/75408/ — URL is unknown to Google (ponownie: w kolejce 2026-10-28, Google nie odwiedził)
-4. https://tylkoklocki.pl/zestaw/75410/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-28, Google nie odwiedził)
-5. https://tylkoklocki.pl/zestaw/71808/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-28, Google nie odwiedził)
-6. https://tylkoklocki.pl/zestaw/75443/ — URL is unknown to Google
-7. https://tylkoklocki.pl/zestaw/75449/ — URL is unknown to Google
-8. https://tylkoklocki.pl/zestaw/76308/ — Discovered - currently not indexed
-9. https://tylkoklocki.pl/zestaw/76320/ — Discovered - currently not indexed
-10. https://tylkoklocki.pl/zestaw/77242/ — Discovered - currently not indexed
-11. https://tylkoklocki.pl/zestaw/10425/ — Excluded by ‘noindex’ tag, crawl 2026-09-11 (to stary odczyt Google — w serwisie strona już nie ma noindex)
-12. https://tylkoklocki.pl/zestaw/10427/ — Discovered - currently not indexed
-13. https://tylkoklocki.pl/zestaw/10447/ — URL is unknown to Google
-14. https://tylkoklocki.pl/zestaw/10458/ — Discovered - currently not indexed
-15. https://tylkoklocki.pl/zestaw/10464/ — Discovered - currently not indexed
+1. https://tylkoklocki.pl/serie/the-lego-movie/ — URL is unknown to Google (ponownie: w kolejce 2026-10-29, Google nie odwiedził)
+2. https://tylkoklocki.pl/zestaw/10427/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-29, Google nie odwiedził)
+3. https://tylkoklocki.pl/zestaw/10447/ — URL is unknown to Google (ponownie: w kolejce 2026-10-29, Google nie odwiedził)
+4. https://tylkoklocki.pl/zestaw/10458/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-29, Google nie odwiedził)
+5. https://tylkoklocki.pl/zestaw/10464/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-29, Google nie odwiedził)
+6. https://tylkoklocki.pl/serie/horizon-adventures/ — URL is unknown to Google
+7. https://tylkoklocki.pl/zestaw/60493/ — Discovered - currently not indexed
+8. https://tylkoklocki.pl/zestaw/10465/ — URL is unknown to Google
+9. https://tylkoklocki.pl/zestaw/10469/ — Discovered - currently not indexed
+10. https://tylkoklocki.pl/zestaw/10472/ — Discovered - currently not indexed
+11. https://tylkoklocki.pl/zestaw/10473/ — Discovered - currently not indexed
+12. https://tylkoklocki.pl/serie/city/ — Crawled - currently not indexed, crawl 2026-10-26
+13. https://tylkoklocki.pl/serie/friends/ — Crawled - currently not indexed, crawl 2026-10-25
+14. https://tylkoklocki.pl/serie/marvel/ — Crawled - currently not indexed, crawl 2026-10-27
+15. https://tylkoklocki.pl/serie/one-piece/ — Crawled - currently not indexed, crawl 2026-09-05
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 290. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 5. Huby działów do odświeżenia crawla (tylko w poniedziałek): 0.
-- Submitted and indexed: 267
-- Discovered - currently not indexed: 11
-- Crawled - currently not indexed: 7
+Sprawdzone dziś w API: 300. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 5. Huby działów do odświeżenia crawla (tylko w poniedziałek): 0.
+- Submitted and indexed: 282
 - URL is unknown to Google: 4
-- Excluded by ‘noindex’ tag: 1
+- Crawled - currently not indexed: 7
+- Discovered - currently not indexed: 7
