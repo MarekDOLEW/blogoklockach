@@ -154,6 +154,23 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-30 09:55 · CODE · Teksty Piotra 0030–0033 (podesłane przez Marka w sesji)
+
+**Zrobione:** publikacja ścieżką skrzynki (`skrzynka-tekstow.py publikuj`, commit `9715f51`):
+- 0031 Premiery → `/artykuly/lego-friends-2027-pierwsze-zestawy-galeria-heartlake/`
+- 0032 Premiery → `/artykuly/lego-marvel-67005-doctor-strange-supreme-premiera-2027/`
+- 0033 Aktualności (ważne do 8.11) → `/artykuly/lego-30727-tie-advanced-gratis-lego-pl-listopad-2026/`
+- 0030 Aktualności (LEGO DC 2027) był już na stronie od 27.10 (`6746b54`, z poprawką Marka: ceny Batmobili
+  w zł z LEGO.pl zamiast euro + galeria). Przesłany plik to wersja Piotra sprzed poprawki — publikacja
+  nadpisała ją na chwilę, przywrócona wersja z 27.10 w kolejnym commicie. Rejestr `skrzynka.json`
+  ma teraz wpisy 0030–0033 (krótkie slugi nadane ręcznie przed importem).
+
+**Stan:** gotowe, na `main`.
+
+**Dla drugiej strony:** nic. **Uwagi:** gdy Piotr przyśle ponownie 0030 tą samą nazwą, automat znów
+cofnie ceny do euro — poprawkę cen trzeba będzie wtedy powtórzyć albo poprosić Piotra o wersję ze złotówkami.
+
+
 ## 2026-10-30 09:40 · CODE · Opisy P07 jako .md przez skrzynkę tekstów
 
 **Zrobione:**
