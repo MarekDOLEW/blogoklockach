@@ -130,8 +130,9 @@ def jest_karta(plik):
 # uwagi importu kart, po których na stronie zostałby surowy znacznik – blokują publikację;
 # reszta (nazwa kanoniczna, nadpisanie, elementy vs katalog, brak huba) wraca jako uwaga
 KARTA_PROBLEM = r'NIEROZWIĄZANY placeholder'
-# uwagi techniczne, których Piotrowi nie wysyłamy (korekty szablonu robi importer sam)
-KARTA_CICHO = r'gramatyka szablonu'
+# uwagi techniczne, których Piotrowi nie wysyłamy (korekty szablonu robi importer sam; nazwa Piotra zostaje,
+# różnica wobec katalogu to informacja dla Code, nie problem Piotra)
+KARTA_CICHO = r'gramatyka szablonu|nazwa: Piotr'
 
 
 def importuj_karty(pliki, sucho):

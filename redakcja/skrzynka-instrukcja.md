@@ -76,8 +76,10 @@ Zasady:
 - **Co wstrzymuje publikację całej paczki:** cena katalogowa w metryce inna niż w danych serwisu
   (rozstrzygamy Bricksetem przed ponownym wysłaniem), niekompletny plik (mniej niż 2 akapity opisu,
   mniej niż 3 pytania FAQ, mniej niż 6 pól metryki, brak numeru w tytule) albo znacznik linku,
-  którego importer nie zna. Jako uwagi (bez blokady) wracają: nazwa zamieniona na kanoniczną
-  z katalogu, liczba elementów inna niż w katalogu, brak huba dla numeru.
+  którego importer nie zna. Jako uwagi (bez blokady) wracają: liczba elementów inna niż
+  w katalogu, brak huba dla numeru.
+- **Polska nazwa z metryki zostaje** (decyzja Marka 30.10.2026) i trafia na stronę zestawu —
+  także do nagłówka, gdy katalog serwisu zna zestaw tylko pod angielską nazwą z Rebrickable.
 - **Wcześniejszych partii (01–25) nie trzeba konwertować ani wysyłać** — są już w serwisie
   (wgrane z DOCX). Wyślij tylko te, które zawierają poprawki.
 

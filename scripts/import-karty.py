@@ -430,9 +430,14 @@ def main():
         if s and s.get('ekskluzyw') and 'regularna' in m.get('Dystrybucja', ''):
             ostrz.append((nr, 'dystrybucja: Piotr regularna vs nasz ekskluzyw – sprawdź Brickset'))
         m = collections.OrderedDict((kl, typografia(w)) for kl, w in m.items())
-        nazwa = (k or {}).get('nazwa') or (s or {}).get('nazwa') or m['Nazwa']
-        if nazwa.replace("'", '’') != m['Nazwa'].replace("'", '’').replace('™', '').strip():
-            ostrz.append((nr, f'nazwa: Piotr „{m["Nazwa"]}” → kanoniczna „{nazwa}”'))
+        # Nazwa: od 30.10.2026 (decyzja Marka) zostaje POLSKA nazwa Piotra z metryki.
+        # Wcześniej wygrywała nazwa z katalogu, a dla 2 052 pozycji z Rebrickable jest
+        # angielska („Crocodile Car” zamiast „Krokodylowy samochód”). Hub /zestaw/<nr>/
+        # bierze nazwę karty do H1, gdy katalog zna tylko wersję z Rebrickable.
+        kanon = (k or {}).get('nazwa') or (s or {}).get('nazwa')
+        nazwa = m['Nazwa'].replace('™', '').strip() or kanon
+        if kanon and kanon.replace("'", '’') != nazwa.replace("'", '’'):
+            ostrz.append((nr, f'nazwa: Piotr „{nazwa}” (zostaje), w katalogu „{kanon}”'))
         m['Nazwa'] = nazwa
         # 445 wcześniejszych kart zapisuje liczbę elementów bez separatora
         # tysięcy („1313”); paczka P07 wstawia spację. Ujednolicamy do formatu

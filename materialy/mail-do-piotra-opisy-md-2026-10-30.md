@@ -7,8 +7,9 @@ sprawdzone na przykładowym pliku „71458 - Krokodylowy samochód - P07.md”.
 1. **Czy import przyjmie .md w tym układzie?** Tak, bez zmian w pliku. Importer czyta
    `# LEGO [numer] [nazwa]`, `## Opis zestawu`, tabelę `## Metryka zestawu` (Pole | Wartość)
    i `## FAQ` z pytaniami `###`. Znaczniki linków działają jak w DOCX. Przykładowy plik
-   przeszedł import na sucho bez błędów; jedyne uwagi to zamiana nazwy na kanoniczną
-   z katalogu serwisu („Crocodile Car”) i to, że karta 71458 już istnieje (nowa wersja ją zastąpi).
+   przeszedł import na sucho bez błędów; jedyna uwaga: karta 71458 już istnieje (nowa wersja ją
+   zastąpi). Polska nazwa z metryki („Krokodylowy samochód”) zostaje i trafia na stronę zestawu,
+   także do nagłówka, gdy katalog serwisu zna zestaw tylko pod angielską nazwą (decyzja Marka 30.10).
 2. **ZIP czy 25 załączników?** Oba działają. Najwygodniej jeden ZIP z plikami `.md` w środku,
    bez folderów (automat spłaszcza strukturę, pomija `__MACOSX` i pliki `._`). 25 osobnych
    załączników `.md` też przejdzie. Zasada bez zmian: jeden mail = jedna paczka, publikuje się
