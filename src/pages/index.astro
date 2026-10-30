@@ -7,7 +7,8 @@ import ofertyFeed from '../data/oferty_feed.json';
 import cenyBaza from '../data/ceny_baza.json';
 import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../lib/media.js';
 import { wpisKatalogu } from '../lib/katalog.js';
-import { zajawkaArtykulu, zajawkaZMeta, sortujPostyDealowe, najnowszePierwsze } from '../lib/artykuly.js';
+import { zajawkaArtykulu, zajawkaZMeta, najnowszePierwsze } from '../lib/artykuly.js';
+import { postyPodLupaNaGlowna } from '../lib/pod-lupa.js';
 import ZajawkaArtykulu from '../components/ZajawkaArtykulu.astro';
 import KartaAktualnosci from '../components/KartaAktualnosci.astro';
 import { aktualnosci, jestAktualnoscia } from '../lib/aktualnosci.js';
@@ -280,9 +281,12 @@ const aktualnosciGlowna = aktualnosci().slice(0, MAKS_AKTUALNOSCI);
 // Kolejność: najpierw posty z `wyroznienie: true` we frontmatterze (kampania
 // sklepu z datą końca – Marek 23.09: „x-kom ma być pierwszy w trójce"), potem
 // data malejąco. Ta sama reguła w listingu /deale/ (src/lib/artykuly.js).
-const postyDealowe = sortujPostyDealowe(Object.values(import.meta.glob('./deale/*.md', { eager: true })).filter((m) => !jestAktualnoscia(m)))
-  .slice(0, 3)
-  .map((m) => zajawkaArtykulu(m));
+// Od 30.10.2026 („Zestawy pod lupą”, nowy format): na głównej stoją wyłącznie
+// teksty, których dzisiejsza cena w sklepie z własnym magazynem mieści się
+// w progu zakupu (status dobra / bardzo dobra), najwyżej trzy – reguła i źródło
+// ceny w src/lib/pod-lupa.js. Bez takiej ceny sekcja znika; listing
+// /promocje-lego/ pokazuje wszystkie teksty z plakietką statusu.
+const postyDealowe = postyPodLupaNaGlowna(Object.values(import.meta.glob('./deale/*.md', { eager: true })).filter((m) => !jestAktualnoscia(m)));
 
 // ── Jeden rząd prezentowników: trzy wejścia do działu, po jednym z każdej
 // strony, z której ludzie szukają prezentu – wiek, seria, budżet. Wybór jest
@@ -507,17 +511,17 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   )}
 
   {postyDealowe.length > 0 && (
-    <section class="sekcja sekcja--deale-posty" aria-label="Okazje pod lupą">
+    <section class="sekcja sekcja--deale-posty" aria-label="Zestawy pod lupą">
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Okazje pod lupą</h2>
+        <h2>Zestawy pod lupą</h2>
       </div>
-      <p>Okazje opisane przez redakcję: skąd rabat, czy to naprawdę minimum i dla kogo ten zestaw ma sens.</p>
+      <p>Zestawy, które dziś są w dobrej cenie, opisane przez redakcję: dlaczego warto je mieć, przy jakiej cenie brać i na co uważać.</p>
       <div class="zajawki zajawki--zwarte">
         {postyDealowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka">
-        <a class="przycisk przycisk--duzy" href="/promocje-lego/#okazje-pod-lupa">Wszystkie okazje pod lupą →</a>
+        <a class="przycisk przycisk--duzy" href="/promocje-lego/#zestawy-pod-lupa">Wszystkie zestawy pod lupą →</a>
       </p>
     </section>
   )}

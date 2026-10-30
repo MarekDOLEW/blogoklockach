@@ -1,41 +1,57 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Wyższa szkoła rabatu w x-kom — magnolia Botanicals najtaniej w historii naszych notowań"
-opis: "Akcja z kodem rabatowym zbija ceny kilku zestawów LEGO poniżej poziomów znanych z porównywarek. Dwie pozycje są naprawdę warte uwagi — reszta to poziom, który znajdziesz i bez kodu."
-seo_tytul: "x-kom Wyższa Szkoła Rabatu: magnolia najtaniej"
-seo_opis: "Kod rabatowy x-kom zbija ceny kilku zestawów LEGO poniżej porównywarek. Dwie pozycje są warte uwagi, resztę kupisz w podobnej cenie i bez kodu."
+title: "LEGO 11510 Gałązki magnolii: kwitnąca kompozycja, która dopełnia kolekcję Botanicals"
+opis: "Pięć gałązek magnolii od pąka po pełny kwiat, do łączenia z innymi Botanicals"
+seo_tytul: "LEGO 11510 Gałązki magnolii – kwiaty z klocków do wazonu"
+seo_opis: "Pięć gałązek magnolii od pąka po pełny kwiat, do łączenia z innymi Botanicals. Cena katalogowa 209,99 zł, porównanie cen w sklepach."
 data: "2026-09-14"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
+typ: "pod-lupa"
+set: "11510"
+persona: "AFOL"
+powody: [kolekcja]
+cena_katalogowa: 209.99
+cena_dobra: 155
+cena_bardzo_dobra: 140
+prog_zakupu: 155
 ---
 
-W x-kom trwa akcja **„Wyższa szkoła rabatu"** — ceny z tego tekstu obowiązują po wpisaniu kodu **rabat1** w koszyku. Sprawdziliśmy ofertę 14 września; sklep nie podaje daty końca akcji, więc może się skończyć bez ostrzeżenia. Z pięciu zestawów LEGO objętych promocją dwa realnie biją wszystko, co znajdziesz w porównywarkach — i to nimi warto się zająć.
+[moduł ceny: cena-pod-lupa, set 11510]
 
-<div class="galeria-setow" data-sety="11510,75430"></div>
+LEGO Botanicals 11510 Gałązki magnolii to pięć gałązek z kwiatami na różnych etapach rozwoju, od pąków po w pełni otwarte płatki. Zestaw ma 435 elementów i jest przeznaczony dla dorosłych (18+). To dekoracja do wazonu, którą da się przestawiać i łączyć z innymi kwiatami z tej linii.
 
-## Botanicals 11510 Gałązki magnolii — 134,90 zł, rekord naszych notowań
+## Gałązki, które łączysz z resztą Botanicals
+Każdą gałązkę ustawiasz osobno, obracasz i dokładasz do innych zestawów Botanicals. Jeśli masz już kwiaty z tej serii, magnolia nie musi stać sama. Może wzbogacić istniejący bukiet albo stać się jego głównym elementem.
 
-**435 elementów**, tegoroczna linia Botanicals dla dorosłych. Katalogowo **209,99 zł**, w akcji **134,90 zł po kodzie — to −36% i pierwszy raz poniżej naszego dotychczasowego minimum** (do dziś magnolia nie schodziła poniżej ~138 zł, a typowa dobra cena to okolice 150 zł). Gałązki są z tych zestawów Botanicals, które kupuje się „przy okazji" na prezent — przy tej cenie okazja robi się konkretna.
+Łodygi, liście i płatki są ruchome. Kompozycję zmieniasz więc bez rozbierania modelu, na przykład pod porę roku albo inny wazon.
 
-<a href="/idz/xkom/11510" rel="sponsored nofollow">Sprawdź w x-kom (pamiętaj o kodzie rabat1) →</a>
+## Co jest w środku
+Biało-różowe płatki kontrastują z ciemnymi łodygami. Pąki zbudowano z nietypowych elementów, a sęki na gałązkach imitują żabki. To detal, który docenia ktoś, kto lubi patrzeć, jak LEGO wykorzystuje części w nieoczywisty sposób.
 
-Ceny półkowe w pozostałych sklepach do porównania:
+## Na co uważać
+W pudełku nie ma wazonu, trzeba mieć własny. Zestaw nie ma też żadnych funkcji zabawowych, to czysta dekoracja.
 
-<div class="ceny-setu" data-set="11510"></div>
+Drobne elementy pąków nie nadają się dla małego dziecka bez nadzoru. Jeśli magnolia ma stać w zasięgu maluchów, postaw ją wyżej.
 
-## Star Wars 75430 Ewok Wicket — 399,90 zł, najlepsza znana nam cena
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 209,99 zł |
+| Dobra cena | poniżej 155 zł |
+| Bardzo dobra cena | poniżej 140 zł |
+| **Próg zakupu** | **155 zł** |
 
-**1010 elementów** i najbardziej przytulany bohater *Powrotu Jedi* w wersji do ekspozycji — z ruchomą głową i kultową włócznią. Katalogowo **519,99 zł**, w akcji **399,90 zł po kodzie (−23%)**. To zestaw z 2025 roku, którego regularne sklepy prawie nie przeceniają — oferty marketplace potrafią stać grubo **powyżej** katalogu, więc czterysta złotych z groszami to po prostu najlepsza cena, jaką znamy dla tego seta.
+Zestaw zwykle bywa 25–30% pod ceną katalogową w dużych sklepach. Powyżej 155 zł płacisz więcej, niż wynosi typowa promocja na ten zestaw. Przy cenie katalogowej za element wychodzi około 0,48 zł.
 
-<a href="/idz/xkom/75430" rel="sponsored nofollow">Sprawdź w x-kom (pamiętaj o kodzie rabat1) →</a>
+[tabela: ceny-setu, set 11510]
 
-<div class="ceny-setu" data-set="75430"></div>
+## Dla kogo
+Dla dorosłego, który zbiera Botanicals albo szuka dekoracji z klocków do salonu czy biura. Budowa jest spokojna, a efekt końcowy stoi na widoku, a nie w szafie.
 
-## Pozostała trójka — sprawdź, zanim klikniesz
+Rodzic może potraktować ją jako wspólny projekt ze starszym dzieckiem. Przy młodszym potrzebny jest nadzór ze względu na drobne elementy pąków.
 
-Uczciwie: reszta akcji nie wymaga pośpiechu. **75416 Chopper** kosztuje w akcji 289,90 zł — porządnie, ale porównywarka pokazuje oferty odrobinę tańsze. **42205 Corvette** za 164,90 zł to praktycznie remis z rynkiem, a **42224 Porsche 911 GT3 R** za 439,90 zł jest wyraźnie drożej niż najlepsze znane oferty. Aktualne ceny wszystkich trzech porównasz na kartach zestawów: [75416](/zestaw/75416/), [42205](/zestaw/42205/), [42224](/zestaw/42224/).
-
-## Jak skorzystać
-
-Dodaj zestaw do koszyka w x-kom i wpisz kod **rabat1** — cena przeliczy się przed płatnością. Kwoty z tego tekstu to stan z 14 września; jeśli czytasz później, potwierdź cenę w koszyku, bo akcje z kodem wygasają bez zapowiedzi. Pełna, codziennie odświeżana lista okazji — w [Promocjach LEGO](/promocje-lego/).
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla osoby, która buduje kolekcję kwiatów LEGO, to dobre uzupełnienie, jeśli cena jest poniżej 155 zł. Kto szuka zestawu do zabawy, powinien wybrać coś innego.

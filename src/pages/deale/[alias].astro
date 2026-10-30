@@ -1,0 +1,38 @@
+---
+// Alias adresu tekstu dealowego (frontmatter `alias_url`): ta sama treść pod
+// drugim adresem, z <link rel="canonical"> na adres główny.
+//
+// Po co: 30.10.2026 dwa posty o Venatorze (75367) zlały się w jeden tekst
+// „pod lupą”. Adres drugiego (/deale/deal-75367-venator-ponizej-2000/) żył już
+// w Google i w mailach, więc zostaje – oddaje tę samą stronę z canonicalem na
+// /deale/deal-75367-gwiezdny-niszczyciel-venator/ (decyzja z briefu Coworka:
+// alias z canonical, nie 301). Alias nie jest osobnym tekstem: listingi,
+// sitemapa, RSS i „Przeczytaj też” czytają tylko markdown (import.meta.glob
+// po *.md), więc nie dubluje zajawek.
+//
+// Nowy alias = pole `alias_url: /deale/<slug>/` we frontmatterze tekstu głównego.
+import Artykul from '../../layouts/Artykul.astro';
+
+const moduly = import.meta.glob('./*.md', { eager: true });
+
+export function getStaticPaths() {
+  const teksty = import.meta.glob('./*.md', { eager: true });
+  return Object.entries(teksty).flatMap(([sciezka, modul]) => {
+    const alias = modul.frontmatter?.alias_url;
+    if (!alias) return [];
+    const slug = String(alias).replace(/^\/deale\//, '').replace(/\/+$/, '');
+    if (!/^[a-z0-9-]+$/.test(slug)) throw new Error(`Nieprawidłowy alias_url „${alias}” w ${sciezka}`);
+    return [{ params: { alias: slug }, props: { sciezka } }];
+  });
+}
+
+const { sciezka } = Astro.props;
+const modul = moduly[sciezka];
+if (!modul) throw new Error(`Brak modułu ${sciezka} dla aliasu ${Astro.params.alias}`);
+const { Content } = modul;
+const glowny = modul.frontmatter.canonical ?? modul.frontmatter.url ?? `${modul.url}/`;
+const frontmatter = { ...modul.frontmatter, canonical: glowny };
+---
+<Artykul frontmatter={frontmatter} headings={modul.getHeadings?.() ?? []}>
+  <Content />
+</Artykul>

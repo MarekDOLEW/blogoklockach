@@ -1,27 +1,62 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Acclamator po wycofaniu z lego.com właśnie ustanowił minimum — 18+ ze Star Wars za mniej niż trzy czwarte ceny"
-opis: "75404 Krążownik szturmowy typu Acclamator ma potwierdzone wycofanie, a mimo to jego cena wciąż spada — dziś nowe minimum naszych notowań. Krótkie okno, w którym wycofany zestaw kupuje się taniej, nie drożej."
-seo_tytul: "LEGO 75404 Acclamator – nowe minimum po wycofaniu"
-seo_opis: "75404 Krążownik szturmowy typu Acclamator ma potwierdzone wycofanie, a cena dalej spada – dziś nowe minimum naszych notowań. Rzadkie okno przed wzrostem cen."
+title: "LEGO 75404 Krążownik szturmowy typu Acclamator: okręt Republiki do kolekcji Starship Collection"
+opis: "Klinowaty krążownik Republiki z Wojen Klonów na podstawie z tabliczką, już wycofany"
+seo_tytul: "LEGO 75404 Acclamator – krążownik do Starship Collection"
+seo_opis: "Klinowaty krążownik Republiki z Wojen Klonów na podstawie z tabliczką, już wycofany. Cena katalogowa 209,99 zł, porównanie cen w sklepach."
 data: "2026-09-23"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
+typ: "pod-lupa"
+set: "75404"
+persona: "AFOL"
+powody: [kolekcja, wycofanie]
+cena_katalogowa: 209.99
+cena_dobra: 170
+cena_bardzo_dobra: 155
+prog_zakupu: 170
 ---
 
-**75404 Krążownik szturmowy typu Acclamator** to rzadki przypadek: zestaw z **potwierdzonym wycofaniem** — z lego.com zniknął po ledwie półtora roku — którego cena u pozostałych sprzedawców nadal spada. Dziś w naszych notowaniach ustanowił nowe minimum, schodząc poniżej 150 zł na Allegro (jak zawsze przy marketplace: sprawdź sprzedawcę), a w zwykłych sklepach niewiele brakuje do tego samego progu.
+[moduł ceny: cena-pod-lupa, set 75404]
 
-<div class="galeria-setow" data-sety="75404"></div>
+LEGO Star Wars 75404 to kolekcjonerski model krążownika szturmowego typu Acclamator z okresu Wojen Klonów. Ma 450 elementów i stoi na czarnej podstawie z tabliczką. To niewielki, tani wstęp do floty Republiki na półce, a LEGO zakończyło już jego produkcję.
 
-## Dlaczego to okno, a nie trend
+## Kolejny statek do Starship Collection
+Zestaw należy do LEGO Star Wars Starship Collection, czyli serii modeli statków przeznaczonych do ekspozycji. Odwzorowuje klinowaty kadłub Acclamatora z szarymi panelami, charakterystycznym dziobem i czerwonymi oznaczeniami. Wszystkie modele z tej serii prezentuje się w ten sam sposób: na podstawie z tabliczką.
 
-Po wycofaniu zestawy Star Wars z półki „ekspozycyjnej" zwykle najpierw tanieją u sprzedawców dosprzedających magazyn, a potem — gdy zapas się kończy — ceny odbijają i już nie wracają. **450 elementów** w skali midi, sylwetka prosto z bitwy o Geonosis i podstawka z tabliczką czynią z Acclamatora naturalne uzupełnienie kolekcji obok większych okrętów; to też najtańszy sposób, żeby postawić na półce kompletny kapitalny okręt Republiki.
+Dla kogoś, kto zbiera statki z Wojen Klonów, to okręt, który wypełnia lukę między myśliwcami a dużymi niszczycielami. Zajmuje mało miejsca, więc zmieści się obok innych modeli z serii.
 
-Katalogowo **209,99 zł**. Obecne minimum to rabat około 30% i **0,32 zł za klocek** — jak na linię 18+ Star Wars wynik bardzo dobry, bo ta kategoria rzadko schodzi poniżej progu jednej czwartej. Aktualne kwoty i porównanie sklepów na bieżąco:
+## Produkcja zakończona
+Zestaw miał premierę w styczniu 2025 roku. LEGO zakończyło produkcję, a LEGO.com już go nie sprzedaje. W obiegu zostały zapasy w sklepach.
 
-<div class="ceny-setu" data-set="75404"></div>
+Po zejściu z oferty producenta sklepy wyprzedają resztki towaru, zwykle około 17–20% pod ceną katalogową. Moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
+
+## Co jest w środku
+450 elementów składa się na model statku i podstawę z tabliczką. Minifigurek w zestawie nie ma.
+
+## Na co uważać
+To model wyłącznie do ekspozycji: nie ma wnętrza ani funkcji do zabawy. Kto szuka statku do rozgrywania scen, kupi tu tylko półkową miniaturę.
+
+Przy cenie katalogowej za element wychodzi około 0,47 zł, czyli niemało jak na 450 elementów bez figurek. Sens zakupu zaczyna się dopiero przy rabacie.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 209,99 zł |
+| Dobra cena | poniżej 170 zł |
+| Bardzo dobra cena | poniżej 155 zł |
+| **Próg zakupu** | **170 zł** |
+
+Sklepy z zapasami trzymają zestaw zwykle około 17–20% pod ceną katalogową, więc 170 zł to poziom, który regularnie da się osiągnąć. Powyżej tej kwoty dopłacasz do modelu, który bez trudu kupuje się taniej. Poniżej 155 zł płacisz mniej, niż wynosi typowy rabat z wyprzedaży.
+
+[tabela: ceny-setu, set 75404]
 
 ## Dla kogo
+Dla dorosłego fana Wojen Klonów, który buduje na półce flotę Republiki albo zbiera całą Starship Collection. Dobrze sprawdzi się też jako niewielka dekoracja biurka w biurze.
 
-Dla dorosłego fana Wojen klonów, który chce mieć flotę Republiki w jednej skali, oraz na pierwszy „dorosły" zestaw Star Wars do gabinetu — budowa jest krótka, efekt ekspozycyjny duży. Pełna karta zestawu i historia cen: [/zestaw/75404/](/zestaw/75404/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Rodzic powinien wiedzieć, że to zestaw 18+ bez wnętrza i bez figurek. Dziecku, które chce się bawić statkiem, lepiej kupić model z otwieranym kadłubem.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla kolekcjonera Starship Collection i fana Wojen Klonów to rozsądny zakup poniżej 170 zł. Kto nie zbiera tej serii, może go pominąć.

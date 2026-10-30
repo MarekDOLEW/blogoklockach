@@ -1,29 +1,58 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Lotniskowiec T.A.R.C.Z.Y. za 999 zł — 601 zł pod ceną katalogową z kodem Media Expert ważnym do 31 października"
-opis: "76354 Lotniskowiec T.A.R.C.Z.Y. kosztuje 999 zł w Media Expert z kodem ME0110-311026 — to wyrównane minimum naszych notowań i 601 zł poniżej katalogu. Kod działa do 31.10, a zestaw to ekskluzyw LEGO.com z 3057 elementów."
-seo_tytul: "LEGO 76354 Lotniskowiec — 999 zł z kodem ME"
-seo_opis: "76354 Lotniskowiec T.A.R.C.Z.Y. za 999 zł w Media Expert z kodem ME0110-311026 (do 31.10). Rabat 38% od katalogu, wyrównane minimum notowań."
+title: "LEGO 76354 Lotniskowiec T.A.R.C.Z.Y.: największy Marvel 2026 i następca, na którego fani czekali dekadę"
+opis: "Największy zestaw LEGO Marvel z 2026 roku i następca lotniskowca z 2015 roku"
+seo_tytul: "LEGO 76354 Lotniskowiec T.A.R.C.Z.Y. – największy Marvel 2026"
+seo_opis: "Największy zestaw LEGO Marvel z 2026 roku i następca lotniskowca z 2015 roku. Cena katalogowa 1599,99 zł, porównanie cen w sklepach."
 data: "2026-10-19"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
-pasek_zestaw: "76354"
-wazne_do: "2026-10-31"
+typ: "pod-lupa"
+set: "76354"
+persona: "AFOL"
+powody: [flagowiec, kolekcja]
+cena_katalogowa: 1599.99
+cena_dobra: 1150
+cena_bardzo_dobra: 1000
+prog_zakupu: 1150
 ---
 
-**76354 Lotniskowiec T.A.R.C.Z.Y.** kosztuje **999 zł w Media Expert z kodem `ME0110-311026`** — to **601 zł poniżej ceny katalogowej** (rabat około 38%) i wyrównanie najniższej ceny w naszych notowaniach. Kod wpisuje się w koszyku, działa **do 31 października do 23:59** i nie łączy się z innymi kodami. Tę samą kwotę pokazuje dziś Ceneo; bez kodu rynek zaczyna się od 1130 zł na Allegro, a Planeta Klocków i LEGO.com trzymają pełne 1589–1599 zł.
+[moduł ceny: cena-pod-lupa, set 76354]
 
-<div class="galeria-setow" data-sety="76354"></div>
+LEGO Marvel 76354 to latający lotniskowiec T.A.R.C.Z.Y. z filmów Marvela, model kolekcjonerski dla dorosłych (18+). Ma 3057 elementów i sześć minifigurek. Kupuje się go jako centralny element półki z MCU, a nie zabawkę.
 
-## Dlaczego to dobra cena, a nie zwykła promocja
+## Największy zestaw Marvela w tym roku
+Wśród 33 zestawów LEGO Marvel z 2026 roku to największy. Szerokość modelu robi wrażenie na ekspozycji. To zestaw, wokół którego układa się resztę kolekcji z uniwersum.
 
-**3057 elementów** składa się w model, na który fani Marvela czekali dekadę: duchowego następcę kultowego lotniskowca 76042 z 2015 roku, którego ceny na rynku wtórnym dawno odleciały. Przy 999 zł wychodzi około **0,33 zł za klocek** — jak na duży zestaw licencyjny 18+ i **ekskluzyw LEGO.com** (poza falą promocyjną dostępny praktycznie tylko w oficjalnym sklepie za pełną cenę) to wynik, którego ten model jeszcze nie pobił.
+## Następca zestawu 76042
+To duchowy następca lotniskowca 76042 z 2015 roku. Kto nie zdążył kupić tamtego modelu, dostaje teraz nową wersję, bez szukania na rynku wtórnym. Dystrybucja jest ograniczona, a karta zestawu opisuje go jako ekskluzyw LEGO.com.
 
-Kwota 999 zł pojawiła się w naszych notowaniach raz, na początku października — i szybko zniknęła. Tym razem znamy datę końca: **kod wygasa 31 października**, więc nie trzeba zgadywać, ile potrwa okazja. Aktualne kwoty i porównanie sklepów na bieżąco:
+## Co jest w środku
+Centrum konstrukcji to rozbudowany kadłub z wirnikami, wnętrzami i pojazdami w mikroskali. Całość stoi na podstawce ekspozycyjnej. Obsadę tworzy sześć minifigurek, wśród nich Nick Fury, Coulson i Kapitan Ameryka.
 
-<div class="ceny-setu" data-set="76354"></div>
+## Na co uważać
+To drogi model wystawowy, nie zabawka do odgrywania bitew. Potrzebuje dużo miejsca na półce ze względu na szerokość.
+
+Niższe ceny pojawiały się dotąd głównie z kodami rabatowymi sklepów, a nie w stałej ofercie. Bez kodu cena trzyma się zwykle wyżej, więc warto obserwować moduł ceny zamiast kupować przy pierwszej promocji.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 1599,99 zł |
+| Dobra cena | poniżej 1150 zł |
+| Bardzo dobra cena | poniżej 1000 zł |
+| **Próg zakupu** | **1150 zł** |
+
+Najniższe ceny tego zestawu pojawiały się przy krótkich akcjach z kodami rabatowymi sklepów. Próg 1150 zł to poziom, przy którym kupujesz rozsądnie także bez polowania na kod, a poniżej 1000 zł to cena wyjątkowa. Przy cenie katalogowej element kosztuje około 0,52 zł, nieco mniej niż typowe 0,55 zł w serii Marvel.
+
+[tabela: ceny-setu, set 76354]
 
 ## Dla kogo
+Dla dorosłego fana Marvela, który zbiera duże modele z MCU i ma na nie miejsce. Szczególnie dla tych, którzy przegapili zestaw 76042.
 
-To zakup dla dorosłego fana Marvela — model wystawowy z pokładem pełnym detali, nie zabawka do odgrywania bitew. Jeśli ktoś planował go pod choinkę, ta cena raczej nie wróci przed grudniem: po wygaśnięciu kodu rynek wraca w okolice 1130–1200 zł. Ten sam kod `ME0110-311026` obejmuje zresztą szerszą pulę zestawów w Media Expert (m.in. bolidy F1 Technic), więc warto sprawdzić ceny z koszyka także przy innych modelach z listy życzeń. Pełna karta zestawu i historia cen: [/zestaw/76354/](/zestaw/76354/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Rodzic powinien traktować go jako prezent dla dorosłego fana, nie dla dziecka. To drogi model do postawienia na półce, a 18+ na pudełku nie jest przypadkowe.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla kolekcjonera Marvela to najważniejszy zestaw tego roku i dobry zakup poniżej 1150 zł. Kto nie ma miejsca na duży model, może odpuścić.

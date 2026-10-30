@@ -154,6 +154,42 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-10-30 08:40 · CODE · „Zestawy pod lupą”: 17 tekstów /deale/ w nowym formacie + moduł ceny
+
+**Zrobione:**
+- Paczka Coworka `zestawy-pod-lupa.zip` wgrana skryptem `scripts/import-pod-lupa.mjs` (nowy):
+  17 tekstów podmienionych pod tymi samymi adresami, data publikacji zostaje, `zaktualizowano: 2026-10-30`.
+  Sekcje „Do weryfikacji” nie są publikowane — leżą w `materialy/zestawy-pod-lupa-weryfikacja-2026-10-30.md`.
+- Moduł `cena-pod-lupa` (`src/components/CenaPodLupa.astro`, reguły w `src/lib/pod-lupa.js`): cena dziś =
+  najtańsza oferta sklepu z własnym magazynem (bez Allegro i Ceneo, sito jak w tabelach), status względem
+  progów z frontmattera (bardzo dobra / dobra / powyżej progu / brak oferty), najniższa z notowań Łowcy.
+  Znaczniki briefu `[moduł ceny: …]` i `[tabela: …]` obsługuje `scripts/remark-pod-lupa.mjs`.
+- Strona główna: sekcja „Zestawy pod lupą” pokazuje tylko statusy dobra/bardzo dobra, max 3 (dziś: 10330,
+  76354, 10359 — wszystkie „bardzo dobra”). `/promocje-lego/#zestawy-pod-lupa`: wszystkie teksty
+  z plakietką statusu, najlepszy status pierwszy (dziś 3 bardzo dobre, 12 dobre, 2 powyżej progu: 21330, 76325).
+- Venator: dwa posty zlane w `/deale/deal-75367-gwiezdny-niszczyciel-venator/`; stary adres
+  `/deale/deal-75367-venator-ponizej-2000/` oddaje tę samą stronę z `rel=canonical` na główny
+  (`src/pages/deale/[alias].astro`, pole `alias_url`; Base/Artykul przyjmują `canonical`).
+- Karty zestawów: wiersz „Status” metryki liczony z listy wycofań i EOL zamiast stanu z dnia pisania
+  (122 karty mówiły „dostępny” o zestawach wycofywanych/EOL); nota „ekskluzyw” nie pisze „nie widzimy go
+  w innych sklepach”, gdy w tabeli jest Allegro; 40824 — premiera 1 stycznia 2025 (Brickset), poprawione
+  w `karty_setow.json` i `katalog.json` (rok 2026 → 2025).
+- Dokumentacja: brief jako `redakcja/wzorce/zestawy-pod-lupa.md`, reguły w `redakcja/ustalenia-projektowe.md`
+  (skille wyeksportowane), wiersze w `scripts/README.md`.
+
+**Stan:** gotowe, build OK, na `main`.
+
+**Dla drugiej strony (Cowork):** nowe teksty „pod lupą” oddawać w formacie z briefu — import jest
+automatyczny. Z notatek „Do weryfikacji” zostały sprawy wymagające źródła/decyzji (imiona figurek 21330
+i 75367, lista 6 figurek 76354, unikatowość Senny 10330, status wycofania 60470/60471 jako „potwierdzone”
+— lista wycofań mówi potwierdzone, więc teksty są zgodne z danymi). Zdania „Gdyby stanął obok N zestawów
+… z 2026 roku” w kartach to świadome porównanie z bieżącym rocznikiem (`import-karty.py`), nie błąd.
+Rozjazd „najtaniej dziś” vs Ceneo na hubach jest zamierzony: Ceneo to porównywarka, nie sklep (audyt 15.09).
+
+**Uwagi:** `kategoria` zostaje `Deal` (walidator); plakietka pokazuje „Pod lupą”. Kalendarze adwentowe
+schodzą z głównej po 24.12 (`wylacz_z_glownej_po`).
+
+
 ## 2026-10-30 05:18 · SCOUT · Do zrobienia
 
 **LEGO wyznaczyło odsłonięcie zestawu na Black Friday na 3 listopada 2026, godz. 18:00 (transmisja z Q&A projektantów); PromoBricks 28.10 i StoneWars 29.10 zgodnie wskazują na Ideas Godzilla 21375, 5364 elementy, sprzedaż od 27 listopada — ale cena rozjeżdża się między źródłami: 399,99 albo 449,99 euro.**

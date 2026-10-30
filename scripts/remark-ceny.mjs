@@ -187,7 +187,8 @@ function tabela(nr) {
     'jaką zobaczyliśmy, a wiążąca jest zawsze cena w koszyku sklepu. Różnica zwykle wypada na Twoją korzyść.';
 
   return (
-    '<div class="karta karta--ceny tabela-cen-wrap">' +
+    // id – kotwica „wszystkie ceny ↓” z modułu ceny tekstów „pod lupą” (CenaPodLupa.astro)
+    `<div class="karta karta--ceny tabela-cen-wrap" id="ceny-${nr}">` +
     '<table class="tabela-cen">' +
     `<caption>Aktualne ceny – LEGO ${nr}</caption>` +
     `<thead><tr><th>Sklep</th><th>Cena</th>${rrp ? '<th>Rabat*</th>' : ''}<th><span class="tylko-czytnik">Oferta</span></th></tr></thead>` +

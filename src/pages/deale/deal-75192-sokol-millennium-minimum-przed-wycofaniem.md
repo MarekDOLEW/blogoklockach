@@ -1,34 +1,67 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Sokół Millennium UCS w minimum naszych notowań — 900 zł pod katalogiem na dwa miesiące przed końcem produkcji"
-opis: "75192 Sokół Millennium kosztuje dziś 2699,90 zł w trzech sklepach naraz — najmniej, odkąd notujemy ten zestaw. Wycofanie jest potwierdzone na grudzień 2026, a LEGO.com trzyma pełne 3599,99 zł."
-seo_tytul: "LEGO 75192 Sokół Millennium — minimum przed wycofaniem"
-seo_opis: "75192 Sokół Millennium UCS za 2699,90 zł — najniżej w naszych notowaniach, 25% pod ceną katalogową. Wycofanie potwierdzone na grudzień 2026."
+title: "LEGO 75192 Sokół Millennium UCS: największy Sokół serii, który po dziewięciu latach schodzi ze sceny"
+opis: "Największy Sokół w historii LEGO Star Wars znika z oferty po dziewięciu latach"
+seo_tytul: "LEGO 75192 Sokół Millennium UCS – flagowiec przed wycofaniem"
+seo_opis: "Największy Sokół w historii LEGO Star Wars znika z oferty po dziewięciu latach. Cena katalogowa 3599,99 zł, porównanie cen w sklepach."
 data: "2026-10-27"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
-pasek_zestaw: "75192"
+typ: "pod-lupa"
+set: "75192"
+persona: "AFOL"
+powody: [kolekcja, flagowiec, wycofanie]
+cena_katalogowa: 3599.99
+cena_dobra: 2800
+cena_bardzo_dobra: 2650
+prog_zakupu: 2800
 ---
 
-**75192 Sokół Millennium** kosztuje dziś **2699,90 zł** — to **900 zł poniżej ceny katalogowej** (rabat 25%) i najniższa cena, jaką zanotowaliśmy dla tego zestawu. Ważniejsze od samej kwoty jest to, ile sklepów ją trzyma: **Media Expert, Ceneo i x-kom stoją dokładnie na 2699,90 zł**, Allegro o pięćdziesiąt złotych wyżej. To nie jest wyprzedaż końcówki u jednego sprzedawcy, tylko ruch całego rynku — a taki zjazd przy zestawie UCS zdarza się rzadko. W oficjalnym sklepie LEGO zestaw kosztuje dziś pełne 3599,99 zł.
+[moduł ceny: cena-pod-lupa, set 75192]
 
-<div class="galeria-setow" data-sety="75192"></div>
+LEGO Star Wars 75192 Sokół Millennium to model z linii Ultimate Collector Series, przeznaczony dla dorosłych (16+). Ma 7541 elementów i jest największą wersją Sokoła w historii serii. Od października 2017 roku był punktem odniesienia dla każdej półki z kolekcją Star Wars, a w grudniu 2026 znika z oferty.
 
-## Dlaczego to dobra cena, a nie zwykła promocja
+## Flagowiec serii, a nie kolejny statek
+To nie jest zabawka w skali minifigurki, tylko model ekspozycyjny w skali UCS. Po zbudowaniu ma około 84 × 60 × 21 cm. Na półce dominuje nad wszystkim, co stoi obok.
 
-**7541 elementów** i model, który przez lata był największym zestawem w historii LEGO. Sokół w wersji Ultimate Collector Series jest w sprzedaży od października 2017 roku — **dziewięć lat**, czyli dłużej niż którykolwiek inny zestaw z obecnej oferty Star Wars.
+Liczba elementów i szczegółowość kadłuba robią z niego najbardziej rozbudowanego Sokoła, jakiego LEGO wypuściło. Na Bricksecie ma ocenę 4,4/5, a w kolekcjach zgłoszono ponad 25 tysięcy egzemplarzy.
 
-I to jest sedno tej okazji: **wycofanie Sokoła jest potwierdzone na grudzień 2026**. Zostały niecałe dwa miesiące oficjalnej dystrybucji, po których zostaną tylko zapasy sklepów zewnętrznych. Historia UCS-ów mówi dość jednoznacznie, co się wtedy dzieje z ceną: duże zestawy kolekcjonerskie po zejściu z produkcji nie tanieją, tylko drożeją — przestają konkurować ze sobą sklepy, a zaczyna rynek wtórny. Dzisiejsze 2699,90 zł to prawdopodobnie jedno z ostatnich okien, w których ten zestaw kupuje się taniej niż katalogowo.
+## Dwie załogi i dwie epoki w jednym pudełku
+W zestawie jest siedem minifigurek, BB-8, dwa porgi i mynock. Klasyczną trylogię reprezentują Han Solo, Chewbacca, księżniczka Leia i C-3PO. Trylogię sequeli: starszy Han, Rey i Finn.
 
-Dla porządku liczby, które pozwalają to ocenić bez emocji: **0,36 zł za element** wobec 0,48 zł przy cenie katalogowej. Przy zestawie tej skali i z tej licencji to wynik, którego nie da się nazwać przeciętnym. Poprzednie minimum w naszych notowaniach to 2799 zł z 18 września — dzisiejsza cena schodzi o sto złotych niżej.
+Wymienne anteny pozwalają ustawić model w konfiguracji z klasycznych filmów albo z nowszej trylogii. Dzięki temu jeden zestaw obsługuje obie części kolekcji.
 
-<div class="ceny-setu" data-set="75192"></div>
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie zestawu w grudniu 2026, po około dziewięciu latach sprzedaży. Na LEGO.com jest już w dziale „Ostatnie zestawy”. Po wyczerpaniu zapasów zostaje tylko rynek wtórny, bez gwarancji nowego, zapieczętowanego pudełka.
+
+Nie trzeba kupować w panice. Przed końcem roku przejdzie jeszcze fala listopadowych promocji, a moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
+
+## Co jest w środku
+Zdejmowane panele kadłuba odsłaniają ładownię ze stołem do dejarika, maszynownię z hipernapędem i stanowisko strzelca. Rampa się opuszcza, a poczwórne działka laserowe obracają. W kokpicie mieszczą się cztery minifigurki, a model stoi na siedmiu podporach.
+
+## Na co uważać
+To ciężki i szeroki model. Potrzebuje solidnego stołu albo specjalnej półki, a zwykły regał może nie wystarczyć.
+
+Budowa zajmuje wiele dni. Kto szuka szybkiego projektu na weekend, powinien wybrać mniejszy statek.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 3599,99 zł |
+| Dobra cena | poniżej 2800 zł |
+| Bardzo dobra cena | poniżej 2650 zł |
+| **Próg zakupu** | **2800 zł** |
+
+W ostatniej fali promocji kilka dużych sklepów trzymało zestaw około 25% pod ceną katalogową, a LEGO.com sprzedaje go w pełnej cenie. Powyżej 2800 zł płacisz więcej, niż płacili kupujący w zwykłym tygodniu promocji. Przy cenie katalogowej za element wychodzi około 0,48 zł.
+
+[tabela: ceny-setu, set 75192]
 
 ## Dla kogo
+Dla dorosłego fana Star Wars, który chce mieć jeden model, wokół którego układa się cała kolekcja. Także dla tych, którzy zbierają linię UCS i nie mają jeszcze jej największego statku.
 
-Dla kogoś, kto Sokoła odkładał „na kiedyś" — bo właśnie kończy się czas, w którym to „kiedyś" jest możliwe w normalnej cenie sklepowej. To zestaw na kilkadziesiąt godzin budowania i na półkę, z której się go już nie zdejmuje: 1,40 m rozpiętości po złożeniu i dwie załogi minifigurek, klasyczna i z *Przebudzenia Mocy*.
+Rodzic powinien traktować go jako prezent dla dorosłego albo starszego nastolatka (16+). To model do oglądania, a nie do zabawy, a jego rozmiar i waga wymagają stałego miejsca na ekspozycję.
 
-Czego ta cena **nie** zmienia: to nadal wydatek rzędu dwóch i pół tysiąca złotych i zestaw, który trzeba mieć gdzie postawić. Jeśli szukasz dużego Star Wars na prezent, a nie pozycji kolekcjonerskiej, w tej samej serii znajdziesz konstrukcje za ułamek tej kwoty — przegląd w [prezentowniku Star Wars](/prezentowniki/lego-star-wars/).
-
-Pełna karta zestawu z historią cen i porównaniem sklepów: [/zestaw/75192/](/zestaw/75192/). Terminy grudniowych wycofań zbieramy w dziale [Wycofania](/wycofania/), a pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla kolekcjonera Star Wars to najważniejszy model serii i rozsądny zakup poniżej 2800 zł. Kto nie ma miejsca na blisko metrowy statek, powinien odpuścić bez żalu.

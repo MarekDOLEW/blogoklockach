@@ -113,3 +113,50 @@ jest pod `/aktualnosci/`. Zasady:
 - datowane ceny sklepowe są tu dopuszczalne, jeśli tekst podaje datę sprawdzenia
   („Ceny sprawdzone: 26.09.2026”) — aktualność opisuje moment, nie trwałą drabinę.
   Próg zakupu i odniesienie do RRP obowiązują jak w innych tekstach.
+
+## Tytuł i opis dla Google (30.09.2026)
+
+Google pokazuje ok. 60 znaków tytułu i ok. 160 znaków opisu. Tytuł i lead
+artykułu mogą być dłuższe — na stronie zostają bez zmian — ale wtedy we
+frontmatterze dopisujemy wersje wyszukiwarkowe:
+
+- `seo_tytul:` do 60 znaków (sufiks „· tylkoklocki.pl” layout dokłada sam,
+  tylko gdy się zmieści);
+- `seo_opis:` do 160 znaków, pełne zdania, bez „…”.
+
+W prezentownikach na layoucie `PrezentownikSerii` te same pola nazywają się
+`seoTytul` i `seoOpis`. Opis bez wersji skróconej layout przytnie sam na
+ostatnim końcu zdania i zgłosi to w logu builda (`[meta] opis przycięty`).
+Huby zestawów dobierają tytuł automatycznie z wariantów mieszczących się w 60 znakach.
+
+## „Zestawy pod lupą” — dział /deale/ w nowym formacie (30.10.2026)
+
+Dawne „Okazje pod lupą” (post dealowy z ceną i „historycznym minimum” w tytule
+i treści) zastąpił format **„Zestawy pod lupą”**: tekst mówi, *dlaczego warto mieć
+zestaw*, a wszystko, co zmienia się z dnia na dzień, liczy automat. Brief Coworka
+z pełnym szablonem i zasadami: `redakcja/wzorce/zestawy-pod-lupa.md`.
+
+- **W treści nie ma cen sklepowych**, nazwy najtańszego sklepu, „dziś kosztuje”,
+  „najniższa w notowaniach”, rabatu od bieżącej ceny, dat kontroli, kodów. Wolno:
+  RRP, progi drabiny, cena za element od RRP, ogólnik o ostatniej fali promocji.
+- **Drabina cenowa stoi we frontmatterze** (`cena_katalogowa`, `cena_dobra`,
+  `cena_bardzo_dobra`, `prog_zakupu`) i powtarza się w tabeli „Przy jakiej cenie brać”.
+- **Moduł ceny** (`CenaPodLupa.astro`, dane z `src/lib/pod-lupa.js`) pod tytułem:
+  cena „dziś” = **najtańsza oferta sklepu z własnym magazynem — bez Allegro
+  (marketplace) i bez Ceneo (porównywarka)**, po tym samym sicie co tabele
+  (`filtrujOferty`; po EOL wiersz LEGO.com nie jest ofertą). Status względem progu:
+  *bardzo dobra* (≤ `cena_bardzo_dobra`), *dobra* (≤ `prog_zakupu`), *powyżej progu*,
+  *brak oferty*. Przy braku oferty z magazynu moduł pokazuje Allegro jako informację,
+  nie jako „cenę dziś”.
+- **Strona główna**: tylko teksty ze statusem dobra/bardzo dobra, najwyżej trzy
+  (bardzo dobre pierwsze, potem najnowsze). Bez takiej ceny sekcja znika.
+  `wylacz_z_glownej_po: "RRRR-MM-DD"` zdejmuje z głównej tekst sezonowy (kalendarze
+  adwentowe po 24.12). Listing `/promocje-lego/#zestawy-pod-lupa` pokazuje wszystkie
+  teksty z plakietką statusu, najlepszy status pierwszy.
+- **URL zostaje przy podmianie treści**; dwa teksty o jednym zestawie łączą się
+  w jeden, a drugi adres dostaje `alias_url` — strona pod aliasem renderuje ten sam
+  tekst z `rel="canonical"` na adres główny (`src/pages/deale/[alias].astro`).
+- Sekcja „Do weryfikacji” z paczki Coworka nie jest publikowana — importer
+  (`scripts/import-pod-lupa.mjs`) odkłada ją do `materialy/zestawy-pod-lupa-weryfikacja-<data>.md`.
+- `kategoria` zostaje `Deal` (walidator prebuild); czytelnik widzi plakietkę „Pod lupą”.
+

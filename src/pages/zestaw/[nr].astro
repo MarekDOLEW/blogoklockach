@@ -203,6 +203,22 @@ const minimum = cenyBaza[nr]?.najnizsza_cena
   : null;
 const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza;
 
+// Wiersz „Status” metryki karty: karta Piotra zapisuje stan z dnia pisania
+// („dostępny”), a lista wycofań i listing lego.pl żyją – 30.10.2026 122 karty
+// mówiły „dostępny” o zestawach z potwierdzonym wycofaniem albo po EOL (uwagi
+// Coworka do 10359, 40824, 60470, 60471, 76325, 76449). Dane karty zostają
+// nietknięte; nadpisujemy tylko to, co wyświetlamy, tym samym źródłem co plakietki
+// w nagłówku (src/lib/status.js). Bez wpisu na liście i bez EOL zostaje tekst karty.
+const statusMetryki = eol
+  ? eolPewny
+    ? 'wycofany – LEGO zakończyło produkcję (EOL); sklepy sprzedają zapasy, dopóki je mają'
+    : 'brak w sklepie lego.pl; inne sklepy mogą mieć zapasy'
+  : wyprzedaneLego
+    ? `chwilowo wyprzedany w LEGO.com${wycof && wycof.etap !== 'wycofany' ? `; wycofanie: ${wycof.kiedy} (${wycof.etykieta})` : ''}`
+    : wycof && wycof.etap !== 'wycofany'
+      ? `dostępny; wycofanie: ${wycof.kiedy} (${wycof.etykieta})`
+      : null;
+
 // Podobne zestawy tej serii pod szczegółami – 4–6 pozycji losowanych z ziarnem
 // dnia (src/lib/seria-huby.js): linkowanie wewnętrzne między hubami, a dla
 // czytelnika podpowiedź „co jeszcze z tej serii" z ceną i zdjęciem.
@@ -392,8 +408,13 @@ const opisMeta = najlepsza
         )}
         {ekskluzyw && !eol && sieciEx.length === 0 && (
           <p class="karta" style="padding: 12px 16px; margin: 18px 0 0;">
-            <strong>Zestaw ekskluzywny – dziś sprzedaje go tylko LEGO.</strong> Nie widzimy go w innych sklepach,
-            więc okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).
+            {/* Allegro to marketplace (resellerzy), nie sieć handlowa – ale skoro stoi w tabeli
+                niżej, nie piszemy „nie widzimy go w innych sklepach” (uwaga Coworka 30.10.2026
+                do kart 75367 i 21330). */}
+            <strong>Zestaw ekskluzywny – ze sklepów z własnym magazynem sprzedaje go tylko LEGO.</strong>
+            {ofertySklepowe.some((o) => o.sklep === 'allegro')
+              ? ' Poza LEGO widzimy go dziś wyłącznie na Allegro, czyli u sprzedawców z marketplace’u – sprawdź, czy sprzedawca jest firmą, a zestaw nowy. Okazje poza tym to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).'
+              : ' Nie widzimy go w innych sklepach, więc okazje to promocje samego LEGO (punkty Insiders, gratisy, sezonowe obniżki).'}
             {' '}<a href="/ekskluzywne/">Wszystkie ekskluzywy →</a>
           </p>
         )}
@@ -434,7 +455,7 @@ const opisMeta = najlepsza
                   {Object.entries(karta.metryka).map(([pole, wartosc]) => (
                     <tr>
                       <th scope="row">{pole}</th>
-                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : wartosc}</td>
+                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : pole === 'Status' ? (statusMetryki ?? wartosc) : wartosc}</td>
                     </tr>
                   ))}
                 </tbody>

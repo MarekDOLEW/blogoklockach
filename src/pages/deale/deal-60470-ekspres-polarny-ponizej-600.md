@@ -1,27 +1,65 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Ekspres polarny pierwszy raz poniżej 600 zł — pociąg City na ostatniej prostej przed zimą"
-opis: "60470 Ekspres polarny arktycznych odkrywców zszedł w naszych notowaniach poniżej 600 zł. Według naszej listy wycofań zestaw kończy karierę w tym roku, a pociągi LEGO po zniknięciu z półek tanieć nie mają w zwyczaju."
-seo_tytul: "LEGO 60470 Ekspres polarny poniżej 600 zł"
-seo_opis: "60470 Ekspres polarny zszedł w naszych notowaniach poniżej 600 zł. Według listy wycofań zestaw znika w tym roku, a pociągi City po wycofaniu raczej nie tanieją."
+title: "LEGO City 60470 Ekspres polarny arktycznych odkrywców: pociąg na pilota z Johnnym Thunderem"
+opis: "Zmotoryzowany pociąg City z torami, tunelem, lawiną kamieni i Johnnym Thunderem w ekipie"
+seo_tytul: "LEGO City 60470 Ekspres polarny – pociąg z Johnnym Thunderem"
+seo_opis: "Zmotoryzowany pociąg City z torami, tunelem, lawiną kamieni i Johnnym Thunderem w ekipie. Cena katalogowa 869,99 zł, porównanie cen w sklepach."
 data: "2026-09-23"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla rodzica"]
+typ: "pod-lupa"
+set: "60470"
+persona: "RODZIC"
+powody: [kolekcja, figurki, wycofanie]
+cena_katalogowa: 869.99
+cena_dobra: 640
+cena_bardzo_dobra: 600
+prog_zakupu: 640
 ---
 
-**60470 Ekspres polarny arktycznych odkrywców** właśnie zaliczył rekord naszych notowań: **pierwszy raz poniżej 600 zł**. Najniższa dzisiejsza cena pochodzi z Allegro, gdzie jak zwykle doradzamy sprawdzenie sprzedawcy przed zakupem — ale to nie jest wyskok pojedynczej aukcji: zwykłe sklepy depczą marketplace'owi po piętach i cały rynek zjechał wyraźnie poniżej progu 650 zł.
+[moduł ceny: cena-pod-lupa, set 60470]
 
-<div class="galeria-setow" data-sety="60470"></div>
+LEGO City 60470 Ekspres polarny arktycznych odkrywców to zmotoryzowany pociąg z torami, terenem i ekipą polarnej wyprawy. Ma 1517 elementów, sześć minifigurek i dwa lisy polarne. To kompletny start do kolejki LEGO, a przy okazji powrót Johnny'ego Thundera.
 
-## Dlaczego warto patrzeć teraz
+## Pociąg, który jeździ od razu po złożeniu
+W pudełku jest lokomotywa z pługiem, wagony ekspedycyjne i odcinki torów. Pociągiem steruje się przez system Powered Up, a hub, silnik i pilot są w zestawie. Dziecko nie musi niczego dokupować, żeby ruszyć, poza bateriami.
 
-**1517 elementów**, pełnoprawny pociąg z napędem, do tego klimat zimowej wyprawy — to ten typ zestawu City, który buduje się całą rodziną przez kilka wieczorów. Na naszej [liście wycofań](/artykuly/wycofania-lego-grudzien-2026/) Ekspres polarny figuruje z przewidywanym końcem sprzedaży w grudniu 2026. Status to prognoza, nie pewnik, ale mechanika końcówki życia dużych pociągów LEGO jest znana: najpierw znikają z części sklepów, potem cena resztek rośnie zamiast spadać.
+Wokół torów jest teren z bazą, skalnym tunelem i stanowiskiem obserwacyjnym. Funkcja lawiny kamieni daje gotowy zwrot akcji do zabawy.
 
-Katalogowo **869,99 zł**; dzisiejszy rekord to rabat rzędu jednej trzeciej i **0,39 zł za klocek** — bardzo przyzwoicie jak na zestaw z silnikiem i torami w pudełku. Kto planuje go pod choinkę, dostaje właśnie cenę lepszą niż niejedna listopadowa „promocja". Aktualne kwoty i porównanie sklepów na bieżąco:
+## Początek kolekcji pociągów City
+Tory i elementy Powered Up są zgodne z innymi współczesnymi pociągami LEGO City. Ten zestaw może być więc pierwszym krokiem do większej makiety, a nie zamkniętą zabawką. To największy pociągowy zestaw w arktycznej części serii z 2025 roku.
 
-<div class="ceny-setu" data-set="60470"></div>
+## Johnny Thunder w ekipie
+Wśród sześciu minifigurek jest Johnny Thunder, postać znana starszym fanom z dawnych serii przygodowych LEGO. Dla dziecka to po prostu jeden z odkrywców. Dla dorosłego, który pamięta go z dzieciństwa, to powód, żeby przyjrzeć się temu zestawowi bliżej.
+
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie zestawu w grudniu 2026. Po wyczerpaniu zapasów zostaje rynek wtórny, gdzie przy zestawie z elektroniką trudno sprawdzić kompletność i stan silnika.
+
+Jeśli pociąg ma trafić pod choinkę, warto zaplanować zakup w listopadzie. Moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
+
+## Na co uważać
+Baterii do huba nie ma w zestawie, więc kup je razem z prezentem. Bez nich pociąg w Wigilię nie ruszy.
+
+Przy cenie katalogowej za element wychodzi 0,57 zł, wyraźnie więcej niż mediana City z 2025 roku, około 0,49 zł. Część ceny to elektronika Powered Up, dlatego ten zestaw opłaca się przede wszystkim w promocji.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 869,99 zł |
+| Dobra cena | poniżej 640 zł |
+| Bardzo dobra cena | poniżej 600 zł |
+| **Próg zakupu** | **640 zł** |
+
+W sklepach zestaw zwykle stoi 25–31% pod ceną katalogową. Próg 640 zł odpowiada typowej promocji, a poniżej 600 zł cena jest bliżej dolnej granicy tego przedziału. Przy elektronice w pudełku powyżej progu przepłacasz za element względem innych dużych zestawów City.
+
+[tabela: ceny-setu, set 60470]
 
 ## Dla kogo
+Dla rodzica, który szuka dużego prezentu dla dziecka od 7 lat i chce zacząć z nim przygodę z kolejką LEGO. Sterowanie z pilota, tunel i lawina kamieni dają zabawę także po złożeniu, a sześć postaci i dwa lisy uzupełniają scenariusze.
 
-Dla rodziny z dzieckiem od 7 lat wzwyż, która chce wspólnego projektu na jesienne wieczory — i dla każdego, kto kompletuje kolejową część miasta LEGO. Pełna karta zestawu i historia cen: [/zestaw/60470/](/zestaw/60470/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Dorosły fan dostaje zmotoryzowany pociąg zgodny z innymi współczesnymi zestawami kolejowymi City i Johnny'ego Thundera w składzie. Dla kogoś, kto buduje makietę, to sposób na dołożenie arktycznego odcinka razem z elektroniką.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla rodziny, która chce zacząć kolekcję pociągów City, to dobry prezent, jeśli cena jest poniżej 640 zł. Poniżej 600 zł to bardzo dobra okazja, tylko pamiętaj o bateriach.

@@ -9,7 +9,9 @@ import SzukajGlobalne from '../components/SzukajGlobalne.astro';
 // `preloadObrazu` – atrybuty obrazu LCP ({ src, srcset, sizes }); strona
 // dostaje <link rel="preload" as="image">, więc przeglądarka zaczyna pobierać
 // zdjęcie równolegle z CSS-em, a nie dopiero po sparsowaniu całego HTML-a.
-const { title, description, jsonld, ogImage = '/og.png', noindex = false, preloadObrazu = null } = Astro.props;
+// `canonical` – ścieżka adresu głównego, gdy strona jest aliasem innej
+// (src/pages/deale/[alias].astro); domyślnie strona wskazuje samą siebie.
+const { title, description, jsonld, ogImage = '/og.png', noindex = false, preloadObrazu = null, canonical: canonicalProp = null } = Astro.props;
 // Sufiks domeny tylko wtedy, gdy tytuł z nim mieści się w 60 znakach, które
 // Google pokazuje w wynikach – inaczej obcinał właśnie treść (audyt 30.09.2026).
 const SUFIKS = ' · tylkoklocki.pl';
@@ -27,7 +29,7 @@ const przytnijOpis = (t) => {
 };
 const opisMeta = description ? przytnijOpis(description) : description;
 if (description && description.length > MAX_OPIS && import.meta.env.PROD) console.warn(`[meta] opis przycięty (${description.length} zn.): ${Astro.url.pathname}`);
-const canonical = new URL(Astro.url.pathname, Astro.site);
+const canonical = new URL(canonicalProp ?? Astro.url.pathname, Astro.site);
 const ogImageAbs = new URL(ogImage, Astro.site).href;
 
 // Menu główne w jednym miejscu – stąd bierze się też zaznaczenie bieżącej

@@ -1,33 +1,64 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Media Expert tnie ceny LEGO — bolidy F1 po 69,99 zł, Home One −43%, a Hogwart i błonia pierwszy raz pod 500 zł"
-opis: "Szeroka przecena LEGO w Media Expert zbiła kilkadziesiąt zestawów do historycznych minimów naszych notowań: pięć bolidów Speed Champions po 69,99 zł, Home One za 169,99 zł, Hogwart i błonia za 499 zł."
-seo_tytul: "Przecena LEGO w Media Expert — F1 po 69,99 zł"
-seo_opis: "Media Expert zbił kilkadziesiąt zestawów LEGO do historycznych minimów: bolidy F1 po 69,99 zł, Home One 169,99 zł, Hogwart i błonia 499 zł."
+title: "Bolidy F1 LEGO Speed Champions z sezonu 2024: cała stawka na półce, a Red Bull RB20 znika w grudniu"
+opis: "Bolidy F1 z sezonu 2024 w Speed Champions, z Red Bullem RB20 na czele"
+seo_tytul: "Bolidy F1 LEGO Speed Champions z sezonu 2024 – kolekcja"
+seo_opis: "Bolidy F1 z sezonu 2024 w Speed Champions, z Red Bullem RB20 na czele. Cena katalogowa 114,99 zł, porównanie cen w sklepach."
 data: "2026-10-12"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
-tagi: ["Dla rodzica", "Dla AFOL"]
+tagi: ["Dla rodzica"]
+typ: "pod-lupa"
+set: "77243"
+persona: "RODZIC"
+powody: [kolekcja, wycofanie]
+cena_katalogowa: 114.99
+cena_dobra: 80
+cena_bardzo_dobra: 72
+prog_zakupu: 80
 ---
 
-**Media Expert zbił dziś ceny kilkudziesięciu zestawów LEGO do poziomów, których nie widzieliśmy w żadnym sklepie** — w naszych notowaniach to kilkadziesiąt nowych minimów jednego dnia, niemal wszystkie właśnie z ME. Sklep nie podaje daty końca ani nazwy akcji, więc przecena może się skończyć bez ostrzeżenia; stan sprawdziliśmy 12 października rano.
+[moduł ceny: cena-pod-lupa, set 77243]
 
-## Najmocniejsze pozycje
+LEGO Speed Champions wydało serię bolidów Formuły 1 z sezonu 2024. Każdy to osobne pudełko z modelem jednego zespołu, około 220–270 elementów. Najwyżej oceniany w tej grupie jest 77243 Bolid F1 Oracle Red Bull Racing RB20, który LEGO wycofuje w grudniu 2026.
 
-**Bolidy F1 Speed Champions po 69,99 zł** (katalogowo 114,99 zł, rabat 39%) — pięć modeli: Red Bull RB20, Aston Martin AMR24, VCARB 01, Alpine A524 i Haas VF-24; Mercedes W15 i McLaren MCL38 stoją oczko wyżej, po 74,99 zł. Przy 220–270 elementach to okolice 0,28 zł za klocek — najlepszy moment na skompletowanie stawki od premiery serii.
+## Jedna seria, wiele zespołów
+W serii są bolidy Red Bulla RB20, Astona Martina AMR24, VCARB 01, Alpine A524 i Haasa VF-24, a także Mercedes W15, McLaren MCL38 i Ferrari SF-24. Część z nich ma własne karty: [77248 Bolid F1 BWT Alpine Team A524](/zestaw/77248/), [77250 Bolid F1 MoneyGram Haas Team VF-24](/zestaw/77250/) i [77242 Bolid F1 Ferrari SF-24](/zestaw/77242/).
 
-<div class="galeria-setow" data-sety="77243 77245 77248"></div>
+Bolidy kupuje się pojedynczo, więc kolekcję można budować stopniowo. Dziecko może zacząć od ulubionego zespołu i dokładać kolejne przy okazji urodzin czy świąt.
 
-**75405 Krążownik typu Home One za 169,99 zł** — rabat 43% od katalogowych 299,99 zł i zdecydowanie najniższa cena w naszych notowaniach dla tego zestawu z listy wycofań.
+## 77243 Red Bull RB20 pod lupą
+Model ma 251 elementów i odwzorowuje bolid z sezonu 2024. Jest kokpit, pałąk halo, skrzydła, zawieszenie i opony Pirelli. Malowanie jest granatowe, z czerwono-żółtym bykiem.
 
-**72152 Pikachu i Poké Ball za 549 zł** — 321 zł pod katalogiem (−37%) na flagowym zestawie pokémonowej fali; do wczoraj najtaniej było 613 zł.
+W zestawie jest jedna minifigurka kierowcy Red Bull Racing. RB20 ma ocenę 4,2/5 przy 180 głosach, najwyższą wśród bolidów tego rocznika.
 
-**76419 Zamek Hogwart i błonia za 499 zł** — panoramiczny Hogwart pierwszy raz w naszych notowaniach schodzi pod 500 zł (katalogowo 729,99 zł).
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie 77243 w grudniu 2026. Po wyczerpaniu zapasów zostaje rynek wtórny, czyli zakup od osób prywatnych, bez gwarancji nowego, zapieczętowanego pudełka.
 
-**42215 Koparka Volvo EC500 za 1199 zł** — w złotówkach największy zjazd dnia: 501 zł pod katalogiem na technicowym flagowcu.
+Nie trzeba kupować w pośpiechu. Moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
 
-Z mniejszych rzeczy: 75408 Hełm Jango Fetta 199 zł (−41%), 75438 Popiersie Yody 99 zł, 42158 Mars Rover Perseverance 289 zł, 60469 Centralny dworzec kolejowy 259,99 zł, a z linii Botanicals — Gwiazda Betlejemska 159 zł, Dracena 69,99 zł i Hibiskus 229 zł, akurat przed sezonem świątecznych dekoracji.
+## Na co uważać
+Ferrari SF-24 z tej samej serii ma według naszej recenzji dużo naklejek. Przy bolidach Speed Champions warto liczyć się z tym, że część detali to naklejki, które dziecko może potrzebować pomocy, żeby przykleić równo.
 
-## Jak z tego korzystać
+Seria jest licencjonowana, więc o wyborze decyduje głównie sympatia do zespołu. Kto nie śledzi Formuły 1, może nie odczuć różnicy między poszczególnymi bolidami.
 
-Ceny z tego tekstu to stan z rana 12 października — przy tak szerokiej akcji pojedyncze zestawy mogą znikać z magazynu szybciej niż inne. Aktualne kwoty każdego zestawu i porównanie z resztą rynku znajdziesz na jego karcie: [Home One /zestaw/75405/](/zestaw/75405/), [Pikachu /zestaw/72152/](/zestaw/72152/), [Hogwart /zestaw/76419/](/zestaw/76419/), [Koparka /zestaw/42215/](/zestaw/42215/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 114,99 zł |
+| Dobra cena | poniżej 80 zł |
+| Bardzo dobra cena | poniżej 72 zł |
+| **Próg zakupu** | **80 zł** |
+
+Bolidy z tej serii regularnie trafiają do promocji w dużych sklepach. Powyżej 80 zł płacisz za RB20 więcej, niż płacili kupujący w zwykłym tygodniu promocji. Przy cenie katalogowej za element wychodzi około 0,46 zł.
+
+[tabela: ceny-setu, set 77243]
+
+## Dla kogo
+Dla dziecka od 10 lat, które ogląda Formułę 1 albo kibicuje konkretnemu zespołowi. To prezent w rozsądnym rozmiarze: 251 elementów to budowa na jedną, dwie sesje, a gotowy bolid z kierowcą daje się postawić na półce.
+
+Dorosły fan F1 może potraktować serię jako komplet stawki z jednego sezonu. Bolidy kupowane pojedynczo pozwalają zebrać ulubione zespoły bez jednego dużego wydatku.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Red Bull RB20 to najlepiej oceniany bolid tej serii i dobry prezent dla młodego fana F1, jeśli cena jest poniżej 80 zł. Pozostałe bolidy warto dobierać według ulubionego zespołu.

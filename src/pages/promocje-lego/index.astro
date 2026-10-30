@@ -7,7 +7,8 @@
 import { jsonldListingu } from '../../lib/jsonld-listingu.js';
 import Base from '../../layouts/Base.astro';
 import ZajawkaArtykulu from '../../components/ZajawkaArtykulu.astro';
-import { zajawkiArtykulow, sortujPostyDealowe, zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
+import { zajawkaArtykulu, zajawkaZMeta } from '../../lib/artykuly.js';
+import { postyPodLupa } from '../../lib/pod-lupa.js';
 import sety from '../../data/sety.json';
 import cenyBaza from '../../data/ceny_baza.json';
 import { urlZdjecia, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
@@ -131,10 +132,10 @@ const listing = przydzielOferty(naZmiane, { ile: MAKS_LISTING, minRabat: 1 });
 const serieListingu = [...listing.reduce((m, { set: s }) => m.set(s.seria, (m.get(s.seria) ?? 0) + 1), new Map())]
   .sort((a, b) => a[0].localeCompare(b[0], 'pl'));
 
-// 3. Posty dealowe (bez aktualności).
-const posty = zajawkiArtykulow(
-  sortujPostyDealowe(Object.values(import.meta.glob('../deale/*.md', { eager: true })).filter((m) => m.frontmatter?.kategoria !== 'Aktualności')),
-);
+// 3. „Zestawy pod lupą” (bez aktualności): wszystkie teksty działu /deale/,
+// najlepszy status ceny pierwszy (bardzo dobra → dobra → powyżej progu → brak
+// oferty), w obrębie statusu najnowsze – reguła i źródło ceny w src/lib/pod-lupa.js.
+const posty = postyPodLupa(Object.values(import.meta.glob('../deale/*.md', { eager: true })));
 
 // 4. Prezentowniki – te same trzy co na stronie głównej.
 const WYBRANE_PREZENTOWNIKI = ['/prezentowniki/na-mikolaja/', '/prezentowniki/swieta-dla-dzieci/', '/prezentowniki/swieta-dla-doroslych/'];
@@ -282,16 +283,17 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Promocje LEGO', sciezk
   </section>
 
   {posty.length > 0 && (
-    <section class="sekcja" id="okazje-pod-lupa" aria-label="Okazje pod lupą">
+    <section class="sekcja" id="zestawy-pod-lupa" aria-label="Zestawy pod lupą">
+      <span id="okazje-pod-lupa" aria-hidden="true"></span>
       <div class="sekcja-head">
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Okazje pod lupą</h2>
+        <h2>Zestawy pod lupą</h2>
       </div>
-      <p>Najciekawsze okazje opisujemy szerzej: dla kogo jest zestaw, przy jakiej cenie warto brać i na co uważać.</p>
+      <p>Zestawy, które warto mieć, opisane szerzej: dlaczego, dla kogo i przy jakiej cenie brać. Plakietka mówi, jak dzisiejsza cena w sklepie z własnym magazynem wypada na tle progu zakupu.</p>
       <div class="zajawki" data-lupa>
         {posty.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
-      <nav class="paginacja" data-lupa-pag aria-label="Kolejne strony okazji pod lupą" hidden>
+      <nav class="paginacja" data-lupa-pag aria-label="Kolejne strony zestawów pod lupą" hidden>
         <button type="button" class="pg-przycisk" data-pg="wstecz">‹ Poprzednie</button>
         <span class="pg-licznik" aria-live="polite"></span>
         <button type="button" class="pg-przycisk" data-pg="dalej">Następne ›</button>
@@ -350,7 +352,7 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Promocje LEGO', sciezk
     addEventListener('resize', odswiez);
     odswiez();
   }
-  // Okazje pod lupą: po 6 wpisów na stronę (wszystkie są w HTML – stronicuje tylko skrypt).
+  // Zestawy pod lupą: po 6 wpisów na stronę (wszystkie są w HTML – stronicuje tylko skrypt).
   const lupa = document.querySelector('[data-lupa]');
   const lupaPag = document.querySelector('[data-lupa-pag]');
   if (lupa && lupaPag) {

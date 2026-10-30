@@ -1,28 +1,77 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Mroczny Sokół Millennium w historycznym minimum — 200 zł pod ceną katalogową, a figurkowego składu LEGO raczej nie powtórzy"
-opis: "75389 Mroczny Sokół Millennium kosztuje dziś 579,90 zł — najmniej w naszych notowaniach. Wycofanie potwierdzone na grudzień 2026, a Darth Jar Jar i reszta wykrzywionych wariantów bohaterów to unikat."
-seo_tytul: "LEGO 75389 Mroczny Sokół — minimum 579,90 zł"
-seo_opis: "75389 Mroczny Sokół Millennium kosztuje 579,90 zł — najmniej w naszych notowaniach. Wycofanie zestawu potwierdzone na grudzień 2026."
+title: "LEGO 75389 Mroczny Sokół Millennium: Darth Jar Jar i pięć innych figurek z odwróconej galaktyki"
+opis: "Sokół po ciemnej stronie i sześć figurek z serialu Rebuild the Galaxy"
+seo_tytul: "LEGO 75389 Mroczny Sokół Millennium – figurki z odwróconej galaktyki"
+seo_opis: "Sokół po ciemnej stronie i sześć figurek z serialu Rebuild the Galaxy. Cena katalogowa 779,99 zł, porównanie cen w sklepach."
 data: "2026-10-08"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
-pasek_zestaw: "75389"
+typ: "pod-lupa"
+set: "75389"
+persona: "AFOL"
+powody: [figurki, wycofanie, potencjal]
+cena_katalogowa: 779.99
+cena_dobra: 620
+cena_bardzo_dobra: 590
+prog_zakupu: 620
 ---
 
-**75389 Mroczny Sokół Millennium** kosztuje dziś **579,90 zł** — to **200 zł poniżej ceny katalogowej** (rabat około 26%) i najniższa cena w naszych notowaniach. Najtańsza jest oferta z Allegro, ale drabina cenowa jest krótka: x-kom schodzi do 609,90 zł, więc kto woli zwykły sklep zamiast marketplace'u, dopłaca trzydzieści złotych. LEGO.com i Planeta Klocków trzymają pełny cennik — zjazd należy do kanałów elektromarketowych.
+[moduł ceny: cena-pod-lupa, set 75389]
 
-<div class="galeria-setow" data-sety="75389"></div>
+LEGO Star Wars 75389 Mroczny Sokół Millennium to czarno-czerwona wersja najsłynniejszego frachtowca sagi, wzięta z animowanego serialu *Rebuild the Galaxy*. Ma 1579 elementów i około 43 cm długości. Kupuje się go jednak przede wszystkim dla obsady: sześciu bohaterów odwróconych na drugą stronę Mocy.
 
-## Dlaczego to dobra cena, a nie zwykła promocja
+## Figurki, których w tym składzie nie ma nigdzie indziej
 
-**1579 elementów** i najbardziej przewrotna wersja Sokoła Millennium w historii serii: mroczny, czerwono-czarny kadłub i komplet „wykrzywionych" wariantów bohaterów z serialu *Rebuild the Galaxy* — z **Darthem Jar Jarem** na czele. To figurkowy unikat: tak osobliwego składu LEGO raczej nigdy nie powtórzy, a właśnie takie zestawy po zniknięciu z oferty drożeją najszybciej. Wycofanie jest **potwierdzone na grudzień 2026**, więc to jedna z ostatnich fal cenowych przed końcem oficjalnej dystrybucji.
+W pudełku są Darth Jar Jar, łowca nagród C-3PO, Darth Dev, Darth Rey, plażowy Luke i Jedi Vader. To warianty znanych postaci z alternatywnej rzeczywistości serialu, więc nie da się ich odtworzyć, przemalowując zwykłe figurki. Komplet sześciu postaci w tej konfiguracji nie powtarza się w żadnym innym zestawie.
 
-Katalogowo **779,99 zł**; dzisiejsza cena to około **0,37 zł za klocek** — dla licencyjnego Star Wars z unikatowymi figurkami wynik bardzo przyzwoity. Aktualne kwoty i porównanie sklepów na bieżąco:
+Dla kolekcjonera minifigurek to główny argument. Statek jest tu oprawą, a obsada jest powodem zakupu.
 
-<div class="ceny-setu" data-set="75389"></div>
+## Znika z oferty w grudniu 2026
+
+LEGO potwierdziło wycofanie zestawu w grudniu 2026. Po wyczerpaniu zapasów w sklepach zostaje już tylko rynek wtórny, na którym kupuje się od osób prywatnych, bez gwarancji nowego, zapieczętowanego pudełka.
+
+Nie musisz kupować w panice. Do końca roku przejdzie jeszcze fala listopadowych promocji, a moduł ceny na górze pokazuje, czy dzisiejsza oferta mieści się w progu.
+
+## Co jest w środku
+
+Górne panele kadłuba odchylają się osobno, więc do wnętrza dostajesz się bez zdejmowania całej góry. W środku jest sala tronowa Dartha Jar Jara, stanowisko dowodzenia, hipernapęd, cela i kwatery. Na zewnątrz są sprężynowe działka, obrotowe wieżyczki, zdejmowane stanowisko strzelca i ruchoma antena.
+
+## Na co uważać
+
+To świadoma wariacja, nie zamiennik klasycznego, szarego Sokoła z filmów. Kto zbiera wersje kanoniczne, kupuje tu ciekawostkę, a nie kolejny etap kolekcji.
+
+Czarne elementy zlewają się przy słabym świetle, zarówno w trakcie budowy, jak i na półce. Wnętrze warto oświetlić, jeśli model ma stać na ekspozycji.
+
+## Przy jakiej cenie brać
+
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 779,99 zł |
+| Dobra cena | poniżej 620 zł |
+| Bardzo dobra cena | poniżej 590 zł |
+| **Próg zakupu** | **620 zł** |
+
+W ostatniej fali promocji zestaw regularnie stał 20–25% pod ceną katalogową w dużych sklepach. Powyżej 620 zł płacisz więcej, niż płacili kupujący w zwykłym tygodniu promocji. Przy cenie katalogowej za element wychodzi 0,49 zł, czyli tyle, ile wynosi mediana Star Wars z rocznika 2024.
+
+[tabela: ceny-setu, set 75389]
 
 ## Dla kogo
 
-Dla fana Star Wars, który ma już klasycznego Sokoła i chce wariantu, jakiego nie będzie miał nikt inny na półce — albo dla kolekcjonera minifigurek, bo Darth Jar Jar, mroczna Rey czy zły C-3PO poza tym pudełkiem nie istnieją. Pod choinkę też się broni: grudniowe wycofanie oznacza, że odkładanie zakupu na ostatni moment może skończyć się cenami odsprzedażowymi. Pełna karta zestawu i historia cen: [/zestaw/75389/](/zestaw/75389/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Dla dorosłego fana Star Wars, który ma już klasycznego Sokoła i chce wersji, jakiej nikt inny nie ma na półce. Dla kolekcjonera minifigurek to jeden z ciekawszych składów ostatnich lat.
+
+Rodzic też może kupić go śmiało dziecku od 10 lat: otwierane wnętrze i sześć wyrazistych postaci dają gotowe scenariusze zabawy. Znajomość serialu pomaga, ale nie jest konieczna. Przy 1579 elementach budowa zajmie kilka sesji.
+
+## Potencjał kolekcjonerski: umiarkowany
+
+Za: komplet figurek w tej konfiguracji nie powtarza się w innych pudełkach, wycofanie jest potwierdzone, a zestaw jest dobrze oceniany przez kupujących (4,3/5 przy 247 głosach na Bricksecie).
+
+Przeciw: to szeroko sprzedawany zestaw, który ma już ponad 9 tysięcy zgłoszonych egzemplarzy w kolekcjach na Bricksecie, więc rzadkością nie będzie. Popyt zależy też od fanów niszowego serialu animowanego, a nie całej sagi.
+
+Pewność oceny: niska. Nie prognozujemy, ile zestaw będzie kosztował po wycofaniu.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+
+Dla fana minifigurek i nietypowych wersji Sokoła to dobry zakup, jeśli cena jest poniżej 620 zł. Kolekcjonerzy klasycznych modeli mogą go pominąć bez żalu.

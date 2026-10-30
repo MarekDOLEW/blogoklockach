@@ -1,28 +1,62 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Arktyczna ciężarówka z laboratorium 150 zł pod ceną — rekord w zwykłym sklepie, nie na marketplace"
-opis: "60471 Ciężarówka z laboratorium arktycznej odkrywczyni ustanowiła dziś minimum naszych notowań w elektromarkecie. Według listy wycofań zestaw kończy karierę w grudniu — to ta sama arktyczna fala City, co Ekspres polarny."
-seo_tytul: "LEGO 60471 Arktyczna ciężarówka 150 zł poniżej ceny"
-seo_opis: "60471 Ciężarówka z laboratorium arktycznej odkrywczyni ma minimum naszych notowań w zwykłym sklepie. Według listy wycofań zestaw znika w grudniu."
+title: "LEGO City 60471 Ciężarówka z laboratorium arktycznej odkrywczyni: cała wyprawa w jednym pudełku"
+opis: "Sześciokołowa ciężarówka z laboratorium, skuterem, pięcioma badaczami i trzema wilkami"
+seo_tytul: "LEGO City 60471 Arktyczna ciężarówka z laboratorium"
+seo_opis: "Sześciokołowa ciężarówka z laboratorium, skuterem, pięcioma badaczami i trzema wilkami. Cena katalogowa 469,99 zł, porównanie cen w sklepach."
 data: "2026-09-28"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla rodzica"]
-pasek_zestaw: "60471"
+typ: "pod-lupa"
+set: "60471"
+persona: "RODZIC"
+powody: [funkcja, wycofanie]
+cena_katalogowa: 469.99
+cena_dobra: 340
+cena_bardzo_dobra: 320
+prog_zakupu: 340
 ---
 
-**60471 Ciężarówka z laboratorium arktycznej odkrywczyni** ustanowiła dziś rekord naszych notowań — i to nie na marketplace, tylko w zwykłym elektromarkecie z własnym magazynem, **150 zł poniżej ceny katalogowej**. Rynek zjechał szeroko: tuż nad rekordem stoją porównywarka i Allegro, więc nie jest to jednodniowy wyskok jednego sklepu.
+[moduł ceny: cena-pod-lupa, set 60471]
 
-<div class="galeria-setow" data-sety="60471"></div>
+LEGO City 60471 Ciężarówka z laboratorium arktycznej odkrywczyni to mobilna baza polarnej ekspedycji. Ma 1057 elementów, pięć minifigurek i trzy duże figurki wilków. Kupuje się go dla zabawy: dziecko dostaje pojazd, laboratorium i gotową historię do odgrywania.
 
-## Dlaczego teraz, a nie na Black Friday
+## Baza na kołach do rozkładania i składania
+Sześciokołowa ciężarówka z przegubowym kadłubem i podwyższoną kabiną wozi zdejmowane moduły. Są wśród nich laboratorium, kuchnia, łazienka i miejsce do spania. Na dachu jest obracane obserwatorium.
 
-**1057 elementów**, ciężarówka z odczepianym laboratorium na płozach, skuter śnieżny i ekipa badaczy — duży zestaw do zabawy, nie na półkę. Na naszej [liście wycofań](/artykuly/wycofania-lego-grudzien-2026/) figuruje z przewidywanym końcem sprzedaży w grudniu 2026, tak samo jak [Ekspres polarny](/deale/deal-60470-ekspres-polarny-ponizej-600/), o którym pisaliśmy tydzień temu — LEGO domyka całą arktyczną falę City jednocześnie. Mechanika końcówki jest znana: wycofywane zestawy City najpierw tanieją u sprzedawców czyszczących magazyn, a w listopadzie częściej znikają, niż tanieją dalej.
+Moduły można zdjąć i rozstawić obok pojazdu, więc z jednej ciężarówki robi się cała baza. Do tego dochodzi skuter śnieżny, którym ekipa dojeżdża do jaskini z wilkami.
 
-Katalogowo **469,99 zł**; dzisiejsze minimum to niecałe **0,30 zł za klocek** — bardzo dobry wynik jak na zestaw z dwoma pojazdami i figurkami zwierząt w pudełku. Aktualne kwoty i porównanie sklepów na bieżąco:
+## Zamknięta historia bez dokupowania
+Zestaw nie wymaga dokupowania bazy ani innych elementów, żeby zabawa miała sens. Pięcioosobowa ekipa ma role badawcze i techniczne, a trzy wilki dają przeciwnika i cel wyprawy. Kto zechce, rozbuduje go później o inne modele z serii City.
 
-<div class="ceny-setu" data-set="60471"></div>
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie zestawu w grudniu 2026. Po wyczerpaniu zapasów zostaje rynek wtórny, czyli zakup od osób prywatnych, często bez gwarancji kompletności i nowego pudełka.
+
+Jeśli to ma być prezent pod choinkę, warto zaplanować zakup w listopadzie. Moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
+
+## Na co uważać
+Przy 1057 elementach budowa zajmie kilka sesji. Producent przewidział zestaw dla dzieci od 8 lat, a młodsze mogą potrzebować pomocy dorosłego.
+
+Rozstawiona baza z modułami zajmuje sporo miejsca na podłodze lub stole. Warto przewidzieć, gdzie będzie stała między zabawami.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 469,99 zł |
+| Dobra cena | poniżej 340 zł |
+| Bardzo dobra cena | poniżej 320 zł |
+| **Próg zakupu** | **340 zł** |
+
+W sklepach zestaw zwykle stoi 24–30% pod ceną katalogową. Próg 340 zł mieści się w tym przedziale, więc nie wymaga polowania na wyjątkową okazję. Przy cenie katalogowej za element wychodzi 0,44 zł, poniżej mediany City z 2025 roku, która wynosi około 0,49 zł.
+
+[tabela: ceny-setu, set 60471]
 
 ## Dla kogo
+Dla rodzica, który szuka dużego zestawu City dla dziecka od 8 lat, lubiącego pojazdy, zwierzęta i zabawę w wyprawy. Moduły do przestawiania i pięć postaci dają materiał na długie scenariusze, także dla dwójki dzieci naraz.
 
-Dla dziecka od 8 lat, które lubi historie badawcze zamiast pościgów — laboratorium otwiera się do zabawy figurkami, a płozy pozwalają ciągnąć je za ciężarówką. Dobrze łączy się z resztą arktycznej serii, jeśli w domu już jest Ekspres polarny. Pełna karta zestawu i historia cen: [/zestaw/60471/](/zestaw/60471/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Dorosły fan LEGO City też znajdzie tu coś dla siebie. Naczepa i elementy podwozia przydają się do budowy własnych pojazdów w skali City.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla dziecka, które lubi City i wyprawy, to dobry prezent, jeśli cena jest poniżej 340 zł. Poniżej 320 zł warto brać od razu.

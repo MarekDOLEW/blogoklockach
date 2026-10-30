@@ -1,31 +1,60 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Kanarek Tweety za 69,99 zł — ponad połowa ceny katalogowej w dół i historyczne minimum na zestawie, który znika w grudniu"
-opis: "40824 Uroczy kanarek Tweety kosztuje dziś 69,99 zł w Media Expert — najmniej w naszych notowaniach i 75 zł pod katalogiem. Wycofanie potwierdzone na grudzień 2026, a licencja Looney Tunes wraca do LEGO rzadko."
-seo_tytul: "LEGO 40824 Kanarek Tweety — minimum 69,99 zł"
-seo_opis: "40824 Uroczy kanarek Tweety kosztuje 69,99 zł w Media Expert — najmniej w naszych notowaniach, rabat 52%. Wycofanie potwierdzone na grudzień 2026."
+title: "LEGO 40824 Uroczy kanarek Tweety: Looney Tunes w klockach, zanim zestaw zniknie z półek"
+opis: "Tweety z Looney Tunes jako walentynkowa dekoracja na półkę, w dwóch stylizacjach"
+seo_tytul: "LEGO 40824 Uroczy kanarek Tweety – Looney Tunes z klocków"
+seo_opis: "Tweety z Looney Tunes jako walentynkowa dekoracja na półkę, w dwóch stylizacjach. Cena katalogowa 144,99 zł, porównanie cen w sklepach."
 data: "2026-10-13"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
-tagi: ["Dla rodzica", "Dla AFOL"]
-pasek_zestaw: "40824"
-wazne_do: "2026-10-14"
+tagi: ["Dla AFOL"]
+typ: "pod-lupa"
+set: "40824"
+persona: "AFOL"
+powody: [licencja, wycofanie]
+cena_katalogowa: 144.99
+cena_dobra: 100
+cena_bardzo_dobra: 80
+prog_zakupu: 100
 ---
 
-**Aktualizacja 15.10:** promocja wygasła — Media Expert wrócił do 99,99 zł. Najtaniej jest teraz w x-kom i na Ceneo po **92,90 zł** (−36% od katalogu); aktualne kwoty w tabeli poniżej i na [karcie zestawu](/zestaw/40824/).
+[moduł ceny: cena-pod-lupa, set 40824]
 
-**40824 Uroczy kanarek Tweety** kosztował 13 października **69,99 zł w Media Expert** — to **rabat około 52%** od katalogowych 144,99 zł i najniższa cena w naszych notowaniach; jeszcze wczoraj ten sam sklep liczył sobie 99,99 zł. Drabina cenowa jest stroma: x-kom schodzi do 92,90 zł, Smyk do 102 zł, a reszta rynku trzyma trzycyfrowe kwoty — zjazd należy wyłącznie do Media Expert i może się skończyć bez ostrzeżenia, bo sklep nie podaje daty końca promocji.
+LEGO Looney Tunes 40824 Uroczy kanarek Tweety to zbudowany z klocków model kanarka stojącego na chmurce. Ma 412 elementów i jest pomyślany jako walentynkowa dekoracja do postawienia na półce. Kupuje się go dla postaci: Tweety w wersji LEGO to rzadki widok.
 
-<div class="galeria-setow" data-sety="40824"></div>
+## Looney Tunes w LEGO to rzadkość
+Licencja Looney Tunes pojawia się w ofercie LEGO rzadko, więc ten model nie ma wielu odpowiedników. Tweety nie jest minifigurką, tylko budowaną figurą na podstawce. Dla fana klasycznych kreskówek to gotowy element dekoracji, a nie kolejny zestaw do zabawy.
 
-## Dlaczego to dobra cena, a nie zwykła promocja
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie zestawu w grudniu 2026, a w swoim sklepie oznaczyło go jako ostatnią szansę. Po wyczerpaniu zapasów zostaje rynek wtórny, czyli zakup od osób prywatnych, bez gwarancji nowego pudełka.
 
-**412 elementów** składa się w żółtego kanarka z dwoma wariantami wyposażenia — tę samą figurkę ustawia się na dwa sposoby, więc dekoracja nie jest zamknięta raz na zawsze. Przy dzisiejszej cenie wychodzi około **0,17 zł za klocek** — jak na licencyjny zestaw ekspozycyjny wynik znakomity, bo katalogowo było to 0,35 zł.
+Nie trzeba się z tym spieszyć. Moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
 
-Ważniejszy od samej kwoty jest kalendarz: **wycofanie zestawu jest potwierdzone na grudzień 2026** — LEGO oznaczyło go w firmowym sklepie jako „ostatnią szansę". Looney Tunes pojawia się w ofercie LEGO rzadko i krótko, a po zejściu fali dostępność takich licencji bywa loterią. Aktualne kwoty i porównanie sklepów na bieżąco:
+## Co jest w środku
+Tweety stoi na chmurce osadzonej na podstawce, która porządkuje kompozycję i ułatwia ustawienie modelu na półce. Złożysz go w jednej z dwóch stylizacji: z łukiem i strzałą Kupidyna albo z bukietem i sercem. Ruchome elementy pozwalają zmieniać pozę.
 
-<div class="ceny-setu" data-set="40824"></div>
+## Na co uważać
+To dekoracja, nie zestaw do zabawy. Producent przewidział go dla osób od 12 lat, a po złożeniu model głównie stoi.
+
+Motyw jest walentynkowy. Poza lutym część osób uzna go za sezonowy dodatek, który przez resztę roku trafia do szafy.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 144,99 zł |
+| Dobra cena | poniżej 100 zł |
+| Bardzo dobra cena | poniżej 80 zł |
+| **Próg zakupu** | **100 zł** |
+
+W sklepach zestaw zwykle stoi 30–33% pod ceną katalogową, a w październiku jednorazowo zszedł znacznie niżej. Próg 100 zł odpowiada więc zwykłemu poziomowi promocji, a nie wyjątkowej okazji. Przy cenie katalogowej za element wychodzi 0,35 zł.
+
+[tabela: ceny-setu, set 40824]
 
 ## Dla kogo
+Dla dorosłego fana Looney Tunes, który chce mieć Tweety'ego na biurku albo na półce z kolekcją. Dobrze sprawdzi się też jako walentynkowy prezent dla osoby, która lubi klasyczne kreskówki.
 
-Dla fana klasycznych kreskówek, który chce postawić Tweety'ego na półce obok książek — oznaczenie 12+ jest realne, to zestaw do zbudowania i wystawienia, nie do codziennej zabawy. Sprawdzi się też jako prezent „na konkretny moment": urodziny fana Looney Tunes albo pod choinkę — choć z tym drugim lepiej nie czekać, bo grudniowe wycofanie może wyprzedzić Mikołaja. Pełna karta zestawu i historia cen: [/zestaw/40824/](/zestaw/40824/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Rodzic kupujący dziecku powinien pamiętać o oznaczeniu 12+. To model do złożenia i postawienia, z niewielkim potencjałem do zabawy.
+
+## Werdykt: 🧱🧱🧱 (3/5)
+Dla fana Looney Tunes to sympatyczny prezent, jeśli cena jest poniżej 100 zł. Poniżej 80 zł warto brać bez zastanowienia, a przy cenie katalogowej lepiej poczekać na promocję.

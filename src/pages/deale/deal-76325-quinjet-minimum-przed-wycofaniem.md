@@ -1,28 +1,62 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "Quinjet z Czasu Ultrona w historycznym minimum — 184 zł pod ceną katalogową na trzy miesiące przed wycofaniem"
-opis: "76325 Avengers: Czas Ultrona – Quinjet kosztuje dziś 335,67 zł — najmniej w naszych notowaniach. Zestaw ma potwierdzone wycofanie w grudniu 2026, a pod katalogiem stoi dziś kilka sklepów naraz."
-seo_tytul: "LEGO 76325 Quinjet — minimum przed wycofaniem"
-seo_opis: "76325 Quinjet z Avengers: Czas Ultrona kosztuje 335,67 zł — najmniej w naszych notowaniach. Wycofanie zestawu potwierdzone na grudzień 2026."
+title: "LEGO 76325 Quinjet: odrzutowiec Avengers z pięcioma postaciami z Czasu Ultrona"
+opis: "Quinjet z Czasu Ultrona z Czarną Wdową, Hawkeye'em, Iron Manem, Quicksilverem i Ultronem"
+seo_tytul: "LEGO 76325 Quinjet z Czasu Ultrona – pięć figurek Avengers"
+seo_opis: "Quinjet z Czasu Ultrona z Czarną Wdową, Hawkeye'em, Iron Manem, Quicksilverem i Ultronem. Cena katalogowa 519,99 zł, porównanie cen w sklepach."
 data: "2026-10-05"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
-pasek_zestaw: "76325"
+typ: "pod-lupa"
+set: "76325"
+persona: "AFOL"
+powody: [figurki, wycofanie]
+cena_katalogowa: 519.99
+cena_dobra: 400
+cena_bardzo_dobra: 360
+prog_zakupu: 400
 ---
 
-**76325 Avengers: Czas Ultrona – Quinjet** kosztuje dziś **335,67 zł** — to **184 zł poniżej ceny katalogowej** (rabat około 35%) i najniższa cena w naszych notowaniach. Najniżej stoi oferta z Allegro, ale zjazd jest rynkowy, nie jednostkowy: Media Expert schodzi dziś do 368,91 zł, a Empik trzyma się niewiele wyżej. Kto woli zwykły sklep z własnym magazynem zamiast marketplace'u, płaci ledwie trzydzieści parę złotych więcej.
+[moduł ceny: cena-pod-lupa, set 76325]
 
-<div class="galeria-setow" data-sety="76325"></div>
+LEGO Marvel 76325 Avengers: Czas Ultrona – Quinjet odtwarza odrzutowiec drużyny z filmu „Czas Ultrona”. Ma 1131 elementów, smukłe skrzydła, ciemną kolorystykę i symbole Avengers. Do tego dochodzi pięć minifigurek z obsady filmu, w tym główny przeciwnik.
 
-## Dlaczego to dobra cena, a nie zwykła promocja
+## Pięć postaci z jednego filmu
+W pudełku są Czarna Wdowa, Iron Man, Quicksilver, Hawkeye i Ultimate Ultron. To skład dobrany pod jeden konkretny film, a nie przypadkowy zestaw bohaterów. Według karty zestawu filmowy wariant Ultrona i zbroja Iron Mana w tej konfiguracji nie powtarzają się w innych pudełkach.
 
-**1131 elementów** i flagowy odrzutowiec Avengers w wersji z filmu *Czas Ultrona* — jeden z największych zestawów Marvela z fali 2025 roku. Istotniejszy od samego rabatu jest kalendarz: wycofanie zestawu jest **potwierdzone na grudzień 2026**, więc to jedna z ostatnich fal cenowych, w których sklepy jeszcze konkurują między sobą. Po zniknięciu z oficjalnej dystrybucji ceny takich konstrukcji zwykle nie wracają do dzisiejszych poziomów.
+Dla kolekcjonera minifigurek Marvela to główny argument. Statek jest dużą, efektowną oprawą dla tej piątki.
 
-Katalogowo **519,99 zł**; dzisiejsza cena to około **0,30 zł za klocek** — przyzwoity wynik jak na licencyjny zestaw Marvela tej skali. Aktualne kwoty i porównanie sklepów na bieżąco:
+## Znika z oferty w grudniu 2026
+LEGO potwierdziło wycofanie zestawu w grudniu 2026. Po wyczerpaniu zapasów w sklepach zostaje rynek wtórny, na którym kupuje się od osób prywatnych, bez gwarancji nowego, zapieczętowanego pudełka.
 
-<div class="ceny-setu" data-set="76325"></div>
+Nie musisz kupować w panice. Do końca roku przejdzie jeszcze fala listopadowych promocji, a moduł ceny na górze pokazuje, czy bieżąca oferta mieści się w progu.
+
+## Co jest w środku
+Kokpit otwiera się, żeby posadzić pilotów. Tylna rampa prowadzi do przestrzeni ładunkowej, w której mieści się motocykl Czarnej Wdowy. Są też dwa przednie strzelaki, schowki na wyposażenie i podstawka do prezentacji modelu w pozycji lotu.
+
+## Na co uważać
+To przede wszystkim model do ekspozycji z dodatkami do zabawy. Producent przewidział go dla osób od 12 lat, więc młodszy fan Marvela może potrzebować pomocy przy budowie.
+
+Podstawka sugeruje ekspozycję, a rozpiętość skrzydeł wymaga miejsca na półce. Warto to sprawdzić przed zakupem.
+
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 519,99 zł |
+| Dobra cena | poniżej 400 zł |
+| Bardzo dobra cena | poniżej 360 zł |
+| **Próg zakupu** | **400 zł** |
+
+W sklepach zestaw zwykle stoi około 22% pod ceną katalogową, a w porywach schodzi niżej. Próg 400 zł jest więc nieco poniżej zwykłej promocji i wymaga chwili cierpliwości. Przy cenie katalogowej za element wychodzi 0,46 zł, mniej niż typowe 0,60 zł dla zestawów Marvela z 2025 roku.
+
+[tabela: ceny-setu, set 76325]
 
 ## Dla kogo
+Dla dorosłego fana MCU, który chce dużego statku Avengers na półkę i kompletu postaci z Czasu Ultrona. Kolekcjoner minifigurek dostaje pięć bohaterów w jednym pudełku, w tym Quicksilvera i Ultrona.
 
-Dla fana MCU, który chce dużej, ekspozycyjnej konstrukcji z klasycznego filmu Avengers — Quinjet ma zwartą, „wystawową" sylwetkę i komplet minifigurek z ery Ultrona. Dla kupujących prezent pod choinkę to też praktyczny moment: grudniowe wycofanie oznacza, że odkładanie zakupu na ostatnią chwilę może się skończyć cenami odsprzedażowymi. Pełna karta zestawu i historia cen: [/zestaw/76325/](/zestaw/76325/). Pozostałe okazje dnia — w [Promocjach LEGO](/promocje-lego/).
+Rodzic może go kupić nastolatkowi od 12 lat. Otwierany kokpit, rampa z motocyklem i strzelaki dają sporo materiału do zabawy, a 1131 elementów to budowa na kilka wieczorów.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla fana Avengers i minifigurek to dobry zakup, jeśli cena jest poniżej 400 zł. Poniżej 360 zł nie ma na co czekać.

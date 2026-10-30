@@ -7,6 +7,7 @@ strukturę, pola i decyzje, których nie widać w gotowym artykule.
 |---|---|---|
 | [prezentownik-serii.md](prezentownik-serii.md) | prezent z jednej serii LEGO | `/prezentowniki/lego-friends/` |
 | [recenzja-zestawu.md](recenzja-zestawu.md) | jeden zestaw od środka | `/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/` |
+| [zestawy-pod-lupa.md](zestawy-pod-lupa.md) | tekst działu /deale/: dlaczego warto mieć zestaw, drabina cenowa we frontmatterze, cena dziś z automatu (brief Coworka, 30.10.2026) | `/deale/deal-75389-mroczny-sokol-minimum/` |
 
 Do dopisania: premiery, ranking, porównanie, poradnik, kalendarz, tekst historyczny.
 Kontrola pokrycia: `node scripts/eksport-skilli.mjs --sprawdz` wypisuje kategorie bez wzorca.

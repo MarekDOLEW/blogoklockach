@@ -6,7 +6,9 @@ import { ogStrony, slugZeSciezki } from '../lib/og.js';
 import { dataPl } from '../lib/daty.js';
 import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 import PasekCeny from '../components/PasekCeny.astro';
+import CenaPodLupa from '../components/CenaPodLupa.astro';
 import CyklArtykulow from '../components/CyklArtykulow.astro';
+import { cenaPodLupa } from '../lib/pod-lupa.js';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { polaczOferty, cenaKatalogowaSetu } from '../lib/oferty.js';
@@ -17,8 +19,14 @@ const { frontmatter, headings = [] } = Astro.props;
 // Post dealowy: `pasek_zestaw: "<nr>"` we frontmatterze daje pod tytułem pasek
 // „od X zł → Do <sklep>" z bieżących danych (audyt CRO 25.09.2026: pierwszy
 // przycisk posta leżał 1 400 px od góry, za wstępem i zdjęciem).
-const pasekNr = frontmatter.pasek_zestaw ? String(frontmatter.pasek_zestaw) : null;
+// Tekst „pod lupą” (`typ: pod-lupa`, dział /deale/ od 30.10.2026): zamiast paska
+// stoi moduł ceny ze statusem względem progu zakupu (src/lib/pod-lupa.js).
+const lupa = cenaPodLupa(frontmatter);
+const pasekNr = !lupa && frontmatter.pasek_zestaw ? String(frontmatter.pasek_zestaw) : null;
 const pasekOferty = pasekNr ? polaczOferty(sety[pasekNr]?.oferty ?? [], ofertyFeed?.sety?.[pasekNr] ?? null, pasekNr) : [];
+// Plakietka kategorii: „Deal” zostaje kategorią (walidator prebuild), ale czytelnik
+// widzi nazwę formatu.
+const plakietka = lupa ? 'Pod lupą' : frontmatter.kategoria;
 
 // Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
 // zaktualizowano (YYYY-MM-DD), faq: [{q, a}] i tagi: ["Dla rodziców"] –
@@ -29,7 +37,8 @@ const pasekOferty = pasekNr ? polaczOferty(sety[pasekNr]?.oferty ?? [], ofertyFe
 // obok plakietki kategorii, a nie zamiast niej: „Premiera" + „Dla rodziców"
 // to dwie różne informacje i czytelnik potrzebuje obu.
 const tagi = frontmatter.tagi ?? [];
-const canonical = new URL(Astro.url.pathname, Astro.site).href;
+// `canonical` z frontmattera: alias adresu (src/pages/deale/[alias].astro) wskazuje tekst główny.
+const canonical = new URL(frontmatter.canonical ?? Astro.url.pathname, Astro.site).href;
 
 const artykulJsonld = {
   '@context': 'https://schema.org',
@@ -96,10 +105,10 @@ const akcjaZakonczona = waznaDo && waznaDo < new Date().toISOString().slice(0, 1
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny}>
+<Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny} canonical={frontmatter.canonical ?? null}>
   <article class="prose" style="margin-top:28px">
     <p>
-      <span class="badge-seria">{frontmatter.kategoria}</span>
+      <span class="badge-seria">{plakietka}</span>
       {tagi.map((t) => <span class="badge-tag">{t}</span>)}
       <span style="font-size:0.85rem;color:var(--granat-60)">
         <time datetime={frontmatter.data}>{dataPl(frontmatter.data)}</time>
@@ -118,6 +127,7 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
         aktualne oferty znajdziesz w <a href="/promocje-lego/">Promocjach LEGO</a> i na stronach zestawów.
       </p>
     )}
+    {lupa && <CenaPodLupa lupa={lupa} />}
     {pasekNr && <PasekCeny nr={pasekNr} oferty={pasekOferty} cenaKatalogowa={cenaKatalogowaSetu(pasekNr, { sety })} wariant="gora" kotwica={`/zestaw/${pasekNr}/`} />}
     {frontmatter.cykl && <CyklArtykulow cykl={frontmatter.cykl} czesc={frontmatter.czesc} czesci={frontmatter.czesci} />}
     <slot />

@@ -1,34 +1,59 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "LEGO 21330 Kevin sam w domu pierwszy raz poniżej 1200 zł – wrzesień to ostatni spokojny moment"
-opis: "Dom McCallisterów właśnie zaliczył najniższą cenę naszych notowań. Na ten zestaw rabaty są rzadkie i płytkie, a przed świętami cena tradycyjnie rośnie."
-seo_tytul: "LEGO 21330 Kevin sam w domu poniżej 1200 zł"
+title: "LEGO 21330 Kevin sam w domu: dom McCallisterów z pułapkami i pięcioma bohaterami filmu"
+opis: "Dom McCallisterów otwierany na cztery strony, z pułapkami Kevina i pięcioma figurkami"
+seo_tytul: "LEGO 21330 Kevin sam w domu – dom McCallisterów z pułapkami"
+seo_opis: "Dom McCallisterów otwierany na cztery strony, z pułapkami Kevina i pięcioma figurkami. Cena katalogowa 1299,99 zł, porównanie cen w sklepach."
 data: "2026-08-31"
+zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"
 tagi: ["Dla AFOL"]
+typ: "pod-lupa"
+set: "21330"
+persona: "AFOL"
+powody: [licencja, flagowiec]
+cena_katalogowa: 1299.99
+cena_dobra: 1150
+cena_bardzo_dobra: 1080
+prog_zakupu: 1150
 ---
 
-Są zestawy, które tanieją co tydzień – i są takie jak **Kevin sam w domu**. Dom McCallisterów z serii Ideas trzyma cenę żelazną ręką od premiery: rabaty zdarzają się rzadko, są płytkie i szybko znikają, bo popyt wraca każdej zimy razem z emisją filmu. Dziś w naszych notowaniach pierwszy raz zszedł **poniżej 1200 zł** przy cenie katalogowej **1299,99 zł**.
+[moduł ceny: cena-pod-lupa, set 21330]
 
-<div class="galeria-setow" data-set="21330"></div>
+LEGO Ideas 21330 Kevin sam w domu to model domu McCallisterów ze świątecznego filmu. Ma 3955 elementów, otwiera się na cztery strony, a wnętrza odtwarzają sceny z filmu, w tym pułapki na włamywaczy. Kupuje się go dla filmu, który w wielu domach jest stałym punktem grudnia.
 
-## Co dostajesz
+## Film, który zna cała rodzina
+To licencjonowany zestaw oparty na filmie *Kevin sam w domu*. W pudełku jest pięć minifigurek: Kevin, Harry, Marv, mama i stary Marley. Z takiej obsady da się ustawić najbardziej znane sceny bez dokupowania postaci.
 
-**3955 elementów** i najbardziej „grudniowy" zestaw w historii LEGO: otwierany dom z kultowymi pułapkami Kevina, piwnicą z piecem, kuchnią ze sławną pizzą i minifigurkami Kevina, Harry'ego, Marva, mamy oraz starego Marleya. Zdejmowane piętra i ściany czynią z niego zestaw do zabawy scenami z filmu, a nie tylko bryłę na półkę. Budowa to kilka długich wieczorów – idealnie na listopad.
+Wnętrza są zbudowane pod konkretne momenty filmu. Są pułapki Kevina, piwnica z piecem i kuchnia.
 
-## Aktualne ceny
+## Duży model z linii Ideas
+Zestaw miał premierę w listopadzie 2021 roku jako ekskluzyw LEGO.com, a później trafił też do wybranych sieci. Przy 3955 elementach to duża, wielosesyjna budowa i model, który zajmuje widoczne miejsce na półce.
 
-<div class="ceny-setu" data-set="21330"></div>
+Makieta otwiera się na cztery strony, więc po złożeniu nie jest tylko fasadą. Przy cenie katalogowej za element wychodzi 0,33 zł, co przy takiej skali jest rozsądnym poziomem.
 
-Tabela odświeża się z naszym codziennym monitoringiem; pełne porównanie sklepów na [karcie zestawu](/zestaw/21330/).
+## Na co uważać
+Rabaty na ten zestaw są rzadkie i płytkie, zwykle około 8% pod ceną katalogową. Próg zakupu jest ustawiony niżej, więc przez większość czasu moduł ceny będzie pokazywał „Powyżej progu zakupu”. To nie błąd, tylko uczciwa informacja, że zwykła oferta nie jest okazją.
 
-## Nasza ocena ceny
+Zestaw najlepiej sprzedaje się w listopadzie i grudniu. W tym okresie trudniej o rabat, bo popyt świąteczny robi swoje.
 
-Katalogowo **1299,99 zł**. W naszej skali **dobra cena to poniżej 1250 zł, bardzo dobra – poniżej 1200 zł**, i właśnie ten drugi próg dziś pękł (30 gr za klocek przy licencjonowanym zestawie Ideas to bardzo przyzwoicie). Sezonowość działa tu przeciwko kupującym: od października do grudnia Kevin regularnie wraca do pełnego katalogu albo znika z magazynów. Kto planuje go pod choinkę – dosłownie i w przenośni – nie powinien czekać na Black Friday, bo w poprzednich latach ten zestaw właśnie wtedy bywał najdroższy.
+## Przy jakiej cenie brać
+| Poziom | Cena |
+| --- | --- |
+| Cena katalogowa LEGO | 1299,99 zł |
+| Dobra cena | poniżej 1150 zł |
+| Bardzo dobra cena | poniżej 1080 zł |
+| **Próg zakupu** | **1150 zł** |
 
-Najlepsza oferta pochodzi z Allegro (marketplace) – przed zakupem standardowo sprawdź ocenę sprzedawcy; bezpieczniejszą, choć droższą alternatywą pozostaje oficjalny sklep LEGO.
+Typowa promocja na ten zestaw to około 8% pod ceną katalogową, czyli wciąż powyżej progu. 1150 zł oznacza rabat około 11,5%, który zdarza się rzadko i warto na niego poczekać. Poniżej 1080 zł kupujesz wyraźnie taniej niż w zwykłej promocji.
+
+[tabela: ceny-setu, set 21330]
 
 ## Dla kogo
+Dla dorosłego fana filmu, który chce mieć na półce dom McCallisterów i lubi długie, spokojne budowy. To też dobry model do wystawienia w okresie świątecznym.
 
-Dla dorosłego fana kina lat 90., który chce mieć na półce kawałek świąt z dzieciństwa – i dla rodzin, które budują razem: pułapki Kevina to rzadki przypadek zestawu 18+, przy którym dzieci naprawdę mają co robić. Jeśli szukasz czegoś mniejszego w klimacie świąt, sprawdź [kalendarze adwentowe LEGO 2026](/deale/deal-kalendarze-adwentowe-lego-2026/), które również są na tegorocznych minimach.
+Rodzic, który myśli o prezencie pod choinkę, powinien wiedzieć, że zestaw ma oznaczenie 18+. Najlepiej sprawdzi się jako wspólny projekt rodziny ze starszym dzieckiem, budowany przez kilka grudniowych wieczorów. Jeśli prezent musi być na konkretną datę, a cena nie spadnie pod próg, zakup bliżej ceny katalogowej jest świadomą dopłatą za termin, nie okazją.
+
+## Werdykt: 🧱🧱🧱🧱 (4/5)
+Dla fana filmu to jeden z ciekawszych dużych modeli licencyjnych, ale warto go brać poniżej 1150 zł. Przy typowych, płytkich rabatach cierpliwość zwykle się opłaca.

@@ -1,0 +1,53 @@
+---
+// Moduł ceny „pod lupą” – pod tytułem tekstu z działu /deale/ w nowym formacie
+// (znacznik `[moduł ceny: cena-pod-lupa, set <nr>]` w markdownie; dane liczy
+// src/lib/pod-lupa.js z tego samego sita co huby). Zastępuje PasekCeny: oprócz
+// najtańszego sklepu mówi, czy dzisiejsza cena mieści się w progu zakupu, który
+// redakcja ustaliła we frontmatterze. W treści nie ma żadnej ceny sklepowej –
+// wszystko, co się zmienia, stoi tu i w tabeli cen pod sekcją „Przy jakiej cenie brać”.
+import { fmtCena, relLinku } from '../lib/oferty.js';
+import { dataPl } from '../lib/daty.js';
+const { lupa } = Astro.props;
+const { nr, status, etykieta, rrp, progi, dzis, rabat, allegro, minimum, liczbaSklepow, eol } = lupa;
+const fmtProg = (c) => (c == null ? null : Number.isInteger(c) ? `${c.toLocaleString('pl-PL')} zł` : fmtCena(c));
+const wSklepach = (n) => `w ${n} ${n === 1 ? 'sklepie' : 'sklepach'}`;
+const OPIS_STATUSU = {
+  'bardzo-dobra': 'mieści się w poziomie „bardzo dobra cena” z naszej drabiny.',
+  dobra: 'mieści się poniżej progu zakupu.',
+  powyzej: 'jest powyżej progu zakupu – warto poczekać na kolejną falę promocji.',
+};
+---
+<div class={`karta lupa-cena lupa-cena--${status}`} data-lupa={status} id={`lupa-${nr}`}>
+  <p class="lupa-cena__status">
+    <span class={`lupa-status lupa-status--${status}`}>{etykieta}</span>
+    {dzis ? (
+      <span class="lupa-cena__dzis">
+        Dziś najtaniej <strong>{fmtCena(dzis.cena)}</strong> {wSklepach(liczbaSklepow)}
+        {rabat >= 3 && <span class="lupa-cena__rabat">−{rabat}%</span>}
+        {' '}<span class="lupa-cena__komentarz">– ta cena {OPIS_STATUSU[status]}</span>
+      </span>
+    ) : (
+      <span class="lupa-cena__dzis">
+        Żaden sklep z własnym magazynem nie ma dziś tego zestawu w cenniku.
+        {eol && ' LEGO zakończyło jego produkcję – zostają zapasy sklepów i rynek wtórny.'}
+        {allegro && <> Na Allegro od <strong>{fmtCena(allegro.cena)}</strong> (marketplace – sprawdź sprzedawcę i stan zestawu).</>}
+      </span>
+    )}
+  </p>
+  <p class="lupa-cena__progi">
+    {rrp && <span>Cena katalogowa <strong>{fmtCena(rrp)}</strong></span>}
+    {progi.prog && <span>Próg zakupu <strong>{fmtProg(progi.prog)}</strong></span>}
+    {progi.bardzoDobra && <span>Bardzo dobra cena <strong>poniżej {fmtProg(progi.bardzoDobra)}</strong></span>}
+  </p>
+  <p class="lupa-cena__akcje">
+    {dzis?.link && (
+      <a class="cta" href={dzis.link} target="_blank" rel={relLinku(dzis.sklep, nr)} aria-label={`Przejdź do sklepu ${dzis.nazwaSklepu}`}>{dzis.nazwaSklepu} →</a>
+    )}
+    <a class="lupa-cena__link" href={`#ceny-${nr}`}>wszystkie ceny ↓</a>
+    <a class="lupa-cena__link" href={`/zestaw/${nr}/`}>karta zestawu LEGO {nr}</a>
+  </p>
+  <p class="lupa-cena__nota">
+    Cena „dziś” to najtańsza oferta sklepu z własnym magazynem (bez Allegro i Ceneo), odświeżana razem z cenami w serwisie; wiążąca jest cena w koszyku.
+    {minimum && <> Najniżej w naszych notowaniach: <strong>{fmtCena(minimum.cena)}</strong>{minimum.data && <> ({dataPl(minimum.data)})</>}.</>}
+  </p>
+</div>

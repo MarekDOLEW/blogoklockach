@@ -1,6 +1,7 @@
 ---
 import { obrazStaly } from '../lib/media.js';
 import { dataPl } from '../lib/daty.js';
+import { fmtCena } from '../lib/oferty.js';
 // Karta artykułu: data i kategoria, pod nimi zdjęcie z tematu tekstu,
 // dalej tytuł i opis. Ten sam komponent na stronie głównej, w /artykuly/
 // i w /prezentownikach/ – trzy listingi wyglądają identycznie.
@@ -15,9 +16,15 @@ const data = dataPl(zajawka.data);
 ---
 <a class="karta zajawka" href={zajawka.url} data-kategoria={grupa}>
   <span class="nr">{data} · {zajawka.kategoria}</span>
-  {(zajawka.tagi ?? []).length > 0 && (
+  {((zajawka.tagi ?? []).length > 0 || zajawka.lupa) && (
     <span class="zajawka-tagi">
-      {zajawka.tagi.map((t) => <span class="badge-tag">{t}</span>)}
+      {/* tekst „pod lupą”: status dzisiejszej ceny względem progu zakupu (src/lib/pod-lupa.js) */}
+      {zajawka.lupa && (
+        <span class={`lupa-status lupa-status--${zajawka.lupa.status}`}>
+          {zajawka.lupa.etykieta}{zajawka.lupa.dzis && <> · {fmtCena(zajawka.lupa.dzis.cena)}</>}
+        </span>
+      )}
+      {(zajawka.tagi ?? []).map((t) => <span class="badge-tag">{t}</span>)}
     </span>
   )}
   {zajawka.foto ? (
