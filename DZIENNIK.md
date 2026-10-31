@@ -237,6 +237,12 @@ schodzą z głównej po 24.12 (`wylacz_z_glownej_po`).
 **Mamy?** — częściowo: `/kalendarz-promocji-lego/` (sekcja `#listopad`) ma akapit o 21375 wchodzącej w dniu Black Friday i terminy z plakietką „przewidywane", ale nie ma daty samego odsłonięcia ani informacji, że cena nie jest ustalona.
 **Zrobić:** — dopisać w `/kalendarz-promocji-lego/`, sekcja `#listopad`, jedno zdanie: transmisja LEGO 3 listopada 2026 o 18:00 odsłania zestaw na Black Friday, spodziewana Godzilla 21375; przy cenie napisać widełki 399,99–449,99 euro zamiast jednej kwoty, dopóki LEGO nie poda swojej.
 **Kto:** — Code (strona)
+↻ 31.10.2026: nadal aktualne — doszły konkretniejsze daty okien. StoneWars (30.10) podaje
+Insiders Weekend **21–22 listopada** i Black Friday jako okno **27–30 listopada**, a tabela
+w sekcji `#listopad` ma dziś „ok. 21–26.11" dla Insiders Weekend i sam 27.11 dla Black Friday.
+Plakietka „przewidywane" zostaje słusznie: StoneWars pisze wprost, że LEGO reklamuje już oba
+wydarzenia w sklepie, ale szczegółów nie ujawnia. Przy tej samej poprawce warto więc wstawić obie
+daty z przypisem, czyje one są.
 
 **107 zestawów ma w `katalog.json` status `dostepny` i aktualne oferty w `oferty_feed.json`, a nie ma ich w `sety.json` — czyli bez śledzonego minimum, bez alertu cenowego i bez wejścia do „Dziś w dobrej cenie".**
 **Mamy?** — częściowo: huby tych zestawów stoją i pokazują ceny z feedu, ale rejestru nie mają. To inna lista niż ta domknięta 29.10 — tamta brała tylko zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25%; ta nie ma progu rabatu i obejmuje też pozycje bez ceny katalogowej.

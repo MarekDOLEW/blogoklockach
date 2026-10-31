@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-10-30",
+  "zaktualizowano": "2026-10-31",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -43,11 +43,16 @@
      "nazwa": "StoneWars",
      "url": "https://www.stonewars.de/news/lego-live-event-reveal-black-friday-set-ankuendigung/",
      "data": "2026-10-29"
+    },
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
+     "data": "2026-10-30"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Liczba elementów z przecieku. 30.10.2026: dwa źródła zgodne co do numeru 21375, 5364 elementów i daty 27.11.2026 — PromoBricks 28.10 i StoneWars 29.10 — ale cena nie. PromoBricks pisze „399,99 oder 449,99 Euro je nach Quelle\", StoneWars podaje 449,99 dolara. Drabina wymaga zgody co do numeru I ceny, więc pewność zostaje „srednia\"; cena_wg_zrodla zostaje null, bo nie wybieram jednej z dwóch kwot. LEGO potwierdziło samą transmisję (3.11.2026, 18:00, z Q&A projektantów), nie nazywając zestawu.",
-   "opis": "Zestaw Ideas z Godzillą – według przecieków 5364 elementy, czyli rozmiar stawiający go wśród największych pudełek rocznika. LEGO zapowiedziało na 3 listopada 2026 transmisję, na której odsłoni duży zestaw na Black Friday, i samo pisze o niej tylko „coś wielkiego nadchodzi\" – bez numeru i bez tematu. Na Godzillę wskazują PromoBricks i StoneWars, zgodne co do numeru 21375, liczby elementów i startu sprzedaży 27 listopada 2026. Rozjeżdża się cena: jedne źródła mówią o 399,99 euro, inne o 449,99. Rozstrzygnie to transmisja albo karta produktu na lego.com.",
+   "uwagi": "Liczba elementów z przecieku. 30.10.2026: dwa źródła zgodne co do numeru 21375, 5364 elementów i daty 27.11.2026 — PromoBricks 28.10 i StoneWars 29.10 — ale cena nie. PromoBricks pisze „399,99 oder 449,99 Euro je nach Quelle\", StoneWars podaje 449,99 dolara. Drabina wymaga zgody co do numeru I ceny, więc pewność zostaje „srednia\"; cena_wg_zrodla zostaje null, bo nie wybieram jednej z dwóch kwot. LEGO potwierdziło samą transmisję (3.11.2026, 18:00, z Q&A projektantów), nie nazywając zestawu. 31.10.2026: trzeci materiał — zbiorcza zapowiedź listopada na StoneWars (30.10). Rozjazdy po nim większe, nie mniejsze: StoneWars podaje tam 5463 elementy i 399,99 euro jako UVP „voraussichtlich\", podczas gdy jego własny artykuł z 29.10 mówił o 5364 elementach i 449,99 dolara, a PromoBricks (28.10) o 5364 elementach i „399,99 oder 449,99 Euro je nach Quelle\". 5364 vs 5463 wygląda na przestawienie cyfr, ale tego nie zakładam — w polu elementy zostaje 5364, bo tę liczbę podają dwa materiały z dwóch serwisów. Pewność zostaje „srednia\": drabina wymaga zgody co do numeru I ceny, a zgody nie ma ani co do ceny, ani co do liczby elementów. Z tego samego materiału numer gratisu 40888 — osobny wpis.",
+   "opis": "Zestaw Ideas z Godzillą, zapowiadany jako największy w historii tej linii. LEGO odsłoni go w transmisji 3 listopada 2026 o 18:00, a do sprzedaży ma wejść 27 listopada, w dniu Black Friday — potwierdzone jest na razie samo wydarzenie, bo w zaproszeniu producent pisze jedynie „coś wielkiego nadchodzi\", bez nazwy i numeru. Na Godzillę i numer 21375 wskazują zgodnie PromoBricks i StoneWars, oba podają też datę 27 listopada. Dane techniczne się jednak rozchodzą: liczba elementów bywa podawana jako 5364 albo 5463, a cena jako 399,99 albo 449,99 euro. Do zestawu ma dojść osobny gratis — według krążących opisów budowany odcisk stopy z kaflem przedstawiającym Mothrę.",
    "rozstrzygniecie": null
   },
   {
@@ -1900,6 +1905,90 @@
    "dodano": "2026-10-30",
    "uwagi": "30.10.2026: wpis z listy brickset.com/sets/year-2027 — rekord bez zdjęć, bez liczby elementów i bez daty, z adnotacją „This has not yet been released\". Brickset zakłada takie rekordy dla kolejnych serii CMF z wyprzedzeniem, stąd pewność „niska\" (sam numer). cena_wg_zrodla zostaje null zamiast przeliczenia 3,99 € → 20 zł: zaokrąglenie do 10 zł przy kwocie rzędu 17 zł wyglądałoby jak podwyżka wobec 16,49 zł, które płaci się dziś za serie 29 i Shrek. Do podniesienia, gdy skład serii pokażą PromoBricks albo StoneWars. Numer idzie do przecieków, nie do sety.json, żeby kolejny przebieg nie zgłosił go jako nowości.",
    "opis": "Trzydziesta seria kolekcjonerskich minifigurek, zapisana w katalogu Bricksetu pod numerem 71054 z rocznikiem 2027 i ceną 3,99 euro za saszetkę — tyle samo, ile kosztują serie sprzedawane obecnie. Brakuje wszystkiego, co decyduje o tym, czy warto polować: składu serii, zdjęć i daty premiery. LEGO serii nie zapowiedziało, a serwisy branżowe jeszcze o niej nie pisały, więc na razie jest to sam numer w katalogu.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40888",
+   "numer": "40888",
+   "nazwa": "Gratis do Godzilli (nazwa nieznana)",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
+     "data": "2026-10-30"
+    }
+   ],
+   "dodano": "2026-10-31",
+   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Zawartość (odcisk stopy plus kafel z Mothrą) StoneWars przypisuje plotkom, nie sobie. Powiązany z wpisem 21375.",
+   "opis": "Numer zarezerwowany pod gratis do zestawu Ideas Godzilla (21375), który ma wejść do sprzedaży 27 listopada 2026. StoneWars wymienia go wśród listopadowych gratisów ze znakiem zapytania i nie podaje ani nazwy, ani zawartości; według krążących opisów ma to być budowany odcisk stopy Godzilli wraz z nadrukowanym kaflem przedstawiającym Mothrę. Zdjęć ani potwierdzenia od LEGO nie ma, podobnie jak w przypadku samego zestawu.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40914",
+   "numer": "40914",
+   "nazwa": "Gratis na Insiders Weekend i Black Friday (nazwa nieznana)",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
+     "data": "2026-10-30"
+    }
+   ],
+   "dodano": "2026-10-31",
+   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Drugi numer z tej pary to 40918. Progi 170 i 250 euro to porównanie historyczne StoneWars, nie zapowiedź.",
+   "opis": "Numer zarezerwowany pod jeden z dwóch gratisów, które LEGO ma dawać przy zakupach w czasie Insiders Weekend 21–22 listopada 2026 i Black Friday 27–30 listopada. StoneWars podaje sam numer ze znakiem zapytania — nazwy, zawartości ani progu kwotowego nie zna nikt poza producentem. W poprzednich latach progi dla gratisów niezwiązanych z konkretnym zestawem wynosiły 170 i 250 euro, ale przy braku zdjęć nie wiadomo, czy w tym roku będzie podobnie.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "40918",
+   "numer": "40918",
+   "nazwa": "Drugi gratis na Insiders Weekend i Black Friday (nazwa nieznana)",
+   "seria": "Ekskluzywne i promocyjne",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2026-11",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
+     "data": "2026-10-30"
+    }
+   ],
+   "dodano": "2026-10-31",
+   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Pierwszy numer z tej pary to 40914.",
+   "opis": "Numer zarezerwowany pod drugi gratis na Insiders Weekend 21–22 listopada 2026 i Black Friday 27–30 listopada. Tak jak przy numerze 40914, StoneWars podaje tylko numer ze znakiem zapytania, bez nazwy, zawartości i progu zakupowego. LEGO reklamuje już oba wydarzenia w swoim sklepie, ale szczegółów promocji nie ujawnia.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "dragon-ball-2027",
+   "numer": null,
+   "nazwa": "Dragon Ball — seria zestawów do zabawy",
+   "seria": "Dragon Ball",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars",
+     "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
+     "data": "2026-10-30"
+    }
+   ],
+   "dodano": "2026-10-31",
+   "uwagi": "31.10.2026: zdanie z zestawienia listopadowych nowości StoneWars (30.10) — model 11390 nazwany tam zwiastunem „kompletnego motywu z zestawami do zabawy, który ma się ukazać w 2027 roku\". Jedno źródło, zero numerów, więc „niska\". Do podniesienia, gdy pojawią się numery albo gdy napisze o tym PromoBricks. Wpis bez numeru, bo dotyczy całej serii — jak „cutelings\" i „star-wars-50-lecie\".",
+   "opis": "Po listopadowym modelu kolekcjonerskim Shenron i Goku (11390) licencja Dragon Ball ma w 2027 roku dostać pełną serię zestawów do zabawy. Mówi o tym StoneWars przy okazji zapowiedzi 11390, nazywając ten zestaw zwiastunem całego motywu. Numerów, nazw, cen ani terminów nie podano, a LEGO samo o serii nie informowało.",
    "rozstrzygniecie": null
   }
  ]
