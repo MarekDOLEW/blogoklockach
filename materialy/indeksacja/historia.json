@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-10-30"
+  "zaktualizowano": "2026-10-31"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -249,6 +249,23 @@
    "https://tylkoklocki.pl/serie/friends/",
    "https://tylkoklocki.pl/serie/marvel/",
    "https://tylkoklocki.pl/serie/one-piece/"
+  ],
+  "2026-10-31": [
+   "https://tylkoklocki.pl/serie/city/",
+   "https://tylkoklocki.pl/serie/friends/",
+   "https://tylkoklocki.pl/serie/horizon-adventures/",
+   "https://tylkoklocki.pl/serie/marvel/",
+   "https://tylkoklocki.pl/serie/one-piece/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/60493/",
+   "https://tylkoklocki.pl/zestaw/10427/",
+   "https://tylkoklocki.pl/zestaw/10447/",
+   "https://tylkoklocki.pl/zestaw/10458/",
+   "https://tylkoklocki.pl/zestaw/10464/",
+   "https://tylkoklocki.pl/zestaw/10469/",
+   "https://tylkoklocki.pl/zestaw/10472/",
+   "https://tylkoklocki.pl/zestaw/10473/",
+   "https://tylkoklocki.pl/zestaw/10465/"
   ]
  }
 }
