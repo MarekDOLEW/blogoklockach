@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-10-29",
-    "przebieg": "scheduled 2026-10-29 08:00",
+    "ostatnia_aktualizacja": "2026-10-31",
+    "przebieg": "scheduled 2026-10-31 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 339,
+    "liczba_wpisow": 343,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -42,7 +42,8 @@
       "2026-10-26": "Nic do zrobienia. Dwie publikacje: skrot popkulturowy u fanklockow i przedatowany na nowy adres wpis faniklockow o kumulacji z 20.10. Przy tym drugim sprawdzilem u zrodla, czy nie opisuja czegos nowego: lego.com/pl-pl wciaz ma wylacznie okno 20-27.10 z trzema gratisami, wiec to przedatowanie, nie nowa akcja. Przy okazji potwierdzone, ze nasz kalendarz jest aktualny co do okna 28.10-11.11 z gratisem 40889 (dodane innym commitem 25.10) i ze zdanie 'polskiego progu LEGO jeszcze nie opublikowalo' jest nadal prawdziwe - na karcie promocji 40889 nie ma wcale. Otwarta pozycja o 75192 trwa trzeci dzien: 2699,90 zl w Media Expert z data 25.10, dealu nadal nie ma.",
       "2026-10-27": "Nic do zrobienia, ale dwie rzeczy warte zapamietania. (1) Oba serwisy wydaly tego samego dnia liste premier listopadowych z dystrybucja - temat mamy pokryty strona /nowosci/listopad-2026/, sprawdzona dzis na produkcji: szesc pozycji, ceny katalogowe, elementy, zdjecia, i caly czas generowana z danych, wiec nie wymaga przepisywania co miesiac. (2) Ich cykl 'LEGO do szafy' przeszedl za sciane platna dla patronow. To potwierdza decyzje Marka z 19.10, zeby tego formatu nie gonic: tresc, ktora autor zamyka dla wplacajacych, nie pracuje na ruch z wyszukiwarki. Przy okazji czwarty dzien pozycji o 75192 i pierwsza zmiana jakosciowa: 2699,90 zl ma juz nie jeden sklep, tylko trzy (Media Expert, Ceneo, x-kom), a Allegro stoi 2758,90 - to ruch calego rynku, nie wybryk jednego sprzedawcy, wiec cena jest pewniejsza niz w piatek.",
       "2026-10-28": "Cztery nowe publikacje, jedna pozycja - i wyszla z niej dziura w naszym rejestrze, nie temat do napisania. faniklockow wystawili 'Okazje Cenowa' na 21333 Gwiazdzista noc (Smyk 599 zl, u nich -26%). Dwa sprawdzenia rozbroily sama okazje: wobec potwierdzonego katalogu 729,99 zl to -17,9%, a 599 zl u Smyku stalo juz 25.09 i 09.10, czyli to podloga tego sklepu, nie zjazd. Zostaje jednak rzecz wazniejsza: 21333 NIE MA w sety.json, mimo potwierdzonego wycofania na grudzien 2026. Numer jest w oferty_feed (empik 739,99, ceneo 599, lego 729,99, allegro 694,99, smyk 599) i w historia-cen (20 zapisow od 18.09), wiec hub pokazuje ceny, ale bez wpisu w rejestrze zestaw nie wejdzie do 'Dzis w dobrej cenie', nie ma sledzonego minimum i nie dostanie alertu. To ta sama klasa luki co 19 nieskledzonych zestawow z 11.10. Research domkniety u zrodla: 729,99 zl, 2316 elementow, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas. Drugie sprawdzenie dnia wyszlo dla nas dobrze: oba serwisy pisza o oknie gratisowym od 28.10, a nasz kalendarz ma je od 25.10 i zgadza sie co do zlotowki z regulaminem LEGO.pl (40889 od 540 zl, 30727 Star Wars od 165 zl, oba 28.10-08.11). Trzeci raz z rzedu nasz kalendarz byl na czas, a nie za nimi. Przy okazji ZAMKNIETA moja wlasna rozbieznosc z 17.10: karta 11388 na lego.com/pl-pl nadal mowi 'Wkrotce dostepne (4 listopada 2026)', a nasz tekst premierowy mowi 1.11 dla Insiders i 4.11 dla pozostalych - to nie sprzecznosc, tylko wczesny dostep, i tekst nie wymaga zmiany. Struktura: promoklocki bez zmian (te same kategorie i karty, paginacja 224). zklockow: /blog sprawdzony i MARTWY od 17.02.2021 - ale to stalo w obserwacjach strategicznych od sierpnia, wiec kredyt poszedl na pytanie juz rozstrzygniete; zapisane jako regula na przyszle przebiegi.",
-      "2026-10-29": "Osiem nowych publikacji, jedna pozycja - i jest to ta sama dziura co wczoraj, tylko zmierzona. faniklockow wystawili trzy 'Okazje Cenowe'; sprawdzenie kazdej w naszych danych dalo trzy rozne wyniki i warto je zestawic: 60506 Tramwaj - ich cena 179 zl to CO DO ZLOTOWKI nasze minimum z ceny_baza (02.10, Media Expert), zestaw sledzony, nic do roboty; 77259 Bolid Audi - ich 65 zl u Ceneo jest WYZSZE od naszego minimum 59,99 zl z 07.09, tez nic; 72046 Game Boy - 157,69 zl u Ceneo przy katalogu 249,99 (-37%), szesc ofert, i zestawu NIE MA w sety.json ani w ceny_baza. Drugi taki przypadek w dwa dni (wczoraj 21333) przestaje byc przypadkiem, wiec policzylem cala populacje zamiast zglaszac kolejny numer pojedynczo: 64 ZESTAWY maja potwierdzone RRP, co najmniej dwie oferty i rabat >=25% po sicie podejrzanego rynku, a nie sa w sety.json. Czolo listy: 77057 -48%, 77076 -47%, 76785 -47%, 31380 i 10713 -46%. Z 64 hubow 17 jest noindex (cienkie), 47 indeksowalne - wiec szkoda nie jest wszedzie ta sama, ale wspolna czesc jest u kazdego: brak wpisu w ceny_baza to brak sledzonego minimum, brak alertu cenowego i brak wejscia do bloku 'Dzis w dobrej cenie', ktory iteruje po sety.json. To zmierzona wersja notatki z 11.10 (tam 19 zestawow, ale tylko z RRP >= 1000 zl). Wazne dla oceny skali: 'brak w sety.json' NIE znaczy, ze cena jest niewidoczna - huby te maja tabele z oferty_feed. Chodzi o sledzenie, alerty i wyroznione miejsca. Wniosek z wczorajszego dnia dopisany tutaj, bo dotyczy tej samej mechaniki: cena 599 zl na 21333, o ktora Marek pytal przy tekscie dealowym, ZNIKNELA - karta Smyku sprawdzona 28.10 mowi 'Produkt niedostepny' i nie ma na niej zadnej kwoty. W naszych danych 599 zl stoi dalej z data 27.10, bo ceny Smyka odswiezamy we wtorki, a reguła Marka z 26.10 mowi wprost, ze tabele na stronach zestawow pokazuja wszystkie oferty z data odczytu (bramka swiezosci dotyczy tylko slajderow). Tekstu dealowego nie napisalem i pytanie o szkic czeka na odpowiedz. Struktura: promoklocki bez zmian - te same 15 kategorii, zadnej nowej sekcji ani funkcji, paginacja 224 -> 225 (nowe produkty 67005, 42718, 42719). zklockow dzisiaj NIE sprawdzany: wczoraj potwierdzone, ze /blog jest martwy od 2021, a /aktualnosci to log produktow, nie publikacje - to zastosowanie wczorajszej reguly o niewydawaniu kredytu na pytanie juz rozstrzygniete."
+      "2026-10-29": "Osiem nowych publikacji, jedna pozycja - i jest to ta sama dziura co wczoraj, tylko zmierzona. faniklockow wystawili trzy 'Okazje Cenowe'; sprawdzenie kazdej w naszych danych dalo trzy rozne wyniki i warto je zestawic: 60506 Tramwaj - ich cena 179 zl to CO DO ZLOTOWKI nasze minimum z ceny_baza (02.10, Media Expert), zestaw sledzony, nic do roboty; 77259 Bolid Audi - ich 65 zl u Ceneo jest WYZSZE od naszego minimum 59,99 zl z 07.09, tez nic; 72046 Game Boy - 157,69 zl u Ceneo przy katalogu 249,99 (-37%), szesc ofert, i zestawu NIE MA w sety.json ani w ceny_baza. Drugi taki przypadek w dwa dni (wczoraj 21333) przestaje byc przypadkiem, wiec policzylem cala populacje zamiast zglaszac kolejny numer pojedynczo: 64 ZESTAWY maja potwierdzone RRP, co najmniej dwie oferty i rabat >=25% po sicie podejrzanego rynku, a nie sa w sety.json. Czolo listy: 77057 -48%, 77076 -47%, 76785 -47%, 31380 i 10713 -46%. Z 64 hubow 17 jest noindex (cienkie), 47 indeksowalne - wiec szkoda nie jest wszedzie ta sama, ale wspolna czesc jest u kazdego: brak wpisu w ceny_baza to brak sledzonego minimum, brak alertu cenowego i brak wejscia do bloku 'Dzis w dobrej cenie', ktory iteruje po sety.json. To zmierzona wersja notatki z 11.10 (tam 19 zestawow, ale tylko z RRP >= 1000 zl). Wazne dla oceny skali: 'brak w sety.json' NIE znaczy, ze cena jest niewidoczna - huby te maja tabele z oferty_feed. Chodzi o sledzenie, alerty i wyroznione miejsca. Wniosek z wczorajszego dnia dopisany tutaj, bo dotyczy tej samej mechaniki: cena 599 zl na 21333, o ktora Marek pytal przy tekscie dealowym, ZNIKNELA - karta Smyku sprawdzona 28.10 mowi 'Produkt niedostepny' i nie ma na niej zadnej kwoty. W naszych danych 599 zl stoi dalej z data 27.10, bo ceny Smyka odswiezamy we wtorki, a reguła Marka z 26.10 mowi wprost, ze tabele na stronach zestawow pokazuja wszystkie oferty z data odczytu (bramka swiezosci dotyczy tylko slajderow). Tekstu dealowego nie napisalem i pytanie o szkic czeka na odpowiedz. Struktura: promoklocki bez zmian - te same 15 kategorii, zadnej nowej sekcji ani funkcji, paginacja 224 -> 225 (nowe produkty 67005, 42718, 42719). zklockow dzisiaj NIE sprawdzany: wczoraj potwierdzone, ze /blog jest martwy od 2021, a /aktualnosci to log produktow, nie publikacje - to zastosowanie wczorajszej reguly o niewydawaniu kredytu na pytanie juz rozstrzygniete.",
+      "2026-10-31": "Cztery nowe publikacje, jedna pozycja - i znowu ich post dealowy wskazal dziure w rejestrze, ale INNEGO rodzaju niz w czwartek. faniklockow opisali 76329 Maske Milesa Moralesa: tegoroczny EOL, ktory na rynku jest DROZSZY od katalogu, plus rada, zeby kupic dwie sztuki i zalapac sie na gratis 40889. Arytmetyka sie zgadza (2 x 299,99 = 599,98 przy progu 540 zl, okno 28.10-8.11 potwierdzone 29.10), ale podstawa nie: karta lego.com/pl-pl sprawdzona dzis mowi 'Chwilowo niedostepne', czyli po cenie katalogowej nie ma czego kupic. Ich 'ponownie pojawil sie' z 30.10 albo trwalo kilka godzin, albo bylo nieprecyzyjne; nasza wlasna etykieta w katalog.json mowila 'niedostepne' juz 27.10. Trzeci raz w tygodniu powtarza sie ten sam wzorzec: ich okazja odwoluje sie do dostepnosci, ktorej w dniu czytania juz nie ma (po 21333 u Smyku i 77076 za 89 zl). Co z tego jest nasze: 76329 NIE MA w sety.json ani w ceny_baza, mimo potwierdzonego wycofania na grudzien 2026. Policzone szerzej: 68 zestawow z potwierdzonym wycofaniem w wycofania.json jest poza rejestrem, z czego 49 ma termin w 2026 roku (48 'grudzien 2026' plus 21352) i 19 jest juz po produkcji. To jest KLASA LUK, KTOREJ LISTA Z 29.10 NIE MOGLA POKAZAC: tam kryterium byl rabat >=25%, a tutaj 21 z 49 pozycji jest na rynku DROZSZE od ceny katalogowej (76329 +47%, Endurance +26%, Nike Dunk Trickshot +21%), wiec zaden filtr rabatowy ich nie wylapie - a to wlasnie zestawy, przy ktorych argument zakupowy sezonu brzmi 'kupuj, bo w grudniu zniknie', nie 'kupuj, bo tanio'. Lista z nazwami, cenami i terminami: materialy/wycofania-poza-rejestrem-2026-10-31.md. Pozostale trzy publikacje poza zakresem: Pick a Brick to pojedyncze elementy, klocki magnetyczne to obca marka (ciekawe, ze serwis o LEGO wychodzi poza nia), a 'Czy firma LEGO ma problem' to publicystyka. Struktura: promoklocki bez zmian - te same 15 kategorii, nowe karty produktow (40898, 11388, 21065), paginacja 225 -> 224. zklockow nie sprawdzany, zgodnie z regula z 29.10."
     }
   },
   "publikacje": [
@@ -4063,6 +4064,54 @@
         "ceneo"
       ],
       "notatki": "Ceneo 65 zl wobec katalogu 114,99 (-43%), ale nasze minimum jest nizsze: 59,99 zl z 07.09 u Allegro. Zestaw w sety.json i ceny_baza, wycofanie potwierdzone na grudzien 2026. Nic do zrobienia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowosci LEGO Pick a Brick na listopad 2026",
+      "url": "https://fanklockow.pl/nowosci-lego-pick-a-brick-na-listopad-2026/",
+      "data_publikacji": "2026-10-30",
+      "data_wykrycia": "2026-10-31",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Pojedyncze elementy w usludze Pick a Brick, nie zestawy - nie prowadzimy tej kategorii i nie mamy jej w danych cenowych."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Klocki magnetyczne - jak wybrac idealny zestaw?",
+      "url": "https://fanklockow.pl/klocki-magnetyczne-jak-wybrac-idealny-zestaw/",
+      "data_publikacji": "2026-10-30",
+      "data_wykrycia": "2026-10-31",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Obca kategoria produktowa (klocki magnetyczne, nie LEGO). Serwis o LEGO wychodzi poza marke - warto odnotowac jako kierunek u nich, ale my tego nie gonimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Czy firma LEGO ma problem? Oto lista rzeczy, ktore nie podobaja sie fanom",
+      "url": "https://faniklockow.pl/2026/10/30/czy-firma-lego-ma-problem-oto-lista-rzeczy-ktore-nie-podobaja-sie-fanom-kultowych-klockow/",
+      "data_publikacji": "2026-10-30",
+      "data_wykrycia": "2026-10-31",
+      "typ": "historia",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Tekst opiniotworczy bez decyzji zakupowej. Nie prowadzimy publicystyki o kondycji producenta."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Marvel) - 76329 Maska Milesa Moralesa",
+      "url": "https://faniklockow.pl/2026/10/30/okazja-cenowa-marvel-76329-maska-milesa-moralesa/",
+      "data_publikacji": "2026-10-30",
+      "data_wykrycia": "2026-10-31",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Ich teza: zestaw 'ponownie pojawil sie' na LEGO.pl, jest tegorocznym EOL i rynek przebija cene katalogowa, a przy zakupie dwoch sztuk wpada gratis 40889. Arytmetyka sie zgadza (2 x 299,99 = 599,98 wobec progu 540 zl, okno 28.10-8.11), ale SPRAWDZENIE U ZRODLA 31.10 przeczy podstawie: karta lego.com/pl-pl mowi 'Chwilowo niedostepne' (product:availability: out of stock), czyli nie ma czego kupic po cenie katalogowej. Zgadza sie to z nasza wlasna etykieta lego_pl_etykieta: niedostepne z 27.10 w katalog.json. Natomiast ich obserwacja o rynku jest prawdziwa: Empik 499, Allegro 442,19 wobec katalogu 299,99, czyli +47%. Realna luka jest u nas: 76329 nie ma w sety.json ani w ceny_baza mimo potwierdzonego wycofania na grudzien 2026 - i to otwiera klase luk, ktorej lista z 29.10 nie mogla pokazac."
     }
   ],
   "obserwacje_strategiczne": {
