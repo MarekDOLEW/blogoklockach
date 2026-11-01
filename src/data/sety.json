@@ -35452,10 +35452,10 @@
   "cena_katalogowa": null,
   "elementy": 288,
   "wiek": "10+",
-  "premiera": "2026-01",
+  "premiera": "2026-03",
   "opis": "",
-  "dla_rodzica": "Dwie figurki na podstawkach, bez scenerii i bez zabawy w scenki. Wiek 10+ jest realny, budowa krótka. Bohaterowie pochodzą z gry sieciowej z elementami walki, więc dziecko, które w nią nie gra, nie będzie ich kojarzyć; dla gracza to natomiast rozpoznawalna para.",
-  "dla_afol": "Potencjał kolekcjonerski oceniam na umiarkowany: licencja gamingowa jest w LEGO obecna w wąskiej ofercie, ale format stylizowanych figurek powtarza się co roku.",
+  "dla_rodzica": "Dwie figurki na podstawkach, bez scenerii i bez zabawy w scenki. Wiek 10+ jest realny, budowa krótka. Bohaterowie pochodzą z gry sieciowej z elementami walki, więc dziecko, które w nią nie gra, nie będzie ich kojarzyć; dla gracza to natomiast rozpoznawalna para. Zestawu nie da się jednak po prostu kupić: od marca 2026 jest nagrodą w programie Insiders, wymienianą za punkty, więc w Polsce chodzi wyłącznie z drugiej ręki.",
+  "dla_afol": "Nagroda Insiders Rewards wymieniana za punkty od marca 2026, a nie pozycja z cennika — nakład ogranicza liczba wymian, nie wielkość produkcji. Numery 299 i 300 w serii BrickHeadz, ocena 4,4/5 przy 10 głosach na Bricksecie. Potencjał kolekcjonerski oceniam na wysoki, bo zestawu nie da się kupić po cenie katalogowej — takiej ceny nigdy nie miał.",
   "oferty": [
    {
     "sklep": "allegro",
@@ -35467,7 +35467,8 @@
     "cena": 178.92,
     "data": "2026-10-26"
    }
-  ]
+  ],
+  "bez_rrp": "nagroda Insiders Rewards — wymieniana za punkty od marca 2026 (Brickset: Availability „Insiders Reward\", bez RRP), nigdy nie miała polskiej ceny katalogowej; oferty w Polsce to odsprzedaż"
  },
  "40922": {
   "nazwa": "Lilo i Stitch: Andzia",
@@ -48696,5 +48697,17 @@
   "dla_afol": "Najtańsze wejście w dziewiątą serię BDP (49,99 euro) i sezonowy motyw, który dobrze sąsiaduje z jesiennymi zestawami Icons. Niski nakład jak w całym programie, więc i tu spodziewam się wyższych cen wtórnych; w Polsce dostępny wyłącznie z odsprzedaży.",
   "oferty": [],
   "bez_rrp": "BrickLink Designer Program (seria 9), sprzedaż wyłącznie w okienku zamówień BrickLink, bez polskiego cennika (49,99 €); oferty w Polsce to odsprzedaż"
+ },
+ "42254": {
+  "nazwa": "Planety Układu Słonecznego na orbicie",
+  "seria": "Technic",
+  "cena_katalogowa": null,
+  "elementy": 572,
+  "wiek": "",
+  "premiera": "2027",
+  "opis": "Zestaw z linii Technic poświęcony Układowi Słonecznemu: planety od Merkurego przez Ziemię i Marsa po Jowisza, Saturna i Neptuna, w mikroskali i na wspólnej podstawce ekspozycyjnej z tabliczką nazw oraz planszą informacyjną. Składa się z 572 elementów i wchodzi do podserii Space. Premiera w 2027 roku; w strefie euro zestaw kosztuje 99,99 euro, polskiej ceny katalogowej LEGO jeszcze nie ogłosiło.",
+  "dla_rodzica": "Temat wprost ze szkolnej lekcji przyrody, podany jako model do złożenia i postawienia na biurku — dobry wybór dla dziecka, które interesuje się astronomią, ale bliżej mu do eksponatu niż do zabawki na codzienne zabawy. Podstawka z tabliczką nazw i planszą informacyjną robi z niego pomoc do nauki nazw i kolejności planet.",
+  "dla_afol": "Brickset wylicza 17,5 eurocenta za element (99,99 euro przy 572 elementach) — to wskaźnik wysoki, typowy raczej dla modeli ekspozycyjnych niż dla mechanicznych zestawów Technic tej wielkości. Dla zbierających tematy kosmiczne to pozycja do pary z większymi modelami astronomicznymi, a nie samodzielne wyzwanie konstrukcyjne.",
+  "oferty": []
  }
 }

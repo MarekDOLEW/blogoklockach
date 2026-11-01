@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-01 05:11 · SCOUT · Do zrobienia
+
+**StoneWars pokazuje zrzut koszyka z 1 listopada, 1:13: do 11388 Wenecka okolica w niemieckim sklepie LEGO wpadają DWA pełne gratisy naraz — jeden to 40898 Wenecka taksówka wodna (okno 1–8.11), drugiego serwis nie nazywa, a u nas w kalendarzu równolegle trwa okno 40889 Buduj, maluj i baw się! od 540 zł (28.10–8.11).**
+**Mamy?** — częściowo: hub `/zestaw/40898/`, tekst `/artykuly/lego-11388-wenecka-okolica-premiera/` i okno 40889 w `/kalendarz-promocji-lego/` są, ale nigdzie nie stoi, że przy zakupie 11388 w tym tygodniu można mieć oba gratisy.
+**Zrobić:** — wrzucić 11388 do koszyka na lego.com/pl-pl i sprawdzić, czy doliczają się jednocześnie 40898 i 40889 (2149,99 zł jest ponad progiem 540 zł); jeśli tak, wraca do mnie i do tekstu jako konkret na okno do 8 listopada, jeśli nie — trzeba wiedzieć, który gratis wypada.
+**Kto:** — Cowork (przeglądarka)
+
+
 
 ## 2026-10-31 08:05 · RADAR · Do zrobienia
 
