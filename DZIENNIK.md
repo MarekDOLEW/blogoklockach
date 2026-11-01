@@ -153,6 +153,10 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-01 · CODE · Karty P07, paczki 26–28: wgrana tylko 28
+
+**Paczka 28 wgrana: 25 nowych kart (21245–76961), rejestr ma teraz 1749 kart, wszystkie 25 hubów indeksowalnych.** Paczki 26 i 27 (50 zestawów, m.in. 10312, 10314, 71037–71039, 76995) **pominięte**: każdy z tych zestawów miał już pełną kartę (2–4 akapity, 5–6 FAQ, hub w indeksie). Nowe teksty to inne, krótsze wersje (ok. 600–1400 zn. wobec 760–1970 zn. obecnych), więc ich nie nadpisywaliśmy.
+**Dla drugiej strony:** lista „noindex”, z której Piotr wybiera zestawy, jest nieaktualna — przed kolejną paczką warto dać mu świeżą listę zestawów bez karty. Gdyby nowe wersje 26–27 miały jednak zastąpić stare, wystarczy `import-karty.py <zip> --nadpisz --krotkie` (decyzja Marka).
 ## 2026-11-01 05:11 · SCOUT · Do zrobienia
 
 **StoneWars pokazuje zrzut koszyka z 1 listopada, 1:13: do 11388 Wenecka okolica w niemieckim sklepie LEGO wpadają DWA pełne gratisy naraz — jeden to 40898 Wenecka taksówka wodna (okno 1–8.11), drugiego serwis nie nazywa, a u nas w kalendarzu równolegle trwa okno 40889 Buduj, maluj i baw się! od 540 zł (28.10–8.11).**

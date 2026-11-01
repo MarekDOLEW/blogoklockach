@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-10-27",
+  "zaktualizowano": "2026-11-01",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -85032,6 +85032,1187 @@
    {
     "q": "Jakie są podobne zestawy LEGO Icons?",
     "a": "Obserwatorium wyszło w limitowanym programie dla projektów fanów; najbliżej mu do dużych budynków ekspozycyjnych z kategorii Icons: <a href=\"/serie/bricklink-designer-program/\">zobacz wszystkie zestawy LEGO BrickLink Designer Program</a>."
+   }
+  ]
+ },
+ "21245": {
+  "seria": "Minecraft",
+  "nazwa": "Rezerwat pandy",
+  "elementy": 553,
+  "akapity": [
+   "Największą atrakcją LEGO Minecraft 21245 Rezerwat pandy jest to, że sam dom wygląda jak zwierzę. Trzypiętrowa budowla w kształcie pandy z 2023 roku ma 22 cm wysokości, 11 cm szerokości i 10 cm głębokości, a 553 elementy zamieniają ją w ruchomą konstrukcję z głową na zawiasach.",
+   "Panda może stać na dwóch lub czterech łapach albo siedzieć, a wnętrze pokoi można dopasować do wybranej pozycji. Dostęp do umeblowanych pomieszczeń daje otwierany tył.",
+   "Przed domem rośnie bambusowa dżungla, w której dzieci od 8 lat karmią pandy ciastem. Scena ma też element zagrożenia: obok badacza dżungli, pandy i małej pandy jest wrogi szkielet, z którym można walczyć. Zestaw łączy się z innymi z serii LEGO Minecraft.",
+   "Gdyby stanął obok 27 zestawów LEGO Minecraft z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,39 zł, przy typowych dla serii 0,38 zł."
+  ],
+  "metryka": {
+   "Numer": "21245",
+   "Nazwa": "Rezerwat pandy",
+   "Seria": "Minecraft",
+   "Premiera": "2023",
+   "Liczba elementów": "553",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "badacz dżungli, panda, mała panda i szkielet",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft, można łączyć z innymi zestawami serii",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21245?",
+    "a": "Rezerwat pandy był wyceniony na 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakich pozycjach może stać panda?",
+    "a": "Na dwóch łapach, na czterech lub w pozycji siedzącej."
+   },
+   {
+    "q": "Jak dostać się do wnętrza?",
+    "a": "Trzeba otworzyć tył domu."
+   },
+   {
+    "q": "Jakie figurki są w Rezerwacie pandy?",
+    "a": "Panda, mała panda, badacz dżungli i wrogi szkielet."
+   },
+   {
+    "q": "Czy LEGO 21245 łączy się z innymi zestawami?",
+    "a": "Tak, LEGO podaje, że dom łączy się z innymi zestawami serii Minecraft."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Do pomysłu domu w kształcie zwierzęcia nawiązuje 21249 Kreatywny warsztat 4.0 z kocim domkiem. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "21246": {
+  "seria": "Minecraft",
+  "nazwa": "Bitwa w mrocznej głębi",
+  "elementy": 584,
+  "akapity": [
+   "Wyprawa po surowce kończy się tu wybuchem. LEGO Minecraft 21246 Bitwa w mrocznej głębi przenosi graczy do biomu znanego z gry. Zestaw z 2023 roku ma 584 elementy i prowadzi graczy od 8 lat przez trzy znane z gry czynności: odkrywanie, kopanie i wysadzanie.",
+   "Bohaterowie, czyli elficki kusznik i krasnoludzki rycerz z Netheru, w zbrojach i z bronią docierają do starożytnego miasta, by wydobywać cenne surowce. Przekręcenie gałki budzi strażnika, który wyłania się spod płyty łupka. Ten duży przeciwnik z klocków ma 9 cm wysokości. Kiedy dochodzi do walki, przesunięcie przełącznika wywołuje eksplozję i wysadza wieżę.",
+   "Wśród ruin ukryto skrzynię ze skarbami, a w niej kość, eliksir leczniczy i dwie śnieżki. Po eksplozji pozostaje próba ucieczki w bezpieczne miejsce.",
+   "Gdyby stanął obok 27 zestawów LEGO Minecraft z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,48 zł, przy typowych dla serii 0,38 zł."
+  ],
+  "metryka": {
+   "Numer": "21246",
+   "Nazwa": "Bitwa w mrocznej głębi",
+   "Seria": "Minecraft",
+   "Premiera": "2023",
+   "Liczba elementów": "584",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "kusznik, rycerz Netheru i strażnik do zbudowania",
+   "Cena katalogowa w Polsce": "279,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21246?",
+    "a": "Zestaw kosztował 279,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak obudzić strażnika w zestawie 21246?",
+    "a": "Trzeba przekręcić gałkę, a wtedy figurka wyłania się spod płyty łupka."
+   },
+   {
+    "q": "Co wywołuje eksplozję?",
+    "a": "Przełącznik, który wysadza wieżę."
+   },
+   {
+    "q": "Co znajduje się w skrzyni ze skarbami?",
+    "a": "Kość, eliksir leczniczy i dwie śnieżki."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Podobną walkę z dużym mobem i zmieniającą się scenę mają inne zestawy Minecraft. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "21249": {
+  "seria": "Minecraft",
+  "nazwa": "Kreatywny warsztat 4.0",
+  "elementy": 605,
+  "akapity": [
+   "Bitwa o fortecę albo kocia osada: LEGO Minecraft 21249 Kreatywny warsztat 4.0 z 2023 roku to zestaw 2 w 1, który z 605 elementów daje dwa duże scenariusze dla graczy od 8 lat: twierdzę nad rzeką i koci domek.",
+   "Twierdza składa się z wież, które trzeba bronić przed atakiem zombie i Creepera, a jej wymiary to 21 cm wysokości, 36 cm szerokości i 21 cm głębokości. Druga wersja to duży dom w kształcie kota z kocim placem zabaw na zewnątrz, mierzący 13 cm wysokości, 37 cm szerokości i 20 cm głębokości. Wśród funkcji jest wybuchający dynamit.",
+   "Na tym zabawa się nie kończy, bo LEGO dołącza instrukcje sugerowanych modeli, a pozostałe konstrukcje można wymyślać samemu. Postacie i moby to Steve, Alex, zombie, Creeper, koty i owce.",
+   "Gdyby stanął obok 27 zestawów LEGO Minecraft z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,55 zł, przy typowych dla serii 0,38 zł."
+  ],
+  "metryka": {
+   "Numer": "21249",
+   "Nazwa": "Kreatywny warsztat 4.0",
+   "Seria": "Minecraft",
+   "Premiera": "2023",
+   "Liczba elementów": "605",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "Steve, Alex, zombie, Creeper, koty i owce",
+   "Cena katalogowa w Polsce": "329,99 zł",
+   "Cena katalogowa za element": "0,55 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft, zestaw 2 w 1",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21249?",
+    "a": "Kreatywny warsztat 4.0 miał polską cenę 329,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie modele można zbudować z zestawu 21249?",
+    "a": "Twierdzę z wieżami nad rzeką albo koci domek z placem zabaw, a także sugerowane modele z instrukcji."
+   },
+   {
+    "q": "Które moby są w zestawie 21249?",
+    "a": "Zombie, Creeper, koty i owce, a po stronie graczy stoją Steve i Alex."
+   },
+   {
+    "q": "Ile kosztuje jeden element Kreatywnego warsztatu 4.0?",
+    "a": "Liczony z ceny katalogowej przelicznik to 0,55 zł. Ma charakter pomocniczy, a zestaw warto oceniać raczej po liczbie możliwych budowli."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Przy podobnej skali warto zajrzeć do zestawów z walką z mobami, takich jak 21246 Bitwa w mrocznej głębi. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "21340": {
+  "seria": "Ideas",
+  "nazwa": "Opowieści z czasów wyścigu kosmicznego",
+  "elementy": 688,
+  "akapity": [
+   "Cztery pocztówki 3D zamiast jednego dużego modelu to pomysł na LEGO Ideas 21340 Opowieści z czasów wyścigu kosmicznego. Projekt zgłosił fan Jan Woźnica, a zestaw trafił do oferty w 2023 roku jako model dla dorosłych z 688 elementami. Inspiracją były mity, filmy, książki i plakaty science fiction z lat osiemdziesiątych XX wieku.",
+   "Każda pocztówka to minimalistyczna scena: obserwatorium do oglądania komet i spadających gwiazd, baza księżycowa z zaćmieniem Księżyca, prom kosmiczny oraz czarna dziura. Na różowo-fioletowej pocztówce gwiazdy można ułożyć w jeden z czterech gwiazdozbiorów: Wielką Niedźwiedzicę, Cefeusza, Małą Niedźwiedzicę lub Kasjopeję.",
+   "Pojedyncza pocztówka ma 14 cm wysokości, 9 cm szerokości i 3 cm głębokości. Pocztówki stawia się na płaskiej powierzchni albo wiesza na ścianie za pomocą wieszaków z tyłu, a łączyć można w dowolnej kolejności, także w jedną ozdobę. Do każdej dołączono osobną instrukcję, dlatego budować może kilka osób jednocześnie. W pudełku jest też broszura przedstawiająca autora projektu i projektantów LEGO.",
+   "Gdyby stanął obok 11 zestawów LEGO Ideas z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,31 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Numer": "21340",
+   "Nazwa": "Opowieści z czasów wyścigu kosmicznego",
+   "Seria": "Ideas",
+   "Premiera": "2023",
+   "Liczba elementów": "688",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Ideas, projekt fana wybrany głosami społeczności",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21340?",
+    "a": "Na polskiej karcie LEGO cena wynosiła 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy pocztówki można powiesić na ścianie?",
+    "a": "Tak. Każda ma z tyłu wieszak, ale równie dobrze stoi na płaskiej powierzchni."
+   },
+   {
+    "q": "Kto zaprojektował zestaw 21340?",
+    "a": "Pomysł pochodzi od fana Jana Woźnicy, a model trafił do LEGO Ideas dzięki głosom społeczności."
+   },
+   {
+    "q": "Czy zestaw nadaje się do wspólnego budowania?",
+    "a": "Tak, bo każda z czterech pocztówek ma własną instrukcję."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ideas?",
+    "a": "Najbliżej są projekty fanów przeznaczone do powieszenia lub ustawienia jako ozdoba. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>"
+   }
+  ]
+ },
+ "31138": {
+  "seria": "Creator",
+  "nazwa": "Kamper na plaży",
+  "elementy": 556,
+  "akapity": [
+   "Plaża daje tu pretekst do trzech różnych budowli. LEGO Creator 3 w 1 31138 Kamper na plaży z 2023 roku pozwala złożyć z 556 elementów kampera, dwupiętrowy domek na plaży albo lodziarnię z okienkiem do serwowania.",
+   "Kamper ma w środku kuchnię i sypialnię, zdejmowany dach, otwierany bok, kierownicę, przednie siedzenie oraz obracające się koła. Towarzyszą mu dwie chatki plażowe, palma, deski surfingowe z klocków, boombox, leżaki i albatros. Sam kamper ma 10 cm wysokości.",
+   "Po przebudowie powstaje letni domek z małym drzewem, leżakiem i kaczką albo lodziarnia z tarasem na piętrze, stolikami i łazikiem plażowym, do której dochodzą lody. Dwie minifigurki przechodzą przez wszystkie wersje, zamieniając podróż kamperem na odpoczynek w domku albo wizytę w lodziarni. Pudełko oznaczone 8+ pozwala zbudować jednorazowo jedną z tych trzech wersji. LEGO dodaje do nich ruchome zwierzęta, a model pojawił się również w grze LEGO 2K Drive.",
+   "Gdyby stanął obok 29 zestawów LEGO Creator z 2026 roku, byłby 6. co do wielkości. Za element płaci się tu katalogowo 0,39 zł, przy typowych dla serii 0,35 zł."
+  ],
+  "metryka": {
+   "Numer": "31138",
+   "Nazwa": "Kamper na plaży",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2023",
+   "Liczba elementów": "556",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "zestaw 3 w 1 z serii LEGO Creator",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31138?",
+    "a": "W Polsce trzeba było zapłacić 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie modele można zbudować z zestawu 31138?",
+    "a": "Kampera, dwupiętrowy domek na plaży lub lodziarnię."
+   },
+   {
+    "q": "Co znajduje się w kamperze?",
+    "a": "Kuchnia i sypialnia, a dostęp do nich dają zdejmowany dach i otwierany bok."
+   },
+   {
+    "q": "Czy lodziarnia ma pojazd?",
+    "a": "Tak, w komplecie z tą wersją jest łazik plażowy."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator 3 w 1?",
+    "a": "Pojazd i budynek w trzech wersjach do wyboru mają też inne modele tej serii. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40613": {
+  "seria": "Disney",
+  "nazwa": "Mały pałac Disneya w Agrabah",
+  "elementy": 506,
+  "akapity": [
+   "Pałac z „Aladyna” trafił w 2023 roku do oferty jako kolekcjonerski minimodel. LEGO Disney 40613 Mały pałac Disneya w Agrabah to ekskluzywny zestaw z 506 elementów, oznaczony od 12 lat.",
+   "Główną część stanowi majestatyczna budowla z białymi wieżyczkami i złotymi kopułami. Uzupełniają ją dwa rekwizyty z historii Aladyna: latający dywan do zbudowania i lampa. Całość ma 15 cm wysokości, 14 cm szerokości i 16 cm głębokości.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 12. co do wielkości. Za element płaci się tu katalogowo 0,35 zł, przy typowych dla serii 0,48 zł."
+  ],
+  "metryka": {
+   "Numer": "40613",
+   "Nazwa": "Mały pałac Disneya w Agrabah",
+   "Seria": "Disney",
+   "Premiera": "2023",
+   "Liczba elementów": "506",
+   "Wiek": "12+",
+   "Cena katalogowa w Polsce": "174,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Disney, kolekcjonerski minimodel",
+   "Dystrybucja": "zestaw ekskluzywny, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40613?",
+    "a": "W sklepie LEGO kosztował 174,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie rekwizyty z „Aladyna” są w zestawie?",
+    "a": "Latający dywan do zbudowania i lampa."
+   },
+   {
+    "q": "Jak duży jest Mały pałac Disneya?",
+    "a": "Ma 15 cm wysokości, 14 cm szerokości i 16 cm głębokości."
+   },
+   {
+    "q": "Czy to zestaw ekskluzywny?",
+    "a": "Tak, tak oznaczało go LEGO na swojej stronie."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Do tego minimodelu pasują inne modele budowli z bajek Disneya. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "40622": {
+  "seria": "BrickHeadz",
+  "nazwa": "Disney – 100. urodziny",
+  "elementy": 501,
+  "akapity": [
+   "Na stulecie Disneya LEGO wybrało do BrickHeadz postacie związane z historią studia. Ekskluzywny zestaw 40622 Disney – 100. urodziny z 2023 roku składa się z czterech figurek, a każda z nich jest w historii studia czymś pierwszym.",
+   "Królik Oswald to pierwsza postać Disneya, Myszka Miki pierwsza postać animowana, Królewna Śnieżka gwiazda pierwszego filmu fabularnego studia, a Dzwoneczek pierwsza maskotka w Disneylandzie. Królewna ma ozdobny tułów, a każda z postaci stoi na osobnej podstawce. Figurki mierzą po 9 cm wysokości, a cały zestaw ma 501 elementów. Oznaczenie wieku to 10+.",
+   "Gdyby stanął obok 15 zestawów LEGO BrickHeadz z 2026 roku, byłby 6. co do wielkości. Za element płaci się tu katalogowo 0,36 zł, przy typowych dla serii 0,36 zł."
+  ],
+  "metryka": {
+   "Numer": "40622",
+   "Nazwa": "Disney – 100. urodziny",
+   "Seria": "BrickHeadz",
+   "Premiera": "2023",
+   "Liczba elementów": "501",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "4 figurki BrickHeadz (Królik Oswald, Myszka Miki, Królewna Śnieżka, Dzwoneczek)",
+   "Cena katalogowa w Polsce": "179,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO BrickHeadz, zestaw na 100. rocznicę Disneya",
+   "Dystrybucja": "zestaw ekskluzywny, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40622?",
+    "a": "Zestaw miał w Polsce cenę 179,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co łączy te cztery postacie?",
+    "a": "Każda jest związana z czymś pierwszym w historii Disneya."
+   },
+   {
+    "q": "Jak wysokie są figurki?",
+    "a": "Każda z czterech ma 9 cm."
+   },
+   {
+    "q": "Czy figurki mają podstawki?",
+    "a": "Tak, każda stoi na własnej podstawce."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO BrickHeadz?",
+    "a": "Najbliżej tego kompletu są zestawy BrickHeadz z postaciami Disneya. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>"
+   }
+  ]
+ },
+ "41727": {
+  "seria": "Friends",
+  "nazwa": "Centrum ratunkowe dla psów",
+  "elementy": 617,
+  "akapity": [
+   "Trzy psy czekające na adopcję to główni bohaterowie LEGO Friends 41727 Centrum ratunkowe dla psów z 2023 roku. Pickle, Dash i Grace trafiają pod opiekę miłośniczki zwierząt Autumn, która zaprasza do centrum przyjaciela Zaca. Trzecią minilaleczką jest dr Gabriela Silva.",
+   "Zabawa toczy się wokół codziennej opieki: psy trzeba wykąpać, uczesać i nakarmić. Służą do tego stanowisko pielęgnacji i gabinet zabiegowy, a akcesoria obejmują między innymi wagę, lekarstwa, lupę, szczotkę, posłanie, jedzenie i wodę. Na ruch jest przeznaczona strefa ćwiczeń z torem przeszkód i zjeżdżalnią.",
+   "Największym wyróżnikiem zestawu jest modułowa konstrukcja. Budy, recepcję i pozostałe części da się przestawiać, więc dziecko może samo ułożyć plan własnego centrum. Model z 617 elementów ma 18 cm wysokości, 26 cm szerokości i 20 cm głębokości, a oznaczenie wieku to 7+.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "41727",
+   "Nazwa": "Centrum ratunkowe dla psów",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "617",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "3 minilaleczki (Autumn, Zac, dr Gabriela Silva) i 3 psy (Pickle, Dash, Grace)",
+   "Cena katalogowa w Polsce": "249,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, miasto Heartlake nowej generacji",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 41727?",
+    "a": "Centrum ratunkowe dla psów kosztowało w Polsce 249,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie psy są w zestawie 41727?",
+    "a": "Pickle, Dash i Grace."
+   },
+   {
+    "q": "Czy układ centrum można zmieniać?",
+    "a": "Tak. Modułowa konstrukcja pozwala przebudować recepcję i budy."
+   },
+   {
+    "q": "Co dzieci robią z psami podczas zabawy?",
+    "a": "Myją je, czeszą, karmią i wypuszczają na tor przeszkód ze zjeżdżalnią."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Warto sprawdzić zestawy Friends ze zwierzętami, na przykład 41745 Stajnia Autumn z tą samą bohaterką. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41745": {
+  "seria": "Friends",
+  "nazwa": "Stajnia Autumn",
+  "elementy": 545,
+  "akapity": [
+   "Autumn i Aliya różnią się charakterami, ale łączy je przyjaźń i konie. Zestaw LEGO Friends 41745 Stajnia Autumn z 2023 roku daje im stajnię z dwoma zwierzętami, a dzieciom od 7 lat zadania związane z opieką nad nimi.",
+   "Akcesoria są tu mocno praktyczne: widły, szufla, szczotka, wiaderko i młotek do sprawdzania podków. Po pielęgnacji konie można zaprząc do bryczki z miejscem na dwie minilaleczki, a na przeszkodzie poćwiczyć skoki. Nad stajnią urządzono kuchnię i sypialnię z łóżkami z siana.",
+   "Budynek z 545 elementów ma 19 cm wysokości, 28 cm szerokości i 14 cm głębokości. To część miasta Heartlake nowej generacji, która w styczniu 2023 roku wprowadziła do serii nowe postacie i lokalizacje. Autumn występuje też w zestawie 41727 Centrum ratunkowe dla psów.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,50 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "41745",
+   "Nazwa": "Stajnia Autumn",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "545",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minilaleczki (Autumn, Aliya) i 2 konie",
+   "Cena katalogowa w Polsce": "269,99 zł",
+   "Cena katalogowa za element": "0,50 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, miasto Heartlake nowej generacji",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 41745?",
+    "a": "Na liście LEGO w Polsce stajnia miała cenę 269,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kto opiekuje się końmi w Stajni Autumn?",
+    "a": "Autumn i Aliya, które razem zajmują się dwoma zwierzętami."
+   },
+   {
+    "q": "Jakie akcesoria są w zestawie 41745?",
+    "a": "Widły, szufla, szczotka, wiaderko i młotek do sprawdzania podków."
+   },
+   {
+    "q": "Czy konie można zaprząc do pojazdu?",
+    "a": "Tak, zestaw zawiera bryczkę na dwie minilaleczki."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Blisko są zestawy z opieką nad zwierzętami, także 41727 Centrum ratunkowe dla psów. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41747": {
+  "seria": "Friends",
+  "nazwa": "Jadłodajnia w Heartlake",
+  "elementy": 695,
+  "akapity": [
+   "Lokal z dobrym jedzeniem jest tu tłem dla opowieści o rodzinie. LEGO Friends 41747 Jadłodajnia w Heartlake przedstawia relacje między Leo, jego siostrą Albą i ich babcią Abuelitą, która prowadzi lokal. Leo uwielbia uczyć się nowych technik gotowania, a zestaw z 2023 roku daje dzieciom od 8 lat dużo składników i sprzętu, by mogły robić to razem z nim.",
+   "W kuchni stoją spiżarnia, lodówka, zlewozmywak oraz kuchenka z patelniami i prasą do tortilli. Na zewnątrz przygotowano miejsca do siedzenia, a na dachu taras, na którym rodzeństwo odpoczywa po pracy. Do lokalu zagląda klientka o imieniu Matylda, a do zestawu należy też kot Churro.",
+   "Model z 695 elementów ma 22 cm wysokości, 22 cm szerokości i 17 cm głębokości. Można go połączyć ze sprzedawanym osobno zestawem 41748 Dom kultury w Heartlake, co rozwija wątek lokalnej społeczności. To jedno z miejsc miasta Heartlake nowej generacji, które LEGO wprowadziło w 2023 roku razem z nowymi postaciami.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 8. co do wielkości. Za element płaci się tu katalogowo 0,43 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "41747",
+   "Nazwa": "Jadłodajnia w Heartlake",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "695",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "4 minilaleczki (Leo, Alba, Abuelita, Matylda) i kot Churro",
+   "Cena katalogowa w Polsce": "299,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, miasto Heartlake nowej generacji",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 41747?",
+    "a": "Zestaw kosztował w Polsce 299,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakim zestawem łączy się Jadłodajnia w Heartlake?",
+    "a": "Z zestawem 41748 Dom kultury w Heartlake, który sprzedawano osobno."
+   },
+   {
+    "q": "Kto prowadzi jadłodajnię?",
+    "a": "Babcia Leo i Alby, a Leo pomaga jej w kuchni i uczy się gotować."
+   },
+   {
+    "q": "Co można przygotować w kuchni?",
+    "a": "Do dyspozycji są różne składniki, patelnie i prasa do tortilli, więc menu zależy od pomysłu dziecka."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Temat codziennego życia w mieście rozwijają inne budynki Heartlake, zwłaszcza Dom kultury w Heartlake. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41760": {
+  "seria": "Friends",
+  "nazwa": "Przygoda w igloo",
+  "elementy": 491,
+  "akapity": [
+   "Zamiast miasta LEGO Friends 41760 Przygoda w igloo wysyła bohaterki w góry. W zestawie z 2023 roku Paisley, jej młodsza siostra Ella i przyjaciółka Aliya odpoczywają w zimowej scenerii, a dzieci od 8 lat budują z 491 elementów igloo i otoczenie.",
+   "Kopuła otwiera się, odsłaniając przytulne wnętrze z częścią wypoczynkową. Zestaw obejmuje też lampki choinkowe, palenisko i gorący basen, a Paisley może pędzić do igloo na saniach. Ella bawi się z dwoma psami zaprzęgowymi. Drobniejsze wyposażenie to aparat, rakiety śnieżne, miska z ciasteczkami, lampa lawowa i dwie filiżanki z kakao. Samo igloo ma 10 cm wysokości, 14 cm szerokości i 13 cm głębokości."
+  ],
+  "metryka": {
+   "Numer": "41760",
+   "Nazwa": "Przygoda w igloo",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "491",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "3 minilaleczki (Paisley, Ella, Aliya) i 2 psy zaprzęgowe",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, miasto Heartlake nowej generacji",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 41760?",
+    "a": "Przygoda w igloo była wyceniona na 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy igloo otwiera się do zabawy?",
+    "a": "Tak, kopuła otwiera się i odsłania wnętrze."
+   },
+   {
+    "q": "Kto występuje w zestawie 41760?",
+    "a": "Paisley, Ella i Aliya, a także dwa psy zaprzęgowe."
+   },
+   {
+    "q": "Co poza igloo jest w zestawie?",
+    "a": "Palenisko, lampki choinkowe i gorący basen."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Warto szukać zestawów Friends z wyprawą w plener zamiast budynku w mieście. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "43226": {
+  "seria": "Disney",
+  "nazwa": "Duety Disneya",
+  "elementy": 553,
+  "akapity": [
+   "Disnejowscy pomocnicy mają tu pierwszy plan. W zestawie LEGO 43226 Duety Disneya z 2023 roku zamiast księżniczek i bohaterów pojawia się osiem budowanych postaci, zebranych w cztery pary z czterech filmów.",
+   "Lumiere i Trybik pochodzą z „Pięknej i Bestii”, Pua i Hei Hei z „Vaiany”, Nemo i Junior, koledzy ze szkolnej ławy, z „Gdzie jest Nemo?”, a rozrabiacy Meeko i Percy z „Pocahontas”. Każda figurka jest ruchoma, więc pary można ustawiać w różnych pozach. Do każdego duetu dołączono podstawkę z elementem dekoracyjnym nawiązującym do 100. rocznicy Disneya.",
+   "Najwyższe są Lumiere i Trybik, mierzące odpowiednio 8 cm i 7 cm. Całość to 553 elementy, a oznaczenie wieku wynosi 6+. LEGO opisuje zestaw także jako ozdobę dla fanów filmów. Pary można zbierać i ustawiać razem albo osobno.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,36 zł, przy typowych dla serii 0,48 zł."
+  ],
+  "metryka": {
+   "Numer": "43226",
+   "Nazwa": "Duety Disneya",
+   "Seria": "Disney",
+   "Premiera": "2023",
+   "Liczba elementów": "553",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "8 postaci do zbudowania (Lumiere, Trybik, Pua, Hei Hei, Nemo, Junior, Meeko, Percy)",
+   "Cena katalogowa w Polsce": "199,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Disney, zestaw na 100. rocznicę Disneya",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 43226?",
+    "a": "Polska cena wynosiła 199,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie postacie są w zestawie 43226?",
+    "a": "Lumiere, Trybik, Pua, Hei Hei, Nemo, Junior, Meeko i Percy."
+   },
+   {
+    "q": "Z jakich filmów pochodzą Duety Disneya?",
+    "a": "Z „Pięknej i Bestii”, „Vaiany”, „Gdzie jest Nemo?” i „Pocahontas”."
+   },
+   {
+    "q": "Czy figurki są ruchome?",
+    "a": "Tak, każdą postać można ustawiać."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Motyw 100. rocznicy Disneya mają też inne zestawy z 2023 roku. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "60371": {
+  "seria": "City",
+  "nazwa": "Parking dla pojazdów uprzywilejowanych",
+  "elementy": 706,
+  "akapity": [
+   "Dzieci od 6 lat wcielają się w członków ekip policyjnych, strażackich i ratunkowych, a wspólną bazą tych służb jest LEGO City 60371 Parking dla pojazdów uprzywilejowanych. Dwupoziomowa siedziba służb z 2023 roku mieści recepcję i centrum dowodzenia, a w komplecie są pojazdy wszystkich trzech ekip: helikopter do gaszenia pożarów z powietrza, policyjny SUV do pościgów i karetka.",
+   "Służby mają też kogo ścigać, bo w pudełku jest motocykl złodziejaszka oraz więzienie, a za odgrywanie ról odpowiada pięć minifigurek. Do pojazdów można przyczepiać różne przedmioty, w tym sikawkę, szperacz i aparat. Drobniejsze akcesoria to banknot, sprzęt medyczny i dwa jabłka.",
+   "Z 706 elementów powstaje budynek o wymiarach 21 cm wysokości, 23 cm szerokości i 19 cm głębokości.",
+   "Gdyby stanął obok 46 zestawów LEGO City z 2026 roku, byłby 8. co do wielkości. Za element płaci się tu katalogowo 0,42 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "60371",
+   "Nazwa": "Parking dla pojazdów uprzywilejowanych",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "706",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "5 minifigurek",
+   "Cena katalogowa w Polsce": "299,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60371?",
+    "a": "Ostatnia polska cena katalogowa to 299,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie pojazdy są w zestawie 60371?",
+    "a": "Helikopter strażacki, policyjny SUV, karetka i motocykl złodziejaszka."
+   },
+   {
+    "q": "Co znajduje się w budynku służb?",
+    "a": "Na dwóch poziomach LEGO zmieściło recepcję i centrum dowodzenia, a w komplecie jest też więzienie."
+   },
+   {
+    "q": "Czy wyposażenie pojazdów można zmieniać?",
+    "a": "Tak. Do pojazdów przyczepia się między innymi sikawkę, szperacz i aparat."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Warto sprawdzić zestawy City z posterunkiem, remizą albo karetką, jeśli liczy się jedna konkretna służba. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "60389": {
+  "seria": "City",
+  "nazwa": "Warsztat tuningowania samochodów",
+  "elementy": 507,
+  "akapity": [
+   "Tuning to w LEGO City 60389 Warsztat tuningowania samochodów nie dekoracja, ale główna funkcja. Dwa auta z tego zestawu z 2023 roku można szybko przerabiać, wybierając silniki oraz przednie i tylne moduły z różnymi światłami, zderzakami i spojlerami.",
+   "Sercem warsztatu jest ścianka konfiguracyjna, na której dzieci przygotowują własne projekty. Rampy i podnośnik pozwalają szybko wymienić silnik, a w wyposażeniu znalazł się sprzęt do spawania, malowania i napraw, w tym zabawkowa spawarka z przyłbicą i zestaw narzędzi.",
+   "Za obsługę odpowiadają dwie minifigurki mechaników, a za jazdę dwie minifigurki kierowców. Zestaw należy do linii LEGO City Superpojazdy, można go łączyć z innymi zestawami City, a warsztat pojawił się też w grze LEGO 2K Drive. Pudełko z 507 elementami oznaczono od 6 lat, a złożony model ma 9 cm wysokości, 32 cm długości i 12 cm szerokości.",
+   "Gdyby stanął obok 46 zestawów LEGO City z 2026 roku, byłby 14. co do wielkości. Za element płaci się tu katalogowo 0,42 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "60389",
+   "Nazwa": "Warsztat tuningowania samochodów",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "507",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "4 minifigurki (2 mechaników, 2 kierowców)",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City, można łączyć z innymi zestawami serii",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60389?",
+    "a": "Zestaw był sprzedawany za 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co można zmieniać w samochodach?",
+    "a": "Silniki oraz przednie i tylne moduły ze światłami, zderzakami i spojlerami."
+   },
+   {
+    "q": "Do czego służy ścianka konfiguracyjna?",
+    "a": "Dzieci tworzą na niej własne projekty aut."
+   },
+   {
+    "q": "Kto pracuje w warsztacie?",
+    "a": "Dwie minifigurki mechaników, a autami przyjeżdżają dwie minifigurki kierowców."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Inne warsztaty i zestawy z pojazdami z linii Superpojazdy znajdziesz w kategorii City. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "75351": {
+  "seria": "Star Wars",
+  "nazwa": "Hełm księżniczki Lei (Boushh)",
+  "elementy": 670,
+  "akapity": [
+   "W „Gwiezdnych Wojnach: Powrocie Jedi” księżniczka Leia przebiera się za łowcę nagród Boushha, by niepostrzeżenie wejść do pałacu Jabby Hutta. Właśnie ten element przebrania odwzorowuje LEGO Star Wars 75351 Hełm księżniczki Lei (Boushh).",
+   "Model wydano w 2023 roku, na 40. rocznicę premiery filmu. Składa się z 670 elementów i ma oznaczenie 18+. Replika ma 17 cm wysokości, 11 cm szerokości i 14 cm głębokości, a do kompletu należy podstawka z tabliczką z napisem.",
+   "Producent zapowiadał detale zaprojektowane tak, by dobrze wyglądały z bliska i z daleka. Zestaw należy do serii kolekcjonerskich hełmów dla dorosłych, przeznaczonych do zbudowania i ustawienia na półce.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,46 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Numer": "75351",
+   "Nazwa": "Hełm księżniczki Lei (Boushh)",
+   "Seria": "Star Wars",
+   "Premiera": "2023",
+   "Liczba elementów": "670",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "309,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "seria kolekcjonerskich hełmów LEGO Star Wars",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75351?",
+    "a": "Hełm wyceniono w Polsce na 309,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakiego filmu pochodzi hełm Boushha?",
+    "a": "Z „Gwiezdnych Wojen: Powrotu Jedi”, gdzie Leia używa go jako przebrania."
+   },
+   {
+    "q": "Z jakiej okazji powstał zestaw 75351?",
+    "a": "Z okazji 40. rocznicy premiery tego filmu."
+   },
+   {
+    "q": "Czy hełm ma własną podstawkę?",
+    "a": "Tak. W zestawie jest podstawka do zbudowania z tabliczką z napisem."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Star Wars w podobnej cenie?",
+    "a": "W tej samej cenie 309,99 zł sprzedawano 75350 Hełm dowódcy klonów Cody'ego, który miał więcej elementów: 766 wobec 670. Wybór sprowadza się więc głównie do postaci. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "75361": {
+  "seria": "Star Wars",
+  "nazwa": "Pajęczy czołg",
+  "elementy": 526,
+  "akapity": [
+   "Trzeci sezon serialu „Gwiezdne Wojny: Mandalorianin” dostarczył bohaterom przeciwnika na mechanicznych nogach. LEGO Star Wars 75361 Pajęczy czołg z 2023 roku to kroczący mech z 526 elementów, a jego model mierzy 9 cm wysokości, 20 cm długości i 17 cm szerokości.",
+   "Maszyna ma elastyczne nogi, chwytające pazury, którymi można złapać minifigurkę, oraz otwierany kokpit z miejscem dla jednej postaci. Podnoszony właz ma dwa miotacze klocków, więc czołg rzeczywiście strzela do przeciwników.",
+   "Po stronie bohaterów stają Mandalorianin z mrocznym mieczem, pistoletem blasterowym i plecakiem odrzutowym oraz Bo-Katan Kryze z dwoma blasterami i własnym plecakiem. Trzecią postacią jest figurka Grogu, nazywanego przez fanów Baby Yodą. Zestaw przeznaczono dla dzieci od 9 lat i wpisano do obszernej serii LEGO Star Wars.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 19. co do wielkości. Za element płaci się tu katalogowo 0,45 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Numer": "75361",
+   "Nazwa": "Pajęczy czołg",
+   "Seria": "Star Wars",
+   "Premiera": "2023",
+   "Liczba elementów": "526",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "3 postacie (Mandalorianin, Bo-Katan Kryze, Grogu)",
+   "Cena katalogowa w Polsce": "234,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Star Wars, serial Gwiezdne Wojny: Mandalorianin",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75361?",
+    "a": "Polska cena katalogowa zestawu wynosiła 234,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z którego sezonu Mandalorianina pochodzi pajęczy czołg?",
+    "a": "Z trzeciego."
+   },
+   {
+    "q": "Jak działają miotacze w zestawie 75361?",
+    "a": "Są dwa, przy podnoszonym włazie, i strzelają klockami."
+   },
+   {
+    "q": "Czy w czołgu mieści się minifigurka?",
+    "a": "Tak, otwierany kokpit ma miejsce na jedną."
+   },
+   {
+    "q": "Kto walczy z pajęczym czołgiem?",
+    "a": "Mandalorianin i Bo-Katan Kryze, a towarzyszy im Grogu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Inne zestawy z serialu „Mandalorianin” znajdziesz w kategorii serii. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "76249": {
+  "seria": "Marvel",
+  "nazwa": "Groot jako Venom",
+  "elementy": 630,
+  "akapity": [
+   "Dwie zupełnie niepasujące do siebie postacie Marvela łączy LEGO 76249 Groot jako Venom. Uroczy mały Groot zostaje tu opanowany przez kosmitę Venoma, a figurka z 2023 roku pokazuje ten proces w kilku etapach, bo dzieci od 10 lat dokładają kolejne klocki do gotowego modelu.",
+   "Na początku powstaje ruchomy Groot, który tylko częściowo jest Venomem. Potem można dodać cechy charakterystyczne dla symbionta: długi język, ostre zęby, macki i duże białe oczy. Ręce, nogi, biodra i głowa są ruchome, więc figurkę można ustawiać w różnych pozach. Ma 27 cm wysokości i składa się z 630 elementów.",
+   "Pełną przemianę umożliwia dopiero połączenie modelu z zestawem 76217 Ja jestem Groot, który sprzedawano osobno.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby 8. co do wielkości. Za element płaci się tu katalogowo 0,37 zł, przy typowych dla serii 0,55 zł."
+  ],
+  "metryka": {
+   "Numer": "76249",
+   "Nazwa": "Groot jako Venom",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "630",
+   "Wiek": "10+",
+   "Cena katalogowa w Polsce": "234,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Marvel, można połączyć z zestawem 76217",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76249?",
+    "a": "Polska cena katalogowa wynosiła 234,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czym różni się 76249 od zwykłego Groota?",
+    "a": "To Groot przejmowany przez Venoma, z długim językiem, ostrymi zębami, mackami i dużymi białymi oczami."
+   },
+   {
+    "q": "Które części figurki są ruchome?",
+    "a": "Ręce, nogi, biodra i głowa."
+   },
+   {
+    "q": "Jak wysoka jest figurka Groot jako Venom?",
+    "a": "Ma 27 cm wysokości."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Marvel w podobnej cenie?",
+    "a": "Naturalnym punktem odniesienia jest 76217 Ja jestem Groot za 224,99 zł. Ma 476 elementów wobec 630 tutaj, a oba zestawy można połączyć. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76250": {
+  "seria": "Marvel",
+  "nazwa": "Szpony z adamantium Wolverine’a",
+  "elementy": 596,
+  "akapity": [
+   "Rękawica legendarnego bohatera Marvela to w tym zestawie wysoki model na podstawce: LEGO Marvel 76250 Szpony z adamantium Wolverine’a ma 37 cm wysokości, przy 14 cm szerokości i 9 cm głębokości. To kolekcjonerski model z 2023 roku, złożony z 596 elementów i oznaczony 18+.",
+   "Rękawicę ze szponami wzorowano na postaci z serialu Marvel Studios „X-Men '97”. Ma ona elementy ruchome: trzy pazury oraz palce. Stoi na solidnej podstawce z panelem z opisem.",
+   "Charakteru dodaje tabliczka, a model należy do zestawów LEGO dla dorosłych.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,55 zł, przy typowych dla serii 0,55 zł."
+  ],
+  "metryka": {
+   "Numer": "76250",
+   "Nazwa": "Szpony z adamantium Wolverine’a",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "596",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "329,99 zł",
+   "Cena katalogowa za element": "0,55 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Marvel, modele kolekcjonerskie dla dorosłych",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76250?",
+    "a": "Ostatnia cena na polskiej stronie LEGO to 329,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które elementy rękawicy się poruszają?",
+    "a": "Trzy pazury i palce."
+   },
+   {
+    "q": "Na jakim serialu oparto model 76250?",
+    "a": "Na serialu Marvel Studios „X-Men '97”."
+   },
+   {
+    "q": "Jak duży jest model Szpony z adamantium?",
+    "a": "To 37 cm wysokości, 14 cm szerokości i 9 cm głębokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Do replik dla dorosłych należy też 76251 Hełm Star-Lorda. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76251": {
+  "seria": "Marvel",
+  "nazwa": "Hełm Star-Lorda",
+  "elementy": 602,
+  "akapity": [
+   "Zestaw LEGO Marvel 76251 Hełm Star-Lorda skupia się na jednym przedmiocie: kultowym hełmie przywódcy Strażników Galaktyki. Do repliki z 2023 roku trzeba połączyć 602 elementy. Oznaczenie 18+ pasuje do zaawansowanego projektu dla dorosłych fanów filmów.",
+   "Hełm zamocowano na solidnej podstawce z tabliczką. Gotowy model ma 18 cm wysokości, 12 cm szerokości i 13 cm głębokości. LEGO zwraca uwagę na autentyczne szczegóły ikony komiksów oraz na satysfakcję z samego składania.",
+   "Hełm należy do tej samej grupy modeli Marvela dla dorosłych co 76250 Szpony z adamantium Wolverine’a.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,58 zł, przy typowych dla serii 0,55 zł."
+  ],
+  "metryka": {
+   "Numer": "76251",
+   "Nazwa": "Hełm Star-Lorda",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "602",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "349,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Marvel, modele kolekcjonerskie dla dorosłych",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76251?",
+    "a": "Katalogowo kosztował 349,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak duży jest Hełm Star-Lorda?",
+    "a": "Ma 18 cm wysokości, 12 cm szerokości i 13 cm głębokości."
+   },
+   {
+    "q": "Z jakich filmów pochodzi ten hełm?",
+    "a": "Z filmów o Strażnikach Galaktyki, w których Star-Lord dowodzi drużyną."
+   },
+   {
+    "q": "Co wchodzi w skład zestawu 76251?",
+    "a": "Hełm, solidna podstawka i tabliczka."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Marvel w podobnej cenie?",
+    "a": "76250 Szpony z adamantium Wolverine’a kosztowały 329,99 zł i miały 596 elementów, czyli prawie tyle samo co 602 tutaj. Szpony mają jednak ruchome pazury i są wyraźnie wyższe, bo mierzą 37 cm wobec 18 cm hełmu. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76413": {
+  "seria": "Harry Potter",
+  "nazwa": "Hogwart: Pokój życzeń",
+  "elementy": 587,
+  "akapity": [
+   "Pokój, który odkrywa tylko ktoś w potrzebie, ma w LEGO Harry Potter 76413 Hogwart: Pokój życzeń własny fragment zamku. Wydany w 2023 roku model z 587 elementów opiera się na scenie ucieczki z filmu „Harry Potter i Insygnia Śmierci – część 2”.",
+   "Część zamku otwiera się, ułatwiając zabawę, a w środku czekają stosy przedmiotów do zbudowania, w tym gramofon i diadem. Górny poziom zajmuje pokój Szarej Damy, który można odczepić. Ucieczkę ożywia szatańska pożoga, a tę da się łatwo przebudować w ognistego węża. Konstrukcja jest wąska i wysoka: 39 cm wysokości, 17 cm szerokości i tylko 7 cm głębokości.",
+   "Do scen z filmu służą minifigurki Harry'ego Pottera, Hermiony Granger, Draco Malfoya, Blaise'a Zabiniego i Szarej Damy. Do tego dochodzi figurka chochlika kornwalijskiego. Zestaw przeznaczony dla dzieci od 8 lat jest jednym z modułów, które łączą się w kompletny zamek Hogwart.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,38 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Numer": "76413",
+   "Nazwa": "Hogwart: Pokój życzeń",
+   "Seria": "Harry Potter",
+   "Premiera": "2023",
+   "Liczba elementów": "587",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "5 minifigurek (Harry Potter, Hermiona Granger, Draco Malfoy, Blaise Zabini, Szara Dama) oraz figurki chochlika kornwalijskiego i szatańskiej pożogi",
+   "Cena katalogowa w Polsce": "224,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, seria modułowych zestawów tworzących zamek Hogwart",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76413?",
+    "a": "Pokój życzeń miał cenę katalogową 224,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy szatańską pożogę można przebudować?",
+    "a": "Tak. Ten sam model można łatwo zmienić w ognistego węża."
+   },
+   {
+    "q": "Jakie przedmioty są w Pokoju życzeń?",
+    "a": "Stosy rzeczy do zbudowania, w tym gramofon i diadem."
+   },
+   {
+    "q": "Czy pokój Szarej Damy jest stałą częścią budynku?",
+    "a": "Nie. To odczepiany pokój na górnym poziomie."
+   },
+   {
+    "q": "Ile minifigurek ma zestaw 76413?",
+    "a": "Pięć, a do tego figurki chochlika kornwalijskiego i szatańskiej pożogi."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Przede wszystkim inne moduły zamku, na przykład 76415 Bitwa o Hogwart. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76414": {
+  "seria": "Harry Potter",
+  "nazwa": "Expecto Patronum",
+  "elementy": 754,
+  "akapity": [
+   "W filmach o Harrym Potterze patronus to obrona przed dementorami, a w zestawie LEGO 76414 Expecto Patronum z 2023 roku staje się ozdobą na półkę. Z 754 elementów buduje się jeden z dwóch modeli: jelenia Harry'ego Pottera albo wilka profesora Remusa Lupina. Obie wersje powstają z tych samych klocków, więc druga wymaga rozebrania pierwszej.",
+   "Efekt magii dają przezroczyste, jasnoniebieskie elementy. Zwierzę ma ruchome nogi, a pod nim stoi zintegrowana podstawka z dekoracjami i miejscem na minifigurkę właściciela patronusa. Jeleń ma 29 cm wysokości, 22 cm długości i 11 cm szerokości.",
+   "Do kompletu należą Harry Potter i Remus Lupin, obaj z różdżkami. Po dołączeniu do różdżki dodatkowych elementów LEGO figurka wygląda, jakby rzucała zaklęcie. Zestaw ma oznaczenie 14+.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 11. co do wielkości. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Numer": "76414",
+   "Nazwa": "Expecto Patronum",
+   "Seria": "Harry Potter",
+   "Premiera": "2023",
+   "Liczba elementów": "754",
+   "Wiek": "14+",
+   "Minifigurki / postacie": "2 minifigurki (Harry Potter, Remus Lupin)",
+   "Cena katalogowa w Polsce": "309,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Harry Potter, zestaw 2 w 1",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76414?",
+    "a": "Cena katalogowa w Polsce wynosiła 309,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy z zestawu 76414 można mieć oba patronusy naraz?",
+    "a": "Nie. Jeleń i wilk korzystają z tych samych klocków, więc jednorazowo stoi tylko jeden z nich."
+   },
+   {
+    "q": "Która minifigurka pasuje do którego patronusa?",
+    "a": "Podstawka jelenia ma miejsce dla Harry'ego Pottera, a podstawka wilka dla Remusa Lupina."
+   },
+   {
+    "q": "Ile kosztuje jeden element zestawu Expecto Patronum?",
+    "a": "Wychodzi 0,41 zł. To wskaźnik pomocniczy, bo wyróżnikiem modelu są przezroczyste elementy i dwie wersje do wyboru."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Warto szukać modeli do ustawienia na półce, bo moduły zamku Hogwart to inny typ zestawu. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76415": {
+  "seria": "Harry Potter",
+  "nazwa": "Bitwa o Hogwart",
+  "elementy": 730,
+  "akapity": [
+   "Pojedynek Harry'ego Pottera z Voldemortem na dziedzińcu zamku to kulminacja filmu „Harry Potter i Insygnia Śmierci – część 2”. Na tej scenie oparto LEGO 76415 Bitwa o Hogwart, wydany w 2023 roku zestaw z 730 elementów przeznaczony dla dzieci od 9 lat.",
+   "Fragment zamku zaprojektowano z myślą o walce: jedną jego część można łatwo zburzyć podczas zabawy. Moduły da się również przestawić tak, by powstał most, czyli kolejne charakterystyczne miejsce. W podstawowej konfiguracji konstrukcja ma 28 cm wysokości, 44 cm szerokości i 11 cm głębokości.",
+   "Harry i Voldemort dostają różdżki z elementami imitującymi rzucanie zaklęć, a Neville Longbottom miecz Gryffindora. Pozostałe minifigurki to Scabior, Molly Weasley i Bellatrix Lestrange. Listę uzupełnia figurka Nagini, której los w filmie rozstrzyga właśnie ten miecz. Zestaw należy do modułowej serii, a po dołączeniu innych części sprzedawanych osobno powstaje kompletny zamek Hogwart.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 11. co do wielkości. Za element płaci się tu katalogowo 0,51 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Numer": "76415",
+   "Nazwa": "Bitwa o Hogwart",
+   "Seria": "Harry Potter",
+   "Premiera": "2023",
+   "Liczba elementów": "730",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "6 minifigurek (Harry Potter, Voldemort, Neville Longbottom, Scabior, Molly Weasley, Bellatrix Lestrange) i figurka Nagini",
+   "Cena katalogowa w Polsce": "369,99 zł",
+   "Cena katalogowa za element": "0,51 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, seria modułowych zestawów tworzących zamek Hogwart",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76415?",
+    "a": "W polskim katalogu Bitwa o Hogwart miała cenę 369,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy LEGO 76415 łączy się z innymi częściami zamku?",
+    "a": "Tak. To jeden z modułowych zestawów, które razem tworzą cały zamek Hogwart."
+   },
+   {
+    "q": "Jak działa niszczenie zamku w zestawie 76415?",
+    "a": "Konstrukcję zaprojektowano tak, by podczas bitwy łatwo było zniszczyć jedną jej część."
+   },
+   {
+    "q": "Jak zmienić moduły zamku w most?",
+    "a": "Wystarczy przestawić części konstrukcji. Tak powstaje druga charakterystyczna lokalizacja."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Najbliżej są pozostałe moduły zamku Hogwart, także 76413 Hogwart: Pokój życzeń. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76918": {
+  "seria": "Speed Champions",
+  "nazwa": "McLaren Solus GT i McLaren F1 LM",
+  "elementy": 581,
+  "akapity": [
+   "Dwa McLareny z różnych epok stają obok siebie w LEGO Speed Champions 76918. Według LEGO to pierwszy dwupak modeli tej marki w ofercie. Zestaw wydany w 2023 roku łączy kultowego F1 LM z lat 90. XX wieku z najnowszym wówczas Solusem GT i obejmuje 581 elementów przeznaczonych dla dzieci od 9 lat oraz fanów motoryzacji.",
+   "Limitowany F1 LM ma charakterystyczny kolor papaya orange, kanały chłodzące po obu stronach i fotel kierowcy pośrodku, typowy dla obu modeli. Solus GT wyróżnia się za to tylnym skrzydłem, uwydatnionymi nadkolami i kokpitem.",
+   "F1 LM ma 4 cm wysokości, 15 cm długości i 7 cm szerokości, co ułatwia zabawę w domu i w podróży. Do każdego auta dołączono minifigurkę kierowcy, więc można organizować wyścigi. Oba modele pokazano też w grze LEGO 2K Drive.",
+   "Gdyby stanął obok 14 zestawów LEGO Speed Champions z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/77264/\">LEGO 77264 Jaguar Project 7 i Land Rover Defender</a> (740 el.). Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,39 zł."
+  ],
+  "metryka": {
+   "Numer": "76918",
+   "Nazwa": "McLaren Solus GT i McLaren F1 LM",
+   "Seria": "Speed Champions",
+   "Premiera": "2023",
+   "Liczba elementów": "581",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "2 minifigurki kierowców",
+   "Cena katalogowa w Polsce": "189,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Speed Champions, licencjonowane auta McLaren",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76918?",
+    "a": "Na polskiej stronie LEGO zestaw był wyceniony na 189,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czym różnią się oba McLareny?",
+    "a": "F1 LM to klasyk z lat 90. w kolorze papaya orange, a Solus GT to nowoczesny model z tylnym skrzydłem."
+   },
+   {
+    "q": "Ile minifigurek ma zestaw 76918?",
+    "a": "Dwie, po jednym kierowcy na samochód."
+   },
+   {
+    "q": "Ile kosztuje jeden element zestawu McLaren?",
+    "a": "To 0,33 zł. Wskaźnik jest tylko pomocniczy, bo w pudełku są dwa auta i lepiej patrzeć na cenę całej pary."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Speed Champions?",
+    "a": "LEGO poleca przy tym zestawie 76914 Ferrari 812 Competizione, 76915 Pagani Utopia i 76916 Porsche 963. <a href=\"/serie/speed-champions/\">Zobacz wszystkie zestawy LEGO Speed Champions</a>"
+   }
+  ]
+ },
+ "76960": {
+  "seria": "Jurassic World",
+  "nazwa": "Odkrycie brachiozaura",
+  "elementy": 512,
+  "akapity": [
+   "Pierwsze spotkanie bohaterów „Parku Jurajskiego” z żywym brachiozaurem to jedna z najbardziej znanych scen filmu. Zestaw LEGO 76960 Odkrycie brachiozaura z 2023 roku odtwarza ją z 512 elementów, a LEGO oznaczyło go od 9 lat.",
+   "Centrum zestawu stanowi ruchoma figurka dinozaura o wymiarach 24 cm wysokości, 27 cm długości i 6 cm szerokości. W chwili premiery LEGO nazywało ją najwyższą dotąd figurką dinozaura w swojej ofercie.",
+   "Drugi element to wiernie odwzorowany Jeep Wrangler z miejscem na trzy minifigurki: dr. Alana Granta, dr Ellie Sattler i Johna Hammonda. Mogą w nim siedzieć albo stać w takich pozycjach jak w scenie z filmu. Trzeci element to drzewo z platformą widokową dla maksymalnie trzech postaci. Ma ono odczepiane liście, którymi można „nakarmić” brachiozaura, tak jak robił to Alan Grant na ekranie. Obok drzewa ustawiono znak ostrzegawczy. Zestaw można łączyć z innymi zestawami LEGO Jurassic World.",
+   "Gdyby stanął obok 10 zestawów LEGO Jurassic World z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,74 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "76960",
+   "Nazwa": "Odkrycie brachiozaura",
+   "Seria": "Jurassic World",
+   "Premiera": "2023",
+   "Liczba elementów": "512",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "3 minifigurki (dr Alan Grant, dr Ellie Sattler, John Hammond) i figurka brachiozaura",
+   "Cena katalogowa w Polsce": "379,99 zł",
+   "Cena katalogowa za element": "0,74 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, film Park Jurajski",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76960?",
+    "a": "Odkrycie brachiozaura miało w Polsce cenę 379,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile minifigurek ma zestaw 76960?",
+    "a": "Trzy: dr Alan Grant, dr Ellie Sattler i John Hammond."
+   },
+   {
+    "q": "Jak nakarmić brachiozaura?",
+    "a": "Trzeba odczepić liście z drzewa i podać je figurce."
+   },
+   {
+    "q": "Ile kosztuje jeden element Odkrycia brachiozaura?",
+    "a": "Cena za element to 0,74 zł. Traktuj to pomocniczo, bo główną częścią zestawu jest duża figurka dinozaura."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Również na „Parku Jurajskim” opiera się 76961 Centrum dla odwiedzających: atak tyranozaura i raptora. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "76961": {
+  "seria": "Jurassic World",
+  "nazwa": "Centrum dla odwiedzających: atak tyranozaura i raptora",
+  "elementy": 693,
+  "akapity": [
+   "Budynek rozpoznawalny z „Parku Jurajskiego” dostał w 2023 roku klockową wersję w zestawie LEGO 76961 Centrum dla odwiedzających: atak tyranozaura i raptora. Model z serii Jurassic World liczy 693 elementy i mierzy 16 cm wysokości, 32 cm szerokości oraz 17 cm głębokości. LEGO kieruje go do osób od 12 lat.",
+   "Wnętrze dzieli się na trzy strefy rozdzielone półprzezroczystymi ekranami z grafikami dinozaurów: hol wejściowy, kuchnię z jadalnią i laboratorium. W holu stoi szkielet tyranozaura do zbudowania, a przesunięcie dźwigni zrzuca transparent z napisem „When dinosaurs ruled the Earth”. Dzieje się to podczas walki ruchomych figurek tyranozaura i welociraptora. Laboratorium ma komputer, mikroskop i inkubator jaj dinozaurów, a kuchnię zapełnia jedzenie i rośliny.",
+   "W pudełku jest sześć minifigurek: dr Ellie Sattler, dr Alan Grant, Ray Arnold, dr Henry Wu, Lex Murphy i Tim Murphy. Całość można połączyć z innymi zestawami LEGO Jurassic World.",
+   "Gdyby stanął obok 10 zestawów LEGO Jurassic World z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,84 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "76961",
+   "Nazwa": "Centrum dla odwiedzających: atak tyranozaura i raptora",
+   "Seria": "Jurassic World",
+   "Premiera": "2023",
+   "Liczba elementów": "693",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "6 minifigurek (dr Ellie Sattler, dr Alan Grant, Ray Arnold, dr Henry Wu, Lex Murphy, Tim Murphy) oraz figurki tyranozaura i welociraptora",
+   "Cena katalogowa w Polsce": "579,99 zł",
+   "Cena katalogowa za element": "0,84 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, film Park Jurajski",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76961?",
+    "a": "Cena katalogowa zestawu 76961 wynosiła w Polsce 579,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak działa spadający transparent?",
+    "a": "Przesunięcie dźwigni w holu wejściowym zrzuca transparent podczas walki dinozaurów."
+   },
+   {
+    "q": "Jakie pomieszczenia ma Centrum dla odwiedzających?",
+    "a": "Hol wejściowy, kuchnię z jadalnią oraz laboratorium."
+   },
+   {
+    "q": "Ile kosztuje jeden element Centrum dla odwiedzających?",
+    "a": "Po podzieleniu ceny przez 693 elementy wychodzi 0,84 zł. Liczba jest tylko orientacyjna, bo nie widać w niej dinozaurów ani sześciu minifigurek."
+   },
+   {
+    "q": "Czy szkielet tyranozaura jest gotowym elementem?",
+    "a": "Nie. To szkielet do zbudowania z klocków, który ustawia się w holu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Najbliższy tematycznie jest 76960 Odkrycie brachiozaura, również oparty na „Parku Jurajskim”. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
    }
   ]
  }
