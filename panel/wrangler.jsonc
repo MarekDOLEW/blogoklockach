@@ -29,9 +29,11 @@
     { "binding": "OBRAZY", "bucket_name": "tylkoklocki-obrazy" }
   ],
   "vars": {
-    // Uzupełnia się po włączeniu Access (panel/README.md, krok 2). Puste = panel zamknięty dla wszystkich.
-    "ACCESS_TEAM": "",
-    "ACCESS_AUD": "",
+    // Zespół Zero Trust i AUD aplikacji Access „Panel tylkoklocki” (01.11.2026; odczytane
+    // z przekierowania na logowanie — to nie są sekrety). Ustawiamy je TUTAJ, nie w panelu
+    // Cloudflare: deploy z repo nadpisuje zmienne. Puste = panel zamknięty dla wszystkich.
+    "ACCESS_TEAM": "shiny-hill-469d",
+    "ACCESS_AUD": "bbf4627fd8617223f279da3befede0f0fe4007c4d05a274b02939062c6b64447",
     // Druga zapora poza polityką Access (adresy po przecinku).
     "DOZWOLENI": ""
   }

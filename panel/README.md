@@ -32,6 +32,13 @@ z panelu publikują się od razu (jak teksty z maila), bez przychodów na razie.
    `materialy/zadania-cykliczne.md`) **nie trafiają** do panelu.
 5. Nowa zakładka = nowa funkcja w `panel/build.mjs` + wpis w `ZAKLADKI`.
 
+## Stan
+
+Wdrożony 01.11.2026: worker `tylkoklocki-panel` (Workers Builds z repo, gałąź `main`),
+aplikacja Access „Panel tylkoklocki” w zespole Zero Trust `shiny-hill-469d`,
+logowanie kodem z maila. `ACCESS_TEAM`/`ACCESS_AUD` są w `panel/wrangler.jsonc` —
+**zmiennych nie ustawiamy w panelu Cloudflare**, bo deploy z repo je nadpisuje.
+
 ## Wdrożenie — kroki Marka w panelu Cloudflare (jednorazowo)
 
 Kolejność dowolna: dopóki w `panel/wrangler.jsonc` nie ma `ACCESS_TEAM`
