@@ -63,9 +63,10 @@ def ma_zdjecie_setu(nr):
 
 
 def slugify(tekst):
-    t = tekst.lower()
-    for a, b in zip('ąćęłńóśźż', 'acelnoszz'):
-        t = t.replace(a, b)
+    t = tekst.lower().replace('ł', 'l')
+    # pozostałe znaki diakrytyczne (ą, é, í…) rozkładamy na literę + akcent i akcent wyrzucamy —
+    # inaczej „Família” dawała „fam-lia” (01.11.2026); ł nie ma rozkładu, stąd osobno wyżej
+    t = ''.join(c for c in unicodedata.normalize('NFD', t) if unicodedata.category(c) != 'Mn')
     s = re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', t)).strip('-')
     # ucinamy na granicy słowa, żeby adres nie kończył się w pół wyrazu („…-scena-”, „…-rzad”)
     return s if len(s) <= 70 else s[:71].rsplit('-', 1)[0]
