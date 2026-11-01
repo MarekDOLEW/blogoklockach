@@ -42,6 +42,7 @@ Nie aktualizuje się ich. Nowy raport to nowy plik z nową datą w nazwie.
 | `dziennik-archiwum-RRRR-MM.md` (`-2026-08`, `-2026-09`) | Archiwum dziennika, plik na miesiąc. **Tworzy i linkuje je `scripts/archiwum-dziennika.mjs`** — nie przenoś, indeks w `DZIENNIK.md` wskazuje na tę ścieżkę |
 | `gsc-test.txt` | Test połączeń z API Google, 18.08.2026 — zapis momentu włączenia Search Console API w GCP |
 | `mail-do-piotra-karty-poprawki.md` + `.pdf` | Jednorazowa korespondencja |
+| `lista-opisow-dla-piotra-2026-11-01.xlsx` | Lista 527 zestawów bez karty z `noindex`, w kolejności priorytetu (w sprzedaży → wycofane z ≥3 sklepami → wycofane 2023+ z 2 sklepami), pocięta na partie 29–50 po 25. Wycinek z `zestawy-noindex.xlsx` po odrzuceniu gadżetów, Power Functions i pozycji bez nazwy; powstała, bo paczki 26–27 Piotr napisał do zestawów, które już miały karty |
 
 ## Generowane — powstają ze skryptu i nadpisują się przy każdym przebiegu
 
