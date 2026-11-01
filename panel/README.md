@@ -1,7 +1,9 @@
 # Panel tylkoklocki.pl — `panel.tylkoklocki.pl`
 
-Wewnętrzny panel dla Marka i Piotra: co robią runnery, ile mamy opisów,
-co poszło w social media, dziennik i wgrywanie plików. Decyzje Marka z 01.11.2026:
+Wewnętrzny panel dla Marka i Piotra. Zakładki: Dziś, Runnery, Opisy, Social,
+Artykuły, Statystyki, Afiliacje, Ceny, Wgraj, Dziennik. Statystyki (Search Console,
+kliknięcia w sklepy) pochodzą z dziennego zrzutu `scripts/panel-statystyki.mjs`
+(zadanie 09:17) — build panelu w Cloudflare nie ma kluczy do tych API. Decyzje Marka z 01.11.2026:
 osobna subdomena, logowanie Cloudflare Access, Piotr widzi wszystko, pliki
 z panelu publikują się od razu (jak teksty z maila), bez przychodów na razie.
 

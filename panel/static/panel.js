@@ -29,6 +29,12 @@
     document.querySelectorAll('.wpis').forEach((w) => { w.hidden = fkto.value !== '' && w.dataset.kto !== fkto.value; });
   });
 
+  // ── Artykuły: filtr kategorii ──
+  const fkat = $('#f-kat');
+  if (fkat) fkat.addEventListener('input', () => {
+    document.querySelectorAll('#artykuly tbody tr').forEach((w) => { w.hidden = fkat.value !== '' && w.dataset.kat !== fkat.value; });
+  });
+
   // ── Wgraj ──
   const form = $('#wgraj');
   if (!form) return;

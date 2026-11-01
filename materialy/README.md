@@ -22,6 +22,7 @@ odwołania.
 | `ceny-katalogowe/` | Brief i lista RRP do sprawdzenia |
 | `opisy-lego/` | Opisy serii — źródło dla kart zestawów |
 | `rolki/` | Szablony rolek wideo 9:16 (HyperFrames) i opis, jak powstają — `rolki/README.md`; wyjścia w `rolki/wyjscie/` są poza gitem |
+| `statystyki/RRRR-MM-DD.json` | Dzienne zrzuty statystyk (Search Console 7/28 dni, kliknięcia w sklepy) z `scripts/panel-statystyki.mjs`; panel czyta je w zakładkach Statystyki, Artykuły i Afiliacje i rysuje z nich historię dzień po dniu. Nie edytować |
 | `social/rejestr.json` | **Rejestr publikacji social media** (co, kiedy, gdzie, do kiedy zostaje, stan archiwizacji) — dopisujemy przy każdej publikacji; czyta go panel (zakładka Social). Grafiki i opisy z danego dnia w `social/RRRR-MM-DD/` |
 
 ## Datowane — zapis stanu z konkretnego dnia, nie reguła

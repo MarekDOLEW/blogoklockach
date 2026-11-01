@@ -202,10 +202,14 @@ const ZAKLADKI = [
   ['runnery.html', 'Runnery'],
   ['opisy.html', 'Opisy'],
   ['social.html', 'Social'],
+  ['artykuly.html', 'Artykuły'],
+  ['statystyki.html', 'Statystyki'],
+  ['afiliacje.html', 'Afiliacje'],
+  ['ceny.html', 'Ceny'],
   ['wgraj.html', 'Wgraj'],
   ['dziennik.html', 'Dziennik'],
 ];
-const WKROTCE = ['Artykuły', 'Statystyki', 'Afiliacje', 'Ceny'];
+const WKROTCE = [];
 
 function strona(plik, tytul, tresc, { skrypt = false } = {}) {
   const nav = ZAKLADKI.map(([p, n]) => `<a href="/${p === 'index.html' ? '' : p.replace('.html', '')}"${p === plik ? ' aria-current="page"' : ''}>${n}</a>`).join('')
@@ -451,6 +455,140 @@ ${wpisy}
 `);
 }
 
+
+// ── statystyki: dzienne zrzuty scripts/panel-statystyki.mjs ─────────────
+const ZRZUTY_STAT = istnieje('materialy/statystyki')
+  ? readdirSync(join(REPO, 'materialy/statystyki')).filter((f) => /^\d{4}-\d\d-\d\d\.json$/.test(f)).sort().map((f) => json(`materialy/statystyki/${f}`))
+  : [];
+const STAT = ZRZUTY_STAT.at(-1) ?? null;
+const proc = (x, m = 1) => `${(x * 100).toFixed(m).replace('.', ',')}%`;
+const brakStat = '<p class="szary">Brak zrzutu statystyk — uruchom <code>node scripts/panel-statystyki.mjs</code> (robi to codziennie zadanie 09:17).</p>';
+const ostatnieZgloszenie = (() => {
+  const z = istnieje('materialy/indeksacja/historia.json') ? json('materialy/indeksacja/historia.json').zgloszenia ?? {} : {};
+  const m = new Map();
+  for (const [dzien, adresy] of Object.entries(z)) for (const a of adresy) if (!m.has(a) || m.get(a) < dzien) m.set(a, dzien);
+  return { mapa: m, dni: z };
+})();
+const gscStrona = new Map((STAT?.gsc?.d28?.strony ?? []).map((s) => [s.strona, s]));
+
+// ── strona: Artykuły ──────────────────────────────────────────────────────
+function stronaArtykuly() {
+  const kategorie = [...new Set(ARTYKULY.map((a) => a.kategoria).filter(Boolean))].sort();
+  const ileKat = kategorie.map((k) => [k, ARTYKULY.filter((a) => a.kategoria === k).length]);
+  const tydzien = ARTYKULY.filter((a) => dni(a.aktualizacja || a.data) <= 7).length;
+  const wiersze = ARTYKULY.map((a) => {
+    const url = `${SITE}/artykuly/${a.slug}/`;
+    const g = gscStrona.get(url);
+    const zgl = ostatnieZgloszenie.mapa.get(url);
+    return `<tr data-kat="${esc(a.kategoria)}"><td>${dataPL(a.data)}${a.aktualizacja ? `<div class="szary">akt. ${dataPL(a.aktualizacja)}</div>` : ''}</td><td>${link(url, a.tytul || a.slug)}</td><td>${esc(a.kategoria)}</td><td>${a.piotr ? `Piotr <span class="szary">${esc(a.piotr)}</span>` : '<span class="szary">—</span>'}</td><td class="liczba">${g ? `${g.kliki} / ${g.wyswietlenia}` : '<span class="szary">0 / 0</span>'}</td><td>${zgl ? dataPL(zgl) : '<span class="szary">—</span>'}</td></tr>`;
+  }).join('');
+  return strona('artykuly.html', 'Artykuły', `
+<div class="kafle">${kafel('Tekstów w serwisie', String(ARTYKULY.length))}${kafel('Nowe lub poprawione w 7 dni', String(tydzien), '', tydzien ? 'ok' : 'uwaga')}${kafel('Od Piotra (skrzynka)', String(ARTYKULY.filter((a) => a.piotr).length), 'teksty z rejestru redakcja/skrzynka.json')}${ileKat.slice(0, 3).map(([k, n]) => kafel(k, String(n))).join('')}</div>
+<section class="karta"><div class="filtry"><select id="f-kat"><option value="">wszystkie kategorie</option>${ileKat.map(([k, n]) => `<option value="${esc(k)}">${esc(k)} (${n})</option>`).join('')}</select><span class="szary">Google: kliknięcia / wyświetlenia z 28 dni${STAT ? ` (zrzut ${dataPL(STAT.data)})` : ''}; „Zgłoszony” — ostatnie „Poproś o zindeksowanie” z kolejki indeksacji.</span></div>
+<div class="tabela"><table id="artykuly"><thead><tr><th>Data</th><th>Tytuł</th><th>Kategoria</th><th>Autor</th><th class="liczba">Google 28 dni</th><th>Zgłoszony</th></tr></thead><tbody>${wiersze}</tbody></table></div></section>
+`);
+}
+
+// ── strona: Statystyki ────────────────────────────────────────────────────
+function stronaStatystyki() {
+  if (!STAT) return strona('statystyki.html', 'Statystyki', brakStat);
+  const g7 = STAT.gsc.d7, g28 = STAT.gsc.d28, k7 = STAT.kliki.d7, k28 = STAT.kliki.d28;
+  const kGsc = (g, okres) => (g?.suma ? kafel(`Google — ${okres}`, `${licz(g.suma.clicks)} kliknięć`, `${licz(g.suma.impressions)} wyświetleń · CTR ${proc(g.suma.ctr)} · śr. pozycja ${g.suma.position.toFixed(1).replace('.', ',')}${g.zakres ? `<br>${dataPL(g.zakres.od)}–${dataPL(g.zakres.do)}` : ''}`) : kafel(`Google — ${okres}`, '—', esc(g?.blad ?? ''), 'stare'));
+  const kKlik = (k, okres) => (k?.kliki_lacznie !== undefined ? kafel(`Kliknięcia w sklepy — ${okres}`, licz(k.kliki_lacznie), `tylko ludzie; boty odfiltrowane: ${licz(k.podzial_ruchu?.bot ?? 0)}`) : kafel(`Kliknięcia w sklepy — ${okres}`, '—', esc(k?.blad ?? ''), 'stare'));
+  const trend = ZRZUTY_STAT.slice(-30).reverse().map((z) => `<tr><td>${dataPL(z.data)}</td><td class="liczba">${z.gsc.d7?.suma?.clicks ?? '—'}</td><td class="liczba">${z.gsc.d7?.suma ? licz(z.gsc.d7.suma.impressions) : '—'}</td><td class="liczba">${z.gsc.d28?.suma?.clicks ?? '—'}</td><td class="liczba">${z.kliki.d7?.kliki_lacznie ?? '—'}</td><td class="liczba">${z.kliki.d28?.kliki_lacznie ?? '—'}</td></tr>`).join('');
+  const frazy = (g28.frazy ?? []).slice(0, 30).map((f) => `<tr><td>${esc(f.fraza)}</td><td class="liczba">${f.kliki}</td><td class="liczba">${f.wyswietlenia}</td><td class="liczba">${String(f.pozycja).replace('.', ',')}</td></tr>`).join('');
+  const strony = (g28.strony ?? []).slice(0, 30).map((s) => `<tr><td>${link(s.strona, s.strona.replace(SITE, ''))}</td><td class="liczba">${s.kliki}</td><td class="liczba">${s.wyswietlenia}</td><td class="liczba">${String(s.pozycja).replace('.', ',')}</td></tr>`).join('');
+  const max = Math.max(1, ...(k28.per_sklep ?? []).map((s) => s.kliki));
+  const sklepy = (k28.per_sklep ?? []).map((s) => `<tr><td>${esc(sklep(s.sklep))}</td><td class="liczba">${licz(s.kliki)}</td><td><div class="pasek"><span style="width:${Math.round((100 * s.kliki) / max)}%"></span></div></td></tr>`).join('');
+  const topSety = (k28.top_sety ?? []).slice(0, 20).map((s) => `<tr><td>${link(`${SITE}/zestaw/${s.numer}/`, s.numer)} <span class="szary">${esc(KATALOG.get(String(s.numer))?.nazwa ?? sety[s.numer]?.nazwa ?? '')}</span></td><td>${esc(sklep(s.sklep))}</td><td class="liczba">${s.kliki}</td></tr>`).join('');
+  const zgl = Object.entries(ostatnieZgloszenie.dni).slice(-14).reverse().map(([d, a]) => `<tr><td>${dataPL(d)}</td><td class="liczba">${a.length}</td></tr>`).join('');
+  return strona('statystyki.html', 'Statystyki', `
+<p class="szary">Zrzut z ${dataPL(STAT.data)} (codziennie o 9:17). Search Console ma ok. 2 dni opóźnienia. Kliknięcia w sklepy to wejścia na nasze linki <code>/idz/</code>, nie sprzedaż — przychody z sieci dojdą później.</p>
+<div class="kafle">${kGsc(g7, '7 dni')}${kGsc(g28, '28 dni')}${kKlik(k7, '7 dni')}${kKlik(k28, '28 dni')}</div>
+<div class="dwie">
+<section class="karta"><h2>Kliknięcia w sklepy (28 dni)</h2><div class="tabela"><table><thead><tr><th>Sklep</th><th class="liczba">Kliknięcia</th><th></th></tr></thead><tbody>${sklepy}</tbody></table></div></section>
+<section class="karta"><h2>Najczęściej klikane zestawy (28 dni)</h2><div class="tabela"><table><thead><tr><th>Zestaw</th><th>Sklep</th><th class="liczba">Kliknięcia</th></tr></thead><tbody>${topSety}</tbody></table></div></section>
+</div>
+<div class="dwie">
+<section class="karta"><h2>Frazy w Google (28 dni)</h2><div class="tabela"><table><thead><tr><th>Fraza</th><th class="liczba">Klik.</th><th class="liczba">Wyśw.</th><th class="liczba">Poz.</th></tr></thead><tbody>${frazy}</tbody></table></div></section>
+<section class="karta"><h2>Strony w Google (28 dni)</h2><div class="tabela"><table><thead><tr><th>Strona</th><th class="liczba">Klik.</th><th class="liczba">Wyśw.</th><th class="liczba">Poz.</th></tr></thead><tbody>${strony}</tbody></table></div></section>
+</div>
+<div class="dwie">
+<section class="karta"><h2>Dzień po dniu</h2><div class="tabela"><table><thead><tr><th>Zrzut</th><th class="liczba">Google klik. 7 dni</th><th class="liczba">Wyśw. 7 dni</th><th class="liczba">Google klik. 28 dni</th><th class="liczba">Sklepy 7 dni</th><th class="liczba">Sklepy 28 dni</th></tr></thead><tbody>${trend}</tbody></table></div><p class="szary">Historia rośnie o jeden wiersz dziennie od 01.11.2026.</p></section>
+<section class="karta"><h2>Zgłoszenia do indeksacji</h2><div class="tabela"><table><thead><tr><th>Dzień</th><th class="liczba">Adresów</th></tr></thead><tbody>${zgl}</tbody></table></div><p class="szary">Kolejka: <code>materialy/indeksacja/kolejka.md</code>; klika Cowork w Search Console.</p></section>
+</div>
+`);
+}
+
+// ── strona: Afiliacje ─────────────────────────────────────────────────────
+function stronaAfiliacje() {
+  const rej = json('src/data/afiliacje_rejestr.json');
+  const kliki = new Map((STAT?.kliki?.d28?.per_sklep ?? []).map((s) => [s.sklep, s.kliki]));
+  const KOL = { aktywny: 'ok', wyslane: 'uwaga', 'do zgloszenia': '', odrzucony: 'stare' };
+  const wpisy = Object.entries(rej).filter(([k]) => k !== '_meta').sort((a, b) => (b[1].status === 'aktywny') - (a[1].status === 'aktywny') || (kliki.get(b[0]) ?? 0) - (kliki.get(a[0]) ?? 0));
+  const wiersze = wpisy.map(([k, v]) => `<tr><td><strong>${esc(sklep(k))}</strong></td><td>${esc(v.siec ?? '')}</td><td><span class="kropka ${KOL[v.status] ?? ''}"></span>${esc(v.status ?? '')}</td><td>${esc(v.prowizja ?? '')}</td><td class="liczba">${v.cookie_dni ?? ''}</td><td class="liczba">${kliki.has(k) ? licz(kliki.get(k)) : '<span class="szary">—</span>'}</td><td>${v.uwagi ? `<details><summary class="szary">uwagi</summary>${esc(v.uwagi)}</details>` : ''}</td></tr>`).join('');
+  const aktywne = wpisy.filter(([, v]) => v.status === 'aktywny').length;
+  const kodyTab = Object.entries(kody).filter(([k]) => k !== '_meta').flatMap(([s, l]) => (Array.isArray(l) ? l : []).map((x) => ({ ...x, sklep: s }))).sort((a, b) => b.do.localeCompare(a.do)).slice(0, 15)
+    .map((k) => `<tr class="${k.do < DZIS ? 'zrobione' : ''}"><td>${esc(sklep(k.sklep))}</td><td><code>${esc(k.kod ?? '')}</code></td><td>${dataPL(k.do)}${k.do < DZIS ? ' <span class="szary">(wygasł)</span>' : ''}</td><td class="liczba">${Object.keys(k.zestawy ?? {}).length}</td></tr>`).join('');
+  const kontrola = readdirSync(join(REPO, 'materialy')).filter((f) => /^kontrola-linkow-\d{4}-\d\d-\d\d\.md$/.test(f)).sort().at(-1);
+  const dec = rej._meta?.decyzje;
+  const decyzje = Array.isArray(dec) ? dec.slice(-8).reverse().map((d) => `<li>${inline(typeof d === 'string' ? d : JSON.stringify(d))}</li>`).join('') : dec && typeof dec === 'object' ? Object.entries(dec).slice(-8).reverse().map(([k, v]) => `<li><strong>${esc(k)}</strong> ${inline(typeof v === 'string' ? v : JSON.stringify(v))}</li>`).join('') : '';
+  return strona('afiliacje.html', 'Afiliacje', `
+<div class="kafle">${kafel('Programy aktywne', `${aktywne} / ${wpisy.length}`, 'z rejestru src/data/afiliacje_rejestr.json', 'ok')}${kafel('Kliknięcia w sklepy (28 dni)', STAT?.kliki?.d28?.kliki_lacznie !== undefined ? licz(STAT.kliki.d28.kliki_lacznie) : '—', 'tylko ludzie')}${kafel('Rejestr aktualizowany', dataPL(rej._meta?.zaktualizowano))}</div>
+<section class="karta"><h2>Programy partnerskie</h2><p class="szary">Przychody i prowizje naliczone w sieciach dojdą w kolejnym kroku. Kliknięcia to wejścia z naszych linków <code>/idz/</code> w ostatnich 28 dniach.</p>
+<div class="tabela"><table><thead><tr><th>Sklep</th><th>Sieć</th><th>Status</th><th>Prowizja</th><th class="liczba">Cookie (dni)</th><th class="liczba">Kliknięcia 28 dni</th><th></th></tr></thead><tbody>${wiersze}</tbody></table></div></section>
+<div class="dwie">
+<section class="karta"><h2>Kody rabatowe</h2><div class="tabela"><table><thead><tr><th>Sklep</th><th>Kod</th><th>Ważny do</th><th class="liczba">Zestawów</th></tr></thead><tbody>${kodyTab}</tbody></table></div></section>
+<section class="karta"><h2>Kontrola linków${kontrola ? ` — ${dataPL(kontrola.match(/\d{4}-\d\d-\d\d/)[0])}` : ''}</h2>${kontrola ? `<div class="md">${md(czytaj(`materialy/${kontrola}`).replace(/^# .*\n/, ''))}</div>` : '<p class="szary">Brak raportu.</p>'}</section>
+</div>
+${decyzje ? `<section class="karta"><h2>Ostatnie decyzje (rejestr)</h2><ul>${decyzje}</ul></section>` : ''}
+`);
+}
+
+// ── strona: Ceny ──────────────────────────────────────────────────────────
+function historiaCen() {
+  const kat = join(REPO, 'src/data/historia-cen');
+  const pliki = readdirSync(kat).filter((f) => /^\d{4}-\d\d\.jsonl$/.test(f)).sort().slice(-2);
+  const wpisy = pliki.flatMap((f) => readFileSync(join(kat, f), 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l)));
+  const ostatni = wpisy.reduce((m, w) => (w.d > m ? w.d : m), '');
+  const poprz = new Map();
+  const zmiany = [];
+  for (const w of wpisy) {
+    const k = `${w.nr}|${w.s}`;
+    if (w.d === ostatni) zmiany.push({ ...w, przed: poprz.get(k) });
+    else poprz.set(k, w);
+  }
+  return { ostatni, zmiany };
+}
+
+function stronaCeny() {
+  const wer = weryfikacja._meta?.ostatni_przebieg ?? {};
+  const dzisWer = Object.entries(weryfikacja.oferty ?? {}).filter(([, v]) => v.sprawdzono === (wer.czas ?? '').slice(0, 10));
+  const nazwa = (nr) => KATALOG.get(String(nr))?.nazwa ?? sety[nr]?.nazwa ?? '';
+  const KOL = { ok: 'ok', zmiana: 'uwaga', nieodczytane: 'stare' };
+  const werWiersze = dzisWer.sort((a, b) => (a[1].status === 'ok') - (b[1].status === 'ok')).map(([k, v]) => {
+    const [nr, s] = k.split('|');
+    return `<tr><td>${link(`${SITE}/zestaw/${nr}/`, nr)} <span class="szary">${esc(nazwa(nr))}</span></td><td>${esc(sklep(s))}</td><td><span class="kropka ${KOL[v.status] ?? ''}"></span>${esc(v.status)}</td><td class="liczba">${v.status === 'zmiana' ? `${String(v.cena_danych).replace('.', ',')} → <strong>${String(v.cena_strony).replace('.', ',')}</strong>` : String(v.cena ?? '').replace('.', ',')}</td></tr>`;
+  }).join('');
+  const { ostatni, zmiany } = historiaCen();
+  const spadki = zmiany.filter((z) => z.przed && z.c < z.przed.c).length, wzrosty = zmiany.filter((z) => z.przed && z.c > z.przed.c).length;
+  const zmWiersze = zmiany.sort((a, b) => ((a.przed ? a.c / a.przed.c : 9) - (b.przed ? b.c / b.przed.c : 9))).slice(0, 150).map((z) => {
+    const r = z.przed ? z.c / z.przed.c - 1 : null;
+    return `<tr><td>${link(`${SITE}/zestaw/${z.nr}/`, z.nr)} <span class="szary">${esc(nazwa(z.nr))}</span></td><td>${esc(sklep(z.s))}</td><td class="liczba">${z.przed ? String(z.przed.c).replace('.', ',') : '<span class="szary">nowa</span>'}</td><td class="liczba"><strong>${String(z.c).replace('.', ',')}</strong></td><td class="liczba ${r !== null && r < 0 ? 'spadek' : r > 0 ? 'wzrost' : ''}">${r === null ? '' : `${r > 0 ? '+' : ''}${(r * 100).toFixed(0)}%`}</td></tr>`;
+  }).join('');
+  const sklepyTab = swiezoscSklepow().map((s) => `<tr><td>${esc(sklep(s.sklep))}</td><td class="liczba">${licz(s.ofert)}</td><td><span class="kropka ${klasaSwiezosci(dni(s.data), 1, 7)}"></span>${dataPL(s.data)} <span class="szary">(${ileTemu(s.data)})</span></td></tr>`).join('');
+  return strona('ceny.html', 'Ceny i oferty', `
+<div class="kafle">${kafel('Zestawów z ofertami', licz(new Set([...Object.keys(sety).filter((k) => sety[k].oferty?.length), ...Object.keys(feed).filter((k) => Object.keys(feed[k].oferty ?? {}).length)]).size), 'sety.json + migawka feedów')}${kafel(`Zmiany cen ${dataPL(ostatni)}`, licz(zmiany.length), `${spadki} spadków · ${wzrosty} wzrostów`)}${kafel('Weryfikacja ofert', wer.czas ? `${wer.sprawdzono} kart` : '—', wer.wyniki ? Object.entries(wer.wyniki).map(([k, v]) => `${k}: ${v}`).join(' · ') + ` · ${wer.kredyty} kredytów` : '', wer.czas?.startsWith(DZIS) ? 'ok' : 'uwaga')}</div>
+<div class="dwie">
+<section class="karta"><h2>Świeżość cen w sklepach</h2><div class="tabela"><table><thead><tr><th>Sklep</th><th class="liczba">Ofert</th><th>Ostatni odczyt</th></tr></thead><tbody>${sklepyTab}</tbody></table></div></section>
+<section class="karta"><h2>Weryfikacja ofert do slajderów (${esc(wer.czas ?? '—')})</h2><p class="szary">Oferty Empiku, x-komu, Ceneo, LEGO.pl, Smyka, Lidla i MediaMarktu wchodzą do slajderów tylko potwierdzone na karcie produktu (Firecrawl). „Zmiana” = cena na stronie inna niż w danych — poprawiona automatycznie.</p>
+<div class="tabela"><table><thead><tr><th>Zestaw</th><th>Sklep</th><th>Wynik</th><th class="liczba">Cena</th></tr></thead><tbody>${werWiersze}</tbody></table></div></section>
+</div>
+<section class="karta"><h2>Zmiany cen ${dataPL(ostatni)} — największe spadki na górze</h2><p class="szary">Z historii <code>src/data/historia-cen/</code>; pokazuję do 150 pozycji.</p>
+<div class="tabela"><table><thead><tr><th>Zestaw</th><th>Sklep</th><th class="liczba">Było</th><th class="liczba">Jest</th><th class="liczba">Zmiana</th></tr></thead><tbody>${zmWiersze}</tbody></table></div></section>
+`);
+}
+
 // ── budowa ────────────────────────────────────────────────────────────────
 rmSync(DIST, { recursive: true, force: true });
 mkdirSync(join(DIST, 'dane'), { recursive: true });
@@ -460,7 +598,7 @@ for (const f of ['logo.svg', 'favicon.svg']) cpSync(join(REPO, 'public', f), joi
 // Arkusze do pobrania z panelu (lista dla Piotra)
 for (const f of readdirSync(join(REPO, 'materialy'))) if (/^lista-opisow-dla-piotra-.*\.xlsx$/.test(f)) cpSync(join(REPO, 'materialy', f), join(DIST, 'pliki', f));
 
-const strony = { 'index.html': stronaDzis(), 'runnery.html': stronaRunnery(), 'opisy.html': stronaOpisy(), 'social.html': stronaSocial(), 'wgraj.html': stronaWgraj(), 'dziennik.html': stronaDziennik(),
+const strony = { 'index.html': stronaDzis(), 'runnery.html': stronaRunnery(), 'opisy.html': stronaOpisy(), 'social.html': stronaSocial(), 'artykuly.html': stronaArtykuly(), 'statystyki.html': stronaStatystyki(), 'afiliacje.html': stronaAfiliacje(), 'ceny.html': stronaCeny(), 'wgraj.html': stronaWgraj(), 'dziennik.html': stronaDziennik(),
   '404.html': strona('', 'Nie ma takiej strony', '<p><a href="/">Wróć do zakładki Dziś</a></p>') };
 for (const [p, html] of Object.entries(strony)) writeFileSync(join(DIST, p), html);
 console.log(`panel: ${Object.keys(strony).length} stron, ${licz(KATALOG.size)} zestawów, ${WPISY.length} wpisów dziennika, ${GIT.length} commitów → panel/dist/`);

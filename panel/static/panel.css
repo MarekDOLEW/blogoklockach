@@ -101,3 +101,9 @@ textarea { width: 100%; display: block; margin-top: 4px; }
 button { font: 700 15px var(--wyswietl); background: var(--zolty); color: var(--granat); border: 0; border-radius: 8px; padding: 10px 22px; cursor: pointer; justify-self: start; }
 button:hover { background: var(--zolty-ciemny); }
 button:disabled { opacity: .5; cursor: wait; }
+
+.spadek { color: var(--zielen); font-weight: 600; } .wzrost { color: var(--czerwien); font-weight: 600; }
+
+/* elementy siatki nie mogą rozpychać strony szerokimi tabelami (telefon) */
+.dwie > *, .kafle > * { min-width: 0; }
+.gora nav a, .gora nav span { padding: 6px 10px; }
