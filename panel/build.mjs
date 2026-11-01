@@ -231,7 +231,7 @@ function strona(plik, tytul, tresc, { skrypt = false } = {}) {
 <header class="gora">
   <a class="logo" href="/"><img src="/static/logo.svg" alt="tylkoklocki.pl" width="150" height="32"><span>Panel</span></a>
   <nav>${nav}</nav>
-  <span class="kto" id="kto"></span>
+  <span class="kto"><span id="kto"></span> <a class="wyloguj" href="/cdn-cgi/access/logout">Wyloguj</a></span>
 </header>
 <main>
 <h1>${esc(tytul)}</h1>

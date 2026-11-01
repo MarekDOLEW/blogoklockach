@@ -107,3 +107,5 @@ button:disabled { opacity: .5; cursor: wait; }
 /* elementy siatki nie mogą rozpychać strony szerokimi tabelami (telefon) */
 .dwie > *, .kafle > * { min-width: 0; }
 .gora nav a, .gora nav span { padding: 6px 10px; }
+.kto .wyloguj { color: var(--zolty); margin-left: 8px; font-weight: 600; text-decoration: none; }
+.kto .wyloguj:hover { text-decoration: underline; }
