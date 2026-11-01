@@ -153,6 +153,10 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-01 14:55 · CODE · Skrzynka (mail): 0035 opublikowany, 0034 za duży dla automatu
+
+**0035 „Listopadowe premiery LEGO” na stronie: https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ (`3668728`, adres poprawiony w `20a551d` przed wysłaniem linków — slugify robiło z „Família” „fam-lia”; teraz zdejmuje wszystkie znaki diakrytyczne).** 0034 „Historia płyt drogowych LEGO” (md + 13 zdjęć) — mail ma 10,6 MB, konektor Gmail go nie przenosi (zrywa połączenie), IMAP z kontenera zablokowany; mail ma etykietę „do-poprawy”, Piotr i Marek dostali prośbę o wgranie przez panel (Wgraj, do 25 MB na plik) albo ponowną wysyłkę z mniejszymi zdjęciami.
+**Dla drugiej strony:** limit ~9 MB na mail dopisany do `redakcja/skrzynka-instrukcja.md` i do promptu automatu skrzynki (sprawdza `sizeEstimate` przed RAW).
 ## 2026-11-01 · CODE · Panel panel.tylkoklocki.pl — wersja 1 w repo, czeka na Access
 
 **Panel wewnętrzny dla Marka i Piotra jest w `panel/`: zakładki Dziś, Runnery, Opisy, Social, Wgraj, Dziennik (Artykuły, Statystyki, Afiliacje, Ceny — w drugim kroku).** Decyzje Marka: osobna subdomena, logowanie Cloudflare Access, Piotr widzi wszystko, pliki z panelu publikują się od razu, bez przychodów na razie. Osobny worker (`panel/wrangler.jsonc`) — serwisu i `src/worker.js` nie dotyka. Bez `ACCESS_TEAM`/`ACCESS_AUD` panel odpowiada 503 każdemu.

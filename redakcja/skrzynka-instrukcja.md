@@ -29,6 +29,9 @@ Gotowe. Skrzynkę można mieć otwartą jednocześnie na kilku komputerach.
 - nazwy plików jak dotąd: `NNNN_Kategoria_Tytuł.md` albo `Recenzje_XXX_NUMER NAZWA.md`;
 - zdjęcia jako załączniki `NNNN_zdjecie_K.jpg` (K = kolejny znacznik `[ZDJĘCIE: …]` w tekście),
   co najmniej 1200 px szerokości, bez napisów i znaków wodnych;
+- **cały mail najwyżej ok. 9 MB.** Większego automat nie pobierze (limit konektora Gmail, 01.11.2026:
+  tekst 0034 z 13 zdjęciami miał 10,6 MB). Tekst z dużą liczbą zdjęć wgraj przez panel
+  https://panel.tylkoklocki.pl → Wgraj (do 25 MB na plik), albo pomniejsz zdjęcia do ok. 1600 px;
 - temat i treść maila są dowolne — automat czyta tylko załączniki.
 
 **Jeden mail = jedna paczka.** Części jednego cyklu wysyłaj razem w jednym mailu, wtedy linki
