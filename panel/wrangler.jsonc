@@ -1,0 +1,38 @@
+{
+  // Panel tylkoklocki.pl — OSOBNY worker, niezależny od serwisu (../wrangler.jsonc).
+  // W Cloudflare: Workers & Pages → Create → Import repository (to samo repo),
+  //   nazwa: tylkoklocki-panel
+  //   Build command:  node panel/build.mjs
+  //   Deploy command: npx wrangler deploy --config panel/wrangler.jsonc
+  // Instrukcja krok po kroku: panel/README.md.
+  "name": "tylkoklocki-panel",
+  "compatibility_date": "2026-08-11",
+  "main": "worker.js",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page",
+    // Każde żądanie, także o pliki statyczne, idzie najpierw przez sprawdzenie
+    // logowania w workerze — bez tego strony panelu dałoby się pobrać z pominięciem Access.
+    "run_worker_first": true
+  },
+  // Bez adresów *.workers.dev i podglądów wersji: jedyną drogą do panelu
+  // ma być panel.tylkoklocki.pl za Cloudflare Access.
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "panel.tylkoklocki.pl", "custom_domain": true }
+  ],
+  // Ten sam kubełek co serwis; panel pisze wyłącznie pod prefiksem _panel/wplywy/.
+  "r2_buckets": [
+    { "binding": "OBRAZY", "bucket_name": "tylkoklocki-obrazy" }
+  ],
+  "vars": {
+    // Uzupełnia się po włączeniu Access (panel/README.md, krok 2). Puste = panel zamknięty dla wszystkich.
+    "ACCESS_TEAM": "",
+    "ACCESS_AUD": "",
+    // Druga zapora poza polityką Access (adresy po przecinku).
+    "DOZWOLENI": ""
+  }
+}

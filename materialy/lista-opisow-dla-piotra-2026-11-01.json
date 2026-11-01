@@ -1,0 +1,4752 @@
+{
+ "_meta": {
+  "opis": "Lista zestawów do opisania dla Piotra; arkusz .xlsx o tej samej nazwie to wersja do pracy. Status liczy panel (karta w karty_setow.json = wgrana).",
+  "stan_na": "2026-11-01",
+  "pierwsza_partia": 29
+ },
+ "pozycje": [
+  {
+   "partia": 29,
+   "lp": 1,
+   "nr": "10361",
+   "nazwa": "Świąteczny ekspres",
+   "seria": "Icons",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 2,
+   "nr": "10375",
+   "nazwa": "Jak wytresować smoka: Szczerbatek",
+   "seria": "Icons",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 3,
+   "nr": "42217",
+   "nazwa": "Niebieski Chevrolet Corvette Stingray",
+   "seria": "Technic",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 4,
+   "nr": "42674",
+   "nazwa": "Sklep z grami i komiksami",
+   "seria": "Friends",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 5,
+   "nr": "60457",
+   "nazwa": "Policyjny warsztat tuningowy",
+   "seria": "City",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 6,
+   "nr": "76317",
+   "nazwa": "Mieszkanie Petera Parkera",
+   "seria": "Marvel",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 7,
+   "nr": "10300",
+   "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
+   "seria": "Icons",
+   "rok": 2022,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 8,
+   "nr": "10373",
+   "nazwa": "Małe drzewka bonsai",
+   "seria": "Botanicals",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 9,
+   "nr": "21271",
+   "nazwa": "Komnata prób",
+   "seria": "Minecraft",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 10,
+   "nr": "21282",
+   "nazwa": "Papugowe domki",
+   "seria": "Minecraft",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 11,
+   "nr": "21355",
+   "nazwa": "Ewolucja przedmiotów ścisłych",
+   "seria": "Ideas",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 12,
+   "nr": "31171",
+   "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+   "seria": "Creator",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 13,
+   "nr": "31172",
+   "nazwa": "Gramofon z kwiatami",
+   "seria": "Creator",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 14,
+   "nr": "31175",
+   "nazwa": "Zamek jednorożców",
+   "seria": "Creator",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 15,
+   "nr": "43277",
+   "nazwa": "Samochód Cruelli De Mon",
+   "seria": "Disney",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 16,
+   "nr": "76447",
+   "nazwa": "Zamek Hogwart: lekcja latania na miotle",
+   "seria": "Harry Potter",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 17,
+   "nr": "76786",
+   "nazwa": "Morticia's Cottage",
+   "seria": "Wednesday",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 18,
+   "nr": "10309",
+   "nazwa": "Sukulenty",
+   "seria": "Icons",
+   "rok": 2022,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 19,
+   "nr": "40518",
+   "nazwa": "Pociąg szybkobieżny",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 20,
+   "nr": "40516",
+   "nazwa": "Każdy jest wspaniały",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 21,
+   "nr": "40791",
+   "nazwa": "Czara Ognia – figurki",
+   "seria": "BrickHeadz",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 22,
+   "nr": "40802",
+   "nazwa": "Figurki Luny Lovegood i testrala",
+   "seria": "BrickHeadz",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 23,
+   "nr": "40803",
+   "nazwa": "Robot i pojazd Optimus Prime",
+   "seria": "BrickHeadz",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 24,
+   "nr": "40804",
+   "nazwa": "Robot i pojazd Bumblebee",
+   "seria": "BrickHeadz",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 29,
+   "lp": 25,
+   "nr": "40884",
+   "nazwa": "Drift i Raven – figurki",
+   "seria": "BrickHeadz",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 1,
+   "nr": "72045",
+   "nazwa": "Mario Kart - Shy Guy i P-Wing",
+   "seria": "Super Mario",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 2,
+   "nr": "76329",
+   "nazwa": "Maska Milesa Moralesa",
+   "seria": "Marvel",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 3,
+   "nr": "80065",
+   "nazwa": "Erlang's Celestial Mech",
+   "seria": "Monkie Kid",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 4,
+   "nr": "80066",
+   "nazwa": "Mythical Creature Qilin",
+   "seria": "Monkie Kid",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 5,
+   "nr": "80056",
+   "nazwa": "Nine-Headed Beast",
+   "seria": "Monkie Kid",
+   "rok": 2024,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 6,
+   "nr": "40519",
+   "nazwa": "Pocztówka z Nowego Jorku",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 7,
+   "nr": "40569",
+   "nazwa": "Pocztówka z Londynu",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 8,
+   "nr": "40468",
+   "nazwa": "Żółta taksówka",
+   "seria": "Creator",
+   "rok": 2021,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 9,
+   "nr": "40478",
+   "nazwa": "Miniaturowy zamek Disneya",
+   "seria": "Disney",
+   "rok": 2021,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 10,
+   "nr": "43008",
+   "nazwa": "Nike Dunk",
+   "seria": "Archiwum",
+   "rok": 2025,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 11,
+   "nr": "80058",
+   "nazwa": "Celestial Pagoda",
+   "seria": "Monkie Kid",
+   "rok": 2024,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 12,
+   "nr": "40649",
+   "nazwa": "Up-Scaled LEGO Minifigure",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 1
+  },
+  {
+   "partia": 30,
+   "lp": 13,
+   "nr": "30726",
+   "nazwa": "Batman: Bruce Wayne and the Batsuit",
+   "seria": "Batman",
+   "rok": 2026,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 14,
+   "nr": "31217",
+   "nazwa": "Tiger",
+   "seria": "Art",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 15,
+   "nr": "71489",
+   "nazwa": "Cooper's Gaming Controller Jet",
+   "seria": "DREAMZzz",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 16,
+   "nr": "71490",
+   "nazwa": "Izzie and Bunchurro the Gaming Bunny",
+   "seria": "DREAMZzz",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 17,
+   "nr": "71491",
+   "nazwa": "Mateo and the Z-Blob Action Race Car",
+   "seria": "DREAMZzz",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 18,
+   "nr": "71495",
+   "nazwa": "Mateo vs. Cyber Brain Mech",
+   "seria": "DREAMZzz",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 19,
+   "nr": "71497",
+   "nazwa": "Cooper's Tiger Mech & Zero's Hot Rod Car",
+   "seria": "DREAMZzz",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 20,
+   "nr": "71841",
+   "nazwa": "Burzowa wioska Dragonów",
+   "seria": "Ninjago",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 21,
+   "nr": "77003",
+   "nazwa": "Super Shadow vs. Biolizard",
+   "seria": "Sonic",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 22,
+   "nr": "75429",
+   "nazwa": "Hełm operatora AT-AT",
+   "seria": "Star Wars",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 23,
+   "nr": "72043",
+   "nazwa": "Mario Kart - Interaktywna figurka Mario i Standard Kart",
+   "seria": "Super Mario",
+   "rok": 2025,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 24,
+   "nr": "30660",
+   "nazwa": "Zoey's Dream Jet Pack Booster",
+   "seria": "DREAMZzz",
+   "rok": 2024,
+   "grupa": 2
+  },
+  {
+   "partia": 30,
+   "lp": 25,
+   "nr": "42168",
+   "nazwa": "John Deere 9700 Forage Harvester",
+   "seria": "Technic",
+   "rok": 2024,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 1,
+   "nr": "10787",
+   "nazwa": "Kitty Fairy's Garden Party",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 2,
+   "nr": "77012",
+   "nazwa": "Fighter Plane Chase",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 3,
+   "nr": "77013",
+   "nazwa": "Escape from the Lost Tomb",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 4,
+   "nr": "77015",
+   "nazwa": "Temple of the Golden Idol",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 5,
+   "nr": "40615",
+   "nazwa": "Tuskeński rabuś",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 6,
+   "nr": "30638",
+   "nazwa": "Rower policyjny - szkolenie",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 7,
+   "nr": "60362",
+   "nazwa": "Myjnia samochodowa",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 8,
+   "nr": "60369",
+   "nazwa": "Szkolenie psów policyjnych w terenie",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 9,
+   "nr": "60374",
+   "nazwa": "Terenowy pojazd straży pożarnej",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 10,
+   "nr": "60391",
+   "nazwa": "Ciężarówki i dźwig z kulą wyburzeniową",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 11,
+   "nr": "60397",
+   "nazwa": "Wyścig monster truckami",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 12,
+   "nr": "11027",
+   "nazwa": "Kreatywna zabawa neonowymi kolorami",
+   "seria": "Classic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 13,
+   "nr": "11028",
+   "nazwa": "Kreatywna zabawa pastelowymi kolorami",
+   "seria": "Classic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 14,
+   "nr": "31133",
+   "nazwa": "Biały królik",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 15,
+   "nr": "31144",
+   "nazwa": "Egzotyczna różowa papuga",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 16,
+   "nr": "40597",
+   "nazwa": "Straszna wyspa piratów",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 17,
+   "nr": "10991",
+   "nazwa": "Wymarzony plac zabaw",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 18,
+   "nr": "10992",
+   "nazwa": "Dzień z życia w żłobku",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 19,
+   "nr": "10993",
+   "nazwa": "Domek na drzewie",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 20,
+   "nr": "10994",
+   "nazwa": "Dom rodzinny 3 w 1",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 21,
+   "nr": "43211",
+   "nazwa": "Zamek Aurory",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 22,
+   "nr": "43213",
+   "nazwa": "Historyjki Małej Syrenki",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 23,
+   "nr": "43223",
+   "nazwa": "Asha w Rosas",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 24,
+   "nr": "43229",
+   "nazwa": "Skrzynia ze skarbami Arielki",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 31,
+   "lp": 25,
+   "nr": "30635",
+   "nazwa": "Sprzątanie plaży",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 1,
+   "nr": "41738",
+   "nazwa": "Rower do ratowania psów",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 2,
+   "nr": "41741",
+   "nazwa": "Furgonetka ratunkowa dla psów",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 3,
+   "nr": "41749",
+   "nazwa": "Reporterska furgonetka",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 4,
+   "nr": "30651",
+   "nazwa": "Trening quidditcha",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 5,
+   "nr": "40598",
+   "nazwa": "Skrytka w Banku Gringotta",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 6,
+   "nr": "76410",
+   "nazwa": "Flaga Slytherinu",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 7,
+   "nr": "76421",
+   "nazwa": "Skrzat domowy Zgredek",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 8,
+   "nr": "76423",
+   "nazwa": "Ekspres do Hogwartu i stacja w Hogsmeade",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 9,
+   "nr": "10320",
+   "nazwa": "Twierdza Eldorado",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 10,
+   "nr": "40601",
+   "nazwa": "Magiczny warsztat Majisto",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 11,
+   "nr": "40646",
+   "nazwa": "Żonkile",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 12,
+   "nr": "40595",
+   "nazwa": "Hołd dla Galileusza",
+   "seria": "Ideas",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 13,
+   "nr": "76959",
+   "nazwa": "Badanie triceratopsa",
+   "seria": "Jurassic World",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 14,
+   "nr": "30652",
+   "nazwa": "Doktor Strange - portal międzywymiarowy",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 15,
+   "nr": "76243",
+   "nazwa": "Mechaniczna zbroja Rocketa",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 16,
+   "nr": "76244",
+   "nazwa": "Miles Morales kontra Morbius",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 17,
+   "nr": "21240",
+   "nazwa": "Przygoda na mokradłach",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 18,
+   "nr": "21248",
+   "nazwa": "Dyniowa farma",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 19,
+   "nr": "30650",
+   "nazwa": "Bitwa Kaia i Raptona w świątyni",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 20,
+   "nr": "71788",
+   "nazwa": "Motocykl ninja Lloyda",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 21,
+   "nr": "71789",
+   "nazwa": "Bitwa samochodowo-motocyklowa między Kaiem a Rasem",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 22,
+   "nr": "71793",
+   "nazwa": "Lawowy smok zmieniający się w falę ognia",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 23,
+   "nr": "40639",
+   "nazwa": "Ptasie gniazdo",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 24,
+   "nr": "40640",
+   "nazwa": "Dziadek do orzechów",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 32,
+   "lp": 25,
+   "nr": "40642",
+   "nazwa": "Piernikowe ozdoby",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 1,
+   "nr": "40648",
+   "nazwa": "Pachira - Drzewo pieniędzy",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 2,
+   "nr": "76914",
+   "nazwa": "Ferrari 812 Competizione",
+   "seria": "Speed Champions",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 3,
+   "nr": "76915",
+   "nazwa": "Pagani Utopia",
+   "seria": "Speed Champions",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 4,
+   "nr": "76916",
+   "nazwa": "Porsche 963",
+   "seria": "Speed Champions",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 5,
+   "nr": "40658",
+   "nazwa": "Świąteczna diorama z Sokołem Millennium",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 6,
+   "nr": "75359",
+   "nazwa": "Zestaw bitewny z 332. oddziałem klonów Ahsoki",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 7,
+   "nr": "75363",
+   "nazwa": "Myśliwiec N-1 Mandalorianina w mikroskali",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 8,
+   "nr": "75369",
+   "nazwa": "Mech Boby Fetta",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 9,
+   "nr": "75370",
+   "nazwa": "Mech Szturmowca",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 10,
+   "nr": "42147",
+   "nazwa": "Wywrotka",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 11,
+   "nr": "42148",
+   "nazwa": "Ratrak",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 12,
+   "nr": "42149",
+   "nazwa": "Monster Jam Dragon",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 13,
+   "nr": "42150",
+   "nazwa": "Monster Jam Monster Mutt Dalmatian",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 14,
+   "nr": "21057",
+   "nazwa": "Singapore",
+   "seria": "Architecture",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 15,
+   "nr": "75573",
+   "nazwa": "Floating Mountains: Site 26 & RDA Samson",
+   "seria": "Archiwum",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 16,
+   "nr": "76220",
+   "nazwa": "Batman versus Harley Quinn",
+   "seria": "Batman",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 17,
+   "nr": "40540",
+   "nazwa": "Chłopak tańczący taniec lwa",
+   "seria": "BrickHeadz",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 18,
+   "nr": "40547",
+   "nazwa": "Obi-Wan Kenobi i Darth Vader",
+   "seria": "BrickHeadz",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 19,
+   "nr": "60314",
+   "nazwa": "Policyjny pościg za furgonetką z lodami",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 20,
+   "nr": "60325",
+   "nazwa": "Ciężarówka z betoniarką",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 21,
+   "nr": "60327",
+   "nazwa": "Przyczepa do przewozu koni",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 22,
+   "nr": "60331",
+   "nazwa": "Turystyczny motocykl kaskaderski",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 23,
+   "nr": "60335",
+   "nazwa": "Dworzec kolejowy",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 24,
+   "nr": "60346",
+   "nazwa": "Stodoła i zwierzęta gospodarskie",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 33,
+   "lp": 25,
+   "nr": "60347",
+   "nazwa": "Sklep spożywczy",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 1,
+   "nr": "60348",
+   "nazwa": "Łazik księżycowy",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 2,
+   "nr": "60349",
+   "nazwa": "Stacja kosmiczna na Księżycu",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 3,
+   "nr": "60351",
+   "nazwa": "Start rakiety z kosmodromu",
+   "seria": "City",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 4,
+   "nr": "30584",
+   "nazwa": "Świąteczny pociąg",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 5,
+   "nr": "31123",
+   "nazwa": "Łazik terenowy",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 6,
+   "nr": "31132",
+   "nazwa": "Statek wikingów i wąż z Midgardu",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 7,
+   "nr": "40517",
+   "nazwa": "Vespa",
+   "seria": "Creator",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 8,
+   "nr": "41946",
+   "nazwa": "Extra DOTS - Series 6",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 9,
+   "nr": "41954",
+   "nazwa": "Adhesive Patch",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 10,
+   "nr": "41955",
+   "nazwa": "Stitch-on Patch",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 11,
+   "nr": "41957",
+   "nazwa": "Adhesive Patches Mega Pack",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 12,
+   "nr": "41958",
+   "nazwa": "Extra DOTS Series 7 - Sport",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 13,
+   "nr": "41963",
+   "nazwa": "Mickey & Friends Stitch-On Patch",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 14,
+   "nr": "41964",
+   "nazwa": "Back To School Project Box",
+   "seria": "DOTS",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 15,
+   "nr": "40521",
+   "nazwa": "Miniaturowa nawiedzona rezydencja Disneya",
+   "seria": "Disney",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 16,
+   "nr": "76832",
+   "nazwa": "Lightyear Statek kosmiczny XL-15",
+   "seria": "Disney",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 17,
+   "nr": "30503",
+   "nazwa": "Build Your Own Animals - Make It Yours",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 18,
+   "nr": "40563",
+   "nazwa": "Tribute to LEGO House",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 19,
+   "nr": "41695",
+   "nazwa": "Klinika dla zwierzątek",
+   "seria": "Friends",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 20,
+   "nr": "41696",
+   "nazwa": "Kąpiel dla kucyków w stajni",
+   "seria": "Friends",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 21,
+   "nr": "41704",
+   "nazwa": "Budynki przy głównej ulicy",
+   "seria": "Friends",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 22,
+   "nr": "30435",
+   "nazwa": "Zbuduj własny zamek Hogwart",
+   "seria": "Harry Potter",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 23,
+   "nr": "76399",
+   "nazwa": "Magiczny kufer z Hogwartu",
+   "seria": "Harry Potter",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 24,
+   "nr": "76402",
+   "nazwa": "Komnata Dumbledore'a w Hogwarcie",
+   "seria": "Harry Potter",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 34,
+   "lp": 25,
+   "nr": "10297",
+   "nazwa": "Butikowy hotel (modular)",
+   "seria": "Icons",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 1,
+   "nr": "10303",
+   "nazwa": "Kolejka górska z pętlą",
+   "seria": "Icons",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 2,
+   "nr": "40567",
+   "nazwa": "Leśna kryjówka",
+   "seria": "Icons",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 3,
+   "nr": "21332",
+   "nazwa": "Kula ziemska",
+   "seria": "Ideas",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 4,
+   "nr": "76945",
+   "nazwa": "Atrociraptor: pościg na motocyklu",
+   "seria": "Jurassic World",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 5,
+   "nr": "76947",
+   "nazwa": "Kecalkoatl: zasadzka z samolotem",
+   "seria": "Jurassic World",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 6,
+   "nr": "76949",
+   "nazwa": "Atak giganotozaura i terizinozaura",
+   "seria": "Jurassic World",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 7,
+   "nr": "76950",
+   "nazwa": "Triceratops i zasadzka z pick-upem",
+   "seria": "Jurassic World",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 8,
+   "nr": "76951",
+   "nazwa": "Transport pyroraptora i dilofozaura",
+   "seria": "Jurassic World",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 9,
+   "nr": "10781",
+   "nazwa": "Miles Morales: Technotrójkołowiec Spider-Mana",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 10,
+   "nr": "76209",
+   "nazwa": "Młot Thora",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 11,
+   "nr": "76211",
+   "nazwa": "Statek Shuri",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 12,
+   "nr": "76212",
+   "nazwa": "Laboratorium Shuri",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 13,
+   "nr": "76214",
+   "nazwa": "Czarna Pantera: wojna na wodzie",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 14,
+   "nr": "76217",
+   "nazwa": "Ja jestem Groot",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 15,
+   "nr": "76225",
+   "nazwa": "Figurka Milesa Moralesa",
+   "seria": "Marvel",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 16,
+   "nr": "21178",
+   "nazwa": "Siedlisko lisów",
+   "seria": "Minecraft",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 17,
+   "nr": "21179",
+   "nazwa": "Dom w grzybie",
+   "seria": "Minecraft",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 18,
+   "nr": "21181",
+   "nazwa": "Królicza farma",
+   "seria": "Minecraft",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 19,
+   "nr": "21189",
+   "nazwa": "Loch szkieletów",
+   "seria": "Minecraft",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 20,
+   "nr": "30592",
+   "nazwa": "Miniaturowy piorunowy pojazd",
+   "seria": "Ninjago",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 21,
+   "nr": "40564",
+   "nazwa": "Zimowe elfy",
+   "seria": "Seasonal",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 22,
+   "nr": "76908",
+   "nazwa": "Lamborghini Countach",
+   "seria": "Speed Champions",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 23,
+   "nr": "76909",
+   "nazwa": "Mercedes-AMG F1 W12 E Performance i Mercedes-AMG ONE",
+   "seria": "Speed Champions",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 24,
+   "nr": "76911",
+   "nazwa": "Aston Martin DB5",
+   "seria": "Speed Champions",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 35,
+   "lp": 25,
+   "nr": "30495",
+   "nazwa": "AT-ST",
+   "seria": "Star Wars",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 1,
+   "nr": "40558",
+   "nazwa": "Stacja dowodzenia żołnierza oddziału klonów",
+   "seria": "Star Wars",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 2,
+   "nr": "75332",
+   "nazwa": "AT-ST",
+   "seria": "Star Wars",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 3,
+   "nr": "75341",
+   "nazwa": "Śmigacz Luke'a Skywalkera",
+   "seria": "Star Wars",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 4,
+   "nr": "75343",
+   "nazwa": "Hełm mrocznego szturmowca",
+   "seria": "Star Wars",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 5,
+   "nr": "71411",
+   "nazwa": "Potężny Bowser",
+   "seria": "Super Mario",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 6,
+   "nr": "42132",
+   "nazwa": "Motocykl",
+   "seria": "Technic",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 7,
+   "nr": "42136",
+   "nazwa": "Traktor John Deere 9620R 4WD",
+   "seria": "Technic",
+   "rok": 2022,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 8,
+   "nr": "45345",
+   "nazwa": "SPIKE Essential",
+   "seria": "Archiwum",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 9,
+   "nr": "45681",
+   "nazwa": "SPIKE Prime Expansion Set (v2)",
+   "seria": "Archiwum",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 10,
+   "nr": "76183",
+   "nazwa": "Batcave: The Riddler Face-off",
+   "seria": "Batman",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 11,
+   "nr": "76188",
+   "nazwa": "Batman Classic TV Series Batmobile",
+   "seria": "Batman",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 12,
+   "nr": "76240",
+   "nazwa": "Batmobile Tumbler",
+   "seria": "Batman",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 13,
+   "nr": "11013",
+   "nazwa": "Kreatywne przezroczyste klocki",
+   "seria": "Classic",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 14,
+   "nr": "31118",
+   "nazwa": "Domek surferów na plaży",
+   "seria": "Creator",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 15,
+   "nr": "31120",
+   "nazwa": "Średniowieczny zamek",
+   "seria": "Creator",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 16,
+   "nr": "41931",
+   "nazwa": "Extra DOTS - Series 4",
+   "seria": "DOTS",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 17,
+   "nr": "41932",
+   "nazwa": "Extra DOTS - Series 5",
+   "seria": "DOTS",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 18,
+   "nr": "10944",
+   "nazwa": "Lot promem kosmicznym",
+   "seria": "DUPLO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 19,
+   "nr": "43197",
+   "nazwa": "Lodowy zamek",
+   "seria": "Disney",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 20,
+   "nr": "43202",
+   "nazwa": "Dom Madrigalów",
+   "seria": "Disney",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 21,
+   "nr": "41443",
+   "nazwa": "Samochód elektryczny Olivii",
+   "seria": "Friends",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 22,
+   "nr": "41448",
+   "nazwa": "Kino w Heartlake City",
+   "seria": "Friends",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 23,
+   "nr": "41677",
+   "nazwa": "Leśny wodospad",
+   "seria": "Friends",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 24,
+   "nr": "41689",
+   "nazwa": "Magiczny diabelski młyn i zjeżdżalnia",
+   "seria": "Friends",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 36,
+   "lp": 25,
+   "nr": "76382",
+   "nazwa": "Chwile z Hogwartu: zajęcia z transfiguracji",
+   "seria": "Harry Potter",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 1,
+   "nr": "76386",
+   "nazwa": "Hogwart: pomyłka z eliksirem wielosokowym",
+   "seria": "Harry Potter",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 2,
+   "nr": "76388",
+   "nazwa": "Wizyta w wiosce Hogsmeade",
+   "seria": "Harry Potter",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 3,
+   "nr": "76393",
+   "nazwa": "Harry Potter i Hermiona Granger",
+   "seria": "Harry Potter",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 4,
+   "nr": "76395",
+   "nazwa": "Hogwart: Pierwsza lekcja latania",
+   "seria": "Harry Potter",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 5,
+   "nr": "10278",
+   "nazwa": "Posterunek policji (modular)",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 6,
+   "nr": "10282",
+   "nazwa": "But adidas Originals Superstar",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 7,
+   "nr": "10283",
+   "nazwa": "Wahadłowiec Discovery NASA",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 8,
+   "nr": "10284",
+   "nazwa": "Camp Nou – FC Barcelona",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 9,
+   "nr": "10289",
+   "nazwa": "Strelicja królewska",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 10,
+   "nr": "10293",
+   "nazwa": "Wizyta Świętego Mikołaja",
+   "seria": "Icons",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 11,
+   "nr": "21325",
+   "nazwa": "Średniowieczna kuźnia",
+   "seria": "Ideas",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 12,
+   "nr": "76939",
+   "nazwa": "Ucieczka stygimolocha",
+   "seria": "Jurassic World",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 13,
+   "nr": "76940",
+   "nazwa": "Wystawa skamieniałości tyranozaura",
+   "seria": "Jurassic World",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 14,
+   "nr": "76942",
+   "nazwa": "Barionyks i ucieczka łodzią",
+   "seria": "Jurassic World",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 15,
+   "nr": "76145",
+   "nazwa": "Eternals - atak powietrzny",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 16,
+   "nr": "76175",
+   "nazwa": "Atak na kryjówkę Spider-Mana",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 17,
+   "nr": "76178",
+   "nazwa": "Daily Bugle",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 18,
+   "nr": "76184",
+   "nazwa": "Spider-Man kontra Mysterio",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 19,
+   "nr": "76186",
+   "nazwa": "Helikopter Czarnej Pantery",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 20,
+   "nr": "76191",
+   "nazwa": "Rękawica Nieskończoności",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 21,
+   "nr": "76192",
+   "nazwa": "Avengers: Koniec gry - ostateczna bitwa",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 22,
+   "nr": "76193",
+   "nazwa": "Statek Strażników",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 23,
+   "nr": "76198",
+   "nazwa": "Bitwa mechów Spider-Mana i Doktora Octopusa",
+   "seria": "Marvel",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 24,
+   "nr": "21164",
+   "nazwa": "Rafa koralowa",
+   "seria": "Minecraft",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 37,
+   "lp": 25,
+   "nr": "21167",
+   "nazwa": "Punkt handlowy",
+   "seria": "Minecraft",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 1,
+   "nr": "21174",
+   "nazwa": "Nowoczesny domek na drzewie",
+   "seria": "Minecraft",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 2,
+   "nr": "71737",
+   "nazwa": "Ninjaścigacz X-1",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 3,
+   "nr": "71739",
+   "nazwa": "Pojazd ultradźwiękowy",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 4,
+   "nr": "71740",
+   "nazwa": "ElectroMech",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 5,
+   "nr": "71741",
+   "nazwa": "Ogrody miasta",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 6,
+   "nr": "71746",
+   "nazwa": "Dżunglowy Smok",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 7,
+   "nr": "71755",
+   "nazwa": "Świątynia Bezkresnego Morza",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 8,
+   "nr": "71756",
+   "nazwa": "Pływająca Perła",
+   "seria": "Ninjago",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 9,
+   "nr": "40497",
+   "nazwa": "Halloweenowa sowa",
+   "seria": "Seasonal",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 10,
+   "nr": "40483",
+   "nazwa": "Miecz świetlny Luke'a Skywalkera",
+   "seria": "Star Wars",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 11,
+   "nr": "75299",
+   "nazwa": "Kłopoty na Tatooine",
+   "seria": "Star Wars",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 12,
+   "nr": "75304",
+   "nazwa": "Hełm Dartha Vadera",
+   "seria": "Star Wars",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 13,
+   "nr": "75314",
+   "nazwa": "Prom szturmowy Parszywej Zgrai",
+   "seria": "Star Wars",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 14,
+   "nr": "75319",
+   "nazwa": "Kuźnia Zbrojmistrzyni Mandalorian",
+   "seria": "Star Wars",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 15,
+   "nr": "71386",
+   "nazwa": "Zestawy postaci - seria 2",
+   "seria": "Super Mario",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 16,
+   "nr": "71391",
+   "nazwa": "Sterowiec Bowsera - zestaw dodatkowy",
+   "seria": "Super Mario",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 17,
+   "nr": "42118",
+   "nazwa": "Monster Jam Grave Digger",
+   "seria": "Technic",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 18,
+   "nr": "42122",
+   "nazwa": "Jeep Wrangler",
+   "seria": "Technic",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 19,
+   "nr": "42124",
+   "nazwa": "Łazik terenowy",
+   "seria": "Technic",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 20,
+   "nr": "42131",
+   "nazwa": "Buldożer Cat D11T",
+   "seria": "Technic",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 21,
+   "nr": "43102",
+   "nazwa": "Candy Mermaid BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 22,
+   "nr": "43103",
+   "nazwa": "Punk Pirate BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 23,
+   "nr": "43104",
+   "nazwa": "Alien DJ BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 24,
+   "nr": "43105",
+   "nazwa": "Party Llama BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 38,
+   "lp": 25,
+   "nr": "43106",
+   "nazwa": "Unicorn DJ BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 1,
+   "nr": "43107",
+   "nazwa": "Hiphop Robot BeatBox",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 2,
+   "nr": "43113",
+   "nazwa": "K-Pawp Concert",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 3,
+   "nr": "43114",
+   "nazwa": "Punk Pirate Ship",
+   "seria": "VIDIYO",
+   "rok": 2021,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 4,
+   "nr": "21051",
+   "nazwa": "Tokyo",
+   "seria": "Architecture",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 5,
+   "nr": "21052",
+   "nazwa": "Dubai",
+   "seria": "Architecture",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 6,
+   "nr": "75317",
+   "nazwa": "Mandalorianin i Dziecko",
+   "seria": "BrickHeadz",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 7,
+   "nr": "60246",
+   "nazwa": "Posterunek policji",
+   "seria": "City",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 8,
+   "nr": "60264",
+   "nazwa": "Łódź podwodna badaczy oceanu",
+   "seria": "City",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 9,
+   "nr": "60267",
+   "nazwa": "Terenówka na safari",
+   "seria": "City",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 10,
+   "nr": "31103",
+   "nazwa": "Rakietowy samochód",
+   "seria": "Creator",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 11,
+   "nr": "76157",
+   "nazwa": "Wonder Woman vs. Cheetah",
+   "seria": "DC",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 12,
+   "nr": "41916",
+   "nazwa": "Extra DOTS - Series 2",
+   "seria": "DOTS",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 13,
+   "nr": "10931",
+   "nazwa": "Ciężarówka i koparka gąsienicowa",
+   "seria": "DUPLO",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 14,
+   "nr": "41424",
+   "nazwa": "Baza ratownicza",
+   "seria": "Friends",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 15,
+   "nr": "75978",
+   "nazwa": "Ulica Pokątna",
+   "seria": "Harry Potter",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 16,
+   "nr": "10270",
+   "nazwa": "Księgarnia (modular)",
+   "seria": "Icons",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 17,
+   "nr": "10273",
+   "nazwa": "Dom strachu",
+   "seria": "Icons",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 18,
+   "nr": "10275",
+   "nazwa": "Domek elfów",
+   "seria": "Icons",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 19,
+   "nr": "21321",
+   "nazwa": "Międzynarodowa Stacja Kosmiczna",
+   "seria": "Ideas",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 20,
+   "nr": "21322",
+   "nazwa": "Piraci z Zatoki Barakud",
+   "seria": "Ideas",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 21,
+   "nr": "21323",
+   "nazwa": "Fortepian",
+   "seria": "Ideas",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 22,
+   "nr": "21324",
+   "nazwa": "Ulica Sezamkowa 123",
+   "seria": "Ideas",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 23,
+   "nr": "92176",
+   "nazwa": "NASA Apollo Saturn V (reedycja)",
+   "seria": "Ideas",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 24,
+   "nr": "76149",
+   "nazwa": "Groźny Mysterio",
+   "seria": "Marvel",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 39,
+   "lp": 25,
+   "nr": "21161",
+   "nazwa": "Kreatywny warsztat 3.0",
+   "seria": "Minecraft",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 1,
+   "nr": "71700",
+   "nazwa": "Dżunglowy ścigacz",
+   "seria": "Ninjago",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 2,
+   "nr": "71711",
+   "nazwa": "Cybersmok Jaya",
+   "seria": "Ninjago",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 3,
+   "nr": "76895",
+   "nazwa": "Ferrari F8 Tributo",
+   "seria": "Speed Champions",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 4,
+   "nr": "75265",
+   "nazwa": "T-16 Skyhopper kontra mikromyśliwce Bantha",
+   "seria": "Star Wars",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 5,
+   "nr": "75269",
+   "nazwa": "Pojedynek na planecie Mustafar",
+   "seria": "Star Wars",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 6,
+   "nr": "75272",
+   "nazwa": "Myśliwiec TIE Sithów",
+   "seria": "Star Wars",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 7,
+   "nr": "75277",
+   "nazwa": "Hełm Boby Fetta",
+   "seria": "Star Wars",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 8,
+   "nr": "71368",
+   "nazwa": "Toad szuka skarbu - zestaw rozszerzający",
+   "seria": "Super Mario",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 9,
+   "nr": "71369",
+   "nazwa": "Walka w zamku Bowsera - zestaw rozszerzający",
+   "seria": "Super Mario",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 10,
+   "nr": "71374",
+   "nazwa": "Nintendo Entertainment System",
+   "seria": "Super Mario",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 11,
+   "nr": "42107",
+   "nazwa": "Ducati Panigale V4 R",
+   "seria": "Technic",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 12,
+   "nr": "42108",
+   "nazwa": "Żuraw samochodowy",
+   "seria": "Technic",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 13,
+   "nr": "42112",
+   "nazwa": "Betoniarka",
+   "seria": "Technic",
+   "rok": 2020,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 14,
+   "nr": "21043",
+   "nazwa": "San Francisco",
+   "seria": "Architecture",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 15,
+   "nr": "21044",
+   "nazwa": "Paris",
+   "seria": "Architecture",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 16,
+   "nr": "30545",
+   "nazwa": "Fish Free Builds - Make It Yours",
+   "seria": "Archiwum",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 17,
+   "nr": "60215",
+   "nazwa": "Remiza strażacka",
+   "seria": "City",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 18,
+   "nr": "60228",
+   "nazwa": "Centrum lotów kosmicznych",
+   "seria": "City",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 19,
+   "nr": "60229",
+   "nazwa": "Transport i montaż rakiety",
+   "seria": "City",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 20,
+   "nr": "41362",
+   "nazwa": "Supermarket w Heartlake",
+   "seria": "Friends",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 21,
+   "nr": "41364",
+   "nazwa": "Łazik z przyczepką Stephanie",
+   "seria": "Friends",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 22,
+   "nr": "41369",
+   "nazwa": "Dom Mii",
+   "seria": "Friends",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 23,
+   "nr": "41375",
+   "nazwa": "Piracka przygoda w Heartlake",
+   "seria": "Friends",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 24,
+   "nr": "41379",
+   "nazwa": "Restauracja w Heartlake",
+   "seria": "Friends",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 40,
+   "lp": 25,
+   "nr": "75947",
+   "nazwa": "Chatka Hagrida: na ratunek Hardodziobowi",
+   "seria": "Harry Potter",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 1,
+   "nr": "70419",
+   "nazwa": "Wrecked Shrimp Boat",
+   "seria": "Hidden Side",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 2,
+   "nr": "70420",
+   "nazwa": "Graveyard Mystery",
+   "seria": "Hidden Side",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 3,
+   "nr": "10266",
+   "nazwa": "Lądownik księżycowy Apollo 11 NASA",
+   "seria": "Icons",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 4,
+   "nr": "21319",
+   "nazwa": "Central Perk (Przyjaciele)",
+   "seria": "Ideas",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 5,
+   "nr": "75936",
+   "nazwa": ": atak tyranozaura",
+   "seria": "Jurassic World",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 6,
+   "nr": "76115",
+   "nazwa": "Pajęczy Mech kontra Venom",
+   "seria": "Marvel",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 7,
+   "nr": "76123",
+   "nazwa": "Kapitan Ameryka: atak Outriderów",
+   "seria": "Marvel",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 8,
+   "nr": "76125",
+   "nazwa": "Zbroje Iron Mana",
+   "seria": "Marvel",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 9,
+   "nr": "75891",
+   "nazwa": "Chevrolet Camaro ZL1",
+   "seria": "Speed Champions",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 10,
+   "nr": "75254",
+   "nazwa": "Szturmowa maszyna krocząca AT-ST",
+   "seria": "Star Wars",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 11,
+   "nr": "42090",
+   "nazwa": "Monster truck złoczyńców",
+   "seria": "Technic",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 12,
+   "nr": "42100",
+   "nazwa": "Koparka Liebherr R 9800",
+   "seria": "Technic",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 13,
+   "nr": "70824",
+   "nazwa": "Introducing Queen Watevra Wa'Nabi",
+   "seria": "The LEGO Movie",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 14,
+   "nr": "70828",
+   "nazwa": "Pop-Up Party Bus",
+   "seria": "The LEGO Movie",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 15,
+   "nr": "70837",
+   "nazwa": "Shimmer & Shine Sparkle Spa!",
+   "seria": "The LEGO Movie",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 16,
+   "nr": "70838",
+   "nazwa": "Queen Watevra's 'So-Not-Evil' Space Palace",
+   "seria": "The LEGO Movie",
+   "rok": 2019,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 17,
+   "nr": "41452",
+   "nazwa": "Prince Puppycorn Trike",
+   "seria": "Archiwum",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 18,
+   "nr": "60179",
+   "nazwa": "Helikopter medyczny",
+   "seria": "City",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 19,
+   "nr": "60197",
+   "nazwa": "Pociąg pasażerski",
+   "seria": "City",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 20,
+   "nr": "60198",
+   "nazwa": "Pociąg towarowy",
+   "seria": "City",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 21,
+   "nr": "10874",
+   "nazwa": "Pociąg parowy",
+   "seria": "DUPLO",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 22,
+   "nr": "10875",
+   "nazwa": "Pociąg towarowy",
+   "seria": "DUPLO",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 23,
+   "nr": "41154",
+   "nazwa": "Wymarzony zamek Kopciuszka",
+   "seria": "Disney",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 24,
+   "nr": "41329",
+   "nazwa": "Sypialnia Olivii",
+   "seria": "Friends",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 41,
+   "lp": 25,
+   "nr": "41336",
+   "nazwa": "Artystyczna kawiarnia Emmy",
+   "seria": "Friends",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 1,
+   "nr": "41351",
+   "nazwa": "Kreatywny warsztat",
+   "seria": "Friends",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 2,
+   "nr": "75954",
+   "nazwa": "Wielka Sala w Hogwarcie",
+   "seria": "Harry Potter",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 3,
+   "nr": "75884",
+   "nazwa": "1968 Ford Mustang Fastback",
+   "seria": "Speed Champions",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 4,
+   "nr": "75230",
+   "nazwa": "Porg",
+   "seria": "Star Wars",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 5,
+   "nr": "42080",
+   "nazwa": "Maszyna leśna",
+   "seria": "Technic",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 6,
+   "nr": "42081",
+   "nazwa": "Volvo ładowarka kołowa ZEUX",
+   "seria": "Technic",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 7,
+   "nr": "42082",
+   "nazwa": "Dźwig",
+   "seria": "Technic",
+   "rok": 2018,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 8,
+   "nr": "60141",
+   "nazwa": "Posterunek policji",
+   "seria": "City",
+   "rok": 2017,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 9,
+   "nr": "31058",
+   "nazwa": "Potężne dinozaury",
+   "seria": "Creator",
+   "rok": 2017,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 10,
+   "nr": "10255",
+   "nazwa": "Assembly Square (modular)",
+   "seria": "Icons",
+   "rok": 2017,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 11,
+   "nr": "10256",
+   "nazwa": "Tadż Mahal",
+   "seria": "Icons",
+   "rok": 2017,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 12,
+   "nr": "75176",
+   "nazwa": "Resistance Transport Pod",
+   "seria": "Star Wars",
+   "rok": 2017,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 13,
+   "nr": "21028",
+   "nazwa": "New York City",
+   "seria": "Architecture",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 14,
+   "nr": "76054",
+   "nazwa": "Batman: Scarecrow Harvest of Fear",
+   "seria": "Batman",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 15,
+   "nr": "40220",
+   "nazwa": "London Bus",
+   "seria": "Creator",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 16,
+   "nr": "70322",
+   "nazwa": "Axl's Tower Carrier",
+   "seria": "Nexo Knights",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 17,
+   "nr": "75119",
+   "nazwa": "Sergeant Jyn Erso",
+   "seria": "Star Wars",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 18,
+   "nr": "75132",
+   "nazwa": "First Order Battle Pack",
+   "seria": "Star Wars",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 19,
+   "nr": "75147",
+   "nazwa": "StarScavenger",
+   "seria": "Star Wars",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 20,
+   "nr": "75148",
+   "nazwa": "Encounter on Jakku",
+   "seria": "Star Wars",
+   "rok": 2016,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 21,
+   "nr": "31026",
+   "nazwa": "Miasteczko",
+   "seria": "Creator",
+   "rok": 2014,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 22,
+   "nr": "21115",
+   "nazwa": "Pierwsza noc",
+   "seria": "Minecraft",
+   "rok": 2014,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 23,
+   "nr": "41008",
+   "nazwa": "Basen w Heartlake",
+   "seria": "Friends",
+   "rok": 2013,
+   "grupa": 2
+  },
+  {
+   "partia": 42,
+   "lp": 24,
+   "nr": "40762",
+   "nazwa": "Doniczka z rozmaitymi kwiatami",
+   "seria": "Botanicals",
+   "rok": 2025,
+   "grupa": 3
+  },
+  {
+   "partia": 42,
+   "lp": 25,
+   "nr": "40786",
+   "nazwa": "Mikrocentrum zarządzania",
+   "seria": "Ideas",
+   "rok": 2025,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 1,
+   "nr": "912510",
+   "nazwa": "Droideka",
+   "seria": "Star Wars",
+   "rok": 2025,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 2,
+   "nr": "40716",
+   "nazwa": "Alien Planet Habitat",
+   "seria": "Archiwum",
+   "rok": 2024,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 3,
+   "nr": "5008897",
+   "nazwa": "Tic Tac Toe",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2024,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 4,
+   "nr": "562401",
+   "nazwa": "Pizza kitchen",
+   "seria": "Friends",
+   "rok": 2024,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 5,
+   "nr": "562406",
+   "nazwa": "Puppy's Playground",
+   "seria": "Friends",
+   "rok": 2024,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 6,
+   "nr": "10785",
+   "nazwa": "Bakey with Cakey Fun",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 7,
+   "nr": "10786",
+   "nazwa": "Gabby & MerCat's Ship & Spa",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 8,
+   "nr": "30630",
+   "nazwa": "Aquadirt Racer",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 9,
+   "nr": "40596",
+   "nazwa": "Magic Maze",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 10,
+   "nr": "75575",
+   "nazwa": "Ilu Discovery",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 11,
+   "nr": "75576",
+   "nazwa": "Skimwing Adventure",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 12,
+   "nr": "75577",
+   "nazwa": "Mako Submarine​",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 13,
+   "nr": "75578",
+   "nazwa": "Metkayina Reef Home",
+   "seria": "Archiwum",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 14,
+   "nr": "76259",
+   "nazwa": "Batman Construction Figure",
+   "seria": "Batman",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 15,
+   "nr": "40616",
+   "nazwa": "Harry Potter i Cho Chang",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 16,
+   "nr": "40617",
+   "nazwa": "Draco Malfoy i Cedric Diggory",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 17,
+   "nr": "40618",
+   "nazwa": "Kingsley Shacklebolt i Nimfadora Tonks",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 18,
+   "nr": "40620",
+   "nazwa": "Cruella i Diabolina",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 19,
+   "nr": "40621",
+   "nazwa": "Vaiana i Merida",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 20,
+   "nr": "40623",
+   "nazwa": "Bohaterowie bitwy o Endor",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 21,
+   "nr": "40624",
+   "nazwa": "Alex",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 22,
+   "nr": "40625",
+   "nazwa": "Llama",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 23,
+   "nr": "40626",
+   "nazwa": "Zombie",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 24,
+   "nr": "40627",
+   "nazwa": "Sonic the Hedgehog",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 43,
+   "lp": 25,
+   "nr": "40628",
+   "nazwa": "Miles „Tails\" Prower",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 1,
+   "nr": "40630",
+   "nazwa": "Frodo i Gollum",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 2,
+   "nr": "40631",
+   "nazwa": "Gandalf Szary i Balrog",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 3,
+   "nr": "40632",
+   "nazwa": "Aragorn i Arwena",
+   "seria": "BrickHeadz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 4,
+   "nr": "30639",
+   "nazwa": "Dog Park and Scooter",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 5,
+   "nr": "30640",
+   "nazwa": "Samochód wyścigowy",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 6,
+   "nr": "40582",
+   "nazwa": "4x4 Off-Road Ambulance Rescue",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 7,
+   "nr": "60356",
+   "nazwa": "Motocykl kaskaderski z niedźwiedziem",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 8,
+   "nr": "60358",
+   "nazwa": "Cybermotocykl kaskaderski",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 9,
+   "nr": "60359",
+   "nazwa": "Wyzwanie kaskaderskie – rampa z kołem do przeskakiwania",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 10,
+   "nr": "60363",
+   "nazwa": "Lordziarnia",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 11,
+   "nr": "60364",
+   "nazwa": "Uliczny skatepark",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 12,
+   "nr": "60365",
+   "nazwa": "Apartamentowiec",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 13,
+   "nr": "60370",
+   "nazwa": "Posterunek policji – pościg",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 14,
+   "nr": "60375",
+   "nazwa": "Remiza strażacka i wóz strażacki",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 15,
+   "nr": "60376",
+   "nazwa": "Skuter śnieżny badacza Arktyki",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 16,
+   "nr": "60377",
+   "nazwa": "Łódź do nurkowania badacza",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 17,
+   "nr": "60382",
+   "nazwa": "Karetka weterynaryjna",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 18,
+   "nr": "60383",
+   "nazwa": "Elektryczny samochód sportowy",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 19,
+   "nr": "60384",
+   "nazwa": "Pingwinia furgonetka ze slushem",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 20,
+   "nr": "60385",
+   "nazwa": "Koparka",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 21,
+   "nr": "60386",
+   "nazwa": "Ciężarówka recyklingowa",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 22,
+   "nr": "60387",
+   "nazwa": "Przygody samochodem terenowym z napędem 4x4",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 23,
+   "nr": "60388",
+   "nazwa": "Ciężarówka na turniej gier",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 24,
+   "nr": "60390",
+   "nazwa": "Traktor w parku",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 44,
+   "lp": 25,
+   "nr": "60392",
+   "nazwa": "Motocykl policyjny – pościg za samochodem",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 1,
+   "nr": "60393",
+   "nazwa": "Wóz strażacki 4x4 – misja ratunkowa",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 2,
+   "nr": "60394",
+   "nazwa": "Quad i siedlisko wydry",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 3,
+   "nr": "60395",
+   "nazwa": "Wielki zestaw wyścigowy",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 4,
+   "nr": "60396",
+   "nazwa": "Podrasowane samochody wyścigowe",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 5,
+   "nr": "60398",
+   "nazwa": "Domek rodzinny i samochód elektryczny",
+   "seria": "City",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 6,
+   "nr": "11031",
+   "nazwa": "Kreatywna małpia zabawa",
+   "seria": "Classic",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 7,
+   "nr": "11033",
+   "nazwa": "Kreatywny wszechświat fantazji",
+   "seria": "Classic",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 8,
+   "nr": "11974",
+   "nazwa": "Polar Bear",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 9,
+   "nr": "11975",
+   "nazwa": "Tractor",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 10,
+   "nr": "30641",
+   "nazwa": "Panda",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 11,
+   "nr": "30642",
+   "nazwa": "Pociąg urodzinowy",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 12,
+   "nr": "30643",
+   "nazwa": "Wielkanocne kurczaki",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 13,
+   "nr": "30644",
+   "nazwa": "Zabytkowy samochód",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 14,
+   "nr": "31135",
+   "nazwa": "Motocykl vintage",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 15,
+   "nr": "31143",
+   "nazwa": "Budka dla ptaków",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 16,
+   "nr": "40602",
+   "nazwa": "Zimowe stoisko",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 17,
+   "nr": "40650",
+   "nazwa": "Land Rover Classic Defender",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 18,
+   "nr": "40651",
+   "nazwa": "Pocztówka z Australii",
+   "seria": "Creator",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 19,
+   "nr": "41803",
+   "nazwa": "Extra DOTS Series 8 – Glitter and Shine",
+   "seria": "DOTS",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 20,
+   "nr": "41807",
+   "nazwa": "Bracelet Designer Mega Pack",
+   "seria": "DOTS",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 21,
+   "nr": "30636",
+   "nazwa": "Z-Blob and Bunchu Spider Escape",
+   "seria": "DREAMZzz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 22,
+   "nr": "71456",
+   "nazwa": "Mrs. Castillo's Turtle Van",
+   "seria": "DREAMZzz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 23,
+   "nr": "71469",
+   "nazwa": "Nightmare Shark Ship",
+   "seria": "DREAMZzz",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 24,
+   "nr": "10411",
+   "nazwa": "Poznaj kulturę chińską",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 45,
+   "lp": 25,
+   "nr": "10935",
+   "nazwa": "Alfabetowe miasto",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 1,
+   "nr": "10981",
+   "nazwa": "Rosnąca Marchewka",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 2,
+   "nr": "10982",
+   "nazwa": "Traktor z warzywami i owocami",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 3,
+   "nr": "10984",
+   "nazwa": "Ogród uprawowy",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 4,
+   "nr": "10985",
+   "nazwa": "Turbina wiatrowa i samochód elektryczny",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 5,
+   "nr": "10986",
+   "nazwa": "Dom rodzinny na kółkach",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 6,
+   "nr": "10987",
+   "nazwa": "Ciężarówka recyklingowa",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 7,
+   "nr": "10988",
+   "nazwa": "Przejażdżka autobusem",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 8,
+   "nr": "10990",
+   "nazwa": "Budowa",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 9,
+   "nr": "10995",
+   "nazwa": "Spider-Man - zabawa w dom",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 10,
+   "nr": "10996",
+   "nazwa": "Zygzak McQueen i Złomek – myjnia",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 11,
+   "nr": "10997",
+   "nazwa": "Disney Kempingowa przygoda",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 12,
+   "nr": "10998",
+   "nazwa": "Magiczny zamek 3 w 1",
+   "seria": "DUPLO",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 13,
+   "nr": "30646",
+   "nazwa": "Vaiana - zatoka delfina",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 14,
+   "nr": "40600",
+   "nazwa": "Świętowanie stulecia Disneya",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 15,
+   "nr": "40659",
+   "nazwa": "Miniparowiec Willie",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 16,
+   "nr": "43210",
+   "nazwa": "Katamaran Vaiany",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 17,
+   "nr": "43218",
+   "nazwa": "Magiczna karuzela Anny i Elzy",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 18,
+   "nr": "43227",
+   "nazwa": "Ikony złoczyńców",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 19,
+   "nr": "43232",
+   "nazwa": "Lot Piotrusia Pana i Wendy nad Londynem",
+   "seria": "Disney",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 20,
+   "nr": "40583",
+   "nazwa": "Houses of the World 1",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 21,
+   "nr": "40585",
+   "nazwa": "World of Wonders",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 22,
+   "nr": "40590",
+   "nazwa": "Houses of the World 2",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 23,
+   "nr": "40599",
+   "nazwa": "Houses of the World 4",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 24,
+   "nr": "40605",
+   "nazwa": "Lunar New Year VIP Add-On Pack",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 46,
+   "lp": 25,
+   "nr": "40607",
+   "nazwa": "Summer Fun VIP Add-On Pack",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 1,
+   "nr": "40609",
+   "nazwa": "Christmas Fun VIP Add-On Pack",
+   "seria": "Ekskluzywne i promocyjne",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 2,
+   "nr": "30634",
+   "nazwa": "Kwiaty przyjaźni",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 3,
+   "nr": "41723",
+   "nazwa": "Cukiernia z pączkami",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 4,
+   "nr": "41736",
+   "nazwa": "Morskie centrum ratunkowe",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 5,
+   "nr": "41740",
+   "nazwa": "Pokój Aliyi",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 6,
+   "nr": "41742",
+   "nazwa": "Koci hotel",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 7,
+   "nr": "41743",
+   "nazwa": "Salon fryzjerski",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 8,
+   "nr": "41746",
+   "nazwa": "Szkolenie koni",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 9,
+   "nr": "41753",
+   "nazwa": "Naleśnikarnia",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 10,
+   "nr": "41755",
+   "nazwa": "Pokój Novy",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 11,
+   "nr": "41759",
+   "nazwa": "Autobus miejski z Heartlake",
+   "seria": "Friends",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 12,
+   "nr": "76409",
+   "nazwa": "Flaga Gryffindoru",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 13,
+   "nr": "76411",
+   "nazwa": "Flaga Ravenclawu",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 14,
+   "nr": "76412",
+   "nazwa": "Flaga Hufflepuffu",
+   "seria": "Harry Potter",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 15,
+   "nr": "10317",
+   "nazwa": "Land Rover Classic Defender 90",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 16,
+   "nr": "10321",
+   "nazwa": "Chevrolet Corvette 1961",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 17,
+   "nr": "40580",
+   "nazwa": "Krążownik Blacktron",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 18,
+   "nr": "40581",
+   "nazwa": "BIONICLE – Tahu i Takua",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 19,
+   "nr": "40586",
+   "nazwa": "Ciężarówka do przeprowadzek",
+   "seria": "Icons",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 20,
+   "nr": "21341",
+   "nazwa": "Hokus Pokus: chata sióstr Sanderson",
+   "seria": "Ideas",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 21,
+   "nr": "21343",
+   "nazwa": "Wioska Wikingów",
+   "seria": "Ideas",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 22,
+   "nr": "76958",
+   "nazwa": "Zasadzka na dilofozaura",
+   "seria": "Jurassic World",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 23,
+   "nr": "10789",
+   "nazwa": "Samochód Spider-Mana i Doc Ock",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 24,
+   "nr": "10790",
+   "nazwa": "Drużyna Spider-Mana w latarni Zielonego Goblina",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 47,
+   "lp": 25,
+   "nr": "10791",
+   "nazwa": "Mobilna kwatera drużyny Spider-Mana",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 1,
+   "nr": "76232",
+   "nazwa": "Gracik",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 2,
+   "nr": "76241",
+   "nazwa": "Mechaniczna zbroja Hulka",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 3,
+   "nr": "76242",
+   "nazwa": "Mechaniczna zbroja Thanosa",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 4,
+   "nr": "76245",
+   "nazwa": "Upiorny Jeździec - mech i motor",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 5,
+   "nr": "76247",
+   "nazwa": "Hulkbuster: bitwa o Wakandę",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 6,
+   "nr": "76256",
+   "nazwa": "Figurka Ant-Mana do zbudowania",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 7,
+   "nr": "76260",
+   "nazwa": "Motocykle Czarnej Wdowy i Kapitana Ameryki",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 8,
+   "nr": "76267",
+   "nazwa": "Avengers Kalendarz adwentowy 2023",
+   "seria": "Marvel",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 9,
+   "nr": "21241",
+   "nazwa": "Pszczeli ul",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 10,
+   "nr": "21242",
+   "nazwa": "Arena Endu",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 11,
+   "nr": "21243",
+   "nazwa": "Ośnieżone szczyty",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 12,
+   "nr": "21244",
+   "nazwa": "Bastion miecza",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 13,
+   "nr": "21247",
+   "nazwa": "Dom aksolotla",
+   "seria": "Minecraft",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 14,
+   "nr": "80047",
+   "nazwa": "Mei's Guardian Dragon",
+   "seria": "Monkie Kid",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 15,
+   "nr": "30649",
+   "nazwa": "Lodowy smok",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 16,
+   "nr": "71777",
+   "nazwa": "Smocza moc Kaia - salto spinjitzu",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 17,
+   "nr": "71778",
+   "nazwa": "Smocza moc Kaia - salto spinjitzu",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 18,
+   "nr": "71779",
+   "nazwa": "Smocza moc Lloyda - obrót spinjitzu",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 19,
+   "nr": "71781",
+   "nazwa": "Starcie Lloyda z Mechem EVO",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 20,
+   "nr": "71782",
+   "nazwa": "Smok Ziemi Cole'a EVO",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 21,
+   "nr": "71784",
+   "nazwa": "Odrzutowiec ponaddźwiękowy Jay’a EVO",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 22,
+   "nr": "71790",
+   "nazwa": "Ogar Łowców Smoków",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 23,
+   "nr": "71791",
+   "nazwa": "Smocza moc Zane’a - wyścigówka spinjitzu",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 24,
+   "nr": "71792",
+   "nazwa": "Mech Sory zmieniający się w motocykl wyścigowy",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 48,
+   "lp": 25,
+   "nr": "71795",
+   "nazwa": "Świątynia smoczej energii",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 1,
+   "nr": "71800",
+   "nazwa": "Smok wodny Nyi EVO",
+   "seria": "Ninjago",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 2,
+   "nr": "40575",
+   "nazwa": "Rok królika",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 3,
+   "nr": "40584",
+   "nazwa": "Urodzinowa diorama",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 4,
+   "nr": "40587",
+   "nazwa": "Easter Basket",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 5,
+   "nr": "40603",
+   "nazwa": "Zimowa przejażdżka powozem",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 6,
+   "nr": "40604",
+   "nazwa": "Zestaw świątecznych ozdób",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 7,
+   "nr": "40643",
+   "nazwa": "Księżycowy królik",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 8,
+   "nr": "40644",
+   "nazwa": "Piñata",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 9,
+   "nr": "80110",
+   "nazwa": "Model kolekcjonerski na nowy rok księżycowy",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 10,
+   "nr": "80111",
+   "nazwa": "Parada z okazji nowego roku księżycowego",
+   "seria": "Seasonal",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 11,
+   "nr": "30657",
+   "nazwa": "McLaren Solus GT",
+   "seria": "Speed Champions",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 12,
+   "nr": "30654",
+   "nazwa": "Myśliwiec X-Wing",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 13,
+   "nr": "40591",
+   "nazwa": "Gwiazda Śmierci II",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 14,
+   "nr": "75344",
+   "nazwa": "Mikromyśliwiec kosmiczny Boby Fetta",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 15,
+   "nr": "75346",
+   "nazwa": "Piracki myśliwiec",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 16,
+   "nr": "75352",
+   "nazwa": "Diorama: Sala tronowa Imperatora",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 17,
+   "nr": "75353",
+   "nazwa": "Diorama: Pościg na ścigaczu przez Endor",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 18,
+   "nr": "75354",
+   "nazwa": "Kanonierka Gwardii Coruscańskiej",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 19,
+   "nr": "75357",
+   "nazwa": "Duch i Upiór II",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 20,
+   "nr": "75360",
+   "nazwa": "Jedi Starfighter Yody",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 21,
+   "nr": "75362",
+   "nazwa": "Prom kosmiczny Jedi T-6 Ahsoki Tano",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 22,
+   "nr": "75368",
+   "nazwa": "Mech Dartha Vadera",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 23,
+   "nr": "912311",
+   "nazwa": "TIE Advanced",
+   "seria": "Star Wars",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 24,
+   "nr": "71415",
+   "nazwa": "Mario - lodowy strój i kraina lodu - zestaw rozszerzający",
+   "seria": "Super Mario",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 49,
+   "lp": 25,
+   "nr": "71416",
+   "nazwa": "Przejażdżka po fali lawy - zestaw rozszerzający",
+   "seria": "Super Mario",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 50,
+   "lp": 1,
+   "nr": "30655",
+   "nazwa": "Wózek widłowy z paletą",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 3
+  },
+  {
+   "partia": 50,
+   "lp": 2,
+   "nr": "42155",
+   "nazwa": "BATMAN - BATMOTOR",
+   "seria": "Technic",
+   "rok": 2023,
+   "grupa": 3
+  }
+ ]
+}

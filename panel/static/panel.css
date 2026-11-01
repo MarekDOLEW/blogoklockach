@@ -1,0 +1,103 @@
+/* Panel tylkoklocki.pl — barwy i kroje z redakcja/system-wizualny.md */
+:root {
+  --papier: #f6f7f9; --karta: #ffffff; --granat: #17233f; --granat-60: #4a5670;
+  --zolty: #ffc933; --zolty-ciemny: #e6ae00; --czerwien: #e0312f; --zielen: #0f7a43;
+  --linia: #dde1e8; --pomarancz: #c96a00;
+  --wyswietl: 'Archivo', system-ui, sans-serif; --tekst: 'Instrument Sans', system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--papier); color: var(--granat); font: 15px/1.5 var(--tekst); }
+a { color: var(--granat); text-decoration-color: var(--zolty-ciemny); text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+code { font: 13px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; background: #eef0f4; padding: 1px 4px; border-radius: 4px; }
+pre { background: var(--granat); color: #fff; padding: 12px 14px; border-radius: 8px; overflow-x: auto; }
+pre code { background: none; color: inherit; padding: 0; }
+h1, h2, h3, .logo span, .wartosc { font-family: var(--wyswietl); }
+h1 { font-size: 28px; margin: 4px 0 18px; }
+h2 { font-size: 18px; margin: 0 0 10px; }
+.szary { color: var(--granat-60); }
+
+.gora { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 20px; flex-wrap: wrap; padding: 10px 24px; background: var(--granat); }
+.logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.logo img { filter: brightness(0) invert(1); height: 26px; width: auto; }
+.logo span { color: var(--granat); background: var(--zolty); font-weight: 800; font-size: 13px; padding: 2px 8px; border-radius: 4px; }
+.gora nav { display: flex; gap: 4px; flex-wrap: wrap; flex: 1; }
+.gora nav a, .gora nav span { color: #fff; text-decoration: none; padding: 6px 12px; border-radius: 6px; font-weight: 600; font-size: 14px; }
+.gora nav a:hover { background: #2c3a5c; }
+.gora nav a[aria-current] { background: var(--zolty); color: var(--granat); }
+.gora nav .wkrotce { opacity: .45; cursor: default; }
+.kto { color: #c9cfdb; font-size: 13px; }
+
+main { max-width: 1240px; margin: 0 auto; padding: 24px; }
+.stopka { max-width: 1240px; margin: 0 auto; padding: 8px 24px 32px; color: var(--granat-60); font-size: 13px; }
+
+.kafle { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px; margin-bottom: 18px; }
+.kafel { background: var(--karta); border: 1px solid var(--linia); border-left: 5px solid var(--linia); border-radius: 10px; padding: 12px 14px; }
+.kafel.ok { border-left-color: var(--zielen); } .kafel.uwaga { border-left-color: var(--zolty-ciemny); } .kafel.stare { border-left-color: var(--czerwien); }
+.etykieta { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--granat-60); font-weight: 600; }
+.wartosc { font-size: 24px; font-weight: 800; margin: 2px 0; }
+.dopisek { font-size: 13px; color: var(--granat-60); }
+
+.karta { background: var(--karta); border: 1px solid var(--linia); border-radius: 12px; padding: 18px 20px; margin-bottom: 18px; }
+.dwie { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+.dwie > .karta { margin-bottom: 18px; }
+@media (max-width: 900px) { .dwie { grid-template-columns: 1fr; } main { padding: 16px; } .gora { padding: 10px 16px; } }
+
+.tabela { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th { text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .03em; color: var(--granat-60); border-bottom: 2px solid var(--linia); padding: 6px 8px; }
+td { border-bottom: 1px solid var(--linia); padding: 7px 8px; vertical-align: top; }
+td.liczba, th.liczba { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr.alarm td { background: #fdeceb; }
+tr.zrobione td { color: var(--granat-60); }
+tr.zrobione td:last-child { color: var(--zielen); font-weight: 600; }
+
+.kropka { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: var(--linia); margin-right: 7px; vertical-align: 1px; }
+.kropka.ok { background: var(--zielen); } .kropka.uwaga { background: var(--zolty-ciemny); } .kropka.stare { background: var(--czerwien); }
+.znacznik { display: inline-block; font: 700 11px/1.6 var(--wyswietl); letter-spacing: .04em; background: var(--granat); color: #fff; padding: 0 7px; border-radius: 4px; vertical-align: 2px; }
+
+.lista { list-style: none; padding: 0; margin: 0; }
+.lista li { padding: 7px 0; border-bottom: 1px solid var(--linia); }
+.lista li:last-child { border-bottom: 0; }
+.wpisy .skrot { color: var(--granat-60); font-size: 14px; margin-top: 2px; }
+
+.pasek { height: 8px; background: #eef0f4; border-radius: 4px; overflow: hidden; min-width: 80px; }
+.pasek span { display: block; height: 100%; background: var(--zielen); }
+
+.runnery-naglowek, .runner > summary { display: grid; grid-template-columns: minmax(260px, 2fr) 110px minmax(220px, 2fr); gap: 12px; align-items: start; }
+.runnery-naglowek { font-size: 12px; text-transform: uppercase; color: var(--granat-60); font-weight: 600; padding: 0 16px 6px; }
+.runner { background: var(--karta); border: 1px solid var(--linia); border-radius: 10px; margin-bottom: 8px; }
+.runner > summary { cursor: pointer; list-style: none; padding: 12px 16px; }
+.runner > summary::-webkit-details-marker { display: none; }
+.runner[open] > summary { border-bottom: 1px solid var(--linia); }
+.runner .nazwa { font-weight: 600; }
+.szczegoly { padding: 12px 16px 16px; }
+dl { display: grid; grid-template-columns: 220px 1fr; gap: 4px 12px; margin: 0 0 10px; font-size: 14px; }
+dt { color: var(--granat-60); }
+dd { margin: 0; }
+@media (max-width: 700px) { .runnery-naglowek { display: none; } .runner > summary { grid-template-columns: 1fr; gap: 2px; } dl { grid-template-columns: 1fr; } }
+
+details.prompt, details.zasada, details.partia { border-top: 1px solid var(--linia); padding: 8px 0; }
+details > summary { cursor: pointer; }
+details.partia > summary { display: grid; grid-template-columns: 90px 1fr 60px 160px; gap: 12px; align-items: center; font-weight: 600; }
+@media (max-width: 700px) { details.partia > summary { grid-template-columns: 80px 1fr 50px; } details.partia > summary .pasek { grid-column: 1 / -1; } .karta { padding: 14px; } }
+.md { font-size: 14px; }
+.md h2 { font-size: 16px; margin-top: 14px; } .md h3, .md h4 { font-size: 15px; margin: 12px 0 4px; }
+.md blockquote { border-left: 4px solid var(--zolty); margin: 8px 0; padding: 2px 12px; color: var(--granat-60); }
+
+.wpis { background: var(--karta); border: 1px solid var(--linia); border-radius: 12px; padding: 14px 18px; margin-bottom: 12px; scroll-margin-top: 80px; }
+.wpis h2 { font-size: 16px; }
+.wpis:target { border-color: var(--zolty-ciemny); box-shadow: 0 0 0 3px #ffe9a8; }
+
+.filtry { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
+input[type=search], select, textarea { font: inherit; color: inherit; border: 1px solid var(--linia); border-radius: 8px; padding: 8px 10px; background: #fff; }
+input[type=search] { flex: 1; min-width: 220px; }
+textarea { width: 100%; display: block; margin-top: 4px; }
+
+.wgraj { display: grid; gap: 12px; }
+.upuść { display: block; border: 2px dashed var(--linia); border-radius: 12px; padding: 32px; text-align: center; cursor: pointer; background: var(--papier); }
+.upuść.nad { border-color: var(--zolty-ciemny); background: #fff8e1; }
+.upuść input { display: none; }
+button { font: 700 15px var(--wyswietl); background: var(--zolty); color: var(--granat); border: 0; border-radius: 8px; padding: 10px 22px; cursor: pointer; justify-self: start; }
+button:hover { background: var(--zolty-ciemny); }
+button:disabled { opacity: .5; cursor: wait; }

@@ -1,0 +1,132 @@
+{
+ "_meta": {
+  "opis": "Rejestr publikacji social media tylkoklocki.pl: co, kiedy i gdzie poszło, do kiedy zostaje i co trzeba zdjąć. Czyta go panel (panel.tylkoklocki.pl → Social).",
+  "zasady": "Wpisy dopisujemy przy każdej publikacji (append-only, jak src/data). Zmienia się tylko pole `stan` i `zarchiwizowano`. Zasady publikacji: .claude/skills/klocki-social/SKILL.md; termin archiwizacji: posty i karuzele z okazjami dnia po 14 dniach, recenzje mogą zostać, post z kodem rabatowym zdejmujemy po wygaśnięciu kodu.",
+  "stany": [
+   "opublikowane",
+   "do archiwizacji",
+   "zarchiwizowane",
+   "zostaje"
+  ],
+  "zaktualizowano": "2026-11-01"
+ },
+ "wpisy": [
+  {
+   "id": "2026-10-15-karuzela-okazje",
+   "data": "2026-10-15",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "karuzela",
+   "temat": "„5 zestawów LEGO nawet 600 zł taniej” — okazje dnia",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "2026-10-29",
+    "powod": "okazje dnia — 14 dni",
+    "przypomnienie": "trig_01Ne79zcUayDLBU7VJsBPZr9 (odpalone 29.10)"
+   },
+   "stan": "do archiwizacji",
+   "uwagi": "Przypomnienie poszło 29.10; w repo brak potwierdzenia, że post zarchiwizowano. Na FB to post „Multimedia” z 7 zdjęciami."
+  },
+  {
+   "id": "2026-10-20-karuzela-okazje",
+   "data": "2026-10-20",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "karuzela",
+   "temat": "„5 zestawów LEGO nawet 400 zł taniej” — okazje dnia",
+   "zestawy": [
+    "McLaren MCL39",
+    "Tower Bridge",
+    "Toy Story Cienki",
+    "Kantyna Mos Eisley",
+    "21592"
+   ],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "2026-11-03",
+    "powod": "okazje dnia — 14 dni",
+    "przypomnienie": "trig_01PC9Tv6sxXFite1ztoiGLmv (03.11 09:00)"
+   },
+   "stan": "opublikowane",
+   "uwagi": "Na FB post z 7 zdjęciami."
+  },
+  {
+   "id": "2026-10-26-post-75446",
+   "data": "2026-10-26",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "post",
+   "temat": "Grogu 75446 za 319 zł (x-kom, kod black-weeks2)",
+   "zestawy": [
+    "75446"
+   ],
+   "link": "https://tylkoklocki.pl/zestaw/75446/",
+   "pliki": "materialy/social/2026-10-26/post-75446-grogu.png",
+   "zrobione_w": "Code (grafika), Marek (publikacja)",
+   "archiwizacja": {
+    "termin": "2026-11-02",
+    "powod": "kod black-weeks2 ważny do 01.11 włącznie — od 02.11 cena z posta nie obowiązuje",
+    "przypomnienie": "trig_01AhWghzQtvjpBzgEK9YG8p7 (09.11 09:00)"
+   },
+   "stan": "opublikowane",
+   "uwagi": "Przypomnienie ustawione na 14 dni (09.11), ale kod wygasa 01.11 — post warto zdjąć wcześniej."
+  },
+  {
+   "id": "2026-10-26-rolka-75446",
+   "data": "2026-10-26",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "rolka",
+   "temat": "Deal alert: Grogu 75446 −43% z kodem",
+   "zestawy": [
+    "75446"
+   ],
+   "link": "https://tylkoklocki.pl/zestaw/75446/",
+   "pliki": "materialy/rolki/wyjscie/75446/renders/deal-75446.mp4 (poza repo, generuje scripts/rolka-deal.mjs)",
+   "zrobione_w": "Code (rolka-deal.mjs), Marek (publikacja)",
+   "archiwizacja": {
+    "termin": "2026-11-02",
+    "powod": "kod black-weeks2 ważny do 01.11 włącznie — od 02.11 cena z posta nie obowiązuje",
+    "przypomnienie": "trig_01AhWghzQtvjpBzgEK9YG8p7 (09.11 09:00)"
+   },
+   "stan": "opublikowane",
+   "uwagi": ""
+  },
+  {
+   "id": "2026-10-26-karuzela-75439",
+   "data": "2026-10-26",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "karuzela",
+   "temat": "Recenzja 75439 Popiersie Dartha Vadera (7 slajdów)",
+   "zestawy": [
+    "75439"
+   ],
+   "link": "https://tylkoklocki.pl/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/",
+   "pliki": "materialy/social/2026-10-26/karuzela-75439-vader-01..07.png",
+   "zrobione_w": "Code (grafiki), Marek (publikacja)",
+   "archiwizacja": {
+    "termin": "",
+    "powod": "recenzja może zostać; slajd 6 ma datowaną cenę 148,94 zł z 26.10",
+    "przypomnienie": "trig_01AhWghzQtvjpBzgEK9YG8p7 (09.11 — pytanie, czy zostawić)"
+   },
+   "stan": "zostaje",
+   "uwagi": ""
+  }
+ ]
+}

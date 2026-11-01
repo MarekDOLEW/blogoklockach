@@ -44,6 +44,7 @@ Na prośbę "paczka social na tydzień" wygeneruj:
 - Deale gorące publikujemy w ciągu 2 h od wykrycia przez łowcę — szybkość to przewaga.
 - Oznaczanie treści reklamowych zgodnie z wytycznymi UOKiK (#materiałpartnerski przy linkach afiliacyjnych).
 - Materiały wideo/zdjęcia setów: własna kolekcja + panel partnerski LEGO. Nie używamy cudzych nagrań.
+- **Każdą publikację dopisz do `materialy/social/rejestr.json`** (data, platformy, format, temat, link, termin archiwizacji, stan). Termin: okazje dnia +14 dni, post z kodem rabatowym — dzień po wygaśnięciu kodu, recenzje mogą zostać. Po zarchiwizowaniu zmień `stan` na „zarchiwizowane”. Rejestr czyta panel (`panel.tylkoklocki.pl` → Social) i pokazuje, co jest po terminie.
 
 ## Rolki wideo — format produkcyjny (od 14.10.2026)
 

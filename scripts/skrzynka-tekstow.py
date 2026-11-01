@@ -15,6 +15,7 @@ Polecenia:
                                        wypisuje JSON z linkami albo problemami
   powiadom <wynik.json>             — krótki mail (same linki albo lista problemów) do odbiorców
                                        z klucza `teksty` w src/data/raporty_mail.json
+  rozpakuj <plik.zip> <katalog>     — zip wgrany przez panel (scripts/panel-wplywy.mjs), te same reguły co w mailu
 
 Od 30.10.2026 ten sam obieg przyjmuje opisy zestawów P07 jako .md (układ: „# LEGO <nr> <nazwa>”,
 „## Opis zestawu”, „## Metryka zestawu” z tabelą, „## FAQ”). Załącznik z nagłówkiem „## Metryka zestawu”
@@ -310,6 +311,10 @@ if __name__ == '__main__':
         print(json.dumps(publikuj(a[1], sucho='--sucho' in a), ensure_ascii=False, indent=1))
     elif a[:1] == ['powiadom'] and len(a) == 2:
         powiadom(a[1])
+    elif a[:1] == ['rozpakuj'] and len(a) == 3:
+        # pliki wgrane przez panel (scripts/panel-wplywy.mjs): zip rozpakowany tak samo jak załącznik maila
+        os.makedirs(a[2], exist_ok=True)
+        print(json.dumps(rozpakuj_zip(open(a[1], 'rb').read(), a[2]), ensure_ascii=False))
     else:
         print(__doc__)
         sys.exit(2)

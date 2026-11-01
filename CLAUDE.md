@@ -126,6 +126,9 @@ sprawdzamy, a gdy sprawdzić się nie da, piszemy „nie sprawdzono”.
   runner cyklicznie, build automatycznie, czy człowiek na żądanie.
 - `materialy/README.md` — rozdział na treści trwałe, datowane raporty
   i pliki generowane przez skrypty, plus gdzie wrzucać nowe.
+- `panel/` — panel wewnętrzny `panel.tylkoklocki.pl` (Marek i Piotr, za Cloudflare
+  Access): runnery, opisy, social, dziennik, wgrywanie plików. Osobny worker
+  (`panel/wrangler.jsonc`), czyta tylko repo; zasady i wdrożenie w `panel/README.md`.
 
 ## Zadania cykliczne
 

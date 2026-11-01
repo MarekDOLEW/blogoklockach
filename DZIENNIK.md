@@ -153,6 +153,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-01 · CODE · Panel panel.tylkoklocki.pl — wersja 1 w repo, czeka na Access
+
+**Panel wewnętrzny dla Marka i Piotra jest w `panel/`: zakładki Dziś, Runnery, Opisy, Social, Wgraj, Dziennik (Artykuły, Statystyki, Afiliacje, Ceny — w drugim kroku).** Decyzje Marka: osobna subdomena, logowanie Cloudflare Access, Piotr widzi wszystko, pliki z panelu publikują się od razu, bez przychodów na razie. Osobny worker (`panel/wrangler.jsonc`) — serwisu i `src/worker.js` nie dotyka. Bez `ACCESS_TEAM`/`ACCESS_AUD` panel odpowiada 503 każdemu.
+- Wgrane pliki → R2 `_panel/wplywy/` → automat „Skrzynka tekstów Piotra” (prompt rozszerzony 01.11 o `scripts/panel-wplywy.mjs`) → ta sama publikacja co z maila; `.docx/.pdf` czekają na sesję Code.
+- Nowy rejestr social: `materialy/social/rejestr.json` (5 publikacji od 15.10); skill `klocki-social` każe dopisywać każdą publikację — **paczkę skilla trzeba wgrać ponownie na claude.ai** (`node scripts/spakuj-skille.mjs`), żeby Cowork też dopisywał.
+- Social po terminie: karuzela z 15.10 (przypomnienie poszło 29.10, archiwizacja niepotwierdzona); post i rolka Grogu z kodem black-weeks2 — kod ważny do 01.11, do zdjęcia od 02.11 (przypomnienie stoi na 09.11).
+**Dla drugiej strony:** Marek — 4 kroki w panelu Cloudflare z `panel/README.md` (Zero Trust Free, aplikacja Access dla panel.tylkoklocki.pl, worker `tylkoklocki-panel` z repo, potem nazwa zespołu + AUD do sesji Code).
 ## 2026-11-01 10:20 · DANE WT · Do zrobienia
 
 **Feed Ceneo (Tradedoubler, fid 256472) odpowiada `PF_392 „Requester is not connected to Feed"` — ten sam wzorzec, co Lidl przed akceptem 17–18.09.2026 (RUNBOOK, „Lidl przez Tradedoubler").**
