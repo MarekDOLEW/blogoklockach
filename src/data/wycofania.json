@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-10-26",
+  "aktualizacja": "2026-11-02",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -129,9 +129,10 @@
    "nazwa": "Magia Disneya",
    "seria": "Ideas",
    "elementy": 1103,
-   "kiedy": "2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Zestaw trafił oficjalnie do działu ostatnich sztuk na lego.com, więc galeria disnejowskich bohaterów ma już wyznaczoną metę i lepiej nie odkładać zakupu do świąt."
+   "uwagi": "Magia Disneya zeszła ze sklepu LEGO przed zapowiadanym terminem — zestaw rocznicowy Disneya znika z rynku szybciej, niż sugerował kalendarz.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-13 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "21353",
@@ -1509,30 +1510,33 @@
    "nazwa": "Avengers: Koniec gry – ostateczna bitwa",
    "seria": "Marvel",
    "elementy": 621,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Finałowe starcie z Thanosem to zestaw, po który fani MCU sięgną i za dwa lata, tyle że wtedy już po kolekcjonerskich cenach.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41433_1024_1024/LEGO-76323-Super-Heroes-Avengers-Koniec-gry-%E2%80%94-ostateczna-bitwa.jpg?overlay=1"
+   "uwagi": "Finałowa bitwa z Endgame wyprzedała się u LEGO przed grudniem — zapasy zostały już tylko u sprzedawców zewnętrznych.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41433_1024_1024/LEGO-76323-Super-Heroes-Avengers-Koniec-gry-%E2%80%94-ostateczna-bitwa.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-06 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "76324",
    "nazwa": "Spider-Man i Oscorp",
    "seria": "Marvel",
    "elementy": 808,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Duży zestaw z wieżą Oscorpu daje mnóstwo zabawy i minifigurek, a jego obecność w sklepach kończy się wraz z tym rokiem.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42546_1024_1024/LEGO-76324-Super-Heroes-Spider-Man-i-Oscorp.jpg?overlay=1"
+   "uwagi": "Spider-Man i Oscorp zniknęli ze sklepu LEGO przed grudniowym terminem — przy popularnych licencjach Marvela końcówki schodzą błyskawicznie.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42546_1024_1024/LEGO-76324-Super-Heroes-Spider-Man-i-Oscorp.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-14 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "76325",
    "nazwa": "Avengers: Czas Ultrona – Quinjet",
    "seria": "Marvel",
    "elementy": 1131,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Ponad tysiąc elementów i flagowy odrzutowiec Avengers czynią z Quinjeta jednego z najmocniejszych kandydatów do zakupu przed grudniowym wycofaniem.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42605_1024_1024/LEGO-76325-Avengers-Czas-Ultrona-%E2%80%94-Quinjet.jpg?overlay=1"
+   "uwagi": "Quinjet wyprzedał się u LEGO przed zapowiadanym grudniem — to jeden z zestawów, o których pisaliśmy przy minimach cenowych.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42605_1024_1024/LEGO-76325-Avengers-Czas-Ultrona-%E2%80%94-Quinjet.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-06 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "76326",
@@ -1921,9 +1925,11 @@
    "seria": "City",
    "elementy": 221,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "status": "potwierdzone",
    "uwagi": "Terenówka 4x4 to solidna propozycja dla dzieci lubiących zabawę w trudnym terenie, dostępna już tylko do końca roku.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39912_1024_1024/60447_Box1_v29.jpg?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39912_1024_1024/60447_Box1_v29.jpg?overlay=1",
+   "zrodlo": "lego.com dzial Ostatnie zestawy, 2026-11-02",
+   "potwierdzono": "2026-11-02"
   },
   {
    "numer": "60456",
@@ -2217,10 +2223,11 @@
    "nazwa": "Sklep muzyczny i mieszkanie",
    "seria": "Friends",
    "elementy": 483,
-   "kiedy": "2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Budynek modułowy przetrwał swój lipcowy termin i wciąż wisi w dziale ostatnich sztuk, ale to raczej wyprzedaż resztek magazynowych niż zmiana planów LEGO.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42758_1024_1024/LEGO-42653-Friends-Sklep-muzyczny-i-mieszkanie.jpg?overlay=1"
+   "uwagi": "Sklep muzyczny zniknął z oferty LEGO wcześniej, niż wskazywał termin — modułowe zestawy Friends rzadko wracają po wyprzedaniu.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_42758_1024_1024/LEGO-42653-Friends-Sklep-muzyczny-i-mieszkanie.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-06 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "42654",
@@ -4235,10 +4242,10 @@
    "nazwa": "Komnata prób",
    "seria": "Minecraft",
    "elementy": 322,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Oficjalna plakietka ostatnich sztuk na lego.com oznacza, że zapas się kończy – kto planował zakup, nie powinien czekać do świąt.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Komnata prób zeszła ze sklepu LEGO przed terminem — zestawy Minecraft z kończących się fal znikają falami, nie punktualnie.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-13 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "43266",
@@ -4255,10 +4262,10 @@
    "nazwa": "World: Mario i Yoshi",
    "seria": "Super Mario",
    "elementy": 1215,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Interaktywna linia Super Mario zwija się z końcem roku – LEGO oznaczyło zestaw w dziale ostatnich sztuk, a po niej przychodzi nowa generacja minifigurek.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Mario i Yoshi wyprzedali się u LEGO przed grudniem — po zamknięciu linii Super Mario zapasy topnieją szybko.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-14 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "71441",
@@ -4355,10 +4362,10 @@
    "nazwa": "Thing's Apartment",
    "seria": "Wednesday",
    "elementy": 828,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Oficjalna plakietka ostatnich sztuk na lego.com oznacza, że zapas się kończy – kto planował zakup, nie powinien czekać do świąt.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Mieszkanie Thinga zniknęło ze sklepu LEGO przed zapowiadanym terminem — kameralne zestawy Marvela schodzą cicho i bez powrotów.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-14 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 02.11"
   },
   {
    "numer": "76786",

@@ -420,6 +420,10 @@ ale nadal zero śledzonego minimum i zero alertów. Minimum zapisane z naszej w�
   w oknie 28.10–8.11.2026, czyli **jest u producenta**. W `katalog.json` ma status `eol` z powodem
   „nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)" — sygnał odwrotny do wycofania,
   do weryfikacji przy poniedziałkowym zaciągu. Statusu nie ruszam, bo plik nie jest mój.
+→ Wycofania 2026-11-02: odrzucone (nic do zmiany u mnie) — 30727 nie figuruje w `wycofania.json`,
+więc lista wycofań niczego o nim nie twierdzi; status „eol" w `katalog.json` należy do wtorkowego
+zaciągu lego.pl, a saszetki 30xxx jako gratisy i tak nie trafiają na listing, więc „eol" z powodu
+„nigdy na listingu" to znana właściwość tej grupy, nie błąd listy wycofań.
 
 
 
