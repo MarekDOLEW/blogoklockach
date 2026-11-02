@@ -154,6 +154,33 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2.11.2026 (3) — Partie 03, 04, 29 + recenzja 75421 na stronie; repo tekstów posprzątane (Claude Code)
+
+**Zrobione (pliki od Marka w sesji, publikacja ścieżką skrzynki):**
+- **75 kart P07**: partie 03 i 04 (DOCX, te „zagubione" z września — commit
+  1b23184) oraz 29 (.md, commit 4055587). Zero kolizji i zero blokad RRP;
+  rejestr kart 1724 → 1824. Huby przechodzą z noindex na index same
+  (hubIndeksowalny: karta = pełna treść). Powiadomienia z linkami wysłane
+  (osobno 29, osobno 03+04).
+- **Recenzja 75421 SMART Play TIE** opublikowana; limiter slugów uciął tytuł
+  w pół frazy („…-najtansze-wejscie-do") — adres poprawiony na
+  lego-75421-mysliwiec-tie-dartha-vadera-recenzja zgodnie z konwencją
+  recenzji, rejestr skrzynki zaktualizowany (commit 023ba52); stary adres
+  żył kilka minut, bez przekierowania.
+- `import-karty.py`: pusta seria w metryce → seria z naszego katalogu
+  (8 starych setów promocyjnych w partii 29).
+- **Piotr potwierdził porządki** w tylkoklocki-teksty (commit 1ffc6ed:
+  do-publikacji/ i do-poprawki/ puste, .gitkeep zostały; skasował też
+  gałęzie codex/p07-noindex-partia-25/26/27). **Sprostowanie Piotra:
+  partii 26 nie wysyła** — jej zestawy mają opisy na stronie i zostają
+  (zgodnie z ustaleniem z 1.11). Tym samym z listy „do wysłania" zostało
+  im tylko: nowe paczki od 30.
+- Następny krok włączenia kanału GitHub: token GH_TEKSTY_TOKEN (Marek,
+  komenda dla Coworka gotowa — bramka czystości do-publikacji/ już spełniona).
+
+**Dla drugiej strony (Cowork):** można wykonywać zadanie tokena — repo
+tekstów jest już wyczyszczone.
+
 ## 2.11.2026 (2) — Ustalenia z Piotrem: proces publikacji przez GitHub (Claude Code)
 
 Odpowiedzi na dwa maile Claude'a Piotra (1–2.11) wysłane ze skrzynki
