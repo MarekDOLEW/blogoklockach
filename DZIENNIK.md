@@ -165,6 +165,24 @@ rozdziela 4.11 (wszyscy) i 1.11 (Insiders), zgodnie z tekstem premierowym Piotra
 11390 nie ma ani jednego „1 listopada". 10371 sprawdzony u źródła: „Dostępne teraz", więc jego zapis
 o sprzedaży od 1 listopada zostaje. **Otwarte zostaje rozszerzenie `swiezosc-tekstow.mjs`** — dziś ten
 skrypt sprawdza tylko plakietki „przeciek", a daty premier trzymamy w trzech miejscach naraz.
+→ zrobione 02.11.2026 (polecenie Marka): skrypt ma trzecie ustalenie — **daty premier**. Zbiera
+każde zdanie mówiące, kiedy zestaw wchodzi do sprzedaży (`opis` i persony w `sety.json`, karty
+w `karty_setow.json`, teksty .md o jednym zestawie) i zgłasza zestawy, dla których dwa miejsca
+podają różne daty. Test regresyjny: po wstawieniu z powrotem dzisiejszego błędu w 11390 skrypt
+go pokazuje z oboma źródłami; po wycofaniu — nie.
+Czego skrypt NIE porównuje i dlaczego, bo to była najtrudniejsza część: **zdań z polem `premiera`**.
+Pierwsza wersja to robiła i dała **46 rozjazdów**, prawie wyłącznie karty z datą „1 <miesiąc>" inną
+niż miesiąc w rejestrze (10967: pole 2022-03, karta 1 stycznia 2022). Przy tej skali i tym wzorcu to
+nie 46 błędów, tylko dwie różne rzeczy nazwane tym samym słowem — warunek wyleciał, tak jak
+wcześniej wyleciały wejścia RRP. Jeśli ktoś rozstrzygnie, co znaczy data w karcie, można go wrócić.
+Fałszywe alarmy, które trzeba było po kolei zamknąć: okna gratisów (zakresy dat), zdania o wycofaniu,
+dzień zapowiedzi („LEGO pokazało zestaw 9 października, premiera 1 stycznia"), przedsprzedaż BLDP
+(„Przedsprzedaż ruszyła 4 lutego, zestawy wydano od lipca" — stąd `(?<!przed)` w regule) i wczesny
+dostęp dla Insiders, **także gdy zastrzeżenie stoi PO dacie**, jak w polszczyźnie zwykle stoi:
+bez tego 11388, 72306 i 76355 wychodziły jako sprzeczność, choć są poprawne.
+Zostaje **jedno trafienie i jest prawdziwe: 11381 Jaguar Type E** — karta w `karty_setow.json` mówi
+„premierę 1 lipca 2026", a tabela w recenzji i pole `premiera` mówią 1 sierpnia 2026. Nie poprawiam
+sam, bo karty pochodzą z dokumentów Piotra — **do rozstrzygnięcia przez Piotra albo Marka**.
 → przy okazji domknięta wątpliwość z 28.10: karta 11390 wymienia w bloku upominków **40898 Wenecka
 taksówka wodna** z końcem 08.11.2026 — pierwszy raz LEGO samo nazywa ten gratis. Zapisałem wtedy,
 że producent go nie potwierdza i że nazwa pochodzi od StoneWars i zklockow; rozstrzygnięte na korzyść
