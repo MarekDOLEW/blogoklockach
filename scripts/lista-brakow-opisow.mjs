@@ -29,23 +29,36 @@ const wSklepie = (nr) => {
   return SKLEPY_PIERWSZEJ_REKI.some((s) => o[s] > 0);
 };
 
-const wiersze = [['priorytet', 'seria', 'numer', 'nazwa', 'rok', 'elementy', 'cena_katalogowa', 'oferta_w_sklepach']];
+// Kolumny na prośbę Piotra (02.11.2026): status sprzedaży, liczba sklepów
+// z ofertą (pierwsza ręka, bez Allegro/Ceneo) i czy istnieje /zestaw/<nr>/.
+// Istnienie strony czytamy ze zbudowanego dist/ — bez builda kolumna mówi
+// "zbuduj-dist" zamiast zgadywać.
+import { existsSync } from 'node:fs';
+const maDist = existsSync(new URL('../dist/zestaw', import.meta.url));
+const maStrone = (nr) => (maDist ? (existsSync(new URL(`../dist/zestaw/${nr}/index.html`, import.meta.url)) ? 'tak' : 'nie') : 'zbuduj-dist');
+const liczbaSklepow = (nr) => {
+  const o = feed[nr]?.oferty ?? {};
+  return SKLEPY_PIERWSZEJ_REKI.filter((s) => o[s] > 0).length;
+};
+
+const wiersze = [['numer', 'nazwa', 'seria', 'rok', 'status_sprzedazy', 'liczba_sklepow_z_oferta', 'ma_strone', 'elementy', 'cena_katalogowa', 'priorytet']];
 let b1 = 0, b2 = 0;
 for (const [seria, lista] of Object.entries(katalog)) {
   if (!Array.isArray(lista)) continue;
   for (const x of lista) {
     if (karty[x.numer]) continue;
     const nazwa = (x.nazwa ?? '').replaceAll(';', ',');
+    const wspolne = [x.numer, nazwa, seria, x.rok ?? '', x.status ?? '', liczbaSklepow(x.numer), maStrone(x.numer), x.elementy ?? '', x.cena_katalogowa ?? ''];
     if (x.rok >= ROK) {
-      wiersze.push(['1-rocznik-biezacy', seria, x.numer, nazwa, x.rok, x.elementy ?? '', x.cena_katalogowa ?? '', wSklepie(x.numer) ? 'tak' : 'nie']);
+      wiersze.push([...wspolne, '1-rocznik-biezacy']);
       b1++;
     } else if (x.status === 'dostepny' || wSklepie(x.numer)) {
-      wiersze.push(['2-starszy-w-sprzedazy', seria, x.numer, nazwa, x.rok ?? '', x.elementy ?? '', x.cena_katalogowa ?? '', wSklepie(x.numer) ? 'tak' : 'nie']);
+      wiersze.push([...wspolne, '2-starszy-w-sprzedazy']);
       b2++;
     }
   }
 }
 const naglowek = wiersze.shift();
-wiersze.sort((a, b) => a[0].localeCompare(b[0]) || a[1].localeCompare(b[1]) || String(a[2]).localeCompare(String(b[2])));
+wiersze.sort((a, b) => a[9].localeCompare(b[9]) || a[2].localeCompare(b[2]) || String(a[0]).localeCompare(String(b[0])));
 console.log([naglowek, ...wiersze].map((w) => w.join(';')).join('\n'));
 console.error(`rocznik bieżący bez karty: ${b1} | starsze w sprzedaży bez karty: ${b2} | razem: ${b1 + b2}`);

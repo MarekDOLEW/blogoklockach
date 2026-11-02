@@ -154,6 +154,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2.11.2026 (6) — Pełna lista braków opisów dla Piotra: listy/ w repo tekstów (Claude Code)
+
+- Piotr potwierdził 75/75 po paczkach 03/04/29 i poprosił o pełną listę braków
+  z kolumnami status/liczba sklepów/czy jest strona. `lista-brakow-opisow.mjs`
+  rozszerzony (status_sprzedazy, liczba_sklepow_z_oferta — pierwsza ręka,
+  ma_strone z dist/); CSV **3165 pozycji** (147 rocznik 2026 + 3018 starszych)
+  wypchnięty do `tylkoklocki-teksty/listy/braki-opisow-2026-11-02.csv`
+  (commit 49018fd) razem z README kolumn — to nowy stały kanał list,
+  automat publikacji czyta tylko do-publikacji/, więc bez kolizji.
+- Mail z linkiem do pliku czeka jako **draft w tylkoklockiblog@** (wysyłkę
+  znów zablokował klasyfikator) — Marek klika Wyślij.
+- Uzgodnione: świeża lista do listy/ co ~5 paczek; Piotr robi paczkę 30 wg
+  obecnej kolejki i wróci z propozycją wplecenia pełnej listy.
+
 ## 2.11.2026 (5) — x-kom Black Weeks tydzień 3: aktualność + ceny z kodem black-weeks3 (Claude Code)
 
 - `/artykuly/x-kom-black-weeks-2026-lego-tydzien-3/` (Aktualności,
