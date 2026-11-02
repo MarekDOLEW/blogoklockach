@@ -1,4 +1,4 @@
-# Kolejka „Poproś o zindeksowanie" — 2026-11-01
+# Kolejka „Poproś o zindeksowanie" — 2026-11-02
 
 Plik generowany przez `scripts/kolejka-indeksacji.mjs` — nie edytować ręcznie.
 
@@ -15,26 +15,26 @@ Na koniec napisz w rozmowie: ile adresów zgłoszonych, na którym przerwał lim
 
 ## Adresy na dziś
 
-1. https://tylkoklocki.pl/serie/city/ — Crawled - currently not indexed, crawl 2026-10-26 (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-2. https://tylkoklocki.pl/serie/friends/ — Crawled - currently not indexed, crawl 2026-10-25 (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-3. https://tylkoklocki.pl/serie/horizon-adventures/ — URL is unknown to Google (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-4. https://tylkoklocki.pl/serie/marvel/ — Crawled - currently not indexed, crawl 2026-10-27 (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-5. https://tylkoklocki.pl/serie/one-piece/ — Crawled - currently not indexed, crawl 2026-09-05 (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-6. https://tylkoklocki.pl/serie/the-lego-movie/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-7. https://tylkoklocki.pl/zestaw/60493/ — URL is unknown to Google (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-8. https://tylkoklocki.pl/zestaw/10427/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-9. https://tylkoklocki.pl/zestaw/10447/ — URL is unknown to Google (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-10. https://tylkoklocki.pl/zestaw/10458/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-11. https://tylkoklocki.pl/zestaw/10464/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-12. https://tylkoklocki.pl/zestaw/10469/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-13. https://tylkoklocki.pl/zestaw/10472/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-14. https://tylkoklocki.pl/zestaw/10473/ — Discovered - currently not indexed (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
-15. https://tylkoklocki.pl/zestaw/10465/ — URL is unknown to Google (ponownie: w kolejce 2026-10-31, Google nie odwiedził)
+1. https://tylkoklocki.pl/serie/the-lego-movie/ — Discovered - currently not indexed (ponownie: w kolejce 2026-11-01, Google nie odwiedził)
+2. https://tylkoklocki.pl/zestaw/10469/ — Discovered - currently not indexed (ponownie: w kolejce 2026-11-01, Google nie odwiedził)
+3. https://tylkoklocki.pl/zestaw/10472/ — URL is unknown to Google (ponownie: w kolejce 2026-11-01, Google nie odwiedził)
+4. https://tylkoklocki.pl/zestaw/10473/ — URL is unknown to Google (ponownie: w kolejce 2026-11-01, Google nie odwiedził)
+5. https://tylkoklocki.pl/zestaw/10465/ — URL is unknown to Google (ponownie: w kolejce 2026-11-01, Google nie odwiedził)
+6. https://tylkoklocki.pl/artykuly/lego-30727-tie-advanced-gratis-lego-pl-listopad-2026/ — Discovered - currently not indexed
+7. https://tylkoklocki.pl/artykuly/lego-friends-2027-pierwsze-zestawy-galeria-heartlake/ — Discovered - currently not indexed
+8. https://tylkoklocki.pl/artykuly/lego-marvel-67005-doctor-strange-supreme-premiera-2027/ — Discovered - currently not indexed
+9. https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ — URL is unknown to Google
+10. https://tylkoklocki.pl/deale/deal-10359-fontanna-w-ogrodzie-smyk/ — Discovered - currently not indexed
+11. https://tylkoklocki.pl/deale/deal-40824-kanarek-tweety-minimum/ — Discovered - currently not indexed
+12. https://tylkoklocki.pl/deale/deal-60470-ekspres-polarny-ponizej-600/ — Discovered - currently not indexed
+13. https://tylkoklocki.pl/deale/deal-60471-arktyczna-ciezarowka-minimum/ — URL is unknown to Google
+14. https://tylkoklocki.pl/deale/deal-75404-acclamator-nowe-minimum/ — Discovered - currently not indexed
+15. https://tylkoklocki.pl/deale/deal-media-expert-przecena-lego-pazdziernik/ — Discovered - currently not indexed
 
 ## Stan sprawdzonych adresów
 
-Sprawdzone dziś w API: 100. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 15. Huby działów do odświeżenia crawla (tylko w poniedziałek): 0.
-- Submitted and indexed: 83
-- Crawled - currently not indexed: 6
-- URL is unknown to Google: 4
-- Discovered - currently not indexed: 7
+Sprawdzone dziś w API: 238. Ponownie w kolejce (bez wizyty Google od zgłoszenia): 5. Huby działów do odświeżenia crawla: 0.
+- Submitted and indexed: 217
+- Discovered - currently not indexed: 12
+- Crawled - currently not indexed: 4
+- URL is unknown to Google: 5

@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-01"
+  "zaktualizowano": "2026-11-02"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -283,6 +283,23 @@
    "https://tylkoklocki.pl/zestaw/10472/",
    "https://tylkoklocki.pl/zestaw/10473/",
    "https://tylkoklocki.pl/zestaw/10465/"
+  ],
+  "2026-11-02": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/10469/",
+   "https://tylkoklocki.pl/zestaw/10472/",
+   "https://tylkoklocki.pl/zestaw/10473/",
+   "https://tylkoklocki.pl/zestaw/10465/",
+   "https://tylkoklocki.pl/artykuly/lego-30727-tie-advanced-gratis-lego-pl-listopad-2026/",
+   "https://tylkoklocki.pl/artykuly/lego-friends-2027-pierwsze-zestawy-galeria-heartlake/",
+   "https://tylkoklocki.pl/artykuly/lego-marvel-67005-doctor-strange-supreme-premiera-2027/",
+   "https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/",
+   "https://tylkoklocki.pl/deale/deal-10359-fontanna-w-ogrodzie-smyk/",
+   "https://tylkoklocki.pl/deale/deal-40824-kanarek-tweety-minimum/",
+   "https://tylkoklocki.pl/deale/deal-60470-ekspres-polarny-ponizej-600/",
+   "https://tylkoklocki.pl/deale/deal-60471-arktyczna-ciezarowka-minimum/",
+   "https://tylkoklocki.pl/deale/deal-75404-acclamator-nowe-minimum/",
+   "https://tylkoklocki.pl/deale/deal-media-expert-przecena-lego-pazdziernik/"
   ]
  }
 }
