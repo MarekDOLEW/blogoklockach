@@ -154,6 +154,34 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2.11.2026 — Kanał GitHub dla tekstów Piotra + odpowiedzi na jego maile (Claude Code)
+
+**Zrobione (decyzje Marka z tej sesji):**
+- **Trzeci kanał skrzynki tekstów: repo `MarekDOLEW/tylkoklocki-teksty`** —
+  `scripts/github-teksty.py` (lista/pobierz/wynik, wzór panel-wplywy). Claude
+  Piotra commituje do `do-publikacji/` w głównej gałęzi; publikacja tą samą
+  ścieżką co mail, wynik mailem jak dziś. Po publikacji źródła przenoszą się
+  do `opublikowane/` (link na górze pliku; artykuły z kopią wersji ze strony
+  `…__wersja-ze-strony.md` — „wspólna wersja", pyt. e Piotra), błędy do
+  `do-poprawki/` z plikiem uwag. **Kanał śpi do czasu, aż Marek doda
+  `GH_TEKSTY_TOKEN`** (fine-grained PAT, Contents RW tylko do repo tekstów)
+  w ustawieniach środowiska.
+- Zadanie „Skrzynka tekstów Piotra" przepięte (delete+create): nowy trigger
+  `trig_011U7xwBt1Mp16jRhaMMaiFJ`, ta sama sesja i godziny; prompt z punktami
+  3b/5b (GitHub). Instrukcja dla Piotra uzupełniona (sekcja „Kanał GitHub",
+  pole „Sposób uzyskania" w metryce — importer znał je od dawna).
+- `scripts/lista-brakow-opisow.mjs` — świeża lista zestawów bez karty
+  (prośba Piotra: co ~5 paczek). Stan 2.11: 147 z rocznika bieżącego,
+  3092 starsze w sprzedaży.
+- Ustalenia do odpowiedzi Piotrowi: porządki w repo tekstów robi Piotr
+  (do-poprawki/ 576 i do-publikacji/ 75 — wszystkie 75 już na stronie);
+  4 blokady cen z partii 26 (76995, 71037–71039) są nieaktualne — dziś nie
+  mamy dla nich żadnej ceny, ponowna wysyłka przejdzie; 10 „brakujących"
+  numerów z listy Piotra JEST już w katalogu (Monkie Kid/Archiwum/promocyjne),
+  7 z nich bez RRP — bramka ich nie zablokuje.
+
+**Dla drugiej strony:** nic — czeka tylko token od Marka.
+
 ## 2026-11-02 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 01.11** — Ogłosili, że 11390 Shenron & Goku „debiutuje" i że przy zakupie wpada gratis 40889; próg się zgadza (599,99 zł wobec 540 zł, okno do 8.11), ale karta lego.com sprawdzona dziś mówi „Wkrótce dostępne (4 listopada 2026)" — i przy sprawdzaniu tej daty wyszedł błąd u nas.

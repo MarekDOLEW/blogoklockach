@@ -58,7 +58,8 @@ bez zmian względem szablonu DOCX:
 - `## Opis zestawu` — akapity,
 - `## Metryka zestawu` — tabela dwukolumnowa `| Pole | Wartość |` ze stałymi nazwami pól
   (Numer, Nazwa, Seria, Premiera, Elementy, Wiek, Minifigurki / postacie, Cena katalogowa w Polsce,
-  Cena katalogowa za element, Typ zestawu, Kolekcja / system, Dystrybucja),
+  Cena katalogowa za element, Typ zestawu, Kolekcja / system, Dystrybucja; przy zestawach-upominkach
+  i nagrodach Insiders zamiast ceny katalogowej może stać pole **Sposób uzyskania** — importer zna oba),
 - `## FAQ` — pytania jako `###`, odpowiedzi jako akapity,
 - znaczniki linków jak dotąd: `[sprawdź aktualne ceny LEGO 12345 – link wewnętrzny]`
   i `[zobacz kategorię LEGO [SERIA] – link wewnętrzny]`.
@@ -85,6 +86,23 @@ Zasady:
   także do nagłówka, gdy katalog serwisu zna zestaw tylko pod angielską nazwą z Rebrickable.
 - **Wcześniejszych partii (01–25) nie trzeba konwertować ani wysyłać** — są już w serwisie
   (wgrane z DOCX). Wyślij tylko te, które zawierają poprawki.
+
+## Kanał GitHub — od 02.11.2026 (uzgodnione z Markiem)
+
+Zamiast maila Claude Piotra może commitować gotowe pliki (`.md`, zdjęcia, ZIP-y) do
+**`do-publikacji/` w głównej gałęzi repo `MarekDOLEW/tylkoklocki-teksty`** — bez limitu
+~9 MB i bez ręcznego klikania. Zasady:
+
+- prosto do głównej gałęzi, bez pull requestów; jeden commit = jedna paczka;
+- te same formaty i ten sam układ plików co w mailu (`.md` z metryką, zdjęcia
+  `NNNN_zdjecie_K.jpg` obok, albo ZIP z całością — foldery są spłaszczane);
+- automat sprawdza repo o 8:52 i 14:52 razem ze skrzynką; wynik („Opublikowane” /
+  „do poprawy”) przychodzi tym samym mailem co dotąd;
+- po publikacji automat przenosi źródła do `opublikowane/` (z adresem strony na górze
+  pliku), a artykuły dostają obok **kopię wersji ze strony** (`…__wersja-ze-strony.md`) —
+  od niej zaczynaj poprawki; pliki z problemami lądują w `do-poprawki/` z plikiem uwag;
+- panel → Wgraj zostaje jako droga zapasowa (np. dla Marka); nie wysyłaj tego samego
+  dwiema drogami naraz.
 
 ## Co się dzieje po wysłaniu
 

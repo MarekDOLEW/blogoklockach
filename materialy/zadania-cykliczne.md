@@ -363,6 +363,17 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
   z cenami tygodniowymi, które mogą trafić do slajderów; build, commit, push. Prompt Łowcy bez zmian — `update_trigger`
   odmawia zmiany promptu z innej sesji, a delete+create bez zgody Marka nie robimy.
 
+**02.11.2026 (Skrzynka tekstów Piotra — trzeci kanał: GitHub)**
+- Na prośbę Claude'a Piotra (mail 01–02.11) zadanie czyta też repo
+  `MarekDOLEW/tylkoklocki-teksty` (`do-publikacji/`, główna gałąź) —
+  `scripts/github-teksty.py`, publikacja tą samą ścieżką co mail/panel.
+  Kanał śpi, dopóki w środowisku nie ma **GH_TEKSTY_TOKEN** (fine-grained PAT,
+  Contents RW tylko do repo tekstów) — dodaje go Marek w ustawieniach środowiska.
+- Zmiana promptu = delete + create: stary `trig_01767aXjmBQ1K6B9WijvH3zy`
+  skasowany, nowy **`trig_011U7xwBt1Mp16jRhaMMaiFJ`**, ta sama stała sesja
+  i godziny (08:52/14:52 PL). Tabela „Zrzut" nadrobi ID przy poniedziałkowym
+  przebiegu „Harmonogram z konta".
+
 **24.10.2026 (Skrzynka tekstów Piotra — decyzja Marka: publikacja bez przeglądu)**
 - Nowe zadanie w stałej sesji Code (`session_011GrNNd6UVQFF1NamoPaQMS`, ma konektor Gmail
   na tylkoklockiblog@gmail.com): `trig_01767aXjmBQ1K6B9WijvH3zy`, **codziennie 08:52 i 14:52 PL**.
