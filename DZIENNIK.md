@@ -153,6 +153,47 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2.11.2026 (2) — Ustalenia z Piotrem: proces publikacji przez GitHub (Claude Code)
+
+Odpowiedzi na dwa maile Claude'a Piotra (1–2.11) wysłane ze skrzynki
+tylkoklockiblog@ (do Piotra, cc +piotr i kontakt@): osobny mail z instrukcją
+porządków + pełna odpowiedź na wszystkie pytania. **Ustalenia obowiązujące:**
+
+- **Kolejność włączenia kanału GitHub:** (1) Piotr kasuje w tylkoklocki-teksty
+  całe do-publikacji/ (75 plików — wszystkie zestawy mają już opis na stronie,
+  43 w nowszej wersji) i do-poprawki/ (576 starych P07); oryginaly/, README
+  i puste opublikowane/ zostają → (2) Marek dodaje GH_TEKSTY_TOKEN (komenda
+  dla Coworka przekazana; krok 0 sprawdza, czy repo wyczyszczone) → (3) sygnał
+  „kanał aktywny" do Piotra. Do tego czasu mail/panel bez zmian.
+- **Format kanału:** commity prosto do głównej gałęzi (bez PR), jeden commit =
+  jedna paczka; zdjęcia NNNN_zdjecie_K.jpg obok .md albo ZIP; panel → Wgraj
+  zostaje drogą zapasową Marka; nie wysyłać tej samej paczki dwiema drogami.
+- **Wspólna wersja tekstów:** po publikacji automat odkłada do opublikowane/
+  plik źródłowy z linkiem + dla artykułów kopię wersji ze strony
+  (…__wersja-ze-strony.md) — Piotr zaczyna każdą poprawkę od niej.
+- **Ceny:** Piotr wysyła zawsze cenę z karty LEGO.com PL; blokada przy
+  rozjeździe zostaje jako bezpiecznik — rozstrzygamy my (u źródła, w ciągu
+  dnia) i odpisujemy, kto poprawia. Blokady partii 26 (76995, 71037–71039)
+  nieaktualne — dziś nie mamy dla nich żadnej ceny.
+- **Pole „Sposób uzyskania"** w metryce: oficjalnie dodane (upominki/nagrody
+  Insiders) — importer znał je od 18.10, instrukcja uzupełniona 2.11.
+- **Paczki:** 03, 04 (DOCX, nigdy nie wgrane) oraz 26 i 29 (.md) Piotr wysyła
+  ponownie mailem/panelem, bez czekania na GitHub. 60378 i 75366: nowe opisy
+  zastąpią krótkie (ten sam numer = nadpisanie). Numeracja paczek zostaje
+  Piotra (następna: 30), kolejność wg arkusza „Kolejka od paczki 30"
+  z Dropboxa (Lista-opisow-P07-stan-2026-11-01.xlsx) — przyjęta.
+- **Lista braków co ~5 paczek:** generuje scripts/lista-brakow-opisow.mjs
+  (stan 2.11: 147 rocznik bieżący + 3092 starsze w sprzedaży); wysyłamy przy
+  okazji albo na hasło. 10 numerów „spoza rejestru" z listy Piotra jest już
+  w katalogu — 7 bez RRP (dla nich pole „Sposób uzyskania").
+- **Opisy nowości:** Piotr nie czeka na hub — karta wysłana przed powstaniem
+  strony czeka w danych (uwaga „brak huba", bez blokady) i publikuje się sama,
+  gdy zestaw wejdzie do katalogu.
+
+**Dla drugiej strony (Cowork):** czeka zadanie tokena — komenda od Marka
+(bramka: do-publikacji/ musi być puste). Po tokenie Marek wysyła Piotrowi
+„kanał aktywny".
 ## 2026-11-02 08:55 · CODE · Skrzynka (panel): 0034 opublikowany
 
 **0034 „Ulice miasta LEGO. Jak płyty drogowe zmieniały się od 1978 roku do dziś” (Historyczne, 13 zdjęć) — https://tylkoklocki.pl/artykuly/ulice-miasta-lego-jak-plyty-drogowe-zmienialy-sie-od-1978-roku-do-dzis/ (`94335d1`).** Pierwszy tekst wgrany przez panel (Piotr, 01.11 15:25) — po tym, jak mail z 10,6 MB nie przeszedł przez konektor Gmail. Wynik zapisany w panelu (Wgraj → opublikowane), powiadomienie poszło.
