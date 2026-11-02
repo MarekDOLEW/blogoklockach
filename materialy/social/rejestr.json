@@ -8,7 +8,7 @@
    "zarchiwizowane",
    "zostaje"
   ],
-  "zaktualizowano": "2026-11-01"
+  "zaktualizowano": "2026-11-02"
  },
  "wpisy": [
   {
@@ -80,8 +80,9 @@
     "powod": "kod black-weeks2 ważny do 01.11 włącznie — od 02.11 cena z posta nie obowiązuje",
     "przypomnienie": "trig_01AhWghzQtvjpBzgEK9YG8p7 (09.11 09:00)"
    },
-   "stan": "opublikowane",
-   "uwagi": "Przypomnienie ustawione na 14 dni (09.11), ale kod wygasa 01.11 — post warto zdjąć wcześniej."
+   "stan": "zarchiwizowane",
+   "uwagi": "",
+   "zarchiwizowano": "02.11.2026 (potwierdził Marek: IG zarchiwizowane, FB wygasłe)"
   },
   {
    "id": "2026-10-26-rolka-75446",
@@ -103,8 +104,9 @@
     "powod": "kod black-weeks2 ważny do 01.11 włącznie — od 02.11 cena z posta nie obowiązuje",
     "przypomnienie": "trig_01AhWghzQtvjpBzgEK9YG8p7 (09.11 09:00)"
    },
-   "stan": "opublikowane",
-   "uwagi": ""
+   "stan": "zarchiwizowane",
+   "uwagi": "",
+   "zarchiwizowano": "02.11.2026 (potwierdził Marek: IG zarchiwizowane, FB wygasłe)"
   },
   {
    "id": "2026-10-26-karuzela-75439",
