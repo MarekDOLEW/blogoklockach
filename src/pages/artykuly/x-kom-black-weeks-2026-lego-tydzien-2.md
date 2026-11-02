@@ -68,4 +68,4 @@ Te trzy karty pokazywały „Chwilowo niedostępny”. Jeśli zestawy wrócą w 
 2. Sprawdź, czy przy cenie widnieje dopisek z kodem black-weeks2. Jeśli go nie ma, obniżka na ten zestaw już się skończyła albo jeszcze nie ruszyła.
 3. Dodaj zestaw do koszyka i wpisz kod **black-weeks2**.
 
-Kolejną listę x-kom zapowiada na następny poniedziałek. Okazje ze wszystkich sklepów, aktualizowane codziennie, znajdziesz w [Promocjach LEGO](/promocje-lego/).
+Trzecią listę (2–8 listopada, kod black-weeks3) opisujemy w tekście [Black Weeks w x-kom, tydzień 3](/artykuly/x-kom-black-weeks-2026-lego-tydzien-3/). Okazje ze wszystkich sklepów, aktualizowane codziennie, znajdziesz w [Promocjach LEGO](/promocje-lego/).

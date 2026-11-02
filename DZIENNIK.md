@@ -154,6 +154,28 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2.11.2026 (5) — x-kom Black Weeks tydzień 3: aktualność + ceny z kodem black-weeks3 (Claude Code)
+
+- `/artykuly/x-kom-black-weeks-2026-lego-tydzien-3/` (Aktualności,
+  **wazne_do 2026-11-08** — x-kom pierwszy raz podał koniec kodu). Mail
+  SalesMasters 02.11: 13 zestawów; **wszystkie 13 kart sprawdzone Firecrawlem
+  przed południem — każda pokazuje cenę z kodem black-weeks3, wszystko
+  dostępne** (pierwsza lista bez braków). 9 nowych minimów notowań
+  (m.in. 76454 Hogwart 699, 42175 Volvo 599, 10967 i 43303 po 19,99 —
+  −50/−52% od RRP); 42649 i 75443 dobre, ale nie rekord; 72152 Pokémon
+  i 77051 Animal Crossing debiutują w notowaniach.
+- Dane: kod w `kody_rabatowe.json` (koniec_znany: true), 13 cen xkom
+  w `oferty_feed` (kompakt!) i 12 w `sety.json`, 9 minimów w `ceny_baza`.
+  Teksty tygodni 1–2 linkują do trójki. Przy okazji `kontrola-rrp --napraw`
+  domknęła 3 zastane rozbieżności katalogu (60473, 42621, 42670).
+- Fakty opisowe w tekście zweryfikowane z naszymi danymi (76454 bez
+  „Wielkiej Sali" — 12 minifigurek i 67 cm; 42175 cztery moduły; 72152
+  bez „podświetlenia"; 77051 wodnosamolot z Wilburem).
+
+**Dla drugiej strony:** zrzut x-kom w poniedziałek nadpisze te ceny —
+kod i tak wygasa 8.11. Social (rolka/post z kodem) nie zrobiony — do
+decyzji Marka.
+
 ## 2.11.2026 (4) — Kanał GitHub AKTYWNY (Claude Code)
 
 - Cowork dodał **GH_TEKSTY_TOKEN** (fine-grained PAT). Zweryfikowane z sesji:

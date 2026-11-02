@@ -2491,7 +2491,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 599.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Icons",
       "lego_pl_widziano": "2026-11-01"
@@ -2512,7 +2512,7 @@
       "rok": 2026,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 2149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Icons",
       "lego_pl_widziano": "2026-11-01"
@@ -27486,7 +27486,7 @@
       "rok": 2025,
       "elementy": 1941,
       "status": "eol",
-      "cena_katalogowa": 879.99
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "60474",
@@ -38455,7 +38455,7 @@
       "rok": 2024,
       "elementy": 1045,
       "status": "eol",
-      "cena_katalogowa": 449.99,
+      "cena_katalogowa": 429.99,
       "cena_zrodlo": "RK"
     },
     {
@@ -38933,7 +38933,7 @@
       "rok": 2025,
       "elementy": 2040,
       "status": "eol",
-      "cena_katalogowa": 749.99
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "42671",
@@ -39441,7 +39441,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 219.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Friends"
     },
@@ -39451,7 +39451,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 259.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Friends"
     },
@@ -39461,7 +39461,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Friends"
     }
@@ -52485,7 +52485,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Ninjago",
       "lego_pl_widziano": "2026-11-01",
@@ -55795,7 +55795,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Super Heroes Marvel"
     }
@@ -65877,7 +65877,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 749.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC",
       "lego_pl_widziano": "2026-11-01",
@@ -71700,7 +71700,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 259.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC",
       "lego_pl_widziano": "2026-11-01",
@@ -71712,7 +71712,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 126.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC",
       "lego_pl_widziano": "2026-11-01",
@@ -75736,7 +75736,7 @@
       "rok": 2023,
       "elementy": 287,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-11-01"
@@ -75818,7 +75818,7 @@
       "rok": 2023,
       "elementy": 287,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-11-01"
@@ -75829,7 +75829,7 @@
       "rok": 2024,
       "elementy": 287,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-11-01",
@@ -75841,7 +75841,7 @@
       "rok": 2024,
       "elementy": 287,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-11-01"
@@ -75852,7 +75852,7 @@
       "rok": 2024,
       "elementy": 287,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other",
       "lego_pl_widziano": "2026-11-01"

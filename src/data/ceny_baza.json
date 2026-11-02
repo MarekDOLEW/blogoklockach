@@ -2109,9 +2109,11 @@
  "76454": {
   "nazwa": "Zamek Hogwart: Główna wieża",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 737.76,
+  "najnizsza_cena": 699,
   "najnizsza_data": "2026-10-11",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "allegro",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "71814": {
   "nazwa": "Turniejowe miasto ze świątynią",
@@ -2508,9 +2510,11 @@
  "42175": {
   "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 599.99,
+  "najnizsza_cena": 599,
   "najnizsza_data": "2026-09-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "mediaexpert",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "43267": {
   "nazwa": "Zamek księżniczek i królewskie zwierzaki",
@@ -4419,9 +4423,11 @@
  "43303": {
   "nazwa": "Mała Dżasmina i Roszpunka",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 24.99,
+  "najnizsza_cena": 19.99,
   "najnizsza_data": "2026-10-26",
-  "najnizsza_sklep": "xkom"
+  "najnizsza_sklep": "xkom",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "43239": {
   "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
@@ -4566,9 +4572,11 @@
  "76336": {
   "nazwa": "Spider-Man w samochodzie kontra zvenomowany Wolverine",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.9,
+  "najnizsza_cena": 49.99,
   "najnizsza_data": "2026-10-30",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "mediaexpert",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "75402": {
   "nazwa": "Myśliwiec ARC-170",
@@ -4944,9 +4952,11 @@
  "60491": {
   "nazwa": "Laweta dla motocykli",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 51.99,
+  "najnizsza_cena": 49.99,
   "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "mediaexpert",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "60430": {
   "nazwa": "Statek międzygwiezdny",
@@ -5119,9 +5129,11 @@
  "43291": {
   "nazwa": "Mała Bella i Tiana z zamkiem",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 104.97,
+  "najnizsza_cena": 99.99,
   "najnizsza_data": "2026-10-26",
-  "najnizsza_sklep": "empik"
+  "najnizsza_sklep": "empik",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "60443": {
   "nazwa": "F1 Pit stop i mechanicy z bolidem Ferrari",
@@ -6127,9 +6139,11 @@
  "10967": {
   "nazwa": "Motocykl policyjny",
   "cena_katalogowa": 39.99,
-  "najnizsza_cena": 21.89,
+  "najnizsza_cena": 19.99,
   "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "allegro",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "60407": {
   "nazwa": "Czerwony, piętrowy autokar",
@@ -7387,9 +7401,11 @@
  "76923": {
   "nazwa": "Luksusowe Lamborghini Lambo V12 Vision GT",
   "cena_katalogowa": 119.99,
-  "najnizsza_cena": 85.32,
+  "najnizsza_cena": 69.99,
   "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_sklep": "allegro",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "41447": {
   "nazwa": "Park w Heartlake City",
@@ -7877,9 +7893,11 @@
  "43285": {
   "nazwa": "Magiczny minipałac Arielki",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 55.97,
+  "najnizsza_cena": 49.99,
   "najnizsza_data": "2026-10-05",
-  "najnizsza_sklep": "empik"
+  "najnizsza_sklep": "empik",
+  "data": "2026-11-02",
+  "sklep": "xkom"
  },
  "40885": {
   "nazwa": "Rodzina kaczek",
