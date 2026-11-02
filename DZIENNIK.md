@@ -153,6 +153,10 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-02 08:55 · CODE · Skrzynka (panel): 0034 opublikowany
+
+**0034 „Ulice miasta LEGO. Jak płyty drogowe zmieniały się od 1978 roku do dziś” (Historyczne, 13 zdjęć) — https://tylkoklocki.pl/artykuly/ulice-miasta-lego-jak-plyty-drogowe-zmienialy-sie-od-1978-roku-do-dzis/ (`94335d1`).** Pierwszy tekst wgrany przez panel (Piotr, 01.11 15:25) — po tym, jak mail z 10,6 MB nie przeszedł przez konektor Gmail. Wynik zapisany w panelu (Wgraj → opublikowane), powiadomienie poszło.
+**Dla drugiej strony:** kanał GitHub (`github-teksty.py`) pominięty — brak `GH_TEKSTY_TOKEN` w środowisku tej sesji.
 
 ## 2026-11-02 09:20 · ŁOWCA · Do zrobienia
 
