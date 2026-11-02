@@ -427,7 +427,8 @@ wyświetleniach — za wcześnie na kliknięcia, za dobrze, żeby nie zapisać.
 Zmieniona wobec 26.10: tamta reguła (bez ukośnika) złapałaby dziś 0 z 40. Ta łapie 40 z 40
 sondowych i 0 z 3 prawdziwych kliknięć spoza Polski, a z 10 polskich ze strony głównej nie
 dotyka żadnego. Jedna reguła w `src/worker.js`, worker = pytam przed pushem.
-**Zrobić:** zgoda. **Kto:** Marek.
+**Zrobić:** zgoda. **Kto:** Marek. *→ Zgoda 02.11 o 10:15; reguła wdrożona tego samego dnia
+(commit w historii `src/worker.js`), skutek sprawdzę 09.11.*
 
 ### 2. Mail do Performers *(Marek)*
 62% → 67% → 64%. Trzeci tydzień był warunkiem — jest. Tekst do wklejenia w sekcji EPC.

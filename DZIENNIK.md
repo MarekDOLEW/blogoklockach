@@ -200,6 +200,7 @@ Raport: `materialy/kontroler-2026-11-02.md`. Mail „Zadania bez właściciela �
 **Mamy?** — nie: 3 prawdziwe kliknięcia spoza PL (NO ×2 z ChatGPT, DK) przyszły z hubów; 10 polskich ze strony głównej to 6 z serii 26.10 11:32 (Marek przy cenie 43303, commit `d2fb8a3` 11:36) i 4 pojedyncze do ME.
 **Zrobić:** — zgoda na regułę w `src/worker.js`: referer strony głównej (z ukośnikiem lub bez) + kraj spoza PL = bot. Wdraża Code; worker = pytamy przed pushem. Zastępuje pozycję z 26.10.
 **Kto:** — Marek (decyzja)
+→ zamknięte 02.11.2026 (Kontroler, zgoda Marka 02.11 „zgoda na decyzję 1, zrób regułę w workerze"): reguła `sondaZeStronyGlownej` w `src/worker.js` — referer ze ścieżką `/` przy `cf.country !== 'PL'` idzie jako `bot` (przekierowanie na hub, nie do sieci). Sprawdzone lokalnie na 11 przypadkach (strona główna z/bez ukośnika i www z BR/AR → hub; z PL → sklep; hub/artykuł spoza PL → sklep; Sec-Fetch-Site bez referera → bez zmian). Kontrola skutku: Kontroler 09.11 — liczba kliknięć „human" spoza PL ze strony głównej powinna spaść do zera.
 
 **Zrzuty Empiku i x-komu nie weszły do 09:46 PL — import nadal z 26.10 (tydzień temu weszły o 09:10).**
 **Mamy?** — częściowo: ceny z 26.10 (4 552 Empik, 720 x-kom) stoją w hubach jako aktualne.

@@ -120,7 +120,8 @@ export default {
       //
       // Kryterium to WYŁĄCZNIE referer, nie kraj: 20 z 66 kliknięć z naszym
       // refererem przyszło z Niemiec, 9 z USA (Polacy za granicą, VPN, testy).
-      // Filtr po kraju odciąłby realnych czytelników.
+      // Filtr po kraju odciąłby realnych czytelników. (Jeden wyjątek od
+      // 02.11.2026: strona główna jako referer + kraj spoza PL — patrz niżej.)
       //
       // Odrzucone żądanie dostaje przekierowanie na hub zestawu zamiast 204:
       // sieć afiliacyjna nie widzi pustego kliknięcia, a człowiek, któremu
@@ -166,7 +167,21 @@ export default {
         (zHubu
           ? zHubu[1] === numer
           : /^\/($|artykuly\/|prezentowniki\/|deale\/|serie\/|nowosci\/|wycofania\/|ekskluzywne\/|kolekcjoner\/|kalendarz-promocji-lego\/|zapowiedzi-lego-2027\/|przecieki\/|promocje-lego\/|aktualnosci\/)/.test(sciezkaReferera));
-      const zNaszejStrony = refererOk || (!refererNasz && (secFetch === 'same-origin' || secFetch === 'same-site'));
+      // 02.11.2026 (raport Kontrolera, decyzja Marka 02.11): sonda ze strony
+      // głównej. W tygodniu 27.10–02.11 przez filtr przeszło 43 kliknięcia spoza
+      // Polski jako „human" (tydzień wcześniej 17), 40 z nich z refererem
+      // `https://tylkoklocki.pl/` — poprawnym, z ukośnikiem — w seriach po kilka
+      // w pół minuty z różnych krajów (AR, PK, BR, MX, CO w 24 sekundy), jedno
+      // kliknięcie na sklep, głównie Media Expert i Allegro. Trzy prawdziwe
+      // kliknięcia spoza PL w tym samym tygodniu przyszły z hubów (ChatGPT, DK),
+      // a 10 polskich ze strony głównej to testy Marka i pojedyncze wejścia.
+      // Reguła: referer strony głównej (ścieżka `/`, z ukośnikiem lub bez) przy
+      // kraju spoza PL = bot. Koszt: Polak za granicą klikający ze strony
+      // głównej — ląduje na hubie i klika drugi raz, już z hubu. Przeglądarki
+      // tnące referer (droga Sec-Fetch-Site) nie są tym objęte.
+      const kraj = request.cf?.country ?? '';
+      const sondaZeStronyGlownej = refererOk && sciezkaReferera === '/' && kraj !== 'PL';
+      const zNaszejStrony = (refererOk && !sondaZeStronyGlownej) || (!refererNasz && (secFetch === 'same-origin' || secFetch === 'same-site'));
       // Nasze własne sprawdzenia (scripts/diagnoza.mjs) wysyłają x-tk-test —
       // w statystyce idą jako „test", nie „human". Na samo przekierowanie
       // nagłówek nie wpływa, więc nie otwiera filtra.
@@ -238,7 +253,7 @@ export default {
       try {
         env.KLIKI?.writeDataPoint({
           // blob6 dodany 14.09.2026 — starsze zapytania (blob1–blob5) działają bez zmian
-          blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', referer, request.cf?.country ?? '',
+          blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', referer, kraj,
                   test ? 'test' : zNaszejStrony ? 'human' : 'bot'],
           doubles: [1],
           indexes: [sklep],
