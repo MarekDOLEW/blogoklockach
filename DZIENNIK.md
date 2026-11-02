@@ -153,6 +153,23 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-02 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 01.11** — Ogłosili, że 11390 Shenron & Goku „debiutuje" i że przy zakupie wpada gratis 40889; próg się zgadza (599,99 zł wobec 540 zł, okno do 8.11), ale karta lego.com sprawdzona dziś mówi „Wkrótce dostępne (4 listopada 2026)" — i przy sprawdzaniu tej daty wyszedł błąd u nas.
+**Mamy?** — częściowo: hub `/zestaw/11390/` i `/nowosci/listopad-2026/` są na miejscu, ale **dwa nasze własne pola były sprzeczne**: `opis` w `sety.json` mówił „Premiera 1 listopada 2026", a teaser artykułu na tym samym hubie „trafi do sprzedaży 4 listopada". `opis` idzie do JSON-LD, czyli błędna data szła do danych strukturalnych.
+**Zrobić:** — poprawić datę w `sety.json` (11390 `opis` i persona AFOL, 11388 `opis` o wczesny dostęp Insiders) — **zrobione w tym przebiegu**; do rozważenia osobno: rozszerzyć `scripts/swiezosc-tekstow.mjs` o porównywanie dat premier między polem `premiera`, zdaniem w `opis` i zdaniem w personach, bo dziś nic tego nie pilnuje.
+**Kto:** — Code (dane, strona)
+→ część wykonana 02.11.2026: 11390 `opis` i persona AFOL mówią „Sprzedaż od 4 listopada 2026", 11388 `opis`
+rozdziela 4.11 (wszyscy) i 1.11 (Insiders), zgodnie z tekstem premierowym Piotra. Po buildzie na hubie
+11390 nie ma ani jednego „1 listopada". 10371 sprawdzony u źródła: „Dostępne teraz", więc jego zapis
+o sprzedaży od 1 listopada zostaje. **Otwarte zostaje rozszerzenie `swiezosc-tekstow.mjs`** — dziś ten
+skrypt sprawdza tylko plakietki „przeciek", a daty premier trzymamy w trzech miejscach naraz.
+→ przy okazji domknięta wątpliwość z 28.10: karta 11390 wymienia w bloku upominków **40898 Wenecka
+taksówka wodna** z końcem 08.11.2026 — pierwszy raz LEGO samo nazywa ten gratis. Zapisałem wtedy,
+że producent go nie potwierdza i że nazwa pochodzi od StoneWars i zklockow; rozstrzygnięte na korzyść
+tekstu Piotra.
+
 ## 2026-11-02 05:12 · SCOUT · Do zrobienia
 
 **Dziewięć zestawów z `sety.json` ma hub i wchodzi do `/nowosci/`, ale nie pokazuje się na żadnej stronie serii: 77094, 50090, 910069–910073, 42254 i 11227. Mają `premiera` w formacie samego rocznika i nie ma ich w `katalog.json`, a `src/pages/serie/[seria].astro` wpuszcza zestaw spoza katalogu tylko z premierą `RRRR-MM` (reguła zapisana 29.10).**
