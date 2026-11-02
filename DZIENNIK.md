@@ -154,6 +154,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2.11.2026 (4) — Kanał GitHub AKTYWNY (Claude Code)
+
+- Cowork dodał **GH_TEKSTY_TOKEN** (fine-grained PAT). Zweryfikowane z sesji:
+  `github-teksty.py lista` klonuje repo i zwraca `{"pliki": []}` (porządki
+  Piotra potwierdzone), API pokazuje prawo push. Od najbliższego przebiegu
+  (14:52) automat realnie czyta do-publikacji/.
+- Mail „kanał aktywny + partie 03/04/29 już na stronie, wysyłajcie tylko
+  nowe paczki od 30" czeka jako **draft w tylkoklockiblog@** (wysyłkę
+  zablokował klasyfikator — Marek klika Wyślij).
+
 ## 2.11.2026 (3) — Partie 03, 04, 29 + recenzja 75421 na stronie; repo tekstów posprzątane (Claude Code)
 
 **Zrobione (pliki od Marka w sesji, publikacja ścieżką skrzynki):**
