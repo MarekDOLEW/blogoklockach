@@ -407,6 +407,14 @@ def main():
                 ostrz.append((nr, 'karta już istnieje – pominięta (--nadpisz zastąpi)')); continue
             ostrz.append((nr, 'karta już istnieje – NADPISANA nowszą wersją'))
         seria_pelna = m.get('Seria', '')
+        if not seria_pelna.strip():
+            # partia 29 (02.11.2026): stare sety promocyjne mają pustą serię w metryce —
+            # bierzemy serię z naszego katalogu, żeby linki /serie/ nie szły w próżnię
+            w_kat = ctx['wKat'].get(nr)
+            if w_kat:
+                seria_pelna = 'LEGO ' + w_kat['seriaKat']
+                m['Seria'] = seria_pelna
+                ostrz.append((nr, f'pusta seria w metryce → z katalogu: {w_kat["seriaKat"]}'))
         seria_repo = seria_kanoniczna(seria_pelna, ctx)
         slug = slug_serii(seria_repo)
         if seria_repo not in ctx['kat']:

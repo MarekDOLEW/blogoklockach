@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-01",
+  "zaktualizowano": "2026-11-02",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -86213,6 +86213,2542 @@
    {
     "q": "Jakie są podobne zestawy LEGO Jurassic World?",
     "a": "Najbliższy tematycznie jest 76960 Odkrycie brachiozaura, również oparty na „Parku Jurajskim”. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "10375": {
+  "seria": "Icons",
+  "nazwa": "Jak wytresować smoka: Szczerbatek",
+  "elementy": 784,
+  "akapity": [
+   "Szczerbatek w LEGO Icons 10375 Jak wytresować smoka: Szczerbatek otrzymał formę samodzielnej figurki do ustawienia na półce. Zestaw z 2025 roku zawiera 784 elementy i ma oznaczenie 18+. Przedstawia Nocną Furię w rozpoznawalnej czarnej kolorystyce, z siodłem i naprawioną płetwą ogonową. Te szczegóły wiążą model z filmowym bohaterem, a jego charakter buduje przede wszystkim połączenie dużej głowy, wyrazistych oczu i skrzydeł. Jest to propozycja dla dorosłego fana smoka, który chce mieć w kolekcji pojedynczą postać, zamiast całej sceny z otoczeniem.",
+   "Głowę, szczękę, skrzydła i ogon można ustawiać, zmieniając pozę figurki. Do pyska pasuje ryba albo element przedstawiający wystrzał plazmy, dzięki czemu ekspozycja może pokazywać spokojniejszą lub bardziej bojową odsłonę bohatera. Ruchome części służą tu przede wszystkim nadaniu Szczerbatkowi wyrazu: ustawienie głowy i skrzydeł zmienia odbiór całej sylwetki. Model ma około 16 cm wysokości, więc przy wyborze miejsca warto uwzględnić również rozłożenie skrzydeł. W zestawie są instrukcje, a ich wersję cyfrową udostępnia aplikacja LEGO Builder.",
+   "Na tle modeli Icons opartych na budynkach i pojazdach ten zestaw wyróżnia koncentracja na charakterze postaci. Najwięcej sensu ma jako prezent dla osoby związanej z filmem lub jako uzupełnienie kolekcji fantastycznych stworzeń. Można prezentować go samodzielnie; nie potrzebuje innego zestawu do uzyskania kompletnej sylwetki. Polska cena katalogowa wynosi 299,99 zł, a dystrybucja obejmuje LEGO oraz wybranych sprzedawców.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 17. co do wielkości. Za element płaci się tu katalogowo 0,38 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "10375",
+   "Nazwa": "Jak wytresować smoka: Szczerbatek",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "784",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "Model postaci do ekspozycji",
+   "Kolekcja i system": "To samodzielny model z LEGO Icons, odpowiedni do kolekcji filmowych postaci i fantastycznych stworzeń.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10375?",
+    "a": "Polska cena katalogowa wynosi 299,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 10375 w cenie katalogowej?",
+    "a": "Zakup za 299,99 zł może mieć sens dla fana Szczerbatka, szczególnie gdy ważne są warunki zakupu w LEGO lub korzyści programu Insiders. Zestaw trafia także do wybranych sprzedawców, więc warto porównać ich oferty."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10375?",
+    "a": "Sprawdź ofertę LEGO oraz wybranych sklepów, do których trafia ten model. Porównaj cenę z dostawą i dostępność. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 10375 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny model z LEGO Icons, odpowiedni do kolekcji filmowych postaci i fantastycznych stworzeń. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Icons w podobnej cenie?",
+    "a": "Porównuj przede wszystkim inne figurki i modele fantastycznych postaci, uwzględniając ruchome części oraz miejsce potrzebne na ekspozycję. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>."
+   },
+   {
+    "q": "Czy można zmieniać pozę Szczerbatka?",
+    "a": "Tak. Ruchome są głowa, szczęka, skrzydła i ogon. Do pyska można dołączyć rybę albo element wystrzału plazmy."
+   }
+  ]
+ },
+ "31214": {
+  "seria": "Art",
+  "nazwa": "LOVE",
+  "elementy": 791,
+  "akapity": [
+   "Czerwone litery i pochylone O sprawiają, że LEGO Art 31214 LOVE można rozpoznać bez znajomości numeru zestawu. Model odtwarza rzeźbę Roberta Indiany jako przestrzenną dekorację z klocków, z czerwonymi, niebieskimi i zielonymi powierzchniami. Wydanie z 2025 roku nawiązuje do 55. rocznicy powstania rzeźby. Zawiera 791 elementów, ma oznaczenie 18+ i jest przeznaczone przede wszystkim dla dorosłych zainteresowanych sztuką oraz dekorowaniem wnętrz. Polska cena katalogowa to 339,99 zł.",
+   "Gotowa konstrukcja ma około 25 cm wysokości, 25 cm szerokości i 6 cm głębokości. Można ustawić ją na biurku, stole albo półce, gdzie litery pozostają czytelne od frontu. Niewielka głębokość pomaga umieścić model wśród książek czy innych dekoracji, ale to szerokość i wysokość określają jego widoczną skalę. Układ liter oraz zestawienie kolorów są częścią odtwarzanego dzieła; wybór tego modelu oznacza więc wybór konkretnego motywu pop-artu, a nie dowolnego napisu układanego z zestawu znaków.",
+   "W pudełku znajdują się dwa komplety instrukcji, umożliwiające wspólne budowanie. To szczególnie trafna cecha przy prezencie dla pary: sam temat rzeźby i możliwość pracy we dwoje tworzą spójną całość. LOVE jest samodzielnym modelem z serii LEGO Art. Nie wymaga ramy ani połączenia z inną konstrukcją, by pełnić funkcję ozdoby. Dla kolekcjonera zainteresowanego tą linią będzie przestrzennym akcentem obok prac przeznaczonych do zawieszenia, a dla osoby urządzającej mieszkanie liczyć się będą przede wszystkim mocne kolory i rozpoznawalny układ liter."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "31214",
+   "Nazwa": "LOVE",
+   "Seria": "Art",
+   "Premiera": "2025",
+   "Liczba elementów": "791",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "Dekoracja przestrzenna",
+   "Kolekcja i system": "LOVE jest samodzielną przestrzenną dekoracją z LEGO Art, opartą na rzeźbie Roberta Indiany.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31214?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 31214 w cenie katalogowej?",
+    "a": "Przy cenie 339,99 zł warto porównać oferty detaliczne. O wyborze powinny decydować motyw rzeźby, jej kolorystyka oraz możliwość wspólnego budowania, a nie sama liczba części."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31214?",
+    "a": "Porównaj oferty sklepów sprzedających LEGO Art, zwracając uwagę na koszt dostawy i kompletne, nieotwierane opakowanie. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31214 jest częścią większej kolekcji lub systemu?",
+    "a": "LOVE jest samodzielną przestrzenną dekoracją z LEGO Art, opartą na rzeźbie Roberta Indiany. <a href=\"/serie/art/\">Zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Art warto kupić zamiast tego modelu?",
+    "a": "Jeśli ważne jest wspólne składanie, sprawdź liczbę instrukcji i podział budowy. Przy dekoracji porównuj także modele stojące z pracami do zawieszenia. <a href=\"/serie/art/\">Zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Czy LEGO LOVE można budować we dwoje?",
+    "a": "Tak. Zestaw zawiera dwa komplety instrukcji, przygotowane z myślą o wspólnym budowaniu modelu."
+   }
+  ]
+ },
+ "31217": {
+  "seria": "Art",
+  "nazwa": "Tiger",
+  "elementy": 744,
+  "akapity": [
+   "W LEGO Art 31217 Tiger tygrys wygląda spomiędzy kwiatów i roślin, tworząc przestrzenną dekorację bez ramy. Jest to model z podkolekcji The Fauna Collection, wydany w 2025 roku dla dorosłych, z oznaczeniem 18+. Konstrukcja zawiera 744 elementy. Zamiast całej sylwetki zwierzęcia przedstawia kompozycję z jego głową i roślinnym otoczeniem. Dzięki temu temat przyrodniczy łączy się tu z formą ozdoby wnętrza, którą można potraktować jako osobny akcent na ścianie lub wśród przedmiotów stojących na półce.",
+   "Wbudowana podpórka pozwala ustawić model na stole, a drugi sposób prezentacji to zawieszenie go na ścianie. Gotowa kompozycja ma około 20 cm wysokości, 31 cm szerokości i 6 cm głębokości. Kwiaty można przenosić w inne pozycje, zmieniając ich rozmieszczenie wokół tygrysa. Wybrane kwiaty z innych zestawów LEGO Botanicals, sprzedawanych osobno, mogą posłużyć do rozbudowy dekoracji. Jest to konkretne powiązanie z kolekcją roślinną, choć sam Tiger pozostaje zestawem LEGO Art. Nie wymaga kupowania dodatkowych kwiatów do ukończenia modelu z pudełka.",
+   "Ten zestaw najlepiej odpowiada osobie, która chce pokazać motyw zwierzęcy w formie dekoracji, a także lubi dobierać ustawienie kwiatów. Możliwość zmiany kompozycji ma znaczenie przy dopasowaniu jej do miejsca ekspozycji: kwiaty nie muszą przez cały czas otaczać głowy w identyczny sposób. Przed wyborem warto porównać przestrzenną formę Tigera z innymi pracami LEGO Art oraz roślinnymi modelami Botanicals. Polska cena katalogowa wynosi 249,99 zł. Przy zakupie liczy się kompletność zarówno części tygrysa, jak i kwiatowego otoczenia."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "31217",
+   "Nazwa": "Tiger",
+   "Seria": "Art",
+   "Premiera": "2025",
+   "Liczba elementów": "744",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "Dekoracja ścienna lub stojąca",
+   "Kolekcja i system": "Tiger należy do LEGO Art i podkolekcji The Fauna Collection. Kompozycję można uzupełniać wybranymi kwiatami LEGO Botanicals.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31217?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 31217 w cenie katalogowej?",
+    "a": "Cena katalogowa to 249,99 zł. Warto zestawić ją z dostępnymi ofertami i wybrać model ze względu na tygrysa, roślinną kompozycję oraz dwa sposoby ekspozycji."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31217?",
+    "a": "Sprawdź dostępne oferty nowych zestawów. Przy egzemplarzu używanym skontroluj kompletność kwiatów i elementów do prezentacji modelu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31217 jest częścią większej kolekcji lub systemu?",
+    "a": "Tiger należy do LEGO Art i podkolekcji The Fauna Collection. Kompozycję można uzupełniać wybranymi kwiatami LEGO Botanicals. <a href=\"/serie/art/\">Zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Art?",
+    "a": "Porównaj dekoracje ze zwierzętami i prace przestrzenne. Istotne są sposób ustawienia, możliwość zawieszenia oraz zmiana rozmieszczenia kwiatów. <a href=\"/serie/art/\">Zobacz wszystkie zestawy LEGO Art</a>."
+   },
+   {
+    "q": "Czy Tigera można powiesić na ścianie?",
+    "a": "Tak. Model można zawiesić albo postawić za pomocą wbudowanej podpórki. Kwiaty dają się przestawiać w obrębie kompozycji."
+   }
+  ]
+ },
+ "42217": {
+  "seria": "Technic",
+  "nazwa": "Niebieski Chevrolet Corvette Stingray",
+  "elementy": 732,
+  "akapity": [
+   "LEGO Technic 42217 Niebieski Chevrolet Corvette Stingray łączy rozpoznawalny samochód z mechanizmami, które można obserwować podczas poruszania modelem. Zestaw z 2025 roku zawiera 732 elementy i ma oznaczenie 9+. Niebieskie nadwozie kryje ruchomy ośmiocylindrowy silnik oraz mechanizm różnicowy. Kierowanie odbywa się za pomocą pokrętła na górze samochodu. To model dla dziecka zainteresowanego działaniem pojazdów, ale także dla fana Corvette, który szuka konstrukcji Technic z funkcjami obsługiwanymi ręcznie.",
+   "Otwierane drzwi i maska pozwalają zajrzeć do wnętrza. Po zbudowaniu samochód można toczyć, skręcać jego kołami i oglądać pracę silnika, dzięki czemu mechaniczne detale nie pozostają tylko ukrytymi elementami konstrukcji. Pokrętło kierownicze ułatwia manewrowanie podczas zabawy na płaskiej powierzchni. Połączenie silnika, układu kierowniczego i mechanizmu różnicowego daje kilka różnych punktów zainteresowania, zamiast pojedynczego ruchomego dodatku. Instrukcje są dostępne także w aplikacji LEGO Builder, gdzie model można oglądać w trzech wymiarach podczas składania.",
+   "Corvette ma około 8 cm wysokości, 27 cm długości i 14 cm szerokości. Pozwala to ustawić ją obok innych samochodów, ale warto porównywać rzeczywiste wymiary, ponieważ modele Technic nie tworzą jednej wspólnej skali. Jest samodzielnym samochodem, a nie modułem wymagającym innego zestawu. Najważniejszy wybór dotyczy tutaj połączenia konkretnej marki, niebieskiej kolorystyki i widocznej mechaniki. Polska cena katalogowa wynosi 249,99 zł. Przy porównywaniu z innymi pojazdami Technic warto zwrócić uwagę na zestaw funkcji, a nie wyłącznie długość nadwozia.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 15. co do wielkości. Za element płaci się tu katalogowo 0,34 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "42217",
+   "Nazwa": "Niebieski Chevrolet Corvette Stingray",
+   "Seria": "Technic",
+   "Premiera": "2025",
+   "Liczba elementów": "732",
+   "Wiek": "9+",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "Samochód z funkcjami mechanicznymi",
+   "Kolekcja i system": "To samodzielny samochód LEGO Technic. Można zestawić go z innymi pojazdami kolekcji, pamiętając o różnicach wymiarów.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 42217?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 42217 w cenie katalogowej?",
+    "a": "Przy RRP 249,99 zł warto porównać oferty sklepów. Ten model ma największy sens dla osoby zainteresowanej Corvette i ręcznie działającymi mechanizmami Technic."
+   },
+   {
+    "q": "Gdzie kupić LEGO 42217?",
+    "a": "Porównaj dostępne oferty tego konkretnego numeru i niebieskiego wariantu. W używanym egzemplarzu sprawdź działanie kierowania i napędu silnika. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 42217 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny samochód LEGO Technic. Można zestawić go z innymi pojazdami kolekcji, pamiętając o różnicach wymiarów. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Technic w podobnej cenie?",
+    "a": "Dobrym punktem porównania są samochody z układem kierowniczym, ruchomym silnikiem i otwieranymi elementami nadwozia. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>."
+   },
+   {
+    "q": "Jakie mechanizmy ma Corvette 42217?",
+    "a": "Model ma ruchomy ośmiocylindrowy silnik, mechanizm różnicowy i kierowanie pokrętłem. Otwierają się także drzwi i maska."
+   }
+  ]
+ },
+ "42674": {
+  "seria": "Friends",
+  "nazwa": "Sklep z grami i komiksami",
+  "elementy": 1005,
+  "akapity": [
+   "Komiksy, gry i przebrania spotykają się w LEGO Friends 42674 Sklep z grami i komiksami. Ten zestaw z 2025 roku zawiera 1005 elementów i jest przeznaczony dla dzieci od dziewiątego roku życia. Główny budynek mieści sklep oraz przestrzeń do grania, a obok znajduje się punkt z mrożonymi napojami. Cztery minilaleczki przedstawiają Zaka, Novę, Liann i Aliyę w kostiumach inspirowanych robotem, superbohaterem, odkrywcą galaktyki i rycerzem. Postacie oraz akcesoria pozwalają od razu rozegrać spotkanie fanów komiksów albo wizytę w sklepie.",
+   "W środku znajdują się komiksy, kontrolery, słuchawki do gier, hełmy i ekran. Automat z zabawkami wydaje małe płytki LEGO, a drugi automat nawiązuje do gier arcade. Wśród drobiazgów są również elementy przedstawiające pluszowego kosmitę i jednorożca. Strefa komputerowa na piętrze daje postaciom inne zajęcie niż przeglądanie towarów na dole. Te różne miejsca tworzą kilka scen w obrębie jednego modelu: wybieranie komiksu, kompletowanie przebrania, granie oraz przerwę na napój. Detale sklepu są więc bezpośrednio związane z tematem, zamiast służyć tylko wypełnieniu wnętrza.",
+   "Budynek ma około 18 cm wysokości, 30 cm szerokości i 17 cm głębokości. Jest samodzielnym miejscem spotkań w świecie Heartlake, które można włączyć do większego miasta LEGO Friends. Własne kostiumy czterech bohaterów wyróżniają go wśród zwykłych lokali handlowych tej serii. Z perspektywy wyboru prezentu najbardziej pasuje do dziecka zainteresowanego grami, komiksami lub odgrywaniem historii z kilkoma postaciami. Rozbudowane wyposażenie pozwala wracać do różnych części sklepu po skończeniu budowania. Cyfrowe instrukcje są dostępne w aplikacji LEGO Builder. Polska cena katalogowa wynosi 379,99 zł. Zestaw ma dystrybucję przez LEGO oraz wybranych sprzedawców, dlatego porównanie dostępnych ofert i warunków dostawy jest użyteczniejsze niż zakładanie jednakowych rabatów w każdym sklepie.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 4. co do wielkości. Za element płaci się tu katalogowo 0,38 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "42674",
+   "Nazwa": "Sklep z grami i komiksami",
+   "Seria": "Friends",
+   "Premiera": "2025",
+   "Liczba elementów": "1005",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "4 minilaleczki: Zak, Nova, Liann, Aliya",
+   "Polska cena katalogowa RRP": "379,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "Budynek do zabawy w odgrywanie ról",
+   "Kolekcja i system": "Sklep jest samodzielnym budynkiem ze świata Heartlake i może uzupełnić większe miasto LEGO Friends.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 42674?",
+    "a": "Polska cena katalogowa wynosi 379,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 42674 w cenie katalogowej?",
+    "a": "RRP wynosi 379,99 zł. Przy dystrybucji przez LEGO i wybranych sprzedawców pełna cena może być uzasadniona dostępnością lub korzyściami Insiders, ale warto porównać oferty."
+   },
+   {
+    "q": "Gdzie kupić LEGO 42674?",
+    "a": "Sprawdź LEGO oraz wybrane sklepy sprzedające ten numer. Porównaj dostępność, koszt dostawy i warunki zakupu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 42674 jest częścią większej kolekcji lub systemu?",
+    "a": "Sklep jest samodzielnym budynkiem ze świata Heartlake i może uzupełnić większe miasto LEGO Friends. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Friends warto kupić zamiast tego modelu?",
+    "a": "Porównaj inne lokale i miejsca spotkań Friends. W tym modelu szczególne znaczenie mają cztery przebrania, strefa gier i automat z zabawkami. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>."
+   },
+   {
+    "q": "Czy automat w sklepie jest funkcjonalny?",
+    "a": "Tak. Automat z zabawkami wydaje małe płytki LEGO. W budynku jest także automat do gier i miejsce do grania na piętrze."
+   }
+  ]
+ },
+ "60457": {
+  "seria": "City",
+  "nazwa": "Policyjny warsztat tuningowy",
+  "elementy": 489,
+  "akapity": [
+   "Radiowóz, który można dostosować do różnych misji, jest główną atrakcją LEGO City 60457 Policyjny warsztat tuningowy. Zestaw z 2025 roku zawiera 489 elementów, ma oznaczenie 6+ i obejmuje cztery minifigurki: szefa policji, kierowcę oraz dwoje mechaników. W warsztacie są obrotowa platforma dla samochodu, ekrany z zadaniami i wózek z narzędziami.",
+   "Dołączane wyposażenie pozwala przygotować pojazd do jazdy po drodze, w terenie, po śniegu lub do misji powietrznych. Modułowe ściany można przestawiać, zmieniając układ garażu. Klucz, młotek, kajdanki, kubek i pączek uzupełniają codzienne scenki. Model najlepiej sprawdzi się u dziecka, które lubi przebudowywać pojazdy i bawić się w policyjną ekipę techniczną. Jest samodzielnym zestawem, a tematycznie pasuje do pozostałych modeli LEGO City."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "60457",
+   "Nazwa": "Policyjny warsztat tuningowy",
+   "Seria": "City",
+   "Premiera": "2025",
+   "Liczba elementów": "489",
+   "Wiek": "6+",
+   "Minifigurki i postacie": "4 minifigurki: szef policji, kierowca, dwoje mechaników",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "Warsztat i przebudowywany radiowóz",
+   "Kolekcja i system": "Warsztat działa samodzielnie i tematycznie łączy się z policyjnymi pojazdami oraz budynkami LEGO City.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60457?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 60457 w cenie katalogowej?",
+    "a": "Cena katalogowa to 209,99 zł. Porównaj oferty, a wybór oprzyj na możliwości przebudowy radiowozu i przestawiania ścian warsztatu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 60457?",
+    "a": "Szukaj kompletnego zestawu w ofertach sklepów. Przy używanym egzemplarzu szczególnie ważne są wymienne dodatki do radiowozu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 60457 jest częścią większej kolekcji lub systemu?",
+    "a": "Warsztat działa samodzielnie i tematycznie łączy się z policyjnymi pojazdami oraz budynkami LEGO City. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Porównuj zestawy z funkcjami przebudowy pojazdu i zapleczem warsztatowym, zamiast wybierać tylko kolejny radiowóz. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>."
+   },
+   {
+    "q": "Czy radiowóz można przebudowywać?",
+    "a": "Tak. Dołączane wyposażenie pozwala dostosować go do misji drogowych, terenowych, śnieżnych i powietrznych."
+   }
+  ]
+ },
+ "71489": {
+  "seria": "DREAMZzz",
+  "nazwa": "Cooper's Gaming Controller Jet",
+  "elementy": 266,
+  "akapity": [
+   "Kontroler do gry staje się pojazdem w LEGO DREAMZzz 71489 Cooper's Gaming Controller Jet. Zestaw z 2025 roku zawiera 266 elementów i ma oznaczenie 7+. Po zbudowaniu podstawowej konstrukcji można wybrać odrzutowiec albo helikopter. To dwa warianty przebudowy tego samego modelu, pozwalające zmienić rodzaj podniebnej przygody.",
+   "Otwierany kokpit i dwa miotacze klocków nadają pojazdowi funkcje do zabawy. W pudełku jest jedna minifigurka Coopera oraz figurka cyberpająka-mózgowca jako przeciwnika. Zestaw jest samodzielną propozycją dla dzieci lubiących fantastyczne pojazdy i motywy związane z grami. Instrukcje z fabułą wiążą budowanie z historią bohatera. Model należy do świata LEGO DREAMZzz, więc może uczestniczyć w przygodach z postaciami z pozostałych zestawów serii."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71489",
+   "Nazwa": "Cooper's Gaming Controller Jet",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Liczba elementów": "266",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "1 minifigurka Coopera; figurka cyberpająka-mózgowca",
+   "Polska cena katalogowa RRP": "84,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "Pojazd z dwoma wariantami budowy",
+   "Kolekcja i system": "To samodzielny model z LEGO DREAMZzz, który można włączyć do przygód z innymi bohaterami świata snów.",
+   "Dystrybucja": "Produkt wycofany z produkcji; zapasy sprzedawców i rynek wtórny"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71489?",
+    "a": "Polska cena katalogowa wynosiła 84,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71489 w cenie katalogowej?",
+    "a": "Historyczne RRP 84,99 zł jest punktem odniesienia. Produkt został wycofany, więc decyzję warto oprzeć na dostępnych zapasach, kompletności i cenie z dostawą."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71489?",
+    "a": "Porównaj zapasy sklepów i oferty rynku wtórnego. Sprawdź, czy komplet obejmuje Coopera i figurkę cyberpająka-mózgowca. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71489 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny model z LEGO DREAMZzz, który można włączyć do przygód z innymi bohaterami świata snów. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO DREAMZzz w podobnej cenie?",
+    "a": "Porównaj niewielkie pojazdy DREAMZzz z alternatywnymi wariantami konstrukcji. Tutaj wybór dotyczy odrzutowca lub helikoptera. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Czy odrzutowiec i helikopter powstają jednocześnie?",
+    "a": "Nie. Są dwoma wariantami przebudowy tej samej konstrukcji bazowej. Wybiera się jeden z nich."
+   }
+  ]
+ },
+ "71490": {
+  "seria": "DREAMZzz",
+  "nazwa": "Izzie and Bunchurro the Gaming Bunny",
+  "elementy": 252,
+  "akapity": [
+   "Królik Bunchurro ma ekran na brzuchu, rękawice przypominające kontrolery i sportowe buty. Taką wersję bohatera przedstawia LEGO DREAMZzz 71490 Izzie and Bunchurro the Gaming Bunny z 2025 roku. Zestaw zawiera 252 elementy i jest przeznaczony dla dzieci od siedmiu lat. Ruchomego królika można wyposażyć w deskorolkę z dopalaczami albo plecak odrzutowy.",
+   "Minifigurka Izzie może jechać na plecach Bunchurro. Dodatkowe postacie to cyberludek i marchewkowy śniący, wokół których można zbudować historię ratunkową. Warianty wyposażenia pozwalają przenieść akcję z jazdy na deskorolce do lotu. Modułowe dopalacze pasują również do innych zestawów LEGO DREAMZzz z 2025 roku. To samodzielny model dla dziecka zainteresowanego fantastycznymi zwierzętami i przebudową, z instrukcjami prowadzącymi przez opowieść."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71490",
+   "Nazwa": "Izzie and Bunchurro the Gaming Bunny",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Liczba elementów": "252",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "1 minifigurka Izzie; cyberludek i marchewkowy śniący",
+   "Polska cena katalogowa RRP": "84,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "Ruchoma figurka z dwoma wariantami wyposażenia",
+   "Kolekcja i system": "Bunchurro należy do LEGO DREAMZzz. Modułowe dopalacze można łączyć z innymi zestawami tej serii z 2025 roku.",
+   "Dystrybucja": "Produkt wycofany z produkcji; zapasy sprzedawców i rynek wtórny"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71490?",
+    "a": "Polska cena katalogowa wynosiła 84,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71490 w cenie katalogowej?",
+    "a": "RRP wynosiło 84,99 zł. Po zakończeniu produkcji porównuj pozostałe oferty i kompletność wyposażenia potrzebnego do obu wariantów Bunchurro."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71490?",
+    "a": "Sprawdź zapasy detaliczne oraz rynek wtórny. Upewnij się, że zestaw ma Izzie, dodatkowe postacie i elementy deskorolki oraz plecaka odrzutowego. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71490 jest częścią większej kolekcji lub systemu?",
+    "a": "Bunchurro należy do LEGO DREAMZzz. Modułowe dopalacze można łączyć z innymi zestawami tej serii z 2025 roku. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO DREAMZzz warto kupić zamiast tego modelu?",
+    "a": "Szukaj innych ruchomych stworzeń z wariantami wyposażenia. W Bunchurro istotny jest wybór między deskorolką i lotem. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Czy Izzie może jechać na Bunchurro?",
+    "a": "Tak. Minifigurkę Izzie można zamocować na plecach królika. Sam Bunchurro jest ruchomy w obu wariantach wyposażenia."
+   }
+  ]
+ },
+ "71491": {
+  "seria": "DREAMZzz",
+  "nazwa": "Mateo and the Z-Blob Action Race Car",
+  "elementy": 485,
+  "akapity": [
+   "LEGO DREAMZzz 71491 Mateo and the Z-Blob Action Race Car pozwala zbudować terenową wyścigówkę albo szybki motocykl z tej samej konstrukcji bazowej. Model z 2025 roku zawiera 485 elementów i ma oznaczenie 8+. Pojazd ma toczące się koła, zdejmowaną przednią szybę oraz dwa miotacze mieszczące po sześć klocków.",
+   "W przygodzie uczestniczą dwie minifigurki, Mateo i D-Shock, oraz figurki Z-Bloba, cyberpająka-mózgowca i śniącego VR. Modułowe dopalacze można dołączać do innych zestawów LEGO DREAMZzz z 2025 roku. Głównym wyróżnikiem jest zmiana wyścigówki w motocykl: wybór konstrukcji wpływa na sposób prowadzenia pościgu. Zestaw będzie odpowiedni dla dziecka, które lubi fantastyczne pojazdy i powrót do budowania po rozegraniu pierwszej historii."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71491",
+   "Nazwa": "Mateo and the Z-Blob Action Race Car",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Liczba elementów": "485",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "2 minifigurki: Mateo i D-Shock; Z-Blob, cyberpająk-mózgowiec i śniący VR",
+   "Polska cena katalogowa RRP": "219,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "Pojazd z dwoma wariantami budowy",
+   "Kolekcja i system": "Zestaw jest częścią LEGO DREAMZzz. Modułowe dopalacze współpracują z innymi modelami kolekcji z 2025 roku.",
+   "Dystrybucja": "Produkt wycofany z produkcji; zapasy sprzedawców i rynek wtórny"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71491?",
+    "a": "Polska cena katalogowa wynosiła 219,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71491 w cenie katalogowej?",
+    "a": "Historyczna cena katalogowa wynosiła 219,99 zł. Produkt jest wycofany, więc porównaj dostępne zapasy i stan zestawu, bez zakładania konkretnego poziomu rabatu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71491?",
+    "a": "Sprawdź oferty sklepów i rynku wtórnego. Przy używanym komplecie ważne są części obu wariantów pojazdu oraz dołączone postacie. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71491 jest częścią większej kolekcji lub systemu?",
+    "a": "Zestaw jest częścią LEGO DREAMZzz. Modułowe dopalacze współpracują z innymi modelami kolekcji z 2025 roku. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Porównaj przebudowywane pojazdy DREAMZzz pod kątem wariantów jazdy, miotaczy i dodatkowych postaci. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Na co można przebudować wyścigówkę?",
+    "a": "Z konstrukcji bazowej powstaje terenowy samochód wyścigowy albo motocykl. Są to alternatywne warianty jednego zestawu."
+   }
+  ]
+ },
+ "71495": {
+  "seria": "DREAMZzz",
+  "nazwa": "Mateo vs. Cyber Brain Mech",
+  "elementy": 368,
+  "akapity": [
+   "Kolorowa kapsuła jest punktem wyjścia do dwóch konstrukcji w LEGO DREAMZzz 71495 Mateo vs. Cyber Brain Mech. Zestaw z 2025 roku zawiera 368 elementów i ma oznaczenie 8+. Kapsułę można przebudować na mecha cybermózgu albo robota przypominającego skorpiona. Otwierany kokpit, miotacze klocków oraz duże działo tworzą wyposażenie przeciwnika.",
+   "Bohaterem zestawu jest minifigurka Mateo z Z-Blobem pełniącym rolę ochronnej peleryny; towarzyszy jej figurka śniącego. Zabawa może polegać na uwolnieniu go z rąk cybermózgu. Modułowe miotacze współpracują z innymi zestawami LEGO DREAMZzz z 2025 roku. Ten samodzielny model pasuje do dzieci zainteresowanych robotami i fantastycznymi stworzeniami. Dwa warianty budowy pozwalają zdecydować, czy historia ma koncentrować się na humanoidalnym mechu, czy na skorpionie."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71495",
+   "Nazwa": "Mateo vs. Cyber Brain Mech",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Liczba elementów": "368",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "1 minifigurka Mateo; figurka śniącego",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "Mech z dwoma wariantami budowy",
+   "Kolekcja i system": "Model należy do LEGO DREAMZzz. Modułowe miotacze można dołączać do innych zestawów tej serii z 2025 roku.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71495?",
+    "a": "Polska cena katalogowa wynosi 124,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71495 w cenie katalogowej?",
+    "a": "Przy RRP 124,99 zł warto porównać dostępne oferty. Znaczenie ma możliwość przebudowy kapsuły na dwa różne roboty i zgodność modułów z kolekcją."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71495?",
+    "a": "Porównaj oferty sprzedawców mających ten numer w zapasie. Przy używanym egzemplarzu skontroluj miotacze oraz części potrzebne do obu wariantów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71495 jest częścią większej kolekcji lub systemu?",
+    "a": "Model należy do LEGO DREAMZzz. Modułowe miotacze można dołączać do innych zestawów tej serii z 2025 roku. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO DREAMZzz w podobnej cenie?",
+    "a": "Porównaj mniejsze mechy i stworzenia DREAMZzz z alternatywną budową. Tutaj drugi wariant przypomina skorpiona. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Ile wariantów ma kapsuła cybermózgu?",
+    "a": "Dwa. Można przebudować ją na mecha cybermózgu albo mecha skorpiona. Zestaw zawiera minifigurkę Mateo i figurkę śniącego."
+   }
+  ]
+ },
+ "71497": {
+  "seria": "DREAMZzz",
+  "nazwa": "Cooper's Tiger Mech & Zero's Hot Rod Car",
+  "elementy": 1006,
+  "akapity": [
+   "Czerwony samolot Coopera jest dopiero początkiem LEGO DREAMZzz 71497 Cooper's Tiger Mech & Zero's Hot Rod Car. W tym zestawie z 2025 roku konstrukcję bazową można przebudować na tygrysiego mecha i hot roda albo na wyścigówkę i robota. Oba wybory prowadzą do pary modeli, dzięki czemu po przebudowie pojazdowi lub maszynie towarzyszy druga konstrukcja do rozegrania starcia. Pudełko zawiera 1006 elementów i ma oznaczenie 9+. Jest przeznaczone dla dzieci lubiących fantastyczne maszyny, roboty oraz powracanie do składania tego samego zestawu.",
+   "Tygrysi mech i robot mają ruchome części, a pojazdy toczą się na kołach. W wyposażeniu znajdują się miotacze klocków i miecz. Trzy minifigurki przedstawiają Coopera, Zero i śniącego. Oprócz nich do akcji dołączają figurki Z-Bloba, cyberpająka-mózgowca oraz dwóch cyberludków. Warto rozróżnić tę grupę od samej liczby minifigurek: w pudełku są różne rodzaje postaci, które pełnią odmienne role w historii ratunkowej. Tygrysi mech po zbudowaniu ma około 31 cm wysokości, 24 cm szerokości i 19 cm głębokości, więc jest wyraźnym centralnym elementem sceny.",
+   "Modułowe dopalacze i przednie skrzydła można łączyć z innymi modelami LEGO DREAMZzz z 2025 roku. Zestaw pozostaje jednak samodzielny: wybrany wariant można zbudować i wykorzystać w zabawie bez dodatkowych modeli. Instrukcje z fabułą wiążą kolejne etapy konstrukcji z przygodą bohaterów. Dla kupującego istotne jest, że alternatywne modele powstają przez przebudowę, a nie jako dodatkowy pełny komplet składany jednocześnie ze wszystkimi pozostałymi wariantami. To wybór dla osoby, która chce zmieniać własną scenę pomiędzy robotami, mechem i pojazdami. Polska cena katalogowa wynosi 439,99 zł. LEGO oznacza produkt jako wycofany z produkcji, dlatego zakup zależy od zapasów pozostających u sprzedawców."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71497",
+   "Nazwa": "Cooper's Tiger Mech & Zero's Hot Rod Car",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Liczba elementów": "1006",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "3 minifigurki: Cooper, Zero, śniący; Z-Blob, cyberpająk-mózgowiec i 2 cyberludki",
+   "Polska cena katalogowa RRP": "439,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "Przebudowywane pojazdy i roboty",
+   "Kolekcja i system": "Zestaw należy do LEGO DREAMZzz. Modułowe dopalacze i przednie skrzydła można łączyć z modelami tej linii z 2025 roku.",
+   "Dystrybucja": "Produkt wycofany z produkcji; zapasy sprzedawców i rynek wtórny"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71497?",
+    "a": "Polska cena katalogowa wynosiła 439,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71497 w cenie katalogowej?",
+    "a": "RRP wynosiło 439,99 zł. Po zakończeniu produkcji warto porównać zapasy sprzedawców, uwzględniając stan zestawu i kompletność licznych postaci."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71497?",
+    "a": "Szukaj zapasów sklepowych lub kompletnego egzemplarza z rynku wtórnego. Sprawdź części potrzebne do obu par modeli. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71497 jest częścią większej kolekcji lub systemu?",
+    "a": "Zestaw należy do LEGO DREAMZzz. Modułowe dopalacze i przednie skrzydła można łączyć z modelami tej linii z 2025 roku. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO DREAMZzz warto kupić zamiast tego modelu?",
+    "a": "Porównaj duże przebudowywane modele z pojazdem i robotem. W tym zestawie każda wybrana opcja daje parę konstrukcji do starcia. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>."
+   },
+   {
+    "q": "Jakie modele można zbudować z LEGO 71497?",
+    "a": "Czerwony samolot można przebudować na tygrysiego mecha i hot roda albo na wyścigówkę i robota. Wszystkie warianty nie powstają jednocześnie."
+   }
+  ]
+ },
+ "72043": {
+  "seria": "Super Mario",
+  "nazwa": "Mario Kart – Interaktywna figurka Mario i Standard Kart",
+  "elementy": 278,
+  "akapity": [
+   "Interaktywny Mario jest częścią LEGO Super Mario 72043 Mario Kart – Interaktywna figurka Mario i Standard Kart, więc do rozpoczęcia elektronicznej zabawy nie trzeba kupować go osobno. Zestaw z 2025 roku zawiera 278 elementów i ma oznaczenie 7+. Gokart umożliwia drift i wystrzeliwanie skorup, a jazda z Mario uruchamia dźwięki i efekty wizualne.",
+   "Trasę tworzą start, łączone bariery, pachołki oraz miejsce dla zwycięzcy. Wśród postaci są także Bob-omb i Thwomp, a skrzynka z przedmiotami pozwala zdobywać cyfrowe nagrody. Zielone i czerwone płytki wywołują reakcje figurki Mario. To samodzielny początek kolekcji Mario Kart dla dziecka zainteresowanego wyścigami. Inne zestawy tej podserii pozwalają dołączyć kolejne pojazdy i rozbudować przebieg zawodów."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "72043",
+   "Nazwa": "Mario Kart – Interaktywna figurka Mario i Standard Kart",
+   "Seria": "Super Mario",
+   "Premiera": "2025",
+   "Liczba elementów": "278",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "Interaktywny Mario, Bob-omb i Thwomp",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,76 zł",
+   "Typ zestawu": "Interaktywny zestaw wyścigowy",
+   "Kolekcja i system": "Zestaw należy do podserii Mario Kart w LEGO Super Mario. Kolejne pojazdy i odcinki trasy pozwalają rozszerzyć wyścigi.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72043?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 72043 w cenie katalogowej?",
+    "a": "RRP wynosi 209,99 zł. Przy porównaniu ofert uwzględnij, że zestaw zawiera interaktywnego Mario; jest to ważna różnica względem gokartów bez tej figurki."
+   },
+   {
+    "q": "Gdzie kupić LEGO 72043?",
+    "a": "Porównaj dostępne oferty zestawu 72043. Przy egzemplarzu używanym sprawdź sprawność interaktywnego Mario oraz kompletność elementów trasy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72043 jest częścią większej kolekcji lub systemu?",
+    "a": "Zestaw należy do podserii Mario Kart w LEGO Super Mario. Kolejne pojazdy i odcinki trasy pozwalają rozszerzyć wyścigi. <a href=\"/serie/super-mario/\">Zobacz wszystkie zestawy LEGO Super Mario</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Super Mario?",
+    "a": "Zestawiaj go z innymi modelami Mario Kart, sprawdzając przede wszystkim obecność figurki interaktywnej i możliwości rozbudowy trasy. <a href=\"/serie/super-mario/\">Zobacz wszystkie zestawy LEGO Super Mario</a>."
+   },
+   {
+    "q": "Czy interaktywny Mario jest w pudełku?",
+    "a": "Tak. Zestaw zawiera interaktywną figurkę Mario, Standard Kart oraz postacie Bob-omb i Thwomp. Mario uruchamia efekty podczas jazdy."
+   }
+  ]
+ },
+ "75435": {
+  "seria": "Star Wars",
+  "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+  "elementy": 976,
+  "akapity": [
+   "Desant droidów jest najważniejszą funkcją LEGO Star Wars 75435 Transporter MTT Separatystów z bitwy o Felucję. Zestaw z 2025 roku odtwarza pojazd z Wojen klonów, zawiera 976 elementów i ma oznaczenie 9+. Obrót pokrętła wysuwa przez przednią klapę platformę z droidami bojowymi. Po zatrzymaniu transportera można odczepić je i rozstawić w scenie bitwy. Mechanizm wiąże wygląd maszyny z jej zadaniem, dlatego MTT ma sens zarówno jako duży element scenki, jak i pojazd używany podczas zabawy.",
+   "Boczne panele unoszą się, odsłaniając wnętrze. W modelu są kokpit pilota, dwa miotacze klocków oraz schowek z tyłu na ścigacz STAP. Ukryte koła pozwalają przesuwać transporter po płaskiej powierzchni. W zestawie znajdują się dwie minifigurki, Aayla Secura z mieczem świetlnym i komandor Bly z karabinem blasterowym. Grupę Separatystów tworzy dziesięć figurek droidów: sześć bojowych, jeden pilot i trzy komandosy. Ta grupa jest przygotowana do konkretnego starcia i obejmuje postacie o różnych typach konstrukcji.",
+   "MTT ma około 15 cm wysokości, 29 cm długości i 13 cm szerokości. Jest samodzielnym modelem, który można włączyć do kolekcji pojazdów i scen z Wojen klonów. Najbardziej odpowiada fanowi zainteresowanemu armią Separatystów oraz mechanicznym wydawaniem droidów z transportera. Przy porównaniu z innymi zestawami Star Wars warto uwzględnić właśnie tę funkcję, liczbę droidów i obecność STAP, zamiast traktować model jak samą bryłę do ekspozycji. Polska cena katalogowa wynosi 649,99 zł.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 7. co do wielkości. Za element płaci się tu katalogowo 0,67 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "75435",
+   "Nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+   "Seria": "Star Wars",
+   "Premiera": "2025",
+   "Liczba elementów": "976",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "2 minifigurki: Aayla Secura, komandor Bly; 10 figurek droidów",
+   "Polska cena katalogowa RRP": "649,99 zł",
+   "Cena katalogowa za element": "0,67 zł",
+   "Typ zestawu": "Pojazd z mechanizmem desantu",
+   "Kolekcja i system": "To samodzielny pojazd z LEGO Star Wars, tematycznie związany z bitwą o Felucję w Wojnach klonów.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75435?",
+    "a": "Polska cena katalogowa wynosi 649,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 75435 w cenie katalogowej?",
+    "a": "Przy cenie 649,99 zł warto porównać oferty sklepów. MTT ma szczególny sens dla fana desantu droidów i scen z Wojen klonów."
+   },
+   {
+    "q": "Gdzie kupić LEGO 75435?",
+    "a": "Porównaj oferty kompletnego zestawu. W używanym egzemplarzu sprawdź mechanizm platformy, ścigacz STAP i wszystkie figurki droidów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 75435 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny pojazd z LEGO Star Wars, tematycznie związany z bitwą o Felucję w Wojnach klonów. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Star Wars w podobnej cenie?",
+    "a": "Porównuj pojazdy Separatystów oraz zestawy do rozbudowy armii droidów, zwracając uwagę na funkcje desantu i dołączone postacie. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Jak działa desant droidów w MTT?",
+    "a": "Obrót pokrętła wysuwa platformę przez przednią klapę. Droidy można odczepić, a transporter przesuwać na ukrytych kołach."
+   }
+  ]
+ },
+ "75688": {
+  "seria": "Wicked",
+  "nazwa": "Glinda’s Wedding Day",
+  "elementy": 476,
+  "akapity": [
+   "Dwa duże motyle zamykają scenę ślubną w LEGO Wicked 75688 Glinda’s Wedding Day. Zestaw z 2025 roku zawiera 476 elementów, ma oznaczenie 8+ i nawiązuje do filmu Wicked: For Good. Po rozsunięciu ruchomych motyli można odegrać przygotowania Glindy do ślubu z Fiyerem.",
+   "Scenę uzupełniają tort, bukiet i zaproszenie w kształcie serca. W zestawie są dwie minilaleczki oraz dwie figurki zwierząt. Glinda ma twarz z radosnym i zaskoczonym wyrazem, co pozwala zmienić nastrój opowieści. Po zabawie motyle można zsunąć, tworząc zamkniętą dekorację o wymiarach około 11 × 20 × 13 cm. To model dla fana Wicked, który chce połączyć odgrywanie filmowej sceny z kolorową ozdobą pokoju."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "75688",
+   "Nazwa": "Glinda’s Wedding Day",
+   "Seria": "Wicked",
+   "Premiera": "2025",
+   "Liczba elementów": "476",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "2 minilaleczki; 2 figurki zwierząt",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "Scena filmowa do zabawy i ekspozycji",
+   "Kolekcja i system": "To samodzielna scena z kolekcji LEGO Wicked, nawiązująca do filmu Wicked: For Good.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75688?",
+    "a": "Polska cena katalogowa wynosi 169,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 75688 w cenie katalogowej?",
+    "a": "Cena katalogowa to 169,99 zł. Warto porównać oferty i wybrać ten zestaw, jeśli ważna jest scena ślubna oraz zamykana dekoracja z motylami."
+   },
+   {
+    "q": "Gdzie kupić LEGO 75688?",
+    "a": "Porównaj oferty zestawu 75688. Przy zakupie używanego modelu sprawdź oba motyle, minilaleczki i akcesoria ślubne. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 75688 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielna scena z kolekcji LEGO Wicked, nawiązująca do filmu Wicked: For Good. <a href=\"/serie/wicked/\">Zobacz wszystkie zestawy LEGO Wicked</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Wicked warto kupić zamiast tego modelu?",
+    "a": "Porównaj inne sceny Wicked pod kątem postaci i sposobu ekspozycji. Ten model wyróżnia zamykanie sceny pomiędzy dwoma motylami. <a href=\"/serie/wicked/\">Zobacz wszystkie zestawy LEGO Wicked</a>."
+   },
+   {
+    "q": "Czy motyle można zamknąć po zabawie?",
+    "a": "Tak. Po odegraniu sceny można zsunąć motyle, tworząc zamkniętą dekorację. Rozsunięcie ich ponownie udostępnia wnętrze."
+   }
+  ]
+ },
+ "76317": {
+  "seria": "Marvel",
+  "nazwa": "Mieszkanie Petera Parkera",
+  "elementy": 394,
+  "akapity": [
+   "Dom Spider-Mana może stać się miejscem starcia w LEGO Marvel 76317 Mieszkanie Petera Parkera. Zestaw z 2025 roku zawiera 394 elementy i ma oznaczenie 8+. Przycisk uruchamia zawalenie części budynku, a duża elastyczna pajęczyna pozwala schwytać minifigurkę. Na dwóch poziomach znajdują się kuchnia, sypialnia i miejsce do pracy.",
+   "Cztery minifigurki to Spider-Man, Anti-Venom, Mary Jane oraz Hobgoblin z szybowcem i dyniowymi bombami. Mary Jane ma także ruchomego robota-pająka. Wyposażenie mieszkania obejmuje łóżko, biurko, komputer, aparat i mikroskop. Budynek można połączyć z zestawem 76324 oraz ustawić na modelu 76311. Jest to propozycja dla dziecka, które chce rozgrywać przygody Spider-Mana w otoczeniu z funkcją zniszczenia, a później rozbudować miejską scenę."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76317",
+   "Nazwa": "Mieszkanie Petera Parkera",
+   "Seria": "Marvel",
+   "Premiera": "2025",
+   "Liczba elementów": "394",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "4 minifigurki: Spider-Man, Anti-Venom, Mary Jane, Hobgoblin",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "Budynek z funkcją zniszczenia",
+   "Kolekcja i system": "Mieszkanie można połączyć z modelem 76324 i ustawić na zestawie 76311. Tworzy część rozbudowywanej sceny Spider-Mana w LEGO Marvel.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76317?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76317 w cenie katalogowej?",
+    "a": "RRP wynosi 209,99 zł. Porównaj oferty, a wybór oprzyj na czterech postaciach, funkcji zawalenia budynku i możliwości łączenia z innymi modelami."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76317?",
+    "a": "Sprawdź dostępne oferty tego numeru. W używanym zestawie ważne są minifigurki, duża pajęczyna i działanie przycisku zniszczenia. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76317 jest częścią większej kolekcji lub systemu?",
+    "a": "Mieszkanie można połączyć z modelem 76324 i ustawić na zestawie 76311. Tworzy część rozbudowywanej sceny Spider-Mana w LEGO Marvel. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Porównaj budynki Spider-Mana z funkcjami akcji i punktami łączenia. Przy rozbudowie szczególnie istotne są zestawy 76324 oraz 76311. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>."
+   },
+   {
+    "q": "Czy budynek ma funkcję zniszczenia?",
+    "a": "Tak. Przycisk powoduje zawalenie części konstrukcji. Elastyczna pajęczyna może natomiast schwytać minifigurkę."
+   }
+  ]
+ },
+ "76785": {
+  "seria": "Wednesday",
+  "nazwa": "Thing's Apartment",
+  "elementy": 828,
+  "akapity": [
+   "Mieszkanie Rączki jest ukryte w otwieranej walizce LEGO Wednesday 76785 Thing's Apartment. Zestaw z 2025 roku zawiera 828 elementów i ma oznaczenie 10+. W środku są wydzielone miejsca do życia, łóżko, krzesło, kapelusz i zegarek. Zamiast zwykłego budynku model wykorzystuje podróżny kufer, którego otwarcie udostępnia wnętrze do odgrywania historii. Ten pomysł szczególnie pasuje do osobliwego świata Wednesday i sprawia, że zamknięta konstrukcja wygląda inaczej niż scena gotowa do zabawy.",
+   "Do zestawu dołączono ruchomą figurkę Rączki i minilaleczkę Enid Sinclair. W górnej części walizki znajduje się miejsce na elementy związane z pielęgnacją dłoni: naklejki na paznokcie, buteleczki lakieru i krem. Obracanie uchwytu uruchamia funkcję prysznica. Akcesoria są więc dobrane do bohatera będącego dłonią i pozwalają budować scenki z charakterystycznym humorem. Dostęp do wnętrza uzyskuje się przez otwarcie kufra, a po zakończeniu przygody model można zamknąć i postawić na półce.",
+   "Zamknięta walizka ma około 13 cm wysokości, 23 cm szerokości i 11 cm głębokości. Stanowi samodzielny zestaw z serii Wednesday; inne modele tej linii mogą rozszerzyć grupę postaci, ale nie są potrzebne do zbudowania mieszkania Rączki. Dla kupującego wyróżnikiem jest połączenie formy kufra, nietypowego lokatora i konkretnych akcesoriów do dłoni. To wybór dla fana serialu, który lubi małe wnętrza z ukrytymi detalami i chce móc zmieniać model z dekoracji w otwartą scenkę. Polska cena katalogowa wynosi 359,99 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76785",
+   "Nazwa": "Thing's Apartment",
+   "Seria": "Wednesday",
+   "Premiera": "2025",
+   "Liczba elementów": "828",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "Minilaleczka Enid Sinclair; ruchoma figurka Rączki",
+   "Polska cena katalogowa RRP": "359,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "Otwierana walizka z wnętrzem do zabawy",
+   "Kolekcja i system": "To samodzielny model LEGO Wednesday. Inne zestawy tej serii mogą rozszerzyć grupę postaci i tematyczne otoczenie.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76785?",
+    "a": "Polska cena katalogowa wynosi 359,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76785 w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 359,99 zł. Porównaj dostępne oferty; o wyborze decyduje forma walizki i obecność Rączki oraz Enid, a nie zwykły model domu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76785?",
+    "a": "Porównaj oferty zestawu 76785. Przy egzemplarzu używanym sprawdź figurkę Rączki, Enid i drobne akcesoria do dłoni. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76785 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny model LEGO Wednesday. Inne zestawy tej serii mogą rozszerzyć grupę postaci i tematyczne otoczenie. <a href=\"/serie/wednesday/\">Zobacz wszystkie zestawy LEGO Wednesday</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Wednesday w podobnej cenie?",
+    "a": "Porównaj zamykane sceny oraz wnętrza Wednesday. Ten zestaw skupia się na Rączce i wykorzystuje walizkę jako mieszkanie. <a href=\"/serie/wednesday/\">Zobacz wszystkie zestawy LEGO Wednesday</a>."
+   },
+   {
+    "q": "Dla jakiego wieku jest LEGO 76785?",
+    "a": "Oficjalne oznaczenie to 10+. Walizka otwiera się do zabawy i może być zamknięta do ekspozycji."
+   }
+  ]
+ },
+ "76786": {
+  "seria": "Wednesday",
+  "nazwa": "Morticia's Cottage",
+  "elementy": 1002,
+  "akapity": [
+   "LEGO Wednesday 76786 Morticia's Cottage przedstawia dwukondygnacyjny dom, który otwiera się po bokach, by udostępnić pomieszczenia do zabawy. Zestaw z 2025 roku zawiera 1002 elementy i ma oznaczenie 10+. W domu jest sześć pokoi, w tym wyposażona kuchnia, salon z kominkiem, sypialnia, pokój do seansów i łazienka. Dzięki takiemu układowi historia może toczyć się w kilku miejscach, a zmiana pokoju daje postaciom inne zajęcie niż samo poruszanie się przed fasadą. Po zamknięciu konstrukcji można prezentować ją jako budynek na półce.",
+   "Cztery minilaleczki przedstawiają Morticię Addams, Wednesday Addams, Biancę Barclay i Lurcha. Dołączony samochód rodzinny ma miejsce dla całej tej grupy, co pozwala połączyć scenki w domu z podróżą. Tylna ściana kominka jest zdejmowana, a miecze znajdujące się w łazience mogą posłużyć do odgrywania pojedynków. To detale zgodne z osobliwym humorem serii: codziennym pomieszczeniom towarzyszą rekwizyty, które otwierają mniej zwyczajne historie. Model nie opiera całej zabawy na jednym mechanizmie, ponieważ wyposażenie i dostęp do wnętrza tworzą różne miejsca działania.",
+   "Zamknięty dom ma około 21 cm wysokości, 19 cm szerokości i 12 cm głębokości. Otwierane boki zmieniają sposób korzystania z niego, dlatego miejsce do zabawy powinno uwzględniać również rozłożenie konstrukcji. Jest samodzielnym modelem z kolekcji LEGO Wednesday, który można zestawić tematycznie z innymi produktami tej linii. Szczególnie odpowiada fanowi zainteresowanemu domem i rodziną Addamsów, a także dziecku, które lubi urządzone wnętrza z kilkoma postaciami. W porównaniu z mniejszymi scenkami większe znaczenie mają tutaj liczba pomieszczeń, dostęp do nich i samochód dla czterech bohaterów. Cyfrowe instrukcje udostępnia aplikacja LEGO Builder. Polska cena katalogowa wynosi 419,99 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76786",
+   "Nazwa": "Morticia's Cottage",
+   "Seria": "Wednesday",
+   "Premiera": "2025",
+   "Liczba elementów": "1002",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "4 minilaleczki: Morticia, Wednesday, Bianca Barclay, Lurch",
+   "Polska cena katalogowa RRP": "419,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "Otwierany dom i samochód",
+   "Kolekcja i system": "Dom należy do LEGO Wednesday i może towarzyszyć innym scenom kolekcji, ale nie wymaga ich do samodzielnej zabawy.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76786?",
+    "a": "Polska cena katalogowa wynosi 419,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76786 w cenie katalogowej?",
+    "a": "Przy cenie katalogowej 419,99 zł warto porównać oferty. Najważniejsze są otwierany dom z sześcioma pokojami i samochód dla czterech postaci."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76786?",
+    "a": "Sprawdź oferty pełnego zestawu. W używanym egzemplarzu skontroluj komplet minilaleczek, samochód i wyposażenie pomieszczeń. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76786 jest częścią większej kolekcji lub systemu?",
+    "a": "Dom należy do LEGO Wednesday i może towarzyszyć innym scenom kolekcji, ale nie wymaga ich do samodzielnej zabawy. <a href=\"/serie/wednesday/\">Zobacz wszystkie zestawy LEGO Wednesday</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Wednesday warto kupić zamiast tego modelu?",
+    "a": "Porównaj budynki Wednesday pod kątem dostępności wnętrz, liczby pomieszczeń i postaci. Tutaj dodatkową konstrukcją jest samochód rodzinny. <a href=\"/serie/wednesday/\">Zobacz wszystkie zestawy LEGO Wednesday</a>."
+   },
+   {
+    "q": "Czy można otworzyć dom Morticii?",
+    "a": "Tak. Otwierane boki udostępniają pomieszczenia. Po zamknięciu dom można prezentować na półce; samochód mieści cztery minilaleczki."
+   }
+  ]
+ },
+ "77001": {
+  "seria": "Sonic",
+  "nazwa": "Sonic’s Campfire Clash",
+  "elementy": 177,
+  "akapity": [
+   "Sonic odpoczywa przy ognisku, lecz roboty szybko zmieniają plany w LEGO Sonic 77001 Sonic’s Campfire Clash. Zestaw z 2025 roku zawiera 177 elementów i ma oznaczenie 7+. Obejmuje minifigurkę Sonica, roboty G.U.N. Beetle i G.U.N. Hunter oraz figurkę Tocky’ego.",
+   "Wyrzutnia wprawia w ruch kulę z Sonikiem, pozwalając skierować ją w stronę przeciwników. Po starciu można wrócić do małego obozowiska z ogniskiem i pianką na patyku. Wśród akcesoriów znajdują się także Szmaragd Chaosu i trzy złote pierścienie, a robot Hunter może przenosić Tocky’ego w plecaku. To samodzielna, niewielka scena dla fana gry, który chce połączyć dynamiczną funkcję wyrzutni z historią ratunkową. Inne zestawy Sonic pozwalają rozszerzyć przygodę o kolejne postacie."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77001",
+   "Nazwa": "Sonic’s Campfire Clash",
+   "Seria": "Sonic",
+   "Premiera": "2025",
+   "Liczba elementów": "177",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "1 minifigurka Sonica; G.U.N. Beetle, G.U.N. Hunter i Tocky",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "Scena z wyrzutnią kuli prędkości",
+   "Kolekcja i system": "To samodzielna scena z LEGO Sonic, którą można uzupełniać innymi modelami i postaciami tej serii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77001?",
+    "a": "Polska cena katalogowa wynosi 81,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77001 w cenie katalogowej?",
+    "a": "RRP wynosi 81,99 zł. Porównaj oferty, a przy wyborze uwzględnij wyrzutnię kuli, Sonica i roboty tworzące małą scenę ratunkową."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77001?",
+    "a": "Szukaj kompletnego zestawu 77001. Przy zakupie używanego egzemplarza sprawdź obecność kuli prędkości i wyrzutni. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77001 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielna scena z LEGO Sonic, którą można uzupełniać innymi modelami i postaciami tej serii. <a href=\"/serie/sonic/\">Zobacz wszystkie zestawy LEGO Sonic</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Sonic?",
+    "a": "Porównuj małe zestawy Sonic z wyrzutnią kuli i przeciwnikami. Ognisko dodaje tutaj spokojniejszą scenę po zakończeniu starcia. <a href=\"/serie/sonic/\">Zobacz wszystkie zestawy LEGO Sonic</a>."
+   },
+   {
+    "q": "Czy zestaw zawiera kulę prędkości i wyrzutnię?",
+    "a": "Tak. Wyrzutnia wysyła kulę z Sonikiem w stronę robotów. Zestaw ma również małe obozowisko z ogniskiem."
+   }
+  ]
+ },
+ "77003": {
+  "seria": "Sonic",
+  "nazwa": "Super Shadow vs. Biolizard",
+  "elementy": 419,
+  "akapity": [
+   "Ruchomy Biolizard jest przeciwnikiem Super Shadowa i Super Sonica w LEGO Sonic 77003 Super Shadow vs. Biolizard. Zestaw z 2025 roku zawiera 419 elementów i ma oznaczenie 9+. Na grzbiecie stworzenia znajduje się kapsuła energetyczna ze Szmaragdem Chaosu, a jego wyposażenie obejmuje miotacze klocków.",
+   "Dwie minifigurki bohaterów, kula prędkości i wyrzutnia pozwalają rozegrać walkę o stację Space Colony ARK. Trafienie kulą w bok Biolizarda uwalnia odłączaną kapsułę, więc funkcja modelu daje bezpośredni cel zabawie. Stworzenie ma około 38 cm długości, co warto uwzględnić przy ustawianiu sceny. Zestaw pasuje do dzieci zainteresowanych przeciwnikami Sonica i zabawą opartą na celowaniu. Może działać samodzielnie albo uzupełniać inne przygody z serii LEGO Sonic."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77003",
+   "Nazwa": "Super Shadow vs. Biolizard",
+   "Seria": "Sonic",
+   "Premiera": "2025",
+   "Liczba elementów": "419",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "2 minifigurki: Super Shadow i Super Sonic; Biolizard z klocków",
+   "Polska cena katalogowa RRP": "189,99 zł",
+   "Cena katalogowa za element": "0,45 zł",
+   "Typ zestawu": "Ruchome stworzenie z funkcją trafienia",
+   "Kolekcja i system": "Model jest częścią LEGO Sonic i przedstawia starcie związane ze Space Colony ARK. Może uzupełniać inne przygody tej serii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77003?",
+    "a": "Polska cena katalogowa wynosi 189,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77003 w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 189,99 zł. Porównaj pozostałe oferty i wybierz model, jeśli zależy Ci na Biolizardzie oraz dwóch bohaterach w wersjach Super."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77003?",
+    "a": "Sprawdź dostępne zapasy u sprzedawców. Przy używanym egzemplarzu ważne są kapsuła, kula z wyrzutnią oraz Super Shadow i Super Sonic. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77003 jest częścią większej kolekcji lub systemu?",
+    "a": "Model jest częścią LEGO Sonic i przedstawia starcie związane ze Space Colony ARK. Może uzupełniać inne przygody tej serii. <a href=\"/serie/sonic/\">Zobacz wszystkie zestawy LEGO Sonic</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Sonic w podobnej cenie?",
+    "a": "Porównaj większych przeciwników Sonica oraz ich funkcje trafienia. W Biolizardzie uderzenie kulą odłącza kapsułę energetyczną. <a href=\"/serie/sonic/\">Zobacz wszystkie zestawy LEGO Sonic</a>."
+   },
+   {
+    "q": "Dla jakiego wieku przeznaczono LEGO 77003?",
+    "a": "Oficjalne oznaczenie wynosi 9+. Model Biolizarda ma około 38 cm długości, więc potrzebuje miejsca na rozgrywanie starcia."
+   }
+  ]
+ },
+ "77055": {
+  "seria": "Animal Crossing",
+  "nazwa": "Able Sisters' Clothing Shop",
+  "elementy": 322,
+  "akapity": [
+   "Sklep odzieżowy w LEGO Animal Crossing 77055 Able Sisters' Clothing Shop pozwala Mabel pomóc Sashy w wyborze stroju. Zestaw z 2025 roku zawiera 322 elementy i ma oznaczenie 6+. W pudełku są dwie minifigurki, jeż Mabel i królik Sasha, oraz wyposażenie pracowni z maszyną do szycia i nożyczkami.",
+   "Ubrania, torba, czapka i okulary przeciwsłoneczne służą do odgrywania zakupów oraz dobierania dodatków. Obok sklepu znajduje się ogród z brzoskwiniowym drzewem i stawem. Modułowe podstawki można przestawiać, a drzwi i dach wymieniać z innymi zestawami Animal Crossing. To samodzielny lokal dla dziecka, które lubi urządzać świat z gry i zmieniać wygląd sceny. Wyróżnia go temat ubrań i przeróbek krawieckich, zamiast kolejnego zwykłego domu."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77055",
+   "Nazwa": "Able Sisters' Clothing Shop",
+   "Seria": "Animal Crossing",
+   "Premiera": "2025",
+   "Liczba elementów": "322",
+   "Wiek": "6+",
+   "Minifigurki i postacie": "2 minifigurki: Mabel, Sasha",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "Sklep z wyposażeniem",
+   "Kolekcja i system": "Sklep należy do LEGO Animal Crossing. Podstawki można przestawiać, a drzwi i dach wymieniać z innymi modelami serii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77055?",
+    "a": "Polska cena katalogowa wynosi 169,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77055 w cenie katalogowej?",
+    "a": "Przy RRP 169,99 zł warto porównać oferty. Sklep szczególnie odpowiada dziecku zainteresowanemu ubraniami, pracownią krawiecką i przestawianiem otoczenia."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77055?",
+    "a": "Porównaj dostępne oferty zestawu 77055. Przy używanym egzemplarzu sprawdź Mabel, Sashę i drobne dodatki odzieżowe. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77055 jest częścią większej kolekcji lub systemu?",
+    "a": "Sklep należy do LEGO Animal Crossing. Podstawki można przestawiać, a drzwi i dach wymieniać z innymi modelami serii. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Animal Crossing warto kupić zamiast tego modelu?",
+    "a": "Porównuj lokale usługowe i domy Animal Crossing pod kątem możliwości przebudowy. Sklep wyróżnia temat ubrań oraz pracownia Mabel. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Czy można zmienić wygląd sklepu?",
+    "a": "Tak. Modułowe podstawki zmieniają układ otoczenia. Drzwi i dach można wymieniać z innymi zestawami Animal Crossing."
+   }
+  ]
+ },
+ "77056": {
+  "seria": "Animal Crossing",
+  "nazwa": "Blathers's Museum Collection",
+  "elementy": 543,
+  "akapity": [
+   "Muzeum w LEGO Animal Crossing 77056 Blathers's Museum Collection można urządzać własnymi znaleziskami. Zestaw z 2025 roku zawiera 543 elementy i ma oznaczenie 7+. Odtwarza miejsce z gier Animal Crossing, gdzie motyw zbierania okazów staje się podstawą zabawy. Dziecko może wykopać brakującą kość ogonową triceratopsa, złapać ryby do akwarium i użyć siatki do chwytania motyli oraz innych drobnych stworzeń. Każda z tych czynności łączy akcesorium z inną częścią ekspozycji, dając konkretny powód do przenoszenia postaci między modułami.",
+   "W zestawie są dwie minifigurki: sowa Blathers i żaba Lily. Do muzeum należą różne strefy wystawowe, a scenę uzupełniają fontanna i kawiarnia Roost. Ściany na zawiasach oraz przestawiane elementy pozwalają zamknąć budynek albo szeroko go otworzyć. Dzięki temu można wybierać pomiędzy zwartą formą do ustawienia a łatwiejszym dostępem do wnętrza podczas zabawy. Po rozłożeniu, z fontanną na zewnątrz, konstrukcja zajmuje około 11 cm wysokości, 25 cm szerokości i 17 cm głębokości.",
+   "Ten model szczególnie pasuje do fana Animal Crossing zainteresowanego muzeum i przyrodą. Różne eksponaty sprawiają, że nie jest jedynie budynkiem z dwiema postaciami: daje materiał do historii o poszukiwaniu, zbieraniu i prezentowaniu znalezisk. Jest samodzielnym zestawem, ale może stać się muzeum w większej wyspie złożonej z modeli tej serii. Możliwość zmiany układu pozostawia miejsce na indywidualne urządzenie sceny, bez konieczności odtwarzania jej za każdym razem w tej samej konfiguracji. Polska cena katalogowa wynosi 339,99 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77056",
+   "Nazwa": "Blathers's Museum Collection",
+   "Seria": "Animal Crossing",
+   "Premiera": "2025",
+   "Liczba elementów": "543",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "2 minifigurki: Blathers, Lily",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,63 zł",
+   "Typ zestawu": "Muzeum ze zmiennym układem",
+   "Kolekcja i system": "Muzeum jest samodzielnym miejscem w LEGO Animal Crossing i może uzupełniać wyspę złożoną z innych zestawów.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77056?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77056 w cenie katalogowej?",
+    "a": "Cena katalogowa to 339,99 zł. Porównaj oferty i uwzględnij, czy dziecko najbardziej interesują eksponaty muzeum oraz zmiana jego układu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77056?",
+    "a": "Sprawdź dostępne oferty kompletnego zestawu. Przy zakupie używanym istotne są eksponaty, Blathers, Lily i elementy kawiarni. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77056 jest częścią większej kolekcji lub systemu?",
+    "a": "Muzeum jest samodzielnym miejscem w LEGO Animal Crossing i może uzupełniać wyspę złożoną z innych zestawów. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Animal Crossing?",
+    "a": "Porównaj większe budynki Animal Crossing według ich roli na wyspie. Muzeum oferuje zbieranie okazów oraz przebudowę stref wystawowych. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Czy można zmieniać układ muzeum?",
+    "a": "Tak. Ściany na zawiasach oraz przestawiane elementy pozwalają otworzyć lub zamknąć muzeum i zmienić układ ekspozycji."
+   }
+  ]
+ },
+ "77057": {
+  "seria": "Animal Crossing",
+  "nazwa": "Creative Houses: Seasons of Fun",
+  "elementy": 814,
+  "akapity": [
+   "Dwa domy i cztery pory roku tworzą podstawę LEGO Animal Crossing 77057 Creative Houses: Seasons of Fun. Zestaw z 2025 roku zawiera 814 elementów i ma oznaczenie 7+. Domy można urządzić, ustawić obok siebie albo połączyć w budynek piętrowy. To propozycja dla dziecka zainteresowanego projektowaniem własnego otoczenia z gry, ponieważ zmiana układu jest częścią korzystania z modelu po zbudowaniu. Polska cena katalogowa wynosi 379,99 zł.",
+   "Cztery wymienne moduły pozwalają nadać scenie wygląd właściwy dla kolejnych sezonów. Wśród sezonowych detali są śnieżki, bałwan, dynia i jesienne liście. Wymiana otoczenia zmienia historię mieszkańców bez konieczności budowania całej sceny od początku: zimowy ogród można później zastąpić jesiennym. Trzy minifigurki to Stitches, Fuchsia i Fang, czyli miś, jeleń i wilk. Każda postać ma własne meble, a wózek do przeprowadzki pozwala przenosić wyposażenie pomiędzy domami. Dzięki temu urządzanie wnętrz można połączyć z opowieścią o zmianie lokatora.",
+   "Domy z elementem mostu mają razem około 12 cm wysokości, 42 cm szerokości i 11 cm głębokości w podanej przez LEGO konfiguracji. Przy wyborze miejsca warto uwzględnić, czy budynki będą stały obok siebie, czy jeden nad drugim. Zestaw należy do kolekcji Animal Crossing i może poszerzać wyspę złożoną z innych modeli, ale sam zawiera wszystko do stworzenia własnej grupy domów. Jego wyróżnikiem jest połączenie dwóch mieszkań, osobistego wyposażenia trzech bohaterów i sezonowych dodatków. Najwięcej oferuje osobie, która lubi regularnie przestawiać konstrukcję i wymyślać nowe codzienne sytuacje mieszkańców."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77057",
+   "Nazwa": "Creative Houses: Seasons of Fun",
+   "Seria": "Animal Crossing",
+   "Premiera": "2025",
+   "Liczba elementów": "814",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "3 minifigurki: Stitches, Fuchsia, Fang",
+   "Polska cena katalogowa RRP": "379,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "Dwa domy z sezonowymi modułami",
+   "Kolekcja i system": "Domy są częścią LEGO Animal Crossing. Mogą działać samodzielnie albo poszerzać wyspę z pozostałych modeli kolekcji.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77057?",
+    "a": "Polska cena katalogowa wynosi 379,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77057 w cenie katalogowej?",
+    "a": "RRP wynosi 379,99 zł. Porównaj oferty, uwzględniając dwa domy, wyposażenie trzech postaci i cztery sezonowe moduły."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77057?",
+    "a": "Szukaj kompletnego zestawu 77057. W egzemplarzu używanym sprawdź dodatki wszystkich pór roku i meble należące do bohaterów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77057 jest częścią większej kolekcji lub systemu?",
+    "a": "Domy są częścią LEGO Animal Crossing. Mogą działać samodzielnie albo poszerzać wyspę z pozostałych modeli kolekcji. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Animal Crossing w podobnej cenie?",
+    "a": "Porównuj domy Animal Crossing według możliwości ustawiania i urządzania. Tutaj dwa budynki można zestawić obok siebie lub piętrowo. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Czy domy można ustawić jeden na drugim?",
+    "a": "Tak. Można zbudować układ piętrowy albo ustawić domy obok siebie. Moduły otoczenia pozwalają zmieniać porę roku."
+   }
+  ]
+ },
+ "77058": {
+  "seria": "Animal Crossing",
+  "nazwa": "Goldie's Cosy House",
+  "elementy": 149,
+  "akapity": [
+   "Goldie ma własny niewielki dom w LEGO Animal Crossing 77058 Goldie's Cosy House. Zestaw z 2025 roku zawiera 149 elementów i ma oznaczenie 6+. Jedna minifigurka przedstawia psią bohaterkę gry, a we wnętrzu znajdują się łóżko i pianino. Meble można przestawiać, zmieniając urządzenie pokoju.",
+   "Na zewnątrz są stół piknikowy i skrzynka na listy. Rogalik, gruszka i napój pozwalają odegrać śniadanie, a ślimak na kamieniu uzupełnia otoczenie. Zabawa skupia się na codziennych zajęciach Goldie, od ćwiczenia na pianinie po odpoczynek przy stole. To samodzielny, mały model dla dziecka zainteresowanego domami i postaciami Animal Crossing. Może także stać się kolejnym miejscem na większej wyspie z innych zestawów. Dom ma około 9 cm wysokości, 12 cm szerokości i 7 cm głębokości."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "77058",
+   "Nazwa": "Goldie's Cosy House",
+   "Seria": "Animal Crossing",
+   "Premiera": "2025",
+   "Liczba elementów": "149",
+   "Wiek": "6+",
+   "Minifigurki i postacie": "1 minifigurka Goldie",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,55 zł",
+   "Typ zestawu": "Dom z wyposażeniem",
+   "Kolekcja i system": "Dom należy do LEGO Animal Crossing. Jest samodzielny i może być kolejnym miejscem na wyspie z innych zestawów.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77058?",
+    "a": "Polska cena katalogowa wynosi 81,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 77058 w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 81,99 zł. Warto porównać oferty i wybrać ten model, gdy najważniejsza jest Goldie oraz mały dom z pianinem."
+   },
+   {
+    "q": "Gdzie kupić LEGO 77058?",
+    "a": "Porównaj oferty zestawu 77058. Przy używanym komplecie sprawdź Goldie, pianino i drobne akcesoria stołu piknikowego. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 77058 jest częścią większej kolekcji lub systemu?",
+    "a": "Dom należy do LEGO Animal Crossing. Jest samodzielny i może być kolejnym miejscem na wyspie z innych zestawów. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Animal Crossing warto kupić zamiast tego modelu?",
+    "a": "Porównaj mniejsze domy Animal Crossing według postaci i wyposażenia. W tym modelu głównym motywem są codzienne zajęcia Goldie. <a href=\"/serie/animal-crossing/\">Zobacz wszystkie zestawy LEGO Animal Crossing</a>."
+   },
+   {
+    "q": "Czy meble w domu Goldie można przestawiać?",
+    "a": "Tak. Układ wyposażenia można zmieniać. W domu znajdują się łóżko i pianino, a na zewnątrz stół piknikowy i skrzynka na listy."
+   }
+  ]
+ },
+ "80065": {
+  "seria": "Monkie Kid",
+  "nazwa": "Erlang's Celestial Mech",
+  "elementy": 806,
+  "akapity": [
+   "Włócznia i materiałowa peleryna nadają charakter dużemu mechowi w LEGO Monkie Kid 80065 Erlang's Celestial Mech. Zestaw z 2025 roku zawiera 806 elementów i ma oznaczenie 9+. Przedstawia maszynę Erlanga Shena z ruchomymi kończynami, otwieranym kokpitem oraz dwoma miotaczami klocków. Wysokość mecha wynosi około 43 cm, dlatego jest wyraźnym centralnym modelem do zabawy lub ustawienia w kolekcji. Ruchome części pozwalają zmieniać jego pozę, a duża włócznia podkreśla związek konstrukcji z legendarnym wojownikiem.",
+   "Pięć minifigurek przedstawia Monkie Kida, Monkey Kinga, pana Tanga, Erlanga Shena i niebiańskiego generała. Osobno dołączono figurkę niebiańskiego psa. W zestawie są również motocykl z miotaczami oraz model lewitującej chmury. Dzięki temu przygoda nie ogranicza się do jednej maszyny: postacie mogą przemieszczać się i uczestniczyć w scenie także poza kokpitem. Broń i pozostałe akcesoria tworzą wyposażenie bohaterów do odgrywania konfliktów oraz własnych historii. Mech stanowi samodzielną konstrukcję, ale razem z innymi modelami Monkie Kid może tworzyć większą scenę.",
+   "Seria nawiązuje do Wędrówki na Zachód, łącząc legendę o Małpim Królu ze współczesnymi pojazdami i technologią. W tym zestawie takie połączenie widać w sylwetce mecha i jego tradycyjnym uzbrojeniu. To propozycja dla dziecka, które lubi duże ruchome roboty, a jednocześnie chce otrzymać grupę bohaterów i dodatkowy pojazd. Przy wyborze warto uwzględnić miejsce potrzebne na wysoką figurkę, zwłaszcza z ustawioną włócznią. Polska cena katalogowa wynosi 339,99 zł. Instrukcje cyfrowe dostępne są w aplikacji LEGO Builder."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "80065",
+   "Nazwa": "Erlang's Celestial Mech",
+   "Seria": "Monkie Kid",
+   "Premiera": "2025",
+   "Liczba elementów": "806",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "5 minifigurek; figurka niebiańskiego psa",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "Ruchomy mech i dodatkowe modele",
+   "Kolekcja i system": "Mech jest częścią LEGO Monkie Kid, serii inspirowanej Wędrówką na Zachód. Może działać samodzielnie lub w większej scenie.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 80065?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 80065 w cenie katalogowej?",
+    "a": "RRP wynosi 339,99 zł. Pełna cena może odpowiadać osobie zainteresowanej konkretnie Erlangiem i wysokim mechem, ale warto porównać dostępne oferty oraz warunki dostawy."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80065?",
+    "a": "Sprawdź LEGO.com i dostępne oferty sprzedawców. W używanym egzemplarzu skontroluj dużą włócznię, pelerynę i komplet postaci. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 80065 jest częścią większej kolekcji lub systemu?",
+    "a": "Mech jest częścią LEGO Monkie Kid, serii inspirowanej Wędrówką na Zachód. Może działać samodzielnie lub w większej scenie. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Porównaj ruchome mechy Monkie Kid pod kątem wysokości, kokpitu i dodatkowych konstrukcji. Tutaj są także motocykl oraz chmura. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   },
+   {
+    "q": "Czy w kokpicie można umieścić Erlanga Shena?",
+    "a": "Tak. Kokpit otwiera się, a ruchome kończyny pozwalają ustawiać mecha. Model ma około 43 cm wysokości."
+   }
+  ]
+ },
+ "80066": {
+  "seria": "Monkie Kid",
+  "nazwa": "Mythical Creature Qilin",
+  "elementy": 791,
+  "akapity": [
+   "Smoko-koń Qilin w LEGO Monkie Kid 80066 Mythical Creature Qilin łączy ruchomą figurkę stworzenia z odłączanym pojazdem. Zestaw z 2025 roku zawiera 791 elementów i ma oznaczenie 9+. Złota zbroja kryje miotacze klocków, a dwuosobowe siodło można zdjąć i przekształcić w szybowiec. To istotny wyróżnik: postacie mogą poruszać się na grzbiecie Qilina, a następnie kontynuować przygodę w osobnej konstrukcji. Model stworzenia ma około 20 cm wysokości, 29 cm długości i 12 cm szerokości.",
+   "W pudełku są minifigurki Monkie Kida, Mei, Sandy’ego, Pigsy’ego i niebiańskiego wojownika, a także figurka kota Mo. Zestaw obejmuje model lewitującej chmury oraz wózek z jedzeniem. Pod jego otwieranym dachem znajduje się miotacz klocków, więc nawet spokojnie wyglądający dodatek może uczestniczyć w akcji. Grupa pięciu bohaterów i dodatkowe konstrukcje pozwalają rozegrać scenę bez kupowania kolejnego zestawu. Ruchome części Qilina służą zmianie jego pozy, zarówno podczas zabawy, jak i po ustawieniu na półce.",
+   "Monkie Kid wykorzystuje motywy Wędrówki na Zachód w świecie łączącym legendy ze współczesnością. W tym modelu mityczne stworzenie spotyka się z szybowcem i uzbrojonym wózkiem, co wyjaśnia fantastyczny charakter całej sceny. Zestaw pasuje do dziecka zainteresowanego zwierzętami, smokami i historiami z kilkoma bohaterami. Może działać samodzielnie albo uczestniczyć w przygodach z innymi modelami Monkie Kid. Przed wyborem warto porównać odłączane siodło z funkcjami innych stworzeń tej serii, ponieważ tutaj rozdzielenie figurki i pojazdu daje dwie różne formy działania. Polska cena katalogowa wynosi 249,99 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "80066",
+   "Nazwa": "Mythical Creature Qilin",
+   "Seria": "Monkie Kid",
+   "Premiera": "2025",
+   "Liczba elementów": "791",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "5 minifigurek; figurka kota Mo",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "Ruchome stworzenie z odłączanym szybowcem",
+   "Kolekcja i system": "Qilin należy do LEGO Monkie Kid i świata inspirowanego Wędrówką na Zachód. Może dołączyć do innych przygód tej serii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 80066?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 80066 w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 249,99 zł. Porównaj oferty i wybierz Qilina, jeśli istotne są ruchome stworzenie, odłączany szybowiec oraz pięć minifigurek."
+   },
+   {
+    "q": "Gdzie kupić LEGO 80066?",
+    "a": "Sprawdź ofertę LEGO.com i pozostałych sprzedawców. Przy egzemplarzu używanym ważna jest kompletność siodła, wózka i postaci. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 80066 jest częścią większej kolekcji lub systemu?",
+    "a": "Qilin należy do LEGO Monkie Kid i świata inspirowanego Wędrówką na Zachód. Może dołączyć do innych przygód tej serii. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Monkie Kid w podobnej cenie?",
+    "a": "Porównuj stworzenia Monkie Kid według ruchomych części i dodatkowych funkcji. W Qilinie siodło staje się osobnym dwuosobowym szybowcem. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>."
+   },
+   {
+    "q": "Czy siodło Qilina można odłączyć?",
+    "a": "Tak. Dwuosobowe siodło można zdjąć i przekształcić w szybowiec. Sam Qilin pozostaje ruchomą figurką stworzenia."
+   }
+  ]
+ },
+ "10345": {
+  "seria": "Botanicals",
+  "nazwa": "Kwiatowa kompozycja",
+  "elementy": 1161,
+  "akapity": [
+   "Biały wazon na nóżce i rozłożysta kompozycja z czternastu kwiatów tworzą LEGO Botanicals 10345 Kwiatowa kompozycja. Zestaw z 2025 roku, przeznaczony dla dorosłych i oznaczony 18+, zawiera 1161 elementów. W bukiecie znalazły się kamelie, piwonie, hortensje, gipsówka, jaskry, buwardie i lilie. Różne kształty główek oraz intensywne kolory dają bardziej zróżnicowany efekt niż dekoracja oparta na jednym gatunku. Wazon również powstaje z klocków, więc po zbudowaniu nie trzeba dobierać osobnego naczynia. Całość ma około 26 cm wysokości, 31 cm szerokości i 23 cm głębokości; przed ustawieniem na biurku warto uwzględnić przede wszystkim szerokość wystających kwiatów.",
+   "Układ nie kończy się na jednej aranżacji pokazanej w instrukcji. Główki można odczepiać i rozmieszczać inaczej, zmieniając rozłożenie barw oraz kształt bukietu. System mocowania na szpilkach pozwala także wykorzystać główki z innych zestawów kwiatowych Botanicals, sprzedawanych osobno. To rzeczywista możliwość personalizacji, szczególnie przydatna osobom, które mają już kilka klockowych roślin i chcą stworzyć wspólną kompozycję. Białe naczynie stanowi spokojne tło dla kolorowych kwiatów, a jego podniesiona podstawa wyróżnia model na tle bukietów wymagających własnego wazonu. Można pozostawić zestaw jako samodzielną dekorację albo potraktować go jako punkt wyjścia do bardziej rozbudowanej aranżacji.",
+   "Model jest skierowany przede wszystkim do miłośników florystyki i dekoracji wnętrz. Jego wartość po zbudowaniu wynika z doboru gatunków, kompletnego naczynia i możliwości zmiany kompozycji. Przy wyborze między nim a innym bukietem Botanicals istotniejsze od samej liczby elementów będą kolorystyka i to, czy odpowiada nam niski, szeroki układ kwiatów. Jako prezent nie wymaga dołączenia żywych roślin ani akcesoriów do pielęgnacji. Drukowane instrukcje mają również wersję cyfrową w LEGO Builder, dzięki której można obejrzeć konstrukcję podczas składania.",
+   "Gdyby stanął obok 17 zestawów LEGO Botanicals z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,40 zł, przy typowych dla serii 0,43 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "10345",
+   "Nazwa": "Kwiatowa kompozycja",
+   "Seria": "Botanicals",
+   "Premiera": "2025",
+   "Liczba elementów": "1161",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "469,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "Kompozycja kwiatowa do dekoracji",
+   "Kolekcja i system": "Samodzielna kompozycja Botanicals; system mocowania główek pozwala zmieniać aranżację i dodawać kwiaty z innych zestawów.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10345?",
+    "a": "Polska cena katalogowa wynosi 469,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 10345 w cenie katalogowej?",
+    "a": "Przy RRP 469,99 zł warto porównać oferty LEGO i innych sprzedawców. Za wyborem tego modelu przemawiają kompletny wazon oraz czternaście kwiatów z możliwością zmiany układu, a nie samo oznaczenie Exclusive."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10345?",
+    "a": "Sprawdź LEGO.com, sklepy LEGO i oferty pozostałych sprzedawców; porównaj cenę z dostawą. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 10345 jest częścią większej kolekcji lub systemu?",
+    "a": "Samodzielna kompozycja Botanicals; system mocowania główek pozwala zmieniać aranżację i dodawać kwiaty z innych zestawów. <a href=\"/serie/botanicals/\">Zobacz wszystkie zestawy LEGO Botanicals</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Botanicals w podobnej cenie?",
+    "a": "Porównaj go z bukietami Botanicals wymagającymi własnego wazonu. Tutaj otrzymujesz gotowe naczynie i szeroką kompozycję, więc różnicę stanowią także sposób ustawienia oraz zajmowane miejsce. <a href=\"/serie/botanicals/\">Zobacz wszystkie zestawy LEGO Botanicals</a>."
+   },
+   {
+    "q": "Czy wazon jest częścią zestawu?",
+    "a": "Tak. Biały wazon na nóżce buduje się z klocków i jest w komplecie. Cała kompozycja ma około 31 cm szerokości, dlatego warto przewidzieć miejsce również na wystające kwiaty."
+   }
+  ]
+ },
+ "10361": {
+  "seria": "Icons",
+  "nazwa": "Świąteczny ekspres",
+  "elementy": 956,
+  "akapity": [
+   "LEGO Icons 10361 Świąteczny ekspres łączy zimową dekorację z pociągiem, którego funkcje uruchamia samo toczenie po torze. Wydany w 2025 roku zestaw dla dorosłych 18+ zawiera 956 elementów. Z lokomotywą połączono wagon węglowy, platformę z niedźwiedziem polarnym trzymającym dzwonek i umeblowany wagon mieszkalny. Pchnięcie składu wprawia w ruch komin oraz niedźwiedzia, dlatego model ma więcej do zaoferowania niż nieruchomy pojazd na świątecznej półce. W komplecie są cztery minifigurki oraz niewielki peron z ławką i latarnią, który pozwala zaaranżować przystanek obok torów.",
+   "Okrągły tor składa się z szesnastu odcinków. Można ustawić go wokół choinki albo wykorzystać jako osobną scenę zimową. Sam pociąg z wagonami ma około 49 cm długości, 13 cm wysokości i 7 cm szerokości, lecz ekspozycja z torem wymaga większej powierzchni niż te wymiary. Zestaw przewiduje rozbudowę o napęd LEGO Powered Up, sprzedawany osobno; bez dodatkowych podzespołów skład porusza się po popchnięciu. Wśród drobnych modeli znajduje się także miniaturowy pociąg z elementem wykonanym w druku 3D.",
+   "Świąteczny ekspres należy do kolekcji Zimowa wioska i może uzupełnić jej budynki, ale kompletny tor oraz peron pozwalają prezentować go niezależnie. To propozycja dla osób, które chcą włączyć ruch do świątecznej aranżacji. Dwa zestawy drukowanych instrukcji ułatwiają podział budowania między domowników. Przy zakupie warto rozdzielić koszt podstawowego modelu od ewentualnego napędu, zamiast zakładać, że zdalne sterowanie jest już częścią pudełka.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 16. co do wielkości. Za element płaci się tu katalogowo 0,54 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "10361",
+   "Nazwa": "Świąteczny ekspres",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "956",
+   "Wiek": "18+",
+   "Minifigurki i postacie": "4 minifigurki",
+   "Polska cena katalogowa RRP": "519,99 zł",
+   "Cena katalogowa za element": "0,54 zł",
+   "Typ zestawu": "Świąteczny pociąg do ekspozycji i uruchamiania",
+   "Kolekcja i system": "Świąteczny ekspres jest częścią kolekcji Zimowa wioska w LEGO Icons. Może jednak działać jako osobna aranżacja dzięki torowi i peronowi.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10361?",
+    "a": "Polska cena katalogowa wynosi 519,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 10361 w cenie katalogowej?",
+    "a": "Cena katalogowa 519,99 zł może być uzasadniona dla fana Zimowej wioski, któremu zależy na tym konkretnym pociągu. Dostępne są także oferty innych sprzedawców; koszt ewentualnego napędu trzeba liczyć osobno."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10361?",
+    "a": "Porównaj zakup w LEGO.com lub sklepie LEGO z ofertami wybranych sprzedawców. Zwróć uwagę, czy oferta dotyczy podstawowego zestawu, czy obejmuje dodatkowy napęd. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 10361 jest częścią większej kolekcji lub systemu?",
+    "a": "Świąteczny ekspres jest częścią kolekcji Zimowa wioska w LEGO Icons. Może jednak działać jako osobna aranżacja dzięki torowi i peronowi. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Icons warto kupić zamiast tego modelu?",
+    "a": "W obrębie Zimowej wioski budynki oferują inne możliwości niż ruchomy skład. Wybierz pociąg, jeśli chcesz tor i mechanizmy poruszane podczas jazdy; budynek będzie lepszym kierunkiem do rozbudowy samej ulicy. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>."
+   },
+   {
+    "q": "Czy pociąg ma silnik w komplecie?",
+    "a": "Nie. W podstawowej wersji porusza się po popchnięciu, które uruchamia ruch komina i niedźwiedzia. Napęd Powered Up można dodać, ale wymagane podzespoły są sprzedawane osobno."
+   }
+  ]
+ },
+ "10373": {
+  "seria": "Botanicals",
+  "nazwa": "Małe drzewka bonsai",
+  "elementy": 709,
+  "akapity": [
+   "Trzy różne gatunki drzew w jednym zestawie nadają LEGO Botanicals 10373 Małe drzewka bonsai charakter niewielkiej kolekcji roślin. Z 709 elementów powstają miłorząb japoński z żółtymi liśćmi, czarna sosna z zielonymi igłami i glicynia z liliowymi kwiatami. Model pochodzi z 2025 roku i jest przeznaczony dla dorosłych 18+. Każde drzewko ma odmienną koronę, dzięki czemu trio nie wygląda jak powielenie tej samej konstrukcji w trzech kolorach. Glicynia ma około 19 cm wysokości, 14 cm szerokości i 10 cm głębokości, co daje punkt odniesienia przy planowaniu miejsca na półce.",
+   "Liście można wymieniać między drzewkami i tworzyć własne zestawienia pni oraz koron. Dwie ozdobne podstawki pozwalają ustawić rośliny na różnych wysokościach. Te możliwości zmieniają kompozycję po zakończeniu budowania: można zaakcentować jedno drzewko, zebrać trzy obok siebie albo rozmieścić je w osobnych miejscach. Różnica wysokości podstawek pomaga uporządkować ekspozycję bez dodawania kolejnych roślin. Zestaw zawiera trzy kompletne bonsai, więc nie trzeba rozbierać jednej konstrukcji, aby zbudować inną.",
+   "Małe drzewka bonsai pasują do innych dekoracji Botanicals, choć nie wymagają ich do stworzenia skończonej aranżacji. W porównaniu z dużym pojedynczym bonsai oferują przede wszystkim różnorodność gatunków oraz swobodę rozdzielenia dekoracji. Będą sensownym wyborem dla miłośnika miniaturowych roślin, który ceni wymienne liście i możliwość zmiany ustawienia. Cyfrowe instrukcje w LEGO Builder pozwalają obracać poszczególne modele podczas składania.",
+   "Gdyby stanął obok 17 zestawów LEGO Botanicals z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/11503/\">LEGO 11503 Kwiatowa ścianka</a> (879 el.). Za element płaci się tu katalogowo 0,35 zł, przy typowych dla serii 0,43 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "10373",
+   "Nazwa": "Małe drzewka bonsai",
+   "Seria": "Botanicals",
+   "Premiera": "2025",
+   "Liczba elementów": "709",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "Miniaturowe drzewka do dekoracji",
+   "Kolekcja i system": "Trzy bonsai tworzą samodzielną dekorację Botanicals i mogą stać obok innych roślin tej kolekcji.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10373?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 10373 w cenie katalogowej?",
+    "a": "Przy cenie 249,99 zł warto porównać rabaty. Zestaw ma szczególny sens dla osoby, która chce trzy odmienne drzewka oraz wymienne liście, zamiast jednego większego modelu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 10373?",
+    "a": "Szukaj ofert LEGO.com i sprzedawców detalicznych, uwzględniając koszt dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 10373 jest częścią większej kolekcji lub systemu?",
+    "a": "Trzy bonsai tworzą samodzielną dekorację Botanicals i mogą stać obok innych roślin tej kolekcji. <a href=\"/serie/botanicals/\">Zobacz wszystkie zestawy LEGO Botanicals</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Botanicals?",
+    "a": "Porównaj zestaw z pojedynczym większym bonsai. Małe drzewka dają trzy gatunki i możliwość rozdzielenia ekspozycji; większy model może lepiej odpowiadać jako jeden centralny akcent. <a href=\"/serie/botanicals/\">Zobacz wszystkie zestawy LEGO Botanicals</a>."
+   },
+   {
+    "q": "Czy wszystkie trzy drzewka można zbudować jednocześnie?",
+    "a": "Tak. Miłorząb, sosna i glicynia są trzema osobnymi modelami. Można wymieniać ich liście i ustawiać je na różnych wysokościach dzięki dwóm ozdobnym podstawkom."
+   }
+  ]
+ },
+ "21271": {
+  "seria": "Minecraft",
+  "nazwa": "Komnata prób",
+  "elementy": 322,
+  "akapity": [
+   "Pułapki i poszukiwanie skarbów są osią LEGO Minecraft 21271 Komnata prób, zestawu z 2025 roku dla dzieci 8+. Model z 322 elementów zawiera gracza w cienistym kapturze, dwa szkielety i dwa moby breeze. Dwa spawnery oraz miotacze pocisków na ścianach pozwalają odtwarzać walkę, a dodatkowy mechanizm sprężynowy uruchamia się zza tylnej ściany.",
+   "W trzech garncach ukryto skarby, między innymi diament i szmaragd. Pomieszczenie z łóżkiem i stołem dodaje miejsce odpoczynku po przejściu próby. To samodzielna scena dla gracza, który lubi przygodową część Minecrafta; można też dołączyć ją tematycznie do innych modeli serii. Zestaw wyróżnia połączenie kilku mechanizmów obronnych z przeszukiwaniem komnaty, zamiast skupienia całej zabawy na jednym budynku."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "21271",
+   "Nazwa": "Komnata prób",
+   "Seria": "Minecraft",
+   "Premiera": "2025",
+   "Liczba elementów": "322",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "1 minifigurka gracza, 2 szkielety i 2 moby breeze",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "Komnata z funkcjami walki i poszukiwania skarbów",
+   "Kolekcja i system": "Komnata jest samodzielną sceną Minecraft; można rozszerzyć jej otoczenie o inne modele tej serii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21271?",
+    "a": "Polska cena katalogowa wynosi 169,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21271 w cenie katalogowej?",
+    "a": "Przy RRP 169,99 zł warto porównać dostępne ceny. Argumentami za tym zestawem są pułapki, spawnery i moby, szczególnie gdy dziecko interesuje się walką oraz poszukiwaniem skarbów."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21271?",
+    "a": "Porównaj wiarygodne oferty zestawu Minecraft, sprawdzając numer 21271 i koszt dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21271 jest częścią większej kolekcji lub systemu?",
+    "a": "Komnata jest samodzielną sceną Minecraft; można rozszerzyć jej otoczenie o inne modele tej serii. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Minecraft w podobnej cenie?",
+    "a": "Szukaj zestawów Minecraft z funkcjami walki, jeśli najważniejsza jest przygoda. Domki i gospodarstwa będą lepszym kierunkiem do zabawy w urządzanie bazy lub opiekę nad zwierzętami. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>."
+   },
+   {
+    "q": "Jakie pułapki ma Komnata prób?",
+    "a": "Dwa miotacze pocisków są umieszczone na ścianach, a dodatkowy pocisk sprężynowy ma wyzwalacz za tylną ścianą. W trzech garncach ukryto skarby do odnalezienia."
+   }
+  ]
+ },
+ "21282": {
+  "seria": "Minecraft",
+  "nazwa": "Papugowe domki",
+  "elementy": 535,
+  "akapity": [
+   "LEGO Minecraft 21282 Papugowe domki przedstawia dwa schronienia w dżungli, z których każde wykorzystuje inny sposób zabawy. Czerwony domek ma składane skrzydła, skrzynię i beczkę; jego papugową część można odczepić i używać osobno. Niebieski kryje szafę grającą z płytą oraz mechanizm wprawiający dwie małe papugi w taniec. Wydany w 2025 roku zestaw składa się z 535 elementów i ma oznaczenie 8+. Kolorowe budynki są jego głównym wyróżnikiem, ale wnętrza i funkcje pozostają równie istotne jak wygląd fasad.",
+   "Strażnik dżungli i treser papug reprezentują bohaterów zabawy, a szkielet wprowadza przeciwnika. Cztery figurki papug – dwie czerwone i dwie zielone – uzupełniają scenę niezależnie od dużych domków. Wśród wyposażenia znalazły się stół warsztatowy, piec, lejek, łóżko, mapa oraz narzędzia i surowce rozpoznawalne z gry. Można więc odgrywać zbieranie zasobów, urządzać bazę lub bronić jej przed szkieletem. To bogatszy zestaw czynności niż samo ustawienie figurek obok gotowego modelu. Diamentowy miecz i żelazny topór służą różnym elementom tych historii.",
+   "Zestaw działa samodzielnie, a dżunglowy motyw daje naturalne miejsce dla innych scen Minecraft. Gotowa aranżacja ma około 24 cm wysokości, 28 cm szerokości i 22 cm głębokości. Przy wyborze warto zwrócić uwagę na mechanizm tańca i odczepiany czerwony model: właśnie te funkcje odróżniają Papugowe domki od prostszej bazy z wyposażeniem. Będą dobrym kierunkiem dla dziecka zainteresowanego zwierzętami z gry i budowaniem własnych schronień.",
+   "Gdyby stanął obok 27 zestawów LEGO Minecraft z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,56 zł, przy typowych dla serii 0,38 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "21282",
+   "Nazwa": "Papugowe domki",
+   "Seria": "Minecraft",
+   "Premiera": "2025",
+   "Liczba elementów": "535",
+   "Wiek": "8+",
+   "Minifigurki i postacie": "2 minifigurki, szkielet i 4 papugi",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,56 zł",
+   "Typ zestawu": "Domki w dżungli do zabawy",
+   "Kolekcja i system": "Papugowe domki są samodzielną bazą w dżungli Minecraft i tematycznie pasują do innych scen z tej gry.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21282?",
+    "a": "Polska cena katalogowa wynosi 299,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21282 w cenie katalogowej?",
+    "a": "Cena 299,99 zł wymaga porównania ofert. Warto wybrać ten model ze względu na dwa odmienne domki, cztery papugi i funkcję tańca, jeżeli te elementy odpowiadają zainteresowaniom dziecka."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21282?",
+    "a": "Sprawdź oferty sprzedawców zestawów Minecraft oraz warunki dostawy dla numeru 21282. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21282 jest częścią większej kolekcji lub systemu?",
+    "a": "Papugowe domki są samodzielną bazą w dżungli Minecraft i tematycznie pasują do innych scen z tej gry. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Porównuj przede wszystkim wyposażenie bazy i funkcje zwierząt. Papugowe domki stawiają na dżunglę oraz tańczące papugi, podczas gdy inne bazy mogą koncentrować się na gospodarstwie lub obronie. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>."
+   },
+   {
+    "q": "Czy papugi rzeczywiście poruszają się przy szafie grającej?",
+    "a": "Tak. Niebieski domek ma mechanizm, który wprawia dwie papugi w taniec. Czerwony model oferuje inną funkcję: składane skrzydła i odczepianą papugową część."
+   }
+  ]
+ },
+ "21354": {
+  "seria": "Ideas",
+  "nazwa": "Zmierzch: dom Cullenów",
+  "elementy": 2001,
+  "akapity": [
+   "Filmowy dom z dużymi przeszkleniami jest centrum LEGO Ideas 21354 Zmierzch: dom Cullenów. Model z 2025 roku zawiera 2001 elementów i ma oznaczenie 18+. Jego nowoczesna bryła różni się od klasycznych zamków i kamienic: szerokie okna pozwalają dostrzec wyposażenie, a balkon oraz rośliny dopełniają mieszkalny charakter budynku. Dach i kolejne poziomy można zdejmować, aby zajrzeć do salonu, kuchni, łazienki i sypialni Edwarda. Fortepian w salonie jest jednym z detali wiążących wnętrze z filmowym pierwowzorem. Dom ma około 21 cm wysokości, 37 cm szerokości i 18 cm głębokości.",
+   "W zestawie znajdują się minifigurki Belli Swan, Edwarda Cullena, Jacoba Blacka, Carlisle’a Cullena, Alice Cullen, Charliego Swana i Rosalie Hale. Edward ma efekt iskrzenia, a Jacobowi w ludzkiej postaci towarzyszy osobny, ruchomy model wilka. Furgonetka Belli i wysokie drzewo rozszerzają scenę poza sam budynek. Na drzewie można umieścić Bellę oraz Edwarda, tworząc rozpoznawalne filmowe nawiązanie. Siedem minifigurek nie pełni zatem wyłącznie roli dodatku do architektury: pozwalają zestawić dom, samochód i drzewo w konkretną opowieść. Model wilka pozostaje dodatkową konstrukcją, a nie ósmą minifigurką.",
+   "To przede wszystkim propozycja dla dorosłych fanów sagi, którym zależy na połączeniu miejsca akcji z jej bohaterami. Zdejmowane kondygnacje zachęcają do oglądania wnętrz także po ustawieniu całości na półce. Można eksponować sam dom albo poszerzyć aranżację o pojazd i drzewo, uwzględniając dla nich dodatkową przestrzeń. Zestaw należy do LEGO Ideas i powstał na podstawie projektu wybranego przez społeczność, lecz nie jest modułem większego systemu budynków. W relacji do innych modeli Ideas jego wyróżnikiem jest konkretna licencja filmowa oraz współczesna architektura. Drukowana broszura zawiera także rozmowy z pomysłodawcą i projektantami LEGO; cyfrowe instrukcje są dostępne w LEGO Builder.",
+   "Gdyby stanął obok 11 zestawów LEGO Ideas z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21369/\">LEGO 21369 The X-Files</a> (869,99 zł katalogowo) i <a href=\"/zestaw/21367/\">LEGO 21367 Tintin i rakieta na Księżyc</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "21354",
+   "Nazwa": "Zmierzch: dom Cullenów",
+   "Seria": "Ideas",
+   "Premiera": "2025",
+   "Liczba elementów": "2001",
+   "Wiek": "18+",
+   "Minifigurki i postacie": "7 minifigurek i budowana figurka wilka",
+   "Polska cena katalogowa RRP": "949,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "Filmowy dom do ekspozycji",
+   "Kolekcja i system": "Dom Cullenów to samodzielny model LEGO Ideas na licencji Zmierzchu; nie jest modułem systemu ulicy lub zamków.",
+   "Dystrybucja": "LEGO.com i sklepy LEGO; oferty innych sprzedawców"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21354?",
+    "a": "Polska cena katalogowa wynosi 949,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21354 w cenie katalogowej?",
+    "a": "Przy cenie 949,99 zł zakup zależy przede wszystkim od zainteresowania sagą i siedmioma jej bohaterami. Warto porównać warunki LEGO oraz inne dostępne oferty, bez zakładania określonego rabatu dla tego modelu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21354?",
+    "a": "Sprawdź LEGO.com, sklepy LEGO i dostępne oferty innych sprzedawców. Przy zakupie kolekcjonerskim zweryfikuj numer zestawu oraz stan pudełka i zawartości. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21354 jest częścią większej kolekcji lub systemu?",
+    "a": "Dom Cullenów to samodzielny model LEGO Ideas na licencji Zmierzchu; nie jest modułem systemu ulicy lub zamków. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ideas?",
+    "a": "W Ideas porównuj go z innymi domami opartymi na filmach lub serialach. Tutaj znaczenie mają współczesna architektura, wnętrza i postacie Zmierzchu, a nie możliwość dołączenia budynku do modułowej ulicy. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Czy można zajrzeć do wnętrza domu?",
+    "a": "Tak. Dach i kolejne poziomy są zdejmowane. Umożliwiają obejrzenie salonu z fortepianem, kuchni, łazienki oraz sypialni Edwarda bez rozbierania ścian."
+   }
+  ]
+ },
+ "21355": {
+  "seria": "Ideas",
+  "nazwa": "Ewolucja przedmiotów ścisłych",
+  "elementy": 879,
+  "akapity": [
+   "Otwarta księga stanowi podstawę LEGO Ideas 21355 Ewolucja przedmiotów ścisłych. Na jej stronach zestawiono miniaturowe symbole nauki, technologii, inżynierii i matematyki, zamiast odtwarzać jedno laboratorium. Model z 2025 roku ma 879 elementów i oznaczenie 18+. Wśród konstrukcji znalazły się pierwszy samochód, komputer domowy, wahadłowiec z ramieniem robotycznym i sonda NASA Voyager ze złotą płytą. Jabłoń nawiązuje do Isaaca Newtona, a rabata do działalności George’a Washingtona Carvera. Liczne małe obiekty sprawiają, że ekspozycję można oglądać fragment po fragmencie.",
+   "Nie wszystkie elementy pozostają nieruchome. Pokrętło pozwala unieść trójwymiarowy model atomu węgla i obracać łańcuch DNA. Te mechanizmy wprowadzają ruch do kompozycji, która z założenia ma stać na półce. W modelu ukryto również wiadomość zapisaną alfabetem Morse’a. Trzy minifigurki przedstawiają Marię Skłodowską-Curie, Isaaca Newtona i George’a Washingtona Carvera. Są związane z konkretnymi dziedzinami oraz detalami konstrukcji, dzięki czemu uzupełniają jej temat bardziej przekonująco niż przypadkowy zestaw postaci.",
+   "Ewolucja przedmiotów ścisłych jest samodzielnym modelem Ideas dla dorosłego miłośnika historii nauki. Jej składana podstawa ma formę książki, a gotowa ekspozycja mierzy około 27 cm wysokości, 23 cm szerokości i 19 cm głębokości. Wybór tego zestawu będzie zależał przede wszystkim od zainteresowania naukowymi odniesieniami i chęci oglądania wielu drobnych konstrukcji. Nie zastępuje on edukacyjnego eksperymentu: przedstawia wybrane osiągnięcia i idee w dekoracyjnej formie z ruchomymi detalami.",
+   "Gdyby stanął obok 11 zestawów LEGO Ideas z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,39 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "21355",
+   "Nazwa": "Ewolucja przedmiotów ścisłych",
+   "Seria": "Ideas",
+   "Premiera": "2025",
+   "Liczba elementów": "879",
+   "Wiek": "18+",
+   "Minifigurki i postacie": "3 minifigurki naukowców",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "Model o tematyce naukowej do ekspozycji",
+   "Kolekcja i system": "To samodzielny model Ideas poświęcony nauce i technologii, oparty na projekcie wybranym przez społeczność.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21355?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21355 w cenie katalogowej?",
+    "a": "Przy RRP 339,99 zł warto porównać ceny. Zestaw będzie bardziej trafiony dla miłośnika naukowych odniesień i drobnych modeli niż dla osoby oczekującej jednej dużej konstrukcji."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21355?",
+    "a": "Porównaj dostępne oferty modelu 21355, uwzględniając dostawę i stan zestawu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21355 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny model Ideas poświęcony nauce i technologii, oparty na projekcie wybranym przez społeczność. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Ideas w podobnej cenie?",
+    "a": "Szukaj modeli Ideas przedstawiających naukę, kosmos lub historyczne wynalazki. Ewolucja przedmiotów ścisłych wyróżnia się księgą z wieloma symbolami oraz dwoma ruchomymi detalami. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Co porusza się w tym modelu?",
+    "a": "Pokrętło uruchamia unoszenie repliki atomu węgla i obrót łańcucha DNA. Pozostałe miniatury tworzą naukową ekspozycję na podstawie w kształcie książki."
+   }
+  ]
+ },
+ "21359": {
+  "seria": "Ideas",
+  "nazwa": "Włoska riwiera",
+  "elementy": 3251,
+  "akapity": [
+   "Trzy kolorowe budynki przy wodzie tworzą LEGO Ideas 21359 Włoska riwiera, model nadmorskiej miejscowości inspirowanej Ligurią. Wydany w 2025 roku zestaw dla dorosłych 18+ zawiera 3251 elementów. Zamiast jednego reprezentacyjnego gmachu pokazuje fragment codziennego życia: lodziarnię, sklep ze sprzętem do nurkowania i targ rybny. Nad lokalami znajdują się mieszkania ich właścicieli. Taka konstrukcja pozwala połączyć sceny uliczne z prywatnymi wnętrzami, a zróżnicowane kolory fasad podkreślają, że oglądamy kilka sąsiadujących domów. Dachy i górne piętra można zdejmować, aby uzyskać dostęp do środka.",
+   "Dziesięć minifigurek oraz dwa koty zapewniają wiele drobnych historii związanych z miejscem. Jest rybak z łodzią, sprzedawca ryb, właściciel lodziarni, turysta i kierowczyni skutera. W kuchni włoska babcia pokazuje wnukowi przygotowanie makaronu trofie i focacci. Sklep nurkowy zawiera mapę wybrzeża, a rybny bazarek nadaje sens obecności łodzi. Te elementy sprawiają, że scena nie jest wyłącznie kolorową fasadą: wyposażenie tłumaczy funkcje lokali i zajęcia mieszkańców. Minifigurka turysty nawiązuje do fana, który zaproponował projekt zestawu. Obecność kotów pozwala dodać własne sytuacje w zaułkach i przy rybnym stoisku, bez zmieniania architektury.",
+   "Gotowa aranżacja ma około 23 cm wysokości, 34 cm szerokości i 31 cm głębokości. Głębokość warto uwzględnić przy wyborze półki, ponieważ model obejmuje nie tylko rząd budynków, ale również otoczenie przy wodzie. Włoska riwiera jest samodzielnym zestawem Ideas, a jej nadmorska sceneria i wnętrza stanowią mocny argument dla miłośników podróży oraz architektury mieszkalnej. Można oglądać ją jako zamkniętą scenę lub zdejmować kolejne części domów, aby prezentować wyposażenie. Nie należy zakładać, że jest kolejnym modułem standardowej ulicy: jej układ podporządkowano małej wiosce rybackiej. W porównaniu z pojedynczym zabytkiem oferuje przede wszystkim większą liczbę lokalnych scen i postaci.",
+   "Gdyby stanął obok 11 zestawów LEGO Ideas z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,37 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21369/\">LEGO 21369 The X-Files</a> (869,99 zł katalogowo) i <a href=\"/zestaw/21367/\">LEGO 21367 Tintin i rakieta na Księżyc</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "21359",
+   "Nazwa": "Włoska riwiera",
+   "Seria": "Ideas",
+   "Premiera": "2025",
+   "Liczba elementów": "3251",
+   "Wiek": "18+",
+   "Minifigurki i postacie": "10 minifigurek i 2 koty",
+   "Polska cena katalogowa RRP": "1199,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "Nadmorska zabudowa do ekspozycji",
+   "Kolekcja i system": "Włoska riwiera jest samodzielną sceną LEGO Ideas, inspirowaną liguryjską wioską rybacką.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 21359?",
+    "a": "Polska cena katalogowa wynosi 1199,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 21359 w cenie katalogowej?",
+    "a": "RRP 1199,99 zł warto zestawić z ofertami LEGO i wybranych sprzedawców. Model ma sens przede wszystkim dla osoby zainteresowanej trzema budynkami, ich wnętrzami oraz nadmorskimi scenami."
+   },
+   {
+    "q": "Gdzie kupić LEGO 21359?",
+    "a": "Sprawdź LEGO.com i sklepy LEGO oraz oferty wybranych sprzedawców, porównując całkowity koszt zakupu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 21359 jest częścią większej kolekcji lub systemu?",
+    "a": "Włoska riwiera jest samodzielną sceną LEGO Ideas, inspirowaną liguryjską wioską rybacką. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ideas warto kupić zamiast tego modelu?",
+    "a": "Wśród modeli Ideas szukaj zabudowy z wnętrzami i codziennymi scenami. Riwiera oferuje trzy lokale, mieszkania i otoczenie przy wodzie; wymaga też około 31 cm głębokości miejsca na ekspozycję. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>."
+   },
+   {
+    "q": "Czy dachy domów można zdejmować?",
+    "a": "Tak. Dachy i górne piętra trzech budynków są odczepiane. Można dzięki temu oglądać lodziarnię, sklep nurkowy, targ rybny oraz mieszkania nad lokalami."
+   }
+  ]
+ },
+ "31171": {
+  "seria": "Creator",
+  "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+  "elementy": 780,
+  "akapity": [
+   "Ruchomy nosorożec z niewielkimi zwierzętami to pierwszy z trzech wariantów LEGO Creator 31171 Dzikie zwierzęta: dumny nosorożec z ptakami. Zestaw z 2025 roku ma 780 elementów i oznaczenie 9+. Nosorożcowi można ustawiać nogi, stopy, szyję, głowę, uszy, pysk i ogon. Towarzyszą mu cztery ptaki, ślimak oraz fragment otoczenia z trawą i wodą. Liczne ruchome części pozwalają zmieniać postawę głównego zwierzęcia, a małe modele nadają scenie więcej charakteru niż sama duża figurka.",
+   "Te same klocki można przebudować w hipopotama z dwoma ptakami i kępką trawy lub w morsa z rybą oraz fragmentem lodu i wody. Każdy wariant zmienia nie tylko sylwetkę zwierzęcia, lecz także jego środowisko. Trzech głównych scen nie można zbudować równocześnie. Wybór kolejnej oznacza rozłożenie poprzedniej, dlatego zestaw odpowiada dziecku, które lubi wracać do budowania i porównywać różne konstrukcje. Mniejsze zwierzęta w poszczególnych wariantach stanowią część konkretnej sceny, a nie dodatkowy zestaw wszystkich postaci do zachowania po każdej przebudowie.",
+   "Model należy do Creator 3 w 1 i działa niezależnie od innych zestawów. Jego tematycznym miejscem jest kolekcja budowanych zwierząt, ale największą zaletą pozostaje możliwość zmiany nosorożca w dwa wyraźnie odmienne gatunki. Przy wyborze warto kierować się właśnie ruchem oraz wariantami, zamiast traktować zestaw jedynie jako nieruchomą ozdobę. Po ustawieniu wybranej pozy można oczywiście pozostawić zwierzę na półce, a później wrócić do zabawy albo przebudowy.",
+   "Gdyby stanął obok 29 zestawów LEGO Creator z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,32 zł, przy typowych dla serii 0,35 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "31171",
+   "Nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2025",
+   "Liczba elementów": "780",
+   "Wiek": "9+",
+   "Polska cena katalogowa RRP": "249,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "Zwierzęta Creator 3 w 1",
+   "Kolekcja i system": "Zestaw należy do Creator 3 w 1 i tworzy samodzielne sceny z nosorożcem, hipopotamem lub morsem.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31171?",
+    "a": "Polska cena katalogowa wynosi 249,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 31171 w cenie katalogowej?",
+    "a": "Przy cenie 249,99 zł warto porównać oferty. Najważniejszym argumentem jest możliwość powrotu do budowania trzech gatunków, jeżeli dziecko lubi przebudowywać modele."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31171?",
+    "a": "Porównaj oferty zestawu 31171 u sprzedawców LEGO i koszt dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31171 jest częścią większej kolekcji lub systemu?",
+    "a": "Zestaw należy do Creator 3 w 1 i tworzy samodzielne sceny z nosorożcem, hipopotamem lub morsem. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "W kolekcji zwierząt Creator porównuj gatunki i zakres ruchu. Ten model daje trzy duże zwierzęta jako warianty oraz mniejszych towarzyszy właściwych dla każdej sceny. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Czy nosorożca, hipopotama i morsa można zbudować równocześnie?",
+    "a": "Nie. Trzy główne modele wykorzystują te same klocki. Aby przejść do kolejnego zwierzęcia, trzeba rozłożyć poprzednią konstrukcję."
+   }
+  ]
+ },
+ "31172": {
+  "seria": "Creator",
+  "nazwa": "Gramofon z kwiatami",
+  "elementy": 366,
+  "akapity": [
+   "LEGO Creator 31172 Gramofon z kwiatami odtwarza urządzenie w stylu retro: ma ruchomy talerz, ramię z igłą, dwie płyty i odczepiane kwiaty. Zestaw z 2025 roku zawiera 366 elementów i jest przeznaczony dla dzieci 8+. Mechaniczne detale pozwalają odgrywać obsługę gramofonu, a kwiatowe ozdoby nadają mu dekoracyjny charakter.",
+   "W ramach Creator 3 w 1 klocki można przebudować w radio z ruchomymi przyciskami i regulowaną anteną albo w obrotowy mikrofon na statywie. Każdy wariant zachowuje muzyczny temat i kwiaty, lecz modele powstają zamiennie. To propozycja dla miłośnika muzycznych gadżetów, który chce wracać do składania. Samodzielna konstrukcja nie wymaga innych zestawów ani elektronicznych podzespołów; przedstawia sprzęt muzyczny, ale nie odtwarza nagrań."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "31172",
+   "Nazwa": "Gramofon z kwiatami",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2025",
+   "Liczba elementów": "366",
+   "Wiek": "8+",
+   "Polska cena katalogowa RRP": "124,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "Modele muzyczne Creator 3 w 1",
+   "Kolekcja i system": "To samodzielny zestaw Creator 3 w 1 z trzema muzycznymi wariantami: gramofonem, radiem i mikrofonem.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31172?",
+    "a": "Polska cena katalogowa wynosi 124,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 31172 w cenie katalogowej?",
+    "a": "Przy RRP 124,99 zł warto sprawdzić rabaty. Zestaw odpowiada osobie zainteresowanej muzyczną dekoracją i przebudową; nie należy kupować go z oczekiwaniem elektronicznego odtwarzania muzyki."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31172?",
+    "a": "Sprawdź oferty sprzedawców dla numeru 31172 i porównaj cenę z dostawą. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31172 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny zestaw Creator 3 w 1 z trzema muzycznymi wariantami: gramofonem, radiem i mikrofonem. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Creator w podobnej cenie?",
+    "a": "W Creator szukaj dekoracyjnych modeli przedmiotów codziennych. Gramofon wyróżnia muzyczny temat, ruchome detale i kwiaty, a jego wariantami są radio oraz mikrofon. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Czy gramofon odtwarza muzykę?",
+    "a": "Nie. To model z klocków z ruchomym talerzem i ramieniem. Nie ma elektronicznego mechanizmu odtwarzania; alternatywne radio i mikrofon także są konstrukcjami do zabawy i ekspozycji."
+   }
+  ]
+ },
+ "31175": {
+  "seria": "Creator",
+  "nazwa": "Zamek jednorożców",
+  "elementy": 390,
+  "akapity": [
+   "Tęczowe schody prowadzą do LEGO Creator 31175 Zamek jednorożców, zestawu fantasy z 2025 roku dla dzieci 8+. Z 390 elementów powstaje zamek z czterema wieżami i dwiema wieżyczkami. Ptaszarnia, fontanna, diamentowa sala, teleskop i złota marchewka uzupełniają miejsce przygód białego jednorożca oraz żółtego i różowego pegaza.",
+   "Konstrukcję Creator 3 w 1 można zamienić w statek jednorożców z tęczowym żaglem albo plac zabaw z leśną chatką, ogrodem i stołem piknikowym. Trzy warianty wykorzystują te same klocki, więc nie powstają jednocześnie. Zestaw pasuje do dziecka zainteresowanego magicznymi zwierzętami i samodzielnym wymyślaniem historii. Jego wyróżnikiem jest zmiana całego miejsca akcji, od zamku po statek, przy zachowaniu baśniowego motywu."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "31175",
+   "Nazwa": "Zamek jednorożców",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2025",
+   "Liczba elementów": "390",
+   "Wiek": "8+",
+   "Polska cena katalogowa RRP": "169,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "Budowle fantasy Creator 3 w 1",
+   "Kolekcja i system": "Zamek należy do Creator 3 w 1; można przebudować go w statek albo plac zabaw z leśną chatką.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 31175?",
+    "a": "Polska cena katalogowa wynosi 169,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 31175 w cenie katalogowej?",
+    "a": "RRP 169,99 zł warto porównać z ofertami sklepów. Wybór jest uzasadniony, jeśli dziecko lubi jednorożce, pegazy i zmianę miejsca akcji przez przebudowę."
+   },
+   {
+    "q": "Gdzie kupić LEGO 31175?",
+    "a": "Porównaj dostępne oferty zestawu 31175 oraz koszty dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 31175 jest częścią większej kolekcji lub systemu?",
+    "a": "Zamek należy do Creator 3 w 1; można przebudować go w statek albo plac zabaw z leśną chatką. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Creator warto kupić zamiast tego modelu?",
+    "a": "W Creator wybierz model według tematu i wariantów. Tutaj alternatywą dla zamku jest statek z tęczowym żaglem albo leśny plac zabaw; inne budowle mogą odpowiadać bardziej realistycznym historiom. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>."
+   },
+   {
+    "q": "Czy trzy budowle są jednocześnie w komplecie?",
+    "a": "Nie. Zamek, statek i plac zabaw to trzy warianty z tych samych klocków. Powstają zamiennie, a nie jako trzy gotowe miejsca akcji do równoczesnego ustawienia."
+   }
+  ]
+ },
+ "40791": {
+  "seria": "BrickHeadz",
+  "nazwa": "Czara Ognia – figurki",
+  "elementy": 671,
+  "akapity": [
+   "Czterej uczestnicy Turnieju Trójmagicznego i smok tworzą LEGO BrickHeadz 40791 Czara Ognia – figurki. Zestaw z 2025 roku składa się z 671 elementów i ma oznaczenie 10+. Harry Potter, Cedric Diggory, Viktor Krum i Fleur Delacour są tu budowanymi postaciami w charakterystycznym formacie BrickHeadz, a nie minifigurkami do zamkowego zestawu. Piątym modelem jest węgierski rogogon. Wspólna filmowa tematyka pozwala ustawić całą grupę jako jedną ekspozycję, zamiast zbierać niezwiązane ze sobą postacie. Złoty znicz jest jednym z akcesoriów pomagających rozpoznać nawiązanie do świata Harry’ego Pottera.",
+   "Każda postać wykorzystuje uproszczone proporcje BrickHeadz, lecz odmienny strój i szczegóły pozwalają odróżnić uczestników turnieju. Smok rozszerza grupę poza samych czarodziejów i sprawia, że pięcioelementowa kolekcja ma wyraźnie zróżnicowane sylwetki. Modele można prezentować razem albo rozdzielić na półce; nie są alternatywnymi konstrukcjami wymagającymi wzajemnej przebudowy. Dzięki temu zakup odpowiada przede wszystkim osobie, która chce uzyskać kompletną grupę z jednego filmu. W porównaniu z parą BrickHeadz oznacza więcej osobnych postaci do ustawienia, a nie jeden większy budynek czy scenę.",
+   "Czara Ognia – figurki należy do kolekcji BrickHeadz na licencji Harry Potter. Może towarzyszyć innym figurkom tej linii, ale nie wymaga modułów Hogwartu ani dodatkowych bohaterów, by wyglądać jak skończony zestaw. Dla fana turnieju ważny będzie dobór postaci oraz rogogona. Osobie szukającej przede wszystkim funkcji zamku lub ruchomych magicznych stworzeń lepiej odpowie inny rodzaj modelu Harry Potter.",
+   "Gdyby stanął obok 15 zestawów LEGO BrickHeadz z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,31 zł, przy typowych dla serii 0,36 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "40791",
+   "Nazwa": "Czara Ognia – figurki",
+   "Seria": "BrickHeadz",
+   "Premiera": "2025",
+   "Liczba elementów": "671",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "5 budowanych figurek BrickHeadz",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "Pięć figurek BrickHeadz do ekspozycji",
+   "Kolekcja i system": "Pięć figurek należy do Harry Potter BrickHeadz i może uzupełniać inne budowane postacie tej kolekcji.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40791?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 40791 w cenie katalogowej?",
+    "a": "Przy cenie 209,99 zł zestaw ma sens dla fana uczestników Turnieju Trójmagicznego i rogogona. Mimo oznaczenia Exclusive warto porównać LEGO z dostępnymi ofertami innych sprzedawców."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40791?",
+    "a": "Sprawdź LEGO.com, sklepy LEGO i oferty wybranych sprzedawców dla numeru 40791. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 40791 jest częścią większej kolekcji lub systemu?",
+    "a": "Pięć figurek należy do Harry Potter BrickHeadz i może uzupełniać inne budowane postacie tej kolekcji. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO BrickHeadz?",
+    "a": "W BrickHeadz porównuj dobór postaci i liczbę gotowych modeli. Ten zestaw daje czterech uczestników turnieju oraz smoka, podczas gdy mniejsze pary koncentrują się na jednej relacji bohaterów. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Czy to figurki BrickHeadz, czy minifigurki?",
+    "a": "To pięć budowanych modeli BrickHeadz: Harry, Cedric, Viktor, Fleur i węgierski rogogon. Nie są to minifigurki do zestawów z zamkiem Hogwart."
+   }
+  ]
+ },
+ "40802": {
+  "seria": "BrickHeadz",
+  "nazwa": "Figurki Luny Lovegood i testrala",
+  "elementy": 292,
+  "akapity": [
+   "Luna Lovegood z jabłkiem i testral w locie tworzą LEGO BrickHeadz 40802 Figurki Luny Lovegood i testrala. Zestaw z 2025 roku ma 292 elementy i oznaczenie 10+. Każdy model stoi na własnej podstawce, a obie figurki mierzą około 8 cm wysokości. Strój Luny i sylwetka skrzydlatego stworzenia rozróżniają postacie mimo wspólnych proporcji BrickHeadz.",
+   "To mała ekspozycja dla fana Harry’ego Pottera, który chce połączyć bohaterkę z magicznym zwierzęciem. Jabłko w dłoni Luny uzupełnia relację między modelami. Para może stać samodzielnie lub obok innych figurek Harry Potter BrickHeadz. W przeciwieństwie do dużego, ruchomego testrala ten model stawia przede wszystkim na kolekcjonerski format i zestawienie dwóch postaci."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "40802",
+   "Nazwa": "Figurki Luny Lovegood i testrala",
+   "Seria": "BrickHeadz",
+   "Premiera": "2025",
+   "Liczba elementów": "292",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "2 budowane figurki BrickHeadz",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "Dwie figurki BrickHeadz do ekspozycji",
+   "Kolekcja i system": "Para należy do Harry Potter BrickHeadz; może stać osobno lub obok innych figurek tej linii.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40802?",
+    "a": "Polska cena katalogowa wynosi 104,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 40802 w cenie katalogowej?",
+    "a": "RRP 104,99 zł może odpowiadać fanowi Luny i testrali, ale warto porównać dostępne oferty. Zaletą jest para osobnych modeli na podstawkach, a nie duży zakres ruchu zwierzęcia."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40802?",
+    "a": "Porównaj LEGO.com, sklepy LEGO i wybranych sprzedawców oferujących zestaw 40802. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 40802 jest częścią większej kolekcji lub systemu?",
+    "a": "Para należy do Harry Potter BrickHeadz; może stać osobno lub obok innych figurek tej linii. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO BrickHeadz w podobnej cenie?",
+    "a": "Inne pary Harry Potter BrickHeadz oferują odmiennych bohaterów. Wybierz Lunę z testralem, jeśli zależy Ci na tym zestawieniu; ruchome stworzenia w większej skali stanowią inny rodzaj produktu. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Czy Luna i testral mają osobne podstawki?",
+    "a": "Tak. Każdy model ma własną podstawkę, a Luna dodatkowo trzyma jabłko. Dwie figurki można ustawić razem albo rozdzielić na ekspozycji."
+   }
+  ]
+ },
+ "40803": {
+  "seria": "BrickHeadz",
+  "nazwa": "Robot i pojazd Optimus Prime",
+  "elementy": 237,
+  "akapity": [
+   "Dwie postacie Optimusa Prime’a można zbudować równocześnie w LEGO BrickHeadz 40803 Robot i pojazd Optimus Prime. Zestaw z 2025 roku zawiera 237 elementów i ma oznaczenie 10+. Robot mierzy około 9 cm wysokości, a ciężarówka około 7 cm wysokości. Są to dwa osobne modele; jeden nie przekształca się w drugi.",
+   "Ciężarówka ma obracające się koła i można zdjąć ją z podstawki, a robot wykorzystuje charakterystyczny element ozdobny. Dwie podstawki pozwalają ustawić oba oblicza przywódcy Autobotów razem, zaś oddzielne instrukcje umożliwiają podział budowania. Model jest skierowany do fana Transformers i pasuje do innych BrickHeadz, szczególnie pary z Bumblebee. Oferuje niewielką ekspozycję robota oraz pojazdu, a nie funkcję transformacji."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "40803",
+   "Nazwa": "Robot i pojazd Optimus Prime",
+   "Seria": "BrickHeadz",
+   "Premiera": "2025",
+   "Liczba elementów": "237",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "2 modele: robot i ciężarówka",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "Robot i ciężarówka BrickHeadz",
+   "Kolekcja i system": "Modele należą do Transformers BrickHeadz i tematycznie pasują do pary robota oraz pojazdu Bumblebee.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40803?",
+    "a": "Polska cena katalogowa wynosi 104,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 40803 w cenie katalogowej?",
+    "a": "Przy 104,99 zł zakup jest najbardziej uzasadniony dla fana Optimusa, który chce mieć obie formy na półce. Porównaj dostępne oferty; ten zestaw nie zastępuje dużego modelu z transformacją."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40803?",
+    "a": "Sprawdź LEGO.com, sklepy LEGO i oferty wybranych sprzedawców zestawu 40803. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 40803 jest częścią większej kolekcji lub systemu?",
+    "a": "Modele należą do Transformers BrickHeadz i tematycznie pasują do pary robota oraz pojazdu Bumblebee. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO BrickHeadz warto kupić zamiast tego modelu?",
+    "a": "Najbliższy kierunek to Bumblebee w tym samym formacie. Przy wyborze zdecyduj, którego Autobota chcesz eksponować, ponieważ oba zestawy dają osobny model robota i pojazdu. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Czy robot zmienia się w ciężarówkę?",
+    "a": "Nie. Robot i ciężarówka są dwiema osobnymi konstrukcjami, które można zbudować równocześnie. Ciężarówka ma obracające się koła i można zdjąć ją z podstawki."
+   }
+  ]
+ },
+ "40804": {
+  "seria": "BrickHeadz",
+  "nazwa": "Robot i pojazd Bumblebee",
+  "elementy": 253,
+  "akapity": [
+   "Żółty robot i samochód reprezentują dwa oblicza Bumblebee w LEGO BrickHeadz 40804 Robot i pojazd Bumblebee. Wydany w 2025 roku zestaw dla dzieci 10+ składa się z 253 elementów. Figurkę robota o wysokości około 8 cm uzupełnia samochód mierzący około 7 cm długości. Obie konstrukcje powstają osobno, bez mechanizmu przemiany jednej w drugą.",
+   "Samochód ma obracające się koła i można zdjąć go z podstawki do zabawy. Zdobione elementy pomagają odtworzyć charakter postaci, a dwa komplety instrukcji pozwalają budować wspólnie. Para stanowi samodzielną dekorację Transformers i tematycznie uzupełnia BrickHeadz z Optimusem Prime’em. To wybór dla osoby, której zależy na niewielkich modelach obu form Bumblebee, możliwych do jednoczesnego ustawienia."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "40804",
+   "Nazwa": "Robot i pojazd Bumblebee",
+   "Seria": "BrickHeadz",
+   "Premiera": "2025",
+   "Liczba elementów": "253",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "2 modele: robot i samochód",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "Robot i samochód BrickHeadz",
+   "Kolekcja i system": "Bumblebee uzupełnia kolekcję Transformers BrickHeadz, w której znajduje się również robot i pojazd Optimus Prime.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40804?",
+    "a": "Polska cena katalogowa wynosi 104,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 40804 w cenie katalogowej?",
+    "a": "Cena 104,99 zł ma sens przede wszystkim dla fana Bumblebee zainteresowanego dwiema małymi konstrukcjami. Warto porównać warunki sprzedaży i pamiętać, że modele nie mają mechanizmu przemiany."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40804?",
+    "a": "Szukaj zestawu 40804 w LEGO.com, sklepach LEGO i ofertach wybranych sprzedawców. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 40804 jest częścią większej kolekcji lub systemu?",
+    "a": "Bumblebee uzupełnia kolekcję Transformers BrickHeadz, w której znajduje się również robot i pojazd Optimus Prime. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO BrickHeadz?",
+    "a": "Optimus Prime BrickHeadz jest podobną propozycją z robotem i ciężarówką. Bumblebee daje żółtego robota oraz samochód, więc wybór zależy głównie od ulubionej postaci i pojazdu. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Czy samochodem Bumblebee można jeździć po zdjęciu z podstawki?",
+    "a": "Tak. Samochód ma obracające się koła i można zdjąć go z podstawki. Jest osobnym modelem, który nie powstaje przez transformację gotowej figurki robota."
+   }
+  ]
+ },
+ "40884": {
+  "seria": "BrickHeadz",
+  "nazwa": "Drift i Raven – figurki",
+  "elementy": 280,
+  "akapity": [
+   "LEGO BrickHeadz 40884 Drift i Raven – figurki przenosi dwie postacie Fortnite do niewielkiego formatu kolekcjonerskiego. Drift nosi różowy kaptur i białą maskę oraz trzyma kilof. Raven wyróżnia się ciemnym kapturem, piórami, fioletowymi oczami i mieczem. Zestaw z 2025 roku ma 280 elementów oraz oznaczenie 10+.",
+   "Po zbudowaniu Drift mierzy około 9 cm wysokości, a Raven około 8 cm. Różna kolorystyka i akcesoria pozwalają rozpoznać oba motywy mimo uproszczonych proporcji BrickHeadz. Modele można ustawić jako parę albo dołączyć do innych postaci tej linii. Zestaw odpowiada przede wszystkim graczowi zainteresowanemu tymi konkretnymi skórkami; stanowi klockową dekorację Fortnite, nie rozbudowaną scenę z pojazdem czy budynkiem."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "40884",
+   "Nazwa": "Drift i Raven – figurki",
+   "Seria": "BrickHeadz",
+   "Premiera": "2025",
+   "Liczba elementów": "280",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "2 budowane figurki BrickHeadz",
+   "Polska cena katalogowa RRP": "104,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "Dwie postacie Fortnite w formacie BrickHeadz",
+   "Kolekcja i system": "Drift i Raven to modele BrickHeadz na licencji Fortnite; pasują do innych budowanych postaci BrickHeadz.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40884?",
+    "a": "Polska cena katalogowa wynosi 104,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 40884 w cenie katalogowej?",
+    "a": "RRP 104,99 zł jest punktem odniesienia do porównania dostępnych cen. Para będzie trafna dla fana tych konkretnych postaci; bieżącej obniżki producenta nie należy mylić z ceną katalogową."
+   },
+   {
+    "q": "Gdzie kupić LEGO 40884?",
+    "a": "Porównaj LEGO.com, sklepy LEGO i oferty wybranych sprzedawców dla numeru 40884. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 40884 jest częścią większej kolekcji lub systemu?",
+    "a": "Drift i Raven to modele BrickHeadz na licencji Fortnite; pasują do innych budowanych postaci BrickHeadz. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO BrickHeadz w podobnej cenie?",
+    "a": "Szukaj innych BrickHeadz przedstawiających ulubione postacie z gier. Ta para wyróżnia dwa motywy Fortnite, a zestawy z pojazdami lub budynkami oferują inną skalę zabawy. <a href=\"/serie/brickheadz/\">Zobacz wszystkie zestawy LEGO BrickHeadz</a>."
+   },
+   {
+    "q": "Jakie akcesoria mają Drift i Raven?",
+    "a": "Drift ma kilof, a Raven miecz. Drifta rozpoznaje się także po różowym kapturze i białej masce, a Raven po ciemnym stroju, piórach oraz fioletowych oczach."
+   }
+  ]
+ },
+ "43263": {
+  "seria": "Disney",
+  "nazwa": "Zamek z Pięknej i Bestii",
+  "elementy": 2916,
+  "akapity": [
+   "LEGO Disney 43263 Zamek z Pięknej i Bestii jest czteropoziomowym modelem dla dorosłych, opartym na filmowej scenerii. Wydany w 2025 roku zestaw zawiera 2916 elementów i ma oznaczenie 18+. Wieże, komnaty oraz schody budują rozpoznawalny baśniowy charakter, ale projekt nie ogranicza się do wyglądu zewnętrznego. W sali balowej obraca się parkiet, a w jadalni można wprawiać w ruch półmiski na stole. W pokoju wieży umieszczono zaczarowaną różę i schowek. Te elementy odsyłają do konkretnych scen oraz przedmiotów z opowieści, zamiast pełnić wyłącznie funkcję architektonicznego wypełnienia.",
+   "Główna sekcja z wielkimi schodami jest odczepiana. Pozwala to zmienić sposób oglądania zamku i skupić się na wyposażeniu wnętrz. W komplecie znajduje się dziesięć postaci: Bella, Bestia, Gaston, LeFou, Maurycy, Lumière, Fifi, Trybik, Bryczek i Pani Imbryk. Bohaterowie oraz zaczarowane przedmioty tworzą różne rodzaje figurek, dlatego samej liczby postaci nie należy traktować jako liczby jednakowych minifigurek. Ich dobór pozwala ustawić zarówno sceny z główną parą, jak i sytuacje przy stole lub schodach. Ruchome detale dobrze pasują do filmowej historii o ożywionym wyposażeniu zamku.",
+   "Model ma około 53 cm wysokości, 33 cm szerokości i 15 cm głębokości. Szczególnie wysokość wież trzeba uwzględnić, planując ekspozycję na regale. Zamek będzie przede wszystkim ozdobą dla dorosłego fana Pięknej i Bestii, który chce oglądać wnętrza i ustawiać filmowych bohaterów. Tematycznie należy do kolekcji zamków Disney, ale jest samodzielną budowlą. Nie wymaga innych zamków, by uzyskać kompletną scenę. Przy porównaniu z podobnie wycenioną dekoracją istotne będą rozpoznawalność tej historii, zestaw postaci i dostęp do pomieszczeń. Dla osoby zainteresowanej głównie konkretnym filmem są to ważniejsze kryteria niż sama skala budowli.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/43302/\">LEGO 43302 Main Street, U.S.A.</a> (3899 el.). Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,48 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/43302/\">LEGO 43302 Main Street, U.S.A.</a> (1 499,99 zł katalogowo) i <a href=\"/zestaw/43300/\">LEGO 43300 Kubuś Puchatek</a> (649,99 zł)."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "43263",
+   "Nazwa": "Zamek z Pięknej i Bestii",
+   "Seria": "Disney",
+   "Premiera": "2025",
+   "Liczba elementów": "2916",
+   "Wiek": "18+",
+   "Minifigurki i postacie": "10 postaci Disneya",
+   "Polska cena katalogowa RRP": "1199,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "Filmowy zamek do ekspozycji",
+   "Kolekcja i system": "To samodzielny zamek Disney inspirowany Piękną i Bestią. Tematycznie pasuje do innych kolekcjonerskich zamków, lecz nie wymaga ich do ekspozycji.",
+   "Dystrybucja": "LEGO.com, sklepy LEGO i wybrani sprzedawcy"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 43263?",
+    "a": "Polska cena katalogowa wynosi 1199,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 43263 w cenie katalogowej?",
+    "a": "Przy cenie 1199,99 zł warto porównać LEGO i wybranych sprzedawców. Zakup uzasadniają przede wszystkim zainteresowanie filmem, dziesięć postaci i dostępne wnętrza, jeśli odpowiadają planowanej ekspozycji."
+   },
+   {
+    "q": "Gdzie kupić LEGO 43263?",
+    "a": "Sprawdź LEGO.com, sklepy LEGO i oferty wybranych sprzedawców. Przed zakupem przewidź miejsce na model o wysokości około 53 cm. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 43263 jest częścią większej kolekcji lub systemu?",
+    "a": "To samodzielny zamek Disney inspirowany Piękną i Bestią. Tematycznie pasuje do innych kolekcjonerskich zamków, lecz nie wymaga ich do ekspozycji. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Disney warto kupić zamiast tego modelu?",
+    "a": "Porównaj inne zamki Disney pod kątem konkretnego filmu, bohaterów i dostępnych pomieszczeń. Zamek z Pięknej i Bestii oferuje ruchomy parkiet i wyposażenie jadalni związane z tą historią. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>."
+   },
+   {
+    "q": "Ile postaci zawiera zamek?",
+    "a": "Dziesięć: Bellę, Bestię, Gastona, LeFou, Maurycego, Lumière’a, Fifi, Trybika, Bryczka i Panią Imbryk. Obok głównych bohaterów są także zaczarowane przedmioty, więc liczba postaci nie oznacza liczby standardowych minifigurek."
+   }
+  ]
+ },
+ "43277": {
+  "seria": "Disney",
+  "nazwa": "Samochód Cruelli De Mon",
+  "elementy": 378,
+  "akapity": [
+   "Długą sylwetkę samochodu z filmu 101 dalmatyńczyków odtwarza LEGO Disney 43277 Samochód Cruelli De Mon. Model z 2025 roku zawiera 378 elementów i ma oznaczenie 9+. Otwierane drzwi oraz zdejmowany dach dają dostęp do wnętrza, a koło zapasowe służy do kierowania pojazdem. Ta funkcja wyróżnia go jako samochód do prowadzenia, nie tylko do ustawienia na półce.",
+   "Minifigurka Cruelli i pies uzupełniają motyw filmowy. Zestaw jest samodzielnym pojazdem, który może towarzyszyć innym modelom Disney, lecz nie wymaga dodatkowej scenerii. Będzie odpowiedni dla fana klasycznych aut lub disneyowskiej antagonistki. Przy wyborze warto zwrócić uwagę na połączenie charakterystycznego wyglądu z działającym układem kierowania i otwieranymi elementami nadwozia."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "43277",
+   "Nazwa": "Samochód Cruelli De Mon",
+   "Seria": "Disney",
+   "Premiera": "2025",
+   "Liczba elementów": "378",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "Minifigurka Cruelli De Mon i pies",
+   "Polska cena katalogowa RRP": "209,99 zł",
+   "Cena katalogowa za element": "0,56 zł",
+   "Typ zestawu": "Samochód z funkcją kierowania",
+   "Kolekcja i system": "Samochód jest samodzielnym modelem Disney z 101 dalmatyńczyków i może uzupełniać inne filmowe zestawy.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 43277?",
+    "a": "Polska cena katalogowa wynosi 209,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 43277 w cenie katalogowej?",
+    "a": "Przy 209,99 zł warto porównać rabaty. Model będzie trafiony dla fana auta Cruelli, który doceni otwierane nadwozie i działający układ kierowania."
+   },
+   {
+    "q": "Gdzie kupić LEGO 43277?",
+    "a": "Porównaj oferty detaliczne zestawu 43277, uwzględniając koszt dostawy i kompletność zawartości. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 43277 jest częścią większej kolekcji lub systemu?",
+    "a": "Samochód jest samodzielnym modelem Disney z 101 dalmatyńczyków i może uzupełniać inne filmowe zestawy. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "W Disney szukaj pojazdów, jeśli najważniejsza jest zabawa samochodem. Zamki i sceny z postaciami dają inne możliwości niż prowadzenie auta i otwieranie jego nadwozia. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>."
+   },
+   {
+    "q": "Jak kieruje się samochodem Cruelli?",
+    "a": "Koło zapasowe służy do sterowania pojazdem. Oprócz tego można otwierać drzwi i zdjąć dach, aby zajrzeć do wnętrza."
+   }
+  ]
+ },
+ "71841": {
+  "seria": "Ninjago",
+  "nazwa": "Burzowa wioska Dragonów",
+  "elementy": 305,
+  "akapity": [
+   "LEGO NINJAGO 71841 Burzowa wioska Dragonów przedstawia arenę walki z trzeciego sezonu Powstania Smoków. Zestaw z 2025 roku ma 305 elementów i oznaczenie 7+. Klatka, wysuwany most i dół ze szkieletem pozwalają odgrywać pojmanie ninja oraz ucieczkę. Lina daje kolejną drogę ratunku, a spinner mieści dwie postacie i umożliwia przewracanie przeciwników.",
+   "Sześć minifigurek obejmuje Zane’a, Nyę, Rogue’a, Morro, dragońskiego wojownika i zwiadowcę. Arena jest gotową sceną do zabawy i może uzupełniać inne zestawy NINJAGO. Jej głównym wyróżnikiem jest skupienie kilku pułapek wokół jednej kryjówki. LEGO zakończyło produkcję zestawu; przy zakupie trzeba sprawdzić dostępne oferty oraz kompletność figurek i mechanizmów, zamiast zakładać regularną dostępność u producenta."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "71841",
+   "Nazwa": "Burzowa wioska Dragonów",
+   "Seria": "NINJAGO",
+   "Premiera": "2025",
+   "Liczba elementów": "305",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "6 minifigurek i szkielet",
+   "Polska cena katalogowa RRP": "174,99 zł",
+   "Cena katalogowa za element": "0,57 zł",
+   "Typ zestawu": "Arena walki ninja",
+   "Kolekcja i system": "Arena nawiązuje do trzeciego sezonu NINJAGO Powstanie Smoków i tematycznie uzupełnia inne sceny ninja.",
+   "Dystrybucja": "Wycofany z oferty LEGO; pozostałe oferty sprzedawców"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71841?",
+    "a": "Polska cena katalogowa wynosiła 174,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 71841 w cenie katalogowej?",
+    "a": "Historyczna polska RRP wynosiła 174,99 zł. Po zakończeniu produkcji trzeba oceniać dostępną ofertę, stan oraz kompletność sześciu minifigurek i mechanizmów, zamiast zakładać zakup w regularnej ofercie LEGO."
+   },
+   {
+    "q": "Gdzie kupić LEGO 71841?",
+    "a": "Szukaj pozostałych ofert sprzedawców lub rynku wtórnego. Sprawdź, czy zestaw 71841 jest nowy czy używany i czy zawiera wszystkie figurki oraz części pułapek. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 71841 jest częścią większej kolekcji lub systemu?",
+    "a": "Arena nawiązuje do trzeciego sezonu NINJAGO Powstanie Smoków i tematycznie uzupełnia inne sceny ninja. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO NINJAGO w podobnej cenie?",
+    "a": "Porównuj areny i kryjówki NINJAGO, jeśli liczą się pułapki oraz walki figurek. Smoki i mechy będą innym kierunkiem, gdy ważniejszy jest duży ruchomy model. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>."
+   },
+   {
+    "q": "Ile minifigurek znajduje się w wiosce?",
+    "a": "Sześć: Zane, Nya, Rogue, Morro, dragoński wojownik i dragoński zwiadowca. Szkielet w dole jest dodatkowym elementem sceny i nie zastępuje żadnej z tych sześciu postaci."
+   }
+  ]
+ },
+ "72045": {
+  "seria": "Super Mario",
+  "nazwa": "Mario Kart – Shy Guy i P-Wing",
+  "elementy": 249,
+  "akapity": [
+   "LEGO Super Mario 72045 Mario Kart – Shy Guy i P-Wing daje Shy Guyowi gokart z odczepianym szybowcem i funkcją wystrzeliwania skorup. Wydany w 2025 roku zestaw ma 249 elementów i oznaczenie 7+. Banana można wykorzystać jako przeszkodę podczas wyścigu, a budowana figurka kierowcy pozwala rozpocząć zabawę bez dodatkowych postaci.",
+   "Przesuwane siedzenie umożliwia także posadzenie elektronicznego Mario, Luigiego lub Peach, sprzedawanych w osobnych zestawach. Dopiero taka figurka dodaje efekty dźwiękowe i wizualne związane ze startem, driftem oraz szybowaniem. P-Wing pasuje do innych gokartów LEGO Mario Kart, ale sam zawiera pojazd i kierowcę. Jest dobrym kierunkiem dla gracza, który chce rozszerzyć wyścigi o Shy Guya i motyw lotu."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "72045",
+   "Nazwa": "Mario Kart – Shy Guy i P-Wing",
+   "Seria": "Super Mario",
+   "Premiera": "2025",
+   "Liczba elementów": "249",
+   "Wiek": "7+",
+   "Minifigurki i postacie": "Budowana figurka Shy Guya",
+   "Polska cena katalogowa RRP": "81,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "Gokart z opcją zabawy interaktywnej",
+   "Kolekcja i system": "P-Wing należy do LEGO Super Mario: Mario Kart i może brać udział w wyścigach z innymi gokartami tej linii.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 72045?",
+    "a": "Polska cena katalogowa wynosi 81,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 72045 w cenie katalogowej?",
+    "a": "Przy cenie 81,99 zł warto porównać dostępne oferty. Zestaw ma sens jako gokart z Shy Guyem; elektroniczne efekty wymagają dodatkowej figurki, więc ich koszt trzeba uwzględnić osobno."
+   },
+   {
+    "q": "Gdzie kupić LEGO 72045?",
+    "a": "Sprawdź oferty zestawu 72045 i upewnij się, że porównujesz ten sam numer, a nie pakiet z elektronicznym bohaterem. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 72045 jest częścią większej kolekcji lub systemu?",
+    "a": "P-Wing należy do LEGO Super Mario: Mario Kart i może brać udział w wyścigach z innymi gokartami tej linii. <a href=\"/serie/super-mario/\">Zobacz wszystkie zestawy LEGO Super Mario</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Super Mario warto kupić zamiast tego modelu?",
+    "a": "Inne gokarty Mario Kart dają odmiennych kierowców i pojazdy. P-Wing wyróżnia odczepiany szybowiec; przy większych zestawach porównaj także liczbę pojazdów do wspólnego wyścigu. <a href=\"/serie/super-mario/\">Zobacz wszystkie zestawy LEGO Super Mario</a>."
+   },
+   {
+    "q": "Czy elektroniczny Mario jest w pudełku?",
+    "a": "Nie. Jest w nim budowany Shy Guy. Elektronicznego Mario, Luigiego albo Peach trzeba mieć osobno; posadzenie takiej figurki w gokarcie dodaje efekty dźwiękowe i wizualne."
+   }
+  ]
+ },
+ "75415": {
+  "seria": "Star Wars",
+  "nazwa": "Hełm Kylo Rena",
+  "elementy": 529,
+  "akapity": [
+   "Czarną powierzchnię z nadrukowanymi srebrnymi detalami odtwarza LEGO Star Wars 75415 Hełm Kylo Rena. Zestaw z 2025 roku został przygotowany z okazji dziesiątej rocznicy Przebudzenia Mocy i ma oznaczenie 18+. Z 529 elementów powstaje model na podstawce, przeznaczony do oglądania jako fragment większej kolekcji hełmów. Nadrukowane zdobienia pomagają oddać charakterystyczny wygląd bez sprowadzania dekoracji do jednolitej czarnej bryły. Zestaw przedstawia hełm w zmniejszonej skali; jego zadaniem jest ekspozycja, a nie noszenie jako element kostiumu.",
+   "Podstawka porządkuje prezentację i pozwala ustawić model samodzielnie obok książek lub innych pamiątek z Gwiezdnych Wojen. Dla fana Kylo Rena znaczenie mają kształt maski oraz srebrne detale, które odróżniają ją od hełmów imperialnych żołnierzy. W kolekcji można zestawić ciemną sylwetkę z jaśniejszymi modelami, uzyskując bardziej zróżnicowaną ekspozycję. Rocznicowa okoliczność wydania dotyczy filmu, w którym postać pojawiła się po raz pierwszy; nie jest dowodem ograniczonego nakładu zestawu.",
+   "Model należy do kolekcjonerskiej linii hełmów LEGO Star Wars i nie wymaga pozostałych zestawów do ustawienia na półce. Będzie trafniejszym wyborem dla osoby zainteresowanej tą konkretną postacią niż dla kogoś szukającego pojazdu lub sceny bitewnej. Przy porównywaniu hełmów warto zwrócić uwagę na kolor, kształt i filmowe pochodzenie, ponieważ ich zastosowanie pozostaje podobne. Drukowane instrukcje oraz podgląd konstrukcji w LEGO Builder pomagają prześledzić układ poszczególnych części podczas budowania.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 19. co do wielkości. Za element płaci się tu katalogowo 0,57 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "75415",
+   "Nazwa": "Hełm Kylo Rena",
+   "Seria": "Star Wars",
+   "Premiera": "2025",
+   "Liczba elementów": "529",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,57 zł",
+   "Typ zestawu": "Hełm do ekspozycji",
+   "Kolekcja i system": "Hełm Kylo Rena należy do kolekcjonerskiej linii hełmów LEGO Star Wars i ma własną podstawkę do samodzielnej ekspozycji.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75415?",
+    "a": "Polska cena katalogowa wynosi 299,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 75415 w cenie katalogowej?",
+    "a": "Cena 299,99 zł powinna być punktem odniesienia przy porównaniu ofert. Wybór jest uzasadniony zainteresowaniem Kylo Renem i wyglądem hełmu; rocznicowe wydanie nie dowodzi ograniczonego nakładu."
+   },
+   {
+    "q": "Gdzie kupić LEGO 75415?",
+    "a": "Porównaj dostępne oferty modelu 75415 oraz koszt dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 75415 jest częścią większej kolekcji lub systemu?",
+    "a": "Hełm Kylo Rena należy do kolekcjonerskiej linii hełmów LEGO Star Wars i ma własną podstawkę do samodzielnej ekspozycji. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Porównaj inne hełmy Star Wars według postaci, filmowego pochodzenia i kolorystyki. Model Kylo Rena daje czarną sylwetkę ze srebrnymi zdobieniami, inną niż jasne hełmy imperialnych żołnierzy. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Czy hełm Kylo Rena można założyć?",
+    "a": "Nie. To pomniejszony model na podstawce do ekspozycji. Nie jest elementem kostiumu ani hełmem o rozmiarze dostosowanym do głowy."
+   }
+  ]
+ },
+ "75429": {
+  "seria": "Star Wars",
+  "nazwa": "Hełm operatora AT-AT",
+  "elementy": 730,
+  "akapity": [
+   "Biały hełm z bitwy o Hoth jest tematem LEGO Star Wars 75429 Hełm operatora AT-AT. Zestaw z 2025 roku ma 730 elementów i oznaczenie 18+. Odtwarza wyposażenie kierowców imperialnych maszyn kroczących znane z Imperium kontratakuje, a gotowy model stoi na podstawce z tabliczką. Jasna kolorystyka oraz charakterystyczne elementy twarzy odróżniają go od czarnych hełmów antagonistów. To pomniejszony obiekt do ekspozycji, dlatego należy oceniać jego wygląd na półce, a nie możliwość wykorzystania jako części przebrania.",
+   "Samodzielna podstawka pozwala oglądać hełm bez budowania dodatkowej sceny. Tabliczka identyfikuje motyw i nadaje modelowi formę kolekcjonerskiej prezentacji. Najbardziej naturalną relacją są inne hełmy LEGO Star Wars: można zestawić kilka obok siebie, porównując ich kształty i filmowe role. Operator AT-AT będzie szczególnie interesujący dla fana imperialnych pojazdów oraz scen na Hoth. Uzupełnia tę tematykę w innym formacie niż model maszyny kroczącej, skupiając uwagę na wyposażeniu jej załogi.",
+   "Przy wyborze między kilkoma hełmami liczy się przede wszystkim to, którą postać lub formację chcemy mieć w kolekcji. Większa liczba elementów nie oznacza tutaj dodatkowego pojazdu czy funkcji bojowych; służy zbudowaniu samego hełmu i jego podstawy. LEGO udostępnia drukowane instrukcje oraz cyfrowy podgląd w aplikacji Builder. Model może otworzyć kolekcję albo uzupełnić już istniejącą, ponieważ do jego ekspozycji nie są potrzebne inne produkty z linii.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 12. co do wielkości. Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "75429",
+   "Nazwa": "Hełm operatora AT-AT",
+   "Seria": "Star Wars",
+   "Premiera": "2025",
+   "Liczba elementów": "730",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "Hełm do ekspozycji",
+   "Kolekcja i system": "Hełm operatora AT-AT jest samodzielnym modelem z kolekcjonerskiej linii hełmów LEGO Star Wars.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75429?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 75429 w cenie katalogowej?",
+    "a": "Przy RRP 339,99 zł warto sprawdzić dostępne oferty. Za wyborem przemawia motyw załogi AT-AT i Hoth; nie należy utożsamiać wyprzedania u jednego sprzedawcy z zakończeniem produkcji."
+   },
+   {
+    "q": "Gdzie kupić LEGO 75429?",
+    "a": "Porównaj oferty sprzedawców dla numeru 75429 i sprawdź faktyczną dostępność przed zakupem. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 75429 jest częścią większej kolekcji lub systemu?",
+    "a": "Hełm operatora AT-AT jest samodzielnym modelem z kolekcjonerskiej linii hełmów LEGO Star Wars. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Star Wars w podobnej cenie?",
+    "a": "Szukaj innych imperialnych hełmów Star Wars, jeśli chcesz spójną kolekcję. Zwróć uwagę na motyw Hoth, biały kolor i wyposażenie twarzy, zamiast kierować się wyłącznie liczbą elementów. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>."
+   },
+   {
+    "q": "Czy podstawka i tabliczka są w komplecie?",
+    "a": "Tak. Hełm ma własną podstawkę z tabliczką identyfikującą model. Można ustawić go samodzielnie, bez innych zestawów Star Wars."
+   }
+  ]
+ },
+ "76329": {
+  "seria": "Marvel",
+  "nazwa": "Maska Milesa Moralesa",
+  "elementy": 487,
+  "akapity": [
+   "Czarna maska z czerwonym wzorem jest głównym motywem LEGO Marvel 76329 Maska Milesa Moralesa. Zestaw z 2025 roku zawiera 487 elementów i ma oznaczenie 18+. Gotowy model o wysokości ponad 19 cm stoi na solidnej podstawce z tabliczką z nazwą. To dekoracja dla dorosłego fana bohatera, zaprojektowana do oglądania na półce, a nie maska do założenia.",
+   "Kolorystyka Milesa pozwala zestawić konstrukcję z innymi ekspozycyjnymi modelami Marvela bez powtarzania klasycznego czerwono-niebieskiego stroju Spider-Mana. Model jest samodzielny i nie potrzebuje sceny ulicznej ani dodatkowych postaci. Przy wyborze najważniejsze będzie zainteresowanie tą wersją bohatera oraz miejscem na podstawę. Cyfrowa instrukcja w LEGO Builder umożliwia obracanie konstrukcji podczas składania."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76329",
+   "Nazwa": "Maska Milesa Moralesa",
+   "Seria": "Marvel",
+   "Premiera": "2025",
+   "Liczba elementów": "487",
+   "Wiek": "18+",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,62 zł",
+   "Typ zestawu": "Maska do ekspozycji",
+   "Kolekcja i system": "Maska jest samodzielnym modelem ekspozycyjnym LEGO Marvel i może stać obok innych masek lub popiersi superbohaterów.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76329?",
+    "a": "Polska cena katalogowa wynosi 299,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76329 w cenie katalogowej?",
+    "a": "Przy cenie 299,99 zł warto porównać dostępne oferty. Model jest uzasadnionym wyborem dla fana Milesa Moralesa, który chce dekorację na podstawce, a nie zestaw do zabawy figurkami."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76329?",
+    "a": "Sprawdź aktualne oferty sprzedawców dla modelu 76329 i potwierdź dostępność. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76329 jest częścią większej kolekcji lub systemu?",
+    "a": "Maska jest samodzielnym modelem ekspozycyjnym LEGO Marvel i może stać obok innych masek lub popiersi superbohaterów. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>."
+   },
+   {
+    "q": "Jaki zestaw LEGO Marvel warto kupić zamiast tego modelu?",
+    "a": "Porównuj ekspozycyjne maski Marvela według bohatera i kolorystyki. Czarny model Milesa z czerwonym wzorem daje inny akcent niż klasyczny strój Spider-Mana. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>."
+   },
+   {
+    "q": "Jak duża jest Maska Milesa Moralesa?",
+    "a": "Gotowy model ma ponad 19 cm wysokości i stoi na podstawce z tabliczką. Jest pomniejszoną dekoracją do oglądania, której nie można założyć jak maski kostiumowej."
+   }
+  ]
+ },
+ "76447": {
+  "seria": "Harry Potter",
+  "nazwa": "Zamek Hogwart: lekcja latania na miotle",
+  "elementy": 651,
+  "akapity": [
+   "LEGO Harry Potter 76447 Zamek Hogwart: lekcja latania na miotle łączy zajęcia na dziedzińcu z pomieszczeniami szkolnymi. Wydany w 2025 roku zestaw ma 651 elementów i oznaczenie 9+. Zawiera salę ze sprzętem do quidditcha, salę transmutacji, gabinet profesor McGonagall oraz salę trofeów. Budynek rozkłada się, a dwie sale wysuwają na boki, dzięki czemu łatwiej sięgnąć do wyposażenia podczas zabawy. Funkcja latania na miotle pozwala odtwarzać pierwsze ćwiczenia uczniów, a mechanizm transmutacji wprowadza inny rodzaj magicznych zajęć.",
+   "Sześć minifigurek przedstawia Harry’ego Pottera, Neville’a Longbottoma, Dracona Malfoya, profesor McGonagall, panią Hooch i Olivera Wooda. Dobór uczniów oraz nauczycieli pasuje do scen z Kamienia Filozoficznego i umożliwia przenoszenie zabawy między dziedzińcem a klasami. Sala trofeów zawiera kolekcjonerskie portrety, które stanowią dodatkowe odniesienie do szkolnej scenerii. Najważniejsze pozostają jednak dwa odmienne mechanizmy zajęć oraz dostępne wnętrza. Model po rozłożeniu ma około 26 cm wysokości, 32 cm szerokości i 15 cm głębokości, więc do zabawy potrzebuje miejsca po bokach wieży.",
+   "Zestaw należy do modułowej kolekcji Hogwartu i można łączyć go z innymi elementami tego systemu, sprzedawanymi osobno. Nie trzeba jednak mieć całego zamku: pomieszczenia i sześć postaci tworzą samodzielną scenę szkolną. Będzie dobrym kierunkiem dla dziecka, które chce odgrywać lekcje oraz stopniowo rozbudowywać Hogwart. Przy porównaniu z innym modułem warto wybrać te pomieszczenia i funkcje, których najbardziej brakuje w istniejącej kolekcji.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,52 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76447",
+   "Nazwa": "Zamek Hogwart: lekcja latania na miotle",
+   "Seria": "Harry Potter",
+   "Premiera": "2025",
+   "Liczba elementów": "651",
+   "Wiek": "9+",
+   "Minifigurki i postacie": "6 minifigurek: Harry, Neville, Draco, McGonagall, Hooch i Oliver Wood",
+   "Polska cena katalogowa RRP": "339,99 zł",
+   "Cena katalogowa za element": "0,52 zł",
+   "Typ zestawu": "Moduł Hogwartu z funkcjami zabawy",
+   "Kolekcja i system": "Wieża należy do modułowej kolekcji Hogwartu i łączy się z innymi modułami tego systemu, sprzedawanymi osobno.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76447?",
+    "a": "Polska cena katalogowa wynosi 339,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76447 w cenie katalogowej?",
+    "a": "Cena 339,99 zł wymaga porównania ofert. Zestaw jest szczególnie uzasadniony, jeśli w kolekcji brakuje lekcji latania, transmutacji lub tych sześciu postaci."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76447?",
+    "a": "Sprawdź oferty zestawu 76447. Jeśli rozbudowujesz Hogwart, dobierz moduł do właściwego systemu, a nie wyłącznie na podstawie podobnego wyglądu wieży. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76447 jest częścią większej kolekcji lub systemu?",
+    "a": "Wieża należy do modułowej kolekcji Hogwartu i łączy się z innymi modułami tego systemu, sprzedawanymi osobno. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Porównaj inne moduły Hogwartu według pomieszczeń i funkcji lekcji. Ten zestaw dodaje latanie, transmutację i sale szkolne; inny moduł może lepiej uzupełnić brakującą część zamku. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>."
+   },
+   {
+    "q": "Czy można bawić się wieżą bez pozostałych części Hogwartu?",
+    "a": "Tak. Rozkładany budynek, wysuwane sale i sześć minifigurek tworzą samodzielną scenę. Pozostałe moduły służą rozszerzeniu zamku i nie są konieczne do wykorzystania jej funkcji."
+   }
+  ]
+ },
+ "76458": {
+  "seria": "Harry Potter",
+  "nazwa": "Rodzina testrali",
+  "elementy": 548,
+  "akapity": [
+   "Dorosły testral i jego młode tworzą LEGO Harry Potter 76458 Rodzina testrali. Zestaw z 2025 roku zawiera 548 elementów i ma oznaczenie 10+. Oba magiczne stworzenia są budowane z klocków i mają ruchome głowy, nogi oraz skrzydła. Duży testral wykorzystuje dodatkowo skrzydła z materiału, które można rozłożyć do pozy w locie. Zestaw koncentruje się na figurkach zwierząt, dzięki czemu sposób ustawienia ich kończyn ma większe znaczenie niż urządzenie wnętrza czy dołączenie rozbudowanego budynku.",
+   "Niewielkie drzewo przywołuje Zakazany Las i daje punkt odniesienia dla rodzinnej sceny. Różnica rozmiarów zwierząt pozwala odgrywać opiekę nad młodym, a ruchome części zmieniać ich zachowanie: ustawić spokojnie obok siebie albo przygotować dorosłego do lotu. Materiałowe skrzydła są wyraźnym wyróżnikiem większej figurki i odróżniają ją od testrala przedstawionego w uproszczonej formie BrickHeadz. Tutaj liczy się sylwetka stworzenia oraz możliwość jej pozowania. Dwie figurki powstają równocześnie i nie są wariantami zamiennymi z tych samych klocków.",
+   "Rodzina testrali działa jako samodzielny zestaw z magicznymi zwierzętami, a tematycznie może uzupełniać inne sceny LEGO Harry Potter. Jest skierowana do fana stworzeń z tego świata, który chce zarówno bawić się nimi, jak i ustawiać je na półce. Drzewo zapewnia niewielkie otoczenie bez przejmowania uwagi od modeli. Przy wyborze warto ocenić przede wszystkim ruchomość i materiałowe skrzydła, zamiast oczekiwać szkolnych pomieszczeń czy kolekcji bohaterów. Cyfrowe instrukcje pozwalają obracać figurki w LEGO Builder podczas budowania.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,55 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Dane": "Wartość",
+   "Numer": "76458",
+   "Nazwa": "Rodzina testrali",
+   "Seria": "Harry Potter",
+   "Premiera": "2025",
+   "Liczba elementów": "548",
+   "Wiek": "10+",
+   "Minifigurki i postacie": "2 budowane figurki testrali",
+   "Polska cena katalogowa RRP": "299,99 zł",
+   "Cena katalogowa za element": "0,55 zł",
+   "Typ zestawu": "Ruchome modele magicznych stworzeń",
+   "Kolekcja i system": "Testrale są samodzielnymi modelami magicznych stworzeń Harry Potter i mogą uzupełniać sceny związane z Zakazanym Lasem.",
+   "Dystrybucja": "Sprzedaż detaliczna; dostępność według ofert"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76458?",
+    "a": "Polska cena katalogowa wynosi 299,99 zł. Dostępne oferty znajdziesz tutaj: <a href=\"#ceny\">zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy warto kupić LEGO 76458 w cenie katalogowej?",
+    "a": "Przy RRP 299,99 zł warto porównać dostępne ceny. Najmocniejszym argumentem są dwie ruchome figurki i materiałowe skrzydła dorosłego testrala, jeśli dziecko interesuje się tymi stworzeniami."
+   },
+   {
+    "q": "Gdzie kupić LEGO 76458?",
+    "a": "Porównaj oferty modelu 76458 oraz koszt dostawy, sprawdzając numer zestawu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>."
+   },
+   {
+    "q": "Czy LEGO 76458 jest częścią większej kolekcji lub systemu?",
+    "a": "Testrale są samodzielnymi modelami magicznych stworzeń Harry Potter i mogą uzupełniać sceny związane z Zakazanym Lasem. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Harry Potter w podobnej cenie?",
+    "a": "W Harry Potter szukaj budowanych stworzeń, jeśli ważne jest pozowanie figurek. Testrale oferują parę dorosłego i młodego, podczas gdy moduły zamku rozwijają zabawę w szkolnych pomieszczeniach. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>."
+   },
+   {
+    "q": "Czy skrzydła dużego testrala są ruchome?",
+    "a": "Tak. Dorosły testral ma materiałowe skrzydła, które można rozłożyć do pozy w locie. Oba stworzenia mają też ruchome głowy, skrzydła i nogi."
    }
   ]
  }
