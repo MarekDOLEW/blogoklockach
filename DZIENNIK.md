@@ -262,6 +262,7 @@ Poza listą dla ludzi: Scout nie zostawił commita 27.10 (jedyna luka runnera w 
 **Mamy?** — tak: wpis w `redirects.lidl`, worker przy wejściu odeśle czytelnika na nieistniejącą kartę
 **Zrobić:** — zdecydować o usunięciu wpisu `10427` z gałęzi `lidl` w `src/data/redirects.json` (mapy poza Empikiem/x-komem są append-only, kasowanie wymaga decyzji)
 **Kto:** — Marek (decyzja)
+→ zamknięte 02.11.2026: Marek zdecydował („lidla usuń") — wpis 10427 usunięty z `redirects.lidl`, worker spada na wyszukiwarkę Lidla.
 
 ## 2.11.2026 — Kanał GitHub dla tekstów Piotra + odpowiedzi na jego maile (Claude Code)
 
