@@ -44,30 +44,30 @@ dwunastu Routines i niczego o dostępach nie dowodzi.
 
 ## Zrzut — runnery LEGO
 
-**Odczyt z konta: 26.10 07:47 (CET, UTC+1).** Objął **22 Routines** — pełna lista, bez paginacji.
+**Odczyt z konta: 02.11 07:46 (CET, UTC+1).** Objął **23 Routines** — pełna lista, bez paginacji.
 
 Tej sekcji nie pisze się ręcznie. Generuje ją `scripts/harmonogram-z-konta.mjs`
 z odpowiedzi `list_triggers`, a uruchamia sesja Code Routine „Harmonogram z konta" (pon 07:45 PL); Kontroler ją czyta.
 
 | Zadanie | Cron (UTC albo CRON_TZ) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Sprawdzić indeks 76969 i 10311 (zgłoszone 23.10) | `jednorazowo 27.10 08:00` | — | ✅ | — | — utworzony 2026-10-23, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Eye96uG91UaseAxhbFDz7Y` |
-| LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków) | `45 2 * * *` | 03:45 | ✅ | 26.10 03:45 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
-| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 0 5 * * *` | 05:00 | ✅ | 26.10 05:11 | ✅ SUCCEEDED | `trig_01GfdrWd8KXgZnwExzqVB1hY` |
-| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `CRON_TZ=Europe/Warsaw 0 8 * * *` | 08:00 | ✅ | 25.10 08:01 | ✅ SUCCEEDED | `trig_012neuySD2HrJgptvXLe2fN9` |
-| LEGO pon 06:10 — Wycofania (runner z pushem) | `CRON_TZ=Europe/Warsaw 10 6 * * 1` | pon 06:10 | ✅ | 26.10 06:11 | ✅ SUCCEEDED | `trig_018T3NrpmpZTRLX7s942gD6q` |
-| LEGO pon 08:15 — Przypomnienie: zrzut Empiku i x-komu | `CRON_TZ=Europe/Warsaw 15 8 * * 1` | pon 08:15 | ✅ | 19.10 08:20 | ✅ SUCCEEDED | `trig_01XaicucSMa3S5xGKhAFBkEk` |
-| Kolejka GSC — zgłoszenia | `CRON_TZ=Europe/Warsaw 24 10 * * *` | 10:24 | ✅ | 25.10 12:40 | ✅ SUCCEEDED | `trig_01NNqijkQrcpLpD89bVW8ST6` |
-| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 5 * * 2` | wt 05:30 | ✅ | 20.10 05:31 | ✅ SUCCEEDED | `trig_01XjJhujd8FnXsGWAHQeUBqd` |
-| LEGO 08:30 — Łowca promocji (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 8 * * *` | 08:30 | ✅ | 25.10 08:35 | ✅ SUCCEEDED | `trig_019xWfJ67XhPdnX6GknSYrb3` |
-| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `CRON_TZ=Europe/Warsaw 30 9 * * *` | 09:30 | ✅ | 25.10 09:37 | ✅ SUCCEEDED | `trig_018D4PGvCaYkcDKDfNM3fjLZ` |
-| LEGO pon 09:30 — Kontroler (raport tygodnia, runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 30 9 * * 1` | pon 09:30 | ✅ | 19.10 09:08 | ✅ SUCCEEDED | `trig_01KB8XkPcHyvc5kCRKEKYjri` |
+| LEGO 04:45 — Zdjęcia → R2 (Planeta Klocków) | `45 2 * * *` | 03:45 | ✅ | 02.11 03:46 | ✅ SUCCEEDED | `trig_01EAhU5SKn2GuXxY14WYxNkJ` |
+| LEGO 05:00 — Scout nowości (runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 0 5 * * *` | 05:00 | ✅ | 02.11 05:05 | ✅ SUCCEEDED | `trig_01FgB7rYKqsm7xT4FQkKAdWX` |
+| LEGO 08:00 — Radar konkurencji (runner, Opus 5) | `CRON_TZ=Europe/Warsaw 0 8 * * *` | 08:00 | ✅ | 01.11 08:01 | ✅ SUCCEEDED | `trig_012neuySD2HrJgptvXLe2fN9` |
+| LEGO pon 06:10 — Wycofania (runner z pushem) | `CRON_TZ=Europe/Warsaw 10 6 * * 1` | pon 06:10 | ✅ | 02.11 06:10 | ✅ SUCCEEDED | `trig_018T3NrpmpZTRLX7s942gD6q` |
+| LEGO pon 08:15 — Przypomnienie: zrzut Empiku i x-komu | `CRON_TZ=Europe/Warsaw 15 8 * * 1` | pon 08:15 | ✅ | 26.10 08:19 | ✅ SUCCEEDED | `trig_01XaicucSMa3S5xGKhAFBkEk` |
+| LEGO 09:17 — Weryfikacja ofert do slajderów (sesja Code, po Łowcy) | `CRON_TZ=Europe/Warsaw 17 9 * * *` | 09:17 | ✅ | 01.11 09:17 | ✅ SUCCEEDED | `trig_01ApTmYLjumFycmtRJgUzXfa` |
+| Kolejka GSC — zgłoszenia | `CRON_TZ=Europe/Warsaw 24 10 * * *` | 10:24 | ✅ | 01.11 10:25 | ✅ SUCCEEDED | `trig_01NNqijkQrcpLpD89bVW8ST6` |
+| Dane wt 05:30 — katalog LEGO.pl + ceny Ceneo i Smyk (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 5 * * 2` | wt 05:30 | ✅ | — | — utworzony 2026-10-29, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_011BMbbJSYKiauzGNXUk576y` |
+| LEGO 08:30 — Łowca promocji (runner z pushem) | `CRON_TZ=Europe/Warsaw 30 8 * * *` | 08:30 | ✅ | 01.11 08:35 | ✅ SUCCEEDED | `trig_019xWfJ67XhPdnX6GknSYrb3` |
+| LEGO 09:30 — Alerty cen (Obserwuj zestaw) | `CRON_TZ=Europe/Warsaw 30 9 * * *` | 09:30 | ✅ | 01.11 09:36 | ✅ SUCCEEDED | `trig_018D4PGvCaYkcDKDfNM3fjLZ` |
+| LEGO pon 09:30 — Kontroler (raport tygodnia, runner z pushem, Opus 5) | `CRON_TZ=Europe/Warsaw 30 9 * * 1` | pon 09:30 | ✅ | 26.10 09:34 | ✅ SUCCEEDED | `trig_01KB8XkPcHyvc5kCRKEKYjri` |
 | Kontrola linków w przeglądarce | `CRON_TZ=Europe/Warsaw 45 11 20 * *` | 11:45 | ✅ | 20.10 14:45 | ✅ SUCCEEDED | `trig_01NRYdRPRMVTYZTGDf5C8iH6` |
-| LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `CRON_TZ=Europe/Warsaw 45 7 * * 1` | pon 07:45 | ✅ | 26.10 07:45 | ✅ SUCCEEDED | `trig_01LU2xZxWqyCmNYv7rPyik3x` |
-| LEGO 09:45 — Zdjęcia → R2, drugi przebieg (po Łowcy) | `CRON_TZ=Europe/Warsaw 45 9 * * *` | 09:45 | ✅ | 25.10 09:45 | ✅ SUCCEEDED | `trig_01XAJy9vca6HUK6YY3XarLWM` |
+| LEGO pon 07:45 — Harmonogram z konta (sesja Code, list_triggers) | `CRON_TZ=Europe/Warsaw 45 7 * * 1` | pon 07:45 | ✅ | 02.11 07:45 | ✅ SUCCEEDED | `trig_01LU2xZxWqyCmNYv7rPyik3x` |
+| LEGO 09:45 — Zdjęcia → R2, drugi przebieg (po Łowcy) | `CRON_TZ=Europe/Warsaw 45 9 * * *` | 09:45 | ✅ | 01.11 09:45 | ✅ SUCCEEDED | `trig_01XAJy9vca6HUK6YY3XarLWM` |
 | LEGO 20. dnia miesiąca — lista linków do przeglądarki (Kontroler, push) | `CRON_TZ=Europe/Warsaw 49 7 20 * *` | 07:49 | ✅ | 20.10 07:50 | ✅ SUCCEEDED | `trig_01EePabyXvKUkSkb4bjMoayw` |
-| Skrzynka tekstów Piotra | `CRON_TZ=Europe/Warsaw 52 8,14 * * *` | 08:52 / 14:52 | ✅ | 25.10 14:52 | ✅ SUCCEEDED | `trig_01767aXjmBQ1K6B9WijvH3zy` |
-| Kolejka indeksacji 01:57 — lista do „Poproś o zindeksowanie” (runner z pushem) | `CRON_TZ=Europe/Warsaw 57 1 * * *` | 01:57 | ✅ | 26.10 01:58 | ✅ SUCCEEDED | `trig_01Gh6Payj9QVGDkrKXNzkbCX` |
+| Skrzynka tekstów Piotra | `CRON_TZ=Europe/Warsaw 52 8,14 * * *` | 08:52 / 14:52 | ✅ | 01.11 14:53 | ✅ SUCCEEDED | `trig_01767aXjmBQ1K6B9WijvH3zy` |
+| Kolejka indeksacji 01:57 — lista do „Poproś o zindeksowanie” (runner z pushem) | `CRON_TZ=Europe/Warsaw 57 1 * * *` | 01:57 | ✅ | 02.11 01:57 | ✅ SUCCEEDED | `trig_01Gh6Payj9QVGDkrKXNzkbCX` |
 
 ### Pozostałe Routines na tym samym koncie
 
@@ -76,11 +76,12 @@ wywrócił harmonogram 21.08. Trzymane tu, żeby obraz obciążenia konta był p
 
 | Zadanie | Cron (UTC albo CRON_TZ) | Start PL | Stan | Ostatnie odpalenie (PL) | Status przebiegu | Trigger |
 |---|---|---|---|---|---|---|
-| Archiwizacja karuzeli z 20.10 (tylkoklocki) | `jednorazowo 03.11 09:00` | — | ✅ | — | — utworzony 2026-10-20, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01PC9Tv6sxXFite1ztoiGLmv` |
-| Archiwizacja karuzeli z 15.10 (tylkoklocki) | `jednorazowo 29.10 09:00` | — | ✅ | — | — utworzony 2026-10-18, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01Ne79zcUayDLBU7VJsBPZr9` |
-| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 06:00 | ✅ | 26.10 06:05 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
-| inwestycja IV kwartal | `0 8 * * 1` | pon 09:00 | ✅ | 19.10 10:12 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
-| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 10:00 | ✅ | 21.10 11:10 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
+| Zdjąć post i rolkę z Grogu (kod wygasł 01.11) | `jednorazowo 02.11 08:00` | — | ✅ | — | — utworzony 2026-11-01, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01PrJVqd6Uqv4yJvjo7CyggW` |
+| Archiwizacja postów social z 26.10 | `jednorazowo 09.11 09:00` | — | ✅ | — | — utworzony 2026-10-26, bez przebiegu od tego czasu (sprawdź commity runnera) | `trig_01AhWghzQtvjpBzgEK9YG8p7` |
+| Archiwizacja karuzeli z 20.10 (tylkoklocki) | `jednorazowo 03.11 09:00` | — | ✅ | — | — nigdy nie odpalony | `trig_01PC9Tv6sxXFite1ztoiGLmv` |
+| Angielski — tygodniowy plan nauki (pon 7:00) | `0 5 * * 1` | pon 06:00 | ✅ | 02.11 06:05 | ✅ SUCCEEDED | `trig_018atJTaRWiyA8b7ewyV2zWz` |
+| inwestycja IV kwartal | `0 8 * * 1` | pon 09:00 | ✅ | 26.10 09:02 | ✅ SUCCEEDED | `trig_0151L3p8bvgtK4z2otWCUCSt` |
+| Herzfaden — środowy raport tygodniowy (śr 11:00) | `0 9 * * 3` | śr 10:00 | ✅ | 28.10 10:05 | ✅ SUCCEEDED | `trig_01NNWsc3SwnJ5Ticc86oT8AZ` |
 
 ### Kolizje — zadania na tej samej minucie
 
