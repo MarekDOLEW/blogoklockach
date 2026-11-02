@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-02 05:12 · SCOUT · Do zrobienia
+
+**Dziewięć zestawów z `sety.json` ma hub i wchodzi do `/nowosci/`, ale nie pokazuje się na żadnej stronie serii: 77094, 50090, 910069–910073, 42254 i 11227. Mają `premiera` w formacie samego rocznika i nie ma ich w `katalog.json`, a `src/pages/serie/[seria].astro` wpuszcza zestaw spoza katalogu tylko z premierą `RRRR-MM` (reguła zapisana 29.10).**
+**Mamy?** — częściowo: huby stoją i są indeksowalne, brakuje ich tylko w listingach serii (`/serie/technic/`, `/serie/koci-domek-gabi/`, `/serie/bricklink-designer-program/`, `/serie/the-legend-of-zelda/`, `/serie/ekskluzywne-i-promocyjne/`).
+**Zrobić:** — zdecydować w `src/pages/serie/[seria].astro`, czy zestaw spoza `katalog.json` z premierą w formacie samego rocznika ma wchodzić na stronę serii (np. na koniec listy, bez sortowania po miesiącu). Sam tego nie załatam przez uzupełnienie miesiąca: sprawdziłem dziś karty `brickset.com/sets/42254-1` i `brickset.com/sets/910069-1` i **żadna nie ma pola Launch/exit** — Brickset podaje je dopiero dla zestawów już wydanych (ma je np. karta 40910-1). Dopóki LEGO nie wystawi kart produktowych, miesiąca nie ma skąd wziąć.
+**Kto:** — Code (strona)
+
+
 ## 2026-11-01 14:55 · CODE · Skrzynka (mail): 0035 opublikowany, 0034 za duży dla automatu
 
 **0035 „Listopadowe premiery LEGO” na stronie: https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ (`3668728`, adres poprawiony w `20a551d` przed wysłaniem linków — slugify robiło z „Família” „fam-lia”; teraz zdejmuje wszystkie znaki diakrytyczne).** 0034 „Historia płyt drogowych LEGO” (md + 13 zdjęć) — mail ma 10,6 MB, konektor Gmail go nie przenosi (zrywa połączenie), IMAP z kontenera zablokowany; mail ma etykietę „do-poprawy”, Piotr i Marek dostali prośbę o wgranie przez panel (Wgraj, do 25 MB na plik) albo ponowną wysyłkę z mniejszymi zdjęciami.
@@ -181,6 +189,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: hub `/zestaw/40898/`, tekst `/artykuly/lego-11388-wenecka-okolica-premiera/` i okno 40889 w `/kalendarz-promocji-lego/` są, ale nigdzie nie stoi, że przy zakupie 11388 w tym tygodniu można mieć oba gratisy.
 **Zrobić:** — wrzucić 11388 do koszyka na lego.com/pl-pl i sprawdzić, czy doliczają się jednocześnie 40898 i 40889 (2149,99 zł jest ponad progiem 540 zł); jeśli tak, wraca do mnie i do tekstu jako konkret na okno do 8 listopada, jeśli nie — trzeba wiedzieć, który gratis wypada.
 **Kto:** — Cowork (przeglądarka)
+↻ 02.11.2026: nadal aktualne — tekst Piotra `/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/`
+(0035, opublikowany 01.11) opisuje już oba okna i kończy je zdaniem, że „LEGO.pl przedstawia obie akcje
+osobno i nie informuje wprost o ich łączeniu w jednym zamówieniu". Czyli tekst nie wprowadza nikogo w błąd,
+ale pytanie zostaje otwarte i do 8 listopada da się je rozstrzygnąć tylko koszykiem.
 
 
 
