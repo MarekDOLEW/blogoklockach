@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-02"
+  "zaktualizowano": "2026-11-03"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -300,6 +300,23 @@
    "https://tylkoklocki.pl/deale/deal-60471-arktyczna-ciezarowka-minimum/",
    "https://tylkoklocki.pl/deale/deal-75404-acclamator-nowe-minimum/",
    "https://tylkoklocki.pl/deale/deal-media-expert-przecena-lego-pazdziernik/"
+  ],
+  "2026-11-03": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/deale/deal-60470-ekspres-polarny-ponizej-600/",
+   "https://tylkoklocki.pl/deale/deal-60471-arktyczna-ciezarowka-minimum/",
+   "https://tylkoklocki.pl/deale/deal-75404-acclamator-nowe-minimum/",
+   "https://tylkoklocki.pl/deale/deal-media-expert-przecena-lego-pazdziernik/",
+   "https://tylkoklocki.pl/artykuly/lego-75421-mysliwiec-tie-dartha-vadera-recenzja/",
+   "https://tylkoklocki.pl/artykuly/ulice-miasta-lego-jak-plyty-drogowe-zmienialy-sie-od-1978-roku-do-dzis/",
+   "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-3/",
+   "https://tylkoklocki.pl/deale/deal-42689-domek-klubu-heartlake-minimum/",
+   "https://tylkoklocki.pl/deale/deal-wrzesniowa-fala-promocji-2026/",
+   "https://tylkoklocki.pl/deale/deal-x-kom-wyzsza-szkola-rabatu/",
+   "https://tylkoklocki.pl/zestaw/10476/",
+   "https://tylkoklocki.pl/zestaw/11208/",
+   "https://tylkoklocki.pl/zestaw/31161/",
+   "https://tylkoklocki.pl/zestaw/42675/"
   ]
  }
 }
