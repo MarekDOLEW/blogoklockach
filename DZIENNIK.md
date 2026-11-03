@@ -154,6 +154,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-03 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 02.11** — Ogłosili Black Weeks w Media Expercie; ceny mamy (feed z 02.11 to 698 ofert ME, 323 z rabatem ≥30%), ale nie mieliśmy aktualnego kodu — w `kody_rabatowe.json` stały dwa wpisy wygasłe 31.10 i 15.10.
+**Mamy?** — częściowo: kod odświeżony w tym przebiegu (`R0211-301126` do 30.11 na 41 zestawów, `BW3010-0511` do 05.11 na jeden), ale **dla 37 z 42 zestawów nasza cena z feedu jest wyższa od ceny z kodem** (10313: 176,22 wobec 149; 11378: 863,92 wobec 748), a `kodRabatowy()` pokazuje kod tylko przy cenie zgodnej co do złotówki — więc w szczycie Black Weeks zaniżamy rabat Media Expertu i nie mówimy o kodzie.
+**Zrobić:** — zdecydować, czy przy aktywnym kodzie tabela ma pokazywać cenę z kodem obok ceny z feedu, czy czekamy, aż feed ME dogoni kod. To zmiana w tym, co widzi czytelnik (`src/lib/oferty.js`, `TabelaCen.astro`), więc jej nie robię sam.
+**Kto:** — Marek (decyzja)
+→ część wykonana 03.11.2026: `kody_rabatowe.json` odświeżony skryptem `me-kody.mjs`; x-kom nietknięty, liczba wpisów bez zmian (2 ME + 3 x-kom).
+Warte zapamiętania: zdanie z `_meta` tego pliku — „feed ME podaje cenę PO kodzie" — **dziś nie jest prawdziwe**.
+Na 42 zestawy z kodem tylko 3 mają w feedzie cenę zgodną z kodem. Jeśli to się utrzyma, opis w `_meta`
+trzeba poprawić razem z decyzją o regule wyświetlania.
+
+
 ## 2.11.2026 (6) — Pełna lista braków opisów dla Piotra: listy/ w repo tekstów (Claude Code)
 
 - Piotr potwierdził 75/75 po paczkach 03/04/29 i poprosił o pełną listę braków

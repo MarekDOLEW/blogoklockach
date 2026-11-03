@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-02",
-    "przebieg": "scheduled 2026-11-02 08:00",
+    "ostatnia_aktualizacja": "2026-11-03",
+    "przebieg": "scheduled 2026-11-03 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 350,
+    "liczba_wpisow": 361,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -45,7 +45,8 @@
       "2026-10-29": "Osiem nowych publikacji, jedna pozycja - i jest to ta sama dziura co wczoraj, tylko zmierzona. faniklockow wystawili trzy 'Okazje Cenowe'; sprawdzenie kazdej w naszych danych dalo trzy rozne wyniki i warto je zestawic: 60506 Tramwaj - ich cena 179 zl to CO DO ZLOTOWKI nasze minimum z ceny_baza (02.10, Media Expert), zestaw sledzony, nic do roboty; 77259 Bolid Audi - ich 65 zl u Ceneo jest WYZSZE od naszego minimum 59,99 zl z 07.09, tez nic; 72046 Game Boy - 157,69 zl u Ceneo przy katalogu 249,99 (-37%), szesc ofert, i zestawu NIE MA w sety.json ani w ceny_baza. Drugi taki przypadek w dwa dni (wczoraj 21333) przestaje byc przypadkiem, wiec policzylem cala populacje zamiast zglaszac kolejny numer pojedynczo: 64 ZESTAWY maja potwierdzone RRP, co najmniej dwie oferty i rabat >=25% po sicie podejrzanego rynku, a nie sa w sety.json. Czolo listy: 77057 -48%, 77076 -47%, 76785 -47%, 31380 i 10713 -46%. Z 64 hubow 17 jest noindex (cienkie), 47 indeksowalne - wiec szkoda nie jest wszedzie ta sama, ale wspolna czesc jest u kazdego: brak wpisu w ceny_baza to brak sledzonego minimum, brak alertu cenowego i brak wejscia do bloku 'Dzis w dobrej cenie', ktory iteruje po sety.json. To zmierzona wersja notatki z 11.10 (tam 19 zestawow, ale tylko z RRP >= 1000 zl). Wazne dla oceny skali: 'brak w sety.json' NIE znaczy, ze cena jest niewidoczna - huby te maja tabele z oferty_feed. Chodzi o sledzenie, alerty i wyroznione miejsca. Wniosek z wczorajszego dnia dopisany tutaj, bo dotyczy tej samej mechaniki: cena 599 zl na 21333, o ktora Marek pytal przy tekscie dealowym, ZNIKNELA - karta Smyku sprawdzona 28.10 mowi 'Produkt niedostepny' i nie ma na niej zadnej kwoty. W naszych danych 599 zl stoi dalej z data 27.10, bo ceny Smyka odswiezamy we wtorki, a reguła Marka z 26.10 mowi wprost, ze tabele na stronach zestawow pokazuja wszystkie oferty z data odczytu (bramka swiezosci dotyczy tylko slajderow). Tekstu dealowego nie napisalem i pytanie o szkic czeka na odpowiedz. Struktura: promoklocki bez zmian - te same 15 kategorii, zadnej nowej sekcji ani funkcji, paginacja 224 -> 225 (nowe produkty 67005, 42718, 42719). zklockow dzisiaj NIE sprawdzany: wczoraj potwierdzone, ze /blog jest martwy od 2021, a /aktualnosci to log produktow, nie publikacje - to zastosowanie wczorajszej reguly o niewydawaniu kredytu na pytanie juz rozstrzygniete.",
       "2026-10-31": "Cztery nowe publikacje, jedna pozycja - i znowu ich post dealowy wskazal dziure w rejestrze, ale INNEGO rodzaju niz w czwartek. faniklockow opisali 76329 Maske Milesa Moralesa: tegoroczny EOL, ktory na rynku jest DROZSZY od katalogu, plus rada, zeby kupic dwie sztuki i zalapac sie na gratis 40889. Arytmetyka sie zgadza (2 x 299,99 = 599,98 przy progu 540 zl, okno 28.10-8.11 potwierdzone 29.10), ale podstawa nie: karta lego.com/pl-pl sprawdzona dzis mowi 'Chwilowo niedostepne', czyli po cenie katalogowej nie ma czego kupic. Ich 'ponownie pojawil sie' z 30.10 albo trwalo kilka godzin, albo bylo nieprecyzyjne; nasza wlasna etykieta w katalog.json mowila 'niedostepne' juz 27.10. Trzeci raz w tygodniu powtarza sie ten sam wzorzec: ich okazja odwoluje sie do dostepnosci, ktorej w dniu czytania juz nie ma (po 21333 u Smyku i 77076 za 89 zl). Co z tego jest nasze: 76329 NIE MA w sety.json ani w ceny_baza, mimo potwierdzonego wycofania na grudzien 2026. Policzone szerzej: 68 zestawow z potwierdzonym wycofaniem w wycofania.json jest poza rejestrem, z czego 49 ma termin w 2026 roku (48 'grudzien 2026' plus 21352) i 19 jest juz po produkcji. To jest KLASA LUK, KTOREJ LISTA Z 29.10 NIE MOGLA POKAZAC: tam kryterium byl rabat >=25%, a tutaj 21 z 49 pozycji jest na rynku DROZSZE od ceny katalogowej (76329 +47%, Endurance +26%, Nike Dunk Trickshot +21%), wiec zaden filtr rabatowy ich nie wylapie - a to wlasnie zestawy, przy ktorych argument zakupowy sezonu brzmi 'kupuj, bo w grudniu zniknie', nie 'kupuj, bo tanio'. Lista z nazwami, cenami i terminami: materialy/wycofania-poza-rejestrem-2026-10-31.md. Pozostale trzy publikacje poza zakresem: Pick a Brick to pojedyncze elementy, klocki magnetyczne to obca marka (ciekawe, ze serwis o LEGO wychodzi poza nia), a 'Czy firma LEGO ma problem' to publicystyka. Struktura: promoklocki bez zmian - te same 15 kategorii, nowe karty produktow (40898, 11388, 21065), paginacja 225 -> 224. zklockow nie sprawdzany, zgodnie z regula z 29.10.",
       "2026-11-01": "Trzy nowe publikacje, zadna nie zasluguje na piatke - i pierwszy raz od dawna dlatego, ze na wszystkich trzech polach jestesmy do przodu, a nie dlatego, ze tematy sa nieciekawe. (1) faniklockow uruchomili w aplikacji poradniki prezentowe z podzialem po okazji, budzecie i plci dziecka. To wejscie w nasz dzial /prezentowniki/ szesc tygodni przed swietami, ale my mamy tam 22 strony: piec po okazji, jedna po budzecie (do 100 / do 300 / do 600 zl), dwie po wieku i 14 po seriach. Roznica, ktora warto zapamietac na przyszle porownania: oni dziela prezenty po plci dziecka ('dla chlopcow i dziewczynek'), a nasz Standard 1.5 zabrania tego wprost - kryterium jest sposob zabawy. To nie jest luka do zamkniecia, tylko swiadoma roznica redakcyjna. (2) fanklockow DRUGI DZIEN Z RZEDU pisza o klockach, ktore nie sa LEGO: 30.10 klocki magnetyczne, 31.10 marka wlasna Aldi 'Toylino'. Serwis o LEGO poszerza zakres na kategorie 'klocki' w ogole. Odnotowuje jako kierunek u nich; my tego nie powtorzymy, bo cala nasza architektura danych - numery zestawow, RRP, feedy sklepow, huby - jest zbudowana wokol LEGO i obca marka nie ma sie czym zasilic. (3) Technic 2027 u faniklockow to kolejny hub przeciekowy z ich wlasnym zastrzezeniem o tlumaczeniach - material Scouta, nie zadanie Radaru. Brak maila, bo piatka jest pusta; baza zaktualizowana, bo publikacje sa nowe. Struktura promoklockow nie sprawdzana dzisiaj - wczoraj bez zmian, a budzet przebiegu poszedl na weryfikacje naszego pokrycia prezentownikow.",
-      "2026-11-02": "Cztery nowe publikacje, jedna pozycja - i pierwszy raz od dawna ich tekst wskazal blad NA NASZEJ PRODUKCJI, a nie luke tematyczna. faniklockow ogloszili, ze 11390 Shenron & Goku 'debiutuje' i ze przy zakupie wpada gratis 40889. Prog sie zgadza (599,99 zl wobec 540 zl, okno 28.10-8.11), ale debiut nie: karta lego.com/pl-pl sprawdzona dzis mowi 'Wkrotce dostepne (4 listopada 2026)'. Czwarty raz w tygodniu ich okazja stoi na dostepnosci, ktorej nie ma - po 21333 u Smyku, 77076 za 89 zl i 76329. Wartosc tego wpisu jest jednak u nas: sprawdzajac ich date zobaczylem, ze NASZE WLASNE POLA SA SPRZECZNE. `opis` w sety.json dla 11390 mowil 'Premiera 1 listopada 2026', a teaser artykulu na tym samym hubie 'trafi do sprzedazy 4 listopada'; `opis` idzie do JSON-LD, czyli bledna data szla do danych strukturalnych. Ta sama data siedziala w personie AFOL tego zestawu. Poprawione na 'Sprzedaz od 4 listopada 2026' w obu miejscach; po buildzie na hubie 11390 nie ma ani jednego '1 listopada'. Przy okazji przejrzane pozostale listopadowe premiery: 11388 mial w `opisie` samo '1 listopada' bez slowa o Insiders, choc nasz tekst premierowy od poczatku rozdziela 1.11 (Insiders) i 4.11 (wszyscy) - dopisane. 10371 sprawdzony u zrodla: 'Dostepne teraz', wiec jego zapis o sprzedazy od 1 listopada zostaje bez zmian. 21065, 40898 i 21375 nie maja daty w opisie. WNIOSEK PROCEDURALNY: daty premier trzymamy w trzech miejscach naraz (pole `premiera`, zdanie w `opis`, zdanie w personach) i nic tego nie porownuje. swiezosc-tekstow.mjs lapie tylko plakietki 'przeciek', nie daty w opisach - to kandydat na rozszerzenie tego skryptu. Nowe u zrodla i warte zapisania: karta 11390 wymienia w bloku upominkow takze 40898 Wenecka taksowka wodna z koncem 08.11.2026. To PIERWSZY raz, gdy LEGO samo nazywa ten gratis - 28.10 zapisalem, ze producent go nie potwierdza i ze nazwa pochodzi od StoneWars i zklockow. Watpliwosc domknieta na korzysc tekstu Piotra. fanklockow trzeci dzien z rzedu o klockach spoza LEGO (Mattel Brick Shop), plus wideo o wlasnej makiecie i hub Fortnite 2027 - wszystko poza zakresem. promoklocki nie sprawdzane dzisiaj; budzet poszedl na weryfikacje trzech kart lego.com i poprawke danych."
+      "2026-11-02": "Cztery nowe publikacje, jedna pozycja - i pierwszy raz od dawna ich tekst wskazal blad NA NASZEJ PRODUKCJI, a nie luke tematyczna. faniklockow ogloszili, ze 11390 Shenron & Goku 'debiutuje' i ze przy zakupie wpada gratis 40889. Prog sie zgadza (599,99 zl wobec 540 zl, okno 28.10-8.11), ale debiut nie: karta lego.com/pl-pl sprawdzona dzis mowi 'Wkrotce dostepne (4 listopada 2026)'. Czwarty raz w tygodniu ich okazja stoi na dostepnosci, ktorej nie ma - po 21333 u Smyku, 77076 za 89 zl i 76329. Wartosc tego wpisu jest jednak u nas: sprawdzajac ich date zobaczylem, ze NASZE WLASNE POLA SA SPRZECZNE. `opis` w sety.json dla 11390 mowil 'Premiera 1 listopada 2026', a teaser artykulu na tym samym hubie 'trafi do sprzedazy 4 listopada'; `opis` idzie do JSON-LD, czyli bledna data szla do danych strukturalnych. Ta sama data siedziala w personie AFOL tego zestawu. Poprawione na 'Sprzedaz od 4 listopada 2026' w obu miejscach; po buildzie na hubie 11390 nie ma ani jednego '1 listopada'. Przy okazji przejrzane pozostale listopadowe premiery: 11388 mial w `opisie` samo '1 listopada' bez slowa o Insiders, choc nasz tekst premierowy od poczatku rozdziela 1.11 (Insiders) i 4.11 (wszyscy) - dopisane. 10371 sprawdzony u zrodla: 'Dostepne teraz', wiec jego zapis o sprzedazy od 1 listopada zostaje bez zmian. 21065, 40898 i 21375 nie maja daty w opisie. WNIOSEK PROCEDURALNY: daty premier trzymamy w trzech miejscach naraz (pole `premiera`, zdanie w `opis`, zdanie w personach) i nic tego nie porownuje. swiezosc-tekstow.mjs lapie tylko plakietki 'przeciek', nie daty w opisach - to kandydat na rozszerzenie tego skryptu. Nowe u zrodla i warte zapisania: karta 11390 wymienia w bloku upominkow takze 40898 Wenecka taksowka wodna z koncem 08.11.2026. To PIERWSZY raz, gdy LEGO samo nazywa ten gratis - 28.10 zapisalem, ze producent go nie potwierdza i ze nazwa pochodzi od StoneWars i zklockow. Watpliwosc domknieta na korzysc tekstu Piotra. fanklockow trzeci dzien z rzedu o klockach spoza LEGO (Mattel Brick Shop), plus wideo o wlasnej makiecie i hub Fortnite 2027 - wszystko poza zakresem. promoklocki nie sprawdzane dzisiaj; budzet poszedl na weryfikacje trzech kart lego.com i poprawke danych.",
+      "2026-11-03": "Jedenascie nowych publikacji, najwiecej od tygodni, i jedna pozycja - ale wazna, bo dotyczy szczytu sezonu. faniklockow ogloszili Black Weeks w Media Expercie. CENY mamy: feed Lowcy z 02.11 niesie 698 ofert ME, w tym 323 z rabatem >=30% i 8 z >=40%. Czego NIE mielismy: aktualnego kodu. W kody_rabatowe.json stały dwa wpisy ME wygasle 31.10 i 15.10, a sklep prowadzi 'Cena z kodem' R0211-301126 do 30.11.2026 na 41 zestawow plus BW3010-0511 do 05.11 na jeden. Odswiezone w tym przebiegu przez scripts/me-kody.mjs (3 kredyty), xkom nietkniety. Przy okazji policzone i warte osobnej decyzji: dla 37 z 42 zestawow objetych kodem NASZA CENA Z FEEDU JEST WYZSZA OD CENY Z KODEM - 10313 ma u nas 176,22 wobec 149, 10370 194,15 wobec 149, 11378 863,92 wobec 748. Tylko 3 zestawy maja cene zgodna. Regula w kodRabatowy() pokazuje kod wylacznie przy cenie zgodnej co do zlotowki (tolerancja 1 zl), wiec w szczycie Black Weeks huby zanizaja rabat Media Expertu i nie mowia czytelnikowi o kodzie. To przeczy zdaniu z _meta kody_rabatowe ('feed ME podaje cene PO kodzie') - dzis podaje przed. Co z tym zrobic, to decyzja: albo czekamy, az feed ME dogoni kod, albo zmieniamy regule wyswietlania tak, zeby przy aktywnym kodzie pokazywac cene z kodem obok ceny z feedu. Nie ruszam tego sam, bo to zmiana w tym, co widzi czytelnik w tabeli cen. Dwie ich 'Okazje Cenowe' sprawdzone i obie odpadly: 10365 Czarna Perla - ich 1279,83 u ME jest WYZSZE od naszego minimum 1242,99 z 30.09; 10350 Dom w stylu angielskim - nasze minimum 947,01 z 18.09 bije biezace 949,99. Oba zestawy sa w rejestrze. fanklockow: czwarty dzien z rzedu teksty o klockach spoza LEGO (Lumibricks, COBI), dwa huby 2027, skrot popkulturowy, cykl 'do szafy' za sciana platna i codzienna lista ofert - wszystko poza zakresem albo przez nas przebijane."
     }
   },
   "publikacje": [
@@ -4193,6 +4194,131 @@
         "lego"
       ],
       "notatki": "Ich teza: zestaw 'debiutuje' na rynku, a przy zakupie wpada gratis 40889. Arytmetyka progu sie zgadza (599,99 zl wobec 540 zl, okno do 8.11), ale slowo 'debiutuje' nie: karta lego.com/pl-pl sprawdzona 02.11 mowi 'Wkrotce dostepne (4 listopada 2026)', product:availability: coming soon. To CZWARTY raz w tygodniu, gdy ich okazja opiera sie na dostepnosci, ktorej w dniu czytania nie ma (21333 u Smyku, 77076 za 89 zl, 76329 'ponownie pojawil sie'). Przy okazji ich tekst wskazal blad U NAS i to jest realna wartosc tego wpisu: nasz `opis` w sety.json mowil 'Premiera 1 listopada 2026', a teaser artykulu na tym samym hubie 'trafi do sprzedazy 4 listopada' - dwa nasze wlasne pola sprzeczne, przy czym `opis` idzie do JSON-LD. Poprawione tego samego dnia (takze w personie AFOL 11390 i w opisie 11388, gdzie dopisany wczesny dostep Insiders). Karta 10371 sprawdzona przy okazji: 'Dostepne teraz', wiec zapis o sprzedazy od 1 listopada zostaje. Nowe u zrodla: karta 11390 wymienia w bloku upominkow takze 40898 Wenecka taksowka wodna z koncem 08.11.2026 - pierwszy raz LEGO samo nazywa ten gratis, co domyka watpliwosc z 28.10."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Black Weeks w Media Expert. Sporo mocnych promocji na zestawy",
+      "url": "https://faniklockow.pl/2026/11/02/black-weeks-w-media-expert-sporo-mocnych-promocji-na-zestawy/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Ceny mamy: feed Lowcy z 02.11 ma 698 ofert Media Expertu, w tym 323 z rabatem >=30%. Czego nie mielismy: AKTUALNEGO KODU. W kody_rabatowe.json stoly dwa wpisy ME wygasle 31.10 i 15.10, a sklep prowadzi akcje 'Cena z kodem' R0211-301126 do 30.11.2026 (41 zestawow) plus BW3010-0511 do 05.11 (1 zestaw). Odswiezone w tym przebiegu skryptem me-kody.mjs. Przy okazji policzone i warte zgloszenia: dla 37 z 42 zestawow z kodem nasza cena z feedu jest WYZSZA od ceny z kodem (10313: 176,22 wobec 149, 11378: 863,92 wobec 748), a regula wyswietlania pokazuje kod tylko przy cenie zgodnej co do zlotowki - wiec w szczycie Black Weeks zanizamy rabat Media Expertu i nie mowimy o kodzie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 10365 Czarna Perla",
+      "url": "https://faniklockow.pl/2026/11/02/okazja-cenowa-icons-10365-czarna-perla-9/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Dziewiaty post o cenie tego samego zestawu. Ich 1279,83 zl u Media Expertu jest WYZSZE od naszego minimum 1242,99 zl z 30.09 (Allegro); zestaw jest w sety.json i ceny_baza. Nic do zrobienia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Icons) - 10350 Dom w stylu angielskim",
+      "url": "https://faniklockow.pl/2026/11/02/okazja-cenowa-icons-10350-dom-w-stylu-angielskim-4/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Nasze minimum 947,01 zl z 18.09 (Empik) jest nizsze niz biezaca najtansza oferta 949,99 zl. Media Expert nie ma tego zestawu w feedzie. Nic do zrobienia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO 910066 Lokomotywa Klockowych Kolei - recenzja",
+      "url": "https://faniklockow.pl/2026/11/02/lego-910066-lokomotywa-klockowych-kolei-recenzja/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "recenzja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Recenzja zestawu BrickLink Designer Program - format i segment, ktorego nie prowadzimy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Minecraft",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-minecraft/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejny hub rocznika 2027. Przecieki - material Scouta."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Creator",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-creator/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot: Diuna z ostatnim zwiastunem!",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-2-listopada-2026/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "historia",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Skrot popkulturowy bez zwiazku z zakupem zestawu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery Lumibricks na 11.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-lumibricks-na-11-2026/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Obca marka (Lumibricks) - czwarty dzien ich tekstow o klockach spoza LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Aktualizowane premiery COBI na 11.2026",
+      "url": "https://fanklockow.pl/aktualizowane-premiery-cobi-na-11-2026/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "COBI - poza zakresem serwisu o LEGO."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Dla Patronow: Jakie LEGO do szafy w tym tygodniu? (26.10-2.11)",
+      "url": "https://fanklockow.pl/jakie-lego-do-szafy-2-11-2026/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "historia",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykl za sciana platna dla patronow - potwierdza decyzje Marka z 19.10, zeby tego formatu nie gonic."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Najlepsze oferty na LEGO - 2 listopada 2026",
+      "url": "https://fanklockow.pl/najlepsze-oferty-na-lego-listopad-2026/",
+      "data_publikacji": "2026-11-02",
+      "data_wykrycia": "2026-11-03",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Ich codzienna lista ofert. Nasze dane sa szersze i aktualizowane feedami - nie przepisujemy cudzych list."
     }
   ],
   "obserwacje_strategiczne": {
