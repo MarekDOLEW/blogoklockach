@@ -1,0 +1,126 @@
+---
+// Prawy pasek artykułu (prototyp 1320, 03.11.2026): spis treści z nagłówków
+// h2/h3, karta zestawu z frontmattera `zestawy` (cena z tych samych danych co
+// hub — nic nie jest wpisane ręcznie) i najnowsze teksty serwisu. Widoczny od
+// 1100 px; na węższym ekranie CSS go chowa i artykuł wygląda jak dotąd.
+// Dobór sklepu w karcie: najtańsza oferta z linkiem, bez Ceneo — jak w PasekCeny.
+import sety from '../data/sety.json';
+import ofertyFeed from '../data/oferty_feed.json';
+import { polaczOferty, cenaKatalogowaSetu, linkAfiliacyjny, relLinku, nazwaSklepu, fmtCena, fmtElementy } from '../lib/oferty.js';
+import { urlZdjecia, obrazStaly } from '../lib/media.js';
+import { wpisKatalogu } from '../lib/katalog.js';
+import { teksty } from '../lib/teksty.js';
+import { dataPl } from '../lib/daty.js';
+
+const { headings = [], zestawy = [], url = '' } = Astro.props;
+
+// Spis: h2 i h3 z treści; sekcje techniczne (FAQ ma własny blok pod tekstem) zostają.
+const spis = headings.filter((h) => h.depth === 2 || h.depth === 3);
+
+const kartaZestawu = (nr) => {
+  const klucz = String(nr);
+  const s = sety[klucz] ?? {};
+  const k = wpisKatalogu(klucz) ?? {};
+  const oferty = polaczOferty(s.oferty ?? [], ofertyFeed?.sety?.[klucz] ?? null, klucz).filter((o) => o.sklep !== 'ceneo' && o.cena > 0);
+  const zLinkiem = oferty.filter((o) => linkAfiliacyjny(o.sklep, klucz));
+  const najlepsza = zLinkiem.length ? zLinkiem.reduce((a, b) => (b.cena < a.cena ? b : a)) : null;
+  const rrp = cenaKatalogowaSetu(klucz, { sety });
+  return {
+    nr: klucz,
+    nazwa: s.nazwa ?? k.nazwa ?? null,
+    seria: s.seria ?? k.seria ?? null,
+    elementy: s.elementy ?? k.elementy ?? null,
+    foto: urlZdjecia(klucz, { sety }),
+    najlepsza,
+    sklepy: new Set(oferty.map((o) => o.sklep)).size,
+    rrp,
+    rabat: najlepsza && rrp ? Math.round((1 - najlepsza.cena / rrp) * 100) : 0,
+  };
+};
+const karty = [...new Set(zestawy.map(String))].map(kartaZestawu).filter((z) => z.nazwa);
+const glowna = karty[0] ?? null;
+const inne = karty.slice(1, 5);
+
+const najnowsze = teksty().filter((t) => t.url !== url && t.sekcja !== 'deale').slice(0, 4);
+---
+<aside class="artykul-pasek" aria-label="Dodatkowe informacje do tekstu">
+  <div class="artykul-pasek__sticky">
+    {spis.length > 1 && (
+      <nav class="karta spis" aria-labelledby="spis-naglowek" data-spis>
+        <p class="pasek-tytul" id="spis-naglowek">W tym tekście</p>
+        <ol>
+          {spis.map((h) => (
+            <li class={h.depth === 3 ? 'spis--h3' : undefined}><a href={`#${h.slug}`}>{h.text}</a></li>
+          ))}
+        </ol>
+      </nav>
+    )}
+    {glowna && (
+      <div class="karta pasek-zestaw">
+        <p class="pasek-tytul" style="margin:0">Zestaw z tekstu</p>
+        {glowna.foto && (
+          <a href={`/zestaw/${glowna.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            <img class="pasek-zestaw__foto" {...obrazStaly(glowna.foto, 440, 880)} alt="" loading="lazy" width="400" height="300" />
+          </a>
+        )}
+        <span class="pasek-zestaw__nr">LEGO {glowna.nr}{glowna.seria && <> · {glowna.seria}</>}</span>
+        <h3><a href={`/zestaw/${glowna.nr}/`} target="_blank" rel="noopener">{glowna.nazwa}</a></h3>
+        {glowna.elementy && <span class="pasek-zestaw__meta">{fmtElementy(glowna.elementy)} el.{glowna.rrp && <> · katalogowo {fmtCena(glowna.rrp)}</>}</span>}
+        {glowna.najlepsza ? (
+          <>
+            <div class="pasek-zestaw__ceny">
+              <span class="pasek-zestaw__cena">{fmtCena(glowna.najlepsza.cena)}</span>
+              {glowna.rabat >= 3 && <span class="badge-rabat-mini">−{glowna.rabat}%</span>}
+            </div>
+            <span class="pasek-zestaw__sklepy">najtaniej dziś{glowna.sklepy > 1 && <> · porównaliśmy {glowna.sklepy} sklepy</>}</span>
+            <a class="cta" href={`/idz/${glowna.najlepsza.sklep}/${glowna.nr}`} target="_blank" rel={relLinku(glowna.najlepsza.sklep, glowna.nr)}>Sprawdź w {nazwaSklepu(glowna.najlepsza.sklep)} →</a>
+          </>
+        ) : (
+          <span class="pasek-zestaw__sklepy">dziś bez oferty w śledzonych sklepach</span>
+        )}
+        <a class="pasek-zestaw__hub" href={`/zestaw/${glowna.nr}/`} target="_blank" rel="noopener">Wszystkie ceny i historia →</a>
+        {inne.length > 0 && (
+          <ul class="pasek-zestaw__inne">
+            {inne.map((z) => (
+              <li>
+                <a href={`/zestaw/${z.nr}/`} target="_blank" rel="noopener">LEGO {z.nr} {z.nazwa}</a>
+                {z.najlepsza && <span class="cena">od {fmtCena(z.najlepsza.cena)}</span>}
+              </li>
+            ))}
+          </ul>
+        )}
+        <p class="pasek-disclosure">Przycisk sklepu to link afiliacyjny – cena i wybór sklepu od tego nie zależą.</p>
+      </div>
+    )}
+    {najnowsze.length > 0 && (
+      <nav class="karta pasek-teksty" aria-labelledby="pasek-teksty-naglowek">
+        <p class="pasek-tytul" id="pasek-teksty-naglowek">Najnowsze teksty</p>
+        <ul>
+          {najnowsze.map((t) => (
+            <li><a href={t.url}>{t.tytul}</a><span><time datetime={t.data}>{dataPl(t.data)}</time> · {t.kategoria}</span></li>
+          ))}
+        </ul>
+      </nav>
+    )}
+  </div>
+</aside>
+<script>
+  // Spis treści podświetla sekcję, która jest na ekranie. Bez JS linki
+  // i tak działają jako zwykłe kotwice.
+  const spis = document.querySelector('[data-spis]');
+  if (spis && 'IntersectionObserver' in window) {
+    const linki = [...spis.querySelectorAll('a[href^="#"]')];
+    const sekcje = linki.map((a) => document.getElementById(decodeURIComponent(a.hash.slice(1)))).filter(Boolean);
+    const zaznacz = (id) => linki.forEach((a) => {
+      if (a.hash === `#${id}`) a.setAttribute('aria-current', 'true');
+      else a.removeAttribute('aria-current');
+    });
+    const widoczne = new Map();
+    const obs = new IntersectionObserver((wpisy) => {
+      for (const w of wpisy) widoczne.set(w.target.id, w.isIntersecting ? w.boundingClientRect.top : Infinity);
+      const naj = sekcje.filter((s) => widoczne.get(s.id) !== Infinity && widoczne.has(s.id)).sort((a, b) => widoczne.get(a.id) - widoczne.get(b.id))[0];
+      if (naj) zaznacz(naj.id);
+    }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
+    sekcje.forEach((s) => obs.observe(s));
+  }
+</script>

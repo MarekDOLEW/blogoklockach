@@ -8,6 +8,7 @@ import { autorJsonld, AUTOR, WYDAWCA } from '../config.js';
 import PasekCeny from '../components/PasekCeny.astro';
 import CenaPodLupa from '../components/CenaPodLupa.astro';
 import CyklArtykulow from '../components/CyklArtykulow.astro';
+import PasekArtykulu from '../components/PasekArtykulu.astro';
 import { cenaPodLupa } from '../lib/pod-lupa.js';
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
@@ -104,9 +105,17 @@ const akcjaZakonczona = waznaDo && waznaDo < new Date().toISOString().slice(0, 1
 // Własny obraz OG artykułu/prezentownika; gdy go nie ma,
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
+
+// Prawy pasek (prototyp 1320): zestawy z frontmattera `zestawy`, a gdy go nie
+// ma – zestaw paska ceny albo tekstu „pod lupą”. Pasek sam liczy ceny z danych.
+const zestawyPaska = Array.isArray(frontmatter.zestawy) && frontmatter.zestawy.length
+  ? frontmatter.zestawy.map(String)
+  : pasekNr ? [pasekNr] : lupa?.nr ? [String(lupa.nr)] : [];
+const urlTekstu = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
 ---
 <Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny} canonical={frontmatter.canonical ?? null}>
-  <article class="prose" style="margin-top:28px">
+  <div class="artykul-uklad">
+  <article class="prose">
     <p>
       <span class="badge-seria">{plakietka}</span>
       {tagi.map((t) => <span class="badge-tag">{t}</span>)}
@@ -138,6 +147,8 @@ const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
          czyli jako ostatni element artykułu. -->
     <p class="disclosure disclosure--stopka">W tekście są linki afiliacyjne. Kupując przez nie, wspierasz serwis i nie płacisz więcej.</p>
   </article>
+  <PasekArtykulu headings={headings} zestawy={zestawyPaska} url={urlTekstu} />
+  </div>
 </Base>
 
 <script>
