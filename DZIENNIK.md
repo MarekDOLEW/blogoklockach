@@ -332,6 +332,15 @@ tekstu Piotra.
 **Mamy?** — częściowo: huby stoją i są indeksowalne, brakuje ich tylko w listingach serii (`/serie/technic/`, `/serie/koci-domek-gabi/`, `/serie/bricklink-designer-program/`, `/serie/the-legend-of-zelda/`, `/serie/ekskluzywne-i-promocyjne/`).
 **Zrobić:** — zdecydować w `src/pages/serie/[seria].astro`, czy zestaw spoza `katalog.json` z premierą w formacie samego rocznika ma wchodzić na stronę serii (np. na koniec listy, bez sortowania po miesiącu). Sam tego nie załatam przez uzupełnienie miesiąca: sprawdziłem dziś karty `brickset.com/sets/42254-1` i `brickset.com/sets/910069-1` i **żadna nie ma pola Launch/exit** — Brickset podaje je dopiero dla zestawów już wydanych (ma je np. karta 40910-1). Dopóki LEGO nie wystawi kart produktowych, miesiąca nie ma skąd wziąć.
 **Kto:** — Code (strona)
+→ **zamknięte 03.11.2026 — zgłoszenie było nietrafione, nie ma czego poprawiać.** Przeczytałem
+`src/pages/serie/[seria].astro` zamiast opierać się na notatce z 29.10. Filtr w linii 37 ma DWA
+warunki: `/^\d{4}-\d{2}$/.test(s.premiera)` **oraz** `s.premiera <= biezacyYm`. Decyduje więc nie
+format, tylko to, czy miesiąc premiery już nadszedł — a komentarz nad tym kodem mówi wprost:
+„zapowiedzi zostają na `/nowosci/`" (ustalone 11.10.2026). Wszystkie osiem zestawów to rocznik 2027
+albo zapowiedź bez daty, czyli pozycje jeszcze nie w sprzedaży: zachowanie jest zamierzone.
+Dowód z tego przebiegu: 42254 dostał dziś `premiera: 2027-01` z oficjalnej daty 1 stycznia 2027 —
+i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/42254/`), bo
+`"2027-01" <= "2026-11"` jest fałszem. Wejdzie tam sam w styczniu 2027. Nic dla Code.
 
 ## 2026-11-01 14:55 · CODE · Skrzynka (mail): 0035 opublikowany, 0034 za duży dla automatu
 
