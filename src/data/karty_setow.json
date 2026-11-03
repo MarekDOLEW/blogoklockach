@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-02",
+  "zaktualizowano": "2026-11-03",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -34,6 +34,7 @@
    "House",
    "Icons",
    "Ideas",
+   "Indiana Jones",
    "Inne",
    "Jurassic World",
    "KPop Demon Hunters",
@@ -89879,6 +89880,1006 @@
    {
     "q": "Jakie są podobne zestawy LEGO Harry Potter?",
     "a": "Podobną rolę pełnią w tej serii figurki do zbudowania przeznaczone na półkę. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "10300": {
+  "seria": "Icons",
+  "nazwa": "Wehikuł czasu z „Powrotu do przyszłości”",
+  "elementy": 1872,
+  "akapity": [
+   "Trzy warianty filmowego samochodu powstają z jednego pudełka: LEGO Icons 10300 Wehikuł czasu z „Powrotu do przyszłości” pozwala złożyć jedną z wersji auta potrafiącego przenosić się w czasie, a wybór wersji zmienia jego wyposażenie. Pierwsza dostaje maszt z piorunochronem i reaktor plutonowy, druga reaktor Mr. Fusion i koła składane do lotu, a trzecia opony z białymi ścianami bocznymi oraz obwód drukowany.",
+   "Oznaczenie 18+ wynika z adresata, bo LEGO myśli tu o dorosłych fanach filmów i pamiątek. Wśród 1872 elementów są detale znane z ekranu: drzwi otwierane do góry, otwierana maska, podświetlany kondensator strumienia i deska rozdzielcza z nadrukowanymi datami. Po złożeniu kół samochód przechodzi w tryb lotu.",
+   "Scenę dopełniają minifigurki doktora i Marty’ego McFly’a, deskolotka oraz wymienne tablice rejestracyjne, wśród nich ta z napisem „OUTATIME”. Gotowe auto mierzy ok. 35 cm długości, 19 cm szerokości i 12 cm wysokości. Zestaw pojawił się w 2022 roku jako produkt ekskluzywny LEGO i dołączył do kolekcji filmowych samochodów.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 7. co do wielkości. Za element płaci się tu katalogowo 0,46 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11374/\">LEGO 11374 Automat do gry pinball</a> (899,99 zł katalogowo) i <a href=\"/zestaw/11386/\">LEGO 11386 SpongeBob Kanciastoporty: Bikini Dolne</a> (899,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10300",
+   "Nazwa": "Wehikuł czasu z „Powrotu do przyszłości”",
+   "Seria": "Icons",
+   "Premiera": "2022",
+   "Liczba elementów": "1872",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "2 minifigurki (doktor, Marty McFly)",
+   "Cena katalogowa w Polsce": "869,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons, filmowe samochody dla dorosłych",
+   "Dystrybucja": "zestaw ekskluzywny LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10300?",
+    "a": "Cena katalogowa w Polsce to 869,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Około 0,46 zł przy cenie katalogowej. Wskaźnik jest pomocniczy, bo pomija trzy warianty auta i podświetlany kondensator."
+   },
+   {
+    "q": "Czy można zbudować wszystkie trzy wersje naraz?",
+    "a": "Nie, z pudełka składa się jedną z trzech wersji samochodu."
+   },
+   {
+    "q": "Czy kondensator strumienia świeci?",
+    "a": "Tak, jest podświetlany, a w zestawie znajduje się płaska okrągła bateria."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Punktem odniesienia będą inne filmowe samochody z linii dla dorosłych. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10309": {
+  "seria": "Botanicals",
+  "nazwa": "Sukulenty",
+  "elementy": 771,
+  "akapity": [
+   "W pudełku LEGO Botanicals 10309 Sukulenty jest dziewięć roślin, każda we własnej doniczce, dlatego zestaw nie tworzy jednej zamkniętej kompozycji. Można go zsunąć w jedną ozdobę, podzielić na małe grupy albo rozdzielić między dom, pokój i biuro, zależnie od miejsca.",
+   "Każda sztuka wzoruje się na prawdziwym sukulencie, więc kształty, tekstury i kolory zmieniają się od doniczki do doniczki. Kolekcja botaniczna LEGO, do której należy ten model wydany w 2022 roku, powstaje dla dorosłych budowniczych i obejmuje modele inspirowane realistycznymi roślinami oraz kwiatami, stąd oznaczenie 18+. Na 771 elementów przypada dziewięć małych, odrębnych projektów.",
+   "Budowę da się dzielić, ponieważ instrukcje rozłożono na trzy osobne broszury, co ułatwia wspólne składanie z rodziną lub znajomymi. Cały komplet ma ok. 13 cm wysokości oraz 17 cm szerokości i głębokości. Uważni znajdą też coś dodatkowego: w zestawie ukryto elementy inspirowane innymi zestawami, a całe składanie ma być spokojnym, odprężającym projektem na wolną chwilę, także z bliskimi.",
+   "Gdyby stanął obok 21 zestawów LEGO Botanicals z 2026 roku, byłby 17. co do wielkości. Za element płaci się tu katalogowo 0,27 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "10309",
+   "Nazwa": "Sukulenty",
+   "Seria": "Botanicals",
+   "Premiera": "2022",
+   "Liczba elementów": "771",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "0,27 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Botanicals, modele roślin dla dorosłych",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10309?",
+    "a": "W Polsce zestaw ma cenę katalogową 209,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile roślin jest w zestawie?",
+    "a": "Dziewięć, każda we własnej doniczce."
+   },
+   {
+    "q": "Czy rośliny można ustawić osobno?",
+    "a": "Tak, sprawdzą się razem, w niewielkich grupach albo pojedynczo."
+   },
+   {
+    "q": "Czy kilka osób może budować zestaw jednocześnie?",
+    "a": "Tak, trzy broszury z instrukcjami pozwalają podzielić pracę."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Botanicals?",
+    "a": "Tę samą kolekcję tworzą modele inspirowane prawdziwymi roślinami i kwiatami. <a href=\"/serie/botanicals/\">Zobacz wszystkie zestawy LEGO Botanicals</a>"
+   }
+  ]
+ },
+ "10787": {
+  "seria": "Koci Domek Gabi",
+  "nazwa": "Przyjęcie w ogrodzie Wróżkici",
+  "elementy": 130,
+  "akapity": [
+   "Seria LEGO Koci domek Gabi sięga w zestawie 10787 Przyjęcie w ogrodzie Wróżkici po domek na drzewie, w którym Gabi, Kiciuś Panduś i Wróżkicia piją herbatę. Wróżkicia ma tam łóżko i truskawkowe przekąski.",
+   "Komplet wydany w 2023 roku ma oznaczenie 4+, dlatego w pudełku jest duży klocek startowy, od którego od razu zaczyna się budowa. Cały zestaw liczy 130 elementów, a ogród ma zjeżdżalnię, huśtawkę i karuzelę. Młodzi ogrodnicy mogą podlewać kwiaty, by urosły, a jabłka, konewka, czajniczek, filiżanki i motyle dają pretekst do odgrywania ról. Domek ze zjeżdżalnią mierzy 13 cm wysokości, 17 cm szerokości i 11 cm głębokości. LEGO wiąże zestaw z animacją „Koci domek Gabi” studia DreamWorks i proponuje go do wspólnego budowania dzieci z dorosłymi."
+  ],
+  "metryka": {
+   "Numer": "10787",
+   "Nazwa": "Przyjęcie w ogrodzie Wróżkici",
+   "Seria": "Koci domek Gabi",
+   "Premiera": "2023",
+   "Liczba elementów": "130",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "1 minifigurka (Gabi) i 2 figurki (Kiciuś Panduś, Wróżkicia)",
+   "Cena katalogowa w Polsce": "129,99 zł",
+   "Cena katalogowa za element": "1,00 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Koci domek Gabi, zestawy 4+",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10787?",
+    "a": "Polski cennik LEGO podawał 129,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co można robić w ogrodzie?",
+    "a": "Podlewać kwiaty oraz bawić się na huśtawce, karuzeli i zjeżdżalni."
+   },
+   {
+    "q": "Czy zestaw nadaje się dla czterolatka?",
+    "a": "Tak, ma oznaczenie 4+ i klocek startowy."
+   },
+   {
+    "q": "Kto pojawia się w zestawie?",
+    "a": "Gabi jako minifigurka oraz figurki Kiciusia Pandusia i Wróżkici."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Koci domek Gabi?",
+    "a": "Pasują tu inne zestawy 4+ z postaciami z tego serialu. <a href=\"/serie/koci-domek-gabi/\">Zobacz wszystkie zestawy LEGO Koci Domek Gabi</a>"
+   }
+  ]
+ },
+ "40468": {
+  "seria": "Creator",
+  "nazwa": "Żółta taksówka",
+  "elementy": 124,
+  "akapity": [
+   "Mały pojazd LEGO Creator z 2021 roku, 40468 Żółta taksówka, ma oznaczenie 7+ i jest dla dzieci, które lubią wymyślać ciekawe historie i pasjonują się pojazdami.",
+   "Na 124 elementy przypada sporo rozpoznawalnych szczegółów. Na dachu jest reklama, nadwozie ma oznaczenia taksówki, boczne lusterka i tablice rejestracyjne, a gumowe koła się kręcą. Samochodzik mierzy ok. 13 cm długości, 6 cm wysokości i 5 cm szerokości, więc łatwo zabrać go na wspólną zabawę u przyjaciół albo jeździć nim po domu. Model zachęca do wymyślania przygód na ruchliwych ulicach, ale sprawdzi się też jako dodatek do kolekcji. To zestaw oznaczony przez LEGO jako ekskluzywny."
+  ],
+  "metryka": {
+   "Numer": "40468",
+   "Nazwa": "Żółta taksówka",
+   "Premiera": "2021",
+   "Liczba elementów": "124",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "41,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator, pojazdy",
+   "Dystrybucja": "zestaw ekskluzywny LEGO",
+   "Seria": "LEGO Creator"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40468?",
+    "a": "Sklep LEGO podaje cenę 41,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy to zestaw ekskluzywny?",
+    "a": "Tak, LEGO oznacza go jako ekskluzywny."
+   },
+   {
+    "q": "Jakie detale ma taksówka?",
+    "a": "Reklamę na dachu, oznaczenia taksówki, boczne lusterka, tablice rejestracyjne i kręcące się gumowe koła."
+   },
+   {
+    "q": "Jakie ma wymiary?",
+    "a": "Około 13 cm długości, 6 cm wysokości i 5 cm szerokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "Najłatwiej porównać ją z małymi pojazdami tej linii. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40478": {
+  "seria": "Disney",
+  "nazwa": "Miniaturowy zamek Disneya",
+  "elementy": 567,
+  "akapity": [
+   "Pretekstem do powstania LEGO Disney 40478 Miniaturowy zamek Disneya była 50. rocznica kompleksu Walt Disney World i jego głównej atrakcji, parku Magic Kingdom. Model z 2021 roku przedstawia zamek Kopciuszka z Florydy, a nie ogólną baśniową budowlę, co dla fanów parków ma znaczenie. To miniatura konkretnego, istniejącego miejsca.",
+   "Wyróżnikiem tej wersji zamku są przede wszystkim kolory. Sylwetka o wymiarach ok. 21 cm wysokości, 14 cm szerokości i 13 cm głębokości ma perłowo-złote wieże i opalizujące zwieńczenia dachów. Model ma dobrze wyglądać na półce lub komodzie jako dekoracja, obok której trudno przejść obojętnie.",
+   "W zestawie jest jedna postać: Myszka Miki w stylu dawnych filmów animowanych, zgodna z nostalgicznym, rocznicowym tonem całości. Liczba 567 elementów i oznaczenie 12+ wskazują starsze dzieci, ale LEGO zaznacza, że miniatura zachwyci zarówno młodszych, jak i starszych fanów Disneya. To zestaw ekskluzywny, traktowany przede wszystkim jako uzupełnienie kolekcji albo prezent na święta, urodziny i inne wyjątkowe okazje.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,30 zł, przy typowych dla serii 0,48 zł."
+  ],
+  "metryka": {
+   "Numer": "40478",
+   "Nazwa": "Miniaturowy zamek Disneya",
+   "Seria": "Disney",
+   "Premiera": "2021",
+   "Liczba elementów": "567",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "1 minifigurka (Myszka Miki)",
+   "Cena katalogowa w Polsce": "169,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Disney, 50. rocznica Walt Disney World",
+   "Dystrybucja": "zestaw ekskluzywny LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40478?",
+    "a": "Zamek ma cenę katalogową 169,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki zamek przedstawia model?",
+    "a": "Zamek Kopciuszka z parku Magic Kingdom na Florydzie."
+   },
+   {
+    "q": "Z jakiej okazji powstał zestaw?",
+    "a": "Z okazji 50. rocznicy powstania kompleksu Walt Disney World."
+   },
+   {
+    "q": "Jaką minifigurkę zawiera?",
+    "a": "Myszkę Miki w klasycznym stylu dawnych animacji."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Warto sprawdzić inne modele z motywem zamków i pamiątek z parków. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "40516": {
+  "seria": "Icons",
+  "nazwa": "Każdy jest wspaniały",
+  "elementy": 346,
+  "akapity": [
+   "Jedenaście minifigurek, każda w innym kolorze i z włosami w tym samym odcieniu, stoi na tle tęczowych pasów dobranych do ich barw. Tak wygląda 40516 Każdy jest wspaniały, ekskluzywna ozdoba LEGO z 2021 roku, która zamiast scenki do zabawy niesie proste przesłanie o różnorodności, życzliwości i poczuciu przynależności.",
+   "Adresatem są dorośli, a nie dzieci szukające zabawki, stąd oznaczenie 18+. Forma jest oszczędna: ozdoba z 346 elementów ma ok. 10 cm wysokości, 18 cm szerokości i 12 cm głębokości, a główny motyw stanowią jednokolorowe figurki. Całość opiera się na kolorach i ma dobrze wyglądać w każdej części domu, a LEGO nazywa ją symbolem pozytywności i życzliwości."
+  ],
+  "metryka": {
+   "Numer": "40516",
+   "Nazwa": "Każdy jest wspaniały",
+   "Premiera": "2021",
+   "Liczba elementów": "346",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "11 jednokolorowych minifigurek",
+   "Cena katalogowa w Polsce": "144,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Dystrybucja": "zestaw ekskluzywny LEGO",
+   "Seria": "LEGO Icons"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40516?",
+    "a": "Na polskiej stronie LEGO zestaw kosztuje 144,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie wymiary ma ozdoba?",
+    "a": "Około 10 cm wysokości, 18 cm szerokości i 12 cm głębokości."
+   },
+   {
+    "q": "Czy to zestaw do zabawy?",
+    "a": "Nie, to złożona z klocków ozdoba dla dorosłych."
+   },
+   {
+    "q": "Co przedstawia model?",
+    "a": "Minifigurki na tle tęczowych pasów, których kolory odpowiadają barwom figurek."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Najbliżej stoją modele Icons przeznaczone do ustawienia w domu. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "40518": {
+  "seria": "Creator",
+  "nazwa": "Pociąg szybkobieżny",
+  "elementy": 284,
+  "akapity": [
+   "LEGO Creator 40518 Pociąg szybkobieżny to dwa połączone wagony, z kabiną maszynisty w wagonie ze skośnym przodem. Model wydano w 2022 roku z oznaczeniem 7+, z myślą o dzieciach lubiących odgrywać historie z pociągami. Na całość składają się 284 elementy.",
+   "Najciekawszy pomysł ujawnia się dopiero przy drugim pudełku. Naklejki z zestawu pozwalają ozdobić cztery osobne wagony, więc dwa komplety można połączyć w jeden dłuższy, czterowagonowy skład. Pojedynczy pociąg ma ok. 36 cm długości przy 6,5 cm wysokości i zaledwie 3 cm szerokości, co LEGO wskazuje jako wymiary wygodne do zabawy w domu i poza nim. Smukły pociąg dzieci mogą prowadzić przez wymyślone miasta i tereny wiejskie."
+  ],
+  "metryka": {
+   "Numer": "40518",
+   "Nazwa": "Pociąg szybkobieżny",
+   "Premiera": "2022",
+   "Liczba elementów": "284",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "0,29 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator, pociągi",
+   "Dystrybucja": "sprzedaż detaliczna",
+   "Seria": "LEGO Creator"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40518?",
+    "a": "Polska cena katalogowa wynosi 81,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy dwa zestawy można połączyć?",
+    "a": "Tak, powstaje wtedy pociąg z czterema wagonami."
+   },
+   {
+    "q": "Ile wagonów ma pociąg z jednego pudełka?",
+    "a": "Dwa, połączone ze sobą, a w jednym z nich jest kabina maszynisty."
+   },
+   {
+    "q": "Do czego służą naklejki?",
+    "a": "Pozwalają ozdobić cztery osobne wagony, co przydaje się przy zakupie dwóch kompletów."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "Warto przejrzeć pojazdy z linii Creator, także te o podobnej skali. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40519": {
+  "seria": "Creator",
+  "nazwa": "Pocztówka z Nowego Jorku",
+  "elementy": 253,
+  "akapity": [
+   "Statua Wolności, Empire State Building i One World Trade Center wyznaczają panoramę, którą oddaje 40519 Pocztówka z Nowego Jorku. Ten trójwymiarowy model zastępuje widokówkę w formie, którą można postawić, a nie wysłać.",
+   "Zestaw wydano w 2022 roku z oznaczeniem 9+. Na 253 elementy przypadają dwie naklejki: flaga Stanów Zjednoczonych oraz nazwa miasta. Trzy budowle tworzą razem jedną scenę o wysokości ok. 12 cm, w której liczy się rozpoznawalność sylwetek, a nie wnętrza czy funkcje. Taka ozdoba ma sens przede wszystkim dla miłośnika Nowego Jorku, bo to model kolekcjonerski, a nie zabawka do budowania scenek. W tej samej formie wydano też 40569 Pocztówka z Londynu."
+  ],
+  "metryka": {
+   "Numer": "40519",
+   "Nazwa": "Pocztówka z Nowego Jorku",
+   "Premiera": "2022",
+   "Liczba elementów": "254",
+   "Wiek": "9+",
+   "Cena katalogowa w Polsce": "61,99 zł",
+   "Cena katalogowa za element": "0,25 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "trójwymiarowe pocztówki LEGO",
+   "Dystrybucja": "sprzedaż detaliczna",
+   "Seria": "LEGO Creator"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40519?",
+    "a": "Cena katalogowa w Polsce to 61,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Około 0,25 zł, licząc od ceny katalogowej. To tylko orientacyjna miara dla modelu z trzema budowlami."
+   },
+   {
+    "q": "Jakie budowle pokazuje pocztówka?",
+    "a": "Statuę Wolności, Empire State Building i One World Trade Center."
+   },
+   {
+    "q": "Czy zestaw ma naklejki?",
+    "a": "Tak, dwie: flagę Stanów Zjednoczonych i nazwę miasta."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "Bliźniacza forma to 40569 Pocztówka z Londynu, a szerzej modele miejskie z linii Creator. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40569": {
+  "seria": "Creator",
+  "nazwa": "Pocztówka z Londynu",
+  "elementy": 277,
+  "akapity": [
+   "Big Ben, plac Piccadilly Circus, London Eye i czerwony piętrowy autobus mieszczą się na jednej trójwymiarowej widokówce. LEGO 40569 Pocztówka z Londynu pochodzi z 2022 roku.",
+   "W odróżnieniu od modelu pojedynczego budynku jest to skrót całego miasta: wieża zegarowa, koło obserwacyjne i piętrowy autobus mają wystarczyć, by rozpoznać stolicę Wielkiej Brytanii od pierwszego spojrzenia. Model składa się z 277 elementów i ma ok. 13 cm wysokości, a wykończenie zapewniają flaga kraju i nazwa miasta. Składać mogą go dzieci od dziewięciu lat, ale ma też trafić do londyńczyków i wszystkich miłośników miasta jako kreatywna ozdoba. Cena 61,99 zł jest taka sama jak przy 40519 Pocztówka z Nowego Jorku."
+  ],
+  "metryka": {
+   "Numer": "40569",
+   "Nazwa": "Pocztówka z Londynu",
+   "Premiera": "2022",
+   "Liczba elementów": "277",
+   "Wiek": "9+",
+   "Cena katalogowa w Polsce": "61,99 zł",
+   "Cena katalogowa za element": "0,22 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "trójwymiarowe pocztówki LEGO",
+   "Dystrybucja": "sprzedaż detaliczna",
+   "Seria": "LEGO Creator"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40569?",
+    "a": "Ten model wyceniono w Polsce na 61,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co widać na pocztówce?",
+    "a": "Big Bena, Piccadilly Circus, London Eye i czerwony piętrowy autobus."
+   },
+   {
+    "q": "Czy pocztówkę można czymś ozdobić?",
+    "a": "Tak, flagą Wielkiej Brytanii i nazwą miasta."
+   },
+   {
+    "q": "Jaką ma wysokość?",
+    "a": "Około 13 cm."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Creator w podobnej cenie?",
+    "a": "Względem 40519 Pocztówka z Nowego Jorku ma tę samą cenę i nieco więcej elementów, a wybór sprowadza się głównie do miasta. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40615": {
+  "seria": "Star Wars",
+  "nazwa": "Tuskeński rabuś",
+  "elementy": 152,
+  "akapity": [
+   "Zestaw 40615 Tuskeński rabuś łączy format BrickHeadz z serią LEGO Star Wars. Figurka mieszkańca Tatooine nosi strój znany z filmu „Gwiezdne Wojny: Nowa nadzieja” i ma kij gaffi oraz blaster.",
+   "Postać stoi na podstawce służącej do ekspozycji i składa się ze 152 elementów. Ma 8 cm wysokości przy 5 cm szerokości i głębokości. Ten ekskluzywny zestaw, wydany w 2023 roku, ma oznaczenie 10+ i jest przeznaczony dla starszych dzieci oraz kolekcjonerów. Figurka stanowi dodatek do kolekcji zabawek konstrukcyjnych z Gwiezdnych Wojen. Największą wartością jest tu wierne oddanie stroju i uzbrojenia."
+  ],
+  "metryka": {
+   "Numer": "40615",
+   "Nazwa": "Tuskeński rabuś",
+   "Seria": "Star Wars",
+   "Premiera": "2023",
+   "Liczba elementów": "152",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "1 figurka BrickHeadz",
+   "Cena katalogowa w Polsce": "42,99 zł",
+   "Cena katalogowa za element": "0,28 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO BrickHeadz, Gwiezdne Wojny",
+   "Dystrybucja": "zestaw ekskluzywny LEGO, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40615?",
+    "a": "Figurka kosztowała 42,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie akcesoria ma figurka?",
+    "a": "Kij gaffi i blaster."
+   },
+   {
+    "q": "Na czym opiera się strój?",
+    "a": "Na filmie „Gwiezdne Wojny: Nowa nadzieja”."
+   },
+   {
+    "q": "Czy figurka ma podstawkę?",
+    "a": "Tak, zestaw zawiera podstawkę do ekspozycji."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Pokrewne będą pozostałe figurki BrickHeadz z Gwiezdnych Wojen. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "40649": {
+  "seria": "Minifigurki",
+  "nazwa": "Powiększona minifigurka LEGO",
+  "elementy": 654,
+  "akapity": [
+   "Figura stojąca przed kampusem LEGO w Billund doczekała się domowej wersji. LEGO 40649 Powiększona minifigurka LEGO wygląda tak samo jak tamta postać, a ukazała się w 2023 roku jako produkt ekskluzywny, dostępny wyłącznie na LEGO.com i w sklepach LEGO Store.",
+   "Konstrukcja zachowuje to, co definiuje zwykłą minifigurkę, tylko w większej skali: model ma 27 cm wysokości, a ruchome są głowa, ramiona, nogi i dłonie, więc postać można ustawiać podobnie jak jej mniejszy pierwowzór. Sporą niespodzianką jest czapka: po jej otwarciu widać w środku klasyczną minifigurkę standardowej wielkości, gotową do zabawy w odgrywanie ról.",
+   "Pudełko zawiera łącznie 654 elementy. Model z oznaczeniem 10+ jest dla starszych dzieci i dorosłych fanów budowania oraz minifigurek. To pamiątka z niespodzianką i ozdoba do ustawienia w dowolnym miejscu domu lub biura. Model ucieszy każdego fana LEGO lub minifigurek. Temat jest prosty, bo model pokazuje samą ikonę marki znaną z kampusu w Billund, bez licencji i bez dodatkowej scenerii."
+  ],
+  "metryka": {
+   "Numer": "40649",
+   "Nazwa": "Powiększona minifigurka LEGO",
+   "Seria": "Minifigurki",
+   "Premiera": "2023",
+   "Liczba elementów": "654",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "1 minifigurka standardowej wielkości",
+   "Cena katalogowa w Polsce": "249,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "powiększone modele minifigurek",
+   "Dystrybucja": "zestaw ekskluzywny LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 40649?",
+    "a": "Model kosztuje w Polsce 249,99 zł według cennika LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co kryje czapka?",
+    "a": "Po otwarciu widać minifigurkę standardowej wielkości."
+   },
+   {
+    "q": "Jakie części figurki są ruchome?",
+    "a": "Głowa, ramiona, nogi i dłonie."
+   },
+   {
+    "q": "Jak wysoka jest figurka?",
+    "a": "Mierzy 27 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minifigurki?",
+    "a": "Temat rozwijają zestawy poświęcone minifigurkom jako kolekcjonerskim postaciom. <a href=\"/serie/minifigurki/\">Zobacz wszystkie zestawy LEGO Minifigurki</a>"
+   }
+  ]
+ },
+ "42168": {
+  "seria": "Technic",
+  "nazwa": "John Deere 9700 Forage Harvester",
+  "elementy": 559,
+  "akapity": [
+   "LEGO Technic 42168 John Deere 9700 Forage Harvester to mechaniczny model maszyny do zbioru kukurydzy, wydany w 2024 roku w klasycznej kolorystyce marki. Budowa obejmuje 559 elementów. Zestaw jest dla dzieci od 9 lat, młodszych fanów rolnictwa i pojazdów rolniczych.",
+   "Najważniejszą częścią jest przednia sieczkarnia. Można ją podnosić, opuszczać i obracać, dzięki czemu ruch przypomina pracę oryginału przy zbiorze kukurydzy. Gotowa maszyna mierzy 25 cm długości, 22 cm szerokości i 11 cm wysokości. Druga funkcja to układ kierowniczy tylnych kół, taki sam jak w prawdziwym kombajnie tej marki.",
+   "Realistycznie poruszające się mechanizmy serii Technic mają w przystępny sposób wprowadzać młodych budowniczych w świat inżynierii, a model sprawdzi się też jako prezent urodzinowy dla dzieci lubiących pojazdy i kreatywną zabawę.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 18. co do wielkości. Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,40 zł."
+  ],
+  "metryka": {
+   "Numer": "42168",
+   "Nazwa": "John Deere 9700 Forage Harvester",
+   "Seria": "Technic",
+   "Premiera": "2024",
+   "Liczba elementów": "559",
+   "Wiek": "9+",
+   "Cena katalogowa w Polsce": "184,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Technic, maszyny John Deere",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 42168?",
+    "a": "Przed zakończeniem produkcji model był wyceniony na 184,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co można zrobić z sieczkarnią?",
+    "a": "Podnosić ją, opuszczać i obracać."
+   },
+   {
+    "q": "Jak skręca ten model?",
+    "a": "Skrętne są tylne koła, jak w prawdziwej maszynie."
+   },
+   {
+    "q": "Czy to zestaw licencyjny?",
+    "a": "Tak, odwzorowuje maszynę John Deere w firmowych kolorach."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Najbliżej będą inne maszyny rolnicze i robocze z tej serii. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "43008": {
+  "seria": "Nike",
+  "nazwa": "Nike Dunk x LEGO Set",
+  "elementy": 1180,
+  "akapity": [
+   "Koszykarski but sprzed ponad 40 lat wraca w klockach: LEGO 43008 Nike Dunk x LEGO Set to model sneakera z kolekcji LEGO Nike, wydany w 2025 roku. Na model przypada 1180 elementów. Mimo kolekcjonerskiego charakteru ma oznaczenie 10+, bo LEGO kieruje go do dzieci, nastolatków i fanów marki w każdym wieku.",
+   "Główna bryła to nie tylko ozdoba. W bucie ukryto przegródki na pierścienie mistrzowskie lub inne drobiazgi, a dodatkowe sznurowadła pozwalają zmienić kolor i spersonalizować model. Zestaw zawiera też obrotowy klocek z piłką do koszykówki oraz slogan „Dunk”, a całość mierzy 25 cm wysokości, 38 cm szerokości i 13 cm głębokości.",
+   "Dopełnieniem jest ekskluzywna minifigurka: superfan B’Ball Head w stroju Nike, z parą miniaturowych butów Dunk dopasowanych do dużego modelu. LEGO zachęca, by wszystkie te elementy budować, przebudowywać i eksponować na półce, a sam zestaw oznacza jako ekskluzywny. Pokazuje go też jako prezent dla miłośników sportu i wskazuje inne zestawy kolekcji LEGO Nike, sprzedawane osobno."
+  ],
+  "metryka": {
+   "Numer": "43008",
+   "Nazwa": "Nike Dunk x LEGO Set",
+   "Seria": "Nike",
+   "Premiera": "2025",
+   "Liczba elementów": "1180",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "1 minifigurka (B’Ball Head)",
+   "Cena katalogowa w Polsce": "419,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "kolekcja LEGO Nike",
+   "Dystrybucja": "zestaw ekskluzywny LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 43008?",
+    "a": "Polska cena katalogowa to 419,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Blisko 0,36 zł. Liczba ta niewiele mówi o wartości licencjonowanego modelu z ekskluzywną minifigurką."
+   },
+   {
+    "q": "Co można schować w bucie?",
+    "a": "Pierścienie mistrzowskie lub inne drobne skarby, bo model ma ukryte przegródki."
+   },
+   {
+    "q": "Kim jest minifigurka z zestawu?",
+    "a": "To superfan B’Ball Head w stroju Nike i miniaturowych butach Dunk."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Nike?",
+    "a": "Punktem odniesienia są pozostałe modele z kolekcji tworzonej z tą marką. <a href=\"/serie/\">Zobacz wszystkie serie LEGO</a>"
+   }
+  ]
+ },
+ "60362": {
+  "seria": "City",
+  "nazwa": "Myjnia samochodowa",
+  "elementy": 243,
+  "akapity": [
+   "LEGO City 60362 Myjnia samochodowa działa dzięki przejazdowi auta: samochód jedzie przez konstrukcję, a szczotki zaczynają się obracać. W zabawie działają też ruchome wentylatory suszące oraz dozownik mydlin z elementów LEGO.",
+   "Zestaw z 2023 roku jest przeznaczony dla dzieci od 6 lat. Z 243 elementów prócz myjni powstaje też samochód, a do tego pompka do opon. Klienta i obsługę reprezentują dwie minifigurki: kierowca oraz pomocnik. Po złożeniu model ma 11 cm wysokości, 15 cm szerokości i 11 cm głębokości, więc to kompaktowy budynek. Zestaw nie wymaga baterii. Zestaw można łączyć z innymi modelami City, by poszerzyć zabawę o kolejne miejskie wątki."
+  ],
+  "metryka": {
+   "Numer": "60362",
+   "Nazwa": "Myjnia samochodowa",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "243",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 minifigurki (kierowca, pomocnik)",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60362?",
+    "a": "Do końca produkcji zestaw kosztował 84,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak działa myjnia?",
+    "a": "Przejazd auta obraca szczotkami, a mydliny dozuje się z elementów LEGO."
+   },
+   {
+    "q": "Czy zestaw zawiera samochód?",
+    "a": "Tak, a także minifigurki kierowcy i pomocnika."
+   },
+   {
+    "q": "Czy można ustawić wentylatory?",
+    "a": "Tak, wentylatory suszące są ruchome."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Tematycznie blisko są zestawy miejskie z warsztatami i stacjami obsługi. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "60369": {
+  "seria": "City",
+  "nazwa": "Szkolenie psów policyjnych w terenie",
+  "elementy": 197,
+  "akapity": [
+   "Policyjny SUV K9 jedzie tu z przyczepą, a miejsce akcji stanowi teren szkoleniowy dla psów. W LEGO City 60369 Szkolenie psów policyjnych w terenie są trzy przeszkody: równoważnia, płotek i stopnie, na których można ćwiczyć z psem i szczeniaczkiem.",
+   "Zestaw ukazał się w 2023 roku z myślą o dzieciach od 5 lat, które lubią zwierzęta i zabawę w policję. Jego 197 elementów dzieli się na samochód, przyczepę, scenerię i akcesoria. Dwie minifigurki dostają proste, ale pasujące do tematu wyposażenie: szczotkę do czesania psa, latarkę, szuflę i dwa przysmaki. Sam SUV ma 7 cm wysokości, 14 cm długości i 6 cm szerokości. Policyjne zestawy City stawiają na realistyczne pojazdy i postacie, a dzieci mogą wcielać się w role."
+  ],
+  "metryka": {
+   "Numer": "60369",
+   "Nazwa": "Szkolenie psów policyjnych w terenie",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "197",
+   "Wiek": "5+",
+   "Minifigurki / postacie": "2 minifigurki, figurki psa i szczeniaczka",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City, motyw policyjny",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60369?",
+    "a": "Sprzedawano go w Polsce za 84,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie przeszkody są w zestawie?",
+    "a": "Równoważnia, płotek i stopnie."
+   },
+   {
+    "q": "Ile psów jest w pudełku?",
+    "a": "Pies i szczeniaczek."
+   },
+   {
+    "q": "Jakie akcesoria dostają policjanci?",
+    "a": "Szczotkę do czesania, latarkę, szuflę i dwa przysmaki dla psów."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Odpowiednie będą inne zestawy policyjne z tej serii. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "60374": {
+  "seria": "City",
+  "nazwa": "Terenowy pojazd straży pożarnej",
+  "elementy": 502,
+  "akapity": [
+   "LEGO City 60374 Terenowy pojazd straży pożarnej nie kończy się na samym wozie. Sześciokołowy wóz ma odczepiane centrum dowodzenia i ruchomy dźwig, a w wyposażeniu są jeszcze dwa drony, strażacki i lądowy. Dron lądowy wyjeżdża przez boczne drzwi.",
+   "Do gaszenia służy prosta funkcja: z wozu i drona można wyrzucać elementy imitujące wodę i pianę gaśniczą, a celem są dwie scenerie pożaru, leśna i miejska. Na dachu zamontowano gaśnicę, a elementy gaszące mieszczą się w tylnych schowkach. W zabawie uczestniczą trzy minifigurki oraz figurka królika, a do dyspozycji są radio, topór, piła, klucz hakowy i kubek.",
+   "Model z 2023 roku ma oznaczenie 7+. Po złożeniu 502 elementów pojazd mierzy 26 cm długości, 12 cm wysokości i 6 cm szerokości. To wielofunkcyjny zestaw dla dzieci, które uwielbiają pełną akcji zabawę, a osobne sceny pożaru pozwalają rozegrać akcję w mieście albo w lesie i wymyślać własne historie o strażakach. Po zabawie modele mogą też stanąć na półce jako ozdoba.",
+   "Gdyby stanął obok 46 zestawów LEGO City z 2026 roku, byłby 14. co do wielkości. Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "60374",
+   "Nazwa": "Terenowy pojazd straży pożarnej",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "502",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "3 minifigurki i figurka królika",
+   "Cena katalogowa w Polsce": "234,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City, motyw strażacki",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60374?",
+    "a": "Polska cena wynosiła 234,99 zł, zanim zakończono produkcję. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie drony są w zestawie?",
+    "a": "Dron strażacki i dron lądowy."
+   },
+   {
+    "q": "Czy centrum dowodzenia można odczepić?",
+    "a": "Tak, to odczepiany element wozu strażackiego."
+   },
+   {
+    "q": "Jak działa gaszenie?",
+    "a": "Z wozu i drona wyrzuca się elementy imitujące wodę i pianę."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Warto spojrzeć na inne wozy i remizy z miejskiej straży pożarnej. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "60391": {
+  "seria": "City",
+  "nazwa": "Ciężarówki i dźwig z kulą wyburzeniową",
+  "elementy": 235,
+  "akapity": [
+   "Trzy pojazdy budowlane i dom do wyburzenia składają się na LEGO City 60391 Ciężarówki i dźwig z kulą wyburzeniową, zestaw zaprojektowany dla czterolatków. Dźwig z kulą, wywrotka i transporter pracują razem, a przebieg zabawy jest prosty: wysięgnik obraca się i burzy opuszczony dom z funkcją przewracania, po czym kulę zamienia się na łyżkę i zgarnia gruz do wywrotki.",
+   "Dla najmłodszych przewidziano klocek startowy oraz ilustrowane instrukcje, a LEGO zachęca dorosłych, by dołączyli do przedszkolaka przy budowie. Zestaw z 2023 roku liczy 235 elementów. Trzy minifigurki budowlańców dostają łom, taczkę, krótkofalówkę i plan budynku. Ciężarówka ma po złożeniu 9 cm wysokości, 17 cm długości i 9 cm szerokości."
+  ],
+  "metryka": {
+   "Numer": "60391",
+   "Nazwa": "Ciężarówki i dźwig z kulą wyburzeniową",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "235",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "3 minifigurki budowlańców",
+   "Cena katalogowa w Polsce": "214,99 zł",
+   "Cena katalogowa za element": "0,91 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City, motyw budowlany, zestawy 4+",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60391?",
+    "a": "Ten zestaw kosztował w Polsce 214,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak działa wyburzanie?",
+    "a": "Obrót wysięgnika przewraca opuszczony dom."
+   },
+   {
+    "q": "Czy kulę można zdjąć?",
+    "a": "Tak, zamienia się ją na łyżkę do zgarniania gruzu."
+   },
+   {
+    "q": "Co ułatwia budowę czterolatkom?",
+    "a": "Klocek startowy i ilustrowane instrukcje."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Podobną tematykę mają inne budowlane zestawy miejskiej serii. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "77012": {
+  "seria": "Indiana Jones",
+  "nazwa": "Pościg myśliwcem",
+  "elementy": 387,
+  "akapity": [
+   "Zestaw 77012 Pościg myśliwcem z serii LEGO Indiana Jones wraca do jednej ze scen filmu „Indiana Jones i ostatnia krucjata”. Do budowy są dwa pojazdy: myśliwiec ze śmigłem, dwoma miotaczami klocków i zdejmowanymi skrzydłami oraz zabytkowy kabriolet, który z tyłu ma skrzynię z parasolem i pistoletem.",
+   "Pudełko z 2023 roku zawiera 387 elementów. Zestaw ma 5 cm wysokości, 13 cm długości i 6 cm szerokości, więc można go zabrać ze sobą. Przeznaczono go dla dzieci od 8 lat, a LEGO podkreśla, że seria łączy rodziców pamiętających trzy pierwsze filmy z ich dziećmi. Trzy minifigurki pasują do tej sceny: Indiana z biczem, jego ojciec Henry Jones Senior z dziennikiem i pilot myśliwca, który lata samolotem."
+  ],
+  "metryka": {
+   "Numer": "77012",
+   "Nazwa": "Pościg myśliwcem",
+   "Seria": "Indiana Jones",
+   "Premiera": "2023",
+   "Liczba elementów": "387",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "3 minifigurki (Indiana Jones, Henry Jones Senior, pilot myśliwca)",
+   "Cena katalogowa w Polsce": "149,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Indiana Jones, film „Indiana Jones i ostatnia krucjata”",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77012?",
+    "a": "Ostatnia cena katalogowa w Polsce wynosiła 149,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie pojazdy można zbudować?",
+    "a": "Myśliwiec ze śmigłem oraz zabytkowy kabriolet."
+   },
+   {
+    "q": "Który film przypomina zestaw?",
+    "a": "„Indiana Jones i ostatnia krucjata”."
+   },
+   {
+    "q": "Czy myśliwiec strzela?",
+    "a": "Ma dwa miotacze klocków, a jego skrzydła można zdjąć."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Indiana Jones?",
+    "a": "Serię z tego samego roku tworzą 77013 i 77015, oparte na scenach z innego filmu. <a href=\"/serie/\">Zobacz wszystkie serie LEGO</a>"
+   }
+  ]
+ },
+ "77013": {
+  "seria": "Indiana Jones",
+  "nazwa": "Ucieczka z zaginionego grobowca",
+  "elementy": 600,
+  "akapity": [
+   "Posąg Anubisa może tu runąć i przebić się przez ścianę, odsłaniając ukryte przejście. Ta funkcja, zaczerpnięta z filmu „Poszukiwacze zaginionej Arki”, stanowi centrum zestawu LEGO Indiana Jones 77013 Ucieczka z zaginionego grobowca. Budowlę tworzy świątynia z dwoma posągami i sekretnym korytarzem, do którego prowadzi ta funkcja.",
+   "Tym korytarzem ucieka Indiana Jones, a mumia straszy go po drodze. Oprócz niej zestaw zawiera trzy minifigurki: Indianę ze słynnym kapeluszem i biczem, Marion Ravenwood oraz Sallaha. Scenografię uzupełniają węże na ziemi i przechodzące przez ścianę oraz Arka Przymierza.",
+   "Zestaw wydano w 2023 roku, z oznaczeniem 8+, a LEGO proponuje wspólne budowanie rodzicom, którzy pamiętają pierwsze trzy filmy. Po złożeniu 600 elementów całość ma 16 cm wysokości, 22 cm długości i 21 cm szerokości, więc można się nią bawić w domu i zabrać ją ze sobą. Dzieci mogą potem odegrać słynną scenę ucieczki, z mumią i wężami na drodze uciekającego bohatera. Inne zestawy tej serii to 77012 Pościg myśliwcem i 77015 Świątynia złotego posążka."
+  ],
+  "metryka": {
+   "Numer": "77013",
+   "Nazwa": "Ucieczka z zaginionego grobowca",
+   "Seria": "Indiana Jones",
+   "Premiera": "2023",
+   "Liczba elementów": "600",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "4 minifigurki (Indiana Jones, Marion Ravenwood, Sallah, mumia)",
+   "Cena katalogowa w Polsce": "174,99 zł",
+   "Cena katalogowa za element": "0,29 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Indiana Jones, film „Poszukiwacze zaginionej Arki”",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77013?",
+    "a": "Cena katalogowa wynosiła 174,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co dzieje się z posągiem Anubisa?",
+    "a": "Może spaść i przebić się przez ścianę, odsłaniając ukryte przejście."
+   },
+   {
+    "q": "Czy Arka Przymierza jest w zestawie?",
+    "a": "Tak, LEGO wymienia ją wśród elementów tej sceny."
+   },
+   {
+    "q": "Z jakiego filmu pochodzi scena?",
+    "a": "Z „Poszukiwaczy zaginionej Arki”."
+   },
+   {
+    "q": "Jaki zestaw LEGO Indiana Jones warto kupić zamiast tego modelu?",
+    "a": "Dla dorosłego fana alternatywą będzie 77015 Świątynia złotego posążka, także oparta na tym filmie, ale z pokrętłami i oznaczeniem 18+. <a href=\"/serie/\">Zobacz wszystkie serie LEGO</a>"
+   }
+  ]
+ },
+ "77015": {
+  "seria": "Indiana Jones",
+  "nazwa": "Świątynia złotego posążka",
+  "elementy": 1545,
+  "akapity": [
+   "Scena otwierająca „Poszukiwaczy zaginionej Arki” dostała w LEGO Indiana Jones 77015 Świątynia złotego posążka formę szerokiej makiety dla dorosłych. Model z 2023 roku, złożony z 1545 elementów i oznaczony 18+, ma 51 cm szerokości, 21 cm wysokości i 19 cm głębokości.",
+   "Całą akcję obsługuje się z cokołu wyposażonego w cztery pokrętła. Ich obroty pozwalają opuścić i oświetlić posążek, zawalić ścianę, przerzucić Indianę na pnączu na drugą stronę jaskini, a na koniec opuścić klapę i zobaczyć, jak ogromny głaz rusza w pogoń za bohaterem. W zestawie znajduje się płaska okrągła bateria.",
+   "Komplet postaci tworzą cztery minifigurki: Indiana Jones z kapeluszem i biczem, Satipo, Belloq oraz wojownik Hovitos. To pamiątkowy, bardzo szczegółowy model i satysfakcjonujący projekt dla dorosłych, którzy dorastali, oglądając filmy o Indianie Jonesie, a zarazem prezent dla fanów i ozdoba pokoju każdego miłośnika filmów. Liczą się tu przede wszystkim interaktywne funkcje całej makiety oraz filmowy nastrój jaskini znanej z początku filmu."
+  ],
+  "metryka": {
+   "Numer": "77015",
+   "Nazwa": "Świątynia złotego posążka",
+   "Seria": "Indiana Jones",
+   "Premiera": "2023",
+   "Liczba elementów": "1545",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "4 minifigurki (Indiana Jones, Satipo, Belloq, wojownik Hovitos)",
+   "Cena katalogowa w Polsce": "659,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Indiana Jones, film „Poszukiwacze zaginionej Arki”",
+   "Dystrybucja": "sprzedaż detaliczna, produkcja zakończona"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 77015?",
+    "a": "Ostatnią polską ceną katalogową było 659,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Około 0,43 zł według ostatniej ceny. Wskaźnik pomija oświetlenie i mechanizmy pokręteł."
+   },
+   {
+    "q": "Do czego służą pokrętła?",
+    "a": "Sterują posążkiem, ścianą, ucieczką na pnączu i pogonią głazu."
+   },
+   {
+    "q": "Które minifigurki są w zestawie?",
+    "a": "Indiana Jones, Satipo, Belloq i wojownik Hovitos."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Indiana Jones?",
+    "a": "Z tego samego filmu pochodzi mniejszy 77013 Ucieczka z zaginionego grobowca. <a href=\"/serie/\">Zobacz wszystkie serie LEGO</a>"
+   }
+  ]
+ },
+ "80056": {
+  "seria": "Monkie Kid",
+  "nazwa": "Dziewięciogłowa bestia",
+  "elementy": 755,
+  "akapity": [
+   "Dziewięć głów, ruchome skrzydła, nogi, szyja i ogon oraz otwierany dziób: tak wygląda ptasi potwór, od którego wzięło nazwę LEGO Monkie Kid 80056 Dziewięciogłowa bestia. Po rozłożeniu skrzydeł figurka osiąga 46 cm szerokości przy 15 cm wysokości. Zestaw ma charakter kolekcjonerski, ale głównym zadaniem bestii jest zabawa w odgrywanie kultowych legend i nowych historii.",
+   "Reszta pudełka też ma swoje funkcje. Zestaw z 2024 roku obejmuje małą świątynię, minimecha oraz dwa kolorowe kamienie, czerwony i niebieski. Minimech ma plecak odrzutowy, miotacz i funkcję chwytania przedmiotów.",
+   "Pięć minifigurek to dziewięciogłowy demon, Monkie King, Mei, Pan Tang i Monkie Kid. Cała seria czerpie z klasycznej powieści „Wędrówka na Zachód”, a LEGO przedstawia ją jako współczesny i wesoły sposób opowiedzenia dzieciom legendy o Małpim Królu. LEGO określa ten zestaw także jako kreatywny prezent na specjalne okazje dla dzieci od 9 lat. Ma 755 elementów i można go łączyć z innymi zestawami linii, by poszerzyć zabawę."
+  ],
+  "metryka": {
+   "Numer": "80056",
+   "Nazwa": "Dziewięciogłowa bestia",
+   "Seria": "Monkie Kid",
+   "Premiera": "2024",
+   "Liczba elementów": "757",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "5 minifigurek (dziewięciogłowy demon, Monkie King, Mei, Pan Tang, Monkie Kid)",
+   "Cena katalogowa w Polsce": "359,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid, powieść „Wędrówka na Zachód”",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 80056?",
+    "a": "Oficjalna cena w Polsce to 359,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które części bestii się poruszają?",
+    "a": "Skrzydła, nogi, szyja i ogon, a dziób można otworzyć."
+   },
+   {
+    "q": "Co potrafi minimech?",
+    "a": "Ma plecak odrzutowy, miotacz i funkcję chwytania przedmiotów."
+   },
+   {
+    "q": "Na czym opiera się seria Monkie Kid?",
+    "a": "Na klasycznej powieści „Wędrówka na Zachód” i legendzie o Małpim Królu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Pasują tu inne zestawy z mitycznymi stworzeniami i bohaterami tej linii. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>"
+   }
+  ]
+ },
+ "80058": {
+  "seria": "Monkie Kid",
+  "nazwa": "Niebiańska pagoda",
+  "elementy": 1621,
+  "akapity": [
+   "LEGO Monkie Kid 80058 Niebiańska pagoda to wieża o sześciu poziomach i 61 cm wysokości. Przy 29 cm szerokości i 19 cm głębokości ma smukłą sylwetkę, a budowa 1621 elementów dzieli się na cztery sekcje. Zestaw z 2024 roku nadaje się do wspólnego, rodzinnego budowania.",
+   "Wnętrza tworzą osobne przestrzenie. Wśród pomieszczeń znalazły się więzienie, biblioteka, sala tronowa ze szczegółowym tronem oraz sala w wieży z uchwytem na kolorowy kamień. Do opowiadania historii służą zapadnia, otwierane cele i odczepiany tron z niespodzianką, a oprócz nich mnóstwo szczegółów i akcesoriów do zabawy.",
+   "Bohaterów jest wielu: siedem minifigurek to Nüwa w nakryciu głowy z kolorowym kamieniem, Monkie Kid, Mei, Pigsy, Pan Tang, Sandy i Li Jing, a towarzyszy im figurka kota Małego Mo. Zestaw przeznaczono dla dzieci od 10 lat, które lubią duże modele pełne szczegółów. Motywy pochodzą z powieści „Wędrówka na Zachód”, a pagodę można łączyć z innymi zestawami tej linii, by odtwarzać kolejne, nowe historie."
+  ],
+  "metryka": {
+   "Numer": "80058",
+   "Nazwa": "Niebiańska pagoda",
+   "Seria": "Monkie Kid",
+   "Premiera": "2024",
+   "Liczba elementów": "1621",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "7 minifigurek (Nüwa, Monkie Kid, Mei, Pigsy, Pan Tang, Sandy, Li Jing) i figurka kota Małego Mo",
+   "Cena katalogowa w Polsce": "599,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Monkie Kid, powieść „Wędrówka na Zachód”",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 80058?",
+    "a": "Katalogowo 599,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Około 0,37 zł. Traktuj to pomocniczo, bo wysoka wieża ma sporo funkcji do zabawy."
+   },
+   {
+    "q": "Jakie funkcje ma pagoda?",
+    "a": "Zapadnię, otwierane cele i odczepiany tron z niespodzianką."
+   },
+   {
+    "q": "Ile sekcji ma wieża?",
+    "a": "Cztery, a poziomów jest sześć."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Monkie Kid?",
+    "a": "Podobny charakter mają inne budowle i bazy bohaterów z serii. <a href=\"/serie/monkie-kid/\">Zobacz wszystkie zestawy LEGO Monkie Kid</a>"
    }
   ]
  }
