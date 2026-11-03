@@ -153,6 +153,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-03 15:00 · CODE · Skrzynka (GitHub): 69 kart P07, numery z literą, katalog wg Brickseta
+
+**69 nowych kart z kanału GitHub na stronie (`2d22213`), w tym 49 zestawów w sprzedaży (Minecraft 21591–21598, Creator 31383–31393, Pokémon 72150–72168, Marvel/DC 67005–67012, BrickLink 910055–910067, L0002220–L0002223).** Żaden nie miał wcześniej karty. Źródła przeniesione do `opublikowane/` w tylkoklocki-teksty.
+- Pierwszy przebieg blokował się na 4 kartach L000222x — importer czytał tylko numery z cyfr; `import-karty.py` przyjmuje teraz numer z literą (`24358c7`). Poranna poprawka skrzynki (zgłaszanie blokad) zadziałała: paczka czekała zamiast zgubić karty po cichu.
+- Liczby elementów: Brickset potwierdził Piotra, poprawiony nasz katalog (`3841ec0`): 72168 Rayquaza 1083 (było 1183 w katalog.json i sety.json), 910055 3382, 910064 3960, 910065 2384.
 ## 2026-11-03 10:30 · CODE · Po pierwszym przebiegu GitHub: liczby elementów + slugify recenzji
 
 **Domknięte „Zrobić” z wpisu 08:55 (decyzja Marka: poprawiamy u nas).** W `karty_setow.json` poprawione liczby elementów w akapitach i polu `elementy`: 40519 253→254, 80056 755→757 (zgodnie z metryką i Bricksetem). Treści w repo Piotra bez zmian.
