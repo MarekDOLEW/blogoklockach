@@ -62,6 +62,5 @@ Co się zmienia:
   z linkiem), najnowsze teksty. Galerie i tabele w treści trzymają się
   kolumny, żeby nie wjechać pod pasek.
 
-Do decyzji przed `main`: czy boks ceny na hubie i karta zestawu w pasku
-artykułu mogą pokazywać przycisk sklepu (dodatkowy punkt afiliacyjny nad
-tabelą), czy mają tylko linkować do tabeli cen.
+Decyzja Marka (03.11.2026): przyciski sklepów w boksie ceny na hubie i w karcie
+zestawu w pasku artykułu zostają; układ 1320 wchodzi na `main`.
