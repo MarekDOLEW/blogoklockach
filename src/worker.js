@@ -229,12 +229,12 @@ export default {
         cel = `https://clk.tradedoubler.com/click?p=289664&a=3494691&url=${encodeURIComponent(celEmpik)}`;
       }
 
-      // Ceneo: program CPS w Tradedoublerze. Linki produktowe (pdt.tradedoubler.com)
-      // biorą się z feedu Ceneo_LEGO i siedzą w redirects.json. Dla setów spoza
-      // feedu budujemy deeplink na wyszukiwarkę Ceneo tym samym formatem, co Empik.
-      if (!cel && sklep === 'ceneo' && /^\d{4,7}$/.test(numer)) {
-        const celCeneo = `https://www.ceneo.pl/;szukaj-LEGO+${numer}`;
-        cel = `https://clk.tradedoubler.com/click?p=385881&a=3494691&url=${encodeURIComponent(celCeneo)}`;
+      // Ceneo: program CPS 385881 w Tradedoublerze ZAKOŃCZONY 2026-11-03 (mail TD —
+      // brak nowych prowizji). Zwykły link na wyszukiwarkę Ceneo, bez wrappera TD —
+      // nadpisuje też stare wpisy z redirects.ceneo (martwe linki pdt.tradedoubler.com
+      // z feedu Ceneo_LEGO, dopóki tam siedzą; append-only, nie kasujemy ich z danych).
+      if (sklep === 'ceneo' && /^\d{4,7}$/.test(numer)) {
+        cel = `https://www.ceneo.pl/;szukaj-LEGO+${numer}`;
       }
 
       // Sklepy bez afiliacji: skoro pokazujemy cenę, dajemy przynajmniej zwykły
