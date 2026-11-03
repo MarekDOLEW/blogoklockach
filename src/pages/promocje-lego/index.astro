@@ -308,7 +308,7 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Promocje LEGO', sciezk
         <h2>Prezentowniki dla dzieci i dorosłych</h2>
       </div>
       <p>Przewodniki prezentowe według wieku, serii i budżetu – z realnymi cenami.</p>
-      <div class="zajawki zajawki--trzy">
+      <div class="zajawki">
         {prezentowniki.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka"><a class="przycisk przycisk--duzy" href="/prezentowniki/">Zobacz wszystkie prezentowniki →</a></p>
@@ -357,8 +357,7 @@ const jsonld = jsonldListingu({ site: Astro.site, nazwa: 'Promocje LEGO', sciezk
   const lupaPag = document.querySelector('[data-lupa-pag]');
   if (lupa && lupaPag) {
     const karty = [...lupa.children];
-    // cztery kolumny od 1200 px → dwa pełne rzędy to 8 kart; niżej trzy kolumny → 6
-    const NA_STRONE = matchMedia('(min-width: 1200px)').matches ? 8 : 6;
+    const NA_STRONE = 6;
     const stron = Math.ceil(karty.length / NA_STRONE);
     let strona = 0;
     const pokaz = () => {

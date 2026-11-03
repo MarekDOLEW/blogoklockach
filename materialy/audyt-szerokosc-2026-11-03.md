@@ -30,6 +30,7 @@ zestawu w trzech kolumnach z przyklejoną ramką ceny, artykuł z prawym paskiem
 300 px (spis treści, karta zestawu z ceną z huba, powiązane deale).
 Prototyp na gałęzi roboczej w kodzie Astro, plansze przy 1440/1600/1920.
 Decyzja Marka: 1320 z kompozycją czy literalnie 1600.
+<<<<<<< HEAD
 
 ## Prototyp 1320 z kompozycją (03.11.2026, gałąź `claude/practical-heisenberg-639gv6`)
 
@@ -62,5 +63,10 @@ Co się zmienia:
   z linkiem), najnowsze teksty. Galerie i tabele w treści trzymają się
   kolumny, żeby nie wjechać pod pasek.
 
-Decyzja Marka (03.11.2026): przyciski sklepów w boksie ceny na hubie i w karcie
-zestawu w pasku artykułu zostają; układ 1320 wchodzi na `main`.
+Decyzja Marka (03.11.2026): przyciski sklepów zostają. Układ wszedł na `main`
+(1ab8fa4) i został cofnięty tego samego dnia na prośbę Marka, który zakładał
+kopię podglądową, nie podmianę produkcji. Kod prototypu w całości leży na
+gałęzi `prototyp-1320` (commit b13e53a); powrót to merge tej gałęzi albo
+`git revert` commitu cofającego.
+=======
+>>>>>>> parent of b13e53a (Prototyp układu 1320 px: boks minimów na głównej, boks ceny na hubie, pasek artykułu)
