@@ -361,6 +361,7 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 **Mamy?** — częściowo: feed działał jeszcze 27.10.2026 (`feedy.json.ceneo.ostatnie_pobranie`), dziś dwa niezależne wywołania (pełny przebieg i `--sklep ceneo` osobno) zwróciły ten sam błąd 400.
 **Zrobić:** — zgłosić w panelu Tradedoublera / do wsparcia TD, że program Ceneo CPS (385881, konto a=3494691) nie jest podłączony do feedu 256472; po potwierdzeniu podpięcia samo się naprawi, kodu nic nie trzeba zmieniać.
 **Kto:** — Marek (konto Tradedoubler)
+↻ 2026-11-03: nadal aktualne — trzeci przebieg rzędu (01.11, dwa wywołania tego dnia, i teraz 03.11) z tym samym błędem PF_392, nic się nie zmieniło.
 
 ## 2026-11-01 · CODE · Karty P07, paczki 26–28: wgrana tylko 28
 
@@ -1040,6 +1041,7 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Zrobić:** — sprawdzić oba numery (czy to realne numery LEGO) i dopisać do `potwierdzone_numery` w `src/data/feedy.json`, jeśli poprawne
 **Kto:** — Code
 ↻ 2026-10-27: nadal aktualne — te same 2 numery wciąż pomijane w zrzucie MediaMarkt.
+↻ 2026-11-03: częściowo zmienione — 52447 zniknął z feedu MediaMarkt (nie pojawia się już w zrzucie), 76265 wciąż pomijany.
 
 **Zestaw 71835 ma ofertę Lidl (59,99 zł, zrzut 19.10) w `oferty_feed.json`, ale nie ma wpisu w `katalog.json` i nie ma zdjęcia (Rebrickable/Brickset nie mają go pod tym numerem).**
 **Mamy?** — nie: brak huba i brak zdjęcia, strona zestawu nie istnieje
