@@ -138,14 +138,18 @@ KARTA_CICHO = r'gramatyka szablonu|nazwa: Piotr'
 
 def importuj_karty(pliki, sucho):
     """scripts/import-karty.py dla plików .md z kartami; zwraca (numery, problemy, uwagi)."""
-    polecenie = ['python3', os.path.join(REPO, 'scripts', 'import-karty.py'), *pliki, '--nadpisz'] + (['--sucho'] if sucho else [])
+    # --krotkie: jeden akapit opisu wystarcza (małe zestawy, saszetki) — tak jak przy ręcznych importach paczek P07;
+    # bez tego 03.11.2026 trzy karty (30638, 30660, 30726) zostały zablokowane
+    polecenie = ['python3', os.path.join(REPO, 'scripts', 'import-karty.py'), *pliki, '--nadpisz', '--krotkie'] + (['--sucho'] if sucho else [])
     wyn = subprocess.run(polecenie, cwd=REPO, capture_output=True, text=True)
     numery, problemy, uwagi = [], [], []
     if wyn.returncode != 0:
         problemy.append('Import kart nie powiódł się: ' + (wyn.stderr or wyn.stdout)[-600:])
         return numery, problemy, uwagi
     for linia in wyn.stdout.splitlines():
-        m = re.match(r'^\s+(karta|BLOKADA|uwaga) (\S+): (.*)$', linia)
+        # BLOKADA ma po numerze nazwę pliku („BLOKADA 30638 - Rower … - P07.md: …”) — do 03.11.2026 wzorzec
+        # jej nie łapał i zablokowana karta znikała bez słowa w wyniku
+        m = re.match(r'^\s+(karta|BLOKADA|uwaga) (\S+?)(?: [^:]*)?: (.*)$', linia)
         if not m:
             continue
         rodzaj, nr, tresc = m.groups()
