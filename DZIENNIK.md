@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-03 08:55 · CODE · Skrzynka (GitHub): 25 kart P07 + recenzja 21276 Creeper
+
+**Pierwszy przebieg kanału GitHub (`tylkoklocki-teksty`): 25 kart z partii 29–31 listy dla Piotra (`25a2f78` + `381ac91`) i recenzja Recenzje_016 https://tylkoklocki.pl/artykuly/lego-minecraft-21276-creeper-duza-zielona-figurka-dla-fanow-ktorzy/ (`25a2f78`).** Rejestr kart: 1849. Źródła w repo tekstów przeniesione do `opublikowane/` (`add64d5` w tylkoklocki-teksty — repo dodane do sesji z prawem zapisu, wcześniej proxy odmawiało pushu).
+- Naprawione w automacie: karty 30638, 30660, 30726 (jeden akapit) blokował importer, a skrzynka gubiła linię „BLOKADA” (wzorzec nie przewidywał nazwy pliku po numerze) i raportowała „ok”. Teraz automat przekazuje `--krotkie` (jak ręczne importy P07) i zgłasza każdą blokadę jako problem.
+**Dla drugiej strony:** w tekście kart Piotra błędne liczby elementów — 40519 „253 elementy” (Brickset i katalog: 254), 80056 „755 elementów” (757). Treści Piotra nie poprawiałem.
+**Mamy?** — częściowo: karty na stronie z błędną liczbą w akapicie
+**Zrobić:** — poprawić liczbę w akapicie kart 40519 i 80056 w `src/data/karty_setow.json` (albo przysłać poprawione pliki)
+**Kto:** — Marek (decyzja: poprawka w Code czy przez Piotra)
 
 ## 2026-11-03 08:10 · RADAR · Do zrobienia
 
