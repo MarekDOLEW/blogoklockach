@@ -33,7 +33,8 @@
    "wiersze_bez_ceny": "DECYZJA (Marek, 2026-08-20): wiersze 'Sprawdz cene' bez kwoty ZOSTAJA na tabelach cen (Smyk, Empik, x-kom itd.) - zawsze lepiej miec link niz nie miec. Nie ukrywac, nie wracac do tematu.",
    "td_publisher_api": "USTALONE 2026-09-14: Publisher API Tradedoublera dziala i oddaje transakcje Empiku i Ceneo. Adres tokenu to https://connect.tradedoubler.com/uaa/oauth/token — NIE /uni/oauth2/token; zmyslona sciezka oddaje 401 \"Full authentication is required\" (Spring Security odbija nieznana sciezke), co latwo wziac za nieaktywnego klienta. Grant `password`, bo `client_credentials` nie jest dozwolony dla naszego klienta. Access token 900 s, refresh 604800 s i JEDNORAZOWY — skrypt bierze swiezy token przy kazdym przebiegu zamiast trzymac stan. Raport: /publisher/report/transactions, max 92 dni, 100/strona, 60 req/min, kwoty w EUR (pole reportCurrencyCode) — nie sumowac ich ze zlotowkami Adtraction i Performers.",
    "klucze_sklepow": "USTALONE 2026-10-19 (Kontroler): klucz w tym rejestrze musi byc tym samym slowem, ktorego uzywa reszta serwisu — `redirects.<sklep>`, `oferty_feed`, worker i raporty kliknieci. Jedno konto w sieci moze miec wiele wpisow (x-kom i al.to to jedno konto SalesMasters) i to jest w porzadku; brak wpisu pod uzywanym kluczem nie jest. x-kom mial otagowane linki i ruch przez dwa miesiace, a w rejestrze nie istnial, bo lezal pod `alto`.",
-   "kamien_2_prog": "DECYZJA (Marek, 2026-10-19): do kamienia 2 („EPC per sklep na probie wiekszej niz jedna transakcja\") liczy sie wylacznie transakcja z obrotem >= 10 EUR (albo rownowartoscia w PLN wg kursu z dnia raportu). Mikro-rozliczenia Ceneo CPS (0,08 EUR obrotu, stawka efektywna 100%) nie sa zakupem i nie wchodza do proby. Stan na 19.10.2026 w oknie 60 dni: Empik 3 transakcje (325,44 EUR) — liczy sie; Lidl 1 (46,52 EUR) — liczy sie, ale to jedna; Ceneo 3 (0,24 EUR lacznie) — nie liczy sie. Kamien 2 = 1 sklep (Empik). Kontroler liczy to z prowizje-raport.mjs --dni 60 i nie zmienia progu bez decyzji Marka."
+   "kamien_2_prog": "DECYZJA (Marek, 2026-10-19): do kamienia 2 („EPC per sklep na probie wiekszej niz jedna transakcja\") liczy sie wylacznie transakcja z obrotem >= 10 EUR (albo rownowartoscia w PLN wg kursu z dnia raportu). Mikro-rozliczenia Ceneo CPS (0,08 EUR obrotu, stawka efektywna 100%) nie sa zakupem i nie wchodza do proby. Stan na 19.10.2026 w oknie 60 dni: Empik 3 transakcje (325,44 EUR) — liczy sie; Lidl 1 (46,52 EUR) — liczy sie, ale to jedna; Ceneo 3 (0,24 EUR lacznie) — nie liczy sie. Kamien 2 = 1 sklep (Empik). Kontroler liczy to z prowizje-raport.mjs --dni 60 i nie zmienia progu bez decyzji Marka.",
+   "ceneo_zakonczony": "USTALONE 2026-11-03: Tradedoubler zakonczyl program Ceneo CPS 385881 (mail do Marka, zalegle prowizje zostana wyplacone, nowych nie bedzie). Feed Ceneo_LEGO (fid 256472) zwracal PF_392 w przebiegach Dane wt 01.11 i 03.11 - to byl skutek zakonczenia programu, nie usterka podpiecia feedu, jak przy Lidlu 17-18.09.2026. feedy.json: ceneo.aktywny=false od 03.11.2026, dane w redirects.json/oferty_feed zostaja jako ostatni znany stan (append-only). Nierozstrzygniete: co z linkiem w worker.js (/idz/ceneo/<nr>, buduje click przez zakonczony program) i wierszem Ceneo w tabelach cen — czeka na decyzje Marka."
   }
  },
  "planetaklockow": {
@@ -88,13 +89,13 @@
  },
  "ceneo": {
   "siec": "Tradedoubler",
-  "status": "aktywny",
-  "prowizja": "CPS - do potwierdzenia w panelu",
+  "status": "zakonczony",
+  "prowizja": "CPS - juz niedostepna, program zakonczony",
   "cookie_dni": null,
-  "format_linkow": "gotowy productUrl z feedu: https://pdt.tradedoubler.com/click?a(3494691)p(385881)product(<feedId>-<sourceProductId>)ttid(19)url(<encoded ceneo.pl>) - ZWERYFIKOWANE 2026-08-20 na feedzie Ceneo_LEGO",
-  "feed": "TD productFeeds: Ceneo_LEGO fid=256472 (1336 produktow, ~1000 dostepnych przez API - limit PF_430; pokrywa 998 naszych setow, ceny + zdjecia + gotowe linki trackingowe). Dodatkowo 7 feedow kategoryjnych Ceneo (RTV, AGD, komputery, zegarki, uroda, telefony, cps_feed).",
-  "data": "2026-08-20",
-  "uwagi": "programId 385881 (Ceneo CPS), konto a=3494691. Ceneo to porownywarka, nie sklep - decyzja redakcyjna, czy pokazywac jako wiersz w tabeli cen (cena = najnizsza oferta rynkowa z Ceneo). Feed dziala z tokenem TD_TOKEN."
+  "format_linkow": "gotowy productUrl z feedu: https://pdt.tradedoubler.com/click?a(3494691)p(385881)product(<feedId>-<sourceProductId>)ttid(19)url(<encoded ceneo.pl>) - ZWERYFIKOWANE 2026-08-20 na feedzie Ceneo_LEGO. NIEAKTYWNE od zakonczenia programu 2026-11-03 - linki dalej w redirects.json, ale nie generuja prowizji.",
+  "feed": "TD productFeeds: Ceneo_LEGO fid=256472 (1336 produktow, ~1000 dostepnych przez API - limit PF_430; pokrywa 998 naszych setow, ceny + zdjecia + gotowe linki trackingowe). Dodatkowo 7 feedow kategoryjnych Ceneo (RTV, AGD, komputery, zegarki, uroda, telefony, cps_feed). Feed przestal dzialac (PF_392 'Requester is not connected to Feed') w przebiegach Dane wt 01.11 i 03.11.2026 - przyczyna ustalona 03.11: program zakonczony, nie usterka podpiecia.",
+  "data": "2026-11-03",
+  "uwagi": "programId 385881 (Ceneo CPS), konto a=3494691. ZAKONCZONE 2026-11-03: mail Tradedoublera do Marka - relacja z programem Ceneo CPS 385881 zakonczona, zadnych nowych prowizji, zalegle zostana wyplacone. Ceneo to porownywarka, nie sklep - istniejace ceny/linki w redirects.json i oferty_feed zostaja jako ostatni znany stan (append-only), ale Dane wt od 03.11.2026 nie odswieza juz tego feedu (feedy.json: ceneo.aktywny=false). DO ZROBIENIA (Marek, decyzja): worker.js (/idz/ceneo/<nr>, linie ~232-238) wciaz buduje link przez zakonczony program clk.tradedoubler.com?p=385881 - do rozstrzygniecia, czy zostawic (moze dalej przekierowywac na ceneo.pl bez prowizji), zmienic na zwykly link bez TD, czy zdjac wiersz Ceneo z tabel cen."
  },
  "mediamarkt": {
   "siec": "Tradedoubler",

@@ -134,18 +134,19 @@
    "zdjecie": "products[].productImage.url"
   },
   "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
-  "status": "dziala",
+  "status": "zakonczony",
   "ostatnie_pobranie": "2026-10-27",
   "rozmiar": "~1,4 MB, 1336 produktow = 1336 setow",
   "uwagi": [
    "Endpoint products.json ma limit PF_430 (max 1000) - uzywac productsUnlimited: pierwsze wywolanie zwraca 202 (feed sie generuje), po ~20-60 s zwraca 200 z plikiem.",
    "Node fetch nie idzie przez proxy srodowiska - skrypt pobiera curl-em.",
    "Ceneo to porownywarka: cena = najnizsza oferta rynkowa. W tabelach cen wiersz Ceneo stoi ZAWSZE NA KONCU i nie bierze udzialu w sortowaniu ani w 'najnizszej cenie' na listach (decyzja Marka 2026-08-20).",
-   "Feed nie ma daty waznosci cen - odswiezac codziennie razem z pozostalymi."
+   "Feed nie ma daty waznosci cen - odswiezac codziennie razem z pozostalymi.",
+   "ZAKONCZONE 2026-11-03: Tradedoubler zakonczyl program Ceneo CPS 385881 (mail do Marka). PF_392 w przebiegach Dane wt 01.11 i 03.11 byl skutkiem tego, nie usterka podpiecia. aktywny=false od 03.11.2026 - Dane wt krok 6 pomija ten feed; dane z redirects.json/oferty_feed zostaja jako ostatni znany stan."
   ],
   "fid": 256472,
-  "aktywny": true,
-  "odswiezanie": "co tydzien (Routine „Dane wt 05:30\", krok 6)"
+  "aktywny": false,
+  "odswiezanie": "WYLACZONE 03.11.2026 (program zakonczony) - bylo co tydzien (Routine „Dane wt 05:30\", krok 6)"
  },
  "lidl": {
   "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=259772?token=<TD_TOKEN>",

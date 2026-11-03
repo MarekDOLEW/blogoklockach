@@ -362,6 +362,14 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 **Zrobić:** — zgłosić w panelu Tradedoublera / do wsparcia TD, że program Ceneo CPS (385881, konto a=3494691) nie jest podłączony do feedu 256472; po potwierdzeniu podpięcia samo się naprawi, kodu nic nie trzeba zmieniać.
 **Kto:** — Marek (konto Tradedoubler)
 ↻ 2026-11-03: nadal aktualne — trzeci przebieg rzędu (01.11, dwa wywołania tego dnia, i teraz 03.11) z tym samym błędem PF_392, nic się nie zmieniło.
+→ zamknięte 2026-11-03 (mail Tradedoublera do Marka, wklejony w czacie): przyczyna nie jest usterką podpięcia jak przy Lidlu — **program Ceneo CPS 385881 został trwale zakończony przez Tradedoublera**. Zaległe prowizje mają być wypłacone, nowych nie będzie. `feedy.json.ceneo.aktywny` ustawiony na `false` (Dane wt od teraz pomija ten feed), status w `afiliacje_rejestr.json` zmieniony na „zakonczony", dane w `redirects.json`/`oferty_feed.json` zostają jako ostatni znany stan (append-only). Nowy wpis niżej: decyzja o linku w `worker.js` i wierszu Ceneo w tabelach cen.
+
+## 2026-11-03 · DANE WT · Do zrobienia
+
+**Program Ceneo CPS 385881 (Tradedoubler) zakończony — `src/worker.js` (linie ok. 232–238, `/idz/ceneo/<nr>`) wciąż buduje link przez ten program (`clk.tradedoubler.com?p=385881&a=3494691&url=...`), tak samo linki w `redirects.ceneo` z feedu. Kliki nie przyniosą już prowizji, a sam przekierowywacz może z czasem zacząć błądzić (TD bywa, że wygasza martwe programy).**
+**Mamy?** — tak: dokładne miejsce w kodzie (`worker.js` ~232–238) i pełny opis w `afiliacje_rejestr.json._meta.decyzje.ceneo_zakonczony`.
+**Zrobić:** — decyzja Marka, co dalej z `/idz/ceneo/`: (a) zostawić jak jest — link i tak trafia na ceneo.pl, tylko bez prowizji; (b) zamienić na zwykły link bez wrappera TD (bezpośrednio na ceneo.pl); (c) zdjąć wiersz Ceneo z tabel cen w ogóle (dotyczy wielu szablonów: `TabelaCen.astro`, `KartaOferty.astro`, `PasekCeny.astro` i innych — do rozpisania po decyzji). To zmiana w `src/worker.js` i/albo szablonach, więc zgodnie z CLAUDE.md wymaga potwierdzenia przed pushem.
+**Kto:** — Marek (decyzja), potem Code (wdrożenie)
 
 ## 2026-11-01 · CODE · Karty P07, paczki 26–28: wgrana tylko 28
 
