@@ -1,0 +1,2251 @@
+{
+ "data": "2026-11-03",
+ "czas": "2026-11-03T08:21:10.445Z",
+ "gsc": {
+  "d7": {
+   "zakres": {
+    "od": "2026-10-25",
+    "do": "2026-11-01"
+   },
+   "suma": {
+    "clicks": 2,
+    "impressions": 108,
+    "ctr": 0.018518518518518517,
+    "position": 25.50925925925926
+   },
+   "frazy": [
+    {
+     "fraza": "\"disney pixar\"",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 4.5
+    },
+    {
+     "fraza": "bionicle",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 61
+    },
+    {
+     "fraza": "gry lego mixels",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 100
+    },
+    {
+     "fraza": "hidden side",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 54
+    },
+    {
+     "fraza": "ile kosztuje",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 20.5
+    },
+    {
+     "fraza": "klocki lego hero factory",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 36
+    },
+    {
+     "fraza": "kup klocki",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 63
+    },
+    {
+     "fraza": "lego 10662",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 89
+    },
+    {
+     "fraza": "lego 11388",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 18
+    },
+    {
+     "fraza": "lego 500 zł",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 51
+    },
+    {
+     "fraza": "lego 80033",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 53.5
+    },
+    {
+     "fraza": "lego art",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 47.3
+    },
+    {
+     "fraza": "lego blue midnight",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 79
+    },
+    {
+     "fraza": "lego castle sets",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 67
+    },
+    {
+     "fraza": "lego designer",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 72
+    },
+    {
+     "fraza": "lego hero",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 52
+    },
+    {
+     "fraza": "lego hero factory",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 48
+    },
+    {
+     "fraza": "lego mixels",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 40
+    },
+    {
+     "fraza": "lego nexo knights",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 60
+    },
+    {
+     "fraza": "lego pirates",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 45
+    },
+    {
+     "fraza": "lego smart play",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 50
+    },
+    {
+     "fraza": "lego smart play zabawki",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 67
+    },
+    {
+     "fraza": "nie ma taniej?",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 16
+    },
+    {
+     "fraza": "ninjago 71877",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 78
+    },
+    {
+     "fraza": "nowe lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 83
+    },
+    {
+     "fraza": "prezent od lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 24
+    },
+    {
+     "fraza": "promocje lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 65
+    },
+    {
+     "fraza": "smart play",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 58
+    },
+    {
+     "fraza": "twoje klocki",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 66
+    },
+    {
+     "fraza": "tylko klocki",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "fraza": "wszystkie zestawy lego ninjago",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 21
+    },
+    {
+     "fraza": "zestawy lego creator",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 98
+    }
+   ],
+   "strony": [
+    {
+     "strona": "https://tylkoklocki.pl/aktualnosci/",
+     "kliki": 1,
+     "wyswietlenia": 1,
+     "ctr": 100,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-star-wars/",
+     "kliki": 1,
+     "wyswietlenia": 3,
+     "ctr": 33.33,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 35.6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 16.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-11388-wenecka-okolica-premiera/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 18
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-60478-betoniarka-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-6391-cargo-center-historia/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 5.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-75438-popiersie-yody-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-bam-halloween-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 9
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-jesien-swieta-2026-premiery/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-ninjago-styczen-2027-przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 78
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-star-wars-styczen-2027-przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 6,
+     "ctr": 0,
+     "pozycja": 9.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/media-expert-kod-lego-pazdziernik-2026/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 2.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 27
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 11
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/ranking-kalendarze-adwentowe-lego-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/deal-21330-kevin-sam-w-domu/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/deal-75192-sokol-millennium-minimum-przed-wycofaniem/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/ekskluzywne/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 17.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/nowosci/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 36.4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/o-nas/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 4.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 14
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/na-mikolaja/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/promocje-lego/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 17.6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 8.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 5.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/archiwum/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/art/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 47.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/bionicle/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 61
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/bricklink-designer-program/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 72
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/castle/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 67
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/creator/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 98
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/duplo/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 10.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/education/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 9
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/hero-factory/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 45.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/hidden-side/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 54
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/icons/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/mixels/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 55.6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/monkie-kid/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 53.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/nexo-knights/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 60
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/ninjago/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 14
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/pirates/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 26
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/smart-play/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 58.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/super-mario/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/vidiyo/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/wycofania/",
+     "kliki": 0,
+     "wyswietlenia": 18,
+     "ctr": 0,
+     "pozycja": 7.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10369/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10412/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10428/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/11200/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 15.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21357/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 4.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21585/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 16
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21586/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 20
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/42240/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 11.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/60464/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/72037/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/75350/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/76417/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/77242/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    }
+   ]
+  },
+  "d28": {
+   "zakres": {
+    "od": "2026-10-04",
+    "do": "2026-11-01"
+   },
+   "suma": {
+    "clicks": 6,
+    "impressions": 432,
+    "ctr": 0.013888888888888888,
+    "position": 25.199074074074073
+   },
+   "frazy": [
+    {
+     "fraza": "me0110-311026",
+     "kliki": 1,
+     "wyswietlenia": 3,
+     "ctr": 33.33,
+     "pozycja": 1.3
+    },
+    {
+     "fraza": "\"black weeks\"",
+     "kliki": 0,
+     "wyswietlenia": 6,
+     "ctr": 0,
+     "pozycja": 5.8
+    },
+    {
+     "fraza": "\"disney pixar\"",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 4.5
+    },
+    {
+     "fraza": "\"las odkrywców\"",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 4.1
+    },
+    {
+     "fraza": "\"star wars\" \"andor\"",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 9.4
+    },
+    {
+     "fraza": "\"w smyku\"",
+     "kliki": 0,
+     "wyswietlenia": 16,
+     "ctr": 0,
+     "pozycja": 9.3
+    },
+    {
+     "fraza": "\"x-koń\" \"serwis\"",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "fraza": "70589",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 75
+    },
+    {
+     "fraza": "76959",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "fraza": "allegro black week",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 73
+    },
+    {
+     "fraza": "bank gringotta",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 64
+    },
+    {
+     "fraza": "bionicle",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 61
+    },
+    {
+     "fraza": "black friday lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 64
+    },
+    {
+     "fraza": "cena",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 21
+    },
+    {
+     "fraza": "czarny piątek lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 59
+    },
+    {
+     "fraza": "gry lego mixels",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 100
+    },
+    {
+     "fraza": "hidden side",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 54
+    },
+    {
+     "fraza": "ile kosztuje",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 20.5
+    },
+    {
+     "fraza": "klocki lego black week",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 56
+    },
+    {
+     "fraza": "klocki lego hero factory",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 36
+    },
+    {
+     "fraza": "klocki lego nowości",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 68
+    },
+    {
+     "fraza": "klocki lego promocje",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 64
+    },
+    {
+     "fraza": "klocki net",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 54.5
+    },
+    {
+     "fraza": "klocki pl",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 42
+    },
+    {
+     "fraza": "klocków",
+     "kliki": 0,
+     "wyswietlenia": 15,
+     "ctr": 0,
+     "pozycja": 97.2
+    },
+    {
+     "fraza": "kolekcjonerskie lego",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 69
+    },
+    {
+     "fraza": "kup klocki",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 63.3
+    },
+    {
+     "fraza": "kupklocki pl",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 44
+    },
+    {
+     "fraza": "lego 10662",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 89
+    },
+    {
+     "fraza": "lego 11388",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 18
+    },
+    {
+     "fraza": "lego 40297",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 14
+    },
+    {
+     "fraza": "lego 4539099",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "fraza": "lego 500 zł",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 51
+    },
+    {
+     "fraza": "lego 70815",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 63
+    },
+    {
+     "fraza": "lego 76058",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 49
+    },
+    {
+     "fraza": "lego 80033",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 53.5
+    },
+    {
+     "fraza": "lego art",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 47.3
+    },
+    {
+     "fraza": "lego bank",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 44
+    },
+    {
+     "fraza": "lego blue midnight",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 79
+    },
+    {
+     "fraza": "lego castle sets",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 67
+    },
+    {
+     "fraza": "lego creator 3w1 kot",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 77
+    },
+    {
+     "fraza": "lego dc",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 102.5
+    },
+    {
+     "fraza": "lego designer",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 72
+    },
+    {
+     "fraza": "lego duplo nowości",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 58
+    },
+    {
+     "fraza": "lego duplo promocja",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 36
+    },
+    {
+     "fraza": "lego elves",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 45
+    },
+    {
+     "fraza": "lego goku",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "fraza": "lego hero",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 52
+    },
+    {
+     "fraza": "lego hero factory",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 48
+    },
+    {
+     "fraza": "lego klub",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 44
+    }
+   ],
+   "strony": [
+    {
+     "strona": "https://tylkoklocki.pl/aktualnosci/",
+     "kliki": 1,
+     "wyswietlenia": 11,
+     "ctr": 9.09,
+     "pozycja": 20.7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-bam-pazdziernik-2026/",
+     "kliki": 1,
+     "wyswietlenia": 4,
+     "ctr": 25,
+     "pozycja": 9.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/media-expert-kod-lego-pazdziernik-2026/",
+     "kliki": 1,
+     "wyswietlenia": 23,
+     "ctr": 4.35,
+     "pozycja": 4.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-star-wars/",
+     "kliki": 1,
+     "wyswietlenia": 6,
+     "ctr": 16.67,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/ranking-kalendarze-adwentowe-lego-2026/",
+     "kliki": 1,
+     "wyswietlenia": 5,
+     "ctr": 20,
+     "pozycja": 8.4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/wycofania/",
+     "kliki": 1,
+     "wyswietlenia": 91,
+     "ctr": 1.1,
+     "pozycja": 7.1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/",
+     "kliki": 0,
+     "wyswietlenia": 84,
+     "ctr": 0,
+     "pozycja": 31.6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 14.1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/allegro-black-weeks-2026-lego/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 58.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/jak-rosly-zestawy-lego/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 11
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-11388-wenecka-okolica-premiera/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 8.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-11390-dragon-ball-shenron-goku-premiera/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-31163-psotny-kot-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 85.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-42215-koparka-volvo-ec500-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 6.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-60478-betoniarka-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-6391-cargo-center-historia/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 5.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-75434-droid-straznik-k-2so-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 9.4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-75438-popiersie-yody-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-77242-bolid-f1-ferrari-sf-24-recenzja/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-bam-halloween-2026/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 6.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-jesien-swieta-2026-premiery/",
+     "kliki": 0,
+     "wyswietlenia": 6,
+     "ctr": 0,
+     "pozycja": 10.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-ninjago-styczen-2027-przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 78
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-star-wars-styczen-2027-przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 9,
+     "ctr": 0,
+     "pozycja": 7.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 27
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 12
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/x-kom-aplikacja-weekend-lego-pazdziernik-2026/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/artykuly/x-kom-wyzsza-szkola-rabatu-2026-lego/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 2.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/deal-21330-kevin-sam-w-domu/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/deal-75192-sokol-millennium-minimum-przed-wycofaniem/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/deale/deal-75389-mroczny-sokol-minimum/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/ekskluzywne/",
+     "kliki": 0,
+     "wyswietlenia": 18,
+     "ctr": 0,
+     "pozycja": 30.2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/kalendarz-promocji-lego/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/nowosci/",
+     "kliki": 0,
+     "wyswietlenia": 22,
+     "ctr": 0,
+     "pozycja": 53
+    },
+    {
+     "strona": "https://tylkoklocki.pl/o-nas/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 3.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 10.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/lego-batman/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/na-mikolaja/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/prezenty-pod-choinke/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/prezentowniki/swieta-licencje/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 57
+    },
+    {
+     "strona": "https://tylkoklocki.pl/promocje-lego/",
+     "kliki": 0,
+     "wyswietlenia": 13,
+     "ctr": 0,
+     "pozycja": 31.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/przecieki/",
+     "kliki": 0,
+     "wyswietlenia": 13,
+     "ctr": 0,
+     "pozycja": 6.4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/",
+     "kliki": 0,
+     "wyswietlenia": 16,
+     "ctr": 0,
+     "pozycja": 30.1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/archiwum/",
+     "kliki": 0,
+     "wyswietlenia": 5,
+     "ctr": 0,
+     "pozycja": 30.4
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/art/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 47.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/bionicle/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 61
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/bricklink-designer-program/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 72
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/castle/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 67
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/creator/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 51.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/dc/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 102.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/dots/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/duplo/",
+     "kliki": 0,
+     "wyswietlenia": 6,
+     "ctr": 0,
+     "pozycja": 9.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/education/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/elves/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 45
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/harry-potter/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 5.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/hero-factory/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 45.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/hidden-side/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 54
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/icons/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/marvel/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/mixels/",
+     "kliki": 0,
+     "wyswietlenia": 8,
+     "ctr": 0,
+     "pozycja": 44.9
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/monkie-kid/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 42.7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/nexo-knights/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 61.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/ninjago/",
+     "kliki": 0,
+     "wyswietlenia": 6,
+     "ctr": 0,
+     "pozycja": 7.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/pirates/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 37.8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/seasonal/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/smart-play/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 56.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/super-mario/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/technic/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/vidiyo/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/serie/wednesday/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 47.3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10311/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 1
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10312/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 44
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10342/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10369/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 8
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10412/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/10428/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/11039/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/11200/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 15.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21357/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 4.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21585/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 16
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/21586/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 20
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/30719/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 10
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/31100/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/31221/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/42240/",
+     "kliki": 0,
+     "wyswietlenia": 2,
+     "ctr": 0,
+     "pozycja": 11.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/42653/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 2
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/60464/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/72037/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 3
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/75348/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 11
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/75350/",
+     "kliki": 0,
+     "wyswietlenia": 3,
+     "ctr": 0,
+     "pozycja": 4.7
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/75355/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 39
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/76354/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 53
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/76417/",
+     "kliki": 0,
+     "wyswietlenia": 4,
+     "ctr": 0,
+     "pozycja": 28.5
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/76420/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 11
+    },
+    {
+     "strona": "https://tylkoklocki.pl/zestaw/76959/",
+     "kliki": 0,
+     "wyswietlenia": 1,
+     "ctr": 0,
+     "pozycja": 6
+    }
+   ]
+  }
+ },
+ "kliki": {
+  "d7": {
+   "okno_dni": 7,
+   "filtr": "tylko ruch ludzki (blob6 = human)",
+   "kliki_lacznie": 87,
+   "podzial_ruchu": {
+    "bot": 2313,
+    "test": 21,
+    "human": 87
+   },
+   "per_sklep": [
+    {
+     "sklep": "mediaexpert",
+     "kliki": 39
+    },
+    {
+     "sklep": "allegro",
+     "kliki": 29
+    },
+    {
+     "sklep": "smyk",
+     "kliki": 6
+    },
+    {
+     "sklep": "empik",
+     "kliki": 5
+    },
+    {
+     "sklep": "lego",
+     "kliki": 4
+    },
+    {
+     "sklep": "ceneo",
+     "kliki": 2
+    },
+    {
+     "sklep": "xkom",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediamarkt",
+     "kliki": 1
+    }
+   ],
+   "stan_linku": [
+    {
+     "stan": "ok",
+     "kliki": 87
+    }
+   ],
+   "top_sety": [
+    {
+     "sklep": "smyk",
+     "numer": "21333",
+     "kliki": 5
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "76354",
+     "kliki": 4
+    },
+    {
+     "sklep": "allegro",
+     "numer": "75409",
+     "kliki": 2
+    },
+    {
+     "sklep": "allegro",
+     "numer": "75337",
+     "kliki": 2
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "71871",
+     "kliki": 2
+    },
+    {
+     "sklep": "allegro",
+     "numer": "21333",
+     "kliki": 2
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "76451",
+     "kliki": 2
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "77982",
+     "kliki": 2
+    },
+    {
+     "sklep": "allegro",
+     "numer": "76322",
+     "kliki": 1
+    },
+    {
+     "sklep": "empik",
+     "numer": "71814",
+     "kliki": 1
+    },
+    {
+     "sklep": "empik",
+     "numer": "10480",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "71853",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "31168",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "42232",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "21063",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "42642",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "43298",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "72151",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "10362",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "75640",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "42705",
+     "kliki": 1
+    },
+    {
+     "sklep": "smyk",
+     "numer": "10333",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "11383",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "21588",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "10315",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "31166",
+     "kliki": 1
+    },
+    {
+     "sklep": "xkom",
+     "numer": "11381",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "21274",
+     "kliki": 1
+    },
+    {
+     "sklep": "allegro",
+     "numer": "42665",
+     "kliki": 1
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "43272",
+     "kliki": 1
+    }
+   ],
+   "kraje": [
+    {
+     "kraj": "PL",
+     "kliki": 55
+    },
+    {
+     "kraj": "BR",
+     "kliki": 8
+    },
+    {
+     "kraj": "JP",
+     "kliki": 4
+    },
+    {
+     "kraj": "AR",
+     "kliki": 3
+    },
+    {
+     "kraj": "US",
+     "kliki": 3
+    },
+    {
+     "kraj": "NO",
+     "kliki": 2
+    },
+    {
+     "kraj": "DO",
+     "kliki": 2
+    },
+    {
+     "kraj": "BD",
+     "kliki": 1
+    },
+    {
+     "kraj": "VE",
+     "kliki": 1
+    },
+    {
+     "kraj": "TN",
+     "kliki": 1
+    }
+   ]
+  },
+  "d28": {
+   "okno_dni": 28,
+   "filtr": "tylko ruch ludzki (blob6 = human)",
+   "kliki_lacznie": 951,
+   "podzial_ruchu": {
+    "bot": 18687,
+    "test": 38,
+    "human": 951
+   },
+   "per_sklep": [
+    {
+     "sklep": "allegro",
+     "kliki": 482
+    },
+    {
+     "sklep": "mediaexpert",
+     "kliki": 169
+    },
+    {
+     "sklep": "empik",
+     "kliki": 156
+    },
+    {
+     "sklep": "lego",
+     "kliki": 34
+    },
+    {
+     "sklep": "xkom",
+     "kliki": 30
+    },
+    {
+     "sklep": "ceneo",
+     "kliki": 27
+    },
+    {
+     "sklep": "smyk",
+     "kliki": 27
+    },
+    {
+     "sklep": "lidl",
+     "kliki": 17
+    },
+    {
+     "sklep": "planetaklockow",
+     "kliki": 8
+    },
+    {
+     "sklep": "mediamarkt",
+     "kliki": 1
+    }
+   ],
+   "stan_linku": [
+    {
+     "stan": "ok",
+     "kliki": 951
+    }
+   ],
+   "top_sety": [
+    {
+     "sklep": "allegro",
+     "numer": "6869",
+     "kliki": 16
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "76354",
+     "kliki": 13
+    },
+    {
+     "sklep": "lidl",
+     "numer": "76313",
+     "kliki": 7
+    },
+    {
+     "sklep": "allegro",
+     "numer": "76156",
+     "kliki": 6
+    },
+    {
+     "sklep": "smyk",
+     "numer": "21333",
+     "kliki": 6
+    },
+    {
+     "sklep": "allegro",
+     "numer": "21330",
+     "kliki": 5
+    },
+    {
+     "sklep": "empik",
+     "numer": "30716",
+     "kliki": 5
+    },
+    {
+     "sklep": "allegro",
+     "numer": "11208",
+     "kliki": 5
+    },
+    {
+     "sklep": "empik",
+     "numer": "11208",
+     "kliki": 5
+    },
+    {
+     "sklep": "ceneo",
+     "numer": "76345",
+     "kliki": 4
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "11208",
+     "kliki": 4
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "11198",
+     "kliki": 4
+    },
+    {
+     "sklep": "xkom",
+     "numer": "11381",
+     "kliki": 4
+    },
+    {
+     "sklep": "empik",
+     "numer": "76175",
+     "kliki": 4
+    },
+    {
+     "sklep": "allegro",
+     "numer": "30716",
+     "kliki": 4
+    },
+    {
+     "sklep": "empik",
+     "numer": "76345",
+     "kliki": 4
+    },
+    {
+     "sklep": "lego",
+     "numer": "76355",
+     "kliki": 4
+    },
+    {
+     "sklep": "allegro",
+     "numer": "21333",
+     "kliki": 4
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "10354",
+     "kliki": 3
+    },
+    {
+     "sklep": "lego",
+     "numer": "21333",
+     "kliki": 3
+    },
+    {
+     "sklep": "allegro",
+     "numer": "72153",
+     "kliki": 3
+    },
+    {
+     "sklep": "allegro",
+     "numer": "76226",
+     "kliki": 3
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "11370",
+     "kliki": 3
+    },
+    {
+     "sklep": "ceneo",
+     "numer": "30716",
+     "kliki": 3
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "75409",
+     "kliki": 3
+    },
+    {
+     "sklep": "allegro",
+     "numer": "76155",
+     "kliki": 3
+    },
+    {
+     "sklep": "mediaexpert",
+     "numer": "40824",
+     "kliki": 3
+    },
+    {
+     "sklep": "empik",
+     "numer": "76156",
+     "kliki": 3
+    },
+    {
+     "sklep": "allegro",
+     "numer": "30454",
+     "kliki": 3
+    },
+    {
+     "sklep": "allegro",
+     "numer": "76281",
+     "kliki": 3
+    }
+   ],
+   "kraje": [
+    {
+     "kraj": "PL",
+     "kliki": 195
+    },
+    {
+     "kraj": "BR",
+     "kliki": 165
+    },
+    {
+     "kraj": "AR",
+     "kliki": 75
+    },
+    {
+     "kraj": "CO",
+     "kliki": 46
+    },
+    {
+     "kraj": "PK",
+     "kliki": 30
+    },
+    {
+     "kraj": "MA",
+     "kliki": 30
+    },
+    {
+     "kraj": "BD",
+     "kliki": 29
+    },
+    {
+     "kraj": "CL",
+     "kliki": 28
+    },
+    {
+     "kraj": "ZA",
+     "kliki": 25
+    },
+    {
+     "kraj": "MX",
+     "kliki": 21
+    }
+   ]
+  }
+ }
+}
