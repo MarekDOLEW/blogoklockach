@@ -153,6 +153,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-03 10:30 · CODE · Po pierwszym przebiegu GitHub: liczby elementów + slugify recenzji
+
+**Domknięte „Zrobić” z wpisu 08:55 (decyzja Marka: poprawiamy u nas).** W `karty_setow.json` poprawione liczby elementów w akapitach i polu `elementy`: 40519 253→254, 80056 755→757 (zgodnie z metryką i Bricksetem). Treści w repo Piotra bez zmian.
+**Slugify naprawione w `import-artykul-md.py`:** (1) recenzje dostają slug z konwencji `lego-<nr>-<nazwa>-recenzja` (nazwa z `sety.json`, bez dopisku „SMART Play:”, limit 70 zachowany), zamiast ucinanego tytułu; (2) przy ucięciu długiego tytułu slug nie kończy się już spójnikiem/przyimkiem („…-dla-fanow-ktorzy”). Opublikowana recenzja 21276 zostaje pod starym adresem — rejestr skrzynki trzyma jej slug, więc nic się nie przemianowuje.
+
 ## 2026-11-03 08:55 · CODE · Skrzynka (GitHub): 25 kart P07 + recenzja 21276 Creeper
 
 **Pierwszy przebieg kanału GitHub (`tylkoklocki-teksty`): 25 kart z partii 29–31 listy dla Piotra (`25a2f78` + `381ac91`) i recenzja Recenzje_016 https://tylkoklocki.pl/artykuly/lego-minecraft-21276-creeper-duza-zielona-figurka-dla-fanow-ktorzy/ (`25a2f78`).** Rejestr kart: 1849. Źródła w repo tekstów przeniesione do `opublikowane/` (`add64d5` w tylkoklocki-teksty — repo dodane do sesji z prawem zapisu, wcześniej proxy odmawiało pushu).

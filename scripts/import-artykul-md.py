@@ -62,14 +62,43 @@ def ma_zdjecie_setu(nr):
     return False
 
 
-def slugify(tekst):
+# spójniki/przyimki/zaimki, na których ucięty slug nie może się kończyć („…-dla-fanow-ktorzy”)
+SLUG_STOP = {'i', 'a', 'o', 'u', 'w', 'z', 'na', 'do', 'od', 'po', 'za', 'ze', 'we', 'dla',
+             'ale', 'czy', 'jak', 'gdy', 'bez', 'pod', 'nad', 'przy', 'oraz', 'albo', 'lub',
+             'ktory', 'ktora', 'ktore', 'ktorzy', 'sie', 'to', 'ten', 'ta', 'te', 'co'}
+
+
+def slugify(tekst, limit=70):
     t = tekst.lower().replace('ł', 'l')
     # pozostałe znaki diakrytyczne (ą, é, í…) rozkładamy na literę + akcent i akcent wyrzucamy —
     # inaczej „Família” dawała „fam-lia” (01.11.2026); ł nie ma rozkładu, stąd osobno wyżej
     t = ''.join(c for c in unicodedata.normalize('NFD', t) if unicodedata.category(c) != 'Mn')
     s = re.sub(r'-+', '-', re.sub(r'[^a-z0-9]+', '-', t)).strip('-')
-    # ucinamy na granicy słowa, żeby adres nie kończył się w pół wyrazu („…-scena-”, „…-rzad”)
-    return s if len(s) <= 70 else s[:71].rsplit('-', 1)[0]
+    if len(s) <= limit:
+        return s
+    # ucinamy na granicy słowa, żeby adres nie kończył się w pół wyrazu („…-scena-”, „…-rzad”),
+    # a po ucięciu zdejmujemy wiszące spójniki/przyimki, żeby nie wyszło „…-dla-fanow-ktorzy”
+    czlony = s[:limit + 1].rsplit('-', 1)[0].split('-')
+    while len(czlony) > 1 and czlony[-1] in SLUG_STOP:
+        czlony.pop()
+    return '-'.join(czlony)
+
+
+def slug_recenzji(zestawy):
+    """Recenzje: lego-<nr>-<nazwa>-recenzja (konwencja z 02.11.2026) zamiast slugu z tytułu."""
+    if not zestawy:
+        return None
+    nr = zestawy[0]
+    try:
+        with open(os.path.join(KATALOG, 'src', 'data', 'sety.json'), encoding='utf-8') as f:
+            nazwa = json.load(f).get(nr, {}).get('nazwa')
+    except (OSError, ValueError):
+        nazwa = None
+    if not nazwa:
+        return None
+    # „SMART Play:” to dopisek podmarki, nie nazwa zestawu (75421 → …-mysliwiec-tie-…)
+    nazwa = re.sub(r'^SMART Play:\s*', '', nazwa)
+    return slugify(f'lego {nr} {nazwa}', limit=61) + '-recenzja'
 
 
 def slug_serii(seria):
@@ -168,11 +197,13 @@ def importuj(plik, slug=None, zapisuj=True, wsad=None):
     if not linie or not linie[0].startswith('# '):
         raise SystemExit('Pierwszy wiersz pliku powinien być „# Tytuł”.')
     tytul = linie.pop(0)[2:].strip()
-    slug = slug or slugify(tytul)
     tresc = '\n'.join(linie).strip()
 
     zestawy = re.findall(r'\d{4,7}', dane.get('Zestawy', ''))
     kategoria = dane.get('Kategoria') or kategoria_z_nazwy(plik)
+    if not slug and kategoria == 'Recenzje':
+        slug = slug_recenzji(zestawy)
+    slug = slug or slugify(tytul)
     if kategoria not in KATEGORIE:
         uwagi.append(f'kategoria „{kategoria}” spoza listy {KATEGORIE}')
 
