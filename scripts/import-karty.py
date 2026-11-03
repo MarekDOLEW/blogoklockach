@@ -95,8 +95,9 @@ def parsuj(path):
                       else 'faq' if ('FAQ' in t or 'pytania' in t.lower()) else 'inne')
             continue
         if sekcja is None:
-            # 6–7 cyfr: BrickLink Designer Program (910xxx), LEGO House/ekskluzywy (5009325) – partie 05–07, 18.10.2026
-            m = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,7})(?:\s|$)', t)
+            # 6–7 cyfr: BrickLink Designer Program (910xxx), LEGO House/ekskluzywy (5009325) – partie 05–07, 18.10.2026;
+            # litera + cyfry: numery katalogowe typu L0002220 (minifigurki z pojazdem) – od 03.11.2026
+            m = re.match(r'LEGO (?:[A-Za-z ]+ )?([A-Z]\d{5,8}|\d{4,7})(?:\s|$)', t)
             if m and not d['nr']: d['nr'] = m.group(1); continue
             if d['nr']: d['akapity'].append(t)   # P07c: opis bez nagłówka, zaraz pod tytułem
         elif sekcja == 'opis': d['akapity'].append(t)
@@ -161,7 +162,7 @@ def parsuj_md(path):
             zamknij()
             poziom, tytul = len(m.group(1)), m.group(2)
             if poziom == 1:
-                mn = re.match(r'LEGO (?:[A-Za-z ]+ )?(\d{4,7})(?:\s|$)', tytul)
+                mn = re.match(r'LEGO (?:[A-Za-z ]+ )?([A-Z]\d{5,8}|\d{4,7})(?:\s|$)', tytul)
                 if mn and not d['nr']: d['nr'] = mn.group(1)
                 continue
             if sekcja == 'faq' and poziom >= 3:
