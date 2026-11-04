@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-03"
+  "zaktualizowano": "2026-11-04"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -317,6 +317,18 @@
    "https://tylkoklocki.pl/zestaw/11208/",
    "https://tylkoklocki.pl/zestaw/31161/",
    "https://tylkoklocki.pl/zestaw/42675/"
+  ],
+  "2026-11-04": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/10476/",
+   "https://tylkoklocki.pl/zestaw/11208/",
+   "https://tylkoklocki.pl/zestaw/31161/",
+   "https://tylkoklocki.pl/zestaw/42675/",
+   "https://tylkoklocki.pl/artykuly/lego-minecraft-21276-creeper-duza-zielona-figurka-dla-fanow-ktorzy/",
+   "https://tylkoklocki.pl/deale/deal-75446-grogu-uczen-mandalorianina-minimum/",
+   "https://tylkoklocki.pl/zestaw/42681/",
+   "https://tylkoklocki.pl/zestaw/42689/",
+   "https://tylkoklocki.pl/serie/star-wars/"
   ]
  }
 }
