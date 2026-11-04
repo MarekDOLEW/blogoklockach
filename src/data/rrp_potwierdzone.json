@@ -4966,5 +4966,10 @@
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
     "zaktualizowano": "2026-11-04"
+  },
+  "21375": {
+    "cena": 1699.99,
+    "zrodlo": "lego.com/pl-pl — karta produktu (Firecrawl)",
+    "data": "04.11.2026"
   }
 }

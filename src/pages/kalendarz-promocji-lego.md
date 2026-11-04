@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-10-28"
+zaktualizowano: "2026-11-04"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -356,7 +356,7 @@ W ten sam miesiąc wpada jedno wydarzenie stacjonarne – prywatne zakupy w salo
 
 Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat" wyglądał lepiej. My liczymy każdy rabat **od oficjalnej ceny katalogowej LEGO** – sprawdzisz to na podstronie każdego zestawu, a bieżące realne okazje znajdziesz na [stronie głównej](/).
 
-**Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5364 elementy) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. Ceny katalogowej LEGO jeszcze nie ogłosiło, więc dopóki jej nie poda, nikt – łącznie z nami – nie policzy, czy to dobra cena. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
+**Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5363 elementy) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. LEGO podało już polską cenę katalogową: **1699,99 zł**, czyli około **0,32 zł za element**. To przelicznik typowy dla dużych zestawów Ideas, a nie okazja – i tego dnia nikt nie zejdzie poniżej tej kwoty, bo zestaw właśnie wchodzi do sprzedaży. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
 

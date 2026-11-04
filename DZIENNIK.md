@@ -154,6 +154,20 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-04 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 03.11** — Wydali profil 21375 Godzilli bez polskiej ceny, ale ich tekst kazał sprawdzić kartę zestawu — i tam cena **już jest**: 1699,99 zł, „Wkrótce dostępne (27 listopada 2026)", 5363 elementy.
+**Mamy?** — nie mieliśmy: `cena_katalogowa: null`, brak wpisu w `rrp_potwierdzone.json` i **dwa zdania na produkcji** twierdzące, że LEGO ceny nie podało — w opisie zestawu i w sekcji Black Friday kalendarza, gdzie akapit kończył się puentą „nikt – łącznie z nami – nie policzy, czy to dobra cena".
+**Zrobić:** — zrobione w tym przebiegu: `rrp_potwierdzone.json` (993 → 994 wpisy), `cena_katalogowa` w `sety.json`, oba zdania przepisane; kalendarz podaje teraz 1699,99 zł i 0,32 zł za element z wnioskiem, że to przelicznik typowy dla dużych Ideas, a nie okazja. Przy okazji poprawione **5364 → 5363 elementy** w kalendarzu.
+**Kto:** — Code (dane, strona)
+
+Wniosek warty zapisania poza samą pozycją: ich publikacja **nie przyniosła ani jednej nowej liczby**, a i tak
+była najwartościowszym sygnałem tygodnia — bo dotknęła numeru, przy którym nasz własny tekst mówił „jeszcze
+nie wiemy". Takie zdania w naszych tekstach to terminy do odwiedzenia, nie stan trwały; warto je traktować
+jak otwarte pozycje. Kandydat na rozszerzenie `swiezosc-tekstow.mjs`: wyłapywać frazy typu „ceny jeszcze nie
+ogłoszono", „nie podano", „nie wiemy" przy numerze, który **ma już** potwierdzoną cenę albo wpis w danych.
+
+
 ## 2026-11-04 08:10 · CODE · Zdjęcia → R2: nocny przebieg zablokował klasyfikator „Code from External"
 
 **Routine „LEGO 04:45 — Zdjęcia → R2" (`trig_01EAhU5SKn2GuXxY14WYxNkJ`, cron `45 2 * * *` = od zmiany czasu 03:45 PL) 04.11 o 03:46 ma status SUCCEEDED, ale skryptu nie uruchomił.** Transkrypt sesji `cse_01MLTH64w1w3Ln4Ai5nENWAX`: klon repo i `npm ci` przeszły, a `node scripts/r2-obrazy.mjs` odrzucił klasyfikator trybu auto z powodem „Code from External" (Routine ze świeżą sesją nie ma repo w źródłach — klonuje je w trakcie, więc skrypt z klonu jest dla klasyfikatora kodem z zewnątrz; ten sam mechanizm opisany 15.09 przy LEGO.pl). Sesja wysłała push na telefon i zakończyła się czysto, dlatego `last_run` mówi SUCCEEDED. Dowodem przebiegu jest wyłącznie ślad `_stan/r2-obrazy.json` w R2, a ten miał datę 03.11 08:47 UTC (przebieg 09:45). Decyzja klasyfikatora nie jest powtarzalna: 03.11 o 09:46 identyczne polecenie w świeżej sesji przeszło (11 723 obiekty, brakowało 0).
