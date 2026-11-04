@@ -654,6 +654,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11227": {
+    "cena": 84.99,
+    "zrodlo": "lego.pl — karty produktów, potwierdzone przez Marka",
+    "data": "04.11.2026"
+  },
   "11370": {
     "cena": 1199.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2138,6 +2143,11 @@
     "cena": 519.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42254": {
+    "cena": 429.99,
+    "zrodlo": "lego.pl — karty produktów, potwierdzone przez Marka",
+    "data": "04.11.2026"
   },
   "42621": {
     "cena": 429.99,
@@ -4955,6 +4965,6 @@
     "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
-    "zaktualizowano": "2026-11-03"
+    "zaktualizowano": "2026-11-04"
   }
 }

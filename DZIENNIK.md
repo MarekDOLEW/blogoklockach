@@ -164,6 +164,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: huby pokazują te kwoty jako ofertę sklepu, ale w `sety.json` nie ma ceny katalogowej, a `rrp_potwierdzone.json` nie zna żadnego z tych numerów — więc rabat nie ma od czego się liczyć.
 **Zrobić:** — potwierdzić obie kwoty na kartach produktów na lego.pl w przeglądarce i wczytać je do rejestru: `node scripts/wczytaj-rrp.mjs` z wejściem `{"42254": 429.99, "11227": 84.99}`. Sam tego nie zrobię — serwer dostaje z lego.pl 403, a rejestr RRP z założenia uzupełnia człowiek albo Cowork z prawdziwą przeglądarką.
 **Kto:** — Cowork (przeglądarka)
+→ zamknięte 04.11.2026: Marek potwierdził obie kwoty i polecił je wczytać. W rejestrze `rrp_potwierdzone.json` są wpisy 42254 = 429,99 zł i 11227 = 84,99 zł, źródło „lego.pl — karty produktów, potwierdzone przez Marka"; huby obu zestawów podają już cenę katalogową. Cowork nie musi tego robić.
 
 
 ## 2026-11-03 15:00 · CODE · Skrzynka (GitHub): 69 kart P07, numery z literą, katalog wg Brickseta
