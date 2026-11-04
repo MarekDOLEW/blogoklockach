@@ -153,6 +153,15 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-04 08:10 · CODE · Zdjęcia → R2: nocny przebieg zablokował klasyfikator „Code from External"
+
+**Routine „LEGO 04:45 — Zdjęcia → R2" (`trig_01EAhU5SKn2GuXxY14WYxNkJ`, cron `45 2 * * *` = od zmiany czasu 03:45 PL) 04.11 o 03:46 ma status SUCCEEDED, ale skryptu nie uruchomił.** Transkrypt sesji `cse_01MLTH64w1w3Ln4Ai5nENWAX`: klon repo i `npm ci` przeszły, a `node scripts/r2-obrazy.mjs` odrzucił klasyfikator trybu auto z powodem „Code from External" (Routine ze świeżą sesją nie ma repo w źródłach — klonuje je w trakcie, więc skrypt z klonu jest dla klasyfikatora kodem z zewnątrz; ten sam mechanizm opisany 15.09 przy LEGO.pl). Sesja wysłała push na telefon i zakończyła się czysto, dlatego `last_run` mówi SUCCEEDED. Dowodem przebiegu jest wyłącznie ślad `_stan/r2-obrazy.json` w R2, a ten miał datę 03.11 08:47 UTC (przebieg 09:45). Decyzja klasyfikatora nie jest powtarzalna: 03.11 o 09:46 identyczne polecenie w świeżej sesji przeszło (11 723 obiekty, brakowało 0).
+- Skutek: żaden. Uruchomione z tej sesji (repo w źródłach, `CF_R2_TOKEN` jest): „W R2: 11723 obiektów, zdjęć w danych 11720 (z Planety 5649), brakuje w R2: 0" — krok 3a Łowcy (zdjęcia zaraz po pushu) i przebieg 09:45 pokrywają to, co nocny przebieg by dograł. Ślad w R2 odświeżony.
+- Co sprawdzać, gdy runner „nie rusza": nie `last_run` (SUCCEEDED = sesja się skończyła), tylko pole `kiedy` w `_stan/r2-obrazy.json` (`curl` na REST API R2 z `CF_R2_TOKEN`) i `permission_denials` w `list_events` sesji z `last_run.session_id`.
+**Mamy?** — częściowo: oba przebiegi Zdjęcia → R2 (03:45 i 09:45) są Routine ze świeżą sesją i każdy może trafić na tę samą blokadę; siatka działa tylko wtedy, gdy klasyfikator przepuści.
+**Zrobić:** — przepiąć „Zdjęcia → R2" na trwałą sesję z repo w źródłach, jak Łowca i Kolejka indeksacji: `create_session(source_url)` + nowy `create_trigger(persistent_session_id)` z tym samym cronem (jeden trigger na 03:45 i jeden na 09:45 PL, albo jeden o 09:45, bo nocny dogrywa tylko to, co zostawiły sesje ręczne); stary 09:45 `trig_01XAJy9vca6HUK6YY3XarLWM` kasuje sesja Code, panelowy 04:45 `trig_01EAhU5SKn2GuXxY14WYxNkJ` kasuje Marek (`claude.ai/code/routines/trig_01EAhU5SKn2GuXxY14WYxNkJ`). Alternatywa bez nowej sesji: zostawić jak jest i przyjąć, że pojedyncze przebiegi wypadają — Łowca i tak wgrywa zdjęcia po każdym pushu.
+**Kto:** — Marek (decyzja), wykonanie Code
 ## 2026-11-04 05:14 · SCOUT · Do zrobienia
 
 **LEGO odsłoniło 3 listopada Ideas Godzilla (21375): 5363 elementy, 399,99 euro, 18+, premiera 27 listopada w dniu Black Friday, ponad 70 cm wysokości, z gratisem 40888 Logo Godzilli ze śladem stopy (359 elementów, wycena 24,99 euro). W dziale Artykuły nie ma o tym ani jednego tekstu.**
