@@ -45100,14 +45100,13 @@
   "nazwa": "Godzilla",
   "seria": "Ideas",
   "cena_katalogowa": null,
-  "elementy": 5364,
+  "elementy": 5363,
   "wiek": "18+",
   "premiera": "2026-11",
-  "opis": "Licencjonowany zestaw z linii Ideas – model Godzilli, według dotychczasowych danych z 5364 elementów, co stawiałoby go wśród największych zestawów rocznika 2026. Zapowiadany start to 27 listopada, czyli tydzień Black Friday, a według PromoBricks oficjalna zapowiedź ma paść na transmisji LEGO 3 listopada 2026. LEGO nie potwierdziło jeszcze oficjalnie nazwy ani liczby elementów, dlatego traktujemy zestaw jako przeciek – szczegóły w dziale Przecieki.",
-  "dla_rodzica": "Zestaw dla dorosłego zbieracza, nie dla dziecka — oznaczenie 18+ wynika ze skali i złożoności budowy. To model wystawowy, który po złożeniu zajmuje sporo miejsca na półce; przed zakupem na prezent warto sprawdzić, czy obdarowany ma gdzie go postawić.",
-  "dla_afol": "Ceny LEGO jeszcze nie podało, więc progu zakupu na razie nie da się policzyć. Warto pilnować terminu: premiera 27 listopada oznacza wejście do sprzedaży już po starcie wyprzedaży Black Friday, więc na rabat w pierwszym sezonie nie ma co liczyć – nowości z tego okna schodzą w cenie katalogowej.",
-  "oferty": [],
-  "status_nowosci": "przeciek"
+  "opis": "Figura Godzilli z linii Ideas: 5363 elementy i ponad 70 cm wysokości, w wersji znanej z filmów Legendary Monsterverse. Model jest ruchomy — ogon buduje się z wychyleniem w lewo albo w prawo, a głowa, ramiona, nadgarstki i palce pozwalają ustawić figurę w wybranej pozie. Z paszczy wyjmuje się język i wpina w jego miejsce element promienia cieplnego. To projekt fana o pseudonimie MattE720, wybrany w programie LEGO Ideas. Premiera 27 listopada 2026, w dniu Black Friday; cena w strefie euro to 399,99 euro, polskiej ceny katalogowej LEGO jeszcze nie ogłosiło.",
+  "dla_rodzica": "Oznaczenie 18+ wynika ze skali i złożoności budowy, nie z treści, ale to i tak model wystawowy dla dorosłego zbieracza, a nie zabawka. Po złożeniu ma ponad 70 cm wysokości, więc przed zakupem na prezent warto sprawdzić, czy jest gdzie go postawić. Ruchome stawy i wymienny promień cieplny dają trochę zabawy w pozowanie, ale figury tej wielkości nie przestawia się codziennie.",
+  "dla_afol": "Największy zestaw w historii linii Ideas i jedyna duża premiera w dniu Black Friday. Wejście do sprzedaży 27 listopada, w szczycie wyprzedaży, oznacza, że rabatu w pierwszym sezonie nie będzie — nowość z tego okna schodzi po cenie katalogowej. Do zakupu w sklepie LEGO dołącza gratis 40888 Logo Godzilli ze śladem stopy (359 elementów, wycenione na 24,99 euro) i to jedyna realna korzyść z kupna na premierę.",
+  "oferty": []
  },
  "21373": {
   "nazwa": "Downton Abbey",
@@ -49064,5 +49063,17 @@
     "data": "2026-11-03"
    }
   ]
+ },
+ "40888": {
+  "nazwa": "Logo Godzilli ze śladem stopy",
+  "seria": "Ideas",
+  "cena_katalogowa": null,
+  "elementy": 359,
+  "wiek": "18+",
+  "premiera": "2026-11",
+  "opis": "Tabliczka z logo Godzilli i odciskiem stopy, 359 elementów. Zestaw jest dodawany za darmo do zakupu figury Godzilli (21375) w sklepie LEGO od 27 listopada 2026 i nie jest sprzedawany osobno; producent wycenia go na 24,99 euro.",
+  "dla_rodzica": "Tego zestawu się nie kupuje — trafia do koszyka razem z dużą figurą Godzilli (21375). Oznaczenie 18+ idzie za zestawem głównym, bo sama tabliczka to drobiazg na półkę, a nie zabawka. Bez zakupu figury nie da się go zdobyć inaczej niż z drugiej ręki.",
+  "dla_afol": "Dodatek ekspozycyjny do figury: logo i odcisk stopy, czyli gotowa podstawka pod zdjęcie albo element tła dla modelu. 359 elementów przy wycenie 24,99 euro to więcej, niż zwykle dostaje się w gratisie. Liczy się tylko w oknie premierowym — potem zostaje rynek wtórny.",
+  "oferty": []
  }
 }
