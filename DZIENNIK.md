@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-04 05:14 · SCOUT · Do zrobienia
+
+**LEGO odsłoniło 3 listopada Ideas Godzilla (21375): 5363 elementy, 399,99 euro, 18+, premiera 27 listopada w dniu Black Friday, ponad 70 cm wysokości, z gratisem 40888 Logo Godzilli ze śladem stopy (359 elementów, wycena 24,99 euro). W dziale Artykuły nie ma o tym ani jednego tekstu.**
+**Mamy?** — częściowo: huby `/zestaw/21375/` i `/zestaw/40888/` stoją z oficjalnymi danymi i są indeksowalne, zestaw wchodzi do `/nowosci/listopad-2026/` i na `/serie/ideas/`, a rozstrzygnięcie widać na `/przecieki/`. Brakuje tekstu.
+**Zrobić:** — napisać tekst premierowy o 21375 w kategorii Premiery, na podstawie huba: największy zestaw w historii linii Ideas, ruchomy ogon, głowa, ramiona i palce, wyjmowany język i wpinany promień cieplny, projekt fana MattE720, wersja z filmów Legendary Monsterverse. Teza, która odróżni tekst od zapowiedzi konkurencji: premiera w dniu Black Friday nie jest okazją — zestaw wchodzi po cenie katalogowej, a jedyną realną korzyścią z kupna na premierę jest gratis 40888. Polskiej ceny katalogowej jeszcze nie ma, więc albo tekst czeka na nią, albo podaje 399,99 euro i zostawia miejsce na złotówki.
+**Kto:** — Piotr (tekst)
+
+
 ## 2026-11-03 15:00 · CODE · Skrzynka (GitHub): 69 kart P07, numery z literą, katalog wg Brickseta
 
 **69 nowych kart z kanału GitHub na stronie (`2d22213`), w tym 49 zestawów w sprzedaży (Minecraft 21591–21598, Creator 31383–31393, Pokémon 72150–72168, Marvel/DC 67005–67012, BrickLink 910055–910067, L0002220–L0002223).** Żaden nie miał wcześniej karty. Źródła przeniesione do `opublikowane/` w tylkoklocki-teksty.
@@ -510,6 +518,12 @@ w sekcji `#listopad` ma dziś „ok. 21–26.11" dla Insiders Weekend i sam 27.1
 Plakietka „przewidywane" zostaje słusznie: StoneWars pisze wprost, że LEGO reklamuje już oba
 wydarzenia w sklepie, ale szczegółów nie ujawnia. Przy tej samej poprawce warto więc wstawić obie
 daty z przypisem, czyje one są.
+↻ 04.11.2026: nadal aktualne, ale treść poprawki się zmieniła — **widełki cenowe są już
+nieaktualne**. LEGO odsłoniło zestaw 3 listopada: cena to **399,99 euro**, premiera 27 listopada,
+5363 elementy. W sekcji `#listopad` wystarczy więc podać jedną kwotę zamiast dwóch, a zdanie
+o nieogłoszonej cenie zastąpić informacją, że polskiej ceny katalogowej wciąż nie ma. Akapit
+o premierze bez rabatu zostaje w mocy i zyskał konkret: gratis 40888 jest jedyną korzyścią
+z zakupu 27 listopada.
 
 **107 zestawów ma w `katalog.json` status `dostepny` i aktualne oferty w `oferty_feed.json`, a nie ma ich w `sety.json` — czyli bez śledzonego minimum, bez alertu cenowego i bez wejścia do „Dziś w dobrej cenie".**
 **Mamy?** — częściowo: huby tych zestawów stoją i pokazują ceny z feedu, ale rejestru nie mają. To inna lista niż ta domknięta 29.10 — tamta brała tylko zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25%; ta nie ma progu rabatu i obejmuje też pozycje bez ceny katalogowej.
