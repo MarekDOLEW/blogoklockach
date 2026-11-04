@@ -113,8 +113,10 @@ zdublowana praca na plikach po 2 MB.
 Scout, Wycofania, Łowca, Radar i (od 22.09.2026) „Dane wt 05:30"
 działają jako trwałe sesje Claude Code Remote (`persist_session: true`) z repo
 w źródłach sesji — tylko one mogą pushować. Od 22.09.2026 Kontroler
-(od 12.10.2026 `trig_01XGtqSHKVQ9cL2uERVx3Gmi`) też jest trwałą sesją z repo. Zdjęcia → R2
-(04:45 i drugi przebieg 09:45), Przypomnienie o Empiku i Alerty cen startują
+(od 12.10.2026 `trig_01XGtqSHKVQ9cL2uERVx3Gmi`) też jest trwałą sesją z repo, a od
+04.11.2026 także Zdjęcia → R2 (04:45 i 09:45, `session_01MLTH66y8yzUy9U45avTtAz`,
+bez pushu — świeża sesja klonująca repo w trakcie wpadała na klasyfikator „Code from
+External"). Przypomnienie o Empiku i Alerty cen startują
 świeżą sesją przy każdym odpaleniu (Social skasowany 15.09.2026, Backfill
 i „Empik co tydzien” skasowane 30.09.2026); **świeża sesja z Routine — z API
 i z panelu — nie ma repo w źródłach (klonuje je tylko do odczytu) ani konektora
@@ -131,7 +133,7 @@ założony z panelu (`http_api`) może zmienić lub skasować tylko Marek.
 Od 30.09.2026 crony runnerów LEGO są zapisane w czasie polskim
 (`CRON_TZ=Europe/Warsaw …`), więc zmiana czasu nie przesuwa ich względem siebie;
 panel zapisuje godzinę bez strefy (UTC), dlatego zadania, których pora ma
-znaczenie, zakłada sesja Code (Alerty, Zdjęcia 09:45).
+znaczenie, zakłada sesja Code (Alerty, Zdjęcia → R2).
 
 **Cowork nie uruchamia tych zadań.** Uśpione duplikaty `klocki-scout-nowosci`,
 `klocki-lowca-promocji`, `klocki-radar-konkurencji` i `klocki-kontroler`, które
@@ -325,7 +327,7 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 |---|---|---|
 | **Zrzut cen Empiku** (lokalna przeglądarka, skill `klocki-ceny-empik`) | tygodniowo, poniedziałek | Ceny Empiku zamrażają się na tabelach hubów. Nie odświeżają się deeplinki `redirects.empik`, więc martwe adresy zostają i prowadzą na 404 — gorzej niż wyszukiwarka, na którą worker spada sam |
 | **Wgranie paczki `.skill`** | po każdej zmianie w `redakcja/`, w eksporcie albo w ręcznym skillu z `.claude/skills/` (21.09.2026: `klocki-ceny-empik`, trzeci przebieg listingu) | Cowork pracuje według starszego standardu niż repo, a rozjazd jest niewidoczny — obie strony są przekonane, że mają aktualną wersję |
-| **Routine założone z panelu** (Zdjęcia → R2 04:45; stare „Przypomnienie: zrzut Empiku" do skasowania po 30.09 — zastąpione wspólnym przypomnieniem Empik + x-kom z sesji Code) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
+| **Routine założone z panelu** (Zdjęcia → R2 04:45 `trig_01EAhU5SKn2GuXxY14WYxNkJ` — od 04.11.2026 zastąpiony stałą sesją, do skasowania przez Marka; stare „Przypomnienie: zrzut Empiku" do skasowania po 30.09 — zastąpione wspólnym przypomnieniem Empik + x-kom z sesji Code) | przy każdej zmianie promptu, crona albo kasowaniu | Sesja Code nie ma do nich uprawnień (klasyfikator blokuje `update_trigger`/`delete_trigger`); 22.09 zbędne triggery czekały na skasowanie z panelu, a do tego czasu groził podwójny przebieg |
 | **Zrzut cen x-komu** (lokalna przeglądarka, skill `klocki-ceny-xkom`) | tygodniowo, poniedziałek, razem z Empikiem (decyzja Marka 30.09.2026) — w Coworku wystarczy „zrzuty tygodniowe" (skill `klocki-zrzuty-tygodniowe`), mail przypomina o obu | Oferty x-komu mają `wazne_do` z akcji; po terminie znikają z tabel i nikt ich nie odświeża |
 | **Odczyt panelu GSC „Strony"** (liczba zaindeksowanych) | co 2 tygodnie; Kontroler przypomina w raporcie | API nie podaje liczby zaindeksowanych stron — bez odczytu kamień milowy nr 4 Kontrolera stoi |
 | **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |

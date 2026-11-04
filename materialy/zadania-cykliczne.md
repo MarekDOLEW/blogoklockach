@@ -187,7 +187,7 @@ Tamta kolizja przez to wisiała niezauważona.
 | Lista linków do przeglądarki (20. dnia miesiąca 07:49, Kontroler) | `materialy/kontrola-przegladarkowa/lista.md` |
 | Kontrola linków w przeglądarce (20. dnia miesiąca 11:45, zadanie z Maca Marka) | nic w repo — oddaje wypełnioną tabelę do rozmowy, Code zapisuje ją jako `materialy/kontrola-przegladarkowa/wyniki-RRRR-MM-DD.md` |
 | Alerty cen (codziennie 09:30) | nic w repo — czyta R2 `_obserwuj/`, wysyła maile, kasuje niepotwierdzone zapisy w R2 |
-| Zdjęcia → R2 (codziennie 04:30) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
+| Zdjęcia → R2 (codziennie 04:45 i 09:45, stała sesja od 04.11.2026) | nic w repo — wgrywa do kubełka R2 `tylkoklocki-obrazy`, ślad `_stan/r2-obrazy.json` |
 | Przypomnienie: Empik (pon 08:15) | nic — jeden mail na kontakt@ |
 | Backfill (wyłączony) | `katalog.json` → `cena_katalogowa` |
 
@@ -228,7 +228,7 @@ zapisuje strefy. Po 25.10 przesuną się o godzinę wcześniej i to nie szkodzi:
 
 | Zadanie | Dziś (CEST) | Po 25.10 (CET) |
 |---|---|---|
-| Zdjęcia → R2 (pierwszy przebieg) | 04:45 | 03:45 |
+| Zdjęcia → R2 (pierwszy przebieg; od 04.11.2026 zastąpiony triggerem z `CRON_TZ`, panelowy do skasowania) | 04:45 | 03:45 |
 | Przypomnienie: Empik (mail do Marka) | pon 08:15 | pon 07:15 |
 | Angielski / inwestycja / Herzfaden (spoza serwisu) | 07:00 / 10:00 / śr 11:00 | godzinę wcześniej |
 
@@ -255,8 +255,8 @@ Routines LEGO — model to model sesji; sprawdza się go `get_session`
 (`session_context.model`), nie `list_triggers`.
 
 Model jest własnością SESJI, nie Routine: `update_trigger --model` działa tylko
-dla zadań tworzących świeżą sesję (Zdjęcia → R2 04:45 i 09:45, Alerty cen,
-Przypomnienie: Empik). Runner przypięty do trwałej sesji
+dla zadań tworzących świeżą sesję (Alerty cen, Przypomnienie: Empik; Zdjęcia → R2
+do 04.11.2026 — od tego dnia stała sesja Sonnet 5.5). Runner przypięty do trwałej sesji
 zachowuje jej model — żeby go zmienić, trzeba `create_session` z nowym modelem
 i przepiąć trigger (tak zrobiliśmy ze Scoutem i Radarem 21.08).
 
@@ -356,6 +356,26 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 „cena PK < 50% RRP → wiersz PK wykluczony".
 
 ## Historia zmian harmonogramu
+
+**04.11.2026 (Zdjęcia → R2 przepięte na stałą sesję z repo)**
+- Powód: 04.11 o 03:46 PL Routine z panelu (`trig_01EAhU5SKn2GuXxY14WYxNkJ`,
+  świeża sesja) miał `last_run` SUCCEEDED, a skryptu nie uruchomił — klasyfikator
+  trybu auto odrzucił `node scripts/r2-obrazy.mjs` jako „Code from External"
+  (repo klonowane w trakcie nie jest źródłem sesji). Decyzja nie jest powtarzalna:
+  03.11 o 09:46 to samo polecenie przeszło. Dowodem przebiegu jest ślad
+  `_stan/r2-obrazy.json` w R2 (`kiedy`), nie status Routine.
+- Nowa stała sesja `session_01MLTH66y8yzUy9U45avTtAz` (Sonnet 5.5, repo w źródłach,
+  bez pushu — skrypt niczego nie zmienia w repo) i dwa triggery przypięte do niej:
+  `trig_01HFHKLvDpfYPVuCr3KgGG9E` (`CRON_TZ=Europe/Warsaw 45 4 * * *`, 04:45 PL)
+  i `trig_017c1bZvdNiBr3dKZnGqNZ5R` (`CRON_TZ=Europe/Warsaw 45 9 * * *`, 09:45 PL,
+  po Łowcy). Stary 09:45 `trig_01XAJy9vca6HUK6YY3XarLWM` skasowany przez sesję Code.
+- **Panelowy 04:45 `trig_01EAhU5SKn2GuXxY14WYxNkJ` (cron `45 2 * * *` UTC, czyli od
+  zmiany czasu 03:45 PL) kasuje Marek** — API odmawia agentom (`created_via: http_api`),
+  `update_trigger enabled=false` też odrzucone. Do skasowania chodzi podwójnie
+  (nieszkodliwie: skrypt jest idempotentny, drugi przebieg widzi „brakuje 0").
+- Sesja jest stała, więc rośnie — Harmonogram z konta (pon 07:45) liczy ją jak inne
+  runnery (alarm powyżej 850 tys. tokenów); dwa krótkie przebiegi dziennie
+  to ok. 1–2 tys. tokenów każdy.
 
 **26.10.2026 (Weryfikacja ofert do slajderów — decyzja Marka)**
 - Nowe zadanie w sesji Code (`session_011GrNNd6UVQFF1NamoPaQMS`): `trig_01ApTmYLjumFycmtRJgUzXfa`, **codziennie 09:17 PL**,
