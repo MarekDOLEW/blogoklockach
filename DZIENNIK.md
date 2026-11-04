@@ -154,6 +154,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-04 14:55 · Skrzynka tekstów Piotra (GitHub)
+
+- Źródło: repo `tylkoklocki-teksty`, 2 pliki; opublikowane bez przeglądu (commit `794ab34`), linki wysłane Markowi i Piotrowi, źródła przeniesione do `opublikowane/` (ca5d26c w repo tekstów).
+- 0036 Premiery — https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/
+- Recenzje_017 — https://tylkoklocki.pl/artykuly/lego-42646-pokoj-autumn-recenzja/
+- Mail i panel: puste.
+
 ## 2026-11-04 08:10 · RADAR · Do zrobienia
 
 **faniklockow.pl · 03.11** — Wydali profil 21375 Godzilli bez polskiej ceny, ale ich tekst kazał sprawdzić kartę zestawu — i tam cena **już jest**: 1699,99 zł, „Wkrótce dostępne (27 listopada 2026)", 5363 elementy.
