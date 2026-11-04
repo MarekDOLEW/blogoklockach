@@ -160,6 +160,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — napisać tekst premierowy o 21375 w kategorii Premiery, na podstawie huba: największy zestaw w historii linii Ideas, ruchomy ogon, głowa, ramiona i palce, wyjmowany język i wpinany promień cieplny, projekt fana MattE720, wersja z filmów Legendary Monsterverse. Teza, która odróżni tekst od zapowiedzi konkurencji: premiera w dniu Black Friday nie jest okazją — zestaw wchodzi po cenie katalogowej, a jedyną realną korzyścią z kupna na premierę jest gratis 40888. Polskiej ceny katalogowej jeszcze nie ma, więc albo tekst czeka na nią, albo podaje 399,99 euro i zostawia miejsce na złotówki.
 **Kto:** — Piotr (tekst)
 
+**LEGO.pl podaje już polskie ceny dwóch zestawów rocznika 2027, które u nas mają `cena_katalogowa: null`: 42254 Planety Układu Słonecznego na orbicie za 429,99 zł i 11227 Koci domek Gabi i buda Doozie za 84,99 zł (oba w `oferty_feed.json` ze sklepu `lego`, data 3.11.2026).**
+**Mamy?** — częściowo: huby pokazują te kwoty jako ofertę sklepu, ale w `sety.json` nie ma ceny katalogowej, a `rrp_potwierdzone.json` nie zna żadnego z tych numerów — więc rabat nie ma od czego się liczyć.
+**Zrobić:** — potwierdzić obie kwoty na kartach produktów na lego.pl w przeglądarce i wczytać je do rejestru: `node scripts/wczytaj-rrp.mjs` z wejściem `{"42254": 429.99, "11227": 84.99}`. Sam tego nie zrobię — serwer dostaje z lego.pl 403, a rejestr RRP z założenia uzupełnia człowiek albo Cowork z prawdziwą przeglądarką.
+**Kto:** — Cowork (przeglądarka)
+
 
 ## 2026-11-03 15:00 · CODE · Skrzynka (GitHub): 69 kart P07, numery z literą, katalog wg Brickseta
 
