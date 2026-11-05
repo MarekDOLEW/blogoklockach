@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-04"
+  "zaktualizowano": "2026-11-05"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -329,6 +329,11 @@
    "https://tylkoklocki.pl/zestaw/42681/",
    "https://tylkoklocki.pl/zestaw/42689/",
    "https://tylkoklocki.pl/serie/star-wars/"
+  ],
+  "2026-11-05": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/artykuly/lego-42646-pokoj-autumn-recenzja/",
+   "https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/"
   ]
  }
 }
