@@ -153,6 +153,22 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-05 08:10 · RADAR · Do zrobienia
+
+**faniklockow.pl · 04.11** — Weszli w hasło „kalendarze adwentowe LEGO najtaniej" sześć tygodni przed Wigilią, czyli w szczyt tej frazy.
+**Mamy?** — częściowo, i brakuje formy, nie danych: pięć kalendarzy na 2026 jest w rejestrze z cenami z 04.11, wszystkie **29–35% pod katalogiem** i wszystkie na albo przy własnym rekordzie (42698 Friends 80,89 u ME przy rekordzie 80,46; 43298 Disney 102,98 u Empiku przy 101,03; 60510 City 74,18 u ME przy 69,99; 75456 Star Wars 101,03 u ME równo z rekordem; 76340 Marvel 102,99 u ME przy 102,98). Nasz tekst `/deale/deal-kalendarze-adwentowe-lego-2026/` jest jednak przewodnikiem **wyboru** dla rodzica (typ „pod-lupa", osiem wzmianek o 60510, jedna tabela cen), a pozostałe cztery numery wymienia po razie.
+**Zrobić:** — zdecydować, czy dokładamy drugi kąt: zestawienie pięciu kalendarzy 2026 w jednym miejscu, na żywych komponentach `ceny-setu` (standard zabrania wpisywania kwot do treści), jako sekcja w istniejącym tekście albo osobna krótka forma „Kalendarze adwentowe LEGO 2026 — gdzie najtaniej".
+**Kto:** — Marek (decyzja)
+
+Uwaga metodologiczna na własny rachunek, warta zapisania obok pozycji: pierwsza wersja mojego zestawienia
+pokazała 75456 jako „89,98 zł, czyli nowy rekord poniżej 101,03" i wyglądało to na przeoczony rekord.
+Było fałszywe — **89,98 to Ceneo z 27.10**, a Ceneo jest porównywarką i serwis z zasady nie liczy jej jako
+najtańszej oferty (`najlepszaOferta` ją odsiewa, a w `sety.json` jej nie ma od poprawki z 29.10). Najtańsza
+realna oferta to Media Expert 101,03, równo z rekordem. Wpadłem więc we własnym zapytaniu w dokładnie ten
+błąd, przed którym chronią reguły serwisu: **przy ręcznych zestawieniach cen trzeba odsiewać `ceneo` i `lego`
+tak samo, jak robi to kod.**
+
 ## 2026-11-05 05:25 · SCOUT · Do zrobienia
 
 **Firecrawl bez parametru `maxAge` oddaje kopię z cache'u, a nie bieżącą stronę: dziś o 04:09 pobranie `promobricks.de` wróciło z `cacheState: "hit"` i `cachedAt: 2026-11-04T04:09:34Z`, czyli dokładnie z poprzedniego przebiegu Scouta — doba wstecz, bez żadnego ostrzeżenia w treści.**
