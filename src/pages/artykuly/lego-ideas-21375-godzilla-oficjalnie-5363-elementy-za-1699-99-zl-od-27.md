@@ -11,6 +11,8 @@ zestawy: ["21375", "40888"]
 
 LEGO oficjalnie zapowiedziało zestaw LEGO Ideas 21375 Godzilla. Model trafi do sprzedaży 27 listopada 2026 roku na LEGO.com i w sklepach LEGO Store, a na LEGO.pl jest już widoczny jako „wkrótce dostępny” w cenie 1699,99 zł.
 
+<div class="galeria-setow" data-sety="21375,40888"></div>
+
 ## Co wiadomo o zestawie
 
 Zestaw składa się z 5363 elementów i jest przeznaczony dla dorosłych (18+). Według LEGO to największy model w historii serii LEGO Ideas. Odtwarza Godzillę w wersji z filmów Monsterverse wytwórni Legendary – z łuskowatą skórą, postrzępionymi płetwami grzbietowymi i długim ogonem. Gotowa figura ma ponad 70 cm wysokości w pozie z promieniem atomowym, 27 cm szerokości i 40 cm długości, a minifigurka sięga jej zaledwie do kostki.

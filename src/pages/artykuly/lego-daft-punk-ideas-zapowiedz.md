@@ -9,6 +9,8 @@ okladka: "/img/DAFTPUNK.jpg"
 okladka_alt: "Oficjalna grafika zapowiedzi współpracy LEGO i Daft Punk: dwie minifigurki duetu przed świecącym czerwonym klockiem 2×4"
 ---
 
+![Oficjalna grafika zapowiedzi współpracy LEGO i Daft Punk: dwie minifigurki duetu przed świecącym czerwonym klockiem 2×4](/img/DAFTPUNK.jpg)
+
 Grupa LEGO i duet Daft Punk ogłosiły 22 października 2026 roku współpracę obejmującą produkty, treści i wydarzenia dla fanów. Jej pierwszym zapowiedzianym elementem jest zestaw LEGO Ideas oparty na projekcie fana, który odtwarza słynną scenę w kształcie piramidy z trasy koncertowej Alive 2007. Numeru zestawu, ceny ani daty premiery LEGO jeszcze nie podało.
 
 ## Projekt fana trafia do produkcji
