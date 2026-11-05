@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-04",
+  "zaktualizowano": "2026-11-05",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -108,11 +108,17 @@
      "nazwa": "PromoBricks / StoneWars",
      "url": null,
      "data": "2026-09"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77094-1 (1750 elementow, 18+, Availability „Retail\", bez RRP i bez daty premiery)",
+     "url": "https://brickset.com/sets/77094-1/Ocarina-of-Time-Link-Epona",
+     "data": "2026-11-05"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": null,
-   "rozstrzygniecie": null
+   "uwagi": "05.11.2026: karta na Bricksecie (77094-1) ma 1750 elementow, wiek 18+, Availability „Retail\", pudelko, zdjecie i tagi „The Legend Of Zelda 40Th Anniversary\" — ale nadal bez RRP i bez Launch/Exit, wiec LEGO zestawu nie potwierdzilo i status_nowosci w sety.json zostaje. Pewnosc bez zmiany („srednia\"): doszedl material katalogowy, nie drugie niezalezne zrodlo ceny. Wpis zalozony 15.09.2026 bez pola opis — uzupelniony przy tej okazji.",
+   "rozstrzygniecie": null,
+   "opis": "Pierwszy zestaw LEGO na licencji The Legend of Zelda: scena z Ocarina of Time z Linkiem i klaczą Eponą, 1750 elementów i oznaczenie 18+, czyli model wystawowy, a nie zabawka. Katalog Bricksetu ma już kartę zestawu ze zdjęciem i opisuje go jako pozycję sprzedaży detalicznej na rok 2027, ale ceny ani miesiąca premiery nie podaje nikt — także LEGO, które zestawu formalnie nie zapowiedziało. Serwisy branżowe zgodnie mówiły o wiośnie 2027 i o powiązaniu z czterdziestoleciem serii. Do pewności brakuje komunikatu producenta i ceny, bez której nie da się ocenić, czy warto kupować na premierę."
   },
   {
    "id": "11392",
@@ -2028,6 +2034,258 @@
    "dodano": "2026-11-04",
    "uwagi": "04.11.2026: z materialu PromoBricks (03.11). Serwis hedguje — „kommt wohl zwischen dem 09. und 15. November\" i „soll\" przy progu 40 euro — wiec to zapowiedz akcji, nie potwierdzenie. StoneWars o tym nie pisze (lista news sprawdzona 04.11). Jedno zrodlo i tryb przypuszczajacy, stad „niska\". Sam zestaw istnieje od wczesniej (Gamescom, Skaerbaek Fan Weekend, bonus do wersji gry LEGO Batman na Switch 2) — nowa jest szeroka dostepnosc. Prog polski nieznany: niemieckie i polskie progi sie roznia (40889 to 130 euro kontra 540 zl).",
    "opis": "Saszetka z minifigurką Batmana w stylu gry z 1989 roku na konsolę NES, dotąd rozdawana tylko na imprezach branżowych i jako bonus do wersji gry LEGO Batman na Nintendo Switch 2. Według PromoBricks ma trafić do sklepu LEGO jako gratis za zakupy między 9 a 15 listopada 2026, przy progu 40 euro w Niemczech. Serwis pisze o tym w trybie przypuszczającym, LEGO terminu nie ogłosiło, a progu obowiązującego w Polsce nie podano.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42706",
+   "numer": "42706",
+   "nazwa": "Plac zabaw małej pandy",
+   "seria": "Friends",
+   "elementy": 81,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 9,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Najmniejszy i najtańszy zestaw ze styczniowej fali Friends: według przecieków 81 elementów za 9,99 euro, czyli orientacyjnie około 40 zł. Pozycja wejściowa, jakich w tej serii co roku jest kilka — zwierzak, mały element otoczenia i jedna minilalka, choć składu nikt jeszcze nie podał. Dane pochodzą z tabeli niemieckiego serwisu branżowego, a nie od producenta: LEGO pokazało na razie trzy zestawy z tej fali i tego nie ma wśród nich.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42708",
+   "numer": "42708",
+   "nazwa": "Wiosenny piknik króliczków",
+   "seria": "Friends",
+   "elementy": 184,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Wiosenny piknik z króliczkami: według przecieków 184 elementy za 19,99 euro, orientacyjnie około 80 zł, z premierą w styczniu 2027. Rozmiar wskazuje na zestaw do zabawy w przedziale, w którym Friends sprzedaje najwięcej — kilkadziesiąt złotych i jedna scenka. Informacja pochodzi z tabeli niemieckiego serwisu branżowego; LEGO zestawu nie zapowiedziało ani nie pokazało zdjęć.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42711",
+   "numer": "42711",
+   "nazwa": "Butik z torebkami i akcesoriami",
+   "seria": "Friends",
+   "elementy": 110,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 9,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Mały butik z torebkami i akcesoriami: według przecieków 110 elementów za 9,99 euro, czyli orientacyjnie około 40 zł. To jeden z dwóch najtańszych zestawów zapowiadanej fali styczniowej, a takie pozycje w Friends zwykle składają się z jednego stoiska i jednej minilalki. Zdjęć ani opisu producenta nie ma — dane pochodzą wyłącznie z tabeli niemieckiego serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42712",
+   "numer": "42712",
+   "nazwa": "Pokaz mody psów",
+   "seria": "Friends",
+   "elementy": 225,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Pokaz mody dla psów: według przecieków 225 elementów za 19,99 euro, orientacyjnie około 80 zł, premiera w styczniu 2027. Zwierzęta są stałym motywem serii, a przy takiej liczbie elementów można oczekiwać wybiegu, kilku psów i jednej lub dwóch minilalek. Producent zestawu nie pokazał, więc zarówno nazwa, jak i zawartość mogą się jeszcze zmienić.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42713",
+   "numer": "42713",
+   "nazwa": "Wózek z pączkami",
+   "seria": "Friends",
+   "elementy": 94,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Uliczny wózek z pączkami: według przecieków 94 elementy za 19,99 euro, czyli orientacyjnie około 80 zł. Jak na tę kwotę elementów jest mało, co w Friends zwykle oznacza duże, odlewane części i dodatki w rodzaju zwierzaka albo figurki ze słodyczami. Zestaw nie został pokazany przez LEGO — dane są z tabeli niemieckiego serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42714",
+   "numer": "42714",
+   "nazwa": "Urodzinowa babeczka",
+   "seria": "Friends",
+   "elementy": 158,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Urodzinowa babeczka jako zestaw do zabawy: według przecieków 158 elementów za 19,99 euro, orientacyjnie około 80 zł, z premierą w styczniu 2027. Takie pozycje w Friends są zwykle rozkładanymi scenkami, które po zamknięciu wyglądają jak sam przedmiot z nazwy. Potwierdzenia producenta nie ma, a nazwa jest tłumaczeniem niemieckiej nazwy z tabeli serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42715",
+   "numer": "42715",
+   "nazwa": "Sklep ze słodyczami w Heartlake City",
+   "seria": "Friends",
+   "elementy": 372,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 29,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Sklep ze słodyczami w Heartlake City: według przecieków 372 elementy za 29,99 euro, orientacyjnie około 130 zł. To już zestaw średniej wielkości, z własnym budynkiem i prawdopodobnie kilkoma minilalkami, czyli typowy trzon fali styczniowej. LEGO pokazało z niej na razie trzy zestawy i tego nie ma wśród nich, więc dane pochodzą wyłącznie z tabeli niemieckiego serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42717",
+   "numer": "42717",
+   "nazwa": "Rodzinny domek dla lalek",
+   "seria": "Friends",
+   "elementy": 212,
+   "cena_wg_zrodla": 170,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 39,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Rodzinny domek dla lalek: według przecieków 212 elementów za 39,99 euro, czyli orientacyjnie około 170 zł. Stosunek ceny do liczby elementów jest tu wyraźnie gorszy niż w pozostałych zestawach fali, co w Friends zwykle zapowiada dużo dużych części i wyposażenia wnętrza. Zestawu nie zapowiedział producent — informacja pochodzi z tabeli niemieckiego serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42726",
+   "numer": "42726",
+   "nazwa": "Urodzinowe przyjęcie piżamowe",
+   "seria": "Friends",
+   "elementy": 313,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 29,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Urodzinowe przyjęcie piżamowe: według przecieków 313 elementów za 29,99 euro, orientacyjnie około 130 zł, z premierą w styczniu 2027. Przy tej liczbie elementów to zestaw na pogranicze zabawy i wystawki, zwykle z pokojem, meblami i dwiema minilalkami. Zdjęć i opisu producenta nie ma, a nazwa jest tłumaczeniem roboczym z niemieckiej tabeli.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "42728",
+   "numer": "42728",
+   "nazwa": "Szkoła sztuki i designu w Heartlake City",
+   "seria": "Friends",
+   "elementy": 711,
+   "cena_wg_zrodla": 320,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". 74,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Kalibracja z fali Ninjago: 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Największy nieujawniony zestaw styczniowej fali Friends: według przecieków 711 elementów za 74,99 euro, czyli orientacyjnie około 320 zł. Razem z galerią handlową 42719 to jedyne dwie pozycje tej fali powyżej 60 euro, więc szkoła sztuki i designu będzie drugim dużym budynkiem sezonu. LEGO jej jeszcze nie pokazało, a wszystkie liczby pochodzą z tabeli niemieckiego serwisu branżowego.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30742",
+   "numer": "30742",
+   "nazwa": "Serce z kwiatem (nazwa niepotwierdzona)",
+   "seria": "Friends",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". Elementow i ceny zrodlo nie podaje; nazwa w tabeli stoi w nawiasie ze znakiem zapytania. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Saszetka Friends z zakresu numerów 307xx, zapowiadana na styczeń 2027. Niemiecki serwis branżowy wymienia ją w tabeli nowości, ale nazwę podaje w nawiasie ze znakiem zapytania, jako własny domysł. Liczby elementów i ceny nie ma, a LEGO o zestawie nie informowało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30747",
+   "numer": "30747",
+   "nazwa": "Samochód Liann (nazwa niepotwierdzona)",
+   "seria": "Friends",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Friends Januar-Neuheiten 2027: Erste drei Sets offiziell vorgestellt” (tabela zbiorcza fali styczniowej)",
+     "url": "https://www.stonewars.de/news/lego-friends-januar-2027/",
+     "data": "2026-10-28"
+    }
+   ],
+   "dodano": "2026-11-05",
+   "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". Elementow i ceny zrodlo nie podaje; nazwa w tabeli stoi w nawiasie ze znakiem zapytania. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
+   "opis": "Druga saszetka Friends zapowiadana na styczeń 2027, prawdopodobnie z samochodem jednej z bohaterek serii. Nazwa pochodzi z tabeli niemieckiego serwisu branżowego i jest tam opatrzona znakiem zapytania, czyli to przypuszczenie, nie informacja. Elementów, ceny ani zdjęć nikt nie podał.",
    "rozstrzygniecie": null
   }
  ]

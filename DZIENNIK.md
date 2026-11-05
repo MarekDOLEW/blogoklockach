@@ -153,6 +153,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-05 05:25 · SCOUT · Do zrobienia
+
+**Firecrawl bez parametru `maxAge` oddaje kopię z cache'u, a nie bieżącą stronę: dziś o 04:09 pobranie `promobricks.de` wróciło z `cacheState: "hit"` i `cachedAt: 2026-11-04T04:09:34Z`, czyli dokładnie z poprzedniego przebiegu Scouta — doba wstecz, bez żadnego ostrzeżenia w treści.**
+**Mamy?** — nie: w `RUNBOOK.md` nie ma o tym ani słowa, a z Firecrawla korzystają też Radar i sesje robocze.
+**Zrobić:** — dopisać do `RUNBOOK.md` notkę przy Firecrawlu: do stron, których świeżość ma znaczenie (listy nowości, karty produktów, kody rabatowe), wywołanie musi mieć `maxAge: 0` albo krótki `maxAge`, bo inaczej serwis może oddać kopię z poprzedniego dnia; dowód z 05.11.2026 wyżej. Ten sam adres pobrany ponownie z `maxAge: 0` wrócił już bez `cacheState`.
+**Kto:** — Code (RUNBOOK)
+
 
 ## 2026-11-04 14:55 · Skrzynka tekstów Piotra (GitHub)
 
@@ -190,6 +197,7 @@ ogłoszono", „nie podano", „nie wiemy" przy numerze, który **ma już** potw
 **Mamy?** — częściowo: huby `/zestaw/21375/` i `/zestaw/40888/` stoją z oficjalnymi danymi i są indeksowalne, zestaw wchodzi do `/nowosci/listopad-2026/` i na `/serie/ideas/`, a rozstrzygnięcie widać na `/przecieki/`. Brakuje tekstu.
 **Zrobić:** — napisać tekst premierowy o 21375 w kategorii Premiery, na podstawie huba: największy zestaw w historii linii Ideas, ruchomy ogon, głowa, ramiona i palce, wyjmowany język i wpinany promień cieplny, projekt fana MattE720, wersja z filmów Legendary Monsterverse. Teza, która odróżni tekst od zapowiedzi konkurencji: premiera w dniu Black Friday nie jest okazją — zestaw wchodzi po cenie katalogowej, a jedyną realną korzyścią z kupna na premierę jest gratis 40888. Polskiej ceny katalogowej jeszcze nie ma, więc albo tekst czeka na nią, albo podaje 399,99 euro i zostawia miejsce na złotówki.
 **Kto:** — Piotr (tekst)
+→ zamknięte 05.11.2026: tekst jest — Piotr przysłał go skrzynką 04.11 po południu i Code opublikował go bez przeglądu (`794ab34`): https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/ . Polska cena katalogowa też już jest: 1699,99 zł w `rrp_potwierdzone.json` i w `sety.json` (wpis Radaru `1400046`), więc tytuł i treść podają złotówki, nie euro.
 
 **LEGO.pl podaje już polskie ceny dwóch zestawów rocznika 2027, które u nas mają `cena_katalogowa: null`: 42254 Planety Układu Słonecznego na orbicie za 429,99 zł i 11227 Koci domek Gabi i buda Doozie za 84,99 zł (oba w `oferty_feed.json` ze sklepu `lego`, data 3.11.2026).**
 **Mamy?** — częściowo: huby pokazują te kwoty jako ofertę sklepu, ale w `sety.json` nie ma ceny katalogowej, a `rrp_potwierdzone.json` nie zna żadnego z tych numerów — więc rabat nie ma od czego się liczyć.
@@ -461,6 +469,7 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 (0035, opublikowany 01.11) opisuje już oba okna i kończy je zdaniem, że „LEGO.pl przedstawia obie akcje
 osobno i nie informuje wprost o ich łączeniu w jednym zamówieniu". Czyli tekst nie wprowadza nikogo w błąd,
 ale pytanie zostaje otwarte i do 8 listopada da się je rozstrzygnąć tylko koszykiem.
+↻ 05.11.2026: nadal aktualne i zostały trzy dni — oba okna (40898 i 40889) kończą się 8 listopada, po tej dacie koszyka nie da się już sprawdzić, a pytanie zostanie bez odpowiedzi na stałe.
 
 ## 2026-10-31 08:05 · RADAR · Do zrobienia
 
@@ -566,6 +575,7 @@ z zakupu 27 listopada.
 **Mamy?** — częściowo: huby tych zestawów stoją i pokazują ceny z feedu, ale rejestru nie mają. To inna lista niż ta domknięta 29.10 — tamta brała tylko zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25%; ta nie ma progu rabatu i obejmuje też pozycje bez ceny katalogowej.
 **Zrobić:** — zdecydować, które grupy z tych 107 w ogóle chcemy śledzić, bo to nie jest jednorodna lista: **85** pozycji to normalne zestawy roczników 2012–2025 (84 z nich z potwierdzonym RRP; rocznik 2025 to 48 sztuk, 2024 — 21; m.in. 10351, 10352, 10361, 10375, 21360, 42217, 76317 oraz 21351 z potwierdzonym wycofaniem na grudzień 2026), **13** to gadżety i breloki bez ceny katalogowej (854xxx, 5006157, 5007851), **6** to Power Functions (88005, 88009, 88010, 88012, 88013, 88015), a **4** to tegoroczne saszetki i brelok bez RRP (30718, 30720, 30732, 854328 — ten ostatni liczy się też w gadżetach, stąd 85+13+6+4 daje 108, a nie 107). Pełną listę odtwarza polecenie z raportu Scouta z 30.10.
 **Kto:** — Marek (decyzja)
+↻ 05.11.2026: nadal aktualne — przy definicji z `kolejka-redakcyjna.py` (katalog, rocznik 2020–2026, status `dostepny`, z ofertami w feedzie, bez pola `bez_rrp`) wychodzi dziś **100** pozycji i lista jest identyczna jak w stanie z commita `87c47a7` z 04.11 — żadna nie doszła i żadna nie zniknęła. Liczba 107 z tej pozycji obejmuje też roczniki 2012–2019, więc 100 to inne okno, a nie spadek.
 
 ## 2026-10-29 08:05 · RADAR · Do zrobienia
 
