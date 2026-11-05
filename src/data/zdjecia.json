@@ -387,10 +387,10 @@
   "zrodlo": "planetaklockow"
  },
  "21375": {
-  "url": null,
-  "zrodlo": null,
-  "martwy": "rebrickable 404 (sprawdzone 27.09.2026), brak na Brickset",
-  "poprzednio": "https://cdn.rebrickable.com/media/sets/21375-1.jpg"
+  "url": "https://cdn.rebrickable.com/media/sets/21375-1.jpg",
+  "zrodlo": "rebrickable",
+  "dodano": "2026-11-05",
+  "uwaga": "27.09–04.11 wpis martwy (Rebrickable 404 przed oficjalną zapowiedzią); zdjęcie pojawiło się z zapowiedzią 04.11.2026"
  },
  "21376": {
   "url": "https://cdn.rebrickable.com/media/sets/21376-1.jpg",
@@ -31457,5 +31457,11 @@
   "url": "https://cdn.rebrickable.com/media/sets/40888-1.jpg",
   "zrodlo": "rebrickable",
   "dodano": "2026-11-04"
+ },
+ "DAFTPUNK": {
+  "url": "https://images.brickset.com/news/135603_DP1.jpg",
+  "zrodlo": "brickset",
+  "dodano": "2026-11-05",
+  "uwaga": "oficjalna grafika zapowiedzi współpracy LEGO × Daft Punk (22.10.2026), zestaw bez numeru — okładka artykułu lego-daft-punk-ideas-zapowiedz"
  }
 }

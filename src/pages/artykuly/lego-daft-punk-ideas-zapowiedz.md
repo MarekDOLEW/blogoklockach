@@ -5,6 +5,8 @@ opis: "LEGO i Daft Punk ogłosiły współpracę. Pierwszym zestawem będzie mod
 seo_tytul: "LEGO i Daft Punk: zestaw Ideas ze sceną z trasy Alive 2007"
 data: "2026-10-25"
 kategoria: "Premiery"
+okladka: "/img/DAFTPUNK.jpg"
+okladka_alt: "Oficjalna grafika zapowiedzi współpracy LEGO i Daft Punk: dwie minifigurki duetu przed świecącym czerwonym klockiem 2×4"
 ---
 
 Grupa LEGO i duet Daft Punk ogłosiły 22 października 2026 roku współpracę obejmującą produkty, treści i wydarzenia dla fanów. Jej pierwszym zapowiedzianym elementem jest zestaw LEGO Ideas oparty na projekcie fana, który odtwarza słynną scenę w kształcie piramidy z trasy koncertowej Alive 2007. Numeru zestawu, ceny ani daty premiery LEGO jeszcze nie podało.
