@@ -154,6 +154,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Piotr: bez kart dla zestawów bez huba
+
+Decyzja Marka: Piotr nie opisuje zestawów bez strony `/zestaw/<nr>/`. Mail do Piotra wysłany 06.11 (test: strona otwiera się / 404; priorytet z listy opisów z 01.11). Reguła dopisana w `redakcja/skrzynka-instrukcja.md`. Osobno w Gmailu czeka szkic „kilka poprawek w kartach i FAQ (audyt 6.11)” — do wysłania przez Marka.
+
 ## 2026-11-06 14:55 · Skrzynka tekstów Piotra (GitHub) — 89 kart P07
 
 - Paczka 94 kart w `tylkoklocki-teksty`. 4 zablokowane — importer nie rozpoznaje numeru (6614229-2, LANDDUCK, MCPIG, PONDDUCK) i przy zasadzie „wszystko albo nic” wstrzymywały całość; odłożone do `do-poprawki/` z plikiem uwag (to zestawy bez huba). Opublikowane **89 kart** (commit `4a9e6400`), powiadomienie wysłane, źródła w `opublikowane/` (`9267e1e`).
