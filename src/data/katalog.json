@@ -936,7 +936,7 @@
       "nazwa": "Godzilla",
       "rok": 2026,
       "status": "dostepny",
-      "cena_katalogowa": null
+      "cena_katalogowa": 1699.99
     },
     {
       "numer": "21376",
@@ -980,7 +980,7 @@
       "rok": 2026,
       "elementy": 158,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 81.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Ideas and CUUSOO"
     }
@@ -11139,7 +11139,7 @@
       "rok": 2024,
       "elementy": 48,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2024-12 (zaciąg 2026-09-15)"
     },
     {
@@ -13740,7 +13740,8 @@
       "nazwa": "Figurki Kapitana Ameryki i Czerwonego Hulka",
       "rok": 2024,
       "elementy": 202,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "40669",
@@ -13924,21 +13925,24 @@
       "nazwa": "Dumbo",
       "rok": 2025,
       "elementy": 176,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "40793",
       "nazwa": "Figurki Toma i Jerry'ego",
       "rok": 2025,
       "elementy": 212,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40794",
       "nazwa": "Wicked: Figurki Elphaby i Glindy",
       "rok": 2025,
       "elementy": 325,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "40795",
@@ -13956,7 +13960,8 @@
       "nazwa": "Zemsta Sithów - bohaterowie i złoczyńcy",
       "rok": 2025,
       "elementy": 656,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "40797",
@@ -13975,21 +13980,24 @@
       "nazwa": "Panda czerwona Mei",
       "rok": 2025,
       "elementy": 121,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "40799",
       "nazwa": "Figurka Monkey D. Luffy'ego",
       "rok": 2025,
       "elementy": 136,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "40800",
       "nazwa": "Figurka klauna Buggy'ego",
       "rok": 2025,
       "elementy": 176,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "40801",
@@ -19758,7 +19766,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Technic"
     }
@@ -26210,7 +26218,8 @@
       "nazwa": "Rower policyjny - szkolenie",
       "rok": 2023,
       "elementy": 36,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30639",
@@ -26854,7 +26863,8 @@
       "nazwa": "Żółty ruchomy żuraw",
       "rok": 2024,
       "elementy": 1116,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "60410",
@@ -27005,7 +27015,8 @@
       "nazwa": "Kosmiczny mech",
       "rok": 2024,
       "elementy": 140,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60429",
@@ -27278,7 +27289,8 @@
       "nazwa": "Modułowy galaktyczny statek kosmiczny",
       "rok": 2025,
       "elementy": 717,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "60447",
@@ -27303,7 +27315,8 @@
       "nazwa": "Pościg terenówką policyjną",
       "rok": 2025,
       "elementy": 467,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "60450",
@@ -27516,7 +27529,8 @@
       "nazwa": "Padok F1 z bolidami VCARB i Sauber",
       "rok": 2025,
       "elementy": 313,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "60475",
@@ -33083,7 +33097,8 @@
       "nazwa": "Mały monster truck do przebudowania",
       "rok": 2025,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30692",
@@ -38713,7 +38728,7 @@
       "rok": 2025,
       "elementy": 50,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
     },
     {
@@ -38765,7 +38780,8 @@
       "nazwa": "Pokój zabaw młodszej siostry Aliyi",
       "rok": 2025,
       "elementy": 125,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "42646",
@@ -38817,7 +38833,8 @@
       "nazwa": "Koń i lecznica dla zwierząt",
       "rok": 2025,
       "elementy": 428,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42652",
@@ -38851,14 +38868,16 @@
       "nazwa": "Restauracja i szkoła gotowania",
       "rok": 2025,
       "elementy": 896,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "42656",
       "nazwa": "Samolot i lotnisko w mieście Heartlake",
       "rok": 2025,
       "elementy": 958,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "42658",
@@ -50919,7 +50938,8 @@
       "nazwa": "Mech Sory zmieniający się w motocykl wyścigowy",
       "rok": 2023,
       "elementy": 384,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "71793",
@@ -51702,7 +51722,8 @@
       "nazwa": "Burzowa wioska Dragonów",
       "rok": 2025,
       "elementy": 305,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "71842",
@@ -55345,7 +55366,8 @@
       "nazwa": "Auto Iron Mana i Czarna Pantera kontra Czerwony Hulk",
       "rok": 2025,
       "elementy": 295,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76311",
@@ -57752,7 +57774,8 @@
       "nazwa": "Zakochane niedźwiedzie",
       "rok": 2025,
       "elementy": 287,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40822",
@@ -57823,7 +57846,8 @@
       "nazwa": "Pomyślność",
       "rok": 2025,
       "elementy": 1021,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "40862",
@@ -59853,7 +59877,8 @@
       "nazwa": "Przygoda na sankach Anny",
       "rok": 2025,
       "elementy": 192,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "43257",
@@ -59878,7 +59903,8 @@
       "nazwa": "Wirująca Arielka",
       "rok": 2025,
       "elementy": 93,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "43260",
@@ -59894,7 +59920,8 @@
       "nazwa": "Nasze magiczne Encanto - Minidom",
       "rok": 2025,
       "elementy": 186,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "43262",
@@ -60021,7 +60048,8 @@
       "nazwa": "Zamek kopciuszka i kareta",
       "rok": 2025,
       "elementy": 596,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "43277",
@@ -62011,7 +62039,7 @@
       "rok": 2025,
       "elementy": 40,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "eol_zrodlo": "nigdy na listingu lego.pl, premiera 2025-12 (zaciąg 2026-09-15)"
     },
     {
@@ -65175,14 +65203,16 @@
       "nazwa": "Kreatywna skrzynka szczęścia",
       "rok": 2025,
       "elementy": 680,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "11043",
       "nazwa": "Fajny zestaw kreatywny",
       "rok": 2025,
       "elementy": 510,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "11044",
@@ -65803,7 +65833,7 @@
       "rok": 2023,
       "elementy": 1810,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     },
@@ -65813,7 +65843,7 @@
       "rok": 2023,
       "elementy": 2099,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 859.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     },
@@ -65823,7 +65853,7 @@
       "rok": 2023,
       "elementy": 805,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 214.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     },
@@ -65833,7 +65863,7 @@
       "rok": 2024,
       "elementy": 644,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 214.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     },
@@ -65855,7 +65885,7 @@
       "rok": 2024,
       "elementy": 1503,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 419.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "LEGO Art"
     },
@@ -66789,7 +66819,7 @@
       "rok": 2023,
       "elementy": 292,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66799,7 +66829,7 @@
       "rok": 2023,
       "elementy": 376,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66809,7 +66839,7 @@
       "rok": 2023,
       "elementy": 388,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 234.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66819,7 +66849,7 @@
       "rok": 2023,
       "elementy": 615,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 289.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66829,7 +66859,7 @@
       "rok": 2023,
       "elementy": 802,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 469.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66839,7 +66869,7 @@
       "rok": 2023,
       "elementy": 196,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 89.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66849,7 +66879,7 @@
       "rok": 2024,
       "elementy": 276,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66859,7 +66889,7 @@
       "rok": 2024,
       "elementy": 393,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 239.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66869,7 +66899,7 @@
       "rok": 2024,
       "elementy": 325,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66879,7 +66909,7 @@
       "rok": 2024,
       "elementy": 590,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 359.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66889,7 +66919,7 @@
       "rok": 2024,
       "elementy": 720,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 309.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66921,7 +66951,7 @@
       "rok": 2025,
       "elementy": 419,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Sonic The Hedgehog"
     },
@@ -66993,7 +67023,7 @@
       "rok": 2024,
       "elementy": 170,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 64.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67003,7 +67033,7 @@
       "rok": 2024,
       "elementy": 164,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 89.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67013,7 +67043,7 @@
       "rok": 2024,
       "elementy": 233,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67023,7 +67053,7 @@
       "rok": 2024,
       "elementy": 389,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 174.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67033,7 +67063,7 @@
       "rok": 2024,
       "elementy": 535,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 329.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67043,7 +67073,7 @@
       "rok": 2024,
       "elementy": 292,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67053,7 +67083,7 @@
       "rok": 2024,
       "elementy": 550,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 359.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Animal Crossing"
     },
@@ -67222,11 +67252,13 @@
       "numer": "75638",
       "nazwa": "Battle at Arlong Park",
       "rok": 2025,
-      "elementy": 923,
+      "elementy": 926,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 339.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "One Piece"
+      "motyw_rebrickable": "One Piece",
+      "elementy_poprzednio": 923,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "75640",
@@ -67303,7 +67335,7 @@
       "rok": 2027,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     }
@@ -67322,11 +67354,13 @@
       "numer": "75681",
       "nazwa": "Glinda, Elphaba & Nessarose at Shiz Uni",
       "rok": 2024,
-      "elementy": 305,
+      "elementy": 304,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Wicked"
+      "motyw_rebrickable": "Wicked",
+      "elementy_poprzednio": 305,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "75682",
@@ -67345,7 +67379,7 @@
       "rok": 2024,
       "elementy": 742,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 309.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wicked"
     },
@@ -67459,7 +67493,7 @@
       "rok": 2024,
       "elementy": 193,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 64.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite"
     },
@@ -67480,7 +67514,7 @@
       "rok": 2024,
       "elementy": 1414,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Fortnite"
     },
@@ -67621,7 +67655,7 @@
       "rok": 2025,
       "elementy": 33,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Bluey"
     }
@@ -67999,7 +68033,7 @@
       "rok": 2023,
       "elementy": 8,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 17.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Series 24 Minifigures / Collectible Minifigures"
     },
@@ -68039,7 +68073,7 @@
       "rok": 2024,
       "elementy": 16,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Series 26 Minifigures / Collectible Minifigures"
     },
@@ -68049,7 +68083,7 @@
       "rok": 2024,
       "elementy": 11,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dungeons & Dragons / Collectible Minifigures"
     },
@@ -68059,7 +68093,7 @@
       "rok": 2025,
       "elementy": 6,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Series 27 Minifigures / Collectible Minifigures"
     },
@@ -68069,7 +68103,7 @@
       "rok": 2025,
       "elementy": 29,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Formula 1 / Collectible Minifigures"
     },
@@ -68079,7 +68113,7 @@
       "rok": 2025,
       "elementy": 7,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Spider-Man - Across the Spider-Verse / Collectible Minifigures"
     },
@@ -68179,7 +68213,7 @@
       "rok": 2024,
       "elementy": 702,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 224.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Wednesday"
     },
@@ -68187,11 +68221,13 @@
       "numer": "76781",
       "nazwa": "Wednesday & Enid's Dorm Room",
       "rok": 2024,
-      "elementy": 751,
+      "elementy": 750,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 399.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Wednesday"
+      "motyw_rebrickable": "Wednesday",
+      "elementy_poprzednio": 751,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "76784",
@@ -68596,7 +68632,7 @@
       "rok": 2023,
       "elementy": 40,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -68606,7 +68642,7 @@
       "rok": 2026,
       "elementy": 35,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69176,7 +69212,7 @@
       "rok": 2023,
       "elementy": 438,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69216,7 +69252,7 @@
       "rok": 2023,
       "elementy": 3981,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 1749.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "UCS / Batman"
     },
@@ -69236,7 +69272,7 @@
       "rok": 2024,
       "elementy": 140,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 64.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69256,7 +69292,7 @@
       "rok": 2024,
       "elementy": 184,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69266,7 +69302,7 @@
       "rok": 2024,
       "elementy": 713,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 329.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69276,7 +69312,7 @@
       "rok": 2024,
       "elementy": 435,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 259.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Batman / Super Heroes DC"
     },
@@ -69603,7 +69639,7 @@
       "rok": 2025,
       "elementy": 53,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69613,7 +69649,7 @@
       "rok": 2023,
       "elementy": 434,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69623,7 +69659,7 @@
       "rok": 2023,
       "elementy": 259,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 89.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69633,7 +69669,7 @@
       "rok": 2023,
       "elementy": 237,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 89.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69643,7 +69679,7 @@
       "rok": 2023,
       "elementy": 274,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 159.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69673,7 +69709,7 @@
       "rok": 2023,
       "elementy": 494,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 269.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69683,7 +69719,7 @@
       "rok": 2023,
       "elementy": 681,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 359.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69693,7 +69729,7 @@
       "rok": 2023,
       "elementy": 878,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69703,7 +69739,7 @@
       "rok": 2023,
       "elementy": 1257,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 449.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69713,7 +69749,7 @@
       "rok": 2024,
       "elementy": 94,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 42.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69723,7 +69759,7 @@
       "rok": 2024,
       "elementy": 156,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 64.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69733,7 +69769,7 @@
       "rok": 2024,
       "elementy": 350,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69743,7 +69779,7 @@
       "rok": 2024,
       "elementy": 437,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 214.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69753,7 +69789,7 @@
       "rok": 2024,
       "elementy": 723,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 389.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69763,7 +69799,7 @@
       "rok": 2024,
       "elementy": 1203,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69773,7 +69809,7 @@
       "rok": 2024,
       "elementy": 226,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69783,7 +69819,7 @@
       "rok": 2024,
       "elementy": 342,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69793,7 +69829,7 @@
       "rok": 2024,
       "elementy": 328,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69801,11 +69837,13 @@
       "numer": "71483",
       "nazwa": "The Never Witch's Nightmare Creatures",
       "rok": 2024,
-      "elementy": 464,
+      "elementy": 457,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Dreamzzz"
+      "motyw_rebrickable": "Dreamzzz",
+      "elementy_poprzednio": 464,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "71484",
@@ -69813,7 +69851,7 @@
       "rok": 2024,
       "elementy": 917,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 349.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69823,7 +69861,7 @@
       "rok": 2024,
       "elementy": 1333,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 559.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69833,7 +69871,7 @@
       "rok": 2024,
       "elementy": 1742,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 879.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69843,7 +69881,7 @@
       "rok": 2025,
       "elementy": 121,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 42.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69853,7 +69891,7 @@
       "rok": 2025,
       "elementy": 143,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 42.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69863,7 +69901,7 @@
       "rok": 2025,
       "elementy": 266,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69873,7 +69911,7 @@
       "rok": 2025,
       "elementy": 252,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69883,7 +69921,7 @@
       "rok": 2025,
       "elementy": 485,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 219.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69915,7 +69953,7 @@
       "rok": 2025,
       "elementy": 368,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 124.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69925,7 +69963,7 @@
       "rok": 2025,
       "elementy": 1006,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69957,7 +69995,7 @@
       "rok": 2024,
       "elementy": 37,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 16.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Dreamzzz"
     },
@@ -69988,7 +70026,7 @@
       "rok": 2024,
       "elementy": 2500,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 1299.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "The Legend of Zelda"
     }
@@ -70998,11 +71036,13 @@
       "numer": "5009157",
       "nazwa": "Amelia Ticket Booth",
       "rok": 2025,
-      "elementy": 153,
+      "elementy": 152,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Promotional"
+      "motyw_rebrickable": "Promotional",
+      "elementy_poprzednio": 153,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "5009325",
@@ -72770,7 +72810,7 @@
       "rok": 2023,
       "elementy": 130,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 129.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     },
@@ -72791,7 +72831,7 @@
       "rok": 2024,
       "elementy": 60,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 64.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     },
@@ -72801,7 +72841,7 @@
       "rok": 2024,
       "elementy": 165,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 169.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     },
@@ -72811,7 +72851,7 @@
       "rok": 2024,
       "elementy": 252,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 214.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     },
@@ -72819,11 +72859,13 @@
       "numer": "11204",
       "nazwa": "Mermaid Gabby's Aquarium Adventure",
       "rok": 2025,
-      "elementy": 114,
+      "elementy": 103,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 84.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Gabby's Dollhouse"
+      "motyw_rebrickable": "Gabby's Dollhouse",
+      "elementy_poprzednio": 114,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "11205",
@@ -72831,7 +72873,7 @@
       "rok": 2025,
       "elementy": 263,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Gabby's Dollhouse"
     },
@@ -73001,7 +73043,7 @@
       "rok": 2024,
       "elementy": 48,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 17.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Despicable Me 4"
     },
@@ -73372,7 +73414,7 @@
       "rok": 2023,
       "elementy": 899,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 429.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other"
     },
@@ -73404,7 +73446,7 @@
       "rok": 2024,
       "elementy": 232,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 109.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other"
     },
@@ -73659,7 +73701,7 @@
       "rok": 2024,
       "elementy": 1231,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 659.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other"
     },
@@ -73669,7 +73711,7 @@
       "rok": 2024,
       "elementy": 1743,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Other"
     },
@@ -74104,7 +74146,7 @@
       "rok": 2023,
       "elementy": 761,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Avatar"
     },
@@ -74114,7 +74156,7 @@
       "rok": 2024,
       "elementy": 136,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 109.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Despicable Me 4"
     },
@@ -74124,7 +74166,7 @@
       "rok": 2024,
       "elementy": 379,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 174.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Despicable Me 4"
     },
@@ -74134,7 +74176,7 @@
       "rok": 2024,
       "elementy": 839,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 239.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Despicable Me 4"
     },
@@ -74144,7 +74186,7 @@
       "rok": 2024,
       "elementy": 868,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Despicable Me 4"
     },
@@ -74344,7 +74386,7 @@
       "rok": 2023,
       "elementy": 387,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Indiana Jones"
     },
@@ -74354,7 +74396,7 @@
       "rok": 2023,
       "elementy": 600,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 174.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Indiana Jones"
     },
@@ -74364,7 +74406,7 @@
       "rok": 2023,
       "elementy": 1545,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 659.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Indiana Jones"
     },
@@ -79209,11 +79251,13 @@
       "numer": "910029",
       "nazwa": "Mountain Fortress",
       "rok": 2024,
-      "elementy": 3997,
+      "elementy": 3995,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 3997,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910030",
@@ -79239,21 +79283,25 @@
       "numer": "910032",
       "nazwa": "Parisian Street",
       "rok": 2024,
-      "elementy": 3533,
+      "elementy": 3532,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 3533,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910033",
       "nazwa": "Old Train Engine Shed",
       "rok": 2024,
-      "elementy": 2339,
+      "elementy": 2331,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 2339,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910034",
@@ -79349,31 +79397,37 @@
       "numer": "910043",
       "nazwa": "Forest Stronghold",
       "rok": 2025,
-      "elementy": 3396,
+      "elementy": 3395,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 3396,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910044",
       "nazwa": "Wild West Train",
       "rok": 2025,
-      "elementy": 3197,
+      "elementy": 3192,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 3197,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910045",
       "nazwa": "Siege Encampment",
       "rok": 2025,
-      "elementy": 2601,
+      "elementy": 2598,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 2601,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910046",
@@ -79399,11 +79453,13 @@
       "numer": "910049",
       "nazwa": "Adventure in Transylvania",
       "rok": 2025,
-      "elementy": 4060,
+      "elementy": 4056,
       "status": "eol",
       "cena_katalogowa": null,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "BrickLink Designer Program"
+      "motyw_rebrickable": "BrickLink Designer Program",
+      "elementy_poprzednio": 4060,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "910050",
@@ -81971,7 +82027,7 @@
       "rok": 2023,
       "elementy": 643,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 109.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "DOTS"
     },
@@ -81981,7 +82037,7 @@
       "rok": 2023,
       "elementy": 1154,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 229.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "DOTS"
     },
@@ -82001,7 +82057,7 @@
       "rok": 2023,
       "elementy": 234,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 69.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "DOTS"
     },
@@ -82011,7 +82067,7 @@
       "rok": 2023,
       "elementy": 856,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 199.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "DOTS"
     },
@@ -82964,7 +83020,7 @@
       "rok": 2023,
       "elementy": 844,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 309.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -82974,7 +83030,7 @@
       "rok": 2023,
       "elementy": 1582,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 439.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -82995,7 +83051,7 @@
       "rok": 2023,
       "elementy": 540,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 209.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -83015,7 +83071,7 @@
       "rok": 2023,
       "elementy": 789,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 329.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -83025,7 +83081,7 @@
       "rok": 2023,
       "elementy": 2364,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 849.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -83035,7 +83091,7 @@
       "rok": 2024,
       "elementy": 390,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 149.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid"
     },
@@ -83043,22 +83099,26 @@
       "numer": "80051",
       "nazwa": "Monkie Kid's Mini Mech",
       "rok": 2024,
-      "elementy": 557,
+      "elementy": 556,
       "status": "dostepny",
       "cena_katalogowa": 189.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Monkie Kid",
-      "lego_pl_widziano": "2026-11-03"
+      "lego_pl_widziano": "2026-11-03",
+      "elementy_poprzednio": 557,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "80053",
       "nazwa": "Mei's Dragon Mech",
       "rok": 2024,
-      "elementy": 998,
+      "elementy": 990,
       "status": "eol",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 379.99,
       "zrodlo": "rebrickable",
-      "motyw_rebrickable": "Monkie Kid"
+      "motyw_rebrickable": "Monkie Kid",
+      "elementy_poprzednio": 998,
+      "elementy_zrodlo": "brickset.com 06.11.2026 (Rebrickable liczył inaczej; zgodne z kartą Piotra)"
     },
     {
       "numer": "80054",
@@ -84361,7 +84421,7 @@
       "rok": 2024,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 24.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Key Chain / Gear",
       "lego_pl_widziano": "2026-11-03"
@@ -84372,7 +84432,7 @@
       "rok": 2025,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 24.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Key Chain / Gear",
       "lego_pl_widziano": "2026-11-03"
@@ -84383,7 +84443,7 @@
       "rok": 2025,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 24.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Key Chain / Gear",
       "lego_pl_widziano": "2026-11-03"
@@ -84394,7 +84454,7 @@
       "rok": 2025,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 24.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Key Chain / Gear",
       "lego_pl_widziano": "2026-11-03"
@@ -84405,7 +84465,7 @@
       "rok": 2025,
       "elementy": null,
       "status": "dostepny",
-      "cena_katalogowa": null,
+      "cena_katalogowa": 24.99,
       "zrodlo": "rebrickable",
       "motyw_rebrickable": "Key Chain / Gear",
       "lego_pl_widziano": "2026-11-03"

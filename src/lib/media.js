@@ -1,6 +1,7 @@
 // Wspólne źródło zdjęć i opisów zestawów.
 //
 // Kolejność priorytetów przy zdjęciu:
+//   0. zdjecia.json z `pierwszenstwo: true` -> ręczna korekta błędnego zdjęcia ze sklepu
 //   1. sety.json  -> pole `zdjecia.glowne` (najświeższe; aktualizuje je Łowca Promocji z feedów)
 //   2. oferty_feed.json -> migawka feedów sklepowych
 //   3. zdjecia.json -> mapa zbiorcza (Planeta Klocków / Media Expert / Rebrickable)
@@ -40,6 +41,10 @@ export function zdjecieSetu(nr, { sety = {}, feed = FEED_DOMYSLNY } = {}) {
   const klucz = String(nr);
   if (!KLUCZ_WORKERA.test(klucz)) return null;
 
+  // ręczna korekta błędnego zdjęcia ze sklepu (zdjecia.json `pierwszenstwo: true`,
+  // od 06.11.2026) – ta sama reguła co w scripts/generuj-obrazy.mjs
+  if (zdjeciaMapa[klucz]?.pierwszenstwo && zdjeciaMapa[klucz]?.url)
+    return { url: `/img/${klucz}.jpg`, zrodlo: zdjeciaMapa[klucz].zrodlo ?? null };
   if (sety[klucz]?.zdjecia?.glowne)
     return { url: `/img/${klucz}.jpg`, zrodlo: sety[klucz]?.zdjecia?.zrodlo ?? null };
   if (feed[klucz]?.zdjecie)

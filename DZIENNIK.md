@@ -154,6 +154,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Audyt: punkty 5, 7, 8
+
+- **5 Black Weeks** (`1854a9d3`): tyg. 1–2 z `wazne_do` (baner „Akcja zakończona”), tyg. 3 z „Aktualizacją 6 listopada” — kod black-weeks3 nie obejmuje już 8 z 13 zestawów (76454 809,90 zł bez kodu; 42175 niedostępny); `kody_rabatowe.json` zawęża `zestawy` do 5 działających. Huby bez linków do zakończonych akcji: 50 → 0 (`src/lib/artykuly-setow.js`). Otwarte: tabele w artykułach (`remark-ceny.mjs`) nie mają sita `podejrzanyRynek`/14 dni; ceny x-kom 10967, 43285, 76336, 43303 nieaktualne do zrzutu 09.11.
+- **7 Boty** (`addc8e57`, `materialy/audyt-2026-11-06/boty-klikniecia.md`): spadek ludzi = wypadnięcie piku 26–27.10; fala 05.11 (13 301, 89 krajów) nie przeszła do sieci; reguły filtra bez zmian; propozycja łatki diagnostycznej workera czeka na zgodę Marka.
+- **8 Fakty i zdjęcia:** 145 RRP z kart P07 w `rrp_potwierdzone.json` (994 → 1139), 6 RRP wyrównanych (10338, 31147, 43269, 75328, 76326, 76327), 15 liczb elementów w katalogu wg Bricksetu, 8 × Super Mario premiera 2027-01, 72168 = 1083 el., 18+; zdjęcia 10001 i 60086 z Rebrickable (`pierwszenstwo` w `zdjecia.json`); JSON-LD i metryka karty biorą elementy i RRP z danych huba (tekst karty bez zmian).
+- **Dla Piotra (karty i teksty nietknięte):** elementy w tekście kart — 40686 261 → 262, 42643 102 → 110, 43242 2228 → 2208, 41758 230 → 231, 77259 216 → 215; 72168 w metryce 1183 → 1083; RRP w kartach/FAQ — 10338 399,99 → 379,99, 75328 309,99 → 299,99, 43269 619,99 → 599,99, 76326 i 76327 269,99 → 249,99, 31147 84,99 → 81,99; polybagi 30715, 30722, 30723, 30724, 30728, 30735 w FAQ 16,49 → 16,99 zł; artykuł `lego-pokemon-premiera` tabela 72168 „1183 | 0,47 zł” → „1083 | 0,52 zł”. Prezentownik „Święta dla dzieci” poleca 72168 (18+) dla 10–12 lat — decyzja redakcyjna.
+
 ## 2026-11-06 · Code · D12: zakończone deale z noindex
 
 GSC 06.11: cała sekcja `/deale/` „wykryta – niezindeksowana”. Decyzja Marka: zakończone deale noindex i poza mapą. `src/lib/deal-zakonczony.js`: zakończony = po `wazne_do`, a bez niej 14 dni od `data`; `Artykul.astro` daje noindex, `sitemapy.js` pomija w `sitemap-deale.xml`. Z 20 deali 15 z noindex; w mapie: 10330, 42689, 75192, 75446 i kalendarze adwentowe (`wazne_do` 2026-12-24 — żyje do Wigilii). Deal, który ma być dłużej w Google, dostaje jawne `wazne_do`. D10 (Awin) czeka do wzrostu ruchu, D11 (boost) — osobna rozmowa.

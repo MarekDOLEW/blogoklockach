@@ -134,13 +134,42 @@ const okruszki = {
   ],
 };
 
+// Liczba elementów i RRP mają na hubie jedno źródło: `elementy` (sety → katalog →
+// wycofania) i `cenaKatalogowa` (łańcuch cenaKatalogowaSetu). Karta Piotra niesie
+// własne liczby z dnia pisania – audyt 06.11.2026 znalazł 20 hubów, w których
+// JSON-LD `description` (pierwszy akapit karty) podawał inną liczbę elementów niż
+// nagłówek, oraz karty z RRP sprzed zmiany cennika. Tekst karty zostaje nietknięty
+// (poprawia go autor); w danych strukturalnych i w metryce pokazujemy wartości huba.
+// Metryka to tabela danych – import (scripts/import-karty.py) i tak nadpisuje w niej
+// liczbę elementów wartością z katalogu, a „Status” nadpisujemy niżej tak samo.
+const POLA_RRP_METRYKI = ['Polska cena katalogowa RRP', 'Cena katalogowa w Polsce'];
+const metrykaZDanych = {
+  ...(elementy ? { 'Liczba elementów': String(elementy) } : {}),
+  ...(cenaKatalogowa && !bezRrp
+    ? Object.fromEntries(POLA_RRP_METRYKI.filter((p) => /\d,\d{2}\s*zł/.test(karta?.metryka?.[p] ?? '') && !/za\s/.test(karta.metryka[p])).map((p) => [p, fmt(cenaKatalogowa)]))
+    : {}),
+};
+// Liczba elementów z karty (karta.elementy) w tekście akapitu → wartość z nagłówka.
+// Odmiana: forma rządzona liczebnikiem („zawiera 102 elementy”) idzie za nową
+// liczbą, dopełniacz po przyimku („z 1083 elementów”) zostaje.
+function liczbaElementowJakWNaglowku(tekst) {
+  const stara = Number(karta?.elementy);
+  const nowa = Number(elementy);
+  if (!stara || !nowa || stara === nowa) return tekst;
+  const wzor = String(stara).replace(/\B(?=(\d{3})+(?!\d))/g, '[\\s\\u00a0\\u202f]?');
+  return tekst.replace(new RegExp(`(?<![\\d,.])${wzor}(\\s+)(element(?:y|ów)?|klocków|klocki|części)(?![\\p{L}])`, 'gu'), (_, odstep, rzecz) => {
+    const odmiana = rzecz.startsWith('element') && rzecz === odmien(stara, 'element', 'elementy', 'elementów');
+    return `${nowa}${odstep}${odmiana ? odmien(nowa, 'element', 'elementy', 'elementów') : rzecz}`;
+  });
+}
+
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: `LEGO ${nazwa} (${nr})`,
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
-  ...(opis ? { description: opis } : karta?.akapity?.[0] ? { description: String(karta.akapity[0]).replace(/<[^>]+>/g, '').slice(0, 300) } : {}),
+  ...(opis ? { description: opis } : karta?.akapity?.[0] ? { description: liczbaElementowJakWNaglowku(String(karta.akapity[0]).replace(/<[^>]+>/g, '')).slice(0, 300) } : {}),
   ...(foto?.url ? { image: new URL(foto.url, Astro.site).href } : {}),
   ...(ofertyBezCeneo.length
     ? {
@@ -459,7 +488,7 @@ const opisMeta = najlepsza
                   {Object.entries(karta.metryka).map(([pole, wartosc]) => (
                     <tr>
                       <th scope="row">{pole}</th>
-                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : pole === 'Status' ? (statusMetryki ?? wartosc) : wartosc}</td>
+                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : pole === 'Status' ? (statusMetryki ?? wartosc) : (metrykaZDanych[pole] ?? wartosc)}</td>
                     </tr>
                   ))}
                 </tbody>

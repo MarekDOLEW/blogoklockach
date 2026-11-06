@@ -181,3 +181,19 @@ działać**.
 
 Koszt trzymania go w gicie jest zresztą znikomy: 1,1 MB i **cztery commity
 w całej historii**. Ryzyko jest asymetryczne, więc zostaje.
+
+## Błędne zdjęcie zestawu: korekta w `zdjecia.json` *(od 06.11.2026)*
+
+Feed sklepu potrafi przypiąć do numeru zdjęcie innego produktu (10001 Metroliner
+dostawał z Planety Klocków grę planszową DOT10001 „Monkey Palace”, 60086 — puzzle
+62278). Poprawka w feedzie nie przetrwa, bo Łowca odnawia go co przebieg. Zamiast
+tego wpis w `src/data/zdjecia.json` z polem `"pierwszenstwo": true` (i `korekta`
+z powodem) — wygrywa ze wszystkimi źródłami w `generuj-obrazy.mjs` i
+`src/lib/media.js`. Worker czyta R2 przed źródłem, więc po zmianie trzeba
+nadpisać kopię: `node scripts/r2-obrazy.mjs --klucze <nr>` (wgrywa oryginał
+i warianty WebP).
+
+Automatyczne odrzucanie po numerze w nazwie pliku Planety się nie sprawdza: z
+czterech hubów, w których numer w nazwie pliku różnił się od numeru zestawu, dwa
+miały dobre zdjęcie z literówką w nazwie (30690 „LEGO-30665-…-pisanek”, 76285
+„LEGO-76286-…-Maska-Spider-Mana”). Kandydatów wskazuje heurystyka, rozstrzyga oko.

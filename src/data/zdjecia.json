@@ -14,7 +14,8 @@
    "Numery niecyfrowe (slugi typu PONDDUCK) nie maja zdjecia - dla nich placeholder.",
    "URL-e Media Expert dzialaja z przegladarki, ale odrzucaja zapytania z Cloudflare Workers - worker /img/ nie moze ich pobrac (502). Dlatego generator obrazy.json pomija mediaexpert.pl, a sety z feedu ME maja tu nadpisane zrodlo Rebrickable (2026-08-16).",
    "27.09.2026: dopisane 166 zdjec dla zestawow bez zadnego zrodla (68 Rebrickable, 98 Brickset), wgrane do R2 skryptem r2-obrazy.mjs --klucze. Bez zdjecia zostalo 10 pozycji (edukacyjne 20209/20211/20212, 75188-3, IRONMAN, 342160 i promocyjne L000...) - brak ich na Rebrickable, Brickset i LEGO.com.",
-   "27.09.2026: 131 adresow Rebrickable zbudowanych wzorcem <nr>-1.jpg zwracalo 404 (glownie DUPLO i promocyjne sprzed 2006) - 56 przestawione na Brickset, 75 oznaczone url=null (strona pokazuje zastepczy klocek zamiast zepsutego obrazka); stary adres zostaje w polu `poprzednio`."
+   "27.09.2026: 131 adresow Rebrickable zbudowanych wzorcem <nr>-1.jpg zwracalo 404 (glownie DUPLO i promocyjne sprzed 2006) - 56 przestawione na Brickset, 75 oznaczone url=null (strona pokazuje zastepczy klocek zamiast zepsutego obrazka); stary adres zostaje w polu `poprzednio`.",
+   "06.11.2026: pole `pierwszenstwo: true` = reczna korekta zdjecia, ktore feed sklepu przypial do zlego numeru; wygrywa z sety.json i z feedem (generuj-obrazy.mjs, src/lib/media.js). Pierwsze: 10001 (Planeta Klockow dawala gre planszowa DOT10001 Monkey Palace), 60086 (puzzle 62278). Po zmianie nadpisac kopie w R2: node scripts/r2-obrazy.mjs --klucze <nr>."
   ],
   "wygenerowano": "2026-08-14"
  },
@@ -10904,8 +10905,10 @@
   "zrodlo": "rebrickable"
  },
  "60086": {
-  "url": "https://planetaklockow.pl/environment/cache/images/productGfx_35411_1024_1024/LEGO-62278-Puzzle-Brick-Botanicals-1000-elementow.jpg?overlay=1",
-  "zrodlo": "planetaklockow"
+  "url": "https://cdn.rebrickable.com/media/sets/60086-1.jpg",
+  "zrodlo": "rebrickable",
+  "pierwszenstwo": true,
+  "korekta": "2026-11-06: bylo zdjecie puzzli LEGO 62278 Brick Botanicals z Planety Klockow; zdjecie sprawdzone wzrokowo, nazwa potwierdzona w Brickset"
  },
  "60088": {
   "url": "https://cdn.rebrickable.com/media/sets/60088-1.jpg",
@@ -31463,5 +31466,11 @@
   "zrodlo": "brickset",
   "dodano": "2026-11-05",
   "uwaga": "oficjalna grafika zapowiedzi współpracy LEGO × Daft Punk (22.10.2026), zestaw bez numeru — okładka artykułu lego-daft-punk-ideas-zapowiedz"
+ },
+ "10001": {
+  "url": "https://cdn.rebrickable.com/media/sets/10001-1.jpg",
+  "zrodlo": "rebrickable",
+  "pierwszenstwo": true,
+  "korekta": "2026-11-06: feed Planety Klockow podawal gre planszowa LEGO Monkey Palace (DOT10001); zdjecie sprawdzone wzrokowo, nazwa potwierdzona w Brickset"
  }
 }

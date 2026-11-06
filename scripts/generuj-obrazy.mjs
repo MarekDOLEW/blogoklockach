@@ -62,6 +62,16 @@ const ustaw = (nr, url) => {
   if (nr && url && !zablokowane.test(url) && !obrazy[nr]) obrazy[nr] = url;
 };
 
+// Ręczna korekta (od 06.11.2026): wpis w zdjecia.json z `pierwszenstwo: true`
+// wygrywa ze wszystkimi źródłami. Feed Planety Klocków potrafi przypiąć do numeru
+// zestawu zdjęcie innego produktu (10001 Metroliner dostawał grę planszową
+// „Monkey Palace" DOT10001, 60086 puzzle 62278) i Łowca odnawia ten wpis co
+// przebieg, więc poprawka w feedzie by nie przetrwała. Ta sama reguła w
+// src/lib/media.js. Po zmianie trzeba nadpisać kopię w R2:
+// `node scripts/r2-obrazy.mjs --klucze <nr>` (worker czyta R2 przed źródłem).
+for (const [nr, z] of Object.entries(mapa)) {
+  if (nr !== '_meta' && z?.pierwszenstwo) ustaw(nr, z.url);
+}
 for (const [nr, s] of Object.entries(sety)) ustaw(nr, s?.zdjecia?.glowne);
 for (const [nr, f] of Object.entries(feed)) ustaw(nr, f?.zdjecie);
 for (const [nr, z] of Object.entries(mapa)) {
