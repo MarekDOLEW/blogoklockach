@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-03",
+  "zaktualizowano": "2026-11-06",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -51,6 +51,7 @@
    "Ninjago",
    "One Piece",
    "Pokémon",
+   "Power Functions",
    "SMART Play",
    "Seasonal",
    "Shrek",
@@ -94171,6 +94172,3905 @@
    {
     "q": "Jakie są podobne zestawy LEGO City?",
     "a": "Do zamiatarki dobrze pasują inne pojazdy służb miejskich z City. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "10350": {
+  "seria": "Icons",
+  "nazwa": "Dom w stylu angielskim",
+  "elementy": 3266,
+  "akapity": [
+   "Brytyjski akcent w kolekcji budynków modułowych LEGO Icons wnosi zestaw 10350 Dom w stylu angielskim. Budynek ma trzy fasady z muru pruskiego, okna, zewnętrzną klatkę schodową i spadzisty czerwony dach z kominami, a jego wystrój nawiązuje do minionej epoki. Zestaw liczy 3266 elementów i ma oznaczenie 18+, a dom mierzy 31 cm wysokości, 26 cm szerokości i 25 cm głębokości.",
+   "Wnętrze podzielono między cztery miejsca: restaurację z ladą, stołkami i stołem, pasmanterię z kapeluszami i parasolami, warsztat zegarmistrza z budzikami i zegarami stojącymi oraz przytulne mieszkanie na poddaszu. Wśród drobniejszych detali są ukryta łazienka, balkon i koty, a szef kuchni podaje w restauracji rybę na obiad. Modułowa konstrukcja pozwala przearanżować pokoje i piętra, więc układ wnętrz i sposób ekspozycji można zmieniać.",
+   "Dom zadebiutował w 2025 roku. W pudełku jest osiem minifigurek, a wśród nich szef kuchni i kominiarz. Pozostałe budynki modułowe kupuje się osobno, a nowy dom łatwo dołączyć do własnej kolekcji.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,31 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11378/\">LEGO 11378 Samolot pasażerski Douglas DC-3 PAN AM</a> (949,99 zł katalogowo) i <a href=\"/zestaw/11371/\">LEGO 11371 Ulica handlowa</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10350",
+   "Nazwa": "Dom w stylu angielskim",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "3266",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "8 minifigurek (m.in. szef kuchni i kominiarz)",
+   "Cena katalogowa w Polsce": "999,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "budynki modułowe LEGO Icons",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile wynosi cena katalogowa za element?",
+    "a": "Około 0,31 zł przy cenie 999,99 zł i 3266 elementach. Przy budynkach modułowych to tylko jedna z miar, bo liczą się też detale wnętrz i osiem minifigurek. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co znajduje się w budynku?",
+    "a": "Restauracja, pasmanteria, warsztat zegarmistrza i mieszkanie na poddaszu, a także ukryta łazienka."
+   },
+   {
+    "q": "Jak wygląda fasada domu?",
+    "a": "Ma mur pruski na trzech ścianach, zewnętrzną klatkę schodową i czerwony dach z kominami."
+   },
+   {
+    "q": "Do jakiej kolekcji należy dom?",
+    "a": "Do kolekcji budynków modułowych LEGO Icons, której pozostałe modele kupuje się osobno."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Icons w podobnej cenie?",
+    "a": "Taką samą cenę katalogową, 999,99 zł, ma 10360 Nosiciel wahadłowców. To model samolotu i promu kosmicznego z 2417 elementów, a dom ma 3266 elementów i osiem minifigurek. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10360": {
+  "seria": "Icons",
+  "nazwa": "Nosiciel wahadłowców",
+  "elementy": 2417,
+  "akapity": [
+   "W latach 70. NASA i Boeing połączyły siły, by stworzyć maszynę do przewożenia promów kosmicznych, i właśnie ten duet odtwarza zestaw 10360. Model Boeinga 747 ma elegancko wyprofilowany kadłub, system mocowania wahadłowca i 18-kołowe podwozie, które wysuwa się i chowa przekręceniem pokrętła. Prom NASA Enterprise dostał przyczepiany stożek ogonowy oraz odłączane silniki i podwozie, a wszystkie te części można schować w ładowni.",
+   "Oba modele stoją na solidnej podstawce z osobnymi tabliczkami informacyjnymi dla Boeinga 747 i dla wahadłowca, dzięki czemu każdą z maszyn opisano oddzielnie. Samolot z zamocowanym promem ma 63 cm długości, 53,5 cm szerokości i 27 cm wysokości, więc zestaw z 2417 elementów zajmie sporo miejsca na półce albo biurku.",
+   "Model z linii LEGO Icons ukazał się w 2025 roku i ma oznaczenie 18+. Prezentuje się jako wierna replika maszyn, które pomogły ukształtować przyszłość podróży w kosmos, i trafi przede wszystkim do fanów lotnictwa, nauki oraz odkrywania kosmosu.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 4. co do wielkości. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11378/\">LEGO 11378 Samolot pasażerski Douglas DC-3 PAN AM</a> (949,99 zł katalogowo) i <a href=\"/zestaw/11371/\">LEGO 11371 Ulica handlowa</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10360",
+   "Nazwa": "Nosiciel wahadłowców",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "2417",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "999,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons, licencje Boeing i NASA",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić Nosiciela wahadłowców w cenie katalogowej?",
+    "a": "Za 999,99 zł w sklepie LEGO zestaw daje 1500 punktów LEGO Insiders, co przy produkcie oznaczonym jako ekskluzywny bywa realną korzyścią. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co wysuwa 18-kołowe podwozie Boeinga?",
+    "a": "Przekręcenie pokrętła; tak samo podwozie się chowa."
+   },
+   {
+    "q": "Co można schować w ładowni promu?",
+    "a": "Przyczepiany stożek ogonowy, silniki i podwozie wahadłowca."
+   },
+   {
+    "q": "Czy model ma podstawkę?",
+    "a": "Tak. Na podstawce są osobne tabliczki informacyjne dla samolotu i promu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Inne duże modele pojazdów i budowli dla dorosłych zbiera kategoria serii. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10365": {
+  "seria": "Icons",
+  "nazwa": "Statek piracki kapitana Jacka Sparrowa",
+  "elementy": 2862,
+  "akapity": [
+   "Galeon widmo z filmów Disneya „Piraci z Karaibów” w wersji LEGO Icons ma wysokie maszty i podarte czarne żagle, a ukończony statek mierzy 64 cm wysokości, 64 cm długości i 23 cm szerokości. Zestaw 10365 liczy 2862 elementy i ukazał się w 2025 roku. Kilka funkcji ożywia pokład: pokrętłami rozkłada się działa na lewej albo prawej burcie, a koło sterowe się obraca.",
+   "Po otwarciu pokładu widać kwaterę kapitana z meblami, świecznikami i jabłkiem oraz pokład działowy. Statek ma też odczepianą łódź wiosłową i galion w kształcie minifigurki. Podstawka pozwala ustawić model pod kątem, a po rozdzieleniu kadłuba na wysokości linii wodnej galeon można pokazać w trybie żeglowania, jakby płynął po morzu.",
+   "Załogę tworzy osiem minifigurek: Jack Sparrow, Will Turner, Gibbs, Cotton, Anamaria, Marty, Elizabeth Swann i Hector Barbossa. Zestaw dla dorosłych z oznaczeniem 18+ pełen jest odniesień do filmu i szczegółów, które fani serii rozpoznają od razu, a gotowy statek LEGO proponuje jako ozdobę domu albo biura.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,52 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11370/\">LEGO 11370 Stranger Things: Dom Creelów</a> (1 199,99 zł katalogowo) i <a href=\"/zestaw/11371/\">LEGO 11371 Ulica handlowa</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10365",
+   "Nazwa": "Statek piracki kapitana Jacka Sparrowa",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "2862",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "8 minifigurek (Jack Sparrow, Will Turner, Gibbs, Cotton, Anamaria, Marty, Elizabeth Swann, Hector Barbossa)",
+   "Cena katalogowa w Polsce": "1 499,99 zł",
+   "Cena katalogowa za element": "0,52 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons, licencja Disney „Piraci z Karaibów”",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów LEGO Insiders przyznaje sklep za statek?",
+    "a": "2250 punktów przy zakupie za 1 499,99 zł w sklepie LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie minifigurki płyną na statku?",
+    "a": "Jack Sparrow, Will Turner, Gibbs, Cotton, Anamaria, Marty, Elizabeth Swann i Hector Barbossa."
+   },
+   {
+    "q": "Jak rozkładają się działa?",
+    "a": "Obrotem pokręteł, na lewej albo prawej burcie."
+   },
+   {
+    "q": "Czym jest tryb żeglowania?",
+    "a": "To sposób ekspozycji: kadłub rozdziela się na wysokości linii wodnej i statek wygląda, jakby płynął."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Najbliżej są inne modele z licencji filmowych, w tym zestawy Disneya, w serii Icons. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10366": {
+  "seria": "Icons",
+  "nazwa": "Tropikalne akwarium",
+  "elementy": 4154,
+  "akapity": [
+   "Zestaw 10366 z linii LEGO Icons przedstawia kolorowy podwodny świat, w całości zbudowany z klocków. Zestaw liczy 4154 elementy, a pływają w nim cztery modele ryb, w tym tęczowa rybka, żaglowce i specjalna pasiasta ryba, a wokół nich rosną rośliny i koralowce. Są też owady morskie, ostryga z perłą, ślimaki morskie i bąbelki. Każdy element można ułożyć po swojemu, więc kompozycję da się dopasować do własnego gustu.",
+   "Akwarium nie jest tylko statyczną dekoracją. Pokrętła, korbki i ukryte dźwignie wprawiają w ruch pływającą rybę i kołyszący się koralowiec, wysuwają kraba z podwodnej jaskini i otwierają skrzynię ze skarbami. Konstrukcja ma 52 cm szerokości, 36 cm wysokości i 28 cm głębokości, a utrzymanie akwarium, jak podkreśla LEGO, nie wymaga czasu ani energii.",
+   "Ozdobny model dla dorosłych miłośników ryb i budowania zadebiutował w 2025 roku. Najlepiej sprawdzi się w domu albo w biurze jako dekoracja, która zamienia niewielką, niepozorną przestrzeń w barwny akcent.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11370/\">LEGO 11370 Stranger Things: Dom Creelów</a> (1 199,99 zł katalogowo) i <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (2 799,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10366",
+   "Nazwa": "Tropikalne akwarium",
+   "Seria": "Icons",
+   "Premiera": "2025",
+   "Liczba elementów": "4154",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 949,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Icons, zestawy dla dorosłych",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10366?",
+    "a": "Katalogowo 1 949,99 zł. W sklepie LEGO zestaw ma etykietę „Ekskluzywne”. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co poruszają pokrętła i korbki?",
+    "a": "Pływającą rybę, kołyszący się koralowiec, kraba wychodzącego z jaskini i wieko skrzyni ze skarbami."
+   },
+   {
+    "q": "Ile ryb jest w akwarium?",
+    "a": "Cztery modele ryb, a do tego koralowce, rośliny i inne morskie stworzenia."
+   },
+   {
+    "q": "Czy elementy akwarium można przestawiać?",
+    "a": "Tak. Każdy element ustawia się według własnego pomysłu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Pokrewne są modele z kategorii dekoracji do domu, w tym inne ozdobne zestawy Icons dla dorosłych. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10696": {
+  "seria": "Classic",
+  "nazwa": "Kreatywne klocki LEGO, średnie pudełko",
+  "elementy": 484,
+  "akapity": [
+   "Średnie pudełko 10696 z linii LEGO Classic zawiera 484 klocki w 35 kolorach i nie narzuca jednego, z góry określonego modelu. Jego wyróżnikiem są koła: w środku jest 18 opon i 18 felg, a duża liczba kół zachęca do budowania pojazdów i zabawy nimi. Wśród elementów specjalnych znalazły się też zielona płytka konstrukcyjna o wymiarach 8 × 16 cm, okno z ramą i trzy zestawy oczu.",
+   "Pomysły na pierwsze modele są w pudełku, a kolejne można znaleźć w internecie, na stronie linii Classic. Wszystkie modele z ilustracji da się zbudować jednocześnie. Opakowaniem jest poręczne plastikowe pudełko, w którym klocki wracają po zabawie. Zestaw jest oznaczony wiekiem od 4 do 100+ lat, więc z jednego pudełka mogą korzystać i dzieci, i dorośli. Klocki pasują też do każdej kolekcji LEGO, którą ktoś już ma w domu."
+  ],
+  "metryka": {
+   "Numer": "10696",
+   "Nazwa": "Kreatywne klocki LEGO, średnie pudełko",
+   "Seria": "Classic",
+   "Premiera": "2015",
+   "Liczba elementów": "484",
+   "Wiek": "4+",
+   "Cena katalogowa w Polsce": "124,99 zł",
+   "Cena katalogowa za element": "0,26 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Classic, pudełka z klockami",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 10696?",
+    "a": "Cena katalogowa to 124,99 zł, a zakup w sklepie LEGO daje 187 punktów LEGO Insiders. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kolorów klocków jest w pudełku?",
+    "a": "35 kolorów."
+   },
+   {
+    "q": "Ile kół można zbudować z tego zestawu?",
+    "a": "18, bo w pudełku jest 18 opon i 18 felg."
+   },
+   {
+    "q": "Czy pudełko nadaje się do przechowywania klocków?",
+    "a": "Tak. Opakowaniem jest poręczne plastikowe pudełko."
+   },
+   {
+    "q": "Jaki zestaw LEGO Classic warto kupić zamiast tego modelu?",
+    "a": "Przy budowaniu domów i innych klasycznych konstrukcji warto sięgnąć po 10698 Kreatywne klocki LEGO, duże pudełko: ma 790 elementów w 33 kolorach i osiem typów okien i drzwi, ale tylko 6 opon. Kosztuje katalogowo 209,99 zł. <a href=\"/serie/classic/\">Zobacz wszystkie zestawy LEGO Classic</a>"
+   }
+  ]
+ },
+ "10698": {
+  "seria": "Classic",
+  "nazwa": "Kreatywne klocki LEGO, duże pudełko",
+  "elementy": 790,
+  "akapity": [
+   "Z dużego pudełka kreatywnych klocków 10698 z linii LEGO Classic można zbudować dowolne konstrukcje: zestaw zawiera 790 elementów w 33 kolorach i nie narzuca jednego modelu. Najmocniej widać tu nastawienie na budynki. W środku jest osiem różnych typów okien i drzwi oraz osiem różnych ram, a te elementy zachęcają do stawiania domów i innych klasycznych konstrukcji z klocków.",
+   "Do elementów specjalnych należą dwie zielone płytki konstrukcyjne w różnych rozmiarach: 12 × 12 cm oraz 9 × 4 cm. Są też trzy zestawy oczu, sześć opon i sześć felg, więc obok budynków powstanie też kilka pojazdów. Pomysły na pierwsze modele dołączono do zestawu, a kolejne są dostępne online na stronie poświęconej linii Classic. Wszystkie modele pokazane na ilustracji dają się zbudować jednocześnie, bez rozbierania poprzedniego.",
+   "Klocki przechowuje się w poręcznym plastikowym pudełku, a sam zestaw stanowi uzupełnienie każdej kolekcji LEGO. Zestaw ma oznaczenie wieku od 4 do 100+ lat, a w ofercie jest od 2015 roku."
+  ],
+  "metryka": {
+   "Numer": "10698",
+   "Nazwa": "Kreatywne klocki LEGO, duże pudełko",
+   "Seria": "Classic",
+   "Premiera": "2015",
+   "Liczba elementów": "790",
+   "Wiek": "4+",
+   "Cena katalogowa w Polsce": "209,99 zł",
+   "Cena katalogowa za element": "0,27 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Classic, pudełka z klockami",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje jeden klocek z dużego pudełka?",
+    "a": "Średnio 0,27 zł przy cenie 209,99 zł i 790 elementach. To tylko średnia, bo w pudełku są obok siebie podstawowe kostki, płytki konstrukcyjne, okna i drzwi. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile rodzajów okien i drzwi jest w zestawie?",
+    "a": "Osiem różnych typów okien i drzwi oraz osiem ram."
+   },
+   {
+    "q": "Jakie płytki konstrukcyjne dołączono?",
+    "a": "Dwie zielone: 12 × 12 cm i 9 × 4 cm."
+   },
+   {
+    "q": "Czy z zestawu da się zbudować pojazdy?",
+    "a": "Tak, choć w ograniczonym zakresie: w pudełku jest sześć opon i sześć felg."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Classic?",
+    "a": "Średnie pudełko 10696 Kreatywne klocki LEGO kosztuje 124,99 zł i stawia na koła: ma 18 opon przy 484 elementach w 35 kolorach. <a href=\"/serie/classic/\">Zobacz wszystkie zestawy LEGO Classic</a>"
+   }
+  ]
+ },
+ "10713": {
+  "seria": "Classic",
+  "nazwa": "Kreatywna walizka",
+  "elementy": 213,
+  "akapity": [
+   "Kreatywna walizka 10713 z serii Classic łączy zestaw klocków z pudełkiem do ich przechowywania. Solidna żółta walizka ma w środku przegródki do sortowania, a w nich 213 elementów: kolorowe klocki, kształty, koła i oczy. Buduje się z nich domy, pojazdy, zwierzęta i dowolne własne konstrukcje, a proste instrukcje dla dzieci pomagają zacząć.",
+   "LEGO przedstawia ten zestaw jako dobry wybór na pierwsze klocki dla początkujących i podaje przedział wieku 4–99 lat. Zamknięta walizka mierzy około 26 cm wysokości, 28 cm szerokości i 6 cm grubości. Zestaw jest w ofercie od 2018 roku, a dodatkowe pomysły na modele LEGO publikuje na stronie serii Classic."
+  ],
+  "metryka": {
+   "Numer": "10713",
+   "Nazwa": "Kreatywna walizka",
+   "Seria": "Classic",
+   "Premiera": "2018",
+   "Liczba elementów": "213",
+   "Wiek": "4+",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Classic",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić walizkę w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 81,99 zł, a zestaw jest powszechnie dostępny, więc przed zakupem warto porównać rabaty. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "0,38 zł przy 213 elementach. To wskaźnik pomocniczy, bo w tej kwocie mieści się też walizka z przegródkami."
+   },
+   {
+    "q": "Jakie wymiary ma walizka?",
+    "a": "Około 26 cm wysokości, 28 cm szerokości i 6 cm grubości."
+   },
+   {
+    "q": "Co można zbudować z klocków z walizki?",
+    "a": "Domy, pojazdy, zwierzęta i własne pomysły; proste instrukcje dla dzieci podsuwają pierwsze modele."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Classic?",
+    "a": "Zestawy z kolorowymi klockami do swobodnego budowania zebrano w kategorii Classic. <a href=\"/serie/classic/\">Zobacz wszystkie zestawy LEGO Classic</a>"
+   }
+  ]
+ },
+ "112601": {
+  "seria": "Ninjago",
+  "nazwa": "Lloyd vs. Dragonian Warrior",
+  "elementy": 14,
+  "akapity": [
+   "Dodatek do czasopisma 112601 mieści w metalowej puszce pojedynek z linii Ninjago Dragons Rising. Lloyd ma tu zbroję turniejową i ciemnozieloną opaskę, a jego przeciwnikiem jest wojownik Dragonian z otwartym pyskiem i dolnymi kłami. Obie minifigurki występują tylko w tym zestawie, który liczy 14 elementów."
+  ],
+  "metryka": {
+   "Numer": "112601",
+   "Nazwa": "Lloyd vs. Dragonian Warrior",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "14",
+   "Minifigurki / postacie": "2 (Lloyd, wojownik Dragonian)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Ninjago Dragons Rising, dodatki do czasopism",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 112601?",
+    "a": "Dodatek wydano z czasopismem Ninjago, więc dziś cenę wyznaczają oferty sprzedających. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czym wyróżnia się Lloyd w tym zestawie?",
+    "a": "Turniejową zbroją i ciemnozieloną opaską."
+   },
+   {
+    "q": "Czy minifigurki są unikatowe?",
+    "a": "Tak, obie występują tylko w dodatku 112601."
+   },
+   {
+    "q": "Z jakiej linii Ninjago pochodzą postacie?",
+    "a": "Z Dragons Rising."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Lloyd wraca w puszce FunPack 951467 Lloyd with Mech, gdzie z 45 elementów buduje się jego mech. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "122506": {
+  "seria": "Jurassic World",
+  "nazwa": "Raptor Breakout",
+  "elementy": 13,
+  "akapity": [
+   "Raptor wydostający się z laboratorium jest głównym motywem promocyjnego dodatku Jurassic World 122506 Raptor Breakout. Wśród 13 elementów są też żaby i wyposażenie naukowe. Wydanie w papierowej torebce miało ograniczoną dystrybucję."
+  ],
+  "metryka": {
+   "Numer": "122506",
+   "Nazwa": "Raptor Breakout",
+   "Seria": "Jurassic World",
+   "Premiera": "2026",
+   "Liczba elementów": "13",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "raptor",
+   "Sposób uzyskania": "dodatek promocyjny w ograniczonej dystrybucji",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki promocyjne LEGO Jurassic World",
+   "Dystrybucja": "ograniczona dystrybucja, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jakie jest oznaczenie wieku LEGO 122506?",
+    "a": "6+."
+   },
+   {
+    "q": "Czy to wydanie limitowane?",
+    "a": "Tak, dodatek miał ograniczoną dystrybucję, więc oferty warto porównać. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Do jakiej serii należy dodatek?",
+    "a": "Do Jurassic World."
+   },
+   {
+    "q": "Co oprócz raptora zawiera zestaw?",
+    "a": "Żaby i wyposażenie naukowe."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Raptora ma też dodatek 122507 Raptor Feeding, a laboratorium – 122509 Ranger with Laboratory. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "122507": {
+  "seria": "Jurassic World",
+  "nazwa": "Raptor Feeding",
+  "elementy": 21,
+  "akapity": [
+   "Postać z ochrony ACU w ciemnoniebieskiej czapce karmi młodego raptora w dodatku do czasopisma 122507 Raptor Feeding z serii Jurassic World. Zestaw składa się z 21 elementów, a jego minifigurka występuje też w 122509 Ranger with Laboratory."
+  ],
+  "metryka": {
+   "Numer": "122507",
+   "Nazwa": "Raptor Feeding",
+   "Seria": "Jurassic World",
+   "Premiera": "2026",
+   "Liczba elementów": "21",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (postać z ochrony ACU) i młody raptor",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Jurassic World",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Od jakiego wieku jest zestaw?",
+    "a": "Od 6 lat."
+   },
+   {
+    "q": "Jak zdobyć LEGO 122507?",
+    "a": "Dołączano go do czasopisma. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakim zestawie powtarza się minifigurka?",
+    "a": "W 122509 Ranger with Laboratory."
+   },
+   {
+    "q": "Czy raptor w zestawie jest dorosły?",
+    "a": "Nie, to młody raptor."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Raptor jest też w dodatku 122506 Raptor Breakout, w którym ucieka z laboratorium. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "122509": {
+  "seria": "Jurassic World",
+  "nazwa": "Ranger with Laboratory",
+  "elementy": 28,
+  "akapity": [
+   "Laboratorium z bursztynem i owadami to główny element dodatku Jurassic World 122509 Ranger with Laboratory, który liczy 28 elementów. W zestawie jest też minifigurka z ochrony ACU w ciemnoniebieskiej czapce."
+  ],
+  "metryka": {
+   "Numer": "122509",
+   "Nazwa": "Ranger with Laboratory",
+   "Seria": "Jurassic World",
+   "Premiera": "2026",
+   "Liczba elementów": "28",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (postać z ochrony ACU)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Jurassic World",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Co zawiera LEGO 122509?",
+    "a": "Laboratorium z bursztynem i owadami oraz minifigurkę z ochrony ACU."
+   },
+   {
+    "q": "Jak duża jest torebka?",
+    "a": "12 na 18 cm, przy grubości 2 cm. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy minifigurka występuje w innym zestawie?",
+    "a": "Tak, w 122507 Raptor Feeding."
+   },
+   {
+    "q": "Czy dodatek ma motyw naukowy?",
+    "a": "Tak, jego głównym elementem jest laboratorium."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Laboratorium jest też w dodatku 122506 Raptor Breakout, w którym raptor ucieka z pracowni. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "21034": {
+  "seria": "Architecture",
+  "nazwa": "Londyn",
+  "elementy": 468,
+  "akapity": [
+   "Panorama Londynu z kolekcji LEGO Architecture Skyline zbiera na jednej podstawce pięć rozpoznawalnych budowli: Galerię Narodową, Kolumnę Nelsona, London Eye, Big Bena (Wieżę Elżbiety) i most Tower Bridge. Wzajemne proporcje budynków odpowiadają rzeczywistości, a kolory naśladują oryginały. Przezroczyste płytki u podstawy przedstawiają Tamizę, a skrzydła Tower Bridge można unieść tak, jak przy przepuszczaniu statków.",
+   "Model 21034 z 468 elementów stoi na podstawce podzielonej na płytki 4 × 32 i kończy się ozdobną plakietką z napisem „London”. Do zestawu dołączono broszurę o projektancie, architekturze i historii każdej budowli oraz o dziejach miasta; w pudełku jest wersja angielska. Gotowa panorama ma około 15 cm wysokości, 28 cm szerokości i 8 cm głębokości, więc zmieści się na biurku albo regale. Oznaczenie 12+ i tematyka kierują zestaw do osób, które interesują się podróżami, architekturą i historią."
+  ],
+  "metryka": {
+   "Numer": "21034",
+   "Nazwa": "Londyn",
+   "Seria": "Architecture",
+   "Premiera": "2017",
+   "Liczba elementów": "468",
+   "Wiek": "12+",
+   "Cena katalogowa w Polsce": "169,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Architecture Skyline",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka jest cena jednego elementu w tym zestawie?",
+    "a": "Przy 169,99 zł za 468 elementów wychodzi 0,36 zł. Ta liczba niewiele mówi o modelu, w którym liczą się raczej proporcje pięciu budowli. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które budowle Londynu są w modelu?",
+    "a": "Galeria Narodowa, Kolumna Nelsona, London Eye, Big Ben (Wieża Elżbiety) i Tower Bridge."
+   },
+   {
+    "q": "Czy most Tower Bridge się otwiera?",
+    "a": "Tak. Jego skrzydła można podnieść."
+   },
+   {
+    "q": "W jakim języku jest broszura?",
+    "a": "W pudełku jest wersja angielska, a tekst w innych językach można pobrać ze strony LEGO."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Architecture?",
+    "a": "Panoramy innych miast z linii Skyline i pozostałe modele budowli zbiera kategoria serii. <a href=\"/serie/architecture/\">Zobacz wszystkie zestawy LEGO Architecture</a>"
+   }
+  ]
+ },
+ "21330": {
+  "seria": "Ideas",
+  "nazwa": "Ideas Sam w domu",
+  "elementy": 3955,
+  "akapity": [
+   "Dom McCallisterów z komedii „Kevin sam w domu” zbudowano w zestawie LEGO Ideas 21330 z 3955 elementów. Model powstał na podstawie projektu fana, wybranego w głosowaniu społeczności, a broszura w pudełku opowiada o filmie, autorze pomysłu i projektantach LEGO. Każdy poziom domu można odłączyć, a ściany i dach się otwierają, więc do pokoi łatwo sięgnąć.",
+   "Wnętrze jest pełne psikusów i pułapek, które Kevin zastawił na Mokrych bandytów. Są tu kołyszące się puszki z farbami, funkcja upuszczania żelazka, zapadające się półki i dźwignia, dzięki której Kevin zjeżdża po schodach na sankach. Piec w piwnicy świeci dzięki klockowi zasilanemu baterią LR41, dołączoną do zestawu. Z domu prowadzi lina do domku na drzewie, a do kompletu należy furgonetka Harry’ego i Marva z łomem i policyjną czapką w środku. Odtworzono też udawaną imprezę świąteczną i scenę z Kevinem w łazience.",
+   "Pięć minifigurek to Kevin McCallister, jego mama Kate, złodziejaszki Harry i Marv oraz sąsiad „Old Man” Marley. Klocki zapakowano w 24 numerowane woreczki ułożone według fabuły filmu, co pozwala budować dom w rytmie kolejnych scen. Model, który zadebiutował w 2021 roku, ma około 27 cm wysokości, 34 cm szerokości i 37 cm głębokości.",
+   "Gdyby stanął obok 12 zestawów LEGO Ideas z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21369/\">LEGO 21369 The X-Files</a> (869,99 zł katalogowo) i <a href=\"/zestaw/21367/\">LEGO 21367 Tintin i rakieta na Księżyc</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "21330",
+   "Nazwa": "Ideas Sam w domu",
+   "Seria": "Ideas",
+   "Premiera": "2021",
+   "Liczba elementów": "3955",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "5 minifigurek (Kevin McCallister, Kate McCallister, Harry, Marv, Old Man Marley)",
+   "Cena katalogowa w Polsce": "1 299,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Ideas, zestawy z projektów fanów",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów LEGO Insiders dostaje się za dom Kevina?",
+    "a": "1950 punktów przy zakupie w sklepie LEGO, gdzie zestaw kosztuje katalogowo 1 299,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy w zestawie jest bateria do świecącego pieca?",
+    "a": "Tak. Bateria LR41 jest w pudełku."
+   },
+   {
+    "q": "Dlaczego woreczki są numerowane według fabuły?",
+    "a": "Klocki podzielono na 24 woreczki tak, by budowanie szło w kolejności scen z filmu."
+   },
+   {
+    "q": "Jakie ruchome funkcje ma dom McCallisterów?",
+    "a": "Kołyszące się puszki z farbami, spadające żelazko i zapadające się półki; Kevin zjeżdża też na sankach po schodach."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ideas?",
+    "a": "Inne modele zaprojektowane przez fanów i wybrane w głosowaniu społeczności zbiera kategoria serii. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>"
+   }
+  ]
+ },
+ "42172": {
+  "seria": "Technic",
+  "nazwa": "McLaren P1",
+  "elementy": 3893,
+  "akapity": [
+   "Supersamochód McLaren P1 w skali 1:8 trafił do kolekcji Technic dla dorosłych w 2024 roku jako zestaw 42172 z 3893 elementów. Model ma siedmiobiegową skrzynię biegów z bębnem, zawieszenie wielowahaczowe, które pochłania wstrząsy, oraz silnik V8 z pracującymi tłokami. Silnik widać po zdjęciu tylnej maski, a auto ma pojedynczy centralny wydech.",
+   "Z zewnątrz uwagę zwracają drzwi motylkowe, podnoszone do góry, oraz regulowane tylne skrzydło. Drzwi otwiera się i zamyka jednym dotknięciem, a kołami steruje się pokrętłem. Ciekawym dodatkiem jest płytka z unikalnym numerem seryjnym: podobnie jak prawdziwy samochód, każdy egzemplarz LEGO ma własny numer, który daje dostęp do ekskluzywnych treści online.",
+   "W materiałach LEGO projektant serii Technic Kasper René Hansen chwali poziom szczegółowości modelu, a Simon Lacey z McLaren Automotive opisuje, jak kształty P1 inspirowały się sylwetkami rekinów-młotów i sokołów w locie. Długość auta sięga 59 cm, szerokość 25 cm, a wysokość 14 cm, więc gotowy McLaren potrzebuje sporo miejsca na półce u dorosłego fana tej marki.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/42232/\">LEGO 42232 Koenigsegg Sadair's Spear Megacar</a> (4104 el.). Za element płaci się tu katalogowo 0,50 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/42232/\">LEGO 42232 Koenigsegg Sadair's Spear Megacar</a> (1 949,99 zł katalogowo) i <a href=\"/zestaw/42228/\">LEGO 42228 Bolid McLaren MCL39 F1</a> (999,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "42172",
+   "Nazwa": "McLaren P1",
+   "Seria": "Technic",
+   "Premiera": "2024",
+   "Liczba elementów": "3893",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 949,99 zł",
+   "Cena katalogowa za element": "0,50 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "pojazdy LEGO Technic dla dorosłych, licencja McLaren",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile wychodzi za jeden element?",
+    "a": "Przy cenie katalogowej 1 949,99 zł i 3893 elementach to około 0,50 zł. Wskaźnik jest tylko orientacyjny, bo w zestawie są też koła, skrzynia biegów i elementy przekładni. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Do czego służy numer seryjny na płytce?",
+    "a": "Każdy model ma własny, unikalny numer, który daje dostęp do ekskluzywnych treści online."
+   },
+   {
+    "q": "Ile biegów ma skrzynia w modelu?",
+    "a": "Siedem. To skrzynia z bębnem."
+   },
+   {
+    "q": "Jak otwierają się drzwi McLarena?",
+    "a": "Do góry, bo model ma drzwi motylkowe."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Najbliżej są dwa bolidy F1 z tej samej skali 1:8: 42206 Oracle Red Bull Racing RB20 i 42207 Ferrari SF-24. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "42206": {
+  "seria": "Technic",
+  "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
+  "elementy": 1639,
+  "akapity": [
+   "Malowanie zespołu Oracle Red Bull Racing z tytułem mistrzów świata od razu zdradza, jaki bolid kryje zestaw 42206. Milan Reindl, starszy projektant LEGO Technic, przedstawia ten model dla dorosłych jako owoc kolaboracji z zespołem projektantów Oracle Red Bull Racing. RB20 odtworzono w skali 1:8, a nowe opony mają nadruk, więc kolory i oznaczenia nie wymagają naklejania.",
+   "Pod zdejmowaną pokrywą jest blok silnika V6 o pojemności 1600 cm³ z ruchomymi tłokami i obrotowym układem MGU-H. Napęd uzupełniają dwubiegowa skrzynia biegów i mechanizm różnicowy, a zawieszenie odwzorowano w układzie push-rod i pull-rod. Kierunek kół ustawia się pokrętłem na dachu albo kierownicą w kokpicie, a tylny spojler, imitujący system DRS, przestawia się w górę i w dół.",
+   "Zestaw liczy 1639 elementów i ma oznaczenie 18+. Bolid zajmuje 63 cm długości, 24 cm szerokości i 14 cm wysokości. W kolekcji pojazdów Technic dla dorosłych ten sam format w skali 1:8 dostało też Ferrari SF-24 z zestawu 42207, więc kibice obu zespołów mogą zebrać dwa samochody w jednej skali.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/42232/\">LEGO 42232 Koenigsegg Sadair's Spear Megacar</a> (4104 el.). Za element płaci się tu katalogowo 0,61 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/42228/\">LEGO 42228 Bolid McLaren MCL39 F1</a> (999,99 zł katalogowo) i <a href=\"/zestaw/42240/\">LEGO 42240 Bolid F1 Aston Martin Aramco AMR25</a> (999,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "42206",
+   "Nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
+   "Seria": "Technic",
+   "Premiera": "2025",
+   "Liczba elementów": "1639",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "999,99 zł",
+   "Cena katalogowa za element": "0,61 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "pojazdy LEGO Technic dla dorosłych, licencja Oracle Red Bull Racing",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów LEGO Insiders daje zakup bolidu RB20?",
+    "a": "1500 punktów programu LEGO Insiders przy zakupie za 999,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak skręca się koła bolidu?",
+    "a": "Pokrętłem umieszczonym na dachu albo kierownicą w kokpicie."
+   },
+   {
+    "q": "Jaki silnik ma model?",
+    "a": "Blok V6 o pojemności 1600 cm³ z ruchomymi tłokami i obrotowym układem MGU-H; widać go po zdjęciu pokrywy."
+   },
+   {
+    "q": "Do czego służy regulowany spojler?",
+    "a": "Odwzorowuje system DRS: tylne skrzydło można ustawić w górę i w dół."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Technic w podobnej cenie?",
+    "a": "Tyle samo, 999,99 zł, kosztuje 42207 Bolid F1 Ferrari SF-24. RB20 ma 1639 elementów, 63 cm długości i etykietę „Ekskluzywne”, a Ferrari 1361 elementów i 61 cm długości. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "42207": {
+  "seria": "Technic",
+  "nazwa": "Bolid F1 Ferrari SF-24",
+  "elementy": 1361,
+  "akapity": [
+   "W zestawie 42207 LEGO Technic odtwarza Ferrari SF-24 w skali 1:8, z 1361 elementów. Najwięcej dzieje się pod pokrywą silnika: po jej zdjęciu widać silnik V6 o pojemności 1600 cm³ z obracającym się układem MGU-H, a przy nim dwubiegową skrzynię biegów. Zawieszenie zbudowano w układzie push-rod i pull-rod, a działający układ kierowniczy pozwala skręcać kołami.",
+   "Opony mają nadruk, więc barwy i oznaczenia nie wymagają przyklejania naklejek. Spojler da się podnosić i opuszczać, co odwzorowuje strefę DRS z wyścigów. Długość bolidu to 61 cm, szerokość 24 cm, a wysokość 13 cm.",
+   "Ferrari należy do kolekcji pojazdów Technic dla dorosłych i ma oznaczenie 18+. W tej samej linii i w tej samej skali LEGO wydało bolid Oracle Red Bull Racing RB20 (42206), więc oba auta tworzą parę dla kibiców śledzących rywalizację zespołów. Obydwa modele pochodzą z 2025 roku, a model Ferrari jest o 2 cm krótszy i o centymetr niższy od RB20.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,73 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/42228/\">LEGO 42228 Bolid McLaren MCL39 F1</a> (999,99 zł katalogowo) i <a href=\"/zestaw/42240/\">LEGO 42240 Bolid F1 Aston Martin Aramco AMR25</a> (999,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "42207",
+   "Nazwa": "Bolid F1 Ferrari SF-24",
+   "Seria": "Technic",
+   "Premiera": "2025",
+   "Liczba elementów": "1361",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "999,99 zł",
+   "Cena katalogowa za element": "0,73 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "pojazdy LEGO Technic dla dorosłych, licencja Ferrari",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić Ferrari SF-24 w cenie katalogowej?",
+    "a": "Katalogowo kosztuje 999,99 zł, ale zestaw jest w zwykłej sprzedaży, więc przed zakupem dobrze porównać rabaty w kilku sklepach. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakiej skali jest model?",
+    "a": "W skali 1:8, takiej samej jak RB20 z zestawu 42206."
+   },
+   {
+    "q": "Które części układu napędowego odwzorowano?",
+    "a": "Silnik V6 o pojemności 1600 cm³ z obrotowym układem MGU-H oraz dwubiegową skrzynię biegów."
+   },
+   {
+    "q": "Ile miejsca potrzeba na gotowy bolid?",
+    "a": "Model ma 61 cm długości, 24 cm szerokości i 13 cm wysokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Pokrewne są duże samochody z kolekcji Technic dla dorosłych, takie jak supersamochód 42172 McLaren P1 w tej samej skali 1:8. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "42215": {
+  "seria": "Technic",
+  "nazwa": "Koparka Volvo EC500 Hybrid",
+  "elementy": 2359,
+  "akapity": [
+   "Koparka Volvo EC500 Hybrid to licencjonowany model LEGO Technic dla dorosłych z 2359 elementów, oznaczony 18+. Sercem konstrukcji jest silnik na baterie połączony z przekładnią: dźwignią wybiera się jedną z czterech funkcji, które poruszają wysięgnikiem, ramieniem i zamontowanym narzędziem. Narzędzia są wymienne, więc na końcu ramienia pracuje młot albo łyżka.",
+   "Część ruchów obsługuje się ręcznie: kabina obraca się i ma otwierane drzwi, a gąsienice są ruchome. Silnik potrzebuje sześciu baterii AA (LR6), których nie dołączono do pudełka. Model po zbudowaniu mierzy 29 cm wysokości, 54 cm długości i 24 cm szerokości.",
+   "LEGO zalicza zestaw do kolekcji modeli Technic dla dorosłych i wskazuje na realistyczne ruchy oraz zaawansowane detale, a do pudełka dołączono drukowaną instrukcję. Numer 42215 trafił do sprzedaży w 2025 roku, a w polskim sklepie LEGO jeden kupujący może zamówić najwyżej trzy sztuki. Wśród zestawów polecanych obok koparki LEGO pokazuje ładowarkę kołową 42209 Volvo L120 Electric, także maszynę Volvo z serii Technic.",
+   "Gdyby stanął obok 30 zestawów LEGO Technic z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/42232/\">LEGO 42232 Koenigsegg Sadair's Spear Megacar</a> (4104 el.). Za element płaci się tu katalogowo 0,72 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/42232/\">LEGO 42232 Koenigsegg Sadair's Spear Megacar</a> (1 949,99 zł katalogowo) i <a href=\"/zestaw/42228/\">LEGO 42228 Bolid McLaren MCL39 F1</a> (999,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "42215",
+   "Nazwa": "Koparka Volvo EC500 Hybrid",
+   "Seria": "Technic",
+   "Premiera": "2025",
+   "Liczba elementów": "2359",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 699,99 zł",
+   "Cena katalogowa za element": "0,72 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Technic, licencja Volvo",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 42215?",
+    "a": "W sklepie LEGO koparka kosztuje katalogowo 1 699,99 zł, a zakup daje tam 2550 punktów LEGO Insiders. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile wynosi cena za element?",
+    "a": "0,72 zł. To wskaźnik pomocniczy, bo w zestawie są też silnik i przekładnia, a nie wyłącznie zwykłe klocki."
+   },
+   {
+    "q": "Jakie baterie zasilają koparkę?",
+    "a": "Sześć baterii AA (LR6), kupowanych osobno."
+   },
+   {
+    "q": "Jakie narzędzia można zamontować na ramieniu?",
+    "a": "Młot albo łyżkę; oba porusza ta sama przekładnia z silnikiem."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Technic w podobnej cenie?",
+    "a": "Dla porównania: 42172 McLaren P1 kosztuje 1 949,99 zł i też ma oznaczenie 18+. To samochód w skali 1:8 z 3893 elementów, siedmiobiegową skrzynią i silnikiem tłokowym V8, a koparka Volvo stawia na napęd na baterie i wymienne narzędzia. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "5010204": {
+  "seria": "Star Wars",
+  "nazwa": "Grogu in Pram",
+  "elementy": 85,
+  "akapity": [
+   "Grogu w unoszącym się wózku ma tu postać modelu z 85 elementów. Zestaw 5010204 przygotowano na akcję budowania w sieci sklepów sportowych w Stanach Zjednoczonych w maju 2026 roku, a w Ameryce Północnej ma on numer 6643541."
+  ],
+  "metryka": {
+   "Numer": "5010204",
+   "Nazwa": "Grogu in Pram",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "85",
+   "Wiek": "10+",
+   "Sposób uzyskania": "model z akcji budowania w sklepach w USA, maj 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars, The Mandalorian",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Jak można było zdobyć Grogu in Pram?",
+    "a": "Składając go podczas akcji w amerykańskich sklepach w maju 2026 r.; dziś pozostają oferty kolekcjonerów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki numer ma zestaw w Ameryce Północnej?",
+    "a": "6643541."
+   },
+   {
+    "q": "Z jakiego serialu pochodzi Grogu?",
+    "a": "Z The Mandalorian."
+   },
+   {
+    "q": "W czym wydawano model?",
+    "a": "W woreczku strunowym."
+   },
+   {
+    "q": "Jaki zestaw LEGO Star Wars warto kupić zamiast tego modelu?",
+    "a": "Ten sam motyw w formie modelu do ustawienia daje 75403 Grogu w wózku: 1048 elementów, ruchome ręce, głowa i uszy oraz sorgańska żaba, za 419,99 zł w polskim sklepie LEGO. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "5010305": {
+  "seria": "Star Wars",
+  "nazwa": "The Mandalorian and Grogu",
+  "elementy": 147,
+  "akapity": [
+   "Din Djarin, czyli Mandalorianin, i Grogu są w zestawie 5010305 figurami zbudowanymi z klocków, a nie minifigurkami. Komplet ze 147 elementów przygotowano na akcję budowania w księgarniach w USA."
+  ],
+  "metryka": {
+   "Numer": "5010305",
+   "Nazwa": "The Mandalorian and Grogu",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "147",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "2 figury z klocków (Mandalorianin, Grogu)",
+   "Sposób uzyskania": "model z akcji budowania w księgarniach w USA, maj 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars, The Mandalorian",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Kogo przedstawia model?",
+    "a": "Din Djarina, czyli Mandalorianina, oraz Grogu."
+   },
+   {
+    "q": "Gdzie odbywało się budowanie?",
+    "a": "W księgarniach w USA, w maju 2026 r.; dziś zestaw jest dostępny już tylko z drugiej ręki. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dla jakiego wieku przewidziano zestaw?",
+    "a": "10+."
+   },
+   {
+    "q": "Z ilu elementów składa się komplet?",
+    "a": "Ze 147."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Mandalorianina i Grogu z serialu znajdziesz też w zwykłych zestawach serii, choćby z myśliwcem N-1. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "5010320": {
+  "seria": "Star Wars",
+  "nazwa": "Ozdoba z Mandalorianinem i Grogu",
+  "elementy": 0,
+  "akapity": [
+   "Od 1 do 6 maja 2026 sklep internetowy LEGO dodawał do zakupu zestawu 75442 Myśliwiec N-1 Mandalorianina upominek: metalową Ozdobę z Mandalorianinem i Grogu (5010320) z serii Star Wars.",
+   "Ozdoba pokazuje kadr z serialu The Mandalorian: Mando i Grogu w kokpicie myśliwca N-1. LEGO przeznacza ją na półkę lub biurko jako pamiątkę przygód łowców nagród. Obraz działa jak soczewka, więc oglądany pod innym kątem odsłania wokół postaci rozmyte gwiazdy, jakby myśliwiec osiągał maksymalną prędkość. Całość stoi na grawerowanej podstawce i ma ponad 7 cm wysokości, 7 cm długości i 3 cm szerokości. Oznaczenie wieku to 6+, a upominek trafiał do kupujących w eleganckim pudełku."
+  ],
+  "metryka": {
+   "Numer": "5010320",
+   "Nazwa": "Ozdoba z Mandalorianinem i Grogu",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "Mandalorianin i Grogu (na obrazie)",
+   "Sposób uzyskania": "upominek przy zakupie zestawu 75442 w sklepie internetowym LEGO, 1–6 maja 2026",
+   "Typ zestawu": "GWP",
+   "Kolekcja / system": "LEGO Star Wars, The Mandalorian",
+   "Dystrybucja": "upominek przy zakupie"
+  },
+  "faq": [
+   {
+    "q": "Z czego wykonano ozdobę?",
+    "a": "To ozdoba metalowa z obrazem o efekcie soczewki."
+   },
+   {
+    "q": "Jak działa efekt gwiazd?",
+    "a": "Obraz zmienia się z kątem patrzenia: wokół postaci pojawiają się rozmyte gwiazdy."
+   },
+   {
+    "q": "Jakie wymiary ma ozdoba?",
+    "a": "Ponad 7 cm wysokości, 7 cm długości i 3 cm szerokości."
+   },
+   {
+    "q": "Jak można było zdobyć LEGO 5010320?",
+    "a": "Jako upominek do zakupu myśliwca 75442 w sklepie internetowym LEGO, od 1 do 6 maja 2026. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Do ozdoby pasuje przede wszystkim myśliwiec 75442, którego zakup był warunkiem otrzymania upominku. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "5010391": {
+  "seria": "Star Wars",
+  "nazwa": "Bo Katan",
+  "elementy": 133,
+  "akapity": [
+   "Bo Katan z serialu The Mandalorian stoi tu na podstawce ekspozycyjnej jako figura zbudowana ze 133 elementów. Zestaw 5010391 składano w czerwcu w sklepach z elektroniką w USA, a jego północnoamerykański numer to 6657699."
+  ],
+  "metryka": {
+   "Numer": "5010391",
+   "Nazwa": "Bo Katan",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "133",
+   "Minifigurki / postacie": "1 figura z klocków (Bo Katan)",
+   "Sposób uzyskania": "model z akcji budowania w sklepach w USA, czerwiec 2026",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Star Wars, The Mandalorian",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Czy figura Bo Katan ma podstawkę?",
+    "a": "Tak, model stoi na podstawce ekspozycyjnej."
+   },
+   {
+    "q": "Do jakiej grupy Mandalorian należy Bo Katan?",
+    "a": "Do Nocnych Sów (Nite Owls)."
+   },
+   {
+    "q": "Kiedy odbyła się akcja z tym modelem?",
+    "a": "W czerwcu 2026 r.; później zestaw można znaleźć wyłącznie u kolekcjonerów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Pod jakim innym numerem występuje zestaw?",
+    "a": "6657699 w Ameryce Północnej."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Bohaterów z serialu The Mandalorian obejmuje kategoria Star Wars. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "60205": {
+  "seria": "City",
+  "nazwa": "Tory",
+  "elementy": 20,
+  "akapity": [
+   "Zestaw 60205 Tory to dodatek do kolei LEGO City, wprowadzony w 2018 roku. W 20 elementach mieści się osiem prostych odcinków toru, cztery łuki i osiem odcinków elastycznych, więc każdy odcinek jest jednym elementem. Elastyczne fragmenty wyginają się, dzięki czemu linię da się poprowadzić wokół przeszkód i dopasować do trudniejszego kształtu trasy.",
+   "Tory łączy się z istniejącymi zestawami kolejowymi LEGO City; jako przykład LEGO wskazuje 60197 Pociąg pasażerski. Na stronie polskiego sklepu LEGO zestaw jest przypisany do kategorii City i Pociągi, kosztuje katalogowo 81,99 zł, a producent podaje dla niego przedział wieku 5–12 lat. Jeden kupujący może tam zamówić najwyżej pięć takich zestawów."
+  ],
+  "metryka": {
+   "Numer": "60205",
+   "Nazwa": "Tory",
+   "Seria": "City",
+   "Premiera": "2018",
+   "Liczba elementów": "20",
+   "Wiek": "5+",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "4,10 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "kolej LEGO City",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 60205?",
+    "a": "Cena katalogowa w polskim sklepie LEGO to 81,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy warto kupić tory w cenie katalogowej?",
+    "a": "Zestaw jest w szerokiej sprzedaży od lat, więc przy rozbudowie dłuższej linii sensowniej szukać rabatu niż płacić pełną cenę."
+   },
+   {
+    "q": "Ile odcinków każdego rodzaju jest w pudełku?",
+    "a": "Osiem prostych, cztery łukowe i osiem elastycznych."
+   },
+   {
+    "q": "Z jakimi pociągami współpracują tory?",
+    "a": "Z zestawami kolejowymi LEGO City, które korzystają z tego samego systemu torów."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Bezpośrednio z tymi torami LEGO łączy 60197 Pociąg pasażerski, który ma własny okrągły tor z 16 łuków i 4 prostych; jego produkcja jest już zakończona. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "60238": {
+  "seria": "City",
+  "nazwa": "Zwrotnice",
+  "elementy": 8,
+  "akapity": [
+   "Zestaw 60238 to uzupełnienie kolejki LEGO City, a nie samodzielny model. Liczy 8 elementów, a torowisko tworzą cztery łukowate fragmenty torów oraz dwie zwrotnice: jedna skierowana w prawo, druga w lewo. Dzięki nim trasa pociągu może się rozgałęziać, a przewożenie pasażerów i ładunków staje się ciekawsze.",
+   "Tory pasują do istniejących zestawów kolejowych LEGO City, na przykład do 60198 Pociąg towarowy, z którym zwrotnice dają więcej możliwości zabawy po rozbudowanej trasie. Zestaw jest oznaczony wiekiem od 5 do 12 lat i pochodzi z 2018 roku. Cena katalogowa to 81,99 zł."
+  ],
+  "metryka": {
+   "Numer": "60238",
+   "Nazwa": "Zwrotnice",
+   "Seria": "City",
+   "Premiera": "2018",
+   "Liczba elementów": "8",
+   "Wiek": "5+",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Cena katalogowa za element": "10,25 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "system torów kolejowych LEGO City",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić zwrotnice w cenie katalogowej?",
+    "a": "Zestaw kosztuje katalogowo 81,99 zł i jest w szerokiej sprzedaży, więc cenę dobrze zestawić z ofertami innych sklepów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co dokładnie jest w pudełku?",
+    "a": "Cztery łukowate fragmenty torów oraz dwie zwrotnice: jedna skierowana w prawo, druga w lewo."
+   },
+   {
+    "q": "Z jakimi pociągami działają te tory?",
+    "a": "Z istniejącymi zestawami kolejowymi LEGO City, na przykład z 60198 Pociąg towarowy."
+   },
+   {
+    "q": "Ile elementów liczy zestaw?",
+    "a": "Osiem."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Pokrewne są pozostałe zestawy kolejowe serii, od pociągów po dodatkowe tory. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "6614211": {
+  "seria": "Friends",
+  "nazwa": "Treat Stand",
+  "elementy": 36,
+  "akapity": [
+   "Na akcję „zbuduj i zabierz” w sklepach przygotowano model Friends 6614211 Treat Stand: wózek z wypiekami i kota, razem 36 elementów. W Niemczech budowano go 28 marca 2026, a klocki rozdawano luzem. Wiek określono na 6+."
+  ],
+  "metryka": {
+   "Numer": "6614211",
+   "Nazwa": "Treat Stand",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "36",
+   "Wiek": "6+",
+   "Sposób uzyskania": "akcja „zbuduj i zabierz” w sklepach; w Niemczech 28 marca 2026",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, budowanie promocyjne w sklepach",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Kiedy składano LEGO 6614211?",
+    "a": "W Niemczech 28 marca 2026. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co przedstawia model?",
+    "a": "Wózek z wypiekami i kota."
+   },
+   {
+    "q": "Na czym polegała akcja „zbuduj i zabierz”?",
+    "a": "Uczestnicy składali model na miejscu w sklepie i zabierali go ze sobą."
+   },
+   {
+    "q": "Ile elementów ma model?",
+    "a": "36."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Innym modelem Friends do budowania w sklepie jest 6614214 First Friendship z koniem Dawn i źrebięciem. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "6614214": {
+  "seria": "Friends",
+  "nazwa": "First Friendship",
+  "elementy": 30,
+  "akapity": [
+   "W czerwcu 2026 sklepy organizowały budowanie promocyjnego modelu Friends 6614214 First Friendship. Z 30 elementów powstaje scenka z koniem Dawn i źrebięciem, studnią oraz świeżymi plonami, a klocki wydawano bez opakowania."
+  ],
+  "metryka": {
+   "Numer": "6614214",
+   "Nazwa": "First Friendship",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "30",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "koń Dawn i źrebię",
+   "Sposób uzyskania": "budowanie w sklepach, czerwiec 2026",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, budowanie promocyjne w sklepach",
+   "Dystrybucja": "akcja promocyjna w sklepach, klocki bez opakowania"
+  },
+  "faq": [
+   {
+    "q": "W jakim miesiącu odbywało się budowanie LEGO 6614214?",
+    "a": "W czerwcu 2026. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy klocki miały opakowanie?",
+    "a": "Nie, wydawano je bez pudełka i torebki."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma model?",
+    "a": "6+."
+   },
+   {
+    "q": "Co jeszcze jest w scenie?",
+    "a": "Studnia i świeże plony."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Konia Dawn i źrebię ma też puszka 951445 Horse stables, w której jest dodatkowo tor przeszkód. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "6614223": {
+  "seria": "Disney",
+  "nazwa": "Little HeiHei",
+  "elementy": 32,
+  "akapity": [
+   "Kogut HeiHei z filmów Disneya o Vaianie dostał małą wersję z klocków w promocyjnym modelu 6614223 Little HeiHei. Składano go w sklepach podczas akcji budowania na miejscu: w styczniu 2026, a w Niemczech także 21 lutego. Ma oznaczenie 10+, a jego 32 elementy wydawano bez pudełka."
+  ],
+  "metryka": {
+   "Numer": "6614223",
+   "Nazwa": "Little HeiHei",
+   "Seria": "Disney",
+   "Premiera": "2026",
+   "Liczba elementów": "32",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "HeiHei (figurka z klocków)",
+   "Sposób uzyskania": "budowanie w sklepach, styczeń 2026; w Niemczech 21 lutego 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Disney, Vaiana",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Kim jest HeiHei?",
+    "a": "To kogut z filmów Disneya o Vaianie."
+   },
+   {
+    "q": "Kiedy odbywało się budowanie LEGO 6614223?",
+    "a": "W styczniu 2026, a w Niemczech 21 lutego. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dla jakiego wieku jest model?",
+    "a": "Ma oznaczenie 10+."
+   },
+   {
+    "q": "Z ilu elementów składa się kogut?",
+    "a": "Z 32."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Kolejne postacie i zwierzęta z animacji studia, odtworzone w klockach, zebrano w kategorii Disney. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "6614227": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon of Life",
+  "elementy": 40,
+  "akapity": [
+   "Dragon of Life z serii Ninjago to promocyjny smok 6614227 z 40 elementów. W styczniu 2026 rozdawano go w Australii podczas imprezy dla fanów, a 28 marca 2026 składano go w Niemczech w ramach akcji „zbuduj i zabierz” w sklepie z zabawkami. Klocki wydano luzem."
+  ],
+  "metryka": {
+   "Numer": "6614227",
+   "Nazwa": "Dragon of Life",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "40",
+   "Wiek": "7+",
+   "Sposób uzyskania": "impreza dla fanów w Australii (styczeń 2026); akcja „zbuduj i zabierz” w Niemczech 28 marca 2026",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Ninjago, budowanie promocyjne",
+   "Dystrybucja": "akcja promocyjna, klocki luzem"
+  },
+  "faq": [
+   {
+    "q": "Gdzie można było zdobyć LEGO 6614227?",
+    "a": "W Australii na imprezie dla fanów i w Niemczech podczas budowania w sklepie. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kiedy odbyły się te akcje?",
+    "a": "W styczniu 2026 w Australii i 28 marca 2026 w Niemczech."
+   },
+   {
+    "q": "Co przedstawia model?",
+    "a": "Smoka Dragon of Life z serii Ninjago."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma model?",
+    "a": "7+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Najbliżej są inne promocje Ninjago budowane w sklepach, na przykład maska 6614229 z mozaiki. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "6614229": {
+  "seria": "Ninjago",
+  "nazwa": "Ninjago Red Mask",
+  "elementy": 39,
+  "akapity": [
+   "Ninjago Red Mask (6614229) to czerwona maska ułożona jako płaska mozaika z 39 elementów. Budowano ją w sklepach w Niemczech, Austrii i Szwajcarii 1 lipca 2026, a klocki wydawano luzem, bez opakowania."
+  ],
+  "metryka": {
+   "Numer": "6614229",
+   "Nazwa": "Ninjago Red Mask",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "39",
+   "Wiek": "6+",
+   "Sposób uzyskania": "budowanie w sklepach w Niemczech, Austrii i Szwajcarii 1 lipca 2026",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Ninjago, maski do budowania w sklepach",
+   "Dystrybucja": "akcja promocyjna w sklepach"
+  },
+  "faq": [
+   {
+    "q": "Kiedy budowano LEGO 6614229?",
+    "a": "1 lipca 2026. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy jest inna wersja maski?",
+    "a": "Tak, zielona maska 6614229-2, budowana dzień później."
+   },
+   {
+    "q": "Jaką techniką zbudowano maskę?",
+    "a": "To płaska mozaika z klocków."
+   },
+   {
+    "q": "W jakich krajach odbyła się akcja?",
+    "a": "W Niemczech, Austrii i Szwajcarii."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Inną promocją Ninjago do budowania w sklepie był smok 6614227 Dragon of Life z 40 elementów. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "6626047": {
+  "seria": "Star Wars",
+  "nazwa": "Landspeeder",
+  "elementy": 55,
+  "akapity": [
+   "Śmigacz X-34 z Tatooine, znany z Nowej nadziei, zmieścił się w 55 elementach w mikroskali. Model 6626047 budowano 2 maja w sklepach jednej sieci z zabawkami w Niemczech, Austrii i Szwajcarii."
+  ],
+  "metryka": {
+   "Numer": "6626047",
+   "Nazwa": "Landspeeder",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "55",
+   "Wiek": "10+",
+   "Sposób uzyskania": "model z akcji budowania w sklepach w Niemczech, Austrii i Szwajcarii, 2 maja 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars, Nowa nadzieja",
+   "Dystrybucja": "akcja promocyjna, klocki luzem"
+  },
+  "faq": [
+   {
+    "q": "Jaki pojazd przedstawia model?",
+    "a": "Śmigacz X-34 w mikroskali."
+   },
+   {
+    "q": "W których krajach budowano Landspeeder?",
+    "a": "W Niemczech, Austrii i Szwajcarii, w sklepach jednej sieci z zabawkami. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy zestaw miał opakowanie?",
+    "a": "Nie, elementy rozdawano luzem."
+   },
+   {
+    "q": "Z którego filmu pochodzi śmigacz?",
+    "a": "Z Nowej nadziei; to pojazd z Tatooine."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Statki i pojazdy z całej sagi znajdziesz w kategorii Star Wars. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "6626049": {
+  "seria": "Star Wars",
+  "nazwa": "N-1 Starfighter",
+  "elementy": 43,
+  "akapity": [
+   "Myśliwiec N-1 Din Djarina z serialu The Mandalorian ma w tej wersji 43 elementy i był modelem trzydniowej akcji w sklepach firmowych LEGO. W Europie zestaw 6626049 występuje także jako 6626026."
+  ],
+  "metryka": {
+   "Numer": "6626049",
+   "Nazwa": "N-1 Starfighter",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "43",
+   "Wiek": "10+",
+   "Sposób uzyskania": "model z akcji budowania w sklepach LEGO, 2–4 maja 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars, The Mandalorian",
+   "Dystrybucja": "akcja promocyjna, klocki luzem"
+  },
+  "faq": [
+   {
+    "q": "Gdzie budowano N-1 Starfighter?",
+    "a": "W sklepach firmowych LEGO, od 2 do 4 maja 2026 r. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki europejski numer ma zestaw?",
+    "a": "6626026."
+   },
+   {
+    "q": "Z jakiego serialu pochodzi myśliwiec?",
+    "a": "Z The Mandalorian; pilotuje go Din Djarin."
+   },
+   {
+    "q": "Ile klocków potrzeba do zbudowania myśliwca?",
+    "a": "43."
+   },
+   {
+    "q": "Jaki zestaw LEGO Star Wars warto kupić zamiast tego modelu?",
+    "a": "Myśliwiec N-1 w skali minifigurek, z Mandalorianinem, Grogu i droidem R5-D4, zawiera zestaw 75410 Myśliwiec N-1 Mando i Grogu (92 elementy, 124,99 zł w sklepie LEGO). <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "6626051": {
+  "seria": "Star Wars",
+  "nazwa": "Bantha",
+  "elementy": 64,
+  "akapity": [
+   "Bantha z Tatooine, stworzenie z sagi Star Wars, została zbudowana z 64 elementów. Model 6626051 składano w lutym w brytyjskich sklepach z zabawkami w ramach akcji „zbuduj i zabierz”, a w Europie ma też numer 6626027."
+  ],
+  "metryka": {
+   "Numer": "6626051",
+   "Nazwa": "Bantha",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "64",
+   "Wiek": "10+",
+   "Sposób uzyskania": "akcja „zbuduj i zabierz” w sklepach w Wielkiej Brytanii, luty 2026",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars, Tatooine",
+   "Dystrybucja": "akcja promocyjna, klocki luzem"
+  },
+  "faq": [
+   {
+    "q": "Jak długo trwała akcja z Banthą?",
+    "a": "Tydzień, od 21 do 28 lutego 2026 r."
+   },
+   {
+    "q": "W jakim kraju można było złożyć Banthę?",
+    "a": "W Wielkiej Brytanii, w sklepach z zabawkami. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma Bantha?",
+    "a": "10+."
+   },
+   {
+    "q": "Czy zestaw ma drugi numer?",
+    "a": "Tak, w Europie także 6626027."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Tatooine pojawia się też w Landspeederze 6626047, budowanym w maju 2026 r. w sklepach w Niemczech, Austrii i Szwajcarii. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "66820": {
+  "seria": "Harry Potter",
+  "nazwa": "Hogwarts Crest and Dobby Collector's Set",
+  "elementy": 924,
+  "akapity": [
+   "Kolekcjonerski pakiet Harry Potter Hogwarts Crest and Dobby Collector's Set o numerze 66820 łączy dwa modele do ekspozycji: 76462 Herb Hogwartu i 76469 Wolny skrzat Zgredek. Komplet liczy 924 elementy i ma oznaczenie 12+, takie jak herb, choć sam Zgredek jest oznaczony 8+.",
+   "Herb z 545 elementów przedstawia zwierzęta czterech domów: Gryffindoru, Hufflepuffu, Ravenclawu i Slytherinu. Ustawia się go na podstawce z banerem, na którym widnieje motto szkoły. Po podniesieniu figur zwierząt odsłaniają się schowki z artefaktami: mieczem Godryka Gryffindora, pucharem Helgi Hufflepuff, diademem Roweny Ravenclaw i medalionem Salazara Slytherina.",
+   "Druga część to w pełni ruchoma figura Zgredka z 379 elementów, którą można posadzić, postawić albo ustawić w pozie marszu. Wśród akcesoriów są sportowe buty, pamiętnik Toma Riddle'a z materiałową skarpetką w środku i butelka eliksiru Szkiele-Wzro. Z tych samych klocków da się też złożyć Stworka z widelcem i medalionem Slytherina, choć obu skrzatów nie zbuduje się jednocześnie. Herb i Zgredek były też dostępne jako osobne zestawy.",
+   "Wśród 21 zestawów LEGO Harry Potter z 2026 roku to 5. największy."
+  ],
+  "metryka": {
+   "Numer": "66820",
+   "Nazwa": "Hogwarts Crest and Dobby Collector's Set",
+   "Seria": "Harry Potter",
+   "Premiera": "2026",
+   "Liczba elementów": "924",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "figura Zgredka z klocków, do przebudowy w Stworka",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako pakiet kolekcjonerski z dwóch pudełek",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Harry Potter, zestawy 76462 i 76469",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jakie modele zawiera LEGO 66820?",
+    "a": "Herb Hogwartu (76462) i Wolnego skrzata Zgredka (76469)."
+   },
+   {
+    "q": "Co kryją schowki w herbie?",
+    "a": "Cztery artefakty założycieli domów: miecz, puchar, diadem i medalion."
+   },
+   {
+    "q": "Czy Zgredka można przebudować?",
+    "a": "Tak, na skrzata domowego Stworka."
+   },
+   {
+    "q": "Czy figurę Zgredka można ustawiać w różnych pozach?",
+    "a": "Tak, jest w pełni ruchoma: może siedzieć, stać albo iść."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Pakiet najłatwiej porównać z jego częściami: w polskim sklepie LEGO Herb Hogwartu ma cenę 209,99 zł, a Zgredek 144,99 zł, czyli razem 354,98 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a> <a href=\"/serie/harry-potter/\">zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "66821": {
+  "seria": "Star Wars",
+  "nazwa": "Star Wars: Trooper & Droid Battle Pack",
+  "elementy": 592,
+  "akapity": [
+   "Star Wars: Trooper & Droid Battle Pack (66821) to trzy zestawy bitewne LEGO Star Wars w jednym opakowaniu: 75372 Zestaw bitewny z żołnierzem armii klonów i droidem bojowym (215 elementów), 75412 Szturmowiec Śmierci i nocny szturmowiec – zestaw bitewny (119) oraz 75431 Zestaw bitewny – żołnierze-klony z 327. korpusu galaktycznego (258). Łącznie to 592 elementy i 12 minifigurek, a do tego osiem figurek droidów.",
+   "Pudełko z Wojen klonów zawiera ścigacz z miotaczem klocków dla dwóch żołnierzy-klonów, śmigacz STAP dla droida bojowego, tri-droida z trzema miotaczami pocisków i stanowisko obronne. Z serialu Ahsoka pochodzą dwaj szturmowcy śmierci, dwaj nocni szturmowcy i transportowiec z miejscem na cztery minifigurki oraz kokpitem ze zdejmowanym daszkiem. Trzeci zestaw, nawiązujący do Zemsty Sithów, dokłada czterech klonów z 327. korpusu, maszynę kroczącą AT-RT, wieżyczkę z miotaczem klocków, droida-pająka oraz trzy superdroidy bojowe.",
+   "Pakiet sprzedawano w ograniczonej dystrybucji detalicznej; każdy z trzech zestawów jest też dostępny osobno.",
+   "Wśród 43 zestawów LEGO Star Wars z 2026 roku to 15. największy."
+  ],
+  "metryka": {
+   "Numer": "66821",
+   "Nazwa": "Star Wars: Trooper & Droid Battle Pack",
+   "Seria": "Star Wars",
+   "Premiera": "2026",
+   "Liczba elementów": "592",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "12 minifigurek (8 żołnierzy-klonów, 2 szturmowców śmierci, 2 nocnych szturmowców) i 8 figurek droidów",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako zestaw z trzech pudełek",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "zestawy bitewne LEGO Star Wars 75372, 75412 i 75431",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztują te zestawy bitewne osobno?",
+    "a": "Sklep LEGO w Polsce wycenia 75372 na 124,99 zł, 75412 na 81,99 zł i 75431 na 169,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakich filmów i seriali pochodzą zestawy?",
+    "a": "Z Wojen klonów, serialu Ahsoka i filmu Zemsta Sithów."
+   },
+   {
+    "q": "Ilu żołnierzy-klonów jest w pakiecie?",
+    "a": "Ośmiu: czterech z 75372 i czterech z 327. korpusu w 75431."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma LEGO 66821?",
+    "a": "7+, choć zestaw 75412 kupowany osobno ma 6+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Pokrewne są pozostałe zestawy bitewne z plutonami minifigurek i małymi pojazdami. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "66822": {
+  "seria": "Seasonal",
+  "nazwa": "Haunted Halloween Set",
+  "elementy": 947,
+  "akapity": [
+   "Haunted Halloween Set 66822 pakuje razem trzy halloweenowe zestawy: Creator 3 w 1 31159 Dzikie zwierzęta: niezwykły pająk (153 elementy), 40822 Dyniowy pickup (177 elementów) i 40825 Wieniec na Halloween (617 elementów). Razem daje to 947 elementów. Oznaczenie 12+ pokrywa się z oznaczeniem wieńca, a dwa pozostałe pudełka mają 7+ i 8+.",
+   "Pająk ma osiem ruchomych nóg, duże szczękoczułki i neonowożółtą sieć wyciąganą zza pleców, którą zawiesza się na klocku. Z tych samych elementów powstaje też skorpion albo wąż. Pickup prowadzi minifigurka farmera, a na pace jedzie duża dynia z otwieraną górą; w środku chowa się mniejszą dyńkę i czaszkę. Wieniec o wymiarach 29 na 26 cm tworzą nietoperz, dynie, duch i pajęczyna, a sznurek z zestawu pozwala powiesić go na drzwiach lub ścianie.",
+   "Pakiet trafił do ograniczonej sprzedaży detalicznej, natomiast każdy z trzech zestawów można kupić także pojedynczo.",
+   "Wśród 23 zestawów LEGO Seasonal z 2026 roku to 4. największy."
+  ],
+  "metryka": {
+   "Numer": "66822",
+   "Nazwa": "Haunted Halloween Set",
+   "Seria": "Seasonal",
+   "Premiera": "2026",
+   "Liczba elementów": "947",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "1 (farmer)",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako zestaw z trzech pudełek",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "halloweenowe zestawy LEGO 31159, 40822 i 40825",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztują zestawy z pakietu kupowane pojedynczo?",
+    "a": "W polskim sklepie LEGO 31159 kosztuje 54,99 zł, 40822 – 61,99 zł, a 40825 – 169,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie pudełka składają się na LEGO 66822?",
+    "a": "31159 Dzikie zwierzęta: niezwykły pająk, 40822 Dyniowy pickup i 40825 Wieniec na Halloween."
+   },
+   {
+    "q": "Jakie zwierzęta można zbudować z zestawu z pająkiem?",
+    "a": "Pająka, skorpiona albo węża, po jednym modelu naraz."
+   },
+   {
+    "q": "Jak zawiesza się wieniec?",
+    "a": "Na sznurku dołączonym do zestawu, na drzwiach wejściowych albo na ścianie."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Seasonal?",
+    "a": "Najbliżej są pojedyncze zestawy z pakietu; największy z nich to 40825 Wieniec na Halloween. <a href=\"/serie/seasonal/\">Zobacz wszystkie zestawy LEGO Seasonal</a>"
+   }
+  ]
+ },
+ "66832": {
+  "seria": "Creator",
+  "nazwa": "Action Vehicles Gift Set",
+  "elementy": 448,
+  "akapity": [
+   "Zestaw upominkowy Action Vehicles Gift Set (66832) zawiera dwa pudełka Creator 3 w 1 z pojazdami: 31146 Ciężarówka z platformą i helikopterem (270 elementów) oraz 31160 Statek powietrzny: samolot wyścigowy (178 elementów). Razem to 448 klocków, a pakiet trafił do ograniczonej sprzedaży detalicznej.",
+   "Oba komplety mają oznaczenie 7+. Z pierwszego pudełka powstaje ciężarówka z przyczepą dla helikoptera z obrotowym wirnikiem; wersje alternatywne to śmigłowiec z cysterną na ruchomych kołach oraz hot rod z SUV-em. Drugie daje samolot wyścigowy z obrotowym śmigłem, kołami i podstawką z klocków, a po przebudowie odrzutowiec na kołach albo helikopter ze śmigłem. W sumie pakiet oferuje sześć modeli, po trzy z każdego pudełka, przy czym każde pozwala złożyć w danej chwili jedną wersję."
+  ],
+  "metryka": {
+   "Numer": "66832",
+   "Nazwa": "Action Vehicles Gift Set",
+   "Seria": "Creator",
+   "Premiera": "2026",
+   "Liczba elementów": "448",
+   "Wiek": "7+",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako zestaw upominkowy z dwóch pudełek",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator 3 w 1, zestawy 31146 i 31160",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jakie zestawy zawiera LEGO 66832?",
+    "a": "Dwa pudełka Creator 3 w 1: 31146 Ciężarówka z platformą i helikopterem oraz 31160 Statek powietrzny: samolot wyścigowy."
+   },
+   {
+    "q": "Czy te zestawy sprzedawano też osobno?",
+    "a": "Tak. Ciężarówka 31146 ma w polskim sklepie LEGO cenę 81,99 zł, a samolot 31160 kosztował 61,99 zł przed zakończeniem produkcji. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile modeli da się zbudować?",
+    "a": "Sześć: po trzy wersje z każdego pudełka."
+   },
+   {
+    "q": "Które modele mają obrotowe wirniki lub śmigła?",
+    "a": "Helikopter z ciężarówki, samolot wyścigowy i helikopter z wersji alternatywnej zestawu 31160."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "Pojazdy z linii Creator 3 w 1, w których z jednego kompletu klocków składa się kilka maszyn. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "66833": {
+  "seria": "Minecraft",
+  "nazwa": "Adventure Worlds Gift Set",
+  "elementy": 392,
+  "akapity": [
+   "Zestaw upominkowy 66833 Adventure Worlds Gift Set łączy dwa pudełka Minecraft: 21267 Pustynny patrol złosadników (105 elementów, 7+) i 21275 Dom TNT w dżungli (287 elementów, 8+). Razem daje to 392 elementy, a pakiet trafił do ograniczonej sprzedaży detalicznej.",
+   "W pierwszym pudełku kaktusowy rycerz w diamentowej zbroi broni pustynnej placówki i beczki ze skarbem przed trzema złosadnikami, a pociski wystrzeliwuje się ruchem palca; do tego dochodzą różne rodzaje broni. Drugie to dom w kształcie bloku TNT w biomie dżungli: przełącznik z boku uruchamia eksplozję, która zawala ściany i sufit. Są tu też Steve, Creeper i zombie oraz łódź, wędka, ryba i papuga."
+  ],
+  "metryka": {
+   "Numer": "66833",
+   "Nazwa": "Adventure Worlds Gift Set",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "392",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "7 (kaktusowy rycerz, 3 złosadników, Steve, Creeper, zombie)",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako zestaw upominkowy z dwóch pudełek",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft, zestawy 21267 i 21275",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Z jakich zestawów składa się LEGO 66833?",
+    "a": "Z 21267 Pustynny patrol złosadników i 21275 Dom TNT w dżungli."
+   },
+   {
+    "q": "Ile kosztują te zestawy osobno?",
+    "a": "W polskim sklepie LEGO 21267 kosztuje 61,99 zł, a 21275 – 124,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak działa funkcja eksplozji w domu TNT?",
+    "a": "Przełącznik z boku zawala ściany i sufit domu, który potem można odbudować."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma pakiet?",
+    "a": "8+, choć sam patrol złosadników ma 7+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Kolejne biomy i budowle z gry zbiera kategoria Minecraft. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "66834": {
+  "seria": "Friends",
+  "nazwa": "Friendship Celebration Gift Set",
+  "elementy": 428,
+  "akapity": [
+   "Pakiet upominkowy Friendship Celebration Gift Set o numerze 66834 łączy dwa osobne komplety Friends: 42666 Kocie przyjęcie urodzinowe i domek na drzewie oraz 42692 Stoisko z lodami i balonami. Razem mają 428 elementów.",
+   "Większy komplet to urodziny kota Churro, który zaprasza czwórkę kocich przyjaciół oraz Leo i Paisley. Należą do niego domek na drzewie, piniata w kształcie ryby, fontanna, kuweta i kocie zabawki, a goście siadają do tortu przy obrotowym stole. Mniejszy komplet to rower ciągnący stoisko z jedzeniem, na którym Liann i Paisley sprzedają balony i lody na patyku. Są też kasa fiskalna, menu, telefon, stolik i maskotka w kształcie loda. Paisley występuje w obu pudełkach, dlatego pakiet zawiera dwie jej minilaleczki."
+  ],
+  "metryka": {
+   "Numer": "66834",
+   "Nazwa": "Friendship Celebration Gift Set",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "428",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "4 minilaleczki (Leo, Liann, dwie Paisley) i 5 figurek kotów",
+   "Sposób uzyskania": "ograniczona sprzedaż detaliczna jako zestaw upominkowy z dwóch pudełek",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, zestawy 42666 i 42692",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Z jakich zestawów składa się LEGO 66834?",
+    "a": "Z 42666 Kocie przyjęcie urodzinowe i domek na drzewie (321 elementów) i 42692 Stoisko z lodami i balonami (107 elementów)."
+   },
+   {
+    "q": "Ile figurek zawiera pakiet?",
+    "a": "4 minilaleczki i 5 figurek kotów."
+   },
+   {
+    "q": "Jaką cenę mają te zestawy kupowane osobno?",
+    "a": "Cena katalogowa 42666 w polskim sklepie LEGO wynosi 124,99 zł, a 42692 – 41,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie akcesoria ma stoisko z lodami?",
+    "a": "Kasę fiskalną, menu, telefon, stolik i maskotkę w kształcie loda."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Najbliżej są oba zestawy składowe, 42666 Kocie przyjęcie urodzinowe i domek na drzewie oraz 42692 Stoisko z lodami i balonami, które można kupić też osobno. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "71043": {
+  "seria": "Harry Potter",
+  "nazwa": "Zamek Hogwart",
+  "elementy": 6020,
+  "akapity": [
+   "Zestaw 71043 Zamek Hogwart z 6020 elementów to mikroskalowa wersja szkoły magii, a nie scena dla minifigurek. Wieże, wieżyczki, komnaty i sale lekcyjne zamieszkuje 27 mikrofigurek, m.in. Harry, Ron, Hermiona, Draco Malfoy, Dumbledore, profesorowie Snape, McGonagall, Lupin i Umbridge, Argus Filch, Lord Voldemort, Bellatrix Lestrange, uczniowie czterech domów i pięciu dementorów. Pełnowymiarowe minifigurki są tylko cztery i przedstawiają założycieli szkoły: Godryka Gryffindora, Helgę Hufflepuff, Salazara Slytherina i Rowenę Ravenclaw, ustawianych na podstawce do zbudowania.",
+   "Wnętrza wypełniają elementy znane z serii o Harrym Potterze. Wielka Sala ma „witraże”, sztandary domów, stoły, płonące pochodnie i ruchome schody, w klasie obrony przed czarną magią w szafie ukrył się bogin, a w Pokoju Życzeń stoją Czara Ognia i Szafka Zniknięć. Komnata Tajemnic skrywa bazyliszka i dziennik Toma Riddle’a, a do gabinetu Dumbledore’a prowadzi wejście za posągiem gryfa. Osobnymi modelami są chata Hagrida z pająkiem Aragogiem i dyniami, wierzba bijąca z zaplątanym w gałęzie Fordem Anglią i pięć łodzi; jest też rogogon węgierski do zbudowania.",
+   "Wśród akcesoriów są Miecz Gryffindora, puchar Helgi Hufflepuff, różdżki, eliksiry, kociołek, dwa szkła powiększające oraz dwie figury szachowe i posąg Architekta Hogwartu w formie mikrofigurek. Zamek sięga około 58 cm wysokości przy 69 cm szerokości i 43 cm głębokości.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,34 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76476/\">LEGO 76476 Ministerstwo Magii – edycja kolekcjonerska</a> (1 849,99 zł katalogowo) i <a href=\"/zestaw/76473/\">LEGO 76473 Zamek Hogwart: Wschodnie skrzydło</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "71043",
+   "Nazwa": "Zamek Hogwart",
+   "Seria": "Harry Potter",
+   "Premiera": "2018",
+   "Liczba elementów": "6020",
+   "Wiek": "16+",
+   "Minifigurki / postacie": "4 minifigurki (Godryk Gryffindor, Helga Hufflepuff, Salazar Slytherin, Rowena Ravenclaw) i 27 mikrofigurek",
+   "Cena katalogowa w Polsce": "2 049,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Harry Potter, model w mikroskali",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 71043?",
+    "a": "Polska cena katalogowa wynosi 2 049,99 zł, a zakup w sklepie LEGO daje 3075 punktów LEGO Insiders. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kogo przedstawiają cztery minifigurki?",
+    "a": "Założycieli Hogwartu: Godryka Gryffindora, Helgę Hufflepuff, Salazara Slytherina i Rowenę Ravenclaw."
+   },
+   {
+    "q": "Co kryje Komnata Tajemnic?",
+    "a": "Bazyliszka i dziennik Toma Riddle’a; prowadzi do niej tajne wejście."
+   },
+   {
+    "q": "Jakie osobne modele są w zestawie?",
+    "a": "Chata Hagrida, wierzba bijąca z Fordem Anglią i pięć łodzi w skali mikro."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Pokrewne są modele i sceny z Hogwartu w skali minifigurek, z bohaterami i komnatami znanymi z tej samej szkoły. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "71814": {
+  "seria": "Ninjago",
+  "nazwa": "Turniejowe miasto ze świątynią",
+  "elementy": 3489,
+  "akapity": [
+   "Turniejowe miasto ze świątynią przenosi do klocków drugi sezon serialu NINJAGO: Powstanie Smoków. Świątynia jest wykuta w skale i obejmuje czteropoziomową pagodę, most oraz młyn wodny. Kręcenie kołem młyna porusza dwiema platformami do bitew i młotem kowalskim, a naciśnięcie lampionu uruchamia spadające skały. W budowli są też skrytka i ukryte drzwi, a cały model można obrócić, żeby dostać się do otwartego tyłu.",
+   "Minifigurek jest 13: Lloyd, Cole, Nya, Zane, Arin, Wyldfyre, Lord Ras, Jordana, Mr. Pale, kowal, strażnik świątynny, Roby i Bleckt. Do tego dochodzą sterowiec, którym minifigurki mogą podróżować, oraz ruchomy smok ze skrzydłami w kształcie ostrzy. Wyspa ze świątynią ma 48 cm wysokości, 63 cm szerokości i 32 cm głębokości.",
+   "Zestaw 71814 z 3489 elementów nadaje się dla fanów od 14 lat, którzy chcą jednocześnie budować, bawić się funkcjami i ustawić gotowy model na widoku. W polskim sklepie LEGO ma etykiety „Ekskluzywne” i „Ostatnie zestawy”, a jego cena katalogowa wynosi 1 079,99 zł.",
+   "Gdyby stanął obok 41 zestawów LEGO Ninjago z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/71861/\">LEGO 71861 Stare miasto – 15-lecie</a> (4851 el.). Za element płaci się tu katalogowo 0,31 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/71872/\">LEGO 71872 Bitwa z ultrasmokiem</a> (869,99 zł katalogowo) i <a href=\"/zestaw/71861/\">LEGO 71861 Stare miasto – 15-lecie</a> (1 299,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "71814",
+   "Nazwa": "Turniejowe miasto ze świątynią",
+   "Seria": "Ninjago",
+   "Premiera": "2024",
+   "Liczba elementów": "3489",
+   "Wiek": "14+",
+   "Minifigurki / postacie": "13 minifigurek (m.in. Lloyd, Cole, Nya, Zane, Arin, Wyldfyre, Lord Ras)",
+   "Cena katalogowa w Polsce": "1 079,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Ninjago, serial NINJAGO: Powstanie Smoków",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Czy LEGO 71814 można teraz kupić w sklepie LEGO?",
+    "a": "Polski sklep LEGO pokazuje go jako chwilowo niedostępny, z ceną katalogową 1 079,99 zł. Oferty innych sprzedawców warto porównać osobno. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co porusza młyn wodny?",
+    "a": "Dwie platformy do bitew i młot kowalski."
+   },
+   {
+    "q": "Jak uruchamia się spadające skały?",
+    "a": "Naciśnięciem lampionu."
+   },
+   {
+    "q": "Ile miejsca zajmuje wyspa ze świątynią?",
+    "a": "48 cm wysokości, 63 cm szerokości i 32 cm głębokości."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Kto szuka budynku z mechem, może wybrać 71837 Warsztaty w mieście NINJAGO za tę samą cenę katalogową. Ma 3244 elementy, 10 minifigurek i dwa działające dźwigi. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "71837": {
+  "seria": "Ninjago",
+  "nazwa": "Warsztaty w mieście NINJAGO",
+  "elementy": 3244,
+  "akapity": [
+   "Czteropiętrowy budynek z zestawu 71837, oznaczonego wiekiem 14+, dokłada do kolekcji modeli Miasta NINJAGO mieszkania, sklepy, restauracje i warsztat mechaniczny. Można tu zajrzeć do magicznego sklepu Doramy, mieszkania Zane’a, sklepu modelarskiego i ramenowni. Część kondygnacji da się odczepić i bawić się nimi osobno, a całość łączy się z innymi zestawami z serii Miasto NINJAGO.",
+   "Najważniejszą nowością jest ruchomy mech. To pierwszy model Miasta NINJAGO z taką maszyną: buduje się ją w sklepie modelarskim i personalizuje zbrojami oraz naklejkami, a części pancerza podnoszą i opuszczają między piętrami dwa działające dźwigi. Gotowy mech można wyeksponować na platformie w specjalnej zatoczce budynku.",
+   "W zestawie jest 10 minifigurek: Zane, Pixal, właściciel sklepu modelarskiego, mechanik, pracownik restauracji i dragoński turysta oraz cztery postacie, które w tej formie pojawiają się po raz pierwszy: Dorama, doktor Larow, Harumi i Tim Nerwus. Dochodzi do nich zbudowana z klocków marionetka Doramy. Scenki nawiązują do trzeciego sezonu serialu NINJAGO: Powstanie Smoków. Z 3244 elementów powstaje budowla o wysokości 41 cm i podstawie 25 na 25 cm.",
+   "Gdyby stanął obok 41 zestawów LEGO Ninjago z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/71861/\">LEGO 71861 Stare miasto – 15-lecie</a> (4851 el.). Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/71872/\">LEGO 71872 Bitwa z ultrasmokiem</a> (869,99 zł katalogowo) i <a href=\"/zestaw/71861/\">LEGO 71861 Stare miasto – 15-lecie</a> (1 299,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "71837",
+   "Nazwa": "Warsztaty w mieście NINJAGO",
+   "Seria": "Ninjago",
+   "Premiera": "2025",
+   "Liczba elementów": "3244",
+   "Wiek": "14+",
+   "Minifigurki / postacie": "10 minifigurek (m.in. Zane, Pixal, Dorama, doktor Larow, Harumi, Tim Nerwus) i figurka marionetki Doramy",
+   "Cena katalogowa w Polsce": "1 079,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "modele Miasta NINJAGO, serial NINJAGO: Powstanie Smoków",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów LEGO Insiders przysługuje za ten zestaw?",
+    "a": "1620 punktów przy zakupie w sklepie LEGO, gdzie warsztaty kosztują katalogowo 1 079,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Do czego służą dźwigi?",
+    "a": "Podnoszą i opuszczają ładunki oraz części zbroi mecha między czterema piętrami budynku."
+   },
+   {
+    "q": "Jak można personalizować mecha?",
+    "a": "Zbrojami i naklejkami, a gotowego ustawia się na platformie w zatoczce."
+   },
+   {
+    "q": "Jakie lokale są w budynku?",
+    "a": "Między innymi magiczny sklep Doramy, sklep modelarski, ramenownia i mieszkanie Zane’a."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Ninjago w podobnej cenie?",
+    "a": "Tę samą cenę katalogową, 1 079,99 zł, ma 71814 Turniejowe miasto ze świątynią. Świątynia ma 3489 elementów i 13 minifigurek z drugiego sezonu serialu, a warsztaty mają 3244 elementy, 10 minifigurek i ruchomego mecha z dźwigami. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "75409": {
+  "seria": "Star Wars",
+  "nazwa": "Patrolowiec typu Firespray Jango Fetta",
+  "elementy": 2970,
+  "akapity": [
+   "Zestaw 75409 przenosi statek Jango Fetta z filmu „Gwiezdne Wojny: Atak klonów” do linii Ultimate Collector Series, przygotowanej z myślą o dorosłych kolekcjonerach. Z 2970 elementów powstaje model o długości 44 cm, szerokości 39 cm i wysokości 19 cm. Po podniesieniu osłony kokpitu widać szczegółowe wnętrze z wyjmowaną sekcją, w której siadają minifigurki Jango Fetta i młodego Boby Fetta, obie w nowych projektach.",
+   "Realistycznych detali jest więcej. Wciśnięcie otwiera rampę luku załadunkowego, ruchome drzwi ukrywają albo odsłaniają ładunek sejsmiczny, a bliźniacze działka blasterowe można przechylać i celować nimi. Najciekawsze jest jednak ustawienie modelu. Statek stoi płasko w trybie lądowania albo pionowo, w pozycji gotowej do lotu, na podstawce do zbudowania z tabliczką z napisem. Gdy kadłub się przechyla, skrzydła pozostają w poziomie.",
+   "Duży zestaw zawiera sporo nowych elementów oraz ukrytych niespodzianek dla fanów i jest skierowany do kolekcjonerów zestawów UCS oraz doświadczonych konstruktorów. Model ukazał się w 2025 roku z oznaczeniem wieku 18+.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,44 zł, przy typowych dla serii 0,53 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/75442/\">LEGO 75442 Myśliwiec N-1 Mandalorianina</a> (1 079,99 zł katalogowo) i <a href=\"/zestaw/75453/\">LEGO 75453 Piaskoczołg wędrownych Jawów i bagnorożec</a> (869,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "75409",
+   "Nazwa": "Patrolowiec typu Firespray Jango Fetta",
+   "Seria": "Star Wars",
+   "Premiera": "2025",
+   "Liczba elementów": "2970",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "2 minifigurki (Jango Fett, młody Boba Fett)",
+   "Cena katalogowa w Polsce": "1 299,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Star Wars Ultimate Collector Series",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 75409?",
+    "a": "Cena katalogowa wynosi 1 299,99 zł, a za zakup w sklepie LEGO przysługuje 1950 punktów LEGO Insiders. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak można ustawić gotowy statek?",
+    "a": "Płasko w trybie lądowania albo pionowo na podstawce, w pozycji gotowej do lotu."
+   },
+   {
+    "q": "Jak otwiera się rampa?",
+    "a": "Naciśnięciem, które porusza lukiem załadunkowym."
+   },
+   {
+    "q": "Co ukryto za ruchomymi drzwiami?",
+    "a": "Ładunek sejsmiczny. Model ma też przechylane bliźniacze działka blasterowe."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Najbliżej mu do innych modeli z linii Ultimate Collector Series, przygotowanych z myślą o ekspozycji. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "75685": {
+  "seria": "Wicked",
+  "nazwa": "Obraz Emerald City",
+  "elementy": 1518,
+  "akapity": [
+   "Obraz Emerald City 75685 z linii LEGO Wicked to przestrzenna dekoracja z 1518 elementów, którą można powiesić na ścianie albo postawić na półce. Kompozycja opiera się na trzech kolorach przypisanych bohaterkom i miejscom z filmu: różowym dla Glindy, zielonym dla Elphaby i żółtym dla Yellow Brick Road. W formacie 3D pokazano najważniejsze lokalizacje, w tym Shiz University, Munchkinland i samo Emerald City, a także pociąg Emerald City i balon na ogrzane powietrze.",
+   "Postacie wpisano w scenę: Elphaba leci nad miastem, a Glinda unosi się w swojej bańce. Zestaw zawiera sześć minifigurek i figurkę psa Toto. W środku obrazu jest skrytka, w której mieszczą się cztery z nich: Dorotka, Tchórzliwy Lew, Strach na Wróble i Blaszany Drwal. Obraz ma też magiczny las i kilka dodatkowych niespodzianek.",
+   "Gotowy obraz ma 32 cm wysokości, 25 cm szerokości i 8 cm głębokości. Zestaw jest przeznaczony dla dorosłych fanów musicalu i filmów „Wicked”, a w polskim sklepie LEGO kosztuje katalogowo 649,99 zł."
+  ],
+  "metryka": {
+   "Numer": "75685",
+   "Nazwa": "Obraz Emerald City",
+   "Seria": "Wicked",
+   "Premiera": "2025",
+   "Liczba elementów": "1518",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "6 minifigurek (Elphaba, Glinda, Dorotka, Tchórzliwy Lew, Strach na Wróble, Blaszany Drwal) i figurka Toto",
+   "Cena katalogowa w Polsce": "649,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "LEGO Wicked",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Gdzie kupić LEGO 75685?",
+    "a": "Polski sklep LEGO pokazuje przy cenie katalogowej 649,99 zł status „Wyprzedane”, dlatego warto przejrzeć oferty innych sklepów z zabawkami. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie postacie są w zestawie?",
+    "a": "Elphaba, Glinda, Dorotka, Tchórzliwy Lew, Strach na Wróble i Blaszany Drwal jako minifigurki oraz pies Toto."
+   },
+   {
+    "q": "Czy obraz trzeba wieszać na ścianie?",
+    "a": "Nie. Można go powiesić albo ustawić na półce."
+   },
+   {
+    "q": "Co kryje skrytka w środku modelu?",
+    "a": "Mieści cztery minifigurki: Dorotkę, Tchórzliwego Lwa, Stracha na Wróble i Blaszanego Drwala."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Wicked?",
+    "a": "Inne sceny z filmów „Wicked”, także te przeznaczone do zabawy, zbiera kategoria serii. <a href=\"/serie/wicked/\">Zobacz wszystkie zestawy LEGO Wicked</a>"
+   }
+  ]
+ },
+ "76300": {
+  "seria": "Batman",
+  "nazwa": "Arkham Asylum",
+  "elementy": 2953,
+  "akapity": [
+   "W kolekcjonerskim zestawie 76300 dla dorosłych fanów DC złoczyńcy z Gotham uciekają z legendarnego szpitala Arkham Asylum. Budowla dzieli się na trzy segmenty: pierwsze piętro, drugie piętro i dach. Odczepiane części dają dostęp do wnętrza, gdzie każdy więzień ma własną celę z przesuwanymi drzwiami, a główną bramę da się zamknąć. Do kompletu należy furgonetka do przewozu więźniów, do której złoczyńcy mogą zaprowadzić pojmanego strażnika, zanim na pomoc ruszy mu Robin. Historię Batmana przywołuje 65 naklejek.",
+   "Najmocniejszą stroną zestawu jest liczba postaci. Szesnaście minifigurek to Batman, Batwoman, Batwing, Robin, Mr. Freeze, Człowiek-Zagadka, Trujący Bluszcz, Kobieta-Kot, Scarecrow, Harley Quinn, Bane, Joker, Pingwin, Killer Croc i dwóch strażników. Przezroczyste podstawki pozwalają ustawić je wokół budynku, więc każdy może ułożyć własną scenę.",
+   "Wszystkie 2953 elementy rozłożono na 24 torebki, dlatego zestaw można też budować przez 24 dni jako kalendarz adwentowy. Budynek ma 32 cm wysokości, 25 cm szerokości i 26 cm głębokości, a instrukcje mają formę albumu ze szczegółami projektu.",
+   "Gdyby stanął obok 6 zestawów LEGO Batman z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,44 zł, przy typowych dla serii 0,49 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (899,99 zł katalogowo) i <a href=\"/zestaw/76330/\">LEGO 76330 Logo Batmana</a> (339,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76300",
+   "Nazwa": "Arkham Asylum",
+   "Seria": "Batman",
+   "Premiera": "2025",
+   "Liczba elementów": "2953",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "16 minifigurek (m.in. Batman, Robin, Joker, Harley Quinn, Bane, Pingwin, Killer Croc)",
+   "Cena katalogowa w Polsce": "1 299,99 zł",
+   "Cena katalogowa za element": "0,44 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO DC Batman, zestawy dla dorosłych",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje jeden element Arkham Asylum?",
+    "a": "0,44 zł przy cenie katalogowej 1 299,99 zł. To wskaźnik pomocniczy, bo w pudełku jest też 16 minifigurek i 65 naklejek. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie minifigurki są w zestawie?",
+    "a": "Batman, Batwoman, Batwing, Robin, Mr. Freeze, Człowiek-Zagadka, Trujący Bluszcz, Kobieta-Kot, Scarecrow, Harley Quinn, Bane, Joker, Pingwin, Killer Croc i dwóch strażników."
+   },
+   {
+    "q": "Czy zestaw działa jak kalendarz adwentowy?",
+    "a": "Tak. Elementy są w 24 torebkach, więc model da się składać przez 24 dni."
+   },
+   {
+    "q": "Z ilu części składa się budynek?",
+    "a": "Z trzech: pierwszego piętra, drugiego piętra i dachu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "Pokrewne są filmowe pojazdy Batmana, na przykład kolekcjonerski 76304 Batmobil Batman Forever z jedną minifigurką i plakietką informacyjną. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76303": {
+  "seria": "Batman",
+  "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+  "elementy": 429,
+  "akapity": [
+   "Tumbler, czyli Batmobil znany z trylogii o Mrocznym Rycerzu, w tym zestawie dostaje przeciwników: Jokera z plikiem banknotów i Dwie Twarze z charakterystyczną srebrną monetą. Batman ma przy sobie Batarang. Pojazd się otwiera i odsłania kokpit z panelem sterowania oraz miejscem dla minifigurki, a do rury wydechowej przymocowano element z płomieniem.",
+   "Drugą częścią zestawu 76303 jest projektor z batsygnałem, który przechyla się i obraca o 360 stopni w obu kierunkach. Sygnał nie świeci, ale jego ruchy pozwalają odegrać chwilę, w której projektor wzywa Batmana. Zestaw składa się z 429 elementów i ma oznaczenie 8+, a gotowy Tumbler mierzy około 17 cm długości, 11 cm szerokości i 6 cm wysokości. W polskim sklepie LEGO model ma etykietę „Ostatnie zestawy”."
+  ],
+  "metryka": {
+   "Numer": "76303",
+   "Nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
+   "Seria": "Batman",
+   "Premiera": "2025",
+   "Liczba elementów": "429",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "3 minifigurki (Batman, Joker, Dwie Twarze)",
+   "Cena katalogowa w Polsce": "249,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DC Batman, trylogia Mroczny Rycerz",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile punktów LEGO Insiders można dostać za Tumblera?",
+    "a": "Przy zakupie w sklepie LEGO za 249,99 zł na konto trafia 375 punktów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie minifigurki są w zestawie?",
+    "a": "Batman z Batarangiem, Joker z plikiem banknotów i Dwie Twarze ze srebrną monetą."
+   },
+   {
+    "q": "Czy batsygnał się świeci?",
+    "a": "Nie. Projektor nie ma podświetlenia, ale przechyla się i obraca o 360 stopni."
+   },
+   {
+    "q": "Ile minifigurek mieści kokpit?",
+    "a": "Jedną. W środku jest miejsce dla Batmana przy panelu sterowania."
+   },
+   {
+    "q": "Jaki zestaw LEGO Batman warto kupić zamiast tego modelu?",
+    "a": "Kto woli model do postawienia na półce, może wybrać 76304 Batmobil Batman Forever za 419,99 zł. Ma 909 elementów i 41 cm długości, ale tylko jedną minifigurkę. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76304": {
+  "seria": "Batman",
+  "nazwa": "Batmobil Batman Forever",
+  "elementy": 909,
+  "akapity": [
+   "Batmobil z filmu „Batman Forever” dostał w LEGO wersję 76304 z 909 elementów, oznaczoną wiekiem 12+. Replika ma formowaną przednią szybę, obrotowe koła i autentycznie odwzorowane ozdoby nadwozia. Kokpit się otwiera i odsłania szczegółowe wnętrze, a całość łączy model do zabawy z kolekcjonerskim pojazdem do postawienia na półce.",
+   "W pudełku jest jedna minifigurka: Batman ze specjalną podstawką. Do samochodu dołączono też plakietkę informacyjną. Auto osiąga około 41 cm długości, przy 17 cm wysokości i 12 cm szerokości.",
+   "Zestaw należy do serii LEGO DC z Batmanem, a jego premiera przypadła na 2025 rok. Kto zbiera filmowe wersje Batmobilu, może zestawić go z Tumblerem z trylogii o Mrocznym Rycerzu z zestawu 76303, który ma około 17 cm długości i trzy minifigurki. W 76304 nacisk pada na wygląd jednego samochodu, a nie na scenę z przeciwnikami. LEGO poleca go dzieciom, które mają już doświadczenie w budowaniu, oraz fanom superbohaterów DC, do zabawy i jako dekorację.",
+   "Gdyby stanął obok 6 zestawów LEGO Batman z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (2269 el.). Za element płaci się tu katalogowo 0,46 zł, przy typowych dla serii 0,49 zł."
+  ],
+  "metryka": {
+   "Numer": "76304",
+   "Nazwa": "Batmobil Batman Forever",
+   "Seria": "Batman",
+   "Premiera": "2025",
+   "Liczba elementów": "909",
+   "Wiek": "12+",
+   "Minifigurki / postacie": "1 minifigurka (Batman z podstawką)",
+   "Cena katalogowa w Polsce": "419,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO DC Batman, filmowe Batmobile",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76304?",
+    "a": "Cena katalogowa w Polsce wynosi 419,99 zł. To sprzedaż detaliczna, więc kwoty w poszczególnych sklepach mogą się od niej różnić. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co można otworzyć w tym Batmobilu?",
+    "a": "Kokpit. Po jego podniesieniu widać szczegółowe wnętrze samochodu, a koła modelu się obracają."
+   },
+   {
+    "q": "Czy w zestawie jest podstawka dla minifigurki?",
+    "a": "Tak. Batman ma własną podstawkę, a samochód dostaje plakietkę informacyjną."
+   },
+   {
+    "q": "Ile miejsca zajmuje gotowy model?",
+    "a": "Około 41 cm długości, 17 cm wysokości i 12 cm szerokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "Filmowy Batmobil w innej odsłonie ma zestaw 76303 Tumbler Batmana kontra Dwie Twarze i Joker, mniejszy i z trzema minifigurkami. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76454": {
+  "seria": "Harry Potter",
+  "nazwa": "Zamek Hogwart: Główna wieża",
+  "elementy": 2135,
+  "akapity": [
+   "Główna wieża Hogwartu w skali minifigurek to według LEGO największy jak dotąd model tej części zamku. Zestaw 76454 z serii Harry Potter liczy 2135 elementów, a gotowa wieża ma 67 cm wysokości, 36 cm szerokości i 14 cm głębokości. Model łączy kilka scen z ruchomymi funkcjami: zapadnię, którą można uciec z komnaty Puszka, diabelskie sidła uruchamiane przełącznikiem i skrzydlate klucze z funkcją chwytania. Obracają się też schody prowadzące do gabinetu Dumbledore’a.",
+   "Komnaty skrzydlatych kluczy i czarodziejskich szachów leżą w kamiennych fundamentach i dają się odczepić, co według LEGO ułatwia zabawę. W zamku zawieszono sześć z czternastu kolekcjonerskich portretów Hogwartu, są tu też Lustro Ain Eingarp i Tiara Przydziału. Do zestawu dołączono 12 minifigurek, w tym Harry’ego Pottera, Hermionę Granger, Neville’a Longbottoma, profesora Kettleburna, Prawie Bezgłowego Nicka i Albusa Dumbledore’a, a także figurki Puszka, Hedwigi i Fawkesa.",
+   "Wieża należy do kolekcji modułowych zestawów Zamek Hogwart, z których po połączeniu powstaje jedna diorama zamku; pozostałe moduły kupuje się osobno. Premiera przypadła na 2025 rok, a zestaw ma oznaczenie 10+.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/76476/\">LEGO 76476 Ministerstwo Magii – edycja kolekcjonerska</a> (3491 el.). Za element płaci się tu katalogowo 0,51 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76473/\">LEGO 76473 Zamek Hogwart: Wschodnie skrzydło</a> (1 079,99 zł katalogowo) i <a href=\"/zestaw/76466/\">LEGO 76466 Kamień filozoficzny – edycja kolekcjonerska</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76454",
+   "Nazwa": "Zamek Hogwart: Główna wieża",
+   "Seria": "Harry Potter",
+   "Premiera": "2025",
+   "Liczba elementów": "2135",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "12 minifigurek (m.in. Harry Potter, Hermiona Granger, Neville Longbottom, profesor Kettleburn, Prawie Bezgłowy Nick, Albus Dumbledore) oraz figurki Puszka, Hedwigi i Fawkesa",
+   "Cena katalogowa w Polsce": "1 079,99 zł",
+   "Cena katalogowa za element": "0,51 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "modułowy Zamek Hogwart LEGO Harry Potter",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 76454?",
+    "a": "Polski sklep LEGO podaje cenę katalogową 1 079,99 zł i ogranicza liczbę sztuk, jaką może zamówić jeden kupujący, do trzech. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Po podzieleniu ceny przez 2135 elementów wychodzi 0,51 zł. To tylko pomocnicza miara, bo część wartości zestawu stanowi 12 minifigurek i trzy figurki zwierząt."
+   },
+   {
+    "q": "Które przeszkody w wieży mają ruchome funkcje?",
+    "a": "Zapadnia w komnacie Puszka, diabelskie sidła na przełącznik i skrzydlate klucze, które chwytają; obracają się też schody do gabinetu dyrektora."
+   },
+   {
+    "q": "Czy wieżę można połączyć z innymi częściami zamku?",
+    "a": "Tak. Jest jednym z modułów kolekcji Zamek Hogwart, a kolejne części, sprzedawane osobno, dołącza się do niej w jedną dioramę."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Pozostałe moduły zamku i sceny ze szkoły magii zbiera kategoria serii. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "854307": {
+  "seria": "DREAMZzz",
+  "nazwa": "Miecz w kształcie Z-Bloba Mateo",
+  "elementy": 0,
+  "akapity": [
+   "Miecz Mateo to zabawka do odgrywania ról z linii LEGO DREAMZzz, inspirowana bohaterem serialu telewizyjnego o tym samym tytule. Miecz ma jasnozielony kolor, a na rękojeści widnieje twarz Z-Bloba, pomocnika Mateo. Mierzy 52 cm długości, a dziecko, które go trzyma, może wcielić się w sennego agenta.",
+   "Zabawka powstała z myślą o dzieciach od 6 lat i zachęca do wymyślania własnych przygód w świecie snów. Można ją połączyć z mieczem Izzie z tej samej linii (854308), który ma fioletowo-błękitne barwy. Miecz 854307 ma w sklepie LEGO etykietę „Ostatnie zestawy” i limit trzech sztuk na kupującego, a sklep zalicza go do akcesoriów i zabawek fantasy."
+  ],
+  "metryka": {
+   "Numer": "854307",
+   "Nazwa": "Miecz w kształcie Z-Bloba Mateo",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "41,99 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz, zabawki do odgrywania ról",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić miecz Mateo w cenie katalogowej?",
+    "a": "W sklepie LEGO kosztuje 41,99 zł i daje 63 punkty LEGO Insiders. To zabawka z bieżącej oferty, więc przed zakupem można porównać cenę w kilku sklepach. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak długi jest miecz?",
+    "a": "52 cm."
+   },
+   {
+    "q": "Czyja twarz jest na rękojeści?",
+    "a": "Z-Bloba, pomocnika Mateo z serialu LEGO DREAMZzz."
+   },
+   {
+    "q": "Dla dzieci w jakim wieku jest miecz?",
+    "a": "Oznaczenie wieku to 6+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DREAMZzz?",
+    "a": "Do pary pasuje 854308 Miecz Izzie, w barwach fioletu i błękitu ze złotą gwiazdą na rękojeści. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>"
+   }
+  ]
+ },
+ "854308": {
+  "seria": "DREAMZzz",
+  "nazwa": "Miecz Izzie",
+  "elementy": 0,
+  "akapity": [
+   "Izzie, jedna z bohaterek serialu LEGO DREAMZzz, ma swój miecz także poza ekranem. Zabawkowa broń łączy jaskrawe odcienie fioletu i błękitu, a rękojeść zdobi złota gwiazda. Przy długości 52 cm miecz pasuje do zabawy w odgrywanie ról, w której początkujący senni agenci odtwarzają ulubione momenty z serialu i dopisują nowe historie.",
+   "Zabawka jest dla dzieci od sześciu lat. W tej samej linii i w tej samej cenie jest miecz Mateo z twarzą Z-Bloba (854307), który pozwala wybrać innego bohatera serialu. Sklep LEGO zalicza miecz Izzie do akcesoriów i zabawek fantasy, a na stronie produktu oznacza go etykietą „Ostatnie zestawy”. Zakup zabawki 854308 za 41,99 zł daje 63 punkty LEGO Insiders."
+  ],
+  "metryka": {
+   "Numer": "854308",
+   "Nazwa": "Miecz Izzie",
+   "Seria": "DREAMZzz",
+   "Premiera": "2025",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "41,99 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DREAMZzz, zabawki do odgrywania ról",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Gdzie można kupić miecz Izzie?",
+    "a": "W polskim sklepie LEGO za 41,99 zł, z limitem trzech sztuk na kupującego, a także u innych sprzedawców zabawek. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakich kolorach jest miecz?",
+    "a": "W odcieniach fioletu i błękitu, ze złotą gwiazdą na rękojeści."
+   },
+   {
+    "q": "Z jakiego serialu pochodzi postać Izzie?",
+    "a": "Z serialu telewizyjnego LEGO DREAMZzz."
+   },
+   {
+    "q": "Do jakiej zabawy przeznaczony jest miecz?",
+    "a": "Do odgrywania ról: dzieci wcielają się w sennych agentów i wymyślają własne przygody."
+   },
+   {
+    "q": "Jaki zestaw LEGO DREAMZzz warto kupić zamiast tego modelu?",
+    "a": "Fan Mateo wybierze 854307 Miecz w kształcie Z-Bloba Mateo, jasnozielony i z twarzą pomocnika na rękojeści, w tej samej cenie 41,99 zł. <a href=\"/serie/dreamzzz/\">Zobacz wszystkie zestawy LEGO DREAMZzz</a>"
+   }
+  ]
+ },
+ "854311": {
+  "seria": "Ninjago",
+  "nazwa": "Miecz Lloyda z pochwą",
+  "elementy": 0,
+  "akapity": [
+   "Zabawkowy miecz Lloyda (854311) odwzorowuje broń, której ninja Lloyd używa w serialu telewizyjnym LEGO NINJAGO. Ma ciemnozieloną rękojeść i złote ostrze, a cała zabawka mierzy 52 cm. Wyróżnia ją pochwa: dzięki niej dziecko może nosić miecz na plecach, tak jak robią to ninja z serialu.",
+   "Sześciolatki i starsze dzieci użyją go do odgrywania ról, odtwarzania ulubionych momentów z serialu oraz wymyślania nowych przygód z ulubionymi ninja. Cena katalogowa wynosi 81,99 zł, jednak w sklepie LEGO zabawka ma status „Wyprzedane” oraz etykiety „Czyszczenie magazynu” i „Ostatnie zestawy”. Miecz może też być prezentem dla małych fanów NINJAGO i miłośników zabaw w odgrywanie ról."
+  ],
+  "metryka": {
+   "Numer": "854311",
+   "Nazwa": "Miecz Lloyda z pochwą",
+   "Seria": "Ninjago",
+   "Premiera": "2025",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "81,99 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO NINJAGO, zabawki do odgrywania ról",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy miecz Lloyda jest jeszcze dostępny?",
+    "a": "W sklepie LEGO ma status „Wyprzedane” przy cenie katalogowej 81,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Do czego służy pochwa?",
+    "a": "Pozwala nosić miecz na plecach, jak robią to serialowi ninja."
+   },
+   {
+    "q": "Jak wygląda miecz?",
+    "a": "Ma ciemnozieloną rękojeść i złote ostrze."
+   },
+   {
+    "q": "Ile ma długości?",
+    "a": "52 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Najbliżej są inne akcesoria i zabawki do odgrywania ról z serialu NINJAGO. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "88012": {
+  "seria": "Power Functions",
+  "nazwa": "Hub Technic",
+  "elementy": 1,
+  "akapity": [
+   "Programowalny moduł sterujący 88012 należy do systemu LEGO Powered Up i służy do ożywiania modeli LEGO Technic. W obudowie ma zintegrowany czujnik przechyłu oraz cztery porty wejścia i wyjścia, do których podłącza się czujniki, silniki i lampki Powered Up, żeby nimi sterować albo je programować. Łączy się przez Bluetooth z aplikacją LEGO Technic CONTROL+ i współpracuje też z aplikacją Powered Up.",
+   "Zasila go sześć baterii AA, kupowanych osobno. Hub sprawdza się także jako dodatek do projektów z przedmiotów ścisłych i robotyki, a jego oznaczenie wieku to 7+. Moduł jest w ofercie od 2020 roku i kosztuje katalogowo 339,99 zł. Dzięki czterem portom jeden hub może obsłużyć jednocześnie kilka silników, lampek i czujników w tym samym modelu."
+  ],
+  "metryka": {
+   "Numer": "88012",
+   "Nazwa": "Hub Technic",
+   "Seria": "Power Functions",
+   "Premiera": "2020",
+   "Liczba elementów": "1",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "339,99 zł",
+   "Cena katalogowa za element": "339,99 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Powered Up, do modeli LEGO Technic",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy hub warto kupić w cenie katalogowej?",
+    "a": "Przy zakupie w sklepie LEGO za 339,99 zł przysługuje 510 punktów LEGO Insiders i to one są głównym argumentem za ceną katalogową. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakimi aplikacjami współpracuje hub?",
+    "a": "Z aplikacją LEGO Technic CONTROL+ przez Bluetooth oraz z aplikacją Powered Up."
+   },
+   {
+    "q": "Ile urządzeń można podłączyć do huba?",
+    "a": "Cztery, bo tyle ma portów wejścia i wyjścia."
+   },
+   {
+    "q": "Do czego służy czujnik przechyłu?",
+    "a": "Wykrywa przechylenie huba. Jest wbudowany w obudowę, więc nie zajmuje żadnego z czterech portów."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Power Functions?",
+    "a": "Do samego zasilania silników i lampek służy 88015 Schowek na baterie za 144,99 zł, z dwoma złączami i przełącznikami kierunku. <a href=\"/serie/power-functions/\">Zobacz wszystkie zestawy LEGO Power Functions</a>"
+   }
+  ]
+ },
+ "88015": {
+  "seria": "Power Functions",
+  "nazwa": "Schowek na baterie",
+  "elementy": 1,
+  "akapity": [
+   "Do zasilania silników i lampek w modelach LEGO Technic służy element LEGO Powered Up oznaczony numerem 88015. Moduł działa na baterie i ma dwa złącza wyjściowe, więc jednocześnie można do niego podłączyć dwa urządzenia Powered Up, na przykład silnik i lampkę. Dwa przełączniki pozwalają sterować kierunkiem pracy silnika.",
+   "Zasilanie zapewnia sześć baterii AA, których nie ma w zestawie. Schowek jest pojedynczym elementem przeznaczonym do użytku z systemem LEGO Technic. Oznaczenie wieku wynosi 7+, a moduł jest w ofercie od 2021 roku i kosztuje katalogowo 144,99 zł. Programowalny 88012 Hub Technic ma cztery porty i czujnik przechyłu, a schowek ogranicza się do dwóch złączy i ręcznych przełączników."
+  ],
+  "metryka": {
+   "Numer": "88015",
+   "Nazwa": "Schowek na baterie",
+   "Seria": "Power Functions",
+   "Premiera": "2021",
+   "Liczba elementów": "1",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "144,99 zł",
+   "Cena katalogowa za element": "144,99 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Powered Up, do modeli LEGO Technic",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Gdzie kupić LEGO 88015?",
+    "a": "Schowek jest w sklepie LEGO za 144,99 zł, z limitem dziesięciu sztuk na kupującego i 217 punktami LEGO Insiders za zakup. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie baterie są potrzebne?",
+    "a": "Sześć baterii AA, kupowanych osobno."
+   },
+   {
+    "q": "Ile silników można podłączyć?",
+    "a": "Dwa urządzenia naraz, bo moduł ma dwa złącza wyjściowe na silniki i lampki Powered Up."
+   },
+   {
+    "q": "Czy kierunek obrotów silnika da się zmienić?",
+    "a": "Tak. Służą do tego dwa przełączniki na schowku."
+   },
+   {
+    "q": "Jaki zestaw LEGO Power Functions warto kupić zamiast tego modelu?",
+    "a": "Do sterowania z aplikacji LEGO Technic CONTROL+ służy 88012 Hub Technic za 339,99 zł: ma cztery porty, czujnik przechyłu i łączy się przez Bluetooth. <a href=\"/serie/power-functions/\">Zobacz wszystkie zestawy LEGO Power Functions</a>"
+   }
+  ]
+ },
+ "951445": {
+  "seria": "Friends",
+  "nazwa": "Horse stables",
+  "elementy": 39,
+  "akapity": [
+   "Puszka 951445 Horse stables z podserii Friends FunPack zawiera 39 elementów: stajnię z koniem Dawn i źrebięciem, studnię, świeże plony i tor przeszkód. Zestaw o oznaczeniu 6+ trafił do ograniczonej sprzedaży detalicznej, a występuje też pod numerem 2D001185."
+  ],
+  "metryka": {
+   "Numer": "951445",
+   "Nazwa": "Horse stables",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "39",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "koń Dawn i źrebię",
+   "Sposób uzyskania": "ograniczona sprzedaż w metalowej puszce (Friends FunPack)",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends FunPack",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czym jest Friends FunPack?",
+    "a": "Podserią małych zestawów Friends w metalowych puszkach."
+   },
+   {
+    "q": "Jak sprzedawano LEGO 951445?",
+    "a": "W ograniczonej dystrybucji w handlu, dlatego warto porównać oferty. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Pod jakim drugim numerem występuje zestaw?",
+    "a": "2D001185."
+   },
+   {
+    "q": "Co oprócz koni zawiera puszka?",
+    "a": "Stajnię, studnię, świeże plony i tor przeszkód."
+   },
+   {
+    "q": "Jaki zestaw LEGO Friends warto kupić zamiast tego modelu?",
+    "a": "Inną puszką FunPack Friends jest 951446 Valeria with Puppy: zamiast stajni ma wózek i psa Airę, a liczy 20 elementów. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "951446": {
+  "seria": "Friends",
+  "nazwa": "Valeria with Puppy",
+  "elementy": 20,
+  "akapity": [
+   "W puszce Friends FunPack 951446 Valeria with Puppy są Valeria, szczeniak Aira i wózek. Zestaw z 20 elementów nawiązuje do opieki weterynaryjnej; drugi numer tej puszki to 2D001186."
+  ],
+  "metryka": {
+   "Numer": "951446",
+   "Nazwa": "Valeria with Puppy",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "20",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "Valeria i pies Aira",
+   "Sposób uzyskania": "ograniczona sprzedaż w metalowej puszce (Friends FunPack)",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends FunPack",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jak ma na imię szczeniak?",
+    "a": "Aira."
+   },
+   {
+    "q": "Pod jakim innym numerem występuje puszka?",
+    "a": "2D001186; pod oboma numerami można szukać ofert. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co jeszcze zawiera zestaw?",
+    "a": "Wózek."
+   },
+   {
+    "q": "Do jakiej podserii należy LEGO 951446?",
+    "a": "Do Friends FunPack, czyli małych zestawów w metalowych puszkach."
+   },
+   {
+    "q": "Jaki zestaw LEGO Friends warto kupić zamiast tego modelu?",
+    "a": "Więcej klocków, bo 39, ma puszka 951445 Horse stables, ze stajnią i koniem Dawn. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "951466": {
+  "seria": "Ninjago",
+  "nazwa": "Kai with Motorcycle",
+  "elementy": 35,
+  "akapity": [
+   "Puszka 951466 z podserii Ninjago FunPack mieści motocykl Kaia z linii Dragons Rising. Zestaw ma 35 elementów i oznaczenie 6+, trafił do ograniczonej sprzedaży detalicznej, a występuje również pod numerem 2D001183."
+  ],
+  "metryka": {
+   "Numer": "951466",
+   "Nazwa": "Kai with Motorcycle",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "35",
+   "Wiek": "6+",
+   "Sposób uzyskania": "ograniczona sprzedaż w metalowej puszce (Ninjago FunPack)",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Ninjago FunPack, Dragons Rising",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 951466?",
+    "a": "Puszka trafiła do ograniczonej sprzedaży, więc warto porównać bieżące oferty. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Pod jakim drugim numerem znany jest zestaw?",
+    "a": "2D001183."
+   },
+   {
+    "q": "Jaki pojazd jest w puszce?",
+    "a": "Motocykl Kaia."
+   },
+   {
+    "q": "Jaki motyw ma zestaw Kaia?",
+    "a": "Ognisty."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Inna puszka FunPack Ninjago, 951467 Lloyd with Mech, ma 45 elementów i mecha w miejsce motocykla. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "951467": {
+  "seria": "Ninjago",
+  "nazwa": "Lloyd with Mech",
+  "elementy": 45,
+  "akapity": [
+   "Metalowa puszka 951467 należy do podserii Ninjago FunPack, sprzedawanej w handlu w ograniczonej dystrybucji, i ma też numer 2D001184. Z 45 elementów powstaje mech Lloyda z linii Dragons Rising."
+  ],
+  "metryka": {
+   "Numer": "951467",
+   "Nazwa": "Lloyd with Mech",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "45",
+   "Wiek": "6+",
+   "Sposób uzyskania": "ograniczona sprzedaż w metalowej puszce (Ninjago FunPack)",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Ninjago FunPack, Dragons Rising",
+   "Dystrybucja": "ograniczona sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaki jest drugi numer zestawu?",
+    "a": "2D001184; oferty bywają opisane którymkolwiek z obu numerów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki pojazd buduje się z puszki?",
+    "a": "Mech."
+   },
+   {
+    "q": "Czym jest Ninjago FunPack?",
+    "a": "Podserią małych zestawów Ninjago w metalowych puszkach."
+   },
+   {
+    "q": "Kto jest bohaterem zestawu?",
+    "a": "Lloyd, do którego należy mech."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Kai z motocyklem jest w puszce 951466 z tej samej podserii. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002199": {
+  "seria": "Ninjago",
+  "nazwa": "Kur",
+  "elementy": 10,
+  "akapity": [
+   "Kur, złoczyńca z linii Ninjago Dragons Rising, to minifigurka dodatku do czasopisma L0002199. Postać należy do grupy Forbidden Five i jest związana z Wolf Clan, a cały komplet liczy 10 elementów."
+  ],
+  "metryka": {
+   "Numer": "L0002199",
+   "Nazwa": "Kur",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "10",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Kur)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Ninjago Dragons Rising, dodatki do czasopism",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Kim jest Kur?",
+    "a": "Złoczyńcą z Ninjago Dragons Rising."
+   },
+   {
+    "q": "Do jakiej grupy należy postać?",
+    "a": "Do Forbidden Five; jest też związana z Wolf Clan."
+   },
+   {
+    "q": "Ile kosztuje LEGO L0002199?",
+    "a": "Torebkę dołączano do czasopisma, a jej dzisiejszą cenę ustalają oferty sprzedających."
+   },
+   {
+    "q": "Kiedy ukazał się dodatek?",
+    "a": "W 2026 roku."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Pojedynek Lloyda z wojownikiem Dragonian ma dodatek 112601 w metalowej puszce, z 14 elementami. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002200": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon Jay",
+  "elementy": 11,
+  "akapity": [
+   "W dodatku do czasopisma L0002200 z serii Ninjago pojawia się Jay Walker w smoczej formie. Minifigurka ninja jest jedyną postacią w komplecie z 11 elementów, a bliźniaczy dodatek L0002201 pokazuje w tej samej formie Lloyda."
+  ],
+  "metryka": {
+   "Numer": "L0002200",
+   "Nazwa": "Dragon Jay",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "11",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Jay w smoczej formie)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "W jakiej postaci występuje Jay?",
+    "a": "W smoczej formie."
+   },
+   {
+    "q": "Kiedy ukazał się LEGO L0002200?",
+    "a": "W 2026 roku, z czasopismem Ninjago."
+   },
+   {
+    "q": "Ile trzeba dziś zapłacić za ten dodatek?",
+    "a": "Zależy to od ofert sprzedających, bo torebkę wydano wyłącznie z czasopismem."
+   },
+   {
+    "q": "Czym różni się od L0002201?",
+    "a": "Postacią: tu jest Jay, a w L0002201 Lloyd, obaj w smoczej formie i z 11 elementami."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Najbliżej są pozostałe dodatki do czasopism Ninjago z pojedynczymi minifigurkami ninja. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002201": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon Lloyd",
+  "elementy": 11,
+  "akapity": [
+   "Lloyd Garmadon przybiera smoczą formę w dodatku do czasopisma L0002201 z serii Ninjago. Na komplet przypada 11 elementów, w tym minifigurka, a jego oznaczenie wieku to 6+."
+  ],
+  "metryka": {
+   "Numer": "L0002201",
+   "Nazwa": "Dragon Lloyd",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "11",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Lloyd w smoczej formie)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "W jakiej formie pokazano Lloyda?",
+    "a": "W smoczej."
+   },
+   {
+    "q": "Która postać jest w bliźniaczym dodatku L0002200?",
+    "a": "Jay, także w smoczej formie."
+   },
+   {
+    "q": "Dla jakiego wieku jest LEGO L0002201?",
+    "a": "Dla dzieci od 6 lat."
+   },
+   {
+    "q": "Co zawiera dodatek?",
+    "a": "Jedną minifigurkę – Lloyda Garmadona w smoczej formie; cały komplet ma 11 elementów."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Lloyda w zbroi turniejowej, razem z wojownikiem Dragonian, ma puszka 112601 Lloyd vs. Dragonian Warrior. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002202": {
+  "seria": "Ninjago",
+  "nazwa": "Earth Monster",
+  "elementy": 10,
+  "akapity": [
+   "Potwór ziemi w wersji z rogami jest jedyną minifigurką, jaką czytelnicy LEGO Ninjago znaleźli w papierowej torebce L0002202. Razem z nią komplet liczy 10 elementów."
+  ],
+  "metryka": {
+   "Numer": "L0002202",
+   "Nazwa": "Earth Monster",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "10",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (potwór ziemi)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Kim jest postać z dodatku?",
+    "a": "Potworem ziemi, w wersji z rogami."
+   },
+   {
+    "q": "Jak można było dostać L0002202?",
+    "a": "Razem z numerem czasopisma LEGO Ninjago."
+   },
+   {
+    "q": "Po czym rozpoznać tę wersję potwora?",
+    "a": "Po rogach."
+   },
+   {
+    "q": "Ile postaci jest w dodatku L0002202?",
+    "a": "Jedna minifigurka; łącznie z nią komplet ma 10 elementów."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Ninja i ich przeciwników z innych zestawów zbiera kategoria serii. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002203": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon Nya",
+  "elementy": 11,
+  "akapity": [
+   "Nya w smoczej formie to bohaterka dodatku L0002203, związanego z linią Dragons Rising i wydanego z czasopismem Ninjago. W torebce jest minifigurka i łącznie 11 elementów. Ten sam komplet występuje również pod numerem 951384."
+  ],
+  "metryka": {
+   "Numer": "L0002203",
+   "Nazwa": "Dragon Nya",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "11",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Nya w smoczej formie)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "W jakiej postaci występuje Nya?",
+    "a": "W smoczej formie."
+   },
+   {
+    "q": "Pod jakim drugim numerem występuje dodatek?",
+    "a": "951384."
+   },
+   {
+    "q": "Czy Nya występuje też w innym dodatku z 2026 roku?",
+    "a": "Tak, w L0002215 jako Samuraj X, razem z Grimfaxem."
+   },
+   {
+    "q": "Jak zapakowano minifigurkę?",
+    "a": "W papierowej torebce razem z pozostałymi elementami."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Smocze formy innych ninja to osobne dodatki do czasopisma, np. L0002204 z Kaiem. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002204": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon Kai",
+  "elementy": 11,
+  "akapity": [
+   "Kai występuje tu w smoczej formie, podobnie jak Nya i Zane w numerach L0002203 i L0002205. Zestaw L0002204 z linii Dragons Rising, dołączany do czasopisma Ninjago, obejmuje minifigurkę i 11 elementów."
+  ],
+  "metryka": {
+   "Numer": "L0002204",
+   "Nazwa": "Dragon Kai",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "11",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Kai w smoczej formie)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jak wygląda Kai w tym dodatku?",
+    "a": "Jest pokazany w smoczej formie."
+   },
+   {
+    "q": "Co zawiera L0002204?",
+    "a": "Minifigurkę smoczego Kaia i elementy do niej, razem 11."
+   },
+   {
+    "q": "Które smocze formy ninja wyszły w osobnych dodatkach?",
+    "a": "Nya w L0002203, Zane w L0002205 oraz wcześniejsze Jay i Lloyd."
+   },
+   {
+    "q": "Czy Kai pojawia się w innych dodatkach do czasopisma?",
+    "a": "Tak, w puszce L0002213 walczy z Rox w zwykłej postaci ninja."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Kaia z pojazdem daje puszka FunPack 951466 Kai with Motorcycle: 35 elementów, w tym motocykl bohatera. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002205": {
+  "seria": "Ninjago",
+  "nazwa": "Dragon Zane",
+  "elementy": 12,
+  "akapity": [
+   "Zane, ninja lodu, w smoczej formie: tak wygląda minifigurka z torebki L0002205. Komplet z linii Dragons Rising, dołączany do czasopisma Ninjago, ma 12 elementów, czyli o jeden więcej niż smocze wersje Nyi i Kaia."
+  ],
+  "metryka": {
+   "Numer": "L0002205",
+   "Nazwa": "Dragon Zane",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "12",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Zane w smoczej formie)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Którą wersję Zane’a zawiera dodatek?",
+    "a": "Smoczą formę ninja lodu."
+   },
+   {
+    "q": "Jakim żywiołem włada Zane?",
+    "a": "Lodem."
+   },
+   {
+    "q": "Co jest w torebce?",
+    "a": "Minifigurka Zane’a i elementy do niej, razem 12."
+   },
+   {
+    "q": "Czym różni się L0002205 od smoczej Nyi z L0002203?",
+    "a": "Postacią i liczbą elementów: Zane ma ich 12, Nya 11."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Smoczego Kaia i smoczą Nyę wydano w bliźniaczych dodatkach L0002204 i L0002203. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002212": {
+  "seria": "Ninjago",
+  "nazwa": "Zane-Mech",
+  "elementy": 99,
+  "akapity": [
+   "Mech Zane’a z linii Ninjago Dragons Rising to robot zbudowany z 99 elementów, który należy do ninja lodu. Zestaw L0002212 trafił do czytelników czasopisma Ninjago w papierowej torebce."
+  ],
+  "metryka": {
+   "Numer": "L0002212",
+   "Nazwa": "Zane-Mech",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "99",
+   "Wiek": "6+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Z jakiej linii Ninjago pochodzi mech?",
+    "a": "Z Dragons Rising."
+   },
+   {
+    "q": "Czy w zestawie jest minifigurka?",
+    "a": "Nie, mech jest figurą zbudowaną z klocków."
+   },
+   {
+    "q": "Ile elementów liczy mech?",
+    "a": "99."
+   },
+   {
+    "q": "Jakim żywiołem włada właściciel mecha?",
+    "a": "Lodem, bo mech należy do Zane’a."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Mecha, tym razem Lloyda, ma także puszka FunPack 951467 Lloyd with Mech z 45 elementów. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002213": {
+  "seria": "Ninjago",
+  "nazwa": "Kai vs. Rox",
+  "elementy": 13,
+  "akapity": [
+   "Kai staje do pojedynku z Rox w dodatku L0002213 do czasopisma Ninjago, nawiązującym do linii Dragons Rising. Dwie minifigurki i pozostałe elementy, razem 13, mieszczą się w metalowej puszce."
+  ],
+  "metryka": {
+   "Numer": "L0002213",
+   "Nazwa": "Kai vs. Rox",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "13",
+   "Minifigurki / postacie": "2 (Kai, Rox)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Kto jest przeciwnikiem Kaia?",
+    "a": "Rox."
+   },
+   {
+    "q": "Do jakiej linii Ninjago nawiązuje dodatek?",
+    "a": "Do Dragons Rising."
+   },
+   {
+    "q": "Ile minifigurek zawiera puszka?",
+    "a": "Dwie."
+   },
+   {
+    "q": "Jaki żywioł reprezentuje Kai?",
+    "a": "Ogień."
+   },
+   {
+    "q": "Jaki zestaw LEGO Ninjago warto kupić zamiast tego modelu?",
+    "a": "Podobny pojedynek w metalowej puszce, Lloyda z wojownikiem Dragonian, przynosi dodatek 112601 Lloyd vs. Dragonian Warrior. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002214": {
+  "seria": "Ninjago",
+  "nazwa": "Jay vs. Tentacle Monster",
+  "elementy": 25,
+  "akapity": [
+   "Jay mierzy się z potworem-mutantem z mackami w dodatku L0002214 do czasopisma Ninjago. Podobnie jak pojedynek Kaia z Rox w L0002213, trafił do czytelników w metalowej puszce; w środku są dwie minifigurki i łącznie 25 elementów."
+  ],
+  "metryka": {
+   "Numer": "L0002214",
+   "Nazwa": "Jay vs. Tentacle Monster",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "25",
+   "Minifigurki / postacie": "2 (Jay, potwór z mackami)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Z kim walczy Jay?",
+    "a": "Z potworem-mutantem, który ma macki."
+   },
+   {
+    "q": "Jak L0002214 trafiał do fanów?",
+    "a": "Jako dodatek do czasopisma LEGO Ninjago."
+   },
+   {
+    "q": "Do jakiej linii minifigurek należy Jay z tego dodatku?",
+    "a": "Do Legacy, w wersji ZX."
+   },
+   {
+    "q": "Ile minifigurek jest w zestawie?",
+    "a": "Dwie: Jay i potwór z mackami."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Pokrewne są dodatki z pojedynkami w puszkach, jak L0002213 Kai vs. Rox. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002215": {
+  "seria": "Ninjago",
+  "nazwa": "Nya and Grimfax",
+  "elementy": 9,
+  "akapity": [
+   "Nya w stroju Samuraja X i Grimfax tworzą parę postaci w dodatku L0002215 do czasopisma Ninjago. Na dwie minifigurki przypada tylko 9 elementów. Ta sama bohaterka pojawia się w smoczej formie w dodatku L0002203."
+  ],
+  "metryka": {
+   "Numer": "L0002215",
+   "Nazwa": "Nya and Grimfax",
+   "Seria": "Ninjago",
+   "Premiera": "2026",
+   "Liczba elementów": "9",
+   "Minifigurki / postacie": "2 (Nya jako Samuraj X, Grimfax)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Ninjago",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaki strój ma Nya?",
+    "a": "Strój Samuraja X."
+   },
+   {
+    "q": "Kto towarzyszy Nyi?",
+    "a": "Grimfax, druga minifigurka dodatku."
+   },
+   {
+    "q": "Jak trafiał do czytelników L0002215?",
+    "a": "Razem z czasopismem LEGO Ninjago, w papierowej torebce."
+   },
+   {
+    "q": "Ile elementów liczy dodatek?",
+    "a": "Dziewięć."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Nyę w smoczej formie wydano w osobnym dodatku L0002203. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "L0002224": {
+  "seria": "City",
+  "nazwa": "Firefighter and robot",
+  "elementy": 33,
+  "akapity": [
+   "Strażacka minifigurka, robot i samochód składają się na mały zestaw City L0002224 Firefighter and robot, wydany jako dodatek do czasopisma. Postać ma czarną kurtkę i spodnie z odblaskowymi pasami, czerwony kołnierz, neonowożółty kask lotniczy z przezroczystą osłoną oraz okulary. Całość liczy 33 elementy."
+  ],
+  "metryka": {
+   "Numer": "L0002224",
+   "Nazwa": "Firefighter and robot",
+   "Seria": "City",
+   "Premiera": "2026",
+   "Liczba elementów": "33",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (postać ze straży pożarnej)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO City",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jak zdobyć LEGO L0002224?",
+    "a": "Zestaw dołączano do czasopisma, poza zwykłą sprzedażą."
+   },
+   {
+    "q": "Czy ta minifigurka występuje w innych zestawach?",
+    "a": "Nie, ten wariant postaci ze straży pożarnej jest unikatowy."
+   },
+   {
+    "q": "Kto zaprojektował dodatek?",
+    "a": "Rik Pauwels."
+   },
+   {
+    "q": "Jakie wymiary ma torebka?",
+    "a": "12 na 17 cm przy grubości około 2 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Większe strażackie pojazdy i remizy mają w City osobne zestawy. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "L0002225": {
+  "seria": "City",
+  "nazwa": "Construction Worker with Roller",
+  "elementy": 34,
+  "akapity": [
+   "Dodatek do czasopisma L0002225 Construction Worker with Roller z linii City zaprojektował Rik Pauwels. Z 34 elementów powstają walec drogowy i minifigurka z placu budowy w czerwonopomarańczowej kurtce ochronnej z odblaskami, ciemnoszarych spodniach, czerwonym kasku i okularach ochronnych."
+  ],
+  "metryka": {
+   "Numer": "L0002225",
+   "Nazwa": "Construction Worker with Roller",
+   "Seria": "City",
+   "Premiera": "2026",
+   "Liczba elementów": "34",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (postać z placu budowy)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO City",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Co można zbudować z LEGO L0002225?",
+    "a": "Mały walec drogowy."
+   },
+   {
+    "q": "Z ilu elementów składa się dodatek?",
+    "a": "Z 34."
+   },
+   {
+    "q": "Czy figurka jest unikatowa?",
+    "a": "Tak, ten wariant z kaskiem i kurtką ochronną pojawił się tylko tutaj."
+   },
+   {
+    "q": "Jaki kask ma figurka?",
+    "a": "Czerwony kask budowlany; do tego okulary ochronne."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Najbliżej jest L0002224 Firefighter and robot, drugi dodatek City tego samego projektanta, Rika Pauwelsa. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "L0002246": {
+  "seria": "Minecraft",
+  "nazwa": "Hero, Stray and Snowbiome",
+  "elementy": 19,
+  "akapity": [
+   "Śnieżna tundra z pochodnią to sceneria dodatku do czasopisma L0002246 z serii Minecraft. W papierowej torebce jest 19 elementów, w tym dwie figurki, które mają tylko ten zestaw: Stray, szkieletowy mob z mroźnych biomów w jasnofioletowej zbroi, oraz Jungle Ranger w hełmie w tym samym kolorze."
+  ],
+  "metryka": {
+   "Numer": "L0002246",
+   "Nazwa": "Hero, Stray and Snowbiome",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "19",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Stray, Jungle Ranger)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Kim są figurki w LEGO L0002246?",
+    "a": "To Stray, odmiana szkieletu z mroźnych biomów, i Jungle Ranger."
+   },
+   {
+    "q": "Czy te figurki są w innych zestawach?",
+    "a": "Nie, w tych wersjach występują tylko w tym dodatku."
+   },
+   {
+    "q": "Jaki biom przedstawia zestaw?",
+    "a": "Śnieżną tundrę, oświetloną pochodnią."
+   },
+   {
+    "q": "Jakie kolory mają zbroja i hełm?",
+    "a": "Jasnofioletowe."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Pełny biom z domem w kształcie TNT, Steve’em, Creeperem i zombie daje 21275 Dom TNT w dżungli z 287 elementów. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002247": {
+  "seria": "Minecraft",
+  "nazwa": "Realm Raider with Creeper and TNT Launcher",
+  "elementy": 21,
+  "akapity": [
+   "Wyrzutnia TNT, Creeper i Realm Raider w perłowoszarej zbroi wypełniają dodatek do czasopisma L0002247. Ta propozycja z serii Minecraft ma 21 elementów i oznaczenie wieku 6+."
+  ],
+  "metryka": {
+   "Numer": "L0002247",
+   "Nazwa": "Realm Raider with Creeper and TNT Launcher",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "21",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Creeper, Realm Raider)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Kto jest w zestawie oprócz Creepera?",
+    "a": "Realm Raider."
+   },
+   {
+    "q": "Jaką broń zawiera LEGO L0002247?",
+    "a": "Wyrzutnię TNT."
+   },
+   {
+    "q": "Jak sprzedawano ten dodatek?",
+    "a": "Dołączano go do czasopisma Minecraft w papierowej torebce."
+   },
+   {
+    "q": "Jaki kolor ma zbroja Realm Raidera?",
+    "a": "Perłowoszary."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Creeper i TNT wracają w 21275 Dom TNT w dżungli, który jest także w pakiecie 66833. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002248": {
+  "seria": "Minecraft",
+  "nazwa": "Hero and Blaze",
+  "elementy": 23,
+  "akapity": [
+   "Mieszkaniec Netheru, Blaze na przezroczystej czarnej podstawce w kształcie stożka, mierzy się z postacią Hero w jasnofioletowej zbroi i hełmie. Dodatek do czasopisma L0002248 z serii Minecraft liczy 23 elementy."
+  ],
+  "metryka": {
+   "Numer": "L0002248",
+   "Nazwa": "Hero and Blaze",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "23",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Blaze, Hero)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Z jakiego wymiaru gry pochodzi Blaze?",
+    "a": "Z Netheru."
+   },
+   {
+    "q": "Na czym stoi figurka Blaze’a?",
+    "a": "Na przezroczystej czarnej podstawce w kształcie stożka."
+   },
+   {
+    "q": "Jakie barwy ma strój postaci Hero?",
+    "a": "Jasnofioletowe są hełm, zbroja i nogi."
+   },
+   {
+    "q": "W czym zapakowano dodatek?",
+    "a": "W papierową torebkę."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Rozbudowaną scenkę z pociskami wystrzeliwanymi palcem i czterema figurkami ma 21267 Pustynny patrol złosadników, liczący 105 elementów. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002249": {
+  "seria": "Minecraft",
+  "nazwa": "Hero with Illager",
+  "elementy": 9,
+  "akapity": [
+   "Dodatek do czasopisma L0002249 Hero with Illager z serii Minecraft zestawia dwie figurki: Ender Knighta w lazurowej zbroi i złosadnika obrońcę z szeroko otwartymi oczami. Komplet ma tylko 9 elementów, a wśród nich jest oko Endera."
+  ],
+  "metryka": {
+   "Numer": "L0002249",
+   "Nazwa": "Hero with Illager",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "9",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Ender Knight, złosadnik obrońca)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaki przedmiot z gry jest w zestawie?",
+    "a": "Oko Endera."
+   },
+   {
+    "q": "Jak zdobyć LEGO L0002249?",
+    "a": "Był dołączany do czasopisma o Minecrafcie."
+   },
+   {
+    "q": "Ile elementów ma dodatek?",
+    "a": "9, łącznie z dwiema figurkami."
+   },
+   {
+    "q": "Jakie kolory ma strój Ender Knighta?",
+    "a": "Lazurową zbroję i ciemnobeżowe spodnie."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Złosadników próbujących ukraść beczkę ze skarbem z pustynnej placówki ma 21267 Pustynny patrol złosadników. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002250": {
+  "seria": "Minecraft",
+  "nazwa": "Blacksmith with Armour and Smithing Table",
+  "elementy": 19,
+  "akapity": [
+   "Kowal Netherite Blacksmith, jedyna figurka dodatku do czasopisma L0002250, dostaje zbroję i stół kowalski. Na 19 elementów przypadają więc postać i dwa przedmioty z gry Minecraft, a figurka kowala występuje tylko w tym zestawie."
+  ],
+  "metryka": {
+   "Numer": "L0002250",
+   "Nazwa": "Blacksmith with Armour and Smithing Table",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "19",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Netherite Blacksmith)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jakie przedmioty z gry dostaje kowal?",
+    "a": "Zbroję i stół kowalski."
+   },
+   {
+    "q": "Czy figurkę kowala można znaleźć w innych zestawach?",
+    "a": "Nie, ma ją tylko ten dodatek."
+   },
+   {
+    "q": "W czym zapakowano LEGO L0002250?",
+    "a": "W papierową torebkę dołączaną do czasopisma."
+   },
+   {
+    "q": "Ile elementów liczy dodatek?",
+    "a": "19."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Najbliżej są inne dodatki do czasopism Minecraft z jedną lub dwiema figurkami i przedmiotem z gry. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002251": {
+  "seria": "Minecraft",
+  "nazwa": "Cactus Knight with Breeze",
+  "elementy": 26,
+  "akapity": [
+   "Kaktusowy rycerz staje do walki z Breeze, mobem z komnat prób, w dodatku do czasopisma L0002251 z serii Minecraft. W komplecie jest 26 elementów, a obie figurki występują wyłącznie w nim."
+  ],
+  "metryka": {
+   "Numer": "L0002251",
+   "Nazwa": "Cactus Knight with Breeze",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "26",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (kaktusowy rycerz, Breeze)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Gdzie w grze spotyka się Breeze?",
+    "a": "W komnatach prób."
+   },
+   {
+    "q": "Czy ta wersja kaktusowego rycerza jest unikatowa?",
+    "a": "Tak, ma ją tylko L0002251."
+   },
+   {
+    "q": "Jak trafiał do fanów?",
+    "a": "Jako dodatek do czasopisma Minecraft."
+   },
+   {
+    "q": "Do jakiej grupy produktów należy?",
+    "a": "Do dodatków do czasopism z serii Minecraft."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Kaktusowy rycerz w diamentowej zbroi broni pustynnej placówki w zestawie 21267 Pustynny patrol złosadników. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002252": {
+  "seria": "Minecraft",
+  "nazwa": "Space Sentinel with Enderman and Endermite",
+  "elementy": 24,
+  "akapity": [
+   "Kres, czyli wymiar End, jest tłem limitowanej puszki L0002252 z serii Minecraft. W środku są minifigurki Space Sentinela w jasnoszarych spodniach i Endermana, a także Endermite; razem 24 elementy. Wydłużona metalowa puszka ma 6,5 × 20 × 2,5 cm."
+  ],
+  "metryka": {
+   "Numer": "L0002252",
+   "Nazwa": "Space Sentinel with Enderman and Endermite",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "24",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Space Sentinel, Enderman) oraz Endermite",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, limitowana metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Czym wyróżnia się opakowanie LEGO L0002252?",
+    "a": "To wydłużona metalowa puszka 6,5 × 20 × 2,5 cm."
+   },
+   {
+    "q": "Z jakiego wymiaru gry pochodzą Enderman i Endermite?",
+    "a": "Z Kresu (End)."
+   },
+   {
+    "q": "Czy zestaw jest edycją limitowaną?",
+    "a": "Tak, puszkę wydano jako edycję limitowaną."
+   },
+   {
+    "q": "Jak wygląda Space Sentinel?",
+    "a": "Ma jasnoszare spodnie."
+   },
+   {
+    "q": "Jaki zestaw LEGO Minecraft warto kupić zamiast tego modelu?",
+    "a": "Pakiet 66833 Adventure Worlds Gift Set łączy dwa pudełka Minecraft i 7 figurek, w tym Creepera i Steve’a. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002260": {
+  "seria": "Minecraft",
+  "nazwa": "Magma Cube",
+  "elementy": 39,
+  "akapity": [
+   "W dodatku do czasopisma L0002260 z serii Minecraft kostka magmy, mob z Netheru, nie jest minifigurką, lecz figurką zbudowaną z 39 elementów. Z tego samego wymiaru gry pochodzi Blaze z dodatku L0002248."
+  ],
+  "metryka": {
+   "Numer": "L0002260",
+   "Nazwa": "Magma Cube",
+   "Seria": "Minecraft",
+   "Premiera": "2026",
+   "Liczba elementów": "39",
+   "Wiek": "6+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Minecraft",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Co przedstawia LEGO L0002260?",
+    "a": "Kostkę magmy, moba z gry Minecraft."
+   },
+   {
+    "q": "Czy Magma Cube jest minifigurką?",
+    "a": "Nie, to figurka zbudowana z klocków."
+   },
+   {
+    "q": "Skąd pochodzi Magma Cube?",
+    "a": "Z Netheru."
+   },
+   {
+    "q": "Do jakiej serii dodatków należy?",
+    "a": "Do dodatków do czasopism Minecraft."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Inny mob z Netheru, Blaze, jest w dodatku L0002248 Hero and Blaze. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "L0002265": {
+  "seria": "Friends",
+  "nazwa": "Nugget at Veterinary Station",
+  "elementy": 24,
+  "akapity": [
+   "Dodatek do czasopisma L0002265 Nugget at Veterinary Station przenosi kota Nugget z serii Friends do punktu weterynaryjnego. Zestaw ma 24 elementy, a wydano go w papierowej torebce."
+  ],
+  "metryka": {
+   "Numer": "L0002265",
+   "Nazwa": "Nugget at Veterinary Station",
+   "Seria": "Friends",
+   "Premiera": "2026",
+   "Liczba elementów": "24",
+   "Minifigurki / postacie": "kot Nugget",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Friends",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Kim jest Nugget?",
+    "a": "Kotem z serii Friends."
+   },
+   {
+    "q": "Ile klocków zawiera torebka?",
+    "a": "24."
+   },
+   {
+    "q": "Do jakiej kolekcji należy dodatek?",
+    "a": "Do dodatków do czasopism Friends."
+   },
+   {
+    "q": "Jakie miejsce odwiedza Nugget?",
+    "a": "Punkt weterynaryjny."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Opiekę weterynaryjną ma też puszka 951446 Valeria with Puppy z psem Airą. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "L0002276": {
+  "seria": "Marvel",
+  "nazwa": "Black Panther",
+  "elementy": 23,
+  "akapity": [
+   "Black Panther w ciemnoszarej zbroi to jedyna minifigurka dodatku do czasopisma L0002276 z serii Marvel. Zestaw z 23 elementów zawiera też mały poduszkowiec, a jego motywy nawiązują do Wakandy i vibranium."
+  ],
+  "metryka": {
+   "Numer": "L0002276",
+   "Nazwa": "Black Panther",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "23",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Black Panther)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaką postać zawiera LEGO L0002276?",
+    "a": "Black Panthera w ciemnoszarej zbroi."
+   },
+   {
+    "q": "Dla jakiego wieku przeznaczono dodatek?",
+    "a": "Oznaczenie to 6+."
+   },
+   {
+    "q": "Jaki pojazd jest w zestawie?",
+    "a": "Mały poduszkowiec."
+   },
+   {
+    "q": "Do czego nawiązują motywy zestawu?",
+    "a": "Do Wakandy, ojczyzny Black Panthera, i vibranium."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Większe zestawy z Black Pantherem i Wakandą znajdują się w kategorii Marvel. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002277": {
+  "seria": "Marvel",
+  "nazwa": "Iron Man",
+  "elementy": 22,
+  "akapity": [
+   "Prostokątna metalowa puszka 9 × 12,5 × 2,2 cm zawiera dodatek do czasopisma L0002277 z serii Marvel: 22 elementy i minifigurkę Iron Mana w zbroi Mark 85, tej z filmu „Avengers: Koniec gry”."
+  ],
+  "metryka": {
+   "Numer": "L0002277",
+   "Nazwa": "Iron Man",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "22",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Iron Man w zbroi Mark 85)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Którą zbroję Iron Mana odtwarza minifigurka?",
+    "a": "Mark 85 z filmu „Avengers: Koniec gry”."
+   },
+   {
+    "q": "W czym jest zapakowany LEGO L0002277?",
+    "a": "W prostokątnej metalowej puszce."
+   },
+   {
+    "q": "Jak trafiał do kupujących?",
+    "a": "Ukazał się jako dodatek do czasopisma z serii Marvel."
+   },
+   {
+    "q": "Czy to edycja limitowana?",
+    "a": "Tak, puszkę wydano jako limitowaną edycję dodatku."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Najbliżej są inne minifigurki z puszek dołączanych do czasopism Marvel, a pełne modele z Iron Manem zbiera kategoria serii. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002278": {
+  "seria": "Marvel",
+  "nazwa": "Hulk vs. Red Hulk",
+  "elementy": 8,
+  "akapity": [
+   "Komiksowy pojedynek zielonego Hulka z Red Hulkiem, czyli Thaddeusem Rossem, to motyw dodatku do czasopisma L0002278 z serii Marvel. Zestaw ma 8 elementów, w tym dwie minifigurki, a całość zapakowano w metalową puszkę 12,5 × 9 × 2,2 cm. Hulk ma ciemnofioletowe spodnie i nastroszone włosy."
+  ],
+  "metryka": {
+   "Numer": "L0002278",
+   "Nazwa": "Hulk vs. Red Hulk",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "8",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 (Hulk, Red Hulk)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Kim jest Red Hulk?",
+    "a": "To Thaddeus Ross, komiksowy przeciwnik Hulka."
+   },
+   {
+    "q": "Czym wyróżnia się minifigurka Hulka?",
+    "a": "Ciemnofioletowymi spodniami i nastroszonymi włosami."
+   },
+   {
+    "q": "Czym różnią się kolory obu Hulków?",
+    "a": "Jeden jest zielony, drugi czerwony."
+   },
+   {
+    "q": "Ile elementów liczy komplet?",
+    "a": "8, razem z obiema minifigurkami."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Puszki z tej samej serii dodatków mają też Iron Mana (L0002277) i Spider-Mana (L0002285). <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002282": {
+  "seria": "Marvel",
+  "nazwa": "Venom with Mech",
+  "elementy": 32,
+  "akapity": [
+   "Venom with Mech (L0002282) to dodatek do czasopisma z serii Marvel, nawiązujący do komiksowego Venoma, czyli Eddiego Brocka. Główny model to mech, a cały komplet liczy 32 elementy."
+  ],
+  "metryka": {
+   "Numer": "L0002282",
+   "Nazwa": "Venom with Mech",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "32",
+   "Wiek": "6+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Co jest głównym modelem LEGO L0002282?",
+    "a": "Mech, a cały komplet ma 32 elementy."
+   },
+   {
+    "q": "Do której wersji Venoma nawiązuje zestaw?",
+    "a": "Do komiksowej, w której symbionta nosi Eddie Brock."
+   },
+   {
+    "q": "Dla jakiego wieku przeznaczono zestaw?",
+    "a": "Dla dzieci od 6 lat."
+   },
+   {
+    "q": "Czym różni się od dodatku L0002284?",
+    "a": "L0002284 to sam Anti-Venom z 10 elementów, bez mecha."
+   },
+   {
+    "q": "Jaki zestaw LEGO Marvel warto kupić zamiast tego modelu?",
+    "a": "Spider-Mana w mechu z otwieranym kokpitem i Anti-Venoma ma 76308 Mech Spider-Mana kontra Anti-Venom, liczący 107 elementów. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002283": {
+  "seria": "Marvel",
+  "nazwa": "Spider-Man with Spider-Crawler",
+  "elementy": 24,
+  "akapity": [
+   "W dodatku do czasopisma L0002283 Spider-Man dostaje kroczący pojazd Spider-Crawler. Komplet z serii Marvel ma 24 elementy, a minifigurka przedstawia komiksowego Spider-Mana z nadrukowanymi niebieskimi rękawami i gładkimi nogami."
+  ],
+  "metryka": {
+   "Numer": "L0002283",
+   "Nazwa": "Spider-Man with Spider-Crawler",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "24",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Spider-Man)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Czym jest Spider-Crawler?",
+    "a": "Kroczącym pojazdem Spider-Mana, zbudowanym jako mech na nogach."
+   },
+   {
+    "q": "Jak wygląda minifigurka?",
+    "a": "To komiksowy Spider-Man z nadrukowanymi niebieskimi rękawami i gładkimi nogami."
+   },
+   {
+    "q": "Czy to filmowa wersja Spider-Mana?",
+    "a": "Nie, minifigurka przedstawia komiksowego Spider-Mana."
+   },
+   {
+    "q": "Z ilu klocków składa się komplet?",
+    "a": "Z 24."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Inny kostium Spider-Mana pokazuje dodatek L0002285 Spider-Man w metalowej puszce. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002284": {
+  "seria": "Marvel",
+  "nazwa": "Anti-Venom",
+  "elementy": 10,
+  "akapity": [
+   "Anti-Venom, symbiont z komiksów o Spider-Manie, to jedyna minifigurka dodatku do czasopisma L0002284. Figurka ma dodatkowe wypustki, a z 10 elementów powstaje model o wymiarach 12 × 15 × 2 cm."
+  ],
+  "metryka": {
+   "Numer": "L0002284",
+   "Nazwa": "Anti-Venom",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "10",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Anti-Venom)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Czy minifigurka Anti-Venoma występuje w innych zestawach?",
+    "a": "Nie, w tej wersji jest tylko w L0002284."
+   },
+   {
+    "q": "Jak duży jest model?",
+    "a": "Ma 12 × 15 × 2 cm."
+   },
+   {
+    "q": "Z jakich komiksów pochodzi postać?",
+    "a": "Z historii o Spider-Manie, w których Anti-Venom jest symbiontem."
+   },
+   {
+    "q": "Ile elementów zawiera dodatek?",
+    "a": "10."
+   },
+   {
+    "q": "Jaki zestaw LEGO Marvel warto kupić zamiast tego modelu?",
+    "a": "Anti-Venom walczy ze Spider-Manem w mechu o ruchomych rękach, nogach i palcach w zestawie 76308 Mech Spider-Mana kontra Anti-Venom, który ma 107 elementów. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002285": {
+  "seria": "Marvel",
+  "nazwa": "Spider-Man",
+  "elementy": 7,
+  "akapity": [
+   "Dodatek do czasopisma L0002285 Spider-Man to minifigurka Spider-Mana w kostiumie z filmów Marvel Studios, z ciemnoniebieskimi rękawami i czerwonymi butami. Zestaw z serii Marvel liczy 7 elementów i ukazał się w prostokątnej metalowej puszce 9 × 12,5 × 2,3 cm."
+  ],
+  "metryka": {
+   "Numer": "L0002285",
+   "Nazwa": "Spider-Man",
+   "Seria": "Marvel",
+   "Premiera": "2026",
+   "Liczba elementów": "7",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 (Spider-Man)",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "dodatki do czasopism LEGO Marvel",
+   "Dystrybucja": "dodatek do czasopisma, metalowa puszka"
+  },
+  "faq": [
+   {
+    "q": "Z jakich filmów pochodzi kostium?",
+    "a": "Z filmów o Spider-Manie w Kinowym Uniwersum Marvela."
+   },
+   {
+    "q": "Ile waży puszka z zestawem?",
+    "a": "Około 60 g."
+   },
+   {
+    "q": "Czy dodatek wydano w limitowanej edycji?",
+    "a": "Tak, metalowa puszka ze Spider-Manem jest edycją limitowaną."
+   },
+   {
+    "q": "Jaki wiek podano dla zestawu?",
+    "a": "6+."
+   },
+   {
+    "q": "Jaki zestaw LEGO Marvel warto kupić zamiast tego modelu?",
+    "a": "Mech, którego tułów otwiera się, odsłaniając kokpit dla Spider-Mana, razem z przeciwnikiem Anti-Venomem pokazuje zestaw 76308 Mech Spider-Mana kontra Anti-Venom. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "L0002290": {
+  "seria": "Technic",
+  "nazwa": "Research Submarine",
+  "elementy": 70,
+  "akapity": [
+   "Badawcza łódź podwodna w mikroskali, z rybą do towarzystwa, pochodzi z czasopisma LEGO Technic i nosi numer L0002290. Model z 70 elementów zaprojektował Daniele Fusco, autor także samochodu L0002291 i motocykla L0002292 z tej samej serii dodatków."
+  ],
+  "metryka": {
+   "Numer": "L0002290",
+   "Nazwa": "Research Submarine",
+   "Seria": "Technic",
+   "Premiera": "2026",
+   "Liczba elementów": "70",
+   "Wiek": "7+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Technic",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaki pojazd przedstawia L0002290?",
+    "a": "Badawczą łódź podwodną w mikroskali."
+   },
+   {
+    "q": "Kto zaprojektował łódź?",
+    "a": "Daniele Fusco."
+   },
+   {
+    "q": "Jak duża jest torebka z dodatkiem?",
+    "a": "Papierowa torebka ma około 12 na 17 cm i 3 cm grubości."
+   },
+   {
+    "q": "Co oprócz łodzi jest w zestawie?",
+    "a": "Ryba."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Pokrewne są pozostałe pojazdy w mikroskali z czasopisma LEGO Technic, na przykład wywrotka L0002294. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "L0002291": {
+  "seria": "Technic",
+  "nazwa": "Super Sports Car",
+  "elementy": 79,
+  "akapity": [
+   "Super Sports Car (L0002291) to supersamochód LEGO Technic w małej skali, dodany do czasopisma dla fanów serii. Z 79 elementów powstaje auto o długości 12,7 cm, szerokości 4,2 cm i wysokości 6,3 cm."
+  ],
+  "metryka": {
+   "Numer": "L0002291",
+   "Nazwa": "Super Sports Car",
+   "Seria": "Technic",
+   "Premiera": "2026",
+   "Liczba elementów": "79",
+   "Wiek": "7+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Technic",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jakie wymiary ma gotowe auto?",
+    "a": "12,7 cm długości, 4,2 cm szerokości i 6,3 cm wysokości."
+   },
+   {
+    "q": "Jak można było zdobyć L0002291?",
+    "a": "Kupując czasopismo LEGO Technic z tym dodatkiem."
+   },
+   {
+    "q": "Kto jest autorem projektu?",
+    "a": "Daniele Fusco, ten sam projektant co przy łodzi L0002290."
+   },
+   {
+    "q": "W jakiej skali jest auto?",
+    "a": "W mikroskali."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Najbliżej jest gokart L0002293, także auto z tej grupy dodatków. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "L0002292": {
+  "seria": "Technic",
+  "nazwa": "Motorcycle",
+  "elementy": 68,
+  "akapity": [
+   "Motocykl L0002292 z czasopisma LEGO Technic ma działający układ kierowniczy. Składa się z 68 elementów i podobnie jak łódź badawcza L0002290 wyszedł spod ręki Daniele Fusco."
+  ],
+  "metryka": {
+   "Numer": "L0002292",
+   "Nazwa": "Motorcycle",
+   "Seria": "Technic",
+   "Premiera": "2026",
+   "Liczba elementów": "68",
+   "Wiek": "7+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Technic",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Czy motocykl ma jakąś funkcję?",
+    "a": "Tak, działający układ kierowniczy."
+   },
+   {
+    "q": "Kto zaprojektował motocykl?",
+    "a": "Daniele Fusco."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma motocykl?",
+    "a": "7+."
+   },
+   {
+    "q": "W czym wydano motocykl?",
+    "a": "W papierowej torebce o wymiarach około 14 na 15 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Najbliżej jest wywrotka L0002294 z tej samej grupy dodatków do czasopisma. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "L0002293": {
+  "seria": "Technic",
+  "nazwa": "Go-Kart",
+  "elementy": 67,
+  "akapity": [
+   "Wyścigowy gokart złożony z 67 elementów to dodatek L0002293 do czasopisma LEGO Technic. Należy do tej samej grupy dodatków Technic co motocykl L0002292, wywrotka L0002294 i supersamochód L0002291."
+  ],
+  "metryka": {
+   "Numer": "L0002293",
+   "Nazwa": "Go-Kart",
+   "Seria": "Technic",
+   "Premiera": "2026",
+   "Liczba elementów": "67",
+   "Wiek": "7+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Technic",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaki pojazd buduje się z L0002293?",
+    "a": "Gokart wyścigowy."
+   },
+   {
+    "q": "Ile waży dodatek?",
+    "a": "Około 50 g razem z torebką."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma gokart?",
+    "a": "7+."
+   },
+   {
+    "q": "Do jakiej serii należy dodatek?",
+    "a": "Do LEGO Technic, razem z motocyklem L0002292 i wywrotką L0002294."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Pokrewny jest supersamochód L0002291, także auto z czasopisma LEGO Technic. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "L0002294": {
+  "seria": "Technic",
+  "nazwa": "Dump Truck",
+  "elementy": 76,
+  "akapity": [
+   "Wywrotka w mikroskali, złożona z 76 elementów, to kolejny dodatek do czasopisma LEGO Technic. Zestaw L0002294 zapakowano w papierową torebkę o wymiarach 14 na 15 cm."
+  ],
+  "metryka": {
+   "Numer": "L0002294",
+   "Nazwa": "Dump Truck",
+   "Seria": "Technic",
+   "Premiera": "2026",
+   "Liczba elementów": "76",
+   "Wiek": "7+",
+   "Sposób uzyskania": "dodatek do czasopisma",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "dodatki do czasopism LEGO Technic",
+   "Dystrybucja": "dodatek do czasopisma, papierowa torebka"
+  },
+  "faq": [
+   {
+    "q": "Jaki pojazd przedstawia L0002294?",
+    "a": "Wywrotkę."
+   },
+   {
+    "q": "Do jakiej grupy dodatków należy wywrotka?",
+    "a": "Do dodatków LEGO Technic z małymi pojazdami, obok gokarta L0002293 i motocykla L0002292."
+   },
+   {
+    "q": "Ile klocków ma model?",
+    "a": "76."
+   },
+   {
+    "q": "W jakiej skali zbudowano wywrotkę?",
+    "a": "W mikroskali."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Pokrewna, choć już wycofana, jest wywrotka 42147 ze sprzedaży detalicznej: 177 elementów, ten sam wiek 7+ i przebudowa w koparkę. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
    }
   ]
  }
