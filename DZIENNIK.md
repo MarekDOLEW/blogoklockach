@@ -154,6 +154,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Tabele w artykułach = huby; 4 ceny x-kom
+
+- Marek: „tabele w artykułach powinny brać te same rzeczy i tak samo często co huby”. Nowy `src/lib/sito-ofert.js` (bez importu danych) — jedno źródło reguł dla `src/lib/oferty.js` i `scripts/remark-ceny.mjs`: data per sklep, 14 dni / `wazne_do`, podejrzany rynek, LEGO wyprzedane i EOL (z nadpisaniem przez listing), sklepy wyłączone, plakietka kodu; wiersz LEGO.com po EOL z linkiem do karty jak na hubie. Kontrola na buildzie: 125 tabel w artykułach, 125 zgodnych z hubem (sklepy i ceny). Częstotliwość: obie tabele powstają przy każdym buildzie (po każdym pushu runnera).
+- Ceny x-kom sprawdzone na kartach (`weryfikacja-ofert.mjs --zestawy`, nowa opcja): 10967 46,90, 43285 74,90, 76336 74,90, 43303 46,90 zł (były 19,99/49,99 ze zrzutu 03.11); przy okazji 10967 Empik 28,00, 43285 Empik 71,99 i MediaMarkt 82,15 zł.
+
 ## 2026-11-06 · Code · Audyt: punkty 5, 7, 8
 
 - **5 Black Weeks** (`1854a9d3`): tyg. 1–2 z `wazne_do` (baner „Akcja zakończona”), tyg. 3 z „Aktualizacją 6 listopada” — kod black-weeks3 nie obejmuje już 8 z 13 zestawów (76454 809,90 zł bez kodu; 42175 niedostępny); `kody_rabatowe.json` zawęża `zestawy` do 5 działających. Huby bez linków do zakończonych akcji: 50 → 0 (`src/lib/artykuly-setow.js`). Otwarte: tabele w artykułach (`remark-ceny.mjs`) nie mają sita `podejrzanyRynek`/14 dni; ceny x-kom 10967, 43285, 76336, 43303 nieaktualne do zrzutu 09.11.

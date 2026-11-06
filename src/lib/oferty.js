@@ -16,6 +16,16 @@ import legoBezStrony from '../data/lego_strony_brak.json';
 import setyDane from '../data/sety.json';
 import dealePotwierdzone from '../data/deale_potwierdzone.json';
 import kodyRabatowe from '../data/kody_rabatowe.json';
+import {
+  MAX_WIEK_OFERTY_DNI as MAX_WIEK,
+  PROG_PODEJRZANEGO_RYNKU as PROG_PR,
+  SKLEPY_WYLACZONE as WYLACZONE,
+  ofertaAktualna as aktualnaZ,
+  powodPodejrzanegoRynku,
+  suroweZFeedu,
+  najtanszaPerSklep,
+  kodRabatowyZ,
+} from './sito-ofert.js';
 
 // ── Które oferty w ogóle pokazujemy (audyt 16.09.2026) ─────────────────────
 //
@@ -32,8 +42,8 @@ import kodyRabatowe from '../data/kody_rabatowe.json';
 //    potwierdzenie w src/data/deale_potwierdzone.json (człowiek otworzył kartę
 //    sklepu); do tego czasu jej nie ma. 16.09: 60339, 10423, 76156 — prawdziwe
 //    wyprzedaże, potwierdzone przez Marka, stąd ten plik.
-export const MAX_WIEK_OFERTY_DNI = 14;
-export const PROG_PODEJRZANEGO_RYNKU = 0.5;
+export const MAX_WIEK_OFERTY_DNI = MAX_WIEK;
+export const PROG_PODEJRZANEGO_RYNKU = PROG_PR;
 const DZIS_MS = Date.now();
 
 /**
@@ -44,23 +54,12 @@ const DZIS_MS = Date.now();
  * do tego dnia sito 14 dni jej nie zdejmuje (akcja x-kom 28.09–18.10 trwa 3 tygodnie).
  */
 export function ofertaAktualna(o) {
-  if (o?.wazne_do) {
-    const koniec = Date.parse(o.wazne_do);
-    if (!Number.isNaN(koniec)) return DZIS_MS <= koniec + 864e5;
-  }
-  if (!o?.data) return true;
-  const ms = Date.parse(o.data);
-  return Number.isNaN(ms) || (DZIS_MS - ms) / 864e5 <= MAX_WIEK_OFERTY_DNI;
+  return aktualnaZ(o, DZIS_MS);
 }
 
 /** Powód, dla którego oferta jest „podejrzanym rynkiem", albo null. */
 export function podejrzanyRynek(o, nr) {
-  const klucz = String(nr ?? '');
-  const rrp = rrpPotwierdzone[klucz]?.cena;
-  if (!rrp || !(o?.cena > 0) || o.cena >= PROG_PODEJRZANEGO_RYNKU * rrp) return null;
-  const p = dealePotwierdzone.potwierdzone?.[klucz];
-  if (p && o.cena >= p.cena - 0.01) return null;
-  return `${Math.round(100 * (1 - o.cena / rrp))}% poniżej potwierdzonej ceny katalogowej (${rrp} zł) bez potwierdzenia w deale_potwierdzone.json`;
+  return powodPodejrzanegoRynku(o, nr, { rrpPotwierdzone, dealePotwierdzone });
 }
 
 /**
@@ -84,7 +83,7 @@ export const ofertaKupowalna = (o, nr) => !(o?.sklep === 'lego' && wyprzedaneWLe
  * decyzja Marka 06.11.2026 (D1): usunąć od razu. Dane w sety.json i feedzie
  * zostają (append-only); sklep znika tylko z tego, co pokazujemy.
  */
-export const SKLEPY_WYLACZONE = new Set(['ceneo']);
+export const SKLEPY_WYLACZONE = WYLACZONE;
 
 /** Oferty do pokazania: świeże, niepodejrzane, możliwe do kupienia i ze sklepu,
  *  którego nie wyłączyliśmy. Jedyne sito dla sety.json i feedu. */
@@ -121,21 +120,7 @@ const katalogowaDoOdsiewu = (nr) => cenaKatalogowaSetu(nr, { sety: setyDane });
  * tylko reguła A odsiewu, więc wszystkie wywołania w serwisie go podają.
  */
 export function ofertyZFeedu(wpisFeedu, nr = null) {
-  if (!wpisFeedu) return [];
-  const { data } = wpisFeedu;
-  // Data per sklep (`daty: {lego: '2026-09-15'}`), gdy sklep odświeża się w innym
-  // rytmie niż reszta feedu (LEGO.com co tydzień z listingu lego.pl, reszta
-  // codziennie od Łowcy); bez wpisu w `daty` obowiązuje wspólna `data`.
-  const daty = wpisFeedu.daty && typeof wpisFeedu.daty === 'object' ? wpisFeedu.daty : {};
-  const surowe =
-    wpisFeedu.oferty && typeof wpisFeedu.oferty === 'object'
-      ? Object.entries(wpisFeedu.oferty)
-          .filter(([, cena]) => typeof cena === 'number' && cena > 0)
-          .map(([sklep, cena]) => ({ sklep, cena, data: daty[sklep] ?? data }))
-      : wpisFeedu.cena
-        ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }]
-        : [];
-  return odsiej(surowe, katalogowaDoOdsiewu(nr));
+  return odsiej(suroweZFeedu(wpisFeedu), katalogowaDoOdsiewu(nr));
 }
 
 /**
@@ -143,12 +128,7 @@ export function ofertyZFeedu(wpisFeedu, nr = null) {
  * jeden wiersz na sklep – przy dublu wygrywa niższa cena (jak w najlepszaOferta).
  */
 export function polaczOferty(ofertySetu = [], wpisFeedu = null, nr = null) {
-  const perSklep = new Map();
-  for (const o of filtrujOferty([...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)], nr)) {
-    const stara = perSklep.get(o.sklep);
-    if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
-  }
-  return [...perSklep.values()];
+  return najtanszaPerSklep(filtrujOferty([...ofertySetu, ...ofertyZFeedu(wpisFeedu, nr)], nr));
 }
 
 /**
@@ -293,13 +273,7 @@ export const nazwaSklepu = (sklep) => sklepyMapa?.[sklep]?.nazwa ?? sklep;
  * u nas 999 zł, a w sklepie 1177,90 zł i nie wie, skąd różnica.
  */
 export function kodRabatowy(sklep, nr, cena) {
-  const dzis = new Date().toISOString().slice(0, 10);
-  for (const k of kodyRabatowe[sklep] ?? []) {
-    if (k.do < dzis) continue;
-    const zKodem = k.zestawy?.[String(nr)];
-    if (zKodem != null && (cena == null || Math.abs(Number(cena) - zKodem) <= 1)) return { kod: k.kod, do: k.do, koniecZnany: k.koniec_znany !== false };
-  }
-  return null;
+  return kodRabatowyZ(kodyRabatowe, sklep, nr, cena);
 }
 /** „2026-10-31" -> „31.10" */
 export const dataKodu = (iso) => iso.slice(8, 10) + '.' + iso.slice(5, 7);

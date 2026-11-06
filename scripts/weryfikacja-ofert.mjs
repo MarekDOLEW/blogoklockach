@@ -32,6 +32,9 @@ const opcja = (n, d) => { const i = args.indexOf(`--${n}`); return i >= 0 ? args
 // Pełny limit 40 kart; domyślny zależy od daty (budzet-firecrawla.mjs, decyzja 06.11.2026).
 const LIMIT = Number(opcja('limit', limitDomyslny(40)));
 const SUCHO = args.includes('--sucho');
+// --zestawy 10967,43303: sprawdź tylko te zestawy, wszystkie ich oferty sklepów tygodniowych,
+// bez progu rabatu i sita „podejrzany rynek” (ręczna kontrola konkretnych cen, 06.11.2026)
+const TYLKO = opcja('zestawy', null)?.split(',').map((x) => x.trim()).filter(Boolean) ?? null;
 
 const sciezka = (p) => new URL(`../src/data/${p}`, import.meta.url);
 const czytajSurowo = (p) => readFileSync(sciezka(p), 'utf8');
@@ -59,6 +62,11 @@ const niePodejrzana = (nr, o, rrp) => o.cena >= 0.5 * rrp || (potwierdzone[nr] &
 const kandydaci = [];
 for (const [nr, s] of Object.entries(sety)) {
   const rrp = s.cena_katalogowa;
+  if (TYLKO) {
+    if (!TYLKO.includes(nr) || !Array.isArray(s.oferty)) continue;
+    for (const o of s.oferty) if (o?.cena > 0 && !CODZIENNE.has(o.sklep) && o.sklep !== 'lego') kandydaci.push({ nr, sklep: o.sklep, cena: o.cena, rabat: rrp ? Math.round((1 - o.cena / rrp) * 100) : 0, polka: Math.max(0, POLKI.findIndex((p) => p(o.cena))) });
+    continue;
+  }
   if (!rrp || !Array.isArray(s.oferty)) continue;
   const oferty = s.oferty.filter((o) => o?.cena > 0 && swieza(o) && niePodejrzana(nr, o, rrp));
   const codzienna = Math.min(...oferty.filter((o) => CODZIENNE.has(o.sklep)).map((o) => o.cena), Infinity);

@@ -3,12 +3,12 @@
   "opis": "Wyniki sprawdzenia kart produktów (scripts/weryfikacja-ofert.mjs, Firecrawl 1 kredyt na kartę) dla ofert sklepów z cenami tygodniowymi (Empik, x-kom, Ceneo, LEGO.com, Smyk, Lidl, MediaMarkt). Klucz „<numer>|<sklep>”, wpis nadpisywany przy każdym sprawdzeniu — klucze się nie kasują. Czyta src/lib/weryfikacja.js: do slajderów i „Dziś w dobrej cenie” wchodzi oferta takiego sklepu tylko ze statusem ok/zmiana, sprawdzona dziś albo wczoraj, z tą samą ceną. Decyzja Marka 26.10.2026.",
   "statusy": "ok = cena na karcie jak w danych (±1%); zmiana = inna cena na karcie, dane poprawione na nią; niedostepne = karta mówi, że brak w magazynie; nieodczytane = karta bez ceny albo błąd pobrania; brak_linku = nie znamy adresu karty",
   "ostatni_przebieg": {
-   "czas": "2026-11-06 08:17",
-   "sprawdzono": 15,
-   "kredyty": 17,
+   "czas": "2026-11-06 13:15",
+   "sprawdzono": 12,
+   "kredyty": 15,
    "wyniki": {
-    "ok": 14,
-    "nieodczytane": 1
+    "zmiana": 7,
+    "ok": 5
    }
   }
  },
@@ -793,6 +793,97 @@
    "czas": "2026-11-06 08:17",
    "status": "ok",
    "cena_strony": 236
+  },
+  "43303|xkom": {
+   "cena": 46.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 19.99,
+   "cena_strony": 46.9
+  },
+  "10967|xkom": {
+   "cena": 46.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 19.99,
+   "cena_strony": 46.9
+  },
+  "43285|xkom": {
+   "cena": 74.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 49.99,
+   "cena_strony": 74.9
+  },
+  "76336|xkom": {
+   "cena": 74.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 49.99,
+   "cena_strony": 74.9
+  },
+  "43303|empik": {
+   "cena": 28.94,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "ok",
+   "cena_strony": 28.94
+  },
+  "76336|smyk": {
+   "cena": 58.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "ok",
+   "cena_strony": 58.9
+  },
+  "76336|lidl": {
+   "cena": 59.9,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "ok",
+   "cena_strony": 59.9
+  },
+  "10967|empik": {
+   "cena": 28,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 30.26,
+   "cena_strony": 28
+  },
+  "76336|empik": {
+   "cena": 64.99,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "ok",
+   "cena_strony": 64.99
+  },
+  "43285|empik": {
+   "cena": 71.99,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 66.21,
+   "cena_strony": 71.99
+  },
+  "43303|smyk": {
+   "cena": 34.99,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "ok",
+   "cena_strony": 34.99
+  },
+  "43285|mediamarkt": {
+   "cena": 82.15,
+   "sprawdzono": "2026-11-06",
+   "czas": "2026-11-06 13:15",
+   "status": "zmiana",
+   "cena_danych": 69.99,
+   "cena_strony": 82.15
   }
  }
 }
