@@ -90,6 +90,13 @@
    "koniec_znany": true,
    "zrodlo": "mailing x-kom (SalesMasters) 02.11.2026 + wszystkie 13 kart sprawdzone Firecrawlem 02.11 przed południem",
    "zestawy": {
+    "42649": 79.99,
+    "43291": 99.99,
+    "72152": 599,
+    "75443": 49.99,
+    "77051": 89.99
+   },
+   "zestawy_z_listy": {
     "10967": 19.99,
     "42175": 599,
     "42649": 79.99,
@@ -103,7 +110,46 @@
     "76454": 699,
     "76923": 69.99,
     "77051": 89.99
-   }
+   },
+   "bez_kodu": {
+    "10967": {
+     "cena": 46.9,
+     "sprawdzono": "2026-11-06"
+    },
+    "42175": {
+     "cena": 652.9,
+     "sprawdzono": "2026-11-06",
+     "uwagi": "chwilowo niedostępny; w zrzucie 03.11 już brak"
+    },
+    "43285": {
+     "cena": 74.9,
+     "sprawdzono": "2026-11-06"
+    },
+    "43303": {
+     "cena": 46.9,
+     "sprawdzono": "2026-11-06"
+    },
+    "60491": {
+     "cena": 73.9,
+     "sprawdzono": "2026-11-06",
+     "uwagi": "w zrzucie 03.11 już brak"
+    },
+    "76336": {
+     "cena": 74.9,
+     "sprawdzono": "2026-11-06"
+    },
+    "76454": {
+     "cena": 809.9,
+     "sprawdzono": "2026-11-06",
+     "uwagi": "zrzut 03.11 też 809,90 zł"
+    },
+    "76923": {
+     "cena": 106.9,
+     "sprawdzono": "2026-11-06",
+     "uwagi": "w zrzucie 03.11 już brak"
+    }
+   },
+   "uwagi": "06.11.2026: karty x-komu sprawdzone Firecrawlem (meta product:sale_price przy cenie z kodem). Kod obejmuje już tylko 5 z 13 zestawów; `zestawy` = te, przy których karta nadal pokazuje cenę z kodem (tylko to pole czyta kodRabatowy() i weryfikacja ofert). Pierwotna lista z mailingu 02.11 w `zestawy_z_listy`, ceny bez kodu w `bez_kodu`."
   }
  ]
 }

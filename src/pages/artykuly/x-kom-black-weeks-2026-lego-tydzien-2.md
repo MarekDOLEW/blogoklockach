@@ -7,6 +7,7 @@ seo_opis: "Druga lista Black Weeks w x-kom: Grogu 75446 za 319 zł, Mieszkanie R
 data: "2026-10-26"
 kategoria: "Aktualności"
 okladka: "75446"
+wazne_do: "2026-11-01"
 zestawy: ["75446", "76785", "75433", "77082", "72050", "75434", "10367", "72043"]
 tagi: ["Dla rodziców", "Dla kolekcjonera"]
 pasek_zestaw: "75446"

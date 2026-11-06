@@ -7,6 +7,7 @@ seo_opis: "Black Weeks w x-kom: cztery zestawy LEGO z kodem black-weeks1 w najni
 data: "2026-10-19"
 kategoria: "Aktualności"
 okladka: "11381"
+wazne_do: "2026-10-25"
 zestawy: ["11381", "31220", "21064", "60510", "76473", "75447", "43300", "21060", "10359", "71425", "71497"]
 tagi: ["Dla kolekcjonera", "Dla rodziców"]
 pasek_zestaw: "11381"

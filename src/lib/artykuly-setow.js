@@ -11,6 +11,19 @@
 // Deali (dział /deale/) świadomie tu nie ma: post dealowy opisuje cenę z
 // konkretnego dnia i po kilku tygodniach linkowanie do niego z huba wprowadza
 // czytelnika w błąd. Hub pokazuje aktualne ceny sam.
+//
+// Z tego samego powodu odpadają teksty o akcjach, które już się skończyły
+// (audyt 06.11.2026: 52 linki z 50 hubów, np. 72050 „Grogu za 319 zł” przy
+// minimum 479 zł). Zakończony jest tekst z `wazne_do` w przeszłości, a tekst
+// dealowy w /artykuly/ (slug `-deal`, kategoria „Deal”) bez `wazne_do` po
+// 14 dniach od publikacji. Reguła jest ta sama co dla /deale/: dealZakonczony().
+// Sam tekst zostaje pod swoim adresem z banerem „Akcja zakończona”.
+import { dealZakonczony } from './deal-zakonczony.js';
+
+const DATA_ISO = /^\d{4}-\d{2}-\d{2}$/;
+const jestDealem = (url, f) => f.kategoria === 'Deal' || /-deal\/?$/.test(url);
+export const akcjaZakonczona = (url, f = {}) =>
+  (DATA_ISO.test(String(f.wazne_do ?? '')) || jestDealem(url, f)) && dealZakonczony(f);
 
 const moduly = {
   ...import.meta.glob('../pages/artykuly/*.md', { eager: true }),
@@ -40,6 +53,7 @@ function zbuduj() {
   for (const modul of Object.values(moduly)) {
     const f = modul.frontmatter ?? {};
     if (!Array.isArray(f.zestawy) || !f.zestawy.length) continue;
+    if (akcjaZakonczona(modul.url ?? '', f)) continue;
     const wpis = {
       url: modul.url + '/',
       tytul: f.title,

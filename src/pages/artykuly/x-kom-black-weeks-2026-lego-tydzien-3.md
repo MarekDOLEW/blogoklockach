@@ -5,6 +5,7 @@ opis: "Trzecia lista Black Weeks w x-kom działa z kodem black-weeks3 do 8 listo
 seo_tytul: "x-kom Black Weeks, tydzień 3: Hogwart 76454 za 699 zł"
 seo_opis: "Trzecia lista Black Weeks w x-kom z kodem black-weeks3 do 8.11: Hogwart 76454 za 699 zł, Volvo FMX 42175 za 599 zł, DUPLO i Disney od 19,99 zł. Dziewięć nowych minimów."
 data: "2026-11-02"
+zaktualizowano: "2026-11-06"
 kategoria: "Aktualności"
 okladka: "76454"
 wazne_do: "2026-11-08"
@@ -19,6 +20,8 @@ faq:
   - q: "Czy ceny z listy x-kom faktycznie działają?"
     a: "Tak — 2 listopada przed południem sprawdziliśmy wszystkie trzynaście kart produktów: każda pokazywała cenę z kodem black-weeks3 zgodną z listą i żaden zestaw nie był wyprzedany."
 ---
+
+> **Aktualizacja 6 listopada:** kod black-weeks3 działa do 8 listopada, ale nie obejmuje już ośmiu zestawów z listy. Według kart produktów x-komu z 6 listopada Hogwart 76454 kosztuje 809,90 zł, a Volvo FMX 42175 jest chwilowo niedostępne. Po 46,90 zł kosztują DUPLO 10967 oraz Dżasmina i Roszpunka 43303, po 74,90 zł minipałac Arielki 43285 i Spider-Man 76336. Laweta 60491 kosztuje 73,90 zł, a Lamborghini 76923 106,90 zł. Cenę z kodem zachowało pięć zestawów: Pikachu 72152 (599 zł), Bella i Tiana 43291 (99,99 zł), Sklep z cukierkami 42649 (79,99 zł), Dom Grogu 75443 (49,99 zł) i Lot z Dodo Airlines 77051 (89,99 zł).
 
 > **W skrócie:** x-kom wystawił trzecią listę zestawów LEGO w akcji **Black Weeks**, z kodem **black-weeks3** ważnym **do 8 listopada**. Z trzynastu zestawów **dziewięć kupisz dziś taniej niż kiedykolwiek w sklepach, które śledzimy** — od DUPLO i małych zestawów Disneya po **19,99 zł** do **Zamku Hogwart: Głównej wieży za 699 zł**. Wszystkie ceny potwierdziliśmy rano na kartach produktów.
 
