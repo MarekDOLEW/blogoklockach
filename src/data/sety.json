@@ -49075,5 +49075,28 @@
   "dla_rodzica": "Tego zestawu się nie kupuje — trafia do koszyka razem z dużą figurą Godzilli (21375). Oznaczenie 18+ idzie za zestawem głównym, bo sama tabliczka to drobiazg na półkę, a nie zabawka. Bez zakupu figury nie da się go zdobyć inaczej niż z drugiej ręki.",
   "dla_afol": "Dodatek ekspozycyjny do figury: logo i odcisk stopy, czyli gotowa podstawka pod zdjęcie albo element tła dla modelu. 359 elementów przy wycenie 24,99 euro to więcej, niż zwykle dostaje się w gratisie. Liczy się tylko w oknie premierowym — potem zostaje rynek wtórny.",
   "oferty": []
+ },
+ "10335": {
+  "nazwa": "Endurance",
+  "seria": "Icons",
+  "cena_katalogowa": 1149.99,
+  "elementy": 3011,
+  "wiek": "18+",
+  "premiera": "2024-11",
+  "opis": "",
+  "dla_rodzica": "Statek Shackletona ma 80 cm długości, więc miejsce na półce trzeba zaplanować przed zakupem. Oznaczenie 18+ dotyczy złożoności: dziesięć materiałowych żagli i olinowanie trzech masztów to najbardziej wymagająca część budowy. Prezent dla dorosłego fana żaglowców i historii wypraw polarnych, nie zestaw do zabawy.",
+  "dla_afol": "Katalogowe 1149,99 zł przy 3011 elementach daje 0,38 zł za element — w Icons to dobry wynik. Zestaw sprzedaje wyłącznie sklep LEGO, a sprzedaż kończy się 31 grudnia 2026; duże modele z tej serii po wycofaniu zwykle drożeją na rynku wtórnym. Na Bricksecie ma 4,4 na 5 przy 119 ocenach, projekt Hansa Burkharda Schlömera.",
+  "oferty": [
+   {
+    "sklep": "lego",
+    "cena": 1149.99,
+    "data": "2026-11-03"
+   },
+   {
+    "sklep": "ceneo",
+    "cena": 1449,
+    "data": "2026-10-27"
+   }
+  ]
  }
 }
