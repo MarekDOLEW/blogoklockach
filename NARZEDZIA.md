@@ -332,7 +332,7 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 | **Odczyt panelu GSC „Strony"** (liczba zaindeksowanych) | co 2 tygodnie; Kontroler przypomina w raporcie | API nie podaje liczby zaindeksowanych stron — bez odczytu kamień milowy nr 4 Kontrolera stoi |
 | **Kasowanie gałęzi w GitHubie** | po sesji, która zostawiła gałąź | Gałęzie się gromadzą w publicznym repo (14.09: skasowane sześć, została jedna z landingiem klienckim) |
 | **Odczyt paneli Allegro i webePartners** | przy przeglądzie prowizji | EPC dla tych dwóch zostaje **modelem**, nie pomiarem — a Allegro to największa ekspozycja w serwisie |
-| **Doładowanie Firecrawla** | pakiet 1 500 kredytów odnawia się co miesiąc (28.09, 28.10…); doładowanie tylko gdy tygodniowy listing (~75) plus sesje przekroczą pakiet | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
+| **Doładowanie Firecrawla** | od 06.11.2026: plan Hobby 5 000/mies., odnowienie 23. dnia, Pay-as-you-go do 20 USD/mies. (wcześniej: pakiet 1 500 kredytów odnawia się co miesiąc (28.09, 28.10…)); doładowanie tylko gdy tygodniowy listing (~75) plus sesje przekroczą pakiet | Brak kanonicznych linków dla nowych zestawów i brak kontroli, czy skrót lego.com dalej działa |
 
 ### Czego na tej liście już NIE ma
 
@@ -342,7 +342,14 @@ zmian w cenach. Tydzień nieobecności zatrzymuje wszystkie naraz.
 
 ### Budżet Firecrawla
 
-**1000 kredytów miesięcznie w abonamencie.** Jedno pobranie strony to 1 kredyt,
+**Stan konta (odczyt Coworka 06.11.2026):** plan **Hobby, 19 USD/mies., 5 000 kredytów**, odnowienie
+**23. dnia miesiąca** (najbliższe 23.11.2026), włączony **Pay-as-you-go**: po wyczerpaniu puli konto samo
+dokupuje kredyty po 5 USD za 1 000, do 20 USD miesięcznie. W 30 dniach do 06.11 zużycie 6 986 kredytów
+(ponad pulę — część poszła z dokupień). 06.11 zostało 3 043. Niewykorzystane kredyty z puli nie przechodzą
+na kolejny okres (do potwierdzenia w regulaminie). Limity kart w runnerach ustawia `scripts/budzet-firecrawla.mjs`.
+Starsze liczby niżej („1000 kredytów”, „pakiet 1 500”) są historyczne.
+
+**1000 kredytów miesięcznie w abonamencie** (stan z września 2026). Jedno pobranie strony to 1 kredyt,
 ekstrakcja modelem 5 — dlatego `firecrawl-legopl.mjs` używa parsera markdownu,
 nie ekstrakcji.
 
