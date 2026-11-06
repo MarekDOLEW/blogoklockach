@@ -153,6 +153,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-06 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 06.11** — Karta promocji LEGO wymienia dziś **trzy** gratisy, nie dwa: do 40889 (28.10–08.11, próg 540 zł) i 30727 (28.10–08.11, Star Wars od 165 zł) doszedł **40898 Wenecka taksówka wodna, 01.11–08.11.2026**, z warunkiem „Zakup musi obejmować produkt Wenecka okolica (11388)". Domyka to wątek z 28.10, kiedy zapisałem, że LEGO własnym źródłem tego gratisu nie potwierdza.
+**Mamy?** — nie mieliśmy, i to był błąd na produkcji: nagłówek sekcji `#listopad-40889`, pozycja w „Co trwa teraz" i tabela mówiły o **dwóch** gratisach, więc żywe okno kończące się za dwa dni było u nas niewidoczne.
+**Zrobić:** — zrobione w tym przebiegu: trzeci wiersz tabeli (warunek 11388, okno 1–8.11), „dwa gratisy" → „trzy gratisy" w nagłówku i w „Co trwa teraz", akapit o mechanice (brak progu kwotowego, 322 elementy, wycena 124,99 zł, pomost pasuje do nabrzeża 11388) i zastrzeżenie, że sam gratis nie jest powodem, żeby dokładać do zakupu za 2149,99 zł. **Wniosek na przyszłość:** liczebnik w nagłówku jest trzecim miejscem, w którym trzymamy tę samą daną — przy każdym dopisaniu wiersza do tabeli gratisów przeglądamy nagłówek sekcji i pozycję w „Co trwa teraz".
+**Kto:** — Code (dane, strona)
+
+**fanklockow.pl · 05.11** — LEGO.com przyznało im pulę kodów na gratis **30708 Minimodel Sokoła Millennium** dla ich czytelników: 16–20.11.2026, próg 165 zł z dowolnej serii, wyłącznie online, kod w koszyku, zajmuje jeden z trzech slotów nagrody Insiders. Piszą „znów mamy dla Was kolejny gratis", czyli dostają takie pule regularnie.
+**Mamy?** — nie i nie możemy mieć treścią: to nie publiczne okno, tylko kody wydawane z ich podstrony. Do naszego kalendarza nie wchodzi — bez ich kodu czytelnik tego gratisu nie dostanie, a my nie odsyłamy do konkurencji. Luka jest **relacyjna**, nie redakcyjna.
+**Zrobić:** — zdecydować, czy próbujemy o to samo własnym kanałem (Tradedoubler / kontakt LEGO.pl): pula kodów na gratis dla czytelników tylkoklocki.pl przed Weekendem Insiders.
+**Kto:** — Marek (decyzja)
+
+**faniklockow.pl · 05.11** — Wystawili hub „Zbiorcze zapowiedzi zestawów LEGO na 2027 r. Wszystko w jednym miejscu", spinający ich huby serii (Fortnite 04.11, Icons 05.11).
+**Mamy?** — dane tak, formy nie: rocznik 2027 zbiera Scout do `zapowiedzi_sledzone`, ale nie ma jednej strony, która go zestawia. Drugi dzień z rzędu ten sam wzorzec co przy kalendarzach adwentowych z 05.11 — oni robią stronę zestawiającą, my mamy dane rozsypane po hubach.
+**Zrobić:** — rozstrzygnąć łącznie z pozycją o kalendarzach adwentowych z 05.11: czy wchodzimy w format „wszystko w jednym miejscu" (strona zbiorcza na żywych komponentach), czy zostajemy przy hubach.
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-11-06 05:25 · SCOUT · Do zrobienia
 
 **StoneWars opublikował drugi tekst o Ideas Godzilla (21375) — „czego nie widać na karcie produktu": ukryty easter egg i szczegóły budowy, których nie ma w opisie LEGO (https://www.stonewars.de/news/lego-ideas-godzilla-21375-easter-egg-details/). Nasz tekst premierowy wyszedł 04.11, przed tym materiałem.**
