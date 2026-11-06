@@ -154,6 +154,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Firecrawl: pełne limity przywrócone
+
+Odczyt konta (C4): Hobby 5 000/mies., odnowienie 23.11, Pay-as-you-go do 20 USD/mies., 3 043 kredyty 06.11. Cięcie z D2 oszczędzałoby kredyty, które przy odnowieniu mogą przepaść — Marek: „przywróć”. `budzet-firecrawla.mjs`: pełne limity (Weryfikacja 40, karty ME 80) do 30.11, od 01.12 połowa.
+
 ## 2026-11-06 · Code · Media Expert: subID w linkach (zgoda Marka)
 
 - Test Coworka (C1): tracker Performers działa (`transaction_id` wypełniony), ale `Partner_ID=Partner_ID` — `feedy-lego.py` codziennie nadpisywał linki ME surowymi z feedu. Teraz `link_me_nasz()` podstawia `tylkoklocki` (makr `{date}`, `{transaction_id}` nie rusza); 826 z 878 istniejących linków poprawione, liczba wpisów bez zmian.

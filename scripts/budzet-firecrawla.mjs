@@ -1,17 +1,14 @@
-// Domyślne limity kart Firecrawla zależne od daty (decyzja Marka 06.11.2026, D2 „tnij”).
+// Domyślne limity kart Firecrawla zależne od daty.
 //
-// Audyt 06.11: 3 081 kredytów i zużycie ok. 190 dziennie — pula schodziła do zera
-// ok. 22.11, pięć dni przed Black Friday. Zamiast dokupować pakiet tniemy dwa
-// największe codzienne zużycia (Weryfikacja ofert i karty Media Expertu w Łowcy):
-//   do 20.11        — oszczędnie (ok. 1/3 pełnego limitu),
-//   21–30.11        — pełny limit (tydzień Black Friday i Cyber Monday),
-//   od 01.12        — połowa pełnego limitu.
+// Historia decyzji:
+//   06.11.2026 (D2 „tnij”): audyt liczył, że 3 081 kredytów przy ~190 dziennie skończy się
+//   ok. 22.11, przed Black Friday — limity obcięte do ~3/8 do 20.11.
+//   06.11.2026 („przywróć”): odczyt konta (C4) pokazał plan Hobby 5 000/mies. z odnowieniem
+//   23.11 i Pay-as-you-go do 20 USD/mies. — tydzień Black Friday startuje ze świeżą pulą, więc
+//   do 30.11 wracają pełne limity. Od 01.12 zostaje połowa (poza sezonem).
 // Jawne `--limit N` w wywołaniu zawsze wygrywa.
 
-const OKNA = [
-  { do: '2026-11-20', mnoznik: 0.375 },
-  { do: '2026-11-30', mnoznik: 1 },
-];
+const OKNA = [{ do: '2026-11-30', mnoznik: 1 }];
 const PO_SEZONIE = 0.5;
 
 export function limitDomyslny(pelny, dzis = new Date().toISOString().slice(0, 10)) {
