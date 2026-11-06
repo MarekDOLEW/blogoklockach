@@ -154,6 +154,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Media Expert: subID w linkach (zgoda Marka)
+
+- Test Coworka (C1): tracker Performers działa (`transaction_id` wypełniony), ale `Partner_ID=Partner_ID` — `feedy-lego.py` codziennie nadpisywał linki ME surowymi z feedu. Teraz `link_me_nasz()` podstawia `tylkoklocki` (makr `{date}`, `{transaction_id}` nie rusza); 826 z 878 istniejących linków poprawione, liczba wpisów bez zmian.
+- **Zakup testowy Marka 06.11:** 11505 Botanicals Grzyby leśne w Media Expercie przez hub `/zestaw/11505/` (ME najtańszy, 233,42 zł). Sprawdzić w panelu/API Performers za 1–3 dni, czy pojawi się konwersja (offer 1860, aff_sub `tylkoklocki`) — to rozstrzyga, czy zero konwersji to problem trackingu.
+
 ## 2026-11-06 08:55 · Skrzynka tekstów Piotra (GitHub)
 
 - Źródło: repo `tylkoklocki-teksty`, 4 artykuły + 19 zdjęć; opublikowane (commit `08b56d13`), linki wysłane, źródła ze zdjęciami w `opublikowane/`.

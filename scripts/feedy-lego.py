@@ -484,6 +484,18 @@ ZRODLA = {
 }
 
 
+ME_PARTNER = 'tylkoklocki'
+
+
+def link_me_nasz(link):
+    """Link ME z feedu ma placeholdery Performers zamiast naszego subID (`aff_sub=Partner_ID`,
+    `Partner_ID%3D{aff_sub}`) — podstawiamy `tylkoklocki`, jak `me-redirects.mjs`. 06.11.2026:
+    test Coworka pokazał `Partner_ID=Partner_ID` na karcie ME, bo ta funkcja codziennie
+    nadpisywała linki surowymi z feedu. Makr `{date}` i `{transaction_id}` NIE ruszamy —
+    podstawia je Performers (test: transaction_id wypełniony, 30 znaków)."""
+    return link.replace('aff_sub=Partner_ID', f'aff_sub={ME_PARTNER}').replace('Partner_ID%3D{aff_sub}', f'Partner_ID%3D{ME_PARTNER}')
+
+
 def odswiez_redirects(wynik):
     """Wpisuje do redirects.json dzisiejsze adresy kart produktów z feedów.
 
@@ -508,6 +520,8 @@ def odswiez_redirects(wynik):
             link = (oferta.get('link') or '').strip()
             if not link:
                 continue
+            if sklep == 'mediaexpert' and 'track.performers.tech' in link:
+                link = link_me_nasz(link)
             if nr not in mapa:
                 mapa[nr] = link
                 nowe[sklep] = nowe.get(sklep, 0) + 1
