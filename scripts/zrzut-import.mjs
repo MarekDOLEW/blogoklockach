@@ -36,6 +36,7 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { parsujZKolejnoscia, kluczeObiektu, stringifyMapa, wykryjWciecie, zapiszFeed, zapiszSety } from './json-kolejnosc.mjs';
+import { AKCESORIA, slug } from './akcesoria.mjs';
 
 export const SKLEPY = {
   // minPozycji: poniżej tej liczby zrzut jest podejrzany (urwany listing) i nie wchodzi
@@ -112,6 +113,8 @@ for (const p of produkty) {
   }
   if (OBCE_MARKI.test(nazwa)) { odrzucone.obca.push(`${nr} ${nazwa} (${cena} zł)`); continue; }
   if (GADZETY.test(nazwa)) { odrzucone.gadzet.push(`${nr} ${nazwa} (${cena} zł)`); continue; }
+  // akcesoria innych firm rozpoznawane też po adresie karty (71430: Playmobil bez marki w nazwie; 06.11.2026)
+  if (AKCESORIA.test(`${slug(p.url)} ${nazwa}`)) { odrzucone.gadzet.push(`${nr} ${nazwa} (${cena} zł, akcesorium)`); continue; }
   if (!maHub(nr)) { odrzucone.spoza.push(`${nr} ${nazwa}`); continue; }
   const kat = rrp(nr);
   if (kat && cena < PROG_SANITY * kat) { odrzucone.sanity.push(`${nr} ${nazwa}: ${cena} zł przy katalogowej ${kat}`); continue; }

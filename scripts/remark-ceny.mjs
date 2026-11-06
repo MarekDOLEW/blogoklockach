@@ -66,7 +66,8 @@ function ofertyZFeedu(wpis, nr) {
 
 function polaczOferty(nr) {
   const perSklep = new Map();
-  for (const o of [...(sety[nr]?.oferty ?? []), ...ofertyZFeedu(feed[nr], nr)]) {
+  // Ceneo wyłączone ze strony od 06.11.2026 (SKLEPY_WYLACZONE w src/lib/oferty.js).
+  for (const o of [...(sety[nr]?.oferty ?? []), ...ofertyZFeedu(feed[nr], nr)].filter((x) => x.sklep !== 'ceneo')) {
     const stara = perSklep.get(o.sklep);
     if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
   }

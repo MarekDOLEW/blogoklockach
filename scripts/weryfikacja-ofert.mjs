@@ -25,10 +25,12 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { scrape } from './firecrawl.mjs';
+import { limitDomyslny } from './budzet-firecrawla.mjs';
 
 const args = process.argv.slice(2);
 const opcja = (n, d) => { const i = args.indexOf(`--${n}`); return i >= 0 ? args[i + 1] : d; };
-const LIMIT = Number(opcja('limit', 40));
+// Pełny limit 40 kart; domyślny zależy od daty (budzet-firecrawla.mjs, decyzja 06.11.2026).
+const LIMIT = Number(opcja('limit', limitDomyslny(40)));
 const SUCHO = args.includes('--sucho');
 
 const sciezka = (p) => new URL(`../src/data/${p}`, import.meta.url);

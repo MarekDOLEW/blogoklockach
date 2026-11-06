@@ -153,6 +153,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-06 · Code · Audyt 06.11 i decyzje D1–D4
+
+Audyt: `materialy/audyt-2026-11-06.md` + 6 raportów w `materialy/audyt-2026-11-06/` (commit 9d22c64d). Decyzje Marka tego samego dnia:
+- **D1 Ceneo — usunięte ze strony.** `SKLEPY_WYLACZONE` w `src/lib/oferty.js` (jedno sito `filtrujOferty` + link zastępczy), tabele w artykułach (`remark-ceny.mjs`). Dane cen zostają. W buildzie 0 linków `/idz/ceneo/`, indeksowalnych dalej 2 179.
+- **D2 Firecrawl — tniemy.** `scripts/budzet-firecrawla.mjs`: Weryfikacja ofert 15 kart i karty ME w Łowcy 30 do 20.11; 21–30.11 pełne 40/80 (Black Friday); od 01.12 20/40. Stan 06.11: 3 081 kredytów.
+- **D3 Empik — filtr akcesoriów.** `scripts/akcesoria.mjs` w `zrzut-redirects.mjs` i `zrzut-import.mjs`; usunięte 300 linków `redirects.empik` do gablot, uchwytów, instrukcji, LED, Playmobilu i zamienników (zestaw wraca na wyszukiwarkę Empiku) oraz ceny Empiku 71430 (Playmobil) i 45303 (zamiennik) w `oferty_feed.json`.
+- **D4 Social: TikTok i Pinterest tak, Shorts nie.** Skill `klocki-social` zaktualizowany (kanały, rytm tygodnia, role, UTM, Pinterest), paczka w `skille/klocki-social.skill` — **Marek wgrywa na claude.ai**.
 ## 2026-11-06 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 06.11** — Karta promocji LEGO wymienia dziś **trzy** gratisy, nie dwa: do 40889 (28.10–08.11, próg 540 zł) i 30727 (28.10–08.11, Star Wars od 165 zł) doszedł **40898 Wenecka taksówka wodna, 01.11–08.11.2026**, z warunkiem „Zakup musi obejmować produkt Wenecka okolica (11388)". Domyka to wątek z 28.10, kiedy zapisałem, że LEGO własnym źródłem tego gratisu nie potwierdza.

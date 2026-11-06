@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-10-19",
+  "zaktualizowano": "2026-11-06",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -95,7 +95,7 @@
   "format_linkow": "gotowy productUrl z feedu: https://pdt.tradedoubler.com/click?a(3494691)p(385881)product(<feedId>-<sourceProductId>)ttid(19)url(<encoded ceneo.pl>) - ZWERYFIKOWANE 2026-08-20 na feedzie Ceneo_LEGO. NIEAKTYWNE od zakonczenia programu 2026-11-03 - linki dalej w redirects.json, ale nie generuja prowizji.",
   "feed": "TD productFeeds: Ceneo_LEGO fid=256472 (1336 produktow, ~1000 dostepnych przez API - limit PF_430; pokrywa 998 naszych setow, ceny + zdjecia + gotowe linki trackingowe). Dodatkowo 7 feedow kategoryjnych Ceneo (RTV, AGD, komputery, zegarki, uroda, telefony, cps_feed). Feed przestal dzialac (PF_392 'Requester is not connected to Feed') w przebiegach Dane wt 01.11 i 03.11.2026 - przyczyna ustalona 03.11: program zakonczony, nie usterka podpiecia.",
   "data": "2026-11-03",
-  "uwagi": "programId 385881 (Ceneo CPS), konto a=3494691. ZAKONCZONE 2026-11-03: mail Tradedoublera do Marka - relacja z programem Ceneo CPS 385881 zakonczona, zadnych nowych prowizji, zalegle zostana wyplacone. Ceneo to porownywarka, nie sklep - istniejace ceny/linki w redirects.json i oferty_feed zostaja jako ostatni znany stan (append-only), ale Dane wt od 03.11.2026 nie odswieza juz tego feedu (feedy.json: ceneo.aktywny=false). DO ZROBIENIA (Marek, decyzja): worker.js (/idz/ceneo/<nr>, linie ~232-238) wciaz buduje link przez zakonczony program clk.tradedoubler.com?p=385881 - do rozstrzygniecia, czy zostawic (moze dalej przekierowywac na ceneo.pl bez prowizji), zmienic na zwykly link bez TD, czy zdjac wiersz Ceneo z tabel cen."
+  "uwagi": "programId 385881 (Ceneo CPS), konto a=3494691. ZAKONCZONE 2026-11-03: mail Tradedoublera do Marka - relacja z programem Ceneo CPS 385881 zakonczona, zadnych nowych prowizji, zalegle zostana wyplacone. Ceneo to porownywarka, nie sklep - istniejace ceny/linki w redirects.json i oferty_feed zostaja jako ostatni znany stan (append-only), ale Dane wt od 03.11.2026 nie odswieza juz tego feedu (feedy.json: ceneo.aktywny=false). DO ZROBIENIA (Marek, decyzja): worker.js (/idz/ceneo/<nr>, linie ~232-238) wciaz buduje link przez zakonczony program clk.tradedoubler.com?p=385881 - do rozstrzygniecia, czy zostawic (moze dalej przekierowywac na ceneo.pl bez prowizji), zmienic na zwykly link bez TD, czy zdjac wiersz Ceneo z tabel cen. | 06.11.2026 decyzja Marka (D1, audyt 06.11): Ceneo usuniete ze strony - SKLEPY_WYLACZONE w src/lib/oferty.js (tabele hubow, listingi, artykuly, link zastepczy). Dane cen zostaja w sety.json/oferty_feed.json (append-only)."
  },
  "mediamarkt": {
   "siec": "Tradedoubler",

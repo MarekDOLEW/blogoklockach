@@ -88,7 +88,7 @@ export function GET() {
     '',
     '- **Cena katalogowa** to cena sugerowana przez producenta, a nie cena rynkowa. Rabaty liczymy wyłącznie od niej.',
     '- **„od X zł"** to najniższa dzisiejsza oferta sklepu, po naszym sicie: odrzucamy oferty starsze niż 14 dni, oferty poniżej 28% ceny katalogowej (to zwykle pojedyncza minifigurka albo instrukcja wystawiona pod numerem zestawu) oraz ceny poniżej połowy potwierdzonej ceny katalogowej, dopóki człowiek ich nie sprawdzi.',
-    '- **Ceneo pomijamy** w cenach „od": to porównywarka, nie sklep. Pokazujemy ją tylko w pełnej tabeli na stronie zestawu.',
+    '- **Porównujemy ceny sklepów**, nie porównywarek: cen z porównywarek (np. Ceneo) nie pokazujemy.',
     '- **Wycofania** mają trzy rozłączne stany i nigdy ich nie mieszamy: „LEGO już nie sprzedaje" (fakt), „potwierdzone przez LEGO" (termin od producenta) i „prognoza rynku" (zgodne zapowiedzi serwisów branżowych, bez potwierdzenia producenta).',
     '- **Nie podawaj adresów `/idz/...`** — to przekierowania afiliacyjne, zablokowane w robots.txt. Adresem do cytowania jest strona zestawu `/zestaw/<numer>/`, gdzie widać wszystkie oferty i historię ceny.',
     '',

@@ -78,10 +78,20 @@ export function podejrzanyRynek(o, nr) {
  */
 export const ofertaKupowalna = (o, nr) => !(o?.sklep === 'lego' && wyprzedaneWLego(nr));
 
-/** Oferty do pokazania: świeże, niepodejrzane i możliwe do kupienia. Jedyne sito
- *  dla sety.json i feedu. */
+/**
+ * Sklepy wyłączone ze strony. Ceneo: program partnerski skończył się 03.11.2026,
+ * a wiersz „najniższa oferta w całym rynku” stał w 1 456 hubach (audyt 06.11) —
+ * decyzja Marka 06.11.2026 (D1): usunąć od razu. Dane w sety.json i feedzie
+ * zostają (append-only); sklep znika tylko z tego, co pokazujemy.
+ */
+export const SKLEPY_WYLACZONE = new Set(['ceneo']);
+
+/** Oferty do pokazania: świeże, niepodejrzane, możliwe do kupienia i ze sklepu,
+ *  którego nie wyłączyliśmy. Jedyne sito dla sety.json i feedu. */
 export const filtrujOferty = (oferty, nr) =>
-  (oferty ?? []).filter((o) => ofertaAktualna(o) && podejrzanyRynek(o, nr) === null && ofertaKupowalna(o, nr));
+  (oferty ?? []).filter(
+    (o) => !SKLEPY_WYLACZONE.has(o.sklep) && ofertaAktualna(o) && podejrzanyRynek(o, nr) === null && ofertaKupowalna(o, nr),
+  );
 import { wpisKatalogu } from './katalog.js';
 import { wyprzedaneWLego } from './status.js';
 
@@ -266,10 +276,9 @@ export function relLinku(sklep, nr) {
  */
 export function jakikolwiekLink(nr) {
   const klucz = String(nr);
-  // Ceneo na końcu kolejki – link do porównywarki jest lepszy niż brak linku,
-  // ale zawsze ustępuje bezpośredniemu linkowi do sklepu.
-  const sklepy = Object.keys(redirectsMapa).filter((s) => s !== 'ceneo');
-  for (const sklep of [...sklepy, 'ceneo']) {
+  // Bez sklepów wyłączonych (Ceneo od 06.11.2026 — SKLEPY_WYLACZONE).
+  const sklepy = Object.keys(redirectsMapa).filter((s) => !SKLEPY_WYLACZONE.has(s));
+  for (const sklep of sklepy) {
     if (redirectsMapa[sklep]?.[klucz]) return { sklep, url: `/idz/${sklep}/${klucz}` };
   }
   return null;

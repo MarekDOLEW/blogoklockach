@@ -37,6 +37,7 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { scrape } from './firecrawl.mjs';
+import { limitDomyslny } from './budzet-firecrawla.mjs';
 
 const KATALOG = new URL('..', import.meta.url).pathname;
 
@@ -47,7 +48,8 @@ const opcja = (n, domyslna) => {
 };
 const plik = opcja('plik');
 const sucho = args.includes('--sucho');
-const LIMIT = Number(opcja('limit', 80));
+// Pełny limit 80 kart; domyślny zależy od daty (budzet-firecrawla.mjs, decyzja 06.11.2026).
+const LIMIT = Number(opcja('limit', limitDomyslny(80)));
 // Budzet czasu, bo ten krok siedzi w sciezce Lowcy: karta schodzi ~10 s, wiec
 // 80 kart to ~13 min. Po przekroczeniu konczymy na tym, co sprawdzone, zamiast
 // trzymac caly przebieg cen w zawieszeniu.

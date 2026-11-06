@@ -31,6 +31,8 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
+import { AKCESORIA, slug } from './akcesoria.mjs';
+
 // kod partnerski SalesMasters (afiliacje_rejestr.json, sekcja x-kom) — ten sam,
 // którego używa worker w /idz/xkom/<nr> dla zestawów bez wpisu
 export const KOD_SALESMASTERS = 'Y74rgdCO';
@@ -55,15 +57,17 @@ const sklep = args.includes('--sklep') ? args[args.indexOf('--sklep') + 1] : nul
 const plik = args.find((a, i) => !a.startsWith('--') && args[i - 1] !== '--sklep');
 const sucho = args.includes('--sucho');
 const usunMartwe = args.includes('--usun-martwe');
-if (!plik || !SKLEPY[sklep]) {
-  console.error('Użycie: node scripts/zrzut-redirects.mjs --sklep <empik|xkom> <plik.json> [--usun-martwe] [--sucho]');
+// --tylko-akcesoria: bez zrzutu — samo czyszczenie istniejącej mapy z linków do akcesoriów
+const tylkoAkcesoria = args.includes('--tylko-akcesoria');
+if ((!plik && !tylkoAkcesoria) || !SKLEPY[sklep]) {
+  console.error('Użycie: node scripts/zrzut-redirects.mjs --sklep <empik|xkom> (<plik.json> [--usun-martwe] | --tylko-akcesoria) [--sucho]');
   process.exit(2);
 }
 const S = SKLEPY[sklep];
 
-const zrzut = JSON.parse(readFileSync(plik, 'utf8'));
+const zrzut = tylkoAkcesoria ? { products: [] } : JSON.parse(readFileSync(plik, 'utf8'));
 const produkty = zrzut.products ?? zrzut;
-console.log(`Zrzut z ${zrzut.meta?.scrapedAt ?? '?'}: ${produkty.length} pozycji.`);
+if (!tylkoAkcesoria) console.log(`Zrzut z ${zrzut.meta?.scrapedAt ?? '?'}: ${produkty.length} pozycji.`);
 
 const katalog = JSON.parse(readFileSync('src/data/katalog.json', 'utf8'));
 const znane = new Set(
@@ -96,6 +100,11 @@ for (const p of produkty) {
     continue;
   }
   if (!znane.has(nr)) continue; // zestaw spoza naszego katalogu — nie ma podstrony
+  // akcesorium pod numerem zestawu nie może nadpisać karty zestawu (75455 → gablota)
+  if (AKCESORIA.test(`${slug(url)} ${p.name ?? ''}`)) {
+    odrzucone.push([nr, `akcesorium: ${String(p.name ?? slug(url)).slice(0, 60)}`]);
+    continue;
+  }
   // numer musi być osobnym tokenem w nazwie produktu: „sw1246" to kod minifigurki,
   // nie zestaw 1246 (audyt 22.09) — taka karta nie może być deeplinkiem zestawu
   if (!new RegExp(`(?<![A-Za-z0-9])${nr}(?![A-Za-z0-9])`).test(String(p.name ?? ''))) {
@@ -108,8 +117,13 @@ for (const p of produkty) {
   mapa[nr] = nowy;
 }
 
+// Linki do akcesoriów, które weszły przed filtrem — usuwamy zawsze (naprawa w ramach
+// wyjątku od append-only dla redirects.empik/xkom; zestaw wraca na wyszukiwarkę sklepu).
+const akcesoria = Object.keys(mapa).filter((nr) => AKCESORIA.test(slug(mapa[nr])));
+for (const nr of akcesoria) delete mapa[nr];
+
 // Martwe: mamy wpis, a zestawu nie ma w bieżącym zrzucie (zniknął z oferty).
-const martwe = Object.keys(mapa).filter((nr) => !wZrzucie.has(nr));
+const martwe = tylkoAkcesoria ? [] : Object.keys(mapa).filter((nr) => !wZrzucie.has(nr));
 if (usunMartwe) for (const nr of martwe) delete mapa[nr];
 
 const po = Object.keys(mapa).length;
@@ -117,6 +131,7 @@ console.log(`redirects.${sklep}: ${przed} → ${po}`);
 console.log(`  nowych adresów:        ${dodane.length}`);
 console.log(`  zaktualizowanych:      ${zmienione.length}`);
 console.log(`  pozycji bez url w zrzucie: ${bezUrl} (zostaje wyszukiwarka)`);
+console.log(`  usunięte linki do akcesoriów: ${akcesoria.length}${akcesoria.length ? ` (${akcesoria.slice(0, 12).join(', ')}${akcesoria.length > 12 ? ' …' : ''})` : ''}`);
 if (odrzucone.length) {
   console.log(`  ODRZUCONE (${S.opisOdrzucenia}): ${odrzucone.length}`);
   for (const [nr, u] of odrzucone.slice(0, 10)) console.log(`    ${nr}  ${u}…`);

@@ -1,12 +1,32 @@
 ---
 name: klocki-social
-description: "Agent \"Social\" serwisu afiliacyjnego o klockach LEGO. Używaj ZAWSZE, gdy użytkownik prosi o - posty na TikTok / Instagram / Facebook o klockach, paczkę social media, scenariusze rolek o LEGO, karuzele IG, content plan social, posty dealowe na social, \"co publikować w tym tygodniu na TT/IG/FB\". Skill tworzy content faceless (bez pokazywania twarzy i występów publicznych) nastawiony na ruch do serwisu i konwersję afiliacyjną."
+description: "Agent \"Social\" serwisu afiliacyjnego o klockach LEGO. Używaj ZAWSZE, gdy użytkownik prosi o - posty na TikTok / Instagram / Facebook / Pinterest o klockach, piny, paczkę social media, scenariusze rolek o LEGO, karuzele IG, content plan social, posty dealowe na social, \"co publikować w tym tygodniu na TT/IG/FB\". Skill tworzy content faceless (bez pokazywania twarzy i występów publicznych) nastawiony na ruch do serwisu i konwersję afiliacyjną."
 ---
 
 # Social — faceless, dealowo, do celu
 
 ## Ograniczenie fundamentalne
-Właściciele NIE pokazują twarzy i NIE występują publicznie. Cały content jest faceless: ręce + klocki, zrzuty ekranu cen, grafiki, tekst na ekranie, lektor AI lub napisy. Zero YouTube.
+Właściciele NIE pokazują twarzy i NIE występują publicznie. Cały content jest faceless: ręce + klocki, zrzuty ekranu cen, grafiki, tekst na ekranie, lektor AI lub napisy. Zero YouTube — także bez Shorts (decyzja Marka 06.11.2026).
+
+## Kanały (decyzja Marka 06.11.2026)
+**Instagram, Facebook, TikTok, Pinterest.** YouTube Shorts — nie. Grupa FB „Łowcy Klocków” — po Świętach.
+
+## Rytm tygodnia (od 09.11.2026)
+| Dzień | Format | Kanały |
+|---|---|---|
+| Pon | Karuzela „Okazje tygodnia” (5 zestawów + slajd CTA) | IG, FB, Stories |
+| Wt | Rolka „Deal alert” (`scripts/rolka-deal.mjs`) | TikTok, Reels (IG+FB) |
+| Śr | Karuzela-recenzja (werdykt, „warto kupić poniżej X zł”) | IG, FB, 1 pin |
+| Czw | Rolka edukacyjna („ile kosztuje klocek”, „pseudopromocja”) albo druga rolka deal | TikTok, Reels |
+| Pt | Prezentownik sezonowy (karuzela) + 3 piny | IG, FB, Pinterest |
+| Sob | Ciekawostka / historia (teksty historyczne Piotra) | IG, FB |
+| Nd | tylko Stories | IG |
+
+**Role.** Code przygotowuje paczkę tygodnia w poniedziałek rano (grafiki PNG, rolki MP4, opisy z UTM, wpisy w rejestrze ze stanem „przygotowane”). Marek akceptuje paczkę jednym „tak”. Cowork planuje i publikuje (Meta Business Suite, TikTok, Pinterest) i odsyła linki do postów — Code zmienia stan w rejestrze. Post z ceną: na grafice „cena z DD.MM”, link do huba `/zestaw/<nr>/` (nie do sklepu); przed publikacją cena porównana z hubem — rozjazd = post czeka.
+
+**UTM na każdym linku:** `?utm_source=instagram|facebook|tiktok|pinterest&utm_medium=social&utm_campaign=RRRR-MM-DD-<format>` (np. `2026-11-09-okazje`).
+
+Pełny schemat, plan na 09.11–06.12 i mierniki: `materialy/audyt-2026-11-06/runnery-piotr-social.md`, sekcje 3.4–3.7.
 
 ## Rola każdej platformy
 **TikTok** (silnik zasięgu — priorytet #1 na start, bo nowa domena nie ma SEO):
@@ -18,6 +38,8 @@ Właściciele NIE pokazują twarzy i NIE występują publicznie. Cały content j
 
 **Instagram** (witryna marki): rolki = reposty TT; karuzele "TOP 5 okazji tygodnia" (szablon graficzny stały — rozpoznawalność); Stories z naklejką link do dealów dnia — Stories to nasz najszybszy kanał konwersji.
 
+**Pinterest** (ruch z wyszukiwania prezentów — pin żyje miesiącami, link prowadzi wprost do serwisu): piny 1000×1500 px do prezentowników, kalendarzy adwentowych i „LEGO dla dorosłych”; tablice: „LEGO na Mikołajki”, „LEGO pod choinkę”, „LEGO dla dorosłych”, „Kalendarze adwentowe LEGO” (potem według wieku i budżetu). Tytuł pinu = fraza, której szuka rodzic („LEGO dla 8-latka do 200 zł”), opis 1–2 zdania + link z UTM. Najwięcej pracy w XI–XII; bez cen na pinie (pin żyje dłużej niż cena) — cena jest na stronie.
+
 **Facebook** (konwersja u rodziców 30–45): posty dealowe z linkiem bezpośrednim, obecność w grupach ("LEGO okazje", grupy parentingowe — dawać wartość, nie spamować), własna grupa "Łowcy Klocków — okazje LEGO" jako aktyw długoterminowy (grupa = zasięg organiczny, którego algorytm nie dusi tak jak fanpage).
 
 ## Paczka tygodniowa (wyjście domyślne)
@@ -25,7 +47,8 @@ Na prośbę "paczka social na tydzień" wygeneruj:
 1. 7–10 scenariuszy TikTok (hook w pierwszej sekundzie, tekst na ekranie, opis, hashtagi PL: #lego #legopolska #promocje #okazje #klocki + serie)
 2. 3 karuzele IG (treść slajd po slajdzie — wg **Zasad dobrej karuzeli** poniżej)
 3. 5 postów FB (gotowy tekst + do którego artykułu linkują)
-4. Kalendarz publikacji z godzinami (TT: 7:00/12:30/19:00; FB: 20:00–21:00 — rodzice po położeniu dzieci)
+4. 3–5 pinów Pinterest (tytuł-fraza, opis, link z UTM, tablica)
+5. Kalendarz publikacji z godzinami według rytmu tygodnia (TT: 7:00/12:30/19:00; FB: 20:00–21:00 — rodzice po położeniu dzieci)
 
 ## Zasady dobrej karuzeli (checklista przy każdej karuzeli IG)
 
