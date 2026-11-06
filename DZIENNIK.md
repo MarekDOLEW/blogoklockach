@@ -154,6 +154,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 08:55 · Skrzynka tekstów Piotra (GitHub)
+
+- Źródło: repo `tylkoklocki-teksty`, 4 artykuły + 19 zdjęć; opublikowane (commit `08b56d13`), linki wysłane, źródła ze zdjęciami w `opublikowane/`.
+- 0037 Historyczne — https://tylkoklocki.pl/artykuly/jedna-ciezarowka-trzy-pudelka-lego-2148-3442-california-truck-i-10156/
+- 0038 Premiery — https://tylkoklocki.pl/artykuly/lego-ninjago-71888-ivos-ninja-dojo-oficjalnie-3495-elementow/
+- 0039 Premiery — https://tylkoklocki.pl/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/
+- 0040 Premiery — https://tylkoklocki.pl/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/
+- Naprawione po drodze: `github-teksty.py pobierz` brał tylko `.md` (zdjęcia `NNNN_zdjecie_K.jpg` zostawały w repo → pierwszy przebieg „brak pliku”, nic nie wyszło); slug: apostrof sklejany („ivos”, nie „ivo-s”), ucięta data po przyimku znika („…-od-1”, „…-od-27”). Uwaga nieblokująca: tytuł SEO 0037 ma 61 znaków.
+
 ## 2026-11-06 · Code · Audyt 06.11 i decyzje D1–D4
 
 Audyt: `materialy/audyt-2026-11-06.md` + 6 raportów w `materialy/audyt-2026-11-06/` (commit 9d22c64d). Decyzje Marka tego samego dnia:

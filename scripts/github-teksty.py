@@ -39,7 +39,11 @@ KLON = '/tmp/tylkoklocki-teksty-automat'
 ZDALNE = 'github.com/MarekDOLEW/tylkoklocki-teksty'
 SITE = 'https://tylkoklocki.pl'
 REJESTR = os.path.join(REPO, 'redakcja', 'skrzynka.json')
-PRZYJMOWANE = re.compile(r'\.(md|zip|docx)$', re.I)
+PRZYJMOWANE = re.compile(r'\.(md|zip|docx|jpe?g|png|webp)$', re.I)
+# Zdjęcia do artykułów (NNNN_zdjecie_K.jpg) leżą obok .md — kopiujemy je razem z tekstem
+# i przenosimy razem z nim (06.11.2026: 0037–0040 przyszły z 19 zdjęciami, a `pobierz`
+# brał tylko .md, więc publikacja stanęła na „brak pliku 0037_zdjecie_1.jpg”).
+ZDJECIA = re.compile(r'\.(jpe?g|png|webp)$', re.I)
 
 
 def token():
@@ -78,7 +82,7 @@ def lista():
     if not token():
         return {'blad': 'brak GH_TEKSTY_TOKEN w środowisku — kanał GitHub nieaktywny'}
     klonuj()
-    return {'pliki': czekajace()}
+    return {'pliki': [n for n in czekajace() if not ZDJECIA.search(n)]}
 
 
 def pobierz(katalog):
@@ -101,10 +105,13 @@ def pobierz(katalog):
         elif n.lower().endswith('.md'):
             shutil.copy2(zrodlo, os.path.join(katalog, n))
             md += 1
+        elif ZDJECIA.search(n):
+            shutil.copy2(zrodlo, os.path.join(katalog, n))
         else:  # .docx — do ręcznego opracowania, jak w panelu
             shutil.copy2(zrodlo, os.path.join(katalog, '_inne_' + n))
             inne += 1
-    return {'zrodla': czekajace(), 'md': md, 'inne': inne}
+    return {'zrodla': [n for n in czekajace() if not ZDJECIA.search(n)], 'md': md, 'inne': inne,
+            'zdjecia': sum(1 for n in czekajace() if ZDJECIA.search(n))}
 
 
 def numer_tekstu(nazwa, tresc):

@@ -69,7 +69,8 @@ SLUG_STOP = {'i', 'a', 'o', 'u', 'w', 'z', 'na', 'do', 'od', 'po', 'za', 'ze', '
 
 
 def slugify(tekst, limit=70):
-    t = tekst.lower().replace('ł', 'l')
+    # apostrof sklejamy, nie rozcinamy: „Ivo's” → „ivos”, nie „ivo-s” (06.11.2026, 0038)
+    t = re.sub(r"['’`]", '', tekst.lower()).replace('ł', 'l')
     # pozostałe znaki diakrytyczne (ą, é, í…) rozkładamy na literę + akcent i akcent wyrzucamy —
     # inaczej „Família” dawała „fam-lia” (01.11.2026); ł nie ma rozkładu, stąd osobno wyżej
     t = ''.join(c for c in unicodedata.normalize('NFD', t) if unicodedata.category(c) != 'Mn')
@@ -79,7 +80,10 @@ def slugify(tekst, limit=70):
     # ucinamy na granicy słowa, żeby adres nie kończył się w pół wyrazu („…-scena-”, „…-rzad”),
     # a po ucięciu zdejmujemy wiszące spójniki/przyimki, żeby nie wyszło „…-dla-fanow-ktorzy”
     czlony = s[:limit + 1].rsplit('-', 1)[0].split('-')
-    while len(czlony) > 1 and czlony[-1] in SLUG_STOP:
+    # po ucięciu nie zostawiamy też urwanej daty: „…-od-27” z „od 27 listopada”, „…-od-1”
+    # z „od 1 stycznia” (04 i 06.11.2026) — liczba 1–2 cyfr po przyimku znika razem z nim
+    while len(czlony) > 1 and (czlony[-1] in SLUG_STOP or
+                               (len(czlony) > 2 and re.fullmatch(r'\d{1,2}', czlony[-1]) and czlony[-2] in SLUG_STOP)):
         czlony.pop()
     return '-'.join(czlony)
 
