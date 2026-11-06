@@ -33,6 +33,7 @@ import { wpisKatalogu } from './katalog.js';
 import { hubIndeksowalny, lastmodHubu, slugSerii } from './seo.js';
 import { miesiac, PROG_SETOW } from './miesiace.js';
 import { teksty, tekstySekcji } from './teksty.js';
+import { dealZakonczony } from './deal-zakonczony.js';
 
 export const STRONA = 'https://tylkoklocki.pl';
 
@@ -58,6 +59,8 @@ const zKorzenia = (t) => !/^\/(artykuly|prezentowniki|deale)\//.test(t.url);
 function zTekstow(sekcja) {
   return tekstySekcji(sekcja)
     .filter((t) => !zKorzenia(t))
+    // zakończone deale mają noindex (D12, 06.11.2026) — w mapie tylko strony bez noindex
+    .filter((t) => sekcja !== 'deale' || !dealZakonczony({ data: t.data, wazne_do: t.wazneDo }))
     .map((t) => wpis(t.url, t.lastmod));
 }
 

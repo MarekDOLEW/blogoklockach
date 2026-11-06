@@ -5,6 +5,7 @@ opis: "24 okienka z klockami: który kalendarz adwentowy LEGO pasuje do Twojego 
 seo_tytul: "Kalendarze adwentowe LEGO 2026 – który wybrać dla dziecka"
 seo_opis: "24 okienka z klockami: który kalendarz adwentowy LEGO pasuje do Twojego dziecka. Cena katalogowa 114,99 zł, porównanie cen w sklepach."
 data: "2026-08-29"
+wazne_do: "2026-12-24"
 zaktualizowano: "2026-10-30"
 kategoria: "Deal"
 dzial: "Deale"

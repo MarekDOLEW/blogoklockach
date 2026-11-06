@@ -127,6 +127,7 @@ function zMarkdownu(sciezka, modul) {
     data,
     zaktualizowano,
     lastmod: zaktualizowano || data || null,
+    wazneDo: f.wazne_do ?? null,
     kategoria: f.kategoria,
     tagi: f.tagi ?? [],
     faq: f.faq ?? [],

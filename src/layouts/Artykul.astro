@@ -1,4 +1,5 @@
 ---
+import { dealZakonczony } from '../lib/deal-zakonczony.js';
 import Base from './Base.astro';
 import Faq from '../components/Faq.astro';
 import PowiazaneArtykuly from '../components/PowiazaneArtykuly.astro';
@@ -100,12 +101,14 @@ const zaktualizowano =
 // z przebiegiem Łowcy, więc komunikat pojawia się dzień po końcu akcji.
 const waznaDo = /^\d{4}-\d{2}-\d{2}$/.test(String(frontmatter.wazne_do ?? '')) ? String(frontmatter.wazne_do) : null;
 const akcjaZakonczona = waznaDo && waznaDo < new Date().toISOString().slice(0, 10);
+// Zakończony post dealowy: noindex i poza sitemap-deale.xml (D12, 06.11.2026 — src/lib/deal-zakonczony.js)
+const dealNoindex = Astro.url.pathname.startsWith('/deale/') && dealZakonczony(frontmatter);
 
 // Własny obraz OG artykułu/prezentownika; gdy go nie ma,
 // Base.astro schodzi na wspólny /og.png.
 const ogWlasny = ogStrony(slugZeSciezki(Astro.url.pathname));
 ---
-<Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny} canonical={frontmatter.canonical ?? null}>
+<Base title={frontmatter.seo_tytul ?? frontmatter.title} description={frontmatter.seo_opis ?? frontmatter.opis} jsonld={jsonld} ogImage={ogWlasny} canonical={frontmatter.canonical ?? null} noindex={dealNoindex}>
   <article class="prose" style="margin-top:28px">
     <p>
       <span class="badge-seria">{plakietka}</span>

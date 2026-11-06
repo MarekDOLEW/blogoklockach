@@ -154,6 +154,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · D12: zakończone deale z noindex
+
+GSC 06.11: cała sekcja `/deale/` „wykryta – niezindeksowana”. Decyzja Marka: zakończone deale noindex i poza mapą. `src/lib/deal-zakonczony.js`: zakończony = po `wazne_do`, a bez niej 14 dni od `data`; `Artykul.astro` daje noindex, `sitemapy.js` pomija w `sitemap-deale.xml`. Z 20 deali 15 z noindex; w mapie: 10330, 42689, 75192, 75446 i kalendarze adwentowe (`wazne_do` 2026-12-24 — żyje do Wigilii). Deal, który ma być dłużej w Google, dostaje jawne `wazne_do`. D10 (Awin) czeka do wzrostu ruchu, D11 (boost) — osobna rozmowa.
+
 ## 2026-11-06 · Code · Firecrawl: pełne limity przywrócone
 
 Odczyt konta (C4): Hobby 5 000/mies., odnowienie 23.11, Pay-as-you-go do 20 USD/mies., 3 043 kredyty 06.11. Cięcie z D2 oszczędzałoby kredyty, które przy odnowieniu mogą przepaść — Marek: „przywróć”. `budzet-firecrawla.mjs`: pełne limity (Weryfikacja 40, karty ME 80) do 30.11, od 01.12 połowa.
