@@ -33,7 +33,7 @@ for (const [seria, lista] of Object.entries(katalog)) {
   for (const s of lista) katalogIdx.set(s.numer, { ...s, seria });
 }
 
-const maZdjecie = (nr) =>
+export const maZdjecie = (nr) =>
   Boolean(
     sety[nr]?.zdjecia?.glowne ||
       feed[nr]?.zdjecie ||

@@ -4,6 +4,7 @@ import remarkCeny from './scripts/remark-ceny.mjs';
 import remarkNazwySetow from './scripts/remark-nazwy-setow.mjs';
 import remarkLinkiSklepow from './scripts/remark-linki-sklepow.mjs';
 import remarkPodLupa from './scripts/remark-pod-lupa.mjs';
+import remarkKartyOkazji from './scripts/remark-karty-okazji.mjs';
 
 // ── Sitemapy ─────────────────────────────────────────────────────────────────
 //
@@ -31,9 +32,10 @@ export default defineConfig({
   // remarkNazwySetow stoi na końcu: pracuje na tekście, a dwa poprzednie
   // wstawiają gotowy HTML, którego nie rusza.
   // remarkLinkiSklepow: ręczne linki /idz/ w markdownie dostają nową kartę + noopener.
+  // remarkKartyOkazji: <div class="karty-okazji"> → kafelki okazji ze zdjęciem i ceną (06.11.2026).
   // remarkPodLupa stoi pierwszy: znaczniki tekstów „pod lupą” ([tabela: ceny-setu, set N])
   // zamienia na <div class="ceny-setu">, który dopiero potem renderuje remarkCeny.
-  markdown: { remarkPlugins: [remarkPodLupa, remarkGaleria, remarkCeny, remarkNazwySetow, remarkLinkiSklepow] },
+  markdown: { remarkPlugins: [remarkPodLupa, remarkGaleria, remarkKartyOkazji, remarkCeny, remarkNazwySetow, remarkLinkiSklepow] },
   // CSS wspólny (16 KB) wkładamy do HTML-a: osobny plik blokował pierwszy
   // render o jedną rundę sieci (~700 ms na 4G); dla ruchu z Google, gdzie
   // większość wizyt to jedna strona, to wygrana netto (audyt PageSpeed 7.10.2026).

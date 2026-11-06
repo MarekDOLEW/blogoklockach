@@ -154,6 +154,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 · Code · Kafelki okazji zamiast listy (BW tyg. 3)
+
+Marek o tekście Black Weeks tyg. 3: „nie da się czytać… pokazać w boxach ze zdjęciami, w 3–4 kategoriach rabatów”. Nowy plugin `scripts/remark-karty-okazji.mjs` + style `.ko-*` w `global.css`: kafelki jak w sklepie (zdjęcie, cena, rabat, kod, werdykt „gdzie najtaniej dziś”, przycisk), grupy według rabatu, wszystko liczone przy buildzie z tych samych danych co tabele. Tekst BW3 przepisany: jedna linijka wstępu, kafelki 5 zestawów z kodem, kafelki 8 zestawów, które wypadły z akcji (gdzie dziś najtaniej). Wzorzec dla kolejnych tekstów dealowych (BW tydzień 4, Black Friday).
+
 ## 2026-11-06 · Code · Tabele w artykułach = huby; 4 ceny x-kom
 
 - Marek: „tabele w artykułach powinny brać te same rzeczy i tak samo często co huby”. Nowy `src/lib/sito-ofert.js` (bez importu danych) — jedno źródło reguł dla `src/lib/oferty.js` i `scripts/remark-ceny.mjs`: data per sklep, 14 dni / `wazne_do`, podejrzany rynek, LEGO wyprzedane i EOL (z nadpisaniem przez listing), sklepy wyłączone, plakietka kodu; wiersz LEGO.com po EOL z linkiem do karty jak na hubie. Kontrola na buildzie: 125 tabel w artykułach, 125 zgodnych z hubem (sklepy i ceny). Częstotliwość: obie tabele powstają przy każdym buildzie (po każdym pushu runnera).

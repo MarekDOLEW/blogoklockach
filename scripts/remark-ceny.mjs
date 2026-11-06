@@ -268,3 +268,6 @@ export default function remarkCeny() {
     idz(drzewo);
   };
 }
+
+// Dla scripts/remark-karty-okazji.mjs — te same dane i to samo sito co tabele cen.
+export { polaczOferty, cenaKatalogowaSetu, wycofany, sety, katalogIdx, sklepy, kodyRabatowe, redirects };
