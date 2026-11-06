@@ -154,6 +154,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-06 14:55 · Skrzynka tekstów Piotra (GitHub) — 89 kart P07
+
+- Paczka 94 kart w `tylkoklocki-teksty`. 4 zablokowane — importer nie rozpoznaje numeru (6614229-2, LANDDUCK, MCPIG, PONDDUCK) i przy zasadzie „wszystko albo nic” wstrzymywały całość; odłożone do `do-poprawki/` z plikiem uwag (to zestawy bez huba). Opublikowane **89 kart** (commit `4a9e6400`), powiadomienie wysłane, źródła w `opublikowane/` (`9267e1e`).
+- 58 z 89 kart to zestawy **bez huba** `/zestaw/` (gratisy, polybagi z gazet, nagrody, BAM, L000…) — karty są w danych, ale nie są widoczne na stronie. Do decyzji: czy dla takich numerów robić huby, czy prosić Piotra, żeby ich nie opisywał.
+
 ## 2026-11-06 · Code · Kafelki okazji zamiast listy (BW tyg. 3)
 
 Marek o tekście Black Weeks tyg. 3: „nie da się czytać… pokazać w boxach ze zdjęciami, w 3–4 kategoriach rabatów”. Nowy plugin `scripts/remark-karty-okazji.mjs` + style `.ko-*` w `global.css`: kafelki jak w sklepie (zdjęcie, cena, rabat, kod, werdykt „gdzie najtaniej dziś”, przycisk), grupy według rabatu, wszystko liczone przy buildzie z tych samych danych co tabele. Tekst BW3 przepisany: jedna linijka wstępu, kafelki 5 zestawów z kodem, kafelki 8 zestawów, które wypadły z akcji (gdzie dziś najtaniej). Wzorzec dla kolejnych tekstów dealowych (BW tydzień 4, Black Friday).
