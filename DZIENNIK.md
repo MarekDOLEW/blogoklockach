@@ -153,6 +153,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-06 05:25 · SCOUT · Do zrobienia
+
+**StoneWars opublikował drugi tekst o Ideas Godzilla (21375) — „czego nie widać na karcie produktu": ukryty easter egg i szczegóły budowy, których nie ma w opisie LEGO (https://www.stonewars.de/news/lego-ideas-godzilla-21375-easter-egg-details/). Nasz tekst premierowy wyszedł 04.11, przed tym materiałem.**
+**Mamy?** — tak: https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/ — ale bez tego szczegółu.
+**Zrobić:** — przeczytać artykuł StoneWars pod adresem wyżej i dopisać do opublikowanego tekstu akapit o ukrytym easter eggu; sam artykułu nie otwierałem (budżet przebiegu), więc treści easter egga nie znam. Pozycja stała w mailu Scouta z 05.11, ale nie trafiła wtedy do dziennika — stąd wpis dziś.
+**Kto:** — Piotr (tekst)
+
 
 ## 2026-11-05 08:10 · RADAR · Do zrobienia
 

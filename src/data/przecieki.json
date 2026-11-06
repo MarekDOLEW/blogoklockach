@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-05",
+  "zaktualizowano": "2026-11-06",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -2286,6 +2286,48 @@
    "dodano": "2026-11-05",
    "uwagi": "Wpis z tabeli zbiorczej fali styczniowej Friends u StoneWars (artykul z 28.10.2026, tabela czytana 05.11.2026). LEGO pokazalo z tej fali trzy zestawy — 42709, 42718 i 42719, ktore sa u nas w sety.json — a te pozycje sa w tabeli opisane jako jeszcze nie przedstawione. Brickset na brickset.com/sets/theme-Friends/year-2027 (05.11.2026) zna tylko te trzy ujawnione, wiec tego numeru nie ma w katalogu: stad pewnosc „niska\". Elementow i ceny zrodlo nie podaje; nazwa w tabeli stoi w nawiasie ze znakiem zapytania. Nazwa polska jest tlumaczeniem roboczym nazwy niemieckiej — lego.pl moze nazwac zestaw inaczej.",
    "opis": "Druga saszetka Friends zapowiadana na styczeń 2027, prawdopodobnie z samochodem jednej z bohaterek serii. Nazwa pochodzi z tabeli niemieckiego serwisu branżowego i jest tam opatrzona znakiem zapytania, czyli to przypuszczenie, nie informacja. Elementów, ceny ani zdjęć nikt nie podał.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "77084",
+   "numer": "77084",
+   "nazwa": "P-1000",
+   "seria": "Fortnite",
+   "elementy": 1103,
+   "cena_wg_zrodla": 380,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Fortnite Januar Neuheiten 2027: P-1000 (77084) & Guaco’s Tacos (77088) bei Proshop aufgetaucht” (listing i zdjęcia pudełek u Proshopu)",
+     "url": "https://www.stonewars.de/news/lego-fortnite-januar-2027-p-1000-77084-guacos-tacos-77088/",
+     "data": "2026-11-05"
+    }
+   ],
+   "dodano": "2026-11-06",
+   "uwagi": "Dane z listingu Proshopu, opisanego przez StoneWars 05.11.2026 (artykul zmieniony 12:14): 1103 elementy, 1 minifigurka, 89,99 euro, 14+, release 01.01.2027, EOL 31.12.2028. Pewnosc „srednia\" wprost z drabiny: jedno zrodlo branzowe plus dowod w postaci listingu sklepu ze zdjeciami pudelka i oficjalnym opisem produktu. Do „wysokiej\" brakuje drugiego niezaleznego serwisu — PromoBricks o tym nie pisal (strona glowna 06.11.2026 bez tego tematu). Brickset nie ma motywu Fortnite w roczniku 2027: brickset.com/sets/theme-Fortnite/year-2027 oddaje 06.11.2026 pusta liste, wiec LEGO zestawu nie potwierdzilo. 89,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl — to nie cena katalogowa. Nazwe zostawiam w oryginale, bo to nazwa wlasna skina; niemiecki sklep zapisuje ja jako „S-1000\".",
+   "opis": "Figurka Peely’ego w stroju P-1000 — bananowy koktajl w korpusie humanoidalnego robota, wzorowany na skinie z dziesiątego sezonu Fortnite. Według listingu sklepowego 1103 elementy, jedna minifigurka, cena 89,99 euro, wiek 14+ i premiera 1 stycznia 2027. Model ma stać na podstawce z tabliczką: pokrętło z tyłu obraca głowę i odsłania drugą minę, a ramiona, palce i tors są ruchome. Zdjęcia pudełka i opis produktu pochodzą od niemieckiego sklepu, który przyjmuje już zamówienia; w sklepie LEGO zestawu nie ma, więc polskiej ceny i oficjalnego terminu na razie nie znamy.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "77088",
+   "numer": "77088",
+   "nazwa": "Guaco’s Tacos",
+   "seria": "Fortnite",
+   "elementy": 193,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Fortnite Januar Neuheiten 2027: P-1000 (77084) & Guaco’s Tacos (77088) bei Proshop aufgetaucht” (listing i zdjęcia pudełek u Proshopu)",
+     "url": "https://www.stonewars.de/news/lego-fortnite-januar-2027-p-1000-77084-guacos-tacos-77088/",
+     "data": "2026-11-05"
+    }
+   ],
+   "dodano": "2026-11-06",
+   "uwagi": "Dane z tego samego listingu Proshopu i artykulu StoneWars z 05.11.2026: 193 elementy, 0 minifigurek, 19,99 euro, 14+, release 01.01.2027, EOL 31.12.2027. Pewnosc „srednia\" — jedno zrodlo branzowe plus listing sklepu ze zdjeciami pudelka; PromoBricks o tym nie pisal. Brickset 06.11.2026 nie zna motywu Fortnite w roczniku 2027. 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl; kalibracja z fali Ninjago mowi, ze przy tej kwocie polska cena katalogowa wychodzi raczej 84,99 zl, czyli nasze zaokraglenie jest nieco nizsze.",
+   "opis": "Zestaw wystawowy z taco o wielkich oczach, wzorowany na skinie Guaco z Fortnite. Według listingu sklepowego 193 elementy, bez minifigurek, cena 19,99 euro, wiek 14+ i premiera 1 stycznia 2027. Skorupę taco można rozchylić — w środku kryje się miniaturowa scenka restauracji z maskotką. To ten sam pomysł, co wcześniejsze Durrr Burger i głowa pomidora z tej serii. Zdjęcia i opis pochodzą od niemieckiego sklepu, który przyjmuje zamówienia; LEGO zestawu jeszcze nie pokazało.",
    "rozstrzygniecie": null
   }
  ]
