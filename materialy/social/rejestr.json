@@ -8,7 +8,7 @@
    "zarchiwizowane",
    "zostaje"
   ],
-  "zaktualizowano": "2026-11-04"
+  "zaktualizowano": "2026-11-06"
  },
  "wpisy": [
   {
@@ -131,6 +131,109 @@
    },
    "stan": "zostaje",
    "uwagi": ""
+  },
+  {
+   "id": "2026-10-1x-posty-powitalne",
+   "data": "2026-10-15",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "post",
+   "temat": "Posty powitalne",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "",
+    "powod": "bez ceny — może zostać",
+    "przypomnienie": ""
+   },
+   "stan": "zostaje",
+   "uwagi": "Dopisane 06.11 z odczytu Meta Business Suite (C6); dokładna data do potwierdzenia."
+  },
+  {
+   "id": "2026-10-16-rolka-najwieksze-sw",
+   "data": "2026-10-16",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "rolka",
+   "temat": "Największe zestawy Star Wars",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "",
+    "powod": "ranking bez ceny dnia — może zostać, jeśli w rolce nie ma cen",
+    "przypomnienie": ""
+   },
+   "stan": "zostaje",
+   "uwagi": "Dopisane 06.11 z MBS (C6). Najlepszy zasięg: FB 138 wyświetleń / 123 widzów, IG zasięg 19. Sprawdzić, czy rolka nie pokazuje cen."
+  },
+  {
+   "id": "2026-10-18-rolka-tower-bridge",
+   "data": "2026-10-18",
+   "platformy": [
+    "instagram"
+   ],
+   "format": "rolka",
+   "temat": "Tower Bridge za 899 zł",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "2026-11-01",
+    "powod": "okazja z ceną — 14 dni",
+    "przypomnienie": ""
+   },
+   "stan": "do archiwizacji",
+   "uwagi": "Dopisane 06.11 z MBS (C6); termin minął 01.11 — do zdjęcia."
+  },
+  {
+   "id": "2026-10-xx-rolka-pokeball",
+   "data": "2026-10-17",
+   "platformy": [
+    "instagram"
+   ],
+   "format": "rolka",
+   "temat": "Pokéball",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "",
+    "powod": "do sprawdzenia: czy jest cena (wtedy okazja, 14 dni)",
+    "przypomnienie": ""
+   },
+   "stan": "opublikowane",
+   "uwagi": "Dopisane 06.11 z MBS (C6), zasięg 13; data i treść do potwierdzenia."
+  },
+  {
+   "id": "2026-10-xx-post-charizard",
+   "data": "2026-10-17",
+   "platformy": [
+    "instagram",
+    "facebook"
+   ],
+   "format": "post",
+   "temat": "Charizard",
+   "zestawy": [],
+   "link": "",
+   "pliki": "",
+   "zrobione_w": "Cowork (Mac)",
+   "archiwizacja": {
+    "termin": "",
+    "powod": "do sprawdzenia: czy jest cena (wtedy okazja, 14 dni)",
+    "przypomnienie": ""
+   },
+   "stan": "opublikowane",
+   "uwagi": "Dopisane 06.11 z MBS (C6); data i treść do potwierdzenia."
   }
  ]
 }
