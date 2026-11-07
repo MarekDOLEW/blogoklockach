@@ -13,6 +13,8 @@ DeLorean z „Powrotu do przyszłości” miał już w LEGO kilka wcieleń, od z
 
 Zestaw trafił do sprzedaży 1 stycznia 2026 roku. Składa się z 357 elementów, ma oznaczenie 9+ i zawiera dwie minifigurki: Marty'ego McFly'a i doktora Emmetta Browna. Gotowy samochód ma około 17 cm długości, 7 cm szerokości i 10 cm wysokości. W sklepie LEGO zestaw kosztuje obecnie 114,99 zł.
 
+<div class="galeria-setow" data-set="77256"></div>
+
 ## Najdokładniejszy DeLorean w tej skali
 
 Najmocniejszą stroną zestawu jest sam samochód. Recenzenci są zgodni, że to najczystsza i najwierniejsza wersja wehikułu czasu w skali Speed Champions, a część z nich uznaje ją wręcz za najlepszego DeLoreana, jakiego LEGO wypuściło. Model dostał nowy element maski, srebrno-szare boki dobrze udają nierdzewną stal, a giętkie elementy wzdłuż karoserii przekonująco odwzorowują przewody. Szczególnie dopracowany jest tył auta z reaktorem i aparaturą, który w recenzjach wymienia się jako miejsce najciekawszych rozwiązań konstrukcyjnych.
