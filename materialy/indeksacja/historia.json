@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia. Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia). Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-06"
+  "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia (zgloszenia), oraz ostatni odczyt stanu z URL Inspection API per adres (stany: v = werdykt, s = coverageState, c = ostatni crawl, d = dzień odczytu; od 06.11.2026). Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia); adresu z PASS nie sprawdza przez 30 dni. Plik generowany — nie edytować ręcznie.",
+  "zaktualizowano": "2026-11-07"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -342,6 +342,2185 @@
    "https://tylkoklocki.pl/zestaw/71829/",
    "https://tylkoklocki.pl/zestaw/71850/",
    "https://tylkoklocki.pl/nowosci/wrzesien-2026/"
+  ],
+  "2026-11-07": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/artykuly/jedna-ciezarowka-trzy-pudelka-lego-2148-3442-california-truck-i-10156/",
+   "https://tylkoklocki.pl/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/",
+   "https://tylkoklocki.pl/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/",
+   "https://tylkoklocki.pl/artykuly/lego-ninjago-71888-ivos-ninja-dojo-oficjalnie-3495-elementow/",
+   "https://tylkoklocki.pl/zestaw/75402/",
+   "https://tylkoklocki.pl/zestaw/75439/",
+   "https://tylkoklocki.pl/zestaw/76442/",
+   "https://tylkoklocki.pl/zestaw/77240/",
+   "https://tylkoklocki.pl/zestaw/10478/",
+   "https://tylkoklocki.pl/zestaw/10480/",
+   "https://tylkoklocki.pl/zestaw/10713/",
+   "https://tylkoklocki.pl/zestaw/11207/",
+   "https://tylkoklocki.pl/zestaw/11209/",
+   "https://tylkoklocki.pl/zestaw/11211/"
   ]
+ },
+ "stany": {
+  "https://tylkoklocki.pl/aktualnosci/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-30727-tie-advanced-gratis-lego-pl-listopad-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-42646-pokoj-autumn-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-42676-frajda-w-parku-wodnym-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-60478-betoniarka-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-6391-cargo-center-historia/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-75421-mysliwiec-tie-dartha-vadera-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-daft-punk-ideas-zapowiedz/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-dc-2027-batmobile-joker-daily-planet/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-friends-2027-pierwsze-zestawy-galeria-heartlake/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-marvel-67005-doctor-strange-supreme-premiera-2027/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-minecraft-21276-creeper-duza-zielona-figurka-dla-fanow-ktorzy/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-ninjago-styczen-2027-przecieki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-paradisa-historia-serii/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/ulice-miasta-lego-jak-plyty-drogowe-zmienialy-sie-od-1978-roku-do-dzis/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-3/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/city/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/education/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/friends/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/horizon-adventures/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/marvel/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/one-piece/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/star-wars/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/the-lego-movie/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/deale/deal-42689-domek-klubu-heartlake-minimum/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/deale/deal-75446-grogu-uczen-mandalorianina-minimum/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/promocje-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/wrzesien-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75443/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10476/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11036/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11208/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21273/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21357/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21585/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21586/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31161/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31380/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42179/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42202/": {
+   "v": "NEUTRAL",
+   "s": "Crawled - currently not indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42675/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42681/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42689/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43249/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43270/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43282/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60316/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60451/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60464/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60493/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60503/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71829/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71850/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75408/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75410/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75449/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76308/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76320/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77242/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10425/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10427/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10446/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10447/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10458/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10464/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10469/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10472/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10473/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11200/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11206/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42199/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71808/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10465/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42205/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/ekskluzywne/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/kalendarz-promocji-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/o-nas/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/przecieki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/wycofania/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zapowiedzi-lego-2027/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/allegro-black-weeks-2026-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/historia-licencji-lego-gry-sport-lifestyle/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-14",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/historia-licencji-lego-poczatki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/historia-licencji-lego-star-wars-minecraft/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-22",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/jak-rosly-zestawy-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-22",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/jedna-ciezarowka-trzy-pudelka-lego-2148-3442-california-truck-i-10156/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-11381-jaguar-e-type-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-23",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-11388-wenecka-okolica-premiera/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-11390-dragon-ball-shenron-goku-premiera/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-11505-grzyby-lesne-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-21372-la-catrina-deal/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-31163-psotny-kot-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-31168-sredniowieczny-zamek-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-42215-koparka-volvo-ec500-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-08-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-42650-sklep-z-akcesoriami-dla-zwierzat-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-60447-gorska-terenowka-4x4-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-60508-napad-na-policyjny-pociag-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-14",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-71858-kuznia-cztery-bronie-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-75434-droid-straznik-k-2so-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-75438-popiersie-yody-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-75457-executor-przed-premiera/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-76355-batmobil-powrot-batmana/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-76467-dom-luny-lovegood-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-77242-bolid-f1-ferrari-sf-24-recenzja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-bam-halloween-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-14",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-bam-pazdziernik-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-15",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-city-czerwiec-2026-fala/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-insiders-nowe-zasady-nagrod/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-jesien-swieta-2026-premiery/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-14",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-ninjago-71888-ivos-ninja-dojo-oficjalnie-3495-elementow/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-pokemon-premiera/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-star-wars-styczen-2027-przecieki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-super-mario-2027-minifigurki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/media-expert-kod-lego-pazdziernik-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego-rynek-wtorny/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-14",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/najdrozsze-zestawy-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/najlepsze-oferty-lego-wrzesien-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-star-wars/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/najwieksze-zestawy-lego-technic/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/porownanie-cztery-zamki-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/ranking-kalendarze-adwentowe-lego-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-13",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/ranking-najlepsze-samochody-lego-icons/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/slowniczek-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/wycofania-lego-grudzien-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-aplikacja-weekend-lego-pazdziernik-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-wyzsza-szkola-rabatu-2026-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-na-rozpoczecie-roku-szkolnego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-batman/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-botanicals/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-city/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-dla-7-latka/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-duplo/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-friends/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-harry-potter/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-icons/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-marvel/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-minecraft/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-ninjago/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-speed-champions/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-star-wars/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-technic/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-15",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/lego-za-200-zl-dla-10-latka/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-08-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/na-mikolaja/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/prezenty-pod-choinke/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-24",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/swieta-dla-doroslych/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/swieta-dla-dzieci/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/swieta-licencje/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/prezentowniki/wedlug-budzetu/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-15",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/animal-crossing/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/architecture/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/archiwalne/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/archiwum/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/art/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/batman/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/bionicle/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/bluey/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/botanicals/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/brickheadz/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/bricklink-designer-program/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/castle/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/classic/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/creator/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/dc/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/dimensions/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/disney/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/dots/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/dreamzzz/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/duplo/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/editions/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/ekskluzywne-i-promocyjne/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/elves/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/f1/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/fortnite/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/gadzety/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/harry-potter/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/hero-factory/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/hidden-side/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/icons/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/ideas/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/juniors/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-18",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/jurassic-world/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/koci-domek-gabi/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/kpop-demon-hunters/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/legends-of-chima/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/looney-tunes/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/minecraft/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/minifigurki/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/mixels/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/monkie-kid/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/nexo-knights/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-18",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/nike-x-lego/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/ninjago/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/pirates/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-21",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/playstation/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/pokemon/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/power-functions/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/racers/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/seasonal/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-25",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/shrek/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/smart-play/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/sonic/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/space/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/speed-champions/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/super-mario/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/technic/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/the-hobbit-and-lord-of-the-rings/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/the-legend-of-zelda/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/vidiyo/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/wednesday/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-19",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/serie/wicked/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/czerwiec-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/kwiecien-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/lipiec-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/listopad-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-23",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/luty-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-23",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/maj-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/marzec-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-16",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/pazdziernik-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-23",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/sierpien-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/styczen-2026/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/nowosci/styczen-2027/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-23",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10313/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10328/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10348/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/40460/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/40725/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60443/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10342/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10344/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-13",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10349/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10353/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10363/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10369/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-24",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10428/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-24",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10471/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10475/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11504/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-13",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11508/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21268/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-13",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/21362/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31146/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31147/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31163/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31165/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31170/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31173/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31174/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31379/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31381/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31384/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/31385/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/40638/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/40647/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-26",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/40743/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42218/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42663/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42684/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-27",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42686/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42688/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-31",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42692/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42695/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/42696/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43217/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43257/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43268/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43271/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43286/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/43287/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60337/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60415/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60442/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60445/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60447/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-13",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60454/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60455/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60479/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60486/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60488/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60499/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60500/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/60504/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-20",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71830/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71831/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71834/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71836/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71857/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/71859/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/72036/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75328/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75372/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75402/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75438/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/75439/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76336/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76341/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76442/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76444/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76445/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76446/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76467/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/76969/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-06",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77240/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77243/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77244/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77245/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77248/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77250/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/77251/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10281/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10311/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10315/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10329/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10330/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10343/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10347/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10358/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10359/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10368/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10374/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-05",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10412/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-24",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10421/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10426/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10442/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10445/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-29",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10448/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10451/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10453/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-04",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10459/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10467/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-30",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10468/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-02",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10470/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10474/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10478/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10480/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10713/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10941/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/10954/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11039/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11041/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11045/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11198/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11207/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11209/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-07"
+  },
+  "https://tylkoklocki.pl/zestaw/11211/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-07"
+  }
  }
 }
