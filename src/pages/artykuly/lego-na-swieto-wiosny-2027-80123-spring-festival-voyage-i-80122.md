@@ -4,9 +4,10 @@ title: "LEGO na Święto Wiosny 2027 – 80123 Spring Festival Voyage i 80122 Au
 opis: "LEGO 80123 Spring Festival Voyage i 80122 Auspicious Pixiu trafią do sprzedaży 1 stycznia 2027 roku. Jest też upominek 40976 – sprawdź szczegóły."
 seo_tytul: "LEGO na Święto Wiosny 2027 – 80123 i 80122"
 data: "2026-11-06"
+zaktualizowano: "2026-11-07"
 kategoria: "Premiery"
-okladka: "/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/1.webp"
 okladka_alt: "LEGO 80123 Spring Festival Voyage – świąteczny statek z minifigurkami"
+okladka: "80123"
 zestawy: ["80123", "80122", "40976"]
 ---
 
@@ -19,14 +20,14 @@ Większy z nich, 80123 Spring Festival Voyage, składa się z 1529 elementów i 
 ![LEGO 80123 Spring Festival Voyage – świąteczny statek z minifigurkami](/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/1.webp)
 Zestaw 80122 Auspicious Pixiu Under Fortune Tree liczy 879 elementów. Przedstawia pixiu – mityczne stworzenie, które w chińskiej tradycji strzeże bogactwa – obok drzewka szczęścia. Figurkę można ustawiać w różnych pozach. Monety zdjęte z drzewka można „nakarmić” pixiu, które przechowuje je w brzuchu, dopóki nie wrócą na drzewko. Model ma około 21 cm wysokości, 23 cm szerokości i 21 cm głębokości.
 
-![LEGO 80122 Auspicious Pixiu Under Fortune Tree – pixiu pod drzewkiem szczęścia](/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/2.webp)
-Polskie nazwy i ceny katalogowe nie zostały jeszcze opublikowane. Zestawów nie ma na razie na liście „Wkrótce” w polskim sklepie LEGO. Na rynku australijskim mają kosztować 149,99 dolarów australijskich (80123) i 109,99 dolarów australijskich (80122).
+![LEGO 80122 Pixiu pod drzewkiem szczęścia](/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/2.webp)
+Zestaw 80122 jest już na liście „Wkrótce dostępne” w polskim sklepie LEGO jako Pixiu pod drzewkiem szczęścia, w cenie 299,99 zł. Zestawu 80123 nie ma jeszcze w polskim sklepie, więc jego polska nazwa i cena nie są znane. Na rynku australijskim kosztuje 149,99 dolarów australijskich.
 
 ## Upominek 40976 Prosperity Lion
 
-Zestaw 40976 Prosperity Lion to figurka lwa z noworocznych tańców, złożona z 411 elementów i wysoka na około 14 cm. LEGO przedstawia go jako upominek przy zakupie, ale nie podało jeszcze progu zakupowego, terminu ani rynków, na których będzie dostępny. Ma to być pierwszy upominek LEGO w 2027 roku.
+Zestaw 40976 Prosperity Lion to figurka lwa z noworocznych tańców, złożona z 411 elementów i wysoka na około 14 cm. LEGO przedstawia go jako upominek przy zakupie, ale nie podało jeszcze progu zakupowego, terminu ani rynków, na których będzie dostępny. Jednocześnie polski sklep LEGO pokazuje go na liście „Wkrótce dostępne” jako Lew dobrobytu, w cenie 126,99 zł. LEGO nie wyjaśniło jeszcze, czy zestaw będzie upominkiem, zwykłym zestawem w sprzedaży, czy jednym i drugim.
 
-![Pudełko upominku LEGO 40976 Prosperity Lion](/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/3.webp)
+![Pudełko zestawu LEGO 40976 Lew dobrobytu (Prosperity Lion)](/zdjecia/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/3.webp)
 [sprawdź aktualne ceny LEGO 80123](/zestaw/80123/)
 
 [sprawdź aktualne ceny LEGO 80122](/zestaw/80122/)
