@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-06",
+  "zaktualizowano": "2026-11-07",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -1653,12 +1653,21 @@
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Ninjago 71888 Ivo’s Ninja Dojo offiziell vorgestellt & vorbestellbar” oraz karta zestawu na Bricksecie (3495 elementów, 279,99 euro)",
+     "url": "https://www.stonewars.de/news/lego-ninjago-71888-ivos-ninja-dojo-vorstellung/",
+     "data": "2026-11-06"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "3495 elementow — przy potwierdzeniu najwiekszy zestaw Ninjago w historii serii. Ceny brak, nazwa ze znakiem pytania. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
+   "uwagi": "3495 elementow — przy potwierdzeniu najwiekszy zestaw Ninjago w historii serii. Ceny brak, nazwa ze znakiem pytania. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO. 07.11.2026: ROZSTRZYGNIETE jako „zmieniony\" — numer i 3495 elementow trafione dokladnie, ale termin przesuniety z 2027-03 na 2027-01, czyli poza tolerancje +/-1 miesiaca z _meta.wynik. Ceny przeciek nie podawal, wiec nie bylo czego porownac. Zestaw dopisany do sety.json w tym samym przebiegu.",
    "opis": "Zdecydowanie największy zestaw w całym zapowiadanym roczniku Ninjago: 3495 elementów, premiera w marcu 2027. Ceny nikt nie podaje, a nazwę źródło stawia ze znakiem zapytania. Przy tej wielkości byłby to rekord serii, więc do potwierdzenia trzeba traktować liczbę ostrożnie.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-07",
+    "wynik": "zmieniony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 6 listopada 2026 i numer oraz liczba elementów zgadzają się z przeciekiem co do sztuki: 71888 i 3495 elementów. Zmienił się termin — sprzedaż startuje 1 stycznia 2027, dwa miesiące wcześniej niż zapowiadany marzec. Doszły dane, których przeciek nie miał: 279,99 euro, wiek 14+, dwanaście minifigurek i pełna nazwa Dojo ninja Mistrza Ivo."
+   }
   },
   {
    "id": "71891",
