@@ -618,9 +618,9 @@
  "21594": {
   "nazwa": "Szkielet",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 119.6,
-  "najnizsza_data": "2026-10-20",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 119,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77982": {
   "nazwa": "Ucieczka spinozaura",
@@ -632,8 +632,8 @@
  "75645": {
   "nazwa": "Bitwa pod zamkiem Drum",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 292.16,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 289,
+  "najnizsza_data": "2026-11-07",
   "najnizsza_sklep": "allegro"
  },
  "77120": {
@@ -835,9 +835,9 @@
  "77079": {
   "nazwa": "Pomidorek",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 39.99,
-  "najnizsza_data": "2026-11-05",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 39,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "mediaexpert"
  },
  "43017": {
   "nazwa": "Kask Oscar Piastri McLaren Mastercard F1 Team",
@@ -1514,9 +1514,9 @@
  "72161": {
   "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 145.99,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 119,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "mediaexpert"
  },
  "72156": {
   "nazwa": "SMART Play: zestaw startowy",
@@ -2708,8 +2708,8 @@
  "72306": {
   "nazwa": "PlayStation",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 619.1,
-  "najnizsza_data": "2026-11-06",
+  "najnizsza_cena": 599.99,
+  "najnizsza_data": "2026-11-07",
   "najnizsza_sklep": "allegro"
  },
  "10315": {
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 78.38,
-  "najnizsza_data": "2026-11-06",
+  "najnizsza_cena": 78.18,
+  "najnizsza_data": "2026-11-07",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3485,9 +3485,9 @@
  "76470": {
   "nazwa": "Zaczarowany latający Ford Anglia",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 189,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 188.99,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "allegro"
  },
  "10449": {
   "nazwa": "Pierwszy raz: wizyta u lekarza",
@@ -3751,8 +3751,8 @@
  "75388": {
   "nazwa": "Myśliwiec rycerza Jedi Boba",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 144.9,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 144,
+  "najnizsza_data": "2026-11-07",
   "najnizsza_sklep": "allegro"
  },
  "10474": {
@@ -5432,8 +5432,8 @@
  "10414": {
   "nazwa": "Codzienne czynności - jedzenie",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79,
-  "najnizsza_data": "2026-11-04",
+  "najnizsza_cena": 78.98,
+  "najnizsza_data": "2026-11-07",
   "najnizsza_sklep": "allegro"
  },
  "42212": {
@@ -5677,9 +5677,9 @@
  "11506": {
   "nazwa": "Bujające się roślinki",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 49.99,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 49.94,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "allegro"
  },
  "42641": {
   "nazwa": "Przygoda z surfującymi psami i skuterem",
@@ -6414,9 +6414,9 @@
  "75446": {
   "nazwa": "Grogu (uczeń Mandalorianina)",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 299,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 298,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "allegro"
  },
  "75407": {
   "nazwa": "Logo Star Wars zbudowane z klocków",
