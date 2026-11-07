@@ -153,6 +153,10 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-07 · Code · Media Expert: zakup testowy przypisany; 11 konwersji pending od IX
+
+Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwersja pending (4,67 zł, aff_sub `Partner_ID` — kupione przed `65b65789`). `getStats` liczy tylko zatwierdzone; `getConversions` pokazuje od 03.09 **11 konwersji pending: 14 410,90 zł sprzedaży, 276,24 zł prowizji** (16.10: 9 998 zł → 199,96 zł). Wniosek audytu „ME 0 konwersji” odwołany. `scripts/prowizje-raport.mjs` dostał `konwersje_wg_statusu`; rejestr afiliacji i audyt poprawione. Sprawdzenie 09.11 niepotrzebne.
 ## 2026-11-07 08:15 · RADAR · Do zrobienia
 
 **faniklockow.pl · 06.11** — Zapowiedzieli listopadowe „Zbuduj i Zabierz": mikromodel **tramwaju** skladany na miejscu w salonach LEGO **18–19.11, 15:00–17:00**, ograniczona liczba sztuk, akcja przy okazji otwarcia flagowego salonu LEGO w Pradze.

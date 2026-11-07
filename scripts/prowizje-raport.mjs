@@ -183,7 +183,25 @@ async function performers() {
   const suma = wiersze.reduce((s, w) => s + (Number(w?.Stat?.payout) || 0), 0);
   const konw = wiersze.reduce((s, w) => s + (Number(w?.Stat?.conversions) || 0), 0);
   const kliki = wiersze.reduce((s, w) => s + (Number(w?.Stat?.clicks) || 0), 0);
-  return { stan: 'ok', kliki, konwersje: konw, prowizja_pln: Math.round(suma * 100) / 100 };
+  // getStats liczy tylko konwersje ZATWIERDZONE (07.11.2026: zakup testowy Marka 11505 z 06.11
+  // i transakcja z 01.11 były w getConversions jako „pending”, a getStats pokazywał 0) —
+  // więc „0 konwersji ME” w raportach z X 2026 znaczyło „0 zatwierdzonych”. Statusy bierzemy
+  // z getConversions (filtr dat, bo data_start/data_end to API odrzuca).
+  const konwUrl = `https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&Target=Affiliate_Report&Method=getConversions&api_key=${klucz}`
+    + '&fields[]=Stat.datetime&fields[]=Stat.conversion_status&fields[]=Stat.sale_amount&fields[]=Stat.payout&limit=500'
+    + `&filters[Stat.date][conditional]=BETWEEN&filters[Stat.date][values][]=${iso(od).slice(0, 10)}&filters[Stat.date][values][]=${new Date().toISOString().slice(0, 10)}`;
+  const statusy = {};
+  try {
+    const rk = (await (await fetch(konwUrl)).json())?.response;
+    for (const w of rk?.status === 1 && Array.isArray(rk.data?.data) ? rk.data.data : []) {
+      const st = w?.Stat?.conversion_status ?? '?';
+      statusy[st] ??= { liczba: 0, sprzedaz_pln: 0, prowizja_pln: 0 };
+      statusy[st].liczba += 1;
+      statusy[st].sprzedaz_pln = Math.round((statusy[st].sprzedaz_pln + (Number(w.Stat.sale_amount) || 0)) * 100) / 100;
+      statusy[st].prowizja_pln = Math.round((statusy[st].prowizja_pln + (Number(w.Stat.payout) || 0)) * 100) / 100;
+    }
+  } catch { /* brak statusów nie psuje reszty raportu */ }
+  return { stan: 'ok', kliki, konwersje: konw, prowizja_pln: Math.round(suma * 100) / 100, konwersje_wg_statusu: statusy, uwaga: 'konwersje/prowizja_pln = tylko zatwierdzone (getStats); oczekujące w konwersje_wg_statusu' };
 }
 
 wynik.sieci.adtraction = await adtraction();
