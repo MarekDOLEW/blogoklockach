@@ -154,6 +154,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-07 14:55 · Skrzynka tekstów Piotra (GitHub)
+
+- 3 pliki + 7 zdjęć; opublikowane (commit `95c20af1`), linki wysłane, źródła w `opublikowane/`.
+- 0039 i 0040 — nowe wersje już opublikowanych premier (te same adresy): https://tylkoklocki.pl/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/ , https://tylkoklocki.pl/artykuly/lego-na-swieto-wiosny-2027-80123-spring-festival-voyage-i-80122/
+- Recenzje_018 77256 Wehikuł czasu — https://tylkoklocki.pl/artykuly/lego-77256-wehikul-czasu-z-powrotu-do-przyszlosci-recenzja/
+
 ## 2026-11-07 · Code · Media Expert: zakup testowy przypisany; 11 konwersji pending od IX
 
 Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwersja pending (4,67 zł, aff_sub `Partner_ID` — kupione przed `65b65789`). `getStats` liczy tylko zatwierdzone; `getConversions` pokazuje od 03.09 **11 konwersji pending: 14 410,90 zł sprzedaży, 276,24 zł prowizji** (16.10: 9 998 zł → 199,96 zł). Wniosek audytu „ME 0 konwersji” odwołany. `scripts/prowizje-raport.mjs` dostał `konwersje_wg_statusu`; rejestr afiliacji i audyt poprawione. Sprawdzenie 09.11 niepotrzebne.
