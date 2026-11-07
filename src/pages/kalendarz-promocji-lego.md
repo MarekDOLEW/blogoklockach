@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-06"
+zaktualizowano: "2026-11-07"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -31,6 +31,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">6.10, 17:00</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#bldp"><b>BrickLink Designer Program, seria 9</b> – pięć zestawów tylko na Bricklinku, poza LEGO.com i poza promocjami</a></li>
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
+<li><span class="okna__data">18–19.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>„Zbuduj i Zabierz" z mikromodelem tramwaju</b> – listopadowy odpowiednik wrześniowej akcji, 15:00–17:00 w salonach, ograniczona liczba sztuk</a></li>
 <li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
 <li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta, trzecie okno punktowe i 323 wycofania</b> – ostatnie terminy dostaw przed Wigilią, spodziewane podwójne punkty i ostatni miesiąc tych zestawów w LEGO.com</a></li>
 </ul>
@@ -364,7 +365,7 @@ Jedyna kampania sklepu zewnętrznego, która obejmuje cały nasz szczyt sezonu. 
 
 Kampania trwa miesiąc, ale to nie znaczy, że przez miesiąc wszystko jest tańsze. Rabaty dają poszczególni sprzedający na wybrane oferty, a promocje zmieniają się w trakcie kampanii. Ceny LEGO z Allegro śledzimy w tabelach na podstronach zestawów, więc rabat widać tam od razu, liczony od ceny katalogowej, a nie od ceny „przed promocją”.
 
-W ten sam miesiąc wpada jedno wydarzenie stacjonarne – prywatne zakupy w salonach 14 listopada, z zapisami, które już trwają. Opisujemy je w [sekcji wydarzeń](#wydarzenia), bo z cenami nie ma nic wspólnego.
+W ten sam miesiąc wpadają dwa wydarzenia stacjonarne – prywatne zakupy w salonach 14 listopada, z zapisami, które już trwają, oraz „Zbuduj i Zabierz" z mikromodelem tramwaju 18–19 listopada. Opisujemy je w [sekcji wydarzeń](#wydarzenia), bo z cenami nie mają nic wspólnego.
 
 Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat" wyglądał lepiej. My liczymy każdy rabat **od oficjalnej ceny katalogowej LEGO** – sprawdzisz to na podstronie każdego zestawu, a bieżące realne okazje znajdziesz na [stronie głównej](/).
 
@@ -430,6 +431,15 @@ i miejsce, a nie cena: akcje w salonach stacjonarnych i wymiany na stanowiskach
 Build a Minifigure. Jeśli nie masz salonu w mieście, całą tę sekcję możesz
 pominąć.
 
+**18–19 listopada: „Zbuduj i Zabierz" z mikromodelem tramwaju.** Listopadowy
+odpowiednik wrześniowej akcji z popiersiem Batmana: model składany na miejscu
+w salonach LEGO w godzinach 15:00–17:00, w ograniczonej liczbie sztuk – kto
+pierwszy, ten lepszy. Tramwaj nie jest przypadkowy: akcja wiąże się z otwarciem
+flagowego salonu LEGO w Pradze. Termin mamy z jednego źródła branżowego, a na
+stronach LEGO.pl nie ma dziś żadnej listy wydarzeń w salonach (adres
+lego.com/pl-pl/stores/events zwraca błąd 404, sprawdzone 7.11), więc przed
+wyjazdem potwierdź w swoim salonie. <span class="status status--maybe">przewidywane</span>
+
 **14 listopada (sobota): prywatne zakupy.** O 8:00 lub 9:00, zależnie od miasta,
 każdy polski LEGO Store otwiera się godzinę wcześniej dla zapisanej grupy –
 według serwisu branżowego około piętnastu osób na salon, a zapisy ruszyły
@@ -451,9 +461,9 @@ akurat stoi w pojemnikach. <span class="status status--ok">potwierdzone</span>
 
 **16–17 września: „Zbuduj i Zabierz" z popiersiem Batmana.** Mikromodel składany
 na miejscu w godzinach 15:00–17:00, w ograniczonej liczbie sztuk – kto pierwszy,
-ten lepszy. Akcja już się odbyła; zostawiamy ją, bo pokazuje wzorzec: takie
-eventy trwają dwie godziny, dotyczą wyłącznie salonów i nie mają odpowiednika
-online. <span class="status status--ok">zakończone</span>
+ten lepszy. Akcja już się odbyła; zostawiamy ją, bo pokazuje wzorzec, który powtarza się
+w listopadzie (tramwaj 18–19.11): takie eventy trwają dwie godziny, dotyczą
+wyłącznie salonów i nie mają odpowiednika online. <span class="status status--ok">zakończone</span>
 
 <h2 id="jak-kupowac">Jak wycisnąć z tego kalendarza maksimum</h2>
 

@@ -153,6 +153,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-07 08:15 · RADAR · Do zrobienia
+
+**faniklockow.pl · 06.11** — Zapowiedzieli listopadowe „Zbuduj i Zabierz": mikromodel **tramwaju** skladany na miejscu w salonach LEGO **18–19.11, 15:00–17:00**, ograniczona liczba sztuk, akcja przy okazji otwarcia flagowego salonu LEGO w Pradze.
+**Mamy?** — nie mieliśmy, a kalendarz sam to obiecywał: wrześniową akcję z popiersiem Batmana zostawialiśmy w tekście „bo pokazuje, czego spodziewać się po jej listopadowym odpowiedniku" — i gdy odpowiednik się pojawił, przyszedł do nas od konkurencji.
+**Zrobić:** — zrobione w tym przebiegu: akapit w sekcji wydarzeń (nad 14.11), pozycja w „Co trwa teraz" i poprawka akapitu o listopadzie, który mówił o **jednym** wydarzeniu stacjonarnym. Weryfikacja u źródła nie wyszła i jest to w tekście napisane: `lego.com/pl-pl/stores/events` zwraca 404, LEGO nie prowadzi publicznej listy wydarzeń w salonach — więc status „przewidywane" i zastrzeżenie, żeby potwierdzić w salonie.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl + fanklockow.pl · 06.11** — Oba serwisy publikują huby rocznika 2027 seria po serii (wczoraj Icons i zbiorczy, dziś Botanicals, Ninjago, okazjonalne/specjalne, One Piece) — to ich temat tygodnia.
+**Mamy?** — częściowo, i luka nie jest w danych, tylko w przepisaniu ich na stronę: `/zapowiedzi-lego-2027/` ma datę aktualizacji 29.10 i nie wymienia **ani jednego** z dziesięciu zestawów Botanicals 2027 z `sety.json` (11515, 11516, 11519, 11522, 11532–11537), ani trzech Seasonal (40976, 80122, 80123), ani 42254 Technic, ani 11227 Koci Domek Gabi. Friends (42709, 42718, 42719) i Zelda 77094 na stronie są.
+**Zrobić:** — uzupełnić `/zapowiedzi-lego-2027/` o serie, które mamy w rejestrze, a których na stronie nie ma (Botanicals, Seasonal, Technic 42254, Koci Domek Gabi 11227, Ninjago 71888), i odnotować regułę: dopisanie rocznika 2027 do `sety.json` pociąga aktualizację tej strony, bo dziś nic tego nie wiąże.
+**Kto:** — Code (dane, strona)
+
+**promoklocki.pl · 07.11** — Ich indeks ma karty trzech zestawów rocznika 2027, których nie ma w naszym rejestrze: **42717** Friends Rodzinny domek, **77084** i **77088** Fortnite (dwa ostatnie widziałem u nich już 05.11 i wtedy tego nie zapisałem).
+**Mamy?** — nie: żaden z tych numerów nie wystepuje w `src/data/sety.json` ani w `katalog.json`; serii Fortnite 2027 nie ma też na `/zapowiedzi-lego-2027/`.
+**Zrobić:** — sprawdzić u źródła (karty lego.com/pl-pl albo Brickset) i dopisać 42717, 77084 i 77088 do `src/data/sety.json`, razem z wpisami w `ceny_baza.json` — bez nich zestaw nie ma śledzonego minimum ani alertów.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-07 05:25 · SCOUT · Do zrobienia
 
 **Tekst `/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/` mówi o sześciu małych zestawach kwiatów (11532–11537): „LEGO nie podało jeszcze ich cen". Brickset podaje dla wszystkich sześciu RRP 4,99 euro i 4,99 dolara — to pierwsza seria kolekcjonerska w Botanicals, wszystkie w jednej cenie.**
