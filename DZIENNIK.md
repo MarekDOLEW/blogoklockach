@@ -187,6 +187,7 @@ Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwe
 **Mamy?** — częściowo: huby wszystkich sześciu zestawów stoją od dziś z liczbami elementów i ceną w euro, ale artykuł mówi, że ceny nie ma.
 **Zrobić:** — poprawić w tym tekście jedno zdanie o cenach małych zestawów: podać 4,99 euro za sztukę (polskiej ceny katalogowej nadal nie ma) i, jeśli to pasuje do kompozycji, dopisać, że sześć pudełek w jednej cenie to seria kolekcjonerska.
 **Kto:** — Piotr (tekst)
+→ zamknięte 08.11.2026: Piotr przysłał nową wersję tekstu jeszcze 7 listopada (`95c20af`) i jest w niej więcej, niż prosiłem — polskie ceny z listy „Wkrótce dostępne" na LEGO.pl dla wszystkich dziesięciu zestawów: sześć małych po 20,99 zł, 11515 i 11519 i 11522 po 259,99 zł, 11516 za 126,99 zł, plus oznaczenie 18+ dla czterech dużych. Te dane wpisałem dziś do `sety.json`.
 
 **Dwa teksty premierowe opublikowane 6 listopada linkowały do pięciu hubów, których nie było w danych: `/zestaw/11515/`, `/zestaw/11519/`, `/zestaw/71888/`, `/zestaw/80122/` i `/zestaw/80123/`. Żadnego z tych numerów nie było ani w `sety.json`, ani w `katalog.json`, więc na produkcji te linki dawały 404 do dzisiejszego przebiegu.**
 **Mamy?** — częściowo: wszystkie pięć hubów powstało dziś razem z wpisami w `sety.json`, więc konkretne linki już działają, ale nic nie pilnuje następnego takiego przypadku. `scripts/kontrola-linkow.mjs` sprawdza wyłącznie cele przekierowań do sklepów, nie linki wewnętrzne.
