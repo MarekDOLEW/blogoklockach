@@ -435,7 +435,10 @@ def main():
         el = int(re.sub(r'\D', '', m.get('Liczba elementów') or m.get('Elementy') or '0') or 0)
         if k and k.get('elementy') and el and k['elementy'] != el:
             ostrz.append((nr, f'elementy: Piotr {el} vs katalog {k["elementy"]} – sprawdź Brickset'))
-        if not ctx['ma_hub'](nr): ostrz.append((nr, 'BRAK HUBA /zestaw/ – karta nie będzie widoczna'))
+        # 08.11.2026: serwis buduje /zestaw/<nr>/ dla KAŻDEGO numeru z katalogu (bez treści — z noindex),
+        # więc „BRAK HUBA” było fałszywe (Claude Piotra sprawdził: 5010204 itd. się otwierają). Ostrzegamy
+        # tylko, gdy numeru nie ma ani w katalogu, ani w sety.json — wtedy strony naprawdę nie będzie.
+        if nr not in ctx['wKat'] and nr not in ctx['sety']: ostrz.append((nr, 'BRAK W KATALOGU – strona /zestaw/ nie powstanie'))
         if s and s.get('ekskluzyw') and 'regularna' in m.get('Dystrybucja', ''):
             ostrz.append((nr, 'dystrybucja: Piotr regularna vs nasz ekskluzyw – sprawdź Brickset'))
         m = collections.OrderedDict((kl, typografia(w)) for kl, w in m.items())

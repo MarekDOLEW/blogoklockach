@@ -153,6 +153,10 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-08 · Code · Piotr: korekta testu z 404
+
+Claude Piotra zgłosił, że test z 06.11 nie działa — każdy `/zestaw/<nr>/` się otwiera (huby bez treści mają noindex). Prawda: hub powstaje dla każdego numeru z katalogu; ostrzeżenie „BRAK HUBA” w `import-karty.py` było nieaktualne — poprawione (ostrzega tylko o numerze spoza katalogu i sety.json). Nowa zasada: Piotr opisuje tylko zestawy z naszych list (01.11: 444, partie 38–55), reszty rejestru (~6900) nie. Odpowiedź do Piotra — szkic w Gmailu, do wysłania przez Marka. `redakcja/skrzynka-instrukcja.md` poprawione.
 ## 2026-11-08 08:10 · RADAR · Do zrobienia
 
 **fanklockow.pl · 07.11** — Drugie ich ostrzeżenie przed sklepem działającym „na krawędzi prawa" (Klocochy.shop, po MiniVerse.pl); sklepu nie linkują, żeby nie podnosić mu pozycji w wyszukiwarce.
