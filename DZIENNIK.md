@@ -60,6 +60,12 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 Rzeczy, które obowiązują niezależnie od daty. Nie archiwizują się. Wpisuj tu
 tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisach.
 
+- **Nie piszemy o podróbkach ani o sklepach-naciągaczach** (Marek, 08.11.2026).
+  Radar zgłosił lukę formatu po ostrzeżeniach fanklockow przed Klocochy.shop i
+  MiniVerse.pl — odpowiedź Marka: temat nie jest nasz. Nie zakładamy poradnika
+  „jak rozpoznać podróbkę" ani listy sklepów do omijania. Nie zgłaszaj tego
+  ponownie przy kolejnych ich ostrzeżeniach; sprawdzenie, czy taki sklep nie
+  trafił do `sklepy.json` albo `redirects.json`, zostaje jako kontrola danych.
 - **Decyzja o runnerze = zmiana jego promptu tego samego dnia** (Marek, 16.09.2026).
   Do runnera prowadzi tylko jeden kanał: prompt Routine (panel albo delete+create
   z sesji). `DZIENNIK.md` czytają sesje robocze, nie runnery — wpis w dzienniku
@@ -159,14 +165,9 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 Claude Piotra zgłosił, że test z 06.11 nie działa — każdy `/zestaw/<nr>/` się otwiera (huby bez treści mają noindex). Prawda: hub powstaje dla każdego numeru z katalogu; ostrzeżenie „BRAK HUBA” w `import-karty.py` było nieaktualne — poprawione (ostrzega tylko o numerze spoza katalogu i sety.json). Nowa zasada: Piotr opisuje tylko zestawy z naszych list (01.11: 444, partie 38–55), reszty rejestru (~6900) nie. Odpowiedź do Piotra — szkic w Gmailu, do wysłania przez Marka. `redakcja/skrzynka-instrukcja.md` poprawione.
 ## 2026-11-08 08:10 · RADAR · Do zrobienia
 
-**fanklockow.pl · 07.11** — Drugie ich ostrzeżenie przed sklepem działającym „na krawędzi prawa" (Klocochy.shop, po MiniVerse.pl); sklepu nie linkują, żeby nie podnosić mu pozycji w wyszukiwarce.
-**Mamy?** — nie, i operacyjnie nas to nie dotyczy (sprawdzone): frazy „klocochy" i „miniverse" nie występują w żadnym pliku w `src/data` ani `src/pages`, a `sklepy.json` ma zamkniętą listę 21 sklepów — więc nie linkujemy do nich i nie ma czego usuwać. Brakuje **formatu**: nie mamy żadnego tekstu o bezpiecznych zakupach i rozpoznawaniu podróbek.
-**Zrobić:** — zdecydować, czy w sezonie prezentowym wchodzimy w poradnik „Jak nie kupić podróbki LEGO" — popęd na to widać wprost w komentarzu pod ich tekstem (czytelnik pyta o zestaw za 1,5 tys. zł kupiony na Allegro od drugiego sprzedającego, opisuje oznaczenia na studach i grubszą folię), a Allegro jest u nas limitowane do 30% linków dealowych właśnie jako marketplace.
-**Kto:** — Marek (decyzja)
-
-**kalendarz promocji · zadanie na 9.11** — Okno trzech gratisów (40889, 30727, 40898) kończy się **dzisiaj, 8.11**; od jutra plakietka „trwa" w „Co trwa teraz" i w nagłówku sekcji `#listopad-40889` będzie kłamać.
-**Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/` — ale bez żadnego mechanizmu, który by pilnował daty końca okna; nic tego nie sprawdza automatycznie.
-**Zrobić:** — w przebiegu 9.11 przestawić oba miejsca na „zamknięte" i przepisać zdania o oknie w czasie przeszłym, tak jak zrobiono to z oknem 20–27.10; przy okazji rozważyć kontrolę w `swiezosc-tekstow.mjs`, która porównuje datę końca okna z dzisiejszą i zgłasza plakietkę „trwa" po terminie.
+**kalendarz promocji · 08.11** — Okno trzech gratisów (40889, 30727, 40898) kończy się 8.11, a plakietka „trwa" w „Co trwa teraz" i w nagłówku sekcji `#listopad-40889` od 9.11 kłamałaby.
+**Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/` — ale nic nie pilnuje daty końca okna automatycznie.
+**Zrobić:** — zrobione 8.11 na polecenie Marka („zrób to teraz — przestaw okno na zamknięte"): oba miejsca mają plakietkę „zamknięte", zdania o oknie przepisane w czasie przeszłym (tabela gratisów zostaje, bo pokazuje mechanikę). Zostało do rozważenia: kontrola w `swiezosc-tekstow.mjs`, która porównuje datę końca okna z dzisiejszą i zgłasza plakietkę „trwa" po terminie — bez niej każde następne okno trzeba zamykać ręcznie.
 **Kto:** — Code (dane, strona)
 
 
