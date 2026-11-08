@@ -160,6 +160,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-08 · Code · Maile do Piotra wysłane; Performers czeka
+
+Wysłane do Piotra: odpowiedź o teście 404 i nowościach oraz lista poprawek w kartach/FAQ po audycie (stary szkic z autolinkami Gmaila usunięty). Mail do Performers (termin zatwierdzania 11 konwersji pending od 03.09, 2/3 kliknięć) — decyzja Marka 08.11: czekamy, nie wysyłamy.
+
 ## 2026-11-08 · Code · Piotr: korekta testu z 404
 
 Claude Piotra zgłosił, że test z 06.11 nie działa — każdy `/zestaw/<nr>/` się otwiera (huby bez treści mają noindex). Prawda: hub powstaje dla każdego numeru z katalogu; ostrzeżenie „BRAK HUBA” w `import-karty.py` było nieaktualne — poprawione (ostrzega tylko o numerze spoza katalogu i sety.json). Nowa zasada: Piotr opisuje tylko zestawy z naszych list (01.11: 444, partie 38–55), reszty rejestru (~6900) nie. Odpowiedź do Piotra — szkic w Gmailu, do wysłania przez Marka. `redakcja/skrzynka-instrukcja.md` poprawione.
