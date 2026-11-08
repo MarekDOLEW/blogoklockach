@@ -153,6 +153,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-08 08:10 · RADAR · Do zrobienia
+
+**fanklockow.pl · 07.11** — Drugie ich ostrzeżenie przed sklepem działającym „na krawędzi prawa" (Klocochy.shop, po MiniVerse.pl); sklepu nie linkują, żeby nie podnosić mu pozycji w wyszukiwarce.
+**Mamy?** — nie, i operacyjnie nas to nie dotyczy (sprawdzone): frazy „klocochy" i „miniverse" nie występują w żadnym pliku w `src/data` ani `src/pages`, a `sklepy.json` ma zamkniętą listę 21 sklepów — więc nie linkujemy do nich i nie ma czego usuwać. Brakuje **formatu**: nie mamy żadnego tekstu o bezpiecznych zakupach i rozpoznawaniu podróbek.
+**Zrobić:** — zdecydować, czy w sezonie prezentowym wchodzimy w poradnik „Jak nie kupić podróbki LEGO" — popęd na to widać wprost w komentarzu pod ich tekstem (czytelnik pyta o zestaw za 1,5 tys. zł kupiony na Allegro od drugiego sprzedającego, opisuje oznaczenia na studach i grubszą folię), a Allegro jest u nas limitowane do 30% linków dealowych właśnie jako marketplace.
+**Kto:** — Marek (decyzja)
+
+**kalendarz promocji · zadanie na 9.11** — Okno trzech gratisów (40889, 30727, 40898) kończy się **dzisiaj, 8.11**; od jutra plakietka „trwa" w „Co trwa teraz" i w nagłówku sekcji `#listopad-40889` będzie kłamać.
+**Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/` — ale bez żadnego mechanizmu, który by pilnował daty końca okna; nic tego nie sprawdza automatycznie.
+**Zrobić:** — w przebiegu 9.11 przestawić oba miejsca na „zamknięte" i przepisać zdania o oknie w czasie przeszłym, tak jak zrobiono to z oknem 20–27.10; przy okazji rozważyć kontrolę w `swiezosc-tekstow.mjs`, która porównuje datę końca okna z dzisiejszą i zgłasza plakietkę „trwa" po terminie.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-07 14:55 · Skrzynka tekstów Piotra (GitHub)
 
