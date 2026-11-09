@@ -166,7 +166,8 @@ def cykl_z_pola(t):
 
 
 def numer_pliku(plik):
-    m = re.match(r'^(\d{3,5})_', os.path.basename(plik))
+    # „0043_…” albo recenzja „Recenzje_019_…” (zdjęcia: 019_zdjecie_K.jpg — od 09.11.2026)
+    m = re.match(r'^(?:Recenzje_)?(\d{3,5})_', os.path.basename(plik))
     return m.group(1) if m else None
 
 

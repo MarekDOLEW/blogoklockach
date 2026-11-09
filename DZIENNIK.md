@@ -159,6 +159,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-09 08:55 · SKRZYNKA · GitHub: 0043 i Recenzje_019
+Źródło: repo tylkoklocki-teksty (do-publikacji/), 2 teksty + 5 zdjęć, commit 89eee676.
+- 0043 → https://tylkoklocki.pl/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/
+- Recenzje_019 (42682) → https://tylkoklocki.pl/artykuly/lego-42682-domek-na-luksusowym-kempingu-recenzja/
+Pierwszy przebieg zatrzymał recenzję („brak pliku None_zdjecie_1.jpg”): zdjęcia recenzji przychodzą jako `019_zdjecie_K.jpg`, a importer znał tylko `NNNN_`. `numer_pliku()` w `scripts/import-artykul-md.py` rozumie teraz też `Recenzje_NNN_`.
+
 ## 2026-11-09 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 09.11** — Karta promocji ma dwa nowe upominki na **9–15.11**: **40906 Restauracje świata: Japonia** („Wydaj ponad 745 zł... **Tylko w programie LEGO Insiders**") i **30720 Urodzinowa potańcówka Arielki i Florka** („Wydaj ponad 165 zł na produkty z tematyki Disney").
