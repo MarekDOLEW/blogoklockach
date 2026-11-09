@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-08"
+zaktualizowano: "2026-11-09"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,7 +21,9 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">28.10–8.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40889"><b>Trzy gratisy na LEGO.pl</b> – 40889 Buduj, maluj i baw się! (wycena 81,99 zł) przy zakupach od 540 zł, 30727 Minimodel TIE Advanced przy zakupach z serii Star Wars od 165 zł i 40898 Wenecka taksówka wodna (wycena 124,99 zł) do zakupu 11388 Wenecka okolica; okno 8.11 się zamyka</a></li>
+<li><span class="okna__data">9–15.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>Dwa nowe gratisy na LEGO.pl</b> – 40906 Restauracje świata: Japonia (wycena 84,99 zł) przy zakupach ponad 745 zł, tylko dla Insiders, i 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach ponad 165 zł na produkty Disney; progi i daty z karty promocji lego.com/pl-pl</a></li>
+<li><span class="okna__data">1–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40898 Wenecka taksówka wodna</b> – upominek do zakupu 11388 Wenecka okolica; LEGO wydłużyło to okno z 8 na <b>20 listopada</b></a></li>
+<li><span class="okna__data">28.10–8.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40889"><b>Dwa gratisy progowe na LEGO.pl</b> – 40889 Buduj, maluj i baw się! (wycena 81,99 zł) od 540 zł i 30727 Minimodel TIE Advanced z serii Star Wars od 165 zł; okno zamknęło się 8.11</a></li>
 <li><span class="okna__data">20–27.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#pazdziernik-kumulacja"><b>Trzy gratisy naraz na LEGO.pl</b> – 30717 od 165 zł, 40916 Kwiatowa ramka od 625 zł i 40765 Ośrodek szkoleniowy na Kamino od 670 zł w zestawach Star Wars; okno minęło 27.10</a></li>
 <li><span class="okna__data">13–19.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#pazdziernik-punkty"><b>Drugie okno października</b> – podwójne punkty Insiders i gratis 40909 Restauracje świata: Włochy przy zakupach od 745 zł; okno minęło 19.10</a></li>
 <li><span class="okna__data">8–12.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#gratis-pazdziernik"><b>Gratis do wyboru na LEGO.pl od 450 zł</b> – 40772 Świecący duszek albo 40760 BrickHeadz z Fortnite; zniknął z regulaminu LEGO.pl wraz z wejściem okna 13–19.10</a></li>
@@ -279,7 +281,7 @@ go oficjalnie 23 października 2026. Progi i daty wzięliśmy z karty promocji l
 |---|---|---|
 | [40889 Buduj, maluj i baw się!](/zestaw/40889/) | zakupy od **540 zł**, dowolna seria | 28.10–8.11 |
 | [30727 Minimodel TIE Advanced](/zestaw/30727/) | zakupy z serii [Star Wars](/serie/star-wars/) od **165 zł** | 28.10–8.11 |
-| [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/) | 1–8.11 |
+| [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/) | 1–20.11 |
 
 Dwie różnice wobec poprzednich okien warto znać. Pierwsza: **polskie okno skończyło się 8 listopada**,
 dwa dni wcześniej niż niemieckie, o którym pisały serwisy branżowe – liczy się data z polskiej karty
@@ -296,7 +298,9 @@ Taksówka ma 322 elementy, oznaczenie 18+ i wycenę 124,99 zł, a zaprojektowano
 rozszerzenie dioramy: wysokość pomostu odpowiada nabrzeżu dużego zestawu, a z tyłu wystaje
 płytka do zaczepienia. Jeśli i tak kupujesz Wenecję w listopadzie, gratis bierzesz przy
 okazji; sam upominek nie jest powodem, żeby dokładać do zakupu za ponad dwa tysiące
-złotych. Okno taksówki skończyło się razem z pozostałymi – **8 listopada**.
+złotych. **Okno taksówki LEGO wydłużyło:** karta promocji podawała pierwotnie 1–8 listopada,
+a 9 listopada stoi na niej **1–20 listopada**. Taksówka jest więc jedynym upominkiem z tego
+okna, który nadal można złapać – pozostałe dwa zamknęły się 8 listopada.
 
 **Co dostajesz.** 158 elementów, oznaczenie 18+ i scenka z walizką narzędziową, przyborami
 do malowania i matą do pracy – w praktyce ozdoba na biurko, nie zestaw do zabawy. LEGO
@@ -354,11 +358,44 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 | Kiedy | Co się dzieje |
 |---|---|
+| **9–15.11** | [dwa gratisy GWP na LEGO.com](#listopad-40906) – 40906 dla Insiders od 745 zł i 30720 na produkty Disney od 165 zł; taksówka 40898 do 20.11 |
 | ok. 1.11–30.11 | [Allegro Black Weeks](#allegro-black-weeks) – najdłuższa kampania sklepu zewnętrznego w sezonie |
 | ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w pozostałych sklepach zewnętrznych |
 | ok. 21–26.11 | Insiders Weekend na LEGO.com: podwójne punkty + wczesny dostęp do ofert |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
+
+<h3 id="listopad-40906">Pierwsze okno listopada: dwa gratisy, 9–15.11 <span class="status status--trwa">trwa</span></h3>
+
+Dzień po zamknięciu okna z 40889 LEGO otwarło następne. Progi i daty bierzemy z karty
+promocji lego.com/pl-pl, sprawdzonej 9 listopada:
+
+| Gratis (GWP) | Warunek | Okno |
+|---|---|---|
+| [40906 Restauracje świata: Japonia](/zestaw/40906/) | zakupy **ponad 745 zł**, **tylko w programie Insiders** | 9–15.11 |
+| 30720 Urodzinowa potańcówka Arielki i Florka | zakupy **ponad 165 zł** na produkty Disney | 9–15.11 |
+| [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/) | 1–20.11 |
+
+**Dwie rzeczy, które zmieniają rachunek wobec poprzednich okien.** Pierwsza: 40906 jest
+**wyłącznie dla Insiders** – w poprzednich oknach członkostwo nie było warunkiem,
+a tutaj jest, i to przy najwyższym progu, jaki LEGO stawiało w tym sezonie. Zapisanie się
+do programu jest darmowe, ale jeśli nie jesteś w nim przed złożeniem zamówienia, upominku
+nie dostaniesz. Druga: próg 165 zł na Disneya jest niski, ale liczy się **tylko ta tematyka** –
+zamówienie zbierane z różnych serii go nie łapie.
+
+40906 ma cenę katalogową **84,99 zł**, czyli tyle samo, co październikowe [40909 Restauracje
+świata: Włochy](/zestaw/40909/) – to ta sama linia upominków i ta sama wycena. Przy progu
+745 zł oznacza to upominek wart **około 11% kwoty**, którą trzeba wydać, i to w cenach
+katalogowych; realnie mniej, bo poza LEGO.com te same zestawy bywają tanio. Do progu
+dokładaj tylko wtedy, gdy i tak kupujesz w sklepie LEGO coś, czego nigdzie nie ma taniej.
+
+**Czego LEGO nie potwierdza, a co pisze konkurencja.** Dwa serwisy branżowe zapowiedziały
+na 9–15 listopada trzeci upominek – polybag **30762 Batman z retro gry wideo** przy zakupach
+z serii DC od 165 zł. Sprawdziliśmy to u źródła 9 listopada i **nie potwierdzamy**: tego
+upominku nie ma ani na karcie promocji LEGO.pl, ani w bloku upominków na karcie
+[76333 Batmobil z filmu Batman i Robin](/zestaw/76333/), czyli dokładnie tego zestawu, który
+serwisy polecały do złapania progu – karta pokazuje tam tylko 40906 dla Insiders. Jeśli LEGO
+doda ten upominek do swoich stron, wpiszemy go z datą. <span class="status status--maybe">przewidywane</span>
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 

@@ -159,6 +159,29 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-09 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 09.11** — Karta promocji ma dwa nowe upominki na **9–15.11**: **40906 Restauracje świata: Japonia** („Wydaj ponad 745 zł... **Tylko w programie LEGO Insiders**") i **30720 Urodzinowa potańcówka Arielki i Florka** („Wydaj ponad 165 zł na produkty z tematyki Disney").
+**Mamy?** — nie mieliśmy, i stan był najgorszy możliwy: po wczorajszym zamknięciu okna 28.10–8.11 sekcja „Co trwa teraz" nie pokazywała **ani jednej** pozycji ze statusem „trwa", a LEGO prowadziło w tym czasie trzy akcje upominkowe.
+**Zrobić:** — zrobione w tym przebiegu: nowa sekcja `#listopad-40906` z tabelą trzech upominków, dwie pozycje w „Co trwa teraz" i wiersz 9–15.11 w tabeli listopadowej. Opisane dwa warunki, których nie było w poprzednich oknach: 40906 **wymaga** członkostwa Insiders (pierwszy raz w tym sezonie) przy najwyższym progu sezonu, a próg 165 zł liczy się **wyłącznie** z produktów Disney.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 09.11** — Okno gratisu **40898** zostało wydłużone: karta promocji podaje dziś `dateRange` **1.11–20.11.2026**, a 6.11 podawała 1–8.11.
+**Mamy?** — mieliśmy to **błędnie od wczoraj**: zamykając okno na polecenie Marka napisałem, że „okno taksówki skończyło się razem z pozostałymi – 8 listopada". Było to prawdą w chwili pisania i przestało być prawdą dzisiaj.
+**Zrobić:** — zrobione w tym przebiegu: taksówka ma własną pozycję „trwa" w „Co trwa teraz" (1–20.11), wiersz tabeli mówi 1–20.11, a akapit wprost opisuje wydłużenie. **Wniosek:** daty końca okien nie są trwałe — LEGO je przesuwa, więc zamknięcie okna w kalendarzu wymaga sprawdzenia karty promocji tego samego dnia, nie tylko kalendarza.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl + fanklockow.pl · 08.11** — Oba serwisy zapowiedziały na 9–15.11 trzeci upominek: polybag **30762 Batman z retro gry wideo** przy zakupach z serii DC od 165 zł.
+**Mamy?** — nie i nie wpisujemy jako faktu: upominku nie ma ani na karcie promocji LEGO.pl, ani w bloku upominków na karcie **76333**, czyli dokładnie tego zestawu, który sami polecają do złapania progu (karta pokazuje tam tylko 40906 dla Insiders). Oba sprawdzenia dzisiejsze.
+**Zrobić:** — w kalendarzu stoi jako „przewidywane" z opisem obu sprawdzeń; przy następnym przebiegu sprawdzić kartę promocji jeszcze raz i albo wpisać upominek z datą, albo — jeśli okno minie bez potwierdzenia — usunąć tę pozycję z kalendarza.
+**Kto:** — Code (dane, strona)
+
+**dane · 09.11** — Dwóch zestawów upominkowych z tego okna nie ma w rejestrze: **30720** (Arielka, gratis Disney) i **30762** (Batman, niepotwierdzony).
+**Mamy?** — nie: ani w `src/data/sety.json`, ani w `katalog.json`, więc nie mają hubów i w tabeli upominków 30720 jest **jedyną pozycją bez linku**.
+**Zrobić:** — dopisać 30720 do `src/data/sety.json` (plus wpis w `ceny_baza.json`), a 30762 dopisać dopiero, jeśli LEGO potwierdzi upominek własną stroną.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-08 · Code · Maile do Piotra wysłane; Performers czeka
 
