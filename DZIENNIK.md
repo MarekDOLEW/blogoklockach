@@ -160,6 +160,11 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-09 14:58 · SKRZYNKA · GitHub: 25 kart P07
+Źródło: repo tylkoklocki-teksty, commit 91e4ad85. Karty: 10320, 10991, 10992, 10993, 10994, 11028, 21375, 30635, 30651, 30652, 31133, 31144, 40597, 40598, 40646, 41738, 41741, 43211, 43213, 43223, 60397, 76243, 76410, 76423, 76959 (huby /zestaw/<nr>/).
+Pierwszy przebieg zatrzymała cena 40646 Żonkile (Piotr 69,99 zł, katalog 59,99 zł). Rację miał Piotr (promoklocki: 69,99 zł), więc w `katalog.json` poprawiliśmy cenę na 69,99 zł, z adnotacją w `cena_zrodlo`. Karty 30635, 30651 i 30652 mają po jednym akapicie, więc weszły jako krótkie (--krotkie).
+
+
 ## 2026-11-09 10:05 · KONTROLER · Do zrobienia
 
 Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela — 09.11.2026" (27 pozycji) wysłany, id `01a1bf79`.
