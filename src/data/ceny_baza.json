@@ -8423,5 +8423,341 @@
   "najnizsza_cena": 695,
   "najnizsza_data": "2026-09-30",
   "najnizsza_sklep": "allegro"
+ },
+ "10309": {
+  "nazwa": "Sukulenty",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 177.93,
+  "najnizsza_data": "2026-09-23",
+  "najnizsza_sklep": "allegro"
+ },
+ "10340": {
+  "nazwa": "Wieniec",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 367.77,
+  "najnizsza_data": "2026-09-20",
+  "najnizsza_sklep": "allegro"
+ },
+ "10351": {
+  "nazwa": "Sherlock Holmes: Book nook",
+  "cena_katalogowa": 519.99,
+  "najnizsza_cena": 419.99,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "10461": {
+  "nazwa": "Ogród i szklarnia Dziadka Świnki",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 237.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "21271": {
+  "nazwa": "Komnata prób",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 168.85,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "21282": {
+  "nazwa": "Papugowe domki",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 227.99,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "21351": {
+  "nazwa": "Miasteczko Halloween (Nightmare Before Christmas)",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 779.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "21352": {
+  "nazwa": "Magia Disneya",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 320,
+  "najnizsza_data": "2026-10-23",
+  "najnizsza_sklep": "allegro"
+ },
+ "21355": {
+  "nazwa": "Ewolucja przedmiotów ścisłych",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 261.99,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "21360": {
+  "nazwa": "Willy Wonka i fabryka czekolady",
+  "cena_katalogowa": 949.99,
+  "najnizsza_cena": 708,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "31171": {
+  "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 218,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "31172": {
+  "nazwa": "Gramofon z kwiatami",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 124.98,
+  "najnizsza_data": "2026-11-02",
+  "najnizsza_sklep": "allegro"
+ },
+ "31175": {
+  "nazwa": "Zamek jednorożców",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 139.9,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "40179": {
+  "nazwa": "Personalised Mosaic Portrait",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 419.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40468": {
+  "nazwa": "Żółta taksówka",
+  "cena_katalogowa": 41.99,
+  "najnizsza_cena": 41.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40516": {
+  "nazwa": "Każdy jest wspaniały",
+  "cena_katalogowa": 144.99,
+  "najnizsza_cena": 144.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40674": {
+  "nazwa": "Stitch",
+  "cena_katalogowa": 54.99,
+  "najnizsza_cena": 54.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40708": {
+  "nazwa": "Disney Mały zamek Arielki",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40749": {
+  "nazwa": "Radość, Smutek i Spina",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40752": {
+  "nazwa": "Carl, Russell i Kevin",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 99.99,
+  "najnizsza_data": "2026-10-26",
+  "najnizsza_sklep": "allegro"
+ },
+ "40791": {
+  "nazwa": "Czara Ognia – figurki",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 189.89,
+  "najnizsza_data": "2026-10-22",
+  "najnizsza_sklep": "allegro"
+ },
+ "40795": {
+  "nazwa": "Luke Skywalker (pilot Rebelii)",
+  "cena_katalogowa": 54.99,
+  "najnizsza_cena": 54.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40797": {
+  "nazwa": "Kłapouchy",
+  "cena_katalogowa": 54.99,
+  "najnizsza_cena": 54.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40801": {
+  "nazwa": "Figurki Dustina, Mike'a, Willa i Lucasa",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40802": {
+  "nazwa": "Figurki Luny Lovegood i testrala",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 104.97,
+  "najnizsza_data": "2026-09-30",
+  "najnizsza_sklep": "allegro"
+ },
+ "40803": {
+  "nazwa": "Robot i pojazd Optimus Prime",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40804": {
+  "nazwa": "Robot i pojazd Bumblebee",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40805": {
+  "nazwa": "Arcade Machine",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40819": {
+  "nazwa": "Up-Scaled Racing Driver Minifigure",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 249.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40884": {
+  "nazwa": "Drift i Raven – figurki",
+  "cena_katalogowa": 104.99,
+  "najnizsza_cena": 73.49,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "42217": {
+  "nazwa": "Niebieski Chevrolet Corvette Stingray",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 219,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "smyk"
+ },
+ "42674": {
+  "nazwa": "Sklep z grami i komiksami",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 329,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "smyk"
+ },
+ "43010": {
+  "nazwa": "Nike Slam Dunk",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 299.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "43021": {
+  "nazwa": "Nike Dunk Trickshot",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "43277": {
+  "nazwa": "Samochód Cruelli De Mon",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 198.8,
+  "najnizsza_data": "2026-10-09",
+  "najnizsza_sklep": "allegro"
+ },
+ "43278": {
+  "nazwa": "Miniaturowy zamek w Arendelle i lodowy pałac Elzy",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 198.99,
+  "najnizsza_data": "2026-10-02",
+  "najnizsza_sklep": "allegro"
+ },
+ "60457": {
+  "nazwa": "Policyjny warsztat tuningowy",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "smyk"
+ },
+ "71494": {
+  "nazwa": "Zoey's Time Owl",
+  "cena_katalogowa": 124.99,
+  "najnizsza_cena": 87.49,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "71840": {
+  "nazwa": "Pojedynek wyścigowy Rogue kontra Drix",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 72,
+  "najnizsza_data": "2026-11-07",
+  "najnizsza_sklep": "allegro"
+ },
+ "72044": {
+  "nazwa": "Mario Kart - Piranha Plant i pogoń za ulepszeniami",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 167.1,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "72045": {
+  "nazwa": "Mario Kart - Shy Guy i P-Wing",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 62.78,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "allegro"
+ },
+ "75382": {
+  "nazwa": "TIE Interceptor",
+  "cena_katalogowa": 999.99,
+  "najnizsza_cena": 829,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "75406": {
+  "nazwa": "Wahadłowiec dowodzenia Kylo Rena",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 208,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "allegro"
+ },
+ "75430": {
+  "nazwa": "Ewok Wicket",
+  "cena_katalogowa": 519.99,
+  "najnizsza_cena": 449.9,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "xkom"
+ },
+ "76317": {
+  "nazwa": "Mieszkanie Petera Parkera",
+  "cena_katalogowa": 209.99,
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "smyk"
+ },
+ "76329": {
+  "nazwa": "Maska Milesa Moralesa",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 299.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "76447": {
+  "nazwa": "Zamek Hogwart: lekcja latania na miotle",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 271.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "76786": {
+  "nazwa": "Morticia's Cottage",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 399,
+  "najnizsza_data": "2026-09-22",
+  "najnizsza_sklep": "allegro"
  }
 }

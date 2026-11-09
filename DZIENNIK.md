@@ -173,6 +173,7 @@ Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela �
 **Mamy?** — tak: `prowizje-raport.mjs` od 07.11 pokazuje `konwersje_wg_statusu`; terminu zatwierdzania Performers/ME nie znamy.
 **Zrobić:** — zgoda na termin 23.11: jeśli do tego poniedziałku żadna z 10 nie zmieni statusu (najstarsza będzie miała 81 dni), Kontroler przypomina i mail do supportu Performers idzie — pytanie o termin zatwierdzania i o brakującą 1/3 kliknięć (tydzień 03–09.11: 20 naszych PL wobec 16 u nich, 80%).
 **Kto:** — Marek (decyzja)
+↻ 09.11 (Kontroler): zgoda Marka 09.11 na termin 23.11 — przypomnienie ustawione w sesji Kontrolera na 23.11 10:20 PL (`trig_01WLwRWVniuzFHiD1hXdxmiF`); pozycja czeka na wynik, nie na decyzję.
 
 **Decyzje D5–D9 z audytu 06.11 (mail z okazjami w czwartek, prezentowniki według zainteresowań, Piotr tylko przez GitHub, maile runnerów pon + pt, strony autorów) wchodzą w życie z odpowiedzią domyślną „tak" w środę 11.11.**
 **Mamy?** — tak: `materialy/audyt-2026-11-06.md`, sekcja „Decyzje".
@@ -183,6 +184,7 @@ Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela �
 **Mamy?** — nie: SUCCEEDED w tabeli to dostarczenie promptu, nie wynik przebiegu.
 **Zrobić:** — otworzyć sesję Wycofań na koncie i sprawdzić, co zrobiła 09.11 (odmowa klasyfikatora jak Zdjęcia → R2 04.11? błąd pushu? „nic do zmiany"?); jeśli nic — odpalić ręcznie.
 **Kto:** — Marek (panel)
+↻ 09.11 (Kontroler): Marek 09.11 „wycofania sprawdzę" — w toku po jego stronie.
 
 **`scripts/diagnoza.mjs` zgłasza „ROZJAZD Z REJESTREM" dla Ceneo: Tradedoubler zwraca program 385881 jako ACCEPTED, rejestr ma `zakonczony` (program zamknięty 03.11, mail TD) — alarm będzie wracał co tydzień.**
 **Mamy?** — tak: rejestr ma rację, API TD nie zmienia statusu zakończonego programu.
@@ -697,6 +699,7 @@ ale pytanie zostaje otwarte i do 8 listopada da się je rozstrzygnąć tylko kos
 **Zrobić:** — zdecydować, czy dopisujemy te 49 do `sety.json` + `ceny_baza.json` przed grudniem; lista z nazwami, cenami i terminami w `materialy/wycofania-poza-rejestrem-2026-10-31.md`. To **inna klasa luki niż lista z 29.10**: tam kryterium był rabat ≥25%, a tutaj **21 z 49 pozycji jest na rynku droższe od katalogu** (76329 +47%, Endurance +26%, Nike Dunk Trickshot +21%), więc żaden filtr rabatowy ich nie pokaże — a to właśnie zestawy, przy których argumentem sezonu jest „w grudniu zniknie", nie „jest tanio".
 **Kto:** — Marek (decyzja)
 ↻ 09.11 (Kontroler): nadal aktualne, 9 dni — decyzja 1 raportu 09.11: do Black Friday zostało 18 dni, proponowany termin dopisania do 20.11; lista w `materialy/wycofania-poza-rejestrem-2026-10-31.md`.
+→ zamknięte 09.11.2026 (Kontroler, zgoda Marka 09.11 „zgoda na decyzję 1"): 48 zestawów dopisanych do `sety.json` (1305 → 1353) i `ceny_baza.json` (1201 → 1249) — 10335 Endurance był już od 06.11. Nazwa, seria, elementy, RRP z `katalog.json`/`rrp_potwierdzone.json`, wiek i rok z kart, teksty rodzic/AFOL napisane w sesji Kontrolera; minimum w `ceny_baza` z `historia-cen` i dzisiejszego feedu po sicie 50% RRP, bez Ceneo. `known-sets-sync` 1353/1353, kolejka redakcyjna przeliczona, build czysty.
 
 ## 2026-10-30 09:55 · CODE · Teksty Piotra 0030–0033 (podesłane przez Marka w sesji)
 
