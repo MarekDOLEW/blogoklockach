@@ -499,10 +499,30 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "10787": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "10788": {
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "10795": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "10796": {
+    "cena": 169.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "10797": {
+    "cena": 214.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "10913": {
     "cena": 124.99,
@@ -564,6 +584,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "11042": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "11043": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "11044": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -598,6 +628,16 @@
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "11204": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "11205": {
+    "cena": 209.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "11206": {
     "cena": 41.99,
@@ -833,6 +873,56 @@
     "cena": 61.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "11515": {
+    "cena": 259.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11516": {
+    "cena": 126.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11519": {
+    "cena": 259.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11522": {
+    "cena": 259.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11532": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11533": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11534": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11535": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11536": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "11537": {
+    "cena": 20.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
   },
   "21034": {
     "cena": 169.99,
@@ -1089,6 +1179,11 @@
     "zrodlo": "karta Piotra P07b (15.09.2026)",
     "data": "15.09.2026"
   },
+  "21375": {
+    "cena": 1699.99,
+    "zrodlo": "lego.com/pl-pl — karta produktu (Firecrawl)",
+    "data": "04.11.2026"
+  },
   "21376": {
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1178,6 +1273,61 @@
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "30638": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30653": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30660": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30678": {
+    "cena": 17.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30685": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30687": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30691": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30697": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30698": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30705": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "30726": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "31134": {
     "cena": 41.99,
@@ -1279,10 +1429,35 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "31208": {
+    "cena": 419.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "31209": {
+    "cena": 859.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "31210": {
+    "cena": 214.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "31211": {
+    "cena": 214.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "31212": {
     "cena": 869.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "31213": {
+    "cena": 419.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "31214": {
     "cena": 339.99,
@@ -1464,6 +1639,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40634": {
+    "cena": 429.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "40638": {
     "cena": 54.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1489,6 +1669,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40657": {
+    "cena": 124.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "40668": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "40674": {
     "cena": 54.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -1503,6 +1693,11 @@
     "cena": 61.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40714": {
+    "cena": 109.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "40719": {
     "cena": 319.99,
@@ -1549,15 +1744,50 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40792": {
+    "cena": 44.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "40793": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "40794": {
+    "cena": 89.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "40795": {
     "cena": 54.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "40796": {
+    "cena": 229.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "40797": {
     "cena": 54.99,
     "zrodlo": "lego.pl (Firecrawl)",
     "data": "15.09.2026"
+  },
+  "40798": {
+    "cena": 44.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "40799": {
+    "cena": 44.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "40800": {
+    "cena": 44.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "40801": {
     "cena": 169.99,
@@ -1653,6 +1883,11 @@
     "cena": 249.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "40821": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "40822": {
     "cena": 61.99,
@@ -1878,6 +2113,41 @@
     "cena": 169.99,
     "zrodlo": "lego.pl (Firecrawl)",
     "data": "15.09.2026"
+  },
+  "40976": {
+    "cena": 126.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
+  },
+  "41805": {
+    "cena": 109.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "41806": {
+    "cena": 229.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "41808": {
+    "cena": 69.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "41811": {
+    "cena": 199.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "41838": {
+    "cena": 659.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "41839": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "41843": {
     "cena": 1299.99,
@@ -2159,6 +2429,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42645": {
+    "cena": 79.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "42648": {
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2174,6 +2449,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "42651": {
+    "cena": 219.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "42652": {
     "cena": 299.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2183,6 +2463,16 @@
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "42655": {
+    "cena": 349.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "42656": {
+    "cena": 429.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "42659": {
     "cena": 81.99,
@@ -2534,6 +2824,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43256": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "43257": {
     "cena": 274.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2544,10 +2839,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "43259": {
+    "cena": 44.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "43260": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43261": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "43262": {
     "cena": 299.99,
@@ -2603,6 +2908,11 @@
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "43275": {
+    "cena": 349.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "43277": {
     "cena": 209.99,
@@ -2839,6 +3149,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "60409": {
+    "cena": 469.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "60411": {
     "cena": 41.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2864,6 +3179,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "60428": {
+    "cena": 42.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "60430": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -2884,10 +3204,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "60446": {
+    "cena": 349.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "60447": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "60449": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "60451": {
     "cena": 81.99,
@@ -2953,6 +3283,11 @@
     "cena": 869.99,
     "zrodlo": "zklockow.pl + promoklocki.pl (zgodne z kartą Piotra; katalog.json miał błędną cenę)",
     "data": "18.10.2026"
+  },
+  "60474": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "60478": {
     "cena": 169.99,
@@ -3149,10 +3484,40 @@
     "zrodlo": "lego.pl (Firecrawl)",
     "data": "14.10.2026"
   },
+  "71037": {
+    "cena": 17.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "71043": {
     "cena": 2049.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "71046": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71047": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71048": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71049": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71050": {
+    "cena": 16.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "71051": {
     "cena": 16.49,
@@ -3184,6 +3549,131 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "71453": {
+    "cena": 89.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71454": {
+    "cena": 89.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71455": {
+    "cena": 159.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71458": {
+    "cena": 269.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71459": {
+    "cena": 359.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71460": {
+    "cena": 429.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71461": {
+    "cena": 449.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71471": {
+    "cena": 42.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71472": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71475": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71476": {
+    "cena": 214.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71477": {
+    "cena": 389.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71478": {
+    "cena": 429.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71479": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71480": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71481": {
+    "cena": 169.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71483": {
+    "cena": 189.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71484": {
+    "cena": 349.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71485": {
+    "cena": 559.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71486": {
+    "cena": 879.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71487": {
+    "cena": 42.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71488": {
+    "cena": 42.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "71489": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
+  },
+  "71490": {
+    "cena": 84.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
+  },
+  "71491": {
+    "cena": 219.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
+  },
   "71492": {
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -3193,6 +3683,16 @@
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "71495": {
+    "cena": 124.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
+  },
+  "71497": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
   },
   "71499": {
     "cena": 419.99,
@@ -3233,6 +3733,11 @@
     "cena": 41.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "71792": {
+    "cena": 199.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "71808": {
     "cena": 124.99,
@@ -3303,6 +3808,11 @@
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "71841": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
   },
   "71846": {
     "cena": 519.99,
@@ -3999,6 +4509,31 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75579": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "75580": {
+    "cena": 109.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "75581": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "75582": {
+    "cena": 239.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "75583": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "75636": {
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -4008,6 +4543,11 @@
     "cena": 209.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75638": {
+    "cena": 339.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "75639": {
     "cena": 559.99,
@@ -4054,10 +4594,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "75681": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "75682": {
     "cena": 234.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75683": {
+    "cena": 309.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "75684": {
     "cena": 419.99,
@@ -4094,10 +4644,40 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76224": {
+    "cena": 209.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76252": {
+    "cena": 1749.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "76269": {
     "cena": 2149.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76270": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76272": {
+    "cena": 149.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76273": {
+    "cena": 329.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76274": {
+    "cena": 259.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "76294": {
     "cena": 1399.99,
@@ -4133,6 +4713,11 @@
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "76310": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "76313": {
     "cena": 439.99,
@@ -4489,6 +5074,16 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76780": {
+    "cena": 224.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76781": {
+    "cena": 399.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "76784": {
     "cena": 104.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -4554,6 +5149,61 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "76990": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76991": {
+    "cena": 189.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76992": {
+    "cena": 234.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76993": {
+    "cena": 289.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76994": {
+    "cena": 469.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76995": {
+    "cena": 89.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76996": {
+    "cena": 149.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76997": {
+    "cena": 239.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76998": {
+    "cena": 149.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "76999": {
+    "cena": 359.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77000": {
+    "cena": 309.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "77001": {
     "cena": 81.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -4563,6 +5213,11 @@
     "cena": 124.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77003": {
+    "cena": 189.99,
+    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
+    "data": "06.11.2026"
   },
   "77005": {
     "cena": 169.99,
@@ -4574,10 +5229,60 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "77012": {
+    "cena": 149.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77013": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77015": {
+    "cena": 659.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "77037": {
     "cena": 189.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77046": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77047": {
+    "cena": 89.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77048": {
+    "cena": 129.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77049": {
+    "cena": 174.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77050": {
+    "cena": 329.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77051": {
+    "cena": 169.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "77052": {
+    "cena": 359.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "77053": {
     "cena": 41.99,
@@ -4614,10 +5319,20 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "77070": {
+    "cena": 64.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "77071": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77072": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "77073": {
     "cena": 419.99,
@@ -4663,6 +5378,11 @@
     "cena": 869.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "77092": {
+    "cena": 1299.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "77093": {
     "cena": 519.99,
@@ -4864,15 +5584,50 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "80043": {
+    "cena": 309.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "80044": {
+    "cena": 439.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "80045": {
     "cena": 599.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "80046": {
+    "cena": 209.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "80048": {
+    "cena": 329.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "80049": {
+    "cena": 849.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
+  "80050": {
+    "cena": 149.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "80051": {
     "cena": 189.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "80053": {
+    "cena": 379.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
   },
   "80054": {
     "cena": 779.99,
@@ -4909,6 +5664,11 @@
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
   },
+  "80117": {
+    "cena": 349.99,
+    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
+    "data": "06.11.2026"
+  },
   "80118": {
     "cena": 339.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -4928,6 +5688,11 @@
     "cena": 469.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "80122": {
+    "cena": 299.99,
+    "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
+    "data": "09.11.2026"
   },
   "88005": {
     "cena": 41.99,
@@ -4959,720 +5724,6 @@
     "zrodlo": "lego.pl (Firecrawl)",
     "data": "15.09.2026"
   },
-  "_meta": {
-    "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
-    "pierwszenstwo": "Najwyzsze ze wszystkich zrodel. cenaKatalogowaSetu() czyta ten plik jako pierwszy, przed sety.json, ceny_baza.json i katalog.json. Zaden backfill ani runner nie moze nadpisac wpisu z tego pliku.",
-    "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
-    "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
-    "kontrola": "node scripts/kontrola-rrp.mjs",
-    "zaktualizowano": "2026-11-06",
-    "karty_p07": "06.11.2026: dopisane RRP z kart Piotra (karty_setow.json, metryka „Cena katalogowa w Polsce” / „Polska cena katalogowa RRP”) dla hubow, ktorych lancuch cenaKatalogowaSetu nie znal zadnej ceny (audyt 06.11, pkt 3.2a). Nie nadpisano zadnego istniejacego wpisu. Karty z samym opisem „sposobu uzyskania” (gratisy, nagrody Insiders, BDP) bez kwoty pominiete."
-  },
-  "21375": {
-    "cena": 1699.99,
-    "zrodlo": "lego.com/pl-pl — karta produktu (Firecrawl)",
-    "data": "04.11.2026"
-  },
-  "10787": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "10795": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "10796": {
-    "cena": 169.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "10797": {
-    "cena": 214.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "11042": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "11043": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "11204": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "11205": {
-    "cena": 209.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30638": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30653": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30660": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30678": {
-    "cena": 17.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30685": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30687": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30691": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30697": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30698": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30705": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "30726": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "31208": {
-    "cena": 419.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "31209": {
-    "cena": 859.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "31210": {
-    "cena": 214.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "31211": {
-    "cena": 214.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "31213": {
-    "cena": 419.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40634": {
-    "cena": 429.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40657": {
-    "cena": 124.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40668": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40714": {
-    "cena": 109.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40792": {
-    "cena": 44.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40793": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40794": {
-    "cena": 89.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40796": {
-    "cena": 229.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40798": {
-    "cena": 44.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40799": {
-    "cena": 44.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40800": {
-    "cena": 44.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "40821": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41805": {
-    "cena": 109.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41806": {
-    "cena": 229.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41808": {
-    "cena": 69.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41811": {
-    "cena": 199.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41838": {
-    "cena": 659.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "41839": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "42645": {
-    "cena": 79.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "42651": {
-    "cena": 219.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "42655": {
-    "cena": 349.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "42656": {
-    "cena": 429.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "43256": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "43259": {
-    "cena": 44.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "43261": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "43275": {
-    "cena": 349.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "60409": {
-    "cena": 469.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "60428": {
-    "cena": 42.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "60446": {
-    "cena": 349.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "60449": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "60474": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71037": {
-    "cena": 17.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71046": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71047": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71048": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71049": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71050": {
-    "cena": 16.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71453": {
-    "cena": 89.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71454": {
-    "cena": 89.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71455": {
-    "cena": 159.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71458": {
-    "cena": 269.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71459": {
-    "cena": 359.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71460": {
-    "cena": 429.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71461": {
-    "cena": 449.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71471": {
-    "cena": 42.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71472": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71475": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71476": {
-    "cena": 214.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71477": {
-    "cena": 389.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71478": {
-    "cena": 429.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71479": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71480": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71481": {
-    "cena": 169.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71483": {
-    "cena": 189.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71484": {
-    "cena": 349.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71485": {
-    "cena": 559.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71486": {
-    "cena": 879.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71487": {
-    "cena": 42.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71488": {
-    "cena": 42.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71489": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "71490": {
-    "cena": 84.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "71491": {
-    "cena": 219.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "71495": {
-    "cena": 124.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "71497": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "71792": {
-    "cena": 199.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "71841": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "75579": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75580": {
-    "cena": 109.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75581": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75582": {
-    "cena": 239.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75583": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75638": {
-    "cena": 339.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75681": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "75683": {
-    "cena": 309.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76224": {
-    "cena": 209.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76252": {
-    "cena": 1749.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76270": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76272": {
-    "cena": 149.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76273": {
-    "cena": 329.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76274": {
-    "cena": 259.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76310": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76780": {
-    "cena": 224.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76781": {
-    "cena": 399.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76990": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76991": {
-    "cena": 189.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76992": {
-    "cena": 234.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76993": {
-    "cena": 289.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76994": {
-    "cena": 469.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76995": {
-    "cena": 89.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76996": {
-    "cena": 149.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76997": {
-    "cena": 239.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76998": {
-    "cena": 149.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "76999": {
-    "cena": 359.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77000": {
-    "cena": 309.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77003": {
-    "cena": 189.99,
-    "zrodlo": "karta P07 Piotra (metryka „Polska cena katalogowa RRP”)",
-    "data": "06.11.2026"
-  },
-  "77012": {
-    "cena": 149.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77013": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77015": {
-    "cena": 659.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77046": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77047": {
-    "cena": 89.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77048": {
-    "cena": 129.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77049": {
-    "cena": 174.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77050": {
-    "cena": 329.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77051": {
-    "cena": 169.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77052": {
-    "cena": 359.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77070": {
-    "cena": 64.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77072": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "77092": {
-    "cena": 1299.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80043": {
-    "cena": 309.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80044": {
-    "cena": 439.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80046": {
-    "cena": 209.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80048": {
-    "cena": 329.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80049": {
-    "cena": 849.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80050": {
-    "cena": 149.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80053": {
-    "cena": 379.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
-  "80117": {
-    "cena": 349.99,
-    "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
-    "data": "06.11.2026"
-  },
   "854288": {
     "cena": 24.99,
     "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
@@ -5697,5 +5748,14 @@
     "cena": 24.99,
     "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
     "data": "06.11.2026"
+  },
+  "_meta": {
+    "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
+    "pierwszenstwo": "Najwyzsze ze wszystkich zrodel. cenaKatalogowaSetu() czyta ten plik jako pierwszy, przed sety.json, ceny_baza.json i katalog.json. Zaden backfill ani runner nie moze nadpisac wpisu z tego pliku.",
+    "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
+    "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
+    "kontrola": "node scripts/kontrola-rrp.mjs",
+    "zaktualizowano": "2026-11-09",
+    "karty_p07": "06.11.2026: dopisane RRP z kart Piotra (karty_setow.json, metryka „Cena katalogowa w Polsce” / „Polska cena katalogowa RRP”) dla hubow, ktorych lancuch cenaKatalogowaSetu nie znal zadnej ceny (audyt 06.11, pkt 3.2a). Nie nadpisano zadnego istniejacego wpisu. Karty z samym opisem „sposobu uzyskania” (gratisy, nagrody Insiders, BDP) bez kwoty pominiete."
   }
 }
