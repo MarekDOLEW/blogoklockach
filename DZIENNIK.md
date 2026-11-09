@@ -152,13 +152,40 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
 Wpisy starsze niż 14 dni żyją w plikach miesięcznych. Nic nie zostało
 skasowane — jeśli szukasz czegoś starszego, jest tam:
 
-- [`2026-10`](materialy/dziennik-archiwum-2026-10.md) — 54 wpisy
+- [`2026-10`](materialy/dziennik-archiwum-2026-10.md) — 84 wpisy
 - [`2026-09`](materialy/dziennik-archiwum-2026-09.md) — 105 wpisów
 - [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 36 wpisów
 
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-09 10:05 · KONTROLER · Do zrobienia
+
+Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela — 09.11.2026" (27 pozycji) wysłany, id `01a1bf79`.
+
+**10 konwersji Media Expertu w Performers czeka na zatwierdzenie (60 dni: 14 764 zł sprzedaży, 268,09 zł prowizji), najstarsza od 03.09 (67 dni); 08.11 decyzja Marka „czekamy, nie wysyłamy" — bez daty końca.**
+**Mamy?** — tak: `prowizje-raport.mjs` od 07.11 pokazuje `konwersje_wg_statusu`; terminu zatwierdzania Performers/ME nie znamy.
+**Zrobić:** — zgoda na termin 23.11: jeśli do tego poniedziałku żadna z 10 nie zmieni statusu (najstarsza będzie miała 81 dni), Kontroler przypomina i mail do supportu Performers idzie — pytanie o termin zatwierdzania i o brakującą 1/3 kliknięć (tydzień 03–09.11: 20 naszych PL wobec 16 u nich, 80%).
+**Kto:** — Marek (decyzja)
+
+**Decyzje D5–D9 z audytu 06.11 (mail z okazjami w czwartek, prezentowniki według zainteresowań, Piotr tylko przez GitHub, maile runnerów pon + pt, strony autorów) wchodzą w życie z odpowiedzią domyślną „tak" w środę 11.11.**
+**Mamy?** — tak: `materialy/audyt-2026-11-06.md`, sekcja „Decyzje".
+**Zrobić:** — do środy 11.11 powiedzieć, jeśli któraś ma być inna niż domyślna; cisza = Code wdraża domyślne po Black Friday.
+**Kto:** — Marek (decyzja)
+
+**Wycofania (pon 06:10, `trig_018T3NrpmpZTRLX7s942gD6q`) mają w harmonogramie z konta `09.11 06:10 SUCCEEDED`, ale w repo nie ma commita „Wycofania: aktualizacja 2026-11-09" (19.10, 26.10 i 02.11 był) ani linii „→ Wycofania 2026-11-09" w dzienniku; `src/data/wycofania.json` ostatnio zmieniony 02.11.**
+**Mamy?** — nie: SUCCEEDED w tabeli to dostarczenie promptu, nie wynik przebiegu.
+**Zrobić:** — otworzyć sesję Wycofań na koncie i sprawdzić, co zrobiła 09.11 (odmowa klasyfikatora jak Zdjęcia → R2 04.11? błąd pushu? „nic do zmiany"?); jeśli nic — odpalić ręcznie.
+**Kto:** — Marek (panel)
+
+**`scripts/diagnoza.mjs` zgłasza „ROZJAZD Z REJESTREM" dla Ceneo: Tradedoubler zwraca program 385881 jako ACCEPTED, rejestr ma `zakonczony` (program zamknięty 03.11, mail TD) — alarm będzie wracał co tydzień.**
+**Mamy?** — tak: rejestr ma rację, API TD nie zmienia statusu zakończonego programu.
+**Zrobić:** — w porównaniu statusów w `scripts/diagnoza.mjs` uznać parę „TD ACCEPTED / rejestr `zakonczony`" za zgodną (jedna linia), żeby „ROZJAZD" oznaczał tylko prawdziwy rozjazd.
+**Kto:** — Code (skrypt)
+
+Poza listą dla ludzi: reguła referera z 02.11 zadziałała — kliknięć „human" spoza PL ze strony głównej 40 → 0 przy fali 13 301 botów 05.11; `/zestaw/11208/` zindeksowany 04.11 po trzech zgłoszeniach kolejki; `/zestaw/10280/` crawl 11.09 (59 dni) — sprawdzę za tydzień, czy kolejka może objąć huby zindeksowane ze starym crawlem; `/aktualnosci/` crawl 26.10 (14 dni). Kolizja 09:30 bez szkody czwarty tydzień.
+
 
 ## 2026-11-09 08:55 · SKRZYNKA · GitHub: 0043 i Recenzje_019
 Źródło: repo tylkoklocki-teksty (do-publikacji/), 2 teksty + 5 zdjęć, commit 89eee676.
@@ -188,8 +215,6 @@ Pierwszy przebieg zatrzymał recenzję („brak pliku None_zdjecie_1.jpg”): zd
 **Zrobić:** — dopisać 30720 do `src/data/sety.json` (plus wpis w `ceny_baza.json`), a 30762 dopisać dopiero, jeśli LEGO potwierdzi upominek własną stroną.
 **Kto:** — Code (dane, strona)
 
-
-
 ## 2026-11-08 · Code · Maile do Piotra wysłane; Performers czeka
 
 Wysłane do Piotra: odpowiedź o teście 404 i nowościach oraz lista poprawek w kartach/FAQ po audycie (stary szkic z autolinkami Gmaila usunięty). Mail do Performers (termin zatwierdzania 11 konwersji pending od 03.09, 2/3 kliknięć) — decyzja Marka 08.11: czekamy, nie wysyłamy.
@@ -197,14 +222,13 @@ Wysłane do Piotra: odpowiedź o teście 404 i nowościach oraz lista poprawek w
 ## 2026-11-08 · Code · Piotr: korekta testu z 404
 
 Claude Piotra zgłosił, że test z 06.11 nie działa — każdy `/zestaw/<nr>/` się otwiera (huby bez treści mają noindex). Prawda: hub powstaje dla każdego numeru z katalogu; ostrzeżenie „BRAK HUBA” w `import-karty.py` było nieaktualne — poprawione (ostrzega tylko o numerze spoza katalogu i sety.json). Nowa zasada: Piotr opisuje tylko zestawy z naszych list (01.11: 444, partie 38–55), reszty rejestru (~6900) nie. Odpowiedź do Piotra — szkic w Gmailu, do wysłania przez Marka. `redakcja/skrzynka-instrukcja.md` poprawione.
+
 ## 2026-11-08 08:10 · RADAR · Do zrobienia
 
 **kalendarz promocji · 08.11** — Okno trzech gratisów (40889, 30727, 40898) kończy się 8.11, a plakietka „trwa" w „Co trwa teraz" i w nagłówku sekcji `#listopad-40889` od 9.11 kłamałaby.
 **Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/` — ale nic nie pilnuje daty końca okna automatycznie.
 **Zrobić:** — zrobione 8.11 na polecenie Marka („zrób to teraz — przestaw okno na zamknięte"): oba miejsca mają plakietkę „zamknięte", zdania o oknie przepisane w czasie przeszłym (tabela gratisów zostaje, bo pokazuje mechanikę). Zostało do rozważenia: kontrola w `swiezosc-tekstow.mjs`, która porównuje datę końca okna z dzisiejszą i zgłasza plakietkę „trwa" po terminie — bez niej każde następne okno trzeba zamykać ręcznie.
 **Kto:** — Code (dane, strona)
-
-
 
 ## 2026-11-07 14:55 · Skrzynka tekstów Piotra (GitHub)
 
@@ -215,6 +239,7 @@ Claude Piotra zgłosił, że test z 06.11 nie działa — każdy `/zestaw/<nr>/`
 ## 2026-11-07 · Code · Media Expert: zakup testowy przypisany; 11 konwersji pending od IX
 
 Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwersja pending (4,67 zł, aff_sub `Partner_ID` — kupione przed `65b65789`). `getStats` liczy tylko zatwierdzone; `getConversions` pokazuje od 03.09 **11 konwersji pending: 14 410,90 zł sprzedaży, 276,24 zł prowizji** (16.10: 9 998 zł → 199,96 zł). Wniosek audytu „ME 0 konwersji” odwołany. `scripts/prowizje-raport.mjs` dostał `konwersje_wg_statusu`; rejestr afiliacji i audyt poprawione. Sprawdzenie 09.11 niepotrzebne.
+
 ## 2026-11-07 08:15 · RADAR · Do zrobienia
 
 **faniklockow.pl · 06.11** — Zapowiedzieli listopadowe „Zbuduj i Zabierz": mikromodel **tramwaju** skladany na miejscu w salonach LEGO **18–19.11, 15:00–17:00**, ograniczona liczba sztuk, akcja przy okazji otwarcia flagowego salonu LEGO w Pradze.
@@ -232,7 +257,6 @@ Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwe
 **Zrobić:** — sprawdzić u źródła (karty lego.com/pl-pl albo Brickset) i dopisać 42717, 77084 i 77088 do `src/data/sety.json`, razem z wpisami w `ceny_baza.json` — bez nich zestaw nie ma śledzonego minimum ani alertów.
 **Kto:** — Code (dane, strona)
 
-
 ## 2026-11-07 05:25 · SCOUT · Do zrobienia
 
 **Tekst `/artykuly/lego-botanicals-na-poczatek-2027-roku-piwonie-storczyk-galazki-wisni/` mówi o sześciu małych zestawach kwiatów (11532–11537): „LEGO nie podało jeszcze ich cen". Brickset podaje dla wszystkich sześciu RRP 4,99 euro i 4,99 dolara — to pierwsza seria kolekcjonerska w Botanicals, wszystkie w jednej cenie.**
@@ -246,7 +270,6 @@ Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwe
 **Zrobić:** — dodać do builda albo do poniedziałkowej kontroli sprawdzenie, że każdy link `/zestaw/<numer>/` z `src/pages/artykuly/*.md` ma odpowiednik w `dist/zestaw/<numer>/`, i zgłaszać listę brakujących numerów.
 **Kto:** — Code (skrypt)
 ↻ 09.11.2026: nadal aktualne — korekta Code z 08.11 („hub powstaje dla każdego numeru", `9d711be`) tej pozycji nie zamyka. Tam chodzi o numery obecne w `katalog.json`, a te pięć nie było ani w katalogu, ani w `sety.json`: `git show bd65e18:src/data/katalog.json` i to samo dla `sety.json` nie znajdują 11515, 11519, 71888, 80122 ani 80123. Dla numerów spoza obu plików strona się nie buduje i link z artykułu prowadzi w pustkę — dlatego sprawdzenie linków `/zestaw/<nr>/` z artykułów dalej ma sens, zwłaszcza że nowa zasada dla Piotra opiera się na tym, czy zestaw „ma już stronę".
-
 
 ## 2026-11-06 · Code · Piotr: bez kart dla zestawów bez huba
 
@@ -302,6 +325,7 @@ Audyt: `materialy/audyt-2026-11-06.md` + 6 raportów w `materialy/audyt-2026-11-
 - **D2 Firecrawl — tniemy.** `scripts/budzet-firecrawla.mjs`: Weryfikacja ofert 15 kart i karty ME w Łowcy 30 do 20.11; 21–30.11 pełne 40/80 (Black Friday); od 01.12 20/40. Stan 06.11: 3 081 kredytów.
 - **D3 Empik — filtr akcesoriów.** `scripts/akcesoria.mjs` w `zrzut-redirects.mjs` i `zrzut-import.mjs`; usunięte 300 linków `redirects.empik` do gablot, uchwytów, instrukcji, LED, Playmobilu i zamienników (zestaw wraca na wyszukiwarkę Empiku) oraz ceny Empiku 71430 (Playmobil) i 45303 (zamiennik) w `oferty_feed.json`.
 - **D4 Social: TikTok i Pinterest tak, Shorts nie.** Skill `klocki-social` zaktualizowany (kanały, rytm tygodnia, role, UTM, Pinterest), paczka w `skille/klocki-social.skill` — **Marek wgrywa na claude.ai**.
+
 ## 2026-11-06 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 06.11** — Karta promocji LEGO wymienia dziś **trzy** gratisy, nie dwa: do 40889 (28.10–08.11, próg 540 zł) i 30727 (28.10–08.11, Star Wars od 165 zł) doszedł **40898 Wenecka taksówka wodna, 01.11–08.11.2026**, z warunkiem „Zakup musi obejmować produkt Wenecka okolica (11388)". Domyka to wątek z 28.10, kiedy zapisałem, że LEGO własnym źródłem tego gratisu nie potwierdza.
@@ -319,14 +343,12 @@ Audyt: `materialy/audyt-2026-11-06.md` + 6 raportów w `materialy/audyt-2026-11-
 **Zrobić:** — rozstrzygnąć łącznie z pozycją o kalendarzach adwentowych z 05.11: czy wchodzimy w format „wszystko w jednym miejscu" (strona zbiorcza na żywych komponentach), czy zostajemy przy hubach.
 **Kto:** — Marek (decyzja)
 
-
 ## 2026-11-06 05:25 · SCOUT · Do zrobienia
 
 **StoneWars opublikował drugi tekst o Ideas Godzilla (21375) — „czego nie widać na karcie produktu": ukryty easter egg i szczegóły budowy, których nie ma w opisie LEGO (https://www.stonewars.de/news/lego-ideas-godzilla-21375-easter-egg-details/). Nasz tekst premierowy wyszedł 04.11, przed tym materiałem.**
 **Mamy?** — tak: https://tylkoklocki.pl/artykuly/lego-ideas-21375-godzilla-oficjalnie-5363-elementy-za-1699-99-zl-od-27/ — ale bez tego szczegółu.
 **Zrobić:** — przeczytać artykuł StoneWars pod adresem wyżej i dopisać do opublikowanego tekstu akapit o ukrytym easter eggu; sam artykułu nie otwierałem (budżet przebiegu), więc treści easter egga nie znam. Pozycja stała w mailu Scouta z 05.11, ale nie trafiła wtedy do dziennika — stąd wpis dziś.
 **Kto:** — Piotr (tekst)
-
 
 ## 2026-11-05 08:10 · RADAR · Do zrobienia
 
@@ -350,7 +372,6 @@ tak samo, jak robi to kod.**
 **Zrobić:** — dopisać do `RUNBOOK.md` notkę przy Firecrawlu: do stron, których świeżość ma znaczenie (listy nowości, karty produktów, kody rabatowe), wywołanie musi mieć `maxAge: 0` albo krótki `maxAge`, bo inaczej serwis może oddać kopię z poprzedniego dnia; dowód z 05.11.2026 wyżej. Ten sam adres pobrany ponownie z `maxAge: 0` wrócił już bez `cacheState`.
 **Kto:** — Code (RUNBOOK)
 
-
 ## 2026-11-04 14:55 · Skrzynka tekstów Piotra (GitHub)
 
 - Źródło: repo `tylkoklocki-teksty`, 2 pliki; opublikowane bez przeglądu (commit `794ab34`), linki wysłane Markowi i Piotrowi, źródła przeniesione do `opublikowane/` (ca5d26c w repo tekstów).
@@ -371,7 +392,6 @@ nie wiemy". Takie zdania w naszych tekstach to terminy do odwiedzenia, nie stan 
 jak otwarte pozycje. Kandydat na rozszerzenie `swiezosc-tekstow.mjs`: wyłapywać frazy typu „ceny jeszcze nie
 ogłoszono", „nie podano", „nie wiemy" przy numerze, który **ma już** potwierdzoną cenę albo wpis w danych.
 
-
 ## 2026-11-04 08:10 · CODE · Zdjęcia → R2: nocny przebieg zablokował klasyfikator „Code from External"
 
 **Routine „LEGO 04:45 — Zdjęcia → R2" (`trig_01EAhU5SKn2GuXxY14WYxNkJ`, cron `45 2 * * *` = od zmiany czasu 03:45 PL) 04.11 o 03:46 ma status SUCCEEDED, ale skryptu nie uruchomił.** Transkrypt sesji `cse_01MLTH64w1w3Ln4Ai5nENWAX`: klon repo i `npm ci` przeszły, a `node scripts/r2-obrazy.mjs` odrzucił klasyfikator trybu auto z powodem „Code from External" (Routine ze świeżą sesją nie ma repo w źródłach — klonuje je w trakcie, więc skrypt z klonu jest dla klasyfikatora kodem z zewnątrz; ten sam mechanizm opisany 15.09 przy LEGO.pl). Sesja wysłała push na telefon i zakończyła się czysto, dlatego `last_run` mówi SUCCEEDED. Dowodem przebiegu jest wyłącznie ślad `_stan/r2-obrazy.json` w R2, a ten miał datę 03.11 08:47 UTC (przebieg 09:45). Decyzja klasyfikatora nie jest powtarzalna: 03.11 o 09:46 identyczne polecenie w świeżej sesji przeszło (11 723 obiekty, brakowało 0).
@@ -381,6 +401,7 @@ ogłoszono", „nie podano", „nie wiemy" przy numerze, który **ma już** potw
 **Zrobić:** — przepiąć „Zdjęcia → R2" na trwałą sesję z repo w źródłach, jak Łowca i Kolejka indeksacji: `create_session(source_url)` + nowy `create_trigger(persistent_session_id)` z tym samym cronem (jeden trigger na 03:45 i jeden na 09:45 PL, albo jeden o 09:45, bo nocny dogrywa tylko to, co zostawiły sesje ręczne); stary 09:45 `trig_01XAJy9vca6HUK6YY3XarLWM` kasuje sesja Code, panelowy 04:45 `trig_01EAhU5SKn2GuXxY14WYxNkJ` kasuje Marek (`claude.ai/code/routines/trig_01EAhU5SKn2GuXxY14WYxNkJ`). Alternatywa bez nowej sesji: zostawić jak jest i przyjąć, że pojedyncze przebiegi wypadają — Łowca i tak wgrywa zdjęcia po każdym pushu.
 **Kto:** — Marek (decyzja), wykonanie Code
 → zamknięte 04.11.2026 (decyzja Marka: przepiąć): stała sesja `session_01MLTH66y8yzUy9U45avTtAz` + triggery `trig_01HFHKLvDpfYPVuCr3KgGG9E` (04:45 PL) i `trig_017c1bZvdNiBr3dKZnGqNZ5R` (09:45 PL); stary 09:45 skasowany. **Zostaje dla Marka:** skasować panelowy `trig_01EAhU5SKn2GuXxY14WYxNkJ` (https://claude.ai/code/routines/trig_01EAhU5SKn2GuXxY14WYxNkJ) — API odmawia agentom, do tego czasu nocny przebieg chodzi podwójnie (nieszkodliwie).
+
 ## 2026-11-04 05:14 · SCOUT · Do zrobienia
 
 **LEGO odsłoniło 3 listopada Ideas Godzilla (21375): 5363 elementy, 399,99 euro, 18+, premiera 27 listopada w dniu Black Friday, ponad 70 cm wysokości, z gratisem 40888 Logo Godzilli ze śladem stopy (359 elementów, wycena 24,99 euro). W dziale Artykuły nie ma o tym ani jednego tekstu.**
@@ -395,12 +416,12 @@ ogłoszono", „nie podano", „nie wiemy" przy numerze, który **ma już** potw
 **Kto:** — Cowork (przeglądarka)
 → zamknięte 04.11.2026: Marek potwierdził obie kwoty i polecił je wczytać. W rejestrze `rrp_potwierdzone.json` są wpisy 42254 = 429,99 zł i 11227 = 84,99 zł, źródło „lego.pl — karty produktów, potwierdzone przez Marka"; huby obu zestawów podają już cenę katalogową. Cowork nie musi tego robić.
 
-
 ## 2026-11-03 15:00 · CODE · Skrzynka (GitHub): 69 kart P07, numery z literą, katalog wg Brickseta
 
 **69 nowych kart z kanału GitHub na stronie (`2d22213`), w tym 49 zestawów w sprzedaży (Minecraft 21591–21598, Creator 31383–31393, Pokémon 72150–72168, Marvel/DC 67005–67012, BrickLink 910055–910067, L0002220–L0002223).** Żaden nie miał wcześniej karty. Źródła przeniesione do `opublikowane/` w tylkoklocki-teksty.
 - Pierwszy przebieg blokował się na 4 kartach L000222x — importer czytał tylko numery z cyfr; `import-karty.py` przyjmuje teraz numer z literą (`24358c7`). Poranna poprawka skrzynki (zgłaszanie blokad) zadziałała: paczka czekała zamiast zgubić karty po cichu.
 - Liczby elementów: Brickset potwierdził Piotra, poprawiony nasz katalog (`3841ec0`): 72168 Rayquaza 1083 (było 1183 w katalog.json i sety.json), 910055 3382, 910064 3960, 910065 2384.
+
 ## 2026-11-03 10:30 · CODE · Po pierwszym przebiegu GitHub: liczby elementów + slugify recenzji
 
 **Domknięte „Zrobić” z wpisu 08:55 (decyzja Marka: poprawiamy u nas).** W `karty_setow.json` poprawione liczby elementów w akapitach i polu `elementy`: 40519 253→254, 80056 755→757 (zgodnie z metryką i Bricksetem). Treści w repo Piotra bez zmian.
@@ -501,6 +522,7 @@ decyzji Marka.
 tekstów jest już wyczyszczone.
 
 ## 2.11.2026 (2) — Ustalenia z Piotrem: proces publikacji przez GitHub (Claude Code)
+
 ## 2026-11-02 10:05 · KONTROLER · Do zrobienia
 
 Raport: `materialy/kontroler-2026-11-02.md`. Mail „Zadania bez właściciela — 02.11.2026" (20 pozycji) wysłany, id `01a19b73`.
@@ -515,14 +537,15 @@ Raport: `materialy/kontroler-2026-11-02.md`. Mail „Zadania bez właściciela �
 **Mamy?** — częściowo: ceny z 26.10 (4 552 Empik, 720 x-kom) stoją w hubach jako aktualne.
 **Zrobić:** — odpalić skill `klocki-zrzuty-tygodniowe` na Macu; import robi sesja Code.
 **Kto:** — Marek (komputer)
+↻ 09.11 (Kontroler): zrzuty z 02.11 weszły we wtorek 03.11 07:07 (`31c2d2e`, 4 518 Empik / 700 x-kom); dziś 09.11 do 09:40 PL znowu ich nie ma. Przypomnienie 08:15 odpala się, ale zrzut robi człowiek na Macu — jeśli poniedziałek rano nie pasuje, lepiej przestawić przypomnienie i skill na wtorek, niż co tydzień mieć pozycję.
 
 **11381 Jaguar E-Type ma dwie daty premiery: `karty_setow.json` (metryka „Premiera" i zdanie w treści) „1 lipca 2026", recenzja `/artykuly/lego-11381-jaguar-e-type-recenzja/` i `sety.json` (`premiera: 2026-08`) „1 sierpnia 2026" — jedyna sprzeczność z nowego sprawdzenia dat premier (`swiezosc-tekstow.mjs`, 522 zestawy).**
 **Mamy?** — tak: oba miejsca w repo, karta idzie na hub.
 **Zrobić:** — potwierdzić datę na karcie lego.com i poprawić to miejsce, które się myli (najpewniej kartę — rejestr i recenzja zgadzają się na sierpień).
 **Kto:** — Code (dane)
+↻ 09.11 (Kontroler): nadal aktualne — `swiezosc-tekstow.mjs` 09.11 pokazuje tę samą sprzeczność (karta „1 lipca", recenzja i `sety.json` sierpień).
 
 Poza listą dla ludzi: Scout nie zostawił commita 27.10 (jedyna luka runnera w tygodniu; 28.10–02.11 codziennie) — sprawdzę za tydzień, czy to jednorazowe. `/zestaw/10280/` nadal z crawlem 11.09 (52 dni), `/serie/marvel/` odwiedzony 01.11 sam. Nowy kanał GitHub skrzynki (`tylkoklocki-teksty`) i panel — kontrola za tydzień, czy zostawiają wpisy w dzienniku.
-
 
 ## 2026-11-02 08:55 · CODE · Skrzynka (panel): 0034 opublikowany
 
@@ -643,6 +666,7 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 **Mamy?** — tak: dokładne miejsce w kodzie (`worker.js` ~232–238) i pełny opis w `afiliacje_rejestr.json._meta.decyzje.ceneo_zakonczony`.
 **Zrobić:** — decyzja Marka, co dalej z `/idz/ceneo/`: (a) zostawić jak jest — link i tak trafia na ceneo.pl, tylko bez prowizji; (b) zamienić na zwykły link bez wrappera TD (bezpośrednio na ceneo.pl); (c) zdjąć wiersz Ceneo z tabel cen w ogóle (dotyczy wielu szablonów: `TabelaCen.astro`, `KartaOferty.astro`, `PasekCeny.astro` i innych — do rozpisania po decyzji). To zmiana w `src/worker.js` i/albo szablonach, więc zgodnie z CLAUDE.md wymaga potwierdzenia przed pushem.
 **Kto:** — Marek (decyzja), potem Code (wdrożenie)
+→ zamknięte 09.11.2026 (Kontroler): zrobione w dwóch krokach — (b) 03.11 `834e724` worker kieruje `/idz/ceneo/` bezpośrednio na ceneo.pl bez wrappera TD, (c) 06.11 decyzja D1 audytu: Ceneo zdjęte z tabel cen (`SKLEPY_WYLACZONE`), 0 linków `/idz/ceneo/` w buildzie.
 
 ## 2026-11-01 · CODE · Karty P07, paczki 26–28: wgrana tylko 28
 
@@ -667,6 +691,7 @@ ale pytanie zostaje otwarte i do 8 listopada da się je rozstrzygnąć tylko kos
 **Mamy?** — nie: 76329 nie ma w `sety.json` ani w `ceny_baza.json`, mimo potwierdzonego wycofania na grudzień 2026. Policzone szerzej: **49 zestawów z potwierdzonym wycofaniem w 2026 roku** jest poza rejestrem (plus 19 już po produkcji).
 **Zrobić:** — zdecydować, czy dopisujemy te 49 do `sety.json` + `ceny_baza.json` przed grudniem; lista z nazwami, cenami i terminami w `materialy/wycofania-poza-rejestrem-2026-10-31.md`. To **inna klasa luki niż lista z 29.10**: tam kryterium był rabat ≥25%, a tutaj **21 z 49 pozycji jest na rynku droższe od katalogu** (76329 +47%, Endurance +26%, Nike Dunk Trickshot +21%), więc żaden filtr rabatowy ich nie pokaże — a to właśnie zestawy, przy których argumentem sezonu jest „w grudniu zniknie", nie „jest tanio".
 **Kto:** — Marek (decyzja)
+↻ 09.11 (Kontroler): nadal aktualne, 9 dni — decyzja 1 raportu 09.11: do Black Friday zostało 18 dni, proponowany termin dopisania do 20.11; lista w `materialy/wycofania-poza-rejestrem-2026-10-31.md`.
 
 ## 2026-10-30 09:55 · CODE · Teksty Piotra 0030–0033 (podesłane przez Marka w sesji)
 
@@ -951,6 +976,7 @@ poleceń (wcześniej z kluczem API w nagłówku) i ponawia zerwane połączenie.
 **Zrobić:** — mail do supportu Performers (program Media Expert, offer_id 1860) z obiema parami liczb i pytaniem o sposób liczenia kliknięć (deduplikacja, filtr UA) — albo decyzja, żeby poczekać trzeci tydzień.
 **Kto:** — Marek (decyzja)
 ↻ 02.11 (Kontroler): trzeci tydzień 27.10–02.11 — 25 naszych PL wobec 16 u Performers (64%); warunek „trzeci tydzień" spełniony, gotowy tekst maila w `materialy/kontroler-2026-11-02.md` (sekcja EPC).
+→ zamknięte 09.11.2026 (Kontroler, decyzja Marka 08.11 „czekamy, nie wysyłamy"): pytanie o zero konwersji okazało się nieaktualne — `getConversions` pokazuje 11 konwersji pending od 03.09 (276 zł), raporty liczyły tylko zatwierdzone. Zostaje pytanie o termin zatwierdzania — Kontroler pilnuje terminu we wpisie 09.11.
 
 **Harmonogram z konta zgłasza jedyną kolizję: pon 09:30 — Kontroler (przesunięty 19.10) i „Alerty cen" (codziennie 09:30).**
 **Mamy?** — częściowo: dziś oba przebiegi przeszły, ale dzielą limit konta na tej samej minucie.
@@ -963,61 +989,7 @@ poleceń (wcześniej z kluczem API w nagłówku) i ponawia zerwane połączenie.
 **Zrobić:** — odczytać raport „Strony" w panelu GSC przed 02.11 (prompt z 19.10 w sesji Kontrolera).
 **Kto:** — Marek (panel) albo Cowork (panel)
 ↻ 02.11 (Kontroler): nadal brak odczytu — 21 dni od danych z 12.10; sitemapa hubów od tamtego odczytu 1 291 → 1 929.
-
-## 2026-10-25 · CODE · Dwa teksty historyczne Piotra (0026 Cargo Center, 0029 Paradisa) ze zdjęciami
-
-`/artykuly/lego-6391-cargo-center-historia/` i `/artykuly/lego-paradisa-historia-serii/`, po 5 zdjęć Piotra
-(`public/zdjecia/artykuly/<slug>/K.webp`), import bez uwag. Okładki to zdjęcia Piotra (Cargo: 1, Paradisa: 3 —
-pudełko 6416), bo zestawy z lat 80./90. nie mają u nas zdjęć ani hubów. Dwie poprawki w
-`import-artykul-md.py`, ważne też dla automatu skrzynki: (1) zdjęcia zmniejsza teraz sharp z Node,
-nie PIL — domyślny `python3` (3.11, /usr/local/bin) nie ma działającego PIL, więc teksty ze zdjęciami
-z maila wywaliłyby się przy imporcie; (2) gdy pierwszy zestaw z „Zestawy” nie ma u nas zdjęcia (albo
-pola brak), okładką zostaje pierwsze zdjęcie Piotra z `okladka_alt` z podpisu.
-
-## 2026-10-25 · CODE · Trzy teksty Piotra (0027, 0028, Recenzje_012) — starą drogą, przez Marka
-
-Opublikowane skryptem skrzynki (`skrzynka-tekstow.py publikuj`, commit 7ee0f27), bez uwag importu:
-`/artykuly/lego-daft-punk-ideas-zapowiedz/` (Premiery, bez zestawu — karta na liście z grafiką zastępczą),
-`/artykuly/lego-ideas-40889-upominek-od-28-pazdziernika-2026/` (Aktualności),
-`/artykuly/lego-42676-frajda-w-parku-wodnym-recenzja/`. Adresy wpisane do `redakcja/skrzynka.json`,
-więc poprawki przysłane mailem trafią pod te same adresy. `import-artykul-md.py` ucina teraz slug
-na granicy słowa. Rozbieżność (decyzja Marka 25.10: oba zostają bez zmian): wpis `daft-punk-ideas` w `przecieki.json` (Scout 23.10) mówi o
-projekcie fana „RobotRock”, tekst Piotra — o „Daft Punk Concert” Patricka Harbouna; tekst zostaje
-bez zmian.
-
-## 2026-10-25 · CODE · Karty P07 Piotra: partie 16–23 (200 kart)
-
-Partie 20–23: wgrane wszystkie 100 kart (`import-karty.py --krotkie`), wszystkie huby indeksowalne (≥2 akapity albo
-opis >300 znaków, ≥3 FAQ). 10797 Sala balowa Gabi: katalog miał 260 elementów (Rebrickable), Brickset
-i Piotr 252 — katalog poprawiony. 30680 AAT (polybag Star Wars): Piotr podawał 16,99 zł, katalog
-17,99 zł — decyzja Marka: karta wgrana z naszą ceną 17,99 zł (i 0,24 zł za element w metryce i FAQ).
-Potem partie 16–19: 100 kart, wszystkie indeksowalne. 40686: Piotr pisze 261 elementów, Brickset
-i katalog 262 — karta wgrana bez zmian; decyzja Marka 25.10: 261 zostaje, nie poprawiać.
-
-↻ 2026-10-24 · ŁOWCA: w sicie podejrzanego rynku czeka 6 pozycji bez werdyktu (75372, 10696, 76319, 40808, 71853 — szczegóły w mailach „Oferty do sprawdzenia"); żadna nowa w tym tygodniu, decyzje Marka w `src/data/deale_potwierdzone.json`, bez pośpiechu.
-
-## 2026-10-24 08:10 · RADAR · Do zrobienia
-
-**faniklockow.pl · 23.10** — Opisali 75192 Sokół Millennium jako okazję cenową; w naszych danych wychodzi mocniej, niż sami piszą: 2699,90 zł w Media Expert z 23.10 przy potwierdzonym katalogu 3599,99 (−25%) to **minimum całej naszej historii cen** tego zestawu (39 zapisów od 18.09; poprzednie minimum 2799 zł z 18.09, Allegro i Smyk), a zestaw ma potwierdzone wycofanie na grudzień 2026.
-**Mamy?** — częściowo: cena jest widoczna na `/zestaw/75192/` (−25% to nie poziom sita „podejrzany rynek"), ale nie mamy o tym żadnego tekstu — mimo że wzorzec stoi w repo: `/deale/deal-76325-quinjet-minimum-przed-wycofaniem/`, 28 linii, napisany w przebiegu Radaru 07.10.
-**Zrobić:** — krótki deal „75192 Sokół Millennium w minimum naszych notowań przed grudniowym wycofaniem" w `src/pages/deale/`, na wzór dealu 76325; wszystkie liczby są już policzone z `historia-cen` i `wycofania.json`.
-**Kto:** — Code (dane, strona)
-↻ 25.10.2026 (Radar): nadal aktualne — cena 2699,90 zł w Media Expert utrzymała się drugi dzień
-(feed z 24.10), dealu w `src/pages/deale/` nie ma. Przy zestawie schodzącym z produkcji okno na taki
-tekst zamyka się razem z ofertą.
-↻ 26.10.2026 (Radar): trzeci dzień — 2699,90 zł w Media Expert z datą 25.10, dealu nadal nie ma.
-↻ 27.10.2026 (Radar): czwarty dzień i pierwsza zmiana jakościowa — 2699,90 zł ma już **trzy sklepy**
-(Media Expert, Ceneo, x-kom), Allegro stoi 2758,90. To ruch całego rynku, nie wybryk jednego
-sprzedawcy, więc cena jest pewniejsza niż w piątek. Dealu nadal nie ma.
-→ zamknięte 27.10.2026: deal napisany i opublikowany —
-`/deale/deal-75192-sokol-millennium-minimum-przed-wycofaniem/` (polecenie Marka).
-
-Warte zapisania obok samej pozycji: dzień po dniu ta sama kategoria dała przeciwny wynik sprawdzenia.
-22.10 ich „to nie błąd cenowy" przy 77076 za 89 zł **nie przeszło** weryfikacji (zestaw stoi po 170,
-oferta odrzucona). 23.10 ich okazja na 75192 **sprawdza się** i jest mocniejsza, niż napisali. Wniosek
-nie brzmi więc „oni się mylą" ani „oni mają rację", tylko: ich teksty dealowe są leadem do sprawdzenia
-w naszych danych, a ta robota opłaca się w obie strony — raz chroni przed fałszywą ceną, raz pokazuje
-temat, którego sami nie zauważyliśmy.
+→ zamknięte 09.11.2026 (Kontroler): odczyt zrobiony 06.11 przez Coworka w audycie (C2) — 903 zindeksowane (dane GSC z 23.10), 648 wykrytych, `materialy/indeksacja/gsc-strony-2026-11-06.md`.
 
 ## 2026-10-24 05:15 · SCOUT · Do zrobienia
 
@@ -1043,285 +1015,12 @@ temat, którego sami nie zauważyliśmy.
 **Zrobić:** — w panelu zadania cyklicznego dopisać wyjątek: Education w zwykłej sprzedaży detalicznej wchodzi do `sety.json`, kanał szkolny (np. 45521) nie.
 **Kto:** — Marek (panel)
 
-## 2026-10-24 · CODE · Skrzynka tekstów: teksty Piotra z maila publikują się same
-
-Decyzja Marka: teksty Piotra idą na stronę bez przeglądu, do Marka i Piotra wracają same linki.
-Claude Piotra wysyła pliki .md (i zdjęcia `NNNN_zdjecie_K.jpg`) z tylkoklockiblog@gmail.com na
-`tylkoklockiblog+code@gmail.com`; zadanie „Skrzynka tekstów Piotra” (8:52 i 14:52) importuje je
-`scripts/skrzynka-tekstow.py`, buduje i pushuje na main. Przy błędzie importu (surowy znacznik,
-brak zdjęcia, brak opisu) albo buildu nic nie wchodzi, a mail wymienia problemy. Poprawka o tym
-samym numerze zastępuje tekst pod tym samym adresem (rejestr `redakcja/skrzynka.json`, zasiany
-tekstami 0022–0025 i Recenzje_011; data publikacji zostaje, dochodzi `zaktualizowano`).
-**Automat nie dobiera galerii ani przycisków sklepów** — przy ważniejszych tekstach może je
-dołożyć sesja ręcznie. IMAP/SMTP z kontenera są zablokowane, więc hasło aplikacji Gmail
-(`TEKSTY_GMAIL_HASLO`) jest bezużyteczne — do odwołania w Google i usunięcia ze zmiennych.
-Hasło do skrzynki Marek przekazuje Piotrowi SMS-em.
-
-## 2026-10-23 · CODE · Kolejka indeksacji: błąd 500 z API nie przerywa już przeglądu
-
-Nocny przebieg 23.10: pierwszy błąd `500 Internal error` z URL Inspection API przerywał cały przegląd
-(0 sprawdzeń → pusta kolejka „wszystko w indeksie”, runner słusznie jej nie commitował; druga próba dała
-70 sprawdzeń i 9 adresów). Teraz: 5xx/429 ponawiane 3 razy z przerwą, pojedynczy błędny adres pomijany,
-przerwanie dopiero gdy cała partia pada; przy 0 sprawdzeń skrypt nie zapisuje kolejki (kod 4).
-Uwaga runnera o hubach 76969 i 10311 („Excluded by noindex”) była fałszywym alarmem: to stary odczyt Google,
-w serwisie oba huby są już indeksowalne (karty P07) — kolejka dopisuje teraz przy takim adresie wyjaśnienie.
-
-## 2026-10-23 09:05 · ŁOWCA · Do zrobienia
-
-**Nowa pozycja w podejrzanym rynku: 72151 Eevee na Ceneo za 44 zł przy RRP 249,99 (−82% — wygląda na błąd albo oszustwo; ta sama lista co 77076 z wpisu Radaru wyżej)**
-**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
-**Zrobić:** — sprawdzić kartę oferty z maila i dopisać 72151 do `src/data/deale_potwierdzone.json` (niemal na pewno odrzucone)
-**Kto:** — Marek (decyzja)
-→ zamknięte 23.10: Marek olał — 72151 (44 zł, Ceneo) w odrzuconych `deale_potwierdzone.json`, oferta ukryta
-
-**40816 Dekoracyjna Pisanka wróciła do maila: Media Expert 29,99 zł przy RRP 81,99 (−63%, poniżej odrzuconych 38 zł z Allegro; tym razem zwykły sklep — wygląda na realną wyprzedaż końcówek)**
-**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
-**Zrobić:** — sprawdzić kartę ME z maila i dopisać 40816 do `src/data/deale_potwierdzone.json` (potwierdzone albo ponownie odrzucone)
-**Kto:** — Marek (decyzja)
-→ zamknięte 23.10: Marek potwierdził — 40816 (29,99 zł, ME) w potwierdzonych, oferta wraca do tabel
-
-## 2026-10-23 08:10 · RADAR · Do zrobienia
-
-**faniklockow.pl · 22.10** — Opisali 77076 Durrr Burgerownia za 89 zł w Media Expert z tytułem „to nie błąd cenowy"; tę samą ofertę mamy w `oferty_feed.json` z datą 22.10, czyli z dnia ich publikacji.
-**Mamy?** — nie na stronie: sito „podejrzany rynek" trzyma ją poza serwisem, bo 89 zł to 64% poniżej potwierdzonej ceny katalogowej 249,99 zł, a próg wynosi 50%. Sprawdzone na produkcji dzisiaj: `/zestaw/77076/` pokazuje „od 162,99 zł" i sześć sklepów, Media Expertu wśród nich nie ma. Oferta jest na liście porannego maila (`podejrzany-rynek-mail.mjs`, dziś 8 pozycji, 77076 trzecia).
-**Zrobić:** — otworzyć kartę Media Expertu i jednym zdaniem w rozmowie z Code potwierdzić albo odrzucić („potwierdzam 77076 89 mediaexpert"); po potwierdzeniu oferta wraca na stronę tego samego dnia. Ich zdanie „to nie błąd cenowy" nie zastępuje tego kroku — reguła z 16.09 mówi, że kartę sklepu otwiera człowiek.
-**Kto:** — Marek (decyzja)
-→ zamknięte 23.10.2026: Marek — „burgerownia jest po 170 w Media Ekspert". Oferta 89 zł **odrzucona**,
-dopisana do `deale_potwierdzone.json` w sekcji `odrzucone`; zostaje ukryta, a poranny mail przestaje
-o nią pytać (wróci tylko przy cenie niższej niż 89 zł). Reguła z 16.09 zadziałała dokładnie tak, jak
-miała — i to jest tu najważniejsze: **nagłówek konkurencji „to nie błąd cenowy" nie przeszedł naszego
-sprawdzenia.** Przy ich tekstach dealowych kwota jest twierdzeniem do weryfikacji, nie faktem, nawet
-gdy zapewniają, że sprawdzili. Zapisane też w `konkurencja_baza.json` przy tym wpisie (ocena LUKA → NOTUJEMY).
-
-Kontekst, żeby decyzja nie wyglądała na formalność: ta sama lista ma dziś 29,99 zł za 75372 na Allegro
-i 44 zł za 72151 u Ceneo — pozycje, które wyglądają jak śmieć i dla których sito powstało. Różnica
-między nami a konkurencją nie jest w danych ani w szybkości, tylko w tym, że u nas między ofertą
-a stroną stoi człowiek. To koszt reguły, nie jej błąd.
-
-## 2026-10-23 05:20 · SCOUT · Do zrobienia
-
-**Cztery zestawy LEGO Education Science są w zwykłej sprzedaży detalicznej, a nasza reguła „LEGO Education nie wchodzi do `sety.json`" zakłada kanał szkolny: 45200 Moon Mission i 45201 Antarctic Animals po 209,99 zł, 45202 Mars Mission i 45203 Arctic Animals po 419,99 zł, w feedzie od 20.10.2026.**
-**Mamy?** — nie: żaden z nich nie ma wpisu w `sety.json` ani podstrony `/zestaw/`, a `katalog.json` ma je z polskimi cenami, więc co przebieg wracają na listę luk rocznika 2026.
-**Zrobić:** — jedna decyzja: czy zestawy Education sprzedawane detalicznie dostają wpisy w `sety.json` (wtedy dołożę te cztery), czy zostają poza serwisem (wtedy kolejka redakcyjna powinna pomijać theme Education, co jest zadaniem dla Code).
-**Kto:** — Marek (decyzja)
-→ zamknięte 23.10.2026: decyzja Marka — „dopisz te cztery Education do sety.json". Wpisy założone
-  z polskimi nazwami (Zestaw naukowy z misją na Księżyc / ze zwierzętami Antarktydy / z misją na Marsa /
-  ze zwierzętami Arktyki), cenami 209,99 / 209,99 / 419,99 / 419,99 zł i wiekiem 8+/7+/9+/9+.
-  W `katalog.json` przeniesione z kubełka „Archiwum" do nowej serii „Education", żeby oba pliki
-  mówiły to samo; liczba pozycji katalogu bez zmian. Nowa strona `/serie/education/`.
-
-Dowód z tego przebiegu — Brickset, karty 45200–45203: theme Education, subtheme Science,
-availability „Retail - limited", premiera 20.01.2026, ceny niemieckie 49,99 / 49,99 / 99,99 / 99,99 euro.
-
-## 2026-10-22 · CODE · Dwa teksty Piotra (.md): NINJAGO styczeń 2027 i recenzja 75439
-
-Pierwszy import przez `import-artykul-md.py` (blok danych → frontmatter, znaczniki → linki i tabela cen).
-Dopisane: FAQ (po 3), tagi; w recenzji 4 zdjęcia z galerii 75439 i linki do recenzji 75438 i huba 75304;
-w NINJAGO link do /przecieki/.
-- `/artykuly/lego-ninjago-styczen-2027-przecieki/` (Aktualności, okładka 71875)
-- `/artykuly/lego-75439-popiersie-dartha-vadera-recenzja/` (Recenzje)
-**Stan:** na main.
-
-## 2026-10-22 · CODE · Karty P07 Piotra: partie 14–15 (50 kart) wgrane
-
-karty_setow 1424 → 1474, wszystkie 50 hubów indeksowalnych. Blokada RRP 42621: Piotr 429,99 vs katalog 449,99 —
-zklockow.pl i promoklocki.pl potwierdzają 429,99, dopisane do `rrp_potwierdzone.json`. Elementy: 43242
-(Piotr 2228 vs 2208) i 5009005 (152 vs 150) — zostaje katalog.
-**Stan:** na main.
-
-## 2026-10-22 06:50 · SCOUT · Ceny polskie 67006 i 71873
-
-**Oba zestawy z jesiennej partii, które czekały na polską cenę katalogową, mają ją na kartach lego.com/pl-pl: 67006 Panorama uniwersum Marvela — 429,99 zł (przedsprzedaż), 71873 Cole kontra Zły Cole ze spinnerem — 41,99 zł (wkrótce dostępne, 1 stycznia 2027).**
-**Mamy?** — teraz tak: ceny w `sety.json` (oba) i `katalog.json` (67006; 71873 w katalogu jeszcze nie ma, doda go zaciąg z Rebrickable). Huby pokazują 429,99 zł i 41,99 zł.
-**Zrobić:** — nic.
-**Kto:** — Scout (zrobione).
-
-- 429,99 zł dla 67006 wisiało od 19.10 w tabeli `/zapowiedzi-lego-2027/`, ale nigdy nie trafiło do danych —
-  strona mówiła prawdę, hub nie miał ceny. **Wniosek:** cena wpisana w artykule nie jest ceną w bazie;
-  jeśli research daje polskie RRP, idzie ono do `sety.json` w tym samym przebiegu.
-- Nazwy zrównane z nazwami producenta: „Panorama Marvela" → „Panorama uniwersum Marvela",
-  „Cole kontra Zły Cole — atak spinnera" → „…ze spinnerem" (nasze tłumaczenie niemieckiego „Spinner").
-  Poprawione w `sety.json`, `przecieki.json` i w tabeli `/zapowiedzi-lego-2027/`; w datowanym logu
-  `known_sets.json` zostaje stara nazwa, bo to zapis stanu z 09.10.
-- Próg zakupu 67006 postawiony na 370 zł (429,99 zł katalogowo, 34 gr/element).
-
-## 2026-10-22 08:10 · RADAR · Do zrobienia
-
-**fanklockow.pl · 21.10** — Uruchomili na swoim Discordzie kanał ze statusami zestawów z lego.pl; pierwszy raz serwis redakcyjny z naszej piątki wchodzi w powiadomienia o dostępności.
-**Mamy?** — częściowo: mamy i dane (`lego_pl_etykieta`, `wyprzedaneWLego`, plakietka „wyprzedane" na hubach od 17.10), i własny kanał („Obserwuj zestaw", double opt-in, `scripts/alerty-cen.mjs`) — ale alerty są wyłącznie cenowe (20% pod katalog albo rekord) i dokładnie to obiecuje formularz na hubie. Zmiana dostępności nie wywołuje u nas niczego.
-**Zrobić:** — decyzja, czy „Obserwuj zestaw" ma wysyłać też alert o powrocie do sprzedaży lub wyprzedaniu; na „tak" zmienia się treść obietnicy w `ObserwujCene.astro` i trzeba o tym napisać zapisanym, bo zgodzili się na alerty cenowe.
-**Kto:** — Marek (decyzja)
-→ zamknięte 22.10.2026: Marek — „nie dodawaj alertu o dostępności". Nic nie zmieniam w kodzie;
-`alerty-cen.mjs` i formularz zostają cenowe. W `konkurencja_baza.json` ocena tego wpisu zmieniona
-z LUKA na NOTUJEMY, żeby ani Radar, ani Kontroler nie wracali z tym co tydzień.
-
-Dlaczego to decyzja, a nie zadanie dla Code: dane i mechanizm są gotowe, kosztem jest liczba maili
-i wiarygodność obietnicy, którą złożyliśmy ludziom zapisującym się na alerty. Technicznie to kilka
-linii w `alerty-cen.mjs`.
-
-Przy okazji poprawiona własna stara ocena w `konkurencja_baza.json`: wpis zklockow z 24.09 o prezentach
-pod choinkę stał jako LUKA, a lukę zamknęliśmy 07.10 stroną `/prezentowniki/prezenty-pod-choinke/`.
-Zmienione na PRZEBIJAMY, żeby Kontroler nie zbierał zamkniętego zadania. Dzisiejszy tekst faniklockow
-o prezentach świątecznych to drugi serwis na tej frazie — tamten sygnał z września był trafny.
-
-## 2026-10-21 09:00 · ŁOWCA · Do zrobienia
-
-**Nowa pozycja w podejrzanym rynku: 21268 Dom prosiaczka na Ceneo za 40 zł przy RRP 81,99 (−51%)**
-**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
-**Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 21268 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
-**Kto:** — Marek (decyzja)
-→ zamknięte 21.10: Marek potwierdził, 21268 (40 zł, Ceneo) w `deale_potwierdzone.json` — oferta wraca do tabel cen
-
-## 2026-10-21 · CODE · Okno 20–27.10 w kalendarzu i progi w hubach
-
-- `/kalendarz-promocji-lego/` — nowa sekcja `#pazdziernik-kumulacja` z tabelą trzech progów
-  (30717 od 165 zł, 40916 od 625 zł, 40765 od 670 zł w Star Wars, 20–27.10), wpis na szczycie
-  listy „co trwa teraz", wiersz w tabeli rytmu okien i `zaktualizowano: 2026-10-21`.
-  Okno 13–19.10 przestawione z „trwa" na „zamknięte" w obu miejscach.
-- **Policzone, nie przepisane:** przy progu 670 zł w Star Wars sprawdziłem 69 zestawów tej serii
-  z bieżącego listingu lego.com, które mają u nas cenę katalogową i ofertę zewnętrzną (po sicie
-  domu: bez Ceneo, bez ofert poniżej połowy katalogu). **67 z 69 jest tańszych poza LEGO.com,
-  mediana różnicy 30%** — czyli koszyk za 670 zł to około 200 zł dopłaty, a upominek wyceniony
-  na 129,99 zł tego nie pokrywa. Sześć zestawów, przy których LEGO.com nie przepłaca (75457, 75461,
-  75367, 75459, 75458, 75415), wymienione w tekście jako jedyny sensowny sposób zagrania tego okna.
-- `sety.json` 1205 → 1207: dołożone 30717 i 40765, których nie było wcale (huby stały jako lekkie,
-  z katalogu). 40765 dostał cenę katalogową 129,99 zł — jest na karcie produktu lego.pl, więc
-  reguła „gratis bez polskiej wyceny ma kreskę" go nie dotyczy. 30717 kreskę zostaje: LEGO nie
-  podaje jego wartości w złotych. 40916 — dopisany polski próg do istniejącego opisu.
-- Build 10061 stron; progi widoczne na hubach 30717, 40916 i 40765.
-- Zamyka pozycję Radaru z 21.10 i pytanie Scouta o progi (jego wpis ma linię ↻ z liczbami).
-- **Naprawa własnej szkody, zanim ktokolwiek ją zauważył.** Mój pierwszy commit (`6da26e0`) wylądował
-  nad commitem Scouta `f2cb67c`, który godzinę wcześniej, z decyzji Marka, wpisał 30717 cenę katalogową
-  16,49 zł do `katalog.json`. Nie nadpisałem tej liczby — zgasiłem ją inaczej: mój nowy wpis 30717
-  w `sety.json` miał `bez_rrp`, a `cenaKatalogowaSetu()` w `src/lib/oferty.js` zwraca `null`, gdy
-  `bez_rrp` stoi w którymkolwiek pliku („bez_rrp wygrywa z każdą liczbą", audyt 12.10). Hub
-  `/zestaw/30717/` przestał więc pokazywać 16,49 zł — sprawdzone w zbudowanym HTML, nie z założenia.
-  Poprawione: `bez_rrp` usunięte, `cena_katalogowa` w `sety.json` zostaje pusta, więc łańcuch spada
-  do `katalog.json` i liczba Scouta znów jest jedynym domem tej ceny. Teksty 30717 i akapit w kalendarzu
-  przepisane — mówiły, że LEGO nie wycenia szkieltu w złotych, a wycenia.
-- **Wniosek na przyszłość:** zakładając wpis w `sety.json` dla gratisu, sprawdź najpierw `katalog.json`.
-  `bez_rrp` to nie opis, to wyłącznik ceny na hubie i działa między plikami.
-↻ 22.10.2026: 16,49 zł wpisane też do `sety.json` (polecenie Marka) — oba pliki mówią teraz to samo,
-  a 30717 schodzi z listy luk katalogu (9 → 8). Z `opis` usunięte zdanie o tym, skąd hub bierze cenę:
-  to nasz proces, nie informacja dla kupującego.
-
-## 2026-10-21 07:40 · SCOUT · Do zrobienia
-
-**Siedem saszetek, które mają w `sety.json` flagę `bez_rrp` z powodem „LEGO nie sprzedaje jej w polskim sklepie", ma na lego.com/pl-pl karty produktowe z cenami: 30714 — 16,49 zł, a 30715, 30722, 30723, 30724, 30728 i 30735 po 16,99 zł (sprawdzone Firecrawlem 21.10.2026, karty z polskimi nazwami zgodnymi z naszym katalogiem).**
-**Mamy?** — częściowo: huby `/zestaw/30714/` … `/zestaw/30735/` pokazują kreskę w polu ceny katalogowej, więc oferty 10–19 zł nie mają punktu odniesienia i nie liczymy rabatu
-**Zrobić:** — jedna decyzja: czy wpisać te ceny do `katalog.json` (jak przy 30717) i co zrobić z `bez_rrp` — zdjąć czy przepisać powód; wszystkie siedem kart ma w metadanych „out of stock", więc „LEGO nie sprzedaje" może być prawdą o dostępności, nie o cenie
-**Kto:** — Marek (decyzja)
-→ zamknięte 22.10.2026: Marek zdecydował „wpisz ceny i zdejmij bez_rrp z tych siedmiu". Ceny wpisane
-  w `sety.json` i `katalog.json` (30714 — 16,49 zł, pozostałe sześć po 16,99 zł), `bez_rrp` zdjęta
-  w `sety.json` — w `katalog.json` tej flagi te saszetki nigdy nie miały. Huby liczą rabat
-  (`/zestaw/30714/` −15/−16%, `/zestaw/30735/` −21/−38%). Flag `bez_rrp` w `sety.json`: 12 → 5.
-
-## 2026-10-21 08:15 · RADAR · Do zrobienia
-
-**faniklockow.pl · 20.10** — Opisali nową kumulację na lego.pl: trzy gratisy naraz, 20–27.10 — od 165 zł polybag 30717, od 625 zł 40916 Kwiatowa ramka na zdjęcia, od 670 zł w Star Wars 40765 Ośrodek szkoleniowy na Kamino. Progi i daty sprawdziłem u źródła na `lego.com/pl-pl/page/lego-offers-promotions` — zgadzają się co do złotówki i co do dnia.
-**Mamy?** — nie: `/kalendarz-promocji-lego/` (zaktualizowano 16.10) nie ma tego okna wcale, a w liście „co trwa teraz" trzyma okno 13–19.10 ze statusem „trwa" dwa dni po jego zamknięciu.
-**Zrobić:** — dopisać do `/kalendarz-promocji-lego/` sekcję okna 20–27.10 z trzema progami i zamknąć status okna 13–19.10; przy okazji wpisać progi do hubów 30717, 40916 i 40765 (zamyka dzisiejszą pozycję Scouta).
-**Kto:** — Code (dane, strona)
-→ zamknięte 21.10.2026: zrobione tego samego dnia. Szczegóły w następnym wpisie.
-
-Uwaga do protokołu, bo to drugi raz: lista „co trwa teraz" pokazała zamknięte okno jako trwające —
-pierwszy raz zanotowane 08.10 (wrześniowe gratisy wisiały dziewięć dni po czasie). Pojedyncza poprawka
-tego nie rozwiąże. Wniosek: okna w kalendarzu mają daty końca, więc status „trwa" da się policzyć
-z danych zamiast trzymać go ręcznie — do rozważenia osobno, nie w tym przebiegu.
-
-## 2026-10-21 05:25 · SCOUT · Do zrobienia
-
-**W sklepie LEGO trwa akcja z trzema gratisami 20–27 października 2026: 30717 szkielet od 40 euro, 40916 kwiatowa ramka od 150 euro i 40765 Ośrodek szkoleniowy na Kamino od 160 euro przy zakupach Star Wars — StoneWars pisze, że Kamino jest tylko w Niemczech, nie w Austrii i Szwajcarii.**
-**Mamy?** — częściowo: 40916 ma hub z ceną 109,99 zł i dopisanym zdaniem o powrocie do akcji, ale progów dla polskiego sklepu nie znamy
-**Zrobić:** — wejść na lego.pl i sprawdzić, czy akcja obowiązuje w Polsce i z jakimi progami w złotych (trzy gratisy czy mniej, do kiedy); wynik podać numerami, żebym wpisał go do hubów 30717, 40916 i 40765
-**Kto:** — Cowork (przeglądarka)
-↻ 21.10.2026 08:15 (Radar): progi sprawdzone u źródła na `lego.com/pl-pl/page/lego-offers-promotions`,
-bez przeglądarki — akcja obowiązuje w Polsce, trzy gratisy, **20–27 października 2026**: od **165 zł**
-30717 Śmieszny halloweenowy szkielet, od **625 zł** 40916 Kwiatowa ramka na zdjęcia, od **670 zł**
-w zestawach Star Wars 40765 Ośrodek szkoleniowy na Kamino. Zadanie dla Coworka zbędne; zostaje wpisanie
-tych liczb do hubów 30717, 40916 i 40765 — Kto: Code (dane).
-→ zamknięte 21.10.2026: sprawdzone bez Coworka, kartami produktowymi lego.com/pl-pl przez Firecrawl
-(serwer dostaje 403). Akcja JEST w Polsce, wszystkie trzy gratisy, progi w złotych: 30717 od 165 zł
-(wartość 16,49 zł), 40916 od 625 zł (109,99 zł), 40765 od 670 zł wydanych na Star Wars (129,99 zł).
-Kamino, o którym StoneWars pisał, że nie ma go w Austrii i Szwajcarii, w polskim sklepie jest.
-Wpisane: polski próg w opisie 40916, źródło ceny 40916 i 40765 przepisane z promoklocki na kartę
-producenta (ta sama kwota, pewniejsze źródło). Ceny 40916 — 109,99 zł — producent potwierdził co do
-grosza, czyli wycena z promoklocki wpisana 15.10 była trafna.
-
-## 2026-10-21 07:10 · SCOUT · Do zrobienia
-
-**Karta 30717 na lego.com/pl-pl podaje wartość upominku 16,49 zł, a u nas ten zestaw ma w `katalog.json` cenę pustą i `bez_rrp` z powodem „LEGO nie sprzedaje jej w polskim sklepie" — saszetki były wyłączone z Twojej decyzji z 15.10 o wycenach gratisów.**
-**Mamy?** — częściowo: hub `/zestaw/30717/` pokazuje oferty 14–17 zł, w polu ceny katalogowej kreskę, a producent ma dla niego kwotę
-**Zrobić:** — jedna decyzja: czy saszetki rozdawane jako gratis dostają wycenę dodatku z karty lego.pl (dla 30717 byłoby to 16,49 zł), czy zostają bez ceny jak pozostałe sześć polybagów
-**Kto:** — Marek (decyzja)
-→ zamknięte 21.10.2026: decyzja Marka — 30717 dostaje wycenę 16,49 zł. Wpisane do `katalog.json`
-(`cena_zrodlo`: karta produktu lego.com/pl-pl). Sprostowanie do mojego zdania wyżej: 30717 nie miał
-`bez_rrp` w żadnym pliku — to pozostałe sześć saszetek (30714, 30715, 30722, 30723, 30724, 30728, 30735)
-je ma, a 30717 miał po prostu pustą cenę. Tych sześciu decyzja nie dotyczy i zostają bez zmian.
-Hub `/zestaw/30717/` pokazuje teraz cenę katalogową 16,49 zł obok ofert 14–17 zł, więc widać, że rynek
-schodzi poniżej wyceny producenta.
-
-## 2026-10-20 13:05 · KONTROLER · Do zrobienia
-
-**Pierwszy przebieg „Kontrola linków w przeglądarce" (`trig_01NRYdRPRMVTYZTGDf5C8iH6`) ma status SUCCEEDED, ale trwał 28 sekund (11:45:46–11:46:14) — za krótko na otwarcie 20 kart sklepów.**
-**Mamy?** — częściowo: lista na 20.10 była świeża (`ddf9050`, 07:49), więc „lista nieaktualna" odpada; najpewniej sesja nie załadowała narzędzi Chrome i zgodnie z promptem zakończyła jednym zdaniem — ale tej odpowiedzi z sesji Kontrolera nie widać.
-**Zrobić:** — wkleić do sesji Kontrolera odpowiedź tego zadania z Coworka (choćby jedno zdanie); jeśli brzmi „przeglądarka nieosiągalna" — sprawdzić w Claude Desktop, czy zadanie jest przypięte do komputera i czy rozszerzenie Claude in Chrome było włączone o 11:45.
-**Kto:** — Marek (komputer)
-↻ 20.10.2026 13:20: Marek wkleił odpowiedź zadania — „Nie dało się połączyć z przeglądarką (…) To uruchomienie
-szło w chmurze, bez dostępu do Twojego komputera, i narzędzia Claude in Chrome się nie załadowały. W repo nic się nie
-zmieniło. Żeby kolejne uruchomienia działały, otwórz to zadanie w aplikacji Claude na komputerze z Chrome i włącz
-«Require this computer»." Czyli zadanie założone z panelu NIE dostało powiązania z komputerem — to osobny przełącznik.
-Nowe Zrobić: w Claude Desktop na Macu otworzyć zadanie „Kontrola linków w przeglądarce" i włączyć „Require this
-computer"; potem test ręczny (Kontroler może odpalić `fire_trigger` na prośbę — lista z 20.10 jest świeża), żeby nie
-czekać do 20.11. Kto: Marek (komputer).
-→ zamknięte 20.10.2026: Marek włączył „Require this computer" (12:43) i uruchomił zadanie z Maca — **żywe 19,
-404 0, przekierowania 0, inne 1 z 20** (Allegro 10416: „Sprzedaż zakończona", oferta z dzisiejszego feedu).
-Wynik: `materialy/kontrola-przegladarkowa/wyniki-2026-10-20.md`. Uruchomienie z chmury (`fire_trigger`) nie niesie
-podpisu komputera i idzie bez przeglądarki — test ręczny robi się z aplikacji na Macu. Następny przebieg 20.11 11:45.
-
-**`redirects.allegro` ma 1 048 z 7 201 wpisów bez oferty Allegro w dzisiejszym feedzie — ich linki nikt nie odświeża od dnia, w którym zestaw wypadł z feedu; dzisiejsza próba 4 linków Allegro trafiła wyłącznie w zestawy z bieżącą ofertą.**
-**Mamy?** — częściowo: kontrola miesięczna działa, ale losuje z całej mapy, więc o 1 048 wpisach z ryzykiem nadal nic nie wie.
-**Zrobić:** — w `scripts/kontrola-linkow.mjs --blokujace` losować Allegro spośród wpisów BEZ bieżącej oferty w `oferty_feed.json` (tam kryją się martwe), resztę sklepów jak dotąd; przy następnej liście 20.11.
-**Kto:** — Code (skrypt)
-→ zamknięte 20.10.2026: decyzja Marka — zrobione. `--blokujace` losuje Allegro wyłącznie spośród wpisów bez bieżącej oferty Allegro w feedzie (1 048 z 7 201), z powrotem na całość, gdy takich zabraknie; w nagłówku listy stoi, skąd losowano. Pierwsza taka lista: 20.11.
-
-## 2026-10-20 · CODE · Karty P07 Piotra: partia 08 (25 kart, ostatnia paczka) wgrana
-
-karty_setow 1399 → 1424, 0 blokad, bez różnic elementów; 24 karty jednoakapitowe.
-**Stan:** na main.
-
-## 2026-10-20 · CODE · Karty P07 Piotra: partie 09–13 (125 kart) wgrane
-
-karty_setow 1274 → 1399, 0 blokad (RRP zgodne), wszystkie 125 hubów indeksowalnych po buildzie
-(66 kart jednoakapitowych łapie reguła długości opisu z 18.10). Elementy: 14 różnic 1–16 szt. — zostaje
-liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 71046, 5009550).
-**Stan:** na main.
-
-## 2026-10-20 09:10 · CODE · Trzy teksty Piotra: upominki LEGO.pl, 11390 Dragon Ball, Star Wars styczeń 2027
-
-**Zrobione:** teksty bez zmian, dopisane frontmattery, FAQ, linki serii w miejsce znaczników.
-- `/artykuly/lego-pl-upominki-30717-40916-40765-pazdziernik-2026/` (Aktualności, `wazne_do` 27.10, galeria 3 upominków).
-- `/artykuly/lego-11390-dragon-ball-shenron-goku-premiera/` (Premiery): galeria 8 zdjęć z lego.com w `galerie.json`,
-  od razu w R2; tabela cen w miejsce znacznika cen.
-- `/artykuly/lego-star-wars-styczen-2027-przecieki/` (Aktualności): okładka poglądowa 75301 z opisem, że to nie zestaw
-  z przecieku; link do /przecieki/.
-**Stan:** na main.
-
 ## 2026-10-20 09:10 · CODE · Do zrobienia
 
 **Tekst Piotra o Star Wars na styczeń 2027 i `przecieki.json` różnią się przy dwóch zestawach: 75474 Master Yoda (Piotr: 1200 el., 149,99 €, 1.01.2027; u nas: bez elementów, 550 zł, 2027-04) i powiększonym Luke’u (Piotr: 75483, nowsze listy; u nas: 75482).**
 **Mamy?** — częściowo: oba w `przecieki.json`, tekst Piotra opisuje rozbieżność list
 **Zrobić:** — sprawdzić u źródeł i zaktualizować wpisy 75474 i 75482/75483 w `src/data/przecieki.json` (dopisać źródła, nie kasować wpisu)
 **Kto:** — Scout (następny przebieg)
-
-## 2026-10-20 09:05 · ŁOWCA · Do zrobienia
-
-**Nowa pozycja w podejrzanym rynku: 77253 Bugatti Vision GT na Ceneo za 57,32 zł przy RRP 114,99 (−50%)**
-**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
-**Zrobić:** — sprawdzić kartę oferty z maila podejrzanego rynku i dopisać 77253 do `src/data/deale_potwierdzone.json` (potwierdzone albo odrzucone)
-**Kto:** — Marek (decyzja)
-→ zamknięte 20.10.2026: Marek potwierdził (oferta Allegro widoczna przez Ceneo), wpis w `deale_potwierdzone.json`.
-↻ 21.10: Marek zmienił werdykt na „olej" (czat Łowcy) — 77253 przeniesiony do odrzuconych, oferta ukryta
 
 ## 2026-10-20 05:45 · DANE WT · Do zrobienia
 
@@ -1344,55 +1043,6 @@ liczba z katalogu. 6 kart bez liczby elementów (breloki 854xxx, minifigurki 710
 **Kto:** — Code
 ↻ 2026-10-27: nadal aktualne, i lista narosła — teraz 36 numerów (wszystkie 18 z zeszłego tygodnia nadal na niej, plus 18 nowych: 10338 76437 76294 75192 21353 10326 75397 10337 43263 10341 75367 10334 10323 21356 10459 71814 10458 40881), a licznik „ekskluzywne" na listingu spadł 116→75. Skok wystarczająco duży, żeby sprawdzić, czy lego.pl nie zmieniło sposobu pokazywania etykiety, zanim ktoś ręcznie przejdzie całą listę.
 → zamknięte 2026-10-27 (ten przebieg, na żądanie Marka): sprawdzone wszystkich 36 numerów kartami produktu lego.pl (Firecrawl). 33/36 nadal ma etykietę „Ekskluzywne" na karcie — skok 116→75 to fałszywe alarmy skanera listingu (duże zestawy UCS/Icons jak Sokół Millennium 75192 też są ekskluzywne LEGO.com, listing czasem gubi etykietę pod inną, np. „Ostatnie zestawy"), nie zmiana układu strony. 3/36 faktycznie straciło etykietę: **77264** (Jaguar Project 7 / Land Rover Defender), **10367** (Władca Pierścieni: Book nook z Balrogiem), **72156** (SMART Play ze Squirtle) — flaga zdjęta w `sety.json` (commit tej sesji). Nowa rozbieżność z kolejnych przebiegów Dane wt wraca jako osobny wpis.
-
-## 2026-10-20 05:25 · SCOUT · Do zrobienia
-
-**LEGO otworzyło w swoim sklepie strony akcji i podało terminy: Insiders Weekend 21–22 listopada 2026, Black Friday od 27 listopada, Cyber Monday 30 listopada (PromoBricks, 19.10).**
-**Mamy?** — nie: w dziale Artykuły nie ma kalendarza listopadowych akcji, a to najmocniejszy tydzień zakupowy roku
-**Zrobić:** — tekst w kategorii Kalendarze z tymi trzema terminami i zasadą, że nowości wchodzące w to okno (np. zapowiadana na 27 listopada Godzilla 21375) nie mają rabatu, mimo że sklep jest przeceniony
-**Kto:** — Piotr (tekst)
-→ zamknięte 27.10.2026 (decyzja Marka): osobnego tekstu nie piszemy — wszystkie trzy terminy
-i reguła o premierze bez rabatu są już w `/kalendarz-promocji-lego/` (sekcja `#listopad`:
-Insiders Weekend ok. 21–26.11, Black Friday 27.11, Cyber Monday 30.11, plus akapit o 21375 Godzilli
-wchodzącej do sprzedaży w dniu Black Friday). Strona aktualizowana 25.10.
-Sprawdzenie przy zamknięciu (27.10, lego.com/pl-pl/page/lego-offers-promotions): polski sklep
-**nadal nie podaje żadnych listopadowych terminów** — stoją tam tylko trzy okna gratisów do 27.10.
-Nasze daty listopadowe zostają więc z plakietką „przewidywane”; wpis Scouta opierał się na
-PromoBricks, nie na źródle producenta. Datowaną plakietkę zdejmiemy, gdy LEGO ogłosi terminy samo.
-
-## 2026-10-19 · CODE · Strona główna: rotacja zestawów w slajderze i „Dziś w dobrej cenie”
-
-Prośba Marka: codziennie inne zestawy. Każdy zestaw ma stałą grupę 0–2 (z numeru), dziś pierwszeństwo
-ma jedna grupa, jutro następna — zestaw wraca najwcześniej po trzech dniach; inne grupy tylko na
-dopełnienie pustych slotów. Wyjątek: zestaw z nowym minimum z dzisiejszych danych nadal ma pierwszeństwo
-w swojej półce slajdera (to news). Symulacja 20–22.10: slajder 4 z 5 zestawów nowych co dzień, „Dziś
-w dobrej cenie” 10–11 z 12 (przedział >1500 zł ma tylko kilka rabatów, tam powtórki zdarzają się).
-Kod: `src/pages/index.astro` (`naZmianie`, `dzisNaZmianie`).
-
-## 2026-10-19 15:10 · KONTROLER · Odczyt panelu GSC (Cowork) — punkt odniesienia kamienia 4
-
-- **837 zaindeksowanych** (dane panelu z 12.10.2026; poprzednio 831 z 09.10, 807 z 18.09), niezaindeksowanych
-  3 184: noindex **2 285**, wykryta–niezindeksowana **653** (weryfikacja „rozpoczęto"), zeskanowana–niezindeksowana
-  **21** (weryfikacja „niepowodzenie" — ktoś ją odpalił, Google jej nie potwierdził), **404: 220**, robots.txt 4,
-  przekierowanie 1. Odczyt Coworka 19.10 14:53, prompt z sesji Kontrolera.
-- **404 — rozstrzygnięte:** 219 z 220 to nasze huby `/zestaw/`, nie stary sklep. Wszystkie istnieją w buildzie,
-  produkcja odpowiada 200, wszystkie **noindex** (cienkie huby). Google skanował je 10–15.09, gdy stron jeszcze nie
-  było, i nie wrócił. Nic do roboty — przy następnym crawlu 404 zamieni się w noindex. Lista:
-  `materialy/indeksacja/gsc-404-2026-10-19.md`. Jeden adres spoza serwisu (`/p/64/3469/…html`, stary sklep) zostaje 404.
-- Mapy witryny: 8 map, wszystkie „Sukces", `sitemap-zestawy.xml` odczytana 19.10 z 1 375 adresami (zgodnie
-  z buildem), indeks 1 546. `sitemap-priorytet.xml` nie ma — zamknięte.
-- Do obejrzenia kiedyś, nie teraz: 4 adresy „zablokowane przez robots.txt" — panel nie pokazał których.
-
-## 2026-10-19 10:45 · CODE · x-kom Black Weeks: aktualność + ceny z kodem black-weeks1
-
-- `/artykuly/x-kom-black-weeks-2026-lego/` (Aktualności, bez `wazne_do` — x-kom nie podał końca cen z listy;
-  akcja do Black Friday 27.11). Mail SalesMasters 19.10: 11 zestawów „hero”. Karty x-kom sprawdzone ok. 10:30:
-  4 z kodem black-weeks1 (11381 399, 31220 579, 21064 209, 60510 69,99 — wszystkie poniżej naszych minimów),
-  3 „chwilowo niedostępne” (76473, 75447, 71497), 4 w zwykłej cenie bez kodu (10359, 21060, 43300, 71425).
-- Dane: te 4 ceny w `sety.json`/`oferty_feed` (xkom) i nowe minima w `ceny_baza`; kod w `kody_rabatowe.json`
-  (`xkom`, `koniec_znany: false`, `do` 2026-10-25 = horyzont do następnego zrzutu). Nowe: `terminKodu()` —
-  kod bez daty końca nie pokazuje „do …”; `me-kody.mjs` nie kasuje już kodów innych sklepów.
-**Dla drugiej strony:** zrzut x-kom 26.10 nadpisze te ceny; jeśli x-kom przedłuży kod, wystarczy przesunąć `do`.
 
 ## 2026-10-19 09:40 · KONTROLER · Do zrobienia
 
@@ -1514,70 +1164,7 @@ serwisu (`redirects.<sklep>`, `oferty_feed`, worker, raporty kliknięć).
 **Mamy?** — nie: w rejestrze stoi „nie sprawdzona"; stawka al.to (ok. 2%) nie jest dowodem dla x-komu.
 **Zrobić:** — odczytać w `salesmasters.x-kom.pl/prowizje` stawkę dla kategorii z klockami oraz długość cookie i podać je do sesji Code (jedno wejście w panel, przy okazji odczytu innych paneli).
 **Kto:** — Cowork (panel sieci) albo Marek (panel)
-
-## 2026-10-19 · CODE · Kontrola świeżości tekstów: skrypt gotowy, krok niewdrożony
-
-Marek: „dodaj to sprawdzanie do Kontrolera". Zrobione pół na pół i to jest cała prawda o stanie.
-
-**Gotowe i sprawdzone:** `scripts/swiezosc-tekstow.mjs` (+ wpis w `scripts/README.md`).
-Dwa ustalenia, oba policzalne: **sprzeczność** — numer z plakietką „przeciek" jest już
-wystawiony przez LEGO (potwierdzona cena w `rrp_potwierdzone.json` albo listing w
-`katalog.json`); **przestarzałe** — `zaktualizowano` starsze niż wpis albo rozstrzygnięcie
-w `przecieki.json` dla numeru, który tekst wymienia. Test regresji na stanie strony 2027
-z 27.08: wykrywa 67006 i 67008 plus jedenaście nowszych wpisów przecieków. Na stanie
-dzisiejszym: zero sprzeczności.
-
-Dwie decyzje projektowe w skrypcie, obie wymuszone pierwszym przebiegiem:
-- **ceny nie starzeją tekstu.** Standard zabrania kwot w treści artykułu, a sierpniowy
-  zrzut katalogu (ok. 900 wpisów RRP jednego dnia) zapalał każdy starszy tekst i zakopywał
-  jedyne ustalenie warte czytania. Ceny służą tylko do opisania numeru.
-- **`sety.json` nie jest dowodem, że LEGO ogłosiło zestaw.** 77094 (Zelda) jest w rejestrze,
-  a lego.com nie ma dla niego karty — sprawdzone dzisiaj. Takie numery idą do osobnego
-  kubełka „DO SPRAWDZENIA". Przy okazji: ten jeden numer to dziś jedyne ustalenie skryptu
-  i czeka na rozstrzygnięcie przecieku albo wyjaśnienie, skąd wpis w rejestrze.
-
-**NIEWDROŻONE:** Kontroler tego nie uruchamia. `update_trigger` z tej sesji odmówił —
-prompt runnera zmienia się tylko z jego własnej rozmowy albo z panelu. Akapit do wklejenia,
-miejsce wstawienia i dokładny komunikat odmowy leżą w
-`materialy/kontroler-krok-swiezosc-2026-10-19.md`. Reguła z „Ustaleń trwałych" obowiązuje:
-dopóki prompt się nie zmieni, kroku NIE MA i nie wolno pisać, że jest.
-
-**Zrobić:** — wkleić akapit z `materialy/kontroler-krok-swiezosc-2026-10-19.md` do promptu
-Routine `trig_01KB8XkPcHyvc5kCRKEKYjri`, przed akapitem „KLIKNIĘCIA AFILIACYJNE:"
-**Kto:** — Marek (panel) albo sesja Kontrolera
-→ zamknięte 19.10.2026: Marek wkleił. Sprawdzone przez `get_trigger`: akapit stoi w prompcie
-dosłownie, w zadanym miejscu (po `ARCHIWUM DZIENNIKA`, przed `KLIKNIĘCIA AFILIACYJNE:`),
-`updated_at` 2026-10-19T08:31:59Z. Krok wchodzi w życie przy przebiegu 26.10 — dzisiejszy
-Kontroler odpalił się o 09:08, przed zmianą. Przy okazji zmieniona godzina runnera:
-`CRON_TZ=Europe/Warsaw 30 9 * * 1`, nazwa „LEGO pon 09:30 — Kontroler". Skutek uboczny do
-wiadomości: akapit o kontroli linków nadal mówi, że Łowca chodzi „pół godziny przed Tobą"
-(08:30) — teraz to godzina. Treść kroku działa, poprawka tylko dla porządku.
-
-## 2026-10-19 · CODE · Zapowiedzi 2027: dwie tabele zamiast jednej
-
-Zamknięcie pozycji z dzisiejszego Radaru. Strona stała od 27.08 i mówiła nieprawdę.
-
-- **Co było nieprawdą:** „Grupa LEGO nie potwierdziła jeszcze żadnego zestawu na 2027 rok"
-  i nagłówek „Super Mario: jedyna potwierdzona zapowiedź". Sprawdzone dziś bezpośrednio
-  na lego.com/pl-pl: 72060 i 67008 mają `product:availability: pre-order` i komunikat
-  „Zamów ten produkt w przedsprzedaży już dziś (wysyłka od 1 stycznia 2027)".
-- **Struktura:** jedna tabela rozbita na dwie — osiem pozycji z kartą produktową i polską
-  ceną katalogową (72060 429,99, 72058 259,99, 67012 749,99, 67006 429,99, 67008 259,99,
-  67009 126,99, 71875 84,99, 71873 bez ceny) wobec czternastu przecieków. Ceny z
-  `rrp_potwierdzone.json` (lego.pl, 13–14.10).
-- **Dołożone pozycje**, których strona nie miała: 67009, 67012, 71873, 71875, 77094 Zelda,
-  11399 Helmowy Jar (numer i data 1.06.2027 z Bricksetu), 75484 UCS Eta-2, 30748,
-  blind boxy Pokémon.
-- **Drugi martwy zapis:** „polskich cen katalogowych [Super Mario] jeszcze nie ogłoszono".
-  LEGO podało je 28.08.2026 — **dzień po** ostatniej aktualizacji strony. Zdanie było
-  nieprawdziwe praktycznie od publikacji.
-- **Poprawiony fakt:** Helmowy Jar przy 8060 elementach jest drugim, nie pierwszym
-  największym zestawem LOTR — Minas Tirith ma 8278. Strona twierdziła odwrotnie.
-- **Liczba zestawów Super Mario w ofercie:** 37 → 22 (w katalogu 98 już wycofanych).
-- Wniosek na przyszłość, nie tylko o tej stronie: artykuł z sekcją „stan na dziś" starzeje
-  się szybciej, niż ktokolwiek do niego wraca. Tu wyszło siedem tygodni. Warto, żeby
-  Kontroler raz w tygodniu porównywał `zaktualizowano` tekstów o zapowiedziach z datami
-  wpisów w `przecieki.json` i `sety.json` — to zapytanie, nie praca redakcyjna.
+↻ 09.11 (Kontroler): nadal aktualne — audyt 06.11 (C3) odczytał z panelu saldo x-komu (0 zł), ale stawki dla klocków i długości cookie nie; w rejestrze dalej „NIE SPRAWDZONA", `cookie_dni: null`. x-kom ma 18 polskich kliknięć w 30 dni, trzecie miejsce po ME i Allegro.
 
 ## 2026-10-19 08:10 · RADAR · Do zrobienia
 
