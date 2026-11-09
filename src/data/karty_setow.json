@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-06",
+  "zaktualizowano": "2026-11-09",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -98071,6 +98071,1145 @@
    {
     "q": "Jakie są podobne zestawy LEGO Technic?",
     "a": "Pokrewna, choć już wycofana, jest wywrotka 42147 ze sprzedaży detalicznej: 177 elementów, ten sam wiek 7+ i przebudowa w koparkę. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "10320": {
+  "seria": "Icons",
+  "nazwa": "Twierdza Eldorado",
+  "elementy": 2509,
+  "akapity": [
+   "Twierdza Eldorado z 1989 roku, czyli zestaw 6276 z serii Pirates, wróciła w 2023 roku w odświeżonej formie jako 10320 z linii LEGO Icons. Nowa wersja liczy 2509 elementów i należy do zestawów dla dorosłych z oznaczeniem 18+. Zachowuje klasyczny charakter pierwowzoru, ale dostała nowe detale i niespodzianki.",
+   "W twierdzy i jej bazie mieszczą się biuro admirała, cela więzienna dla piratów, platforma obserwacyjna z podnoszoną armatą, ruchomy dźwig, pułapka i kilka tajnych pomieszczeń. Sekcje mają budowę modułową, więc da się je łączyć w różnych konfiguracjach. Do kompletu należą piracki galeon z żaglami z wzorzystego materiału i łódź ucieczkowa.",
+   "Załogę tworzy 8 minifigurek: sześciu żołnierzy królewskich i dwóch piratów. Towarzyszą im figurki szkieletu, małpy, papugi i kraba, a wśród akcesoriów są muszkiety, mapa skarbów, skrzynie, beczki, latarnie, klucze do więzienia oraz biurko ze świecą i piórem. Armaty działają, więc scenę bitwy można odegrać z całą załogą. Rozłożona twierdza zajmuje 70 cm szerokości przy 27 cm wysokości i 24 cm głębokości.",
+   "Gdyby stanął obok 21 zestawów LEGO Icons z 2026 roku, byłby 4. co do wielkości. Za element płaci się tu katalogowo 0,38 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11378/\">LEGO 11378 Samolot pasażerski Douglas DC-3 PAN AM</a> (949,99 zł katalogowo) i <a href=\"/zestaw/11374/\">LEGO 11374 Automat do gry pinball</a> (899,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10320",
+   "Nazwa": "Twierdza Eldorado",
+   "Seria": "Icons",
+   "Premiera": "2023",
+   "Liczba elementów": "2509",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "8 minifigurek (6 żołnierzy królewskich i 2 piratów)",
+   "Cena katalogowa w Polsce": "949,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Icons, nawiązanie do serii Pirates",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Twierdza Eldorado?",
+    "a": "Cena katalogowa wynosiła 949,99 zł. Produkcję zestawu zakończono. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Do którego zestawu nawiązuje model?",
+    "a": "Do Twierdzy Eldorado 6276 z 1989 roku z serii LEGO Pirates."
+   },
+   {
+    "q": "Jakie figurki zwierząt dołączono?",
+    "a": "Małpę, papugę i kraba, a także figurkę szkieletu."
+   },
+   {
+    "q": "Jakie pomieszczenia kryje twierdza?",
+    "a": "Biuro admirała, celę dla piratów, platformę obserwacyjną z podnoszoną armatą i tajne pomieszczenia."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Kierunek wyznaczają modele Icons dla dorosłych, które przywracają klasyczne linie LEGO w nowej formie. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10991": {
+  "seria": "DUPLO",
+  "nazwa": "Wymarzony plac zabaw",
+  "elementy": 75,
+  "akapity": [
+   "Plac zabaw z zestawu 10991 przenosi zabawę na świeżym powietrzu do domu. Maluchy wspinają się po ściance z wielorybem i na rakietę, kręcą się na karuzeli z wielorybim ogonem, zjeżdżają ze zjeżdżalni i bujają się na huśtawce, na którą można zaprosić przyjaciela.",
+   "Przy okazji maluchy od 2 lat poznają litery i cyfry, a zabawa rakietą jest pretekstem do rozmowy o planetach. W zestawie jest pięć figurek, w tym deskorolkarz i pies przewodnik, które pomagają ćwiczyć umiejętności społeczne.",
+   "Wymarzony plac zabaw był nowością LEGO DUPLO Town w 2023 roku. Zabawka z wielorybem mierzy 16 cm wysokości, 34 cm szerokości i 17 cm głębokości, a huśtawka ma 14 cm szerokości."
+  ],
+  "metryka": {
+   "Numer": "10991",
+   "Nazwa": "Wymarzony plac zabaw",
+   "Seria": "DUPLO",
+   "Premiera": "2023",
+   "Liczba elementów": "75",
+   "Wiek": "2+",
+   "Minifigurki / postacie": "5 figurek (m.in. deskorolkarz i pies przewodnik)",
+   "Cena katalogowa w Polsce": "224,99 zł",
+   "Cena katalogowa za element": "3,00 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DUPLO Town",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto było kupić plac zabaw w cenie katalogowej?",
+    "a": "Zestaw kosztował 224,99 zł i był w szerokiej sprzedaży, więc warto było porównać ceny w promocjach. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie urządzenia ma plac zabaw?",
+    "a": "Ściankę wspinaczkową z wielorybem, rakietę, karuzelę, zjeżdżalnię i huśtawkę."
+   },
+   {
+    "q": "Czego dzieci uczą się podczas zabawy?",
+    "a": "Liter i cyfr, a przy rakiecie rodzice mogą opowiadać o planetach."
+   },
+   {
+    "q": "Ile miejsca zajmuje zabawka z wielorybem?",
+    "a": "Ma 16 cm wysokości, 34 cm szerokości i 17 cm głębokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DUPLO?",
+    "a": "Codzienne scenki z życia przedszkolaków pokazuje też 10992 Dzień z życia w żłobku z łazienką i kącikiem plastycznym. <a href=\"/serie/duplo/\">Zobacz wszystkie zestawy LEGO DUPLO</a>"
+   }
+  ]
+ },
+ "10992": {
+  "seria": "DUPLO",
+  "nazwa": "Dzień z życia w żłobku",
+  "elementy": 67,
+  "akapity": [
+   "Codzienny dzień w żłobku odtwarza zestaw 10992 z serii LEGO DUPLO, wydany w 2023 roku. Składa się z dwóch modeli: jeden ma łazienkę z toaletą i umywalką do nauki mycia rąk, drugi miejsce do leżakowania.",
+   "Przedszkolanka i troje dzieci tworzą grupę, w której maluchy uczą się wspólnej zabawy i dzielenia się. Figurka na wózku inwalidzkim zjeżdża po rampie do kolegów, na podwórku dzieci śmigają na hulajnodze, a do zabawy jest też konik na biegunach. W kąciku plastycznym dzieci malują palcami, a okno i śniadaniówkę można otwierać i zamykać. Materiałowa mata z liczbami dodaje do nauki element sensoryczny.",
+   "Zestaw ma 67 elementów, a zabawka jest wysoka na 13 cm i szeroka na 19 cm."
+  ],
+  "metryka": {
+   "Numer": "10992",
+   "Nazwa": "Dzień z życia w żłobku",
+   "Seria": "DUPLO",
+   "Premiera": "2023",
+   "Liczba elementów": "67",
+   "Wiek": "2+",
+   "Minifigurki / postacie": "4 figurki (przedszkolanka i troje dzieci)",
+   "Cena katalogowa w Polsce": "199,99 zł",
+   "Cena katalogowa za element": "2,98 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DUPLO Town",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy zestaw jest jeszcze dostępny?",
+    "a": "Nie jest już produkowany. Katalogowo kosztował 199,99 zł, więc tę kwotę warto mieć w pamięci przy przeglądaniu ofert. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czego uczy łazienka w zestawie?",
+    "a": "Mycia rąk; są w niej toaleta i umywalka."
+   },
+   {
+    "q": "Do czego służy materiałowa mata?",
+    "a": "To mata z liczbami, która dodaje do nauki element sensoryczny."
+   },
+   {
+    "q": "Które elementy się poruszają?",
+    "a": "Okno i śniadaniówka się otwierają, a figurka na wózku inwalidzkim zjeżdża po rampie."
+   },
+   {
+    "q": "Jaki zestaw LEGO DUPLO warto kupić zamiast tego modelu?",
+    "a": "Dla nieco starszych dzieci, od 3 lat, jest 10994 Dom rodzinny 3 w 1: 218 elementów, siedem figurek i trzy warianty budowy domu, w cenie katalogowej 599,99 zł. <a href=\"/serie/duplo/\">Zobacz wszystkie zestawy LEGO DUPLO</a>"
+   }
+  ]
+ },
+ "10993": {
+  "seria": "DUPLO",
+  "nazwa": "Domek na drzewie 3 w 1",
+  "elementy": 126,
+  "akapity": [
+   "Domek na drzewie 3 w 1, zestaw LEGO DUPLO z 2023 roku dla przedszkolaków od 3 lat, można przebudować na trzy sposoby. Pierwszy model to trzypiętrowy plac zabaw w koronach drzew z bardzo długą zjeżdżalnią i chwiejącym się mostem, drugi przytulny domek na drzewie, a trzeci dwa domki ze zjeżdżalniami i ogród, z którego owoce wciąga się na górę bloczkiem.",
+   "Postacie to babcia, czwórka dzieci, ptak, kot i wiewiórka. Wśród akcesoriów są przybory piknikowe, parasol, deskorolka, kask, taczka i dynia, a klocek pogodowy pokazuje, czego roślinom potrzeba do wzrostu.",
+   "Główny model zestawu 10993 sięga ponad 43 cm w górę i 54 cm wszerz, więc daje małym rękom dużo miejsca do zabawy."
+  ],
+  "metryka": {
+   "Numer": "10993",
+   "Nazwa": "Domek na drzewie 3 w 1",
+   "Seria": "DUPLO",
+   "Premiera": "2023",
+   "Liczba elementów": "126",
+   "Wiek": "3+",
+   "Minifigurki / postacie": "8 figurek (babcia, czwórka dzieci, ptak, kot i wiewiórka)",
+   "Cena katalogowa w Polsce": "389,99 zł",
+   "Cena katalogowa za element": "3,10 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DUPLO, zestawy 3 w 1",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Około 3,10 zł przy cenie katalogowej 389,99 zł. To miara pomocnicza, bo duże klocki DUPLO podnoszą cenę jednego elementu. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie trzy modele można zbudować?",
+    "a": "Trzypiętrowy plac zabaw w koronach drzew, przytulny domek na drzewie oraz dwa domki z ogrodem."
+   },
+   {
+    "q": "Do czego służy klocek pogodowy?",
+    "a": "Pokazuje dzieciom, czego potrzebują rośliny, żeby rosnąć."
+   },
+   {
+    "q": "Jak owoce trafiają do domku?",
+    "a": "Wciąga się je z ogrodu za pomocą bloczka."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DUPLO?",
+    "a": "Także na trzy sposoby buduje się 10994 Dom rodzinny 3 w 1, który zamiast koron drzew pokazuje życie rodziny w domu. <a href=\"/serie/duplo/\">Zobacz wszystkie zestawy LEGO DUPLO</a>"
+   }
+  ]
+ },
+ "10994": {
+  "seria": "DUPLO",
+  "nazwa": "Dom rodzinny 3 w 1",
+  "elementy": 218,
+  "akapity": [
+   "Trzypiętrowy dom, wysoki budynek do zabawy albo dwa mniejsze mieszkania połączone ogrodem: na tyle sposobów można zbudować zestaw 10994, nowość LEGO DUPLO 2023 roku.",
+   "W pokojach maluchy odtwarzają wieczorne rytuały, takie jak mycie zębów i czytanie bajek w łóżku piętrowym. Lampka w kształcie gwiazdki ma świecący klocek, zasilany trzema bateriami LR44 dołączonymi do zestawu. Pomidory i marchewki zbiera się w ogrodzie, a w garażu stoi samochód elektryczny „ładowany” panelami słonecznymi, który jedzie po popchnięciu. Rodzina uczy się też sortować śmieci.",
+   "Figurek jest siedem: mama, tata, troje dzieci, pies i kot, a świecący klocek w kształcie gwiazdki jest jednym z 218 elementów zestawu."
+  ],
+  "metryka": {
+   "Numer": "10994",
+   "Nazwa": "Dom rodzinny 3 w 1",
+   "Seria": "DUPLO",
+   "Premiera": "2023",
+   "Liczba elementów": "218",
+   "Wiek": "3+",
+   "Minifigurki / postacie": "7 figurek (mama, tata, troje dzieci, pies i kot)",
+   "Cena katalogowa w Polsce": "599,99 zł",
+   "Cena katalogowa za element": "2,75 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DUPLO Town, zestawy 3 w 1",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka jest cena za element?",
+    "a": "Około 2,75 zł przy cenie 599,99 zł i 218 elementach. Wynik jest tylko orientacyjny, bo w cenie są też trzy baterie LR44 do świecącego klocka. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Na ile sposobów można zbudować dom?",
+    "a": "Na trzy: jako trzypiętrowy dom, wysoki budynek albo dwa mieszkania z ogrodem."
+   },
+   {
+    "q": "Jak działa lampka?",
+    "a": "Świecący klocek w gwiazdce włącza się i wyłącza; zasilają go trzy baterie LR44."
+   },
+   {
+    "q": "Czym jeździ rodzina?",
+    "a": "Samochodem elektrycznym, który rusza po popchnięciu, a „ładuje się” przy panelach słonecznych."
+   },
+   {
+    "q": "Jaki zestaw LEGO DUPLO warto kupić zamiast tego modelu?",
+    "a": "Tańszą propozycją 3 w 1 jest 10993 Domek na drzewie 3 w 1 za 389,99 zł: 126 elementów oraz babcia, czwórka dzieci i trzy zwierzęta zamiast siedmioosobowej rodziny. <a href=\"/serie/duplo/\">Zobacz wszystkie zestawy LEGO DUPLO</a>"
+   }
+  ]
+ },
+ "11028": {
+  "seria": "Classic",
+  "nazwa": "Kreatywna zabawa pastelowymi kolorami",
+  "elementy": 333,
+  "akapity": [
+   "Sześć pastelowych kolorów i 333 klocki w różnych kształtach oraz rozmiarach składają się na zestaw 11028 z serii LEGO Classic, który trafił do sprzedaży w 2023 roku. Drukowana instrukcja podsuwa pięć prostych modeli: lody, chmurkę, dinozaura, kota i robota.",
+   "Osiemnaście klocków ma nadrukowane oczy, które wyrażają różne emocje i ożywiają zbudowane figury. Pomysły z instrukcji są tylko punktem wyjścia, bo zestaw jest pomyślany przede wszystkim do swobodnego budowania własnych projektów. Modele z instrukcji powstają szybko, więc dziecko może od razu przejść do własnych pomysłów.",
+   "Kreatywna zabawa pastelowymi kolorami jest przeznaczona dla dzieci od 5 lat i sprawdza się też przy wspólnym budowaniu z dorosłymi. Należy do grupy zestawów Classic z mieszanką klocków zamiast jednego głównego modelu."
+  ],
+  "metryka": {
+   "Numer": "11028",
+   "Nazwa": "Kreatywna zabawa pastelowymi kolorami",
+   "Seria": "Classic",
+   "Premiera": "2023",
+   "Liczba elementów": "333",
+   "Wiek": "5+",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "0,26 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Classic, pudełka do swobodnego budowania",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje jeden element?",
+    "a": "Przy cenie katalogowej 84,99 zł i 333 klockach wypada około 0,26 zł. To wskaźnik pomocniczy, przydatny głównie przy porównywaniu pudełek Classic z mieszanką klocków. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie modele podsuwa instrukcja?",
+    "a": "Lody, chmurkę, dinozaura, kota i robota."
+   },
+   {
+    "q": "Ile klocków ma oczy?",
+    "a": "Osiemnaście; oczy wyrażają różne emocje."
+   },
+   {
+    "q": "W jakich barwach są klocki?",
+    "a": "W sześciu pastelowych kolorach."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Classic?",
+    "a": "Do tej grupy należą pudełka z klockami do swobodnego budowania, na przykład 10696 Kreatywne klocki LEGO, średnie pudełko. <a href=\"/serie/classic/\">Zobacz wszystkie zestawy LEGO Classic</a>"
+   }
+  ]
+ },
+ "21375": {
+  "seria": "Ideas",
+  "nazwa": "Godzilla",
+  "elementy": 5363,
+  "akapity": [
+   "Godzilla, Król Potworów z filmowego uniwersum, trafi do linii LEGO Ideas jako figurka o wysokości 70 cm. Zestaw 21375 składa się z 5363 elementów i powstał z myślą o dorosłych. Premierę zaplanowano na 27 listopada 2026 roku. Pomysł na model zgłosił fan, inni miłośnicy klocków poparli go w głosowaniu, a Grupa LEGO wprowadziła projekt do produkcji.",
+   "Konstrukcja odwzorowuje łuskowatą skórę i płyty grzbietowe Tytana, a odtworzenie jego postury wymaga pomysłowych technik budowania. Ogon buduje się w wersji skierowanej w lewo albo w prawo. Głowę da się przechylać do przodu i do tyłu, a ramiona, nadgarstki i palce ustawiać w groźnych pozach. Język w paszczy można odczepić i zastąpić promieniem atomowym, który przywołuje sceny z filmów o Godzilli.",
+   "To samodzielny model kolekcjonerski do ekspozycji na półce, biurku lub stole, który w salonie albo gabinecie pełni rolę filmowej dekoracji. Adresatami są dorośli fani filmów o Godzilli, także ci, którzy oglądali je przed laty, oraz kolekcjonerzy gadżetów z potworami.",
+   "Gdyby stanął obok 12 zestawów LEGO Ideas z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,32 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21369/\">LEGO 21369 The X-Files</a> (869,99 zł katalogowo) i <a href=\"/zestaw/21367/\">LEGO 21367 Tintin i rakieta na Księżyc</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "21375",
+   "Nazwa": "Godzilla",
+   "Seria": "Ideas",
+   "Premiera": "27 listopada 2026",
+   "Liczba elementów": "5363",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 699,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Ideas, licencja filmowa Godzilla",
+   "Dystrybucja": "ekskluzywny produkt LEGO"
+  },
+  "faq": [
+   {
+    "q": "Kiedy zestaw Godzilla będzie dostępny?",
+    "a": "Premiera jest zaplanowana na 27 listopada 2026 roku."
+   },
+   {
+    "q": "Czy warto zamówić Godzillę w cenie katalogowej?",
+    "a": "Cena katalogowa wyniesie 1 699,99 zł. Model ma być produktem ekskluzywnym LEGO, więc wybór ofert w dniu premiery może być ograniczony, a późniejsze ceny dobrze porównać z tą kwotą. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak wysoka jest figurka?",
+    "a": "Złożona Godzilla z promieniem atomowym ma 70 cm wysokości."
+   },
+   {
+    "q": "Które części figurki są ruchome?",
+    "a": "Głowa przechyla się do przodu i do tyłu, a ramiona, nadgarstki i palce można ustawiać. Ogon buduje się w jednej z dwóch wersji."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Ideas w podobnej cenie?",
+    "a": "Wśród droższych zestawów Ideas jest 21330 Ideas Sam w domu za 1 299,99 zł, z 3955 elementami. Godzilla kosztuje o 400 zł więcej, ma 5363 elementy i zamiast domu z wnętrzami przedstawia jedną dużą, ruchomą figurkę. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>"
+   }
+  ]
+ },
+ "30635": {
+  "seria": "Friends",
+  "nazwa": "Sprzątanie plaży",
+  "elementy": 52,
+  "akapity": [
+   "Sprzątanie plaży to niewielki zestaw 30635 w saszetce, osadzony w świecie LEGO Friends. Z 52 elementów powstaje fragment plaży z drzewem, a w scenie występują minilaleczka Aliyi oraz wydra. Ekologiczny motyw podkreśla recykling, a deska surfingowa i aparat fotograficzny dodają plażowych zajęć. Zestaw pochodzi z 2023 roku i ma oznaczenie 5+."
+  ],
+  "metryka": {
+   "Numer": "30635",
+   "Nazwa": "Sprzątanie plaży",
+   "Premiera": "2023",
+   "Liczba elementów": "52",
+   "Wiek": "5+",
+   "Minifigurki / postacie": "1 minilaleczka (Aliya) oraz wydra",
+   "Cena katalogowa w Polsce": "16,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Friends, saszetki",
+   "Seria": "LEGO Friends"
+  },
+  "faq": [
+   {
+    "q": "Czy warto kupić saszetkę w cenie katalogowej?",
+    "a": "Cena katalogowa wynosi 16,99 zł. Przy tak małym zestawie dobrze porównać ją z ofertami razem z kosztem dostawy. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie zwierzę jest w zestawie?",
+    "a": "Wydra."
+   },
+   {
+    "q": "Co można zbudować z 52 elementów?",
+    "a": "Fragment plaży z drzewem i akcesoriami do sprzątania oraz surfowania."
+   },
+   {
+    "q": "Do jakiej serii nawiązuje zestaw?",
+    "a": "Do LEGO Friends; występuje w nim Aliya."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Szerszą scenę z udziałem Aliyi daje 41738 Rower do ratowania psów, w którym szuka zaginionego szczeniaka. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "30651": {
+  "seria": "Harry Potter",
+  "nazwa": "Trening quidditcha",
+  "elementy": 55,
+  "akapity": [
+   "Trening quidditcha to saszetka 30651 ze świata Harry'ego Pottera, licząca 55 elementów. Przedstawia w mikroskali boisko do quidditcha w Hogwarcie, a minifigurką jest Cho Chang z Ravenclawu. Wśród elementów jest złoty znicz, a całość ustawia się na podstawce. Saszetkę wydano w 2023 roku z myślą o fanach od 6 lat."
+  ],
+  "metryka": {
+   "Numer": "30651",
+   "Nazwa": "Trening quidditcha",
+   "Premiera": "2023",
+   "Liczba elementów": "55",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 minifigurka (Cho Chang)",
+   "Cena katalogowa w Polsce": "16,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Harry Potter, saszetki",
+   "Seria": "LEGO Harry Potter"
+  },
+  "faq": [
+   {
+    "q": "Jaka jest cena katalogowa saszetki?",
+    "a": "16,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakiej skali jest boisko?",
+    "a": "W mikroskali."
+   },
+   {
+    "q": "Jaki element gry jest w zestawie?",
+    "a": "Złoty znicz."
+   },
+   {
+    "q": "Czy zestaw ma podstawkę?",
+    "a": "Tak, boisko ustawia się na podstawce."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Inny niewielki zestaw z tego świata to 40598 Skrytka w Banku Gringotta, która działa też jak skarbonka. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "30652": {
+  "seria": "Marvel",
+  "nazwa": "Doktor Strange – portal międzywymiarowy",
+  "elementy": 44,
+  "akapity": [
+   "Doktor Strange – portal międzywymiarowy to saszetka 30652 z serii LEGO Marvel. Z 44 elementów powstaje w mikroskali magiczny portal, a minifigurką jest Doktor Strange. Zestaw nawiązuje do filmu „Doktor Strange w multiwersum obłędu”, a wśród jego motywów jest płaszcz lewitacji. Saszetka pochodzi z 2023 roku i ma oznaczenie 6+."
+  ],
+  "metryka": {
+   "Numer": "30652",
+   "Nazwa": "Doktor Strange – portal międzywymiarowy",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "44",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 minifigurka (Doktor Strange)",
+   "Sposób uzyskania": "sprzedaż detaliczna (saszetka)",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Marvel, saszetki",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Gdzie szukać tej saszetki?",
+    "a": "Saszetki warto szukać w bieżących ofertach i porównać ceny. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakim filmem związany jest zestaw?",
+    "a": "Z filmem „Doktor Strange w multiwersum obłędu”."
+   },
+   {
+    "q": "Ile elementów ma saszetka?",
+    "a": "44."
+   },
+   {
+    "q": "Do jakiej serii należy saszetka?",
+    "a": "Do LEGO Marvel."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Większą figurkę z uniwersum Marvela daje 76243 Mechaniczna zbroja Rocketa z ruchomym mechem. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "31133": {
+  "seria": "Creator",
+  "nazwa": "Biały królik",
+  "elementy": 258,
+  "akapity": [
+   "Biały królik zbudowany z 258 elementów ma ruchome uszy, głowę, nogi i pyszczek, a jako przysmak dostaje marchewkę albo kwiatek. Zestaw 31133, który debiutował w 2023 roku, należy do serii LEGO Creator 3 w 1, więc z tych samych klocków powstają jeszcze dwa inne zwierzęta.",
+   "Papuga kakadu porusza skrzydłami, ogonem i szyją, obraca głowę o 360 stopni i może „jeść” ziarenka. Biała foka rusza pyszczkiem i płetwami, a do pyszczka da się jej przyczepić rybę. Królik może bawić się w lesie, kakadu siedzieć na drzewie, a foka pływać w morzu.",
+   "Wysoki na 15 cm królik łatwo daje się zabrać w każde miejsce. Satysfakcję daje samodzielne zbudowanie każdego z trzech modeli."
+  ],
+  "metryka": {
+   "Numer": "31133",
+   "Nazwa": "Biały królik",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2023",
+   "Liczba elementów": "258",
+   "Wiek": "8+",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator 3 w 1, ruchome zwierzęta",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jakie trzy zwierzęta można zbudować?",
+    "a": "Białego królika, papugę kakadu i białą fokę."
+   },
+   {
+    "q": "Które części królika się ruszają?",
+    "a": "Głowa, nogi, pyszczek i uszy."
+   },
+   {
+    "q": "Ile wynosi cena za element?",
+    "a": "Około 0,33 zł przy cenie katalogowej 84,99 zł. Wskaźnik jest tylko pomocniczy, bo z tej samej puli klocków powstają trzy różne modele. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co jedzą zwierzęta?",
+    "a": "Królik dostaje marchewkę albo kwiatek, kakadu ziarenka, a foka rybę."
+   },
+   {
+    "q": "Jaki zestaw LEGO Creator 3 w 1 warto kupić zamiast tego modelu?",
+    "a": "Alternatywą jest 31144 Egzotyczna różowa papuga: również 3 w 1 ze zwierzętami, z 253 elementami i oznaczeniem 7+, tyle że z papugą, rybą i żabą. Jej cena katalogowa była wyższa i wynosiła 109,99 zł. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "31144": {
+  "seria": "Creator",
+  "nazwa": "Egzotyczna różowa papuga",
+  "elementy": 253,
+  "akapity": [
+   "Różowo-niebieska papuga siedzi na gałęzi, obraca się na niej i porusza skrzydłami oraz ogonem. Model ptaka ma 22 cm wysokości, 11 cm długości i 12 cm szerokości, a w przerwach w zabawie może zdobić dziecięcy pokój.",
+   "Zestaw 31144, nowość 2023 roku w serii LEGO Creator 3 w 1, pozwala przebudować te same 253 elementy w rybę morską z płetwami unoszonymi w górę i w dół albo w kolorową żabę z ruchomymi kończynami. Papuga przenosi zabawę na drzewo w lesie deszczowym, a ryba na dno morza.",
+   "W linii 3 w 1 zestaw stoi obok m.in. Promu kosmicznego (31134), Kampera na plaży (31138) i Przytulnego domu (31139)."
+  ],
+  "metryka": {
+   "Numer": "31144",
+   "Nazwa": "Egzotyczna różowa papuga",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2023",
+   "Liczba elementów": "253",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "109,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator 3 w 1, zwierzęta egzotyczne",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Egzotyczna różowa papuga?",
+    "a": "109,99 zł według ceny katalogowej. Zestawu już się nie produkuje. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Gdzie żyją zwierzęta z zestawu?",
+    "a": "Papuga siedzi na drzewie w lesie deszczowym, a ryba pływa w morzu."
+   },
+   {
+    "q": "Jak porusza się papuga?",
+    "a": "Obraca się na gałęzi i rusza skrzydłami oraz ogonem."
+   },
+   {
+    "q": "Co potrafi ryba?",
+    "a": "Unosi płetwy w górę i w dół."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator 3 w 1?",
+    "a": "Tematycznie najbliższy jest 31133 Biały królik, w którym z jednego zestawu także powstają trzy zwierzęta: królik, kakadu i foka. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40597": {
+  "seria": "Creator",
+  "nazwa": "Straszna wyspa piratów",
+  "elementy": 214,
+  "akapity": [
+   "Halloweenowa wyspa z zestawu 40597 łączy głowę rekina z jaskinią w otwartej paszczy i ruiny strasznego zamku ze schodami. Odkrywców czekają tam skrzynia pełna złota i biżuterii, czaszka oraz nietoperz, a w stronę wyspy płynie na tratwie poszukiwacz skarbów: pirat z wiosłem i mieczem, jedyna minifigurka w zestawie.",
+   "Straszna wyspa piratów liczy 214 elementów i jest przeznaczona dla dzieci od 8 lat. Wyspa ma 13 cm wysokości, 12 cm szerokości i 9 cm głębokości, więc łatwo ją przenosić.",
+   "Motyw Halloween łączy się tu z piracką przygodą: zestaw z 2023 roku sprawdza się w odgrywaniu historii, a na półce także jako dekoracja na Halloween."
+  ],
+  "metryka": {
+   "Numer": "40597",
+   "Nazwa": "Straszna wyspa piratów",
+   "Premiera": "2023",
+   "Liczba elementów": "214",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "1 minifigurka (pirat)",
+   "Cena katalogowa w Polsce": "89,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "zestawy sezonowe na Halloween",
+   "Seria": "LEGO Creator"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje Straszna wyspa piratów?",
+    "a": "Cena katalogowa to 89,99 zł, co przy 214 elementach daje około 0,42 zł za element. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co kryje paszcza rekina?",
+    "a": "Jaskinię; na wyspie są też ruiny zamku ze schodami."
+   },
+   {
+    "q": "Kto płynie na tratwie?",
+    "a": "Poszukiwacz skarbów, czyli pirat z wiosłem i mieczem."
+   },
+   {
+    "q": "Do jakiego święta nawiązuje zestaw?",
+    "a": "Do Halloween, stąd czaszka, nietoperz i ruiny strasznego zamku."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator?",
+    "a": "Najbliżej mu do sezonowych zestawów Creator na Halloween. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40598": {
+  "seria": "Harry Potter",
+  "nazwa": "Skrytka w Banku Gringotta",
+  "elementy": 212,
+  "akapity": [
+   "Zbudowany z 212 elementów skarbiec Banku Gringotta pełni podwójną rolę: odtwarza magiczne sceny ze świata Harry'ego Pottera i działa jak skarbonka, bo na górze ma otwór na monety. Zestaw 40598, który ukazał się w 2023 roku, ma otwierane drzwi i odczepianą tylną ścianę.",
+   "W zestawie są wózek, tory i minifigurka goblina, który jeździ wózkiem po torach. Skrytkę można połączyć z zestawem 76417 Bank Gringotta – edycja kolekcjonerska, sprzedawanym osobno, i w ten sposób rozbudować scenę w Banku Gringotta. Skarbiec ma 12 cm wysokości oraz po 13 cm szerokości i głębokości.",
+   "Skrytka jest przeznaczona dla fanów Harry'ego Pottera od 8 lat, którzy chcą przy okazji odkładać drobne monety."
+  ],
+  "metryka": {
+   "Numer": "40598",
+   "Nazwa": "Skrytka w Banku Gringotta",
+   "Premiera": "2023",
+   "Liczba elementów": "212",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "1 minifigurka (goblin)",
+   "Cena katalogowa w Polsce": "99,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, Bank Gringotta",
+   "Seria": "LEGO Harry Potter"
+  },
+  "faq": [
+   {
+    "q": "Gdzie kupić skrytkę?",
+    "a": "W bieżących ofertach; punktem odniesienia jest cena katalogowa 99,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy skrytka może służyć jako skarbonka?",
+    "a": "Tak, na górze ma otwór na monety."
+   },
+   {
+    "q": "Kto jeździ wózkiem po torach?",
+    "a": "Minifigurka goblina."
+   },
+   {
+    "q": "Jak duża jest skrytka?",
+    "a": "Ma 12 cm wysokości, 13 cm szerokości i 13 cm głębokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Tematycznie najbliższy jest 76417 Bank Gringotta – edycja kolekcjonerska, z którym skrytkę można połączyć. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "40646": {
+  "seria": "Icons",
+  "nazwa": "Żonkile",
+  "elementy": 216,
+  "akapity": [
+   "Cztery żonkile, dwa żółte i dwa białe, tworzą wiosenną kompozycję z zestawu 40646. Każda łodyga mierzy 30 cm wysokości, a ruchome listki pozwalają ułożyć kwiaty tak, by dobrze wyglądały razem. Wazonu w pudełku nie ma, więc bukiet trzeba postawić we własnym naczyniu.",
+   "Żonkile liczą 216 elementów i mają oznaczenie 18+, a LEGO poleca je jako prezent dla dorosłych. Zestaw wydano w 2023 roku w cenie katalogowej 69,99 zł, a jego produkcję już zakończono. Kwiaty pomyślano jako ozdobę dowolnego pomieszczenia, także na Walentynki.",
+   "Kwiaty należą do botanicznej kolekcji LEGO. Można je łączyć z Różami (40460), Tulipanami (40461) albo Słonecznikami (40524), sprzedawanymi oddzielnie, i układać z nich większy bukiet z kilku gatunków, ustawiony w jednym wazonie."
+  ],
+  "metryka": {
+   "Numer": "40646",
+   "Nazwa": "Żonkile",
+   "Premiera": "2023",
+   "Liczba elementów": "216",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "69,99 zł",
+   "Cena katalogowa za element": "0,32 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "kwiaty z kolekcji botanicznej LEGO",
+   "Dystrybucja": "sprzedaż detaliczna",
+   "Seria": "LEGO Icons"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa żonkili?",
+    "a": "69,99 zł. Produkcję zestawu zakończono, więc obecne ceny warto odnosić do tej kwoty. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy w zestawie jest wazon?",
+    "a": "Nie, kwiaty wstawia się do własnego wazonu."
+   },
+   {
+    "q": "Jakie kolory mają kwiaty?",
+    "a": "Dwa żonkile są żółte, a dwa białe."
+   },
+   {
+    "q": "Jak wysokie są żonkile?",
+    "a": "Każda łodyga ma 30 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Botanicals?",
+    "a": "Najbliżej są Róże (40460), Tulipany (40461) i Słoneczniki (40524), z którymi żonkile można zestawić w jeden bukiet. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "41738": {
+  "seria": "Friends",
+  "nazwa": "Rower do ratowania psów",
+  "elementy": 125,
+  "akapity": [
+   "Aliya, liderka misji, i jej młodsza przyjaciółka Victoria szukają zaginionego szczeniaka w mieście Heartlake. W zestawie 41738 LEGO Friends zwierzaka można wyśledzić po śladach łap i psich kupach, a potem znaleźć w krzakach, które się podnoszą.",
+   "Rower ma odczepianą przyczepkę, otwieraną z przodu i z tyłu. Sceneria parku obejmuje ławkę i krzaki. Do opieki nad pieskiem służą jedzenie i woda, a w zestawie są też lornetka, kask, kość, śmietnik i plakat.",
+   "Rower do ratowania psów, wydany w 2023 roku, należy do odświeżonej odsłony LEGO Friends, w której Heartlake zyskało nowe postacie i miejsca. Wymiary roweru z przyczepką to 8 × 14 × 4 cm."
+  ],
+  "metryka": {
+   "Numer": "41738",
+   "Nazwa": "Rower do ratowania psów",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "125",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 minilaleczki (Aliya i Victoria) oraz szczeniak",
+   "Cena katalogowa w Polsce": "42,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, ratowanie psów",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa roweru?",
+    "a": "42,99 zł. Zestaw nie jest już produkowany. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kogo przedstawiają minilaleczki?",
+    "a": "Aliyę, liderkę misji, i jej młodszą przyjaciółkę Victorię."
+   },
+   {
+    "q": "Jak znaleźć zaginionego szczeniaka?",
+    "a": "Trzeba iść po śladach łap i psich kupach; piesek ukrywa się w podnoszonych krzakach."
+   },
+   {
+    "q": "Jakie akcesoria dołączono?",
+    "a": "Jedzenie i wodę dla psa, lornetkę, kask, kość, śmietnik i plakat."
+   },
+   {
+    "q": "Jaki zestaw LEGO Friends warto kupić zamiast tego modelu?",
+    "a": "Rozbudowaną wersję tej samej misji daje 41741 Furgonetka ratunkowa dla psów: 300 elementów, minilaleczki Novy i doktora Marlona oraz furgonetka z mobilnym centrum ratunkowym, w cenie katalogowej 129,99 zł. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41741": {
+  "seria": "Friends",
+  "nazwa": "Furgonetka ratunkowa dla psów",
+  "elementy": 300,
+  "akapity": [
+   "Po podniesieniu dachu furgonetka 41741, nowość LEGO Friends 2023 roku, zmienia się w mobilne centrum ratunkowe. Do opieki nad psem Pickle'em służą wanienka, stół, szczotka, mydło, woda i jedzenie, a do kompletu należy też śmietnik.",
+   "Historia zaczyna się od pudełka, z którego wystaje głowa szczeniaczka, gdy w pobliżu przechodzi Nova. Twarz Novy można zmienić ze smutnej na szczęśliwą po udanej akcji, a Pickle dostaje wózek, który pomaga mu chodzić. Drugą minilaleczką jest doktor Marlon, a Pickle'a przedstawia osobna figurka szczeniaczka.",
+   "Zestaw liczy 300 elementów i został pomyślany do wymyślania historyjek o ratowaniu psów; furgonetka sięga około 11 cm wysokości przy 12 cm długości."
+  ],
+  "metryka": {
+   "Numer": "41741",
+   "Nazwa": "Furgonetka ratunkowa dla psów",
+   "Seria": "Friends",
+   "Premiera": "2023",
+   "Liczba elementów": "300",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 minilaleczki (Nova i doktor Marlon) oraz pies Pickle",
+   "Cena katalogowa w Polsce": "129,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, ratowanie psów",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy furgonetka jest jeszcze w sprzedaży?",
+    "a": "Jej produkcję zakończono. Cena katalogowa wynosiła 129,99 zł i to dobry punkt odniesienia przy obecnych ofertach. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie postacie są w zestawie?",
+    "a": "Minilaleczki Novy i doktora Marlona oraz figurka psa Pickle'a."
+   },
+   {
+    "q": "Co kryje się pod dachem furgonetki?",
+    "a": "Mobilne centrum ratunkowe z wanienką i stołem."
+   },
+   {
+    "q": "Do czego służy wózek dla Pickle'a?",
+    "a": "Pomaga szczeniaczkowi chodzić."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Tę samą misję w mniejszej skali pokazuje 41738 Rower do ratowania psów z Aliyą i Victorią. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "43211": {
+  "seria": "Disney",
+  "nazwa": "Zamek Aurory",
+  "elementy": 187,
+  "akapity": [
+   "Zamek Aurory z serii LEGO Disney, który ukazał się w 2023 roku, powstał z myślą o dzieciach od 4 lat, które dopiero uczą się budować. Zestaw 43211 ma klocki startowe dające solidną podstawę i proste instrukcje z obrazkami, a w każdej torebce z klockami jest postać, więc zabawę można zacząć przed końcem budowy.",
+   "Zamek mierzy 27 cm wysokości i 38 cm szerokości. Po schodach wchodzi się na górę, zjeżdżalnia sprowadza z powrotem na dół, a na obracającym się parkiecie tańczą Aurora i książę Filip. Trzecią minilaleczką jest Diabolina, a do kompletu należą jeszcze dwa mniejsze modele.",
+   "Model nawiązuje do filmu „Śpiąca Królewna” Disneya i liczy 187 elementów."
+  ],
+  "metryka": {
+   "Numer": "43211",
+   "Nazwa": "Zamek Aurory",
+   "Seria": "Disney",
+   "Premiera": "2023",
+   "Liczba elementów": "187",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "3 minilaleczki (Aurora, książę Filip i Diabolina)",
+   "Cena katalogowa w Polsce": "189,99 zł",
+   "Cena katalogowa za element": "1,02 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Disney, Księżniczki Disneya",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka jest cena jednego elementu?",
+    "a": "Przy cenie katalogowej 189,99 zł i 187 elementach – około 1,02 zł. Wskaźnik jest pomocniczy, bo zestaw 4+ zawiera klocki startowe i trzy minilaleczki. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie postacie Disneya są w zestawie?",
+    "a": "Aurora, książę Filip i Diabolina."
+   },
+   {
+    "q": "Co ułatwia budowę młodszym dzieciom?",
+    "a": "Klocki startowe i proste instrukcje z obrazkami; w każdej torebce jest też postać."
+   },
+   {
+    "q": "Co można robić w zamku?",
+    "a": "Wchodzić po schodach, zjeżdżać po zjeżdżalni i tańczyć na obrotowym parkiecie."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Z tej samej serii pochodzi 43213 Historyjki Małej Syrenki, mniejszy zestaw w formie zamykanej książeczki z trzema scenami. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "43213": {
+  "seria": "Disney",
+  "nazwa": "Historyjki Małej Syrenki",
+  "elementy": 134,
+  "akapity": [
+   "Zamykana książeczka z zestawu 43213, wprowadzonego do sprzedaży w 2023 roku, kryje mikroświat Małej Syrenki z trzema scenami. Pierwsza to kryjówka Urszuli ze składanym tronem z muszli, druga biblioteka księcia Eryka z ukrytą książką i mapą, a trzecia jaskinia Arielki z obrotowym posągiem i kluczem.",
+   "Postacie to mikrolaleczki Arielki, księcia Eryka i Urszuli oraz figurka kraba Sebastiana, a cały zestaw liczy 134 elementy. Księgę można zamknąć na klucz, a otwarta ma 7 cm wysokości, 22 cm szerokości i 12 cm głębokości, dzięki czemu łatwo zabrać ją w podróż.",
+   "Książeczka powstała na podstawie fabularnej wersji filmu „Mała Syrenka”, a zabawę można rozszerzyć o inne zestawy LEGO Disney."
+  ],
+  "metryka": {
+   "Numer": "43213",
+   "Nazwa": "Historyjki Małej Syrenki",
+   "Seria": "Disney",
+   "Premiera": "2023",
+   "Liczba elementów": "134",
+   "Wiek": "5+",
+   "Minifigurki / postacie": "3 mikrolaleczki (Arielka, książę Eryk i Urszula) oraz krab Sebastian",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "0,63 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Disney, zestawy w formie książki",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowały Historyjki Małej Syrenki?",
+    "a": "Cena katalogowa to 84,99 zł; produkcja zestawu jest zakończona. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie sceny mieszczą się w książeczce?",
+    "a": "Kryjówka Urszuli, biblioteka księcia Eryka i jaskinia Arielki."
+   },
+   {
+    "q": "Które postacie są w zestawie?",
+    "a": "Mikrolaleczki Arielki, księcia Eryka i Urszuli oraz krab Sebastian."
+   },
+   {
+    "q": "Czy książkę można zamknąć?",
+    "a": "Tak, zamyka się ją na klucz, co ułatwia zabranie zestawu ze sobą."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Inny film Disneya przedstawia 43223 Asha w Rosas, osadzony w świecie „Życzenia”. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "43223": {
+  "seria": "Disney",
+  "nazwa": "Asha w Rosas",
+  "elementy": 154,
+  "akapity": [
+   "Asha, bohaterka filmu „Życzenie” Walt Disney Animation Studios, oprowadza turystów po rynku Rosas w zestawie 43223 z serii LEGO Disney, który trafił do sklepów w 2023 roku. Wózek z flagą pomaga uczestnikom wycieczki ją odnaleźć, a towarzyszą jej koziołek Valentino i Star.",
+   "Targowisko ma podwójne drzwi, schody, balkon i zaplecze ze stołem, a na rynku są towary. Asha jest minilaleczką, a Valentino i Star to osobne figurki. Na 154 elementy składają się targowisko, wózek i akcesoria. Wymiary targowiska to 12 × 17 × 11 cm.",
+   "Zestaw można połączyć z 43224 i 43231 z tej samej serii, sprzedawanymi osobno, by zbudować większe królestwo Rosas."
+  ],
+  "metryka": {
+   "Numer": "43223",
+   "Nazwa": "Asha w Rosas",
+   "Seria": "Disney",
+   "Premiera": "2023",
+   "Liczba elementów": "154",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 minilaleczka (Asha) oraz figurki Valentino i Star",
+   "Cena katalogowa w Polsce": "89,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Disney, film „Życzenie”",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto było kupić zestaw w cenie katalogowej?",
+    "a": "Kosztował 89,99 zł. Był szeroko dostępny, więc przy zakupie dobrze było porównać tę kwotę z cenami w promocjach. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kim jest Valentino?",
+    "a": "To koziołek Ashy z filmu „Życzenie”."
+   },
+   {
+    "q": "Co znajduje się na rynku?",
+    "a": "Targowisko z podwójnymi drzwiami, schody, balkon, zaplecze ze stołem i towary."
+   },
+   {
+    "q": "Do czego służy wózek z flagą?",
+    "a": "Dzięki niemu turyści łatwo odnajdują Ashę w trakcie wycieczki."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Ten sam film przedstawiają zestawy 43224 i 43231, z którymi Asha w Rosas tworzy większe królestwo. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "60397": {
+  "seria": "City",
+  "nazwa": "Wyścig monster truckami",
+  "elementy": 301,
+  "akapity": [
+   "Dwa monster trucki z gry LEGO 2K Drive ścigają się w zestawie 60397 z linii LEGO City, nowości 2023 roku. Jedno auto nawiązuje do tacos, drugie do piratów, a za kierownicą siadają minifigurki tacosowego i pirackiego kierowcy.",
+   "Pojazdy mają funkcje znane z gry. Dzieci mogą wystrzeliwać elementy z wyrzutni guacamole albo zrzucać zabawkową rybę ze skrzyni ze skarbami, żeby spowolnić rywala. W pudełku, liczącym 301 elementów, są dwie przyczepiane wyrzutnie, cztery pociski do nich, piracka skrzynia i figurka ryby.",
+   "Do zabawkowych samochodów wyścigowych da się doczepiać ulepszenia, a przedni i tylny moduł aut można zamieniać, konfigurując je na nowo przed kolejnym wyścigiem."
+  ],
+  "metryka": {
+   "Numer": "60397",
+   "Nazwa": "Wyścig monster truckami",
+   "Seria": "City",
+   "Premiera": "2023",
+   "Liczba elementów": "301",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "2 minifigurki (tacosowy i piracki kierowca)",
+   "Cena katalogowa w Polsce": "124,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO City, gra LEGO 2K Drive",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował Wyścig monster truckami?",
+    "a": "Katalogowo 124,99 zł; zestaw wycofano z produkcji. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakiej gry pochodzą monster trucki?",
+    "a": "Z wyścigowej gry LEGO 2K Drive."
+   },
+   {
+    "q": "Czym można spowolnić rywala?",
+    "a": "Pociskami z wyrzutni guacamole albo zabawkową rybą zrzucaną ze skrzyni ze skarbami."
+   },
+   {
+    "q": "Czy moduły aut są wymienne?",
+    "a": "Tak, przednie i tylne moduły da się zamieniać."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO City?",
+    "a": "Najbliżej mu do pojazdów City; od innych odróżnia go powiązanie z grą LEGO 2K Drive. <a href=\"/serie/city/\">Zobacz wszystkie zestawy LEGO City</a>"
+   }
+  ]
+ },
+ "76243": {
+  "seria": "Marvel",
+  "nazwa": "Mechaniczna zbroja Rocketa",
+  "elementy": 98,
+  "akapity": [
+   "Szop Rocket ze Strażników Galaktyki Marvela siada w kokpicie własnej maszyny bitewnej w zestawie 76243. Mech ma ruchome ręce, nogi i palce, dzięki czemu przyjmuje różne pozy, a w jednej ręce trzyma wielki blaster z sześcioma lufami.",
+   "Kokpit się otwiera i mieści minifigurkę Rocketa, która siedzi w nim jak pilot. Poza mechem bohater ma też mniejsze działko do walki, a figurkę łatwo zabrać ze sobą.",
+   "Mechaniczna zbroja Rocketa ukazała się w 2023 roku w serii LEGO Marvel i składa się z 98 elementów. Dzięki ruchomym kończynom nadaje się zarówno do zabawy, jak i do ustawienia w wybranej pozie, a fani Strażników Galaktyki mogą bawić się nią zaraz po złożeniu."
+  ],
+  "metryka": {
+   "Numer": "76243",
+   "Nazwa": "Mechaniczna zbroja Rocketa",
+   "Seria": "Marvel",
+   "Premiera": "2023",
+   "Liczba elementów": "98",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "1 minifigurka (Rocket)",
+   "Cena katalogowa w Polsce": "64,99 zł",
+   "Cena katalogowa za element": "0,66 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Marvel, Strażnicy Galaktyki",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy warto było kupić mecha w cenie katalogowej?",
+    "a": "Kosztował katalogowo 64,99 zł, czyli około 0,66 zł za element; przy 98 elementach i jednej minifigurce tę kwotę dobrze było zestawić z rabatami. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaką broń ma Rocket?",
+    "a": "Mech trzyma blaster z sześcioma lufami, a sam Rocket ma mniejsze działko."
+   },
+   {
+    "q": "Czy mecha można ustawiać w pozach?",
+    "a": "Tak, ręce, nogi i palce są ruchome."
+   },
+   {
+    "q": "Z jakiej drużyny pochodzi Rocket?",
+    "a": "Ze Strażników Galaktyki Marvela."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Inny niewielki zestaw z uniwersum Marvela to 30652 Doktor Strange – portal międzywymiarowy z jedną minifigurką. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76410": {
+  "seria": "Harry Potter",
+  "nazwa": "Flaga Slytherinu",
+  "elementy": 349,
+  "akapity": [
+   "Flaga Slytherinu z zestawu 76410 wisi na ścianie dzięki dołączonemu wieszakowi, a z przodu ma płytkę z nadrukiem herbu domu. Po otwarciu ukazuje pokój wspólny Slytherinu ze stołem, sofą, dwiema lampami, schodami i szafką, w której kryje się tajna wiadomość.",
+   "Wsuwana tablica soczewkowa tworzy efekty 3D: w oknie widać podwodną scenerię Jeziora Hogwartu, w kominku migocze ogień, a twarz Salazara Slytherina zmienia minę z poważnej na uśmiechniętą.",
+   "W zestawie są minifigurki Dracona Malfoya, Pansy Parkinson i Blaise'a Zabiniego oraz medalion Slytherina. Flaga z 2023 roku ma 349 elementów, mierzy 20 cm wysokości i jest jedną z czterech flag domów Hogwartu, obok 76409, 76411 i 76412."
+  ],
+  "metryka": {
+   "Numer": "76410",
+   "Nazwa": "Flaga Slytherinu",
+   "Seria": "Harry Potter",
+   "Premiera": "2023",
+   "Liczba elementów": "349",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "3 minifigurki (Draco Malfoy, Pansy Parkinson i Blaise Zabini)",
+   "Cena katalogowa w Polsce": "159,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, flagi domów Hogwartu",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Czy flagę można jeszcze kupić?",
+    "a": "Produkcję zakończono, a cena katalogowa wynosiła 159,99 zł. Egzemplarzy trzeba dziś szukać w ofertach sklepów. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co kryje się wewnątrz flagi?",
+    "a": "Pokój wspólny Slytherinu ze stołem, sofą, lampami, schodami i szafką z tajną wiadomością."
+   },
+   {
+    "q": "Jakie efekty daje tablica soczewkowa?",
+    "a": "Ruchome obrazy 3D: jezioro za oknem, ogień w kominku i zmieniającą się twarz Salazara Slytherina."
+   },
+   {
+    "q": "Na czym zawiesza się flagę?",
+    "a": "Na dołączonym wieszaku, na ścianie."
+   },
+   {
+    "q": "Jaki zestaw LEGO Harry Potter warto kupić zamiast tego modelu?",
+    "a": "Osobom kibicującym innemu domowi lepiej pasuje jedna z pozostałych flag tej samej linii: 76409 Gryffindoru, 76411 Ravenclawu albo 76412 Hufflepuffu, czyli trzy z czterech flag domów Hogwartu. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76423": {
+  "seria": "Harry Potter",
+  "nazwa": "Ekspres do Hogwartu i stacja w Hogsmeade",
+  "elementy": 1074,
+  "akapity": [
+   "Przyjazd pierwszorocznych do Hogsmeade, gdzie na peronie czeka Hagrid, odtwarza zestaw 76423 Ekspres do Hogwartu i stacja w Hogsmeade z serii LEGO Harry Potter. Komplet wydany w 2023 roku składa się z 1074 elementów i jest przeznaczony dla dzieci od 8 lat.",
+   "Pociąg tworzą lokomotywa, węglarka i dwa wagony pasażerskie, a do kompletu dochodzi wózek ze słodyczami czarownicy. Skład jeździ po torach, a po obróceniu przedniej belki zderzaka lokomotywy także poza nimi. Zbudowany ekspres ma 59 cm długości, 8 cm wysokości i 6 cm szerokości.",
+   "Stacja obejmuje kasę biletową, Sowią Pocztę, toaletę i peron, a także szyld ze wskazówkami dojazdu do Hogsmeade i Hogwartu. W pudełku jest 8 minifigurek: Harry Potter, Ron Weasley, Hermiona Granger, Draco Malfoy, Lee Jordan, Rubeus Hagrid, pani z wózkiem i konduktor. Lee Jordan dostał tu swoją pierwszą minifigurkę. Akcesoria to między innymi pudełko fasolek wszystkich smaków Bertiego Botta i rodzinny album ze zdjęciami, który Hagrid daje Harry'emu.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 5. co do wielkości. Za element płaci się tu katalogowo 0,54 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Numer": "76423",
+   "Nazwa": "Ekspres do Hogwartu i stacja w Hogsmeade",
+   "Seria": "Harry Potter",
+   "Premiera": "2023",
+   "Liczba elementów": "1074",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "8 minifigurek (m.in. Harry Potter, Hermiona Granger i Lee Jordan)",
+   "Cena katalogowa w Polsce": "579,99 zł",
+   "Cena katalogowa za element": "0,54 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, pociąg z torami",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 76423?",
+    "a": "579,99 zł. Ekspres ze stacją nie jest już produkowany, więc dziś cenę wyznaczają dostępne oferty. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które postacie są w zestawie?",
+    "a": "Harry Potter, Ron Weasley, Hermiona Granger, Draco Malfoy, Lee Jordan, Rubeus Hagrid, pani z wózkiem i konduktor."
+   },
+   {
+    "q": "Czy pociąg jeździ tylko po torach?",
+    "a": "Nie. Po obróceniu przedniej belki zderzaka lokomotywa może zjechać z torów."
+   },
+   {
+    "q": "Co obejmuje stacja w Hogsmeade?",
+    "a": "Kasę biletową, Sowią Pocztę, toaletę, peron i szyld z kierunkami do Hogsmeade i Hogwartu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Inaczej świat Hogwartu pokazuje 76410 Flaga Slytherinu, w której zamiast pociągu kryje się pokój wspólny domu. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76959": {
+  "seria": "Jurassic World",
+  "nazwa": "Badanie triceratopsa",
+  "elementy": 281,
+  "akapity": [
+   "Scenę z „Parku Jurajskiego”, w której bohaterowie pomagają choremu triceratopsowi, odtwarza zestaw 76959 Badanie triceratopsa. Ford Explorer z filmu ma pokładowy system nawigacji do śledzenia dinozaurów i miejsce dla dwóch minifigurek: dr Ellie Sattler i dr. Iana Malcolma.",
+   "Triceratops jest ruchomą figurką. Do kompletu należą kupa dinozaura do zbudowania, w której ukryto toksyczną jagodę, oraz łopata do jej wydobycia. Ford Explorer mierzy 8 cm wysokości, 16 cm długości i 6 cm szerokości. Terenówka ma wiele realistycznych szczegółów i zmieści się w dziecięcym plecaku.",
+   "Badanie triceratopsa ukazało się w 2023 roku w serii LEGO Jurassic World. Liczy 281 elementów i ma oznaczenie 8+."
+  ],
+  "metryka": {
+   "Numer": "76959",
+   "Nazwa": "Badanie triceratopsa",
+   "Seria": "Jurassic World",
+   "Premiera": "2023",
+   "Liczba elementów": "281",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki (dr Ellie Sattler i dr Ian Malcolm) oraz triceratops",
+   "Cena katalogowa w Polsce": "234,99 zł",
+   "Cena katalogowa za element": "0,84 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, sceny z „Parku Jurajskiego”",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 76959?",
+    "a": "234,99 zł. Zestaw nie jest już produkowany. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakim samochodem jeżdżą bohaterowie?",
+    "a": "Fordem Explorerem z „Parku Jurajskiego”."
+   },
+   {
+    "q": "Co ukryto w kupie dinozaura?",
+    "a": "Toksyczną jagodę, którą wydobywa się łopatą."
+   },
+   {
+    "q": "Do czego służy system nawigacji?",
+    "a": "Do śledzenia dinozaurów z pokładu Forda Explorera."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Pokrewne są zestawy odtwarzające sceny z pierwszego filmu o parku dinozaurów, z pojazdami i postaciami z ekranu. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
    }
   ]
  }
