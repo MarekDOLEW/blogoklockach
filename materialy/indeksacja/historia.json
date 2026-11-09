@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia (zgloszenia), oraz ostatni odczyt stanu z URL Inspection API per adres (stany: v = werdykt, s = coverageState, c = ostatni crawl, d = dzień odczytu; od 06.11.2026). Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia); adresu z PASS nie sprawdza przez 30 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-08"
+  "zaktualizowano": "2026-11-09"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -376,6 +376,23 @@
    "https://tylkoklocki.pl/zestaw/11511/",
    "https://tylkoklocki.pl/zestaw/11514/",
    "https://tylkoklocki.pl/zestaw/21034/"
+  ],
+  "2026-11-09": [
+   "https://tylkoklocki.pl/artykuly/lego-77256-wehikul-czasu-z-powrotu-do-przyszlosci-recenzja/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/10713/",
+   "https://tylkoklocki.pl/zestaw/11207/",
+   "https://tylkoklocki.pl/zestaw/11209/",
+   "https://tylkoklocki.pl/zestaw/11211/",
+   "https://tylkoklocki.pl/zestaw/11212/",
+   "https://tylkoklocki.pl/zestaw/11216/",
+   "https://tylkoklocki.pl/zestaw/11221/",
+   "https://tylkoklocki.pl/zestaw/11505/",
+   "https://tylkoklocki.pl/zestaw/11506/",
+   "https://tylkoklocki.pl/zestaw/11507/",
+   "https://tylkoklocki.pl/zestaw/11511/",
+   "https://tylkoklocki.pl/zestaw/11514/",
+   "https://tylkoklocki.pl/zestaw/21034/"
   ]
  },
  "stany": {
@@ -557,7 +574,7 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/deale/deal-42689-domek-klubu-heartlake-minimum/": {
    "v": "PASS",
@@ -653,7 +670,7 @@
    "v": "NEUTRAL",
    "s": "Crawled - currently not indexed",
    "c": "2026-10-27",
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/42675/": {
    "v": "PASS",
@@ -2483,7 +2500,7 @@
    "v": "NEUTRAL",
    "s": "Excluded by ‘noindex’ tag",
    "c": "2026-09-11",
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/10941/": {
    "v": "PASS",
@@ -2525,37 +2542,37 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11209/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11211/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
+   "s": "URL is unknown to Google",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/artykuly/lego-77256-wehikul-czasu-z-powrotu-do-przyszlosci-recenzja/": {
    "v": "NEUTRAL",
    "s": "URL is unknown to Google",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11212/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11216/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
+   "s": "URL is unknown to Google",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11217/": {
    "v": "PASS",
@@ -2567,7 +2584,7 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11372/": {
    "v": "PASS",
@@ -2603,19 +2620,19 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11506/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11507/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
+   "s": "URL is unknown to Google",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11509/": {
    "v": "PASS",
@@ -2627,19 +2644,19 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/11514/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/21034/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-08"
+   "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/21066/": {
    "v": "NEUTRAL",
@@ -2652,6 +2669,30 @@
    "s": "Discovered - currently not indexed",
    "c": null,
    "d": "2026-11-08"
+  },
+  "https://tylkoklocki.pl/zestaw/21267/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-10-28",
+   "d": "2026-11-09"
+  },
+  "https://tylkoklocki.pl/zestaw/21269/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-09"
+  },
+  "https://tylkoklocki.pl/zestaw/21270/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-12",
+   "d": "2026-11-09"
+  },
+  "https://tylkoklocki.pl/zestaw/21272/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-09"
   }
  }
 }
