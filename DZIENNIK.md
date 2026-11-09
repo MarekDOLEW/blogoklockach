@@ -215,6 +215,7 @@ Zakup testowy Marka 11505 (06.11 12:03, 233,42 zł) jest w Performers jako konwe
 **Mamy?** — częściowo: wszystkie pięć hubów powstało dziś razem z wpisami w `sety.json`, więc konkretne linki już działają, ale nic nie pilnuje następnego takiego przypadku. `scripts/kontrola-linkow.mjs` sprawdza wyłącznie cele przekierowań do sklepów, nie linki wewnętrzne.
 **Zrobić:** — dodać do builda albo do poniedziałkowej kontroli sprawdzenie, że każdy link `/zestaw/<numer>/` z `src/pages/artykuly/*.md` ma odpowiednik w `dist/zestaw/<numer>/`, i zgłaszać listę brakujących numerów.
 **Kto:** — Code (skrypt)
+↻ 09.11.2026: nadal aktualne — korekta Code z 08.11 („hub powstaje dla każdego numeru", `9d711be`) tej pozycji nie zamyka. Tam chodzi o numery obecne w `katalog.json`, a te pięć nie było ani w katalogu, ani w `sety.json`: `git show bd65e18:src/data/katalog.json` i to samo dla `sety.json` nie znajdują 11515, 11519, 71888, 80122 ani 80123. Dla numerów spoza obu plików strona się nie buduje i link z artykułu prowadzi w pustkę — dlatego sprawdzenie linków `/zestaw/<nr>/` z artykułów dalej ma sens, zwłaszcza że nowa zasada dla Piotra opiera się na tym, czy zestaw „ma już stronę".
 
 
 ## 2026-11-06 · Code · Piotr: bez kart dla zestawów bez huba
