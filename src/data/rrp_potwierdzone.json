@@ -5755,7 +5755,7 @@
     "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
-    "zaktualizowano": "2026-11-09",
+    "zaktualizowano": "2026-11-10",
     "karty_p07": "06.11.2026: dopisane RRP z kart Piotra (karty_setow.json, metryka „Cena katalogowa w Polsce” / „Polska cena katalogowa RRP”) dla hubow, ktorych lancuch cenaKatalogowaSetu nie znal zadnej ceny (audyt 06.11, pkt 3.2a). Nie nadpisano zadnego istniejacego wpisu. Karty z samym opisem „sposobu uzyskania” (gratisy, nagrody Insiders, BDP) bez kwoty pominiete."
   }
 }
