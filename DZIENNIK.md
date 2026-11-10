@@ -160,6 +160,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-10 14:58 · SKRZYNKA · GitHub: 0035 (aktualizacja) + 92 karty P07
+Źródło: repo tylkoklocki-teksty, commit ffa1b89a. Liczba kart w `karty_setow.json` wzrosła z 2033 do 2108: 75 nowych i 17 nadpisanych nowszą wersją, czyli z poprawkami z maila z 06.11 (40686, 42643, 43242, 41758, 77259, 10338, 75328, 43269, 76326, 76327, 31147, polybagi 30715–30735). Sprawdzone: wszystkie liczby z maila stoją w nowych kartach. 72168 nie przyszła.
+- 0035 → https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ — dostała aktualizację: upominek 40898 do 20.11 (tylko online) i `wazne_do: 2026-11-20` od Piotra. Po tym dniu nad tekstem stanie komunikat „akcja zakończona”.
+Uwagi bez blokady: liczba elementów u Piotra i w katalogu różni się dla 21057 (827 vs 830), 41946 (118 vs 108), 41957 (486 vs 478), 41958 (115 vs 105) i 41964 (669 vs 659) — do sprawdzenia w Bricksecie. Seria „Avatar” (75573) jest nieznana w `katalog.json`. Karty 30435, 30503, 30584, 30650 i 40567 weszły jako krótkie.
+
+
 ## 2026-11-10 08:55 · SKRZYNKA · GitHub: 0043 (aktualizacja), 0044, 0045, 0046
 Źródło: repo tylkoklocki-teksty, commit cf9de41d.
 - 0043 (poprawka, +3 linie) → https://tylkoklocki.pl/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/
