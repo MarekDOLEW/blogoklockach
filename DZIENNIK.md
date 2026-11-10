@@ -159,6 +159,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-10 08:15 · RADAR · Do zrobienia
+
+**faniklockow.pl + fanklockow.pl · 09.11** — Oba serwisy piszą o powrocie gratisu **40906**, ale faniklockow podają go jako „przy zakupach za minimum 745 zł ponownie otrzymacie gratisowy zestaw" — **bez słowa o Insiders**, czyli czytelnik spoza programu zostanie bez upominku.
+**Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/` sekcja `#listopad-40906`, a od dziś z warunkami wprost z regulaminu promocji: „Wymagane jest uczestnictwo w programie LEGO Insiders", „wyłącznie online", „do wyczerpania zapasów", „jeden zestaw na jedno gospodarstwo domowe".
+**Zrobić:** — zrobione w tym przebiegu: dopisany trzeci warunek (kafel mówi „wydaj **ponad** 745 zł", regulamin „co najmniej 745 zł" — przy celowaniu w sam próg to decyduje), akapit z resztą warunków regulaminowych i zdanie, że 40906 **wraca** (nasz rejestr ma dla niego premierę 2026-02, więc kto przegapił pierwsze okno, ma drugą szansę).
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 10.11** — Dzisiejsza ekstrakcja kafla promocji **nie zawierała** frazy o Insiders, co wyglądało na zniesienie warunku i podważałoby cały wczorajszy akapit.
+**Mamy?** — tak, i nie zmieniliśmy tekstu na podstawie krótszej ekstrakcji: wyciągnięty pełny regulamin promocji potwierdza warunek słowo w słowo.
+**Zrobić:** — reguła na przyszłość, do stosowania przy każdym oknie: **rozbieżność między dwoma zrzutami tej samej strony rozstrzyga pełny tekst regulaminu, nie nowszy zrzut** — kafel promocji jest skrótem i gubi warunki.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 10.11** — Gratis **30762 Batman z retro gry wideo**, zapowiadany przez oba serwisy na 9–15.11, drugiego dnia okna nadal nie występuje na karcie promocji (są tam tylko 40906, 30720 i 40898).
+**Mamy?** — tak, jako „przewidywane" w sekcji `#listopad-40906`, z opisem obu nieudanych sprawdzeń (karta promocji 9 i 10.11 oraz blok upominków karty 76333).
+**Zrobić:** — sprawdzić kartę promocji jeszcze raz po 15.11 i **usunąć tę pozycję z kalendarza**, jeśli okno minie bez potwierdzenia przez LEGO.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-10 05:25 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - **Cała linia Monkie Kid** — StoneWars, https://www.stonewars.de/news/lego-monkie-kid-wird-eingestellt/ (09.11.2026): linia schodzi z rynku, koniec produkcji bieżących zestawów, EOL 31.12.2026 na większości rynków, w Azji 31.12.2027 (z powodu otwarcia LEGOLAND w Szanghaju). Serwis podaje jako powód rozstanie z studiem animacji i zwrot LEGO w stronę własnych serii oraz Dragon Balla. Uwaga: tytuł tekstu to pytanie, a konkluzja „dla nas: tak" jest oceną serwisu — komunikatu LEGO nie ma, więc to sygnał do weryfikacji, nie fakt.

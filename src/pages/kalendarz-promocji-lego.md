@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-09"
+zaktualizowano: "2026-11-10"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -367,24 +367,35 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 <h3 id="listopad-40906">Pierwsze okno listopada: dwa gratisy, 9–15.11 <span class="status status--trwa">trwa</span></h3>
 
-Dzień po zamknięciu okna z 40889 LEGO otwarło następne. Progi i daty bierzemy z karty
-promocji lego.com/pl-pl, sprawdzonej 9 listopada:
+Dzień po zamknięciu okna z 40889 LEGO otwarło następne. Progi, daty i warunki bierzemy
+z karty promocji lego.com/pl-pl i z regulaminu tej promocji, sprawdzonych 10 listopada:
 
 | Gratis (GWP) | Warunek | Okno |
 |---|---|---|
-| [40906 Restauracje świata: Japonia](/zestaw/40906/) | zakupy **ponad 745 zł**, **tylko w programie Insiders** | 9–15.11 |
+| [40906 Restauracje świata: Japonia](/zestaw/40906/) | zakupy **co najmniej 745 zł**, **wymagane Insiders**, wyłącznie online | 9–15.11 |
 | 30720 Urodzinowa potańcówka Arielki i Florka | zakupy **ponad 165 zł** na produkty Disney | 9–15.11 |
 | [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/) | 1–20.11 |
 
-**Dwie rzeczy, które zmieniają rachunek wobec poprzednich okien.** Pierwsza: 40906 jest
-**wyłącznie dla Insiders** – w poprzednich oknach członkostwo nie było warunkiem,
-a tutaj jest, i to przy najwyższym progu, jaki LEGO stawiało w tym sezonie. Zapisanie się
-do programu jest darmowe, ale jeśli nie jesteś w nim przed złożeniem zamówienia, upominku
-nie dostaniesz. Druga: próg 165 zł na Disneya jest niski, ale liczy się **tylko ta tematyka** –
-zamówienie zbierane z różnych serii go nie łapie.
+**Trzy rzeczy, które zmieniają rachunek wobec poprzednich okien.** Pierwsza: 40906 jest
+**wyłącznie dla Insiders** – w poprzednich oknach członkostwo nie było warunkiem, a tutaj
+regulamin mówi wprost „Wymagane jest uczestnictwo w programie LEGO Insiders", i to przy
+najwyższym progu, jaki LEGO stawiało w tym sezonie. Zapisanie się do programu jest darmowe,
+ale jeśli nie jesteś w nim przed złożeniem zamówienia, upominku nie dostaniesz. Druga:
+próg 165 zł na Disneya jest niski, ale liczy się **tylko ta tematyka** – zamówienie zbierane
+z różnych serii go nie łapie. Trzecia: kafel promocji mówi „wydaj **ponad** 745 zł", a regulamin
+„wartość zakupionych artykułów LEGO musi wynosić **co najmniej** 745 zł" – jeśli celujesz
+w sam próg, licz z zapasem, bo te dwa zdania nie mówią tego samego.
+
+Reszta warunków z regulaminu, bo przy tym progu każdy z nich może zabrać upominek:
+oferta działa **tylko przy zamówieniach online** na LEGO.com, **jeden zestaw na jedno
+gospodarstwo domowe**, **do wyczerpania zapasów**, nie obejmuje zakupów sprzed 9 listopada
+ani salonów LEGOLAND i sklepów certyfikowanych. Przy zwrocie zakupu trzeba odesłać też
+upominek.
 
 40906 ma cenę katalogową **84,99 zł**, czyli tyle samo, co październikowe [40909 Restauracje
-świata: Włochy](/zestaw/40909/) – to ta sama linia upominków i ta sama wycena. Przy progu
+świata: Włochy](/zestaw/40909/) – to ta sama linia upominków i ta sama wycena. **To upominek,
+który wraca:** jego premiera wypadła w lutym 2026, więc kto przegapił pierwsze okno, ma teraz
+drugą szansę – i warto o tym pamiętać przy ocenie, ile taki zestaw jest wart na rynku wtórnym. Przy progu
 745 zł oznacza to upominek wart **około 11% kwoty**, którą trzeba wydać, i to w cenach
 katalogowych; realnie mniej, bo poza LEGO.com te same zestawy bywają tanio. Do progu
 dokładaj tylko wtedy, gdy i tak kupujesz w sklepie LEGO coś, czego nigdzie nie ma taniej.
@@ -394,8 +405,9 @@ na 9–15 listopada trzeci upominek – polybag **30762 Batman z retro gry wideo
 z serii DC od 165 zł. Sprawdziliśmy to u źródła 9 listopada i **nie potwierdzamy**: tego
 upominku nie ma ani na karcie promocji LEGO.pl, ani w bloku upominków na karcie
 [76333 Batmobil z filmu Batman i Robin](/zestaw/76333/), czyli dokładnie tego zestawu, który
-serwisy polecały do złapania progu – karta pokazuje tam tylko 40906 dla Insiders. Jeśli LEGO
-doda ten upominek do swoich stron, wpiszemy go z datą. <span class="status status--maybe">przewidywane</span>
+serwisy polecały do złapania progu – karta pokazuje tam tylko 40906 dla Insiders. Karta promocji
+sprawdzona ponownie 10 listopada, drugiego dnia okna, nadal go nie wymienia. Jeśli LEGO doda
+ten upominek do swoich stron, wpiszemy go z datą; jeśli okno minie bez tego, pozycję usuniemy. <span class="status status--maybe">przewidywane</span>
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 
