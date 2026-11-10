@@ -4,12 +4,16 @@ title: "Listopadowe premiery LEGO – Sagrada Família, upominek do Weneckiej ok
 opis: "Sagrada Família z rekordowymi 12 060 elementami jest już na LEGO.pl, do Weneckiej okolicy LEGO dodaje upominek, a Technic pokazuje Układ Słoneczny."
 seo_tytul: "Premiery LEGO listopad 2026: Sagrada Família i Wenecja"
 data: "2026-11-01"
+zaktualizowano: "2026-11-10"
 kategoria: "Premiery"
+wazne_do: "2026-11-20"
 okladka: "21065"
 zestawy: ["21065", "11388", "40898", "42254", "11390", "10371", "40889"]
 ---
 
 Od 1 listopada 2026 roku na LEGO.pl można kupić listopadowe nowości, w tym rekordowy zestaw LEGO Architecture 21065 Sagrada Família i LEGO Icons 11388 Wenecka okolica, do którego LEGO dodaje upominek. Jednocześnie LEGO pokazało jeden z pierwszych zestawów na 2027 rok – ruchomy model Układu Słonecznego z serii Technic.
+
+**Aktualizacja (10 listopada 2026):** akcja z upominkiem 40898 Wenecka taksówka wodna przy zakupie 11388 Wenecka okolica trwa dłużej, niż podawano na starcie – według strony ofert i regulaminu LEGO.pl do 20 listopada 2026 roku (do wyczerpania zapasów). Upominek przysługuje tylko przy zamówieniach na LEGO.pl, nie w sklepach LEGO Store. Akcja z upominkiem 40889 Build, Paint and Play! zakończyła się zgodnie z zapowiedzią 8 listopada.
 
 ## LEGO Architecture 21065 Sagrada Família
 
@@ -43,7 +47,7 @@ Wśród listopadowych nowości na LEGO.pl jest także LEGO Icons 11390 Dragon Ba
 |---|---|---|---|
 | 21065 | Sagrada Família | 3199,99 zł | od 1 listopada 2026 |
 | 11388 | Wenecka okolica | 2149,99 zł | od 1 listopada 2026 |
-| 40898 | Wenecka taksówka wodna | upominek do 11388 | do 8 listopada 2026 |
+| 40898 | Wenecka taksówka wodna | upominek do 11388 | do 20 listopada 2026 (tylko online) |
 | 11390 | Dragon Ball: Shenron & Goku | 599,99 zł | od 1 listopada 2026 (LEGO Insiders), od 4 listopada 2026 |
 | 10371 | Urocze roślinki | 81,99 zł | od 1 listopada 2026 |
 | 42254 | Solar System Planets in Orbit | jeszcze nieogłoszona | od 1 stycznia 2027 |
