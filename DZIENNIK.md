@@ -159,6 +159,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-10 08:55 · SKRZYNKA · GitHub: 0043 (aktualizacja), 0044, 0045, 0046
+Źródło: repo tylkoklocki-teksty, commit cf9de41d.
+- 0043 (poprawka, +3 linie) → https://tylkoklocki.pl/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/
+- 0044 → https://tylkoklocki.pl/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla/
+- 0045 → https://tylkoklocki.pl/artykuly/lego-ideas-zatwierdza-trzy-nowe-zestawy-interstellar-wiatrak-wsrod/
+- 0046 → https://tylkoklocki.pl/artykuly/nieoficjalnie-seria-lego-monkie-kid-zniknie-z-oferty-pod-koniec-2026/
+
 ## 2026-11-10 08:15 · RADAR · Do zrobienia
 
 **faniklockow.pl + fanklockow.pl · 09.11** — Oba serwisy piszą o powrocie gratisu **40906**, ale faniklockow podają go jako „przy zakupach za minimum 745 zł ponownie otrzymacie gratisowy zestaw" — **bez słowa o Insiders**, czyli czytelnik spoza programu zostanie bez upominku.
