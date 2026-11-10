@@ -159,6 +159,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-10 05:25 · SCOUT · Sygnały wycofań dla runnera Wycofań
+
+- **Cała linia Monkie Kid** — StoneWars, https://www.stonewars.de/news/lego-monkie-kid-wird-eingestellt/ (09.11.2026): linia schodzi z rynku, koniec produkcji bieżących zestawów, EOL 31.12.2026 na większości rynków, w Azji 31.12.2027 (z powodu otwarcia LEGOLAND w Szanghaju). Serwis podaje jako powód rozstanie z studiem animacji i zwrot LEGO w stronę własnych serii oraz Dragon Balla. Uwaga: tytuł tekstu to pytanie, a konkluzja „dla nas: tak" jest oceną serwisu — komunikatu LEGO nie ma, więc to sygnał do weryfikacji, nie fakt.
+  Nasz stan: w `katalog.json` dziesięć zestawów Monkie Kid ze statusem `dostepny` (80040, 80045, 80051, 80054, 80055, 80056, 80057, 80058, 80065, 80066), w `wycofania.json` **ani jednego** wpisu z tej serii. Wszystkie dziesięć siedzi też na liście zestawów w sprzedaży poza `sety.json`.
+
 
 ## 2026-11-09 14:58 · SKRZYNKA · GitHub: 25 kart P07
 Źródło: repo tylkoklocki-teksty, commit 91e4ad85. Karty: 10320, 10991, 10992, 10993, 10994, 11028, 21375, 30635, 30651, 30652, 31133, 31144, 40597, 40598, 40646, 41738, 41741, 43211, 43213, 43223, 60397, 76243, 76410, 76423, 76959 (huby /zestaw/<nr>/).

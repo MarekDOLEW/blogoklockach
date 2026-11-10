@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-07",
+  "zaktualizowano": "2026-11-10",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -2337,6 +2337,90 @@
    "dodano": "2026-11-06",
    "uwagi": "Dane z tego samego listingu Proshopu i artykulu StoneWars z 05.11.2026: 193 elementy, 0 minifigurek, 19,99 euro, 14+, release 01.01.2027, EOL 31.12.2027. Pewnosc „srednia\" — jedno zrodlo branzowe plus listing sklepu ze zdjeciami pudelka; PromoBricks o tym nie pisal. Brickset 06.11.2026 nie zna motywu Fortnite w roczniku 2027. 19,99 euro przeliczone zgrubno (4,25) i zaokraglone do 10 zl; kalibracja z fali Ninjago mowi, ze przy tej kwocie polska cena katalogowa wychodzi raczej 84,99 zl, czyli nasze zaokraglenie jest nieco nizsze.",
    "opis": "Zestaw wystawowy z taco o wielkich oczach, wzorowany na skinie Guaco z Fortnite. Według listingu sklepowego 193 elementy, bez minifigurek, cena 19,99 euro, wiek 14+ i premiera 1 stycznia 2027. Skorupę taco można rozchylić — w środku kryje się miniaturowa scenka restauracji z maskotką. To ten sam pomysł, co wcześniejsze Durrr Burger i głowa pomidora z tej serii. Zdjęcia i opis pochodzą od niemieckiego sklepu, który przyjmuje zamówienia; LEGO zestawu jeszcze nie pokazało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "ideas-interstellar",
+   "numer": null,
+   "nazwa": "Interstellar (LEGO Ideas, nazwa nieznana)",
+   "seria": "Ideas",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Interstellar bekommt ein LEGO Set! LEGO Ideas-Ergebnisse 1. Review 2026 offiziell bekanntgegeben” (za ogłoszeniem na blogu LEGO Ideas)",
+     "url": "https://www.stonewars.de/news/lego-ideas-ergebnisse-1-review-2026-bekanntgabe-interstellar/",
+     "data": "2026-11-09"
+    }
+   ],
+   "dodano": "2026-11-10",
+   "uwagi": "Zwyciezca pierwszego przegladu LEGO Ideas 2026; wyniki oglosil zespol Ideas na firmowym blogu 09.11.2026, a opisal je StoneWars. Pewnosc „srednia\", nie „wysoka\" jak przy daft-punk-ideas: tam LEGO pokazalo teaser gotowego produktu, tu mamy dopiero wygrany przeglad, czyli decyzje o rozpoczeciu pracy nad zestawem — numer, zakres, cena i termin powstaja pozniej i czesto odbiegaja od projektu fana. Do tego temat opisal jeden serwis; PromoBricks na stronie glownej 10.11.2026 o wynikach nie pisal. Brak numeru, elementow, ceny i terminu — rozstrzygac, gdy LEGO poda numer albo karte produktu.",
+   "opis": "Zestaw z linii Ideas na podstawie filmu „Interstellar\", z projektu fana występującego jako Minibrick Production. LEGO ogłosiło 9 listopada 2026, że projekt wygrał pierwszy przegląd Ideas tego roku, czyli trafi do produkcji. To na razie decyzja o rozpoczęciu pracy, a nie gotowy produkt: numeru, liczby elementów, ceny ani terminu producent nie podał, a finalny zestaw potrafi się różnić od projektu fana. Z tego samego przeglądu wychodzą jeszcze dwa zestawy.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "ideas-wiatrak-tulipanowy",
+   "numer": null,
+   "nazwa": "Wiatrak na polu tulipanów (LEGO Ideas, nazwa nieznana)",
+   "seria": "Ideas",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Interstellar bekommt ein LEGO Set! LEGO Ideas-Ergebnisse 1. Review 2026 offiziell bekanntgegeben” (za ogłoszeniem na blogu LEGO Ideas)",
+     "url": "https://www.stonewars.de/news/lego-ideas-ergebnisse-1-review-2026-bekanntgabe-interstellar/",
+     "data": "2026-11-09"
+    }
+   ],
+   "dodano": "2026-11-10",
+   "uwagi": "Zwyciezca pierwszego przegladu LEGO Ideas 2026; wyniki oglosil zespol Ideas na firmowym blogu 09.11.2026, a opisal je StoneWars. Pewnosc „srednia\", nie „wysoka\" jak przy daft-punk-ideas: tam LEGO pokazalo teaser gotowego produktu, tu mamy dopiero wygrany przeglad, czyli decyzje o rozpoczeciu pracy nad zestawem — numer, zakres, cena i termin powstaja pozniej i czesto odbiegaja od projektu fana. Do tego temat opisal jeden serwis; PromoBricks na stronie glownej 10.11.2026 o wynikach nie pisal. Brak numeru, elementow, ceny i terminu — rozstrzygac, gdy LEGO poda numer albo karte produktu.",
+   "opis": "Drugi ze zwycięzców pierwszego przeglądu LEGO Ideas 2026: holenderski wiatrak na polu tulipanów z projektu fana podpisanego HisBrickMaterials. LEGO potwierdziło wybór 9 listopada 2026, ale nie podało numeru, liczby elementów, ceny ani terminu. Wygrany przegląd oznacza, że zestaw wejdzie do produkcji — nie to, jak ostatecznie będzie wyglądał.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "ideas-chinska-sztuka-korkowa",
+   "numer": null,
+   "nazwa": "Chińska sztuka rzeźbienia w korku (LEGO Ideas, nazwa nieznana)",
+   "seria": "Ideas",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": null,
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Interstellar bekommt ein LEGO Set! LEGO Ideas-Ergebnisse 1. Review 2026 offiziell bekanntgegeben” (za ogłoszeniem na blogu LEGO Ideas)",
+     "url": "https://www.stonewars.de/news/lego-ideas-ergebnisse-1-review-2026-bekanntgabe-interstellar/",
+     "data": "2026-11-09"
+    }
+   ],
+   "dodano": "2026-11-10",
+   "uwagi": "Zwyciezca pierwszego przegladu LEGO Ideas 2026; wyniki oglosil zespol Ideas na firmowym blogu 09.11.2026, a opisal je StoneWars. Pewnosc „srednia\", nie „wysoka\" jak przy daft-punk-ideas: tam LEGO pokazalo teaser gotowego produktu, tu mamy dopiero wygrany przeglad, czyli decyzje o rozpoczeciu pracy nad zestawem — numer, zakres, cena i termin powstaja pozniej i czesto odbiegaja od projektu fana. Do tego temat opisal jeden serwis; PromoBricks na stronie glownej 10.11.2026 o wynikach nie pisal. Brak numeru, elementow, ceny i terminu — rozstrzygac, gdy LEGO poda numer albo karte produktu.",
+   "opis": "Trzeci zwycięzca pierwszego przeglądu LEGO Ideas 2026: model nawiązujący do chińskiej sztuki rzeźbienia w korku, projekt fana podpisanego GenericBrix. Producent potwierdził wybór 9 listopada 2026 i na tym poprzestał — numeru, elementów, ceny i terminu nie ma. Przy takich projektach droga od wygranego przeglądu do pudełka w sklepie zajmuje zwykle rok albo dłużej.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "yoshi-18plus",
+   "numer": null,
+   "nazwa": "Budowany Yoshi 18+ (numer i nazwa nieznane)",
+   "seria": "Super Mario",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-03",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Baubarer LEGO Yoshi: Teaser zu nächstem LEGO Super Mario 18+ Set in der Nintendo Today! App aufgetaucht”",
+     "url": "https://www.stonewars.de/news/lego-super-mario-baubarer-yoshi-teaser/",
+     "data": "2026-11-09"
+    }
+   ],
+   "dodano": "2026-11-10",
+   "uwagi": "Teaser w aplikacji Nintendo Today! z 09.11.2026: widac fragment oczu i pyska Yoshiego plus haslo o zestawie, ktory „wypadnie z jaja\". Kanal jest oficjalny, ale teaser nie podaje ani numeru, ani ceny, ani daty — marzec 2027 to przypuszczenie StoneWars, nie informacja producenta, dlatego pewnosc „niska\". Porownanie do Bowsera (71411) tez jest szacunkiem serwisu. PromoBricks o teaserze nie pisal (strona glowna 10.11.2026). Podniesc, gdy pojawi sie numer albo karta produktu.",
+   "opis": "Duży, budowany Yoshi z oznaczeniem 18+ — kolejny model w linii Super Mario dla dorosłych. Zapowiedź to teaser w aplikacji Nintendo Today!, pokazujący jedynie fragment oczu i pyska figurki wraz z hasłem o zestawie wykluwającym się z jaja. Numeru, liczby elementów ani ceny nikt nie podał; StoneWars typuje marzec 2027 i wielkość porównywalną z budowanym Bowserem, ale to przypuszczenia serwisu, nie dane od producenta.",
    "rozstrzygniecie": null
   }
  ]
