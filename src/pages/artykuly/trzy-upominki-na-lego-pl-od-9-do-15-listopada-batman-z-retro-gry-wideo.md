@@ -4,6 +4,7 @@ title: "Trzy upominki na LEGO.pl od 9 do 15 listopada – Batman z retro gry wid
 opis: "Od 9 do 15 listopada LEGO.pl dodaje upominki: Batmana z retro gry wideo, zestaw z Arielką i Restauracje świata: Japonia. Sprawdź progi i warunki."
 seo_tytul: "Upominki na LEGO.pl 9–15 listopada – Batman i Arielka"
 data: "2026-11-09"
+zaktualizowano: "2026-11-10"
 kategoria: "Aktualności"
 wazne_do: "2026-11-15"
 okladka: "/zdjecia/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/1.webp"
@@ -12,6 +13,8 @@ zestawy: ["30762", "30720", "40906", "11386", "40898"]
 ---
 
 Od 9 do 15 listopada 2026 roku LEGO.pl dodaje do zamówień trzy nowe upominki, każdy z innym warunkiem. Akcję organizuje LEGO, a upominki są dostępne do wyczerpania zapasów, po jednym na gospodarstwo domowe. W tym samym tygodniu członkowie programu LEGO Insiders dostają podwójne punkty za jeden z zestawów LEGO Icons.
+
+**Aktualizacja (10 listopada 2026):** zapas upominku 30762 Batman z retro gry wideo wyczerpał się już pierwszego dnia akcji – na LEGO.pl jest oznaczony jako wyprzedany. Pozostałe upominki, 30720 Urodzinowa potańcówka Arielki i Florka oraz 40906 Restauracje świata: Japonia, a także podwójne punkty za 11386 są nadal dostępne do 15 listopada, a upominek 40898 przy zakupie 11388 – do 20 listopada.
 
 ## 30762 Batman z retro gry wideo – od 165 zł na LEGO DC
 
