@@ -1044,6 +1044,7 @@ poleceń (wcześniej z kluczem API w nagłówku) i ponawia zerwane połączenie.
 **Kto:** — Code
 ↻ 2026-10-27: nadal aktualne — te same 2 numery wciąż pomijane w zrzucie MediaMarkt.
 ↻ 2026-11-03: częściowo zmienione — 52447 zniknął z feedu MediaMarkt (nie pojawia się już w zrzucie), 76265 wciąż pomijany.
+→ zamknięte 2026-11-10: sprawdzone (Brickset, Firecrawl) — **76265 to prawdziwy numer LEGO, ale innego zestawu**: „Batwing: Batman vs. The Joker" (DC Comics Super Heroes, 2023), nie figurka Kapitana Ameryki z nazwy w feedzie MediaMarkt. To błędne skojarzenie numeru po stronie feedu/sprzedawcy, nie literówka — numeru NIE dopisujemy do `potwierdzone_numery`, skrypt słusznie go odrzuca co tydzień. Jeśli w kolejnych zrzutach MediaMarkt pojawi się pod innym, poprawnym numerem — nowy wpis.
 
 **Zestaw 71835 ma ofertę Lidl (59,99 zł, zrzut 19.10) w `oferty_feed.json`, ale nie ma wpisu w `katalog.json` i nie ma zdjęcia (Rebrickable/Brickset nie mają go pod tym numerem).**
 **Mamy?** — nie: brak huba i brak zdjęcia, strona zestawu nie istnieje
