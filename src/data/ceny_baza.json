@@ -457,9 +457,9 @@
  "43028": {
   "nazwa": "Płyta winylowa Olivii Rodrigo",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 85.6,
-  "najnizsza_data": "2026-10-31",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 84.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77260": {
   "nazwa": "Szybcy i wściekli Toyota Supra MK4",
@@ -716,8 +716,8 @@
  "71872": {
   "nazwa": "Bitwa z ultrasmokiem",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 599,
-  "najnizsza_data": "2026-08-23",
+  "najnizsza_cena": 539,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "31390": {
@@ -863,8 +863,8 @@
  "76471": {
   "nazwa": "Magiczne sklepy na ulicy Śmiertelnego Nokturnu",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 277.7,
-  "najnizsza_data": "2026-11-08",
+  "najnizsza_cena": 276.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "77977": {
@@ -1192,8 +1192,8 @@
  "76352": {
   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 346.72,
-  "najnizsza_data": "2026-10-31",
+  "najnizsza_cena": 270,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "43294": {
@@ -1661,8 +1661,8 @@
  "11384": {
   "nazwa": "Szczeniak golden retriever",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 419.9,
-  "najnizsza_data": "2026-09-30",
+  "najnizsza_cena": 419,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10476": {
@@ -1822,15 +1822,15 @@
  "11372": {
   "nazwa": "Jesienny ogród z chatką",
   "cena_katalogowa": 479.99,
-  "najnizsza_cena": 288.99,
-  "najnizsza_data": "2026-11-08",
+  "najnizsza_cena": 279,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "21376": {
   "nazwa": "Rudy kot",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 369.98,
-  "najnizsza_data": "2026-08-24",
+  "najnizsza_cena": 361.23,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "11389": {
@@ -2286,8 +2286,8 @@
  "71819": {
   "nazwa": "Świątynia Smoczego Kamienia",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 499.56,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 446.79,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10337": {
@@ -2398,9 +2398,9 @@
  "21279": {
   "nazwa": "Wieża Endermana",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 289.99,
-  "najnizsza_data": "2026-09-28",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 249,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75389": {
   "nazwa": "Mroczny Sokół Millennium",
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 74.84,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 74.74,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3485,8 +3485,8 @@
  "76470": {
   "nazwa": "Zaczarowany latający Ford Anglia",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 188.99,
-  "najnizsza_data": "2026-11-07",
+  "najnizsza_cena": 188.98,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10449": {
@@ -3653,8 +3653,8 @@
  "40913": {
   "nazwa": "Zabytkowy samochód z parady",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 66.27,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 66.25,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "75448": {
@@ -4262,8 +4262,8 @@
  "76907": {
   "nazwa": "Lotus Evija",
   "cena_katalogowa": 99.99,
-  "najnizsza_cena": 114.44,
-  "najnizsza_data": "2026-09-19",
+  "najnizsza_cena": 110.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "31147": {
@@ -4304,8 +4304,8 @@
  "71831": {
   "nazwa": "Świątynia Spinjitzu ninja",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 109.12,
-  "najnizsza_data": "2026-11-03",
+  "najnizsza_cena": 108.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "40915": {
@@ -4353,9 +4353,9 @@
  "43272": {
   "nazwa": "Heiheia",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 114.72,
-  "najnizsza_data": "2026-09-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75405": {
   "nazwa": "Krążownik typu Home One",
@@ -4749,9 +4749,9 @@
  "10459": {
   "nazwa": "Bluey Dom rodzinny Blue z grą pamięciową",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 169.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 149,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76943": {
   "nazwa": "Pościg za pteranodonem",
@@ -5271,15 +5271,15 @@
  "42199": {
   "nazwa": "Monster Jam DIGatron",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 72.99,
-  "najnizsza_data": "2026-09-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 69.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "allegro"
  },
  "31148": {
   "nazwa": "Wrotka w stylu retro",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 78.86,
-  "najnizsza_data": "2026-10-29",
+  "najnizsza_cena": 78.85,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10913": {
@@ -5488,8 +5488,8 @@
  "71420": {
   "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
   "cena_katalogowa": 42.99,
-  "najnizsza_cena": 26,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 25.53,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "10456": {
@@ -5698,9 +5698,9 @@
  "10460": {
   "nazwa": "Zielona płytka konstrukcyjna",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 30.35,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 29.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "30731": {
   "nazwa": "Tom Nook i latający prezent",
@@ -5733,9 +5733,9 @@
  "76464": {
   "nazwa": "Kociołek: Sekretna sala zajęć z eliksirów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 165.98,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 149.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77242": {
   "nazwa": "Bolid F1 Ferrari SF-24",
@@ -5768,8 +5768,8 @@
  "71422": {
   "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 118.22,
-  "najnizsza_data": "2026-11-06",
+  "najnizsza_cena": 117.62,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "31150": {
@@ -6344,8 +6344,8 @@
  "60426": {
   "nazwa": "Terenówka badacza dżungli",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 125.15,
-  "najnizsza_data": "2026-09-12",
+  "najnizsza_cena": 119.78,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "43288": {
@@ -6372,9 +6372,9 @@
  "31218": {
   "nazwa": "Japoński krajobraz z kwitnącą wiśnią",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 368.99,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 368.98,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21357": {
   "nazwa": "Disney Pixar Luxo Jr.",
@@ -6659,8 +6659,8 @@
  "76900": {
   "nazwa": "Koenigsegg Jesko",
   "cena_katalogowa": 99.99,
-  "najnizsza_cena": 128.75,
-  "najnizsza_data": "2026-11-09",
+  "najnizsza_cena": 125.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "41728": {
@@ -7247,9 +7247,9 @@
  "11503": {
   "nazwa": "Kwiatowa ścianka",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 279.99,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 275.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "allegro"
  },
  "43273": {
   "nazwa": "Kalendarz adwentowy 2025",
@@ -7739,15 +7739,15 @@
  "42221": {
   "nazwa": "Rakieta SLS NASA Artemis",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 174.99,
-  "najnizsza_data": "2026-10-18",
+  "najnizsza_cena": 173.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "40917": {
   "nazwa": "Mroczny Miecz",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 190,
-  "najnizsza_data": "2026-11-09",
+  "najnizsza_cena": 188.99,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "71404": {
@@ -8406,9 +8406,9 @@
  "77075": {
   "nazwa": "Skorek i Iskra oraz obóz",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.74,
-  "najnizsza_data": "2026-09-28",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 49.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "mediaexpert"
  },
  "77077": {
   "nazwa": "Klombo",
@@ -8483,9 +8483,9 @@
  "21355": {
   "nazwa": "Ewolucja przedmiotów ścisłych",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 261.99,
-  "najnizsza_data": "2026-09-28",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 256.99,
+  "najnizsza_data": "2026-11-11",
+  "najnizsza_sklep": "allegro"
  },
  "21360": {
   "nazwa": "Willy Wonka i fabryka czekolady",
@@ -8504,8 +8504,8 @@
  "31172": {
   "nazwa": "Gramofon z kwiatami",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 124.98,
-  "najnizsza_data": "2026-11-02",
+  "najnizsza_cena": 119.56,
+  "najnizsza_data": "2026-11-11",
   "najnizsza_sklep": "allegro"
  },
  "31175": {
