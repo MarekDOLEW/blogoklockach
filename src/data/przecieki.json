@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-10",
+  "zaktualizowano": "2026-11-11",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -2404,23 +2404,28 @@
   },
   {
    "id": "yoshi-18plus",
-   "numer": null,
-   "nazwa": "Budowany Yoshi 18+ (numer i nazwa nieznane)",
+   "numer": "72059",
+   "nazwa": "Budowany Yoshi (numer 72059 wg przecieku)",
    "seria": "Super Mario",
-   "elementy": null,
+   "elementy": 755,
    "cena_wg_zrodla": null,
    "premiera_wg_zrodla": "2027-03",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Baubarer LEGO Yoshi: Teaser zu nächstem LEGO Super Mario 18+ Set in der Nintendo Today! App aufgetaucht”",
      "url": "https://www.stonewars.de/news/lego-super-mario-baubarer-yoshi-teaser/",
      "data": "2026-11-09"
+    },
+    {
+     "nazwa": "PROMOBRICKS — „Baubare Yoshi Figur aus 755 LEGO Steinen angekündigt” (numer 72059 i 755 elementów za doniesieniem z Reddita)",
+     "url": "https://www.promobricks.de/lego-super-mario-72059-yoshi-figur-2027/",
+     "data": "2026-11-10"
     }
    ],
    "dodano": "2026-11-10",
-   "uwagi": "Teaser w aplikacji Nintendo Today! z 09.11.2026: widac fragment oczu i pyska Yoshiego plus haslo o zestawie, ktory „wypadnie z jaja\". Kanal jest oficjalny, ale teaser nie podaje ani numeru, ani ceny, ani daty — marzec 2027 to przypuszczenie StoneWars, nie informacja producenta, dlatego pewnosc „niska\". Porownanie do Bowsera (71411) tez jest szacunkiem serwisu. PromoBricks o teaserze nie pisal (strona glowna 10.11.2026). Podniesc, gdy pojawi sie numer albo karta produktu.",
-   "opis": "Duży, budowany Yoshi z oznaczeniem 18+ — kolejny model w linii Super Mario dla dorosłych. Zapowiedź to teaser w aplikacji Nintendo Today!, pokazujący jedynie fragment oczu i pyska figurki wraz z hasłem o zestawie wykluwającym się z jaja. Numeru, liczby elementów ani ceny nikt nie podał; StoneWars typuje marzec 2027 i wielkość porównywalną z budowanym Bowserem, ale to przypuszczenia serwisu, nie dane od producenta.",
+   "uwagi": "Teaser w aplikacji Nintendo Today! z 09.11.2026: widac fragment oczu i pyska Yoshiego plus haslo o zestawie, ktory „wypadnie z jaja\". Kanal jest oficjalny, ale teaser nie podaje ani numeru, ani ceny, ani daty — marzec 2027 to przypuszczenie StoneWars, nie informacja producenta, dlatego pewnosc „niska\". Porownanie do Bowsera (71411) tez jest szacunkiem serwisu. PromoBricks o teaserze nie pisal (strona glowna 10.11.2026). Podniesc, gdy pojawi sie numer albo karta produktu.\n\nPODNIESIENIE 11.11.2026 z „niska\" na „srednia\": doszedl drugi serwis branzowy (PROMOBRICKS, 10.11.2026) i konkretne dane — numer 72059 oraz 755 elementow. Nie „wysoka\", bo PROMOBRICKS wprost pisze, ze numer i liczba elementow pochodza z Reddita („Wie auf Reddit zu lesen ist\"), a termin „Anfang Marz\" tez od tego zrodla; ceny nie podal nikt, wiec kryterium drabiny (dwa serwisy zgodne co do numeru i ceny) nie jest spelnione. Potwierdzone oficjalnie zostaje samo istnienie modelu — teaser LEGO i Nintendo w aplikacji Nintendo Today!. Kontrola u zrodla twardego 11.11.2026: brickset.com/sets/theme-Super-Mario/year-2027 ma 72052, 72054-72058, 72060 i 72061, a 72059 nie — czyli katalog tego numeru jeszcze nie zna, a luka w numeracji wypada dokladnie tam.",
+   "opis": "Duży, budowany Yoshi — pierwsza zapowiedź zestawów Super Mario na 2027 rok. Sam model potwierdzają LEGO i Nintendo: teaser z fragmentem oczu i pyska ukazał się w aplikacji Nintendo Today!, a opisały go oba niemieckie serwisy branżowe. Numer 72059 i 755 elementów pochodzą już tylko z doniesień społeczności przekazanych przez PROMOBRICKS, podobnie jak termin na początek marca 2027; ceny nie podaje nikt. Katalog Bricksetu zna osiem zestawów Super Mario rocznika 2027, ale numeru 72059 wśród nich nie ma — i to właśnie ten numer wypada w numeracji serii.",
    "rozstrzygniecie": null
   }
  ]
