@@ -159,6 +159,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-11 08:15 · RADAR · Do zrobienia
+
+**faniklockow.pl · 10.11** — Weszli w prezentownik budżetowy „LEGO na prezent świąteczny **do 50 zł**", sześć tygodni przed Wigilią.
+**Mamy?** — częściowo, i luka jest **formy, nie danych**: 950 zestawów ma u nas najtańszą ofertę do 50 zł po odsiewie `ceneo` i `lego` (tak jak liczy kod), z czego **159 ma własny hub**. Próg jest też pokryty wewnątrz `/prezentowniki/na-mikolaja/` (drabina od polybagu do 13 zł przez 30 i 45 zł do ok. 200 zł), ale nie mamy strony na tę frazę — jedyny nasz prezentownik z progiem w tytule to `/prezentowniki/lego-za-200-zl-dla-10-latka/`.
+**Zrobić:** — zdecydować, czy robimy prezentownik „LEGO na prezent do 50 zł" (i czy od razu jako drabinę budżetową do 50 / do 100 / do 200 zł). Dwie słabości ich tekstu z góry wyznaczają kształt naszego: dzielą prezenty **po płci** (nasz standard sprzedażowy zabrania tego wprost — kryterium jest sposób zabawy), a tytuł „do 50 zł" kłóci się z treścią, gdzie piszą „w budżecie do 100 zł".
+**Kto:** — Marek (decyzja)
+
+**dane · 11.11** — Cztery numery zgłoszone w tym tygodniu nadal nie weszły do rejestru: **42717** Friends, **77084** i **77088** Fortnite (zgłoszone 07.11, czwarty dzień) oraz **30720** Arielka (zgłoszone 09.11, trzeci dzień).
+**Mamy?** — nie: żadnego nie ma w `src/data/sety.json` ani `katalog.json`. Pozostałe numery z nowych kart promoklockow sprawdziłem — 67006, 67008, 67009, 67012, 72061 i 80122 **są** w rejestrze z premierą 2027-01, więc dotyczy to tylko tych czterech.
+**Zrobić:** — dopisać je do `sety.json` i `ceny_baza.json`, zaczynając od **30720**: to upominek z **trwającego** okna 9–15.11 i jedyna pozycja w tabeli upominków kalendarza **bez linku**, a okno kończy się w niedzielę.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-10 14:58 · SKRZYNKA · GitHub: 0035 (aktualizacja) + 92 karty P07
 Źródło: repo tylkoklocki-teksty, commit ffa1b89a. Liczba kart w `karty_setow.json` wzrosła z 2033 do 2108: 75 nowych i 17 nadpisanych nowszą wersją, czyli z poprawkami z maila z 06.11 (40686, 42643, 43242, 41758, 77259, 10338, 75328, 43269, 76326, 76327, 31147, polybagi 30715–30735). Sprawdzone: wszystkie liczby z maila stoją w nowych kartach. 72168 nie przyszła.
