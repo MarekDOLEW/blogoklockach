@@ -30,8 +30,8 @@
  "72160": {
   "nazwa": "Arcanine",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 288,
-  "najnizsza_data": "2026-10-05",
+  "najnizsza_cena": 287.99,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "72168": {
@@ -282,9 +282,9 @@
  "21066": {
   "nazwa": "Nowy Jork — Wielkie Jabłko",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 369,
-  "najnizsza_data": "2026-10-27",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 349,
+  "najnizsza_data": "2026-11-12",
+  "najnizsza_sklep": "mediaexpert"
  },
  "72537": {
   "nazwa": "Tygrys Derpy i Sroka Sussie",
@@ -863,8 +863,8 @@
  "76471": {
   "nazwa": "Magiczne sklepy na ulicy Śmiertelnego Nokturnu",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 276.99,
-  "najnizsza_data": "2026-11-11",
+  "najnizsza_cena": 275,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "77977": {
@@ -975,8 +975,8 @@
  "40924": {
   "nazwa": "Megatron jako robot i pojazd",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 98.95,
-  "najnizsza_data": "2026-11-08",
+  "najnizsza_cena": 98.93,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "42242": {
@@ -1465,9 +1465,9 @@
  "40958": {
   "nazwa": "Świąteczna skarpeta",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 139.99,
-  "najnizsza_data": "2026-10-29",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 138.97,
+  "najnizsza_data": "2026-11-12",
+  "najnizsza_sklep": "allegro"
  },
  "72159": {
   "nazwa": "SMART Play: Jigglypuff i koncert",
@@ -1640,9 +1640,9 @@
  "43020": {
   "nazwa": "Oficjalny Puchar Świata FIFA",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 550.52,
-  "najnizsza_data": "2026-11-10",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 539.99,
+  "najnizsza_data": "2026-11-12",
+  "najnizsza_sklep": "allegro"
  },
  "77256": {
   "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
@@ -2440,8 +2440,8 @@
  "43224": {
   "nazwa": "Zamek króla Magnifico",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 227.77,
-  "najnizsza_data": "2026-10-11",
+  "najnizsza_cena": 226,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "42210": {
@@ -2701,8 +2701,8 @@
  "60433": {
   "nazwa": "Modułowa stacja kosmiczna",
   "cena_katalogowa": 429.99,
-  "najnizsza_cena": 320.05,
-  "najnizsza_data": "2026-09-05",
+  "najnizsza_cena": 314.99,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "mediaexpert"
  },
  "72306": {
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 74.74,
-  "najnizsza_data": "2026-11-11",
+  "najnizsza_cena": 74.62,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3653,8 +3653,8 @@
  "40913": {
   "nazwa": "Zabytkowy samochód z parady",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 66.25,
-  "najnizsza_data": "2026-11-11",
+  "najnizsza_cena": 65.92,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "75448": {
@@ -6118,8 +6118,8 @@
  "21256": {
   "nazwa": "Żabi domek",
   "cena_katalogowa": 234.99,
-  "najnizsza_cena": 202.8,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "76342": {
@@ -6652,8 +6652,8 @@
  "40892": {
   "nazwa": "Kolekcja odznak z regionu Kanto",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 639.99,
-  "najnizsza_data": "2026-11-06",
+  "najnizsza_cena": 636.99,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "76900": {
@@ -7515,8 +7515,8 @@
  "40856": {
   "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 178,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 168.25,
+  "najnizsza_data": "2026-11-12",
   "najnizsza_sklep": "allegro"
  },
  "31146": {
