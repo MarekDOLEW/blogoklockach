@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia (zgloszenia), oraz ostatni odczyt stanu z URL Inspection API per adres (stany: v = werdykt, s = coverageState, c = ostatni crawl, d = dzień odczytu; od 06.11.2026). Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia); adresu z PASS nie sprawdza przez 30 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-11"
+  "zaktualizowano": "2026-11-12"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -427,6 +427,23 @@
    "https://tylkoklocki.pl/zestaw/21368/",
    "https://tylkoklocki.pl/zestaw/21370/",
    "https://tylkoklocki.pl/zestaw/21372/"
+  ],
+  "2026-11-12": [
+   "https://tylkoklocki.pl/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/",
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/11511/",
+   "https://tylkoklocki.pl/zestaw/21272/",
+   "https://tylkoklocki.pl/zestaw/21367/",
+   "https://tylkoklocki.pl/zestaw/21368/",
+   "https://tylkoklocki.pl/zestaw/21370/",
+   "https://tylkoklocki.pl/zestaw/21372/",
+   "https://tylkoklocki.pl/artykuly/lego-ideas-zatwierdza-trzy-nowe-zestawy-interstellar-wiatrak-wsrod/",
+   "https://tylkoklocki.pl/artykuly/nieoficjalnie-seria-lego-monkie-kid-zniknie-z-oferty-pod-koniec-2026/",
+   "https://tylkoklocki.pl/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla/",
+   "https://tylkoklocki.pl/zestaw/31140/",
+   "https://tylkoklocki.pl/zestaw/60411/",
+   "https://tylkoklocki.pl/zestaw/60456/",
+   "https://tylkoklocki.pl/zestaw/76924/"
   ]
  },
  "stany": {
@@ -608,7 +625,7 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/deale/deal-42689-domek-klubu-heartlake-minimum/": {
    "v": "PASS",
@@ -2663,10 +2680,10 @@
    "d": "2026-11-10"
   },
   "https://tylkoklocki.pl/zestaw/11507/": {
-   "v": "NEUTRAL",
-   "s": "URL is unknown to Google",
-   "c": null,
-   "d": "2026-11-11"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/11509/": {
    "v": "PASS",
@@ -2678,19 +2695,19 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/11514/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-11"
+   "s": "Crawled - currently not indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21034/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-11"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21066/": {
    "v": "NEUTRAL",
@@ -2717,34 +2734,34 @@
    "d": "2026-11-09"
   },
   "https://tylkoklocki.pl/zestaw/21270/": {
-   "v": "NEUTRAL",
-   "s": "Excluded by ‘noindex’ tag",
-   "c": "2026-09-12",
-   "d": "2026-11-11"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21272/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/artykuly/lego-42682-domek-na-luksusowym-kempingu-recenzja/": {
-   "v": "NEUTRAL",
-   "s": "URL is unknown to Google",
-   "c": null,
-   "d": "2026-11-11"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/artykuly/trzy-upominki-na-lego-pl-od-9-do-15-listopada-batman-z-retro-gry-wideo/": {
    "v": "NEUTRAL",
-   "s": "URL is unknown to Google",
-   "c": null,
-   "d": "2026-11-11"
-  },
-  "https://tylkoklocki.pl/deale/deal-media-expert-serie-growe-minima/": {
-   "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/deale/deal-media-expert-serie-growe-minima/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21274/": {
    "v": "PASS",
@@ -2762,31 +2779,31 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21368/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21370/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21372/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
+   "s": "URL is unknown to Google",
    "c": null,
-   "d": "2026-11-11"
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21583/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-11"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-11",
+   "d": "2026-11-12"
   },
   "https://tylkoklocki.pl/zestaw/21589/": {
    "v": "PASS",
@@ -2805,6 +2822,96 @@
    "s": "Discovered - currently not indexed",
    "c": null,
    "d": "2026-11-10"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-ideas-zatwierdza-trzy-nowe-zestawy-interstellar-wiatrak-wsrod/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/artykuly/nieoficjalnie-seria-lego-monkie-kid-zniknie-z-oferty-pod-koniec-2026/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/21587/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/21588/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-01",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/31140/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/31382/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-12",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/42221/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/60411/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-12",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/60430/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/60456/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/71828/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-03",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/75437/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/76337/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-12"
+  },
+  "https://tylkoklocki.pl/zestaw/76924/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-12",
+   "d": "2026-11-12"
   }
  }
 }
