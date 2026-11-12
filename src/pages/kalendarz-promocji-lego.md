@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-10"
+zaktualizowano: "2026-11-12"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -22,6 +22,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 
 <ul class="okna">
 <li><span class="okna__data">9–15.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>Dwa nowe gratisy na LEGO.pl</b> – 40906 Restauracje świata: Japonia (wycena 84,99 zł) przy zakupach ponad 745 zł, tylko dla Insiders, i 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach ponad 165 zł na produkty Disney; progi i daty z karty promocji lego.com/pl-pl</a></li>
+<li><span class="okna__data">od 11.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#smyk-poduszka"><b>Smyk: poduszka-maskotka za 1 zł</b> – do jednego zestawu LEGO od 359 zł; terminu zakończenia Smyk nie podaje</a></li>
 <li><span class="okna__data">1–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40898 Wenecka taksówka wodna</b> – upominek do zakupu 11388 Wenecka okolica; LEGO wydłużyło to okno z 8 na <b>20 listopada</b></a></li>
 <li><span class="okna__data">28.10–8.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40889"><b>Dwa gratisy progowe na LEGO.pl</b> – 40889 Buduj, maluj i baw się! (wycena 81,99 zł) od 540 zł i 30727 Minimodel TIE Advanced z serii Star Wars od 165 zł; okno zamknęło się 8.11</a></li>
 <li><span class="okna__data">20–27.10</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#pazdziernik-kumulacja"><b>Trzy gratisy naraz na LEGO.pl</b> – 30717 od 165 zł, 40916 Kwiatowa ramka od 625 zł i 40765 Ośrodek szkoleniowy na Kamino od 670 zł w zestawach Star Wars; okno minęło 27.10</a></li>
@@ -175,6 +176,16 @@ nie wchodzą też nigdy do normalnej dystrybucji, czyli **nie stanieją** — an
 Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
 wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
 podejmujesz w oknie przedsprzedaży albo wcale.
+
+**Uwaga na listopad 2026: Bricklink.com jest wyłączony.** Serwis nie działa od
+6 listopada, a komunikat na jego własnej stronie serwisowej (sprawdzony 12 listopada,
+z adnotacją „Updated: 11th November 2026") mówi wprost, że to **nie zwykła przerwa
+techniczna**: „We took BrickLink offline after identifying unusual activity on the
+platform… Before bringing the site back online, we need to fully understand what has
+happened". Pierwotnie zapowiadano powrót na 9 listopada, teraz terminu nie ma żadnego.
+Dopóki to trwa, cały kanał BLDP jest niedostępny – nie złożysz zamówienia, nie
+sprawdzisz katalogu części i nie wejdziesz na konto. To jedyne miejsce w tym
+kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen, dlatego o tym piszemy.
 
 Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
 
@@ -422,6 +433,26 @@ Uwaga na pseudopromocje: część sklepów podnosi ceny przed BF, żeby „rabat
 **Nowość w Black Friday nie jest okazją – i w tym roku mamy na to konkretny przykład.** W dniu Black Friday, 27 listopada, do sprzedaży wchodzi **21375 Godzilla** (5363 elementy) z własnym gratisem. Zestaw debiutujący tego dnia z definicji nie jest przeceniony – stoi w witrynie obok rzeczy faktycznie przecenionych i korzysta z ich rozpędu. LEGO podało już polską cenę katalogową: **1699,99 zł**, czyli około **0,32 zł za element**. To przelicznik typowy dla dużych zestawów Ideas, a nie okazja – i tego dnia nikt nie zejdzie poniżej tej kwoty, bo zestaw właśnie wchodzi do sprzedaży. Jeśli 27 listopada zobaczysz tę premierę wśród „ofert Black Friday", to jest premiera, nie oferta.
 
 **Praktyczna rada:** listę prezentów ułóż **przed** Black Friday – z [prezentowników](/prezentowniki/) albo [stron serii](/serie/) – i w dniu promocji tylko porównuj ceny z tabel na podstronach zestawów, zamiast wybierać w biegu.
+
+<h3 id="smyk-poduszka">Smyk: poduszka-maskotka za złotówkę do zestawu od 359 zł <span class="status status--trwa">trwa</span></h3>
+
+Pierwsza w tym sezonie akcja progowa sklepu zewnętrznego, którą potwierdziliśmy u źródła.
+Smyk pisze na swojej stronie promocji: „Kup zestaw LEGO za min. 359 zł i odbierz miękką
+poduszkę minifigurkę pierniczek za 1 zł" – upominkiem jest 48-centymetrowa
+poduszka-maskotka, nie zestaw klocków, a rozliczenie idzie w koszyku: płacisz cenę
+zestawu plus złotówkę.
+
+Dwie rzeczy, które odróżniają to od okien na LEGO.com. Pierwsza: próg liczy się z
+**jednego zestawu**, nie z sumy koszyka – dwóch tanich zestawów się nie składa. Druga:
+**Smyk nie podaje daty zakończenia** promocji, więc nie wiemy, jak długo potrwa; data
+na stronie dotyczy terminu dostawy, nie okna akcji.
+
+Czy to zmienia decyzję zakupową? Przy prógu 359 zł upominek za złotówkę jest miłym
+dodatkiem, ale nie powodem, żeby kupować drożej, niż trzeba – a akcji towarzyszą
+obniżki, które i tak widać w tabelach cen na podstronach zestawów (odczyty ze Smyka
+odwieżyliśmy 12 listopada). Jeśli i tak kupujesz w Smyku zestaw z tej półki cenowej,
+poduszkę dodaj; jeśli ten sam zestaw jest taniej w innym sklepie, policz różnicę,
+zanim dopłacisz.
 
 <h2 id="grudzien">Grudzień: 323 wycofania, zero premier i jedno okno promocyjne do przewidzenia <span class="status status--maybe">przewidywane</span></h2>
 

@@ -159,6 +159,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-12 08:30 · RADAR · Do zrobienia
+
+**Smyk · 11.11** — Smyk ruszył z akcją progową: „Kup zestaw LEGO za min. 359 zł i odbierz miękką poduszkę minifigurkę pierniczek za 1 zł" (48 cm, rozliczenie w koszyku) — potwierdzone na stronie promocji Smyka i na karcie 42240.
+**Mamy?** — nie mieliśmy, i gorzej: **nasze ceny Smyka były z 10.11**, a promocja ruszyła w środę. Karta 42240 pokazuje 675 zł zamiast 719 („Najniższa cena z 30 dni przed obniżką: 719,00 zł").
+**Zrobić:** — zrobione w tym przebiegu: nowa sekcja `#smyk-poduszka` w kalendarzu (z zastrzeżeniem, że Smyk **nie podaje daty końca**, a próg liczy się z **jednego** zestawu) i pozycja w „Co trwa teraz". Niezalatane: **75691** Podpórki Glinda/Elphaba, które podają za 389 zł u Smyka — nie ma go ani w `sety.json`, ani w `redirects.smyk`, więc skrypt go nie odczytuje.
+**Kto:** — Code (dane, strona)
+
+**dane · 12.11** — Uruchomiłem `scripts/smyk-odswiez.mjs` (0 kredytów): 569 kart z ceną, 0 błędów, **25 zmian cen**, 12 ofert zdjętych jako wyprzedane; liczba wpisów bez zmian (sety 1354, feed 8938).
+**Mamy?** — teraz tak, ale przez dwa dni nie: w **ośmiu** zestawach Smyk jest po tej zmianie **najtańszym sklepem**, a wcześniej było to u nas niewidoczne — 10353 (259→225), 11375 (267→249), 11384 (459→419), 42226 (195→179,90), 42240 (719→675), 60445 (309→285), 71856 (142,90→134,90), 76463 (309→285).
+**Zrobić:** — zdecydować o **drugim odczycie Smyka w tygodniu** (zmiana promptu Routine „Dane wt" albo osobny krok): tygodniowy odczyt z wtorku nie łapie promocji śródtygodniowych, a listopad i grudzień to miesiące, w których takie akcje będą się powtarzać.
+**Kto:** — Marek (decyzja)
+
+**BrickLink · 11.11** — Awaria z 6 listopada przestała być przerwą techniczną: własna strona serwisowa BrickLinka mówi „We took BrickLink offline after identifying **unusual activity** on the platform… Before bringing the site back online, we need to fully understand what has happened" („Updated: 11th November 2026") — czyli incydent bezpieczeństwa i **brak terminu powrotu**.
+**Mamy?** — ekspozycja cenowa nadal zerowa (0 ofert `bricklink` w `sety.json`), ale sekcja `#bldp` kalendarza odsyła czytelnika na Bricklink.com jako jedyny kanał sprzedaży BLDP.
+**Zrobić:** — zrobione, zgodnie z zastrzeżeniem z 08.11 („gdyby przedłużyła się poza poniedziałek, wracamy do tego"): w `#bldp` jest notka z cytatem ze źródła i datą sprawdzenia. Przy powrocie serwisu notkę usunąć.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-11 08:15 · RADAR · Do zrobienia
 
 **faniklockow.pl · 10.11** — Weszli w prezentownik budżetowy „LEGO na prezent świąteczny **do 50 zł**", sześć tygodni przed Wigilią.
