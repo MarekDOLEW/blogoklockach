@@ -159,6 +159,12 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-12 14:58 · SKRZYNKA · GitHub: Recenzje_020 (opublikowana), 0047 (do poprawki)
+Źródło: repo tylkoklocki-teksty, commit 4aea9e75.
+- Recenzje_020 (75461) → https://tylkoklocki.pl/artykuly/lego-75461-powiekszona-minifigurka-dartha-vadera-recenzja/ — z 1 zdjęciem Piotra.
+- 0047 „BrickLink wciąż niedostępny” — nie poszedł: tekst z Aktualności bez zestawu i bez zdjęcia nie ma okładki, więc build by go odrzucił. Plik leży w `do-poprawki/` z uwagami (commit a824b2c w repo tekstów), a Piotr dostał mail. Recenzję opublikowaliśmy osobno, żeby nie czekała.
+
 ## 2026-11-12 08:30 · RADAR · Do zrobienia
 
 **Smyk · 11.11** — Smyk ruszył z akcją progową: „Kup zestaw LEGO za min. 359 zł i odbierz miękką poduszkę minifigurkę pierniczek za 1 zł" (48 cm, rozliczenie w koszyku) — potwierdzone na stronie promocji Smyka i na karcie 42240.
