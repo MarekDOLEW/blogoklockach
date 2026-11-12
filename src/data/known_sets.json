@@ -1,7 +1,7 @@
 {
- "data_aktualizacji": "2026-11-09",
+ "data_aktualizacji": "2026-11-12",
  "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
- "liczba_setow": 1353,
+ "liczba_setow": 1354,
  "sety": [
   "10280",
   "10281",
@@ -325,6 +325,7 @@
   "30734",
   "30735",
   "30736",
+  "30762",
   "31109",
   "31129",
   "31134",

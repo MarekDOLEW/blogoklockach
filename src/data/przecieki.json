@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-11",
+  "zaktualizowano": "2026-11-12",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -2038,12 +2038,21 @@
      "nazwa": "PromoBricks",
      "url": "https://www.promobricks.de/retro-video-game-batman-figur-wird-gratis-zugabe/",
      "data": "2026-11-03"
+    },
+    {
+     "nazwa": "PROMOBRICKS — „LEGO Retro Videogame Batman Minifigur nicht mehr verfügbar” (gratis od progu 40 euro, wyprzedany w niecałą dobę) oraz karta zestawu na Bricksecie (5 elementów, 6+, Availability „Promotional”, 09.11.2026)",
+     "url": "https://www.promobricks.de/lego-retro-videogame-batman-minifigur-nicht-mehr-verfuegbar/",
+     "data": "2026-11-11"
     }
    ],
    "dodano": "2026-11-04",
-   "uwagi": "04.11.2026: z materialu PromoBricks (03.11). Serwis hedguje — „kommt wohl zwischen dem 09. und 15. November\" i „soll\" przy progu 40 euro — wiec to zapowiedz akcji, nie potwierdzenie. StoneWars o tym nie pisze (lista news sprawdzona 04.11). Jedno zrodlo i tryb przypuszczajacy, stad „niska\". Sam zestaw istnieje od wczesniej (Gamescom, Skaerbaek Fan Weekend, bonus do wersji gry LEGO Batman na Switch 2) — nowa jest szeroka dostepnosc. Prog polski nieznany: niemieckie i polskie progi sie roznia (40889 to 130 euro kontra 540 zl).",
+   "uwagi": "04.11.2026: z materialu PromoBricks (03.11). Serwis hedguje — „kommt wohl zwischen dem 09. und 15. November\" i „soll\" przy progu 40 euro — wiec to zapowiedz akcji, nie potwierdzenie. StoneWars o tym nie pisze (lista news sprawdzona 04.11). Jedno zrodlo i tryb przypuszczajacy, stad „niska\". Sam zestaw istnieje od wczesniej (Gamescom, Skaerbaek Fan Weekend, bonus do wersji gry LEGO Batman na Switch 2) — nowa jest szeroka dostepnosc. Prog polski nieznany: niemieckie i polskie progi sie roznia (40889 to 130 euro kontra 540 zl).\n\n12.11.2026: ROZSTRZYGNIETE jako „potwierdzony\". Numer zgodny, termin trafiony co do dnia (09.11.2026), prog 40 euro w Niemczech tez. Ceny nie ma czego porownywac — to gratis. Dowody: PROMOBRICKS 11.11.2026 (wyprzedane w niecala dobe, online i w sklepach), nasz wlasny tekst o upominkach z 09.11 z aktualizacja z 10.11 (na LEGO.pl oznaczony jako wyprzedany juz pierwszego dnia) oraz karta Bricksetu 30762-1 z adnotacja „Free with qualifying purchases at LEGO.com, November 9 2026\". Zestaw dopisany do sety.json z bez_rrp (gratis, nigdy nie sprzedawany osobno).",
    "opis": "Saszetka z minifigurką Batmana w stylu gry z 1989 roku na konsolę NES, dotąd rozdawana tylko na imprezach branżowych i jako bonus do wersji gry LEGO Batman na Nintendo Switch 2. Według PromoBricks ma trafić do sklepu LEGO jako gratis za zakupy między 9 a 15 listopada 2026, przy progu 40 euro w Niemczech. Serwis pisze o tym w trybie przypuszczającym, LEGO terminu nie ogłosiło, a progu obowiązującego w Polsce nie podano.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-12",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Akcja ruszyła dokładnie tak, jak zapowiadał przeciek: 9 listopada 2026 minifigurka weszła jako upominek do zamówień w sklepie LEGO, w Niemczech od progu 40 euro. Przeciek nie przewidział jednego — zapas skończył się w niecałą dobę, więc zapowiadane okno do 15 listopada nie miało znaczenia: zestawu zabrakło pierwszego dnia i w sklepie internetowym, i w sklepach stacjonarnych, także na LEGO.pl."
+   }
   },
   {
    "id": "42706",
