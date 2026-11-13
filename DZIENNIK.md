@@ -160,6 +160,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-13 08:58 · SKRZYNKA · GitHub: 0041, 0042, 0048
+Źródło: repo tylkoklocki-teksty, commit dbdefee4 (3 teksty, 9 zdjęć Piotra).
+- 0041 → https://tylkoklocki.pl/artykuly/klasyczny-lego-space-1978-1987-czesc-1-rakiety-bazy-i-flagowce/ (4 zdjęcia)
+- 0042 → https://tylkoklocki.pl/artykuly/klasyczny-lego-space-1978-1987-czesc-2-od-skutera-do-starfleet/ (5 zdjęć)
+- 0048 → https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/
+
+
 ## 2026-11-13 09:20 · ŁOWCA · Do zrobienia
 
 **Piątkowy krok Smyka w feedy-lego.py ściął oferty Smyka z 569 do 203 (−64%); straż historii cen uznała to za awarię feedu, Łowca przywrócił wczorajsze oferty z origin (push ba2b640)**
