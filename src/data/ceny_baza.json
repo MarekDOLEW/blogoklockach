@@ -30,8 +30,8 @@
  "72160": {
   "nazwa": "Arcanine",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 287.99,
-  "najnizsza_data": "2026-11-12",
+  "najnizsza_cena": 280,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "72168": {
@@ -177,8 +177,8 @@
  "42232": {
   "nazwa": "Koenigsegg Sadair's Spear Megacar",
   "cena_katalogowa": 1949.99,
-  "najnizsza_cena": 1449,
-  "najnizsza_data": "2026-10-30",
+  "najnizsza_cena": 1399,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "mediaexpert"
  },
  "40858": {
@@ -590,9 +590,9 @@
  "11212": {
   "nazwa": "Domek w ogrodzie Wróżkici",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 42.39,
-  "najnizsza_data": "2026-09-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 40.75,
+  "najnizsza_data": "2026-11-13",
+  "najnizsza_sklep": "mediaexpert"
  },
  "11214": {
   "nazwa": "Wróżkowa kolejka górska i podwieczorek",
@@ -2447,8 +2447,8 @@
  "42210": {
   "nazwa": "Samochód Nissan Skyline GT-R",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 399.99,
-  "najnizsza_data": "2026-09-21",
+  "najnizsza_cena": 397.99,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "60295": {
@@ -2554,9 +2554,9 @@
  "60367": {
   "nazwa": "Samolot pasażerski",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 284.99,
-  "najnizsza_data": "2026-10-12",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 284.98,
+  "najnizsza_data": "2026-11-13",
+  "najnizsza_sklep": "allegro"
  },
  "75416": {
   "nazwa": "Droid astromechaniczny Chopper (C1-10P)",
@@ -2771,8 +2771,8 @@
  "10367": {
   "nazwa": "Władca pierścieni: Book nook z Balrogiem",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 349,
-  "najnizsza_data": "2026-09-18",
+  "najnizsza_cena": 339,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "76403": {
@@ -3289,8 +3289,8 @@
  "75432": {
   "nazwa": "Myśliwiec V-19 Torrent",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 194.97,
-  "najnizsza_data": "2026-10-27",
+  "najnizsza_cena": 193.28,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "mediaexpert"
  },
  "30414": {
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 74.62,
-  "najnizsza_data": "2026-11-12",
+  "najnizsza_cena": 74.5,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -4416,8 +4416,8 @@
  "71838": {
   "nazwa": "Wyścig motocyklowy Kaia",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.45,
-  "najnizsza_data": "2026-09-08",
+  "najnizsza_cena": 24.71,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "43303": {
@@ -5236,8 +5236,8 @@
  "42137": {
   "nazwa": "Formula E Porsche 99X Electric",
   "cena_katalogowa": 239.99,
-  "najnizsza_cena": 165,
-  "najnizsza_data": "2026-09-11",
+  "najnizsza_cena": 159,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "30702": {
@@ -6330,8 +6330,8 @@
  "76449": {
   "nazwa": "Potworna księga potworów z zębami",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 179.07,
-  "najnizsza_data": "2026-11-05",
+  "najnizsza_cena": 178.07,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "mediaexpert"
  },
  "76331": {
@@ -6652,8 +6652,8 @@
  "40892": {
   "nazwa": "Kolekcja odznak z regionu Kanto",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 636.99,
-  "najnizsza_data": "2026-11-12",
+  "najnizsza_cena": 633.99,
+  "najnizsza_data": "2026-11-13",
   "najnizsza_sklep": "allegro"
  },
  "76900": {
@@ -8000,9 +8000,9 @@
  "75689": {
   "nazwa": "Emerald City i Kiamo Ko Castle",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 199,
-  "najnizsza_data": "2026-09-18",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 149,
+  "najnizsza_data": "2026-11-13",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76785": {
   "nazwa": "Mieszkanie Rączki",
