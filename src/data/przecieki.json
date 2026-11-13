@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-12",
+  "zaktualizowano": "2026-11-13",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -230,7 +230,7 @@
   {
    "id": "ucs-sokol-2027",
    "numer": "75487",
-   "nazwa": "Nowy UCS Sokół Millennium",
+   "nazwa": "Nowy UCS Sokół Millennium (numer 75487 wg przecieku)",
    "seria": "Star Wars",
    "elementy": null,
    "cena_wg_zrodla": null,
@@ -246,11 +246,16 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": "Następca 75192 (wycofanie grudzień 2026). UZUPELNIENIE 20.10.2026: tabela zbiorcza StoneWars (19.10) przypisuje temu przeciekowi numer 75487 i termin 2027-10. Dopisane do istniejacego wpisu zamiast zakladania drugiego — to ten sam przeciek, wczesniej bez numeru. Pewnosc zostaje „niska”: elementow i ceny brak, zrodlo spolecznosciowe.",
-   "opis": "Następca UCS Sokoła Millennium 75192, który ma zniknąć z oferty w grudniu 2026. Przecieki przypisały mu już numer 75487 i termin — październik 2027 — ale liczby elementów ani ceny nadal nikt nie podaje. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez StoneWars, bez śladu po stronie producenta.",
+   "uwagi": "Następca 75192 (wycofanie grudzień 2026). UZUPELNIENIE 20.10.2026: tabela zbiorcza StoneWars (19.10) przypisuje temu przeciekowi numer 75487 i termin 2027-10. Dopisane do istniejacego wpisu zamiast zakladania drugiego — to ten sam przeciek, wczesniej bez numeru. Pewnosc zostaje „niska”: elementow i ceny brak, zrodlo spolecznosciowe.\n\n2026-11-13: doszedl numer 75487 — w tabeli Star Wars u StoneWars (artykul o styczniowej fali, 12.11.2026) pod terminem „2027, 10\" stoi „[UCS Millenium Falcon ?]\". Pewnosc zostaje „niska\": nazwa w nawiasie ze znakiem pytania, brak elementow i ceny, brak slowa od producenta.",
+   "opis": "Kolejna wersja Sokoła Millennium w linii Ultimate Collector Series, zapowiadana na październik 2027. W tabeli nowości Star Wars niemieckiego serwisu branżowego przy tym terminie stoi numer 75487, ale nazwa zestawu jest tam podana w nawiasie ze znakiem zapytania, a liczby elementów i ceny nie ma. LEGO o zestawie nie informowało, więc na razie jest to numer z przypisanym domysłem.",
    "rozstrzygniecie": null
   },
   {
@@ -834,12 +839,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75495-1 (832 elementów, RRP 79,99 euro)",
+     "url": "https://brickset.com/sets/75495-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "Liczba elementów (832) z kanału buggyleaks, relacjonowana przez StoneWars 19.10.2026. Ceny nie podano; hełmy z tej serii chodzą zwykle po 69,99 euro, ale tego nie wpisuję jako danej z przecieku. Brickset numeru nie ma (zrzut rocznika 2027 z 02.10.2026). Nazwa w źródle w nawiasie ze znakiem pytania.",
+   "uwagi": "Liczba elementów (832) z kanału buggyleaks, relacjonowana przez StoneWars 19.10.2026. Ceny nie podano; hełmy z tej serii chodzą zwykle po 69,99 euro, ale tego nie wpisuję jako danej z przecieku. Brickset numeru nie ma (zrzut rocznika 2027 z 02.10.2026). Nazwa w źródle w nawiasie ze znakiem pytania.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75495-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Kolejna pozycja z kolekcji hełmów, tym razem szturmowiec w wersji ze szkiców koncepcyjnych Ralpha McQuarriego. Przecieki mówią o 832 elementach, co dałoby trzeci największy hełm w serii, i o premierze 1 stycznia 2027. Ceny nikt nie podaje. Informacja pochodzi z kanałów społecznościowych, relacjonowanych przez StoneWars, więc do pewności brakuje i drugiego serwisu, i śladu po stronie producenta.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 832 elementy i premiera 1 stycznia 2027 zgodnie z przeciekiem; doszła cena, której wcześniej nie było — 79,99 euro w strefie euro."
+   }
   },
   {
    "id": "75482",
@@ -855,12 +874,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75482-1 (981 elementów, RRP 99,99 euro)",
+     "url": "https://brickset.com/sets/75482-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "981 elementów, 99,99 euro, 10+, start 1.01.2027, dodatkowo figurka „Concept Art Luke (weiblich)”. Przelicznik euro na zlote zgrubny (okolo 4,25), zaokraglony do 10 zl — to nie cena katalogowa.",
+   "uwagi": "981 elementów, 99,99 euro, 10+, start 1.01.2027, dodatkowo figurka „Concept Art Luke (weiblich)”. Przelicznik euro na zlote zgrubny (okolo 4,25), zaokraglony do 10 zl — to nie cena katalogowa.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75482-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Kontynuacja linii powiększonych minifigurek — tym razem Luke Skywalker w stroju pilota, według przecieków z 981 elementów i w cenie 99,99 euro, czyli orientacyjnie około 420 zł. Zapowiadany termin to 1 stycznia 2027, a w zestawie ma być figurka rocznicowa na 50-lecie Gwiezdnych wojen. Źródłem są kanały społecznościowe relacjonowane przez jeden serwis branżowy, więc liczby mogą się jeszcze zmienić.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 981 elementów, 99,99 euro i premiera 1 stycznia 2027 — zgodnie z przeciekiem; LEGO potwierdziło też, że figurka przedstawia Luke'a w kombinezonie pilota."
+   }
   },
   {
    "id": "75478",
@@ -876,12 +909,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75478-1 (676 elementów, RRP 79,99 euro)",
+     "url": "https://brickset.com/sets/75478-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "676 elementów, 4 minifigurki, 79,99 euro, 8+, start 1.01.2027, figurka rocznicowa „Concept Art Luke Skywalker”. Przelicznik zgrubny (okolo 4,25), zaokraglony do 10 zl.",
+   "uwagi": "676 elementów, 4 minifigurki, 79,99 euro, 8+, start 1.01.2027, figurka rocznicowa „Concept Art Luke Skywalker”. Przelicznik zgrubny (okolo 4,25), zaokraglony do 10 zl.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75478-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Nowa wersja rebelianckiego Y-Winga: według przecieków 676 elementów, cztery minifigurki i cena 79,99 euro, czyli orientacyjnie około 340 zł, z premierą 1 stycznia 2027. Do zestawu ma trafić rocznicowa figurka Luke’a ze szkiców koncepcyjnych. Dane pochodzą z kanałów społecznościowych, które relacjonuje StoneWars — producent nie potwierdził niczego.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 676 elementów, 79,99 euro i premiera 1 stycznia 2027 — przeciek trafił numer, rozmiar i termin."
+   }
   },
   {
    "id": "75470",
@@ -897,12 +944,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75470-1 (372 elementów, RRP 39,99 euro)",
+     "url": "https://brickset.com/sets/75470-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "372 elementy, 3 minifigurki, 39,99 euro, 9+, start 1.01.2027, figurka rocznicowa „Concept Art Han Solo”. StoneWars dodaje 19.10, ze 75470 i 75480 maja byc hybryda diorama-zestaw do zabawy. Przelicznik zgrubny.",
+   "uwagi": "372 elementy, 3 minifigurki, 39,99 euro, 9+, start 1.01.2027, figurka rocznicowa „Concept Art Han Solo”. StoneWars dodaje 19.10, ze 75470 i 75480 maja byc hybryda diorama-zestaw do zabawy. Przelicznik zgrubny.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75470-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Scena pojedynku Obi-Wana z Anakinem na Mustafarze — pierwszy od dawna zestaw do trzeciej części prequeli. Przecieki podają 372 elementy, trzy minifigurki i cenę 39,99 euro, czyli orientacyjnie około 170 zł, z premierą 1 stycznia 2027; formuła ma łączyć dioramę z zestawem do zabawy. Informacja opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 372 elementy, 39,99 euro i premiera 1 stycznia 2027 zgadzają się z przeciekiem co do liczby i terminu."
+   }
   },
   {
    "id": "75464",
@@ -960,12 +1021,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75466-1 (628 elementów, RRP 69,99 euro)",
+     "url": "https://brickset.com/sets/75466-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "628 elementow, 69,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "uwagi": "628 elementow, 69,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75466-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Obraz ścienny z Darthem Vaderem w formule dwa w jednym, czyli z dwoma możliwymi układami tego samego zestawu. Przecieki podają 628 elementów, cenę 69,99 euro (orientacyjnie około 300 zł) i premierę 1 stycznia 2027. Dane pochodzą z kanałów społecznościowych relacjonowanych przez jeden serwis branżowy, bez potwierdzenia producenta.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 628 elementów i 69,99 euro w strefie euro, premiera 1 stycznia 2027 — wszystko tak, jak zapowiadał przeciek, włącznie z numerem."
+   }
   },
   {
    "id": "75480",
@@ -981,12 +1056,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75480-1 (718 elementów, RRP 79,99 euro)",
+     "url": "https://brickset.com/sets/75480-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "718 elementow, 79,99 euro, start 1.01.2027. StoneWars 19.10: hybryda diorama-zestaw do zabawy, plytka „I am your father”; pytanie o laczenie z 75494 otwarte. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "uwagi": "718 elementow, 79,99 euro, start 1.01.2027. StoneWars 19.10: hybryda diorama-zestaw do zabawy, plytka „I am your father”; pytanie o laczenie z 75494 otwarte. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n2026-11-13: ROZSTRZYGNIETE „potwierdzony\". Karta produktu na lego.com i rekord Bricksetu 75480-1 zgadzaja sie z danymi przecieku (elementy, cena w euro, termin 2027-01). Zestaw dopisany do sety.json w tym samym przebiegu; polskiej ceny katalogowej nadal nie ma.",
    "opis": "Pojedynek Luke’a z Vaderem w Mieście w Chmurach: według przecieków 718 elementów, cena 79,99 euro (orientacyjnie około 340 zł) i premiera 1 stycznia 2027. Formuła ma łączyć dioramę z zestawem do zabawy, a w komplecie ma być płytka z napisem „I am your father”. Nie wiadomo, czy model połączy się z zapowiadanym Miastem w Chmurach (75494); źródłem są kanały społecznościowe.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "LEGO pokazało zestaw 12 listopada 2026, razem z całą styczniową falą na pięćdziesięciolecie Star Wars. 718 elementów, 79,99 euro i premiera 1 stycznia 2027, dokładnie jak w przecieku."
+   }
   },
   {
    "id": "75476",
@@ -1086,12 +1175,26 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 75467-1 (3209 elementów, RRP 299,99 euro)",
+     "url": "https://brickset.com/sets/75467-1",
+     "data": "2026-11-13"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "Dodatek rocznicowy: plytka z plakatem Epizodu IV. Elementow i ceny brak. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "uwagi": "Dodatek rocznicowy: plytka z plakatem Epizodu IV. Elementow i ceny brak. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n2026-11-13: ROZSTRZYGNIETE „zmieniony\" — numer trafiony, ale termin przesuniety z 2027-04 na 2027-01, czyli poza tolerancje +/-1 miesiaca z _meta.wynik. Elementow i ceny przeciek nie podawal, wiec nie bylo czego porownac; teraz 3209 elementow i 299,99 euro (lego.com, Brickset 75467-1). Zestaw dopisany do sety.json.",
    "opis": "Zestaw z serii rocznikowej na 50-lecie, w którym ma się znaleźć nadrukowana płytka z plakatem czwartego epizodu. Poza numerem, miesiącem i tym jednym szczegółem nie ma danych — ani liczby elementów, ani ceny. Informacja pochodzi z kanałów społecznościowych.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-13",
+    "wynik": "zmieniony",
+    "co_sie_zmienilo": "Zestaw wszedł, ale wcześniej i większy, niż mówił przeciek. Numer się zgadza, natomiast premiera wypada 1 stycznia 2027, a nie w kwietniu, i poznaliśmy dane, których przeciek nie miał: 3209 elementów oraz 299,99 euro w strefie euro. To największa pozycja styczniowej fali Star Wars."
+   }
   },
   {
    "id": "75468",
@@ -1431,8 +1534,8 @@
   },
   {
    "id": "captain-rex-budowany",
-   "numer": null,
-   "nazwa": "Budowany Captain Rex (nazwa niepotwierdzona)",
+   "numer": "75486",
+   "nazwa": "Budowany Captain Rex (numer 75486 wg przecieku)",
    "seria": "Star Wars",
    "elementy": null,
    "cena_wg_zrodla": null,
@@ -1443,11 +1546,16 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Star Wars Neuheiten im Januar 2027 mit neuen Concept-Art Minifiguren und Filmposter-Sammelfliesen zum 50. Star Wars Jubiläum”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "W tabeli StoneWars numer zastepczy 99999999 — prawdziwego numeru nie ma, dlatego wpis ma slug. Brak terminu, elementow i ceny. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
-   "opis": "Kolejna duża budowana figurka, tym razem Captain Rex — pozycja wymieniana w przeciekach bez numeru, terminu, liczby elementów i ceny. W zestawieniu źródła stoi pod numerem zastępczym, co samo w sobie mówi, jak wczesny jest to etap. Informacja pochodzi z kanałów społecznościowych.",
+   "uwagi": "W tabeli StoneWars numer zastepczy 99999999 — prawdziwego numeru nie ma, dlatego wpis ma slug. Brak terminu, elementow i ceny. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n2026-11-13: doszedl numer 75486 — tabela Star Wars u StoneWars (12.11.2026) wymienia „[Baubarer Captain Rex?]\" pod terminem „2027, Q2\". Pewnosc bez zmian („niska\"): nazwa ze znakiem pytania, brak elementow i ceny.",
+   "opis": "Duża, budowana figurka Captaina Rexa z „Wojen klonów”, zapowiadana na drugi kwartał 2027 roku. Niemiecki serwis branżowy przypisuje jej numer 75486, ale nazwę podaje w nawiasie ze znakiem zapytania i nie ma ani liczby elementów, ani ceny. Producent zestawu nie zapowiedział.",
    "rozstrzygniecie": null
   },
   {
