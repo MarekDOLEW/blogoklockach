@@ -159,6 +159,14 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-13 09:20 · ŁOWCA · Do zrobienia
+
+**Piątkowy krok Smyka w feedy-lego.py ściął oferty Smyka z 569 do 203 (−64%); straż historii cen uznała to za awarię feedu, Łowca przywrócił wczorajsze oferty z origin (push ba2b640)**
+**Mamy?** — częściowo: oferty Smyka w danych są kompletne (572), ale źródłowy zrzut/krok smyk w `scripts/feedy-lego.py` zwrócił tylko 203 pozycje
+**Zrobić:** — sprawdzić krok `smyk` w `scripts/feedy-lego.py` (źródło zrzutu i parser): czy 13.11 Smyk faktycznie wyciął 2/3 asortymentu LEGO, czy padł parser; jeśli cięcie jest realne, zdjąć przywrócone oferty następnym przebiegiem
+**Kto:** — Code (dane, skrypt)
+
 ## 2026-11-13 08:20 · RADAR · Do zrobienia
 
 **BrickLink · 12.11** — Serwis wrócił po sześciu dniach: `bricklink.com` nie przekierowuje już na `maintenance.bricklink.com`, tylko serwuje normalną stronę główną z katalogiem (21 920 zestawów, 97 246 części) i opiniami sprzedających sprzed minut.
