@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-12"
+zaktualizowano: "2026-11-13"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -176,16 +176,6 @@ nie wchodzą też nigdy do normalnej dystrybucji, czyli **nie stanieją** — an
 Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
 wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
 podejmujesz w oknie przedsprzedaży albo wcale.
-
-**Uwaga na listopad 2026: Bricklink.com jest wyłączony.** Serwis nie działa od
-6 listopada, a komunikat na jego własnej stronie serwisowej (sprawdzony 12 listopada,
-z adnotacją „Updated: 11th November 2026") mówi wprost, że to **nie zwykła przerwa
-techniczna**: „We took BrickLink offline after identifying unusual activity on the
-platform… Before bringing the site back online, we need to fully understand what has
-happened". Pierwotnie zapowiadano powrót na 9 listopada, teraz terminu nie ma żadnego.
-Dopóki to trwa, cały kanał BLDP jest niedostępny – nie złożysz zamówienia, nie
-sprawdzisz katalogu części i nie wejdziesz na konto. To jedyne miejsce w tym
-kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen, dlatego o tym piszemy.
 
 Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
 

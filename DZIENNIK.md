@@ -159,6 +159,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-13 08:20 · RADAR · Do zrobienia
+
+**BrickLink · 12.11** — Serwis wrócił po sześciu dniach: `bricklink.com` nie przekierowuje już na `maintenance.bricklink.com`, tylko serwuje normalną stronę główną z katalogiem (21 920 zestawów, 97 246 części) i opiniami sprzedających sprzed minut.
+**Mamy?** — mieliśmy notkę o awarii w sekcji `#bldp`, dopisaną wczoraj.
+**Zrobić:** — zrobione: notka **usunięta**, zgodnie z wczorajszym zapisem („przy powrocie serwisu notkę usunąć"). Awaria trwała 6–12 listopada.
+**Kto:** — Code (dane, strona)
+
+**BrickLink · 13.11** — Na stronie głównej wisi baner „The return of the Designer Program: New opportunity to support fan designers from LEGO® Ideas".
+**Mamy?** — **nie sprawdzone**: link do ogłoszenia (`newsview.page?msgid=1239834`) zwraca „Resource Not Found", najpewniej wymaga zalogowania. Nie zgaduję, co tam jest.
+**Zrobić:** — przy następnej okazji sprawdzić, czy to zapowiedź kolejnej serii BLDP; do kalendarza wchodzi **dopiero z datami**, tak jak seria 9 (sekcja `#bldp`).
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-13 05:30 · SCOUT · Do zrobienia
 
 **LEGO pokazało 12 listopada całą styczniową falę Star Wars na pięćdziesięciolecie serii: siedem zestawów z kartami produktów, od 39,99 do 299,99 euro. Największy to 75467 Plakat filmowy „Nowa nadzieja" — 3209 elementów za 299,99 euro.**
