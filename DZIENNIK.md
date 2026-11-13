@@ -159,6 +159,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-13 05:30 · SCOUT · Do zrobienia
+
+**LEGO pokazało 12 listopada całą styczniową falę Star Wars na pięćdziesięciolecie serii: siedem zestawów z kartami produktów, od 39,99 do 299,99 euro. Największy to 75467 Plakat filmowy „Nowa nadzieja" — 3209 elementów za 299,99 euro.**
+**Mamy?** — tak: wszystkie siedem (75466, 75467, 75470, 75478, 75480, 75482, 75495) jest od dziś w `sety.json`, z hubami i danymi z Bricksetu, a siedem przecieków o nich rozstrzygniętych. W dziale Artykuły o tej fali nie ma nic.
+**Zrobić:** — napisać tekst o styczniowej fali Star Wars (kategoria Premiery) na podstawie siedmiu hubów. Teza odróżniająca od zapowiedzi konkurencji: rocznicowa fala nie jest falą rabatów — zestawy wchodzą 1 stycznia po cenie katalogowej, polskich cen LEGO jeszcze nie ogłosiło, więc jedyne, co dziś da się porównać, to stawka za element (0,09 euro przy plakacie, 0,12 przy Y-Wingu). Warto osobno wspomnieć 75495: to hełm z concept artu McQuarrie’ego, nie wersja filmowa.
+**Kto:** — Piotr (tekst)
+
 
 ## 2026-11-12 14:58 · SKRZYNKA · GitHub: Recenzje_020 (opublikowana), 0047 (do poprawki)
 Źródło: repo tylkoklocki-teksty, commit 4aea9e75.
