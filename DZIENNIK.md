@@ -193,6 +193,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — tak: wszystkie siedem (75466, 75467, 75470, 75478, 75480, 75482, 75495) jest od dziś w `sety.json`, z hubami i danymi z Bricksetu, a siedem przecieków o nich rozstrzygniętych. W dziale Artykuły o tej fali nie ma nic.
 **Zrobić:** — napisać tekst o styczniowej fali Star Wars (kategoria Premiery) na podstawie siedmiu hubów. Teza odróżniająca od zapowiedzi konkurencji: rocznicowa fala nie jest falą rabatów — zestawy wchodzą 1 stycznia po cenie katalogowej, polskich cen LEGO jeszcze nie ogłosiło, więc jedyne, co dziś da się porównać, to stawka za element (0,09 euro przy plakacie, 0,12 przy Y-Wingu). Warto osobno wspomnieć 75495: to hełm z concept artu McQuarrie’ego, nie wersja filmowa.
 **Kto:** — Piotr (tekst)
+→ zamknięte 14.11.2026: Piotr napisał ten tekst tego samego dnia — https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/ (kategoria Premiery, wszystkie siedem numerów w metadanych).
 
 
 ## 2026-11-12 14:58 · SKRZYNKA · GitHub: Recenzje_020 (opublikowana), 0047 (do poprawki)

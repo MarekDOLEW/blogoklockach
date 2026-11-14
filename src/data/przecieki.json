@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-13",
+  "zaktualizowano": "2026-11-14",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -1390,7 +1390,7 @@
    "numer": "75491",
    "nazwa": "SMART Play: R2-D2 (nazwa niepotwierdzona)",
    "seria": "Star Wars",
-   "elementy": 527,
+   "elementy": 530,
    "cena_wg_zrodla": 340,
    "premiera_wg_zrodla": "2027-04",
    "pewnosc": "niska",
@@ -1399,10 +1399,15 @@
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — tabela nowości Star Wars 2027 w artykule o styczniowej fali (korekta liczby elementów z 527 na 530)",
+     "url": "https://www.stonewars.de/news/lego-star-wars-neuheiten-im-januar-2027-50-jahre-star-wars/",
+     "data": "2026-11-12"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "527 elementow, 79,99 euro, 8+. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
+   "uwagi": "527 elementow, 79,99 euro, 8+. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n14.11.2026: korekta liczby elementow 527 -> 530. Nowsza wersja tabeli Star Wars u StoneWars (artykul o styczniowej fali, 12.11.2026) podaje 530; wczesniejszy odczyt z 21.10 mowil 527. Cena bez zmian (79,99 euro), pewnosc bez zmian („niska\") — nazwa w tabeli nadal stoi w nawiasie ze znakiem pytania.",
    "opis": "Zestaw SMART Play z R2-D2: według przecieków 527 elementów, cena 79,99 euro (orientacyjnie około 340 zł) i oznaczenie 8+, premiera w kwietniu 2027. Co dokładnie robi elektronika w tym modelu, nie wiadomo. Źródłem są kanały społecznościowe relacjonowane przez StoneWars.",
    "rozstrzygniecie": null
   },
