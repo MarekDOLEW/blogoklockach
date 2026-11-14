@@ -135,8 +135,8 @@
  "11386": {
   "nazwa": "SpongeBob Kanciastoporty: Bikini Dolne",
   "cena_katalogowa": 899.99,
-  "najnizsza_cena": 697.99,
-  "najnizsza_data": "2026-10-31",
+  "najnizsza_cena": 697.05,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "11513": {
@@ -660,8 +660,8 @@
  "77262": {
   "nazwa": "65 Ford Mustang Hoonicorn V1 Kena Blocka",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 74.99,
-  "najnizsza_data": "2026-09-28",
+  "najnizsza_cena": 69.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "11514": {
@@ -1283,9 +1283,9 @@
  "42676": {
   "nazwa": "Frajda w parku wodnym",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 80.63,
-  "najnizsza_data": "2026-09-29",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 79.99,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "allegro"
  },
  "43282": {
   "nazwa": "Wiejska chatka i łódź",
@@ -1696,9 +1696,9 @@
  "43024": {
   "nazwa": "Kask Ayrton Senna",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 264.88,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 249,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "allegro"
  },
  "40887": {
   "nazwa": "SMART Play: Ditto jako Squirtle — maraton filmowy",
@@ -1906,8 +1906,8 @@
  "42224": {
   "nazwa": "Porsche 911 GT3 R Rexy AO Racing",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 389,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "75427": {
@@ -2230,8 +2230,8 @@
  "60471": {
   "nazwa": "Ciężarówka z laboratorium arktycznej odkrywczyni",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 319,
-  "najnizsza_data": "2026-10-12",
+  "najnizsza_cena": 299.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "10302": {
@@ -2489,9 +2489,9 @@
  "71813": {
   "nazwa": "Dojo cienia Wilczej Maski",
   "cena_katalogowa": 529.99,
-  "najnizsza_cena": 409.99,
-  "najnizsza_data": "2026-10-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 371.73,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42141": {
   "nazwa": "Samochód wyścigowy McLaren Formula 1",
@@ -2708,8 +2708,8 @@
  "72306": {
   "nazwa": "PlayStation",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 599.99,
-  "najnizsza_data": "2026-11-07",
+  "najnizsza_cena": 567.9,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "10315": {
@@ -3219,9 +3219,9 @@
  "72032": {
   "nazwa": "Mario Kart - Standard Kart",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 67,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 49.99,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42686": {
   "nazwa": "Niezwykła sala zabaw",
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 74.5,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 74.38,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3653,8 +3653,8 @@
  "40913": {
   "nazwa": "Zabytkowy samochód z parady",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 65.92,
-  "najnizsza_data": "2026-11-12",
+  "najnizsza_cena": 65,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "75448": {
@@ -4558,9 +4558,9 @@
  "10426": {
   "nazwa": "Most i tory kolejowe - zestaw rozszerzający",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 116.87,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 116.56,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "allegro"
  },
  "71759": {
   "nazwa": "Świątynia ze smokiem ninja",
@@ -5052,8 +5052,8 @@
  "60340": {
   "nazwa": "Wyzwanie kaskaderskie: ostrze",
   "cena_katalogowa": 79.99,
-  "najnizsza_cena": 77,
-  "najnizsza_data": "2026-11-08",
+  "najnizsza_cena": 74.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "75436": {
@@ -6176,8 +6176,8 @@
  "43014": {
   "nazwa": "Kask Charles Leclerc Scuderia Ferrari HP",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 255,
-  "najnizsza_data": "2026-09-18",
+  "najnizsza_cena": 249.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "30709": {
@@ -7016,8 +7016,8 @@
  "43220": {
   "nazwa": "Książka z przygodami Piotrusia Pana i Wendy",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 56.99,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 56.89,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "43027": {
@@ -7788,9 +7788,9 @@
  "76924": {
   "nazwa": "Mercedes-AMG G 63 i Mercedes-AMG SL 63",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 142.99,
-  "najnizsza_data": "2026-11-13",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 139.95,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "allegro"
  },
  "21266": {
   "nazwa": "Bitwa na moście Netheru",
@@ -7916,8 +7916,8 @@
  "31378": {
   "nazwa": "Teleskop do odkrywania kosmosu",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 148.84,
-  "najnizsza_data": "2026-10-31",
+  "najnizsza_cena": 147.99,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "allegro"
  },
  "60499": {
@@ -8161,9 +8161,9 @@
  "31215": {
   "nazwa": "Słoneczniki Vincenta van Gogha",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 604.99,
-  "najnizsza_data": "2026-11-13",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 600,
+  "najnizsza_data": "2026-11-14",
+  "najnizsza_sklep": "allegro"
  },
  "31216": {
   "nazwa": "Keith Haring — tańczące postacie",
@@ -8308,8 +8308,8 @@
  "76303": {
   "nazwa": "Tumbler Batmana kontra Dwie Twarze i Joker",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 179.99,
-  "najnizsza_data": "2026-09-18",
+  "najnizsza_cena": 176.22,
+  "najnizsza_data": "2026-11-14",
   "najnizsza_sklep": "mediaexpert"
  },
  "76304": {
