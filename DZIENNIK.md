@@ -160,6 +160,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-14 14:58 · SKRZYNKA · GitHub: 0048 (aktualizacja), 0049, Recenzje_021
+Źródło: repo tylkoklocki-teksty, commit fe623dfa.
+- 0048 (poprawka) → https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/
+- 0049 → https://tylkoklocki.pl/artykuly/upominek-restauracje-swiata-japonia-na-lego-pl-dluzej-do-20-listopada/
+- Recenzje_021 (31169) → https://tylkoklocki.pl/artykuly/lego-31169-maszyna-do-pisania-z-kwiatami-recenzja/ (1 zdjęcie)
+
+
 ## 2026-11-13 08:58 · SKRZYNKA · GitHub: 0041, 0042, 0048
 Źródło: repo tylkoklocki-teksty, commit dbdefee4 (3 teksty, 9 zdjęć Piotra).
 - 0041 → https://tylkoklocki.pl/artykuly/klasyczny-lego-space-1978-1987-czesc-1-rakiety-bazy-i-flagowce/ (4 zdjęcia)
