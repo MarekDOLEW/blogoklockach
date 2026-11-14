@@ -4,12 +4,15 @@ title: "LEGO Star Wars na 50-lecie sagi – siedem zestawów od 1 stycznia 2027,
 opis: "LEGO zapowiedziało siedem zestawów Star Wars na 50-lecie sagi. Premiera 1 stycznia 2027, największy to plakat Nowej nadziei z 3209 elementów za 1329,99 zł."
 seo_tytul: "LEGO Star Wars na 50-lecie – 7 zestawów od stycznia 2027"
 data: "2026-11-13"
+zaktualizowano: "2026-11-14"
 kategoria: "Premiery"
 okladka: "75467"
 zestawy: ["75467", "75482", "75495", "75480", "75478", "75466", "75470"]
 ---
 
 Grupa LEGO oficjalnie zapowiedziała 12 listopada 2026 roku siedem nowych zestawów LEGO Star Wars, które trafią do sprzedaży 1 stycznia 2027 roku. Część z nich powstała z okazji 50. rocznicy premiery pierwszego filmu z sagi, przypadającej w przyszłym roku. Na LEGO.pl pojawił się już największy z nich, plakat 75467 – za 1329,99 zł. Ceny pozostałych sześciu zestawów w Polsce znamy na razie tylko nieoficjalnie.
+
+**Aktualizacja (14 listopada 2026):** na LEGO.pl, w zakładce „Wkrótce dostępne”, pojawiła się oficjalna cena drugiego zestawu z tej serii. 75466 Darth Vader — dekoracja ścienna 2 w 1 kosztuje 299,99 zł. Uzupełniliśmy tabelę.
 
 ## Plakat, hełm, powiększona figurka i trzy zestawy do zabawy
 
@@ -32,10 +35,10 @@ Rocznicowym wyróżnikiem serii są minifigurki inspirowane grafikami koncepcyjn
 | 75495 Stormtrooper (Concept Art) Helmet | 832 | 18+ | 79,99 € | brak danych | 1.01.2027 |
 | 75480 Duel on Bespin | 718 | 9+ | 79,99 € | 339,99 zł (nieoficjalnie) | 1.01.2027 |
 | 75478 Rebel Y-Wing Starfighter | 676 | 8+ | 79,99 € | 339,99 zł (nieoficjalnie) | 1.01.2027 |
-| 75466 Darth Vader 2-in-1 Wall Art | 628 | 18+ | 69,99 € | brak danych | 1.01.2027 |
+| 75466 Darth Vader — dekoracja ścienna 2 w 1 | 628 | 18+ | 69,99 € | 299,99 zł (LEGO.pl) | 1.01.2027 |
 | 75470 Mustafar Duel | 372 | 9+ | 39,99 € | 189,99 zł (nieoficjalnie) | 1.01.2027 |
 
-Ceny w euro pochodzą z komunikatu LEGO. Oficjalną polską cenę ma na razie tylko plakat 75467. Ceny oznaczone jako nieoficjalne to kwoty, które od wakacji podają polskie serwisy fanowskie na podstawie przecieków. Dla tych zestawów przecieki trafnie podały liczby elementów i ceny w euro, ale polskie ceny potwierdzimy dopiero, gdy zestawy dostaną karty na LEGO.pl. Dla 75466 i 75495 nie znaleźliśmy wiarygodnej polskiej ceny.
+Ceny w euro pochodzą z komunikatu LEGO. Oficjalne polskie ceny mają na razie plakat 75467 i dekoracja 75466. Ceny oznaczone jako nieoficjalne to kwoty, które od wakacji podają polskie serwisy fanowskie na podstawie przecieków. Dla tych zestawów przecieki trafnie podały liczby elementów i ceny w euro, ale polskie ceny potwierdzimy dopiero, gdy zestawy dostaną karty na LEGO.pl. Dla 75495 nie znaleźliśmy jeszcze wiarygodnej polskiej ceny.
 
 ## Co z wcześniejszymi przeciekami
 
@@ -43,6 +46,6 @@ W październiku na blogu pojawiła się nieoficjalna lista styczniowych zestawó
 
 ## Czego jeszcze nie wiemy
 
-Poza plakatem 75467 zestawy nie mają jeszcze kart na LEGO.pl, dlatego nie znamy ich oficjalnych polskich cen ani polskich nazw. Gdy się pojawią, uzupełnimy tabelę. Nie wiadomo też, czy przy premierze pojawią się upominki lub inne akcje związane z rocznicą.
+Oficjalnych polskich cen i nazw pięciu pozostałych zestawów jeszcze nie znamy. Gdy pojawią się na LEGO.pl, uzupełnimy tabelę. Nie wiadomo też, czy przy premierze pojawią się upominki lub inne akcje związane z rocznicą.
 
 [zobacz kategorię LEGO Star Wars](/serie/star-wars/)
