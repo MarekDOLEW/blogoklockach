@@ -674,9 +674,9 @@
  "77119": {
   "nazwa": "Tails i Tornado-1",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 85.61,
-  "najnizsza_data": "2026-11-01",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 85.45,
+  "najnizsza_data": "2026-11-15",
+  "najnizsza_sklep": "mediaexpert"
  },
  "31393": {
   "nazwa": "Leśne zwierzęta: Wilk szary",
@@ -1045,8 +1045,8 @@
  "42241": {
   "nazwa": "Zielony hipersamochód Bugatti Chiron Pur Sport",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 210.99,
-  "najnizsza_data": "2026-10-15",
+  "najnizsza_cena": 203.89,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "21591": {
@@ -2496,16 +2496,16 @@
  "42141": {
   "nazwa": "Samochód wyścigowy McLaren Formula 1",
   "cena_katalogowa": 849.99,
-  "najnizsza_cena": 549,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 545.6,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "42154": {
   "nazwa": "Ford GT, wersja z 2022 roku",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 349.99,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 349,
+  "najnizsza_data": "2026-11-15",
+  "najnizsza_sklep": "allegro"
  },
  "42175": {
   "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
@@ -2610,8 +2610,8 @@
  "31109": {
   "nazwa": "Statek piracki",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 468,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 466.78,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "42160": {
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 74.38,
-  "najnizsza_data": "2026-11-14",
+  "najnizsza_cena": 74.26,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3527,8 +3527,8 @@
  "76254": {
   "nazwa": "Statek kosmiczny małego Rocketa",
   "cena_katalogowa": 149.99,
-  "najnizsza_cena": 109.99,
-  "najnizsza_data": "2026-11-06",
+  "najnizsza_cena": 109.88,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "31151": {
@@ -3842,8 +3842,8 @@
  "11024": {
   "nazwa": "Szara płytka konstrukcyjna",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 41.8,
-  "najnizsza_data": "2026-10-06",
+  "najnizsza_cena": 41.6,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "77237": {
@@ -4537,9 +4537,9 @@
  "42658": {
   "nazwa": "Impreza na basenie z jednorożcem i flamingiem",
   "cena_katalogowa": 42.99,
-  "najnizsza_cena": 28.98,
-  "najnizsza_data": "2026-10-01",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 28.87,
+  "najnizsza_data": "2026-11-15",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21277": {
   "nazwa": "Kilofowa kopalnia",
@@ -6330,8 +6330,8 @@
  "76449": {
   "nazwa": "Potworna księga potworów z zębami",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 178.07,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 176.22,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "76331": {
@@ -6491,9 +6491,9 @@
  "11206": {
   "nazwa": "Spidey na motocyklu kontra Rhino",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 29.8,
-  "najnizsza_data": "2026-09-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 28.35,
+  "najnizsza_data": "2026-11-15",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42659": {
   "nazwa": "Samochodowa wycieczka przyjaciółek",
@@ -6652,8 +6652,8 @@
  "40892": {
   "nazwa": "Kolekcja odznak z regionu Kanto",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 633.99,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 625.78,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "76900": {
@@ -7100,8 +7100,8 @@
  "10473": {
   "nazwa": "Wóz strażacki z wężem i strażakiem",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 79.9,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 75.99,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "77240": {
@@ -7613,8 +7613,8 @@
  "77244": {
   "nazwa": "Bolid F1 Mercedes-AMG W15",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 74.98,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 74.9,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "10372": {
@@ -7865,8 +7865,8 @@
  "40809": {
   "nazwa": "Świąteczna chatka z piernika",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 119.49,
-  "najnizsza_data": "2026-10-29",
+  "najnizsza_cena": 115,
+  "najnizsza_data": "2026-11-15",
   "najnizsza_sklep": "allegro"
  },
  "71830": {
