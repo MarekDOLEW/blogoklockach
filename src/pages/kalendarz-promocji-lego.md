@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-13"
+zaktualizowano: "2026-11-15"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,7 +21,8 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">9–15.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>Dwa nowe gratisy na LEGO.pl</b> – 40906 Restauracje świata: Japonia (wycena 84,99 zł) przy zakupach ponad 745 zł, tylko dla Insiders, i 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach ponad 165 zł na produkty Disney; progi i daty z karty promocji lego.com/pl-pl</a></li>
+<li><span class="okna__data">9–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40906 Restauracje świata: Japonia</b> (wycena 84,99 zł) – zakupy co najmniej 745 zł, <b>wymagane Insiders</b>, wyłącznie online; LEGO wydłużyło to okno z 15 na <b>20 listopada</b></a></li>
+<li><span class="okna__data">9–15.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>Dwa polybagi na LEGO.pl – dziś ostatni dzień</b> – 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach Disney od 165 zł i 30762 Batman z retro gry wideo przy zakupach DC lub Batman od 165 zł</a></li>
 <li><span class="okna__data">od 11.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#smyk-poduszka"><b>Smyk: poduszka-maskotka za 1 zł</b> – do jednego zestawu LEGO od 359 zł; terminu zakończenia Smyk nie podaje</a></li>
 <li><span class="okna__data">1–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40898 Wenecka taksówka wodna</b> – upominek do zakupu 11388 Wenecka okolica; LEGO wydłużyło to okno z 8 na <b>20 listopada</b></a></li>
 <li><span class="okna__data">28.10–8.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40889"><b>Dwa gratisy progowe na LEGO.pl</b> – 40889 Buduj, maluj i baw się! (wycena 81,99 zł) od 540 zł i 30727 Minimodel TIE Advanced z serii Star Wars od 165 zł; okno zamknęło się 8.11</a></li>
@@ -359,23 +360,24 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
 | Kiedy | Co się dzieje |
 |---|---|
-| **9–15.11** | [dwa gratisy GWP na LEGO.com](#listopad-40906) – 40906 dla Insiders od 745 zł i 30720 na produkty Disney od 165 zł; taksówka 40898 do 20.11 |
+| **9–20.11** | [cztery gratisy GWP na LEGO.com](#listopad-40906) – 40906 dla Insiders od 745 zł i taksówka 40898 do 20.11; polybagi 30720 (Disney) i 30762 (DC) od 165 zł tylko do 15.11 |
 | ok. 1.11–30.11 | [Allegro Black Weeks](#allegro-black-weeks) – najdłuższa kampania sklepu zewnętrznego w sezonie |
 | ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w pozostałych sklepach zewnętrznych |
 | ok. 21–26.11 | Insiders Weekend na LEGO.com: podwójne punkty + wczesny dostęp do ofert |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
 
-<h3 id="listopad-40906">Pierwsze okno listopada: dwa gratisy, 9–15.11 <span class="status status--trwa">trwa</span></h3>
+<h3 id="listopad-40906">Pierwsze okno listopada: cztery gratisy, 9–20.11 <span class="status status--trwa">trwa</span></h3>
 
 Dzień po zamknięciu okna z 40889 LEGO otwarło następne. Progi, daty i warunki bierzemy
-z karty promocji lego.com/pl-pl i z regulaminu tej promocji, sprawdzonych 10 listopada:
+z **regulaminów** tych promocji na lego.com/pl-pl, sprawdzonych 15 listopada:
 
 | Gratis (GWP) | Warunek | Okno |
 |---|---|---|
-| [40906 Restauracje świata: Japonia](/zestaw/40906/) | zakupy **co najmniej 745 zł**, **wymagane Insiders**, wyłącznie online | 9–15.11 |
-| 30720 Urodzinowa potańcówka Arielki i Florka | zakupy **ponad 165 zł** na produkty Disney | 9–15.11 |
-| [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/) | 1–20.11 |
+| [40906 Restauracje świata: Japonia](/zestaw/40906/) | zakupy **co najmniej 745 zł**, **wymagane Insiders**, wyłącznie online | 9–20.11 |
+| [40898 Wenecka taksówka wodna](/zestaw/40898/) | zakup musi obejmować [11388 Wenecka okolica](/zestaw/11388/), wyłącznie online | 1–20.11 |
+| 30720 Urodzinowa potańcówka Arielki i Florka | zakupy **co najmniej 165 zł** z kolekcji Disney; online, salony i katalog | 9–15.11 |
+| 30762 Batman z retro gry wideo | zakupy **co najmniej 165 zł** z kolekcji DC lub Batman; online, salony i katalog | 9–15.11 |
 
 **Trzy rzeczy, które zmieniają rachunek wobec poprzednich okien.** Pierwsza: 40906 jest
 **wyłącznie dla Insiders** – w poprzednich oknach członkostwo nie było warunkiem, a tutaj
@@ -387,11 +389,12 @@ z różnych serii go nie łapie. Trzecia: kafel promocji mówi „wydaj **ponad*
 „wartość zakupionych artykułów LEGO musi wynosić **co najmniej** 745 zł" – jeśli celujesz
 w sam próg, licz z zapasem, bo te dwa zdania nie mówią tego samego.
 
-Reszta warunków z regulaminu, bo przy tym progu każdy z nich może zabrać upominek:
-oferta działa **tylko przy zamówieniach online** na LEGO.com, **jeden zestaw na jedno
-gospodarstwo domowe**, **do wyczerpania zapasów**, nie obejmuje zakupów sprzed 9 listopada
-ani salonów LEGOLAND i sklepów certyfikowanych. Przy zwrocie zakupu trzeba odesłać też
-upominek.
+Reszta warunków z regulaminów, bo przy takim progu każdy z nich może zabrać upominek:
+**jeden zestaw na jedno gospodarstwo domowe**, **do wyczerpania zapasów**, oferta nie obejmuje
+zakupów sprzed 9 listopada ani salonów LEGOLAND i sklepów certyfikowanych, a przy zwrocie
+zakupu trzeba odesłać też upominek. Kanały różnią się między upominkami i to łatwo przeoczyć:
+40906 i 40898 działają **tylko przy zamówieniach online**, a oba polybagi (30720 i 30762) też
+**w salonach LEGO i przy zamówieniach telefonicznych z katalogu**.
 
 40906 ma cenę katalogową **84,99 zł**, czyli tyle samo, co październikowe [40909 Restauracje
 świata: Włochy](/zestaw/40909/) – to ta sama linia upominków i ta sama wycena. **To upominek,
@@ -401,14 +404,19 @@ drugą szansę – i warto o tym pamiętać przy ocenie, ile taki zestaw jest wa
 katalogowych; realnie mniej, bo poza LEGO.com te same zestawy bywają tanio. Do progu
 dokładaj tylko wtedy, gdy i tak kupujesz w sklepie LEGO coś, czego nigdzie nie ma taniej.
 
-**Czego LEGO nie potwierdza, a co pisze konkurencja.** Dwa serwisy branżowe zapowiedziały
-na 9–15 listopada trzeci upominek – polybag **30762 Batman z retro gry wideo** przy zakupach
-z serii DC od 165 zł. Sprawdziliśmy to u źródła 9 listopada i **nie potwierdzamy**: tego
-upominku nie ma ani na karcie promocji LEGO.pl, ani w bloku upominków na karcie
-[76333 Batmobil z filmu Batman i Robin](/zestaw/76333/), czyli dokładnie tego zestawu, który
-serwisy polecały do złapania progu – karta pokazuje tam tylko 40906 dla Insiders. Karta promocji
-sprawdzona ponownie 10 listopada, drugiego dnia okna, nadal go nie wymienia. Jeśli LEGO doda
-ten upominek do swoich stron, wpiszemy go z datą; jeśli okno minie bez tego, pozycję usuniemy. <span class="status status--maybe">przewidywane</span>
+**Dwa polybagi do 15 listopada – i nasze sprostowanie.** 30720 i 30762 to upominki progowe
+za **165 zł**, każdy wyceniony przez LEGO na 16,49 zł, ale próg liczy się **wyłącznie** z
+właściwej kolekcji: Disney przy Arielce, DC lub Batman przy Batmanie. Zamówienie zbierane
+z różnych serii żadnego z nich nie łapie. Oba okna kończą się **15 listopada**, a przy progu
+165 zł to najtańsze wejście w gratis w całym tym miesiącu.
+
+Sprostowanie, bo pisaliśmy inaczej: od 9 do 14 listopada mieliśmy w tym miejscu zdanie, że
+upominku **30762** „nie potwierdzamy", bo nie widać go ani na kafelkach karty promocji, ani
+w bloku upominków na karcie [76333](/zestaw/76333/). To było nasze przeoczenie: upominek ma
+własny regulamin na tej samej stronie LEGO.pl – „Upominek jest dostępny… od 9 listopada 2026
+(GMT+0) do 15 listopada 2026, do wyczerpania zapasów", „Wartość zakupionych artykułów
+z kolekcji DC lub Batman™ musi wynosić co najmniej 165 zł" – i serwisy branżowe miały w tym
+rację. Na przyszłość czytamy **pełną listę regulaminów**, nie kafelki.
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 

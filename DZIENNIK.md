@@ -159,6 +159,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-15 08:25 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 15.11** — Pełna lista regulaminów na karcie promocji wymienia **cztery** upominki, nie trzy: do 40898 (1–20.11) i 40906 dochodzą **30720** (9–15.11, Disney od 165 zł) i **30762 Batman z retro gry wideo** (9–15.11, „Wartość zakupionych artykułów z kolekcji DC lub Batman™ musi wynosić co najmniej 165 zł"). Przy okazji **40906 zostało wydłużone z 15 na 20 listopada**.
+**Mamy?** — mieliśmy to **błędnie od 9 do 14 listopada**: w kalendarzu stało zdanie, że 30762 „nie potwierdzamy". Nie LEGO go nie potwierdzało — ja go nie znalazłem. Serwisy branżowe miały rację.
+**Zrobić:** — zrobione w tym przebiegu: tabela ma cztery wiersze z właściwymi oknami i kanałami, nagłówek „cztery gratisy, 9–20.11", rozbite pozycje w „Co trwa teraz" (40906 do 20.11; dwa polybagi z dopiskiem „dziś ostatni dzień"), akapit o różnicy kanałów i **jawne sprostowanie** z cytatem z regulaminu. **Reguła, której zabrakło:** kafelki promocji i blok upominków na karcie produktu **nie są kompletną listą** — jedyną kompletną jest sekcja regulaminów na dole karty promocji i tę czytamy całą, nie po jednym upominku.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 14.11** — Piszą, że Media Expert dodaje **43018 Lionel Messi** (kat. 779,99 zł) jako gratis do zakupów od **2000 zł** — to powtórka akcji z 7 października, ale próg jest niższy (wtedy 2500 zł).
+**Mamy?** — ceny tak i są świeże: ich przykłady zgadzają się z naszym odczytem z 14.11 co do groszy (11383 334 / 333,99; 42224 380 / 379,99; 71859 287 / 286,98; 75409 1068 / 1068). Samego gratisu **nie sprawdziłem** — karta ME renderuje się AJAX-em i serwerowe zapytanie nie zwraca treści promocji.
+**Zrobić:** — potwierdzić ten próg inną drogą (strona akcji ME albo koszyk) i wtedy dopisać do kalendarza przy sekcji o sklepach zewnętrznych; do tego czasu **nie** wpisujemy. Warto użyć w tekście realnej wyceny: ME sprzedaje samo 43018 za 550,51 zł, czyli o ponad 200 zł mniej, niż wynosi cena katalogowa, którą podają.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-14 14:58 · SKRZYNKA · GitHub: 0048 (aktualizacja), 0049, Recenzje_021
 Źródło: repo tylkoklocki-teksty, commit fe623dfa.
