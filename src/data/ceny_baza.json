@@ -1703,9 +1703,9 @@
  "40887": {
   "nazwa": "SMART Play: Ditto jako Squirtle — maraton filmowy",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 349,
-  "najnizsza_data": "2026-11-01",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "empik"
  },
  "40896": {
   "nazwa": "The X-Files: laboratorium Scully",
@@ -8756,8 +8756,8 @@
  "76786": {
   "nazwa": "Morticia's Cottage",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 348.99,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 332.99,
+  "najnizsza_data": "2026-11-16",
   "najnizsza_sklep": "empik"
  }
 }

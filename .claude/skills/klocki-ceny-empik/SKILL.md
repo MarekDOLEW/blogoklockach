@@ -35,6 +35,11 @@ mediana ~220 zł.
    `sort=priceAsc`, `sort=priceDesc` oraz trzeci przebieg z filtrem
    ceny obejmującym lukę z zapasem (`priceFrom=150&priceTo=260`;
    granice odczytaj z ostatnich stron dwóch pierwszych przebiegów).
+   **Gdy zakres trzeciego przebiegu ma ponad 4 500 pozycji** (nagłówek
+   kategorii po nałożeniu filtra ceny), podziel go automatycznie na dwa
+   podprzebiegi w połowie zakresu — inaczej ucięcie listingu zostawi
+   lukę także w środku (16.11.2026: zakres 140–310 zł miał 4 893
+   pozycje, podział na 140–225 i 225–310).
    Wyniki połącz po numerze setu i porównaj z liczbą pozycji, którą
    Empik podaje w nagłówku kategorii — 21.09.2026 trzy przebiegi dały
    11 153 z 11 155 (ustalenia z przebiegów 31.08 i 21.09.2026).
@@ -102,7 +107,9 @@ mediana ~220 zł.
    - liczba produktów w przedziale **4 000–6 500** (odniesienie: 5 376),
    - mediana ceny w przedziale **150–300 zł** (odniesienie: ~220 zł),
    - zero cen ≤ 0 i zero cen > 20 000 zł,
-   - udział pozycji odrzuconych z braku numeru poniżej **15%**,
+   - udział pozycji odrzuconych z braku numeru poniżej **20%** (próg
+     podniesiony z 15% 16.11.2026 — w katalogu przybywa akcesoriów bez
+     numeru setu i to nie jest błąd odczytu; 13.11: 14,7%, 16.11: 15,6%),
    - **udział pozycji z wypełnionym `url` powyżej 90%** — niżej znaczy, że
      selektor nie łapie `href` kafelka (nowość od 14.09.2026; przy pierwszym
      przebiegu podaj tę liczbę wprost, nawet jeśli przechodzi).
