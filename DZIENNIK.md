@@ -60,6 +60,14 @@ Zadanie „w toku" oznacza rezerwację: druga strona go **nie zaczyna**.
 Rzeczy, które obowiązują niezależnie od daty. Nie archiwizują się. Wpisuj tu
 tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisach.
 
+- **Nie staramy się o pule kodów gratisowych od LEGO.pl** (Marek, 16.11.2026).
+  Radar zgłosił to 06.11 (pula kodów na 30708 u fanklockow) i podniósł wagę 16.11,
+  gdy tę samą pulę dostali faniklockow — odpowiedź Marka: **jesteśmy za mali**.
+  Nie występujemy o to ani przez Tradedoublera, ani bezpośrednio do LEGO.pl i nie
+  wracamy do tematu przy kolejnych takich akcjach konkurencji. Same akcje nadal
+  odnotowujemy w bazie jako sygnał kalendarzowy (kiedy LEGO.pl szykuje okno
+  gratisowe), ale do kalendarza nie wchodzą — bez cudzego kodu czytelnik gratisu
+  nie dostanie.
 - **Nie piszemy o podróbkach ani o sklepach-naciągaczach** (Marek, 08.11.2026).
   Radar zgłosił lukę formatu po ostrzeżeniach fanklockow przed Klocochy.shop i
   MiniVerse.pl — odpowiedź Marka: temat nie jest nasz. Nie zakładamy poradnika
@@ -168,8 +176,8 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 **faniklockow.pl · 15.11** — **Drugi** serwis dostał od LEGO.pl pulę kodów na gratis **30708** — ten sam zestaw i to samo okno 16–20.11, które fanklockow ogłosili 05.11.
 **Mamy?** — nie: to nie jest przywilej jednego serwisu, tylko sposób, w jaki LEGO.pl pracuje z polskimi partnerami contentowymi, a my takiej puli nie dostajemy mimo konta afiliacyjnego.
-**Zrobić:** — pozycja z 06.11 zostaje otwarta i ma mocniejszą podstawę: zdecydować, czy próbujemy o pulę kodów dla czytelników tylkoklocki.pl własnym kanałem (Tradedoubler / kontakt LEGO.pl) przed Weekendem Insiders.
-**Kto:** — Marek (decyzja)
+**Zrobić:** — **ROZSTRZYGNIĘTE 16.11 przez Marka: nie staramy się o kody, jesteśmy za mali.** Pozycja z 06.11 zamknięta, reguła dopisana do „Ustaleń trwałych"; takie akcje konkurencji odnotowujemy dalej w bazie jako sygnał, kiedy LEGO.pl szykuje okno gratisowe, ale do kalendarza nie wchodzą.
+**Kto:** — Marek (decyzja) — zamknięte
 
 **faniklockow.pl · 15.11** — Podają Empik **206 zł** dla 76321 (tegoroczny EOL, wyprzedany na lego.com).
 **Mamy?** — nie i to znowu **nasza stara cena**: Empik stoi u nas na 238,81 z odczytu 13.11, a najtańsza realna oferta to Allegro 243,90, czyli **powyżej** ceny katalogowej. Nie sprawdziłem u źródła — Empik blokuje ruch serwerowy.
