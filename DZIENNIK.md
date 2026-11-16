@@ -159,6 +159,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-16 08:20 · RADAR · Do zrobienia
+
+**kalendarz · 16.11** — Okno polybagów 30720 i 30762 (9–15.11, próg 165 zł z właściwej kolekcji) zamknęło się wczoraj; 40906 i 40898 trwają do 20.11.
+**Mamy?** — tak: `/artykuly/kalendarz-promocji-lego/`.
+**Zrobić:** — zrobione w tym przebiegu: pozycja w „Co trwa teraz" ma plakietkę „zamknięte", akapit przepisany w czasie przeszłym z dopiskiem, że kolejnego tak niskiego progu spodziewamy się dopiero przy Weekendzie Insiders.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 15.11** — **Drugi** serwis dostał od LEGO.pl pulę kodów na gratis **30708** — ten sam zestaw i to samo okno 16–20.11, które fanklockow ogłosili 05.11.
+**Mamy?** — nie: to nie jest przywilej jednego serwisu, tylko sposób, w jaki LEGO.pl pracuje z polskimi partnerami contentowymi, a my takiej puli nie dostajemy mimo konta afiliacyjnego.
+**Zrobić:** — pozycja z 06.11 zostaje otwarta i ma mocniejszą podstawę: zdecydować, czy próbujemy o pulę kodów dla czytelników tylkoklocki.pl własnym kanałem (Tradedoubler / kontakt LEGO.pl) przed Weekendem Insiders.
+**Kto:** — Marek (decyzja)
+
+**faniklockow.pl · 15.11** — Podają Empik **206 zł** dla 76321 (tegoroczny EOL, wyprzedany na lego.com).
+**Mamy?** — nie i to znowu **nasza stara cena**: Empik stoi u nas na 238,81 z odczytu 13.11, a najtańsza realna oferta to Allegro 243,90, czyli **powyżej** ceny katalogowej. Nie sprawdziłem u źródła — Empik blokuje ruch serwerowy.
+**Zrobić:** — to ta sama klasa problemu co Smyk 12.11 (sklep z tygodniowym odczytem robi obniżkę w środku tygodnia), ale Empiku nie odświeżymy skryptem z sesji. Rozstrzygnie dzisiejszy poniedziałkowy zrzut; jeśli potwierdzi 206 zł, warto przy decyzji o drugim odczycie Smyka rozważyć też drugi zrzut Empiku w tygodniu.
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-11-15 08:25 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 15.11** — Pełna lista regulaminów na karcie promocji wymienia **cztery** upominki, nie trzy: do 40898 (1–20.11) i 40906 dochodzą **30720** (9–15.11, Disney od 165 zł) i **30762 Batman z retro gry wideo** (9–15.11, „Wartość zakupionych artykułów z kolekcji DC lub Batman™ musi wynosić co najmniej 165 zł"). Przy okazji **40906 zostało wydłużone z 15 na 20 listopada**.

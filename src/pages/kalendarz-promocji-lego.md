@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-15"
+zaktualizowano: "2026-11-16"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -22,7 +22,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 
 <ul class="okna">
 <li><span class="okna__data">9–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40906 Restauracje świata: Japonia</b> (wycena 84,99 zł) – zakupy co najmniej 745 zł, <b>wymagane Insiders</b>, wyłącznie online; LEGO wydłużyło to okno z 15 na <b>20 listopada</b></a></li>
-<li><span class="okna__data">9–15.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>Dwa polybagi na LEGO.pl – dziś ostatni dzień</b> – 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach Disney od 165 zł i 30762 Batman z retro gry wideo przy zakupach DC lub Batman od 165 zł</a></li>
+<li><span class="okna__data">9–15.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40906"><b>Dwa polybagi na LEGO.pl</b> – 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach Disney od 165 zł i 30762 Batman z retro gry wideo przy zakupach DC lub Batman od 165 zł; okno zamknęło się 15.11</a></li>
 <li><span class="okna__data">od 11.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#smyk-poduszka"><b>Smyk: poduszka-maskotka za 1 zł</b> – do jednego zestawu LEGO od 359 zł; terminu zakończenia Smyk nie podaje</a></li>
 <li><span class="okna__data">1–20.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-40906"><b>40898 Wenecka taksówka wodna</b> – upominek do zakupu 11388 Wenecka okolica; LEGO wydłużyło to okno z 8 na <b>20 listopada</b></a></li>
 <li><span class="okna__data">28.10–8.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40889"><b>Dwa gratisy progowe na LEGO.pl</b> – 40889 Buduj, maluj i baw się! (wycena 81,99 zł) od 540 zł i 30727 Minimodel TIE Advanced z serii Star Wars od 165 zł; okno zamknęło się 8.11</a></li>
@@ -404,11 +404,12 @@ drugą szansę – i warto o tym pamiętać przy ocenie, ile taki zestaw jest wa
 katalogowych; realnie mniej, bo poza LEGO.com te same zestawy bywają tanio. Do progu
 dokładaj tylko wtedy, gdy i tak kupujesz w sklepie LEGO coś, czego nigdzie nie ma taniej.
 
-**Dwa polybagi do 15 listopada – i nasze sprostowanie.** 30720 i 30762 to upominki progowe
-za **165 zł**, każdy wyceniony przez LEGO na 16,49 zł, ale próg liczy się **wyłącznie** z
+**Dwa polybagi, które skończyły się 15 listopada – i nasze sprostowanie.** 30720 i 30762 to upominki progowe
+za **165 zł**, każdy wyceniony przez LEGO na 16,49 zł, a próg liczył się **wyłącznie** z
 właściwej kolekcji: Disney przy Arielce, DC lub Batman przy Batmanie. Zamówienie zbierane
-z różnych serii żadnego z nich nie łapie. Oba okna kończą się **15 listopada**, a przy progu
-165 zł to najtańsze wejście w gratis w całym tym miesiącu.
+z różnych serii żadnego z nich nie łapało. **Oba okna zamknęły się 15 listopada** – przy progu
+165 zł było to najtańsze wejście w gratis w tym miesiącu, a kolejnego tak niskiego progu
+spodziewamy się dopiero przy Weekendzie Insiders.
 
 Sprostowanie, bo pisaliśmy inaczej: od 9 do 14 listopada mieliśmy w tym miejscu zdanie, że
 upominku **30762** „nie potwierdzamy", bo nie widać go ani na kafelkach karty promocji, ani
