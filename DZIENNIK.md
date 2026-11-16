@@ -160,13 +160,32 @@ tylko to, co ma przetrwać miesiąc — jednorazowe ustalenia zostają we wpisac
 Wpisy starsze niż 14 dni żyją w plikach miesięcznych. Nic nie zostało
 skasowane — jeśli szukasz czegoś starszego, jest tam:
 
-- [`2026-10`](materialy/dziennik-archiwum-2026-10.md) — 84 wpisy
+- [`2026-11`](materialy/dziennik-archiwum-2026-11.md) — 4 wpisy
+- [`2026-10`](materialy/dziennik-archiwum-2026-10.md) — 97 wpisów
 - [`2026-09`](materialy/dziennik-archiwum-2026-09.md) — 105 wpisów
 - [`2026-08`](materialy/dziennik-archiwum-2026-08.md) — 36 wpisów
 
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-16 10:05 · KONTROLER · Do zrobienia
+
+Raport: `materialy/kontroler-2026-11-16.md`. Mail „Zadania bez właściciela — 16.11.2026" (37 pozycji) wysłany, id `01a1e384`. Kamień 1: Performers zatwierdził trzy wrześniowe konwersje (13,06 zł) — dwie sieci z trzech.
+
+**Dane wt (wt 05:30, `trig_011BMbbJSYKiauzGNXUk576y`) mają w harmonogramie z konta `10.11 05:35 SUCCEEDED`, ale w repo nie ma commita „LEGO.pl + Ceneo + Smyk … 10.11" (03.11 był) ani wpisu w dzienniku — drugi runner w dwa tygodnie z pustym SUCCEEDED (Wycofania 09.11).**
+**Mamy?** — nie: ceny LEGO.pl i Smyka z wtorku nie weszły (Smyk uratował ręczny `smyk-odswiez.mjs` Radaru 12.11), katalog LEGO.pl ma ostatnią aktualizację z 03.11.
+**Zrobić:** — otworzyć sesję Dane wt na koncie i sprawdzić, co zrobiła 10.11; przy drugim takim przypadku szukać wspólnej przyczyny (klasyfikator „Code from External" jak Zdjęcia → R2 04.11?) — jeśli odmowa, prompt wymaga tej samej poprawki co Zdjęcia.
+**Kto:** — Marek (panel)
+
+**Radar zostawia pozycje „Do zrobienia" z `Zrobić: zrobione w tym przebiegu` bez linii „→ zamknięte" — 17 takich pozycji w dzienniku (04.11–16.11), parser Kontrolera liczył je jako otwarte, archiwum trzyma je w `DZIENNIK.md` bez końca.**
+**Mamy?** — częściowo: Kontroler od 16.11 pomija pozycje z `Zrobić` zaczynającym się od „zrobione"; archiwum dziennika nie.
+**Zrobić:** — w prompcie Radaru (panel zadania) dopisać regułę: gdy coś zrobiono w tym samym przebiegu, pod pozycją ma stanąć linia „→ zamknięte <data>: zrobione w przebiegu" — ta konwencja, którą czytają archiwum i Kontroler.
+**Kto:** — Marek (panel)
+
+Poza listą dla ludzi: `/serie/marvel/` wypadł z indeksu (09.11 zindeksowany, 16.11 „zeskanowana, niezindeksowana", crawl 01.11) — kolejka go zgłosi, sprawdzę 23.11; `/zestaw/10280/` 66 dni bez crawla; reguła referera z 02.11 drugi tydzień bez wyjątku (0 kliknięć spoza PL ze strony głównej przy 12 742 botach); zrzuty Empiku i x-komu weszły przed Kontrolerem (09:24).
+
+
 ## 2026-11-16 09:05 · RADAR · Do zrobienia
 
 **zrzut Empiku · 16.11** — Zrzut wszedł (commit 8d59719, 4575 cen): **880 zmian cen**, 30 ofert zdjętych jako niedostępne, **103 zestawy, w których Empik jest teraz najtańszym sklepem**, 2 nowe rekordy cenowe z Empiku (76786 Morticia's Cottage 348,99 → 332,99 i 40887).
@@ -183,7 +202,6 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — nie: 40887 przeszedł przez wszystkie kontrole i wyszedł dopiero z ręcznego porównania rekordów po zrzucie.
 **Zrobić:** — dopisać do `kontrola-rrp.mjs` drugi próg (np. rynek > 200% ceny katalogowej przy co najmniej dwóch sklepach) i policzyć, ile takich wpisów już mamy — zaniżone RRP psuje rabat tak samo jak zawyżone, tylko w drugą stronę.
 **Kto:** — Code (dane, strona)
-
 
 ## 2026-11-16 08:20 · RADAR · Do zrobienia
 
@@ -202,7 +220,6 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — to ta sama klasa problemu co Smyk 12.11 (sklep z tygodniowym odczytem robi obniżkę w środku tygodnia), ale Empiku nie odświeżymy skryptem z sesji. Rozstrzygnie dzisiejszy poniedziałkowy zrzut; jeśli potwierdzi 206 zł, warto przy decyzji o drugim odczycie Smyka rozważyć też drugi zrzut Empiku w tygodniu.
 **Kto:** — Marek (decyzja)
 
-
 ## 2026-11-15 08:25 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 15.11** — Pełna lista regulaminów na karcie promocji wymienia **cztery** upominki, nie trzy: do 40898 (1–20.11) i 40906 dochodzą **30720** (9–15.11, Disney od 165 zł) i **30762 Batman z retro gry wideo** (9–15.11, „Wartość zakupionych artykułów z kolekcji DC lub Batman™ musi wynosić co najmniej 165 zł"). Przy okazji **40906 zostało wydłużone z 15 na 20 listopada**.
@@ -215,21 +232,17 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — potwierdzić ten próg inną drogą (strona akcji ME albo koszyk) i wtedy dopisać do kalendarza przy sekcji o sklepach zewnętrznych; do tego czasu **nie** wpisujemy. Warto użyć w tekście realnej wyceny: ME sprzedaje samo 43018 za 550,51 zł, czyli o ponad 200 zł mniej, niż wynosi cena katalogowa, którą podają.
 **Kto:** — Code (dane, strona)
 
-
-
 ## 2026-11-14 14:58 · SKRZYNKA · GitHub: 0048 (aktualizacja), 0049, Recenzje_021
 Źródło: repo tylkoklocki-teksty, commit fe623dfa.
 - 0048 (poprawka) → https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/
 - 0049 → https://tylkoklocki.pl/artykuly/upominek-restauracje-swiata-japonia-na-lego-pl-dluzej-do-20-listopada/
 - Recenzje_021 (31169) → https://tylkoklocki.pl/artykuly/lego-31169-maszyna-do-pisania-z-kwiatami-recenzja/ (1 zdjęcie)
 
-
 ## 2026-11-13 08:58 · SKRZYNKA · GitHub: 0041, 0042, 0048
 Źródło: repo tylkoklocki-teksty, commit dbdefee4 (3 teksty, 9 zdjęć Piotra).
 - 0041 → https://tylkoklocki.pl/artykuly/klasyczny-lego-space-1978-1987-czesc-1-rakiety-bazy-i-flagowce/ (4 zdjęcia)
 - 0042 → https://tylkoklocki.pl/artykuly/klasyczny-lego-space-1978-1987-czesc-2-od-skutera-do-starfleet/ (5 zdjęć)
 - 0048 → https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/
-
 
 ## 2026-11-13 09:20 · ŁOWCA · Do zrobienia
 
@@ -250,7 +263,6 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — przy następnej okazji sprawdzić, czy to zapowiedź kolejnej serii BLDP; do kalendarza wchodzi **dopiero z datami**, tak jak seria 9 (sekcja `#bldp`).
 **Kto:** — Code (dane, strona)
 
-
 ## 2026-11-13 05:30 · SCOUT · Do zrobienia
 
 **LEGO pokazało 12 listopada całą styczniową falę Star Wars na pięćdziesięciolecie serii: siedem zestawów z kartami produktów, od 39,99 do 299,99 euro. Największy to 75467 Plakat filmowy „Nowa nadzieja" — 3209 elementów za 299,99 euro.**
@@ -258,7 +270,6 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — napisać tekst o styczniowej fali Star Wars (kategoria Premiery) na podstawie siedmiu hubów. Teza odróżniająca od zapowiedzi konkurencji: rocznicowa fala nie jest falą rabatów — zestawy wchodzą 1 stycznia po cenie katalogowej, polskich cen LEGO jeszcze nie ogłosiło, więc jedyne, co dziś da się porównać, to stawka za element (0,09 euro przy plakacie, 0,12 przy Y-Wingu). Warto osobno wspomnieć 75495: to hełm z concept artu McQuarrie’ego, nie wersja filmowa.
 **Kto:** — Piotr (tekst)
 → zamknięte 14.11.2026: Piotr napisał ten tekst tego samego dnia — https://tylkoklocki.pl/artykuly/lego-star-wars-na-50-lecie-sagi-siedem-zestawow-od-1-stycznia-2027/ (kategoria Premiery, wszystkie siedem numerów w metadanych).
-
 
 ## 2026-11-12 14:58 · SKRZYNKA · GitHub: Recenzje_020 (opublikowana), 0047 (do poprawki)
 Źródło: repo tylkoklocki-teksty, commit 4aea9e75.
@@ -276,12 +287,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — teraz tak, ale przez dwa dni nie: w **ośmiu** zestawach Smyk jest po tej zmianie **najtańszym sklepem**, a wcześniej było to u nas niewidoczne — 10353 (259→225), 11375 (267→249), 11384 (459→419), 42226 (195→179,90), 42240 (719→675), 60445 (309→285), 71856 (142,90→134,90), 76463 (309→285).
 **Zrobić:** — zdecydować o **drugim odczycie Smyka w tygodniu** (zmiana promptu Routine „Dane wt" albo osobny krok): tygodniowy odczyt z wtorku nie łapie promocji śródtygodniowych, a listopad i grudzień to miesiące, w których takie akcje będą się powtarzać.
 **Kto:** — Marek (decyzja)
+↻ 16.11 (Kontroler): decyzja 2 raportu 16.11 — proponowany piątkowy odczyt Smyka do końca grudnia (0 kredytów), Code przygotuje po zgodzie.
 
 **BrickLink · 11.11** — Awaria z 6 listopada przestała być przerwą techniczną: własna strona serwisowa BrickLinka mówi „We took BrickLink offline after identifying **unusual activity** on the platform… Before bringing the site back online, we need to fully understand what has happened" („Updated: 11th November 2026") — czyli incydent bezpieczeństwa i **brak terminu powrotu**.
 **Mamy?** — ekspozycja cenowa nadal zerowa (0 ofert `bricklink` w `sety.json`), ale sekcja `#bldp` kalendarza odsyła czytelnika na Bricklink.com jako jedyny kanał sprzedaży BLDP.
 **Zrobić:** — zrobione, zgodnie z zastrzeżeniem z 08.11 („gdyby przedłużyła się poza poniedziałek, wracamy do tego"): w `#bldp` jest notka z cytatem ze źródła i datą sprawdzenia. Przy powrocie serwisu notkę usunąć.
 **Kto:** — Code (dane, strona)
-
 
 ## 2026-11-11 08:15 · RADAR · Do zrobienia
 
@@ -295,13 +306,10 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Zrobić:** — dopisać je do `sety.json` i `ceny_baza.json`, zaczynając od **30720**: to upominek z **trwającego** okna 9–15.11 i jedyna pozycja w tabeli upominków kalendarza **bez linku**, a okno kończy się w niedzielę.
 **Kto:** — Code (dane, strona)
 
-
-
 ## 2026-11-10 14:58 · SKRZYNKA · GitHub: 0035 (aktualizacja) + 92 karty P07
 Źródło: repo tylkoklocki-teksty, commit ffa1b89a. Liczba kart w `karty_setow.json` wzrosła z 2033 do 2108: 75 nowych i 17 nadpisanych nowszą wersją, czyli z poprawkami z maila z 06.11 (40686, 42643, 43242, 41758, 77259, 10338, 75328, 43269, 76326, 76327, 31147, polybagi 30715–30735). Sprawdzone: wszystkie liczby z maila stoją w nowych kartach. 72168 nie przyszła.
 - 0035 → https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ — dostała aktualizację: upominek 40898 do 20.11 (tylko online) i `wazne_do: 2026-11-20` od Piotra. Po tym dniu nad tekstem stanie komunikat „akcja zakończona”.
 Uwagi bez blokady: liczba elementów u Piotra i w katalogu różni się dla 21057 (827 vs 830), 41946 (118 vs 108), 41957 (486 vs 478), 41958 (115 vs 105) i 41964 (669 vs 659) — do sprawdzenia w Bricksecie. Seria „Avatar” (75573) jest nieznana w `katalog.json`. Karty 30435, 30503, 30584, 30650 i 40567 weszły jako krótkie.
-
 
 ## 2026-11-10 08:55 · SKRZYNKA · GitHub: 0043 (aktualizacja), 0044, 0045, 0046
 Źródło: repo tylkoklocki-teksty, commit cf9de41d.
@@ -327,7 +335,6 @@ Uwagi bez blokady: liczba elementów u Piotra i w katalogu różni się dla 2105
 **Zrobić:** — sprawdzić kartę promocji jeszcze raz po 15.11 i **usunąć tę pozycję z kalendarza**, jeśli okno minie bez potwierdzenia przez LEGO.
 **Kto:** — Code (dane, strona)
 
-
 ## 2026-11-10 05:25 · SCOUT · Sygnały wycofań dla runnera Wycofań
 
 - **Cała linia Monkie Kid** — StoneWars, https://www.stonewars.de/news/lego-monkie-kid-wird-eingestellt/ (09.11.2026): linia schodzi z rynku, koniec produkcji bieżących zestawów, EOL 31.12.2026 na większości rynków, w Azji 31.12.2027 (z powodu otwarcia LEGOLAND w Szanghaju). Serwis podaje jako powód rozstanie z studiem animacji i zwrot LEGO w stronę własnych serii oraz Dragon Balla. Uwaga: tytuł tekstu to pytanie, a konkluzja „dla nas: tak" jest oceną serwisu — komunikatu LEGO nie ma, więc to sygnał do weryfikacji, nie fakt.
@@ -339,11 +346,9 @@ i Brickset/brickonomics (terminy 07/2027 i 12/2027 — wg StoneWars to daty azja
 Rozbieżność dat odnotowana w polu `zrodlo`; gdy LEGO oznaczy zestawy w dziale albo
 znikną z listingu, statusy pójdą w górę zwykłym trybem.
 
-
 ## 2026-11-09 14:58 · SKRZYNKA · GitHub: 25 kart P07
 Źródło: repo tylkoklocki-teksty, commit 91e4ad85. Karty: 10320, 10991, 10992, 10993, 10994, 11028, 21375, 30635, 30651, 30652, 31133, 31144, 40597, 40598, 40646, 41738, 41741, 43211, 43213, 43223, 60397, 76243, 76410, 76423, 76959 (huby /zestaw/<nr>/).
 Pierwszy przebieg zatrzymała cena 40646 Żonkile (Piotr 69,99 zł, katalog 59,99 zł). Rację miał Piotr (promoklocki: 69,99 zł), więc w `katalog.json` poprawiliśmy cenę na 69,99 zł, z adnotacją w `cena_zrodlo`. Karty 30635, 30651 i 30652 mają po jednym akapicie, więc weszły jako krótkie (--krotkie).
-
 
 ## 2026-11-09 10:05 · KONTROLER · Do zrobienia
 
@@ -354,17 +359,20 @@ Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela �
 **Zrobić:** — zgoda na termin 23.11: jeśli do tego poniedziałku żadna z 10 nie zmieni statusu (najstarsza będzie miała 81 dni), Kontroler przypomina i mail do supportu Performers idzie — pytanie o termin zatwierdzania i o brakującą 1/3 kliknięć (tydzień 03–09.11: 20 naszych PL wobec 16 u nich, 80%).
 **Kto:** — Marek (decyzja)
 ↻ 09.11 (Kontroler): zgoda Marka 09.11 na termin 23.11 — przypomnienie ustawione w sesji Kontrolera na 23.11 10:20 PL (`trig_01WLwRWVniuzFHiD1hXdxmiF`); pozycja czeka na wynik, nie na decyzję.
+↻ 16.11 (Kontroler): **Performers zatwierdził trzy konwersje z września** (03.09 481,10 zł → 9,62 zł; 07.09 444 zł → 1,78 zł; 14.09 82,99 zł → 1,66 zł; razem 13,06 zł) — 09.11 konwersja z 14.09 była jeszcze „pending", więc zatwierdzenie przyszło w tym tygodniu, po ok. 60 dniach. Dziesięć z października i listopada nadal „pending" (267,47 zł). Wniosek: termin zatwierdzania to ok. dwa miesiące, pytanie o niego jest zbędne; przypomnienie 23.11 zostaje jako kontrola, mail tylko gdyby konwersja z 03.10 nie przeszła do ~10.12.
 
 **Decyzje D5–D9 z audytu 06.11 (mail z okazjami w czwartek, prezentowniki według zainteresowań, Piotr tylko przez GitHub, maile runnerów pon + pt, strony autorów) wchodzą w życie z odpowiedzią domyślną „tak" w środę 11.11.**
 **Mamy?** — tak: `materialy/audyt-2026-11-06.md`, sekcja „Decyzje".
 **Zrobić:** — do środy 11.11 powiedzieć, jeśli któraś ma być inna niż domyślna; cisza = Code wdraża domyślne po Black Friday.
 **Kto:** — Marek (decyzja)
+→ zamknięte 16.11.2026 (Kontroler): środa 11.11 minęła bez innej odpowiedzi — D5–D9 obowiązują w wersji domyślnej z `materialy/audyt-2026-11-06.md`; wdrożenie po Black Friday leży po stronie Code (osobne pozycje założy sesja, która je robi).
 
 **Wycofania (pon 06:10, `trig_018T3NrpmpZTRLX7s942gD6q`) mają w harmonogramie z konta `09.11 06:10 SUCCEEDED`, ale w repo nie ma commita „Wycofania: aktualizacja 2026-11-09" (19.10, 26.10 i 02.11 był) ani linii „→ Wycofania 2026-11-09" w dzienniku; `src/data/wycofania.json` ostatnio zmieniony 02.11.**
 **Mamy?** — nie: SUCCEEDED w tabeli to dostarczenie promptu, nie wynik przebiegu.
 **Zrobić:** — otworzyć sesję Wycofań na koncie i sprawdzić, co zrobiła 09.11 (odmowa klasyfikatora jak Zdjęcia → R2 04.11? błąd pushu? „nic do zmiany"?); jeśli nic — odpalić ręcznie.
 **Kto:** — Marek (panel)
 ↻ 09.11 (Kontroler): Marek 09.11 „wycofania sprawdzę" — w toku po jego stronie.
+→ zamknięte 16.11.2026 (Kontroler): przebieg 16.11 06:10 zostawił commit `9ce082f` („Wycofania: aktualizacja 2026-11-16", Monkie Kid ×10 jako przewidywane) i linię „→ Wycofania 2026-11-16" pod sygnałem Scouta — runner działa. Co stało się 09.11, nie wiadomo; jeden pusty poniedziałek bez powtórki nie jest już pozycją.
 
 **`scripts/diagnoza.mjs` zgłasza „ROZJAZD Z REJESTREM" dla Ceneo: Tradedoubler zwraca program 385881 jako ACCEPTED, rejestr ma `zakonczony` (program zamknięty 03.11, mail TD) — alarm będzie wracał co tydzień.**
 **Mamy?** — tak: rejestr ma rację, API TD nie zmienia statusu zakończonego programu.
@@ -372,7 +380,6 @@ Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela �
 **Kto:** — Code (skrypt)
 
 Poza listą dla ludzi: reguła referera z 02.11 zadziałała — kliknięć „human" spoza PL ze strony głównej 40 → 0 przy fali 13 301 botów 05.11; `/zestaw/11208/` zindeksowany 04.11 po trzech zgłoszeniach kolejki; `/zestaw/10280/` crawl 11.09 (59 dni) — sprawdzę za tydzień, czy kolejka może objąć huby zindeksowane ze starym crawlem; `/aktualnosci/` crawl 26.10 (14 dni). Kolizja 09:30 bez szkody czwarty tydzień.
-
 
 ## 2026-11-09 08:55 · SKRZYNKA · GitHub: 0043 i Recenzje_019
 Źródło: repo tylkoklocki-teksty (do-publikacji/), 2 teksty + 5 zdjęć, commit 89eee676.
@@ -524,6 +531,7 @@ Audyt: `materialy/audyt-2026-11-06.md` + 6 raportów w `materialy/audyt-2026-11-
 **Mamy?** — nie i nie możemy mieć treścią: to nie publiczne okno, tylko kody wydawane z ich podstrony. Do naszego kalendarza nie wchodzi — bez ich kodu czytelnik tego gratisu nie dostanie, a my nie odsyłamy do konkurencji. Luka jest **relacyjna**, nie redakcyjna.
 **Zrobić:** — zdecydować, czy próbujemy o to samo własnym kanałem (Tradedoubler / kontakt LEGO.pl): pula kodów na gratis dla czytelników tylkoklocki.pl przed Weekendem Insiders.
 **Kto:** — Marek (decyzja)
+→ zamknięte 16.11.2026 (decyzja Marka 16.11, zapisana przez Radar w pozycji z 16.11 i w „Ustaleniach trwałych", `a11313d`): nie staramy się o pulę kodów gratisowych.
 
 **faniklockow.pl · 05.11** — Wystawili hub „Zbiorcze zapowiedzi zestawów LEGO na 2027 r. Wszystko w jednym miejscu", spinający ich huby serii (Fortnite 04.11, Icons 05.11).
 **Mamy?** — dane tak, formy nie: rocznik 2027 zbiera Scout do `zapowiedzi_sledzone`, ale nie ma jednej strony, która go zestawia. Drugi dzień z rzędu ten sam wzorzec co przy kalendarzach adwentowych z 05.11 — oni robią stronę zestawiającą, my mamy dane rozsypane po hubach.
@@ -725,12 +733,14 @@ Raport: `materialy/kontroler-2026-11-02.md`. Mail „Zadania bez właściciela �
 **Zrobić:** — odpalić skill `klocki-zrzuty-tygodniowe` na Macu; import robi sesja Code.
 **Kto:** — Marek (komputer)
 ↻ 09.11 (Kontroler): zrzuty z 02.11 weszły we wtorek 03.11 07:07 (`31c2d2e`, 4 518 Empik / 700 x-kom); dziś 09.11 do 09:40 PL znowu ich nie ma. Przypomnienie 08:15 odpala się, ale zrzut robi człowiek na Macu — jeśli poniedziałek rano nie pasuje, lepiej przestawić przypomnienie i skill na wtorek, niż co tydzień mieć pozycję.
+→ zamknięte 16.11.2026 (Kontroler): zrzuty weszły w czwartek 13.11 (`d3492fb`) i dziś 16.11 o 09:24 PL (`8d59719`, 4 575 Empik / 674 x-kom) — przed przebiegiem Kontrolera, tak jak miało być.
 
 **11381 Jaguar E-Type ma dwie daty premiery: `karty_setow.json` (metryka „Premiera" i zdanie w treści) „1 lipca 2026", recenzja `/artykuly/lego-11381-jaguar-e-type-recenzja/` i `sety.json` (`premiera: 2026-08`) „1 sierpnia 2026" — jedyna sprzeczność z nowego sprawdzenia dat premier (`swiezosc-tekstow.mjs`, 522 zestawy).**
 **Mamy?** — tak: oba miejsca w repo, karta idzie na hub.
 **Zrobić:** — potwierdzić datę na karcie lego.com i poprawić to miejsce, które się myli (najpewniej kartę — rejestr i recenzja zgadzają się na sierpień).
 **Kto:** — Code (dane)
 ↻ 09.11 (Kontroler): nadal aktualne — `swiezosc-tekstow.mjs` 09.11 pokazuje tę samą sprzeczność (karta „1 lipca", recenzja i `sety.json` sierpień).
+↻ 16.11 (Kontroler): trzeci tydzień — ta sama sprzeczność w `swiezosc-tekstow.mjs` 16.11.
 
 Poza listą dla ludzi: Scout nie zostawił commita 27.10 (jedyna luka runnera w tygodniu; 28.10–02.11 codziennie) — sprawdzę za tydzień, czy to jednorazowe. `/zestaw/10280/` nadal z crawlem 11.09 (52 dni), `/serie/marvel/` odwiedzony 01.11 sam. Nowy kanał GitHub skrzynki (`tylkoklocki-teksty`) i panel — kontrola za tydzień, czy zostawiają wpisy w dzienniku.
 
@@ -825,28 +835,6 @@ Dowód z tego przebiegu: 42254 dostał dziś `premiera: 2027-01` z oficjalnej da
 i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/42254/`), bo
 `"2027-01" <= "2026-11"` jest fałszem. Wejdzie tam sam w styczniu 2027. Nic dla Code.
 
-## 2026-11-01 14:55 · CODE · Skrzynka (mail): 0035 opublikowany, 0034 za duży dla automatu
-
-**0035 „Listopadowe premiery LEGO” na stronie: https://tylkoklocki.pl/artykuly/listopadowe-premiery-lego-sagrada-familia-upominek-do-weneckiej/ (`3668728`, adres poprawiony w `20a551d` przed wysłaniem linków — slugify robiło z „Família” „fam-lia”; teraz zdejmuje wszystkie znaki diakrytyczne).** 0034 „Historia płyt drogowych LEGO” (md + 13 zdjęć) — mail ma 10,6 MB, konektor Gmail go nie przenosi (zrywa połączenie), IMAP z kontenera zablokowany; mail ma etykietę „do-poprawy”, Piotr i Marek dostali prośbę o wgranie przez panel (Wgraj, do 25 MB na plik) albo ponowną wysyłkę z mniejszymi zdjęciami.
-**Dla drugiej strony:** limit ~9 MB na mail dopisany do `redakcja/skrzynka-instrukcja.md` i do promptu automatu skrzynki (sprawdza `sizeEstimate` przed RAW).
-
-## 2026-11-01 · CODE · Panel panel.tylkoklocki.pl — wersja 1 w repo, czeka na Access
-
-**Panel wewnętrzny dla Marka i Piotra jest w `panel/`: zakładki Dziś, Runnery, Opisy, Social, Wgraj, Dziennik (Artykuły, Statystyki, Afiliacje, Ceny — w drugim kroku).** Decyzje Marka: osobna subdomena, logowanie Cloudflare Access, Piotr widzi wszystko, pliki z panelu publikują się od razu, bez przychodów na razie. Osobny worker (`panel/wrangler.jsonc`) — serwisu i `src/worker.js` nie dotyka. Bez `ACCESS_TEAM`/`ACCESS_AUD` panel odpowiada 503 każdemu.
-- Wgrane pliki → R2 `_panel/wplywy/` → automat „Skrzynka tekstów Piotra” (prompt rozszerzony 01.11 o `scripts/panel-wplywy.mjs`) → ta sama publikacja co z maila; `.docx/.pdf` czekają na sesję Code.
-- Nowy rejestr social: `materialy/social/rejestr.json` (5 publikacji od 15.10); skill `klocki-social` każe dopisywać każdą publikację — **paczkę skilla trzeba wgrać ponownie na claude.ai** (`node scripts/spakuj-skille.mjs`), żeby Cowork też dopisywał.
-- Social po terminie: karuzela z 15.10 (przypomnienie poszło 29.10, archiwizacja niepotwierdzona); post i rolka Grogu z kodem black-weeks2 — kod ważny do 01.11, do zdjęcia od 02.11 (przypomnienie stoi na 09.11).
-**Dla drugiej strony:** Marek — 4 kroki w panelu Cloudflare z `panel/README.md` (Zero Trust Free, aplikacja Access dla panel.tylkoklocki.pl, worker `tylkoklocki-panel` z repo, potem nazwa zespołu + AUD do sesji Code).
-
-## 2026-11-01 10:20 · DANE WT · Do zrobienia
-
-**Feed Ceneo (Tradedoubler, fid 256472) odpowiada `PF_392 „Requester is not connected to Feed"` — ten sam wzorzec, co Lidl przed akceptem 17–18.09.2026 (RUNBOOK, „Lidl przez Tradedoubler").**
-**Mamy?** — częściowo: feed działał jeszcze 27.10.2026 (`feedy.json.ceneo.ostatnie_pobranie`), dziś dwa niezależne wywołania (pełny przebieg i `--sklep ceneo` osobno) zwróciły ten sam błąd 400.
-**Zrobić:** — zgłosić w panelu Tradedoublera / do wsparcia TD, że program Ceneo CPS (385881, konto a=3494691) nie jest podłączony do feedu 256472; po potwierdzeniu podpięcia samo się naprawi, kodu nic nie trzeba zmieniać.
-**Kto:** — Marek (konto Tradedoubler)
-↻ 2026-11-03: nadal aktualne — trzeci przebieg rzędu (01.11, dwa wywołania tego dnia, i teraz 03.11) z tym samym błędem PF_392, nic się nie zmieniło.
-→ zamknięte 2026-11-03 (mail Tradedoublera do Marka, wklejony w czacie): przyczyna nie jest usterką podpięcia jak przy Lidlu — **program Ceneo CPS 385881 został trwale zakończony przez Tradedoublera**. Zaległe prowizje mają być wypłacone, nowych nie będzie. `feedy.json.ceneo.aktywny` ustawiony na `false` (Dane wt od teraz pomija ten feed), status w `afiliacje_rejestr.json` zmieniony na „zakonczony", dane w `redirects.json`/`oferty_feed.json` zostają jako ostatni znany stan (append-only). Nowy wpis niżej: decyzja o linku w `worker.js` i wierszu Ceneo w tabelach cen.
-
 ## 2026-11-03 · DANE WT · Do zrobienia
 
 **Program Ceneo CPS 385881 (Tradedoubler) zakończony — `src/worker.js` (linie ok. 232–238, `/idz/ceneo/<nr>`) wciąż buduje link przez ten program (`clk.tradedoubler.com?p=385881&a=3494691&url=...`), tak samo linki w `redirects.ceneo` z feedu. Kliki nie przyniosą już prowizji, a sam przekierowywacz może z czasem zacząć błądzić (TD bywa, że wygasza martwe programy).**
@@ -854,11 +842,6 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 **Zrobić:** — decyzja Marka, co dalej z `/idz/ceneo/`: (a) zostawić jak jest — link i tak trafia na ceneo.pl, tylko bez prowizji; (b) zamienić na zwykły link bez wrappera TD (bezpośrednio na ceneo.pl); (c) zdjąć wiersz Ceneo z tabel cen w ogóle (dotyczy wielu szablonów: `TabelaCen.astro`, `KartaOferty.astro`, `PasekCeny.astro` i innych — do rozpisania po decyzji). To zmiana w `src/worker.js` i/albo szablonach, więc zgodnie z CLAUDE.md wymaga potwierdzenia przed pushem.
 **Kto:** — Marek (decyzja), potem Code (wdrożenie)
 → zamknięte 09.11.2026 (Kontroler): zrobione w dwóch krokach — (b) 03.11 `834e724` worker kieruje `/idz/ceneo/` bezpośrednio na ceneo.pl bez wrappera TD, (c) 06.11 decyzja D1 audytu: Ceneo zdjęte z tabel cen (`SKLEPY_WYLACZONE`), 0 linków `/idz/ceneo/` w buildzie.
-
-## 2026-11-01 · CODE · Karty P07, paczki 26–28: wgrana tylko 28
-
-**Paczka 28 wgrana: 25 nowych kart (21245–76961), rejestr ma teraz 1749 kart, wszystkie 25 hubów indeksowalnych.** Paczki 26 i 27 (50 zestawów, m.in. 10312, 10314, 71037–71039, 76995) **pominięte**: każdy z tych zestawów miał już pełną kartę (2–4 akapity, 5–6 FAQ, hub w indeksie). Nowe teksty to inne, krótsze wersje (ok. 600–1400 zn. wobec 760–1970 zn. obecnych), więc ich nie nadpisywaliśmy.
-**Dla drugiej strony:** lista „noindex”, z której Piotr wybiera zestawy, jest nieaktualna — przed kolejną paczką warto dać mu świeżą listę zestawów bez karty. Gdyby nowe wersje 26–27 miały jednak zastąpić stare, wystarczy `import-karty.py <zip> --nadpisz --krotkie` (decyzja Marka).
 
 ## 2026-11-01 05:11 · SCOUT · Do zrobienia
 
@@ -871,89 +854,6 @@ i po buildzie **nadal nie ma go** na `/serie/technic/` (0 trafień `/zestaw/4225
 osobno i nie informuje wprost o ich łączeniu w jednym zamówieniu". Czyli tekst nie wprowadza nikogo w błąd,
 ale pytanie zostaje otwarte i do 8 listopada da się je rozstrzygnąć tylko koszykiem.
 ↻ 05.11.2026: nadal aktualne i zostały trzy dni — oba okna (40898 i 40889) kończą się 8 listopada, po tej dacie koszyka nie da się już sprawdzić, a pytanie zostanie bez odpowiedzi na stałe.
-
-## 2026-10-31 08:05 · RADAR · Do zrobienia
-
-**faniklockow.pl · 30.10** — Opisali 76329 Maskę Milesa Moralesa jako okazję (tegoroczny EOL, rynek droższy od katalogu, przy dwóch sztukach wpada gratis 40889); arytmetyka się zgadza, ale karta lego.com sprawdzona dziś mówi „Chwilowo niedostępne", więc po cenie katalogowej nie ma czego kupić — została natomiast luka w naszych danych.
-**Mamy?** — nie: 76329 nie ma w `sety.json` ani w `ceny_baza.json`, mimo potwierdzonego wycofania na grudzień 2026. Policzone szerzej: **49 zestawów z potwierdzonym wycofaniem w 2026 roku** jest poza rejestrem (plus 19 już po produkcji).
-**Zrobić:** — zdecydować, czy dopisujemy te 49 do `sety.json` + `ceny_baza.json` przed grudniem; lista z nazwami, cenami i terminami w `materialy/wycofania-poza-rejestrem-2026-10-31.md`. To **inna klasa luki niż lista z 29.10**: tam kryterium był rabat ≥25%, a tutaj **21 z 49 pozycji jest na rynku droższe od katalogu** (76329 +47%, Endurance +26%, Nike Dunk Trickshot +21%), więc żaden filtr rabatowy ich nie pokaże — a to właśnie zestawy, przy których argumentem sezonu jest „w grudniu zniknie", nie „jest tanio".
-**Kto:** — Marek (decyzja)
-↻ 09.11 (Kontroler): nadal aktualne, 9 dni — decyzja 1 raportu 09.11: do Black Friday zostało 18 dni, proponowany termin dopisania do 20.11; lista w `materialy/wycofania-poza-rejestrem-2026-10-31.md`.
-→ zamknięte 09.11.2026 (Kontroler, zgoda Marka 09.11 „zgoda na decyzję 1"): 48 zestawów dopisanych do `sety.json` (1305 → 1353) i `ceny_baza.json` (1201 → 1249) — 10335 Endurance był już od 06.11. Nazwa, seria, elementy, RRP z `katalog.json`/`rrp_potwierdzone.json`, wiek i rok z kart, teksty rodzic/AFOL napisane w sesji Kontrolera; minimum w `ceny_baza` z `historia-cen` i dzisiejszego feedu po sicie 50% RRP, bez Ceneo. `known-sets-sync` 1353/1353, kolejka redakcyjna przeliczona, build czysty.
-
-## 2026-10-30 09:55 · CODE · Teksty Piotra 0030–0033 (podesłane przez Marka w sesji)
-
-**Zrobione:** publikacja ścieżką skrzynki (`skrzynka-tekstow.py publikuj`, commit `9715f51`):
-- 0031 Premiery → `/artykuly/lego-friends-2027-pierwsze-zestawy-galeria-heartlake/`
-- 0032 Premiery → `/artykuly/lego-marvel-67005-doctor-strange-supreme-premiera-2027/`
-- 0033 Aktualności (ważne do 8.11) → `/artykuly/lego-30727-tie-advanced-gratis-lego-pl-listopad-2026/`
-- 0030 Aktualności (LEGO DC 2027) był już na stronie od 27.10 (`6746b54`, z poprawką Marka: ceny Batmobili
-  w zł z LEGO.pl zamiast euro + galeria). Przesłany plik to wersja Piotra sprzed poprawki — publikacja
-  nadpisała ją na chwilę, przywrócona wersja z 27.10 w kolejnym commicie. Rejestr `skrzynka.json`
-  ma teraz wpisy 0030–0033 (krótkie slugi nadane ręcznie przed importem).
-
-**Stan:** gotowe, na `main`.
-
-**Dla drugiej strony:** nic. **Uwagi:** gdy Piotr przyśle ponownie 0030 tą samą nazwą, automat znów
-cofnie ceny do euro — poprawkę cen trzeba będzie wtedy powtórzyć albo poprosić Piotra o wersję ze złotówkami.
-
-## 2026-10-30 09:40 · CODE · Opisy P07 jako .md przez skrzynkę tekstów
-
-**Zrobione:**
-- `scripts/import-karty.py` czyta także Markdown w układzie Piotra („# LEGO <nr> <nazwa>”, „## Opis zestawu”,
-  tabela „## Metryka zestawu”, „## FAQ” z `###`); katalog/zip może mieszać DOCX i .md. Raport wypisuje linie
-  `karta <nr>` dla kart do wgrania.
-- `scripts/skrzynka-tekstow.py`: załącznik ZIP jest rozpakowywany (płasko, poprawne polskie znaki w nazwach),
-  plik z „## Metryka zestawu” idzie do `import-karty.py --nadpisz`, link w mailu to `/zestaw/<nr>/`; karty
-  i artykuły w jednym mailu publikują się razem albo wcale. Prompt zadania cyklicznego bez zmian (woła
-  `publikuj` na katalogu).
-- Odpowiedź dla Claude Piotra: `materialy/mail-do-piotra-opisy-md-2026-10-30.md`; instrukcja:
-  `redakcja/skrzynka-instrukcja.md`, sekcja „Opisy zestawów P07”.
-
-**Stan:** gotowe, sprawdzone na sucho na pliku 71458 (import i `publikuj --sucho`); karta 71458 NIE została
-podmieniona — plik był przykładem formatu, decyzję o wgraniu zostawiam Piotrowi (nowa wersja ma 3 figurki,
-obecna karta 5).
-
-**Dla drugiej strony:** nic — odpowiedź Piotrowi wysyła Marek.
-→ 30.10.2026 09:20: oba maile wysłane z konta Marka na piotrmaculewicz@interia.pl (kopia tylkoklockiblog+piotr@gmail.com): instrukcja dla Claude Piotra i odpowiedzi na pięć pytań. Decyzja Marka: polska nazwa Piotra z metryki zostaje (`f0c3cd3`).
-
-**Uwagi:** importer zamienia nazwę z metryki na kanoniczną z katalogu (dla 71458 angielską „Crocodile Car”);
-to dotychczasowa reguła, warto rozważyć polską nazwę Piotra, gdy katalog ma tylko angielską.
-
-## 2026-10-30 08:40 · CODE · „Zestawy pod lupą”: 17 tekstów /deale/ w nowym formacie + moduł ceny
-
-**Zrobione:**
-- Paczka Coworka `zestawy-pod-lupa.zip` wgrana skryptem `scripts/import-pod-lupa.mjs` (nowy):
-  17 tekstów podmienionych pod tymi samymi adresami, data publikacji zostaje, `zaktualizowano: 2026-10-30`.
-  Sekcje „Do weryfikacji” nie są publikowane — leżą w `materialy/zestawy-pod-lupa-weryfikacja-2026-10-30.md`.
-- Moduł `cena-pod-lupa` (`src/components/CenaPodLupa.astro`, reguły w `src/lib/pod-lupa.js`): cena dziś =
-  najtańsza oferta sklepu z własnym magazynem (bez Allegro i Ceneo, sito jak w tabelach), status względem
-  progów z frontmattera (bardzo dobra / dobra / powyżej progu / brak oferty), najniższa z notowań Łowcy.
-  Znaczniki briefu `[moduł ceny: …]` i `[tabela: …]` obsługuje `scripts/remark-pod-lupa.mjs`.
-- Strona główna: sekcja „Zestawy pod lupą” pokazuje tylko statusy dobra/bardzo dobra, max 3 (dziś: 10330,
-  76354, 10359 — wszystkie „bardzo dobra”). `/promocje-lego/#zestawy-pod-lupa`: wszystkie teksty
-  z plakietką statusu, najlepszy status pierwszy (dziś 3 bardzo dobre, 12 dobre, 2 powyżej progu: 21330, 76325).
-- Venator: dwa posty zlane w `/deale/deal-75367-gwiezdny-niszczyciel-venator/`; stary adres
-  `/deale/deal-75367-venator-ponizej-2000/` oddaje tę samą stronę z `rel=canonical` na główny
-  (`src/pages/deale/[alias].astro`, pole `alias_url`; Base/Artykul przyjmują `canonical`).
-- Karty zestawów: wiersz „Status” metryki liczony z listy wycofań i EOL zamiast stanu z dnia pisania
-  (122 karty mówiły „dostępny” o zestawach wycofywanych/EOL); nota „ekskluzyw” nie pisze „nie widzimy go
-  w innych sklepach”, gdy w tabeli jest Allegro; 40824 — premiera 1 stycznia 2025 (Brickset), poprawione
-  w `karty_setow.json` i `katalog.json` (rok 2026 → 2025).
-- Dokumentacja: brief jako `redakcja/wzorce/zestawy-pod-lupa.md`, reguły w `redakcja/ustalenia-projektowe.md`
-  (skille wyeksportowane), wiersze w `scripts/README.md`.
-
-**Stan:** gotowe, build OK, na `main`.
-
-**Dla drugiej strony (Cowork):** nowe teksty „pod lupą” oddawać w formacie z briefu — import jest
-automatyczny. Z notatek „Do weryfikacji” zostały sprawy wymagające źródła/decyzji (imiona figurek 21330
-i 75367, lista 6 figurek 76354, unikatowość Senny 10330, status wycofania 60470/60471 jako „potwierdzone”
-— lista wycofań mówi potwierdzone, więc teksty są zgodne z danymi). Zdania „Gdyby stanął obok N zestawów
-… z 2026 roku” w kartach to świadome porównanie z bieżącym rocznikiem (`import-karty.py`), nie błąd.
-Rozjazd „najtaniej dziś” vs Ceneo na hubach jest zamierzony: Ceneo to porównywarka, nie sklep (audyt 15.09).
-
-**Uwagi:** `kategoria` zostaje `Deal` (walidator); plakietka pokazuje „Pod lupą”. Kalendarze adwentowe
-schodzą z głównej po 24.12 (`wylacz_z_glownej_po`).
 
 ## 2026-10-30 05:18 · SCOUT · Do zrobienia
 
@@ -978,6 +878,7 @@ z zakupu 27 listopada.
 **Mamy?** — częściowo: huby tych zestawów stoją i pokazują ceny z feedu, ale rejestru nie mają. To inna lista niż ta domknięta 29.10 — tamta brała tylko zestawy z potwierdzonym RRP, min. dwiema ofertami i rabatem ≥25%; ta nie ma progu rabatu i obejmuje też pozycje bez ceny katalogowej.
 **Zrobić:** — zdecydować, które grupy z tych 107 w ogóle chcemy śledzić, bo to nie jest jednorodna lista: **85** pozycji to normalne zestawy roczników 2012–2025 (84 z nich z potwierdzonym RRP; rocznik 2025 to 48 sztuk, 2024 — 21; m.in. 10351, 10352, 10361, 10375, 21360, 42217, 76317 oraz 21351 z potwierdzonym wycofaniem na grudzień 2026), **13** to gadżety i breloki bez ceny katalogowej (854xxx, 5006157, 5007851), **6** to Power Functions (88005, 88009, 88010, 88012, 88013, 88015), a **4** to tegoroczne saszetki i brelok bez RRP (30718, 30720, 30732, 854328 — ten ostatni liczy się też w gadżetach, stąd 85+13+6+4 daje 108, a nie 107). Pełną listę odtwarza polecenie z raportu Scouta z 30.10.
 **Kto:** — Marek (decyzja)
+↻ 16.11 (Kontroler): nadal aktualne, 17 dni — decyzja 1 raportu 16.11: 85 zwykłych zestawów roczników 2012–2025 do rejestru do 20.11 tą samą drogą co 48 z wycofaniem (09.11, `5907a36`); 22 bez RRP poza.
 ↻ 05.11.2026: nadal aktualne — przy definicji z `kolejka-redakcyjna.py` (katalog, rocznik 2020–2026, status `dostepny`, z ofertami w feedzie, bez pola `bez_rrp`) wychodzi dziś **100** pozycji i lista jest identyczna jak w stanie z commita `87c47a7` z 04.11 — żadna nie doszła i żadna nie zniknęła. Liczba 107 z tej pozycji obejmuje też roczniki 2012–2019, więc 100 to inne okno, a nie spadek.
 ↻ 10.11.2026: nadal aktualne, ale lista zrobiła się o połowę krótsza — po dopisaniu 48 zestawów z potwierdzonym wycofaniem (`5907a36`, decyzja Marka 09.11) zostaje **54** pozycje. Największe grupy: Gadżety 13, **Monkie Kid 10**, Archiwum 9, Creator 6, Icons 3. Monkie Kid trafia tu nieprzypadkowo — StoneWars pisze, że cała linia schodzi z rynku z końcem 2026 (sygnał w moim wpisie z dziś), więc te dziesięć zestawów albo dopisujemy teraz, albo zostaną bez śledzonego minimum na zawsze.
 
@@ -1058,127 +959,6 @@ Trzy rzeczy warte zapisania, bo dotyczą każdego kolejnego dopisywania:
 **Mamy?** — tak: huby `/zestaw/42709/`, `/zestaw/42718/`, `/zestaw/42719/`, `/zestaw/67005/` i tabela potwierdzonych w `/zapowiedzi-lego-2027/`; brakuje tekstu.
 **Zrobić:** — tekst o styczniowej fali Friends 2027 na podstawie tych hubów (według StoneWars styczeń to 13 zestawów Friends i dwa polybagi, więc ta trójka to pierwsza część); najmocniejszy pojedynczy temat to 67005 — cztery wersje zombie i Strange Supreme, których nie było w żadnym zestawie.
 **Kto:** — Piotr (tekst)
-
-## 2026-10-28 09:05 · ŁOWCA · Do zrobienia
-
-**Po naprawie filtra PK (63ebb5c) feedy-lego.py sprawdza ~5400 kart Planety Klocków dziennie zamiast ~1250 — stare zawężenie opierało się na kategorii, której feed już nie podaje (4305 kart to archiwum OutOfStock sprawdzane codziennie na nowo)**
-**Mamy?** — częściowo: przebieg działa (PK 1092 setów), ale trwa wyraźnie dłużej i obciąża sklep
-**Zrobić:** — w `scripts/feedy-lego.py` zawęzić kandydatów do kart PK (np. pamiętać numery OutOfStock z poprzednich dni w pliku roboczym albo sprawdzać tylko numery obecne w `known_sets.json`), żeby wrócić do ~1200 zapytań
-**Kto:** — Code (skrypt)
-→ zamknięte 28.10.2026 (Code, zadanie z sesji Łowcy): pamięć OutOfStock w nowym pliku
-`src/data/pk_oos.json` — numer po 3 kolejnych przebiegach z OutOfStock schodzi na rytm
-tygodniowy (karta odpytywana tylko w dniu `nr % 7`, archiwum rozkłada się na ~620 kart
-dziennie zamiast 4300 codziennie), powrót InStock kasuje wpis; to pamięć robocza skryptu
-(opis w `_meta` pliku), append-only jej nie obejmuje. Format wyciągu i `_meta` bez zmian
-(pominięte numery wchodzą do `planetaklockow_niedostepne`), flaga pustego feedu z 63ebb5c
-zostaje. Przebieg kontrolny 28.10: PK 1093 setów (próg 1092 ✓), sprawdzono 5416 kart,
-4307 OutOfStock weszło do pamięci z dni=1 — pełne odciążenie od trzeciego przebiegu (31.10),
-bo serii nie zasiewamy sztucznie. Koszt świadomy: powrót archiwalnego numeru do sprzedaży
-widać najpóźniej po tygodniu.
-
-## 2026-10-28 08:05 · RADAR · Do zrobienia
-
-**faniklockow.pl · 27.10** — Wystawili „Okazję Cenową" na 21333 Gwiaździstą noc (Smyk 599 zł, u nich −26%); sama okazja się nie broni (wobec potwierdzonego katalogu 729,99 zł to −17,9%, a 599 zł u Smyku stało też 25.09 i 09.10), ale odsłoniła lukę w naszym rejestrze.
-**Mamy?** — częściowo: hub `/zestaw/21333/` pokazuje ceny z `oferty_feed`, ale numeru **nie ma w `sety.json`** — mimo potwierdzonego wycofania na grudzień 2026.
-**Zrobić:** — dopisać 21333 do `src/data/sety.json` (bez wpisu zestaw nie wejdzie do bloku „Dziś w dobrej cenie", nie ma śledzonego minimum i nie dostanie alertu cenowego w szczycie sezonu); research domknięty u źródła: 729,99 zł, 2316 elementów, 18+, premiera 25.05.2022 (Rebrickable), seria Ideas, EOL grudzień 2026 z `wycofania.json`.
-**Kto:** — Code (dane, strona)
-→ zamknięte 28.10.2026 (polecenie Marka): 21333 dopisany do `sety.json` (1212 → 1213)
-**oraz do `ceny_baza.json`** (1135 → 1136) — i to drugie okazało się konieczne, nie ozdobne:
-`zrzut-import.mjs` ma `if (!b) continue`, czyli skrypty tylko aktualizują istniejące wpisy
-w `ceny_baza`, nigdy nie zakładają nowych. Sam wpis w rejestrze dałby więc hub i persony,
-ale nadal zero śledzonego minimum i zero alertów. Minimum zapisane z naszej własnej historii:
-599 zł u Smyku, 25.09.2026. Hub `/zestaw/21333/` po buildzie jest pełny i indeksowalny
-(persony, tabela z −18% u Smyku, termin wycofania). Zapisane przez `zapiszSety` z
-`json-kolejnosc.mjs`, `porzadek-ofert --sucho` i `kontrola-ofert` bez zastrzeżeń.
-
-## 2026-10-28 05:10 · SCOUT · Sygnały wycofań dla runnera Wycofań
-
-- 30727 Minimodel TIE Advanced — karta promocji `lego.com/pl-pl/page/lego-offers-promotions`
-  (sprawdzona 28.10.2026): zestaw jest rozdawany jako gratis przy zakupach Star Wars od 165 zł
-  w oknie 28.10–8.11.2026, czyli **jest u producenta**. W `katalog.json` ma status `eol` z powodem
-  „nigdy na listingu lego.pl, premiera 2026-01 (zaciąg 2026-09-15)" — sygnał odwrotny do wycofania,
-  do weryfikacji przy poniedziałkowym zaciągu. Statusu nie ruszam, bo plik nie jest mój.
-→ Wycofania 2026-11-02: odrzucone (nic do zmiany u mnie) — 30727 nie figuruje w `wycofania.json`,
-więc lista wycofań niczego o nim nie twierdzi; status „eol" w `katalog.json` należy do wtorkowego
-zaciągu lego.pl, a saszetki 30xxx jako gratisy i tak nie trafiają na listing, więc „eol" z powodu
-„nigdy na listingu" to znana właściwość tej grupy, nie błąd listy wycofań.
-
-## 2026-10-27 · CODE · Recenzja Piotra 60478 Betoniarka; tekst 0030 (DC 2027) wstrzymany
-
-`/artykuly/lego-60478-betoniarka-recenzja/` (Recenzje_013), 4 zdjęcia z galerii + slajder 60480/60494 w „Alternatywach”.
-**0030 „LEGO DC na 2027 rok” — opublikowany z poprawką Code (decyzja Marka 27.10):** `/artykuly/lego-dc-2027-batmobile-joker-daily-planet/`; zdanie o LEGO.pl → „Wszystkie trzy mają już polskie ceny katalogowe na LEGO.pl”, w tabeli 67008 i 67009 w złotych zamiast euro. Powód: tekst mówi, że na LEGO.pl jest tylko obraz 67012, a Batmobile
-podaje w euro — tymczasem `rrp_potwierdzone.json` ma z LEGO.pl (14.10, Firecrawl) 67008 = 259,99 zł i 67009 = 126,99 zł,
-a Media Expert sprzedaje je już w przedsprzedaży (229,99 i 114,99 zł). Opublikowany w obecnej formie byłby sprzecznością
-wykrywaną przez `swiezosc-tekstow.mjs`.
-
-## 2026-10-27 · CODE · Karty P07 Piotra: partie 24–25 (50 kart)
-
-Wgrane wszystkie 50 kart (`import-karty.py --krotkie`), bez blokad RRP, wszystkie huby indeksowalne.
-15 rozjazdów liczby elementów (katalog z Rebrickable vs Piotr) rozstrzygnął Brickset — za każdym razem
-na korzyść Piotra; `katalog.json` poprawiony: 10788, 40657, 41806, 41808, 41811, 76252, 80043–80046,
-80048, 80049, 910002, 910004, 910011.
-
-## 2026-10-27 08:50 · ŁOWCA · Do zrobienia
-
-**77253 Bugatti wróciło do maila podejrzanego rynku: Ceneo 56,30 zł przy RRP 114,99 (−51%) — złotówkę poniżej odrzuconych 57,32 zł z 21.10, więc sito znów je pokazuje**
-**Mamy?** — tak: oferta w danych, strona ukrywa ją do potwierdzenia
-**Zrobić:** — sprawdzić kartę z maila i zaktualizować werdykt 77253 w `src/data/deale_potwierdzone.json` (ponowne odrzucenie przy 56,30 zł wyciszy mail do kolejnego spadku)
-**Kto:** — Marek (decyzja)
-→ zamknięte 28.10.2026: Marek odrzucił ponownie przy 56,30 zł (czat, „bugatti olej”) — wpis w `deale_potwierdzone.json`, mail wyciszony do kolejnego spadku.
-
-**Feed PK zwrócił 0 setów przy pustym `_meta.bledy` — bez bezpiecznika naniesienie skasowałoby ~1100 ofert PK (27.10 uratował bezpiecznik w skrypcie roboczym Łowcy)**
-**Mamy?** — częściowo: bezpiecznik tylko w scratchpadzie Łowcy; `scripts/feedy-lego.py` dalej zapisuje pusty słownik bez ostrzeżenia
-**Zrobić:** — w `scripts/feedy-lego.py` dopisywać do `_meta.bledy` sklep, którego feed sparsował się do zera pozycji
-**Kto:** — Code (skrypt)
-→ zamknięte 28.10.2026: zrobione przez Łowcę commitem 63ebb5c — filtr PK naprawiony po zmianie feedu (puste shopcategory), pusty feed ląduje w `_meta.bledy`.
-
-## 2026-10-26 12:00 · CODE · Slajdery tylko z ofertami sprawdzonymi na karcie produktu
-
-Powód: 43303 z porannego zrzutu x-kom (24,99 zł, krótka promocja) wisiało w banerze, a na karcie było już 46,90 zł.
-Decyzja Marka: slajder 5 okazji i „Dziś w dobrej cenie” (12) na głównej oraz slajder `/promocje-lego/` (12) biorą
-ofertę sklepu z cenami tygodniowymi tylko po sprawdzeniu karty; Media Expert, Allegro i Planeta Klocków bez
-sprawdzania (codzienne feedy). Nowe: `scripts/weryfikacja-ofert.mjs`,
-`src/lib/weryfikacja.js`, `src/data/weryfikacja_ofert.json`; skrypt uruchamia codziennie Routine „LEGO 09:17 — Weryfikacja ofert do slajderów” w sesji Code (`trig_01ApTmYLjumFycmtRJgUzXfa`) — prompt Łowcy może zmienić tylko jego sesja. Koszt: 1 kredyt na kartę, limit 40 dziennie
-(~1 200/mies. przy 5 000 w planie). Pierwszy przebieg 26.10: 54 karty, ok 37, nieodczytane 2 (43273 MediaMarkt i Smyk),
-poprawiona cena 75408 MediaMarkt 197,99 → 289 zł. Przy okazji `firecrawl.mjs`: błąd curla nie wypisuje już linii
-poleceń (wcześniej z kluczem API w nagłówku) i ponawia zerwane połączenie.
-
-## 2026-10-26 10:15 · CODE · x-kom Black Weeks, tydzień 2: aktualność + ceny z kodem black-weeks2
-
-- `/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/` (Aktualności, bez `wazne_do`). Mail SalesMasters 26.10: 8 zestawów.
-  Karty sprawdzone Firecrawlem 10:08 PL: z kodem black-weeks2 trzy — 75446 319, 76785 189, 75433 199 (wszystkie
-  poniżej naszych minimów); bez kodu na karcie 77082 (649,90) i 72050 (589,90); „chwilowo niedostępne” 75434, 10367, 72043.
-- Dane: 3 ceny xkom w `oferty_feed`/`sety.json`, minima 75446 i 75433 w `ceny_baza`; kod w `kody_rabatowe.json`
-  (`do` 2026-11-01 = horyzont do następnej listy, `koniec_znany: false`). Tekst z 19.10 linkuje do tygodnia 2.
-**Dla drugiej strony:** zrzut x-kom 02.11 nadpisze te ceny. 77082 i 72050 sprawdzam jeszcze dziś po południu.
-
-## 2026-10-26 10:05 · KONTROLER · Do zrobienia
-
-**17 kliknięć spoza Polski przeszło w tygodniu 20–26.10 filtr jako „human" — każde z refererem strony głównej, 10 z refererem `https://tylkoklocki.pl` bez końcowego ukośnika (24.10 14:12–20:39, 10 krajów, jedno kliknięcie na sklep), 0 kliknięć z Polski ze strony głównej.**
-**Mamy?** — częściowo: reguła z 12.10 sprawdza sparsowaną ścieżkę (`new URL(referer).pathname` = `/` także bez ukośnika), więc surowy nagłówek bez ukośnika przechodzi; przeglądarka serializuje referer strony głównej zawsze z ukośnikiem.
-**Zrobić:** — zgoda na jedną regułę w `src/worker.js`: surowy referer równy dokładnie `https://tylkoklocki.pl` albo `https://www.tylkoklocki.pl` → bot (wdraża Code; worker = pytamy przed pushem).
-**Kto:** — Marek (decyzja)
-→ zamknięte 02.11.2026 (Kontroler): zastąpiona — w tygodniu 27.10–02.11 referer bez ukośnika nie wystąpił ani razu, a 40 sondowych kliknięć spoza PL ma ukośnik; nowa reguła (strona główna + kraj spoza PL = bot) we wpisie KONTROLER 02.11.
-
-**Performers drugi tydzień z rzędu liczy ok. 2/3 naszych kliknięć do Media Expertu: 13–19.10 — 18 wobec 29 naszych ludzkich (62%), 20–26.10 — 12 wobec 18 (67%); 387 kliknięć w 60 dni po ich stronie, 0 konwersji.**
-**Mamy?** — częściowo: dwa tygodnie czystego pomiaru po odcięciu botów, ta sama proporcja.
-**Zrobić:** — mail do supportu Performers (program Media Expert, offer_id 1860) z obiema parami liczb i pytaniem o sposób liczenia kliknięć (deduplikacja, filtr UA) — albo decyzja, żeby poczekać trzeci tydzień.
-**Kto:** — Marek (decyzja)
-↻ 02.11 (Kontroler): trzeci tydzień 27.10–02.11 — 25 naszych PL wobec 16 u Performers (64%); warunek „trzeci tydzień" spełniony, gotowy tekst maila w `materialy/kontroler-2026-11-02.md` (sekcja EPC).
-→ zamknięte 09.11.2026 (Kontroler, decyzja Marka 08.11 „czekamy, nie wysyłamy"): pytanie o zero konwersji okazało się nieaktualne — `getConversions` pokazuje 11 konwersji pending od 03.09 (276 zł), raporty liczyły tylko zatwierdzone. Zostaje pytanie o termin zatwierdzania — Kontroler pilnuje terminu we wpisie 09.11.
-
-**Harmonogram z konta zgłasza jedyną kolizję: pon 09:30 — Kontroler (przesunięty 19.10) i „Alerty cen" (codziennie 09:30).**
-**Mamy?** — częściowo: dziś oba przebiegi przeszły, ale dzielą limit konta na tej samej minucie.
-**Zrobić:** — zgoda na 09:35 dla Kontrolera (`trig_01KB8XkPcHyvc5kCRKEKYjri`); zmianę crona i wzmianki w `materialy/zadania-cykliczne.md` i `NARZEDZIA.md` robi Kontroler.
-**Kto:** — Marek (decyzja)
-→ zamknięte 02.11.2026 (Kontroler): wycofane — trzy przebiegi (19.10, 26.10, 02.11) bez szkody z kolizji; wrócę, jeśli harmonogram pokaże skutek.
-
-**Liczba zaindeksowanych stron z panelu GSC ma odczyt z 19.10 (837, dane z 12.10); 02.11 miną dwa tygodnie, a sitemapa hubów urosła w tydzień z 1 375 do 1 768.**
-**Mamy?** — nie: ostatni odczyt 19.10.2026 przez Coworka.
-**Zrobić:** — odczytać raport „Strony" w panelu GSC przed 02.11 (prompt z 19.10 w sesji Kontrolera).
-**Kto:** — Marek (panel) albo Cowork (panel)
-↻ 02.11 (Kontroler): nadal brak odczytu — 21 dni od danych z 12.10; sitemapa hubów od tamtego odczytu 1 291 → 1 929.
-→ zamknięte 09.11.2026 (Kontroler): odczyt zrobiony 06.11 przez Coworka w audycie (C2) — 903 zindeksowane (dane GSC z 23.10), 648 wykrytych, `materialy/indeksacja/gsc-strony-2026-11-06.md`.
 
 ## 2026-10-24 05:15 · SCOUT · Do zrobienia
 
