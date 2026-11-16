@@ -169,6 +169,16 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-16 14:58 · SKRZYNKA · GitHub: Recenzje_022 + 50 kart P07
+Źródło: repo tylkoklocki-teksty, commit 9b75a458.
+- Recenzje_022 (77248) → https://tylkoklocki.pl/artykuly/lego-77248-bolid-f1-bwt-alpine-team-a524-recenzja/ (bez zdjęć Piotra)
+- 50 kart P07 na hubach /zestaw/<nr>/ (m.in. 10278, 10283, 76178, 76240, 76911).
+Uwagi bez blokady:
+- Liczba elementów u Piotra i w katalogu różni się dla 41931 (105 vs 91), 41932 (120 vs 110), 45345 (449 vs 453), 76178 (3789 vs 3772) i 76183 (581 vs 590) — do sprawdzenia w Bricksecie.
+- Karty 30495, 30592 i 40564 weszły jako krótkie.
+- 45345 i 45681 to LEGO Education SPIKE (seria z katalogu: „Archiwum”).
+
+
 ## 2026-11-16 10:05 · KONTROLER · Do zrobienia
 
 Raport: `materialy/kontroler-2026-11-16.md`. Mail „Zadania bez właściciela — 16.11.2026" (37 pozycji) wysłany, id `01a1e384`. Kamień 1: Performers zatwierdził trzy wrześniowe konwersje (13,06 zł) — dwie sieci z trzech.
