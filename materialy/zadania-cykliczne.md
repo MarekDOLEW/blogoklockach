@@ -355,6 +355,22 @@ linii SMART Play, 559,99 dla zapowiedzi Icons) — obsługuje je Łowca regułą
 
 ## Historia zmian harmonogramu
 
+**16.11.2026 (Smyk — drugi odczyt cen w tygodniu, piątek)**
+- Powód: decyzja Marka 16.11 (raport Kontrolera, decyzja 2) — środowa akcja Smyka
+  11.11 (progowa poduszka + obniżki, 42240 719 → 675 zł) była przy jednym odczycie
+  w tygodniu dwa dni niewidoczna; ręczny `smyk-odswiez.mjs` 12.11 pokazał Smyk jako
+  najtańszy sklep w 8 zestawach.
+- Nowy trigger `trig_01SLg8WTqDmV7GW29RJKpgpG` („LEGO pt 05:30 — Smyk: drugi odczyt
+  cen w tygodniu (runner z pushem, do 31.12)", `CRON_TZ=Europe/Warsaw 30 5 * * 5`),
+  przypięty do **stałej sesji Dane wt** `session_01MLTH67DwV3KKVjpXJox95u` (repo
+  w źródłach, push działa). Prompt to skrócony krok 6a wtorkowego przebiegu: tylko
+  `smyk-odswiez.mjs` + `--stare`, bramka ≥400 kart z ceną, build, commit „Smyk:
+  piątkowe odświeżenie cen <data>”, 0 kredytów Firecrawla. Pierwszy przebieg
+  pt 20.11. Zadanie czasowe — po 31.12.2026 skasować albo przedłużyć decyzją Marka.
+- Wtorkowy „Dane wt" bez zmian. Uwaga: 10.11 jego przebieg miał SUCCEEDED bez
+  commita i wpisu (pozycja Kontrolera 16.11) — piątkowy trigger na tej samej sesji
+  jest też testem, czy to problem sesji, czy jednorazowy.
+
 **04.11.2026 (Zdjęcia → R2 przepięte na stałą sesję z repo)**
 - Powód: 04.11 o 03:46 PL Routine z panelu (`trig_01EAhU5SKn2GuXxY14WYxNkJ`,
   świeża sesja) miał `last_run` SUCCEEDED, a skryptu nie uruchomił — klasyfikator

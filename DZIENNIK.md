@@ -288,6 +288,7 @@ Poza listą dla ludzi: `/serie/marvel/` wypadł z indeksu (09.11 zindeksowany, 1
 **Zrobić:** — zdecydować o **drugim odczycie Smyka w tygodniu** (zmiana promptu Routine „Dane wt" albo osobny krok): tygodniowy odczyt z wtorku nie łapie promocji śródtygodniowych, a listopad i grudzień to miesiące, w których takie akcje będą się powtarzać.
 **Kto:** — Marek (decyzja)
 ↻ 16.11 (Kontroler): decyzja 2 raportu 16.11 — proponowany piątkowy odczyt Smyka do końca grudnia (0 kredytów), Code przygotuje po zgodzie.
+→ zamknięte 16.11.2026 (Kontroler, zgoda Marka 16.11 „zgoda na decyzję 2"): nowy trigger `trig_01SLg8WTqDmV7GW29RJKpgpG` — piątek 05:30 PL na stałej sesji Dane wt, tylko krok Smyka (0 kredytów), bramka ≥400 kart z ceną, do 31.12.2026; pierwszy przebieg 20.11. Opis w `materialy/zadania-cykliczne.md` („Historia zmian") i `scripts/README.md`.
 
 **BrickLink · 11.11** — Awaria z 6 listopada przestała być przerwą techniczną: własna strona serwisowa BrickLinka mówi „We took BrickLink offline after identifying **unusual activity** on the platform… Before bringing the site back online, we need to fully understand what has happened" („Updated: 11th November 2026") — czyli incydent bezpieczeństwa i **brak terminu powrotu**.
 **Mamy?** — ekspozycja cenowa nadal zerowa (0 ofert `bricklink` w `sety.json`), ale sekcja `#bldp` kalendarza odsyła czytelnika na Bricklink.com jako jedyny kanał sprzedaży BLDP.
@@ -360,6 +361,7 @@ Raport: `materialy/kontroler-2026-11-09.md`. Mail „Zadania bez właściciela �
 **Kto:** — Marek (decyzja)
 ↻ 09.11 (Kontroler): zgoda Marka 09.11 na termin 23.11 — przypomnienie ustawione w sesji Kontrolera na 23.11 10:20 PL (`trig_01WLwRWVniuzFHiD1hXdxmiF`); pozycja czeka na wynik, nie na decyzję.
 ↻ 16.11 (Kontroler): **Performers zatwierdził trzy konwersje z września** (03.09 481,10 zł → 9,62 zł; 07.09 444 zł → 1,78 zł; 14.09 82,99 zł → 1,66 zł; razem 13,06 zł) — 09.11 konwersja z 14.09 była jeszcze „pending", więc zatwierdzenie przyszło w tym tygodniu, po ok. 60 dniach. Dziesięć z października i listopada nadal „pending" (267,47 zł). Wniosek: termin zatwierdzania to ok. dwa miesiące, pytanie o niego jest zbędne; przypomnienie 23.11 zostaje jako kontrola, mail tylko gdyby konwersja z 03.10 nie przeszła do ~10.12.
+→ zamknięte 16.11.2026 (Kontroler, decyzja Marka 16.11 „3 całkiem olej"): żadnego maila do Performers i żadnego przypomnienia — trigger 23.11 (`trig_01WLwRWVniuzFHiD1hXdxmiF`) skasowany. Zatwierdzenia (3 wrześniowe → approved, ok. 60 dni) widzi co tydzień `prowizje-raport.mjs --dni 90` w raporcie Kontrolera; nic więcej nie pilnujemy.
 
 **Decyzje D5–D9 z audytu 06.11 (mail z okazjami w czwartek, prezentowniki według zainteresowań, Piotr tylko przez GitHub, maile runnerów pon + pt, strony autorów) wchodzą w życie z odpowiedzią domyślną „tak" w środę 11.11.**
 **Mamy?** — tak: `materialy/audyt-2026-11-06.md`, sekcja „Decyzje".
@@ -881,6 +883,7 @@ z zakupu 27 listopada.
 ↻ 16.11 (Kontroler): nadal aktualne, 17 dni — decyzja 1 raportu 16.11: 85 zwykłych zestawów roczników 2012–2025 do rejestru do 20.11 tą samą drogą co 48 z wycofaniem (09.11, `5907a36`); 22 bez RRP poza.
 ↻ 05.11.2026: nadal aktualne — przy definicji z `kolejka-redakcyjna.py` (katalog, rocznik 2020–2026, status `dostepny`, z ofertami w feedzie, bez pola `bez_rrp`) wychodzi dziś **100** pozycji i lista jest identyczna jak w stanie z commita `87c47a7` z 04.11 — żadna nie doszła i żadna nie zniknęła. Liczba 107 z tej pozycji obejmuje też roczniki 2012–2019, więc 100 to inne okno, a nie spadek.
 ↻ 10.11.2026: nadal aktualne, ale lista zrobiła się o połowę krótsza — po dopisaniu 48 zestawów z potwierdzonym wycofaniem (`5907a36`, decyzja Marka 09.11) zostaje **54** pozycje. Największe grupy: Gadżety 13, **Monkie Kid 10**, Archiwum 9, Creator 6, Icons 3. Monkie Kid trafia tu nieprzypadkowo — StoneWars pisze, że cała linia schodzi z rynku z końcem 2026 (sygnał w moim wpisie z dziś), więc te dziesięć zestawów albo dopisujemy teraz, albo zostaną bez śledzonego minimum na zawsze.
+→ zamknięte 16.11.2026 (Kontroler, zgoda Marka 16.11 „zgoda na decyzję 1"): z listy po 09.11 zostało 58 kandydatów; 34 zwykłe zestawy z RRP dopisane do `sety.json` (1361 → 1395) i `ceny_baza.json` (1249 → 1283) — Monkie Kid ×10, Braille ×5, pocztówki ×5, Icons ×3, Wicked ×2, Archiwum, 75394, 43008, 10373, 40619, 40478, 21358. 24 pozostałe to gadżety 854xxx/500xxxx, Power Functions 88xxx, saszetki 30718/30720/30732 i 2000414 — bez RRP, poza rejestrem (30720 ma osobną pozycję Radaru).
 
 ## 2026-10-29 08:05 · RADAR · Do zrobienia
 
