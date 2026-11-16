@@ -8759,5 +8759,243 @@
   "najnizsza_cena": 332.99,
   "najnizsza_data": "2026-11-16",
   "najnizsza_sklep": "empik"
+ },
+ "10352": {
+  "nazwa": "The Simpsons: Krusty Burger",
+  "cena_katalogowa": 869.99,
+  "najnizsza_cena": 689.99,
+  "najnizsza_data": "2026-09-28",
+  "najnizsza_sklep": "empik"
+ },
+ "10361": {
+  "nazwa": "Świąteczny ekspres",
+  "cena_katalogowa": 519.99,
+  "najnizsza_cena": 419,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "smyk"
+ },
+ "10373": {
+  "nazwa": "Małe drzewka bonsai",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 214.09,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "empik"
+ },
+ "10375": {
+  "nazwa": "Jak wytresować smoka: Szczerbatek",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 258.59,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "allegro"
+ },
+ "21358": {
+  "nazwa": "Maszyna z minifigurkami",
+  "cena_katalogowa": 729.99,
+  "najnizsza_cena": 644.99,
+  "najnizsza_data": "2026-10-11",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "40478": {
+  "nazwa": "Miniaturowy zamek Disneya",
+  "cena_katalogowa": 169.99,
+  "najnizsza_cena": 169.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40518": {
+  "nazwa": "Pociąg szybkobieżny",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 81.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40519": {
+  "nazwa": "Pocztówka z Nowego Jorku",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 61.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40569": {
+  "nazwa": "Pocztówka z Londynu",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 61.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40619": {
+  "nazwa": "EWA i WALL-E",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 81.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40649": {
+  "nazwa": "Up-Scaled LEGO Minifigure",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 249.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40655": {
+  "nazwa": "Zabawa z alfabetem Braille’a — francuski",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "40656": {
+  "nazwa": "Zabawa z alfabetem Braille’a — angielski",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 339,
+  "najnizsza_data": "2026-10-05",
+  "najnizsza_sklep": "allegro"
+ },
+ "40713": {
+  "nazwa": "Pocztówka z Japonii",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 61.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40719": {
+  "nazwa": "Traditional Chess Set",
+  "cena_katalogowa": 319.99,
+  "najnizsza_cena": 319.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40722": {
+  "nazwa": "Zabawa z alfabetem Braille’a — niemiecki",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "40723": {
+  "nazwa": "Zabawa z alfabetem Braille’a — włoski",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "40724": {
+  "nazwa": "Zabawa z alfabetem Braille’a — hiszpański",
+  "cena_katalogowa": 379.99,
+  "najnizsza_cena": 379.99,
+  "najnizsza_data": "2026-10-14",
+  "najnizsza_sklep": "lego"
+ },
+ "40817": {
+  "nazwa": "Yellow Travel Suitcase",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 61.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "40818": {
+  "nazwa": "Pocztówka z Włoch",
+  "cena_katalogowa": 61.99,
+  "najnizsza_cena": 61.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "43008": {
+  "nazwa": "Nike Dunk",
+  "cena_katalogowa": 419.99,
+  "najnizsza_cena": 419.99,
+  "najnizsza_data": "2026-09-29",
+  "najnizsza_sklep": "lego"
+ },
+ "75394": {
+  "nazwa": "Gwiezdny Niszczyciel Imperium",
+  "cena_katalogowa": 729.99,
+  "najnizsza_cena": 569,
+  "najnizsza_data": "2026-10-12",
+  "najnizsza_sklep": "allegro"
+ },
+ "75690": {
+  "nazwa": "Glinda & Elphaba Visit Munchkinland",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 215,
+  "najnizsza_data": "2026-11-04",
+  "najnizsza_sklep": "allegro"
+ },
+ "75691": {
+  "nazwa": "Glinda & Elphaba Bookends",
+  "cena_katalogowa": 519.99,
+  "najnizsza_cena": 418.99,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "allegro"
+ },
+ "80040": {
+  "nazwa": "Monkie Kid's Combi Mech",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 81.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80045": {
+  "nazwa": "Monkey King Ultra Mech",
+  "cena_katalogowa": 599.99,
+  "najnizsza_cena": 599.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80051": {
+  "nazwa": "Monkie Kid's Mini Mech",
+  "cena_katalogowa": 189.99,
+  "najnizsza_cena": 189.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80054": {
+  "nazwa": "Megapolis City 5th Anniversary",
+  "cena_katalogowa": 779.99,
+  "najnizsza_cena": 759.99,
+  "najnizsza_data": "2026-10-20",
+  "najnizsza_sklep": "allegro"
+ },
+ "80055": {
+  "nazwa": "Monkie Kid's Team Power Truck",
+  "cena_katalogowa": 299.99,
+  "najnizsza_cena": 299.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80056": {
+  "nazwa": "Nine-Headed Beast",
+  "cena_katalogowa": 359.99,
+  "najnizsza_cena": 359.99,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "lego"
+ },
+ "80057": {
+  "nazwa": "Nezha's Ring of Fire Mech",
+  "cena_katalogowa": 469.99,
+  "najnizsza_cena": 469.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80058": {
+  "nazwa": "Celestial Pagoda",
+  "cena_katalogowa": 599.99,
+  "najnizsza_cena": 599.99,
+  "najnizsza_data": "2026-10-06",
+  "najnizsza_sklep": "lego"
+ },
+ "80065": {
+  "nazwa": "Erlang's Celestial Mech",
+  "cena_katalogowa": 339.99,
+  "najnizsza_cena": 339.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
+ },
+ "80066": {
+  "nazwa": "Mythical Creature Qilin",
+  "cena_katalogowa": 249.99,
+  "najnizsza_cena": 249.99,
+  "najnizsza_data": "2026-09-18",
+  "najnizsza_sklep": "lego"
  }
 }
