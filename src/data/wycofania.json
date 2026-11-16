@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-11-02",
+  "aktualizacja": "2026-11-16",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -1461,9 +1461,10 @@
    "nazwa": "Mieszkanie Petera Parkera",
    "seria": "Marvel",
    "elementy": 394,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Klimatyczne mieszkanie Petera to jeden z ciekawszych zestawów scenkowych Marvela, dlatego warto je kupić przed grudniowym końcem sprzedaży."
+   "uwagi": "Mieszkanie Petera Parkera zniknęło ze sklepu LEGO przed grudniowym terminem – kameralne scenki Marvela schodzą po cichu, a zapasy zostają u sprzedawców zewnętrznych.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-20 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 16.11"
   },
   {
    "numer": "76319",
@@ -2572,9 +2573,11 @@
    "seria": "Ninjago",
    "elementy": 869,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "status": "potwierdzone",
    "uwagi": "Smok skupienia to gratka dla kolekcjonerów smoczych konstrukcji, którzy wolą kupić teraz, niż później przepłacać u odsprzedawców.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41359_1024_1024/LEGO-71836-Ninjago-Arcysmok-skupienia.webp?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41359_1024_1024/LEGO-71836-Ninjago-Arcysmok-skupienia.webp?overlay=1",
+   "zrodlo": "lego.com dzial Ostatnie zestawy, 2026-11-16",
+   "potwierdzono": "2026-11-16"
   },
   {
    "numer": "71838",
@@ -4252,10 +4255,10 @@
    "nazwa": "Suknia Kopciuszka",
    "seria": "Disney",
    "elementy": 474,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Zestaw wisi w dziale ostatnich sztuk na lego.com – oficjalny sygnał, że z oferty zejdzie najpóźniej z końcem roku.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Suknia Kopciuszka wyprzedała się u LEGO przed zapowiadanym grudniem – zestawy sukien Disneya znikają szybciej niż reszta fali.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-20 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 16.11"
   },
   {
    "numer": "71438",
@@ -4272,10 +4275,10 @@
    "nazwa": "Przygody z interaktywną figurką Peach",
    "seria": "Super Mario",
    "elementy": 208,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Interaktywna linia Super Mario zwija się z końcem roku – LEGO oznaczyło zestaw w dziale ostatnich sztuk, a po niej przychodzi nowa generacja minifigurek.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Przygody z interaktywną figurką Peach zeszły ze sklepu LEGO przed terminem – po zamknięciu linii Super Mario końcówki nie wracają.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-20 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 16.11"
   },
   {
    "numer": "71494",
@@ -4476,6 +4479,106 @@
    "status": "potwierdzone",
    "uwagi": "Bolid F1 z sezonu 2024 dostał oznaczenie ostatnich sztuk – kolekcjonerzy padoku powinni skompletować stawkę przed zejściem fali.",
    "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+  },
+  {
+   "numer": "80040",
+   "nazwa": "Monkie Kid's Combi Mech",
+   "seria": "Monkie Kid",
+   "elementy": 277,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Najtańsze wejście w kończącą się linię Monkie Kid – mały mech do łączenia z większymi zestawami serii."
+  },
+  {
+   "numer": "80045",
+   "nazwa": "Monkey King Ultra Mech",
+   "seria": "Monkie Kid",
+   "elementy": 1705,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Największy mech serii i jeden z jej symboli – po zejściu linii z rynku takie flagowce drożeją najszybciej."
+  },
+  {
+   "numer": "80051",
+   "nazwa": "Monkie Kid's Mini Mech",
+   "seria": "Monkie Kid",
+   "elementy": 556,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Średni mech z końcówki linii – dostępny szeroko, ale bez następców, bo nowych zestawów Monkie Kid już nie będzie."
+  },
+  {
+   "numer": "80054",
+   "nazwa": "Megapolis City 5th Anniversary",
+   "seria": "Monkie Kid",
+   "elementy": 2330,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Rocznicowe Megapolis to największy zestaw linii (2330 elementów) – naturalny kandydat na kolekcjonerską pamiątkę po całej serii."
+  },
+  {
+   "numer": "80055",
+   "nazwa": "Monkie Kid's Team Power Truck",
+   "seria": "Monkie Kid",
+   "elementy": 712,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Drużynowa ciężarówka z kompletem bohaterów – dobry przekrój serii na pożegnanie, zanim zapasy się skończą."
+  },
+  {
+   "numer": "80056",
+   "nazwa": "Nine-Headed Beast",
+   "seria": "Monkie Kid",
+   "elementy": 757,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Dziewięciogłowa bestia to jeden z najbardziej charakterystycznych potworów serii – po wyprzedaży zostanie tylko rynek wtórny."
+  },
+  {
+   "numer": "80057",
+   "nazwa": "Nezha's Ring of Fire Mech",
+   "seria": "Monkie Kid",
+   "elementy": 1163,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Mech Nezhy z ognistym pierścieniem – efektowna konstrukcja ze schyłku linii, której LEGO już nie wznowi."
+  },
+  {
+   "numer": "80058",
+   "nazwa": "Celestial Pagoda",
+   "seria": "Monkie Kid",
+   "elementy": 1621,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Niebiańska pagoda to najbardziej architektoniczny zestaw serii – wyróżnia się na półce i kończy historię Monkie Kid z rozmachem."
+  },
+  {
+   "numer": "80065",
+   "nazwa": "Erlang's Celestial Mech",
+   "seria": "Monkie Kid",
+   "elementy": 806,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Mech Erlanga z rocznika 2025 – jeden z ostatnich zestawów, jakie linia w ogóle dostała."
+  },
+  {
+   "numer": "80066",
+   "nazwa": "Mythical Creature Qilin",
+   "seria": "Monkie Kid",
+   "elementy": 791,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "zrodlo": "stonewars.de 2026-11-09: koniec linii Monkie Kid, EOL 31.12.2026 poza Azja (w Azji 31.12.2027 przez LEGOLAND Szanghaj); Brickset/brickonomics.net podaja terminy 07/2027 i 12/2027, ktore StoneWars tlumaczy jako daty azjatyckie; komunikatu LEGO brak",
+   "uwagi": "Mityczny Qilin zamyka listę nowości Monkie Kid – nowych zestawów serii już nie zaplanowano."
   }
  ]
 }
