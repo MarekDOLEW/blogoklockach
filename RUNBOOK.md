@@ -19,6 +19,18 @@ Wszystkie dane serwisu trafiają do `src/data/` w repo, gałąź `main`.
 Push na `main` uruchamia build i deploy w Cloudflare automatycznie — strona
 odświeża się w ~2 minuty, nic więcej się nie klika.
 
+**Podgląd gałęzi (ustalone 16.11.2026).** Workers Builds buduje też każdą inną
+gałąź: push wgrywa wersję workera *bez wdrożenia* i daje jej stały adres
+`https://<gałąź>-blogoklockach.marek-dolewski-a9e.workers.dev` (w check-runie
+commitu na GitHubie „Preview Alias URL"; myślniki zamiast ukośników w nazwie
+gałęzi). Tak działa podgląd prototypu 1320:
+`https://prototyp-1320-blogoklockach.marek-dolewski-a9e.workers.dev`
+(gałąź `prototyp-1320`, opis w `materialy/audyt-szerokosc-2026-11-03.md`).
+Podgląd dzieli z produkcją R2 i trasy workera, więc nie testuj na nim
+formularza „Obserwuj cenę". Adresy `*.workers.dev` dostają `X-Robots-Tag:
+noindex` z `public/_headers` — reguła jest na razie tylko na gałęzi prototypu
+i wejdzie na `main` razem z nią.
+
 Runnery pushują same. **Ścieżka awaryjna** (gdy sesja nie ma dostępu do repo):
 runner oddaje gotowy plik w czacie → GitHub → `src/data/` → *Add file →
 Upload files* → przeciągnij → *Commit changes*.
