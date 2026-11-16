@@ -26,6 +26,11 @@
 //      przeleżało niezauważonych) — liczą się jak rozbieżność;
 //   3. wypisuje ceny, których nie ma w żadnym zweryfikowanym wpisie i które
 //      nie leżą na polskiej drabinie cenowej — kandydatów do sprawdzenia.
+//   4. test rynkowy w obie strony: rynek poniżej 50% RRP (zawyżona cena
+//      katalogowa albo fałszywa oferta) oraz rynek powyżej 200% RRP z co
+//      najmniej dwóch sklepów, liczony tylko dla bieżącej oferty (zaniżone
+//      RRP, upominek GWP odsprzedawany powyżej wyceny albo podszywka) —
+//      oba to raporty do ręcznego rozstrzygnięcia, nie automatyczne poprawki.
 //
 // Użycie:
 //   node scripts/kontrola-rrp.mjs           # raport
@@ -130,6 +135,87 @@ for (const r of rynkowe.slice(0, 30)) {
       ? `RRP potwierdzone, oferta sprawdzona przez człowieka ${potwDeal.data} (${potwDeal.kto}) → na stronie`
       : 'RRP potwierdzone → podejrzany rynek, UKRYTA na stronie do potwierdzenia w deale_potwierdzone.json';
   console.log(`  ${r.numer.padEnd(8)} katalog ${String(r.cena_katalogowa).padStart(8)} | rynek ${String(r.rynek).padStart(8)}  (${potw})`);
+}
+
+// Test rynkowy w drugą stronę (16.11.2026): rynek WIELOKROTNIE wyższy od ceny
+// katalogowej psuje rabat tak samo jak RRP zawyżone, tylko odwrotnie: na hubie
+// staje „cena powyżej katalogu", rabat wychodzi ujemny, a próg zakupu liczony
+// od RRP nie ma sensu.
+//
+// UWAGA przy rozstrzyganiu — trafienia mają TRZY różne przyczyny i tylko
+// pierwsza jest błędem do poprawienia:
+//   1. zaniżone RRP (cena katalogowa z niepewnego źródła) — popraw u źródła;
+//   2. upominek GWP, którego „cena katalogowa" to wycena LEGO („przybliżona
+//      wartość"), a sklepy odsprzedają go powyżej niej — tu RRP jest poprawne
+//      i NIE wolno go podnosić pod rynek (tak wygląda np. 40906 i 40899);
+//   3. oferta-podszywka albo zaślepka cenowa w feedzie — zgłoś Łowcy.
+// Kolumna po prawej mówi tylko, skąd wzięliśmy RRP, nie który to przypadek.
+//
+// Powód dopisania: 40887 SMART Play ma w sety.json 81,99 zł, a karta Empiku
+// (sprawdzona u źródła 16.11) to pojedynczy zestaw, 185 elementów, 299 zł;
+// Allegro 349 zł. Pierwszy test rynkowy go nie widział z DWÓCH powodów naraz:
+// patrzy wyłącznie w dół i chodzi tylko po katalog.json, a tego numeru tam
+// nie ma. Dlatego ten test idzie po feedzie i bierze cenę katalogową tą samą
+// drogą co strona: rrp_potwierdzone → sety → ceny_baza → katalog.
+//
+// Dwa sklepy są wymagane, bo pojedyncza oferta na marketplace bywa podszywką
+// albo zaślepką — dwie niezależne wysokie ceny to już rynek, nie wypadek.
+// To raport do ręcznego rozstrzygnięcia, nie automatyczna poprawka: właściwe
+// RRP ustala się u źródła (karta lego.com albo Brickset) i wpisuje do
+// rrp_potwierdzone.json.
+const PROG_ZANIZENIA = 2;
+const MIN_SKLEPOW_ZANIZENIE = 2;
+const MIESIECY_WSTECZ = 24;
+const cenaZKatalogu = new Map(wpisy.map((w) => [w.numer, w.cena_katalogowa]));
+const wpisKatalogu = new Map(wpisy.map((w) => [w.numer, w]));
+
+// Granica wieku jest tu najważniejsza. Pierwsza wersja tego testu (bez niej)
+// dała 848 trafień, a na górze listy stały zestawy sprzed lat: 10224 Ratusz
+// z 2012 roku ma 799,99 zł w katalogu i 4599 zł na rynku. To nie jest błąd
+// danych, tylko premia kolekcjonerska po wycofaniu — i gdyby test ją zgłaszał,
+// utopiłby prawdziwe przypadki w szumie. Druga wersja próbowała odsiać to
+// obecnością w katalog.json i też dała 848: katalog.json NIE jest bieżącą
+// ofertą lego.com, tylko pełnym katalogiem z rocznikami i statusem „eol".
+// Pytamy więc o zestawy, które realnie można dziś kupić w cenie katalogowej:
+// premiera w sety.json z ostatnich ${MIESIECY_WSTECZ} miesięcy, albo wpis
+// w katalogu z rocznikiem z tego okresu i bez statusu „eol".
+const dzis = new Date();
+const progPremiery = new Date(dzis.getFullYear(), dzis.getMonth() - MIESIECY_WSTECZ, 1)
+  .toISOString()
+  .slice(0, 7);
+const rokProgu = Number(progPremiery.slice(0, 4));
+const wBiezacejOfercie = (nr) => {
+  const premiera = sety[nr]?.premiera;
+  if (typeof premiera === 'string' && /^\d{4}-\d{2}$/.test(premiera)) return premiera >= progPremiery;
+  const k = wpisKatalogu.get(nr);
+  if (!k) return false;
+  return k.status !== 'eol' && typeof k.rok === 'number' && k.rok >= rokProgu;
+};
+
+const zanizone = [];
+for (const [nr, w] of Object.entries(feed)) {
+  if (nr === '_meta') continue;
+  const rrp = zweryfikowana(nr) ?? cenaZKatalogu.get(nr) ?? null;
+  if (!rrp) continue;
+  if (!wBiezacejOfercie(nr)) continue;
+  const ceny = SKLEPY_FEED.map((s) => w.oferty?.[s]).filter((c) => typeof c === 'number' && c > 0);
+  if (ceny.length < MIN_SKLEPOW_ZANIZENIE) continue;
+  const rynek = Math.min(...ceny);
+  if (rynek > rrp * PROG_ZANIZENIA) zanizone.push({ numer: nr, rrp, rynek, ile: ceny.length });
+}
+zanizone.sort((a, b) => b.rynek / b.rrp - a.rynek / a.rrp);
+console.log(`\nTest rynkowy odwrotny (najtańsza z co najmniej ${MIN_SKLEPOW_ZANIZENIE} ofert > ${PROG_ZANIZENIA * 100}% ceny katalogowej, tylko bieżąca oferta): ${zanizone.length} setów`);
+console.log(`Bieżąca oferta = premiera od ${progPremiery} albo rocznik katalogowy od ${rokProgu} bez statusu „eol" — bez tej granicy test zgłasza premię kolekcjonerską wycofanych zestawów (848 trafień), nie błąd danych.`);
+for (const r of zanizone.slice(0, 30)) {
+  const zrodlo = rrpPotwierdzone[r.numer]?.cena != null
+    ? 'RRP potwierdzone u źródła → rynek, nie RRP (upominek GWP? podszywka?)'
+    : sety[r.numer]?.cena_katalogowa != null
+      ? 'RRP z sety.json, niepotwierdzone → sprawdź cenę katalogową'
+      : cenyBaza[r.numer]?.cena_katalogowa != null
+        ? 'RRP z ceny_baza.json, niepotwierdzone → sprawdź cenę katalogową'
+        : 'RRP z katalog.json, niepotwierdzone → sprawdź cenę katalogową';
+  const krotnosc = (r.rynek / r.rrp).toFixed(1);
+  console.log(`  ${r.numer.padEnd(8)} katalog ${String(r.rrp).padStart(8)} | rynek ${String(r.rynek).padStart(8)} (x${krotnosc}, ofert: ${r.ile})  (${zrodlo})`);
 }
 
 if (naprawiaj && (rozbiezne.length || puste.length)) {
