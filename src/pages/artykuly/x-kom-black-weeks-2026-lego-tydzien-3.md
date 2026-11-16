@@ -36,4 +36,4 @@ W poniedziałek było ich trzynaście. Osiem zestawów x-kom sprzedaje już bez 
 
 <div class="karty-okazji" data-sety="76454,42175,10967,43303,43285,76336,60491,76923" data-bez-grup></div>
 
-Następna lista Black Weeks w x-komie pojawi się w poniedziałek. Wcześniejsze tygodnie: [pierwszy](/artykuly/x-kom-black-weeks-2026-lego/) i [drugi](/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/). Okazje ze wszystkich sklepów znajdziesz w [Promocjach LEGO](/promocje-lego/).
+Aktualna lista Black Weeks w x-komie: [tydzień 5 z kodem black-weeks5](/artykuly/x-kom-black-weeks-2026-lego-tydzien-5/). Wcześniejsze tygodnie: [pierwszy](/artykuly/x-kom-black-weeks-2026-lego/) i [drugi](/artykuly/x-kom-black-weeks-2026-lego-tydzien-2/). Okazje ze wszystkich sklepów znajdziesz w [Promocjach LEGO](/promocje-lego/).

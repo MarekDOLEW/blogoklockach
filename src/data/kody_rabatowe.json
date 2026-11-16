@@ -2,7 +2,7 @@
  "_meta": {
   "opis": "Aktywne kody rabatowe sklepów, które feed produktowy wlicza już w cenę (Media Expert podaje w feedzie cenę PO kodzie). Tabela cen i strony promocji pokazują przy takiej cenie kod i datę końca, żeby czytelnik nie zobaczył w sklepie wyższej kwoty bez wyjaśnienia. Wpis po dacie `do` jest ignorowany. Generuje scripts/me-kody.mjs.",
   "zrodlo": "https://www.mediaexpert.pl/zabawki/lego/lego/promocje_cena-z-kodem (Firecrawl, 2026-11-03)",
-  "zaktualizowano": "2026-11-03"
+  "zaktualizowano": "2026-11-16"
  },
  "mediaexpert": [
   {
@@ -150,6 +150,24 @@
     }
    },
    "uwagi": "06.11.2026: karty x-komu sprawdzone Firecrawlem (meta product:sale_price przy cenie z kodem). Kod obejmuje już tylko 5 z 13 zestawów; `zestawy` = te, przy których karta nadal pokazuje cenę z kodem (tylko to pole czyta kodRabatowy() i weryfikacja ofert). Pierwotna lista z mailingu 02.11 w `zestawy_z_listy`, ceny bez kodu w `bez_kodu`."
+  },
+  {
+   "kod": "black-weeks5",
+   "do": "2026-11-22",
+   "koniec_znany": true,
+   "zrodlo": "mailing x-kom (SalesMasters) 16.11.2026: od 8:00 w aplikacji, od 10:00 na stronie, do końca 22.11.2026",
+   "zestawy": {
+    "60470": 589,
+    "11507": 109.99,
+    "10349": 39.99,
+    "31214": 199.99,
+    "11379": 389,
+    "42224": 379,
+    "21066": 369,
+    "76463": 269,
+    "21061": 649,
+    "43020": 549
+   }
   }
  ]
 }

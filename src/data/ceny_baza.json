@@ -240,9 +240,9 @@
  "11507": {
   "nazwa": "Bukiet kwiatów Olivii Rodrigo",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 119.99,
-  "najnizsza_data": "2026-11-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 109.99,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "40872": {
   "nazwa": "Halloweenowa latarnia z dyni",
@@ -1906,9 +1906,9 @@
  "42224": {
   "nazwa": "Porsche 911 GT3 R Rexy AO Racing",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 379.99,
-  "najnizsza_data": "2026-11-14",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 379,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "75427": {
   "nazwa": "SMART Play: Pojedynek w sali tronowej i A-wing",
@@ -5509,9 +5509,9 @@
  "76463": {
   "nazwa": "Zamek Hogwart: skrzydło szpitalne",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 279.99,
-  "najnizsza_data": "2026-10-26",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 269,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "76460": {
   "nazwa": "Zamek Hogwart: Ceremonia przydziału",
@@ -7156,9 +7156,9 @@
  "10349": {
   "nazwa": "Wesołe roślinki",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 46.31,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 39.99,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "76425": {
   "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
@@ -7965,9 +7965,9 @@
  "11379": {
   "nazwa": "Księgarnia — zakątek z książkami",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 409.99,
-  "najnizsza_data": "2026-11-05",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 389,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "21333": {
   "nazwa": "Gwiaździsta noc Vincenta van Gogha",
@@ -8105,9 +8105,9 @@
  "21061": {
   "nazwa": "Notre-Dame w Paryżu",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 719,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 649,
+  "najnizsza_data": "2026-11-16",
+  "najnizsza_sklep": "xkom"
  },
  "21062": {
   "nazwa": "Fontanna di Trevi",
