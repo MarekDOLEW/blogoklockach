@@ -1,0 +1,49 @@
+---
+// Boks ceny w trzeciej kolumnie hero huba (prototyp 1320, 03.11.2026). Na
+// szerokim ekranie zastępuje pasek „od X zł → Do <sklep>" pod tytułem (PasekCeny
+// wariant „gora", który poniżej 1100 px dalej stoi — przełącza to CSS, nie JS).
+// Reguły te same co w pasku i tabeli: przycisk prowadzi do najtańszego sklepu,
+// do którego mamy link; afiliacja nie zmienia kolejności; Ceneo pomijamy.
+// Lista trzech sklepów jest informacyjna (bez linków) — pełna tabela z linkami
+// stoi niżej pod kotwicą #ceny. Link do naszego tekstu o zestawie zostaje
+// w ramce pod hero (odsylacz-artykul), żeby nie stał dwa razy obok siebie.
+import { fmtCena, nazwaSklepu, relLinku, linkAfiliacyjny, kodRabatowy, terminKodu } from '../lib/oferty.js';
+import { dataPl } from '../lib/daty.js';
+const { nr, oferty = [], cenaKatalogowa = null, minimum = null } = Astro.props;
+const z = oferty.filter((o) => o.sklep !== 'ceneo' && o.cena > 0);
+const zLinkiem = z.filter((o) => linkAfiliacyjny(o.sklep, nr));
+const najlepsza = zLinkiem.length ? zLinkiem.reduce((a, b) => (b.cena < a.cena ? b : a)) : null;
+const posortowane = [...z].sort((a, b) => a.cena - b.cena);
+const liczba = new Set(z.map((o) => o.sklep)).size;
+const rabat = najlepsza && cenaKatalogowa ? Math.round((1 - najlepsza.cena / cenaKatalogowa) * 100) : 0;
+const kod = najlepsza ? kodRabatowy(najlepsza.sklep, nr, najlepsza.cena) : null;
+const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza.cena;
+---
+{najlepsza && (
+  <aside class="karta set-boks" aria-label="Najlepsza cena dziś">
+    <p class="set-boks__etykieta">Najtaniej dziś</p>
+    <div class="set-boks__ceny">
+      <span class="set-boks__cena">{fmtCena(najlepsza.cena)}</span>
+      {cenaKatalogowa && cenaKatalogowa > najlepsza.cena && <span class="set-boks__kat">{fmtCena(cenaKatalogowa)}</span>}
+      {rabat >= 3 && <span class="badge-rabat-mini">−{rabat}%</span>}
+    </div>
+    {kod && <span class="kod-rabatowy">z kodem <strong>{kod.kod}</strong> {terminKodu(kod)}</span>}
+    <p class="set-boks__sklepy">{liczba === 1 ? 'w 1 sklepie' : `w ${liczba} sklepach`}{najlepsza.data && <> · dane z {dataPl(najlepsza.data)}</>}</p>
+    <a class="cta" href={`/idz/${najlepsza.sklep}/${nr}`} target="_blank" rel={relLinku(najlepsza.sklep, nr)}>Sprawdź w {nazwaSklepu(najlepsza.sklep)} →</a>
+    {posortowane.length > 1 && (
+      <ul class="set-boks__lista">
+        {posortowane.slice(0, 3).map((o, i) => (
+          <li class={i === 0 ? 'najtanszy' : undefined}>
+            <span>{nazwaSklepu(o.sklep)}</span>
+            <span class="cena">{fmtCena(o.cena)}</span>
+          </li>
+        ))}
+      </ul>
+    )}
+    <a class="set-boks__wszystkie" href="#ceny">Porównanie wszystkich cen ↓</a>
+    {minimumWarte && (
+      <p class="set-boks__min">Nasze minimum: <strong>{fmtCena(minimum.cena)}</strong>{minimum.sklep && <> ({nazwaSklepu(minimum.sklep)}{minimum.data && <>, {dataPl(minimum.data)}</>})</>}.</p>
+    )}
+    <p class="set-boks__disclosure">Przycisk to link afiliacyjny – nie zmienia ceny ani kolejności sklepów.</p>
+  </aside>
+)}

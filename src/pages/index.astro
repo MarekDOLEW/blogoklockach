@@ -216,7 +216,8 @@ const artykuly = Object.entries({
   // aktualności mają własny rząd pod slajderem – tu by się powtórzyły
   .filter((m) => !jestAktualnoscia(m))
   .sort(najnowszePierwsze)
-  .slice(0, 6)
+  // 8 zajawek: na szerokim ekranie dwa rzędy po cztery; poniżej 1200 px CSS chowa dwie ostatnie
+  .slice(0, 8)
   .map((m) => zajawkaArtykulu(m));
 
 // ── Aktualności pod slajderem (Marek 27.09.2026): akcje sklepów i kampanie
@@ -262,6 +263,16 @@ const krotkiOpis = (nr) => {
 const ekskluzywny = (s) => Boolean(s.ekskluzyw || wpisKatalogu(s.nr)?.ekskluzyw);
 
 const MAKS_AKTUALNOSCI = 6;
+
+// ── Boks obok slajdera (prototyp 1320, 03.11.2026): zestawy, które DZIŚ zaliczyły
+// nowe minimum cenowe (poza tymi ze slajdera). Gdy jest ich mniej niż trzy, boks
+// pokazuje największe rabaty dnia. Linki prowadzą na huby, nie do sklepów –
+// o sklepie decyduje tabela huba, więc limit Allegro tu nie wchodzi w grę.
+const pozaSlajderem = (s) => !wSlajderze.has(s.nr) && s.foto;
+const noweMinimaBoks = wpisyPewne.filter((s) => noweMinimumDzis(s) && pozaSlajderem(s)).sort((a, b) => rabat(b) - rabat(a)).slice(0, 5);
+const boks = noweMinimaBoks.length >= 3
+  ? { tytul: 'Nowe minima cenowe', opis: 'Najniższe ceny w naszych notowaniach, zaliczone w ostatnim przebiegu.', lista: noweMinimaBoks }
+  : { tytul: 'Największe rabaty dziś', opis: 'Rabat liczony od ceny katalogowej LEGO, nie od ceny przekreślonej.', lista: zRabatem.filter(pozaSlajderem).slice(0, 5) };
 
 // ── Wejścia do działów (podgląd 27.09.2026): Nowości / Wycofania / Artykuły z licznikami ──
 // ta sama reguła co /nowosci/: premiery od dwóch miesięcy wstecz + zapowiedzi
@@ -334,6 +345,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
   <div class="podglad-widok">
   <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO – rabaty liczone od cen katalogowych</h1>
 
+  <div class="glowna-gora">
   {dealeDnia.length > 0 && (
     <section class="deale-slajder karta" aria-roledescription="karuzela" aria-label="Deale dnia">
       <div class="slajder-tor" data-slajder-tor tabindex="0">
@@ -407,11 +419,25 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       )}
     </section>
   )}
-
-
-
-
-
+  {boks.lista.length > 0 && (
+    <aside class="karta boks-minima" aria-label={boks.tytul}>
+      <h2 class="boks-minima__naglowek"><span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>{boks.tytul}</h2>
+      <p class="boks-minima__opis">{boks.opis}</p>
+      <ul class="boks-minima__lista">
+        {boks.lista.map((s) => (
+          <li>
+            <a href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img class="boks-minima__foto" {...obrazStaly(s.foto, 130, 260)} alt="" loading="lazy" width="56" height="56" /></a>
+            <div>
+              <a class="boks-minima__nazwa" href={`/zestaw/${s.nr}/`} target="_blank" rel="noopener">LEGO {s.nr} {s.nazwa}</a>
+              <span class="boks-minima__ceny"><span class="boks-minima__cena">{fmtCena(najlepszaCena(s))}</span><span class="badge-rabat-mini">−{rabat(s)}%</span><s>{fmtCena(s.cena_katalogowa)}</s></span>
+            </div>
+          </li>
+        ))}
+      </ul>
+      <p class="boks-minima__stopka"><a href="/promocje-lego/">Wszystkie promocje →</a></p>
+    </aside>
+  )}
+  </div>
 
   {listingDobre.length > 0 && (
     <section class="sekcja sekcja--trzy-promocje" aria-label="Dziś w dobrej cenie">
@@ -503,7 +529,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         <h2>Ostatnie artykuły</h2>
       </div>
-      <div class="zajawki">
+      <div class="zajawki zajawki--osiem">
         {artykuly.map((a) => <ZajawkaArtykulu zajawka={a} />)}
       </div>
       <p class="sekcja-stopka"><a class="przycisk przycisk--duzy" href="/artykuly/">Zobacz wszystkie wpisy →</a></p>
@@ -517,7 +543,7 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
         <h2>Zestawy pod lupą</h2>
       </div>
       <p>Zestawy, które dziś są w dobrej cenie, opisane przez redakcję: dlaczego warto je mieć, przy jakiej cenie brać i na co uważać.</p>
-      <div class="zajawki zajawki--zwarte">
+      <div class="zajawki zajawki--zwarte zajawki--trzy">
         {postyDealowe.map((z) => <ZajawkaArtykulu zajawka={z} />)}
       </div>
       <p class="sekcja-stopka">
