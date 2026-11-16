@@ -167,6 +167,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-16 09:05 · RADAR · Do zrobienia
+
+**zrzut Empiku · 16.11** — Zrzut wszedł (commit 8d59719, 4575 cen): **880 zmian cen**, 30 ofert zdjętych jako niedostępne, **103 zestawy, w których Empik jest teraz najtańszym sklepem**, 2 nowe rekordy cenowe z Empiku (76786 Morticia's Cottage 348,99 → 332,99 i 40887).
+**Mamy?** — tak, dane są świeże. **Ich okazja się nie potwierdziła:** faniklockow podali 76321 za 206 zł w Empiku, a dzisiejszy odczyt daje **227,73 zł** — powyżej ceny katalogowej (209,99) i drożej niż u nich. To piąty raz w trzy tygodnie, gdy ich post dealowy nie broni się przy sprawdzeniu (po 21333 u Smyka, 77076 za 89 zł, 76329 i „debiucie" 11390).
+**Zrobić:** — nic; dane po zrzucie są aktualne, a pozycję o drugim odczycie Empiku w tygodniu można zamknąć — różnica nie wynikała z naszego opóźnienia, tylko z ich błędnej ceny.
+**Kto:** — Code (dane, strona)
+
+**dane · 16.11** — **40887 SMART Play: Ditto jako Squirtle** ma u nas cenę katalogową **81,99 zł**, a rynek stoi na **299 zł (Empik)** i 349 zł (Allegro) — czyli 3,6 raza wyżej niż „katalog".
+**Mamy?** — błąd jest po naszej stronie i został sprawdzony u źródła: karta Empiku to **pojedynczy zestaw 40887, 185 elementów, 299,00 zł** (nie pakiet), a w `rrp_potwierdzone.json` tego numeru nie ma, więc 81,99 pochodzi z niepewnego źródła. Na lego.com nie mamy dla niego adresu, więc właściwej ceny katalogowej **nie znam** i jej nie zgaduję.
+**Zrobić:** — ustalić RRP u źródła (karta lego.com albo Brickset) i wpisać do `rrp_potwierdzone.json`; do tego czasu hub tego zestawu pokazuje nonsensowną „cenę powyżej katalogu".
+**Kto:** — Code (dane, strona)
+
+**kontrola · 16.11** — `scripts/kontrola-rrp.mjs` ma test rynkowy **tylko w jedną stronę**: „rynek < 50% ceny katalogowej" (dziś 12 setów). Odwrotnego przypadku — rynek **wielokrotnie wyższy** od katalogu, czyli zaniżonego RRP — nie łapie nic.
+**Mamy?** — nie: 40887 przeszedł przez wszystkie kontrole i wyszedł dopiero z ręcznego porównania rekordów po zrzucie.
+**Zrobić:** — dopisać do `kontrola-rrp.mjs` drugi próg (np. rynek > 200% ceny katalogowej przy co najmniej dwóch sklepach) i policzyć, ile takich wpisów już mamy — zaniżone RRP psuje rabat tak samo jak zawyżone, tylko w drugą stronę.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-16 08:20 · RADAR · Do zrobienia
 
 **kalendarz · 16.11** — Okno polybagów 30720 i 30762 (9–15.11, próg 165 zł z właściwej kolekcji) zamknęło się wczoraj; 40906 i 40898 trwają do 20.11.
