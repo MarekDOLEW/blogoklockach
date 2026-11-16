@@ -5749,6 +5749,11 @@
     "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
     "data": "06.11.2026"
   },
+  "75466": {
+    "cena": 299.99,
+    "zrodlo": "lego.com/pl-pl — karta produktu „Wkrótce dostępne” (Firecrawl, 16.11.2026; cenę zgłosił Piotr w tekście 0048)",
+    "data": "16.11.2026"
+  },
   "_meta": {
     "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
     "pierwszenstwo": "Najwyzsze ze wszystkich zrodel. cenaKatalogowaSetu() czyta ten plik jako pierwszy, przed sety.json, ceny_baza.json i katalog.json. Zaden backfill ani runner nie moze nadpisac wpisu z tego pliku.",
