@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-10",
+  "zaktualizowano": "2026-11-16",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -102581,6 +102581,2289 @@
    {
     "q": "Jaki zestaw LEGO Jurassic World warto kupić zamiast tego modelu?",
     "a": "Triceratops i zasadzka z pick-upem 76950 w podobnej cenie ma dwa pojazdy i cztery minifigurki, ale tylko jednego dinozaura; 76951 stawia na transport i klatkę. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "10278": {
+  "seria": "Icons",
+  "nazwa": "Posterunek policji",
+  "elementy": 2923,
+  "akapity": [
+   "Posterunek policji 10278 dołączył w 2021 roku do kolekcji budynków modułowych LEGO, przeznaczonej dla dorosłych miłośników architektury z klocków. Oprócz komisariatu trzykondygnacyjny budynek obejmuje sklep z pączkami i kiosk z gazetami, a do złożenia są 2923 elementy.",
+   "Wnętrze posterunku urządzono pod kątem śledztwa. Jest tu szafka na dowody, cela więzienna, pokój przesłuchań oraz tablica spraw kryminalnych z czerwonymi liniami łączącymi poszlaki. Śledczym przydaje się też magnetofon szpulowy. Płytki z nadrukami imitują billboard, telefon i maszynę do pisania. Wśród pięciu minifigurek jest policjant w stylu lat 40.",
+   "Schody zbudowane z klocków prowadzą od parteru aż na najwyższe piętro. Każdą kondygnację można łatwo odczepić, żeby zajrzeć do środka, a dzięki modułowej budowie da się też zmieniać rozkład pomieszczeń. Fanów kolekcji może zainteresować kilka nowych części: dwa elementy w bardzo rzadkim kolorze nugatowym, cztery zwierzęce głowy zdobiące gzyms i odwrócony dwukolorowy łuk. Budynek sięga około 37 cm wysokości razem z antenami i pasuje do innych budynków modułowych LEGO. Album z instrukcją zawiera poradnik budowania i ciekawostki o projekcie.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11378/\">LEGO 11378 Samolot pasażerski Douglas DC-3 PAN AM</a> (949,99 zł katalogowo) i <a href=\"/zestaw/11374/\">LEGO 11374 Automat do gry pinball</a> (899,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10278",
+   "Nazwa": "Posterunek policji",
+   "Seria": "Icons",
+   "Premiera": "2021",
+   "Liczba elementów": "2923",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "5 minifigurek, w tym policjant z lat 40.",
+   "Cena katalogowa w Polsce": "949,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "kolekcja budynków modułowych LEGO",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował Posterunek policji 10278?",
+    "a": "Ostatnia cena katalogowa w Polsce wynosiła 949,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie pomieszczenia ma posterunek?",
+    "a": "Celę więzienną i pokój przesłuchań, a do śledztwa służą też szafka na dowody i tablica spraw."
+   },
+   {
+    "q": "Czy w zestawie pojawiły się nowe elementy?",
+    "a": "Tak: dwa elementy w kolorze nugatowym, cztery zwierzęce głowy na gzymsie i odwrócony dwukolorowy łuk."
+   },
+   {
+    "q": "Kiedy posterunek dołączył do kolekcji budynków modułowych?",
+    "a": "Dołączył w 2021 roku."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Do posterunku pasują pozostałe budynki modułowe LEGO z kategorii Icons. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10282": {
+  "seria": "Icons",
+  "nazwa": "But adidas Originals Superstar",
+  "elementy": 731,
+  "akapity": [
+   "But adidas Originals Superstar 10282 to model LEGO dla dorosłych, który pojawił się w 2021 roku i odtwarza tenisówkę z ponad 50-letnią historią: od ikony koszykówki po symbol streetwearu. Producent przedstawiał go jako pierwszy zestaw pozwalający zbudować kolekcjonerską replikę tej kultowej tenisówki.",
+   "Replika oddaje typowe detale pierwowzoru: zaokrąglony nosek typu shell toe, logo z trzema liśćmi, charakterystyczne trzy paski i logo marki na języku. Prawdziwe sznurowadła nadają jej realistyczny wygląd, a wkładka ma podpis jak w oryginalnym bucie. Z pudełka powstaje jeden but, prawy albo lewy, do wyboru: 17 dodatkowych elementów pozwala zbudować dowolną stronę, a z drugiego zestawu można złożyć parę.",
+   "Ukończona tenisówka ma około 27 cm długości. Stoi na podstawce z plakietką informacyjną, a samo opakowanie zestawu wygląda jak prawdziwe pudełko na buty. Tenisówkę można też spersonalizować przy użyciu innych klocków i elementów LEGO. Komplet obejmuje 731 elementów. Model należał do kolekcji LEGO dla dorosłych, przeznaczonej dla fanów marki adidas, kolekcjonerów modowych akcesoriów i dorosłych miłośników klocków.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 18. co do wielkości. Za element płaci się tu katalogowo 0,59 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "10282",
+   "Nazwa": "But adidas Originals Superstar",
+   "Premiera": "2021",
+   "Liczba elementów": "731",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "429,99 zł",
+   "Cena katalogowa za element": "0,59 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO dla dorosłych, adidas Originals",
+   "Dystrybucja": "sprzedaż detaliczna",
+   "Seria": "LEGO Icons"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 10282?",
+    "a": "LEGO ustaliło ją na 429,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy można zbudować lewy i prawy but?",
+    "a": "Jeden zestaw daje jeden but, prawy albo lewy; na parę potrzeba dwóch zestawów."
+   },
+   {
+    "q": "Jak wygląda opakowanie zestawu?",
+    "a": "Jak prawdziwe pudełko na buty."
+   },
+   {
+    "q": "Jak prezentuje się gotowy but?",
+    "a": "Stoi na podstawce z plakietką informacyjną."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Pokrewne są inne modele LEGO dla dorosłych z kategorii Icons. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10283": {
+  "seria": "Icons",
+  "nazwa": "Wahadłowiec Discovery NASA",
+  "elementy": 2354,
+  "akapity": [
+   "Prom Discovery brał udział w największej liczbie misji spośród wszystkich wahadłowców, a model LEGO o numerze 10283 upamiętnia go razem z misją STS-31 z 1990 roku. Z 2354 elementów zestawu, wprowadzonego w 2021 roku, powstają dwa obiekty: wahadłowiec i kosmiczny teleskop Hubble’a, który podczas tej misji trafił na orbitę.",
+   "Funkcje odtwarzają pracę załogi. Ładownia się otwiera i mieści teleskop, podwozie można wysunąć, sterolotki zmieniają ułożenie, a mechaniczne ramię da się przygotować do pracy. Otwierany kokpit odsłania kabinę dowódcy i załogi z pięcioma miejscami. Teleskop Hubble’a ma ruchome panele słoneczne i zamykaną klapę przysłony, podobnie jak oryginał zbudowany przez NASA we współpracy z Europejską Agencją Kosmiczną.",
+   "Kilka podstawek pozwala ustawić wahadłowiec i teleskop razem albo osobno. Sam prom ma około 54 cm długości i 34 cm szerokości. Prawdziwy teleskop zarejestrował obrazy z ponad 5000 galaktyk oddalonych nawet o 13,2 miliarda lat świetlnych, a prom Discovery pomagał także przy budowie Międzynarodowej Stacji Kosmicznej.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 4. co do wielkości. Za element płaci się tu katalogowo 0,37 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11374/\">LEGO 11374 Automat do gry pinball</a> (899,99 zł katalogowo) i <a href=\"/zestaw/11386/\">LEGO 11386 SpongeBob Kanciastoporty: Bikini Dolne</a> (899,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10283",
+   "Nazwa": "Wahadłowiec Discovery NASA",
+   "Seria": "Icons",
+   "Premiera": "2021",
+   "Liczba elementów": "2354",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "869,99 zł",
+   "Cena katalogowa za element": "0,37 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO dla dorosłych, NASA",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile LEGO liczyło za wahadłowiec Discovery?",
+    "a": "Kosztował 869,99 zł w cenie katalogowej. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co oprócz wahadłowca można zbudować?",
+    "a": "Kosmiczny teleskop Hubble’a z ruchomymi panelami słonecznymi."
+   },
+   {
+    "q": "O jakiej misji przypomina model?",
+    "a": "O STS-31 z 1990 roku, podczas której teleskop Hubble’a trafił na orbitę."
+   },
+   {
+    "q": "Czego dokonał prawdziwy prom Discovery?",
+    "a": "Brał udział w największej liczbie misji spośród wahadłowców i pomagał przy budowie Międzynarodowej Stacji Kosmicznej."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Icons w podobnej cenie?",
+    "a": "Posterunek policji 10278 z tego samego roku kosztował 949,99 zł przy 2923 elementach, ale to budynek modułowy, a nie model techniki kosmicznej. Wahadłowiec był o 80 zł tańszy i ma mniej elementów. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10284": {
+  "seria": "Icons",
+  "nazwa": "Camp Nou – FC Barcelona",
+  "elementy": 5509,
+  "akapity": [
+   "W zestawie 10284 z 2021 roku LEGO odtworzyło z 5509 elementów Camp Nou, stadion FC Barcelony. Widać krytą trybunę, trybuny boczne ze słynnym mottem „Més Que Un Club” (Więcej niż klub), stanowiska dla dziennikarzy i murawę.",
+   "Detale przypominają dzień meczowy. Jest tunel dla zawodników, wejście dla VIP-ów i tablica wyników do samodzielnego złożenia, a naklejki dodają znaki Barçy i flagę Katalonii. Flagi w barwach klubu wzmacniają ten efekt. Transparent z rokiem 1899 przypomina datę założenia klubu, a całość nawiązuje do ponad siedmiu dekad historii klubu. Jest też miniaturowy autokar drużyny, uwielbiany przez kibiców.",
+   "Konstrukcja dzieli się na pięć sekcji, co ułatwia dostęp do wszystkich obszarów stadionu. Gotowy stadion ma około 20 cm wysokości, 49 cm szerokości i 46 cm głębokości. W albumie z instrukcjami znajduje się historia klubu i stadionu oraz wywiad z projektantem LEGO, który przygotował ten model. Stadion powstał z myślą o dorosłych kibicach FC Barcelony i zbieraczach piłkarskich pamiątek.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/11377/\">LEGO 11377 Władca pierścieni: Minas Tirith</a> (8278 el.). Za element płaci się tu katalogowo 0,28 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11370/\">LEGO 11370 Stranger Things: Dom Creelów</a> (1 199,99 zł katalogowo) i <a href=\"/zestaw/11371/\">LEGO 11371 Ulica handlowa</a> (1 079,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10284",
+   "Nazwa": "Camp Nou – FC Barcelona",
+   "Seria": "Icons",
+   "Premiera": "2021",
+   "Liczba elementów": "5509",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 549,99 zł",
+   "Cena katalogowa za element": "0,28 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO dla dorosłych, FC Barcelona",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano zestaw 10284?",
+    "a": "W polskim sklepie LEGO kosztował 1 549,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaka jest cena jednego elementu?",
+    "a": "Wychodzi 0,28 zł; przy ponad pięciu tysiącach elementów wskaźnik pomaga jedynie zestawić ten stadion z innymi dużymi budowlami."
+   },
+   {
+    "q": "Jak podzielono model?",
+    "a": "Na pięć sekcji, które ułatwiają dostęp do wszystkich obszarów stadionu."
+   },
+   {
+    "q": "Jaki rok upamiętnia transparent?",
+    "a": "1899, czyli rok założenia FC Barcelony."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Najbliżej są inne duże modele budowli dla dorosłych z serii Icons. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10289": {
+  "seria": "Icons",
+  "nazwa": "Strelicja królewska",
+  "elementy": 1173,
+  "akapity": [
+   "Strelicja królewska 10289 to wersja z klocków rośliny, która w naturze dorasta nawet do dwóch metrów i bywa nazywana jednym z najpiękniejszych kwiatów na świecie. Wprowadzona w 2021 roku, sięga około 46 cm: tyle mierzy najwyższa odnoga zakończona liściem. Budowa wymaga 1173 elementów, a zestaw oznaczono jako 18+. Gdy model wchodził do sprzedaży, strelicja należała do serii Creator Expert, którą LEGO później zastąpiło nazwą Icons.",
+   "Strelicja stoi w czarnej doniczce zbudowanej z klocków, o średnicy około 13 cm. Kwiaty i liście mają regulowane mocowania, więc każdą łodygę da się ustawić w wybranej pozycji i stworzyć własną aranżację, którą później można dowolnie zmieniać. Przy delikatnym ruchu powietrza model kołysze się jak prawdziwa roślina.",
+   "Ciekawostką są nietypowe zastosowania znanych części. Pręciki kwiatów tworzą fioletowe miecze LEGO, które mogą zaskoczyć gości przyglądających się modelowi. Strelicji nie trzeba podlewać, więc może zdobić dom albo biuro bez żadnej pielęgnacji. Strelicja dołączyła do botanicznej kolekcji LEGO, inspirowanej naturą, jako pojedyncza, wysoka roślina w doniczce.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "10289",
+   "Nazwa": "Strelicja królewska",
+   "Seria": "Icons",
+   "Premiera": "2021",
+   "Liczba elementów": "1173",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "479,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "kolekcja botaniczna LEGO",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie oferowano Strelicję królewską?",
+    "a": "Katalogowa cena w Polsce: 479,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki wskaźnik daje przeliczenie na element?",
+    "a": "Około 0,41 zł; pozwala jedynie porównać ten model z innymi roślinami z kolekcji botanicznej."
+   },
+   {
+    "q": "Z jakich nietypowych części zbudowano kwiat?",
+    "a": "Z fioletowych mieczy LEGO, które tworzą pręciki."
+   },
+   {
+    "q": "Jakiej pielęgnacji wymaga model?",
+    "a": "Żadnej, bo strelicji z klocków nie trzeba podlewać."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Do tej samej kolekcji botanicznej należą Bukiet kwiatów 10280 i Drzewko bonsai 10281. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10293": {
+  "seria": "Icons",
+  "nazwa": "Wizyta Świętego Mikołaja",
+  "elementy": 1445,
+  "akapity": [
+   "Wigilijny wieczór w rodzinnym domu, do którego kominem zjeżdża Święty Mikołaj, przedstawia zestaw 10293. W kolekcji Zimowa wioska była nowością 2021 roku, przeznaczoną dla dorosłych i rodzin, a do zbudowania jest 1445 elementów.",
+   "Rodzinę tworzą tata, mama i dziewczynka, a czwartą minifigurką jest sam Mikołaj, który zsuwa się przez wielki komin prosto do kominka. Na niego czekają talerz ciasteczek, mleko i miejsce przy stole, a na kominku wiszą dwie skarpety. Prezenty ukryto w różnych częściach domu. Cała rodzina zasiada do świątecznych potraw przy blasku świec, a w kuchni stoi mikser zbudowany z klocków.",
+   "Choinka ma świecący klocek: wystarczy nacisnąć gwiazdę na czubku, by zapalić światełka, a baterię dołączono do zestawu. Dach zdobią czerwono-zielone gałązki ostrokrzewu, a uzupełnieniem sceny jest skrzynka na listy. Tylną część dachu można odsunąć, żeby sięgnąć do sypialni na piętrze, w której dziewczynka śni o pierniczkach. Domek ma około 19 cm wysokości, 27 cm szerokości i 16 cm głębokości i wygląda dobrze z każdej strony.",
+   "Gdyby stanął obok 22 zestawów LEGO Icons z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,33 zł, przy typowych dla serii 0,45 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/11372/\">LEGO 11372 Jesienny ogród z chatką</a> (469,99 zł katalogowo) i <a href=\"/zestaw/11383/\">LEGO 11383 Rezydencja burmistrzyni</a> (469,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "10293",
+   "Nazwa": "Wizyta Świętego Mikołaja",
+   "Seria": "Icons",
+   "Premiera": "2021",
+   "Liczba elementów": "1445",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "4 minifigurki (tata, mama, dziewczynka, Święty Mikołaj)",
+   "Cena katalogowa w Polsce": "479,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "dekoracyjny",
+   "Kolekcja / system": "Zimowa wioska",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miała Wizyta Świętego Mikołaja?",
+    "a": "Polska cena katalogowa: 479,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak zapalić światełka na choince?",
+    "a": "Wystarczy nacisnąć gwiazdę na czubku; świecący klocek zasila dołączona bateria."
+   },
+   {
+    "q": "Kto mieszka w świątecznym domku?",
+    "a": "Rodzina: tata, mama i dziewczynka. Czwartą minifigurką jest Święty Mikołaj."
+   },
+   {
+    "q": "Jak dostać się do sypialni na piętrze?",
+    "a": "Tylną część dachu można odsunąć."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Icons?",
+    "a": "Wizyta Świętego Mikołaja należy do Zimowej wioski, kolekcji modeli dla dorosłych z zimową wiejską scenerią. <a href=\"/serie/icons/\">Zobacz wszystkie zestawy LEGO Icons</a>"
+   }
+  ]
+ },
+ "10944": {
+  "seria": "DUPLO",
+  "nazwa": "Lot promem kosmicznym",
+  "elementy": 23,
+  "akapity": [
+   "W zestawie DUPLO Lot promem kosmicznym 10944 z 2021 roku najmłodsi budują prom kosmiczny z otwieranym kadłubem oraz łazik z kręcącymi się kółkami. Załogę tworzą dwie figurki: astronauta i astronautka. Łazik ma obrotowy radar na dachu, a uzupełnieniem wyprawy jest ruchoma drabina.",
+   "Pudełko zawiera 23 duże klocki z linii DUPLO Town, przeznaczone dla dzieci od drugiego roku życia. Prom można zbudować i na niby wystrzelić na orbitę, bawiąc się w odkrywców razem z rodzicami lub kolegami. Gotowa zabawka sięga około 20 cm, a jej elementy da się układać na różne sposoby i łączyć z innymi modelami DUPLO Town. Obrazkowa instrukcja opowiada przy tym krótką historyjkę z udziałem modeli z pudełka."
+  ],
+  "metryka": {
+   "Numer": "10944",
+   "Nazwa": "Lot promem kosmicznym",
+   "Seria": "DUPLO",
+   "Premiera": "2021",
+   "Liczba elementów": "23",
+   "Wiek": "2+",
+   "Minifigurki / postacie": "2 figurki (astronauta i astronautka)",
+   "Cena katalogowa w Polsce": "84,99 zł",
+   "Cena katalogowa za element": "3,70 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DUPLO Town",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano Lot promem kosmicznym 10944?",
+    "a": "LEGO wyceniło go na 84,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak wypada cena w przeliczeniu na klocek?",
+    "a": "Daje około 3,70 zł, ale przy dużych klockach DUPLO takie przeliczenie mówi niewiele."
+   },
+   {
+    "q": "Czym jeżdżą astronauci?",
+    "a": "Łazikiem z obrotowym radarem."
+   },
+   {
+    "q": "Od ilu lat jest ten zestaw?",
+    "a": "Ma oznaczenie 2+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DUPLO?",
+    "a": "Pokrewne są pozostałe zestawy DUPLO Town z pojazdami i figurkami, z którymi prom łączy się bez przeszkód. <a href=\"/serie/duplo/\">Zobacz wszystkie zestawy LEGO DUPLO</a>"
+   }
+  ]
+ },
+ "11013": {
+  "seria": "Classic",
+  "nazwa": "Kreatywne przezroczyste klocki",
+  "elementy": 500,
+  "akapity": [
+   "W zestawie LEGO Classic 11013 głównym materiałem są przezroczyste klocki w różnych kolorach, a towarzyszą im klasyczne klocki, oczy i kółka. Pudełko z 2021 roku zawiera 500 elementów i pomysły na osiem modeli: dwa ptaszki, lwa, żółwia, robota, jednorożca, czarodzieja z biurkiem pełnym eliksirów oraz rybkę na tle rafy koralowej.",
+   "Elementy są zapakowane w woreczki, a każdy zawiera części do dwóch modeli, więc można zacząć od wybranej pary. Proste wskazówki pomagają czterolatkom w pierwszych budowlach, a po nich zostaje komplet do swobodnego tworzenia i łączenia z innymi klockami LEGO. Osiem modeli to tylko punkt wyjścia: dodatkowe klocki z pudełka czekają na własne pomysły, a budować można samodzielnie albo wspólnie z przyjaciółmi i domownikami."
+  ],
+  "metryka": {
+   "Numer": "11013",
+   "Nazwa": "Kreatywne przezroczyste klocki",
+   "Seria": "Classic",
+   "Premiera": "2021",
+   "Liczba elementów": "500",
+   "Wiek": "4+",
+   "Cena katalogowa w Polsce": "149,99 zł",
+   "Cena katalogowa za element": "0,30 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Classic",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka cena obowiązywała za zestaw 11013?",
+    "a": "149,99 zł w Polsce. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak wypada cena za jeden klocek?",
+    "a": "0,30 zł za sztukę. Wartość pomocnicza, przydatna głównie przy porównywaniu pudełek z samymi klockami."
+   },
+   {
+    "q": "Jakie modele podpowiada instrukcja?",
+    "a": "Dwa ptaszki, lwa, żółwia, robota, jednorożca, czarodzieja z biurkiem i rybkę z rafą."
+   },
+   {
+    "q": "Jak zapakowano klocki?",
+    "a": "W woreczki, z których każdy wystarcza na dwa modele."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Classic?",
+    "a": "Najbliżej są zestawy Classic z dużym wyborem klocków i pomysłami na pierwsze modele. <a href=\"/serie/classic/\">Zobacz wszystkie zestawy LEGO Classic</a>"
+   }
+  ]
+ },
+ "21181": {
+  "seria": "Minecraft",
+  "nazwa": "Królicza farma",
+  "elementy": 340,
+  "akapity": [
+   "Farma z Minecrafta ma tu kształt wielkiego królika. Królicza farma 21181 z 2022 roku łączy ten budynek z polem marchewek i jaskinią, a do zabawy służą treser, zombie oraz dwa króliki z gry: dorosły i mały. Otwarty tył i podnoszony dach dają dostęp do środka, gdzie można układać meble.",
+   "Marchewki z pola służą do karmienia zwierząt, a dźwignia z tyłu modelu wprawia króliki w podskoki. Zombie czeka w pobliskiej jaskini, którą funkcja wybuchu potrafi zawalić, a treser rozprawia się z nim mieczem. Całość ma około 12 cm wysokości i 22 cm szerokości. Model da się przebudowywać na wiele sposobów, a jego części połączyć z innymi zestawami LEGO Minecraft, tworząc większą okolicę farmy."
+  ],
+  "metryka": {
+   "Numer": "21181",
+   "Nazwa": "Królicza farma",
+   "Seria": "Minecraft",
+   "Premiera": "2022",
+   "Liczba elementów": "340",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki (treser, zombie) i 2 figurki królików",
+   "Cena katalogowa w Polsce": "159,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztowała Królicza farma 21181?",
+    "a": "Ostatnia cena katalogowa w Polsce wynosiła 159,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak działa funkcja z królikami?",
+    "a": "Po pociągnięciu dźwigni z tyłu budynku króliki zaczynają podskakiwać."
+   },
+   {
+    "q": "W jakim kształcie zbudowano farmę?",
+    "a": "W kształcie wielkiego królika."
+   },
+   {
+    "q": "Jak dostać się do wnętrza farmy?",
+    "a": "Tył budynku jest otwarty, a dach się podnosi."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft?",
+    "a": "Z tego samego roku pochodzi Loch szkieletów 21189, nastawiony bardziej na walkę niż na hodowlę. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "21189": {
+  "seria": "Minecraft",
+  "nazwa": "Loch szkieletów",
+  "elementy": 364,
+  "akapity": [
+   "Badacz jaskiń schodzi tu do podziemi pełnych stalagmitów i stalaktytów, gdzie czekają trzy szkielety. Loch szkieletów 21189 trafił do sklepów w sierpniu 2022 roku i składa się z 364 elementów, z których powstają trzy biomy: jaskinia naciekowa ze spadającymi skałami, bujna jaskinia z krzakami, pnączami, wodą, gliną i pochodniami oraz loch ze spawnerem.",
+   "Spychany stalagmit miażdży wrogie moby, a obrót ściany odsłania trzeci szkielet. Spawner można obracać, a w skrzyni leżą płyta, chleb i kość, czyli przedmioty dobrze znane graczom. Do wyposażenia należą kusza i kilof. Model mierzy około 14 cm wysokości i 19 cm szerokości, a po zabawie da się go przebudować na inny układ jaskiń."
+  ],
+  "metryka": {
+   "Numer": "21189",
+   "Nazwa": "Loch szkieletów",
+   "Seria": "Minecraft",
+   "Premiera": "2022",
+   "Liczba elementów": "364",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "4 minifigurki (badacz jaskiń, 3 szkielety)",
+   "Cena katalogowa w Polsce": "129,99 zł",
+   "Cena katalogowa za element": "0,36 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 21189?",
+    "a": "W polskim cenniku LEGO zestaw kosztował 129,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakich biomów składa się zestaw?",
+    "a": "Z jaskini naciekowej, bujnej jaskini oraz lochu ze spawnerem szkieletów."
+   },
+   {
+    "q": "Gdzie ukrywa się trzeci szkielet?",
+    "a": "Za obracaną ścianą, którą odsłania się podczas zabawy."
+   },
+   {
+    "q": "Co znajduje się w skrzyni?",
+    "a": "Płyta, chleb i kość."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Minecraft w podobnej cenie?",
+    "a": "Królicza farma 21181 kosztowała 30 zł więcej i stawia na zwierzęta, a Loch szkieletów ma nieco więcej elementów i więcej przeciwników. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "21325": {
+  "seria": "Ideas",
+  "nazwa": "Średniowieczna kuźnia",
+  "elementy": 2164,
+  "akapity": [
+   "Średniowieczna kuźnia 21325 to zestaw LEGO Ideas z 2021 roku, który powstał na podstawie projektu fana, Clemensa Fiedlera. Dorastał on w Niemczech i jako dziecko poznał tajniki kowalstwa. Model w typowym dla LEGO stylu ukazuje detale architektoniczne trzypoziomowego średniowiecznego budynku, który mieści warsztat, kuchnię i sypialnię, a w pudełku są 2164 elementy.",
+   "Dach i dwa górne poziomy można zdjąć, by dostać się do urządzonego wnętrza. Warsztat mieści narzędzia, węgiel i zbroję, a palenisko ma świecący klocek LEGO zasilany baterią LR41: po naciśnięciu miecha włącza się światło imitujące żar. W kuchni czeka udko z kurczaka i dzban napitku.",
+   "Postacie to kowal, łucznik i dwaj rycerze herbu Czarny Sokół, którzy mają cztery miecze, trzy tarcze i halabardę. Zestaw dopełniają pies i żaba rzekotka. Na zewnątrz warsztatu stoją jabłoń i ruchoma figurka konia z wózkiem do zbudowania, a w ogrodzie jest też studnia. Kuźnia ma około 27 cm wysokości, 27 cm szerokości oraz 21 cm głębokości. Ilustrowana broszura przedstawia autora pomysłu oraz projektantów LEGO.",
+   "Gdyby stanął obok 12 zestawów LEGO Ideas z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,39 zł, przy typowych dla serii 0,40 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/21369/\">LEGO 21369 The X-Files</a> (869,99 zł katalogowo) i <a href=\"/zestaw/21367/\">LEGO 21367 Tintin i rakieta na Księżyc</a> (689,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "21325",
+   "Nazwa": "Średniowieczna kuźnia",
+   "Seria": "Ideas",
+   "Premiera": "2021",
+   "Liczba elementów": "2164",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "4 minifigurki (kowal, łucznik, 2 rycerzy herbu Czarny Sokół)",
+   "Cena katalogowa w Polsce": "849,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Ideas",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano Średniowieczną kuźnię?",
+    "a": "Przed wycofaniem kosztowała 849,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kto zaproponował pomysł na zestaw?",
+    "a": "Fan LEGO Clemens Fiedler, którego projekt trafił do serii Ideas."
+   },
+   {
+    "q": "Od ilu lat jest ten model?",
+    "a": "Ma oznaczenie 18+, więc jest przeznaczony dla dorosłych."
+   },
+   {
+    "q": "Kogo przedstawiają minifigurki?",
+    "a": "Kowala, łucznika i dwóch rycerzy herbu Czarny Sokół."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ideas?",
+    "a": "Najbliżej są inne modele LEGO Ideas dla dorosłych, które powstały na podstawie projektów fanów. <a href=\"/serie/ideas/\">Zobacz wszystkie zestawy LEGO Ideas</a>"
+   }
+  ]
+ },
+ "30495": {
+  "seria": "Star Wars",
+  "nazwa": "AT-ST",
+  "elementy": 79,
+  "akapity": [
+   "Mikromodel maszyny kroczącej AT-ST 30495 zamknięto w saszetce z 79 elementami. LEGO dodawało go w maju 2022 roku do zakupów zestawów Star Wars w swoim sklepie, a tematycznie nawiązuje do „Imperium kontratakuje” i bitwy na Hoth. To nie ten sam zestaw co większy AT-ST 75332 dla czterolatków, choć oba noszą tę samą nazwę."
+  ],
+  "metryka": {
+   "Numer": "30495",
+   "Nazwa": "AT-ST",
+   "Seria": "Star Wars",
+   "Premiera": "2022",
+   "Liczba elementów": "79",
+   "Wiek": "6+",
+   "Sposób uzyskania": "upominek przy zakupie zestawów LEGO Star Wars w sklepie LEGO, maj 2022",
+   "Typ zestawu": "GWP",
+   "Kolekcja / system": "LEGO Star Wars, mikromodel, Gwiezdne wojny: Imperium kontratakuje",
+   "Dystrybucja": "ekskluzywny upominek LEGO"
+  },
+  "faq": [
+   {
+    "q": "Jak można było dostać AT-ST 30495?",
+    "a": "Jako upominek przy zakupie zestawów Star Wars w sklepie LEGO w maju 2022 roku. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czym ten AT-ST różni się od zestawu 75332?",
+    "a": "To mikromodel w saszetce, a 75332 jest większym zestawem 4+ z minifigurkami i wieżą Ewoków."
+   },
+   {
+    "q": "Do którego filmu nawiązuje saszetka?",
+    "a": "Do „Imperium kontratakuje”, w tym bitwy na Hoth."
+   },
+   {
+    "q": "Jakie oznaczenie wieku ma zestaw?",
+    "a": "6+."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Najbliżej są inne małe saszetki Star Wars z mikromodelami pojazdów. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "30592": {
+  "seria": "Ninjago",
+  "nazwa": "Miniaturowy piorunowy pojazd",
+  "elementy": 69,
+  "akapity": [
+   "Miniaturowy piorunowy pojazd 30592 to saszetka z 2022 roku z mikromodelem pojazdu ninja, zbudowanym z 69 elementów. W sklepie LEGO saszetka figuruje w kategorii Inne i jest powiązana z tematem ninja, a oznaczenie wieku to 7+. W czerwcu 2022 roku dodawano ją gratis do zamówień LEGO, a w Polsce można ją było kupić także osobno."
+  ],
+  "metryka": {
+   "Numer": "30592",
+   "Nazwa": "Miniaturowy piorunowy pojazd",
+   "Premiera": "2022",
+   "Liczba elementów": "69",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "16,99 zł",
+   "Cena katalogowa za element": "0,25 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO Ninjago, mikromodel",
+   "Dystrybucja": "sprzedaż detaliczna; w czerwcu 2022 także upominek w sklepie LEGO",
+   "Seria": "LEGO Ninjago"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztuje LEGO 30592?",
+    "a": "Na polskiej stronie LEGO saszetka ma cenę 16,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jaką linią wiąże się pojazd?",
+    "a": "Z Ninjago, choć LEGO zalicza saszetkę do kategorii Inne."
+   },
+   {
+    "q": "Jak duża jest saszetka?",
+    "a": "Jej wymiary to około 17 na 19,5 cm."
+   },
+   {
+    "q": "Czy zestaw był dodawany do zamówień?",
+    "a": "Tak, w czerwcu 2022 roku trafiał gratis do zamówień spełniających warunki promocji w sklepie LEGO."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Ninjago?",
+    "a": "Pokrewne są pełnowymiarowe pojazdy i mechy ninja z zestawów Ninjago. <a href=\"/serie/ninjago/\">Zobacz wszystkie zestawy LEGO Ninjago</a>"
+   }
+  ]
+ },
+ "31118": {
+  "seria": "Creator",
+  "nazwa": "Domek surferów na plaży",
+  "elementy": 564,
+  "akapity": [
+   "Dwupoziomowa chatka surferów, która otwiera się na zawiasach, to pierwszy z trzech modeli w zestawie 31118. Domek surferów na plaży zadebiutował w 2021 roku, a w komplecie są dwie minifigurki i trzy zwierzęta morskie do zbudowania z klocków: delfin oraz duży i mały żółw.",
+   "Z tych samych 564 elementów można złożyć latarnię morską z małą łódką i płaszczką albo dwupiętrowy dom z basenem, deskami surfingowymi i trampoliną. Domek plażowy osiąga około 19 cm wysokości przy 17 cm szerokości i 15 cm głębokości, a zawiasy pozwalają go rozłożyć do zabawy. Według LEGO zarówno domek, jak i dom z basenem można otwierać na różne sposoby, co pozwala wymyślać kolejne historie.",
+   "Nadmorski motyw łączy wszystkie trzy wersje: delfin i żółw mogą odwiedzić dwupoziomowy domek, a do latarni morskiej podpływają łódka i płaszczka. Na liście innych zestawów 3 w 1 ze stycznia 2021 roku LEGO wymienia obok niego m.in. Cyberdron 31111 i Dzikiego lwa 31112.",
+   "Gdyby stanął obok 29 zestawów LEGO Creator z 2026 roku, byłby 6. co do wielkości. Za element płaci się tu katalogowo 0,41 zł, przy typowych dla serii 0,35 zł."
+  ],
+  "metryka": {
+   "Numer": "31118",
+   "Nazwa": "Domek surferów na plaży",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2021",
+   "Liczba elementów": "564",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "2 minifigurki",
+   "Cena katalogowa w Polsce": "229,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator 3 w 1",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile wynosiła polska cena zestawu 31118?",
+    "a": "229,99 zł przed zakończeniem produkcji. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które modele powstają z tego zestawu?",
+    "a": "Domek surferów, latarnia morska i dom z basenem."
+   },
+   {
+    "q": "Które zwierzęta morskie można zbudować?",
+    "a": "Delfina oraz dużego i małego żółwia, a w wersji z latarnią także płaszczkę."
+   },
+   {
+    "q": "Co znajduje się przy basenie?",
+    "a": "Trampolina, a w samym domu są też deski surfingowe."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator 3 w 1?",
+    "a": "Średniowieczny zamek 31120 z tego samego roku też ma trzy warianty, ale w klimacie fantasy. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "31120": {
+  "seria": "Creator",
+  "nazwa": "Średniowieczny zamek",
+  "elementy": 1426,
+  "akapity": [
+   "Średniowieczny zamek 31120 ukazał się w 2021 roku w serii Creator 3 w 1: ma 1426 elementów i trzy warianty do zbudowania. Pierwszy to piętrowy zamek z otwieraną bramą, kuźnią, młynem wodnym, salą tronową i więzieniem. Dzięki zawiasom rozkłada się z tyłu, co ułatwia zabawę w środku.",
+   "Drugi wariant to baszta z działającą katapultą miotającą klockami, a trzeci targ z młynem wodnym, wieżą strażniczą, więzieniem i stoiskiem płatnerza. Mieszkańcami zamku są trzy minifigurki: kowal i dwaj strażnicy z uzbrojeniem, a towarzyszą im figurka smoka, trzy kury i szczur. Na targu można układać historie wokół więzienia i stoiska płatnerza, a w baszcie strzelać z katapulty.",
+   "Zamek zajmuje około 31 × 28 cm podstawy przy wysokości 26 cm. Ciekawostką jest możliwość połączenia trzech egzemplarzy zestawu: każdy z trzech modeli zbudowany z osobnego pudełka tworzy razem jeden duży zamek. Wśród zestawów 3 w 1 na 2021 rok LEGO wymienia także Przygodę w promie kosmicznym 31117 i Diabelski młyn 31119.",
+   "Gdyby stanął obok 29 zestawów LEGO Creator z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/31388/\">LEGO 31388 Dzikie zwierzęta: Rodzina koali</a> (1536 el.). Za element płaci się tu katalogowo 0,31 zł, przy typowych dla serii 0,35 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/31387/\">LEGO 31387 Legendarny statek piracki</a> (419,99 zł katalogowo) i <a href=\"/zestaw/31389/\">LEGO 31389 Kultowy diabelski młyn</a> (379,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "31120",
+   "Nazwa": "Średniowieczny zamek",
+   "Seria": "Creator 3 w 1",
+   "Premiera": "2021",
+   "Liczba elementów": "1426",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "3 minifigurki (kowal, 2 strażników) i figurka smoka",
+   "Cena katalogowa w Polsce": "439,99 zł",
+   "Cena katalogowa za element": "0,31 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Creator 3 w 1",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował Średniowieczny zamek 31120?",
+    "a": "439,99 zł według cennika LEGO w Polsce. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie trzy modele można zbudować?",
+    "a": "Zamek, basztę z katapultą i średniowieczny targ."
+   },
+   {
+    "q": "Czy da się połączyć kilka zestawów?",
+    "a": "Tak, trzy różne modele z trzech pudełek łączą się w jeden duży zamek."
+   },
+   {
+    "q": "Jakie figurki zwierząt dołączono?",
+    "a": "Smoka, trzy kury i szczura."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Creator 3 w 1?",
+    "a": "Pokrewne są duże budynki Creator 3 w 1, które przebudowuje się w trzy różne miejsca. <a href=\"/serie/creator/\">Zobacz wszystkie zestawy LEGO Creator</a>"
+   }
+  ]
+ },
+ "40558": {
+  "seria": "Star Wars",
+  "nazwa": "Stacja dowodzenia żołnierza oddziału klonów",
+  "elementy": 66,
+  "akapity": [
+   "Trzy minifigurki z armii Republiki to główna zawartość tego zestawu: dowódca klonów z pistoletem blasterowym i dwaj żołnierze-klony z karabinami. Wydana w 2022 roku Stacja dowodzenia żołnierza oddziału klonów 40558 dokłada do nich małą placówkę z rozkładanymi rampami i stojakiem na broń, w którym mieszczą się dwa karabiny blasterowe.",
+   "Placówka jest wysoka na około 8 cm i szeroka na 7 cm, więc całość zmieści się w plecaku. Ten mały komplet, sprzedawany w blistrze, nawiązuje do „Ataku klonów” i bitwy na Geonosis. Rampy i stojak z bronią dają klonom miejsce do odgrywania misji, a dowódca i dwaj żołnierze mogą też dołączyć do większych scen bitewnych."
+  ],
+  "metryka": {
+   "Numer": "40558",
+   "Nazwa": "Stacja dowodzenia żołnierza oddziału klonów",
+   "Seria": "Star Wars",
+   "Premiera": "2022",
+   "Liczba elementów": "66",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "3 minifigurki (dowódca klonów, 2 żołnierzy-klonów)",
+   "Cena katalogowa w Polsce": "69,99 zł",
+   "Cena katalogowa za element": "1,06 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Star Wars, Atak klonów",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile wynosiła cena katalogowa stacji 40558?",
+    "a": "69,99 zł w polskim sklepie LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "W jakim opakowaniu sprzedawano stację?",
+    "a": "W blistrze."
+   },
+   {
+    "q": "Jaką broń mają klony?",
+    "a": "Dowódca ma pistolet blasterowy, a żołnierze karabiny blasterowe, z dwoma dodatkowymi karabinami na stojaku."
+   },
+   {
+    "q": "Który film przywołuje ta stacja?",
+    "a": "„Atak klonów”, w tym bitwę na Geonosis."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Pokrewne są małe zestawy z oddziałami do odgrywania bitew. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "40564": {
+  "seria": "Seasonal",
+  "nazwa": "Zimowe elfy",
+  "elementy": 372,
+  "akapity": [
+   "Zimowe elfy 40564 to świąteczna scenka z działającym lodowiskiem, dwiema minifigurkami elfów i figurką wiewiórki. Upominek liczy 372 elementy i był dodawany gratis do zamówień w sklepie LEGO w listopadzie 2022 roku. Zestaw ma oznaczenie 9+, a jego pudełko mierzy około 26 × 14 cm. Na stronie LEGO trafił do kategorii Inne, choć tematem pasuje do zimowych zestawów okolicznościowych."
+  ],
+  "metryka": {
+   "Numer": "40564",
+   "Nazwa": "Zimowe elfy",
+   "Premiera": "2022",
+   "Liczba elementów": "372",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "2 minifigurki elfów i figurka wiewiórki",
+   "Sposób uzyskania": "upominek przy zakupach spełniających warunki promocji w sklepie LEGO, listopad 2022",
+   "Typ zestawu": "GWP",
+   "Kolekcja / system": "LEGO, zestawy świąteczne",
+   "Dystrybucja": "ekskluzywny upominek LEGO",
+   "Seria": "LEGO Seasonal"
+  },
+  "faq": [
+   {
+    "q": "Jak można było zdobyć zestaw 40564?",
+    "a": "Jako upominek przy zakupach spełniających warunki promocji w sklepie LEGO w listopadzie 2022 roku. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czym wyróżnia się świąteczna scenka?",
+    "a": "Działającym lodowiskiem, ustawionym w zimowej scenerii."
+   },
+   {
+    "q": "Jakie postacie są w scence?",
+    "a": "Dwa elfy w postaci minifigurek oraz wiewiórka."
+   },
+   {
+    "q": "Ile elementów ma zestaw?",
+    "a": "372 elementy."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Seasonal?",
+    "a": "Najbliżej są inne zimowe scenki i dekoracje świąteczne LEGO. <a href=\"/serie/seasonal/\">Zobacz wszystkie zestawy LEGO Seasonal</a>"
+   }
+  ]
+ },
+ "41443": {
+  "seria": "Friends",
+  "nazwa": "Samochód elektryczny Olivii",
+  "elementy": 183,
+  "akapity": [
+   "Samochód elektryczny Olivii 41443 zabiera w podróż także Mię i szczeniaka Elliota, który jedzie na tylnym siedzeniu. Ten zestaw LEGO Friends trafił do sklepów w 2021 roku i oprócz auta ma stację ładowania z wirującą turbiną wiatrową i panelem słonecznym.",
+   "Auto można podłączyć do stacji jak prawdziwy samochód elektryczny, a po jeździe zakręcić turbiną, żeby na niby wytworzyć prąd. Koła się kręcą, a na postój przygotowano miejsce na piknik. Samochód ma około 11 cm długości, a turbina sięga 13 cm. Całość liczy 183 elementy i ma oznaczenie 6+. Motyw czystej energii łączy się tu z nauką dbania o środowisko i troski o innych."
+  ],
+  "metryka": {
+   "Numer": "41443",
+   "Nazwa": "Samochód elektryczny Olivii",
+   "Seria": "Friends",
+   "Premiera": "2021",
+   "Liczba elementów": "183",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "Olivia i Mia (minilaleczki), pies Elliot",
+   "Cena katalogowa w Polsce": "69,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw 41443?",
+    "a": "Ostatnio 69,99 zł według polskiej ceny katalogowej. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z czego składa się stacja ładowania?",
+    "a": "Z turbiny wiatrowej i panelu słonecznego."
+   },
+   {
+    "q": "Gdzie podróżuje szczeniak Elliot?",
+    "a": "Na tylnym siedzeniu samochodu."
+   },
+   {
+    "q": "Od jakiego wieku przeznaczony jest zestaw?",
+    "a": "Ma oznaczenie 6+."
+   },
+   {
+    "q": "Jaki zestaw LEGO Friends warto kupić zamiast tego modelu?",
+    "a": "Tańszą propozycją był Leśny wodospad 41677 za 45,99 zł, także z dwiema minilaleczkami, wiewiórką i skuterem elektrycznym. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41448": {
+  "seria": "Friends",
+  "nazwa": "Kino w Heartlake City",
+  "elementy": 451,
+  "akapity": [
+   "Przed kinem w stylu art deco z zestawu 41448 rozłożono czerwony dywan, działa kasa biletowa, a gwiazda rozdaje autografy fanom. Kino w Heartlake City powstało w 2021 roku i dzięki zawiasom rozkłada się, odsłaniając salę projekcyjną, toaletę oraz kiosk z popcornem.",
+   "W sali stoją fotele dla VIP-ów, a obracany ekran służy jako uchwyt na smartfon lub tablet: po jego zamocowaniu minilaleczki mogą oglądać prawdziwy film. Wśród trzech postaci są fanka Andrea i gwiazda Amelia. Dzieci mogą bawić się w sprzedaż biletów i popcornu albo obsługiwać projektor. Akcesoria obejmują bilety, papier z długopisem, popcorn, kubki z mrożonymi napojami i paragony. Po złożeniu budynek ma około 27 cm szerokości."
+  ],
+  "metryka": {
+   "Numer": "41448",
+   "Nazwa": "Kino w Heartlake City",
+   "Seria": "Friends",
+   "Premiera": "2021",
+   "Liczba elementów": "451",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "3 minilaleczki, w tym Andrea i Amelia",
+   "Cena katalogowa w Polsce": "229,99 zł",
+   "Cena katalogowa za element": "0,51 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, Heartlake City",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miało Kino w Heartlake City?",
+    "a": "Przed zakończeniem produkcji kosztowało 229,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Gdzie umieścić telefon, żeby wyświetlić film?",
+    "a": "Na obracanym ekranie; smartfon albo tablet wyświetla wtedy film minilaleczkom."
+   },
+   {
+    "q": "Które pomieszczenia kryje budynek?",
+    "a": "Salę projekcyjną z fotelami dla VIP-ów, toaletę i kiosk z popcornem."
+   },
+   {
+    "q": "Co dołączono do zabawy w kino?",
+    "a": "Bilety, papier z długopisem, popcorn, kubki z napojami i paragony."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Friends w podobnej cenie?",
+    "a": "Magiczny diabelski młyn i zjeżdżalnia 41689 kosztował 269,99 zł i miał 545 elementów, ale w miejsce budynku daje dwie atrakcje wesołego miasteczka. Kino ma mniej elementów, za to tworzy jedną bryłę z wnętrzem. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41677": {
+  "seria": "Friends",
+  "nazwa": "Leśny wodospad",
+  "elementy": 93,
+  "akapity": [
+   "Andrea i Olivia z zestawu Leśny wodospad 41677 wybierają się na wyprawę do lasu, a ich celem jest diament ukryty za wodospadem. Ten mały zestaw LEGO Friends z 2021 roku ma wodospad na zawiasie, który po odchyleniu odsłania skarb.",
+   "Dziewczyny mogą jeździć po okolicy skuterem elektrycznym, przejść mostkiem nad rzeką i oglądać dzikie zwierzęta przez lornetkę. Wiewiórka mieszka w domku na sośnie i można ją nakarmić kasztanem, a przy ognisku czeka pianka na patyku. Przy szerokości około 16 cm całość zajmuje niewiele miejsca i nie trzeba jej rozkładać po zabawie. Oznaczenie wieku to 5+. Wodospad łączy się z innymi leśnymi zestawami LEGO Friends, sprzedawanymi oddzielnie i dostępnymi w różnym czasie."
+  ],
+  "metryka": {
+   "Numer": "41677",
+   "Nazwa": "Leśny wodospad",
+   "Seria": "Friends",
+   "Premiera": "2021",
+   "Liczba elementów": "93",
+   "Wiek": "5+",
+   "Minifigurki / postacie": "Olivia i Andrea (minilaleczki), wiewiórka",
+   "Cena katalogowa w Polsce": "45,99 zł",
+   "Cena katalogowa za element": "0,49 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, zestawy leśne",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miał Leśny wodospad w Polsce?",
+    "a": "Katalogowo 45,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Przez co bohaterki oglądają dzikie zwierzęta?",
+    "a": "Przez lornetkę."
+   },
+   {
+    "q": "Czym podróżują bohaterki?",
+    "a": "Skuterem elektrycznym."
+   },
+   {
+    "q": "Kogo można nakarmić kasztanem?",
+    "a": "Wiewiórkę z domku na sośnie."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Leśną linię tworzą też Leśny domek 41679, Leśny mikrobus kempingowy i żaglówka 41681 oraz Leśne centrum jeździeckie 41683. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41689": {
+  "seria": "Friends",
+  "nazwa": "Magiczny diabelski młyn i zjeżdżalnia",
+  "elementy": 545,
+  "akapity": [
+   "Wesołe miasteczko z czarodziejskim motywem przyjeżdża do Heartlake City razem z zestawem LEGO Friends o numerze 41689, wydanym w 2021 roku. Składają się na nie dwie atrakcje: obracany diabelski młyn z gondolami w kształcie fioletowych cylindrów i spiralna zjeżdżalnia, a do tego stoisko ze słodyczami, przy którym można wcielić się w sprzedawcę.",
+   "Zjeżdżalnia kryje sztuczkę iluzjonisty. W jej dolnej części umieszczono lustrzane panele, więc minilaleczka, która zjeżdża w dół, „znika”, choć w rzeczywistości opuszcza zjeżdżalnię z tyłu modelu i może zaskoczyć przyjaciół czekających z przodu. Trzy minilaleczki są ubrane i umalowane jak na festyn, a do zabawy dostają pałki do żonglerki, lizak, cylinder i plan wesołego miasteczka. Pokaz sztuczek z kartami uzupełnia występ.",
+   "Młyn jest wysoki na około 22 cm, a zjeżdżalnia na 28 cm. Obie atrakcje i stoisko powstają z 545 elementów. U dorosłych fanów zestaw może przywołać wspomnienia wizyt w wesołym miasteczku, dlatego chętnie bawią się nim razem z dziećmi. Atrakcje są zgodne z pozostałymi czarodziejskimi modelami Friends, które razem pokazują jedno wesołe miasteczko.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 10. co do wielkości. Za element płaci się tu katalogowo 0,50 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "41689",
+   "Nazwa": "Magiczny diabelski młyn i zjeżdżalnia",
+   "Seria": "Friends",
+   "Premiera": "2021",
+   "Liczba elementów": "545",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "3 minilaleczki",
+   "Cena katalogowa w Polsce": "269,99 zł",
+   "Cena katalogowa za element": "0,50 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends, magiczne wesołe miasteczko",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw 41689?",
+    "a": "W polskim cenniku LEGO figurował za 269,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Na czym polega sztuczka ze znikaniem?",
+    "a": "Lustrzane panele u dołu zjeżdżalni ukrywają minilaleczkę, która wyjeżdża z tyłu modelu."
+   },
+   {
+    "q": "Jaki kształt mają gondole młyna?",
+    "a": "Kształt fioletowych cylindrów."
+   },
+   {
+    "q": "Ile miejsca zajmuje zjeżdżalnia?",
+    "a": "Ma około 28 cm wysokości, 14 cm szerokości i 15 cm głębokości."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Friends?",
+    "a": "Z młynem łączą się Magiczne wesołe miasteczko z kolejką górską 41685, Magiczna akrobatyka 41686, Magiczne stoiska w wesołym miasteczku 41687 i Magiczny wóz 41688. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
+   }
+  ]
+ },
+ "41931": {
+  "seria": "DOTS",
+  "nazwa": "Dodatki DOTS – seria 4",
+  "elementy": 105,
+  "akapity": [
+   "Czwarta seria dodatków DOTS ma zwierzęcy motyw: w woreczku są płytki z oczami, pyszczkami, uszami i łapkami, a do tego kolorowe płytki. Woreczek 41931, wydany w 2021 roku, zawiera 105 elementów, w tym 10 płytek z nadrukiem wybranych losowo spośród 16 wzorów, więc zawartość jest częściowo niespodzianką.",
+   "Płytki pasują do wszystkich zestawów LEGO DOTS i pozwalają rozbudować wcześniejsze projekty: bransoletki, zawieszki czy domowe dekoracje. Dzięki nim te dzieła można dopasować do stroju, humoru albo stylu pokoju, a losowe wzory sprzyjają wymianie z przyjaciółmi. Dodatki łączą się też z innymi zabawkami LEGO, więc projekty da się dowolnie przerabiać i chwalić się nimi przed znajomymi."
+  ],
+  "metryka": {
+   "Numer": "41931",
+   "Nazwa": "Dodatki DOTS – seria 4",
+   "Seria": "DOTS",
+   "Premiera": "2021",
+   "Liczba elementów": "91",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "17,99 zł",
+   "Cena katalogowa za element": "0,17 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO DOTS, Dodatki DOTS",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie sprzedawano Dodatki DOTS - seria 4?",
+    "a": "17,99 zł za woreczek, według ostatniej ceny katalogowej. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki motyw ma ta seria?",
+    "a": "Zwierzęcy, z oczami, pyszczkami, uszami i łapkami."
+   },
+   {
+    "q": "Ile płytek jest losowych?",
+    "a": "10, wybieranych z puli 16 wzorów."
+   },
+   {
+    "q": "Do czego pasują płytki?",
+    "a": "Do wszystkich zestawów DOTS, np. bransoletek i ozdób do domu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO DOTS?",
+    "a": "Pokrewne są pozostałe serie Dodatków DOTS oraz bazowe zestawy z bransoletkami i ozdobami, do których pasują te płytki. <a href=\"/serie/dots/\">Zobacz wszystkie zestawy LEGO DOTS</a>"
+   }
+  ]
+ },
+ "41932": {
+  "seria": "DOTS",
+  "nazwa": "Dodatki DOTS – seria 5",
+  "elementy": 120,
+  "akapity": [
+   "Tropikalne kolory i płytki świecące w ciemności wyróżniają piątą serię dodatków DOTS, która pojawiła się w 2021 roku. W woreczku 41932 jest 120 elementów: 95 płytek w tropikalnej kolorystyce, 15 płytek fosforyzujących i 10 płytek z nadrukiem losowanych z 16 wzorów.",
+   "Takie dodatki służą do dekorowania bransoletek z klocków, ozdób do domu i innych projektów DOTS, które można dowolnie przerabiać i dopasowywać do kolorystyki pokoju, stroju albo nastroju. Płytkami da się ozdobić także dowolne inne zestawy LEGO, nie tylko DOTS. Losowa część zawartości sprawia, że płytkami łatwo się wymieniać z przyjaciółmi i pokazywać im własne projekty, a każdy woreczek wnosi trochę inny zestaw wzorów."
+  ],
+  "metryka": {
+   "Numer": "41932",
+   "Nazwa": "Dodatki DOTS – seria 5",
+   "Seria": "DOTS",
+   "Premiera": "2021",
+   "Liczba elementów": "110",
+   "Wiek": "6+",
+   "Cena katalogowa w Polsce": "17,99 zł",
+   "Cena katalogowa za element": "0,15 zł",
+   "Typ zestawu": "polybag",
+   "Kolekcja / system": "LEGO DOTS, Dodatki DOTS",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena woreczka 41932?",
+    "a": "W cenniku LEGO 17,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile płytek świeci w ciemności?",
+    "a": "15 ze 120 elementów."
+   },
+   {
+    "q": "Jak dużo losowości jest w woreczku?",
+    "a": "10 płytek z nadrukiem losuje się z puli 16 wzorów."
+   },
+   {
+    "q": "Jaka jest kolorystyka serii?",
+    "a": "Tropikalna, uzupełniona płytkami świecącymi w ciemności."
+   },
+   {
+    "q": "Jaki zestaw LEGO DOTS warto kupić zamiast tego modelu?",
+    "a": "Kto woli motywy zwierzęce niż tropikalne, może wybrać Dodatki DOTS – seria 4 41931 w tej samej cenie. <a href=\"/serie/dots/\">Zobacz wszystkie zestawy LEGO DOTS</a>"
+   }
+  ]
+ },
+ "42132": {
+  "seria": "Technic",
+  "nazwa": "Motocykl",
+  "elementy": 163,
+  "akapity": [
+   "Ten mały model Technic pokazuje, jak działa silnik motocykla. Motocykl 42132, wydany w 2022 roku, ma trzycylindrowy silnik napędzany łańcuchem, ruchome tłoki, obracający się łańcuch i działający układ kierowniczy. Działanie tych funkcji widać już przy składaniu konstrukcji.",
+   "To model 2 w 1: po zbudowaniu pierwszego motocykla można go rozebrać i złożyć motocykl przygodowy. Gotowy pojazd zbudowany ze 163 elementów mierzy około 9 × 16 × 7 cm. Modele LEGO Technic mają realistycznie poruszające się mechanizmy i według LEGO są przystępnym wprowadzeniem do świata inżynierii. Ten powstał z myślą o dzieciach od 7 lat zainteresowanych motocyklami, które lubią najpierw zbudować pojazd, a potem się nim bawić."
+  ],
+  "metryka": {
+   "Numer": "42132",
+   "Nazwa": "Motocykl",
+   "Seria": "Technic",
+   "Premiera": "2022",
+   "Liczba elementów": "163",
+   "Wiek": "7+",
+   "Cena katalogowa w Polsce": "45,99 zł",
+   "Cena katalogowa za element": "0,28 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Technic, model 2 w 1",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę katalogową miał Motocykl 42132?",
+    "a": "Ostatnio 45,99 zł według ceny katalogowej LEGO w Polsce. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak wypada cena w przeliczeniu na element?",
+    "a": "Około 0,28 zł. Wartość jest orientacyjna i nie mówi nic o liczbie mechanizmów w modelu."
+   },
+   {
+    "q": "Jaki drugi model można zbudować?",
+    "a": "Motocykl przygodowy, z tych samych elementów."
+   },
+   {
+    "q": "Ile cylindrów ma silnik?",
+    "a": "Trzy, z ruchomymi tłokami napędzanymi łańcuchem."
+   },
+   {
+    "q": "Jaki zestaw LEGO Technic warto kupić zamiast tego modelu?",
+    "a": "Kto szuka większego pojazdu z licencją, może wybrać Traktor John Deere 9620R 4WD 42136 z przyczepą i przegubowym układem kierowniczym. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "42136": {
+  "seria": "Technic",
+  "nazwa": "Traktor John Deere 9620R 4WD",
+  "elementy": 390,
+  "akapity": [
+   "Traktor John Deere 9620R 4WD 42136 powstał we współpracy LEGO z firmą John Deere i debiutował w 2022 roku. Ogromne koła, przegubowy układ kierowniczy i kabina z obracanym fotelem kierowcy naśladują prawdziwą maszynę rolniczą z napędem na cztery koła.",
+   "Do ciągnika podpina się przyczepę z wywrotką, którą można przechylić przy rozładunku. Dyszel ma dodatkowy zawias, dzięki któremu przyczepa łatwiej pokonuje wzniesienia, a jej koła są przystosowane do jazdy w terenie. Z 390 elementów powstaje ciągnik z przyczepą długi na około 35 cm, wzorowany na wyglądzie i funkcjach prawdziwego 9620R. Oznaczenie 8+ wskazuje dzieci, które poznają zasady działania prawdziwej maszyny już w trakcie składania."
+  ],
+  "metryka": {
+   "Numer": "42136",
+   "Nazwa": "Traktor John Deere 9620R 4WD",
+   "Seria": "Technic",
+   "Premiera": "2022",
+   "Liczba elementów": "390",
+   "Wiek": "8+",
+   "Cena katalogowa w Polsce": "129,99 zł",
+   "Cena katalogowa za element": "0,33 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Technic, John Deere",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano traktor 42136?",
+    "a": "Jego polska cena katalogowa wynosiła 129,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Na jakiej maszynie wzorowano model?",
+    "a": "Na ciągniku John Deere 9620R z napędem na cztery koła."
+   },
+   {
+    "q": "Co można zrobić z przyczepą?",
+    "a": "Wywrotkę można przechylić, co ułatwia rozładunek."
+   },
+   {
+    "q": "Kto współpracował przy projekcie?",
+    "a": "Projektanci LEGO współpracowali z firmą John Deere."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Pokrewne są inne pojazdy Technic z licencjami producentów maszyn. <a href=\"/serie/technic/\">Zobacz wszystkie zestawy LEGO Technic</a>"
+   }
+  ]
+ },
+ "43197": {
+  "seria": "Disney",
+  "nazwa": "Lodowy zamek",
+  "elementy": 1709,
+  "akapity": [
+   "Zamek z „Krainy lodu” Disneya urósł w wersji LEGO o numerze 43197 do około 65 cm wysokości, przy podstawie zajmującej tylko około 35 na 19 cm. Premiera przypadła na 2021 rok. Według LEGO to wiernie odwzorowany zamek z filmu. Komplet 1709 elementów i oznaczenie 14+ czynią z budowy wymagające wyzwanie dla starszych dzieci i dorosłych.",
+   "Budowla ma trzy poziomy, ozdobne wrota i półprzezroczysty balkon. Po obu stronach biegną schody prowadzące do sali tronowej, w której leżą przedmioty znane z filmu. W sali głównej stoi błyszcząca lodowa fontanna, a dodatkiem jest miniaturowy model zamku Arendelle.",
+   "Postacie Disneya to Anna, Elsa w stroju koronacyjnym i klasycznym, Kristoff i Olaf, a towarzyszą im cztery figurki bałwanków. Anna i Elsa mają postać minilaleczek. Z ich pomocą można przypominać sobie sceny z filmów i wymyślać własne historie wokół zamku. Misternie zbudowane detale sprawiają, że gotowa budowla prezentuje się jako pojedyncza, wysoka ozdoba z wieloma filmowymi szczegółami.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/43302/\">LEGO 43302 Main Street, U.S.A.</a> (3899 el.). Za element płaci się tu katalogowo 0,61 zł, przy typowych dla serii 0,48 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/43300/\">LEGO 43300 Kubuś Puchatek</a> (649,99 zł katalogowo) i <a href=\"/zestaw/43301/\">LEGO 43301 Toy Story Cienki – podpórki pod książki</a> (649,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "43197",
+   "Nazwa": "Lodowy zamek",
+   "Seria": "Disney",
+   "Premiera": "2021",
+   "Liczba elementów": "1709",
+   "Wiek": "14+",
+   "Minifigurki / postacie": "Anna i Elsa (minilaleczki), Kristoff, Olaf i 4 figurki bałwanków",
+   "Cena katalogowa w Polsce": "1 049,99 zł",
+   "Cena katalogowa za element": "0,61 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Disney, Kraina lodu",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 43197?",
+    "a": "Cennik LEGO w Polsce podawał 1 049,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Po ile wychodzi element?",
+    "a": "Około 0,61 zł; ta wartość służy tylko do porównań z innymi dużymi zestawami."
+   },
+   {
+    "q": "Jakiej wysokości jest zamek?",
+    "a": "Około 65 cm."
+   },
+   {
+    "q": "Które postacie z „Krainy lodu” są w zestawie?",
+    "a": "Anna, Elsa w stroju koronacyjnym i klasycznym, Kristoff, Olaf oraz cztery bałwanki."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Najbliżej są budowle oznaczone przez LEGO, tak jak ten zamek, kategoriami „Kraina lodu” i „Księżniczki”. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "43202": {
+  "seria": "Disney",
+  "nazwa": "Dom Madrigalów",
+  "elementy": 587,
+  "akapity": [
+   "Rodzinny dom z filmu „Nasze magiczne Encanto” zamienia się w model LEGO (43202) o trzech poziomach i pięciu pokojach. Zbudowanie go wymaga 587 elementów, a sprzedaż ruszyła pod koniec 2021 roku.",
+   "Kilka mechanizmów nawiązuje do magii domu. Obrót komina sprawia, że chmury ustępują tęczy. Jeden uchwyt wprawia okiennice w falowanie, a drugi przechyla łóżko i budzi Mirabel. Obraca się też wiatrowskaz. W kuchni czekają przekąski, a wśród akcesoriów są akordeon, gramofon i parasol. Ozdoby nanosi się z arkusza naklejek, a dwa piętra budynku mieszczą sporo detali do opowiadania historii.",
+   "Mirabel i Abuela mają postać minilaleczek, a Antonio jest mikrolaleczką. Towarzyszą im figurki kapibary Chispi i motyla. Mini- i mikrolaleczki w połączeniu z kolorowym budynkiem podsuwają wiele pomysłów na swobodną zabawę, także młodszym budowniczym od 6 lat. Wysokość budynku to około 26 cm. Dom można rozbudować o pozostałe zestawy LEGO Disney z tego filmu, sprzedawane oddzielnie, co pozwala odtworzyć więcej scen z życia rodziny Madrigalów.",
+   "Gdyby stanął obok 30 zestawów LEGO Disney z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,39 zł, przy typowych dla serii 0,48 zł."
+  ],
+  "metryka": {
+   "Numer": "43202",
+   "Nazwa": "Dom Madrigalów",
+   "Seria": "Disney",
+   "Premiera": "2021",
+   "Liczba elementów": "587",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "Mirabel i Abuela (minilaleczki), Antonio (mikrolaleczka), kapibara Chispi i motyl",
+   "Cena katalogowa w Polsce": "229,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Disney, Nasze magiczne Encanto",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie był Dom Madrigalów?",
+    "a": "Cena katalogowa w Polsce wynosiła 229,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co dzieje się po obróceniu komina?",
+    "a": "Chmury zmieniają się w tęczę."
+   },
+   {
+    "q": "Na ilu poziomach rozmieszczono pokoje?",
+    "a": "Na trzech; pokoi jest pięć."
+   },
+   {
+    "q": "Kim jest Chispi?",
+    "a": "Kapibarą, która obok motyla jest drugą figurką zwierzęcia w zestawie."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Disney?",
+    "a": "Z domem łączą się inne zestawy z filmu „Nasze magiczne Encanto”, sprzedawane osobno. <a href=\"/serie/disney/\">Zobacz wszystkie zestawy LEGO Disney</a>"
+   }
+  ]
+ },
+ "45345": {
+  "seria": "Archiwum",
+  "nazwa": "Zestaw SPIKE Essential",
+  "elementy": 449,
+  "akapity": [
+   "SPIKE Essential to zestaw LEGO Education 45345 dla klas 1–3, wprowadzony w 2021 roku. W jego 449 elementach są klocki, silniki, czujniki i hub, a całość obsługuje aplikacja SPIKE dla uczniów. Jeden zestaw jest przewidziany dla dwóch uczniów.",
+   "Materiały dydaktyczne obejmują 10 działów, a każdy składa się z pięciu do ośmiu 45-minutowych lekcji, co daje ponad 100 godzin zajęć. Zadania wykorzystują codzienne tematy, minifigurki o różnych charakterach i znane klocki LEGO, a uczniowie rozwiązują problemy, opowiadając historie. Materiały obejmują też dział przygotowujący do FIRST LEGO League Explore. Rozwiązanie SPIKE jest wycofywane przez LEGO Education, ale aplikacja ma być obsługiwana do 30 czerwca 2031 roku."
+  ],
+  "metryka": {
+   "Numer": "45345",
+   "Nazwa": "Zestaw SPIKE Essential",
+   "Premiera": "2021",
+   "Liczba elementów": "453",
+   "Cena katalogowa w Polsce": "1 699,99 zł",
+   "Cena katalogowa za element": "3,79 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Education SPIKE, klasy 1–3",
+   "Dystrybucja": "sprzedaż dla szkół przez dystrybutorów LEGO Education",
+   "Seria": "LEGO Archiwum"
+  },
+  "faq": [
+   {
+    "q": "Ile płaciło się za SPIKE Essential 45345?",
+    "a": "W Polsce kosztował katalogowo 1 699,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dla ilu uczniów jest jeden zestaw?",
+    "a": "Dla dwóch uczniów pracujących razem."
+   },
+   {
+    "q": "Jak długo będzie działać aplikacja SPIKE?",
+    "a": "LEGO Education zapowiada obsługę aplikacji do 30 czerwca 2031 roku."
+   },
+   {
+    "q": "Ile godzin lekcji przewidziano w materiałach?",
+    "a": "Ponad 100 godzin w 10 działach."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Zestawy z silnikami do domu znajdują się głównie w kategorii Technic, a SPIKE Essential to przede wszystkim pomoc szkolna. <a href=\"/serie/archiwum/\">Zobacz wszystkie zestawy LEGO Archiwum</a>"
+   }
+  ]
+ },
+ "45681": {
+  "seria": "Archiwum",
+  "nazwa": "Zestaw dodatkowy SPIKE Prime",
+  "elementy": 604,
+  "akapity": [
+   "Rozszerzeniem podstawowego zestawu SPIKE Prime 45678 jest Zestaw dodatkowy SPIKE Prime 45681, który według LEGO Education pozwala uczniom tworzyć bardziej zaawansowane konstrukcje. Przeznaczono go dla klas 4–8, a w pudełku z 2021 roku są 604 elementy LEGO Technic i System w nowej kolorystyce.",
+   "Wśród nich są dwa duże koła, zębatki listwowe, czujnik koloru i duży silnik. Wyróżnikiem jest płytka Maker Plate, do której łatwo przymocować wybrany komputer jednopłytkowy, co pozwala łączyć budowle LEGO z elektroniką spoza systemu.",
+   "Razem z zestawem podstawowym i bezpłatną aplikacją SPIKE daje ponad 10 godzin zajęć przygotowujących do zawodów robotycznych, z planami lekcji i wsparciem dla nauczycieli dostępnymi online. Linię SPIKE LEGO Education postanowiło wycofać, ale aplikacja ma być obsługiwana i poprawiana do 30 czerwca 2031 roku."
+  ],
+  "metryka": {
+   "Numer": "45681",
+   "Nazwa": "Zestaw dodatkowy SPIKE Prime",
+   "Premiera": "2021",
+   "Liczba elementów": "604",
+   "Cena katalogowa w Polsce": "679,99 zł",
+   "Cena katalogowa za element": "1,13 zł",
+   "Typ zestawu": "mechaniczny",
+   "Kolekcja / system": "LEGO Education SPIKE Prime, klasy 4–8",
+   "Dystrybucja": "sprzedaż dla szkół przez dystrybutorów LEGO Education",
+   "Seria": "LEGO Archiwum"
+  },
+  "faq": [
+   {
+    "q": "Jaka była polska cena zestawu 45681?",
+    "a": "Cena katalogowa w Polsce wynosiła 679,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy zestaw działa samodzielnie?",
+    "a": "Nie, uzupełnia zestaw SPIKE Prime 45678, z którym tworzy pełny komplet do zajęć."
+   },
+   {
+    "q": "Jakie elementy wyróżniają zestaw?",
+    "a": "Płytka Maker Plate na komputer jednopłytkowy, dwa duże koła i zębatki listwowe."
+   },
+   {
+    "q": "Jakie czujniki i silniki są w środku?",
+    "a": "Czujnik koloru i duży silnik."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Technic?",
+    "a": "Elementy Technic z tego zestawu łączą się z modelami z kategorii Technic, choć sam zestaw służy do zajęć szkolnych. <a href=\"/serie/archiwum/\">Zobacz wszystkie zestawy LEGO Archiwum</a>"
+   }
+  ]
+ },
+ "71411": {
+  "seria": "Super Mario",
+  "nazwa": "Potężny Bowser",
+  "elementy": 2807,
+  "akapity": [
+   "Król Koopów jako duża, ruchoma figura: Potężny Bowser 71411 trafił do sprzedaży w październiku 2022 roku jako zestaw z 2807 elementów, przeznaczony dla dorosłych fanów Super Mario. Figura odtwarza charakterystyczne kolce i akcesoria postaci znanej z gier.",
+   "To przede wszystkim ruchomy model. Przycisk pod pancerzem steruje ruchami szyi i głowy, paszczę można otwierać i zamykać, a ramiona, dłonie z palcami, nogi i ogon da się ustawiać. Bowser ma także miotacz ognia znany z gier wideo.",
+   "Figura stoi na arenie walki z dwiema wieżami do strącenia, ukrytym blokiem POW i znacznikiem akcji. Z podstawką mierzy ponad 32 cm wysokości, 41 cm długości i 28 cm szerokości. Arena współpracuje z interaktywnymi figurkami Mario, Luigiego i Peach z zestawów startowych 71360, 71387 i 71403, które nie są dołączone. Po ustawieniu postaci na znaczniku akcji można rozegrać pojedynek, a Bowser może przy tym rozbić obie wieże. Instrukcja jest szczegółowa i ilustrowana, więc złożenie figury jest w zasięgu także fanów Super Mario, którzy dopiero zaczynają przygodę z dużymi zestawami LEGO.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/72050/\">LEGO 72050 Mario Kart - Luigi i Mach 8</a> (779,99 zł katalogowo) i <a href=\"/zestaw/72051/\">LEGO 72051 Automat do gry Donkey Kong</a> (729,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "71411",
+   "Nazwa": "Potężny Bowser",
+   "Seria": "Super Mario",
+   "Premiera": "2022",
+   "Liczba elementów": "2807",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "1 199,99 zł",
+   "Cena katalogowa za element": "0,43 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Super Mario, zestawy dla dorosłych",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa Potężnego Bowsera?",
+    "a": "1 199,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Czy w zestawie jest figurka Mario?",
+    "a": "Nie, interaktywne figurki Mario, Luigiego i Peach pochodzą z osobnych zestawów startowych."
+   },
+   {
+    "q": "Jak porusza się głowa Bowsera?",
+    "a": "Steruje się nią przyciskiem ukrytym pod pancerzem."
+   },
+   {
+    "q": "Co zawiera arena pod figurą?",
+    "a": "Dwie wieże do strącenia, ukryty blok POW i znacznik akcji."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Super Mario?",
+    "a": "Zestawy startowe 71360, 71387 i 71403 dają figurki, które mogą walczyć z Bowserem na arenie. <a href=\"/serie/super-mario/\">Zobacz wszystkie zestawy LEGO Super Mario</a>"
+   }
+  ]
+ },
+ "75332": {
+  "seria": "Star Wars",
+  "nazwa": "AT-ST",
+  "elementy": 87,
+  "akapity": [
+   "Bitwa o Endor w wersji dla czterolatków: AT-ST 75332 z 2022 roku zawiera maszynę kroczącą z miejscem dla kierowcy w kokpicie, ścigacz oraz wieżę wartowniczą Ewoków z drzewem i katapultą wyrzucającą kamienie. Budowa AT-ST zaczyna się od klocka startowego, który według LEGO przyspiesza składanie.",
+   "Do zabawy służą trzy minifigurki: Ewok Wicket z łukiem i strzałą, zwiadowca szturmowców i kierowca AT-ST, obaj z blasterami. Wszystkiego jest 87 elementów, a maszyna krocząca ma około 12 cm wysokości, więc łatwo zabrać ją w podróż. Całość przenosi najmłodszych do scen z „Powrotu Jedi” i należy do linii Star Wars 4+, w której klocek startowy pomaga zacząć budowę samodzielnie albo z pomocą rodzeństwa lub dorosłych."
+  ],
+  "metryka": {
+   "Numer": "75332",
+   "Nazwa": "AT-ST",
+   "Seria": "Star Wars",
+   "Premiera": "2022",
+   "Liczba elementów": "87",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "3 minifigurki (Wicket, zwiadowca szturmowców, kierowca AT-ST)",
+   "Cena katalogowa w Polsce": "159,99 zł",
+   "Cena katalogowa za element": "1,84 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Star Wars 4+, Powrót Jedi",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile kosztował zestaw 75332 w Polsce?",
+    "a": "Ostatnia polska cena katalogowa to 159,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dla kogo jest linia Star Wars 4+?",
+    "a": "Dla dzieci od 4 lat, które z pomocą klocka startowego budują samodzielnie albo z rodzeństwem lub dorosłymi."
+   },
+   {
+    "q": "Co robi katapulta Ewoków?",
+    "a": "Wyrzuca kamienie na przeciwników."
+   },
+   {
+    "q": "Kogo przedstawiają minifigurki?",
+    "a": "Wicketa, zwiadowcę szturmowców i kierowcę AT-ST."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "AT-ST 30495 to saszetka z mikromodelem tej samej maszyny, a pozostałe zestawy 4+ są zebrane w kategorii serii. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "75341": {
+  "seria": "Star Wars",
+  "nazwa": "Śmigacz Luke'a Skywalkera",
+  "elementy": 1890,
+  "akapity": [
+   "Śmigacz X-34 z „Nowej nadziei” dostał w 2022 roku pierwszą w historii wersję z serii Ultimate Collector Series. Model 75341 składa się z 1890 elementów, a LEGO opracowało dla niego nowe techniki budowania i specjalne elementy, w tym dużą, wytłaczaną przednią szybę kokpitu.",
+   "Model odtwarza charakterystyczne szczegóły pierwowzoru: owiewkę kokpitu, turbinowy silnik z brakującą osłoną i odsłoniętym wnętrzem oraz części wyglądające na złom. W kokpicie jest dźwignia do kierowania i deska rozdzielcza pełna detali. Repulsor i podstawka do ekspozycji dają efekt pojazdu unoszącego się nad piaskami Tatooine, więc śmigacz prezentuje się jak w trybie lotu.",
+   "Gotowy śmigacz ma około 49 cm długości, 30 cm szerokości i 10 cm wysokości, a do kompletu należy plakietka z danymi technicznymi X-34. Obok modelu stają dwie minifigurki: Luke Skywalker z mieczem świetlnym i elektrolornetką oraz C-3PO w nowej wersji z maja 2022 roku. To duży model kolekcjonerski z oznaczeniem 18+, przeznaczony głównie do ekspozycji w domu, na podstawce z plakietką.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,56 zł, przy typowych dla serii 0,53 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/75442/\">LEGO 75442 Myśliwiec N-1 Mandalorianina</a> (1 079,99 zł katalogowo) i <a href=\"/zestaw/75453/\">LEGO 75453 Piaskoczołg wędrownych Jawów i bagnorożec</a> (869,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "75341",
+   "Nazwa": "Śmigacz Luke'a Skywalkera",
+   "Seria": "Star Wars",
+   "Premiera": "2022",
+   "Liczba elementów": "1890",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "2 minifigurki (Luke Skywalker, C-3PO)",
+   "Cena katalogowa w Polsce": "1 049,99 zł",
+   "Cena katalogowa za element": "0,56 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Star Wars, Ultimate Collector Series",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miał śmigacz 75341 w sklepie LEGO?",
+    "a": "1 049,99 zł według ostatniej ceny katalogowej. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile wynosiła cena za element?",
+    "a": "Około 0,56 zł. To tylko pomocniczy wskaźnik przy dużym modelu kolekcjonerskim."
+   },
+   {
+    "q": "Na czym stoi gotowy model?",
+    "a": "Na podstawce do ekspozycji, która daje efekt unoszenia się nad ziemią."
+   },
+   {
+    "q": "Które minifigurki należą do zestawu?",
+    "a": "Luke Skywalker z mieczem świetlnym i elektrolornetką oraz C-3PO."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Star Wars?",
+    "a": "Najbliżej są inne duże modele Ultimate Collector Series z podstawkami i plakietkami. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "75343": {
+  "seria": "Star Wars",
+  "nazwa": "Hełm mrocznego szturmowca",
+  "elementy": 693,
+  "akapity": [
+   "Hełm mrocznego szturmowca z drugiego sezonu serialu „Star Wars: The Mandalorian” powstał jako dekoracyjny model dla dorosłych. Model 75343 należy do serii hełmów LEGO Star Wars, w której w marcu 2022 roku pojawiły się nowe modele, i liczy 693 elementy.",
+   "Najbardziej charakterystyczne są oczy: przezroczyste czerwone elementy na wierzchu i białe klocki pod spodem oddają błyszczące oczy mrocznego szturmowca. Hełm stoi na złożonej z klocków podstawce z tabliczką i jest lekko przechylony do przodu, co dodaje mu groźnego wyglądu. Razem z podstawką mierzy około 18 cm wysokości przy 12 cm szerokości i 15 cm głębokości.",
+   "Do zestawu dołączono ilustrowane instrukcje prowadzące przez kolejne etapy budowy, a samo składanie wyrazistych konturów hełmu LEGO przedstawia jako sposób na odpoczynek. Hełm powstał do ustawienia na półce, obok innych modeli z tej samej kolekcji, które razem tworzą serię kolekcjonerskich hełmów Star Wars. Oznaczenie 18+ wskazuje, że to zestaw dla dorosłych fanów sagi i doświadczonych budowniczych LEGO.",
+   "Gdyby stanął obok 43 zestawów LEGO Star Wars z 2026 roku, byłby 13. co do wielkości. Za element płaci się tu katalogowo 0,48 zł, przy typowych dla serii 0,53 zł."
+  ],
+  "metryka": {
+   "Numer": "75343",
+   "Nazwa": "Hełm mrocznego szturmowca",
+   "Seria": "Star Wars",
+   "Premiera": "2022",
+   "Liczba elementów": "693",
+   "Wiek": "18+",
+   "Cena katalogowa w Polsce": "329,99 zł",
+   "Cena katalogowa za element": "0,48 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Star Wars, kolekcja hełmów, The Mandalorian",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile wynosiła polska cena hełmu 75343?",
+    "a": "329,99 zł w cenniku LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakiego serialu pochodzi mroczny szturmowiec?",
+    "a": "Z drugiego sezonu „Star Wars: The Mandalorian”."
+   },
+   {
+    "q": "Jak zbudowano czerwone oczy?",
+    "a": "Z przezroczystych czerwonych elementów ułożonych na białych klockach."
+   },
+   {
+    "q": "Jak wysoki jest hełm na podstawce?",
+    "a": "Około 18 cm."
+   },
+   {
+    "q": "Jaki zestaw LEGO Star Wars warto kupić zamiast tego modelu?",
+    "a": "Kto woli pojazd niż hełm, może sięgnąć po Śmigacz Luke'a Skywalkera 75341, ale to znacznie większy i droższy model UCS. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "76145": {
+  "seria": "Marvel",
+  "nazwa": "Eternals – atak powietrzny",
+  "elementy": 133,
+  "akapity": [
+   "W zestawie Eternals – atak powietrzny 76145 skrzydlaty Dewiant atakuje dwoje Przedwiecznych, Ikarisa i Sprite, znanych z filmu Marvel Studios „Eternals”. Premierę miał w 2021 roku i według LEGO był jedynym zestawem z minifigurką Sprite.",
+   "Figurka Dewianta, wysoka na około 11 cm, ma ruchome skrzydła. Uzbrojono ją w dwa sztylety sai, miecz ninja i dwie wyrzutnie, więc bohaterowie muszą użyć swoich mocy. Sprite tworzy niezwykle realistyczne iluzje, a Ikaris potrafi latać, co przenosi walkę w przestworza. Opowieść o walce dobra ze złem zachęca do wymyślania własnych historii po odegraniu scen z filmu. Polska strona LEGO używa dla zestawu także nazwy Atak powietrzny Przedwiecznych. Komplet ma 133 elementy."
+  ],
+  "metryka": {
+   "Numer": "76145",
+   "Nazwa": "Eternals – atak powietrzny",
+   "Seria": "Marvel",
+   "Premiera": "2021",
+   "Liczba elementów": "133",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki (Ikaris, Sprite) i figurka Dewianta",
+   "Cena katalogowa w Polsce": "45,99 zł",
+   "Cena katalogowa za element": "0,35 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Marvel, Eternals",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie trafił do sklepów zestaw 76145?",
+    "a": "Ceną katalogową było 45,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakiego filmu pochodzą bohaterowie?",
+    "a": "Z filmu Marvel Studios „Eternals”."
+   },
+   {
+    "q": "Gdzie toczy się walka z Dewiantem?",
+    "a": "W przestworzach, bo Ikaris potrafi latać."
+   },
+   {
+    "q": "Czym walczy Dewiant?",
+    "a": "Dwoma sztyletami sai, mieczem ninja i dwiema wyrzutniami."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Pokrewne są inne zestawy LEGO Marvel nawiązujące do filmu „Eternals” i jego bohaterów, Przedwiecznych. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76175": {
+  "seria": "Marvel",
+  "nazwa": "Atak na kryjówkę Spider-Mana",
+  "elementy": 466,
+  "akapity": [
+   "Pół zaawansowanej technicznie bazy, pół pokoju nastolatka: tak wygląda kryjówka Spider-Mana z zestawu 76175, którą LEGO przedstawia jako pierwszą wersję siedziby tego bohatera zbudowaną z klocków. Na półki sklepowe trafiła w 2021 roku.",
+   "W części mieszkalnej są komputer, PlayStation, kosz do koszykówki z ręcznie sterowanym miotaczem piłek, rampa z deskorolką i kącik z napojami. Superbohaterską stronę pokazują aparat Petera Parkera, sprzęt treningowy, motocykl, zbroja Żelaznego Pająka, broń i cela więzienna, a ekrany monitorują bezpieczeństwo bazy. Przydaje się to, gdy do środka wdzierają się Venom i Zielony Goblin. Spider-Man broni się pajęczynami do rzucania. Baza ma około 14 cm wysokości, 41 cm długości i 17 cm szerokości."
+  ],
+  "metryka": {
+   "Numer": "76175",
+   "Nazwa": "Atak na kryjówkę Spider-Mana",
+   "Seria": "Marvel",
+   "Premiera": "2021",
+   "Liczba elementów": "466",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "minifigurki m.in. Spider-Man, Zielony Goblin i Venom",
+   "Cena katalogowa w Polsce": "379,99 zł",
+   "Cena katalogowa za element": "0,82 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Marvel Spider-Man",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miał zestaw 76175 w Polsce?",
+    "a": "Katalogowo w Polsce 379,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dlaczego kryjówka jest wyjątkowa?",
+    "a": "LEGO przedstawia ją jako pierwszą siedzibę Spider-Mana zbudowaną z klocków."
+   },
+   {
+    "q": "Jakim pojazdem dysponuje Spider-Man?",
+    "a": "Motocyklem; do dyspozycji ma też zbroję Żelaznego Pająka."
+   },
+   {
+    "q": "Jakie gadżety pomagają w obronie bazy?",
+    "a": "Pajęczyny do rzucania, ekrany monitoringu i cela więzienna dla złoczyńców."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Bazę łatwo połączyć z innymi zestawami LEGO Marvel Spider-Man. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76178": {
+  "seria": "Marvel",
+  "nazwa": "Daily Bugle",
+  "elementy": 3789,
+  "akapity": [
+   "Siedziba gazety „Daily Bugle” z komiksów o Spider-Manie sięga w wersji LEGO (76178) około 82 cm. W chwili premiery w 2021 roku był to największy zestaw LEGO z uniwersum Marvela, złożony z 3789 elementów i przeznaczony dla dorosłych.",
+   "Budynek jest tłem dla 25 minifigurek. Są wśród nich Doktor Octopus, Spider-Man, Venom, Miles Morales, Spider-Ham, Zielony Goblin, Peter Parker, Spider-Gwen, Mysterio, Sandman i Robbie Robertson. Pięć postaci zadebiutowało w tym zestawie: Blade, J. Jonah Jameson, Black Cat, Daredevil i Punisher. Fani rozpoznają nawiązania do Złowieszczej Szóstki i Spider-Man Uniwersum, a Daredevil i Sandman walczą nawet o gofry cioci May.",
+   "Wnętrze obejmuje lobby, biuro Petera Parkera oraz, na najwyższym piętrze, biuro redaktora naczelnego J. Jonaha Jamesona. Bogaty zbiór nagłówków gazety pozwala odtwarzać klasyczne historie. Miejski klimat budują nowojorska taksówka, kiosk z gazetami i kultowa wieża ciśnień, a dodatkiem jest łazik Spider-Mana. Fasady są odczepiane, a stropy i dach dają się zdjąć, żeby obejrzeć detale wnętrza.",
+   "Gdyby stanął obok 33 zestawów LEGO Marvel z 2026 roku, byłby największy. Za element płaci się tu katalogowo 0,40 zł, przy typowych dla serii 0,55 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76354/\">LEGO 76354 Lotniskowiec T.A.R.C.Z.Y.</a> (1 599,99 zł katalogowo) i <a href=\"/zestaw/76344/\">LEGO 76344 Iron Man Mark 3 - edycja kolekcjonerska</a> (559,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76178",
+   "Nazwa": "Daily Bugle",
+   "Seria": "Marvel",
+   "Premiera": "2021",
+   "Liczba elementów": "3772",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "25 minifigurek",
+   "Cena katalogowa w Polsce": "1 499,99 zł",
+   "Cena katalogowa za element": "0,40 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Marvel Spider-Man, zestawy dla dorosłych",
+   "Dystrybucja": "zestaw ekskluzywny LEGO"
+  },
+  "faq": [
+   {
+    "q": "Przy jakiej cenie katalogowej był dostępny Daily Bugle?",
+    "a": "Polski sklep LEGO podawał cenę 1 499,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki koszt przypada na element?",
+    "a": "Wychodzi 0,40 zł; liczba służy wyłącznie do porównań między dużymi zestawami."
+   },
+   {
+    "q": "Które minifigurki pojawiły się tu po raz pierwszy?",
+    "a": "Blade, J. Jonah Jameson, Black Cat, Daredevil i Punisher."
+   },
+   {
+    "q": "Jakiej wysokości jest budynek redakcji?",
+    "a": "Około 82 cm."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Marvel?",
+    "a": "Najbliżej są inne duże modele kolekcjonerskie LEGO Marvel dla dorosłych. <a href=\"/serie/marvel/\">Zobacz wszystkie zestawy LEGO Marvel</a>"
+   }
+  ]
+ },
+ "76183": {
+  "seria": "Batman",
+  "nazwa": "Jaskinia Batmana: pojedynek z Człowiekiem-zagadką",
+  "elementy": 581,
+  "akapity": [
+   "Kryjówka Batmana z filmu „Batman” to warsztat pełen komputerów, narzędzi i sprzętu do spawania, przy którym bohater naprawia pojazdy. W zestawie 76183, który pojawił się w ofercie w 2021 roku, boczne ściany są zamocowane na zawiasach, więc da się je obracać pod różnymi kątami i zyskać więcej miejsca na zabawę. Na jednej z nich wisi duży plan GOTHAM CITY, na drugiej stelaż z narzędziami.",
+   "Sześć minifigurek obejmuje Batmana, Selinę Kyle, Człowieka-Zagadkę, Driftera, Alfreda i komisarza Gordona. Specjalna lupa pozwala odczytać zakodowane wskazówki z trzech elementów zostawionych przez Człowieka-Zagadkę. Batman może wyruszyć w miasto motocyklem i przebrać się za Driftera, a schwytanego złoczyńcę zamyka w więzieniu jaskini. Oznaczenie 8+ kieruje kryjówkę do młodszych fanów filmu.",
+   "Wymiary kryjówki to mniej więcej 20 × 32 × 25 cm. Jaskinię zbudowaną z 581 elementów da się połączyć z Batmobilem z zestawu Batmobil: pościg za Pingwinem 76181, który można zaparkować w jaskini albo wprowadzić na rampy naprawcze.",
+   "Gdyby stanął obok 6 zestawów LEGO Batman z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (2269 el.). Za element płaci się tu katalogowo 0,57 zł, przy typowych dla serii 0,49 zł."
+  ],
+  "metryka": {
+   "Numer": "76183",
+   "Nazwa": "Jaskinia Batmana: pojedynek z Człowiekiem-zagadką",
+   "Seria": "Batman",
+   "Premiera": "2021",
+   "Liczba elementów": "590",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "6 minifigurek (Batman, Selina Kyle, Człowiek-Zagadka, Drifter, Alfred, komisarz Gordon)",
+   "Cena katalogowa w Polsce": "329,99 zł",
+   "Cena katalogowa za element": "0,57 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DC Batman, film „Batman”",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miała Jaskinia Batmana 76183?",
+    "a": "Sklep LEGO podawał cenę 329,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z którego filmu pochodzi zestaw?",
+    "a": "Z filmu „Batman”."
+   },
+   {
+    "q": "Do czego służy lupa?",
+    "a": "Do odczytywania zakodowanych wskazówek z trzech elementów zostawionych przez Człowieka-Zagadkę."
+   },
+   {
+    "q": "Czy w zestawie jest Batmobil?",
+    "a": "Nie, rampy naprawcze pasują do Batmobilu z zestawu 76181, sprzedawanego osobno."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "Batmobil: pościg za Pingwinem 76181 pochodzi z tego samego filmu i dopełnia jaskinię pojazdem. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76188": {
+  "seria": "Batman",
+  "nazwa": "Klasyczny serial telewizyjny Batman – Batmobil",
+  "elementy": 345,
+  "akapity": [
+   "Serial o Batmanie z 1966 roku miał swój charakterystyczny Batmobil i to on jest tematem zestawu 76188 z kwietnia 2021 roku. Model, długi na około 20 cm, dostał do towarzystwa minifigurki Batmana i Jokera w stylu lat 60.",
+   "W otwieranym bagażniku jest Batarang i dodatkowe klocki do przebudowy maski. Można ją zbudować z miotaczami klocków albo bez nich, czyli tak jak w oryginalnym pojeździe z serialu, który miotaczy nie miał. Batman może ścigać nim Jokera przez GOTHAM CITY, a po zakończonej akcji Batmobil wpina się w obrotową podstawkę z płytką informacyjną, która pokazuje go z każdej strony. Komplet ma 345 elementów i oznaczenie 7+."
+  ],
+  "metryka": {
+   "Numer": "76188",
+   "Nazwa": "Klasyczny serial telewizyjny Batman – Batmobil",
+   "Seria": "Batman",
+   "Premiera": "2021",
+   "Liczba elementów": "345",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki (Batman, Joker)",
+   "Cena katalogowa w Polsce": "159,99 zł",
+   "Cena katalogowa za element": "0,46 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO DC Batman, serial z 1966 roku",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile wynosiła polska cena Batmobilu 76188?",
+    "a": "159,99 zł, zanim zestaw zniknął z oferty LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jak wygląda maska Batmobilu?",
+    "a": "Można ją zbudować z miotaczami klocków albo bez nich, jak w serialu."
+   },
+   {
+    "q": "Co jest w bagażniku?",
+    "a": "Batarang i dodatkowe klocki do przebudowy maski."
+   },
+   {
+    "q": "Na czym stoi model?",
+    "a": "Na obrotowej podstawce z płytką informacyjną."
+   },
+   {
+    "q": "Jaki zestaw LEGO Batman warto kupić zamiast tego modelu?",
+    "a": "Dorosłym fanom filmów bardziej przypadnie Batmobil Tumbler 76240, znacznie większy model z trylogii o Mrocznym Rycerzu. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76240": {
+  "seria": "Batman",
+  "nazwa": "Batmobil Tumbler",
+  "elementy": 2049,
+  "akapity": [
+   "Tumbler z trylogii filmów o Mrocznym Rycerzu to pancerny pojazd, który wrócił do LEGO w 2021 roku jako duży model kolekcjonerski. Batmobil Tumbler 76240 jest nową wersją wcześniejszego zestawu 76023, ma 2049 elementów i oznaczenie 18+.",
+   "Gotowy pojazd ma około 45 cm długości, 25 cm szerokości i 16 cm wysokości. Otwierany dach daje dostęp do miejsc kierowcy i pasażera oraz panelu kontrolnego, a z zewnątrz model oddaje opancerzony kształt filmowej maszyny.",
+   "Tumbler stoi na solidnej, zbudowanej z klocków podstawce z tabliczką opisującą model, a obok niego można ustawić minifigurki Batmana i Jokera. To zestaw do budowania w spokojnym tempie i do ekspozycji, a nie do zabawy w pościgi. Dla dorosłych fanów Batmana i miłośników modeli powolne składanie ponad dwóch tysięcy klocków ma być według LEGO formą odpoczynku, a broszura z instrukcjami prowadzi przez całą budowę. Choć to model dla dorosłych, według LEGO łatwo go połączyć z innymi zestawami DC Batman.",
+   "Gdyby stanął obok 6 zestawów LEGO Batman z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (2269 el.). Za element płaci się tu katalogowo 0,59 zł, przy typowych dla serii 0,49 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76355/\">LEGO 76355 Batmobil z filmu Powrót Batmana</a> (899,99 zł katalogowo) i <a href=\"/zestaw/76330/\">LEGO 76330 Logo Batmana</a> (339,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76240",
+   "Nazwa": "Batmobil Tumbler",
+   "Seria": "Batman",
+   "Premiera": "2021",
+   "Liczba elementów": "2049",
+   "Wiek": "18+",
+   "Minifigurki / postacie": "2 minifigurki (Batman, Joker)",
+   "Cena katalogowa w Polsce": "1 199,99 zł",
+   "Cena katalogowa za element": "0,59 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO DC Batman, trylogia o Mrocznym Rycerzu",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile LEGO liczyło za Batmobil Tumbler?",
+    "a": "LEGO wyceniło go na 1 199,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaka jest cena w przeliczeniu na element?",
+    "a": "Po przeliczeniu 0,59 zł. Przy dużym modelu dla dorosłych ta liczba jest tylko orientacyjna."
+   },
+   {
+    "q": "Ile miejsc ma kabina?",
+    "a": "Dwa, dla kierowcy i pasażera, pod otwieranym dachem."
+   },
+   {
+    "q": "Na czym ustawia się model?",
+    "a": "Na zbudowanej z klocków podstawce z tabliczką opisującą model."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Batman?",
+    "a": "Najbliżej są inne duże modele pojazdów Batmana przeznaczone dla dorosłych. <a href=\"/serie/batman/\">Zobacz wszystkie zestawy LEGO Batman</a>"
+   }
+  ]
+ },
+ "76382": {
+  "seria": "Harry Potter",
+  "nazwa": "Chwile z Hogwartu: zajęcia z transfiguracji",
+  "elementy": 241,
+  "akapity": [
+   "Okładka książki z zestawu 76382 otwiera się na salę transfiguracji, w której uczy profesor McGonagall. To część kolekcji Chwile z Hogwartu z 2021 roku: każda książka ma inny kolor i zdobienia oraz kryje inną salę lekcyjną.",
+   "W środku stoją tablica, dwie ławki, dwa krzesła, skrzynia ze skarbem, szafka i księga zaklęć. Szafka jest przymocowana na stałe, ale część wyposażenia da się wyjąć, żeby zrobić miejsce. Ćwiczyć transfigurację można na filiżance z herbatą, srebrnym kielichu i żabie, a w pudełku jest też Parszywek, szczur Rona. Ron zmienił go w kielich i potrzebuje pomocy, zanim zacznie się lekcja. Uczniów reprezentują Hermiona i Ron. Zamknięta książka jest wysoka na zaledwie około 12 cm, więc łatwo ją przenieść. Po zebraniu całej kolekcji książki łączą się w scenę Hogwartu, którą ogląda się z każdej strony."
+  ],
+  "metryka": {
+   "Numer": "76382",
+   "Nazwa": "Chwile z Hogwartu: zajęcia z transfiguracji",
+   "Seria": "Harry Potter",
+   "Premiera": "2021",
+   "Liczba elementów": "241",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "3 minifigurki (Hermiona Granger, Ron Weasley, profesor McGonagall)",
+   "Cena katalogowa w Polsce": "139,99 zł",
+   "Cena katalogowa za element": "0,58 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, Chwile z Hogwartu",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 76382?",
+    "a": "Ostatnio 139,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Co znajduje się w książce po otwarciu?",
+    "a": "Sala transfiguracji z tablicą, ławkami, krzesłami, szafką i skrzynią ze skarbem."
+   },
+   {
+    "q": "Którzy bohaterowie są w zestawie?",
+    "a": "Hermiona Granger, Ron Weasley i profesor McGonagall."
+   },
+   {
+    "q": "Czy książki z tej kolekcji można łączyć?",
+    "a": "Tak, po zebraniu wszystkich tworzą razem 360-stopniową scenę z Hogwartu."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Harry Potter w podobnej cenie?",
+    "a": "Hogwart: Pierwsza lekcja latania 76395 miał tę samą cenę 139,99 zł i 264 elementy, ale w miejsce książki daje pięć modułów z miotłami unoszonymi na dźwigniach. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76386": {
+  "seria": "Harry Potter",
+  "nazwa": "Hogwart: pomyłka z eliksirem wielosokowym",
+  "elementy": 217,
+  "akapity": [
+   "W łazience Jęczącej Marty z zestawu 76386 rozgrywa się scena z filmu „Harry Potter i Komnata Tajemnic”, w której eliksir wielosokowy zmienia wygląd bohaterów. Premiera wypadła w 2021 roku, kiedy seria LEGO Harry Potter obchodziła 20-lecie.",
+   "Przemiana działa na minifigurkach: Harry i Ron po obróceniu głów pokazują twarze Crabbe’a i Goyle’a, a wymiana włosów dopełnia efekt. Hermionie eliksir się nie udaje i zamienia ją w kota. Pod umywalką ukryto tunel, który po dostawieniu zestawu Komnata tajemnic w Hogwarcie 76389 prowadzi do drugiego pomieszczenia. Łazienka jest jednym z modułów, z których składa się większy model zamku Hogwart. Rocznicowe dodatki to złota minifigurka Harry’ego oraz dwie losowe płytki kart czarodziejów z kolekcji liczącej 16 wzorów."
+  ],
+  "metryka": {
+   "Numer": "76386",
+   "Nazwa": "Hogwart: pomyłka z eliksirem wielosokowym",
+   "Seria": "Harry Potter",
+   "Premiera": "2021",
+   "Liczba elementów": "217",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "4 minifigurki (Harry Potter, Ron Weasley, Hermiona Granger, złoty Harry Potter)",
+   "Cena katalogowa w Polsce": "89,99 zł",
+   "Cena katalogowa za element": "0,41 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, modułowy Hogwart, 20-lecie serii",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile LEGO liczyło za zestaw 76386?",
+    "a": "W polskim sklepie LEGO kosztował 89,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile wzorów kart czarodziejów można zebrać?",
+    "a": "Szesnaście; w pudełku są dwie losowe płytki."
+   },
+   {
+    "q": "Gdzie rozgrywa się scena?",
+    "a": "W łazience Jęczącej Marty w Hogwarcie."
+   },
+   {
+    "q": "Jaki film przypomina ta scena?",
+    "a": "„Harry Potter i Komnata Tajemnic”."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Inne moduły Hogwartu z rocznicowymi dodatkami, na przykład Hogwart: Pierwsza lekcja latania 76395, również mają złotą minifigurkę i karty czarodziejów. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76388": {
+  "seria": "Harry Potter",
+  "nazwa": "Wizyta w wiosce Hogsmeade",
+  "elementy": 851,
+  "akapity": [
+   "Zaśnieżona wioska Hogsmeade skupia dwa najbardziej znane lokale czarodziejów: cukiernię Miodowe Królestwo i pub Pod Trzema Miotłami. W modelu 76388 oba budynki są dwupoziomowe i zadaszone, a wypełniają je meble, akcesoria i funkcje do odgrywania filmowych scenek.",
+   "W cukierni można kupić ulubione kwaśne cukierki, a w pubie postacie z Hogwartu mogą wypić szklankę piwa kremowego. Pojawiają się tu Harry Potter, Dean Thomas, profesor McGonagall, Madame Rosmerta i państwo Flume’owie. Jubileusz 20-lecia serii, przypadający w 2021 roku, przypominają złota minifigurka Rona Weasleya oraz cztery losowe płytki kart czarodziejów z kolekcji liczącej 16 wzorów.",
+   "Budowa obejmuje 851 elementów. Wioska jest przeznaczona dla dzieci od 8 lat, które mogą odgrywać w niej filmowe scenki i wymyślać własne przygody, a ozdobny model pozwala też wyrazić przywiązanie do świata Harry’ego Pottera. Cała wioska ma 22 cm wysokości, 30 cm szerokości oraz 9 cm głębokości. Trzy mniejsze modele urozmaicają scenę: latarnia, ośnieżona ławka i dwustronna tablica z listem gończym za Syriuszem Blackiem.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 8. co do wielkości. Za element płaci się tu katalogowo 0,47 zł, przy typowych dla serii 0,46 zł."
+  ],
+  "metryka": {
+   "Numer": "76388",
+   "Nazwa": "Wizyta w wiosce Hogsmeade",
+   "Seria": "Harry Potter",
+   "Premiera": "2021",
+   "Liczba elementów": "851",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "7 minifigurek (Harry Potter, Dean Thomas, profesor McGonagall, Madame Rosmerta, państwo Flume, złoty Ron Weasley)",
+   "Cena katalogowa w Polsce": "399,99 zł",
+   "Cena katalogowa za element": "0,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, 20-lecie serii",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano zestaw 76388?",
+    "a": "Cena katalogowa: 399,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Które lokale z Hogsmeade można zbudować?",
+    "a": "Cukiernię Miodowe Królestwo i pub Pod Trzema Miotłami."
+   },
+   {
+    "q": "Dokąd można pójść po kwaśne cukierki?",
+    "a": "Do cukierni Miodowe Królestwo."
+   },
+   {
+    "q": "Jakie mniejsze modele dołączono?",
+    "a": "Latarnię, ośnieżoną ławkę i dwustronną tablicę z listem gończym za Syriuszem Blackiem."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Najbliżej są inne zestawy z 20-lecia serii, które także mają złotą minifigurkę i losowe karty czarodziejów. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76393": {
+  "seria": "Harry Potter",
+  "nazwa": "Harry Potter i Hermiona Granger",
+  "elementy": 1673,
+  "akapity": [
+   "W zestawie 76393 Harry Potter i Hermiona Granger zostali zbudowani w dużej skali: każda z dwóch figurek mierzy około 26 cm. Para pojawiła się w ofercie LEGO w 2021 roku. Na obie postacie przypadają 1673 elementy, a oznaczenie wieku to 10+.",
+   "Para przedstawia dwoje najbardziej znanych uczniów Hogwartu, a konstrukcja naśladuje klasyczną minifigurkę LEGO. Ręce, nogi i biodra są ruchome, a Harry może dodatkowo obracać głową, dzięki czemu postacie przyjmują różne realistyczne pozycje. Każda z nich trzyma różdżkę zbudowaną z klocków, która pomaga odgrywać magiczne historie. Harry dostał też zdejmowaną szatę uszytą z tkaniny.",
+   "Podwójny model przyciąga wzrok, dlatego LEGO kieruje go również do kolekcjonerów. Popularne postacie z filmów zachęcają do zabawy w pojedynkę albo z przyjaciółmi i rodziną, a z różdżkami w dłoniach figurki można ustawiać także w zabawnych pozach. Instrukcje są dwie, osobno dla każdej figurki, więc budować mogą jednocześnie dwie osoby, na przykład dziecko z kolegą lub koleżanką.",
+   "Gdyby stanął obok 21 zestawów LEGO Harry Potter z 2026 roku, byłby 3. co do wielkości – więcej elementów ma m.in. <a href=\"/zestaw/76476/\">LEGO 76476 Ministerstwo Magii – edycja kolekcjonerska</a> (3491 el.). Za element płaci się tu katalogowo 0,38 zł, przy typowych dla serii 0,46 zł.",
+   "Jeśli budżet jest ustalony, naturalne punkty porównania w tej samej serii to <a href=\"/zestaw/76466/\">LEGO 76466 Kamień filozoficzny – edycja kolekcjonerska</a> (689,99 zł katalogowo) i <a href=\"/zestaw/76478/\">LEGO 76478 Book nook: Gabinet Dumbledore'a</a> (519,99 zł)."
+  ],
+  "metryka": {
+   "Numer": "76393",
+   "Nazwa": "Harry Potter i Hermiona Granger",
+   "Seria": "Harry Potter",
+   "Premiera": "2021",
+   "Liczba elementów": "1673",
+   "Wiek": "10+",
+   "Minifigurki / postacie": "2 figurki z klocków (Harry Potter, Hermiona Granger)",
+   "Cena katalogowa w Polsce": "629,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "ekspozycyjny",
+   "Kolekcja / system": "LEGO Harry Potter",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie oferowano zestaw 76393?",
+    "a": "Polski cennik LEGO podawał 629,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakiej wysokości są figurki?",
+    "a": "Każda ma około 26 cm."
+   },
+   {
+    "q": "Z czego zrobiono szatę Harry’ego?",
+    "a": "Z tkaniny, a szatę można zdjąć."
+   },
+   {
+    "q": "Czy dwie osoby mogą budować jednocześnie?",
+    "a": "Tak, każda figurka ma osobną instrukcję."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Harry Potter?",
+    "a": "Pokrewny charakter ma duży Zamek Hogwart z 6020 elementów, który LEGO polecało razem z tymi figurkami. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76395": {
+  "seria": "Harry Potter",
+  "nazwa": "Hogwart: Pierwsza lekcja latania",
+  "elementy": 264,
+  "akapity": [
+   "Trzy długie, przezroczyste dźwignie w modelu o numerze 76395 podnoszą minifigurki na miotłach i pozwalają odegrać lekcję latania z filmu „Harry Potter i Kamień Filozoficzny”. W powietrze wznoszą się pani Hooch, Draco Malfoy i Neville Longbottom z jego przypominajką. Premierę zestaw miał w 2021 roku.",
+   "Całość dzieli się na pięć modułów, w tym pomieszczenie z pucharem quidditcha i magazyn sprzętu treningowego dla czarownic i czarodziejów. Każdy z nich można przebudować, a sceny dołączyć do innych części modułowego Hogwartu, z których powstaje kompletny zamek. Gotowa sceneria ma około 20 cm szerokości. Poza lataniem można trenować quidditcha. Złota minifigurka profesora Quirrella powstała z okazji dwudziestolecia serii, a w komplecie są też dwie losowe płytki kart czarodziejów."
+  ],
+  "metryka": {
+   "Numer": "76395",
+   "Nazwa": "Hogwart: Pierwsza lekcja latania",
+   "Seria": "Harry Potter",
+   "Premiera": "2021",
+   "Liczba elementów": "264",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "4 minifigurki (Neville Longbottom, Draco Malfoy, pani Hooch, złoty profesor Quirrell)",
+   "Cena katalogowa w Polsce": "139,99 zł",
+   "Cena katalogowa za element": "0,53 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Harry Potter, modułowy Hogwart, 20-lecie serii",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaką cenę miał zestaw 76395 w Polsce?",
+    "a": "Polska strona LEGO podawała 139,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z ilu modułów składa się model?",
+    "a": "Z pięciu, w tym z sali z pucharem quidditcha i magazynu sprzętu."
+   },
+   {
+    "q": "Do czego służą przezroczyste dźwignie?",
+    "a": "Podnoszą minifigurki na miotłach, co pozwala odegrać lekcję latania."
+   },
+   {
+    "q": "Czy zestaw łączy się z innymi częściami Hogwartu?",
+    "a": "Tak, należy do kolekcji modułów, z których buduje się większy model zamku."
+   },
+   {
+    "q": "Jaki zestaw LEGO Harry Potter warto kupić zamiast tego modelu?",
+    "a": "Hogwart: pomyłka z eliksirem wielosokowym 76386 kosztował 89,99 zł, również zawiera złotą minifigurkę i karty czarodziejów oraz łączy się z modułowym zamkiem. <a href=\"/serie/harry-potter/\">Zobacz wszystkie zestawy LEGO Harry Potter</a>"
+   }
+  ]
+ },
+ "76908": {
+  "seria": "Speed Champions",
+  "nazwa": "Lamborghini Countach",
+  "elementy": 262,
+  "akapity": [
+   "Biały klin z lat 70. XX wieku, czyli Lamborghini Countach, wjechał do serii Speed Champions w marcu 2022 roku. Model 76908 ma dwuosobową kabinę i wiele realistycznych detali karoserii, a obok auta stoi kierowca Lamborghini z kaskiem, włosami i kluczem.",
+   "Gotowe auto jest długie na około 15 cm i wysokie na 4 cm, dzięki czemu pasuje rozmiarem do innych modeli Speed Champions i można się nimi ścigać. Napędu ani baterii nie ma, więc wyścigi odbywają się ręcznie. Detale nadwozia mają oddawać istotę kultowego supersamochodu. Do budowy potrzeba 262 elementów, a pudełko ma oznaczenie 8+. Według LEGO to replika jednego z najsłynniejszych aut sportowych na świecie."
+  ],
+  "metryka": {
+   "Numer": "76908",
+   "Nazwa": "Lamborghini Countach",
+   "Seria": "Speed Champions",
+   "Premiera": "2022",
+   "Liczba elementów": "262",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "1 minifigurka (kierowca Lamborghini)",
+   "Cena katalogowa w Polsce": "99,99 zł",
+   "Cena katalogowa za element": "0,38 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Speed Champions, Lamborghini",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Ile trzeba było zapłacić za Lamborghini Countach 76908?",
+    "a": "Cena w sklepie LEGO wynosiła 99,99 zł, zanim zakończono produkcję. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jaki był koszt jednego elementu?",
+    "a": "Około 0,38 zł, licząc od ceny katalogowej. Liczba służy jedynie do porównań z innymi autami serii."
+   },
+   {
+    "q": "Jakiego koloru jest model?",
+    "a": "Biały, z dwuosobową kabiną."
+   },
+   {
+    "q": "Kiedy powstał pierwowzór modelu?",
+    "a": "W latach 70. XX wieku."
+   },
+   {
+    "q": "Jaki zestaw LEGO Speed Champions warto kupić zamiast tego modelu?",
+    "a": "Za tę samą cenę katalogową sprzedawano 007 Aston Martin DB5 76911, który dodaje minifigurkę Jamesa Bonda i filmowe tablice rejestracyjne. <a href=\"/serie/speed-champions/\">Zobacz wszystkie zestawy LEGO Speed Champions</a>"
+   }
+  ]
+ },
+ "76909": {
+  "seria": "Speed Champions",
+  "nazwa": "Mercedes-AMG F1 W12 E Performance i Mercedes-AMG ONE",
+  "elementy": 564,
+  "akapity": [
+   "Dwa auta Mercedes-AMG w jednym pudełku: bolid Formuły 1 F1 W12 E Performance i drogowy hipersamochód Mercedes-AMG ONE, w materiałach LEGO nazywany też Project One. Komplet 76909 pojawił się w 2022 roku, a na oba pojazdy przypadają łącznie 564 elementy. Obie maszyny LEGO opisuje jako samochody bijące rekordy, a ich modele mają odwzorowywać detale projektowe oryginałów.",
+   "W pudełku są dwie minifigurki kierowców z kaskami, włosami i kluczami, więc każde auto ma własnego zawodnika i można od razu zorganizować pojedynek na torze. Bolid F1 ma około 19 cm długości, 7 cm szerokości i 4 cm wysokości. Oba modele są napędzane ręką, bez baterii, i pasują skalą do pozostałych aut z tej serii, więc mogą brać udział we wspólnych wyścigach.",
+   "Oznaczenie wieku to 9+. Zestaw pozwala postawić obok siebie bolid z toru wyścigowego i samochód przeznaczony na drogi publiczne, czyli dwa różne typy aut tej samej marki. Instrukcje budowy obu modeli zebrano w jednej broszurze.",
+   "Gdyby stanął obok 14 zestawów LEGO Speed Champions z 2026 roku, byłby 2. co do wielkości – więcej elementów ma tylko <a href=\"/zestaw/77264/\">LEGO 77264 Jaguar Project 7 i Land Rover Defender</a> (740 el.). Za element płaci się tu katalogowo 0,34 zł, przy typowych dla serii 0,39 zł."
+  ],
+  "metryka": {
+   "Numer": "76909",
+   "Nazwa": "Mercedes-AMG F1 W12 E Performance i Mercedes-AMG ONE",
+   "Seria": "Speed Champions",
+   "Premiera": "2022",
+   "Liczba elementów": "564",
+   "Wiek": "9+",
+   "Minifigurki / postacie": "2 minifigurki kierowców",
+   "Cena katalogowa w Polsce": "189,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Speed Champions, Mercedes-AMG",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile LEGO sprzedawało zestaw 76909?",
+    "a": "Za 189,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Ile aut można zbudować?",
+    "a": "Dwa: bolid F1 W12 E Performance i Mercedes-AMG ONE."
+   },
+   {
+    "q": "Czym jest Mercedes-AMG ONE?",
+    "a": "To drogowy hipersamochód Mercedes-AMG; w materiałach LEGO pojawia się też nazwa Project One."
+   },
+   {
+    "q": "Ilu kierowców jest w pudełku?",
+    "a": "Dwóch, po jednym dla każdego auta."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Speed Champions?",
+    "a": "Pozostałe auta z tej serii, także pojedyncze, mają tę samą skalę i dobrze stoją obok obu Mercedesów. <a href=\"/serie/speed-champions/\">Zobacz wszystkie zestawy LEGO Speed Champions</a>"
+   }
+  ]
+ },
+ "76911": {
+  "seria": "Speed Champions",
+  "nazwa": "007 Aston Martin DB5",
+  "elementy": 298,
+  "akapity": [
+   "Aston Martin DB5 z 1964 roku to auto, które kojarzy się z Jamesem Bondem, i w tej wersji dostał minifigurkę agenta z filmu „Nie czas umierać”. Zestaw 007 Aston Martin DB5 76911 ukazał się w sierpniu 2022 roku, a jego model ma formowane srebrne felgi szprychowe.",
+   "Najciekawszym dodatkiem są cztery zestawy tablic rejestracyjnych z różnych filmów o Bondzie, które można wymieniać. Minifigurka agenta dostaje też klucz do auta. Z 298 elementów powstaje auto o długości około 17 cm i wysokości 5 cm, czyli w skali pozostałych samochodów Speed Champions. Tablice i minifigurka sprawiają, że model łączy serię samochodową z filmami o agencie 007."
+  ],
+  "metryka": {
+   "Numer": "76911",
+   "Nazwa": "007 Aston Martin DB5",
+   "Seria": "Speed Champions",
+   "Premiera": "2022",
+   "Liczba elementów": "298",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "1 minifigurka (James Bond)",
+   "Cena katalogowa w Polsce": "99,99 zł",
+   "Cena katalogowa za element": "0,34 zł",
+   "Typ zestawu": "kolekcjonerski",
+   "Kolekcja / system": "LEGO Speed Champions, Aston Martin, James Bond",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była polska cena zestawu 76911?",
+    "a": "99,99 zł w sklepie LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Z jakiego filmu pochodzi minifigurka?",
+    "a": "Z filmu „Nie czas umierać”."
+   },
+   {
+    "q": "Po co w zestawie są dodatkowe tablice?",
+    "a": "To cztery zestawy tablic rejestracyjnych z różnych filmów o Bondzie, które można wymieniać."
+   },
+   {
+    "q": "Który rocznik auta odwzorowuje model?",
+    "a": "Rocznik 1964."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Speed Champions w podobnej cenie?",
+    "a": "Lamborghini Countach 76908 kosztowało tyle samo i miało mniej elementów, ale bez licencji filmowej i dodatkowych tablic. <a href=\"/serie/speed-champions/\">Zobacz wszystkie zestawy LEGO Speed Champions</a>"
+   }
+  ]
+ },
+ "76939": {
+  "seria": "Jurassic World",
+  "nazwa": "Ucieczka stygimolocha",
+  "elementy": 129,
+  "akapity": [
+   "Dwa dinozaury z serialu animowanego „Park Jurajski: Obóz kredowy” trafiają tu do zabawy: stygimoloch w odłączanej klatce terenówki i mały ankylozaur Bumpy. Ucieczka stygimolocha, czyli zestaw 76939 wprowadzony w 2021 roku, była częścią linii LEGO 4+, w której specjalne klocki startowe i proste obrazkowe instrukcje pozwalały maluchom budować samodzielnie albo z niewielką pomocą.",
+   "Centralnym punktem jest domek na drzewie, będący też stanowiskiem obserwacyjnym. Ma łóżko, umywalkę, toaletę, drabinę oraz zjeżdżalnię dla Bumpy’ego. Domek można łączyć z innymi modelami, minifigurkami i dinozaurami. Postacie z serialu to Ben, Brooklynn i Claire Dearing. Wśród akcesoriów są strzelba na naboje usypiające, marchewka, łopata i kupa dinozaura, które pomagają odgrywać przygody z serialu."
+  ],
+  "metryka": {
+   "Numer": "76939",
+   "Nazwa": "Ucieczka stygimolocha",
+   "Seria": "Jurassic World",
+   "Premiera": "2021",
+   "Liczba elementów": "129",
+   "Wiek": "4+",
+   "Minifigurki / postacie": "3 minifigurki (Ben, Brooklynn, Claire Dearing), stygimoloch i mały ankylozaur Bumpy",
+   "Cena katalogowa w Polsce": "189,99 zł",
+   "Cena katalogowa za element": "1,47 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, Park Jurajski: Obóz kredowy, LEGO 4+",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena katalogowa zestawu 76939?",
+    "a": "LEGO wyceniło zestaw na 189,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Jakie dinozaury są w zestawie?",
+    "a": "Stygimoloch i mały ankylozaur Bumpy."
+   },
+   {
+    "q": "Od ilu lat można budować ten zestaw?",
+    "a": "Od 4 lat; klocki startowe ułatwiają pierwsze kroki."
+   },
+   {
+    "q": "Czym przewozi się stygimolocha?",
+    "a": "Terenówką z odłączaną klatką."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Jurassic World w podobnej cenie?",
+    "a": "Wystawa skamieniałości tyranozaura 76940 kosztowała 139,99 zł i miała 198 elementów, ale ma oznaczenie 7+. Ucieczka stygimolocha była droższa, za to dawała dwa dinozaury, pojazd i domek dla najmłodszych. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "76940": {
+  "seria": "Jurassic World",
+  "nazwa": "Wystawa skamieniałości tyranozaura",
+  "elementy": 198,
+  "akapity": [
+   "Dzieci wcielają się w paleontologów przy muzealnym eksponacie z ruchomym szkieletem tyranozaura, który jest sercem zestawu o numerze 76940. Ten zestaw LEGO Jurassic World, wydany w 2021 roku, nawiązuje do serialu „Park Jurajski: Obóz kredowy” i innych historii z tego świata.",
+   "Szkielet na podstawce ma około 29 cm długości. Można bawić się nim jak zwykłą figurką dinozaura albo zostawić go na wystawie. Tablicę do zbudowania uzupełnia wskazówka, a odkrywcy mają do dyspozycji jajo dinozaura, skamieniały ząb i liść.",
+   "Role paleontologów przypadają Owenowi Grady’emu i Dariusowi, a towarzyszy im figurka małego triceratopsa. Komplet 198 elementów to nieco bardziej wymagający projekt dla młodych fanów LEGO, którzy mają już za sobą pierwsze zestawy."
+  ],
+  "metryka": {
+   "Numer": "76940",
+   "Nazwa": "Wystawa skamieniałości tyranozaura",
+   "Seria": "Jurassic World",
+   "Premiera": "2021",
+   "Liczba elementów": "198",
+   "Wiek": "7+",
+   "Minifigurki / postacie": "2 minifigurki (Owen Grady, Darius) i figurka małego triceratopsa",
+   "Cena katalogowa w Polsce": "139,99 zł",
+   "Cena katalogowa za element": "0,71 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, Park Jurajski: Obóz kredowy",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "W jakiej cenie była wystawa skamieniałości?",
+    "a": "Ostatnia cena katalogowa to 139,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Na czym stoi szkielet?",
+    "a": "Na podstawce, jak eksponat w muzeum."
+   },
+   {
+    "q": "Do jakiego serialu nawiązuje zestaw?",
+    "a": "Do serialu animowanego „Park Jurajski: Obóz kredowy”."
+   },
+   {
+    "q": "Czego używa paleontolog?",
+    "a": "Wskazówki, tablicy oraz jaja dinozaura, skamieniałego zęba i liścia."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Jurassic World?",
+    "a": "Pokrewne są zestawy nawiązujące do serialu „Park Jurajski: Obóz kredowy”, w których obok minifigurek pojawiają się figurki dinozaurów. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
+   }
+  ]
+ },
+ "76942": {
+  "seria": "Jurassic World",
+  "nazwa": "Barionyks i ucieczka łodzią",
+  "elementy": 308,
+  "akapity": [
+   "Łodzie pierwszy raz pojawiły się w serii LEGO Jurassic World w 2021 roku, w zestawie Barionyks i ucieczka łodzią (76942), i obie naprawdę pływają. Większa łódź nie tonie nawet wtedy, gdy w klatce na jej pokładzie siedzi ruchoma figurka barionyksa.",
+   "Jednostka ma obrotowy reflektor, a dach sterowni podnosi się, odsłaniając szczegółowe wnętrze. Całą sterownię można też zdjąć, żeby sięgnąć do ładowni. Mniejsza motorówka służy do dowożenia jaj dinozaura. Barionyksa karmi się figurkami ryb za pomocą kijka; ryby są dwie. Załogę tworzą Darius, Yaz, Owen Grady i strażnik, a towarzyszy im mały dinozaur. Akcesoria obejmują środek uspokajający, paralizator, jaja i kamizelki ratunkowe. Duża łódź ma około 40 cm długości."
+  ],
+  "metryka": {
+   "Numer": "76942",
+   "Nazwa": "Barionyks i ucieczka łodzią",
+   "Seria": "Jurassic World",
+   "Premiera": "2021",
+   "Liczba elementów": "308",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "4 minifigurki (Darius, Yaz, Owen Grady, strażnik), barionyks i mały dinozaur",
+   "Cena katalogowa w Polsce": "379,99 zł",
+   "Cena katalogowa za element": "1,23 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Jurassic World, Park Jurajski: Obóz kredowy",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Za ile sprzedawano zestaw 76942?",
+    "a": "Według cennika LEGO w Polsce 379,99 zł. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Dlaczego ten zestaw wyróżnia się w serii?",
+    "a": "Jako pierwszy w LEGO Jurassic World ma łodzie, a obie pływają."
+   },
+   {
+    "q": "Jak karmi się barionyksa?",
+    "a": "Figurkami ryb podawanymi na kijku; ryby są w zestawie dwie."
+   },
+   {
+    "q": "Jakiej długości jest duża łódź?",
+    "a": "Około 40 cm."
+   },
+   {
+    "q": "Jaki zestaw LEGO Jurassic World warto kupić zamiast tego modelu?",
+    "a": "Dla młodszych dzieci odpowiednia była Ucieczka stygimolocha 76939 z oznaczeniem 4+, która kosztowała 189,99 zł i również ma dinozaura w klatce. <a href=\"/serie/jurassic-world/\">Zobacz wszystkie zestawy LEGO Jurassic World</a>"
    }
   ]
  }
