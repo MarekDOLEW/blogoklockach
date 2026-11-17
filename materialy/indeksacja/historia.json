@@ -1,7 +1,7 @@
 {
  "_meta": {
   "opis": "Adresy, które scripts/kolejka-indeksacji.mjs dał do „Poproś o zindeksowanie\" w GSC, według dnia (zgloszenia), oraz ostatni odczyt stanu z URL Inspection API per adres (stany: v = werdykt, s = coverageState, c = ostatni crawl, d = dzień odczytu; od 06.11.2026). Skrypt nie wybiera ponownie adresu przez 14 dni, chyba że Google go od tego dnia nie odwiedził (wtedy wraca następnego dnia); adresu z PASS nie sprawdza przez 30 dni. Plik generowany — nie edytować ręcznie.",
-  "zaktualizowano": "2026-11-16"
+  "zaktualizowano": "2026-11-17"
  },
  "zgloszenia": {
   "2026-10-14": [
@@ -512,6 +512,23 @@
    "https://tylkoklocki.pl/zestaw/31383/",
    "https://tylkoklocki.pl/zestaw/31386/",
    "https://tylkoklocki.pl/zestaw/31389/"
+  ],
+  "2026-11-17": [
+   "https://tylkoklocki.pl/serie/the-lego-movie/",
+   "https://tylkoklocki.pl/zestaw/31215/",
+   "https://tylkoklocki.pl/zestaw/31383/",
+   "https://tylkoklocki.pl/zestaw/31386/",
+   "https://tylkoklocki.pl/zestaw/31389/",
+   "https://tylkoklocki.pl/artykuly/lego-77248-bolid-f1-bwt-alpine-team-a524-recenzja/",
+   "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-5/",
+   "https://tylkoklocki.pl/deale/deal-42224-porsche-911-gt3-r-minimum/",
+   "https://tylkoklocki.pl/zestaw/31392/",
+   "https://tylkoklocki.pl/zestaw/31218/",
+   "https://tylkoklocki.pl/zestaw/40812/",
+   "https://tylkoklocki.pl/zestaw/40813/",
+   "https://tylkoklocki.pl/zestaw/42154/",
+   "https://tylkoklocki.pl/zestaw/42197/",
+   "https://tylkoklocki.pl/zestaw/42198/"
   ]
  },
  "stany": {
@@ -693,7 +710,7 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/deale/deal-42689-domek-klubu-heartlake-minimum/": {
    "v": "PASS",
@@ -2769,7 +2786,7 @@
    "v": "NEUTRAL",
    "s": "Crawled - currently not indexed",
    "c": "2026-11-11",
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/21034/": {
    "v": "PASS",
@@ -3060,40 +3077,40 @@
    "d": "2026-11-15"
   },
   "https://tylkoklocki.pl/zestaw/21593/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/21595/": {
-   "v": "NEUTRAL",
-   "s": "URL is unknown to Google",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/21596/": {
    "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "s": "Crawled - currently not indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/21597/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/artykuly/lego-31169-maszyna-do-pisania-z-kwiatami-recenzja/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/artykuly/upominek-restauracje-swiata-japonia-na-lego-pl-dluzej-do-20-listopada/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31136/": {
    "v": "PASS",
@@ -3114,10 +3131,10 @@
    "d": "2026-11-15"
   },
   "https://tylkoklocki.pl/zestaw/31168/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31169/": {
    "v": "PASS",
@@ -3129,43 +3146,43 @@
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31376/": {
-   "v": "NEUTRAL",
-   "s": "Excluded by ‘noindex’ tag",
-   "c": "2026-09-13",
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31377/": {
-   "v": "NEUTRAL",
-   "s": "Excluded by ‘noindex’ tag",
-   "c": "2026-09-11",
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31383/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31386/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31387/": {
-   "v": "NEUTRAL",
-   "s": "Discovered - currently not indexed",
-   "c": null,
-   "d": "2026-11-16"
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-16",
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31389/": {
    "v": "NEUTRAL",
    "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/31390/": {
    "v": "NEUTRAL",
@@ -3175,9 +3192,9 @@
   },
   "https://tylkoklocki.pl/zestaw/31392/": {
    "v": "NEUTRAL",
-   "s": "URL is unknown to Google",
+   "s": "Discovered - currently not indexed",
    "c": null,
-   "d": "2026-11-16"
+   "d": "2026-11-17"
   },
   "https://tylkoklocki.pl/zestaw/40807/": {
    "v": "NEUTRAL",
@@ -3190,6 +3207,84 @@
    "s": "Submitted and indexed",
    "c": "2026-09-12",
    "d": "2026-11-16"
+  },
+  "https://tylkoklocki.pl/artykuly/lego-77248-bolid-f1-bwt-alpine-team-a524-recenzja/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/artykuly/x-kom-black-weeks-2026-lego-tydzien-5/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/deale/deal-42224-porsche-911-gt3-r-minimum/": {
+   "v": "NEUTRAL",
+   "s": "URL is unknown to Google",
+   "c": null,
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/31218/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/40812/": {
+   "v": "NEUTRAL",
+   "s": "Discovered - currently not indexed",
+   "c": null,
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/40813/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-11",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/40815/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/40824/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-11",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/40825/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-09-10",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/42154/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-11",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/42197/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-11",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/42198/": {
+   "v": "NEUTRAL",
+   "s": "Excluded by ‘noindex’ tag",
+   "c": "2026-09-11",
+   "d": "2026-11-17"
+  },
+  "https://tylkoklocki.pl/zestaw/42200/": {
+   "v": "PASS",
+   "s": "Submitted and indexed",
+   "c": "2026-11-03",
+   "d": "2026-11-17"
   }
  }
 }
