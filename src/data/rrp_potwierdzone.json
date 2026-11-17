@@ -3944,6 +3944,11 @@
     "zrodlo": "lego.pl (Firecrawl)",
     "data": "13.10.2026"
   },
+  "71888": {
+    "cena": 1249.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "17.11.2026"
+  },
   "72035": {
     "cena": 169.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
@@ -4508,6 +4513,11 @@
     "cena": 419.99,
     "zrodlo": "lego.com/pl-pl — pełny katalog (Firecrawl, 28.08.2026)",
     "data": "28.08.2026"
+  },
+  "75466": {
+    "cena": 299.99,
+    "zrodlo": "lego.com/pl-pl — karta produktu „Wkrótce dostępne” (Firecrawl, 16.11.2026; cenę zgłosił Piotr w tekście 0048)",
+    "data": "16.11.2026"
   },
   "75579": {
     "cena": 439.99,
@@ -5694,6 +5704,11 @@
     "zrodlo": "lego.pl — lista „Wkrótce dostępne\" (za tekstem Piotra z 07.11.2026), polecenie Marka",
     "data": "09.11.2026"
   },
+  "80123": {
+    "cena": 429.99,
+    "zrodlo": "lego.pl (Firecrawl)",
+    "data": "17.11.2026"
+  },
   "88005": {
     "cena": 41.99,
     "zrodlo": "lego.pl (Firecrawl)",
@@ -5749,18 +5764,13 @@
     "zrodlo": "karta P07 Piotra (metryka „Cena katalogowa w Polsce”)",
     "data": "06.11.2026"
   },
-  "75466": {
-    "cena": 299.99,
-    "zrodlo": "lego.com/pl-pl — karta produktu „Wkrótce dostępne” (Firecrawl, 16.11.2026; cenę zgłosił Piotr w tekście 0048)",
-    "data": "16.11.2026"
-  },
   "_meta": {
     "opis": "Ceny katalogowe LEGO potwierdzone przez człowieka u zrodla. Rejestr write-once: cena katalogowa nie zmienia sie w czasie, wiec raz poprawnie wprowadzona zostaje na zawsze i NIE wymaga ponownego sprawdzania.",
     "pierwszenstwo": "Najwyzsze ze wszystkich zrodel. cenaKatalogowaSetu() czyta ten plik jako pierwszy, przed sety.json, ceny_baza.json i katalog.json. Zaden backfill ani runner nie moze nadpisac wpisu z tego pliku.",
     "dlaczego_istnieje": "Backfill RRP w katalog.json przeliczal ceny z Bricksetu (GBP/USD/EUR) kursem, a polski cennik LEGO ma wlasna drabine — 59,99 EUR to 249,99 zl, nie 259,99 zl. Kontrola 25.08.2026 znalazla 22 bledy na 198 porownywalnych setow.",
     "jak_dopisac": "Jeden wpis = jeden numer zestawu. Pola: cena (liczba), zrodlo (skad potwierdzenie), data (DD.MM.RRRR). Dopisujemy wylacznie ceny sprawdzone u zrodla przez czlowieka — nie zgadywane, nie przeliczane z walut.",
     "kontrola": "node scripts/kontrola-rrp.mjs",
-    "zaktualizowano": "2026-11-10",
+    "zaktualizowano": "2026-11-17",
     "karty_p07": "06.11.2026: dopisane RRP z kart Piotra (karty_setow.json, metryka „Cena katalogowa w Polsce” / „Polska cena katalogowa RRP”) dla hubow, ktorych lancuch cenaKatalogowaSetu nie znal zadnej ceny (audyt 06.11, pkt 3.2a). Nie nadpisano zadnego istniejacego wpisu. Karty z samym opisem „sposobu uzyskania” (gratisy, nagrody Insiders, BDP) bez kwoty pominiete."
   }
 }
