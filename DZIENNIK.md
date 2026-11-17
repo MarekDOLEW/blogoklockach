@@ -169,6 +169,12 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-17 08:58 · SKRZYNKA · GitHub: 0050, 0051
+Źródło: repo tylkoklocki-teksty, commit 47cf6610.
+- 0050 → https://tylkoklocki.pl/artykuly/weekend-lego-insiders-21-22-listopada-upominki-40914-szafa-grajaca/
+- 0051 → https://tylkoklocki.pl/artykuly/smart-play-czy-super-mario-jak-zmienilo-sie-interaktywne-lego/ (2 zdjęcia)
+
+
 ## 2026-11-17 08:50 · ŁOWCA · Do zrobienia
 
 **43018 Lionel Messi — cieszynka spadł w Media Expert do 349 zł (−55% od RRP 779,99) — pierwszy raz regularny sklep schodzi poniżej 50% RRP na tym zestawie; strona ukrywa ofertę do potwierdzenia.**
