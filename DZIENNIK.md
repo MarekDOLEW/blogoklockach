@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-17 08:50 · ŁOWCA · Do zrobienia
+
+**43018 Lionel Messi — cieszynka spadł w Media Expert do 349 zł (−55% od RRP 779,99) — pierwszy raz regularny sklep schodzi poniżej 50% RRP na tym zestawie; strona ukrywa ofertę do potwierdzenia.**
+**Mamy?** — częściowo: cena w danych i w hubie /zestaw/43018/, ale blok ofert ukrywa ją jako niepotwierdzoną (<50% RRP)
+**Zrobić:** — potwierdzić ofertę w panelu (deale_potwierdzone), link w dzisiejszym mailu „podejrzany rynek"; po potwierdzeniu to mocny kandydat na post dealowy (kryterium a)
+**Kto:** — Marek (decyzja, panel)
 ## 2026-11-17 08:30 · RADAR · Do zrobienia
 
 **`smyk-odswiez.mjs` · 17.11** — Zadanie z dzisiejszego wpisu DANE WT (adresowane do „Code") **zrobione**: skrypt rozpoznaje stronę blokady bota (`Gcore`, „Browser Validation Page", „Please enable cookies") i zwraca ją jako **błąd**, nie jako „niedostępny" — cena z poprzedniego przebiegu zostaje, oferta nie znika.
