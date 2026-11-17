@@ -169,6 +169,15 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-17 14:58 · SKRZYNKA · GitHub: 50 kart P07
+Źródło: repo tylkoklocki-teksty, commit ff2c74d7. 50 kart na hubach /zestaw/<nr>/ (m.in. 10270, 10273, 21051, 21052, 75978, 76191, 76193).
+Uwagi bez blokady — liczba elementów u Piotra i w katalogu różni się dla:
+- 41916 (109 vs 99)
+- 71741 (5686 vs 5685)
+- serii VIDIYO 43102–43107, 43113 i 43114 — wszędzie u Piotra o 13–14 więcej (najpewniej liczone z kafelkami BeatBit)
+Do sprawdzenia w Bricksecie.
+
+
 ## 2026-11-17 08:58 · SKRZYNKA · GitHub: 0050, 0051
 Źródło: repo tylkoklocki-teksty, commit 47cf6610.
 - 0050 → https://tylkoklocki.pl/artykuly/weekend-lego-insiders-21-22-listopada-upominki-40914-szafa-grajaca/
