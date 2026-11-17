@@ -168,6 +168,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-17 08:30 · RADAR · Do zrobienia
+
+**`smyk-odswiez.mjs` · 17.11** — Zadanie z dzisiejszego wpisu DANE WT (adresowane do „Code") **zrobione**: skrypt rozpoznaje stronę blokady bota (`Gcore`, „Browser Validation Page", „Please enable cookies") i zwraca ją jako **błąd**, nie jako „niedostępny" — cena z poprzedniego przebiegu zostaje, oferta nie znika.
+**Mamy?** — zmierzone na próbce 12 kart: przed poprawką takie karty dałyby **8 „niedostępnych"** (osiem zdjętych ofert), po poprawce idą jako 8 błędów i **0 zdjętych**.
+**Zrobić:** — druga sugestia z tamtego wpisu, mniejsza równoległość, **nie pomaga** i to też jest zmierzone: dodałem flagę `--rownolegle N`, przy 2 było 7 blokad na 12, przy 1 pięć. Domyślne 6 zostaje. Zostaje decyzja, jak czytać Smyka na czas blokady: **Firecrawl z proxy „basic" przechodzi** (12.11 karta 42240 odczytała się z ceną 675 zł), ale 5 kredytów za kartę × 704 to za dużo na cały katalog — albo punktowe sprawdzenia wybranych zestawów, albo zrzut z przeglądarki jak przy Empiku i x-komie.
+**Kto:** — Marek (decyzja)
+
+**dane · 17.11** — Wpis DANE WT mówi, że ceny Smyka „przywrócone ręcznie do stanu z 10.11.2026". **W danych tego nie ma** i warto to wiedzieć, zanim ktoś oprze na tym decyzję.
+**Mamy?** — sprawdzone, zanim czegokolwiek „przywróciłem": w `oferty_feed.json` nie ma ani jednej oferty Smyka z datą 10.11 — jest **368 z 12.11 i 203 z 13.11**, a 579 z 583 wartości zgadza się z moim odświeżeniem z 12.11 (42240 nadal 675 zł). Dane są więc świeższe, niż zapowiada ten wpis.
+**Zrobić:** — nic w danych; gdybym poszedł za notatką, nadpisałbym świeższe dane starszymi. Przy następnym wycofywaniu przebiegu warto w opisie podać **datę odczytu, która naprawdę została w plikach**.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-17 05:16 · DANE WT · Do zrobienia
 
 **`smyk-odswiez.mjs` dostał dziś od smyk.com stronę blokady bota (Gcore „Browser Validation Page" / „Please enable cookies i JavaScript") zamiast karty produktu — HTTP 200, więc skrypt nie liczy tego jako błąd sieci, tylko jako brak `schema.org/InStock` i usuwa ofertę. Skok z ~125 niedostępnych (10.11) do 558 z 704 w tym przebiegu nie jest realną zmianą stanu magazynowego: ręcznie sprawdzone 2 karty (10280, 10300) po przebiegu — obie dały tę samą stronę blokady, nie prawdziwą kartę produktu.**

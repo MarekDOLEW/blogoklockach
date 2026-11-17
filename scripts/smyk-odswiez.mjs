@@ -29,7 +29,11 @@ const P = (n) => `src/data/${n}`;
 const arg = process.argv.slice(2);
 const sucho = arg.includes('--sucho');
 const limit = Number(arg[arg.indexOf('--limit') + 1]) || 0;
-const ROWNOLEGLE = 6;
+// 17.11.2026: blokada bota Gcore włącza się na części żądań, nie od razu — próbka
+// 12 kart przy 6 równoległych dała 8 blokad i 4 prawdziwe karty. `--rownolegle N`
+// pozwala to zbadać bez edycji skryptu; domyślne 6 zostaje, bo przez dwa
+// miesiące działało bez blokad.
+const ROWNOLEGLE = Number(arg[arg.indexOf('--rownolegle') + 1]) || 6;
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36';
 const dzis = new Date().toISOString().slice(0, 10);
 
@@ -46,15 +50,25 @@ const lista = limit ? wybrane.slice(0, limit) : wybrane;
 console.log(`Kart Smyka do odczytu: ${lista.length}${lista.length !== adresy.length ? ` (z ${adresy.length})` : ''}${tylkoStare ? ' — tryb --stare' : ''}`);
 if (!lista.length) { console.error('Brak adresów w redirects.smyk — najpierw zrzut katalogu.'); process.exit(2); }
 
+// Strona blokady bota (Gcore) wraca z HTTP 200 i bez żadnego InStock — czyli
+// wygląda dokładnie jak karta wyprzedanego zestawu i do 17.11.2026 skrypt
+// zdejmował po niej oferty. Tego dnia dało to 558 „niedostępnych" z 704 kart
+// zamiast zwykłych ~125; przebieg trzeba było wycofać ręcznie, a dane Smyka
+// przywrócić z poprzedniego odczytu (wpis DANE WT w DZIENNIK.md). Dlatego
+// blokada jest teraz osobnym stanem i zachowuje się jak błąd sieci: cena
+// z poprzedniego przebiegu zostaje, oferta nie znika.
+const BLOKADA = /Browser Validation Page|Gcore|Please enable cookies|enable cookies and JavaScript/i;
+
 /** Cena z karty: itemProp="price" (liczba całkowita) + grosze z widocznej ceny. */
 function zeStrony(html) {
+  if (BLOKADA.test(html)) return { blokada: true, cena: null, dostepny: false };
   const dostepny = /schema\.org\/InStock/.test(html);
   const meta = /itemProp="price"\s+content="([\d.]+)"/.exec(html)?.[1];
   const widoczna = /price__new[^>]*>\s*([\d\s ]+,\d{2})/.exec(html)?.[1];
   const cena = widoczna
     ? Number(widoczna.replace(/[\s ]/g, '').replace(',', '.'))
     : meta ? Number(meta) : null;
-  return { cena: cena > 0 ? cena : null, dostepny };
+  return { blokada: false, cena: cena > 0 ? cena : null, dostepny };
 }
 
 const pobierz = async (url) => {
@@ -81,7 +95,9 @@ async function partiami(el, fn, ile) {
 
 const wyniki = await partiami(lista, async ([nr, url]) => {
   try {
-    const { cena, dostepny } = zeStrony(await pobierz(url));
+    const { blokada, cena, dostepny } = zeStrony(await pobierz(url));
+    // Blokada bota to błąd odczytu, nie brak oferty — patrz komentarz przy BLOKADA.
+    if (blokada) return { nr, stan: 'błąd: strona blokady bota (Gcore)' };
     // Karta zestawu wyprzedanego nie pokazuje ceny w ogóle (OutOfStock, przykład
     // 10333 Barad-dûr) — to nie błąd odczytu, tylko brak oferty.
     if (!dostepny) return { nr, stan: 'niedostępny' };

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-16",
-    "przebieg": "scheduled 2026-11-16 08:00",
+    "ostatnia_aktualizacja": "2026-11-17",
+    "przebieg": "scheduled 2026-11-17 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 406,
+    "liczba_wpisow": 411,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -59,7 +59,8 @@
       "2026-11-13": "Dwie nowe publikacje i jeden watek domkniety. (1) BRICKLINK WROCIL. Ten sam adres u fanklockow dostal trzeci tytul w tygodniu ('do poniedzialku' -> 'jednak do odwolania' -> 'juz dziala'), ale tym razem sprawdzenie u zrodla potwierdza dobra wiadomosc: bricklink.com nie przekierowuje juz na maintenance.bricklink.com, tylko serwuje normalna strone glowna z katalogiem i opiniami sprzedajacych sprzed minut. Awaria trwala 6-12 listopada i byla incydentem bezpieczenstwa ('unusual activity'). Notka, ktora wczoraj dopisalem do sekcji #bldp, zostala dzis USUNIETA - dokladnie tak, jak wczoraj zapisalem, ze zrobimy. Warto odnotowac, ze caly ten watek przeszedl przez trzy przebiegi Radaru i za kazdym razem decydowalo sprawdzenie u zrodla, a nie ich tytul: 08.11 ich 'do poniedzialku' bylo prawda i slusznie nie weszlo do kalendarza (wpis bylby martwy po 35 godzinach), 12.11 ich 'do odwolania' tez bylo prawda, ale powod byl powazniejszy, niz pisali, i to uzasadnilo notke, a dzis notka znika. CZEGO NIE SPRAWDZILEM: baner na stronie glownej BrickLinka zapowiada 'The return of the Designer Program' - link do ogloszenia zwraca 'Resource Not Found' (najpewniej wymaga konta). Nie zgaduje, co tam jest; jesli to zapowiedz serii 10 BLDP, dla kalendarza bedzie wazna dopiero z datami. (2) Fala hubow rocznika 2027 trwa trzeci tydzien - dzis Cutelings i Star Wars u faniklockow oraz szesc kolejnych serii u fanklockow (wszystkie ich adresy byly juz w bazie, to przedatowane ewergreeny). Obie nowe pozycje sprawdzilem, zanim zapisalem je jako luki, i ZADNA NIA NIE JEST: Cutelings sa w przecieki.json, known_sets.json i na /zapowiedzi-lego-2027/, a Star Wars ma siedem zestawow 2027 w sety.json i wlasny wpis Scouta z dzis rano o styczniowej fali. To odwrotnie niz 06.11 przy One Piece, ktorego nie mamy w ogole. Pozycja z 07.11 (przepisanie rocznika 2027 na strone zapowiedzi) nadal otwarta i to ona, a nie kolejne ich huby, jest tu prawdziwa robota. promoklocki.pl i zklockow.pl dzis nie sprawdzane: budzet poszedl na trzy weryfikacje BrickLinka i dwa sprawdzenia wlasnych danych.",
       "2026-11-14": "Piec nowych publikacji i ZERO pozycji do raportu - pierwszy taki dzien od dawna, wiec warto zapisac, dlaczego. Zaden z tych tekstow nie dotyka decyzji zakupowej w sezonie: dwa sa o obcych markach (klocki Blocków w Zabce, klocki magnetyczne - drugi raz po 31.10), jeden to relacja z odcinka LEGO Masters w telewizji, jeden to pogawedka o retro klasykach bez punktu zakupowego, a piaty to recenzja 910064 z wczesniejszej serii BLDP, czyli zestawu, ktorego z zalozenia nie ma w naszym rejestrze (BLDP nie wchodzi do normalnej dystrybucji, trzymamy z niego tylko serie 9 opisana w kalendarzu). Zgodnie z formatem raportu z 15.09 raport to jedno zdanie 'Nic do zrobienia' i NIE wysylam maila - wpisy ida do bazy, bo to pamiec deduplikacji, ale redakcji nie zawracam glowy. Odnotowany wzorzec: faniklockow w jeden dzien wydali trzy teksty poza zakresem zakupowym (telewizja, nostalgia, obca marka), a u fanklockow reszta feedu to przedatowane ewergreeny i COBI. Po trzech tygodniach fali zapowiedzi 2027 obie redakcje wyglądaja na wyczerpane tematami przed Black Friday. SPRAWDZONE PRZY OKAZJI, bo kalendarz twierdzi, ze to trwa: promocja Smyka 'poduszka za 1 zl' nadal wisi na ich stronie z tym samym warunkiem ('Kup zestaw LEGO za min. 359 zl i odbierz miekka poduszke minifigurke pierniczek za 1 zl', 'Rabat naliczy sie automatycznie w koszyku') i nadal bez daty konca. Sekcja #smyk-poduszka zostaje bez zmian. Na jutro zostaje zadanie z 10.11: okno gratisowe 9-15.11 konczy sie w niedziele, a niepotwierdzony upominek 30762 ma wtedy albo dostac date, albo wyleciec z kalendarza. promoklocki.pl i zklockow.pl dzis nie sprawdzane.",
       "2026-11-15": "Trzy nowe publikacje, dwie pozycje - i najwazniejsze dzisiaj jest SPROSTOWANIE NASZEGO WLASNEGO TEKSTU. Ostatniego dnia okna wyciagnalem pelna liste regulaminow z karty promocji lego.com/pl-pl i sa tam CZTERY upominki, nie trzy: 40898 (1-20.11), 40906 (9-20.11, Insiders, co najmniej 745 zl), 30720 (9-15.11, Disney od 165 zl) ORAZ 30762 Batman z retro gry wideo (9-15.11, 'Wartosc zakupionych artykulow z kolekcji DC lub Batman musi wynosic co najmniej 165 zl', wycena 16,49 zl, kanaly: online, salony LEGO i katalog telefoniczny). Czyli: (1) 30762 ISTNIEJE i serwisy branzowe mialy racje, a nasze zdanie 'nie potwierdzamy', ktore stalo w kalendarzu od 9 do 14 listopada, bylo bledem - nie LEGO go nie potwierdzalo, tylko ja go nie znalazlem; (2) 40906 zostalo WYDLUZONE z 15 na 20 listopada. DIAGNOZA WLASNEGO BLEDU, bo jest pouczajaca: 09.11 i 10.11 czytalem kafelki promocji (ekstrakcja JSON) i blok upominkow na karcie 76333 - w obu miejscach 30762 nie bylo. 10.11 zapisalem nawet regule 'rozbieznosc miedzy zrzutami rozstrzyga pelny tekst regulaminu', ale zastosowalem ja TYLKO do 40906, o ktore pytalem imiennie, zamiast wyciagnac cala sekcje regulaminow. Kafelki i blok upominkow na karcie produktu NIE SA kompletna lista - jedyna kompletna lista to sekcja regulaminow na dole karty promocji. Poprawione w kalendarzu: tabela ma cztery wiersze z wlasciwymi oknami i kanalami, naglowek mowi 'cztery gratisy, 9-20.11', pozycje w 'Co trwa teraz' sa rozbite (40906 do 20.11, dwa polybagi z dopiskiem 'dzis ostatni dzien'), dopisany akapit o roznicy kanalow, a w miejscu dawnego 'nie potwierdzamy' stoi jawne sprostowanie z cytatem z regulaminu. Druga pozycja: faniklockow pisza o gratisie 43018 Messi w Media Expercie do zakupow od 2000 zl (w pazdzierniku bylo 2500 zl). Ich ceny zgadzaja sie z naszymi co do groszy, co potwierdza, ze codzienny odczyt ME dziala, ale SAMEGO GRATISU NIE POTWIERDZILEM: karta ME renderuje sie AJAX-em i serwerowe zapytanie nie zwraca tresci promocji. Zgodnie z dzisiejsza lekcja nie zapisuje tego jako 'sklep nie potwierdza', tylko jako 'nie sprawdzono' - i do kalendarza to nie wchodzi. Przy okazji: ME sprzedaje samo 43018 za 550,51 zl, czyli realna wartosc tego gratisu jest o ponad 200 zl nizsza od katalogowej 779,99, ktora podaja. Trzecia publikacja to Black Friday marki Pantasy - poza zakresem.",
-      "2026-11-16": "Dwie nowe publikacje, trzy pozycje - i poniedzialek zaczyna sie od zamkniecia okna, ktore wczoraj minelo. (1) KALENDARZ: polybagi 30720 i 30762 mialy okno 9-15.11, wiec dzis maja w 'Co trwa teraz' plakietke 'zamkniete', a akapit o nich jest w czasie przeszlym z dopiskiem, ze kolejnego tak niskiego progu (165 zl) spodziewamy sie dopiero przy Weekendzie Insiders. 40906 i 40898 trwaja do 20.11 i zostaja na 'trwa'. Zrobione w tym przebiegu, bez czekania na nastepny - wczoraj po poludniu kalendarz juz by klamal. (2) DRUGI SERWIS Z KODAMI: faniklockow dostali pule kodow na gratis 30708 - ten sam zestaw i to samo okno 16-20.11, ktore fanklockow ogloszyli 05.11. Czyli nie jest to przywilej jednego serwisu, tylko sposob, w jaki LEGO.pl pracuje z polskimi partnerami contentowymi. Pozycja zgloszona Markowi 06.11 (czy probujemy o to samo przez nasz kanal afiliacyjny) zostaje otwarta i ma od dzis mocniejsza podstawe. (3) ICH OKAZJA WSKAZUJE NASZA STARA CENE, drugi raz w tygodniu: podaja Empik 206 zl dla 76321 (EOL, wyprzedane na lego.com), a u nas Empik stoi na 238,81 z 13.11 i najtansza realna oferta to Allegro 243,90, czyli powyzej katalogu. Tego NIE SPRAWDZILEM u zrodla - Empik blokuje ruch serwerowy i ceny stamtad ida z cotygodniowego zrzutu robionego recznie (poniedzialki). To ta sama klasa problemu co Smyk 12.11, z jedna roznica: Smyka odswieza sie skryptem z sesji, Empiku nie. Rozstrzygnie dzisiejszy zrzut. Trzy pozostale teksty z feedow to przedatowane ewergreeny, w tym ich prognoza Weekendu Insiders i Czarnego piatku - adres mamy w bazie od 16.10 i wtedy zapadla decyzja, ze nie przepisujemy ich dat, bo nasz kalendarz ma wlasna prognoze (21-26.11) opartą na naszych obserwacjach z tego roku."
+      "2026-11-16": "Dwie nowe publikacje, trzy pozycje - i poniedzialek zaczyna sie od zamkniecia okna, ktore wczoraj minelo. (1) KALENDARZ: polybagi 30720 i 30762 mialy okno 9-15.11, wiec dzis maja w 'Co trwa teraz' plakietke 'zamkniete', a akapit o nich jest w czasie przeszlym z dopiskiem, ze kolejnego tak niskiego progu (165 zl) spodziewamy sie dopiero przy Weekendzie Insiders. 40906 i 40898 trwaja do 20.11 i zostaja na 'trwa'. Zrobione w tym przebiegu, bez czekania na nastepny - wczoraj po poludniu kalendarz juz by klamal. (2) DRUGI SERWIS Z KODAMI: faniklockow dostali pule kodow na gratis 30708 - ten sam zestaw i to samo okno 16-20.11, ktore fanklockow ogloszyli 05.11. Czyli nie jest to przywilej jednego serwisu, tylko sposob, w jaki LEGO.pl pracuje z polskimi partnerami contentowymi. Pozycja zgloszona Markowi 06.11 (czy probujemy o to samo przez nasz kanal afiliacyjny) zostaje otwarta i ma od dzis mocniejsza podstawe. (3) ICH OKAZJA WSKAZUJE NASZA STARA CENE, drugi raz w tygodniu: podaja Empik 206 zl dla 76321 (EOL, wyprzedane na lego.com), a u nas Empik stoi na 238,81 z 13.11 i najtansza realna oferta to Allegro 243,90, czyli powyzej katalogu. Tego NIE SPRAWDZILEM u zrodla - Empik blokuje ruch serwerowy i ceny stamtad ida z cotygodniowego zrzutu robionego recznie (poniedzialki). To ta sama klasa problemu co Smyk 12.11, z jedna roznica: Smyka odswieza sie skryptem z sesji, Empiku nie. Rozstrzygnie dzisiejszy zrzut. Trzy pozostale teksty z feedow to przedatowane ewergreeny, w tym ich prognoza Weekendu Insiders i Czarnego piatku - adres mamy w bazie od 16.10 i wtedy zapadla decyzja, ze nie przepisujemy ich dat, bo nasz kalendarz ma wlasna prognoze (21-26.11) opartą na naszych obserwacjach z tego roku.",
+      "2026-11-17": "Piec nowych publikacji i zadna nie wnosi nic poza czwartym tygodniem fali 2027 - ale przebieg i tak nie byl pusty, bo zaczal sie od sprawdzenia WLASNEGO podejrzenia, ktore okazalo sie falszywe. Wpis DANE WT z dzisiejszego rana mowi, ze 'ceny i dostepnosc Smyka przywrocone recznie do stanu z 10.11.2026'. Brzmialo to jak cofniecie mojego odswiezenia z 12.11 (25 zmian cen, osiem zestawow, w ktorych Smyk zostal najtanszym sklepem). SPRAWDZONE PRZED JAKIMKOLWIEK 'PRZYWRACANIEM': w oferty_feed.json nie ma ANI JEDNEJ oferty Smyka z data 10.11 - jest 368 z 12.11 i 203 z 13.11, a 579 z 583 wartosci zgadza sie z moim przebiegiem z 12.11 (42240 nadal 675 zl z data 12.11). Czyli dane sa w lepszym stanie, niz zapowiada ten wpis, i nie bylo czego restaurowac; gdybym poszedl za notatka, nadpisalbym swiezsze dane starszymi. Zapisuje to, bo wpis w dzienniku zostanie i ktos moze na nim oprzec decyzje. CO ZOSTALO ZROBIONE: zadanie z tamtego wpisu bylo zaadresowane do 'Code', wiec wziolem je w tym przebiegu. scripts/smyk-odswiez.mjs rozpoznaje teraz strone blokady bota (Gcore / 'Browser Validation Page' / 'Please enable cookies') i zwraca ja jako BLAD, nie jako 'niedostepny' - czyli cena z poprzedniego przebiegu zostaje, oferta nie znika. Probka 12 kart: przed poprawka takie karty szlyby jako 8 niedostepnych (osiem zdjetych ofert), po poprawce ida jako 8 bledow i 0 zdjetych. Druga sugestia z tamtego wpisu - mniejsza rownoleglosc - NIE pomaga i to tez jest zmierzone: dodalem flage --rownolegle N i przy 2 bylo 7 blokad na 12, przy 1 piec. Blokada nie jest wiec funkcja naszego tempa, tylko decyzji Smyka; domyslne 6 zostaje. Wazna poszlaka na przyszlosc: 12.11 karta 42240 odczytala sie BEZ problemu przez Firecrawl z proxy 'basic' (cena 675 zl i plakietka poduszki), wiec droga przegladarkowa dziala tam, gdzie goly curl dostaje blokade. Przy 704 kartach Firecrawl jest za drogi na caly katalog (5 kredytow za karte), ale nadaje sie do punktowego sprawdzenia pojedynczych zestawow i to jest realna opcja na czas blokady - obok drogi, ktora dzialaja Empik i x-kom, czyli zrzutu z przegladarki czlowieka. Decyzja nalezy do Marka, bo zmienia sposob pracy runnera Dane wt."
     }
   },
   "publikacje": [
@@ -4854,6 +4855,61 @@
         "amazon"
       ],
       "notatki": "Podaja Empik 206 zl (2% ponizej katalogu) dla 76321, ktore jest tegorocznym EOL i wyprzedalo sie na lego.com. U NAS Empik dla tego zestawu stoi na 238,81 zl z odczytu 13.11, a najtansza oferta po odsiewie ceneo i lego to Allegro 243,90, czyli POWYZEJ ceny katalogowej - gdyby ich 206 zl bylo prawdziwe, to Empik bylby najtanszy, a u nas tego nie widac. NIE SPRAWDZONE u zrodla: Empik blokuje ruch serwerowy, wiec ceny stamtad bierzemy z cotygodniowego zrzutu robionego przez czlowieka (skill klocki-ceny-empik, poniedzialki). To ta sama klasa problemu co Smyk 12.11: sklep z tygodniowym odczytem robi obnizke w srodku tygodnia i przez kilka dni pokazujemy stara cene. Roznica jest taka, ze Smyka mozemy odswiezyc skryptem z sesji, a Empiku nie - rozstrzygnie dzisiejszy poniedzialkowy zrzut."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Disney",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-disney/",
+      "data_publikacji": "2026-11-16",
+      "data_wykrycia": "2026-11-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejny hub rocznika 2027. Czwarty tydzien tej fali; nic nowego poza seria."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Ninjago na 2027 rok.",
+      "url": "https://faniklockow.pl/2026/11/16/zapowiedzi-serii-lego-ninjago-na-2027-rok/",
+      "data_publikacji": "2026-11-16",
+      "data_wykrycia": "2026-11-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Hub serii, ktory u nich wychodzi po raz drugi (pierwszy 06.11) pod nowym adresem z data w sciezce - ich dedup po dacie publikacji, nie po slugu. U nas Ninjago 2027 jest na /zapowiedzi-lego-2027/ (spinnery 71873 i 71875 z cenami)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Friends na 2027 rok.",
+      "url": "https://faniklockow.pl/2026/11/16/zapowiedzi-serii-lego-friends-na-2027-rok/",
+      "data_publikacji": "2026-11-16",
+      "data_wykrycia": "2026-11-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Friends 2027 mamy w rejestrze (42709, 42718, 42719 z polskimi cenami) i na stronie zapowiedzi; 42717 nadal brakuje - pozycja z 07.11."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Disney na 2027 rok.",
+      "url": "https://faniklockow.pl/2026/11/16/zapowiedzi-serii-lego-disney-na-2027-rok/",
+      "data_publikacji": "2026-11-16",
+      "data_wykrycia": "2026-11-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Disney 2027: w sety.json nie mamy zadnego zestawu tej serii z premiera 2027. Do sprawdzenia przez Scouta przy nastepnym zaciagu katalogu, nie zadanie Radaru."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO City na 2027 rok.",
+      "url": "https://faniklockow.pl/2026/11/16/zapowiedzi-serii-lego-city-na-2027-rok/",
+      "data_publikacji": "2026-11-16",
+      "data_wykrycia": "2026-11-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "City 2027: tak samo jak Disney - brak w sety.json, material Scouta."
     }
   ],
   "obserwacje_strategiczne": {
