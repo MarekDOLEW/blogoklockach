@@ -168,6 +168,15 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-17 05:16 · DANE WT · Do zrobienia
+
+**`smyk-odswiez.mjs` dostał dziś od smyk.com stronę blokady bota (Gcore „Browser Validation Page" / „Please enable cookies i JavaScript") zamiast karty produktu — HTTP 200, więc skrypt nie liczy tego jako błąd sieci, tylko jako brak `schema.org/InStock` i usuwa ofertę. Skok z ~125 niedostępnych (10.11) do 558 z 704 w tym przebiegu nie jest realną zmianą stanu magazynowego: ręcznie sprawdzone 2 karty (10280, 10300) po przebiegu — obie dały tę samą stronę blokady, nie prawdziwą kartę produktu.**
+**Mamy?** — częściowo: mechanizm `InStock`/`OutOfStock` działa (sprawdzone wcześniej na 75192, RUNBOOK), ale nie rozpoznaje strony blokady jako błędu.
+**Zrobić:** — w `scripts/smyk-odswiez.mjs`, funkcja `zeStrony` (linia ok. 50–58): dodać wykrywanie strony blokady (np. `/Gcore|Browser Validation Page|Please enable cookies/.test(html)`) i w takim przypadku zwracać `błąd` (jak przy nieudanym fetchu), nie `niedostępny` — żeby wczorajsza cena zostawała, nie znikała. Do rozważenia też mniejsza równoległość (`ROWNOLEGLE`), jeśli blokada włącza się po liczbie żądań, nie od razu.
+**Kto:** — Code
+
+**Przebieg 17.11 NIE wczytał wyniku `smyk-odswiez.mjs` do danych** — ceny i dostępność Smyka w `sety.json`/`oferty_feed.json` przywrócone ręcznie do stanu z 10.11.2026 (ostatni znany dobry odczyt), żeby blokada bota nie zdjęła ~430 prawdziwych ofert ze strony. Commit `cff338a` zawiera tę korektę razem z resztą przebiegu (LEGO.pl, Rebrickable, MediaMarkt, Lidl — te źródła działały normalnie).
+
 ## 2026-11-17 05:15 · SCOUT · Do zrobienia
 
 **LEGO pokazało 16.11 oba gratisy na Insiders Weekend i Black Friday: 40914 Szafa grająca w stylu retro (287 elementów, 18+) i 40918 Zimowa kula śnieżna (231 elementów, 10+), oba do zdobycia od 21 do 29 listopada 2026.**
