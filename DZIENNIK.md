@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-17 05:15 · SCOUT · Do zrobienia
+
+**LEGO pokazało 16.11 oba gratisy na Insiders Weekend i Black Friday: 40914 Szafa grająca w stylu retro (287 elementów, 18+) i 40918 Zimowa kula śnieżna (231 elementów, 10+), oba do zdobycia od 21 do 29 listopada 2026.**
+**Mamy?** — częściowo: oba zestawy są od dziś w `sety.json` z polem `bez_rrp`, mają huby `/zestaw/40914/` i `/zestaw/40918/`, a przecieki o nich (z 31.10, pewność „niska") rozstrzygnięte jako potwierdzone. W `kalendarz-promocji-lego.md` wiersz „21–30.11" stoi jako „przewidywane" i nie wymienia żadnego z tych numerów.
+**Zrobić:** — dopisać 40914 i 40918 do kalendarza promocji (wiersz „21–30.11" w tabeli okien i sekcja listopadowa): okno 21–29.11.2026 z Bricksetu, progi niemieckie 250 euro dla 40914 (wymagane Insiders) i 170 euro dla 40918, z zastrzeżeniem, że polskich progów LEGO nie podało.
+**Kto:** — Code (dane, strona)
+
 
 ## 2026-11-16 14:58 · SKRZYNKA · GitHub: Recenzje_022 + 50 kart P07
 Źródło: repo tylkoklocki-teksty, commit 9b75a458.

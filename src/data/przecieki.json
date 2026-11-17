@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-16",
+  "zaktualizowano": "2026-11-17",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -2077,7 +2077,7 @@
   {
    "id": "40914",
    "numer": "40914",
-   "nazwa": "Gratis na Insiders Weekend i Black Friday (nazwa nieznana)",
+   "nazwa": "Szafa grająca w stylu retro (GWP Black Friday)",
    "seria": "Ekskluzywne i promocyjne",
    "elementy": null,
    "cena_wg_zrodla": null,
@@ -2088,17 +2088,31 @@
      "nazwa": "StoneWars",
      "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
      "data": "2026-10-30"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Retro-Musikautomat (40914) & Winterschneekugel (40918): Zwei GWPs zum Insiders-Wochenende und LEGO Black Friday offiziell vorgestellt”",
+     "url": "https://www.stonewars.de/news/lego-retro-musikautomat-40914-winterschneekugel-40918-vorstellung/",
+     "data": "2026-11-16"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 40914-1 (motyw Promotional, podseria Gift with Purchase, 287 elementów, Availability „LEGO Gift with Purchase”, okno 21–29.11.2026)",
+     "url": "https://brickset.com/sets/40914-1",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-31",
-   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Drugi numer z tej pary to 40918. Progi 170 i 250 euro to porównanie historyczne StoneWars, nie zapowiedź.",
-   "opis": "Numer zarezerwowany pod jeden z dwóch gratisów, które LEGO ma dawać przy zakupach w czasie Insiders Weekend 21–22 listopada 2026 i Black Friday 27–30 listopada. StoneWars podaje sam numer ze znakiem zapytania — nazwy, zawartości ani progu kwotowego nie zna nikt poza producentem. W poprzednich latach progi dla gratisów niezwiązanych z konkretnym zestawem wynosiły 170 i 250 euro, ale przy braku zdjęć nie wiadomo, czy w tym roku będzie podobnie.",
-   "rozstrzygniecie": null
+   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Drugi numer z tej pary to 40918. Progi 170 i 250 euro to porównanie historyczne StoneWars, nie zapowiedź.\n\n17.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. StoneWars opisał 16.11 oficjalną prezentację, oba zestawy są wylistowane w sklepie LEGO. Numer zgodny, termin trafiony co do miesiąca (zapowiadane 2026-11, start 21.11.2026). Testu ceny nie było — przeciek jej nie podawał, a GWP nie ma ceny katalogowej. Pewność zostaje „niska”, bo taka była w chwili zapisu i to ona podlega ocenie; zestaw dopisany do sety.json z polem bez_rrp w tym samym przebiegu. Brickset potwierdza dane twarde i podaje okno akcji 21–29.11.2026 (pole Launch/exit) — ta data końca nie stała w materiale StoneWars.",
+   "opis": "Upominek do zamówień w sklepie LEGO w weekend Insiders 21–22 listopada 2026 i w akcjach Black Friday od 27 listopada. Przeciek znał wyłącznie numer, zarezerwowany pod jeden z dwóch gratisów tej akcji. LEGO pokazało zestaw 16 listopada 2026: to miniaturowa szafa grająca z 287 elementów, z otwieraną klapą, minifigurką w środku i mikrowersją samej szafy. Numer i listopadowy termin się potwierdziły, a niemiecki próg 250 euro okazał się taki sam jak w poprzednich latach.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-17",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i termin trafione: LEGO ujawniło zestaw 16 listopada 2026 jako Retro-Musikautomat — 287 elementów, oznaczenie 18+, dostępny od 21 listopada. Przeciek nie podawał ceny ani zawartości, więc jedyne, co dało się sprawdzić, to numer i miesiąc. Niemiecki próg 250 euro zgadza się z historycznym porównaniem, które przytaczało źródło."
+   }
   },
   {
    "id": "40918",
    "numer": "40918",
-   "nazwa": "Drugi gratis na Insiders Weekend i Black Friday (nazwa nieznana)",
+   "nazwa": "Zimowa kula śnieżna (GWP Black Friday)",
    "seria": "Ekskluzywne i promocyjne",
    "elementy": null,
    "cena_wg_zrodla": null,
@@ -2109,12 +2123,26 @@
      "nazwa": "StoneWars",
      "url": "https://www.stonewars.de/news/lego-neuheiten-november-2026/",
      "data": "2026-10-30"
+    },
+    {
+     "nazwa": "StoneWars — „LEGO Retro-Musikautomat (40914) & Winterschneekugel (40918): Zwei GWPs zum Insiders-Wochenende und LEGO Black Friday offiziell vorgestellt”",
+     "url": "https://www.stonewars.de/news/lego-retro-musikautomat-40914-winterschneekugel-40918-vorstellung/",
+     "data": "2026-11-16"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 40918-1 (motyw Promotional, podseria Gift with Purchase, 231 elementów, Availability „LEGO Gift with Purchase”, okno 21–29.11.2026)",
+     "url": "https://brickset.com/sets/40918-1",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-31",
-   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Pierwszy numer z tej pary to 40914.",
-   "opis": "Numer zarezerwowany pod drugi gratis na Insiders Weekend 21–22 listopada 2026 i Black Friday 27–30 listopada. Tak jak przy numerze 40914, StoneWars podaje tylko numer ze znakiem zapytania, bez nazwy, zawartości i progu zakupowego. LEGO reklamuje już oba wydarzenia w swoim sklepie, ale szczegółów promocji nie ujawnia.",
-   "rozstrzygniecie": null
+   "uwagi": "31.10.2026: wpis z zestawienia listopadowych nowości StoneWars (30.10), gdzie numer stoi w nawiasie kwadratowym ze znakiem zapytania — serwis sam nie traktuje go jako pewnika. PromoBricks tego numeru nie podaje (strona główna sprawdzona 31.10). Jedno źródło i sam numer, więc „niska\". Pierwszy numer z tej pary to 40914.\n\n17.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. StoneWars opisał 16.11 oficjalną prezentację, oba zestawy są wylistowane w sklepie LEGO. Numer zgodny, termin trafiony co do miesiąca (zapowiadane 2026-11, start 21.11.2026). Testu ceny nie było — przeciek jej nie podawał, a GWP nie ma ceny katalogowej. Pewność zostaje „niska”, bo taka była w chwili zapisu i to ona podlega ocenie; zestaw dopisany do sety.json z polem bez_rrp w tym samym przebiegu. Brickset potwierdza dane twarde i podaje okno akcji 21–29.11.2026 (pole Launch/exit) — ta data końca nie stała w materiale StoneWars.",
+   "opis": "Drugi z dwóch upominków do zamówień w sklepie LEGO w weekend Insiders 21–22 listopada 2026 i w akcjach Black Friday od 27 listopada. Przeciek znał sam numer. LEGO pokazało zestaw 16 listopada 2026: kula śnieżna z 231 elementów, z korbą obracającą choinkę w środku i oznaczeniem 10+. Numer i listopadowy termin się potwierdziły, a niemiecki próg wynosi 170 euro.",
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-17",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer i termin trafione: LEGO ujawniło zestaw 16 listopada 2026 jako Winterschneekugel — 231 elementów, oznaczenie 10+, dostępny od 21 listopada. Ceny ani zawartości przeciek nie podawał, więc sprawdzeniu podlegały tylko numer i miesiąc. Niemiecki próg 170 euro pokrywa się z historycznym porównaniem ze źródła."
+   }
   },
   {
    "id": "dragon-ball-2027",
