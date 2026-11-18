@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-18 05:20 · SCOUT · Do zrobienia
+
+**StoneWars opublikował 17.11 cztery materiały z pierwszymi zdjęciami styczniowej fali 2027: City (20 numerów), Disney (6), Ninjago (7) i dwa dodatkowe Star Wars — razem 35 numerów, z czego 26 nie było u nas w ogóle.**
+**Mamy?** — częściowo: wszystkie 35 stoi od dziś w `src/data/przecieki.json` i na `/przecieki/` (26 nowych wpisów, 9 październikowych podniesionych z „niskiej" na „średnią"). Strona `/zapowiedzi-lego-2027/` nie wymienia **ani jednego** numeru 60xxx ani 433xx — `grep "60[0-9][0-9][0-9]\|433[0-9][0-9]" src/pages/zapowiedzi-lego-2027.md` daje dziś 0 trafień.
+**Zrobić:** — dopisać do `src/pages/zapowiedzi-lego-2027.md` sekcje City i Disney na styczeń 2027 na podstawie `przecieki.json` (numery, elementy, cena niemiecka, wiek), z plakietką pewności przy każdym numerze; dane są gotowe, nie trzeba nic pobierać.
+**Kto:** — Code (dane, strona)
+
 
 ## 2026-11-17 14:58 · SKRZYNKA · GitHub: 50 kart P07
 Źródło: repo tylkoklocki-teksty, commit ff2c74d7. 50 kart na hubach /zestaw/<nr>/ (m.in. 10270, 10273, 21051, 21052, 75978, 76191, 76193).

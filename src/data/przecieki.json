@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-17",
+  "zaktualizowano": "2026-11-18",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -994,17 +994,22 @@
    "elementy": 120,
    "cena_wg_zrodla": 60,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „X-Wing Microfighter & Endor Battle Pack: Erste Bilder weiterer LEGO Star Wars Januar-Neuheiten 2027 aufgetaucht!”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-januar-neuheiten-2027-erster-blick-microfighter-battle-pack/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "120 elementów, 1 minifigurka, 6+, start 1.01.2027. UWAGA na cene: w tekscie StoneWars stoi „gleichbleibende UVP von 14,99 US-Dollar”, a w tabelce „voraussichtlich 14,99 Euro” — sprzecznosc wewnatrz jednego zrodla. Wpisane 60 zl jako srodek (14,99 USD to ~55 zl, 14,99 EUR to ~64 zl); przy rozstrzyganiu traktowac os ceny ostroznie.",
-   "opis": "Nowy microfighter, tym razem X-Wing Luke’a Skywalkera: według przecieków 120 elementów, jedna minifigurka i premiera 1 stycznia 2027. Cena w źródle jest niespójna — raz pojawia się 14,99 dolara, raz 14,99 euro — więc podana kwota w złotych jest tylko orientacją. Przeciek opiera się na kanałach społecznościowych relacjonowanych przez jeden serwis branżowy.",
+   "uwagi": "120 elementów, 1 minifigurka, 6+, start 1.01.2027. UWAGA na cene: w tekscie StoneWars stoi „gleichbleibende UVP von 14,99 US-Dollar”, a w tabelce „voraussichtlich 14,99 Euro” — sprzecznosc wewnatrz jednego zrodla. Wpisane 60 zl jako srodek (14,99 USD to ~55 zl, 14,99 EUR to ~64 zl); przy rozstrzyganiu traktowac os ceny ostroznie.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (120 elementów, 14,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Microfighter z X-Wingiem Luke’a Skywalkera i jedną minifigurką. Przeciek mówi o 120 elementach, 1 minifigurkach i cenie 14,99 euro, czyli orientacyjnie około 60 zł, przy oznaczeniu 6+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1085,17 +1090,22 @@
    "elementy": 168,
    "cena_wg_zrodla": 130,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Alle LEGO Star Wars 2027 Gerüchte in der Übersicht” (relacja z kanałów buggyleaks, Maxbaut, Brick Tap)",
      "url": "https://www.stonewars.de/geruechte/lego-star-wars-2027-geruechte/",
      "data": "2026-10-19"
+    },
+    {
+     "nazwa": "StoneWars — „X-Wing Microfighter & Endor Battle Pack: Erste Bilder weiterer LEGO Star Wars Januar-Neuheiten 2027 aufgetaucht!”",
+     "url": "https://www.stonewars.de/news/lego-star-wars-januar-neuheiten-2027-erster-blick-microfighter-battle-pack/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-20",
-   "uwagi": "168 elementow, 29,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.",
-   "opis": "Kolejny zestaw bitewny, tym razem z Endoru: przecieki mówią o 168 elementach, cenie 29,99 euro (orientacyjnie około 130 zł) i premierze 1 stycznia 2027. Zestawy bitewne to zwykle cztery minifigurki i drobna konstrukcja, ale składu tego kompletu nikt jeszcze nie podał. Informacja opiera się na kanałach społecznościowych relacjonowanych przez StoneWars.",
+   "uwagi": "168 elementow, 29,99 euro, start 1.01.2027. Wpis z tabeli zbiorczej StoneWars (stan 19.10.2026); zrodlem pierwotnym sa kanaly spolecznosciowe. Przelicznik euro na zlote zgrubny (okolo 4,25), dolara (okolo 3,70), zaokraglony do 10 zl — to nie cena katalogowa. Dopisane 20.10.2026 na polecenie Marka: cala reszta numerow z tego przegladu, takze te bez pelnych danych.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (168 elementów, 29,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Zestaw bitewny z Endoru z czterema minifigurkami. Przeciek mówi o 168 elementach, 4 minifigurkach i cenie 29,99 euro, czyli orientacyjnie około 130 zł, przy oznaczeniu 6+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1571,17 +1581,22 @@
    "elementy": 191,
    "cena_wg_zrodla": 80,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "191 elementow, 19,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Mały smok ognia dla Kaia: według przecieków 191 elementów i cena 19,99 euro, czyli orientacyjnie około 80 zł, z premierą w styczniu 2027. To typowa pozycja wejściowa fali — smok plus jedna, dwie minifigurki, choć składu nikt jeszcze nie podał. Dane pochodzą z kanałów społecznościowych, bez potwierdzenia producenta.",
+   "uwagi": "191 elementow, 19,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (191 elementów, 19,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Mały czerwony smok ognia Kaia z dwiema minifigurkami. Przeciek mówi o 191 elementach, 2 minifigurkach i cenie 19,99 euro, czyli orientacyjnie około 80 zł, przy oznaczeniu 7+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1592,17 +1607,22 @@
    "elementy": 365,
    "cena_wg_zrodla": 170,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "365 elementow, 39,99 euro. Motyw fali: zestawy transformujace sie. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Odrzutowiec Jaya z mechanizmem przemiany — motyw przewodni zapowiadanej fali, w której kilka zestawów ma się przekształcać. Przecieki podają 365 elementów i cenę 39,99 euro, czyli orientacyjnie około 170 zł, premiera w styczniu 2027. Źródłem są kanały społecznościowe relacjonowane przez StoneWars.",
+   "uwagi": "365 elementow, 39,99 euro. Motyw fali: zestawy transformujace sie. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (365 elementów, 39,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Odrzutowiec Jaya z mechanizmem przemiany i trzema minifigurkami. Przeciek mówi o 365 elementach, 3 minifigurkach i cenie 39,99 euro, czyli orientacyjnie około 170 zł, przy oznaczeniu 8+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1613,17 +1633,22 @@
    "elementy": 491,
    "cena_wg_zrodla": 210,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "491 elementow, 49,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Mech Zane’a z tej samej, transformującej się fali: 491 elementów i cena 49,99 euro, czyli orientacyjnie około 210 zł, premiera w styczniu 2027. Co dokładnie zmienia się w modelu, nie wiadomo. Przeciek opiera się na kanałach społecznościowych, producent nie potwierdził niczego.",
+   "uwagi": "491 elementow, 49,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (491 elementów, 49,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Mech Zane’a z mechanizmem przemiany i czterema minifigurkami. Przeciek mówi o 491 elementach, 4 minifigurkach i cenie 49,99 euro, czyli orientacyjnie około 210 zł, przy oznaczeniu 7+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1634,17 +1659,22 @@
    "elementy": 108,
    "cena_wg_zrodla": 40,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "108 elementow, 9,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Najtańsza pozycja zapowiadanej fali: motocykl Arina ze 108 elementów za 9,99 euro, czyli orientacyjnie około 40 zł, z premierą w styczniu 2027. Przy tej cenie to zestaw do zabawy, nie model na półkę. Dane pochodzą z kanałów społecznościowych.",
+   "uwagi": "108 elementow, 9,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (108 elementów, 9,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Motocykl Arina z mechanizmem przemiany, dwie minifigurki — najtańsza pozycja fali. Przeciek mówi o 108 elementach, 2 minifigurkach i cenie 9,99 euro, czyli orientacyjnie około 40 zł, przy oznaczeniu 7+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1655,17 +1685,22 @@
    "elementy": 370,
    "cena_wg_zrodla": 280,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "370 elementow, 64,99 euro — stosunek ceny do elementow wyraznie wyzszy niz w reszcie fali (mechanizm z napedem). Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Pojazd Kaia z silnikiem na wycofanie, zapowiadany na styczeń 2027: 370 elementów i cena 64,99 euro, czyli orientacyjnie około 280 zł. Cena jest wysoka wobec liczby elementów, co zwykle oznacza dużą część mechaniczną w komplecie. Informacja pochodzi z kanałów społecznościowych relacjonowanych przez jeden serwis.",
+   "uwagi": "370 elementow, 64,99 euro — stosunek ceny do elementow wyraznie wyzszy niz w reszcie fali (mechanizm z napedem). Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (370 elementów, 64,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Pojazd Kaia z silnikiem na wycofanie i czterema minifigurkami. Przeciek mówi o 370 elementach, 4 minifigurkach i cenie 64,99 euro, czyli orientacyjnie około 280 zł, przy oznaczeniu 7+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1676,17 +1711,22 @@
    "elementy": 757,
    "cena_wg_zrodla": 380,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "757 elementow, 89,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Duży smok Gardoz z mechanizmem przemiany: według przecieków 757 elementów i cena 89,99 euro, czyli orientacyjnie około 380 zł, premiera w styczniu 2027. W fali to pozycja ze środka górnej półki. Źródłem są kanały społecznościowe, nie producent.",
+   "uwagi": "757 elementow, 89,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (757 elementów, 89,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Duży smok Gardoz z mechanizmem przemiany i sześcioma minifigurkami — najwięcej figurek w tej fali. Przeciek mówi o 757 elementach, 6 minifigurkach i cenie 89,99 euro, czyli orientacyjnie około 380 zł, przy oznaczeniu 8+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -1718,17 +1758,22 @@
    "elementy": 733,
    "cena_wg_zrodla": 300,
    "premiera_wg_zrodla": "2027-01",
-   "pewnosc": "niska",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „LEGO Ninjago 2027: Beschreibungen der Januar-Neuheiten” (przegląd plotek, kanały społecznościowe)",
      "url": "https://www.stonewars.de/geruechte/lego-ninjago-2027-geruechte/",
      "data": "2026-10-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erster Blick auf die LEGO NINJAGO Neuheiten im Januar 2027 mit neuen Minifiguren zu «Dragon’s Fury» & «Embers + Ashes»”",
+     "url": "https://www.stonewars.de/news/lego-ninjago-januar-sets-2027-erster-blick/",
+     "data": "2026-11-17"
     }
    ],
    "dodano": "2026-10-21",
-   "uwagi": "733 elementy, 69,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.",
-   "opis": "Zestaw z mechem ziemi i pojedynkiem: 733 elementy i cena 69,99 euro, czyli orientacyjnie około 300 zł, premiera w styczniu 2027. Nazwa w źródle jest już konkretna, co zwykle oznacza, że przeciek pochodzi z materiałów dystrybucyjnych, ale potwierdzenia producenta nadal nie ma.",
+   "uwagi": "733 elementy, 69,99 euro. Wpis z tabeli zbiorczej przegladu Ninjago 2027 u StoneWars (stan 20.10.2026), zrodlo pierwotne spolecznosciowe. Przelicznik euro na zlote zgrubny (4,25), zaokraglony do 10 zl — to nie cena katalogowa. Kalibracja: w tej samej fali 71875 za 19,99 euro ma polska cene 84,99 zl, czyli nasze zaokraglenie bywa o kilka procent nizsze od drabiny LEGO.\n\n18.11.2026: PODNIESIENIE „niska” → „srednia”. StoneWars opublikował 17.11 pierwsze zdjęcia produktowe tej fali i powtarza dokładnie te same liczby, które mieliśmy z października (733 elementów, 69,99 euro) — doszedł dowód w postaci zdjęć, więc drabina daje „srednia”. Do „wysokiej” nadal brakuje drugiego serwisu: PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026). Cena w źródle oznaczona jako „voraussichtlich”.",
+   "opis": "Zestaw z mechem ziemi i dwiema minifigurkami. Przeciek mówi o 733 elementach, 2 minifigurkach i cenie 69,99 euro, czyli orientacyjnie około 300 zł, przy oznaczeniu 10+ i premierze 1 stycznia 2027. Te same liczby, które wcześniej krążyły w tabelach zbiorczych, potwierdziły pierwsze zdjęcia produktowe, które wyciekły przed oficjalną zapowiedzią. Brakuje drugiego serwisu branżowego z tymi danymi i polskiej ceny katalogowej — LEGO fali jeszcze nie przedstawiło.",
    "rozstrzygniecie": null
   },
   {
@@ -2586,6 +2631,552 @@
    "dodano": "2026-11-10",
    "uwagi": "Teaser w aplikacji Nintendo Today! z 09.11.2026: widac fragment oczu i pyska Yoshiego plus haslo o zestawie, ktory „wypadnie z jaja\". Kanal jest oficjalny, ale teaser nie podaje ani numeru, ani ceny, ani daty — marzec 2027 to przypuszczenie StoneWars, nie informacja producenta, dlatego pewnosc „niska\". Porownanie do Bowsera (71411) tez jest szacunkiem serwisu. PromoBricks o teaserze nie pisal (strona glowna 10.11.2026). Podniesc, gdy pojawi sie numer albo karta produktu.\n\nPODNIESIENIE 11.11.2026 z „niska\" na „srednia\": doszedl drugi serwis branzowy (PROMOBRICKS, 10.11.2026) i konkretne dane — numer 72059 oraz 755 elementow. Nie „wysoka\", bo PROMOBRICKS wprost pisze, ze numer i liczba elementow pochodza z Reddita („Wie auf Reddit zu lesen ist\"), a termin „Anfang Marz\" tez od tego zrodla; ceny nie podal nikt, wiec kryterium drabiny (dwa serwisy zgodne co do numeru i ceny) nie jest spelnione. Potwierdzone oficjalnie zostaje samo istnienie modelu — teaser LEGO i Nintendo w aplikacji Nintendo Today!. Kontrola u zrodla twardego 11.11.2026: brickset.com/sets/theme-Super-Mario/year-2027 ma 72052, 72054-72058, 72060 i 72061, a 72059 nie — czyli katalog tego numeru jeszcze nie zna, a luka w numeracji wypada dokladnie tam.",
    "opis": "Duży, budowany Yoshi — pierwsza zapowiedź zestawów Super Mario na 2027 rok. Sam model potwierdzają LEGO i Nintendo: teaser z fragmentem oczu i pyska ukazał się w aplikacji Nintendo Today!, a opisały go oba niemieckie serwisy branżowe. Numer 72059 i 755 elementów pochodzą już tylko z doniesień społeczności przekazanych przez PROMOBRICKS, podobnie jak termin na początek marca 2027; ceny nie podaje nikt. Katalog Bricksetu zna osiem zestawów Super Mario rocznika 2027, ale numeru 72059 wśród nich nie ma — i to właśnie ten numer wypada w numeracji serii.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43340",
+   "numer": "43340",
+   "nazwa": "Sulley, Mike i Boo",
+   "seria": "Disney",
+   "elementy": 1052,
+   "cena_wg_zrodla": 420,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 1052 elementów, 0 minifigurek, 99,99 euro, 9+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Trójka bohaterów „Potworów i spółki” w jednym zestawie wystawowym, bez minifigurek — Sulley, Mike i mała Boo zbudowani z klocków. Według przecieku 1052 elementów, cena 99,99 euro (orientacyjnie około 420 zł) i oznaczenie 9+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43324",
+   "numer": "43324",
+   "nazwa": "Zakochany kundel — Lady i Tramp",
+   "seria": "Disney",
+   "elementy": 1044,
+   "cena_wg_zrodla": 340,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 1044 elementów, 0 minifigurek, 79,99 euro, 18+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Para psów z „Zakochanego kundla” jako model dla dorosłych: oznaczenie 18+ i żadnych minifigurek, więc to pozycja na półkę, nie do zabawy. Według przecieku 1044 elementów, cena 79,99 euro (orientacyjnie około 340 zł) i oznaczenie 18+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43315",
+   "numer": "43315",
+   "nazwa": "Przygoda Elsy i Nokka",
+   "seria": "Disney",
+   "elementy": 97,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 97 elementów, 1 minifigurek, 19,99 euro, 4+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Mały zestaw z Elsą i wodnym koniem Nokkiem z „Krainy lodu”, w kategorii 4+, czyli z dużymi, prostymi elementami startowymi. Według przecieku 97 elementów, cena 19,99 euro (orientacyjnie około 80 zł) i oznaczenie 4+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43310",
+   "numer": "43310",
+   "nazwa": "Miniaturowy zamek Aurory",
+   "seria": "Disney",
+   "elementy": 132,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 132 elementów, 2 minifigurek, 19,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Miniaturowa wersja zamku Aurory z dwiema minifigurkami — ta sama formuła, co wcześniejsze mini-zamki Disneya. Według przecieku 132 elementów, cena 19,99 euro (orientacyjnie około 80 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43309",
+   "numer": "43309",
+   "nazwa": "Obrotowa figurka: Olaf i Bruni",
+   "seria": "Disney",
+   "elementy": 97,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 97 elementów, 1 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Obrotowa figurka Olafa z jaszczurką Bruni — model na podstawce, który obraca się wokół własnej osi. Według przecieku 97 elementów, cena 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "43308",
+   "numer": "43308",
+   "nazwa": "Obrotowa figurka: Elsa i śnieżek",
+   "seria": "Disney",
+   "elementy": 98,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „LEGO Disney Neuheiten im Januar 2027: Erste Bilder von neuen Sets zu «Susi & Strolch», «Frozen» & «Monster AG»”",
+     "url": "https://www.stonewars.de/news/lego-disney-neuheiten-im-januar-2027-erste-bilder/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali Disney. Dane ze źródła: 98 elementów, 1 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Druga obrotowa figurka z tej samej pary: Elsa ze śnieżkiem, czyli małym bałwankiem z „Przygody Olafa”. Według przecieku 98 elementów, cena 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60515",
+   "numer": "60515",
+   "nazwa": "Popcornowy tuk-tuk",
+   "seria": "City",
+   "elementy": 136,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 136 elementów, 2 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Trójkołowy wózek z popcornem i dwiema minifigurkami — najmniejszy z nowych pojazdów z jedzeniem w City. Według przecieku 136 elementów, cena 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60519",
+   "numer": "60519",
+   "nazwa": "Furgonetka z lodami",
+   "seria": "City",
+   "elementy": 215,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 215 elementów, 2 minifigurek, 19,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Furgonetka z lodami i dwiema minifigurkami, czyli klasyk serii wracający w nowej odsłonie. Według przecieku 215 elementów, cena 19,99 euro (orientacyjnie około 80 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60539",
+   "numer": "60539",
+   "nazwa": "Prom kosmiczny",
+   "seria": "City",
+   "elementy": 263,
+   "cena_wg_zrodla": 110,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 263 elementów, 1 minifigurek, 24,99 euro, 6+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Prom kosmiczny z jedną minifigurką — kosmiczna linia City dostaje w styczniu własny zestaw średniej wielkości. Według przecieku 263 elementów, cena 24,99 euro (orientacyjnie około 110 zł) i oznaczenie 6+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60541",
+   "numer": "60541",
+   "nazwa": "Wóz strażacki, policyjny i budowlany",
+   "seria": "City",
+   "elementy": 274,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 274 elementów, 3 minifigurek, 29,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Trzy pojazdy służb w jednym pudełku — strażacki, policyjny i budowlany, z trzema minifigurkami. Według przecieku 274 elementów, cena 29,99 euro (orientacyjnie około 130 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60535",
+   "numer": "60535",
+   "nazwa": "Posterunek policji z radiowozem",
+   "seria": "City",
+   "elementy": 1124,
+   "cena_wg_zrodla": 420,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 1124 elementów, 8 minifigurek, 99,99 euro, 7+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Największy zestaw policyjny styczniowej fali: posterunek z radiowozem i ośmioma minifigurkami. Według przecieku 1124 elementów, cena 99,99 euro (orientacyjnie około 420 zł) i oznaczenie 7+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60534",
+   "numer": "60534",
+   "nazwa": "Policyjna ciężarówka z ukrytym radiowozem",
+   "seria": "City",
+   "elementy": 563,
+   "cena_wg_zrodla": 250,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 563 elementów, 3 minifigurek, 59,99 euro, 7+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Ciężarówka policyjna z radiowozem schowanym w środku i trzema minifigurkami. Według przecieku 563 elementów, cena 59,99 euro (orientacyjnie około 250 zł) i oznaczenie 7+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60533",
+   "numer": "60533",
+   "nazwa": "Ucieczka z policyjnego helikoptera",
+   "seria": "City",
+   "elementy": 211,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 211 elementów, 3 minifigurek, 19,99 euro, 6+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Scenka z ucieczką z policyjnego helikoptera, trzy minifigurki. Według przecieku 211 elementów, cena 19,99 euro (orientacyjnie około 80 zł) i oznaczenie 6+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60532",
+   "numer": "60532",
+   "nazwa": "Policyjny pościg radiowozem",
+   "seria": "City",
+   "elementy": 103,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 103 elementów, 2 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Najmniejszy zestaw policyjny fali: radiowóz, dwie minifigurki i scena pościgu. Według przecieku 103 elementów, cena 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60530",
+   "numer": "60530",
+   "nazwa": "Kierowca F1 z bolidem Mercedes-AMG",
+   "seria": "City",
+   "elementy": 86,
+   "cena_wg_zrodla": 60,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 86 elementów, 1 minifigurek, 12,99 euro, 6+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Pojedynczy bolid Mercedes-AMG z kierowcą, z licencjonowanej linii Formuły 1 w City. Według przecieku 86 elementów, cena 12,99 euro (orientacyjnie około 60 zł) i oznaczenie 6+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60516",
+   "numer": "60516",
+   "nazwa": "Zielony samolot akrobacyjny",
+   "seria": "City",
+   "elementy": 79,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 79 elementów, 1 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Zielony samolot akrobacyjny z jedną minifigurką — pozycja wejściowa lotniczej części serii. Według przecieku 79 elementów, cena 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60517",
+   "numer": "60517",
+   "nazwa": "Wywrotka, spycharka i betoniarka",
+   "seria": "City",
+   "elementy": 107,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 107 elementów, 2 minifigurek, 29,99 euro, 4+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „srednia”: jedno źródło branżowe plus dowód w postaci zdjęć produktowych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Trzy maszyny budowlane w kategorii 4+, czyli z uproszczoną konstrukcją dla najmłodszych. Według przecieku 107 elementów, cena 29,99 euro (orientacyjnie około 130 zł) i oznaczenie 4+, z premierą 1 stycznia 2027. Dane i pierwsze zdjęcia produktowe opublikował jeden serwis branżowy, powołując się na materiały, które wyciekły przed oficjalną zapowiedzią. LEGO fali jeszcze nie przedstawiło, więc cena jest wyliczeniem ze stawki niemieckiej, a nie ceną katalogową.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60513",
+   "numer": "60513",
+   "nazwa": "Fajne wozy: furgonetka LEGO",
+   "seria": "City",
+   "elementy": 70,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 70 elementów, 1 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Furgonetka z logo LEGO z podserii małych pojazdów „Fajne wozy”. Przeciek podaje 70 elementów, cenę 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60514",
+   "numer": "60514",
+   "nazwa": "Fajne wozy: śmieciarka",
+   "seria": "City",
+   "elementy": 62,
+   "cena_wg_zrodla": 40,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 62 elementów, 1 minifigurek, 9,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Śmieciarka z tej samej podserii małych pojazdów, 62 elementy. Przeciek podaje 62 elementów, cenę 9,99 euro (orientacyjnie około 40 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60518",
+   "numer": "60518",
+   "nazwa": "Monster truck w czerni i czerwieni",
+   "seria": "City",
+   "elementy": 118,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 118 elementów, 1 minifigurek, 17,99 euro, 5+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Monster truck w czarno-czerwonym malowaniu, z jedną minifigurką. Przeciek podaje 118 elementów, cenę 17,99 euro (orientacyjnie około 80 zł) i oznaczenie 5+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60521",
+   "numer": "60521",
+   "nazwa": "Wyścigówka i motorówka",
+   "seria": "City",
+   "elementy": 249,
+   "cena_wg_zrodla": 150,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 249 elementów, 2 minifigurek, 34,99 euro, 6+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Zestaw z samochodem wyścigowym i motorówką, dwie minifigurki. Przeciek podaje 249 elementów, cenę 34,99 euro (orientacyjnie około 150 zł) i oznaczenie 6+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60526",
+   "numer": "60526",
+   "nazwa": "Bolidy F1 Alpine i Cadillac",
+   "seria": "City",
+   "elementy": 99,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 99 elementów, 2 minifigurek, 19,99 euro, 4+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Dwa bolidy Formuły 1 — Alpine i Cadillac — w kategorii 4+. Przeciek podaje 99 elementów, cenę 19,99 euro (orientacyjnie około 80 zł) i oznaczenie 4+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60527",
+   "numer": "60527",
+   "nazwa": "Murek serwisowy F1 z bolidami Williams i Aston Martin",
+   "seria": "City",
+   "elementy": 528,
+   "cena_wg_zrodla": 250,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 528 elementów, 4 minifigurek, 59,99 euro, 7+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Murek serwisowy z dwoma bolidami F1 (Williams i Aston Martin) oraz czterema minifigurkami. Przeciek podaje 528 elementów, cenę 59,99 euro (orientacyjnie około 250 zł) i oznaczenie 7+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60528",
+   "numer": "60528",
+   "nazwa": "Laweta F1 z bolidami RB22, VCARB i Haas",
+   "seria": "City",
+   "elementy": 1276,
+   "cena_wg_zrodla": 510,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 1276 elementów, 5 minifigurek, 119,99 euro, 8+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Laweta z trzema bolidami Formuły 1 — RB22, VCARB i Haas — i pięcioma minifigurkami; największy zestaw F1 w tej fali City. Przeciek podaje 1276 elementów, cenę 119,99 euro (orientacyjnie około 510 zł) i oznaczenie 8+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60536",
+   "numer": "60536",
+   "nazwa": "Elektryczny pociąg dużych prędkości",
+   "seria": "City",
+   "elementy": 1205,
+   "cena_wg_zrodla": 760,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: wpis z materiału StoneWars z 17.11.2026 o styczniowej fali City. Dane ze źródła: 1205 elementów, nieznana liczba minifigurek, 179,99 euro, 7+, start 1.01.2027. Serwis oznacza cenę jako „voraussichtlich”, czyli spodziewaną — to nie jest ogłoszona cena katalogowa. Przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. Pewność „niska”: ten numer stoi w materiale bez zdjęcia, czyli na samej liście danych. PromoBricks o tej fali nie pisał (strona główna sprawdzona 18.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "opis": "Nowy pociąg dużych prędkości z napędem elektrycznym, 1205 elementów — najdroższa pozycja styczniowej fali City. Przeciek podaje 1205 elementów, cenę 179,99 euro (orientacyjnie około 760 zł) i oznaczenie 7+, z premierą 1 stycznia 2027. Ten zestaw znalazł się w materiale bez zdjęcia — serwis wymienia go na podstawie samej listy, więc wiadomo o nim mniej niż o pozostałych z tej fali. Polskiej ceny katalogowej nie ma, bo LEGO zestawu nie zapowiedziało.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "60520",
+   "numer": "60520",
+   "nazwa": "Zestaw City na styczeń 2027 (dane nieznane)",
+   "seria": "City",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Verfrühter Blick auf die LEGO City Neuheiten im Januar 2027: Polizeistation, Popcorn Tuk-Tuk, Eiswagen und vieles mehr”",
+     "url": "https://www.stonewars.de/news/lego-city-januar-2027/",
+     "data": "2026-11-17"
+    }
+   ],
+   "dodano": "2026-11-18",
+   "uwagi": "18.11.2026: w materiale StoneWars z 17.11.2026 numer stoi w tabeli z samymi znakami zapytania — bez nazwy, elementów, ceny i wieku; jedyna informacja to styczniowy termin. Wpis zakładam, żeby kolejny przebieg nie zgłaszał tego numeru jako nowości.",
+   "opis": "Numer zarezerwowany pod jeszcze jeden zestaw City na styczeń 2027. W przecieku nie ma nic poza nim i terminem: nazwy, liczby elementów, ceny ani oznaczenia wiekowego nie podaje żadne źródło. Do powiedzenia o tym zestawie nie ma więc na razie nic ponad to, że najprawdopodobniej istnieje.",
    "rozstrzygniecie": null
   }
  ]
