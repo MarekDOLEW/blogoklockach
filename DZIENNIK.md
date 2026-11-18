@@ -168,6 +168,17 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-18 08:58 · SKRZYNKA · GitHub: 124 karty P07 (41379 do poprawki)
+Źródło: repo tylkoklocki-teksty, commit f5288c35 — 124 karty na hubach /zestaw/<nr>/.
+- Pierwszy przebieg zatrzymały dwie ceny katalogowe:
+  - 31058 Potężne dinozaury: Piotr 64,99 zł, katalog 69,99 zł (RK). Rację miał Piotr (promoklocki.pl i zklockow.pl: 64,99 zł) — poprawiony `katalog.json`.
+  - 41379 Restauracja w Heartlake: Piotr 269,99 zł, katalog 259,99 zł. Rację ma katalog (promoklocki.pl: 259,99 zł) — karta w `do-poprawki/` z uwagami (commit 3ddfb30 w repo tekstów), Piotr dostał mail.
+- Uwagi bez blokady:
+  - Seria „Avatar” (75575–75578) i „Unikitty!” (41452) nie ma w katalogu, więc linki do tych serii mogą prowadzić donikąd.
+  - Liczba elementów różni się o 1–3 przy 10786, 41452, 60215, 60229, 70419, 70420, 75575, 75576, 75578 i 76054.
+  - Krótkie karty (1 akapit): 30545, 30630, 30639, 30640, 40616–40618, 5008897, 562401, 562406 i 912510.
+
 ## 2026-11-18 08:25 · RADAR · Do zrobienia
 
 **lego.com/pl-pl/insiders · 18.11** — **Weekend Insiders ma potwierdzone daty: 21.11 i 22.11.** Strona programu podaje dosłownie „Już wkrótce — ważny weekend dla uczestników programu: 21.11 i 22.11" oraz „weekend pełny wyjątkowych promocji i ofert, takich jak **podwójne punkty lojalnościowe**". Trop przyszedł z tekstu faniklockow, ale data jest sprawdzona u źródła.
