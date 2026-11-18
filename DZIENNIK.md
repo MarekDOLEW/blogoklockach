@@ -169,6 +169,13 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-18 14:58 · SKRZYNKA · GitHub: 0052, 0053, Recenzje_023
+Źródło: repo tylkoklocki-teksty, commit b62dfd79.
+- 0052 → https://tylkoklocki.pl/artykuly/nieoficjalnie-30-seria-minifigurek-lego-71054-w-styczniu-2027-rycerz/ (tytuł SEO 62 znaki, limit 60 — uwaga, nie blokuje)
+- 0053 → https://tylkoklocki.pl/artykuly/nieoficjalnie-lego-city-na-styczen-2027-modulowy-posterunek-policji/
+- Recenzje_023 (76463) → https://tylkoklocki.pl/artykuly/lego-76463-zamek-hogwart-skrzydlo-szpitalne-recenzja/ (bez zdjęć Piotra)
+
+
 ## 2026-11-18 08:58 · SKRZYNKA · GitHub: 124 karty P07 (41379 do poprawki)
 Źródło: repo tylkoklocki-teksty, commit f5288c35 — 124 karty na hubach /zestaw/<nr>/.
 - Pierwszy przebieg zatrzymały dwie ceny katalogowe:
