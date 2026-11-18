@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-16"
+zaktualizowano: "2026-11-18"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -36,7 +36,8 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">18–19.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>„Zbuduj i Zabierz" z mikromodelem tramwaju</b> – listopadowy odpowiednik wrześniowej akcji, 15:00–17:00 w salonach, ograniczona liczba sztuk</a></li>
-<li><span class="okna__data">21–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Insiders Weekend, Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
+<li><span class="okna__data">21–22.11</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#listopad"><b>Weekend Insiders: podwójne punkty</b> – LEGO podaje na swojej stronie programu „ważny weekend dla uczestników programu: 21.11 i 22.11" z podwójnymi punktami lojalnościowymi</a></li>
+<li><span class="okna__data">27–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
 <li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta, trzecie okno punktowe i 323 wycofania</b> – ostatnie terminy dostaw przed Wigilią, spodziewane podwójne punkty i ostatni miesiąc tych zestawów w LEGO.com</a></li>
 </ul>
 
@@ -363,9 +364,26 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 | **9–20.11** | [cztery gratisy GWP na LEGO.com](#listopad-40906) – 40906 dla Insiders od 745 zł i taksówka 40898 do 20.11; polybagi 30720 (Disney) i 30762 (DC) od 165 zł tylko do 15.11 |
 | ok. 1.11–30.11 | [Allegro Black Weeks](#allegro-black-weeks) – najdłuższa kampania sklepu zewnętrznego w sezonie |
 | ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w pozostałych sklepach zewnętrznych |
-| ok. 21–26.11 | Insiders Weekend na LEGO.com: podwójne punkty + wczesny dostęp do ofert |
+| **21–22.11** | [Weekend Insiders](#listopad) na LEGO.com: **podwójne punkty** — daty potwierdzone przez LEGO na stronie programu (sprawdzone 18.11) |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
+
+**Weekend Insiders 21–22.11 jest już pewny — i to jedyna listopadowa data z tej
+tabeli, którą LEGO potwierdziło samo.** Na stronie programu stoi „Już wkrótce —
+ważny weekend dla uczestników programu: 21.11 i 22.11" i zapowiedź weekendu
+„pełnego wyjątkowych promocji i ofert, takich jak **podwójne punkty lojalnościowe**"
+(sprawdzone 18 listopada). Konkretów promocji LEGO jeszcze nie podaje — wpiszemy je,
+gdy pojawią się na karcie promocji z regulaminem.
+
+**Dwie rzeczy, które warto policzyć przed tym weekendem.** Pierwsza: oba trwające
+upominki — [40906](/zestaw/40906/) i [40898](/zestaw/40898/) — kończą się **20 listopada**,
+czyli dzień przed weekendem, więc **nie połączysz gratisu z podwójnymi punktami**;
+jeśli zależy Ci na upominku, zamówienie musi wyjść do piątku. Druga: podwójne punkty
+to **nie rabat** — płacą się dopiero przy następnych zakupach, a Black Friday wypada
+pięć dni później. Przy zestawie, który i tak stanieje w końcu listopada, czekanie
+na przecenę daje więcej niż punkty; przy zestawie, który w LEGO.com nie przecenia się
+nigdy (dystrybucja ekskluzywna), punkty są jedyną korzyścią, jaką da się z tego
+weekendu wyjąć.
 
 <h3 id="listopad-40906">Pierwsze okno listopada: cztery gratisy, 9–20.11 <span class="status status--trwa">trwa</span></h3>
 

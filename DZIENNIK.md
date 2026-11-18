@@ -168,6 +168,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-18 08:25 · RADAR · Do zrobienia
+
+**lego.com/pl-pl/insiders · 18.11** — **Weekend Insiders ma potwierdzone daty: 21.11 i 22.11.** Strona programu podaje dosłownie „Już wkrótce — ważny weekend dla uczestników programu: 21.11 i 22.11" oraz „weekend pełny wyjątkowych promocji i ofert, takich jak **podwójne punkty lojalnościowe**". Trop przyszedł z tekstu faniklockow, ale data jest sprawdzona u źródła.
+**Mamy?** — mieliśmy **prognozę od sierpnia**: „ok. 21–26.11, przewidywane". To najważniejsza pozycja listopada i do dziś stała jako wzorzec z poprzednich lat.
+**Zrobić:** — zrobione: pozycja w „Co trwa teraz" rozbita (Weekend Insiders 21–22.11 **potwierdzone**, Black Friday 27.11 i Cyber Monday 30.11 osobno jako prognoza), wiersz tabeli listopadowej ma 21–22.11 z adnotacją o źródle, plus dwa akapity z rachunkiem: **oba upominki (40906, 40898) kończą się 20.11, czyli dzień przed weekendem**, więc gratisu z podwójnymi punktami nie da się połączyć, a same punkty to nie rabat przy Black Friday pięć dni później.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 18.11** — Karta promocji z regulaminami wymienia dziś **tylko 40898 i 40906, oba do 20.11** — żadnej akcji na 21.11 jeszcze tam nie ma, choć faniklockow piszą o „potwierdzonych promocjach na Weekend Insiders".
+**Mamy?** — tak i zgodnie ze źródłem: w kalendarzu stoi, że konkretów promocji LEGO jeszcze nie podaje.
+**Zrobić:** — sprawdzić sekcję regulaminów **20 i 21.11** i dopisać akcje weekendowe, gdy się tam pojawią. Reguła po wpadce z 30762 jest symetryczna: źródłem jest regulamin LEGO, więc nie wpisujemy czegoś, czego tam nie ma, tak samo jak nie odrzucamy czegoś, co tam jest.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-18 05:20 · SCOUT · Do zrobienia
 
 **StoneWars opublikował 17.11 cztery materiały z pierwszymi zdjęciami styczniowej fali 2027: City (20 numerów), Disney (6), Ninjago (7) i dwa dodatkowe Star Wars — razem 35 numerów, z czego 26 nie było u nas w ogóle.**
