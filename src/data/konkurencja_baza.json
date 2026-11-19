@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-18",
-    "przebieg": "scheduled 2026-11-18 08:00",
+    "ostatnia_aktualizacja": "2026-11-19",
+    "przebieg": "scheduled 2026-11-19 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,7 +10,7 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 415,
+    "liczba_wpisow": 423,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
     "obserwacje_biezace": {
       "2026-09-07": "Trzeci spokojny dzien z rzedu. faniklockow: ZERO publikacji 05, 06 i 07.09 - po fali 16 mikropostow dealowych 04.09. Wzorzec do obserwacji: u nich ruch dealowy idzie zrywami, nie rowno. fanklockow publikuje wylacznie aktualizacje zapowiedzi rocznika 2027. Insiders Member Day 09.09 nadal NIE ma potwierdzenia poza jednym zrodlem (wyszukiwarka streszcza te sama strone faniklockow) - status 'przewidywane' na naszym kalendarzu zostaje bez zmian.",
@@ -61,7 +61,8 @@
       "2026-11-15": "Trzy nowe publikacje, dwie pozycje - i najwazniejsze dzisiaj jest SPROSTOWANIE NASZEGO WLASNEGO TEKSTU. Ostatniego dnia okna wyciagnalem pelna liste regulaminow z karty promocji lego.com/pl-pl i sa tam CZTERY upominki, nie trzy: 40898 (1-20.11), 40906 (9-20.11, Insiders, co najmniej 745 zl), 30720 (9-15.11, Disney od 165 zl) ORAZ 30762 Batman z retro gry wideo (9-15.11, 'Wartosc zakupionych artykulow z kolekcji DC lub Batman musi wynosic co najmniej 165 zl', wycena 16,49 zl, kanaly: online, salony LEGO i katalog telefoniczny). Czyli: (1) 30762 ISTNIEJE i serwisy branzowe mialy racje, a nasze zdanie 'nie potwierdzamy', ktore stalo w kalendarzu od 9 do 14 listopada, bylo bledem - nie LEGO go nie potwierdzalo, tylko ja go nie znalazlem; (2) 40906 zostalo WYDLUZONE z 15 na 20 listopada. DIAGNOZA WLASNEGO BLEDU, bo jest pouczajaca: 09.11 i 10.11 czytalem kafelki promocji (ekstrakcja JSON) i blok upominkow na karcie 76333 - w obu miejscach 30762 nie bylo. 10.11 zapisalem nawet regule 'rozbieznosc miedzy zrzutami rozstrzyga pelny tekst regulaminu', ale zastosowalem ja TYLKO do 40906, o ktore pytalem imiennie, zamiast wyciagnac cala sekcje regulaminow. Kafelki i blok upominkow na karcie produktu NIE SA kompletna lista - jedyna kompletna lista to sekcja regulaminow na dole karty promocji. Poprawione w kalendarzu: tabela ma cztery wiersze z wlasciwymi oknami i kanalami, naglowek mowi 'cztery gratisy, 9-20.11', pozycje w 'Co trwa teraz' sa rozbite (40906 do 20.11, dwa polybagi z dopiskiem 'dzis ostatni dzien'), dopisany akapit o roznicy kanalow, a w miejscu dawnego 'nie potwierdzamy' stoi jawne sprostowanie z cytatem z regulaminu. Druga pozycja: faniklockow pisza o gratisie 43018 Messi w Media Expercie do zakupow od 2000 zl (w pazdzierniku bylo 2500 zl). Ich ceny zgadzaja sie z naszymi co do groszy, co potwierdza, ze codzienny odczyt ME dziala, ale SAMEGO GRATISU NIE POTWIERDZILEM: karta ME renderuje sie AJAX-em i serwerowe zapytanie nie zwraca tresci promocji. Zgodnie z dzisiejsza lekcja nie zapisuje tego jako 'sklep nie potwierdza', tylko jako 'nie sprawdzono' - i do kalendarza to nie wchodzi. Przy okazji: ME sprzedaje samo 43018 za 550,51 zl, czyli realna wartosc tego gratisu jest o ponad 200 zl nizsza od katalogowej 779,99, ktora podaja. Trzecia publikacja to Black Friday marki Pantasy - poza zakresem.",
       "2026-11-16": "Dwie nowe publikacje, trzy pozycje - i poniedzialek zaczyna sie od zamkniecia okna, ktore wczoraj minelo. (1) KALENDARZ: polybagi 30720 i 30762 mialy okno 9-15.11, wiec dzis maja w 'Co trwa teraz' plakietke 'zamkniete', a akapit o nich jest w czasie przeszlym z dopiskiem, ze kolejnego tak niskiego progu (165 zl) spodziewamy sie dopiero przy Weekendzie Insiders. 40906 i 40898 trwaja do 20.11 i zostaja na 'trwa'. Zrobione w tym przebiegu, bez czekania na nastepny - wczoraj po poludniu kalendarz juz by klamal. (2) DRUGI SERWIS Z KODAMI: faniklockow dostali pule kodow na gratis 30708 - ten sam zestaw i to samo okno 16-20.11, ktore fanklockow ogloszyli 05.11. Czyli nie jest to przywilej jednego serwisu, tylko sposob, w jaki LEGO.pl pracuje z polskimi partnerami contentowymi. Pozycja zgloszona Markowi 06.11 (czy probujemy o to samo przez nasz kanal afiliacyjny) zostaje otwarta i ma od dzis mocniejsza podstawe. (3) ICH OKAZJA WSKAZUJE NASZA STARA CENE, drugi raz w tygodniu: podaja Empik 206 zl dla 76321 (EOL, wyprzedane na lego.com), a u nas Empik stoi na 238,81 z 13.11 i najtansza realna oferta to Allegro 243,90, czyli powyzej katalogu. Tego NIE SPRAWDZILEM u zrodla - Empik blokuje ruch serwerowy i ceny stamtad ida z cotygodniowego zrzutu robionego recznie (poniedzialki). To ta sama klasa problemu co Smyk 12.11, z jedna roznica: Smyka odswieza sie skryptem z sesji, Empiku nie. Rozstrzygnie dzisiejszy zrzut. Trzy pozostale teksty z feedow to przedatowane ewergreeny, w tym ich prognoza Weekendu Insiders i Czarnego piatku - adres mamy w bazie od 16.10 i wtedy zapadla decyzja, ze nie przepisujemy ich dat, bo nasz kalendarz ma wlasna prognoze (21-26.11) opartą na naszych obserwacjach z tego roku.",
       "2026-11-17": "Piec nowych publikacji i zadna nie wnosi nic poza czwartym tygodniem fali 2027 - ale przebieg i tak nie byl pusty, bo zaczal sie od sprawdzenia WLASNEGO podejrzenia, ktore okazalo sie falszywe. Wpis DANE WT z dzisiejszego rana mowi, ze 'ceny i dostepnosc Smyka przywrocone recznie do stanu z 10.11.2026'. Brzmialo to jak cofniecie mojego odswiezenia z 12.11 (25 zmian cen, osiem zestawow, w ktorych Smyk zostal najtanszym sklepem). SPRAWDZONE PRZED JAKIMKOLWIEK 'PRZYWRACANIEM': w oferty_feed.json nie ma ANI JEDNEJ oferty Smyka z data 10.11 - jest 368 z 12.11 i 203 z 13.11, a 579 z 583 wartosci zgadza sie z moim przebiegiem z 12.11 (42240 nadal 675 zl z data 12.11). Czyli dane sa w lepszym stanie, niz zapowiada ten wpis, i nie bylo czego restaurowac; gdybym poszedl za notatka, nadpisalbym swiezsze dane starszymi. Zapisuje to, bo wpis w dzienniku zostanie i ktos moze na nim oprzec decyzje. CO ZOSTALO ZROBIONE: zadanie z tamtego wpisu bylo zaadresowane do 'Code', wiec wziolem je w tym przebiegu. scripts/smyk-odswiez.mjs rozpoznaje teraz strone blokady bota (Gcore / 'Browser Validation Page' / 'Please enable cookies') i zwraca ja jako BLAD, nie jako 'niedostepny' - czyli cena z poprzedniego przebiegu zostaje, oferta nie znika. Probka 12 kart: przed poprawka takie karty szlyby jako 8 niedostepnych (osiem zdjetych ofert), po poprawce ida jako 8 bledow i 0 zdjetych. Druga sugestia z tamtego wpisu - mniejsza rownoleglosc - NIE pomaga i to tez jest zmierzone: dodalem flage --rownolegle N i przy 2 bylo 7 blokad na 12, przy 1 piec. Blokada nie jest wiec funkcja naszego tempa, tylko decyzji Smyka; domyslne 6 zostaje. Wazna poszlaka na przyszlosc: 12.11 karta 42240 odczytala sie BEZ problemu przez Firecrawl z proxy 'basic' (cena 675 zl i plakietka poduszki), wiec droga przegladarkowa dziala tam, gdzie goly curl dostaje blokade. Przy 704 kartach Firecrawl jest za drogi na caly katalog (5 kredytow za karte), ale nadaje sie do punktowego sprawdzenia pojedynczych zestawow i to jest realna opcja na czas blokady - obok drogi, ktora dzialaja Empik i x-kom, czyli zrzutu z przegladarki czlowieka. Decyzja nalezy do Marka, bo zmienia sposob pracy runnera Dane wt.",
-      "2026-11-18": "Cztery nowe publikacje, jedna pozycja - i jest to najwazniejsza zmiana w kalendarzu od tygodnia, bo zamienia prognoze na fakt. faniklockow napisali, ze podwojne punkty Insiders beda za zakupy '21 i 22 listopada'. Poszedlem do zrodla: lego.com/pl-pl/insiders podaje doslownie 'Juz wkrotce - wazny weekend dla uczestnikow programu: 21.11 i 22.11' oraz 'weekend pelny wyjatkowych promocji i ofert, takich jak podwojne punkty lojalnosciowe'. Nasz kalendarz od sierpnia mowil 'ok. 21-26.11, przewidywane' - teraz Weekend Insiders ma status potwierdzony i dwa konkretne dni, a Black Friday (27.11) i Cyber Monday (30.11) zostaja osobna pozycja prognostyczna. Dopisane tez dwa akapity z rachunkiem, ktorego nikt inny nie robi: oba trwajace upominki (40906 i 40898) koncza sie 20 listopada, czyli DZIEN PRZED weekendem, wiec gratisu z podwojnymi punktami nie da sie polaczyc - kto chce upominek, musi zamowic do piatku. I druga strona: podwojne punkty to nie rabat, placa sie przy nastepnych zakupach, a Black Friday wypada piec dni pozniej, wiec przy zestawie, ktory i tak stanieje, czekanie daje wiecej; punkty maja sens tam, gdzie LEGO.com nie przecenia nigdy, czyli w dystrybucji ekskluzywnej. CZEGO NIE WPISALEM: ich 'potwierdzonych promocji na Weekend Insiders'. Karta promocji z regulaminami sprawdzona tego samego dnia wymienia tylko 40898 i 40906, oba do 20.11 - zadnej akcji na 21.11 tam jeszcze nie ma. Po wpadce z 30762 (gdzie pomylilem sie w DRUGA strone, odrzucajac upominek, ktory w regulaminie byl) regula jest symetryczna: zrodlem jest sekcja regulaminow LEGO, nie zapowiedz serwisu - i tak samo nie wpisujemy czegos, czego tam nie ma, jak nie odrzucamy czegos, co tam jest. Drobna obserwacja operacyjna: ich ewergreen gratisowy wyszedl dzis pod TRZECIM adresem w dziewiec dni (09.11, 16.11, 17.11), bo data siedzi w sciezce URL - nasz dedup po slugu tego nie lapie i ten sam tekst bedzie wracal jako nowa publikacja, dopoki go nie zapiszemy. Dlatego kazdy taki adres ma od dzis wpis w bazie z adnotacja, ze to ten sam tekst."
+      "2026-11-18": "Cztery nowe publikacje, jedna pozycja - i jest to najwazniejsza zmiana w kalendarzu od tygodnia, bo zamienia prognoze na fakt. faniklockow napisali, ze podwojne punkty Insiders beda za zakupy '21 i 22 listopada'. Poszedlem do zrodla: lego.com/pl-pl/insiders podaje doslownie 'Juz wkrotce - wazny weekend dla uczestnikow programu: 21.11 i 22.11' oraz 'weekend pelny wyjatkowych promocji i ofert, takich jak podwojne punkty lojalnosciowe'. Nasz kalendarz od sierpnia mowil 'ok. 21-26.11, przewidywane' - teraz Weekend Insiders ma status potwierdzony i dwa konkretne dni, a Black Friday (27.11) i Cyber Monday (30.11) zostaja osobna pozycja prognostyczna. Dopisane tez dwa akapity z rachunkiem, ktorego nikt inny nie robi: oba trwajace upominki (40906 i 40898) koncza sie 20 listopada, czyli DZIEN PRZED weekendem, wiec gratisu z podwojnymi punktami nie da sie polaczyc - kto chce upominek, musi zamowic do piatku. I druga strona: podwojne punkty to nie rabat, placa sie przy nastepnych zakupach, a Black Friday wypada piec dni pozniej, wiec przy zestawie, ktory i tak stanieje, czekanie daje wiecej; punkty maja sens tam, gdzie LEGO.com nie przecenia nigdy, czyli w dystrybucji ekskluzywnej. CZEGO NIE WPISALEM: ich 'potwierdzonych promocji na Weekend Insiders'. Karta promocji z regulaminami sprawdzona tego samego dnia wymienia tylko 40898 i 40906, oba do 20.11 - zadnej akcji na 21.11 tam jeszcze nie ma. Po wpadce z 30762 (gdzie pomylilem sie w DRUGA strone, odrzucajac upominek, ktory w regulaminie byl) regula jest symetryczna: zrodlem jest sekcja regulaminow LEGO, nie zapowiedz serwisu - i tak samo nie wpisujemy czegos, czego tam nie ma, jak nie odrzucamy czegos, co tam jest. Drobna obserwacja operacyjna: ich ewergreen gratisowy wyszedl dzis pod TRZECIM adresem w dziewiec dni (09.11, 16.11, 17.11), bo data siedzi w sciezce URL - nasz dedup po slugu tego nie lapie i ten sam tekst bedzie wracal jako nowa publikacja, dopoki go nie zapiszemy. Dlatego kazdy taki adres ma od dzis wpis w bazie z adnotacja, ze to ten sam tekst.",
+      "2026-11-19": "Osiem nowych publikacji i pierwszy dzien Black Weeka widziany od strony naszych danych - trzy ich 'Okazje Cenowe' naraz, wszystkie na zestawach, gdzie pokazujemy wyzsza cene. Sprawdzilem u zrodla te jedna, ktora dala sie sprawdzic, i to ona jest najwazniejsza: 72306 PlayStation w Media Expercie stoi na 549,99 zl ('Taniej o 17,91 zl', 'Cena bezposrednio przed obnizka 567,90 zl'), czyli ponizej naszego rekordu 567,90 z 14.11 - a w oferty_feed.json nie mamy dla tego zestawu ZADNEJ oferty ME (tylko allegro 619,10, ceneo 619,99, lego 689,99), a w calej historii cen sa dwa wpisy ME. Karta ME podaje powod: 'Przedsprzedaz. Planowana data premiery 01.12.2026r.'. To jest hipoteza do sprawdzenia przez Lowce - nasze zrodlo ME najpewniej pomija oferty przedsprzedazowe, a w listopadzie wlasnie one potrafia byc najtansze. Dwoch pozostalych okazji (10316 za 1689, 76300 za 1034,55 na Allegro) NIE sprawdzilem: Allegro czytamy z feedu, nie z kart ofert, a ich ceny moga pochodzic z innej oferty tego samego zestawu albo z rabatu naliczanego w koszyku (Smart, kupon kampanijny), czego feed nie widzi. Zapisuje to jako 'nie sprawdzone', nie jako 'nieprawda' - po wpadce z 30762 ta roznica jest u nas regula. Druga rzecz: ich tekst o starcie Black Weeka dal sie czesciowo potwierdzic u Allegro - adres allegro.pl/kampania/black-weeks prowadzi do strefy okazji 'Black Weeks 2026 na Allegro' z opisem 'Przygotuj sie na Black Weeks 2026 na Allegro', ale DAT tam nie ma (strona renderuje sie JS-em). Kalendarz poprawiony dokladnie na tyle, na ile pozwala zrodlo: sekcja Allegro zostaje 'przewidywana', ale mowi teraz, ze kampania ma juz wlasna strone (sprawdzone 19.11) i ze serwisy pisaly 18.11 o starcie. Reszta dnia bez znaczenia: zestaw pracowniczy LEGO (oba serwisy, nie trafia do sprzedazy), recenzja Pantasy i kolejny hub 2027."
     }
   },
   "publikacje": [
@@ -4957,6 +4958,102 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Ich ewergreen gratisowy pod nowym adresem z data 17.11 - trzeci adres tego samego tekstu (09.11, 16.11, 17.11). Dedup po slugu tego nie lapie, bo data jest w sciezce; odnotowuje, bo inaczej ten sam tekst bedzie wracal codziennie jako 'nowa publikacja'."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (Gaming) - 72306 PlayStation",
+      "url": "https://faniklockow.pl/2026/11/18/okazja-cenowa-gaming-72306-playstation/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "deal",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Podaja Media Expert 550 zl i 'historycznie najnizsza cena'. POTWIERDZONE U ZRODLA: karta ME pokazuje 549,99 zl, 'Taniej o 17,91 zl', 'Cena bezposrednio przed obnizka 567,90 zl' i 'Najnizsza cena z 30 dni przed obnizka 567,90 zl'. Nasz rekord to 567,90 (allegro, 14.11), wiec to faktycznie nowe minimum. NASZA LUKA JEST POWAZNIEJSZA OD POJEDYNCZEJ CENY: w oferty_feed.json nie mamy dla 72306 ZADNEJ oferty Media Expertu - sa tylko allegro 619,10, ceneo 619,99 i lego 689,99 - a w calej historii cen tego zestawu sa tylko DWA wpisy ME. Karta ME wyjasnia, dlaczego: zestaw stoi tam jako 'Przedsprzedaz. Planowana data premiery 01.12.2026r.'. Hipoteza do sprawdzenia przez Lowce: nasze zrodlo ME pomija oferty przedsprzedazowe, a w sezonie listopadowym to wlasnie one potrafia byc najtansze."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Allegro Black Week 2026 - najlepsze promocje na zestawy LEGO!",
+      "url": "https://faniklockow.pl/2026/11/18/allegro-black-week-2026-najlepsze-promocje-na-zestawy-lego/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Pisza 'Black Week na Allegro wystartowal!' i daja zestawienie przykladow (10316 Rivendell 1689 zl, -21%). SPRAWDZONE U ZRODLA, ile z tego da sie potwierdzic: adres allegro.pl/kampania/black-weeks prowadzi do strefy okazji zatytulowanej 'Black Weeks 2026 na Allegro - Sprawdz okazje i oszczedzaj!' z opisem 'Przygotuj sie na Black Weeks 2026 na Allegro', czyli kampania ma wlasna strone - ale DAT na niej nie ma (tresc renderuje sie JS-em, w metadanych zadnego terminu). Kalendarz poprawiony tak, jak pozwala zrodlo: zostaje 'przewidywane', ale dopisane, ze kampania ma juz wlasna strone (sprawdzone 19.11) i ze serwisy pisaly 18.11 o starcie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (LOTR) - 10316 Rivendell",
+      "url": "https://faniklockow.pl/2026/11/18/okazja-cenowa-lotr-10316-rivendell-8/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Allegro 1689 zl (-21%). U nas allegro 1948,40 z odczytu 18.11, rekord 1769 (allegro, 20.08). NIE SPRAWDZONE u zrodla - Allegro odczytujemy z feedu, nie z kart ofert. Mechanika, ktora to tlumaczy i ktora warto miec na uwadze w calym Black Weeku: ich ceny moga pochodzic z innej oferty tego samego zestawu albo uwzgledniac rabat naliczany w koszyku (Smart, kupon kampanijny), czego feed nie widzi. Jesli 1689 jest prawdziwe, to nowy rekord ponizej 1769."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja Cenowa (DC) - 76300 Arkham Asylum",
+      "url": "https://faniklockow.pl/2026/11/18/okazja-cenowa-dc-76300-arkham-asylum-4/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "deal",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "allegro"
+      ],
+      "notatki": "Allegro 1034,55 zl (-20%) i 'historycznie najnizsza'. U nas allegro 1199,97 z 18.11, a w ceny_baza ten zestaw NIE MA zadnego rekordu (najnizsza_cena null), wiec zdania o rekordzie nie potwierdzimy ani nie zaprzeczymy. Ta sama mechanika co przy 10316 - nie sprawdzone u zrodla."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Swiateczny zestaw pracowniczy LEGO na rok 2026!",
+      "url": "https://fanklockow.pl/swiateczny-zestaw-pracowniczy-lego-na-rok-2026/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zestaw pracowniczy LEGO (Employee Gift) - nie trafia do sprzedazy, wiec dla serwisu zakupowego zero. Oba serwisy opisaly go tego samego dnia."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Nowy zestaw pracowniczy LEGO na 2026 rok ujawniony! Jest nudno?",
+      "url": "https://faniklockow.pl/2026/11/18/nowy-zestaw-pracowniczy-lego-na-2026-rok-ujawniony-jest-nudno/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "To samo co u fanklockow tego dnia - zestaw pracowniczy, poza sprzedaza."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Video)recenzja: Pantasy 87503 T-800 z Terminatora!",
+      "url": "https://fanklockow.pl/recenzja-pantasy-87503-t-800-terminator/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "recenzja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Obca marka (Pantasy) - poza zakresem. Czwarty material o obcych markach u fanklockow w listopadzie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Speed Champions na 2027 rok.",
+      "url": "https://faniklockow.pl/2026/11/18/zapowiedzi-serii-lego-speed-champions-na-2027-rok/",
+      "data_publikacji": "2026-11-18",
+      "data_wykrycia": "2026-11-19",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejny hub rocznika 2027; fanklockow wystawili swoj tego samego dnia (adres juz w bazie)."
     }
   ],
   "obserwacje_strategiczne": {

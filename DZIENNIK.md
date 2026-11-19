@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-19 08:30 · RADAR · Do zrobienia
+
+**faniklockow.pl · 18.11** — Podali Media Expert **550 zł** za 72306 PlayStation jako „historycznie najniższą cenę". **Potwierdzone u źródła:** karta ME pokazuje **549,99 zł**, „Taniej o 17,91 zł", „Cena bezpośrednio przed obniżką 567,90 zł" — czyli poniżej naszego rekordu 567,90 z 14.11.
+**Mamy?** — nie, i luka jest większa od jednej ceny: w `oferty_feed.json` nie mamy dla 72306 **żadnej** oferty Media Expertu (tylko allegro 619,10, ceneo 619,99, lego 689,99), a w całej historii cen tego zestawu są **dwa** wpisy ME. Karta ME podaje powód: „**Przedsprzedaż. Planowana data premiery 01.12.2026r.**".
+**Zrobić:** — sprawdzić w źródle ME Łowcy, czy pomijamy oferty **przedsprzedażowe** (availability ≠ dostępny), i jeśli tak — wpuścić je z własną etykietą. W listopadzie i grudniu to właśnie przedsprzedaż bywa najtańsza, a dziś jest dla nas niewidoczna.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 18.11** — Ogłosili start Black Weeka na Allegro i dali zestawienie przykładów (10316 za 1689 zł, −21%).
+**Mamy?** — częściowo: adres `allegro.pl/kampania/black-weeks` prowadzi do strefy okazji **„Black Weeks 2026 na Allegro"** (sprawdzone 19.11), ale **dat tam nie ma** — strona renderuje się JS-em i w metadanych nie ma żadnego terminu.
+**Zrobić:** — zrobione tyle, na ile pozwala źródło: sekcja Allegro w kalendarzu zostaje „przewidywana", ale mówi teraz, że kampania ma własną stronę i że serwisy pisały 18.11 o starcie. Daty wpiszemy, gdy Allegro je poda.
+**Kto:** — Code (dane, strona)
+
+**dane · 19.11** — Dwie pozostałe „Okazje Cenowe" z Allegro (10316 za 1689, 76300 za 1034,55) są **niższe od naszych odczytów z 18.11** (1948,40 i 1199,97), a 76300 nie ma u nas żadnego rekordu w `ceny_baza`.
+**Mamy?** — nie sprawdzone u źródła i tak to zapisuję: Allegro czytamy z feedu, nie z kart ofert, a ich ceny mogą pochodzić z innej oferty tego samego zestawu albo z rabatu naliczanego w koszyku (Smart, kupon kampanijny), czego feed nie widzi.
+**Zrobić:** — w trakcie Black Weeka warto raz sprawdzić na żywej ofercie, czy różnica bierze się z kuponu kampanijnego: jeśli tak, nasze tabele będą przez cały tydzień pokazywać ceny **wyższe** niż to, co widzi kupujący na Allegro, i trzeba to opisać w tekście o Black Weeks.
+**Kto:** — Marek (decyzja)
+
+
 ## 2026-11-19 05:15 · SCOUT · Do zrobienia
 
 **Sklep Smyths Toys wystawił przed zapowiedzią LEGO całą falę Speed Champions 2027: jedenaście bolidów Formuły 1 na 1 marca (77267–77277) i Lamborghini Fenomeno na 1 stycznia (77280), wszystkie po 29,99 euro — i każdy bolid ma teraz DWIE minifigurki kierowców zamiast jednej.**
