@@ -1813,27 +1813,6 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .tabela-promocje .kol-cta { width: 210px; }
 .tabela-promocje .set-opis { max-width: 78ch; }
 
-/* --- Strona główna: slajder deali + boks „Nowe minima dziś" w jednym rzędzie. */
-.glowna-gora { display: grid; gap: 24px; margin: 28px 0; }
-.glowna-gora .deale-slajder { margin: 0; }
-@media (min-width: 1100px) {
-  .glowna-gora { grid-template-columns: minmax(0, 1fr) 360px; align-items: stretch; }
-  .glowna-gora .deal-dnia { grid-template-columns: minmax(220px, 340px) 1fr; padding: 24px; }
-  /* kolumna tekstu jest węższa niż przy pełnej szerokości – tytuł o stopień mniejszy, żeby nie łamał się na dwie linie */
-  .glowna-gora .deal-tytul { font-size: clamp(1.5rem, 2.4vw, 2.2rem); }
-}
-.boks-minima { display: flex; flex-direction: column; padding: 18px 20px 16px; border-top: 6px solid var(--granat); }
-.boks-minima__naglowek { display: flex; align-items: center; gap: 10px; margin: 0 0 4px; font-size: 1.05rem; }
-.boks-minima__opis { margin: 0 0 8px; font-size: 0.82rem; color: var(--granat-60); }
-.boks-minima__lista { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
-.boks-minima__lista li { display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 12px; align-items: center; padding: 10px 0; border-top: 1px solid var(--linia); }
-.boks-minima__foto { width: 56px; height: 56px; object-fit: contain; background: #fff; border-radius: 8px; border: 1px solid var(--linia); display: block; }
-.boks-minima__nazwa { font-weight: 600; font-size: 0.9rem; line-height: 1.3; text-decoration: none; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; }
-.boks-minima__nazwa:hover { text-decoration: underline; }
-.boks-minima__ceny { display: flex; align-items: baseline; gap: 8px; margin-top: 3px; font-size: 0.8rem; color: var(--granat-60); }
-.boks-minima__cena { font-family: var(--font-display); font-weight: 700; font-size: 1rem; color: var(--czerwien); }
-.boks-minima__stopka { margin: auto 0 0; padding-top: 12px; font-weight: 700; font-size: 0.9rem; }
-
 /* --- Hub zestawu: trzecia kolumna z ceną. Poniżej 1100 px boks znika, a pod
    tytułem zostaje dotychczasowy pasek ceny (PasekCeny, wariant „gora"). */
 .set-boks { display: none; }
@@ -1906,7 +1885,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .pasek-teksty span { display: block; font-size: 0.75rem; color: var(--granat-60); margin-top: 1px; }
 .pasek-disclosure { font-size: 0.74rem; color: var(--granat-60); margin: 0; }
 /* plakietka rabatu w nowych blokach stoi przy cenie, nie na prawym skraju (globalnie ma margin-left: auto) */
-.boks-minima__ceny .badge-rabat-mini, .set-boks__ceny .badge-rabat-mini, .pasek-zestaw__ceny .badge-rabat-mini { margin-left: 0; }
+.set-boks__ceny .badge-rabat-mini, .pasek-zestaw__ceny .badge-rabat-mini { margin-left: 0; }
 
 /* --- Wariant „ostry" strony głównej (Marek 19.11.2026): karty, ramki zdjęć
    i tabel bez zaokrągleń, boksy bez kolorowego paska na górze. Przyciski,
@@ -1924,11 +1903,9 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .strona-glowna .set-mini-placeholder,
 .strona-glowna .set-karta .miniatura,
 .strona-glowna .set-karta .foto-brak,
-.strona-glowna .boks-minima__foto,
 .strona-glowna .kod-rabatowy,
 .strona-glowna .disclosure { border-radius: 0; }
 .strona-glowna .deale-slajder,
 .strona-glowna .deal-dnia,
-.strona-glowna .boks-minima,
 .strona-glowna .akt-karta,
 .strona-glowna .wejscie { border-top: 1px solid var(--linia); }
