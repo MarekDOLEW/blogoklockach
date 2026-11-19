@@ -410,6 +410,32 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
     </section>
   )}
 
+  {/* Kolejność od 19.11.2026 (Marek): Aktualności przed „Dziś w dobrej cenie" */}
+  {aktualnosciGlowna.length > 0 && (
+    <section class="sekcja sekcja--aktualnosci" aria-label="Aktualności">
+      <div class="sekcja-head">
+        <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Aktualności</h2>
+      </div>
+      <p class="akt-wstep">Akcje sklepów i kampanie z datą końca – z naszą oceną, co naprawdę jest okazją.</p>
+      <div class="akt-slajder" data-akt-slajder>
+        <div class="akt-tor" data-akt-tor tabindex="0" aria-label="Aktualności – przewiń w bok">
+          {aktualnosciGlowna.map((a) => <KartaAktualnosci a={a} />)}
+        </div>
+        {aktualnosciGlowna.length > 2 && (
+          <>
+            <button type="button" class="akt-strzalka akt-strzalka--wstecz" data-akt="wstecz" aria-label="Poprzednie aktualności">‹</button>
+            <button type="button" class="akt-strzalka akt-strzalka--dalej" data-akt="dalej" aria-label="Następne aktualności">›</button>
+          </>
+        )}
+      </div>
+      <p class="sekcja-stopka">
+        <a class="przycisk przycisk--duzy" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
+      </p>
+    </section>
+  )}
+
+
   {listingDobre.length > 0 && (
     <section class="sekcja sekcja--trzy-promocje" aria-label="Dziś w dobrej cenie">
       <div class="sekcja-head">
@@ -468,31 +494,6 @@ const prezentowniki = WYBRANE_PREZENTOWNIKI.map((u) => kartyPrezentownikow.get(u
       </p>
     </section>
   )}
-
-  {aktualnosciGlowna.length > 0 && (
-    <section class="sekcja sekcja--aktualnosci" aria-label="Aktualności">
-      <div class="sekcja-head">
-        <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-        <h2>Aktualności</h2>
-      </div>
-      <p class="akt-wstep">Akcje sklepów i kampanie z datą końca – z naszą oceną, co naprawdę jest okazją.</p>
-      <div class="akt-slajder" data-akt-slajder>
-        <div class="akt-tor" data-akt-tor tabindex="0" aria-label="Aktualności – przewiń w bok">
-          {aktualnosciGlowna.map((a) => <KartaAktualnosci a={a} />)}
-        </div>
-        {aktualnosciGlowna.length > 2 && (
-          <>
-            <button type="button" class="akt-strzalka akt-strzalka--wstecz" data-akt="wstecz" aria-label="Poprzednie aktualności">‹</button>
-            <button type="button" class="akt-strzalka akt-strzalka--dalej" data-akt="dalej" aria-label="Następne aktualności">›</button>
-          </>
-        )}
-      </div>
-      <p class="sekcja-stopka">
-        <a class="przycisk przycisk--duzy" href="/aktualnosci/">Zobacz wszystkie aktualności →</a>
-      </p>
-    </section>
-  )}
-
 
   {artykuly.length > 0 && (
     <section class="sekcja" aria-label="Najnowsze artykuły">
