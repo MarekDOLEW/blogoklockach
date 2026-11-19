@@ -1925,3 +1925,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .strona-glowna .deale-slajder .slajd-licznik { left: 64px; top: 0; }
   .strona-glowna .deale-slajder .slajd-polka { right: 64px; }
 }
+
+/* Karty aktualności na głównej: wyższe pole zdjęcia (Marek 19.11.2026). 16:9 dawało
+   ~232 px przy trzech kartach w rzędzie; 10:7 to ~288 px, pudełko ma więcej miejsca. */
+.strona-glowna .akt-foto { aspect-ratio: 10 / 7; }
