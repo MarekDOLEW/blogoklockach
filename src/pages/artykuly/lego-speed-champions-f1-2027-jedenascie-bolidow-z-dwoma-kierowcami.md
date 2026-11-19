@@ -4,17 +4,21 @@ title: "LEGO Speed Champions F1 2027 – jedenaście bolidów z dwoma kierowcami
 opis: "LEGO zapowiedziało 11 bolidów Speed Champions na sezon F1 2026 – w każdym zestawie dwóch prawdziwych kierowców. Premiera 1 marca 2027."
 seo_tytul: "LEGO Speed Champions F1 2027 – 11 bolidów od 1 marca"
 data: "2026-11-19"
+zaktualizowano: "2026-11-19"
 kategoria: "Premiery"
-okladka: "77267"
+okladka: "/zdjecia/artykuly/lego-speed-champions-f1-2027-jedenascie-bolidow-z-dwoma-kierowcami/1.webp"
+okladka_alt: "LEGO Speed Champions 77267 – bolid Ferrari SF-26 z minifigurkami dwóch kierowców"
 zestawy: ["77267", "77268", "77269", "77270", "77271", "77272", "77273", "77274", "77275", "77276", "77277"]
 ---
 
 LEGO oficjalnie zapowiedziało jedenaście nowych zestawów Speed Champions z bolidami Formuły 1 – po jednym dla każdego zespołu z sezonu 2026. Zestawy trafią do sprzedaży 1 marca 2027 roku, a na LEGO.com można je już zamawiać w przedsprzedaży.
 
+![LEGO Speed Champions 77267 – bolid Ferrari SF-26 z minifigurkami dwóch kierowców](/zdjecia/artykuly/lego-speed-champions-f1-2027-jedenascie-bolidow-z-dwoma-kierowcami/1.webp)
 ## Każdy zespół, dwóch kierowców
 
 Najważniejsza zmiana w porównaniu z pierwszą falą bolidów F1 dotyczy minifigurek. Dotąd w pudełku był jeden anonimowy kierowca w barwach zespołu, a teraz każdy zestaw zawiera dwie minifigurki konkretnych zawodników z sezonu 2026 – z kombinezonami i kaskami w ich indywidualnych malowaniach. W zestawie Ferrari znajdą się Lewis Hamilton i Charles Leclerc, w McLarenie Lando Norris i Oscar Piastri, w Mercedesie George Russell i Kimi Antonelli, a w debiutującym w stawce Cadillacu Valtteri Bottas i Sergio Pérez. Numer startowy na bolidzie można dopasować do wybranego kierowcy za pomocą naklejek.
 
+![LEGO Speed Champions 77277 – bolid Cadillac MAC-26 z minifigurkami Valtteriego Bottasa i Sergia Péreza](/zdjecia/artykuly/lego-speed-champions-f1-2027-jedenascie-bolidow-z-dwoma-kierowcami/2.webp)
 Same samochody odwzorowują konstrukcje zbudowane według przepisów obowiązujących od 2026 roku, więc wyraźnie różnią się od bolidów z poprzedniej fali, opartych na modelach z sezonu 2024. Zestawy liczą od 198 do 231 elementów i są przeznaczone dla dzieci od 10 lat.
 
 ## Jedenaście zestawów na start sezonu
@@ -36,5 +40,7 @@ Same samochody odwzorowują konstrukcje zbudowane według przepisów obowiązuj�
 Na LEGO.pl bolidy są już w przedsprzedaży w cenie 126,99 zł za zestaw, z wysyłką od 1 marca 2027 roku. W sklepach LEGO w strefie euro każdy kosztuje 29,99 €, czyli nieco więcej niż zestawy z pierwszej fali F1.
 
 Premiera 1 marca nie jest przypadkowa – nowe zestawy trafią na półki tuż przed startem kolejnego sezonu Formuły 1. To już trzeci rok współpracy LEGO z F1, a pełna stawka z prawdziwymi kierowcami jest najbardziej kolekcjonerską odsłoną tej serii w skali Speed Champions.
+
+Zdjęcia: © The LEGO Group.
 
 [zobacz kategorię LEGO Speed Champions](/serie/speed-champions/)

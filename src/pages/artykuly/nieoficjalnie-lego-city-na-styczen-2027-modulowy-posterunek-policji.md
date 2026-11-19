@@ -4,13 +4,16 @@ title: "Nieoficjalnie: LEGO City na styczeń 2027 – modułowy posterunek polic
 opis: "Pierwsze zdjęcia styczniowych zestawów LEGO City 2027: modułowy posterunek policji, tuk-tuk z popcornem, furgonetka z lodami i pociąg. Co wiadomo nieoficjalnie."
 seo_tytul: "Nieoficjalnie: LEGO City na styczeń 2027"
 data: "2026-11-18"
+zaktualizowano: "2026-11-19"
 kategoria: "Aktualności"
-okladka: "60535"
+okladka: "/zdjecia/artykuly/nieoficjalnie-lego-city-na-styczen-2027-modulowy-posterunek-policji/1.webp"
+okladka_alt: "Logo serii LEGO City"
 zestawy: ["60535", "60534", "60541", "60539", "60519", "60533", "60517", "60515", "60532", "60530", "60516", "60536"]
 ---
 
 Według nieoficjalnych informacji seria LEGO City rozpocznie 2027 rok od około dwudziestu nowych zestawów, które mają trafić do sprzedaży 1 stycznia. W sieci pojawiły się już zdjęcia pudełek jedenastu z nich, ale LEGO tej fali jeszcze oficjalnie nie zaprezentowało.
 
+![Logo serii LEGO City](/zdjecia/artykuly/nieoficjalnie-lego-city-na-styczen-2027-modulowy-posterunek-policji/1.webp)
 ## Co widać na zdjęciach
 
 Najwięcej uwagi przyciąga modułowy posterunek policji z radiowozem (60535). Zestaw ma liczyć 1124 elementy i zawierać osiem minifigurek, co czyniłoby go największym policyjnym modelem tej fali. Policji mają towarzyszyć trzy mniejsze zestawy: ciężarówka policyjna z nieoznakowanym radiowozem (60534), ucieczka z więzienia z policyjnym helikopterem (60533) oraz krótki pościg radiowozem (60532). Motyw policyjny wraca więc w pełnym przekroju cenowym, od małego zestawu startowego po rozbudowany budynek.
@@ -39,5 +42,7 @@ Wśród zestawów, których zdjęć jeszcze nie ma, mają się znaleźć szybki 
 ## Czego jeszcze nie wiemy
 
 Polskich cen katalogowych ani oficjalnych polskich nazw na razie nie ma, a ceny dla strefy euro są wyłącznie szacunkami krążącymi w społeczności fanów LEGO. Nie wiadomo też, czy wszystkie zestawy z listy rzeczywiście pojawią się w styczniu. Do czasu oficjalnej prezentacji szczegóły mogą się jeszcze zmienić.
+
+Zdjęcia: © The LEGO Group.
 
 [zobacz kategorię LEGO City](/serie/city/)

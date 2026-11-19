@@ -2,15 +2,18 @@
 layout: ../../layouts/Artykul.astro
 title: "Nieoficjalnie: 30. seria minifigurek LEGO 71054 w styczniu 2027 – rycerz z krukiem w herbie, gondolier i pani z corgim"
 opis: "Nieoficjalnie: 30. seria minifigurek LEGO 71054 ma się ukazać w styczniu 2027. Sprawdź, jakie dwanaście postaci ma się w niej znaleźć."
-seo_tytul: "Nieoficjalnie: 30. seria minifigurek LEGO 71054 – styczeń 2027"
+seo_tytul: "Nieoficjalnie: 30. seria minifigurek LEGO 71054 w 2027"
 data: "2026-11-18"
+zaktualizowano: "2026-11-19"
 kategoria: "Aktualności"
-okladka: "71054"
+okladka: "/zdjecia/artykuly/nieoficjalnie-30-seria-minifigurek-lego-71054-w-styczniu-2027-rycerz/1.webp"
+okladka_alt: "Dwanaście minifigurek 30. serii LEGO 71054 na zdjęciu, które pojawiło się w sieci przed oficjalną zapowiedzią"
 zestawy: ["71054"]
 ---
 
 Według nieoficjalnych informacji jubileuszowa, 30. seria kolekcjonerskich minifigurek LEGO (71054) ma trafić do sprzedaży w styczniu 2027 roku. W społeczności fanów LEGO pojawiły się już zdjęcia figurek przedstawiane jako materiały producenta, ale LEGO nie zapowiedziało jeszcze serii oficjalnie.
 
+![Dwanaście minifigurek 30. serii LEGO 71054 na zdjęciu, które pojawiło się w sieci przed oficjalną zapowiedzią](/zdjecia/artykuly/nieoficjalnie-30-seria-minifigurek-lego-71054-w-styczniu-2027-rycerz/1.webp)
 ## Kogo ma przedstawiać 30. seria
 
 Zgodne informacje z kilku źródeł mówią o dwunastu postaciach. Podobnie jak w poprzednich seriach bez licencji, zestaw ma łączyć motywy historyczne, fantastyczne i codzienne. Nazwy postaci nie są oficjalne i po zapowiedzi LEGO mogą brzmieć inaczej:
@@ -35,5 +38,7 @@ Największym zainteresowaniem kolekcjonerów zwykle cieszą się postacie, któr
 Brakuje oficjalnej zapowiedzi LEGO, a więc także potwierdzonych nazw postaci, polskiej ceny katalogowej i dokładnej daty premiery. Jeden z polskich serwisów fanów podaje nieoficjalnie cenę 16,99 zł za opakowanie z jedną figurką – potwierdzimy ją lub poprawimy, gdy pojawi się karta produktu na LEGO.pl. Nie wiadomo też, czy figurki trafią najpierw do sklepu LEGO, czy równocześnie do innych sklepów. Jak w poprzednich seriach, minifigurki mają być sprzedawane w pojedynczych opakowaniach z losową postacią.
 
 Obecnie w sprzedaży na LEGO.pl jest seria Shrek (71053), wydana w tym samym formacie.
+
+Zdjęcia: © The LEGO Group.
 
 [zobacz kategorię LEGO Minifigurki](/serie/minifigurki/)
