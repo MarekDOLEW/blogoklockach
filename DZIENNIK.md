@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-19 05:15 · SCOUT · Do zrobienia
+
+**Sklep Smyths Toys wystawił przed zapowiedzią LEGO całą falę Speed Champions 2027: jedenaście bolidów Formuły 1 na 1 marca (77267–77277) i Lamborghini Fenomeno na 1 stycznia (77280), wszystkie po 29,99 euro — i każdy bolid ma teraz DWIE minifigurki kierowców zamiast jednej.**
+**Mamy?** — częściowo: wszystkie dwanaście numerów stoi od dziś w `src/data/przecieki.json` i na `/przecieki/` z pewnością „średnią" (jedno źródło branżowe plus listing sklepu), z liczbami elementów, nazwiskami kierowców i oznaczeniami wiekowymi. W dziale Artykuły nie ma o tym nic.
+**Zrobić:** — napisać tekst „nieoficjalnie" o fali Speed Champions 2027 na podstawie tych dwunastu wpisów. Teza odróżniająca: para kierowców w każdym pudełku to zmiana formuły serii (dotąd jeden bolid = jedna figurka), a cena 29,99 euro jest **jednakowa dla całej jedenastki**, więc jedyne, co różnicuje bolidy, to liczba elementów (198 przy McLarenie, 231 przy Williamsie). Wart wzmianki wyjątek: 77280 Lamborghini Fenomeno ma 280 elementów w tej samej cenie i wchodzi dwa miesiące wcześniej.
+**Kto:** — Piotr (tekst)
+
 
 ## 2026-11-18 14:58 · SKRZYNKA · GitHub: 0052, 0053, Recenzje_023
 Źródło: repo tylkoklocki-teksty, commit b62dfd79.
