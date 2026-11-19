@@ -168,6 +168,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-19 08:58 · SKRZYNKA · GitHub: 0054
+Źródło: repo tylkoklocki-teksty, commit 059404c9.
+- 0054 → https://tylkoklocki.pl/artykuly/lego-speed-champions-f1-2027-jedenascie-bolidow-z-dwoma-kierowcami/
+
 ## 2026-11-19 08:30 · RADAR · Do zrobienia
 
 **faniklockow.pl · 18.11** — Podali Media Expert **550 zł** za 72306 PlayStation jako „historycznie najniższą cenę". **Potwierdzone u źródła:** karta ME pokazuje **549,99 zł**, „Taniej o 17,91 zł", „Cena bezpośrednio przed obniżką 567,90 zł" — czyli poniżej naszego rekordu 567,90 z 14.11.
