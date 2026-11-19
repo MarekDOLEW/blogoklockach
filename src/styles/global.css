@@ -1909,3 +1909,19 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .strona-glowna .deal-dnia,
 .strona-glowna .akt-karta,
 .strona-glowna .wejscie { border-top: 1px solid var(--linia); }
+
+/* --- Slajder deali bez białej karty (wariant C, Marek 19.11.2026): treść leży
+   wprost na tle strony, zdjęcie bez ramki (białe tło pakshotu wygasza tryb
+   mieszania), kolumna zdjęcia szersza kosztem tekstu, strzałki w marginesach
+   slajdu, żeby nie nachodziły na grafikę. Telefon (≤760 px) bez zmian układu. */
+.strona-glowna .deale-slajder { background: transparent; border: 0; box-shadow: none; }
+.strona-glowna .deale-slajder .deal-dnia { border-top: 0; }
+.strona-glowna .deal-foto { background: transparent; border: 0; box-shadow: none; }
+.strona-glowna .deal-foto img { mix-blend-mode: multiply; }
+@media (min-width: 761px) {
+  .strona-glowna .deale-slajder .deal-dnia { grid-template-columns: minmax(300px, 540px) minmax(0, 1fr); gap: 36px; padding: 16px 64px 54px; }
+  .strona-glowna .slajder-strzalka--wstecz { left: 4px; }
+  .strona-glowna .slajder-strzalka--dalej { right: 4px; }
+  .strona-glowna .deale-slajder .slajd-licznik { left: 64px; top: 0; }
+  .strona-glowna .deale-slajder .slajd-polka { right: 64px; }
+}
