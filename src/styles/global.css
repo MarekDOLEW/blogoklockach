@@ -1907,3 +1907,28 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .pasek-disclosure { font-size: 0.74rem; color: var(--granat-60); margin: 0; }
 /* plakietka rabatu w nowych blokach stoi przy cenie, nie na prawym skraju (globalnie ma margin-left: auto) */
 .boks-minima__ceny .badge-rabat-mini, .set-boks__ceny .badge-rabat-mini, .pasek-zestaw__ceny .badge-rabat-mini { margin-left: 0; }
+
+/* --- Wariant „ostry" strony głównej (Marek 19.11.2026): karty, ramki zdjęć
+   i tabel bez zaokrągleń, boksy bez kolorowego paska na górze. Przyciski,
+   plakietki, wypustki klocka i kropki slajdera zostają jak były. Na razie
+   tylko główna (klasa .strona-glowna na wrapperze w index.astro); po decyzji
+   przenieść na resztę serwisu albo skasować. */
+.strona-glowna .karta,
+.strona-glowna .foto-okno,
+.strona-glowna .foto-placeholder,
+.strona-glowna .tabela-setow-wrap,
+.strona-glowna .zajawka-foto,
+.strona-glowna .akt-foto,
+.strona-glowna .akt-foto img,
+.strona-glowna .set-mini img,
+.strona-glowna .set-mini-placeholder,
+.strona-glowna .set-karta .miniatura,
+.strona-glowna .set-karta .foto-brak,
+.strona-glowna .boks-minima__foto,
+.strona-glowna .kod-rabatowy,
+.strona-glowna .disclosure { border-radius: 0; }
+.strona-glowna .deale-slajder,
+.strona-glowna .deal-dnia,
+.strona-glowna .boks-minima,
+.strona-glowna .akt-karta,
+.strona-glowna .wejscie { border-top: 1px solid var(--linia); }
