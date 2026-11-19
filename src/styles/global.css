@@ -1928,4 +1928,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 
 /* Karty aktualności na głównej: wyższe pole zdjęcia (Marek 19.11.2026). 16:9 dawało
    ~232 px przy trzech kartach w rzędzie; 10:7 to ~288 px, pudełko ma więcej miejsca. */
-.strona-glowna .akt-foto { aspect-ratio: 10 / 7; }
+.strona-glowna .akt-foto { aspect-ratio: 11 / 8; }
+/* …i 12 px więcej odstępu nad zdjęciem, żeby nie dotykało górnej krawędzi (ramka
+   o tyle samo wyższa, więc samo zdjęcie nie maleje). */
+.strona-glowna .akt-foto img { padding-top: 22px; }
