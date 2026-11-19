@@ -169,6 +169,18 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
 
+## 2026-11-19 14:58 · SKRZYNKA · GitHub: 0052–0054 (aktualizacje ze zdjęciami) + 124 karty; 41379 i 21241 wstrzymane
+Źródło: repo tylkoklocki-teksty, commit 48a53e30.
+- Artykuły 0052, 0053 i 0054 dostały poprawioną wersję i 4 zdjęcia Piotra.
+- 124 karty P07 na hubach /zestaw/<nr>/.
+Wstrzymane, obie w `do-poprawki/` (commit e5f583b w repo tekstów), Piotr dostał mail:
+- 41379 Restauracja w Heartlake — drugi raz z ceną 269,99 zł (katalog i promoklocki.pl: 259,99 zł).
+- 21241 Pszczeli ul — Piotr 89,99 zł, katalog i promoklocki.pl 99,99 zł, zklockow.pl 89,99 zł. Rozbieżność do rozstrzygnięcia przez Marka.
+Uwagi bez blokady:
+- Liczba elementów: 10996 (29 vs 23), 41803 (115 vs 105), 41807 (388 vs 379), 75397 (3943 vs 3942), 80047 (605 vs 612).
+- 31 kart krótkich (1 akapit).
+
+
 ## 2026-11-19 08:58 · SKRZYNKA · GitHub: 0054
 Źródło: repo tylkoklocki-teksty, commit 059404c9.
 - 0054 → https://tylkoklocki.pl/artykuly/lego-speed-champions-f1-2027-jedenascie-bolidow-z-dwoma-kierowcami/
