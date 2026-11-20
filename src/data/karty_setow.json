@@ -3,7 +3,7 @@
   "opis": "Karty katalogowo-sprzedażowe zestawów: akapity opisu + FAQ. Renderowane na /zestaw/<nr>/ POD tabelą cen.",
   "zrodlo": "teksty Piotra Maculewicza (docx), przetworzone: usunięte odwołania do danych historycznych (nie mamy ich), dopisane akapity redakcyjne wg progu elementów (501-1200: +1, 1201+: +2), placeholdery zamienione na linki wewnętrzne",
   "pola": "akapity[] (HTML z linkami), faq[{q,a}], metryka{}, elementy, seria, nazwa",
-  "zaktualizowano": "2026-11-19",
+  "zaktualizowano": "2026-11-20",
   "serie_wgrane": [
    "Animal Crossing",
    "Architecture",
@@ -118370,6 +118370,98 @@
    {
     "q": "Jakie są podobne zestawy LEGO Star Wars w małej skali?",
     "a": "Inne miniaturowe statki z Gwiezdnych Wojen wydawano jako dodatki lub w saszetkach. <a href=\"/serie/star-wars/\">Zobacz wszystkie zestawy LEGO Star Wars</a>"
+   }
+  ]
+ },
+ "21241": {
+  "seria": "Minecraft",
+  "nazwa": "Pszczeli ul",
+  "elementy": 254,
+  "akapity": [
+   "LEGO 21241 Pszczeli ul przenosi do świata klocków charakterystyczne pszczoły z Minecrafta. Głównym modelem jest dom w kształcie ula, którego zdejmowany dach odsłania wnętrze. Plastry miodu można zbierać prosto z ula, a rośliny uprawiać na farmie. Gdy pojawi się mały zombie, trzeba bronić się przed mobem. Towarzystwo tworzą figurka niedźwiadka, trzy pszczoły i jedna wściekła pszczoła.",
+   "Pstryknięcie palcem wprawia dwie pszczoły w ruch dookoła drzewa. Scenerię uzupełniają ogród i woda, a całość nawiązuje do biomu brzozowego lasu. Pszczeli ul ukazał się na początku 2023 roku, a komplet ma 254 elementy. Gotowy ul mierzy 10 cm wysokości, a jego szerokość to 14 cm."
+  ],
+  "metryka": {
+   "Numer": "21241",
+   "Nazwa": "Pszczeli ul",
+   "Seria": "Minecraft",
+   "Premiera": "2023",
+   "Liczba elementów": "254",
+   "Wiek": "8+",
+   "Minifigurki / postacie": "niedźwiadek i mały zombie oraz 4 figurki pszczół",
+   "Cena katalogowa w Polsce": "99,99 zł",
+   "Cena katalogowa za element": "0,39 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Minecraft",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena Pszczelego ula?",
+    "a": "Kosztował 99,99 zł w polskim sklepie LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Po ile wychodzi jeden element?",
+    "a": "Około 0,39 zł, czyli 99,99 zł podzielone przez 254 elementy. Wskaźnik ma charakter pomocniczy, bo nie uwzględnia figurek pszczół i niedźwiadka."
+   },
+   {
+    "q": "Jak poruszają się pszczoły?",
+    "a": "Po pstryknięciu palcem dwie z nich krążą wokół drzewa."
+   },
+   {
+    "q": "Czy da się zajrzeć do środka ula?",
+    "a": "Tak, dach jest zdejmowany i odsłania wnętrze domu."
+   },
+   {
+    "q": "Jakie są podobne zestawy LEGO Minecraft z domami?",
+    "a": "Podobne są zestawy Minecraft z domami w kształcie zwierząt lub obiektów z gry, z otwieraną konstrukcją i kilkoma mobami. <a href=\"/serie/minecraft/\">Zobacz wszystkie zestawy LEGO Minecraft</a>"
+   }
+  ]
+ },
+ "41379": {
+  "seria": "Friends",
+  "nazwa": "Restauracja w Heartlake",
+  "elementy": 624,
+  "akapity": [
+   "Kamienny piec do pizzy, bar sałatkowy i recepcja wyposażają dwupiętrową restaurację z zestawu 41379. Restauracja w Heartlake miała premierę latem 2019 roku, należy do serii Friends, a na całość przypadają 624 elementy. Dzieci mogą w niej gotować jako szef kuchni, obsługiwać gości przy stole na balkonie albo same przyjść na obiad z przyjaciółmi.",
+   "Bar sałatkowy jest ruchomy, więc po przesunięciu robi się więcej miejsca do zabawy, a sałatki rozwozi osobny wózek. Kuchnię wyposażono w patelnię do pizzy, szpatułkę, formę do pieczenia, sosjerkę i trzepaczkę, a z produktów są dwie ryby, bagietki, babeczki i płytki z wzorem pizzy oraz makaronu. Jest też WC z rolką papieru.",
+   "Na zewnątrz stoi kontener na śmieci, w którym kot Chico szuka resztek razem z nowym kocim przyjacielem. Zestaw zostawia miejsce na zagadkę: dwie farby w sprayu i naklejki graffiti zdradzają nocnego artystę, którego tożsamość dzieci wymyślają same. Emma, Ethan i szef kuchni to trzy minilaleczki z zestawu, a w komplecie jest także skuter.",
+   "Gdyby stanął obok 38 zestawów LEGO Friends z 2026 roku, byłby 9. co do wielkości. Za element płaci się tu katalogowo 0,42 zł, przy typowych dla serii 0,45 zł."
+  ],
+  "metryka": {
+   "Numer": "41379",
+   "Nazwa": "Restauracja w Heartlake",
+   "Seria": "Friends",
+   "Premiera": "2019",
+   "Liczba elementów": "624",
+   "Wiek": "6+",
+   "Minifigurki / postacie": "3 minilaleczki: Emma, Ethan i szef kuchni",
+   "Cena katalogowa w Polsce": "259,99 zł",
+   "Cena katalogowa za element": "0,42 zł",
+   "Typ zestawu": "zabawowy",
+   "Kolekcja / system": "LEGO Friends",
+   "Dystrybucja": "sprzedaż detaliczna"
+  },
+  "faq": [
+   {
+    "q": "Jaka była cena restauracji w Polsce?",
+    "a": "259,99 zł według ostatniego cennika LEGO. <a href=\"#ceny\">Zobacz tabelę cen nad tym opisem</a>"
+   },
+   {
+    "q": "Kim jest Chico?",
+    "a": "To kot, który szuka resztek w kontenerze na śmieci przed restauracją. W zestawie są dwie figurki kotów."
+   },
+   {
+    "q": "Do czego służy ruchomy bar sałatkowy?",
+    "a": "Po przesunięciu zwiększa przestrzeń do zabawy w środku restauracji."
+   },
+   {
+    "q": "Skąd w zestawie graffiti?",
+    "a": "Farby w sprayu i naklejki graffiti to ślad tajemniczego artysty, który przychodzi nocą; jego tożsamość dzieci wymyślają same."
+   },
+   {
+    "q": "Jak ten zestaw wypada na tle innych zestawów LEGO Friends w podobnej cenie?",
+    "a": "Dom Mii 41369 kosztował 299,99 zł i ma 715 elementów, czyli więcej niż restauracja (624), ale zamiast lokalu z kuchnią i balkonem daje rodzinną chatę z pokojami i studnią. <a href=\"/serie/friends/\">Zobacz wszystkie zestawy LEGO Friends</a>"
    }
   ]
  }
