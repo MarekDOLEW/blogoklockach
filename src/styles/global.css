@@ -1978,3 +1978,39 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .katalog .tabela-setow .kol-status > * + * { margin-top: 6px; }
   .katalog .tabela-setow .kol-status .badge-artykul { font-size: 0.75rem; padding: 3px 10px; line-height: inherit; vertical-align: baseline; }
 }
+
+/* --- Hub zestawu (Marek 20.11.2026) ---
+   Boks ceny w granacie (to, co było granatowe, jest białe; bez żółtego paska),
+   zdjęcie hero bez białej ramki, tabela cen z wycentrowanymi przyciskami tej
+   samej szerokości i tytułem kolumny, tekst karty na całą szerokość albo
+   obok dużego zdjęcia złożonego modelu, „Podobne zestawy" w sześciu kolumnach
+   bez ramek wokół zdjęć. Kolejność sekcji przestawiona w [nr].astro. */
+.set-boks { background: var(--granat); color: #fff; border-color: var(--granat); border-top: 0; }
+.set-boks__etykieta, .set-boks__sklepy, .set-boks__min, .set-boks__disclosure { color: #c9d1e3; }
+.set-boks__cena { color: var(--zolty); }
+.set-boks__kat { color: #aeb8cf; }
+.set-boks__min strong { color: #fff; }
+.set-boks .cta { background: #fff; color: var(--granat); }
+.set-boks .cta:hover { background: var(--zolty); color: var(--granat); }
+.set-boks__lista li { color: #dfe4ee; }
+.set-boks__lista li.najtanszy { color: #fff; }
+.set-boks__wszystkie { color: #fff; }
+.set-boks .kod-rabatowy { color: var(--granat); }
+.set-hero .foto-okno { background: transparent; border: 0; box-shadow: none; }
+.set-hero .foto-okno img { mix-blend-mode: multiply; }
+@media (min-width: 721px) {
+  .tabela-cen .kc-cta, .tabela-cen .kc-cta-naglowek { text-align: center; }
+  .tabela-cen .kc-cta .cta { width: 176px; text-align: center; box-sizing: border-box; }
+}
+.karta-tekst__tresc p { margin: 0 0 1em; }
+.karta-tekst__tresc p:last-child { margin-bottom: 0; }
+.karta-tekst__model { margin: 18px 0 0; }
+.karta-tekst__model img { display: block; width: 100%; height: auto; mix-blend-mode: multiply; }
+@media (min-width: 900px) {
+  .karta-tekst--z-modelem { display: grid; grid-template-columns: minmax(0, 1fr) minmax(320px, 40%); gap: 36px; align-items: start; }
+  .karta-tekst__model { margin: 0; position: sticky; top: calc(var(--h-naglowek) + 16px); }
+}
+@media (min-width: 1000px) {
+  .siatka--podobne { grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 16px; }
+}
+.siatka--podobne .set-karta .miniatura { border: 0; }

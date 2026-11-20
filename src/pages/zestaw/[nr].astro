@@ -7,7 +7,7 @@ import PasekCeny from '../../components/PasekCeny.astro';
 import BoksCenyZestawu from '../../components/BoksCenyZestawu.astro';
 import sety from '../../data/sety.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { zdjecieSetu, opisSetu, obrazStaly, obrazPlynny } from '../../lib/media.js';
+import { zdjecieSetu, opisSetu, obrazStaly, obrazPlynny, zdjecieModelu } from '../../lib/media.js';
 import karty from '../../data/karty_setow.json';
 import galerie from '../../data/galerie.json';
 import { wpisKatalogu } from '../../lib/katalog.js';
@@ -421,6 +421,42 @@ const opisMeta = najlepsza
       </section>
     )}
 
+    {karta && (
+      <section class="sekcja karta-setu" style="margin-top:24px">
+        <h2>LEGO {nr} {bezPlaceholdera(karta.nazwa) ?? nazwa}</h2>
+        {/* Tekst na całą szerokość; gdy mamy zdjęcie złożonego modelu (zdjecia_modeli.json),
+            stoi po prawej obok tekstu (Marek 20.11.2026). */}
+        <div class={`karta-tekst${zdjecieModelu(nr) ? ' karta-tekst--z-modelem' : ''}`}>
+          <div class="karta-tekst__tresc">
+            {karta.akapity.map((a) => <p set:html={a} />)}
+          </div>
+          {zdjecieModelu(nr) && (
+            <figure class="karta-tekst__model">
+              <img {...obrazPlynny(zdjecieModelu(nr), [440, 880], '(max-width: 899px) calc(100vw - 48px), 480px')} alt={`LEGO ${nr} ${nazwa} – złożony model`} loading="lazy" width="800" height="600" />
+            </figure>
+          )}
+        </div>
+        {karta.metryka && Object.keys(karta.metryka).length > 0 && (
+          <>
+            <h3 style="margin-top:22px">Metryka zestawu</h3>
+            <div class="metryka-wrap">
+              <table class="metryka-setu">
+                <tbody>
+                  {Object.entries(karta.metryka).map(([pole, wartosc]) => (
+                    <tr>
+                      <th scope="row">{pole}</th>
+                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : pole === 'Status' ? (statusMetryki ?? wartosc) : (metrykaZDanych[pole] ?? wartosc)}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </>
+        )}
+      </section>
+    )}
+
+
     {wkrotce && oferty.length === 0 ? (
       <p class="karta" style="padding: 14px 18px; margin: 18px 0;">
         <strong>Zapowiedź:</strong> premiera {premiera}.
@@ -471,7 +507,6 @@ const opisMeta = najlepsza
             {' '}– dziś jest o {fmt(najlepsza - minimum.cena)} drożej.
           </p>
         )}
-        <p class="disclosure">Przyciski ze strzałką to linki afiliacyjne – nie zmieniają ani ceny, ani kolejności: najtańszy sklep zawsze stoi na górze.{oferty.some((o) => o.sklep === 'ceneo') && ' Ceneo to porównywarka, nie sklep, dlatego ma osobny wiersz na końcu.'}</p>
       </div>
     ) : (
       <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż, zostaje rynek wtórny (Allegro, OLX).' : '. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.'}</p>
@@ -479,43 +514,19 @@ const opisMeta = najlepsza
 
     {!przeciek && <ObserwujCene nr={nr} eol={eol} />}
 
-    {karta && (
-      <section class="sekcja karta-setu" style="margin-top:24px">
-        <h2>LEGO {nr} {bezPlaceholdera(karta.nazwa) ?? nazwa}</h2>
-        {karta.akapity.map((a) => <p class="prose" set:html={a} />)}
-        {karta.metryka && Object.keys(karta.metryka).length > 0 && (
-          <>
-            <h3 style="margin-top:22px">Metryka zestawu</h3>
-            <div class="metryka-wrap">
-              <table class="metryka-setu">
-                <tbody>
-                  {Object.entries(karta.metryka).map(([pole, wartosc]) => (
-                    <tr>
-                      <th scope="row">{pole}</th>
-                      <td>{pole === 'Nazwa' ? (bezPlaceholdera(wartosc) ?? nazwa) : pole === 'Status' ? (statusMetryki ?? wartosc) : (metrykaZDanych[pole] ?? wartosc)}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </>
-        )}
-        {karta.faq?.length > 0 && (
-          <>
-            <h3 style="margin-top:22px">Najczęstsze pytania</h3>
-            <dl class="faq-setu">
-              {karta.faq.map((f) => (
-                <>
-                  <dt>{f.q}</dt>
-                  <dd set:html={f.a} />
-                </>
-              ))}
-            </dl>
-          </>
-        )}
+    {karta?.faq?.length > 0 && (
+      <section class="sekcja karta-setu karta-setu--faq" style="margin-top:24px">
+        <h2>Najczęstsze pytania</h2>
+        <dl class="faq-setu">
+          {karta.faq.map((f) => (
+            <>
+              <dt>{f.q}</dt>
+              <dd set:html={f.a} />
+            </>
+          ))}
+        </dl>
       </section>
     )}
-
 
     {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="dol" />}
 
@@ -558,6 +569,9 @@ const opisMeta = najlepsza
       seria && (
         <p style="margin-top: 20px"><a href={`/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`}>← Wszystkie zestawy serii {seria}</a></p>
       )
+    )}
+    {(oferty.length > 0 || cenaKatalogowa) && !(wkrotce && oferty.length === 0) && (
+      <p class="disclosure disclosure--stopka">Przyciski ze strzałką to linki afiliacyjne – nie zmieniają ani ceny, ani kolejności: najtańszy sklep zawsze stoi na górze.{oferty.some((o) => o.sklep === 'ceneo') && ' Ceneo to porównywarka, nie sklep, dlatego ma osobny wiersz na końcu.'}</p>
     )}
 </article>
   <script is:inline>
