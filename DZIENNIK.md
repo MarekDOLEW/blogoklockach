@@ -168,6 +168,12 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-20 14:58 · SKRZYNKA · GitHub: 0055 + karty 21241 i 41379 (poprawione)
+Źródło: repo tylkoklocki-teksty, commit c997a048.
+- 0055 → https://tylkoklocki.pl/artykuly/historia-kalendarzy-adwentowych-lego-od-jednego-pudelka-w-1998-roku/ (6 zdjęć)
+- 21241 Pszczeli ul i 41379 Restauracja w Heartlake — Piotr poprawił ceny na 99,99 zł i 259,99 zł, zgodne z katalogiem. Karty są na hubach, a stare wersje usunięte z `do-poprawki/` (commit bde3622 w repo tekstów).
+
 ## 2026-11-20 08:25 · RADAR · Do zrobienia
 
 **BrickLink · 19.11** — **Serwis wyłączony po raz drugi w dwa tygodnie.** Wrócił 12.11 po sześciu dniach, 19.11 zniknął ponownie. Strona serwisowa sprawdzona dziś: „BrickLink will remain unavailable while we investigate **unusual activity**… particularly coming so soon after our recent outage", z zapowiedzią informacji „by 10:00 AM PST / 7:00 PM CET on Friday, November 20".
