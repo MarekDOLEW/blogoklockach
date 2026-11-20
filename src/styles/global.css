@@ -2030,3 +2030,12 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .pasek-ceny--dol .cta:hover { background: var(--zolty); }
 .pasek-ceny--dol .pasek-ceny__wszystkie { color: #fff; }
 .pasek-ceny--dol .kod-rabatowy { color: var(--granat); }
+
+/* --- Hub zestawu, trzecia runda (Marek 20.11.2026): większe zdjęcie w hero
+   (kolumna 470 px zamiast 400) i „Najniższa cena, jaką zanotowaliśmy" na
+   granatowej belce w stylu boksu ceny. */
+@media (min-width: 1100px) {
+  .set-hero { grid-template-columns: minmax(320px, 470px) minmax(0, 1fr) 320px; }
+}
+.set-minimum { background: var(--granat); color: #fff; padding: 16px 22px; border-radius: var(--radius); margin: 18px 0; }
+.set-minimum strong { color: var(--zolty); font-family: var(--font-display); font-size: 1.15rem; }
