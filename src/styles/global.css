@@ -1963,3 +1963,18 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .katalog .tabela-setow .set-opis { max-width: 72ch; }
 }
 .tabela-setow .kol-status .badge-artykul { display: inline-block; margin: 6px 0 0; }
+
+/* --- Katalog serii, pasek i kolumna Status (Marek 20.11.2026, desktop) ---
+   Lista „Rok premiery" sięga do miejsca, w którym w tabeli zaczyna się kolumna
+   Zestaw (18 px ramki + 156 px zdjęcia + 84 px numeru + 14 px odstępu komórki
+   = 272 px), więc „Sortuj" stoi równo z nazwami zestawów, a odstęp między listami
+   zostaje ten sam (18 px). Kolumna Status wycentrowana; plakietka tekstu
+   (Premiera/Artykuł) tej samej wielkości co status, zawsze pod nim. */
+@media (min-width: 721px) {
+  .katalog .pasek-filtr .pf-pole:has(> #pf-rok) { flex: 0 0 236px; }
+  .katalog .pasek-filtr .pf-pole:has(> #pf-rok) select { width: 100%; min-width: 0; }
+  .katalog .tabela-setow .kol-status { text-align: center; }
+  .katalog .tabela-setow .kol-status > * { display: block; width: max-content; min-width: 116px; margin: 0 auto; box-sizing: border-box; text-align: center; }
+  .katalog .tabela-setow .kol-status > * + * { margin-top: 6px; }
+  .katalog .tabela-setow .kol-status .badge-artykul { font-size: 0.75rem; padding: 3px 10px; line-height: inherit; vertical-align: baseline; }
+}
