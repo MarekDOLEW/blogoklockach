@@ -512,8 +512,6 @@ const opisMeta = najlepsza
       <p class="karta" id="ceny" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' – LEGO zakończyło jego sprzedaż, zostaje rynek wtórny (Allegro, OLX).' : '. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.'}</p>
     )}
 
-    {!przeciek && <ObserwujCene nr={nr} eol={eol} />}
-
     {karta?.faq?.length > 0 && (
       <section class="sekcja karta-setu karta-setu--faq" style="margin-top:24px">
         <h2>Najczęstsze pytania</h2>
@@ -527,6 +525,8 @@ const opisMeta = najlepsza
         </dl>
       </section>
     )}
+
+    {!przeciek && <ObserwujCene nr={nr} eol={eol} />}
 
     {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="dol" />}
 

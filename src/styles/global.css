@@ -2007,10 +2007,26 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .karta-tekst__model { margin: 18px 0 0; }
 .karta-tekst__model img { display: block; width: 100%; height: auto; mix-blend-mode: multiply; }
 @media (min-width: 900px) {
-  .karta-tekst--z-modelem { display: grid; grid-template-columns: minmax(0, 1fr) minmax(320px, 40%); gap: 36px; align-items: start; }
+  .karta-tekst--z-modelem { display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 36%); gap: 36px; align-items: start; }
   .karta-tekst__model { margin: 0; position: sticky; top: calc(var(--h-naglowek) + 16px); }
 }
 @media (min-width: 1000px) {
   .siatka--podobne { grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 16px; }
 }
 .siatka--podobne .set-karta .miniatura { border: 0; }
+
+/* --- Hub zestawu, druga runda (Marek 20.11.2026): hero jako biała karta ze
+   zdjęciem i tekstami (granatowy boks ceny stoi w niej jako trzecia kolumna);
+   belka „Najtaniej dziś" pod treścią w granacie, w stylu boksu z hero. */
+.set-hero { background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); padding: 24px; }
+.set-hero .foto-okno img { mix-blend-mode: normal; }
+@media (min-width: 1100px) {
+  .set-boks { top: calc(var(--h-naglowek) + 16px); }
+}
+.pasek-ceny--dol { background: var(--granat); color: #fff; border-left: 0; padding: 18px 22px; }
+.pasek-ceny--dol .pasek-ceny__cena strong { color: var(--zolty); }
+.pasek-ceny--dol .pasek-ceny__rabat { color: #ffb4b2; }
+.pasek-ceny--dol .cta { background: #fff; color: var(--granat); }
+.pasek-ceny--dol .cta:hover { background: var(--zolty); }
+.pasek-ceny--dol .pasek-ceny__wszystkie { color: #fff; }
+.pasek-ceny--dol .kod-rabatowy { color: var(--granat); }
