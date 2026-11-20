@@ -198,3 +198,5 @@ Automatyczne odrzucanie po numerze w nazwie pliku Planety się nie sprawdza: z
 czterech hubów, w których numer w nazwie pliku różnił się od numeru zestawu, dwa
 miały dobre zdjęcie z literówką w nazwie (30690 „LEGO-30665-…-pisanek”, 76285
 „LEGO-76286-…-Maska-Spider-Mana”). Kandydatów wskazuje heurystyka, rozstrzyga oko.
+
+| `zdjecia-modeli.mjs` | Człowiek na żądanie (albo Łowca po dopisaniu zestawów). Sprawdza w Rebrickable zdjęcia ZŁOŻONYCH modeli dla zestawów z `sety.json` i dopisuje je do `src/data/zdjecia_modeli.json` (append-only). `generuj-obrazy.mjs` dokłada z nich klucz `<nr>M` do `obrazy.json`, worker serwuje `/img/<nr>M.jpg`; karty „Nasze propozycje” na stronach serii pokazują model zamiast pudełka. |

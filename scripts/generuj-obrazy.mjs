@@ -7,7 +7,7 @@
 //
 // Uruchamiane automatycznie w `npm run build` (skrypt prebuild).
 
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const czytaj = (p) => JSON.parse(readFileSync(new URL(`../src/data/${p}`, import.meta.url)));
 const sety = czytaj('sety.json');
@@ -78,6 +78,14 @@ for (const [nr, z] of Object.entries(mapa)) {
   if (nr !== '_meta') ustaw(nr, typeof z === 'object' ? z?.url : null);
 }
 for (const w of wycofania) ustaw(w.numer, w.zdjecie);
+
+// Zdjęcia złożonych modeli (zdjecia_modeli.json, 20.11.2026) pod kluczem `<nr>M`:
+// /img/<nr>M.jpg – karty „Nasze propozycje" na stronach serii pokazują model
+// zamiast pudełka. Worker i r2-obrazy.mjs traktują ten klucz jak każdy inny.
+const modele = existsSync(new URL('../src/data/zdjecia_modeli.json', import.meta.url)) ? czytaj('zdjecia_modeli.json') : {};
+for (const [nr, m] of Object.entries(modele)) {
+  if (nr !== '_meta' && m?.url) ustaw(`${nr}M`, m.url);
+}
 
 writeFileSync(
   new URL('../src/data/obrazy.json', import.meta.url),
