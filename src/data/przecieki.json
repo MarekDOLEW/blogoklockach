@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-19",
+  "zaktualizowano": "2026-11-20",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -3193,12 +3193,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77267-1 (motyw Speed Champions, podseria Formula 1, 230 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77267-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 230 elementów, 2 minifigurki (Lewis Hamilton i Charles Leclerc), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 230 elementów, 2 minifigurki (Lewis Hamilton i Charles Leclerc), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 230 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Ferrari SF-26 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Lewis Hamilton i Charles Leclerc. Według listingu sklepowego 230 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 230 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77268",
@@ -3214,12 +3223,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77268-1 (motyw Speed Champions, podseria Formula 1, 203 elementów, 18+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77268-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 203 elementów, 2 minifigurki (Isack Hadjar i Max Verstappen), 29,99 euro, 18+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu. UWAGA na niespójność: w listingu ten zestaw ma oznaczenie 18+, podczas gdy pozostałe bolidy z tej samej fali mają 10+ przy niemal identycznej liczbie elementów. Nie poprawiam tego — tak stoi w źródle — ale wygląda to na błąd sklepu i trzeba sprawdzić przy oficjalnej zapowiedzi.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 203 elementów, 2 minifigurki (Isack Hadjar i Max Verstappen), 29,99 euro, 18+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu. UWAGA na niespójność: w listingu ten zestaw ma oznaczenie 18+, podczas gdy pozostałe bolidy z tej samej fali mają 10+ przy niemal identycznej liczbie elementów. Nie poprawiam tego — tak stoi w źródle — ale wygląda to na błąd sklepu i trzeba sprawdzić przy oficjalnej zapowiedzi.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 203 elementów, 18+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Oracle Red Bull Racing RB22 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Isack Hadjar i Max Verstappen. Według listingu sklepowego 203 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 18+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 203 elementów, 29,99 euro i oznaczenie 18+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77269",
@@ -3235,12 +3253,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77269-1 (motyw Speed Champions, podseria Formula 1, 198 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77269-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 198 elementów, 2 minifigurki (Lando Norris i Oscar Piastri), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 198 elementów, 2 minifigurki (Lando Norris i Oscar Piastri), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 198 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid McLaren Mastercard MCL40 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Lando Norris i Oscar Piastri. Według listingu sklepowego 198 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 198 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77270",
@@ -3256,12 +3283,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77270-1 (motyw Speed Champions, podseria Formula 1, 216 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77270-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 216 elementów, 2 minifigurki (Kimi Antonelli i George Russell), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 216 elementów, 2 minifigurki (Kimi Antonelli i George Russell), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 216 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Mercedes-AMG PETRONAS W17 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Kimi Antonelli i George Russell. Według listingu sklepowego 216 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 216 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77271",
@@ -3277,12 +3313,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77271-1 (motyw Speed Champions, podseria Formula 1, 199 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77271-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 199 elementów, 2 minifigurki (Fernando Alonso i Lance Stroll), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 199 elementów, 2 minifigurki (Fernando Alonso i Lance Stroll), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 199 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Aston Martin Aramco AMR26 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Fernando Alonso i Lance Stroll. Według listingu sklepowego 199 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 199 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77272",
@@ -3298,12 +3343,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77272-1 (motyw Speed Champions, podseria Formula 1, 231 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77272-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 231 elementów, 2 minifigurki (Alexander Albon i Carlos Sainz), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 231 elementów, 2 minifigurki (Alexander Albon i Carlos Sainz), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 231 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Atlassian Williams FW48 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Alexander Albon i Carlos Sainz. Według listingu sklepowego 231 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 231 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77273",
@@ -3319,12 +3373,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77273-1 (motyw Speed Champions, podseria Formula 1, 206 elementów, 18+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77273-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 206 elementów, 2 minifigurki (Liam Lawson i Arvid Lindblad), 29,99 euro, 18+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu. UWAGA na niespójność: w listingu ten zestaw ma oznaczenie 18+, podczas gdy pozostałe bolidy z tej samej fali mają 10+ przy niemal identycznej liczbie elementów. Nie poprawiam tego — tak stoi w źródle — ale wygląda to na błąd sklepu i trzeba sprawdzić przy oficjalnej zapowiedzi.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 206 elementów, 2 minifigurki (Liam Lawson i Arvid Lindblad), 29,99 euro, 18+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu. UWAGA na niespójność: w listingu ten zestaw ma oznaczenie 18+, podczas gdy pozostałe bolidy z tej samej fali mają 10+ przy niemal identycznej liczbie elementów. Nie poprawiam tego — tak stoi w źródle — ale wygląda to na błąd sklepu i trzeba sprawdzić przy oficjalnej zapowiedzi.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 206 elementów, 18+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Visa Cash App RB VCARB 03 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Liam Lawson i Arvid Lindblad. Według listingu sklepowego 206 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 18+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 206 elementów, 29,99 euro i oznaczenie 18+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77274",
@@ -3340,12 +3403,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77274-1 (motyw Speed Champions, podseria Formula 1, 212 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77274-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 212 elementów, 2 minifigurki (Franco Colapinto i Pierre Gasly), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 212 elementów, 2 minifigurki (Franco Colapinto i Pierre Gasly), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 212 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid BWT Alpine A526 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Franco Colapinto i Pierre Gasly. Według listingu sklepowego 212 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 212 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77275",
@@ -3361,12 +3433,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77275-1 (motyw Speed Champions, podseria Formula 1, 209 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77275-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 209 elementów, 2 minifigurki (Oliver Bearman i Esteban Ocon), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 209 elementów, 2 minifigurki (Oliver Bearman i Esteban Ocon), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 209 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid TGR Haas VF-26 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Oliver Bearman i Esteban Ocon. Według listingu sklepowego 209 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 209 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77276",
@@ -3382,12 +3463,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77276-1 (motyw Speed Champions, podseria Formula 1, 215 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77276-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 215 elementów, 2 minifigurki (Gabriel Bortoleto i Nico Hülkenberg), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 215 elementów, 2 minifigurki (Gabriel Bortoleto i Nico Hülkenberg), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 215 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Audi Revolut R26 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Gabriel Bortoleto i Nico Hülkenberg. Według listingu sklepowego 215 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 215 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77277",
@@ -3403,12 +3493,21 @@
      "nazwa": "StoneWars — „LEGO Speed Champions im Januar und März 2027: Rennfahrer-Duo als Minifiguren zu jedem Formel 1 Wagen” (dane z listingu sklepu Smyths Toys)",
      "url": "https://www.stonewars.de/news/lego-speed-champions-im-januar-maerz/",
      "data": "2026-11-18"
+    },
+    {
+     "nazwa": "Brickset — karta zestawu 77277-1 (motyw Speed Champions, podseria Formula 1, 212 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, Availability „Retail”)",
+     "url": "https://brickset.com/sets/77277-1",
+     "data": "2026-11-20"
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 212 elementów, 2 minifigurki (Valtteri Bottas i Sergio Pérez), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.",
+   "uwagi": "19.11.2026: wpis z materiału StoneWars z 18.11.2026 o fali Speed Champions 2027. Dane pochodzą z listingu sklepu Smyths Toys, który opublikował zestawy przed oficjalną zapowiedzią LEGO: 212 elementów, 2 minifigurki (Valtteri Bottas i Sergio Pérez), 29,99 euro, 10+, start 1.03.2027. Pewność „srednia” z drabiny: jedno źródło branżowe plus dowód w postaci listingu sklepu. Cena oznaczona w materiale jako „voraussichtlich”; przelicznik euro na złote zgrubny (4,25), zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026), więc do „wysokiej” brakuje drugiego serwisu.\n\n20.11.2026: ROZSTRZYGNIĘTE jako „potwierdzony”. Brickset ma od dziś pełną kartę katalogową: 212 elementów, 10+, RRP 29,99 euro / 29,99 dolara / 24,99 funta, kody EAN i UPC, numery produktowe LEGO i Availability „Retail” — to dane z kartoteki producenta, nie z listingu sklepu. Numer, cena i termin zgodne z przeciekiem sprzed dwóch dni. Zestaw dopisany do sety.json w tym samym przebiegu (cena_katalogowa null — polskiej ceny LEGO nie podało). Dla 77267, 77268 i 77273 kartę sprawdziłem bezpośrednio; dla pozostałych ośmiu liczba elementów pochodzi z listingu Smyths Toys i zgadzała się w każdym z tych trzech przypadków co do sztuki.",
    "opis": "Bolid Cadillac MAC-26 w skali Speed Champions, z dwiema minifigurkami kierowców tej ekipy: Valtteri Bottas i Sergio Pérez. Według listingu sklepowego 212 elementów, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 10+ i premiera 1 marca 2027. Nowością w tej fali jest para kierowców w każdym pudełku — dotąd bolid dostawał jedną figurkę. Dane trafiły do sieci z listingu sklepu przed zapowiedzią LEGO, więc polskiej ceny katalogowej jeszcze nie ma.",
-   "rozstrzygniecie": null
+   "rozstrzygniecie": {
+    "kiedy": "2026-11-20",
+    "wynik": "potwierdzony",
+    "co_sie_zmienilo": "Numer, liczba elementów i cena z listingu sklepowego okazały się zgodne z katalogiem: 212 elementów, 29,99 euro i oznaczenie 10+. Termin też się trzyma — zestaw ma wejść do sprzedaży 1 marca 2027. Polskiej ceny katalogowej producent na razie nie podał."
+   }
   },
   {
    "id": "77280",
@@ -3427,7 +3526,7 @@
     }
    ],
    "dodano": "2026-11-19",
-   "uwagi": "19.11.2026: z tego samego materiału StoneWars (18.11.2026) i tego samego listingu Smyths Toys: 280 elementów, 1 minifigurka, 29,99 euro, 9+, start 1.01.2027 — jedyna pozycja styczniowa w tej fali, pozostałe jedenaście wchodzi w marcu. Pewność „srednia”: jedno źródło branżowe plus listing sklepu. Cena w źródle oznaczona jako spodziewana; przelicznik 4,25 zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026).",
+   "uwagi": "19.11.2026: z tego samego materiału StoneWars (18.11.2026) i tego samego listingu Smyths Toys: 280 elementów, 1 minifigurka, 29,99 euro, 9+, start 1.01.2027 — jedyna pozycja styczniowa w tej fali, pozostałe jedenaście wchodzi w marcu. Pewność „srednia”: jedno źródło branżowe plus listing sklepu. Cena w źródle oznaczona jako spodziewana; przelicznik 4,25 zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026).\n\n20.11.2026: zostaje „srednia”. Brickset założył dziś karty katalogowe wszystkich jedenastu bolidów F1 z tej fali (77267–77277), ale 77280 w roczniku 2027 nadal nie ma — lista brickset.com/sets/year-2027 (trzy strony, sprawdzone 20.11.2026) przechodzi od 77277 do 80122.",
    "opis": "Lamborghini Fenomeno w skali Speed Champions: według listingu sklepowego 280 elementów, jedna minifigurka kierowcy, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 9+ i premiera 1 stycznia 2027. To najwięcej elementów w całej zapowiadanej fali przy tej samej cenie co bolidy Formuły 1. Zestaw wyszedł z listingu sklepu przed oficjalną zapowiedzią LEGO, więc polskiej ceny katalogowej nie ma.",
    "rozstrzygniecie": null
   }
