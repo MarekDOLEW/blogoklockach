@@ -8,13 +8,16 @@
 import { obrazPlynny } from '../lib/media.js';
 import { fmtCena } from '../lib/oferty.js';
 
-const { pozycje = [], tytul = 'Nasze propozycje', etykieta = tytul } = Astro.props;
+// `poziom: 1` (strony serii od 20.11.2026): nagłówek karuzeli jest zarazem H1
+// strony – strzałki stoją w jednym wierszu z tytułem, bez osobnego „Nasze propozycje".
+const { pozycje = [], tytul = 'Nasze propozycje', etykieta = tytul, poziom = 2 } = Astro.props;
+const Naglowek = `h${poziom}`;
 const strony = Math.ceil(pozycje.length / 3);
 ---
 {pozycje.length > 0 && (
-  <section class="propozycje" aria-roledescription="karuzela" aria-label={etykieta}>
+  <section class={`propozycje${poziom === 1 ? " propozycje--naglowek" : ""}`} aria-roledescription="karuzela" aria-label={etykieta}>
     <div class="propozycje__head">
-      <h2>{tytul}</h2>
+      <Naglowek>{tytul}</Naglowek>
       {pozycje.length > 3 && (
         <div class="propozycje__nav">
           <button type="button" class="propozycje__btn" data-kier="-1" aria-label="Poprzednie propozycje">‹</button>
