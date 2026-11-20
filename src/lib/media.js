@@ -16,6 +16,7 @@ import opisyMapa from '../data/opisy.json';
 import wycofaniaDane from '../data/wycofania.json';
 import { wpisKatalogu } from './katalog.js';
 import modeleMapa from '../data/zdjecia_modeli.json';
+import kartyMapa from '../data/karty_setow.json';
 
 const wycofaniaFoto = new Map(
   (wycofaniaDane.wycofania ?? []).filter((w) => w.zdjecie).map((w) => [w.numer, w.zdjecie]),
@@ -131,6 +132,37 @@ export function opisSetu(nr, { sety = {}, rok = null } = {}) {
   }
 
   return null;
+}
+
+/**
+ * Krótki opis do wiersza tabeli (1–2 zdania, do ~180 znaków), 20.11.2026.
+ * Kolejność: opis redakcyjny z sety.json → karta redakcyjna (karty_setow.json,
+ * pierwszy akapit bez HTML; zdanie otwierające, które tylko powtarza nazwę
+ * zestawu – „LEGO Architecture 21064 Paryż… należy do…" – pomijamy) → opis
+ * generowany (opisy.json). Nic nie dopisujemy: gdy żadne źródło nie ma tekstu,
+ * wiersz zostaje bez opisu.
+ */
+export function opisKrotki(nr, { sety = {} } = {}) {
+  const klucz = String(nr);
+  const przytnij = (tekst) => {
+    const t = String(tekst ?? '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    if (!t) return null;
+    const zdania = t.match(/[^.!?]+[.!?]+/g) ?? [t];
+    let w = zdania[0].trim();
+    if (w.length < 70 && zdania[1]) w += ' ' + zdania[1].trim();
+    return w.length > 180 ? w.slice(0, 170).replace(/\s+\S*$/, '') + '…' : w;
+  };
+  if (sety[klucz]?.opis) return przytnij(sety[klucz].opis);
+  const akapit = kartyMapa[klucz]?.akapity?.[0];
+  if (akapit) {
+    const czysty = String(akapit).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    const zdania = czysty.match(/[^.!?]+[.!?]+/g) ?? [czysty];
+    const bezNazwy = zdania.length > 1 && /^LEGO\b.*\b\d{4,7}\b/.test(zdania[0]) ? zdania.slice(1) : zdania;
+    const wynik = przytnij(bezNazwy.join(' '));
+    if (wynik) return wynik;
+  }
+  const generowany = opisSetu(klucz, { sety });
+  return generowany ? przytnij(generowany.tekst) : null;
 }
 
 // ── Warianty skalowane (audyt PageSpeed 7.10.2026) ─────────────────────────

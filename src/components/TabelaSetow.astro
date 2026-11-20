@@ -108,17 +108,18 @@ const meta = (w) =>
               <span class="set-nazwa">
                 {w.hub ? <a href={`/zestaw/${w.numer}/`} target="_blank" rel="noopener">{w.nazwa}</a> : w.nazwa}
               </span>
-              {artykulZestawu(w.numer) && (
-                <a class="badge-artykul" href={artykulZestawu(w.numer).url} title={artykulZestawu(w.numer).tytul}>
-                  {artykulZestawu(w.numer).etykieta}
-                </a>
-              )}
               {w.opis && <span class="set-opis">{w.opis}</span>}
               <span class="set-meta">{meta(w)}</span>
             </td>
 
             <td class="kol-status">
               <span class={badge.klasa}>{badge.tekst}</span>
+              {/* plakietka naszego tekstu (Premiera / Recenzja / Artykuł) pod statusem – od 20.11.2026 (Marek), wcześniej pod nazwą */}
+              {artykulZestawu(w.numer) && (
+                <a class="badge-artykul" href={artykulZestawu(w.numer).url} title={artykulZestawu(w.numer).tytul}>
+                  {artykulZestawu(w.numer).etykieta}
+                </a>
+              )}
               {w.status === 'sprzedaz' && w.eolLego && (
                 <span class="tag-eol" title={w.eolPewny ? 'EOL – LEGO zakończyło produkcję; zestaw został już tylko u innych sprzedawców' : 'Zestawu nie ma w sklepie lego.pl; został u innych sprzedawców'}>{w.eolPewny ? 'EOL' : 'brak w lego.pl'}</span>
               )}
