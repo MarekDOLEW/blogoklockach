@@ -2040,3 +2040,18 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 }
 .set-minimum { background: var(--granat); color: #fff; padding: 16px 22px; border-radius: var(--radius); margin: 18px 0; }
 .set-minimum strong { color: var(--zolty); font-family: var(--font-display); font-size: 1.15rem; }
+
+/* --- Hub zestawu, czwarta runda (Marek 20.11.2026): persony w pełnym kolorze
+   (rodzic żółty, kolekcjoner granatowy, bez ikon) i przełączane zdjęcie w hero. */
+.persony--hub .persona { background: var(--zolty); border-color: var(--zolty); border-left: 0; }
+.persony--hub .persona.afol { background: var(--granat); border-color: var(--granat); color: #fff; }
+.persony--hub .persona h3 { display: block; }
+.persony--hub .persona.afol h3 { color: var(--zolty); }
+.foto-przelacz { position: relative; }
+.foto-przelacz .fp-obraz { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; opacity: 0; transition: opacity 0.7s ease; }
+.foto-przelacz .fp-obraz--aktywny { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .foto-przelacz .fp-obraz { transition: none; } }
+.fp-przyciski { display: flex; justify-content: center; gap: 8px; margin-top: 10px; }
+.fp-btn { font: inherit; font-size: 0.82rem; font-weight: 700; padding: 6px 14px; border: 1.5px solid var(--linia); border-radius: 999px; background: var(--karta); color: var(--granat-60); cursor: pointer; }
+.fp-btn:hover { border-color: var(--granat-60); color: var(--granat); }
+.fp-btn--aktywny, .fp-btn--aktywny:hover { background: var(--granat); border-color: var(--granat); color: #fff; }
