@@ -15,6 +15,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import opisyMapa from '../data/opisy.json';
 import wycofaniaDane from '../data/wycofania.json';
 import { wpisKatalogu } from './katalog.js';
+import modeleMapa from '../data/zdjecia_modeli.json';
 
 const wycofaniaFoto = new Map(
   (wycofaniaDane.wycofania ?? []).filter((w) => w.zdjecie).map((w) => [w.numer, w.zdjecie]),
@@ -55,6 +56,18 @@ export function zdjecieSetu(nr, { sety = {}, feed = FEED_DOMYSLNY } = {}) {
     return { url: `/img/${klucz}.jpg`, zrodlo: null };
 
   return null;
+}
+
+/**
+ * Zdjęcie ZŁOŻONEGO modelu (nie pudełka) albo null – z zdjecia_modeli.json
+ * (scripts/zdjecia-modeli.mjs, Rebrickable). Worker serwuje je jako /img/<nr>M.jpg,
+ * klucz dokłada do obrazy.json scripts/generuj-obrazy.mjs. Od 20.11.2026 karty
+ * „Nasze propozycje" na stronach serii wolą model od pudełka.
+ */
+export function zdjecieModelu(nr) {
+  const klucz = String(nr);
+  if (!/^\d{4,7}$/.test(klucz) || !modeleMapa[klucz]?.url) return null;
+  return `/img/${klucz}M.jpg`;
 }
 
 /** Sam URL zdjęcia albo null – skrót tam, gdzie źródło nie jest potrzebne. */
