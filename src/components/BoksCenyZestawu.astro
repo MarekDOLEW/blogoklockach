@@ -9,7 +9,8 @@
 // w ramce pod hero (odsylacz-artykul), żeby nie stał dwa razy obok siebie.
 import { fmtCena, nazwaSklepu, relLinku, linkAfiliacyjny, kodRabatowy, terminKodu } from '../lib/oferty.js';
 import { dataPl } from '../lib/daty.js';
-const { nr, oferty = [], cenaKatalogowa = null, minimum = null } = Astro.props;
+// Minimum notowań NIE stoi w boksie (Marek 20.11.2026) – jest na granatowej belce pod tabelą cen.
+const { nr, oferty = [], cenaKatalogowa = null } = Astro.props;
 const z = oferty.filter((o) => o.sklep !== 'ceneo' && o.cena > 0);
 const zLinkiem = z.filter((o) => linkAfiliacyjny(o.sklep, nr));
 const najlepsza = zLinkiem.length ? zLinkiem.reduce((a, b) => (b.cena < a.cena ? b : a)) : null;
@@ -17,7 +18,6 @@ const posortowane = [...z].sort((a, b) => a.cena - b.cena);
 const liczba = new Set(z.map((o) => o.sklep)).size;
 const rabat = najlepsza && cenaKatalogowa ? Math.round((1 - najlepsza.cena / cenaKatalogowa) * 100) : 0;
 const kod = najlepsza ? kodRabatowy(najlepsza.sklep, nr, najlepsza.cena) : null;
-const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza.cena;
 ---
 {najlepsza && (
   <aside class="karta set-boks" aria-label="Najlepsza cena dziś">
@@ -41,9 +41,6 @@ const minimumWarte = minimum && najlepsza && minimum.cena < najlepsza.cena;
       </ul>
     )}
     <a class="set-boks__wszystkie" href="#ceny">Porównanie wszystkich cen ↓</a>
-    {minimumWarte && (
-      <p class="set-boks__min">Nasze minimum: <strong>{fmtCena(minimum.cena)}</strong>{minimum.sklep && <> ({nazwaSklepu(minimum.sklep)}{minimum.data && <>, {dataPl(minimum.data)}</>})</>}.</p>
-    )}
     <p class="set-boks__disclosure">Przycisk to link afiliacyjny – nie zmienia ceny ani kolejności sklepów.</p>
   </aside>
 )}

@@ -2002,7 +2002,7 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
   .tabela-cen .kc-cta, .tabela-cen .kc-cta-naglowek { text-align: center; }
   .tabela-cen .kc-cta .cta { width: 176px; text-align: center; box-sizing: border-box; }
 }
-.karta-tekst__tresc p { margin: 0 0 1em; }
+.karta-tekst__tresc p { margin: 0 0 1em; text-align: justify; hyphens: auto; }
 .karta-tekst__tresc p:last-child { margin-bottom: 0; }
 .karta-tekst__model { margin: 18px 0 0; }
 .karta-tekst__model img { display: block; width: 100%; height: auto; mix-blend-mode: multiply; }
@@ -2035,7 +2035,8 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
    (kolumna 470 px zamiast 400) i „Najniższa cena, jaką zanotowaliśmy" na
    granatowej belce w stylu boksu ceny. */
 @media (min-width: 1100px) {
-  .set-hero { grid-template-columns: minmax(320px, 470px) minmax(0, 1fr) 320px; }
+  /* zdjęcie węższe niż pierwotnie (400 px): tytuł i dane dostają więcej miejsca (Marek 20.11.2026) */
+  .set-hero { grid-template-columns: minmax(260px, 360px) minmax(0, 1fr) 320px; }
 }
 .set-minimum { background: var(--granat); color: #fff; padding: 16px 22px; border-radius: var(--radius); margin: 18px 0; }
 .set-minimum strong { color: var(--zolty); font-family: var(--font-display); font-size: 1.15rem; }
