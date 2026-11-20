@@ -8,7 +8,7 @@ import { seriaArchiwalna } from '../../lib/serie-listing.js';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
-import { urlZdjecia, opisSetu, zdjecieModelu } from '../../lib/media.js';
+import { urlZdjecia, opisSetu, zdjecieModelu, opisKrotki } from '../../lib/media.js';
 import { najlepszaOferta, linkAfiliacyjny, cenaKatalogowaSetu, odmien } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
 import { hubIndeksowalny } from '../../lib/seo.js';
@@ -60,7 +60,8 @@ const wiersze = hist.map((s) => {
   return {
     numer: s.numer,
     nazwa: s.nazwa,
-    opis: opisSetu(s.numer, { sety })?.tekst ?? null,
+    // 1–2 zdania: opis redakcyjny → karta redakcyjna → generowany (src/lib/media.js, 20.11.2026)
+    opis: opisKrotki(s.numer, { sety }),
     seria,
     rok: s.rok,
     elementy: s.elementy,
