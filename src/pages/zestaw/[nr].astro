@@ -297,7 +297,7 @@ const opisMeta = najlepsza
       : `Od ${fmt(najlepsza)} ${wSklepach(liczbaSklepow)}. ${ogonDuzy}`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${ileElementow(elementy)}` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji.' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny} preloadObrazu={foto?.url ? obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 480px') : null}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki, ...(faqJsonld ? [faqJsonld] : [])]} ogImage={foto?.url ?? undefined} noindex={!indeksowalny} preloadObrazu={foto?.url ? obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px') : null}>
   <Okruszki sciezka={sciezkaOkruszkow} />
   <article>
     <div class="set-hero">
@@ -305,15 +305,15 @@ const opisMeta = najlepsza
         {galeriaSlajder.length > 0 ? (
           <figure class="foto-okno slajder" aria-label={`Zdjęcia zestawu LEGO ${nr}`}>
             <div class="slajder-tasma" id={`tasma-${nr}`}>
-              <img id={`kl-${nr}-0`} {...obrazPlynny(foto?.url ?? `/img/${nr}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 480px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" fetchpriority="high" />
+              <img id={`kl-${nr}-0`} {...obrazPlynny(foto?.url ?? `/img/${nr}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie główne`} width="800" height="800" fetchpriority="high" />
               {galeriaSlajder.map((_, i) => (
-                <img id={`kl-${nr}-${i + 1}`} {...obrazPlynny(`/img/${nr}-${i + 1}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 480px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
+                <img id={`kl-${nr}-${i + 1}`} {...obrazPlynny(`/img/${nr}-${i + 1}.jpg`, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie ${i + 2}`} loading="lazy" width="800" height="800" />
               ))}
             </div>
           </figure>
         ) : foto?.url ? (
           <figure class="foto-okno">
-            <img {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 480px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" fetchpriority="high" />
+            <img {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – zdjęcie zestawu`} width="800" height="800" fetchpriority="high" />
           </figure>
         ) : (
           <div class="foto-placeholder">
@@ -391,7 +391,7 @@ const opisMeta = najlepsza
         )}
       </div>
       {najlepsza && !przeciek && !wkrotce && (
-        <BoksCenyZestawu nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} minimum={minimum} />
+        <BoksCenyZestawu nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} />
       )}
     </div>
 
