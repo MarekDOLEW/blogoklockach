@@ -347,7 +347,7 @@ const opisMeta = najlepsza
           </>
         )}
       </div>
-      <div>
+      <div class="set-hero__tresc">
         <p style="margin-top:0" class="set-plakietki">
           {seria && <a class="badge-seria" href={sciezkaSerii}>{seria}</a>}
           {wkrotce && !przeciek && <span class="badge-wkrotce">wkrótce – zapowiedź potwierdzona przez LEGO</span>}
@@ -364,8 +364,8 @@ const opisMeta = najlepsza
           {tagi.map((t) => <span class="badge-tag">{t}</span>)}
         </p>
         <h1>LEGO {nazwa} <span class="h1-numer">({nr})</span></h1>
-        {/* Cztery wiersze (Marek 20.11.2026): cena katalogowa · premiera · wiek · elementy z ceną za klocek */}
-        <div class="deal-meta deal-meta--pionowo" style="margin-bottom: 8px">
+        {/* Pięć wierszy (Marek 20.11.2026): cena katalogowa · premiera · wiek · elementy · cena za klocek; blok dobity do dołu kolumny (CSS .set-hero__tresc) */}
+        <div class="deal-meta deal-meta--pionowo">
           {cenaKatalogowa
             ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
             : bezRrp
@@ -375,12 +375,8 @@ const opisMeta = najlepsza
                 : <span>cena katalogowa <strong>brak w naszych danych</strong></span>}
           {premiera ? <span>premiera <strong>{(() => { try { return `${miesiac(premiera).mianownik} ${premiera.slice(0, 4)}`; } catch { return premiera; } })()}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
           {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
-          {elementy && (
-            <span>
-              <strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}
-              {cenaKatalogowa && s?.elementy && <> · <strong>{(cenaKatalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</>}
-            </span>
-          )}
+          {elementy && <span><strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}</span>}
+          {cenaKatalogowa && s?.elementy && <span><strong>{(cenaKatalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
         </div>
         {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="gora" />}
         {opis && <p class="prose">{opis}</p>}
@@ -546,9 +542,11 @@ const opisMeta = najlepsza
 
     {podobne.length > 0 && (
       <section class="sekcja podobne" style="margin-top:28px" aria-label={`Podobne zestawy z serii ${seria}`}>
-        <div class="sekcja-head">
+        <div class="sekcja-head sekcja-head--z-linkiem">
           <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
           <h2>Podobne zestawy z serii {seria}</h2>
+          {/* link do serii w wierszu nagłówka, po prawej, bez powtórki nazwy (Marek 20.11.2026) */}
+          {sciezkaSerii && <a class="podobne-cala-seria" href={sciezkaSerii}>Zobacz całą serię →</a>}
         </div>
         <div class="siatka siatka--podobne">
           {podobne.map((z) => (
@@ -564,7 +562,6 @@ const opisMeta = najlepsza
             </a>
           ))}
         </div>
-        {sciezkaSerii && <p style="margin-top:14px"><a class="podobne-cala-seria" href={sciezkaSerii}>Zobacz całą serię {seria} →</a></p>}
       </section>
     )}
 

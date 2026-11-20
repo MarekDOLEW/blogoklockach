@@ -2056,3 +2056,15 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .foto-przelacz .fp-obraz--pudelko { transform: scale(1.22); }
 /* dane pod tytułem w czterech wierszach */
 .set-hero .deal-meta--pionowo { flex-direction: column; gap: 5px; }
+/* środkowa kolumna hero: tytuł u góry, blok danych dobity do dołu – kończy się na
+   wysokości dolnej krawędzi boksu ceny (Marek 20.11.2026) */
+@media (min-width: 1100px) {
+  .set-hero__tresc { display: flex; flex-direction: column; align-self: stretch; }
+  .set-hero__tresc .deal-meta--pionowo { margin-top: auto; padding-top: 18px; }
+  .set-hero__tresc .deal-meta--pionowo ~ * { margin-top: 12px; }
+}
+/* więcej powietrza między hero a tytułem tekstu karty */
+.set-hero + .karta-setu, .set-hero + .odsylacz-artykul, .set-hero + .sekcja { margin-top: 44px; }
+.karta-setu { margin-top: 44px !important; }
+/* wypustki zostają na wysokości pierwszej linii h2 (jak w zwykłym .sekcja-head); link siada na linii bazowej nagłówka */
+.sekcja-head--z-linkiem .podobne-cala-seria { margin-left: auto; white-space: nowrap; align-self: center; }
