@@ -107,12 +107,13 @@ const propozycje = propozycjeDnia(pula, seria, { najpierw: (w) => hubIndeksowaln
     })),
   }}
 >
-  <h1 style="margin-top:28px">LEGO {seria}</h1>
+  {/* H1 w wierszu karuzeli (strzałki obok tytułu); bez propozycji zwykły H1 */}
+  {propozycje.length === 0 && <h1 style="margin-top:28px">LEGO {seria}</h1>}
   {archiwalna && (
     <p class="karta" style="padding: 12px 16px; margin: 12px 0 18px;"><strong>Seria archiwalna</strong> – LEGO nie ma już tej linii w ofercie. Zestawy zostają w katalogu na zawsze; ceny, które widzisz, pochodzą z rynku wtórnego. <a href="/serie/archiwalne/">Wszystkie serie archiwalne →</a></p>
   )}
 
-  <KaruzelaPropozycji pozycje={propozycje} etykieta={`Nasze propozycje z serii ${seria}`} />
+  <KaruzelaPropozycji pozycje={propozycje} tytul={`LEGO ${seria}`} poziom={1} etykieta={`Nasze propozycje z serii ${seria}`} />
 
   {hist.length > 0 && (
     <section class="sekcja" data-grupa>
@@ -121,17 +122,19 @@ const propozycje = propozycjeDnia(pula, seria, { najpierw: (w) => hubIndeksowaln
         <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
       </div>
       <p>Wszystkie zestawy serii – także te, których nie ma już w sklepie LEGO (znacznik <span class="tag-eol">brak w lego.pl</span>; „EOL" tylko tam, gdzie wycofanie potwierdza nasza lista). Część wycofanych zestawów wciąż kupisz w innych sklepach – wtedy pokazujemy aktualną cenę; resztę już tylko na rynku wtórnym, gdzie ceny często przewyższają katalogowe.</p>
-      <FiltrSetow
-        etykieta="Szukaj"
-        placeholder="numer lub nazwa, np. 10334 albo Sokół…"
-        rzeczownik="zestawów serii"
-        lata={lata}
-        sortowanie
-        tylkoDostepne
-      />
-      <p class="disclosure">Linki przy cenach to linki afiliacyjne: kupując przez nie, wspierasz serwis i nie płacisz więcej. Kwota przy zestawie to ostatnia cena, jaką zobaczyliśmy w cenniku sklepu – kody rabatowe i zmiany w ciągu dnia mogą ją przesunąć, więc wiążąca jest cena w koszyku.</p>
-      <TabelaSetow wiersze={wiersze} />
+      <div class="katalog">
+        <FiltrSetow
+          etykieta="Szukaj"
+          placeholder="numer lub nazwa, np. 10334 albo Sokół…"
+          rzeczownik="zestawów serii"
+          lata={lata}
+          sortowanie
+          tylkoDostepne
+        />
+        <TabelaSetow wiersze={wiersze} />
+      </div>
       <p class="lista-pusta" data-pusto hidden>Żaden zestaw z tej serii nie pasuje do wyszukiwania.</p>
+      <p class="disclosure">Linki przy cenach to linki afiliacyjne: kupując przez nie, wspierasz serwis i nie płacisz więcej. Kwota przy zestawie to ostatnia cena, jaką zobaczyliśmy w cenniku sklepu – kody rabatowe i zmiany w ciągu dnia mogą ją przesunąć, więc wiążąca jest cena w koszyku.</p>
     </section>
   )}
 </Base>

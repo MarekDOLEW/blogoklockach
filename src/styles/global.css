@@ -1932,3 +1932,14 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 /* …i 12 px więcej odstępu nad zdjęciem, żeby nie dotykało górnej krawędzi (ramka
    o tyle samo wyższa, więc samo zdjęcie nie maleje). */
 .strona-glowna .akt-foto img { padding-top: 22px; }
+
+/* --- Strony serii (Marek 20.11.2026). Karuzela: H1 strony w wierszu ze strzałkami,
+   zdjęcie bez obramowania, biały margines 10 px wokół pudełka i kwadratowe pole
+   (wyższe niż 4:3). Katalog: pasek filtrów tworzy całość z ramką tabeli – szary,
+   przyklejony do jej górnej krawędzi; nota afiliacyjna zeszła pod tabelę. */
+.propozycje--naglowek { margin-top: 28px; }
+.propozycje__head h1 { margin: 0; }
+.propozycje .set-karta .miniatura { border: 0; padding: 10px; aspect-ratio: 1 / 1; }
+.katalog .pasek-filtr { margin: 18px 0 0; background: #e9ecf2; border-radius: var(--radius) var(--radius) 0 0; border-bottom: 0; box-shadow: none; }
+.katalog .tabela-setow-wrap { border-radius: 0 0 var(--radius) var(--radius); border-top: 0; }
+.katalog + .lista-pusta { margin-top: 10px; }
