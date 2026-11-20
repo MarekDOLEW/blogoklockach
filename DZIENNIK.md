@@ -407,6 +407,8 @@ Poza listą dla ludzi: `/serie/marvel/` wypadł z indeksu (09.11 zindeksowany, 1
 **Zrobić:** — sprawdzić krok `smyk` w `scripts/feedy-lego.py` (źródło zrzutu i parser): czy 13.11 Smyk faktycznie wyciął 2/3 asortymentu LEGO, czy padł parser; jeśli cięcie jest realne, zdjąć przywrócone oferty następnym przebiegiem
 **Kto:** — Code (dane, skrypt)
 
+↻ 2026-11-20: nadal aktualne — piątkowy krok Smyka znowu uciął oferty (572→246, zero z datą 20.11; „Dane wt" potwierdziły blokadę bota). Oferty przywrócone z origin/main, Smyk z powrotem na 572.
+
 ## 2026-11-13 08:20 · RADAR · Do zrobienia
 
 **BrickLink · 12.11** — Serwis wrócił po sześciu dniach: `bricklink.com` nie przekierowuje już na `maintenance.bricklink.com`, tylko serwuje normalną stronę główną z katalogiem (21 920 zestawów, 97 246 części) i opiniami sprzedających sprzed minut.
