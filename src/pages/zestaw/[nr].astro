@@ -313,16 +313,12 @@ const opisMeta = najlepsza
           </figure>
         ) : foto?.url && zdjecieModelu(nr) ? (
           <>
-            {/* Pudełko i złożony model na zmianę (Marek 20.11.2026): przełącza się samo co kilka
-                sekund (nie przy ograniczeniu ruchu), przyciski pod zdjęciem wybierają na stałe. */}
+            {/* Pudełko i złożony model na zmianę (Marek 20.11.2026): przełącza się samo co 2,5 s;
+                przy ograniczeniu ruchu (prefers-reduced-motion) zostaje pudełko. */}
             <figure class="foto-okno foto-przelacz" data-foto-przelacz aria-label={`Zdjęcia zestawu LEGO ${nr}: pudełko i złożony model`}>
-              <img class="fp-obraz fp-obraz--aktywny" {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – pudełko`} width="800" height="800" fetchpriority="high" />
+              <img class="fp-obraz fp-obraz--aktywny fp-obraz--pudelko" {...obrazPlynny(foto.url, [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – pudełko`} width="800" height="800" fetchpriority="high" />
               <img class="fp-obraz" {...obrazPlynny(zdjecieModelu(nr), [440, 880], '(max-width: 760px) calc(100vw - 40px), 360px')} alt={`LEGO ${nr} ${nazwa} – złożony model`} width="800" height="800" loading="lazy" />
             </figure>
-            <div class="fp-przyciski" role="group" aria-label="Wybierz zdjęcie">
-              <button type="button" class="fp-btn fp-btn--aktywny" data-fp="0" aria-pressed="true">Pudełko</button>
-              <button type="button" class="fp-btn" data-fp="1" aria-pressed="false">Zbudowany</button>
-            </div>
           </>
         ) : foto?.url ? (
           <figure class="foto-okno">
@@ -368,11 +364,8 @@ const opisMeta = najlepsza
           {tagi.map((t) => <span class="badge-tag">{t}</span>)}
         </p>
         <h1>LEGO {nazwa} <span class="h1-numer">({nr})</span></h1>
-        <div class="deal-meta" style="margin-bottom: 8px">
-          {elementy && <span><strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}</span>}
-          {cenaKatalogowa && s?.elementy && <span><strong>{(cenaKatalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
-          {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
-          {premiera ? <span>premiera <strong>{(() => { try { return `${miesiac(premiera).mianownik} ${premiera.slice(0, 4)}`; } catch { return premiera; } })()}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
+        {/* Cztery wiersze (Marek 20.11.2026): cena katalogowa · premiera · wiek · elementy z ceną za klocek */}
+        <div class="deal-meta deal-meta--pionowo" style="margin-bottom: 8px">
           {cenaKatalogowa
             ? <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>
             : bezRrp
@@ -380,6 +373,14 @@ const opisMeta = najlepsza
               : wkrotce || przeciek
                 ? <span>cena katalogowa <strong>nieogłoszona</strong> (podamy, gdy LEGO ją poda)</span>
                 : <span>cena katalogowa <strong>brak w naszych danych</strong></span>}
+          {premiera ? <span>premiera <strong>{(() => { try { return `${miesiac(premiera).mianownik} ${premiera.slice(0, 4)}`; } catch { return premiera; } })()}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
+          {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
+          {elementy && (
+            <span>
+              <strong>{fmtElementy(elementy)}</strong> {odmien(elementy, 'element', 'elementy', 'elementów')}
+              {cenaKatalogowa && s?.elementy && <> · <strong>{(cenaKatalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</>}
+            </span>
+          )}
         </div>
         {najlepsza && !przeciek && !wkrotce && <PasekCeny nr={nr} oferty={ofertyBezCeneo} cenaKatalogowa={cenaKatalogowa} wariant="gora" />}
         {opis && <p class="prose">{opis}</p>}
@@ -588,25 +589,18 @@ const opisMeta = najlepsza
     )}
 </article>
   <script is:inline>
-    // Hero: pudełko / złożony model na zmianę. Autoprzełączanie co 4,5 s, stoi przy
-    // prefers-reduced-motion i gaśnie po pierwszym kliknięciu w przycisk.
+    // Hero: pudełko / złożony model na zmianę co 2,5 s (Marek 20.11.2026);
+    // przy prefers-reduced-motion zostaje pudełko.
     (function () {
       var fig = document.querySelector('[data-foto-przelacz]');
-      if (!fig) return;
+      if (!fig || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
       var obrazy = fig.querySelectorAll('.fp-obraz');
-      var przyciski = document.querySelectorAll('.fp-btn');
-      var i = 0, auto = null;
-      var pokaz = function (n) {
-        i = n;
-        obrazy.forEach(function (o, j) { o.classList.toggle('fp-obraz--aktywny', j === n); });
-        przyciski.forEach(function (b, j) { b.classList.toggle('fp-btn--aktywny', j === n); b.setAttribute('aria-pressed', j === n ? 'true' : 'false'); });
-      };
-      przyciski.forEach(function (b) {
-        b.addEventListener('click', function () { clearInterval(auto); auto = null; pokaz(Number(b.dataset.fp)); });
-      });
-      if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
-        auto = setInterval(function () { if (!document.hidden) pokaz((i + 1) % obrazy.length); }, 4500);
-      }
+      var i = 0;
+      setInterval(function () {
+        if (document.hidden) return;
+        i = (i + 1) % obrazy.length;
+        obrazy.forEach(function (o, j) { o.classList.toggle('fp-obraz--aktywny', j === i); });
+      }, 2500);
     })();
 
     // Miniatury przewijają taśmę zdjęć w poziomie. Bez skryptu kotwice #kl-…

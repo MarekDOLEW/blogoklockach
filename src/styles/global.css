@@ -2051,7 +2051,8 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .foto-przelacz .fp-obraz { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; opacity: 0; transition: opacity 0.7s ease; }
 .foto-przelacz .fp-obraz--aktywny { opacity: 1; }
 @media (prefers-reduced-motion: reduce) { .foto-przelacz .fp-obraz { transition: none; } }
-.fp-przyciski { display: flex; justify-content: center; gap: 8px; margin-top: 10px; }
-.fp-btn { font: inherit; font-size: 0.82rem; font-weight: 700; padding: 6px 14px; border: 1.5px solid var(--linia); border-radius: 999px; background: var(--karta); color: var(--granat-60); cursor: pointer; }
-.fp-btn:hover { border-color: var(--granat-60); color: var(--granat); }
-.fp-btn--aktywny, .fp-btn--aktywny:hover { background: var(--granat); border-color: var(--granat); color: #fff; }
+/* pudełko ze sklepu ma w pliku szerokie białe marginesy – powiększone w kadrze, żeby
+   nie było drobne obok zdjęcia zbudowanego modelu */
+.foto-przelacz .fp-obraz--pudelko { transform: scale(1.22); }
+/* dane pod tytułem w czterech wierszach */
+.set-hero .deal-meta--pionowo { flex-direction: column; gap: 5px; }
