@@ -168,6 +168,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-20 08:25 · RADAR · Do zrobienia
+
+**BrickLink · 19.11** — **Serwis wyłączony po raz drugi w dwa tygodnie.** Wrócił 12.11 po sześciu dniach, 19.11 zniknął ponownie. Strona serwisowa sprawdzona dziś: „BrickLink will remain unavailable while we investigate **unusual activity**… particularly coming so soon after our recent outage", z zapowiedzią informacji „by 10:00 AM PST / 7:00 PM CET on Friday, November 20".
+**Mamy?** — notkę z sekcji `#bldp` zdjąłem 13.11, gdy serwis wrócił; od wczoraj kalendarz znowu odsyłał czytelnika na martwy adres.
+**Zrobić:** — zrobione: notka wróciła, tym razem z informacją, że to **druga** przerwa i że serwis obiecuje aktualizację dziś wieczorem. Kryterium bez zmian: brak terminu powrotu plus incydent bezpieczeństwa. Przy kolejnym powrocie zdjąć — ale jeśli to się powtórzy trzeci raz, lepiej **przepisać zdanie w `#bldp` na trwałe** („kanał bywa niedostępny") niż dopisywać i zdejmować notkę co tydzień.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 20.11** — Zadanie z 18.11 wykonane, wynik **negatywny**: karta promocji nie wymienia dziś **żadnej** akcji zaczynającej się 21.11; w odczycie został tylko regulamin 40898, który kończy się **dzisiaj**.
+**Mamy?** — tak i zgodnie ze źródłem: kalendarz mówi, że konkretów promocji weekendowych LEGO jeszcze nie podało.
+**Zrobić:** — sprawdzić **jutro rano**, pierwszego dnia weekendu. Uwaga metodologiczna: dzisiejszy odczyt zwrócił **jeden** regulamin zamiast dwóch (40906 nie wyszło, choć wczoraj było), więc zgodnie z lekcją z 15.11 to **brak potwierdzenia, nie dowód nieobecności**.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-19 14:58 · SKRZYNKA · GitHub: 0052–0054 (aktualizacje ze zdjęciami) + 124 karty; 41379 i 21241 wstrzymane
 Źródło: repo tylkoklocki-teksty, commit 48a53e30.
