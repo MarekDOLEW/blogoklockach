@@ -296,15 +296,15 @@
  "42240": {
   "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 649,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 638.99,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "allegro"
  },
  "75453": {
   "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 599,
-  "najnizsza_data": "2026-11-03",
+  "najnizsza_cena": 589,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "31388": {
@@ -975,8 +975,8 @@
  "40924": {
   "nazwa": "Megatron jako robot i pojazd",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 98.5,
-  "najnizsza_data": "2026-11-17",
+  "najnizsza_cena": 98,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "allegro"
  },
  "42242": {
@@ -1234,9 +1234,9 @@
  "76348": {
   "nazwa": "Epicka bitwa: Avengers: Doomsday",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 299.99,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76340": {
   "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
@@ -1388,8 +1388,8 @@
  "71053": {
   "nazwa": "Seria Shrek",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 12.26,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 10.89,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "40975": {
@@ -1465,9 +1465,9 @@
  "40958": {
   "nazwa": "Świąteczna skarpeta",
   "cena_katalogowa": 144.99,
-  "najnizsza_cena": 136.99,
-  "najnizsza_data": "2026-11-18",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 136.35,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "allegro"
  },
  "72159": {
   "nazwa": "SMART Play: Jigglypuff i koncert",
@@ -1780,8 +1780,8 @@
  "11376": {
   "nazwa": "Ford Model T",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 374,
-  "najnizsza_data": "2026-11-19",
+  "najnizsza_cena": 373,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "allegro"
  },
  "11378": {
@@ -2708,8 +2708,8 @@
  "72306": {
   "nazwa": "PlayStation",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 567.9,
-  "najnizsza_data": "2026-11-14",
+  "najnizsza_cena": 549.78,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "allegro"
  },
  "10315": {
@@ -3289,9 +3289,9 @@
  "75432": {
   "nazwa": "Myśliwiec V-19 Torrent",
   "cena_katalogowa": 274.99,
-  "najnizsza_cena": 193.28,
-  "najnizsza_data": "2026-11-13",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 191.99,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "allegro"
  },
  "30414": {
   "nazwa": "Magiczny kufer Emmy",
@@ -3359,8 +3359,8 @@
  "76830": {
   "nazwa": "Lightyear Pościg za Zyklopem",
   "cena_katalogowa": 89.99,
-  "najnizsza_cena": 72.56,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 72.45,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "allegro"
  },
  "10442": {
@@ -3842,8 +3842,8 @@
  "11024": {
   "nazwa": "Szara płytka konstrukcyjna",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 40.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 40.89,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "77237": {
@@ -4686,9 +4686,9 @@
  "10328": {
   "nazwa": "Botanicals Bukiet róż",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 148.99,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 144,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10370": {
   "nazwa": "Botanicals Gwiazda Betlejemska",
@@ -5502,8 +5502,8 @@
  "71440": {
   "nazwa": "Przygody z interaktywną figurką Luigi",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 155.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 154.99,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "mediaexpert"
  },
  "76463": {
@@ -7016,8 +7016,8 @@
  "43220": {
   "nazwa": "Książka z przygodami Piotrusia Pana i Wendy",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 56.89,
-  "najnizsza_data": "2026-11-14",
+  "najnizsza_cena": 55,
+  "najnizsza_data": "2026-11-21",
   "najnizsza_sklep": "allegro"
  },
  "43027": {
@@ -7648,9 +7648,9 @@
  "60312": {
   "nazwa": "Radiowóz",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.99,
-  "najnizsza_data": "2026-11-13",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 27.08,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10467": {
   "nazwa": "Dom rodzinny",
@@ -8238,9 +8238,9 @@
  "72151": {
   "nazwa": "Eevee",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 154.99,
-  "najnizsza_data": "2026-11-17",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 154,
+  "najnizsza_data": "2026-11-21",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75415": {
   "nazwa": "Hełm Kylo Rena",
