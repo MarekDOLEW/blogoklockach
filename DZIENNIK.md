@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-21 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 21.11** — Weekend Insiders wystartował i jest **większy niż zapowiedź**: karta promocji ma od dziś **pięć regulaminów** — gratis 40914 od 1070 zł, gratis 40918 od 705 zł, kod **INSIDERS10** (−10% od 420 zł), podwójne punkty 21–22.11 oraz ceny Insiders i **poczwórne punkty aż do 26.11**.
+**Mamy?** — tak, od dziś: nowa sekcja `#listopad-insiders` w kalendarzu z tabelą pięciu akcji; okna 40906 i 40898 przestawione na zamknięte (skończyły się 20.11).
+**Zrobić:** — zrobione. Lekcja powtarza się drugi raz w tym miesiącu: **wczorajszy pusty odczyt nie był dowodem, że akcji nie ma** — regulaminy pojawiły się dopiero pierwszego dnia okna. Nie wnioskujemy z pustego odczytu.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 20.11** — Tabela dziesięciu zestawów z rabatem −20% na Weekend Insiders — **z przecieków**, co autor pisze wprost („100% pewność będziemy mieli po północy"). Regulamin LEGO.pl żadnej listy ani wysokości rabatu nie podaje.
+**Mamy?** — częściowo: mamy to, czego u nich nie ma — **kod INSIDERS10** (−10% od 420 zł, jedno użycie, tylko dla zapisujących się do Insiders 21–22.11, z imienną listą wykluczeń). Nie mamy krótkiej formy, która by to niosła — tylko sekcję w kalendarzu.
+**Zrobić:** — krótka forma dealowa „Weekend Insiders: kod −10% dla nowych w programie, dwa gratisy i poczwórne punkty do środy" — jedyny element weekendu, który jest realnym rabatem, a nie punktami; okno zamyka się **w niedzielę 23:59**, więc tekst ma sens tylko dziś albo jutro.
+**Kto:** — Piotr (tekst)
+
+**promoklocki.pl · 21.11** — W katalogu konkurenta stoi już pełna fala Botanicals rocznika 2027 (11532–11537 plus 11515, 11516, 11519, 11522); paginacja 227 → 229. Zmian strukturalnych brak.
+**Mamy?** — częściowo: wszystkie te numery **są w `sety.json`**, ale żadnego z nich nie ma na stronie `/zapowiedzi-lego-2027/` — sprawdzone grepem, zero trafień.
+**Zrobić:** — uzupełnić `/zapowiedzi-lego-2027/` o Botanicals (10 pozycji); to ten sam punkt, który wisi od 07.11 razem z Seasonal (3), 42254, 11227 i 71888.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-21 05:20 · SCOUT · Do zrobienia
 
 **W opublikowanym tekście `/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla/` stoi zdanie „oraz zestaw 40918, którego nazwy jeszcze nie znamy" — a nazwę i dane tego zestawu mamy u siebie od 17 listopada.**
