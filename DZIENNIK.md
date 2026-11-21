@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-21 05:20 · SCOUT · Do zrobienia
+
+**W opublikowanym tekście `/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla/` stoi zdanie „oraz zestaw 40918, którego nazwy jeszcze nie znamy" — a nazwę i dane tego zestawu mamy u siebie od 17 listopada.**
+**Mamy?** — tak: `40918` jest w `sety.json` jako **Zimowa kula śnieżna**, 231 elementów, 10+, z polem `bez_rrp` i oknem 21–29.11.2026 z karty Bricksetu; ma hub `/zestaw/40918/`.
+**Zrobić:** — w tym pliku (`src/pages/artykuly/weekend-lego-insiders-i-black-friday-2026-na-lego-pl-terminy-godzilla.md`, sekcja „Nieoficjalnie: jakie gratisy i podwójne punkty") zamienić „oraz zestaw 40918, którego nazwy jeszcze nie znamy" na „oraz 40918 Zimowa kula śnieżna (231 elementów, 10+)" z linkiem do `/zestaw/40918/`; tekst ma `wazne_do: 2026-11-30`, więc poprawka ma sens tylko w tym tygodniu.
+**Kto:** — Code (dane, strona)
+
 
 ## 2026-11-20 14:58 · SKRZYNKA · GitHub: 0055 + karty 21241 i 41379 (poprawione)
 Źródło: repo tylkoklocki-teksty, commit c997a048.
@@ -319,6 +326,7 @@ Do sprawdzenia w Bricksecie.
 **Mamy?** — częściowo: oba zestawy są od dziś w `sety.json` z polem `bez_rrp`, mają huby `/zestaw/40914/` i `/zestaw/40918/`, a przecieki o nich (z 31.10, pewność „niska") rozstrzygnięte jako potwierdzone. W `kalendarz-promocji-lego.md` wiersz „21–30.11" stoi jako „przewidywane" i nie wymienia żadnego z tych numerów.
 **Zrobić:** — dopisać 40914 i 40918 do kalendarza promocji (wiersz „21–30.11" w tabeli okien i sekcja listopadowa): okno 21–29.11.2026 z Bricksetu, progi niemieckie 250 euro dla 40914 (wymagane Insiders) i 170 euro dla 40918, z zastrzeżeniem, że polskich progów LEGO nie podało.
 **Kto:** — Code (dane, strona)
+↻ 21.11.2026: nadal aktualne — `grep -c "40914\|40918" src/pages/kalendarz-promocji-lego.md` daje dziś 0, a akcja ruszyła w nocy z 20 na 21 listopada. Doszedł trzeci upominek do dopisania: **5011174** (zestaw do majsterkowania z filcowymi zawieszkami, nie zestaw klockowy), według StoneWars w oknie 23–26.11, próg nieoficjalny 65 euro.
 
 
 ## 2026-11-16 14:58 · SKRZYNKA · GitHub: Recenzje_022 + 50 kart P07
