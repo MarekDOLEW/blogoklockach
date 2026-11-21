@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-21 14:58 · SKRZYNKA · GitHub: 0056, 0057, Recenzje_024
+Źródło: repo tylkoklocki-teksty, commit 9b26303.
+- 0056 → https://tylkoklocki.pl/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/ (1 zdjęcie)
+- 0057 → https://tylkoklocki.pl/artykuly/weekend-lego-insiders-podwojne-i-poczworne-punkty-ceny-insiders/
+- Recenzje_024 (75441) → https://tylkoklocki.pl/artykuly/lego-75441-krazownik-szturmowy-typu-venator-recenzja/ (5 zdjęć). Tytuł ma 107 znaków, a blok nie podaje „Tytuł SEO” — uwaga, nie blokuje.
+
 ## 2026-11-21 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 21.11** — Weekend Insiders wystartował i jest **większy niż zapowiedź**: karta promocji ma od dziś **pięć regulaminów** — gratis 40914 od 1070 zł, gratis 40918 od 705 zł, kod **INSIDERS10** (−10% od 420 zł), podwójne punkty 21–22.11 oraz ceny Insiders i **poczwórne punkty aż do 26.11**.
