@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-21"
+zaktualizowano: "2026-11-22"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -179,12 +179,14 @@ Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
 wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
 podejmujesz w oknie przedsprzedaży albo wcale.
 
-**Uwaga na koniec listopada: Bricklink.com jest wyłączony po raz drugi.** Serwis wrócił
-12 listopada po sześciodniowej przerwie i 19 listopada zniknął ponownie. Jego własna strona
-serwisowa, sprawdzona 20 listopada, mówi: „BrickLink will remain unavailable while we
-investigate unusual activity and work to ensure the site can operate safely and reliably…
-particularly coming so soon after our recent outage" — z zapowiedzią kolejnej informacji
-„by 10:00 AM PST / 7:00 PM CET on Friday, November 20". Terminu powrotu nadal nie ma.
+**Uwaga na koniec listopada: Bricklink.com jest wyłączony po raz drugi — i ma termin powrotu.**
+Serwis wrócił 12 listopada po sześciodniowej przerwie i 19 listopada zniknął ponownie. W piątkowej
+aktualizacji, sprawdzonej przez nas 22 listopada, BrickLink podaje pierwszy termin: „We are currently
+aiming to bring BrickLink back online on **Tuesday, November 24, 2026**. This remains dependent on the
+progress of the investigation and the work required to restore service safely", a kolejną informację
+zapowiada „by 10:00 AM PST / 7:00 PM CET on **Monday**". Poniedziałek to więc data komunikatu, a nie
+powrotu — planowany powrót to wtorek, i to warunkowo. Szczegóły w naszym tekście
+[BrickLink znów niedostępny](/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/).
 Dopóki to trwa, cały kanał BLDP jest niedostępny; piszemy o tym, bo to jedyne miejsce
 w tym kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen.
 

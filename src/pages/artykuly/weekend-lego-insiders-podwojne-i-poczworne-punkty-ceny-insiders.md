@@ -58,10 +58,10 @@ Osiem zestawów kosztuje dla uczestników programu o 20% mniej niż w cenie kata
 
 W sobotę i niedzielę, do wyczerpania zapasów, uczestnicy programu dostają do zamówień upominki:
 
-- 40918 Zimowa śnieżna kula (231 elementów, wartość ok. 104,99 zł) – przy zakupach za ponad 705 zł,
-- 40914 Szafa grająca retro (287 elementów, wartość ok. 124,99 zł) – przy zakupach za ponad 1070 zł.
+- 40918 Zimowa śnieżna kula (231 elementów, wartość ok. 104,99 zł) – przy zakupach za **co najmniej 705 zł**,
+- 40914 Szafa grająca retro (287 elementów, wartość ok. 124,99 zł) – przy zakupach za **co najmniej 1070 zł**.
 
-Każdy upominek można otrzymać raz na gospodarstwo domowe. Przy zamówieniu powyżej 1070 zł do koszyka trafiają oba zestawy.
+Każdy upominek można otrzymać raz na gospodarstwo domowe, a przy zwrocie zakupu trzeba odesłać także upominek. Serwisy branżowe piszą, że przy zamówieniu od 1070 zł do koszyka trafiają oba zestawy — **regulaminy LEGO tego nie potwierdzają**: każdy upominek ma własny regulamin, własny próg i własne zastrzeżenie „jeden zestaw na jedno gospodarstwo domowe", a o łączeniu obu nie ma w nich ani słowa. Jeśli liczysz na komplet, sprawdź koszyk przed opłaceniem zamówienia.
 
 ## Dla nowych uczestników
 

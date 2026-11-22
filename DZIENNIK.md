@@ -168,6 +168,19 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-22 08:15 · RADAR · Do zrobienia
+
+**bricklink.com · 22.11** — BrickLink ma **pierwszy termin powrotu**: „aiming to bring BrickLink back online on **Tuesday, November 24, 2026**", z zastrzeżeniem, że zależy to od przebiegu dochodzenia; kolejny komunikat zapowiedziany „by 10:00 AM PST / 7:00 PM CET on **Monday**". fanklockow.pl dał w tytule „wyłączony **do poniedziałku**" — poniedziałek to data komunikatu, nie powrotu.
+**Mamy?** — tak i lepiej niż oni: tekst Piotra z 21.11 ma w tytule wtorek 24.11. Kalendarz miał jeszcze cytat z 20.11 bez terminu — poprawiony dziś, z linkiem do tego tekstu.
+**Zrobić:** — zrobione. W poniedziałek po 19:00 sprawdzić komunikat: albo potwierdzi wtorek, albo przesunie — i wtedy aktualizujemy tytułowy termin w tekście i w `#bldp`.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 22.11** — Dwa miejsca w naszym tekście o Weekendzie Insiders rozjeżdżały się z regulaminem: progi gratisów opisane jako „**ponad** 705/1070 zł" (regulamin mówi „**co najmniej**" — ta sama pułapka, którą opisaliśmy 15.11 przy 40906) oraz zdanie, że przy zamówieniu powyżej 1070 zł do koszyka trafiają **oba** upominki.
+**Mamy?** — tak, poprawione: progi na „co najmniej"; zdanie o dwóch gratisach zmienione na informację, że piszą tak serwisy branżowe, a **regulaminy LEGO tego nie potwierdzają** — każdy upominek ma własny regulamin, próg i zastrzeżenie „jeden na gospodarstwo domowe".
+**Zrobić:** — zrobione dziś rano, bo okno gratisów i kodu INSIDERS10 zamyka się **dziś o 23:59**. Zasada na przyszłość: próg GWP przepisujemy z regulaminu, nigdy z kafla ani z relacji innego serwisu.
+**Kto:** — Code (dane, strona)
+
+
 
 ## 2026-11-21 14:58 · SKRZYNKA · GitHub: 0056, 0057, Recenzje_024
 Źródło: repo tylkoklocki-teksty, commit 9b26303.

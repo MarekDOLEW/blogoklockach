@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-21",
-    "przebieg": "scheduled 2026-11-21 08:00",
+    "ostatnia_aktualizacja": "2026-11-22",
+    "przebieg": "scheduled 2026-11-22 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 431,
+    "liczba_wpisow": 433,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-21 (Radar): Weekend Insiders wystartowal i potwierdzil sie u zrodla - karta promocji lego.com/pl-pl ma od dzis PIEC regulaminow: gratis 40914 Szafa grajaca retro od 1070 zl (wycena 124,99 zl), gratis 40918 Zimowa sniezna kula od 705 zl (wycena 104,99 zl), kod INSIDERS10 (-10% od 420 zl, max 4300 zl, JEDNO uzycie, tylko dla rejestrujacych sie w Insiders 21-22.11, z lista wykluczen 11387/11388/11390/21065/21373/75457), podwojne punkty 21-22.11 oraz ceny Insiders i POCZWORNE punkty na imienna liste zestawow az do 26.11. Wczoraj ten sam odczyt zwracal tylko regulamin 40898 - czyli wczorajszy 'brak akcji na 21.11' byl, zgodnie z lekcja z 15.11, brakiem potwierdzenia, a nie dowodem nieobecnosci. Potwierdza sie to po raz drugi w tym miesiacu: NIGDY nie wnioskujemy z pustego odczytu. Druga rzecz: kod INSIDERS10 nie pojawil sie u zadnego z trzech obserwowanych serwisow - faniklockow opublikowal 20.11 obszerna tabele przeciekow (-20% na 10 zestawow), ale o kodzie ani slowa; to jedyna czesc weekendu, ktora jest realnym rabatem dla nowego uczestnika programu. Trzecia: ceny Insiders trwaja do 26.11, czyli do dnia przed Black Friday - pierwsze w tym sezonie okno LEGO.com dochodzace do progu BF. Kalendarz zaktualizowany: nowa sekcja #listopad-insiders z tabela pieciu akcji, okna 40906 i 40898 przestawione na zamkniete (skonczyly sie 20.11)."
+    "obserwacje_biezace": "2026-11-22 (Radar): dzien po starcie Weekendu Insiders sprawdzilem dwie rzeczy u zrodla. (1) BRICKLINK MA TERMIN POWROTU. fanklockow.pl opublikowal tekst pod tytulem 'BrickLink wylaczony DO PONIEDZIALKU'; strona serwisowa bricklink.com, sprawdzona dzis, mowi co innego: 'We are currently aiming to bring BrickLink back online on Tuesday, November 24, 2026' oraz 'We'll provide a further update by 10:00 AM PST / 7:00 PM CET on Monday'. Poniedzialek to data KOMUNIKATU, wtorek - planowanego (warunkowo) powrotu. Nasz tekst Piotra z 21.11 ma to dobrze w tytule; kalendarz (#bldp) mial jeszcze cytat z 20.11 bez terminu - poprawione dzis. (2) TEKST O WEEKENDZIE INSIDERS mial dwa miejsca rozjezdzajace sie z regulaminem: progi gratisow opisane jako 'ponad 705/1070 zl' (regulamin: 'co najmniej' - ta sama pulapka, ktora opisalismy 15.11 przy 40906) oraz zdanie, ze przy zamowieniu powyzej 1070 zl do koszyka trafiaja OBA upominki - czego regulaminy nie mowia. Poprawione: progi na 'co najmniej', zdanie o dwoch gratisach zmienione na informacje, ze pisza tak serwisy branzowe, a regulamin tego nie potwierdza. Dzis o 23:59 zamyka sie okno gratisow i kodu INSIDERS10; ceny Insiders i poczworne punkty trwaja do 26.11."
   },
   "publikacje": [
     {
@@ -5101,6 +5101,28 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Nota organizacyjna - urlop glownego autora w szczycie sezonu (tuz przed Black Friday). Bez znaczenia tresciowego; notujemy tylko jako sygnal, ze kadencja publikacyjna fanklockow moze w najblizszych dniach spasc."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "To juz prawie 50 lat serii Technic. Na tej wystawie zobaczycie wszystkie zestawy wydane przez LEGO",
+      "url": "https://faniklockow.pl/2026/11/21/to-juz-prawie-50-lat-serii-technic-na-tej-wystawie-zobaczycie-wszystkie-zestawy-wydane-przez-lego/",
+      "data_publikacji": "2026-11-21",
+      "data_wykrycia": "2026-11-22",
+      "typ": "inne",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Relacja z wystawy kolekcjonerskiej (pelny zbior Technica przed 50-leciem serii w 2027). Bez wplywu na ruch zakupowy; notujemy jako sygnal, ze rocznica Technica w 2027 bedzie tematem calorocznym - przy zapowiedziach 2027 warto o niej pamietac."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Aktualnosci: 11 nowych kart produktow - bolidy F1 Speed Champions 77267-77277",
+      "url": "https://zklockow.pl/aktualnosci#2026-11-19",
+      "data_publikacji": "2026-11-19",
+      "data_wykrycia": "2026-11-22",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Porownywarka dodala 19.11 cala fale bolidow F1 rocznika 2027 (77267, 77268, 77269, 77270, 77271, 77272, 77273, 77274, 77275, 77276, 77277), a 16.11 gratisy 40914 i 40918. SPRAWDZONE: wszystkie te numery sa juz w naszym sety.json - tu luki nie ma. Istotna jest kadencja: zklockow dodaje karty produktow srednio co 2-3 dni i publikuje to jako datowana liste zmian, czyli ma publiczny log aktualizacji katalogu, ktorego my nie mamy."
     }
   ],
   "obserwacje_strategiczne": {
