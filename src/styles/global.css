@@ -2068,3 +2068,13 @@ a.przycisk[href^="/idz/"]:hover, a.przycisk[href^="/idz/"]:focus-visible {
 .karta-setu { margin-top: 44px !important; }
 /* wypustki zostają na wysokości pierwszej linii h2 (jak w zwykłym .sekcja-head); link siada na linii bazowej nagłówka */
 .sekcja-head--z-linkiem .podobne-cala-seria { margin-left: auto; white-space: nowrap; align-self: center; }
+
+/* --- Hub zestawu: hero na żółtym tle (Marek 22.11.2026). Zdjęcie zostaje na białym
+   polu (pakshot ma białe tło w pliku), plakietki na białym, teksty granatowe. */
+.set-hero { background: var(--zolty); border-color: var(--zolty); }
+.set-hero .foto-okno { background: #fff; border-radius: var(--radius); }
+.set-hero .set-plakietki .badge-seria { background: #fff; border-color: #fff; color: var(--granat); }
+.set-hero .set-plakietki .badge-tag { background: var(--granat); color: #fff; border-color: var(--granat); }
+.set-hero .deal-meta { color: var(--granat); }
+.set-hero .deal-meta strong { color: var(--granat); }
+.set-hero .pasek-ceny--gora { background: #fff; }
