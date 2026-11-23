@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-22"
+zaktualizowano: "2026-11-23"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -21,7 +21,9 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <h2 id="teraz">Co trwa teraz i co dalej</h2>
 
 <ul class="okna">
-<li><span class="okna__data">21–22.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-insiders"><b>Weekend Insiders: dwa gratisy, kod INSIDERS10 i podwójne punkty</b> – 40914 Szafa grająca retro od <b>1070 zł</b> i 40918 Zimowa śnieżna kula od <b>705 zł</b>, kod <b>INSIDERS10</b> (–10%) dla zapisujących się do programu w ten weekend; ceny Insiders i poczwórne punkty na wybrane zestawy trwają dłużej, <b>do 26.11</b></a></li>
+<li><span class="okna__data">23–26.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-pakiety"><b>Tydzień przed Black Friday: dziesięć pakietów i gratis od 310 zł</b> – 5011174 Świąteczny zestaw artystyczny przy zakupach <b>od 310 zł</b> z serii NINJAGO, Creator 3 w 1, City, Friends lub Classic, plus dziesięć par zestawów w pakietach −20% albo z drugim zestawem taniej o 25%</a></li>
+<li><span class="okna__data">21–26.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#listopad-insiders"><b>Ceny Insiders i poczwórne punkty</b> – rabat nalicza się po zalogowaniu, punkty 4× obejmują imienną listę zestawów z regulaminu; trwa do <b>26.11</b>, czyli do dnia przed Black Friday</a></li>
+<li><span class="okna__data">21–22.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-insiders"><b>Weekend Insiders: dwa gratisy, kod INSIDERS10 i podwójne punkty</b> – 40914 Szafa grająca retro od 1070 zł i 40918 Zimowa śnieżna kula od 705 zł, kod INSIDERS10 (–10%) dla zapisujących się do programu; okno zamknęło się 22.11 o 23:59, oba gratisy mają wrócić przy Black Friday</a></li>
 <li><span class="okna__data">9–20.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40906"><b>40906 Restauracje świata: Japonia</b> (wycena 84,99 zł) – zakupy co najmniej 745 zł, <b>wymagane Insiders</b>, wyłącznie online; LEGO wydłużyło to okno z 15 na 20 listopada i <b>zamknęło je 20.11</b></a></li>
 <li><span class="okna__data">9–15.11</span><span class="status status--stop">zamknięte</span><a class="okna__opis" href="#listopad-40906"><b>Dwa polybagi na LEGO.pl</b> – 30720 Urodzinowa potańcówka Arielki i Florka przy zakupach Disney od 165 zł i 30762 Batman z retro gry wideo przy zakupach DC lub Batman od 165 zł; okno zamknęło się 15.11</a></li>
 <li><span class="okna__data">od 11.11</span><span class="status status--trwa">trwa</span><a class="okna__opis" href="#smyk-poduszka"><b>Smyk: poduszka-maskotka za 1 zł</b> – do jednego zestawu LEGO od 359 zł; terminu zakończenia Smyk nie podaje</a></li>
@@ -377,6 +379,7 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 | ok. 14–20.11 | pierwsze kampanie „przed Black Friday" w pozostałych sklepach zewnętrznych |
 | **21–22.11** | [Weekend Insiders](#listopad-insiders) na LEGO.com: **dwa gratisy** (40914 od 1070 zł, 40918 od 705 zł), **kod INSIDERS10** i podwójne punkty — wszystko z regulaminów LEGO.pl, sprawdzone 21.11 |
 | **21–26.11** | [ceny Insiders i poczwórne punkty](#listopad-insiders) na wybrane zestawy — jedyna część weekendu, która **trwa aż do środy**, czyli przechodzi w Black Friday |
+| **23–26.11** | [dziesięć pakietów na LEGO.com](#listopad-pakiety) (−20% za parę albo drugi zestaw −25%) i gratis 5011174 od **310 zł** z pięciu serii dziecięcych |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
 
@@ -394,10 +397,11 @@ w niedzielę** — ceny Insiders i poczwórne punkty regulamin daje aż **do 26 
 czyli do dnia przed Black Friday. To pierwszy raz w tym sezonie, gdy okno promocyjne
 LEGO.com dochodzi do samego progu BF.
 
-<h3 id="listopad-insiders">Weekend Insiders 21–22.11: pięć akcji naraz <span class="status status--trwa">trwa</span></h3>
+<h3 id="listopad-insiders">Weekend Insiders 21–22.11: pięć akcji naraz <span class="status status--stop">w większości zamknięte</span></h3>
 
-Progi, daty i warunki bierzemy z **regulaminów** na karcie promocji lego.com/pl-pl,
-sprawdzonych 21 listopada rano:
+**Trzy pierwsze pozycje tabeli zamknęły się 22 listopada o 23:59; ceny Insiders i poczwórne
+punkty trwają do 26 listopada** (sprawdzone w regulaminach 23.11 rano). Progi, daty i warunki
+bierzemy z **regulaminów** na karcie promocji lego.com/pl-pl:
 
 | Akcja | Warunek | Okno |
 |---|---|---|
@@ -488,6 +492,48 @@ własny regulamin na tej samej stronie LEGO.pl – „Upominek jest dostępny…
 (GMT+0) do 15 listopada 2026, do wyczerpania zapasów", „Wartość zakupionych artykułów
 z kolekcji DC lub Batman™ musi wynosić co najmniej 165 zł" – i serwisy branżowe miały w tym
 rację. Na przyszłość czytamy **pełną listę regulaminów**, nie kafelki.
+
+<h3 id="listopad-pakiety">23–26.11: dziesięć pakietów i gratis od 310 zł <span class="status status--trwa">trwa</span></h3>
+
+Dzień po Weekendzie Insiders LEGO otworzyło okno, które kończy się **26 listopada**, czyli dzień
+przed Black Friday. Wszystko poniżej pochodzi z **regulaminów** na karcie promocji lego.com/pl-pl,
+sprawdzonych 23 listopada rano.
+
+**Gratis z najniższym progiem tego miesiąca.** Upominek **5011174 Świąteczny zestaw artystyczny**
+(wycena LEGO **45,99 zł**) należy się przy zakupach za **co najmniej 310 zł** — ale próg liczy się
+**wyłącznie** z serii NINJAGO, Creator 3 w 1, City, Friends i Classic. Wymagane jest członkostwo
+w Insiders, obowiązuje online, w salonach i przy zamówieniach telefonicznych, jeden zestaw na
+gospodarstwo domowe. To najniższy próg upominkowy od polybagów z 9–15.11 i jedyny w tym sezonie
+wycelowany w **zakupy dla dzieci**, a nie w duże zestawy 18+.
+
+**Dziesięć par w pakietach.** Mechanika jest dwojaka: albo para idzie razem z rabatem **20%**, albo
+drugi zestaw jest tańszy o **25%**. Ceny w tabeli to ceny katalogowe LEGO.
+
+| Pakiet | Mechanika | Łącznie w katalogu |
+|---|---|---|
+| [21376 Rudy kot](/zestaw/21376/) + [21349 Biało-czarny kot](/zestaw/21349/) | drugi zestaw −25% | 839,98 zł |
+| [76356 Popiersie Venoma](/zestaw/76356/) + [76326 Popiersie Iron Spider-Mana](/zestaw/76326/) | drugi zestaw −25% | 459,98 zł |
+| [43249 Stitch](/zestaw/43249/) + [43257 Andzia](/zestaw/43257/) | pakiet −20% | 549,98 zł |
+| [42231 Dodge Charger R/T](/zestaw/42231/) + [42210 Nissan Skyline GT-R (R34)](/zestaw/42210/) | drugi zestaw −25% | 1249,98 zł |
+| [75438 Popiersie Yody](/zestaw/75438/) + [75439 Popiersie Dartha Vadera](/zestaw/75439/) | drugi zestaw −25% | 379,98 zł |
+| [10374 Bukiet różowych róż](/zestaw/10374/) + [10342 Różowy bukiet kwiatów](/zestaw/10342/) | drugi zestaw −25% | 499,98 zł |
+| [43301 Podpórki Slinky Dog](/zestaw/43301/) + [21357 Luxo Jr.](/zestaw/21357/) | drugi zestaw −25% | 949,98 zł |
+| [72050 Luigi i Mach 8](/zestaw/72050/) + [72037 Mario i standardowy gokart](/zestaw/72037/) | drugi zestaw −25% | 1509,98 zł |
+| [75394 Imperialny niszczyciel](/zestaw/75394/) + [75459 Prom typu Lambda](/zestaw/75459/) | pakiet −20% | 1379,98 zł |
+| [42212 Ferrari FXX K](/zestaw/42212/) + [77254 Ferrari SF90 XX Stradale](/zestaw/77254/) | pakiet −20% | 364,98 zł |
+
+**Trzy warunki, które decydują, czy to się opłaca.** Pierwszy: **pakiet sprzedaje się w całości** —
+regulamin mówi wprost, że składowych „nie można rozdzielać ani zwracać pojedynczo", więc jeśli
+drugiego zestawu nie chcesz, nie jest to rabat, tylko dopłata. Drugi: osiem z dziesięciu pakietów
+**nie obowiązuje w salonach LEGO** — tylko online i telefonicznie (dwa pakiety −20% ze Stitchem
+i Ferrari również są wyłącznie online). Trzeci: rabat liczy się od ceny katalogowej, a **Black Friday
+wypada 27 listopada**, dzień po zamknięciu tych pakietów — przy zestawach z szeroką dystrybucją
+warto najpierw sprawdzić w tabeli na podstronie zestawu, czy poza LEGO.com nie jest taniej bez
+żadnego pakietu.
+
+**Czwarta rzecz, która się zmieniła po weekendzie:** do listy poczwórnych punktów LEGO dopisało od
+22.11 trzy zestawy — [11386 SpongeBob: Bikini Dolne](/zestaw/11386/), [72537 Tygrys Derpy i Sroka
+Sussie](/zestaw/72537/) i [43024 Kask Ayrtona Senny](/zestaw/43024/) — również do 26 listopada.
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 

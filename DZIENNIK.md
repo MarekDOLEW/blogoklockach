@@ -168,6 +168,29 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-23 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 23.11** — Dzień po weekendzie LEGO otworzyło **falę do 26.11**: gratis **5011174** (wycena 45,99 zł) przy zakupach **od 310 zł** liczonych tylko z serii NINJAGO, Creator 3 w 1, City, Friends i Classic, oraz **dziesięć pakietów** (−20% za parę albo drugi zestaw −25%). Do listy 4× punktów doszly 11386, 72537 i 43024.
+**Mamy?** — tak, od dziś: nowa sekcja `#listopad-pakiety` z tabelą dziesięciu par i warunkami z regulaminu; weekend Insiders przestawiony na zamknięty (okno skończyło się 22.11 o 23:59, co potwierdziło zniknięcie jego regulaminów).
+**Zrobić:** — zrobione. Uwaga redakcyjna: pakiet sprzedaje się w całości — regulamin zabrania rozdzielania i zwrotu pojedynczych zestawów, więc jeśli drugiego zestawu ktoś nie chce, to nie rabat, tylko dopłata. Tak to opisaliśmy.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 23.11 (luka w danych)** — Upominek **5011174 Świąteczny zestaw artystyczny** nie istnieje w `src/data/sety.json`, więc kalendarz wymienia go bez linku do huba (wszystkie 24 pozostałe numery z dzisiejszej fali sprawdziłem — są).
+**Mamy?** — nie.
+**Zrobić:** — dopisać kartę 5011174 do `sety.json` na wzór 40914/40918 (`cena_katalogowa: null` + `bez_rrp` z progiem 310 zł i oknem 23–26.11); liczby elementów i wieku nie zgadywać — wziąć z karty produktu LEGO.com.
+**Kto:** — Code (dane, strona)
+
+**lego.com/pl-pl · 23.11 (temat na krótką formę)** — Próg 310 zł z pięciu serii dziecięcych to **najniższy próg upominkowy od polybagów z 9–15.11** i pierwsza w tym sezonie akcja LEGO.com wycelowana w zakupy prezentowe dla dzieci, a nie w zestawy 18+.
+**Mamy?** — częściowo: jest w kalendarzu, nie ma krótkiej formy, która by to niosła.
+**Zrobić:** — krótka forma dealowa „Gratis od 310 zł na prezenty dla dzieci — tylko do 26 listopada" z progiem, listą pięciu serii i zastrzeżeniem o Insiders; okno zamyka się w środę, więc tekst ma sens do wtorku.
+**Kto:** — Piotr (tekst)
+
+**bricklink.com · 23.11** — Dziś po **19:00 CET** BrickLink ma podać komunikat o planowanym powrocie we wtorek 24.11.
+**Mamy?** — tak: tekst z 21.11 i sekcja `#bldp` mówią „wtorek, warunkowo".
+**Zrobić:** — sprawdzić komunikat w jutrzejszym przebiegu i zaktualizować oba miejsca: albo wtorek się potwierdził, albo termin się przesunął (to będzie trzecia zmiana terminu w tej awarii).
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-22 08:15 · RADAR · Do zrobienia
 
 **bricklink.com · 22.11** — BrickLink ma **pierwszy termin powrotu**: „aiming to bring BrickLink back online on **Tuesday, November 24, 2026**", z zastrzeżeniem, że zależy to od przebiegu dochodzenia; kolejny komunikat zapowiedziany „by 10:00 AM PST / 7:00 PM CET on **Monday**". fanklockow.pl dał w tytule „wyłączony **do poniedziałku**" — poniedziałek to data komunikatu, nie powrotu.

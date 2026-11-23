@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-22",
-    "przebieg": "scheduled 2026-11-22 08:00",
+    "ostatnia_aktualizacja": "2026-11-23",
+    "przebieg": "scheduled 2026-11-23 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 433,
+    "liczba_wpisow": 434,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-22 (Radar): dzien po starcie Weekendu Insiders sprawdzilem dwie rzeczy u zrodla. (1) BRICKLINK MA TERMIN POWROTU. fanklockow.pl opublikowal tekst pod tytulem 'BrickLink wylaczony DO PONIEDZIALKU'; strona serwisowa bricklink.com, sprawdzona dzis, mowi co innego: 'We are currently aiming to bring BrickLink back online on Tuesday, November 24, 2026' oraz 'We'll provide a further update by 10:00 AM PST / 7:00 PM CET on Monday'. Poniedzialek to data KOMUNIKATU, wtorek - planowanego (warunkowo) powrotu. Nasz tekst Piotra z 21.11 ma to dobrze w tytule; kalendarz (#bldp) mial jeszcze cytat z 20.11 bez terminu - poprawione dzis. (2) TEKST O WEEKENDZIE INSIDERS mial dwa miejsca rozjezdzajace sie z regulaminem: progi gratisow opisane jako 'ponad 705/1070 zl' (regulamin: 'co najmniej' - ta sama pulapka, ktora opisalismy 15.11 przy 40906) oraz zdanie, ze przy zamowieniu powyzej 1070 zl do koszyka trafiaja OBA upominki - czego regulaminy nie mowia. Poprawione: progi na 'co najmniej', zdanie o dwoch gratisach zmienione na informacje, ze pisza tak serwisy branzowe, a regulamin tego nie potwierdza. Dzis o 23:59 zamyka sie okno gratisow i kodu INSIDERS10; ceny Insiders i poczworne punkty trwaja do 26.11."
+    "obserwacje_biezace": "2026-11-23 (Radar): u konkurencji cisza (jedna publikacja, popkulturowy skrot), ale u ZRODLA duzo. Karta promocji lego.com/pl-pl ma od dzis nowa fale, ktora konczy sie 26.11, czyli dzien przed Black Friday: (1) GRATIS 5011174 Swiateczny zestaw artystyczny (wycena LEGO 45,99 zl) przy zakupach za co najmniej 310 zl, ale prog liczy sie TYLKO z serii NINJAGO, Creator 3 w 1, City, Friends i Classic - najnizszy prog upominkowy od polybagow z 9-15.11 i pierwszy w tym sezonie wycelowany w zakupy dla dzieci, nie w zestawy 18+; (2) DZIESIEC PAKIETOW 23-26.11: piec par 'drugi zestaw -25%' (21376+21349, 76356+76326, 42231+42210, 75438+75439, 10374+10342, 43301+21357, 72050+72037) i trzy pakiety -20% (43249+43257, 75394+75459, 42212+77254); regulamin mowi wprost, ze pakietu nie wolno rozdzielac ani zwracac pojedynczo, a osiem z dziesieciu nie obowiazuje w salonach; (3) do listy 4x punktow doszly od 22.11 trzy zestawy: 11386, 72537, 43024. Potwierdzone tez, ze gratisy 40914/40918 i kod INSIDERS10 zniknely z regulaminow - okno zamknelo sie 22.11 o 23:59, zgodnie z tym, co pisalismy. Kalendarz: nowa sekcja #listopad-pakiety, weekend przestawiony na zamkniety. LUKA W DANYCH: 5011174 nie ma w sety.json."
   },
   "publikacje": [
     {
@@ -5123,6 +5123,17 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Porownywarka dodala 19.11 cala fale bolidow F1 rocznika 2027 (77267, 77268, 77269, 77270, 77271, 77272, 77273, 77274, 77275, 77276, 77277), a 16.11 gratisy 40914 i 40918. SPRAWDZONE: wszystkie te numery sa juz w naszym sety.json - tu luki nie ma. Istotna jest kadencja: zklockow dodaje karty produktow srednio co 2-3 dni i publikuje to jako datowana liste zmian, czyli ma publiczny log aktualizacji katalogu, ktorego my nie mamy."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Popkulturowy skrot 22 listopada 2026",
+      "url": "https://fanklockow.pl/popkulturowy-skrot-22-listopada-2026/",
+      "data_publikacji": "2026-11-22",
+      "data_wykrycia": "2026-11-23",
+      "typ": "inne",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Cykliczny przeglad newsow popkulturowych (filmy, seriale, gry) - format poza nasza nisza. Notujemy tylko kadencje: w weekend otwarcia promocji LEGO serwis opublikowal skrot popkulturowy, a nie tekst o promocjach (glowny autor na urlopie od 20.11)."
     }
   ],
   "obserwacje_strategiczne": {
