@@ -1,7 +1,7 @@
 # Prompty Routines LEGO — kopia z konta
 
 *Plik w całości generuje `scripts/harmonogram-z-konta.mjs` z odpowiedzi `list_triggers`;
-odczyt z konta: 16.11.2026, 07:49 (CET). Nie edytuj ręcznie — źródłem prawdy
+odczyt z konta: 23.11.2026, 07:46 (CET). Nie edytuj ręcznie — źródłem prawdy
 jest panel claude.ai, a ten plik odświeża sesja Code (Routine „Harmonogram z konta", pon 07:45) co poniedziałek. Diff w git
 pokazuje, co i kiedy zmieniło się w promptach. Zmiana promptu: Routine ze stałą sesją
 wymaga delete + create (sesja Code), Routine ze świeżą sesją edytuje się w panelu.*
@@ -248,6 +248,21 @@ KTO CO ROBI (od 13.10.2026, prośba Marka — ten sam format we wszystkich runne
 
 Kolejność: najpierw pozycje dla Piotra, potem dla Marka, potem Code i Cowork. Wypisz WSZYSTKO, co wymaga ruchu człowieka albo innej sesji — także to, co dotąd stało tylko w treści raportu (rozbieżności cen, podejrzane oferty, luki katalogu, błąd skryptu, brak zmiennej, nieudany push). Ekskluzywy nowo zdjęte albo potwierdzone w kroku 2a NIE idą do „Kto co robi" — to już zrobione; tam trafiają tylko numery, których nie dało się sprawdzić (brak adresu, błąd Firecrawla). Bez ogólników („warto rozważyć", „do obserwacji") — każda pozycja ma jedno „Zrobić" i jednego „Kto". Gdy nie ma nic dla ludzi, sekcja ma jedno zdanie: „Kto co robi: nic dla Piotra i Marka." Szczegóły przebiegu idą pod tą sekcją, jak dotąd.
 DZIENNIK: pozycje, w których „Kto" to nie Ty, a „Zrobić" to nie „nic", dopisz też do `DZIENNIK.md` pod linią znacznika `WPISY PONIŻEJ` jako jeden wpis „## <RRRR-MM-DD> <GG:MM> · DANE WT · Do zrobienia" z tymi samymi czterema linijkami na pozycję. Kontroler zbiera te wpisy co poniedziałek do maila „Zadania bez właściciela" dla Marka i Piotra, a skrypt archiwum trzyma wpis w dzienniku, dopóki pod każdą pozycją nie stanie linia „→ zamknięte …". Nie zakładaj drugiego wpisu o sprawie, która już stoi otwarta w dzienniku — pod istniejącym dopisz najwyżej jedną linię „↻ <data>: nadal aktualne — <co się zmieniło>". (Znacznik to linia `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` — ta sama fraza stoi w instrukcji na górze pliku, więc szukaj całej linii z komentarzem HTML.) Wpis dziennika idzie do tego samego commita co dane; gdy przebieg nie ma innych zmian, a są pozycje do dziennika — osobny commit „Dane wt: do zrobienia <data>" i push jak zwykle.
+```
+
+## LEGO pt 05:30 — Smyk: drugi odczyt cen w tygodniu (runner z pushem, do 31.12)
+
+- ID: `trig_01SLg8WTqDmV7GW29RJKpgpG` · cron `CRON_TZ=Europe/Warsaw 30 5 * * 5` · włączony · stała sesja (zmiana promptu = delete + create)
+
+```
+Piątkowe odświeżenie cen Smyka dla tylkoklocki.pl (decyzja Marka 16.11.2026, raport Kontrolera: środowa akcja Smyka 11.11 była dwa dni niewidoczna przy jednym odczycie w tygodniu; zadanie do końca grudnia 2026). To jest skrócony wariant wtorkowego przebiegu „Dane wt": TYLKO krok Smyka, bez LEGO.pl, bez Firecrawla, bez feedów Tradedoublera, 0 kredytów. Ty tylko uruchamiasz skrypty z repo w podanej kolejności i czytasz ich wyniki; skrypty same walidują dane (append-only) i przerywają przy błędzie.
+
+0. REPO. W katalogu repo: `git fetch origin main && git checkout -B lego-pl-katalog origin/main`; jeśli nie ma node_modules: `npm ci --no-audit --no-fund`. Potem `node scripts/diagnoza.mjs --szybko`. Jeśli katalogu repo nie ma wcale — sesja straciła źródło: `cd /home/user && git clone --depth 1 https://github.com/MarekDOLEW/blogoklockach.git`, ale wpisz to w PIERWSZEJ linii podsumowania, bo push wtedy najpewniej nie przejdzie.
+1. `node scripts/smyk-odswiez.mjs`, potem `node scripts/smyk-odswiez.mjs --stare` (domyka błędy sieci). Skrypt czyta ~700 adresów kart z `redirects.smyk` zwykłym curl-em po sześć naraz — ok. 4 minut. Zapisuje `oferty.smyk` + `daty.smyk` w `oferty_feed.json` i oferty `smyk` w `sety.json`; zestaw wyprzedany (OutOfStock) traci cenę Smyka, wpis zostaje. Gdy po `--stare` zostaje więcej niż 30 błędów, napisz to w podsumowaniu i nie powtarzaj więcej niż raz. BRAMKA: jeśli skrypt odczytał mniej niż 400 kart z ceną (12.11 było 569), NIE commituj — to awaria źródła albo parsera, nie wyprzedaż; opisz w podsumowaniu i daj pozycję dla Code.
+2. `npm run build` — musi przejść. Potem `git add src/data && git commit -m "Smyk: piątkowe odświeżenie cen <DD.MM.RRRR>" && git push origin lego-pl-katalog:main`. Przy odrzuconym pushu: `git fetch origin main && git rebase origin/main` i push ponownie (do 3 prób); konflikt w src/data — NIE rozwiązuj ręcznie, `git rebase --abort` i wklej komunikat do podsumowania. Push odrzucony przez proxy (brak uprawnień / „denied") — `git format-patch origin/main --stdout > /tmp/smyk-pt.patch`, SendUserFile i komunikat gita w pierwszej linii podsumowania.
+3. Podsumowanie (do 5 linijek): kart odczytanych / z ceną / wyprzedanych / błędów, liczba zmian cen, w ilu zestawach Smyk jest po odczycie najtańszym sklepem (porównaj `oferty_feed.json` przed i po), hash commita. Jeśli nic nie wymaga ruchu człowieka — jedno zdanie „Kto co robi: nic dla Piotra i Marka." Jeśli coś wymaga (bramka nie przeszła, push nie przeszedł) — pozycja w formacie czterech linijek (**fakt** / **Mamy?** / **Zrobić:** / **Kto:**) i ten sam wpis w `DZIENNIK.md` pod linią znacznika `<!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->` jako „## <RRRR-MM-DD> <GG:MM> · DANE WT · Do zrobienia", w tym samym commicie.
+
+Nie rób niczego poza tym: żadnych innych skryptów, żadnej edycji kodu, żadnych maili, żadnego Firecrawla.
 ```
 
 ## LEGO 08:30 — Łowca promocji (runner z pushem)
