@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-11-16",
+  "aktualizacja": "2026-11-23",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -317,10 +317,11 @@
    "nazwa": "Bumblebee",
    "seria": "Icons",
    "elementy": 950,
-   "kiedy": "2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Kto chce postawić na półce duet z Optimusem, powinien dokupić Bumblebee, zanim ostatnie sztuki znikną z magazynów.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39043_1024_1024/LEGO-10338-Icons-Bumblebee.jpg?overlay=1"
+   "uwagi": "Bumblebee zniknął ze sklepu LEGO przed końcem roku – transformerowe Icons schodzą z rynku szybciej, niż wskazywał termin.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_39043_1024_1024/LEGO-10338-Icons-Bumblebee.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-27 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 23.11"
   },
   {
    "numer": "10340",
@@ -593,10 +594,11 @@
    "nazwa": "Rebeliancki myśliwiec U-Wing",
    "seria": "Star Wars",
    "elementy": 594,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Pierwszy od lat U-Wing z bohaterami Andora i Rogue One kończy się w grudniu, a fani tej gałęzi uniwersum wiedzą, jak rzadko dostaje ona zestawy.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41569_1024_1024/LEGO-75399-Star-Wars-Mysliwiec-U-Wing-Rebelii.jpg?overlay=1"
+   "uwagi": "U-Wing Rebelii wyprzedał się u LEGO przed grudniem – średniopółkowe myśliwce Star Wars rzadko dożywają oficjalnej daty.",
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_41569_1024_1024/LEGO-75399-Star-Wars-Mysliwiec-U-Wing-Rebelii.jpg?overlay=1",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-27 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 23.11"
   },
   {
    "numer": "75400",
@@ -1802,9 +1804,11 @@
    "seria": "City",
    "elementy": 764,
    "kiedy": "grudzień 2026",
-   "status": "przewidywane",
+   "status": "potwierdzone",
    "uwagi": "Fani kolejek powinni się pospieszyć, bo zmotoryzowane pociągi City po wycofaniu drożeją na rynku wtórnym szybciej niż zwykłe zestawy.",
-   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30010_1024_1024/LEGO-60337-City-Ekspresowy-pociag-pasazerski.png?overlay=1"
+   "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30010_1024_1024/LEGO-60337-City-Ekspresowy-pociag-pasazerski.png?overlay=1",
+   "zrodlo": "lego.com dzial Ostatnie zestawy, 2026-11-23",
+   "potwierdzono": "2026-11-23"
   },
   {
    "numer": "60368",
@@ -3185,10 +3189,10 @@
    "nazwa": "Obraz Emerald City",
    "seria": "Wicked",
    "elementy": 1518,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Obraz z Wicked wchodzi na liste wycofan po niespelna roku w sprzedazy — krotki cykl typowy dla zestawow zwiazanych z premiera filmowa.",
-   "zrodlo": "StoneWars 2026-09-13 — zestawy oznaczone przez LEGO w firmowym sklepie jako „Ostatnia szansa”. Nie zweryfikowane bezposrednio na lego.com, bo serwis blokuje nasz ruch."
+   "uwagi": "Obraz Emerald City zszedł ze sklepu LEGO przed zapowiadanym terminem – zestawy z krótkiej serii Wicked nie dostaną wznowień.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-27 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 23.11"
   },
   {
    "numer": "80119",
@@ -3865,10 +3869,10 @@
    "nazwa": "Misja na łodzi i model mozazaura",
    "seria": "Jurassic World",
    "elementy": 858,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Duży zestaw (858 elementów) z oficjalnym oznaczeniem ostatniej szansy – tej klasy konstrukcje po wycofaniu drożeją najszybciej.",
-   "zrodlo": "stonewars.de 2026-09-21 — LEGO oznaczyło zestaw w firmowym sklepie jako „Ostatnia szansa\" (wrześniowa aktualizacja listy do 300+ pozycji); listing lego.pl widział zestaw 2026-09-15"
+   "uwagi": "Misja na łodzi z mozazaurem zniknęła z oferty LEGO przed grudniem – końcówka fali Jurassic World wyprzedała się wcześniej.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-27 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 23.11"
   },
   {
    "numer": "21266",
@@ -4315,10 +4319,10 @@
    "nazwa": "Toad i domówka",
    "seria": "Super Mario",
    "elementy": 276,
-   "kiedy": "grudzień 2026",
+   "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Interaktywna linia Super Mario zwija się z końcem roku – LEGO oznaczyło zestaw w dziale ostatnich sztuk, a po niej przychodzi nowa generacja minifigurek.",
-   "zrodlo": "lego.com/pl-pl dział Ostatnie zestawy (zaciąg lego-ostatnie.mjs), 2026-10-12"
+   "uwagi": "Toad i domówka zeszli ze sklepu LEGO przed terminem – po zamknięciu linii Super Mario końcówki znikają bez powrotu.",
+   "zrodlo": "listing lego.pl (arbiter dostępności): niewidziany od 2026-10-27 (>14 dni), katalog.json status eol; nieobecny w dziale Ostatnie zestawy 23.11"
   },
   {
    "numer": "72044",
