@@ -168,6 +168,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-23 08:58 · SKRZYNKA · GitHub: Recenzje_025
+Źródło: repo tylkoklocki-teksty, commit ba2e4d6.
+- Recenzje_025 (71866) → https://tylkoklocki.pl/artykuly/lego-71866-ozdoba-z-postaciami-ninja-15-lecie-recenzja/ (bez zdjęć Piotra)
+
 ## 2026-11-23 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 23.11** — Dzień po weekendzie LEGO otworzyło **falę do 26.11**: gratis **5011174** (wycena 45,99 zł) przy zakupach **od 310 zł** liczonych tylko z serii NINJAGO, Creator 3 w 1, City, Friends i Classic, oraz **dziesięć pakietów** (−20% za parę albo drugi zestaw −25%). Do listy 4× punktów doszly 11386, 72537 i 43024.
