@@ -365,6 +365,7 @@ Do sprawdzenia w Bricksecie.
 **Zrobić:** — dopisać 40914 i 40918 do kalendarza promocji (wiersz „21–30.11" w tabeli okien i sekcja listopadowa): okno 21–29.11.2026 z Bricksetu, progi niemieckie 250 euro dla 40914 (wymagane Insiders) i 170 euro dla 40918, z zastrzeżeniem, że polskich progów LEGO nie podało.
 **Kto:** — Code (dane, strona)
 ↻ 21.11.2026: nadal aktualne — `grep -c "40914\|40918" src/pages/kalendarz-promocji-lego.md` daje dziś 0, a akcja ruszyła w nocy z 20 na 21 listopada. Doszedł trzeci upominek do dopisania: **5011174** (zestaw do majsterkowania z filcowymi zawieszkami, nie zestaw klockowy), według StoneWars w oknie 23–26.11, próg nieoficjalny 65 euro.
+→ zamknięte 23.11.2026: kalendarz ma oba upominki w trzech miejscach (tabela okien, sekcja listopadowa i wiersz „Co trwa teraz"), z **polskimi** progami z regulaminów LEGO.pl: 40914 od 1070 zł i 40918 od 705 zł, oba dla członków Insiders, z wyceną LEGO 124,99 zł i 104,99 zł. Te polskie liczby przeniosłem dziś do opisów obu zestawów w `sety.json` — stało tam „polskiego progu LEGO nie podało". 5011174 to gadżet (nie zestaw klockowy) i do rejestru nie wchodzi; w kalendarzu zostaje po stronie Code, jeśli akcja 23–26.11 się potwierdzi.
 
 
 ## 2026-11-16 14:58 · SKRZYNKA · GitHub: Recenzje_022 + 50 kart P07
