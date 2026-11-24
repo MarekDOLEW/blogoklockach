@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-24 05:15 · SCOUT · Do zrobienia
+
+**W zestawie 76329 (maska Milesa Moralesa) trafiła się komuś przez pomyłkę czarna płytka 2×4 ze złotym nadrukiem „10th Anniversary" i głową z logo BrickHeadz — seria kończy w 2027 roku dziesięć lat, licząc od 41585 Batmana z 2017.**
+**Mamy?** — częściowo: w `katalog.json` jest **195** zestawów BrickHeadz, w `sety.json` 27 (roczniki 2023–2026), ale w dziale Artykuły **nie ma o tej serii ani jednego tekstu**.
+**Zrobić:** — napisać tekst historyczny o dziesięciu latach BrickHeadz (kategoria Historyczne), oparty na naszym katalogu: od 41585 z 2017 do fali 2026, co się zmieniło w cenie za element i w licencjach. Znalezisko z 76329 to tylko punkt zaczepienia — pochodzi z jednego wpisu na Reddicie, a serwis branżowy sam pisze, że nie wie, czy płytka trafi do zestawów 2027; tekst ma stać na rocznicy i katalogu, nie na tej płytce.
+**Kto:** — Piotr (tekst)
+
 
 ## 2026-11-23 10:05 · KONTROLER · Do zrobienia
 
