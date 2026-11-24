@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-23"
+zaktualizowano: "2026-11-24"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -181,13 +181,13 @@ Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
 wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
 podejmujesz w oknie przedsprzedaży albo wcale.
 
-**Uwaga na koniec listopada: Bricklink.com jest wyłączony po raz drugi — i ma termin powrotu.**
-Serwis wrócił 12 listopada po sześciodniowej przerwie i 19 listopada zniknął ponownie. W piątkowej
-aktualizacji, sprawdzonej przez nas 22 listopada, BrickLink podaje pierwszy termin: „We are currently
-aiming to bring BrickLink back online on **Tuesday, November 24, 2026**. This remains dependent on the
-progress of the investigation and the work required to restore service safely", a kolejną informację
-zapowiada „by 10:00 AM PST / 7:00 PM CET on **Monday**". Poniedziałek to więc data komunikatu, a nie
-powrotu — planowany powrót to wtorek, i to warunkowo. Szczegóły w naszym tekście
+**Uwaga na koniec listopada: Bricklink.com jest wyłączony po raz drugi, a termin powrotu został
+wycofany.** Serwis wrócił 12 listopada po sześciodniowej przerwie i 19 listopada zniknął ponownie.
+W piątek BrickLink podał pierwszy termin — wtorek 24 listopada — ale w poniedziałkowym komunikacie,
+sprawdzonym przez nas 24 listopada rano, zdjął go: „We're not quite ready to confirm when access will
+be restored, we're continuing to work towards bringing BrickLink back online as soon as we can".
+Kolejna informacja ma przyjść **dziś o 19:00 czasu polskiego**, a o powrocie BrickLink obiecuje
+powiadomić członków mailem. Szczegóły w naszym tekście
 [BrickLink znów niedostępny](/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/).
 Dopóki to trwa, cały kanał BLDP jest niedostępny; piszemy o tym, bo to jedyne miejsce
 w tym kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen.

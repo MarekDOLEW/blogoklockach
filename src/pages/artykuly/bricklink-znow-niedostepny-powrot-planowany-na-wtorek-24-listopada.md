@@ -1,13 +1,22 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "BrickLink znów niedostępny – powrót planowany na wtorek 24 listopada"
-opis: "BrickLink ponownie nie działa – serwis bada nietypową aktywność, tydzień po powrocie z poprzedniej awarii. Powrót serwisu planowany jest na 24 listopada."
-seo_tytul: "BrickLink znów niedostępny – powrót planowany na 24.11"
+title: "BrickLink znów niedostępny – LEGO wycofało wtorkowy termin powrotu"
+opis: "BrickLink ponownie nie działa – serwis bada nietypową aktywność, tydzień po powrocie z poprzedniej awarii. W poniedziałek BrickLink wycofał zapowiadany wtorkowy termin powrotu."
+seo_tytul: "BrickLink znów niedostępny – termin powrotu wycofany"
+zaktualizowano: "2026-11-24"
 data: "2026-11-21"
 kategoria: "Aktualności"
 okladka: "/zdjecia/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/1.webp"
 okladka_alt: "Papuga z klocków w kasku budowlanym – grafika ze strony BrickLink o czasowej niedostępności serwisu"
 ---
+
+**Aktualizacja, 24 listopada rano: wtorkowy termin już nie obowiązuje.** W poniedziałkowym
+komunikacie BrickLink napisał: „We're not quite ready to confirm when access will be restored,
+we're continuing to work towards bringing BrickLink back online as soon as we can" — czyli zdjął
+datę, którą sam podał w piątek. Kolejnej informacji serwis spodziewa się **dziś, 24 listopada
+o 19:00 czasu polskiego**, i zapowiada, że o powrocie powiadomi wszystkich członków mailem, więc
+nie trzeba sprawdzać strony. Przerwa trwa więc już szósty dzień. Poniżej tekst z 21 listopada,
+w którym opisaliśmy piątkową zapowiedź.
 
 BrickLink, należący do Grupy LEGO internetowy rynek zestawów, części i minifigurek, od wieczora 19 listopada 2026 roku ponownie nie działa. Według komunikatu serwisu strona pozostanie wyłączona, dopóki jego zespół nie zbada nietypowej aktywności i nie upewni się, że platforma może działać bezpiecznie. W piątkowej aktualizacji BrickLink podał pierwszy termin: serwis ma wrócić we wtorek 24 listopada, o ile pozwoli na to przebieg dochodzenia.
 

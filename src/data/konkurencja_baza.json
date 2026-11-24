@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-23",
-    "przebieg": "scheduled 2026-11-23 08:00",
+    "ostatnia_aktualizacja": "2026-11-24",
+    "przebieg": "scheduled 2026-11-24 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 434,
+    "liczba_wpisow": 437,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-23 (Radar): u konkurencji cisza (jedna publikacja, popkulturowy skrot), ale u ZRODLA duzo. Karta promocji lego.com/pl-pl ma od dzis nowa fale, ktora konczy sie 26.11, czyli dzien przed Black Friday: (1) GRATIS 5011174 Swiateczny zestaw artystyczny (wycena LEGO 45,99 zl) przy zakupach za co najmniej 310 zl, ale prog liczy sie TYLKO z serii NINJAGO, Creator 3 w 1, City, Friends i Classic - najnizszy prog upominkowy od polybagow z 9-15.11 i pierwszy w tym sezonie wycelowany w zakupy dla dzieci, nie w zestawy 18+; (2) DZIESIEC PAKIETOW 23-26.11: piec par 'drugi zestaw -25%' (21376+21349, 76356+76326, 42231+42210, 75438+75439, 10374+10342, 43301+21357, 72050+72037) i trzy pakiety -20% (43249+43257, 75394+75459, 42212+77254); regulamin mowi wprost, ze pakietu nie wolno rozdzielac ani zwracac pojedynczo, a osiem z dziesieciu nie obowiazuje w salonach; (3) do listy 4x punktow doszly od 22.11 trzy zestawy: 11386, 72537, 43024. Potwierdzone tez, ze gratisy 40914/40918 i kod INSIDERS10 zniknely z regulaminow - okno zamknelo sie 22.11 o 23:59, zgodnie z tym, co pisalismy. Kalendarz: nowa sekcja #listopad-pakiety, weekend przestawiony na zamkniety. LUKA W DANYCH: 5011174 nie ma w sety.json."
+    "obserwacje_biezace": "2026-11-24 (Radar): BRICKLINK WYCOFAL TERMIN POWROTU. Poniedzialkowy komunikat, sprawdzony dzis rano u zrodla: 'We're not quite ready to confirm when access will be restored, we're continuing to work towards bringing BrickLink back online as soon as we can' - czyli znika wtorek 24.11, ktory serwis sam podal w piatek. Kolejna informacja dzis o 19:00 CET; o powrocie BrickLink obiecuje powiadomic czlonkow mailem. To wymusilo zmiane w naszym tekscie z 21.11, ktory mial wtorkowy termin W TYTULE: tytul i opis zmienione na 'LEGO wycofalo wtorkowy termin powrotu', na gorze dodany datowany blok aktualizacji, slug (adres) zostawiony bez zmian, zeby nie psuc linkow. Sekcja #bldp w kalendarzu przepisana. LEKCJA: nie wkladamy do tytulu daty, ktora zalezy od cudzej decyzji - ten sam tekst musial byc poprawiany dwa razy w trzy dni. Druga rzecz: faniklockow opublikowal 23.11 prezentownik 'do 200 zl' - u nas progi w /prezentowniki/wedlug-budzetu to 'do 100 zl', '150-250 zl' i 'do 600 zl', a 200 zl bez zawezenia wiekowego nie ma. Trzecia: fanklockow dopiero 23.11 opisal gratis 5011174, czyli dzien po nas."
   },
   "publikacje": [
     {
@@ -5134,6 +5134,45 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Cykliczny przeglad newsow popkulturowych (filmy, seriale, gry) - format poza nasza nisza. Notujemy tylko kadencje: w weekend otwarcia promocji LEGO serwis opublikowal skrot popkulturowy, a nie tekst o promocjach (glowny autor na urlopie od 20.11)."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "LEGO.pl: nowy gratis i darmowe punkty (11.2026)",
+      "url": "https://fanklockow.pl/lego-pl-nowy-gratis-i-darmowe-punkty-2026/",
+      "data_publikacji": "2026-11-23",
+      "data_wykrycia": "2026-11-24",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Tekst o tej samej fali, ktora opisalismy wczoraj w sekcji #listopad-pakiety: gratis 5011174 od 310 zl i poczworne punkty. Nasza przewaga: opublikowalismy to samego ranka 23.11 (oni po nas) i mamy z regulaminu dwa warunki, ktorych u nich nie ma - ze prog 310 zl liczy sie TYLKO z serii NINJAGO, Creator 3 w 1, City, Friends i Classic, oraz ze pakietow nie wolno rozdzielac ani zwracac pojedynczo."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Klocki LEGO na prezent do 200 zl - najlepsze zestawy pod choinke 2026 (swiateczny poradnik zakupowy)",
+      "url": "https://faniklockow.pl/2026/11/23/klocki-lego-na-prezent-do-200-zl-najlepsze-zestawy-pod-choinke-2026-swiateczny-poradnik-zakupowy/",
+      "data_publikacji": "2026-11-23",
+      "data_wykrycia": "2026-11-24",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Prezentownik progowy 'do 200 zl' w szczycie sezonu - dokladnie ten typ tresci, ktory u nas istnieje, ale w innych progach: /prezentowniki/wedlug-budzetu ma 'do 100 zl', '150-250 zl' i 'do 600 zl', a osobny tekst to /prezentowniki/lego-za-200-zl-dla-10-latka (zawezony do wieku). Progu 'do 200 zl' bez zawezenia wiekowego nie mamy, a to najczestsza kwota prezentowa. Powiazane z otwartym punktem Marka o prezentowniku 'do 50 zl' (950 zestawow w tej cenie, 159 z hubami)."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Mocna oferta do duzych zakupow w Media Expert",
+      "url": "https://faniklockow.pl/2026/11/23/mocna-oferta-do-duzych-zakupow-w-media-expert-2/",
+      "data_publikacji": "2026-11-23",
+      "data_wykrycia": "2026-11-24",
+      "typ": "promocja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "mediaexpert"
+      ],
+      "notatki": "Progowa akcja Media Expert pod duze zakupy. ME odswieza nam sie codziennie (Lowca), wiec ceny mamy; akcji progowych sklepow zewnetrznych nie opisujemy osobno, poza Smykiem, ktory potwierdzilismy u zrodla. Nie weryfikowalem tej oferty - nie sprawdzono."
     }
   ],
   "obserwacje_strategiczne": {

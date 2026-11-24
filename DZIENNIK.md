@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-24 08:15 · RADAR · Do zrobienia
+
+**bricklink.com · 24.11** — **Wtorkowy termin powrotu został wycofany.** Poniedziałkowy komunikat: „We're not quite ready to confirm when access will be restored" — kolejna informacja dziś o 19:00 CET, o powrocie BrickLink powiadomi członków mailem. Przerwa trwa szósty dzień.
+**Mamy?** — tak, poprawione dziś rano: tytuł i opis tekstu z 21.11 zmienione na „LEGO wycofało wtorkowy termin powrotu", na górze datowany blok aktualizacji z cytatem, adres (slug) **bez zmian**, żeby nie psuć linków; sekcja `#bldp` w kalendarzu przepisana.
+**Zrobić:** — sprawdzić komunikat z 19:00 w jutrzejszym przebiegu. **Lekcja na przyszłość: nie wkładamy do tytułu daty, która zależy od cudzej decyzji** — ten jeden tekst wymagał poprawki dwa razy w trzy dni, a slug został z nieaktualnym terminem na zawsze.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 23.11** — Opublikowali prezentownik progowy **„Klocki LEGO na prezent do 200 zł"** — najczęściej szukana kwota prezentowa, w szczycie sezonu.
+**Mamy?** — częściowo: [/prezentowniki/wedlug-budzetu/](/prezentowniki/wedlug-budzetu/) ma progi „do 100 zł", „150–250 zł" i „do 600 zł", a osobny tekst to „LEGO za 200 zł dla 10-latka" — zawężony do wieku. Progu **200 zł bez zawężenia wiekowego** nie mamy.
+**Zrobić:** — decyzja, czy robimy osobny prezentownik „do 200 zł" (i czy razem z otwartym punktem „do 50 zł" — 950 zestawów w tej cenie, 159 z hubami), czy rozbijamy istniejący próg „150–250 zł" na dwa. Do środy, bo potem ruch prezentowy zaczyna spadać.
+**Kto:** — Marek (decyzja)
+
+**fanklockow.pl · 23.11** — Opisali gratis 5011174 i poczwórne punkty — tę samą falę, którą my opublikowaliśmy **dzień wcześniej**.
+**Mamy?** — tak i szerzej: sekcja `#listopad-pakiety` ma dwa warunki z regulaminu, których u nich nie ma (próg 310 zł liczony tylko z pięciu serii dziecięcych; zakaz rozdzielania i zwrotu pojedynczych zestawów z pakietu).
+**Zrobić:** — nic.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-24 05:15 · SCOUT · Do zrobienia
 
 **W zestawie 76329 (maska Milesa Moralesa) trafiła się komuś przez pomyłkę czarna płytka 2×4 ze złotym nadrukiem „10th Anniversary" i głową z logo BrickHeadz — seria kończy w 2027 roku dziesięć lat, licząc od 41585 Batmana z 2017.**
