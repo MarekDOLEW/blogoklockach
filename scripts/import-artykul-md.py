@@ -197,7 +197,9 @@ def importuj(plik, slug=None, zapisuj=True, wsad=None):
         linie = f.read().replace('\r\n', '\n').split('\n')
     uwagi = []
     dane, linie = czytaj_blok(linie)
-    while linie and not linie[0].strip():
+    # poprawka odesłana z kopii w opublikowane/ niesie nasz znacznik „<!-- Opublikowane: … -->”
+    # (dopisuje go github-teksty.py wynik) — to nie treść Piotra, pomijamy go
+    while linie and (not linie[0].strip() or re.match(r'^<!--\s*Opublikowane:.*-->\s*$', linie[0])):
         linie.pop(0)
     if not linie or not linie[0].startswith('# '):
         raise SystemExit('Pierwszy wiersz pliku powinien być „# Tytuł”.')
