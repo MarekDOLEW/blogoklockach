@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-24 08:55 · SKRZYNKA · Zrobione
+
+**GitHub (tylkoklocki-teksty) → opublikowane (3df70cd):** 0058 [Świąteczny zestaw artystyczny 5011174 gratis na LEGO.pl](/artykuly/swiateczny-zestaw-artystyczny-5011174-gratis-na-lego-pl-od-310-zl/) (3 zdjęcia), 0059 [BrickLink wciąż niedostępny](/artykuly/aktualizacja-bricklink-wciaz-niedostepny-serwis-nie-potwierdza-juz/) (1 zdjęcie) oraz poprawka recenzji 025 [71866](/artykuly/lego-71866-ozdoba-z-postaciami-ninja-15-lecie-recenzja/) — Piotr dołożył 5 zdjęć; data 23.11 zostaje, `zaktualizowano: 24.11`.
+**Poprawka importera (90565a0):** Piotr odesłał 025 z kopii w `opublikowane/`, z naszym znacznikiem `<!-- Opublikowane: … -->` w pierwszej linii — importer odrzucał plik („Pierwszy wiersz … # Tytuł”). Teraz znacznik jest pomijany.
+**Uwaga:** 0059 i nasz tekst z 21.11 o BrickLinku opisują tę samą przerwę — warto je podlinkować wzajemnie.
+**Kto:** — Code (automat skrzynki)
+
 ## 2026-11-24 08:15 · RADAR · Do zrobienia
 
 **bricklink.com · 24.11** — **Wtorkowy termin powrotu został wycofany.** Poniedziałkowy komunikat: „We're not quite ready to confirm when access will be restored" — kolejna informacja dziś o 19:00 CET, o powrocie BrickLink powiadomi członków mailem. Przerwa trwa szósty dzień.
