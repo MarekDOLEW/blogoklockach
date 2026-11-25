@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-20",
+  "zaktualizowano": "2026-11-25",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -532,22 +532,27 @@
   {
    "id": "cutelings",
    "numer": null,
-   "nazwa": "LEGO Cutelings — nowy motyw",
-   "seria": null,
-   "elementy": null,
-   "cena_wg_zrodla": null,
-   "premiera_wg_zrodla": null,
-   "pewnosc": "niska",
+   "nazwa": "LEGO Cutelings — nowa linia figurek zwierząt",
+   "seria": "Cutelings",
+   "elementy": 150,
+   "cena_wg_zrodla": 80,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "srednia",
    "zrodla": [
     {
      "nazwa": "StoneWars — „Aus der LEGO Gerüchteküche”",
      "url": "https://stonewars.de/",
      "data": "2026-09-23"
+    },
+    {
+     "nazwa": "PROMOBRICKS — „LEGO Cutelings: Neue Themenreihe für 2027” (oficjalne zdjęcia teaserowe udostępnione mediom fanowskim, zdjęcia zestawów z Reddita)",
+     "url": "https://www.promobricks.de/lego-cutelings-neue-themenreihe-in-2027/",
+     "data": "2026-11-24"
     }
    ],
    "dodano": "2026-09-24",
-   "uwagi": "Nowy motyw wymieniony w przeglądzie plotek StoneWars. Bez numeru, bez ceny, bez terminu — serwis sam podpisuje tekst jako „Gerüchteküche”, czyli kuchnię plotek. Jeśli się potwierdzi, byłby to nowy motyw w katalogu, więc warto trzymać wpis dla tablicy trafności.",
-   "opis": "Nowy motyw wymieniony w przeglądzie plotek StoneWars – bez numeru, ceny i terminu, a sam serwis zaznacza, że to niepotwierdzona plotka. Jeśli się sprawdzi, będzie to zupełnie nowa linia w katalogu LEGO.",
+   "uwagi": "Nowy motyw wymieniony w przeglądzie plotek StoneWars. Bez numeru, bez ceny, bez terminu — serwis sam podpisuje tekst jako „Gerüchteküche”, czyli kuchnię plotek. Jeśli się potwierdzi, byłby to nowy motyw w katalogu, więc warto trzymać wpis dla tablicy trafności.\n\n25.11.2026: PODNIESIENIE „niska” → „srednia”. PromoBricks (24.11) opisuje oficjalne zdjęcia teaserowe, które LEGO udostępniło mediom fanowskim, i podaje datę oficjalnej prezentacji: 01.12.2026. Dane z artykułu: sześć postaci na start, po około 150 elementów, UVP 19,99 euro, grupa docelowa 5+, sprzedaż od stycznia 2027. Zdjęcia zestawów wcześniej na Reddicie (r/Legoleak). Uzupełnione pola, które dotąd były puste: seria, elementy, cena_wg_zrodla (19,99 euro przez 4,25, zaokrąglone do 10 zł) i premiera_wg_zrodla — dzięki temu wpis podlega wreszcie regule „okno + 3 miesiące”. Do „wysokiej” brakuje drugiego serwisu: lista newsów StoneWars sprawdzona 25.11.2026 nie ma tego tematu. Numerów zestawów nadal nie ma, więc wpis zostaje bez numeru; rozstrzygnięcie najwcześniej po 01.12.2026.",
+   "opis": "Nowa linia LEGO: małe, budowane figurki zwierząt z dużymi oczami, adresowane do dzieci od pięciu lat. Na start ma się ukazać sześć postaci, każda z około 150 elementów i w cenie 19,99 euro, czyli orientacyjnie około 80 zł. LEGO rozesłało oficjalne zdjęcia teaserowe i zapowiedziało prezentację całej serii na 1 grudnia 2026, a zestawy mają wejść do sklepów w styczniu 2027. Numerów ani polskich cen nie podano, a zdjęcia samych zestawów wyciekły wcześniej w serwisach społecznościowych — stąd linia jest już niemal pewna, ale jej skład jeszcze nie.",
    "rozstrzygniecie": null
   },
   {
