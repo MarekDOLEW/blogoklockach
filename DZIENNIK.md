@@ -425,6 +425,8 @@ Do sprawdzenia w Bricksecie.
 **Kto:** — Marek (decyzja, panel)
 ↻ 2026-11-23 (Kontroler): nadal aktualne, szósty dzień — **decyzja 3 w raporcie 23.11**; hub dalej ukrywa 349 zł, ME dokłada 43018 jako gratis od 2 000 zł (Radar 15.11), Black Friday za cztery dni.
 
+↻ 2026-11-25: nadal aktualne — ME zszedł do 299 zł (−62%, rabat urósł z 431 do 481 zł), karta zweryfikowana; dziewiąty dzień bez decyzji w panelu.
+
 ## 2026-11-17 08:30 · RADAR · Do zrobienia
 
 **`smyk-odswiez.mjs` · 17.11** — Zadanie z dzisiejszego wpisu DANE WT (adresowane do „Code") **zrobione**: skrypt rozpoznaje stronę blokady bota (`Gcore`, „Browser Validation Page", „Please enable cookies") i zwraca ją jako **błąd**, nie jako „niedostępny" — cena z poprzedniego przebiegu zostaje, oferta nie znika.
