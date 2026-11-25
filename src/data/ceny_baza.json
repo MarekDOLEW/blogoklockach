@@ -401,8 +401,8 @@
  "75451": {
   "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 148.99,
-  "najnizsza_data": "2026-11-17",
+  "najnizsza_cena": 148.94,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "21582": {
@@ -646,9 +646,9 @@
  "43018": {
   "nazwa": "Lionel Messi — cieszynka",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 304,
-  "najnizsza_data": "2026-11-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21595": {
   "nazwa": "Smok Kresu",
@@ -947,9 +947,9 @@
  "71870": {
   "nazwa": "Bliźniacze tytanowe mechy",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 378.99,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 378,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "allegro"
  },
  "77082": {
   "nazwa": "Jaskinia Ubawu",
@@ -2533,8 +2533,8 @@
  "75639": {
   "nazwa": "Statek piracki Going Merry",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 418.99,
-  "najnizsza_data": "2026-10-31",
+  "najnizsza_cena": 399.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "mediaexpert"
  },
  "60337": {
@@ -3254,9 +3254,9 @@
  "71849": {
   "nazwa": "Nya kontra zmutowany potwór na spinnerze",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.08,
-  "najnizsza_data": "2026-10-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 26.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "allegro"
  },
  "43262": {
   "nazwa": "Classic Suknie Diaboliny i Cruelli De Mon",
@@ -4707,8 +4707,8 @@
  "76970": {
   "nazwa": "Mały dinozaur Dolores: aquilops",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 77.49,
-  "najnizsza_data": "2026-10-13",
+  "najnizsza_cena": 72.7,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "allegro"
  },
  "21365": {
@@ -4889,9 +4889,9 @@
  "71827": {
   "nazwa": "Mech w zbroi bojowej Zane’a",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.98,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 27.08,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76258": {
   "nazwa": "Figurka Kapitana Ameryki do zbudowania",
@@ -6020,8 +6020,8 @@
  "43271": {
   "nazwa": "Classic 101 dalmatyńczyków - Szczeniaczki Szczęściarz i Penny",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 66.92,
-  "najnizsza_data": "2026-10-22",
+  "najnizsza_cena": 64.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "allegro"
  },
  "21275": {
@@ -6155,9 +6155,9 @@
  "76335": {
   "nazwa": "Spider-Man kontra Ghost Rider na motocyklu",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.98,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 27.97,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75373": {
   "nazwa": "Zasadzka na Mandalorze – zestaw bitewny",
@@ -6372,9 +6372,9 @@
  "31218": {
   "nazwa": "Japoński krajobraz z kwitnącą wiśnią",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 368.91,
-  "najnizsza_data": "2026-11-23",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 366.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "allegro"
  },
  "21357": {
   "nazwa": "Disney Pixar Luxo Jr.",
@@ -6701,8 +6701,8 @@
  "40460": {
   "nazwa": "Róże",
   "cena_katalogowa": 61.99,
-  "najnizsza_cena": 37.77,
-  "najnizsza_data": "2026-11-05",
+  "najnizsza_cena": 35.64,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "allegro"
  },
  "30693": {
@@ -7473,16 +7473,16 @@
  "60429": {
   "nazwa": "Statek kosmiczny i odkrywanie asteroidy",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 88.8,
-  "najnizsza_data": "2026-09-14",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 80.85,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "allegro"
  },
  "11215": {
   "nazwa": "Koci przyjaciele Gabi z klocków",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 128.99,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 122.43,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "allegro"
  },
  "76312": {
   "nazwa": "Monster truck Hulka kontra Thanos",
@@ -7930,8 +7930,8 @@
  "80119": {
   "nazwa": "Obraz z galopującymi końmi",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 450.9,
-  "najnizsza_data": "2026-11-10",
+  "najnizsza_cena": 450.89,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "allegro"
  },
  "43025": {
@@ -8504,8 +8504,8 @@
  "31172": {
   "nazwa": "Gramofon z kwiatami",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 119.56,
-  "najnizsza_data": "2026-11-11",
+  "najnizsza_cena": 119,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "allegro"
  },
  "31175": {
