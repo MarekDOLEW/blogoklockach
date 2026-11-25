@@ -168,6 +168,12 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-25 14:55 · SKRZYNKA · Zrobione
+
+**GitHub (tylkoklocki-teksty) → opublikowane (619c46e):** 0060 [LEGO Harry Potter według serialu HBO — cztery zestawy od 1 stycznia 2027](/artykuly/lego-harry-potter-wedlug-serialu-hbo-cztery-zestawy-od-1-stycznia-2027/), recenzja 026 [60480 Żółta koparko-ładowarka](/artykuly/lego-60480-zolta-koparko-ladowarka-recenzja/) (bez zdjęć Piotra) oraz nowa wersja 0059 — Piotr przepisał tekst na „BrickLink znów działa” (powrót 24.11).
+**Uwaga:** 0059 zachował adres `/artykuly/aktualizacja-bricklink-wciaz-niedostepny-serwis-nie-potwierdza-juz/` (data 24.11, `zaktualizowano: 25.11`), więc slug mówi „wciąż niedostępny”, a tytuł — że działa. Zmiana adresu = przekierowanie, decyzja Marka. Ta sama lekcja co przy tekście z 21.11: datowany stan w tytule starzeje się w kilka dni.
+**Kto:** — Code (automat skrzynki)
+
 ## 2026-11-25 08:15 · RADAR · Do zrobienia
 
 **bricklink.com · 24.11** — **Serwis wrócił** po pięciu dniach. Centrum pomocy: „Our teams have completed the work needed to restore the site on 24th November 2026", a na pytanie o dane — **„No — ... no passwords, payment information, bank account information, national identification information, or other sensitive data were accessed"** (inaczej niż po przerwie 5–12.11). Wszystkie sklepy otwarto automatycznie, mogą przyjść zaległe maile, serwis ostrzega przed podszywaniem się.
