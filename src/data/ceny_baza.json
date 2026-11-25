@@ -51,9 +51,9 @@
  "77263": {
   "nazwa": "BMW M3 E30",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 73.99,
-  "najnizsza_data": "2026-11-23",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 72.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "10300": {
   "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
@@ -331,9 +331,9 @@
  "75454": {
   "nazwa": "AT-AT Resztek Imperium i INT-4",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 487.66,
-  "najnizsza_data": "2026-11-01",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 483.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "42236": {
   "nazwa": "Warsztat tuningowy: samochód Ford Mustang GT",
@@ -401,9 +401,9 @@
  "75451": {
   "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 148.94,
+  "najnizsza_cena": 145.99,
   "najnizsza_data": "2026-11-25",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "21582": {
   "nazwa": "Kurzy jeździec",
@@ -786,9 +786,9 @@
  "76474": {
   "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 247,
-  "najnizsza_data": "2026-11-19",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 229,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "40868": {
   "nazwa": "Powiększona minifigurka Reda",
@@ -933,9 +933,9 @@
  "71862": {
   "nazwa": "Smoczy mech Lloyda — zestaw bitewny",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27,
-  "najnizsza_data": "2026-10-16",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 26.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "21598": {
   "nazwa": "Podwodna przygoda",
@@ -1010,8 +1010,8 @@
  "11217": {
   "nazwa": "Rodzina Blue z klocków",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 188.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 179.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "21597": {
@@ -1269,8 +1269,8 @@
  "71863": {
   "nazwa": "Zilvar i smocza bestia Grimtak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 49.97,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 49.96,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "21596": {
@@ -1290,9 +1290,9 @@
  "43282": {
   "nazwa": "Wiejska chatka i łódź",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 44.99,
-  "najnizsza_data": "2026-11-23",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 44.98,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "11209": {
   "nazwa": "Ultron kontra Iron Man",
@@ -1360,9 +1360,9 @@
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 174.99,
-  "najnizsza_data": "2026-11-19",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 174.98,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "43298": {
   "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
@@ -1528,9 +1528,9 @@
  "75426": {
   "nazwa": "SMART Play: Sokół Millennium",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 278.97,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 278.96,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "30729": {
   "nazwa": "Premierball",
@@ -1920,9 +1920,9 @@
  "43300": {
   "nazwa": "Kubuś Puchatek",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 455.98,
-  "najnizsza_data": "2026-10-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 449,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "71860": {
   "nazwa": "Tytanowy mech Lloyda — 15. rocznica",
@@ -2349,9 +2349,9 @@
  "71425": {
   "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 308.9,
-  "najnizsza_data": "2026-11-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 299,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "75364": {
   "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
@@ -2547,9 +2547,9 @@
  "10359": {
   "nazwa": "Fontanna w ogrodzie",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 240,
-  "najnizsza_data": "2026-09-26",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 239,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "60367": {
   "nazwa": "Samolot pasażerski",
@@ -2561,9 +2561,9 @@
  "75416": {
   "nazwa": "Droid astromechaniczny Chopper (C1-10P)",
   "cena_katalogowa": 469.99,
-  "najnizsza_cena": 280,
-  "najnizsza_data": "2026-09-06",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 279,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "10291": {
   "nazwa": "Queer Eye - Mieszkanie Fab Five",
@@ -3142,9 +3142,9 @@
  "72039": {
   "nazwa": "Mario Kart - Bowser i jego zamek",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 289,
-  "najnizsza_data": "2026-11-08",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 279,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "42170": {
   "nazwa": "Motocykl Kawasaki Ninja H2R",
@@ -3758,9 +3758,9 @@
  "10474": {
   "nazwa": "Kreatywne pojazdy",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 52.89,
-  "najnizsza_data": "2026-10-22",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 51.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "75414": {
   "nazwa": "Płomienny śmigacz śnieżny",
@@ -4101,8 +4101,8 @@
  "60442": {
   "nazwa": "F1 Kierowca i bolid McLaren",
   "cena_katalogowa": 54.99,
-  "najnizsza_cena": 29.97,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 29.96,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "42661": {
@@ -4178,9 +4178,9 @@
  "71866": {
   "nazwa": "Ozdoba z postaciami Ninja – 15-lecie",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 112.53,
-  "najnizsza_data": "2026-09-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "60451": {
   "nazwa": "Karetka pogotowia",
@@ -4290,8 +4290,8 @@
  "40806": {
   "nazwa": "Piernikowa maszyna krocząca AT-AT",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 172.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 171.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "10418": {
@@ -4446,9 +4446,9 @@
  "42675": {
   "nazwa": "Jednorożcowa dostawa tortu",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.08,
-  "najnizsza_data": "2026-10-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 26.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "60484": {
   "nazwa": "Pojazdy – Gamingowa wyścigówka",
@@ -4728,9 +4728,9 @@
  "75449": {
   "nazwa": "Oblężenie Mandalory – zestaw bitewny",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 53.9,
-  "najnizsza_data": "2026-10-23",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 52.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "71829": {
   "nazwa": "Zielony leśny smok Lloyda",
@@ -4889,9 +4889,9 @@
  "71827": {
   "nazwa": "Mech w zbroi bojowej Zane’a",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.08,
+  "najnizsza_cena": 26.99,
   "najnizsza_data": "2026-11-25",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_sklep": "empik"
  },
  "76258": {
   "nazwa": "Figurka Kapitana Ameryki do zbudowania",
@@ -5108,8 +5108,8 @@
  "71514": {
   "nazwa": "Dinostatek kosmiczny",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 264.98,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 262.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "60402": {
@@ -5292,9 +5292,9 @@
  "71850": {
   "nazwa": "Lloyd kontra ziemny potwór na spinnerze",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.98,
-  "najnizsza_data": "2026-10-01",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 26.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "60503": {
   "nazwa": "Helikopter straży przybrzeżnej",
@@ -5348,9 +5348,9 @@
  "40743": {
   "nazwa": "Świąteczna dekoracja stołu",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 105,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 104.99,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "77257": {
   "nazwa": "McLaren W1",
@@ -5733,9 +5733,9 @@
  "76464": {
   "nazwa": "Kociołek: Sekretna sala zajęć z eliksirów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 149.99,
-  "najnizsza_data": "2026-11-11",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 149.98,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "77242": {
   "nazwa": "Bolid F1 Ferrari SF-24",
@@ -5901,8 +5901,8 @@
  "71826": {
   "nazwa": "Smocze Spinjitzu – zestaw bitewny",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 49.98,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 49.96,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "75378": {
@@ -6062,9 +6062,9 @@
  "71828": {
   "nazwa": "Samochód wyścigowy Lloyda z napędem typu pull-back",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 66.95,
-  "najnizsza_data": "2026-11-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 66.94,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "10412": {
   "nazwa": "Pociąg ze zwierzątkami",
@@ -6083,9 +6083,9 @@
  "42223": {
   "nazwa": "Samochód wyścigowy 1966 Ford GT40 MKII",
   "cena_katalogowa": 319.99,
-  "najnizsza_cena": 206.99,
-  "najnizsza_data": "2026-11-22",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 199,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "40820": {
   "nazwa": "Powiększona minifigurka Świętego Mikołaja",
@@ -6132,8 +6132,8 @@
  "75431": {
   "nazwa": "Zestaw bitewny – żołnierze-klony z 327. korpusu galaktycznego",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 119.97,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 119.96,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "10967": {
@@ -6799,9 +6799,9 @@
  "75424": {
   "nazwa": "SMART Play: Atak AT-ST na Endor",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 147.99,
-  "najnizsza_data": "2026-11-18",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 147.97,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "40573": {
   "nazwa": "Choinka",
@@ -6967,9 +6967,9 @@
  "60485": {
   "nazwa": "Hot Rod",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 24.99,
-  "najnizsza_data": "2026-10-12",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 24.98,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "42603": {
   "nazwa": "Kamper z mobilnym obserwatorium",
@@ -7417,8 +7417,8 @@
  "76467": {
   "nazwa": "Dom Luny Lovegood",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 287.97,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 287.96,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "10347": {
@@ -7844,9 +7844,9 @@
  "76320": {
   "nazwa": "Iron Man i War Machine kontra drony Hammera",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 49.99,
-  "najnizsza_data": "2026-09-07",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 49.97,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "empik"
  },
  "77259": {
   "nazwa": "Bolid Audi Revolut F1 Team R26",
@@ -7979,8 +7979,8 @@
  "10713": {
   "nazwa": "Kreatywna walizka",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 51.99,
-  "najnizsza_data": "2026-11-13",
+  "najnizsza_cena": 51.98,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "31214": {
@@ -8217,9 +8217,9 @@
  "71499": {
   "nazwa": "Sprayowa ciężarówka Mateo",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 280.12,
-  "najnizsza_data": "2026-10-20",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 279,
+  "najnizsza_data": "2026-11-25",
+  "najnizsza_sklep": "xkom"
  },
  "71500": {
   "nazwa": "Koszmarny Rekinokręt podwodny",
@@ -8245,8 +8245,8 @@
  "75415": {
   "nazwa": "Hełm Kylo Rena",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 214.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 208.99,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "75428": {
@@ -8322,8 +8322,8 @@
  "76458": {
   "nazwa": "Rodzina testrali",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 217.98,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 217.97,
+  "najnizsza_data": "2026-11-25",
   "najnizsza_sklep": "empik"
  },
  "76784": {
