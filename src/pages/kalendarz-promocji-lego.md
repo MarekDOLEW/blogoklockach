@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-24"
+zaktualizowano: "2026-11-25"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -181,17 +181,14 @@ Black Friday, ani nigdy potem; po zamknięciu przedsprzedaży zostaje rynek
 wtórny, zwykle powyżej ceny katalogowej. Jeśli któryś Cię interesuje, decyzję
 podejmujesz w oknie przedsprzedaży albo wcale.
 
-**Uwaga na koniec listopada: Bricklink.com jest wyłączony po raz drugi, a termin powrotu został
-wycofany.** Serwis wrócił 12 listopada po sześciodniowej przerwie i 19 listopada zniknął ponownie.
-W piątek BrickLink podał pierwszy termin — wtorek 24 listopada — ale w poniedziałkowym komunikacie,
-sprawdzonym przez nas 24 listopada rano, zdjął go: „We're not quite ready to confirm when access will
-be restored, we're continuing to work towards bringing BrickLink back online as soon as we can".
-Kolejna informacja ma przyjść **dziś o 19:00 czasu polskiego**, a o powrocie BrickLink obiecuje
-powiadomić członków mailem. Szczegóły w naszym tekście
-[BrickLink znów niedostępny](/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/).
-Dopóki to trwa, cały kanał BLDP jest niedostępny; piszemy o tym, bo to jedyne miejsce
-w tym kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen.
-
+**Bricklink.com działa od 24 listopada — ale w tym sezonie bywał niedostępny i warto o tym
+pamiętać przy planach na BLDP.** W listopadzie 2026 serwis miał dwie przerwy: 5–12.11 i 19–24.11,
+obie po wykryciu nietypowej aktywności. Po drugiej BrickLink podaje, że **nie doszło do dostępu
+do haseł, danych płatniczych ani innych wrażliwych danych**, i ostrzega przed mailami podszywającymi
+się pod serwis. Szczegóły i cytaty w naszym tekście
+[BrickLink wrócił po pięciu dniach](/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/).
+Dopóki ta zmienność się utrzymuje, przy przedsprzedaży BLDP zakładaj, że kanał może chwilowo
+nie działać — to jedyne miejsce w tym kalendarzu, które odsyła poza LEGO.com i sklepy z tabel cen.
 Termin i skład serii potwierdziliśmy w dwóch niezależnych serwisach branżowych.
 
 <h2 id="gratis-pazdziernik">Październik: gratis do wyboru na LEGO.pl 8–12.10, próg 450 zł <span class="status status--stop">zamknięte</span></h2>

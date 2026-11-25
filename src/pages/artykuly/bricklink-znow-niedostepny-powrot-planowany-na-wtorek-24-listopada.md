@@ -1,22 +1,32 @@
 ---
 layout: ../../layouts/Artykul.astro
-title: "BrickLink znów niedostępny – LEGO wycofało wtorkowy termin powrotu"
-opis: "BrickLink ponownie nie działa – serwis bada nietypową aktywność, tydzień po powrocie z poprzedniej awarii. W poniedziałek BrickLink wycofał zapowiadany wtorkowy termin powrotu."
-seo_tytul: "BrickLink znów niedostępny – termin powrotu wycofany"
-zaktualizowano: "2026-11-24"
+title: "BrickLink wrócił po pięciu dniach – bez dostępu do wrażliwych danych"
+opis: "BrickLink działa od 24 listopada po pięciodniowej przerwie. Serwis podaje, że tym razem nie doszło do dostępu do haseł, danych płatniczych ani innych wrażliwych informacji."
+seo_tytul: "BrickLink wrócił 24 listopada – co z danymi"
+zaktualizowano: "2026-11-25"
 data: "2026-11-21"
 kategoria: "Aktualności"
 okladka: "/zdjecia/artykuly/bricklink-znow-niedostepny-powrot-planowany-na-wtorek-24-listopada/1.webp"
 okladka_alt: "Papuga z klocków w kasku budowlanym – grafika ze strony BrickLink o czasowej niedostępności serwisu"
 ---
 
-**Aktualizacja, 24 listopada rano: wtorkowy termin już nie obowiązuje.** W poniedziałkowym
-komunikacie BrickLink napisał: „We're not quite ready to confirm when access will be restored,
-we're continuing to work towards bringing BrickLink back online as soon as we can" — czyli zdjął
-datę, którą sam podał w piątek. Kolejnej informacji serwis spodziewa się **dziś, 24 listopada
-o 19:00 czasu polskiego**, i zapowiada, że o powrocie powiadomi wszystkich członków mailem, więc
-nie trzeba sprawdzać strony. Przerwa trwa więc już szósty dzień. Poniżej tekst z 21 listopada,
-w którym opisaliśmy piątkową zapowiedź.
+**Aktualizacja, 25 listopada: BrickLink działa.** Serwis wrócił **24 listopada** — w dniu, który
+podał w piątek i z którego w poniedziałek się wycofał („we're not quite ready to confirm when access
+will be restored"). Centrum pomocy, zaktualizowane 24 listopada, mówi: „Our teams have completed the
+work needed to restore the site on 24th November 2026", a na pytanie o dane odpowiada wprost:
+**„No — Our investigation found that no passwords, payment information, bank account information,
+national identification information, or other sensitive data were accessed as a result of this
+activity"**. To różnica wobec przerwy z początku listopada, przy której BrickLink potwierdził dostęp
+do nazw użytkowników, adresów IP i „bardzo niewielkiej liczby" adresów e-mail.
+
+**Trzy rzeczy ważne po powrocie.** Pierwsza: **wszystkie sklepy zostały otwarte automatycznie** —
+serwis pisze, że jego konfiguracja nie pozwalała zostawić ich zamkniętych, więc sprzedający nie
+wybrali momentu powrotu. Druga: mogą przyjść **zaległe automatyczne maile** z czasu przerwy, w tym
+takie, które nie odpowiadają już stanowi konta — BrickLink prosi, by na nie nie reagować. Trzecia:
+serwis ostrzega przed **próbami podszywania się** — nie prosi mailem o hasło ani dane płatnicze,
+a w razie wątpliwości każe pisać bezpośrednio do wsparcia, nie klikać w linki z wiadomości.
+
+Poniżej tekst z 21 listopada, w którym opisaliśmy przebieg przerwy.
 
 BrickLink, należący do Grupy LEGO internetowy rynek zestawów, części i minifigurek, od wieczora 19 listopada 2026 roku ponownie nie działa. Według komunikatu serwisu strona pozostanie wyłączona, dopóki jego zespół nie zbada nietypowej aktywności i nie upewni się, że platforma może działać bezpiecznie. W piątkowej aktualizacji BrickLink podał pierwszy termin: serwis ma wrócić we wtorek 24 listopada, o ile pozwoli na to przebieg dochodzenia.
 

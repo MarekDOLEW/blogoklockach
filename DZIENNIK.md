@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-25 08:15 · RADAR · Do zrobienia
+
+**bricklink.com · 24.11** — **Serwis wrócił** po pięciu dniach. Centrum pomocy: „Our teams have completed the work needed to restore the site on 24th November 2026", a na pytanie o dane — **„No — ... no passwords, payment information, bank account information, national identification information, or other sensitive data were accessed"** (inaczej niż po przerwie 5–12.11). Wszystkie sklepy otwarto automatycznie, mogą przyjść zaległe maile, serwis ostrzega przed podszywaniem się.
+**Mamy?** — tak: tekst przepisany (tytuł „BrickLink wrócił po pięciu dniach", blok aktualizacji z cytatami i trzema rzeczami ważnymi po powrocie), slug bez zmian.
+**Zrobić:** — zrobione, a notki w `#bldp` **nie zdjąłem** — przepisałem ją na trwałą, zgodnie z wnioskiem z 20.11: sekcja mówi teraz o dwóch listopadowych przerwach (5–12.11 i 19–24.11) i o tym, że przy przedsprzedaży BLDP trzeba zakładać chwilową niedostępność kanału. Koniec cyklu „dopisz i skasuj" co tydzień.
+**Kto:** — Code (dane, strona)
+
+**bricklink.com · 24.11 (do sprawdzenia)** — Banner na stronie głównej zapowiada **powrót Designer Program**: „New opportunity to support fan designers from LEGO Ideas".
+**Mamy?** — nie, i **treści nie znam**: strona newsa zwraca błąd bez logowania, więc nie wiem, czy chodzi o nową serię, nową formułę finansowania, czy o dokończenie serii 9.
+**Zrobić:** — dopytać u źródła w kolejnym przebiegu (strona pomocy BLDP albo ogłoszenie w serwisach branżowych); jeśli to nowa seria, trafia do kalendarza i do planu tekstów na grudzień. Do tego czasu **nie piszemy o tym nic** — mamy tylko nagłówek bannera.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 25.11 (luka w monitoringu)** — Dwa odczyty strony głównej (format `links`, raz z `onlyMainContent`, raz bez) zwróciły **pustą listę** przy statusie 200.
+**Mamy?** — nie dotyczy: dzisiejszych publikacji tego serwisu **nie sprawdziłem**, nie zakładam, że ich nie było.
+**Zrobić:** — w jutrzejszym przebiegu zacząć od tego serwisu i, jeśli znowu wróci pusto, czytać go z `markdown` albo z listy kategorii zamiast ze strony głównej.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-24 08:55 · SKRZYNKA · Zrobione
 
 **GitHub (tylkoklocki-teksty) → opublikowane (3df70cd):** 0058 [Świąteczny zestaw artystyczny 5011174 gratis na LEGO.pl](/artykuly/swiateczny-zestaw-artystyczny-5011174-gratis-na-lego-pl-od-310-zl/) (3 zdjęcia), 0059 [BrickLink wciąż niedostępny](/artykuly/aktualizacja-bricklink-wciaz-niedostepny-serwis-nie-potwierdza-juz/) (1 zdjęcie) oraz poprawka recenzji 025 [71866](/artykuly/lego-71866-ozdoba-z-postaciami-ninja-15-lecie-recenzja/) — Piotr dołożył 5 zdjęć; data 23.11 zostaje, `zaktualizowano: 24.11`.
