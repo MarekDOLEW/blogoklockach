@@ -975,8 +975,8 @@
  "40924": {
   "nazwa": "Megatron jako robot i pojazd",
   "cena_katalogowa": 104.99,
-  "najnizsza_cena": 97.99,
-  "najnizsza_data": "2026-11-23",
+  "najnizsza_cena": 97.95,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "42242": {
@@ -1703,8 +1703,8 @@
  "40887": {
   "nazwa": "SMART Play: Ditto jako Squirtle — maraton filmowy",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 286.99,
-  "najnizsza_data": "2026-11-20",
+  "najnizsza_cena": 285,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "40896": {
@@ -1934,9 +1934,9 @@
  "43301": {
   "nazwa": "Podpórki do książek ze Sprężynkiem (Toy Story)",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 399,
-  "najnizsza_data": "2026-10-02",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 379,
+  "najnizsza_data": "2026-11-26",
+  "najnizsza_sklep": "allegro"
  },
  "42115": {
   "nazwa": "Lamborghini Sián FKP 37",
@@ -2004,9 +2004,9 @@
  "42172": {
   "nazwa": "McLaren P1",
   "cena_katalogowa": 1949.99,
-  "najnizsza_cena": 1299,
-  "najnizsza_data": "2026-11-03",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 1294.99,
+  "najnizsza_data": "2026-11-26",
+  "najnizsza_sklep": "allegro"
  },
  "42215": {
   "nazwa": "Koparka Volvo EC500 Hybrid",
@@ -2610,8 +2610,8 @@
  "31109": {
   "nazwa": "Statek piracki",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 465.75,
-  "najnizsza_data": "2026-11-19",
+  "najnizsza_cena": 409.9,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "42160": {
@@ -2792,8 +2792,8 @@
  "75379": {
   "nazwa": "R2-D2",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 286.99,
-  "najnizsza_data": "2026-11-18",
+  "najnizsza_cena": 285.99,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "76429": {
@@ -3765,8 +3765,8 @@
  "75414": {
   "nazwa": "Płomienny śmigacz śnieżny",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 139.98,
-  "najnizsza_data": "2026-10-04",
+  "najnizsza_cena": 138.99,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "75399": {
@@ -3870,8 +3870,8 @@
  "11501": {
   "nazwa": "Bukiet tulipanów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 149.97,
-  "najnizsza_data": "2026-10-26",
+  "najnizsza_cena": 137.99,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "43287": {
@@ -4122,8 +4122,8 @@
  "40906": {
   "nazwa": "Restauracje świata: Japonia",
   "cena_katalogowa": 84.99,
-  "najnizsza_cena": 143.99,
-  "najnizsza_data": "2026-11-24",
+  "najnizsza_cena": 143.98,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "10477": {
@@ -4686,9 +4686,9 @@
  "10328": {
   "nazwa": "Botanicals Bukiet róż",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 144,
-  "najnizsza_data": "2026-11-21",
-  "najnizsza_sklep": "mediaexpert"
+  "najnizsza_cena": 143,
+  "najnizsza_data": "2026-11-26",
+  "najnizsza_sklep": "allegro"
  },
  "10370": {
   "nazwa": "Botanicals Gwiazda Betlejemska",
@@ -4707,8 +4707,8 @@
  "76970": {
   "nazwa": "Mały dinozaur Dolores: aquilops",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 72.7,
-  "najnizsza_data": "2026-11-25",
+  "najnizsza_cena": 72.49,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "21365": {
@@ -6561,8 +6561,8 @@
  "40891": {
   "nazwa": "Stranger Things: Stacja radiowa WSQK",
   "cena_katalogowa": 109.99,
-  "najnizsza_cena": 458.98,
-  "najnizsza_data": "2026-11-22",
+  "najnizsza_cena": 458.48,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "40920": {
@@ -8952,8 +8952,8 @@
  "80054": {
   "nazwa": "Megapolis City 5th Anniversary",
   "cena_katalogowa": 779.99,
-  "najnizsza_cena": 759.99,
-  "najnizsza_data": "2026-10-20",
+  "najnizsza_cena": 749.99,
+  "najnizsza_data": "2026-11-26",
   "najnizsza_sklep": "allegro"
  },
  "80055": {
