@@ -168,6 +168,12 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-26 09:05 · SKRZYNKA · Zrobione
+
+**GitHub (tylkoklocki-teksty) → opublikowane (8afc246, 968f06b):** nowe 0061 [Poczwórne punkty LEGO Insiders przedłużone do 30.11](/artykuly/poczworne-punkty-lego-insiders-na-trzy-zestawy-przedluzone/) (3 zdjęcia) i 0062 [LEGO Marvel 67023 Jeff the Land Shark](/artykuly/lego-marvel-67023-jeff-the-land-shark-oficjalnie-pierwszy-zestaw-z-gry/) (4 zdjęcia); poprawki z dołożonymi zdjęciami: 0060 [Harry Potter według serialu HBO](/artykuly/lego-harry-potter-wedlug-serialu-hbo-cztery-zestawy-od-1-stycznia-2027/) (3) i recenzja 026 [60480](/artykuly/lego-60480-zolta-koparko-ladowarka-recenzja/) (5).
+**Wyścig:** zdjęcia do 0061/0062 Piotr wypchnął w trakcie przebiegu — teksty poszły najpierw bez nich, push repo tekstów został odrzucony. Po rebase oba .md wróciły do `do-publikacji/` i przeszły drugi raz razem ze zdjęciami (968f06b); Piotr i Marek dostali dwa maile z linkami.
+**Kto:** — Code (automat skrzynki)
+
 ## 2026-11-26 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 26.11** — Karta Black Friday ma już **regulaminy**: gratis **40914 od 1070 zł** i **40918 od 705 zł** w dniach **27–29.11** (nie do Cyber Monday), plus **40888** do zakupu obejmującego [21375 Godzilla](/zestaw/21375/), 27–30.11.
