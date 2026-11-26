@@ -11,7 +11,7 @@
    "zmieniony": "zestaw wszedł, ale inny numer, cena albo termin",
    "obalony": "zestaw nie wszedł w zapowiadanym oknie ani w kolejnych 3 miesiącach"
   },
-  "zaktualizowano": "2026-11-25",
+  "zaktualizowano": "2026-11-26",
   "pola": {
    "opis": "tekst dla czytelnika, pokazywany na /przecieki/: co wiadomo, na czym opiera się przeciek, czego brakuje – w aktualnym stanie, bez historii zmian i bez języka roboczego (od 11.10.2026)",
    "uwagi": "notatki robocze Scouta (historia podnoszenia pewności, co i kiedy sprawdzono) – NIE są pokazywane na stronie",
@@ -263,8 +263,8 @@
    "numer": "76483",
    "nazwa": "Harry Potter: Pierwszy rok w Hogwarcie",
    "seria": "Harry Potter",
-   "elementy": null,
-   "cena_wg_zrodla": 480,
+   "elementy": 773,
+   "cena_wg_zrodla": 420,
    "premiera_wg_zrodla": "2027-01",
    "pewnosc": "srednia",
    "zrodla": [
@@ -272,10 +272,16 @@
      "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erste LEGO Harry Potter 2027 Januar-Neuheiten zur HBO-Serie vorgestellt” (tabela oczekiwanych nowości 2027 na końcu artykułu)",
+     "url": "https://www.stonewars.de/news/lego-harry-potter-2027-januar-neuheiten/",
+     "data": "2026-11-26"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": null,
+   "uwagi": "26.11.2026: UZUPEŁNIENIE DANYCH, pewność bez zmian („srednia”). LEGO przedstawiło 25.11.2026 cztery zestawy styczniowej fali Harry Potter (76481, 76482, 76487, 40992) — tego zestawu NIE było wśród nich, więc wpis zostaje przeciekiem. StoneWars prowadzi go dalej w tabeli oczekiwanych nowości 2027 z nazwą „Das Erste Jahr auf Schloss Hogwarts”, 773 elementami i UVP 99,99 euro. Uzupełniono puste pole elementy (773) oraz skorygowano cena_wg_zrodla: 480 → 420 zł (poprzednia wartość szła z 109,99 USD podanych w sierpniu, nowa z 99,99 euro przez 4,25, zaokrąglone do 10 zł). Do „wysokiej” brakuje drugiego serwisu — PromoBricks na stronie głównej sprawdzonej 26.11.2026 nie ma tego numeru.",
+   "opis": "Zestaw zamkowy zapowiadany na styczeń 2027: według branżowych tabel około 773 elementów i 99,99 euro, czyli orientacyjnie 420 zł. Nazwa wraca do ogólnego „pierwszego roku w Hogwarcie” zamiast przyjętej od 2024 roku konwencji „Zamek Hogwart: …”. LEGO pokazało 25 listopada 2026 cztery inne zestawy tej fali, a tego zestawu wśród nich nie było, więc numer, nazwa i cena pozostają po stronie źródeł branżowych. Polskiej ceny katalogowej nie ma.",
    "rozstrzygniecie": null
   },
   {
@@ -283,8 +289,8 @@
    "numer": "76479",
    "nazwa": "Harry Potter: Harry poznaje Zgredka",
    "seria": "Harry Potter",
-   "elementy": null,
-   "cena_wg_zrodla": 65,
+   "elementy": 102,
+   "cena_wg_zrodla": 60,
    "premiera_wg_zrodla": "2027-01",
    "pewnosc": "srednia",
    "zrodla": [
@@ -292,10 +298,16 @@
      "nazwa": "przecieki z sieci dystrybucji (PromoBricks, StoneWars) — artykuł Zapowiedzi 2027",
      "url": "/zapowiedzi-lego-2027/",
      "data": "2026-08-20"
+    },
+    {
+     "nazwa": "StoneWars — „Erste LEGO Harry Potter 2027 Januar-Neuheiten zur HBO-Serie vorgestellt” (tabela oczekiwanych nowości 2027 na końcu artykułu)",
+     "url": "https://www.stonewars.de/news/lego-harry-potter-2027-januar-neuheiten/",
+     "data": "2026-11-26"
     }
    ],
    "dodano": "2026-09-15",
-   "uwagi": null,
+   "uwagi": "26.11.2026: UZUPEŁNIENIE DANYCH, pewność bez zmian („srednia”). LEGO przedstawiło 25.11.2026 cztery zestawy styczniowej fali Harry Potter (76481, 76482, 76487, 40992) — tego zestawu NIE było wśród nich, więc wpis zostaje przeciekiem. StoneWars prowadzi go dalej w tabeli oczekiwanych nowości 2027 z nazwą „Harry Trifft Dobby”, 102 elementami i UVP 14,99 euro. Uzupełniono puste pole elementy (102) oraz skorygowano cena_wg_zrodla: 65 → 60 zł (poprzednia wartość szła z 14,99 USD podanych w sierpniu, nowa z 14,99 euro przez 4,25, zaokrąglone do 10 zł). Do „wysokiej” brakuje drugiego serwisu — PromoBricks na stronie głównej sprawdzonej 26.11.2026 nie ma tego numeru.",
+   "opis": "Mały zestaw ze scenką poznania Zgredka, zapowiadany na styczeń 2027: według branżowych tabel około 102 elementów i 14,99 euro, czyli orientacyjnie 60 zł. Numer i nazwa krążą w tych samych źródłach, które poprawnie wskazały pozostałe zestawy styczniowej fali, ale LEGO tego zestawu jeszcze nie pokazało — w prezentacji z 25 listopada 2026 znalazły się cztery inne pozycje. Polskiej ceny katalogowej nie ma.",
    "rozstrzygniecie": null
   },
   {
@@ -3533,6 +3545,69 @@
    "dodano": "2026-11-19",
    "uwagi": "19.11.2026: z tego samego materiału StoneWars (18.11.2026) i tego samego listingu Smyths Toys: 280 elementów, 1 minifigurka, 29,99 euro, 9+, start 1.01.2027 — jedyna pozycja styczniowa w tej fali, pozostałe jedenaście wchodzi w marcu. Pewność „srednia”: jedno źródło branżowe plus listing sklepu. Cena w źródle oznaczona jako spodziewana; przelicznik 4,25 zaokrąglony do 10 zł. PromoBricks o tej fali nie pisał (strona główna sprawdzona 19.11.2026).\n\n20.11.2026: zostaje „srednia”. Brickset założył dziś karty katalogowe wszystkich jedenastu bolidów F1 z tej fali (77267–77277), ale 77280 w roczniku 2027 nadal nie ma — lista brickset.com/sets/year-2027 (trzy strony, sprawdzone 20.11.2026) przechodzi od 77277 do 80122.",
    "opis": "Lamborghini Fenomeno w skali Speed Champions: według listingu sklepowego 280 elementów, jedna minifigurka kierowcy, cena 29,99 euro (orientacyjnie około 130 zł), oznaczenie 9+ i premiera 1 stycznia 2027. To najwięcej elementów w całej zapowiadanej fali przy tej samej cenie co bolidy Formuły 1. Zestaw wyszedł z listingu sklepu przed oficjalną zapowiedzią LEGO, więc polskiej ceny katalogowej nie ma.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "30751",
+   "numer": "30751",
+   "nazwa": "Harry Potter — saszetka promocyjna (nazwa niepotwierdzona)",
+   "seria": "Harry Potter",
+   "elementy": null,
+   "cena_wg_zrodla": null,
+   "premiera_wg_zrodla": "2027-01",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Erste LEGO Harry Potter 2027 Januar-Neuheiten zur HBO-Serie vorgestellt” (tabela oczekiwanych nowości 2027 na końcu artykułu)",
+     "url": "https://www.stonewars.de/news/lego-harry-potter-2027-januar-neuheiten/",
+     "data": "2026-11-26"
+    }
+   ],
+   "dodano": "2026-11-26",
+   "uwagi": "Wpis z tabeli oczekiwanych nowości 2027 prowadzonej przez StoneWars, dołączonej do artykułu o oficjalnej prezentacji czterech zestawów Harry Potter (25.11.2026). Tabela miesza pozycje przedstawione przez LEGO z takimi, o których krążą same plotki — ten numer należy do drugiej grupy: bez zdjęcia (w tabeli zastępcza grafika), bez oferty w sklepie, bez potwierdzenia LEGO. Jedno źródło branżowe, więc pewność „niska”. Poza numerem i miesiącem nie ma żadnych danych: nazwa w tabeli stoi w nawiasie ze znakiem zapytania, liczba elementów i cena to „???”. Przy saszetkach promocyjnych numer bywa przypisywany na długo przed decyzją o zawartości, więc wpis trzymamy głównie dla tablicy trafności.",
+   "opis": "Saszetka promocyjna z serii Harry Potter zapowiadana na styczeń 2027. Źródła branżowe podają na razie tylko numer; nazwa krąży w wersji roboczej („lekcja zielarstwa Neville'a”) i może się zmienić, liczby elementów ani ceny nie ma. Saszetki tej wielkości w Polsce zwykle trafiają do sklepu LEGO jako dodatek do zamówienia, a nie do regularnej sprzedaży.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76480",
+   "numer": "76480",
+   "nazwa": "Harry Potter — zestaw bez znanej nazwy (marzec 2027)",
+   "seria": "Harry Potter",
+   "elementy": 311,
+   "cena_wg_zrodla": 130,
+   "premiera_wg_zrodla": "2027-03",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Erste LEGO Harry Potter 2027 Januar-Neuheiten zur HBO-Serie vorgestellt” (tabela oczekiwanych nowości 2027 na końcu artykułu)",
+     "url": "https://www.stonewars.de/news/lego-harry-potter-2027-januar-neuheiten/",
+     "data": "2026-11-26"
+    }
+   ],
+   "dodano": "2026-11-26",
+   "uwagi": "Wpis z tabeli oczekiwanych nowości 2027 prowadzonej przez StoneWars, dołączonej do artykułu o oficjalnej prezentacji czterech zestawów Harry Potter (25.11.2026). Tabela miesza pozycje przedstawione przez LEGO z takimi, o których krążą same plotki — ten numer należy do drugiej grupy: bez zdjęcia (w tabeli zastępcza grafika), bez oferty w sklepie, bez potwierdzenia LEGO. Jedno źródło branżowe, więc pewność „niska”. Znane są liczba elementów (311) i UVP (29,99 euro), nazwa w tabeli to „???”. Marcowy termin stawia zestaw poza pierwszą falą serialową, więc przypisanie do linii HBO jest na tym etapie domysłem.",
+   "opis": "Zestaw Harry Potter zapowiadany na marzec 2027: według branżowych tabel około 311 elementów i 29,99 euro, czyli orientacyjnie 130 zł. Nazwy ani tematu na razie nie podano, więc nie wiadomo, czy należy do serialowej linii HBO, czy do dotychczasowej, filmowej. Polskiej ceny katalogowej nie ma.",
+   "rozstrzygniecie": null
+  },
+  {
+   "id": "76492",
+   "numer": "76492",
+   "nazwa": "Komnata Tajemnic — edycja kolekcjonerska",
+   "seria": "Harry Potter",
+   "elementy": 1442,
+   "cena_wg_zrodla": 760,
+   "premiera_wg_zrodla": "2027-04",
+   "pewnosc": "niska",
+   "zrodla": [
+    {
+     "nazwa": "StoneWars — „Erste LEGO Harry Potter 2027 Januar-Neuheiten zur HBO-Serie vorgestellt” (tabela oczekiwanych nowości 2027 na końcu artykułu)",
+     "url": "https://www.stonewars.de/news/lego-harry-potter-2027-januar-neuheiten/",
+     "data": "2026-11-26"
+    }
+   ],
+   "dodano": "2026-11-26",
+   "uwagi": "Wpis z tabeli oczekiwanych nowości 2027 prowadzonej przez StoneWars, dołączonej do artykułu o oficjalnej prezentacji czterech zestawów Harry Potter (25.11.2026). Tabela miesza pozycje przedstawione przez LEGO z takimi, o których krążą same plotki — ten numer należy do drugiej grupy: bez zdjęcia (w tabeli zastępcza grafika), bez oferty w sklepie, bez potwierdzenia LEGO. Jedno źródło branżowe, więc pewność „niska”. Znane są liczba elementów (1442) i UVP (179,99 euro). Z całej tej trójki ten wpis jest najbardziej konkretny, ale nadal opiera się na jednym serwisie i nie ma ani zdjęcia, ani oferty w żadnym sklepie.",
+   "opis": "Duży zestaw ekspozycyjny zapowiadany na kwiecień 2027: według branżowych tabel 1442 elementy i 179,99 euro, czyli orientacyjnie 760 zł. Nazwa wskazuje na edycję kolekcjonerską w konwencji, w której LEGO wydało wcześniej 76457 Hogsmeade, a więc model do postawienia na półce, nie do zabawy. Polskiej ceny katalogowej nie ma.",
    "rozstrzygniecie": null
   }
  ]
