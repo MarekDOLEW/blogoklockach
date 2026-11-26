@@ -3,7 +3,7 @@ layout: ../layouts/Artykul.astro
 title: "Kalendarz promocji LEGO 2026: wrzesień–grudzień"
 opis: "Wszystkie promocje LEGO do końca 2026 w jednym miejscu: daty, progi kwotowe, gratisy GWP i Black Friday 27.11. Aktualizujemy przy każdej nowej promocji."
 data: "2026-08-17"
-zaktualizowano: "2026-11-25"
+zaktualizowano: "2026-11-26"
 kategoria: "Kalendarze"
 faq:
   - q: "Kiedy najlepiej kupować zestawy LEGO?"
@@ -39,7 +39,7 @@ Wszystkie znane promocje i wydarzenia LEGO od września do grudnia 2026 – z da
 <li><span class="okna__data">ok. 1–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#allegro-black-weeks"><b>Allegro Black Weeks</b> – miesiąc kampanii na Allegro, od przełomu października i listopada do Cyber Monday</a></li>
 <li><span class="okna__data">14.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>Prywatne zakupy w salonach LEGO</b> – wejście godzinę przed otwarciem, zapisy już trwają</a></li>
 <li><span class="okna__data">18–19.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#wydarzenia"><b>„Zbuduj i Zabierz" z mikromodelem tramwaju</b> – listopadowy odpowiednik wrześniowej akcji, 15:00–17:00 w salonach, ograniczona liczba sztuk</a></li>
-<li><span class="okna__data">27–30.11</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#listopad"><b>Black Friday (27.11) i Cyber Monday (30.11)</b> – szczyt rabatów całego roku</a></li>
+<li><span class="okna__data">27–30.11</span><span class="status status--ok">potwierdzone</span><a class="okna__opis" href="#listopad-bf"><b>Black Friday (27.11) i Cyber Monday (30.11)</b> – LEGO potwierdziło regulaminami: trzy gratisy, w tym <b>40914 od 1070 zł</b> i <b>40918 od 705 zł</b> tylko do <b>29.11</b>, oraz 40888 do zakupu Godzilli 27–30.11</a></li>
 <li><span class="okna__data">grudzień</span><span class="status status--maybe">przewidywane</span><a class="okna__opis" href="#grudzien"><b>Święta, trzecie okno punktowe i 323 wycofania</b> – ostatnie terminy dostaw przed Wigilią, spodziewane podwójne punkty i ostatni miesiąc tych zestawów w LEGO.com</a></li>
 </ul>
 
@@ -365,7 +365,7 @@ różnica jest widoczna w tabeli cen na podstronie każdego zestawu.
 
 Gratis halloweenowy, którego spodziewaliśmy się tutaj, wypada w tym roku wcześniej – jest w sekcji wrześniowej. Wszystkie świeże premiery śledzimy na bieżąco w [Nowościach](/nowosci/).
 
-<h2 id="listopad">Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--maybe">przewidywane</span></h2>
+<h2 id="listopad">Listopad: Black Friday 27.11 – tu dzieje się najwięcej <span class="status status--ok">potwierdzone</span></h2>
 
 Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 
@@ -377,6 +377,7 @@ Kluczowy miesiąc dla portfela. Wzorzec z poprzednich lat:
 | **21–22.11** | [Weekend Insiders](#listopad-insiders) na LEGO.com: **dwa gratisy** (40914 od 1070 zł, 40918 od 705 zł), **kod INSIDERS10** i podwójne punkty — wszystko z regulaminów LEGO.pl, sprawdzone 21.11 |
 | **21–26.11** | [ceny Insiders i poczwórne punkty](#listopad-insiders) na wybrane zestawy — jedyna część weekendu, która **trwa aż do środy**, czyli przechodzi w Black Friday |
 | **23–26.11** | [dziesięć pakietów na LEGO.com](#listopad-pakiety) (−20% za parę albo drugi zestaw −25%) i gratis 5011174 od **310 zł** z pięciu serii dziecięcych |
+| **27–29.11** | [dwa gratisy Black Friday](#listopad-bf) na LEGO.com — **40914 od 1070 zł** i **40918 od 705 zł**; okno krótsze niż sam tydzień BF |
 | **27.11** | **Black Friday** – szczyt rabatów (realnie 20–35% na wybrane zestawy) |
 | 30.11 | Cyber Monday – końcówki magazynowe, często najlepsze ceny sezonu |
 
@@ -531,6 +532,38 @@ warto najpierw sprawdzić w tabeli na podstronie zestawu, czy poza LEGO.com nie 
 **Czwarta rzecz, która się zmieniła po weekendzie:** do listy poczwórnych punktów LEGO dopisało od
 22.11 trzy zestawy — [11386 SpongeBob: Bikini Dolne](/zestaw/11386/), [72537 Tygrys Derpy i Sroka
 Sussie](/zestaw/72537/) i [43024 Kask Ayrtona Senny](/zestaw/43024/) — również do 26 listopada.
+
+<h3 id="listopad-bf">Black Friday 27–30.11: trzy gratisy i jedna pułapka w datach <span class="status status--ok">potwierdzone</span></h3>
+
+LEGO otworzyło kartę Black Friday z regulaminami i mamy wreszcie **konkretne progi**, a nie
+doniesienia. Wszystko poniżej pochodzi z lego.com/pl-pl, sprawdzone **26 listopada rano**:
+
+| Gratis (GWP) | Warunek | Okno |
+|---|---|---|
+| [40914 Szafa grająca retro](/zestaw/40914/) (wycena LEGO **124,99 zł**) | zakupy **co najmniej 1070 zł** | **27–29.11** |
+| [40918 Zimowa śnieżna kula](/zestaw/40918/) (wycena LEGO **104,99 zł**) | zakupy **co najmniej 705 zł**; **nie liczy się** zakup [21375 Godzilla](/zestaw/21375/) | **27–29.11** |
+| [40888 Godzilla — logo i ślad](/zestaw/40888/) (wycena LEGO **104,99 zł**) | zakup musi obejmować [21375 Godzilla](/zestaw/21375/) | 27–30.11 |
+
+**Pułapka jest w datach i łatwo się na niej przejechać.** LEGO pisze, że „weekend Black Friday"
+trwa **od 27 do 30 listopada**, czyli do Cyber Monday — ale oba progowe upominki kończą się
+**29 listopada**. W Cyber Monday (30.11) zostaje tylko gratis do Godzilli. Jeśli planujesz
+zamówienie pod gratis, nie przesuwaj go „na poniedziałek, bo i tak trwa Black Friday".
+
+**Druga rzecz, którą trzeba przeczytać dokładnie:** przy 40918 regulamin wyklucza z progu
+**zakup Godzilli**. Kto kupuje tylko ten jeden zestaw za 1699,99 zł, dostanie 40888, ale
+**nie** śnieżnej kuli — mimo że kwota próg przebija ponad dwukrotnie. Do kuli trzeba 705 zł
+w **innych** produktach.
+
+**Trzecia: te same dwa gratisy już były** — w Weekend Insiders 21–22.11, przy identycznych
+progach 1070 zł i 705 zł. Różnica jest jedna, ale istotna: wówczas regulamin wymagał
+członkostwa w Insiders („Wymagane jest uczestnictwo w programie LEGO Insiders"), a
+w regulaminach Black Friday tego warunku **nie ma**. Jeśli ktoś odpuścił weekend, bo nie jest
+w programie, teraz ten sam upominek jest dostępny bez konta — na podstawie regulaminu
+sprawdzonego dziś.
+
+**Czego na tej stronie nie ma:** listy przecenionych zestawów ani wysokości rabatów. Jest też
+drobna niezgodność u samego LEGO — w opisie strony (metadanych) stoi „W tym roku Black Friday
+przypada na 29 listopada", a w treści i regulaminach **27 listopada**. Trzymamy się regulaminów.
 
 <h3 id="allegro-black-weeks">Allegro Black Weeks <span class="status status--maybe">przewidywane</span></h3>
 

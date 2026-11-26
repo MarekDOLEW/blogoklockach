@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-25",
-    "przebieg": "scheduled 2026-11-25 08:00",
+    "ostatnia_aktualizacja": "2026-11-26",
+    "przebieg": "scheduled 2026-11-26 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 438,
+    "liczba_wpisow": 443,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-25 (Radar): BRICKLINK WROCIL 24.11 po pieciu dniach - sprawdzone u zrodla: strona glowna dziala (katalog, sklepy, feedback), a centrum pomocy mowi 'Our teams have completed the work needed to restore the site on 24th November 2026' oraz, na pytanie o dane, 'No - ... no passwords, payment information, bank account information, national identification information, or other sensitive data were accessed'. Nasz tekst zmienil tytul trzeci raz w cztery dni (zapowiedz wtorku -> wycofanie terminu -> powrot) - slug zostaje. W kalendarzu NIE zdjalem notki, tylko przepisalem ja na TRWALA, zgodnie z wlasnym wnioskiem z 20.11: zamiast dopisywac i kasowac ja co tydzien, #bldp mowi teraz, ze serwis mial w listopadzie dwie przerwy (5-12.11 i 19-24.11) i ze przy przedsprzedazy BLDP trzeba zakladac chwilowa niedostepnosc kanalu. NIE SPRAWDZONO: banner BrickLinka zapowiada powrot Designer Program ('New opportunity to support fan designers from LEGO Ideas'), ale strona newsa jest zamknieta bez logowania - tresci nie znam, wiec nic o tym nie pisze. DRUGA RZECZ: faniklockow.pl dwa razy zwrocil pusta liste linkow (format links, raz z onlyMainContent, raz bez) - dzisiejszych publikacji tego serwisu NIE SPRAWDZONO; fanklockow bez nowosci."
+    "obserwacje_biezace": "2026-11-26 (Radar): KARTA BLACK FRIDAY NA LEGO.COM MA JUZ REGULAMINY - sprawdzone dzis rano. Trzy gratisy: 40914 od 1070 zl i 40918 od 705 zl w dniach 27-29.11 (NIE do Cyber Monday) oraz 40888 do zakupu obejmujacego 21375 Godzilla, 27-30.11. Trzy szczegoly, ktore zmieniaja rachunek: (1) oba progowe gratisy koncza sie 29.11, choc LEGO nazywa caly okres 27-30.11 'weekendem Black Friday' - przesuniecie zamowienia na Cyber Monday zabiera gratis; (2) regulamin 40918 wyklucza z progu zakup Godzilli, wiec sam zestaw za 1699,99 zl daje 40888, ale nie kule; (3) w regulaminach BF NIE MA warunku czlonkostwa w Insiders, ktory stal przy tych samych gratisach 21-22.11 - kto odpuscil weekend, bo nie jest w programie, dostanie ten sam upominek teraz. Kalendarz: nowa sekcja #listopad-bf, Black Friday przestawiony z 'przewidywane' na 'potwierdzone'. Zaktualizowany tez tekst z 10.11, ktory mial 'warunki nieznane' - teraz z blokiem aktualizacji i progami. Drobiazg u zrodla: metadane karty BF mowia 'Black Friday przypada na 29 listopada', a tresc i regulaminy 27 listopada - trzymamy sie regulaminow. Konkurencja: fanklockow wypuscil dzis wlasny poradnik BF/CM (tresci nie czytalem), faniklockow drugi prezentownik progowy w trzy dni (200-500 zl po 'do 200 zl')."
   },
   "publikacje": [
     {
@@ -5184,6 +5184,65 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Centrum pomocy BrickLinka (zaktualizowane 24.11 10:16): 'Our teams have completed the work needed to restore the site on 24th November 2026'. Na pytanie o dane: 'No - Our investigation found that no passwords, payment information, bank account information, national identification information, or other sensitive data were accessed as a result of this activity' - czyli inaczej niz po przerwie 5-12.11, gdzie potwierdzono dostep do nazw uzytkownikow, adresow IP i bardzo niewielkiej liczby adresow e-mail. Trzy fakty operacyjne: wszystkie sklepy otwarto automatycznie (konfiguracja nie pozwalala zostawic ich zamknietych), moga przyjsc zalegle automatyczne maile z czasu przerwy, serwis ostrzega przed podszywaniem sie. Opłaty sprzedawcow umorzone za listopad i grudzien - ale to zapis z sekcji o przerwie 5.11, nie z tej. NIE SPRAWDZONO: banner na stronie glownej zapowiada 'The return of the Designer Program: New opportunity to support fan designers from LEGO Ideas', ale strona newsa jest niedostepna bez logowania (error 2002) - tresci nie potwierdzilem."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Poradnik LEGO.pl: Black Friday i Cyberponiedzialek 2026",
+      "url": "https://fanklockow.pl/poradnik-lego-pl-black-friday-cyberponiedzialek-2026/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-26",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Ich poradnik BF/CM na LEGO.pl, opublikowany tego samego dnia co nasza sekcja #listopad-bf. Nasza przewaga jest w trzech szczegolach, ktore wzielismy z regulaminow karty BF (sprawdzone 26.11 rano): (1) oba progowe gratisy, 40914 od 1070 zl i 40918 od 705 zl, koncza sie 29.11, a nie w Cyber Monday 30.11; (2) regulamin 40918 WYKLUCZA z progu zakup 21375 Godzilli, wiec kupujacy sam zestaw za 1699,99 zl dostanie 40888, ale nie kule; (3) w regulaminach BF NIE MA warunku czlonkostwa w Insiders, ktory obowiazywal przy tych samych gratisach 21-22.11. Tresci ich poradnika nie czytalem - nie sprawdzono, czy maja te trzy punkty."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO na prezent od 200 do 500 zl - co kupic pod choinke w 2026 roku?",
+      "url": "https://faniklockow.pl/2026/11/24/lego-na-prezent-od-200-do-500-zl-co-kupic-pod-choinke-w-2026-roku/",
+      "data_publikacji": "2026-11-24",
+      "data_wykrycia": "2026-11-26",
+      "typ": "poradnik",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Drugi prezentownik progowy w trzy dni (po 'do 200 zl' z 23.11) - serwis buduje pelna drabine progow prezentowych. U nas /prezentowniki/wedlug-budzetu ma 'do 100 zl', '150-250 zl' i 'do 600 zl', czyli przedzial 200-500 zl rozpada sie na dwa nasze progi, z ktorych zaden nie odpowiada tej frazie. To wzmacnia punkt zgloszony 24.11 do decyzji Marka: progi prezentowe warto przepisac pod rzeczywiste zapytania (do 50 zl, do 100 zl, do 200 zl, 200-500 zl), a nie pod nasz dotychczasowy podzial."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi LEGO Harry Potter na 2027 rok",
+      "url": "https://faniklockow.pl/2026/11/25/zapowiedzi-lego-harry-potter-na-2027-rok/",
+      "data_publikacji": "2026-11-25",
+      "data_wykrycia": "2026-11-26",
+      "typ": "premiera",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejna czesc ich serii zapowiedzi rocznika 2027 (po Star Wars, Minifigures, Creator, Marvel). Nasza strona /zapowiedzi-lego-2027/ istnieje, ale wisi na niej od 07.11 punkt o brakujacych pozycjach (Botanicals, Seasonal, 42254, 11227, 71888) - nie sprawdzalem dzis, czy Harry Potter 2027 jest u nas kompletny."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Marvel na 2027 rok",
+      "url": "https://faniklockow.pl/2026/11/24/zapowiedzi-serii-lego-marvel-na-2027-rok/",
+      "data_publikacji": "2026-11-24",
+      "data_wykrycia": "2026-11-26",
+      "typ": "premiera",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Jak wyzej - czesc serii zapowiedzi 2027. Tego samego dnia fanklockow wypuscil wlasna wersje Marvela 2027, czyli oba serwisy pracuja na tym samym wycieku."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: BrickHeadz",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-brickheadz/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-26",
+      "typ": "premiera",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejna seria z ich cyklu zapowiedzi 2027 (BrickHeadz). Bez wplywu na ruch zakupowy w tym tygodniu."
     }
   ],
   "obserwacje_strategiczne": {

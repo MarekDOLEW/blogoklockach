@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-26 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 26.11** — Karta Black Friday ma już **regulaminy**: gratis **40914 od 1070 zł** i **40918 od 705 zł** w dniach **27–29.11** (nie do Cyber Monday), plus **40888** do zakupu obejmującego [21375 Godzilla](/zestaw/21375/), 27–30.11.
+**Mamy?** — tak, od dziś: nowa sekcja `#listopad-bf` z tabelą i trzema pułapkami; Black Friday przestawiony z „przewidywane" na „potwierdzone"; tekst z 10.11, który miał „warunki nieznane", dostał blok aktualizacji z progami.
+**Zrobić:** — zrobione. Trzy rzeczy warte powtórzenia w krótkich formach: progowe gratisy kończą się **29.11**, regulamin 40918 **wyklucza z progu zakup Godzilli**, a w regulaminach BF **nie ma wymogu Insiders**, który obowiązywał przy tych samych gratisach 21–22.11.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 24–26.11** — Drugi prezentownik progowy w trzy dni: po „do 200 zł" wyszedł **„od 200 do 500 zł"**. Serwis buduje pełną drabinę prógów prezentowych.
+**Mamy?** — częściowo i nie pod te frazy: w `/prezentowniki/wedlug-budzetu/` mamy „do 100 zł", „150–250 zł" i „do 600 zł", więc przedział 200–500 zł rozpada się na dwa nasze progi, a żaden nie odpowiada temu zapytaniu.
+**Zrobić:** — to wzmacnia punkt z 24.11: przepisać progi pod rzeczywiste zapytania (do 50 zł, do 100 zł, do 200 zł, 200–500 zł) zamiast trzymać dotychczasowego podziału. Decyzja nadal po stronie Marka — teraz z drugim dowodem, że konkurencja celuje w te frazy.
+**Kto:** — Marek (decyzja)
+
+**fanklockow.pl · 26.11** — Opublikowali własny **poradnik Black Friday i Cyber Monday na LEGO.pl**, tego samego dnia co nasza sekcja.
+**Mamy?** — tak: `#listopad-bf` z regulaminami u źródła. Treści ich poradnika **nie czytałem** — nie wiem, czy mają te trzy pułapki w datach i progach.
+**Zrobić:** — nic dzisiaj; w poniedziałkowym przebiegu porównać ich poradnik z naszą sekcją i sprawdzić, czy czegoś u nas nie brakuje (to jest ich mocny format — „megaporadniki" wracają przy każdej akcji).
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-25 14:55 · SKRZYNKA · Zrobione
 
 **GitHub (tylkoklocki-teksty) → opublikowane (619c46e):** 0060 [LEGO Harry Potter według serialu HBO — cztery zestawy od 1 stycznia 2027](/artykuly/lego-harry-potter-wedlug-serialu-hbo-cztery-zestawy-od-1-stycznia-2027/), recenzja 026 [60480 Żółta koparko-ładowarka](/artykuly/lego-60480-zolta-koparko-ladowarka-recenzja/) (bez zdjęć Piotra) oraz nowa wersja 0059 — Piotr przepisał tekst na „BrickLink znów działa” (powrót 24.11).

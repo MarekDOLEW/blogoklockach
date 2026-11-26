@@ -6,6 +6,7 @@ seo_tytul: "Weekend LEGO Insiders i Black Friday 2026 na LEGO.pl"
 data: "2026-11-10"
 kategoria: "Kalendarze"
 wazne_do: "2026-11-30"
+zaktualizowano: "2026-11-26"
 okladka: "21375"
 zestawy: ["21375", "40888"]
 ---
@@ -19,7 +20,7 @@ LEGO potwierdziło terminy dwóch największych listopadowych akcji w swoim skle
 | do 15 listopada | upominki 30720 i 40906, podwójne punkty za 11386 | wszyscy / Insiders | warunki na LEGO.pl |
 | do 20 listopada | upominek 40898 przy zakupie 11388 | wszyscy, tylko online | warunki na LEGO.pl |
 | 21–22 listopada | Weekend LEGO Insiders | tylko członkowie programu | termin potwierdzony, warunki nieznane |
-| 27–29 listopada | Black Friday | wszyscy | termin potwierdzony, warunki nieznane |
+| 27–29 listopada | Black Friday: gratisy 40914 (od 1070 zł) i 40918 (od 705 zł) | wszyscy | **potwierdzone regulaminami 26.11**, bez wymogu Insiders |
 | 27–30 listopada | 21375 Godzilla z upominkiem 40888 | wszyscy | potwierdzone przez LEGO |
 | 30 listopada | Cyber Monday | wszyscy | termin potwierdzony, warunki nieznane |
 
@@ -41,7 +42,9 @@ Według komunikatu LEGO osoby, które kupią Godzillę w dniach 27–30 listopad
 
 Zgodne informacje z kilku źródeł w społeczności fanów LEGO wskazują dwa upominki przy zakupach w obu terminach – w czasie Weekendu Insiders i ponownie w Black Friday: 40914 Szafa grająca retro (287 elementów) oraz zestaw 40918, którego nazwy jeszcze nie znamy. Między weekendami, w dniach 23–26 listopada, ma się pojawić gadżet 5011174. Według tych samych doniesień członkowie Insiders mają dostać 21–22 listopada podwójne punkty za wszystkie zakupy, a od 21 do 26 listopada potrwa wyprzedaż – głównie zestawów, które znikają z oferty.
 
-Progi kwotowe tych upominków są na razie niepewne: różne źródła podają kwoty od około 600 do około 1000 zł i nie zgadzają się nawet co do tego, który gratis wymaga większego koszyka. Dlatego ich nie podajemy. Dla orientacji: w 2025 roku LEGO.pl przyznawało w tym okresie upominki przy zakupach od 165 zł, 705 zł i 1070 zł, a Weekend Insiders przyniósł podwójne punkty i rabaty rzędu 20–30% na wybrane zestawy.
+**Aktualizacja z 26 listopada: progi są już potwierdzone regulaminami.** LEGO opublikowało kartę Black Friday i wynika z niej, że w dniach **27–29 listopada** (a nie do Cyber Monday) obowiązują dwa upominki progowe: **40914 Szafa grająca retro przy zakupach od 1070 zł** i **40918 Zimowa śnieżna kula przy zakupach od 705 zł**, oba wycenione przez LEGO na 124,99 i 104,99 zł. Regulamin 40918 **wyklucza z progu zakup Godzilli**, a gratis 40888 do Godzilli działa przez cały tydzień, **27–30 listopada**. W przeciwieństwie do Weekendu Insiders te dwa upominki **nie wymagają członkostwa w Insiders** — w regulaminach Black Friday takiego warunku nie ma. Wszystkie okna i warunki zbieramy w [kalendarzu promocji](/kalendarz-promocji-lego/#listopad-bf).
+
+Zdanie poniżej zostawiamy jako zapis tego, co wiedzieliśmy 10 listopada. Progi kwotowe tych upominków były wówczas niepewne: różne źródła podawały kwoty od około 600 do około 1000 zł i nie zgadzały się nawet co do tego, który gratis wymaga większego koszyka. Dlatego ich nie podawaliśmy. Dla orientacji: w 2025 roku LEGO.pl przyznawało w tym okresie upominki przy zakupach od 165 zł, 705 zł i 1070 zł, a Weekend Insiders przyniósł podwójne punkty i rabaty rzędu 20–30% na wybrane zestawy.
 
 ## Jak się przygotować
 
