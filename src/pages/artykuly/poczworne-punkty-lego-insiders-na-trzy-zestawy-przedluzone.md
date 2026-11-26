@@ -4,6 +4,7 @@ title: "Poczwórne punkty LEGO Insiders na trzy zestawy przedłużone do 30 list
 opis: "LEGO.pl przedłużyło do 30 listopada poczwórne punkty Insiders na Bikini Dolne, Kask Ayrton Senna oraz Tygrysa Derpy'ego i Srokę Sussie."
 seo_tytul: "Poczwórne punkty LEGO Insiders do 30 listopada"
 data: "2026-11-26"
+zaktualizowano: "2026-11-26"
 kategoria: "Aktualności"
 wazne_do: "2026-11-30"
 okladka: "11386"
@@ -16,6 +17,9 @@ LEGO wydłużyło promocję z poczwórnymi punktami LEGO Insiders na trzy zestaw
 
 Poczwórne punkty naliczane są wyłącznie przy zakupie trzech zestawów. Najdroższy z nich to LEGO Icons 11386 SpongeBob Kanciastoporty: Bikini Dolne w cenie katalogowej 899,99 zł. Do tego dochodzą LEGO Editions 43024 Kask Ayrton Senna za 379,99 zł oraz LEGO KPop Demon Hunters 72537 Tygrys Derpy i Sroka Sussie za 299,99 zł.
 
+![LEGO Icons 11386 SpongeBob Kanciastoporty: Bikini Dolne](/zdjecia/artykuly/poczworne-punkty-lego-insiders-na-trzy-zestawy-przedluzone/1.webp)
+![LEGO Editions 43024 Kask Ayrton Senna](/zdjecia/artykuly/poczworne-punkty-lego-insiders-na-trzy-zestawy-przedluzone/2.webp)
+![LEGO KPop Demon Hunters 72537 Tygrys Derpy i Sroka Sussie](/zdjecia/artykuly/poczworne-punkty-lego-insiders-na-trzy-zestawy-przedluzone/3.webp)
 [sprawdź aktualne ceny LEGO 11386](/zestaw/11386/)
 
 [sprawdź aktualne ceny LEGO 43024](/zestaw/43024/)
@@ -33,3 +37,5 @@ Oferty nie można łączyć z inną ofertą programu LEGO Insiders, zniżką ani
 Poczwórne punkty na te trzy zestawy dołączono do oferty 22 listopada, w ostatnim dniu Weekendu LEGO Insiders, a pierwotnie miały obowiązywać do 26 listopada. Inne promocje z tego okresu – ceny Insiders na wybrane zestawy i poczwórne punkty na pozostałe zestawy z listy – kończą się 26 listopada, natomiast oferta na Bikini Dolne, kask Ayrtona Senny i zestaw z Tygrysem Derpym potrwa o cztery dni dłużej.
 
 [zobacz kategorię LEGO Icons](/serie/icons/)
+
+Zdjęcia: © The LEGO Group.
