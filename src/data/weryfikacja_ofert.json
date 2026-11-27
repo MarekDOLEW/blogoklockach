@@ -3,13 +3,13 @@
   "opis": "Wyniki sprawdzenia kart produktów (scripts/weryfikacja-ofert.mjs, Firecrawl 1 kredyt na kartę) dla ofert sklepów z cenami tygodniowymi (Empik, x-kom, Ceneo, LEGO.com, Smyk, Lidl, MediaMarkt). Klucz „<numer>|<sklep>”, wpis nadpisywany przy każdym sprawdzeniu — klucze się nie kasują. Czyta src/lib/weryfikacja.js: do slajderów i „Dziś w dobrej cenie” wchodzi oferta takiego sklepu tylko ze statusem ok/zmiana, sprawdzona dziś albo wczoraj, z tą samą ceną. Decyzja Marka 26.10.2026.",
   "statusy": "ok = cena na karcie jak w danych (±1%); zmiana = inna cena na karcie, dane poprawione na nią; niedostepne = karta mówi, że brak w magazynie; nieodczytane = karta bez ceny albo błąd pobrania; brak_linku = nie znamy adresu karty",
   "ostatni_przebieg": {
-   "czas": "2026-11-26 08:17",
+   "czas": "2026-11-27 08:17",
    "sprawdzono": 40,
-   "kredyty": 57,
+   "kredyty": 54,
    "wyniki": {
-    "zmiana": 2,
-    "ok": 31,
-    "nieodczytane": 7
+    "ok": 30,
+    "nieodczytane": 1,
+    "zmiana": 9
    }
   }
  },
@@ -24,8 +24,8 @@
   },
   "60339|empik": {
    "cena": 348.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 349
   },
@@ -59,8 +59,8 @@
   },
   "76437|xkom": {
    "cena": 999.9,
-   "sprawdzono": "2026-11-25",
-   "czas": "2026-11-25 08:18",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 999.9
   },
@@ -74,8 +74,8 @@
   },
   "42211|lego": {
    "cena": 263.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 263.99
   },
@@ -89,8 +89,8 @@
   },
   "80118|lego": {
    "cena": 203.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 203.99
   },
@@ -102,8 +102,8 @@
   },
   "60339|xkom": {
    "cena": 423.9,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 423.9
   },
@@ -169,8 +169,8 @@
   },
   "75408|empik": {
    "cena": 199.95,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 199.95
   },
@@ -190,11 +190,12 @@
    "cena_strony": 34.99
   },
   "60504|empik": {
-   "cena": 299.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "ok",
-   "cena_strony": 299.99
+   "cena": 359.6,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 299.99,
+   "cena_strony": 359.6
   },
   "72038|lego": {
    "cena": 125.99,
@@ -229,8 +230,8 @@
   },
   "40709|empik": {
    "cena": 29.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 29.99
   },
@@ -309,10 +310,12 @@
    "cena_strony": 67.99
   },
   "10480|empik": {
-   "cena": 216.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "nieodczytane"
+   "cena": 261.59,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 216.99,
+   "cena_strony": 261.59
   },
   "42688|smyk": {
    "cena": 229,
@@ -338,9 +341,10 @@
   },
   "71872|empik": {
    "cena": 548.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "nieodczytane"
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "ok",
+   "cena_strony": 548.98
   },
   "10348|empik": {
    "cena": 171.14,
@@ -417,8 +421,8 @@
   },
   "75689|empik": {
    "cena": 196.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 196.99
   },
@@ -498,8 +502,8 @@
   },
   "71514|empik": {
    "cena": 262.99,
-   "sprawdzono": "2026-11-25",
-   "czas": "2026-11-25 08:18",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 262.99
   },
@@ -634,14 +638,15 @@
   },
   "60442|empik": {
    "cena": 29.96,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "nieodczytane"
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "ok",
+   "cena_strony": 29.96
   },
   "40814|empik": {
    "cena": 68.97,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 68.99
   },
@@ -654,12 +659,11 @@
    "cena_strony": 249.99
   },
   "10427|empik": {
-   "cena": 239.99,
-   "sprawdzono": "2026-11-24",
-   "czas": "2026-11-24 08:17",
-   "status": "zmiana",
-   "cena_danych": 221.99,
-   "cena_strony": 239.99
+   "cena": 221.99,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "ok",
+   "cena_strony": 221.99
   },
   "42678|empik": {
    "cena": 59.99,
@@ -730,12 +734,12 @@
    "cena_strony": 319.99
   },
   "77076|empik": {
-   "cena": 148.99,
-   "sprawdzono": "2026-11-22",
-   "czas": "2026-11-22 08:18",
+   "cena": 134.95,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "zmiana",
-   "cena_danych": 129.98,
-   "cena_strony": 148.99
+   "cena_danych": 146.99,
+   "cena_strony": 134.95
   },
   "75443|empik": {
    "cena": 49.98,
@@ -760,8 +764,8 @@
   },
   "21596|empik": {
    "cena": 239.99,
-   "sprawdzono": "2026-11-25",
-   "czas": "2026-11-25 08:18",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 239.99
   },
@@ -977,10 +981,12 @@
    "cena_strony": 256.96
   },
   "11509|empik": {
-   "cena": 74.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "nieodczytane"
+   "cena": 94.99,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 74.98,
+   "cena_strony": 94.99
   },
   "21356|xkom": {
    "cena": 1159.9,
@@ -1135,8 +1141,8 @@
   },
   "40825|empik": {
    "cena": 88.97,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 88.97
   },
@@ -1180,8 +1186,8 @@
   },
   "42692|empik": {
    "cena": 24.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 24.98
   },
@@ -1510,43 +1516,44 @@
   },
   "10463|empik": {
    "cena": 45.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 45.99
   },
   "43282|empik": {
    "cena": 44.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 44.99
   },
   "21370|empik": {
    "cena": 357.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 357.99
   },
   "31390|empik": {
    "cena": 72.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 72.99
   },
   "72165|empik": {
-   "cena": 219.99,
-   "sprawdzono": "2026-11-23",
-   "czas": "2026-11-23 08:18",
-   "status": "ok",
-   "cena_strony": 219.99
+   "cena": 263.79,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 219.99,
+   "cena_strony": 263.79
   },
   "21592|empik": {
    "cena": 61.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 61.99
   },
@@ -1567,8 +1574,8 @@
   },
   "10313|empik": {
    "cena": 148.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 148.99
   },
@@ -1602,9 +1609,10 @@
   },
   "42182|empik": {
    "cena": 585.97,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "nieodczytane"
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "ok",
+   "cena_strony": 585.97
   },
   "21367|empik": {
    "cena": 455.99,
@@ -1622,8 +1630,8 @@
   },
   "72166|empik": {
    "cena": 232.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 232.99
   },
@@ -1637,17 +1645,18 @@
   },
   "77056|empik": {
    "cena": 209.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 209.99
   },
   "60469|empik": {
-   "cena": 239.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
-   "status": "ok",
-   "cena_strony": 239.99
+   "cena": 294.99,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 239.99,
+   "cena_strony": 294.99
   },
   "31214|xkom": {
    "cena": 269.9,
@@ -1665,11 +1674,12 @@
    "cena_strony": 99.95
   },
   "10428|empik": {
-   "cena": 387.99,
-   "sprawdzono": "2026-11-23",
-   "czas": "2026-11-23 08:18",
-   "status": "ok",
-   "cena_strony": 387.99
+   "cena": 444.99,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 387.99,
+   "cena_strony": 444.99
   },
   "21597|empik": {
    "cena": 278.99,
@@ -1712,16 +1722,16 @@
   },
   "60505|mediamarkt": {
    "cena": 169.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "nieodczytane"
   },
   "76452|empik": {
    "cena": 314.77,
-   "sprawdzono": "2026-11-24",
-   "czas": "2026-11-24 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "zmiana",
-   "cena_danych": 269.98,
+   "cena_danych": 269.96,
    "cena_strony": 314.77
   },
   "21367|smyk": {
@@ -1762,8 +1772,8 @@
   },
   "71853|empik": {
    "cena": 44.98,
-   "sprawdzono": "2026-11-25",
-   "czas": "2026-11-25 08:18",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 44.99
   },
@@ -1783,8 +1793,8 @@
   },
   "60485|empik": {
    "cena": 24.98,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 24.98
   },
@@ -1797,24 +1807,32 @@
   },
   "43221|empik": {
    "cena": 138.87,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 137.54
   },
   "71867|empik": {
    "cena": 214.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 214.99
   },
   "11217|empik": {
    "cena": 179.99,
-   "sprawdzono": "2026-11-26",
-   "czas": "2026-11-26 08:17",
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
    "status": "ok",
    "cena_strony": 179.99
+  },
+  "42207|xkom": {
+   "cena": 749.9,
+   "sprawdzono": "2026-11-27",
+   "czas": "2026-11-27 08:17",
+   "status": "zmiana",
+   "cena_danych": 649,
+   "cena_strony": 749.9
   }
  }
 }
