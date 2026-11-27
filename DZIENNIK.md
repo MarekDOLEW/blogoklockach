@@ -168,6 +168,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-27 08:55 · SKRZYNKA · Zrobione
+
+**GitHub (tylkoklocki-teksty) → opublikowane (6d147d5):** 0063 [LEGO Fortnite 77084 P-1000 i 77088 Guaco's Tacos](/artykuly/lego-fortnite-77084-p-1000-i-77088-guacos-tacos-oficjalnie-dwa-zestawy/) (3 zdjęcia).
+**Kto:** — Code (automat skrzynki)
+
 ## 2026-11-27 08:20 · RADAR · Do zrobienia
 
 **lego.com/pl-pl · 27.11** — W dniu Black Friday karta pokazuje rabaty **20–50%**, a w regulaminach pojawiła się **czwarta akcja**: poczwórne punkty Insiders na 77984, 72154, 43031, 43026 i 77082 (27–30.11, **wymagane Insiders**, inaczej niż przy gratisach).
