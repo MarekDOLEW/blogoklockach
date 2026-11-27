@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-27 05:15 · SCOUT · Do zrobienia
+
+**LEGO wystawiło w Centrum Nagród Insiders nową świąteczną nagrodę 5010881 Warsztat Mikołaja — 135 elementów, dwie minifigurki, do wymiany za 2400 punktów od 27 listopada 2026 (LEGO wycenia ją na 16 euro).**
+**Mamy?** — częściowo: zestaw jest od dziś w `sety.json` z polem `bez_rrp` i ma hub `/zestaw/5010881/`, ale `grep -c "5010881" src/pages/kalendarz-promocji-lego.md` daje dziś 0. Kalendarz wspomina Centrum Nagród tylko przy bombkach z Harrym Potterem za 1700 punktów.
+**Zrobić:** — dopisać 5010881 do `kalendarz-promocji-lego.md` tam, gdzie stoją nagrody punktowe (akapit o Centrum Nagród i wiersz „Co trwa teraz"): 2400 punktów, od 27.11.2026, z linkiem do huba i zastrzeżeniem, że nagrody schodzą po wyczerpaniu zapasu, a nie w ustalonym terminie.
+**Kto:** — Code (dane, strona)
+
 ## 2026-11-26 09:05 · SKRZYNKA · Zrobione
 
 **GitHub (tylkoklocki-teksty) → opublikowane (8afc246, 968f06b):** nowe 0061 [Poczwórne punkty LEGO Insiders przedłużone do 30.11](/artykuly/poczworne-punkty-lego-insiders-na-trzy-zestawy-przedluzone/) (3 zdjęcia) i 0062 [LEGO Marvel 67023 Jeff the Land Shark](/artykuly/lego-marvel-67023-jeff-the-land-shark-oficjalnie-pierwszy-zestaw-z-gry/) (4 zdjęcia); poprawki z dołożonymi zdjęciami: 0060 [Harry Potter według serialu HBO](/artykuly/lego-harry-potter-wedlug-serialu-hbo-cztery-zestawy-od-1-stycznia-2027/) (3) i recenzja 026 [60480](/artykuly/lego-60480-zolta-koparko-ladowarka-recenzja/) (5).
