@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-27 08:20 · RADAR · Do zrobienia
+
+**lego.com/pl-pl · 27.11** — W dniu Black Friday karta pokazuje rabaty **20–50%**, a w regulaminach pojawiła się **czwarta akcja**: poczwórne punkty Insiders na 77984, 72154, 43031, 43026 i 77082 (27–30.11, **wymagane Insiders**, inaczej niż przy gratisach).
+**Mamy?** — tak: sekcja `#listopad-bf` uzupełniona, okna 23–26.11 i 21–26.11 przestawione na zamknięte, Black Friday na „trwa".
+**Zrobić:** — zrobione, a najważniejsze ustalenie dnia zapisałem w kalendarzu wprost: **pod każdą przeceną najniższa cena z 30 dni przed obniżką jest równa cenie promocyjnej**, czyli te same ceny były już w wyprzedaży Insiders 21–26.11 — rabat wobec cennika jest prawdziwy, ale **nie jest nowym minimum**. To dokładnie ten typ pseudopromocji, który obiecaliśmy rozbierać.
+**Kto:** — Code (dane, strona)
+
+**faniklockow.pl · 26.11** — Opublikowali przegląd **Black Weeks na Amazonie**.
+**Mamy?** — **nie**: Amazona nie mamy w ogóle — ani w mapach linków, ani w tabelach cen na podstronach zestawów. W szczycie sezonu nie pokazujemy czytelnikowi jednego z dużych sklepów.
+**Zrobić:** — sprawdzić w `src/data/afiliacje_rejestr.json` i u źródła, czy Amazon ma dla nas dostępny program partnerski, i zdecydować, czy dodajemy go przed grudniem. Decyzja po stronie Marka, przygotowanie danych po mojej.
+**Kto:** — Marek (decyzja)
+
+**lego.com/pl-pl · 27.11 (kontrola naszych danych)** — Dzisiejsza cena [75192](/zestaw/75192/) na LEGO.com (−30% od cennika) jest **niższa niż obie nasze świeże oferty zewnętrzne** z feedu: allegro z 26.11 i x-kom z 25.11.
+**Mamy?** — częściowo: tabela huba pokaże to po dzisiejszym odświeżeniu LEGO.pl, więc do tego czasu czytelnik widzi nieaktualny obraz.
+**Zrobić:** — potwierdzić w jutrzejszym przebiegu, że odświeżenie weszło, a jeśli nie — uruchomić odświeżenie LEGO.pl ręcznie; przy BF to jedyny dzień w roku, kiedy sklep LEGO bywa najtańszym źródłem i tabela musi to pokazać od razu.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-27 05:15 · SCOUT · Do zrobienia
 
 **LEGO wystawiło w Centrum Nagród Insiders nową świąteczną nagrodę 5010881 Warsztat Mikołaja — 135 elementów, dwie minifigurki, do wymiany za 2400 punktów od 27 listopada 2026 (LEGO wycenia ją na 16 euro).**

@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-26",
-    "przebieg": "scheduled 2026-11-26 08:00",
+    "ostatnia_aktualizacja": "2026-11-27",
+    "przebieg": "scheduled 2026-11-27 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 443,
+    "liczba_wpisow": 447,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-26 (Radar): KARTA BLACK FRIDAY NA LEGO.COM MA JUZ REGULAMINY - sprawdzone dzis rano. Trzy gratisy: 40914 od 1070 zl i 40918 od 705 zl w dniach 27-29.11 (NIE do Cyber Monday) oraz 40888 do zakupu obejmujacego 21375 Godzilla, 27-30.11. Trzy szczegoly, ktore zmieniaja rachunek: (1) oba progowe gratisy koncza sie 29.11, choc LEGO nazywa caly okres 27-30.11 'weekendem Black Friday' - przesuniecie zamowienia na Cyber Monday zabiera gratis; (2) regulamin 40918 wyklucza z progu zakup Godzilli, wiec sam zestaw za 1699,99 zl daje 40888, ale nie kule; (3) w regulaminach BF NIE MA warunku czlonkostwa w Insiders, ktory stal przy tych samych gratisach 21-22.11 - kto odpuscil weekend, bo nie jest w programie, dostanie ten sam upominek teraz. Kalendarz: nowa sekcja #listopad-bf, Black Friday przestawiony z 'przewidywane' na 'potwierdzone'. Zaktualizowany tez tekst z 10.11, ktory mial 'warunki nieznane' - teraz z blokiem aktualizacji i progami. Drobiazg u zrodla: metadane karty BF mowia 'Black Friday przypada na 29 listopada', a tresc i regulaminy 27 listopada - trzymamy sie regulaminow. Konkurencja: fanklockow wypuscil dzis wlasny poradnik BF/CM (tresci nie czytalem), faniklockow drugi prezentownik progowy w trzy dni (200-500 zl po 'do 200 zl')."
+    "obserwacje_biezace": "2026-11-27 (Radar, dzien Black Friday): karta BF na lego.com/pl-pl pokazuje od dzis rabaty 20-50% (m.in. 30% na 75192) oraz CZWARTA akcje, ktorej wczoraj w regulaminach nie bylo: poczworne punkty Insiders na 77984, 72154, 43031, 43026, 77082 w dniach 27-30.11, z wymogiem czlonkostwa. NAJWAZNIEJSZE USTALENIE: pod kazda przecena LEGO podaje najnizsza cene z 30 dni przed obnizka i w dzisiejszym odczycie ta kwota JEST ROWNA cenie promocyjnej przy kazdym sprawdzonym zestawie - czyli te same ceny byly juz dostepne w ostatnich 30 dniach (najpewniej w wyprzedazy Insiders 21-26.11). Rabat wobec cennika jest prawdziwy, ale nie jest nowym minimum; w kalendarzu napisalem to wprost, bo to dokladnie ten typ pseudopromocji, ktory obiecalismy czytelnikowi rozbierac. Kontrola wlasnych danych: 75192 mamy w feedzie jako allegro 2975,12 (26.11) i xkom 3199 (25.11), a dzisiejsza cena LEGO.com 2519,99 jest nizsza od obu - czyli dzis sklep LEGO jest najtanszym zrodlem tego zestawu i tabela huba to pokaze po dzisiejszym odswiezeniu. LUKA: faniklockow opisal Black Weeks na AMAZONIE, ktorego nie mamy w ogole (brak w mapach linkow i w tabelach cen) - pytanie do rejestru afiliacji przed grudniem."
   },
   "publikacje": [
     {
@@ -5243,6 +5243,56 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Kolejna seria z ich cyklu zapowiedzi 2027 (BrickHeadz). Bez wplywu na ruch zakupowy w tym tygodniu."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO Black Friday 2026 - promocje, gratisy i najlepsze okazje zakupowe",
+      "url": "https://faniklockow.pl/2026/11/26/lego-black-friday-2026-promocje-gratisy-i-najlepsze-okazje-zakupowe/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-27",
+      "typ": "promocja",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Ich glowny tekst BF, opublikowany wieczorem przed startem. Nasza przewaga po dzisiejszym odczycie karty BF u zrodla: (1) oba progowe gratisy koncza sie 29.11, nie w Cyber Monday; (2) prog 40918 nie liczy zakupu Godzilli; (3) w regulaminach gratisow BF nie ma wymogu Insiders, ale JEST on przy nowej puli poczwornych punktow (77984, 72154, 43031, 43026, 77082, 27-30.11); (4) najwazniejsze: pod kazda przecena LEGO podaje najnizsza cene z 30 dni przed obnizka ROWNA cenie promocyjnej, czyli te same ceny byly juz w wyprzedazy Insiders 21-26.11 - rabat wobec cennika jest prawdziwy, ale nie jest nowym minimum. Tresci ich tekstu nie czytalem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Black Weeks na Amazonie - najciekawsze promocje na zestawy LEGO",
+      "url": "https://faniklockow.pl/2026/11/26/black-weeks-na-amazonie-najciekawsze-promocje-na-zestawy-lego/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-27",
+      "typ": "promocja",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [
+        "amazon"
+      ],
+      "notatki": "Przeglad promocji LEGO na Amazon.pl. U nas Amazona NIE MA w ogole: nie ma go w mapach linkow ani w tabelach cen na podstronach zestawow, wiec w szczycie sezonu nie pokazujemy czytelnikowi jednego z duzych sklepow. To pytanie do rejestru afiliacji (src/data/afiliacje_rejestr.json) - czy Amazon ma dla nas dostepny program i czy warto go dodac przed grudniem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Okazja cenowa (Art): 21333 Gwiazdzista noc Vincenta van Gogha",
+      "url": "https://faniklockow.pl/2026/11/26/okazja-cenowa-art-21333-gwiazdzista-noc-vincenta-van-gogha-5/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-27",
+      "typ": "promocja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Alert cenowy na 21333 - zestaw EOL, ktory byl tez na ich liscie przeciekow -20% z 20.11. U nas 21333 ma hub z tabela cen, wiec okazja jest widoczna automatycznie; osobnej krotkiej formy nie robimy."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi LEGO BrickHeadz na 2027 rok",
+      "url": "https://faniklockow.pl/2026/11/26/zapowiedzi-lego-brickheadz-na-2027-rok/",
+      "data_publikacji": "2026-11-26",
+      "data_wykrycia": "2026-11-27",
+      "typ": "premiera",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Kolejna czesc serii zapowiedzi 2027; tego samego dnia fanklockow wypuscil swoja wersje BrickHeadz 2027."
     }
   ],
   "obserwacje_strategiczne": {
