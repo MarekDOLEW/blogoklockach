@@ -168,6 +168,24 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-28 08:30 · RADAR · Do zrobienia
+
+**nasze dane · 28.11** — **W weekend Black Friday tabele hubów pokazują ceny LEGO.com z 24 listopada.** Wszystkie 933 oferty `lego` w `sety.json` i w feedzie mają tę jedną datę, bo listing LEGO.pl odświeża się raz w tygodniu (Routine „Dane wt"). Dla [75192](/zestaw/75192/) mamy u siebie 3599,99 zł (cennik), a wczoraj na karcie BF było 2519,99 zł.
+**Mamy?** — nie: przez cztery dni szczytu sezonu czytelnik widzi w tabeli pełną cenę katalogową sklepu, który właśnie przecenia.
+**Zrobić:** — uruchomiłem dziś ręcznie `firecrawl-legopl.mjs` + `lego-ceny.mjs` (skrypty biorą `FIRECRAWL_KEY`, czyli inną ścieżkę niż zablokowany konektor). **Do decyzji na stałe: w tygodniu BF/CM listing LEGO.pl powinien chodzić codziennie, nie raz w tygodniu** — inaczej co roku będziemy mieli ten sam tydzień z nieaktualnymi cenami najważniejszego sklepu.
+**Kto:** — Marek (decyzja), przygotowanie Code
+
+**monitoring · 28.11** — **Konektor Firecrawl zażądał ponownego logowania** (wymaga człowieka), więc dziś nie przeczytałem u źródła **żadnej** strony: konkurencję sprawdziłem tylko wyszukiwarką, a promoklocki.pl pominąłem.
+**Mamy?** — nie dotyczy: to luka w narzędziu, nie w treści. Nie zakładam, że czegoś nie było — zakładam, że nie sprawdziłem.
+**Zrobić:** — zalogować konektor Firecrawl w ustawieniach claude.ai (to jedyne miejsce, gdzie się to robi — sesja nie może tego zrobić sama). Dopóki nie działa, Radar czyta konkurencję tylko wyszukiwarką, czyli z opóźnieniem i bez dostępu do regulaminów LEGO.
+**Kto:** — Marek (decyzja)
+
+**faniklockow.pl · 27.11** — Trzecia listopadowa edycja ich rolujacej **listy gratisów** (01.11, 16.11, 27.11) — za każdym razem jako nowy wpis pod nowym adresem.
+**Mamy?** — tak i lepiej ułożone: u nas jedna strona `/kalendarz-promocji-lego/` ze statusami okien, więc linki i historia nie rozjeżdżają się co dwa tygodnie. Z wyszukiwarki wynika też, że ich edycja z 16.11 miała progi **685 zł i 1000 zł** „do potwierdzenia", czyli odwrotnie niż regulamin (1070 zł dla 40914, 705 zł dla 40918) — my od 21.11 mamy progi z regulaminu.
+**Zrobić:** — nic w treści; przy następnym działającym odczycie sprawdzić jedną rzecz z ich dzisiejszego przeglądu ofert: piszą o rabatach „do 40%" i 160 przecenionych zestawach, a mój wczorajszy odczyt karty BF pokazywał 20–50%.
+**Kto:** — Code (dane, strona)
+
+
 ## 2026-11-28 05:15 · SCOUT · Do zrobienia
 
 **Dla 79 zestawów `wycofania.json` i `sety.json` podają różne nazwy, więc dział Wycofania i hub tego samego zestawu nazywają go inaczej — np. 10370 to „Poinsecja" w wycofaniach i „Botanicals Gwiazda Betlejemska" na hubie, 21349 „Kot w smokingu" wobec „Czarno-biały kot", 75367 „Krążownik typu Venator" wobec „Gwiezdny Niszczyciel typu Venator".**

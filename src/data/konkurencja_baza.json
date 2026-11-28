@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-11-27",
-    "przebieg": "scheduled 2026-11-27 08:00",
+    "ostatnia_aktualizacja": "2026-11-28",
+    "przebieg": "scheduled 2026-11-28 08:00",
     "monitorowane_serwisy": [
       "fanklockow.pl",
       "faniklockow.pl",
@@ -10,9 +10,9 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 447,
+    "liczba_wpisow": 449,
     "dostep": "fanklockow.pl i faniklockow.pl: dziala curl -A '<UA przegladarki>' https://<serwis>/feed/ - RSS to podstawowe i jedyne rzetelne zrodlo ich kadencji (strony glowne pokazuja wycinek). promoklocki.pl i zklockow.pl: curl i WebFetch dostaja 403 (challenge Cloudflare) - to sie nie zmienilo. ALE 03.10.2026 OBA SERWISY WESZLY FIRECRAWLEM: HTTP 200 przez mcp firecrawl_scrape z proxy 'basic' (zklockow.pl strona glowna - lista produktow i pelne menu sekcji; promoklocki.pl - format 'links' daje kategorie i karty produktow za 1 kredyt, format 'json' za 5). Wczesniejszy zapis, ze dla tych dwoch serwisow 'jedynym zrodlem pozostaje WebSearch', JEST NIEPRAWDZIWY i zostal wycofany - WebSearch byl obejsciem z czasow, gdy nie probowalismy Firecrawla. Monitoring strukturalny tych serwisow robimy teraz Firecrawlem. Nadal NIE DZIALAJA (nie powtarzac): WebFetch (403), headless Chromium/Playwright przez proxy sesji (ERR_CONNECTION_RESET).",
-    "obserwacje_biezace": "2026-11-27 (Radar, dzien Black Friday): karta BF na lego.com/pl-pl pokazuje od dzis rabaty 20-50% (m.in. 30% na 75192) oraz CZWARTA akcje, ktorej wczoraj w regulaminach nie bylo: poczworne punkty Insiders na 77984, 72154, 43031, 43026, 77082 w dniach 27-30.11, z wymogiem czlonkostwa. NAJWAZNIEJSZE USTALENIE: pod kazda przecena LEGO podaje najnizsza cene z 30 dni przed obnizka i w dzisiejszym odczycie ta kwota JEST ROWNA cenie promocyjnej przy kazdym sprawdzonym zestawie - czyli te same ceny byly juz dostepne w ostatnich 30 dniach (najpewniej w wyprzedazy Insiders 21-26.11). Rabat wobec cennika jest prawdziwy, ale nie jest nowym minimum; w kalendarzu napisalem to wprost, bo to dokladnie ten typ pseudopromocji, ktory obiecalismy czytelnikowi rozbierac. Kontrola wlasnych danych: 75192 mamy w feedzie jako allegro 2975,12 (26.11) i xkom 3199 (25.11), a dzisiejsza cena LEGO.com 2519,99 jest nizsza od obu - czyli dzis sklep LEGO jest najtanszym zrodlem tego zestawu i tabela huba to pokaze po dzisiejszym odswiezeniu. LUKA: faniklockow opisal Black Weeks na AMAZONIE, ktorego nie mamy w ogole (brak w mapach linkow i w tabelach cen) - pytanie do rejestru afiliacji przed grudniem."
+    "obserwacje_biezace": "2026-11-28 (Radar): PRZEBIEG CZESCIOWO NIESPRAWDZONY - serwer Firecrawl zazadal ponownego logowania (wymaga czlowieka), wiec nie czytalem dzis zadnej strony u zrodla: konkurencje przejrzalem tylko wyszukiwarka, a promoklocki.pl pominalem calkowicie. Co z tego wyszlo: faniklockow wydal 27.11 dwa teksty (trzecia listopadowa edycje rolujacej listy gratisow i zbiorczy przeglad ofert BF), fanklockow nie wydal nowego, tylko zaktualizowal swoj megaporadnik. WAZNIEJSZE - WLASNE DANE: oferty LEGO.com w sety.json i oferty_feed maja date 24.11 (933 pozycje), bo listing LEGO.pl odswieza sie raz w tygodniu w Routine 'Dane wt'. W efekcie przez caly weekend Black Friday tabele hubow pokazuja ceny katalogowe zamiast promocyjnych - dla 75192 u nas 3599,99 (lego, 24.11), a na karcie BF wczoraj 2519,99. Zgodnie z wpisem z 27.11 uruchomilem recznie zaciag listingu (firecrawl-legopl.mjs korzysta z FIRECRAWL_KEY, czyli innej sciezki niz zablokowany konektor) i przeliczenie lego-ceny.mjs."
   },
   "publikacje": [
     {
@@ -5196,7 +5196,7 @@
       "sklepy_linkowane": [
         "lego"
       ],
-      "notatki": "Ich poradnik BF/CM na LEGO.pl, opublikowany tego samego dnia co nasza sekcja #listopad-bf. Nasza przewaga jest w trzech szczegolach, ktore wzielismy z regulaminow karty BF (sprawdzone 26.11 rano): (1) oba progowe gratisy, 40914 od 1070 zl i 40918 od 705 zl, koncza sie 29.11, a nie w Cyber Monday 30.11; (2) regulamin 40918 WYKLUCZA z progu zakup 21375 Godzilli, wiec kupujacy sam zestaw za 1699,99 zl dostanie 40888, ale nie kule; (3) w regulaminach BF NIE MA warunku czlonkostwa w Insiders, ktory obowiazywal przy tych samych gratisach 21-22.11. Tresci ich poradnika nie czytalem - nie sprawdzono, czy maja te trzy punkty."
+      "notatki": "Ich poradnik BF/CM na LEGO.pl, opublikowany tego samego dnia co nasza sekcja #listopad-bf. Nasza przewaga jest w trzech szczegolach, ktore wzielismy z regulaminow karty BF (sprawdzone 26.11 rano): (1) oba progowe gratisy, 40914 od 1070 zl i 40918 od 705 zl, koncza sie 29.11, a nie w Cyber Monday 30.11; (2) regulamin 40918 WYKLUCZA z progu zakup 21375 Godzilli, wiec kupujacy sam zestaw za 1699,99 zl dostanie 40888, ale nie kule; (3) w regulaminach BF NIE MA warunku czlonkostwa w Insiders, ktory obowiazywal przy tych samych gratisach 21-22.11. Tresci ich poradnika nie czytalem - nie sprawdzono, czy maja te trzy punkty. | AKTUALIZACJA 28.11: zamiast nowego wpisu zaktualizowali ten sam adres (nota '27.11: pelna lista rabatow juz dostepna, kody na punkty nieaktualne') - przeciwnie niz faniklockow, ktory mnozy wpisy. Podaja tez, ze w Cyber Monday 30.11 ma byc DODATKOWY gratis tylko dla zamowien online - u zrodla tego nie potwierdzilem, karta BF z 27.11 jedynie zapowiadala Cyber Monday bez szczegolow. Do sprawdzenia 30.11."
     },
     {
       "serwis": "faniklockow.pl",
@@ -5293,6 +5293,30 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "Kolejna czesc serii zapowiedzi 2027; tego samego dnia fanklockow wypuscil swoja wersje BrickHeadz 2027."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Jakie gratisy pojawia sie w sklepach LEGO w 2026 roku? Oto aktualizowana lista promocji (edycja 27.11)",
+      "url": "https://faniklockow.pl/2026/11/27/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-11-27",
+      "data_wykrycia": "2026-11-28",
+      "typ": "promocja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [
+        "lego"
+      ],
+      "notatki": "Ich rolujaca lista gratisow - trzecia edycja tego samego formatu w listopadzie (01.11, 16.11, 27.11): zamiast aktualizowac jeden adres, publikuja nowy wpis, co rozbija linkowanie i historie. Nasz odpowiednik to jedna strona /kalendarz-promocji-lego/ z sekcjami i statusami. WAZNE (z wyszukiwarki, nie z lektury): edycja z 16.11 podawala progi 685 zl dla 40914 i 1000 zl dla 40918 z adnotacja 'do potwierdzenia' - czyli odwrotnie i inaczej niz regulamin, ktory daje 1070 zl dla 40914 i 705 zl dla 40918. My od 21.11 mamy progi z regulaminu. NIE SPRAWDZONO u zrodla: Firecrawl byl dzis niedostepny (wymaga ponownego logowania), wiec tresci wpisu nie czytalem."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Najlepsze z najlepszych, czyli zbior ofert, obok ktorych nie warto przejsc obojetnie",
+      "url": "https://faniklockow.pl/2026/11/27/najlepsze-z-najlepszych-czyli-zbior-ofert-obok-ktorych-nie-warto-przejsc-obojetnie/",
+      "data_publikacji": "2026-11-27",
+      "data_wykrycia": "2026-11-28",
+      "typ": "promocja",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zbiorczy przeglad ofert Black Friday. Z wyszukiwarki wynika, ze pisza o rabatach 'do 40%' i 160 zestawach na liscie przecen oraz o jednorazowej wymianie 100 punktow na 500 od 27.11 - ZADNEJ Z TYCH LICZB NIE SPRAWDZILEM u zrodla (Firecrawl niedostepny). Moj wlasny odczyt karty BF z 27.11 pokazywal rabaty 20-50%, wiec ich 'do 40%' i moje 50% sie nie zgadzaja - do rozstrzygniecia przy nastepnym dzialajacym odczycie."
     }
   ],
   "obserwacje_strategiczne": {
