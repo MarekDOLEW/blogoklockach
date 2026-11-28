@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+
+## 2026-11-28 08:50 · ŁOWCA · Do zrobienia
+
+**Konektor Firecrawl_Scrape na koncie claude.ai odrzuca połączenie (wymaga ponownego logowania) — sesja Łowcy nie może weryfikować kart ME przez MCP.**
+**Mamy?** — częściowo: kontrola kart `me-ceny-stron.mjs` działa (własny klucz API w env) i dziś poprawiła 4 ceny, ale ręczna weryfikacja 3 gorących dealów przed pushem stoi
+**Zrobić:** — zalogować ponownie konektor Firecrawl w claude.ai → Settings → Connectors
+**Kto:** — Marek (decyzja, panel)
 ## 2026-11-28 08:30 · RADAR · Do zrobienia
 
 **nasze dane · 28.11** — **W weekend Black Friday tabele hubów pokazują ceny LEGO.com z 24 listopada.** Wszystkie 933 oferty `lego` w `sety.json` i w feedzie mają tę jedną datę, bo listing LEGO.pl odświeża się raz w tygodniu (Routine „Dane wt"). Dla [75192](/zestaw/75192/) mamy u siebie 3599,99 zł (cennik), a wczoraj na karcie BF było 2519,99 zł.

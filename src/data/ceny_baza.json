@@ -142,8 +142,8 @@
  "11513": {
   "nazwa": "Kompozycja z ciemnych kwiatów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 199,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 198,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "mediaexpert"
  },
  "75455": {
@@ -296,8 +296,8 @@
  "42240": {
   "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
   "cena_katalogowa": 999.99,
-  "najnizsza_cena": 638.99,
-  "najnizsza_data": "2026-11-21",
+  "najnizsza_cena": 619,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "75453": {
@@ -352,9 +352,9 @@
  "43031": {
   "nazwa": "Podwójna gitara Olivii Rodrigo",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 359.99,
-  "najnizsza_data": "2026-11-20",
-  "najnizsza_sklep": "empik"
+  "najnizsza_cena": 358,
+  "najnizsza_data": "2026-11-28",
+  "najnizsza_sklep": "allegro"
  },
  "31394": {
   "nazwa": "Urocze zwierzątka: Panda ruda",
@@ -1549,8 +1549,8 @@
  "30730": {
   "nazwa": "Wyposażenie Trenera",
   "cena_katalogowa": 16.49,
-  "najnizsza_cena": 9,
-  "najnizsza_data": "2026-10-29",
+  "najnizsza_cena": 8.9,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "21350": {
@@ -1871,8 +1871,8 @@
  "75442": {
   "nazwa": "Myśliwiec N-1 Mandalorianina",
   "cena_katalogowa": 1079.99,
-  "najnizsza_cena": 849,
-  "najnizsza_data": "2026-10-02",
+  "najnizsza_cena": 819,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "mediaexpert"
  },
  "71861": {
@@ -1920,9 +1920,9 @@
  "43300": {
   "nazwa": "Kubuś Puchatek",
   "cena_katalogowa": 649.99,
-  "najnizsza_cena": 449,
-  "najnizsza_data": "2026-11-25",
-  "najnizsza_sklep": "xkom"
+  "najnizsza_cena": 389,
+  "najnizsza_data": "2026-11-28",
+  "najnizsza_sklep": "mediaexpert"
  },
  "71860": {
   "nazwa": "Tytanowy mech Lloyda — 15. rocznica",
@@ -1948,9 +1948,9 @@
  "75397": {
   "nazwa": "Barka Jabby",
   "cena_katalogowa": 2149.99,
-  "najnizsza_cena": 1640.3,
-  "najnizsza_data": "2026-10-03",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 1599,
+  "najnizsza_data": "2026-11-28",
+  "najnizsza_sklep": "mediaexpert"
  },
  "42146": {
   "nazwa": "Żuraw gąsienicowy Liebherr LR 13000",
@@ -2067,9 +2067,9 @@
  "75409": {
   "nazwa": "Patrolowiec typu Firespray Jango Fetta",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 958.05,
-  "najnizsza_data": "2026-10-29",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 949,
+  "najnizsza_data": "2026-11-28",
+  "najnizsza_sklep": "mediaexpert"
  },
  "10323": {
   "nazwa": "Automat do gry PAC-MAN",
@@ -2708,8 +2708,8 @@
  "72306": {
   "nazwa": "PlayStation",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 548.81,
-  "najnizsza_data": "2026-11-23",
+  "najnizsza_cena": 547.25,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "10315": {
@@ -3394,8 +3394,8 @@
  "40957": {
   "nazwa": "Wiosenny wieniec",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 177.77,
-  "najnizsza_data": "2026-11-23",
+  "najnizsza_cena": 177.5,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "42663": {
@@ -3534,8 +3534,8 @@
  "31151": {
   "nazwa": "Tyranozaur",
   "cena_katalogowa": 259.99,
-  "najnizsza_cena": 213.72,
-  "najnizsza_data": "2026-10-04",
+  "najnizsza_cena": 209.33,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "71811": {
@@ -6048,8 +6048,8 @@
  "43240": {
   "nazwa": "Diabolina jako smok",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 215.89,
-  "najnizsza_data": "2026-09-07",
+  "najnizsza_cena": 212.96,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "71842": {
@@ -6652,8 +6652,8 @@
  "40892": {
   "nazwa": "Kolekcja odznak z regionu Kanto",
   "cena_katalogowa": 129.99,
-  "najnizsza_cena": 620,
-  "najnizsza_data": "2026-11-27",
+  "najnizsza_cena": 598.99,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "76900": {
@@ -7529,8 +7529,8 @@
  "75384": {
   "nazwa": "Karmazynowy Jastrząb",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 115.89,
-  "najnizsza_data": "2026-09-23",
+  "najnizsza_cena": 114.49,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "10369": {
@@ -8112,9 +8112,9 @@
  "21062": {
   "nazwa": "Fontanna di Trevi",
   "cena_katalogowa": 689.99,
-  "najnizsza_cena": 477.99,
-  "najnizsza_data": "2026-11-19",
-  "najnizsza_sklep": "allegro"
+  "najnizsza_cena": 429,
+  "najnizsza_data": "2026-11-28",
+  "najnizsza_sklep": "mediaexpert"
  },
  "21349": {
   "nazwa": "Czarno-biały kot",
@@ -8126,8 +8126,8 @@
  "21583": {
   "nazwa": "Przygoda Steve'a w tajdze",
   "cena_katalogowa": 41.99,
-  "najnizsza_cena": 27.54,
-  "najnizsza_data": "2026-09-26",
+  "najnizsza_cena": 26.9,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "21584": {
@@ -8350,8 +8350,8 @@
  "77005": {
   "nazwa": "Knuckles kontra Dr. Eggman w mechu Egg Crusher",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 121.66,
-  "najnizsza_data": "2026-09-18",
+  "najnizsza_cena": 120.99,
+  "najnizsza_data": "2026-11-28",
   "najnizsza_sklep": "allegro"
  },
  "77006": {
