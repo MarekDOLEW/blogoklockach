@@ -168,6 +168,11 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-28 08:55 · SKRZYNKA · Zrobione
+
+**GitHub (tylkoklocki-teksty) → opublikowane (20064cc):** 0064 [Black Friday na LEGO.pl do 30 listopada](/artykuly/black-friday-na-lego-pl-do-30-listopada-upominki-40914-i-40918/) (4 zdjęcia) i recenzja 027 [11514](/artykuly/lego-11514-kosmosy-recenzja/) (3 zdjęcia).
+**Kto:** — Code (automat skrzynki)
+
 
 ## 2026-11-28 08:50 · ŁOWCA · Do zrobienia
 
