@@ -168,6 +168,13 @@ skasowane — jeśli szukasz czegoś starszego, jest tam:
 Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 
 <!-- WPISY PONIŻEJ — wszystko nad tą linią zostaje w dzienniku na zawsze -->
+## 2026-11-28 05:15 · SCOUT · Do zrobienia
+
+**Dla 79 zestawów `wycofania.json` i `sety.json` podają różne nazwy, więc dział Wycofania i hub tego samego zestawu nazywają go inaczej — np. 10370 to „Poinsecja" w wycofaniach i „Botanicals Gwiazda Betlejemska" na hubie, 21349 „Kot w smokingu" wobec „Czarno-biały kot", 75367 „Krążownik typu Venator" wobec „Gwiezdny Niszczyciel typu Venator".**
+**Mamy?** — częściowo: oba pliki są poprawne same w sobie. Nazwy w `wycofania.json` pochodzą z zaciągu lego.pl (`lego-ostatnie.mjs`), nazwy w `sety.json` są nasze. Licznik: 79 rozbieżności na 439 wpisów wycofań, sprawdzone dziś porównaniem obu plików po numerze.
+**Zrobić:** — w widoku Wycofań brać nazwę z `sety.json`, gdy numer tam jest, a nazwę z zaciągu zostawić tylko dla numerów, których w rejestrze nie ma. Poprawka w szablonie strony, nie w danych — `wycofania.json` ma jednego właściciela (runner Wycofań) i ręczne przepisywanie 79 nazw rozjedzie się przy następnym zaciągu.
+**Kto:** — Code (dane, strona)
+
 ## 2026-11-27 08:55 · SKRZYNKA · Zrobione
 
 **GitHub (tylkoklocki-teksty) → opublikowane (6d147d5):** 0063 [LEGO Fortnite 77084 P-1000 i 77088 Guaco's Tacos](/artykuly/lego-fortnite-77084-p-1000-i-77088-guacos-tacos-oficjalnie-dwa-zestawy/) (3 zdjęcia).
@@ -197,6 +204,7 @@ Archiwizuje `node scripts/archiwum-dziennika.mjs`.
 **Mamy?** — częściowo: zestaw jest od dziś w `sety.json` z polem `bez_rrp` i ma hub `/zestaw/5010881/`, ale `grep -c "5010881" src/pages/kalendarz-promocji-lego.md` daje dziś 0. Kalendarz wspomina Centrum Nagród tylko przy bombkach z Harrym Potterem za 1700 punktów.
 **Zrobić:** — dopisać 5010881 do `kalendarz-promocji-lego.md` tam, gdzie stoją nagrody punktowe (akapit o Centrum Nagród i wiersz „Co trwa teraz"): 2400 punktów, od 27.11.2026, z linkiem do huba i zastrzeżeniem, że nagrody schodzą po wyczerpaniu zapasu, a nie w ustalonym terminie.
 **Kto:** — Code (dane, strona)
+↻ 2026-11-28 (Scout): nadal aktualne — `grep -c "5010881" src/pages/kalendarz-promocji-lego.md` daje dziś 0, a doszła druga pozycja do tego samego miejsca: **40903 Mini gwiazdy betlejemskie**, upominek do zamówień w sklepie LEGO w grudniu 2026 (według StoneWars okno 2–8 grudnia, progu LEGO nie podało), od dziś w `sety.json` z hubem `/zestaw/40903/`. Przy 40903 w kalendarzu trzeba zaznaczyć, że to okno nieoficjalne — jedno źródło branżowe, bez progu.
 
 ## 2026-11-26 09:05 · SKRZYNKA · Zrobione
 

@@ -51240,5 +51240,18 @@
   "dla_rodzica": "Tego zestawu nie da się kupić za pieniądze — trzeba mieć uzbierane 2400 punktów Insiders, czyli równowartość kilku większych zakupów. Jako samodzielny prezent nie zadziała: to mała scenka na półkę, bez elementu zabawowego, z oznaczeniem 10+ wynikającym z drobnych części.",
   "dla_afol": "2400 punktów za 135 elementów to drogo w przeliczeniu na element, ale świąteczne nagrody Insiders są jednosezonowe i po zamknięciu akcji zostają tylko na rynku wtórnym. Minus praktyczny: nagroda przychodzi w zwykłym kartonie, nie w zadrukowanym pudełku zestawu, co dla zbieraczy trzymających pudełka ma znaczenie.",
   "oferty": []
+ },
+ "40903": {
+  "nazwa": "Mini gwiazdy betlejemskie",
+  "seria": "Botanicals",
+  "cena_katalogowa": null,
+  "bez_rrp": "prezent GWP — upominek do zamówień w sklepie LEGO w grudniu 2026 (według StoneWars okno 2–8 grudnia); progu zakupów ani wyceny LEGO nie podało",
+  "elementy": 232,
+  "wiek": "18+",
+  "premiera": "2026-12",
+  "opis": "Dwie miniaturowe gwiazdy betlejemskie w budowanych doniczkach: 232 elementy, 13 cm wysokości i 9,5 cm szerokości w całym zestawieniu. Jeden kwiat jest ciemnoczerwony, drugi w jasnym beżu, a płatki w obu powstają z elementu gwiazdki do rzucania, znanego z serii Ninjago. Zestawu nie ma w sprzedaży — LEGO dodaje go do zamówień w swoim sklepie w grudniu 2026; StoneWars podaje okno od 2 do 8 grudnia, a progu zakupów producent nie ogłosił.",
+  "dla_rodzica": "Oznaczenie 18+ wynika z drobnych, delikatnych elementów i z tego, że to dekoracja na półkę, nie zabawka. Nie da się tego zestawu kupić osobno — trafia do koszyka tylko jako gratis do zakupów w sklepie LEGO, więc nie planuj go jako prezentu samodzielnego.",
+  "dla_afol": "Mniejsza alternatywa dla [10370](/zestaw/10370/), który ma 608 elementów, 21 cm wysokości i 49,99 euro w cenniku, a od grudnia 2026 schodzi z oferty. Płatki w obu modelach powstają z tego samego elementu gwiazdki do rzucania, więc konstrukcyjnie to ta sama sztuczka w dwóch skalach. Jako gratis zestaw żyje tylko tyle, ile okno promocyjne.",
+  "oferty": []
  }
 }
